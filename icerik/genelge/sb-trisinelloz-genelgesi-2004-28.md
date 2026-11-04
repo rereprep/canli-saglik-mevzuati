@@ -2,32 +2,68 @@
 id: "sb-trisinelloz-genelgesi-2004-28"
 baslik: "Trişinelloz Genelgesi (2004/28)"
 tur: "genelge"
+tarih: "2004-03-01"
 sayi: "2004/28"
-birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Trişinelloz Genelgesi (2004/28) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["halk sağlığı", "trişinelloz", "paraziter hastalıklar"]
+birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "Trişinellozis vakalarında klinik yaklaşım, tanı, tedavi, korunma, filyasyon ve epidemiyolojik sürveyans rehberi"
+etiketler: ["halk sağlığı", "trişinelloz", "paraziter hastalıklar", "gıda güvenliği"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 675-688"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.35. Trişinelloz Genelgesi (2004/28)
+
+T.C.
+SAĞLIK BAKANLIĞI
+Temel Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı : B100TSH0110002 / 3036
+Konu : Trişinellozis
+
+01.03.2004
+
+GENELGE
+2004/28
+
+İki bin dört yılı Ocak ayı başlarında İzmir ilinde çiğ köfte yiyen vatandaşlarımızda ortaya çıkan ve Bakanlığımızca yapılan incelemeler neticesinde etkeninin domuz eti kaynaklı Trichinella olduğu anlaşılan trişinellozis epidemisi ile ilgili olarak yürütülen çalışmalar başarıyla tamamlanmıştır.
+
+Ülkemizde bu zamana kadar görülmeyen söz konusu hastalıkla ilgili olarak sağlık çalışanlarının ve halkın bilgilendirilmesi ile bilinçlendirilmesine yönelik eğitimler, hastalığın tanısı ve tedavisine yönelik hizmetler, vaka kontrol çalışmaları, ilgili kurum ve kuruluşlarla koordinasyon gibi hizmetler büyük ölçüde gerçekleştirilmiştir.
+
+Trişinellozis ile ilgili klinik tanımlama, vaka tanımları, tanı, tedavi ve koruyucu önlemler ile bu vakalarda yapılması gereken işlemleri içeren "Trişinellozis Vakalarında Yaklaşım" rehberi ilişikte gönderilmektedir.
+
+Söz konusu rehberin bütün sağlık kurum ve kuruluşlarına ulaştırılmasının sağlanması ile ilişikte verilen bilgiler çerçevesinde konuya hassasiyetle yaklaşılarak gereğinin yapılması hususlarında;
+
+Bilgilerinizi ve gereğini rica ederim.
+
+Prof. Dr. Necdet ÜNÜVAR
+Bakan a.
+Müsteşar
+
+EK:
+Rehber (14 sayfa)
+
+DAĞITIM:
+81 İl Valiliğine
+
+---
 
 ### TRİŞİNELLOZİS VAKALARINDA YAKLAŞIM
 
 1. Giriş
 
-Parazit hastalıkları, dünyanın bir çok yerinde olduğu gibi ülkemizde de gerek sosyo-kültürel gerekse sosyo-ekonomik düzeylerdeki yetersizlik nedeniyle hålå önemli bir halk sağlığı problemi olmaya devam etmektedir. Ülkemizin ılıman bir iklim kuşağında yer almasının getirdiği iklim yapısı da parazit hastalıkları için uygun bir ortam oluşturmaktadır. Bunlara denetlemelerdeki yetersizlikler, kısa yoldan çok kazanç elde etmek isteyen birtakım kişilerin kätü niyetleri ve toplumun yanlış beslenme alışkanlıkları da eklendığinde, mevcut parazit hastalıklarına yenilerinin ilâvesi ile halkın sağlığına yönelik tehditler artmaktadır.
+Parazit hastalıkları, dünyanın bir çok yerinde olduğu gibi ülkemizde de gerek sosyo-kültürel gerekse sosyo-ekonomik düzeylerdeki yetersizlik nedeniyle hâlâ önemli bir halk sağlığı problemi olmaya devam etmektedir. Ülkemizin ılıman bir iklim kuşağında yer almasının getirdiği iklim yapısı da parazit hastalıkları için uygun bir ortam oluşturmaktadır. Bunlara denetlemelerdeki yetersizlikler, kısa yoldan çok kazanç elde etmek isteyen birtakım kişilerin kötü niyetleri ve toplumun yanlış beslenme alışkanlıkları da eklendığinde, mevcut parazit hastalıklarına yenilerinin ilâvesi ile halkın sağlığına yönelik tehditler artmaktadır.
 
-Bu hastalıklardan birisi de ülkemizde bu zamana kadar bir pidemisi görülmeyen trişinellozistır.
+Bu hastalıklardan birisi de ülkemizde bu zamana kadar bir epidemisi görülmeyen trişinellozistır.
 
-Trişinellozis (Trichinellosis) -hastalık aynı zamanda Trişinozis (Trichinosis) olarak da bilinir- Trichinella spiralis, T. nativa, T. pseudospiralis, T. britovi, T, nelsoni, T. papuae, T. murrelli ve T. zimbabwensis gibi nematod larvalarının neden olduğu gıda kaynaklı zoonoz bir parazit enfeksiyonudur. Larvalarının kaslara yerleşmesinden dolayı Trichine/la türleri "doku nematodları" olarak adlandırılmaktadır.
+Trişinellozis (Trichinellosis) -hastalık aynı zamanda Trişinozis (Trichinosis) olarak da bilinir- Trichinella spiralis, T. nativa, T. pseudospiralis, T. britovi, T. nelsoni, T. papuae, T. murrelli ve T. zimbabwensis gibi nematod larvalarının neden olduğu gıda kaynaklı zoonoz bir parazit enfeksiyonudur. Larvalarının kaslara yerleşmesinden dolayı Trichinella türleri "doku nematodları" olarak adlandırılmaktadır.
 
 2. Bulasma ve Epidemiyoloji
 
 Trişinellozis, esas olarak enfekte domuz etlerinin çiğ veya az pişmiş olarak tüketilmesi ile olmaktadır: ancak, ayı, at, köpek, tilki vb. hayvanların Trichinella larvaları ile enfekte etlerinin çığ veya az pişmiş olarak yenmesi sonucu da bir bulaşma söz konusudur.
 
-Bu hayvanlara ait etleri ya da et ürünlerini çiğ veya az pişmiş olarak yeme alışkanlığı olan toplumlarda her zaman epidemilerin olabileceği aşikärdır. Nitekim, değişik bilimsel kaynaklar bir çok trişinellazis epidemisini bildirmiştir.
+Bu hayvanlara ait etleri ya da et ürünlerini çiğ veya az pişmiş olarak yeme alışkanlığı olan toplumlarda her zaman epidemilerin olabileceği aşikärdır. Nitekim, değişik bilimsel kaynaklar bir çok trişinellozis eepidemisini bildirmiştir.
 
 Trichinella, konak zinciri domuz-domuz-domuz şeklinde olan bir parazit olarak bilinmekle birlikte, hayvanlar arasındaki leş yeme, birbirini yeme veya hayvanlara enfekte etlerin çiğ olarak verilmesi sonucu parazitler diğer hayvanları da enfekte edebilmektedir. Insanlar da hatalı beslenme alışkanlıkları yüzünden bu zincirdeki yerlerini almaktadırlar.
 
@@ -39,7 +75,7 @@ Temal Sağik Hamatieri Senal Matinlige
 
 Insanlar tarafından çiğ veya az pişmiş etlerle alınan kist içindeki Trichinella, kistin midede erimesi sonucu açığa çıkar. Ince bağırsaklara geçen larvalar 36 saat içinde erişkin hale gelir ve çiftleşerek larva doğurmaya başlar; her dişi yaklaşık olarak 4- 16 hafta boyunca hareketli 1500 civarında larva doğurur. Doğan larvalar ince bağırsak mukozasına saldırır: ayrıca, bağırsaklardaki lenf veya mezenterik venüller vasıtasıyla kana geçer ve tüm vücuda yayılır. Larvalar, çığneme kasları, dıl, diyafram, boyun, kaburga kasları, biseps ve gastroknemius kasları, kalp kası ve gırtlaktaki çizgili kaslara yerleşerek kistleşir. Bu kistler, 6-8 ay sonra kalsifikasyona uğrar: kalsifikasyon genellikle 1 yılda tamamlanır. Larvalar kasların dışında beyin dokusuna da yerleşebilir.
 
-Trişinelloziste, değişik Trichine/la türlerine ait ölüm vakalarının varlığı da söz konusudur, T. spiralis, T, nativa, T. pseudospiralis, T. murrelli ve T. nelsoni kaynaklı ölüm vakaları bildirilirken, T. britavi kaynaklı ölüm vakası bildirimi mevcut değildir.
+Trişinelloziste, değişik Trichinella türlerine ait ölüm vakalarının varlığı da söz konusudur, T. spiralis, T. nativa, T. pseudospiralis, T. murrelli ve T. nelsoni kaynaklı ölüm vakaları bildirilirken, T. britovi kaynaklı ölüm vakası bildirimi mevcut değildir.
 
 Trişinelloziste insandan insana bulaşma olmamaktadır; ancak, transplâsental bulaşmanın olabileceği belirtilmektedir. Transplâsental bulaşma domuzlar için söz konusu değildir.
 
@@ -97,7 +133,7 @@ Ternel Sağ h Hiaretleri Gerel Mödür-lüği
 
 Larvaların kaslara yerleşmesinden 10 yıl sonra kaslarda güçsüzlük, konjonktivit ve koordinasyon bozukluğuna yol açabildiği, serumda IgG belirlenebildiği, hatta herhangi bir belirti vermeden enfeksiyondan 39 yıl sonra kaslarda canlı larvalara rastlanabildiği belirtilmektedir.
 
-4. Tani ve Laboratuvar Bulgulari Parazit hastalıklarında eozinafili önemli bulgulardan biridir. Trişinelloziste de % 20 düzeylerinde bir eozinofili görülebilir; bu değer sıklıkla % 50'lerin üzerine de çıkabilmekte, hatta bazen % 90'ları bulabilmektedir. Eozinofili genel olarak larvaların göçü sırasında ortaya çıkabilen önemli bir laboratuvar bulgusudur. Kreatinfosfokinaz (CPK) ve laktat dehidrojenaz (LDH) gibi kas enzimlerinde bir yükselme görülebilmektedir. Özellikle CPK yüksekliği vakaların % 75-90 ında görülebilmekte ve enfeksiyondan 2-5 hafta sonra ortaya çıkabilmektedir. Tanıda, klinik belirtilerin yanı sıra laboratuvar bulgularından eozinofili ile seralajik testler ve kas biyopsileri önemli yer tutar. Bunların yanı sıra nadir de olsa kan ve beyin omurilik sıvısı gibi vücut sıvılarında larva, hastanın ishali varsa dışkıda erişkin Trichine/la veya larvası bulunabilir. Larvaların oldukça enfektif oldukları unutulmamalidir. 4.1. Histopatolojik tanı: Kas biyopsisi (gastraknemius, deltoid ve biseps kaslarından biyopsi örneği alınabilir) ile alınan örnekte kas içinde kistleşmiş Trichinella larvalarının gösterilmesi şeklindedir. Kas biyopsileri enfeksiyondan en erken 10 gün sonra alınabilir; ancak, genelde pozitif sonuçlar hastalığın başlangıcından 2-3 hafta sonra alınan kas biyopsilerinden elde edilebilir. 4.2. Seralojik tanı: Larvaların alınmasını takiben genelde iki hafta sonra ELISA (Enzyme Linked Immunosorbent Assay) yöntemi ile parazite spesifik IgGler belirlenebilir. 4.3. Ayırıcı tanı: Trişinellozisteki bulguların polinörit, akut anterıör poliomyelit, myastenia gravis, menenjit, ensefalit, dermatomyozit, poliarthritis nodosa, akut glomerülonefrit, leptospirosis ile bir çok bakteriyel, viral ve parazit enfeksiyonunu, toksik veya allerjik reaksiyonları taklit edebileceği, bu nedenle de ayırıcı tanıda dikkat edilmesi gerektiği bilinmelidir.
+4. Tani ve Laboratuvar Bulgulari Parazit hastalıklarında eozinafili önemli bulgulardan biridir. Trişinelloziste de % 20 düzeylerinde bir eozinofili görülebilir; bu değer sıklıkla % 50'lerin üzerine de çıkabilmekte, hatta bazen % 90'ları bulabilmektedir. Eozinofili genel olarak larvaların göçü sırasında ortaya çıkabilen önemli bir laboratuvar bulgusudur. Kreatinfosfokinaz (CPK) ve laktat dehidrojenaz (LDH) gibi kas enzimlerinde bir yükselme görülebilmektedir. Özellikle CPK yüksekliği vakaların % 75-90 ında görülebilmekte ve enfeksiyondan 2-5 hafta sonra ortaya çıkabilmektedir. Tanıda, klinik belirtilerin yanı sıra laboratuvar bulgularından eozinofili ile seralajik testler ve kas biyopsileri önemli yer tutar. Bunların yanı sıra nadir de olsa kan ve beyin omurilik sıvısı gibi vücut sıvılarında larva, hastanın ishali varsa dışkıda erişkin Trichinella veya larvası bulunabilir. Larvaların oldukça enfektif oldukları unutulmamalidir. 4.1. Histopatolojik tanı: Kas biyopsisi (gastraknemius, deltoid ve biseps kaslarından biyopsi örneği alınabilir) ile alınan örnekte kas içinde kistleşmiş Trichinella larvalarının gösterilmesi şeklindedir. Kas biyopsileri enfeksiyondan en erken 10 gün sonra alınabilir; ancak, genelde pozitif sonuçlar hastalığın başlangıcından 2-3 hafta sonra alınan kas biyopsilerinden elde edilebilir. 4.2. Seralojik tanı: Larvaların alınmasını takiben genelde iki hafta sonra ELISA (Enzyme Linked Immunosorbent Assay) yöntemi ile parazite spesifik IgGler belirlenebilir. 4.3. Ayırıcı tanı: Trişinellozisteki bulguların polinörit, akut anterıör poliomyelit, myastenia gravis, menenjit, ensefalit, dermatomyozit, poliarthritis nodosa, akut glomerülonefrit, leptospirosis ile bir çok bakteriyel, viral ve parazit enfeksiyonunu, toksik veya allerjik reaksiyonları taklit edebileceği, bu nedenle de ayırıcı tanıda dikkat edilmesi gerektiği bilinmelidir.
 
 Ayrıca, aynı kaynaktan çiğ veya az pişmiş enfekte etleri yiyen birden fazla kişi olabileceğinden, gıda kaynaklı enfeksiyonların da ayırıcı tanıda unutulmaması gerekmektedir.
 
@@ -271,7 +307,7 @@ Etlerin dondurulma dereceleri -15 °Cyi geçtikçe de bekletme süreleri azalmak
 
 • Etlerin tuzlama, dumanlama, kurutma ve mikrodalga gıbı yöntemlerle muameleye tabi tutulması veya baharatların eklenmesi ile parazitlerin tahrip olmayacaği ve enfektivitelerini devam ettirecekleri de akıldan çıkarılmamalıdır.
 
-• Etlerin gama radrasyonla sterilize edilmesi ile Trichine/la larvalarının tahrip olduğu bildirilmektedir: ancak, radyasyon etin kalitesini ve kokusunu da etkilemektedir.
+• Etlerin gama radrasyonla sterilize edilmesi ile Trichinella larvalarının tahrip olduğu bildirilmektedir: ancak, radyasyon etin kalitesini ve kokusunu da etkilemektedir.
 
 • Insan tüketimine sunulacak gıdalarla ilgili olarak "çiftlikten sofraya gıda güvenliği" kapsamında işletmelerde GMP (Good Manufacturing Practise, Iyi Üretim Uygulamaları) ve HACCP (Hazard Analyses Critical Control Point, Kritik Kontrol Noktalarında Tehlike Analizi) sisteminin uygulanması sağlanmalıdır, Bu anlanda öncelikle domuzların yetiştirilmesinden, insanların tüketimine sunulmasına kadar bütün safhalarda gerekli bütün hukuki zeminler oluşturularak titizlikle uygulanmalı, çiftlikler, hayvanların enfekte olmasına müsaade etmeyecek şekilde kurulmalı ve hayvansal gıdalar haşlandıktan sonra domuzlara verilmelidir.
 

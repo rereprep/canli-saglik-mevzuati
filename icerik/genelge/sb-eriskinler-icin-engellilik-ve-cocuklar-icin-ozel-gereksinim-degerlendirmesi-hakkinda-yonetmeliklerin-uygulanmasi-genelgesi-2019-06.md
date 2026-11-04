@@ -2,6 +2,7 @@
 id: "sb-eriskinler-icin-engellilik-ve-cocuklar-icin-ozel-gereksinim-degerlendirmesi-hakkinda-yonetmeliklerin-uygulanmasi-genelgesi-2019-06"
 baslik: "Erişkinler İçin Engellilik ve Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması Genelgesi (2019/06)"
 tur: "genelge"
+tarih: "2019-03-25"
 sayi: "2019/06"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Erişkin engellilik ve çocuklar için özel gereksinim değerlendirmesi yönetmeliklerinin sahada uygulanma esaslarını belirler."
@@ -9,102 +10,114 @@ etiketler: ["engelli raporu", "çözger", "özel gereksinim"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 247-250"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-2.3.43. Erişkinler İçin Engellilik ve Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması Genelgesi (2019/06)
+### 2.3.43. Erişkinler İçin Engellilik ve Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması Genelgesi (2019/06)
 
-### T.C. SAGLIK BAKANLIGI Sağhk: Hizmetleri Genel Mudürlugu
+T.C.  
+SAĞLIK BAKANLIĞI  
+Sağlık Hizmetleri Genel Müdürlüğü
 
-düzeyde OGV, Ileri düzeyde OGV, Çok ileri düzeyde OGV, Belirgin özel gereksinimi vardir (BOGV). Ozel koşul gereksinimi vardır (OKGV)* olarak belirlenmiştir. Bununla birlikte, ilgi (c)'de kayıtlı Yöntmeliğin "Kazanılmıs haklar" başlıklı 15 inci maddesinin birinci fıkrasında, 'Bu Yönetmelikte geçen "Çok ileri düzeyde OGV", "Belirgin OGV" ve "Ozel koşul gereksinimi var (OKGV)" ifadeleri, ilgili mevzuatın uygulanması açıaından ağır engellilik durumunu iřade eder.' hilkmüne yer verilerek, målga Yönetmelik ile de bağlantı kurulmuştur.
+Sayı : 23642684  
+Konu : Erişkinler İçin Engellilik ve Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması
 
-Erişkinler için ilgi (b)' de kayıtlı yeni Yönetmelikte. "ağır özürlü" ya da "ağır engelli" ifadesinin yerine. "lam bağımlı engelli birey" ifadesi getirilmiştir. İlgi (b)'de kayıtlı Yönetmeliğin & inci maddesinin (f) fikrasının ikinci cümlesinde, "Bu Yönetmelikte geçen "tam bağımlı engeli birey" ifadesi ilgil mevzuatın uygulanması açısından ağır engellilik durumunu ifade eder." hükmline yer verilerck. mülga Yönetmelik ile de bağlantı kurulmustur.
+### GENELGE  
+2019/06
 
-Ana yapısı değişmese bile, ilgi (b) ve ilgi (c) 'de kayıth Yönetmeliklerle aşağıdaki şekilde yeni bazı düzenlemeler getirilmiştir:
+İlgi :  
+a) 30/3/2013 tarihli ve 28603 sayılı Resmî Gazete'de yayımlanan Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik  
+b) 20/2/2019 tarihli ve 30692 sayılı Resmî Gazete'de yayımlanan Erişkinler İçin Engellilik Değerlendirmesi Hakkında Yönetmelik  
+c) 20/2/2019 tarihli ve 30692 sayılı Resmî Gazete'de yayımlanan Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmelik
 
-a) 5378 sayılı Engelliler Hakkında Kanun'a uygun olarak , yeni Yönetmelikte "Belrlt" ifadesi yerine, "engelli" ifadesi kullamlmıştır. Çocuklarda i engell" ifadesi yerine "özel gereksinimi vardır (ÖGVY* ifadesi kullanılmıstır.
+Bilindiği üzere, ilgi (b)'de kayıtlı Erişkinler İçin Engellilik Değerlendirmesi Hakkında Yönetmelik ile ilgi (c)'de kayıtlı Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmelik, 20/2/2019 tarihli ve 30692 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiştir. Erişkinler İçin Engellilik Değerlendirmesi Hakkında Yönetmeliğin 18 inci maddesiyle ilgi (a)'da kayıtlı "Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik" yürürlükten kaldırılmıştır.
 
-b) Maluliyete dair durum bildirir sağlık kurulu raporlan, ilgi (bide kayıtlı Yönetmelik kapsamında değerlendirilmeyeceği açıkça belirtilmiştir.
+İlgi (a)'da kayıtlı mülga Yönetmelikte, çocuk yaş grubuna dair özel düzenlemelerin bulunmaması, 0-3 yaş gelişim geriliği olan çocuklarda ağır engelliliğin tespitinde güçlükler ve değerlendirme zorlukları yaşanması, 0-3 yaş aralığında rapor alacak çocuklarda tanılamalarda kullanılan testlerde uygulama güçlüğü olması, motor-mental gelişimin sürmesi nedeni ile sabit bir engel oranı tespitinin yapılamaması nedenleriyle çocukların değerlendirilmesinde standart değerlendirme süreçlerine ihtiyaç duyulmuş ve çocuklara özel bir Yönetmelik çıkarılmıştır.
 
-c) Erişkinler için engellilik sağlık kurulu raporu verilirken, sağlık kurulu tarafından ağır engelliligin standart biçimde değerlendirilmesinin sağlanması amacıyla Fonksiyonel Bağımsızlık Olçeği (FIM) formunun uygulanması zorunlu hale getirilmiştir.
+İlgi (b) de ve ilgi (c) de kayıtlı Yönetmeliklerin dayanak maddelerinde de yer alan 1/7/2005 tarihli ve 5378 sayılı Engelliler Hakkında Kanunun 5 inci maddesinin birinci fıkrasında, "Bireyin engelliliğini ve engellilikten kaynaklanan özel ihtiyaçlarını belirleyen derecelendirmeler, sınıflandırmalar ve tanılamalarda uluslararası temel yöntemler esas alınır." hükmüne yer verilmiştir. Bu hükme uygun olarak, Birleşmiş Milletler Engelli Hakları Sözleşmesi ve Birleşmiş Milletler Çocuk Hakları Sözleşmesi dayanakları ve Dünya Sağlık Örgütü tarafından ortak standart bir dil ve çerçeve oluşturmak amacıyla geliştirilen ve bireylerin işlevselliği, etkinlikleri, yaşama katılımı ve bu alanlardaki kısıtlılıklarının tanımlanmasını sağlayan çok kapsamlı uluslararası bir sınıflandırma sistemi olan Dünya Sağlık Örgütü İşlevsellik Yetiyitimi ve Sağlığın Uluslararası Sınıflandırması Çocuk ve Genç Versiyonu (International Classification of Functioning Disability and Health, Children and Youth Version-ICF-CY) esas alınarak, engellilik durumuna ve özel gereksinimlere ilişkin sınıflandırma çalışmaları hazırlanmıştır. Bu husus, her iki Yönetmeliğin 5 inci maddeleriyle hükme bağlanmıştır.
 
-g) Erişkinlerde, "ağır özürlül" ya da "ağır engelli" yerine, "tam bağlı engelli" ifadesi getirilmiştir. Bakıma muhtaçlık değerlendirmesi Aile, Çalışma ve Sosyal Hizmetler Bakanlığı tarafindan yapılacaktır.
+İlgi (c)'de kayıtlı yeni Yönetmeliğin 6 ncı maddesinin birinci fıkrasında, kurul daimi üyelerinin, "çocuk sağlığı ve hastalıkları uzmanı ya da yan dal uzmanları, göz hastalıkları uzmanı, kulak burun boğaz uzmanı, çocuk cerrahisi uzmanı, çocuk ve ergen ruh sağlığı ve hastalıkları uzmanı, fiziksel tıp ve rehabilitasyon uzmanı, ortopedi ve travmatoloji uzmanı" ndan oluşacağı hükme bağlanmıştır. Mülga Yönetmelikte bulunmayan çocuk branşları, daimi üye olarak belirlenmiş olup, çocukların bizzat çocuk uzmanları tarafından değerlendirilmesi sağlanmıştır.
 
-d) Erişkinler için engelli sağlık kurulu raporunda, kişilerin engel ve sağlık durumunun belirtilmesi, çocuklar için özel gereksinim raporunda ise, gereksinim duzeyinin belirtilmesi eses alımmıştır. Bu raporlara göre ne tür hizmet verilebileceği yönündeki değerlendirme; raporun sunulacağı ılgıli kurum (MEB, AÇSHB veya Hazine ve Malıye Bakanlığı vb.) tarafinden yapılacaktır.
+Yine, ilgi (c)'de kayıtlı yeni Yönetmelik, "engel oranı" temelli değil, "gereksinim" temelli olup, Çocuklar İçin Özel Gereksinim Raporu'nda (ÇÖZGER), çocukların hangi hizmetlere gereksinimleri olduğu belirtilmek suretiyle çocukların ve ailelerinin hak ve hizmetlere ulaşmalarını kolaylaştıracak ve aynı zamanda herhangi bir hak kaybına yol açmayacaktır. Çocuklar için gereksinim seviyesine göre rapor verilecek olup gereksinim düzeyleri; "Özel gereksinimi vardır (ÖGV), Hafif düzeyde ÖGV, Orta düzeyde ÖGV, İleri düzeyde ÖGV, Çok ileri düzeyde ÖGV, Belirgin özel gereksinimi vardır (BÖGV), Özel koşul gereksinimi vardır (ÖKGV)" olarak belirlenmiştir. Bununla birlikte, ilgi (c)'de kayıtlı Yönetmeliğin "Kazanılmış haklar" başlıklı 15 inci maddesinin birinci fıkrasında, "Bu Yönetmelikte geçen 'Çok ileri düzeyde ÖGV', 'Belirgin ÖGV' ve 'Özel koşul gereksinimi var (ÖKGV)' ifadeleri, ilgili mevzuatın uygulanması açısından ağır engellilik durumunu ifade eder." hükmüne yer verilerek, mülga Yönetmelik ile de bağlantı kurulmuştur.
 
-e) Raporlarının, Ulusal Engellilik Sağlık Bilgi Sisteminde yer alan rapor formu doldurularak düzenlenmesi zorunlu håle getirilmiştir.
+Erişkinler için ilgi (b)'de kayıtlı yeni Yönetmelikte, "ağır özürlü" ya da "ağır engelli" ifadesinin yerine, "tam bağımlı engelli birey" ifadesi getirilmiştir. İlgi (b)'de kayıtlı Yönetmeliğin 8 inci maddesinin (f) fıkrasının ikinci cümlesinde, "Bu Yönetmelikte geçen 'tam bağımlı engelli birey' ifadesi ilgili mevzuatın uygulanması açısından ağır engellilik durumunu ifade eder." hükmüne yer verilerek, mülga Yönetmelik ile de bağlantı kurulmuştur.
 
-f) Ulusal Engelli Sağlık Raporu Bilgi Sistemi'ne kaydedilip sistemden rapor numarası alınmadan düzenlenen raporlar geçersiz rapor kabul edileceğinden, ilgili kurumlar arası elektronik inzalı veri paylaşımma dair sistemlerin tamamlanmasıu mütcakip tüm raporlanın ilgili Bakanhıklarca elektronik ortamda görülmesi ve takip edilmesi sağlanacaktır.
+Ana yapısı değişmese bile, ilgi (b) ve ilgi (c)'de kayıtlı Yönetmeliklerle aşağıdaki şekilde yeni bazı düzenlemeler getirilmiştir:
 
-g) Ilgi (b)'de kayıth Yönetmelikteki ağır engellilik ve kullanım amacı bölümlerindeki Atan Kilavuzu" sun dazelemelmetiktek etr. VSne k Kerıml Ri et reda e 3 k.2 Fergel Oranlar
-
-nda dizenlemeler yapılmıştır. Yine, Yönetmeliğin ekindeki Ek-2 cetvelde yer alan gruplar ve tamı oranları sağlık sisteminde kullanılan ICD-10 tam gruplanı ile eşleştirilmiştir.
+a) 5378 sayılı Engelliler Hakkında Kanun'a uygun olarak, yeni Yönetmelikte "özürlü" ifadesi yerine, "engelli" ifadesi kullanılmıştır. Çocuklarda ise, "engelli" ifadesi yerine "özel gereksinimi vardır (ÖGV)" ifadesi kullanılmıştır.  
+b) Maluliyete dair durum bildirir sağlık kurulu raporları, ilgi (b)'de kayıtlı Yönetmelik kapsamında değerlendirilmeyeceği açıkça belirtilmiştir.  
+c) Erişkinler için engellilik sağlık kurulu raporu verilirken, sağlık kurulu tarafından ağır engelliliğin standart biçimde değerlendirilmesinin sağlanması amacıyla Fonksiyonel Bağımsızlık Ölçeği (FIM) formunun uygulanması zorunlu hale getirilmiştir.  
+ç) Erişkinlerde, "ağır özürlü" ya da "ağır engelli" yerine, "tam bağımlı engelli" ifadesi getirilmiştir. Bakıma muhtaçlık değerlendirmesi Aile, Çalışma ve Sosyal Hizmetler Bakanlığı tarafından yapılacaktır.  
+d) Erişkinler için engelli sağlık kurulu raporunda, kişilerin engel ve sağlık durumunun belirtilmesi, çocuklar için özel gereksinim raporunda ise, gereksinim düzeyinin belirtilmesi esas alınmıştır. Bu raporlara göre ne tür hizmet verilebileceği yönündeki değerlendirme; raporun sunulacağı ilgili kurum (MEB, AÇSHB veya Hazine ve Maliye Bakanlığı vb.) tarafından yapılacaktır.  
+e) Raporlarının, Ulusal Engellilik Sağlık Bilgi Sisteminde yer alan rapor formu doldurularak düzenlenmesi zorunlu hâle getirilmiştir.  
+f) Ulusal Engelli Sağlık Raporu Bilgi Sistemi'ne kaydedilip sistemden rapor numarası alınmadan düzenlenen raporlar geçersiz rapor kabul edileceğinden, ilgili kurumlar arası elektronik imzalı veri paylaşımına dair sistemlerin tamamlanmasını müteakip tüm raporların ilgili Bakanlıklarca elektronik ortamda görülmesi ve takip edilmesi sağlanacaktır.  
+g) İlgi (b)'de kayıtlı Yönetmelikteki ağır engellilik ve kullanım amacı bölümlerindeki değişikliklere uygun olarak Yönetmelikteki "Ek-1: Sağlık Kurulu Raporu"nda ve "Ek-2: Engel Oranları Alan Kılavuzu"nda düzenlemeler yapılmıştır. Yine, Yönetmeliğin ekindeki Ek-2 cetvelde yer alan gruplar ve tanı oranları sağlık sisteminde kullanılan ICD-10 tanı grupları ile eşleştirilmiştir.
 
 Yeni Yönetmeliklerin uygulanması esnasında yaşanan tereddütlerin giderilmesi ve uygulama birliğinin sağlanması amacıyla aşağıdaki usul ve esaslar belirlenmiştir:
 
-I- Sağlık Kurulları ile ilgili Hususlar
+### I- Sağlık Kurulları ile İlgili Hususlar
 
-Erişkin sağlık kurulunun teşkili ve çalışma usulü ilgi (b) de kayıtlı Yönetmeliğin 6 met maddesinde: ÇÖZGER (Çocuklar Için Özel Gereksinim Raporu) sağlık kurulunun teşkili ve çalışma usulü ilgi (c) de kayıth Yönetmeliğin 6 ıcı maddesinde düzenlenmiştir.
+Erişkin sağlık kurulunun teşkili ve çalışma usulü ilgi (b) de kayıtlı Yönetmeliğin 6 ncı maddesinde; ÇÖZGER (Çocuklar İçin Özel Gereksinim Raporu) sağlık kurulunun teşkili ve çalışma usulü ilgi (c) de kayıtlı Yönetmeliğin 6 ncı maddesinde düzenlenmiştir.
 
-1) Ilgi (b)'de kayıtlı Yönetmeliğe göre birden fazla uzmanlık dalımı ilgilendiren engel durumunun tespitinde, kurul üyeleri altı zorunlu beanş hekiminden seçilir. Kurul başkanı, seçilen üyeler dışında altı zorunlu branştan olabileceği gibi kurul başkamı olabilecek nitelikte herhangi bir hekim de olabilir. Bu durunda kurul, her hålükårda başkan dähil en az 7 (yedi) üyeden oluşur.
+1) İlgi (b)'de kayıtlı Yönetmeliğe göre birden fazla uzmanlık dalını ilgilendiren engel durumunun tespitinde, kurul üyeleri altı zorunlu branş hekiminden seçilir. Kurul başkanı, seçilen üyeler dışında altı zorunlu branştan olabileceği gibi kurul başkanı olabilecek nitelikte herhangi bir hekim de olabilir. Bu durumda kurul, her hâlükârda başkan dâhil en az 7 (yedi) üyeden oluşur.
 
-2) Tek bir uzmanlık dalımı ilgilendiren durumlarda, Erişkinler Için Engellilik Sağlık Kurulu Raporu ve Çocuklar Için Ozel Gereksinim Raporunun, öncelikle Yönetmeliklerdeki en az 7 (yedi)
+2) Tek bir uzmanlık dalını ilgilendiren durumlarda, Erişkinler İçin Engellilik Sağlık Kurulu Raporu ve Çocuklar İçin Özel Gereksinim Raporunun, öncelikle Yönetmeliklerdeki en az 7 (yedi) üyeden oluşan ana kurulda düzenlenmesi esastır. Ancak, yetkili hastanelerde ana kurulun teşkil edilemediği durumlarda bu raporlar, yalnızca branş hekimlerinden oluşturulan kurulda düzenlenebilir. Bu kurul, ilgili uzmanlık dalından 3 (üç) hekimden oluşturulur. Kurul başkanı, kurula katılan 3 üye hekim dışında o branşın anabilim dalı başkanı veya eğitim sorumlusu/program yöneticisidir.
 
-### T.C. SAĞLIK BAKANLIĞI Sağhk Hizmetleri Genel Müdürlüğü
+3) İkinci basamak sağlık kurum ve kuruluşlarında başhekim veya başhekimin görevlendireceği uzman hekim bir başhekim yardımcısı/uzman hekim; üçüncü basamak sağlık kurum ve kuruluşlarında başhekim veya başhekimin görevlendireceği uzman hekim bir başhekim yardımcısı/program yöneticisi/eğitim görevlisi/ana bilim dalı başkanı, kurul başkanı olabilir.
 
-üyeden olusen ana kurulda düzenlenmesi esastır. Ancak, yetkili hastenclerde ana kurulun teşkil edilemediği durumlarda bu raporfar, yalnızca branş hekimlerinden oluşturulan kurulda düzenlenebilir. Bu kurul, ilgili uzmanhk dahından 3 (0ç) hekimden oluşturulur. Kurul başkamı, kurula katılan 3 üye hekim dışında o branşın anabilim dalı başkanı veya eğitim sorumlusa/program yöneticisidir.
+### II- Raporların Düzenlenmesi
 
-3) İkinci basamak sağlık kurum ve kuruluşlarında başhekim veya başhekimin görevlendireceği uzman hekim bir başhekim yardımcısı/uzman hekim; üçüncü basamak sağlık kurum ve kuruluşlanında başhekim veya başhekımin görevlendireceği uzman hekim bir başhekim yardımcısı/program yöneticisi/eğitim görevlisi/ana bilim dahı başkamı, kurul başkam olabilir.
+Erişkinler için engellilik sağlık kurulu raporu ve çocuklar için özel gereksinim raporu (ÇÖZGER) ile terör, kaza ve yaralanmaya bağlı durum bildirir sağlık kurulu raporları ilgi (b) ve ilgi (c) de kayıtlı Yönetmeliklerin 8 inci, 9 uncu ve 10 uncu maddelerine göre düzenlenir.
 
-II- Raporların Düzenlenmesi
+1) FIM Ölçeği, Fizik Tedavi ve Rehabilitasyon (FTR) uzmanının bulunduğu hastanelerde, poliklinik aşamasında FTR uzmanı tarafından tamamlanarak kurula hazır hale getirilir. FTR uzmanının bulunmadığı hastanelerde ise FIM Ölçeği, Ortopedi hekimi tarafından değerlendirilir.
 
-Erişkinler için engellilik sağlık kurulu raporu ve çocukler için özel gereksinim raporu (ÇÖZGER) le terör, kaza ve yaralanmaya baglı durum bildirir saglık kurulu raporları ilgi (b) ve ilgi (c) de kayıthı Yönetmeliklerin 8 inci, 9 uncu ve 10 uncu maddelerine göre düzenlenir.
+2) Rapor tarihi, kurul başkanının raporu imzaladığı tarihtir. İlgili kişi, raporu, raporun verildiği sağlık kurum ve kuruluşundan aldığı tarihte ya da e-devlet üzerinden gördüğü tarihte teslim almış sayılır. Bu tarih, teslim tarihi olarak kabul edilir.
 
-1) FIM Olçeği, Fizik Tedavi ve Rehabilitasyon (FTR) uzmenın bulunduğu hastanelerde, poliklinik aşamasanda FTR uzmanı tarafindan tamamlanarak kurula hazır hale getirilir. FTR uzmanımı baluamadığı hastanelerde ise FIM Olçeği, Ortopedi hekimi tarafindan değerlendirilir.
+3) Sağlık Kurulu, diğer kurum ve kuruluşlar tarafından rapor üzerinde yer alması istenilen ifadelere yer vermek zorunda değildir. Rapora, sağlık durumu ile ilgili bilgiler ve fonksiyon kaybı yaşadığı alanlar yazılır. Bu fonksiyon kayıplarının hangi işlerle ilgili olduğu, hangi işlere mani olduğu bilgisine raporda yer verilmez.
 
-2) Rapor tarihi, kurul başkanımın raporu imzaladığı tarihtir. Ilgili kişi, raporu, raporun verildiği sağlık karum ve kuruluşundan alciığı tarihte ya da e-devlet üzerinden gördüğn tarihte teslim alımış sayılır. Bu tarih, teslim tarihi olarak kabul edilir.
+4) Raporlara ilişkin tanımlamalar ilgi (b) ve (c) de yer alan Yönetmeliklerin ana metinlerinde ve Ek-1 rapor formlarında tanımlanmıştır. Erişkinler İçin Engellilik Sağlık Kurulu Raporu ve Çocuklar İçin Özel Gereksinim Raporunu kullanan kurum ve kuruluşlar için ayrıca bir tanımlamaya ihtiyaç bulunmamaktadır.
 
-3) Sağlık Kurulu, diger kurum ve kuruluşlar tarafindan rapor üzerinde yer alması istenilen ifadelere yer vermek zorunda değildir. Rapora, sağhk durumu ile ilgili bilgiler ve fonksiyon kaybı yaşadığı alanlar yazılır. Bu fonksiyon kayıplarımın hangi işlerle ilgili olduğu, hangi işlere mani olduğu bilgisine raporda yer verilmez.
+5) ÇÖZGER sağlık kurulunda çocuğun görülebileceğine dair Yönetmelik hükmüne istinaden, kurul üyelerince çocukların görülmesi gereken durumlarda, kurula yakın bir yerde ayrı bir odada görülebilir.
 
-4) Raporlara ilişkin tammlamalar ilgi (b) ve (c) de yer alan Yönetmeliklerin ana metinlerinde ve Ek-1 mpor formlarında tanımlanmıştır. Erişkinler Için Engellilik Sağlık Kurulu Raporu ve Çocuklar Için Öpel Gereksinim Raporunu raporlarımı kullanan kurum ve kuruluşlar için ayrıca bir tanımlamaya ihtiyaç baluamamaktadır.
+6) İlgi (b) de kayıtlı Yönetmeliğin eki Ek-3'te yer alan "60 yaşın üzerindekiler" ibaresi, aynı Yönetmeliğin 10 uncu maddesinin dördüncü fıkrasında yer alan "65 yaş ve üzeri bireyler" olarak kabul edilir.
 
-5) ÇOZGER sağlık kurulunda çocuğun görülebileceğine dair Yönetmelik hükmüne istinaden, kurul üyelerince çocukların görüılmesi gereken durumlarda, kurula yakın bir yerde aynı bir odada görülebilir.
+7) Çocuklar için özel gereksinim raporu (ÇÖZGER) düzenlenmesi sürecinde, Ek-1 de yer alan ÇÖZGER Danışım Formu, konsültasyon (danışım) amacıyla kullanılır.
 
-6) İlgi (b) de kayıtlı Yönetmeliğin eki Ek-3'te yer alan "60 yaşını azerindekiler" ibaresi, ayrı Yönetmeliğin 10 uncu maddesinin dördüncüi fikrasıda yer alan "65 yaş ve üzeri bireyler" olarak kabul
+### III- Raporların Geçerlilik Süresi ve Raporlara İtiraz
 
-7) Çocuklar için özel gereksinim raporu (ÇÖZGER) duzenlenmesi sirecinde, Ek-1 de yer alan ÇOZGER Danışın Fonnu, konsültasyon (danışam) amacıyla kullenır.
+Raporların geçerlilik süresi ve raporlara itiraz hususu, ilgi (b) ve ilgi (c) de kayıtlı Yönetmeliklerin 11 inci ve 12 nci maddelerinde düzenlenmiştir.
 
-II- Raporlara Geçerlilik Süresi ve Raporlara İtiraz
-
-Raporlanın geçerlilik süresi ve raporlara itiraz hususu, ilgi (b) ve ilgi (c) de kayıtlı Yönetmeliklerin 11 inci ve 12 inci maddelerinde düzenlenmiştir.
-
-1) Ilgi (a) da kayıtlı Yöntmelik (önceki mevzuat) yürürlükte iken alınan raporlanın geçerlilik süresi ve bu raporlara karşı yapılacak itirazlar konusu, ilgi (b) ve ilgi (c) de kayıtlı Yönetmeliklerin "Kazanılmaş haklar" başhkh 15 inci maddelerinde düzenlenmiştir.
+1) İlgi (a) da kayıtlı Yönetmelik (önceki mevzuat) yürürlükte iken alınan raporların geçerlilik süresi ve bu raporlara karşı yapılacak itirazlar konusu, ilgi (b) ve ilgi (c) de kayıtlı Yönetmeliklerin "Kazanılmış haklar" başlıklı 15 inci maddelerinde düzenlenmiştir.
 
 2) Önceki mevzuat yürürlükte iken itiraz üzerine alınan ikinci rapora itiraz devam etmiyorsa, rapor kesinleşir.
 
-3) Önceki mevzuat yürürlükte iken itiraz üzerine alınan ikinci rapora itiraz devam ediyorsa, müdürlük tarafından en yakın hakem hastaneye yönlendirilir ve hakem hastanede oluşturulacak rapor, ilgi (b) ve ilgi (c) de kayıth Yönetmeliklere (yeni mevzuata) uygun şekilde oluşturulur,
+3) Önceki mevzuat yürürlükte iken itiraz üzerine alınan ikinci rapora itiraz devam ediyorsa, müdürlük tarafından en yakın hakem hastaneye yönlendirilir ve hakem hastanede oluşturulacak rapor, ilgi (b) ve ilgi (c) de kayıtlı Yönetmeliklere (yeni mevzuata) uygun şekilde oluşturulur.
 
-4) Ilk rapor süreci önceki mevzuat yürürlükte iken başlamış ve henüz sağlık kurulu kararı verilmemişse, oluşturulacak olan raporlar yeni mevzuat hükümlerine göre düzenlenir.
+4) İlk rapor süreci önceki mevzuat yürürlükte iken başlamış ve henüz sağlık kurulu kararı verilmemişse, oluşturulacak olan raporlar yeni mevzuat hükümlerine göre düzenlenir.
 
-### T.C. SAGLIK BAKANLIĞI Sağlıkı Hizmetleri Genel Müdürlüğü
+5) İtirazlar, rapor almak isteyen kişinin rapor için başvurduğu yerdeki veya yerleşim yerindeki (ikametgâhındaki) müdürlüğe yapılır.
 
-5) Itirazlar, rapor almak isteyen kişinin rapor için başvurduğu yerdeki veya yerleşim yerindeki (ikametgähındaki) müdürlüğe yapılır.
+6) Önceki mevzuat yürürlükte iken alınan raporlara, bu genelgenin yayımlanmasından itibaren 30 gün içinde bireysel itiraz edilmedikçe, daha sonra itiraz edilemez.
 
-6) Önceki mevzuat yürürlükte iken alınen raporlara, bu genelgenin yayılanmesından itibaren 30 gün içinde bireysel itiraz edilmedikçe, daha sonra itiraz edilemez.
+7) İkinci rapora itirazın devamı hâlinde de, itiraz en fazla 30 gün içerisinde yapılabilir.
 
-7) Ikinci rapora itirazm devamı hålinde de, itiraz en fazla 30 gün içerisinde yapılabilir.
+### IV- Diğer Hususlar
 
-IV- Diğer Hususlar
+1) Rapor vermeye yetkili sağlık kurum ve kuruluşlarında, kurul odasında her bir kurul üyesi için internete bağlı e-Rapor Sistemine HBYS üzerinden entegrasyonu tamamlanmış müstakil birer bilgisayar hazırlanır. Sağlık kurulu raporları Sağlık Bakanlığı e-Rapor Sistemi üzerinden hazırlanır. İmzalar, güvenli elektronik imza yöntemiyle atılacağı için, yoksa her kurul hekiminin güvenli elektronik imzası temin edilir ve elektronik imza işlemine hazır şekilde bulundurulur.
 
-1) Rapor vermeye yetkili sağlık kurım ve kuruluşlarıda, kurul odasında her bir kurul Byesi için internete bağlı e-Rapor Sistemine HBYS azerinden entegrasyonu tamamlanmış müstakil birer bilgisayar hazırlanır. Sağlık kurulu raporlanı Sağhk Bakanlığı e-Rapor Sistemi Ozerinden hazırlanır. Imzalar, güvenli elektronik imza yüntemiyle atılacağı için, yoksa her kurul hekiminin güvenli elektronik imzası temin edilir ve elektronik iza işlemine hazır şekilde bulundurulur.
+2) Üniversite hastaneleri dahil rapor vermeye yetkili sağlık kurum ve kuruluşlarında hizmet veren HBYS yazılımlarına e-rapor sistemine entegrasyon süreci tamamlattırılır.
 
-2) Universite hastaneleri dahil rapor vermeye yetkili sağlık kurum ve kuruluşlannda hizmet veren HBYS yazılımlarına e-rapor sistemine entegrasyon süreci tamamlattırılır.
+3) İlgi (b) ve ilgi (c) de kayıtlı Yönetmelikler kapsamındaki raporların kaydedilmesi, arşivlenmesi ve fiziki olarak teslimi gibi hususlar ile anılan Yönetmelikler ve bu Genelgede düzenlenmeyen diğer hususlarda, Bakanlığımız tarafından yayımlanan "Sağlık Raporlarına İlişkin Usul ve Esaslar" uygulanır.
 
-3) Ilgi (b) ve ilgi (c) de kayıth Yönetmelikler kapsanundaki raporların kaydedilmesi, arşivlenmesi ve fiziki olarak teslimi gibi hususlar ile anılan Yönetmelikler ve bu Genelgede düzenlenmeyen diğer hususlarda, Bakanlığımız tarafından yayımlanan "Sağhk Raporlarına Hişkin Usul ve Esaslar" uygulamır.
+Bilgilerini ve uygulamanın yukarıda belirtilen çerçevede yürütülmesi hususunu önemle rica ederim.
 
-Bilgilerini ve uygulamanım yukarıda belirtilen çerçevede yürlitülmesi hususunu önemle rica ederim.
+Prof. Dr. Muhammet GÜVEN  
+Bakan a.  
+Bakan Yardımcısı
 
-Prof. Dr. Muhammet GÜVEN
+Ek:  
+1- ÇÖZGER Danışım Formu
 
-Bakan a
-
-Bakan Yardımcia E COZGER Damgami Formiu Dağitam: &1 It Valiligine Yäksek Oğretinı Kurulu (YÖK) Başkanlığme
+### DAĞITIM:  
+81 İl Valiliğine  
+Yükseköğretim Kurulu (YÖK) Başkanlığına

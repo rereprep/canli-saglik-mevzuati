@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-ve-bagli-kuruluslari-i-mza"
+---
+id: "sb-saglik-bakanligi-ve-bagli-kuruluslari-i-mza"
 baslik: "Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi"
 tur: "yonerge"
 birim: "Hukuk Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2024-07-17"
 sayi: "248902606"
 duzeltildi: true
 ---
+
 8.2.1. Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi
 
 ## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar

@@ -2,30 +2,52 @@
 id: "sb-tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri-genelgesi-2022-2"
 baslik: "Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri Genelgesi (2022/2)"
 tur: "genelge"
+tarih: "2022-03-22"
 sayi: "2022/2"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Sağlık tesislerinde tıbbi cihaz mal ve hizmet alım işlemlerinde uyulması gereken teknik ve idari şartları düzenler."
-etiketler: ["tıbbi cihaz", "mal alımı", "hizmet alımı"]
+konu: "Sağlık tesislerinde tıbbi cihaz mal ve hizmet alım işlemlerinde uyulması gereken teknik ve idari şartlar, ÜTS kayıtları ve komisyon izinleri"
+etiketler: ["tıbbi cihaz", "mal alımı", "hizmet alımı", "üts"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 202-213"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.30. Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri Genelgesi (2022/2)
 
-### T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı : E-23642684-010.06.01-638
+Konu : Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri
+
+22/03/2022
+
+GENELGE
+2022/2
+
+Bakanlığımıza bağlı sağlık tesisleri, üniversite hastaneleri ve özel sağlık kuruluşlarında tıbbi cihazların planlanması, temini, kullanımı, hizmet alımları ve envanter yönetiminde kaynakların etkin, verimli ve kamu yararına uygun kullanılması amacıyla aşağıdaki usul ve esaslar belirlenmiştir:
+
+### 1. GENEL ESASLAR:
+
+1.1. Sağlık tesislerinin tıbbi cihaz mal ve hizmet alımları, il düzeyinde kurulacak olan Tıbbi Cihaz ve Tıbbi Hizmet Alımı Komisyonu marifetiyle planlanacaktır.
+
+1.2. İl Komisyonu, il genelindeki kamu, üniversite ve özel sağlık tesislerinin tıbbi cihaz taleplerini, mevcut cihaz envanterini, atıl kapasiteyi ve ilin demografik/epidemiyolojik ihtiyaçlarını gözeterek değerlendirecektir.
+
+1.3. Komisyon her ay düzenli olarak toplanacak ve alınan kararlar gerekçeleri ile birlikte karar defterine işlenecektir.
 
 1.4. Komisyon başkanı Sağlık Müdürü veya ilgili başkanlardan biri olmak üzere seçilir. Diğer üyeler başvurulanın türüne göre ilgili uzmanlık dallarından olmak şartı ile genelgenin müteakip maddelerine göre Sağlık Müdürlüğü tarafindan belirlenecektir.
 
-1.5. Planlama kapsamında bulunan tibbi cihaz (PET-CT, LINAC, Tomoterapi, Cobalt-60, Brakiterapi, Koroner Anjiyografi, Cyberknife) hizmet alımları ile ilgili il görüşü Sağlık Hizmetleri Genel Müdürlüğü'ne bildirilecektir. Kamu Hastaneleri Genel Müdürlüğü ile Halk Sağlığı Genel Müdürluğü'nün görev alanında yer alan sağlık tesisleri ile alakalı ilin görüşü ilgili Genel Müdürlük aracığıyla Sağhk Hizmetleri Genel Müdürlüğü'ne bildirilecektir. Sağlık Hızmetleri Genel Müdürluğü'nün izin yazısı olmadan tıbbi cihaz, tıbbi cihaz hizmet ve tıbbi hizmet alımı işlemlerine başlanmayacak ve izin yazısı ihale dosyalarında bulundurulacaktır. Kamu Hastaneleri Genel Müdürlüğü'nün görev alanında bulunan sağhk tesislerinin Bakanlık iznine tabi tıbbi cihaz hizmet ve tıbbi hizmet alımları ilgili Genel Müdürlük tarafından belirlenerek yayınlanır ve talepleri Kamu Hastaneleri tarafından değerlendirilir. Diğer cihazlara ait hizmet alımı talepleri Bakanlığa gönderilmeyecektir.
+1.5. Planlama kapsamında bulunan tıbbi cihaz (PET-CT, LINAC, Tomoterapi, Cobalt-60, Brakiterapi, Koroner Anjiyografi, Cyberknife) hizmet alımları ile ilgili il görüşü Sağlık Hizmetleri Genel Müdürlüğü'ne bildirilecektir. Kamu Hastaneleri Genel Müdürlüğü ile Halk Sağlığı Genel Müdürluğü'nün görev alanında yer alan sağlık tesisleri ile alakalı ilin görüşü ilgili Genel Müdürlük aracığıyla Sağhk Hizmetleri Genel Müdürlüğü'ne bildirilecektir. Sağlık Hızmetleri Genel Müdürluğü'nün izin yazısı olmadan tıbbi cihaz, tıbbi cihaz hizmet ve tıbbi hizmet alımı işlemlerine başlanmayacak ve izin yazısı ihale dosyalarında bulundurulacaktır. Kamu Hastaneleri Genel Müdürlüğü'nün görev alanında bulunan sağlık tesislerinin Bakanlık iznine tabi tıbbi cihaz hizmet ve tıbbi hizmet alımları ilgili Genel Müdürlük tarafından belirlenerek yayınlanır ve talepleri Kamu Hastaneleri tarafından değerlendirilir. Diğer cihazlara ait hizmet alımı talepleri Bakanlığa gönderilmeyecektir.
 
-1.6. Tıbbi cihaz alım, tıbbi cihaz hizmet alım veya tibbi hizmet alım talepleri için cihaz veya hizmetler ile ilgili en az bir uzman üye belirlenecektir.
+1.6. Tıbbi cihaz alım, tıbbi cihaz hizmet alım veya tıbbi hizmet alım talepleri için cihaz veya hizmetler ile ilgili en az bir uzman üye belirlenecektir.
 
 1.7. Komisyon kararlarının Bakanlık onayı verildiği hallerde geçerlilik süreleri 2 yıldır.
 
 1.8. Tüm ihaleler için düzenlenen idari ve teknik şartnamelerde, belirli bir markaya veya rekabeti önleyici bir teknik özelliğe işaret edecek tanımlamalardan kesinlikle kaçınılacak ve şartnameler rekabet ortamını tesis edecek nitelikte hazırlanacaktır.
 
-1.9. Alım süreçlerinde ürünle ilgili Urün Takip Sistemi (UTS)'nde yapılan sorgulamalarda menşei ülkesi Türkiye olan ürünlerin idarelerce öncelikli olarak tercih edilmesi, satın alımlarında gerekli görülmesi halinde Türkiye'de yapılan laboratuvar testleri şartnamelerde talep edilmesi ve ayrıca ÜTS' de Yerli Malı Tebliği'nde belirtilen Yerli Malı Belgesine sahip olan ürünler için 4734 sayılı Kanun dayanak alınarak tıbbi cihaz alımı ihalelerinde yerli malı teklif eden istekliler lehine %15 oranında fiyat avantajının sağlanması mecburidir.
+1.9. Alım süreçlerinde ürünle ilgili Ürün Takip Sistemi (ÜTS)'nde yapılan sorgulamalarda menşei ülkesi Türkiye olan ürünlerin idarelerce öncelikli olarak tercih edilmesi, satın alımlarında gerekli görülmesi halinde Türkiye'de yapılan laboratuvar testleri şartnamelerde talep edilmesi ve ayrıca ÜTS' de Yerli Malı Tebliği'nde belirtilen Yerli Malı Belgesine sahip olan ürünler için 4734 sayılı Kanun dayanak alınarak tıbbi cihaz alımı ihalelerinde yerli malı teklif eden istekliler lehine %15 oranında fiyat avantajının sağlanması mecburidir.
 
 1.10. Satın alınacak ürüne veya cihaza ilişkin ihtiyaç tespitlerinin sağlıklı ve doğru bir şekilde yapılması esastır. Mal veya hizmet temininde ihtiyaç fazlası alımların önlenebilmesi için talep tahminlerinin tüm ilgililerin katılımı ile belirlenmesine dikkat edilmesi gerekmektedir.
 
@@ -33,49 +55,45 @@ ocr: true
 
 1.12. Genelge kapsamında belirtilen hükümler tıbbi cihaz yönetmelikleri kapsamındaki ürünlerin kamu (DMO, HSSGM, KHGM gibi) ve özel kurum / kuruluşlardan münferit ve merkezi satın alımlarında uygulanacaktır.
 
-1.13. Tıbbi Cihaz Yönetmelikleri kapsamındaki cihazların satın alımlarında, hizmet alımlarında veya kit ve sarf karşıhğı hizmet alımlarında, tüm tıbbi cihazlar için tekil hareket bildirimlerinin yapılması gerekmektedir. Satın alınan tıbbi cihazlar için UTS üzerinde ilgili fırmanın sağhk kuruluşuna verme bildirimi yapması, sağlık kuruluşunun da kendisine yapılan verme bildirimine karşılık alma bildirimi gerekmektedir. Sağlık kuruluşunun stoğuna eklediği tekil ürünler kullanıldıkça ya da tüketildikçe uygun bildirimler (kullanım, tüketim, HEK/Zayiat,...) ile ÜTS den çıkış işleminin yapılması gerekmektedir. Hizmet alımlarında ise söz konusu işlemlerin hizmet sunumunu gerçekleştirecek yüklenici firma tarafından yapılması gerekmektedir. ÜTS ile ilgili iş ve işlemlere ilişkin Türkiye Ilaç ve Tibbi Cihaz Kurumu tarafindan www.titck.gov.tr / www.uts.saglik.gov.tr adreslerinden yapılan duyurular takip edilmeli ve gerekli işlemler tesis edilmelidir.
+1.13. Tıbbi Cihaz Yönetmelikleri kapsamındaki cihazların satın alımlarında, hizmet alımlarında veya kit ve sarf karşıhğı hizmet alımlarında, tüm tıbbi cihazlar için tekil hareket bildirimlerinin yapılması gerekmektedir. Satın alınan tıbbi cihazlar için ÜTS üzerinde ilgili firmanın sağlık kuruluşuna verme bildirimi yapması, sağlık kuruluşunun da kendisine yapılan verme bildirimine karşılık alma bildirimi gerekmektedir. Sağlık kuruluşunun stoğuna eklediği tekil ürünler kullanıldıkça ya da tüketildikçe uygun bildirimler (kullanım, tüketim, HEK/Zayiat,...) ile ÜTS den çıkış işleminin yapılması gerekmektedir. Hizmet alımlarında ise söz konusu işlemlerin hizmet sunumunu gerçekleştirecek yüklenici firma tarafından yapılması gerekmektedir. ÜTS ile ilgili iş ve işlemlere ilişkin Türkiye Ilaç ve Tıbbi Cihaz Kurumu tarafindan www.titck.gov.tr / www.uts.saglik.gov.tr adreslerinden yapılan duyurular takip edilmeli ve gerekli işlemler tesis edilmelidir.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+1.14. Tıbbi cihazlara gerçekleştirecek periyodik test, kontrol ve kalibrasyon faaliyetleri ile ilgili hizmetlerin, Türkiye Ilaç ve Tıbbi Cihaz Kurumu tarafindan Tıbbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkında Yönetmelik" kapsamında zorunluluk başlatılan cihazlar için bu Yönetmeliğe uygun olarak yetkilendirilen kuruluşlardan alınması gerekmektedir.
 
-1.14. Tıbbi cihazlara gerçekleştirecek periyodik test, kontrol ve kalibrasyon faaliyetleri ile ilgili hizmetlerin, Türkiye Ilaç ve Tibbi Cihaz Kurumu tarafindan Tıbbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkında Yönetmelik" kapsamında zorunluluk başlatılan cihazlar için bu Yönetmeliğe uygun olarak yetkilendirilen kuruluşlardan alınması gerekmektedir.
+1.15. Tıbbi Cihaz Yönetmelikleri kapsamındaki cihazların satın alımlarında, hizmet alımlarında veya kit ve sarf karşılığı hizmet alımlarında, aday veya isteklilerin ÜTS'de firma kaydının aranması zorunludur. Ayrıca ÜTS üzerinde yapılan ürün sorgulamalarında ürün durumu "Kayıtlı" veya "Sistemde Tekil Ürün Var" şeklinde olan ürünler haricindekilerin alımı yapılmamalıdır. Hizmet alım süreçlerinde, hizmet sunumunda kullanılacak cihazların aday veya isteklinin ÜTS'deki envanterinde bulunması gerekliligi aranmalıdır. Bu gereklilige, hizmet sunumuna başlamadan önce sözleşmede yer verilmelidir.
 
-1.15. Tıbbi Cihaz Yönetmelikleri kapsamındaki cihazların satın alımlarında, hizmet alımlarında veya kit ve sarf karşılığı hizmet alımlarında, aday veya isteklilerin UTS'de firma kaydının aranması zorunludur. Ayrıca UTS üzerinde yapılan ürün sorgulamalarında ürün durumu "Kayıtlı" veya "Sistemde Tekil Ürün Var" şeklinde olan ürünler haricindekilerin alımı yapılmamalıdır. Hizmet alım süreçlerinde, hizmet sunumunda kullanılacak cihazların aday veya isteklinin ÜTS'deki envanterinde bulunması gerekliligi aranmalıdır. Bu gereklilige, hizmet sunumuna başlamadan önce sözleşmede yer verilmelidir.
+1.16. Aday veya isteklilerden Tıbbi Cihaz Yönetmeliklerinin öngördüğü Belgeleri (EC Sertifikaları, Uygunluk Beyanı) ibraz etmeleri istenmeyecektir. Özellikle genel laboratuvar amaçlı cihazlar olmak üzere Tıbbi Cihaz Yönetmelikleri kapsamında olmayan ürünler veya cihazlar için ÜTS kaydı aranmayacaktır.
 
-1.16. Aday veya isteklilerden Tıbbi Cihaz Yönetmeliklerinin öngördüğü Belgeleri (EC Sertifikaları, Uygunluk Beyanı) ibraz etmeleri istenmeyecektir. Ozellikle genel laboratuvar amaçlı cihazlar olmak üzere Tıbbi Cihaz Yönetmelikleri kapsamında olmayan ürünler veya cihazlar için UTS kaydı aranmayacaktır.
+### 2. TIBBİ CİHAZ ALIM ESASLARI:
 
-### 2. TIBBI CIHAZ ALIM ESASLARI:
-
-Tıbbi Cihaz Yönetmelığı, Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği ve Vücut Dışında Kullamlan (in vitro) Tıbbi Tanı Cihazlan Yönetmeliği kapsamındaki tibbi cihazların satın alma işlemlerinde;
+Tıbbi Cihaz Yönetmelığı, Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği ve Vücut Dışında Kullamlan (in vitro) Tıbbi Tanı Cihazlan Yönetmeliği kapsamındaki tıbbi cihazların satın alma işlemlerinde;
 
 2.1. Yüksek veya ileri teknolojiye sahip tıbbi cihaz alımlarında, belirli teknik özelliklerin cihazda bulunması, cihazın fonksiyonelliği ve rasyonel kullanımı açısından ek katkı, kullanıcı ve hastalar için avantaj sağlayacak ise bu özellikler "Üstün Teknik Özellikler" başlığı altında fiyat dışı unsurlar kullanılmak suretiyle ihale dokümanında yer alacaktır.
 
 2.2. Tıbbi Cihaz Yönetmelikleri kapsamındaki ürünlerin veya cihazların satın alımlarında, aday ve isteklinin "Tıbbi Cihaz Satış, Reklam ve Tanıtın Yönetmeligi" kapsamında "satış merkezi yetki belgesi" aranacaktır.
 
-2.3. Tıbbi Cihaz Yönetmelikleri uyarınca, herhangi bir cihazın Tıbbi Cihaz Yönetmelikleri kapsamında olup olmadığına, üretim veya kullanım amacı çerçevesinde üreticiler karar vermektedir. Eğer cihaz, üreticisi tarafından Tıbbi Cihaz Yönetmelikleri kapsamında belgelendirilmemiş ise (tıbbi cihazlar kapsamında değilse) UTS'ye kayıt veya bildirim işlemi yapılmamaktadır. Satın alma işlemlerinde, Tıbbi Cihaz Yönetmelikleri kapsamında olup olmadığı hakkında tereddüt oluşan cihazlar için üreticinin veya ithalatçının Türkiye Ilaç ve Tıbbi Cihaz Kurumuna sunduğu teknik dosya ve resmi beyanı sonucunda alınan kararı esas alınarak işlemler yürütülmelidir. Bu durumda ayrıca belge aranmayacaktır. Ancak, içerik ve özellikleri ile aynı olan iki cihaz hakkında çelişkili belge veya kayıtlar bulunması, cihazın bu yönetmelikler kapsamına girip girmediği ve tıbbi cihazların sınıfları konusunda tereddüde düşülmesi halinde ihale teklifinin değerlendirilmesi aşamasında cihaza ait üreticisi tarafından hazırlanan kullanım amacı, uygulama alanı, uygulama süresi, hedef kullanıcıları ve etki mekanizmasını açıklar bilimsel verileri yüklenici adayı (istekli) Türkiye Ilaç ve Tıbbi Cihaz Kurumuna intikal ettirerek
+2.3. Tıbbi Cihaz Yönetmelikleri uyarınca, herhangi bir cihazın Tıbbi Cihaz Yönetmelikleri kapsamında olup olmadığına, üretim veya kullanım amacı çerçevesinde üreticiler karar vermektedir. Eğer cihaz, üreticisi tarafından Tıbbi Cihaz Yönetmelikleri kapsamında belgelendirilmemiş ise (tıbbi cihazlar kapsamında değilse) ÜTS'ye kayıt veya bildirim işlemi yapılmamaktadır. Satın alma işlemlerinde, Tıbbi Cihaz Yönetmelikleri kapsamında olup olmadığı hakkında tereddüt oluşan cihazlar için üreticinin veya ithalatçının Türkiye Ilaç ve Tıbbi Cihaz Kurumuna sunduğu teknik dosya ve resmi beyanı sonucunda alınan kararı esas alınarak işlemler yürütülmelidir. Bu durumda ayrıca belge aranmayacaktır. Ancak, içerik ve özellikleri ile aynı olan iki cihaz hakkında çelişkili belge veya kayıtlar bulunması, cihazın bu yönetmelikler kapsamına girip girmediği ve tıbbi cihazların sınıfları konusunda tereddüde düşülmesi halinde ihale teklifinin değerlendirilmesi aşamasında cihaza ait üreticisi tarafından hazırlanan kullanım amacı, uygulama alanı, uygulama süresi, hedef kullanıcıları ve etki mekanizmasını açıklar bilimsel verileri yüklenici adayı (istekli) Türkiye Ilaç ve Tıbbi Cihaz Kurumuna intikal ettirerek
 
 2.4. Ihale teklifinin değerlendirilmesi aşamalarında ilgili tıbbi cihazların www.titck.gov.tr adresinden Tıbbi Cihazlar Güvensiz Ürünler ve Gönüllu Geri Çekme Listelerinin takipleri yapılmalıdır. Kullanımları ve piyasaya arzları durdurulanların ahımlarının yapılmamasına, sağlık kurumunca satın alındıktan sonra piyasaya arzları durdurulmuş cihaz miktarlarının ayrıntıları ile (kullanılan veya stokta bulunan vb.) bildirilmesine ve mevcut ürünlerin kullanılmaksızın muhafazasına dikkat edilmelidir. Tıbbi cihazlanın kullanımı sırasında ortaya çıkan cihaza bağlı
 
-### T.C. SAGLIK BAKANLIĞI Sağhk Hizmetleri Genel Müdürlüğü
+Sağhk Hizmetleri Genel Müdürlüğü
 
-olumsuz olayların (hasar, yaralanma, ölüm veya bunlara yol açabilecek muhtemel olaylar gibi ilgili Yönetmeliklerin "Uyanı Sistemi" başlığı altında sayılan durumlar) gecikmeksizin cihazın sağlayıcısına ve /veya üreticisi ve/veya ithalatçısına OTS' de kayılı ürün numarasi, seri ve LOT numarası bilgilerini içerecek şekilde bildirilmesi ve güvenliğinden şüphe edılen ürünlerin sağlık kuruluşunda muhafaza edilmesi gerekmektedir. Ayrıca bu bildirim OTS sisteminde yer alan
+olumsuz olayların (hasar, yaralanma, ölüm veya bunlara yol açabilecek muhtemel olaylar gibi ilgili Yönetmeliklerin "Uyarı Sistemi" başlığı altında sayılan durumlar) gecikmeksizin cihazın sağlayıcısına ve /veya üreticisi ve/veya ithalatçısına ÜTS' de kayılı ürün numarasi, seri ve LOT numarası bilgilerini içerecek şekilde bildirilmesi ve güvenliğinden şüphe edılen ürünlerin sağlık kuruluşunda muhafaza edilmesi gerekmektedir. Ayrıca bu bildirim ÜTS sisteminde yer alan
 
 ### Olay Rapor Işlemleri"
 
-http://www.titck.gov.tr adresinde yer alan "Sağlık Kuruluşları Olumsuz Olay Bildirim Formu" eksiksiz doldurularak tibbicihazuyari@titck.gov.tr adresine gönderilmek suretiyle Türkiye Ilaç ve Tibbi Cihaz Kurumuna da iletilmelidir.
+http://www.titck.gov.tr adresinde yer alan "Sağlık Kuruluşları Olumsuz Olay Bildirim Formu" eksiksiz doldurularak tıbbicihazuyari@titck.gov.tr adresine gönderilmek suretiyle Türkiye Ilaç ve Tıbbi Cihaz Kurumuna da iletilmelidir.
 
-2.5. Tıbbi Cihaz Yönetmeliği 11. maddesine göre radyasyon yayan cihazları sistem ve işlem paketi kapsamında piyasaya arz eden imalatçılar TS EN ISO 13485 belgesine sahip olmalıdır. Ayrıca nihai hali verilen ve kullanıma sunulacak olan cihazların test, kontrol ve kalibrasyonlarımın; "Tibbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkinda Yönetmelik" kapsamında Türkiye Ilaç ve Tıbbi Cihaz Kurumu tarafından ilgili cihaz için test, kontrol veya kalibrasyon zorunluluğu başlatılması halinde bu Yönetmeliğe uygun olarak yetkilendirilen kuruluşlar tarafından, zorunluluk başlatılmadığı durumda ise TS EN ISO / IEC 17020 "Çeşitli Tipteki Muayene Kuruluşların Çalıştırılmaları Için Genel Kriterler" standartlarına göre akredite olmuş özel veya kamu kuruluşları tarafindan "Biyomedikal Metroloji Faaliyetleri Kılavuzu" kapsamında yapıldığı belgelendirilecektir.
+2.5. Tıbbi Cihaz Yönetmeliği 11. maddesine göre radyasyon yayan cihazları sistem ve işlem paketi kapsamında piyasaya arz eden imalatçılar TS EN ISO 13485 belgesine sahip olmalıdır. Ayrıca nihai hali verilen ve kullanıma sunulacak olan cihazların test, kontrol ve kalibrasyonlarımın; "Tıbbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkinda Yönetmelik" kapsamında Türkiye Ilaç ve Tıbbi Cihaz Kurumu tarafından ilgili cihaz için test, kontrol veya kalibrasyon zorunluluğu başlatılması halinde bu Yönetmeliğe uygun olarak yetkilendirilen kuruluşlar tarafından, zorunluluk başlatılmadığı durumda ise TS EN ISO / IEC 17020 "Çeşitli Tipteki Muayene Kuruluşların Çalıştırılmaları Için Genel Kriterler" standartlarına göre akredite olmuş özel veya kamu kuruluşları tarafindan "Biyomedikal Metroloji Faaliyetleri Kılavuzu" kapsamında yapıldığı belgelendirilecektir.
 
-2.6. Tıbbi cihaz temin edilmek üzere yapılan alımlarda garanti süresi mutlaka belirtilecektir. Tıbbi cihaz alımı veya tıbbi cihazla beraber hizmet alımlarında; cihazların kurulumu sonrasında yapılacak kabul testleri ile cihazların servise alınmasından sonra gerçekleştirilecek bakım onarım, test, kontrol ve kalibrasyonların, yüklenici veya sağlık kuruluşunca hangi şartlarda ve periyotlarda yapılacağı ve diğer hususlar hizmetin gereği ve kamu yararı esas alınarak, idari şartnamelerde tarafların yükümlülükleri açık olarak belirlenecektir, Garanti sonrasında; bakım ve onarım hizmetlerinin hangi şartlarda (parça dâhil, parça hariç, vb.) ve ihale fiyatına göre hangi oranda olacağı ihale dosyasına giren evraklar içerisinde yazılı olarak bulundurulması sağlanacaktır. Tibbi cihaz satın alındıktan sonra kullanıcılara ve teknik servis sorumlularına verilecek eğitim süresi ve şartları şartnamelerde belirtilecektir.
+2.6. Tıbbi cihaz temin edilmek üzere yapılan alımlarda garanti süresi mutlaka belirtilecektir. Tıbbi cihaz alımı veya tıbbi cihazla beraber hizmet alımlarında; cihazların kurulumu sonrasında yapılacak kabul testleri ile cihazların servise alınmasından sonra gerçekleştirilecek bakım onarım, test, kontrol ve kalibrasyonların, yüklenici veya sağlık kuruluşunca hangi şartlarda ve periyotlarda yapılacağı ve diğer hususlar hizmetin gereği ve kamu yararı esas alınarak, idari şartnamelerde tarafların yükümlülükleri açık olarak belirlenecektir, Garanti sonrasında; bakım ve onarım hizmetlerinin hangi şartlarda (parça dâhil, parça hariç, vb.) ve ihale fiyatına göre hangi oranda olacağı ihale dosyasına giren evraklar içerisinde yazılı olarak bulundurulması sağlanacaktır. Tıbbi cihaz satın alındıktan sonra kullanıcılara ve teknik servis sorumlularına verilecek eğitim süresi ve şartları şartnamelerde belirtilecektir.
 
 2.7. 554 sayılı KHK gereğince, Türk Patent ve Marka Kurumu tarafindan tescil edilmiş ve Tıbbi Cihaz Yönetmeliklerine uygun üretilmiş olan, tek ithalatçısı veya tek üreticisi bulunan tıbbi cihazların tasarım haklarının korunması amacıyla, satın almalarda 4734 sayılı Kamu Ihale Kanununun ilgili hükümleri göz önünde bulundurulmak zorundadır.
 
 2.8. Tıbbi cihazlara satış sonrası hizmeti sunacak kuruluşlardan "TS 12426 Yetkili Servisler
 
-- Tıbbi Cihazlar Için Kurallar" standardına veya " TS 13703 - Özei Servisler - Tıbbi Cihazlar Için Kurallar" standardına veya "TS 13011 Yetkili Servisler-Cerrahi El Aletleri-Kurallar" veya "TS 13005 Yetkili Servisler-Tibbi ve Laboratuvar Amaçhı Hastane Mefruşatı ve Ekipmanlan için-Kurallar" standardına göre hizmet alınacak cihaz için hizmet yeterlilik belgesine sahip olma şartı aranacaktır. Satın alınan tıbbi cihaz ile ilgili bakım onarım ihtiyacı için satışı yapan satış merkezine ulaşılamaması halinde üretici veya ithalatçı firmaya ulaşılarak sorunun giderilmesi yönünde ihale sözleşmelerinde düzenleme yapılacaktır. Ayrıca idareler garanti süresinin bitim tarihinden sonra sağlanacak yedek parçalar için hizmetin özelliğini göz önüne alarak düzenlemeler yapacaklardır.
+- Tıbbi Cihazlar Için Kurallar" standardına veya " TS 13703 - Özei Servisler - Tıbbi Cihazlar Için Kurallar" standardına veya "TS 13011 Yetkili Servisler-Cerrahi El Aletleri-Kurallar" veya "TS 13005 Yetkili Servisler-Tıbbi ve Laboratuvar Amaçhı Hastane Mefruşatı ve Ekipmanlan için-Kurallar" standardına göre hizmet alınacak cihaz için hizmet yeterlilik belgesine sahip olma şartı aranacaktır. Satın alınan tıbbi cihaz ile ilgili bakım onarım ihtiyacı için satışı yapan satış merkezine ulaşılamaması halinde üretici veya ithalatçı firmaya ulaşılarak sorunun giderilmesi yönünde ihale sözleşmelerinde düzenleme yapılacaktır. Ayrıca idareler garanti süresinin bitim tarihinden sonra sağlanacak yedek parçalar için hizmetin özelliğini göz önüne alarak düzenlemeler yapacaklardır.
 
 2.9. Sağlık kurumları, garanti sonrası alacakları teknik servis hizmet alımlarında; tıbbi cihaz pazarında faaliyet gösteren fırmaların, bu cihazların teknik servisi pazarında şifre uygulaması ve yedek parça teminindeki davranışlarıyla ilgili tüm tıbbi cihazlar için Rekabet Kurulu'nun 18.02.2009 tarih ve 09-07/128-39 sayılı kararını dikkate alacaklardır.
-
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 2.10. Saglık kurumlari; envanterinde görünen tüm ubbi cihaz, araç-gereç ve donanımların periyodik bakımlarımı, amaca uygun olarak kullanılıp kullanılmadıklarını, garanti sürelerinin takibini, envanterin güncelleştirilmesini, tıbbi cihazların ulusal ve uluslararası düzeyde belirlenmiş referans değerlere uygun olarak çalışıp çalışmadığının takibini, kalibrasyonlarının yapılmasını ve sonucunun takibi ile ilgili iş ve işlemleri Yataklı Tedavi Kurumları İşletme Yönetmeliği'nin 106/A maddesi hükümleri uyarınca yerine getirilecektir.
 
@@ -99,9 +117,9 @@ http://www.titck.gov.tr adresinde yer alan "Sağlık Kuruluşları Olumsuz Olay 
 
 2.20. Tıbbi cihaz alımlarında muayene ve kabul süreçlerinde şartname isterlerinin beyan edilen katalog değerleri ile karşılandığına yönelik ölçülebilir parametrelerin masraflan tedarikçi tarafından karşılanacak bağımsız bir metroloji kuruluşu tarafindan değerlendirileceğine ilişkin tedarikçi tarafindan düzenlenen taahhütnameler teknik şartnamelerde mutlaka istenecektir.
 
-### T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlügo
+Sağlık Hizmetleri Genel Müdürlüğü
 
-2.21. Tibbi cihaz alımlarında garanti süresince tedarikçi tarafindan üretici tarafindan belirlenen uygulama kurallarına uygun olarak kullanıcı ve birinci seviye teknik servis eğitimlerinin bedelsiz olarak temin edileceğine dair taahhütnameler teknik şartnamelerde mutlaka istenecektir.
+2.21. Tıbbi cihaz alımlarında garanti süresince tedarikçi tarafindan üretici tarafindan belirlenen uygulama kurallarına uygun olarak kullanıcı ve birinci seviye teknik servis eğitimlerinin bedelsiz olarak temin edileceğine dair taahhütnameler teknik şartnamelerde mutlaka istenecektir.
 
 2.22. Şartnamelerde cihazın arıza durumunda arıza bildirim, müdahale, aktif hale getirilme, arızanın giderilememesi durumunda ikame cihaz tedariği, işletmeye alma ve yedek parça gerekmesi durumunda temin sürelerine ilişkin tedarikçi tarafindan düzenlenen taahhütname mutlaka istenecektir. Cihazın sözleşme süresince çalışmadığı günler için cezaya ilişkin hükümler yer alacaktır. Sözleşmede belirtilen garanti süresi veya varsa bakım anlaşmaları sürecinde cihazın çalışmadığı, eksiksiz hizmet sunmadığı, down-time sürelere ilişkin sözleşme kapsamında verilen hizmete karşılık gelen güncel Sağlık Uygulama Tebliği'nin ilgili ekinde yer verilen Işlem Bedeli / Işlem Puant / Tıbbi Malzeme Alan Tanımı ile günlük ortalama işlem hacmi göz önüne alınarak hesaplanacak bedel hizmet tedarikçisine cezai işlem olarak uygulanır.
 
@@ -111,13 +129,11 @@ http://www.titck.gov.tr adresinde yer alan "Sağlık Kuruluşları Olumsuz Olay 
 
 2.25. Tıbbi cihaz satın alımlarında; öncelikli olarak yoğun bakımda kullanılacak cihazlar olmak üzere tüm tıbbi cihazların HL7 standardında ham veri (RAW data) aktarabilmesi için gerekli olan entegrasyon bilgi ve dökümanlarının (protokoller, şifre, SDK (Software Development Kit)), yüklenici firma tarafindan cihazın kurulacağı idareye teslim edileceğine dair
 
-### 3. TIBBI CİHAZ VE TIBBİ HİZMET ALIMLARI:
+### 3. TIBBİ CİHAZ VE TIBBİ HİZMET ALIMLARI:
 
 3.1. Sağlıkta Dönüşüm Programını takiben sağlık kurumlarımızın artan hasta potansiyeli, birçok hastalığın tanı ve tedavisinde yüksek teknoloji ürünü tıbbi cihazların kullanımı zorunluluğunu beraberinde getirmiştir. Ancak bu cihazların yüksek maliyetli olması ve kamu kaynaklarının etkin ve verimli olarak kullanılması gerektiği de dikkate alınmalıdır. Bu cihazlarla yapılacak hizmetlerin öncellikle Sağhk Bakanlığı'na bağh sağlık kurum ve kuruluşları ile sağhık hizmeti sunan 4734 sayıl: Kanun kapsamındaki diğer kurumlardan Sağlık Hizmeti Sunan 4734 Sayılı Kamu Ihale Kanunu Kapsamındaki Idarelerin Teşhis ve Tedaviye Yönelik Olarak Birbirlerinden Yapacaklan Mal ve Hizmet Ahımlarına Ilişkin Yönetmelik" ve bu konudaki Bakanlığımız düzenlemeleri uyarınca temin edilmesi gerekmektedir. Bu yöntemle ihtiyacın karşılanamaması halinde cihazların temini için mal veya hizmet alımı yoluna başvurulmalıdır.
 
 3.2.04.01.1961 tarihli ve 209 sayıh Sağlık Bakanlığına Bağhı Sağhk Kurumları Ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 3 üncü maddesinde "Döner sermayeli işletmeler, süreklilik arz eden hizmet alımları ile maliyeti yüksek ve ileri teknoloji ürünü olan tıbbi cihazların hizmet alımı yoluyla temini veya kiralanması için döner sermaye kaynaklarından, gelecek yılara yaygın yüklenmelere girişebilir" hükmüne yer verilmiştir.
-
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 3.3. Hizmet alımı yapacak tüm sağlık kurumları, işe ilişkin idari şartnamelerini düzenlerken Iş Kanunu, Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, Milli Emlak mevzuatı ve ilgili diğer mevzuat hükümlerini de dikkate almak zorundadır.
 
@@ -139,11 +155,9 @@ Söz konusu hizmet alımı ihalelerinde; hizmet alımı süresince tüm güncel 
 
 3.4.8. Hizmet satın ahımı yoluyla temin edilen tetkik ve tedavi maksadıyla kullanılan cihazın/cihazların periyodik veya periyodik olmayan her türlü bakımları ve metroloji faaliyetleri, onarım için gerekli olan tüm yedek parçalar ve her türlü sarf malzemeleri yüklenici firma tarafindan sağlanacaktır.
 
-3.4.9.Hizmet satın alımı yoluyla temin edilen tetkik ve tedavi maksadıyla kullanılan tıbbi cihazın/cihazların alımına ilişkin yukarıda sayılan kriterler dışında asgari teknik ve idari şartları belirleyen şartnameler, alımı yapan sağhk kurumu tarafından oluşturulacak bir komisyon aracılığıyla hazırlanacaktır. İlgili sağlık kurumu ihtiyaçları doğrultusunda ek şartlar belirleyebilecektir.
+3.4.9.Hizmet satın alımı yoluyla temin edilen tetkik ve tedavi maksadıyla kullanılan tıbbi cihazın/cihazların alımına ilişkin yukarıda sayılan kriterler dışında asgari teknik ve idari şartları belirleyen şartnameler, alımı yapan sağlık kurumu tarafından oluşturulacak bir komisyon aracılığıyla hazırlanacaktır. İlgili sağlık kurumu ihtiyaçları doğrultusunda ek şartlar belirleyebilecektir.
 
 3.4.10. Tıbbi cihaz hizmet alımı yoluyla kiralanarak kuruma kurdurulacak olan cihazın/cihazların bakımı, onarımı, her türlü destek ve hizmete hazır halde tutulması için gerekli personel bulundurulmasi istenebilir.
-
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 3.4.11.Hizmet saun alımı, 4734 sayıh Kamu Ihale Kanunu hükümleri çerçevesinde yapılacaktır.
 
@@ -157,9 +171,9 @@ Söz konusu hizmet alımı ihalelerinde; hizmet alımı süresince tüm güncel 
 
 3.4.16. Hizmet alımına konu olan cihazların ilk muayene sırasında ve hizmet alımi süresince bakım, onarım, test, kontrol ve kalibrasyonlarının yaptırılması şartnamelerde istenecektir. Test, kontrol ve kalibrasyonlarda yeterli kalite değerlerini sağlamayan cihazların bütün tamir, bakım ve ayar işlemleri yüklenici firma tarafından karşılanacak, tüm düzeltici işlemlere rağmen test, kontrol ve kalibrasyonlarda istenen değerleri karşıladığı belgelendirilemeyen söz konusu cihazların muayene kabulü yapılmayacaktır.
 
-3.5. Bir cihazın temini konusundaki planlama, ilgili idare tarafından yapılacaktır. Planlama yapılırken, varsa önceki yıllarda gerçekleşen tüketimler, hastanelerin hizmet rolü, cihazla ilgili hasta potansiyeli, cihazla ilgili uzman hekim ve diğer sağlık personelinin yeterliliği, tetkik başına düşen birim maliyetler ve diğer istatistiksel veriler gibi hususlar dikkate alınacaktır. Bu şekilde tıbbi hizmet alımına, tıbbi cihazın satın ahımına, hizmet alımına veya diğer sağhk kurumlarından protokol yoluyla tedarik edilmesine karar verilecektir.
+3.5. Bir cihazın temini konusundaki planlama, ilgili idare tarafından yapılacaktır. Planlama yapılırken, varsa önceki yıllarda gerçekleşen tüketimler, hastanelerin hizmet rolü, cihazla ilgili hasta potansiyeli, cihazla ilgili uzman hekim ve diğer sağlık personelinin yeterliliği, tetkik başına düşen birim maliyetler ve diğer istatistiksel veriler gibi hususlar dikkate alınacaktır. Bu şekilde tıbbi hizmet alımına, tıbbi cihazın satın ahımına, hizmet alımına veya diğer sağlık kurumlarından protokol yoluyla tedarik edilmesine karar verilecektir.
 
-3.6. İlgili idare tarafindan hizmet alınması düşünülen tüm tıbbi hizmetler ve tibbi cihaz hizmetleri için "Tıbbi Cihaz ve Tibbi Hizmet Alımı Için Başvuru Formlar" doldurularak, gerekçe raporu ile birlikte talep yazıları ekinde II Sağlık Müdürlüğü'ne başvurulacaktır. Gerekçe raporunda ve formlarda aşağıdaki alt maddelerde istenenlerin tamamı cevaplanacaktır;
+3.6. İlgili idare tarafindan hizmet alınması düşünülen tüm tıbbi hizmetler ve tıbbi cihaz hizmetleri için "Tıbbi Cihaz ve Tıbbi Hizmet Alımı Için Başvuru Formlar" doldurularak, gerekçe raporu ile birlikte talep yazıları ekinde II Sağlık Müdürlüğü'ne başvurulacaktır. Gerekçe raporunda ve formlarda aşağıdaki alt maddelerde istenenlerin tamamı cevaplanacaktır;
 
 3.6.1. Hizmet alım olarak temin edilmek istenen hizmetin kapsamı,
 
@@ -185,7 +199,7 @@ Söz konusu hizmet alımı ihalelerinde; hizmet alımı süresince tüm güncel 
 
 3.7. Tıbbi Cihaz Yönetmelikleri kapsamındaki ürünlerin ve cihazların hizmet alımı yoluyla sağlık hizmet sunumunda kullanılması durumunda bu genelgenin "Tıbbi Cihaz Alim Esaslan"
 
-### T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+Sağlık Hizmetleri Genel Müdürlüğü
 
 başlıkh 2. maddesindeki ürün ve cihazlar ile cihaz tedarikçilerine ilişkin kayıt, tescil, satış yetki belgesi, uyarı sistemi takip ve kontrolleri, up-time, malzeme tanımlarına ilişkin iş ve işlemler uygulanır.
 
@@ -195,7 +209,7 @@ başlıkh 2. maddesindeki ürün ve cihazlar ile cihaz tedarikçilerine ilişkin
 
 4.2. Şartnamelerde cihazın çalışmadığı günler için ücret ödenmemesi ve ceza kesilmesine ilişkin cihazların çalışmaması sebebi ile hastane hizmetlerinin aksaması halinde alternatif uygulamalar önceden belirlenecektir. Sözleşmede belirtilen hizmet sunumu sürecinde cihazın çalışmadığı, eksiksiz hizmet sunulmayan, down-time sürelere ilişkin sözleşme kapsamında verilen hizmete karşılık gelen güncel Sağlık Uygulama Tebliği'nin ilgili ekinde yer verilen Işlem Bedeli / Işlem Puanı / Tıbbi Malzeme Alan Tanım ile günlük ortalama işlem hacmi göz önüne alınarak hesaplanacak bedel hizmet tedarikçisine cezai işlem olarak uygulanacağı hüküm olarak yer alacaktır.
 
-4.3. Kitler ve sarf malzemeleri Vücut Dişında Kullanılan Tibbi Tanı Cihazlari Yönetmeliği" ne uygun şekilde üretilmiş veya ithal edilmiş olacaktır
+4.3. Kitler ve sarf malzemeleri Vücut Dişında Kullanılan Tıbbi Tanı Cihazlari Yönetmeliği" ne uygun şekilde üretilmiş veya ithal edilmiş olacaktır
 
 4.4. Cihazlarda iç ve dış kalite kontrol programları bulunacak ve bunlar için gerekli kalite kontrol kitleri ile dış kalite kayıt giderleri firma tarafından karşılanacaktır. Şartnamelere ödemelerin gerçekleşen test sayıları üzerinden yapılacağına ilişkin hükümler konulacaktır.
 
@@ -209,11 +223,11 @@ SE
 
 4.8. Tüm sağlık kurum ve kuruluşlarında kit veya sarf karşılığı cihaz kullamılması amacıyla ihaleye çıkmak için; Sağlık Uygulama Tebliğlerinde belirtilen fiyatlanı ve toplam poliklinik ile test ve analiz sayılarını kullanarak maliyet-etkililik ve fayda kıstasları kullanılacaktır. Bu kıstaslar yardımıyla; biyokimya analizörü, hepatit testleri, kan sayım cihazı, idrar analizörü, TORCH grubu testleri, ELISA sistem analizleri ve benzerlerine ait ihtiyaç duyulan ve ihale edecekleri test miktanı sayısını, sağlık hizmetinin aksamasına da meydan vermeyecek şekilde
 
-4.9. Kit karşılığı cihaz kullanma alımı yapılabilmesi için cihazların yerleştirileceği kuruluşlarda sorumlu olarak Biyokimya veya Mikrobiyoloji Uzmanı, Biyokimya veya Mikrobiyoloji doktorası yapan personel belirlenecek, ilgili personelin olmadığı kuruluşlarda Il Saghk Müdürlugunce, yukanda belirtilen personelden bulunan sağlık kuruluşlarından sorumlu personel görevlendirilecektir. Sarf karşılığı cihaz kullanımı için ilgili uzman doktor kurumda yok
+4.9. Kit karşılığı cihaz kullanma alımı yapılabilmesi için cihazların yerleştirileceği kuruluşlarda sorumlu olarak Biyokimya veya Mikrobiyoloji Uzmanı, Biyokimya veya Mikrobiyoloji doktorası yapan personel belirlenecek, ilgili personelin olmadığı kuruluşlarda Il Sağlık Müdürlüğünce, yukanda belirtilen personelden bulunan sağlık kuruluşlarından sorumlu personel görevlendirilecektir. Sarf karşılığı cihaz kullanımı için ilgili uzman doktor kurumda yok
 
-### T.C. SAĞLIK BAKANLIĞI Sağhık Hizmetleri Genel Müdürlüğü 5. TIBBI CİHAZ DAİMI ÖZEL İHTİSAS KOMİSYONU (TCDÖİK) İZNİ:
+Sağhık Hizmetleri Genel Müdürlüğü 5. TIBBİ CİHAZ DAİMİ ÖZEL İHTİSAS KOMİSYONU (TCDÖİK) İZNİ:
 
-5.1. Sağlık tesislerinde kullanılacak tıbbi cihazlann satın almasına ilişkin esasları belirlemek ve bu hususta yatırım iznini kararlaştırmak amacıyla, Başbakanlık Makamının 05.10.1993 tarih ve 5107 sayıli onayı ile "Tibbi Cihaz Daimi Ozel Ihtisas Komisyonu" (TCDÖIK) Bakanlığımız koordinatörlüğünde yürütülmektedir. Bu kapsamda, Sağlık Bakanlığı, Yükseköğretim Kurulu (YÖK) Başkanlığı ve Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı temsilcilerinin katılımıyla birer aylık dönemler halinde toplanarak çalışmalarını sürdürecektir.
+5.1. Sağlık tesislerinde kullanılacak tıbbi cihazlann satın almasına ilişkin esasları belirlemek ve bu hususta yatırım iznini kararlaştırmak amacıyla, Başbakanlık Makamının 05.10.1993 tarih ve 5107 sayıli onayı ile "Tıbbi Cihaz Daimi Özel İhtisas Komisyonu" (TCDÖIK) Bakanlığımız koordinatörlüğünde yürütülmektedir. Bu kapsamda, Sağlık Bakanlığı, Yükseköğretim Kurulu (YÖK) Başkanlığı ve Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı temsilcilerinin katılımıyla birer aylık dönemler halinde toplanarak çalışmalarını sürdürecektir.
 
 5.2. Komisyon, her biri ileri teknoloji ürünü ve pahalı olan tıbbi cihazların satın alınması hususunda kuruluş taleplerini değerlendirmeye tabi tutarak ve tesisin altyapısı, insan gücü imkänları, kapasitesi gibi değişkenleri de göz önünde bulundurmak suretiyle gerekli değerlendirmeleri yaparak tavsiye kararları oluşturmaktadır. Komisyon Kararları Bakan Yardımcılığı Makam Onayı ile yürürlüğe girer.
 
@@ -267,7 +281,7 @@ kapsamakta, yaklaşık maliyet ve teknik şartnamenin uygunluğunun onaylanması
 
 19.03.2021 tarih ve 2021/11 sayılı Genelge yürürlükten kaldırılmıştır. 19.03.2021 tarih ve 2021/11 sayılı Genelge, 27.12.2019 tarih ve 2019/19 sayıl Genelge, 09.11.2018 tarih ve 2018/26 sayıl: Genelge, 24.04.2018 tarih ve 2018/13 sayıl Genelge, 11/01/2017 tarihli ve 32 (2017/1) sayılı Genelge ve daha önce 01.03.2010 tarihli ve 8310 (2010/11) sayılı Genelge ile yürürlükten kaldırılan ve Ek-3'te belirtilen düzenlemelere yapılan atıflar, bu Genelgeye yapılmış olarak kabul edilir.
 
-İş bu Genelgenin İlinizde bulunan tüm sağlık kuruluşlarına duyurulması ile Bakanlığımız ve üniversitelere ait sağhk kuruluşlarının tıbbi cihaz, tıbbi cihaz hizmet alımı ve hizmet alımı işlemlerinin iş bu genelge kapsamında yürütülmesi hususunda;
+İş bu Genelgenin İlinizde bulunan tüm sağlık kuruluşlarına duyurulması ile Bakanlığımız ve üniversitelere ait sağlık kuruluşlarının tıbbi cihaz, tıbbi cihaz hizmet alımı ve hizmet alımı işlemlerinin iş bu genelge kapsamında yürütülmesi hususunda;
 
 Bilgilerinizi ve gereğini önemle arz / rica ederim.
 
@@ -277,13 +291,13 @@ Bakan a.
 
 Bakan YardımcıSı
 
-### T.C. SAGLIK BAKANLIGI Sağhk Hizmetleri Genel Müdürlüğü EKLER:
+Sağhk Hizmetleri Genel Müdürlüğü EKLER:
 
-Ek-1/ A-B : Tibbi Cihaz ve Tibbi Hizmet Alımi Için Başvuru Formu Ek-2 : Tıbbi Cihaz Daimi Ozel Ihtisas Komisyonu Izni Başvuru Formu Ek-3 : 2010/11 sayılı Genelge Ile Yürürlükten Kaldırılan Düzenlemeler Listesi Ek-4 : Yetki Grupları Listesi
+Ek-1/ A-B : Tıbbi Cihaz ve Tıbbi Hizmet Alımi Için Başvuru Formu Ek-2 : Tıbbi Cihaz Daimi Özel İhtisas Komisyonu İzni Başvuru Formu Ek-3 : 2010/11 sayılı Genelge Ile Yürürlükten Kaldırılan Düzenlemeler Listesi Ek-4 : Yetki Grupları Listesi
 
 ### DAGITIM
 
-Gereği : Bilgi: 81 Il Valiliği (Il Sağlık Müdürlugu) Cumhurbaşkanhğı Yükseköğretim Kurulu Başkanlığı Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı
+Gereği : Bilgi: 81 Il Valiliği (Il Sağlık Müdürlüğü) Cumhurbaşkanhğı Yükseköğretim Kurulu Başkanlığı Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı
 
 T.B.M.M. Başkanlığı
 

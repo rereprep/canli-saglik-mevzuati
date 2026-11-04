@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-yayin-yonergesi"
+---
+id: "sb-saglik-bakanligi-yayin-yonergesi"
 baslik: "Sağlık Bakanlığı Yayın Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2014-06-02"
 sayi: "5403.6"
 duzeltildi: true
 ---
+
 2.2.10. Sağlık Bakanlığı Yayın Yönergesi 02.06.2014 tarih ve 6404779/2014.5403.6 sayılı Makım Oluru ile yürürlüğe konulan
 
 ### SAĞLIK BAKANLIĞI YAYIN YÖNERGESİ

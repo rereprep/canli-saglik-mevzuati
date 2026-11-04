@@ -1,4 +1,5 @@
----id: "sb-sozlesmeli-yonetici-performans-degerlendirme-yonergesi"
+---
+id: "sb-sozlesmeli-yonetici-performans-degerlendirme-yonergesi"
 baslik: "Sözleşmeli Yönetici Performans Değerlendirme Yönergesi"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2018-05-18"
 sayi: "362"
 duzeltildi: true
 ---
+
 9.2.4. Sözleşmeli Yönetici Performans Değerlendirme Yönergesi
 
 ### SÖZLEŞMELİ YÖNETİCİ PERFORMANS DEGERLENDİRME YÖNERGESİ

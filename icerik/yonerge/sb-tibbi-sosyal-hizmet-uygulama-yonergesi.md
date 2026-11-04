@@ -1,4 +1,5 @@
----id: "sb-tibbi-sosyal-hizmet-uygulama-yonergesi"
+---
+id: "sb-tibbi-sosyal-hizmet-uygulama-yonergesi"
 baslik: "Tıbbi Sosyal Hizmet Uygulama Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2011-02-16"
 sayi: "7465"
 duzeltildi: true
 ---
+
 2.2.12. Tıbbi Sosyal Hizmet Uygulama Yönergesi
 
 ## BİRİNCİ BÖLÜM Amaç, Kapsam ve Dayanak, Tanımlar

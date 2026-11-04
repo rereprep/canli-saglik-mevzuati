@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-sosyal-tesisler-i-sletme-yonergesi"
+---
+id: "sb-saglik-bakanligi-sosyal-tesisler-i-sletme-yonergesi"
 baslik: "Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
@@ -11,7 +12,38 @@ tarih: "2020-01-24"
 sayi: "955"
 duzeltildi: true
 ---
-#### 9.2.2.Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi Vönetim Kurulu ve Çalışma Esasları
+
+9.2.2. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi
+
+### SAĞLIK BAKANLIĞI SOSYAL TESİSLER İŞLETME YÖNERGESİ
+
+## BİRİNCİ BÖLÜM
+### Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+**MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığına bağlı sosyal tesislerin kuruluş ve işletilmesine ilişkin usul ve esasları belirlemektir.
+
+#### Kapsam
+**MADDE 2 –** (1) Bu Yönerge; Sağlık Bakanlığına bağlı olarak faaliyet gösteren sosyal tesisleri kapsar.
+
+#### Dayanak
+**MADDE 3 –** (1) Bu Yönerge; 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddeleri ile Kamu Sosyal Tesislerine İlişkin Tebliğ hükümlerine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+**MADDE 4 –** (1) Bu Yönergede geçen;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Sosyal Tesis: Sağlık Bakanlığına bağlı eğitim ve dinlenme tesisi, misafirhane, kreş ve çocuk bakımevi, spor tesisi, yemekhane ve benzeri tesisleri,
+c) Üst Yönetici: Sağlık Bakanlığı Bakan Yardımcısını,
+ifade eder.
+
+## İKİNCİ BÖLÜM
+### Sosyal Tesislerin Kuruluşu ve İşletilmesi
+
+#### Kuruluş
+**MADDE 5 –** (1) Sosyal tesisler Üst Yöneticinin onayı ile kurulur veya kapatılır.
+
+## ÜÇÜNCÜ BÖLÜM
+### Yönetim Kurulu ve Çalışma Esasları
 
 **MADDE 6 –** (L) Yönetim Kurulu bi başkan ve 2 üyeden oluşur. Üye sayıst kadar yedak yu belirlerir. Yönetim Kurulu Başkanımı ve üyelerini üst yönetici belirler. Görevlendirmeler bir yıl süre ile yapılır. Görev süresi sosa erenler, ayrı usülle tekrar görevlendirilebilir.
 

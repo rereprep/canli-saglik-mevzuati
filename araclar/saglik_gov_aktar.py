@@ -75,7 +75,28 @@ def main():
             dosya = INDIRILEN / tur / o.get("dosya", "-")
             tip = o.get("tip")
             tamam = False
-            if tip == "pdf" and dosya.exists():
+            if o.get("resmi_url"):
+                veri["kaynak_url"] = o["resmi_url"]
+            ekler = [e for e in o.get("ekler", []) if (INDIRILEN / tur / e["dosya"]).exists()]
+            pdf_ekler = [e for e in ekler if e["tip"] == "pdf"]
+            word_ekler = [e for e in ekler if e["tip"] in ("docx", "doc")]
+            if pdf_ekler:
+                parcalar = []
+                for e in sorted(pdf_ekler, key=lambda e: not e["ustyazi"]):
+                    try:
+                        with pdfplumber.open(INDIRILEN / tur / e["dosya"]) as pdf:
+                            parcalar.append({"kaynak_pdf": f"{tur}/{e['dosya']}", "pdf_baslangic": 1, "pdf_bitis": len(pdf.pages)})
+                    except Exception as hata:
+                        print("PDF açılamadı:", e["dosya"], hata)
+                if parcalar:
+                    segmentler.append({**veri, "parcalar": parcalar})
+                    tamam = True
+            elif word_ekler:
+                e = word_ekler[0]
+                tip, dosya = e["tip"], INDIRILEN / tur / e["dosya"]
+            if tamam:
+                pass
+            elif tip == "pdf" and dosya.exists():
                 try:
                     with pdfplumber.open(dosya) as pdf:
                         n = len(pdf.pages)

@@ -1,0 +1,67 @@
+---
+id: "sbg-103423-112-acil-cagri-merkezleri-genelgesi-2014-26"
+baslik: "112 Acil Çağrı Merkezleri Genelgesi (2014/26)"
+tur: "genelge"
+sayi: "2014/26"
+birim: "Acil Sağlık Hizmetleri Genel Müdürlüğü"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
+kaynak_url: "https://www.saglik.gov.tr/TR-103423/112-acil-cagri-merkezleri-genelgesi-201426.html"
+durum: "yürürlükte"
+ocr: true
+---
+
+3.3.2. 112 Acil Çağrı Merkezleri Genelgesi (2014/26) türlü altyapıyı kurmak, işletmek ve kurumların kullanımıma sunmak,", h) fıkrasında "Çağrı merkezinin fiziki imkânları ölçüsünde ilgili kurumların komuta ve kontrol merkezi ihtiyaçlan için çağrı merkezinde ve diğer mahallerde valilik onayına istinaden yer tahsisi yapmak," 112 Acil Çağrı Merkezi müdürlüklerinin asli görevi olarak tanımlanmış olduğu görülmektedir. Özellikle (e) fikrasında belirtilen hususlar başta olmak üzere, geçişi sağlayan illerde, madde gereklerinin Başhekimlikler tarafindan takip edilerek, geręckleştirilmesini talep etmeleri, gerçekleştirilmemesi durumunda gerekçesi ile birlikte açıklamaların yazılı olarak Bakanlığımıza bildirilmesi gerekmektedir. 10.madde f) fikrasında "Araç takip sistemi ile ilgili iş ve işlemleri gerçekleştirmek, iletişim kurulamayan ilgili kurumların uyarı olanaklarımı sağlamak," 112 Acil Çağrı Merkezi müdürlüklerinin asli görevleri içinde olması nedeniyle, Acil ve Afetlerde Sağlık Hizmetlerinde aktif olarak kullanılan tüm araçların kesintisiz olarak görünür halde bulundurulmasının sağlanması gerekmektedir. Bu özellik halen illerde kurulu Sağlık Komuta Merkezlerindeki sunucular üzerinden temin edilebilmekte olduğundan. Başhekimliklerdeki sunucu sistemlerinin kesintisiz çalıştırılması için telsız, teleton ve internet gibi iletişim ve sunucu sistemlerinin yenilenmesinin sağlanması gerekmektedir. Sistemlerde kullanılan iletişim numaraları ve internet bağlantıları, gömülü hat numaraları ve statik IP üzerinden sağlanmakta olduğundan, sunucu sistemlerinin taşınmaması, zorunlu durumlarda ise Bakanlığımız ile koordineli biçimde, gerekli olurları alınarak taşınma İşlemlerinin gerçekleştirilmesi gerekmektedir.
+
+13. madde ile "(3) Kurumlar, acil yardımın gerektirdiği kendi görev alanı ile ilgili hizmeti sunmaktan bizzat, diğer kurumlarla yardımlaşma ve işbirliği gerektiren durumlarda ise destek sağlamakla sorumludur." ve "(5) Görevlendirilen personelin müdürlükçe verilen hizmet içi eğitimler dışında kalan kendi görev alanları ile ilgili uyum ve geliştirme eğitimleri ile uygulama tatbikatları müdürlüğün bilgisi dâhilinde ilgili kurumlar tarafindan sağlanır." denilmekte olduğundan, gerçekleştirilen vaka görevlendirmelerinde ekiplerin en üst düzeyde güvenliğinin sağlanacak şekilde diğer ilgili kurumların da görevlendirmelerinin sağlanması, Müdürlüklerde görevlendirilecek personelin, sayılan belgelendirilmiş eğitimleri almalarımın sağlanarak, görevlendirmelerinin yapılması, bu personelin görevlendirmelerinde aşağıda belirtilen hususlara dikkat edilmesi gerekmektedir. Gerçekleştirilen görevlendirmeler nedeniyle ortaya çıkacak hizmet açıklarının ise öncelikle Il Sağlık Müdürlükleri bünyesinden karşılanması, yetersiz kalması durumunda Bakanlıktan talep edilmesi gerekmektedir.
+
+14. madde ile "i) Çağrı merkezi ile kendi kurumlarının acil yardım hizmeti sunan komuta ve kontrol merkezleri arasında telli, telsiz ve yazılım bağlantılarını kullanarak iletişimi sağlamak" ve 15. Maddede belirtilen "(1) Çağrı yönlendiricilerin kurumsal olarak ek görevleri; a) Sağlık çağrı yönlendiricileri: 1) Yönlendirilen ekibe ilişkin, çıkış, olay yerine ulaşma, olay yerinden ayrılma, hastaneye ulaşma, hastaneden ayrılma ve istasyona donme surelerini bildirilen zamanda ve araç takip sisteminden gözlemleyerek doğru ve eksiksiz kaydetmek ve veri terminalinden eksiksiz girilmesini sağlamak." işinin Acil Çağrı Merkezi'nde çalışmakta olan çağnı yönlendiriciler tarafindan gerçekleştirileceği belirtilmiştir. Bu kapsamda görevlendirilecek personelin işe başlama eğitimleri almaları sağlanmalı, hangi durumlarda ve hangi usullerle yönlendirmelerin yapılacağı konusunda valiliklerce bildirilen düzenlemelerin birer kopyası Bakanlığımıza gönderilmelidir.
+
+17. maddede "(1) Illerde valinin başkanlığında ilgili vali yardımcısı, il jandarma komutanı, il emniyet müdürü, varsa sahil güvenlik bölge veya grup komutamı, büyükşehir veya il belediye başkanı, orman bölge veya işletme müdürü, doğa koruma ve milli parklar bölge veya şube müdürü, il sağlık müdürü, il afet ve acil durum müdürü, çağrı merkezi müdürü ve çağrı merkezi ile ilişkilendirilen diğer kurum yöneticilerinin katılımı ile Acil Çağrı Hizmetleri Il Koordinasyon Komisyonu olusturulur. Acil Çağrı Hizmetleri Il Koordinasyon Komisyonu şubat ve eylül aylarında olmak üzere yılda iki defa toplanır. Başkan, gerektiğinde Acil Çağrı Hizmetleri Il Koordinasyon Komisyonunu ayrıca toplantıya çağırabilir." denilmektedir. Bu toplantılara Il Sağlık Müdürleri doğrudan katılacak olup, toplantı öncesinde ilgili Sağhk Müdür Yardımcısı, Acil Sağlık Hizmetleri Şube Müdürü, Il Ambulans Servisi Başhekimi ve müdürlükçe belirlenen acil çağrı merkezi sorumlusu ile birlikte karşılaşılan sorunları belirleyerek, oluşturulan çözüm önerileri konusunda Acil Sağlık Hizmetleri Genel Müdürlüğü'nün mevzuatı çerçevesinde talepleri aktaracak, toplantı sonuçlarını derhal Bakanlığa bildirilecektir.
+
+18. maddede *(2) İlgili kurumların acil çağrı ve yardım hizmeti sunan birimlerinde görev yapan personelinin, araç ve gereçlerinin tamamınan veya bir bölümünün çağrı merkezinde görevlendirilmesi ihtiyaç ve hizmet gerekleri göz önünde bulundurularak valılikçe belirlenir."
+
+(5) Ilgili birimler kurumunu temsilen iş, işleyiş ve kendi personelini takip etmel ve çağrı merkezi müdürü ile kurumu arasındaki koordinasyonu sağlayacak birim sorumlusu belirler. Birim sorumluları işleyişten çağrı merkezi müdürünün gözetiminde vali yardımcısına karşı sorumludur.", "(10) Çağrı merkezlerine görevlendirilen personelin iaşe giderleri ile ulaşım hizmetleri kurumların kendi mevzuatına göre karşılanır. Valilikçe mevzuat çerçevesınde bu ihtiyaçların ortaklaşa karşılanması için gerekli tedbirler alınır.", "(11) Çağrı merkezi bünyesinde hizmet veren kurumlara Müdürlükçe temin edilip tahsis edilen taşırların hizmet gereklerine uygun olarak kullanılması ve korunmasından tahsis yapılan ilgili kurumlar sorumludur." denilmekte olduğundan, valiliklerce görevlendirilmesi talep edilen personel, araç ve gerecin listesi ayrıntısı ile belirlenecek, doğacak hizmet açıklarmın giderilmesi hususunda Bakanlıktan görüş istenecektir. 5. Fıkrada belirtilen Çağrı Merkezine görevlendirilecek ilgili kurum sorumlusu en az Başhekim Yardımcısı statüsünde olacak, açık adres ve iletişim bilgileri Bakanlığa gönderilecektir. Bu merkezlerde görevlendirilen personelin asıl çalıştığı kadrosunun bulunduğu yerdeki özlük haklarının aynen devam etmesi sağlanarak, ek bir yazışmaya mahal vermeden, hak kayıplarının önüne geçilmesi II Sağhk Müdürleri tarafindan sağlanacaktır.
+
+19. maddede "Bu esaslara uygun yeterli personelin bulunmaması halinde, valilikçe kadro, 3152 suyin Kahumun zå ici maldesi hatmiri dogrulusunda görevlendirilebiles: unvanlarına bakılmaksızın uzman, sözleşmeli personel "e) Çağrı merkezinde, çağrı yönlendirici olarak görev yapacak olan personelin nitelik ve sayıları müdürlük tarafindan ilgili kurumlarla koordine edilerek valilik onayı ile tespit edilir. Onayı müteakip ilgili kurumlar tarafindan öncelik ve İvedilikle personel görevlendirmesi sağlanır." denilmekte olduğundan, bu konudaki görevlendirmelerde aşağıda belirtilen özellikler dikkate alınarak, görevlendirmelerin kurumlar arasında bir denge ve uyum içinde yapılması sağlanacaktır.
+
+maddede "(2) Çağrı merkezinde hizmet veren kurumların kendi alanlarına ilişkin istatistiki verilere esas ses ve veri kayıtları hizmet gerekleri, hizmetin kalite ve etkinliğini artırmak, personelin performans değerlendirmesini yapabilmek üzere elektronik ortamda ilgili kurumlarla paylaşılabilir. Kişisel verilerin ve özel hayatın gizliliği dikkate alımarak, verilerin güvenliği ilgili birimlerce sağlanır." hükmü çerçevesinde, tüm geçiş yapan iller başta olmak üzere, tüm illerimizde bu madde gereklerinin yerine getirilmesi, öncelikle çağnı merkezi müdürlerinden talep edilerek, verilerin düzenli biçimde Bakanlığımıza akışı sağlanacak. sağlanamayan durumlar gerekçeli olarak Bakanlığımıza bildirilecektir. elesinlesi garinana agada belirin ikeler şerşeve gerekmektedir.
+
+1. 112 Acil Çağrı Merkezine geçiş yapan ya da bir takvim çerçevesinde geçiş yapılacak olan illerde. Sağhk Bakanlığımıza bağlı Sağhk Komuta Merkezlerinin gerekli olan işlevlerinin sürdürülebilmesi amacı ile:
+
+a) Acil Sağhk Hizmet sunumunda 112 Çağnı Kayıt ve Operasyon Yönetim Sistemi (ÇKOS) yazılımı kullanılan Bakanlığımız Sağlık Komuta Merkezlerinin (IL- SAKOM) işlevlerinin (yoğun bakım yer teyidi, hastaneler arası koordinasyon, acil vakalara danışmanlık, istasyon ekiplerine danışmanlık, illerin ve hasta yakınlarımın bilgilendirilmesi, özellikli araç görevlendirilmesi, veri kayıtlarımın takibi, personel takibi, organ nakli koordinasyonu, araç ve malzeme takipleri, iller arası nakiller vb) sürdürülebilirliği, sağlanacaktır.
+
+b) Tüm İllerimizde Sağhk Komuta Merkezlerinde kullanılan pilot numaralanı, faks, DATA, telsiz gibi iletişim hatlarımın iptal edilmeden ve devri yapılmadan, açık ve çalışır durumda bulundurulması sağlanacaktır. Illerde metrocthernet, PRI, SDH, R/L. gibi hatlar ile de iletişim alt yapısı güçlendirilecektir. Sağhk Komuta Merkezlerinde kurulu olan ve kullanılan 112 Çağrı Kayıt ve Operasyon Yönetim Sistemi yazılımları çalışmaya devam edecektir, yazılımların yüklü olduğu donanımlar ile veri sunumu yapan server sistemleri de aktif kullamılmaya devam edilecektir.
+
+d) 112 Acil Çağrı Merkezlerine devrolduğu halde, yeterli fiziki şartları sağlayamayan illerde, sağlık komuta merkezlerine tekrar ihtiyaç olması halinde, Sağlık Komuta
+
+• Merkezlerine geçiş sürecinde zaman kaybına yol açmamak için bu merkezler sistemleri çalışır durumda hazır bulundurulacaktır. Fiziki alanların yetersizliği durumunda yukarıda belirtilen hususlardaki görevlerini yerine getirecek şekilde çalışmasına devam edecektir.
+
+e) 112 Acil Çağrı Merkezi (112 AÇM) kurulması aşamasında, 112 AÇM binasının yerinin belirlenmesinden, bina projesi oluşturulması aşamasına kadar geçen süreçlerde gereksinimler yerinde ve zamamında belirlenecektir. Karara varılan süreçlerle ilgili, Bakanlığımızdan gerekli olur alımmak sureti ile projelere gerekli ekleme önerileri de yapılarak valiliklerden talep oluşturulacaktır.
+
+1) Süreç süresince 112 AÇM formu tüm iller tarafindan haftalık olarak gönderilecektir. 112 Acil Çağrı Merkezleri Kuruluş, Görev Çalışma Yönetmeliği dördüncü bölüm Madde 19 (1-a) paragrafinda; " Müdürlük personeli, ilgili mevzuatta belirtilen esaslara uygun olarak atanır. a ) Bu esaslara uygun yeterli personelin bulunmaması halinde. valilikçe kadro, yer ve ünvanlarına bakılmaksızın uzman, sözleşmeli personel ve memurlar, 3152 sayılı kanunun 28nei maddesi hükümleri doğrultusunda görevlendirilir." denilmektedir.
+
+a) Il Ambulans Servisi Başhekimliklerine ataması yapılan personelin asli görev
+
+tamımlarna göre görev yapması gerekmektedir. Ataması yapılacak olan personelin özlük haklarında herhangi bir aksaklığa mahal verilmeden görevlendirilmesi gerekmektedir.
+
+b) 112 Il Ambulans Servisi Başhekimliği Sağlık Komuta Merkezlerinden, 112 Acil Çağrı Merkezlerine personel görevlendirilmesinde; hizmetin aksatılmaması ve istekli personele öncelik tanmarak, atanacak personelin özlük haklarının korunması esas olacaktır. Görevlendirilen personel: görevli olduğu süre boyunca Acil Çağrı Merkezinin çalışma düzenine uymakla mükelleftir, Personel, Acil Sağlık Hizmetleri Genel Müdürlüğü tarafindan belirlenen standartlardaki kıyafetleri ile 112 Acil Çağrı Merkezinde görevini yürütecektir,
+
+c) Il Ambulans Servisi Başhekimliklerimiz aynı şekilde görevlerine devam edeceklerdir. Illerde Başhekimliklerimize bağh olup 112 Acil Çağrı Merkezine geçiş yapacak personellerin iş ve işlemlerinin planlaması, valilikler ve Bakanlığımız ile koordineli biçimde gerçekleştirilecektir.
+
+3. Bakanlık Sağlık Afet Koordinasyon Merkezi (SAKOM) ile olan her türlü iletişim Sağlık Komuta Merkezleri (IL-SAKOM) üzerinden sürdürülecektir. Acil Çağrı Merkezleri tarafindan temin edilen verilerin güvenliği II Ambulans Servisi Başhekimlikleri tarafindan sağlanacak ve Bakanlığımız bilgi güvenliği mevzuatına uygun olarak veri paylaşımı sağlanacaktır.
+
+4. Acil Çağrı Merkezleri nde görevlendirilen personelin nöbet liste ve çizelgeleri belirlenen grup sorumluları tarafindan gerçekleştirilecektir.
+
+5. Acil Çağrı başvurularımın sürdürülmesi sorumluluğu Acil Çağn Merkezi Müdürlüklerine ait olup, sağhk çağrılarıma uygun ekip görevlendirmesi Il Ambulans Servisi Başhekimliklerinin yetki ve sorumluluğundadır.
+
+6. "112" acil çağrı numarasıın kullanım yetkisi geçiş yapılmayan illerde geçiş öncesi ve geçiş tamamlanana kadar Bakanlığımız uhdesindedir. 112 acil çağrı numarasının kullanılması ve taşınması sürecinde Bakanlığımızım olumlu görüşleri alınmak sureti ile hareket edilecektir. Acil sağhk hizmetinin sunumunda herhangi bir aksaklığa mahal verilmeyecektir. Il Sağlık Müdürleri, genelgede belirtilen hususların yerine getirilmesinden doğrudan sorumlu olduklarından, gerekli özenin gösterilmesi hususunda bilgi ve gereğini rica ederim.
+
+Prof. Dr. Eyüp GÜMÜS
+
+Bakan a,
+
+Müstes: Ek: 112 AÇM Tablosu
+
+### DAGITIM:
+
+- 81 II Valiliği

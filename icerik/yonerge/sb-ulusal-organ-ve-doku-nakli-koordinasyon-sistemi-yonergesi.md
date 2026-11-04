@@ -1,4 +1,5 @@
----id: "sb-ulusal-organ-ve-doku-nakli-koordinasyon-sistemi-yonergesi"
+---
+id: "sb-ulusal-organ-ve-doku-nakli-koordinasyon-sistemi-yonergesi"
 baslik: "Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
@@ -11,7 +12,31 @@ tarih: "2008-05-28"
 sayi: "19735"
 duzeltildi: true
 ---
+
 2.2.15. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi
+
+### ULUSAL ORGAN VE DOKU NAKLİ KOORDİNASYON SİSTEMİ YÖNERGESİ
+
+## BİRİNCİ BÖLÜM
+### Amaç, Kapsam, Hukuki Dayanak ve Tanımlar
+
+#### Amaç
+**Madde 1 –** (1) Bu Yönergenin amacı; ülke genelinde organ ve doku nakli hizmetlerinin bilimsel kurallara, etik ilkelere ve mevzuata uygun olarak, adaletli, etkin ve koordineli bir şekilde yürütülmesini sağlamak üzere Ulusal Organ ve Doku Nakli Koordinasyon Sisteminin teşkilatlanması, işleyişi ile organ ve doku dağıtım ilkelerini belirlemektir.
+
+#### Kapsam
+**Madde 2 –** (1) Bu Yönerge; organ ve doku kaynağı merkezi olan tüm yataklı sağlık tesislerini, organ ve doku nakli merkezlerini, doku tipleme laboratuvarlarını, bölge koordinasyon merkezlerini ve ilgili diğer birimleri kapsar.
+
+#### Hukuki Dayanak
+**Madde 3 –** (1) Bu Yönerge; 2238 sayılı Organ ve Doku Alınması, Saklanması, Aşılanması ve Nakli Hakkında Kanun ile Organ ve Doku Nakli Hizmetleri Yönetmeliğine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+**Madde 4 –** (1) Bu Yönergede geçen;
+a) Bakanlık: Sağlık Bakanlığını,
+b) UKS: Ulusal Organ ve Doku Nakli Koordinasyon Sistemini,
+c) UKM: Ulusal Koordinasyon Merkezini,
+ç) BKM: Bölge Koordinasyon Merkezini,
+d) Nakil Merkezi: Organ veya doku nakli yapmak üzere Bakanlıkça yetkilendirilmiş merkezi,
+ifade eder.
 
 ## İKİNCİ BÖLÜM Kadavra Vericiden Organ ve Doku Dağıtım İlkeleri
 

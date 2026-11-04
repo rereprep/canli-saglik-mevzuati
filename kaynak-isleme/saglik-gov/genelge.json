@@ -61,7 +61,21 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10549/hukuk-hizmetlerinin-yurutulmesi-genelgesi-yayinlandi.html",
   "tip": "html",
-  "dosya": "10549.html"
+  "dosya": "10549.html",
+  "ekler": [
+   {
+    "dosya": "10549-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/442/0/hhypdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10549-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/444/0/ek-1-20164-sayili-hukuk-hizmetlerinin-yurutulmesi-genelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10548",
@@ -69,7 +83,15 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10548/hukuki-yardim-ve-beyaz-kod-uygulamasi-genelgesi-yayinlandi.html",
   "tip": "html",
-  "dosya": "10548.html"
+  "dosya": "10548.html",
+  "ekler": [
+   {
+    "dosya": "10548-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/439/0/hybupdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10539",
@@ -77,7 +99,45 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10539/05052004-tarih-ve-25453-sayili-resmi-gazetede-yayimlanarak-yururluge-giren-saglik-ve-yardimci-saglik-personeli-tarafindan-yerine-getirilmesi-gereken-hizmetlerin-satin-alma-yoluyla-gordurulmesine-iliskin-esas-ve-usullerin-tatbiki-hakkinda-uygulama-talim.html",
   "tip": "html",
-  "dosya": "10539.html"
+  "dosya": "10539.html",
+  "ekler": [
+   {
+    "dosya": "10539-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/370/0/guygulamatalimatidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10539-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/371/0/gidarisartnameornegidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10539-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/373/0/gtekniksartnameornegidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10539-ek4.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/378/0/gteknikpuanveyeterliksartnamesiornegidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10539-ek5.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/382/0/gtekniksartnameekigorevtanimlaridoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10539-ek6.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/384/0/ghizmetsatinalmasozlesmesiornegidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10540",
@@ -85,7 +145,21 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10540/05052004-tarih-ve-25453-sayili-resmi-gazetede-yayimlanarak-yururluge-giren-saglik-ve-yardimci-saglik-personeli-tarafindan-yerine-getirilmesi-gereken-hizmetlerin-satin-alma-yoluyla-gordurulmesine-iliskin-esas-ve-usuller-geregince-yapilacak-acik-teklif-u.html",
   "tip": "html",
-  "dosya": "10540.html"
+  "dosya": "10540.html",
+  "ekler": [
+   {
+    "dosya": "10540-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/371/0/gidarisartnameornegidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10540-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/394/0/gsaglikhizmetialimiihalelerindetabanmaliyettutarlaridoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10541",
@@ -117,7 +191,27 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10544/tasra-teskilatinda-gorevli-avukatlarin-dava-ve-icra-takipleri-ile-alakali-olarak-tesis-edecekleri-is-ve-islemler-hakkinda-genelge201144.html",
   "tip": "html",
-  "dosya": "10544.html"
+  "dosya": "10544.html",
+  "ekler": [
+   {
+    "dosya": "10544-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/400/0/genel-vekaletname-verilen-avukat-listesixls.xls",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10544-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/402/0/tasra-teskilatinda-gorevli-avukatlarin-dava-ve-icra-takipleri-ile-alakali-olarak-tesis-edecekleri-is-ve-islemlerdoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10544-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/404/0/genel-vekaletnamedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10545",
@@ -125,7 +219,15 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10545/muhakemat-hizmetlerinin-bakanlik-ve-bagli-kuruluslarca-mustereken-yurutulmesi-genelgesi-20131.html",
   "tip": "html",
-  "dosya": "10545.html"
+  "dosya": "10545.html",
+  "ekler": [
+   {
+    "dosya": "10545-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/416/0/hukukmuspdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10546",
@@ -133,7 +235,15 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10546/hukuki-yardim-genelgesi-20132-17042013-tarih-ve-9854sayili.html",
   "tip": "html",
-  "dosya": "10546.html"
+  "dosya": "10546.html",
+  "ekler": [
+   {
+    "dosya": "10546-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/417/0/hukukiyardimvedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10547",
@@ -141,7 +251,39 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10547/bakanlik-ve-bagli-kuruluslarinin-tasra-teskilatlarinin-isleyisi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10547.html"
+  "dosya": "10547.html",
+  "ekler": [
+   {
+    "dosya": "10547-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/419/0/genelgepdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10547-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/423/0/ilyatirimplanlamarehberipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10547-ek3.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/425/0/2ilikplanlamapdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10547-ek4.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/428/0/ilstratejikplanrehberipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10547-ek5.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/431/0/ildenetimrehberipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10551",
@@ -317,7 +459,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10591/saglik-ulasim-araclari-hakkinda-genelge-201040.html",
   "tip": "html",
-  "dosya": "10591.html"
+  "dosya": "10591.html",
+  "ekler": [
+   {
+    "dosya": "10591-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/474/0/genelge1pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10590",

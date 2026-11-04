@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-teftis-kurulu-baskanligi-risk-esasli"
+---
+id: "sb-saglik-bakanligi-teftis-kurulu-baskanligi-risk-esasli"
 baslik: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi"
 tur: "yonerge"
 birim: "Teftiş Kurulu Başkanlığı"
@@ -11,6 +12,7 @@ tarih: "2024-11-29"
 sayi: "261023707"
 duzeltildi: true
 ---
+
 10.2.2. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi
 
 ### SAĞLIK BAKANLIĞI TEFTIŞ KURULU BAŞKANLIGI RİSK ESASLI DENETİM SİSTEMİ KOORDİNATÖRLÜĞÜ YÖNERGESİ BİRİNCİ BÔLÜM Başlangı Hükümleri

@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-bagli-hastaneler-ve-ek-saglik-2"
+---
+id: "sb-saglik-bakanligi-bagli-hastaneler-ve-ek-saglik-2"
 baslik: "Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge Değişikliği"
 tur: "yonerge"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: ""
 sayi: ""
 duzeltildi: true
 ---
+
 7.2.9. Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge Değişikliği
 
 ### BAĞLI HASTANELER VE EK SAĞLIK TESİSLERİNİN AÇILMASI VE İŞLEYİŞİ İLE HİZMET BİRLEŞTİRMESİ YAPILMASI HAKKINDA YÖNERGEDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNERGE

@@ -172,6 +172,12 @@ def bul(satirlar, hedef):
 
 def segment_satirlari(seg, pdfler):
     govde, dipnot = [], []
+    if seg.get("parcalar"):
+        for parca in seg["parcalar"]:
+            g, d = segment_satirlari({**parca}, pdfler)
+            govde.extend(g)
+            dipnot.extend(d)
+        return govde, dipnot
     bas, bit = int(seg["pdf_baslangic"]), int(seg["pdf_bitis"])
     for no in range(bas, bit + 1):
         satirlar = list(pdfler.satirlar(seg["kaynak_pdf"], no))
@@ -297,7 +303,8 @@ def main():
             seg.setdefault("durum", "yürürlükte")
             if pdfler.ocr_kullanildi:
                 seg["ocr"] = True
-            seg["kaynak_pdf_sayfa"] = f"{seg['pdf_baslangic']}-{seg['pdf_bitis']}"
+            if seg.get("pdf_baslangic"):
+                seg["kaynak_pdf_sayfa"] = f"{seg['pdf_baslangic']}-{seg['pdf_bitis']}"
             hedef = KOK / "icerik" / seg["tur"] / f"{sid}.md"
             hedef.parent.mkdir(parents=True, exist_ok=True)
             hedef.write_text(on_bilgi(seg) + markdowna(govde, dipnot), encoding="utf-8")

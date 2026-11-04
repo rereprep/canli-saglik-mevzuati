@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-saglik-bilgi-sistemleri-genel-mudurlugu-iz-kayitlari-yonetimi-yonergesi"
+---
+id: "sb-saglik-bakanligi-saglik-bilgi-sistemleri-genel-mudurlugu-iz-kayitlari-yonetimi-yonergesi"
 baslik: "Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü İz Kayıtları Yönetimi Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Bilgi Sistemleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2021-11-08"
 sayi: ""
 duzeltildi: true
 ---
+
 4.2.2. Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü İz Kayıtları Yönetimi Yönergesi
 
 ### SAĞLIK BAKANLIĞI SAĞLIK BİLGİ SİSTEMLERİ GENEL MÜDÜRLÜĞÜ İZ KAYITLARI YÖNETİMİ YÖNERGESİ

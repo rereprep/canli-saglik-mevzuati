@@ -2,49 +2,54 @@
 id: "sb-verem-savasi-hizmetleri-genelgesi-2011-65"
 baslik: "Verem Savaşı Hizmetleri Genelgesi (2011/65)"
 tur: "genelge"
+tarih: "2011-12-27"
 sayi: "2011/65"
-birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Verem Savaşı Hizmetleri Genelgesi (2011/65) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["halk sağlığı", "aşı", "bağışıklama"]
+birim: "Verem Savaşı Dairesi Başkanlığı"
+konu: "Tüberküloz Tanı ve Tedavi Rehberi ile hasta ve hasta yakını bilgilendirme formlarının uygulamaya konulması ve tüberküloz kontrol programının yürütülmesi"
+etiketler: ["halk sağlığı", "tüberküloz", "verem savaşı", "doğrudan gözetimli tedavi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 690-690"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.37. Verem Savașı Hizmetleri Genelgesi (2011/65)
+6.3.37. Verem Savaşı Hizmetleri Genelgesi (2011/65)
 
-### T.C. SAGLIK BAKANLIGI
+T.C.
+SAĞLIK BAKANLIĞI
+Verem Savaşı Dairesi Başkanlığı
 
-Verem Savaşı Dairesi Başkanlığı SAĞLEK BACANLIGE
+Sayı : B.10.0.VSD.0.00.00.09-010-06 / 1433-4
+Konu : Verem Savaşı Hizmetleri
 
-ere Sarap Daire BakIdari ve Ma
+27 Aralık 2011 16:06:57
 
-ger Sume 32td. Iclari Iyor Hirim Says : B.10.0.VSD.0.00.00.09-010-06/ 27 Arabk 2011 16:06:57
+....... VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
-(433-4 Komu : Verem Savaşı HizinetJeri
+GENELGE
+2011/65
 
-### CENES VALILIGINE (I Sağlık Müdürtiğü)
+Bakanlık Makamının 14/05/2009 tarihli ve 1997 sayılı Onayı ile yürürlüğe konulan "Sağlık Bakanlığı Verem Savaşı Dairesi Başkanlığınca Oluşturulacak Danışma Kurullarının Kuruluş ve Görevleri ile Çalışma Usul ve Esasları Hakkındaki Yönerge" hükümleri gereği oluşturulan Bilimsel Danışma Kurullarının tavsiye niteliğindeki kararları doğrultusunda;
 
-Bakanlık Makamının 14/05/2009 tarihli ve 1997 sayılı Onayı ile ytrürluge konulan "Sağlık Bakanlığı Verem Savaşı Dairesi Başkanlığınca Oluşturulacak Duaşma Kurullarınan Kuraluş ve Görevleri ile Çalışma Usul ve Esaslan Hakkındaki Yönerge" hükümleri gereği oluşturulan Bilimsel Danaşana Kurulhranm tavsiye niteligindeki kararlan doğrultusunda;
+1- Ülkemizde tüberküloz kontrolünde DSÖ'nün benimsediği Tüberkülozu Durdurma Stratejisi ve Uluslararası Tüberküloz Bakım Standartları (UTBS) esas alınarak her bireyin en iyi korunma önlemlerinden ve her tüberküloz hastasının tanı ve tedaviden yararlanmasını sağlamak üzere hazırlanan "Tüberküloz Tanı ve Tedavi Rehberi"nin uygulamaya konulması uygun görülmüştür.
 
-1-Ülkemizde tüberkäloz kontrolände DSO' nün benimsediği Tüberkülozu Durdurna Stratejisi ve Uluslararası Tuberküloz Bakm Standartları (UTBS) esas alarak her bireyin on iyi koranma önlenerinden ve her tüberküloz hastasının tanı ve tedaviden yararlanmasın sağlanak üecre hrarlanan "Tüberküloz Tacu ve Tedavi Rebberi" nin uygulamaya konulması uygun görulmuştur.
+İliniz sağlık kurum ve kuruluşlarına bahse konu rehberin dağıtılması, tüberküloz tanısı ve tedavisi ile ilgili uygulamalarda rehberde belirtilen hususlara titizlikle uyulması gerekmektedir.
 
-Hiniz sağlık kurum ve kuruluşlarına babse konu rehberin dağıtılması, tüberküloz tausı ve tedavisi ila ilgili uygulamalarda rehberde hellrtilen hususlara titizlikle uyulması gerekmektedir.
+2- Tüberkülozu Durdurma Stratejisi ve Uluslararası Tüberküloz Bakım Standartları kapsamında hasta ve hasta yakınlarını tüberküloz hastalığı, tedavisi ve kontrolü ile ilgili konularda bilgilendirilmesine yönelik "Tüberküloz Hastası ve Hasta Yakınları Bilgilendirme Rehberi" ile "Tüberküloz Hasta ve Hasta Yakınları Bilgilendirilmiş Onam Formu" hazırlanmış ve uygulamaya konulması uygun görülmüştür.
 
-2-Tüberkülozu Durduna Stratejisi ve Uluslararası Tüberküloz Bakan Standartlan kapsamada hasta ve hasta yakınlarını tüberkáloz hastalığı, todavisi ve kontrolü ile ilgili konularda bilçilondirılmesne y Unelik "Tuberkuloz Hastası ve Hasta Yakılan Bilgilendirme Rehberi" ile "Tuberküloe Hasta ve Hasta Yakınlan Bilgilendirilmiş Onam Formu" hazırlanmış ve uygulamaya konulması uygun görülmüştär.
+Başta verem savaşı dispanserleri olmak üzere; birinci, ikinci ve üçüncü basamak kamu ve özel sağlık kurum ve kuruluşlarında tüberküloz tanısı almış olan tüm hastalara tedavi başlandığında rehberin verilmesi, bilgilendirme formunun tüberküloz hastaları ve yakınlarına okunarak bilgilendirme yapılması, bilgilendirmenin yapıldığına ve bu tedaviyi uygulayacağına dair hasta veya yakınına formun onaylatılması, rehberi almamış/alamamış olanlara rehberin dispanserde verilmesi gerekmektedir.
 
-Basta verem savaşa dispanserleri olmak uzere; birinci, ikinci ve uçuncu basamak kamu ve özel sağlık kurum ve kuraluşlarnda tüberküloz tanısı alış olan tülm hastalara teduvi baylandığıda rehberin verilmesi, bilgilendirme formanun tuberkuloz hastaları ve yakınlarına okunarak bilgilendirme yapılması, bılğılendırmenin yapıldığıma ve bu tedaviyi uygulayacağına dair hasta veya yakınan formun onaylatılması, rebberi almamış/alamamış olanlara rehberin dispenserde veril mesi gerekmektedir.
+3- İl sağlık müdürlüklerinin sorumluluğu ve koordinasyonunda il düzeyinde yürütülen tüberküloz kontrol programı kapsamında uygulamaların izlenmesi, değerlendirilmesi ve eksikliklerin saptanması, izlemlere dayanan tespitlere yönelik yerinde eğitim yapılması amacıyla çalışmalar yapılacaktır. İzleme ve değerlendirme faaliyetlerine ilişkin raporlar merkez teşkilatında ilgili birimlerce değerlendirildikten sonra illere geri bildirim yapılacaktır.
 
-3-II sağlık müdürlüklerinin sorumluluğu ve koordinasyonunda il düzeyiade yärätaler tüberkaloz kontrol programı kapsamında uygulamaların izlenmesi, değeriendirilmesi ve eksikliklerin saptanması, izlemlere dayanan tespitlere yünelik yerinde eğitim yapılması amacıyla çalışmalar yapılacaktıs, İzleme ve değerlendirme faliyetlorine ilişkia raporlar merkez teşkilatında ilgili birimlerec değerlendirildikten sonra
+İl sağlık müdürlükleri; Bakanlık izleme ve değerlendirme ekibinin ziyareti kapsamında yürütülen çalışmaların hızlı ve etkin yürütülmesinde tüm imkânları sağlamaktan, izleme ve değerlendirmeler sonucunda Bakanlık ilgilileri tarafından hazırlanacak rapor gereklerini yerine getirmekten, "Tüberküloz Tanı ve Tedavi Rehberi", "Tüberküloz Hastası ve Hasta Yakınları Bilgilendirme Rehberi" ve "Tüberküloz Hasta ve Hasta Yakınları Bilgilendirilmiş Onam Formu"nun tüm sağlık kuruluşlarına ulaştırılmasını sağlamaktan sorumludur.
 
-it sağlık müdürlükleri; Hakanlık izleme ve değerlendirme ekihinin ziyareti kapsammda yürütälcn çalışasların hızlı ve etkin yürütülmesinde tüm imkånları sağlamaktan, izleme ve değerlendirmeler sonucunda Bakanlık ilgilileri tarafindan hazırlanacak rapor gereklerini yerine getirmekten, "Tüberküloz Tanı ve Tedavi Rehberi", "Teberküloz Hastası ve Hasta Yakınları Bilgilendirme Rehberi" ve "Tuberküloz Hasta ve Hasta
+Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr Nihat TOSUN
+Prof. Dr. Nihat TOSUN
+Bakan a.
+Müsteşar
 
-- Bakan a
+DAĞITIM:
+Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-Müşteşar
-
-### DAGITIM:
-
-Geregi: 81 H Valiligine (Sağlık Müdürlüğü)

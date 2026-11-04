@@ -2,33 +2,34 @@
 id: "sb-acil-obstetrik-bakim-yonetim-rehberi-genelgesi-2014-16"
 baslik: "Acil Obstetrik Bakım Yönetim Rehberi Genelgesi (2014/16)"
 tur: "genelge"
+tarih: "2014-04-15"
 sayi: "2014/16"
-birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Acil Obstetrik Bakım Yönetim Rehberi Genelgesi (2014/16) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["halk sağlığı", "sağlık yönetimi"]
+birim: "Türkiye Halk Sağlığı Kurumu"
+konu: "Doğum öncesi, doğum ve doğum sonrası dönemde sunulan acil obstetrik bakım hizmetlerinin standardizasyonu ve revize edilen yönetim rehberinin uygulanmasını düzenler."
+etiketler: ["halk sağlığı", "acil obstetrik bakım", "anne sağlığı", "rehber"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 754-754"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.62. Acil Obstetrik Bakım Yönetim Rehberi Genelgesi (2014/16)
+### T.C. SAĞLIK BAKANLIĞI
+Türkiye Halk Sağlığı Kurumu
 
-### T.C. SAGLIK BAKANLIGI Tarkiye Halk Sağl Pr Kuramu LAT 100 SHO KAUD VE EREME SACLEY DAY RAKASLE PALetO
+Sayı : 57536863/231.01.03
+Konu : Acil Obstetrik Bakım Yönetim Rehberi
 
-Suys / 57536863/231.01.03 Komu : Aeil Ohstetrik Bakım Yänetim Rehberi
+### GENELGE
+2014/16
 
-### GENELGE 20147.4-6
+Gebelik ve doğum doğal bir süreç olmakla birlikte tüm gebeliklerin % 5-20'sinde potansiyel olarak, hayatı tehdit eden ve profesyonel müdahale gerektiren bir komplikasyon gelişebilmekte ve majör obstetrik bir girişime gerek duyulmaktadır. Gebelik, doğum ve doğum sonu dönemde gelişen komplikasyonların çoğu önceden tahmin edilemez ve önlenemez olmakla birlikte etkin bir tedavi ile anne mortalite ve morbiditesi önemli ölçüde azaltılabilmektedir.
 
-Gehelfk ve dogum doğal bir säreç olmuklu birlikte ılm gebeliklerin % 3-20 simalpotansigel olarak, hayatı tehdit eden ve profesyonel müdahale gerektiren hir komplikasym gelisebilmekte ie major ohaeirik bir giname geree duyulmaktade. Lichelik doğuni ve doğum sonu dönerde gelişen kömplikasyonlarin çoğu önceden tahmin ehilemez ve önlenemez olmakla birlikte etkin bir tedavi ile anne mortatite ve morbiditeśi finemüi ölçód.
+Acil obstetrik komplikasyonların etkin yönetimi; eğitimli, becerileri geliştirilmiş sağlık personeli tarafından, asgari standartların belirlendiği kılavuzlar doğrultusunda, etkin sevk sistemi ve güvenli kan nakli hizmetleri ile sağlanabilir. Önlenebilir nedenlerle meydana gelen anne ölümlerini azaltmak için harcanacak çabaların odağında mutlaka acil obstetrik bakım hizmetlerine ulaşılabilirlik olmalıdır.
 
-Acil obatetrik komplikasyonların etkin yönetimi: emtirli. becerileri geliştirimi sagkık personeli tarafindan, asgari stardarianın belirlendigi kılavuzlar dogrultusunda, etkin sevk sistemi ve güvenli kun nalıdi hiemetleri ile sağlanabilir. Onlenchilir nedenlerle mesdana gelen anne simlerini azalmak için harcanacak çabalarin odệnda mutlaka acil obsetik
+Bakanlığımız tarafından anne ölüm nedenlerine yönelik olarak halkın bilgilendirilmesi, ulaşımın sağlanması ve sağlık personelinin bilgi ve beceri kapasitesinin artırılması çalışmaları büyük bir titizlikle yürütülmektedir. Bu kapsamda; gebelik, doğum ve doğum sonrası dönemde oluşabilecek acil durumlarda sağlık bakım sisteminde farklı seviyelerdeki hayat kurtarıcı hizmetlerin standardize edilerek verilmesi ve hizmet kapasitesinin iyileştirilmesi amacıyla 2009/5 sayılı genelge ile uygulamaya konulan Acil Obstetrik Bakım Yönetim Rehberinin bilim komisyonu tarafından kanıta dayalı tıp uygulamaları doğrultusunda revizyonu gerçekleştirilmiştir.
 
-nedenlere bilgilendirilmesi, ulaşımın saglanmas ve saglık personelinin bilgi ve beceri kapasitesinin artımiması calışmolan büyük bir ünizlikle yürütülmektedir. Bu kapsamda: gebelik, doğum ve doğum sonrası dönemde oluşabilecek neil durumlarda saglık hakım sisteminde furkl seviyelerdeki hayat kunaner hizmetlerin standardize edilerek verilmesi ve hizmet kapasitesinin iyileştirilmesi umutryla 200595 sayıh genelge ile uygulamaya kamular Adil Obatetrik Bakim Yönedm Rehbernin bilim komisyonu mamafindan kanta dayalı On uygulamalan dogrulusunda revizyonu gerçekleștirilmistir.
+Revize edilmiş olan "Acil Obstetrik Bakım Yönetim Rehberi"nin; uygulamada birlikteliği sağlamak ve sağlık hizmet sunucularına klinik pratiklerinde yol gösterici olması amacı ile ilinizdeki doğum öncesi, doğum ve doğum sonrası bakım hizmeti veren tüm sağlık kuruluşlarına ve personeline tebliğ edilerek uygulamaya konulması konusunda ilgililere emirlerinizi önemle rica ederim.
 
-Revize ediliniş olan "Acil Obstetrik Bakım Yönetimi Rehberi"nun: uygulama/a birlikteliği sağlamak ve saghk hizmet sunuculanna klinik pratiklerinde yol gösterici olması amacı ile ilinizdeki doğum önecsi, dogum ve doğum sonrası bakam hizmeti veren tüm agbk kuruluşlanna ve personeline teblig edilerek uygulamaya konulması konusuzda çililery emirlerinizi ônemde rica ederim.
-
-Prof. Dr. Nin FOSUN
-
-Erikuura.
-
-Müste ur
+Prof. Dr. Nihat TOSUN
+Bakan a.
+Müsteşar

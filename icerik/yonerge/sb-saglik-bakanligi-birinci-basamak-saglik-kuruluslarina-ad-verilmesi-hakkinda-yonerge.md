@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-birinci-basamak-saglik-kuruluslarina-ad-verilmesi-hakkinda-yonerge"
+---
+id: "sb-saglik-bakanligi-birinci-basamak-saglik-kuruluslarina-ad-verilmesi-hakkinda-yonerge"
 baslik: "Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge"
 tur: "yonerge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2019-05-15"
 sayi: "8271140-020-652"
 duzeltildi: true
 ---
+
 6.2.4. Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge
 
 ### SAĞLIK BAKANLIĞI BİRİNCİ BASAMAK SAĞLIK KURULUŞLARINA AD VERİLMESİ HAKKINDA YÖNERGE

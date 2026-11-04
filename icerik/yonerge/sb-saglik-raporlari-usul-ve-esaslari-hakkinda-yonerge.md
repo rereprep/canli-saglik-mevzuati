@@ -1,4 +1,5 @@
----id: "sb-saglik-raporlari-usul-ve-esaslari-hakkinda-yonerge"
+---
+id: "sb-saglik-raporlari-usul-ve-esaslari-hakkinda-yonerge"
 baslik: "Sağlık Raporları Usul ve Esasları Hakkında Yönerge"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2019-09-30"
 sayi: "1618"
 duzeltildi: true
 ---
+
 2.2.6. Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
 
 ### SAĞLIK RAPORLARI USUL VE ESASLARI HAKKINDA YÖNERGE

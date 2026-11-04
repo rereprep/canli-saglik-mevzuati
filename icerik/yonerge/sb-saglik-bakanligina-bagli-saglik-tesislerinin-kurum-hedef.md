@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligina-bagli-saglik-tesislerinin-kurum-hedef"
+---
+id: "sb-saglik-bakanligina-bagli-saglik-tesislerinin-kurum-hedef"
 baslik: "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Kurum Hedef Katsayısının Hesaplanmasına İlişkin Yönerge"
 tur: "yonerge"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2025-05-23"
 sayi: "277164646"
 duzeltildi: true
 ---
+
 7.2.1. Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Kurum Hedef Katsayısının Hesaplanmasına İlişkin Yönerge
 
 ### SAĞLIKC TESİSLERİ KURUM HEDEY NESAYISININ BELİRLENMESİNE İLİŞKİN

@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-tasra-teskilati-kadro-standartlari-ile"
+---
+id: "sb-saglik-bakanligi-tasra-teskilati-kadro-standartlari-ile"
 baslik: "Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile Çalışma Usul ve Esaslarına Dair Yönerge"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2017-11-07"
 sayi: "51275"
 duzeltildi: true
 ---
+
 9.2.6.Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile Çalışma Usul ve Esaslarına Dair Yönerge
 
 ### SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI KADRO STANDARTLARI İLE ÇALIŞMA USUL VE ESASLARINA DAİR YÖNERGE BİRİNCİ BÖLÚM Amaç, Kapsam, Dayanak ve Tanımlar

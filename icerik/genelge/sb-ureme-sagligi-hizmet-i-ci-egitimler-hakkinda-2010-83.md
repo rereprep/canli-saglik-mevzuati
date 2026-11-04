@@ -1,46 +1,53 @@
 ---
 id: "sb-ureme-sagligi-hizmet-i-ci-egitimler-hakkinda-2010-83"
-baslik: "Üreme Sağlığı Hizmet İçi Eğitimler Hakkında Genelgesi (2010/83)"
+baslik: "Üreme Sağlığı Hizmet İçi Eğitimler Hakkında Genelge (2010/83)"
 tur: "genelge"
+tarih: "2010-12-24"
 sayi: "2010/83"
-birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Üreme Sağlığı Hizmet İçi Eğitimler Hakkında Genelgesi (2010/83) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["halk sağlığı", "sağlık yönetimi"]
+birim: "Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü"
+konu: "Anne ve bebek ölümlerinin önlenmesi amacıyla sağlık personelinin üreme sağlığı hizmet içi eğitimlerine katılımı ve ÜSEM/ÜSBEM faaliyetleri"
+etiketler: ["halk sağlığı", "üreme sağlığı", "anne çocuk sağlığı", "hizmet içi eğitim", "üsem"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 756-756"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.64. Üreme Sağlığı Hizmet İçi Eğitimler Hakkında Genelgesi (2010/83)
+6.3.64. Üreme Sağlığı Hizmet İçi Eğitimler Hakkında Genelge (2010/83)
 
-### T.C SAGLIK BAKANLIGI Ana Çocuk Sağ à ve Aile Planlamasi Genel Midortugo A51 1B100AC50120000-0000 F.L
+T.C.
+SAĞLIK BAKANLIĞI
+Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
 
-Koou: Urene Sagligi Bizsiet Ike SAGLIK BAKANLICI
+Sayı : B.10.0.AÇS.0.12.00.00-010.06 / 27053
+Konu : Üreme Sağlığı Hizmet İçi Eğitimler
 
-ACSA Yars Tecri Ve Kerek Sube
+24 Aralık 2010
 
-Egitimir HL ME d.
+....... VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
-24 Arald: 2010 17:31 96 27053
+GENELGE
+2010/83
 
-### VALILIGINE GENELGE
+Bilindiği üzere anne ve bebekler sağlık hizmetleri açısından risk altında bulunan ve öncelik tanınması gereken iki önemli grubu oluşturmaktadır. Ana çocuk sağlığı hizmetlerinin temel çıktı göstergeleri olan anne ölüm oranı ve bebek ölüm hızı, sağlanan olumlu gelişmelere rağmen gelişmiş ülkeler düzeyine çekilememiştir.
 
-70102 83
+Anne ölüm oranı, perinatal ve bebek ölüm hızlarının düşürülmesi, maternal morbiditenin azaltılması amacıyla rutin hizmetler ülke genelinde sürdürülmekte olup öncelikli müdahale alanlarına yönelik programlar yürütülmektedir. Kahire'de 1994 yılında yapılan Uluslararası Nüfus ve Kalkınma Konferansı sonrasında ülkemizin de resmen kabul ettiği ülke eylem planları uyarınca, sağlık kuruluşlarında nitelikli ve bütüncül yaklaşımla üreme sağlığı hizmetlerine evrensel erişimin sağlanması hedeflenmiştir.
 
-Eladığ uzere anne ve bebekler sağlak hizmetleri açundan risk alanda bulunan ve fincelik tamsust gereken iki chemli grubu olusturmaktadir Ana çacuk saglg hizmetlernin tenef plen güstergeleri olan anne ölem aranı ve bebek alem bız, sağlanan olumlu gelipnelere rağmen gelişmis dikelece dizeyine çekilememiştir
+Dünya Sağlık Örgütü'nün 2008 yılı raporu Alma-Ata deklarasyonunu tekrar gündeme getirerek eşitsizliklerin giderilmesinde, hizmet sunumunun iyileştirilmesinde başta eğitim olmak üzere tüm ilkelerin gözden geçirilmesi gerektiğini vurgulamıştır.
 
-Anne ölüm orani, perinatal, bebek dile hiztenne düştirülnasi, maternal wortiditanin azaltılması amacıyla rutin hizmetler ülke genelinde surdürülmekte olup onculikfi madañale alanlara yönelik programlar yarintilnektedın, Kahire'de 1999 yıında yapılan Uluslarara» Nüfuş ve Kalkınma Konferana sonrasıda ülkemizin de resmen kabul etiği filke eylem plarian uyanınca, sağiık
+Bu doğrultuda üreme sağlığı hizmetlerinde hizmet sunum kalitesinin artırılması için, sağlık personelinin bilgi ve beceri düzeyini yükseltmeye yönelik hizmet içi eğitimler yapılmaktadır.
 
--kereulıglannda nitelikli ve butuncul yaklaşımta daque sağlığ hirmotferine avrensel cręinin sağlanmanar hedefemişti
+Hizmet İçi Eğitimlerin kurumsallaşması ve sürdürülebilirliğini sağlamak amacıyla, ülke genelinde Ana Çocuk Sağlığı ve Aile Planlaması Eğitim Merkezleri, hizmet sunum kapasiteleri genişletilerek Üreme Sağlığı Eğitim Merkezi (ÜSEM) olarak hizmet sunmaya başlamıştır. Bu merkezlerden personel ve fiziki altyapısı güçlü olan 14'ü de Üreme Sağlığı Bölgesel Eğitim Merkezi (ÜSBEM) olarak Makamın 25.09.2008 gün ve 1557 sayılı Oluru ile faaliyet göstermeye devam etmektedir.
 
-Danya Sağlık Crgutünın 2008 yılı rapor Alına-Ata deklarasyonunu tekrar grindeme getirerek eşitsizliklerin giderilmesinde, kizmel sunumurun iyilestirilmevinde başn egiten almak. izure tum ¡Belerin güadei geçinimei gerektigini vurgulamişht.
+Üreme Sağlığı Eğitim Merkezinde; biri doktor olmak üzere en az üç üreme sağlığı eğitimcisi görev almaktadır. Rutin Ana Çocuk Sağlığı ve Aile Planlaması hizmetlerinin yanı sıra illerinde hizmet sunan sağlık personelinin hizmet içi eğitimlerini gerçekleştirmektedir. Üreme Sağlığı Bölgesel Eğitim Merkezinde; ikisi doktor olmak üzere en az beş üreme sağlığı eğitimcisi görev almakta ve ÜSEM'lerin sundukları hizmetlerin yanı sıra bölgelerindeki ÜSEM'lere eğitmen de yetiştirmektedir.
 
-Pu doğrultudo årere sağigı hietietleride hizmet sunum kahitesinin artiriman için, sağid parsunelnin bilgı ve becen duzeyini yükselımeye yöelk hizmet içı eğıtimlar yapılnuktadır.
+Anne ve bebek ölümlerinin önlenmesinde nitelikli hizmet sunumunun sağlanması önemli bir yer tutmaktadır. Bu amaçla Genel Müdürlüğümüzün yürütmüş olduğu tüm hizmet içi eğitimlere hizmet sunan sağlık personelinin katılması için emirlerinizi önemle rica ederim.
 
-Hemet Içi Eğitimlerin kurumsallaşması ve sürdirilebilirlig ni sağlamak amaciyla, Dt c genufinde Ans Çocuk Sağliği ve Aile Planlamay Eğdim Merkezleri, hanet sunam kapasiteleri genüjeilerck Dreme Sağhgı Eğilim Merkezi (ÜSEM) olarak hizme: sunmaya başlamiştır, Br merkeleden personel ve faik: altyapi güçlü olan 14 u de Ureme Sogug Bölgesel Egitim Merkezı (TISBEM) olarak: makamm 25.09.2005 gün ve 1557 sayılı Oluru ile faaliyet göstermeye devem
+Prof. Dr. Nihat TOSUN
+Bakan a.
+Müsteşar
 
-Drene Sagbgı Eğitim Merkezinde; biri daltar olmak uzere en az oç üreme safliği eğitimcisi yetey almaktadır. Rutin Ana Çocuk Sağlığı ve Alle Planlaması hizmelerinm yam sira illerinda hizmal unan sağhk personelirin hizmet içi eğilimlerini gerçeklesüruekiedir. Creme Sağlığı Bölgesel Fğitim Morkerinde: ikis! doktor olmak üzere en az beş freme saglậr egitime si görey almakta ve USEM lerin num uklar hiznlenn yamı aire bölgelerindeki ÜSEM tere eğıtmei de yetişirmektedir.
+DAĞITIM:
+81 İl Valiliğine
 
-Anne ve bebek olümlerinin onlenmesinde nitelikli liganet sunumunun analanmast dnemli bis vet lou raktadır. Bu amaçla Genel Madurinğümüzün yůrünnüş olduğu tum hizmet ki eğitimlere hizmel sunan saglik personelimn katılmasi için emirlerisizi önumle rea ederim.
-
-Prof. Dr.Nihar TOSUN

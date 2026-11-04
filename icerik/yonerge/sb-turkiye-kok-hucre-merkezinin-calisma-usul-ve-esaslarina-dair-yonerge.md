@@ -1,4 +1,5 @@
----id: "sb-turkiye-kok-hucre-merkezinin-calisma-usul-ve-esaslarina-dair-yonerge"
+---
+id: "sb-turkiye-kok-hucre-merkezinin-calisma-usul-ve-esaslarina-dair-yonerge"
 baslik: "Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2020-08-14"
 sayi: "967"
 duzeltildi: true
 ---
+
 2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge
 
 ### SAĞI IK HIZMETLERI GENEL MODÜRLO0O • T.C. MEVZUAT İŞLERI DAIREN BAŞKANLIĞI SAĞLIK BAKANLIĞI 10/12/2020 11-04 • 54567092-010.04-5974

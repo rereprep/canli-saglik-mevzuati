@@ -1,4 +1,5 @@
----id: "sb-su-aritma-sistemi-yonergesi"
+---
+id: "sb-su-aritma-sistemi-yonergesi"
 baslik: "Su Arıtma Sistemi Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2009-04-17"
 sayi: "15873"
 duzeltildi: true
 ---
+
 2.2.14. Su Arıtma Sistemi Yönergesi
 
 ### T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü SAYI : B.10.0.THG.0.14.00.02- 15873 17/4/2009

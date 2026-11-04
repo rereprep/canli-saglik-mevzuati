@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-saglik-hizmetleri-ve-yardimci-saglik"
+---
+id: "sb-saglik-bakanligi-saglik-hizmetleri-ve-yardimci-saglik"
 baslik: "Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2023-09-08"
 sayi: "22410678"
 duzeltildi: true
 ---
+
 9.2.1. Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge
 
 ### SAĞLIK BAKANLIĞI SAĞLIK HIZMETLERI VE YARDIMCI SAĞLIK HİZMETLERİ SINIFI HARİCİ PERSONELİN ATAMA VE YER DEĞİŞTİRME USUL VE ESASLARINA İLIŞKİN YÖNERGE

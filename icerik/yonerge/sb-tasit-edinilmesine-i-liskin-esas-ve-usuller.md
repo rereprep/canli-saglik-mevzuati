@@ -1,4 +1,5 @@
----id: "sb-tasit-edinilmesine-i-liskin-esas-ve-usuller"
+---
+id: "sb-tasit-edinilmesine-i-liskin-esas-ve-usuller"
 baslik: "Taşıt Edinilmesine İlişkin Esas ve Usuller (Değişiklik İşlenmiş Hâli)"
 tur: "yonerge"
 birim: "Strateji Geliştirme Başkanlığı"
@@ -11,6 +12,7 @@ tarih: ""
 sayi: ""
 duzeltildi: true
 ---
+
 11.2.1.Taşıt Edinilmesine İlişkin Esas ve Usuller (Değişiklik İşlenmiş Hâli)
 
 #### Genel hükümler

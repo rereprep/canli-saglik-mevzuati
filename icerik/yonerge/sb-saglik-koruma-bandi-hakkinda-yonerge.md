@@ -1,4 +1,5 @@
----id: "sb-saglik-koruma-bandi-hakkinda-yonerge"
+---
+id: "sb-saglik-koruma-bandi-hakkinda-yonerge"
 baslik: "Sağlık Koruma Bandı Hakkında Yönerge"
 tur: "yonerge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2011-02-17"
 sayi: "6359"
 duzeltildi: true
 ---
+
 6.2.7.Sağlık Koruma Bandı Hakkında Yönerge
 
 ### ÇEVRE VE TOPLUM SAĞLIĞINI OLUMSUZ ETKİLEYEBİLECEK GAYRİSIHHİ MÜESSESELERİN ETRAFINDA BIRAKILACAK SAĞLIK KORUMA BANDI MESAFESİ BELİRLENMESİ HAKKINDA YÖNERGE Genel Hükümler Amaç, Kapsam, Dayanak ve Tanımlar

@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-on-mali-kontrol-i-slemleri"
+---
+id: "sb-saglik-bakanligi-on-mali-kontrol-i-slemleri"
 baslik: "Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi (Değişiklikler İşlenmiş Hâli)"
 tur: "yonerge"
 birim: "Strateji Geliştirme Başkanlığı"
@@ -11,6 +12,7 @@ tarih: "2020-07-24"
 sayi: "356"
 duzeltildi: true
 ---
+
 11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi (Değişiklikler İşlenmiş Hâli)
 
 ### SAĞLIK BAKANLIĞI ÖN MALİ KONTROL İŞLEMLERİ YÖNERGESİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNERGE

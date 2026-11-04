@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-saglik-personelinin-i-l-i"
+---
+id: "sb-saglik-bakanligi-saglik-personelinin-i-l-i"
 baslik: "Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2019-02-25"
 sayi: "2833"
 duzeltildi: true
 ---
+
 9.2.5.Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge
 
 ### SAĞLIK BAKANLIĞI SAĞLIK PERSONELİNİN İL İÇİ YER DEĞİŞTİRMESİNE İLİŞKİN YÖNERGE

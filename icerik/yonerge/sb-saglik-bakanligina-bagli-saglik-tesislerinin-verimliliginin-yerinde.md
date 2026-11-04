@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligina-bagli-saglik-tesislerinin-verimliliginin-yerinde"
+---
+id: "sb-saglik-bakanligina-bagli-saglik-tesislerinin-verimliliginin-yerinde"
 baslik: "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge"
 tur: "yonerge"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: ""
 sayi: ""
 duzeltildi: true
 ---
+
 7.2.5. Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge
 
 ### SAĞLIK BAKANLIĞINA BAĞLI SAĞLIK TESİSLERİNİN VERİMLİLIĞİNİN YERİNDE DEĞERLENDİRİLMESİ HAKKINDA YÖNERGE

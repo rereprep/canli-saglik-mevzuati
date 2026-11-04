@@ -1,4 +1,5 @@
----id: "sb-toplum-sagligi-merkezlerinde-tsm-yurutulecek-is-sagligi-ve-guvenligi-hizmetlerinin-uygulama-usul-ve-esaslari-hakkinda-yonerge"
+---
+id: "sb-toplum-sagligi-merkezlerinde-tsm-yurutulecek-is-sagligi-ve-guvenligi-hizmetlerinin-uygulama-usul-ve-esaslari-hakkinda-yonerge"
 baslik: "Toplum Sağlığı Merkezlerinde (TSM) Yürütülecek İş Sağlığı ve Güvenliği Hizmetlerinin Uygulama Usûl Ve Esasları Hakkında Yönerge"
 tur: "yonerge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2014-01-31"
 sayi: "10.04"
 duzeltildi: true
 ---
+
 6.23. Toplum Sağlığı Merkezlerinde (TSM) Yürütülecek İş Sağlığı ve Güvenliği Hizmetlerinin Uygulama Usûl Ve Esasları Hakkında
 
 ### TOPLUM SAĞLIĞI MERKEZLERİNDE YÜRÜTÜLECEK İŞ SAĞLIĞI VE GÜVENLIĞİ HİZMETLERİNİN UYGULAMA USÜL VE ESASLARI HAKKINDA YÖNERGE

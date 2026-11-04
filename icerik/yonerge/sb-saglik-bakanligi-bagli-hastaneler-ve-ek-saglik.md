@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-bagli-hastaneler-ve-ek-saglik"
+---
+id: "sb-saglik-bakanligi-bagli-hastaneler-ve-ek-saglik"
 baslik: "Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge"
 tur: "yonerge"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2011-01-26"
 sayi: "3972"
 duzeltildi: true
 ---
+
 7.2.8. Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge
 
 26.01.2011 tarihli ve 3972 sayılı Onay ile yürürlüğe girmiştir.

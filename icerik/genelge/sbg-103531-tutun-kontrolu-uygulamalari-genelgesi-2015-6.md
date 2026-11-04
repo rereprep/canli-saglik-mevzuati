@@ -1,0 +1,71 @@
+---
+id: "sbg-103531-tutun-kontrolu-uygulamalari-genelgesi-2015-6"
+baslik: "Tütün Kontrolü Uygulamaları Genelgesi (2015/6)"
+tur: "genelge"
+sayi: "2015/6"
+birim: "Halk Sağlığı Genel Müdürlüğü"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
+kaynak_url: "https://www.saglik.gov.tr/TR-103531/tutun-kontrolu-uygulamalari-genelgesi-20156.html"
+durum: "yürürlükte"
+ocr: true
+---
+
+6.3.44. Tütün Kontrolü Uygulamaları Genelgesi (2015/6)
+
+### T.C. SAĞLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu Başkanlığı
+
+Sayı : 86696344/010.06 Konu: Tütün Kontrolü Uygulamaları
+
+### GENELGE 2015/.6
+
+Tütün kullanımı, birçok sağhk sorununa yol açan, önlenebilir hastalık ve ölüm sebepleri arasında en önde gelen risk faktörüdür. Maruz kalanların normal yaşam süresini kısaltarak erken ölümüne yol açan tütün ürünü kullanımı, halen dünya genelinde her 10 ölümden bir tanesinin sebebıdir. Tütün mamulleri, kullanan kişinin sağlığına ve bütçesine zarar verdiği gibi çevresindeki kişilerin de olumsuz etkilenmesine sebep olmaktadır.
+
+Buna rağmen dünya genelinde tütün kullanımı yaygın şekilde devam etmektedir. Günümüzde, % 80 i gelişmekte olan ülkelerde olmak üzere, dünyada yaklaşık 1,3 milyar kişi tütün mamulü kullanmaktadır.
+
+Dünyada yılda yaklaşık 6 milyon kişi tütün kullanımının neden olduğu sağlık sorunları yüzünden hayatını kaybetmekte, ülkemizde ise en az 100.000 kişi tütüne bağhı hastalıklar nedeniyle kaybedilmektedir. Bilimsel veriler kapalı ortamda sigara dumanına maruz kalmanın sigara içmeyen insanlarda kalp krizi ve kanser gibi ciddi sağlık sorunlarına yol açtığını ve bu konuda hiçbir güvenli aralığın olmadığını ortaya koymaktadır.
+
+Dünya Sağlık Örgütü'nün tahminlerine göre, 700 milyon çocuk yani dünyadaki çocukların yarısı sigara dumanına maruz kalmaktadır. Her yıl dünyada 600 binin üzerinde kişi kendisi kullanmadığı halde başkasının sigara dumanına maruz kalması sonucunda hayatını kaybetmektedir.
+
+Bu kadar zararlı ve tehlikeli bir ürüne karşı elbette kapsamlı ve etkin bir mücadele gerekmektedir. Bu hızlı ilerlemeyi durdurabilmek, tütün kullanımına bağlı hastalık ve ölümleri azaltmak amacıyla tütünle mücadelede ilk uluslararası anlaşma olan 'Tütün Kontrolü Çerçeve Sözleşmesi (TKÇS)" 28 Nisan 2004 tarihinde ülkemiz tarafindan
+
+Ülkemizdeki tütün kontrolü çalışmalarına yön vermek amacıyla, TKÇS hükümlerini temel alarak hazırlanmış olan "Ulusal Tütün Kontrol Programı", 2006/29 sayılı Başbakanlık Genelgesi ekinde yayımlanmıştır. Yayımlanan program ve 2008-2012 yıllarımı kapsayan eylem planı ile tütünle mücadelede önemli başarılar elde edilmiştir. Yürütülen çalışmalar sonucunda 2008 yılında % 31,2 olan ülke genelindeki sigara kullanma oranının 2012 yılında % 27,l'e düştüğü görülmüştür.
+
+Bu başarının artarak devam etmesi ve daha fazla insammızı sigaranın zararlarından koruyabilmek için Eylem Planında yer alan hedef, strateji ve faaliyetler günümüz şartları da göz önünde bulundurularak 2015-2018 yıllarını kapsayacak şekilde güncellenmiş ve 27 Ocak 2015 tarihli ve 29249 sayılı Resmi Gazete'de yayımlanan 2015/1 sayılı Başbakanlık Genelgesi ile uygulamaya girmiştir.
+
+Genelge ile Eylem Planının Sağlık Bakanlığı tarafindan ilgili kurumlara gönderilmesi ve Bakanlığın internet adresinde yayımlanması uygun görülmüştür. Ayrıca Eylem Planında, çeşitli kurum ve kuruluşların konuya ilişkin görev ve sorumluluklarının belirlendiği ve yerine getirilmesi gereken görevler konusunda ve eylem planının uygulanması sürecinde ihtiyaç duyulacak her türlü bilginin Sağlık Bakanlığınca sağlanacağı; Bakanlığın bilgilendirme, işbirliği ve koordinasyon toplantıları düzenleyeceği ve uygulamaları yakından takip edeceği belirtilmiştir.
+
+Bu kapsamda Bakanlığımız koordinasyonunda ilgili bakanlıklar, üniversiteler, medya ve
+
+toplum kuruluşları temsilcileri tarafindan hazırlanmış ve Bakanlığımızın "www.saglik.gov.tr" internet adresinde yayımlanmış olan "Ulusal Tütün Kontrolü Programı Eylem Plam 2015-2018" bu web adresinden temin edilecektir.
+
+### T.C. SAGLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu Başkanlığı
+
+Ülkemizin tütün kontrolü alanındaki dünya liderliğinin kesintisiz olarak sürdürülmesi ve uygulamalarımızın diğer ülkelere örnek olmaya devam etmesi açısından; ekte sunulan eylem planında yer alan hususların ivedilikle uygulamaya geçmesi, özellikle tütün dumanından pasif etkilenimin önlenmesine yönelik faaliyetlerin hassasiyetle yerine getirilmesi büyük önem arz etmektedir.
+
+Bu kapsamda;
+
+1) 4207 sayılı Kanun kapsamında yapılan denetimlerin güçlendirilmesi için mahalli
+
+amirler başkanlığında toplanan Tütün Kontrol Kurulları bünyesindeki denetim ekiplerinin ihtiyaç duyacağı her türlü personel ve lojistik desteğin imkanlar dahilinde
+
+2) 4207 sayılı Kanun hükümlerine uyum sağlanması noktasında kapalı alanlarda tütün mamulü tüketilmesine hiçbir şekilde müsaade edilmemesi, kamu kurumlarında ihlalin yaşanması halinde ilgililer hakkında gerekli idari işlemlerin derhal uygulanması, özel hukuk kişilerine ait yerlerde ise 155, 156 ve 184 nolu telefon numaralarına gerekli bildirimlerin yapılmasına yönelik duyurunun tüm personelinize yapılmasının sağlanması,
+
+3) Kamu kurum ve kuruluşlarımızın topluma örnek teşkil edecek şekilde kendilerine ait açık alanların yalnızca belirlenmiş yerlerinde tütün mamulü tüketimine müsaade etmeleri, bu alanların toplam açık alana oranının % 30 dan fazla olmaması ve giriş kapısından en az 10
+
+Dumansız Kampüs uygulamalarının yaygınlaştırılması,
+
+4) Kamuya açık çocuk parkı gibi temelde çocukların faydalandığı tüm açık alanlarda ve yürüyüş yolu, aletli egzersiz yapılan kısımlar gibi vatandaşların spor yapmalanı için kurumlarca oluşturulmuş alanlarda tütün ve tütün ürünü kullanımının önlenmesine yönelik çahşmaların yapılması.
+
+5) Havaalanı, otobüs terminali, tren garı, alışveriş merkezi, sinema, tiyatro, sağlık kurum ve kuruluşları gibi insanların yoğun olarak kullandıkları ve toplu halde giriş çıkışın olduğu kapahı alan mahiyetindeki yerlerin giriş kapılarına asgari 5 metre mesafede olacak şekilde tütün ve tütün ürünlerinin tüketilmesinin önlenmesi,
+
+6) Kamu kurum ve kuruluşlarımızda halk sağlığı müdürlüklerimizle koordineli olarak sigara bırakma kampanyaları düzenlenip, sigara bırakmanın teşvik edilmesi ve çalışanlarının hiçbirinin sigara içmediği işyerlerinin özendirilmesi,
+
+Hususlarında bilgilerini ve geregini rica ederim.
+
+Dr. Mehmet MÜEZZINOGLU
+
+Bakan
+
+### DAĞITIM:
+
+Gereği A Plani

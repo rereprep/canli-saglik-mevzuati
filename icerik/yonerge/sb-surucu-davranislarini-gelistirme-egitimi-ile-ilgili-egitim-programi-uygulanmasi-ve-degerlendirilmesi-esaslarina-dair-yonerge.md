@@ -1,4 +1,5 @@
----id: "sb-surucu-davranislarini-gelistirme-egitimi-ile-ilgili-egitim-programi-uygulanmasi-ve-degerlendirilmesi-esaslarina-dair-yonerge"
+---
+id: "sb-surucu-davranislarini-gelistirme-egitimi-ile-ilgili-egitim-programi-uygulanmasi-ve-degerlendirilmesi-esaslarina-dair-yonerge"
 baslik: "Sürücü Davranışlarını Geliştirme Eğitimi ile İlgili Eğitim Programı Uygulanması ve Değerlendirilmesi Esaslarına Dair Yönerge"
 tur: "yonerge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
@@ -11,7 +12,29 @@ tarih: "2005-03-04"
 sayi: "3201"
 duzeltildi: true
 ---
+
 6.2.8. Sürücü Davranışlarını Geliştirme Eğitimi ile İlgili Eğitim Programı Uygulanması ve Değerlendirilmesi Esaslarına Dair Yönerge
+
+### SÜRÜCÜ DAVRANIŞLARINI GELİŞTİRME EĞİTİMİ İLE İLGİLİ EĞİTİM PROGRAMI UYGULANMASI VE DEĞERLENDİRİLMESİ ESASLARINA DAİR YÖNERGE
+
+## BİRİNCİ BÖLÜM
+### Amaç, Kapsam, Hukuki Dayanak ve Tanımlar
+
+#### Amaç
+**Madde 1 –** Bu Yönergenin amacı; alkollü araç kullanımı nedeniyle sürücü belgesi geri alınan sürücülere yönelik yürütülecek Sürücü Davranışlarını Geliştirme Eğitimi programının uygulanması, değerlendirilmesi ve işleyişine ilişkin usul ve esasları düzenlemektir.
+
+#### Kapsam
+**Madde 2 –** Bu Yönerge; sürücü davranışlarını geliştirme eğitimine katılacak sürücüleri, eğitim birimlerini, eğiticileri ve ilgili personeli kapsar.
+
+#### Hukuki Dayanak
+**Madde 3 –** Bu Yönerge; 2918 sayılı Karayolları Trafik Kanununun 48 inci maddesi ile Sürücü Davranışlarını Geliştirme Eğitimi Yönetmeliğine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+**Madde 4 –** Bu Yönergede geçen;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Müdürlük: İl Sağlık Müdürlüğünü,
+c) SÜDGE: Sürücü Davranışlarını Geliştirme Eğitimini,
+ifade eder.
 
 ## İKİNCİ BÖLÜM Eğitim Programı Uygulanma ve Değerlendirme Esasları
 

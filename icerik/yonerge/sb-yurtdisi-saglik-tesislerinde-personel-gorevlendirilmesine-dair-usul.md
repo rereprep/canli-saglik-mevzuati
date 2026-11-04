@@ -1,4 +1,5 @@
----id: "sb-yurtdisi-saglik-tesislerinde-personel-gorevlendirilmesine-dair-usul"
+---
+id: "sb-yurtdisi-saglik-tesislerinde-personel-gorevlendirilmesine-dair-usul"
 baslik: "Yurtdışı Sağlık Tesislerinde Personel Görevlendirilmesine Dair Usul ve Esaslar Hakkında Yönerge"
 tur: "yonerge"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2018-12-13"
 sayi: "1453"
 duzeltildi: true
 ---
+
 7.2.4.Yurtdışı Sağlık Tesislerinde Personel Görevlendirilmesine Dair Usul ve Esaslar Hakkında Yönerge
 
 ### YURT DIŞI SAĞLIK TESISLERINDE PERSONEL GÖREVLENDIRILMESINE DAIR USUL VE ESASLAR HAKKINDA YÖNERGE BİRİNCI BÖLEM Amne, Kapsara, Dayanak ve Tumunlar

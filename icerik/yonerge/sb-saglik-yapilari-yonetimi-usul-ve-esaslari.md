@@ -1,4 +1,5 @@
----id: "sb-saglik-yapilari-yonetimi-usul-ve-esaslari"
+---
+id: "sb-saglik-yapilari-yonetimi-usul-ve-esaslari"
 baslik: "Sağlık Yapıları Yönetimi Usul ve Esasları"
 tur: "yonerge"
 birim: "Sağlık Yatırımları Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: ""
 sayi: ""
 duzeltildi: true
 ---
+
 5.2.1. Sağlık Yapıları Yönetimi Usul ve Esasları
 
 ### T.C. SAĞLIK BAKANLIĞI Sağbk Yatımlan Genel Müdürligü

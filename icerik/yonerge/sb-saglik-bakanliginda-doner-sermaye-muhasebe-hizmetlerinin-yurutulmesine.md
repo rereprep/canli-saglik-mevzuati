@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanliginda-doner-sermaye-muhasebe-hizmetlerinin-yurutulmesine"
+---
+id: "sb-saglik-bakanliginda-doner-sermaye-muhasebe-hizmetlerinin-yurutulmesine"
 baslik: "Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge"
 tur: "yonerge"
 birim: "Strateji Geliştirme Başkanlığı"
@@ -11,6 +12,7 @@ tarih: "2019-03-14"
 sayi: "427"
 duzeltildi: true
 ---
+
 11.2.3. Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge
 
 ### SAĞLIK BAKANLIGINDA DONER SERMAYE MUHASEB HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN YÖNERG BIRINCI BOLÜM Ansae, Kapsam, Davanak ve Tanımlar

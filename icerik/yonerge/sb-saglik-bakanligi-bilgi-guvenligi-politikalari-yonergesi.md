@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-bilgi-guvenligi-politikalari-yonergesi"
+---
+id: "sb-saglik-bakanligi-bilgi-guvenligi-politikalari-yonergesi"
 baslik: "Sağlık Bakanlığı Bilgi Güvenliği Politikaları Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Bilgi Sistemleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: ""
 sayi: ""
 duzeltildi: true
 ---
+
 4.2.4. Sağlık Bakanlığı Bilgi Güvenliği Politikaları Yönergesi
 
 ### SAĞLIK BAKANLIĞI BİLGİ GÜVENLİĞİ POLİTİKALARI YÖNERGESİ

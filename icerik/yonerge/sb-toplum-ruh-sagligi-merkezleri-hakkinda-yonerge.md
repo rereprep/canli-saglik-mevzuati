@@ -1,4 +1,5 @@
----id: "sb-toplum-ruh-sagligi-merkezleri-hakkinda-yonerge"
+---
+id: "sb-toplum-ruh-sagligi-merkezleri-hakkinda-yonerge"
 baslik: "Toplum Ruh Sağlığı Merkezleri Hakkında Yönerge"
 tur: "yonerge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
@@ -11,9 +12,33 @@ tarih: "2014-03-06"
 sayi: "9453"
 duzeltildi: true
 ---
-6.2.2.Toplum Ruh Sağlığı Merkezleri Hakkında Yönerge sağlığı ve hastalıkları uzmanı sorumluluğunda faaliyet göstermek üzere açılan ve Bakanlık tarafindan ruhsatlandırılan toplum ruh sağlığı merkezinı,
 
-)Müdürlük: Il sağlık müdürlüklerini,
+6.2.2. Toplum Ruh Sağlığı Merkezleri Hakkında Yönerge
+
+### TOPLUM RUH SAĞLIĞI MERKEZLERİ HAKKINDA YÖNERGE
+
+## BİRİNCİ BÖLÜM
+### Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+**Madde 1 –** (1) Bu Yönergenin amacı; ağır ruhsal bozukluğu olan hastalara toplum temelli ruh sağlığı modeli çerçevesinde psikososyal destek hizmetlerinin verilmesi, takip ve tedavilerinin yapılması amacıyla sağlık tesislerine bağlı olarak faaliyet gösteren toplum ruh sağlığı merkezlerinin açılması, işleyişi, fiziki şartları ve denetimine ilişkin usul ve esasları belirlemektir.
+
+#### Kapsam
+**Madde 2 –** (1) Bu Yönerge; Bakanlığa bağlı sağlık tesisleri bünyesinde açılacak olan toplum ruh sağlığı merkezlerini kapsar.
+
+#### Dayanak
+**Madde 3 –** (1) Bu Yönerge; 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (c) bendine ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+**Madde 4 –** (1) Bu Yönergede geçen;
+a) Ağır ruhsal bozukluk: Şizofreni ve benzeri psikotik bozukluklar ile duygudurum bozuklukları gibi kronik ruhsal hastalıkları,
+b) Bakanlık: Sağlık Bakanlığını,
+c) Genel Sekreterlik: Türkiye Kamu Hastaneleri Kurumu Kamu Hastaneleri Birliği Genel Sekreterliğini,
+ç) Gezici ekip: Merkeze gelemeyen hastaların evde takip ve tedavisini yürüten ekibi,
+d) Kurum: Türkiye Kamu Hastaneleri Kurumunu,
+e) Merkez (TRSM): Ruh sağlığı ve hastalıkları uzmanı sorumluluğunda faaliyet göstermek üzere açılan ve Bakanlık tarafından ruhsatlandırılan toplum ruh sağlığı merkezini,
+f) Müdürlük: İl sağlık müdürlüklerini,
+
 
 j) Sağlık tesisi: Türkiye Kamu Hastaneleri Kurumuna bağlı yataklı tedavi kurumlarını,
 

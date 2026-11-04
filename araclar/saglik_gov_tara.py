@@ -80,10 +80,60 @@ def uzanti(icerik, tip, ad):
     return m.group(1).lower() if m else "bin"
 
 
+DOSYA_BAG = re.compile(r'href="((?:https?://[^"]*saglik\.gov\.tr)?/?[^"]*?(?:Eklenti/[^"]+|\.(?:pdf|PDF|docx?|DOCX?)))"')
+
+
+def ekleri_izle(tur):
+    dizin_yolu = KOK / "kaynak-isleme" / "saglik-gov" / f"{tur}.json"
+    if not dizin_yolu.exists():
+        return
+    ogeler = json.loads(dizin_yolu.read_text(encoding="utf-8"))
+    klasor = KOK / "kaynak-isleme" / "indirilen" / tur
+    for i, o in enumerate(ogeler):
+        if o.get("tip") != "html" or o.get("ekler"):
+            continue
+        sayfa = (klasor / o["dosya"]).read_text(encoding="utf-8", errors="replace")
+        baglar = []
+        for b in DOSYA_BAG.findall(sayfa):
+            b = html.unescape(b)
+            b = b if b.startswith("http") else urllib.request.urljoin("https://www.saglik.gov.tr/", b)
+            if b not in baglar:
+                baglar.append(b)
+        if not baglar:
+            m = re.search(r'href="(https?://(?:www\.)?mevzuat\.gov\.tr/[^"]+)"', sayfa)
+            if m:
+                o["resmi_url"] = html.unescape(m.group(1))
+            continue
+        ekler = []
+        for j, b in enumerate(baglar[:6]):
+            try:
+                icerik, tip, ad = getir(b)
+            except Exception as hata:
+                print(f"  ! {o['trid']} eki indirilemedi: {hata}", flush=True)
+                continue
+            uz = uzanti(icerik, tip, ad)
+            dosya = f"{o['trid']}-ek{j + 1}.{uz}"
+            (klasor / dosya).write_bytes(icerik)
+            ekler.append({"dosya": dosya, "tip": uz, "url": b, "ustyazi": "ustyazi" in b.lower() or "ust-yazi" in b.lower()})
+            time.sleep(0.3)
+        o["ekler"] = ekler
+        if (i + 1) % 20 == 0:
+            print(f"  {tur}: {i + 1}/{len(ogeler)}", flush=True)
+            dizin_yolu.write_text(json.dumps(ogeler, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    dizin_yolu.write_text(json.dumps(ogeler, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"{tur}: ekler tamam", flush=True)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tur", nargs="*", default=list(LISTELER))
+    ap.add_argument("--ekleri-izle", action="store_true",
+                    help="Ara sayfa (HTML) olarak inen kayıtlardaki asıl PDF/Word bağlantılarını indir")
     a = ap.parse_args()
+    if a.ekleri_izle:
+        for tur in a.tur:
+            ekleri_izle(tur)
+        return
     for tur in a.tur:
         ogeler = liste_oku(tur)
         print(f"{tur}: {len(ogeler)} bağlantı", flush=True)

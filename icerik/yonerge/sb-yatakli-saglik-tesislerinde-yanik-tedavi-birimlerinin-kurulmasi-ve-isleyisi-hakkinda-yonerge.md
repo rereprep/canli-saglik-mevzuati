@@ -1,4 +1,5 @@
----id: "sb-yatakli-saglik-tesislerinde-yanik-tedavi-birimlerinin-kurulmasi-ve-isleyisi-hakkinda-yonerge"
+---
+id: "sb-yatakli-saglik-tesislerinde-yanik-tedavi-birimlerinin-kurulmasi-ve-isleyisi-hakkinda-yonerge"
 baslik: "Yataklı Sağlık Tesislerinde Yanık Tedavi Birimlerinin Kurulması ve İşleyişi Hakkında Yönerge"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
@@ -11,9 +12,30 @@ tarih: "2010-01-19"
 sayi: "2202"
 duzeltildi: true
 ---
-2.2.13. Yataklı Sağlık Tesislerinde Yanık Tedavi Birimlerinin Kurulması ve İşleyişi Hakkında Yönerge bünyesinde en az iki hastaya aynı anda yanık tedavi hizmeti verebilecek nitelikte fızik, donanım ve personel şartlarını haiz yanık birimini,
 
-ı) Yanık tedavi birimi: Yanık odası, yanık ünitesi veya yanık tedavi merkezi için kullanılan genel tanımlamayı,
+2.2.13. Yataklı Sağlık Tesislerinde Yanık Tedavi Birimlerinin Kurulması ve İşleyişi Hakkında Yönerge
+
+### YATAKLI SAĞLIK TESİSLERİNDE YANIK TEDAVİ BİRİMLERİNİN KURULMASI VE İŞLEYİŞİ HAKKINDA YÖNERGE
+
+## BİRİNCİ BÖLÜM
+### Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+**MADDE 1 –** (1) Bu Yönergenin amacı; yataklı sağlık tesislerinde yanık tedavi birimlerinin (yanık odası, yanık ünitesi ve yanık tedavi merkezi) kurulması, hizmet standartları, asgari fiziki, teknik, donanım ve personel kriterleri ile işleyişine dair usul ve esasları belirlemektir.
+
+#### Kapsam
+**MADDE 2 –** (1) Bu Yönerge; Sağlık Bakanlığına, üniversitelere ve özel sektöre ait yataklı sağlık tesislerinde faaliyet gösteren veya yeni açılacak olan yanık tedavi birimlerini kapsar.
+
+#### Dayanak
+**MADDE 3 –** (1) Bu Yönerge; 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (c) bendi ile Yataklı Tedavi Kurumları İşletme Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+**MADDE 4 –** (1) Bu Yönergede geçen;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Sağlık tesisi: Yataklı sağlık tesislerini,
+c) Yanık odası: Sağlık tesisi bünyesinde en az iki hastaya aynı anda yanık tedavi hizmeti verebilecek nitelikte fizik, donanım ve personel şartlarını haiz yanık birimini,
+
+ç) Yanık tedavi birimi: Yanık odası, yanık ünitesi veya yanık tedavi merkezi için kullanılan genel tanımlamayı,
 
 i) (Değişik:23/02/2011-8601)Yanık tedavi merkezi: Eğitim ve araştırma hastanelerinin idari ve tıbbi bütünlüğü içerisinde yer alan, ancak diğer birimlerden izole edilmiş veya müstakil binası olan, tüm yanık vakalarının kabul edildiği, (çocuk sağlığı ve hastalıkları hastaneleri bünyesindeki yanık tedavi birimlerine sadece çocuk hastalar kabul edilir.) ilk şok tedavilerinden rehabilitasyonlarına kadar olan tüm tedavi süreçlerinin gerçekleştirilebildiği, sterilizasyon koşullarının en yüksek seviyede sağlandığı, giriş ve çıkışlarının enfeksiyon kontrolü bakımından denetimli olduğu
 

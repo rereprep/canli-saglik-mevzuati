@@ -1,4 +1,5 @@
----id: "sb-saglik-teknolojileri-degerlendirme-yonergesi"
+---
+id: "sb-saglik-teknolojileri-degerlendirme-yonergesi"
 baslik: "Sağlık Teknolojileri Değerlendirme Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
@@ -11,6 +12,7 @@ tarih: "2019-10-25"
 sayi: "5201"
 duzeltildi: true
 ---
+
 2.2.5. Sağlık Teknolojileri Değerlendirme Yönergesi
 
 ### SAĞLIK TEKNOLOJİSİ DEĞERLENDİRME YÖNERGESİ

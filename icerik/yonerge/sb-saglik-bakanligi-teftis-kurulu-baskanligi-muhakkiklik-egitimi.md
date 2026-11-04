@@ -1,4 +1,5 @@
----id: "sb-saglik-bakanligi-teftis-kurulu-baskanligi-muhakkiklik-egitimi"
+---
+id: "sb-saglik-bakanligi-teftis-kurulu-baskanligi-muhakkiklik-egitimi"
 baslik: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi"
 tur: "yonerge"
 birim: "Teftiş Kurulu Başkanlığı"
@@ -11,6 +12,7 @@ tarih: "2024-11-29"
 sayi: "261021584"
 duzeltildi: true
 ---
+
 10.2.1. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi
 
 ### T.C. SAĞLIK BAKANLIĞI Teftiş Kurulu Başkanlığı
