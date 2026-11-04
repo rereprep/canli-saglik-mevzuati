@@ -3,16 +3,26 @@ id: "sbg-103459-asiri-sicaklarda-alinmasi-gereken-onlemler-genelgesi-2007-52"
 baslik: "Aşırı Sıcaklarda Alınması Gereken Önlemler Genelgesi (2007/52)"
 tur: "genelge"
 sayi: "2007/52"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "Aşırı sıcak havalarda halk sağlığının korunması, risk gruplarına yönelik uyarılar ve alınacak koruyucu tedbirleri düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103459/asiri-sicaklarda-alinmasi-gereken-onlemler-genelgesi-200752.html"
+kaynak_url: "https://www.saglik.gov.tr/TR-103459/asiri-sicaklarda-alinmasi-gereken-onlemler-genelgesi-2007-52.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.72. Aşırı Sıcaklarda Alınması Gereken Önlemler Genelgesi (2007/52)
+### T.C. SAĞLIK BAKANLIĞI
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-6.3.72. (cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)
+Sayı : B.10.0.TSH0.10.00.02
+Konu : Aşırı Sıcaklar
+
+### GENELGE
+2007/52
+
+VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
 ### AŞIRI SICAKLARDA ALINMASI GEREKEN ÖNLEMLER
 
@@ -90,7 +100,7 @@ spor için en az. 2-4 bardak sıvı alınmalıdır. Ağır fizik aktivitelerden 
 
 • Terleme ile artan sıvı ve mineral kaybının önlenmesi için her zamankinden daha fazla miktarlarda sıvi alınmalıdır.
 
-• Sıvı alımında su içmek esas olmakla beraber, su dışı sıvı alımında kahve, çay ve gazlı içecekler yerine süt, ayran ve meyve suyu gibi içecekler tercih edilmelidir. Eğer doktor tarafindan sıvı alımı kısıtlanmış veya idrar söktürücü ilaç kullanılması söz konusu ise ilgili doktora başvurmak
+• Sıvı alımında su içmek esas olmakla beraber, su dışı sıvı alımında kahve, çay ve gazlı içecekler yerine süt, ayran ve meyve suyu gibi içecekler tercih edilmelidir. Eğer doktor tarafından sıvı alımı kısıtlanmış veya idrar söktürücü ilaç kullanılması söz konusu ise ilgili doktora başvurmak
 
 • Mide kramplarına neden olabileceği için çok soğuk ve buzlu içecekler tercih edilmemelidir.
 

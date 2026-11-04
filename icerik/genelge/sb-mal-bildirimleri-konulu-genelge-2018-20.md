@@ -3,27 +3,55 @@ id: "sb-mal-bildirimleri-konulu-genelge-2018-20"
 baslik: "Mal Bildirimleri Konulu Genelge (2018/20)"
 tur: "genelge"
 sayi: "2018/20"
+tarih: "2018-07-09"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
-konu: "Mal Bildirimleri Konulu Genelge (2018/20) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["personel", "mal bildirimi", "etik"]
+konu: "Sağlık Bakanlığı personelinin mal bildiriminde bulunma usul ve esasları, bildirim zamanları ve idari süreçlerini düzenler."
+etiketler: ["mal bildirimi", "personel", "mevzuat"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1005-1009"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-9.3.6.Mal Bildirimleri Konulu Genelge (2018/20)
+9.3.6. Mal Bildirimleri Konulu Genelge (2018/20)
 
-T.C.
+### T.C. SAĞLIK BAKANLIĞI
+Yönetim Hizmetleri Genel Müdürlüğü
 
-### SAĞLIK BAKANLIĞI
+Sayı : 82040698/
+Tarih: 09.07.2018
+Konu : Mal Bildirimleri
 
-Yönetim Hizmetleri Genel Müdürlügü TC Soga Quartg Say1 : 82040698/ Konu : Mal Bildirimleri
+GENELGE
+2018/20
 
-4) Her türlü kara, deniz ve hava taşıt araçları, traktör, biçer-döver, harman makinası ve diğer ziraat makinalan, inşeat ve iş makinalan, hayvanlar, koleksiyon ve ev eşyalan ile diğer taşınır mallar,
+Bilindiği üzere gerçeğe aykırı mal bildiriminde bulunan, haksız mal edinen veya haksız edinilen malı kaçıran veya gizleyenlere 3628 sayılı Kanunda belirtilen ceza hükümler, süresi içinde mal bildiriminde bulunmayanlara ise 657 sayılı Kanunun disiplin hükümleri uygulanmaktadır.
+3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu ile bu Kanunun uygulanmasına ilişkin usul ve esasları düzenleyen ve 10/08/1990 tarihli ve 90/748 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Mal Bildiriminde Bulunulması Hakkında Yönetmeliğin öngördüğü işlemlerin yerine getirilmesi, uygulamada yaşanan sıkıntıların giderilmesi ve personelin mağduriyetinin önlenmesi amacına yönelik hususlar aşağıda belirtilmiştir.
 
-6) Alacaklari,
+A) MAL BİLDİRİMİNDE BULUNULMASINDA UYULMASI GEREKEN USUL VE ESASLAR
 
-7) Borçlan, Mal bildirimine konu teşkil etmektedir. Mallar, mal bildirimi tarihindeki değerleri esas alınmak suretiyle beyan edilecektir. Mal bildirimlerinde (b) bendinde belirtilen mal, hak, alacak, borç ve gelirlerin ayrı ayn toplam degerleri gösterilecektir. Mal bildiriminde bulunmakla yükümlü personel, eşinin 3628 sayılı Kanun kapsamında olmast halinde, her birinin ayrı ayn mal bildiriminde bulunması ve eşlerden her birinin, eși ile velayeti altındaki çocuklarına ait malları da ayrıca bildirecektir.
+1. Mal bildiriminde bulunacak kamu görevlileri
+Bakanlığımız merkez ve taşra teşkilatında aylık, ücret ve ödenek almak suretiyle kamu hizmeti gören memurlar ve işçi niteliği taşımayan diğer kamu görevlilerinden;
+a) 657 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (A) bendine göre istihdam edilen memurların,
+b) 657 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (B) bendine göre istihdam edilen sözleşmeli personelin,
+c) 4924 sayılı Kanuna tabi sözleşmeli personelin,
+ç) 5258 sayılı Aile Hekimliği Kanunu kapsamında sözleşme ile görev yapan personelin,
+d) 663 sayılı KHK'nin Ek-2 sayılı cetvelinde belirtilen pozisyonlarda sözleşmeli statüde görev yapan personelin,
+mal bildiriminde bulunması gerekmektedir.
+
+2. Mal Bildiriminin Konusu
+Mal Bildiriminde Bulunulması Hakkında Yönetmeliğin 8 inci maddesi hükmü çerçevesinde 3628 sayılı Kanun kapsamına giren kamu görevlilerinin kendilerine, eşlerine ve velayetleri altındaki çocuklarına ait bulunan;
+a) Taşınmaz malları (arsa ve yapı kooperatif hisseleri dahil),
+b) Kendilerine aylık ödenenler, net aylık tutarının beş katından fazla; aylık ödenmeyenler ise genel idare hizmetleri sınıfında birinci derecenin birinci kademesindeki şube müdürüne ödenen net aylığın beş katından fazla değer ve tutarındaki;
+1) Para ve para hükmündeki kıymetli kağıtları,
+2) Hisse senedi ve tahvilleri,
+3) Altın ve mücevheratı,
+
+4) Her türlü kara, deniz ve hava taşıt araçları, traktör, biçer-döver, harman makinası ve diğer ziraat makineleri, inşaat ve iş makineleri, hayvanlar, koleksiyon ve ev eşyaları ile diğer taşınır mallar,
+
+6) Alacakları,
+
+7) Borçları, Mal bildirimine konu teşkil etmektedir. Mallar, mal bildirimi tarihindeki değerleri esas alınmak suretiyle beyan edilecektir. Mal bildirimlerinde (b) bendinde belirtilen mal, hak, alacak, borç ve gelirlerin ayrı ayrı toplam degerleri gösterilecektir. Mal bildiriminde bulunmakla yükümlü personel, eşinin 3628 sayılı Kanun kapsamında olması halinde, her birinin ayrı ayrı mal bildiriminde bulunması ve eşlerden her birinin, eşi ile velayeti altındaki çocuklarına ait malları da ayrıca bildirecektir.
 
 3. Mal Bildiriminin Verilme Zamanı Mal bildirimlerinin;
 
@@ -125,10 +153,10 @@ Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a
 
-Müstesar
+Müsteşar
 
-ри. EK: Mal Bildirim Formu
+ EK: Mal Bildirim Formu
 
 ### DAĞITIM:
 
-A Plam
+A Planı

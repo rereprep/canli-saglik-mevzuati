@@ -4,15 +4,26 @@ baslik: "Mobil Sağlık Hizmetleri Genelgesi (2018/24)"
 tur: "genelge"
 sayi: "2018/24"
 birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Sağlık hizmetlerine erişimi kısıtlı kırsal ve dezavantajlı yerleşimlerde sunulacak mobil sağlık hizmetlerinin planlanması ve yürütülmesini düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103509/mobil-saglik-hizmetleri-genelgesi-201824.html"
+kaynak_url: "https://www.saglik.gov.tr/TR-103509/mobil-saglik-hizmetleri-genelgesi-2018-24.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.2. Mobil Sağlık Hizmetleri Genelgesi (2018/24)
+### T.C. SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
+Toplum Sağlığı Hizmetleri ve Eğitim Dairesi Başkanlığı
 
-(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338) g ( / ) TC Sağlik Bakanig T.C.
+Sayı : 49654233-449
+Konu : Mobil Sağlık Hizmetleri
+
+### GENELGE
+2018/24
+
+VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
 SAĞLIK BAKANLIĞI ONet
 
@@ -64,7 +75,7 @@ p) Görevi ile ilgili verilen diğer işleri yapmak.
 
 1) Mobil sağlık hizmetlerinin mesai saatleri dähilinde verilmesi ve ekibin mesai saatlerinin tamamını mobil sağlık hizmetlerinde tamamlaması esastır.
 
-2) Ekibin bağlı olduğu birim tarafindan her ekibin ziyaret yerleri ve güzergählarını da içeren çalışma planı hazırlanır. Bu plan il sağlık müdürlüğüne ve ilgili muhtarlıklara bildirilir. Ekipler, bu plan çerçevesinde ziyaretlerini gerçekleştirir.
+2) Ekibin bağlı olduğu birim tarafından her ekibin ziyaret yerleri ve güzergählarını da içeren çalışma planı hazırlanır. Bu plan il sağlık müdürlüğüne ve ilgili muhtarlıklara bildirilir. Ekipler, bu plan çerçevesinde ziyaretlerini gerçekleştirir.
 
 3) Ziyaret günlerinin aile hekimliği gezici hizmet günü/haftası ile denk gelmemesine dikkat edilir.
 
@@ -76,7 +87,7 @@ EC Sağla Bakamo 9000 CERTIERCATE
 
 ### T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürluğü
 
-4) Verilen hizmetin kayıtlarının tutulması ve sürecin yönetilebilmesi için her yerleşke için bir hizmet defteri (mümkünse tablet PC üzerinden) oluşturulur. Ekipler tarafından sunulan hizmet verileri her günün sonunda Ek-1' de yer alan "Mobil Sağlık Formu"na işlenerek kayıt altına alınır. Bu kayıtların icmali aynı form kullanılarak hazırlanan ekip icmali aynı gün sonunda il sağlık müdürlüğüne bildirilir. Il sağlık müdürlükleri de ilin icmalini aylık olarak Halk Sağlığı Genel Müdürlüğüne gönderir.
+4) Verilen hizmetin kayıtlarının tutulması ve sürecin yönetilebilmesi için her yerleşke için bir hizmet defteri (mümkünse tablet PC üzerinden) oluşturulur. Ekipler tarafından sunulan hizmet verileri her günün sonunda Ek-1' de yer alan "Mobil Sağlık Formu"na işlenerek kayıt altına alınır. Bu kayıtların icmali aynı form kullanılarak hazırlanan ekip icmali aynı gün sonunda il sağlık müdürlüğüne bildirilir. İl sağlık müdürlükleri de ilin icmalini aylık olarak Halk Sağlığı Genel Müdürlüğüne gönderir.
 
 Ziynetlerde uyulacak ilkeler:
 

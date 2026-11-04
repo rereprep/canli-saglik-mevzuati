@@ -3,12 +3,14 @@ id: "sb-kuduzla-mucadele-ve-profilaksi-uygulamalari-genelgesi-2019-04"
 baslik: "Kuduzla Mücadele ve Profilaksi Uygulamaları Genelgesi (2019/04)"
 tur: "genelge"
 sayi: "2019/04"
+tarih: "2019-05-11"
 birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Kuduzla Mücadele ve Profilaksi Uygulamaları Genelgesi (2019/04) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["halk sağlığı", "kuduz", "profilaksi"]
+konu: "Kuduz riskli temas vakalarında profilaksi uygulamaları, aşı merkezleri ve sürveyans bildirim esaslarını düzenler."
+etiketler: ["kuduz", "profilaksi", "zoonoz", "aşı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 646-648"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.27. Kuduzla Mücadele ve Profilaksi Uygulamaları Genelgesi (2019/04)
@@ -17,15 +19,13 @@ ocr: true
 
 T.C 11/5/2019 1414
 
-### SAĞLIK BAKANLIĞI Halk: Sallgi Gencl Müdurlüga
+### SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
 
-Say) 1 10712557-136.99 Kono : Kuduzia Múcadele ve
+Sayı : 10712557-136.99 Konu : Kuduzla Mücadele ve Profilaksi Uygulamaları
 
-Profilakei Dygglatalani
+### GENELGE 2019/04
 
-### GENELGE 2019/0.4
-
-Kuduz, musan sağlığıur tehdit eden ve kimik belirtiler geliştikten sonra geriye dönüşu mümkan aimayan ve dramatik bir sekilde ölümle sonuçlanan zooroek hastalıktır. Be sebeple, gerek kuduz nakli temas öncesi, gerekse knouz riskb temas sonrası doğru profilaksi uygulamaların gerçekleştırılmes oldukça änemlidiz Køduz hastalığıölöncil bichasabk olması nereniye, kuduz tisklı tenıstılarda aşılamanım gerekliliği konuşunda kişilerin detaylı bir şekilde bagilendin mesı elzemdir
+Kuduz, insan sağlığını tehdit eden ve klinik belirtiler geliştikten sonra geriye dönüşu mümkün olmayan ve dramatik bir sekilde ölümle sonuçlanan zoonotik hastalıktır. Bu sebeple, gerek kuduz riskli temas öncesi, gerekse kuduz riskli temas sonrası doğru profilaksi uygulamaların gerçekleştirilmesi oldukça önemlidir. Kuduz hastalığı ölümcül bir hastalık olması nedeniyle, kuduz riskli temaslılarda aşılamanın gerekliliği konusunda kişilerin detaylı bir şekilde bilgilendirilmesi elzemdir.
 
 Ülkemizde kuduz ve kuduz risklı temas, bildirims zorunlu hastalıklar lişesinde yer dınuktadı. 30/05,2007 urlıi ve 36537 sayshı Resmı Gazete'de Sayınıdanarak yüntige guer *Bubş er Hesabklar Suveyans ve Kontral Fazslan Yäneneliği" Re vaka Tamılan ve bilditim dizeneumifir
 
@@ -93,10 +93,9 @@ Bilgilerinizi ve bu Genelge'nia ekleri ile birlikte nün sağlk kurun ve kurulus
 
 Gereğini önemle rica ederim.
 
-Prof. Dr. Emin ALP MESE
+Prof. Dr. Emine ALP MEŞE
+Bakan a.
+Bakan Yardımcısı 1: Kuduz Profilaksi Rehber (43 sayfa) 2- Kuduz Bilgilendirme Formu 3- Kuduz Aşı Takip Kartı
 
-Bakan a
-
-Bakin Yardınes 1: Kuluz Profilalesi Rehber (43 sayfa) 2- Kuduz Bilgilendirme Formu 3- Kuche Aşi Takip Karsı
-
-4. Kuduz Riskl Temas Vaka Inceleme Formn 4- Buduz Riskli Temas Aylik Islen Farmw Dogune Gereği: A Plan
+4- Kuduz Riskli Temas Vaka İnceleme Formu 5- Kuduz Riskli Temas Aylık İcmal Formu DAĞITIM:
+Gereği: A Planı

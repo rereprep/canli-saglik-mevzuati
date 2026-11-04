@@ -3,29 +3,63 @@ id: "sb-kutanoz-leishmaniasis-genelgesi-2003-126"
 baslik: "Kutanöz Leishmaniasis Genelgesi (2003/126)"
 tur: "genelge"
 sayi: "2003/126"
-birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Kutanöz Leishmaniasis Genelgesi (2003/126) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["halk sağlığı", "şark çıbanı", "paraziter hastalıklar"]
+tarih: "2003-10-24"
+birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "Kutanöz Leishmaniasis (şark çıbanı) olgularında tanı, tedavi yaklaşımı ve kontrol programı ilkelerini düzenler."
+etiketler: ["leishmaniasis", "şark çıbanı", "paraziter hastalıklar", "bulaşıcı hastalıklar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 613-616"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.19. Kutanöz Leishmaniasis Genelgesi (2003/126)
 
-### KUTANÖZ LEİSHMANİA SİS OLGULARINDA TANI VE TEDAVİDE YAKLAŞIM
+### T.C. SAĞLIK BAKANLIĞI
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-1. Kutanöz Leishmaniasis (KL) Olgularında Klinik Yaklaşım KL duşünulen lezyonlann klinik ozelikler:
+SAYI : B100TSH0110002 / 16130
+KONU : Kutanöz Leishmaniasis
+24.10.2003
 
-• Genellikle vucudun giysi ile örtulmeyen açık clan kısımlarındaki deriye lokalize,
+GENELGE
+2003/126
 
-• Uzun süredir (en az 1 ay) ıyıleşmeyen.
+İLGİ: 25.06.1996 tarihli ve B100TSH0110002/6078 sayılı Genelgemiz.
 
-• Sekonder olarak bakterilerle infekte olmadıkça ağrisız,
+Bilindiği gibi Leishmaniasis, Leishmania cinsi parazitler ile enfekte dişi kum sineklerinin (Tatarcık, Phlebotomus) kan emmesi sırasında insanlara bulaştırdığı bir hastalıktır. İnsanlarda üç tip klinik tablo ile seyreden hastalığın Ülkemizde en çok görülen şekli Kutanöz Leishmaniasis (KL) olup, Şanlıurfa, Osmaniye, Adana, Hatay, Kahramanmaraş ve Mersin illerimizde endemik olarak görülmektedir.
 
-• Eritemli papul, nodul, nodulo-ulseratif, plak, ulsere plak şeklinde,
+Malûm olduğu üzere, KL ile ilgili tanı ve tedavi kriterleri ile vektör ve çevreye yönelik hizmetler ilgi genelgemiz ve ekinde gönderilen Kutanöz Leishmaniasis Kontrol Programı kapsamında verilen bilgiler çerçevesinde yürütülmektedir.
 
-• Olserleşmiş lezyonların üzerinde alta sıkıca yapışık krutlu, kenarları lastik silgi kıvamında endurasyon gosteren (merkezinde krateri olan volkan biçiminde) lezyon
+Ancak, ortaya çıkan bir takım gelişmeler ve bu gelişmeler neticesinde yapılan değerlendirmeler, ilgi genelgemiz çerçevesinde yürütülen hizmetlere ilişkin yeni bir mütalaanın gerekliliğini ortaya koymuştur.
+
+Bu meyanda, yeniden değerlendirilen, KL olgularında tanı ve tedavide yaklaşım ilkeleri ekte gönderilmektedir.
+
+Bu nedenle, KL ile ilgili hizmetlerin ilişikteki bilgiler çerçevesinden yürütülmesi ve ilgi genelgemizin iptal edildiği hususlarında bilgilerinizi, keyfiyetin gereği için de ilgililere emirlerinizi rica ederim.
+
+EK: Kutanöz Leishmaniasis Olgularında Tanı ve Tedavide Yaklaşım (3 sf.)
+
+Prof. Dr. Recep AKDAĞ
+Sağlık Bakanı
+
+DAĞITIM:
+A Plânı
+
+DAİMİ GENELGE
+
+### KUTANÖZ LEİSHMANİASİS OLGULARINDA TANI VE TEDAVİDE YAKLAŞIM
+
+1. Kutanöz Leishmaniasis (KL) Olgularında Klinik Yaklaşım KL düşünülen lezyonlann klinik özellikler:
+
+• Genellikle vücudun giysi ile örtulmeyen açık olan kısımlarındaki deriye lokalize,
+
+• Uzun süredir (en az 1 ay) iyileşmeyen.
+
+• Sekonder olarak bakterilerle enfekte olmadıkça ağrısız,
+
+• Eritemli papül, nodül, nodülo-ülseratif, plak, ülsere plak şeklinde,
+
+• Ülserleşmiş lezyonların üzerinde alta sıkıca yapışık krutlu, kenarları lastik silgi kıvamında endürasyon gösteren (merkezinde krateri olan volkan biçiminde) lezyon
 
 • Lezyonlar, yaz aylarında ve geceleri aktıf olan tatarcık (Phlebotorus) sıneğının beslenmek için kan emdıği deri bolgesinde, 4-8 aylık inkubasyon döneminden sonra ortaya çıkan, ağrısız, eritemli bir papul şeklinde başlar. Lezyon, 1-2 ay içerisinde buyuyerek 1-2 cm çaplı nodule dönüşür. Nodüler lezyon zaman içerısinde merkezden ülserleşerek krutla kaplanır. Tedavisız olgularda lezyon doğal seyri genellikle 1-1,5 yıllık süreç içinde ömür boyu süren depresif skar bırakarak iyileşir. Iyileşmeden sonra kişiyi ómür boyu reinfeksiyonlara karşı koruyan doğal bir bağışıklık gelışır.
 
@@ -105,10 +139,10 @@ Pentostam® (sodyum stiboglukonat) ticari preparatının 1 misinde 100 mg'a eşd
 
 • Ev ve hayvan barınaklarının fiziksel koşullarının iyileştirilmesi (ahırların sıvanması ve kireçle badana yapılması, kalıcı insektisit uygulanması),
 
-• Hastalığın görüldüğu illerde şark çıbanı merkezleri oluşturulması ve buralarda çalışan sağlık personelinin teorık ve pratik eğitimlerinin yapılmasi; ayrica, bu eğıtimlerin surekliliğinin
+• Hastalığın görüldüğü illerde şark çıbanı merkezleri oluşturulması ve buralarda çalışan sağlık personelinin teorik ve pratik eğitimlerinin yapılması; ayrıca, bu eğitimlerin sürekliliğinin sağlanması,
 
 • Halk eğitimlerinin yapılması,
 
 • Tatarcığın yaşama alanlarının ıslahına ilişkin çalışmalar yapılması.
 
-• İlgili kurum ve kuruluşlarla iş birliği yapılması ve diğer kurumların da konuya gereken hassasiyeti güstermelerinin sağlanması gerekmektedir.
+• İlgili kurum ve kuruluşlarla iş birliği yapılması ve diğer kurumların da konuya gereken hassasiyeti göstermelerinin sağlanması gerekmektedir.

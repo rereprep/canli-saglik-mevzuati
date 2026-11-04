@@ -2,69 +2,90 @@
 id: "sbg-103485-eliza-tetkikleri-genelgesi"
 baslik: "Eliza Tetkikleri Genelgesi"
 tur: "genelge"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Tedavi Hizmetleri Genel Müdürlüğü"
+konu: "Sağlık kuruluşlarında kan bağışçıları ve şüpheli olgularda HIV/ELISA testlerinin çalışılması, doğrulanması ve bildirim esaslarını düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103485/eliza-tetkikleri-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.24. Eliza Tetkikleri Genelgesi T. C. 14
+### 6.3.25. Eliza Tetkikleri Genelgesi
 
-### SAĞLIK BAKANLIĞI
+T.C.  
+SAĞLIK BAKANLIĞI  
+Tedavi Hizmetleri Genel Müdürlüğü
 
-Tedavi Hizmetleri Genel Müdürlügü
+Th. B100THG0100004/3120/ ANKARA 15.01.1992  
+Konu : Eliza tetkikleri hk.
 
-### Th. B100THG0100004/3120/ ANKARA -ANSA
+TEMEL SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE
 
-Konu : ..Eliza-betkikleni hk.
+ELİZA tetkikleri konusundaki 9.1.1992 gün ve 3045 sayılı Genelgeniz ek'te sunulmuştur.  
+Bilgilerinizi arz ederim.
 
-#.1.1992 15.01.92* 0405
+Op. Dr. Tevfik A. AKINCIOĞLU  
+Genel Müdür
 
-### TEMEL SAĞLIK HİZMETLERİ GENEL MÜDURLÜĞÜNE
+EKİ: 2 sayfa
 
-ELİZA tetkikleri konusundaki 9.1.1992 gün ve 3045 sayılı isteren ve henüz Genelgemiz ek'te sunulmuştur. tespitlorin Bilgilerinizi arz ederim. Idi bir sagiik Temel Sağlık Hizmetleri Menlarda ve Г Ни Genel Müdürlüğü ›uki maglikli Terin 15 OCAK 1992 °p.Dr.Tevfik.A.AKINCIOGLU a kendiLeri Say: 277 enel Müdür olun balge ve
+---
 
-•inde agorada mierle, yatarak 1 rutin elarak .› gelenler ‹ahil). azam olaras 11 EKİ: 2 sayfa tr. ›lank izere ne turizmin
+T.C.  
+SAĞLIK BAKANLIĞI  
+Tedavi Hizmetleri Genel Müdürlüğü
 
-T. C. 14
+Th. B100THG0100004-3120/3045  
+ANKARA  
+9.1.1992  
+Konu : Eliza tetkikleri hk.
 
-### SAĞLIK BAKANLIĞI Yuduvi Izacter! Cune! Müsürige
+....................VALİLİĞİNE
 
-Th. 11007HC0100004-3120 /$065 ANKANA
+Günümüzde, özellikle birçok dış ülkede hızla yayılma etkisi gösteren ve henüz tedavisi de bulunamayan AIDS hastalığı, bir tedbir alınmaması ve tespitlerin zamanında yapılmaması halinde, dünyada olduğu gibi Ülkemizi de ciddi bir sağlık sorunuyla karşı karşıya bırakacaktır.
 
-9.1.1992 Konu : Elina-botkikleri-Jk.
+AİDS'li vakalar, genellikle klinik belirtileri ortaya çıkmış olanlarda ve şüpheli şahıslarda yaptırılan ELİZA testi ile saptanmaktadır. Halbuki sağlıklı görünümde olup AIDS virüsü taşıyan birçok kişi mevcuttur. Bu da hem kendileri hem de toplum için büyük bir tehlikedir.
 
-### ...VALILIČINE
+Bu nedenle Bakanlığımızca özellikle turizm yönünden hareketli olan bölge ve illerde olmak üzere pilot uygulama ile sondajlama ve tarama niteliğinde aşağıda belirtildiği şekilde bir çalışma yapılmasına gerek duyulmuştur.
 
-Günümüzde, özellikle birçok dıg ülkede hızla yayılma etkisi gösteren ve henilz tedavisi de bulunamayan AIDS hastaliği, bir tedbir alinmamasa ve tespitlerin zamanında yapılmaması halinde, dünyada olduğu gibi ülkemizi de ciddi bir sağlık sorunuyla karşı karşıya bırakacaktır.
+a) Hastanelerimize ayaktan muayene ve tedavi için müracaat edenlerle, yatarak tedavi görecek hastalardan istenecek kan tetkiklerinde Eliza testi rutin olarak yaptırılacaktır. (Diş polikliniğine çekim ve cerrahi müdahale için gelenler dahil)
 
-AİDS'li vakalar, genellikle klinik belirtileri ortaya çıkmiş olenlarda ve şüpheli gahıslarda yaptırılan ELİZA testi !le saptanmaktadır. Halbuki sağlıklı görünümde olup AIDS virüsu taşıyan birçok kişi mevcuttur. Buda hem kendileri hem de toplum için büyük bir tehlikedir.
+b) Eliza testi sayısı ve müsbet olanlar aylık periodlarla muntazam olarak İl Sağlık Müdürlüklerine bildirilecek ve Bakanlığımıza gönderilecektir.
 
-Bu nedenle Bakanlığımızca özellikle turizm yönünden hareketli olun bölge ve Illerde olmak izere pilot uygulama ile sondajlama ve tarama niteliğinde açašana belirtildiği gekilde bir çalışma yapılmasına gerek duyulmuştur.
+c) Pilot uygulama Ankara-İstanbul-İzmir-Antalya illeri başta olmak üzere Orta ve Doğu Karadeniz, Trakya, Marmara, Ege ve Akdeniz Bölgelerinde turizmin hareketli olduğu illerimizde yapılacaktır.
 
-a) Hastanelerimize ayaktan muayene ve tedavi için müracant edenlerle, yatarak tedavi görecek hastalardan istenecek kan tetkiklerinde Eliza testi rutin olarak yaptirılacaktar. (Diş polikliniğine çekim ve cerrahi müdahale için gelenler dahil]
-
-b)Eliza testi sayısı ve müsbet olenlar aylık periodlarla muntazam olarak !] Sağlık Müdürlüklerine bildirilecek ve. Bakanlığımıza gönderilecektir.
-
-c) Pilot uygulama Ankara-İstanbul-izmir-Antalya illeri başta olani izere Orta ve Doğu Karadeniz, Trakya, Marmara, Ege ve Akdeniz bölgelerinde turizmin harcketli olduğu illérimizde yapılacaktır.
-
-### T. C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
-
-Th. ANKARA Konu
-
-d) Döner sermayesi olup Eliza cihazı olmıyan hastaneler en kisa zamanda döner sermayeden temin edecekler. Döner Sermayesi ve cihazı olmıyanlar Bakanlıgimızdan talep edeceklerdir.
+d) Döner sermayesi olup Eliza cihazı olmıyan hastaneler en kısa zamanda döner sermayeden temin edecekler. Döner Sermayesi ve cihazı olmıyanlar Bakanlığımızdan talep edeceklerdir.
 
 e) İl Sağlık Müdürlükleri ve Baştabibler uygulamayı tatbik ve takipten sorumludurlar.
 
 Gereğini rica ederim.
 
-Dr. Y1 I AKTUNA
+Dr. Yıldırım AKTUNA  
+BAKAN
 
-### BAKAL DAĞITIN:
+### DAĞITIM:  
+19 İl Valiliklerine  
+Ek'li listedeki Devlet Hast. Baştabibliklerine (İvediliğinden)  
+Merkez Daireler-Şubeler
 
-19 İl Valiliklerine Ek'li listedeki Devlet Hast. Bagtabibliklerine(İvediliğinden) Merkez Daireler-Şubeler
-
-### PİLOT BÖLGE OLARAK UYGULANACAK İLLER
-
-İçel Ordu Rize
+### PİLOT BÖLGE OLARAK UYGULANACAK İLLER  
+Adana İli ve İlçeleri Devlet Hastaneleri Baştabibliklerine  
+İçel " " " "  
+Antalya " " " "  
+Muğla " " " "  
+Aydın " " " "  
+İzmir " " " "  
+Balıkesir " " " "  
+Çanakkale " " " "  
+Tekirdağ " " " "  
+Edirne " " " "  
+Kırklareli " " " "  
+İstanbul " " " "  
+Ankara " " " "  
+Samsun " " " "  
+Ordu " " " "  
+Giresun " " " "  
+Trabzon " " " "  
+Rize " " " "  
+Artvin " " " "

@@ -4,15 +4,23 @@ baslik: "Çocuklara Yönelik Mikrobesin Destek Programları Genelgesi (2020/03)"
 tur: "genelge"
 sayi: "2020/03"
 birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Bebek ve çocuklara yönelik D vitamini ve demir destek programlarının uygulanması, lojistik süreçleri ve izlem ilkelerini düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103481/cocuklara-yonelik-mikrobesin-destek-programlari-genelgesi-202003.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.51. Çocuklara Yönelik Mikrobesin Destek Programları Genelgesi (2020/03)
+### T.C. SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
+Çocuk ve Ergen Sağlığı Dairesi Başkanlığı
 
-6.3.52. (cid:23)(cid:23)(cid:23)(cid:23)(cid:23)(cid:23)(cid:23)(cid:23)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:272)(cid:272)(cid:272)(cid:272)(cid:272)(cid:272)(cid:272)(cid:272)(cid:272)(cid:437)(cid:437)(cid:437)(cid:437)(cid:437)(cid:437)(cid:437)(cid:437)(cid:437)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:122)(cid:122)(cid:122)(cid:122)(cid:122)(cid:122)(cid:122)(cid:122)(cid:122)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:68)(cid:68)(cid:68)(cid:68)(cid:68)(cid:68)(cid:68)(cid:68)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:271)(cid:271)(cid:271)(cid:271)(cid:271)(cid:271)(cid:271)(cid:271)(cid:271)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)
+### GENELGE
+2020/03
+
+VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
 TSESO-EN - IQNet
 
@@ -38,4 +46,4 @@ g) Bebeklerin Demir ve D vitamini desteğine ilişkin süreçler ve kullanılan 
 
 Prof. Dr. Emine ALP MEŞE
 
-### DAGITIM A PLANI
+### DAĞITIM A Planı

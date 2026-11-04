@@ -4,15 +4,15 @@ baslik: "Bebek ve Küçük Çocuk Beslenme Programları Genelgesi (2021/10)"
 tur: "genelge"
 sayi: "2021/10"
 birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Bebek ve küçük çocukların beslenmesi, anne sütünün teşviki ve Bebek Dostu Sağlık Kuruluşları programı uygulamalarını düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103470/bebek-ve-kucuk-cocuk-beslenme-programlari-genelgesi-202110.html"
+kaynak_url: "https://www.saglik.gov.tr/TR-103470/bebek-ve-kucuk-cocuk-beslenme-programlari-genelgesi-2021-10.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.50. Bebek ve Küçük Çocuk Beslenme Programları Genelgesi (2021/10)
 
-ç Ç g g ( / )
 
 ### T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürluğu
 

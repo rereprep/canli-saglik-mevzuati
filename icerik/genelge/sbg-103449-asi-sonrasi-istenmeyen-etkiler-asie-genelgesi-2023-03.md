@@ -4,13 +4,13 @@ baslik: "Aşı Sonrası İstenmeyen Etkiler (ASİE) Genelgesi (2023/03)"
 tur: "genelge"
 sayi: "2023/03"
 birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Aşı uygulamaları sonrasında gelişen istenmeyen etkilerin (ASİE) tespiti, bildirimi, incelenmesi ve izlenmesi süreçlerini düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103449/asi-sonrasi-istenmeyen-etkiler-asie-genelgesi-202303.html"
+kaynak_url: "https://www.saglik.gov.tr/TR-103449/asi-sonrasi-istenmeyen-etkiler-asie-genelgesi-2023-03.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
-
-6.3.13. Aşı Sonrası İstenmeyen Etkiler (ASİE) Genelgesi (2023/03)
 
 ### T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
 
@@ -20,7 +20,7 @@ TSELISO-EN IQNet
 
 Sayı : E- 21001706-010.06.02 Konu : Aşı Sonrası İstenmeyen Etkiler
 
-(ASIE) Genelgesi
+(ASİE) Genelgesi
 
 ### BAKANLIK MAKAMINA
 
@@ -28,7 +28,7 @@ Aşı Sonrası Istenmeyen Etki (ASİE) izleme sistemi, Bakanlığımız tarafın
 
 Aşı sonrası istenmeyen etkilerin il ve ülke düzeyinde izlenebilmesi için sağlık personelinin bilgilerinin geliştirilmesi ve bu konuda sağlık personelinin yönlendirilmesi amacıyla hazırlanan Daimi Genelge ekte gönderilmektedir.
 
-Söz konusu Genelge ile Mart 2009 tarihinden sonra Çocukluk Dönemi Ulusal Aşı Takvimimize eklenen Hepatit A ve Suçiçeği aşılarının uygulaması sonrasında beklenen istenmeyen etkiler ASIE Izleme Sistemi kapsamına alınmış, ayrıca ASIE vaka sınıflamasında uluslararası güncel rehberlere uygun olarak bazı değişiklikler yapılmıştır. Bu Genelge ile 13.03.2009 tarihli ve 2009/17-7943 sayılı Daimi Genelge yürürlükten kaldırılmış olup, Aşı Sonrası İstenmeyen Etki İzleme Sisteminin yeni değişiklikler doğrultusunda yürütülmesi hususlarını olurlarınıza arz ederim.
+Söz konusu Genelge ile Mart 2009 tarihinden sonra Çocukluk Dönemi Ulusal Aşı Takvimimize eklenen Hepatit A ve Suçiçeği aşılarının uygulaması sonrasında beklenen istenmeyen etkiler ASİE İzleme Sistemi kapsamına alınmış, ayrıca ASİE vaka sınıflamasında uluslararası güncel rehberlere uygun olarak bazı değişiklikler yapılmıştır. Bu Genelge ile 13.03.2009 tarihli ve 2009/17-7943 sayılı Daimi Genelge yürürlükten kaldırılmış olup, Aşı Sonrası İstenmeyen Etki İzleme Sisteminin yeni değişiklikler doğrultusunda yürütülmesi hususlarını olurlarınıza arz ederim.
 
 Prot Dr. Sedat KAYGUSUZ Uyem püruyle arz ederun Halk Sağlığı Genel Müdürü
 
@@ -48,7 +48,7 @@ Bağışıklamanın amacı, kişiler ve toplumu aşı ile önlenebilir hastalık
 
 Aşılar oldukça güvenli ürünlerdir. Bununla birlikte; aşılama sonrası genellikle hafif ve nadir olarak önemli istenmeyen etkiler gözlenebilir. Aşılama sonrası gelişen istenmeyen etki, ebeveynleri çocuklarının daha sonraki aşılarını yaptırmak konusunda tereddüte sevk edebilmektedir. Çocuklar, aşı ile korunmaları mümkün iken; böylesi davranış eğilimleri sonucunda, hastalıklara yakalanabilir, ciddi şekilde hastalanabilir ve hatta hayatlarını kaybedebilirler. Bu arada, başka nedenlere bağlı olup aşıya bağlı bir yan etki şeklinde algılanabilen durumlarla da yaygın şekilde karşılaşılabilmektedir. Bu nedenle, Aşı Sonrası Istenmeyen Etki (ASİE) sürveyansı, halkın bağışıklama programına olan güveninin korunması açısından da önem taşımaktadır.
 
-Aşı Sonrası Istenmeyen Etki İzleme Sistemi, aşılama hızlarının, aşının kabul edilebilirliğinin ve hizmet kalitesinin artırılması için bağışıklama programlarının vazgeçilmez bir parçasıdır. Bu sistemin temel amacı, belirlenen olayları düzenli olarak izlemek, analiz etmek ve yorumlayarak aşılama programının iyileştirilmesini sağlamaktır. ·1925 Aşı sonrası istenmeyen etkilerin il ve ülke düzeyinde izlenebilmesi için sağlık personelinin bilgilerinin geliştirilmesi ve bu konuda sağlık personelinin yönlendirilmesi amacıyla; ASIE Danışma Kurulu'nun tavsiyeleri de dikkate alınarak hazırlanan Daimi Genelge ekte gönderilmektedir. Söz konusu Genelge ile Mart 2009 tarihinden sönra Çocukluk Dönemi Ulusal Aşı Takvimimize eklenen Hepatit A ve Suçiçeği aşılarının uygulaması sonrasında beklenen istenmeyen etkiler ASIE Izleme Sistemi kapsamına alınmış, ayrıca ASIE vaka sınıflamasında bazı değişiklikler yapılmıştır. Bu Genelge ile 13.03.2009 tarihli ve 2009/17-7943 sayılı Daimi Genelge yürürlükten kaldırılmıştır.
+Aşı Sonrası Istenmeyen Etki İzleme Sistemi, aşılama hızlarının, aşının kabul edilebilirliğinin ve hizmet kalitesinin artırılması için bağışıklama programlarının vazgeçilmez bir parçasıdır. Bu sistemin temel amacı, belirlenen olayları düzenli olarak izlemek, analiz etmek ve yorumlayarak aşılama programının iyileştirilmesini sağlamaktır. ·1925 Aşı sonrası istenmeyen etkilerin il ve ülke düzeyinde izlenebilmesi için sağlık personelinin bilgilerinin geliştirilmesi ve bu konuda sağlık personelinin yönlendirilmesi amacıyla; ASİE Danışma Kurulu'nun tavsiyeleri de dikkate alınarak hazırlanan Daimi Genelge ekte gönderilmektedir. Söz konusu Genelge ile Mart 2009 tarihinden sönra Çocukluk Dönemi Ulusal Aşı Takvimimize eklenen Hepatit A ve Suçiçeği aşılarının uygulaması sonrasında beklenen istenmeyen etkiler ASİE İzleme Sistemi kapsamına alınmış, ayrıca ASİE vaka sınıflamasında bazı değişiklikler yapılmıştır. Bu Genelge ile 13.03.2009 tarihli ve 2009/17-7943 sayılı Daimi Genelge yürürlükten kaldırılmıştır.
 
 Genelgenin çoğaltılarak tüm sağlık kurum ve kuruluşlarına (özel sağlık kuruluşları ve muayenehaneler dahil) imza karşılığı tebliğini, il düzeyinde yapılan uygulamaların Genelgeye uygun olarak yürütülmesi ve yeni Genelge doğrultusunda personelin bilgilendirilmesini hedefleyen hizmet içi eğitim programları düzenlenmesi hususlarında gereğini önemle rica ederim.
 
@@ -66,9 +66,9 @@ Bağışıklama hizmetleri, bebekleri, çocukları ya da erişkinleri, enfeksiyo
 
 Genişletilmiş Bağışıklama Programı (GBP), Boğmaca, Difteri, Tetanoz, Kızamık, Kızamıkçık, Kabakulak, Tüberküloz, Poliomyelit, Hepatit B, Haemophilus influenzae tip b'ye bağhı hastalıklar ile Streptoccus pneumoniae'ye bağhı invaziv pnömokokal hastalıklar, Hepatit A ve Suçiçeği hastalıklarının morbidite ve mortalitesini azaltarak bu hastalıkları kontrol altına almak ve hatta tamamen ortadan kaldırmak amacı ile hassas yaş gruplarına, enfeksiyona yakalanmalarından önce ulaşıp bağışıklanmalarını sağlamak için yapılan aşılama hizmetlerini içerir. Aşılama hızlarının, aşının kabul edilebilirliğin ve hizmet kalitesinin artırılması için; istenmeyen etki izleme sistemi, bağışıklama programlarının vazgeçilmez bir parçasıdır.
 
-Aşılar çok güvenilir maddelerdir. Üretim ve dağıtım aşamalarında çok sıkı kontrolden geçmektedirler. Ülkemizde kullanılan aşılar, Dünya Sağlık Orgütü (DSÖ) tarafindan önerilen ve onaylanan lyi Uretim Prosedürleri (Good Manufacturing Practices - GMP) kurallarına uygun üretilmiş ve uluslararası referans laboratuvarlarında test edilmiş olan aşılardır. Ayrıca, kullanılacak aşılar teslim alınıp sahada kullanıma sunulmadan önce, Ulusal referans laboratuvarlarımızda da test edilmekte ve aşıların uygunlukları bilimsel verilerle kanıtlandıktan sonra kabulleri yapılarak, uygulanmaya başlanmaktadır.
+Aşılar çok güvenilir maddelerdir. Üretim ve dağıtım aşamalarında çok sıkı kontrolden geçmektedirler. Ülkemizde kullanılan aşılar, Dünya Sağlık Orgütü (DSÖ) tarafından önerilen ve onaylanan lyi Uretim Prosedürleri (Good Manufacturing Practices - GMP) kurallarına uygun üretilmiş ve uluslararası referans laboratuvarlarında test edilmiş olan aşılardır. Ayrıca, kullanılacak aşılar teslim alınıp sahada kullanıma sunulmadan önce, Ulusal referans laboratuvarlarımızda da test edilmekte ve aşıların uygunlukları bilimsel verilerle kanıtlandıktan sonra kabulleri yapılarak, uygulanmaya başlanmaktadır.
 
-Aşılama sonrası sıklıkla hafif, oldukça nadir olarak da yaşamı tehdit edecek kadar ciddi istenmeyen etkiler gözlenebilir. Sağhk personelinin büyük bir çoğunluğu, meslek hayatları süresince ciddi bir istenmeyen etki ile karşılaşmayacak olsalar bile; karşılaştıkları zaman da yapmaları gerekenler konusunda yeterli eğitim ve bilgiye sahip olmalıdırlar.
+Aşılama sonrası sıklıkla hafif, oldukça nadir olarak da yaşamı tehdit edecek kadar ciddi istenmeyen etkiler gözlenebilir. Sağlık personelinin büyük bir çoğunluğu, meslek hayatları süresince ciddi bir istenmeyen etki ile karşılaşmayacak olsalar bile; karşılaştıkları zaman da yapmaları gerekenler konusunda yeterli eğitim ve bilgiye sahip olmalıdırlar.
 
 Unutulmamalıdır ki; hemen her durumda, kişilerin aşı ile önlenebilir hastalıklara yakalanma ve bu hastalığa bağlı nedenlerle sakat kalma ya da ölme olasılığı, aşılama ile oluşabilecek istenmeyen etkilerin görülme olasılığı ile karşılaştırılamayacak kadar fazladır.
 
@@ -76,7 +76,7 @@ Bununla birlikte; aşılama sonrası gelişen istenmeyen etkiler, ebeveynleri ç
 
 Ülkemizde kullanılan aşılar dahil tüm beşeri tıbbi ürünlerin farmakovijilans faaliyetlerinden ulusal otorite olan Türkiye Ilaç ve Tıbbi Cihaz Kurumu (TITCK) esas sorumludur. Bu Daimi Genelge, GBP kapsamında uygulanan aşılar ve erişkinlere Genel Müdürlüğümüzce önerilerek takip edilen aşılar (özel aşılar dahil) sonrası gelişen istenmeyen etkilerin sürveyansını yürütmek üzere hazırlanmıştır. Ayrıca, rutin uygulamaya çeşitli nedenlerle eklenebilecek diğer aşılar sonrası gelişen istenmeyen etkilerin izlemi de bu Daimi Genelge kapsamına alınacaktır.
 
-Aşı Sonrası Istenmeyen Etki (ASIE): Aşı uygulanan bir kişide, aşı sonrası ortaya çıkan, bilinen aşı yan etkisi ya da aşıya bağlı olduğu düşünülen herhangi bir istenmeyen tıbbi
+Aşı Sonrası Istenmeyen Etki (ASİE): Aşı uygulanan bir kişide, aşı sonrası ortaya çıkan, bilinen aşı yan etkisi ya da aşıya bağlı olduğu düşünülen herhangi bir istenmeyen tıbbi
 
 ASİE izleme sisteminin temel amacı; aşılama hizmetinin kalitesini iyileştirmek ve aşılamanın kabul edilebilirliğini arttırmaktır. Bu amaca ulaşmada uygulanacak stratejiler;
 
@@ -172,7 +172,7 @@ kadınlarda 100. 000 Hib Bildirimi yoktur KPA Konvülsiyon -0-72 saat Nadir Ağ�
 
 Aşı niteliğinden kaynaklı reaksiyon, üretici tarafından sağlanan enjektör dahil olmak üzere aşı ürününün bir veya daha fazla kalite kusurunun neden olduğu veya hızlandırdığı istenmeyen etkilerdir.
 
-Uygulanan tüm aşıların güvenilir ve lisanslı olduklarından emin olunmalıdır. Bu yüzden üretim tesisleri "Iyi Uygulama Süreçleri Onay Belgesi" (GMP), dünyada daha önce kullanılmış, analiz sertifikaları tekrarlanabilir ve ulusal otorite TITCK tarafindan uygun bulunmuş aşılar ülkemizde kullanılmaktadır. Ayrıca Aşı Takip Sistemi'nde uygulanan her aşının kime ne zaman yapıldığına dair geriye dönük bilgi edinebilmek için kayıt altında tutulmaktadır. 1.c. Uygulama Hataları
+Uygulanan tüm aşıların güvenilir ve lisanslı olduklarından emin olunmalıdır. Bu yüzden üretim tesisleri "Iyi Uygulama Süreçleri Onay Belgesi" (GMP), dünyada daha önce kullanılmış, analiz sertifikaları tekrarlanabilir ve ulusal otorite TITCK tarafından uygun bulunmuş aşılar ülkemizde kullanılmaktadır. Ayrıca Aşı Takip Sistemi'nde uygulanan her aşının kime ne zaman yapıldığına dair geriye dönük bilgi edinebilmek için kayıt altında tutulmaktadır. 1.c. Uygulama Hataları
 
 Aşıların üretimi, dağıtımı ya da uygulanması sırasında yapılan hatalara bağlı olarak ortaya çıkan istenmeyen etkiler bu grupta toplanmaktadır. Bu gruptaki etkiler, gerçek yan etkilerden biraz daha sık görülmeleri ve önlenebilir olmaları açısından önem taşımaktadır.
 
@@ -212,7 +212,7 @@ DT / TT) yüzeyel uygulanması
 
 Bazen dağıtım ve uygulama hatalarına bağlı olarak ortaya çıkan belirtiler muhtemel nedeni belirlemeye yardımcı olabilir. Orneğin; kontamine (genellikle Staphylococcus aureus ile) bir aşı uygulanmış olan bebek/çocuk birkaç saat içinde hastalanabilir ve lokal hassasiyet, doku infiltrasyonu, kusma, ishal, siyanoz ve yüksek ateş görülebilir. Eğer, aşı flakonuna ulaşılabilirse, flakonun bakteriyolojik olarak test edilmesi enfeksiyon kaynağını belirler ve program uygulama hatasına bağlı ASİE olduğunu kesinleştirebilir.
 
-Saptanan ASIE vakalarının pek çoğu, dağıtım ve/veya uygulama hatası nedeniyle ortaya çıkabileceğinden ve genellikle önlenebilir olduğundan; veri analizinde ilk aşama aşının depolanması, dağıtımı, sağlık kuruluşunda saklanması, hazırlanması ve uygulanması sırasında hata olup olmadığının araştırılmasıdır.
+Saptanan ASİE vakalarının pek çoğu, dağıtım ve/veya uygulama hatası nedeniyle ortaya çıkabileceğinden ve genellikle önlenebilir olduğundan; veri analizinde ilk aşama aşının depolanması, dağıtımı, sağlık kuruluşunda saklanması, hazırlanması ve uygulanması sırasında hata olup olmadığının araştırılmasıdır.
 
 Bu nedenle: ASI'nin potansiyel nedeni olarak aşağıda sıralanan olası nedenlerin araştırılması gerekmektedir:
 
@@ -258,7 +258,7 @@ flakonları buzdolabından uzaklaştırılmalıdır.
 
 6. Aşı uygulanmasında görev alan personel eğitilmeli ve denetlenmelidir.
 
-7. ASIE'ye neden olan program hatasını bulmaya yönelik olarak dikkatli bir
+7. ASİE'ye neden olan program hatasını bulmaya yönelik olarak dikkatli bir
 
 pidemiyolojik araştırma yapılmalı ve hata düzeltilmelidir. 1.d. Aşıyla İlişkili Stres Reaksiyonu (Enjeksiyon Reaksiyonu)
 
@@ -278,7 +278,7 @@ Bu tip durumlar ile karşılaşıldığında; aile ile mutlaka görüşülmeli v
 
 3. Bilinmeyen
 
-Aşı uygulanmasından sonra ortaya çıkan, aile ya da hekim tarafından aşıya bağlı olabileceği düşünülen, aşı dışında başka bir nedenin gösterilemediği, bilinen aşı yan etkisi ya da program hatası olmayan ağır hastalanma, ölüm ya da kümelenme gösteren durumlardır. Zamansal ilişki tutarlıdır ancak aşıya neden olan olay için yeterli kesin kanıt yoktur. Aşı bağlantılı yeni olay olabileceği için bu tür bildirimlerin takip edilerek kümelenmelerinin incelenmesi gerekmektedir. Kümelenme; Görülme zamanı, aşı uygulanan birim/uygulayan kişi veya ikamet yeri açısından ortak özellikler gösteren veya aynı aşının uygulandığı kişilerde beklenenden fazla sayıda aynı ASI'nin ortaya çıkmasıdır. Bu gibi durumlar ASIE Danışma Kurulu'nda incelendikten sonra nedene göre sınıflandırılır.
+Aşı uygulanmasından sonra ortaya çıkan, aile ya da hekim tarafından aşıya bağlı olabileceği düşünülen, aşı dışında başka bir nedenin gösterilemediği, bilinen aşı yan etkisi ya da program hatası olmayan ağır hastalanma, ölüm ya da kümelenme gösteren durumlardır. Zamansal ilişki tutarlıdır ancak aşıya neden olan olay için yeterli kesin kanıt yoktur. Aşı bağlantılı yeni olay olabileceği için bu tür bildirimlerin takip edilerek kümelenmelerinin incelenmesi gerekmektedir. Kümelenme; Görülme zamanı, aşı uygulanan birim/uygulayan kişi veya ikamet yeri açısından ortak özellikler gösteren veya aynı aşının uygulandığı kişilerde beklenenden fazla sayıda aynı ASI'nin ortaya çıkmasıdır. Bu gibi durumlar ASİE Danışma Kurulu'nda incelendikten sonra nedene göre sınıflandırılır.
 
 4. Sınıflandırılamayan
 
@@ -286,31 +286,31 @@ Sınıflandırılamayan durumlar, gözden geçirenin bir nedensellik sorusu form
 
 ### 2. AȘI SONRASI İSTENMEYEN ETKİLERİN SAPTANMASI VE BİLDİRİMİ
 
-ASIE bildirimi:
+ASİE bildirimi:
 
 1. Aşılama çalışmalarında görev alan sağlık personeli,
 
 2. Sağlık kuruluşlarında çalışan sağlık personeli,
 
-3. Aileler ve toplumun diğer üyeleri tarafindan sağlık personeline ulaşarak yapılabilir. ASİE Bildirim Sistemi Şeması Ek l'de gösterilmiştir.
+3. Aileler ve toplumun diğer üyeleri tarafından sağlık personeline ulaşarak yapılabilir. ASİE Bildirim Sistemi Şeması Ek l'de gösterilmiştir.
 
-Aile veya hekim dışı sağlık personelinin ASI'den şüphelendiği durumlarda, değerlendirme hekim tarafindan yapılır. Hekim dışı personel bu tip bir vaka ile karşılaştığında; birlikte çalıştığı hekime haber verir ve vaka birlikte değerlendirilir.
+Aile veya hekim dışı sağlık personelinin ASI'den şüphelendiği durumlarda, değerlendirme hekim tarafından yapılır. Hekim dışı personel bu tip bir vaka ile karşılaştığında; birlikte çalıştığı hekime haber verir ve vaka birlikte değerlendirilir.
 
-Tüm sağlık çalışanları ASIE leri tanıyabilecek şekilde vaka tanımlarımı ve ne yapılması gerektiğini bilmelidir. Mevcut tabloya neden olan ve altta yatabilecek diğer nedenler araştırilır.
+Tüm sağlık çalışanları ASİE leri tanıyabilecek şekilde vaka tanımlarımı ve ne yapılması gerektiğini bilmelidir. Mevcut tabloya neden olan ve altta yatabilecek diğer nedenler araştırilır.
 
 Aşı yapan personel, aileler ve toplumun diğer üyelerini aşılama sonrası ne tür reaksiyonlar görülebileceği ve hangi durumlarda bir sağlık kuruluşuna başvurmaları gerektiği konularında bilgilendirir. Bu bilgiler, kişilerin huzursuzluğunu azaltacak ve daha ciddi problemlerin tanınmasına yardımcı olacaktır. 2.1. ASİE İzleme Sistemi Kapsamında Bildirilmesi Gereken İstenmeyen Etkiler
 
-ASIE Izleme Sistemi'ne dâhil olup bildirimi yapılacak olan ASI'ler Tablo 4'te gösterilmiştir. Tablo 4. Izleme sistemine dâhil olan ASIE' ler
+ASİE İzleme Sistemi'ne dâhil olup bildirimi yapılacak olan ASI'ler Tablo 4'te gösterilmiştir. Tablo 4. İzleme sistemine dâhil olan ASİE' ler
 
 1. Lokal Reaksivonlar Aşıdan sonra 48 saat içinde ortaya çıkan Ciddi Lokal Reaksiyon Aşıdan sonra 2-7 gün içinde ortaya çıkan Enjeksiyon yerinde abse (Bakteriyel/steril) Aşıdan sonra 2 hafta - 6 ay içinde ortaya çıkan Lenfadenit
 
-2. Sinir Sistemi ile Ilgili Istenmeyen Etkiler OPA'dan sonra 4-30 gün (temaslarda 4 -75 Paralitik poliomiyelit gün) içinde ortaya çıkan Kızamık bileşenli aşıları takiben 5-12 gün, DaBT-IPA-Hib, КРА aşılarını takiben 72 Konvülsiyon saat içinde ortaya çıkan Kızamık bileşenli aşıları takiben 5-15 gün içinde ortaya çıkan Ensefalopati/Ensefalit DaBT-IPA-Hib aşısını takiben 7 gün içinde Ensefalopati ortaya çıkan Tetanoz bileşenli aşılardan sonra 2-28 gün Brakial Nevrit içinde ortaya çıkan Aşıdan sonra 0-6 hafta içinde ortaya çıkan Diğer paraliziler Kabakulak bileşenli aşıları takiben 15-21 Aseptik menenjit gün içinde ortaya çıkan
+2. Sinir Sistemi ile İlgili Istenmeyen Etkiler OPA'dan sonra 4-30 gün (temaslarda 4 -75 Paralitik poliomiyelit gün) içinde ortaya çıkan Kızamık bileşenli aşıları takiben 5-12 gün, DaBT-IPA-Hib, КРА aşılarını takiben 72 Konvülsiyon saat içinde ortaya çıkan Kızamık bileşenli aşıları takiben 5-15 gün içinde ortaya çıkan Ensefalopati/Ensefalit DaBT-IPA-Hib aşısını takiben 7 gün içinde Ensefalopati ortaya çıkan Tetanoz bileşenli aşılardan sonra 2-28 gün Brakial Nevrit içinde ortaya çıkan Aşıdan sonra 0-6 hafta içinde ortaya çıkan Diğer paraliziler Kabakulak bileşenli aşıları takiben 15-21 Aseptik menenjit gün içinde ortaya çıkan
 
 3. Diğer İstenmeyen Etkiler Aşıdan sonra 1 saat içinde ortaya çıkan Anaflaksi Aşıdan sonra birkaç saat içinde ortaya çıkan Toksik Şok Sendromu Aşıdan sonra 4 saat içinde ortaya çıkan (deri Akut allerjik reaksiyonlar bulguları daha geç görülebilir) DaBT-IPA-Hib aşısından sonra 24 saat Hipotonik-hiporesponsif atak içinde ortaya çıkan Aşıdan sonra 1 hafta içinde ortaya çıkan Sepsis Kızamıkçık bileşenli aşılarlardan sonra 1-3 hafta içinde ortaya çıkan Artrit Kızamık bileşenli aşılardan sonra 1-6 hafta Trombositopeni ıçinde ortaya çıkan DaBT-IPA-Hib aşısından sonra 24 saat Apne - Bradikardi içinde ortaya çıkan BCG aşısından sonra 1 - 12 ay içinde ortaya Yaygın BCG enfeksiyonu, BCG Osteiti çıkan
 
 Yukarıda sunulan hastalıklar haricinde sağlık
 
-personeli ya da toplum tarafindan aşılamayla ilgisi
+personeli ya da toplum tarafından aşılamayla ilgisi
 
 olduğu düşünülen;
 
@@ -318,7 +318,7 @@ a) Ciddi etkiler* Zaman sınırı olmaksızın b) Kümelenme,
 
 e) Toplumda ciddi kaygı ya da olumsuz propaganda
 
-nedeni olan durumlar ASIE kapsamında *Ciddi ASİE: Ciddi advers reaksiyon, ölüme, hayati tehlikeye, hastaneye yatmaya veya hastanede yatma süresinin uzamasına, kalıcı veya önemli bir sakatlığa veya maluliyete, doğumsal anomaliye veya kusura neden olan advers reaksiyonlardır.
+nedeni olan durumlar ASİE kapsamında *Ciddi ASİE: Ciddi advers reaksiyon, ölüme, hayati tehlikeye, hastaneye yatmaya veya hastanede yatma süresinin uzamasına, kalıcı veya önemli bir sakatlığa veya maluliyete, doğumsal anomaliye veya kusura neden olan advers reaksiyonlardır.
 
 Bu kapsamdaki tüm istenmeyen etkiler Ek 2'de sunulan vaka tanımlarına uygunluğu değerlendirilerek bildirilmelidir. 2.2. ASİE İzleme Sistemi Kapsamında Bildirimi Gerekmeyen İstenmeyen Etkiler:
 
@@ -326,31 +326,31 @@ a. Hafif Istenmeyen etkiler: Sağlık personeli döküntü, hafif ateş, enjeksi
 
 b. Aşıyla İlişkili Stres Reaksiyonu (Enjeksiyon Reaksiyonu):
 
-Bu gibi durumların bildirimi yapılmayacaktır. 2.3. ASIE ile Karşılaşan Sağlık Personeli Tarafindan Yapılması Gerekenler
+Bu gibi durumların bildirimi yapılmayacaktır. 2.3. ASİE ile Karşılaşan Sağlık Personeli Tarafindan Yapılması Gerekenler
 
-Hekim, değerlendirdiği ve bildirilmesi gereken her ASIE vakası için bir ASIE Bildirim ve Inceleme Formu (Ek 3) dolduracak ve vakanın sahadaki incelemesinin yapılabilmesi için 24 saat içinde Il ASIE Izlem Sorumlusu'na haber verip formun bir kopyasını iletecektir. Mevcut vaka "Ciddi ASIE" olarak değerlendirildi ve kümelenme var ise ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan bir durum ise, acil olarak il ASİE İzlem Sorumlusu'na haber verecektir.
+Hekim, değerlendirdiği ve bildirilmesi gereken her ASİE vakası için bir ASİE Bildirim ve Inceleme Formu (Ek 3) dolduracak ve vakanın sahadaki incelemesinin yapılabilmesi için 24 saat içinde İl ASİE İzlem Sorumlusu'na haber verip formun bir kopyasını iletecektir. Mevcut vaka "Ciddi ASİE" olarak değerlendirildi ve kümelenme var ise ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan bir durum ise, acil olarak il ASİE İzlem Sorumlusu'na haber verecektir.
 
-Hekim, bu sırada hastanın tedavisine başlayacak, gerekli ise hastayı sevk edecek ve aile ile görüşecektir. Aile ile görüşmede, form için gerekli bilgileri alacak ve aileyi bilgilendirecektir (Ek 4). Aileler ve toplumla iletişim, ASIE Izlem Sisteminin önemli ve vazgeçilmez bir parçasıdır.
+Hekim, bu sırada hastanın tedavisine başlayacak, gerekli ise hastayı sevk edecek ve aile ile görüşecektir. Aile ile görüşmede, form için gerekli bilgileri alacak ve aileyi bilgilendirecektir (Ek 4). Aileler ve toplumla iletişim, ASİE İzlem Sisteminin önemli ve vazgeçilmez bir parçasıdır.
 
-Aşı uygulayan tüm sağlık kuruluşlarından ASIE vakası görülmediği durumda, aylık olarak Il Sağlık Müdürlüğü'ne yazı ile "ASİE vakası görülmemiştir" şeklinde sıfir vaka bildirimi yapılır. 2.4. İl ASİE İzlem Sorumlusu Tarafından Yapılması Gerekenler
+Aşı uygulayan tüm sağlık kuruluşlarından ASİE vakası görülmediği durumda, aylık olarak İl Sağlık Müdürlüğü'ne yazı ile "ASİE vakası görülmemiştir" şeklinde sıfir vaka bildirimi yapılır. 2.4. İl ASİE İzlem Sorumlusu Tarafından Yapılması Gerekenler
 
-Il Sağlık Müdürlüğünde Aşı/Bulaşıcı Hastalıklar Birim Sorumlusu, I1 ASIE Izlem Sorumlusudur. Ancak gerekli durumlarda başka bir hekim de görevlendirilebilir. Il ASIE Izlem Sorumlusu bu görevini yürütürken II ASIE Danışma Kurulu ile birlikte çalışır. İl ASIE Izlem Sorumlusu:
+İl Sağlık Müdürlüğünde Aşı/Bulaşıcı Hastalıklar Birim Sorumlusu, I1 ASİE İzlem Sorumlusudur. Ancak gerekli durumlarda başka bir hekim de görevlendirilebilir. İl ASİE İzlem Sorumlusu bu görevini yürütürken İl ASİE Danışma Kurulu ile birlikte çalışır. İl ASİE İzlem Sorumlusu:
 
 a. Ekibi ile birlikte sistemin uygun yürütülmesinden sorumludur.
 
-b. Hekimler tarafindan bildirilen vakaların inceleme ve bildirim formundaki eksik
+b. Hekimler tarafından bildirilen vakaların inceleme ve bildirim formundaki eksik
 
 kısımların tamamlanmasını sağlar.
 
 c. Ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlarda acil olarak Sağlık Bakanlığı HSGM ile temasa geçer ve birlikte durum değerlendirmesi yaparak duruma uygun tedbirleri alır.
 
-d. ASIE vakası bildirildiğinde vakit kaybetmeden araştırma başlatır. II ASIE Danışma Kurulu ile birlikte değerlendirmesini yapar. Vaka araştırması sonucunda, saptanan ASIE vakasının nedenini İI ASİE Danışma Kurulu ile birlikte belirler, sınıflamasını yapar ve rapor hazırlar (Ek 5,6). Vaka sınıflaması Tablo 5'e göre yapılır.
+d. ASİE vakası bildirildiğinde vakit kaybetmeden araştırma başlatır. İl ASİE Danışma Kurulu ile birlikte değerlendirmesini yapar. Vaka araştırması sonucunda, saptanan ASİE vakasının nedenini İI ASİE Danışma Kurulu ile birlikte belirler, sınıflamasını yapar ve rapor hazırlar (Ek 5,6). Vaka sınıflaması Tablo 5'e göre yapılır.
 
 Aşı yan etkisi ya da program hatasının söz konusu olduğu durumlarda; kesin/kuvvetle olası, olası ve zayıf olası (a), rastlantısal durumlarda zayıf olası (b), uyumlu değil ve ilgisiz, değerlendirilmenin yapılamadığı, yetersiz kanıtın bulunduğu durumlarda sınıflandırılamayan gruplandırılması kullanılmalıdır.
 
-II ASIE Izlem Sorumlusu, rapor (Ek 6) tamamlandığında varsa hastane dosyası, ASIE Bildirim ve Inceleme Formu (Ek 3) ile birlikte bir örnek ilde kalacak şekilde HSGM'ye
+İl ASİE İzlem Sorumlusu, rapor (Ek 6) tamamlandığında varsa hastane dosyası, ASİE Bildirim ve Inceleme Formu (Ek 3) ile birlikte bir örnek ilde kalacak şekilde HSGM'ye
 
-II ASIE Danışma Kurulu ile birlikte nedenin saptanamadığı ve vaka sınıflamasının yapılamadığı durumlarda da ASIE vakasına ait ASIE Bildirim ve Inceleme Formu ile Vaka Araştırma Raporu'nu HSGM ye gönderir. Tablo 5. Vaka Sınıflaması Vaka Sınıflaması Kesin /Kuvvetle Olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve diğer
+İl ASİE Danışma Kurulu ile birlikte nedenin saptanamadığı ve vaka sınıflamasının yapılamadığı durumlarda da ASİE vakasına ait ASİE Bildirim ve Inceleme Formu ile Vaka Araştırma Raporu'nu HSGM ye gönderir. Tablo 5. Vaka Sınıflaması Vaka Sınıflaması Kesin /Kuvvetle Olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve diğer
 
 hastalık, ilaç/madde kullanımının olmadığı durumlar. Olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve diğer
 
@@ -384,7 +384,7 @@ b. Nedenin değerlendirilebilmesi ve belirlenebilmesine yeterli
 
 e. Toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan ASİ'ler konusunda aileyi ve toplumu bilgilendirir.
 
-f. Görülen ASI'leri Vaka Inceleme Bilgi Formu'na (Ek 7) kaydeder. Vaka Inceleme Bilgi Formu ASIE saptanan ve incelenen vakaların kümülatif listesidir. Yıllık olarak tutulur. Her vaka için bir sıra olmak üzere inceleme formundaki vakaya ait bilgiler ve en son tanı işlenir. Bu bilgiler, kümelenmelerin ve daha ileri düzeyde araştırma ve izleme gerektiren durumların fark edilmesi ve izlenmesi için kullanılır. Bu form, Sağlık Müdürlüğünde muhafaza edilir. Tamamlandığı zaman Ek-8 ile birlikte aylık bildirimi yapılır.
+f. Görülen ASI'leri Vaka Inceleme Bilgi Formu'na (Ek 7) kaydeder. Vaka Inceleme Bilgi Formu ASİE saptanan ve incelenen vakaların kümülatif listesidir. Yıllık olarak tutulur. Her vaka için bir sıra olmak üzere inceleme formundaki vakaya ait bilgiler ve en son tanı işlenir. Bu bilgiler, kümelenmelerin ve daha ileri düzeyde araştırma ve izleme gerektiren durumların fark edilmesi ve izlenmesi için kullanılır. Bu form, Sağlık Müdürlüğünde muhafaza edilir. Tamamlandığı zaman Ek-8 ile birlikte aylık bildirimi yapılır.
 
 g. Vaka Inceleme Bilgi Formundan yararlanarak Vaka Özet Bilgi Bildirim Formu'nu (Ek 8) doldurur ve HSGM'ye aylık olarak gönderir. Sıfir vaka bildiriminde bu form yerine "ASİE vakası görülmemiştir." resmi yazısı gönderilir.
 
@@ -396,19 +396,19 @@ h. Sağlık personeline konu hakkında eğitim yapar. Özellikle sahada çalış
 
 • Hafif ASİ'leri tedavi edebilecek,
 
-- ASIE saptandığında duruma uygun aktiviteyi gerçekleştirecek düzeyde eğitir.
+- ASİE saptandığında duruma uygun aktiviteyi gerçekleştirecek düzeyde eğitir.
 
-i. Ekibi ile birlikte denetim yapar. Aşı uygulamalarını ve ASIE izleme sistemi aktivitelerini denetler. Sağlık kuruluşlarını ziyaret ederek hasta kayıtlarından tüm vakaların bildirilip bildirilmediğini araştırır, aşı uygulamalarını gözler ve yanlış uygulamaların olup olmadığını izler. ASİE tespit edilen bölgelerde denetim güçlendirilmelidir. j. Geri bildirim yapar. Sağlık personeline ASIE Izlem Sistemi, saptanan ASİ'ler ve vaka araştırma sonuçları hakkında geribildirimde bulunur. k. Saptanan sorunları giderir. Bilgi eksikliklerini giderir, uygulama hatalarını düzeltir ve konuya dikkat çeker. Hata belirlendi ise eğitimde bu hatanın giderilmesine öncelik
+i. Ekibi ile birlikte denetim yapar. Aşı uygulamalarını ve ASİE izleme sistemi aktivitelerini denetler. Sağlık kuruluşlarını ziyaret ederek hasta kayıtlarından tüm vakaların bildirilip bildirilmediğini araştırır, aşı uygulamalarını gözler ve yanlış uygulamaların olup olmadığını izler. ASİE tespit edilen bölgelerde denetim güçlendirilmelidir. j. Geri bildirim yapar. Sağlık personeline ASİE İzlem Sistemi, saptanan ASİ'ler ve vaka araştırma sonuçları hakkında geribildirimde bulunur. k. Saptanan sorunları giderir. Bilgi eksikliklerini giderir, uygulama hatalarını düzeltir ve konuya dikkat çeker. Hata belirlendi ise eğitimde bu hatanın giderilmesine öncelik
 
 ### 3. İL ASİE DANIŞMA KURULU
 
-Il ASIE Danışma Kurulu gerekli durumlarda Il ASİE Izlem Sorumlusu'na teknik destek sağlar. II ASIE Danışma Kurulu, öncelikle ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumların araștırılması ve değerlendirilmesini yapar. Kurul, Il ASIE Izlem Sorumlusu, çocuk sağlığı ve hastalıkları uzmanı, enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanı ve halk sağlığı uzmanından oluşur. Tıp fakültesi ve eğitim hastanesi olan illerde ilgili dal uzmanları da bu kurula dahil edilir.
+İl ASİE Danışma Kurulu gerekli durumlarda İl ASİE İzlem Sorumlusu'na teknik destek sağlar. İl ASİE Danışma Kurulu, öncelikle ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumların araștırılması ve değerlendirilmesini yapar. Kurul, İl ASİE İzlem Sorumlusu, çocuk sağlığı ve hastalıkları uzmanı, enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanı ve halk sağlığı uzmanından oluşur. Tıp fakültesi ve eğitim hastanesi olan illerde ilgili dal uzmanları da bu kurula dahil edilir.
 
 ### 4. MERKEZ EKIP TARAFINDAN YAPILACAKLAR
 
-TITCK ve HSGM Aşı ile Onlenebilir Hastalıklar Dairesi, merkezi düzeyde ASI'lerin izlenmesinden sorumludur. HSGM bünyesindeki Merkez ekip değerlendirme yaparken: a. Gönderilen ASIE vaka inceleme ve bildirim formlarımın kayıtlarını tutar. b. Sistemin işlerliğini zamanında, tam ve doğru bildirim yönünden inceler ve gerekli eğitimleri yapar. c. Araștırma raporlarını inceler. ASIE saptanması ile vaka araștırmasının başlatılması arasında geçen süreyi, alınan önlemlerin uygunluğunu denetler. d. Acil olarak bildirimi gereken durumların zamanında bildirimini denetler. e. Program hatalarının engellenmesine yönelik alınan önlemleri denetler. f. İl ASİE İzlem Sorumlusu tarafindan, değerlendirme ve sınıflamanın yapılamadığı durumlar ile ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlarda vakanın Merkez ASIE Danışma Kurulu ile birlikte sınıflandırılmasını sağlar. g. HSGM ve TITCK'nın ilgili birimleri Aralık ayında bir araya gelerek yıllık olarak değerlendirme yapar. HSGM, Merkez ASİE Danışma Kurulu'na ve Il Sağlık Müdürlüklerine yılda en az bir kez geri bildirim yapar. Bu geri bildirimde;
+TITCK ve HSGM Aşı ile Onlenebilir Hastalıklar Dairesi, merkezi düzeyde ASI'lerin izlenmesinden sorumludur. HSGM bünyesindeki Merkez ekip değerlendirme yaparken: a. Gönderilen ASİE vaka inceleme ve bildirim formlarımın kayıtlarını tutar. b. Sistemin işlerliğini zamanında, tam ve doğru bildirim yönünden inceler ve gerekli eğitimleri yapar. c. Araștırma raporlarını inceler. ASİE saptanması ile vaka araștırmasının başlatılması arasında geçen süreyi, alınan önlemlerin uygunluğunu denetler. d. Acil olarak bildirimi gereken durumların zamanında bildirimini denetler. e. Program hatalarının engellenmesine yönelik alınan önlemleri denetler. f. İl ASİE İzlem Sorumlusu tarafından, değerlendirme ve sınıflamanın yapılamadığı durumlar ile ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlarda vakanın Merkez ASİE Danışma Kurulu ile birlikte sınıflandırılmasını sağlar. g. HSGM ve TITCK'nın ilgili birimleri Aralık ayında bir araya gelerek yıllık olarak değerlendirme yapar. HSGM, Merkez ASİE Danışma Kurulu'na ve İl Sağlık Müdürlüklerine yılda en az bir kez geri bildirim yapar. Bu geri bildirimde;
 
-Yıllık saptanan ASIE sayısı
+Yıllık saptanan ASİE sayısı
 
 ASİE' lerin dağılımi,
 
@@ -418,19 +418,19 @@ ASİE' lerin dağılımi,
 
 - ASI'lerin nedenlerine göre dağılımı
 
-- Ciddi ASİ'lerin dağılımı gibi konular yer ahır. h. Gerekli durumlarda Il Sağlık Müdürlüklerine destek verir.
+- Ciddi ASİ'lerin dağılımı gibi konular yer ahır. h. Gerekli durumlarda İl Sağlık Müdürlüklerine destek verir.
 
-1. Bakanlık içindeki ilgili kuruluşlar ve uluslararası kuruluşlar ile toplum iletişimini sağlar. i. Sınıflandırma sonuçları ile birlikte ilgili farmakovijilans verilerini TITCK'ya resmi yazı ile elektronik bilgi yönetim sistemi üzerinden gönderir. Bildirim süresi ciddi ASİE vakaları, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar için on beş gündür. Diğer ASIE vakalarını ise üçer aylık periyodlarla toplu j. Dünya Sağlık Örgütü veya Bakanlıkça pandemi endemi olarak tanımlanan durumlarda Sağlık Bakanlığınca yürütülen ve aşı temininin Sağlık Bakanlığınca yapıldığı aşılama programlarında elektronik yolla toplanan ASI'lerin nedeninin sınıflamasını yapar ve değerlendirme sonuçları ile birlikte ilgili farmakovijilans verilerini TITCK'ya iletir. Bildirim süresi ciddi ASIE vakaları, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar için on beş gündür. Diğer ASIE vakalarını ise üçer aylık periyodlarla toplu olarak bildirir. k. Beklenmeyen ASIE olması durumunda, 24 saat içerisinde bu bildirimi elektronik belge yönetim sistemi üzerinden Ek-l'e uygun olarak TITCK'ya gönderir.
+1. Bakanlık içindeki ilgili kuruluşlar ve uluslararası kuruluşlar ile toplum iletişimini sağlar. i. Sınıflandırma sonuçları ile birlikte ilgili farmakovijilans verilerini TITCK'ya resmi yazı ile elektronik bilgi yönetim sistemi üzerinden gönderir. Bildirim süresi ciddi ASİE vakaları, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar için on beş gündür. Diğer ASİE vakalarını ise üçer aylık periyodlarla toplu j. Dünya Sağlık Örgütü veya Bakanlıkça pandemi endemi olarak tanımlanan durumlarda Sağlık Bakanlığınca yürütülen ve aşı temininin Sağlık Bakanlığınca yapıldığı aşılama programlarında elektronik yolla toplanan ASI'lerin nedeninin sınıflamasını yapar ve değerlendirme sonuçları ile birlikte ilgili farmakovijilans verilerini TITCK'ya iletir. Bildirim süresi ciddi ASİE vakaları, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar için on beş gündür. Diğer ASİE vakalarını ise üçer aylık periyodlarla toplu olarak bildirir. k. Beklenmeyen ASİE olması durumunda, 24 saat içerisinde bu bildirimi elektronik belge yönetim sistemi üzerinden Ek-l'e uygun olarak TITCK'ya gönderir.
 
-1. Merkez ASIE Danışma Kurulunun sekreteryasını yürütür.
+1. Merkez ASİE Danışma Kurulunun sekreteryasını yürütür.
 
-### 5. MERKEZ ASIE DANIŞMA KURULU
+### 5. MERKEZ ASİE DANIŞMA KURULU
 
-Merkez ASIE Danışma Kurulu, değerlendirme ve sınıflamanın yapılamadığı durumlar ile ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan ASI'leri inceleyerek nedenlerinin saptanmasi ve nihai kararın verilerek vaka sınıflandırmasının yapılması amacıyla konunun uzmanlarından kurulmuş bir danışma
+Merkez ASİE Danışma Kurulu, değerlendirme ve sınıflamanın yapılamadığı durumlar ile ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan ASI'leri inceleyerek nedenlerinin saptanmasi ve nihai kararın verilerek vaka sınıflandırmasının yapılması amacıyla konunun uzmanlarından kurulmuş bir danışma
 
 Merkez ASİE Danışma Kurulu; çocuk sağlığı ve hastalıkları uzmanları, pidemiyolog/ halk sağlığı uzmanları, erişkin ve çocuk enfeksiyon hastalıkları uzmanları, immünologlar, virologlar, mikrobiyoloji uzmanları, çocuk ve erişkin nöroloji uzmanları, sosyal pediatri uzmanlari, alerji uzmanlari, patoloji uzmanlari, TITCK dan sorumlu personel ve HSGM'den sorumlu personelden oluşur.
 
-Merkez ASIE Danışma Kurulu yılda en az iki kez ve toplanmalarını gerektirecek acil durumlarda ise bildirime müteakip 30 gün içerisinde toplanır. Il ASİE Danışma Kurulları'na ek olarak sınıflandırma yapılması gerekmeyen, vaka olmadığı durumlarda geri bildirim sunmak üzere yılda en az bir kez toplanır. Vaka inceleme formları, araştırma raporları, hastane kayıtları (hasta dosyası), epikriz, mevcut laboratuvar verilerini değerlendirerek son sınıflamayı yapar. Kurulun gerekli gördüğü durumlarda ilden ileri araştırma ve yardımcı testlerin yapılması istenebilir.
+Merkez ASİE Danışma Kurulu yılda en az iki kez ve toplanmalarını gerektirecek acil durumlarda ise bildirime müteakip 30 gün içerisinde toplanır. İl ASİE Danışma Kurulları'na ek olarak sınıflandırma yapılması gerekmeyen, vaka olmadığı durumlarda geri bildirim sunmak üzere yılda en az bir kez toplanır. Vaka inceleme formları, araştırma raporları, hastane kayıtları (hasta dosyası), epikriz, mevcut laboratuvar verilerini değerlendirerek son sınıflamayı yapar. Kurulun gerekli gördüğü durumlarda ilden ileri araştırma ve yardımcı testlerin yapılması istenebilir.
 
 ### 6. BAKANLIK SEVIYESİ BİLDİRİMLERİ
 
@@ -438,18 +438,18 @@ Sınıflandırılmış ASI'lerin 28.09.2022 tarihli ve 2022/2 sayılı Genelge'd
 
 VII- Sinyal Yönetimi güncel hali doğrultusunda gerekli düzenleyici tedbirleri alır.
 
-Acilen müdahale edilmesi gereken durumlarda seri durdurma, ürünün yeniden analiz edilmesi, seri toplatma, imha gibi müdahaleler gerektiğinde HSGM işlemle ilgili TITCK'ya en geç 24 saat içerisinde bildirimde bulunur. Gerekli müdahalelerin takibi HSGM tarafindan yapılır, yüklenici firmaya konuyla ilgili ek-l'e uygun bilgilendirme yapılır.
+Acilen müdahale edilmesi gereken durumlarda seri durdurma, ürünün yeniden analiz edilmesi, seri toplatma, imha gibi müdahaleler gerektiğinde HSGM işlemle ilgili TITCK'ya en geç 24 saat içerisinde bildirimde bulunur. Gerekli müdahalelerin takibi HSGM tarafından yapılır, yüklenici firmaya konuyla ilgili ek-l'e uygun bilgilendirme yapılır.
 
-1. ASIE Bildirim Sistemi Şeması
+1. ASİE Bildirim Sistemi Şeması
 
 2. Vaka Tanımları
 
-3. ASIE Bildirim ve Inceleme Formu
+3. ASİE Bildirim ve Inceleme Formu
 
-4. Sağlık Personelinin ASIE Ile Karşılaştığında Yapması Gerekenler
+4. Sağlık Personelinin ASİE Ile Karşılaştığında Yapması Gerekenler
 
 5. Vaka Araştırması
 
-7. ASIE Vaka Inceleme Bilgi Formu
+7. ASİE Vaka Inceleme Bilgi Formu
 
 8. ASİE Vaka Özet Bilgi Bildirim Formu

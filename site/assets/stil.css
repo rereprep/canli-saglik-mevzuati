@@ -47,6 +47,10 @@ table.kunye td{padding:7px 12px;border:1px solid var(--cizgi);word-break:break-w
 .metin small{color:#4b5560;font-size:.82rem}
 .metin mark{background:#ffe58a}
 .bilgi{background:var(--vurgu);padding:14px;border-radius:8px}
+.tablo-kap{overflow-x:auto;margin:8px 0 14px}
+table.metin-tablo{border-collapse:collapse;font-size:.92rem;text-align:left;font-family:"Segoe UI",system-ui,Arial,sans-serif}
+table.metin-tablo td{border:1px solid var(--cizgi);padding:5px 8px;vertical-align:top}
+table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 .detayli .secenek{flex-wrap:wrap;gap:18px;align-items:center;font-size:.93rem}
 .detayli .secenek input[type=number]{width:96px;padding:5px}
 .turler{border:1px solid var(--cizgi);border-radius:8px;margin-top:12px;display:flex;flex-wrap:wrap;gap:10px 22px;font-size:.92rem}
@@ -60,6 +64,6 @@ table.kunye td{padding:7px 12px;border:1px solid var(--cizgi);word-break:break-w
 .alt .ithaf{color:#fff}
 .ithaf-buyuk{font-size:1.1rem;border-left:4px solid var(--kirmizi);padding:10px 16px;background:var(--vurgu);border-radius:6px}
 .kucuk{font-size:.85rem;color:var(--soluk)}
-@media (max-width:700px){.menu a{margin:0 14px 0 0}.ana-ara{flex-direction:column}table.liste th:nth-child(n+3),table.liste td:nth-child(n+3){display:none}}
+@media (max-width:700px){.menu a{margin:0 14px 0 0}.ana-ara{flex-direction:column}table.liste th:nth-child(n+3),table.liste td:nth-child(n+3){display:none}table.kunye th{width:38%}table.kunye td,table.kunye th{padding:6px 8px;word-break:normal;overflow-wrap:anywhere}}
 @media print{.ust,.alt,.indir,.metin-ara,.yol,.etiketler{display:none}main{box-shadow:none}}
 

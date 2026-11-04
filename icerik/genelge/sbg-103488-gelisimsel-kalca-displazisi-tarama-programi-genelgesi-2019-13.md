@@ -4,15 +4,22 @@ baslik: "Gelişimsel Kalça Displazisi Tarama Programı Genelgesi (2019/13)"
 tur: "genelge"
 sayi: "2019/13"
 birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Yenidoğan ve bebeklerde gelişimsel kalça displazisi tarama programının uygulanması, klinik muayene, ultrasonografi ve sevk süreçlerini düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103488/gelisimsel-kalca-displazisi-tarama-programi-genelgesi-201913.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.53. Gelişimsel Kalça Displazisi Tarama Programı Genelgesi (2019/13)
+### T.C. SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
 
-(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404) (cid:277)(cid:277)(cid:277)(cid:277)(cid:277)(cid:277)(cid:277)(cid:277)(cid:277) (cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) ( / )
+### GENELGE
+2019/13
+
+VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
 ### T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğu
 
@@ -20,7 +27,7 @@ Sayı : 67414668- Konu : Gelişimsel Kalça Displazisi TSE ISO EM
 
 Tarama Programi 9000 CERTIFICATE
 
-6) Il sağhık müdürlükleri;
+6) İl sağhık müdürlükleri;
 
 a) Aile hekimlerinin eğitim ihtiyaçlarını belirleyecek ve eğitimlerini düzenleyecektir.
 
@@ -36,10 +43,11 @@ GKD Tarama Programının tüm sağlık kuruluşlarında yukarıda belirtilen şe
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Emine ALP MESE
+Prof. Dr. Emine ALP MEŞE
 
 Bakan a.
 
-Bakan/Yardımcısı
+Bakan Yardımcısı
 
-### DAGITIM: A PLANI
+### DAĞITIM:
+A Planı

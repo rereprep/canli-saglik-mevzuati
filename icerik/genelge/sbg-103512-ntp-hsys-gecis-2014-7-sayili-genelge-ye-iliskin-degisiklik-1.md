@@ -1,15 +1,27 @@
 ---
 id: "sbg-103512-ntp-hsys-gecis-2014-7-sayili-genelge-ye-iliskin-degisiklik-1"
-baslik: "NTP HSYS Geçiş (2014/7 sayılı Genelge’ye ilişkin Değişiklik-1)"
+baslik: "NTP HSYS Geçiş (2014/7 sayılı Genelge'ye ilişkin Değişiklik-1)"
 tur: "genelge"
+sayi: "2014/7 Değişiklik-1"
 birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Ulusal Yenidoğan Tarama Programı veri girişlerinin Halk Sağlığı Yönetim Sistemi (HSYS) üzerinden yapılmasına ilişkin değişiklikleri düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103512/ntp-hsys-gecis-20147-sayili-genelgeye-iliskin-degisiklik-1.html"
+kaynak_url: "https://www.saglik.gov.tr/TR-103512/ntp-hsys-gecis-2014-7-sayili-genelge-ye-iliskin-degisiklik-1.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-NTP HSYS Geçiş (2014/7 sayılı Genelge’ye ilişkin Değişiklik-1) Yeni geliştirilen NTP web uygulamasında numune türlerinin isimleri değiştirilmiş olup, bundan sonraki süreçte 48 Saatlik Numune = Ilk Numune (0-2 Gün), Mükerrer Numune = Ikinci Numune ve Yeni Numune = Ilk Numune (3+Gün) şeklinde kullanılacaktır.
+### T.C. SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
+
+Sayı : E-67414668-234.01.02
+Konu : NTP HSYS Geçiş (2014/7 sayılı Genelge'ye ilişkin Değişiklik-1)
+
+### GENELGE
+
+VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
 - 11.04.2022 tarihi itibariyle gönderim onayı alındıktan sonra kaydedılen bilgilerin düzeltilmesi/değiştirilmesi ihtiyacının doğması halınde bu işlemler için tüm talepler Yazılım Destek Sistemi (https://yazilimdestek.saglik.gov.tr) üzerinden yapılacaktır. Mevcut NTP uygulamasından ya da e-posta ile yapılan talepler işleme alımayacaktır. Tüm talepler için ek 2'de yer alan tutanağın doldurularak sisteme yüklenmesi gerekmektedir. Belirtilen belgenin olmaması durumunda talep işleme alınmayacaktır.
 

@@ -1,16 +1,16 @@
 ---
 id: "sbg-103463-birinci-basamak-saglik-kuruluslarina-basvuran-tuberkuloz-supheli-birey"
-baslik: "Birinci Basamak Sağlık Kuruluşlarına Başvuran Tüberküloz Şüpheli Bireylerden Balgam Toplanması Genelgesi"
+baslik: "Birinci Basamak Sağlık Kuruluşlarına Başvuran Tüberküloz Şüpheli Bireylerden Balgam Toplanması Genelgesi (2009/52)"
 tur: "genelge"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+sayi: "2009/52"
+birim: "Verem Savaşı Dairesi Başkanlığı"
+konu: "Birinci basamak sağlık kuruluşlarına başvuran tüberküloz şüphelilerinden balgam numunelerinin toplanması ve nakil usullerini düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103463/birinci-basamak-saglik-kuruluslarina-basvuran-tuberkuloz-supheli-bireylerden-balgam-toplanmasi-genelgesi-200952.html"
-not: "Başlık kaynak listede kısaltılmış."
+kaynak_url: "https://www.saglik.gov.tr/TR-103463/birinci-basamak-saglik-kuruluslarina-basvuran-tuberkuloz-supheli-birey.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
-
-6.3.39. Birinci Basamak Sağlık Kuruluşlarına Başvuran Tüberküloz Şüpheli Bireylerden Balgam Toplanması Genelgesi (2009/52)
 
 ### T.C. SAĞLIK BAKANLIĞI Verem Savaşı Dairesi Başkanlığı
 
@@ -48,7 +48,7 @@ T.C.
 
 Verem Savaşı Dairesi Başkanlığı
 
-Birinci basamak sağlık kuruluşlarına başvurmuş tüberküloz şüpheli kişilerden balgam örneklerinin Verem Savașı Dispanseri laboratuvarına ulaştırılması ile ilgili usul ve esasları belirleyen bu genelgenin yürütülmesi ve il içi koordinasyonun sağlanmasından Il Sağlık Müdürlükleri birinci derecede sorumludurlar.
+Birinci basamak sağlık kuruluşlarına başvurmuş tüberküloz şüpheli kişilerden balgam örneklerinin Verem Savașı Dispanseri laboratuvarına ulaştırılması ile ilgili usul ve esasları belirleyen bu genelgenin yürütülmesi ve il içi koordinasyonun sağlanmasından İl Sağlık Müdürlükleri birinci derecede sorumludurlar.
 
 Gereğinin yapılmasını rica ederim.
 
@@ -70,15 +70,15 @@ Müsteşar
 
 6. Biyogüvenlik Ilkeleri (2 sayta)
 
-7. Balgam Orneğinin Nakli Ile Ilgili Malzemeler ve Dikkat Edilmesi Gereken Ilkeler (2 sayfa)
+7. Balgam Orneğinin Nakli Ile İlgili Malzemeler ve Dikkat Edilmesi Gereken İlkeler (2 sayfa)
 
-8. Lojistik Işleyişle Ilgili Faaliyetler (1 sayfa)
+8. Lojistik Işleyişle İlgili Faaliyetler (1 sayfa)
 
 9. Numune Nakil Kayıt Defteri (1 sayfa)
 
 ### DAĞITIM:
 
-Gereği: 81 Il Valiliğine
+Gereği: 81 İl Valiliğine
 
 ---
 

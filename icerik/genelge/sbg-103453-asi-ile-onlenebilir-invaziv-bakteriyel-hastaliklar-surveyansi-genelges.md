@@ -3,16 +3,21 @@ id: "sbg-103453-asi-ile-onlenebilir-invaziv-bakteriyel-hastaliklar-surveyansi-ge
 baslik: "Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansı Genelgesi (2016/23)"
 tur: "genelge"
 sayi: "2016/23"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Türkiye Halk Sağlığı Kurumu"
+konu: "Aşı ile önlenebilir invaziv bakteriyel hastalıkların sürveyansı, vaka tanımları ve bildirim süreçlerini düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103453/asi-ile-onlenebilir-invaziv-bakteriyel-hastaliklar-surveyansi-genelgesi-201623.html"
+kaynak_url: "https://www.saglik.gov.tr/TR-103453/asi-ile-onlenebilir-invaziv-bakteriyel-hastaliklar-surveyansi-genelges.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.19. Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansı Genelgesi (2016/23)
+### T.C. SAĞLIK BAKANLIĞI
+Türkiye Halk Sağlığı Kurumu
+Aşı ile Önlenebilir Hastalıklar Daire Başkanlığı
 
-(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404) (cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455) (cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) ( / )
+### GENELGE
+2016/23
 
 ### T.C. SAGLIK BAKANLIGI
 
@@ -64,9 +69,9 @@ Say: : 21001706 Konu : Aşılle Onlenebilir Invaziv Bakteriyel
 
 Hastaliklar Süreyansı Genelgesi
 
-3) Ulusal sürveyans kapsamında kesin invaziv meningokokal. invaziv prömokokal hastalıklar ile invaziv F.infienzo hastalklarnda saptanan izolatlar Halk Sağlığı Müdürlükleri(HSM) tarafindan kargo veya kurye ile THSK Mikrobiyoloji Referans Labotauvarları Daire Başkanlığına (MRLDB1 gönderilecektir.
+3) Ulusal sürveyans kapsamında kesin invaziv meningokokal. invaziv prömokokal hastalıklar ile invaziv F.infienzo hastalklarnda saptanan izolatlar Halk Sağlığı Müdürlükleri(HSM) tarafından kargo veya kurye ile THSK Mikrobiyoloji Referans Labotauvarları Daire Başkanlığına (MRLDB1 gönderilecektir.
 
-4) Toplum temelli aktif süneyans kapsamunda olası bakteriyel menenjit. olası meningokokal menenjit, olası meningokokal sepsis hastalıklarından ahınan klinik örneklere yönelik laboratuvar çalışması yapılanuyor ise örnekler. HSM tarafindan THSK tarafindan yetkilendirilmiş Halk Sağlığı Laboratuvarna gönderilecektir. Yataklı tedavi kurumları ile halk sağlığı laboratuvarlarında elde edilen izolatlar ve moleküler tabanhı yöntemlerde üçlü patojen araştırmasında pozitif tespit edilen klinik örnekler HSM taratindan THSK MRLDB'ye gönderilecektir.
+4) Toplum temelli aktif süneyans kapsamunda olası bakteriyel menenjit. olası meningokokal menenjit, olası meningokokal sepsis hastalıklarından ahınan klinik örneklere yönelik laboratuvar çalışması yapılanuyor ise örnekler. HSM tarafından THSK tarafından yetkilendirilmiş Halk Sağlığı Laboratuvarna gönderilecektir. Yataklı tedavi kurumları ile halk sağlığı laboratuvarlarında elde edilen izolatlar ve moleküler tabanhı yöntemlerde üçlü patojen araştırmasında pozitif tespit edilen klinik örnekler HSM taratindan THSK MRLDB'ye gönderilecektir.
 
 5) Aşı ile Önlenebilir Invaziv Bakteriyel Hastalıklann Sürveyansı kapsamında yürütülecek çahşmalarda kullam/mak üzere hazırlanan Rehber Genelgemiz ekinde yer
 
@@ -78,4 +83,4 @@ Bakan a.
 
 Musteşar Ek: Ayı ile Onlenebilir Invaziv Bakteriyel
 
-ustalıkların Sürveyansı Rehheri (...sayfa) Dağitım 81 II Valiligine (Halk Sağlığı Müdürlügu)
+ustalıkların Sürveyansı Rehheri (...sayfa) Dağitım 81 İl Valiliğine (Halk Sağlığı Müdürlügu)

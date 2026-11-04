@@ -2,17 +2,18 @@
 id: "sbg-103502-kizamik-kizamikcik-ve-konjenital-kizamikcik-sendromu-kks-genelgesi-201"
 baslik: "Kızamık/Kızamıkcık ve Konjenital Kızamıkçık Sendromu (KKS) Genelgesi (2010/20)"
 tur: "genelge"
+tarih: "2010-04-01"
 sayi: "2010/20"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "Kızamık ve kızamıkçığın eliminasyonu ile konjenital kızamıkçık sendromunun önlenmesi programı ve vaka bazlı sürveyans rehberini düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103502/kizamikkizamikcik-ve-konjenital-kizamikcik-sendromu-kks-genelgesi-201020.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.14. Kızamık/Kızamıkcık ve Konjenital Kızamıkçık Sendromu (KKS) Genelgesi (2010/20)
 
-(cid:894)(cid:894)(cid:894)(cid:894)(cid:894)(cid:894)(cid:894)(cid:894)(cid:894) (cid:895)(cid:895)(cid:895)(cid:895)(cid:895)(cid:895)(cid:895)(cid:895)(cid:895) g ( 0/
 
 ### T.C. SAĞLIK BAKANLIĞI TSE-ISO-EN K-O
 
@@ -66,7 +67,7 @@ c. Tüm kızamıkçığa duyarlı çocuklar, adolesanlar ve doğurganlık çağ�
 
 destek aşılama çalışmaları düzenleyerek kızamıkçık aşılaması için fırsat sunulması,
 
-d. Klinik vakaların laboratuvar tarafindan doğrulanmasını ve uygun vaka araştırmasını
+d. Klinik vakaların laboratuvar tarafından doğrulanmasını ve uygun vaka araştırmasını
 
 içerecek şekilde sürveyans sisteminin güçlendirilmesi,
 
@@ -116,7 +117,7 @@ Türkiye'de Kızamık ve Kızamıkçığın Eliminasyonu ve Konjenital Kızamık
 
 4. Sosyal Mobilizasyon
 
-• Kızamık ve kızamıkçık aşılaması kapsamındaki aşılamanın toplumsal yararları, aşı sonrası istenmeyen etkiler ve bağışıklama güvenliği konularında halk ve sağlık personeli tarafindan nitelikli bilgiye ulaşılabilirliğin arttırılmasıdır.
+• Kızamık ve kızamıkçık aşılaması kapsamındaki aşılamanın toplumsal yararları, aşı sonrası istenmeyen etkiler ve bağışıklama güvenliği konularında halk ve sağlık personeli tarafından nitelikli bilgiye ulaşılabilirliğin arttırılmasıdır.
 
 ### 1. SÜRVEYANS
 
@@ -126,7 +127,7 @@ Türkiye'de Kızamık ve Kızamıkçığın Eliminasyonu ve Konjenital Kızamık
 
 Kızamık, kızamıkçık ve KKS sürveyansı da benzer şekilde, eliminasyon hedefine ulaşılabilmesi için kızamık ve kızamıkçık eliminasyon programının değerlendirilmesi ve düzenli olarak kızamık, kızamıkçık ve KKS vakalarına ilişkin veri toplanması, analizi, yorumlanması ve ilgili taraflara geri bildirimde bulunulmasıdır.
 
-Kızamık ve kızamıkçık kontrolünün düzeyi arttıkça ve eliminasyona yaklaşıldıkça, her olası vakanın araştırılması ve laboratuvar tarafindan doğrulanması (konfirmasyonu) önem kazanmaktadır. Bu uygulamalar, ülke çapında olmalı, duyarlı olmalı (tüm vakalara ulaşılabilmeli), özgül olmalı (gerçek vakaları seçebilmeli) ve vaka tabanlı olarak yürütülmelidir; hem vakaların birbiriyle ilişkili olup olmadığı göz önüne alınmalı hem de bulaşın sürekli olup olmadığı saptanabilmelidir.
+Kızamık ve kızamıkçık kontrolünün düzeyi arttıkça ve eliminasyona yaklaşıldıkça, her olası vakanın araştırılması ve laboratuvar tarafından doğrulanması (konfirmasyonu) önem kazanmaktadır. Bu uygulamalar, ülke çapında olmalı, duyarlı olmalı (tüm vakalara ulaşılabilmeli), özgül olmalı (gerçek vakaları seçebilmeli) ve vaka tabanlı olarak yürütülmelidir; hem vakaların birbiriyle ilişkili olup olmadığı göz önüne alınmalı hem de bulaşın sürekli olup olmadığı saptanabilmelidir.
 
 Kızamık ve kızamıkçık vakaları gerek çocuklar gerekse erişkinler arasında görülebildiğinden ve yılın herhangi bir zamanında importasyon söz konusu olabileceğinden; bu hastalıkların sürveyansı, ulusal düzeyde tüm yıl boyunca sürdürülmelidir. Eliminasyon aşamasında, kızamık, kızamıkçık ve KKS sürveyansı stratejileri şunlardır:
 
@@ -228,7 +229,7 @@ Nezle belirtileri
 
 Bildirilen kızamık vakalarının yaklaşık %30'unda bir ya da daha fazla komplikasyon gelişmektedir. Bir yaş altı çocuklarda ve erişkinlerde ciddi komplikasyon riski daha yüksektir. Gelişmekte olan ülkelerde görülen komplikasyonlar şunlardır: Pnömoni (%1-6), diyare (%6), otitis media (%7-9), körlük ve post enfeksiyöz ensefalit (1000 vakada 1), ölüm (%3-6).
 
-Daha az rastlanan (100.000 vakada 1) ancak çok ciddi bir diğer komplikasyon ise subakut sklerozan panensefalit (SSPE)'dir. SSPE, santral sinir sisteminin kalıcı kızamık virus enfeksiyonu nedeni ile oluşan ilerleyici kronik ensefalittir. Genellikle, enfeksiyondan 7-10 yıl sonra görülmektedir. SSPE hastalarında moleküler tanı yöntemleri ile yapılan incelemelerde de vahşi kızamık virüsü suşları gösterilmiştir. SSPE isidansının kızamık enfeksiyonunun yaşamın erken dönemlerinde geçirilmesiyle yükseldiği bilinmektedir. Aşılanma oranı yüksek olan ülkelerde, tüm nüfusta SSPE insidansı milyonda 1, kızamık hastalığının endemik olduğu aşılanma oranı düşük olan ülkelerde ise milyonda 20-100 olarak bildirilmektedir. DSO Aşı Güvenliği Küresel Danışma Komitesi (GACVS) tarafindan SSPE hastalığına kızamık aşısının neden olmadığı açıklanmıştır. 2.2. Kızamık Hastalığının Tanısı
+Daha az rastlanan (100.000 vakada 1) ancak çok ciddi bir diğer komplikasyon ise subakut sklerozan panensefalit (SSPE)'dir. SSPE, santral sinir sisteminin kalıcı kızamık virus enfeksiyonu nedeni ile oluşan ilerleyici kronik ensefalittir. Genellikle, enfeksiyondan 7-10 yıl sonra görülmektedir. SSPE hastalarında moleküler tanı yöntemleri ile yapılan incelemelerde de vahşi kızamık virüsü suşları gösterilmiştir. SSPE isidansının kızamık enfeksiyonunun yaşamın erken dönemlerinde geçirilmesiyle yükseldiği bilinmektedir. Aşılanma oranı yüksek olan ülkelerde, tüm nüfusta SSPE insidansı milyonda 1, kızamık hastalığının endemik olduğu aşılanma oranı düşük olan ülkelerde ise milyonda 20-100 olarak bildirilmektedir. DSO Aşı Güvenliği Küresel Danışma Komitesi (GACVS) tarafından SSPE hastalığına kızamık aşısının neden olmadığı açıklanmıştır. 2.2. Kızamık Hastalığının Tanısı
 
 Kızamık isidansının düşük olduğu ülkelerde, kızamığın klinik tanısının pozitif tahmin değeri de düşük olduğundan; tek başına klinik belirtiler kızamık tanısı için güvenilir değildir. Kızamık benzeri döküntüyle seyreden birtakım hastalıkları kızamıktan ayırt edebilmek için mutlaka laboratuvar değerlendirmesi gerekmektedir.
 
@@ -258,7 +259,7 @@ Enfeksiyon Döküntünün başlaması
 
 Kızamık virüsü klinik örneklerden (nazofarengeal sürüntü, idrar, periferik kandaki mononükleer hücreler) döküntülerin başlamasından itibaren ilk 5 güne kadar izole edilebilir, PCR ile de 7 güne kadar (ve bazen sonrasında da) saptanabilir.
 
-ELISA ile spesifik IgM antikoru saptanması DSO tarafindan rutin kızamık sürveyansı için önerilen standart testtir. IgM antikor testine ek olarak 2-4 hafta ara ile alınan örneklerde IgG antikor titresinde en az dört katı artış, immunofloresan ile antijenin gösterilmesi, kızamık virus RNA'sının revers transkripsiyon (RT) PCR ile gösterilmesi, kızamık virus izolasyonu gibi diğer tanı yöntemleri ile de kızamık tanısı konulabilmektedir.
+ELISA ile spesifik IgM antikoru saptanması DSO tarafından rutin kızamık sürveyansı için önerilen standart testtir. IgM antikor testine ek olarak 2-4 hafta ara ile alınan örneklerde IgG antikor titresinde en az dört katı artış, immunofloresan ile antijenin gösterilmesi, kızamık virus RNA'sının revers transkripsiyon (RT) PCR ile gösterilmesi, kızamık virus izolasyonu gibi diğer tanı yöntemleri ile de kızamık tanısı konulabilmektedir.
 
 Yeni aşılanmış bir kişide, spesifik IgM antikorunun pozitif saptanmış olması, klinik belirtilere ve bölgesel hastalık pidemiyolojisiyle (aşılama yüzdesi, aşılı ve aşısız nüfusta klinik belirtilerin olup olmaması, nüfus hareketleri vb) karşılaştırılarak yorumlanmalıdır; çünkü kızamık aşısı sonrası da %2 oranında hafif döküntü ve %5 oranında hafif ateş görülebilmektedir.
 
@@ -268,7 +269,7 @@ Yeni aşılanmış bir kişide, spesifik IgM antikorunun pozitif saptanmış olm
 
 3.1. Kızamıkçık Hastalığının Patogenezi ve Kliniği
 
-Kızamıkçık, Togavirus ailesinden bir RNA virüsü olan kızamıkçık virüsünün neden olduğu akut makülopapüler döküntüyle seyreden bir hastalıktır; ancak kızamıkçık virüsüyle oluşan bu enfeksiyon sıklıkla kayda değer herhangi bir belirti ya da semptom olmadan seyreder. Insan bilinen tek konakçı olduğundan hastalığın eliminasyonu mümkündür.
+Kızamıkçık, Togavirus ailesinden bir RNA virüsü olan kızamıkçık virüsünün neden olduğu akut makülopapüler döküntüyle seyreden bir hastalıktır; ancak kızamıkçık virüsüyle oluşan bu enfeksiyon sıklıkla kayda değer herhangi bir belirti ya da semptom olmadan seyreder. İnsan bilinen tek konakçı olduğundan hastalığın eliminasyonu mümkündür.
 
 Kızamıkçık enfeksiyonunun pidemiyolojisi kızamıkla benzerdir; düzenli salgın dönemlerini düşük insidanslı dönemlerin izlediği mevsimsel bir seyir göstermektedir. Ihman iklimlerde, düzenli mevsimsel (bahar) piklerle seyreder; 3-4 yılda bir küçük, 6-9 yılda bir ise büyük salgınlar eşlik eder. Tropikal bölgelerde meydana gelen salgınlar çocuklar arasında klinik belirtilerin hafif olması ya da gözle görülür olmaması nedeniyle genellikle gözden kaçmaktadır.
 
@@ -324,7 +325,7 @@ Bazı enfeksiyonlar belirtileri ve bulguları yönünden kızamıkçıkla benzer
 
 Enfeksiyonu takiben, döküntünün başlamasından birkaç gün öncesinden başlayarak en az 7 gün sonrasına kadar, virüs nazofarengeal sekresyonlardan izole edilebilir. RT-PCR ile viral RNA'nın saptanması yöntemi ile bu süre 3-4 gün daha uzayabilir. Ancak örnek almak için en uygun zaman belirtilerin başlamasını takiben ilk 4 gündür. Aşılanmış kişilerde de, belli düzeylerde virüsün saptanması mümkündür.
 
-DSO tarafindan önerilen standart test ELISA ile IgM antikoru saptanmasıdır.
+DSO tarafından önerilen standart test ELISA ile IgM antikoru saptanmasıdır.
 
 IgM antikorlarıyla çapraz reaksiyona girebilen antikorlar (örn; Ebstein Barr Virüsü, Parvovirüs B19 vb), romatoid faktör ya da otoantikorlar da yalancı pozitif IgM testi sonucuna neden olabilmektedir. Kızamıkçık isidansının milyonda l'in (eliminasyon için sınır değer) altında olduğu ülkelerde, bilinen bir maruziyetin (vakayla temas, endemik bölgelere seyahat vb) olmadığı bir kişide, kızamıkçık IgM'in pozitif çıkması durumunda, kızamıkçık enfeksiyonunu yalancı pozitif sonuçtan ayırt etmek için sonucun diğer laboratuvar yöntemleriyle değerlendirilmesi gerekmektedir. Şekil 4. Akut Kızamıkçık Enfeksiyonunda Bağışıklık Yanıtı Oluşma Süreci.
 
@@ -344,7 +345,7 @@ Enfeksiyon Döküntünün başlaması Gebelikte Kızamıkçık Enfeksiyonu
 
 Sürveyans amacıyla, yalnız IgM testi yeterli olmakla birlikte; klinik vaka yönetimi için mutlaka IgG antikorunda belirgin artışın gösterilmesi gereklidir. Hastalık belirtilerinin ya da bilinen bir kızamıkçık benzeri bir enfeksiyonla temas öyküsünün bulunmadığı durumlarda, IgM pozitifliğinin pozitif tahmini değeri düşük olduğundan dikkatle değerlendirilmesi gerekir. Bu durumda, avidite testi, kızamıkçık immünoblot, virüs tespiti ya da izolasyonu gibi ek yöntemlere
 
-Kızamıkçık enfeksiyonun maruziyeti bilinen gebe kadınlar, kızamıkçığa özgü IgG antikoru açısından değerlendirilmeli, IgG'nin negatif bulunması durumunda, gebeliğin devamı konusunda IgM ve IgG serokonversiyon durumları izlenmelidir. Kızamıkçıkla uyumlu döküntüsü ve IgM pozitifliği olan gebeler ek laboratuvar yöntemleri kullanılarak bir uzman tarafindan değerlendirilmelidir. doğrulanmış kızamıkçık vakası olarak bildirilmelidir.
+Kızamıkçık enfeksiyonun maruziyeti bilinen gebe kadınlar, kızamıkçığa özgü IgG antikoru açısından değerlendirilmeli, IgG'nin negatif bulunması durumunda, gebeliğin devamı konusunda IgM ve IgG serokonversiyon durumları izlenmelidir. Kızamıkçıkla uyumlu döküntüsü ve IgM pozitifliği olan gebeler ek laboratuvar yöntemleri kullanılarak bir uzman tarafından değerlendirilmelidir. doğrulanmış kızamıkçık vakası olarak bildirilmelidir.
 
 Tablo 3. Kızamık ve Kızamıkçık Hastalıklarında Ayırıcı Tanı*.
 
@@ -454,7 +455,7 @@ Vaka inceleme formlan tamamlanr tamamlanmaz
 
 ### rar ve nazofarengea! Omeklert formlanyla (haftada tki kez) gönder sarintü de al ve gönder Vaka Cetveli oluştur (ayda 2 kez) gönder
 
-Vaka Bildirim ve Lab Istek ve Sonuç Formun Il Sağlık Müdürlügü:* „ Aktif sürveyans bildirim ve Vaka Inceleme Formunu doldur. Vaka Inceleme Formu (son smufiama Serum al ve gönder Il Vaka Cetvelı oluştur ve ayda 2 kez
+Vaka Bildirim ve Lab Istek ve Sonuç Formun İl Sağlık Müdürlügü:* „ Aktif sürveyans bildirim ve Vaka Inceleme Formunu doldur. Vaka Inceleme Formu (son smufiama Serum al ve gönder İl Vaka Cetvelı oluştur ve ayda 2 kez
 
 gönder
 
@@ -486,9 +487,9 @@ Izolasyon için omek iste ve gonder Sağlık Bakanlığı
 
 2. TSM/Sağlık Grup Başkanlığını bilgilendiriniz': Sağlık ocaklars/aile hekimlikleri TSM/ Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapar. Hastaneler ise ya doğrudan, ya da varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim
 
-3. Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formunu (Ek 1) doldurunuz: Bu form sürveyans verisinin temelini oluşturmaktadır. Hastayla ilk karşılaşan sağlık personeli tarafindan eksiksiz olarak doldurularak TSM/Sağlık Grup Başkanlığına gönderilmelidir. Laboratuvar kayıtlarının tutulabilmesi ve sonuçların bildirilebilmesi için gereklidir.
+3. Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formunu (Ek 1) doldurunuz: Bu form sürveyans verisinin temelini oluşturmaktadır. Hastayla ilk karşılaşan sağlık personeli tarafından eksiksiz olarak doldurularak TSM/Sağlık Grup Başkanlığına gönderilmelidir. Laboratuvar kayıtlarının tutulabilmesi ve sonuçların bildirilebilmesi için gereklidir.
 
-4. Kızamık/Kızamıkçık Vaka İnceleme Formunu (Ek 2) doldurunuz: Hastayla ilk karşılaşan sağlık personeli tarafindan tanımlayıcı ve klinik bilgiler kısmı eksiksiz olarak doldurularak TSM/Sağlık Grup Başkanlığına gönderilmelidir. Gerektiğinde (örneğin aşı durumu) yazılı kayıtlara başvurulmalıdır.
+4. Kızamık/Kızamıkçık Vaka İnceleme Formunu (Ek 2) doldurunuz: Hastayla ilk karşılaşan sağlık personeli tarafından tanımlayıcı ve klinik bilgiler kısmı eksiksiz olarak doldurularak TSM/Sağlık Grup Başkanlığına gönderilmelidir. Gerektiğinde (örneğin aşı durumu) yazılı kayıtlara başvurulmalıdır.
 
 5. Laboratuvar tanısı için kan (serum) örneği alınız: Kan (serum) örneği tüm şüpheli ve olası vakalardan alınmalıdır. Serum örneği vaka ile ilk karşılaşıldığında alınmalıdır. Ancak IgM antikoru pozitifliği bir ay boyunca saptanabileceği için geç saptanan vakalardan döküntü başlangıcından itibaren ilk 28 gün içerisinde serum örneği alınabilir. Vakaların bir kısmında IgM antikoru oluşması döküntüden sonraki ilk 3 gün içerisinde saptanamayabilir. Bu nedenle ilk 3 gün içerisinde serum örneği alımmış ancak IgM antikoru negatif veya ara değer olarak saptanmış vakalardan ikinci serum örneği alınmalıdır. Daha detaylı bilgi için Ek 3'e bakınız.
 
@@ -496,7 +497,7 @@ Izolasyon için omek iste ve gonder Sağlık Bakanlığı
 
 8. Hastanın izolasyonu konusunda aileyi bilgilendiriniz, hastane ortamında ise izolasyonunu sağlayınız: Hastalar, hastaneye yatışarını gerektiren ek bir durum yoksa evlerinde izole edilmeli, hane halkı dışındakilerle teması sınırlı tutulmalıdır. Daha detaylı bilgi için Ek 4'e bakınız. Tüm temashılar en uzun inkübasyon süresince izlenerek belirtilerin başlaması durumunda örnek alınmalıdır.
 
-9. Bilgiyi Form 016'ya (Ek 5), 017A'ya (Ek 6) ve GBP Sürveyans Formuna (Ek 7) ekleyiniz: ' Il Sağlık Müdürlüğü, sağlık ocağaile hekimliği ya da TSM/Sağlık Grup Başkanlığı dışındaki bir kaynaktan (hastane, özel klinik, okul vb) şüpheli kızamık vakası ihbarı aldığında, vakit geçirmeden ilgili Sağlık Grup Başkanlığım/TSM'yi bilgilendirmelidir. Sağlık Grup Başkanlığı/TSM derhal vakayı incelemeli, eğer bildiren kişilerce yapılmamışsa, vaka formları doldurulmalı ve uygun örnekler toplanarak tüm formlar ve örnekler Sağlık Müdürlüğüne gönderilmelidir. 6.2. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında TSM/Sağlık Grup Başkanlıkları Tarafından Yapılması Gerekenler:
+9. Bilgiyi Form 016'ya (Ek 5), 017A'ya (Ek 6) ve GBP Sürveyans Formuna (Ek 7) ekleyiniz: ' İl Sağlık Müdürlüğü, sağlık ocağaile hekimliği ya da TSM/Sağlık Grup Başkanlığı dışındaki bir kaynaktan (hastane, özel klinik, okul vb) şüpheli kızamık vakası ihbarı aldığında, vakit geçirmeden ilgili Sağlık Grup Başkanlığım/TSM'yi bilgilendirmelidir. Sağlık Grup Başkanlığı/TSM derhal vakayı incelemeli, eğer bildiren kişilerce yapılmamışsa, vaka formları doldurulmalı ve uygun örnekler toplanarak tüm formlar ve örnekler Sağlık Müdürlüğüne gönderilmelidir. 6.2. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında TSM/Sağlık Grup Başkanlıkları Tarafından Yapılması Gerekenler:
 
 1. Sağlık kurumlarından gönderilen formları değerlendirerek vaka cetveli (Ek 8) hazırlayınız ve Vaka Inceleme Formunda eksik kalan bilgileri tamamlayınız.
 
@@ -508,7 +509,7 @@ Izolasyon için omek iste ve gonder Sağlık Bakanlığı
 
 5. Alınan örnekleri belirlenen günlerde Sağlık Müdürlüğüne ulaştırmak üzere uygun koşullarda saklayınız. Daha detaylı bilgi için Ek 3'e bakınız
 
-1. Sağlık kurumlarından gönderilen formları değerlendirerek vaka cetveli hazırlayınız ve Vaka İnceleme Formunda eksik kalan bilgileri tamamlayınız: Sağlık ocaklar/aile hekimlikleri tarafindan gönderilen vaka bildirim ve laboratuvar istek ve sonuç formlarından yararlanarak vaka cetveli (Ek 8) oluşturulmalıdır. Bu cetvel TSM/Sağlık Grup Başkanlıkları tarafindan bölgelerinin izlenmesinde kullanılması gereken temel formdur. Bu cetvel ayda iki kez Sağlık Müdürlüğüne gönderilmelidir. Vaka saptanmaması durumunda da ayda iki kez "vaka saptanmamıştır" ibaresi eklenerek gönderilmelidir. Tüm vaka inceleme formları, eksik kalan bilgiler tamamlandıktan sonra, son sınıflamaları yapılmak üzere Sağlık Müdürlüğüne gönderilmelidir.
+1. Sağlık kurumlarından gönderilen formları değerlendirerek vaka cetveli hazırlayınız ve Vaka İnceleme Formunda eksik kalan bilgileri tamamlayınız: Sağlık ocaklar/aile hekimlikleri tarafından gönderilen vaka bildirim ve laboratuvar istek ve sonuç formlarından yararlanarak vaka cetveli (Ek 8) oluşturulmalıdır. Bu cetvel TSM/Sağlık Grup Başkanlıkları tarafından bölgelerinin izlenmesinde kullanılması gereken temel formdur. Bu cetvel ayda iki kez Sağlık Müdürlüğüne gönderilmelidir. Vaka saptanmaması durumunda da ayda iki kez "vaka saptanmamıştır" ibaresi eklenerek gönderilmelidir. Tüm vaka inceleme formları, eksik kalan bilgiler tamamlandıktan sonra, son sınıflamaları yapılmak üzere Sağlık Müdürlüğüne gönderilmelidir.
 
 2. Kümelenme olup olmadığını derhal sahada inceleme yaparak saptayınız: Kümelenme salgın anlamı taşıyabilir; bu nedenle inceleme ivedilikle yapılmalıdır. Seyahat hikayesi, gebelik durumu, aşılanma durumu, klinik ve demografik bilgilerini almak için her şüpheli vaka ve ailesi ile görüşülmeli, olası enfeksiyon kaynağı (olası kızamık ya da kızamıkçık vakaları ile temas, endemik bölgeye seyahat vb.) tanımlanmaya çalışılmalı, vakanın temas ettiği kişiler, varsa okulu, işyeri taranmalı ve orada bulunan kışilerin aşılanma durumu kontrol edilmelidir. Bölgenin aşılanma durumu değerlendirilir. Şüpheli/olası vaka ile temas beklenmeden ilk 72 saat içerisinde aşı ve ilk 6 gün içerisinde immünglobulin' uygulanması eden herkesin aşılanma durumları kayıtlardan (Form 12A/B vb) sorgulanarak örnek sonucu sağlanmalıdır
 
@@ -530,7 +531,7 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 4. Kızamık/Kızamıkçık Vaka Inceleme Formunu (Ek 2) laboratuvar sonucu geldiğinde tamamlayıp son sınıflamayı yaptıktan sonra Sağlık Bakanlığına göndermek üzere Sağlık Müdürlüğünde dosyalayınız,
 
-5. TSM/Sağlık Grup Başkanlıkları tarafindan gönderilmiş olan vaka cetvelleri birleştirilip il vaka cetveli hazırlayarak her ayın sonunda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderiniz (Detaylı bilgi için bkz. Ek 10).
+5. TSM/Sağlık Grup Başkanlıkları tarafından gönderilmiş olan vaka cetvelleri birleştirilip il vaka cetveli hazırlayarak her ayın sonunda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderiniz (Detaylı bilgi için bkz. Ek 10).
 
 6. BHM'den gelen sonuçları bildirimi yapan sağlık personeline ve hastanın yaşadığı bölgedeki TSM/Sağlık Grup Başkanlığına bildiriniz.
 
@@ -542,7 +543,7 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 4. Kızamık/Kızamıkçık Vaka İnceleme Formunu laboratuvar sonucu geldiğinde tamamlayıp son sınıflamayı yaptıktan sonra Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na göndermek üzere Sağlık Müdürlüğü'nde dosyalayınız: Laboratuvar sonuçları çıktıktan sonra Vaka Inceleme Formuna işlenmelidir Son vaka sınıflaması yapılarak Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmek üzere Bulaşıcı Hastalıklar Şubesinde dosyalanmalıdır.
 
-5. TSM/Sağlık Grup Başkanlıkları tarafından gönderilmiş olan vaka cetvelindeki olası/kesin kızamık/kızamıkçık vakaları için il vaka cetveli hazırlanarak her ayı sonunda Sağlık Bakanlığı'na gönderiniz: TSM/Sağlık Grup Başkanlıkları tarafindan gönderilmiş olan vaka cetvelleri birleştirildikten sonra, vaka inceleme formlarından da yararlanılarak Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı tarafindan oluşturularak illere elektronik ortamda gönderilmiş olan il vaka cetveline istenen veriler Ek 10'deki yönergeye uygun olarak işlenmeli ve her ayın sonunda elektronik ortamda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir.
+5. TSM/Sağlık Grup Başkanlıkları tarafından gönderilmiş olan vaka cetvelindeki olası/kesin kızamık/kızamıkçık vakaları için il vaka cetveli hazırlanarak her ayı sonunda Sağlık Bakanlığı'na gönderiniz: TSM/Sağlık Grup Başkanlıkları tarafından gönderilmiş olan vaka cetvelleri birleştirildikten sonra, vaka inceleme formlarından da yararlanılarak Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı tarafından oluşturularak illere elektronik ortamda gönderilmiş olan il vaka cetveline istenen veriler Ek 10'deki yönergeye uygun olarak işlenmeli ve her ayın sonunda elektronik ortamda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir.
 
 6. BHM'den gelen sonuçları bildirimi yapan sağlık personeline ve hastanın yaşadığı bölgedeki TSM/Sağlık Grup Başkanlığına bildiriniz: BHM sonuçları Sağlık Müdürlüğüne bildireceği için, bildirim yapan personele ve hastanın yaşadığı bölgedeki TSM/Sağlık Grup Başkanlığına bildirim yapmak İl Sağlık Müdürlüğünün görevidir. Geri bildirim en kısa sürede sözlü ve yazılı olarak yapılmalıdır. 6.4. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında Bölge Hıfzıssıhha Müdürlüğü Tarafindan Yapılması Gerekenler:
 
@@ -552,7 +553,7 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 3. Sıcak vakayla karşlaşıldığında alınan nazofarengeal sürüntü ve idrar örneklerini uygun şartlar altında RSHMB'ye gönderiniz.
 
-4. Elde edilen sonuçları derhal Il Sağlık Müdürlüğüne ve RSHMB'ye bildiriniz,
+4. Elde edilen sonuçları derhal İl Sağlık Müdürlüğüne ve RSHMB'ye bildiriniz,
 
 5. Incelemeye alınan tüm vakaları BHM Haftalık Laboratuvar Bildirim Formuna (Ek 11) işleyerek her hafta RSHMB'ye gönderiniz,
 
@@ -560,17 +561,17 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 1. Gelen örneği kızamık ve kızamıkçığa özgü IgM ve gerektiğinde IgG antikorları yönünden incelemeye ahınız: BHM'ler, kendilerine ulaşan örnekleri haftada iki kez inceleyecek şekilde planlama yapmalıdır. Sıcak vaka ise örnekler hemen incelenmelidir.
 
-2. Döküntünün başlangıcından sonra ilk 3 gün içerisinde alınmış serum örneğinde IgM antikoru negatif olarak saptanmış ise 2. serum örneğini isteyiniz: Il Sağlık Müdürlüğü bilgilendirilerek 2. serum örneği alınmalıdır.
+2. Döküntünün başlangıcından sonra ilk 3 gün içerisinde alınmış serum örneğinde IgM antikoru negatif olarak saptanmış ise 2. serum örneğini isteyiniz: İl Sağlık Müdürlüğü bilgilendirilerek 2. serum örneği alınmalıdır.
 
 3. Sıcak vakayla karşılaşıldığında alınan nazofarengeal sürüntü ve idrar örneklerini ön işlemden geçirildikten sonra uygun şartlar altında RSHMB'ye gönderiniz: BHM'ler tarafından kendilerine ulaşan idrar örnekleri ön işlemden geçirildikten sonra uygun soğuk zincir koşullarında RSHMB'ye gönderilmelidir. Orneklerin nasıl gönderileceği konusunda daha detaylı bilgi için Ek 3'e bakınız.
 
-4. Elde edilen sonuçları derhal Il Sağlık Müdürlüğüne ve RSHMB'ye bildiriniz: Geri bildirim mümkün olan en kısa sürede sözlü ve yazılı olarak yapılmalıdır. Vakanın örneğinin BHM'ye ulaşmasından itibaren en geç 48 saat içerisinde sonuçlar ilgili Il Sağlık Müdürlüğüne ve RSHMB'ye bildirilmiş olmalıdır.
+4. Elde edilen sonuçları derhal İl Sağlık Müdürlüğüne ve RSHMB'ye bildiriniz: Geri bildirim mümkün olan en kısa sürede sözlü ve yazılı olarak yapılmalıdır. Vakanın örneğinin BHM'ye ulaşmasından itibaren en geç 48 saat içerisinde sonuçlar ilgili İl Sağlık Müdürlüğüne ve RSHMB'ye bildirilmiş olmalıdır.
 
 5. İncelemeye alınan tüm vakaları BHM Haftalık Laboratuvar Bildirim Formuna (Ek
 
 11) işleyerek her hafta RSHMB'ye gönderiniz: Pozitif çıkan vakalar derhal RSHMB'ye, oradan da Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na bildirilmelidir.
 
-6. Ayın sonunda, incelenen örneklere ilişkin sonuçları uygun elektronik ortamda RSHMB'ye gönderiniz: Her ayın ilk haftasında elektronik form gönderilmiş olmalıdır. Not: Her ayın sonunda, RSHMB tarafindan, incelenen örnek sonuçlarına ilişkin veriler BM'lerden gönderilen örneklere ilişkin verilerle birleştirilerek oluşturulan BHM Laboratuar Cetveli uygun elektronik ortamda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir. Her ayın ilk haftasında elektronik form gönderilmiş * İdrar örneği, 1500 devirde 10 dakika boyunca santrifüj edildikten sonra süpernatantı atılacak, pelletin üzerine viral transport besiyeri (5-10 cc) eklenerek gönderilecektir. 6.5. Vaka Sınıflaması Laboratuvar incelemesi sonucu dikkate alınarak son vaka sınıflaması yapıldıktan sonra Vaka Inceleme Formunun (Ek 2) alt kısmındaki 'Son vaka sınıflaması' kısmı tam olarak doldurularak form Sağlık Müdürlüğü tarafindan Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilecektir. Son sınıflama Şekil 6'ya göre yapılacaktır (Bkz: Olası Kızamık/Kızamıkçık Vakaları için Sıniflandırma Şeması, sf:25)
+6. Ayın sonunda, incelenen örneklere ilişkin sonuçları uygun elektronik ortamda RSHMB'ye gönderiniz: Her ayın ilk haftasında elektronik form gönderilmiş olmalıdır. Not: Her ayın sonunda, RSHMB tarafından, incelenen örnek sonuçlarına ilişkin veriler BM'lerden gönderilen örneklere ilişkin verilerle birleştirilerek oluşturulan BHM Laboratuar Cetveli uygun elektronik ortamda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir. Her ayın ilk haftasında elektronik form gönderilmiş * İdrar örneği, 1500 devirde 10 dakika boyunca santrifüj edildikten sonra süpernatantı atılacak, pelletin üzerine viral transport besiyeri (5-10 cc) eklenerek gönderilecektir. 6.5. Vaka Sınıflaması Laboratuvar incelemesi sonucu dikkate alınarak son vaka sınıflaması yapıldıktan sonra Vaka Inceleme Formunun (Ek 2) alt kısmındaki 'Son vaka sınıflaması' kısmı tam olarak doldurularak form Sağlık Müdürlüğü tarafından Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilecektir. Son sınıflama Şekil 6'ya göre yapılacaktır (Bkz: Olası Kızamık/Kızamıkçık Vakaları için Sıniflandırma Şeması, sf:25)
 
 - Olası (Klinik) Vaka
 
@@ -628,7 +629,7 @@ Klinik örnek Hayır Klinik (olası)
 
 alinamadı veya kızamık veya
 
-test yapılamadı kızamıkçık vakas 1 Gebe olmayan vakalar için. (Gebelikte kızamıkçık vakalarının sınıflandırılması ile ilgili daha geniş bilgi için sayfa Il'e bakınız). 2 Yakın zamanda kızamık ve/veya kızamıkçık aşılanma öyküsü varlığında IgM sonuçlarının yaklaşım için bir önceki sayfaya bakınız. 3 Döküntünün başlangıcından sonraki ilk 3 gün içinde alınan serum örneğinde negatif sonuç alınması durumunda, 4-28. günler arasında ikinci bir örnek alınmalıdır. 4 Bir örnek tekrarlanan testlere rağmen "ara değer" olarak sonuç verirse, örnek alternatif bir yöntemle incelenebilir veya hastadan bir örnek daha alınarak test edilir. Sonuç yine ara değer çıkarsa vaka, başka bir laboratuvarla doğrulanmış vakayla/vakalarla arasında pidemiyolojik ilişki olup bulunup bulunmadığına göre sınıflandırılmalıdır. 6.6. Kesin Tanı Alan Kızamık/Kızamıkçık Vakalarına Yaklaşım A. TSM/Sağlık Grup Başkanlıkları Tarafından Yapılması Gerekenler:
+test yapılamadı kızamıkçık vakas 1 Gebe olmayan vakalar için. (Gebelikte kızamıkçık vakalarının sınıflandırılması ile ilgili daha geniş bilgi için sayfa İl'e bakınız). 2 Yakın zamanda kızamık ve/veya kızamıkçık aşılanma öyküsü varlığında IgM sonuçlarının yaklaşım için bir önceki sayfaya bakınız. 3 Döküntünün başlangıcından sonraki ilk 3 gün içinde alınan serum örneğinde negatif sonuç alınması durumunda, 4-28. günler arasında ikinci bir örnek alınmalıdır. 4 Bir örnek tekrarlanan testlere rağmen "ara değer" olarak sonuç verirse, örnek alternatif bir yöntemle incelenebilir veya hastadan bir örnek daha alınarak test edilir. Sonuç yine ara değer çıkarsa vaka, başka bir laboratuvarla doğrulanmış vakayla/vakalarla arasında pidemiyolojik ilişki olup bulunup bulunmadığına göre sınıflandırılmalıdır. 6.6. Kesin Tanı Alan Kızamık/Kızamıkçık Vakalarına Yaklaşım A. TSM/Sağlık Grup Başkanlıkları Tarafından Yapılması Gerekenler:
 
 1. Vakanın çevresinde aktif vaka araştırmasına başlayınız, kümelenme varsa salgın incelemesi başlatınız,
 
@@ -648,13 +649,13 @@ test yapılamadı kızamıkçık vakas 1 Gebe olmayan vakalar için. (Gebelikte 
 
 3. Vaka İnceleme Formunu (Ek 2) Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na fakslayınız,
 
-4. Il içindeki tüm sağlık ocağı/aile hekimliklerini ve resmi/özel tüm sağlık kuruluşlarını bilgilendiriniz ve bildirilmeyen vaka olup olmadığını araştırınız,
+4. İl içindeki tüm sağlık ocağı/aile hekimliklerini ve resmi/özel tüm sağlık kuruluşlarını bilgilendiriniz ve bildirilmeyen vaka olup olmadığını araştırınız,
 
 5. İl vaka cetvelini Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na olası salgın sona erene kadar haftada bir kez gönderiniz. C. Bölge Hıfzıssıhha Müdürlüğü Tarafından Yapılması Gerekenler:
 
 1. Gerekli ön işlemden geçirildikten sonra virüs izolasyonu için ahınan örnekleri ve Çalışılan serum örneğini Vaka Bildirim ve Laboratuvar Istek ve Sonuç Formuyla (Ek 1) birlikte RHSMB'ye gönderiniz
 
-2. Elde edilen sonuçları derhal Il Sağlık Müdürlüğüne ve RHSMB'ye bildiriniz,
+2. Elde edilen sonuçları derhal İl Sağlık Müdürlüğüne ve RHSMB'ye bildiriniz,
 
 3. Incelemeye alınan tüm vakaları BHM Haftalık Laboratuvar Bildirim Formuna (Ek
 
@@ -738,13 +739,13 @@ B. Sağlık Müdürlüğü Tarafından Yapılması Gerekenler:
 
 3. Vaka Inceleme Formunu Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na fakslayınız.
 
-4. Il içindeki tüm sağlık ocağı/aile hekimliklerini ve resmi/özel tüm sağlık kuruluşlarını bilgilendiriniz ve bildirilmeyen vaka olup olmadığını araştırınız: Bu bilgilendirme, çevrede gerekli aşılama önlemlerinin alınması ve bildirimi yapılmamış vakaların saptanması açısından önemlidir. Uygulamaları izleyiniz. Not: Salgınlarda, vakalara müdahale eden sağlık personelinin de önemli bir risk grubu olduğu ve aşılanmalarının gerektiği unutulmamalıdır.
+4. İl içindeki tüm sağlık ocağı/aile hekimliklerini ve resmi/özel tüm sağlık kuruluşlarını bilgilendiriniz ve bildirilmeyen vaka olup olmadığını araştırınız: Bu bilgilendirme, çevrede gerekli aşılama önlemlerinin alınması ve bildirimi yapılmamış vakaların saptanması açısından önemlidir. Uygulamaları izleyiniz. Not: Salgınlarda, vakalara müdahale eden sağlık personelinin de önemli bir risk grubu olduğu ve aşılanmalarının gerektiği unutulmamalıdır.
 
-5. Il vaka cetvelini Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na olası salgın sona erene kadar haftada bir kez gönderiniz. C. Bölge Hıfzıssıhha Müdürlüğü Tarafindan Yapılması Gerekenler:
+5. İl vaka cetvelini Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na olası salgın sona erene kadar haftada bir kez gönderiniz. C. Bölge Hıfzıssıhha Müdürlüğü Tarafindan Yapılması Gerekenler:
 
-1. Gerekli ön işlemden geçirildikten sonra virüs izolasyonu için alınan örnekleri ve çalışılan serum örneğini Vaka Bildirim ve Laboratuvar Istek ve Sonuç Formuyla (Ek 1) birlikte RSHMB'ye gönderiniz. Elde edilen sonuçları derhal Il Sağlık Müdürlüğüne ve RSHMB'ye bildiriniz,
+1. Gerekli ön işlemden geçirildikten sonra virüs izolasyonu için alınan örnekleri ve çalışılan serum örneğini Vaka Bildirim ve Laboratuvar Istek ve Sonuç Formuyla (Ek 1) birlikte RSHMB'ye gönderiniz. Elde edilen sonuçları derhal İl Sağlık Müdürlüğüne ve RSHMB'ye bildiriniz,
 
-2. Elde edilen sonuçları derhal Il Sağlık Müdürlüğüne ve RSHMB'ye gönderiniz.
+2. Elde edilen sonuçları derhal İl Sağlık Müdürlüğüne ve RSHMB'ye gönderiniz.
 
 3. Incelemeye alınan tüm vakaları BHM Haftalık Laboratuvar Bildirim Formuna (Ek 11) işleyerek her hafta RSHMB'ye gönderiniz,
 
@@ -762,15 +763,15 @@ B. Sağlık Müdürlüğü Tarafından Yapılması Gerekenler:
 
 4. Virüs izolasyonu için idrar örneği alınız (Detaylı bilgi için bkz. Ek 3)
 
-5. 24 saat içinde topladığınız örnekleri ve doldurduğunuz formları Il Sağlık Müdürlüğü'ne
+5. 24 saat içinde topladığınız örnekleri ve doldurduğunuz formları İl Sağlık Müdürlüğü'ne
 
 6. Hastanın izolasyonu konusunda aileyi bilgilendiriniz, hastane ortamında ise izolasyonu
 
 7. Form 017 C (Ek 13) ile de bildirim yapınız.
 
-1. TSM/Sağhk Grup Başkanlığını bilgilendiriniz: Sağlık ocakları/aile hekimlikleri TSM/ Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine, hastaneler ise ya doğrudan ya da varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapmalıdır.
+1. TSM/Sağlık Grup Başkanlığını bilgilendiriniz: Sağlık ocakları/aile hekimlikleri TSM/ Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine, hastaneler ise ya doğrudan ya da varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapmalıdır.
 
-2. KKS Vaka İnceleme Formunu (Ek 12) doldurunuz: Tam ve doğru olarak doldurulmalıdır. Gerektiğinde (annenin gebelik takibi) yazılı kayıtlara başvurulmalıdır. pidemiyolojik ilişki ile ilgili bilgi, vaka sınıflaması için gereklidir. Laboratuvar sonucu çıktıktan sonra Sağlık Müdürlüğü tarafindan son vaka sınıflaması yapılarak bu forma işlenmelidir. Doğrulanmış vakaların formları Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir.
+2. KKS Vaka İnceleme Formunu (Ek 12) doldurunuz: Tam ve doğru olarak doldurulmalıdır. Gerektiğinde (annenin gebelik takibi) yazılı kayıtlara başvurulmalıdır. pidemiyolojik ilişki ile ilgili bilgi, vaka sınıflaması için gereklidir. Laboratuvar sonucu çıktıktan sonra Sağlık Müdürlüğü tarafından son vaka sınıflaması yapılarak bu forma işlenmelidir. Doğrulanmış vakaların formları Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir.
 
 3. Laboratuvar tanısı için kan (serum) örneği alınız (Ek 3), Şüpheli KKS vakalarında, IgM serolojisi için alınacak tek serum örneği yeterlidir. Ancak, klinik olarak uyumlu olmasına rağmen kızamıkçığa özgü IgM sonucu negatif olarak saptanmışsa,
 
@@ -838,7 +839,7 @@ e) Ziyaret sırasında kurum ziyaret formunu (Ek 14) doldurulmalıdır.
 
 1) Eğer hasta bildirim yapılmadan taburcu olmuş ise vaka ile ilgili bilgi toplanmalıdır..
 
-g) Her iki haftada bir Aktif Sürveyans Il Izlem Formu (Ek 15) doldurularak Sağlık
+g) Her iki haftada bir Aktif Sürveyans İl İzlem Formu (Ek 15) doldurularak Sağlık
 
 Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir.
 
@@ -852,7 +853,7 @@ pidemiyolojik göstergeler, aşı kapsayıcılık göstergeleri ve çeşitli alt
 
 Güçlendirilmesi gereken noktaların belirlenmesi ve alınan bilginin kalitesinin ve güvenilirliği konusunda kanıt sağlanması için sürveyans sistemlerinin sürekli izlenerek değerlendirilmesi gereklidir. Bu hedefler kızamık ve kızamıkçık eliminasyonu kapsamında bilhassa önemlidir.
 
-Epidemiyolojik bilginin yanı sıra, bir sürveyans sistemi bildirimin kalitesini rutin olarak değerlendirmek için gerekli bilgi de toplamalıdır. Bunun için, rutin izlemeye ek olarak sistemin kalitesinin, tamlığının, faydalılığının ve etkililiğinin düzenli ve derinlemesine analizi de yapılmalıdır. Sürveyansın rutin olarak izlenebilmesine yardımcı olmak amacıyla; DSÖ tarafından sağlık sisteminin her düzeyi için uygulanması ve düzenli olarak bildirilmesi gereken göstergeler tanımlamıştır. Göstergeleri her düzeyde düzenli aralıklarla izlenmeli ve ilgili birimlere geri bildirImde bulunulmalıdır. Göstergeler sürveyansın işleyişinde aksamaları işaret ediyorsa gerekli düzenlemeler yapılmalıdır. 9.1. DSÖ Kızamık ve Kızamıkçık Sürveyansı Performansı Göstergeleri Ulusal Birimlere ve DSÖ'ye Yapılan Bildirimin Zamanındalığı: bölümünün 100 ile çarpılması ile hesaplanır. Hedef: Illerin/Sağlık Bakanlığı'nın en az %80'inin bildirimlerini her ay zamanında yapmış olmalarıdır. Ulusal Birimlere ve DSÖ' ye Yapılan Bildirimin Tamlığı: İller tarafindan Sağlık Bakanlığına/Sağlık Bakanlığı tarafindan DSÖ'ye yapılan bildirimlerin aynı dönemde beklenen bildirim sayısına bölümünün 100 ile çarpılmasıdır. Hedef: Illerin/Sağlık Bakanlığı'nın en az %80'inin bildirimlerini tam yapmış olmalarıdır. Vaka Saptama Hızı (Sürveyansın Duyarlılığı) Ulusal düzeyde, yılda her 100.000 nüfus için en az 2 olası kızamık veya kızamıkçık vakası saptanmış ve vakalar araștırılmış ve uygun örnek alınarak referans laboratuvarında negatif bulunarak veya doğrulanmış bir vakayla pidemiyolojik ilişkisi olmadığı ispatlanarak dışlanmış olmalidır. Hedef: Ülke ve il düzeyinde, illerin en az %80'inde, yılda her 100.000 nüfus için en az 2 kızamık olmayan/kızamıkçık olmayan olası kızamık/kızamıkçık vakası bildirmiş olmasıdır. Tanımlanmış Enfeksiyon Kaynağı: Enfeksiyon kaynağı (importe, importe vakayla ilişkili ya da yerli sporadik vb.) tanımlanmış kızamık ya da kızamıkçık vakalarının bildirilen toplam vaka sayısına bölünmesinin 100 ile çarpılmasıdır. Hedef: Vakaların en az %80'inin kaynağının tanımlanmış olmasıdır. Vaka Araştırmasının Zamanındalığı: Klinik olarak kızamık ya da kızamıkçık ile uyumlu hastalığı olan ve 48 saat içinde pidemiyolojik araştırması tamamlanmış olan vakaların, bildirimi yapılan klinik olarak olası vakaların toplamına bölümünün 100 ile çarpımıdır. Hedef: Bildirimlerin en az %80'inin 48 saat içerisinde araștırılmış olmasıdır. 9.1.1. Laboratuvar Sürveyansı Performansı Göstergeleri Laboratuvarda Test Edilen Örnek Doğrulama Hızı: Uygun örneği olan ve referans laboratuvarında test edilmiş olan vaka sayısının bildirilen vaka sayısına bölümünün 100 ile çarpılmasıdır. Hedef: Klinik kızamık/kızamıkçık vakalarının en az %80'inin referans laboratuvarda test edilmiş Virüs Genotipinin Belirlenmiş Olduğu Bulaş Zinciri Sayısı Genotip bilgisi tanımlanmış kızamık ya da kızamıkçık bulaş zinciri sayısının aynı hastalığın neden olduğu toplam geçiş zinciri sayısına bölümünün 100 ile çarpılmasıdır. Hedef: Geçiş zincirlerinin en az %90'ının genotip bilgisinin belirlenmiş olmasıdır. Laboratuvara Gönderilen Örneğin 48 saat içerisinde Sonuçlanma Yüzdesi: Uygun örneği (serum) olan, referans laboratuvarna ulaşmış ve ilk 48 saat içerisinde sonuçlandırılmış olan serum sayısının, laboratuvara ulaşmış tüm uygun serum sayısına bölümünün 100 ile çarpılmasıdır. Hedef: Gönderilen serumların %80'inin, örneğin laboratuvara ulaşmasından itibaren 48 saat içerisinde sonuçlandırılmış olmasıdır.
+Epidemiyolojik bilginin yanı sıra, bir sürveyans sistemi bildirimin kalitesini rutin olarak değerlendirmek için gerekli bilgi de toplamalıdır. Bunun için, rutin izlemeye ek olarak sistemin kalitesinin, tamlığının, faydalılığının ve etkililiğinin düzenli ve derinlemesine analizi de yapılmalıdır. Sürveyansın rutin olarak izlenebilmesine yardımcı olmak amacıyla; DSÖ tarafından sağlık sisteminin her düzeyi için uygulanması ve düzenli olarak bildirilmesi gereken göstergeler tanımlamıştır. Göstergeleri her düzeyde düzenli aralıklarla izlenmeli ve ilgili birimlere geri bildirImde bulunulmalıdır. Göstergeler sürveyansın işleyişinde aksamaları işaret ediyorsa gerekli düzenlemeler yapılmalıdır. 9.1. DSÖ Kızamık ve Kızamıkçık Sürveyansı Performansı Göstergeleri Ulusal Birimlere ve DSÖ'ye Yapılan Bildirimin Zamanındalığı: bölümünün 100 ile çarpılması ile hesaplanır. Hedef: Illerin/Sağlık Bakanlığı'nın en az %80'inin bildirimlerini her ay zamanında yapmış olmalarıdır. Ulusal Birimlere ve DSÖ' ye Yapılan Bildirimin Tamlığı: İller tarafından Sağlık Bakanlığına/Sağlık Bakanlığı tarafından DSÖ'ye yapılan bildirimlerin aynı dönemde beklenen bildirim sayısına bölümünün 100 ile çarpılmasıdır. Hedef: Illerin/Sağlık Bakanlığı'nın en az %80'inin bildirimlerini tam yapmış olmalarıdır. Vaka Saptama Hızı (Sürveyansın Duyarlılığı) Ulusal düzeyde, yılda her 100.000 nüfus için en az 2 olası kızamık veya kızamıkçık vakası saptanmış ve vakalar araștırılmış ve uygun örnek alınarak referans laboratuvarında negatif bulunarak veya doğrulanmış bir vakayla pidemiyolojik ilişkisi olmadığı ispatlanarak dışlanmış olmalidır. Hedef: Ülke ve il düzeyinde, illerin en az %80'inde, yılda her 100.000 nüfus için en az 2 kızamık olmayan/kızamıkçık olmayan olası kızamık/kızamıkçık vakası bildirmiş olmasıdır. Tanımlanmış Enfeksiyon Kaynağı: Enfeksiyon kaynağı (importe, importe vakayla ilişkili ya da yerli sporadik vb.) tanımlanmış kızamık ya da kızamıkçık vakalarının bildirilen toplam vaka sayısına bölünmesinin 100 ile çarpılmasıdır. Hedef: Vakaların en az %80'inin kaynağının tanımlanmış olmasıdır. Vaka Araştırmasının Zamanındalığı: Klinik olarak kızamık ya da kızamıkçık ile uyumlu hastalığı olan ve 48 saat içinde pidemiyolojik araştırması tamamlanmış olan vakaların, bildirimi yapılan klinik olarak olası vakaların toplamına bölümünün 100 ile çarpımıdır. Hedef: Bildirimlerin en az %80'inin 48 saat içerisinde araștırılmış olmasıdır. 9.1.1. Laboratuvar Sürveyansı Performansı Göstergeleri Laboratuvarda Test Edilen Örnek Doğrulama Hızı: Uygun örneği olan ve referans laboratuvarında test edilmiş olan vaka sayısının bildirilen vaka sayısına bölümünün 100 ile çarpılmasıdır. Hedef: Klinik kızamık/kızamıkçık vakalarının en az %80'inin referans laboratuvarda test edilmiş Virüs Genotipinin Belirlenmiş Olduğu Bulaş Zinciri Sayısı Genotip bilgisi tanımlanmış kızamık ya da kızamıkçık bulaş zinciri sayısının aynı hastalığın neden olduğu toplam geçiş zinciri sayısına bölümünün 100 ile çarpılmasıdır. Hedef: Geçiş zincirlerinin en az %90'ının genotip bilgisinin belirlenmiş olmasıdır. Laboratuvara Gönderilen Örneğin 48 saat içerisinde Sonuçlanma Yüzdesi: Uygun örneği (serum) olan, referans laboratuvarna ulaşmış ve ilk 48 saat içerisinde sonuçlandırılmış olan serum sayısının, laboratuvara ulaşmış tüm uygun serum sayısına bölümünün 100 ile çarpılmasıdır. Hedef: Gönderilen serumların %80'inin, örneğin laboratuvara ulaşmasından itibaren 48 saat içerisinde sonuçlandırılmış olmasıdır.
 
 ### 10. KIZAMIK/KIZAMIKÇIK SALGINLARINA YAKLAŞIM
 
@@ -894,7 +895,7 @@ etmiş kişiler)
 
 • Salgın raporu*** hazırlayınız
 
-• Il vaka cetvelini Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na salgın sona erene kadar haftada bir kez gönderiniz
+• İl vaka cetvelini Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na salgın sona erene kadar haftada bir kez gönderiniz
 
 • Salgın devam ediyorsa, 2-3 ayda bir aynı genotipin dolaşıp dolaşmadığını saptamak için örnek alınız ve genotip tayini için RSHMB'ye gönderiniz * 1 yaş altına kızamık, 1 yaş ve üzerine ise KKK aşısı uygulanacaktır. Kızamık içeren iki aşı arasında bırakılması gereken süre en az 4 haftadır. 1 yaş altında aşı uygulanmış olan bebeklere, 1 yaşını doldurduklarında iki aşı arasında bırakılması gereken en az süre göz önüne alınarak tekrar aşı uygulanacaktır. Bu çocuklar, ilköğretim 1. sınıfa geldiklerinde tekrar aşılanacaktır. ** Immünglobulin 6 ayı altındaki bebekler, gebeler, immünsuprese kişiler için ve aşının kontrendike olduğu diğer durumlarda önerilmektedir. Kızamık salgınlarında kitlesel immünglobulin uygulamasının yeri yoktur. Onerilen uygulama dozu 0.25 ml/kg'dır. Immünsuprese kişiler için önerilen doz 0,5 ml/kg'dır (en fazla 15 ml) Kas içine (intramusküler) uygulanmalıdır. *** Salgın raporu örneği için bkz Ek 16 dershane, cami, market vb gibi yakın temasın gerçekleşebileceği kalabalık ortamlar. * Döküntünün başlangıcından 4 gün öncesinde ve/veya döküntünün başlangıcından itibaren 4 gün içerisinde bulunulan dernek, spor salonu, Tablo 5. Salgın Incelemesi için Onerilen Listeleme Biçimi Sıra No T.C. Kimlik No Ad-Soyad Yaş Meslek Adres Döküntünün Başlama Tarihi Kesin vakayla pidemiyolojik ilişki var mı? Işyeri/Okul Kızamık içeren aşı
 
@@ -904,11 +905,11 @@ sayıSı) Kızamıkçık içeren aşı Hanede benzer vaka var mı? Çevrede benz
 
 ### TERMİNOLOJI:
 
-Uygun Araştırma: Her şüpheli kızamık/kızamıkçık vakası için sorgulanması gerekli en az değişkenin (yaş, cinsiyet, döküntünün başlama tarihi, örnek alınma tarihi, aşılı olma durumu, seyahat öyküsü) sorgulanmış olmasıdır. , Bunlara ek olarak; her bir şüpheli vaka için pidemiyolojik ilişki araştırması da yürütülmüş olmalıdır. Uygun Serum Örneği: Döküntü başlangıcından sonraki 28 gün içinde alınmış, hemolize edilmeden ayrılmış, soğuk zincire uygun olarak saklanmış ve gönderilmiş serum örneğidir. Indeks vaka: Bir salgındaki ilk vakadır. Sekonder (ikincil) vakalar: Indeks vakadan sonra görülen ve onunla pidemiyolojik ilişkisi olan ve indeks vaka tarafindan enfekte edilmiş vakalardır. Epidemiyolojik İlişki: Bir başka kızamık vakası ile temas. Bu temas direkt yüz yüze karşılaşma olabileceği gibi, aynı ortamda bulunma (bölgede oturma, bölgeye ziyaret ya da aynı okula gitme, ortak kullanılan eşyalar, vb) olarak da tanımlanabilir. Sporadik Vaka: Birbiriyle pidemiyolojik ilişkisi olmayan ve tek görülen vakalardır. İmporte Kızamık Virüsü: Kaynağı Türkiye dışından olan kızamık virüsüdür. Bu tür virüsler Türkiye dışında kızamıkla karşılaşmış vakalardan ya da onların Türkiye'de enfekte ettiği kişilerden izole edilecektir. Yerli Kızamık Virüsü: Bir ülkede kızamığın endemik olduğu dönemde dolaşan kızamık virüsüdür. Türkiye'de bugüne kadar izole edilen kızamık virüslerinin D4 ve D6 tipi olduğu saptanmiştır. Bulaş Zinciri/Salgın: Inkübasyon periyodunu göz önüne alınarak aralarında yeterli zamansal, pidemiyolojik ve/veya viral tiplendirme açısından ilişki bulunan iki ya da daha fazla konfirme vaka bulunmasıdır. İmporte Vaka: döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık için 7- 18, kızamıkçık için 12-23 gün) yurt dışında bulunma öyküsü olan ve pidemiyolojik ve/veya virolojik olarak da yabancı kaynaklı enfeksiyona ilişkin kanıtlarla desteklenen vakadır. Yerli Vaka: Importasyonun veya importe vakayla ilişkinin kanıtlanamadığı veya enfeksiyon kaynağı bilinmeyen sporadik vakadır. İmporte Vakayla İlişkili Vaka: İmporte vakayla epidemiyolojik ve/veya virolojik ilişkisi bulunan vakadır. Sıcak Vaka: Kesin vaka ile temas öyküsü olan veya döküntünün başlamasından önceki 3 hafta içerisinde seyahat öyküsü olan veya aşısız veya yaşına göre eksik aşılı olan veya kümelenme gösteren olası kızamık/kızamıkçık vaka tanımına uyan vakadır. İmporte Vakaların Orantısı: Epidemiyolojik araștirma sonucunda importe olarak sınıflandırılan kızamık ya da kızamıkçık vaka sayısının toplam vaka sayısına bölünmesiyle elde edilir. Eliminasyon fazında importe vakaların orantısı artar.
+Uygun Araştırma: Her şüpheli kızamık/kızamıkçık vakası için sorgulanması gerekli en az değişkenin (yaş, cinsiyet, döküntünün başlama tarihi, örnek alınma tarihi, aşılı olma durumu, seyahat öyküsü) sorgulanmış olmasıdır. , Bunlara ek olarak; her bir şüpheli vaka için pidemiyolojik ilişki araştırması da yürütülmüş olmalıdır. Uygun Serum Örneği: Döküntü başlangıcından sonraki 28 gün içinde alınmış, hemolize edilmeden ayrılmış, soğuk zincire uygun olarak saklanmış ve gönderilmiş serum örneğidir. Indeks vaka: Bir salgındaki ilk vakadır. Sekonder (ikincil) vakalar: Indeks vakadan sonra görülen ve onunla pidemiyolojik ilişkisi olan ve indeks vaka tarafından enfekte edilmiş vakalardır. Epidemiyolojik İlişki: Bir başka kızamık vakası ile temas. Bu temas direkt yüz yüze karşılaşma olabileceği gibi, aynı ortamda bulunma (bölgede oturma, bölgeye ziyaret ya da aynı okula gitme, ortak kullanılan eşyalar, vb) olarak da tanımlanabilir. Sporadik Vaka: Birbiriyle pidemiyolojik ilişkisi olmayan ve tek görülen vakalardır. İmporte Kızamık Virüsü: Kaynağı Türkiye dışından olan kızamık virüsüdür. Bu tür virüsler Türkiye dışında kızamıkla karşılaşmış vakalardan ya da onların Türkiye'de enfekte ettiği kişilerden izole edilecektir. Yerli Kızamık Virüsü: Bir ülkede kızamığın endemik olduğu dönemde dolaşan kızamık virüsüdür. Türkiye'de bugüne kadar izole edilen kızamık virüslerinin D4 ve D6 tipi olduğu saptanmiştır. Bulaş Zinciri/Salgın: Inkübasyon periyodunu göz önüne alınarak aralarında yeterli zamansal, pidemiyolojik ve/veya viral tiplendirme açısından ilişki bulunan iki ya da daha fazla konfirme vaka bulunmasıdır. İmporte Vaka: döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık için 7- 18, kızamıkçık için 12-23 gün) yurt dışında bulunma öyküsü olan ve pidemiyolojik ve/veya virolojik olarak da yabancı kaynaklı enfeksiyona ilişkin kanıtlarla desteklenen vakadır. Yerli Vaka: Importasyonun veya importe vakayla ilişkinin kanıtlanamadığı veya enfeksiyon kaynağı bilinmeyen sporadik vakadır. İmporte Vakayla İlişkili Vaka: İmporte vakayla epidemiyolojik ve/veya virolojik ilişkisi bulunan vakadır. Sıcak Vaka: Kesin vaka ile temas öyküsü olan veya döküntünün başlamasından önceki 3 hafta içerisinde seyahat öyküsü olan veya aşısız veya yaşına göre eksik aşılı olan veya kümelenme gösteren olası kızamık/kızamıkçık vaka tanımına uyan vakadır. İmporte Vakaların Orantısı: Epidemiyolojik araștirma sonucunda importe olarak sınıflandırılan kızamık ya da kızamıkçık vaka sayısının toplam vaka sayısına bölünmesiyle elde edilir. Eliminasyon fazında importe vakaların orantısı artar.
 
-Kızamık/Kızamıkçık İnsidans Hızı: Tanımlanmış bir coğrafi bölgede, bir yılda görülen yeni kızamık veya kızamıkçık vakalarının (importe vakalar hariç, importe vakayla ilişki vakalar dahil) aynı coğrafi bölgedeki toplam nüfusa bölünmesidir. Milyonda olarak ifade edilir. KKS İnsidans Hızı: Tanımlanmış bir coğrafi bölgede, bir yılda görülen yeni KKS vakalarını (importe vakalar hariç) aynı coğrafi bölgedeki canlı doğum sayısına bölünmesidir. Yüzbinde olarak ifade edilir. Salgının/Kümelenmenin Büyüklüğü: Epidemiyolojik ve/veya genetik olarak ilişkili tüm bulaş zincirini kapsayan vaka sayısını gösterir. Eliminasyon fazına yaklaşan ve başaran ülkelerde salgınların en az % 80'inde 10'dan az vaka bulunmalıdır. Aşılı Vakaların Orantısı: Aşının etkililiği ile ilişkili sorunların saptanmasına yardımcı olabilir. Bu gösterge salgın sonrasında aşı etkililiğini hesaplamak için de kullanılabilir. Yaş Gruplarına Göre İnsidans Hızı: Hastalığın pidemiyolojisindeki değişiklikleri değerlendirmek için hesaplanır. Yaş gruplarına özel insidans hızı ile, toplumdaki duyarlılık profili ve yaş gruplarına özel aşı kapsayıcılığı yorumlanabilir. Endemik Bulaşın Tekrar Başlaması: Bulaş zincirinin pidemiyolojik ve laboratuvarla doğrulanmış virüsle 12 ay ya da daha uzun süre boyunca kesintisiz olarak devam etmesi durumudur. Ulusal Referans Laboratuvarı: DSO'nün yıllık yeterlilik testinden geçen, DSO tarafindan valide edilmiş yöntemler kullanan ve DSO sürveyans ağı üyesi laboratuvardır. Ulkemizde, halen, RSHMB ve Bölge Hıfzıssıhha laboratuvarları referans laboratuvarı olarak kabul edilmiş 6.3.15. Genişletilmiş Bağışıklama Programı Genelgesi (2009/17)
+Kızamık/Kızamıkçık İnsidans Hızı: Tanımlanmış bir coğrafi bölgede, bir yılda görülen yeni kızamık veya kızamıkçık vakalarının (importe vakalar hariç, importe vakayla ilişki vakalar dahil) aynı coğrafi bölgedeki toplam nüfusa bölünmesidir. Milyonda olarak ifade edilir. KKS İnsidans Hızı: Tanımlanmış bir coğrafi bölgede, bir yılda görülen yeni KKS vakalarını (importe vakalar hariç) aynı coğrafi bölgedeki canlı doğum sayısına bölünmesidir. Yüzbinde olarak ifade edilir. Salgının/Kümelenmenin Büyüklüğü: Epidemiyolojik ve/veya genetik olarak ilişkili tüm bulaş zincirini kapsayan vaka sayısını gösterir. Eliminasyon fazına yaklaşan ve başaran ülkelerde salgınların en az % 80'inde 10'dan az vaka bulunmalıdır. Aşılı Vakaların Orantısı: Aşının etkililiği ile ilişkili sorunların saptanmasına yardımcı olabilir. Bu gösterge salgın sonrasında aşı etkililiğini hesaplamak için de kullanılabilir. Yaş Gruplarına Göre İnsidans Hızı: Hastalığın pidemiyolojisindeki değişiklikleri değerlendirmek için hesaplanır. Yaş gruplarına özel insidans hızı ile, toplumdaki duyarlılık profili ve yaş gruplarına özel aşı kapsayıcılığı yorumlanabilir. Endemik Bulaşın Tekrar Başlaması: Bulaş zincirinin pidemiyolojik ve laboratuvarla doğrulanmış virüsle 12 ay ya da daha uzun süre boyunca kesintisiz olarak devam etmesi durumudur. Ulusal Referans Laboratuvarı: DSO'nün yıllık yeterlilik testinden geçen, DSO tarafından valide edilmiş yöntemler kullanan ve DSO sürveyans ağı üyesi laboratuvardır. Ulkemizde, halen, RSHMB ve Bölge Hıfzıssıhha laboratuvarları referans laboratuvarı olarak kabul edilmiş 6.3.15. Genişletilmiş Bağışıklama Programı Genelgesi (2009/17)
 
-### SAĞLIK BAKANLIĞI Temel Sağhk Hizmetleri Genel Müdürlüğü
+### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayl : B100TSH0110005 / Konu : Genişletilmiş Bağışıklama 7941 13.03.2009
 
@@ -918,7 +919,7 @@ Programı Genelgesi
 
 Bağışıklama hizmetlerinde temel amaç; toplumda, özellikle bebek ve çocuklarda aşı ile korunulabilir hastalıkların ortaya çıkışını engellemek, dolayısıyla bu hastalıklardan kaynaklanan ölümlerin ve sakathkların önüne geçmektir. Temel hedefin aşısız çocuk bırakmamak olduğu unutulmamalıdır.
 
-Sağhk Bakanlığının Teşkilat ve Görevleri Hakkında 181 sayılı Kanun Hükmünde Kararname ile Ülkemizde yürütülecek bağışıklama hizmetlerini düzenleme yetkisi Bakanlığımıza verilmiştir. Bu düzenlemeler yapılırken dünyadaki çeşitli gelişmeler takip edilmekte ve akademisyenlerden oluşan Bağışıklama Danışma Kurulu'nun tavsiyeleri dikkate alınmaktadır.
+Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında 181 sayılı Kanun Hükmünde Kararname ile Ülkemizde yürütülecek bağışıklama hizmetlerini düzenleme yetkisi Bakanlığımıza verilmiştir. Bu düzenlemeler yapılırken dünyadaki çeşitli gelişmeler takip edilmekte ve akademisyenlerden oluşan Bağışıklama Danışma Kurulu'nun tavsiyeleri dikkate alınmaktadır.
 
 Genişletilmiş Bağışıklama Programı (GBP) kapsamında Boğmaca, Difteri, Tetanoz, Kızamık, Kızamıkçık, Kabakulak, Tüberküloz, Poliomyelit, Hepatit-B, Hemofilus influenza tip b'ye bağlı hastalıklar ile streptokokus pnömoniya'ya bağhı invaziv pnömokokal hastalıkların ve bu hastalıklardan kaynaklanan bebek ve çocuk ölümlerinin ve sakatlıkların engellenmesi hedeflenmektedir.
 
@@ -1022,7 +1023,7 @@ sayn Sonyn 1.sinif 8.SInif Hep B BCG DaBT-IPA-Hib R
 
 KKK OPA Td Hep B: Hepatit B AșISI BCG: Bacille Calmette-Guerin AŞISI DaBT-IPA-Hib: Difteri, aselüler Boğmaca, Tetanoz, Inaktif Polio, Hemofilus influenza tip b Aşısı (Beşli Karma Ași) KKK: Kızamık, Kızamıkçık, Kabakulak Aşısı OPA: Oral Polio A$IS1 Td: Erişkin Tipi Difteri-Tetanoz AşIsı KPA: Konjuge Pnömokok Aşısı R: Rapel (Pekiştime)
 
-2) 1 Yaş Üstü Hiç Aşılanmamış Çocuklarda Aşılama Şeması A ) 6 yaşından küçük ve yaşamının ilk yılında hiç aşılanmamış çocuklarda aşılama şeması (12-71 ay): 11k karşılaşma DaBT-IPA-Hib, Hep B, ppd ile TCT İlk karşılaşmadan 2 gün sonra KKK, TCT sonucuna göre gerekiyorsa BCG İlk karşılaşmadan 2 ay sonra DaBT-IPA-Hib, Hep B IIk karşılaşmadan 8 ay sonra DaBT-IPA-Hib, Hep B, OPA Çocukluk çağı aşılama takvimine okul aşıları ile devam edilecektir. ppd: pürifiye protein derivesi TCT: Tüberkülin Cilt Testi B ) 6 yaș üzerinde ve daha önce hiç așılanmamış çocuklarda aşılama şeması (72 ay ve üzeri): Ilk karşılaşma Td, OPA, Hep B, KKK İlk karşılaşmadan 1 ay sonra Td, OPA, Hep B, KKK Ilk karşılaşmadan 8 ay sonra Td, OPA, Hep B Așı takviminde belirtilen aralıklara göre aşıları tamamlanamamış çocuklarda önceki aşı dozlarının tekrar yapılmasına gerek yoktur. Aradan uzun bir süre geçmiş olsa bile, aşılamaya bırakılan yerden devam edilir, eksik aşılı çocuk saptandığında yaşına uygun olarak yukarıdaki şemalara göre aşıları tamamlanır. 3- Doğurganlık Çağı Kadın/Gebe Aşılamaları Doğurganlık Çağı (15- 49 Yaş) /Gebe Kadınlardaki Tetanoz Aşı Takvimi Doz sayısı Uygulama zamanı Koruma süresi Td 1 Gebeliğin 4. ayında - Ilk karşılaşmada Yok Td 2 Td l'den en az 4 hafta sonra 1-3 yıl Td 3 Td 2'den en az 6 ay sonra 5 yıl Td 4 Td 3'den en az 1 yıl sonra ya da bir sonraki gebelikte 10 yıl Td 5 Td 4'den en az 1 yıl sonra ya da bir sonraki gebelikte Doğurganlık çağı boyunca Hiç aşılanmamış gebelerin en az iki doz Td aşısı almaları sağlanmalıdır. Ikinci doz doğumdan en az iki hafta önce tamamlanmalıdır. Yeterli süre sağlanamadıysa tek doz Td almış gebenin ve bebeğinin tetanoz hastalığı açısından risk altında olduğu dikkate alınmalıdır. Temiz doğum şartlarının sağlanması ve bebeğin göbek bakımının doğru yapılması daha da önem Kayıtlı tetanoz toksoid dozu olanlar: GBP kapsamında 1980 yılı ve sonrasında doğan kişilerin büyük bölümüne erken çocukluk döneminde veya okul çağında tetanoz aşısı uygulaması yapılmış ve bu çocukların bir kısmı doğurganlık çağına ulaşmıştır. 1980'den sonra doğan kadınların aşı kayıtlarının bulunması durumunda, uygun aralıklarla yapılmış en az 3 doz DBT/Td/TT, doğurganlık çağında yapılmış 2 doz TT/Td dozu yerine sayılır ve aşı takvimine kalındığı yerden devam edilir.
+2) 1 Yaş Üstü Hiç Aşılanmamış Çocuklarda Aşılama Şeması A ) 6 yaşından küçük ve yaşamının ilk yılında hiç aşılanmamış çocuklarda aşılama şeması (12-71 ay): 11k karşılaşma DaBT-IPA-Hib, Hep B, ppd ile TCT İlk karşılaşmadan 2 gün sonra KKK, TCT sonucuna göre gerekiyorsa BCG İlk karşılaşmadan 2 ay sonra DaBT-IPA-Hib, Hep B IIk karşılaşmadan 8 ay sonra DaBT-IPA-Hib, Hep B, OPA Çocukluk çağı aşılama takvimine okul aşıları ile devam edilecektir. ppd: pürifiye protein derivesi TCT: Tüberkülin Cilt Testi B ) 6 yaș üzerinde ve daha önce hiç așılanmamış çocuklarda aşılama şeması (72 ay ve üzeri): Ilk karşılaşma Td, OPA, Hep B, KKK İlk karşılaşmadan 1 ay sonra Td, OPA, Hep B, KKK Ilk karşılaşmadan 8 ay sonra Td, OPA, Hep B Așı takviminde belirtilen aralıklara göre aşıları tamamlanamamış çocuklarda önceki aşı dozlarının tekrar yapılmasına gerek yoktur. Aradan uzun bir süre geçmiş olsa bile, aşılamaya bırakılan yerden devam edilir, eksik aşılı çocuk saptandığında yaşına uygun olarak yukarıdaki şemalara göre aşıları tamamlanır. 3- Doğurganlık Çağı Kadın/Gebe Aşılamaları Doğurganlık Çağı (15- 49 Yaş) /Gebe Kadınlardaki Tetanoz Aşı Takvimi Doz sayısı Uygulama zamanı Koruma süresi Td 1 Gebeliğin 4. ayında - Ilk karşılaşmada Yok Td 2 Td l'den en az 4 hafta sonra 1-3 yıl Td 3 Td 2'den en az 6 ay sonra 5 yıl Td 4 Td 3'den en az 1 yıl sonra ya da bir sonraki gebelikte 10 yıl Td 5 Td 4'den en az 1 yıl sonra ya da bir sonraki gebelikte Doğurganlık çağı boyunca Hiç aşılanmamış gebelerin en az iki doz Td aşısı almaları sağlanmalıdır. İkinci doz doğumdan en az iki hafta önce tamamlanmalıdır. Yeterli süre sağlanamadıysa tek doz Td almış gebenin ve bebeğinin tetanoz hastalığı açısından risk altında olduğu dikkate alınmalıdır. Temiz doğum şartlarının sağlanması ve bebeğin göbek bakımının doğru yapılması daha da önem Kayıtlı tetanoz toksoid dozu olanlar: GBP kapsamında 1980 yılı ve sonrasında doğan kişilerin büyük bölümüne erken çocukluk döneminde veya okul çağında tetanoz aşısı uygulaması yapılmış ve bu çocukların bir kısmı doğurganlık çağına ulaşmıştır. 1980'den sonra doğan kadınların aşı kayıtlarının bulunması durumunda, uygun aralıklarla yapılmış en az 3 doz DBT/Td/TT, doğurganlık çağında yapılmış 2 doz TT/Td dozu yerine sayılır ve aşı takvimine kalındığı yerden devam edilir.
 
 ### B-) AȘI UYGULAMALARINDA GENEL KURALLAR:
 
@@ -1176,19 +1177,19 @@ Enjektör Güvenli Atık Kutusu da kullanılmalıdır.
 
 Aşıyı uygulamak kadar düzenli aşı kaydı tutmanın da önemli olduğu bilinmelidir. Aşı uygulamalarının ilgili tüm kayıt formlarına zamanında, tam ve doğru olarak kaydedilmesi sağlanmalıdır. Aşı Sonrası Istenmeyen Etki (ASIE) izleme sisteminin gereği olarak yapılan tüm aşıların ve varsa sulandırıcılarının lot numarası da kayıt formlarına işlenmelidir. DaBT-IPA-Hib beşli karma aşısının paket üzerindeki lot numarası, aşı lot numarası olarak kullanılmalıdır. GBP uygulamalarında kullanılacak olan Form 012A ve 012B, Form 013 ve 013B, Bölge Dışı Aşı Bildirim Formu, Aylık GBP Sürveyans Formu, Aşı Kartları ve Aşı İzlem Çizelgeleri örnekleri Ek-l'de bulunmaktadır.
 
-Ülkemizdeki aşı uygulamalarında halen, Sağlık Bakanlığı tarafindan temin edilen aşılar (kamu aşısı) yanında özel sektör tarafindan sağlanan aşılar da (özel aşı) kullanılmaktadır. Ayrıca Sağlık Bakanlığı tarafindan sağlanan GBP aşıları ücretsiz uygulanmak ve bildirimde bulunmak kaydı ile talep eden diğer sağlık kuruluşlarına da "Taşınır Mal Yönetmeliği" kurallarına uygun olarak verilebilir.
+Ülkemizdeki aşı uygulamalarında halen, Sağlık Bakanlığı tarafından temin edilen aşılar (kamu aşısı) yanında özel sektör tarafından sağlanan aşılar da (özel aşı) kullanılmaktadır. Ayrıca Sağlık Bakanlığı tarafından sağlanan GBP aşıları ücretsiz uygulanmak ve bildirimde bulunmak kaydı ile talep eden diğer sağlık kuruluşlarına da "Taşınır Mal Yönetmeliği" kurallarına uygun olarak verilebilir.
 
 ### KAYIT VE BİLDİRİM FORMLARI:
 
-• Form 012 (Aşı Kayıt Fişi): Temel aşı kayıt formudur. 0-59 ay bebekler için Form 012A, 5 yaş ve üzeri için 012B formu kullanılır. Bu formlarda Sağlık Ocağı/Aile Hekimi tarafindan uygulanan tüm kamu aşıları siyah kalemle kaydedilir.
+• Form 012 (Aşı Kayıt Fişi): Temel aşı kayıt formudur. 0-59 ay bebekler için Form 012A, 5 yaş ve üzeri için 012B formu kullanılır. Bu formlarda Sağlık Ocağı/Aile Hekimi tarafından uygulanan tüm kamu aşıları siyah kalemle kaydedilir.
 
-Kişinin bağlı olduğu Sağlık Ocağı/Aile Hekimi dışında başka bir kurum tarafindan aşılanması durumunda aşının yapıldığı Sağlık Ocağı/Aile Hekimi tarafindan misafir Form
+Kişinin bağlı olduğu Sağlık Ocağı/Aile Hekimi dışında başka bir kurum tarafından aşılanması durumunda aşının yapıldığı Sağlık Ocağı/Aile Hekimi tarafından misafir Form
 
-*Bölge Dışı Aşı Bildirim Formu" doldurularak ilgili Sağlık Ocağına/Aile Hekimine ulaştırılır. Bu kayıt bağlı olduğu Sağlık Ocağı/Aile Hekimi tarafindan Form 012A/B'ye mavi renkli bir kalemle işlenir. Bu dozlar da Sağlık Ocağı/Aile Hekimi tarafindan eksik aşılıların takibinde ve bölge aşı hızlarının hesabında dikkate alınır. Okul aşılamalarında da öğrencinin kayıtlı olduğu Sağlık Ocağı/Aile Hekimine bildirimin yapılması gerekir. Ay sonunda bu aşılar aşıyı uygulayan birim tarafindan Form 013'e kaydedilerek bildirilir.
+*Bölge Dışı Aşı Bildirim Formu" doldurularak ilgili Sağlık Ocağına/Aile Hekimine ulaştırılır. Bu kayıt bağlı olduğu Sağlık Ocağı/Aile Hekimi tarafından Form 012A/B'ye mavi renkli bir kalemle işlenir. Bu dozlar da Sağlık Ocağı/Aile Hekimi tarafından eksik aşılıların takibinde ve bölge aşı hızlarının hesabında dikkate alınır. Okul aşılamalarında da öğrencinin kayıtlı olduğu Sağlık Ocağı/Aile Hekimine bildirimin yapılması gerekir. Ay sonunda bu aşılar aşıyı uygulayan birim tarafından Form 013'e kaydedilerek bildirilir.
 
-Hastaneler gibi Taşınır Mal Yönetmeliğine uygun olarak aşı verilen diğer birimler tarafindan Il Sağlık Müdürlüğü veya bağlı birimlerinden alınıp uygulanan kamu aşıları Form 013 ve uygulanan kişilere ait ad, soyad, doğum tarihi, baba adı, T.C. Kimlik no, adres bilgileri ve aşının adı, lot no., varsa sulandırıcı lot no., kaçıncı doz olduğuna dair bilgileri içeren bir liste ile Il Sağlık Müdürlüğüne bildirilir. Il Sağlık Müdürlükleri tarafından Sağlık Grup Başkanlıkları/TSM ler yolu ile veya doğrudan, aşı kayıtları ilgili Sağlık Ocağına/Aile Hekimine ulaştırılır. Bu kayıt bağlı olduğu Sağlık Ocağı/Aile Hekimi tarafından Form 012A/B'ye mavi renkli bir kalemle işlenir. Bu dozlar da Sağlık Ocağı/Aile Hekimi tarafindan eksik aşılıların takibinde ve bölge aşı hızlarının hesabında dikkate alınır. Ay sonunda bu aşılar aşıyı uygulayan birim tarafından Form 013'e kaydedilerek bildirilir.
+Hastaneler gibi Taşınır Mal Yönetmeliğine uygun olarak aşı verilen diğer birimler tarafından İl Sağlık Müdürlüğü veya bağlı birimlerinden alınıp uygulanan kamu aşıları Form 013 ve uygulanan kişilere ait ad, soyad, doğum tarihi, baba adı, T.C. Kimlik no, adres bilgileri ve aşının adı, lot no., varsa sulandırıcı lot no., kaçıncı doz olduğuna dair bilgileri içeren bir liste ile İl Sağlık Müdürlüğüne bildirilir. İl Sağlık Müdürlükleri tarafından Sağlık Grup Başkanlıkları/TSM ler yolu ile veya doğrudan, aşı kayıtları ilgili Sağlık Ocağına/Aile Hekimine ulaştırılır. Bu kayıt bağlı olduğu Sağlık Ocağı/Aile Hekimi tarafından Form 012A/B'ye mavi renkli bir kalemle işlenir. Bu dozlar da Sağlık Ocağı/Aile Hekimi tarafından eksik aşılıların takibinde ve bölge aşı hızlarının hesabında dikkate alınır. Ay sonunda bu aşılar aşıyı uygulayan birim tarafından Form 013'e kaydedilerek bildirilir.
 
-Özel aşılardan, içeriğinde DaBT-IPA-Hib, KKK, KPA ve Hepatit-B antijenlerini bulunduran aşıları uygulayan kişi ve kuruluşlar tarafından yapılan aşılar, aşılanan kişi ve aşının bilgileri (ad, soyad, T.C. Kimlik no, doğum tarihi, baba adı, adres bilgileri ve aşının adı, lot no., varsa sulandırıcı lot no., kaçıncı doz) ile bir liste halinde aylık olarak bağlı olduğu Sağlık Grup Başkanlığı/TSM/Sağlık Müdürlüğüne gönderilmeli ve aşılanan kişinin kayıtlarının ilgili Sağlık Ocağındaki/Aile Hekimindeki Form 012A/B'ye tam ve doğru aktarılması sağlanmalıdır. Ayrıca saha gezilerinde tespit edilen özel aşılar da kayıt altına alınmalıdır. Özel aşılar tarihleri belirtilerek kırmızı renkli bir kalemle ilgili formlara kaydedilir. Ay sonunda bu aşılar Sağlık Ocağı/Aile Hekimi tarafindan Form 012A/B'den Form 013B'ye aktarılır. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir. Ozel bildirimler veya saha gezileri sırasında tespit edilen GBP hedef antijenleri dışında uygulandığı tespit edilen diğer antijenler Form 012A/B'nin "Diğer" sütununa kaydedilir, bu aşıların bildirimi yapılmaz.
+Özel aşılardan, içeriğinde DaBT-IPA-Hib, KKK, KPA ve Hepatit-B antijenlerini bulunduran aşıları uygulayan kişi ve kuruluşlar tarafından yapılan aşılar, aşılanan kişi ve aşının bilgileri (ad, soyad, T.C. Kimlik no, doğum tarihi, baba adı, adres bilgileri ve aşının adı, lot no., varsa sulandırıcı lot no., kaçıncı doz) ile bir liste halinde aylık olarak bağlı olduğu Sağlık Grup Başkanlığı/TSM/Sağlık Müdürlüğüne gönderilmeli ve aşılanan kişinin kayıtlarının ilgili Sağlık Ocağındaki/Aile Hekimindeki Form 012A/B'ye tam ve doğru aktarılması sağlanmalıdır. Ayrıca saha gezilerinde tespit edilen özel aşılar da kayıt altına alınmalıdır. Özel aşılar tarihleri belirtilerek kırmızı renkli bir kalemle ilgili formlara kaydedilir. Ay sonunda bu aşılar Sağlık Ocağı/Aile Hekimi tarafından Form 012A/B'den Form 013B'ye aktarılır. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir. Ozel bildirimler veya saha gezileri sırasında tespit edilen GBP hedef antijenleri dışında uygulandığı tespit edilen diğer antijenler Form 012A/B'nin "Diğer" sütununa kaydedilir, bu aşıların bildirimi yapılmaz.
 
 • Form 012A (0-59 ay aşı kayıt fişi): Temel aşı kayıt formudur. Bu formda kurum tarafından uygulanan tüm kamu aşıları siyah kalemle kaydedilir. Bu form Sağlık Ocağı bölgesinin büyüklüğüne göre her Sağlık Evi veya Muhtarlık, sokak, vb. düzeyinde hazırlanır. Doğan, tespit edilen veya Sağlık Ocağı bölgesine gelen her bebek, Ev Halkı Tespit Fişi (ETF), Form 004, Form 006 ve Form 012A'ya kaydedilir. Aile Hekimleri de kayıtlı bebek ve çocuklarını Form 012A'ya kaydeder. Form 012A'da yapılan aşıların her biri tarih, gün-ay-yıl olarak ilgili alana kaydedilmeli, așının ve varsa sulandiricisinın lot no'su da belirtilmelidir.
 
@@ -1196,13 +1197,13 @@ Bu forma diğer sağlık birimleri ve özel hekimler tarafından yapılan aşıl
 
 Form 012A'da bulunan "doğumda neonatal tetanoza karşı korunmuş çocuk" bölümü aşağıdaki bilgiler doğrultusunda doldurulur:
 
-Yeni doğan veya tespit edilen her bebek, Form 012A'ya kaydedilirken annenin tetanoz aşılanma durumu sorgulanır. Yeni doğanın doğumda tetanoza karşı korunup korunmadığı aşağıdaki tabloda belirtilen aşı dozları arasındaki minimum aralıklara ve yapılan dozdan sonraki koruma sürelerine göre değerlendirilir. Eğer çocuk son geçerli doz tarafindan sağlanan korunma döneminde doğduysa, neonatal tetanoza karşı korunmuş olarak işaretlenir. Çocuk doğduğunda korunma dönemi başlamamışsa, bitmişse veya anne hiç aşılanmamış ise doğumda neonatal tetanoza karşı korunmamış olarak işaretlenir. Anneye yapılmış dozlar Koruma süresi Bir geçerli doz Yok Iki geçerli doz (Tdl' den en az 4 hafta sonra) Aşıdan 15 gün sonra başlayan, 3 yıllık koruma Üç geçerli doz (Td2'den en az 6 ay sonra) Aşıdan 15 gün sonra başlayan, 5 yıllık korunma Dört geçerli doz (Td3'den en az 1 yıl sonra) Aşıdan 15 gün sonra başlayan, 10 yıllık korunma Beş geçerli doz (Td4' den en az 1 yıl sonra) | Doğurganlık çağı boyunca korunma
+Yeni doğan veya tespit edilen her bebek, Form 012A'ya kaydedilirken annenin tetanoz aşılanma durumu sorgulanır. Yeni doğanın doğumda tetanoza karşı korunup korunmadığı aşağıdaki tabloda belirtilen aşı dozları arasındaki minimum aralıklara ve yapılan dozdan sonraki koruma sürelerine göre değerlendirilir. Eğer çocuk son geçerli doz tarafından sağlanan korunma döneminde doğduysa, neonatal tetanoza karşı korunmuş olarak işaretlenir. Çocuk doğduğunda korunma dönemi başlamamışsa, bitmişse veya anne hiç aşılanmamış ise doğumda neonatal tetanoza karşı korunmamış olarak işaretlenir. Anneye yapılmış dozlar Koruma süresi Bir geçerli doz Yok Iki geçerli doz (Tdl' den en az 4 hafta sonra) Aşıdan 15 gün sonra başlayan, 3 yıllık koruma Üç geçerli doz (Td2'den en az 6 ay sonra) Aşıdan 15 gün sonra başlayan, 5 yıllık korunma Dört geçerli doz (Td3'den en az 1 yıl sonra) Aşıdan 15 gün sonra başlayan, 10 yıllık korunma Beş geçerli doz (Td4' den en az 1 yıl sonra) | Doğurganlık çağı boyunca korunma
 
-• Form 012B (5 yaş üzeri așı kayıt fişi): 012A gibi temel aşı kayıt formudur. Bu formda kurum tarafindan uygulanan tüm kamu aşıları siyah kalemle kaydedilir. 5 yaşını geçen kişilere yapılan GBP aşıları bu forma tarih, gün-ay-yıl olarak belirtilerek aşının ve varsa sulandırıcısının lot no'su ile kaydedilmelidir. Bu forma ayrıca, diğer sağlık birimleri ve özel hekimler tarafından yapılan aşılar da tarihleri belirtilerek farkhı renkte bir kalemle kaydedilir (Kamu aşıları için mavi, özel aşılar için kırmızı renkli kalem kullanılmalıdır). Form 012A ile birlikte, Form 013 ve Form 013B'nin veri kaynağıdır. Okul çağı ve erişkin dönem aşılamalarının da bu forma kaydedilmesi gerektiği unutulmamalıdır.
+• Form 012B (5 yaş üzeri așı kayıt fişi): 012A gibi temel aşı kayıt formudur. Bu formda kurum tarafından uygulanan tüm kamu aşıları siyah kalemle kaydedilir. 5 yaşını geçen kişilere yapılan GBP aşıları bu forma tarih, gün-ay-yıl olarak belirtilerek aşının ve varsa sulandırıcısının lot no'su ile kaydedilmelidir. Bu forma ayrıca, diğer sağlık birimleri ve özel hekimler tarafından yapılan aşılar da tarihleri belirtilerek farkhı renkte bir kalemle kaydedilir (Kamu aşıları için mavi, özel aşılar için kırmızı renkli kalem kullanılmalıdır). Form 012A ile birlikte, Form 013 ve Form 013B'nin veri kaynağıdır. Okul çağı ve erişkin dönem aşılamalarının da bu forma kaydedilmesi gerektiği unutulmamalıdır.
 
-• Form 013: Sağlık Ocağı, Aile Hekimi (AH), Toplum Sağlığı Merkezi (TSM), diğer kuruluşlar ve Sağlık Müdürlüğü düzeyinde, yapılan aşıların ve aşı, antiserum, enjektör ve atık kutusu stok durumunun aylık olarak bir üst kademeye bildirilmesi için kullanılır. Her ayın sonunda Sağlık Ocağı, AH ve TSM tarafindan, o ay yapılan aşılar Form 012A'dan ve Form 012B'den, yaş grubuna göre ayrılarak, bu forma aktarılır. Kurumlarda Form 013 hazırlanırken sadece o kurumda uygulanan kamu aşıları bildirilecektir. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir.
+• Form 013: Sağlık Ocağı, Aile Hekimi (AH), Toplum Sağlığı Merkezi (TSM), diğer kuruluşlar ve Sağlık Müdürlüğü düzeyinde, yapılan aşıların ve aşı, antiserum, enjektör ve atık kutusu stok durumunun aylık olarak bir üst kademeye bildirilmesi için kullanılır. Her ayın sonunda Sağlık Ocağı, AH ve TSM tarafından, o ay yapılan aşılar Form 012A'dan ve Form 012B'den, yaş grubuna göre ayrılarak, bu forma aktarılır. Kurumlarda Form 013 hazırlanırken sadece o kurumda uygulanan kamu aşıları bildirilecektir. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir.
 
-Hep B 1. dozunun ilk 72 saat içinde uygulanması Hepatit B Kontrol Programının gereğidir ve bu uygulamanın Sağlık Ocağı/Aile Hekimi, Il ve Ülke düzeyinde takibi gereklidir. Doğumda hastanede uygulanan Hep B 1. doz aşılarının Sağlık Ocağı/Aile Hekimi tarafindan takip edilebilmesi amacıyla bu aşının bildirimi, Form 013 ile bebeğin bağlı olduğu kurum tarafından da yapılmalıdır. Ay sonunda, Sağlık Ocağı/Aile Hekimine hastanelerde uygulandığı bildirilen Hep B
+Hep B 1. dozunun ilk 72 saat içinde uygulanması Hepatit B Kontrol Programının gereğidir ve bu uygulamanın Sağlık Ocağı/Aile Hekimi, İl ve Ülke düzeyinde takibi gereklidir. Doğumda hastanede uygulanan Hep B 1. doz aşılarının Sağlık Ocağı/Aile Hekimi tarafından takip edilebilmesi amacıyla bu aşının bildirimi, Form 013 ile bebeğin bağlı olduğu kurum tarafından da yapılmalıdır. Ay sonunda, Sağlık Ocağı/Aile Hekimine hastanelerde uygulandığı bildirilen Hep B
 
 1. doz uygulamaları Form 012 A kaynak alınarak Form 013'ün ilgili bölümünde (Bölge dışı) gösterilir. Bu bölümde Bl (Bölge içi) bölümüne yazılan doz sayısı Sağlık Ocağının/Aile Hekiminin uygulamalarını, BD (Bölge dışı) bölümüne yazılan doz sayısı hastanede yapılan uygulamaları gösterdiğinden iki bölümün toplamı Sağlık Ocağı/Aile Hekiminin Hep B 1 aşılama hızının hesaplanmasında kullanılır. BI (Bölge içi) bölümüne yazılan doz sayısı Sağlık Ocağının/Aile Hekiminin lojistik takibinde de kullanılır. Mükerrer bildirimin önlenmesi için il Hep B 1. doz aşılama hızı hesaplanmasında Sağlık Ocağı/Aile Hekimlerinin Form 013'de Bl bölümünde gösterilen doz sayıları ile hastane tarafından gönderilen Form 013 doz sayıları toplamı
 
@@ -1210,11 +1211,11 @@ Form 013 takip eden ayın ilk haftası içinde Sağlık Müdürlüğüne ulaşt�
 
 • Form 013B: Özel aşılardan içeriğinde; DaBT-IPA-Hib, KKK, KPA ve Hepatit-B antijenlerini bulunduran aşıların bildirimi için kullanılır. Bu uygulamayı yapan kişi ve
 
-liste aylık olarak bağlı olduğu Başkanlığı/TSM/Sağlık Müdürlüğü yoluyla ilgili Sağlık Ocağı/Aile Hekimine ulaştırılır ve Form 012A/B'ye aktarılır. Ayrıca saha gezilerinde tespit edilen özel aşılar da kayıt altına alınmalıdır. Özel aşılar tarihleri belirtilerek kırmızı renkli bir kalemle ilgili formlara kaydedilir. Ay sonunda bu aşılar Sağlık Ocağı/Aile Hekimi tarafindan Form 012A/B'den Form 013B'ye aktarılır. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir.
+liste aylık olarak bağlı olduğu Başkanlığı/TSM/Sağlık Müdürlüğü yoluyla ilgili Sağlık Ocağı/Aile Hekimine ulaştırılır ve Form 012A/B'ye aktarılır. Ayrıca saha gezilerinde tespit edilen özel aşılar da kayıt altına alınmalıdır. Özel aşılar tarihleri belirtilerek kırmızı renkli bir kalemle ilgili formlara kaydedilir. Ay sonunda bu aşılar Sağlık Ocağı/Aile Hekimi tarafından Form 012A/B'den Form 013B'ye aktarılır. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir.
 
 Form 013B, takip eden ayın ilk haftası içinde Sağlık Müdürlüğüne gönderilir. Sağlık Müdürlüğüne gelen formlar kontrolleri yapılarak, en geç ayın 20'sine kadar TSIM programına girilir ve en geç ay sonunda Bakanlıkta olacak şekilde tek bir form halinde Bakanlığa ulaştırılır.
 
-• Bölge Dışı Aşı Bildirim Formu: Kişinin bağlı olduğu Sağlık Ocağı/Aile Hekimi dışında başka bir sağlık kurumu tarafindan aşılanması durumunda ilgili Sağlık Ocağına/Aile Hekimine
+• Bölge Dışı Aşı Bildirim Formu: Kişinin bağlı olduğu Sağlık Ocağı/Aile Hekimi dışında başka bir sağlık kurumu tarafından aşılanması durumunda ilgili Sağlık Ocağına/Aile Hekimine
 
 • Form 004 (Kişisel Sağlık Fişi): Her aşı seansından sonra Form 012A ve B aşı kayıt formlarına kaydedilen aşılar, tarihi gün-ay-yıl olarak belirtilecek şekilde bu forma aktarılır.
 
@@ -1522,7 +1523,7 @@ GBP için gerekli aşı ve malzemeler sevk dönemlerinde ve düzenli aralıklarl
 
 Aşının depolandığı yer Sevk dönemleri
 
-Bölge deposu ve Il deposu
+Bölge deposu ve İl deposu
 
 Ilçe deposu / TSM
 
@@ -1530,7 +1531,7 @@ Sağlık Ocağı / Aile Hekimi Ayda bir
 
 Sağlık EVI Haftada bir
 
-Kurumların aşı, antiserum ve malzeme ihtiyaçları bu sevk dönemi süreleri dikkate alınarak hesaplanır. Sağlık Bakanlığı merkez deposundan Il Sağlık Müdürlüklerine aşı ve antiserum dağıtımı aşağıda belirtilen dönemler için, ilgili dönemin ilk ayında il deposunda olacak şekilde yapılmaktadır.
+Kurumların aşı, antiserum ve malzeme ihtiyaçları bu sevk dönemi süreleri dikkate alınarak hesaplanır. Sağlık Bakanlığı merkez deposundan İl Sağlık Müdürlüklerine aşı ve antiserum dağıtımı aşağıda belirtilen dönemler için, ilgili dönemin ilk ayında il deposunda olacak şekilde yapılmaktadır.
 
 Sevk dönemi Aylar
 
@@ -1580,7 +1581,7 @@ Olağanüstü durumlar, aşı sevkiyatında gecikme veya talepte beklenmedik bir
 
 Rezerv stok miktarı; merkez depoda 3 aylık, bölge ve il depolarında 1 aylık, ilçe ve Sağlık Ocağı/Aile Hekimliği depolarında 1 haftalık ihtiyacı karşılayacak şekilde planlanmalıdır.
 
-Il depolarında merkez depodan nakliyat zamanı da hesaplanarak rezerv stoğa ihtiyaç duyulmadan önce yeni aşı talepleri yapılmalıdır. Rezerv stok aşıları diğer aşılardan ayrı bir yerde tutulmamalıdır. Rezerv stok için planlanan aşılar her bir sevkiyatta yenileri ile değiştirilmeli, daha erken miatlı aşıların kullanımına öncelik verilmelidir.
+İl depolarında merkez depodan nakliyat zamanı da hesaplanarak rezerv stoğa ihtiyaç duyulmadan önce yeni aşı talepleri yapılmalıdır. Rezerv stok aşıları diğer aşılardan ayrı bir yerde tutulmamalıdır. Rezerv stok için planlanan aşılar her bir sevkiyatta yenileri ile değiştirilmeli, daha erken miatlı aşıların kullanımına öncelik verilmelidir.
 
 Açılan aşıların kullanım sürelerinin sınırlı olması ve enjektörlerdeki ölü boşluklar vb. nedenlerle çok dozlu flakonlardaki aşının tamamı kullanılamayabilir. Açılan flakonlardaki aşıdan kullanılamayan miktarın açılan doza oranına fire payı denir. Bunun 100 ile çarpımı fire yüzdesini donmaya veya sıcağa maruz kalan aşılar, miadının dolması gibi nedenlerle aşının kullanılamaz hale gelmesi) ise zayi olarak tanımlanmaktadır. Zayi öngörülmeyen bir kayıp olduğundan ihtiyaç
 
@@ -1620,11 +1621,11 @@ miadı (kullanım süresi) daha önce dolacak aşıların kullanımına öncelik
 
 dolmuş olanlar imha edilmelidir.
 
-• Gönderilen aşılar farklı firmalar tarafindan üretildiğinden uygulama dozları için mutlaka
+• Gönderilen aşılar farklı firmalar tarafından üretildiğinden uygulama dozları için mutlaka
 
 prospektüsleri kontrol edilmelidir.
 
-• Il depolarında bulunan soğuk hava depoları, buzdolapları ve sağlık kuruluşlarında bulunan
+• İl depolarında bulunan soğuk hava depoları, buzdolapları ve sağlık kuruluşlarında bulunan
 
 buzdolaplarının içerisine aşı, antiserum, buz aküsü ve su bidonlarından başka hiçbir
 
@@ -1664,7 +1665,7 @@ adı, soyadı bulunmalıdır.
 
 • Illerden kurumlara aylık olarak yapılan aşı sevklerinde 4 saate kadar olan mesafelere askılı tip aşı nakil kabı kullanılabilir. Daha uzun mesafeler için uzun ömürlü aşı nakil kabı kullanılmalıdır.
 
-• Il içi aşı nakillerinin Il Soğuk Zincir Sorumlusunun gözetiminde merkezden kurumlara tek elden yürütülmesi esastır. Bu amaçla kullanılmak üzere aşı nakil araçları hizmete sunulmalıdır.
+• İl içi aşı nakillerinin İl Soğuk Zincir Sorumlusunun gözetiminde merkezden kurumlara tek elden yürütülmesi esastır. Bu amaçla kullanılmak üzere aşı nakil araçları hizmete sunulmalıdır.
 
 • Her yıl, ilin soğuk zincir malzemesi mevcudu, periyodik bakım ve tamir gerektirenler ile yeni malzeme ihtiyacı belirlenmeli, onarımı veya temini sağlanmalı, ilgili malzemenin servis sözleşmeleri yenilenmelidir.
 
@@ -1758,7 +1759,7 @@ olarak imhası sağlanmalıdır.
 
 ### J-) GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMINDA ÇALIŞAN PERSONELIN GOREV VE SORUMLULUKLARI İL DÜZEYİNDE YAPILACAK İŞLER:
 
-Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi, Illerde bağışıklama hizmetlerinin planlama, izleme, denetleme, değerlendirme ve lojistiğinden sorumlu bir ekibin bulunmasını gerektirmektedir. Ekibin başkanı İl Sağlık Müdürü'dür ve bağışıklama hizmetlerinin il düzeyinde yürütülmesinden birinci derecede sorumludur. II Aşı Sorumlusu; bulaşıcı hastalıklardan sorumlu Sağlık Müdür Yardımcısı veya Bulaşıcı Hastalıklar Şube Müdürü olabileceği gibi, ilin durumuna göre Sağlık Müdür Yardımcısına bağlı olarak çalışacak, tam gün Sağlık Müdürlüğünde görevli ve sadece GBP'den sorumlu ve bu konuda yetkili olacak başka bir hekim de olabilir. Şube olarak il düzeyinde bağışıklama hizmetlerinin yürütülmesinden Bulaşıcı Hastalıklar Şubesi sorumludur. Il Soğuk Zincir Sorumlusu, tam gün Sağlık Müdürlüğünde çalışan hekim dışı sağlık personeli olmalıdır. İl Aşı Sorumlusu ve Il Soğuk Zincir Sorumlusunun, iş yüklerinin paylaşılması ve bu kişilerin yokluğunda işlerin aksamadan yürütülebilmesi için yardımcıları olmalıdır. İl Aşı Sorumlusu ve Yardımcısının Görevleri:
+Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi, İllerde bağışıklama hizmetlerinin planlama, izleme, denetleme, değerlendirme ve lojistiğinden sorumlu bir ekibin bulunmasını gerektirmektedir. Ekibin başkanı İl Sağlık Müdürü'dür ve bağışıklama hizmetlerinin il düzeyinde yürütülmesinden birinci derecede sorumludur. İl Aşı Sorumlusu; bulaşıcı hastalıklardan sorumlu Sağlık Müdür Yardımcısı veya Bulaşıcı Hastalıklar Şube Müdürü olabileceği gibi, ilin durumuna göre Sağlık Müdür Yardımcısına bağlı olarak çalışacak, tam gün Sağlık Müdürlüğünde görevli ve sadece GBP'den sorumlu ve bu konuda yetkili olacak başka bir hekim de olabilir. Şube olarak il düzeyinde bağışıklama hizmetlerinin yürütülmesinden Bulaşıcı Hastalıklar Şubesi sorumludur. İl Soğuk Zincir Sorumlusu, tam gün Sağlık Müdürlüğünde çalışan hekim dışı sağlık personeli olmalıdır. İl Aşı Sorumlusu ve İl Soğuk Zincir Sorumlusunun, iş yüklerinin paylaşılması ve bu kişilerin yokluğunda işlerin aksamadan yürütülebilmesi için yardımcıları olmalıdır. İl Aşı Sorumlusu ve Yardımcısının Görevleri:
 
 1. Bakanlık politika ve stratejileri doğrultusunda, ilin bağışıklama hizmetlerindeki mevcut durumu ve kaynaklarını göz önünde bulundurarak, bağışıklama hizmetlerinin amaç ve hedeflerini tespit etmek, yıllk plan ve programları hazırlamak;
 
@@ -1786,7 +1787,7 @@ Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi, I
 
 • Aşılama hizmetlerinin rutin hizmet halinde yürütülmesini sağlamak; rutin hizmetin yanı sıra, hazırlanan yıllık program doğrultusunda gezici ekiplerle aşılama hizmetlerinin en uç noktalara kadar ulaşmasını sağlamak,
 
-• Il genelinde ve Sağlık Ocakları/Aile Hekimleri/TSM'lerde aşılama ve bulașicı hastalıklarla ilgili kayıtların doğru ve düzenli şekilde tutulmasını, İstatistik Şubesi ile koordineli olarak sağlamak,
+• İl genelinde ve Sağlık Ocakları/Aile Hekimleri/TSM'lerde aşılama ve bulașicı hastalıklarla ilgili kayıtların doğru ve düzenli şekilde tutulmasını, İstatistik Şubesi ile koordineli olarak sağlamak,
 
 • Bölge dışı aşı uygulamalarını ilgili Sağlık Müdürlüklerine zaman geçirmeden aylık olarak bildirmek,
 
@@ -1804,7 +1805,7 @@ Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi, I
 
 • Sağlık kurumlarından gönderilen Form 017'leri değerlendirmek, GBP Sürveyans Formu ile karşılaştırmak, aşıyla korunulabilir bulaşıcı hastalıkların insidans ve prevalanslarını tespit etmek ve yıllık pidemiyolojik harita, cetvel ve değerlendirme raporlarını düzenlemek,
 
-• Ilgili şubelerle birlikte, aşılama hızları ile aşı ile korunulabilir bulaşıcı hastalık vaka sayılarını karşılaştırarak değerlendirmek, (Form 023'lerden yararlanarak ilin gebe ve çocuk sayılarını belirleyip yapılan aşılamalarla karşılaştırmak) ve bu doğrultuda bir sonraki yılın hedef ve stratejilerini belirlemek,
+• İlgili şubelerle birlikte, aşılama hızları ile aşı ile korunulabilir bulaşıcı hastalık vaka sayılarını karşılaştırarak değerlendirmek, (Form 023'lerden yararlanarak ilin gebe ve çocuk sayılarını belirleyip yapılan aşılamalarla karşılaştırmak) ve bu doğrultuda bir sonraki yılın hedef ve stratejilerini belirlemek,
 
 • Sağlık Grup Başkanlıklarının/TSM'lerin bağlı birimlerinin aşılama çalışmalarını denetlediğini kontrol etmek,
 
@@ -1820,17 +1821,17 @@ așı deposuna girişini, saklanmasını Sağlık Ocakları/Aile Hekimleri/TSM'l
 
 3. Sağlık Müdürlüğü aşı deposundaki ve kurumlardaki soğuk zincir malzemelerinin lojistik durumunu bilmek, ihtiyaçları zamanında tespit etmek ve temin yoluna gitmek, bakım ve onarımını sağlamak,
 
-4. Il aşı deposundaki stok kayıtlarını düzenli şekilde tutmak, kurumlardan aylık olarak gelen Form 013'lerdeki așı stokları ile ilgili bilgileri izlemek ve değerlendirmek,
+4. İl aşı deposundaki stok kayıtlarını düzenli şekilde tutmak, kurumlardan aylık olarak gelen Form 013'lerdeki așı stokları ile ilgili bilgileri izlemek ve değerlendirmek,
 
-5. Il Aşı Sorumlusu ile birlikte kurumların denetimine katılmak, soğuk zincir uygulamalarını yerinde görmek, personelin bu konudaki bilgisini değerlendirmek, yetersiz olduğu konularda hizmet içi eğitim planlamak üzere Eğitim Şubesi ile işbirliği yapmak ve bizzat eğitimlere katılmaktır.
+5. İl Aşı Sorumlusu ile birlikte kurumların denetimine katılmak, soğuk zincir uygulamalarını yerinde görmek, personelin bu konudaki bilgisini değerlendirmek, yetersiz olduğu konularda hizmet içi eğitim planlamak üzere Eğitim Şubesi ile işbirliği yapmak ve bizzat eğitimlere katılmaktır.
 
 ### İLÇE DÜZEYİNDE YAPILACAK İŞLER:
 
-Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi ilçe düzeyinde de sorumlu bir ekibin bulunmasını gerektirmektedir. Ilçelerde ekibin başkanı Sağlık Grup Başkanıdır ve bağışıklama hizmetlerinin ilçe düzeyinde yürütülmesinden birinci derecede sorumludur. İlçe Aşı Sorumlusu, İl Sağlık Müdürü tarafindan Il Aşı Sorumlusunun önerileri doğrultusunda belirlenir. Ilçe Aşı Sorumlusu Sağlık Grup Başkanı olabileceği gibi, ilçede tam gün çalışan, tercihen kalıcı ve deneyimli bir başka hekim de olabilir. Ilçe aşı sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka hekim görevlendirilir. İlde aşı, serum ve enjektörlerin dağıtımının Sağlık Grup Başkanlıkları üzerinden yapıldığı durumlarda İlçe Soğuk Zincir Sorumlusu tam gün Sağlık Grup Başkanlığında çalışan hekim dışı sağlık personeli olmalıdır. Ilçe soğuk zincir sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka personel görevlendirilir. Ilçe Aşı Sorumlusunun Görevleri:
+Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi ilçe düzeyinde de sorumlu bir ekibin bulunmasını gerektirmektedir. Ilçelerde ekibin başkanı Sağlık Grup Başkanıdır ve bağışıklama hizmetlerinin ilçe düzeyinde yürütülmesinden birinci derecede sorumludur. İlçe Aşı Sorumlusu, İl Sağlık Müdürü tarafından İl Aşı Sorumlusunun önerileri doğrultusunda belirlenir. Ilçe Aşı Sorumlusu Sağlık Grup Başkanı olabileceği gibi, ilçede tam gün çalışan, tercihen kalıcı ve deneyimli bir başka hekim de olabilir. Ilçe aşı sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka hekim görevlendirilir. İlde aşı, serum ve enjektörlerin dağıtımının Sağlık Grup Başkanlıkları üzerinden yapıldığı durumlarda İlçe Soğuk Zincir Sorumlusu tam gün Sağlık Grup Başkanlığında çalışan hekim dışı sağlık personeli olmalıdır. Ilçe soğuk zincir sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka personel görevlendirilir. Ilçe Aşı Sorumlusunun Görevleri:
 
 1. Ilçedeki Sağlık Ocakları/Aile Hekimlerinin ve ilçe geneli/TSM Bölgesinin her aşı için, aylık ve yıllık aşılama ve aşıya devamsızlık hızlarını saptamak, gratiklerle göstermek, başarısızlık nedenlerini araştırmak ve Sağlık Ocağı hekimi/TSM sorumlu hekimi ile birlikte alternatif çözümler aramak, aylık olarak aşı ve aşıya devamsızlık hızları ile aşıyla korunabilir hastalık bildirimleri konusunda geri bildirimde bulunmak,
 
-2. Ilçe genelindeki Sağlık Ocaklarının/Aile hekimlerinin Bakanlık politika ve stratejileri doğrultusunda aylık planlar dahilinde denetimlerini yapmak; bu denetimler sonucu hazırlanan denetim raporlarını Il Sağlık Müdürlüğüne göndermek ve tespit edilen aksaklıkların giderilmesi için Sağlık Müdürlüğü ile işbirliği içinde çalışmak,
+2. Ilçe genelindeki Sağlık Ocaklarının/Aile hekimlerinin Bakanlık politika ve stratejileri doğrultusunda aylık planlar dahilinde denetimlerini yapmak; bu denetimler sonucu hazırlanan denetim raporlarını İl Sağlık Müdürlüğüne göndermek ve tespit edilen aksaklıkların giderilmesi için Sağlık Müdürlüğü ile işbirliği içinde çalışmak,
 
 3. Ilçe Aşı Sorumluları, ilçelerindeki Genişletilmiş Bağışıklama Programının ve GBP içinde yer alan Hastalık Programlarının yürütülmesinden birinci dereceden sorumludurlar. Bu
 
@@ -1850,7 +1851,7 @@ Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi il
 
 • ETF kayıtlarının yıl içerisinde sürekli olarak tutulmasını sağlamak; yeni doğan, ölen, göçen ve ilçeye yeni gelenlerin derhal ETF'ye kaydını ve bu kayıtların takibinin yapılmasını
 
-• Gebe ve çocuk izlemlerinin ebe ve hemşireler tarafindan amaca uygun şekilde yapılmasını denetlemek,
+• Gebe ve çocuk izlemlerinin ebe ve hemşireler tarafından amaca uygun şekilde yapılmasını denetlemek,
 
 • Ilçe genelinde bulunan kurumlarda bir asil bir yedek soğuk zincir sorumlusu tespit edilmesini sağlamak,
 
@@ -1888,7 +1889,7 @@ Sağlık Ocağı Aşı Sorumlusunun Görevleri:
 
 • ETF kayıtlarının yıl içerisinde sürekli olarak tutulmasını sağlamak; yeni doğan, ölen, göçen ve bölgeye yeni gelenlerin anında ETF'ye geçilmesini ve bu kayıtların takibinin yapılmasını sağlamak, yıl ortasında ETF'lerden Sağlık Ocağı bölgesi nüfus tespitleri yapıp Sağlık Müdürlüğüne göndermek,
 
-• Gebe ve çocuk izlemlerinin ebe ve hemşireler tarafindan amaca uygun olarak yapılmasını denetlemek,
+• Gebe ve çocuk izlemlerinin ebe ve hemşireler tarafından amaca uygun olarak yapılmasını denetlemek,
 
 • Sağlık Ocağında bir asil bir yedek soğuk zincir sorumlusunu tespit etmek ve denetlemek,
 
@@ -1904,7 +1905,7 @@ Sağlık Ocağı Aşı Sorumlusunun Görevleri:
 
 • Kişisel sağlık fişlerinin eksiksiz tutulmasını sağlamak,
 
-• Sağlık Ocağı Aşı Izlem Çizelgeleri, bulaşıcı hastalıkların aylık, yıllık izlem grafikleri ve haritalarının hazırlanmasını sağlamak,
+• Sağlık Ocağı Aşı İzlem Çizelgeleri, bulaşıcı hastalıkların aylık, yıllık izlem grafikleri ve haritalarının hazırlanmasını sağlamak,
 
 • Üçer aylık ve yıllık değerlendirme raporu ve yıllık faaliyet raporunu hazırlayıp Sağlık Müdürlüğüne göndermek,
 
@@ -1922,7 +1923,7 @@ Sağlık Ocağı Soğuk Zincir Sorumlusunun Görevleri:
 
 ### AİLE HEKİMLİĞİ DÜZEYİNDE YAPILACAK İŞLER:
 
-Aile hekimliği sisteminin yürütüldüğü illerde Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi için her aile hekiminin kayıtlı kişileri özellikle bebek, çocuk ve gebeleri düzenli takip etmesi gerekir. Her aile hekimi ve aile sağlığı elemanı bu konuda bir ekip oluşturur ve sağlık ocağı sistemindeki benzeri çalışmaları yürütür. Aile hekimi kendisine kayıtlı kişiler için aşı sorumlusu iken aile sağlığı elemanı da soğuk zincir sorumlusu olarak görevlidir. Aile hekimleri ve aile sağlığı elemanları bu genelge kapsamında "Sağlık Ocağı Düzeyinde Yapılacak Işleri bölümünde bulunan görevleri mevcut Aile Hekimliği ile ilgili mevzuat çerçevesinde yerine getirirler. Aile Hekimleri ve Aile Sağlığı Elemanları GBP'nin belirlenen hedeflere uygun olarak yürütülmesinden Toplum Sağlığı Merkezine/Sağlık Grup Başkanlığına karşı sorumludur ve TSM'ler tarafindan denetlenirler.
+Aile hekimliği sisteminin yürütüldüğü illerde Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi için her aile hekiminin kayıtlı kişileri özellikle bebek, çocuk ve gebeleri düzenli takip etmesi gerekir. Her aile hekimi ve aile sağlığı elemanı bu konuda bir ekip oluşturur ve sağlık ocağı sistemindeki benzeri çalışmaları yürütür. Aile hekimi kendisine kayıtlı kişiler için aşı sorumlusu iken aile sağlığı elemanı da soğuk zincir sorumlusu olarak görevlidir. Aile hekimleri ve aile sağlığı elemanları bu genelge kapsamında "Sağlık Ocağı Düzeyinde Yapılacak Işleri bölümünde bulunan görevleri mevcut Aile Hekimliği ile ilgili mevzuat çerçevesinde yerine getirirler. Aile Hekimleri ve Aile Sağlığı Elemanları GBP'nin belirlenen hedeflere uygun olarak yürütülmesinden Toplum Sağlığı Merkezine/Sağlık Grup Başkanlığına karşı sorumludur ve TSM'ler tarafından denetlenirler.
 
 ### K-) AŞI SONRASI İSTENMEYEN ETKİ (ASİE):
 
@@ -1964,27 +1965,27 @@ D. Rastlantisal
 
 E. Bilinmeyen Ciddi ASİE: Ölüm, sakatlık, konjenital anomali ile sonuçlanan veya hastanede yatma gerektiren ASIE' dir.
 
-ASİ'lerin saptanması ve bildirimi sağlık personeli, aileler ve toplumun diğer üyeleri tarafindan yapılabilir. Aile veya hekim dışı sağlık personelinin ASI'den şüphelendiği durumlarda değerlendirme hekim tarafından yapılır. Hekim dışı personel bu tip bir vaka ile karşılaştığında birlikte çalıştığı hekime haber verir ve vaka birlikte değerlendirilir. Tüm sağlık çalışanları ASI'leri tanıyabilecek şekilde vaka tanımlarını ve ne yapılması gerektiğini bilmelidir.
+ASİ'lerin saptanması ve bildirimi sağlık personeli, aileler ve toplumun diğer üyeleri tarafından yapılabilir. Aile veya hekim dışı sağlık personelinin ASI'den şüphelendiği durumlarda değerlendirme hekim tarafından yapılır. Hekim dışı personel bu tip bir vaka ile karşılaştığında birlikte çalıştığı hekime haber verir ve vaka birlikte değerlendirilir. Tüm sağlık çalışanları ASI'leri tanıyabilecek şekilde vaka tanımlarını ve ne yapılması gerektiğini bilmelidir.
 
 Aşı yapan personel, aileler ve toplumun diğer üyelerini aşılama sonrası ne tür reaksiyonlar görülebileceği ve hangi durumlarda bebek/çocuklarını bir sağlık kuruluşuna getirmeleri gerektiği konularında bilgilendirmelidir.
 
-ASIE Izleme Sistemi kapsamında bildirilmesi gereken istenmeyen etkiler
+ASIE İzleme Sistemi kapsamında bildirilmesi gereken istenmeyen etkiler
 
-ASIE Izleme Sistemine dahil olan ve AşI Sonrası Istenmeyen Etki Bildirim ve Inceleme Formu (Ek-4) doldurularak bildirimi yapılacak olan ASİ'ler Ek-5'de gösterilmiştir.
+ASIE İzleme Sistemine dahil olan ve AşI Sonrası Istenmeyen Etki Bildirim ve Inceleme Formu (Ek-4) doldurularak bildirimi yapılacak olan ASİ'ler Ek-5'de gösterilmiştir.
 
-ASİE ile karşılaşan sağlık personeli, hekim tarafından değerlendirilen ve ASIE Izleme Sistemi'ne dahil olan ve bildirilmesi gereken her ASIE vakası için bir ASIE Inceleme ve Bildirim Formu doldurur. Vakanın sahadaki incelemesinin yapılabilmesi için 24 saat içinde Il ASİE Sorumlusuna haber verip formun bir kopyasını iletir. ASIE vakası ciddi ise, kümelenme var ise ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan bir durum ise acil olarak İI ASİE
+ASİE ile karşılaşan sağlık personeli, hekim tarafından değerlendirilen ve ASIE İzleme Sistemi'ne dahil olan ve bildirilmesi gereken her ASIE vakası için bir ASIE Inceleme ve Bildirim Formu doldurur. Vakanın sahadaki incelemesinin yapılabilmesi için 24 saat içinde İl ASİE Sorumlusuna haber verip formun bir kopyasını iletir. ASIE vakası ciddi ise, kümelenme var ise ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan bir durum ise acil olarak İI ASİE
 
 il ASİE İzlem Sorumlusu;
 
-Her ilde İl ASİE İzlem Sorumlusu belirlenecektir. İl Sağlık Müdürlüğünde Bulaşıcı Hastalıklar Şube Müdürü, Il ASIE Izlem Sorumlusudur. Ancak gerekli durumlarda başka bir hekim de görevlendirilebilir. Ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumların araștırılması ve değerlendirilmesi amacıyla II ASIE Danışma Kurulu oluşturulur. Îl ASIE Izlem Sorumlusu;
+Her ilde İl ASİE İzlem Sorumlusu belirlenecektir. İl Sağlık Müdürlüğünde Bulaşıcı Hastalıklar Şube Müdürü, İl ASIE İzlem Sorumlusudur. Ancak gerekli durumlarda başka bir hekim de görevlendirilebilir. Ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumların araștırılması ve değerlendirilmesi amacıyla İl ASIE Danışma Kurulu oluşturulur. Îl ASIE İzlem Sorumlusu;
 
 a) Hekimler tarafından bildirilen vakaların ASIE Inceleme ve Bildirim Formundaki eksik kısımların tamamlanmasını sağlar.
 
 b) Ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlarda acil olarak Sağlık Bakanlığı Temel Sağlık Hizmetleri Genel Müdürlüğü ile temasa geçer ve birlikte durum değerlendirmesi yaparak duruma uygun tedbirleri alır.
 
-c) ASİE vakası bildirildiğinde vakit kaybetmeden araştırma başlatır. Bildirimi yapılan ASİE vakası ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan bir durum ise II ASIE Danışma Kurulu ile birlikte değerlendirmesini yapar. Vaka araştırması sonucunda saptanan ASİE vakasının nedenini İl ASİE Danışma Kurulu ile birlikte belirler, sınıflamasını yapar ve rapor hazırlar. Vaka Araştırma Raporunu varsa hastane dosyası, ASIE Bildirim ve Inceleme Formu ile birlikte bir örnek ilde kalacak şekilde Bakanlığa gönderir.
+c) ASİE vakası bildirildiğinde vakit kaybetmeden araştırma başlatır. Bildirimi yapılan ASİE vakası ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan bir durum ise İl ASIE Danışma Kurulu ile birlikte değerlendirmesini yapar. Vaka araştırması sonucunda saptanan ASİE vakasının nedenini İl ASİE Danışma Kurulu ile birlikte belirler, sınıflamasını yapar ve rapor hazırlar. Vaka Araştırma Raporunu varsa hastane dosyası, ASIE Bildirim ve Inceleme Formu ile birlikte bir örnek ilde kalacak şekilde Bakanlığa gönderir.
 
-ASIE Izleme Sistemi ile ilgili ayrıntılı düzenleme ilgili daimi genelge kapsamında yapılır.
+ASIE İzleme Sistemi ile ilgili ayrıntılı düzenleme ilgili daimi genelge kapsamında yapılır.
 
 ### L-) GBP HASTALIK PROGRAMLARI
 
@@ -2012,7 +2013,7 @@ o Kızamıkçık ve Konjenital Rubella Sendromu
 
 o Hemofilus influenza tip b
 
-o Tüberküloz (Verem Savaş Dairesi Başkanlığı tarafindan yürütülmektedir).
+o Tüberküloz (Verem Savaş Dairesi Başkanlığı tarafından yürütülmektedir).
 
 o Streptokokus pnömoniya'ya bağlı invaziv pnömokokal hastalıklar
 
@@ -2080,7 +2081,7 @@ Bu programda amaç Türkiye'de 2007 yılı sonuna kadar Maternal Tetanoz (MT) ve
 
 A. Aşama-1: Eliminasyonun Sağlanması (2006-2007) a. Tüm gebelerin en az %80'ini takvime uygun olarak aşılı hale getirmek ve bebeklerin korunmasını sağlamak. b. 2007 yılı sonuna kadar MNT açısından yüksek riskli bölgelerde destek aşılama aktiviteleri ile gerçekleştirilmiştir. c. Okul döneminde yapılan Td aşılamasında en az %90 aşılama hızına ulaşmak.
 
-B. Aşama-2: Eliminasyonun Sürdürülmesi (2007- ) a. Tüm bölgelerde gebe aşılamaları hızını en az %80 olacak şekilde sürdürmek b. Yüksek Riskli Bölge (YRB) değerlendirmesi güncel tutularak, bölgedeki 15-49 yaş grubu kadınların primer immünizasyonunu sağlamak. c. YRB tanımlaması alan bölgelerde nüfusa yeni eklenen 15-49 yaş grubu kadınları primer immünizasyona almak. d. Tüm bölgelerde, 1 yaş altı çocukların en az %90'ının üç doz Tetanoz içeren așı ile primer immünizasyonunu ve ayrıca aşıya devamsızlık hızının %10'un altında olmasını sağlamak. e. Okul Td aşılamalarını en az %90 hızında sürdürmek. Sağhk Ocağı Düzeyinde Yüksek Riskli Bölge Değerlendirme Şeması
+B. Aşama-2: Eliminasyonun Sürdürülmesi (2007- ) a. Tüm bölgelerde gebe aşılamaları hızını en az %80 olacak şekilde sürdürmek b. Yüksek Riskli Bölge (YRB) değerlendirmesi güncel tutularak, bölgedeki 15-49 yaş grubu kadınların primer immünizasyonunu sağlamak. c. YRB tanımlaması alan bölgelerde nüfusa yeni eklenen 15-49 yaş grubu kadınları primer immünizasyona almak. d. Tüm bölgelerde, 1 yaş altı çocukların en az %90'ının üç doz Tetanoz içeren așı ile primer immünizasyonunu ve ayrıca aşıya devamsızlık hızının %10'un altında olmasını sağlamak. e. Okul Td aşılamalarını en az %90 hızında sürdürmek. Sağlık Ocağı Düzeyinde Yüksek Riskli Bölge Değerlendirme Şeması
 
 Bögede son üç Bölgede 100 canli yılda vaka Hayir doğumda en az 1 görüldü mù? Neonatal Bebek Olümü
 
@@ -2110,7 +2111,7 @@ Düşük Riskli
 
 Temiz doğum aktivitelerini yaygınlaştırmak.
 
-3. Izlem
+3. İzlem
 
 Gebe izlemleri ile gebe tespit hızının %80'e ve gebe başına izlem sayısının 4'e ulaşmasını sağlamak.
 
@@ -2194,4 +2195,4 @@ kişilere sağlık kuruluşlarında aşı uygulaması yapılmalıdır. Ekler:
 
 4. ASİE Inceleme ve Bildirim Formu
 
-5. Izleme sistemine dahil olan ASI'ler
+5. İzleme sistemine dahil olan ASI'ler

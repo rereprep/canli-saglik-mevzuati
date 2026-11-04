@@ -3,51 +3,79 @@ id: "sbg-103482-dogrudan-gozetimli-tedavi-genelgesi-2009-51"
 baslik: "Doğrudan Gözetimli Tedavi Genelgesi (2009/51)"
 tur: "genelge"
 sayi: "2009/51"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Verem Savaşı Dairesi Başkanlığı"
+konu: "Tüberküloz hastalarında Doğrudan Gözetimli Tedavi (DGT) uygulamasının yaygınlaştırılması, uygulanış usulü ve takibini düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103482/dogrudan-gozetimli-tedavi-genelgesi-200951.html"
+kaynak_url: "https://www.saglik.gov.tr/TR-103482/dogrudan-gozetimli-tedavi-genelgesi-2009-51.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.40. Doğrudan Gözetimli Tedavi Genelgesi (2009/51)
+### 6.3.41. Doğrudan Gözetimli Tedavi Genelgesi (2009/51)
 
-### НАНЕ МАЛАНІЙ
+T.C.  
+SAĞLIK BAKANLIĞI  
+Verem Savaşı Dairesi Başkanlığı
 
-T.C.
+Sayı : B.10.0.VSD.0.00.00.06-010/3696  
+Konu : Doğrudan Gözetimli Tedavi
 
-### SAĞLIK BAKANLIĞI
+....................VALİLİĞİNE  
+(İl Sağlık Müdürlüğü)
 
-Verem Savaşı Dairesi Başkanlığı doktoru, hasta ve ailesiyle görüşerek; hastanın yașı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafindan (DGT gözetmeni) nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-I'de yer alan Tüberkülozlu Hasta ve DGT Bilgi Formu" doldurularak aynı gün Il Sağlık Müdürlüğü Bulașıcı Hastalıklar Şubesine bildirir.
+### GENELGE  
+2009/51
 
-b. Aile hekimliğine geçilen illerde; verem hastasının dispansere kaydı sonrasında dispanser doktoru, hastayı ilgili aile hekimine yönlendirir. Aile hekimi, hastaya DGT uygulaması hakkında bilgi verdikten sonra hasta ve ailesiyle görüşerek; hastanın yaşı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafından (DGT gözetmeni) ve nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-I'de yer alan "Tüberkülozlu Hasta ve DGT Bilgi Formu" doldurularak aynı gün ilgili Verem Savaşı Dispanserine ve II Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesine bildirir.
+İlgi: 2006/78 tarih ve 857 sayılı genelgemiz.
+
+İlgi genelge ile verem kontrol programında belirlenen ülke hedeflerine ulaşmak üzere Doğrudan Gözetimli Tedavi Stratejisinin ülke genelinde uygulanmasına geçilmiş ve bu konuda başta İl Sağlık Müdürlükleri olmak üzere tüm sağlık kuruluşlarının her düzeyde üzerine düşen görevleri eksiksiz yerine getirmesi istenmiştir.
+
+Geçen bu süre içerisinde illerde yapılan faaliyetler Bakanlığımız tarafından titizlikle takip edilmekte olup, karşılaşılan sorunlar ve hizmetin ifası sırasında yaşanılan aksaklıkların giderilmesi amacıyla illerde Doğrudan Gözetimli Tedavi (DGT) çalışmalarının İl Sağlık Müdürlükleri tarafından, Verem Savaşı İl Koordinatörleri ile birlikte hassasiyetle gözden geçirilmesi gerekmektedir.
+
+İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesi ve Verem Savaşı İl Koordinatörü; birlikte DGT'nin uygulanmasında aktif rol alarak düzenli denetimlerde bulunacaktır. Ayrıca Verem Savaşı Dairesi Başkanlığı tarafından oluşturulacak "Verem Savaşı İzleme ve Değerlendirme Ekipleri" tarafından illere ziyaret yapılacak ve il düzeyinde yapılan DGT uygulamaları ile bunlarla ilgili kayıtlar kontrol edilecektir.
+
+Uygulamaya esas olmak üzere;
+
+1. Verem hastasına DGT uygulanması işleyişinden, hastanın ikamet ettiği ilin İl Sağlık Müdürlüğü sorumludur.
+
+2. DGT'de en iyi gözetimcinin bir sağlık personeli olması gerektiği ilkesinden hareketle verem hastasının tedavisinde ildeki tüm sağlık kurum ve kuruluşlarında çalışan her sağlık personeli gözetimci olmak üzere görevlendirilebilecektir.
+
+3. DGT'nin uygulanma kayıtlarının tutulması ve raporlanması işlerini İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesi yürütür.
+
+4. DGT'nin planlanması;
+
+a. Aile hekimliğine geçilmeyen illerde; verem hastasının dispansere kaydı sırasında DGT uygulaması hakkında bilgi verildikten sonra dispanser doktorunca veya birden fazla doktor olan dispanserlerde sorumlu doktor tarafınca görevlendirilen dispanser doktoru, hasta ve ailesiyle görüşerek; hastanın yaşı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafından (DGT gözetmeni) nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-1'de yer alan "Tüberkülozlu Hasta ve DGT Bilgi Formu" doldurularak aynı gün İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesine bildirir.
+
+b. Aile hekimliğine geçilen illerde; verem hastasının dispansere kaydı sonrasında dispanser doktoru, hastayı ilgili aile hekimine yönlendirir. Aile hekimi, hastaya DGT uygulaması hakkında bilgi verdikten sonra hasta ve ailesiyle görüşerek; hastanın yaşı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafından (DGT gözetmeni) ve nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-1'de yer alan "Tüberkülozlu Hasta ve DGT Bilgi Formu" doldurularak aynı gün ilgili Verem Savaşı Dispanserine ve İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesine bildirir.
 
 5. Bulaşıcı Hastalıklar Şubesinde, gönderilen "Tüberkülozlu Hasta ve DGT Bilgi Formu" elektronik ortamda kaydedilir.
 
-6. Tedavi boyunca DGT uygulama detaylarındaki değişiklerde ve DGT gözetmeni değişikliğinde aynı gün içerisinde EK-1 ile ilgili yerlere bildirimi yapılır.
+6. Tedavi boyunca DGT uygulama detaylarındaki değişikliklerde ve DGT gözetmeni değişikliğinde aynı gün içerisinde EK-1 ile ilgili yerlere bildirimi yapılır.
 
-7. Hasta için VSD'de hazırlanan ilaçlar ve EK-2'de yer alan "Aylık DGT Izlem Cetveli" DGT gözetmenine ulaştırılır. İlaçlar ve izlem cetveli gözetmende kalır, hastaya teslim edilmez.
+7. Hasta için VSD'de hazırlanan ilaçlar ve EK-2'de yer alan "Aylık DGT İzlem Cetveli" DGT gözetmenine ulaştırılır. İlaçlar ve izlem cetveli gözetmende kalır, hastaya teslim edilmez.
 
-8. Verem hastası, DGT gözetmeni eşliğinde günlük ilaçlarını içer ve "Aylık DGT İzlem Cetveli"ne hasta ve DGT gözetmeni tarafindan günlük imzalar atılır ve ilaç içirilen yer ve saat yazılır.
+8. Verem hastası, DGT gözetmeni eşliğinde günlük ilaçlarını içer ve "Aylık DGT İzlem Cetveli"ne hasta ve DGT gözetmeni tarafından günlük imzalar atılır ve ilaç içirilen yer ve saat yazılır.
 
-9. DGT gözetmeni, hastanın tedaviye uyumuna destek olur. Hastaya ilaçların içirilemediği gün ilgili aile hekimine ve VSD'ne durumu bildirir. Ilgili aile hekimi veya dispanser hekimi tarafindan tedavisi amacıyla uygulanan DGT'nin gerekliği olduğu hususunda hastanın ikna edilmesi sağlamalıdır.
+9. DGT gözetmeni, hastanın tedaviye uyumuna destek olur. Hastaya ilaçların içirilemediği gün ilgili aile hekimine ve VSD'ne durumu bildirir. İlgili aile hekimi veya dispanser hekimi tarafından tedavisi amacıyla uygulanan DGT'nin gerekli olduğu hususunda hastanın ikna edilmesi sağlanmalıdır.
 
-10. Hastanın kontrolleri VSD tarafindan yapılarak kaydedilir. Tedavideki değişiklik yapıldığında veya tedavi sona erdirildiğinde VSD tarafından aynı gün içerisinde Bulaşıcı Hastalıklar Şubesine ve aile hekimliği uygulanan illerde aile hekimine durum bildirilir.
+10. Hastanın kontrolleri VSD tarafından yapılarak kaydedilir. Tedavideki değişiklik yapıldığında veya tedavi sona erdirildiğinde VSD tarafından aynı gün içerisinde Bulaşıcı Hastalıklar Şubesine ve aile hekimliği uygulanan illerde aile hekimine durum bildirilir.
 
-11. Verem Savaşı Il Koordinatörü, her ayın ikinci haftasında bir önceki ayda tedavi gören verem hastalarının DGT bilgilerini EK-'teki "Aylık DGT Durumu Çizelgesi" ile Verem Savaşı Dairesi Başkanlığı'na gönderir.
+11. Verem Savaşı İl Koordinatörü, her ayın ikinci haftasında bir önceki ayda tedavi gören verem hastalarının DGT bilgilerini EK-3'teki "Aylık DGT Durumu Çizelgesi" ile Verem Savaşı Dairesi Başkanlığı'na gönderir.
 
-12. Verem Savaşı Il Koordinatörü, hastalara DGT uygulanması için yukarıda yazılı olan sistemin kurulmasında, standartların belirlenmesi, eğitimlerin verilmesi ve izlemedeğerlendirme çalışmalarında Il Sağlık Müdürlüğüne danışmanlık yapar. Uygulamada karşılaşılan sorunların çözümüne yardımcı olur.
+12. Verem Savaşı İl Koordinatörü, hastalara DGT uygulanması için yukarıda yazılı olan sistemin kurulmasında, standartların belirlenmesi, eğitimlerin verilmesi ve izleme-değerlendirme çalışmalarında İl Sağlık Müdürlüğüne danışmanlık yapar. Uygulamada karşılaşılan sorunların çözümüne yardımcı olur.
 
-### T.C. SAĞLIK BAKANLIĞI Verem Savaşı Dairesi Başkanlığı
-
-13. II Sağlık Müdürlüğü, ildeki DGT uygulamasını kontrol etmek amacıyla haberli veyahut habersiz izleme ve değerlendirme çalışmalarını yürütür. Tespit edilen aksaklıkların hızla çözümlenmesini sağlar.
+13. İl Sağlık Müdürlüğü, ildeki DGT uygulamasını kontrol etmek amacıyla haberli veyahut habersiz izleme ve değerlendirme çalışmalarını yürütür. Tespit edilen aksaklıkların hızla çözümlenmesini sağlar.
 
 Doğrudan Gözetimli Tedavi uygulamasının başarılı bir şekilde gerçekleştirilmesi ve devamlılığın sağlanması hususunda;
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN
+Prof. Dr. Nihat TOSUN  
+Bakan a.  
+Müsteşar
 
-Bakan a.
+EK: Form (3 adet, 3 sayfa)
 
-Müsteşar EK: Form (3 adet, 3 sayfa) DAĞITIM: 81 Il Valiliğine
+### DAĞITIM:  
+81 İl Valiliğine

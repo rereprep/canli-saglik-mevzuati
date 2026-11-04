@@ -4,15 +4,23 @@ baslik: "Gönüllü Sağlık Tesisleri Genelgesi (2018/19)"
 tur: "genelge"
 sayi: "2018/19"
 birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Geçici koruma altındaki yabancılara yönelik gönüllü sağlık tesislerinin açılması, işletilmesi, denetimi ve personel çalışma esaslarını düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103489/gonullu-saglik-tesisleri-genelgesi-201819.html"
+kaynak_url: "https://www.saglik.gov.tr/TR-103489/gonullu-saglik-tesisleri-genelgesi-2018-19.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.3. Gönüllü Sağlık Tesisleri Genelgesi (2018/19)
+### T.C. SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
+Göç Sağlığı Dairesi Başkanlığı
 
-6.3.3. (cid:39)(cid:39)(cid:39)(cid:39)(cid:39)(cid:39)(cid:39)(cid:39)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:386)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:442)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:94)(cid:94)(cid:94)(cid:94)(cid:94)(cid:94)(cid:94)(cid:94)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:364)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:100)(cid:100)(cid:100)(cid:100)(cid:100)(cid:100)(cid:100)(cid:100)(cid:100)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286)(cid:286) g ( / )
+### GENELGE
+2018/19
+
+VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
 ### T.C. SAGLIK BAKANLIĞI Halk Sağhğı Genel Müdürlüğü
 
@@ -38,10 +46,11 @@ d) Kombine Elektroterapi Cihazı,
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Eyüp GÜMÜS
+Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Müstesa
+Müsteşar
 
-ми. Dağıtım Gereği: 81 Il Valiliğine (Il Sağhık Müdürlüğü)
+### DAĞITIM:
+Gereği: 81 İl Valiliğine (İl Sağhık Müdürlüğü)

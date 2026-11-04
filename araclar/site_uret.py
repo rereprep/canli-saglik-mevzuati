@@ -183,6 +183,13 @@ def md_html(govde):
         if blok == "---":
             parcalar.append("<hr>")
             continue
+        satirlar = [s.strip() for s in blok.split("\n")]
+        if len(satirlar) >= 1 and all(s.startswith("|") for s in satirlar):
+            govde_satir = [s for s in satirlar if not re.fullmatch(r"\|[\s:|-]+\|?", s)]
+            hucreler = [[satir_ici(h.strip()) for h in s.strip("|").split("|")] for s in govde_satir]
+            parcalar.append('<div class="tablo-kap"><table class="metin-tablo">' + "".join(
+                "<tr>" + "".join(f"<td>{h}</td>" for h in r) + "</tr>" for r in hucreler) + "</table></div>")
+            continue
         m = re.match(r"^(#{2,4}) (.*)$", blok, re.S)
         if m:
             seviye = len(m.group(1))
@@ -196,7 +203,7 @@ def md_html(govde):
                 kimlik = "gecici-" + kimlik
             parcalar.append(f'<p class="madde" id="{kimlik}">{satir_ici(blok)}</p>')
             continue
-        parcalar.append(f"<p>{satir_ici(blok)}</p>")
+        parcalar.append("<p>" + "<br>".join(satir_ici(s) for s in blok.split("\n")) + "</p>")
     return "\n".join(parcalar)
 
 

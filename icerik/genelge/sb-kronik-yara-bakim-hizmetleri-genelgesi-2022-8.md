@@ -3,23 +3,57 @@ id: "sb-kronik-yara-bakim-hizmetleri-genelgesi-2022-8"
 baslik: "Kronik Yara Bakım Hizmetleri Genelgesi (2022/8)"
 tur: "genelge"
 sayi: "2022/8"
+tarih: "2022-12-06"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kronik yara bakım birimleri ve merkezlerinin fiziki standartları, çalışma esasları ve sevk zincirini düzenler."
-etiketler: ["kronik yara", "yara bakımı", "diyabetik ayak"]
+etiketler: ["yara bakımı", "kronik yara", "sağlık tesisleri"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 181-184"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.19. Kronik Yara Bakım Hizmetleri Genelgesi (2022/8)
+
+### T.C. SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı : 54567092-
+Konu : Kronik Yara Bakım Hizmetleri
+
+GENELGE
+2022/8
+
+Tedavileri zor ve uzun süren, multidisipliner bir çalışmayı gerektiren kronik yaralar gerek hastalarda oluşturdukları olumsuz etkiler, gerekse sağlık çalışanları ve sağlık sistemine getirdiği külfet açısından tüm gelişmiş ve gelişmekte olan toplumlar için büyük bir sorun olup başvuran hastaların teşhis ve tedavi sürecini gerçekleştirmek, oluşabilecek komplikasyonları önlemek/azaltmak, kronik yara bakımı verecek sağlık tesislerinde klinikler arasında koordinasyonu sağlamak amacıyla; kronik yara hizmetleri ile ilgili iş ve işlemlerin düzenlenmesi ihtiyacı doğmuştur.
+
+Bu maksatla ülkemizde sunulacak kronik yara bakım hizmetlerine ilişkin usul ve esasları düzenleyen 6/7/2021 tarihli ve (2021/04) sayılı Kronik Yara Bakım Hizmetleri Genelgesi yayımlanmış ve yürürlüğe girmiştir. Ancak Kronik Yara Bakım Hizmetleri Genelgesinin (2021/4) yayımlandığı tarihten bu yana Bakanlığımızca yapılan değerlendirmeler sonucunda bazı değişikliklerin yapılmasına ihtiyaç duyulmuş olup, bahsi geçen genelge yürürlükten kaldırılmıştır. Bu kapsamda, ülkemizde sunulacak kronik yara bakım hizmetlerine ilişkin usul ve esaslar ekte belirtilen şekliyle yeniden düzenlenmiştir. Genelgenin ilinizde bulunan kamu ve özel tüm sağlık tesislerine duyurulması, kronik yara tanısı, tedavisi ve takibi için sunulan sağlık hizmetlerinin işbu Genelge kapsamında yürütülmesi hususunda;
+
+Bilgilerinizi ve gereğini önemle arz/rica ederim.
+
+Prof. Dr. Sabahattin AYDIN
+Bakan a.
+Bakan Yardımcısı
+
+Ek: Kronik Yara Bakım Hizmetlerine İlişkin Usul ve Esaslar (8 sayfa)
+
+Dağıtım:
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
+
+Bilgi:
+Cumhurbaşkanlığı
+TBMM Başkanlığı
+Sosyal Güvenlik Kurumu
+Yükseköğretim Kurulu Başkanlığı
+A Planı
 
 ### KRONİK YARA BAKIM HİZMETLERİNE İLİŞKİN USUL VE ESASLAR A- TANIMLAR
 
 1. Bu usul ve esaslarda geçen;
 
-a) Bakan: Sağlık Bakamını,
+a) Bakan: Sağlık Bakanını,
 
-b) Bakanlık: Sağlık Bakanlığımı,
+b) Bakanlık: Sağlık Bakanlığını,
 
 e) Bilimsel komisyon: Kronik yara bakım hizmetlerinin planlanması, geliştirilmesi ve ülke genelinde etkin bir şekilde sunulması amacıyla Bakanlıkça oluşturulan Kronik Yara Bakım Hizmetleri Bilimsel Komisyonunu,
 
@@ -47,7 +81,7 @@ ifade eder.
 
 3. Ikinci basamak kronik yara bakım hizmeti ilgili uzman tabibin ve ameliyathane şartlarının bulunduğu yataklı sağlık tesislerinde verilir.
 
-4. Birinci ve ikinci basamak kronik yara bakım hizmetlerinden en az birisi bu Genelgede belirtilen kriterler çerçevesinde tüm sağlık tesisleri tarafindan sunulmak zorundadır.
+4. Birinci ve ikinci basamak kronik yara bakım hizmetlerinden en az birisi bu Genelgede belirtilen kriterler çerçevesinde tüm sağlık tesisleri tarafından sunulmak zorundadır.
 
 5. Sağlık tesisleri birinci ve ikinci basamak kronik yara bakım hizmetinden hangisini sunduklarımı müdürlük aracılığı ile Bakanlığa bildirmek zorundadır.
 
@@ -81,13 +115,13 @@ ifade eder.
 
 1. Kronik yara bakım ünitesi, Ek-l'de belirtilen asgari standartlara göre Bakanlıkça verilen faaliyet izni ile kurulur.
 
-2. Kronik yara bakım ünitesine ait faaliyet izni başvurusu, sağlık tesisi yönetimi tarafindan Ek-2'de yer alan "Faaliyet Izni Başvuru Formu" ve Ek-3"te yer alan "Başvuru Dosyasında Olması Gereken Bilgi ve Belgeler" ile birlikte müdürlüğe yapılır.
+2. Kronik yara bakım ünitesine ait faaliyet izni başvurusu, sağlık tesisi yönetimi tarafından Ek-2'de yer alan "Faaliyet Izni Başvuru Formu" ve Ek-3"te yer alan "Başvuru Dosyasında Olması Gereken Bilgi ve Belgeler" ile birlikte müdürlüğe yapılır.
 
-3. Başvuru, müdürlükçe dosya üzerinden değerlendirilir ve eksiklik ve/veya uygunsuzluk bulunmaması halinde Sağlık Hizmetleri Başkamı başkanlığında bir genel cerrahi uzmanı, bir ortopedi ve travmatoloji uzmanı veya plastik, rekonstrüktif ve estetik cerrahi uzmanı, bir enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanı; gerektiğinde çocuk cerrahisi uzmanı veya kalp ve damar cerrahisi uzmanı tabibin katılımı ile oluşan denetim ekibi tarafindan yerinde
+3. Başvuru, müdürlükçe dosya üzerinden değerlendirilir ve eksiklik ve/veya uygunsuzluk bulunmaması halinde Sağlık Hizmetleri Başkamı başkanlığında bir genel cerrahi uzmanı, bir ortopedi ve travmatoloji uzmanı veya plastik, rekonstrüktif ve estetik cerrahi uzmanı, bir enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanı; gerektiğinde çocuk cerrahisi uzmanı veya kalp ve damar cerrahisi uzmanı tabibin katılımı ile oluşan denetim ekibi tarafından yerinde
 
 4. Kronik yara bakımı ünitesi başvurusu, müdürlüğün uygun görüşü ile birlikte Bakanlığa
 
-5. Bakanlıkça noksan belgesi bulunmayan kronik yara bakımı ünitesine ait başvuru, komisyona sunulur. Komisyon tarafindan incelenen başvuru uygun bulunduğu takdirde bir
+5. Bakanlıkça noksan belgesi bulunmayan kronik yara bakımı ünitesine ait başvuru, komisyona sunulur. Komisyon tarafından incelenen başvuru uygun bulunduğu takdirde bir
 
 erte tutanakla karara bağlanır. Genel Müdürlükçe de uygun bulunması halinde kronik yara bakımı ünitesine Bakanlıkça faaliyet izni verilir.
 
@@ -113,11 +147,11 @@ erte tutanakla karara bağlanır. Genel Müdürlükçe de uygun bulunması halin
 
 2. Ayaktan tedavisi sağlanacak veya yatırılarak tedavi olacak hastalanın kararı konsey tarafından salt çoğunluk ile alıır. Konseyin tedavi kararları tavsiye niteliğindedir.
 
-3. Sorumlu tabip tarafindan değerlendirilen ve konsey görüşüne ihtiyaç bulunduğu belirlenen hastalar konseye çıkarılır.
+3. Sorumlu tabip tarafından değerlendirilen ve konsey görüşüne ihtiyaç bulunduğu belirlenen hastalar konseye çıkarılır.
 
-4. Hastaların öyküsül, fizik muayene bulguları, laboratuvar tetkikleri ve ilgili görüntüleme tetkikleri hazırlanmış ve dosyalanmış şekilde konseye sunulur.
+4. Hastaların öyküsü, fizik muayene bulguları, laboratuvar tetkikleri ve ilgili görüntüleme tetkikleri hazırlanmış ve dosyalanmış şekilde konseye sunulur.
 
-5. Kliniklerde yatan ve kronik yarası oluşan hastalar kendi tabipleri tarafindan sorumlu tabibe yönlendirilerek konseye çıkarılmaları sağlanır.
+5. Kliniklerde yatan ve kronik yarası oluşan hastalar kendi tabipleri tarafından sorumlu tabibe yönlendirilerek konseye çıkarılmaları sağlanır.
 
 ### F- EGITİM VE SERTİFİKASYON
 

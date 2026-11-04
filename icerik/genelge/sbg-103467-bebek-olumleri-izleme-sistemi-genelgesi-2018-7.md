@@ -4,19 +4,19 @@ baslik: "Bebek Ölümleri İzleme Sistemi Genelgesi (2018/7)"
 tur: "genelge"
 sayi: "2018/7"
 birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Bebek ölümlerinin nedenlerinin tespiti, önlenmesi, bildirim süreçleri ve Bebek Ölümleri İnceleme Kurullarının çalışmalarını düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103467/bebek-olumleri-izleme-sistemi-genelgesi-20187.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
-
-6.3.55. Bebek Ölümleri İzleme Sistemi Genelgesi (2018/7)
 
 T.C.
 
 ### SAGLIK BAKANLIGI
 
-Halk Sağlığı Genel Müdürlüğu 00065652493 Sayı : 67414668- Konu : Bebek Olümleri Izleme Sistemi
+Halk Sağlığı Genel Müdürlüğu 00065652493 Sayı : 67414668- Konu : Bebek Olümleri İzleme Sistemi
 
 ### GENELGE
 
@@ -46,13 +46,13 @@ Bildirimler ölümün gerçekleştiği il tarafından yapılacaktır. Bildirimle
 
 3) İzleme sistemi sorumluları ve görevleri;
 
-a) Her ilde bir "İl Bebek Ölümlerini Izleme Sorumlusu" belirlenecek olup (Halk sağlığı hizmetlerinden sorumlu başkan yardımcısı ya da çocuk, ergen, kadın ve üreme sağlığı birim sorumlusunun görevlendirilmesi tercih edilmelidir), sistemin yürütme ve sekretarya işlemlerinden sorumlu olacaktır.
+a) Her ilde bir "İl Bebek Ölümlerini İzleme Sorumlusu" belirlenecek olup (Halk sağlığı hizmetlerinden sorumlu başkan yardımcısı ya da çocuk, ergen, kadın ve üreme sağlığı birim sorumlusunun görevlendirilmesi tercih edilmelidir), sistemin yürütme ve sekretarya işlemlerinden sorumlu olacaktır.
 
-b) Ayrıca sistemin sağlıklı bir şekilde sürdürülmesi amacıyla ISM tarafından biri hekim olmak üzere yeterli sayıda personel bu konuda çalışmak üzere görevlendirilecektir. Görevlendirilen hekim, Bebek Olümleri Inceleme Kurulunun her toplantısına katılım sağlayacak, incelemeleri tamamlanarak ÖBS arayüzüne girişi yapılan inceleme sonuçlarının kontrol ve onaylama işlemlerini Ölümleri Inceleme Kurulu tarafindan yapılacak değerlendirmede kullanılacak olan ve Ek-l'de yer
+b) Ayrıca sistemin sağlıklı bir şekilde sürdürülmesi amacıyla ISM tarafından biri hekim olmak üzere yeterli sayıda personel bu konuda çalışmak üzere görevlendirilecektir. Görevlendirilen hekim, Bebek Olümleri Inceleme Kurulunun her toplantısına katılım sağlayacak, incelemeleri tamamlanarak ÖBS arayüzüne girişi yapılan inceleme sonuçlarının kontrol ve onaylama işlemlerini Ölümleri Inceleme Kurulu tarafından yapılacak değerlendirmede kullanılacak olan ve Ek-l'de yer
 
 ### T.C. SAGLIK BAKANLIĞI Halk Sağlığı Genel Müdürluğü
 
-Sayı : 67414668 Konu : Bebek Ölümleri Izleme Sistemi alan Perinatal ve Bebek Ölümleri Bilgi Formu, gebe ve bebeğin birinci basamakta gerçekleştirilen izlem ve işlemleri, ailenin sosyo-ekonomik durumuna dair bilgiler ile ISM'ce talep edilecek diğer belge ve bilgileri en kısa sürede temin edip göndermekle/gönderilmesini sağlamakla yükümlüdür. Ayrıca bölgesinde, sağlık kuruluşu dışında (evde, yolda v.b.) meydana gelen ölüm olması halinde Ek-4 te yer alan Sözel Otopsi Formunun hazırlanıp gönderilmesini sağlayacaktır.
+Sayı : 67414668 Konu : Bebek Ölümleri İzleme Sistemi alan Perinatal ve Bebek Ölümleri Bilgi Formu, gebe ve bebeğin birinci basamakta gerçekleştirilen izlem ve işlemleri, ailenin sosyo-ekonomik durumuna dair bilgiler ile ISM'ce talep edilecek diğer belge ve bilgileri en kısa sürede temin edip göndermekle/gönderilmesini sağlamakla yükümlüdür. Ayrıca bölgesinde, sağlık kuruluşu dışında (evde, yolda v.b.) meydana gelen ölüm olması halinde Ek-4 te yer alan Sözel Otopsi Formunun hazırlanıp gönderilmesini sağlayacaktır.
 
 ç) Aile hekimleri sorumlu oldukları nüfusta perinatal ve bebek ölümü olduğunda Ek-l'de yer alan Perinatal ve Bebek Ölümleri Bilgi Formunu Ek-2'de yer alan doldurma kılavuzundan yararlanarak dolduracaktır. Form ile birlikte gebe ve bebeğin birinci basamakta gerçekleştirilen izlem ve işlemlerini, ailenin sosyo-ekonomik-kültürel durumuna dair bilgileri ve ISM'ce talep edilecek diğer belge ve bilgileri en kısa sürede temin edip bağlı bulunduğu ilçe sağlık müdürlügüne ya da TSM' ye gönderecektir.
 
@@ -72,7 +72,7 @@ h) Aynıca ikamet edilen il tarafından, başka ilde öldüğü ve ÖBS de yer a
 
 ### T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
 
-Sayı : 67414668- Konu : Bebek Ölümleri Izleme Sistemi
+Sayı : 67414668- Konu : Bebek Ölümleri İzleme Sistemi
 
 i) Sahada tespit edilen perinatal ve bebek ölümlerinin OBS'de olup olmadığının kontrolü ile Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünce bildirilerek ÖBS'de raporlanan vakaların tespit ve incelemeleri il bebek ölümleri izleme sorumlusu tarafından takip edilecektir. OBS'de olmayan vakalar, ISM istatistik ve bilgi işlem birimine bildirilecek olup, sisteme kaydının yaptırılması bu birimce sağlanacaktır.
 
@@ -106,7 +106,7 @@ k) Ilde üniversite varsa ilgili anabilim dallarından katılım sağlanabilir.
 
 ### T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
 
-Sayı : 67414668- Konu : Bebek Olümleri Izleme Sistemi
+Sayı : 67414668- Konu : Bebek Olümleri İzleme Sistemi
 
 B) 12-15 illerinde;
 
@@ -136,13 +136,13 @@ f) Kurul üyesi olarak seçilen personelin İSM'ce belirlenen tarihlerde görevl
 
 ### T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
 
-Sayı : 67414668- Konu : Bebek Ölümleri Izleme Sistemi
+Sayı : 67414668- Konu : Bebek Ölümleri İzleme Sistemi
 
 g) Kurul toplantısı sonucunda Ek-S'de yer alan Bebek Ölümleri Inceleme Kurul Kararı Formu doldurularak imza altına alınacak, kurul üyelerince paraflanan çalışma formlarının ilk sayfaları bu forma eklenecektir. Kurul kararı formları ve kurulda incelenen belgeler ISM'ce muhafaza edilecektir. Bakanlık tarafından talep edilmesi halinde bir örneği ibraz edilecektir.
 
 6) İl değerlendirme kurulu üyeleri ve görevi;
 
-a) Il sağlık müdürü başkanlığında, halk sağlığı hizmetleri, kamu hastaneleri hizmetleri, sağlık hizmetleri ve acil sağlık hizmetlerinden sorumlu başkanların katılımı ile varsa tıp fakültesi dekanı/dekanları ve kurul başkanının uygun göreceği kişi ve birimlerin davet edilmesiyle yılda bir
+a) İl sağlık müdürü başkanlığında, halk sağlığı hizmetleri, kamu hastaneleri hizmetleri, sağlık hizmetleri ve acil sağlık hizmetlerinden sorumlu başkanların katılımı ile varsa tıp fakültesi dekanı/dekanları ve kurul başkanının uygun göreceği kişi ve birimlerin davet edilmesiyle yılda bir
 
 b) Bir önceki yıl verileri de göz önünde bulundurarak, ilde tespit edilen sorunlar degerlendirilecek, ilde alınması gereken tedbirler ve müdahale yöntemleri belirlenerek
 
@@ -150,7 +150,7 @@ raporlar, Bakanlığımız Halk Sağlığı Genel Müdürlüğüne gönderilecek
 
 7) Veri girişi ve Bakanlığa bildirimler;
 
-a) Bebek ölümleri inceleme kurullarınca incelemeleri tamamlanan vakaların bildirim ve veri girişleri, ÖBS üzerinden, kullanıcı tanımlaması yapılan ISM personeli tarafindan her ayın sonunda gerçekleştirilecektir.
+a) Bebek ölümleri inceleme kurullarınca incelemeleri tamamlanan vakaların bildirim ve veri girişleri, ÖBS üzerinden, kullanıcı tanımlaması yapılan ISM personeli tarafından her ayın sonunda gerçekleştirilecektir.
 
 b) Incelemesi tamamlanıp sistem üzerinden veri girişi yapılan vakalar ISM bünyesinde yetkilendirilmiş hekim tarafından 5 (beş) iş günü içinde kontrol edilerek onaylanacaktır. Onaylama işlemlerinin ardından vakalar kesinlik kazanacak, değerlendirme ve hesaplamalarda bu veri
 
@@ -160,25 +160,25 @@ c) Otopsiye gönderilen vakalarda, otopsi raporları temin edilerek sonucunun si
 
 a) ÖBS üzerinden kaydı yapılan verilerin analizi aylık olarak Halk Sağlığı Genel Müdürlüğü tarafından yapılacaktır.
 
-b) Gerek görülen hallerde Halk Sağlığı Genel Müdürlüğü tarafindan inceleme dosyalanı ilden talep edilerek incelenebilecektir.
+b) Gerek görülen hallerde Halk Sağlığı Genel Müdürlüğü tarafından inceleme dosyalanı ilden talep edilerek incelenebilecektir.
 
 e) Mortalite ölçütlerinin hesaplanması ikamet edilen ile göre yapılacaktır. İller arasında vakanın ikamet ettiği yer ile ilgili uyuşmazlık olduğu durumlarda; ölümün gerçekleştiği tarihte hangi ilin aile hekimliği birimine kayıtlı ise o ilin ölümü olarak kabul edilecektir.
 
-ç) Olümlerin ülke, bölge ve il düzeyinde yorumlanmasında veya performans değerlendirmelerinde, Halk Sağlığı Genel Müdürlüğü tarafindan yıllık olarak açıklanarak Bakanlık merkez ve taşra birimleriyle paylaşılan bebek ve çocuk ölüm hızları kullanılacaktır.
+ç) Olümlerin ülke, bölge ve il düzeyinde yorumlanmasında veya performans değerlendirmelerinde, Halk Sağlığı Genel Müdürlüğü tarafından yıllık olarak açıklanarak Bakanlık merkez ve taşra birimleriyle paylaşılan bebek ve çocuk ölüm hızları kullanılacaktır.
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Halk Sağlığı Genel Müdürlugu Sayı : 67414668- Konu : Bebek Ölümleri Izleme Sistemi
+Halk Sağlığı Genel Müdürlugu Sayı : 67414668- Konu : Bebek Ölümleri İzleme Sistemi
 
 9) Bakanlığımızca yayımlanan 2009/31 sayıh Genelge ile 2014/6 sayılı Genelge yürürlükten kaldırılmıştır.
 
 Bilgilerinizi ve yukarıda yer alan usul ve esasların iliniz genelindeki tüm sağlık kurum/ kuruluşlarına duyurularak titizlikle uygulanması hususunda ilgililere emirlerinizi önemle rica
 
-Prof. Dr. Eyüp GÜMÜS
+Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Müsterar
+Müsteşar
 
 рит
 
@@ -186,14 +186,14 @@ Müsterar
 
 1- Perinatal ve Bebek Ölümleri Bilgi Formu (2 sayfa)
 
-3- Bebek Ölümleri İnceleme Kurulu Çalışma Formy (7 sayfa) 2- Doldurma Kılavuzu (3 sayfa)
+3- Bebek Ölümleri İnceleme Kurulu Çalışma Formu (7 sayfa) 2- Doldurma Kılavuzu (3 sayfa)
 
 4- Sözel Otopsi Formu (8 sayfa)
 
 5- Bebek Ölümleri Inceleme Kurul Kararı Formu (1 sayfa)
 
-6- Yenidoğan Epikriz Formu (7 sayta)
+6- Yenidoğan Epikriz Formu (7 sayfa)
 
-### DAGITIM:
+### DAĞITIM:
 
-Gereği: A Plani
+Gereği: A Planı

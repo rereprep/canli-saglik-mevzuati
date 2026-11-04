@@ -3,29 +3,56 @@ id: "sb-kurumlarimizda-yer-alan-ticari-alanlarin-kiraya-verilmesi-genelgesi-2011
 baslik: "Kurumlarımızda Yer Alan Ticari Alanların Kiraya Verilmesi Genelgesi (2011/43)"
 tur: "genelge"
 sayi: "2011/43"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Strateji Geliştirme Başkanlığı"
 konu: "Sağlık tesislerinde bulunan kantin, kafeterya ve ticari alanların kiraya verilmesi ve denetimini düzenler."
-etiketler: ["ticari alanlar", "kira", "kantin işletmesi"]
+etiketler: ["ticari alanlar", "kiralama", "döner sermaye", "kantin"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 504-507"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.10. Kurumlarımızda Yer Alan Ticari Alanların Kiraya Verilmesi Genelgesi (2011/43)
 
-### T.C. SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
+### T.C. SAĞLIK BAKANLIĞI
+Strateji Geliştirme Başkanlığı
 
-Say1 :B.10.0.SGB.0.84.00.01/10-06- Konu : Kurumlarımızda yer alan ticari alanların kiraya verilmesi.
+Sayı : B.10.0.SGB.0.84.00.01/10-06-
+Konu : Kurumlarımızda yer alan ticari alanların kiraya verilmesi.
 
-6. Bünyesinde ticari alan bulunan Bakanlığımıza bağhı kurum ve kuruluşların kapaulması halinde, kapatıldığına ilişkin bilgi ve belgeler Il Sağhk Müdürlüklerince 1 (Bir) ay içinde ilgili Defterdarlığa bildirilecektir.
+............ VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
-7. Ticari alanlar amacı dışında kullanılamayacak ve taşınmazlerın Sağlık Bakanlığına tahsis amacı ile bağdaşmayacak faaliyetlere konu edilmeyecektir. B. Mevcut Süzleşmeler
+GENELGE
+2011/43
 
-1. Bakanlığınıza bağlı kurumlar içerisinde yer alıp, Maliye Bakanlığı birimleri tarafindan kiraya verilen ticari alanlara ait devam eden sözleşmeler protokollin imzalandığı tarih itibarıyla, sözleşme süresi sonuna kadar aymı şartlarla Bakanlığımıza bağlı kurumlara devredilmiş olup, kira bedelleri Bakanlığımıza bağlı ilgili kurumlarca tahsil edilecek ve elde edilen kira gelirleri döner sermaye bütçesine gelir kaydedilecektir.
+Bilindiği üzere 6225 sayılı “Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun”un 2 inci maddesi ile 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 3 üncü maddesinin birinci fıkrasına (h) bendinden sonra gelmek üzere (ı) ve (i) bentleri eklenmiştir.
 
-2. Meveut sözleşmelerin süresinin bitiminde yeni ihaleler kurumlarımızca yapılacaktır.
+209 sayılı Kanuna eklenen (ı) bendinde; “Bakanlık sağlık kurum ve kuruluşlarının 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 70 inci maddesinde belirtilen mal ve hakların kiralanması...” hükmüne yer verilerek mal ve hakların kiralanmasından elde edilecek gelirlerin işletme döner sermayesine gelir kaydedebilmesinin yolu açılmıştır.
 
-3. Protokolde; "Milli Emlak birimlerince, mevcut kiracıfara, kira sözleşmelerinin Sağlık Bakanlığına devredıldığı, kira bedellerinin Sağlık Bakanlığının/Il Sağlık Maderiağünün belirteceği saymanlığa ödeneceği hususu bildirilecek ve kira dasyalarıın bir ürneğı il Sağlık Müdürlüğüne gönderilecektir. " şcklinde ifade yer almaktadır. Bu bağlamda:
+Bu amaçla, Mülkiyeti Hazineye ait /Hazine ile hisseli/ üst yapı Hazineye ait ya da zemini Hazineye ait olup, Sağlık Bakanlığına tahsisli olan yerler ile Sağlık Bakanlığınca kiralanmış ve kira bedelleri merkezi yönetim bütçesinden karşılanan hastane ve birinci basamak sağlık kurumlarındaki ticari amaçla kullanılması mümkün olan bölümlerinin (söz konusu taşınmazların Aile Hekimlerine kiralanması dahil olmak üzere) Sağlık Bakanlığı tarafından Döner Sermaye İşletmeleri eliyle işlettirilmesine ilişkin esas ve usullerin belirlenmesi amacıyla Maliye Bakanlığı ile Bakanlığımız arasında 15/06/2011 tarihinde protokol imzalanmıştır.
+
+Protokol, mevcut ticari alanlar ile protokolün imzalanmasından sonra Sağlık Bakanlığınca oluşturulacak yeni ticari alanları kapsamaktadır.
+
+Kurumlarımız arasında uygulama birliğinin sağlanması amacıyla protokol hükümlerinin üçüncü kişileri de ilgilendirilen hükümleri ve diğer hususlar aşağıda belirtilmiştir.
+
+A. Protokol Hükümleri
+
+1. Protokolün süresi, protokolün imzalandığı tarihten itibaren 10 (On) yıl olup, Bakanlığımıza bağlı kurumlar ile üçüncü kişiler arasında düzenlenecek sözleşmeler hiçbir şekilde protokol süresini aşmayacaktır.
+2. Üçüncü kişiler ile yapılacak sözleşmelere, protokolün herhangi bir gerekçe ile sona ermesi halinde kira sözleşmesinin de sona ereceğine ve bu şekilde sona ermeden dolayı herhangi bir hak ve tazminat talebinde bulunulmayacağına dair hüküm konulacaktır.
+3. Üçüncü kişilere hiçbir şekilde kiralama karşılığında ticari alan yaptırılmayacaktır.
+4. Bakanlığımıza bağlı kurumlardaki ticari alanlar hiçbir şekilde bedelsiz olarak işlettirilmeyecektir.
+5. Bakanlığımıza bağlı kurumlar ile üçüncü kişiler arasında düzenlenen sözleşmenin (Mülkiyeti üçüncü şahıslara ait olmakla birlikte kullanım hakkı Bakanlığımıza veya Valiliğe bırakılan taşınmazlardaki ticari alanlar ile döner sermaye kaynaklarından kiralanan taşınmazlardaki ticari alanların kiraya verilmesi sonucunda düzenlenen sözleşmeler ve Aile Hekimleri ile yapılan sözleşmeler hariç) bir örneği sözleşmenin düzenlenmesinden itibaren 1 (Bir) ay içinde ilgili Defterdarlığa gönderilecektir.
+
+6. Bünyesinde ticari alan bulunan Bakanlığımıza bağlı kurum ve kuruluşların kapatılması halinde, kapatıldığına ilişkin bilgi ve belgeler İl Sağlık Müdürlüklerince 1 (Bir) ay içinde ilgili Defterdarlığa bildirilecektir.
+
+7. Ticari alanlar amacı dışında kullanılamayacak ve taşınmazların Sağlık Bakanlığına tahsis amacı ile bağdaşmayacak faaliyetlere konu edilmeyecektir. B. Mevcut Sözleşmeler
+
+1. Bakanlığınıza bağlı kurumlar içerisinde yer alıp, Maliye Bakanlığı birimleri tarafindan kiraya verilen ticari alanlara ait devam eden sözleşmeler protokolün imzalandığı tarih itibarıyla, sözleşme süresi sonuna kadar aynı şartlarla Bakanlığımıza bağlı kurumlara devredilmiş olup, kira bedelleri Bakanlığımıza bağlı ilgili kurumlarca tahsil edilecek ve elde edilen kira gelirleri döner sermaye bütçesine gelir kaydedilecektir.
+
+2. Mevcut sözleşmelerin süresinin bitiminde yeni ihaleler kurumlarımızca yapılacaktır.
+
+3. Protokolde; "Milli Emlak birimlerince, mevcut kiracılara, kira sözleşmelerinin Sağlık Bakanlığına devredildiği, kira bedellerinin Sağlık Bakanlığının/Il Sağlık Müdürlüğünün belirteceği saymanlığa ödeneceği hususu bildirilecek ve kira dosyalarının bir örneği il Sağlık Müdürlüğüne gönderilecektir. " şeklinde ifade yer almaktadır. Bu bağlamda:
 
 a. Mevcut kira bedellerinin ilgili döner sermaye saymanhğı hesabına yatırılabilmesi
 
@@ -45,7 +72,7 @@ kullanılması mümkün olan yeni açılacak/oluşturulacak ve bu ticari alanlar
 
 3. Molkiyeti üçüncü şahıslara ait olmakla birlikte belli bir süre ilę kullanım hakkı protokol ile Bakanlığımıza veya Valiliğe bırakılan taşınmazlardaki ticari alanların kiraya verilmesinde bu genelge hükümleri uygulanacaktır.
 
-4. Bakanlığımıza bağhı sağlık kurum ve kuruluşlan, mevcut ve yeni oluşturulacak ticari alanlarda genel kabul görmuş faalıyet alanları dışında yeni bir faaliyet alanı ile ilgili kiralama işlemi yapmadan önce Il Sağhk Müdürlüğünden izin alacaklardır. Il Sağhk Müdürlüklerince tereddüt edilen hususlarda Bakanlığımızın ilgili merkez birimlerinden (Tedavi Hizmetleri Genel Müdürlüğü, Temel Sağlık Hizmetleri Genel Müdürlüğü, Kefik Saydam Hıfzıssıhha Merkezi Başkanlığı vb.) görüş alınacaktır.
+4. Bakanlığımıza bağlı sağlık kurum ve kuruluşlan, mevcut ve yeni oluşturulacak ticari alanlarda genel kabul görmuş faalıyet alanları dışında yeni bir faaliyet alanı ile ilgili kiralama işlemi yapmadan önce İl Sağlık Müdürlüğünden izin alacaklardır. İl Sağlık Müdürlüklerince tereddüt edilen hususlarda Bakanlığımızın ilgili merkez birimlerinden (Tedavi Hizmetleri Genel Müdürlüğü, Temel Sağlık Hizmetleri Genel Müdürlüğü, Kefik Saydam Hıfzıssıhha Merkezi Başkanlığı vb.) görüş alınacaktır.
 
 ### T.C. SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı :B.10.0.SGB.0.84.00.01/10-06-6479 16/06/2011
 
@@ -117,7 +144,7 @@ Bilgilerinizi ve konunun iliniz dähilindeki Bakanlığımıza bağh tüm döner
 
 St.ps
 
-Profe: Dr. Nihat TOSUN
+Prof. Dr. Nihat TOSUN
 
 Bakan a.
 
