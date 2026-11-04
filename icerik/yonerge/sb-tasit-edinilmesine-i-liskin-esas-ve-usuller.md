@@ -1,15 +1,16 @@
----
-id: "sb-tasit-edinilmesine-i-liskin-esas-ve-usuller"
+---id: "sb-tasit-edinilmesine-i-liskin-esas-ve-usuller"
 baslik: "Taşıt Edinilmesine İlişkin Esas ve Usuller (Değişiklik İşlenmiş Hâli)"
 tur: "yonerge"
 birim: "Strateji Geliştirme Başkanlığı"
-konu: "Taşıt Edinilmesine İlişkin Esas ve Usuller (Değişiklik İşlenmiş Hâli) konusundaki uygulama usul ve esaslarını belirler."
+konu: "Sağlık Bakanlığı taşra teşkilatı birimlerince hizmet alımı yoluyla veya satın alarak taşıt edinimine ilişkin usul ve esasları düzenler."
 etiketler: ["mali hizmetler", "aşı", "bağışıklama"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1037-1041"
 durum: "yürürlükte"
 ocr: true
+tarih: ""
+sayi: ""
+duzeltildi: true
 ---
-
 11.2.1.Taşıt Edinilmesine İlişkin Esas ve Usuller (Değişiklik İşlenmiş Hâli)
 
 #### Genel hükümler
@@ -46,15 +47,15 @@ Nufus sayılarında Turkiye Istatistik Kurumu (TUTK) tarafindan yayınlanan en
 
 #### Erde saghık hizmetlerine ilişkin taşt edinimleri
 
-**Madde 6 –** (1) Her bir evde sağhk biriminin kayıth hasta sayılarma göre asgari 250 hasta için 1 hizmet macı planlanacaktur. Il bazıda toplarn evde sağlik hizmeti sunulan hasta sayıst 250 = Evde sağlık hizmet aract sayısma ulaşılır. Bu araçlarm dağılmı ildeki taşat değerlendirme komayomuca belirlenu.
+**Madde 6 –** (1) Her bir evde sağlık biriminin kayıth hasta sayılarma göre asgari 250 hasta için 1 hizmet macı planlanacaktur. Il bazıda toplarn evde sağlık hizmeti sunulan hasta sayıst 250 = Evde sağlık hizmet aract sayısma ulaşılır. Bu araçlarm dağılmı ildeki taşat değerlendirme komayomuca belirlenu.
 
-(2) Her bir sağhk: tesisinde, evde sağhk biriminin kayıtlı hasta sayılarını 250 nin altında olması halinde öncelikle ilgili sağhk tesisinin diğer araçlarıyla bu hizmet yerine getirilecek veya il sağlık mudurluğunde oluştulacak tayt değerlendinne komisyon marifetiyle ildeki rum taşıtlar (hizmet alum, demirbaş, nakil araçları, mobil araçlar vb.) degerlendirilerek hizmet sunumu verilecektir.
+(2) Her bir sağlık: tesisinde, evde sağlık biriminin kayıtlı hasta sayılarını 250 nin altında olması halinde öncelikle ilgili sağlık tesisinin diğer araçlarıyla bu hizmet yerine getirilecek veya il sağlık mudurluğunde oluştulacak tayt değerlendinne komisyon marifetiyle ildeki rum taşıtlar (hizmet alum, demirbaş, nakil araçları, mobil araçlar vb.) degerlendirilerek hizmet sunumu verilecektir.
 
-Taşat talepleri il saghk müdurluğünde olușturulacak tajat değerlendume komisyoam marifetiyle hasta sayısı ana kriter olarak değerlendirildikten sonra, söz konusu ihtiyacı karlamaması halinde gerekçesiyle birlikte Bakanlık merkez teşkilatı ilgili birimlerine bildirilecektir.
+Taşat talepleri il sağlık müdurluğünde olușturulacak tajat değerlendume komisyoam marifetiyle hasta sayısı ana kriter olarak değerlendirildikten sonra, söz konusu ihtiyacı karlamaması halinde gerekçesiyle birlikte Bakanlık merkez teşkilatı ilgili birimlerine bildirilecektir.
 
 (4) Uçüncü fıkraya göre (iş artışları dähil) Bakanlık merkez teşkilatı ilgili birimlerinden izin alınmaksızın hiçbir şekilde taşt edinilmeyecektir.
 
-#### Koruyucu saglık hizmetlerine ilişkin taşt edinimleri
+#### Koruyucu sağlık hizmetlerine ilişkin taşt edinimleri
 
 **Madde 7 –** (1) Buyuksehir statusn olan illerde;
 
@@ -92,7 +93,7 @@ Tatin kontrolu luzmetleri çerçevesinde nifasu 200.001 - 400.000 arsat olan her
 
 **Madde 8 –** (1) Il bazında fiilen çalayan toplam personel sayisa 2.500 e kadar olan il sağlık: mndorinkleri en fazla 8 adet, 2.501 ile 5.000 e kadar olanlar en fazla 14 ader, 5.001 ile 10.000 e kndar olanlar en fazla 20 adet, 10.001 ile 15.000 e indar olanlar en fazla 26 adet, 15.001 ile 20.000 e kadar 32 adet. 20.001 ve usti olanlar ise en fazla 40 adet taçat planlanacaktu.
 
-(2) Ikinci ve üçünců basamal: sağhk tesislerinden (hastaneler); tescilli yatak sayısa 400 ile 500 e kadar olanlar 2, 501 ile 750 ye kadar olanlar 3, 751 ile 1000 e kadar olanlar 4, 1001 ile 1250 ye kadar olanlar 5, 1251 ile 1500 e kadar olanlar 6, 1501 ve üzeri olanlar 10 adet taşat planlanacaktu.
+(2) Ikinci ve üçünců basamal: sağlık tesislerinden (hastaneler); tescilli yatak sayısa 400 ile 500 e kadar olanlar 2, 501 ile 750 ye kadar olanlar 3, 751 ile 1000 e kadar olanlar 4, 1001 ile 1250 ye kadar olanlar 5, 1251 ile 1500 e kadar olanlar 6, 1501 ve üzeri olanlar 10 adet taşat planlanacaktu.
 
 ### ÜÇỨNCỬ BOLÚM Diğer hususlar, Cygulama
 
@@ -102,13 +103,13 @@ Tatin kontrolu luzmetleri çerçevesinde nifasu 200.001 - 400.000 arsat olan her
 
 (2) (1) numaralı bende göre yapılan iş ve işlemlerde ildeki komis you tarafundan yapılan değerlendıme sonucunda ılave taşta ihtiyaç duyulması durunında; Bakankık: merkez teşkilatı ilgili birimlerine bu talep iletilecektir.
 
-Bakanlal: merkez teşkilatı ilgili birimleri ilave araç taleplerinin yerindelik değerlendirmesini yaparak: Bakanhk Merkez Teşkilatı Tajat Değerlendirme Komisyonuna sunmak üzere rapor hazırlayacaktır. Ilave araç talepleri bu komisyon marifeti ile karara bağlanacaktu.
+Bakanlal: merkez teşkilatı ilgili birimleri ilave araç taleplerinin yerindelik değerlendirmesini yaparak: Bakanlık Merkez Teşkilatı Tajat Değerlendirme Komisyonuna sunmak üzere rapor hazırlayacaktır. Ilave araç talepleri bu komisyon marifeti ile karara bağlanacaktu.
 
 ### (4/5)
 
 (3) Bu Esas ve Usulde belirtilen kriterlerin dayanda kalan tayat edinim ve kullanun talepleri, ildeki taşıt degerlendirme komisyonu rapom doğrultusunda, Strateji Geliştirme Başkanlığınca sonuçlandılacaktu GEÇICI MADDE 1- (1) Geçią sürecinde herhangi bir olnmsuzhığa mahal vermemek için, meveut ihalelerin sözleşme strelerinin tamamlanması beklenilmeksizin illerde "Il Sağlık: Modürtoğo Taşıt Değerlendirme Komisyom" kurularak gerekli tedbirler alınscaktır.
 
-(2) Bu Esas ve Usullerin yayımı tarihi itibariyle; ildeki komisyonca, hizmet alıma yontemi ile taşt edinileri için devam eden sözleşmelerdeki taşt sayıları sozleşme stueleri sona ermeden değerlendirilerek mevzuat çerçevesinde iş ekilişi yapılabilecektir. () 2020 yıh hizmet alımı yöntemni ile taşat edinumleri için ihaleye başlananş olması durumuda, bu Usul ve Esaslarda belutilen kriterer kapsamunda olmasi gereken taçur sayılarından, daha fazla taşat için ihaleye sıkılmış ise; 4735 sayıh Kamu İhale Søzleşmeleri Karunu'nun 24 ünců maddesi kapsamında iş eksilişi yapılması gerekmekteda. Yürürlülük
+(2) Bu Esas ve Usullerin yayımı tarihi itibariyle; ildeki komisyonca, hizmet alıma yontemi ile taşt edinileri için devam eden sözleşmelerdeki taşt sayıları sozleşme stueleri sona ermeden değerlendirilerek mevzuat çerçevesinde iş ekilişi yapılabilecektir. () 2020 yıh hizmet alımı yöntemni ile taşat edinumleri için ihaleye başlananş olması durumuda, bu Usul ve Esaslarda belutilen kriterer kapsamunda olmasi gereken taçur sayılarından, daha fazla taşat için ihaleye sıkılmış ise; 4735 sayılı Kamu İhale Søzleşmeleri Karunu'nun 24 ünců maddesi kapsamında iş eksilişi yapılması gerekmekteda. Yürürlülük
 
 **MADDE 10 –** (1) Bu Esas ve Usuller yaymu tarihinde yilrihloge girer. Yürütme
 

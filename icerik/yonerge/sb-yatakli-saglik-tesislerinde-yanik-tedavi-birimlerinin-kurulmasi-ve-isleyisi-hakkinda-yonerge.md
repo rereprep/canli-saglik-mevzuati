@@ -1,15 +1,16 @@
----
-id: "sb-yatakli-saglik-tesislerinde-yanik-tedavi-birimlerinin-kurulmasi-ve-isleyisi-hakkinda-yonerge"
+---id: "sb-yatakli-saglik-tesislerinde-yanik-tedavi-birimlerinin-kurulmasi-ve-isleyisi-hakkinda-yonerge"
 baslik: "Yataklı Sağlık Tesislerinde Yanık Tedavi Birimlerinin Kurulması ve İşleyişi Hakkında Yönerge"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Yataklı sağlık tesislerinde yanık odası, yanık ünitesi ve yanık tedavi merkezlerinin kuruluşu ile çalışma esaslarını belirler."
+konu: "Yataklı sağlık tesislerinde yanık odası, yanık ünitesi ve yanık tedavi merkezlerinin kurulması, asgari standartları ve işleyişini düzenler."
 etiketler: ["yanık tedavisi", "yanık merkezi", "yataklı tedavi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 104-111"
 durum: "yürürlükte"
 ocr: true
+tarih: "2010-01-19"
+sayi: "2202"
+duzeltildi: true
 ---
-
 2.2.13. Yataklı Sağlık Tesislerinde Yanık Tedavi Birimlerinin Kurulması ve İşleyişi Hakkında Yönerge bünyesinde en az iki hastaya aynı anda yanık tedavi hizmeti verebilecek nitelikte fızik, donanım ve personel şartlarını haiz yanık birimini,
 
 ı) Yanık tedavi birimi: Yanık odası, yanık ünitesi veya yanık tedavi merkezi için kullanılan genel tanımlamayı,
@@ -82,7 +83,7 @@ C- Steril olmayan alan: Yanık tedavi merkezinde hasta kabul ve kayıt işlemler
 
 3- Poliklinik odasında kapalı ve kilitlenebilir dolap, pansuman masası, hasta muayene sedyesi ve seyyar muayene lambası ile gerekli steril müdahale ekipmanı bulunur.
 
-4- Müstakil binası bulunan yanık tedavi merkezlerinin steril olmayan alanında en az 15 m' genişliğinde bir laboratuar düzenlenebilir.
+4- Müstakil binası bulunan yanık tedavi merkezlerinin steril olmayan alanında en az 15 m' genişliğinde bir laboratuvar düzenlenebilir.
 
 5- Steril olmayan alandan steril alana geçişler kontrollü olarak sağlanır ve sterilizasyonun bozulmasını önleyici özel giysiler muhafaza edildiği uygun bir mekan düzenlenir.
 
@@ -94,7 +95,7 @@ C- Steril olmayan alan: Yanık tedavi merkezinde hasta kabul ve kayıt işlemler
 
 (2) Yanık tedavi birimlerinde her vardiya için; asgari 1 anestezi teknisyeni, 1 hemşire ve 1 sağlık memuru (toplum sağlığı), kayıt ve arşivleme işlemleri için 1 tıbbi sekreter ile yeteri kadar yardımcı hizmetli personel görevlendirilir. Yanık tedavi hizmetleri ekip anlayışı ıçerısınde yürütülür ve ekıbe işin yoğunluğu veya ihtiyaca göre sorumlu tabibin talebi, baştabibin onayı ile ilave personel görevlendirmesi yapılabilir. Yanık tedavi birimlerinde psikolojik destek, rehabilitasyon ve beslenme hizmetleri ihtiyaç halinde baştabip tarafindan belirlenecek 1 psikolog veya sosyal çalışmacı, 1 fizyoterapist ve yanık tedavi konusunda deneyimli 1 diyetisyenin sorumluluğunda yürütülür.
 
-(3) Yanık tedavi merkezinde görevli eğitim sertifikası sahibi sorumlu uzman tabip ve diğer sağlık personeli, başka birimlerde görevlendirilmez ve yanık tedavi merkezi haricindeki nöbet hızmetleri ile yükümlendirılemez.
+(3) Yanık tedavi merkezinde görevli eğitim sertifikası sahibi sorumlu uzman tabip ve diğer sağlık personeli, başka birimlerde görevlendirilmez ve yanık tedavi merkezi haricindeki nöbet hizmetleri ile yükümlendirılemez.
 
 (4) Yanık ünitesi ve yanık odasında görevli sorumlu tabip bu birimdeki görevinin yanı sira branşı ile alakalı poliklinik, klinik, ameliyat ve nöbet hizmetlerini de yürütebilir. Diğer sağlık personeli ihtiyaca göre baştabip tarafindan kurumun diğer birimlerinde de çalıştırılabilir ve nöbet hizmetlerine dahil edilebilir.
 
@@ -154,7 +155,7 @@ Yanık tedavi ekibinde yer alan hizmetli ve diğer personel; sorumlu tabibin bel
 
 ## ÜÇÜNCÜ BÖLÜM
 
-Eğitim Merkezlerinin Belirlenmesi, Sağhk Personelinin Eğitimi ve Sertifikasyon
+Eğitim Merkezlerinin Belirlenmesi, Sağlık Personelinin Eğitimi ve Sertifikasyon
 
 #### Eğitim merkezlerinin belirlenmesi
 

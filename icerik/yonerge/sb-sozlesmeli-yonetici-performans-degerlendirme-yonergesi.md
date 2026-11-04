@@ -1,15 +1,16 @@
----
-id: "sb-sozlesmeli-yonetici-performans-degerlendirme-yonergesi"
+---id: "sb-sozlesmeli-yonetici-performans-degerlendirme-yonergesi"
 baslik: "Sözleşmeli Yönetici Performans Değerlendirme Yönergesi"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
-konu: "Sözleşmeli Yönetici Performans Değerlendirme Yönergesi kapsamında yürütülecek iş ve işlemleri düzenler."
+konu: "İl sağlık müdürlüğü, başkanlık ve sağlık tesislerinde sözleşmeli statüde görev yapan yöneticilerin performans değerlendirme kriterlerini düzenler."
 etiketler: ["personel", "yönetici performansı", "değerlendirme"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 941-947"
 durum: "yürürlükte"
 ocr: true
+tarih: "2018-05-18"
+sayi: "362"
+duzeltildi: true
 ---
-
 9.2.4. Sözleşmeli Yönetici Performans Değerlendirme Yönergesi
 
 ### SÖZLEŞMELİ YÖNETİCİ PERFORMANS DEGERLENDİRME YÖNERGESİ
@@ -20,7 +21,7 @@ MADDE: 1 - (1) Bu Yönerge'nin amacı, illerde sağlık hizmetini yürüten söz
 
 **MADDE 2 –** (1) Bu Yönerge, il sağlık müdürlerini, başkan ve başkan yardımcılarını, ilçe sağlık mudurlerini, başhekim ve başhekim yardımcılarını, hastane modur ve müdür yardımcılarını kapsar. Dayanak
 
-**MADDE 3 –** (1) Bu Yönerge; 11/10/2011 tarihli ve 663 sayılı Sağlik Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 18 ve 32 nei maddesi ile 16/10/2017 tarihli ve 2012 sayıh Sağlık Bakanlığı Hizmet Sözleşmesinin 11'inci maddesine dayanılarak hazırlanmiştır.
+**MADDE 3 –** (1) Bu Yönerge; 11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 18 ve 32 nei maddesi ile 16/10/2017 tarihli ve 2012 sayılı Sağlık Bakanlığı Hizmet Sözleşmesinin 11'inci maddesine dayanılarak hazırlanmiştır.
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
@@ -30,7 +31,7 @@ b) Bakanlık: Sağlık Bakanlığı
 
 c) Sözleşmeli Yönetici: Uzmanlar hariç olmak üzere 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarımın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Karamame'nin ek (II) sayılı cetvelde belirtilen pozisyonlarda istihdam edilen personeli,
 
-9) Performans Değerlendirme: Sağhk Bakanlığı Taşra Teşkilatı Kadro Standartları İle Çalışma Usul ve Esaslarına Dair Yönergede yer alan sözleşmeli yönetici görev ve sorumluluklarına bireysel performans göstergeleri olușturularak yapılan değerlendirmeyi,
+9) Performans Değerlendirme: Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları İle Çalışma Usul ve Esaslarına Dair Yönergede yer alan sözleşmeli yönetici görev ve sorumluluklarına bireysel performans göstergeleri olușturularak yapılan değerlendirmeyi,
 
 d) Perforans Degerlendirme Komisyonu: Performans raporu ile performans puanna yönelik yapılan itirazları değerlendirmek ve başanı düzeyi düşen sözleşmeli yöneticilerin görevden alınmalarına ilişkin iş ve işlemleri yürütmek üzere Bakanlık bünyesinde oluşturulan
 
@@ -78,7 +79,7 @@ k) Performans Başanı Düzeyi: Ilgili sözleşmeli yöneticinin sorumlu olduğu
 
 #### Komisyonun kurulması ve görevleri
 
-**MADDE 8 –** (1) Performans değerlendirmesine ilişkin iş ve işlemleri yürütmek üzere Bakanlık bünyesinde komisyon kurulur. Komisyon; Bakanın veya görevlendireceği Bakan Yardımeısı 'nın Başkanlığında, Ilaç ve Tıbbi Cihaz Kurum Başkanı, Yönetim Hizmetleri Genel Müdürü, Kamu Hastaneleri Genel Mudurü, Saghk Hizmetleri Genel Müdürti, Halk Sağhğı Genel Müdürü, Acil Sağlık Hizmetleri Genel Müdürü, Sağhk Bilgi Sistemleri Genel Müdürü, Strateji Geliştirme Başkanı ve olmak üzere toplam yedi kişiden oluşur
+**MADDE 8 –** (1) Performans değerlendirmesine ilişkin iş ve işlemleri yürütmek üzere Bakanlık bünyesinde komisyon kurulur. Komisyon; Bakanın veya görevlendireceği Bakan Yardımeısı 'nın Başkanlığında, Ilaç ve Tıbbi Cihaz Kurum Başkanı, Yönetim Hizmetleri Genel Müdürü, Kamu Hastaneleri Genel Mudurü, Sağlık Hizmetleri Genel Müdürti, Halk Sağhğı Genel Müdürü, Acil Sağlık Hizmetleri Genel Müdürü, Sağlık Bilgi Sistemleri Genel Müdürü, Strateji Geliştirme Başkanı ve olmak üzere toplam yedi kişiden oluşur
 
 (2) Performans Değerlendirme Komisyonu; performens puanlarının onaylanmasi, performans başarı düzeyi düşen sözleşmeli yöneticinin onaylanması, yapılan itiraz başvurularımın kabulü ve degerlendirilmesi, doğal afet ve olaganüstü hallerde değerlendirmeden muaf tutulacak olan göstergelerin kişi ve/veya il bazında belirlenmesi, performans göstergesi çıkarma, yeni gösterge ekleme görevlerini yürütür.
 
@@ -108,7 +109,7 @@ Degerlendirme sonucunda olusan performans Müdürlük/Kurumlar, Illerde il sağl
 
 (6) Performans puanı, Sağhık Bakanlığı Hizmet Sözleşmesi kapsamında görev yapan veya Bakanlık tarafından görevlendirilen yöneticiler için hesuplanır.
 
-(7) Mudür yardımcısı performans puanı hesaplamasında esas alınacak görev alanı (saglık bakım hizmetleri, idari mali hizmetler, destek ve kalite hizmetleri) il sağlık müdürlüğü tarafından yılda bir defa beyan edilir. Müdür yardımcılan için beyan sonrası yapılan görev alanı değişikliği ilgili dönem performans puanı hesaplamasında dikkate alınmaz.
+(7) Mudür yardımcısı performans puanı hesaplamasında esas alınacak görev alanı (sağlık bakım hizmetleri, idari mali hizmetler, destek ve kalite hizmetleri) il sağlık müdürlüğü tarafından yılda bir defa beyan edilir. Müdür yardımcılan için beyan sonrası yapılan görev alanı değişikliği ilgili dönem performans puanı hesaplamasında dikkate alınmaz.
 
 (8) İlgili dönem verileri üzerinden yapılan hesaplama sonucu Genel Müdürlak tarafindan ilan edilen ilk performans puanlan kesinleşmemiş olan puanlardır ve bu puanlar üzerinden performans başan duzeyi belirlenmez.
 
@@ -142,7 +143,7 @@ a) 11, 12 ve 13 Grubunda: Kamu Hastaneleri Hizmetleri, Halk Sağlığı Hizmetle
 
 b) 14 ve 15 Gruplarında: Personel Hizmetleri ile Destek Hiametleri bir başkan tarafindan yurunulecegi için alacağı performans puanı her iki hizmet için almış olduğu performans puanının aritmetik ortalaması alınarak hesaplanır.
 
-c) 16, 17 ve 18 Gruplanda: Acil Sağlık Hizmetleri ve Sağhk Hizmetleri de Ilaç ve Tibbi Cihaz Hizmetleri bir başkan tarafindan; Personel Hizmetleri ile Destek Hizmetleri de bir başkan tarafindan yürütüleceği için alacakları performans puanı ber hizmet için çıken pertormans puanının aritmetik ortalaması alınarak hesaplanır.
+c) 16, 17 ve 18 Gruplanda: Acil Sağlık Hizmetleri ve Sağlık Hizmetleri de Ilaç ve Tibbi Cihaz Hizmetleri bir başkan tarafindan; Personel Hizmetleri ile Destek Hizmetleri de bir başkan tarafindan yürütüleceği için alacakları performans puanı ber hizmet için çıken pertormans puanının aritmetik ortalaması alınarak hesaplanır.
 
 g) 19 Grubunda: Halk Saglığı Hizmetleri, Acil Sağlık Hizmetleri, İlaç ve Tibbi Cihaz Hizmetleri, Personel Hizmetleri ile Destek Hizmetleri bir başkan tarafindan yürütüleceği için alacaği performans puan tum bu hizmetler için almiş olduğu performans puanınin aritmetik ortalaması alınarak hesaplanır.
 
@@ -166,7 +167,7 @@ c) Müdür yardımcıları, müdür için oluşturulmuş olan performans göster
 
 (5) Yetkinlik bazlı performans değerlendirme puanı verilecek: süre kadar görevde bulunmama halinde performans degerlendirme notu verilmez.
 
-(6) Sağhk tesisi yöneticilerinin yetkinlik bazlı performans değerlendirmesine ilişkin itirazları gerekçeli olarak il sağlık müdürlüğüne yapılır. Il soğlık müdüro tarafından değerlendirilerek karara bağlanır. İl sağlık müdurluğu yöneticilerinin yetkinlik bazlı performans değerlendirmesine ilişkin itirazları gerekçeli olarak il sağlık müdürlnğo tæcrinden yapılır. İtiraz başvuruları, il sağlık mudarluğuı tarafindan değerlendirilerek gerekçeli görüişleri belirtilmek suretiyle Bakanlığa bildirilir.
+(6) Sağlık tesisi yöneticilerinin yetkinlik bazlı performans değerlendirmesine ilişkin itirazları gerekçeli olarak il sağlık müdürlüğüne yapılır. Il soğlık müdüro tarafından değerlendirilerek karara bağlanır. İl sağlık müdurluğu yöneticilerinin yetkinlik bazlı performans değerlendirmesine ilişkin itirazları gerekçeli olarak il sağlık müdürlnğo tæcrinden yapılır. İtiraz başvuruları, il sağlık mudarluğuı tarafindan değerlendirilerek gerekçeli görüişleri belirtilmek suretiyle Bakanlığa bildirilir.
 
 #### Formun doldurulması
 
@@ -182,7 +183,7 @@ c) Müdür yardımcıları, müdür için oluşturulmuş olan performans göster
 
 **MADDE 16 –** (1) Bu Yönerge Bakan onayını takiben yürürlüğe girer. Yürütme
 
-**MADDE 17 –** (1) Bu Yönerge hükümlerini Sağhk Bakamı yürütür.
+**MADDE 17 –** (1) Bu Yönerge hükümlerini Sağlık Bakamı yürütür.
 
 ### EKLER:
 

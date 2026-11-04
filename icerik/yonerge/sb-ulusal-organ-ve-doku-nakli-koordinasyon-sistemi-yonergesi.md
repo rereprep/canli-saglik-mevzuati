@@ -1,15 +1,16 @@
----
-id: "sb-ulusal-organ-ve-doku-nakli-koordinasyon-sistemi-yonergesi"
+---id: "sb-ulusal-organ-ve-doku-nakli-koordinasyon-sistemi-yonergesi"
 baslik: "Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Ulusal ve bölge organ ve doku nakli koordinasyon sisteminin yapısı, organ bağışı ve dağıtım ilkelerini belirler."
+konu: "Ulusal ve bölge organ ve doku nakli koordinasyon sistemi yapısı, organ bağışı, organ dağıtımı ve beyin ölümü tespit bildirim esaslarını belirler."
 etiketler: ["organ nakli", "doku nakli", "organ bağışı", "ulusal koordinasyon"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 117-127"
 durum: "yürürlükte"
 ocr: true
+tarih: "2008-05-28"
+sayi: "19735"
+duzeltildi: true
 ---
-
 2.2.15. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi
 
 ## İKİNCİ BÖLÜM Kadavra Vericiden Organ ve Doku Dağıtım İlkeleri
@@ -166,7 +167,7 @@ e) Kadavra vericinin böbrek nakli merkezlerinde çıkması durumunda aşağıda
 
 f) Kadavra vericinin böbrek nakli merkezi dışındaki bir organ ve doku kaynağı merkezinde çıkması durumunda aşağıdaki kurallar uygulanır:
 
-1) Organ ve doku kaynağı merkezlerinde çıkan kadavra vericilerden böbrek çıkarımı, BKM'ne bağh illerdeki (Ek 2) nakil merkezleri tarafindan ve (Ek 3-C)'ye göre sıra ile gerçekleştirilir.
+1) Organ ve doku kaynağı merkezlerinde çıkan kadavra vericilerden böbrek çıkarımı, BKM'ne bağlı illerdeki (Ek 2) nakil merkezleri tarafindan ve (Ek 3-C)'ye göre sıra ile gerçekleştirilir.
 
 2) Böbrek çıkarımını yapacak nakil merkezi ile karaciğeri kullanacak nakil merkezi aynı hastane bünyesinde ise, böbrek çıkarımı karaciğeri kullanacak karaciğer transplant cerrahının sorumluluğunda gerçekleştirilebilir.
 
@@ -216,7 +217,7 @@ a) Yönetmeliğin 22 nci maddesi uyarınca organ ve doku kaynağı merkezi nitel
 
 b) Organ ve doku kaynağı merkezlerinde görev alacak organ ve doku nakli koordinatörü ve yardımcılarının isimlerini, meslek ûnvanlarını ve telefon numaralarını BKM'ne bildirirler.
 
-c) Bütün resmi ve özel hastaneler, beyin ölümü vakalarımı bağlı olduğu BKM'ne ve UKM'ne bildirmek zorundadır. Hastane servislerindeki potansiyel beyin ölümü vakalarını servis sorumlu tabibi çalıştığı kurumun organ ve doku nakli koordinatörüne bildirir. Organ ve doku nakli koordinatörü veya yardımcıları beyin ölümünün teşhis edilmesi için beyin ölümü kurulunu göreve davet eder. Kanun'un 11 inci ve 13 üncü maddeleri uyarınca beyin ölümü kararı alındıktan sonra organ ve doku nakli koordinatörü veya yardımcılanı tarafindan Kanun'a uygun olarak hasta yakınlarından, organ ve doku bağışı talep edilir. Organ ve doku nakli koordinatörü vakayı ve bağış durumunu (Ek 1)'de düzenlenen Beyin Olümü Bildirim Formunu ve Aile Izin Formunu (Ek 9) doldurarak bağh bulunduğu BKM'ne ve UKM'ne bildirmek zorundadır. Kurumda organ ve doku nakli koordinatörü bulunmuyor ise, beyin ölümü vakası Baştabip tarafindan ilgili BKM'ne ve KM'ne bildirilir.
+c) Bütün resmi ve özel hastaneler, beyin ölümü vakalarımı bağlı olduğu BKM'ne ve UKM'ne bildirmek zorundadır. Hastane servislerindeki potansiyel beyin ölümü vakalarını servis sorumlu tabibi çalıştığı kurumun organ ve doku nakli koordinatörüne bildirir. Organ ve doku nakli koordinatörü veya yardımcıları beyin ölümünün teşhis edilmesi için beyin ölümü kurulunu göreve davet eder. Kanun'un 11 inci ve 13 üncü maddeleri uyarınca beyin ölümü kararı alındıktan sonra organ ve doku nakli koordinatörü veya yardımcılanı tarafindan Kanun'a uygun olarak hasta yakınlarından, organ ve doku bağışı talep edilir. Organ ve doku nakli koordinatörü vakayı ve bağış durumunu (Ek 1)'de düzenlenen Beyin Olümü Bildirim Formunu ve Aile Izin Formunu (Ek 9) doldurarak bağlı bulunduğu BKM'ne ve UKM'ne bildirmek zorundadır. Kurumda organ ve doku nakli koordinatörü bulunmuyor ise, beyin ölümü vakası Baştabip tarafindan ilgili BKM'ne ve KM'ne bildirilir.
 
 (2) Beyin Ölümü Bildirim Formlarının Başhekimlikçe aylık olarak Bakanlık Tedavi Hizmetleri Genel Müdürlüğüne gönderilmesi zorunludur.
 
@@ -264,7 +265,7 @@ ile görevli ve sorumludur.
 
 #### Bölge koordinasyon merkezlerinin görev ve sorumlulukları
 
-**Madde 12 –** (1) KM'ler bulundukları ilin Sağlık Müdürlüğüne ve UKM'ne bağlı olarak Bakanlığın belirleyeceği görevleri yaparlar. KM'den Il Sağlık Müdürünün görevlendireceği bir Il Sağhk Müdür Yardımcısı sorumludur. II Sağhık Müdürlüğü, BKM'ne uygun bir çalışma mekanı, şehirlerarası görüşmeye açık bir telefon, internet bağlantılı bilgisayar sistemi ve il içi ve il dışı görevlerde kullanılmak üzere araç sağlamak dahil olmak üzere, organ ve doku nakli ile ilgili hizmetin yürütülmesini kolaylaştıracak her türlü desteği vermekle yükümlüdür.
+**Madde 12 –** (1) KM'ler bulundukları ilin Sağlık Müdürlüğüne ve UKM'ne bağlı olarak Bakanlığın belirleyeceği görevleri yaparlar. KM'den Il Sağlık Müdürünün görevlendireceği bir Il Sağlık Müdür Yardımcısı sorumludur. II Sağhık Müdürlüğü, BKM'ne uygun bir çalışma mekanı, şehirlerarası görüşmeye açık bir telefon, internet bağlantılı bilgisayar sistemi ve il içi ve il dışı görevlerde kullanılmak üzere araç sağlamak dahil olmak üzere, organ ve doku nakli ile ilgili hizmetin yürütülmesini kolaylaştıracak her türlü desteği vermekle yükümlüdür.
 
 (2) BM'nin görev ve sorumlulukları şunlardır:
 
@@ -300,7 +301,7 @@ f) Sağlık personeline ve halka eğitim vermek,
 
 g) Bakanlık tarafindan organ ve doku nakli konusunda düzenlenecek her tür eğitim ve kampanyalara bölgesinde iştirak etmek ve destek vermek,
 
-ğ) Organ ve doku kaynağı merkezleri, doku tipleme laboratuarları ve organ ve doku nakli merkezleri arasında koordinasyonu sağlamak,
+ğ) Organ ve doku kaynağı merkezleri, doku tipleme laboratuvarları ve organ ve doku nakli merkezleri arasında koordinasyonu sağlamak,
 
 h) Bakanlık tarafından verilen diğer görevleri yapmak,
 
@@ -376,4 +377,4 @@ ile görevli ve sorumludur.
 
 **Madde 18 –** (1) Bu Yönerge Bakan onayı ile yürürlüğe girer. Yürütme
 
-**Madde 19 –** (1) Bu Yönerge hükümlerini Sağhk Bakanı yürütür. Ekler: Ek: 1 Beyin Ölümü Bildirim Formu Ek: 2 Bölge Koordinasyon Merkezlerine Bağlanan İllerin Listesi Ek: 3 Ulusal Sistemden Organ ve Doku Ahm/Çikarım Strası Ek: 4 Verici Bilgi Formu Ek: 5 Organ Bilgi Formu Ek: 6 Alci Izleme Formu Ek: 7 Kadavradan Böbrek Dağıtımı Puanlama Tablosu Ek: 8 Acil Hasta Bildirim Formu Ek: 9 Aile Izin Formu
+**Madde 19 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür. Ekler: Ek: 1 Beyin Ölümü Bildirim Formu Ek: 2 Bölge Koordinasyon Merkezlerine Bağlanan İllerin Listesi Ek: 3 Ulusal Sistemden Organ ve Doku Ahm/Çikarım Strası Ek: 4 Verici Bilgi Formu Ek: 5 Organ Bilgi Formu Ek: 6 Alci Izleme Formu Ek: 7 Kadavradan Böbrek Dağıtımı Puanlama Tablosu Ek: 8 Acil Hasta Bildirim Formu Ek: 9 Aile Izin Formu

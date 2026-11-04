@@ -1,22 +1,23 @@
----
-id: "sb-saglik-bakanligi-ve-bagli-kuruluslari-i-mza"
+---id: "sb-saglik-bakanligi-ve-bagli-kuruluslari-i-mza"
 baslik: "Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi"
 tur: "yonerge"
 birim: "Hukuk Hizmetleri Genel Müdürlüğü"
-konu: "Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi kapsamında yürütülecek iş ve işlemleri düzenler."
+konu: "Sağlık Bakanlığı ve bağlı kuruluşlarında imzaya yetkili makamlar ile imza yetkilerinin kullanım ve devir usullerini düzenler."
 etiketler: ["hukuk", "sağlık yönetimi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 909-916"
 durum: "yürürlükte"
 ocr: true
+tarih: "2024-07-17"
+sayi: "248902606"
+duzeltildi: true
 ---
-
 8.2.1. Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi
 
 ## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
 **MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığı ve bağlı kuruluşlarında, imzaya yetkili makamlan belirlemek, verilen yetkileri belli ilke ve usullere bağlamak, alt kademelere yetki tanıyarak sorumluluk duygusunu geliştirmek, üst makamlara politika belirleme ve önemli konularda daha sağlıklı karar almak için zaman kazandırmak, bürokratik işlemleri kısaltarak hizmetlerde sürat ve verimliliği artırmaktır. Kapsam
 
-**MADDE 2 –** (1) Bu Yönerge; Bakan, Bakan Yardımcıları, Bakanlık merkez teşkilatındaki hizmet birimleri ve bağh kuruluşların en üst yöneticileri ile daha alt kademedeki görevlilerin, Bakanlığın hizmet ve faaliyetlerine ait imza yetkilerini ve bu yetkilerin tam ve etkili olarak kullamılmasına ilişkin ilke ve usulleri kapsar. Dayanak
+**MADDE 2 –** (1) Bu Yönerge; Bakan, Bakan Yardımcıları, Bakanlık merkez teşkilatındaki hizmet birimleri ve bağlı kuruluşların en üst yöneticileri ile daha alt kademedeki görevlilerin, Bakanlığın hizmet ve faaliyetlerine ait imza yetkilerini ve bu yetkilerin tam ve etkili olarak kullamılmasına ilişkin ilke ve usulleri kapsar. Dayanak
 
 **MADDE 3 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı 'Hakkında Cumhurbaşkanlığı Kararnamesinin 506 neı ve 508 inci maddelerine dayanılarak hazırlanmiştır. Tanımlar
 
@@ -24,11 +25,11 @@ ocr: true
 
 a) Bakanlık: Sağlık Bakanlığımı,
 
-b) Bağhı kuruluş: 15/7/2018 tarihli ve 4 sayılı Bakanlıklara Bağh, Ilgili, Ilişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi uyarınca teşkil edilen Türkiye Ilaç ve Tıbbi Cihaz Kurumu ile Türkiye Hudut ve Sahiller Sağhk Genel Müdürlügünü,
+b) Bağhı kuruluş: 15/7/2018 tarihli ve 4 sayılı Bakanlıklara Bağlı, Ilgili, Ilişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi uyarınca teşkil edilen Türkiye Ilaç ve Tıbbi Cihaz Kurumu ile Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü,
 
 g) Birim: Bakanlık merkez teşkilatındaki hizmet birimlerini,
 
-d) Birim amiri: Bakanlık merkez teşkilatındaki hizmet birimlerinin en üst yöneticilerini, ø) Bağhı kuruluş amiri: Bağh kuruluşların en üst yöneticilerini, ifade eder.
+d) Birim amiri: Bakanlık merkez teşkilatındaki hizmet birimlerinin en üst yöneticilerini, ø) Bağhı kuruluş amiri: Bağlı kuruluşların en üst yöneticilerini, ifade eder.
 
 ### IKINCİ BÖLÜM Genel Hükümler
 
@@ -44,7 +45,7 @@ c) Birim amiri
 
 ç) Birim amirinin yetki devrettiği astlar
 
-#### d) Bağh kuruluş amirinin yetki devrettiği astlar. like ve usuller
+#### d) Bağlı kuruluş amirinin yetki devrettiği astlar. like ve usuller
 
 **MADDE 6 –** (1) Bu Yönerge ile devredilen imza yetkisinin kullanılmasında aşağıdaki hususlara riayet edilecektir.
 
@@ -164,13 +165,13 @@ g) Bakanlık ve bağlı kuruluşlarınca hazırlanan mevzuat taslakları hakkın
 
 d) Prensip, yetki ve sorumluluklan değiştirmeyen ancak uygulanagelen usul, yöntem ve çalışma esaslannda değişiklik yapan direktif ve genelgeler,
 
-e) Diger kurum ve kuruluşlar ve gerçek kişiler ile yapılan ve Bakanhk için mükellefiyet öngören protokoller,
+e) Diger kurum ve kuruluşlar ve gerçek kişiler ile yapılan ve Bakanlık için mükellefiyet öngören protokoller,
 
 1) Bakanlık hizmet birimleri ve taşra teşkilatı birimlerinin bütçe kullanımına dair yeni sorumluluk/yükümlülük getiren ödenek taahhütleri ve tahsis işlemleri,
 
-g) 21/2/2013 tarihli ve 6428 sayılı Saglık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun kapsamında alınan onaylar,
+g) 21/2/2013 tarihli ve 6428 sayılı Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun kapsamında alınan onaylar,
 
-g) Bakanlık ve bağlı kuruluş merkez ve taşra teşkilatı tarafından yürütülen ihale iş ve işlemleri ile ilgili olarak 8/9/1983 tarihli ve 2886 sayıh Devlet Ihale Kanunu, 4/1/2002 tarihli ve 4734 sayılı Kamu Ihale Kanunu ve 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu uyarınca verilecek kamu ihalelerinden yasaklama kararlarına ilişkin onaylar,
+g) Bakanlık ve bağlı kuruluş merkez ve taşra teşkilatı tarafından yürütülen ihale iş ve işlemleri ile ilgili olarak 8/9/1983 tarihli ve 2886 sayılı Devlet Ihale Kanunu, 4/1/2002 tarihli ve 4734 sayılı Kamu Ihale Kanunu ve 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu uyarınca verilecek kamu ihalelerinden yasaklama kararlarına ilişkin onaylar,
 
 h) Üniversitelere ait sağlık kuruluşlan ile özel sağlık kuruluşlarımın açılış, izin ve ruhsatları ile kadro tahsisi onayları,
 
@@ -206,7 +207,7 @@ u) İlçe sağlık müdürü, eğitim ve araştırma hastanesi ile şehir hastan
 
 u) Sağlık uzmanı, avrupa birliği uzmanı, mali hizmetler uzmanı, eğitim görevlisi, başasistan kadrolarına yapılacak atama ve görevlendirme onayları,
 
-v) Bakanhk bağlı kuruluşlarında, 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 26 ncı maddesi uyarınca istihdam edilecek personelin sözleşmeleri ve Dünya Bankası ile yapılan ikraz anlaşmaları kapsamında çalıştırılacak danışmanlarla sözleşme yapılmasına dair onaylar,
+v) Bakanlık bağlı kuruluşlarında, 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 26 ncı maddesi uyarınca istihdam edilecek personelin sözleşmeleri ve Dünya Bankası ile yapılan ikraz anlaşmaları kapsamında çalıştırılacak danışmanlarla sözleşme yapılmasına dair onaylar,
 
 y) Daire başkanı, basın ve halkla ilişkiler müşaviri, hukuk müşaviri, iç denetçi, özel kalem müdürü kadrolarındaki personelin başka kurumlara nakilleri için muvafakat onaylanı,
 
@@ -254,7 +255,7 @@ m) Bakan ve Bakan Yardımcısının, birim amirleri tarafindan imzalanmasını u
 
 (2) Aşağida belirtilen işlemlerden;
 
-a) Saglık Hizmetleri Genel Müdürünce;
+a) Sağlık Hizmetleri Genel Müdürünce;
 
 1) Sağlık personelinin diploma tescil işlemleri,
 

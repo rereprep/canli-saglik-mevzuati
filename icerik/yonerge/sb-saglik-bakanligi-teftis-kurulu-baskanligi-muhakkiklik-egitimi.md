@@ -1,18 +1,19 @@
----
-id: "sb-saglik-bakanligi-teftis-kurulu-baskanligi-muhakkiklik-egitimi"
+---id: "sb-saglik-bakanligi-teftis-kurulu-baskanligi-muhakkiklik-egitimi"
 baslik: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi"
 tur: "yonerge"
 birim: "Teftiş Kurulu Başkanlığı"
-konu: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi kapsamında yürütülecek iş ve işlemleri düzenler."
+konu: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı koordinesinde muhakkik olarak görevlendirilecek personele verilecek muhakkiklik eğitimi usul ve esaslarını düzenler."
 etiketler: ["denetim", "muhakkiklik", "soruşturma"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1015-1023"
 durum: "yürürlükte"
 ocr: true
+tarih: "2024-11-29"
+sayi: "261021584"
+duzeltildi: true
 ---
-
 10.2.1. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi
 
-### T.C. SAGLIK BAKANLIĞI Teftiş Kurulu Başkanhğı
+### T.C. SAĞLIK BAKANLIĞI Teftiş Kurulu Başkanlığı
 
 Sayı : 55753367-010.04 Konu : Muhakkiklik Eğitimi Yönergesi
 
@@ -40,7 +41,7 @@ Teftiş Kurulu Başkamı Ek: Yönerge (7 Sayfa)
 
 **MADDE 2 –** (1) Bu yönerge, Sağlık Bakanlığı Teftiş Kurulu Başkanlığının düzenleyeceği muhakkiklik eğitimlerine iştirak eden katılımcıları, eğitimlerde görev alan eğiticileri, eğitim hizmetlerinin verilmesine yardımcı olan diğer görevlileri kapsar.
 
-**MADDE 3 –** (1) Bu yönerge, 1 numaralı Cumhurbaşkanlığı Kararnamesi'nin 508. maddesi ve 11/12/2009 tarihli ve B.10.0.SEG.0.72.00.03-010.03/15296 sayılı Bakanlık Makamı Onayı ile yürürlüğe giren Sağhk Bakanlığı Hizmet Içi Eğitim Yönetmeliğine istinaden
+**MADDE 3 –** (1) Bu yönerge, 1 numaralı Cumhurbaşkanlığı Kararnamesi'nin 508. maddesi ve 11/12/2009 tarihli ve B.10.0.SEG.0.72.00.03-010.03/15296 sayılı Bakanlık Makamı Onayı ile yürürlüğe giren Sağlık Bakanlığı Hizmet Içi Eğitim Yönetmeliğine istinaden
 
 #### Tanımlar
 
@@ -54,7 +55,7 @@ c) Başkanlık: Teftiş Kurulu Başkanlığını,
 
 d) Başkan: Teftiş Kurulu Başkanını,
 
-e) Birim: Sağhk Bakanlığı merkez teşkilatına ait Genel Müdürlükler, Daire Başkanlıklari, Müdürlükler, Kurumlar, Başkanlıklar, Müşavirlikler ile taşra teşkilatında Il ve Ilçe Sağlık Müdürlükleri ve bunlara bağlı hizmet birimlerini,
+e) Birim: Sağlık Bakanlığı merkez teşkilatına ait Genel Müdürlükler, Daire Başkanlıklari, Müdürlükler, Kurumlar, Başkanlıklar, Müşavirlikler ile taşra teşkilatında Il ve Ilçe Sağlık Müdürlükleri ve bunlara bağlı hizmet birimlerini,
 
 f) Eğitici: Hizmet içi eğitim verme yetkinliğine sahip görevlileri,
 
@@ -142,7 +143,7 @@ Eğitimin Konular
 
 **Madde 8 –** (1) Muhakkiklik eğitim programı, aşağıda yer alan hususlar ve konular esas
 
-a) Başta Anayasa olmak üzere: 657 sayılı Devlet Memurları Kanunu, Idare Hukuku ve Ceza Hukukunun genel ilkeleri, 4483 sayıhı Kanun, 3628 sayılı Kanun, memurların adli, idari ve mali sorumlulukları, kamu zararı ve tazmin usulleri, denetim görevlilerinin uyacakları mesleki etik davranış ilkeleri, inceleme ve soruşturma mevzuatı, Sağlık Bakanlığının teşkilat yapısı, uygulamaya yönelik olarak Eğitim Komisyonunun önereceği, Başkanlığın uygun göreceği konulara ağırlık vermek suretiyle eğitim programına dâhil edilir.
+a) Başta Anayasa olmak üzere: 657 sayılı Devlet Memurları Kanunu, Idare Hukuku ve Ceza Hukukunun genel ilkeleri, 4483 sayılı Kanun, 3628 sayılı Kanun, memurların adli, idari ve mali sorumlulukları, kamu zararı ve tazmin usulleri, denetim görevlilerinin uyacakları mesleki etik davranış ilkeleri, inceleme ve soruşturma mevzuatı, Sağlık Bakanlığının teşkilat yapısı, uygulamaya yönelik olarak Eğitim Komisyonunun önereceği, Başkanlığın uygun göreceği konulara ağırlık vermek suretiyle eğitim programına dâhil edilir.
 
 b) Bakanlığa intikal eden ve şikâyete konu olan hususlar dikkate alınarak; Taşıt ve Harcırah Kanunu, Ihale Mevzuatı, Basına Demeç Verme ve Sosyal Medya Paylaşımları, Mobbing, Tıbbi Kötü Uygulama, Hasta ve Çalışan Haklarına Yönelik Uygulamalar, Sağlık Kurulu Raporları, Ilåç ve Reçete Tanzimi usulleri, Terör Propagandası kapsamına giren fiiller, Yangın ve Sivil Savunma Mevzuatı ve Mali Denetim Usul ve Yöntemleri konularına eğitim programlarında yer verilebilir.
 
@@ -198,7 +199,7 @@ Belge doğrulama kodu: 903EC2AF-57DC-4862-A455-20DD2EF136C1 Belge doğrulama adr
 
 **Madde 12 –** (1) Katılımcılar azami 50'şer kişilik gruplar halinde eğitime tabi tutulur. Internet alt yapısı kullanılarak yapılan uzaktan eğitimlerde bu sayı Başkanlıkça belirlenir. Grupların oluşturulmasında katılımcıların fiilen yaptıkları görev, eğitim durumları ve unvanları dikkate alınır. Homojen gruplara eğitim verilmesi konusunda gerekli tedbirler Eğitim Komisyonunca alınır.
 
-(2) Muhakkiklik eğitimine katılacak personel, katılımcı personelin bağh olduğu idari birimin uygun göreceği çalışanlar arasından, Eğitim Komisyonunca belirlenen ve Başkanlık kanalıyla talep edilen; fiili görev, unvan, eğitim vs. gibi kriterler de dikkate alınarak belirlenir.
+(2) Muhakkiklik eğitimine katılacak personel, katılımcı personelin bağlı olduğu idari birimin uygun göreceği çalışanlar arasından, Eğitim Komisyonunca belirlenen ve Başkanlık kanalıyla talep edilen; fiili görev, unvan, eğitim vs. gibi kriterler de dikkate alınarak belirlenir.
 
 (3) Muhakkiklik eğitimine katılması önerilen personel listesi, Başkanlığın talebi üzerine Bakanlığın merkez ve taşra birimlerince Başkanlığa iletilir. Başkanlığa iletilen listeler Eğitim Komisyonuna intikal ettirilir.
 

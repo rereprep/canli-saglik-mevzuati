@@ -1,18 +1,19 @@
----
-id: "sb-saglik-bakanligi-saglik-hizmetleri-ve-yardimci-saglik"
+---id: "sb-saglik-bakanligi-saglik-hizmetleri-ve-yardimci-saglik"
 baslik: "Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
-konu: "Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönergena ilişkin hususları düzenler."
+konu: "Sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfı harici personelin atama ve yer değiştirme usul ve esaslarını düzenler."
 etiketler: ["personel", "yer değiştirme", "atama"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 923-930"
 durum: "yürürlükte"
 ocr: true
+tarih: "2023-09-08"
+sayi: "22410678"
+duzeltildi: true
 ---
-
 9.2.1. Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge
 
-### SAGLIK BAKANLIGI SAGLIK HIZMETLERI VE YARDIMCI SAGLIK HİZMETLERİ SINIFI HARİCİ PERSONELİN ATAMA VE YER DEĞİŞTİRME USUL VE ESASLARINA İLIŞKİN YÖNERGE
+### SAĞLIK BAKANLIĞI SAĞLIK HIZMETLERI VE YARDIMCI SAĞLIK HİZMETLERİ SINIFI HARİCİ PERSONELİN ATAMA VE YER DEĞİŞTİRME USUL VE ESASLARINA İLIŞKİN YÖNERGE
 
 ## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanınlar
 
@@ -20,11 +21,11 @@ A ADDE 1-(1) Bu Yönergenin amac:; Sağk Bakanlığt taşta tegkilatnda görev y
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönerge; Sağhk Bakanlığı taşra teşkilatında avukatlık hizmetleri, genel idare hizmetleri, teknik hizmetler, din hizmetleri ve yardımcı hizmetler sufinda görev yapan personeli kapsar.
+**MADDE 2 –** (1) Bu Yönerge; Sağlık Bakanlığı taşra teşkilatında avukatlık hizmetleri, genel idare hizmetleri, teknik hizmetler, din hizmetleri ve yardımcı hizmetler sufinda görev yapan personeli kapsar.
 
 (2) Merkez teşkilat ile taşra teşkilatı arasındaki personel hareketleri ile şube müdürü, müdür, müdür yardımeısı kadrolarında bulunanlar bu Yönergenin kapsamı dışındadır.
 
-**MADDE 3 –** (1) Bu Yönerge: 11/10/2011 tarihli ve 663 sayılı Sağhk Bakanlığı ve Bağlı Kuruluşlarımın Teşkilat ve Görevleri Hakkında Kanun Hukmünde Karamamenin 40 ıncı maddesi ile 19/4/1983 tarihli ve 83/6525 sayılı Bakanlar Kurulu Kararı ile yürürlüge konulan Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına Dair Yönetmeliğe dayanılarak
+**MADDE 3 –** (1) Bu Yönerge: 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarımın Teşkilat ve Görevleri Hakkında Kanun Hukmünde Karamamenin 40 ıncı maddesi ile 19/4/1983 tarihli ve 83/6525 sayılı Bakanlar Kurulu Kararı ile yürürlüge konulan Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına Dair Yönetmeliğe dayanılarak
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
@@ -32,7 +33,7 @@ a) Bakan: Sağlık Bakanını,
 
 b) Bakanlk: Sağlık Bakanlğı,
 
-c) Müdürlük: Il sağhk möderiaginü,
+c) Müdürlük: Il sağlık möderiaginü,
 
 €) Personel : Bakanlık taşra teşkilatında 657 sayılı Devlet Memurlari Kanununun 4 uncu maddesinin birinci fikrasının (A) bendine göre istihdam edilen avukatlık hizanetleri, genel idare hizmetleri, teknik hizmetler, din hizmetleri ve yardımcı hizmetler sınıfinda çalışanlan,
 
@@ -56,7 +57,7 @@ e) Standart: Bakanlık standart kadro mevzuatında belirlenen standart kadrolan,
 
 #### Sağlık mazeretine bağlı yer değişikliği
 
-**MADDE 8 –** (1) Kapsama dahil personelin, kendisinin, eşinin, bakmakla yukümlu annesinin, babasının, çocuklarının ve yargı kararı ile vasi tayin edildiği kardeşinin hastalığının görev yapuğı yerde tedavisinin mümkün olmadığı Universite veya Bakanlık Eğitim ve Araştırma Hastanelerinden alınacak sağhk kurulu raporu ile belgelendirmesi halinde, tedavinin yapılabileceği bir sağlık kurum veya kurulışunun bulunduğu veya sağlığının olumsuz etkilenmeyeceği bir yere Bakanlıkça oluşturulan saglık mazereti değerlendirme komisyonu kararına istinaden ataması yapılabilir. Sağlık mazeretine bağhı taleplerde dönem ve süre şartı aranmaz.
+**MADDE 8 –** (1) Kapsama dahil personelin, kendisinin, eşinin, bakmakla yukümlu annesinin, babasının, çocuklarının ve yargı kararı ile vasi tayin edildiği kardeşinin hastalığının görev yapuğı yerde tedavisinin mümkün olmadığı Universite veya Bakanlık Eğitim ve Araştırma Hastanelerinden alınacak sağlık kurulu raporu ile belgelendirmesi halinde, tedavinin yapılabileceği bir sağlık kurum veya kurulışunun bulunduğu veya sağlığının olumsuz etkilenmeyeceği bir yere Bakanlıkça oluşturulan sağlık mazereti değerlendirme komisyonu kararına istinaden ataması yapılabilir. Sağlık mazeretine bağhı taleplerde dönem ve süre şartı aranmaz.
 
 #### Aile birliği mazeretine bağlı yer değişikliği
 
@@ -66,11 +67,11 @@ e) Standart: Bakanlık standart kadro mevzuatında belirlenen standart kadrolan,
 
 (3) Kamu görevlisi olmayan eşinin, atanma talep edilen yerde başvuru tarihi itibanyla son iki yıl içinde 360 gün sosyal güvenlik primi ödemek suretiyle kendi adına veya bir hizmet akdi ile işverene bağlı olarak çalışmış ve halen çalışıyor olması halinde, personelin yer değişikliği suretiyle ataması yapılabilir. Kendi adına çalışanlardan borçlarımı yapılandıranlar ile atama talep edilen yer dışında sosyal güvenlik primleri ödenenlerden, atama talep edilen yerde 1ş yerinin faaliyette oldugunu ve bu işyerinde en az 360 gün çalışuğını belgelendirenlerin
 
-(4) Eşlerin her ikisinin Bakanlık personeli olması halinde; Bakanlık merkez teşkilatı kadrosunda olanların veya il sağlık müdürü, başkan, başken yardımcısı, ilçe sağlık müdürü, başhekim, eğitim görevlisi, başasisten, yan dal uzmanı, uzman tabip, tabip, uzman diş tabibi, diş tabibi, uzman eczacı ve eczacıların eşlerinin görev yerleri, bu personele bağilı olarak değiştirilir. Eşleri diğer sağhk personeli veya bu Yönerge kapsamındaki kadrolarımın birinde olması halinde hizmet ihtiyacı esas alınarak aile birliği sağlamır.
+(4) Eşlerin her ikisinin Bakanlık personeli olması halinde; Bakanlık merkez teşkilatı kadrosunda olanların veya il sağlık müdürü, başkan, başken yardımcısı, ilçe sağlık müdürü, başhekim, eğitim görevlisi, başasisten, yan dal uzmanı, uzman tabip, tabip, uzman diş tabibi, diş tabibi, uzman eczacı ve eczacıların eşlerinin görev yerleri, bu personele bağilı olarak değiştirilir. Eşleri diğer sağlık personeli veya bu Yönerge kapsamındaki kadrolarımın birinde olması halinde hizmet ihtiyacı esas alınarak aile birliği sağlamır.
 
 (5) Eşlerin tarkh kurumda çalışıyor olması halinde, kurumlar arasında koordinasyon sağlanmak suretiyle her iki kurumun hizmet ihtiyacı, ildeki dolu-boş kadro sayılanı esas alınarak
 
-(6) Aile birliği mazeretine bağh taleplerde dönem ve süre şarti aranmaz
+(6) Aile birliği mazeretine bağlı taleplerde dönem ve süre şarti aranmaz
 
 #### Can Güvenliği Mazeretine Bağlı Ver Değişikliği
 
@@ -92,7 +93,7 @@ e) Standart: Bakanlık standart kadro mevzuatında belirlenen standart kadrolan,
 
 (6) Eşi zorunlu yer değiştirmeye tabi olarak görev yapmakta iken emekliye ayrılması halinde eşinin emekliye aynlmasından sonraki 1 (Bir) yıl içinde eşinin ikamet ettiği yere süre ve dönem şartı aranmadan ataması yapılır.
 
-(7) Ataması eş/sağlık/öğrenim durumundan yapılan personel, mazeretinin devam ettigine dair belgeyi her yıl en geç şubat ayının sonuna kadar çalıştığı hizmet biriminin bağh olduğu Il Sağlık Müdürluğune vermekle yukümludür. Bu madde kapsamında görev yeri değiştirilenlerden mazereti sona erenler, bulunduklan ildeki personel ihtiyacmın, eski görev yerindeki personel ihtiyacından daha fazla olması ve talebi halinde yerinde bırakılır. Aksi takdirde, boş kadro bulunması kaydıyla eski görev yerine atanabilir. Bu madde kapsamında atandığı yerde fiilen 5 (Beş) yıl çalışanlar hakkında mazeret takibi yapılmaz. Mazeretini belgelendiremeyen personelin ataması iptal edilerek eski görev yerine döndürülür.
+(7) Ataması eş/sağlık/öğrenim durumundan yapılan personel, mazeretinin devam ettigine dair belgeyi her yıl en geç şubat ayının sonuna kadar çalıştığı hizmet biriminin bağlı olduğu Il Sağlık Müdürluğune vermekle yukümludür. Bu madde kapsamında görev yeri değiştirilenlerden mazereti sona erenler, bulunduklan ildeki personel ihtiyacmın, eski görev yerindeki personel ihtiyacından daha fazla olması ve talebi halinde yerinde bırakılır. Aksi takdirde, boş kadro bulunması kaydıyla eski görev yerine atanabilir. Bu madde kapsamında atandığı yerde fiilen 5 (Beş) yıl çalışanlar hakkında mazeret takibi yapılmaz. Mazeretini belgelendiremeyen personelin ataması iptal edilerek eski görev yerine döndürülür.
 
 #### Karşılıklı yer değişikliği
 
@@ -104,7 +105,7 @@ e) Standart: Bakanlık standart kadro mevzuatında belirlenen standart kadrolan,
 
 **MADDE 14 –** (1) Haklarında adli, idari ve inzibati bir sorușturma yapumış JE B ruşturma sonucunda eski görev yerinde kalmalarında sakınca görülen personelden,/teklifir mahiyetine göre, il içinde tayin edilmesi uygun görülenler il içerisindeki diğer birimlere, müdürlük tarafından; başka bir ile atanması uygun görülenler ise Bakanlık merkez teşkilatınca atamırlar. Bu hüküm gereği atananlar, ayrıldıkları ile veya birime 2 (tki) yıl geçmeden yeniden atanamazlar.
 
-**MADDE 15 –** (1) Bakanlık ve bağh kuruluşları dışındaki diğer kamu kurum ve kuruluşlarında görev yapan personel, Bakanlık taşra teşkilatlarında durumlarına uygun kadrolara atanabilirler. Kurumlar arası atamalar kadro durumunun ve standardın uygun olması halinde kura ile yapılır. Kura sonrası atama işlemleri tamamlanmayanların atama hakları, bir sontaki kura açılma döneminde sona erer. Bakanlık bağlı kuruluşlannda görev yapan kapsama
+**MADDE 15 –** (1) Bakanlık ve bağlı kuruluşları dışındaki diğer kamu kurum ve kuruluşlarında görev yapan personel, Bakanlık taşra teşkilatlarında durumlarına uygun kadrolara atanabilirler. Kurumlar arası atamalar kadro durumunun ve standardın uygun olması halinde kura ile yapılır. Kura sonrası atama işlemleri tamamlanmayanların atama hakları, bir sontaki kura açılma döneminde sona erer. Bakanlık bağlı kuruluşlannda görev yapan kapsama
 
 (2) Avukatlar ile eşleri Bakanlıkta uzman tabip, uzman diş tabibi, tabip ve diş tabibi olarak görev yapanlardan, teşkilat veya kadro bulunmaması veya başka bir yerde istihdamının mümkün olmaması gibi nedenlerle kurumlarınca ataması yapılamayanlar, standardın uygun
 
@@ -128,7 +129,7 @@ e) Standart: Bakanlık standart kadro mevzuatında belirlenen standart kadrolan,
 
 **MADDE 17 –** (1) Bu Yönergenin;
 
-a) 8 inci maddesi uyarınca yapılacak: saglık mazeretine bagh yer değişikliği.
+a) 8 inci maddesi uyarınca yapılacak: sağlık mazeretine bagh yer değişikliği.
 
 b) 14 üncü maddesi uyanınca yapılacak hizmet gereği atamalar,
 
@@ -178,7 +179,7 @@ g) Eşi emekli olanların yer degiştirmelerinde; eşinin ikamelgäh belgesi ile
 
 #### Çeşitli hükümler
 
-**MADDE 20 –** (1) Bu Yonergeye gore:
+**MADDE 20 –** (1) Bu Yönergeye gore:
 
 a) Bakanlık taşra teşkilatında görev yapan personelin il içi veya iller arası yer değişikligi işlemlerinde, kadro standartları mevzuatına uygun işlem tesis edilmesi,
 
@@ -198,7 +199,7 @@ d) Personelin özlük işlemleri ile belge tanzimlerinin, usul ve esaslara uygun
 
 #### Yürürlükten kaldırılan yönerge
 
-**MADDE 13 –** (1) 02/02/2018 tarihli ve 663 sayılı Saglık Bakanlığı Saglık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına Ilişkin Yönerge yürürlükten kaldırılmıştır. Yürürlük
+**MADDE 13 –** (1) 02/02/2018 tarihli ve 663 sayılı Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına Ilişkin Yönerge yürürlükten kaldırılmıştır. Yürürlük
 
 **MADDE 24 –** (1) Bu Yönerge Bakan Onayı ile yürürlüğe girer. Yürütme
 

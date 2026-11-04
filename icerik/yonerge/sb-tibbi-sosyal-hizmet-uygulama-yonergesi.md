@@ -1,15 +1,16 @@
----
-id: "sb-tibbi-sosyal-hizmet-uygulama-yonergesi"
+---id: "sb-tibbi-sosyal-hizmet-uygulama-yonergesi"
 baslik: "Tıbbi Sosyal Hizmet Uygulama Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Sağlık tesislerinde tedavi gören ihtiyaç sahibi ve dezavantajlı hastalara yönelik tıbbi sosyal hizmetlerin sunumunu düzenler."
+konu: "Yataklı sağlık tesislerinde tıbbi sosyal hizmet birimlerinin kurulması, işleyişi ve dezavantajlı hastalara sunulacak sosyal hizmet esaslarını düzenler."
 etiketler: ["tıbbi sosyal hizmet", "sosyal hizmet uzmanı", "psikososyal destek"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 97-103"
 durum: "yürürlükte"
 ocr: true
+tarih: "2011-02-16"
+sayi: "7465"
+duzeltildi: true
 ---
-
 2.2.12. Tıbbi Sosyal Hizmet Uygulama Yönergesi
 
 ## BİRİNCİ BÖLÜM Amaç, Kapsam ve Dayanak, Tanımlar
@@ -100,7 +101,7 @@ d) Konuyla ilgili verilecek görevleri yerine getirmek.
 
 #### Tıbbi Sosyal Hizmetler Şubesi
 
-**Madde 7 –** (1) Bakanlık Tıbbi Sosyal Hizmetler Şubesi, Bakanlığa bağh hastanelere başvuran hastaların, psiko-sosyal ve sosyo-ekonomik sorunlarının çözilmlenmesi amacıyla, tıbbi sosyal hizmet uygulamalarının geliştirilmesi, ülke genelinde planlanması, uygulanması, denetlenmesi ve koordinasyonundan sorumludur.
+**Madde 7 –** (1) Bakanlık Tıbbi Sosyal Hizmetler Şubesi, Bakanlığa bağlı hastanelere başvuran hastaların, psiko-sosyal ve sosyo-ekonomik sorunlarının çözilmlenmesi amacıyla, tıbbi sosyal hizmet uygulamalarının geliştirilmesi, ülke genelinde planlanması, uygulanması, denetlenmesi ve koordinasyonundan sorumludur.
 
 Ruh Sağlığı ve Sosyal Hastahıklar Şubesi:
 
@@ -132,7 +133,7 @@ Sosyal Hizmet Birimlerinin Teşkili, Çalışma Usul ve Esasları ile Birim Çal
 
 #### Görev ve Sorumlulukları Sosyal hizmet birimi
 
-**Madde 9 –** (1) Bünyesinde sosyal çalışmacı olan hastanelerde bu Yönergenin yürürlüğe girdi tarihten itibaren en geç bir ay içinde; bünyesinde sosyal çalışmacı bulunmayan hastanelerde i: sosyal çalışmacının göreve başladığı tarihten itibaren en geç bir ay içinde sosyal hizmet birir kurulur. Sosyal hizmet birimi, başhekime baglı olarak faaliyet gösterir.
+**Madde 9 –** (1) Bünyesinde sosyal çalışmacı olan hastanelerde bu Yönergenin yürürlüğe girdi tarihten itibaren en geç bir ay içinde; bünyesinde sosyal çalışmacı bulunmayan hastanelerde i: sosyal çalışmacının göreve başladığı tarihten itibaren en geç bir ay içinde sosyal hizmet birir kurulur. Sosyal hizmet birimi, başhekime bağlı olarak faaliyet gösterir.
 
 (2) Birimin çalişma usul ve esasları şunlardır:
 

@@ -1,22 +1,23 @@
----
-id: "sb-toplum-sagligi-merkezlerinde-tsm-yurutulecek-is-sagligi-ve-guvenligi-hizmetlerinin-uygulama-usul-ve-esaslari-hakkinda-yonerge"
+---id: "sb-toplum-sagligi-merkezlerinde-tsm-yurutulecek-is-sagligi-ve-guvenligi-hizmetlerinin-uygulama-usul-ve-esaslari-hakkinda-yonerge"
 baslik: "Toplum Sağlığı Merkezlerinde (TSM) Yürütülecek İş Sağlığı ve Güvenliği Hizmetlerinin Uygulama Usûl Ve Esasları Hakkında Yönerge"
 tur: "yonerge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Toplum sağlığı merkezleri bünyesinde sunulan iş sağlığı ve güvenliği hizmetlerinin uygulama usullerini belirler."
+konu: "Toplum sağlığı merkezleri bünyesinde sunulan iş sağlığı ve güvenliği hizmetlerinin planlanması, yetkilendirilmesi ve uygulama esaslarını belirler."
 etiketler: ["toplum sağlığı", "tsm", "iş sağlığı ve güvenliği"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 449-455"
 durum: "yürürlükte"
 ocr: true
+tarih: "2014-01-31"
+sayi: "10.04"
+duzeltildi: true
 ---
-
 6.23. Toplum Sağlığı Merkezlerinde (TSM) Yürütülecek İş Sağlığı ve Güvenliği Hizmetlerinin Uygulama Usûl Ve Esasları Hakkında
 
 ### TOPLUM SAĞLIĞI MERKEZLERİNDE YÜRÜTÜLECEK İŞ SAĞLIĞI VE GÜVENLIĞİ HİZMETLERİNİN UYGULAMA USÜL VE ESASLARI HAKKINDA YÖNERGE
 
 ## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
-**MADDE 1 –** (1) Bu Yönerge'nin amacı; iş sağlığı ve güvenliği (ISG) hizmetlerinin etkin, yaygın ve erişilebilir hale getirilmesini temin etmek üzere meveut sağhk hizmetleri sunumuna ISG hizmetlerinin entegre edilmesi ve toplum sağlığa merkezlerinde (TSM) ISG hizmetleri sunulmasanın usûl ve esaslarını belirlemektir.
+**MADDE 1 –** (1) Bu Yönerge'nin amacı; iş sağlığı ve güvenliği (ISG) hizmetlerinin etkin, yaygın ve erişilebilir hale getirilmesini temin etmek üzere meveut sağlık hizmetleri sunumuna ISG hizmetlerinin entegre edilmesi ve toplum sağlığa merkezlerinde (TSM) ISG hizmetleri sunulmasanın usûl ve esaslarını belirlemektir.
 
 #### Kapsam
 
@@ -46,7 +47,7 @@ g) Kurum: Türkiye Halk Sağlığı Kurumu'nu,
 
 g) Müdürlük: Halk Sağlığı Madürlogo'nü,
 
-h) Sorumiu Modür: Yetkilendirilmiş TSM Birimi'nin iş ve işlemlerinden ilgili Bakanhğa ve Müdürlüğe karşı sorumlu olan TSM sorumlu hekimini.
+h) Sorumiu Modür: Yetkilendirilmiş TSM Birimi'nin iş ve işlemlerinden ilgili Bakanlığa ve Müdürlüğe karşı sorumlu olan TSM sorumlu hekimini.
 
 1) Yetkilendirilmiş TSM Birimi: Ilgili Bakanlıkça yetkilendirilen ve TSM bünyesinde iş sağlığı ve güvenligi hizmetlerini yfirütmek azere kundan birimi. ifade eder.
 
@@ -56,7 +57,7 @@ Müdürlük ve TSM'lerin İSG Alanındaki Görev, Yetki ve Sorumlulukları
 
 #### ISG hizmetlerinin planlanması ve uygulanması
 
-**MADDE 5 –** (1) Müdürlük, Sosyal Güvenlik Il Müdürlügü ile işbirliği içerisinde ildeki işyerlerinin sayılarımı, sektörel dağılımlarını, adreslerini, bu işyerlerinin tehlike sınıfina göre dağılımlanor, medick hastalıkları ve iş kazaları bildirimlerini yılda en az bir kez veya ihtiyaç halinde, elektronik ortandan veri ulamk imptar, durum tespitini yapar ve bölgedeki TSM'ye ve Yetkilendirilmiy 13M Birimne bildird.
+**MADDE 5 –** (1) Müdürlük, Sosyal Güvenlik Il Müdürlüğü ile işbirliği içerisinde ildeki işyerlerinin sayılarımı, sektörel dağılımlarını, adreslerini, bu işyerlerinin tehlike sınıfina göre dağılımlanor, medick hastalıkları ve iş kazaları bildirimlerini yılda en az bir kez veya ihtiyaç halinde, elektronik ortandan veri ulamk imptar, durum tespitini yapar ve bölgedeki TSM'ye ve Yetkilendirilmiy 13M Birimne bildird.
 
 (2) TSM'ler.
 
@@ -84,7 +85,7 @@ MADDE & (1) Modarlak, dindeki kgeri saştar ve dağılımı, mhlike umlima, çal
 
 (4) Yetkilendirilmiş TSM Biriminin kurulması ve çalışması ile ilgili resmi kutumlara Jap lacak odereker Müdurtaçe karylanır.
 
-**MADDE 7 –** (1) Yetkilendirüniş TSM Hiriminde iy sağliğı hizmeti sumulabllmen içn Işyeri Hekimi ve Diğer Sağhk Personelinin Görev, Yetki, Sorumluluk ve Eğıtimleri Hakknla Yönetmelik hükümlerine göre işyeri hekimi ve işyeri diğer sağlık personeli, iş güvenliği hizmeti sunulabilmesi için ise Iş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik hükümlerine göre iş güvenliği uzmanı görevlendirilir.
+**MADDE 7 –** (1) Yetkilendirüniş TSM Hiriminde iy sağliğı hizmeti sumulabllmen içn Işyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğıtimleri Hakknla Yönetmelik hükümlerine göre işyeri hekimi ve işyeri diğer sağlık personeli, iş güvenliği hizmeti sunulabilmesi için ise Iş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik hükümlerine göre iş güvenliği uzmanı görevlendirilir.
 
 (2) TSM sorumlu hekiminin ismi yetki belgesi başvurusunda sorumlu müdür olarak belirtilir. Müdürlük, sorumlu bekimin görevden ayrılması durumanda yau ile diğer personelin görevden ayrılmas durumunda ISG-KATIP üzerinden 3 la glaü içinde Ilgili Genel Müdürikße bilgi vermesini sağlar. 30 gün içerisinde bu kişileria yerine aranan niteliklere sahip personel görevlendirilmesi ve ilgili Genel Müdurlüğe bildirilmesi zorunludur.
 
@@ -92,7 +93,7 @@ MADDE & (1) Modarlak, dindeki kgeri saştar ve dağılımı, mhlike umlima, çal
 
 (4) Müdürlik, birimdeki hizmetlerin aksamaması için belgeli personel sayısını artimek dilhil her säirlü tedbiri alır.
 
-(5) Yetkilendirilmiş TSM Biriminde görevlendirilmek Gzere lyyed hekimligi belgesine sahin hekim, ty güvenliği urmam belgesine sahip personel ve diğer seğhk perscueli belgesine salip diger saghk personeli bulanmaması halinde Müdürlük, beltieyeveb personeline eğilimi programina katıliminı sağlar. Bu personelin eğifin, sinav ve belge Ocretieri Müdüriogon döner sutmaye bütçesinden ödenir.
+(5) Yetkilendirilmiş TSM Biriminde görevlendirilmek Gzere lyyed hekimligi belgesine sahin hekim, ty güvenliği urmam belgesine sahip personel ve diğer seğhk perscueli belgesine salip diger sağlık personeli bulanmaması halinde Müdürlük, beltieyeveb personeline eğilimi programina katıliminı sağlar. Bu personelin eğifin, sinav ve belge Ocretieri Müdüriogon döner sutmaye bütçesinden ödenir.
 
 (0) Müdürlekçe eğiler programıma kanlımı sağlanan hekim 1k-1/A'daki taahhunameyi inzalamak suretiyle göreve hasladığı tarhter Hibaren en az ski yul süre ile Müdikflğun veya Bakanlığm belirleysceği Yetkilelirimiş TSM Phriminde şahışmuy, taahhüt eder. Bu taahhüdüni yerine getirmeyen veya eğilmie biündni multeskin (lL üki anavda flagansz olan bekimden ogitim, amav ve belge içun döner sermaye blaçesinden ödenen iwretter tahsil edilir
 
@@ -116,7 +117,7 @@ MADDE &- (I) TSM soumlu hekimi ayrı zaranda Yetk.llendirllmiş TSM Biriminde il
 
 #### İşyeri hekiminin görev, yetki ve sorumlulukları
 
-**MADDE 9 –** (1) Işyeri hekimi, Işyeri Hekimi ve Diğer Sağhk Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğe uygun olarak görevlerini yerine getirir.
+**MADDE 9 –** (1) Işyeri hekimi, Işyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğe uygun olarak görevlerini yerine getirir.
 
 (2) Işyeri hekimi, bu görevleri yerine getirmek için belirlenen süreler dışında kalan zamanlarında TSM sorumlu hekimi tarafindan verilen diğer görevleri yapar.
 
@@ -128,7 +129,7 @@ MADDE &- (I) TSM soumlu hekimi ayrı zaranda Yetk.llendirllmiş TSM Biriminde il
 
 #### İşyeri diğer sağlık personelinin görev, yetki ve sorumlulukları
 
-**MADDE 11 –** (1) Işyeri diğer sağlık personeli, Işyeri Hekimi ve Diğer Sağlik Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğe uygun olarak görevlerini yerine getirir.
+**MADDE 11 –** (1) Işyeri diğer sağlık personeli, Işyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğe uygun olarak görevlerini yerine getirir.
 
 (2) Işyeri diğer sağlık personeli, bu görevleri yerine getirmek için belirlenen süreler dışında kalan zamanlarında TSM sorumlu hekimi ve işyeri hekimi tarafından verilen diğer görevleri yaper.
 
@@ -192,7 +193,7 @@ MADDE &- (I) TSM soumlu hekimi ayrı zaranda Yetk.llendirllmiş TSM Biriminde il
 
 (2) Iserierinin, italk saglag agisnutan tehdit oluşturmast halinde her torlg tedbirin alımane: sağlammesı MüdürlügEn sonumiolu@endadır.
 
-GEÇICI MADDE I- (8) layen diğer sağlık personeli olurak görevlendirilecek kişilerde 01/01/2015 tarihine kadar Diğer Sağlik Personeli Belgesine sahip olma şar aranmaz, ancak bu kişilerin 01/01/2016 tarihine kadar söz konusu belgeye sahip olması zorunludur. 01/01/2015 tarihinden sonra görevlendirileceklerde ise bu belgeye sahip olma
+GEÇICI MADDE I- (8) layen diğer sağlık personeli olurak görevlendirilecek kişilerde 01/01/2015 tarihine kadar Diğer Sağlık Personeli Belgesine sahip olma şar aranmaz, ancak bu kişilerin 01/01/2016 tarihine kadar söz konusu belgeye sahip olması zorunludur. 01/01/2015 tarihinden sonra görevlendirileceklerde ise bu belgeye sahip olma
 
 (2)- 6331 sayılı Iş Sağhğı ve Güvenliği Kanununun 38 inci maddesinin birinci fikrasının (a) bendinin bir ve ikinci kasımlarında belirtilen işyerlerinde, iş sağkığı ve güvenliği yönünden özellikli rapor niteliğinde olan işe giriş ve periyodik sağlık muayeneleri, kanun gereği işyeri hekimi istihdamı zorunluluğunun başladığı tarihe kadar, kamu sağlık hizmeti sunucuları tarafindan düzenlenir.
 
@@ -202,4 +203,4 @@ GEÇICI MADDE I- (8) layen diğer sağlık personeli olurak görevlendirilecek k
 
 #### Yürütme
 
-**MADDE 20 –** (1) Bu Yönerge hükümlerini Sağhk Bakanı yürütür.
+**MADDE 20 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

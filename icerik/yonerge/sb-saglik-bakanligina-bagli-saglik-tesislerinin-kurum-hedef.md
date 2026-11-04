@@ -1,30 +1,31 @@
----
-id: "sb-saglik-bakanligina-bagli-saglik-tesislerinin-kurum-hedef"
+---id: "sb-saglik-bakanligina-bagli-saglik-tesislerinin-kurum-hedef"
 baslik: "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Kurum Hedef Katsayısının Hesaplanmasına İlişkin Yönerge"
 tur: "yonerge"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
-konu: "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Kurum Hedef Katsayısının Hesaplanmasına İlişkin Yönerge kapsamında yürütülecek iş ve işlemleri düzenler."
+konu: "Sağlık Bakanlığına bağlı sağlık tesislerinde kurum hedef katsayısının belirlenmesi ve ek ödemeye esas hesaplama kriterlerini düzenler."
 etiketler: ["kamu hastaneleri", "sağlık tesisleri", "verimlilik"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 799-801"
 durum: "yürürlükte"
 ocr: true
+tarih: "2025-05-23"
+sayi: "277164646"
+duzeltildi: true
 ---
-
 7.2.1. Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Kurum Hedef Katsayısının Hesaplanmasına İlişkin Yönerge
 
 ### SAĞLIKC TESİSLERİ KURUM HEDEY NESAYISININ BELİRLENMESİNE İLİŞKİN
 
 ## BİRİNCİ BÖLÜM Başlangiç Hükümleri
 
-**MADDE 1 –** Bu Yönergenin amacı, Sağhk Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerinin ek ödeme miktarının belirlenmesinde çarpan olarak kullanılacak kurum hedet katsayısının tespitine yönelik usul ve esasları belirlemektir. Kapsam
+**MADDE 1 –** Bu Yönergenin amacı, Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerinin ek ödeme miktarının belirlenmesinde çarpan olarak kullanılacak kurum hedet katsayısının tespitine yönelik usul ve esasları belirlemektir. Kapsam
 
-**MADDE 2 –** Bu Yönerge, Sağlık Bakanlığına bağlı ikinci ve üçüncül basamak sağhk tesislerini kapsar. Dayanak
+**MADDE 2 –** Bu Yönerge, Sağlık Bakanlığına bağlı ikinci ve üçüncül basamak sağlık tesislerini kapsar. Dayanak
 
-**MADDE 3 –** Bu Yönerge, 12/8/2022 tarihli ve 31921 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığı Ek Ödeme Yönetmeliğinin 4 üncü maddesinin (n) fikrasına dayarılarak hazırlanmıştır.
+**MADDE 3 –** Bu Yönerge, 12/8/2022 tarihli ve 31921 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığı Ek Ödeme Yönetmeliğinin 4 üncü maddesinin (n) fıkrasına dayarılarak hazırlanmıştır.
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
-a) Bakanhk: Sağlık Bakanlığımı,
+a) Bakanlık: Sağlık Bakanlığımı,
 
 b) Bölüm: Göstergelerin ilgilerine göre gruplandırıldıklan hizmetlerin bütününü,
 
@@ -46,7 +47,7 @@ j) Kurum hedef katsayısı: Bakanlıkça sağlık tesislerinde dağıtımına ka
 
 k) Sağlık tesisi: Universiteler ile birlikte kullanılan hastaneler de dähil olmak üzere ikinci ve üçüncüi basamak sağlık hizmeti veren, Sağlık Bakanlığına bağlı sağlık tesısleri ile ağız ve diş sağlığı merkezlerini,
 
-1) Sağlık tesisi puanı: Sağhk tesislerinin hesaplama yöntemi üzerinden yapılan hesaplama sonucu elde edilen puanların 100 puan uzerinden toplamini,
+1) Sağlık tesisi puanı: Sağlık tesislerinin hesaplama yöntemi üzerinden yapılan hesaplama sonucu elde edilen puanların 100 puan uzerinden toplamini,
 
 m) Sağlık tesisleri puanlama cetveli: Sağlık tesisleri için hesaplamaya esas gösterge puanlanının yer aldigi cetveli,
 
@@ -56,7 +57,7 @@ m) Sağlık tesisleri puanlama cetveli: Sağlık tesisleri için hesaplamaya esa
 
 **MADDE 5 –** (1) Bakanlıkça kurum hedef katsayının hesaplanmasına ilişkin temel esaslar aşağıda belirtilmiştir.
 
-a) Sağlık tesisleri sahip oldukları insan gücü, imkån ve kabiliyetler, tıbbi cihaz altyapısı ve sunulan sağlık hizmetleri dikkate alınarak Genel Müdürlük tarafindan gruplandırılır. Sağlık tesislerinin bulundukları gruplara ait listeler Genel Müdürluk tarafindan ilan edilır. Sağık tesislerinin yer aldığı gruplarda yeniden düzenleme yapılabilir.
+a) Sağlık tesisleri sahip oldukları insan gücü, imkån ve kabiliyetler, tıbbi cihaz altyapısı ve sunulan sağlık hizmetleri dikkate alınarak Genel Müdürlük tarafindan gruplandırılır. Sağlık tesislerinin bulundukları gruplara ait listeler Genel Müdürlük tarafindan ilan edilır. Sağık tesislerinin yer aldığı gruplarda yeniden düzenleme yapılabilir.
 
 b) Sağlık tesislerinin kurum hedef katsayısının hesaplanmasına esas teşkil eden hizmet bölümleri, göstergeleri, gösterge puanları ve hesaplama yöntemleri ile sağlık tesisi puanırın karşılık geldiği kurum hedef katsayı tablosu Genel Müdürlük tarafindan ilan edilir.
 
@@ -66,7 +67,7 @@ d) Sağlık tesislerinin gösterge hedeflerini karşılama durumlarına göre pu
 
 e) Bir sağlık tesisinin ilgili dönemdeki kurum hedef katsayısının hesaplanabilmesi için, ilgili sağlık tesisinin o dönemde mali açıdan bağımsız olarak hizmet sunumu yapmış olması ve hizmet verilerinin oluşması gerekmektedir.
 
-f) Sağlık tesisi puanı hesaplanmayan sağlık tesislerinin kurum hedef katsayısı 1,0 olarak kabul edili, Sağlik tesislerinin kurum hedef katsaylan: Genet Mudurtuk tarafindan hesoplanır. Bu kntsny, Bakanlıkça sağlık tesislerinde dağıtımına karar verilen ek ödeme miktarının tesis başına belirlenmesinde çarpan olarak kullanılır.
+f) Sağlık tesisi puanı hesaplanmayan sağlık tesislerinin kurum hedef katsayısı 1,0 olarak kabul edili, Sağlık tesislerinin kurum hedef katsaylan: Genet Mudurtuk tarafindan hesoplanır. Bu kntsny, Bakanlıkça sağlık tesislerinde dağıtımına karar verilen ek ödeme miktarının tesis başına belirlenmesinde çarpan olarak kullanılır.
 
 #### Yürürlük
 

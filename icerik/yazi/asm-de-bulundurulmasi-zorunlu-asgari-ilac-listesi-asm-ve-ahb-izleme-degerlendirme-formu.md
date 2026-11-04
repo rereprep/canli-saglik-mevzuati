@@ -6,6 +6,7 @@ konu: "ASM’de Bulundurulması Zorunlu Asgari İlaç Listesi, ASM ve AHB İzlem
 etiketler: ["aile-hekimligi", "denetim"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 477-491"
 durum: "yürürlükte"
+ocr: true
 ---
 
 ## ASM’DE BULUNDURULMASI ZORUNLU ASGARİ İLAÇ LİSTESİ, ASM VE AHB İZLEME DEĞERLENDİRME FORMU 477
@@ -719,5 +720,49 @@ Adı Soyadı Adı Soyadı Adı Soyadı
 NOT: Aile Hekimliği Uygulaması Kapsamında Sağlık Bakanlığınca Çalıştırılan Personele Yapılacak Ödemeler İle Sözleşme Usul ve Esasları Hakkında Yönetmeliğin Ek-2 sinde yer verilen(ASM fiziki ve tıbbi eksikliğini 10 gün içinde gidermemek.) maddeleri ilgilendirmeyen sorulardaki eksikliklerin tamamlanması için 7 güne kadar makul süreler verilebilir.
 
 NOT 2: Halihazırda faaliyette olan aile hekimliği birimlerinde bina şartları ve fizik mekanları bakımından 1/1/2014tarihine kadar denetlemede eski yönetmelik hükümlerince işlem tesis edilir. Donanım bakımından yeni yönetmelik hükümlerince işlem tesis edilir. Yeni açılan aile hekimliği birimlerinin denetlemesinde ise tüm kriterler için yeni yönetmelik hükümlerince işlem tesis edilir.
+
+### EK - 3 AİLE SAGLIĞI MERKEZLERİNDE BULUNDURULMASI ZORUNLU ASGARİ ILAÇLAR
+
+1. Verapamil HCL ampul veya Diltiazem
+
+3 amp.
+
+hidroklorür ampul
+
+2. Asetilsalisilik Asit 300 mg tb 20 tablet
+
+3. Kortikosteroid ampul 3 amp.
+
+4. Non-steroid antienflamatuar ampul 3 amp.
+
+5. Methergine ampul 3 amp.
+
+6. Polivinil prolidine iyot sol. 500cc. 1 adet
+
+%5 dextroz 500 cc 2 adet
+
+8. % 0,9 luk NaCI. 500 cc 2 adet
+
+9. 1/3 Izodeks 500 cc. 1 adet
+
+10. Analjezik amp. 5 amp.
+
+11. Adrenalin 1 mg amp 5 amp.
+
+12. Atropin sulfate 0,5 mg amp. 5 amp.
+
+13. Dopamin hidroklorür amp. 2 amp.
+
+14. Lidocain %2 amp. 2 amp.
+
+15. Antihistaminik amp. 5 amp.
+
+16. Salbutamol sülfat nebul veya ampul 3 adet
+
+17. Diazepam 10mg amp 2 amp.
+
+18. Kaptopril 25 mg tb 20 tablet
+
+19. Diüretik amp 5 amp
 
 ### ASM ve AHB’NİN OLAĞAN DIŞI DURUM, İHBAR VE ŞİKAYETLERİNDE KULLANILACAK DENETİM FORMU VE İNCELEME TUTANAĞI

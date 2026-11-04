@@ -1,26 +1,27 @@
----
-id: "sb-saglik-bakanliginda-doner-sermaye-muhasebe-hizmetlerinin-yurutulmesine"
+---id: "sb-saglik-bakanliginda-doner-sermaye-muhasebe-hizmetlerinin-yurutulmesine"
 baslik: "Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge"
 tur: "yonerge"
 birim: "Strateji Geliştirme Başkanlığı"
-konu: "Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge kapsamında yürütülecek iş ve işlemleri düzenler."
+konu: "Sağlık Bakanlığı döner sermayeli işletmelerinde muhasebe hizmetlerinin yürütülmesi, mali işlemler ve harcama usullerini düzenler."
 etiketler: ["mali hizmetler", "döner sermaye", "mali işler"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1054-1066"
 durum: "yürürlükte"
 ocr: true
+tarih: "2019-03-14"
+sayi: "427"
+duzeltildi: true
 ---
-
 11.2.3. Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge
 
-### SAGLIK BAKANLIGINDA DONER SERMAYE MUHASEB HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN YÖNERG BIRINCI BOLÜM Ansae, Kapsam, Davanak ve Tanımlar
+### SAĞLIK BAKANLIGINDA DONER SERMAYE MUHASEB HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN YÖNERG BIRINCI BOLÜM Ansae, Kapsam, Davanak ve Tanımlar
 
 **MADDE 1 –** (1) Bu Yönergenin amacı, Bakanlik merkez ve taşra teşkilatı döner sermaye muhasebe hizmetlerinin yärälanesine ilişkin asal ve esasları belirlemektir. Карнят
 
-**MADDE 2 –** (I) Bu Yönerge Saghk Bakanlıgana bağhı döner sermaye işletmelerinin muhasebe hizmetlerini kapsar. MADDE 3 • (1) Bu Yönerge, 209 Sayılı Sağlik Bakanliğına Bagh Sağlık Kurumları Le Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanununun ek 2 nei ve 1 Nalu Cumhurbaşkanlığı Karamamesinin 30€ inci maddesine dayamlarak hazırlanmışır. Tanitar
+**MADDE 2 –** (I) Bu Yönerge Sağlık Bakanlıgana bağhı döner sermaye işletmelerinin muhasebe hizmetlerini kapsar. MADDE 3 • (1) Bu Yönerge, 209 Sayılı Sağlık Bakanliğına Bagh Sağlık Kurumları Le Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanununun ek 2 nei ve 1 Nalu Cumhurbaşkanlığı Karamamesinin 30€ inci maddesine dayamlarak hazırlanmışır. Tanitar
 
 **MADDE 4 –** (1) Bu Yemegede geçen;
 
-a) Bakanik: Sağhk Bakanlıüm,
+a) Bakanik: Sağlık Bakanlıüm,
 
 b) Bakan: Saglk Bakanım,
 
@@ -48,7 +49,7 @@ k) Muhasebe yetkilisi yardımeaı: Muhasebe yetkilisine yardımcı olarak görev
 
 n) TDMS: Muhasebe kasilanın girildiği, izlendiği ve raporlandığ web tabanlı Tek Düzen Muhasebe Sistemini,
 
-1/12 aj Üst yönetici: Başkanlığın bağhı olduğu Bakan Yardımcısım. &) "Yüneimelik: OL/05/2007 tarhli ve 26509 sayalı Resmi Gazete" de yayımlanan Döner Sermayeli Işletmeler Binge ve Muhasebe Yönetmeligini. ifade eder.
+1/12 aj Üst yönetici: Başkanlığın bağhı olduğu Bakan Yardımcısım. &) "Yüneimelik: OL/05/2007 tarhli ve 26509 sayılı Resmi Gazete" de yayımlanan Döner Sermayeli Işletmeler Binge ve Muhasebe Yönetmeligini. ifade eder.
 
 ### IKINCİ BOLÜM
 
@@ -60,7 +61,7 @@ Aranacak Şartlar, Görevin Sona Ermesi ve Devir Işlemi Mubasche yetkilisi ve y
 
 a) Süclameli saman olarak görev yapıyor olmak.
 
-b) Tercihen, tiniversitelerin maliye, işletme, iktisal, kirma yönetimi, sağlık yünetiri, sağhk Idaresi balamleri ile fakültelerin muhasebe eğitimi veren ilgili bölümlerinden mezun
+b) Tercihen, tiniversitelerin maliye, işletme, iktisal, kirma yönetimi, sağlık yünetiri, sağlık Idaresi balamleri ile fakültelerin muhasebe eğitimi veren ilgili bölümlerinden mezun
 
 e) Muhasebe hizmetleri ile ilgili birimlerde muhasebe yctkilisi için en az därt yıl. mahascbe yetkilisi yardımsesı için ahaz iki yıl çalışanış olmak.
 
@@ -188,7 +189,7 @@ MATDE 13 - (1) Mahasebe yetkilileri, 12 nei maddeye göre günevlerinin sona eme
 
 #### Muhasebe biriminin teşekkül ettirilmesi
 
-**MADDE 15 –** (1) Bu yerge ile Il Saghk Modürne bagli olarik her ilde hir muhasebe birimi kurulur. Ihtiynç duyulması halinde Il Sağlık Mildirünm gerekçeli ünerisi, Başkanlığın teklifi ve Üst Yöneticinin onayu ile bir ilde birden fazla muhasebe birimi kurulabilir. Birden fazla muhasebe birimi kuralmlaı Znerilen illerde hareama birimlerinin mahascbe hizmetlerinin hangi mahasebe birimine bağh olarak yürürüleceği de Il Sağlık Müdürünin gerekçe raporunda belirtilir.
+**MADDE 15 –** (1) Bu yerge ile Il Sağlık Modürne bagli olarik her ilde hir muhasebe birimi kurulur. Ihtiynç duyulması halinde Il Sağlık Mildirünm gerekçeli ünerisi, Başkanlığın teklifi ve Üst Yöneticinin onayu ile bir ilde birden fazla muhasebe birimi kurulabilir. Birden fazla muhasebe birimi kuralmlaı Znerilen illerde hareama birimlerinin mahascbe hizmetlerinin hangi mahasebe birimine bağlı olarak yürürüleceği de Il Sağlık Müdürünin gerekçe raporunda belirtilir.
 
 (2) Muhasebe hizmetleri yleütalürken, is yüka, muhasshe birimine uzaklik vb nedenlerle harcama biriminin bagh olduğu muhasebe biriminin degistirilmesi de birinci fikrala belirtilen usulle yapılar.
 
@@ -410,7 +411,7 @@ Dy Evrak kayat, tasnif ve arşiv servisi personelinin gürevleri
 
 (9 Kendisine teslim edılen ve ilgili mevzuatlan gereği anşiv niteliği taşsan her türli belgeyi arşiv deferine kaydetmek.
 
-(g) Gizli evrak niteligindeki belgeleri 1605/19KE tarihli ve 19816 sayıh Resmi Gazete'de yayımlanan Devlet Arşiv Hizmetleri Hakkında Yönetmelikte belirtildiği şekilde dosyalan leslim almak, muhafazasını sağlamak, bu Yönetmeliğe göre saklama süresi delan belgeleri, dosyalan ve defterleri sonştrarak ilgili yerlere göndermek veya ilgili mevzuatları gereğince imha edilmesini salamak.
+(g) Gizli evrak niteligindeki belgeleri 1605/19KE tarihli ve 19816 sayılı Resmi Gazete'de yayımlanan Devlet Arşiv Hizmetleri Hakkında Yönetmelikte belirtildiği şekilde dosyalan leslim almak, muhafazasını sağlamak, bu Yönetmeliğe göre saklama süresi delan belgeleri, dosyalan ve defterleri sonştrarak ilgili yerlere göndermek veya ilgili mevzuatları gereğince imha edilmesini salamak.
 
 (B) Arşivin tertip, düxen ve glüvenligini sağlarnak, bunun içim ber tirlu tedbiri almak.
 
@@ -422,7 +423,7 @@ Dy Evrak kayat, tasnif ve arşiv servisi personelinin gürevleri
 
 ### DÖRDÜNCO BÖLÜM Muhasebe Vetkilisi Mutemedi Güreslendirilmesi ve Görevleri
 
-Muhasebe yetkilisi mutemedi gürev endiriluesi
+Muhasebe yetkilisi mutemedi görev endiriluesi
 
 MADDE 2I) - (1) Zarunluluk bulunması halinde, muhasebe yetkilisi adına para ve parayla ifade dilebilen değerleri almak, vermek, vezse vę ambarlarda muhafaza etmek azere mahasebe vekilisinin de muvafakatı alımarak seçilen personel, harcama yetkilisi tarafinalan makasebe yetkilisi mutemedi olarak görevlendirilir. Görevlerinden ayrılanlar ayra glin lensinde maharebe birimine bildirilir.
 
@@ -464,7 +465,7 @@ MADDE 22 (1) Egili mevzuatında belirtilen döner sermaye gelirlerinin tahakkuk 
 
 (3) Harcama birimlerince ödetse emri belgesi eklerini oluşturan belgeler taratılarak ăn muhascheys girilir ve muhasebe biriminin onayma sunulur. Bu belgelerin ılak imzalı nüshalar muhasebe birimine gönderilir. Muhasebe biriminin onsym müleakiben Ødeme emri belgesi harsama birimkinde gider gerçekleştirme görevlisi ve harcama yetkilisi tarafından kontrol edilerek imalanır.
 
-(4) Ilgililerce imza edilen édeme emri belgesi ve eki belgeler, ilgili mevzuatlari gereği harcama biriminin bağh olduğu muhasche birimine tutanak karalığinda teslim edilir
+(4) Ilgililerce imza edilen édeme emri belgesi ve eki belgeler, ilgili mevzuatlari gereği harcama biriminin bağlı olduğu muhasche birimine tutanak karalığinda teslim edilir
 
 (5) Odeme emri belgesi 3 (üç) nüsha olarak tanzim edilir. Bir nüshası harcama birimlerinde arşivlenir. Iki nüshası da muhassbe birimine gönderilir.
 
@@ -480,7 +481,7 @@ MADDE 22 (1) Egili mevzuatında belirtilen döner sermaye gelirlerinin tahakkuk 
 
 #### Muhasebe hizmetlerinin yürütülmesi
 
-**MADDE 26 –** (1) Bu Yonergede belirtilmeyen hususlarla ilgili olarak, meveut mali mevzuat hükümleri ile ilgili kurumlar tarıfından yårürlüğe komulacak olan mevzuat hükümleri dikkate alacaktan
+**MADDE 26 –** (1) Bu Yönergede belirtilmeyen hususlarla ilgili olarak, meveut mali mevzuat hükümleri ile ilgili kurumlar tarıfından yårürlüğe komulacak olan mevzuat hükümleri dikkate alacaktan
 
 #### Odemelerde ancelik siras
 
@@ -504,7 +505,7 @@ MADDE 22 (1) Egili mevzuatında belirtilen döner sermaye gelirlerinin tahakkuk 
 
 #### Hüküm bulanmayan haller
 
-**MADDE 30 –** (1) Bu Yänergede baküm bulunmayan hallerde konusuna göre, O105/2007 tarihli ve 26509 sayılı Reami Kazate'de yayımlanın Deer Semayeli Işletmeler Butpe ve Muhasebe Yontmeligi, 15/05/2017 tarihli ve 30067 sayil. Resmi Gazete'de yayımlanan Sağhk Bakanlığı Döner Sermaye İşletmekri Hakkında Yonetmelik ve 21/01/2006 Tarihli ve 24056 sayılı Resmi Gazete'de yayımlanan Muhasebe Yetkilisi Adaylanmın Egitimi, Sertifika Verilmesi Ile Muhasebe Yetkililetinin Çalışma Usul Ve Esastan Hakkanda Yooctmelik ile ilgili diğer mevzunt hakümleri uygulaner.
+**MADDE 30 –** (1) Bu Yänergede baküm bulunmayan hallerde konusuna göre, O105/2007 tarihli ve 26509 sayılı Reami Kazate'de yayımlanın Deer Semayeli Işletmeler Butpe ve Muhasebe Yontmeligi, 15/05/2017 tarihli ve 30067 sayil. Resmi Gazete'de yayımlanan Sağlık Bakanlığı Döner Sermaye İşletmekri Hakkında Yonetmelik ve 21/01/2006 Tarihli ve 24056 sayılı Resmi Gazete'de yayımlanan Muhasebe Yetkilisi Adaylanmın Egitimi, Sertifika Verilmesi Ile Muhasebe Yetkililetinin Çalışma Usul Ve Esastan Hakkanda Yooctmelik ile ilgili diğer mevzunt hakümleri uygulaner.
 
 #### Yürürlük
 

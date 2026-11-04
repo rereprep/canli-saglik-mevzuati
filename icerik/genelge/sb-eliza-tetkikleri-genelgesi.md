@@ -2,66 +2,92 @@
 id: "sb-eliza-tetkikleri-genelgesi"
 baslik: "Eliza Tetkikleri Genelgesi"
 tur: "genelge"
-birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Eliza Tetkikleri Genelgesi uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["halk sağlığı", "hiv/aids", "laboratuvar"]
+tarih: "1992-01-09"
+sayi: "3045"
+birim: "Tedavi Hizmetleri Genel Müdürlüğü"
+konu: "Turizm yönünden hareketli pilot illerdeki hastanelerde AIDS taraması amacıyla rutin Eliza testi yapılmasına ilişkin usul ve esasları belirler."
+etiketler: ["halk sağlığı", "hiv/aids", "laboratuvar", "eliza"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 638-641"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.25. Eliza Tetkikleri Genelgesi T. C.
+### 6.3.25. Eliza Tetkikleri Genelgesi
 
-### SAĞLIK BAKANLIĞI
+T.C.  
+SAĞLIK BAKANLIĞI  
+Tedavi Hizmetleri Genel Müdürlüğü
 
-Tedari Hamsticri Genel Müdüriug à
+Th. B100THG0100004/3120/ ANKARA 15.01.1992  
+Konu : Eliza tetkikleri hk.
 
-### Th. B1007HG0100004/3120/ ANKARA
+TEMEL SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE
 
-Konu : ..Ejiza-tetkiniens hk.
+ELİZA tetkikleri konusundaki 9.1.1992 gün ve 3045 sayılı Genelgeniz ek'te sunulmuştur.  
+Bilgilerinizi arz ederim.
 
-31.1992 1501.92* 0405
+Op. Dr. Tevfik A. AKINCIOĞLU  
+Genel Müdür
 
-### TEMEL BAGLIK HİZMETLERİ GENEL MÜDÜRLÜGUNE
+EKİ: 2 sayfa
 
-EL1ZA tetkikleri konusundaki 9.1.1992 gün ve 3045 sayılı eteren ve henüz Genelgeniz ek'te sunulmugtur. espitiorin Bilgilerinizi arz ederin. lei bir sofisk Temel Sağlk Hizmatieri ¡entardo ve Genel Modününü жі подіта TeriN 15 OCAK 992 p. Dr. Tevfik. A AKINCIOLU a kondi Lorl Sayi 277 Senel Müdür ulun balge vo Afinde apnddo mlerle, yatarak I rutin clarak › gelenler dahi]]. arde Olara: I1 EKİ: 2 sayf alaaic izere ne turizmin
+---
 
-### T. C. SAGLIK BAKANLIGI Federi IsaniCeri Cune! Modlergo
+T.C.  
+SAĞLIK BAKANLIĞI  
+Tedavi Hizmetleri Genel Müdürlüğü
 
-Th 1100700100001-3120 /1041 ANKANA
+Th. B100THG0100004-3120/3045  
+ANKARA  
+9.1.1992  
+Konu : Eliza tetkikleri hk.
 
-9.1-1992 Konu : Elina-bithik2erd-I.
+....................VALİLİĞİNE
 
-### ..VALILICIME
+Günümüzde, özellikle birçok dış ülkede hızla yayılma etkisi gösteren ve henüz tedavisi de bulunamayan AIDS hastalığı, bir tedbir alınmaması ve tespitlerin zamanında yapılmaması halinde, dünyada olduğu gibi Ülkemizi de ciddi bir sağlık sorunuyla karşı karşıya bırakacaktır.
 
-Gününizde, ö201likle birçok dıg ülkede hisla yayılnn etkini gösteren vo hanilz tedavisi de bulonomoyan A198 hostuliği, bir tedoir alinmomai ve tespitlerin zamaninda yapilmaması halinde, dinynda olduğu gibi Ulkemizi de cidei bir seğiik sorunuyla kargı kargıya birekacaktir.
+AİDS'li vakalar, genellikle klinik belirtileri ortaya çıkmış olanlarda ve şüpheli şahıslarda yaptırılan ELİZA testi ile saptanmaktadır. Halbuki sağlıklı görünümde olup AIDS virüsü taşıyan birçok kişi mevcuttur. Bu da hem kendileri hem de toplum için büyük bir tehlikedir.
 
-AÍDS'11 vakalar, genellikle #linik belirtileri ortays ciksig olentarda ve süpheli gehislarda yaptiralan ELİZA testi fle saptanmaktadir. Halbuki meålikl: gürününde olup AIDS virüs tasıyan birçok kişi meveuttur. Buda hen kendileri hen de toplun için büyük bir tohltkedfr.
+Bu nedenle Bakanlığımızca özellikle turizm yönünden hareketli olan bölge ve illerde olmak üzere pilot uygulama ile sondajlama ve tarama niteliğinde aşağıda belirtildiği şekilde bir çalışma yapılmasına gerek duyulmuştur.
 
-Bu nedenle Bakanliğınizen özellikle turizm yönünden horeketii olun bölge ve Illerde olmux Exere pilot uygulana ile sondajlana ve teruna niteliğinde asošana belirtildiği gekilde bir çalısma yapılnasana gerek duyulmustur.
+a) Hastanelerimize ayaktan muayene ve tedavi için müracaat edenlerle, yatarak tedavi görecek hastalardan istenecek kan tetkiklerinde Eliza testi rutin olarak yaptırılacaktır. (Diş polikliniğine çekim ve cerrahi müdahale için gelenler dahil)
 
-a) Hastanelerimize ayaktan muyene ve tedovi için müracant edenlerle, ytorak tedavi görecek hastalardan istenecek Ran tetkiklerinde Eliza testi rutin olarak yaptirilacaktir. (Diy poliklinižine çekim ve cerrahi nüdnhale için gelenler dahil!
+b) Eliza testi sayısı ve müsbet olanlar aylık periodlarla muntazam olarak İl Sağlık Müdürlüklerine bildirilecek ve Bakanlığımıza gönderilecektir.
 
-B)Eliza testi sayisa ve mabet olanlar aylık periodiorla mustanum olarak !I Sağlik Nüdürlklerine bildirilecek ve. Hakanlığamza gönderilecektir.
+c) Pilot uygulama Ankara-İstanbul-İzmir-Antalya illeri başta olmak üzere Orta ve Doğu Karadeniz, Trakya, Marmara, Ege ve Akdeniz Bölgelerinde turizmin hareketli olduğu illerimizde yapılacaktır.
 
-e) Pilot uygulama Anharn-fetanbul-femir-Antalya illeri bagia olurk izere Orta ve Doğu Karodeniz. Tralya, Marmara, Ege ve Akdeniz Belgelerinde turizmin hareketli oldug» illérimizde yapilacaktır.
+d) Döner sermayesi olup Eliza cihazı olmıyan hastaneler en kısa zamanda döner sermayeden temin edecekler. Döner Sermayesi ve cihazı olmıyanlar Bakanlığımızdan talep edeceklerdir.
 
-### T. C. SAGLIK BAKANLIĞI Tedavi Hirmetieri Canci Madariüg
-
-Th. ANKARA Konu :
-
-d) Döner sermayesi olup Eliza cihazı olmıyan hastaneler en kisa zananda döner sermayeden temin edecekler. Döner Sermayesi ve cihazı olmıyanlar Bakanlıtımızdan talep edeceklerdir.
-
-e) 1l Sağlık Nüdürlükleri ve Baştabibler uygulamayı tatbik ve takipten sorunludurlar.
+e) İl Sağlık Müdürlükleri ve Baştabibler uygulamayı tatbik ve takipten sorumludurlar.
 
 Gereğini rica ederim.
 
-Dr. Y1 AKTUNA
+Dr. Yıldırım AKTUNA  
+BAKAN
 
-### BAKAD DAĞITIM:
+### DAĞITIM:  
+19 İl Valiliklerine  
+Ek'li listedeki Devlet Hast. Baştabibliklerine (İvediliğinden)  
+Merkez Daireler-Şubeler
 
-19 1l Valiliklerine Ek'li liatedeki Devlet Hast. Bagtabibliklerine(İvediliğinden] Merkez Daireler-Subeler
-
-### PILOT BÖLGE OLARAK UYGULANACAK İLLER
-
-imlinlimma Icel Ordu Rize
+### PİLOT BÖLGE OLARAK UYGULANACAK İLLER  
+Adana İli ve İlçeleri Devlet Hastaneleri Baştabibliklerine  
+İçel " " " "  
+Antalya " " " "  
+Muğla " " " "  
+Aydın " " " "  
+İzmir " " " "  
+Balıkesir " " " "  
+Çanakkale " " " "  
+Tekirdağ " " " "  
+Edirne " " " "  
+Kırklareli " " " "  
+İstanbul " " " "  
+Ankara " " " "  
+Samsun " " " "  
+Ordu " " " "  
+Giresun " " " "  
+Trabzon " " " "  
+Rize " " " "  
+Artvin " " " "

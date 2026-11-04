@@ -1,15 +1,16 @@
----
-id: "sb-saglik-bakanligi-sosyal-tesisler-i-sletme-yonergesi"
+---id: "sb-saglik-bakanligi-sosyal-tesisler-i-sletme-yonergesi"
 baslik: "Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
-konu: "Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi kapsamında yürütülecek iş ve işlemleri düzenler."
+konu: "Sağlık Bakanlığına bağlı sosyal tesislerin kuruluşu, işletilmesi, yönetimi ve mali işlemlerine dair usul ve esasları düzenler."
 etiketler: ["personel", "sosyal tesisler", "işletme"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 931-939"
 durum: "yürürlükte"
 ocr: true
+tarih: "2020-01-24"
+sayi: "955"
+duzeltildi: true
 ---
-
 #### 9.2.2.Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi Vönetim Kurulu ve Çalışma Esasları
 
 **MADDE 6 –** (L) Yönetim Kurulu bi başkan ve 2 üyeden oluşur. Üye sayıst kadar yedak yu belirlerir. Yönetim Kurulu Başkanımı ve üyelerini üst yönetici belirler. Görevlendirmeler bir yıl süre ile yapılır. Görev süresi sosa erenler, ayrı usülle tekrar görevlendirilebilir.
@@ -112,9 +113,9 @@ g) Sosyel tesisler tarafinden kullanılan defterleri tasdik etinck. Sosyal Tesis
 
 **MADDE 10 –** (1) Sosyal Tesis Birim Sonumlusunun göcevleri şanlardır:
 
-a) Bu Yonerge hükümleri ve Yönetim Kurulu kararları doğrultusunda soayal tesislerin belli bir atandart ve kalite çerçevesinde işletilmesini, duzenini ve koordinasyonunu sağlamak,
+a) Bu Yönerge hükümleri ve Yönetim Kurulu kararları doğrultusunda soayal tesislerin belli bir atandart ve kalite çerçevesinde işletilmesini, duzenini ve koordinasyonunu sağlamak,
 
-b) Sosyal tesislerde gorevlendirilen personelin sevk ve idaresini sağlamak,
+b) Sosyal tesislerde görevlendirilen personelin sevk ve idaresini sağlamak,
 
 c) Personelin görev tarımlarımın ilgili personele yazılı olatak tabliğ adilmesini sağlarmak,
 
@@ -178,7 +179,7 @@ B) Diger rim mall iş ve işlemleri yapmak.
 
 **MADDE 13 –** (1) 375 sayılı Kumun Hükmünda Karamamenin 28 inci maddesinin (A) fikrası uyannca birinci derece kritik il olarak belirlenen illerdeki sosyal tesislerden yararlanacak olan güvenlik personelinin kullanımı hariç olmak üzere, sosyal tesişler devamiılık arz edecek şekilda pansiyon veya lojman olarak kullarılemar.
 
-(2) Kamtu gorevlileri sendika ve konfederasyonlarınca düzenlenecck eğitin çal şınalarında, kamu kurumlan içia öngörülen tarife katşıkığında ve tesisin uygun olmesı hålinde ilgili sendika ve konfederasyonlar sonyel tesislerden yararlandınlubilir
+(2) Kamtu gorevlileri sendika ve konfederasyonlarınca düzenlenecck eğitin çal şınalarında, kamu kurumlan içia öngörülen tarife katşıkığında ve tesisin uygun olması hålinde ilgili sendika ve konfederasyonlar sonyel tesislerden yararlandınlubilir
 
 (3) Sosyal teaislerin bakım ve onarımlarımın yapurılabılmesini sağiamak amacıyla, bu sosyal tesislerden yıl içinde elde edilen gelirlerin brüt tarten % 5'inden az olmamak Evere ayrılacak tutat, ayrı bir hesapta mutularak söz konusu ihtiyaçlar için harcanır. Bu besaptan yapılacak harcamalarda, hizmetin sunumu açısınden ihtiyaç duyulan döşeme ve demirbaş alımlarında Cumhurbaşkanlığı ve/veya Bakanlıkça düzenlenen tasarruf tedbirlerine uyulur.
 

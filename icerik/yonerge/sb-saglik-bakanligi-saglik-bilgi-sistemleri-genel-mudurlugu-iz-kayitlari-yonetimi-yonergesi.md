@@ -1,5 +1,4 @@
----
-id: "sb-saglik-bakanligi-saglik-bilgi-sistemleri-genel-mudurlugu-iz-kayitlari-yonetimi-yonergesi"
+---id: "sb-saglik-bakanligi-saglik-bilgi-sistemleri-genel-mudurlugu-iz-kayitlari-yonetimi-yonergesi"
 baslik: "Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü İz Kayıtları Yönetimi Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Bilgi Sistemleri Genel Müdürlüğü"
@@ -8,8 +7,10 @@ etiketler: ["iz kayıtları", "log yönetimi", "bilgi güvenliği"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 372-375"
 durum: "yürürlükte"
 ocr: true
+tarih: "2021-11-08"
+sayi: ""
+duzeltildi: true
 ---
-
 4.2.2. Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü İz Kayıtları Yönetimi Yönergesi
 
 ### SAĞLIK BAKANLIĞI SAĞLIK BİLGİ SİSTEMLERİ GENEL MÜDÜRLÜĞÜ İZ KAYITLARI YÖNETİMİ YÖNERGESİ
@@ -18,13 +19,13 @@ ocr: true
 
 **MADDE 1 –** (1) Bu Yönerge'nin amacı, Sağkk Bakanlığı Sağlık Bilgi Sistemleri Genel Mudurluga tarafindan işletilen bilgi sistemleri üzerinde gerçekleştirilen iş ve işlemlerin takip edilebilirliğini sağlamak maksadıyla; her seviyedeki sistem bileşeni tarafindan üretilmesi gereken iz kayıtlarının asgari duzeyde içeriğini, bu kayıtların saklama süresi ve koşullarını Kapsam
 
-**MADDE 2 –** Bu Yönerge Sağhk Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğünü kapsar. Dayanak
+**MADDE 2 –** Bu Yönerge Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğünü kapsar. Dayanak
 
-**MADDE 3 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilat: Hakkında Cumhurbaşkanhğ: Karamamesinin 358 inci maddesinin birinci fikrası (a) bendine ve 508 inci maddesinin birinci fikrasına dayanılarak hazırlanmıştır. Tanımlar
+**MADDE 3 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilat: Hakkında Cumhurbaşkanhğ: Karamamesinin 358 inci maddesinin birinci fikrası (a) bendine ve 508 inci maddesinin birinci fıkrasına dayanılarak hazırlanmıştır. Tanımlar
 
 **MADDE 4 –** (1) Bu Yönerge*nin uygulanmasında;
 
-a) Bakanlk: Sağhk Bakanlığım,
+a) Bakanlk: Sağlık Bakanlığım,
 
 b) Bilgi: Kurum için değeri olan, uygun bir şekilde korunması gereken ve bilgi
 
@@ -52,9 +53,9 @@ e) Bilgi teknolojileri: Herhangi bir biçimdeki verinin, girişinin yapılması,
 
 iletişim altyapısı ve ilgili diğer teknolojileri,
 
-f) Genel Müdürlük: Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlügünü,
+f) Genel Müdürlük: Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
 
-g) Genel Müdür: Sağhk Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürünü,
+g) Genel Müdür: Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürünü,
 
 h) İşletim güvenliği verisi: Bilgi teknolojileri tarafindan donamım, yazılım veya
 
@@ -128,4 +129,4 @@ c) Kayd: oluşturan işlem ya da olayla birlikte, varsa gerçekleştirilen deği
 
 **MADDE 7 –** (1) Ek-1 Çizelge ve Ek-2 Form; yasal mevzuatta meydana gelen değişiklikler, sistemsel gereksinimler ve kapsam dahilinde yer alan birimler tarafindan yapılan geri bildirimler doğrultusunda Genel Mudürlük tarafindan güncellenir. Güncellenen Çizelge ve Form, Genel Mudürlüğün web sayfasında yayımlanır. Yürürlük MADDE S- (1) Bu Yönerge hükümleri onaylandığı tarihten altı ay sonra yürürlüğe girer. Yürütme
 
-**MADDE 9 –** (1) Bu Yonerge hakimlerini Genel Madar yürtar.
+**MADDE 9 –** (1) Bu Yönerge hakimlerini Genel Madar yürtar.

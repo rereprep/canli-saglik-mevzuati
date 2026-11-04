@@ -23,14 +23,22 @@ OGE = re.compile(r'<li>\s*<a id="(\d+)" href="(/TR-\d+/[^"]+)" target="([^"]*)"\
 
 
 def getir(url, deneme=3):
+    import concurrent.futures
+
+    def _al():
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+            return r.read(), r.headers.get("Content-Type", ""), r.headers.get("Content-Disposition", "")
+
     for i in range(deneme):
+        havuz = concurrent.futures.ThreadPoolExecutor(1)
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
-                return r.read(), r.headers.get("Content-Type", ""), r.headers.get("Content-Disposition", "")
+            return havuz.submit(_al).result(timeout=90)  # yavaş akan yanıtlarda toplam süre sınırı
         except Exception as hata:
             if i == deneme - 1:
                 raise
             time.sleep(3 * (i + 1))
+        finally:
+            havuz.shutdown(wait=False)
 
 
 def liste_oku(tur):
@@ -104,6 +112,7 @@ def main():
             (klasor / o["dosya"]).write_bytes(icerik)
             if (i + 1) % 25 == 0:
                 print(f"  {i + 1}/{len(ogeler)}", flush=True)
+                dizin_yolu.write_text(json.dumps(ogeler, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
             time.sleep(0.3)
         dizin_yolu.write_text(json.dumps(ogeler, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         print(f"{tur}: tamam", flush=True)

@@ -1,15 +1,16 @@
----
-id: "sb-saglik-bakanligi-yayin-yonergesi"
+---id: "sb-saglik-bakanligi-yayin-yonergesi"
 baslik: "Sağlık Bakanlığı Yayın Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Sağlık Bakanlığı birimlerince basılı ve elektronik ortamda yayımlanacak eserlerin incelenmesi ve basım kurallarını düzenler."
+konu: "Sağlık Bakanlığı birimlerince basılı ve elektronik ortamda yayımlanacak eserlerin incelenmesi, basım ve yayım kurallarını düzenler."
 etiketler: ["yayın", "yayın yönergesi", "yayın kurulu"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 82-86"
 durum: "yürürlükte"
 ocr: true
+tarih: "2014-06-02"
+sayi: "5403.6"
+duzeltildi: true
 ---
-
 2.2.10. Sağlık Bakanlığı Yayın Yönergesi 02.06.2014 tarih ve 6404779/2014.5403.6 sayılı Makım Oluru ile yürürlüğe konulan
 
 ### SAĞLIK BAKANLIĞI YAYIN YÖNERGESİ
@@ -18,11 +19,11 @@ ocr: true
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönergenin amacı; Sağhk Bakanlığı'nın yayın faaliyetlerine ilişkin usul ve esaslan düzenlemektir. Kapsam
+**MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığı'nın yayın faaliyetlerine ilişkin usul ve esaslan düzenlemektir. Kapsam
 
 **MADDE 2 –** (1) Bu Yönerge, Sağlık Bakanlığı ve bağlı kuruluşlarının merkez ve taşra teşkilatlarının yayın faaliyetlerini kapsar. Dayanak
 
-**MADDE 3 –** (1) Bu Yönerge, 663 sayıh Sağlık Bakanlığı ve Bağlı Kuruluşlarımın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 375 sayılı Kanun Hükmünde Karamamenin Ek 1 inci maddesi ile 23/01/2007 tarihli ve 26412 sayılı Resmi Gazetede yayımlanan 'Kamu Kurum ve Kuruluşlarınca Odenccek Telif ve Işlenme Ücretleri Hakkında Yönetmelik' hükümlerine dayamılarak hazırlanmıştır. Tanımlar
+**MADDE 3 –** (1) Bu Yönerge, 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarımın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 375 sayılı Kanun Hükmünde Karamamenin Ek 1 inci maddesi ile 23/01/2007 tarihli ve 26412 sayılı Resmi Gazetede yayımlanan 'Kamu Kurum ve Kuruluşlarınca Odenccek Telif ve Işlenme Ücretleri Hakkında Yönetmelik' hükümlerine dayamılarak hazırlanmıştır. Tanımlar
 
 **MADDE 4 –** (1) Bu Yönergede geçen; )Bakanlık: Sağhık Bakanlığı ve bağlı kuruluşlarımın merkez ve taşra teşkilatlarını, b)Braille Yayı: Görme engelliler için kabartma harflerle basılmış eserleri
 
@@ -44,11 +45,11 @@ i) Yayın Komisyonu: Yönetmeliğin 14 Bncü maddesinde tanımlanan komisyonu, I
 
 Yayın amaçları MADDE S- (1) Bakanlığın yäyı amaçlanı şunlardır.
 
-a) Bakanlığın görev alanma giren faaliyetleri toplumun tüm kesimlerine duyurmak, Bakanlığm kanuni görevleri ile ilgili olarak toplumun sağhk bilincinin gelişmesine ve kamuoyu oluşmasına katkıda bulunmak,
+a) Bakanlığın görev alanma giren faaliyetleri toplumun tüm kesimlerine duyurmak, Bakanlığm kanuni görevleri ile ilgili olarak toplumun sağlık bilincinin gelişmesine ve kamuoyu oluşmasına katkıda bulunmak,
 
-b) Bakanlığın görev alanına giren konularda araştırma ve incelemeleri yayınlayarak bu konudaki literatürün genişlemesini ve bu alanda hizmet veren kişi, kurum ve kuruluşlar arasında bilgi alış verişini ve yeni gelişmelerin duyurulmasını sağlamak, o)Sağhk personelinin hizmet içi eğitimine katkıda bulunmak, sağhk hizmetinin kalitesini artımak, stratejik planlamalarım oluşturulmasına yardımcı olmak. Yayın faaliyetleri
+b) Bakanlığın görev alanına giren konularda araştırma ve incelemeleri yayınlayarak bu konudaki literatürün genişlemesini ve bu alanda hizmet veren kişi, kurum ve kuruluşlar arasında bilgi alış verişini ve yeni gelişmelerin duyurulmasını sağlamak, o)Sağlık personelinin hizmet içi eğitimine katkıda bulunmak, sağlık hizmetinin kalitesini artımak, stratejik planlamalarım oluşturulmasına yardımcı olmak. Yayın faaliyetleri
 
-**MADDE 6 –** (1) Bakanhğın yayın faaliyetleri; yayın amaçları doğrultusunda süreli veya süreli olmayan yayınlar, braille yayım, afiş, broşür, bilgilendirici belge gibi basıh eserler ile basılı olmayan CD, DVD vb. manyetik depolama ünitesi şeklindeki ve Bakanlık internet sitesinde hizmete sunulacak elektronik eserleri hazırlamak, hazırlatmak, temin etmek, yayınlamak ve dağıtmaktır. Yayın faaliyetlerinin yürütülmesi
+**MADDE 6 –** (1) Bakanlığın yayın faaliyetleri; yayın amaçları doğrultusunda süreli veya süreli olmayan yayınlar, braille yayım, afiş, broşür, bilgilendirici belge gibi basıh eserler ile basılı olmayan CD, DVD vb. manyetik depolama ünitesi şeklindeki ve Bakanlık internet sitesinde hizmete sunulacak elektronik eserleri hazırlamak, hazırlatmak, temin etmek, yayınlamak ve dağıtmaktır. Yayın faaliyetlerinin yürütülmesi
 
 **MADDE 7 –** (1) Bakanlıkça yayımlanacak telif ve işlenme eserlerle ilgili iş ve işiemler Yayın Kurulunca, Bakanlık birimleri ve bağlı kuruluşlarının yayın fasliyetleri ise Yayın Komisyonunca yüratülür. Yayı ilkeleri
 
@@ -66,7 +67,7 @@ g) Eserlerin, Türk dılinin zengin varkğından faydalanıtarak herkesin kolayc
 
 ### MADDE 9- (1)
 
-Bakanhk tarafından yayınlanacak eserler ve terclime eser yaymı teklifleri hakkında aşağıda belirtilen hükümlere göre işlem yapıhr.
+Bakanlık tarafından yayınlanacak eserler ve terclime eser yaymı teklifleri hakkında aşağıda belirtilen hükümlere göre işlem yapıhr.
 
 a) Yazar, eserin baskılarına ait haklarını devrettiğine dair noterlikçe düzenlenecek bir temliknameyi algili birime vermekle yükümlüdür.
 
@@ -88,7 +89,7 @@ g) Eserlerde ileri sürülen görüş ve düşünceler ile bunlardan doğabilece
 
 ### ÜÇÜNCÜ BÖLÚM
 
-#### Bakanlık Yayın Kurulu, Yayın Komisyonu Bakanhk Yayın Kurulu
+#### Bakanlık Yayın Kurulu, Yayın Komisyonu Bakanlık Yayın Kurulu
 
 **MADDE 11 –** (1) Kurul, Müsteşar veya görevlendireceği Müsteşar Yardımcısının başkanlığında aşağıdaki birimlerin genel müdürlerinden/başkanlarından oluşur;
 
@@ -102,7 +103,7 @@ g) Hukuk Müşavirliği (1. Hukuk Müşaviri)
 
 d) Türkiye Kamu Hastaneleri Kurumu
 
-#### e) Türkiye Halk Sağlığı Kurumu Bakanhk Yayın Kurulunun görevi
+#### e) Türkiye Halk Sağlığı Kurumu Bakanlık Yayın Kurulunun görevi
 
 **MADDE 12 –** (1) Kurulun görevi; Bakanlığm merkez ve taşra teşkilatları tarafından yayıminacak telif ve işlenme eserler hakkıda, ilgili Yayı Komisyonu'nun görüş ve teklifleri doğrultusunda, telif ve işlenme eserlerle ilgili iş ve işlemleri 23/01/2007 tarihli ve 26412 sayılı Resmi Gazetede yayımlanan Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik hükümlerine göre yerine getirilmesini sağlamaktır. Bakanlık Yayı Kurulunun işleyişi
 
@@ -118,7 +119,7 @@ d) Türkiye Kamu Hastaneleri Kurumu
 
 (6) Kurul başkanı Müsteşar veya görevlendireceği Müsteşar Yardımcısıın katılamadığı hallerde Sağlık Hizmetleri Genel Müdürü, toplantılara beşkanlık eder.
 
-(7) Kurulun sekretarya hizmetleri Sağlık Hizmetleri Genel Müdürlüğü tarafindan yürütulür.
+(7) Kurulun sekretarya hizmetleri Sağlık Hizmetleri Genel Müdürlüğü tarafindan yürütülür.
 
 Я.
 

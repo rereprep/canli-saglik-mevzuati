@@ -1,15 +1,16 @@
----
-id: "sb-saglik-teknolojileri-degerlendirme-yonergesi"
+---id: "sb-saglik-teknolojileri-degerlendirme-yonergesi"
 baslik: "Sağlık Teknolojileri Değerlendirme Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Sağlık teknolojilerinin klinik ve maliyet etkililiklerinin incelenmesi ve değerlendirilmesi süreçlerini düzenler."
+konu: "Sağlık teknolojilerinin klinik ve maliyet etkililiklerinin incelenmesi, bilimsel değerlendirme komisyonlarının çalışma usullerini düzenler."
 etiketler: ["sağlık teknolojisi", "teknoloji değerlendirme", "tıbbi cihaz"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 33-38"
 durum: "yürürlükte"
 ocr: true
+tarih: "2019-10-25"
+sayi: "5201"
+duzeltildi: true
 ---
-
 2.2.5. Sağlık Teknolojileri Değerlendirme Yönergesi
 
 ### SAĞLIK TEKNOLOJİSİ DEĞERLENDİRME YÖNERGESİ
@@ -64,7 +65,7 @@ m) Uyarlama çalışması: Uluslararası veya diğer ulusal STD kuruluşları ta
 
 (2) Öneri, Ek-I'de yer alan formun doldurulması ve Genel Müdürlüğe gönderilmesi ile yapılır. Usulüne uygun yapılmayan başvurular dikkate alınmaz. Konu seçimi komisyonu
 
-**MADDE 5 –** (1) Konu Seçimi Komisyonu, Genel Müdürün teklifi ve ilgili Bakan Yardımcısının oluru ile kurulur. Sağlık teknolojisi değerlendirme çalışmasına başlanılacak konuların seçimi Komisyon kararı ile yapıhır.
+**MADDE 5 –** (1) Konu Seçimi Komisyonu, Genel Müdürün teklifi ve ilgili Bakan Yardımcısının oluru ile kurulur. Sağlık teknolojisi değerlendirme çalışmasına başlanılacak konuların seçimi Komisyon kararı ile yapılır.
 
 (2) Komisyon, aşağıda belirtilen on üç üyeden oluşur;
 

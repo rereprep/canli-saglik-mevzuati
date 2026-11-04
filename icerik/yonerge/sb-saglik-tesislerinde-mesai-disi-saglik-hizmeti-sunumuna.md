@@ -1,15 +1,16 @@
----
-id: "sb-saglik-tesislerinde-mesai-disi-saglik-hizmeti-sunumuna"
+---id: "sb-saglik-tesislerinde-mesai-disi-saglik-hizmeti-sunumuna"
 baslik: "Sağlık Tesislerinde Mesai Dışı Sağlık Hizmeti Sunumuna Yönelik Usul ve Esaslar"
 tur: "yonerge"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
-konu: "Sağlık Tesislerinde Mesai Dışı Sağlık Hizmeti Sunumuna Yönelik Usul ve Esaslarna ilişkin hususları düzenler."
+konu: "Sağlık Bakanlığına bağlı yataklı sağlık tesislerinde mesai saatleri dışında sunulacak poliklinik ve ameliyat hizmetlerinin usul ve esaslarını düzenler."
 etiketler: ["kamu hastaneleri", "mesai dışı çalışma", "sağlık hizmeti"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 841-843"
 durum: "yürürlükte"
 ocr: true
+tarih: "2024-07-01"
+sayi: ""
+duzeltildi: true
 ---
-
 7.2.10. Sağlık Tesislerinde Mesai Dışı Sağlık Hizmeti Sunumuna Yönelik Usul ve Esaslar
 
 Mesai dışı çalışma temel esasları

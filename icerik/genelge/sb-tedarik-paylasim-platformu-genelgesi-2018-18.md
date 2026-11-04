@@ -2,149 +2,108 @@
 id: "sb-tedarik-paylasim-platformu-genelgesi-2018-18"
 baslik: "Tedarik Paylaşım Platformu Genelgesi (2018/18)"
 tur: "genelge"
+tarih: "2018-07-27"
 sayi: "2018/18"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
-konu: "Tedarik Paylaşım Platformu Genelgesi (2018/18) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["kamu hastaneleri", "aşı", "bağışıklama"]
+konu: "İller ve sağlık tesisleri arasında ilaç ve tıbbi sarf malzemelerinin Tedarik Paylaşım Platformu (TPP) üzerinden paylaşımı, iş eksilişi ve devir işlemleri"
+etiketler: ["kamu hastaneleri", "tedarik paylaşım platformu", "stok yönetimi", "tpp"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 862-864"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 7.3.6. Tedarik Paylaşım Platformu Genelgesi (2018/18)
 
-### KAMU/ HASTANI EKÍ GENEL MÜDÜML000 - THAKX T.C. SAGLIK BAKANLIGI Kamu Hastaneleri Genel Mudurlugd
+T.C.
+SAĞLIK BAKANLIĞI
+Kamu Hastaneleri Genel Müdürlüğü
 
-009708(2113 TC Saglk Bakanig SayL - 80081279 Konu Tedarik Paylasim Platformu.
+Sayı : 80981279-010.06.01 /
+Konu : Tedarik Paylaşım Platformu
 
-### GENELGE 12018/181
+GENELGE
+2018/18
 
-Bakanlığınuz bünyesinde tasænafu ve kesımısız sağlık hürmeti sunumu dikesini on planda tarak yaprlan çalışmalar kapsattında Tedarik Paylıyım Platformnu (TPP) adrylu web labanlı bir Sagalm sistemi gelistirilme ve 13.12.2018 tarih ve 35309061 barkod sayth yaa De illere diynruimuştur
+Bakanlığımız bünyesinde tasarruflu ve kesintisiz sağlık hizmeti sunumu ilkesini ön planda tutarak yapılan çalışmalar kapsamında Tedarik Paylaşım Platformu (TPP) adıyla web tabanlı bir dağıtım sistemi geliştirilmiş ve 13.12.2016 tarih ve 35309061 barkod sayılı yazı ile illere duyurulmuştur.
 
-Saz konuse sistem ile gerçeklesmiy avantajl ihale fiyatlantyla altund trünlerin iy eksiliştnc konu edilmeden önce paylaşama sunulması sonucu iç imkanlarla bir başkı itin tiyseı karşılanmaktadır. Bu amaçla ilerii mevcut balelerinden iş eksilişi yapmadan once medikal depo kapsumında yer alan taç ve tibbi sarl le ilgil kademlen bu sistem üzerinden ılan cimesı ve ityger olan illae devrinin sağlanması 2017 yr ihariýle sorala hake gettilmeştir.
+Söz konusu sistem ile gerçekleşmiş avantajlı ihale fiyatlarıyla alınan ürünlerin iş eksilişine konu edilmeden önce paylaşıma sunulması sonucu iç imkanlarla bir başka ilin ihtiyacı karşılanmaktadır. Bu amaçla illerin mevcut ihalelerinden iş eksilişi yapmadan önce medikal depo kapsamında yer alan ilaç ve tıbbi sarf ile ilgili kalemleri bu sistem üzerinden ilan etmesi ve ihtiyacı olan illere devrinin sağlanması 2017 yılı itibariyle zorunlu hale getirilmiştir.
 
-Ayrıca bu sistem sayesinde Ihalelerinde uygun fiyalı üran temin eden Her iş any mikturlarım ozellikle muchir scheplerle alm varamayan, bölgesel lojistik soranlar nedeniyle tedarikte akıntı yşeyan saglık tesislerinin ilaç ve nibbi sarf ibtiyaclarımın karalanmıaı için paylayma sumaktade. Bu amaçla ilug ve abhi sarf alımlarımı gerçeklestitemeyen ve tedarikte sonur yaşayan illerinizin sebep ve gerekçelerini Bgili Daire Başkanhğma resmi vazı lle bildimeleri gerekmektedir. Yapilacak degerlendirme sonucunda gerekçesi usgun bulunan Klere Birim detecclendime işlemi uygulananl, malzeme taleplerinde devir edecek iller tarafindan incelik tonacakt. Devir işlemlerınde barim fiyat ve kargo maliyetleri göz önünde hdundurulmalıdır.
+Ayrıca bu sistem sayesinde ihalelerinde uygun fiyatlı ürün temin eden iller iş artış miktarlarını özellikle mücbir sebeplerle alım yapamayan, bölgesel lojistik sorunlar nedeniyle tedarikte sıkıntı yaşayan sağlık tesislerinin ilaç ve tıbbi sarf ihtiyaçlarının karşılanması için paylaşıma sunmaktadır. Bu amaçla ilaç ve tıbbi sarf alımlarını gerçekleştiremeyen ve tedarikte sorun yaşayan illerimizin sebep ve gerekçelerini ilgili Daire Başkanlığına resmi yazı ile bildirmeleri gerekmektedir. Yapılacak değerlendirme sonucunda gerekçesi uygun bulunan illere birim derecelendirme işlemi uygulanarak malzeme taleplerinde devir edecek iller tarafından öncelik tanınacaktır. Devir işlemlerinde birim fiyat ve kargo maliyetleri göz önünde bulundurulmalıdır.
 
-Bilindidi tizere, 094 sayılı KHK ile 663 sayılı Sughk Bakanlıgı ve Bağlı Kuruluşlarımn Teşkilat ve Görevleri Hakkinda Kanun Hükmünde Karmame de degisiklige gidilerek Bakanki ve baglı kuruluşlarının metkee ve taşra teşkılatı yeruden yapılandırılmıştıy. Bu kapsarıda belirlenecek Il Safhk Müdürdikkainle kurulan Tezlarik Paylaşı Birimleri tarafindan temin alilen ütürderin sistemı derinden paylaşılması planlanmaktadır
+Bilindiği üzere, 694 sayılı KHK ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede değişikliğe gidilerek Bakanlık ve bağlı kuruluşlarının merkez ve taşra teşkilatı yeniden yapılandırılmıştır. Bu kapsamda belirlenecek İl Sağlık Müdürlüklerinde kurulan Tedarik Paylaşım Birimleri tarafından temin edilen ürünlerin sistem üzerinden paylaşılması planlanmaktadır.
 
-Bu dogrultuda dahu once yayimlanan resmi vazılar ile başlanlan uygulamalara Balanak taklatem yent yelki ve görev dahıdımian Deisleyiy açsılmn değerledinhrani ve rebu pcnelge ile yeniden dexenlenncai ihtıywa hanıd almatur.
+Bu doğrultuda daha önce yayımlanan resmi yazılar ile başlatılan uygulamaların Bakanlık teşkilatının yeni yetki ve görev dağılımları ile işleyiş açısından değerlendirilmesi ve işbu genelge ile yeniden düzenlenmesi ihtiyacı hasıl olmuştur.
 
 ### A) PLATFORM KULLANICI TANIMLARI
 
-1. Sağhk Profesyoncli (Hekimler ve Tüm Sağhk Çalışanları)
+#### 1. Sağlık Profesyoneli (Hekimler ve Tüm Sağlık Çalışanları)
+a) ÇKYS Sistemi veri tabanında yer alan sağlık profesyonelleri tarafından sisteme T.C. kimlik numarası ile giriş yapılır.
+b) Kullanıcılar platform üzerinden paylaşılan ürünleri inceleyebilir.
+c) Sistemden talep gönderme işlemi yapması halinde; "İlgili Taşınır Kayıt Yetkilisi ile irtibat kurunuz" uyarısı alınır.
+d) Sadece Katalog Görüntüleme ekranı görülür.
 
-4) CEVS Sistemı veri tabanında yer alan sağhk profesyonelleri tarafindan sisteme T.C. kimlik
+#### 2. Medikal Depo Stok Yönetimi Uzmanı / Sorumlusu
+a) 81 İl Sağlık Müdürlüğünde görevli medikal depo stok yönetimi uzmanı/sorumlusu tarafından sisteme T.C. kimlik numarası ve MKYS şifresi ile giriş yapılır.
+b) Paylaşımda bulunan illerin katalogları görülür.
+c) Sistemden ilgili illere talep gönderme yetkisine sahiptir.
+d) İle ait ihale eksilişi miktarları paylaşılarak, gelen talepler onaylanır.
+e) Özellikle mücbir sebep ile tedarikte sorun yaşayan illere öncelik tanınır.
+f) Kullanıcılar dönemsel olarak kendi iline ait giriş ve çıkış işlemlerini takip etmelidir.
+g) Katalog görüntüleme, iş eksilişi kalemi paylaşma ve talep gönderme işlemleri yapılır.
 
-namsalar de giriş yapılr
-
-b) Kollamelar platform uzerinden paylaştan Grünteri incelemelidir.
-
-©) Sıstemden talep gönderme işlemi yapması halinde; Ilgili Taşınır Kayıt Yetkilısi de irtibat
-
-kurunuz' uyarısı alınır.
-
-d) Sadece Katalog Görüntüleme ekranını görülür.
-
-2. Medikal Depo Stok Yönetimi Uzmanı/Sorumlusu
-
-a) 8) 1 Sağlık Midirüğünde gürevli medikal depo stok gönetimi ummanusurodusu
-
-Maraliradan sisteme T C. kimlik mumarasa ve MKYS şiftest ile giriy yapalit.
-
-by Paylaşımda bulunan illerin kataloglan gordilur.
-
-ei Sisicmden ilgili illere talep gönderme yetkisine sahiptir.
-
-### T.C SAGLIK BAKANLIGI Kamu Hasaneleri Genel Modürlügh
-
-TC Sagl BakiNC Sayl : 809K1279 Коли : Tedarik Paylagm Platformu.
-
-d) Ile ait ihale eksılişi miktarlan paylaşılarak, gelen talepler penytantr
-
-e) Özellikle müebir sebep ile ledarikte sorun yaşayan illere öncelik tanmir.
-
-1) Kullanıcılar dönemsel olarak kerdi iline ait girış ve çıkış ışlemlerini takip etmelidir.
-
-g) Katalog görümaleme, iş eksilişi kalemi paylaşma ve talep gonderme işlemlerini yapılır.
-
-3. Tedarik Paylaşım Birim Uzmanı
-
-a) Paylaşımda bulunan Il Sağlık Müdürlükleri Tedarik Paylaşım Birim uzmanları tarafindan
-
-sisteme T.C. kimlik numarası ve MKYS şifreleri ile giris yapılr.
-
-b) Ihale bilgileri, sözlesme bilgilen girilir
-
-e) 81 il İle paylaşılacak katalog Arün miktarlarına karar verilir.
-
+#### 3. Tedarik Paylaşım Birim Uzmanı
+a) Paylaşımda bulunan İl Sağlık Müdürlükleri Tedarik Paylaşım Birim uzmanları tarafından sisteme T.C. kimlik numarası ve MKYS şifreleri ile giriş yapılır.
+b) İhale bilgileri, sözleşme bilgileri girilir.
+c) 81 il ile paylaşılacak katalog ürün miktarlarına karar verilir.
 d) Gelen talepler değerlendirilir.
-
-e) Özellikle müchir sebep ile tedarikte sorun yaşayan illere incelik tanıir
-
-1) Paylaşımda bulunan diğer il katalogları görülür ve talep gönderılir.
-
-Tüm ekranlan görme ve işlem yapma yetkisine sahiptir.
+e) Özellikle mücbir sebep ile tedarikte sorun yaşayan illere öncelik tanınır.
+f) Paylaşımda bulunan diğer il katalogları görülür ve talep gönderilir.
+g) Tüm ekranları görme ve işlem yapma yetkisine sahiptir.
 
 ### B) PLATFORM İŞLEMLERİ
 
-1. Tedarik Birimleri Paylaşım İşlemleri
+#### 1. Tedarik Birimleri Paylaşım İşlemleri
+a) İhale ve sözleşme bilgileri alanları eksiksiz olarak doldurulmalıdır.
+b) İlaç veya tıbbi sarf ekleme ekranı üzerinden paylaşılacak ürünler eklenir.
+c) Her kalem için resim yükleme işlemleri yapılır. Resimleri yüklenmeyen ilaç ve tıbbi sarf malzemeler katalog ekranına yansımayacaktır.
 
-a) Ihale ve sözleşme bilgılerı alanları eksiksiz olarak doldurulmalıdır.
+#### 2. İş Eksilişi Paylaşım İşlemleri
+a) 81 İl Sağlık Müdürlüğünde görevli medikal depo stok yönetimi uzmanı/sorumlusu tarafından mevcut ihalelere ait iş eksilişi kalemleri belirlenir.
+b) Belirlenen kalemler ihale sözleşme bitiş tarihinden en az 45 (kırk beş) gün önce TPP sisteminde bulunan ihale işlemleri bölümüne yüklenmelidir. Her kalem için resim yükleme işlemleri yapılmalıdır. Resimleri yüklenmeyen ilaç ve tıbbi sarf malzemeler katalog ekranına yansımayacaktır.
+c) Yüklemeyi takiben 30 (otuz) gün içinde talep gelmeyen kalemler için sistemden iş eksilişi yapılabileceğine dair bir belge alınmalıdır. Belge yazdırılmadığı sürece ilgili kalem ilanda kalacak ve sistem kullanıcıları tarafından görülmeye devam edecektir. Belge yazdırılmadan iş eksilişi yapılmamalıdır.
+ç) Söz konusu belge, evrak olarak dosyalanmalı ve Sağlık Tesisleri Yerinde Değerlendirme medikal depo kapsamında görev yapan gözlemcilere ibraz edilmelidir.
 
-b) Ilaç veya tibbi sarf ekleme ekranı üzerilen paylaşılacak ürlinler eklenir
+#### 3. Talep Değerlendirme İşlemleri
+a) İl öncelik sırası, bildirilen mücbir sebep ve gerekçelere istinaden ilgili Daire Başkanlığı tarafından belirlenir.
+b) Paylaşımda bulunan uzman/sorumlu kendisine gelen talepleri birim derecelendirme öncelik sırasına göre değerlendirmelidir.
+c) Talep değerlendirme işlemlerinde karşılıklı mutabakata varılması gerekmektedir.
 
-e) Her kalem ıçın resim yükleme işlemlerı yapılır. Resımleri yüklenmeyen ilaç ve tıbbi sarf
-
-malzemeler katalog ekranına yansımayacakur.
-
-2. İs Eksilisi Paylaşıra Işlemleri
-
-a) 81 İl Sağlık Müdürlüğünde görevli medikal depo stok yönetimi uzmanı/sorumlusu tarafindan mevcut ihalelere ait iş eksilişi kalemleri belirlenir.
-
-b) Belirlenen kalem(er ihale sözleşme bitiş tarihinden en u2 45 (kırk beş) gün öricu TPP sisteminde bulunan ihale işlenkri bölümüne yüklenmelidir. Her kalem için resim yüklene işlemleri yapılmalıdır. Resimleri yüklenmeyen ilaç ve tıbbı sel malzemeler katalog ekranına yansımayacaktır. C) Yüklemeyi takiben 30 (otuz) gün içinde talep gelmeyen kalemler içta sistemden iş eksilişi yapılabıleceğine dair bir belge alımalıdır. Belge yazdınılmadığı sürece ilgili kalem ilanda kalacak ve sistem kullanıciları tarafindan görulmeye devam edecektir. Belge yaahrıtınadan iş eksilişi yapılmamalıdar.
-
-d) Sör konusu belge, evrık olarak desyalanmalı ve Saglık Tesisler Yerinde Degerlendirme medikal depo kapsamında görev yapan gözlemcilere ibraz edilmelidit.
-
-3. Talep Değerlendirme Islemleri
-
-4) Il incelik sırası, bildirilen müchir schep ve gerekçelere istinaden lglli Daire Başkanlığı
-
-tarstindan belirlenir.
-
-by) Puylaşıh bulunan uzman sonımiu kendisine gelen talepleri bırimt derecelentime nacelik
-
-atasina göre degerlendirmelidir.
-
-c) Talep değerlendime işlemlerinde karşihklı mutabakata varılmasi gerekmeklędir.
-
-### T.C. SAGLIK BAKANLIGI Kamu Hastaneleri Genel Müdürlüğü
-
-EC Sag!k Bekard Sayı : 80981279 Konu : Tedarik Paylaşım Platförmu.
-
-4. Devir Işlemleri
-
-a) Tedarik paylaşım ve iş eksiliş işlemlerinde "Tedarik Paylaşım Devir Çıkış/ Devir Giriş' MKYS hareket torl ile islem tesis edilelidic bj Tüm paylaşımlarda kurumlar arası devir işlemleri bedelsiz olarak yapı/mahıdır,
-
+#### 4. Devir İşlemleri
+a) Tedarik paylaşım ve iş eksiliş işlemlerinde "Tedarik Paylaşım Devir Çıkış / Devir Giriş" MKYS hareket türü ile işlem tesis edilmelidir.
+b) Tüm paylaşımlarda kurumlar arası devir işlemleri bedelsiz olarak yapılmalıdır.
 c) Kargo işlem ücretleri devir alan illere aittir.
+ç) Devir eden kurum en az 6 ay miatlı ürün göndermek zorundadır.
+d) Gönderilen ürünlerin miadı uzun olacağından ve talepler azami stok uygulamasına uygun olarak yapılacağından, TPP üzerinden temin edilen ürünlerde miat uzatımı vb. işlemler yapılmayacaktır.
+e) Piyasa gözetim denetim ve vijilans süreçleri devir alan illere aittir.
 
-d) Devir eden kurum en az 6 ay miatlı frin göndermek zorundadır.
+#### 5. Ödenek Aktarımı İşlemleri
+Aşağıda sıralanan işlemler Sağlık Bakanlığı Merkez Teşkilatı ilgili birimleri tarafından yürütülür:
+a) TPP kapsamında bedelsiz olarak gerçekleşen devir işlemlerinde devir eden illere ait toplam KDV dahil devir tutarları ay sonunda hesaplanarak takip eden ay içerisinde ilgili Daire Başkanlığı tarafından aktarım yapacak olan diğer Daire Başkanlıklarına bildirilir.
+b) Ay sonunda idarenin devir ettiği kadar bedel, devir alan idarenin ödeneğinden mahsup edilerek devir eden idareye aktarılır.
 
-e) Gönderilen ürünlerin miadı uzun olacağından ye talepler azami stok uygulamasıa uygun olarak yapılacagudan, TPP üzerinden temin edilen tirinlerde mist nzaturu vb. Işlemler yapilmayacaktır- D Piyasa gözetim denetim ve vijilans süreçleri devir alan illere aittir.
+Bakanlık, İl Sağlık Müdürlükleri ve bağlı sağlık tesislerinde Tedarik Paylaşım Platformu işlemlerinin yukarıda belirtilen düzenlemeler çerçevesinde yürütülmesi hususunda;
 
-5. Odenek Aktarıni Işlemleri Aşağıla sıralananı işlemler Sağlık Bakanlgı Merkez Teşkilanı ilgili hirimleri tarafindan Yürütulur:
+Bilgilerinizi ve gereğini önemle rica ederim.
 
-a) TPP kapsamında bedelsiz ofarak gercekleşen devir işlemlerinde devir eden illere ait toplan KDV dahil devır tarlar. ay somunda hesaplanarak takıp eden ay içerısınde ilgılı Daire Başkankığ larafındun aktarım yapacak olan diger Daire Başkanlıklaaat bildirilir.
-
-b) Ay kamunda idarenin devir erigi kadar bedel, devir alan idarenin odeneğinden mahsup edilerek devit eden idareye aktarhr.
-
-Bakankık, Il Saghk Müdurlukleri ye bağh sağlık tesislerinde Tedarik Paylayım Platförmu Işlemlerinin yukanda belirtilen düzenlemeler çerçevesinde yürütülmesi hususunda;
-
-Bilgilerinizi ve geregini onemle nen éderim.
-
-Prof. Dr. Eyüp GUMUS
-
+Prof. Dr. Eyüp GÜMÜŞ
 Bakan a.
+Müsteşar
 
-Müştesar
+DAĞITIM:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-ми. Dagium: Gereği: Bilgi: 81 İl Valiligi (II Saghk Modurlngn) Plana
+Bilgi:
+A Planı
+

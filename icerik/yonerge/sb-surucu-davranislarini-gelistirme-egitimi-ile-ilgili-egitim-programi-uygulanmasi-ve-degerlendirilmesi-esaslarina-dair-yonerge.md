@@ -1,15 +1,16 @@
----
-id: "sb-surucu-davranislarini-gelistirme-egitimi-ile-ilgili-egitim-programi-uygulanmasi-ve-degerlendirilmesi-esaslarina-dair-yonerge"
+---id: "sb-surucu-davranislarini-gelistirme-egitimi-ile-ilgili-egitim-programi-uygulanmasi-ve-degerlendirilmesi-esaslarina-dair-yonerge"
 baslik: "Sürücü Davranışlarını Geliştirme Eğitimi ile İlgili Eğitim Programı Uygulanması ve Değerlendirilmesi Esaslarına Dair Yönerge"
 tur: "yonerge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Alkollü araç kullanan sürücülere yönelik Sürücü Davranışlarını Geliştirme Eğitimi (SÜDGE) programını düzenler."
+konu: "Alkollü araç kullanımı nedeniyle sürücü belgesi geri alınanlara yönelik Sürücü Davranışlarını Geliştirme Eğitimi programını düzenler."
 etiketler: ["südge", "sürücü eğitimi", "alkol muayenesi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 478-480"
 durum: "yürürlükte"
 ocr: true
+tarih: "2005-03-04"
+sayi: "3201"
+duzeltildi: true
 ---
-
 6.2.8. Sürücü Davranışlarını Geliştirme Eğitimi ile İlgili Eğitim Programı Uygulanması ve Değerlendirilmesi Esaslarına Dair Yönerge
 
 ## İKİNCİ BÖLÜM Eğitim Programı Uygulanma ve Değerlendirme Esasları
@@ -22,7 +23,7 @@ Eğitim programının ilk haftasında sürücülerin bireysel ve grup özellikle
 
 Eğitim biriminde muhafaza edilen kişisel dosyada; Yönetmelik hükümlerine göre başvuru için gerekli belgeler ve formlar, ek-l ve 'deki belirtilen formlar, sürücü tarafindan yatınlan il sağlık müdürlüğü döner sermaye işletmeleri üeret makbuzu yer ahır. Bu dosya sürücünün izleme değerlendirme görüşmesi esnasında değerlendırmeyi yapacak psıkiyatri uzmanına teslim edilir, sonrasında eğitim birimince geri alınır.
 
-Eğitimciler tarafindan her ders saatinde alınacak olan imza föyü; her eğitim günü sonunda eğitim birimine paralanarak teslim edilir. Imza föyleri her grup için ayrı ayrı olmak üzere eğitim birimi tarafindan dosyalanarak saklanır. Devamsızlığı olan sürücülerin ilişiği, eğitim birimi tarafından kesilir. Herhangi bir nedenle devamsızlık sebebiyle eğitimden ilişıği kesilenlerden sonraki eğitim programına kayıtları yapılırken il sağhk müdürlüğü döner sermaye işletmelerine yeniden ücret alınmaz.
+Eğitimciler tarafindan her ders saatinde alınacak olan imza föyü; her eğitim günü sonunda eğitim birimine paralanarak teslim edilir. Imza föyleri her grup için ayrı ayrı olmak üzere eğitim birimi tarafindan dosyalanarak saklanır. Devamsızlığı olan sürücülerin ilişiği, eğitim birimi tarafından kesilir. Herhangi bir nedenle devamsızlık sebebiyle eğitimden ilişıği kesilenlerden sonraki eğitim programına kayıtları yapılırken il sağlık müdürlüğü döner sermaye işletmelerine yeniden ücret alınmaz.
 
 #### Sürücülerin Değerlendirilmesi
 

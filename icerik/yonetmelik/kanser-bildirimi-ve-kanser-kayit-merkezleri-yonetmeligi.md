@@ -9,6 +9,7 @@ konu: "Kanser Bildirimi ve Kanser Kayıt Merkezleri Yönetmeliği kapsamında y�
 etiketler: ["kanser", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 234-237"
 durum: "yürürlükte"
+ocr: true
 ---
 
 Resmi Gazete Tarihi: 03.06.2015 Resmi Gazete Sayısı: 29375
@@ -204,3 +205,37 @@ d) Merkez sorumlusunun kanser kayıtlarının düzenlenmesi ile ilgili verdiği 
 **MADDE 16 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
 ### EK 1 PATOLOJİ, SİTOLOJİ, HEMATOLOJİ LABORATUVARLARI KANSER BİLDİRİM FORMU
+
+: Guncelleme Tarihi:
+
+PATOLOJİ, SİTOLOJİ, HEMATOLOJİ Sayfa No:1 / 1
+
+### LABORATUVARLARI KANSER BİLDİRİM FORMU
+
+BIRIM/BÖLÜM Kanser Daire Başkanlığı / Kanser Kayıtçılığı
+
+### TC KIMLIK NO: ADI-SOYADI CINSIYETI DOGUM TARIHI ADRES ISTEM TARİHİ İSTEM YAPILAN SERVİS İSTEM YAPAN HEKİM RAPORLAMA TARİHI PATOLOJÍ PROTOKOL NO: NUMUNENİN ALINDIĞI DOKU
+
+Histoloji Primer (Ana dokadan)
+
+Histoloji Metastaz (Metastaz dokusandan)
+
+Otopsi Materyali
+
+Sitoloji/Hematoloji
+
+### UNENİN ALINMA ŞEKLI
+
+Eksizyonel Biopsi-Ameliyat Materyali
+
+Insizyonel Biopsi-Tru Cat
+
+Biopsi/Küretaj
+
+Fruzer
+
+Parafin Blok-Fazır Preperat (Konstilasyon)
+
+Ince Igne Aspirasyon Biopsisi/Sitoloji
+
+### TANI KODU: TOPOGRAFI: MORFOLOJÍ: PATOLOG KURUM ADI:

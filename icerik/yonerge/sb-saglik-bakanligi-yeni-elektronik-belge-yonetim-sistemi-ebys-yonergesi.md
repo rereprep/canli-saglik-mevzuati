@@ -1,5 +1,4 @@
----
-id: "sb-saglik-bakanligi-yeni-elektronik-belge-yonetim-sistemi-ebys-yonergesi"
+---id: "sb-saglik-bakanligi-yeni-elektronik-belge-yonetim-sistemi-ebys-yonergesi"
 baslik: "Sağlık Bakanlığı Yeni Elektronik Belge Yönetim Sistemi (EBYS) Yönergesi"
 tur: "yonerge"
 tarih: "2022-12-29"
@@ -9,8 +8,9 @@ etiketler: ["ebys", "elektronik belge", "resmi yazışma"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 361-371"
 durum: "yürürlükte"
 ocr: true
+sayi: "719"
+duzeltildi: true
 ---
-
 4.2.1. Sağlık Bakanlığı Yeni Elektronik Belge Yönetim Sistemi (EBYS) Yönergesi
 
 ### SAĞLIK BAKANLIĞI YENİ ELEKTRONİK BELGE YÖNETİM SİSTEMİ YÖNERGESİ
@@ -53,7 +53,7 @@ Elektronik Kamu Bilgi Yönetim Sistemi (KAYSIS): Kamu kurumlarınım teşkilat y
 
 Entegrasyon: Bakanlıkta kullanılan farklı elektronik belge yönetim sistemleri arasındaki uyumu sağlamak üzere gerçekleştirilen işlemleri,
 
-k) Genel Müdürlük: Sağlık Bilgi Sistemleri Genel Müdürlügünü,
+k) Genel Müdürlük: Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
 
 D Görev verme: İşlem yapılması gereken bir resmi yazı veya birim amirinin sözlü veya yazılı olarak talimatlandırdığı resmi yazı talebıni,
 
@@ -105,7 +105,7 @@ ifade eder.
 
 #### like ve kurallar
 
-**MADDE 5 –** (1) Bakanlık merkez, taşra ve yurt dışı teşkilatı ile bağh ve ilgili kuruluşları merkez ve taşra teşkilatı tarafından yapılan resmi yazışmalarda aşağıdaki ilke ve
+**MADDE 5 –** (1) Bakanlık merkez, taşra ve yurt dışı teşkilatı ile bağlı ve ilgili kuruluşları merkez ve taşra teşkilatı tarafından yapılan resmi yazışmalarda aşağıdaki ilke ve
 
 b) EBYS'ye ilişkin kullanıcı kılavuzları, yardım dosyalanı, sıkça sorulan sorulanın cevapları, yardım masası prosedürleri ve konuyla ilgili güncel mevzuat Genel Müdürlük resm! web sayfasında yayımlanır. EBYS kullanıcıları, bu adresi takip etmekle ve içerik hakkında bilgi
 
@@ -223,7 +223,7 @@ Fiziksel eki olan evrak ile ilgili yapılacak işlemler bu Yönergedeki usul ve 
 
 #### KEP adresi temini
 
-**MADDE 11 –** (1) Bakanlık merkez teşkilatı adına KEP adresi temini, Yönetim Hizmetleri Genel Müdürlügü tarafindan gerçekleştirilir.
+**MADDE 11 –** (1) Bakanlık merkez teşkilatı adına KEP adresi temini, Yönetim Hizmetleri Genel Müdürlüğü tarafindan gerçekleştirilir.
 
 (2) Bakanlık bağlı ve ilgili kuruluşlar ile yurt dışı teşkilatı, kendileri adına KEP adresi temın ederler. Bunların taşra teşkılatı olması ve ayrıca taşra teşkilatı içın ihtiyaç duyulması halinde KEP adresi temini konusundaki yetki, bağlı bulunulan birimin Başkanlığı veya Genel Müdürlüğünün uhdesindedir.
 

@@ -1,26 +1,27 @@
----
-id: "sb-saglik-bakanligi-teftis-kurulu-baskanligi-risk-esasli"
+---id: "sb-saglik-bakanligi-teftis-kurulu-baskanligi-risk-esasli"
 baslik: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi"
 tur: "yonerge"
 birim: "Teftiş Kurulu Başkanlığı"
-konu: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi kapsamında yürütülecek iş ve işlemleri düzenler."
+konu: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı bünyesinde kurulan Risk Esaslı Denetim Sistemi Koordinatörlüğünün görev, yetki ve çalışma usullerini düzenler."
 etiketler: ["denetim", "denetim sistemi", "risk esaslı denetim"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1024-1027"
 durum: "yürürlükte"
 ocr: true
+tarih: "2024-11-29"
+sayi: "261023707"
+duzeltildi: true
 ---
-
 10.2.2. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi
 
-### SAGLIK BAKANLIGI TEFTIŞ KURULU BAŞKANLIGI RİSK ESASLI DENETİM SİSTEMİ KOORDİNATÖRLÜĞÜ YÖNERGESİ BİRİNCİ BÔLÜM Başlangı Hükümleri
+### SAĞLIK BAKANLIĞI TEFTIŞ KURULU BAŞKANLIGI RİSK ESASLI DENETİM SİSTEMİ KOORDİNATÖRLÜĞÜ YÖNERGESİ BİRİNCİ BÔLÜM Başlangı Hükümleri
 
 #### Amaç ve kapsam
 
-**MADDE 1 –** (1) Bu Yönergenin amacı, Sağlik Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlügünün organizasyon yapısı ve görevleri ile çalışma usul ve esaslarını düzenlemektir.
+**MADDE 1 –** (1) Bu Yönergenin amacı, Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlügünün organizasyon yapısı ve görevleri ile çalışma usul ve esaslarını düzenlemektir.
 
 (2) Bu Yönerge, Teftiş Kurulu Başkankığı Risk Esaskı Denetim Sistemi Koordinatörlüğünün birimlerini ve bu birimlerce gerçekleştirilen iş ve işlemleri kapsar. Dayanak
 
-**MADDE 2 –** (1) Bu Yönerge, 23/8/2022 tarihli ve 31932 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığı Tefiş Kurulu Yönetmeliğinin 4 üncü maddesinin dördüncü fikrasına dayanılarak hazırlanmıştır. Tanımlar
+**MADDE 2 –** (1) Bu Yönerge, 23/8/2022 tarihli ve 31932 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığı Tefiş Kurulu Yönetmeliğinin 4 üncü maddesinin dördüncü fıkrasına dayanılarak hazırlanmıştır. Tanımlar
 
 **MADDE 3 –** (1) Bu Yönergede geçen;
 
@@ -84,7 +85,7 @@ f) Koordinatörlükte görevli personelin izin işlemlerini Başkanın onayına 
 
 **MADDE 7 –** (1) Istihbarat Birimi aşağıdaki görevleri yerine getirir:
 
-a) Sağhk hizmet sunumunda yolsuzluk, usulsüzlük ve israfa neden olan konuları tespit etmek,
+a) Sağlık hizmet sunumunda yolsuzluk, usulsüzlük ve israfa neden olan konuları tespit etmek,
 
 b) Inceleme-sorușturma raporlarini incelemek,
 
@@ -170,11 +171,11 @@ d) Sahada ilgili birimlerle temas kurarak merkezden elde edilen verileri doğrul
 
 **MADDE 11 –** (1) REDES kapsamında merkez ve taşra teşkilatında verilecek eğitimlere ilişkin mali hususlar aşağıda sıralanmıştır:
 
-a) REDES kapsamında taşta teşkilatında verilecek eğitimlerde, eğiticilere il dışı görevleri için 10/2/1954 tarihli ve 6245 sayıh Harcırah Kanunu hükümlerine göre gündelik, konaklama, yol bedeli ve ayrica varsa eğitimin icrasıyla ilgili diğer zorunlu masrafları ödenir.
+a) REDES kapsamında taşta teşkilatında verilecek eğitimlerde, eğiticilere il dışı görevleri için 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre gündelik, konaklama, yol bedeli ve ayrica varsa eğitimin icrasıyla ilgili diğer zorunlu masrafları ödenir.
 
 b) Eğitime katılanların gündelik, konaklama ve yol bedelleri kendi kurum ve kuruluşlanınca 6245 sayılı Kanun hükümlerine göre ödenir. Katılımcılara gündelik, konaklama ve yol bedeli haricinde ayrıca bir ödeme yapılmaz.
 
-c) Yönerge çerçevesinde eğitim vermek üzere görevlendirilen eğiticilere; 14/7/1965 tarihli ve 657 sayıl Devlet Memurları Kanununun 89 uncu ve 176 neı maddeleri, 11/12/2009 tarihli ve B.10.0.SEG.0.72.00.03-010.03/15296 sayılı Bakanlık Makam Onayı ile yürürlüğe giren Sağlık Bakanlığı Hizmet Içi Eğitim Yönetmeliğinin 39 uncu maddesi, 07/10/1994 tarihli ve 94/6192 sayıh Bakanlar Kurulu Karan ile 20/12/1994 tarihli ve 22147 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığına Bağlı Her Derecedeki Eğitim ve Oğretim Kurumları ile Hizmet Içi Eğitim Kurs ve Seminerlerde Ücretle Okutulacak Ders Saatlerinin Sayısı, Ders Görevi Alacakların Nitelikleri ve Diğer Hususlara Dair Esaslara dayamlarak eğitim ücreti ödenebilir.
+c) Yönerge çerçevesinde eğitim vermek üzere görevlendirilen eğiticilere; 14/7/1965 tarihli ve 657 sayıl Devlet Memurları Kanununun 89 uncu ve 176 neı maddeleri, 11/12/2009 tarihli ve B.10.0.SEG.0.72.00.03-010.03/15296 sayılı Bakanlık Makam Onayı ile yürürlüğe giren Sağlık Bakanlığı Hizmet Içi Eğitim Yönetmeliğinin 39 uncu maddesi, 07/10/1994 tarihli ve 94/6192 sayılı Bakanlar Kurulu Karan ile 20/12/1994 tarihli ve 22147 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığına Bağlı Her Derecedeki Eğitim ve Oğretim Kurumları ile Hizmet Içi Eğitim Kurs ve Seminerlerde Ücretle Okutulacak Ders Saatlerinin Sayısı, Ders Görevi Alacakların Nitelikleri ve Diğer Hususlara Dair Esaslara dayamlarak eğitim ücreti ödenebilir.
 
 ## BEŞİNCİ BÖLÜM Son Hükümler
 

@@ -1,15 +1,16 @@
----
-id: "sb-su-aritma-sistemi-yonergesi"
+---id: "sb-su-aritma-sistemi-yonergesi"
 baslik: "Su Arıtma Sistemi Yönergesi"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Diyaliz merkezlerinde kullanılan su arıtma sistemlerinin teknik kriterleri, bakımı ve su güvenliği standartlarını düzenler."
+konu: "Hemodiyaliz merkezlerinde kullanılan su arıtma sistemlerinin teknik özellikleri, periyodik bakımı ve su kalitesi kontrol standartlarını düzenler."
 etiketler: ["su arıtma", "hemodiyaliz", "su kalitesi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 112-116"
 durum: "yürürlükte"
 ocr: true
+tarih: "2009-04-17"
+sayi: "15873"
+duzeltildi: true
 ---
-
 2.2.14. Su Arıtma Sistemi Yönergesi
 
 ### T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü SAYI : B.10.0.THG.0.14.00.02- 15873 17/4/2009

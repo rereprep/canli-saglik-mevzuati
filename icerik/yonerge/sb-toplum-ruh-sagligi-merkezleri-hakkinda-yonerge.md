@@ -1,15 +1,16 @@
----
-id: "sb-toplum-ruh-sagligi-merkezleri-hakkinda-yonerge"
+---id: "sb-toplum-ruh-sagligi-merkezleri-hakkinda-yonerge"
 baslik: "Toplum Ruh Sağlığı Merkezleri Hakkında Yönerge"
 tur: "yonerge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Ağır ruhsal bozukluğu olan bireylere yönelik toplum ruh sağlığı merkezlerinin (TRSM) işleyişini düzenler."
+konu: "Ağır ruhsal bozukluğu olan bireylere yönelik toplum ruh sağlığı merkezlerinin (TRSM) açılması, fiziki şartları ve çalışma usullerini düzenler."
 etiketler: ["toplum ruh sağlığı", "trsm", "ruh sağlığı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 441-448"
 durum: "yürürlükte"
 ocr: true
+tarih: "2014-03-06"
+sayi: "9453"
+duzeltildi: true
 ---
-
 6.2.2.Toplum Ruh Sağlığı Merkezleri Hakkında Yönerge sağlığı ve hastalıkları uzmanı sorumluluğunda faaliyet göstermek üzere açılan ve Bakanlık tarafindan ruhsatlandırılan toplum ruh sağlığı merkezinı,
 
 )Müdürlük: Il sağlık müdürlüklerini,
@@ -72,13 +73,13 @@ h) Ekip Çalışma Odası: Merkezde görevli çalışanların kullanabileceği d
 
 (2)Acil psikiyatrik durumlarda hasta nakilleri için 112 ambulans hizmetlerinden faydalanılır.
 
-(3) Ulaşım ve hasta nakıl hizmetleri, ilgili mevzuata uygun olarak hızmet alımı veya kiralama yoluyla gerçekleştirilebilir.
+(3) Ulaşım ve hasta nakıl hizmetleri, ilgili mevzuata uygun olarak hizmet alımı veya kiralama yoluyla gerçekleştirilebilir.
 
 ## ÜÇÜNCÜ BÖLÜM Personel Görevlendirilmesi, Asgari Personel Standardı, Görev Tanımları ve Sorumluluklar Personel seçimi ve görevlendirme
 
 **MADDE 8 –** (1) Merkezde en az; 1 ruh sağlığı ve hastalıkları uzmanı, 1 sosyal çalışmacı, 1 psikolog, 2 hemşire, 1 sağlık memuru, 1 tıbbi sekreter, 1 idari ve teknik personel ve ihtiyaç duyulan temizlik elemanı, güvenlik görevlisi ile iş uğraş terapisti gibi diğer unvanlarda yeteri kadar personel ilgıli mevzuata uygun olarak hastane yöneticisi tarafından görevlendirilır. Hizmet alımı yolu ile temin edilecek hizmetlerdeki personel sayısı, Bakanlıkça ilgili mevzuatta belirlenen azami işçi sayısına dähil değildir.
 
-(2) Merkezde görevlendirilecek personel, Bakanlık tarafindan hazırlanan "Toplum Ruh Sağlığı Merkezi Çalışma Prensipleri Genel Uyum ve Teori Eğitimi'ni almış olan personel arasından seçilir. Bu nitelikte personel bulunmaması halinde görevlendirilen personelin en kısa sürede ilgili eğitimi alması için Türkiye Halk Sağlığı Kurumu ile koordinasyon sağlanır. Türkiye Halk Sağlığı Kurumu tarafindan veya Bakanlıkça onay verilen merkezde personel eğitime alınır. Bu eğitim alınıncaya kadar merkez sorumlu ruh sağlığı ve hastalıkları uzmanı tarafindan; temel eğitim ve merkez çalışma usul ve esasları konusunda eğitim verilir ve yazılı olarak Bakanlığa bildirilir. Bu eğitimi alan kişilerin hızmetin süreklılığı için merkezde çalıştırılmasına özen gösterılır.
+(2) Merkezde görevlendirilecek personel, Bakanlık tarafindan hazırlanan "Toplum Ruh Sağlığı Merkezi Çalışma Prensipleri Genel Uyum ve Teori Eğitimi'ni almış olan personel arasından seçilir. Bu nitelikte personel bulunmaması halinde görevlendirilen personelin en kısa sürede ilgili eğitimi alması için Türkiye Halk Sağlığı Kurumu ile koordinasyon sağlanır. Türkiye Halk Sağlığı Kurumu tarafindan veya Bakanlıkça onay verilen merkezde personel eğitime alınır. Bu eğitim alınıncaya kadar merkez sorumlu ruh sağlığı ve hastalıkları uzmanı tarafindan; temel eğitim ve merkez çalışma usul ve esasları konusunda eğitim verilir ve yazılı olarak Bakanlığa bildirilir. Bu eğitimi alan kişilerin hizmetin süreklılığı için merkezde çalıştırılmasına özen gösterılır.
 
 (3) Merkezde görevli personel; merkezde ve ev ziyaretlerinde yaka kartı takınak kaydıyla üniformasız çalışır.
 
@@ -172,7 +173,7 @@ Merkezin Çalışma Esasları, Hasta Hakları,
 
 #### Merkezin Çalışma Esasları
 
-**Madde 14 –** (1) Merkez, ağır ruhsal bozukluğu olan hastalara sunulan ruh sağlığı hizmetini bir bütün olarak değerlendirmek ve bu kişilerin hızmetten en iyi şekilde yararlanması için ekip anlayışı ile her türlü önlemi almak, bağlı olduğu sağlık tesisi (ilgili yataklı psikiyatri kliniği vb.) ve diğer ilgili kuruluşlarla (halk sağlığı müdürlüğü, birinci basamak sağlık hizmetleri kapsamında aile hekimliği, toplum sağlığı merkezi, aile ve sosyal politikalar il müdürlüğü, belediye sosyal işler müdürlüğü, vakıflar, sivil toplum kuruluşları vb.) koordinasyon ve işbirliği içerisinde çalışmak, tescil tarihinden ıtıbaren en geç I (bir) yıl ıçerisınde hızmet verdığı bölgenın stratejık planını hazırlamak, uygulamak ve sonuçlarımı ızlemek ve değerlendirmekle yükümlüdür. Merkez rehabilitasyon konusunda hastaların özelliklerine uygun psikososyal destek programları geliştirerek rehabilitasyon sürecinin
+**Madde 14 –** (1) Merkez, ağır ruhsal bozukluğu olan hastalara sunulan ruh sağlığı hizmetini bir bütün olarak değerlendirmek ve bu kişilerin hızmetten en iyi şekilde yararlanması için ekip anlayışı ile her türlü önlemi almak, bağlı olduğu sağlık tesisi (ilgili yataklı psikiyatri kliniği vb.) ve diğer ilgili kuruluşlarla (halk sağlığı müdürlüğü, birinci basamak sağlık hizmetleri kapsamında aile hekimliği, toplum sağlığı merkezi, aile ve sosyal politikalar il müdürlüğü, belediye sosyal işler müdürlüğü, vakıflar, sivil toplum kuruluşları vb.) koordinasyon ve işbirliği içerisinde çalışmak, tescil tarihinden ıtıbaren en geç I (bir) yıl ıçerisınde hizmet verdığı bölgenın stratejık planını hazırlamak, uygulamak ve sonuçlarımı ızlemek ve değerlendirmekle yükümlüdür. Merkez rehabilitasyon konusunda hastaların özelliklerine uygun psikososyal destek programları geliştirerek rehabilitasyon sürecinin
 
 (2) Merkeze devamı sağlanan hastaların farmakolojik tedavisine düzenli devam edip etmediği, ılaçlarını doğru zamanda ve dozda kullanıp kullanmadığı, yan etki olup olmadığı gıbi süreçlerin takip edilmesi esastır.
 

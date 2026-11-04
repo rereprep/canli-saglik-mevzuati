@@ -1,5 +1,4 @@
----
-id: "sb-saglik-raporlari-usul-ve-esaslari-hakkinda-yonerge"
+---id: "sb-saglik-raporlari-usul-ve-esaslari-hakkinda-yonerge"
 baslik: "Sağlık Raporları Usul ve Esasları Hakkında Yönerge"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
@@ -8,8 +7,10 @@ etiketler: ["sağlık raporu", "sağlık kurulu", "tek hekim raporu"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 39-59"
 durum: "yürürlükte"
 ocr: true
+tarih: "2019-09-30"
+sayi: "1618"
+duzeltildi: true
 ---
-
 2.2.6. Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
 
 ### SAĞLIK RAPORLARI USUL VE ESASLARI HAKKINDA YÖNERGE
@@ -30,11 +31,11 @@ b) Bakanlık: Sağlk Bakanlığını,
 
 c) ÇKYS: Çekirdek Kaynak Yönetim sistemini,
 
-ę) Durum Bildirir Raporlar: Kişinin sağhk durumunun bir veya birden çok hekim tarafindan belirlenerek kayıt altına alındığı belgeleri,
+ę) Durum Bildirir Raporlar: Kişinin sağlık durumunun bir veya birden çok hekim tarafindan belirlenerek kayıt altına alındığı belgeleri,
 
-d) e-Rapor: Sağlik raporlarının elektronik olarak düzenlenebildiği, e-imza ile onaylanabildiği Bakanlık tarafından kurulan elektronik sistemi,
+d) e-Rapor: Sağlık raporlarının elektronik olarak düzenlenebildiği, e-imza ile onaylanabildiği Bakanlık tarafından kurulan elektronik sistemi,
 
-e) ETSŞY: 3/1/2018 tarih ve 30290 sayılı Resmi Gazete' de yayımlanan Emniyet Teşkilatı Sağhk Şartları Yönetmeliğini,
+e) ETSŞY: 3/1/2018 tarih ve 30290 sayılı Resmi Gazete' de yayımlanan Emniyet Teşkilatı Sağlık Şartları Yönetmeliğini,
 
 f) Evlilik Öncesi Sağlık Raporu: Kişilerin evlenmeye engel hastalığının bulunmadığını gösteren sağlık raporudur.
 
@@ -144,7 +145,7 @@ e) Terör, kaza, maluliyet raporları hariç olmak üzere 3 (üç) aydan kısa s
 
 (2) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personeli, öğrencileri ve bunların adayları ile askerlik yükümlülerinin görevlerine uyarlık bakımından sağlık yeteneklerini tespit etmek amacıyla yapılacak muayene ve düzenlenecek sağlık raporları Bakanlıkça yayımlanan Türk Silahlı Kuvvetleri Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi'nde yer alan sağlık hizmet sunucuları tarafindan düzenlenir.
 
-(3) Uçucu sağlik raporları ile denizalticı ve dalgiç sağlik raporları sadece Uçucu, Denizaltıcı ve Dalgıç Sınıfı Raporları Vermeye Yetkili Hastaneler Listesi'nde yer alan hastaneler tarafindan düzenlenir.
+(3) Uçucu sağlık raporları ile denizalticı ve dalgiç sağlık raporları sadece Uçucu, Denizaltıcı ve Dalgıç Sınıfı Raporları Vermeye Yetkili Hastaneler Listesi'nde yer alan hastaneler tarafindan düzenlenir.
 
 (4) Yükümlüler dâhil sağlık kurulu raporu için başvuracak tüm personel, ilgili makamlarca düzenlenen sevk kâğıdı ile hastaneye müracaat eder. Sevk kâğıdını düzenleyen makam tarafından personelin ne maksatla muayene edileceği sevk kâğıdında belirtilir. Yatarak tedavi gören personelden ayrıca sevk kåğıdı istenmez. Sevk kâğıdı örneği Ek-9'da yer almaktadır.
 
@@ -292,7 +293,7 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflar.
 
 (4) Bu raporlar Ek-4'te yer alan Durum Bildirir Sağlık Kurulu Raporu formatına uygun şekilde düzenlenir.
 
-#### Nakdi tazminat tahakkukuna esas sağhk kurulu raporu
+#### Nakdi tazminat tahakkukuna esas sağlık kurulu raporu
 
 **MADDE 20 –** (1) 18/1/1993 tarihli ve 21469 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Yönetmelik'in T'nci maddesi hükümlerine göre düzenlenir.
 
@@ -404,13 +405,13 @@ e) Madde veya alkol bağımlılığı, ę) Organik mental bozukluklar,
 
 #### Maluliyet ve Çalışma Gücü Kaybı Tespit İşlemleri
 
-**MADDE 33 –** (09/09/2021/1662 Yürürlük: 09/09/2021) (1) 5510 sayıh Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre sigortalı sayılanların, maluliyet, çalışma gücü kaybı ve erken yaşlanma durumlarının tespite yönelik düzenlenecek sağlık raporlanı Yönerge eki Ek- 14 Maluliyet ve Çalışma Gücü Kaybına Esas Sağlık Kurulu Rapor Formatına uygun olarak düzenlenir.
+**MADDE 33 –** (09/09/2021/1662 Yürürlük: 09/09/2021) (1) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre sigortalı sayılanların, maluliyet, çalışma gücü kaybı ve erken yaşlanma durumlarının tespite yönelik düzenlenecek sağlık raporlanı Yönerge eki Ek- 14 Maluliyet ve Çalışma Gücü Kaybına Esas Sağlık Kurulu Rapor Formatına uygun olarak düzenlenir.
 
 ## ONUNCU BÖLÜM Özel Düzenleme Bulunmayan Raporlar
 
 #### Raporların düzenlenmesine ve formatına ilişkin açıklamalar
 
-**MADDE 34 –** (1) Bu Yönerge' de; özel rapor formatı belirtilen durumlar dışında tüm raporların düzenlenmesinde aşağıdaki kriterlere uyulur. Sağhk Bakanlığına bağlı hastaneler, üniversite hastaneleri, diğer kamu kurumlarına ait sağlık kurum ve kuruluşları ile Sağlık Bakanlığınca ruhsatlandırılmış özel hastaneler, özel tıp merkezleri ve birinci basamak sağlık hizmet sunucuları;
+**MADDE 34 –** (1) Bu Yönerge' de; özel rapor formatı belirtilen durumlar dışında tüm raporların düzenlenmesinde aşağıdaki kriterlere uyulur. Sağlık Bakanlığına bağlı hastaneler, üniversite hastaneleri, diğer kamu kurumlarına ait sağlık kurum ve kuruluşları ile Sağlık Bakanlığınca ruhsatlandırılmış özel hastaneler, özel tıp merkezleri ve birinci basamak sağlık hizmet sunucuları;
 
 a) Istirahat Raporlarını Ek-l' de yer alan rapor formatına,
 
@@ -518,11 +519,11 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 (6) İtiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Yönerge eki Ek- 12 Hakem Hastane Listesinde yer alıyor ise kişi listede yer alan aynı veya üst roldeki diğer en yakın hastaneye sevk edilir. Rapor bölge hakem Hastanelerinden biri tarafindan düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir. Sağlık raporları arasında çelişki olması halinde, en yakın farklı bir bölge hakem hastaneye, sağlık kurulu raporu tanzim edilmesi amacıyla yine il sağlık müdürlüğü kanalıyla kişi gönderilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir.
 
-(7) Askerlik yükümlülüğüne tabi olanlar hakkında aile hekimleri veya tek tabipler tarafindan verilen "Askerliğe Elverişlidir" veya "10 güne kadar (dâhil) "istirahat" kararlı raporlara itiraz halinde, sağlık kuruluşuna sevki yapan askerlik şubeleri veya birlik komutanlıklar/kurum amirliklerince, yükümlüler sağhk kurulu raporu aldırılmak üzere en yakın "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşlarına sevk edilir.
+(7) Askerlik yükümlülüğüne tabi olanlar hakkında aile hekimleri veya tek tabipler tarafindan verilen "Askerliğe Elverişlidir" veya "10 güne kadar (dâhil) "istirahat" kararlı raporlara itiraz halinde, sağlık kuruluşuna sevki yapan askerlik şubeleri veya birlik komutanlıklar/kurum amirliklerince, yükümlüler sağlık kurulu raporu aldırılmak üzere en yakın "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşlarına sevk edilir.
 
 (8) Sevk edildikleri hastane sağlık kurullarınca haklarında verilen "Askerliğe Elverişlidir" "Ertesi Yıla Bırakma", "Sevk Tehiri", "Askerliğe Elverişli Değildir" ve "10 günden fazla süreli "İstirahat/Hava Değişimi" raporlarına yükümlülerin itirazları veya rapor kararlarındaki tanı ve karar uyumsuzluğu nedeniyle kontrol muayenesi başlatılmasının gerekmesi halinde; askerlik şubeleri veya birlik komutanlıklan/kurum amirliklerince yükümlülerin dilekçeleri alınarak, itiraz edilen/tanı ve karar uyumsuzluğu bulunan rapor/raporların tıpkıçekimleri ile birlikte hakem muayenesi için sevk edileceği hastanenin bildirilmesi itiraz edilen raporu (tanı ve karar uyumsuzluğu nedeniyle kontrol muayenesi başlatılması gereken raporlarda ise son raporu) tanzim eden hastanenin bulunduğu yerdeki il sağlık müdürlüğünden talep eder. Il sağlık müdürlüklerince belirlenen hakem hastane talepte bulunan makama bildirilir ve hakem hastaneye kişinin sevki talebi yapan makamlarca yerine
 
-#### Uçucu ve dalgıç/denizaltıcı sınıfı sağhk kurulu raporlarına itiraz
+#### Uçucu ve dalgıç/denizaltıcı sınıfı sağlık kurulu raporlarına itiraz
 
 **MADDE 40 –** (1) Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi veyahut raporu isteyen kurum tarafindan itiraz edilebilir. Ilgililer itiraz dilekçesi ve ilk sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ya da adına rapor düzenlenen kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirilmesini doğrudan yapabilir. Bu durumda görevlendirme yapılan hakem hastanenin bağlı bulunduğu il sağlık müdürlüğüne bilgi verilir.
 
@@ -546,7 +547,7 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 (4) Itiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Yönerge eki Ek-12 Hakem Hastane Listesinde yer alıyor ise kişi listede yer alan aynı veya üst roldeki diğer en yakın hastaneye sevk edilir. Rapor Bölge hakem Hastanelerinden biri tarafından düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir. Itiraz üzerinde alınan ikinci rapora itiraz süresi içinde itiraz olmaması halinde ikinci rapora göre işlem tesis edilir ve rapor kesinleşir. İlk rapor ile hakem hastane raporu kararı farklı olsa dahi itiraz olmadan sevke gerek yoktur. Sağlık raporları arasında çelişki olması ve itiraz edilmesi halinde, en yakın farklı bir bölge hakem hastaneye, sağlık kurulu raporu tanzim edilmesi amacıyla yine il sağlık müdürlüğü kanalıyla kişi gönderilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir.
 
-(20/10/2020/4959 Yürürlük: 20/10/2020) Emniyet Teşkilatı Sağhk Şartları Yönetmeliği Kapsamında Düzenlenen Sağlık Raporlarına İtiraz
+(20/10/2020/4959 Yürürlük: 20/10/2020) Emniyet Teşkilatı Sağlık Şartları Yönetmeliği Kapsamında Düzenlenen Sağlık Raporlarına İtiraz
 
 **MADDE 42 –** (1) Raporlara itiraz; raporu alan kişi, raporu alan kişinin velisi veya vasisi, tarafindan Emniyet Genel Müdürlüğüne yapılır. Emniyet Genel Müdürlüğü ilk raporu düzenleyen sağlık hizmet sunucusunun bulunduğu veya kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğünden hakem hastane talebinde bulunur. II sağlık müdürlükleri veya hastanelere Emniyet Genel Müdürlüğünün yazılı talebi olmadan doğrudan yapılan itirazlar kabul edilmez.
 
@@ -614,7 +615,7 @@ Ortak ve Son Hükümler
 
 #### Yürürlükten kaldırılan mevzuat
 
-**MADDE 45 –** (1) 02/05/2017 tarih ve 23642684-010.99-835 sayılı Sağlik Raporlarına İlişkin Usul ve Esaslar yürürlükten kaldırılmıştır.
+**MADDE 45 –** (1) 02/05/2017 tarih ve 23642684-010.99-835 sayılı Sağlık Raporlarına İlişkin Usul ve Esaslar yürürlükten kaldırılmıştır.
 
 #### Yürürlük
 

@@ -1,15 +1,16 @@
----
-id: "sb-turkiye-kok-hucre-merkezinin-calisma-usul-ve-esaslarina-dair-yonerge"
+---id: "sb-turkiye-kok-hucre-merkezinin-calisma-usul-ve-esaslarina-dair-yonerge"
 baslik: "Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Türkiye Kök Hücre Merkezinin (TÜRKKÖK) kuruluşu, işleyişi ve donör kazanımı süreçlerinin usul ve esaslarını belirler."
+konu: "Türkiye Kök Hücre Merkezinin (TÜRKÖK) doku bilgi işlem merkezi, kemik iliği bankası ve bağışçı kazanım birimlerinin çalışma esaslarını düzenler."
 etiketler: ["kök hücre", "türkkök", "organ ve doku nakli"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 27-32"
 durum: "yürürlükte"
 ocr: true
+tarih: "2020-08-14"
+sayi: "967"
+duzeltildi: true
 ---
-
 2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge
 
 ### SAĞI IK HIZMETLERI GENEL MODÜRLO0O • T.C. MEVZUAT İŞLERI DAIREN BAŞKANLIĞI SAĞLIK BAKANLIĞI 10/12/2020 11-04 • 54567092-010.04-5974
@@ -156,7 +157,7 @@ b) Veri tabanını oluşturan sistem için server odası olmalıdır.
 
 (4) TÜRKÖK ile diğer kemik iliği bankaları, kök hücre nakil merkezleri, kök hücre toplama merkezleri, doku tiplendirme ve halk sağlığı laboratuvarları ve hizmet alımı yapılan kuruluşlar arasındaki iletişim, gizlilik esaslarına uyulmak suretiyle yapılır. Yürürlükten kaldırılan mevzuat
 
-**MADDE 10 –** (1) 31/7/2009 tarihli ve 30359 sayıhı Makam Oluruyla yürürlüğe giren Türkiye Kök Hücre Koordinasyon Merkezi Çalışma Esasları Yönergesi yürürlükten kaldırılmıştır. Yürürlük
+**MADDE 10 –** (1) 31/7/2009 tarihli ve 30359 sayılı Makam Oluruyla yürürlüğe giren Türkiye Kök Hücre Koordinasyon Merkezi Çalışma Esasları Yönergesi yürürlükten kaldırılmıştır. Yürürlük
 
 **MADDE 11 –** (1) Bu Yönerge Sağlık Bakanının onayı ile yürürlüğe girer. Yürütme
 

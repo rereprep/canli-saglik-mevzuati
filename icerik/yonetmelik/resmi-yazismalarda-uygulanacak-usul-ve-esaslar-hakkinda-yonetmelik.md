@@ -10,6 +10,7 @@ konu: "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik k
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 247-288"
 durum: "yürürlükte"
+ocr: true
 ---
 
 Resmî Gazete Tarihi: 10.06.2020 Resmî Gazete Sayısı: 31151
@@ -433,3 +434,609 @@ e) Muhatabı gerçek kişi olan yazışmalar “Saygılarımla.”, “İyi dile
 #### Yürütme
 
 **MADDE 39 –** (1) Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.
+
+### ÖRNEK 1 KURUMSAL LOGO ÖRNEKLERİ
+
+Tek Logonun Ortalı Olarak Kullanılması Örneği:
+
+0,5 cm. **
+
+·
+
+*
+
+*
+
+### T.C CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI
+
+Hukuk ve Mevzuat Genel Müdürlüğü Tek Logonun Solda Kullanılması Örneği: · 0,5 cm. 1,5 cm. 1,5 cm.
+
+### T.C SAĞLIK BAKANLIĞI
+
+Iki Logonun Kullanılması Örneği: 0,5 cm. 1,5 cm.
+
+### T.C. MTA ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞI
+
+1.5 cm. Maden Tetkik ve Arama Genel Müdürlüğü 1,5 cm. 0,5 cm. W HEOOM
+
+1,5 cm.
+
+### T.C TARIM VE ORMAN BAKANLIĞI
+
+1,5 cm. Orman Genel Müdürlüğü 1,5 cm.
+
+### ÖRNEK 2 BAŞLIK ÖRNEKLERİ
+
+Merkez Teşkilatı Omeği:
+
+### _T.C. CUMHURBAȘKANLIĞI CUMHURBAŞKANLIĞI IDAR IŞLER BAŞKANLIĞI Destek ve Mali Hizmetler Genel Müdürlüğu T.C ADALET BAKANLIĞI Ceza İşleri Genel Müdürlüğü
+
+Bağlı İdare Örneği:
+
+### CUMHURBASKANLIĞI İletişim Başkanlığı TARIM VE ORMAN BAKANLIĞI Orman Genel Müdürluğu
+
+İlgili Idare Örneği:
+
+### ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞI Eti Maden İşletmeleri Genel Müdürlüğü
+
+İliskili İdare Ömeği:
+
+### T.C. REKABET KURUMU BAŞKANLIĞI Kararlar Dairesi Başkanlığı
+
+Yerinden Yönetim İdaresi Örneği:
+
+### KOCAELİ BÜYÜKŞEHİR BELEDİYE BAŞKANLIĞI Yazı İşleri ve Kararlar Dairesi Başkanlığı HACETTEPE ONIVERSİTESİ REKTÖRLOGO Edebiyat Fakültesi Dekanlığı
+
+Tasra Teskilatı İl İdaresi Ömeği:
+
+### T.C. ERZURUM VALİLİĞİ
+
+İl Emniyet Müdürluğa Tasra Teskilatı İlce Idaresi Örneği:
+
+### ÇAYCUMA KAYMAKAMLIĞI T.C.
+
+İlçe Sağlık Müdürluğü
+
+### T.C. FATSA KAYMAKAMLIĞI
+
+İlçe Milli Eğitim Müdürlugu
+
+Dumlupınar İlkokulu Diş Temsilcilik İdaresi Örneği:
+
+### LONDRA BOYOKEL ÇİLIĞI T.C. LEFKOŞA BÜYÜKELÇİLİĞİ
+
+Basın Müşavirliği Bölge Teskilatı İdaresi Örneği:
+
+### T.C. TARIM VE ORMAN BAKANLIĞI
+
+Orman Genel Müdürlugu Ankara Orman Bölge Müdürluğü
+
+### T.C. ORMAN GENEL MÜDÜRLÜGÜ
+
+Ankara Orman Bölge Müdürlüğü Kızılcahamam Orman İşletme Müdürlüğü Doğrudan Merkezi Teskilata Bağlı Taşra Teskilatı İdaresi Örneği:
+
+### T.C. HAZİNE VE MALİYE BAKANLIĞI
+
+Gelir İdaresi Başkanlığı Diyarbakır Vergi Dairesi Başkanlığı
+
+### ÖRNEK 3 SAYI, TARİH VE KONU ÖRNEĞİ T.C CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI
+
+Hukuk ve Mevzuat Genel Müdürlüğü 2 satır boșluk Sayı : E-68103562-823.02-138739 21.08.2019 Konu : Resmi Gazete Ilan Ücreti Türkiye Cumhuriyeti Devlet Teşkilatı Numarası Standart Dosya Planı Kodu Belge Kayıt Numarası Belgenin hazırlanma süreci (Elcktronik Ortam, Zorunlu Hål veya Olağanüstü Durum) E-68103562-823.02-138739 Z-68103562-804.02-138740 0-68103562-823.02-1
+
+### ÖRNEK 4 MUHATAP ÖRNEKLERİ
+
+Cumhurbaşkanlığına Hitap Durumu:
+
+### CUMHURBAȘKANLIĞINA CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞINA
+
+Tck Cumhurbaşkanı Yardımcısı Olması Durumu:
+
+### CUMHURBAŞKANI YARDIMCISINA
+
+Birden Fazla Cumhurbaskanı Yardımcısı Olması Durumu:
+
+### CUMHURBAŞKANI YARDIMCISINA (Sayin Adı SOYADI)
+
+İdare Biriminin Belirtilmemesi Durumu:
+
+### MİLLİ EĞITİM BAKANLIĞINA YÜKSEKÖĞRETİM KURULU BAŞKANLIĞINA
+
+Idare Biriminin Belirtilmesi Durumu:
+
+### CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞINA (Hukuk ve Mevzuat Genel Müdürluğu) İÇİŞLERİ BAKANLIĞINA (Hukuk Hizmetleri Genel Müdürlüğü) ANKARA VALILIGINE (İl Milli Eğitim Müdürluga)
+
+### ÖRNEK 5 MUHATAP ÖRNEKLERİ
+
+(Adres Bilgisine, Kişi Adına ve Unvanına Ver Verilmesi Durumu) Muhatabın Adresine Yer Verilmesi Durumu:
+
+### METEOROLOJİ GENEL MÜDÜRLÜĞÜNE
+
+Küttikçü Alibey Caddesi No:4
+
+06120 Kalaba, Keçiören/ANKARA
+
+### TÜRKİYE FUTBOL FEDERASYONUNA
+
+TFF Hasan Doğan Milli Takımlar Kamp ve Eğitim Tesisleri Çayağzı Köyü Riva/ Beykoz/ İSTANBUL Muhatabın Gerçek Kişi Olması Durumu:
+
+### Sayın Adı SOYADI
+
+Devlet Denetleme Kurulu Başkanı
+
+### Sayin Adi SOYADI
+
+Cumhuriyet Mah. Adakale Sokak No: 6/A
+
+06430 Çankaya/ANKARA
+
+### ÖRNEK WA MUHATAP ÖRNEKLERİ (Belgenin Doğrudan Bağh/İlgili/İtişkili İdarelere Gönderilmesi Durumunda)
+
+Bağlı İdare Örneği:
+
+### DEVLET ARŞİVLERİ BAŞKANLIĞINA VAKIFLAR GENEL MÜDÜRLÜGÜNE
+
+İşili İdare Ömeği:
+
+### SOSYAL GÜVENLİK KURUMU BAŞKANLIĞINA TÜRKİYE PETROLLERİ ANONİM ORTAKLIĞI GENEL MÜDÜRLÜĞÜNE
+
+İliskili İdare Örneği:
+
+### KAMU İHALE KURUMU BAŞKANLIĞINA ÖRNEK G/B MUHATAP ÖRNEKLERİ (Belge Hakkında Bağlı veya İlili Olunan İdarenin Bilgilendirilmesi Durumunda)
+
+Bağlı İdare Örneği:
+
+### KÜLTÜR VE TURİZM BAKANLIĞINA (Vakıflar Genel Müdürlugü)
+
+İlgili İdare Örneği:
+
+### SANAYİ VE TEKNOLOJİ BAKANLIĞINA (Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme Idaresi Başkanlığı) ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞINA (Türkiye Petrolleri Anonim Ortaklığı Genel Müdürlüğü)
+
+### ÖRNEK T İLGİ ÖRNEĞİ T.C. AİLE, ÇALIŞMA VE SOSYAL HİZMETLER BAKANLIĞI Çalışma Genel Müdürluğü
+
+Sayı : E-41515602-902.02-1045421 04.10.2019 Konu : Personel Alımı Hakkında Görüş Talebi
+
+### CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞINA (Personel ve Prensipler Genel Müdürlüğü
+
+* 2 satır boșluk Ilgi : a) Ticaret Bakanlığının (Personel Genel Müdürlugu) 01.09.2019 tarihli ve E-35799330-902.02-
+
+1042579 sayılı yazısı.
+
+b) 12.09.2019 tarihli ve E-41515602-902.02-1014125 sayılı yazımız.
+
+e) Sosyal Güvenlik Kurumu Başkanlığının 20.09.2019 tarihli ve E-13930610-902.02-1458755 sayılı yazısı.
+
+¢) 30.09.2019 tarihli ve E-74073113-902.02-159789 sayılı yazınız.
+
+Adı SOYADI
+
+Bakan a.
+
+Bakan Yardımcısı Ek: 1- Ilgi (a) Yazı (2 Sayfa) 2- Ilgi (c) Yazı (1 Sayfa)
+
+### Bu belge, güvenli elektronik inza ile imzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUN Belge Dogrulama Adresi: https://www.turkiye.gov.tr/ailevecalisma-ebys Imek Mahallesi, 17. Cadde No: 13 PK:06320 Cankaya-ANKARA Bilgi için: Ad: SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta: ............@ailevecalisma.gov.tr Internet Adresi: www.ailevecalisma.gov.tr/cgm Kep Adresi: ailevecalisma@hs01.kep.tr Telefon No: (0312) 1234567
+
+### ÖRNEK 8 METİN ÖRNEĞİ
+
+ilai Olmamasi Dur
+
+### T.C HAZİNE VE MALİYE BAKANLIĞI Muhasebat Genel Müdürlüğü
+
+Sayı : E-25358323-843.03-1410845 14.09.2019 Konu : 2018 Yılı Kesin Hesap Çalışmaları
+
+2 satır boşluk Paragraf Başi STRATEJİ VE BÜTÇE BAŞKANLIĞINA 1,25 cm. boşluk 2 satır boşluk
+
+Adi SOYADI
+
+Bakan a.
+
+Bakan Yardımcısı
+
+• Noktasi:
+
+### T.C KÜLTÜR VE TURİZM BAKANLIGI Kültür Varlıkları ve Müzeler Genel Müdürlüğü
+
+Sayı E-95245679-934.01.19-1319950 22.08.2019 Konu® : Malzeme Alımı Ödemesi
+
+### DEVLET MALZEME OFİSİ GENEL MÜDÜRLÜGÜNE
+
+2 satır boşluk Ilgi : 19.08.2019 tarihli ve E-45808673-105.04.05.01- 2388615 sayilı yazıniz
+
+1 satır boşluk
+
+Adi SOYADI
+
+Kültür Varlıkları ve Müzeler Genel Müdürü
+
+### ÖRNEK O BİRDEN FAZLA SAYFALI BELGE ÖRNEĞİ T.C. ADALET BAKANLIĞI Strateji Geliştirme Başkanlığı GÜNLÜDÜR
+
+Sayı : E-21509278-903.06.01-595742 20.08.2019 Konu : Emeklilik Talebi (Adı SOYADI)
+
+### PERSONEL GENEL MÜDÜRLÜĞÜNE
+
+2 satır boşluk Ilgi : a) Adı SOY ADI'nin 10.08.2019 tarihli dilekçesi.
+
+b) Hukuk Hizmetleri Genel Müdürlüğünün 12.08.2019 tarihli ve E-50316838-901-2568799 savılı yazısı
+
+$[1 satır boşluk
+
+### Bu belge, güvenli elektronik inza ile imzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Doğrulama Adresi: https://www.turkiye.gov.tr/adaletbakanligi-ebys T.C. Adalet Bakanlığı 06659 Kızılay-Çankaya-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan
+
+-Posta: .........../@adalet.gov.tr Internet Adresi: www.adalet.gov.: Kep Adresi: adaleti@hs01.kep.t Telefon No: (0312) 1234567
+
+### 1/2
+
+2 - 4 satır boşluk
+
+Adi SOYADI
+
+Strateji Geliştirme Başkanı Ilgi (a) Dilekçe (2 Sayfa) 2- İlsi (b) Yazı (1 Sayfa)
+
+### Bu belge, güvenli elektronik imza ile imzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Doğrulama Adresi: https://www.turkiye.gov.tr/adaletbakanligi-ebys T.C. Adalet Bakanlığı 06659 Kızılay-Çankaya-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 kpp Adresi adaleta s01 .kep.v ./@adalet.gov.tr Internet Adresi: www.adalet.gov.t
+
+Telefon No: (0312) 1234567
+
+### 2/2
+
+### ÖRNEK 10 İMZA ÖRNEKLERİ
+
+İmza Yetkisi Devrinde İmza Örneği: Adi SOY ADI
+
+Bakan a. Bakan Yardımcısı Adi SOYADI İdari İşler Başkamı a. Destek ve Mali Hizmetler Genel Müdürü Adı SOY ADI Nüfus ve Vatandaşlık İşleri Genel Müdürü a. Kimlik Kartları Daire Başkanı Adı SOYADI
+
+Vali a. Vali YardımcISI Adi SOY ADI Büyükşchir Belediye Başkanı a. Genel Sekreter Prof. Dr. Adi SOYADI
+
+Rektör a Rektör Yardımcısi Vekälet Durumunda İmza Örneği: Adi SOY ADI Temel Eğitim Genel Müdür V. Adi SOYADI Strateji Geliştirme Başkan V. Adi SOYADI Belediye Başkan V. Prof. Dr. Adı SOYADI
+
+Rektör V.
+
+### ÖRNEK 11 İKİ YETKİLİNİN BİRLİKTE İMZALADIĞI BELGE ÖRNEĞİ
+
+Adi SOYADI Adi SOYADI Genel Müdür Yardımcisı Devlet Malzeme Ofisi Genel Müdürü
+
+### İKİDEN FAZLA YETKİLİNİN BİRLİKTE İMZALADIĞI BELGE ÖRNEĞİ
+
+Adi SOYADI Adı SOYADI Adi SOYADI Devlet Malzeme Ofisi Genel Müdürü Genel Müdür Yardımcısi Kalite Kontrol Daire Başkanı
+
+### ÖRNEK 12 EK ÖRNEKLERİ
+
+Bir Adet Ek Olması Durumu:
+
+Adı SOY ADI
+
+Bakan Ek: Kararname Taslağı (13 Sayfa) Birden Fazla Ek Olması Durumu:
+
+Adi SOYADI
+
+Halk Sağlığı Genel Müdürü Ek: 1- Yönetmelik Taslağı (12 Sayfa) 2- Dosya (1 Adet) Ekin Liste Olarak Düzenlenmesi Durumu:
+
+Adi SOYADI
+
+Güvenlik İşleri Genel Müdürü Ek: Ek Listesi (10 Adet)
+
+### ÖRNEK 13 EK LİSTESİ ÖRNEĞİ *** T.C CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Destek ve Mali Hizmetler Genel Müdürlüğü
+
+Sayı : E-67915368-645-141116 26.08.2019 Konu : Ulusal Elektronik Tebligat Sistemi (UETS)
+
+Süreçleri
+
+### POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜNE
+
+İlgi : a) 14.06.2019 tarihli ve E-39998445-123.09-1963 sayilı yazımız.
+
+b) 28.06.2019 tarihli ve E-67915368-645-119581 sayılı yazımız.
+
+c) 18.07.2019 tarihli ve E-39998445-123.09-2463 sayılı yazıniz.
+
+Adi SOYADI
+
+İdari İşler Başkanı a.
+
+Destek ve Mali Hizmetler Genel Müdürü Ek: Ek Listesi (7 Adet)
+
+### Bu belge, güvenli elektronik inza ile imzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUN Belge Dogrulama Adresi: https://www.turkive.gov.tr/tccb-eby: Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan
+
+-Posta: ............./@tccb.gov.tr Internet Adresi: www.tecb.gov.t Kep Adresi: cumhurbaskanligi@hs01 kep.tr Telefon No: (0312) 1234567
+
+### 1/2
+
+### EK LİSTESİ
+
+1- Ilgi (a) Yazı (3 Sayfa) 2- Ilgi (b) Yazı (5 Sayfa) 3- Ilgi (c) Yazı (2 Sayfa) 4- Başvuru Formu (1 Sayfa) 5- Aktivasyon Formu (1 Sayfa) 6- API Desteğine İlişkin Taahhütname (1 Sayfa) 7- Entegrasyon Desteğine İlişkin Taahhütname (3 Sayfa)
+
+### Bu belge, güvenli elektronik inza ile imzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tccb-eby Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Ilgi için: Adı SOYAI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68
+
+wf@tech.gov.tr Internet Adresi: www.tecb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
+
+### 2/2
+
+### ÖRNEK 14 DAĞITIM ÖRNEKLERİ
+
+Ek ve Dağıtım Baslığının Birlikte Olması Durumu:
+
+Adi SOYADI
+
+Cumhurbaşkanı Yardımcısı Ek: İlgi (a) Yazı (1 Sayfa) Dağıtım: Adalet Bakanlığına Hazine ve Maliye Bakanlığına Sadece Dağitım Başlığının Olması Durumu:
+
+Adi SOY ADI
+
+Idari İşler Başkanı Dağıtım: Dışişleri Bakanlığına Hazine ve Maliye Bakanlığına Milli Savunma Bakanlığına Dağıtımın Gereği ve Bilgi Seklinde Olması Durumu:
+
+Adi SOYADI
+
+Bakan Dağıtım: Gereği: Filki ye Buyuk Mille Mecli Baykaliğana Hazine ve Maliye Bakanlığına İçişleri Bakanlığına Bazı Dağıtım Yerlerine Ek Konulmaması Durumu:
+
+Adı SOY ADI
+
+Sosyal Güvenlik Kurumu Başkanı Ek: 1- İlgi Yazı (1 Sayfa) 2- Dosya (1 Adet) Dağıtım: Dışişleri Bakanlığına (Ek-1 Konulmadı) Hazine ve Maliye Bakanlığına Milli Savunma Bakanlığına (Ekler Konulmadı)
+
+### ÖRNEK 15 DAĞITIM LİSTESİ ÖRNEĞİ
+
+Dağıtımın Üst Yazının Devamında Kullanılması Durumu:
+
+### T.C. CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Destek ve Mali Hizmetler Genel Müdürlüğü
+
+Sayı : E-67915368-010.03-141842 28.08.2019 Konu : Yönetmelik Taslağı Değerlendirme Toplantısı
+
+### DAĞITIM YERLERİNE
+
+Adı SOYADI
+
+İdari İşler Başkanı Ek: Yönetmelik Taslağı (12 Sayfa) Dağıtım: Dağıtım Listesi (21 Muhatap)
+
+### Bu belge, güvenli elektronik inza ile imzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHJ-KIMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tccb-ebys Cumburbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 e-Posta:............/@tecb.gov.tr Internet Adresi: www.tecb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
+
+### 1/2
+
+### DAĞITIM LİSTESİ
+
+Adalet Bakanlığına Aile, Çalışma ve Sosyal Hizmetler Bakanlığına Çevre ve Şchircilik Bakanlığına Dışişleri Bakanlığına Enerji ve Tabii Kaynaklar Bakanlığına Gençlik ve Spor Bakanlığına Hazine ve Maliye Bakanlığına Milli Eğitim Bakanlığına Milli Savunma Bakanlığına Sağhık Bakanlığına Sanayi ve Teknoloji Bakanlığına Tarım ve Orman Bakanliğına Ticaret Bakanlığına Ulaştırma ve Altyapı Bakanlığına Devlet Denetleme Kurulu Başkanlığına Milli Istihbarat Teşkilatı Başkanlığına Bilgi Teknolojileri ve Iletişim Kurumu Başkanlığına Emniyet Genel Müdürlüğüne Gelir İdaresi Başkanlığına Sosyal Güvenlik Kurumu Başkanlığına Türkiye İş Kurumu Genel Müdürlüğüne
+
+### Bu belge, güvenli elektronik inza ile imzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tccb-ebys Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68
+
+-Posta: ......@tecb.gov.tr Internet Adresi: www.tecb.gov.t Kep Adresi: cumhurbaskanligi@hs01 kep.t Telefon No: (0312) 1234567
+
+### 2/2
+
+### ÖRNEK 16
+
+Dağıtımın Belge Eki Olarak Kullanılması Durumu:
+
+### T.C CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Destek ve Mali Hizmetler Genel Müdürlüğü
+
+Sayı : E-67915368-010.03-141842 28.08.2019 Konu : Yönetmelik Taslağı Değerlendirme Toplantısı
+
+### DAĞITIM YERLERİNE
+
+Adı SOYADI
+
+Idari Işler Başkanı Ek: 1- Yönetmelik Taslağı (12 Sayfa) 2- Dağitım Listesi (22 Muhatap)
+
+### Bu belge, güvenli elektronik inza ile inzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KIMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkive.gov.tr/tccb-ebys. Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta: _u ./@tech.gov.tr Internet Adresi: www.tech.gov.tt Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
+
+EK-2
+
+### DAĞITIM LİSTESİ
+
+Geregi: Bilgi: Adalet Bakanlığına Türkiye Büyük Millet Meclisi Başkanlığına Aile, Çalışma ve Sosyal Hizmetler Bakanlığına Çevre ve Şchireilik Bakanlığına Dışişleri Bakanlığına Enerji ve Tabii Kaynaklar Bakanlığına Gençlik ve Spor Bakanlığına Hazine ve Maliye Bakanlıgına Milli Eğitim Bakanlığına Milli Savunma Bakanlığına Sağlık Bakanlığına Sanayi ve Teknoloji Bakanlığına Tarım ve Orman Bakanlığına Ticaret Bakanlığına Ulaştırma ve Altyapı Bakanlığına Devlet Denetleme Kurulu Başkanlığına Milli İstihbarat Teşkilatı Başkanlığına Bilgi Teknolojileri ve Iletişim Kurumu Başkanlığına Emniyet Genel Müdürlüğüne Gelir İdaresi Başkanlığına Sosyal Güvenlik Kurumu Başkanlığına Türkiye Iş Kurumu Genel Müdürlüğüne
+
+### ÖRNEK 17 OLUR ÖRNEĞİ „**** CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Hukuk ve Mevzuat Genel Müdürlüğü
+
+Sayı : E-33397501-903.07.02-141868 28.08.2019 Konu : Yurt DIŞı Görevlendirme (Adı SOYADI)
+
+### İDARİ İŞLER BAŞKANLIĞI MAKAMINA
+
+Adi SOYADI
+
+Hukuk ve Mevzuat Genel Müdürü
+
+### OLUR Adi SOY ADI İdari İşler Başkanı
+
+Ek : Davet Mektubu (2 Sayfa)
+
+### Bu belge, güvenli elektronik inza ile imzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tccb-ebys Cumburbaşkanlığı Külliyesi 06360 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta:...................../@tecb.gov.tr Internet Adresi: www.tecb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
+
+### ÖRNEK 18/A FİZİKSEL ORTAMDA HAZIRLANAN OLUR ÖRNEĞİ GİZLİ T.C. İÇİŞLERİ BAKANLIĞI Emniyet Genel Müdürlüğü
+
+Sayi : Z-11837526-951.01.01-23453211 24.08.2019 Konu : İę Güvenlik
+
+### BAKANLIK MAKAMINA
+
+Imza
+
+Adi SOYADI
+
+Emniyet Genel Müdürü Uygun görüşle arz ederim.
+
+(Tarih)
+
+Imza
+
+Adi SOYADI Bakan Yardımcısı
+
+### OLUR (Tarih) imz Adi SOY ADI Bakan
+
+20.08.2019 Şube Müdürü : Adı SOY ADI (Paraf) 20.08.2019 Daire Başkanı : Adı SOY ADI (Paraf) Ayrancı Mahallesi Dikmen Caddesi No: 11 06100 Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta: _..... ../@egm.gov.tr Internet Adresi: www.egm.gov.tr Telefon No: (0312) 1234567
+
+### GİZLİ
+
+### ÖRNEK 18/B ARA KADEMELERİ İÇEREN OLUR ÖRNEĞİ T.C. İÇİŞLERİ BAKANLIĞI Strateji Geliştirme Başkanlığı
+
+Sayı : E-48154937-602.02-2587945 21.08.2019 Konu : Orta Vadeli Program Hazırlanması
+
+### BAKANLIK MAKAMINA
+
+Adi SOYADI
+
+Strateji Geliştirme Başkamı Uygun görüşle arz ederim.
+
+Adı SOYADI Bakan Yardımcısı
+
+### OLUR Adi SOYADI Bakan
+
+Ek: Komisyon Üyeleri Listesi (43 Kişi)
+
+### Bu belge, güvenli elektronik inza ile inzalanmaştır.
+
+İçişleri Bakanliği Ek Bina Libya Cad. Becerikli Sok. No: 16 06427 Ahmetler-ANR Adresi: https:/Www turkiye gov. tv/ücisleribakanligi-eby: Belge Doğrulama Kodu: ABCDE-FGHU-KLMNO-PRSTUV Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68
+
+.@icisleri.gov.r Internet Adresi: www.strateii.gov.tr Cep Adresi: icisleri@hs01.kep.t Telefon No: (0312) 1234567
+
+### ÖRNEK 19/A ELEKTRONİK BELGENİN VAZDIRILMASI DURUMUNDA PARAF ÖRNEĞİ T.C CUMHURBAŞKANI İDARİ İŞLER BAŞKANLIĞİ Hukuk ve Mevzuat Genel Müdürlüğü GÜNLÜDÜR
+
+Sayı : E-68244839-170.01-159411 01.10.2019 Konu : Cumhurbaşkanı Kararı
+
+### DIŞİŞLERİ BAKANLIĞINA
+
+Adi SOYADI
+
+İdari İşler Başkan V. Ek: Karar Sureti (1 Sayfa)
+
+### Bu belge, güvenli elektronik imza ile imzalanmaştır.
+
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkive.gov.tr/tccb-ebys Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta: _.* ........@tccb.gov.tr Internet Adresi: www.tccb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
+
+### CUMHURBASKANLIĞI IDARI IŞLER BAŞKANLIĞI Hukuk ve Mevzuat Genel Müdürlüğü BELGE ÜSTVERİLERİ
+
+Üstveri Detayları Tarih 01.10.2019 BelgeNo E-68244839-170.01-159411 Belge ID FDOED29F-BD59-424C-9257-FDICOCDAD662 Konu Cumhurbaşkanı Kararı DagitimListesi Dışişleri Bakanlığı Ekler Karar Sureti (1 sayfa) Ilgiler Olusturan DETSİS Kodu: 68244839
+
+Adı: Hukuk ve Mevzuat Genel Müdürlüğü DosvaAdi E-68244839-17001-159411.cyp SdpBilgisi Kod: 170.01
+
+Ad: Mevzuat İşleri Belge Imzacıları Kişi Görev Amaç Yetki Devreden Vekalet Veren Tarih Adi SOYADI Idari Işler Onay Adi SOYADI 01.10.2019 19:51:21
+
+Başkan V. Idari Işler Başkanı Belge Paraçıları Kişi Görev Amaç Yetki Devreden Vekalet Veren Tarih Adı SOYADI Uzman Paraf 01.10.2019
+
+09:06:27 Adı SOYADI Daire Başkanı Paraf 01.10.2019
+
+10:41:35 Adı SOYADI Hukuk ve Mevzuat Paraf 01.10.2019
+
+### Genel Müdürü 14:48:44
+
+Adı SOYADI Güvenlik Işleri Genel Koordinasyon 01.10.2019
+
+### Müdürü 15:34:21
+
+### ÖRNEK 19/B FİZİKSEL BELGEDE PARAF ÖRNEĞİ T.C CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Personel ve Prensipler Genel Müdürlüğü ACELE
+
+Sayı : 0-43807551-903.07.02-12 20.08.2019 Konu : Kurum Dışı Görevlendirmeler
+
+### SAGLIK BAKANLIĞINA
+
+Inza
+
+Adı SOYADI
+
+Idari İşler Başkanı Ek: Personel Listesi (10 Kişi) 20.08.2019 Uzman : Adi SOY ADI (Parat) 20.08.2019 Daire Başkanı : Adi SOY ADI (Paraf 20.08.2019 Genel Müdür : Adi SOYADI (Paraf) Cumhurbaşkanhığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adi SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta: _......... /@tceb.gov.tr Intemet Adresi: www.teeb.gov.tr Telefon No: (0312) 1234567 Kep Adresi: cumhurbaskanligi@hs01.kep.tr
+
+### ÖRNEK 20 KOORDİNASYON ÖRNEĞİ GİZLİ CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Güvenlik İşleri Genel Müdürlüğu
+
+Sayı : Z-41654118-951.02.02-133496 08.08.2019 Konu : Güvenlik Eylem Planı
+
+### İDARİ İŞLER BAŞKANLIĞI MAKAMINA
+
+Imza
+
+Adı SOYADI
+
+Güvenlik İşleri Genel Müdürü
+
+### Imza Adi SOYADI İdari İşler Başkamı
+
+07.08.2019 Mühendis : Adi SOY ADI (Paraf) 07.08.2019 Şube Mudürü Adi SOY ADI (Parat) 07.08.2019 Daire Başkanı : Adı SOY ADI (Parat Koordinasyon : 08.08.2019 Daire Başkanı : Adı SOYADI (Paraf) Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Telefon No: (0312) 1234567 e-Posta: _..... @tccb.gov.tr Internet Adresi: www.tccb.gov.tr Kep Adresi: cumhurbaskanlivi@hs01 kep.tr GİZLİ
+
+### ÖRNEK 21 BELGE DOĞRULAMA VE İLETİŞİM BİLGİSİ ÖRNEKLERİ
+
+İletişim Bilgisi Bölümünde Bir Kişiye Yer Verilmesi:
+
+### Bu belge, güvenli elektronik imza ile imzalanmıştır.
+
+Belge Doğrulama Kodu: GHFZE-COPSG-XOTDZ-GYKQX Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tccb-ebys Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI B
+
+Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68
+
+e-Posta: _.... f@tecb.gov.tr Internet Adresi: www.tecb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567 İletişim Bilgisi Bölümünde Birden Fazla Kişiye Yer Verilmesi:
+
+Bu belge, güvenli elektronik imza ile imz Belge Doğrulama Kodu: GHFZE-COPSG-XOTDZ-GYKQX Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tcch-eby: Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 e-Posta: _ f@tocb.gov.tr Internet Adresi: www.tecb.gov.tr Kep Adresi: cumhurbaskanligi@hs01 kep.tr Telefon No: (0312) 1234567 (0312) 1234567 Karekodda Bulunması Gereken Asgari Alanlar: Belgeyi Üreten Idare: Cumhurbaşkanlığı Idari Işler Başkanlığı Belge Sayısi: E-XXXXXXX-XXX-XXXXXX Belge Doğrulama Adresi: https://www.turkiye.gov.tr/tecb-ebys Belge Doğrulama Kodu : ABCDE-FGHIJ-KLMNO-PRSTUV
+
+### ÖRNEK 22 BELGENİN GÖNDERİLMESİNE İLİŞKİN ZARF ÖRNEĞİ
+
+Süreli Belge Gönderiminde Zarf Örneği:
+
+### ACELE
+
+T.C.
+
+### CUMHURBAŞKANLIĞI İDARI İŞLER BAȘKANLIĞI
+
+Tarih Kişiye Özel Belge Gönderiminde Zarf Örneği:
+
+### T.C. KİŞİYE ÖZEL CUMHURBAȘKANLIĞI İDARI İŞLER Adı SOYADI BAŞKANLIĞI
+
+Tarih Sayı Kişiye Özel ve Süreli Belge Gönderiminde Zarf Örneği:
+
+### KİŞİYE ÖZEL. CUMHURBAŞKANLIĞI İDARI İŞLER Adi SOYADI BAŞKANLIĞI ACELE
+
+Tarih Sayı
+
+### EMNIYET GENEL MÜDORLOGO
+
+Devlet Mah. Inönü Bulvarı No:2
+
+Bakanliklar/ Çankaya/ANKARA Gizlilik Dereceli Belge Gönderiminde Zarf Örneği: Iç Zarf:
+
+### GİZLI
+
+T.C.
+
+### CUMHURBAŞKANLIĞI İDARI İŞLER BAŞKANLIĞI
+
+Tarih Sayı
+
+### GİZLI
+
+Diş Zarf:
+
+### CUMHURBASKANLIGH IDARI ISLER BAŞKANLIĞI EMNIYET GENEL MODORLOGO
+
+Devlet Mah. Inönü Bulvarı No:2
+
+Bakanlıklar/ Çankaya/ ANKARA
+
+### ÖRNEK 23 FİZİKSEL ORTAMDA GELEN BELGENİN ETİKET/KAŞE ÖRNEĞİ
+
+Etiket Örneği:
+
+### T.C. CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Bilgi ve Belge Yönetimi Daire Başkanlığı
+
+Belgenin Kayıt Sayısı Belgenin Kayıt Tarihi ve Saati
+
+### HAVALE EDILEN BİRİM/BİRİMLER
+
+Karekodda Bulunması Gereken Asgari Alanlar: Belgeyi Kaydeden Birim: Bilgi ve Belge Yönetimi Daire Başkanlığı Belgenin Kayıt Sayısı: XXXXXX Belgenin Kayıt Tarihi ve Saati: XX.XX.20XX - XX:XX Havale Edilen Birim/Birimler: Kaşe Örneği:
+
+### T.C. CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Bilgi ve Belge Yönetimi Daire Başkanhğ
+
+Kayıt Sayısı Belgenin Kayıt Tarihi
+
+Kayıt Saati
+
+### HAVALE EDİLECEK BİRİM/BİRİMLER
+
+Gereği Bilgi
