@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103583/kamu-agiz-ve-dis-sagligi-tesisl
 not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.12. Kamu Ağız ve Diş Sağlığı Tesislerinin Hizmet Rollerinin Belirlenmesi ve Planlanmasına İlişkin Usül ve Esaslar Genelgesi (2024/7) Kamu Hastaneleri Genel Müdürlüğüne gönderilen yatırıma esas ağız ve diş sağlığı hizmet birimlerine yönelik planlama uygulamadan kaldırılmıştır.

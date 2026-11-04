@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103515/riskli-gebelikler-yonetim-rehberi-genelgesi-201410.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.63. Riskli Gebelikler Yönetim Rehberi Genelgesi (2014/10)

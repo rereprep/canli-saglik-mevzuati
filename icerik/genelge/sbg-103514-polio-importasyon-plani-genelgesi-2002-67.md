@@ -8,15 +8,16 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103514/polio-importasyon-plani-genelgesi-200267.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.16. Polio İmportasyon Planı Genelgesi (2002/67)
 
-6.3.16. (cid:87)(cid:87)(cid:87)(cid:87)(cid:87)(cid:87)(cid:87)(cid:87)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:349)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:55)(cid:55)(cid:55)(cid:55)(cid:55)(cid:55)(cid:55)(cid:55)(cid:373)(cid:373)(cid:373)(cid:373)(cid:373)(cid:373)(cid:373)(cid:373)(cid:373)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:396)(cid:410)(cid:410)(cid:410)(cid:410)(cid:410)(cid:410)(cid:410)(cid:410)(cid:410)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:400)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:381)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:87)(cid:87)(cid:87)(cid:87)(cid:87)(cid:87)(cid:87)(cid:87)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:367)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:258)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:374)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358)(cid:358) Genelgesi (2002/67)
+[?]
 
 ### VAHŞİ POLİOVİRÜS İMPORTASYONUNUN ENGELLENMESİ VE POLIOMYELITTEN ARINDIRILMIŞ DURUMUN DEVAMI IÇIN ULUSAL FAALIYET PLANI
 
-Genişletilmiş Bağışıklama Programının temel ilkesi, hastalık riskinin en yüksek olduğu dönemden önce, çocukları așı ile korunulabilir hastahklara karşı bağışık kılarak, bu hastalıklara bağlı morbidite ve mortalite hızlarını düşürmek, böylece çocuk ölümleri ve sakatlıklarını azaltmaktır. Hastalık morbidite ve mortalite hızlarını düşürmek ve salgınları kontrol etmek amacıyla, Dünya'da hastalık kontrol programları başlatılmış ve Global Poliomyelit Eradikasyonu Programı böylece gündeme gelmiştir. 1988 yılında 41. Dünya Sağlık Asamblesi'nde, tüm dünyadan poliomyelitin eradikasyonu hedeflenmiştir. O zamandan bu yana belirgin gelişmeler olmuştur. Son yerli poliomyelit vakası, Amerika kıtasında 1991 yılında, Batı Pasifik bölgesinde 1997 yılında saptanmıştır. Türkiye'nin de dahil olduğu Avrupa Bölgesinin son yerli poliomyelit vakası 1998 yılında Ağrı ilinde saptanmıştır.Avrupa Bölgesi 21 Haziran 2002 tarihinde "polio'dan arındırılmış bölge " olarak belgelendirilmiştir.
+Genişletilmiş Bağışıklama Programının temel ilkesi, hastalık riskinin en yüksek olduğu dönemden önce, çocukları aşı ile korunulabilir hastahklara karşı bağışık kılarak, bu hastalıklara bağlı morbidite ve mortalite hızlarını düşürmek, böylece çocuk ölümleri ve sakatlıklarını azaltmaktır. Hastalık morbidite ve mortalite hızlarını düşürmek ve salgınları kontrol etmek amacıyla, Dünya'da hastalık kontrol programları başlatılmış ve Global Poliomyelit Eradikasyonu Programı böylece gündeme gelmiştir. 1988 yılında 41. Dünya Sağlık Asamblesi'nde, tüm dünyadan poliomyelitin eradikasyonu hedeflenmiştir. O zamandan bu yana belirgin gelişmeler olmuştur. Son yerli poliomyelit vakası, Amerika kıtasında 1991 yılında, Batı Pasifik bölgesinde 1997 yılında saptanmıştır. Türkiye'nin de dahil olduğu Avrupa Bölgesinin son yerli poliomyelit vakası 1998 yılında Ağrı ilinde saptanmıştır.Avrupa Bölgesi 21 Haziran 2002 tarihinde "polio'dan arındırılmış bölge " olarak belgelendirilmiştir.
 
 Poliomyelitin eradikasyonuna ulaştıracak program stratejileri ise şöyle belirlenmiştir:
 
@@ -24,7 +25,7 @@ Poliomyelitin eradikasyonuna ulaştıracak program stratejileri ise şöyle beli
 
 üzerine çıkarılarak devam ettirilmesi,
 
-Türkiye'de 1989'da yürütülmeye başlanan Poliomyelit Eradikasyon Programı (PEP), hedefe ulaşma doğrultusunda sürekli bir gelişme göstermiştir. Türkiye'de son vahşi poliovirüs 26 Kasım 1998'de paralizisi başlayan bir vakadan izole edilmiştir. Ancak dünyadan poliomyelit tamamen eradike edilinceye kadar ülkemize de importasyon tehlikesi vardır. 2001 yılında Avrupa Bölgesinden Bulgaristan ve Gürcistan'da görülen Kuzey Hindistan kökenli importe vahşi poliovirüs izolasyonları tehlikenin devam ettiğinin kanıtıdır. Her iki ülkede de izole edilen virüsler 3 doz OPV ile aşıları tamamlanmamış çocuklarda tespit edilmiştir. Olası bir importasyonu engellemek amacıyla tüm bölgelerde ve yerleșim birimlerinde 0 yaş grubunda OPV3 așılama oranlarında en az %90'a ulaşmak temel stratejidir. Bu aşı oranına ulaşamayan veya bu oranın devamlılığını sağlayamayan yerleşim birimlerinde yürütülecek destek aşılama aktiviteleri ile olası importasyona karşı önlem alınmış olacaktır. Importe bir poliomyelit vakası olması durumunda vakanın erken tespiti ve zamanında uygun müdahalelerle virüsün yayılması önlenebilir.
+Türkiye'de 1989'da yürütülmeye başlanan Poliomyelit Eradikasyon Programı (PEP), hedefe ulaşma doğrultusunda sürekli bir gelişme göstermiştir. Türkiye'de son vahşi poliovirüs 26 Kasım 1998'de paralizisi başlayan bir vakadan izole edilmiştir. Ancak dünyadan poliomyelit tamamen eradike edilinceye kadar ülkemize de importasyon tehlikesi vardır. 2001 yılında Avrupa Bölgesinden Bulgaristan ve Gürcistan'da görülen Kuzey Hindistan kökenli importe vahşi poliovirüs izolasyonları tehlikenin devam ettiğinin kanıtıdır. Her iki ülkede de izole edilen virüsler 3 doz OPV ile aşıları tamamlanmamış çocuklarda tespit edilmiştir. Olası bir importasyonu engellemek amacıyla tüm bölgelerde ve yerleșim birimlerinde 0 yaş grubunda OPV3 aşılama oranlarında en az %90'a ulaşmak temel stratejidir. Bu aşı oranına ulaşamayan veya bu oranın devamlılığını sağlayamayan yerleşim birimlerinde yürütülecek destek aşılama aktiviteleri ile olası importasyona karşı önlem alınmış olacaktır. Importe bir poliomyelit vakası olması durumunda vakanın erken tespiti ve zamanında uygun müdahalelerle virüsün yayılması önlenebilir.
 
 Bu plan; Türkiye'nin poliomyelitden arındırılmış durumunu sürdürmek ve olası bir vahşi poliovirüs importasyonunun erken tespitine ve etkin aşılama cevabı ile kontrol altına alınmasına hazırlıklı olmak amacıyla hazırlanmıştır.
 
@@ -36,9 +37,9 @@ a-İmporte poliomyelit vakası/virüsü:
 
 zamanda seyahat hikayesi veren bir kişi ile teması olan vakadır.
 
-### DAIMI GENELGE 2
+###  2
 
-• Böyle bir vakanın laboratuvar olarak konfirmasyonu gereklidir. Ayrıca diğer hastalıklar veya sağlam çocuk taramaları gibi nedenlerle alınan numunelerde de vahși poliovirüs üretilebilir. Her iki durumda da genetik inceleme ile tespit edilen virüsün kökeni belirlenerek importasyon kesinleştirilir.
+• Böyle bir vakanın laboratuvar olarak konfirmasyonu gereklidir. Ayrıca diğer hastalıklar veya sağlam çocuk taramaları gibi nedenlerle alınan numunelerde de vahşi poliovirüs üretilebilir. Her iki durumda da genetik inceleme ile tespit edilen virüsün kökeni belirlenerek importasyon kesinleştirilir.
 
 b-Yerli poliomyelit vakası/virüsü:
 
@@ -46,11 +47,11 @@ Vahşi virüs ile Türkiye'de karşılaşmış olan ve
 
 ülkeye seyahat hikayesi olmayan vakadır.
 
-• Böyle bir vakanın laboratuvar olarak konfirmasyonu gereklidir. Ayrıca diğer hastalıklar veya sağlam çocuk taramaları gibi nedenlerle alınan numunelerde de vahși poliovirüs üretılebılir. Her iki durumda da genetık inceleme ile tespit edılen virüsün kökeni belirlenerek yerli virüs olduğu kesinleştirilir.
+• Böyle bir vakanın laboratuvar olarak konfirmasyonu gereklidir. Ayrıca diğer hastalıklar veya sağlam çocuk taramaları gibi nedenlerle alınan numunelerde de vahşi poliovirüs üretılebılir. Her iki durumda da genetık inceleme ile tespit edılen virüsün kökeni belirlenerek yerli virüs olduğu kesinleştirilir.
 
 c-Aşı türevi poliovirüs (Vaccine-Derived Poliovirus(VDPV)) ve buna bağlı ortaya çıkan
 
-Moleküler özellikleri aşı virüsü ve vahşi virüsten farklı, vahşi virüs benzeri nörovirülans ve bulaştırıcılık özellikleri kazanmış virüslere bağlı ortaya çıkan vakalardır. Bu tür vakaların en önemli nedeni rutin aşı oranlarının düşüklüğüdür. Aşı virüsü kişiden kişiye yayılmakta, nörovirulansı ve bulaştırıcılık özelliği artmaktadır. Ekim 2000 tarihindeki Hispaniola salgınından sonra laboratuvarda üretilen poliovirüsler, genetik dizilim (sekanslama) yolu ile incelenmeye başlanmıştır. Genetik dizılim sonuçlarına göre Sabin aşı virüsünden %l'den az farklılık gösteren sonuçlar Sabin-like (Aşı virüsü) olarak, %1-%15 farklılık gösteren sonuçlar așı türevi polio virüs (VDPV) olarak ve %15'den fazla farklılık gösteren virüsler de vahşi virüs olarak tanımlanmıştır. Aşı türevi poliovirüs, vahşi poliovirüse benzer özellikler gösterdiğinden saptanması durumunda yapılacak aktiviteler aynıdır. Aşı türevi virüslere bağlı ortaya çıkan salgınlar da OPV aşısının uygulanması ile kontrol
+Moleküler özellikleri aşı virüsü ve vahşi virüsten farklı, vahşi virüs benzeri nörovirülans ve bulaştırıcılık özellikleri kazanmış virüslere bağlı ortaya çıkan vakalardır. Bu tür vakaların en önemli nedeni rutin aşı oranlarının düşüklüğüdür. Aşı virüsü kişiden kişiye yayılmakta, nörovirulansı ve bulaştırıcılık özelliği artmaktadır. Ekim 2000 tarihindeki Hispaniola salgınından sonra laboratuvarda üretilen poliovirüsler, genetik dizilim (sekanslama) yolu ile incelenmeye başlanmıştır. Genetik dizılim sonuçlarına göre Sabin aşı virüsünden %l'den az farklılık gösteren sonuçlar Sabin-like (Aşı virüsü) olarak, %1-%15 farklılık gösteren sonuçlar aşı türevi polio virüs (VDPV) olarak ve %15'den fazla farklılık gösteren virüsler de vahşi virüs olarak tanımlanmıştır. Aşı türevi poliovirüs, vahşi poliovirüse benzer özellikler gösterdiğinden saptanması durumunda yapılacak aktiviteler aynıdır. Aşı türevi virüslere bağlı ortaya çıkan salgınlar da OPV aşısının uygulanması ile kontrol
 
 d-Sıcak AFP vakası (Sıcak vaka):
 
@@ -58,7 +59,7 @@ d-Sıcak AFP vakası (Sıcak vaka):
 
 o Poliomyelit benzeri klinik tablosu (ateș, ani paralizi, asimetri, extremite tutulumu vs.)
 
-o 3 dozdan az OPV așısı almış veya,
+o 3 dozdan az OPV aşısı almış veya,
 
 • Vakanın kendisinin veya temaslılarının poliomyelitin endemik olduğu bir ülkeye
 
@@ -80,13 +81,13 @@ bile poliovirüs izole edilmesi durumuna sıcak vaka denir.
 
 e- Poliomyelit açısından yüksek riskli bölge:
 
-• 0 yaş grubu OPV3 așı oranı %80'in altında kalan bölgeler
+• 0 yaş grubu OPV3 aşı oranı %80'in altında kalan bölgeler
 
 • AFP sürveyans göstergeleri hedefin altında kalan bölgeler
 
-### DAIMI GENELGE 3
+###  3
 
-• Poliomyelit pidemiyolojisi ve vahşi virüs yayılımı dikkate alındığında risk altında
+• Poliomyelit epidemiyolojisi ve vahşi virüs yayılımı dikkate alındığında risk altında
 
 olduğu düşünülen bölgeler:
 
@@ -142,7 +143,7 @@ bekletilmeden bölge referans laboratuvarına gönderilmelidir.
 
 a-Rutin aşılama hizmetleri:
 
-• 0 yaş grubunda OPV3 aşı oranlarında, ülke ve Il düzeyinde en az %90'a ulaşılmalı ve her yerleşim biriminde en az %80 olmalıdır. Aşı oranları aylık olarak izlenmeli ve değerlendirilmelidir.
+• 0 yaş grubunda OPV3 aşı oranlarında, ülke ve İl düzeyinde en az %90'a ulaşılmalı ve her yerleşim biriminde en az %80 olmalıdır. Aşı oranları aylık olarak izlenmeli ve değerlendirilmelidir.
 
 • Yüksek riskli bölgelerin aşılama oranlarının yükseltilmesine ve yakın takibine önem verilmelidir. b-Destek aşılama çalışmaları:
 
@@ -164,7 +165,7 @@ tamamlamalidır.
 
 ### OLASI İMPORTE VAHŞİ POLİOVİRÜS VE AȘI TÜREVİ POLİOVİRÜS TESPİTİ VE İZLENMESİ
 
-Olası importe vahşi poliovirüs veya așı türevi poliovirüslerin dolaşımının erken tespiti ve izlenmesi için, laboratuvar incelemelerini de içeren yüksek kaliteli AFP sürveyans sistemi çok önemlidır.
+Olası importe vahşi poliovirüs veya aşı türevi poliovirüslerin dolaşımının erken tespiti ve izlenmesi için, laboratuvar incelemelerini de içeren yüksek kaliteli AFP sürveyans sistemi çok önemlidır.
 
 Tüm iller 2002 yıh sonuna kadar yüksek kaliteli AFP sürveyans sistemi göstergelerine ulaşmalı ve bu durumun devamlılığını sağlamalıdır. Importasyon açısından, vahşi poliovirüs görülen ülkelere komşu illerin ve nüfus hareketlerinin yoğun olduğu büyük illerin daha fazla risk altında olduğu unutulmamahdır. Tüm iller 2002 yılında yukarıdaki tanıma uyan yüksek riskli bölgelerini belirlemelidirler.
 
@@ -204,7 +205,7 @@ aktiviteler sıcak AFP vakası ile aynıdır. Yapılacak Aktiviteler: II PEP Sor
 
 karar verecek ve sıcak vakalar hızla incelenecek ve sonuçlandırılacaktır.
 
-### DAIMI GENELGE
+### 
 
 • Sıcak vaka saptanması halinde Vaka Bildirim Formu derhal Temel Sağlık Hizmetleri Genel
 
@@ -228,13 +229,13 @@ aşılanma durumları hızla gözden geçirilecek, vaka ve aşısız/eksik aşı
 
 Sıcak vaka ile ilgili bildirim TSHGM tarafindan en kısa sürede DSÖ'ne de iletilecektir.
 
-• Illerden gelen sicak vakalara ve bunların temaslarına ait numuneler Ulusal Laboratuvarlarda
+• İllerden gelen sicak vakalara ve bunların temaslarına ait numuneler Ulusal Laboratuvarlarda
 
 öncelikle incelemeye alnacak ve eş zamanlı olarak incelenmek üzere Bölge Referans
 
 Laboratuvarına hiç bekletilmeden gönderilecektir. Laboratuvarlardaki numune analizi sonuçları
 
-hiç bekletilmeden Temel Sağhk Hizmetleri Genel Müdürlüğüne bildirilecektir.
+hiç bekletilmeden Temel Sağlık Hizmetleri Genel Müdürlüğüne bildirilecektir.
 
 ### 2. POLİOVİRÜS ÜREMİŞ SICAK AFP VAKASI DURUMU:
 
@@ -268,7 +269,7 @@ alınacaktır. Alınan numuneler hiç bekletilmeden laboratuvara iletilecektir.
 
 • İl düzeyinde öncelikli hastanelerden günlük AFP raporu istenecektir,
 
-### DAIMI GENELGE
+### 
 
 • Öncelikli hastanelerde 5 yaş altı çocuklarda (yüksek riskli bölgelerden başvuranlar veya
 
@@ -286,13 +287,13 @@ grubundaki çocuklara mop-up stratejisi ile ev ev gezilerek aşılama çalışma
 
 ### 3. VAHSİ VİRÜS İZOLASYONU DURUMU:
 
-Tanım: Olası poliomyelit vakasından (paralitik veya non paralitik) intra tipik inceleme ile vahşi virüs olduğunun gösterilmesi durumudur. Aşı türevi poliovirüs, vahși poliovirüse benzer özellikler gösterdığinden saptanması durumunda yapılacak aktiviteler aynıdır.
+Tanım: Olası poliomyelit vakasından (paralitik veya non paralitik) intra tipik inceleme ile vahşi virüs olduğunun gösterilmesi durumudur. Aşı türevi poliovirüs, vahşi poliovirüse benzer özellikler gösterdığinden saptanması durumunda yapılacak aktiviteler aynıdır.
 
 Bir vahşi poliovirüsün izole edilmesi ulusal bir acil durum olarak değerlendirilecektir.
 
 Böyle bir durum gerçekleştiğinde laboratuvar tarafindan 24 saat içinde TSHGM'lüğü haberdar edilecek ve TSHGM tarafindan en geç 24 saat içinde tüm iller ve DSÖ bilgilendirilecektir.
 
-Her vahşi poliovirüs izolasyonu derhal araştırılacaktır. Virüsün kaynağının tespiti amacıyla derhal tam bir klinik, virolojik ve pidemiyolojik araştırma başlatılacaktır. Vaka araştırması, kişinin veya temaslısının virüsle endemik bir ülkede karşılaşıp karşılaşmadığını ortaya çıkarmak amacıyla tüm seyahat ve temas öyküsünü, ilgili diğer bilgileri ve pidemiyolojik verileri kapsayacak şekilde olacaktır. Bölge referans laboratuvarında genetik inceleme yoluyla virüsün coğrafik kökeni
+Her vahşi poliovirüs izolasyonu derhal araştırılacaktır. Virüsün kaynağının tespiti amacıyla derhal tam bir klinik, virolojik ve eepidemiyolojik araştırma başlatılacaktır. Vaka araştırması, kişinin veya temaslısının virüsle endemik bir ülkede karşılaşıp karşılaşmadığını ortaya çıkarmak amacıyla tüm seyahat ve temas öyküsünü, ilgili diğer bilgileri ve eepidemiyolojik verileri kapsayacak şekilde olacaktır. Bölge referans laboratuvarında genetik inceleme yoluyla virüsün coğrafik kökeni
 
 48 saat içinde güçlendirilmiş aktif surveyans çalışmaları paralitik ve non paralitik vakaları da kapsayacak şekilde başlatılacaktır.
 
@@ -328,19 +329,19 @@ b) Geçmiş 6-12 ayı kapsayacak şekilde öncelikli hastanelerde geriye dönük
 
 yapılacaktır.
 
-### DAIMI GENELGE
+### 
 
 e) Laboratuvarlar son dönemdeki tipledirilmemiş enterovirüsler ve incelemesi devam eden
 
 gaita virüslerinin incelenmesini bir an önce sonlandıracaktır.
 
-Risk altındaki bölge ve grupların aşılama oranları hızla gözden geçirilecek ve mop-up, SNID veya UAG boyutunda destek aşılama çalışması yürütülecektir. Vakanın pidemiyolojik durumuna göre en az 5 yaş altı grubu kapsayacak şekilde çocukların önceki aşılanma durumuna bakılmaksızın
+Risk altındaki bölge ve grupların aşılama oranları hızla gözden geçirilecek ve mop-up, SNID veya UAG boyutunda destek aşılama çalışması yürütülecektir. Vakanın eepidemiyolojik durumuna göre en az 5 yaş altı grubu kapsayacak şekilde çocukların önceki aşılanma durumuna bakılmaksızın
 
-yapılacaktır. Aşılama cevabının boyutuna vaka/vakaların pidemiyolojik verileri değerlendirilerek karar verilecektir.
+yapılacaktır. Aşılama cevabının boyutuna vaka/vakaların eepidemiyolojik verileri değerlendirilerek karar verilecektir.
 
 Laboratuvarda polio virüslerin kontrolü ve yok edilmesi (containment) Ulusal faaliyet planı yeniden gözden geçirilecektir.
 
-Kapsamlı bir araştırmadan sonra, vakalar importe ve yerli olarak sınıflandırılacaktır. Eğer genetik inceleme verileri virüsün başka bir ülkede dolaşan virüs olduğunu gösterirse virüs importe olarak kabul edilecektir. Eğer genetik inceleme verileri virüsün ilk kez saptanan bir genotip veya ülkede daha önce de varolan virüs olduğunu gösterirse, bunun tersini ispatlayacak inandırıcı pidemiyolojik kanıt ve bölgede yüksek kaliteli AFP sürveyansı olmadıkça virüs yerli olarak kabul Yapılacak Aktiviteler:
+Kapsamlı bir araştırmadan sonra, vakalar importe ve yerli olarak sınıflandırılacaktır. Eğer genetik inceleme verileri virüsün başka bir ülkede dolaşan virüs olduğunu gösterirse virüs importe olarak kabul edilecektir. Eğer genetik inceleme verileri virüsün ilk kez saptanan bir genotip veya ülkede daha önce de varolan virüs olduğunu gösterirse, bunun tersini ispatlayacak inandırıcı eepidemiyolojik kanıt ve bölgede yüksek kaliteli AFP sürveyansı olmadıkça virüs yerli olarak kabul Yapılacak Aktiviteler:
 
 ### 3.a U1 LUSAL DÜZEYDEKİ AKTİVİTELER
 
@@ -354,7 +355,7 @@ haftalık olarak devam edilecektir.
 
 • DSO derhal bilgilendirilecektir. Tüm iller vahşi poliovirüs tespit edildiği anda derhal bilgilendirilecektir.
 
-• Bünyesinde sağhk kuruluşu bulunan diğer kurum ve kuruluşlar merkezi düzeyde
+• Bünyesinde sağlık kuruluşu bulunan diğer kurum ve kuruluşlar merkezi düzeyde
 
 bilgilendirilecektir.
 
@@ -366,7 +367,7 @@ yürütecektir.
 
 • Vaka çıkan il ve çevresi ve gerekirse diğer illerde yürütülecek geniş kapsamlı aşılama
 
-çalışmasının (mop-up, sNID, UAG) boyutunu pidemiyolojik verilere göre belirleyecektir.
+çalışmasının (mop-up, sNID, UAG) boyutunu eepidemiyolojik verilere göre belirleyecektir.
 
 • Dolaşımın durdurulduğunun belgelenmesine yönelik sürveyans çalışmaları planlanacak,
 
@@ -386,11 +387,11 @@ katılımı ile Koordinasyon Grubu kurulacaktır.
 
 Personeli ve Sağlık Kuruluşları bilgilendirilecektir.
 
-### DAIMI GENELGE
+### 
 
 • Planlanan ve yürütülen faaliyetlerle ilgili ilçelerden günlük rapor alnacak ve Bakanlık merkezine günlük olarak iletilecektir. Merkez ekibin belirleyeceği tarihten sonra günlük raporlar haftalk olarak bildirilecektir. : Aslime tlye ten tinti e one aken er haltu ve yata enanil maln gite. AFP vakalarının tespitine yönelik sahada aktif vaka araştırmasına başlanılacaktı numuneleri alınacaktır.
 
-• Derhal salgın kontrol önlemi olarak aşılama cevabı başlatılacaktır. Aşılama tek doz olarak en az bir il düzeyinde (vakayı çevreleyen ilçeler) geniş kapsamlı, 5 yaş altındaki tüm çocukları kapsayacak şekilde hemen gerçekleştirilecektir. Yaş sınırı pidemiyolojik bulgulara göre yükseltilebilir. Ulusal düzeyde planlanacak aşılama cevabının (mop-up, sNID, UAG) planlanıp başlatılması ile de aynı bölgelerde aşısız çocuk kalmayacak şekilde 2 tur halinde tekrar aşılama
+• Derhal salgın kontrol önlemi olarak aşılama cevabı başlatılacaktır. Aşılama tek doz olarak en az bir il düzeyinde (vakayı çevreleyen ilçeler) geniş kapsamlı, 5 yaş altındaki tüm çocukları kapsayacak şekilde hemen gerçekleştirilecektir. Yaş sınırı eepidemiyolojik bulgulara göre yükseltilebilir. Ulusal düzeyde planlanacak aşılama cevabının (mop-up, sNID, UAG) planlanıp başlatılması ile de aynı bölgelerde aşısız çocuk kalmayacak şekilde 2 tur halinde tekrar aşılama
 
 • Olası virüs dolaşımının tespitine yönelik ek surveyans çalışmaları ve aşılama sonrası dolaşımın durduğunun belgelenmesine yönelik faaliyetler merkez ekiple koordineli bir şekilde yürütülecektir.
 
@@ -408,11 +409,11 @@ Personeli ve Sağlık Kuruluşları bilgilendirilecektir.
 
 • Aktif sürveyans çalışmaları güçlendirilerek devam edecektir.
 
-• Merkez ekiple koordineli olarak așılama cevabının gerekliliği ve boyutu belirlenecektir.
+• Merkez ekiple koordineli olarak aşılama cevabının gerekliliği ve boyutu belirlenecektir.
 
 • İlde planlanan ve yürütülen faaliyetlerle ilgili olarak haftalık faaliyet raporları Bakanlık merkezine bildirilecektir.
 
-• Sağlık Ocakları düzeyinde eksik așılı çocuklar belirlenecek ve așılanmaları sağlanacaktır
+• Sağlık Ocakları düzeyinde eksik aşılı çocuklar belirlenecek ve aşılanmaları sağlanacaktır
 
 • Olası virüs dolaşımının tespitine yönelik ek surveyans çalışmaları (sağlam çocuk taramas çevresel sürveyans vb.) merkez surveyans ekibi ile koordineli olarak yürütülecektir
 
@@ -420,7 +421,7 @@ Personeli ve Sağlık Kuruluşları bilgilendirilecektir.
 
 • Ulusal düzeyde planlanacak 2 turlu aşılama cevabı (mop-up, sNID, UAG) ile ilgili uygulamanın aşısız çocuk kalmayacak şekilde yürütülmesi sağlanacaktır.
 
-### DAIMI GENELGE
+### 
 
 ### DESTEK AȘILAMA CEVABININ BOYUTU:
 
@@ -434,15 +435,15 @@ Hedef nüfus ve aşılama cevabının büyüklüğü;
 
 ve bağışıklama oranlarının düşük olduğu alanlarda poliovirüsün hızlı yayılım potansiyeli
 
-• Lokal veya uzak yayılıma > Vakanın pidemiyolojik özelliğine göre belirlenecektir.
+• Lokal veya uzak yayılıma > Vakanın eepidemiyolojik özelliğine göre belirlenecektir.
 
 • Yüksek riskli bölgelere öncelk verilerek ve ev ev dolaşılacak şekilde detaylı planlama
 
 ### GEREKLİ DOKÜMANTASYON:
 
-Merkez Koordinasyon Ekibi tarafından belirlenen güçlendirilmiş sürveyans aktiviteleri Ulusal Sertifikasyon Komitesi tarafindan dolaşımın durduğu belgelenene kadar sürdürülecektir. Bir vahși poliovirüsün tespit edilmesi ulusal bir acil durum olarak değerlendirildiğinden, detaylı ve kapsamlı bir dokümantasyon hazırlanarak pidemiyolojik zemin, laboratuvar sonuçlarını da içeren vaka araştırma bulguları, aşılama cevabının tanımlanması ve güçlendirilmiş sürveyans sonuçları anlatılmalıdır. Uzmanlar grubu koordinasyonu ile hazırlanan son rapor Sağlık Bakanına ve Temel Sağlık Hizmetleri Genel Müdürüne sunulacaktır. Konu hakkında DSÖ de bilgilendirilecektir.
+Merkez Koordinasyon Ekibi tarafından belirlenen güçlendirilmiş sürveyans aktiviteleri Ulusal Sertifikasyon Komitesi tarafindan dolaşımın durduğu belgelenene kadar sürdürülecektir. Bir vahşi poliovirüsün tespit edilmesi ulusal bir acil durum olarak değerlendirildiğinden, detaylı ve kapsamlı bir dokümantasyon hazırlanarak eepidemiyolojik zemin, laboratuvar sonuçlarını da içeren vaka araştırma bulguları, aşılama cevabının tanımlanması ve güçlendirilmiş sürveyans sonuçları anlatılmalıdır. Uzmanlar grubu koordinasyonu ile hazırlanan son rapor Sağlık Bakanına ve Temel Sağlık Hizmetleri Genel Müdürüne sunulacaktır. Konu hakkında DSÖ de bilgilendirilecektir.
 
-### DAIMI GENELGE
+### 
 
 ### ŞEMA 1
 
@@ -476,7 +477,7 @@ amis sicak AFP vakas
 
 ### POLİOVİRÜS ÜREMİŞ SICAK AFP VAKASI IL PEP SORUMLUSUNEN GOREVLERI
 
-•Vaka ve temashılaraın çevresini de içeren ayrıstılı bir inceleme ile başka AFP vakası olup olmadığı arașınlacaktı.
+•Vaka ve temashılaraın çevresini de içeren ayrıstılı bir inceleme ile başka AFP vakası olup olmadığı araşınlacaktı.
 
 •Eğer daha önce alınmamışsa vakının en az 5 yakı temaslısındas aşılama Gecesi numuneler alınacaktır. Ahıman numuneler hiç bekletilmeden laboratuvara detilecektir.
 
@@ -484,12 +485,12 @@ amis sicak AFP vakas
 
 •48 saat içinde paralitik policmyelt enfeksiyonusu içeren güçlendirilmiş aktif sürveyans çalışması başlatılacaktır.
 
-•Klinisyenler ve laboratuvarlar durum hakkında bilgilendirilecektir, *Il düzeyinde öncelikli hastanelerden günlük AFP raporu istenecektir, gibi) veya sağlıklı çocuklarda gaita araştırması ve çevresel sürveyaas dizenleamesi TSHGM ile değerleadirilecektia •Oncelikli hastanelerde 5 yuş altı çocuklarda (yüksek riskli bölgelerden başvuranlar veya hastaneye yatınlan çocukla
+•Klinisyenler ve laboratuvarlar durum hakkında bilgilendirilecektir, *İl düzeyinde öncelikli hastanelerden günlük AFP raporu istenecektir, gibi) veya sağlıklı çocuklarda gaita araştırması ve çevresel sürveyaas dizenleamesi TSHGM ile değerleadirilecektia •Oncelikli hastanelerde 5 yuş altı çocuklarda (yüksek riskli bölgelerden başvuranlar veya hastaneye yatınlan çocukla
 
 •Güçlendirilmiş aktif surveyans çalışmaları intratipik ayrım ile vahşi virüs olmadığı gösterilene kadar sürdürülecektir. evresini de kapsayan alanm ași ceasları TSHGM ile
 
 •Rak alundaki populasyon ve vakanm bulunduğu bölge hızla gözden geçirilecek ve gerekli olan bölgelerde ba n yaş grubundaki çocuklara mop-up stratejisi ile ev ev gezilerek aşılama çalışması yürütülecektir.
 
-### DAIMI GENELGE
+### 
 
 ### AKUT FLASK PARALIZI VAKASI SICAK VAKA AYRIMI YAPILARAK POLIO IMPORTASYON PLANI GENELGESİ PARALIZI BAŞLANGICINDAN ITİBAREN ILK 14 UYGUN NUMUNE UYGULANACAK GÜN IÇINDE EN AZ 24 SAAT ARALIKLA IKI GAITA NUMUNESİ (GEÇ VAKALARDA ILK 6 BAŞKA BİR İLE AIT VAKA HAFTA IÇINDE SAPTANMIŞSA NUMUNE ALINIR) SAPTANMIŞSA ILGİLI ILE HABER VERILECEK LYGUN NUMUNE ALINAMADIYSA VAKA İZLEME ALINARAK 60 GÜN TERCIHEN 5 YAŞ ALTI, YOKSA 15 YAŞ ALTI 5 BOYUNCA IZLENECEK VE 60. GÜN TEMASLIDAN BIRER NUMUNE (UYGUN NUMUNE SONUNDA VAKA INCELEME TEMASLI NUMUNESİNE GEREK YOKTUR*) FORMUNDA VAKANIN SON DURUMU VE TANISI BELİRTİLECEKTİR. NUMUNELER +2 +8°CDE KORUNARAK EN GEÇ 3 GÜN IÇINDE SOGUK SARTLARDA LABORATUVARA ULASTIRILACAK UYGUN NUMUNE ALINAMAMIŞ VE 60. GÜN SONUNDA KALICI PARALİZİSİ OLANÖLEN VAKALARDA UZMAN KURULUNA SUNULABİLMESİ İÇİN, HASTANE DOSYASI DA VAKA INCELEME FORMU İLE BİRLİKTE 3 GON IÇINDE ULAȘTIRILAMIYORSA GÓNDERİLECEKTİR -20° C'DE SAKLANACAK R TÜM AFP ASA ARDAN NASI ENINES ASLANA DENASEOECEN DAIMİ GENELGE

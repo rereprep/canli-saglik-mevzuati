@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103581/kalp-krizi-geciren-vakalarin-yonetimi-genelgesi-20213.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.34. Kalp Krizi Geçiren Vakaların Yönetimi Genelgesi (2021/3)
@@ -34,11 +35,11 @@ I. Genel Esaslar
 
 II. Kalp Krizi Tedavisinde Reperfüzyon Stratejisi Için Temel Esaslar
 
-1) Ilk tıbbi temas sonrası ulusal ve uluslararası kılavuzlara uygun süre içerisinde p-PKG uygulaması mümkün değil ise veya kontrendikasyon yoksa aynı kılavuzlara göre belirtilen süre içerisinde fibrinolitik tedavi uygulanır.
+1) İlk tıbbi temas sonrası ulusal ve uluslararası kılavuzlara uygun süre içerisinde p-PKG uygulaması mümkün değil ise veya kontrendikasyon yoksa aynı kılavuzlara göre belirtilen süre içerisinde fibrinolitik tedavi uygulanır.
 
 a) Fibrin spesifik ajanlar, fibrin spesifik olmayan ajanlara göre birinci planda tercih
 
-b) Bakanlıkça tescillenmiş kalp merkezi olmayan sağlık tesislerinde fibrinolitik tedavi sonrasında klinik durumu stabil olmayan veya fibrinolitik tedavinin başarısız olduğu vakalar ise sevk için uygun koşullar oluştuktan hemen sonra acil yardım ambulansı ile bir kalp merkezine transfer edilir.
+b) Bakanlıkça tescillenmiş kalp merkezi olmayan sağlık tesislerinde fibrinolitik tedavi sonrasında klinik durumu sabit olmayan veya fibrinolitik tedavinin başarısız olduğu vakalar ise sevk için uygun koşullar oluştuktan hemen sonra acil yardım ambulansı ile bir kalp merkezine transfer edilir.
 
 3) P-PKG yapabilen Bakanlıkça tescillenmiş kalp merkezleri yedi gün yirmi dört saat esasına göre hizmet verir.
 
@@ -50,7 +51,7 @@ a) Birinci aşama: Hastanın göğüs ağrısı şikâyeti ile 112 Acil Çağrı
 
 ### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
-b) Ikinci aşama: Çekilen EKG, 112 Acil Çağrı Merkezindeki görevli hekim ya da il sağlık müdürlüğü tarafından belirlenen danışman hekime değerlendirilmesi için gönderilir.
+b) İkinci aşama: Çekilen EKG, 112 Acil Çağrı Merkezindeki görevli hekim ya da il sağlık müdürlüğü tarafından belirlenen danışman hekime değerlendirilmesi için gönderilir.
 
 Kalp krizi şüphesiyle çekilen EKG'de kesin tanı konulamayan durumlarda hasta en yakın ve en uygun sağlık tesisinde tekrar değerlendirilir. EKG'de ST-segment yükselmeli kalp krizi düşünüldüğünde üçüncü aşamada yer alan işlem sırasına göre hastaya müdahale edilir.
 
@@ -60,7 +61,7 @@ c) Üçüncü aşama: EKG'de ST-segment yükselmeli kalp krizi düşünüldüğ�
 
 2- Hastanın bulunduğu yer ile işlemin yapılabileceği kalp merkezinin bulunduğu sağlık tesisine ulaşım süresi ulusal ve uluslararası kılavuzlarda belirtilen sürenin üzerinde ise hastaya söz konusu kılavuzlarda belirtilen süre içinde fibrinolitik tedavi uygulanır.
 
-3- Hastanın bulunduğu yerden ulusal ve uluslararası kılavuzlarda belirtilen sürenin içerisinde işlemin yapılabileceği kalp merkezinin bulunduğu sağlık tesisine ulaşılamayacak yerlerde veya kardiyoloji uzmanı olmayan sağlık tesislerinde iç hastalıkları, yoğun bakım ve acil tıp uzmanları tarafindan da fibrinolitik tedavi uygulanır.
+3- Hastanın bulunduğu yerden ulusal ve uluslararası kılavuzlarda belirtilen sürenin içerisinde işlemin yapılabileceği kalp merkezinin bulunduğu sağlık tesisine ulaşılamayacak yerlerde veya kardiyoloji uzmanı olmayan sağlık tesislerinde iç hastalıkları, yoğun bakım ve acil tıp uzmanları tarafından da fibrinolitik tedavi uygulanır.
 
 IV. Kalp Merkezlerinin Acil İcap Nöbeti Hizmetleri
 

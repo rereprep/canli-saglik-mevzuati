@@ -6,9 +6,142 @@ birim: "Hukuk Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10547/bakanlik-ve-bagli-kuruluslarinin-tasra-teskilatlarinin-isleyisi-hakkinda-genelge.html"
 durum: "yürürlükte"
+ocr: true
 ---
 
-## İL SAĞLIK MÜDÜRLÜKLERİ İL YATIRIM PLANLAMA REHBERİ
+## T.C SAĞLIK BAKANLIĞI T.C. HUKUK MÜŞAVİRLİĞİ - KOORDİNATÖR SAĞLIK BAKANLIĞI (HATİCE KÖK)
+
+04.07.2013 15:32 - 11045126/010/15753
+
+### Hukuk Müşavirliği
+
+01599543 Sayı : 11045126/010.06.02/ Konu: Bakanlık ve bağlı kuruluşlarının
+
+taşra teşkilatlanının işleyişi
+
+### GENELGE 2013/.3
+
+Vatandaşlarımızın sağlık hizmetlerine daha kolay, kaliteli ve hakkaniyetli şekilde ulaşabilmesi amacıyla gerçekleştirilen reformların sürdürülebilirliğini sağlamak üzere 02/11/2011 tarihinde yürürlüğe giren 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname (KHK) ile Bakanlığımız yeniden yapılandırılmıştır
+
+KHK ile sağlık sistemimizin daha etkin yönetilmesi, ferdi ve kurumsal uzmanlaşmanın sağlanması, bürokrasinin azaltılması suretiyle hizmet sunumu ve karar almada hız ve etkinliğin arttırılması, her kademede idari ve mali verimliliğin geliştirilmesi hedeflenmiştir. Bu çerçevede, Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatları yeni yapılarıyla faaliyete geçmiştir:
+
+Büyük bir yapısal değişikliğin gerçekleştiği bu dönemde, zamanında alınan tedbirler ile çalışanlarımızın yüksek vazife şuuru ve üstün gayreti sayesinde sağlık hizmetleri herhangi bir aksamaya uğramadan verilmeye devam etmiştir.
+
+Bu süre zarfında, yeni yapının merkez ve taşra işleyişi en üst düzeyde yakından takip edilmiş; Bakanlık ve bağlı kuruluşlarının taşra teşkilatı olan Il Sağlık Müdürlüğü, Halk Sağlığı Müdürlüğü ve Kamu Hastaneleri Birliği Genel Sekreterliklerinin ildeki sağlık hizmetinin bütünlük ve işbirliği içerisinde yürütmelerini ve geliştirilmesini teminen aşağıdaki hususların açıklanmasına ihtiyaç duyulmuştur
+
+Mülki İdare ile Ilişkiler:
+
+5442 sayılı il İdaresi Kanunu'nun 9 uncu maddesinde, "Vali, ilde Devletin ve Hükümetin temsilcisi ve ayıı ayrı her Bakanın mümessili ve bunların idari ve siyasi yürütme vasıtasıdır." denildikten sonra, "Valilerin, ilin genel idaresinden her Bakana karşı ayıı ayrı sorumlu olduğu" hususu düzenlenmiştir.
+
+Aynı Kanun'un 21 inci maddesinde de, "Il idare şube başkanları kendi şubelerine taalluk eden işlerin yürütülmesinden ve şubeleri memur ve müstahdemlerinin kanun, tüzük, yönetmelik ve Hükümet kararlarıyla belirtilen ödev ve görevlerinin sürat ve intizamla yapılmasından valiye karşı sorumludurlar:
+
+Il idare şube başkanlarının her biri kanun, tüzük, yönetmelik ve hükümet kararlarının verdiği ödev ve görevleri ve valinin emirlerini yürüterek aldıkları işler üzerinde gereken incelemeleri yaparak bilgi ve düşüncelerini zamanında bildirmek ve valinin istediği her türlü malumatı vermekle ödevlidirleri hükmüne yer verilmiştir.
+
+Görüldüğü üzere, 5442 sayılı Kanun'un 9 uncu maddesi uyarınca vali, il genelinde her bakanlığa karşı doğrudan sorumlu ve bakanlıkların ildeki en üst temsilcisidir. Dolayısıyla, Bakanlığımız ve bağlı kuruluşlarının taşra teşkilatlarının en üst yöneticileri görev alanlarıyla ilgili olarak valiye karşı sorumludur Ancak, Sağlık Bakanlığı Bağlı Kuruluşları Hizmet Birimlerinin Görevleri ile Çalışma Usul ve Esasları Hakkında Yönetmeliği'nin 14 üncü maddesinin "Bağlı kuruluşların taşra yönetim birimleri, sağlık kuruluşlarının planlama ve yatırımlarına, kadro taleplerine, başkanlığı vali veya yardımcısı tarafından yürütülen kurul kararlanı ile önemli ve
+
+### SAGLIK BAKANLIĞI Hukuk Müşavirliği
+
+Sayı : 11045126/010.06.02/ Konu: Bakanlık ve bağlı kuruluşlarının
+
+taşıa teşkilatlarının işleyişi stratejik görüş ve teklif içeren konulara ilişkin olarak Bakanlık ve kurumlarının merkez teşkilatlarıyla yapacaklan yazışmaları, il sağlık müdürü üzerinden valilik kanalıyla yaparlar." hükmü uyarınca, Halk Sağlığı Müdürleri ve Genel Sekreterler, vali ve merkez teşkilatı ile ilişkilerini bu işler bakımından İI Sağlık Müdürü üzerinden yürütürler.
+
+Koordinasyon ve Hakemlik:
+
+Her ne kadar KHK ile Bakanlığımız ve bağlı kuruluşları ile bunların taşra teşkilatları oluşturulmuş ise de, Anayasa ve ilgili kanunların Bakanlığımıza yüklediği görevler ile özellikle KHK'nın 2 nci maddesinde sayılan görevler birlikte değerlendirildiğinde; sağlık hizmetlerinin doğrudan veya dolaylı olarak birbirini etkiler mahiyette olduğu ve niteliği gereği zincirleme ve/veya bütünlük içerisinde verilmesi gerektiği açıktır. Bu nedenle, Bakanlığımız ve bağlı kuruluşlarımızın uyum ve işbirliği içinde çalışması gerekmektedir.
+
+Bunu teminen, taşta teşkilatı genelindeki hizmetlerin bütünlüğünün ve uyumunun sağlanması amacıyla, KHK ile Il Sağlık Müdürü ilin en üst amiri konumundaki valinin sağlık müşaviri ve Bakanlığın validen sonra ildeki en üst yöneticisi olarak belirlenmiştir.
+
+KHK'nın 25 inci maddesinin ikinci fikrasının "Il sağlık müdürlüğü, bağlı kuruluşların il teşkilatının koordinasyonunu yapar ve uyumlu çalışmasını gözetir. Sağlık hizmetleri yönünden ilin durumunu Bakanlıkça belirlenen aralıklarla Bakanlığa rapor eder" hükmü ile ildeki sağlık hizmetlerinin koordinasyonu ve bağlı kuruluşların taşra teşkilatlarının uyumlu çalışmasını gözetme görevi İl Sağlık Müdürüne verilmiştir
+
+Diğer taraftan, hastane öncesi acil sağlık hizmetlerinin yürütülmesindeki sorumluluğunun yanında kamu sağlık kuruluşları gibi özel ve üniversiteler dahil tüm sağlık kuruluşlarının sunduğu hizmetlerin tamamının gerektirdiği koordinasyonu sağlamak II Sağlık Müdürünün görevidir.
+
+Sağlık hizmetlerinin etkin bir biçimde koordinasyonun sağlanması için Il Sağlık Müdürünün başkanlığında, ayda bir defadan az olmamak üzere taşra teşkilatı en üst yöneticilerinin bir araya gelmesiyle il koordinasyon toplantılan yapılır. Bu toplantılara gerektiğinde üniversite ve özel sağlık kuruluşlarının yöneticileri de davet edilebilir. Geçerli ve kabul edilebilir mazeret halleri ve izinler haricinde, Il Sağlık Müdürü, Halk Sağlığı Müdürü ve Kamu Hastaneleri Birliği Genel Sekreterlerinin toplantıya iştiraki zorunludur. Koordinasyon toplantılarının sekretarya işlemleri, il Sağlık Müdürlüğünce yürütülür. Toplantı gündemi, il Sağlık Müdürü tarafından istişare ile belirlenerek acil haller saklı kalmak kaydıyla toplantı gününden en az üç gün önce toplantıya katılacak yöneticilere yazılı olarak bildirilir. Toplantı gündeme göre gerçekleştirilir ve alınan kararlar yazılı hale getirilir
+
+Toplantı sırasında uzlaşmaya varılan konular ve karar tutanağında belirtilen işlerin takibi, Il Sağlık Müdürü tarafından yapılır. Toplantıda uzlaşma sağlanamayan konular ve çözüm önerileri Il Sağlık Müdürü tarafindan, en geç toplantıyı takip eden ikinci iş gününün mesai sonuna kadar, Halk Sağlığı Müdürü ve Kamu Hastaneleri Birliği Genel Sekreterlerinin görüşlerini de içerecek şekilde Bakanlığa (Yönetim Hizmetleri Genel Müdürlüğü'nün bağlı bulunduğu Müsteşar Yardımcısına) ve kurumlarına bildirilir. Bağlı kuruluşların taşra teşkilatı yöneticileri de, en geç toplantıyı takip eden ikinci iş gününün mesai sonuna kadar toplantıda uzlaşma sağlanamayan konuları ve bunlara ilişkin görüşlerini kendi kurumlarına gönderirler. Bakanlık, Il Sağlık Müdürünce bildirilen konuları, bağlı kuruluşlarla istişare ettikten sonra sonucunu ivedilikle ve her halükarda en geç 15 gün içinde Il Sağlık Müdürlüğüne bildirir. Il Sağlık Müdürlüğü ve bağlı kuruluşların taşra teşkilatları Bakanlık
+
+### SAĞLIK BAKANLIĞI Hukuk Müşavirliği
+
+Sayı : 11045126/010.06.02/ Konu: Bakanlık ve bağlı kuruluşlarının
+
+taşra teşkilatlarının işleyişi kararına göre işlem yapmak zorundadır. Bu kararın uygulanması Il Sağlık Müdürlüğünce izlenir ve sonuçları Bakanlığa rapor olarak gönderilir. Gecikmesinde sakınca görülen hallerde ise Il Sağlık Müdürü'nün, sorumluluğu üstlenmek ve gerekçesini yazılı şekilde oluşturmak kaydıyla verdiği karara bağlı kuruluşların il yöneticileri tarafından uyulur.
+
+Taşra Teşkilatları Arasında Personel Görevlendirilmesi:
+
+KHK'nin 35 inci maddesinin dördüncü fikrasında, Bağlı kuruluşların taşra teşkilatında çalışan personel, lüzumu halinde bir yılı aşmamak üzere bağlı kuruluşlar arasında 5442 sayılı Il Idaresi Kanunu çerçevesinde geçici olarak görevlendirilebilir. Yapılan görevlendirme personelin Kurumuna bildirilir ve on gün içinde uygun görülmediğine dair bildirim yapılmadığı takdirde görevlendirme işlemi uygulamaya konulur. Gecikmesinde sakınca bulunan hallerde, on günlük süre beklenmeden görevlendirme işlemi uygulamaya konulabilir." hükmüne yer verilmiştir.
+
+07/03/2012 tarihli ve 28226 sayılı Resmi Gazetede yayımlanan Sağlık Bakanlığı Bağlı Kuruluşları Hizmet Birimlerinin Görevleri ile Çalışma Usul ve Esasları Hakkında Yönetmeliğin 14 üncü maddesinin ikinci fikrasında da, i663 sayılı Kanun Hükmünde Kararnamenin 35 inci maddesinin dördüncü fikrası hükümleri çerçevesinde, bağlı kuruluşların taşra teşkilatında çalışan personel, lüzumu halinde bir yılı aşmamak üzere bağlı kuruluşlar arasında 5442 sayılı Il Idaresi Kanunu çerçevesinde Bakanlık il sağlık müdürlüklerince valilik onayı ile geçici olarak görevlendirilir:" hükmü getirilmiştir.
+
+KHK'nın ve Yönetmeliğin söz konusu hükümlerine göre Halk Sağlığı Müdürlüğü ve Kamu Hastaneleri Birliği Genel Sekreterliği arasındaki personel görevlendirilmesi konusunda karar veya görüş uyuşmazlıklarının ortaya çıkması halinde, I1 Sağlık Müdürü hakemlik görevi yapar Il Sağlık Müdürünün işbirliği ve istişare esasına göre vereceği karara göre Yönetmeliğin 14 üncü maddesinin ikinci fikrası uyarınca personel görevlendirilmesi işlemi tesis edilir.
+
+Halk Sağlığı Müdürlüğü veya Kamu Hastaneleri Birliği Genel Sekreterliği personeli olmasına rağmen, mesleki bilgi ve tecrübesine Il Sağlık Müdürlüğünce ihtiyaç duyulan personelin görevlendirilmesi için Il Sağlık Müdürü, ilgili personelin çalıştığı Halk Sağlığı Müdürü veya Kamu Hastaneleri Birliği Genel Sekreteri ile görüşür ve uygun görüşlerini ister. Uygun görüş verilirse, gerekli görevlendirmeyi yapar. Görevlendirilmek istenilen personel için on gün içinde cevap veya uygun görüş verilmez ise, Il Sağlık Müdürü ilgili personelin hizmetine duyduğu ihtiyacın gerekçesi var ise, uygun görüş verilmeme gerekçesini yazılı şekilde belirterek izin verilmesi için Bakanlığa (Yönetim Hizmetleri Genel Müdürlüğü'nün bağlı bulunduğu Müsteşar Yardımcısına) teklifte bulunur. Bakanlığın, ilgili bağlı kuruluşla istişaresi sonucunda vereceğı karara göre işlem yapılır.
+
+Il Sağlık Müdürünün, bağlı kuruluşların taşta teşkilatlarının kendi içlerindeki personel hareketlerini gerçekleştirme yetkisi bulunmamaktadır. Bu yetki, Kamu Hastaneleri Birliklerinde Genel Sekreterler, Halk Sağlığı Müdürlüklerinde Halk Sağlığı Müdürleri (yetki devri çerçevesinde) tarafindan kullanılacaktır
+
+Planlama:
+
+Bakanlık ve bağlı kuruluşların stratejik planlanında yer alan hedefler doğrultusunda, her ile ait il stratejik planı ile yatırım planı ve insan kaynakları planı, Il Sağlık Müdürünün başkanlığında kurulacak bir komisyon tarafından oluşturulur. Komisyon, Il Sağlık Müdürü, Genel Sekreter(ler) ve Halk Sağlığı Müdürü ile bu yöneticilerin katılımını uygun bulduğu birer personelden oluşur. Il
+
+### SAĞLIK BAKANLIĞI Hukuk Müşavirliği
+
+Sayı : 11045126/010.06.02/ Konu: Bakanlık ve bağlı kuruluşlarının
+
+taşra teşkilatlarının işleyişi Sağlık Müdürlüğü, söz konusu planların hazırlanmasını koordine eder ve bu çalışmalara yönelik sekretarya hizmetlerini yürütür Hazırlanan bu planlar, İl Sağlık Müdürlüğü vasıtasıyla Bakanlığa ve bağlı kuruluşlara gönderilir
+
+Söz konusu planlanın hazırlanmasına yol göstermek üzere oluşturulan Rehberler ekte gönderilmiştir
+
+Denetim ve Yaptırım:
+
+KHK'nın 25 inci maddesinin dördüncü fikrasında, "Il ve ilçe sağlık müdürlüğü yetki devri çerçevesinde Bakanlıkça yürütülen görevleri il ve ilçe düzeyinde yerine getirir, yapılan düzenlemelere uyumu denetler ve gerekli müeyyideleri uygular." hükmü yer almaktadır:
+
+Il Sağlık Müdürlüğü, sağlık hizmeti kalitesi, hasta haklanı ve hasta memnuniyeti gibi Bakanlık politika ve düzenlemelerine uyum ile ilgili konularda kamu, üniversite ve özel sağlık kurum ve kuruluşlarını denetler
+
+Il Sağlık Müdürlüğünün denetimi sırasında, denetlenen kurum ve kuruluşların iç işleyişlerine müdahale edilmez.. Denetim, politika ve düzenlemelere uyum denetimi ile sınırlı olmalıdır. Denetimler, objektiflik, oransallık, ayrım gözetmeme ve gizlilik ilkeleri gözetilerek yürütülür. Denetimler sırasında denetime tâbi kurum ve kuruluşlar, denetimin sağlıklı şekilde yürütülmesi ve sonuçlandırılması için denetim elemanlarına her türlü kolaylığı sağlar ve mevzuatla aksi belirlenenler haricindeki bütün bilgi ve belgeleri temin eder.
+
+Denetimin usûl ve esasına ilişkin olarak hazırlanan Il Denetim Rehberi ekte gönderilmektedir
+
+İzleme ve Değerlendirme:
+
+İl Sağlık Müdürlüğü, KHK'nın 25 inci maddesinin ikinci fikrasına göre il genelindeki sağlık hizmetlerinin yürütülmesini izler. II Sağlık Müdürlüğünce, sağlık hizmetlerinin Bakanlık politikalanna, stratejik plan ve hedeflerine ve programlarına uygunluğunu izler; sonuçların ve değerlendirmelerin yer aldığı rapor hazırlanarak Bakanlığa gönderilir.
+
+İzleme ve Değerlendirme Raporu Hazırlama Rehberi çalışması tamamlandığında illere gönderilecektir:
+
+Bilgi İsteme ve Paylaşma:
+
+Bakanlık ve bağlı kuruluşlaının taşra teşkilatları arasındaki veri ve bilgi paylaşımının, mevcut bilgi sistemleri alt yapısı üzerinden gerçekleştirilmesi esastır. Bu amaçla, Bakanlığımız ve bağlı kuruluşlarının il yöneticilerinin Bakanlıkça oluşturulan genel bilgi sistemlerine (ÇKYS, IKYS gibi) erişimi sağlanacaktır. Bilgiye erişim konusunda ortaya çıkan aksaklıklar Bakanlığımız Sağlık Bilgi Sistemleri Genel Müdürlüğüne iletilecek ve adı geçen Genel Müdürlükçe gerekli tedbirler ivedilikle alınarak problem çözülecektir.
+
+Bakanlık bilgi sistemlerine girilecek bilgilerin doğru, zamanında ve eksiksiz girilmesinden ilgili il yöneticileri birinci derecede sorumludur. Bilgi sistemleri alt yapısı üzerinden temin edilemeyen, işlenmesi ya da yorumlanması gereken ve Il Sağlık Müdürlüğünün izleme ve değerlendirme görevleriyle ilgili olan rapor ve benzeri bilgilerin istenmesi durumunda verilmesi zorunluduı. Bilgi istenmesinde ve toplanmasında Halk Sağlığı Müdürlüğü ve Kamu Hastaneleri Birlıği Genel Sekreterliği gerekli bütün kolaylığı sağlamalıdır. Ancak, il Sağlık Müdürlükleri bilgi
+
+### SAĞLIK BAKANLIĞI Hukuk Müşavirliği
+
+Sayı : 11045126/010.06.02/ Konu: Bakanlık ve bağlı kuruluşlarının
+
+taşra teşkılatlarının işleyişi istemede, yürütülen faaliyetin sonucuyla orantılı olması anlamına gelen "oransallık" ilkesini gözetecektir.
+
+Temsil, Protokol ve Yazışma:
+
+Yukarıda da belirtildiği gibi Il Sağlık Müdürü, il genelindeki sağlık hizmetleri bakımından valiye ve Bakanlığa kaışı en üst düzeyde sorumlu olduğundan, bunun gereği olarak da Bakanlığımızın ildeki en üst düzeydeki yöneticisidir.
+
+Il Sağlık Müdürü, il protokolünde Halk Sağlığı Müdürü ve Kamu Hastaneleri Birliği Genel Sekreterinden daha ön sırada yer alır.
+
+Il Sağlık Müdürü tarafindan, Halk Sağlığı Müdürlüğü ve Kamu Hastaneleri Birliği Genel Sekreterliğine gönderilen yazılar "rica" kaydıyla; Halk Sağlığı Müdürlüğü ile Kamu Hastaneleri Birliği Genel Sekreterliğinin birbirine göndereceği yązılar "arz" kaydıyla; Halk Sağlığı Müdürlüğü ve Kamu Hastaneleri Birliği Genel Sekreterliğince Il Sağlık Müdürlüğüne gönderilen yazılar ise "arz" kaydıyla imzalanacaktır.
+
+Ekler, Bakanlığımızın kurumsal internet sitesi olan www.saglik.gov.tr adresinden temin edilecektir
+
+Gereğinin buna göre ifasını ve aksaklığa meydan verilmemesini rica ederim.
+
+Dr Mehmet MÜEZZİNOĞLU
+
+Bakan
+
+### EKLER:
+
+1- İl Yatırım Planlama Rehberi 2- Il Insan Kaynakları Planlama Rehberi 3- I1 Stratejik Plan Rehberi 4- Il Denetim Rehberi
+
+### DAĞITIM:
+
+Gereği: A Planı
+
+### İL SAĞLIK MÜDÜRLÜKLERİ İL YATIRIM PLANLAMA REHBERİ
 
 Bu rehberin amacı, yatırım planlamaları yapılırken uyulması gereken genel ilkeleri, nesnel ve ölçülebilir standartları, hesaplama yöntemlerini, bunlara ilişkin olarak Sağlık Bakanlığı merkez ve taşra teşkilatları ile Bağlı kuruluşlarının yetki ve sorumluluklarını ortaya koymaktır.
 
@@ -264,9 +397,9 @@ Bu rehberin amacı; il sağlık müdürlükleri, halk sağlığı müdürlükler
 
 ### KAPSAM
 
-Bütün illerde, il sağlık ve halk sağlığı müdürlükleri ile genel sekreterlikler ortaklaşa stratejik plan hazırlayacaklardır. Öncelikle 3 ilde pilot olarak hazırlanacak olan plan, il düzeyinde stratejik plan hazırlama rehberi çerçevesinde yapılacaktır. Rehberde, pilot illerden gelecek geri bildirimlere göre değişiklikler yapılabilecektir. Ayrıntılı Bilgi İçin İletişim Adres: Strateji Geliştirme Başkanlığı Stratejik Yönetim ve Planlama Daire Başkanlığı Telefon: 0 312 573 71 27 Elektronik Posta: sp@saglik.gov.tr
+Bütün illerde, il sağlık ve halk sağlığı müdürlükleri ile genel sekreterlikler ortaklaşa stratejik plan hazırlayacaklardır. Öncelikle 3 ilde pilot olarak hazırlanacak olan plan, il düzeyinde stratejik plan hazırlama rehberi çerçevesinde yapılacaktır. Rehberde, pilot illerden gelecek geri bildirimlere göre değişiklikler yapılabilecektir. Ayrıntılı Bilgi İçin İletişim Adres: Strateji Geliştirme Başkanlığı Stratejik Yönetim ve Planlama Daire Başkanlığı Telefon: 0 312 573 71 27 Elektronik Posta: sp@saglik.gov.tr T.C.
 
-### T.C. ……………………VALİLİĞİ SAĞLIK İL TEŞKİLATI STRATEJİK PLAN 2013 – 2017
+### .VALİLİĞİ SAĞLIK İL TEŞKİLATI STRATEJIK PLAN 2013 - 2017
 
 (Vali Resmi Eklenecek)
 

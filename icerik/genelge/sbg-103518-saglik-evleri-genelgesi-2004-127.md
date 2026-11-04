@@ -8,15 +8,14 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103518/saglik-evleri-genelgesi-2004127.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.10. Sağlık Evleri Genelgesi (2004/127)
 
-### T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
-
 Sayi :B100TSH0130001 ANKARA Konu:Sağlık evleri
 
-### 19.10.2004 016043 VALILIĞINE (II Sağhk Müdürlüğü) GENELGE 2004/127
+### 19.10.2004 016043 VALILIĞINE (II Sağlık Müdürlüğü) GENELGE 2004/127
 
 ILGİ: 18.10.2004 tarihli ve 9964 sayıl Makam Onayı.
 

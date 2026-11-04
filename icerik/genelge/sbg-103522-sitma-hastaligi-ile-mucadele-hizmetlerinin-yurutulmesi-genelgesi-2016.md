@@ -8,11 +8,12 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103522/sitma-hastaligi-ile-mucadele-hizmetlerinin-yurutulmesi-genelgesi-20162.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.27. Sıtma Hastalığı ile Mücadele Hizmetlerinin Yürütülmesi Genelgesi (2016/2)
 
-(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338) g ( / )
+[?]
 
 T.C.
 
@@ -66,7 +67,7 @@ b) Yurtdışı kaynaklı sıtma vakası tespit edilmesi halinde:
 
 c) Sıtma vakasının tedavisi tamamlandıktan 15 gün sonra parazitolojik inceleme için yayma yapılacak, pozitif bulunması halinde tedavinin yeniden düzenlenmesi sağlanacaktır. Kontrol kanı alınamaması halinde sebebine yönelik açıklamayı içeren bir tutanak ile bu durum kayıt altına alınacaktır.
 
-¢) Tespit edilen her bir vakanın detaylı pidemiyolojik incelemesi yapılacak, enfeksiyon orjini ve parazit türü dikkatlice sınıflandırılacak ve Bulaşıcı Hastalıklar Kontrol Programları Şube Müdürlüğü tarafindan ek-4"teki "Sıtma Epidemiyolojik Inceleme Formu" eksiksiz olarak doldurularak aylık olarak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir.
+¢) Tespit edilen her bir vakanın detaylı eepidemiyolojik incelemesi yapılacak, enfeksiyon orjini ve parazit türü dikkatlice sınıflandırılacak ve Bulaşıcı Hastalıklar Kontrol Programları Şube Müdürlüğü tarafindan ek-4"teki "Sıtma Eeepidemiyolojik Inceleme Formu" eksiksiz olarak doldurularak aylık olarak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir.
 
 d) Sıtma tedavi ilaçlarının, etiketinde belirtilen saklama koşullarına uygun olarak depolanması sağlanacaktır. Ayrıca ilin büyüklüğüne ve yıllık ortalama tespit edilen vaka sayısına göre asgari stok yönetimi sağlanacaktır. Sıtma tedavi ilaçlarının temin ve depolanmasından sorumlu en az bir sağlık personeli belirlenecek ve ildeki tüm sağlık kuruluşlarına bu kişinin irtibat bilgileri bildirilecektir. Tedavi ilacı ile diğer malzemelere ilişkin olarak Ek-'teki "Sıtma Tedavi Ilacı Stok Durumu Formu" doldurularak ihtiyaç belirlenerek aylık olarak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir.
 
@@ -104,8 +105,6 @@ k) Sıtma çalışmalarında görevli işçilerin özlük ve personel kayıtlar�
 
 1) Ek-'daki "Vektör Kontrolü Malzeme Formu" aylık olarak takip eden ayın en geç S'ine kadar doldurularak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir. Vektör kontrolü malzeme formunun ilde vektör mücadelesini planlayan ve uygulayan personel tarafindan doldurulması esastır.
 
-### T.C. SAĞLIK BAKANLIĞI Türkiye Halk Sağhığı Kurumu Başkanlığı
-
 Sayı : 10712557-136 Konu : Sıtma Hastalığı Ile Mücadele
 
 Hizmetlerinin Yürütülmesi
@@ -120,7 +119,7 @@ müstesu '
 
 ### EKLER:
 
-Ek -1- Sitma Bilgilendirme Formu Ek -2- Aylık Sıtma Çalışmaları Ek -3- Halk Sağlığı Laboratuvarı Aylık Formu Ek -4- Sıtma Epidemiyolojik Inceleme Formu Ek -5- Sıtma Tedavi Ilacı Stok Durumu Ek -6- Vektör Kontrol Malzeme Formu
+Ek -1- Sitma Bilgilendirme Formu Ek -2- Aylık Sıtma Çalışmaları Ek -3- Halk Sağlığı Laboratuvarı Aylık Formu Ek -4- Sıtma Eeepidemiyolojik Inceleme Formu Ek -5- Sıtma Tedavi Ilacı Stok Durumu Ek -6- Vektör Kontrol Malzeme Formu
 
 ### DAGITIM:
 

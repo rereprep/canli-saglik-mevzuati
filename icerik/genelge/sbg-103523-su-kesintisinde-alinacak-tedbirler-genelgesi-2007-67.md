@@ -8,11 +8,10 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103523/su-kesintisinde-alinacak-tedbirler-genelgesi-200767.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.71. Su Kesintisinde Alınacak Tedbirler Genelgesi (2007/67)
-
-### T.C ISE-ISO-E
 
 3000
 
@@ -20,7 +19,7 @@ ocr: true
 
 Temel Sağlık Hizmetleri Genel Müdürlüğa Sayi : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde almacak tedbirler 20802 08.08.07
 
-### ..VALILIGINE (Il Sağlık Müdürlügü) GENELGE /67
+### ..VALILIGINE (İl Sağlık Müdürlügü) GENELGE /67
 
 Kuraklık kaynaklı su sıkıntısı, özellikle içme ve kullanma sularımın tasarruflu, etkin ve sağlığı olumsuz yönde etkilemeyecek şekilde tüketimini gerekli kılmaktadır. İçme ve kullanma sulanı insan ve toplum sağlığını doğrudan etkileyen önemli etmenlerin başında gelmektedir.
 
@@ -30,7 +29,7 @@ Muhtemel sorunların tanımlanarak çözümü için sorumlulukların bilinçli b
 
 Toplum sağlığının korunması ve su kesintilerinin herhangi bir sağlık sorununa yo! açmaması için yerel yönetimler, vatandaşlar ve ilgili kurum ve kuruluşlarca ahınması gereken tedbirler ve dikkat edilmesi gereken hususlar aşağıda belirtilmektedir. A-Sağlık Müdürlüklerince Alınması Gereken Tedbirler
 
-1. Sağhık Müdürlüklerinde ilgili sağlık müdür yardımcısı başkanlığında, gıda ve çevre
+1. Sağlık Müdürlüklerinde ilgili sağlık müdür yardımcısı başkanlığında, gıda ve çevre
 
 kontrol şube müdürü, bulaşıcı hastalıklar şube müdürü, sağlık ocakları şube
 
@@ -44,7 +43,7 @@ depo girişi ve çıkışı, klorlama noktaları ve şebekeye katılan kuyu veya
 
 varsa bunlanı da gösteren ve ilgili yerel yönetimler tarafindan hazırlanan krokiler, Il
 
-Sağhk Müdürlüğü / Sağlık Grup Başkanlığında da bulunmalıdır.
+Sağlık Müdürlüğü / Sağlık Grup Başkanlığında da bulunmalıdır.
 
 3. Yerleşim yerlerinde sorumlu sağlık birimlerince içme ve kullanma suyu sağlayan su
 
@@ -60,11 +59,11 @@ kullanımının olduğu yerler (okul, hastane, toplu çalışılan yerler, gıda
 
 yemek fabrikaları vb. gibi) dikkate alınmalıdır.
 
-### TSE-ISO-EN K-0
+###  K-0
 
 T.C. 2000
 
-### SAĞLIK BAKANLIĞI Temel Sağhk Hizmetleri Genel Müdürlugü
+### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlugü
 
 Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler
 
@@ -130,7 +129,7 @@ il düzeyinde değerlendirilmeli, gerekirse riskli bölgelerden günlük bildiri
 
 alınmalıdır.
 
-16. Bulașıcı hastalıkların tespitinde en önemli basamak olan laboratuvarların, su ile
+16. Bulaşıcı hastalıkların tespitinde en önemli basamak olan laboratuvarların, su ile
 
 bulaşan hastalıkların tanısı konusunda teknik ve lojistik ihtiyaçları karşılanmalı ve
 
@@ -140,7 +139,7 @@ olabilecek hastalık artışlarına göre çalışma planı hazırlanmalıdır.
 
 18. 17.02.2006 tarih ve 2006/23 sayılı Genelgemiz göz önüne ahınarak olası salgın durumları hemen incelemeye ahnmahdır.
 
-### TSE-ISO-EN
+### 
 
 T.C 90D0
 
@@ -174,10 +173,6 @@ Temel Sağlık Hizmetleri Genel Müdürlügü Sayı : B.10.0.TSH.0.10.00.04 Konu
 
 13. Ticari kuruluşlarca tankerlerle içme suyu satışı yasak olmakla birlikte, yerel yönetimler ve yetkilendirdikleri kuruluşlarca gerektiğinde hastaneler, çocuk ve yaşh bakım evleri ve ilköğretim okullarının ihtiyaçları karşılanabilir.
 
-### TSE-ISO-EN
-
-3000
-
 ### T.C SAĞLIK BAKANLIGI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayi : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde almacak tedbirler Şebeke suyunun teknik olarak verilemediği bölgelere de Sağlık Müdürlükleri ile koordinasyon sağlanması kaydıyla tankerle su ikmali yapılabilir. Ancak, tankerle içme ve kullanma suyu temininde belirlenen kurallara titizlikle uyulmalıdır. Bu iş için kullanılan tankerler yerel yönetimlerce ruhsatlandırılmış olmalı ve başka amaçlar için kullanılmamalıdır. İçme ve kullanma suyu tankerlerinin dolum noktaları sağlık teşkilatına bildirilmelidir. Tankerlerdeki bakiye klor oranı 1 ppm olmalıdır.
@@ -200,7 +195,7 @@ Sayi : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde almacak tedbirler Şebeke suy
 
 22. Buz imalathanelerinin su kaynağı ve teknolojisi denetlenmelidir.
 
-23. Ilgili belediye personelinin hijyen ve dezenfeksiyonla ilgili bilgi açıkları varsa il sağhık teşkilatı ile işbirliği yapılarak eğitimleri sağlanmalıdır. C-Halkımızın Dikkat Etmesi Gereken Hususlar
+23. Ilgili belediye personelinin hijyen ve dezenfeksiyonla ilgili bilgi açıkları varsa il sağlık teşkilatı ile işbirliği yapılarak eğitimleri sağlanmalıdır. C-Halkımızın Dikkat Etmesi Gereken Hususlar
 
 1. Bina ve konutlarda kullanılan su depolarından temizliği yapılmamış olanlar hemen, daha sonra da belirli periyotlarla (kesinti olduğu dönemlerde 3 ayda bir, diğer dönemlerde 6 ayda bir) temizlenmeli ve bakımları yapılarak dezenfeksiyonu sağlanmalıdır.
 
@@ -208,11 +203,11 @@ Sayi : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde almacak tedbirler Şebeke suy
 
 3. Mahalle aralarında kuyu, tanker, bidon v.b. kaynaklardan içme suyu temin edilmemelidir.
 
-### TSE ISO EN
+### 
 
 T.C 9000
 
-### SAGLIK BAKANLIĞI Temel Sağhk Hizmetleri Genel Müdürlüğü
+### SAGLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler
 
@@ -232,7 +227,7 @@ Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler
 
 11. Kişisel temizliğe özellikle el temizliğine mutlaka dikkat edilmelidir.
 
-12. Sahteliğinden şüphelenilen ambalajlı sular ile ilgili şikayetler Sağhk Müdürlükleri ile Sağlık Bakanlığının 184 nolu telefon hattına iletilmelidir.
+12. Sahteliğinden şüphelenilen ambalajlı sular ile ilgili şikayetler Sağlık Müdürlükleri ile Sağlık Bakanlığının 184 nolu telefon hattına iletilmelidir.
 
 13. Kesinti, arıza, açıkta su satılması, su depoları ve diğer hususlar ise belediyelerin ilgili birimlerine iletilmelidir.
 
@@ -244,9 +239,9 @@ Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler
 
 K-O
 
-### T.C TSE-ISO-EN SAĞLIK BAKANLIĞI 9000
+### T.C  SAĞLIK BAKANLIĞI 9000
 
-Temel Sağhk Hizmetleri Genel Müdürlüğü Sayı : B.10.O.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler Bilginizi, yukarıda belirtilen konulara ilişkin olarak ilgili kurım ve kuruluşlarla işbirliği içinde gereken tedbirlerin alınması ve halka gereken duyuruların yapılması hususlarinda gereğini önemle rica ederim.
+Temel Sağlık Hizmetleri Genel Müdürlüğü Sayı : B.10.O.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler Bilginizi, yukarıda belirtilen konulara ilişkin olarak ilgili kurım ve kuruluşlarla işbirliği içinde gereken tedbirlerin alınması ve halka gereken duyuruların yapılması hususlarinda gereğini önemle rica ederim.
 
 aRenao
 

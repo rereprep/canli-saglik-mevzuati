@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103588/kritik-kan-stok-seviyesinin-korunmasi-genelgesi-201324.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.16. Kritik Kan Stok Seviyesinin Korunması Genelgesi (2013/24)
@@ -32,7 +33,7 @@ Sistemimizde, kan ve kan bileşenlerinin toplanması, test edilmesi, hazırlanma
 
 Kan ve Kan Ürünleri Yönetmeliğinin 9. Maddesi, 2. Fıkrası (f) bendi Sorumluluk alanı içindeki transfüzyon merkezlerinin ihtiyaç duyduğu kan ve kan bileşenlerini sağlamak, protokolde belirtilen kritik stok seviyesini takip etmek, stoklanan kan miktarını kritik stok seviyesi altına düşürmemek için TM'nin talebini karşılamakla yükümlüdür." hükmü gereğince transfüzyon merkezlerinin kritik stok seviyesinin tespiti ve korunması konusunda, bölge kan merkezlerine sorumluluk yüklemiş ve bu sorumluluğun transfüzyon merkezinin talebi doğrultusunda gerçekleşeceğini hüküm altına almıştır.
 
-Transfüzyon merkezlerinin, kan ve kan bileşenlerine ihtiyaç halinde hızlı bir şekilde ulaşabilmesi için kan ve kan bileşeni stoklarını bağlı bulundukları bölge kan merkezi ile koordineli bir şekilde belirlemesi ve stokların kritik seviyenin altına düşürülmemesi yönünde hastane yönetimleri tarafindan her türlü önlemin alınması hususunda;
+Transfüzyon merkezlerinin, kan ve kan bileşenlerine ihtiyaç halinde hızlı bir şekilde ulaşabilmesi için kan ve kan bileşeni stoklarını bağlı bulundukları bölge kan merkezi ile koordineli bir şekilde belirlemesi ve stokların kritik seviyenin altına düşürülmemesi yönünde hastane yönetimleri tarafından her türlü önlemin alınması hususunda;
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
@@ -44,4 +45,4 @@ Müsteşar
 
 ### DAGITIM:
 
-Gereği: Bilgi: Türkiye Kamu Hastaneleri Kurumuna Türk Kızılayı Kan Hizmetleri Genel Müdürlüğüne 81 Il Valiligine
+Gereği: Bilgi: Türkiye Kamu Hastaneleri Kurumuna Türk Kızılayı Kan Hizmetleri Genel Müdürlüğüne 81 Il Valiliğine

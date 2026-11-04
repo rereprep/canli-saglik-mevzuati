@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103603/tam-gun-yasasi-uygulamasi-genelgesi-20148.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.25. Tam Gün Yasası Uygulaması Genelgesi (2014/8)
@@ -18,7 +19,7 @@ b) 2547 sayılı Kanunun 36 maddesinin yedinci fikrası kapsamında izin verilec
 
 Profesör ve doçent kadrolarında çalışan tabip ve diş tabibinin görev yaptığı üniversite ile özel hastane/vakıf üniversitesi hastanesi arasında süresi bir yılı aşmayan kurumsal sözleşme yapılması gerekmektedir.
 
-2547 sayıhı Kanunun 36 maddesinin yedinci fikrası kapsamında izin verilenler sadece bir özel hastane/vakıf üniversitesi hastanesinde çalıştırılabilir.
+2547 sayılıı Kanunun 36 maddesinin yedinci fikrası kapsamında izin verilenler sadece bir özel hastane/vakıf üniversitesi hastanesinde çalıştırılabilir.
 
 2547 sayılı Kanunun 36 maddesinin yedinci fikrası kapsamında izin verilenler için özel düzenleme yapılmış olması sebebiyle, bu kapsamda bulunanlar 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı Icrasına Dair Kanunun 12 nei maddesinin ikinci fikrasına uygun olma şartı aranmaksızın özel hastane ve vakıf üniversitesi hastanesinde çalıştırılabilecektir.
 
@@ -32,7 +33,7 @@ g) 2547 sayılı Kanunun 36 maddesinin yedinci fikrası kapsamında izin verilen
 
 2) 18/01/2014 tarihinden itibaren 657, 926, 2547 ve 2955 sayılı Kanuna tabi olarak görev yapan tabip ve diş tabipleri, serbest meslek icrasında bulunmak üzere muayenehane ve benzeri yerler açamaz, gerçek kişilere, özel hukuk tüzel kişilerine veya kamu kurumu niteliğindeki meslek kuruluşlarına ait herhangi bir iş yerinde veya vakıf yükseköğretim kurumlarında çalışamaz. Bu nedenle 657 ve 926 sayılı Kanuna tabi tüm tabip ve diş tabiplerinden halen bu kapsamda çalışanların Müdürlükçe derhal çalışma belgelerinin veya ruhsatlarının iptal edilerek faaliyetlerinin sonlandırılması gerekmektedir.
 
-3) Müdürlükçe, halen serbest meslek faaliyetinde bulunan veya özel sağlık kuruluşlarında çalışan 2955 ve 2547 sayılı Kanuna tabi tüm tabip ve diş tabiplerinin 18/04/2014 tarihine kadar durumlarını Kanuna uygun hale getirmeleri hususunda bilgilendirme yapılması gerekmektedir. Bunlardan 18/04/2014 muayenehanesini kapatmayan veya herhangi bir özel sağlık kuruluşunda çalışmaya devam eden tabip ve diş tabiplerinin ilişikleri kesilmek üzere görev yaptıkları üniversiteye Müdürlükçe yazılı bildirimde bulunulması gerekmektedir. Üniversite tarafindan ilişiği kesilen tabip ve diş tabiplerinin isimlerinin Müdürlüğe bildirilmesi gerekmektedir.
+3) Müdürlükçe, halen serbest meslek faaliyetinde bulunan veya özel sağlık kuruluşlarında çalışan 2955 ve 2547 sayılı Kanuna tabi tüm tabip ve diş tabiplerinin 18/04/2014 tarihine kadar durumlarını Kanuna uygun hale getirmeleri hususunda bilgilendirme yapılması gerekmektedir. Bunlardan 18/04/2014 muayenehanesini kapatmayan veya herhangi bir özel sağlık kuruluşunda çalışmaya devam eden tabip ve diş tabiplerinin ilişikleri kesilmek üzere görev yaptıkları üniversiteye Müdürlükçe yazılı bildirimde bulunulması gerekmektedir. Üniversite tarafından ilişiği kesilen tabip ve diş tabiplerinin isimlerinin Müdürlüğe bildirilmesi gerekmektedir.
 
 4) 2547 sayılı Kanunun 36 ncı maddesinin yedinci fikrası kapsamında çalıştırılacak profesör ve doçentler için başlatılmak istenilen özel hastanenin/vakıf üniversitesi hastanesinin tabip ve diş tabibi kadro sayılanı için ayrı ayrı hesaplanmak şartıyla ve bu sayıların yüzde 20'sini geçip geçmediğinin Müdürlükçe kontrol edilmesi gerekmektedir. Özel hastane/vakıf
 
@@ -44,7 +45,7 @@ a) Üniversite ile özel hastane/vakıf üniversitesi hastanesi arasında akdedi
 
 b) Özel hastane/vakıf üniversitesi hastanesi yazısı,
 
-c) Ilgili profesör veya doçentin muvafakatını gösteren belge.
+c) İlgili profesör veya doçentin muvafakatını gösteren belge.
 
 5) 2547 sayılı Kanunun 36 ncı maddesinin yedinci fikrasına uygun olarak çalıştırılacak profesör ve doçentlerin başlayış ve ayrılış işlemleri Sağlık Kuruluşları Yönetim Bilgi Sistemi (SKYS) üzerinden yürütülür.
 

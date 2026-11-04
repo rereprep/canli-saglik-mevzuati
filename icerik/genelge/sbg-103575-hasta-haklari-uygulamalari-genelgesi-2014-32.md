@@ -8,13 +8,14 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103575/hasta-haklari-uygulamalari-genelgesi-201432.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.11. Hasta Hakları Uygulamaları Genelgesi (2014/32)
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü T.C. SAGLIK BAKANLIĞI - SAĞLIK HİZMETLERI TC Sağlık Bakanlığı DENEL MÜ DÜRLCÓ0 - HASTA HAKLARI VE
+Sağlık Hizmetleri Genel Müdürlüğü T.C. SAĞLIK BAKANLIĞI - SAĞLIK HİZMETLERI TC Sağlık Bakanlığı DENEL MÜ DÜRLCÓ0 - HASTA HAKLARI VE
 
 ### An quEITICN TIBBI SOSYAL HİZMETLER DAIRE BAŞKANL10I
 
@@ -32,11 +33,11 @@ Bundan böyle, hasta hakları uygulamaları HBBS üzerinden aşağıdaki düzenl
 
 ### 1) HASTA HAKLARI İL KOORDİNATÖRLÜĞÜ:
 
-Il Sağlık Müdürluğü bünyesinde; hasta hakları uygulamalarını il genelinde koordine etmek, denetlemek, hasta hakları kurullarının kurulması ve çalışması ile internet tabanlı hasta başvuru bildirim sisteminin çalışmasını sağlamak amacıyla hasta hakları il koordinatörlüğü kurulur. Il koordinatörlüğü, yeteri kadar sağlık ve genel idare sınıfi personelden oluşur.
+İl Sağlık Müdürluğü bünyesinde; hasta hakları uygulamalarını il genelinde koordine etmek, denetlemek, hasta hakları kurullarının kurulması ve çalışması ile internet tabanlı hasta başvuru bildirim sisteminin çalışmasını sağlamak amacıyla hasta hakları il koordinatörlüğü kurulur. Il koordinatörlüğü, yeteri kadar sağlık ve genel idare sınıfi personelden oluşur.
 
 Il koordinatörü:
 
-Hekim, sosyal hizmet uzmanı ya da psikolog öncelikli olmak üzere lisans mezunları arasından Il Sağlık Müdürünün teklifi, Valiliğin uygun görüşü ve Bakanlığın onayı ile belirlenir. Görevine aynı usulle son verilir. Görevini Il Sağlık Müdürüne bağlı olarak yürütür.
+Hekim, sosyal hizmet uzmanı ya da psikolog öncelikli olmak üzere lisans mezunları arasından İl Sağlık Müdürünün teklifi, Valiliğin uygun görüşü ve Bakanlığın onayı ile belirlenir. Görevine aynı usulle son verilir. Görevini İl Sağlık Müdürüne bağlı olarak yürütür.
 
 Bu genelgenin yayım tarihinde hasta hasta hakları il koordinatörlüğü görevini yürütenler, eğitim durumları ve unvanlarına bakılmaksızın bir defaya mahsus olmak üzere hiçbir onaya gerek kalmaksızın görevlerine devam ederler. Görevlerinden ayrılmaları halinde bu hakları sona erer.
 
@@ -58,27 +59,27 @@ e) Hasta hakları uygulamalarını il genelinde koordine eder ve bu konuda danı
 
 1) Ihtiyaç halinde ilde hasta hakları ile ilgili seminer, toplantı ve eğitim düzenler.
 
-g) Kurul kararlarının özetini, başvuru tarihi, başvuru konusu, karar tarihi ve sayısı ile sağlık tesisi ismi belirterek kişi isimlerine yer vermeden il sağlık müdürluğünün internet sayfasında duyurulmasını sağlar.
+g) Kurul kararlarının özetini, başvuru tarihi, başvuru konusu, karar tarihi ve sayısı ile sağlık tesisi ismi belirterek kişi isimlerine yer vermeden il sağlık müdürlüğünün internet sayfasında duyurulmasını sağlar.
 
 ### 2) HASTA HAKLARI KURULU :
 
 Kurulun yeri ve sayısı:
 
-Başvuru sayısı ve sağlık kuruluşlarının fiziki konumlarına göre Il Sağlık Müdürlüğü bünyesinde uygun görülen yerlerde birden fazla kurul oluşturulabilir. Bu durumda kurul isimleri sayı ile ifade edilir.
+Başvuru sayısı ve sağlık kuruluşlarının fiziki konumlarına göre İl Sağlık Müdürlüğü bünyesinde uygun görülen yerlerde birden fazla kurul oluşturulabilir. Bu durumda kurul isimleri sayı ile ifade edilir.
 
 Başkan ve üyeler:
 
 Kurul; başkan, sendika işyeri temsileisi, kurum temsilcisi, dernek temsilcisi ve vatandaștan oluşur.
 
-Il Sağlık Müdürü veya görevlendireceği hasta hakları koordinatörü veya sağlık müdür yardımcısı başta olmak üzere en az lisans mezunu, hasta hakları konusunda deneyimi veya eğitimi olan, tercihen idari pozisyonu bulunan bir üye kurula başkanlık eder. Ilçede kurul oluşturulacaksa, Il Sağlık Müdürünün görevlendireceği, Ilçe sağlık müdürü veya en az lisans mezunu düzeyinde hasta hakları konusunda deneyimi veya eğitimi olan bir üye kurula başkanlık
+İl Sağlık Müdürü veya görevlendireceği hasta hakları koordinatörü veya sağlık müdür yardımcısı başta olmak üzere en az lisans mezunu, hasta hakları konusunda deneyimi veya eğitimi olan, tercihen idari pozisyonu bulunan bir üye kurula başkanlık eder. Ilçede kurul oluşturulacaksa, İl Sağlık Müdürünün görevlendireceği, Ilçe sağlık müdürü veya en az lisans mezunu düzeyinde hasta hakları konusunda deneyimi veya eğitimi olan bir üye kurula başkanlık
 
 Diğer kurul üyeleri:
 
 a) Şikayet edilen personelin varsa üyesi olduğu sendikanın işyeri temsilcisi,
 
-b) Şikayet edilen personelin görev yaptığı kurumun ildeki üst yöneticisi tarafindan görevlendirilen bir kurum temsilcisi (üniversite rektörlüğü, halk sağlığı müdürlüğü, kamu hastaneleri birliği genel sekreterliği),
+b) Şikayet edilen personelin görev yaptığı kurumun ildeki üst yöneticisi tarafından görevlendirilen bir kurum temsilcisi (üniversite rektörlüğü, halk sağlığı müdürlüğü, kamu hastaneleri birliği genel sekreterliği),
 
-c) Şikayet edilen personel özel sağlık kuruluşunda ise kuruluş mesul müdürü tarafindan görevlendirilen bir temsilci,
+c) Şikayet edilen personel özel sağlık kuruluşunda ise kuruluş mesul müdürü tarafından görevlendirilen bir temsilci,
 
 d) Şikayet edilen personel askeri hastanede ise, askeri hastane başhekimliğince görevlendirilen bir temsilci,
 
@@ -88,9 +89,9 @@ f) Valilikçe görevlendirilen bir vatandaştan oluşur.
 
 Toplum sağlığı merkezleri ve bağlı birimleri ile entegre sağlık hizmeti sunulan birinci basamak kamu sağlık tesislerinde çalışan personel hakkında başvuru yapıldığında, sendika temsilcisi kurul üyesi olarak, halk sağlığı müdürlüğündeki sendika temsilcisi görevlendirilir. Il Halk sağlığı müdürlüğünde sendika temsilcisi bulunmaması durumunda ise üyesi olduğu sendikanın il temsilciliğinden bir kişi, özel sağlık tesisleri için ise şikayet edilen personelin üyesi olduğu sendikanın il temsilciliğinden bir kişi üye olarak katılabilir.
 
-Kurulda görev almak isteyen dernekler Il Sağlık Müdürlüğüne başvurur. Birden fazla hasta hakları derneğinin veya tüketici derneğinin başvurması durumunda, öncelikle hasta hakları derneklerinden yoksa tüketici derneklerinden bir dernek temsilcisi il sağlık müdürlüğünce kura yoluyla belirlenir. Beyanına göre sağlık kurulüşuyla ticari ilişkisi olmayan dernek ve dernek üvesi kurulda görevlendirilir.
+Kurulda görev almak isteyen dernekler İl Sağlık Müdürlüğüne başvurur. Birden fazla hasta hakları derneğinin veya tüketici derneğinin başvurması durumunda, öncelikle hasta hakları derneklerinden yoksa tüketici derneklerinden bir dernek temsilcisi il sağlık müdürlüğünce kura yoluyla belirlenir. Beyanına göre sağlık kurulüşuyla ticari ilişkisi olmayan dernek ve dernek üvesi kurulda görevlendirilir.
 
-### T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 TC Sağlık Bakanlığı
 
@@ -106,9 +107,9 @@ b) Kamu haklarını kullanmaktan kısıtlı olmamak.
 
 Sivil toplum temsilcisi ve sendika temsilcisi olan üyelerin görev süresi takvim yılıdır. Diğer komisyon üyelerinin görev süresi iki yıldır. Süresi dolan üyeler tekrar görevlendirilebilir.
 
-Kurul toplantılarına mazeretsiz olarak üst üste üç defa katılmayan üyenin üyeliğine Il Sağhk Müdürlüğünce son verilir. Bu kişiler üç yıl süreyle yeniden üye olarak seçilemez. Herhangi bir sebeple boşalan üyelik için kalan süreyi tamamlamak üzere yeni üye seçilir.
+Kurul toplantılarına mazeretsiz olarak üst üste üç defa katılmayan üyenin üyeliğine İl Sağlık Müdürlüğünce son verilir. Bu kişiler üç yıl süreyle yeniden üye olarak seçilemez. Herhangi bir sebeple boşalan üyelik için kalan süreyi tamamlamak üzere yeni üye seçilir.
 
-Hasta hakları mevzuatına aykırı davranışı tespit edilen kurul üyelerinin üyeliğine Il Sağlık Müdürlüğünce son verilir ve bunlar beş yıl süreyle yeniden üye olarak seçilemez.
+Hasta hakları mevzuatına aykırı davranışı tespit edilen kurul üyelerinin üyeliğine İl Sağlık Müdürlüğünce son verilir ve bunlar beş yıl süreyle yeniden üye olarak seçilemez.
 
 Görevleri, çalışma usul ve esasları:
 
@@ -176,13 +177,13 @@ b) Hasta iletişim birimi sorumlusu görevini, sağlık tesisi yöneticisi/ aske
 
 c) Hasta hakları konusunda eğitimi olmayan kişiler hasta iletişim birim sorumlusu olarak görevlendirilemez. Ancak sağlık tesisinde eğitim almış personel bulunmadığı hallerde şartlara uygun birim sorumlusu görevlendirilir. Sorumlunun en geç 3 ay içinde eğitim alması sağlanır. Hasta hakları eğitimi veya eğitici eğitimi sertifikası olan hasta iletişim birim sorumlularının tekrar eğitim almasına gerek yoktur.
 
-Hasta iletişim birimi sorumlusu, il koordinatörlüğü tarafindan planlanan 8 saat teorik ve 8 saat uygulamalı aşağıdaki eğitimlere tabi tutulur:
+Hasta iletişim birimi sorumlusu, il koordinatörlüğü tarafından planlanan 8 saat teorik ve 8 saat uygulamalı aşağıdaki eğitimlere tabi tutulur:
 
 T.C.
 
 ### SAĞLIK BAKANLIGI
 
-Sağhk Hizmetleri Genel Müdürlüğü TC Sağak Bakanlığı
+Sağlık Hizmetleri Genel Müdürlüğü TC Sağak Bakanlığı
 
 1- Hasta odaklı hizmet anlayışı eğitimi(hasta hekim iletişimi, Bakanlık uygulamaları, hasta hakları mevzuatı).
 
@@ -190,7 +191,7 @@ Sağhk Hizmetleri Genel Müdürlüğü TC Sağak Bakanlığı
 
 3- Hasta iletişim birimlerinde ve hasta hakları kurullarında gözlem ve uygulama eğitimi.
 
-d) Hasta iletişim birim sorumlusu, kendi isteği, tayin, istifa, sözleşme feshi, işten ayrılma sebepleri ve inceleme/soruşturma raporunda görev ve görev yeri değişikliği önerilmesi sonucunda görevden alınabilir. Bir defada kesintisiz 3 aydan fazla izne ayrılır ise yerine yeni bir görevlendirme yapılır. 3 aydan az olan resmi izin ve raporlarda kurum/kuruluş üst yöneticisi tarafindan, birim sorumlusu vasıflarına uygun personel arasından izin/rapor dönemi süresince görevlendirme yapılır.
+d) Hasta iletişim birim sorumlusu, kendi isteği, tayin, istifa, sözleşme feshi, işten ayrılma sebepleri ve inceleme/soruşturma raporunda görev ve görev yeri değişikliği önerilmesi sonucunda görevden alınabilir. Bir defada kesintisiz 3 aydan fazla izne ayrılır ise yerine yeni bir görevlendirme yapılır. 3 aydan az olan resmi izin ve raporlarda kurum/kuruluş üst yöneticisi tarafından, birim sorumlusu vasıflarına uygun personel arasından izin/rapor dönemi süresince görevlendirme yapılır.
 
 100 yatak ve üstü sağlık tesisleri ile 30 ve üstü ünit bulunan ağız ve diş sağlığı tesislerinde görevli birim sorumlusuna nöbet ve ikinci görev gibi işini aksatacak başka vazifeler verilemez. Toplum Sağlığı Merkezlerinde görevlendirilecek hasta iletişim birim sorumlularına birden fazla görev verilip verilemeyeceğine, iş yoğunluğu ve personel durumuna göre Il Halk Sağlığı Müdürü karar verir. Diğer sağlık tesislerinde, sağlık tesislerine bağlı semt polikliniklerinde, özel poliklinik ve tıp merkezlerinde görev yapan birim sorumlularına birden fazla görev verilebilir.
 
@@ -220,11 +221,11 @@ Hasta iletişim birimlerinde, hasta iletişim birim sorumlusuna bağlı bilgisay
 
 ### 4) BAŞVURU YOLLARI VE SÜREÇLERİ
 
-Hasta ve yakınları tarafından, sağlık hizmet sunucularına ilişkin başvurular https://hastahaklari.saglik.gov.tr/ internet adresine, doğrudan hasta iletişim birimine veya Il Sağlık Müdürlüğüne yapılabilir.
+Hasta ve yakınları tarafından, sağlık hizmet sunucularına ilişkin başvurular https://hastahaklari.saglik.gov.tr/ internet adresine, doğrudan hasta iletişim birimine veya İl Sağlık Müdürlüğüne yapılabilir.
 
-HBBS'ye, https://hastahaklari.saglik.gov.tr/ adresinde tanimlı olan sağlik tesislerine yönelik şikayet, sorun-çözme, görüş- öneri veya teşekkür başvurusu yapılabilir. Bu başvuru ilgili sağlık tesisi hasta iletişim birimi tarafindan işleme alınır.
+HBBS'ye, https://hastahaklari.saglik.gov.tr/ adresinde tanimlı olan sağlik tesislerine yönelik şikayet, sorun-çözme, görüş- öneri veya teşekkür başvurusu yapılabilir. Bu başvuru ilgili sağlık tesisi hasta iletişim birimi tarafından işleme alınır.
 
-### T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 TC. Sağlık Bakanlığ
 
@@ -238,11 +239,11 @@ Hasta iletişim birimine ulaşan başvurular, değerlendirildikten sonra varsa i
 
 İşlem sonucunda, şikayet süreci devam ederse; sağlık tesisi yöneticisi/askeri hastane başhekimi/mesul müdürü veya yetki devrettiği yönetici imzasıyla şikayet edilen personel ve gerekiyorsa klinik/birimden 7 gün süre verilerek konu hakkında bilgi istenir. Başvurunun birime gelmesinden itibaren 10 gün içerisinde cevabi yazı, elde edilen bilgi ve diğer belgeler HBBS ye aktarılarak sağlık tesisinin bağlı olduğu hasta hakları kurulu sekretaryasına gönderilir.
 
-Hasta iletişim birimine veya il koordinatörlüğüne tıbbi hata olarak ulaşan başvurular, kamu kurumu olması halinde sağlık tesisi yöneticiliğine/başhekimliğine; özel sağlık tesisi ise Il Sağlık Müdürlüğüne gönderilir ve durumdan başvurana bilgi verilir.
+Hasta iletişim birimine veya il koordinatörlüğüne tıbbi hata olarak ulaşan başvurular, kamu kurumu olması halinde sağlık tesisi yöneticiliğine/başhekimliğine; özel sağlık tesisi ise İl Sağlık Müdürlüğüne gönderilir ve durumdan başvurana bilgi verilir.
 
 Görüş- Öneri Başvuruları:
 
-Görüş ve öneri başvuruları, sağlık tesisi yöneticisi/askeri hastane başhekimi/mesul müdürü veya yetki devrettiği yönetici imzasıyla klinik/birimin sorumlularına gönderilir. Görüş ve öneriye ilişkin klinik/birim veya sağlık kuruluşunun cevabi bilgileri ve yapılan işlem hasta iletişim birimleri tarafindan hasta başvuru bildirim sistemine kaydedilir.
+Görüş ve öneri başvuruları, sağlık tesisi yöneticisi/askeri hastane başhekimi/mesul müdürü veya yetki devrettiği yönetici imzasıyla klinik/birimin sorumlularına gönderilir. Görüş ve öneriye ilişkin klinik/birim veya sağlık kuruluşunun cevabi bilgileri ve yapılan işlem hasta iletişim birimleri tarafından hasta başvuru bildirim sistemine kaydedilir.
 
 Teşekkür Başvuruları:
 
@@ -256,7 +257,7 @@ b) Sağlık kuruluşları personeline; iletişim, hukuki sorumluluk, etik ve has
 
 c) Hasta iletişim birimine yapılan başvurular ve kurulda görüşülen dosyalar gizlidir, hiçbir şekilde şahıslara verilemez. Bilgi ve dosyalar ancak idari soruşturma yapan muhakkikler ya da adli mercilere, resmi yazı ile istenmesi durumunda gizliliğe riayet edilerek verilir. Başvuru dosyalarının gizliliğinin sağlanmasından, sağlık tesisi yöneticileri, hasta iletişim birimi personeli, hasta hakları koordinatörlüğü personeli ve kurul üyeleri sorumludur.
 
-d) Kurul tarafindan hasta hakkı ihlali kararı verilen kamu personeli hakkında ilgili idare tarafindan mutlaka idari inceleme başlatılır. Yapılan inceleme sonucundan II Sağlık Müdürlüğüne bilgi verilir. Kamu personeli olmayanlar için Hasta Hakları Yönetmeliğinin 47 inci Maddesine göre işlem yapılır.
+d) Kurul tarafından hasta hakkı ihlali kararı verilen kamu personeli hakkında ilgili idare tarafından mutlaka idari inceleme başlatılır. Yapılan inceleme sonucundan İl Sağlık Müdürlüğüne bilgi verilir. Kamu personeli olmayanlar için Hasta Hakları Yönetmeliğinin 47 inci Maddesine göre işlem yapılır.
 
 e) Sağlık tesisleri, kurul kararlarının gereğini yerine getirir ve yapılan işlemler sonucundan kurula bilgi verir.
 

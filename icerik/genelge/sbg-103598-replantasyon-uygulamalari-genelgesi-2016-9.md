@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103598/replantasyon-uygulamalari-genelgesi-20169.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.38. Replantasyon Uygulamaları Genelgesi (2016/9)
@@ -30,13 +31,13 @@ TC Sağk Bakaniğı Sağlık Hizmetleri Genel Müdürlüğü Carel Madoriago SIc
 
 7-Sevk ve nakillerde Acil Sağlık Hizmetleri Çağrı Kayıt ve Operasyon Yönetim Sistemindeki güncellenmiş en son veriler esas alınacaktır. Bu nedenle, Ek-1 listede yer alan sağlık tesisleri; görevli replantasyon ekibinin ve ameliyathanenin durumunu, ilgili klinik, yoğun bakım servisi ile ilgili boş- dolu yatak ve cihazlara ait bilgileri, ayrıca birden fazla replantasyon vakasının aynı anda aynı tesiste kabulüne meydan verilmemesi ve vaka çakışmasının önlenmesi bakımından operasyona alınan vakaların anında Il Ambulans Servisi Başhekimliği Komuta Kontrol Merkezine bildirmekle ve günün her saatinde güncel tutmakla yükümlüdür.
 
-8- Replantasyon uygulamalarında ilgili birim, kurum ve kuruluşlar arasındaki eşgüdüm ve koordinasyonun sağlanmasından; Bakanlık merkezinde, Sağlık Hizmetleri Genel Müdürlüğü, illerde sağhk müdürlükleri sorumlu ve yetkilidir. Merkezde Türkiye Kamu Hastaneleri Kurumu, ilerde genel sekreterlikler replantasyon hizmetlerinin kendisine bağlı sağlık tesislerinde kesintisiz ve aksaklığa sebebiyet verilmeksizin sunulmasından sorumlu olup personel, teknik-tıbbi donanım, fiziki altyapı ve benzeri hizmet unsurlarını zamanında ve noksansız olarak sağlamakla ve hizmetin idamesi için gerekli tedbirleri önceden almakla yükümlüdür. Acil Sağlık Hizmetleri Genel Müdürlüğü ve illerde Il Ambulans Servisi Başhekimliği Komuta Kontrol Merkezleri, replantasyon vakalarının sevk ve nakil işlemlerinin Genelge hükümlerine göre yürütülmesi, vakaların sevk bilgilerine ait kayıt ve istatistiklerin doğru ve noksansız olarak tutulması, uygunsuz ve gereksiz sevklerin tespiti, değerlendirilmesi ve istenildiğinde ilgili birimlere bildirimini sağlamakla yükümlüdür. Aynı şekilde Üniversitelere ve özel sektöre ait sağlık tesislerinin yöneticileri/ mesul müdürleri ile Ek-1 Listedeki sağlık tesislerinde görevli replantasyon ekipleri de replantasyon hizmetlerinin, bu Genelge hükümlere uygun olarak sunulmasından birinci derecede ve
+8- Replantasyon uygulamalarında ilgili birim, kurum ve kuruluşlar arasındaki eşgüdüm ve koordinasyonun sağlanmasından; Bakanlık merkezinde, Sağlık Hizmetleri Genel Müdürlüğü, illerde sağlık müdürlükleri sorumlu ve yetkilidir. Merkezde Türkiye Kamu Hastaneleri Kurumu, ilerde genel sekreterlikler replantasyon hizmetlerinin kendisine bağlı sağlık tesislerinde kesintisiz ve aksaklığa sebebiyet verilmeksizin sunulmasından sorumlu olup personel, teknik-tıbbi donanım, fiziki altyapı ve benzeri hizmet unsurlarını zamanında ve noksansız olarak sağlamakla ve hizmetin idamesi için gerekli tedbirleri önceden almakla yükümlüdür. Acil Sağlık Hizmetleri Genel Müdürlüğü ve illerde Il Ambulans Servisi Başhekimliği Komuta Kontrol Merkezleri, replantasyon vakalarının sevk ve nakil işlemlerinin Genelge hükümlerine göre yürütülmesi, vakaların sevk bilgilerine ait kayıt ve istatistiklerin doğru ve noksansız olarak tutulması, uygunsuz ve gereksiz sevklerin tespiti, değerlendirilmesi ve istenildiğinde ilgili birimlere bildirimini sağlamakla yükümlüdür. Aynı şekilde Üniversitelere ve özel sektöre ait sağlık tesislerinin yöneticileri/ mesul müdürleri ile Ek-1 Listedeki sağlık tesislerinde görevli replantasyon ekipleri de replantasyon hizmetlerinin, bu Genelge hükümlere uygun olarak sunulmasından birinci derecede ve
 
 T.C.
 
-### SAGLIK BAKANLIĞI
+### SAĞLIK BAKANLIĞI
 
-TC Sağlk Bakariğ: Sağhk Hizmetleri Genel Müdürlüğü
+TC Sağlk Bakariğ: Sağlık Hizmetleri Genel Müdürlüğü
 
 Saga Hossitvi Sayı : 83913885
 
@@ -46,7 +47,7 @@ Prof. Dr. Recep AKDAO
 
 Bakan 1-Replantasyon Yapabilecek Merkezler Listesi 2-Doğrudan başvuran hastaların sevk algoritması 3-112 KKM sevk algoritması Dağıtım Bilgi
 
-- 81 İl Valiligine (İ1 Sağhk Müdürlüğü) - SGK Başkanlığına
+- 81 İl Valiliğine (İ1 Sağlık Müdürlüğü) - SGK Başkanlığına
 
 - YÖK Başkanlığına
 

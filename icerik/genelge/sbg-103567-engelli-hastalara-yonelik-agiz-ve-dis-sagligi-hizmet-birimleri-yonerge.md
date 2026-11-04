@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103567/engelli-hastalara-yonelik-agiz-ve-dis-sagligi-hizmet-birimleri-yonergesi-20223.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.13.Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Yönergesi (2022/3)
@@ -18,11 +19,11 @@ Sayı : 67029623-199 Konu : Engelli Hastalara Yönelik Ağız ve Diş
 
 Sağlığı Hizmet Birimleri
 
-Engelli hastalara ağız ve diş sağlığı hizmeti vermek üzere kurulmuş birimlerin bir yıl içerisinde Genelge hükümlerine uygun hale getirilmesi, sağlık tesisinin faaliyet izin belgesine eklenmek üzere Il Sağlık Müdürlüğünün uygun görüşünün Genel Müdürlüğümüze bildirilmesi ile birimlerin işleyişi ve engelli hastalara yönelik ağız ve diş sağlığı hizmetlerinin bu Genelge hükümlerine uygun olarak etkili bir şekilde Müdürlüklerince yürütülmesi hususlarında;
+Engelli hastalara ağız ve diş sağlığı hizmeti vermek üzere kurulmuş birimlerin bir yıl içerisinde Genelge hükümlerine uygun hale getirilmesi, sağlık tesisinin faaliyet izin belgesine eklenmek üzere İl Sağlık Müdürlüğünün uygun görüşünün Genel Müdürlüğümüze bildirilmesi ile birimlerin işleyişi ve engelli hastalara yönelik ağız ve diş sağlığı hizmetlerinin bu Genelge hükümlerine uygun olarak etkili bir şekilde Müdürlüklerince yürütülmesi hususlarında;
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof.-Dr. Sabalattin AYDIN
+Prof. Dr. Sabahattin AYDIN
 
 Bakan a.
 
@@ -62,19 +63,19 @@ e) Tibbi alanlara ilave olarak, hekimler için dinlenme odası, personel soyunma
 
 4) Personel Standardı:
 
-a) Engelli hastalara yönelik ağız ve diş sağlığı birimlerinde görev yapacak hekim ve diğer personelin görevlendirmesi mevzuatına uygun olarak idare tarafindan yapıhır.
+a) Engelli hastalara yönelik ağız ve diş sağlığı birimlerinde görev yapacak hekim ve diğer personelin görevlendirmesi mevzuatına uygun olarak idare tarafından yapıhır.
 
-b) İdare tarafindan bir hekim veya diş hekimi sorumlu hekim olarak birimde görevlendirilir.
+b) İdare tarafından bir hekim veya diş hekimi sorumlu hekim olarak birimde görevlendirilir.
 
 c) Birimdeki hizmetler; sorumlu hekimin denetim ve sorumluluğunda, diş hekimi, hemşire, tıbbi sekreter, idari ve teknik personel, temizlik personeli ile diğer unvanlarda personel ile yürütülür.
 
-d) Ünitenin açılacağı sağlık tesisinde genel anestezi işlemlerinin yapılabilmesi için ilgili personelin (anesteziyoloji ve reanimasyon uzmanı, yardımcı sağlık personeli vb.) görevlendirilmesi Il Sağlık Müdürlüğünce sağlanır.
+d) Ünitenin açılacağı sağlık tesisinde genel anestezi işlemlerinin yapılabilmesi için ilgili personelin (anesteziyoloji ve reanimasyon uzmanı, yardımcı sağlık personeli vb.) görevlendirilmesi İl Sağlık Müdürlüğünce sağlanır.
 
 e) Merkezin açılacağı sağlık tesisinde konsültasyon ve genel anestezi işlemlerinin yapılabilmesi için en az birer kardiyoloji uzmanı, çocuk sağlığı ve hastalıkları uzmanı, nöroloji uzmanı, anesteziyoloji ve reanimasyon uzmanı ve iç hastalıkları uzmanı bulunmalıdır.
 
-f) Merkezde yapılacak müdahalelerde yatış gerektiren hastaların takibi için idare tarafindan görevli branş hekimi belirlenir.
+f) Merkezde yapılacak müdahalelerde yatış gerektiren hastaların takibi için idare tarafından görevli branş hekimi belirlenir.
 
-g) Birimde görevli sorumlu hekim, bu birimdeki görevinin yanı sıra poliklinik, ameliyat ve nöbet hizmetlerini de yürütebilir. Diğer sağlık personeli ihtiyaca göre idare tarafindan kurumun diğer birimlerinde de çalıştırılabilir ve nöbet hizmetlerine dâhil edilebilir.
+g) Birimde görevli sorumlu hekim, bu birimdeki görevinin yanı sıra poliklinik, ameliyat ve nöbet hizmetlerini de yürütebilir. Diğer sağlık personeli ihtiyaca göre idare tarafından kurumun diğer birimlerinde de çalıştırılabilir ve nöbet hizmetlerine dâhil edilebilir.
 
 h) Çalışma düzeni ve saatleri ilgili mevzuatı çerçevesinde sorumlu hekimin teklifi ve idarenin onayı ile belirlenir.
 
@@ -82,7 +83,7 @@ h) Çalışma düzeni ve saatleri ilgili mevzuatı çerçevesinde sorumlu hekimi
 
 a) Sağlık tesisine gelmesi zor olan hastaların geliş sayısını azaltabilmek amacıyla; ihtiyaç halinde hastanın durum değerlendirmesi ve tedavi planlamasını yapmak üzere evde sağlık hizmetleriyle iş birliği yapılarak hastanın yerinde muayenesi yapılmalıdır.
 
-b) Hastanın sağlık kuruluşu içerisindeki tetkik, tedavi ve konsültasyon işlemlerinde veya iş birliği yapılan sağlık kuruluşuna sevki durumunda, hastaya refakat etmek üzere idare tarafindan bir yardımcı personel görevlendirilir.
+b) Hastanın sağlık kuruluşu içerisindeki tetkik, tedavi ve konsültasyon işlemlerinde veya iş birliği yapılan sağlık kuruluşuna sevki durumunda, hastaya refakat etmek üzere idare tarafından bir yardımcı personel görevlendirilir.
 
 c) Yoğun bakım ihtiyacı olan hastaların idame tedavileri mümkünse aynı sağlık kuruluşu içerisinde, değilse en yakın sağlık kuruluşunda devam ettirilir.
 
@@ -90,9 +91,9 @@ d) Il sağlık müdürlüğü veya sağlık tesislerindeki evde sağlık hizmeti
 
 e) Acil durumlarda hasta, sağlık kuruluşunun kendi ambulansı veya 112 acil sağlık hizmetleri ambulansı ile nakledilir.
 
-1) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin yapıldığı polikliniklerde, genel anestezi altında yapılması planlanan dental işlemler için Il Sağlık Müdürlüğünce koordinasyon sağlanarak gerekli tahlil, tetkik, anestezi ve yatış hizmetlerini kapsayan kurumlar arası iş birliği protokolü düzenlenebilir.
+1) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin yapıldığı polikliniklerde, genel anestezi altında yapılması planlanan dental işlemler için İl Sağlık Müdürlüğünce koordinasyon sağlanarak gerekli tahlil, tetkik, anestezi ve yatış hizmetlerini kapsayan kurumlar arası iş birliği protokolü düzenlenebilir.
 
-g) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel anestezi altında günübirlik dental işlemlerin yapıldığı ünitelerde, hastadan işlem öncesinde istenecek konsültasyon, tahlil ve tetkiklerin yapılması amacıyla Il Sağlık Müdürlüğünce kurumlar arasında iş birliği ve koordinasyon sağlanır.
+g) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel anestezi altında günübirlik dental işlemlerin yapıldığı ünitelerde, hastadan işlem öncesinde istenecek konsültasyon, tahlil ve tetkiklerin yapılması amacıyla İl Sağlık Müdürlüğünce kurumlar arasında iş birliği ve koordinasyon sağlanır.
 
 h) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel anestezi altında günübirlik ve yatış gerektiren dental işlemlerin yapıldığı merkezlerde, günübirlik taburcu olabilecek işlemlerde, hastanın yatışı sorumlu hekim veya sorumlu hekimin belirleyeceği diş hekimi üzerine yapılır. Yatış gerektirecek işlemlerde idarenin uygun göreceği serviste (18 yaş altı hastanın yatışı tercihen çocuk sağlığı ve hastalıkları, 18 yaş üstü hastanın yatışı ise tercihen nöroloji ya da iç hastalıkları servisi) görevli branş hekimi üzerine yatış yapılır. Tedavi planı, ilgili anesteziyoloji ve reanimasyon uzmanı ve diş hekimi tarafından düzenlenir. Yatış yapılan servisteki görevli branş hekimi koordineli bir şekilde bu tedavi planını uygular.
 

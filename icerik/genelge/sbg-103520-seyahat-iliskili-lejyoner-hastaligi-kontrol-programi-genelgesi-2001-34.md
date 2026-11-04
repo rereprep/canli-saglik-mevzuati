@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103520/seyahat-iliskili-lejyoner-hastaligi-kontrol-programi-genelgesi-200134.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.22. Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı Genelgesi (2001/34)
@@ -34,7 +35,7 @@ Insanlarda Legionella Enfeksiyonları
 
 Lejyoner hastalığındaki belirgin klinik özellik pnömonidir. Etkene maruz kalınmasından 2-10 gün içinde, klinik tablo ortaya çıkar. Yüksek ateş (>38,5°C), başağrısı ve myaljı, ilk semptomlar olarak görülür. Sonrasında gelişen pnömoni ve plöreziye göğüs ağrısı eşlik edebilir. Olguların 1/3'ünde gastroenterit ve kusma gibi bulgular, % 50'sinde mental veya nörolojik bulgular ortaya çıkar. Hastalar genellikle 3-6 gün içinde hastanelere başvururlar ve % 15-20'si ölümle sonuçlanır.
 
-Epidemiyoloji Legionellaların enfeksiyon zinciri dört halkadan oluşmaktadır. Bunlar;
+Eepidemiyoloji Legionellaların enfeksiyon zinciri dört halkadan oluşmaktadır. Bunlar;
 
 1. Legionella cinsi bakterilerin doğal ortamı (nehirler, göller, termal sular, çamurlar ve kaynak suları).
 
@@ -102,7 +103,7 @@ Yukarıda belirtilen Standart Vaka Tanımına uyan vakaları bildirmekten bütü
 
 ### VAKA SÜRVEYANSINDA SORUMLULUKLARIN DAĞILIMI
 
-Temel Sağlık Hizmetleri Refik Saydam Hızısıhha Genel Müdürlüğü Merkezi Başkanlığı Bulaşıcı Hastalıklar Ulusal Legionella Daire Başkanlığı Referans Laboratuarı Il Sağlık Müdürlüğü İl Halk Sağlığı Lab. veya Bulaşıcı Hastalıklar Bölge Hızısıhha Enstitüleri Şube Müdürlüğü Il Genelindeki Hastane Laboratuvarları Gögus Hastalıkları İç Hastalıkları ve Enfeksiyon Hastalıkları Uzmanları
+Temel Sağlık Hizmetleri Refik Saydam Hızısıhha Genel Müdürlüğü Merkezi Başkanlığı Bulaşıcı Hastalıklar Ulusal Legionella Daire Başkanlığı Referans Laboratuarı İl Sağlık Müdürlüğü İl Halk Sağlığı Lab. veya Bulaşıcı Hastalıklar Bölge Hızısıhha Enstitüleri Şube Müdürlüğü Il Genelindeki Hastane Laboratuvarları Gögus Hastalıkları İç Hastalıkları ve Enfeksiyon Hastalıkları Uzmanları
 
 -→ Vaka Sürveyansının çalışmasındaki esas sorumlular **** Vaka sürveyansında laboratuar kullanımı
 
@@ -116,7 +117,7 @@ Diğer solunum yolu örnekleri; kesin tanı açısından çok değerli olan kül
 
 Serum örneği; hastadan sitratsız olarak alınan kan, steril şartlarda ayrıldıktan sonra serum kısmı ağzı sıkıca kapalı bir tüp içinde, 48 saat içinde, soğuk zincir ile laboratuara gönderilmelidir. Serumun ayrılamadığı durumlarda kan örneği de gönderilebilir ancak hemoliz olmamasına dikkat edilmelidir. Incelemeler için 1-2 cc. serum yeterlidir. Kesin tanı için çift serum örneğinde titre artışının gösterilmesi önemli olduğundan 4-6 hafta sonra yeniden serum alınmalı ve incelenmelidir.
 
-Vaka tespitinde yalnızca klinik tanımlama göz önüne alındığında, bütün pnömoni olgularının potansiyel olarak Lejyoner Hastalığı yönünden değerlendirilmesi gerektiği gibi bir sonuç ortaya çıkmaktadır. Böyle bir durum hastalık için yürütülen Kontrol Programını işlemez hale getirebilir. Bu nedenle vaka araştırmasında Klinik tanımlama ile hastalığın pidemiyolojik özellikleri beraber sorgulanmalı ve uyumlu olan vakalar laboratuar incelemesine alınmalıdır. Vaka bildirimi, sorgulaması ve izleminde aşağıdaki akış şeması dikkate alınmalıdır.
+Vaka tespitinde yalnızca klinik tanımlama göz önüne alındığında, bütün pnömoni olgularının potansiyel olarak Lejyoner Hastalığı yönünden değerlendirilmesi gerektiği gibi bir sonuç ortaya çıkmaktadır. Böyle bir durum hastalık için yürütülen Kontrol Programını işlemez hale getirebilir. Bu nedenle vaka araştırmasında Klinik tanımlama ile hastalığın eepidemiyolojik özellikleri beraber sorgulanmalı ve uyumlu olan vakalar laboratuar incelemesine alınmalıdır. Vaka bildirimi, sorgulaması ve izleminde aşağıdaki akış şeması dikkate alınmalıdır.
 
 Hastaya ön tanı koyan hekim tarafından izlenecek akış şeması Vaka pnömoni mi?
 
@@ -134,7 +135,7 @@ Hastaya ön tanı koyan hekim tarafından izlenecek akış şeması Vaka pnömon
 
 ### POZİTİF
 
-Klinik gözlem ve pidemiyolojik
+Klinik gözlem ve eepidemiyolojik
 
 bulgular (otelde konaklama öyküsü İl Sağlık Müdürlüğü'ne haber ve/veya diğer risk faktörlerinin
 
@@ -144,7 +145,7 @@ bulgular (otelde konaklama öyküsü İl Sağlık Müdürlüğü'ne haber ve/vey
 
 alnan kan numunelerini, "Referans Laboratuar Inceleme Formu" doldurarak Il
 
-Sağlık Müdürlüğü kanalı ile Referans Merkezi'ne gönderin. Il Sağlık Müdürlüğü tarafından izlenecek akış şeması
+Sağlık Müdürlüğü kanalı ile Referans Merkezi'ne gönderin. İl Sağlık Müdürlüğü tarafından izlenecek akış şeması
 
 Doğrulama Merkezinden gelen Legionella NEGATİF
 
@@ -158,7 +159,7 @@ Vaka tespiti, numune alımı ile beraber yürütülmesi gereken en önemli çal�
 
 - Çevresel Sürveyans
 
-Seyahat Ilişkili Lejyoner Hastalığı Kontrol Programı kapsamında yapılacak olan çevresel sürveyans, vaka sürveyansını desteklemeye yönelik bir çalışmadır. Bu amaçla vaka bildirilen konaklama tesislerinde yapılması gereken çalışmalar aşağıda açıklanmaktadır. Bu çalışmalar, Il Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şube Müdürlüğü ve Gıda ve Çevre Kontrol Şube Müdürlüğü tarafindan ortaklaşa yürütülecektir.
+Seyahat Ilişkili Lejyoner Hastalığı Kontrol Programı kapsamında yapılacak olan çevresel sürveyans, vaka sürveyansını desteklemeye yönelik bir çalışmadır. Bu amaçla vaka bildirilen konaklama tesislerinde yapılması gereken çalışmalar aşağıda açıklanmaktadır. Bu çalışmalar, İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şube Müdürlüğü ve Gıda ve Çevre Kontrol Şube Müdürlüğü tarafindan ortaklaşa yürütülecektir.
 
 Vaka ihbar edilen konaklama tesisine ilk gidiste_sırası ile yapılması gereken işlemler :
 
@@ -182,7 +183,7 @@ Vaka ihbar edilen konaklama tesisine ilk gidiste_sırası ile yapılması gereke
 
 Gerek su sıcaklığının arttırılması, gerekse hiperklorinasyon o sırada tesiste bulunanlar açısından riskli ve rahatsızlık verici çalışmalardır. Otel işletmesi, suyun sıcaklığının yanıklara vol açabileceği hususunda müşterilerini uyarmalı, yoğun klor kokusu hakkında bilgi vermelidir.
 
-Özellikle vaka yada salgın ihbarı durumlarında otel işletmesinin endişeye ve hatta paniğe kapıldığı; bu nedenle henüz kaynak araştırması için su örneklemesi yapılmamışken dezenfeksiyon çalışmalarımın uygulandığı gözlenmiştir. Bu, pidemiyolojik açıdan önemli bir bilgiyi -legionella bakterisinin sistemde kolonize olup olmadığına dair bilgiyi- kaybetmemize neden olmaktadır. Vaka veya salgının, ihbar edilen otel ile bağlantılı olduğuna dair güçlü bir kanaat varsa laboratuar bulgusunun menfi çıkması bunu değiştirmez; tam tersine laboratuar sonucunun güvenirliği hakkında kuşku doğurur veya ihbar üzerine su örneklerine müdahale edildiği akla gelir. Bu nedenle sonucu yanıltıcı çabalardan kaçınılmalı, sürveyansa yardımcı olunmalıdır.
+Özellikle vaka yada salgın ihbarı durumlarında otel işletmesinin endişeye ve hatta paniğe kapıldığı; bu nedenle henüz kaynak araştırması için su örneklemesi yapılmamışken dezenfeksiyon çalışmalarımın uygulandığı gözlenmiştir. Bu, eepidemiyolojik açıdan önemli bir bilgiyi -legionella bakterisinin sistemde kolonize olup olmadığına dair bilgiyi- kaybetmemize neden olmaktadır. Vaka veya salgının, ihbar edilen otel ile bağlantılı olduğuna dair güçlü bir kanaat varsa laboratuar bulgusunun menfi çıkması bunu değiştirmez; tam tersine laboratuar sonucunun güvenirliği hakkında kuşku doğurur veya ihbar üzerine su örneklerine müdahale edildiği akla gelir. Bu nedenle sonucu yanıltıcı çabalardan kaçınılmalı, sürveyansa yardımcı olunmalıdır.
 
 10. Konaklama tesisinde bu çalışmaları yerine getirdikten sonra, Ek 6'da verilen iLegionella Bakterisinin Tesislere Yerleşmesini Engelemek Için Alnacak Rutin Onlemler Listesi ve Taahhütnamesi" işletme sorumlusuna verilir ve 15 gün sonra yapılacak inceleme sırasında Taahhütnamenin imzalı olarak geri alınacağı bildirilir.
 
@@ -208,8 +209,8 @@ Vakaların teşhisi için hastanelerde bulundurulması gereken test LEGİONELLA
 
 IMMUNOCHROMOTORAPHIC TEST'dir. Bu test yaklaşık 15 dakika içinde sonuç vermektedir.
 
-Vaka sürveyansında doğrulayıcı analizler için referans merkezi, Ankara Refik Saydam Hıfzısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarıdır. Bu laboratuara gönderilecek numuneler Il Sağhk Müdürlüğü kanalı ile gönderilecek ve ücret ödenmeyecektır.
+Vaka sürveyansında doğrulayıcı analizler için referans merkezi, Ankara Refik Saydam Hıfzısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarıdır. Bu laboratuara gönderilecek numuneler İl Sağlık Müdürlüğü kanalı ile gönderilecek ve ücret ödenmeyecektır.
 
-Cevresel Sürvevansda Laboratuar Hizmetleri : vaka çıkan konaklama tesislerinden ilk ziyaret esnasında alınan su örnekleri Ankara Refik Saydam Hıfzısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarı, Istanbul, Izmir ve Antalya Bölge Hıfzisıhha Enstitüsü Laboratuarları ve Muğla Il Halk Sağlığı Laboratuarı tarafindan incelenecektir. Konaklama tesisinin bulunduğu il, yukarıdaki illerden başka bir il ise, kendisine en yakın olan ismi sayılan laboratuarlardan birinden yararlanacaktır. Konaklama tesislerinden su örnekleri Il Sağlık Müdürlüğü Çevre Sağlığı ve Gıda Kontrol Şube Müdürlüğü tarafından alınacak ve laboratuara götürülecektir. Laboratuarlar vaka bildirilen konaklama tesislerinden çevresel sürveyans için ahınan ilk su örneklerinin incelenmesi için kesinlikle ücret talep etmeyeceklerdir. Konaklama tesislerinin şahsi başvuruları ve vaka çıkan konaklama tesislerinden alınacak ikinci ve daha sonraki incelemeler için, konaklama tesisi İşletmecisi bütün masrafları karşılayacaktır.
+Cevresel Sürvevansda Laboratuar Hizmetleri : vaka çıkan konaklama tesislerinden ilk ziyaret esnasında alınan su örnekleri Ankara Refik Saydam Hıfzısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarı, Istanbul, Izmir ve Antalya Bölge Hıfzisıhha Enstitüsü Laboratuarları ve Muğla Il Halk Sağlığı Laboratuarı tarafindan incelenecektir. Konaklama tesisinin bulunduğu il, yukarıdaki illerden başka bir il ise, kendisine en yakın olan ismi sayılan laboratuarlardan birinden yararlanacaktır. Konaklama tesislerinden su örnekleri İl Sağlık Müdürlüğü Çevre Sağlığı ve Gıda Kontrol Şube Müdürlüğü tarafından alınacak ve laboratuara götürülecektir. Laboratuarlar vaka bildirilen konaklama tesislerinden çevresel sürveyans için ahınan ilk su örneklerinin incelenmesi için kesinlikle ücret talep etmeyeceklerdir. Konaklama tesislerinin şahsi başvuruları ve vaka çıkan konaklama tesislerinden alınacak ikinci ve daha sonraki incelemeler için, konaklama tesisi İşletmecisi bütün masrafları karşılayacaktır.
 
 Çevresel sürveyans için alıan su örneklerinin incelenmesinde herhangi bir aksama veya sorun olduğu taktirde referans merkezi, Ankara Refik Saydam Hızısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarıdır. Bu laboratuarda yapılacak referans çalışmaların masraflarının tamamı konaklama tesisinin işletmecisi tarafindan karşılanacaktır.

@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103597/premature-retinopatisi-rop-hizmetleri-genelgesi-20212.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.35. Prematüre Retinopatisi (ROP) Hizmetleri Genelgesi (2021/2)
@@ -36,9 +37,9 @@ Bu Genelge, bünyesinde ROP tanı merkezi veya ROP tanı ve tedavi merkezi bulun
 
 .ROP merkezleri, bünyelerinde verilen hizmete göre ROP tanı merkezi ve ROP tanı ve tedavi merkezi şeklinde sınıflandırılır.
 
-ROP merkezlerindeki yoğun bakım hizmetleri, 20/07/2011 tarihli ve 28000 sayılı Resmi Gazete'de yayımlanan Yataklı Sağlık Tesislerinde Yoğun Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ kapsamında yürütülür.
+ROP merkezlerindeki yoğun bakım hizmetleri, 20/07/2011 tarihli ve 28000 sayılı Resmî Gazete'de yayımlanan Yataklı Sağlık Tesislerinde Yoğun Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ kapsamında yürütülür.
 
-ROP merkezlerindeki acil sevk ve nakil işlemlerinde 16/10/2009 tarihli ve 27378 sayılı Resmi Gazete'de yayımlanan Yataklı Sağlık Tesislerinde Acil Sağlık Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ hükümleri esas alınır.
+ROP merkezlerindeki acil sevk ve nakil işlemlerinde 16/10/2009 tarihli ve 27378 sayılı Resmî Gazete'de yayımlanan Yataklı Sağlık Tesislerinde Acil Sağlık Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ hükümleri esas alınır.
 
 Bakanlığımızca gerektiğinde ROP merkezlerinden bilgi istenebilir. İstenilen bilgiler, Bakanlığımızın belirlediği formatta uygun şekilde elektronik sistem üzerinde kayıt
 
@@ -78,17 +79,17 @@ Merkezi kurulmasına karar verilen sağlık tesisinde ilgili merkezin kurulması
 
 4.1. ROP merkezleri, faaliyet izni ile kurulur.
 
-4.2. Faaliyet izni için ROP merkezlerine ait başvuru, sağlık tesisi yöneticisi tarafindan Ek-1 de yer alan "Faaliyet Izni Başvuru Formu" ile birlikte il sağlık müdürlügüne yapılır.
+4.2. Faaliyet izni için ROP merkezlerine ait başvuru, sağlık tesisi yöneticisi tarafından Ek-1 de yer alan "Faaliyet Izni Başvuru Formu" ile birlikte il sağlık müdürlügüne yapılır.
 
 ### Başvuru, il sağlık müdürlüğünce incelenir ve bu Genelgeye göre oluşturulan
 
 denetim ekibince yerinde inceleme yapılır.
 
-### Il sağlık müdürluğünün uygun görüşü ile birlikte başvuru dosyası, Sağlık
+### Il sağlık müdürlüğünün uygun görüşü ile birlikte başvuru dosyası, Sağlık
 
 Bakanlığına iletilir.
 
-### Başvuru Sağlık Bakanlığı tarafindan uygun bulunması halinde, faaliyet izin
+### Başvuru Sağlık Bakanlığı tarafından uygun bulunması halinde, faaliyet izin
 
 belgesi düzenlenir.
 
@@ -100,7 +101,7 @@ belgesi düzenlenir.
 
 hizmetleri başkanının veya sağlık hizmetleri başkan yardımcısının başkanlığında bir neonatoloji uzmanı ile bir göz hastalıkları uzmanının katılımı ile denetim ekibi oluşturulur. Neonatoloji uzmanının olmadığı illerde yerine çocuk sağlığı ve hastalıkları uzmanı denetim ekibine dahil edilir.
 
-### T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
 
 ROP merkezleri sevk usul ve esasları
 

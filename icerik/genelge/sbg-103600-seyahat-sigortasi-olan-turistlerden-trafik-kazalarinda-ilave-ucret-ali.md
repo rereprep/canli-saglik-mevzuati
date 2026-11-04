@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103600/seyahat-sigortasi-olan-turistlerden-trafik-kazalarinda-ilave-ucret-alinabilmesi-hakkinda-genelge-20139.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.28. Seyahat Sigortası Olan Turistlerden Trafik Kazalarında İlave Ücret Alınabilmesi Hakkında Genelge (2013/9)

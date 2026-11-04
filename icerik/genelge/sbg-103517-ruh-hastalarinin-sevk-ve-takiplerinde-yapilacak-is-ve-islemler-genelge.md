@@ -8,13 +8,12 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103517/ruh-hastalarinin-sevk-ve-takiplerinde-yapilacak-is-ve-islemler-genelgesi-201402.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.48. Ruh Hastalarının Sevk ve Takiplerinde Yapılacak İş ve İşlemler Genelgesi (2014/02)
 
-(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393) (cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393)(cid:393) (cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404) (cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) ( / )
-
-### T.C. SAĞLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu Başkanlığı
+[?]
 
 Sayı : 23859870 - Konu : Genelge Değişikliği
 
@@ -40,7 +39,7 @@ Müsteşar EK: RS Formları (10,20,30) (4 Sayfa)
 
 ### DAĞITIM:
 
-81 Il Valiliği -II Sağhk Müdürlükleri,
+81 Il Valiliği -II Sağlık Müdürlükleri,
 
 -Halk Sağlığı Müdürlukleri,
 

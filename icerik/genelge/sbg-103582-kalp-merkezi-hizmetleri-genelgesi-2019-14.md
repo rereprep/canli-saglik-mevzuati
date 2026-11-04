@@ -8,15 +8,16 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103582/kalp-merkezi-hizmetleri-genelgesi-201914.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.36. Kalp Merkezi Hizmetleri Genelgesi (2019/14)
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
+T.C. SAĞLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
 
-### SAGLIK HIZMETLERE GENEL MUDORLUGO EK-1 KALP MERKEZLERİNE ILIŞKİN USUL VE ESASLAR 1. GENEL ESASLAR
+### SAĞLIK HIZMETLERE GENEL MUDORLUGO EK-1 KALP MERKEZLERİNE ILIŞKİN USUL VE ESASLAR 1. GENEL ESASLAR
 
 1.1. Bu genelge kamu, üniversite ve özel sektöre ait tüm sağlık tesislerini kapsar.
 
@@ -34,7 +35,7 @@ T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
+T.C. SAĞLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
 
 ### SAGLIC HIZMETLERI GENEL MUDURLUGU
 
@@ -46,7 +47,7 @@ damar cerrahisi ameliyat salonu bulunabilir. Bu merkezlerden yıllık 250 açık
 
 2.4. Bünyesinde kalp merkezi bulunan hastaneler Bakanlıkça yıllık olarak değerlendirilir. Her bir kalp merkezinde yıllık en az 100 açık kalp cerrahisi ve 1.000 adet tanı ve tedavi amaçlı koroner anjiyografi yapılması idealdir ancak daha az sayıda vaka bulunan merkezler birinci yılın sonunda uyarılır, üst üste iki yıl yeterli sayıya ulaşamayan merkezin yetkisi Bakanlıkça
 
-2.5. Tanı ve tedavi amaçlı yapılan koroner anjiyografilerde yıllık %25'den daha fazla negatif sonuç çıkması veya yapılan tüm invaziv girişimlerde beklenen mortalitenin yüksek çıkması ve/veya yapılan açık kalp cerrahisinde ise Euroscore Il'e ve/veya Bakanlıkça kabul edilen güncel skorlama sistemlerine göre beklenen mortaliteden yüksek olması halinde Bakanlık tarafından yerinde değerlendirme yapılır. Bu merkezler birinci yılın sonunda uyarılır, üst üste iki yıl yukardaki kriterleri sağlayamayan merkezin yetkisi Bakanlıkça iptal edilir. Merkezde çalışan ilgili hekimler hakkında uyarı verme, yetki kısıtlaması veya faaliyet yetkisi sonlandırılması işlemleri Bakanlık yetkisindedir. Kalp merkezinde faaliyet yetkisi sonlandırılan uzman hekimler Bakanlığın onayladığı merkezlerde deneyimini artırdığını belgelemek ve bu belgenin Kalp ve Damar Hastalıkları Bilimsel Çalışma ve Değerlendirme Komisyonu tarafindan onaylanması halinde söz konusu faaliyetlerine devam edebilir. Bu konuda yapılacak denetimlerle ilgili usul ve esaslar Bakanlıkça ayrıca yayımlanır.
+2.5. Tanı ve tedavi amaçlı yapılan koroner anjiyografilerde yıllık %25'den daha fazla negatif sonuç çıkması veya yapılan tüm invaziv girişimlerde beklenen mortalitenin yüksek çıkması ve/veya yapılan açık kalp cerrahisinde ise Euroscore Il'e ve/veya Bakanlıkça kabul edilen güncel skorlama sistemlerine göre beklenen mortaliteden yüksek olması halinde Bakanlık tarafından yerinde değerlendirme yapılır. Bu merkezler birinci yılın sonunda uyarılır, üst üste iki yıl yukardaki kriterleri sağlayamayan merkezin yetkisi Bakanlıkça iptal edilir. Merkezde çalışan ilgili hekimler hakkında uyarı verme, yetki kısıtlaması veya faaliyet yetkisi sonlandırılması işlemleri Bakanlık yetkisindedir. Kalp merkezinde faaliyet yetkisi sonlandırılan uzman hekimler Bakanlığın onayladığı merkezlerde deneyimini artırdığını belgelemek ve bu belgenin Kalp ve Damar Hastalıkları Bilimsel Çalışma ve Değerlendirme Komisyonu tarafından onaylanması halinde söz konusu faaliyetlerine devam edebilir. Bu konuda yapılacak denetimlerle ilgili usul ve esaslar Bakanlıkça ayrıca yayımlanır.
 
 2.6. Ülkemizin kalp ve damar hastalıklarının insidansı, prevalansı, coğrafi yapısı, nüfus hareketleri, yetişmiş sağlık insan gücü ve güncel uluslararası kılavuzlar da göz önüne alınarak yapılan değerlendirmeler neticesinde sağlık hizmet bölgelerinde her 500 bin nüfusa bir merkez olacak şekilde bir kalp merkezi planlanır. Bölge merkezi illerde ise her 300 bin nüfusa bir merkez planlanır.
 
@@ -68,21 +69,21 @@ yapılan kalp merkezlerinde yıllık 100'den az açık kalp cerrahisi ameliyatı
 
 2.8. Kalp merkezi bünyesinde açık kalp cerrahisi ameliyatlarının ve bu maddenin 2.8.3 bendinde sayılan girişimsel kardiyoloji işlemlerinin birlikte ve koordineli yapılabilmesi ve
 
-### T.C. SAGLIK BAKANLIĞI
+### T.C. SAĞLIK BAKANLIĞI
 
-T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
-### SAGLIK HIZMETLERI GENEL MUDURLUGO
+### SAĞLIK HIZMETLERI GENEL MUDURLUGO
 
-hastalara en doğru tedavinin uygulanması için ortak konsey oluşturulur. Kalp Konseyinin Çalışma Prensipleri: 2.8.1. Konsey en az 2 kardiyoloji uzmanı ve 1 kalp damar cerrahisi uzmanından oluşur. Hastanede görevli kardiyoloji ve kalp damar cerrahi uzmanlarının tamamı konseyin doğal üyesidir. 2.8.2. Konsey üyeleri dönüşümlü olarak konseye başkanlık yapar. Konseyin çalışma programı Başhekimliğe bildirilir. 2.8.3. Acil girişim gerektiren hastalar hariç, sol ana koroner ya da proksimal sol anterior dessendan arter (LAD) lezyonunu içeren üç damar hastalığı olup revaskülarizasyon gerektiği düşünülen tüm hastaların anjiyografi sonucu konsey tarafindan değerlendirilir. Ayrıca yapılacak tüm invaziv kalp kapağı işlemleri konsey tarafindan değerlendirilir. 2.8.4. Günlük yapılan anjiyografiler sonucu ameliyat kararı alınan hastaların tedavisi o günün konsültan hekimi veya konsültan hekimin bağlı olduğu klinik tarafindan yapılır. Ancak hastanın hekim seçme özgürlüğü ayrıca dikkate alınır. 2.8.5. Tüm kararlar elektronik kayıt sisteminde kayıt altına alınır. İstendiğinde yapılan işlemlerle ilgili raporlar alınabilmelidir. 2.8.6. Konsey odası hastane yönetimi tarafindan tahsis edilmiş ve içinde hastaların koroner anjiyografilerini izlemeye uygun gerekli araç ve gereçler ile donatılır. 2.9. Kamu hastaneleri bünyesinde yeni açılacak kalp merkezleri için koordinatör hastane belirlenmesi ile ilgili iş ve işlemler; 2.9.1. Bünyesinde yeni kalp merkezi kurulacak kamu hastaneleri için Bakanlıkça koordinatör hastane belirlenir. 2.9.2. Koordinatör hastane desteği ile kalp merkezi kurulacak hastanelerde, kalp damar cerrahisi ve kardiyoloji kliniklerinin sorumluları, koordinatör hastanenin teklifi ve hastane başhekiminin uygun görüşü ile belirlenir. Bu merkezdeki işleyiş (nöbet, icap, ameliyat listesi, hasta yatışları vs), klinik sorumluları ve koordinatör hastane ekip sorulusu ile işbirliği içinde yapılır. Koordinatör hastanenin uygun gördüğü durumlarda yeni kurulan merkezdeki ekip tek başına ameliyat yapabilir. Acil vakaları yeni kurulan merkezdeki ekip tek başına ameliyata alabilir. 2.9.3. Bünyesinde yeni kalp merkezi açılacak hastanedeki kurulum iş ve işlemleri koordinatör hastane ile birlikte yürütülür. Bu amaçla yeni kalp merkezinin açıhış aşamasında koordinatör hastaneden bir ekip belirlenir. Bu ekip en az 2 kalp ve damar cerrahisi uzmanı, 1 kardiyoloji uzmanı, 1 anestezi ve reanimasyon uzmanı, 2 anestezi teknikeri/teknisyeni, 2 perfüzyonist, 2 ameliyathane hemşiresi, 2 ameliyathane teknikeri ve 1 kalp damar cerrahisi yoğun bakım hemşiresinden oluşur. Koordinatör hastaneden görevlendirilen ekibin sorumlusu en az 5 yıl aktif uzmanlık yapmış kalp damar cerrahisi uzmanıdır. Perfüzyonist, ameliyathane hemşiresi ve diğer personel ilgili belgeye sahip kişilerden seçilir. Hastane idaresince ekip üyeleri gerektiğinde değiştirilebilir, ekibe yeni üyeler eklenir veya
+hastalara en doğru tedavinin uygulanması için ortak konsey oluşturulur. Kalp Konseyinin Çalışma Prensipleri: 2.8.1. Konsey en az 2 kardiyoloji uzmanı ve 1 kalp damar cerrahisi uzmanından oluşur. Hastanede görevli kardiyoloji ve kalp damar cerrahi uzmanlarının tamamı konseyin doğal üyesidir. 2.8.2. Konsey üyeleri dönüşümlü olarak konseye başkanlık yapar. Konseyin çalışma programı Başhekimliğe bildirilir. 2.8.3. Acil girişim gerektiren hastalar hariç, sol ana koroner ya da proksimal sol anterior dessendan arter (LAD) lezyonunu içeren üç damar hastalığı olup revaskülarizasyon gerektiği düşünülen tüm hastaların anjiyografi sonucu konsey tarafından değerlendirilir. Ayrıca yapılacak tüm invaziv kalp kapağı işlemleri konsey tarafından değerlendirilir. 2.8.4. Günlük yapılan anjiyografiler sonucu ameliyat kararı alınan hastaların tedavisi o günün konsültan hekimi veya konsültan hekimin bağlı olduğu klinik tarafından yapılır. Ancak hastanın hekim seçme özgürlüğü ayrıca dikkate alınır. 2.8.5. Tüm kararlar elektronik kayıt sisteminde kayıt altına alınır. İstendiğinde yapılan işlemlerle ilgili raporlar alınabilmelidir. 2.8.6. Konsey odası hastane yönetimi tarafından tahsis edilmiş ve içinde hastaların koroner anjiyografilerini izlemeye uygun gerekli araç ve gereçler ile donatılır. 2.9. Kamu hastaneleri bünyesinde yeni açılacak kalp merkezleri için koordinatör hastane belirlenmesi ile ilgili iş ve işlemler; 2.9.1. Bünyesinde yeni kalp merkezi kurulacak kamu hastaneleri için Bakanlıkça koordinatör hastane belirlenir. 2.9.2. Koordinatör hastane desteği ile kalp merkezi kurulacak hastanelerde, kalp damar cerrahisi ve kardiyoloji kliniklerinin sorumluları, koordinatör hastanenin teklifi ve hastane başhekiminin uygun görüşü ile belirlenir. Bu merkezdeki işleyiş (nöbet, icap, ameliyat listesi, hasta yatışları vs), klinik sorumluları ve koordinatör hastane ekip sorulusu ile işbirliği içinde yapılır. Koordinatör hastanenin uygun gördüğü durumlarda yeni kurulan merkezdeki ekip tek başına ameliyat yapabilir. Acil vakaları yeni kurulan merkezdeki ekip tek başına ameliyata alabilir. 2.9.3. Bünyesinde yeni kalp merkezi açılacak hastanedeki kurulum iş ve işlemleri koordinatör hastane ile birlikte yürütülür. Bu amaçla yeni kalp merkezinin açıhış aşamasında koordinatör hastaneden bir ekip belirlenir. Bu ekip en az 2 kalp ve damar cerrahisi uzmanı, 1 kardiyoloji uzmanı, 1 anestezi ve reanimasyon uzmanı, 2 anestezi teknikeri/teknisyeni, 2 perfüzyonist, 2 ameliyathane hemşiresi, 2 ameliyathane teknikeri ve 1 kalp damar cerrahisi yoğun bakım hemşiresinden oluşur. Koordinatör hastaneden görevlendirilen ekibin sorumlusu en az 5 yıl aktif uzmanlık yapmış kalp damar cerrahisi uzmanıdır. Perfüzyonist, ameliyathane hemşiresi ve diğer personel ilgili belgeye sahip kişilerden seçilir. Hastane idaresince ekip üyeleri gerektiğinde değiştirilebilir, ekibe yeni üyeler eklenir veya
 
-### T.C. SAGLIK BAKANLIĞI
+### T.C. SAĞLIK BAKANLIĞI
 
 T.C. SAĞLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
 
-### GENEL MUDURLUGU SAGLIK HIZMETLERI
+### GENEL MUDURLUGU SAĞLIK HIZMETLERI
 
-2.9.4. Yeni kurulan kalp merkezinde koordinatörlük görevinin süresi koordinatör ekip tarafından belirlenir. Koordinatör hastane faaliyetleri ile ilgili yıllık çalışma raporu Bakanlığa bildirilir. Koordinatör hastanenin raporuna göre koordinatör hastane ekibinin görev süresi Bakanlık uygun görüşü ile sonlandırılır. 2.9.5. Koordinatör hastanenin yöneticisi tarafindan, yeni kurulacak merkezde görevlendirilecek kişilerin listesi Kamu Hastaneler Genel Müdürlüğü'ne bildirilir. 2.9.6. Yeni kurulan merkezde müdahale edilecek vaka olduğunda hastanın tıbbi bilgileri, EKO, koroner anjiyografi ve diğer gerekli görülen tetkik ve tahliller koordinatör hastanedeki ekibe gönderilir. Ortak karar ile hastaya yapılacak tedavi belirlenir. Bu doğrultuda gereklilik halinde koordinatör hastaneden ekip işleme 2.9.7. Yeni kalp merkezi kurulacak merkezde görevli tüm kalp ve damar cerrahisi uzmanları en az 2 ay, kardiyoloji uzmanları en az 1 ay, kalp cerrahisi ameliyatlarında görev alacak anestezi ve reanimasyon uzmanları en az 1 ay, ve anestezi tekniker/teknisyenleri en az 1 ay, tüm perfüzyonistler en az 3 ay, en az iki ameliyathane hemşiresi en az 2 ay, en az dört yoğun bakım hemşiresi en az 3 ay süre ile eğitim için koordinatör hastanede görevlendirilir.
+2.9.4. Yeni kurulan kalp merkezinde koordinatörlük görevinin süresi koordinatör ekip tarafından belirlenir. Koordinatör hastane faaliyetleri ile ilgili yıllık çalışma raporu Bakanlığa bildirilir. Koordinatör hastanenin raporuna göre koordinatör hastane ekibinin görev süresi Bakanlık uygun görüşü ile sonlandırılır. 2.9.5. Koordinatör hastanenin yöneticisi tarafından, yeni kurulacak merkezde görevlendirilecek kişilerin listesi Kamu Hastaneler Genel Müdürlüğü'ne bildirilir. 2.9.6. Yeni kurulan merkezde müdahale edilecek vaka olduğunda hastanın tıbbi bilgileri, EKO, koroner anjiyografi ve diğer gerekli görülen tetkik ve tahliller koordinatör hastanedeki ekibe gönderilir. Ortak karar ile hastaya yapılacak tedavi belirlenir. Bu doğrultuda gereklilik halinde koordinatör hastaneden ekip işleme 2.9.7. Yeni kalp merkezi kurulacak merkezde görevli tüm kalp ve damar cerrahisi uzmanları en az 2 ay, kardiyoloji uzmanları en az 1 ay, kalp cerrahisi ameliyatlarında görev alacak anestezi ve reanimasyon uzmanları en az 1 ay, ve anestezi tekniker/teknisyenleri en az 1 ay, tüm perfüzyonistler en az 3 ay, en az iki ameliyathane hemşiresi en az 2 ay, en az dört yoğun bakım hemşiresi en az 3 ay süre ile eğitim için koordinatör hastanede görevlendirilir.
 
 ### 3. KALP MERKEZİ BAŞVURUSU İÇİN GEREKLI BİLGİ VE BELGELER
 

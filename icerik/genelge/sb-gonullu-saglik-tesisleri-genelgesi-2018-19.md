@@ -9,64 +9,57 @@ etiketler: ["gönüllü sağlık tesisi", "afet sağlığı", "gönüllülük"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 494-495"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.5. Gönüllü Sağlık Tesisleri Genelgesi (2018/19)
+T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
 
-### HALK SAGLIGI GENEL NUDURL DOE - ASOM GOÇ AGLÉ DARES BASANLIG
+Sayı: 68289900-641.99
 
-T.C.
-
-### SAGLIK BAKANLIĞI
-
-TC Salik Rakark Halk Sağlığı Genel Müdürlugu Say: : 68289900-641.99 Komi : Gönüllü sağlik tesisleri
+Konu: Gönüllü sağlık tesisleri
 
 ### GENELGE
 
-2018/49
+Ülkemizde geçici koruma altına alınanlara sunulan sağlık hizmetleri, 04/11/2015 tarihli ve 9648 sayılı Makam Oluru ile yürürlüğe giren “Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslar” çerçevesinde Halk Sağlığı Genel Müdürlüğümüz koordinasyonunda yürütülmektedir.
 
-Ulkemizde geçici koruma altına ahmanlara sutulan sağlık hizmetleri, 04/11/2015 tarihli ve 9648 sayıkı Makam Oluru ile yürürlüğe giren iGeçici Koruma Altma Abnanlara Verilecek Sağkık Hizmetlerine Dair Esaslar çerçevesinde Halk Sapha Genel Müdädügomüz
+Gelinen süreçte ülkemizde geçici koruma altına alınan Suriyeli sayısı üç milyon beş yüz bini aşmış, bu kişilere ülkemiz tarafından sunulan sağlık hizmetlerinin desteklenmesine dair AB Hibe Projesi (SIHHAT) yürürlüğe girmiştir. Proje kapsamında, geçici korunanların yoğun olduğu illerde, söz konusu kişilere birinci basamak sağlık hizmetlerinin sunulabilmesi için açılan göçmen sağlığı merkezlerinin yaygınlaştırılması ile bu merkezlerde Suriyeli sağlık çalışanlarının istihdam edilmesine yönelik çalışmalar yapılmaktadır.
 
-Gelineni süreçte ülkemizde geçici karuma altina alıtan Suriyeli sayısı üç milyon beş yüz hini aşnaş, bu kişilere ülkemiz tarafindan sunulan sağlık hizmetlerinin desteklenmesine dair AB Hibe Projesi (SIHHAT) yürürlüge girmiştir. Proje kapsamındı, geçici korunanların yoğun olduğu illerde, söz konasu kışilere birinci basamak sağlık hizmetlerinin sunulabılmesi için açılar göçmen sağlığı merkezlerinin yaygınlaştırılması ile bu merkezlerde Sufiyeli sağlık çahışanlarımın istihdam edilmesine yönelik çalışmalar yapılmaktadır.
+Bu kapsamdaki hizmetlerin mükerrer olarak sunulmasının önüne geçilmesi, kaynakların etkili ve verimli bir şekilde kullanılması ile desteklenmesine ihtiyaç duyulan hizmet alanlarının geliştirilmesi amacıyla, mezkûr usul ve esaslara göre yardım vakıfları veya dernekleri tarafından verilebilen gönüllü sağlık hizmeti sunumunda aşağıda belirtilen hususlar doğrultusunda işlem tesis edilecektir.
 
-Bu kapsamdaki hizmetlerin mükerrer olarek sunulmasızın önüne geçilmosi, kaynaklanın etkili ve verımali bir şekilde kullamılmast ile desteklenmesine ihtiyaç duyulan hizmet alanianmın teliştirilmesi amerayla, mezkür usul ve esaslara göre yardım vakıflan veya dernekleri tarafıdan verilebilen gonulli sağhk hizmeti sunumunda aşajuda belirtilen hususlar doğrultusunda işlem tesis edilecektir.
+1) Gönüllü sağlık tesislerine, öncelikli olarak fizik tedavi, ruh sağlığı ve psikososyal destek hizmetleri ile bunları destekleyecek tetkik hizmetlerini sunmak kaydıyla 15/02/2008 tarihli ve 26788 sayılı Resmî Gazete’de yayımlanan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin Ek 13’ünde yer alan Muayenehanede Yapılabilecek Tıbbi İşlemlere uygun olarak, Bakanlığımızın uygun göreceği yerleşim yerlerinde izin verilecektir.
 
-1) Gönülln sağhk tesislerine, öncelikli olarak fizik tedavi, ruh sağlığı ve psikososyal destek hizmetleri ile bunlan destekleyecek tetkik hizmetlerini sunmak kaydıyla 15/02/2008 tarihli ve 26788 savh Resmi Gazetede yayılman Ayaktu Teşhis ve Tedavi Yapılan Özel Saglık Kuruluşları Hakkında Vöneimeliğin Ek 13'inde yer alun Muyenehanede Yapılabilecek Tibbi Işlemlete uygun olarak. Bakanlığımızin uygun göreceği yerleşim yerlerinde kein
+2) Göçmen sağlığı merkezleri açılması planlanmayan yerlerde, ayaktan tanı ve tedavi ile küçük cerrahi müdahaleleri kapsayacak şekilde hizmet sunmak isteyen gönüllü sağlık tesisleri, il sağlık müdürlüğü tarafından oluşturulan “Rapor” doğrultusunda, göçmen sağlığı merkezleri için belirlenen standartlara uygun olarak, Bakanlığımızın uygun görüşüyle açılabilecektir.
 
-2) Göçmen sağbğs merkezdenı açılmus planlanmayan yerierde, ayaktan tanı ve teduvi Be küçük çerrahi müdahaleleri kapsaysak vekilde hizmer sanmak isteyen günülln sağlık tesisleri, il saglk müdürluğn tarafindan oluşturulan "Ropor" dogrultusunda, göçmen sağhg merkezleri için belirlenen standartlara uygun olarak. Bakanlığımızın uygun görüşüyle açılabilecektir.
+3) Gönüllü sağlık tesislerinde Bakanlığımız tarafından verilen teorik ve uygulamalı uyum eğitimlerini tamamlayan geçici koruma statüsü sahibi hekimler ile yardımcı sağlık personeli istihdam edilecektir.
 
-3) Gönülla sağlık tesislerinde Bakanlığınuz tatafindan verilen teorik ve vygulamalı uyum eğitimlerimi tamamlayua geçici koruma statüsi sahibi bekimler ile yardımcı sağlıi personcli istihdam edilecektir.
+4) Fizik tedavi hizmeti sunulması planlanan gönüllü sağlık tesisinde, sorumlu hekim olarak ülkemizde mesleğini icra etmeye yetkili bir fizik tedavi uzmanı; ruh sağlığı alanında hizmet sunulması planlanan gönüllü sağlık tesisinde sorumlu hekim olarak ülkemizde mesleğini icra etmeye yetkili bir psikiyatri uzmanı görevlendirilecektir.
 
-4) Fizik tedavi hürmeti suman planlanan gönüllu sağlık tesisinde, sorumlu hekim olarak olkemizde medeğini iera etmeye yetkili bir fizik tedavi uzmam; ruh sallığı alanında hiznes sunmus planlanan gödula sağhık tesisinde sorumlu hekim olarak ülkemizde mealecini azu elmeye yetkili bir psikiyatri uzatan günevlendirilecektir.
+5) Fizik tedavi hizmeti sunması planlanan gönüllü sağlık tesislerinde, ilgili sağlık personeline ilave olarak üniversitelerin 2 yıllık Fizyoterapi Teknikerliği ya da buna denk bir bölümden mezun en az bir Fizik Tedavi Teknikeri görevlendirilecektir.
 
-### T.C. SAGLIK BAKANLIĞI Halk Sağlğ Genel Müdürlüğü
+6) Fizik tedavi hizmeti sunulması planlanan gönüllü sağlık tesislerinde, asgari 3 metrekare büyüklüğünde ve hasta mahremiyeti için tek kişiye hizmet verecek şekilde planlanmış elektroterapi hizmetleri verilecek kabinler oluşturulacaktır. Bu kabinlerde asgari;
 
-TE SAğMA BURaNO 58y1 : 68289900-541.99 Konu : Gönüllü Saglık Tesisleri
+a) Hotpack kazanı (sıcak torbalar için),
 
-5) Fazik tedavi hizmeti sunması planlanun gönüllu sağhk tesislerinde. ilgiti anälik personeline ilave olarak nalversilelerin 2 yıllık Fizyoteropi Teknikerliği ya du buna denk bir bütümden mezun en az bir F'izik Tedavi Teknikeri görevlendirilecektir.
+b) Tens (ağrı tedavisi için),
 
-B) Fizik tedavi hizzocti samması planlunan gönulln siğhà tesislerinde, asgari 3 metrekare büyükluğünde ve hasta mahremiyeti için tek kişiye hizmet verecek şekilde planlımış elektrotarapi hizmetleri verilseek kabinler oluşturulacaktı. Bu kabinlerde asgati,
+c) Ultrason (fizik tedavide kullanılan),
 
-a) Hotback kazans (sicak, torbalar için),
+d) Kombine Elektroterapi Cihazı, bulundurulacaktır.
 
-b) Tens (agn tedavisi için),
+7) Gönüllü sağlık tesislerinde, sunulan sağlık hizmet verilerinin kaydı için Bakanlıkça uygun görülmüş bilgisayar programı kullanılacaktır. İlgili programlara kayıt edilemeyen veriler için il sağlık müdürlüğünce tasdik edilmiş kayıt defteri kullanılacaktır. Sağlık hizmet verileri, aylık olarak bir sonraki ayın ilk beş iş günü içerisinde il sağlık müdürlüklerine gönderilecektir.
 
-c) 1/trason (fizik tedavide kullamlan),
+8) Mevcut gönüllü sağlık tesisleri kendilerine verilen izin süresinin sonunda faaliyetlerini sona erdirecektir. Yeniden hizmet sunmak istemeleri halinde bu genelgeye uygun olarak işlem tesis edilecektir.
 
-d) Kombine Elekıroerapi Cihazı, bulundurulacaktir.
+İlinizde açılması planlanan ya da faaliyet gösteren gönüllü sağlık tesislerinin, açılması ile faaliyetlerinin izlenmesi ve değerlendirilmesine dair işlemlerin, “Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslar” ile bu genelge hükümleri dikkate alınarak yürütülmesi hususunda;
 
-7y Gonülla sağhk tesislerinde, sunalan sağlık hizmet verilerinin kaydı için Bakanlıkeu uygun gürillmüş bilgisayaı progranu kullamlöcakte. İlgili programlara kayıt edılemeyen verıler için il saghk modürlogüsce tusdik edilmiş kayst defteri kullanılacoktr. Sağlık hizmet verileri, aylık olark bir sourukl ayı tik beş iş gülni içerisinde il saghk madürlaklerine gönderileccktir.
+Bilgilerinizi ve gereğini rica ederim.
 
-8) Mevcut gönüllü anğlk tesisleri kendilerine verilen izin süresinin sanunda faaliyctierini sona erdfrecektir. Yeniden hizmet sunmak istemneri halinde bu genelgeye vygun olarak, işlem tesis edilecektir.
+Prof. Dr. Eyüp GÜMÜŞ
 
-İlinizde açılması planlanan ya ån faalıyet gösteren gönülla sağlık tesislerinin, açalmas ile faaliyetlerinin telenmesi ve değerlendirilmesine dair işlemlerin, "Geçici Korum Altina Alınanlara Verilesek Sağlık Hizmetlerine Dair Esaslar" tle bu genelge hükümleri dikkate alımarak yürütülmesi hususunda;
+Bakan a.
 
-Bilgilerinizi ve geregini rica ederim.
+Müsteşar
 
-Prof. Dr. Eyüp GÜMÜS
+Dağıtım:
 
-Bakan a
-
-Müstesi
-
-ми. Dağitm Geregi: 81 Il Valiliğine (Il Suğlk Modartago)
+Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)

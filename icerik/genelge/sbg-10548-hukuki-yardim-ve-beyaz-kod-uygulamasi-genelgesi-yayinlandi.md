@@ -1,0 +1,200 @@
+---
+id: "sbg-10548-hukuki-yardim-ve-beyaz-kod-uygulamasi-genelgesi-yayinlandi"
+baslik: "Hukuki Yardım ve Beyaz Kod Uygulaması Genelgesi Yayınlandı"
+tur: "genelge"
+birim: "Hukuk Hizmetleri Genel Müdürlüğü"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
+kaynak_url: "https://www.saglik.gov.tr/TR-10548/hukuki-yardim-ve-beyaz-kod-uygulamasi-genelgesi-yayinlandi.html"
+durum: "yürürlükte"
+ocr: true
+---
+
+## MÜSTEŞAR - HUKUK MÜŞAVİRLİĞİ
+
+16/03/2016 12:09 - 11045126 - 010.06.01 - E.6867
+
+### SAĞLIK BAKANLIĞI
+
+Hukuk Müşavirliği 00020790912 TC. Sağlık Bakankğı Sayı : 11045126-010.06- Konu: Hukuki Yardım ve Beyaz Kod Uygulaması
+
+### GENELGE 2016/..6
+
+663 sayılı KHK'nın 54 üncü maddesi "Bakanlık ve bağlı kuruluşlarında; sağlık hizmeti sunumu sırasında veya bu görevlerden dolayı personele karşı işlenen suçlar sebebiyle ceza hukuku kapsamında yürütülmekte olan işlemler ve dâvâlarda personelin talebi üzerine Bakanlık ve bağlı kuruluşiarınca hukuki yardım yapılır. Bakanlık ve bağlı kuruluşları merkez ve taşra teşkilatı ile döner sermaye teşkilatı kadrolarında bulunan hukuk birimi amirleri, hukuk müşavirleri ve avukatlar, ayrıca vekâletname ibraz etmeksizin ilgili personeli vekil sıfatı ile temsil eder. Bu yardımın usûl ve esasları Bakanlıkça belirlenir." şeklinde düzenlenmiş olup, 28/04/2012 tarihli ve 28277 sayılı Resmî Gazete'de yayımlanan Sağlık Bakanlığı Personeline Karşı İşlenen Suçlar Nedeniyle Yapılacak Hukuki Yardımın Usul ve Esasları Hakkında Yönetmelikte ise, Sağlık Bakanlığı ve bağlı kuruluşlarında sağlık hizmeti sunumu sırasında veya bu görevlerinden dolayı personele karşı işlenen suçlar sebebiyle personelin veya kanuni mirasçılarının talebi üzerine Bakanlık ve bağlı kuruluşlarınca yapılacak hukukî yardıma ilişkin usul ve esaslar belirlenmiştir.
+
+Bu kapsamda Beyaz Kod Uygulamasına başlanılmış, sağlık çalışanlarına yönelik şiddet olaylarını takip etmek üzere 7 gün 24 saat hizmet verecek şekilde 113 Beyaz Kod Çağrı Merkezi kurulmuş, "www.beyazkod.saglik.gov.tr" internet adresi oluşturulmuştur.
+
+Konunun önemine binaen yapılan kanunî düzenleme ile, sağlık kurum ve kuruluşlarında görev yapan personele karşı görevleri sırasında veya görevleri dolayısıyla işlenen kasten yaralama suçu, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 100 üncü maddesinin üçüncü fıkrası kapsamında tutuklama nedeni varsayılabilen suçlardan sayılmıştır.
+
+Ayrıca özel sağlık kurum ve kuruluşlarında görev yapan personel de, bu görevleriyle bağlantılı olarak kendilerine karşı işlenen suçlar bakımından Türk Ceza Kanununun uygulanmasında kamu görevlisi sayılmaktadır.
+
+27.03.2015 tarihli ve 6638 sayılı Kanunla, Polis Vazife ve Salahiyetleri Kanununun 15 inci maddesine "Polis; müşteki, mağdur ve tanık ifadelerini talepleri halinde ikamet ettikleri yerlerde ve işyerlerinde alabilir:" hükmü eklenmiştir. Sağlık personelinin ifade vermek üzere görev yerinden ayrılmasının sağlık hizmeti sunumunu aksattığı ve dolayısıyla sağlık hizmetinden faydalanan vatandaşların mağduriyetine sebep olunduğu bilinmektedir. Bu sebeple, sağlık personeline yönelik şiddet olayları sonrasında, talebi hâlinde mağdurun ifadesi görev yaptığı yerde alınabilecektir.
+
+Bakanlığımıza yapılan başvurulardan "Beyaz Kod" başvurusu ve hukukî yardım konusunda yaşanması muhtemel tereddütleri gidermek, uygulamaya açıklık kazandırmak ve çalışanlarımızın bu hizmete erişimini kolaylaştırmak amacıyla aşağıdaki açıklamaların yapılmasına lüzum görülmüştür:
+
+1) Beyaz kød başvurusu
+
+a) Sağlık hizmeti sunumu sırasında veya bu görevlerinden dolayı personele karşı işlenen suçlar sebebiyle yapılacak vaka bildirimlerinde kamu veya özel bütün sağlık kuruluşlarında gerçekleşen vakaların tamamı Beyaz Kod sistemine bildirilecektir. Bu bildirimler aşağıda belirtilen yollardan biri ile yapılacaktır.
+
+aa) "http://www.beyazkod.saglik.gov.tr" adresine giriş yapılarak.
+
+ab) Telefonla 113 numaralı çağrı merkezi aranarak.
+
+ac) Çalışan Hakları ve Güvenliği Birimine veya bu amaçla kurulmuş birime veya görevlendirilen personele müracaat edilerek.
+
+### Sayfa 1 / 5
+
+### SAĞLIK BAKANLIĞI Hukuk Müşavirliği
+
+TC. Sağlık Bakanlığı Sayı : 11045126-010.06- Konu: Hukukî Yardım ve Beyaz Kod Uygulaması
+
+2) Hukuki yardım yapılacak personelin kapsamı
+
+a) Sağlık Bakanlığı ve bağlı kuruluşlarında hizmet sunan aşağıdaki personele hukukî yardımda bulunulacaktır.
+
+aa) Kadrolu personel (memur),
+
+ab) 11/10/2011 tarihli ve 663 sayılı KHK eki (II) sayılı cetvelde belirtilen pozisyonlarda istihdam edilen sözleşmeli personel,
+
+ac) 663 sayılı KHK'nın 52 nci maddesi çerçevesinde Bakanlık ve bağlı kuruluşlarında gönüllüi ve ücretsiz sağlık hizmeti verenler,
+
+aç) 657 sayılı Devlet Memurları Kanunu'nun (4/B) maddesine göre istihdam edilen sözleşmeli personel,
+
+ad) 657 sayılı Kanunun 86 ncı maddesine göre açıktan vekil olarak atananlar,
+
+ae) 10/07/2003 tarihli ve 4924 sayılı Kanun'a tabi olarak görev yapan sözleşmeli personel,
+
+af) 24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Kanunu kapsamında görev yapanlar,
+
+ag) 07/05/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanunun Ek 1 inci maddesine göre sözleşme ile çalışan eğitim görevlileri,
+
+ağ) 3359 sayılı Kanun'un Ek 9 uncu maddesine göre, üniversiteler ile birlikte kullanımdaki Sağlık Bakanlığı ve bağlı kuruluşlarına ait kurum ve kuruluşlarda görev yapan üniversite personeli,
+
+ah) Kadro veya pozisyonları diğer kamu kurum ve kuruluşlarında olup, Bakanlık ve bağhı kuruluşlarında görevlendirilen personel,
+
+b) Söz konusu personelin hukukî yardım talepleri, suç, sağlık hizmeti sunumu sırasında veya bu görevlerinden dolayı işlenmiş ise karşılanabilecektir. Hizmetin sunumu veya göreviyle ilgili olmak kaydıyla, görev mahalli veya çalışma saati dışında gerçekleşen suçlar için de hukukî yardım verilecektir.
+
+c) Il Beyaz Kod koordinatörlüğü, suçun mağduru olan personelin vefatı hâlinde kanuni mirasçılarına, hukukî yardım isteyip istemediğini soracaktır. Talep etmeleri hâlinde, hukukî yardım yapılacaktır.
+
+3) Hukukî yardım kapsamında bulunmayan kişiler ve durumlar
+
+a) Aşağıda belirtilen kişiler ve/veya durumlar, Beyaz Kod kapsamında değerlendirilmeyecektir.
+
+aa) Hizmet satın alma yoluyla çalıştırılanlar.
+
+ab) Stajyerler ve intörnler.
+
+ac) Hizmet verme, hizmet alma ilişkisinden kaynaklanmayan sağlık çalışanları arasında vuku bulan fiiller.
+
+aç) Sağlık kuruluşunda çalışanlar arasında mevcut gücün ya da pozisyonun kötüye kullanılarak ve sistematik olarak psikolojik şiddet, baskı, kuşatma, taciz, aşağılama, tehdit ve benzeri şekillerde tecelli eden mobbing (bezdirme, yıldırma) vakalarından kaynaklı fiiller,
+
+ad) Personelin hizmet verdiği sırada yaşanmış olsa dahi, kişisel meselelerden kaynaklanan ve hizmetle ilişkisi kurulamayan fıiller.
+
+ae) Hukukî yardım yapılacak personel kapsamında olanlardan görevi sona eren veya erdirilenler.
+
+af) Hukuki yardım talebinde bulunmakla birlikte, gerçekleşen olaya ilişkin gerekli bilgi ve belgeleri vermeyerek dava takibini imkansız kılanlar.
+
+### Sayfa 2 / 5
+
+### SAĞLIK BAKANLIĞI Hukuk Müşavirliği
+
+T.C. Sağlık Bakanlğı Sayı : 11045126-010.06- Konu: Hukukî Yardım ve Beyaz Kod Uygulaması
+
+b) Özel bir vekil tâyin etmesi durumunda, hukukî yardımdan faydalanana ayrıca Beyaz Kod kapsamındaki hukukî yardımdan faydalanmaya devam edip etmeyeceği sorulacaktır.
+
+c) Kamu görevlisine karşı görevi nedeniyle işlenen suçlar, şikâyete tabi suçlardan olmadığından; şikâyetten vazgeçilmesi veya kovuşturma aşamasında dâvâya katılmak istenmediği yolunda beyan verilmesi durumunda, söz konusu dâvâ kamu dâvâsı olarak devam edecek olmakla birlikte, vekilin yetkisi asilin yetkisine bağlı olduğu cihetle şikâyetinden vazgeçen veya dâvâya katılmak istemediğini beyan eden personelin/katılanın vekili olan avukatın da vekillik sıfatı ve takip yetkisi kalmayacağından hukukî yardım verilemeyecektir.
+
+4) 113 Beyaz Kod Çağrı Merkezi
+
+a) Hukuk Müşavirliği bünyesinde faaliyet gösteren Beyaz Kod çağrı merkezi, 7 gün 24 saat esasına göre hizmet verecektir. Bu kapsamda;
+
+aa) Alo 113 Beyaz Kod telefon hattına gelen çağrıları karşılar.
+
+ab) Telefon görüşmesine göre sağlık çalışanının yaşamış olduğu sözel veya fiziksel şiddet başvurularının Beyaz Kod web sistemine kaydını gerçekleştirir.
+
+ac) Arşiv ve kayıtların düzenli tutulmasını sağlar ve raporlamalarını yapar.
+
+aç) Bakanlığın ilgili birimlerine aylık ve yıllık olarak toplam verileri gönderir.
+
+b) Yapılan görüşmeler, ispat hukuku bakımından kayıt altına alınır.
+
+5) Bakanlık ve bağlı kuruluşlarının sağlık kurum ve kuruluşlarında Beyaz Kodun işleyişi
+
+a) Hastane, ağız ve diş sağlığı merkezleri, il ambulans servisi başhekimlikleri ve Toplum Sağlığı Merkezlerinde bir başhekim yardımcısının başkanlığında kurulmuş olan Çalışan Hakları ve Güvenliği Birimleri, Beyaz Kod kapsamında, aşağıdaki iş ve işlemleri yürütecektir:
+
+aa) Personelin şikayetçi olup olmadığına bakmaksızın, gerçekleşen bütün şiddet olayları için sistem kaydı yapar. Bir olayda birden çok mağdur var ise, bu kayıtların sistem üzerinden birleştirilmesi sağlar.
+
+ab) Başvuruya ilişkin;
+
+-şiddete maruz kalan kişi ve kişilerin doldurması gereken "olay tutanağı",
+
+"şiddet başvurunda bulunan sağlık çalışanı tarafından doldurulması gereken "hukukî yardım talep formu",
+
+-şiddete uğrayan sağlık çalışanının şikâyetinin olup olmadığına bakılmaksızın, yöneticileri tarafından doldurulup imzalanan "ihbar dilekçesi",
+
+-şiddete maruz kalan sağlık çalışanına imzalatılanikişisel veri paylaşım bilgilendirme formu",
+
+ve olayı doğrulayan kanıtlar ve mevcut diğer bilgi ve belgeleri toplar ve sisteme girilmesini sağlar.
+
+ac) Bütün bilgi ve belgelerin asıllarını, bir sureti kendisinde kalacak şekilde 24 saat içerisinde il koordinatörlüğüne intikal ettirir. Sonradan elde edilen bilgi belgelerde aynı usulle intikal ettirilir.
+
+b) Çalışan hakları ve güvenliği birimleri bulunan kurumlarda;
+
+ba) Kurum yöneticisi, çalışan hakları ve güvenliği biriminden bir personel ile güvenlik görevlilerinden oluşan Beyaz Kod müdahale ekibi oluşturulur.
+
+bb) Acil durumlarda Beyaz Kod müdahale ekibine hızla haber verilmesini ve ekibin olay yerine en kısa zamanda ulaşmasını sağlayan "1111" çağrı sistemi, acil yardım butonu ve/veya benzeri Beyaz Kod çağrı sistemleri kurularak sistemden bir çağrı alındığında,
+
+### Sayfa 3 / 5
+
+### SAĞLIK BAKANLIĞI Hukuk Müşavirliği
+
+T.C. Sağlık Bakanlğı Sayı : 11045126-010.06- Konu: Hukukî Yardım ve Beyaz Kod Uygulaması müdahale ekibinin olay yerine en kısa zamanda ulaşması sağlanır ve bu kapsamda tutulan tutanaklar çalışan hakları ve güvenliği birimine intikal ettirilir.
+
+c) 5271 sayılı Ceza Muhakemesi Kanunu'nun 91 inci maddesinin dördüncü fikrasında bir kısım suçlarda suçüstü halleriyle sınırh olmak kaydıyla mülki amirlerce belirlenecek kolluk amirleri tarafından şüpheli hakkında yirmidört saate kadar gözaltına alınma kararı verilebileceği düzenlenmiştir. Bu suçlardan, kasten öldürme, kasten yaralama ve cinsel saldırı suçları Beyaz Kod kapsamındadır. Bu suçlardan gözaltı kararı verilebilmesi suçüstü şartına bağlandığı cihetle bu durumlarda suçüstü olayının tespiti ehemmiyet arzetmektedir. Suçüstü; işlenmekte olan veya henüz işlenmiş olan fiil ile fiilin işlenmesinden hemen sonra takip edilerek yakalanan kişinin işlediği veya fiilin pek az önce işlendiğini gösteren eşya veya delille kişinin yakalanması halidir. Kişiye suç işlerken rastlanması veya suçüstü işlenen bir fiilden dolayı izlenen kişinin kaçması olasılığının bulunması ve hemen kimliğini belirleme olanağının bulunmaması halinde herkes tarafından geçici olarak yakalama yapılabilmesi anılan kanun gereğıdir. Bu itibarla; sağlık çalışanına karşı yukarıda belirtilen suçlardan birinin işlenmesi ve suçüstü şartlarının mevcudiyeti halinde gözaltı kararı verilebilmesini teminen şüphelinin yakalanması ve hadisenin gecikmeksizin kolluk görevlilerine bildirilmesi gerekmektedir.
+
+6) Üniversiteler ve özel sağlık kuruluşlarında Beyaz Kodun işleyişi
+
+a) Beyaz kod kapsamında personele karşı işlenen suçlarla etkin bir mücadele için ülkedeki tüm kamu ve özel sağlık kuruluşlarında meydana gelen vakaların tam ve zamanında bildirilmesi ve buna göre gerekli değerlendirmelerin yapılarak tedbirlerin alınması büyük önem arz etmektedir.
+
+b) Üniversiteler ve özel sağlık kurum ve kuruluşlarında gerçekleşen olaylar da, yöneticiler tarafindan geciktirilmeksizin numarali veya www.beyazkod.saglik.gov.tr web adresi üzerinden Bakanlık Beyaz. Kod sistemine bildirilecektir.
+
+c) Söz konusu sağlık kuruluşlarında da Beyaz Kod sistemine veri girişi yapacak ve bildirimde bulunacak bir birim oluşturulacak ve/veya personel görevlendirmesi yapılacaktır.
+
+ş) Bu birim ve/veya personel tarafından olay tutanağı, kişisel veri paylaşımı bilgilendirme formu ve olayı doğrulayan diğer bilgi ve belgelerin Beyaz Kod sistemine girişi sağlanacaktır. Aynı zamanda, keyfıyet ilgili adli ve idari mercilere intikal ettirilecektir.
+
+d) Yapılan kanuni düzenleme ile özel sağlık kurum ve kuruluşlarında görev yapan personel de, bu görevleriyle bağlantılı olarak kendilerine karşı işlenen suçlar bakımından 5237 sayılı Türk Ceza Kanununun uygulanmasında kamu görevlisi sayılmıştır. Bunun neticesi olarak özel sağlık kuruluşlarında çalışanlara karşı işlenen suçlar suçun nitelikli hali olarak değerlendirilerek verilecek cezada artırım sağlanmıştır. Ayrıca, bu suçlar takibi şikayete bağlı olmaktan çıkarılarak resen soruşturulur/kovuşturulur hale getirilmiştir. Dolayısıyla, özel sağlık kuruluşlarında çalışan personele karşı işlenen Beyaz. Kod kapsamındaki suçlar bakımından da mağdurun şikâyetinin olup olmadığına bakılmaksızın, yöneticileri tarafından olayın adli mercilere intikali sağlanacaktır.
+
+7) Il Beyaz Kod Koordinatörlüğü
+
+a) Her ilde, Il Sağlık Müdürlüğü bünyesinde görev yapmak ve Beyaz Kod kapsamında aşağıda belirtilen iş ve işlemleri yapmak üzere Beyaz Kod koordinatörlüğü kurulur.
+
+b) İl sağlık müdürü tarafından bir avukat, Beyaz Kod koordinatörü olarak görevlendirilir. İhtiyaç hâlinde yeterli sayıda avukat da Beyaz Kod iş ve işlemlerinde görevlendirilir.
+
+### Sayfa 4 / 5
+
+### SAĞLIK BAKANLIGI Hukuk Müşavirliği
+
+TC Sağlık Bakanlığı Sayı : 11045126-010.06- Konu: Hukukî Yardım ve Beyaz Kod Uygulaması
+
+c) İl Beyaz Kod Koordinatörlüğü için Il Sağlık Müdürlüğü bünyesinde gerekli çalışma mekanı ve donanım (dış hatta açık telefon, faks, internet bağlantılı bilgisayar, tarayıcı ve uygun görüşme ortamı) temin edilir.
+
+ç) Il Beyaz Kod koordinatörü; yapılan başvuruları inceleyerek başvurunun Beyaz Kod kapsamında olup olmadığını değerlendirir. Beyaz Kod kapsamında olan başvurulara ilişkin bilgi ve belgeleri savcılığa intikal ettirir ve işlenen suçtan mağdur olan personele veya vefatı hâlinde kanunî mirasçılarına, ilgili mevzuatı çerçevesinde hukuki yardımda bulunur. Bu yardımla ilgili gerekli bilgilerin Beyaz Kod sistemine girilmesini sağlar.
+
+d) Il sağlık müdürü, il Beyaz Kod koordinatörü ile birlikte kurumlarda Beyaz Kod sürecine ilişkin hususlarda yapılan çalışmaları izleyerek talep hâlinde Bakanlığa rapor eder.
+
+e) Beyaz kod iş ve işlemlerinin yoğunluğuna göre Hukuk Müşavirliğince belirlenecek illerde, Beyaz Kod başvurularını inceleyerek süreci takip etmek ve gerekli durumlarda çalışan hakları ve güvenliği birimi veya personeli ile iletişime geçerek gerekli bilgi ve dokümanları temin etmek üzere bağlı kuruluşların taşra teşkilatı yöneticileri tarafından yeterli sayı ve nitelikte personel görevlendirilir. Bu personel Beyaz Kod il koordinatörü sevk ve idaresinde görev yapar.
+
+8) Diğer Hususlar;
+
+a) Illerde Beyaz Koda ilişkin tereddüte düşülen hususlarda il Beyaz. Kod koordinatörlüğü koordinasyonunda, II Sağlık Müdürü imzasıyla, Hukuk Müşavırlıgınden mukteza tayini istenilecek ve Hukuk Müşavirliği muktezasına göre işlem tesis edilecektir.
+
+b) Hukukî yardımda bulunulan personelden, bu yardım sebebiyle herhangi bir masraf ve ücret talep edilmeyecektir.
+
+e) Hukukî yardıma ilişkin harcamalar ile bu yardım neticesinde hükmolunan vekâlet ücretlerinin takip ve tahsiline yönelik harcamalar döner sermaye bütçesinden karşılanacaktır.
+
+Bilgilerini ve bu çerçevede gereğini rica ederim.
+
+Dr. Mehmet MÜEZZİNOĞLU
+
+Bakan Dağıtım: YÖK Başkanlığına Bakanlık merkez teşkilatı birimleri Bakanlık bağlı kuruluşları 81 İl Valili (İl Sağlık Müdürlüğü)
+
+### Sayfa 5 / 5

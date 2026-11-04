@@ -8,11 +8,12 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103587/klinik-kalite-uygulama-ve-veri-kalitesi-iyilestirme-rehberi-genelgesi-201915.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.2.14. Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi Genelgesi (2019/15)
 
-### SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 değişiklik yapılmasını gerektirmesi sebebiyle söz konusu rehber güncellenmiştir. Güncel rehbere http://kalite.saglik.gov.tr/ ve http://klinikkalite,saglik.gov.tr/ adreslerinden ulaşılabilmektedir. Bu genelgenin yürürlüğe girdiği tarihten itibaren, ilgide kayıtlı Genelge yürürlükten kaldırılmıştır.
 
@@ -24,4 +25,4 @@ Baka EK: Klinik Kalite Uygulama ve Veri Kalitesi İyileștirme Rehberi (28 s.)
 
 ### DAĞITIM:
 
-81 Il Valiligi Yüksek Öğretim Kurulu (YÖK) Başkanlığına
+81 Il Valiliği Yüksek Öğretim Kurulu (YÖK) Başkanlığına

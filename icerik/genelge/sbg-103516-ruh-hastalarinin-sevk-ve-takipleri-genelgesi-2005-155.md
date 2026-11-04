@@ -8,11 +8,10 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103516/ruh-hastalarinin-sevk-ve-takipleri-genelgesi-2005155.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.47. Ruh Hastalarının Sevk ve Takipleri Genelgesi (2005/155)
-
-### T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayi : B100TSH0140003-010.06 Konu : Ruh Hastalarının Sevk ve Takipleri
 
@@ -50,7 +49,7 @@ Bu cümleden olarak;
 
 4) (RS 10) ile sevk edilen hastalarla ilgili olarak, il müdürlüklerince takiplerin yapılacağı ilgili sağlık kuruluşlarının listesi önceden bölge hastanelerine bildirilecek; il müdürlüğü ile konuyla ilgili bilgi akışı kesintisiz olarak sağlanacak ve takibin yapılacağı sağlık ocağı, hastane mutlak suretle formda belirtilecektir.
 
-5) Hastaların hastaneden çıkışlarında geldikleri il sağhık müdürlüklerine ayaktan tedavi, takip ve kontrolleri amacıyla özellikle (RS 20) formu, ilgili bölge hastanesince doldurularak il müdürlüklerine mutlak suretle gönderilmesi sağlanacaktır.
+5) Hastaların hastaneden çıkışlarında geldikleri il sağlık müdürlüklerine ayaktan tedavi, takip ve kontrolleri amacıyla özellikle (RS 20) formu, ilgili bölge hastanesince doldurularak il müdürlüklerine mutlak suretle gönderilmesi sağlanacaktır.
 
 6) Il içindeki kronik hastaların il müdürlüklerince profilinin çıkartılması ile takiplerinin düzenli olması sağlanacak, ikame tedavileri izleme ve kontrolleri bağlı bulunduğu sağlık ocağı ve ilgili hastanece (RS 30) kullanılarak konunun hassasiyetine binaen il müdürlüğü ile sürekli koordinasyon halinde yürütülecektir. (RS 30) bilgilerinin ayrıca aylık olarak il müdürlüğüne gönderilmesi sağlanacaktır.
 
@@ -70,7 +69,7 @@ III- Ruh Sağlığı Bozuk Olan Şahıslarla Ilgili Olarak Dikkate Alınması Ge
 
 1) 22.11.2001 kabul tarihli ve 4721 sayılı Türk Medeni Kanunu: Bu Kanun'un 405 inci maddesinde, "Akıl hastalığı veya akıl zayıflığı sebebiyle işlerini göremeyen veya korunması ve bakımı için kendisine sürekli yardım gereken ya da başkalarının güvenliğini tehlikeye sokan her erginin kısıtlanacağı (vesayet altına alınacağı); görevlerini yaparlarken vesayet altına alınmayı gerekli kılan bir durumun varlığını öğrenen idari makamların, bu durumu hemen yetkili vesayet makamına bildirmek zorunda oldukları" hükme bağlanmıştır.
 
-Kanun'un 409 uncu maddenin ikinci fikrasında, Akıl hastalığı veya akıl zayıflığı sebebiyle kısıtlamaya ancak resmi sağhk kurulu raporu üzerine karar verilir. Häkim, karar vermeden önce, kurul raporunu göz önünde tutarak kısıtlanması istenen kişiyi dinleyebilir."; 474 üncü maddesinde ise, "Akıl hastalığı veya akıl zayıflığı yüzünden kısıtlanmış olan kişi üzerindeki vesayetin kaldırılmasına, ancak kısıtlama sebebinin ortadan kalkmış olduğunun resmi sağlık kurulu raporu ile belirlenmesi hålinde karar verilebiliri hükümleri getirilmiştir.
+Kanun'un 409 uncu maddenin ikinci fikrasında, Akıl hastalığı veya akıl zayıflığı sebebiyle kısıtlamaya ancak resmi sağlık kurulu raporu üzerine karar verilir. Häkim, karar vermeden önce, kurul raporunu göz önünde tutarak kısıtlanması istenen kişiyi dinleyebilir."; 474 üncü maddesinde ise, "Akıl hastalığı veya akıl zayıflığı yüzünden kısıtlanmış olan kişi üzerindeki vesayetin kaldırılmasına, ancak kısıtlama sebebinin ortadan kalkmış olduğunun resmi sağlık kurulu raporu ile belirlenmesi hålinde karar verilebiliri hükümleri getirilmiştir.
 
 Kanun'un 397 nci maddesinde, "vesayet makamının, sulh hukuk mahkemesi olduğu"; 462 nci maddesinin (13) numaralı bendinde, iVesayet altındaki kişinin bir eğitim, bakım veya sağlık kurumuna yerleştirilmesinin, vesayet makamının iznine bağlı bulunduğu" düzenlenmiştir.
 

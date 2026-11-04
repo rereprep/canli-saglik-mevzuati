@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103579/isbt-numaralandirma-sistemi-genelgesi-201242.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.16. Kritik Kan Stok Seviyesinin Korunması Genelgesi (2013/24) 2.3.17. ISBT Numaralandırma Sistemi Genelgesi (2012/42) kaldırmaz. Bu Kanun kapsamındaki hizmet birimleri, standartlar ve çalışma usul ve esasları ile ilgili olarak Bakanlıkça sonradan yapılacak düzenlemelere de uymak zorundadırlar" hükmü gereğince tüm Süreli Bölge Kan Merkezleri ve Transfüzyon Merkezlerinin 01.01.2013 tarihi itibari ile "Türk Kızılayı Kan ve Kan Bileşeni Tanımlama ve Izlenebilirlik Sistemi" ne dahil olması ve ISBT numaralandırma sistemini kullanmaları gerekmektedir.
@@ -24,4 +25,4 @@ Müsteşar Iletişim Adresleri: Türk Kızılayı ISBT Kod Tanımlama web sitesi
 
 ### DAĞITIM:
 
-81 Il Valiligine
+81 Il Valiliğine

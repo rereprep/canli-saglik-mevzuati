@@ -8,17 +8,18 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103576/hastane-yatak-sayisi-ve-tanimlar-genelgesi-200865.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.4. Hastane Yatak Sayısı ve Tanımlar Genelgesi (2008/65)
 
-### T.C. SAGLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürluğu
+### T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürluğu
 
 y1 : B.10.0.THG.0.10.00.02/010.0 ›nu : Hastane Yatak Sayısı ve Tanıml 40370 24.10.2008
 
 ### ENELG 008 / 6
 
-Ilgi : 20.07.2006 tarihli ve 13962 (2006/87) sayıl Genelge.
+İlgi : 20.07.2006 tarihli ve 13962 (2006/87) sayıl Genelge.
 
 Bakanlığımıza ait hastanelerde kullanılan yataklara ilişkin düzenlemelerle alakalı olarak yayımlanan ilgide kayıtlı genelge esaslarının uygulanması sırasında farklı değerlendirme ve yorumlardan kaynaklanan sorun ve aksaklıklarla karşılaşıldığı, bazı hususlarda ise tereddütler oluştuğu
 
@@ -26,7 +27,7 @@ Bu bağlamda, Bakanlığımıza bağlı yataklı tedavi kurumlarındaki hizmet k
 
 Buna göre, hastanelerdeki mevcut yataklar için kadro yatağı, fiili yatak, hastane yatağı gibi daha önce kullanılmakta olan farklı kavramların kullanılmaması gerekmekte olup hastanelerimizin yatak sayısının belirlenmesi ve hizmet kapasitesinin tespitinde ekte (Ek-1) gönderilen HASTANE HIZMETLERİNDE TEMEL KAVRAMLAR" başlıklı dokümanda belirlenen " Hasta Yatağı" tanımı uyarınca işlem yapılmasını, hastanelerin çalışmalarına ilişkin istatistik verilerinin hazırlanmasında ve bu konuda yapılacak hesaplamalarda yine aynı dokümanda örnekleme yapılmak suretiyle açıkça tanımlanan istatistik formüllerinin esas alınmasını,
 
-Ilgili baştabiplikler tarafından hastanelerin yatak sayılarının yeni düzenlemeye uygun olarak tespitlerinin yapılarak servislere göre yatak dağılımlarını ve hastane toplam yatak sayısını gösterir şekilde hazırlanacak ve Il Sağlık Müdürluklerince onaylanacak yatak dağılım cetvellerinin tescil işlemlerine esas olmak üzere 31.12.2008 tarihinden önce Bakanlığımızda olacak şekilde gönderilmesini,
+İlgili baştabiplikler tarafından hastanelerin yatak sayılarının yeni düzenlemeye uygun olarak tespitlerinin yapılarak servislere göre yatak dağılımlarını ve hastane toplam yatak sayısını gösterir şekilde hazırlanacak ve İl Sağlık Müdürluklerince onaylanacak yatak dağılım cetvellerinin tescil işlemlerine esas olmak üzere 31.12.2008 tarihinden önce Bakanlığımızda olacak şekilde gönderilmesini,
 
 Ayrıca, ilgide kayıthı Bakanlık Genelgesi yürürlükten kaldırılmış olup bu konudaki iş ve işlemlerin iş bu genelge ve eki "HASTANE HİZMETLERİNDE TEMEL KAVRAMLAR" çerçevesinde yürütülmesi gerektiği hususunun ilgili kurum ve kuruluşlara imza karşılığı tebliğini önemle rica ederim.
 

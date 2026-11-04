@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103519/saglik-raporlarinin-duzenlenmesi-hakkinda-genelge-201429.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.5. Sağlık Raporlarının Düzenlenmesi Hakkında Genelge (2014/29)
@@ -46,7 +47,7 @@ Uygun olarak düzenleyecektir. Ancak, üst hukuk normları ile formatı özellik
 
 5. Genelge eki Ek-S'te yer alan "Durum Bildirir Tek Hekim Sağlık Raporu'nun" birinci basamak sağlık hizmet sunucularında düzenlenmesinde aşağıdaki hükümler geçerlidir:
 
-a) Durum Bildirir Tek Hekim Sağlık Raporu almak için birinci basamak sağhk hizmet sunucularına müracaat edecek kişiler, öncelikle aile sağlığı merkezlerinden ve toplum sağlığ: merkezlerinden veya www.thsk.gov.tr adresinden Genelge eki Ek- 6"da yer alan, Kişisel Sağlık Bilgi Formu" temin edecektir. Başvuru sahibinin bu formda sağlık durumuna (hastalık, şikâyet, aile öyküsü vb.) ilişkin bilgilerin yer aldığı alanları doldurup imzalaması gerekmektedir. Başvuru sahibi 18 yaş altında ise form, velileri veya yasal temsilcileri tarafından imzalanacaktır. Birinci basamak sağlık kuruluşlarına imzalanmış "Kişisel Sağlık Bilgi Formu" ile başvurmayan kişilerin muayeneleri yapılmayacak, rapor düzenlenmeyecektir.
+a) Durum Bildirir Tek Hekim Sağlık Raporu almak için birinci basamak sağlık hizmet sunucularına müracaat edecek kişiler, öncelikle aile sağlığı merkezlerinden ve toplum sağlığ: merkezlerinden veya www.thsk.gov.tr adresinden Genelge eki Ek- 6"da yer alan, Kişisel Sağlık Bilgi Formu" temin edecektir. Başvuru sahibinin bu formda sağlık durumuna (hastalık, şikâyet, aile öyküsü vb.) ilişkin bilgilerin yer aldığı alanları doldurup imzalaması gerekmektedir. Başvuru sahibi 18 yaş altında ise form, velileri veya yasal temsilcileri tarafından imzalanacaktır. Birinci basamak sağlık kuruluşlarına imzalanmış "Kişisel Sağlık Bilgi Formu" ile başvurmayan kişilerin muayeneleri yapılmayacak, rapor düzenlenmeyecektir.
 
 b) "Kişisel Sağlık Bilgi Formu" aile hekimleri tarafindan aile hekimliği biriminde muhafaza
 
@@ -64,7 +65,7 @@ c) Sağlık Bakanlığına bağlı birinci basamak sağlık hizmet sunucularınd
 
 11. Iş bu genelge tarihinden önce ilgide kayıtlı genelge uyarınca ve önceki rapor formatlarına göre düzenlenmiş raporlar süresi bitimine kadar geçerli olacaktır.
 
-12. Ilaç kullanım raporları, Sağlık Uygulama Tebliğin 4.1.3- İlaç kullanımına esas sağhk raporlarının düzenlenmesi maddesinde belirtilen hükümler çerçevesinde elektronik ortamda düzenlenecek ve bu raporlar başhekimlik tarafindan elektronik ortamda onaylanacaktır.
+12. Ilaç kullanım raporları, Sağlık Uygulama Tebliğin 4.1.3- İlaç kullanımına esas sağlık raporlarının düzenlenmesi maddesinde belirtilen hükümler çerçevesinde elektronik ortamda düzenlenecek ve bu raporlar başhekimlik tarafindan elektronik ortamda onaylanacaktır.
 
 13. SUT' ta özel düzenleme bulunan ilaç ve tibbi malzemelerin reçete ve raporları, SUT' ta belirtilen usul ve esaslar çerçevesinde düzenlenecektir.
 

@@ -8,11 +8,10 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103521/silikozis-genelgesi-200862.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.12. Silikozis Genelgesi (2008/62)
-
-### T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğu
 
 Sayr : B10.0.TSH.0.10.00.06. Konu : Silikozis
 
@@ -42,7 +41,7 @@ ve gerekli görülenlerin Meslek Hastalıkları Hastanesine sevkinin yapılması
 
 2. Silikozis teşhisi konulan hastaların çalıştıkları işyerleri ve risk altında olan tüm
 
-işkollarına Il Sağlık Müdürlüğü Gıda Çevre Kontrol Şube Müdürlüğünce gerekli
+işkollarına İl Sağlık Müdürlüğü Gıda Çevre Kontrol Şube Müdürlüğünce gerekli
 
 denetimlerin yapılması,
 

@@ -6,9 +6,14 @@ birim: "Hukuk Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11252/saglik-bakanligi-izin-yonergesi.html"
 durum: "yürürlükte"
+ocr: true
 ---
 
-## T.C. SAĞLIK BAKANLIĞI İZİN YÖNERGESİ 1995
+T.C.
+
+### SAĞLIK BAKANLIĞI İZİN YÖNERGESİ BBIK BAKAMIB TURKEY
+
+1995
 
 ### T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü SAYI : B.100.PER-01-300-21/00100 09/01/1995
 

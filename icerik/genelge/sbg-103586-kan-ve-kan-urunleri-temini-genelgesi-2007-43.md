@@ -8,6 +8,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103586/kan-ve-kan-urunleri-temini-genelgesi-200743.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.50. Kan ve Kan Ürünleri Temini Genelgesi (2007/43)
