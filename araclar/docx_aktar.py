@@ -96,7 +96,8 @@ def main():
                 if any(hucreler):
                     bloklar.append(" | ".join(hucreler))
         k = kunye.get(sade(klasor.name), {})
-        veri = {"id": kimlik(klasor.name), "baslik": klasor.name, "tur": "yonerge"}
+        ad = unicodedata.normalize("NFC", klasor.name)
+        veri = {"id": kimlik(ad), "baslik": ad, "tur": "yonerge"}
         veri.update({a: b for a, b in k.items() if b})
         veri["kaynak"] = "Sağlık Bakanlığı yönerge metni (Word)"
         veri["durum"] = "yürürlükte"

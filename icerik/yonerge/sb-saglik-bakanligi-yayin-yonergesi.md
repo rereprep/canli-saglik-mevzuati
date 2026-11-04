@@ -10,113 +10,59 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-2.2.10. Sağlık Bakanlığı Yayın Yönergesi
+2.2.10. Sağlık Bakanlığı Yayın Yönergesi 02.06.2014 tarih ve 6404779/2014.5403.6 sayılı Makım Oluru ile yürürlüğe konulan
 
-### 02.06.2014 tarih ve 6404779/2014.5403.6 sayılı Makım Oluru ile yürürlüğe konulan SAĞLIK BAKANLIĞI YAYIN YÖNERGESİ
+### SAĞLIK BAKANLIĞI YAYIN YÖNERGESİ
 
 ## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönergenin amacı; Sağhk Bakanlığı'nın yayın faaliyetlerine ilişkin usul ve esaslan
+**MADDE 1 –** (1) Bu Yönergenin amacı; Sağhk Bakanlığı'nın yayın faaliyetlerine ilişkin usul ve esaslan düzenlemektir. Kapsam
 
-düzenlemektir.
+**MADDE 2 –** (1) Bu Yönerge, Sağlık Bakanlığı ve bağlı kuruluşlarının merkez ve taşra teşkilatlarının yayın faaliyetlerini kapsar. Dayanak
 
-#### Kapsam
+**MADDE 3 –** (1) Bu Yönerge, 663 sayıh Sağlık Bakanlığı ve Bağlı Kuruluşlarımın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 375 sayılı Kanun Hükmünde Karamamenin Ek 1 inci maddesi ile 23/01/2007 tarihli ve 26412 sayılı Resmi Gazetede yayımlanan 'Kamu Kurum ve Kuruluşlarınca Odenccek Telif ve Işlenme Ücretleri Hakkında Yönetmelik' hükümlerine dayamılarak hazırlanmıştır. Tanımlar
 
-**MADDE 2 –** (1) Bu Yönerge, Sağlık Bakanlığı ve bağlı kuruluşlarının merkez ve taşra teşkilatlarının
+**MADDE 4 –** (1) Bu Yönergede geçen; )Bakanlık: Sağhık Bakanlığı ve bağlı kuruluşlarımın merkez ve taşra teşkilatlarını, b)Braille Yayı: Görme engelliler için kabartma harflerle basılmış eserleri
 
-yayın faaliyetlerini kapsar.
-
-#### Dayanak
-
-**MADDE 3 –** (1) Bu Yönerge, 663 sayıh Sağlık Bakanlığı ve Bağlı Kuruluşlarımın Teşkilat ve Görevleri
-
-Hakkında Kanun Hükmünde Kararname, 375 sayılı Kanun Hükmünde Karamamenin Ek 1 inci maddesi ile
-
-23/01/2007 tarihli ve 26412 sayılı Resmi Gazetede yayımlanan 'Kamu Kurum ve Kuruluşlarınca Odenccek
-
-Telif ve Işlenme Ücretleri Hakkında Yönetmelik' hükümlerine dayamılarak hazırlanmıştır.
-
-#### Tanımlar
-
-**MADDE 4 –** (1) Bu Yönergede geçen;
-
-)Bakanlık: Sağhık Bakanlığı ve bağlı kuruluşlarımın merkez ve taşra teşkilatlarını,
-
-b)Braille Yayı: Görme engelliler için kabartma harflerle basılmış eserleri
-
-e) Elektronik Yayın: Eserlerin her türlü elektronik ortamda sunulmuş şeklini, ç) Genel Müdürlük:
-
-Sağlık Hizmetleri Genel Müdürlüğünü,
-
-ș)Işlenme Eser: Diğer bir eserden istifade suretiyle vücuda getirilip de bu eserlere nispetle müstakil
-
-olmayan ve işleyenin hususiyetini taşıyan fikir ve sanat mahsullerini,
+e) Elektronik Yayın: Eserlerin her türlü elektronik ortamda sunulmuş şeklini, ç) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü, ș)Işlenme Eser: Diğer bir eserden istifade suretiyle vücuda getirilip de bu eserlere nispetle müstakil olmayan ve işleyenin hususiyetini taşıyan fikir ve sanat mahsullerini,
 
 d) Kurul: Bakanlık Yayın Kurulunu,
 
 e) Kurul Başkanı: Müsteşar veya görevlendireceği Müsteşar Yardımcısını,
 
-f) Süreli Olmayan Yayın: Fikir ve sanat eserlerini içeren, belirli sürelere tabi olmaksızın yayımlanan
+f) Süreli Olmayan Yayın: Fikir ve sanat eserlerini içeren, belirli sürelere tabi olmaksızın yayımlanan ve gazete, dergi, ünite dergisi, yıllık, almanak ve benzeri dışında kalan her tür yayını, g)üreli Yayın: Belirli aralıklarla çıkan ve her sayısı birden çok yazarın yazılarından oluşan yayın türünü,
 
-ve gazete, dergi, ünite dergisi, yıllık, almanak ve benzeri dışında kalan her tür yayını,
-
-g)üreli Yayın: Belirli aralıklarla çıkan ve her sayısı birden çok yazarın yazılarından oluşan yayın
-
-türünü,
-
-g) Telif Eser: Herhangi bir şekilde dil ile ifade olunan eserler ile doğrudan meydana getirilen fikir
-
-mahsullerini,
+g) Telif Eser: Herhangi bir şekilde dil ile ifade olunan eserler ile doğrudan meydana getirilen fikir mahsullerini,
 
 h) Tercüme: Yazıldığı dilden başka bir dile aynen çevrilen eseri,
 
-i) Yayın Komisyonu: Yönetmeliğin 14 Bncü maddesinde tanımlanan komisyonu,
-
-Ifade eder.
+i) Yayın Komisyonu: Yönetmeliğin 14 Bncü maddesinde tanımlanan komisyonu, Ifade eder.
 
 ### IKINCI BOLÜM Yayın Amaçları, Yayın Faaliyetleri ve Yayın Faaliyetlerinin Yürütülmesi
 
-Yayın amaçları
-
-MADDE S- (1) Bakanlığın yäyı amaçlanı şunlardır.
+Yayın amaçları MADDE S- (1) Bakanlığın yäyı amaçlanı şunlardır.
 
 a) Bakanlığın görev alanma giren faaliyetleri toplumun tüm kesimlerine duyurmak, Bakanlığm kanuni görevleri ile ilgili olarak toplumun sağhk bilincinin gelişmesine ve kamuoyu oluşmasına katkıda bulunmak,
 
-b) Bakanlığın görev alanına giren konularda araştırma ve incelemeleri yayınlayarak bu konudaki literatürün genişlemesini ve bu alanda hizmet veren kişi, kurum ve kuruluşlar arasında bilgi alış verişini ve yeni gelişmelerin duyurulmasını sağlamak,
+b) Bakanlığın görev alanına giren konularda araştırma ve incelemeleri yayınlayarak bu konudaki literatürün genişlemesini ve bu alanda hizmet veren kişi, kurum ve kuruluşlar arasında bilgi alış verişini ve yeni gelişmelerin duyurulmasını sağlamak, o)Sağhk personelinin hizmet içi eğitimine katkıda bulunmak, sağhk hizmetinin kalitesini artımak, stratejik planlamalarım oluşturulmasına yardımcı olmak. Yayın faaliyetleri
 
-o)Sağhk personelinin hizmet içi eğitimine katkıda bulunmak, sağhk hizmetinin kalitesini artımak, stratejik planlamalarım oluşturulmasına yardımcı olmak.
+**MADDE 6 –** (1) Bakanhğın yayın faaliyetleri; yayın amaçları doğrultusunda süreli veya süreli olmayan yayınlar, braille yayım, afiş, broşür, bilgilendirici belge gibi basıh eserler ile basılı olmayan CD, DVD vb. manyetik depolama ünitesi şeklindeki ve Bakanlık internet sitesinde hizmete sunulacak elektronik eserleri hazırlamak, hazırlatmak, temin etmek, yayınlamak ve dağıtmaktır. Yayın faaliyetlerinin yürütülmesi
 
-#### Yayın faaliyetleri
-
-**MADDE 6 –** (1) Bakanhğın yayın faaliyetleri; yayın amaçları doğrultusunda süreli veya süreli olmayan yayınlar, braille yayım, afiş, broşür, bilgilendirici belge gibi basıh eserler ile basılı olmayan CD, DVD vb. manyetik depolama ünitesi şeklindeki ve Bakanlık internet sitesinde hizmete sunulacak elektronik eserleri hazırlamak, hazırlatmak, temin etmek, yayınlamak ve dağıtmaktır.
-
-#### Yayın faaliyetlerinin yürütülmesi
-
-**MADDE 7 –** (1) Bakanlıkça yayımlanacak telif ve işlenme eserlerle ilgili iş ve işiemler Yayın Kurulunca, Bakanlık birimleri ve bağlı kuruluşlarının yayın fasliyetleri ise Yayın Komisyonunca yüratülür.
-
-#### Yayı ilkeleri
+**MADDE 7 –** (1) Bakanlıkça yayımlanacak telif ve işlenme eserlerle ilgili iş ve işiemler Yayın Kurulunca, Bakanlık birimleri ve bağlı kuruluşlarının yayın fasliyetleri ise Yayın Komisyonunca yüratülür. Yayı ilkeleri
 
 **MADDE 8 –** (1) Yayınlarda uyulması gereken ilkeler;
 
-a) Bakanlığın kuruluş, amaç ve görevleri doğrultusunda doğru bilgi verici, eğitici, öğretici ve tamticı nitelikte olmak
-
-B) Kişi, kurum ve kuruluşları yıpratıcı veya menfaat sağlayıcı unsurlar ihtiva etmemek,
-
-e)Milli birlik ve beraberliğimizi bozucu görüşlere, insanı, aileyi veya topłumun bir kesimini küçük düşürücü bilgi, belge ve yorumlara yer vermemek,
+a) Bakanlığın kuruluş, amaç ve görevleri doğrultusunda doğru bilgi verici, eğitici, öğretici ve tamticı nitelikte olmak B) Kişi, kurum ve kuruluşları yıpratıcı veya menfaat sağlayıcı unsurlar ihtiva etmemek, e)Milli birlik ve beraberliğimizi bozucu görüşlere, insanı, aileyi veya topłumun bir kesimini küçük düşürücü bilgi, belge ve yorumlara yer vermemek,
 
 ç) Türkiye Cumhuriyeti Anayasasına ve Kanunlara göre suç teşkil eden unsurları bulundurmamak,
 
-d) Toplumun sağlık düzeyinin yükseltilmesine, sosyal, kültürel ve ekonomik kalkınmasına yardımcı olmak,
-
-ø) Sağlık birimleriyle ilgili ilmi ve teknik değer taşımak,
+d) Toplumun sağlık düzeyinin yükseltilmesine, sosyal, kültürel ve ekonomik kalkınmasına yardımcı olmak, ø) Sağlık birimleriyle ilgili ilmi ve teknik değer taşımak,
 
 1) Sıyasi amaçh ve propagandaya yönelik olmamak,
 
-g) Eserlerin, Türk dılinin zengin varkğından faydalanıtarak herkesin kolayca anlayabileceği yaşayan Türkçe'nin kullanılmasıyla hazırlanmış olmaktır.
-
-#### Yayın şartları
+g) Eserlerin, Türk dılinin zengin varkğından faydalanıtarak herkesin kolayca anlayabileceği yaşayan Türkçe'nin kullanılmasıyla hazırlanmış olmaktır. Yayın şartları
 
 ### MADDE 9- (1)
 
@@ -126,9 +72,7 @@ a) Yazar, eserin baskılarına ait haklarını devrettiğine dair noterlikçe d�
 
 b) Ilgili birimce bastırılacak dergilerde yayımlanacak makale ve çevirilerde temliknamenin noterlikçe düzenlenme şartı aranmaz, yazılı bildirim yeterli olur.
 
-•)Yazar, eserin daha önce herhangi bir şekilde yayımlanıp yayimlanmadığı hususunu belirten bir beyannameyi ilgili birime vermek zorundadır.
-
-ş)Işlenme eserlerde, gerek görüldüğünde asıl eser sahibinden alınacak izin belgesi istenir ve eklenir.
+•)Yazar, eserin daha önce herhangi bir şekilde yayımlanıp yayimlanmadığı hususunu belirten bir beyannameyi ilgili birime vermek zorundadır. ş)Işlenme eserlerde, gerek görüldüğünde asıl eser sahibinden alınacak izin belgesi istenir ve eklenir.
 
 d) Ortak eserlerle ilgili sözleşmeyi ve gerekli iso izin belgesini eser sahiplerinden birisi, diğerlerinin vekåletini almak suretiyle ilgili birime verebilir.
 
@@ -138,17 +82,13 @@ f) Ilgili birimce bastırılacak dergilerde yayımlanacak eserlerin, käğıdı 
 
 g) Ilgilibirimce bastırılacak dergilerde yayınlanacak makale ve çevirilerde gerektiğinde yazarm veya yazarların izni alınarak kısaltma yapılabilir.
 
-g) Eserlerde ileri sürülen görüş ve düşünceler ile bunlardan doğabilecek her türlü sorumluluk eser sahibine aittir.
-
-#### Yayı inceleme kriterleri
+g) Eserlerde ileri sürülen görüş ve düşünceler ile bunlardan doğabilecek her türlü sorumluluk eser sahibine aittir. Yayı inceleme kriterleri
 
 **MADDE 10 –** (1) Yayı Komisyonu, yayıları Yönergenin 5 inci ve 8 inci maddesinde belirtilen hususlara göre inceler ve degerlendirir.
 
 ### ÜÇÜNCÜ BÖLÚM
 
-Bakanlık Yayın Kurulu, Yayın Komisyonu
-
-#### Bakanhk Yayın Kurulu
+#### Bakanlık Yayın Kurulu, Yayın Komisyonu Bakanhk Yayın Kurulu
 
 **MADDE 11 –** (1) Kurul, Müsteşar veya görevlendireceği Müsteşar Yardımcısının başkanlığında aşağıdaki birimlerin genel müdürlerinden/başkanlarından oluşur;
 
@@ -162,13 +102,9 @@ g) Hukuk Müşavirliği (1. Hukuk Müşaviri)
 
 d) Türkiye Kamu Hastaneleri Kurumu
 
-e) Türkiye Halk Sağlığı Kurumu
+#### e) Türkiye Halk Sağlığı Kurumu Bakanhk Yayın Kurulunun görevi
 
-#### Bakanhk Yayın Kurulunun görevi
-
-**MADDE 12 –** (1) Kurulun görevi; Bakanlığm merkez ve taşra teşkilatları tarafından yayıminacak telif ve işlenme eserler hakkıda, ilgili Yayı Komisyonu'nun görüş ve teklifleri doğrultusunda, telif ve işlenme eserlerle ilgili iş ve işlemleri 23/01/2007 tarihli ve 26412 sayılı Resmi Gazetede yayımlanan Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik hükümlerine göre yerine getirilmesini sağlamaktır.
-
-#### Bakanlık Yayı Kurulunun işleyişi
+**MADDE 12 –** (1) Kurulun görevi; Bakanlığm merkez ve taşra teşkilatları tarafından yayıminacak telif ve işlenme eserler hakkıda, ilgili Yayı Komisyonu'nun görüş ve teklifleri doğrultusunda, telif ve işlenme eserlerle ilgili iş ve işlemleri 23/01/2007 tarihli ve 26412 sayılı Resmi Gazetede yayımlanan Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik hükümlerine göre yerine getirilmesini sağlamaktır. Bakanlık Yayı Kurulunun işleyişi
 
 **MADDE 13 –** (1) Kurul gündem gereği Kurul Başkanını daveti üzerine toplanır, Kurul Başkanı Kurula başkanlık eder.
 
@@ -188,13 +124,9 @@ e) Türkiye Halk Sağlığı Kurumu
 
 (8) Sağlık Hizmetleri Genel Müdürlugü Eğitim ve Sertifikasyon Hizmetleri Daire Başkanı Kurulun
 
-raportôrúdür.
+#### raportôrúdür. Yayın Komisyonu
 
-#### Yayın Komisyonu
-
-**MADDE 14 –** (1) Bakankık merkez ve taşra teşkilatlarında yayın faaliyetinde bulunacak olanların her birinde ayrı ayrı, merkezde birim amiri/başkanı veya görevlendireceği yardımcısının başkanlığında; Il sağlık müdürlüklerinde ise, il sağlık müdürü veya görevlendireceği müdür yardımeısıın başkanlığında, Halk Sağlığı Il Müdürluğü ve Kamu Hastaneleri Birliği Genel Sekreterliğinden birer temsilci alınarak en az üç kişiden oluşan bir Yayın Komisyonu teşkil olunur.
-
-#### Yayın Komisyonunun görevleri
+**MADDE 14 –** (1) Bakankık merkez ve taşra teşkilatlarında yayın faaliyetinde bulunacak olanların her birinde ayrı ayrı, merkezde birim amiri/başkanı veya görevlendireceği yardımcısının başkanlığında; Il sağlık müdürlüklerinde ise, il sağlık müdürü veya görevlendireceği müdür yardımeısıın başkanlığında, Halk Sağlığı Il Müdürluğü ve Kamu Hastaneleri Birliği Genel Sekreterliğinden birer temsilci alınarak en az üç kişiden oluşan bir Yayın Komisyonu teşkil olunur. Yayın Komisyonunun görevleri
 
 **MADDE 15 –** (1) Yayın Komisyonunun görevleri şunlardır.
 
@@ -206,9 +138,7 @@ e) Yayınları, gerektiğinde yayım ilgili olduğu alanda uzman kişilerden olu
 
 q) Birimince yayınlanacak her türlü eserin, teknik özelliklerini ve baskı şartnamesinin esasları ile maliyet, baskı miktarı ve dağıtın planı gibi kriterlerini belirlemek ve değerlendirmek,
 
-d) Yayınlarda yer alacak Bakanlık görev alanına giren konulardaki istatistiki verilere ilişkin ve bilimsel olarak ilgili birimin, biçimsel olarak da Sağlık Araştırmaları Genel Müdürlüğünün görüşünü almak.
-
-#### Yayın Komisyonunun işleyişi
+d) Yayınlarda yer alacak Bakanlık görev alanına giren konulardaki istatistiki verilere ilişkin ve bilimsel olarak ilgili birimin, biçimsel olarak da Sağlık Araştırmaları Genel Müdürlüğünün görüşünü almak. Yayın Komisyonunun işleyişi
 
 **MADDE 16 –** (1) Yayı Komisyonu, gündem gereği üyelerinin tamamının katılımı ile toplanır.
 
@@ -222,9 +152,7 @@ d) Yayınlarda yer alacak Bakanlık görev alanına giren konulardaki istatistik
 
 ## DÖRDÜNCÜ BÖLÜM Çeşitli Hükümler
 
-Telif haklarının belirlenmesi, Bandrol uygulanması, Bakanlık Yayın Numarası, ISBN ve ISSN
-
-ahumas:
+Telif haklarının belirlenmesi, Bandrol uygulanması, Bakanlık Yayın Numarası, ISBN ve ISSN ahumas:
 
 **MADDE 17 –** (1) Bu Yönerge hükümlerine göre yayımlanacak telif ve işlenme eserlere uygulanacak telif ve işlenme ücreti, 23/01/2007 tarihli ve 26412 sayılı Resmi Gazetede yayımlanan "Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve Işlenme Ücretleri Hakkında Yönetmelik" hükümlerine göre belirlenir ve odenir. Ancak; resmi görevlendirme ile hazırlanmış eserlere telif ve işlenme ücreti ödenmez.
 

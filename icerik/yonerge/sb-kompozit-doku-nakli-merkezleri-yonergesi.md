@@ -146,9 +146,7 @@ b) Merkezin bulunduğu hastanede olmadığı takdirde hizmet satın alma yoluyla
 
 6) Sintigrafi yapabilen nükleer tıp merkezi.
 
-c) Vericinin vücut bütünluğünün eski haline getirilmesine yönelik ortez/protez işlemleri için ilgili yerlerle yapılmış anlaşmalar.
-
-#### Faaliyet iznine esas personel
+c) Vericinin vücut bütünluğünün eski haline getirilmesine yönelik ortez/protez işlemleri için ilgili yerlerle yapılmış anlaşmalar. Faaliyet iznine esas personel
 
 **MADDE 12 –** (1) Mesul müdür: Merkezin, idari ve teknik hizmetleri, tam zamanlı çalışacak bir mesul müdür sorumluluğunda yürütülür. Nakıl merkezleri bir hastane bünyesinde faaliyet göstereceğinden özel hastanelerde hastane mesul müdürü veya görevlendireceği bir kişi, kamu hastaneleri ve üniversitelerde ise başhekim, başhekim yardımcısı ya da başhekimin görevlendireceği bir kişi nakil merkezinin mesul müdürü olarak görevlendirilir. Sorumlu uzmanlardan biri aynı zamanda mesul müdür olarak da görevlendirilebilir.
 
@@ -156,9 +154,7 @@ c) Vericinin vücut bütünluğünün eski haline getirilmesine yönelik ortez/p
 
 (3) Sorumlu uzman yardımcısı: Merkezin yapacağı her bir nakil türü için bu Yönergedeki nitelikleri haiz bir uzman tabip, sorumlu uzmana yardımcı olarak görevlendirilir.
 
-(4) Sorumlu uzman ve sorumlu uzman yardımcısı olacak kişiler; Nakil türü bakımından Yönergedeki niteliklere sahip olmak kaydı ile birden fazla nakil türü için bu görevi alabilirler.
-
-#### Personelin görev, yetki ve sorumlulukları
+(4) Sorumlu uzman ve sorumlu uzman yardımcısı olacak kişiler; Nakil türü bakımından Yönergedeki niteliklere sahip olmak kaydı ile birden fazla nakil türü için bu görevi alabilirler. Personelin görev, yetki ve sorumlulukları
 
 **MADDE 13 –** (1) Mesul müdür; merkezin, idari ve teknik hizmetlerini mevzuata uygun olarak idare etmek ve denetlemekten sorumludur. Bu kapsamda;
 
@@ -256,9 +252,7 @@ k) Yeterli sayıda hemşıre,
 
 m) Organ nakli koordinatörü,
 
-n) Nakil konusunda deneyimli immünolog. Nakil merkezinde immünolog yok ise hizmet alımı yoluyla 24 saat destek verecek immünolog.
-
-#### Birimler ve donanim
+n) Nakil konusunda deneyimli immünolog. Nakil merkezinde immünolog yok ise hizmet alımı yoluyla 24 saat destek verecek immünolog. Birimler ve donanim
 
 **MADDE 17 –** (1) Yüz ve saçlı deri nakli yapılan merkezin bulunduğu hastanede bu Yönergenin 11 inci maddesinde sayılan birimler ve donanımla birlikte plastik cerrahi birimi bulunur.
 
@@ -268,9 +262,7 @@ n) Nakil konusunda deneyimli immünolog. Nakil merkezinde immünolog yok ise hiz
 
 **MADDE 18 –** (1) Sorumlu uzman: a) Ust solunum/sindirim yolları nakli yapılan merkezde, uzman olduktan sonra yurtiçi veya yurtdışında üst solunum yolları ve üst sindirim yolları cerrahisi alanında en az iki yıl deneyimli olduğunu ilgili kurumdan belgeleyen kulak burun boğaz, genel cerrahi veya göğüs cerrahisi uzmanı bir hekim veya,
 
-b) Uzman olduktan sonra yurtiçi veya yurtdışında mikrovasküler cerrahi alanında en az iki yıl deneyimli, en az 50 replantasyon veya serbest doku nakli ameliyatında aktif görev almış, bunlardan en az 25 vakayı bizzat kendisinin yapmış olduğunu ilgili kurumdan belgeleyen kulak burun boğaz, genel cerrahi veya göğüs cerrahisi uzmanı hekım,
-
-sorumlu uzman olarak görevlendirilir.
+b) Uzman olduktan sonra yurtiçi veya yurtdışında mikrovasküler cerrahi alanında en az iki yıl deneyimli, en az 50 replantasyon veya serbest doku nakli ameliyatında aktif görev almış, bunlardan en az 25 vakayı bizzat kendisinin yapmış olduğunu ilgili kurumdan belgeleyen kulak burun boğaz, genel cerrahi veya göğüs cerrahisi uzmanı hekım, sorumlu uzman olarak görevlendirilir.
 
 (2) Sorumlu uzman yardımcısı: Sorumlu uzmanın birinci fikranın (a) bendindeki niteliklere sahip olması halinde aynı fıkranın (b) bendinde sayılan niteliklere sahip bir hekim, sorumlu uzmanın birinci fikranın (b) bendindeki niteliklere sahip olması halinde, aynı fıkranın (a) bendınde sayılan niteliklere sahip bir hekim, sorumlu uzman yardımcısı olarak görevlendirilir.
 
@@ -312,9 +304,7 @@ n) Tibbi sekreter.
 
 o) Organ nakli koordinatörü,
 
-ö) Nakil konusunda deneyimli immünolog. Nakil merkezinde immünolog yok ise hizmet alımı yoluyla 24 saat destek verecek immünolog.
-
-#### Birimler ve donanım
+ö) Nakil konusunda deneyimli immünolog. Nakil merkezinde immünolog yok ise hizmet alımı yoluyla 24 saat destek verecek immünolog. Birimler ve donanım
 
 **MADDE 19 –** (1) Üst solunum/sindirim yolları nakli yapılan merkezin bulunduğu hastanede bu Yönergenin 11 inci maddesinde sayılan birimler ve donanımla birlikte; kulak burun boğaz, genel cerrahi, göğüs hastalıkları, göğüs cerrahisi, gastroenteroloji birimleri, solunum fonksiyon test laboratuarı bulunur.
 

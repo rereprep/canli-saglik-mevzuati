@@ -1,6 +1,6 @@
 ---
 id: "dx-saglik-tesisleri-kurum-hedef-katsayisinin-belirlenmesine-iliskin-yonerge"
-baslik: "Sağlık Tesisleri Kurum Hedef Katsayısının Belirlenmesine İlişkin Yönerge"
+baslik: "Sağlık Tesisleri Kurum Hedef Katsayısının Belirlenmesine İlişkin Yönerge"
 tur: "yonerge"
 tarih: "2025-05-23"
 sayi: "277164646"

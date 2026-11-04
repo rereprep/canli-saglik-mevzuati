@@ -8,6 +8,9 @@ konu: "Kamu, özel ve üniversite ambulanslarının il ambulans servisi koordina
 etiketler: ["ambulans koordinasyonu", "özel ambulans", "il ambulans"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 357-358"
 durum: "yürürlükte"
+ocr: true
 ---
 
-3.3.6.Ambulans Hizmetleri Koordinasyonu Genelgesi (2005/30)
+3.3.6.Ambulans Hizmetleri Koordinasyonu Genelgesi (2005/30) * * * * *
+
+### T.C. SAĞLIK BAKANLIĞI

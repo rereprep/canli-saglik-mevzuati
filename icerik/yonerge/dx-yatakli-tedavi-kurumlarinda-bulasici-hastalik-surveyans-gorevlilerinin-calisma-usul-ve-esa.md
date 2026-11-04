@@ -1,6 +1,6 @@
 ---
 id: "dx-yatakli-tedavi-kurumlarinda-bulasici-hastalik-surveyans-gorevlilerinin-calisma-usul-ve-esa"
-baslik: "Yataklı Tedavi Kurumlarında Bulaşıcı Hastalık Sürveyans Görevlilerinin Çalışma Usul ve Esasları Hakkında Yönerge"
+baslik: "Yataklı Tedavi Kurumlarında Bulaşıcı Hastalık Sürveyans Görevlilerinin Çalışma Usul ve Esasları Hakkında Yönerge"
 tur: "yonerge"
 kaynak: "Sağlık Bakanlığı yönerge metni (Word)"
 durum: "yürürlükte"

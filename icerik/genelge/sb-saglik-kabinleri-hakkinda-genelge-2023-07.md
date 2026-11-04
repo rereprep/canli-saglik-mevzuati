@@ -19,69 +19,37 @@ Sağlık Hizmetleri Genel Müdürluğü 224354451
 
 ### AYARTA TESIS VE TEDAV YALAD OZEL SASUN NURLI
 
-Sayt : 64706799/010.06
-
-Konu : Sağlık Kabinleri Hakkında Genelge
+Sayt : 64706799/010.06 Konu : Sağlık Kabinleri Hakkında Genelge
 
 ### GENELGE 2023/0.7
 
-Ebe, hemşire ve sağlık memuru (toplum sağlğı) tarafından mesleklerini serbest olarak
+Ebe, hemşire ve sağlık memuru (toplum sağlğı) tarafından mesleklerini serbest olarak iera etmek üzere açılacak sağlık kabinlerinin standartları, açılışı, işleyişi ve denetimi ile ilgili usul ve esaslar bu Genelge ile belirlenmiștir.
 
-### iera etmek üzere açılacak sağlık kabinlerinin standartları, açılışı, işleyişi ve denetimi ile ilgili
-
-usul ve esaslar bu Genelge ile belirlenmiștir.
-
-Sağlık kabini; 11/4/1928 tarihli ve 1219 sayıh Tababet ve Şuabatı San'atlarının Tarzı
-
-### Icrasına Dair Kanun'un 50 nei maddesi ile 25/2/1954 ve 6283 sayılı Hemşirelik Kanunu'nun 5 ınci maddesine göre mesleklerini serbest olarak icra etmek hak ve yetkisine sahip olup bu hak ve yetkiyi kullanmak isteyen ebe, hemşire ve sağlık memurlarının (toplum sağlığı bölümünden mezun olanlar) tek başlarına veya yalnızca söz konusu hak ve yetkiye sahip meslektaşları ile ortaklık halinde ve tüm ortakların sağlık kabinınde çalışma şartıyla açabileceği bir özel sağlık kuruluşudur. Ebe, hemşire ve sağlık memurlarından bir üst eğitim görerek farklı ünvan alanlardan sağlık kabini açmak suretiyle mesleklerini serbest olarak icra edebilmelerinde yalnızca ebelik, hemşirelik veya sağlık memurluğu alanındaki ilk eğitimleri ve bu eğitimin
-
-kendilerine tanıdığı mesleki hak ve yetkıler dikkate ahınır.
+Sağlık kabini; 11/4/1928 tarihli ve 1219 sayıh Tababet ve Şuabatı San'atlarının Tarzı Icrasına Dair Kanun'un 50 nei maddesi ile 25/2/1954 ve 6283 sayılı Hemşirelik Kanunu'nun 5 ınci maddesine göre mesleklerini serbest olarak icra etmek hak ve yetkisine sahip olup bu hak ve yetkiyi kullanmak isteyen ebe, hemşire ve sağlık memurlarının (toplum sağlığı bölümünden mezun olanlar) tek başlarına veya yalnızca söz konusu hak ve yetkiye sahip meslektaşları ile ortaklık halinde ve tüm ortakların sağlık kabinınde çalışma şartıyla açabileceği bir özel sağlık kuruluşudur. Ebe, hemşire ve sağlık memurlarından bir üst eğitim görerek farklı ünvan alanlardan sağlık kabini açmak suretiyle mesleklerini serbest olarak icra edebilmelerinde yalnızca ebelik, hemşirelik veya sağlık memurluğu alanındaki ilk eğitimleri ve bu eğitimin kendilerine tanıdığı mesleki hak ve yetkıler dikkate ahınır.
 
 1. Sağlık Kabini Standartları
 
-a) Tibbi işlem odası: Sağlık kabinlerinde hastaya yönelik müdahalenin
+a) Tibbi işlem odası: Sağlık kabinlerinde hastaya yönelik müdahalenin gerçekleştirileceği, içerisinde lavabo bulunan tıbbi işlem odası yer alır. Tıbbi işlem odası yeterli şekilde aydınlatılan ve havalandırılan en az 10 m° kullanım alanına sahip, hasta mahremiyetinin korunduğu, uygun araç, gereç ve donanımı bulunduğu alandır.
 
-### gerçekleştirileceği, içerisinde lavabo bulunan tıbbi işlem odası yer alır. Tıbbi işlem odası yeterli şekilde aydınlatılan ve havalandırılan en az 10 m° kullanım alanına sahip, hasta mahremiyetinin
+b) Hasta bekleme bölümü. Tıbbi işlem odasıın dışında en az 8 m° bekleme bölümü bulunur.
 
-korunduğu, uygun araç, gereç ve donanımı bulunduğu alandır.
+c) Arşiv bölümü: Sağlık kayıtlarımın tutulacağı, dosyalama, verilerin toplanması ve istatistiki değerlendirmelerin yapılabileceği bir bölüm bulunur.
 
-b) Hasta bekleme bölümü. Tıbbi işlem odasıın dışında en az 8 m° bekleme bölümü
+ç) Aydınlatma ve ısıtma: Hastaların ve personelin kullandığı bütün alanlar, uygun bir şekilde havalandırılır ve aydınlatılır. Uygun enerji kaynaklarıdan yararlanılarak ısıtma ve soğutma yapılır.
 
-bulunur.
+d) Binaların doğrudan güneş ışığı almayan bodrum katlarımda sağlık kabini açılamaz.
 
-c) Arşiv bölümü: Sağlık kayıtlarımın tutulacağı, dosyalama, verilerin toplanması ve
+e) Sağlık kabinlerinde denetimlerde gösterilemeyccek oda, dolap, bölüm vb. kapalı yer bulunamaz.
 
-istatistiki değerlendirmelerin yapılabileceği bir bölüm bulunur.
+f) Sağhk kabininin bulunduğu kısımda ilgili mevzuata göre yangına karşı gereken tedbirlerin alındığına dair yetkili merciden belge alınır.
 
-ç) Aydınlatma ve ısıtma: Hastaların ve personelin kullandığı bütün alanlar, uygun bir
+g) Sağlık kabini hizmet alanı içerisinde hiçbir surette başka amaca yönelik işyeri bulunamaz ve içerisindeki bir bölüm başka bir amaçla faaliyet göstermek üzere üçüncü kişilere kiralanamaz.
 
-### şekilde havalandırılır ve aydınlatılır. Uygun enerji kaynaklarıdan yararlanılarak ısıtma ve
-
-soğutma yapılır.
-
-### d) Binaların doğrudan güneş ışığı almayan bodrum katlarımda sağlık kabini açılamaz. e) Sağlık kabinlerinde denetimlerde gösterilemeyccek oda, dolap, bölüm vb. kapalı yer
-
-bulunamaz.
-
-### f) Sağhk kabininin bulunduğu kısımda ilgili mevzuata göre yangına karşı gereken
-
-tedbirlerin alındığına dair yetkili merciden belge alınır.
-
-g) Sağlık kabini hizmet alanı içerisinde hiçbir surette başka amaca yönelik işyeri
-
-### bulunamaz ve içerisindeki bir bölüm başka bir amaçla faaliyet göstermek üzere üçüncü kişilere
-
-kiralanamaz.
-
-2. Sağlık kabini açma hak ve yetkisine sahip meslek mensubu tarafindan sağlık kabini
-
-açmak için İl Sağlık Müdürlüğüne aşağıdaki belgelerle başvurulur:
+2. Sağlık kabini açma hak ve yetkisine sahip meslek mensubu tarafindan sağlık kabini açmak için İl Sağlık Müdürlüğüne aşağıdaki belgelerle başvurulur:
 
 a) Sağhk kabini açma hak ve yetkisine sahip kişinin dilekçesı,
 
-b) Sağlık kabini açmak isteyen kişinin ashı görülmek şartıyla İl Sağlık Müdürlüğü onaylı
-
-diploma ömeği (ebelik, hemşirelik veya sağlık memurluğu alanındaki eğitimine ait),
+b) Sağlık kabini açmak isteyen kişinin ashı görülmek şartıyla İl Sağlık Müdürlüğü onaylı diploma ömeği (ebelik, hemşirelik veya sağlık memurluğu alanındaki eğitimine ait),
 
 c) T.C. kimlik numarası beyanı,
 

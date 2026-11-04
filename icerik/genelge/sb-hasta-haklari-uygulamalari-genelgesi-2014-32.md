@@ -15,83 +15,39 @@ ocr: true
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü LC. SAÔLIK BAKANLIGI - SACLIK HZMETLERI
-
-TC Sağik Bakanliğ DENEL MO DÜRLC00 - HASTA HAKLARI VE
+Sağlık Hizmetleri Genel Müdürlüğü LC. SAÔLIK BAKANLIGI - SACLIK HZMETLERI TC Sağik Bakanliğ DENEL MO DÜRLC00 - HASTA HAKLARI VE
 
 ### TIBBI SOSYAL HIZMETLER DAIRE RAŞKANLIO:
 
-90011 2014 17 30 P 2014 231110
+90011 2014 17 30 P 2014 231110 Sayt : 64047795
 
-Sayt : 64047795
+00006121732 Konu : Hasta Hakları Uygulamaları
 
-00006121732
+### GENELGE 2014/32
 
-Konu : Hasta Hakları Uygulamaları
+Hasta Hakları Yönetmeliği ile birinci basamak kamu sağlık tesisleri, özel sağlık tesisleri ve askeri hastaneler dahil olmak üzere bütün sağlık kurum ve kuruluşlarında hasta memnuniyetinin arttırılması, insan haysiyetine yakışır şekilde herkesin hasta haklarından faydalanabilmesi, hak ihlallerinden korunabilmesi ve gerektiğinde hukuki korunma yollarını fiilen kullanılabilmesini teminen hasta sorumlulukları da belirlenerek hasta/çalışan memnuniyeti ve güvenliğini gözeten bir yaklaşımla düzenleme yapılmıştır.
 
-### GENELGE 2014/32 Hasta Hakları Yönetmeliği ile birinci basamak kamu sağlık tesisleri, özel sağlık tesisleri
+Ayrıca, yönetmelikle uyumlu olarak, internet tabanlı Hasta Başvuru Bildirim Sistemi (HBBS) oluşturulmuștur. Bu sistemle, başvuruların internet üzerinden alinmasi ve hasta iletişim biriminden hasta hakları kurul kararlarının sonuçlarının bildirilmesine kadar geçen süreçteki başvuru kayıt, takip, değerlendirme ve tebliğ işlemlerinin elektronik ortamda yürütülmesi sağlanmıştır.
 
-ve askeri hastaneler dahil olmak üzere bütün sağlık kurum ve kuruluşlarında hasta
+Bundan böyle, hasta hakları uygulamaları HBBS üzerinden aşağıdaki düzenlemeler doğrultusunda yürütülecektir.
 
-memnuniyetinin arttırılması, insan haysiyetine yakışır şekilde herkesin hasta haklarından
+### 1) HASTA HAKLARI İL KOORDİNATÖRLÜGÜ:
 
-faydalanabilmesi, hak ihlallerinden korunabilmesi ve gerektiğinde hukuki korunma yollarını
-
-fiilen kullanılabilmesini teminen hasta sorumlulukları da belirlenerek hasta/çalışan
-
-memnuniyeti ve güvenliğini gözeten bir yaklaşımla düzenleme yapılmıştır.
-
-### Ayrıca, yönetmelikle uyumlu olarak, internet tabanlı Hasta Başvuru Bildirim Sistemi
-
-(HBBS) oluşturulmuștur. Bu sistemle, başvuruların internet üzerinden alinmasi ve hasta
-
-iletişim biriminden hasta hakları kurul kararlarının sonuçlarının bildirilmesine kadar geçen
-
-süreçteki başvuru kayıt, takip, değerlendirme ve tebliğ işlemlerinin elektronik ortamda
-
-yürütülmesi sağlanmıştır.
-
-### Bundan böyle, hasta hakları uygulamaları HBBS üzerinden aşağıdaki düzenlemeler
-
-doğrultusunda yürütülecektir.
-
-### 1) HASTA HAKLARI İL KOORDİNATÖRLÜGÜ: Il Sağlık Müdürluğu bünyesinde; hasta hakları uygulamalarını il genelinde koordine
-
-etmek, denetlemek, hasta hakları kurullarının kurulması ve çalışması ile internet tabanlı hasta
-
-başvuru bildirim sisteminin çalışmasını sağlamak amacıyla hasta hakları il koordinatörlüğü
-
-kurulur. Il koordinatörlüğü, yeteri kadar sağlık ve genel idare sınıfi personelden oluşur.
+Il Sağlık Müdürluğu bünyesinde; hasta hakları uygulamalarını il genelinde koordine etmek, denetlemek, hasta hakları kurullarının kurulması ve çalışması ile internet tabanlı hasta başvuru bildirim sisteminin çalışmasını sağlamak amacıyla hasta hakları il koordinatörlüğü kurulur. Il koordinatörlüğü, yeteri kadar sağlık ve genel idare sınıfi personelden oluşur.
 
 İl koordinatörü:
 
-### Hekim, sosyal hizmet uzmanı ya da psikolog öncelikli olmak üzere lisans mezunları
+Hekim, sosyal hizmet uzmanı ya da psikolog öncelikli olmak üzere lisans mezunları arasından Il Sağlık Müdürünün teklifi, Valiliğin uygun görüşü ve Bakanlığın onayı ile belirlenir. Görevine aynı usulle son verilir. Görevini Il Sağlık Müdürüne bağlı olarak yürütür.
 
-arasından Il Sağlık Müdürünün teklifi, Valiliğin uygun görüşü ve Bakanlığın onayı ile
-
-belirlenir. Görevine aynı usulle son verilir. Görevini Il Sağlık Müdürüne bağlı olarak yürütür.
-
-### Bu genelgenin yayım tarihinde hasta hasta hakları il koordinatörlüğü görevini
-
-yürütenler, eğitim durumları ve unvanlarına bakılmaksızın bir defaya mahsus olmak üzere
-
-hiçbir onaya gerek kalmaksızın görevlerine devam ederler. Görevlerinden ayrılmaları halinde
-
-bu hakları sona erer.
+Bu genelgenin yayım tarihinde hasta hasta hakları il koordinatörlüğü görevini yürütenler, eğitim durumları ve unvanlarına bakılmaksızın bir defaya mahsus olmak üzere hiçbir onaya gerek kalmaksızın görevlerine devam ederler. Görevlerinden ayrılmaları halinde bu hakları sona erer.
 
 Il koordinatörünün görevleri:
 
-### a) Hasta hakları kurulunu kurar ve kurulun sekretarya hizmetlerini yürütmek üzere yeterli
+a) Hasta hakları kurulunu kurar ve kurulun sekretarya hizmetlerini yürütmek üzere yeterli sayıda personelin görevlendirilmesini sağlar.
 
-sayıda personelin görevlendirilmesini sağlar.
+b) HBBS'nin işleyişini ve kurul kararlarının uygulanmasımı takip eder. HBBS'de hasta iletişim birim sorumlularının göreve başlayış ve ayrılışlarını takip ederek yetkilendirilmesini
 
-### b) HBBS'nin işleyişini ve kurul kararlarının uygulanmasımı takip eder. HBBS'de hasta
-
-iletişim birim sorumlularının göreve başlayış ve ayrılışlarını takip ederek yetkilendirilmesini
-
-### c) Kurulun toplanması, üye görevlendirilmesi ve üyeliğin sona ermesi gibi kurulun
-
-çalışmasına ilişkin işlemleri yürütür.
+c) Kurulun toplanması, üye görevlendirilmesi ve üyeliğin sona ermesi gibi kurulun çalışmasına ilişkin işlemleri yürütür.
 
 ### T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
 

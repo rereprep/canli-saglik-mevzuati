@@ -1,0 +1,3224 @@
+[
+ {
+  "tur": "kanun",
+  "baslik": "Tababet ve Şuabatı San'atlarının Tarzı icrasına Dair Kanun",
+  "sayi": "1219",
+  "rg_tarih": "1928-04-14",
+  "rg_sayi": "863",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-tababet-ve-suabati-san-atlarinin-tarzi-icrasina-dair-kanun-1928-04-14"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "İspençiyari ve Tıbbi Müstahzarlar Kanunu",
+  "sayi": "1262",
+  "rg_tarih": "1928-05-26",
+  "rg_sayi": "898",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-ispenciyari-ve-tibbi-mustahzarlar-kanunu-1928-05-26"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Umumi Hıfzıssıhha Kanunu",
+  "sayi": "1593",
+  "rg_tarih": "1930-05-06",
+  "rg_sayi": "1489",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-umumi-hifzissihha-kanunu-1930-05-06"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Hususi Hastaneler Kanunu",
+  "sayi": "2219",
+  "rg_tarih": "1933-06-05",
+  "rg_sayi": "2419",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-hususi-hastaneler-kanunu-1933-06-05"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Sıtma ve Frengi İlaçlan için Kamın",
+  "sayi": "2767",
+  "rg_tarih": "1935-06-15",
+  "rg_sayi": "3029",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-sitma-ve-frengi-ilaclan-icin-kamin-1935-06-15"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Radyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanun",
+  "sayi": "3153",
+  "rg_tarih": "1937-04-28",
+  "rg_sayi": "3591",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-radyoloji-radiyom-ve-elektrikle-tedavi-ve-diger-fizyoterapi-muesseseleri-hakkind-1937-04-28"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Verem Savaşı Hakkında Kanun",
+  "sayi": "5368",
+  "rg_tarih": "1949-04-15",
+  "rg_sayi": "7183",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-verem-savasi-hakkinda-kanun-1949-04-15"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Türk Tabipleri Birliği Kanunu",
+  "sayi": "6023",
+  "rg_tarih": "1953-01-31",
+  "rg_sayi": "8323",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-turk-tabipleri-birligi-kanunu-1953-01-31"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Eczacılar ve Eczaneler Hakkında Kamın",
+  "sayi": "6197",
+  "rg_tarih": "1953-12-24",
+  "rg_sayi": "8591",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-eczacilar-ve-eczaneler-hakkinda-kamin-1953-12-24"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Hemşirelik Kanunu",
+  "sayi": "6283",
+  "rg_tarih": "1954-03-02",
+  "rg_sayi": "8647",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-hemsirelik-kanunu-1954-03-02"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Türk Eczacıları Birliği Kanunu",
+  "sayi": "6643",
+  "rg_tarih": "1956-02-02",
+  "rg_sayi": "9223",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-turk-eczacilari-birligi-kanunu-1956-02-02"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Sıtmanın İmhası Hakkında Kanun",
+  "sayi": "7402",
+  "rg_tarih": "1960-01-11",
+  "rg_sayi": "10402",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-sitmanin-imhasi-hakkinda-kanun-1960-01-11"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Sağlık Hizmetlerinin Sosyalleştirilmesi Hakkında Kanun",
+  "sayi": "224",
+  "rg_tarih": "1961-01-12",
+  "rg_sayi": "10705",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-saglik-hizmetlerinin-sosyallestirilmesi-hakkinda-kanun-1961-01-12"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Organ ve Doku Alınması, Saklanması ve Nakli Hakkında Kanun",
+  "sayi": "2238",
+  "rg_tarih": "1979-06-03",
+  "rg_sayi": "16655",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-organ-ve-doku-alinmasi-saklanmasi-ve-nakli-hakkinda-kanun-1979-06-03"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Nüfus Planlaması Hakkında Kanım",
+  "sayi": "2827",
+  "rg_tarih": "1983-05-27",
+  "rg_sayi": "18059",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-nufus-planlamasi-hakkinda-kanim-1983-05-27"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Türk Dış Hekimleri Birliği Kanunu",
+  "sayi": "3224",
+  "rg_tarih": "1985-06-25",
+  "rg_sayi": "18792",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-turk-dis-hekimleri-birligi-kanunu-1985-06-25"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Sağlık Hizmetleri Temel Kanunu",
+  "sayi": "3359",
+  "rg_tarih": "1987-05-15",
+  "rg_sayi": "19461",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-saglik-hizmetleri-temel-kanunu-1987-05-15"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Kalıtsal Hastalıklarla Mücadele Kanunu",
+  "sayi": "3960",
+  "rg_tarih": "1993-12-30",
+  "rg_sayi": "21804",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-kalitsal-hastaliklarla-mucadele-kanunu-1993-12-30"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Tütün Ürünlerinin Zararlarının Önlenmesini Dair Kanun",
+  "sayi": "4207",
+  "rg_tarih": "1996-11-26",
+  "rg_sayi": "22829",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-tutun-urunlerinin-zararlarinin-onlenmesini-dair-kanun-1996-11-26"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Biyoloji ve Tıbbın Uygulanması Bakımından İnsan Hakları ve İnsan Haysiyetinin Korunması Sözleşmesi: İnsan Hakları ve Biyotıp Sözleşmesi Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "sayi": "5013",
+  "rg_tarih": "2004-04-20",
+  "rg_sayi": "25439",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-biyoloji-ve-tibbin-uygulanmasi-bakimindan-insan-haklari-ve-insan-haysiyetinin-ko-2004-04-20"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Optisyenlik Hakkında Kanun",
+  "sayi": "5193",
+  "rg_tarih": "2004-06-26",
+  "rg_sayi": "25504",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-optisyenlik-hakkinda-kanun-2004-06-26"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Aile Hekimliği Kanunu",
+  "sayi": "5258",
+  "rg_tarih": "2004-12-09",
+  "rg_sayi": "25665",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-aile-hekimligi-kanunu-2004-12-09"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Kozmetik Kanunu",
+  "sayi": "5324",
+  "rg_tarih": "2005-03-30",
+  "rg_sayi": "25771",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-kozmetik-kanunu-2005-03-30"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+  "sayi": "5510",
+  "rg_tarih": "2006-06-16",
+  "rg_sayi": "26200",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-sosyal-sigortalar-ve-genel-saglik-sigortasi-kanunu-2006-06-16"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Kan ve Kan Ürünleri Kanunu",
+  "sayi": "5624",
+  "rg_tarih": "2007-05-02",
+  "rg_sayi": "26510",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-kan-ve-kan-urunleri-kanunu-2007-05-02"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Biyogüvenlik Kanunu",
+  "sayi": "5977",
+  "rg_tarih": "2010-03-26",
+  "rg_sayi": "27533",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-biyoguvenlik-kanunu-2010-03-26"
+ },
+ {
+  "tur": "cbk",
+  "baslik": "1 Sayılı Cumhurbaşkanlığı Kararnamesi",
+  "sayi": "1",
+  "rg_tarih": "2018-07-10",
+  "rg_sayi": "30474",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-1-sayili-cumhurbaskanligi-kararnamesi-2018-07-10"
+ },
+ {
+  "tur": "cbk",
+  "baslik": "4 Sayılı Cumhurbaşkanlığı Kararnamesi",
+  "sayi": "4",
+  "rg_tarih": "2018-07-15",
+  "rg_sayi": "30479",
+  "not": "Ek I: Sağlık kanunları ve Cumhurbaşkanlığı kararnameleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek I",
+  "id": "oz-4-sayili-cumhurbaskanligi-kararnamesi-2018-07-15"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "İspençiyari ve Tıbbi Müstahzarlar Nizamnamesi",
+  "rg_tarih": "1935-09-23",
+  "rg_sayi": "3113",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-ispenciyari-ve-tibbi-mustahzarlar-nizamnamesi-1935-09-23"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Gemilerde Yolcuların Sıhhi Emniyeti Hakkında Nizamname",
+  "rg_tarih": "1943-01-28",
+  "rg_sayi": "5316",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-gemilerde-yolcularin-sihhi-emniyeti-hakkinda-nizamname-1943-01-28"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Gıda Maddelerinin ve Umumi Sağlığı İlgilendiren Eşya ve Levazımın Hususi Vasıflarını Gösteren Tüzük",
+  "rg_tarih": "1952-10-18",
+  "rg_sayi": "8236",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-gida-maddelerinin-ve-umumi-sagligi-ilgilendiren-esya-ve-levazimin-hususi-vasifla-1952-10-18"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Fizyoterapi ve Bunlara Benzer Müesseseler Hakkında Nizamname",
+  "rg_sayi": "9730",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-fizyoterapi-ve-bunlara-benzer-muesseseler-hakkinda-nizamname"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Tıbbi Deontoloji Nizamnamesi",
+  "rg_tarih": "1960-02-19",
+  "rg_sayi": "10436",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-tibbi-deontoloji-nizamnamesi-1960-02-19"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Türk Eczacıları Deontoloji Tüzüğü",
+  "rg_tarih": "1968-07-27",
+  "rg_sayi": "12961",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-turk-eczacilari-deontoloji-tuzugu-1968-07-27"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Sosyal Sigorta Sağlık İşlemleri Tüzüğü",
+  "rg_tarih": "1972-06-22",
+  "rg_sayi": "14223",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-sosyal-sigorta-saglik-islemleri-tuzugu-1972-06-22"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Uluslararası Sağlık Tüzüğü",
+  "rg_tarih": "1973-04-25",
+  "rg_sayi": "14517",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-uluslararasi-saglik-tuzugu-1973-04-25"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Rahim Tahliyesi ve Sterilizasyon Hizmetlerinin Yürütülmesi ve Denetlenmesine İlişkin Tüzük",
+  "rg_tarih": "1983-12-18",
+  "rg_sayi": "18255",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-rahim-tahliyesi-ve-sterilizasyon-hizmetlerinin-yurutulmesi-ve-denetlenmesine-ili-1983-12-18"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Sağlık Bakanlığı Teftiş Kurulu Tüzüğü",
+  "rg_tarih": "1990-09-14",
+  "rg_sayi": "20635",
+  "not": "Ek II: Sağlık tüzükleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek II",
+  "id": "oz-saglik-bakanligi-teftis-kurulu-tuzugu-1990-09-14"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Köy Kanunu",
+  "sayi": "442",
+  "rg_tarih": "1924-04-07",
+  "rg_sayi": "68",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-koy-kanunu-1924-04-07"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Sular Hakkında Kanun",
+  "sayi": "831",
+  "rg_tarih": "1926-05-10",
+  "rg_sayi": "368",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-sular-hakkinda-kanun-1926-05-10"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Sıcak ve Soğuk Maden Sularının İstismarı ile Kaplıcalar Tesisatı Hakkında Kanun",
+  "sayi": "927",
+  "rg_tarih": "1926-06-30",
+  "rg_sayi": "408",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-sicak-ve-soguk-maden-sularinin-istismari-ile-kaplicalar-tesisati-hakkinda-kanun-1926-06-30"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Ecza Ticarethaneleriyle Sanat ve Ziraat İşlerinde Kullanılan Zehirli ve Müessir Kimyevi Maddelerin Satıldığı Dükkanlara Mahsus Kanun",
+  "sayi": "984",
+  "rg_tarih": "1927-03-12",
+  "rg_sayi": "575",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-ecza-ticarethaneleriyle-sanat-ve-ziraat-islerinde-kullanilan-zehirli-ve-muessir--1927-03-12"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Seriri ve Gıdai Taharriyat ve Tahlilat Yapılan ve Masli Teamüller Aranılan Umuma Mahsus Bakteriyoloji ve Kimya Laboratuvarları Kanunu",
+  "sayi": "992",
+  "rg_tarih": "1927-03-30",
+  "rg_sayi": "580",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-seriri-ve-gidai-taharriyat-ve-tahlilat-yapilan-ve-masli-teamuller-aranilan-umuma-1927-03-30"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Uyuşturucu Maddelerin Murakabesi Hakkında Kanun",
+  "sayi": "2313",
+  "rg_sayi": "2435",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-uyusturucu-maddelerin-murakabesi-hakkinda-kanun"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Çeltik Ekimi Kanunu",
+  "sayi": "3039",
+  "rg_tarih": "1936-06-23",
+  "rg_sayi": "3337",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-celtik-ekimi-kanunu-1936-06-23"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Cenaze Nakline Mahsus Beynelmilel Itilafnameye Iltihakimiz Hakkında Kanun",
+  "sayi": "3584",
+  "rg_tarih": "1939-02-07",
+  "rg_sayi": "4126",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-cenaze-nakline-mahsus-beynelmilel-itilafnameye-iltihakimiz-hakkinda-kanun-1939-02-07"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Yalova Kaplıcalarının İşletilmesi ve Kaplıcaların İnkişafı İşlerinin Sıhhat ve İçtimai Muavenet Vekaletine Bağlı Hükmi Şahsiyeti Haiz Bir Teşekküle Devri Hakkında Kanun",
+  "sayi": "3653",
+  "rg_tarih": "1939-07-04",
+  "rg_sayi": "4249",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-yalova-kaplicalarinin-isletilmesi-ve-kaplicalarin-inkisafi-islerinin-sihhat-ve-i-1939-07-04"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Kimyagerlik ve Kimya Mühendisliği Hakkında Kanun",
+  "sayi": "6269",
+  "rg_tarih": "1954-02-20",
+  "rg_sayi": "8639",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-kimyagerlik-ve-kimya-muhendisligi-hakkinda-kanun-1954-02-20"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile Odalarının Teşekkül Tarzına ve Göreceği İşlere Dair Kanun",
+  "sayi": "6343",
+  "rg_tarih": "1954-03-18",
+  "rg_sayi": "8661",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-veteriner-hekimligi-mesleginin-icrasina-turk-veteriner-hekimleri-birligi-ile-oda-1954-03-18"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Umumi Hayata Müessir Afetler Dolay isiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun",
+  "sayi": "7269",
+  "rg_tarih": "1959-05-25",
+  "rg_sayi": "10213",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-umumi-hayata-muessir-afetler-dolay-isiyle-alinacak-tedbirlerle-yapilacak-yardiml-1959-05-25"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Köy içme Suları Hakkında Kanun",
+  "sayi": "7478",
+  "rg_tarih": "1960-05-16",
+  "rg_sayi": "10506",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-koy-icme-sulari-hakkinda-kanun-1960-05-16"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Yeraltı Suları Hakkında Kanun",
+  "sayi": "167",
+  "rg_tarih": "1960-12-23",
+  "rg_sayi": "10688",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-yeralti-sulari-hakkinda-kanun-1960-12-23"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Sağlık ve Sosyal Yardım Bakanlığına Bağlı Sağlık Kurumlan ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun",
+  "sayi": "209",
+  "rg_tarih": "1961-01-09",
+  "rg_sayi": "10702",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-saglik-ve-sosyal-yardim-bakanligina-bagli-saglik-kurumlan-ile-esenlendirme-rehab-1961-01-09"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Belediye Teşkilatı olan Yerleşim Yerlerine İçme, Kullanma ve Endüstri Suyu Temini Hakkında Kanun",
+  "sayi": "1053",
+  "rg_tarih": "1968-07-16",
+  "rg_sayi": "12951",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-belediye-teskilati-olan-yerlesim-yerlerine-icme-kullanma-ve-endustri-suyu-temini-1968-07-16"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Cenazelerin Nakli Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "sayi": "1887",
+  "rg_tarih": "1975-05-04",
+  "rg_sayi": "15226",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-cenazelerin-nakli-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-1975-05-04"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Gemi Sağlık Resmi Kanunu",
+  "sayi": "2548",
+  "rg_tarih": "1981-11-10",
+  "rg_sayi": "17510",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-gemi-saglik-resmi-kanunu-1981-11-10"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Adli Tıp Kurumu Kanunu",
+  "sayi": "2659",
+  "rg_tarih": "1982-04-20",
+  "rg_sayi": "17670",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-adli-tip-kurumu-kanunu-1982-04-20"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Türkiye Atom Enerjisi Kurumu Kanunu",
+  "sayi": "2690",
+  "rg_tarih": "1982-07-13",
+  "rg_sayi": "17753",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-turkiye-atom-enerjisi-kurumu-kanunu-1982-07-13"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Sosyal Hizmetler Kanunu",
+  "sayi": "2828",
+  "rg_tarih": "1983-05-27",
+  "rg_sayi": "18059",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-sosyal-hizmetler-kanunu-1983-05-27"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Çevre Kanunu",
+  "sayi": "2872",
+  "rg_tarih": "1983-08-11",
+  "rg_sayi": "18132",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-cevre-kanunu-1983-08-11"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Uyuşturucu Maddelerle İlgili Kanun",
+  "sayi": "3298",
+  "rg_tarih": "1986-06-19",
+  "rg_sayi": "19139",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-uyusturucu-maddelerle-ilgili-kanun-1986-06-19"
+ },
+ {
+  "tur": "khk",
+  "baslik": "İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun",
+  "sayi": "3572",
+  "rg_tarih": "1989-06-17",
+  "rg_sayi": "20198",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-isyeri-acma-ve-calisma-ruhsatlarina-dair-kanun-hukmunde-kararnamenin-degistirile-1989-06-17"
+ },
+ {
+  "tur": "khk",
+  "baslik": "Özel Çevre Koruma Kurumu Başkanlığı Kurulmasına Dair Kanun Hükmünde Kararname",
+  "sayi": "383",
+  "rg_tarih": "1989-11-13",
+  "rg_sayi": "20341",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-ozel-cevre-koruma-kurumu-baskanligi-kurulmasina-dair-kanun-hukmunde-kararname-1989-11-13"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun",
+  "sayi": "3816",
+  "rg_tarih": "1992-07-03",
+  "rg_sayi": "21273",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-odeme-gucu-olmayan-vatandaslarin-tedavi-giderlerinin-yesil-kart-verilerek-devlet-1992-07-03"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Mezarlıkların Korunması Hakkında Kanun",
+  "sayi": "3998",
+  "rg_tarih": "1994-06-13",
+  "rg_sayi": "21959",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-mezarliklarin-korunmasi-hakkinda-kanun-1994-06-13"
+ },
+ {
+  "tur": "khk",
+  "baslik": "Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+  "sayi": "5179",
+  "rg_tarih": "2004-06-05",
+  "rg_sayi": "25483",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-gidalarin-uretimi-tuketimi-ve-denetlenmesine-dair-kanun-hukmunde-kararnamenin-de-2004-06-05"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Büyükşehir Belediyesi Kanunu",
+  "sayi": "5216",
+  "rg_tarih": "2004-07-23",
+  "rg_sayi": "25531",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-buyuksehir-belediyesi-kanunu-2004-07-23"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Türk Ceza Kanunu",
+  "sayi": "5237",
+  "rg_tarih": "2004-10-12",
+  "rg_sayi": "25611",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-turk-ceza-kanunu-2004-10-12"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Ceza Muhakemesi Kanunu",
+  "sayi": "5271",
+  "rg_tarih": "2004-12-17",
+  "rg_sayi": "25673",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-ceza-muhakemesi-kanunu-2004-12-17"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Bazı Kamu Kurum ve Kuruluşlarına Ait Sağlık Birimlerinin Sağlık Bakanlığına Devredilmesine Dair Kanun",
+  "sayi": "5283",
+  "rg_tarih": "2005-01-19",
+  "rg_sayi": "25705",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-bazi-kamu-kurum-ve-kuruluslarina-ait-saglik-birimlerinin-saglik-bakanligina-devr-2005-01-19"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "Belediye Kanunu",
+  "sayi": "5393",
+  "rg_tarih": "2005-07-13",
+  "rg_sayi": "25874",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-belediye-kanunu-2005-07-13"
+ },
+ {
+  "tur": "kanun",
+  "baslik": "İş Sağlığı ve Güvenliği Kanunu",
+  "sayi": "6331",
+  "rg_tarih": "2012-06-30",
+  "rg_sayi": "28339",
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek III",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-is-sagligi-ve-guvenligi-kanunu-2012-06-30"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Sular Kanununun Uygulanışını Gösteren Tüzük",
+  "rg_tarih": "1928-08-29",
+  "rg_sayi": "976",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-sular-kanununun-uygulanisini-gosteren-tuzuk-1928-08-29"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Mezarlıklar hakkında Nizamname",
+  "rg_tarih": "1931-08-09",
+  "rg_sayi": "1868",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-mezarliklar-hakkinda-nizamname-1931-08-09"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Evlenme Muayenesi Hakkında Nizamname",
+  "rg_tarih": "1931-09-21",
+  "rg_sayi": "1904",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-evlenme-muayenesi-hakkinda-nizamname-1931-09-21"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Polis Vazife ve Salahiyet Nizamnamesi",
+  "rg_tarih": "1938-04-25",
+  "rg_sayi": "3890",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-polis-vazife-ve-salahiyet-nizamnamesi-1938-04-25"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Hayvan Sağlık Memurları Mektebi ve Bu Memurların Vazife ve Salahiyetleri Hakkında Nizamname",
+  "rg_tarih": "1941-05-28",
+  "rg_sayi": "4819",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-hayvan-saglik-memurlari-mektebi-ve-bu-memurlarin-vazife-ve-salahiyetleri-hakkind-1941-05-28"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Vazife Malullüklerini Belirten Usul ve Belgeler Hakkında Tüzük",
+  "rg_tarih": "1951-11-08",
+  "rg_sayi": "7951",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-vazife-malulluklerini-belirten-usul-ve-belgeler-hakkinda-tuzuk-1951-11-08"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Vazife Malullüklerinin Nevileri ile Dereceleri Hakkında Nizamname",
+  "rg_tarih": "1953-08-15",
+  "rg_sayi": "8485",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-vazife-malulluklerinin-nevileri-ile-dereceleri-hakkinda-nizamname-1953-08-15"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "İspirtolu İçkilerin Vasıflarıyla Bira Fabrika ve İmalathanelerinin Kontrol ve Muayeneleri ile İlgili Nizamname",
+  "rg_tarih": "1956-04-27",
+  "rg_sayi": "9295",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-ispirtolu-ickilerin-vasiflariyla-bira-fabrika-ve-imalathanelerinin-kontrol-ve-mu-1956-04-27"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Zirai Mücadele İlaç ve Aletleri Hakkında Nizamname",
+  "rg_tarih": "1959-02-04",
+  "rg_sayi": "10126",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-zirai-mucadele-ilac-ve-aletleri-hakkinda-nizamname-1959-02-04"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Sivil Müdafaa Vekaletlerarası İş birliği ve Karşılıklı Yardım Nizamnamesi",
+  "rg_tarih": "1959-06-26",
+  "rg_sayi": "10237",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-sivil-mudafaa-vekaletlerarasi-is-birligi-ve-karsilikli-yardim-nizamnamesi-1959-06-26"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Genel Kadınlar ve Genelevlerin Tabi Olacakları Hükümler ve Fuhuş Yüzünden Bulaşan Zührevi Hastalıklarla Mücadele Tüzüğü",
+  "rg_tarih": "1961-04-19",
+  "rg_sayi": "10786",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-genel-kadinlar-ve-genelevlerin-tabi-olacaklari-hukumler-ve-fuhus-yuzunden-bulasa-1961-04-19"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Yeraltı Suları Tüzüğü",
+  "rg_tarih": "1961-08-08",
+  "rg_sayi": "10875",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-yeralti-sulari-tuzugu-1961-08-08"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Türk Standartlarının Uygulanması Hakkında Tüzük",
+  "rg_tarih": "1967-02-22",
+  "rg_sayi": "12534",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-turk-standartlarinin-uygulanmasi-hakkinda-tuzuk-1967-02-22"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Parlayıcı, Patlayıcı, Tehlikeli ve Zararlı Maddelerle Çalışılan İşyerlerinde ve İşlerde Alınacak Tedbirler Hakkında Tüzük",
+  "rg_tarih": "1973-12-24",
+  "rg_sayi": "14752",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-parlayici-patlayici-tehlikeli-ve-zararli-maddelerle-calisilan-isyerlerinde-ve-is-1973-12-24"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Yapı İşlerinde İşçi Sağlığı ve İş Güvenliği Tüzüğü",
+  "rg_tarih": "1974-09-12",
+  "rg_sayi": "15004",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-yapi-islerinde-isci-sagligi-ve-is-guvenligi-tuzugu-1974-09-12"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "İş Teftişi Tüzüğü",
+  "rg_tarih": "1979-08-28",
+  "rg_sayi": "16738",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-is-teftisi-tuzugu-1979-08-28"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Nükleer Tesislere Lisans Verilmesine İlişkin Tüzük",
+  "rg_tarih": "1983-12-19",
+  "rg_sayi": "18256",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-nukleer-tesislere-lisans-verilmesine-iliskin-tuzuk-1983-12-19"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Maden ve Taş ocakları İşletmelerinde ve Tünel Yapımında Alınacak İş Sağlığı ve Güvenliği Önlemlerine İlişkin Tüzük",
+  "rg_tarih": "1984-10-22",
+  "rg_sayi": "18553",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-maden-ve-tas-ocaklari-isletmelerinde-ve-tunel-yapiminda-alinacak-is-sagligi-ve-g-1984-10-22"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Radyasyon Güvenliği Tüzüğü",
+  "rg_tarih": "1985-09-07",
+  "rg_sayi": "18861",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-radyasyon-guvenligi-tuzugu-1985-09-07"
+ },
+ {
+  "tur": "tuzuk",
+  "baslik": "Türkiye Kızılay Derneği Tüzüğü",
+  "rg_tarih": "2009-02-19",
+  "rg_sayi": "27146",
+  "not": "Ek IV: Sağlıkla ilgili tüzükler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek IV",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "id": "oz-turkiye-kizilay-dernegi-tuzugu-2009-02-19"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sanayi ve Ziraatte Kullanılan Zehirli Maddelerin Ecza Ticarethanelerinde Sureti Hıfız ve Alıcıya Tevdii Hakkında Talimatname",
+  "rg_tarih": "1927-12-28",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-sanayi-ve-ziraatte-kullanilan-zehirli-maddelerin-ecza-ticarethanelerinde-sureti--1927-12-28"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Yeniden Kurulacak Köylerde Nazara Alınması Gereken Genel Sağlık Şartları Hakkında Talimatname",
+  "not": "Resmî Gazete yılı: 1933 Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-yeniden-kurulacak-koylerde-nazara-alinmasi-gereken-genel-saglik-sartlari-hakkind"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "11.06.1936 ve 3039 Sayılı Çeltik Ekimi Kanunun Sureti Tatbikatına Dair Talimatname",
+  "rg_tarih": "1936-10-12",
+  "rg_sayi": "3432",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-11-06-1936-ve-3039-sayili-celtik-ekimi-kanunun-sureti-tatbikatina-dair-talimatna-1936-10-12"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Ecza Dolapları Talimatnamesi",
+  "rg_tarih": "1955-03-03",
+  "rg_sayi": "8945",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ecza-dolaplari-talimatnamesi-1955-03-03"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Süt ve Süt Mamullerinin istihsal ve Satışına Mahsus Mahal ve Levazım ile Süt Veren Hayvanların Yaşadıkları ve dağıldıkları Yerlerin Sıhhi Şartlarının Tesbitine Dair Yönetmelik",
+  "rg_tarih": "1956-04-30",
+  "rg_sayi": "9297",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-sut-ve-sut-mamullerinin-istihsal-ve-satisina-mahsus-mahal-ve-levazim-ile-sut-ver-1956-04-30"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İçme ve Kullanma Sularının Dezenfeksiyonuna Ait Yönetmelik",
+  "rg_tarih": "1967-05-16",
+  "rg_sayi": "12559",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-icme-ve-kullanma-sularinin-dezenfeksiyonuna-ait-yonetmelik-1967-05-16"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Lağım Mecrası İnşaası Mümkün Olmayan Yerlerde Yapılacak Çukurlara Ait Yönetmelik",
+  "rg_tarih": "1971-03-19",
+  "rg_sayi": "13783",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-lagim-mecrasi-insaasi-mumkun-olmayan-yerlerde-yapilacak-cukurlara-ait-yonetmelik-1971-03-19"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Bulaşıcı ve Salgın Hastalıklar Çıktığında Alınacak Tedbirlere Uyulmaması Halinde Uygulanacak Ceza Yönetmeliği",
+  "rg_sayi": "14563",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-bulasici-ve-salgin-hastaliklar-ciktiginda-alinacak-tedbirlere-uyulmamasi-halinde"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Devlet Memurlarının Tedavi yardımı ve Cenaze Giderleri Yönetmeliği",
+  "rg_tarih": "1973-08-11",
+  "rg_sayi": "14622",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-devlet-memurlarinin-tedavi-yardimi-ve-cenaze-giderleri-yonetmeligi-1973-08-11"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Gıda Maddeleri ile Temasta Bulunan veya Bulunmak Üzere İmal Edilen Plastikler Hakkında Yönetmelik",
+  "rg_tarih": "1980-06-12",
+  "rg_sayi": "17015",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-gida-maddeleri-ile-temasta-bulunan-veya-bulunmak-uzere-imal-edilen-plastikler-ha-1980-06-12"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İnsan Cesedi Üzerinde Bilimsel Araştırma Yapılmasına İlişkin Yönetmelik",
+  "rg_tarih": "1982-06-17",
+  "rg_sayi": "17727",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-insan-cesedi-uzerinde-bilimsel-arastirma-yapilmasina-iliskin-yonetmelik-1982-06-17"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "2313 Sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanunun Uygulamasına İlişkin Yönetmelik",
+  "rg_tarih": "1982-11-21",
+  "rg_sayi": "17875",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-2313-sayili-uyusturucu-maddelerin-murakabesi-hakkinda-kanunun-uygulamasina-ilisk-1982-11-21"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Özel ve Resmi Kombinaların Kuruluş ve İşleyişini Gösterir Yönetmelik",
+  "rg_tarih": "1982-12-12",
+  "rg_sayi": "17896",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ozel-ve-resmi-kombinalarin-kurulus-ve-isleyisini-gosterir-yonetmelik-1982-12-12"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Yataklı Tedavi Kurumları işletme Yönetmeliği",
+  "rg_tarih": "1983-01-13",
+  "rg_sayi": "17927",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-yatakli-tedavi-kurumlari-isletme-yonetmeligi-1983-01-13"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Nüfus Planlaması Hizmetlerini Yürütecek Personelin Eğitimi, Görev, Yetki ve Sorumlulukları Hakkında Yönetmelik",
+  "rg_tarih": "1983-09-10",
+  "rg_sayi": "18161",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-nufus-planlamasi-hizmetlerini-yurutecek-personelin-egitimi-gorev-yetki-ve-soruml-1983-09-10"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Nüfus Planlaması Hizmetlerini Yürütme Yönetmeliği",
+  "rg_tarih": "1983-10-06",
+  "rg_sayi": "18183",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-nufus-planlamasi-hizmetlerini-yurutme-yonetmeligi-1983-10-06"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İthal Edilecek İlaç Ham, Başlangıç Maddeleri, İspençiyari ve Tıbbi Müstahzarlar Yönetmeliği",
+  "rg_tarih": "1984-11-01",
+  "rg_sayi": "18562",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ithal-edilecek-ilac-ham-baslangic-maddeleri-ispenciyari-ve-tibbi-mustahzarlar-yo-1984-11-01"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Türk Silahlı Kuvvetleri Sağlık Yeteneği Yönetmeliği",
+  "rg_tarih": "1986-11-24",
+  "rg_sayi": "19291",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-turk-silahli-kuvvetleri-saglik-yetenegi-yonetmeligi-1986-11-24"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Haşhaşın Ekimi, Kontrolü, Toplanması, Değerlendirilmesi, İmhası, Satın Alınması, Satılması, İhracı ve İthali Hakkında Yönetmelik",
+  "rg_tarih": "1988-05-04",
+  "rg_sayi": "19804",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hashasin-ekimi-kontrolu-toplanmasi-degerlendirilmesi-imhasi-satin-alinmasi-satil-1988-05-04"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Afetlere İlişkin Acil Yardım Teşkilatı ve Planlama Esaslarına Dair Yönetmelik",
+  "rg_tarih": "1988-05-08",
+  "rg_sayi": "19808",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-afetlere-iliskin-acil-yardim-teskilati-ve-planlama-esaslarina-dair-yonetmelik-1988-05-08"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hayvan Sağlığı ve Zabıtası Yönetmeliği",
+  "rg_tarih": "1989-03-15",
+  "rg_sayi": "20109",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hayvan-sagligi-ve-zabitasi-yonetmeligi-1989-03-15"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Zararlı Kimyasal Madde ve Ürünlerin Kontrolü Yönetmeliği",
+  "rg_tarih": "1993-07-11",
+  "rg_sayi": "21634",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-zararli-kimyasal-madde-ve-urunlerin-kontrolu-yonetmeligi-1993-07-11"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Türk Silahlı Kuvvetlerince Yetiştirilen Sıhhiye Sınıfına Mensup Erbaş ve Erlerin Bazı Küçük Sıhhi İşlemleri Yapabilmesi Hakkında Yönetmelik",
+  "rg_tarih": "1994-10-11",
+  "rg_sayi": "22078",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-turk-silahli-kuvvetlerince-yetistirilen-sihhiye-sinifina-mensup-erbas-ve-erlerin-1994-10-11"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığı Taşra Teşkilatı Yatak ve Kadro Standartları Yönetmeliği",
+  "rg_tarih": "1994-10-26",
+  "rg_sayi": "22093",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligi-tasra-teskilati-yatak-ve-kadro-standartlari-yonetmeligi-1994-10-26"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hasta Hakları Yönetmeliği",
+  "rg_tarih": "1998-08-01",
+  "rg_sayi": "23420",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hasta-haklari-yonetmeligi-1998-08-01"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kamu Personeli ve Bunların Emeklilerinin Yurt Dışında Tedavilerine İlişkin Yönetmelik",
+  "rg_tarih": "1999-08-11",
+  "rg_sayi": "23783",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-kamu-personeli-ve-bunlarin-emeklilerinin-yurt-disinda-tedavilerine-iliskin-yonet-1999-08-11"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Radyasyon Güvenliği Yönetmeliği",
+  "rg_tarih": "2000-03-24",
+  "rg_sayi": "23999",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-radyasyon-guvenligi-yonetmeligi-2000-03-24"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Acil Sağlık Hizmetleri Yönetmeliği",
+  "rg_tarih": "2000-05-11",
+  "rg_sayi": "24046",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-acil-saglik-hizmetleri-yonetmeligi-2000-05-11"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tanı ve Tedavi Protokolleri Etik Kurulu Hakkında Yönetmelik",
+  "rg_tarih": "2000-07-30",
+  "rg_sayi": "24125",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tani-ve-tedavi-protokolleri-etik-kurulu-hakkinda-yonetmelik-2000-07-30"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Halkın Sağlık Eğitimi Yönetmeliği",
+  "rg_tarih": "2000-08-06",
+  "rg_sayi": "24132",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-halkin-saglik-egitimi-yonetmeligi-2000-08-06"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kanser Kayıt Merkezi Yönetmeliği",
+  "rg_tarih": "2000-12-14",
+  "rg_sayi": "24260",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-kanser-kayit-merkezi-yonetmeligi-2000-12-14"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kaplıcalar Yönetmeliği",
+  "rg_tarih": "2001-07-24",
+  "rg_sayi": "24472",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-kaplicalar-yonetmeligi-2001-07-24"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hiperbarik Oksijen Tedavisi Uygulanan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+  "rg_tarih": "2001-08-01",
+  "rg_sayi": "24480",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hiperbarik-oksijen-tedavisi-uygulanan-ozel-saglik-kuruluslari-hakkinda-yonetmeli-2001-08-01"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Özel Hastaneler Yönetmeliği",
+  "rg_tarih": "2002-03-27",
+  "rg_sayi": "24708",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ozel-hastaneler-yonetmeligi-2002-03-27"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İyi Laboratuvar Uygulamaları Prensipleri ve Test Laboratuvarlarının Belgelendirilmesine Dair Yönetmelik",
+  "rg_tarih": "2002-06-25",
+  "rg_sayi": "24796",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-iyi-laboratuvar-uygulamalari-prensipleri-ve-test-laboratuvarlarinin-belgelendiri-2002-06-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kalıtsal Kan Hastalıklarından Hemoglobinopati Kontrol Programı ile Tanı ve Tedavi Merkezleri Yönetmeliği",
+  "rg_tarih": "2002-10-24",
+  "rg_sayi": "24916",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-kalitsal-kan-hastaliklarindan-hemoglobinopati-kontrol-programi-ile-tani-ve-tedav-2002-10-24"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Asbestle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik",
+  "rg_tarih": "2003-12-26",
+  "rg_sayi": "25328",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-asbestle-calismalarda-saglik-ve-guvenlik-onlemleri-hakkinda-yonetmelik-2003-12-26"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Yeraltı ve Yerüstü Maden İşletmelerinde Sağlık ve Güvenlik Şartları Yönetmeliği",
+  "rg_tarih": "2004-02-21",
+  "rg_sayi": "25380",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-yeralti-ve-yerustu-maden-isletmelerinde-saglik-ve-guvenlik-sartlari-yonetmeligi-2004-02-21"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sondajla Maden Çıkarılan İşletmelerde Sağlık ve Güvenlik Şartları Yönetmeliği",
+  "rg_tarih": "2004-02-22",
+  "rg_sayi": "25381",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-sondajla-maden-cikarilan-isletmelerde-saglik-ve-guvenlik-sartlari-yonetmeligi-2004-02-22"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Biyolojik Etkenlere Maruziyet Risklerinin Önlenmesi Hakkında Yönetmelik",
+  "rg_tarih": "2004-06-10",
+  "rg_sayi": "25488",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-biyolojik-etkenlere-maruziyet-risklerinin-onlenmesi-hakkinda-yonetmelik-2004-06-10"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliği",
+  "rg_tarih": "2004-07-31",
+  "rg_sayi": "25539",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-adli-tip-kurumu-kanunu-uygulama-yonetmeligi-2004-07-31"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Doğal Mineralli Sular Hakkında Yönetmelik",
+  "rg_tarih": "2004-12-01",
+  "rg_sayi": "25557",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-dogal-mineralli-sular-hakkinda-yonetmelik-2004-12-01"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Diş Protezciliği Dalında Kalfalık Belgesi Sahiplerine Diş Protez Teknisyenliği Meslek Belgesi Verilmesi Hakkında Yönetmelik",
+  "rg_tarih": "2004-12-16",
+  "rg_sayi": "25672",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-dis-protezciligi-dalinda-kalfalik-belgesi-sahiplerine-dis-protez-teknisyenligi-m-2004-12-16"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Gözlükçülük Ruhsatnamesi Verilmesi İçin Gerçekleştirilecek Kurs ve Sınav Yönetmeliği",
+  "rg_tarih": "2004-12-17",
+  "rg_sayi": "25673",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-gozlukculuk-ruhsatnamesi-verilmesi-icin-gerceklestirilecek-kurs-ve-sinav-yonetme-2004-12-17"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İnsani Tüketim Amaçlı Sular Hakkında Yönetmelik",
+  "rg_tarih": "2005-02-17",
+  "rg_sayi": "25730",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-insani-tuketim-amacli-sular-hakkinda-yonetmelik-2005-02-17"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Beşeri Tıbbi Ürünlerin Sınıflandırılmasına Dair Yönetmelik",
+  "rg_tarih": "2005-02-17",
+  "rg_sayi": "25730",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-beseri-tibbi-urunlerin-siniflandirilmasina-dair-yonetmelik-2005-02-17"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelik",
+  "rg_tarih": "2005-03-10",
+  "rg_sayi": "25751",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-evde-bakim-hizmetleri-sunumu-hakkinda-yonetmelik-2005-03-10"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kozmetik Yönetmeliği",
+  "rg_tarih": "2005-05-23",
+  "rg_sayi": "25823",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-kozmetik-yonetmeligi-2005-05-23"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Ceza Muhakemesinde Beden Muayenesi, Genetik İncelemeler ve Fizik Kimliğin Tespiti Hakkında Yönetmelik",
+  "rg_tarih": "2005-06-01",
+  "rg_sayi": "25832",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ceza-muhakemesinde-beden-muayenesi-genetik-incelemeler-ve-fizik-kimligin-tespiti-2005-06-01"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik",
+  "rg_tarih": "2005-08-10",
+  "rg_sayi": "25902",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-isyeri-acma-ve-calisma-ruhsatlarina-iliskin-yonetmelik-2005-08-10"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Yataklı Tedavi Kurumları Enfeksiyon Kontrol Yönetmeliği",
+  "rg_tarih": "2005-08-11",
+  "rg_sayi": "25903",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-yatakli-tedavi-kurumlari-enfeksiyon-kontrol-yonetmeligi-2005-08-11"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Diş Protez Laboratuvarları Yönetmeliği",
+  "rg_tarih": "2005-12-07",
+  "rg_sayi": "26016",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-dis-protez-laboratuvarlari-yonetmeligi-2005-12-07"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Yüzme Suyu Kalitesi Yönetmeliği",
+  "rg_tarih": "2006-01-09",
+  "rg_sayi": "26048",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-yuzme-suyu-kalitesi-yonetmeligi-2006-01-09"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hayvan Deneyleri Etik Kurullarının Çalışma Usul ve Esaslarına Dair Yönetmelik",
+  "rg_tarih": "2006-07-06",
+  "rg_sayi": "26220",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hayvan-deneyleri-etik-kurullarinin-calisma-usul-ve-esaslarina-dair-yonetmelik-2006-07-06"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Tesislerinin, Kiralama Karşılığı Yaptırılması ile Tesislerdeki Tıbbî Hizmet Alanları Dışındaki Hizmet ve Alanların İşletilmesi Karşılığında Yenilenmesine Dair Yönetmelik",
+  "rg_tarih": "2006-07-22",
+  "rg_sayi": "26236",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-tesislerinin-kiralama-karsiligi-yaptirilmasi-ile-tesislerdeki-tibbi-hizme-2006-07-22"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliği",
+  "rg_tarih": "2007-01-09",
+  "rg_sayi": "26398",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-vucut-disinda-kullanilan-in-vitro-tibbi-tani-cihazlari-yonetmeligi-2007-01-09"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği",
+  "rg_tarih": "2007-05-30",
+  "rg_sayi": "26537",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-bulasici-hastaliklar-surveyans-ve-kontrol-esaslari-yonetmeligi-2007-05-30"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığınca Yapılacak Piyasa Gözetimi ve Denetiminin Usul ve Esasları Hakkında Yönetmelik",
+  "rg_tarih": "2007-06-25",
+  "rg_sayi": "26563",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanliginca-yapilacak-piyasa-gozetimi-ve-denetiminin-usul-ve-esaslari-ha-2007-06-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+  "rg_tarih": "2008-02-15",
+  "rg_sayi": "26843",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ayakta-teshis-ve-tedavi-yapilan-ozel-saglik-kuruluslari-hakkinda-yonetmelik-2008-02-15"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Havaalanı Sağlık Denetleme Merkezleri Yönetmeliği",
+  "rg_tarih": "2008-02-17",
+  "rg_sayi": "26790",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-havaalani-saglik-denetleme-merkezleri-yonetmeligi-2008-02-17"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hava Kalitesi Değerlendirme ve Yönetimi Yönetmeliği",
+  "rg_tarih": "2008-06-06",
+  "rg_sayi": "26898",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hava-kalitesi-degerlendirme-ve-yonetimi-yonetmeligi-2008-06-06"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kan ve Kan Ürünleri Yönetmeliği",
+  "rg_tarih": "2008-12-04",
+  "rg_sayi": "27074",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-kan-ve-kan-urunleri-yonetmeligi-2008-12-04"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Hizmeti Sunan 4734 Sayılı Kamu İhale Kanunu Kapsamındaki İdarelerin Teşhis ve Tedaviye Yönelik Olarak Birbirlerinden Yapacakları Mal ve Hizmet Alımlarına İlişkin Yönetmelik",
+  "rg_tarih": "2009-02-07",
+  "rg_sayi": "27134",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-hizmeti-sunan-4734-sayili-kamu-ihale-kanunu-kapsamindaki-idarelerin-teshi-2009-02-07"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sahil Sağlık Denetleme Merkezleri Yönetmeliği",
+  "rg_tarih": "2009-06-10",
+  "rg_sayi": "27254",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-sahil-saglik-denetleme-merkezleri-yonetmeligi-2009-06-10"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "2022 Sayılı Kanun Kapsamında Aylık Alan Özürlülere Sağlık Kurulu Raporu Vermeye Yetkili Hastanelerin Belirlenmesi ile Sağlık Raporlarının Alınmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+  "rg_tarih": "2009-07-03",
+  "rg_sayi": "27277",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-2022-sayili-kanun-kapsaminda-aylik-alan-ozurlulere-saglik-kurulu-raporu-vermeye--2009-07-03"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Biyosidal Ürünler Yönetmeliği",
+  "rg_tarih": "2009-12-31",
+  "rg_sayi": "27449",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-biyosidal-urunler-yonetmeligi-2009-12-31"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Mezarlık Yerlerinin İnşaası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmelik",
+  "rg_tarih": "2010-01-19",
+  "rg_sayi": "27467",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-mezarlik-yerlerinin-insaasi-ile-cenaze-nakil-ve-defin-islemleri-hakkinda-yonetme-2010-01-19"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hemşirelik Yönetmeliği",
+  "rg_tarih": "2010-03-08",
+  "rg_sayi": "27515",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hemsirelik-yonetmeligi-2010-03-08"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Çevresel Gürültünün Değerlendirilmesi Yönetmeliği",
+  "rg_tarih": "2010-06-04",
+  "rg_sayi": "27601",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-cevresel-gurultunun-degerlendirilmesi-yonetmeligi-2010-06-04"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Uçucu Maddelerin Zararlarından İnsan Sağlığının Korunması Hakkında Yönetmelik",
+  "rg_tarih": "2010-08-05",
+  "rg_sayi": "27663",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ucucu-maddelerin-zararlarindan-insan-sagliginin-korunmasi-hakkinda-yonetmelik-2010-08-05"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Enfeksiyöz Madde ile Enfeksiyöz Tanı ve Klinik Örneği Taşıma Yönetmeliği",
+  "rg_tarih": "2010-09-25",
+  "rg_sayi": "27710",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-enfeksiyoz-madde-ile-enfeksiyoz-tani-ve-klinik-ornegi-tasima-yonetmeligi-2010-09-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Yüzme Havuzlarının Tabi Olacağı Sağlık Esasları ve Şartları Hakkında Yönetmelik",
+  "rg_tarih": "2011-03-06",
+  "rg_sayi": "27866",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-yuzme-havuzlarinin-tabi-olacagi-saglik-esaslari-ve-sartlari-hakkinda-yonetmelik-2011-03-06"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği",
+  "rg_tarih": "2011-06-07",
+  "rg_sayi": "27957",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-vucuda-yerlestirilebilir-aktif-tibbi-cihazlar-yonetmeligi-2011-06-07"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tıbbi Cihaz Yönetmeliği",
+  "rg_tarih": "2011-06-07",
+  "rg_sayi": "27957",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tibbi-cihaz-yonetmeligi-2011-06-07"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+  "rg_tarih": "2011-08-27",
+  "rg_sayi": "28038",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-trafik-kazalari-nedeniyle-ilgililere-sunulan-saglik-hizmet-bedellerinin-tahsilin-2011-08-27"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hudut Kapılarında Uygulanacak Sağlık İşlemleri Hakkında Yönetmelik",
+  "rg_tarih": "2011-09-17",
+  "rg_sayi": "28057",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hudut-kapilarinda-uygulanacak-saglik-islemleri-hakkinda-yonetmelik-2011-09-17"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmelik",
+  "rg_tarih": "2011-09-24",
+  "rg_sayi": "28064",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ismarlama-protez-ve-ortez-merkezleri-ile-isitme-cihazi-merkezleri-hakkinda-yonet-2011-09-24"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Devlet Memurlarına Verilecek Hastalık Raporları ile Hastalık ve Refakat İznine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+  "rg_tarih": "2011-10-29",
+  "rg_sayi": "28099",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-devlet-memurlarina-verilecek-hastalik-raporlari-ile-hastalik-ve-refakat-iznine-i-2011-10-29"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik",
+  "rg_tarih": "2011-11-23",
+  "rg_sayi": "28121",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tutun-bagimliligi-tedavi-ve-egitim-birimleri-hakkinda-yonetmelik-2011-11-23"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hayvansal Gıdalar için Özel Hijyen Kuralları Yönetmeliği",
+  "rg_sayi": "28155",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hayvansal-gidalar-icin-ozel-hijyen-kurallari-yonetmeligi"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliği",
+  "rg_tarih": "2012-01-04",
+  "rg_sayi": "28163",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligi-tasra-teskilati-idari-ve-hizmet-birimleri-kadro-standartlari-yo-2012-01-04"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Yabancı Sağlık Meslek Mensuplarının Türkiye’de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmelik",
+  "rg_tarih": "2012-02-22",
+  "rg_sayi": "28212",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-yabanci-saglik-meslek-mensuplarinin-turkiye-de-ozel-saglik-kuruluslarinda-calism-2012-02-22"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığı Personeline Karşı İşlenen Suçlar Nedeniyle Yapılacak Hukuki Yardımın Usul ve Esasları Hakkında Yönetmelik",
+  "rg_tarih": "2012-04-28",
+  "rg_sayi": "28277",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligi-personeline-karsi-islenen-suclar-nedeniyle-yapilacak-hukuki-yar-2012-04-28"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığı ve Bağlı Kuruluşların Taşra Teşkilatında Görevli Personele Ek Ödeme Yapılmasına Dair Yönetmelik",
+  "rg_tarih": "2012-08-17",
+  "rg_sayi": "28387",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligi-ve-bagli-kuruluslarin-tasra-teskilatinda-gorevli-personele-ek-o-2012-08-17"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Meslekleri Kurulu Yönetmeliği",
+  "rg_tarih": "2012-02-14",
+  "rg_sayi": "28497",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-meslekleri-kurulu-yonetmeligi-2012-02-14"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Aile Hekimliği Uygulama Yönetmeliği",
+  "rg_tarih": "2013-01-25",
+  "rg_sayi": "28539",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-aile-hekimligi-uygulama-yonetmeligi-2013-01-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığı ve Bağlı Kuruluşları Atama ve Yer Değiştirme Yönetmeliği",
+  "rg_tarih": "2013-03-26",
+  "rg_sayi": "28599",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligi-ve-bagli-kuruluslari-atama-ve-yer-degistirme-yonetmeligi-2013-03-26"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik",
+  "rg_tarih": "2013-03-30",
+  "rg_sayi": "28603",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ozurluluk-olcutu-siniflandirmasi-ve-ozurlulere-verilecek-saglik-kurulu-raporlari-2013-03-30"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+  "rg_tarih": "2013-04-25",
+  "rg_sayi": "28628",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-is-ekipmanlarinin-kullaniminda-saglik-ve-guvenlik-sartlari-yonetmeligi-2013-04-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Beşeri Tıbbi Ürünlerin İmalathaneleri Hakkında Yönetmelik",
+  "rg_tarih": "2013-04-27",
+  "rg_sayi": "28630",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-beseri-tibbi-urunlerin-imalathaneleri-hakkinda-yonetmelik-2013-04-27"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Türk Gıda Kodeksi Gıda Katkı Maddeleri Yönetmeliği",
+  "rg_tarih": "2013-06-30",
+  "rg_sayi": "28693",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-turk-gida-kodeksi-gida-katki-maddeleri-yonetmeligi-2013-06-30"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hijyen Eğitimi Yönetmeliği",
+  "rg_tarih": "2013-07-05",
+  "rg_sayi": "28698",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hijyen-egitimi-yonetmeligi-2013-07-05"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik",
+  "rg_tarih": "2013-07-20",
+  "rg_sayi": "28713",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-isyeri-hekimi-ve-diger-saglik-personelinin-gorev-yetki-sorumluluk-ve-egitimleri--2013-07-20"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik.",
+  "rg_tarih": "2013-07-28",
+  "rg_sayi": "28721",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-calisanlarin-gurultu-ile-ilgili-risklerden-korunmalarina-dair-yonetmelik-2013-07-28"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Çalışanların Titreşimle İlgili Risklerden Korunmalarına Dair Yönetmelik",
+  "rg_tarih": "2013-08-22",
+  "rg_sayi": "28743",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-calisanlarin-titresimle-ilgili-risklerden-korunmalarina-dair-yonetmelik-2013-08-22"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Geçici veya Belirli Süreli İşlerde İş Sağlığı ve Güvenliği Hakkında Yönetmelik",
+  "rg_tarih": "2013-08-23",
+  "rg_sayi": "28744",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-gecici-veya-belirli-sureli-islerde-is-sagligi-ve-guvenligi-hakkinda-yonetmelik-2013-08-23"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Özel Sağlık Sigortaları Yönetmeliği",
+  "rg_tarih": "2013-10-23",
+  "rg_sayi": "28790",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ozel-saglik-sigortalari-yonetmeligi-2013-10-23"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Uluslararası Giriş Noktalarında Uygulanacak Çevre Sağlığı İşlemlerine Dair Yönetmelik",
+  "rg_tarih": "2013-11-03",
+  "rg_sayi": "28810",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-uluslararasi-giris-noktalarinda-uygulanacak-cevre-sagligi-islemlerine-dair-yonet-2013-11-03"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tozla Mücadele Yönetmeliği",
+  "rg_tarih": "2013-11-05",
+  "rg_sayi": "28812",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tozla-mucadele-yonetmeligi-2013-11-05"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Madde Bağımlılığı Tedavi Merkezleri Yönetmeliği",
+  "rg_tarih": "2013-12-29",
+  "rg_sayi": "28866",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-madde-bagimliligi-tedavi-merkezleri-yonetmeligi-2013-12-29"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği",
+  "rg_tarih": "2014-02-04",
+  "rg_sayi": "28903",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligi-sertifikali-egitim-yonetmeligi-2014-02-04"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Eczacılar ve Eczaneler Hakkında Yönetmelik",
+  "rg_tarih": "2014-04-12",
+  "rg_sayi": "28970",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-eczacilar-ve-eczaneler-hakkinda-yonetmelik-2014-04-12"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İlaçların Güvenliliği Hakkında Yönetmeliği",
+  "rg_tarih": "2014-04-15",
+  "rg_sayi": "28973",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ilaclarin-guvenliligi-hakkinda-yonetmeligi-2014-04-15"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği",
+  "rg_tarih": "2014-04-26",
+  "rg_sayi": "28983",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tipta-ve-dis-hekimliginde-uzmanlik-egitimi-yonetmeligi-2014-04-26"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliği",
+  "rg_tarih": "2014-05-15",
+  "rg_sayi": "29001",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tibbi-cihaz-satis-reklam-ve-tanitim-yonetmeligi-2014-05-15"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "112 Acil Çağrı Merkezleri Kuruluş, Görev ve Çalışma Yönetmeliği",
+  "rg_tarih": "2014-05-16",
+  "rg_sayi": "29002",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-112-acil-cagri-merkezleri-kurulus-gorev-ve-calisma-yonetmeligi-2014-05-16"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelik",
+  "rg_tarih": "2014-05-22",
+  "rg_sayi": "29007",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-meslek-mensuplari-ile-saglik-hizmetlerinde-calisan-diger-meslek-mensuplar-2014-05-22"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Üremeye Yardımcı Tedavi Uygulamaları ve Üremeye Yardımcı Tedavi Merkezleri Hakkında Yönetmelik",
+  "rg_tarih": "2014-09-30",
+  "rg_sayi": "29135",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-uremeye-yardimci-tedavi-uygulamalari-ve-uremeye-yardimci-tedavi-merkezleri-hakki-2014-09-30"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Geleneksel ve Tamamlayıcı Tıp Uygulamaları Yönetmeliği",
+  "rg_tarih": "2014-10-27",
+  "rg_sayi": "29158",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-geleneksel-ve-tamamlayici-tip-uygulamalari-yonetmeligi-2014-10-27"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Çevresel Etki Değerlendirmesi Yönetmeliği",
+  "rg_tarih": "2014-11-25",
+  "rg_sayi": "29186",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-cevresel-etki-degerlendirmesi-yonetmeligi-2014-11-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Halk Sağlığı Laboratuvarları ve Yetkilendirilmiş Laboratuvarların Çalışma Usul ve Esasları Hakkında Yönetmelik",
+  "rg_tarih": "2015-01-22",
+  "rg_sayi": "29244",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-halk-sagligi-laboratuvarlari-ve-yetkilendirilmis-laboratuvarlarin-calisma-usul-v-2015-01-22"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Toplum Sağlığı Merkezi ve Bağlı Birimler Yönetmeliği",
+  "rg_tarih": "2015-02-05",
+  "rg_sayi": "29258",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-toplum-sagligi-merkezi-ve-bagli-birimler-yonetmeligi-2015-02-05"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığı ve Bağlı Kuruluşları 4924 Sayılı Kanuna Tabi Sözleşmeli Sağlık Personeli Atama ve Yer Değiştirme Yönetmeliği",
+  "rg_tarih": "2015-02-11",
+  "rg_sayi": "29264",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligi-ve-bagli-kuruluslari-4924-sayili-kanuna-tabi-sozlesmeli-saglik--2015-02-11"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Türk Tabipleri Birliği Tabela Yönetmeliği",
+  "rg_tarih": "2015-02-14",
+  "rg_sayi": "29267",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-turk-tabipleri-birligi-tabela-yonetmeligi-2015-02-14"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Atık Yönetimi Yönetmeliği",
+  "rg_tarih": "2015-04-02",
+  "rg_sayi": "29314",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-atik-yonetimi-yonetmeligi-2015-04-02"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlıkta Kalitenin Geliştirilmesi ve Değerlendirilmesine Dair Yönetmelik",
+  "rg_tarih": "2015-06-27",
+  "rg_sayi": "29399",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglikta-kalitenin-gelistirilmesi-ve-degerlendirilmesine-dair-yonetmelik-2015-06-27"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Bilimsel Danışma Komisyonlarının Teşkili ve Görevleri Hakkında Yönetmelik",
+  "rg_tarih": "2015-07-01",
+  "rg_sayi": "29403",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-turkiye-ilac-ve-tibbi-cihaz-kurumu-bilimsel-danisma-komisyonlarinin-teskili-ve-g-2015-07-01"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Beşerî Tıbbi Ürünlerin Tanıtım Faaliyetleri Hakkında Yönetmelik",
+  "rg_tarih": "2015-07-03",
+  "rg_sayi": "29405",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-beseri-tibbi-urunlerin-tanitim-faaliyetleri-hakkinda-yonetmelik-2015-07-03"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İlkyardım Yönetmeliği",
+  "rg_tarih": "2015-07-29",
+  "rg_sayi": "29429",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ilkyardim-yonetmeligi-2015-07-29"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kozmetik Ürün veya Hammaddelerinin Etkinlik ve Güvenlilik Çalışmaları ile Klinik Araştırmaları Hakkında Yönetmelik",
+  "rg_tarih": "2015-09-20",
+  "rg_sayi": "29481",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-kozmetik-urun-veya-hammaddelerinin-etkinlik-ve-guvenlilik-calismalari-ile-klinik-2015-09-20"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tıbbi Atıkların Kontrolü Yönetmeliği",
+  "rg_tarih": "2017-01-25",
+  "rg_sayi": "29959",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tibbi-atiklarin-kontrolu-yonetmeligi-2017-01-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Beşeri Tıbbi Ürünlerin Ambalaj Bilgileri, Kullanma Talimatı ve Takibi Yönetmeliği",
+  "rg_tarih": "2017-04-25",
+  "rg_sayi": "30048",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-beseri-tibbi-urunlerin-ambalaj-bilgileri-kullanma-talimati-ve-takibi-yonetmeligi-2017-04-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığı Bağlı Kuruluşları Hizmet Birimlerinin Görevleri ile Çalışma Usul ve Esasları Hakkında Yönetmelik",
+  "rg_tarih": "2017-12-22",
+  "rg_sayi": "30278",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligi-bagli-kuruluslari-hizmet-birimlerinin-gorevleri-ile-calisma-usu-2017-12-22"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Diyaliz Merkezleri Hakkında Yönetmelik",
+  "rg_tarih": "2019-03-01",
+  "rg_sayi": "30701",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-diyaliz-merkezleri-hakkinda-yonetmelik-2019-03-01"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kişisel Sağlık Verileri Hakkında Yönetmelik",
+  "rg_tarih": "2019-06-21",
+  "rg_sayi": "30808",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-kisisel-saglik-verileri-hakkinda-yonetmelik-2019-06-21"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Biyosidal Ürünlerin Kullanım Usul ve Esasları Hakkında Yönetmelik",
+  "rg_tarih": "2019-07-04",
+  "rg_sayi": "30821",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-biyosidal-urunlerin-kullanim-usul-ve-esaslari-hakkinda-yonetmelik-2019-07-04"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Terapötik Aferez Merkezleri ve Üniteleri Hakkında Yönetmelik",
+  "rg_tarih": "2019-07-31",
+  "rg_sayi": "30848",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-terapotik-aferez-merkezleri-ve-uniteleri-hakkinda-yonetmelik-2019-07-31"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Yanık Tedavi Birimleri Hakkında Yönetmelik",
+  "rg_tarih": "2019-10-08",
+  "rg_sayi": "30912",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-yanik-tedavi-birimleri-hakkinda-yonetmelik-2019-10-08"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Genetik Hastalıklar Değerlendirme Merkezleri Yönetmeliği",
+  "rg_tarih": "2020-01-10",
+  "rg_sayi": "31004",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-genetik-hastaliklar-degerlendirme-merkezleri-yonetmeligi-2020-01-10"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığına ait Kurum ve Kuruluşlar ile Devlet Üniversitelerinin İlgili Birimlerinin Birlikte Kullanımı ile İşbirliği Usul ve Esasları Hakkında Yönetmelik",
+  "rg_tarih": "2020-03-04",
+  "rg_sayi": "31058",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligina-ait-kurum-ve-kuruluslar-ile-devlet-universitelerinin-ilgili-b-2020-03-04"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hastane Afet ve Acil Durum Planları (Hap) Uygulama Yönetmeliği",
+  "rg_tarih": "2020-03-18",
+  "rg_sayi": "31072",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hastane-afet-ve-acil-durum-planlari-hap-uygulama-yonetmeligi-2020-03-18"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği",
+  "rg_tarih": "2021-06-30",
+  "rg_sayi": "31527",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-aile-hekimligi-sozlesme-ve-odeme-yonetmeligi-2021-06-30"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği",
+  "rg_tarih": "2021-12-11",
+  "rg_sayi": "31686",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-beseri-tibbi-urunler-ruhsatlandirma-yonetmeligi-2021-12-11"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Ruhsatlı Beşeri Tıbbi Ürünlerdeki Varyasyanlara Dair Yönetmelik",
+  "rg_tarih": "2021-12-18",
+  "rg_sayi": "31693",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ruhsatli-beseri-tibbi-urunlerdeki-varyasyanlara-dair-yonetmelik-2021-12-18"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Çalışanların Sağlık Gözetimine Yönelik Tıbbi Tetkiklerin Usul ve Esasları Hakkında Yönetmelik",
+  "rg_tarih": "2022-01-20",
+  "rg_sayi": "31725",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-calisanlarin-saglik-gozetimine-yonelik-tibbi-tetkiklerin-usul-ve-esaslari-hakkin-2022-01-20"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Uzaktan Sağlık hizmetlerinin Sunumu Hakkında Yönetmelik",
+  "rg_tarih": "2022-02-10",
+  "rg_sayi": "31746",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-uzaktan-saglik-hizmetlerinin-sunumu-hakkinda-yonetmelik-2022-02-10"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Hizmet Sunucularının Basamaklandırılmasına Dair Yönetmelik",
+  "rg_tarih": "2022-02-10",
+  "rg_sayi": "31746",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-hizmet-sunucularinin-basamaklandirilmasina-dair-yonetmelik-2022-02-10"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Gıda Kontrol Laboratuvarları Yönetmeliği",
+  "rg_tarih": "2022-02-18",
+  "rg_sayi": "31754",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-gida-kontrol-laboratuvarlari-yonetmeligi-2022-02-18"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Radyoloji Hizmetleri Yönetmeliği",
+  "rg_tarih": "2022-04-26",
+  "rg_sayi": "31821",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-radyoloji-hizmetleri-yonetmeligi-2022-04-26"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Meslek Mensuplarının Tıbbî İşlem ve Uygulamaları Nedeniyle Soruşturulmasına ve İdarece Ödenen Tazminatın Rücu Edilmesine Dair Usul ve Esaslar Hakkında Yönetmelik",
+  "rg_tarih": "2022-06-15",
+  "rg_sayi": "31867",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-meslek-mensuplarinin-tibbi-islem-ve-uygulamalari-nedeniyle-sorusturulmasi-2022-06-15"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Ecza Ticarethaneleri ve Ecza Ticarethanelerinde Bulundurulan Ürünler Hakkında Yönetmelik",
+  "rg_tarih": "2022-06-15",
+  "rg_sayi": "31867",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ecza-ticarethaneleri-ve-ecza-ticarethanelerinde-bulundurulan-urunler-hakkinda-yo-2022-06-15"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tıbbi Cihaz Klinik Araştırmaları Yönetmeliği",
+  "rg_tarih": "2022-07-08",
+  "rg_sayi": "31890",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tibbi-cihaz-klinik-arastirmalari-yonetmeligi-2022-07-08"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bilgi Yönetim Sistemleri Hakkında Yönetmelik",
+  "rg_tarih": "2022-08-25",
+  "rg_sayi": "31934",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bilgi-yonetim-sistemleri-hakkinda-yonetmelik-2022-08-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Aşı ve İmmun Serumlar Hakkında Seri Serbest Bırakma Yönetmeliği",
+  "rg_sayi": "31969",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-asi-ve-immun-serumlar-hakkinda-seri-serbest-birakma-yonetmeligi"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Ağız ve Diş Sağlığı Hizmeti Sunulan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+  "rg_tarih": "2022-10-06",
+  "rg_sayi": "31975",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-agiz-ve-dis-sagligi-hizmeti-sunulan-ozel-saglik-kuruluslari-hakkinda-yonetmelik-2022-10-06"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Organ Nakli Hizmetleri Yönetmeliği",
+  "rg_tarih": "2022-12-09",
+  "rg_sayi": "32038",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-organ-nakli-hizmetleri-yonetmeligi-2022-12-09"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Çok Disiplinli Çocuk ve Genç Ruh Sağlığı Merkezleri Hakkında Yönetmelik",
+  "rg_tarih": "2022-12-15",
+  "rg_sayi": "32044",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-cok-disiplinli-cocuk-ve-genc-ruh-sagligi-merkezleri-hakkinda-yonetmelik-2022-12-15"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Geleneksel Bitkisel Tıbbi Ürünler Ruhsatlandırma Yönetmeliği",
+  "rg_tarih": "2023-02-03",
+  "rg_sayi": "32093",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-geleneksel-bitkisel-tibbi-urunler-ruhsatlandirma-yonetmeligi-2023-02-03"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Yurt Dışından İlaç Temini Yönetmeliği",
+  "rg_tarih": "2023-02-03",
+  "rg_sayi": "32093",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-yurt-disindan-ilac-temini-yonetmeligi-2023-02-03"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İyonlaştırıcı Radyasyon ve Radyonüklit Kullanılarak Sunulan Sağlık Hizmetleri Hakkında Yönetmelik",
+  "rg_tarih": "2023-04-13",
+  "rg_sayi": "32162",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-iyonlastirici-radyasyon-ve-radyonuklit-kullanilarak-sunulan-saglik-hizmetleri-ha-2023-04-13"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Radyasyon Onkolojisi Hizmetleri Yönetmeliği",
+  "rg_tarih": "2023-04-25",
+  "rg_sayi": "32171",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-radyasyon-onkolojisi-hizmetleri-yonetmeligi-2023-04-25"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Saç Ekimi Birimleri Hakkında Yönetmelik",
+  "rg_tarih": "2023-05-06",
+  "rg_sayi": "32171",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-sac-ekimi-birimleri-hakkinda-yonetmelik-2023-05-06"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Eğitim Aile Sağlığı Merkezleri Yönetmeliği",
+  "rg_tarih": "2023-04-28",
+  "rg_sayi": "32182",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-egitim-aile-sagligi-merkezleri-yonetmeligi-2023-04-28"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Beşeri Tıbbi Ürünlerin Klinik Araştırmaları Hakkında Yönetmelik",
+  "rg_tarih": "2023-05-27",
+  "rg_sayi": "32203",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-beseri-tibbi-urunlerin-klinik-arastirmalari-hakkinda-yonetmelik-2023-05-27"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İleri Tedavi Tıbbi Ürünler Ruhsatlandırma Yönetmeliği",
+  "rg_tarih": "2023-05-27",
+  "rg_sayi": "32203",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ileri-tedavi-tibbi-urunler-ruhsatlandirma-yonetmeligi-2023-05-27"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Evde Sağlık Hizmeti Sunumu Hakkında Yönetmelik",
+  "rg_tarih": "2023-06-02",
+  "rg_sayi": "32209",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-evde-saglik-hizmeti-sunumu-hakkinda-yonetmelik-2023-06-02"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Homeopatik Tıbbi Ürünler Ruhsatlandırma Yönetmeliği",
+  "rg_tarih": "2023-07-08",
+  "rg_sayi": "32242",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-homeopatik-tibbi-urunler-ruhsatlandirma-yonetmeligi-2023-07-08"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik",
+  "rg_tarih": "2023-07-29",
+  "rg_sayi": "32263",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-hizmetlerinde-tanitim-ve-bilgilendirme-faaliyetleri-hakkinda-yonetmelik-2023-07-29"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Özel Sağlık Tesislerinin Denetimi Hakkında Yönetmelik",
+  "rg_tarih": "2023-11-17",
+  "rg_sayi": "32372",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ozel-saglik-tesislerinin-denetimi-hakkinda-yonetmelik-2023-11-17"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Seferberlik ve Savaş Hali Yönetmeliği",
+  "rg_tarih": "2024-05-22",
+  "rg_sayi": "32553",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-seferberlik-ve-savas-hali-yonetmeligi-2024-05-22"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tıbbi Laboratuvarlar Yönetmeliği",
+  "rg_tarih": "2024-06-04",
+  "rg_sayi": "32566",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tibbi-laboratuvarlar-yonetmeligi-2024-06-04"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Bakanlığı Ek Ödeme Yönetmeliği",
+  "rg_tarih": "2024-08-06",
+  "rg_sayi": "32624",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-bakanligi-ek-odeme-yonetmeligi-2024-08-06"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Tıbbi Amaçlı Olmayan Belirli Aktif Ürün Gruplarının Yeniden Sınıflandırılmasına İlişkin Yönetmelik",
+  "rg_tarih": "2024-08-17",
+  "rg_sayi": "32635",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-tibbi-amacli-olmayan-belirli-aktif-urun-gruplarinin-yeniden-siniflandirilmasina--2024-08-17"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Beşeri Tıbbi Ürünler ve Özel Tıbbi Amaçlı Gıdaların Geri Çekilmesi Hakkında Yönetmelik",
+  "rg_tarih": "2024-10-23",
+  "rg_sayi": "32701",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-beseri-tibbi-urunler-ve-ozel-tibbi-amacli-gidalarin-geri-cekilmesi-hakkinda-yone-2024-10-23"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Ebelik Yönetmeliği",
+  "rg_tarih": "2024-12-03",
+  "rg_sayi": "32741",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ebelik-yonetmeligi-2024-12-03"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Hastane Koordinasyon Kurulu Yönetmeliği",
+  "rg_tarih": "2024-12-03",
+  "rg_sayi": "32741",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-hastane-koordinasyon-kurulu-yonetmeligi-2024-12-03"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Türk Eczacılar Birliği Disiplin Yönetmeliği",
+  "rg_tarih": "2024-12-10",
+  "rg_sayi": "32748",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-turk-eczacilar-birligi-disiplin-yonetmeligi-2024-12-10"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Gebe Okulları ile Doğuma Yönelik Hizmetlerin Usul ve Esasları Hakkında Yönetmelik Usul Ve Esasları Hakkında Yönetmelik",
+  "rg_tarih": "2024-12-13",
+  "rg_sayi": "32751",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-gebe-okullari-ile-doguma-yonelik-hizmetlerin-usul-ve-esaslari-hakkinda-yonetmeli-2024-12-13"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Ambulanslar ve Acil Sağlık Araçları ile Ambulans Hizmetleri Yönetmeliği",
+  "rg_tarih": "2025-01-08",
+  "rg_sayi": "32776",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-ambulanslar-ve-acil-saglik-araclari-ile-ambulans-hizmetleri-yonetmeligi-2025-01-08"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Meslek Mensuplarının Serbest Meslek İcrası Hakkında Yönetmelik",
+  "rg_tarih": "2025-03-29",
+  "rg_sayi": "32856",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-saglik-meslek-mensuplarinin-serbest-meslek-icrasi-hakkinda-yonetmelik-2025-03-29"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Uluslararası Sağlık Turizmi ve Turistin Sağlığı Hakkında Yönetmelik",
+  "rg_tarih": "2025-04-26",
+  "rg_sayi": "32882",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-uluslararasi-saglik-turizmi-ve-turistin-sagligi-hakkinda-yonetmelik-2025-04-26"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "İnsan Doku ve Hücrelerinden Elde Edilen Ürünler ve Bu Ürünler ile İlgili Merkezler Hakkında Yönetmelik",
+  "rg_tarih": "2025-09-04",
+  "rg_sayi": "33007",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek V",
+  "id": "oz-insan-doku-ve-hucrelerinden-elde-edilen-urunler-ve-bu-urunler-ile-ilgili-merkezl-2025-09-04"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Köy Sağlık Memurları Yönetmeliği",
+  "rg_tarih": "1946-04-02",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-koy-saglik-memurlari-yonetmeligi-1946-04-02"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kaza Sağlık İdareleri ve Sağlık Merkezleri Talimatnamesi",
+  "rg_tarih": "1955-07-07",
+  "rg_sayi": "9048",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-kaza-saglik-idareleri-ve-saglik-merkezleri-talimatnamesi-1955-07-07"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kaza Sağlık idareleri ve Sağlık Merkezleri Motorlu Taşıt Talimatnamesi",
+  "rg_tarih": "1955-07-07",
+  "rg_sayi": "9048",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-kaza-saglik-idareleri-ve-saglik-merkezleri-motorlu-tasit-talimatnamesi-1955-07-07"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Vilayet Sıhhat Müdür ve Hükümet Tabipler ile Belediye Sağlık İşleri Müdür ve Belediye Tabiplerine ait Vazife Talimatnamesi",
+  "rg_tarih": "1958-08-26",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-vilayet-sihhat-mudur-ve-hukumet-tabipler-ile-belediye-saglik-isleri-mudur-ve-bel-1958-08-26"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "7478 Sayılı Kanun Gereğince Vilayetlere Bırakılan Köy İçme Suyu İşlerinin Yürütülmesine Dair Yönetmelik",
+  "rg_tarih": "1963-01-12",
+  "rg_sayi": "9631",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-7478-sayili-kanun-geregince-vilayetlere-birakilan-koy-icme-suyu-islerinin-yurutu-1963-01-12"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Hizmetlerinin Sosyalleştirildiği Bölgelerde Hizmetin Yürütülmesi Hakkında Yönetmelik",
+  "rg_tarih": "1964-09-09",
+  "rg_sayi": "11802",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-saglik-hizmetlerinin-sosyallestirildigi-bolgelerde-hizmetin-yurutulmesi-hakkinda-1964-09-09"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Çevre Sağlığı Memurları Yönetmeliği",
+  "rg_tarih": "1965-08-14",
+  "rg_sayi": "12075",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-cevre-sagligi-memurlari-yonetmeligi-1965-08-14"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Radyoloji ve Tedavi Laboratuvarı Teknisyeni Sağlık Memurlarının Görev ve Yetkileri Hakkında Yönetmelik",
+  "rg_tarih": "1967-06-27",
+  "rg_sayi": "12632",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-radyoloji-ve-tedavi-laboratuvari-teknisyeni-saglik-memurlarinin-gorev-ve-yetkile-1967-06-27"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Laboratuvar Teknisyeni Sağlık Memurlarının Görev ve Yetkileri Hakkında Yönetmelik",
+  "rg_tarih": "1967-06-27",
+  "rg_sayi": "12632",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-laboratuvar-teknisyeni-saglik-memurlarinin-gorev-ve-yetkileri-hakkinda-yonetmeli-1967-06-27"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Hizmetlerinin Sosyalleştirildiği Bölgelerde Sağlık Ocakları İaşe Yönetmeliği",
+  "rg_tarih": "1968-08-07",
+  "rg_sayi": "12970",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-saglik-hizmetlerinin-sosyallestirildigi-bolgelerde-saglik-ocaklari-iase-yonetmel-1968-08-07"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sosyalleştirilmiş Sağlık Hizmetlerinin Sağlık Kurulları Yönetmeliği",
+  "rg_tarih": "1969-03-15",
+  "rg_sayi": "13149",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-sosyallestirilmis-saglik-hizmetlerinin-saglik-kurullari-yonetmeligi-1969-03-15"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Savaş Memurlarının Nitelik, Yetki ve Sorumluluklarını Belirten Yönetmelik",
+  "rg_sayi": "13535",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-saglik-savas-memurlarinin-nitelik-yetki-ve-sorumluluklarini-belirten-yonetmelik"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Bazı Sağlık Personeline Devlet Hizmeti hükümlülüğü Uygulaması Esaslarına Dair Yönetmelik",
+  "rg_tarih": "1981-11-20",
+  "rg_sayi": "17520",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-bazi-saglik-personeline-devlet-hizmeti-hukumlulugu-uygulamasi-esaslarina-dair-yo-1981-11-20"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Sağlık Hizmetlerinin Sosyalleştirildiği İl ve Bölgelerde Sağlık Ocağı ve Sağlık Evi lojmanlarının Tahsis, Yönetim ve Kira Yönetmeliği",
+  "rg_tarih": "1982-05-29",
+  "rg_sayi": "17708",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-saglik-hizmetlerinin-sosyallestirildigi-il-ve-bolgelerde-saglik-ocagi-ve-saglik--1982-05-29"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Mezuniyet Belgesine Sahip Olmadan Mesleklerini İcra Etmekte Olan Diş Teknisyenlerine Ehliyet Sınavı ile Diş Protez Teknisyeni Unvanı Kazandırılmasına Dair Yönetmelik",
+  "rg_tarih": "1989-12-20",
+  "rg_sayi": "20378",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-mezuniyet-belgesine-sahip-olmadan-mesleklerini-icra-etmekte-olan-dis-teknisyenle-1989-12-20"
+ },
+ {
+  "tur": "yonetmelik",
+  "baslik": "Kamu Kurum ve Kuruluşlarına Ait Sağlık işletmelerinin Yönetimi ile Çalışma Usul ve Esasları Hakkında Yönetmelik",
+  "rg_tarih": "1995-01-11",
+  "rg_sayi": "22168",
+  "durum": "uygulama olanağı kalmamış",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VI",
+  "id": "oz-kamu-kurum-ve-kuruluslarina-ait-saglik-isletmelerinin-yonetimi-ile-calisma-usul--1995-01-11"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Kemik İliği Nakli Merkezleri ve Kemik İliği Nakli Doku Bilgi İşlem Merkezleri Yönergesi",
+  "tarih": "2001-02-26",
+  "sayi": "1832",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-kemik-iligi-nakli-merkezleri-ve-kemik-iligi-nakli-doku-bilgi-islem-merkezleri-yo-2001-02-26"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sürücü Davranışlarını Geliştirme Eğitimi ile İlgili Eğitim Programı Uygulanması ve Değerlendirilmesi Esaslarına Dair Yönerge",
+  "tarih": "2005-03-04",
+  "sayi": "3201",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-surucu-davranislarini-gelistirme-egitimi-ile-ilgili-egitim-programi-uygulanmasi--2005-03-04"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "İl Ambulans Servisi Çalışma Yönergesi",
+  "tarih": "2005-05-24",
+  "sayi": "872",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-il-ambulans-servisi-calisma-yonergesi-2005-05-24"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi",
+  "tarih": "2008-05-28",
+  "sayi": "19735",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-ulusal-organ-ve-doku-nakli-koordinasyon-sistemi-yonergesi-2008-05-28"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Su Arıtma Sistemi Yönergesi",
+  "tarih": "2009-04-17",
+  "sayi": "15873",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-su-aritma-sistemi-yonergesi-2009-04-17"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı 4/B Sözleşmeli Personelin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönerge",
+  "tarih": "2009-05-06",
+  "sayi": "88709",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-4-b-sozlesmeli-personelin-yeniden-hizmete-alinmasi-ve-kurum-ici-2009-05-06"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Yataklı Sağlık Tesislerinde Yanık Tedavi Birimlerinin Kurulması ve İşleyişi Hakkında Yönerge",
+  "tarih": "2010-01-19",
+  "sayi": "2202",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-yatakli-saglik-tesislerinde-yanik-tedavi-birimlerinin-kurulmasi-ve-isleyisi-hakk-2010-01-19"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge",
+  "tarih": "2011-01-26",
+  "sayi": "3972",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-bagli-hastaneler-ve-ek-saglik-tesislerinin-acilmasi-ve-isleyisi-2011-01-26"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Tıbbi Sosyal Hizmet Uygulama Yönergesi",
+  "tarih": "2011-02-16",
+  "sayi": "7465",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-tibbi-sosyal-hizmet-uygulama-yonergesi-2011-02-16"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Çevre ve Toplum Sağlığını Olumsuz Etkileyebilecek Gayrisıhhi Müesseselerinin Etrafında Bırakılacak Sağlık Koruma Bandı Mesafesi Belirlenmesi Hakkında Yönerge",
+  "tarih": "2011-02-17",
+  "sayi": "6359",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-cevre-ve-toplum-sagligini-olumsuz-etkileyebilecek-gayrisihhi-muesseselerinin-etr-2011-02-17"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Komposit Doku Nakli Merkezleri Yönergesi",
+  "tarih": "2011-03-29",
+  "sayi": "13984",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-komposit-doku-nakli-merkezleri-yonergesi-2011-03-29"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı ile Bağlı Kuruluşlarına Bağlı Döner Sermaye İşletmelerinden Merkeze Aktarılan Tutarın Dağılım ve Sarfına Dair Yönerge",
+  "tarih": "2013-02-28",
+  "sayi": "649",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-ile-bagli-kuruluslarina-bagli-doner-sermaye-isletmelerinden-mer-2013-02-28"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Toplum Sağlığı Merkezlerinde Yürütülecek İş Sağlığı ve Güvenliği Hizmetlerinin Uygulama Usul ve Esasları Hakkında Yönerge",
+  "tarih": "2014-01-31",
+  "sayi": "010.04",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-toplum-sagligi-merkezlerinde-yurutulecek-is-sagligi-ve-guvenligi-hizmetlerinin-u-2014-01-31"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Toplum Ruh Sağlığı Merkezleri Hakkında Yönerge",
+  "tarih": "2014-03-06",
+  "sayi": "9453",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-toplum-ruh-sagligi-merkezleri-hakkinda-yonerge-2014-03-06"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Yayın Yönergesi",
+  "tarih": "2014-06-02",
+  "sayi": "5403.6",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-yayin-yonergesi-2014-06-02"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Göz Bankası ve Kornea Nakli Merkezleri Yönergesi",
+  "tarih": "2015-01-28",
+  "sayi": "203",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-goz-bankasi-ve-kornea-nakli-merkezleri-yonergesi-2015-01-28"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Merkez Döner Sermaye İşletmesinin Kurulması ve İşletilmesi Hakkında Yönerge",
+  "tarih": "2015-01-28",
+  "sayi": "208",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-merkez-doner-sermaye-isletmesinin-kurulmasi-ve-isletilmesi-hakk-2015-01-28"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Palyatif Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkında Yönerge",
+  "tarih": "2015-07-07",
+  "sayi": "253",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-palyatif-bakim-hizmetlerinin-uygulama-usul-ve-esaslari-hakkinda-yonerge-2015-07-07"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslar",
+  "tarih": "2015-11-04",
+  "sayi": "9648",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-gecici-koruma-altina-alinanlara-verilecek-saglik-hizmetlerine-dair-esaslar-2015-11-04"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Merkezlerde Çalışmasına İlişkin Usul ve Esasları Hakkında Yönerge",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-ilkyardim-sinavlari-ve-sinav-gozetmen-ucretleri-ile-egitmenlerin-merkezlerde-cal"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Kimlik Paylaşımı Sistemi (KPS) Usul ve Esasları Hakkında Yönerge",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-kimlik-paylasimi-sistemi-kps-usul-ve-esaslari-hakkinda-yonerge"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile Çalışma Usul ve Esaslarına Dair Yönerge",
+  "tarih": "2017-11-07",
+  "sayi": "51275",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-tasra-teskilati-kadro-standartlari-ile-calisma-usul-ve-esaslari-2017-11-07"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Merkezi Hekim Randevu Sistemi Çalışma Usul ve Esasları Hakkında Yönerge",
+  "tarih": "2018-04-30",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-merkezi-hekim-randevu-sistemi-calisma-usul-ve-esaslari-hakkinda-yonerge-2018-04-30"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Bilgi Güvenliği Politikaları Yönergesi",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-bilgi-guvenligi-politikalari-yonergesi"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sözleşmeli Yönetici Performans Değerlendirme Yönergesi",
+  "tarih": "2018-05-18",
+  "sayi": "362",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-sozlesmeli-yonetici-performans-degerlendirme-yonergesi-2018-05-18"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Yurt Dışı Sağlık Tesislerinde Personel Görevlendirilmesine Dair Usul ve Esaslar Hakkında Yönerge",
+  "tarih": "2018-12-13",
+  "sayi": "1453",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-yurt-disi-saglik-tesislerinde-personel-gorevlendirilmesine-dair-usul-ve-esaslar--2018-12-13"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge",
+  "tarih": "2019-02-25",
+  "sayi": "2833",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-saglik-personelinin-il-ici-yer-degistirmesine-iliskin-yonerge-2019-02-25"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Özel Sağlık Kuruluşlarının Kamu Sağlık Tesislerinden Hizmet Alımına İlişkin Yönerge",
+  "tarih": "2019-03-05",
+  "sayi": "13829",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-ozel-saglik-kuruluslarinin-kamu-saglik-tesislerinden-hizmet-alimina-iliskin-yone-2019-03-05"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge",
+  "tarih": "2019-03-14",
+  "sayi": "427",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanliginda-doner-sermaye-muhasebe-hizmetlerinin-yurutulmesine-iliskin-y-2019-03-14"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Ani Gelişen Halk Sağlığı Tehditlerine Yönelik Erken Uyarı Cevap Sistemi Uygulama Yönergesi",
+  "tarih": "2019-03-15",
+  "sayi": "106",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-ani-gelisen-halk-sagligi-tehditlerine-yonelik-erken-uyari-cevap-sistemi-uygulama-2019-03-15"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge",
+  "tarih": "2019-05-15",
+  "sayi": "652",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-birinci-basamak-saglik-kuruluslarina-ad-verilmesi-hakkinda-yone-2019-05-15"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Akut İnmeli Hastalara Verilecek Sağlık Hizmetleri Hakkında Yönerge",
+  "tarih": "2019-07-01",
+  "sayi": "458",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-akut-inmeli-hastalara-verilecek-saglik-hizmetleri-hakkinda-yonerge-2019-07-01"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Raporları Usul ve Esasları Hakkında Yönerge",
+  "tarih": "2019-09-30",
+  "sayi": "1618",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-raporlari-usul-ve-esaslari-hakkinda-yonerge-2019-09-30"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Teknolojisi Değerlendirme Yönergesi",
+  "tarih": "2019-10-25",
+  "sayi": "5201",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-teknolojisi-degerlendirme-yonergesi-2019-10-25"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Taşra Birimlerinin Taşıt Edinimlerine İlişkin Esas ve Usuller",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-tasra-birimlerinin-tasit-edinimlerine-iliskin-esas-ve-usuller"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi",
+  "tarih": "2020-01-24",
+  "sayi": "955",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-sosyal-tesisler-isletme-yonergesi-2020-01-24"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi",
+  "tarih": "2020-07-24",
+  "sayi": "356",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-on-mali-kontrol-islemleri-yonergesi-2020-07-24"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge",
+  "tarih": "2020-08-14",
+  "sayi": "967",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-turkiye-kok-hucre-merkezinin-calisma-usul-ve-esaslarina-dair-yonerge-2020-08-14"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığına Bağlı Hastaneler, Ağız ve Diş Sağlığı Merkezleri ile Hastanelerin Bazı Bölümlerine Ad Verilmesi ve Tabela Esasları Hakkında Yönerge",
+  "tarih": "2020-09-02",
+  "sayi": "4145",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligina-bagli-hastaneler-agiz-ve-dis-sagligi-merkezleri-ile-hastanele-2020-09-02"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü İz Kayıtları Yönetim Yönergesi",
+  "tarih": "2021-11-08",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-saglik-bilgi-sistemleri-genel-mudurlugu-iz-kayitlari-yonetim-yo-2021-11-08"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönerge",
+  "tarih": "2022-10-11",
+  "sayi": "2068",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-egitim-planlama-kurulunun-epk-gorevlerine-dair-yonerge-2022-10-11"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Yeni Elektronik Belge Yönetim Sistemi Yönergesi",
+  "tarih": "2022-12-29",
+  "sayi": "719",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-yeni-elektronik-belge-yonetim-sistemi-yonergesi-2022-12-29"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Afet ve Acil Durum Yönetim Merkezi (SAKOM-İLSAKOM) Yönergesi",
+  "tarih": "2023-01-02",
+  "sayi": "205995293",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-afet-ve-acil-durum-yonetim-merkezi-sakom-ilsakom-yonergesi-2023-01-02"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge",
+  "tarih": "2023-09-08",
+  "sayi": "22410678",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-saglik-hizmetleri-ve-yardimci-saglik-hizmetleri-sinifi-harici-p-2023-09-08"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Döner Sermaye İşletmesi Kapsamında Destekleyici Talebi ile Yürütülecek Çalışmalar ve Hizmetler Hakkında Yönerge",
+  "tarih": "2023-09-15",
+  "sayi": "224627335",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-doner-sermaye-isletmesi-kapsaminda-destekleyici-talebi-ile-yurutulecek-calismala-2023-09-15"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Genel Tıbbi İşlemler Yönergesi",
+  "tarih": "2024-07-01",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-genel-tibbi-islemler-yonergesi-2024-07-01"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Özellikli Tıbbi İşlemler Yönergesi",
+  "tarih": "2024-07-01",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-ozellikli-tibbi-islemler-yonergesi-2024-07-01"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Tesislerinde Mesai Dışı Sağlık Hizmeti Sunumuna Yönelik Usul ve Esaslar",
+  "tarih": "2024-07-01",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-tesislerinde-mesai-disi-saglik-hizmeti-sunumuna-yonelik-usul-ve-esaslar-2024-07-01"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi",
+  "tarih": "2024-07-17",
+  "sayi": "248902606",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-ve-bagli-kuruluslari-imza-yetkileri-yonergesi-2024-07-17"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi",
+  "tarih": "2024-11-29",
+  "sayi": "261021584",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-teftis-kurulu-baskanligi-muhakkiklik-egitimi-yonergesi-2024-11-29"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi",
+  "tarih": "2024-11-29",
+  "sayi": "261023707",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligi-teftis-kurulu-baskanligi-risk-esasli-denetim-sistemi-koordinato-2024-11-29"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Değerlendirilmesi ve Geliştirilmesine Dair Yönerge",
+  "tarih": "2025-05-23",
+  "sayi": "64390",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-bakanligina-bagli-saglik-tesislerinin-degerlendirilmesi-ve-gelistirilmesi-2025-05-23"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Sağlık Tesisleri Kurum Hedef Katsayısının Belirlenmesine İlişkin Yönerge",
+  "tarih": "2025-05-23",
+  "sayi": "277164646",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-saglik-tesisleri-kurum-hedef-katsayisinin-belirlenmesine-iliskin-yonerge-2025-05-23"
+ },
+ {
+  "tur": "yonerge",
+  "baslik": "Aile Hekimliği Tarama ve Takip Katsayısına İlişkin Yönerge",
+  "tarih": "2025-05-29",
+  "sayi": "277723519",
+  "not": "Ek VII: Sağlık yönergeleri.",
+  "kaynak": "Özcan C. Halk Sağlığı, 2. baskı, Ek VII",
+  "id": "oz-aile-hekimligi-tarama-ve-takip-katsayisina-iliskin-yonerge-2025-05-29"
+ }
+]

@@ -1,6 +1,6 @@
 ---
 id: "dx-saglik-bakanligina-bagli-saglik-tesislerinin-degerlendirilmesi-ve-gelistirilmesine-dair-yo"
-baslik: "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Değerlendirilmesi ve Geliştirilmesine Dair Yönerge"
+baslik: "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Değerlendirilmesi ve Geliştirilmesine Dair Yönerge"
 tur: "yonerge"
 tarih: "2025-05-23"
 sayi: "64390"

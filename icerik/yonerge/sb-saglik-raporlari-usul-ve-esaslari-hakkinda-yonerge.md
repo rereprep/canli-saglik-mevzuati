@@ -346,9 +346,7 @@ b) Demansi olanlara,
 
 c) Narkolepsisi olanlara;
 
-ç) Üst ekstremite için silah kullanabilme ve kavrama yapabilme fonksiyonlarını bozan; Serebrovasküler hastalık geçirip silah kullanmasını engelleyecek sekeli olanlar, kas hastalığı olanlar (miyopati, miyotonik bozukluk,) ellerde tremoru olanlar, üst ekstremitelerde periferik sinir bozukluğu olup, silah kullanmasına engel teşkil edecekler, denge kaybına neden olan serebeller sistem rahatsızlıkları olanlar, hareket bozukluğu olanlar, parkinson hastalığı olanlar, ileri derecede fonksiyon kaybına yol açan servikal distoni ve ekstremite distonisi, blefarospazmı, ileri derecede koresi olanlar,
-
-#### Göz muayenesine ilişkin esaslar
+ç) Üst ekstremite için silah kullanabilme ve kavrama yapabilme fonksiyonlarını bozan; Serebrovasküler hastalık geçirip silah kullanmasını engelleyecek sekeli olanlar, kas hastalığı olanlar (miyopati, miyotonik bozukluk,) ellerde tremoru olanlar, üst ekstremitelerde periferik sinir bozukluğu olup, silah kullanmasına engel teşkil edecekler, denge kaybına neden olan serebeller sistem rahatsızlıkları olanlar, hareket bozukluğu olanlar, parkinson hastalığı olanlar, ileri derecede fonksiyon kaybına yol açan servikal distoni ve ekstremite distonisi, blefarospazmı, ileri derecede koresi olanlar, Göz muayenesine ilişkin esaslar
 
 **MADDE 25 –** (1) Silah kullanımı sırasında atış yapılan hedefin görülebilmesi, atış yapan kişinin çevresine zarar vermemesi, güvenli bir atış yapabilmesi için görme kabiliyetinin yeterli olması gerekmektedir. Yeterli olmadığı değerlendirilenlere ve aşağıda belirtilen görme seviyelerinden daha kötü durumda olanlara silah ruhsatı verilmesine esas teşkil edecek olumlu sağlık kurul raporu verilmez.
 
@@ -360,13 +358,9 @@ e) Iyi gören gözde santral 20 derecede görme alanı defekti olmamalıdır.
 
 ç) Iyi gören gözde ptozis-hemiptozis olmamalıdır.
 
-d) Görmeyi zamanla azaltabilecek (katarakt, makula dejenerasyonu, retinopatiler) hastalığı olanlara yılda bir kez göz muayenesi istenir.
+d) Görmeyi zamanla azaltabilecek (katarakt, makula dejenerasyonu, retinopatiler) hastalığı olanlara yılda bir kez göz muayenesi istenir. Kulak-Burun-Boğaz muayenesine ilişkin esaslar
 
-#### Kulak-Burun-Boğaz muayenesine ilişkin esaslar
-
-**MADDE 26 –** (1) Silah kullanımı sırasında atış yapılan hedeften veya etraftan gelen seslerin, uyarıların duyulabilmesi, sesin geldiği yönün tayin edilebilmesi, atış yapan kişinin çevresine zarar vermemesi, güvenli bir atış yapabilmesi için işitme ve yön tayini kabiliyeti yönünden kişinin yeterli olması gerekmektedir.
-
-#### Psikiyatri muayenesine ilişkin esaslar
+**MADDE 26 –** (1) Silah kullanımı sırasında atış yapılan hedeften veya etraftan gelen seslerin, uyarıların duyulabilmesi, sesin geldiği yönün tayin edilebilmesi, atış yapan kişinin çevresine zarar vermemesi, güvenli bir atış yapabilmesi için işitme ve yön tayini kabiliyeti yönünden kişinin yeterli olması gerekmektedir. Psikiyatri muayenesine ilişkin esaslar
 
 **MADDE 27 –** (1) Silah kullanabilmek; başta kişinin kendisi olmak üzere çevresine zarar vermemesi, zarar verici gücü çok fazla olan silahın kötüye kullanımının önlenebilmesi, silahın güvenle saklanabilmesi, muhafaza edilebilmesi ve silaha gereken hassasiyetin-ciddiyetin gösterilebilmesi için psikiyatrik yönden iyilik hali gerektirir. Psikiyatrik yönden iyilik halinde olmadığı değerlendirilenlere ve aşağıda belirtilen psikiyatrik rahatsızlığı bulunanlara olumlu sağlık kurul raporu verilmez.
 
@@ -374,17 +368,11 @@ a) Güncel tedavi algoritmalarına uygun şekilde, etkin doz ve yeterli süre te
 
 b) Psikotik bozukluklar
 
-e) Madde veya alkol bağımlılığı,
+e) Madde veya alkol bağımlılığı, ę) Organik mental bozukluklar,
 
-ę) Organik mental bozukluklar,
+#### d) İntihar girişimi, geçmiş self mutilasyon davranışlarına ait skarlar, Dâhiliye muayenesine ilişkin esaslar
 
-d) İntihar girişimi, geçmiş self mutilasyon davranışlarına ait skarlar,
-
-#### Dâhiliye muayenesine ilişkin esaslar
-
-**MADDE 28 –** (1) Şuur durumunu etkileyen, vücutta aşırı düşkünlük yapmış herhangi bir dåhili hastalığı olanlara silah bulundurma ve taşıma ruhsatı verilmez.
-
-#### Kontrol muayenesi
+**MADDE 28 –** (1) Şuur durumunu etkileyen, vücutta aşırı düşkünlük yapmış herhangi bir dåhili hastalığı olanlara silah bulundurma ve taşıma ruhsatı verilmez. Kontrol muayenesi
 
 **MADDE 29 –** (1) Silah almak isteyen kişinin muayenesi mevcut durumuna göre yapılır. Hastalıkları bulunan fakat silah ruhsatı verilmesine esas teşkil edecek sağlık kurulu raporu alabilecek düzeyde yeterli görülenlerden, zamanla hastalığının kötüleşebilme ihtimali bulunanlara, ilgili uzman doktor veya sağlık kurulu tarafindan kontrol muayenesi zorunluluğu getirilebilir. Belirli zaman sonra kontrol şartı ile verilen sağlık kurulu raporlarının takibi, kişiye silah ruhsatı veren birim tarafindan yapılır. Öngörülen kontrol muayenesinin sonunda, ilgili branşın uzman doktorunun görüşlerini içeren sağlık raporu düzenlenir. Bu raporda, kontrol muayenesini yapan branş veya branşlar dışında, silah ruhsatı alınabilmesine dair raporda bulunması gereken diğer branş veya branşların muayene ve onaylarının bulunması zorunlu değildir. Ancak branş hekimi uygun görmesi halinde hastayı kurul raporu alınması için kurula sevk edebilir.
 

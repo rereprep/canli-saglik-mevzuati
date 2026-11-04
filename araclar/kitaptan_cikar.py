@@ -16,7 +16,7 @@ import pdfplumber
 KOK = Path(__file__).resolve().parent.parent
 TURLER = {"kanun", "cbk", "khk", "tuzuk", "yonetmelik", "yonerge", "genelge", "teblig", "protokol", "yazi"}
 ALANLAR = ["id", "baslik", "tur", "tarih", "sayi", "rg_tarih", "rg_sayi", "birim", "konu",
-           "etiketler", "kaynak", "kaynak_url", "not", "durum", "degisiklikler", "ocr"]
+           "etiketler", "kaynak", "kaynak_url", "not", "durum", "degisiklikler", "ocr", "duzeltildi"]
 
 UST_BILGI = re.compile(r"(SAĞLIK BAKANLIĞI YÖNERGELER VE GENELGELER KİTABI|^\d{1,4}$|^[ivxlc]{1,6}$)", re.I)
 MADDE = re.compile(r"^((?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)\s*\d+[/A-Za-z]*)\s*[-–—:]\s*")
@@ -150,7 +150,10 @@ class PdfOnbellek:
                 continue
             sonuc.append(Satir(metin=metin, x0=g[0]["x0"] * w, x1=g[-1]["x1"] * w, top=top, boyut=10,
                                dipnot=False, sayfa_genislik=w, sol=0))
-        sol = min((s.x0 for s in sonuc), default=70)
+        # OCR'da sol kenar: en sık görülen satır başı (başlıklar ve girintiler hariç)
+        sayac = Counter(round(s.x0 / 4) * 4 for s in sonuc)
+        sol = sayac.most_common(1)[0][0] if sayac else 70
+        sol = min([s.x0 for s in sonuc if abs(s.x0 - sol) <= 6] or [sol])
         for s in sonuc:
             s.sol = sol
         return sonuc
@@ -283,6 +286,9 @@ def main():
                 hatalar.append(f"{d}: yinelenen id {sid}")
                 continue
             goruldu.add(sid)
+            hedef = KOK / "icerik" / seg["tur"] / f"{sid}.md"
+            if hedef.exists() and "\nduzeltildi: true\n" in hedef.read_text(encoding="utf-8")[:3000]:
+                continue  # ajan/insan tarafından düzeltilmiş metni ezme
             pdfler.ocr_kullanildi = False
             govde, dipnot = segment_satirlari(seg, pdfler)
             if not any(govde):

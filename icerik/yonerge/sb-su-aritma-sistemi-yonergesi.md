@@ -18,31 +18,9 @@ KONU : Su Arıtma Sistemi Yönergesi
 
 ### BAKANLIK MAKAMINA
 
-08/05/2005 tarihli ve 25809 sayılı Resmi Gazete'de yayımlanan Diyaliz Merkezleri
+08/05/2005 tarihli ve 25809 sayılı Resmi Gazete'de yayımlanan Diyaliz Merkezleri Hakkında Yönetmelik kapsamında açılan hemodiyaliz merkezlerinde diyaliz işleminde gerekli olan hemodiyaliz çözeltisinin dilüsyonunda kullanılan suyun üretimi için su sisteminin kurulması, bakımı, takıbi ve kontrolünü amaçlayan, daha kaliteli hemodiyaliz tedavisinin sunulmasına yönelik olarak Refik Saydam Hıfzısıhha Merkezi Başkanlığı ve Diyaliz Bilimsel Danışma Kurulunun da görüşleri alınarak hazırlanan "Su Arıtma Sistemi Yönergesi" 13/5/2008 tarih ve 17419 sayılı Makam Onayı ile yürürlüğe girmiştir. Ancak anılan Yönergenin uygulanmasında yaşanan sorunların çözümüne yönelik anılan Yönergede değişıklik yapılması gerekli görülmüştür.
 
-Hakkında Yönetmelik kapsamında açılan hemodiyaliz merkezlerinde diyaliz işleminde
-
-gerekli olan hemodiyaliz çözeltisinin dilüsyonunda kullanılan suyun üretimi için su sisteminin
-
-kurulması, bakımı, takıbi ve kontrolünü amaçlayan, daha kaliteli hemodiyaliz tedavisinin
-
-sunulmasına yönelik olarak Refik Saydam Hıfzısıhha Merkezi Başkanlığı ve Diyaliz Bilimsel
-
-Danışma Kurulunun da görüşleri alınarak hazırlanan "Su Arıtma Sistemi Yönergesi"
-
-13/5/2008 tarih ve 17419 sayılı Makam Onayı ile yürürlüğe girmiştir. Ancak anılan
-
-Yönergenin uygulanmasında yaşanan sorunların çözümüne yönelik anılan Yönergede
-
-değişıklik yapılması gerekli görülmüştür.
-
-Makamınızca uygun görülmesi halinde, 13/5/2008 tarihli ve 17419 sayılıSu Arıtma
-
-Sistemi Yönergesi*"nin yürürlükten kaldırılmasını ve ekteki Su Arıtma Sistemi
-
-Yönergesi"nin yürürlüğe konulmasını ve ilgili iş ve işlemlerin Tedavi Hizmetleri Genel
-
-Müdürlüğü'nce yürütülmesi hususunu;
+Makamınızca uygun görülmesi halinde, 13/5/2008 tarihli ve 17419 sayılıSu Arıtma Sistemi Yönergesi*"nin yürürlükten kaldırılmasını ve ekteki Su Arıtma Sistemi Yönergesi"nin yürürlüğe konulmasını ve ilgili iş ve işlemlerin Tedavi Hizmetleri Genel Müdürlüğü'nce yürütülmesi hususunu;
 
 Tensiplerinize arz ederim.
 

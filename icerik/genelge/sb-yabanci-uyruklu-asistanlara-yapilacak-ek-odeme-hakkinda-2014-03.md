@@ -8,6 +8,41 @@ konu: "Yabancı Uyruklu Asistanlara Yapılacak Ek Ödeme Hakkında Genelge (2014
 etiketler: ["kamu hastaneleri", "tıpta uzmanlık", "asistan hekim"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 872-873"
 durum: "yürürlükte"
+ocr: true
 ---
 
 7.3.10. Yabancı Uyruklu Asistanlara Yapılacak Ek Ödeme Hakkında Genelge (2014/03)
+
+### SAĞLIK BAKANLIĞI TÜRKİYE KAMU HASTANELERİ KURUMU İzleme, Ölçme ve Değerlendirme Başkan Yardımcılığı
+
+Sayı : 49022165-010.99 / Konu : Yabancı Uyruklu Asistanlara
+
+Yapılacak Odeme Hakkında
+
+6514 sayılı Kanun 18/01/2014 tarihinden itibaren geçerli olmak üzere yürürluge girdiğinden, yabancı uyruklu asistanların Ocak 2014 dönemine ilişkin ödemelerinin hesaplanmasında 01/01/2014-17/01/2014 tarihlerine ilişkin olarak 209 sayılı Kanunun 3 üncü maddesinin üçüncü fikrasının (1) bendi kapsamında işlem tesis edilmesi, 18/01/2014-31/12/2014 tarihlerine ilişkin olarak ise 1219 sayılı Kanunun ek 14 üncü maddesi kapsamında işlem tesis edilmesi gerekmektedir. Ornek Hesaplama;
+
+209 sayılı Kanun Uyarınca 1219 sayılı Kanun Uyanınca
+
+01/01/2014-17/01/2014 18/01/2014-31/01/2014 2014 Yılı Ocak ayına ilişkin
+
+Unvani tarihleri arasına ilişkin tarihleri arasına ilişkin yapılacak toplam ödeme
+
+yapılacak ödeme yapılacak ödeme (NET)
+
+### (NET) (NET)
+
+Yabano Uyruklu
+
+Asistan 230,98 TL 448,62 TL. 679,60
+
+Netice itibari ile Kurumumuza bağh eğitim ve araştırma hastanelerınde görev yapan yabancı uyruklu asistanlara 18/01/2014 tarihinden itibaren 1219 sayılı Kanunun ek 14 Uncü maddesi uyarınca ödeme yapılması gerekmektedir.
+
+Bilgilerinizi ve konunun Birliginize bağlı tüm üçüncti basamak saglık tesislerine duyurulması hususunda gereğini ônemle rica ederim.
+
+Prof. Dr. Ali Ihsan DOKUCU
+
+Kurum Başkamı
+
+### DAGITIM:
+
+88 Kamu Hastaneleri Birliğine

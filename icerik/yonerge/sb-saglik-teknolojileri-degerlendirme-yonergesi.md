@@ -20,9 +20,7 @@ ocr: true
 
 **MADDE 1 –** (1) Bu Yönergenin amacı sağlık teknolojisi değerlendirme sürecini ve basamaklarını tanımlamaktır.
 
-(2) Bu Yönerge Sağlık Bakanlığı bünyesindeki sağlık teknolojisi değerlendirme iş ve işlemlerini kapsar.
-
-#### Dayanak
+(2) Bu Yönerge Sağlık Bakanlığı bünyesindeki sağlık teknolojisi değerlendirme iş ve işlemlerini kapsar. Dayanak
 
 **MADDE 2 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddesine dayanılarak hazırlanmıştır.
 
@@ -54,9 +52,7 @@ i) PICO (Population, Intervention, Comparator, Outcome): Çalışmanın yapıld�
 
 j) Sağlık teknolojisi: Sağlığın korunması ve geliştirilmesi, hastalıkların önlenmesi, teşhisi, tedavisi ve rehabilitasyonu amacıyla kullanılan, başta ilaçlar, tıbbi cihazlar, cerrahi yöntemler ve sağlık sistemleri olmak üzere her türlü uygulamayı,
 
-k) Sağlık teknolojisi değerlendirme (STD): Sağlık teknolojisinin genel özellikleri, güvenliği, etkinliği ve etkililiği, ekonomik yönleri ve maliyeti, kurumsal işleyiş yönleri ile sosyal, etik ve yasal yönler açısından sistematik olarak incelenmesi ve yorumlanmasını,
-
-I) Tam raporlama: STD tanımındaki tüm unsurları içeren ve dokuz ay ila yirmi dört ay arasında tamamlanması planlanan çalışmayı,
+k) Sağlık teknolojisi değerlendirme (STD): Sağlık teknolojisinin genel özellikleri, güvenliği, etkinliği ve etkililiği, ekonomik yönleri ve maliyeti, kurumsal işleyiş yönleri ile sosyal, etik ve yasal yönler açısından sistematik olarak incelenmesi ve yorumlanmasını, I) Tam raporlama: STD tanımındaki tüm unsurları içeren ve dokuz ay ila yirmi dört ay arasında tamamlanması planlanan çalışmayı,
 
 m) Uyarlama çalışması: Uluslararası veya diğer ulusal STD kuruluşları tarafından yayımlanmış sağlık teknolojisi değerlendirme raporlarının Türkçeye çevrilmesi ve uyarlanmasın, ifade eder.
 
@@ -66,9 +62,7 @@ m) Uyarlama çalışması: Uluslararası veya diğer ulusal STD kuruluşları ta
 
 **MADDE 4 –** (1) Sağlık teknolojisi değerlendirme programına alınacak konular için gerçek ve tüzel kişiler Genel Müdürlüğe öneride bulunabilir.
 
-(2) Öneri, Ek-I'de yer alan formun doldurulması ve Genel Müdürlüğe gönderilmesi ile yapılır. Usulüne uygun yapılmayan başvurular dikkate alınmaz.
-
-#### Konu seçimi komisyonu
+(2) Öneri, Ek-I'de yer alan formun doldurulması ve Genel Müdürlüğe gönderilmesi ile yapılır. Usulüne uygun yapılmayan başvurular dikkate alınmaz. Konu seçimi komisyonu
 
 **MADDE 5 –** (1) Konu Seçimi Komisyonu, Genel Müdürün teklifi ve ilgili Bakan Yardımcısının oluru ile kurulur. Sağlık teknolojisi değerlendirme çalışmasına başlanılacak konuların seçimi Komisyon kararı ile yapıhır.
 
@@ -120,9 +114,7 @@ j) Tıbbi cihaz üretimi ile ilgili ulusal düzeyde faaliyet gösteren sivil top
 
 (12) Alınan kararlar toplantı bitiminde; gerekçeler, şerhler ve diğer açıklamalar toplantı bitiminden itibaren beş iş günü içinde tutanak haline getirilerek imzalanır.
 
-(13) Komisyonun sekretaryası, Daire Başkanlığı tarafindan yürütülür.
-
-#### Konu seçimi
+#### (13) Komisyonun sekretaryası, Daire Başkanlığı tarafindan yürütülür. Konu seçimi
 
 **MADDE 6 –** (1) Çalışılacak konuların seçiminde, aşağıdaki hususlar dikkate alınır:
 
@@ -138,17 +130,13 @@ c) Sağlık teknolojisi ile ilgili sosyal ve etik yönleri de içeren kamuoyu il
 
 (3) Sağlık teknolojisi ile ilişkili hastalık yükü ve bütçe etkisinin fazla olduğu, kamuoyunun ilgisinin yoğunlaştığı ve çalışmanın sonuçlandırılabilmesi için kalifiye işgücü ile veri kaynaklarının mevcut olduğu konulara öncelik verilir.
 
-(4) Usulüne uygun olarak yapılmış konu önerilerinin tümü komisyon tarafindan değerlendirmeye alınır ve Komisyon kararları Genel Müdürlük internet sitesinde gerekçeleriyle birlikte yayımlanır.
-
-#### Re'sen çalışma
+(4) Usulüne uygun olarak yapılmış konu önerilerinin tümü komisyon tarafindan değerlendirmeye alınır ve Komisyon kararları Genel Müdürlük internet sitesinde gerekçeleriyle birlikte yayımlanır. Re'sen çalışma
 
 **MADDE 7 –** (1) Komisyon tarafından seçilen konuların dışında, Genel Müdürün onayı ile Daire Başkanlığı tarafindan re'sen sağlık teknolojisi değerlendirme çalışması yürütülebilir.
 
 ## ÜÇÜNCÜ BÖLÜM Sağlık Teknolojisi Değerlendirme Proje Süreci
 
-**MADDE 8 –** (1) Proje ekibi, Daire Başkanlığı çalışanlarından en az birinin katılımı ve koordinasyonunda; ihtiyaç halinde üniversiteler, eğitim ve araştırma hastaneleri, ilgili kamu kuruluşları ve sivil toplum kuruluşları ile konu hakkında çalışan uzman kişilerin katılımı ile en az iki kişiden oluşur.
-
-#### Proje tasarlanması ve yürütülmesi
+**MADDE 8 –** (1) Proje ekibi, Daire Başkanlığı çalışanlarından en az birinin katılımı ve koordinasyonunda; ihtiyaç halinde üniversiteler, eğitim ve araştırma hastaneleri, ilgili kamu kuruluşları ve sivil toplum kuruluşları ile konu hakkında çalışan uzman kişilerin katılımı ile en az iki kişiden oluşur. Proje tasarlanması ve yürütülmesi
 
 **MADDE 9 –** (1) Komisyon tarafindan belirlenen STD konusu ile Daire Başkanlığ! tarafindan resen başlatılacak sağlık teknolojisi değerlendirme çalışmalarında sırasıyla aşağıdaki işlemler takip edilir;
 
@@ -202,16 +190,10 @@ g) Literatür taramasında, konunun içeriğine ve kanıtların önemine göre T
 
 **MADDE 13 –** (1) Genel Müdürlük, STD'nin raporlama yöntemi ile ilgili olarak çalışmaların nasıl yürütüleceği konusunda ayrıca düzenleme yapabilir veya bunlara yönelik kılavuzlar yayımlayabilir.
 
-(2) STD çalışmalarında kullanılacak Yönerge ekindeki formlar Genel Müdürlük internet sitesinde yayımlanır ve ihtiyaç duyulduğunda güncellenir.
+(2) STD çalışmalarında kullanılacak Yönerge ekindeki formlar Genel Müdürlük internet sitesinde yayımlanır ve ihtiyaç duyulduğunda güncellenir. Yürürlükten kaldırılan yönerge
 
-#### Yürürlükten kaldırılan yönerge
+**MADDE 14 –** (1) Bu Yönerge ile 08.02.2013 tarihli ve 995138 sayılı Bakanlık Makam Oluru ile yürürlüğe giren Sağlık Teknolojisi Değerlendirme Yönergesi yürürlükten kaldırılmıştır. Yürürlük
 
-**MADDE 14 –** (1) Bu Yönerge ile 08.02.2013 tarihli ve 995138 sayılı Bakanlık Makam Oluru ile yürürlüğe giren Sağlık Teknolojisi Değerlendirme Yönergesi yürürlükten kaldırılmıştır.
-
-#### Yürürlük
-
-**MADDE 15 –** (1) Bu Yönerge, Bakanlık Makam Oluru tarihinde yürürlüğe girer.
-
-#### Yürütme
+**MADDE 15 –** (1) Bu Yönerge, Bakanlık Makam Oluru tarihinde yürürlüğe girer. Yürütme
 
 **MADDE 16 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

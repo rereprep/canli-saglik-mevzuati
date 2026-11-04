@@ -130,9 +130,7 @@ g) Bu Yönerge kapsamında Bakanlıkça verilecek diğer görevleri yerine getir
 
 Sosyal Hizmet Birimlerinin Teşkili, Çalışma Usul ve Esasları ile Birim Çalışanlarının
 
-Görev ve Sorumlulukları
-
-#### Sosyal hizmet birimi
+#### Görev ve Sorumlulukları Sosyal hizmet birimi
 
 **Madde 9 –** (1) Bünyesinde sosyal çalışmacı olan hastanelerde bu Yönergenin yürürlüğe girdi tarihten itibaren en geç bir ay içinde; bünyesinde sosyal çalışmacı bulunmayan hastanelerde i: sosyal çalışmacının göreve başladığı tarihten itibaren en geç bir ay içinde sosyal hizmet birir kurulur. Sosyal hizmet birimi, başhekime baglı olarak faaliyet gösterir.
 
@@ -248,9 +246,7 @@ g) Çalışmalanndan birim sorumlusuna karşı sorumludur.
 
 h) Tek sosyal çalışmacı olması halinde birim sorumlusunun görevlerini yerine getirir.
 
-1) Birim sorumlusunca verilen diğer görevleri yerine getirir.
-
-#### Birim sekreterinin görev ve sorumlulukları
+#### 1) Birim sorumlusunca verilen diğer görevleri yerine getirir. Birim sekreterinin görev ve sorumlulukları
 
 **Madde 13 –** (1) Birimin sekretarya işlerini yürütmek üzere bilgisayar kullanabilen, birimin yazışma ve dosyalama işlerini yapabilecek nitelikte personel görevlendirilir.
 
@@ -268,9 +264,7 @@ d) Sosyal çalışmacının yokluğunda, hasta veya yakınlarını karşılar.
 
 e) Birimin yaptığı çalışmaları Sosyal Hizmet Birimi Faaliyet Formu ile her yılın Ocak ve Temmuz aylarının ilk haftasının sonuna kadar hazırlayarak Ruh Sağlığı ve Sosyal Hastalıklar Şubesine resmi yazı ile ve e-posta olarak iletir.
 
-f) Birim sorumlusunun vereceği diğer görevleri yerine getirir.
-
-#### Kalite ve performans değerlendirmesi
+#### f) Birim sorumlusunun vereceği diğer görevleri yerine getirir. Kalite ve performans değerlendirmesi
 
 **Madde 14 –** (1) Bünyesinde sosyal hizmet birimi bulunan hastanelerin kurum performansı ile bu birimde çalışan personelin performans değerleri Bakanlıkça belirlenir.
 
@@ -282,12 +276,8 @@ f) Birim sorumlusunun vereceği diğer görevleri yerine getirir.
 
 (2) Yönergeye uygun olmayan uygulamalarda bulunan yönetici ve çalışanlar hakkında ilgili mevzuat gereğince idari ve cezai işlem yapılır.
 
-(3) Hastanede ubbi sosyal hizmet uygulamalarının gereğince yürütülmesinden Başhekimlik sorumludur.
+#### (3) Hastanede ubbi sosyal hizmet uygulamalarının gereğince yürütülmesinden Başhekimlik sorumludur. Yürürlük
 
-#### Yürürlük
-
-**Madde 16 –** (1) Bu Yönerge Bakan onayını takiben yürürlüğe girer.
-
-#### Yürütme
+**Madde 16 –** (1) Bu Yönerge Bakan onayını takiben yürürlüğe girer. Yürütme
 
 **Madde 17 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

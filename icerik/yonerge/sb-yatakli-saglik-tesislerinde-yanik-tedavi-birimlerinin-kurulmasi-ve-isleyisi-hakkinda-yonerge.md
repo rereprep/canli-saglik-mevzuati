@@ -198,9 +198,7 @@ d) Yanık tedavi birimine ait ölçeklendirilmiş kroki,
 
 e) Araç-gereç, tibbi cihaz ve donanım listesi.
 
-(2) Başvuru dosyasındakı belgelerin baştabıp ve müdürlükçe onaylanmış olması zorunludur.
-
-#### Faaliyet izni verilmesi
+(2) Başvuru dosyasındakı belgelerin baştabıp ve müdürlükçe onaylanmış olması zorunludur. Faaliyet izni verilmesi
 
 **MADDE 16 –** (1) Başvurular genel müdürlükçe dosya bazında değerlendirilir. Noksan belgesi bulunmayan başvuru dosyası komisyona havale edilir. Komisyon tarafından incelenen dosya uygun bulunduğu takdirde bir tutanakla karara bağlanır. Kararın genel müdürlükçe de uygun görülmesı halinde, yanık tedavi bırimine Bakanlık onayı ile faaliyet ızni verilir. Komisyon gerektiğinde yerinde inceleme ve değerlendirme yapabilir.
 
@@ -210,17 +208,9 @@ e) Araç-gereç, tibbi cihaz ve donanım listesi.
 
 **MADDE 17 –** (1) Yanık tedavi birimlerinin işleyişi ve yanık hizmetlerinin bu Yönerge hükümlerine uygun olarak etkili bir şekilde yürütülmesinden müdürlükler, baştabipler ve yanık tedavisi birim sorumluları birinci derecede ve müteselsilen sorumludur.
 
-(2) Müdürlükler işleyiş ile alakalı yılda en az iki kez periyodik olarak denetim yapar, sonuçları değerlendirir ve tespit edilen sorun ve aksaklıklarla ilgili gerekli tedbirleri ahır. Lüzumu halinde denetim sonuçlarını raporlar ve Bakanlığa bildirir.
+(2) Müdürlükler işleyiş ile alakalı yılda en az iki kez periyodik olarak denetim yapar, sonuçları değerlendirir ve tespit edilen sorun ve aksaklıklarla ilgili gerekli tedbirleri ahır. Lüzumu halinde denetim sonuçlarını raporlar ve Bakanlığa bildirir. Hüküm bulunmayan haller
 
-#### Hüküm bulunmayan haller
-
-**MADDE 18 –** (1) Bu Yönergede hüküm bulunmayan hallerde 13/1/1983 tarih ve 17927 sayılı Resmi Gazetede yayımlanan Yataklı Tedavi Kurumları İşletme Yönetmeliği
-
-Mevcut yanık tedavi birimlerinin durumu ve uyumu
-
-GEÇICI MADDE 1- (1) Bu Yönergenin yürürlük tarihinden önce taalıyette olan yanık tedavi birimleri faaliyet izni için en geç 3 (üç) ay içerisinde Bakanlığa müracaat etmek zorundadır. Bu birimler, personel, araç-gereç, tibbi cihaz ve donanımlarına ilişkin şartlarım en geç 3 ay içerisinde, fiziki şartlarını ise en geç 5 yıl içerisinde, Ek-l'deki asgari standartlara uygun hale getirmekle yükümlüdür.
-
-#### 112 KKM entegrasyon programına dahil olma
+**MADDE 18 –** (1) Bu Yönergede hüküm bulunmayan hallerde 13/1/1983 tarih ve 17927 sayılı Resmi Gazetede yayımlanan Yataklı Tedavi Kurumları İşletme Yönetmeliği Mevcut yanık tedavi birimlerinin durumu ve uyumu GEÇICI MADDE 1- (1) Bu Yönergenin yürürlük tarihinden önce taalıyette olan yanık tedavi birimleri faaliyet izni için en geç 3 (üç) ay içerisinde Bakanlığa müracaat etmek zorundadır. Bu birimler, personel, araç-gereç, tibbi cihaz ve donanımlarına ilişkin şartlarım en geç 3 ay içerisinde, fiziki şartlarını ise en geç 5 yıl içerisinde, Ek-l'deki asgari standartlara uygun hale getirmekle yükümlüdür. 112 KKM entegrasyon programına dahil olma
 
 **GEÇİCİ MADDE 2 –** (1) Yanık tedavi birimleri, bu Yönergenin yürürlüğe girdiği tarihten sonraki 24 saat içerisinde 112 KKM'de bulunan hastane entegrasyon programına dahil olmak zorundadır.
 

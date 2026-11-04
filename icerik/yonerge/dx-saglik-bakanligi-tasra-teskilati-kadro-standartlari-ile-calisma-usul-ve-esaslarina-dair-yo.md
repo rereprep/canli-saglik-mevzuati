@@ -1,6 +1,6 @@
 ---
 id: "dx-saglik-bakanligi-tasra-teskilati-kadro-standartlari-ile-calisma-usul-ve-esaslarina-dair-yo"
-baslik: "Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları İle Çalışma Usul ve Esaslarına Dair Yönerge"
+baslik: "Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları İle Çalışma Usul ve Esaslarına Dair Yönerge"
 tur: "yonerge"
 tarih: "2017-11-07"
 sayi: "51275"

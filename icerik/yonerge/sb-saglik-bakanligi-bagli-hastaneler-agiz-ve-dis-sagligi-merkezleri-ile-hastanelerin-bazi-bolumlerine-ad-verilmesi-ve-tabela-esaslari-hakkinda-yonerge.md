@@ -78,9 +78,7 @@ e) Ek hizmet binası, semt polikliniği, merkez ve bunlara benzer bölüm olma d
 
 (5) Bu Yönerge kapsamında adlandırılan sağlık tesislerinin her türlü yazılı ve elektronik materyalinde bu adları kullanmaları zorunludur. Birlikte kullanım protokolü kapsamında sağlık hizmeti sunulan sağlık tesislerinin web ana sayfalarında ve/veya web sayfasının kliniklerin yer aldığı bölümlerinde, birlikte kullanım veya işbirliği protokolü yapılan üniversiteler ile birlikte kullanım veya işbirliği kapsamında hizmet verildiğine dair ifadelere yer verilebilir.
 
-(6) Ilçe adı aynı olan hastanelerin adlarına il adının da eklenmesi zorunludur.
-
-#### Genel ad verilmesi
+#### (6) Ilçe adı aynı olan hastanelerin adlarına il adının da eklenmesi zorunludur. Genel ad verilmesi
 
 **MADDE 5 –** (1) Bakanlığa bağlı hastanelerin kurumsal kimliğini belirleyen ve ad verilmesinde kullanılan unsurlar aşağıdaki kurallara ve sıralamaya uygun olarak yapılır.
 
@@ -90,11 +88,7 @@ b) Sağlık Bakanlığı ibaresi, ilk harfleri büyük sonraki harfleri küçük
 
 c) Hastanenin bulunduğu il, ilçe ve hastaneye ait özel ad aynı anda kullanılmaz. Il merkezinde bulunan sağlık tesislerinde ilin adı, ilçede bulunan sağlık tesislerinde ilçenin adı, hastaneye ait tanımlanmış özel ad var ise özel ad belirtilir.
 
-ç) Sağlık tesisinin türü eklenir.
-
-T.C. Sağlık Bakanlığı Ankara Şehir Hastanesi, T.C. Sağlık Bakanlığı Ankara Eğitim ve Araştırma Hastanesi, T.C. Sağlık Bakanlığı Afyonkarahisar Devlet Hastanesi, T.C. Sağlık Bakanlığı Oltu Devlet Hastanesi, T.C. Sağlık Bakanlığı Keçiören Osmanlı Ağız ve Diş Sağlığı Merkezi adları, örnek olarak verilebilir.
-
-#### Özel ad verilmesi
+ç) Sağlık tesisinin türü eklenir. T.C. Sağlık Bakanlığı Ankara Şehir Hastanesi, T.C. Sağlık Bakanlığı Ankara Eğitim ve Araştırma Hastanesi, T.C. Sağlık Bakanlığı Afyonkarahisar Devlet Hastanesi, T.C. Sağlık Bakanlığı Oltu Devlet Hastanesi, T.C. Sağlık Bakanlığı Keçiören Osmanlı Ağız ve Diş Sağlığı Merkezi adları, örnek olarak verilebilir. Özel ad verilmesi
 
 **MADDE 6 –** (1) Binası hayırsever vatandaşlar tarafindan inşa ettirilen sağlık tesisine, hayırseverin isteği doğrultusunda hayırseverin adı veya hayırseverin teklif ettiği ad verilebilir.
 

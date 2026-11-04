@@ -8,6 +8,15 @@ konu: "Kamu laboratuvarlarından araştırma ve teşhis amaçlı biyolojik mater
 etiketler: ["biyolojik materyal", "protokol", "laboratuvar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 289-290"
 durum: "yürürlükte"
+ocr: true
 ---
 
 2.3.60. Kamu Kurum ve Kuruluşları Labaratuvarlarından Biyolojik Materyallerin Temini Protokolü Hakkındaki Usul ve Esasları Belirten Genelge (2013/19)
+
+### SAGLIK BAKANLIĞI
+
+Sağki: Hizmetleri Genel Müdürlugu TC. Copl BaleniO Sayı : 95966346 -
+
+### DAĞLIM:
+
+Gereği: 81 f1 Valiligine (1 Saghk Mudurlugo) 81 11 Halk Sağlığı Müdurogüne TKHK Taşra Teşkilatı (81 II Kamu Hastaneleri)

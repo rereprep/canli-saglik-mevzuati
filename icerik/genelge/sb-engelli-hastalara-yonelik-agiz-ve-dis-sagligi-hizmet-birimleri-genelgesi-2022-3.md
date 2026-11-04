@@ -27,196 +27,82 @@ Prof. Dr. Sabalattin AYDIN
 
 Bakan a.
 
-Bakan Yardımcısı Ek: Usul ve Esaslar (3 Sayfa) Dağıtım: 81 Il Valiliğine (Il Sağhk Müdürlüğu) Kamu Hastaneleri Genel Müdürlüğüne Sağhk Yatırımları Genel Müdürlüğüne
-
-Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
+Bakan Yardımcısı Ek: Usul ve Esaslar (3 Sayfa) Dağıtım: 81 Il Valiliğine (Il Sağhk Müdürlüğu) Kamu Hastaneleri Genel Müdürlüğüne Sağhk Yatırımları Genel Müdürlüğüne Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
 
 1) Engelli Ağız ve Diş Sağlığı Hizmet Birimleri:
 
-a) Engelli Polikliniği; Bakanlığımıza bağlı ağız ve diş sağlığı hizmet birimlerinde, ayaktan
+a) Engelli Polikliniği; Bakanlığımıza bağlı ağız ve diş sağlığı hizmet birimlerinde, ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin yapıldığı birimdir.
 
-başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin yapıldığı
+b) Engelli Ünitesi; Bakanlığımıza bağlı ağız ve diş sağlığı hizmet birimlerinde, engelli polikliniginde belirtilen hizmetlere ilave olarak genel anestezi altında günübirlik dental işlemlerin yapıldığı birimdir.
 
-birimdir.
-
-b) Engelli Ünitesi; Bakanlığımıza bağlı ağız ve diş sağlığı hizmet birimlerinde, engelli
-
-polikliniginde belirtilen hizmetlere ilave olarak genel anestezi altında günübirlik dental
-
-işlemlerin yapıldığı birimdir.
-
-e) Engelli Diş Tedavi Merkezi; Bakanlığımız planlamaları kapsamında uygun görülen yatakh
-
-sağlık tesisleri bünyesinde, engelli polikliniği ve ünitesinde belirtilen hizmetlere ilave
-
-olarak yatış gerektiren dental işlemlerin yapıldığı birimdir.
+e) Engelli Diş Tedavi Merkezi; Bakanlığımız planlamaları kapsamında uygun görülen yatakh sağlık tesisleri bünyesinde, engelli polikliniği ve ünitesinde belirtilen hizmetlere ilave olarak yatış gerektiren dental işlemlerin yapıldığı birimdir.
 
 2) Engelli Polikliniğinin Fiziki Şartları:
 
 a) Poliklinik; muayene odası ve bekleme salonundan oluşur.
 
-b) Tercihen hastane girişine yakın bir konumda engelli erişiminin kolay sağlanabileceği ve
+b) Tercihen hastane girişine yakın bir konumda engelli erişiminin kolay sağlanabileceği ve diğer birimlerden izole edilmiş bir alanda konumlandırılmalıdır.
 
-diğer birimlerden izole edilmiş bir alanda konumlandırılmalıdır.
-
-c) Muayene dalanında en fazla bir adet diş üniti bulunmalı ve ilgili mevzuatındaki tekli
-
-poliklinik odası standartlarını sağlamalıdır.
+c) Muayene dalanında en fazla bir adet diş üniti bulunmalı ve ilgili mevzuatındaki tekli poliklinik odası standartlarını sağlamalıdır.
 
 d) Hasta kabul, kayıt ve sekretarya işlemlerinin yürütüldüğü bir alan oluşturulmalıdır.
 
-e) Bekleme salonu, muayene odalarına bitişik bir alanda oluşturulmalı, diğer birimlere ait
-
-bekleme salonlarından izole olmahdır.
+e) Bekleme salonu, muayene odalarına bitişik bir alanda oluşturulmalı, diğer birimlere ait bekleme salonlarından izole olmahdır.
 
 3) Engelli Ünitesi ve Diş Tedavi Merkezinin Fiziki Şartları:
 
-a) Ünite ve merkez; poliklinik, ameliyathane ve yataklı servis olmak üzere üç ana bölümden
+a) Ünite ve merkez; poliklinik, ameliyathane ve yataklı servis olmak üzere üç ana bölümden oluşur.
 
-oluşur.
+b) Poliklinik; en az bir adet muayene odası ve bekleme salonundan oluşur ve yukarıda belirtilen polikliniğin fiziki şartlarmı taşır.
 
-b) Poliklinik; en az bir adet muayene odası ve bekleme salonundan oluşur ve yukarıda
+e) Ameliyathane: genel anestezi altında dental müdahalelerin yapılabildigi, ilgili mevzuatına uygun şartları sağlayan ameliyathane bulunur.
 
-belirtilen polikliniğin fiziki şartlarmı taşır.
+d) Yataklı servis; ameliyat sonrası engelli hastaların tıbbi bakım, tedavi ve takiplerini sağlamak üzere en az 4 (dört) adet gözlem yatağı ile kurulur.
 
-e) Ameliyathane: genel anestezi altında dental müdahalelerin yapılabildigi, ilgili mevzuatına
-
-uygun şartları sağlayan ameliyathane bulunur.
-
-d) Yataklı servis; ameliyat sonrası engelli hastaların tıbbi bakım, tedavi ve takiplerini
-
-sağlamak üzere en az 4 (dört) adet gözlem yatağı ile kurulur.
-
-e) Tibbi alanlara ilave olarak, hekimler için dinlenme odası, personel soyunma-giyinme, duş
-
-ve tuvalet ihtiyaçları için yeterli alan ayrılır. Kadın ve erkek hastalar ve hasta yakınlanı için
-
-engellilerin de yararlanacağı şekilde düzenlenmiş tuvalet ve lavabo bulunur.
+e) Tibbi alanlara ilave olarak, hekimler için dinlenme odası, personel soyunma-giyinme, duş ve tuvalet ihtiyaçları için yeterli alan ayrılır. Kadın ve erkek hastalar ve hasta yakınlanı için engellilerin de yararlanacağı şekilde düzenlenmiş tuvalet ve lavabo bulunur.
 
 4) Personel Standard::
 
-a) Engelli hastalara yönelik ağız ve diş sağlığı birimlerinde görev yapacak hekim ve diğer
-
-personelin görevlendirmesi mevzuatına uygun olarak idare tarafindan yapılır.
+a) Engelli hastalara yönelik ağız ve diş sağlığı birimlerinde görev yapacak hekim ve diğer personelin görevlendirmesi mevzuatına uygun olarak idare tarafindan yapılır.
 
 b) Idare tarafindan bir hekim veya diş hekimi sorumlu hekim olarak birimde görevlendirilir.
 
-e) Birimdeki hizmetler; sorumlu hekimin denetim ve sorumluluğunda, diş hekimi, hemşire,
+e) Birimdeki hizmetler; sorumlu hekimin denetim ve sorumluluğunda, diş hekimi, hemşire, tıbbi sekreter, idari ve teknik personel, temizlik personeli ile diğer unvanlarda personel ile yürütülür.
 
-tıbbi sekreter, idari ve teknik personel, temizlik personeli ile diğer unvanlarda personel ile
+d) Ünitenin açılacağı sağlık tesisinde genel anestezi işlemlerinin yapılabilmesi için ilgili personelin (anesteziyoloji ve reanimasyon uzmanı, yardımcı sağlık personeli vb.) görevlendirilmesi Il Sağlık Müdürlüğünce sağlanır.
 
-yürütülür.
+e) Merkezin açılacağı sağlık tesisinde konsültasyon ve genel anestezi işlemlerinin yapılabilmesi için en az birer kardiyoloji uzmanı, çocuk sağlığı ve hastalıkları uzmam, nöroloji uzmanı, anesteziyoloji ve reanimasyon uzmanı ve iç hastalıkları uzmanı bulunmalıdır.
 
-d) Ünitenin açılacağı sağlık tesisinde genel anestezi işlemlerinin yapılabilmesi için ilgili
+f) Merkezde yapılacak müdahalelerde yatış gerektiren hastaların takibi için idare tarafindan görevli branş hekimi belirlenir.
 
-personelin (anesteziyoloji ve reanimasyon uzmanı, yardımcı sağlık personeli vb.)
+g) Birimde görevli sorumlu hekim, bu birimdeki görevinin yamı sıra poliklinik, ameliyat ve nöbet hizmetlerini de yürütebilir. Diğer sağlık personeli ihtiyaca göre idare tarafından kurumun diğer birimlerinde de çalıştırlabilir ve nöbet hizmetlerine dåhil edilebilir.
 
-görevlendirilmesi Il Sağlık Müdürlüğünce sağlanır.
-
-e) Merkezin açılacağı sağlık tesisinde konsültasyon ve genel anestezi işlemlerinin
-
-yapılabilmesi için en az birer kardiyoloji uzmanı, çocuk sağlığı ve hastalıkları uzmam,
-
-nöroloji uzmanı, anesteziyoloji ve reanimasyon uzmanı ve iç hastalıkları uzmanı
-
-bulunmalıdır.
-
-f) Merkezde yapılacak müdahalelerde yatış gerektiren hastaların takibi için idare tarafindan
-
-görevli branş hekimi belirlenir.
-
-g) Birimde görevli sorumlu hekim, bu birimdeki görevinin yamı sıra poliklinik, ameliyat ve
-
-nöbet hizmetlerini de yürütebilir. Diğer sağlık personeli ihtiyaca göre idare tarafından
-
-kurumun diğer birimlerinde de çalıştırlabilir ve nöbet hizmetlerine dåhil edilebilir.
-
-h) Çalışma düzeni ve saatleri ilgili mevzuatı çerçevesinde sorumlu hekimin teklifi ve idarenin
-
-onayı ile belirlenir.
+h) Çalışma düzeni ve saatleri ilgili mevzuatı çerçevesinde sorumlu hekimin teklifi ve idarenin onayı ile belirlenir.
 
 5) Çalişma Esasları:
 
-a) Sağhk tesisine gelmesi zor olan hastaların geliş sayısını azaltabilmek amacıyla; ihtiyaç
+a) Sağhk tesisine gelmesi zor olan hastaların geliş sayısını azaltabilmek amacıyla; ihtiyaç halinde hastanın durum değerlendirmesi ve tedavi planlamasını yapmak üzere evde sağlık hizmetleriyle iş birliği yapılarak hastanın yerinde muayenesi yapılmahıdır-
 
-halinde hastanın durum değerlendirmesi ve tedavi planlamasını yapmak üzere evde sağlık
+b) Hastanın sağlık kuruluşu içerisindeki tetkik, tedavi ve konsültasyon işlemlerinde veya iş birliği yapılan sağlık kuruluşuna sevki durumunda, hastaya refakat etmek üzere idare tarafindan bir yardımcı personel görevlendirilir.
 
-hizmetleriyle iş birliği yapılarak hastanın yerinde muayenesi yapılmahıdır-
+c) Yoğun bakım ihtiyacı olan hastaların idame tedavileri mümkünse aymı sağlık kuruluşu içerisinde, değilse en yakın sağlık kuruluşunda devam ettirilir.
 
-b) Hastanın sağlık kuruluşu içerisindeki tetkik, tedavi ve konsültasyon işlemlerinde veya iş
+d) Il sağlık müdürlüğü veya sağhk tesislerindeki evde sağlık hizmeti için tahsis edilmiş ulaşım ve nakil araçları, ihtiyaç duyulması halinde engelli hastalara yönelik ağız ve diş sağlığı birimleriyle birlikte ortak kullanılabilir.
 
-birliği yapılan sağlık kuruluşuna sevki durumunda, hastaya refakat etmek üzere idare
+e) Acil durumlarda hasta, sağlık kuruluşunun kendi ambulansı veya 112 acil sağlık hizmetleri ambulansı ile nakledilir.
 
-tarafindan bir yardımcı personel görevlendirilir.
+f) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin yapıldığı polikliniklerde, genel anestezi alunda yapılması planlanan dental işlemler için Il Sağlık Müdürlüğünce koordinasyon sağlanarak gerekli tahlil, tetkik, anestezi ve yatış hizmetlerini kapsayan kurumlar arası iş birliği protokolü düzenlenebilir.
 
-c) Yoğun bakım ihtiyacı olan hastaların idame tedavileri mümkünse aymı sağlık kuruluşu
+g) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel anestezi altında günübirlik dental işlemlerin yapıldığı ünitelerde, hastadan işlem öncesinde istenecek konsültasyon, tahlil ve tetkiklerin yapılması amacıyla II Sağlık Müdürlüğünce kurumlar arasında iş birliği ve koordinasyon sağlamır.
 
-içerisinde, değilse en yakın sağlık kuruluşunda devam ettirilir.
+h) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel anestezi altında günübirlik ve yatış gerektiren dental işlemlerin yapıldığı merkezlerde, günübirlik taburcu olabilecek işlemlerde, hastanın yatışı sorumlu hekim veya sorumlu hekimin belirleyeceği diş hekimi üzerine yapılır. Yatış gerektirecek işlemlerde idarenin uygun göreceği serviste (18 yaş altı hastanın yatışı tercihen çocuk sağlığı ve hastalıkları, 18 yaş üstü hastamın yahışı ise tercihen nöroloji ya da iç hastalıkları servisi) görevli branş hekimi üzerine yatış yapılır. Tedavi planı, ilgili anesteziyoloji ve reanimasyon uzmanı ve diş hekimi tarafından düzenlenir. Yatış yapılan servisteki görevli branş hekimi koordineli hir şekilde bu tedavi planını uygular.
 
-d) Il sağlık müdürlüğü veya sağhk tesislerindeki evde sağlık hizmeti için tahsis edilmiş ulaşım
+i) Merkezlerde, yatışi yapılan hastanın dental tedavisi ile ilgili gelişebilecek durumlarda, tedaviyi yapan diş hekimi icap nöbetçisi olarak belirlenir.
 
-ve nakil araçları, ihtiyaç duyulması halinde engelli hastalara yönelik ağız ve diş sağlığı
-
-birimleriyle birlikte ortak kullanılabilir.
-
-e) Acil durumlarda hasta, sağlık kuruluşunun kendi ambulansı veya 112 acil sağlık hizmetleri
-
-ambulansı ile nakledilir.
-
-f) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin
-
-yapıldığı polikliniklerde, genel anestezi alunda yapılması planlanan dental işlemler için Il
-
-Sağlık Müdürlüğünce koordinasyon sağlanarak gerekli tahlil, tetkik, anestezi ve yatış
-
-hizmetlerini kapsayan kurumlar arası iş birliği protokolü düzenlenebilir.
-
-g) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel
-
-anestezi altında günübirlik dental işlemlerin yapıldığı ünitelerde, hastadan işlem öncesinde
-
-istenecek konsültasyon, tahlil ve tetkiklerin yapılması amacıyla II Sağlık Müdürlüğünce
-
-kurumlar arasında iş birliği ve koordinasyon sağlamır.
-
-h) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel
-
-anestezi altında günübirlik ve yatış gerektiren dental işlemlerin yapıldığı merkezlerde,
-
-günübirlik taburcu olabilecek işlemlerde, hastanın yatışı sorumlu hekim veya sorumlu
-
-hekimin belirleyeceği diş hekimi üzerine yapılır. Yatış gerektirecek işlemlerde idarenin
-
-uygun göreceği serviste (18 yaş altı hastanın yatışı tercihen çocuk sağlığı ve hastalıkları,
-
-18 yaş üstü hastamın yahışı ise tercihen nöroloji ya da iç hastalıkları servisi) görevli branş
-
-hekimi üzerine yatış yapılır. Tedavi planı, ilgili anesteziyoloji ve reanimasyon uzmanı ve
-
-diş hekimi tarafından düzenlenir. Yatış yapılan servisteki görevli branş hekimi koordineli
-
-hir şekilde bu tedavi planını uygular.
-
-i) Merkezlerde, yatışi yapılan hastanın dental tedavisi ile ilgili gelişebilecek durumlarda,
-
-tedaviyi yapan diş hekimi icap nöbetçisi olarak belirlenir.
-
-j) Sorumlu hekim, hizmetin bir bütün olarak planlanıp yürütülmesinden ve birimde görevli
-
-tüm personelden, görev dağılımı ve iş akışından idareye karşı sorumludur.
+j) Sorumlu hekim, hizmetin bir bütün olarak planlanıp yürütülmesinden ve birimde görevli tüm personelden, görev dağılımı ve iş akışından idareye karşı sorumludur.
 
 6) Eğitim Faaliyetleri:
 
-a) Birimde görevlendirilen personel, bu Genelgede belirlenen görev ve sorumlulukların
+a) Birimde görevlendirilen personel, bu Genelgede belirlenen görev ve sorumlulukların gerektirdiği bilgi, beceri ve tutumların kazandırılması, engelli hastalara yönelik ağız ve diş sağlığı alanındaki yeniliklerin takip edilmesi, personel arasında bilgi ve uygulama birlikteliğinin sağlanması amacıyla Bakanlığımızca oluşturulan engelli hastalara yönelık ağız ve diş sağlığı bilim komisyonunca belirlenen eğitimlere katılım sağlamalıdır.
 
-gerektirdiği bilgi, beceri ve tutumların kazandırılması, engelli hastalara yönelik ağız ve diş
-
-sağlığı alanındaki yeniliklerin takip edilmesi, personel arasında bilgi ve uygulama
-
-birlikteliğinin sağlanması amacıyla Bakanlığımızca oluşturulan engelli hastalara yönelık
-
-ağız ve diş sağlığı bilim komisyonunca belirlenen eğitimlere katılım sağlamalıdır.
-
-b) Birimde görev yapan personelin, eğitimlerinin en fazla beş yılda bir yenilenmesi gerekir.
-
-Eğitimlerin düzenlenmesi ve duyurulması Genel Müdürlügümüzce yapılacaktır
+b) Birimde görev yapan personelin, eğitimlerinin en fazla beş yılda bir yenilenmesi gerekir. Eğitimlerin düzenlenmesi ve duyurulması Genel Müdürlügümüzce yapılacaktır

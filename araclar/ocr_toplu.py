@@ -35,17 +35,21 @@ def isle(a, pdf_adi):
     hedef.mkdir(parents=True, exist_ok=True)
     eksik = [n for n in bos if not (hedef / f"{n:04d}.json").exists()]
     print(f"{pdf_adi}: {len(bos)} görüntü sayfası, {len(eksik)} tanesi OCR bekliyor", flush=True)
+    import pypdfium2
+    belge = pypdfium2.PdfDocument(str(kaynak))
     with tempfile.TemporaryDirectory() as gecici:
         for i in range(0, len(eksik), a.parti):
             parti = eksik[i:i + a.parti]
             pngler = []
             for n in parti:
-                onek = Path(gecici) / f"{n:04d}"
-                subprocess.run([PDFTOPPM, "-r", str(a.dpi), "-gray", "-f", str(n), "-l", str(n), "-png", "-singlefile",
-                                str(kaynak), str(onek)], check=True)
-                pngler.append(str(onek) + ".png")
-            subprocess.run(["osascript", "-l", "JavaScript", str(KOK / "araclar" / "ocr_vision.js"), str(hedef)] + pngler,
-                           check=False, stderr=subprocess.DEVNULL)
+                yol = Path(gecici) / f"{n:04d}.png"
+                belge[n - 1].render(scale=a.dpi / 72, grayscale=True).to_pil().save(yol)
+                pngler.append(str(yol))
+            try:
+                subprocess.run(["osascript", "-l", "JavaScript", str(KOK / "araclar" / "ocr_vision.js"), str(hedef)] + pngler,
+                               check=False, stderr=subprocess.DEVNULL, timeout=300)
+            except subprocess.TimeoutExpired:
+                print("  ! OCR zaman aşımı, parti atlandı:", parti, flush=True)
             for p in pngler:
                 os.remove(p)
             print(f"  {min(i + a.parti, len(eksik))}/{len(eksik)}", flush=True)

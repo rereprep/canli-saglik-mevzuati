@@ -25,7 +25,7 @@ OGE = re.compile(r'<li>\s*<a id="(\d+)" href="(/TR-\d+/[^"]+)" target="([^"]*)"\
 def getir(url, deneme=3):
     for i in range(deneme):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
                 return r.read(), r.headers.get("Content-Type", ""), r.headers.get("Content-Disposition", "")
         except Exception as hata:
             if i == deneme - 1:
@@ -87,6 +87,10 @@ def main():
         for i, o in enumerate(ogeler):
             if o["trid"] in eski and (klasor / eski[o["trid"]].get("dosya", "-")).exists():
                 o.update({k: v for k, v in eski[o["trid"]].items() if k in ("dosya", "tip")})
+                continue
+            onceki = sorted(klasor.glob(o["trid"] + ".*"))
+            if onceki:
+                o["dosya"], o["tip"] = onceki[0].name, onceki[0].suffix[1:]
                 continue
             try:
                 icerik, tip, ad = getir(o["url"])

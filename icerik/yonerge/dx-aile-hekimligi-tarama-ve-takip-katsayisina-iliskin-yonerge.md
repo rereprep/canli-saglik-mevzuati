@@ -1,6 +1,6 @@
 ---
 id: "dx-aile-hekimligi-tarama-ve-takip-katsayisina-iliskin-yonerge"
-baslik: "Aile Hekimliği Tarama ve Takip Katsayısına İlişkin Yönerge"
+baslik: "Aile Hekimliği Tarama ve Takip Katsayısına İlişkin Yönerge"
 tur: "yonerge"
 tarih: "2025-05-29"
 sayi: "277723519"

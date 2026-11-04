@@ -15,17 +15,13 @@ ocr: true
 
 ### T.C. SAĞLIK BAKANLIGI Sağhk Hizmetleri Genel Müdürlügü : B.100.SHG.0.21.00.00 /951.99/ 6665 14/05/2012
 
-Sayı
+Sayı Konu : Çalışan güvenliğinin sağlanması
 
-Konu : Çalışan güvenliğinin sağlanması
+### GENELGE 2012/.2.3
 
-### GENELGE 2012/.2.3 Sağhk çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlğımızca bu çerçevede, saglık çalişanlarının güvenliğine yönelik aşağıdaki düzenlemeler Yapilarak kurumlarımiz
+Sağhk çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlğımızca bu çerçevede, saglık çalişanlarının güvenliğine yönelik aşağıdaki düzenlemeler Yapilarak kurumlarımiz talimatlandınlmişt.
 
-talimatlandınlmişt.
-
-### a) Tüm sağlık kurumlarında, hizmet alanlar ve sağhk çalışanları için güvenli bir ortam sağlanması amacıyla yayımlanan "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik"
-
-dogrultusunda;
+a) Tüm sağlık kurumlarında, hizmet alanlar ve sağhk çalışanları için güvenli bir ortam sağlanması amacıyla yayımlanan "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik" dogrultusunda;
 
 1) Çalışan güvenliği komitesinin kurulması,
 
@@ -43,29 +39,21 @@ dogrultusunda;
 
 8) Çalışanlara, çalışan güvenliği konusunda eğitimlerin verilmesi.
 
-### b) Kurumlarımızda uygulamaya konulan "Hizmet Kalite Standartları" kapsamında çalışma ortamından kaynaklanan risklerin bertaraf edilmesi amacıyla şiddet ve iletişim konularını da
+b) Kurumlarımızda uygulamaya konulan "Hizmet Kalite Standartları" kapsamında çalışma ortamından kaynaklanan risklerin bertaraf edilmesi amacıyla şiddet ve iletişim konularını da kapsayacak şekilde risk değerlendirmesi yapılarak gerekli tedbirlerin alınması.
 
-kapsayacak şekilde risk değerlendirmesi yapılarak gerekli tedbirlerin alınması.
+e) "Yatakh Sağhk Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Teblig" ile acil servisler başta olmak üzere riskli alanlarda güvenlik tedbirleri artırılarak. genel kolluk ve özel güvenlik personeliyle güvenlik kamerası bulundurulmasının sağlanması.
 
-### e) "Yatakh Sağhk Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Teblig" ile acil servisler başta olmak üzere riskli alanlarda güvenlik tedbirleri artırılarak. genel kolluk ve özel güvenlik personeliyle güvenlik kamerası bulundurulmasının sağlanması.
+Diğer taraftan şiddeti azaltmaya yönelik çalışmaların basın mensupları, iletişim uzmanlan, idareciler ve sağhık çalışanlarıyla birlikte değerlendirildiği sempozyum düzenleyerek ulusal düzeyde sürekliligi olan "Emeğe Saygı Şiddete Sıfir Tolerans" kampanyasını başlatmıştık. Bu kampanya kapsamında vatandaşı bilgilendirmek ve toplumsal bilinç oluşturmak amacı ile çalışmalarımızı yürütmekteyiz. Ayrıca "hasta ve çalışan güvenliği sempozyumlan" düzenleyerek sağlık çalişanlarına eğitimler vermekteyiz.
 
-Diğer taraftan şiddeti azaltmaya yönelik çalışmaların basın mensupları, iletişim uzmanlan,
-
-### idareciler ve sağhık çalışanlarıyla birlikte değerlendirildiği sempozyum düzenleyerek ulusal düzeyde sürekliligi olan "Emeğe Saygı Şiddete Sıfir Tolerans" kampanyasını başlatmıştık. Bu kampanya kapsamında vatandaşı bilgilendirmek ve toplumsal bilinç oluşturmak amacı ile çalışmalarımızı yürütmekteyiz. Ayrıca "hasta ve çalışan güvenliği sempozyumlan" düzenleyerek sağlık
-
-çalişanlarına eğitimler vermekteyiz.
-
-### Kişinin fiziksel ve psikolojik açıdan zarar görmesiyle sonuçlanan veya sonuçlanması muhtemel olan sözlü veya fiili hareketler olarak tanımlanan şiddet olaylarımın önlenmesi amacıyla. mevcut uygulamaların gözden geçirilmesi önem taşımaktadır. Bu itibarla çalışan güvenliğinin sağlanmasında yöneticilerimize büyük görev ve sorumluluk düşmekte olup aşağıdaki talimatlar
-
-hassasiyetle uygulanacaktır.
+Kişinin fiziksel ve psikolojik açıdan zarar görmesiyle sonuçlanan veya sonuçlanması muhtemel olan sözlü veya fiili hareketler olarak tanımlanan şiddet olaylarımın önlenmesi amacıyla. mevcut uygulamaların gözden geçirilmesi önem taşımaktadır. Bu itibarla çalışan güvenliğinin sağlanmasında yöneticilerimize büyük görev ve sorumluluk düşmekte olup aşağıdaki talimatlar hassasiyetle uygulanacaktır.
 
 1) Beyaz kod uygulaması;
 
-### a) "Beyaz. Kod" uygulaması sorumlu başhekim yardımeısi vasıtasıyla yakından takip edilecek
+a) "Beyaz. Kod" uygulaması sorumlu başhekim yardımeısi vasıtasıyla yakından takip edilecek ve sistemin etkin şekilde yürümesi sağlanacaktır.
 
-ve sistemin etkin şekilde yürümesi sağlanacaktır.
+b) Görevli müdahale ekiplerinin olay yerine en kısa zamanda ulaşması sağlanacaktır.
 
-### b) Görevli müdahale ekiplerinin olay yerine en kısa zamanda ulaşması sağlanacaktır. e) Gerçekleşen olayların analizi yapılarak, ilgili sağlık kurumuna özgü tedbirler artırılacaktır.
+e) Gerçekleşen olayların analizi yapılarak, ilgili sağlık kurumuna özgü tedbirler artırılacaktır.
 
 ### T.C. SAGLIK BAKANLIGI Sağhk Hizmetleri Genel Müdürlüğü
 

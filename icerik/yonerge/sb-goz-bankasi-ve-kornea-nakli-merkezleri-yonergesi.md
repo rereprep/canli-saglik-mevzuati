@@ -182,12 +182,8 @@ d) Göze nakledilebilecek dokuların vericilerden alınması ve bu dokuların ba
 
 GEÇICI MADDE 1- (1) Bu Yönerge yayımı tarihinde Bakanlıkça verilen yetki doğrultusunda faaliyet gösteren bankalarda görev yapmakta olan personel görev yaptıkları bankada çalıştıkları sürece 8 inci maddede belirtilen eğitim alma şartından muaftır.
 
-(2) 2015 yılı için her Banka tarafindan donörlerdan alınacak cerrahiye uygun kornea sayısı 70 olarak belirlenmiştir.
+(2) 2015 yılı için her Banka tarafindan donörlerdan alınacak cerrahiye uygun kornea sayısı 70 olarak belirlenmiştir. Yürürlük
 
-#### Yürürlük
-
-**Madde 28 –** (1) Bu yönerge yayımı tarihinde yürürlüğe girer.
-
-#### Yürütme
+**Madde 28 –** (1) Bu yönerge yayımı tarihinde yürürlüğe girer. Yürütme
 
 **Madde 29 –** (1) Bu yönerge hükümlerini Sağlık Bakanı yürütür.

@@ -34,6 +34,7 @@ TUR_TEKIL = {
 
 # ---------------------------------------------------------------- veri okuma
 def on_bilgi_ayir(metin):
+    metin = unicodedata.normalize("NFC", metin)
     if not metin.startswith("---\n"):
         return {}, metin
     son = metin.index("\n---\n", 4)
@@ -46,9 +47,16 @@ def on_bilgi_ayir(metin):
 
 
 def belgeleri_oku():
+    global _ES_DIZIN
     tam = []
+    ek = {}
+    for js in sorted((KOK / "kaynak-isleme" / "zenginlestirme").glob("*.json")):
+        ek.update(json.loads(js.read_text(encoding="utf-8")))
     for md in sorted((KOK / "icerik").glob("*/*.md")):
         veri, govde = on_bilgi_ayir(md.read_text(encoding="utf-8"))
+        for alan, deger in ek.get(veri["id"], {}).items():
+            if deger and (not veri.get(alan) or alan in ("baslik", "konu", "etiketler")):
+                veri[alan] = deger
         veri["govde"] = govde
         veri["tam_metin"] = True
         tam.append(veri)
@@ -57,20 +65,25 @@ def belgeleri_oku():
         for k in json.loads(js.read_text(encoding="utf-8")):
             if k.get("tur") not in TUR_ADLARI or not k.get("baslik"):
                 continue
-            k["baslik"] = " ".join(k["baslik"].split())
+            k["baslik"] = unicodedata.normalize("NFC", " ".join(k["baslik"].split()))
             k["etiketler"] = [t.replace("-", " ") for t in k.get("etiketler", []) if t]
             if not k.get("id"):
                 k["id"] = "k-" + sade(k["baslik"]).replace(" ", "-")[:90]
             # Tam metni olan belgeyle aynıysa yalnızca eksik alanları tamamla
             es = esini_bul(belgeler, k)
             if es:
-                for alan in ("kaynak_url", "rg_tarih", "rg_sayi", "degisiklikler", "tarih", "sayi"):
+                for alan in ("kaynak_url", "rg_tarih", "rg_sayi", "degisiklikler", "tarih", "sayi", "birim", "konu"):
                     if k.get(alan) and not es.get(alan):
                         es[alan] = k[alan]
+                if k.get("kaynak") and k["kaynak"] != es.get("kaynak") and k["kaynak"] not in es.get("diger_kaynaklar", []):
+                    es.setdefault("diger_kaynaklar", []).append(k["kaynak"])
+                if k.get("durum") and k["durum"] != "yürürlükte":
+                    es["durum"] = k["durum"]
                 continue
             k["tam_metin"] = False
             k.setdefault("durum", "yürürlükte")
             belgeler.setdefault(k["id"], k)
+            _ES_DIZIN = None
     return belgeler
 
 
@@ -117,13 +130,22 @@ def sade(s):
 
 
 def esini_bul(belgeler, k):
-    hedef = sade(k["baslik"])
-    for b in belgeler.values():
-        if b.get("tur") == k.get("tur") and sade(b.get("baslik")) == hedef:
-            return b
-        if k.get("tur") == "kanun" and k.get("sayi") and b.get("tur") == "kanun" and b.get("sayi") == k.get("sayi"):
-            return b
-    return None
+    global _ES_DIZIN
+    if _ES_DIZIN is None or _ES_DIZIN[0] != len(belgeler):
+        dizin = {}
+        for b in belgeler.values():
+            dizin.setdefault(baslik_anahtari(b), b)
+            if b.get("tur") in ("kanun", "cbk") and b.get("sayi"):
+                dizin.setdefault((b["tur"], "no:" + b["sayi"]), b)
+        _ES_DIZIN = (len(belgeler), dizin)
+    dizin = _ES_DIZIN[1]
+    es = dizin.get(baslik_anahtari(k))
+    if not es and k.get("tur") in ("kanun", "cbk") and k.get("sayi"):
+        es = dizin.get((k["tur"], "no:" + k["sayi"]))
+    return es
+
+
+_ES_DIZIN = None
 
 
 # ---------------------------------------------------------------- yardımcılar

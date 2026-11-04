@@ -28,29 +28,19 @@ Konu: Yönergenin Yürürluğe Konulması SAÖLIK HİZMET STANDARTLARI DAIRE
 
 ### BAKANLIK MAKAMINA
 
-Ekte sunulan, Palyatif Bakim Hizmetlerinin Uygulama Usul Ve Esasları Hakkında
-
-Yönerge'nin onaylanarak yürürlüğe konulmasını,
+Ekte sunulan, Palyatif Bakim Hizmetlerinin Uygulama Usul Ve Esasları Hakkında Yönerge'nin onaylanarak yürürlüğe konulmasını,
 
 takdir ve tensiplerinize arz ederim.
 
 Prot. Dr. Dogan UNAL
 
-Genel Müdür V.
+Genel Müdür V. Ek: Yönerge ve Ekleri ( 8 sayfa)
 
-Ek: Yönerge ve Ekleri ( 8 sayfa)
+sean Uygun görüşle arz ederim.
 
-sean
+....../....../2015 Prof. Dr. Irfan ŞENCAN
 
-Uygun görüşle arz ederim.
-
-....../....../2015
-
-Prof. Dr. Irfan ŞENCAN
-
-Müsteşar YardımcıSı
-
-Uygun görüşle arz ederim.
+Müsteşar YardımcıSı Uygun görüşle arz ederim.
 
 ..../....../2015
 
@@ -136,9 +126,7 @@ c) Çok amaçlı salon/alan: Hasta ve hasta yakınlarının dinlenme amacı ile 
 
 ### UÇÜNCÜ BÖLUM
 
-Personel görevlendirilmesi ve asgari personel standardı, görev yetki ve sorumluluklar
-
-#### Personel görevlendirilmesi
+Personel görevlendirilmesi ve asgari personel standardı, görev yetki ve sorumluluklar Personel görevlendirilmesi
 
 **MADDE 8 –** (1) Merkezlerde sorumlu tabip ve personel görevlendirmeleri, ilgili mevzuatına uygun olarak yapılır. Merkez hizmetleri, sorumlu tabibin denetim ve sorumluluğunda, tabip, hemşire, tıbbi sekreter, idari ve teknik personel, temizlik elemanı ile diğer unvanlarda personel ile yürütülür.
 
@@ -150,9 +138,7 @@ Personel görevlendirilmesi ve asgari personel standardı, görev yetki ve sorum
 
 (5) Yönetici tarafindan, merkezlerde görevlendirilen personelin palyatif bakımla ilgili eğitim alması sağlanır.
 
-(6) Çalışma düzeni ve saatleri ilgili mevzuatı çerçevesinde sorumlu tabibinin teklifi ve ilgili yöneticinin onayı ile belirlenir.
-
-#### Sorumlu tabibin görev, yetki ve sorumlulukları
+(6) Çalışma düzeni ve saatleri ilgili mevzuatı çerçevesinde sorumlu tabibinin teklifi ve ilgili yöneticinin onayı ile belirlenir. Sorumlu tabibin görev, yetki ve sorumlulukları
 
 **MADDE 9 –** (1) Sorumlu tabip, merkeze görevlendirilen tüm personelden ilgili yöneticiye karşı sorumludur. Sorumlu tabibin görev, yetki ve sorumlulukları şunlardır:
 
@@ -172,9 +158,7 @@ f) Hizmetle ilgili kayıtların zamanında ve noksansız tutulmasını sağlar.
 
 g) Hizmet verilen hastaların, aile hekimleri ve evde sağhk hizmetleri ekipleri ile işbirliği ve koordinasyonunu sağlar.
 
-g) Verilen hizmetlerin hasta hakları mevzuatına, mesleki etik ve tıbbi deontolojiye uygun olarak yürütülmesini sağlar.
-
-#### Diğer personelin görev ve sorumlulukları
+g) Verilen hizmetlerin hasta hakları mevzuatına, mesleki etik ve tıbbi deontolojiye uygun olarak yürütülmesini sağlar. Diğer personelin görev ve sorumlulukları
 
 **MADDE 10 –** (1) Merkezlerde çalışan personelin görev ve sorumlulukları sorumlu tabip tarafindan belirlenir ve yöneticinin onayından sonra ilgililere duyurulur.
 

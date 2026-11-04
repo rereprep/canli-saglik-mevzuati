@@ -8,6 +8,17 @@ konu: "Anne Ölümleri Genelgesi (2008/29) uyarınca yürütülecek sağlık hiz
 etiketler: ["halk sağlığı", "çocuk sağlığı", "anne sağlığı", "tarama"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 757-758"
 durum: "yürürlükte"
+ocr: true
 ---
 
-6.3.65. Anne Ölümleri Genelgesi (2008/29)
+6.3.65. Anne Ölümleri Genelgesi (2008/29) hastaların bulunduğu mahallere öncelik verilmesi ve bu çalışmalarda bulunan kamu kurum ve kuruluşların imkanlarını bu mahallere yönlendirmesi konusunda gerekli koordinasyonun saglanması hususlarında gereğini rica ederim.
+
+оленя
+
+Uzm. Dr. Orhan Fevzi GÜMRÜKÇÜOGLU
+
+Bakan a.
+
+Müsteşar Dağitim : Gereği Bilgi 81 il Valiliği Teftiş Kurulu Başkanlığı
+
+Hukuk Müşavirliği

@@ -1,6 +1,6 @@
 ---
 id: "dx-saglik-bakanligi-birinci-basamak-saglik-kuruluslarina-ad-verilmesi-hakkinda-yonerge"
-baslik: "Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge"
+baslik: "Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge"
 tur: "yonerge"
 tarih: "2019-05-15"
 sayi: "652"

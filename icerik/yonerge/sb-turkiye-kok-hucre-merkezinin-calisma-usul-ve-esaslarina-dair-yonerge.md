@@ -76,9 +76,9 @@ g) Türkiye Kök Hücre Merkezi (TÜRKÖK): İleri tetkik ve özel tedavi gerekt
 
 ğ) Veri Tabanı: TÜRKÖK tarafından, bağışçıların doku tiplerine ait verilerin tutulduğu elektronik veri kayıt sistemini,
 
-## İKİNCİ BÖLÜM TÜRKÖK'ün Yapısı, Görevleri ve Veri Tabanının Güncellenmesi
+## İKİNCİ BÖLÜM
 
-#### TÜRKÖK'ün Yapısı
+#### TÜRKÖK'ün Yapısı, Görevleri ve Veri Tabanının Güncellenmesi TÜRKÖK'ün Yapısı
 
 **MADDE 5 –** (1) TÜRKÖK, Bakanlık merkez teşkilatında üçüncü basamak sağlık tesisi olarak kurulur.
 
@@ -90,37 +90,9 @@ b) Veri tabanını oluşturan sistem için server odası olmalıdır.
 
 (3) Gerekli görüldüğü takdirde TÜRKÖK bünyesinde kordon kanı bankası kurulabilir.
 
-(4) Işlerin etkin ve zamanında gerçekleştirilebilmesi için Bakanlıkça belirlenen illerde gerekirse kök hücre koordinasyon birimi kurulabilir.
+(4) Işlerin etkin ve zamanında gerçekleştirilebilmesi için Bakanlıkça belirlenen illerde gerekirse kök hücre koordinasyon birimi kurulabilir. TÜRKÖK'ün Görevleri
 
-#### TÜRKÖK'ün Görevleri
-
-**MADDE 6 –** (1) TURKOK'ün görevleri şunlardır;
-
-(a) Kök hücre nakli gereken hastaların tedavisi için yurt içinden veya yurt dışından kök hücre temin edilmesini ve nakil merkezine transferine kadar olan süreci yürütür veya yürütülmesini sağlar.
-
-(b) Bağışçı kazanımına yönelik çalışmaları yürütür, doğrudan bağışçı kazanımı yapar veya yaptırır. Bağış merkezlerinin planlamasını yapar veya yaptırır ve çalışmalarını takip eder.
-
-(c) HLA tiplendirmesi yapan uluslararası akreditasyon belgesine sahip laboratuvar tarafindan bağışçıya ait HLA doku tiplerinin belirlenmesini, veri tabanına kaydedilmesini, yedeklenmesini, güncellenerek saklanmasını sağlar.
-
-(ç) Veri tabanında yer alan bağışçılara ait verilerin güvenliğini sağlar.
-
-(d) Kök hücre nakli için başvuruda bulunan hastalar ile veri tabanına kaydedilmiş bağışçıların doku uyumluluklarını belirlemek üzere tarama ve eşleştirme işlemlerini yapar, uyumlu bağışçı bulunamamış ise her yeni bağışçı verisi yüklendiğinde tarama işleminin otomatik olarak tekrarlanmasını sağlar.
-
-(e) Bağışçının, sağlık kontrolleri, ileri laboratuvar testleri, kök hücrenin istenilen süre içinde toplanması, alınan hücresel ürünün yurt içi ve yurt dışı nakil merkezine hızlı ve güvenli bir biçimde taşınması, bağışçının ulaşım ve konaklama hizmetlerinin karşılanması dâhil olmak üzere tüm faaliyetleri yürütür veya yürütülmesini sağlar.
-
-(f) Nakil sürecinde, HKHNM, kemik iliği bankaları ve kök hücre toplama işlemini gerçekleştirecek olan terapötik aferez merkezleri arasında koordinasyonu sağlar.
-
-(g) Doğrulama test ışlemlerinı yapar veya yaptırır.
-
-(ğ) Doğrulama testleri sonrasında kök hücre nakli planlanan hastalar için kök hücre tedariki için gerekli iş ve işlemleri koordine eder.
-
-(h) Bağışçıdan kök hücre toplandıktan sonra bağışçının kontrol muayenelerinin gerçekleştirilmesini sağlar.
-
-(ı) Hastayı takip eden HKHNM'nin veya yurt dışı kemik iliği bankalarının talebi üzerine, hasta ile doku tipi uyumlu olduğu tespit edilen bağışçıyı üç ay süreyle hasta adına rezerve eder. İlk üç aylık süre sonunda bağışçı ile ilgili nakil süreci başlatılmayan durumda rezervasyon işlemi iptal edilerek bağışçı genel taramaya dahil edilir. Genel tarama sonucu başka bir hasta ile eşleșme olmaması durumunda ise daha önce rezerve edildiği hasta adına son defa olmak üzere üç ay daha rezerve edilebilir.
-
-(i) Kök hücre toplama işlemi sonrasında sağlık durumu açısından bağışçının takibini
-
-(i) Kök hücre nakli ile ilgili faaliyet gösteren uluslararası kuruluşlara üye olur.
+**MADDE 6 –** (1) TURKOK'ün görevleri şunlardır; (a) Kök hücre nakli gereken hastaların tedavisi için yurt içinden veya yurt dışından kök hücre temin edilmesini ve nakil merkezine transferine kadar olan süreci yürütür veya yürütülmesini sağlar. (b) Bağışçı kazanımına yönelik çalışmaları yürütür, doğrudan bağışçı kazanımı yapar veya yaptırır. Bağış merkezlerinin planlamasını yapar veya yaptırır ve çalışmalarını takip eder. (c) HLA tiplendirmesi yapan uluslararası akreditasyon belgesine sahip laboratuvar tarafindan bağışçıya ait HLA doku tiplerinin belirlenmesini, veri tabanına kaydedilmesini, yedeklenmesini, güncellenerek saklanmasını sağlar. (ç) Veri tabanında yer alan bağışçılara ait verilerin güvenliğini sağlar. (d) Kök hücre nakli için başvuruda bulunan hastalar ile veri tabanına kaydedilmiş bağışçıların doku uyumluluklarını belirlemek üzere tarama ve eşleştirme işlemlerini yapar, uyumlu bağışçı bulunamamış ise her yeni bağışçı verisi yüklendiğinde tarama işleminin otomatik olarak tekrarlanmasını sağlar. (e) Bağışçının, sağlık kontrolleri, ileri laboratuvar testleri, kök hücrenin istenilen süre içinde toplanması, alınan hücresel ürünün yurt içi ve yurt dışı nakil merkezine hızlı ve güvenli bir biçimde taşınması, bağışçının ulaşım ve konaklama hizmetlerinin karşılanması dâhil olmak üzere tüm faaliyetleri yürütür veya yürütülmesini sağlar. (f) Nakil sürecinde, HKHNM, kemik iliği bankaları ve kök hücre toplama işlemini gerçekleştirecek olan terapötik aferez merkezleri arasında koordinasyonu sağlar. (g) Doğrulama test ışlemlerinı yapar veya yaptırır. (ğ) Doğrulama testleri sonrasında kök hücre nakli planlanan hastalar için kök hücre tedariki için gerekli iş ve işlemleri koordine eder. (h) Bağışçıdan kök hücre toplandıktan sonra bağışçının kontrol muayenelerinin gerçekleştirilmesini sağlar. (ı) Hastayı takip eden HKHNM'nin veya yurt dışı kemik iliği bankalarının talebi üzerine, hasta ile doku tipi uyumlu olduğu tespit edilen bağışçıyı üç ay süreyle hasta adına rezerve eder. İlk üç aylık süre sonunda bağışçı ile ilgili nakil süreci başlatılmayan durumda rezervasyon işlemi iptal edilerek bağışçı genel taramaya dahil edilir. Genel tarama sonucu başka bir hasta ile eşleșme olmaması durumunda ise daha önce rezerve edildiği hasta adına son defa olmak üzere üç ay daha rezerve edilebilir. (i) Kök hücre toplama işlemi sonrasında sağlık durumu açısından bağışçının takibini (i) Kök hücre nakli ile ilgili faaliyet gösteren uluslararası kuruluşlara üye olur.
 
 (k) Bakanlık tarafindan uygun görülen verilerinin uluslararası kemik iliği bankaları ile paylaşılmasını sağlar.
 
@@ -162,9 +134,7 @@ b) Veri tabanını oluşturan sistem için server odası olmalıdır.
 
 (3) Bilgi yönetim sisteminin donanım, yazılım ve ağ yapısı ile harici bağlantı bileşenlerinin kesintisiz ve uyumlu çalışmasını sağlar.
 
-(4) Veri tabanında tarama yapacak yazılım programının hazırlanmasını ve geliştirilmesini sağlar.
-
-#### İdari ve Mali İşler
+(4) Veri tabanında tarama yapacak yazılım programının hazırlanmasını ve geliştirilmesini sağlar. İdari ve Mali İşler
 
 **MADDE 8 –** (1) Yurt içi ve yurt dışı kök hücre nakli ile ilgili faturalama, tahakkuk, satın alma ve bütçe ile ilgili tüm iş ve işlemleri yürütür ve koordinasyonunu sağlar.
 
@@ -184,16 +154,10 @@ b) Veri tabanını oluşturan sistem için server odası olmalıdır.
 
 (3) Kayıt altına alınan hastanın ve bağışçının kişisel verileri, ilgili mevzuata uygun olarak işlenir ve veri tabanına aktarılır.
 
-(4) TÜRKÖK ile diğer kemik iliği bankaları, kök hücre nakil merkezleri, kök hücre toplama merkezleri, doku tiplendirme ve halk sağlığı laboratuvarları ve hizmet alımı yapılan kuruluşlar arasındaki iletişim, gizlilik esaslarına uyulmak suretiyle yapılır.
+(4) TÜRKÖK ile diğer kemik iliği bankaları, kök hücre nakil merkezleri, kök hücre toplama merkezleri, doku tiplendirme ve halk sağlığı laboratuvarları ve hizmet alımı yapılan kuruluşlar arasındaki iletişim, gizlilik esaslarına uyulmak suretiyle yapılır. Yürürlükten kaldırılan mevzuat
 
-#### Yürürlükten kaldırılan mevzuat
+**MADDE 10 –** (1) 31/7/2009 tarihli ve 30359 sayıhı Makam Oluruyla yürürlüğe giren Türkiye Kök Hücre Koordinasyon Merkezi Çalışma Esasları Yönergesi yürürlükten kaldırılmıştır. Yürürlük
 
-**MADDE 10 –** (1) 31/7/2009 tarihli ve 30359 sayıhı Makam Oluruyla yürürlüğe giren Türkiye Kök Hücre Koordinasyon Merkezi Çalışma Esasları Yönergesi yürürlükten kaldırılmıştır.
-
-#### Yürürlük
-
-**MADDE 11 –** (1) Bu Yönerge Sağlık Bakanının onayı ile yürürlüğe girer.
-
-#### Yürütme
+**MADDE 11 –** (1) Bu Yönerge Sağlık Bakanının onayı ile yürürlüğe girer. Yürütme
 
 **MADDE 12 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

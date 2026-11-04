@@ -1,6 +1,6 @@
 ---
 id: "dx-saglik-bakanligi-teftis-kurulu-baskanligi-risk-esasli-denetim-sistemi-koordinatorlugu-yone"
-baslik: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi"
+baslik: "Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi"
 tur: "yonerge"
 tarih: "2024-11-29"
 sayi: "261023707"
