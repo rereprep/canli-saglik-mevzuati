@@ -8,13 +8,14 @@ etiketler: ["göz bankası", "kornea nakli", "organ nakli"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 75-81"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-2.2.9.Göz Bankası ve Kornea Nakli Merkezleri Yönergesi
+2.2.9. Göz Bankası ve Kornea Nakli Merkezleri Yönergesi
 
 a) En az 20 metrekare büyüklüğünde, dış ortam ile teması bulunmayan, asepsi ve antisepsi kurallarına uygunluğu sağlanan ve tek bir girişi bulunan tamamen banka faaliyetleri için ayrılmış olan bir doku işleme laboratuvarı bulunur. Bu laboratuvarda:
 
-1) Laboratuvar alanında yeterli büyüklükte tezgåh, su ve lavabo tesisatı,
+1) Laboratuvar alanında yeterli büyüklükte tezgâh, su ve lavabo tesisatı,
 
 2) Kolaylıkla temizlenebilir özelliklere sahip duvarlar, döşeme ve tavan,
 
@@ -22,11 +23,11 @@ a) En az 20 metrekare büyüklüğünde, dış ortam ile teması bulunmayan, ase
 
 4) (- 20) dereceye kadar derin dondurucu bölümü bulunan buzdolabı,
 
-5) Biomikroskop,
+5) Biyomikroskop,
 
 6) Bankada veya bünyesinde bulunduğu sağlık kuruluşunda alet ve malzeme sterilizasyonu için otoklav,
 
-7) Banka amniotic membran saklayacak ise, (- 80) dereceye kadar derin dondurucu,
+7) Banka amniyotik membran saklayacak ise, (- 80) dereceye kadar derin dondurucu,
 
 8) Organ kültürü yöntemi ile saklama yapacak bankalarda en az 2 inkübatör,
 

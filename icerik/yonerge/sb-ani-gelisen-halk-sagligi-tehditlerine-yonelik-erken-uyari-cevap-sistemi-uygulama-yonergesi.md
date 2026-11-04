@@ -8,6 +8,7 @@ etiketler: ["erken uyarı", "salgın yönetimi", "bulaşıcı hastalıklar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 461-468"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.2.5. Ani Gelişen Halk Sağlığı Tehditlerine Yönelik Erken Uyarı Cevap Sistemi Uygulama Yönergesi
@@ -18,11 +19,11 @@ ocr: true
 
 **MADDE 1 –** (1) Bu Yönerge;
 
-a) Ani gelişen halk sağlığı tehditlerine yönelik: Erken Uyarı Cevap Sistemi'ne (EUCS) ilişkin temel ilke ve bileşenlerin tanımlanması,
+a) Ani gelişen halk sağlığı tehditlerine yönelik: Erken Uyarı Cevap Sistemi’ne (EUCS) ilişkin temel ilke ve bileşenlerin tanımlanması,
 
-b) EUCS kapsamında ani gelişen halk sağlığı tehditleri ile ilgili veri ve bilgilerin toplanması, ulusal ve uluslararası düzeyde paylaşılması, Sağlık Bakanlığı merkez ve taşra teşkilatının, ilgili diğer Bakanlıklar ve diğer kurum ve kuruluşlar ile yapacağı risk yönetimine yönelik faaliyetlerin usul ve esasların belirlenmesi,
+b) EUCS kapsamında ani gelişen halk sağlığı tehditleri ile ilgili veri ve bilgilerin toplanması, ulusal ve uluslararası düzeyde paylaşılması, Sağlık Bakanlığı merkez ve taşra teşkilatının, ilgili diğer Bakanlıklar ve diğer kurum ve kuruluşlar ile yapacağı risk yönetimine yönelik faaliyetlerin usul ve esaslarının belirlenmesi,
 
-c) Ani gelişen halk sağlığı tehditlerinin önlenmesini ve kontrolünü geliştirerek halk sağlığının korunmasına katkıda bulunmak ve uluslararası öneme haiz halk sağlığı tehditleri ile mücadele etmek amacıyla Halk Sağlığı Genel Müdürlüğu ile Sağlık Bakanlığı merkez ve bağlı kuruluşları, diğer Bakanlıklar ve yerel sağlık kurum ve kuruluşları arasında işbirlıği ve koordinasyon için uygun yöntemlerin tanımlanması,
+c) Ani gelişen halk sağlığı tehditlerinin önlenmesini ve kontrolünü geliştirerek halk sağlığının korunmasına katkıda bulunmak ve uluslararası öneme haiz halk sağlığı tehditleri ile mücadele etmek amacıyla Halk Sağlığı Genel Müdürlüğü ile Sağlık Bakanlığı merkez ve bağlı kuruluşları, diğer Bakanlıklar ve yerel sağlık kurum ve kuruluşları arasında işbirliği ve koordinasyon için uygun yöntemlerin tanımlanması,
 
 d) Sağlık Bakanlığı merkez ve taşra teşkilatında EUCS hizmetlerini yürütecek idari birimlerin görev, yetki ve sorumluluklarını belirlenmesi amacıyla hazırlanmıştır.
 
@@ -32,19 +33,19 @@ d) Sağlık Bakanlığı merkez ve taşra teşkilatında EUCS hizmetlerini yür�
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönerge; 30/05/2007 tarih ve 26537 sayılı Resmi Gazete'de yayımlanan Bulaşıcı Hastalıklar Surveyans ve Kontrol Esasları Yönetmeliği nin 1 inci maddesinin birinci fikrasının (c) bendi ve 19 uncu maddesine, 03/05/2012 tarih ve 28281 sayılı Resmi Gazete'de yayımlanan Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönetmeliği'nin 5 inci maddesine, 18/05/2013 tarih ve 28855 sayıl: Resmi Gazete'de yayımlanan Afet Acil Durum Müdahale Hizmetleri Yönetmeliği'nin 14 üncü maddesinin birinci ve altıncı fikrasına ve 10/07/2018 tarih ve 1 numaralı Cumhurbașkanlığı Kararnamesi'nin 508 inci maddesine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönerge; 30/05/2007 tarih ve 26537 sayılı Resmi Gazete'de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği’nin 1 inci maddesinin birinci fıkrasının (c) bendi ve 19 uncu maddesine, 03/05/2012 tarih ve 28281 sayılı Resmi Gazete'de yayımlanan Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönetmeliği'nin 5 inci maddesine, 18/05/2013 tarih ve 28855 sayılı Resmî Gazete'de yayımlanan Afet Acil Durum Müdahale Hizmetleri Yönetmeliği'nin 14 üncü maddesinin birinci ve altıncı fikrasına ve 10/07/2018 tarih ve 1 numaralı Cumhurbaşkanlığı Kararnamesi'nin 508 inci maddesine dayanılarak hazırlanmıştır.
 
 **MADDE 4 –** (1) Bu Yönerge'de;
 
-a) Bakanlık: T.C. Sağlık Bakanlığı'mı,
+a) Bakanlık: T.C. Sağlık Bakanlığını,
 
-b) Genel Müdürlük: Halk Sağlığı Genel Müdürlüğü'nü,
+b) Genel Müdürlük: Halk Sağlığı Genel Müdürlüğünü,
 
-c) Daire Başkanlığı: Halk Sağlığı Genel Müdürlüğü Sağlık Tehditleri Erken Uyarı ve Cevap Dairesi Başkanlığı mı,
+c) Daire Başkanlığı: Halk Sağlığı Genel Müdürlüğü Sağlık Tehditleri Erken Uyarı ve Cevap Dairesi Başkanlığını,
 
-ç) Ani Gelişen Halk Sağlığı Tehdidi/Acili/Olayı: Insan sağlığı için olumsuz sonuçlanı olabilecck ani başlangıçhı herhangi bir olay ile henüz insanlarda hastalığa yol açmamış ancak enfekte ya da kontamine gıda, su, hayvan, sanayi ürünü vb. ile maruz kalma yoluyla toplum sağlığını tehdit eden olaylar da dahil olmak üzere, salgın yapma potansiyeli olan etkenleri, teşhis edilmiş insan vakası olmamasına rağmen bir halk sağlığı riski oluşturan olayları ve kitlesel insan hareketlerini, kamuoyu gündeminde yer alan veya Genel Müdürlük tarafindan belirlenen diğer olaylan,
+ç) Ani Gelişen Halk Sağlığı Tehdidi/Acili/Olayı: İnsan sağlığı için olumsuz sonuçlanı olabilecek ani başlangıçlı herhangi bir olay ile henüz insanlarda hastalığa yol açmamış ancak enfekte ya da kontamine gıda, su, hayvan, sanayi ürünü vb. ile maruz kalma yoluyla toplum sağlığını tehdit eden olaylar da dahil olmak üzere, salgın yapma potansiyeli olan etkenleri, teşhis edilmiş insan vakası olmamasına rağmen bir halk sağlığı riski oluşturan olayları ve kitlesel insan hareketlerini, kamuoyu gündeminde yer alan veya Genel Müdürlük tarafından belirlenen diğer olaylan,
 
-d) Bilimsel Danışma Kuralu (BDK): Ani gelişen halk sağlığı acil durumu süresince yürütülen konularda alana özel bilgisinden yararlanılacak, Bakanlığa bilgi ve destek sağlayacak, uzman kişılerden oluşan kurulu,
+d) Bilimsel Danışma Kurulu (BDK): Ani gelişen halk sağlığı acil durumu süresince yürütülen konularda alana özel bilgisinden yararlanılacak, Bakanlığa bilgi ve destek sağlayacak, uzman kişılerden oluşan kurulu,
 
 e) Çevresel halk sağlığı riski/tehdidi/clayı: Su, toprak, hava kirliliği ve iklim değişimi gibi ekosistemde ve doğal çevrede meydana gelen ve toplum sağlığını etkileme olasılığı bulunan her türlü olumsuz durumu,
 
@@ -84,7 +85,7 @@ Erken Uyarı ve Cevap Sistemi,
 
 #### Erken uyarı ve cevap sistemi
 
-**MADDE 5 –** (1) EUCS, biyolojik, kimyasal, çevresel, radyolojik, nükleer veya kaynağı henüz bilinmeyen ve salgın yapma potansiyeli taşıyan; yerel, bölgesel, ulusal ve uluslararası düzeydeki hastalık veya olaylar gibi aai gelişen halk sağlığı tehditleriyle ilgili, entegre sürveyans ile zamanında veri ve bilgi toplayan, riskleri tespit eden, değerlendiren, yayılmasını onleme ve kontrol etmeyi içeren bir sistem olarak Genel Mudurlük tarafindan kurulur.
+**MADDE 5 –** (1) EUCS, biyolojik, kimyasal, çevresel, radyolojik, nükleer veya kaynağı henüz bilinmeyen ve salgın yapma potansiyeli taşıyan; yerel, bölgesel, ulusal ve uluslararası düzeydeki hastalık veya olaylar gibi aai gelişen halk sağlığı tehditleriyle ilgili, entegre sürveyans ile zamanında veri ve bilgi toplayan, riskleri tespit eden, değerlendiren, yayılmasını onleme ve kontrol etmeyi içeren bir sistem olarak Genel Mudurlük tarafından kurulur.
 
 (2) EUCS işlevleri; tüm halk sağlığı tehditlerini kapsama, ilgili paydaşlarla işbirliği, zamanındalık, süreklilik, duyarhlık, olaya özgu olma, olayın yerinde tespiti ve mudahalesine yönelik kapasite, kişisel verilerin korunması, veri güvenirliği, kanıta dayalı olma, uzman ekip çalışması, şeffaflık ve entegre sürveyans ilkelerine uygun olarak yürütulur.
 
@@ -126,13 +127,13 @@ g) Halk sağlığını etkileme potansiyeli olan doğa kaynaklı afetler, beklen
 
 **MADDE 10 –** (1) 6 ncı maddede yer alan olaylardan birinin ani gelişen halk sağlığı tehdidi ile sonuçlanması durumunda "Erken Uyanı Düzeyi 3' olarak tamımlamır ve kesin tehdit olarak adlandırılarak derhal Bilimsel Danışma Kurulu toplanır, olay değerlendirilir. Hazırlıklılk ve Cevap Planı uygulamaya konulur.
 
-(2) Halk Sağlığı Acilleri Operasyon Merkezi 7/24 aktif hale getirilir. Halk Sağlığı Acilleri Operasyon Merkezi tarafindan SAKOM ile irtibata geçilerek tehdit hakkında bilgilendirme ve raporlama yapılır. SAKOM aracıhğıyla Içişleri Bakanlığı Afet ve Acil Durum Yönetim Merkezi'ne bilgi verilir.
+(2) Halk Sağlığı Acilleri Operasyon Merkezi 7/24 aktif hale getirilir. Halk Sağlığı Acilleri Operasyon Merkezi tarafından SAKOM ile irtibata geçilerek tehdit hakkında bilgilendirme ve raporlama yapılır. SAKOM aracıhğıyla Içişleri Bakanlığı Afet ve Acil Durum Yönetim Merkezi'ne bilgi verilir.
 
 ## ÜÇÜNCÜ BÖLÜM Erken Uyarı-Cevap Birimleri ve Görevleri
 
 #### Uluslararası sağlık tüzüğü (UST) ulusal odak noktası
 
-**MADDE 11 –** (1) EUCS kapsamında UST ile ilişkili faaliyetler UST Ulusal Odak Noktası (UON) İrtibat Kişisi ve Daire Başkanlığının Erken Uyarı Cevap (EUC) Birimi'nden oluşan UST UON tarafindan yürütülür. UST UON Irtibat Kişisi, Genel Müdürluk tarafindan belirlenen kişidir. UST ulusal odak noktasımn görevleri
+**MADDE 11 –** (1) EUCS kapsamında UST ile ilişkili faaliyetler UST Ulusal Odak Noktası (UON) İrtibat Kişisi ve Daire Başkanlığının Erken Uyarı Cevap (EUC) Birimi'nden oluşan UST UON tarafından yürütülür. UST UON Irtibat Kişisi, Genel Müdürluk tarafından belirlenen kişidir. UST ulusal odak noktasımn görevleri
 
 **MADDE 12 –** (1) UST UN'nın görevleri şunlardır;
 
@@ -146,7 +147,7 @@ c) Uluslararası oneme haiz bir halk saglğ acili oluşturabilecek olayların de
 
 #### Bilimsel danışma kurulu (BDK)
 
-**MADDE 13 –** (1) Ani gelişen halk sağlığı tehditlerine etkin mudahale amacıyla halk sağlığı tehdidi öncesinde veya tehdit esnasında risk değerlendirmeleri yapan ve risk oluşturan faktörlerle mücadeleye ilişkin tavsiyelerde bulunan, ülkenin hazırlıkhlık ve müdahale kapasitesini değerlendiren, alana özgü uzmanlıkları olan kişilerden oluşturulmuş genış uzman havuzundan acil durum konusuna ozel seçilmiş kişilerden oluşturulan kuruldur. BDK'mın üyeleri, görevleri ve çalışma usül ve esasları Genel Müdürlük tarafindan belirlenir.
+**MADDE 13 –** (1) Ani gelişen halk sağlığı tehditlerine etkin mudahale amacıyla halk sağlığı tehdidi öncesinde veya tehdit esnasında risk değerlendirmeleri yapan ve risk oluşturan faktörlerle mücadeleye ilişkin tavsiyelerde bulunan, ülkenin hazırlıkhlık ve müdahale kapasitesini değerlendiren, alana özgü uzmanlıkları olan kişilerden oluşturulmuş genış uzman havuzundan acil durum konusuna ozel seçilmiş kişilerden oluşturulan kuruldur. BDK'mın üyeleri, görevleri ve çalışma usül ve esasları Genel Müdürlük tarafından belirlenir.
 
 #### Daire başkanlığının görevleri
 
@@ -172,7 +173,7 @@ a) Olayın niteliğine göre entegre süreyans kapsamnda görev alanında buluna
 
 b) Gorev alanındaki ani gelişen halk sağdığı tehditleriyle ilgili oluşturulacak ortak çalışma grubu toplanalarna katılır
 
-e) Görev alanındaki ani gelişen halk sağlığı tehditleriyle ilgili oluşturulacak Bilimsel Danışma Kuralu'na katılır.
+e) Görev alanındaki ani gelişen halk sağlığı tehditleriyle ilgili oluşturulacak Bilimsel Danışma Kurulu'na katılır.
 
 4) Görev alanındaki ani gelişen halk sağlığı tehditleriyle ilgili oluşturulacak salgın inceleme ekiplerinde görev alır
 
@@ -190,7 +191,7 @@ e) Halk Sağlığı Acilleri Operasyon Merkezi'nde görev ahır.
 
 #### EUC ortak operasyon grubu
 
-**MADDE 18 –** (1) Gerekli görüldüğu takdirde risk tipine güre Genel Müdürlük ilgili daire başkanlıklan ve riskin söz konusu olduğu ilin sağlık müdürluğü temsilcilerinin katılıma ile EUC Birimi tarafindan ortak operasyon grubu oluşturulur
+**MADDE 18 –** (1) Gerekli görüldüğu takdirde risk tipine güre Genel Müdürlük ilgili daire başkanlıklan ve riskin söz konusu olduğu ilin sağlık müdürluğü temsilcilerinin katılıma ile EUC Birimi tarafından ortak operasyon grubu oluşturulur
 
 (3) EUCS kapsamında ó no maddenin (h) bendinde yer alan olay, durum ve hastalıkların tespiti halinde UST DON irtibat kişisi çalışmalara başkanlık eder.
 
@@ -214,7 +215,7 @@ f) Önceliklendirilmiş ani gelişen halk sağlığı tehditlerine karşı il ha
 
 g) Il Sağhk Müdürlüğü ilgili birimleri, KBRN olayları kapsamında il Afet ve Acil Durum Müdürlüğü birimleri ile koordineli şekilde Ek-2'ye uygun olarak çalışır.
 
-g) Il Sağhk Müdürlüğü ilgili birimleri ilde var ise Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğu'nün ildeki birimi ile koordineli şekilde Ek-2'ye uygun olarak çalışır.
+g) Il Sağhk Müdürlüğü ilgili birimleri ilde var ise Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün ildeki birimi ile koordineli şekilde Ek-2'ye uygun olarak çalışır.
 
 h) Il düzeyinde veri ve bilgi kaynaklarını belirleyerek olay bazlı sürveyansı kurar ve
 

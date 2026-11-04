@@ -11,4 +11,3 @@ durum: "yürürlükte"
 
 6.3.49. Yenidoğanlarda K Vitamini Uygulaması Genelgesi (2021/11)
 
-(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338) (cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) ( / )

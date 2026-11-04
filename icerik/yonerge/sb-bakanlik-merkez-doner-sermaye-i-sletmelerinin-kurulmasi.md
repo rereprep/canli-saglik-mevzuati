@@ -8,29 +8,34 @@ etiketler: ["mali hizmetler", "döner sermaye", "mali işler"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1073-1077"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 11.2.6. Bakanlık Merkez Döner Sermaye İşletmelerinin Kurulması ve İşletilmesi Hakkında Yönerge
 
-### SAĞLIK BAKANLIĞI MERKEZ DÖNER SERMAYE İŞLETMESİNİN KURDIMASI VE IŞLETİ MESİ HAKKINDA YÔNERGE BİRİNCI BOLÜM Amaş, Kapsam, Dayanak ve Taamlar
+ MERKEZ DÖNER SERMAYE İŞLETMELERİNİN KURULMASI VE İŞLETİLMESİ HAKKINDA YÖNERGE
 
-#### Amaç ye lupsam
+## BİRİNCİ BÖLÜM
 
-**MADDE 1 –** (1) Bo yteerge, Sagli Bakanligı Merkez Diner Sermaye Iplemesi ile Baleme birimlerinin karumuem ve idetilwesine, Sağlık Balandıg He Bağhı Karolışfama Bağlı Döner Sermaye Iplemelerinden Merkeze Aktanlan Tutann Daglım ve Sarfina Dair Yönerge gereği aktantan tutarlar, Seyyal Güvenlik Kurumu tarafindan Götürü Bedel Hizmel Alım Sözlegmesi Kapsamtada Aktanlan tutarlar ile işletme tarafindan mahsil edilecek diğer gelirlerin bütçelegtirilmesi, dagımı, haraımas ye malavchesine ilşkin uygulanacak usul ve catalan sapsar.
+#### Amaç, Kapsam, Dayanak ve Tanımlar
 
-#### Hukuki dayanak
+#### Amaç ve kapsam
 
-**MADDE 2 –** (1) Hu yönerge, 209 Sayılı Sağhk Bakaningsna Bağlı Sağkk Kurumlan İlc Esılendinne (Rehabilitasyon) Tesislerine Verilecek Diner Bernaye Hakkinda Kanunun 1 vr 3 tavi maddeleri ile 663 Sayıı Sağhk Bakunkı ve Baglı Kuruluşlana Teşkilat ve Görovleri Hakkanda Kanım Hakıünd Karamamenin 17 nci madlesine dayatılarak hazrtanuн44
+**MADDE 1 –** (1) Bu Yönerge, Sağlık Bakanlığı Merkez Döner Sermaye İşletmesi ile bağlı birimlerinin kurulmasına ve işletilmesine, Sağlık Bakanlığına Bağlı Kuruluşlara Bağlı Döner Sermaye Iplemelerinden Merkeze Aktarılan Tutarların Dağılım ve Sarfina Dair Yönerge gereği aktantan tutarlar, Sosyal Güvenlik Kurumu tarafindan Götürü Bedel Hizmel Alım Sözlegmesi Kapsamtada Aktanlan tutarlar ile işletme tarafindan tahsil edilecek diğer gelirlerin bütçelegtirilmesi, dağıtımı, harcanması ve muhasebeleştirilmesine ilişkin uygulanacak usul ve esasları kapsar.
 
-**MADDE 3 –** (1) Bu убн dia sygulam asanda;
+#### Dayanak
 
-a) Baglı Kuruluş: Bukunlğa bağl Türkiye Kamu Hasteneleri Kurinie, Tirkişe Halk Pnglgi Kuramu ve Türkiye laç ve Tibbi Cihaz Kurumanu,
+**MADDE 2 –** (1) Bu Yönerge, 209 Sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkinda Kanunun 1 ve 3 üncü maddeleri ile 663 Sayıı Sağhk Bakunkı ve Bağlı Kuruluşlana Teşkilat ve Görovleri Hakkanda Kanım Hakıünd Karamamenin 17 nci madlesine dayanılarak hazırlanmıştır.
 
-b) Bakan: Sağ(k Bakanimı,
+**MADDE 3 –** (1) Bu Yönergede geçen;
 
-c) Bakunhk: Sağik Bakanhem
+a) Bağlı Kuruluş: Bakanlığa bağl Türkiye Kamu Hasteneleri Kurinie, Türkiye Halk Sağlığı Kurumu ve Türkiye İlaç ve Tibbi Cihaz Kurumanu,
 
-g) Bakankk Merkez Döner Semaye İyietmesl: Bakanlk bitnyesinde kurulan döner sermaye isletmesini.
+b) Bakan: Sağlık Bakanını,
+
+c) Bakanlık: Sağlık Bakanlığını
+
+g) Bakanlık Merkez Döner Sermaye İşletmesi: Bakanlk bitnyesinde kurulan döner sermaye isletmesini.
 
 d) Işlehne Birimi: 663 Sayıls Sagkk Bakanlğı ve Buğlı Kuraluylaru Tęşkila ve Görevleri Hakkında Kanma Hükmüede Karamamenin 7 aci maddesinde belirlenen Bakanlık merkez hizmet birtalerisi,
 

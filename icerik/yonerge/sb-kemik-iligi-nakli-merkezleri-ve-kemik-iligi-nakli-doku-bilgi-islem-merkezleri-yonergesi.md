@@ -8,6 +8,7 @@ etiketler: ["kemik iliği nakli", "kök hücre", "laboratuvar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 128-132"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.2.16. Kemik İliği Nakli Merkezleri ve Kemik İliği Nakli Doku Bilgi İşlem Merkezleri Yönergesi
@@ -16,25 +17,25 @@ ocr: true
 
 #### Kemik İliği Nakli Merkezlerinin Kurulması
 
-**Madde 5 –** (Değişiklik: 06.10.2005/8303) Kemik iliği nakli merkezleri kamu kurum ve kuruluşlarına veya özel hukuk tüzel kişilerine ve gerçek kişilere ait tam teşekküllü hastaneler bünyesinde kurulur.
+**MADDE 5 –** (Değişiklik: 06.10.2005/8303) Kemik iliği nakli merkezleri kamu kurum ve kuruluşlarına veya özel hukuk tüzel kişilerine ve gerçek kişilere ait tam teşekküllü hastaneler bünyesinde kurulur.
 
 Kemik iliği nakli merkezlerinin bulunduğu hastane bünyesinde;
 
 a) Doku tipleme laboratuvarı bulunmalı ya da ruhsatlı bir doku tipleme laboratuvarından hizmet alacağı,
 
-b) Sitogenetik laboratuvan bulunmalı ya da başka bir kurumdaki sitogenetik laboratuvarından hizmet alacağı,
+b) Sitogenetik laboratuvarı bulunmalı ya da başka bir kurumdaki sitogenetik laboratuvarından hizmet alacağı,
 
 belgelenmeli,
 
-c) 24 saat hizmet veren hematoloji ve biyokimya laboratuvan,
+c) 24 saat hizmet veren hematoloji ve biyokimya laboratuvarı,
 
 d) Histopatoloji,
 
 e) Radyoloji ve görüntüleme.
 
-f) Mikrobiyoloji laboratuarı,
+f) Mikrobiyoloji laboratuvarı,
 
-g) Kan ürünü desteği (eritrosit, trombosit ve diğer kan ürünleri, HLA uyumlu trombositler, filtre edılmiş veya CMV negatif kan ve kan ürünleri, ışınlanmış kan ürünleri).
+g) Kan ürünü desteği (eritrosit, trombosit ve diğer kan ürünleri, HLA uyumlu trombositler, filtre edilmiş veya CMV negatif kan ve kan ürünleri, ışınlanmış kan ürünleri).
 
 h) Eczane,
 

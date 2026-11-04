@@ -8,45 +8,46 @@ etiketler: ["afet yönetimi", "aadyym", "acil sağlık", "kriz yönetimi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 299-309"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 3.2.1. Sağlık Bakanlığı Afet ve Acil Durum Yönetim Merkezi Yönergesi
 
-### SAĞLIK BAKANLIĞI AFET VE ACİL DURUM YÖNETİM MERKEZİ (SAKOM-İL SAKOM) YÖNERGESİ
+### SAĞLIK BAKANLIĞI AFET VE ACİL DURUM YÖNETİM MERKEZİ (SAKOM) VE İL SAKOM YÖNERGESİ
 
 ## BİRİNCİ BÖLÜM Genel Esaslar
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönergenin amacı; Bakanlık Afet ve Acil Durum Yönetim Merkezi (SAKOM) ve İl Sağhk Müdürlüğü bünyesinde kurulan İl Sağlık Afet ve Acil Durum Yönetim - Merkezi (Il SAKOM)'un teşkilatlanması, kuruluşu, çalışma esasları ile görev, yetki ve sorumluklarımı düzenler.
+**MADDE 1 –** (1) Bu Yönergenin amacı; Bakanlık Afet ve Acil Durum Yönetim Merkezi (SAKOM) ve İl Sağlık Müdürlüğü bünyesinde kurulan İl Sağlık Afet ve Acil Durum Yönetim - Merkezi (İl SAKOM)'un teşkilatlanması, kuruluşu, çalışma esasları ile görev, yetki ve sorumluluklarını düzenler.
 
-**MADDE 2 –** (1) Bu yönerge; meydana gelebilecek afet ve acil durumlarda sağlik hizmetleri alanında yürütilen tüm çalışmaları, bu çalışmalarda görev alacak kamu, özel bukuk tüzel kişilerini, gerçek kişileri ve bunlar tarafından kurulan sağhk kurum ve kuruluşlarını ve bunların hizmetle ilgili olan bütün faaliyetlerini kapsar.
+**MADDE 2 –** (1) Bu Yönerge; meydana gelebilecek afet ve acil durumlarda sağlık hizmetleri alanında yürütülen tüm çalışmaları, bu çalışmalarda görev alacak kamu, özel hukuk tüzel kişilerini, gerçek kişileri ve bunlar tarafından kurulan sağhk kurum ve kuruluşlarını ve bunların hizmetle ilgili olan bütün faaliyetlerini kapsar.
 
-**MADDE 3 –** (1) Bu Yönerge; 10/07/2018 tarih ve 30474 sayıh Resmi Gazetede yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Karamamesinin 356 ve 508 inci maddeleri ile 19/02/2011 tarihli ve 27851 sayılı Resmi Gazetede yayımlanan Afet ve Acil Durum Yönetim Merkezleri Yönetmeliğine dayanılarak hazırlanmıştu.
+**MADDE 3 –** (1) Bu Yönerge; 10/07/2018 tarih ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 356 ve 508 inci maddeleri ile 19/02/2011 tarihli ve 27851 sayılı Resmî Gazete’de yayımlanan Afet ve Acil Durum Yönetim Merkezleri Yönetmeliğine dayanılarak hazırlanmıştır.
 
 #### Tanımlar ve kısaltmalar
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
-a) 112 AÇM: 112 acil çağnı hizmetlerinin yürütüldüğü 112 Acil Çağrı Merkezini,
+a) 112 AÇM: 112 acil çağrı hizmetlerinin yürütüldüğü 112 Acil Çağrı Merkezini,
 
 b) Acil sağlık hizmetleri: Acil hastalık ve yaralanma hallerinde, konusunda özel eğitim almış ekipler tarafından, tıbbi araç ve gereç desteği ile olay yerinde, nakil sırasında, sağlık kurum ve kuruluşlarında sunulan tüm sağlık hizmetlerini,
 
 c) AABT: Ambulans ve acil bakım teknikerini,
 
-ç) Acil durum: Toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ve acil müdahaleyi gerektiren olaylar ve bu olayların oluşturduğu kriz håli,
+ç) Acil durum: Toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ve acil müdahaleyi gerektiren olaylar ve bu olayların oluşturduğu kriz hâli,
 
 d) AADYM: Afet ve Acil Durum Yönetim Merkezini,
 
-e) Afet: Toplumun tamamı veya belli kesimleri için fiziksel, ekonomik ve sosyal kayıplar doğuran, normal hayatı ve insan faaliyetlerini durduran veya kesintiye uğratan, etkilenen toplumun baş etme kapasitesinin yeterli olmadığı doğa, teknoloji veya insan kaynaklı oluylanı,
+e) Afet: Toplumun tamamı veya belli kesimleri için fiziksel, ekonomik ve sosyal kayıplar doğuran, normal hayatı ve insan faaliyetlerini durduran veya kesintiye uğratan, etkilenen toplumun baş etme kapasitesinin yeterli olmadığı doğa, teknoloji veya insan kaynaklı olayları,
 
-1) ATT: Acil tip teknisyenini,
+1) ATT: Acil tıp teknisyenini,
 
 g) Bakanlık: Sağlık Bakanlığını,
 
-g) Başkan: Il Sağlık Müdürlüğü acil sağhk hizmetlerinden sorumlu başkanı,
+g) Başkan: İl Sağlık Müdürlüğü acil sağlık hizmetlerinden sorumlu başkanı,
 
-h) Başkanlık: II Sağhk Mudürluğu acil sağhk hizmetlerinden sorumlu başkanlığı,
+h) Başkanlık: İl Sağlık Müdürlüğü acil sağhk hizmetlerinden sorumlu başkanlığı,
 
 1) Başkanlık AADYM: İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığına bağlı Afet ve Acil Durum Yönetim Merkezini,
 
@@ -54,7 +55,7 @@ i) Başkan yardımcısı: Il Sağhk Müdürluğu acil sağlık hizmetlerinden so
 
 J) Genel Müdürlük: Acil Sağhk Hizmetleri Genel Müdürlüğünü,
 
-k) II grubu: Sağhk Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinde belirtilen il gruplannı,
+k) II grubu: Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinde belirtilen il gruplarını,
 
 I)I| SAKOM: II Saglık Afet Koordinasyon Merkezini,
 
@@ -104,7 +105,7 @@ DSAKOM *da bulundurulması gereken malzeme listesi Ek 3'te yer almaktadır.
 
 (2) Taşra Teşkilatında;
 
-a) II Sağhk Müdürlüğü acil sağhk hizmetleri begkanlığı veya bu görevi üstlenen başkanlığın bünyesinde 11, 12, 13, 14, 15 ve l6 grubu illerde II SAKOM Birimi kurulur. 17, 18 va 19 grubu illerde bu görev acil ve afetlerde sağhk hizmetleri birimi tarafindan yürütülar.
+a) II Sağlık Müdürlüğü acil sağhk hizmetleri begkanlığı veya bu görevi üstlenen başkanlığın bünyesinde 11, 12, 13, 14, 15 ve l6 grubu illerde II SAKOM Birimi kurulur. 17, 18 va 19 grubu illerde bu görev acil ve afetlerde sağhk hizmetleri birimi tarafindan yürütülar.
 
 1) Idari işler II SAKOM birimi tarafindan gerçekleştirilir.
 
@@ -112,21 +113,21 @@ a) II Sağhk Müdürlüğü acil sağhk hizmetleri begkanlığı veya bu görevi
 
 b) Il Sağhk Modürloğu acil sağhk hizmetlerinden sorumlu başkanlık tarafindan afet ve acil durunlarda II SAKOM birimi ile koordineli olarak SAKOM ve II AADYM'ye hizlı ve doğru veri akışını saglamak fizere;
 
-1) Ek 2 ve Ek 3'de belirtilen haberleşme alt yapıst ve fiziksel şartlar oluşturularak 11, 12, 13, 14, 15 ve 16 grubu illerde başkanlığa bağlı olarak Il SAKOM kurulur. II SAKOM 'da görev yapmak üzere tercihen tabip veya AABT, ATT ve hemşire unvenlarında personel görevlendirilir. Başkanlık tarafindan Il SAKOM 'da görevlendirilecek personelin isim ve iletişim bilgileri düzenli olarak her ayı ilk haftası SAKOM'a bildirilir. Sağlık KKM tarafından OYS bildirimi yapılan olaylar ile ilgili her türlü bilgi enlık olarak II SAKOM'a aktarılır.
+1) Ek 2 ve Ek 3'de belirtilen haberleşme alt yapıst ve fiziksel şartlar oluşturularak 11, 12, 13, 14, 15 ve 16 grubu illerde başkanlığa bağlı olarak İl SAKOM kurulur. II SAKOM 'da görev yapmak üzere tercihen tabip veya AABT, ATT ve hemşire unvenlarında personel görevlendirilir. Başkanlık tarafindan İl SAKOM 'da görevlendirilecek personelin isim ve iletişim bilgileri düzenli olarak her ayı ilk haftası SAKOM'a bildirilir. Sağlık KKM tarafından OYS bildirimi yapılan olaylar ile ilgili her türlü bilgi enlık olarak II SAKOM'a aktarılır.
 
 2) 17, 18 ve 19 grubu illerde 112 AÇM içcrisinde Sağlık KKM bunyesinde II SAKOM kurulur. II SAKOM 'da görev yapmak üzere Sağlık KKM bünyesinde görevli tercihen tabip veya AABT, ATT ve hemşire unvanlarında her nöbet için yeterli sayıda personel belirlenir. Ilgili personel olağan zamanlarda sorumlu olduğu iş ve işlemleri gerçekleștirir, afet ve acil durumlarda ise olayla ilgili veri akışımı sağlar. Başkanlık tarafindan II SAKOM 'da görevlendirilecek personelin isim ve iletişim bilgileri düzenli olarak her ayın ilk haftası SAKOM'a bildirilir.
 
-3) 17, 18 ve 19 grubu illerin talep etmesi ve Bakanlığın onayı ile 112 AÇM içerisinde yer alan Sağlık KKM'den bağımsız Il SAKOM kurulabilir.
+3) 17, 18 ve 19 grubu illerin talep etmesi ve Bakanlığın onayı ile 112 AÇM içerisinde yer alan Sağlık KKM'den bağımsız İl SAKOM kurulabilir.
 
-4) Afet ve acil durumun niteliğine göre gerekli görülen hallerde teknik ve idari çalışmalan yürütmek, alınacak önlemleri belirlemek ve bunların uygulanmasım takip etmek üzere Müdürlik birimlerinin yöneticileri Il SAKOM'da toplanı. Ihtiyaç duyulması halinde ilgili personel ve kuruluşlar davet edilir.
+4) Afet ve acil durumun niteliğine göre gerekli görülen hallerde teknik ve idari çalışmalan yürütmek, alınacak önlemleri belirlemek ve bunların uygulanmasım takip etmek üzere Müdürlik birimlerinin yöneticileri İl SAKOM'da toplanı. Ihtiyaç duyulması halinde ilgili personel ve kuruluşlar davet edilir.
 
-c) Sadece I1, 12, 13 grubu illerde Ihtiyaç halinde ilin talebi ve Bakanlığın uygun görmesi durumunda birden fazla II SAKOM kurulabilir. Birden fazla II SAKOM kurulan illerde II Sağ hk Müdürluğu tarafindan; gerekli iletişim ve haberleşme altyapısı sağlamır, veri akışının tek elden gerçekleştirilmesi amacıyla koordinatör Il SAKOM belirlenir.
+c) Sadece I1, 12, 13 grubu illerde Ihtiyaç halinde ilin talebi ve Bakanlığın uygun görmesi durumunda birden fazla II SAKOM kurulabilir. Birden fazla II SAKOM kurulan illerde II Sağ hk Müdürluğu tarafindan; gerekli iletişim ve haberleşme altyapısı sağlamır, veri akışının tek elden gerçekleştirilmesi amacıyla koordinatör İl SAKOM belirlenir.
 
 ş) Afet ve acil durumlarda sunulacak sağlık hizmetlerinin il düzeyinde yönetilebilmesi için müdürlüğün uygun gördüğu bir alanda yeterli kapasiteye sahip bir toplantı ve brifing salonu teşkil edilir.
 
-d) Il SAKOM'da görevli personel 7/24 esasına göre kesintisiz olarak görev yapar.
+d) İl SAKOM'da görevli personel 7/24 esasına göre kesintisiz olarak görev yapar.
 
-#### e) Il SAKOM 'da Ek 3'te belirtilen malzemeler İl Saglik Modarlugü tarafindan temin
+#### e) İl SAKOM 'da Ek 3'te belirtilen malzemeler İl Saglik Modarlugü tarafindan temin
 
 **MADDE 6 –** (L) SAKOM'un görevleri;
 
@@ -156,7 +157,7 @@ a) II SAKOM 'un her türlü idari hizmet ve faaliyetlerini yürütmek,
 
 b) Gelen-giden evrak kayıtlarımı tutmak,
 
-c) Il SAKOM 'da görevlendirilecek persopelin vardiya düzenini takip ederek, isim ve iletişim bilgilerini dizenli olarak her ayın ilk haftası SAKOM'a bildirmek,
+c) İl SAKOM 'da görevlendirilecek persopelin vardiya düzenini takip ederek, isim ve iletişim bilgilerini dizenli olarak her ayın ilk haftası SAKOM'a bildirmek,
 
 g) Gelen-giden evrak, bilgi notları, brifing kayıtler, basın içerikleri ve mesajlann kayılanmı tutmak,
 
@@ -164,9 +165,9 @@ d) Her türlü haberleşme sisteminin kayıt, gizlilik ve emniyetini sağlamak,
 
 e) Birim ve II SAKOM personelinin afet ve acil durum yönetimi konularında gerekli eğitim ve deneyimleri edinmesini sağlamak,
 
-f) Birim ve Il SAKOM'un her türli araç, gereç, cihaz ve malzeme ihtiyaçlarım talep etmek ve bunların faal durumda bulundurulmasın sağlamak,
+f) Birim ve İl SAKOM'un her türli araç, gereç, cihaz ve malzeme ihtiyaçlarım talep etmek ve bunların faal durumda bulundurulmasın sağlamak,
 
-g) Ihtiyaç duyulabilecek iletişim bilgilerinin güncel halde tutulmasu sağlamak ve Il SAKOM ile paylaşmak.
+g) Ihtiyaç duyulabilecek iletişim bilgilerinin güncel halde tutulmasu sağlamak ve İl SAKOM ile paylaşmak.
 
 g) 1l Saghk Mudürü ve acil saghk hizmetlerinden sorumlu başkan tarafindan verilecek diğer ilgili görevleri yürütmek.
 
@@ -180,7 +181,7 @@ c) Afet ve acil durumlarda OYS yazılım programının kullamlmasını sağlamak
 
 g) Afet ve acil durum tatbiketlarına katılmak,
 
-d) Il SAKOM 'da kullanılan araç ve gereçlerin günlük takibini yaparak, tespit edilen sorunlann giderilmesi için ilgili birimleri bilgilendirmek ve ahnacak talimatlara göre gerekli girişimleri başlatmak,
+d) İl SAKOM 'da kullanılan araç ve gereçlerin günlük takibini yaparak, tespit edilen sorunlann giderilmesi için ilgili birimleri bilgilendirmek ve ahnacak talimatlara göre gerekli girişimleri başlatmak,
 
 e) SAKOM ile HF telsiz çevrimini yupmak, I) SAKOM ile uydu telefonu çevrimi yapmak,
 
@@ -268,7 +269,7 @@ d) Afet ve acil durumlarla ilgili medyada yer alan haberleri üst yöneticilere 
 
 (2) I| SAKOM 'da bulunması gereken haberleşme malzeme listesi Ek 2'de yeralmaktadır.
 
-(3) SAKOM ve Il SAKOM 'da afet ve acil durumun izlenebilmesi ve etkin müdahale için, imkanlar dahilinde sesli ve görüntilü sistemler bulundurulmalıdır.
+(3) SAKOM ve İl SAKOM 'da afet ve acil durumun izlenebilmesi ve etkin müdahale için, imkanlar dahilinde sesli ve görüntilü sistemler bulundurulmalıdır.
 
 (4) SAKOM ve II SAKOM 'da bulunan haberleşme cihaz, araç ve gereçlerinin bakim, onarım, temin ve tesis hizmetleri gerçekleștirilmelidir. Personel hizmetleri
 
@@ -280,7 +281,7 @@ d) Afet ve acil durumlarla ilgili medyada yer alan haberleri üst yöneticilere 
 
 (2) II SAKOM 'un bilgi iştem ve haberleşme cihaz, araç ve gereçlerinin temini, kurulumu, bakunı ve onarımı II Sağlık Modürloğü tarafindan yapılır veya yaptırılır.
 
-**MADDE 17 –** (1)SAKOM ve Il SAKOM' da afet ve acil durumlarda planlama, karar, icra, kontrol, koordinasyon ve işbirliğinin etkin ve verimli bir biçinde yürttülebilmesi için, vardiya devir, planlama/durum, karar ve açılış/kapenış brifingleri verilir.
+**MADDE 17 –** (1)SAKOM ve İl SAKOM' da afet ve acil durumlarda planlama, karar, icra, kontrol, koordinasyon ve işbirliğinin etkin ve verimli bir biçinde yürttülebilmesi için, vardiya devir, planlama/durum, karar ve açılış/kapenış brifingleri verilir.
 
 a) Vardiya devir brifingi: Vardiya, degişim satinden yarm suat önce, devredecek personel tarafindan vardiyayı devralan personele verilir. Briting önceki vardiyada gerçekleşen olaylan kapsar. Süresi ve zamarı duruma göre belirlenir.
 
@@ -288,13 +289,13 @@ b) Planlama/Durum brifingi: Son olarak: verilen brifingden sonra geçen süre i�
 
 c) Karar brifingi: Karar almayı gerektiren hallerde yapılır. Süresi ve zamanı duruma göce
 
-g) Açılış/Kapanış brifingi: Afet ve acil durumu meydana getiren olay hakkında üst yöneticiler ile SAKOM ve Il SAKOM 'da görev yapan personelin bilgilendirilmesi, afet ve acil durumun sona ermesi halinde ise sonuçla ilgili verilen brifingdir.
+g) Açılış/Kapanış brifingi: Afet ve acil durumu meydana getiren olay hakkında üst yöneticiler ile SAKOM ve İl SAKOM 'da görev yapan personelin bilgilendirilmesi, afet ve acil durumun sona ermesi halinde ise sonuçla ilgili verilen brifingdir.
 
 ## DÖRDÜNCÜ BÖLÜM Kayit ve Dokümanlar
 
 #### Brifing dosyası
 
-**MADDE 18 –** (1) SAKOM ve Il SAKOM biriminde afet ve acil durumlara ilişkin bilgi vermek amacı ile hazırlanan brifinglerin yer aldığı dosyadır.
+**MADDE 18 –** (1) SAKOM ve İl SAKOM biriminde afet ve acil durumlara ilişkin bilgi vermek amacı ile hazırlanan brifinglerin yer aldığı dosyadır.
 
 #### Olay akış çizelgesi (ceride)
 
@@ -390,7 +391,7 @@ a) Kamu, özel kurum ve kuruluşlar ile gerşek kişiler gerekli haber, bilgi ve
 
 b) SAKOM sorumlusu ve II SAKOM Birim Sorumlusu, istenen raporlanın zamamnda ve uygun şekilde gönderilmesi hususunda gerekli önlemleri almaktan sorumludur.
 
-c) 112 Acil Çağn Merkezi içerisinde yer alan Sağlık KKM, yataklı tedavi hizmeti sunan kamu, özel, üniversite, belediye, vakıflara ait hastaneler, Ek 6' da yer alan afet ve acil durum kriterleri doğrultusunda OYS'nin aktivasyonunu saglamak için Il SAKOM'a ivedi olarak bilgi vermekten sorumludur. Bakanliğa bağlı hastanelerde, üniversite hastaneleri ve belediye hastanelerinde hastane başhekimi, özel hastanelerde mesul müdür OYS girişerinin yaptınimasından sorumludur.
+c) 112 Acil Çağn Merkezi içerisinde yer alan Sağlık KKM, yataklı tedavi hizmeti sunan kamu, özel, üniversite, belediye, vakıflara ait hastaneler, Ek 6' da yer alan afet ve acil durum kriterleri doğrultusunda OYS'nin aktivasyonunu saglamak için İl SAKOM'a ivedi olarak bilgi vermekten sorumludur. Bakanliğa bağlı hastanelerde, üniversite hastaneleri ve belediye hastanelerinde hastane başhekimi, özel hastanelerde mesul müdür OYS girişerinin yaptınimasından sorumludur.
 
 (3) Afet ve acil durun hallerine göre hazırlanp gönderilecek raporlar şunlardır:
 
@@ -404,7 +405,7 @@ c) 11 SAKOM Afet ve Acil Durum Bilgi Notu: El 7/c
 
 a) SAKOM: Raporlar, ilgili kişiler tarafindan hazırlandıktan, vardiya sorumlusu tarafindan değerlendirildikten sonra SAKOM sorumlusuna sunulur. SAKOM sorumlusu tarafindan Afet ve Acil Durum Yönetimi Daire Başkanı veya Genel Müdüre sunulup onaylandıktan sonra mesaj formu ekinde Başkanlık AADYM'ye ivedi olarak günderilir.
 
-b) Il SAKOM: Raporlar, ilgili kişiler tarafinden hazırlandıktan, vardiya sorumlusu tarafindan değerlendirildikten sonra II SAKOM birim sorumlusuna sunular. II SAKOM birim sorumlusu tarafınden başkana sunulur. İl Sağlık Müdürü veya başkan tarafindan onaylanır ve mesaj formu ekinde Il Afet ve Acil Durum Yünetim Merkezi'ne ve SAKOM'a ivedi olarak gönderilir.
+b) İl SAKOM: Raporlar, ilgili kişiler tarafinden hazırlandıktan, vardiya sorumlusu tarafindan değerlendirildikten sonra II SAKOM birim sorumlusuna sunular. II SAKOM birim sorumlusu tarafınden başkana sunulur. İl Sağlık Müdürü veya başkan tarafindan onaylanır ve mesaj formu ekinde Il Afet ve Acil Durum Yünetim Merkezi'ne ve SAKOM'a ivedi olarak gönderilir.
 
 ## YEDİNCİ BÖLÜM Son Hükümler
 

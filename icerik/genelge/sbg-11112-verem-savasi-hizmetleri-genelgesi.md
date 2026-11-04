@@ -7,15 +7,18 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11112/verem-savasi-hizmetleri-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## T. C. SAĞLIK BAKANLIĞI VEREM SAVAȘI DAIRESI BAŞKANLIĞI
+### T.C. SAĞLIK BAKANLIĞI
+
+Verem Savaşı Dairesi Başkanlığı
 
 Metet .
 
-### VEREM ŞAVAŞI HİZMETLERİ İLE İLGILİ GENELGELER
+### VEREM SAVAŞI HİZMETLERİ İLE İLGİLİ GENELGELER
 
-### SAĞLIK VO BOSLAL YARDIH T.C. BACALIDI ALILARA
+
 
 Verm Severa Dai Taske 25.7.1982 Vn.Diap.5i 5300-2220 Tii / Voraa pavogando
 
@@ -43,17 +46,17 @@ derinizi Face ederim
 
 hununu, co 12 gi 111ere !
 
-### PATT.
+
 
 Ц2S0A ** A.
 
 TToC.
 
-### SAGLIK VE :SOSSAL SARDIM
+### SAĞLIK VE SOSYAL YARDIM
 
 : - HAKANLIGI нэто Teftig Kurulu Bakanlığa 30/437961989 on : Dernekler c.
 
-### VENEN SAVASI DALIR RAPTANLIOT
+### VEREM SAVAŞI DAİRE BAŞKANLIĞI
 
 akanlığıize bağli kurum va hurulugjațın bünyesınde çeşıtii cimlar altında kurulmış bulunan yardın dernekleri faaliyet göstermehtecir.
 
@@ -93,7 +96,7 @@ Prof. DI. Haya CHIÇTUGA:
 
 T.C.
 
-### SAGLIK VE SO: YAL LADIN
+### SAĞLIK VE SOSYAL YARDIM
 
 B/1101 {2X- Verem Savasi Genel
 
@@ -143,7 +146,7 @@ KONU : Tüberkülozlular Hakkında 6 MART 1985
 
 Seřlık ve Sodyel Yardın MudurlUŞU ;
 
-Erken teghia ve duzgun tedavi Verem Savagınin temel ilkele-
+Erken teghia ve duzgun tedavi Verem Savaşınin temel ilkele-
 
 r1dir. Erken teghie, saflik personelinin IDC semptomlars hakkinda
 
@@ -229,7 +232,7 @@ Konu: Tüberküloz ihbarn
 
 ### .VALILIC1
 
-Sařtık ye Sosyal Yerdım Hudurlu i:
+Sağlık ye Sosyal Yerdım Hudurlu i:
 
 IIGI: 6.3/2985 tarih ve 5300/394 sayıli genelgemize ek.
 
@@ -245,7 +248,7 @@ ecektir.
 
 , 3 czaneler Ek I'de belirtilen, Verem ilaçler; hari bir repete caldiğinde hasfann Adı Soyndijev veya jo adresini ve receteyi yazan serbert herimin veja regetenta ait oldužu saglik kurulugunun adını bir listere kufdeverek ayin sonunda ti sallıl ve Soșyal Yardım budurlu une gonderéceklerdir..
 
-4)11 Saflik ve Sosyal Yardin Nudurlu/u Bulogıoı bastalıklar rubeei ve Eczacilık qubesi gelen ihbarlari, eoganelerden gönderilen ileteleri karşılaşțirarak' ilgili Verem Savagı Dispenserlerine bil- Gireceklerdir.
+4)11 Saflik ve Sosyal Yardin Nudurlu/u Bulogıoı bastalıklar rubeei ve Eczacilık qubesi gelen ihbarlari, eoganelerden gönderilen ileteleri karşılaşțirarak' ilgili Verem Savaşı Dispenserlerine bil- Gireceklerdir.
 
 A) Eczaneden gelen listede yazilı hastaları bildirmenig olan serbest herinler ve baştabiplikler yazıli olarek uyarılacaktar.Yazılı urarzya ragmen baste ihbarını ihmal edenler hakkınds Umumi Hıfzisaihha T-nu.uıun 212,514,115, 116 neddelęr1 üyarınce yesuł lylem yegsonak.
 
@@ -309,7 +312,7 @@ Verem Savaşı Daire DagLanlağı Fey::VS:D1ep.Qb.5300/ 600 ANC1L onu: Dispanser
 
 Seklak ve . Sosyal Yardım MudürLuKt:
 
-Verem Savagı Dairesi Bupkanlıüınca, divpanserlerde Uzcrinde önemle durulunaz gereren ve ûitletli bir dioponscr hekimi ve personelince, yerine getirildiği takdirde, dispanserlerin Verem Soveşındaki baçarı. ve katkısını artıracck hususlar eşa"'da çıkarilunştar.
+Verem Savaşı Dairesi Başkanlığınca, divpanserlerde Uzcrinde önemle durulunaz gereren ve ûitletli bir dioponscr hekimi ve personelince, yerine getirildiği takdirde, dispanserlerin Verem Soveşındaki baçarı. ve katkısını artıracck hususlar eşa"'da çıkarilunştar.
 
 Tüberküloz tedaviei, uzun sureli, kombine ve düzçün ilaç kullanne escsina dayenır,leteraiz ve duzensiz tedavi, hastalañan kroni!legmesine ve ilaglera direnç gelişmesinc yol apmaktadir, dalen ulkemizde toplunun Ba/liřanı buyük ölçüde tehdit eden ve Veren Savagandaki en biyuk problem, kronik hastalerůir, Bugunku etkin ileçlcflc hustaların șikayctleri kısa surege raybolmakte ve hastalar iyileştiklerini banmaktacirler. Vereule Savaş bir bakına, gikcyetleri seçen bu tür hastalara uzun pure ve dusenli 1lag kullandarma savașidir. bunun için de tedavi sorunluluğunu yuklenen dispanser hekini ve yanında calışan yaraınca sağlık görevlileri butün giç, bilki ve becerilerini ortayc koyarak hastalorın bu duruma celmelerıni önleseye peligcla, hastalara, hostalı- Éı ve tedavisi hakkında gerekli bilgi verilerek, hostalar ve gevresi "' eĞitilmeli, "İSBİRLIĞİ YARTAN LASTA" kavranı silinnelidir.
 
@@ -605,7 +608,7 @@ Mustegar
 
 27.02.15-5
 
-### ••• VALILIGI (Saglik LUdUrlLğU)
+### ••• VALILIGI (Sağlık LUdUrlLğU)
 
 İLGI: 13 Kesım 1989 torih, Verem Şevag Daire BagkauliÈ1 . Sata Hisn. Şb/5320-1010 sayıla genelge. SICI' de kayitlı Genelgeyle BCC agisınin 11 ve 1lçe perke? nic Coğlık Ocaklarıy köylerde ise Veren Savap Dispanserkori ve F20 Cmpiari tarafindan qygulanacaği bildirilmigti. BCG agı vygulamaları aşağıda verılen açıklamalar doğr-tu oirdurlecekt1F: 1 1- Tün yerlegim merkezlerinde BOG apısı 5-6 yıl erulıllclo ing kader her ppouga 4 kez uygulannoaktir. Agının yapilması gereken yaglar ve dönemler
 
@@ -817,7 +820,7 @@ Bu form hastanin sevk edildigi hasteneden taburen edil: sirasınde dört nüsha 
 
 ### SAĞLIK BAKANLIÖI
 
-Verem Savagı Deire Bagkanlığı CAYI: Y.S. Sạhe H1&D. Sp/5320174 ANKARA YON: BOO Agilara GElignelera 29.6.2990
+Verem Savaşı Deire Bagkanlığı CAYI: Y.S. Sạhe H1&D. Sp/5320174 ANKARA YON: BOO Agilara GElignelera 29.6.2990
 
 Entegrasyonu
 
@@ -1123,19 +1126,19 @@ e) Tuberkülin testi, yapma re vauma larda pinr sayıeıns bakılarak 2 sterı o
 
 tuberki ł baklase tanle unlanan Yeren aras pimer era,
 
-oaoso2oda Täılnalera neydan vermemek ve Veren Savagı Dispanserlerinin rutin 1glerini akeatmanak anncıyla askere sevk sırasınåa da bölgesindeki Askerlik Şubesi Bagkanlıklnr2 ile temasa geçerek sevke tabi Jükunlulerin sevk taribinden bir ay brce Verem Savagı Dispanserlerine mUracaatlarinin sağlanmasinda ber türlu bazzrlzži ve gerčkit kolaylıkı saklar.
+oaoso2oda Täılnalera neydan vermemek ve Veren Savagı Dispanserlerinin rutin 1glerini akeatmanak anncıyla askere sevk sırasınåa da bölgesindeki Askerlik Şubesi Bagkanlıklnr2 ile temasa geçerek sevke tabi Jükunlulerin sevk taribinden bir ay brce Verem Savaşı Dispanserlerine mUracaatlarinin sağlanmasinda ber türlu bazzrlzži ve gerčkit kolaylıkı saklar.
 
-**Madde 2 –** Askerlik Şubelerine son yeklana için pağırılan yukümlulerin mai de 1 de belirtilen tetkik ve kontrolu sırasında ileri tetkik gerektiren (mikrof1ln, standart film, balgan tetkiki V.6.) gUpholi adayların 1leri tetkiklerini yapar, kaydını alır, kodler, basta güphelilerin Askerlik Şubesinoe askeri hastanelere sevkini izler, sekeri hastahanelerce askere alınmayan ( çurüğe ayrılma, sevk tehiri vb.) durumlarda bu tlir hasta ve- Ja baste gupbelilerin talip ve todarieini pagler. kadde 3: Askerlik Şubelerine son yoklana 1çin çeğırılan yükumlulerin Verem Savagı Dispanserlerinde tüberküloz yünunden sağlam veya hasta olsu mutlake bir bežlik raporu hazırlenarak, bu raporun Askerlik fubelerine gönderilmesini sagler. Hadde 4: Askerlik Şubelerinden doğrudan Aceni Er Eğitim Herkez ve Birliklerine sevk edilen veya dispanser kontrolünden germeden Acemt Er Eğitim Bırlıklerine sevk edilen yukümlulerle (yoklama kaçağı, bakaya, saklı vę bașka sebeplerle dahil) noemi Er Iğitim Birliklerinde, kontrolden géçtediğ1 kit'a tabibinre saptanen erlerin veren bastaliğı bakımınden inceler mesi 1çin 1982-1983 yillarinda
+**Madde 2 –** Askerlik Şubelerine son yeklana için pağırılan yukümlulerin mai de 1 de belirtilen tetkik ve kontrolu sırasında ileri tetkik gerektiren (mikrof1ln, standart film, balgan tetkiki V.6.) gUpholi adayların 1leri tetkiklerini yapar, kaydını alır, kodler, basta güphelilerin Askerlik Şubesinoe askeri hastanelere sevkini izler, sekeri hastahanelerce askere alınmayan ( çurüğe ayrılma, sevk tehiri vb.) durumlarda bu tlir hasta ve- Ja baste gupbelilerin talip ve todarieini pagler. kadde 3: Askerlik Şubelerine son yoklana 1çin çeğırılan yükumlulerin Verem Savaşı Dispanserlerinde tüberküloz yünunden sağlam veya hasta olsu mutlake bir bežlik raporu hazırlenarak, bu raporun Askerlik fubelerine gönderilmesini sagler. Hadde 4: Askerlik Şubelerinden doğrudan Aceni Er Eğitim Herkez ve Birliklerine sevk edilen veya dispanser kontrolünden germeden Acemt Er Eğitim Bırlıklerine sevk edilen yukümlulerle (yoklama kaçağı, bakaya, saklı vę bașka sebeplerle dahil) noemi Er Iğitim Birliklerinde, kontrolden géçtediğ1 kit'a tabibinre saptanen erlerin veren bastaliğı bakımınden inceler mesi 1çin 1982-1983 yillarinda
 
-gönderilen genelgelerle yerleri belirti-. len Gez1o1 Röntgen Veren Tarana Eklpler1 tarafından veya en Jakın Veren Savagi Dispanserlerinoe 1leri, tetkiklerinin yspılmasını sačler, Maddo 5: Askeri bastanelerde yatarak tedavisini tabanlayan arlerin terhislerinde ayaktan tedarilerini saglamak anacıyla ikametgah adroslerine göre bağlı bulundukları Verem Savagı Dispanserleripce takibini soğlar,
+gönderilen genelgelerle yerleri belirti-. len Gez1o1 Röntgen Veren Tarana Eklpler1 tarafından veya en Jakın Veren Savagi Dispanserlerinoe 1leri, tetkiklerinin yspılmasını sačler, Maddo 5: Askeri bastanelerde yatarak tedavisini tabanlayan arlerin terhislerinde ayaktan tedarilerini saglamak anacıyla ikametgah adroslerine göre bağlı bulundukları Verem Savaşı Dispanserleripce takibini soğlar,
 
-**Madde 6 –** Mevcut Veren Savaşı Dipsoserlerinin yerini gösteren liste ve daha booeden yerleri, alreleri ve oğitin dönemleri belirlenmiø olan Er ' Eğitin Merkezlerinde hangi verem savaę ekibinin görevlendirildığini Mill: Savunma Bakanlığına bildirir. Wadde 7: Avemi Er Eğitim Birliklerínde tetkik ve kontrol esasları madde 1 de belirtilen esaslar içinde yapılır. Dispanserlerin ve Gezici löptgen
+**Madde 6 –** Mevcut Verem Savaşı Dipsoserlerinin yerini gösteren liste ve daha booeden yerleri, alreleri ve oğitin dönemleri belirlenmiø olan Er ' Eğitin Merkezlerinde hangi verem savaę ekibinin görevlendirildığini Mill: Savunma Bakanlığına bildirir. Wadde 7: Avemi Er Eğitim Birliklerínde tetkik ve kontrol esasları madde 1 de belirtilen esaslar içinde yapılır. Dispanserlerin ve Gezici löptgen
 
 ### ILLI SAVULA BAZATIĞINA AÎT TURUILULUKER
 
 o 8: H1ll1 Savunce Intanlığı Askerlik Şubelerinin 18im, yer ve han cogin yerlerine hizmet verdiğini gösteren çizelgeleri Sağlık ve Sos. raio Bakarlağana görderír; 'iddo 9: Acemi Er Dftim lierkez Tomutaalikları 1le Fğitim Bir11k Kamut‹ Gerınan isio yer ve eğitim süreleri 1le eğitin dönemlerini bir çize. Zitde Sežlał Yo Sąszol Yardın Bekenliğina gönderir, såe 10: Ackerlik jubelerınce, son yoklamaya çağrılan yukümlülerin tu Akn bölgedeki Veric Savcen Dispanserlerinde muayeneden gegirilmesini
 
--sălamal amaciyla sévk taribifen bir ay Unco bölge Verem Savagı Dispa ser1 lle irtibata geșirilnesi ve doordineayonun sağlanması 1gin her tu ill tedbir Te baczritéz yapar. ligâde 11: Er Egitin L'erkez vo Birlik Komutanlaklori, Birliklerinde son votlona esnasinda varen toracagindan geçmemig erleri tespit ederck, bur ¿erin veren taramaşını yaptırmak Uzere Sağlık ve Sosyal Yardın Bakanlı ce görevlendirilen Veren Savagı ükipleriyle. temas kurar, eğitim aüreni baglangioinda bu erlerin Seflık ve Souyal Yerdım Dakanličının belirtti : sesler 1giude terapalarin tekip ve tenin eder. Ayrioa, Ir Eğitin Bir ILlerinde uygulańacak veren'taramasının ofitim dönemlerinin ilk aylar : yapılmagını pimnleyarak, tüberkUloz guphelilerinin en kısa zumanda
+-sălamal amaciyla sévk taribifen bir ay Unco bölge Verem Savaşı Dispa ser1 lle irtibata geșirilnesi ve doordineayonun sağlanması 1gin her tu ill tedbir Te baczritéz yapar. ligâde 11: Er Egitin L'erkez vo Birlik Komutanlaklori, Birliklerinde son votlona esnasinda varen toracagindan geçmemig erleri tespit ederck, bur ¿erin veren taramaşını yaptırmak Uzere Sağlık ve Sosyal Yardın Bakanlı ce görevlendirilen Veren Savagı ükipleriyle. temas kurar, eğitim aüreni baglangioinda bu erlerin Seflık ve Souyal Yerdım Dakanličının belirtti : sesler 1giude terapalarin tekip ve tenin eder. Ayrioa, Ir Eğitin Bir ILlerinde uygulańacak veren'taramasının ofitim dönemlerinin ilk aylar : yapılmagını pimnleyarak, tüberkUloz guphelilerinin en kısa zumanda
 
 -neye sevk edilip terena sonuçlarini o ay 1çinde IK: B formu ile Eğit irličinin bağlı ¡bulunduğu Lavvet Sağlık Daire Bagkanlığı 1le Mill1 Sa runma Bakaniığı Sašlik, re Veteriner Dairesi bagkanlığıne gönderir. adde 22: milli Savunma Bakanlığıne bağlı seğlık kuruluşlarınde Sağlık : Sosyal lerdın bazanliğınie verem tedavisi 1çin uygulanan standart t "1 rejinleri ayre: tatbik edilir, Ayrıca Br Eğitin Herkez ve Birlik mutanliklarande mikruílin :cihazi novçut olduğunde, bu cihazlarle mik
 

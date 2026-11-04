@@ -8,19 +8,19 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103636/mal-bildirimleri-konulu-genelge-201820.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Mal bildirimlerinin verilme zamanı ve usulüne ilişkin açıklamaları düzenler."
 ---
 
 9.3.7. Mal Bildirimleri Konulu Genelge (2018/20)
 
-### g ( / )
 
-992
 
 T.C.
 
 ### SAĞLIK BAKANLIĞI
 
-Yönetim Hizmetleri Genel Müdürlüğü TC Sogik Bakanagı Sayı : 82040698/ Konu : Mal Bildirimleri
+Yönetim Hizmetleri Genel Müdürlüğü Sayı : 82040698/ Konu : Mal Bildirimleri
 
 4) Her türlü kara, deniz ve hava taşıt araçları, traktör, biçer-döver, harman makinası ve diğer ziraat makinaları, inşaat ve iş makinaları, hayvanlar, koleksiyon ve ev eşyaları ile diğer taşınır malları,
 
@@ -28,13 +28,13 @@ Yönetim Hizmetleri Genel Müdürlüğü TC Sogik Bakanagı Sayı : 82040698/ Ko
 
 7) Borçları,
 
-8) Gelirleri, Mal bildirimine konu teşkil etmektedir. Mallar, mal bildirimi tarihindeki değerleri esas alınmak suretiyle beyan edilecektir. Mal bildirimlerinde (b) bendinde belirtilen mal, hak, alacak, borç ve gelirlerin ayrı ayrı toplam değerleri gösterilecektir. Mal bildiriminde bulunmakla yükümlü personel, eşinin 3628 sayılı Kanun kapsamında olması halinde, her birinin ayrı ayrı mal bildiriminde bulunması ve eşlerden her birinin, eşi ile velayeti altındaki çocuklarına ait malları da ayrıca bildirecektir.
+8) Gelirleri, Mal bildirimine konu teşkil etmektedir. Mallar, mal bildirimi tarihindeki değerleri esas alınmak suretiyle beyan edilecektir. Mal bildirimlerinde (b) bendinde belirtilen mal, hak, alacak, borç ve gelirlerin ayrı ayrı toplam değerleri gösterilecektir. Mal bildiriminde bulunmakla yükümlü personel, eşinin 3628 sayılı Kanun kapsamında olması hâlinde, her birinin ayrı ayrı mal bildiriminde bulunması ve eşlerden her birinin, eşi ile velayeti altındaki çocuklarına ait malları da ayrıca bildirecektir.
 
 3. Mal Bildiriminin Verilme Zamanı Mal bildirimlerinin;
 
 a) 3628 sayılı Kanun kapsamında bir göreve ilk defa veya yeniden atanmada, atamaya esas belgelerle birlikte,
 
-b) Görevin sona ermesi halinde, görevden ayrılma tarihini izleyen bir ay içinde, ¢) Mal varlığında önemli bir değişiklik olduğunda bir ay içinde (Ek Mal Bildirimi), verilmesi zorunludur. Sonu (0) ve (5) ile biten yılların en geç Şubat ayı sonuna kadar mal bildirimlerinin yenilenmesi zorunludur. Mal bildiriminde bulunmakla yükümlü personelin eşleri, velayeti altındaki çocukları ve kendilerinin şahsi mal varlıklarında önemli bir değişiklik olduğunda, değişikliği izleyen bir ay içinde yeni edindikleri mal, hak, gelir, alacak ve borçlara münhasır olmak üzere ek mal bildirimi vermeleri zorunludur.
+b) Görevin sona ermesi halinde, görevden ayrılma tarihini izleyen bir ay içinde, c) Mal varlığında önemli bir değişiklik olduğunda bir ay içinde (Ek Mal Bildirimi), verilmesi zorunludur. Sonu (0) ve (5) ile biten yılların en geç Şubat ayı sonuna kadar mal bildirimlerinin yenilenmesi zorunludur. Mal bildiriminde bulunmakla yükümlü personelin eşleri, velayeti altındaki çocukları ve kendilerinin şahsi mal varlıklarında önemli bir değişiklik olduğunda, değişikliği izleyen bir ay içinde yeni edindikleri mal, hak, gelir, alacak ve borçlara münhasır olmak üzere ek mal bildirimi vermeleri zorunludur.
 
 4. Birden Fazla Mal Bildirimi Asli görevleri ile beraber ikinci bir görevi yürütenler sadece asli görevlerinden dolayı tek mal bildirimi verecekler.
 

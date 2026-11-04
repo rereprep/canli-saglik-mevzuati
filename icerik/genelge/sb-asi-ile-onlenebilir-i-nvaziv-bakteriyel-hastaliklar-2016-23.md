@@ -9,19 +9,22 @@ etiketler: ["halk sağlığı", "aşı", "bağışıklama"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 617-619"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.20. Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansı Genelgesi (2016/23)
 
-### T.C. BAGLIK BAKANLIC Türkiye Halk Sağlğ Kurumı
+### T.C. SAĞLIK BAKANLIĞI
+
+Türkiye Halk Sağlığı Kurumu
 
 we golen Sad.
 
-### EZANU RO
+### VALİLİĞİNE
 
 Say: : 21001706 Konu : Api le Önlenebilir Imazis Bakteriyel
 
-Hastalıklar Süreyansı Genelgesi
+Hastalıklar Sürveyansı Genelgesi
 
 1) Aş ile Onlenebilir Invaziv Bakteriyel Hastalıklar Söreyansmu amaçlan:
 
@@ -45,7 +48,7 @@ i) Ivazi meningokokal hastalık ve invazis Aw/lenzo vakalan ile temas eden kişi
 
 j) lavazis poémokokal hastalik sakalurnan kümelenme durumunun belirlenmesi ve gerektiğinde kontrol önlemlerinin altımasan sağlamuk olarak beärlenmiştir.
 
-21 Bildirimi zorunlu bulaşe bastadilarn obe panelindeki bildirimi Balaşie Hamalıkların Pahar ve Bildirim Sikemi Genelgesi (2015-18) kapsanunda yürütülmckledir. Aşı ile Onlenebilir Invaziv Bakteriyel Hastahklau Sürveganaı kapsamında ver alan hastahklanın hildirimi Türkiye Halk Sağlğı kurunu {TUSK| tarufundan sayılanda Aşı ile Önlenebilir Invaziv Bakteriyel Hastalıklann Süreyansı Rehberi ne uygun olarak ulusıl sürveyans yamu stra belirlenmiş illerde toplum temelli aktif atrveyans ile yapılacaktır.
+21 Bildirimi zorunlu bulaşe bastadilarn obe panelindeki bildirimi Balaşie Hamalıkların Pahar ve Bildirim Sikemi Genelgesi (2015-18) kapsanunda yürütülmckledir. Aşı ile Onlenebilir Invaziv Bakteriyel Hastahklau Sürveganaı kapsamında ver alan hastahklanın hildirimi Türkiye Halk Sağlğı kurunu {TUSK| tarufundan sayılanda Aşı ile Önlenebilir Invaziv Bakteriyel Hastalıklann Sürveyansı Rehberi ne uygun olarak ulusıl sürveyans yamu stra belirlenmiş illerde toplum temelli aktif atrveyans ile yapılacaktır.
 
 a) Ulusal süreyans kapsamnda
 
@@ -55,11 +58,11 @@ Elke genelinde hizmet veren tüm pataklı tedavi kuram ve kuruluşlarından vaka
 
 b) Toplum temelli aktil'sürevans kapsatunda: Ankara. Bursa. Samsu, Gazlantep te kmir illerinin merkez ilçelerindeki belirlenmiş olan hastanelerden; vaku sutlamusı süpheli. olas, kesin olan imazis meningokokal hastalıklar, imazi prömokokal hastahkiar ile insaxiv finfhewza hastalıklarmn bıldirimi yapılacaktır.
 
-### T.C. SAGLIK BAKANLIGI
+### T.C. SAĞLIK BAKANLIĞI
 
 Türkiye Halk Sağlğı Kurumu *-O
 
-### TSE-ISO-EN
+
 
 9009 « ЖУ: 473. Say: : 2100:706 Konu : Agle Onlenebilir Envaziv Bakteriyel
 
@@ -75,8 +78,8 @@ Agı ile Onlenebilir Invazy Bakterivel Hastalklrn Sie‹cyans Rehberi nin tüm s
 
 Prof. De. Eytip GU.MUS
 
-Bakan z
+Bakan a.
 
-Mgsteşar Ek: Aq ile Önlenebilir Inaziv Bakteriyel
+Müsteşar Ek: Aq ile Önlenebilir Inaziv Bakteriyel
 
-ustalikların Siirseyansı Rechberi..yfa) Dagıtım 81 1l Valiligine (Halk Sağlig Modadage)
+ustalikların Siirseyansı Rechberi..yfa) Dağıtım 81 1l Valiligine (Halk Sağlig Modadage)

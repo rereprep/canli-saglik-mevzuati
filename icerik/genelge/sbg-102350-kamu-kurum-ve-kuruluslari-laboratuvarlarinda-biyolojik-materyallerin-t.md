@@ -7,18 +7,14 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-102350/kamu-kurum-ve-kuruluslari-laboratuvarlarinda-biyolojik-materyallerin-temini-protokolu-hakkindaki-usul-ve-esaslari-belirten-genelge-201319.html"
 not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
+duzeltildi: true
+konu: "Kamu Kurum ve Kuruluşları Laboratuvarlarında Biyolojik Materyallerin Temini Protokolü Hakkındaki Usul konusundaki düzenleme ve uygulama esaslarını bildirir."
+tarih: 2013-10-28
+sayi: "2013/19"
 ocr: true
 ---
 
-## T.C. SAĞLIK BAKANLIĞI - SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - TIBBİ LABORATUVAR HİZMETLERİ DAİRE BAŞKANLIĞI
-
-T.C. 28.10.2013 09:42 - 2013.5363.35670 / 010
-
-### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-00000866657 TC Sağlık Bakanlığı
-
-Senel Hieungg Sayı : 95966346 - Konu: Kamu Kurum ve Kuruluşları
+Sayı : 95966346 - Konu: Kamu Kurum ve Kuruluşları
 
 Laboratuvarlarından Biyolojik
 
@@ -28,9 +24,9 @@ Hakkındaki Usul Ve Esasları
 
 Belirten Genelge
 
-### GENELGE 2013/19.
+### GENELGE 2013/19
 
-09.10.2013 tarih ve 28790 sayılı Resmi Gazete' de yayımlanan Tıbbi Laboratuvarlar Yönetmeliği ve kalite standartları çerçevesinde laboratuvarlarda yapılan testlerin uygun periyotlarda, iç kalite kontrol programını yapılandırması ve dış kalite değerlendirme programına dâhil olması zorunludur. Kalite kontrol programlarının temel gereci kalite kontrol serumudur. Iç ve dış kalite kontrol serumlarının kaynağı, yurt dışı kaynaklı olup, yurt içinde üretilmesi için başvurular mevcuttur.
+09.10.2013 tarih ve 28790 sayılı Resmi Gazete’de yayımlanan Tıbbi Laboratuvarlar Yönetmeliği ve kalite standartları çerçevesinde laboratuvarlarda yapılan testlerin uygun periyotlarda, iç kalite kontrol programını yapılandırması ve dış kalite değerlendirme programına dâhil olması zorunludur. Kalite kontrol programlarının temel gereci kalite kontrol serumudur. İç ve dış kalite kontrol serumlarının kaynağı, yurt dışı kaynaklı olup, yurt içinde üretilmesi için başvurular mevcuttur.
 
 Kalite kontrol materyallerinin üretiminde hammadde olarak insan kanı, idrarı, serum ve kan bileşenlerine ihtiyaç vardır. Kamu kurum ve kuruluşlarına yapılan başvurularda, "biyolojik atık" niteliğinde olan kan/ serum/ plazma vb. materyal kalıntılarının "iç ve dış kalite kontrol materyali üretimi" nde kullanılmak üzere materyal temini sürecini düzenlemek amacıyla Genel Müdürlüğümüzce "Kamu Kurum ve Kuruluşları Laboratuvarlarından Biyolojik Materyal Temini Protokolü Hakkındaki Usul ve Esaslar" hazırlanmıştır. Söz konusu başvurularda ekte yer alan usul ve esaslar gereğince işlem yapılması ve Bakanlığa bilgi verilmesi hususunda;
 
@@ -42,19 +38,11 @@ Bakan a.
 
 Müsteşar EK: Kamu Kurum ve Kuruluşları Laboratuvarlarından Biyolojik Materyallerin Temini Protokolü Hakkındaki Usul Ve Esasları Belirten Genelge Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı Ayrıntılı bilgi için irtibat Rüzgarlı Cad. Plevne Sok. No:7 Kat:3 No:16 ULUS/ ANKARA Tel: 0 (312) 324 47 99/152-154 Faks: 0 (312) 324 50 70 E-posta: shgm.laboratuvar@saglik.gov.tr
 
-### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC Seğhk Bokanliğı
-
-Sağlık Hizmatlari Sayı : 95966346 -
-
 ### DAĞITIM:
 
-Gereği: 81 Il Valiliğine (Il Sağlık Müdürlüğü) 81 11 Halk Sağlığı Müdürlüğüne TKHK Taşra Teşkilatı (81 II Kamu Hastaneleri) * Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı
+Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü) 81 11 Halk Sağlığı Müdürlüğüne TKHK Taşra Teşkilatı (81 II Kamu Hastaneleri) * Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı
 
 Ayrıntılı bilgi için irtibat Rüzgarlı Cad.Plevne Sok. No:7 Kat:3 No: 16 ULUS/ ANKARA Tel: 0 (312) 324 47 99/152-154 Faks: 0 (312) 324 50 70 E-posta: shgm.laboratuvar@saglik.gov.tr
-
-### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 TC Sağik Bakaniğı
 
@@ -98,8 +86,6 @@ belirlenerek eklenmesi, * Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı
 
 Ayrıntılı bilgi için irtibat Rüzgarlı Cad.Plevne Sok. No:7 Kat:3 No: 16 ULUS/ ANKARA Tel: 0 (312) 324 47 99/152-154 Faks: 0 (312) 324 50 70 E-posta: shgm.laboratuvar@saglik.gov.tr
 
-### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
 TC. Sağlık Bakankığı
 
 Sağlık Hizmotlari Sayı : 95966346 -
@@ -114,6 +100,6 @@ uygun koşullarda ve ilgili yönetmelikler çerçevesinde yapılması,
 
 12. Teslim alınacak biyolojik materyallerin teslim alınma süresinin protokolde
 
-belirtilmesi. * Kamu kurum ve kuruluşu başvuruyu değerlendirip uygun görmesi halinde protokol yapabilir. ** Protokol koşullarının yerine getirilmemesi halinde kamu kurum ve kuruluşu tek taraflı protokolü fes etme hakkına sahiptir. * Tibbi Laboratuvar Hizmetleri Daire Başkanliği
+belirtilmesi. * Kamu kurum ve kuruluşu başvuruyu değerlendirip uygun görmesi halinde protokol yapabilir. ** Protokol koşullarının yerine getirilmemesi halinde kamu kurum ve kuruluşu tek taraflı protokolü feshetme hakkına sahiptir. * Tıbbi Laboratuvar Hizmetleri Daire Başkanliği
 
 Ayrıntılı bilgi için irtibat Rüzgarlı Cad. Plevne Sok. No:7 Kat:3 No:16 ULUS/ ANKARA Tel: 0 (312) 324 47 99/152-154 Faks: 0 (312) 324 50 70 E-posta: shgm.laboratuvar@saglik.gov.tr

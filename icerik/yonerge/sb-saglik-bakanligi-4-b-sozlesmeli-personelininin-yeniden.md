@@ -8,11 +8,12 @@ etiketler: ["personel", "sağlık yönetimi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 979-985"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 9.2.7.Sağlık Bakanlığı 4\B Sözleşmeli Personelininin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönerge
 
-h) IKYS :Çekirdek: kaynak yönetım sısteminin insan kaynakları
+h) İKYS: Çekirdek kaynak yönetim sisteminin insan kaynakları
 
 yönetim sistemi modulünü,
 
@@ -20,7 +21,7 @@ yönetim sistemi modulünü,
 
 i) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Kadrolu personel:
 
-657 sayılı Devlet Memurları Kanunu'nun 4/A maddesine göre çahşan, stratejik
+657 sayılı Devlet Memurları Kanunu'nun 4/A maddesine göre çalışan, stratejik
 
 personel hariç kadrolu sağlık ve yardımcı sağlık hizmetleri sınıfı personelini.
 
@@ -28,23 +29,25 @@ j) (Ek bent: 23/10/2009 tarihli ve 198958 sayıl Bakan Onayı) Stratejik persone
 
 Sağlık Bakanlığı Atama ve Nakil Yönetmeliğine göre Bakanlık tarafından
 
-istıhdamında güçlük çekılen uzman tabip ve tabip unvanlarındaki personeli,
+istihdamında güçlük çekilen uzman tabip ve tabip unvanlarındaki personeli,
 
 k) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Standart:
 
-26/10/1994 tarihli ve 22093 sayılı Resmi Gazete'de yayımlanan, Sağlık Bakanlığı
+26/10/1994 tarihli ve 22093 sayılı Resmî Gazete'de yayımlanan, Sağlık Bakanlığı
 
-Taşra Teşkilatı Yatak ve Kadro Standarıları Yonetmeliginde belirlenen standartları,
+Taşra Teşkilatı Yatak ve Kadro Standartları Yönetmeliğinde belirlenen standartları,
 
 1) (Ek bent: 23/10/2009 tarihli ve 198958 sayıh Bakan Onayı) Hizmet bölgesi:
 
-Illerin sosyo-ekonomik gelişmişlik seviyesine göre belirlenen bölgeleri,
+İllerin sosyo-ekonomik gelişmişlik seviyesine göre belirlenen bölgeleri,
 
 ifade eder.
 
-## İKİNCİ BÖLÜM Veniden Hizmete Ahnma
+## İKİNCİ BÖLÜM
 
-**Madde 5 –** (1) Personel, Bakanlık adına sözleşme imzalamaya yetkili amirinden, fesih tarihini de belirterek doğum veya askerlik sebebiyle hizmet sözleşmesinin feshedilmesini dilekçeyle talep eder. Askerlik sebebiyle fesih talebinde bu tarih, askere søvk tarihini geçemez. Doğum nedeniyle hizmet sözleşmesinin feshi için doğum raporunun aslının veya resmi kurumlarca onaylı bir örneğinin; askerlik nedeniyle hizmet sözleşmesinin feshi için ise, askere sevk belgesinin resmi kurumlarca onaylı bir örneğinin fesih talebini içeren dilekçe ile birlikte sözleşme yapılan kurum veya kuruluşa verilmesi zorunludur. Dilekçøde belirtilen fesih tarihi, sözleşmenin fesih tarihi olarak esas alınır.
+#### Yeniden Hizmete Alınma
+
+**MADDE 5 –** (1) Personel, Bakanlık adına sözleşme imzalamaya yetkili amirinden, fesih tarihini de belirterek doğum veya askerlik sebebiyle hizmet sözleşmesinin feshedilmesini dilekçeyle talep eder. Askerlik sebebiyle fesih talebinde bu tarih, askere sevk tarihini geçemez. Doğum nedeniyle hizmet sözleşmesinin feshi için doğum raporunun aslının veya resmi kurumlarca onaylı bir örneğinin; askerlik nedeniyle hizmet sözleşmesinin feshi için ise, askere sevk belgesinin resmi kurumlarca onaylı bir örneğinin fesih talebini içeren dilekçe ile birlikte sözleşme yapılan kurum veya kuruluşa verilmesi zorunludur. Dilekçede belirtilen fesih tarihi, sözleşmenin fesih tarihi olarak esas alınır.
 
 (2) Doğum ve askerlik sebebiyle hızmet sözleşmesi feshedilen personelin pozisyonu saklı tutulur. Bu personel yazılı isteği üzerine aynıdığı görev yerinde yeniden sözleşme yapılarak hızmete alınır. Ancak, yenıden hızmete alınacak personelin;
 

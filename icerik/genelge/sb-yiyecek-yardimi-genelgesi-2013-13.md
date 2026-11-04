@@ -9,21 +9,23 @@ etiketler: ["yiyecek yardımı", "112 personeli", "nöbet"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 352-354"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 3.3.4. Yiyecek Yardımı Genelgesi (2013/13)
 
-### SAGLIK BAKANLIGI Avil Sağlik Hizaneteri Genel Mudürdaği
+### T.C. SAĞLIK BAKANLIĞI – Acil Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayr :72026551/26/3.5138./ 16 TEMMUZ 201 Konu: Yiyecek yardım
+Sayı: 72026551/26/3.5138 – 16 Temmuz 2013
+Konu: Yiyecek yardımı
 
-### VALILIGINE (Il Saglik Madirioga)
+### VALİLİĞİNE (İl Sağlık Müdürlüğü)
 
-Bilindiği üzere, 657 saylı Devlet Memurlan Kamıtunun 212 rei maddesi uyarınca hnzılanark 19/11/1986 tarihli ve 66/11220 sayılı Bakanlar Kurulu Karanı He ylehelüğe kupalun Devlet Memurları Yiyecek Yard au Yöoetmeligi'ne 25/07/2011 tarihli ve 201|/208) sayılı Bakanlar Kurulu Karnının eki Devlet Menurian Viyecek Yarhmu Yönetmeliğinde Değişiklik Yapılası Hakkında Yönetmelik ila ehlenen Ek 2 aci maddesinde "Ba Yonetmeliğe göre yyecek yurderınlan yararlanucak personelden Sağirk Hakanliğı 137 acil sağlå hismaterinde görev sapan personel (adaleymeli personel dalil), i agğuk primeriaklerinin yemek servislerinden Veya t sağli mürfaritkierince belirlerın Sağin Bakanlığına bağlı yataki tedavi kurumlarınım yemet servislerinden nerer ödemeden vararinr. Bu personelden hizmetn kolaiz olmast nedeniyle gürev yerfnden ayrılamayačak durunda belunanler kemerya verilmek suretiyle yararlandırılabilir. Bu maddentn nygulanaTız l'işkin usel ve esaslar Sağisk Bakanlığınca Pedirieni." hükmü getirilmiştir.
+Bilindiği üzere, 657 sayılı Devlet Memurları Kanununun 212 nci maddesi uyarınca hazırlanan 19/11/1986 tarihli ve 66/11220 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurları Yiyecek Yardımı Yönetmeliği'ne 25/07/2011 tarihli ve 201|/208) sayılı Bakanlar Kurulu Karnının eki Devlet Menurian Yiyecek Yardımı Yönetmeliğinde Değişiklik Yapılası Hakkında Yönetmelik ila ehlenen Ek 2 nci maddesinde "Ba Yonetmeliğe göre yyecek yurderınlan yararlanucak personelden Sağlık Bakanlığı 112 acil sağlık hizmetlerinde görev sapan personel (adaleymeli personel dalil), il sağlık müdürlüklerinin yemek servislerinden Veya t sağli mürfaritkierince belirlerın Sağin Bakanlığına bağlı yataki tedavi kurumlarınım yemet servislerinden bedel ödemeden yararlanır. Bu personelden hizmetn kolaiz olmast nedeniyle gürev yerfnden ayrılamayačak durunda belunanler kemerya verilmek suretiyle yararlandırılabilir. Bu maddentn nygulanaTız l'işkin usel ve esaslar Sağisk Bakanlığınca Pedirieni." hükmü getirilmiştir.
 
-Diğer tataften 663 sayılı Saghk Bakanlığı ve Baglı Kuruluşlarımın Teşkilui ve Oörevleri Hakkmda Keron Hükmünde Karamantenin 'Atıllar, değiştirilen ve yürlirlükten kaldenlan hükumler* başlıklı 58 Inct maddesinin cabeşinci fikrasa ila mevzuatta Saghk Bakanlığına yapılan atıfların, bu Kanun Hükmünde Karamame de yerıden yapılandırılan Sağlik Bakanlığı veya görev ve faaliyer alanlarına göre ilgili hağhı kuruluşlara yapalımş sayılacağı bolaın altina al moștir,
+Diğer tataften 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilatı ve Görevleri Hakkında Keron Hükmünde Karamantenin 'Atıllar, değiştirilen ve yürlirlükten kaldenlan hükumler* başlıklı 58 Inct maddesinin cabeşinci fikrasa ila mevzuatta Saghk Bakanlığına yapılan atıfların, bu Kanun Hükmünde Kararname de yerıden yapılandırılan Sağlik Bakanlığı veya görev ve faaliyer alanlarına göre ilgili hağhı kuruluşlara yapalımş sayılacağı bolaın altina al moștir,
 
-Yönetmeliğin Ek Madde Z'aln uygularmısım ilişkin mulge Temet Soghk Hizmetleri Gencl Müdürlüğä'nce belirlenen usul ve esaslar 19.10.2011 tarihli ve 32421 sayılt yazt ile fl Il Valiligine duyurilmışıır. Ancak, Hakantığımızın yeniden yapalarimılması kapsamunda 112 Acil Sughk Hizmetlerinde görev alan personelin yiyecek yerduunu temininde bazs aksaklıkların yaşandığı belirlenrniş olup soz kontsu aksakhktarın giderilmesine yönchik daha Bice mülpa Genel Mudürlükçe belirlenen aul ve esaslarin yeniden dizenlarnesine ihtiyaç duyulmustur
+Yönetmeliğin Ek Madde Z'aln uygularmısım ilişkin mulge Temet Soghk Hizmetleri Gencl Müdürlüğä'nce belirlenen usul ve esaslar 19.10.2011 tarihli ve 32421 sayılt yazt ile fl Il Valiligine duyurilmışıır. Ancak, Hakantığımızın yeniden yapalarimılması kapsamunda 112 Acil Sughk Hizmetlerinde görev alan personelin yiyecek yerduunu temininde bazs aksaklıkların yaşandığı belirlenrniş olup soz kontsu aksakhktarın giderilmesine yönchik daha Bice mülpa Genel Müdürlükçe belirlenen aul ve esaslarin yeniden dizenlarnesine ihtiyaç duyulmustur
 
 Bu kapsamda hazırlaran 12.07 2013 tarih ve 4830 saydı genelge ektedir.
 
@@ -39,15 +41,15 @@ Bakun a
 
 Genel Miki!a EK: Genele: (2 sayla)
 
-### T.C SAGLIK BAKANLIĞI IC SAOLH ANALIDI BER SADLIK HTZMETIER CANES
+### T.C. SAĞLIK BAKANLIĞI – Acil Sağlık Hizmetleri Genel Müdürlüğü
 
 Acil Sagirk Hizmetleri Genel Müdüriaga HOSUNLEG - SATIN ALMA EE SegIH USkeNG 103012 14 - F2255//0401/10
 
-### AE ARTALAR O BARN AD D
+
 
 Say: : 72026353 0/5922
 
-### 201] /15
+### 2013/13
 
 Kom : Viyezek yardim
 
@@ -57,7 +59,7 @@ Bilindiği üzere, 657 sayıdı Devlet Memırları Kanunımın 212 nei maddesi u
 
 "Bu Yönutmelle göre ytyscak yardimum yurariaraeak personelden Sağlık Bakımlığ 112 deil sağhk hizmetlerinde görev yapan personel fabzleşmeli periunel dahil), il sagak anidirliklerbon yumek servislerinden veya il sağlık mötortikerince hefirlenen Sağlık Bukanlığına hağit yataklı tedavi karınların yemek servislerinden ücrai Ademıden yararlanar. Bu persowelaca hizmetin kesintiki abası nedeniyle gorev yurinden aprfamayacak durumda bulunanlar kamana verilmek suretlyte hu Vardımdan yararlanarılabilir. Be maddenin uygulanmasına Hişkin unul ve esaslar Suğhık Bakanlığarza belriener." hukmüne yer verilmiştir.
 
-Diğer taitan 663 sayıli Saghk Bekenhai ve lağli Kuruluşlarıın Tegkilat ve Oörevlei Hakkında Kanun Hükmünde Karamamenin "Atflar, Değlerifen ve Yürurlükten Kaltrıon Hakimler" başlıklı Se inci maddesinin on beşıncı fikran de mevzuatta Sağlıkı Bakanbäına yapılan apıflarıa, bu Kanun Hükmünde Kararname ile yeniden yapılandırılan Sağkk Bakanhy veya görev ve faaliyet alanlarına güre lçili bağh kuruluşlarına yapılmıy sayılacağı büküm altına ahamıştr.
+Diğer taitan 663 sayıli Saghk Bekenhai ve lağli Kuruluşlarıın Tegkilat ve Oörevlei Hakkında Kanun Hükmünde Kararnamenin "Atflar, Değlerifen ve Yürurlükten Kaltrıon Hakimler" başlıklı Se inci maddesinin on beşıncı fikran de mevzuatta Sağlıkı Bakanbäına yapılan apıflarıa, bu Kanun Hükmünde Kararname ile yeniden yapılandırılan Sağkk Bakanhy veya görev ve faaliyet alanlarına güre lçili bağh kuruluşlarına yapılmıy sayılacağı büküm altına ahamıştr.
 
 Yönetmeligin Ek Z'nci maddesinin uygulanmasına ilişkin mülga Temel Sağlık Hizmetleri Genel Müddrltgd'nce belirlenen uaul ve esasta: 39.10.2011 tarihli ve 32421 sayıh yazı ile 81 I1 Valiligine duyurulmuşha. Ancak, Bakanhümızın yeniden yapılandılması kapsamında 112 Acil Sağlık Hizmetlerinde görev alan persopelin yyecek yardımının teminine yündiik daha ünce mülga Denel Müdürinkge helirlenen usul ve esasların yeniden düzenlenmesine ihtiyaç duyulmuştur.
 

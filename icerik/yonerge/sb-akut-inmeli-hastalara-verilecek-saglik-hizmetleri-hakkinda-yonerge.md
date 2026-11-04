@@ -8,25 +8,26 @@ etiketler: ["akut inme", "inme merkezi", "acil sağlık hizmetleri"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 60-67"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-2.2.7. Akut Inmeli Hastalara Verilecek Sağlık Hizmetleri Hakkında Yonerge
+2.2.7. Akut İnmeli Hastalara Verilecek Sağlık Hizmetleri Hakkında Yönerge
 
-### T.C. SAĞLIK BAKANLIĞI Sağhık Hizmetleri Genel Müdürlügu T.C. SAGLIK BAKANLIĞI SAGLE HIZMITLEH SÃGI IE HUNETLERI GENEL MEDER CỘC - GENE: MUDUILLIGU OZELLIKLI PLANI AMA GEREKTIREN SAGLIC HİZMETLE DAIRESI RASCANLIGI
+### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
-J1-07 2019 17:47 - 50118239-080 04-458 Sayı : 80118214 Konu : Akut Inmeli Hastalara Verilecek
+Sayı: 80118214  Konu: Akut İnmeli Hastalara Verilecek
 
 Sağlık Hizmetleri Hakkında Yönerge
 
 ### BAKANLIK MAKAMINA
 
-Akut inmeli hastalara verilecek sağlık hizmetlerini düzenlemek ve sağlık tesisleri bünyesinde kurulacak inme birimlerinin fiziki şartlarını, sağlık insan gücü, tıbbi donanım ve hizmet kıstasları ile bu hizmetlere ilişkin hasta sevk ve nakil esaslarını belirlemek, inme birimlerinin tescil edilmesi, denetimi ve gerektiğinde tescilin iptaline ilişkin usul ve esasları düzenlemek amacıyla hazırlanan ve ilişikte sunulan "Akut Inmeli Hastalara Verilecek Sağlık Hizmetleri Hakkında Yönerge" nin onaylanarak yürürlüğe konulması hususunu,
+Akut inmeli hastalara verilecek sağlık hizmetlerini düzenlemek ve sağlık tesisleri bünyesinde kurulacak inme birimlerinin fiziki şartlarını, sağlık insan gücü, tıbbi donanım ve hizmet kıstasları ile bu hizmetlere ilişkin hasta sevk ve nakil esaslarını belirlemek, inme birimlerinin tescil edilmesi, denetimi ve gerektiğinde tescilin iptaline ilişkin usul ve esasları düzenlemek amacıyla hazırlanan ve ilişikte sunulan "Akut İnmeli Hastalara Verilecek Sağlık Hizmetleri Hakkında Yönerge" nin onaylanarak yürürlüğe konulması hususunu,
 
 Takdir ve tensiplerinize arz ederim.
 
-'rof,/Dr. Ahmet TEKI!
+Prof. Dr. Ahmet TEKİN
 
-/Genel Müdür
+Genel Müdür
 
 Uygun Görüşle Arz Ederim.
 
@@ -36,11 +37,19 @@ Prof. Dr. Muhammet GÜVEN
 
 Bakan Yardımcısı
 
-### OLUR ...../2019 Dr. Fahrettin KOCA Bakan
+### OLUR
+
+...../2019
+
+Dr. Fahrettin KOCA
+
+Bakan
 
 ### AKUT İNMELİ HASTALARA VERİLECEK SAĞLIK HİZMETLERİ HAKKINDA YÖNERGE
 
-## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+## BİRİNCİ BÖLÜM
+
+#### Amaç, Kapsam, Dayanak ve Tanımlar
 
 **MADDE 1 –** (1) Bu Yönergenin amacı; akut inmeli hastalara verilecek sağlık hizmetlerini düzenlemek ve sağlık tesisleri bünyesinde yapılandırılacak inme birimlerinin sağlık insan gücü, tıbbi donanım, fiziki şartlarını ve hizmet kıstasları ile bu hizmetlere ilişkin hasta sevk ve nakil esaslarını belirlemek, inme birimlerinin tescil edilmesi, denetimi ve gerektiğinde tescilin iptaline ilişkin usul ve esasları düzenlemektir.
 

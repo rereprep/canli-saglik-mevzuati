@@ -7,20 +7,33 @@ birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-102343/soybaginin-tespiti-testi-hakkinda-genelge-20242.html"
 durum: "yürürlükte"
+duzeltildi: true
+konu: "Soybağının Tespiti Testi Hakkında Genelge (2024/2) konusundaki düzenleme ve uygulama esaslarını bildirir."
+tarih: 2024-03-05
 ocr: true
 ---
 
-GENEL MÜDÜR YARDIMCISI (Murat YAZICI)
+### 1. Tanımlar
 
-### TETKİK VE TEŞHİS HİZMETLERİ DAİRESİ BAŞKANLIĞI
+1.1. **Soybağının Tespiti Testi:** Talep sahiplerinin tanımlanmasında ve diğer bireylerden ayırt edilmesinde etkin olan özelliklerin tespit edilmesi amacıyla yapılan testi,
 
-5.03.2024 16:09:42 E-95966346-010.06-238542190
+1.2. **Kimlik Tespit Formu-1:** 18 yaş üstü kişilerde saklı nüfus için kullanılacak formu (Ek-1),
 
-238542190
+1.3. **Kimlik Tespit Formu-2:** 18 yaş altı kişilerde sözlü beyanda saklı nüfus için kullanılacak formu (Ek-2),
 
-### SAĞLIK BAKANLIĞI
+1.4. **Moleküler Genetik Rapor Formu:** Genetik hastalıklar değerlendirme merkezleri tarafından ilgili nüfus müdürlüğüne gönderilecek sonuç raporu formunu (Ek-3),
 
-Sağlık Hizmetleri Genel Müdürlüğü 1.7- Saklı Nüfus: On sekiz yaşını tamamlayıncaya kadar herhangi bir nedenle aile kütüğüne kayıt edilmemiş olan ve yabancı bir devletle vatandaşlık bağı bulunmayan kişileri, 1.8- Şahit Numune: Test tekrarı yapılmasının gerekli olduğu hallerde veya test sonuçlarına yönelik herhangi bir itiraz olması durumunda kullanılmak üzere genetik hastalıklar değerlendirme merkezleri tarafından 6 ay süre ile saklanan numuneyi, ifade eder. 2- Genel Usul ve Esaslar: 2.1- Soybağının tespiti; Soybağının Tespiti Testi ile yapılır. 2.2- Soybağının Tespiti Testi için sadece, ilgili nüfus müdürlüğünden Ek-1 veya Ek-2 ile yapılacak müracaatlar kabul edilir. 2.3- Soybağının Tespiti Testi, Bakanlığımızca yetkilendirilmiş, ruhsatlı ve Ek-6'da belirtilen genetik hastalıklar değerlendirme merkezlerinde yapılır. 2.4- Numune alımını gerçekleştiren kamu sağlık kurum/kuruluşu tarafından genetik hastalıklar değerlendirme merkezine numune ile birlikte gönderilecek kargo paketinde; Ek-1 veya Ek-2, Ek-4 ile Ödeme Makbuzu bulundurulur. 2.5- Soybağının tespiti testi bedeli, talep sahipleri tarafından ilk müracaat edilen kamu sağlık kurum/kuruluşuna numune başına ödenir. Soybağı tespitine yönelik herhangi bir işlem Sosyal Güvenlik Kurumuna fatura edilmez. İşlem bedelleri talep eden kurum veya kişi tarafından karşılanır.
+1.5. **Numune Gözetim Zinciri Formu:** Numunenin kaybolmaması için numuneyi alan kişinin, numuneyi laboratuvarda ve genetik hastalıklar değerlendirme merkezinde teslim alan kişilerin imzası bulunan formu (Ek-4),
+
+1.6. **Ödeme Makbuzu:** Soybağının Tespiti Testi yapılması için talep sahipleri tarafından numunenin alınacağı hastanenin döner sermayesine yatırıldığını gösterir belgeyi,
+
+1.7. **Saklı Nüfus:** On sekiz yaşını tamamlayıncaya kadar herhangi bir nedenle aile kütüğüne kayıt edilmemiş olan ve yabancı bir devletle vatandaşlık bağı bulunmayan kişileri,
+
+1.8. **Şahit Numune:** Test tekrarı yapılmasının gerekli olduğu hallerde veya test sonuçlarına yönelik herhangi bir itiraz olması durumunda kullanılmak üzere genetik hastalıklar değerlendirme merkezleri tarafından 6 ay süre ile saklanan numuneyi, ifade eder.
+
+### 2. Genel Usul ve Esaslar
+
+2.1. Soybağının tespiti, Soybağının Tespiti Testi ile yapılır. 2.2. Soybağının Tespiti Testi için sadece ilgili nüfus müdürlüğünden Ek-1 veya Ek-2 ile yapılacak müracaatlar kabul edilir. 2.3. Soybağının Tespiti Testi, Bakanlığımızca yetkilendirilmiş, ruhsatlı ve Ek-6'da belirtilen genetik hastalıklar değerlendirme merkezlerinde yapılır. 2.4. Numune alımını gerçekleştiren kamu sağlık kurum/kuruluşu tarafından genetik hastalıklar değerlendirme merkezine numune ile birlikte gönderilecek kargo paketinde Ek-1 veya Ek-2, Ek-4 ile ödeme makbuzu bulundurulur. 2.5. Soybağının tespiti testi bedeli, talep sahipleri tarafından ilk müracaat edilen kamu sağlık kurum/kuruluşuna numune başına ödenir. Soybağı tespitine yönelik herhangi bir işlem Sosyal Güvenlik Kurumuna fatura edilmez. İşlem bedelleri talep eden kurum veya kişi tarafından karşılanır.
 
 a) Soybağının tespiti testi işlemleri; numunenin alındığı kamu sağlık kurum/kuruluşu
 
@@ -36,7 +49,7 @@ poliklinik muayenesini ve test analiz bedeli olarak 'G100380-Konvansiyonel
 
 (Sanger) DNA Dizileme, 2-5 reaksiyon" işleminin 3 defa çalışılmasını içermektedir.
 
-c) Ilk müracaat edilen sağlık kuruluşunca "Soybağının Tespiti Testi Bedeli" tutarı
+c) İlk müracaat edilen sağlık kuruluşunca "Soybağının Tespiti Testi Bedeli" tutarı
 
 içerisinden S520030 kodlu normal poliklinik muayene bedeli ile numunenin
 
@@ -60,21 +73,13 @@ ile çalışılması nedeniyle Sağlık Uygulama Tebliğinde (SUT) yer alan G100
 
 kodlu "Konvansiyonel (Sanger) DNA Dizileme, 2-5 reaksiyon" işlem puanının üç Sağlık Hizmetleri Genel Müdürlüğü Üniversiteler Mah. Dumlupınar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
 
-### ADANLI FRES SAĞLIK BAKANLIĞI
+katı üzerinden hesaplanacak hakediş bedeli, hizmet alımı yapılan yüklenici firmaya
 
-Sağlık Hizmetleri Genel Müdürlüğü
-
-katı üzerinden hesaplanacak hakediş bedeli, hizmet alımı yapılan yüklenici fırmaya
-
-ödenir. 3- Numune Alımı Yapılan Sağlık Kurum/Kuruluşu Çalışma Usul ve Esasları: 3.1- 18 yaş üstü talep sahipleri için personel nezaretinde ilgili nüfus müdürlüğünden alınacak Ek-1 ile birlikte, 18 yaş altı talep sahipleri için ise sağ veya sol kol nüfus müdürlüğü mührü ile mühürlenmiş olarak ve ilgili nüfus müdürlüğünden alınacak Ek-2 ile birlikte kamu sağlık kurum/kuruluşuna başvuru yapılacaktır. Tüm kamu sağlık kurum ve kuruluşları tarafından Soybağının Tespiti Testi için numune almak üzere poliklinikten giriş yapılması için gerekli düzenlemeler yapılacaktır. 3.2- Kimlik Tespit Formu-1 (Ek-1)'e 6 yaş altı çocuklar için fotoğraf yapıştırılmayacaktır. 15 yaş altı çocuklar için "Sözlü Bildirimde Bulunulan Çocuğa Ait Bilgiler" alanına imza alınmayacaktır. Kimlik Tespit Formu-1 (Ek-1) ve Kimlik Tespit Formu-2 (Ek-2)'ye yapıştırılacak fotoğraflar, nüfus müdürlüğü mührü ile mühürlenecektir. 3.3- Kamu sağlık kurum/kuruluşunun numune alımı bölümüne Ek-1 (personel nezaretinde) veya Ek-2 ve Ödeme Makbuzu ile birlikte başvurulur. 3.4- Numune alımı bölümünde, numune alınmadan önce kimlik doğrulanması amacı ile, Ek- 1 veya Ek-2 de belirtilen 18 yaş üstü kişilerin fotoğrafı, 6-18 yaş arasındaki kişilerin fotoğraf ve nüfus müdürlüğü mührü ve 6 yaş altı çocukların ise nüfus müdürlüğü mührü kontrolü sağlanır. 3.5- Genetik hastalıklar değerlendirme merkezine gönderilmek üzere Soybağının Tespiti Testi yapılacak kişilerin her birinden alınacak 2'şer adet EDA'lı tüpe numune alımı gerçekleştirilir. 3.6-Numune alımı bölümünce, Ek-4 doldurularak başhekim tarafından belirlenen ve numune transferini sağlayacak ilgili laboratuvara imza karşılığında numuneler teslim edilir. 3.7- Kabul edilen numuneler Bakanlığımızca belirlenen genetik hastalıklar değerlendirme merkezlerine transferi sağlanmak üzere ilgili laboratuvar tarafından, Ek-1 veya Ek-2, Ek-4 ve Ödeme Makbuzu ile birlikte kargoya teslim edilir. 4- Soybağının Tespiti Testi Yapılacak Genetik Değerlendirme Merkezi Çalışma Usul ve Esasları; 4.1- Genetik hastalıklar değerlendirme merkezine kargo ile gelen numune, Bakanlıkça belirlenen Ek-5 kabul kriterleri doğrultusunda değerlendirilir ve Ek-4 imzalanarak teslim alınır. 4.2- Kabul kriterlerine uygun olmayan numuneler reddedilir. Ilgili numuneler Ek-3'e red gerekçesi belirtilerek, ilçe nüfus müdürlüğüne bilgi verilir. Ayrıca, ivedilikle tekrar numune gönderilmesi istenilir. 4.3- Soybağının Tespiti Testi sonucu, Ek-3 formatına uygun olarak düzenlenir ve Ek-1 veya Ek-2' de talep eden ilçe nüfus müdürlüğüne kapalı zarf ile gönderilir. Sağlık Hizmetleri Genel Müdürlüğü Üniversiteler Mah. Dumlupınar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
-
-### SAĞLIK BAKANLIĞI
-
-Sağlık Hizmetleri Genel Müdürlüğü
+ödenir. 3- Numune Alımı Yapılan Sağlık Kurum/Kuruluşu Çalışma Usul ve Esasları: 3.1- 18 yaş üstü talep sahipleri için personel nezaretinde ilgili nüfus müdürlüğünden alınacak Ek-1 ile birlikte, 18 yaş altı talep sahipleri için ise sağ veya sol kol nüfus müdürlüğü mührü ile mühürlenmiş olarak ve ilgili nüfus müdürlüğünden alınacak Ek-2 ile birlikte kamu sağlık kurum/kuruluşuna başvuru yapılacaktır. Tüm kamu sağlık kurum ve kuruluşları tarafından Soybağının Tespiti Testi için numune almak üzere poliklinikten giriş yapılması için gerekli düzenlemeler yapılacaktır. 3.2- Kimlik Tespit Formu-1 (Ek-1)'e 6 yaş altı çocuklar için fotoğraf yapıştırılmayacaktır. 15 yaş altı çocuklar için "Sözlü Bildirimde Bulunulan Çocuğa Ait Bilgiler" alanına imza alınmayacaktır. Kimlik Tespit Formu-1 (Ek-1) ve Kimlik Tespit Formu-2 (Ek-2)'ye yapıştırılacak fotoğraflar, nüfus müdürlüğü mührü ile mühürlenecektir. 3.3- Kamu sağlık kurum/kuruluşunun numune alımı bölümüne Ek-1 (personel nezaretinde) veya Ek-2 ve Ödeme Makbuzu ile birlikte başvurulur. 3.4- Numune alımı bölümünde, numune alınmadan önce kimlik doğrulanması amacı ile, Ek- 1 veya Ek-2 de belirtilen 18 yaş üstü kişilerin fotoğrafı, 6-18 yaş arasındaki kişilerin fotoğraf ve nüfus müdürlüğü mührü ve 6 yaş altı çocukların ise nüfus müdürlüğü mührü kontrolü sağlanır. 3.5- Genetik hastalıklar değerlendirme merkezine gönderilmek üzere Soybağının Tespiti Testi yapılacak kişilerin her birinden alınacak 2'şer adet EDA'lı tüpe numune alımı gerçekleştirilir. 3.6-Numune alımı bölümünce, Ek-4 doldurularak başhekim tarafından belirlenen ve numune transferini sağlayacak ilgili laboratuvara imza karşılığında numuneler teslim edilir. 3.7- Kabul edilen numuneler Bakanlığımızca belirlenen genetik hastalıklar değerlendirme merkezlerine transferi sağlanmak üzere ilgili laboratuvar tarafından, Ek-1 veya Ek-2, Ek-4 ve Ödeme Makbuzu ile birlikte kargoya teslim edilir. 4- Soybağının Tespiti Testi Yapılacak Genetik Değerlendirme Merkezi Çalışma Usul ve Esasları; 4.1- Genetik hastalıklar değerlendirme merkezine kargo ile gelen numune, Bakanlıkça belirlenen Ek-5 kabul kriterleri doğrultusunda değerlendirilir ve Ek-4 imzalanarak teslim alınır. 4.2- Kabul kriterlerine uygun olmayan numuneler reddedilir. İlgili numuneler Ek-3'e red gerekçesi belirtilerek, ilçe nüfus müdürlüğüne bilgi verilir. Ayrıca, ivedilikle tekrar numune gönderilmesi istenilir. 4.3- Soybağının Tespiti Testi sonucu, Ek-3 formatına uygun olarak düzenlenir ve Ek-1 veya Ek-2' de talep eden ilçe nüfus müdürlüğüne kapalı zarf ile gönderilir. Sağlık Hizmetleri Genel Müdürlüğü Üniversiteler Mah. Dumlupınar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
 
 ### 4.4- Test sonucu, yazılı veya sözlü olarak kesinlikle kişilere beyan edilmez.
 
-Işbu Genelge ile ilgide kayıtlı 2022/6 sayılı Soybağının Tespiti Testi Hakkında Genelge yürürlükten kaldırılmış olup konunun ilinizde bulunan tüm kamu sağlık kurum/kuruluşlarına duyurulması ile, Soybağının Tespiti Testi çalışmasına ilişkin iş ve işlemlerin Genelgemiz kapsamında yürütülmesi hususunda;
+İşbu Genelge ile ilgide kayıtlı 2022/6 sayılı Soybağının Tespiti Testi Hakkında Genelge yürürlükten kaldırılmış olup konunun ilinizde bulunan tüm kamu sağlık kurum/kuruluşlarına duyurulması ile, Soybağının Tespiti Testi çalışmasına ilişkin iş ve işlemlerin Genelgemiz kapsamında yürütülmesi hususunda;
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
@@ -100,9 +105,9 @@ Bakan Yardımcısı
 
 Değerlendirme Merkezleri Isim Listesi (Ek-6)
 
-### DAĞITIM:
+### ### DAĞITIM:
 
-Gereği: Bilgi: 81 Il Valiliği (II Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğü
+Gereği: Bilgi: 81 İl Valiliği (II Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğü
 
 Halk Sağlığı Genel Müdürlüğü
 
@@ -113,10 +118,6 @@ Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü
 Sağlık Hizmetleri Genel Müdürlüğü Daire
 
 Başkanlıkları Sağlık Hizmetleri Genel Müdürlüğü Üniversiteler Mah. Dumlupınar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
-
-### SAĞLIK BAKANLIĞI
-
-Sağlık Hizmetleri Genel Müdürlüğü
 
 EK-1
 
@@ -164,10 +165,6 @@ Tarik
 
 * Form iki nüska düzenlenecektir. Bir mishan nüfus müdürlüğünde dosyasında muhafaza edilecektir. Sağlık Hizmetleri Genel Müdürlüğüi Üniversiteler Mah. Dumlupınar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
 
-### SAĞLIK BAKANLIĞI
-
-Sağlık Hizmetleri Genel Müdürlüğü
-
 EK-2
 
 ### KİMLİK TESPIT FORMU-2 T.C. ILÇE ADI- İÇİŞLERİ BAKANLIĞI KODU
@@ -214,10 +211,6 @@ T'arik:
 
 * Form üci nüsha düzenlenecektir. Bir nüshas nüfus müdürlüğünde dosyasında muhafaza edilecektir Sağlık Hizmetleri Genel Müdürlüğü Üniversiteler Mah. Dumlupınar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
 
-### SAĞLIK BAKANLIĞI
-
-Sağlık Hizmetleri Genel Müdürlüğü
-
 EK-3
 
 ### MOLEKÜLER GENETİK RAPORU MOLEKÜLER GENETİK RAPORU
@@ -231,10 +224,6 @@ Ebeveyn/Mevcut Yakını Adı-Soyadı Çocuk/Erişkin Adı-Soyadı Başvuru Tarih
 Uzmanın Adı-Soyadı
 
 Tarih: Sağlık Hizmetleri Genel Müdürlüğü Üniversiteler Mah. Dumlupinar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
-
-### SAĞLIK BAKANLIĞI
-
-Sağlık Hizmetleri Genel Müdürlüğü
 
 EK-4
 
@@ -257,10 +246,6 @@ Adı Soyadı İmzası
 ### NUMUNEYİ GENETİK HASTALIKLAR DEĞERLENDİRME MERKEZİNDE TESLİM ALAN KİŞİNİN
 
 Adı Soyadı İmzası NOT: Sağlık Hizmetleri Genel Müdürlüğü Üniversiteler Mah. Dumlupinar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
-
-### SAĞLIK BAKANLIĞI
-
-Sağlık Hizmetleri Genel Müdürlüğü
 
 EK-5
 

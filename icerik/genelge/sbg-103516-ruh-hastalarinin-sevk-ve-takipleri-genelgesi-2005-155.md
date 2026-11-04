@@ -7,17 +7,19 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103516/ruh-hastalarinin-sevk-ve-takipleri-genelgesi-2005155.html"
 durum: "yürürlükte"
+tarih: 2005-10-13
+konu: "Ruh hastalarının sevk ve takip süreçlerinde uygulanacak usulü düzenler."
 ocr: true
 duzeltildi: true
 ---
 
 6.3.47. Ruh Hastalarının Sevk ve Takipleri Genelgesi (2005/155)
 
-Sayi : B100TSH0140003-010.06 Konu : Ruh Hastalarının Sevk ve Takipleri
+Sayı : B100TSH0140003-010.06 Konu: Ruh Hastalarının Sevk ve Takipleri
 
 13.10.2005
 
-### GENELGE 2005/155
+ GENELGE 2005/155
 
 İLGİ: a) 03.10.1991 tarihli ve 12175 sayılı Genelge,
 
@@ -29,9 +31,9 @@ Ruh sağlığı; sosyal uyum ile içinde yaşanılan çevreye, sosyal yatırıml
 
 Bireysel anlamda ruh sağlığının iyi olması aynı zamanda, toplumsal ruh sağlığı ve yaşam tarzlarının yükselmesinde çok önemlidir. Ruh sağlığının korunması ve/veya tedavisinin teşvik edilmesi, bireyin yaşam kalitesini yükseltmekte ve bununla birlikte, ruh sağlığı sorunları olan insanlar ile toplum sağlığının ruhsal yönden de iyilik halinde olmasını temin etmektedir.
 
-Sosyal, psikolojik, biyolojik ve çevresel faktörler, insanların ruhsal yapıları üzerinde potansiyel risk oluşturmaktadır. Bu bağlamda, hassasiyetleri ve ihtiyaçları göz önüne alıarak bilhassa gençlere ve yaşhlara yönelik olarak, ruh sağlığının geliştirilmesi ve ruh sağlığının sorunlarının önlenmesi ve tedavi edilmesi ile ilgili faaliyetlere öncelik verilmelidir. Ozellikle, çocukluk döneminde karşılaşılan ruhsal bozukluklar, yetişkin ruh sağlığı bozukluklarının önemli habercileridir. Bu yüzden, çocukların ve ergenlerin ruh sağlığını desteklemek, yetişkin ve yaşlılık döneminde bireyler, toplumlar ve sağlık sistemleri için uzun dönemde yararlar sağlayacak stratejık yatırımlar olarak görülmelidır.
+Sosyal, psikolojik, biyolojik ve çevresel faktörler, insanların ruhsal yapıları üzerinde potansiyel risk oluşturmaktadır. Bu bağlamda, hassasiyetleri ve ihtiyaçları göz önüne alınarak bilhassa gençlere ve yaşlılara yönelik olarak, ruh sağlığının geliştirilmesi ve ruh sağlığının sorunlarının önlenmesi ve tedavi edilmesi ile ilgili faaliyetlere öncelik verilmelidir. Özellikle, çocukluk döneminde karşılaşılan ruhsal bozukluklar, yetişkin ruh sağlığı bozukluklarının önemli habercileridir. Bu yüzden, çocukların ve ergenlerin ruh sağlığını desteklemek, yetişkin ve yaşlılık döneminde bireyler, toplumlar ve sağlık sistemleri için uzun dönemde yararlar sağlayacak stratejik yatırımlar olarak görülmelidir.
 
-II- Ruh Sağlığı Hizmetlerinin Yürütülmesi ve Sevkler: Dünyanın pek çok ülkesinde, ruh sağlığı hizmetlerinin yürütülmesinde ve yaygın ruh sağhğı sorunlarına yardım konusunda, pratisyen hekimler ve birinci basamak sağlık çalışanları ilk ve temel kaynak olarak görülmektedir.
+II- Ruh Sağlığı Hizmetlerinin Yürütülmesi ve Sevkler: Dünyanın pek çok ülkesinde, ruh sağlığı hizmetlerinin yürütülmesinde ve yaygın ruh sağlığı sorunlarına yardım konusunda, pratisyen hekimler ve birinci basamak sağlık çalışanları ilk ve temel kaynak olarak görülmektedir.
 
 Toplumdaki ruh sağlığı sorunları olan kişileri teşhis ve tedavi etmek yönünden pratisyen hekimler ve birinci basamak sağlık çalışanlarının kapasiteleri ve yeterliliklerinin geliştirilmesinde, gerekirse ikinci basamak ruh sağlığı hizmetleri ağının bir parçası gibi desteklenmeleri ve eğitimleri zorunludur.
 
@@ -41,7 +43,7 @@ Bu itibarla; Bakanlığımızca yürütülmekte olan ruh sağlığı hizmetlerin
 
 Bu cümleden olarak;
 
-1) Ruhsal problemi bulunan hastaların öncelikle kendi illerinde teșhis, tedavi ve rehabilitasyonları sağlanacaktır.
+1) Ruhsal problemi bulunan hastaların öncelikle kendi illerinde teşhis, tedavi ve rehabilitasyonları sağlanacaktır.
 
 2) Sevkinde zorunluluk görülen hastaların bulundukları illerden bölge hastanelerine sevklerinde EK-I'deki bölgelendirme sistemi esas alınmak suretiyle, iller öncelikle kendi bölge hastanelerine hasta sevk ederek gereksiz sevkleri ve yığılmaları engelleyeceklerdir.
 
@@ -111,12 +113,12 @@ c) İlgide kayıtlı Genelgelerin yürürlükten kaldırıldığı;
 
 hususunda bilgilerinizi ve gereğini rica ederim.
 
-Prof.Dr. Nedet ÜNÜVAR
+Prof. Dr. Necdet ÜNÜVAR
 
 Bakan a.
 
-Müsteşar EK-1 Bölgelendirme Listesi (1 sayfa) EK-2 ICD 10 Kodları (4 sayfa) EK-3 RS Formları Hakkında Açiklamalar (3 sayfa) EK-4 RS Formlan (10, 20, 30, 40, 50) (5 sayfa)
+Müsteşar EK-1 Bölgelendirme Listesi (1 sayfa) EK-2 ICD 10 Kodları (4 sayfa) EK-3 RS Formları Hakkında Açıklamalar (3 sayfa) EK-4 RS Formları (10, 20, 30, 40, 50) (5 sayfa)
 
-### DAGITIM:
+DAĞITIM:
 
-A Plani
+A Planı

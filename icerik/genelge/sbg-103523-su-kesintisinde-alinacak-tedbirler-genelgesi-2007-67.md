@@ -7,19 +7,17 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103523/su-kesintisinde-alinacak-tedbirler-genelgesi-200767.html"
 durum: "yürürlükte"
+tarih: 2007-08-08
+konu: "Su kesintilerinde toplum sağlığını korumak için sağlık müdürlükleri, yerel yönetimler ve halkça alınacak tedbirleri belirler."
 ocr: true
 duzeltildi: true
 ---
 
 6.3.71. Su Kesintisinde Alınacak Tedbirler Genelgesi (2007/67)
 
-3000
+ SAĞLIK BAKANLIGI
 
-### SAĞLIK BAKANLIGI
-
-Temel Sağlık Hizmetleri Genel Müdürlüğa Sayi : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde almacak tedbirler 20802 08.08.07
-
-### ..VALILIGINE (İl Sağlık Müdürlügü) GENELGE /67
+Temel Sağlık Hizmetleri Genel Müdürlüğüne Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde almacak tedbirler 20802 08.08.07
 
 Kuraklık kaynaklı su sıkıntısı, özellikle içme ve kullanma sularımın tasarruflu, etkin ve sağlığı olumsuz yönde etkilemeyecek şekilde tüketimini gerekli kılmaktadır. İçme ve kullanma sulanı insan ve toplum sağlığını doğrudan etkileyen önemli etmenlerin başında gelmektedir.
 
@@ -41,7 +39,7 @@ müdüründen oluşan bir izleme değerlendirme birimi oluşturularak gelişmele
 
 depo girişi ve çıkışı, klorlama noktaları ve şebekeye katılan kuyu veya ilave kaynak
 
-varsa bunlanı da gösteren ve ilgili yerel yönetimler tarafindan hazırlanan krokiler, Il
+varsa bunlanı da gösteren ve ilgili yerel yönetimler tarafından hazırlanan krokiler, Il
 
 Sağlık Müdürlüğü / Sağlık Grup Başkanlığında da bulunmalıdır.
 
@@ -59,17 +57,13 @@ kullanımının olduğu yerler (okul, hastane, toplu çalışılan yerler, gıda
 
 yemek fabrikaları vb. gibi) dikkate alınmalıdır.
 
-###  K-0
-
 T.C. 2000
-
-### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlugü
 
 Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler
 
 Odak belirleme işlemi yerel yönetimlerle birlikte yapılmalıdır. Belirlenen odak
 
-noktalardan Sağlık teşkilatınca haftalık bakteriyolojik numune alınmahı (gerektiğinde
+noktalardan Sağlık teşkilatınca haftalık bakteriyolojik numune alınmalı (gerektiğinde
 
 bu süre kısaltılabilir), suda bakiye klor ölçümü ise günlük olarak yapılmalıdır.
 
@@ -139,13 +133,9 @@ olabilecek hastalık artışlarına göre çalışma planı hazırlanmalıdır.
 
 18. 17.02.2006 tarih ve 2006/23 sayılı Genelgemiz göz önüne ahınarak olası salgın durumları hemen incelemeye ahnmahdır.
 
-### 
-
 T.C 90D0
 
-### SAGLIK BAKANLIĞI
-
-Temel Sağlık Hizmetleri Genel Müdürlügü Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler B-Yerel Yönetimlerce Alınması Gereken Tedbirler
+Temel Sağlık Hizmetleri Genel Müdürlüğü Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler B-Yerel Yönetimlerce Alınması Gereken Tedbirler
 
 1. Öncelikle mümkün olduğunca su kesintisine gidilmemesi için tüm alternatifler degerlendirilmeli ve zamanında tedbir alınmalıdır.
 
@@ -173,9 +163,9 @@ Temel Sağlık Hizmetleri Genel Müdürlügü Sayı : B.10.0.TSH.0.10.00.04 Konu
 
 13. Ticari kuruluşlarca tankerlerle içme suyu satışı yasak olmakla birlikte, yerel yönetimler ve yetkilendirdikleri kuruluşlarca gerektiğinde hastaneler, çocuk ve yaşh bakım evleri ve ilköğretim okullarının ihtiyaçları karşılanabilir.
 
-### T.C SAĞLIK BAKANLIGI Temel Sağlık Hizmetleri Genel Müdürlüğü
+ T.C SAĞLIK BAKANLIGI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayi : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde almacak tedbirler Şebeke suyunun teknik olarak verilemediği bölgelere de Sağlık Müdürlükleri ile koordinasyon sağlanması kaydıyla tankerle su ikmali yapılabilir. Ancak, tankerle içme ve kullanma suyu temininde belirlenen kurallara titizlikle uyulmalıdır. Bu iş için kullanılan tankerler yerel yönetimlerce ruhsatlandırılmış olmalı ve başka amaçlar için kullanılmamalıdır. İçme ve kullanma suyu tankerlerinin dolum noktaları sağlık teşkilatına bildirilmelidir. Tankerlerdeki bakiye klor oranı 1 ppm olmalıdır.
+Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde almacak tedbirler Şebeke suyunun teknik olarak verilemediği bölgelere de Sağlık Müdürlükleri ile koordinasyon sağlanması kaydıyla tankerle su ikmali yapılabilir. Ancak, tankerle içme ve kullanma suyu temininde belirlenen kurallara titizlikle uyulmalıdır. Bu iş için kullanılan tankerler yerel yönetimlerce ruhsatlandırılmış olmalı ve başka amaçlar için kullanılmamalıdır. İçme ve kullanma suyu tankerlerinin dolum noktaları sağlık teşkilatına bildirilmelidir. Tankerlerdeki bakiye klor oranı 1 ppm olmalıdır.
 
 14. Sulama amaçhı kullanılan tankerlerle içme ve kullanma suyu taşınmamalıdır. Bu tankerler üzerine IÇILMEZ ibaresi yazılmalıdır.
 
@@ -202,12 +192,6 @@ Sayi : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde almacak tedbirler Şebeke suy
 2. Kesinti olmadığı zamanlarda da suyun depodan kullanımı sağlanmalıdır.
 
 3. Mahalle aralarında kuyu, tanker, bidon v.b. kaynaklardan içme suyu temin edilmemelidir.
-
-### 
-
-T.C 9000
-
-### SAGLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler
 
@@ -236,10 +220,6 @@ Sayı : B.10.0.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler
 15. Kaynağı bilinmeyen buzların kullanılmasından ve tüketilmesinden kaçınılmalıdır.
 
 16. Özellikle su kesintilerinin hemen sonrasında kullanılan sularla banyo yaparken duş kullanılmamalı, dökme tarzı banyo yapılmalıdır.
-
-K-O
-
-### T.C  SAĞLIK BAKANLIĞI 9000
 
 Temel Sağlık Hizmetleri Genel Müdürlüğü Sayı : B.10.O.TSH.0.10.00.04 Konu: Su kesintisinde alınacak tedbirler Bilginizi, yukarıda belirtilen konulara ilişkin olarak ilgili kurım ve kuruluşlarla işbirliği içinde gereken tedbirlerin alınması ve halka gereken duyuruların yapılması hususlarinda gereğini önemle rica ederim.
 

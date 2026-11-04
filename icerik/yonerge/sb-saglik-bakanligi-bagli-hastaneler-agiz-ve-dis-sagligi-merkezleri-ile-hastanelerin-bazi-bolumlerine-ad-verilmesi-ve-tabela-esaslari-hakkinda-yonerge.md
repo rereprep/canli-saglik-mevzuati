@@ -8,13 +8,16 @@ etiketler: ["sağlık tesisleri", "tabela", "ad verme", "hastaneler"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 20-26"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.2.3. Sağlık Bakanlığı Bağlı Hastaneler, Ağız ve Diş Sağlığı Merkezleri ile Hastanelerin Bazı Bölümlerine Ad Verilmesi ve Tabela Esasları Hakkında Yönerge
 
-### SAGLIK BAKANLIGINA BAGLI HASTANELER, AGIZ VE DIŞ SAGLIGI MERKEZLERİ İLE HASTANELERİN BAZI BÖLÜMLERİNE AD VERİLMESİ VE TABELA ESASLARI HAKKINDA YÖNERGE
+### SAĞLIK BAKANLIĞINA BAĞLI HASTANELER, AĞIZ VE DİŞ SAĞLIĞI MERKEZLERİ İLE HASTANELERİN BAZI BÖLÜMLERİNE AD VERİLMESİ VE TABELA ESASLARI HAKKINDA YÖNERGE
 
-## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+## BİRİNCİ BÖLÜM
+
+#### Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç ve kapsam
 
@@ -22,7 +25,7 @@ ocr: true
 
 (2) Bu Yönerge, Sağlık Bakanlığına bağlı hastaneler, ağız ve diş sağlığı merkezleri ile bunların bölümlerini kapsar.
 
-**MADDE 2 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbașkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 355 inci maddesinin birinci fikrasının (a) bendine ve 508 inci maddesine dayanılarak hazırlanmiştır.
+**MADDE 2 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 355 inci maddesinin birinci fıkrasının (a) bendine ve 508 inci maddesine dayanılarak hazırlanmıştır.
 
 **MADDE 3 –** (1) Bu Yönergede geçen;
 
@@ -30,9 +33,9 @@ a) Bakan: Sağlık Bakanını,
 
 b) Bakanlık: Sağlık Bakanlığını,
 
-c) Ek hizmet binası: Hastane ile ağız ve diş sağlığı merkezinin ana binasına bağlı olarak açılabilen, içerisinde tıbbi veya idari hizmet birimleri bulunan semt polikliniği, ek bina, günü birlik merkez ve bunlara benzer hizmetlerin verildiği bınayı,
+c) Ek hizmet binası: Hastane ile ağız ve diş sağlığı merkezinin ana binasına bağlı olarak açılabilen, içerisinde tıbbi veya idari hizmet birimleri bulunan semt polikliniği, ek bina, günü birlik merkez ve bunlara benzer hizmetlerin verildiği binayı,
 
-ş) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
+ç) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
 d) Hastane: Bakanlıkça ruhsatlandırılmış, ayaktan ve yatarak hasta muayenesi, tetkik, tahlil ve tedavi hizmetlerinin yapıldığı yataklı sağlık tesisini,
 
@@ -40,21 +43,23 @@ e) HSGM: Halk Sağlığı Genel Müdürlüğünü,
 
 1) KHGM: Kamu Hastaneleri Genel Müdürlüğünü,
 
-g) Müdürlük: II Sağlık Müdürlüğünü,
+g) Müdürlük: İl Sağlık Müdürlüğünü,
 
 ğ) Sağlık tesisi: Bu Yönerge kapsamında ad verilen hastane ile ağız ve diş sağlığı
 
 h) Semt polikliniği: Bakanlıkça belirlenen usul ve esaslara uygun olarak hastaneye ve ağız ve diş sağlığı merkezine bağlı olarak açılabilen ayaktan hasta muayenesi, tetkik, tahlil ve tedavi hizmetlerinin birden fazla uzmanlık dalında verilebildiği ek hizmet binasını/binalarını,
 
-1) Şehir Hastanesi: Bakanlıkça şchir hastanesi onayı verilen hastaneleri,
+1) Şehir Hastanesi: Bakanlıkça şehir hastanesi onayı verilen hastaneleri,
 
 i) Yerleşke: Aynı arsada, üzerinde bir veya birden fazla hastane binası ile ağız ve diş sağlığı merkezi binasının yer aldığı yerleşim alanını,
 
-## İKİNCİ BÖLÜM Ad Verilmesi İle İlgili Esaslar
+## İKİNCİ BÖLÜM
+
+#### Ad Verilmesi ile İlgili Esaslar
 
 #### Genel esaslar
 
-**MADDE 4 –** (1) Bakanlığa bağlı hastanelerin kurumsal kimliğini belirleyen unsurlar aşağıda sıralanmıştır: Evrakın elektronik imzals suretine http://e-belge.saglik.gov.tr adresinden be3de547-37e-Adb7-abế4.6h279hcb73d5 kodu ile eg/phirsiriz 1
+**MADDE 4 –** (1) Bakanlığa bağlı hastanelerin kurumsal kimliğini belirleyen unsurlar aşağıda sıralanmıştır: Evrakın elektronik imzals suretine 
 
 a) Bakanlık logosu
 
@@ -102,7 +107,7 @@ Evrakın stektronik inzals suretine htp:/le-belge saglik.gov.tr adresinden tec3d
 
 (4) Bulunduğu yerde sağlık hizmetini veremeyecek olan gayrimenkuller değerlendirmeye alınmaz. Ancak, gayrimenkulün satışına müsaade edildiği veya herhangi bir gayrimenkul hibe edilip karşılığında sağlık tesisi yapımı talep edildiği takdirde, yukarıdaki ölçülere göre değerlendirme yapılır.
 
-(5) Sağlık tesislerine ve bazı bölümlerine, Müdürlüğün teklifi üzerinc, darbe teşebbüsüne karşı, terörle mücadele ve ülke savunmasında şehit olmuş güvenlik mensupları, sivil vatandaşlar ile görev şehidi olmuş Bakanlığımız personelinin adlarının verilmesi, ad verme işlemlerinin kayıt altına alınarak bir bütünlük içinde yürütülmesi amacıyla; 27/12/2016 tarihli ve 29931 sayılı Resmi Gazete' de yayımlanan Şehitlerimizin Isimleri ve Yakınlarına Yapılacak Yardımlar ile Ilgili 2016/29 Sayılı Başbakanlık Genelgesi" kapsamında; Aile, Çalışma ve Sosyal Hizmetler Bakanlığının görüşü alınarak sağlık tesisinin türüne göre
+(5) Sağlık tesislerine ve bazı bölümlerine, Müdürlüğün teklifi üzerinc, darbe teşebbüsüne karşı, terörle mücadele ve ülke savunmasında şehit olmuş güvenlik mensupları, sivil vatandaşlar ile görev şehidi olmuş Bakanlığımız personelinin adlarının verilmesi, ad verme işlemlerinin kayıt altına alınarak bir bütünlük içinde yürütülmesi amacıyla; 27/12/2016 tarihli ve 29931 sayılı Resmî Gazete' de yayımlanan Şehitlerimizin Isimleri ve Yakınlarına Yapılacak Yardımlar ile Ilgili 2016/29 Sayılı Başbakanlık Genelgesi" kapsamında; Aile, Çalışma ve Sosyal Hizmetler Bakanlığının görüşü alınarak sağlık tesisinin türüne göre
 
 (6) Türk büyüklerinin ve saygın devlet adamlarımızın adları sağlık tesislerine Müdürlüğün teklifi ile sağlık tesisinin türüne göre KHGM'nin veya HSGM'nin onayı ile
 
@@ -170,9 +175,9 @@ j) Tabelaların, dış etkilere karşı dayanaklı, kir ve pas tutmama özelliğ
 
 **MADDE 8 –** (1) Bakanlığa bağhı binalarda kullanılan tabelalar, kullanım yer ve amacına göre aşağıdaki şekilde çeşitlendirilir.
 
-a) Çatı Tabelası: Sağlık tesislerinin ve 24 (yirmidört) saat kesintisiz hizmet veren ek hizmet binalarının acil durumlarda kolayca bulunabilmesi amacıyla, hizmet binasının çatısına gündüz ve gece uzaktan görünebilecek boyutta, içeriden ışıklandırılabilen bir tabela konulur. Çatı tabelası, işin yapılacağı yerin iklim şartları ve rüzgår durumuna göre, Bakanlığın "Mevcut ve Yeni Yapılacak Sağlık Tesislerinde Uyulması Gereken Asgari Teknik Standartlar Genelgesi'ne uygun olarak hazırlanır. Yaklaşık 50 (elli) metre uzaklıktan okunabilecek netlikte, boyutu binanın büyüklüğü ile orantılı olarak yapılır. Yazının çatı zemininden ne kadar yükseğe konulacağı binanın yüksekliği ve konumu göz önüne alınarak belirlenir. Çatı tabelasında, bu Yönergenin 4 üncü maddesinin birinci fikrasının tüm bentleri kullanılır.
+a) Çatı Tabelası: Sağlık tesislerinin ve 24 (yirmidört) saat kesintisiz hizmet veren ek hizmet binalarının acil durumlarda kolayca bulunabilmesi amacıyla, hizmet binasının çatısına gündüz ve gece uzaktan görünebilecek boyutta, içeriden ışıklandırılabilen bir tabela konulur. Çatı tabelası, işin yapılacağı yerin iklim şartları ve rüzgår durumuna göre, Bakanlığın "Mevcut ve Yeni Yapılacak Sağlık Tesislerinde Uyulması Gereken Asgari Teknik Standartlar Genelgesi'ne uygun olarak hazırlanır. Yaklaşık 50 (elli) metre uzaklıktan okunabilecek netlikte, boyutu binanın büyüklüğü ile orantılı olarak yapılır. Yazının çatı zemininden ne kadar yükseğe konulacağı binanın yüksekliği ve konumu göz önüne alınarak belirlenir. Çatı tabelasında, bu Yönergenin 4 üncü maddesinin birinci fıkrasının tüm bentleri kullanılır.
 
-b) Yatay veya Dikey Giriş Tabelası: Sabit veya taşınabilir bir mesnet üzerine yerleştirilmiş, sağlık tesisinin kurumsal kimliğini içeren ve bina girişlerine konulan tabelalardır. Giriş tabelalarının ölçüsü, bina ölçüsü ile orantılı olarak Sağhk Bakanlığı Kurumsal Kimlik Kılavuzu'na uygun olarak düzenlenir. Yatay giriş tabelasında bu Yönergenin 4 üncü maddesinin birinci fikrasının tüm bentleri kullanılır. Dikey giriş tabelasında ise bu Yönergenin 4 üncü maddesinin birinci fikrasının (b) bendi hariç diğer bentleri kullanılır.
+b) Yatay veya Dikey Giriş Tabelası: Sabit veya taşınabilir bir mesnet üzerine yerleştirilmiş, sağlık tesisinin kurumsal kimliğini içeren ve bina girişlerine konulan tabelalardır. Giriş tabelalarının ölçüsü, bina ölçüsü ile orantılı olarak Sağhk Bakanlığı Kurumsal Kimlik Kılavuzu'na uygun olarak düzenlenir. Yatay giriş tabelasında bu Yönergenin 4 üncü maddesinin birinci fıkrasının tüm bentleri kullanılır. Dikey giriş tabelasında ise bu Yönergenin 4 üncü maddesinin birinci fıkrasının (b) bendi hariç diğer bentleri kullanılır.
 
 c) Birlikte Kullanım Tabelası ve Kapı Giydirmeleri: Birlikte kullanım protokolü kapsamında sağlık hizmeti sunan sağlık tesislerin girişlerinde yeteri kadar büyüklükte, dikey giriş tabelası ölçülerini geçmeyecek ve geceleri de okunabilecek boyutta tabelalar konulabilir. Bu tabelaların üst kısmına, birlikte kullanım protokolü yapılan üniversite/üniversitelerin logoları konulabilir ve logonun altına adları yazılabilir. Ya da, bu tabelanın üst kısmına üniversite/üniversitelerin logoları konularak "Bu hastane/ağız ve diş sağlığı merkezi, „. Üniversitesi/Üniversiteleri ile birlikte kullanım kapsamında hizmet vermektedir." ibaresi eklenebilir. Ayrıca hastane bina girişlerindeki kapı giydirmelerinde veya kapı yazılarında kapının sağ kanadına Bakanlığın logosu ve hastanenin adı, sol kanadına ise birlikte kullanım protokolü ile hizmet sunulan üniversitenin logosu ve adı yazılabilir.
 
@@ -182,11 +187,11 @@ c) Birlikte Kullanım Tabelası ve Kapı Giydirmeleri: Birlikte kullanım protok
 
 Evrakın elektronik imzal: suretine http://e-belge.saglik.gov.tr adresinden bc3dc547-37cc-4dh7-abf4-6b279acb73d5 kodu ile eri Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmastır.
 
-d) Totem: Yerleştirilecek alanın durumu göz önünde bulundurulur ve en az 50 (elli) metreden görülecek büyüklükte, Sağlık Bakanlığı Kurumsal Kimlik Kılavuzu'na uygun olarak hazırlanır. Totemlerde, bu Yönergenin 4 üncü maddesinin birinci fikrasının tüm bentleri kullanıhr.
+d) Totem: Yerleştirilecek alanın durumu göz önünde bulundurulur ve en az 50 (elli) metreden görülecek büyüklükte, Sağlık Bakanlığı Kurumsal Kimlik Kılavuzu'na uygun olarak hazırlanır. Totemlerde, bu Yönergenin 4 üncü maddesinin birinci fıkrasının tüm bentleri kullanıhr.
 
 e) Bina Içi Yönlendirme Tabelaları: Sağlık tesisinin bölümlerinin bulunabilmesi amacıyla, binalarda giriş ve katlarda, sabit veya taşınabilir bir mesnet üzerine yerleştirilmiş; gidilecek yeri yönlendiren ve sağlık tesisi içinde ziyareti kolaylaştıracak, kat bilgisi ve/veya yön göstergesi ile birim adlarının yer aldığı tabelalardır. Bina içi yönlendirme tabelaları, poliklinik, klinik, doktor odası, toplantı salonu, laboratuvar, görüntüleme birimleri ve benzeri bölümlere yön verecek şekilde Sağlık Bakanlığı Kurumsal Kimlik Kılavuzu'na uygun olarak yerleştirilir. Yön ve yer gösterici tabelalar aynı levha üzerinde birlikte kullanılabilir. Bu durumda, yön okları tabelanın sağ tarafına, kat numaraları ise tabelanın sol kısmına konulur.
 
-f) Bina Dışı Yönlendirme Tabelaları: Sağlık tesisinin kolayca bulunabilmelerine yardımcı olmak amacıyla faaliyet gösterilen binanın bulunduğu cadde veya sokak girişlerine yönlendirme tabelaları ilgili mevzuata göre konulabilir. Sağlık tesisinin ana yollardan uzak olması nedeniyle konulabilecek yönlendirme tabelaları, bulunduğu güzergåhtaki diğer yol ve yön tabela ölçülerine uygun olarak açık ve uzaktan görünür şekilde kullanılır. Mavi zemin üzerinde beyaz yazı ile bu Yönergenin 4 üncü maddesinin birinci fikrasının (c), varsa (ç) ile (d)
+f) Bina Dışı Yönlendirme Tabelaları: Sağlık tesisinin kolayca bulunabilmelerine yardımcı olmak amacıyla faaliyet gösterilen binanın bulunduğu cadde veya sokak girişlerine yönlendirme tabelaları ilgili mevzuata göre konulabilir. Sağlık tesisinin ana yollardan uzak olması nedeniyle konulabilecek yönlendirme tabelaları, bulunduğu güzergåhtaki diğer yol ve yön tabela ölçülerine uygun olarak açık ve uzaktan görünür şekilde kullanılır. Mavi zemin üzerinde beyaz yazı ile bu Yönergenin 4 üncü maddesinin birinci fıkrasının (c), varsa (ç) ile (d)
 
 g) Bina Içi Tabelalar: Sağlık tesisinde bulunan idari odalar, hasta odaları, poliklinikler, toplantı odaları gibi bölümlerin kapı girişlerinde yer alan tabelalardır. İlgili bölümün kapısı, koridora ve sol tarafa açılıyorsa kapının sağ tarafina; koridora ve sağ tarafa açılıyorsa, kapının sol tarafina yüzeyle orantılı olarak yerden 160 cm yükseklikte monte edilir. Tabelalar, kapı girişlerinin uygun olmadığı durumlarda uygun olan yerlere de konulabilir. Aynı bölüm veya oda farklı kişilerce ya da farklı faaliyetler için kullamılıyorsa tabelalar alt alta gelecek şekilde yerleştirilir. Kapı tabelalarında sol tarafta bakanlık logosu, üstte birimin adı, altta birim çalışanlarının adları bulunur. Kapı ad tabelalarında adın baş harfi büyük diğer harfleri küçük,
 

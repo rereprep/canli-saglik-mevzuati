@@ -9,32 +9,33 @@ etiketler: ["kan temini", "kan ürünleri", "kan bankacılığı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 274-274"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-2.3.52. Kan ve Kan Ürünleri Temini Genelgesi (2007/43)
+### T.C. SAGLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-### T.C. SAGLIK BAKANLIGI Tedavi Hizmetleri Genel Müdürlüğü 12263 08.06.2007
+Sayı: B.10.0.THG.0.15.00.01/12263
 
-Sayr : B.10.0.THG.0.15.00.01/ Konu : Kan ve Kan Ürünleri Temini
+Konu: Kan ve Kan Ürünleri Temini
 
-### GENELGE 2007/4 J Kan ve kan ürünleri ile ilgili bütün faaliyetler toplum sağlığı açısından büyük önem
+08.06.2007
 
-taşımaktadır. Bu nedenle bakanlığımız bilimsel ve güncel gelişmelere uygun olarak ülkemizde kan ve kan ürünlerinin temini ve kullanımıda yaşanan sorunlara çözüm getirmek için hazırlanan 5624 sayı ile "Kan ve Kan Ürünleri" yasası 11.04.2007 tarihinde resmi gazetede yayımlanarak yürürlüğe girmiş olup yeni yasa, "kan, kan bileşenleri ve ürünlerinin temininde kan bağışının karşılıksız ve gönüllü olması kan kan bileşenleri ve ürünlerinin ahınmasında ve verilmesinde bağışçı ve alıcıın sağlığınım tehlikeye düşürülmemesi, tıbbi risklere karşı korunması ve transfüzyonun güvenle yapılması esasları ile, hizmet birimlerinin Bölge Kan Merkezleri, Kan Bağış Merkezleri ve Transfüzyon Merkezleri olarak yeniden düzenlenmesini" getirmektedir.
+### GENELGE 2007/43 Kan ve kan ürünleri ile ilgili bütün faaliyetler toplum sağlığı açısından büyük önem
 
-Bu çerçevede Türk Kızılay"ı "Güvenli Kan Temin Projesi" ile "Bölge Kan Merkezleri ve Kan Bağış Merkezleri" çalışmalarımı hızlandırmış olup kan birimlerini güçlendirilmekte ve gönüllü kan bağışımı her geçen gün arttırmaktadır.
+taşımaktadır. Bu nedenle bakanlığımız bilimsel ve güncel gelişmelere uygun olarak ülkemizde kan ve kan ürünlerinin temini ve kullanımında yaşanan sorunlara çözüm getirmek için hazırlanan 5624 sayılı "Kan ve Kan Ürünleri" yasası 11.04.2007 tarihinde Resmî Gazete’de yayımlanarak yürürlüğe girmiş olup yeni yasa, "kan, kan bileşenleri ve ürünlerinin temininde kan bağışının karşılıksız ve gönüllü olması kan kan bileşenleri ve ürünlerinin alınmasında ve verilmesinde bağışçı ve alıcının sağlığının tehlikeye düşürülmemesi, tıbbi risklere karşı korunması ve transfüzyonun güvenle yapılması esasları ile, hizmet birimlerinin Bölge Kan Merkezleri, Kan Bağış Merkezleri ve Transfüzyon Merkezleri olarak yeniden düzenlenmesini" getirmektedir.
 
-### Ayrıca Maliye Bakanlığınca yayılanan "Tedavi Yardımına Ilişkin Uygulama Tebliği" ve
+Bu çerçevede Türk Kızılayı "Güvenli Kan Temin Projesi" ile "Bölge Kan Merkezleri ve Kan Bağış Merkezleri" çalışmalarını hızlandırmış olup kan birimlerini güçlendirilmekte ve gönüllü kan bağışımı her geçen gün arttırmaktadır.
 
-Sosyal Güvenlik Kurumu Başkanlığınca yayımlanan "Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği"nde de "Kan ihtiyacının karşılanmasında güvenli kan temini esas olup, hasta yakınlarının kan verecek kişileri bulmasın sebep olduğu sağhık ve sosyal sorunlanı önlemek için. Kızılay kan birimlerinde kan ve kan bileşenlerinin bulunduğu durumlarda, replasman kan alımma yöntemi tercih edilmeyecektir" denilmektedir.
+Ayrıca Maliye Bakanlığınca yayımlanan "Tedavi Yardımına İlişkin Uygulama Tebliği" ve
 
-Buna göre hastanelerimizin kan ihtiyaçlarının temininde öncelikle Kızılay kan kaynaklarının kullanılması hususunda gerekli özeni göstermeleri hususunda:
+Sosyal Güvenlik Kurumu Başkanlığınca yayımlanan "Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği"nde de "Kan ihtiyacının karşılanmasında güvenli kan temini esas olup, hasta yakınlarının kan verecek kişileri bulmasın sebep olduğu sağlık ve sosyal sorunları önlemek için, Kızılay kan birimlerinde kan ve kan bileşenlerinin bulunduğu durumlarda, replasman kan alımma yöntemi tercih edilmeyecektir" denilmektedir.
+
+Buna göre hastanelerimizin kan ihtiyaçlarının temininde öncelikle Kızılay kan kaynaklarının kullanılması hususunda gerekli özeni göstermeleri hususunda;
 
 Gereğini önemle rica ederim.
 
-ORenl
+Uzm. Dr. Orhan GÜMRÜKÇÜOĞLU
 
-Uzm. Dr. Orhan GÜMRÜKÇÜOGLU
-
-Bakan a:
+Bakan a.
 
 Müsteşar V.

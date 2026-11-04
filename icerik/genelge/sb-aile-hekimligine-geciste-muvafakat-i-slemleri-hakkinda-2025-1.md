@@ -9,6 +9,7 @@ etiketler: ["personel", "aile hekimliği", "muvafakat"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1002-1004"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 9.3.5. Aile Hekimliğine Geçişte Muvafakat İşlemleri Hakkında Genelgesi (2025/1)
@@ -25,15 +26,15 @@ ocr: true
 
 10) Bakanlığımıza bağlı hastanelerde görev yapan tabip, ebe, hemşire, sağlık memurlarından (toplum sağlığı, ilk ve acil yardım) herhangi bir sertifikaya (diyaliz sertifikası, yoğun bakım sertifikası vb.) sahip olması nedeniyle özellikli birimlerde görev yapanların sözleşmeli aile hekimliği pozisyonlarına geçmelerine muvafakat verilmemiştir.
 
-11) Muvafakat belgesi, yukarıda belirtilen istisnalar dışında her aile hekimliği yerleştirmesi için ayrıca aranacaktır. Süreli veya belirli bir il gibi sınırlamaların yer aldığı muvafakat belgeleri kabul edilmeyecektir. Muvafakat başvurularının tamamı birlikte değerlendirilecektir. Muvafakat verilecek personel sayısından fazla müracaat olması halinde öncelikle en yüksek hizmet puanına, hizmet puamının eşit olması halinde hizmet süresi fazla olana muvafakat verilecektir. Ancak üç yerleştirme işlemi için üst üste muvafakat alıp yerleştirme sırasında tercih yapmayan tabip veya uzman tabiplere bir yıl süre ile muvafakat verilmeyecektir.
+11) Muvafakat belgesi, yukarıda belirtilen istisnalar dışında her aile hekimliği yerleştirmesi için ayrıca aranacaktır. Süreli veya belirli bir il gibi sınırlamaların yer aldığı muvafakat belgeleri kabul edilmeyecektir. Muvafakat başvurularının tamamı birlikte değerlendirilecektir. Muvafakat verilecek personel sayısından fazla müracaat olması halinde öncelikle en yüksek hizmet puanına, hizmet puanının eşit olması halinde hizmet süresi fazla olana muvafakat verilecektir. Ancak üç yerleştirme işlemi için üst üste muvafakat alıp yerleştirme sırasında tercih yapmayan tabip veya uzman tabiplere bir yıl süre ile muvafakat verilmeyecektir.
 
 12) Bu Genelge'nin 7 nci ve 9 uncu maddelerindeki kısıtlamalar haricinde aile hekimliği uzmanlarının tamamının aile hekimliğine geçişine muvafakat verilmiştir.
 
-13) Aile hekimliği uzmanları haricindeki diğer uzman tabiplerin ise sözleşmeli aile hekimliği pozisyonlarına geçmelerine muvafakat verilmemiştir. Mazeretleri gereği sözleşmeli aile hekimliğine geçmek isteyenlerin başvuruları, Il Sağlık Müdürlüğünün uygun görüşü ve gerekçeleri doğrultusunda uzman tabip ihtiyaçları dikkate alınarak Yönetim Hizmetleri Genel Müdürlüğü tarafından değerlendirilerek karara
+13) Aile hekimliği uzmanları haricindeki diğer uzman tabiplerin ise sözleşmeli aile hekimliği pozisyonlarına geçmelerine muvafakat verilmemiştir. Mazeretleri gereği sözleşmeli aile hekimliğine geçmek isteyenlerin başvuruları, İl Sağlık Müdürlüğünün uygun görüşü ve gerekçeleri doğrultusunda uzman tabip ihtiyaçları dikkate alınarak Yönetim Hizmetleri Genel Müdürlüğü tarafından değerlendirilerek karara
 
-14) Sözleşmeli aile hekimliği uygulamalarında görev almak için başvuruda bulunanlar arasında hizmetin ifasından kaynaklı veya hekimlik mesleğiyle bağdaşmayan suçlar ile 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A) bendinin beşinci fikrasına göre adli yönden incelemesi devam eden personelin dosyaları Yönetim Hizmetleri Genel Müdürlüğüne gönderilecek ve amılan Genel Müdürlükçe muvafakat verilmesi halinde yerleştirmeye alınacaktır.
+14) Sözleşmeli aile hekimliği uygulamalarında görev almak için başvuruda bulunanlar arasında hizmetin ifasından kaynaklı veya hekimlik mesleğiyle bağdaşmayan suçlar ile 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A) bendinin beşinci fıkrasına göre adli yönden incelemesi devam eden personelin dosyaları Yönetim Hizmetleri Genel Müdürlüğüne gönderilecek ve anılan Genel Müdürlükçe muvafakat verilmesi halinde yerleştirmeye alınacaktır.
 
-15) Sözleşmeli aile hekimi ve aile sağlığı çalışanı olarak görev yapmakta iken Aile Hekimliği Sözleşme ve Odeme Yönetmeliği'nin; 7 nei maddesi hükümlerine istinaden sözleşmeleri yenilenmeyen, 8 inci maddesi hükümlerine istinaden sözleşmeleri kendiliğinden sona eren ve 10 uncu maddesinin dördüncü fikrası hükümlerine istinaden sözleşmesi feshedilen aile hekimi ve aile sağlığı çalışanlarına, sözleşmelerinin sona erdiği tarihten itibaren iki yıl süre ile aile hekimliğine geçmelerine muvafakat verilmemiştir.
+15) Sözleşmeli aile hekimi ve aile sağlığı çalışanı olarak görev yapmakta iken Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği'nin; 7 nci maddesi hükümlerine istinaden sözleşmeleri yenilenmeyen, 8 inci maddesi hükümlerine istinaden sözleşmeleri kendiliğinden sona eren ve 10 uncu maddesinin dördüncü fikrası hükümlerine istinaden sözleşmesi feshedilen aile hekimi ve aile sağlığı çalışanlarına, sözleşmelerinin sona erdiği tarihten itibaren iki yıl süre ile aile hekimliğine geçmelerine muvafakat verilmemiştir.
 
 16) 2020/1 sayılı "Aile hekimliğine geçişte muvafakat işlemleri" konulu Genelge ile anılan Genelgede değişiklik yapan Genelgeler yürürlükten kaldırılmıştır,
 
@@ -41,4 +42,4 @@ Yukarıda belirtilen hususlar çerçevesinde gerekli tedbirlerin alınması ve u
 
 Prof. Dy Konal MELIŞOGLU
 
-l Bakan
+Bakan

@@ -9,19 +9,22 @@ etiketler: ["çalışan güvenliği", "beyaz kod", "şiddet önleme"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 170-173"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.13. Çalışan Güvenliğinin Sağlanması Genelgesi (2012/23)
 
-### T.C. SAĞLIK BAKANLIGI Sağhk Hizmetleri Genel Müdürlügü : B.100.SHG.0.21.00.00 /951.99/ 6665 14/05/2012
+### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı: B.100.SHG.0.21.00.00/951.99/6665  Tarih: 14/05/2012
 
 Sayı Konu : Çalışan güvenliğinin sağlanması
 
-### GENELGE 2012/.2.3
+### GENELGE 2012/23
 
-Sağhk çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlğımızca bu çerçevede, saglık çalişanlarının güvenliğine yönelik aşağıdaki düzenlemeler Yapilarak kurumlarımiz talimatlandınlmişt.
+Sağlık çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlığımızca bu çerçevede, sağlık çalışanlarının güvenliğine yönelik aşağıdaki düzenlemeler yapılarak kurumlarımız talimatlandırılmıştır.
 
-a) Tüm sağlık kurumlarında, hizmet alanlar ve sağhk çalışanları için güvenli bir ortam sağlanması amacıyla yayımlanan "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik" dogrultusunda;
+a) Tüm sağlık kurumlarında, hizmet alanlar ve sağhk çalışanları için güvenli bir ortam sağlanması amacıyla yayımlanan "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik" doğrultusunda;
 
 1) Çalışan güvenliği komitesinin kurulması,
 
@@ -33,17 +36,17 @@ a) Tüm sağlık kurumlarında, hizmet alanlar ve sağhk çalışanları için g
 
 5) Çalışanlara yönelik şiddetin önlenmesi için düzenleme yapılması,
 
-6) Enfeksiyonların kontrolü ve önlenmesine yönelik program hazırlanmasi,
+6) Enfeksiyonların kontrolü ve önlenmesine yönelik program hazırlanması,
 
-7) Beyaz kod uygulamasına geçılmesı,
+7) Beyaz kod uygulamasına geçilmesi,
 
 8) Çalışanlara, çalışan güvenliği konusunda eğitimlerin verilmesi.
 
 b) Kurumlarımızda uygulamaya konulan "Hizmet Kalite Standartları" kapsamında çalışma ortamından kaynaklanan risklerin bertaraf edilmesi amacıyla şiddet ve iletişim konularını da kapsayacak şekilde risk değerlendirmesi yapılarak gerekli tedbirlerin alınması.
 
-e) "Yatakh Sağhk Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Teblig" ile acil servisler başta olmak üzere riskli alanlarda güvenlik tedbirleri artırılarak. genel kolluk ve özel güvenlik personeliyle güvenlik kamerası bulundurulmasının sağlanması.
+e) "Yatakh Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Teblig" ile acil servisler başta olmak üzere riskli alanlarda güvenlik tedbirleri artırılarak. genel kolluk ve özel güvenlik personeliyle güvenlik kamerası bulundurulmasının sağlanması.
 
-Diğer taraftan şiddeti azaltmaya yönelik çalışmaların basın mensupları, iletişim uzmanlan, idareciler ve sağhık çalışanlarıyla birlikte değerlendirildiği sempozyum düzenleyerek ulusal düzeyde sürekliligi olan "Emeğe Saygı Şiddete Sıfir Tolerans" kampanyasını başlatmıştık. Bu kampanya kapsamında vatandaşı bilgilendirmek ve toplumsal bilinç oluşturmak amacı ile çalışmalarımızı yürütmekteyiz. Ayrıca "hasta ve çalışan güvenliği sempozyumlan" düzenleyerek sağlık çalişanlarına eğitimler vermekteyiz.
+Diğer taraftan şiddeti azaltmaya yönelik çalışmaların basın mensupları, iletişim uzmanlan, idareciler ve sağhık çalışanlarıyla birlikte değerlendirildiği sempozyum düzenleyerek ulusal düzeyde sürekliliği olan "Emeğe Saygı Şiddete Sıfir Tolerans" kampanyasını başlatmıştık. Bu kampanya kapsamında vatandaşı bilgilendirmek ve toplumsal bilinç oluşturmak amacı ile çalışmalarımızı yürütmekteyiz. Ayrıca "hasta ve çalışan güvenliği sempozyumlan" düzenleyerek sağlık çalışanlarına eğitimler vermekteyiz.
 
 Kişinin fiziksel ve psikolojik açıdan zarar görmesiyle sonuçlanan veya sonuçlanması muhtemel olan sözlü veya fiili hareketler olarak tanımlanan şiddet olaylarımın önlenmesi amacıyla. mevcut uygulamaların gözden geçirilmesi önem taşımaktadır. Bu itibarla çalışan güvenliğinin sağlanmasında yöneticilerimize büyük görev ve sorumluluk düşmekte olup aşağıdaki talimatlar hassasiyetle uygulanacaktır.
 
@@ -55,7 +58,7 @@ b) Görevli müdahale ekiplerinin olay yerine en kısa zamanda ulaşması sağla
 
 e) Gerçekleşen olayların analizi yapılarak, ilgili sağlık kurumuna özgü tedbirler artırılacaktır.
 
-### T.C. SAGLIK BAKANLIGI Sağhk Hizmetleri Genel Müdürlüğü
+### T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
 
 2) Çalışan Hakları ve Güvenliği Birimi;
 
@@ -99,13 +102,13 @@ c) Vatandaş, sağlık çalışanına yönelik şiddet uygulayanların mutlaka y
 
 ### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
-Sağhk çalışanları, saglık hizmeti sunumu esnasında şiddete uğraması halinde, acil verilmesi gereken hizmetler hariç olmak üzere hizmetten çekilme talebinde bulunabilir.
+Sağlık çalışanları, sağlık hizmeti sunumu esnasında şiddete uğraması halinde, acil verilmesi gereken hizmetler hariç olmak üzere hizmetten çekilme talebinde bulunabilir.
 
 a) Hizmetten çekilme talebi, kurum tarafindan belirlenen yöneticiye sözlü veya yazılı olarak
 
 b) Bildirim üzerine yetkili yönetici, olayı derhal değerlendirerek hizmetten çekilme talebinin uygun olup olmadığı hakkında gecikmeksizin karar verecektir.
 
-e) Yetkili yönetici, hizmetten çekilme talebini uygun bulduğu takdirde hastamın sağlık hizmeti almasına ve tedavisinin devamna yönelik tedbirleri güvenlik tedbirleriyle birlikte alacaktır. Bu kapsamda ilgili hastanın sağlık hizmetini devam ettirecek yeni saglık çalışanıı belirleyecek. kurum içerisinde bunun mümkün olmaması halinde hastanın hizmet alabileceği başka bir sağlık kurumuna sevkini ve hizmet alımını sağlayacaktır. Bu süreç sırasında hastanın tedavisinin
+e) Yetkili yönetici, hizmetten çekilme talebini uygun bulduğu takdirde hastamın sağlık hizmeti almasına ve tedavisinin devamna yönelik tedbirleri güvenlik tedbirleriyle birlikte alacaktır. Bu kapsamda ilgili hastanın sağlık hizmetini devam ettirecek yeni sağlık çalışanıı belirleyecek. kurum içerisinde bunun mümkün olmaması halinde hastanın hizmet alabileceği başka bir sağlık kurumuna sevkini ve hizmet alımını sağlayacaktır. Bu süreç sırasında hastanın tedavisinin
 
 7) Bildirim süreci ve hukuki yardım;
 
@@ -115,7 +118,7 @@ sağlık çalışanlarına yönelik şiddet olaylarımı takip etmek üzere "Bak
 
 a) Kamu ve özel tüm sağhk kurum ve kuruluşlarında gerçekleşen şiddet olaylan, yöneticiler tarafindan derhal "113" numaralı telefonla Bakanlık Beyaz Kod Birimine bildirilecek, eş zamanls olarak ilgili kurumun hukuk birimine ve adli mereilere intikal ettirilecektir. Kamu görevlilerine karşı işlenen şıddet olaylarımın takibi şikäyete bağhı olmadığından, ilgili personelin şikåyetinin olup olmadığına bakılmaksızın yönetic'ler olayı mutlaka adli mercilere intikal ettirecektir. Özel sağlık kuruluşları da adli bildirim konusunda gerekli hassasiyeti gösterecektir.
 
-b) Şiddete ugrayan saglık çalışanı tarafindan da "113" numaralı telefona doğrudan bildirim
+b) Şiddete ugrayan sağlık çalışanı tarafindan da "113" numaralı telefona doğrudan bildirim
 
 c) Ayncu yüneticiler, "www.beyazkod.saglik.gov.tr" adresinde bulunan "Beyaz Kod Bildirim Formu"nu dolduracaktır.
 
@@ -133,7 +136,7 @@ c) SABİM'e yapılan sağlık çalışanları hakkındaki şikayetler, başvurul
 
 ### T.C. SAGLIK BAKANLIĞI
 
-Sağhk Hizmetleri Genel Müdürlüğü soyut nitelikte olan, şikayet sahibinin adı ve adresi belli olmayan veya personelin kusuru bulunmadığı açıkça görülen ihbar ve şikayetler değerlendirmeye alınmayacaktır.
+Sağlık Hizmetleri Genel Müdürlüğü soyut nitelikte olan, şikayet sahibinin adı ve adresi belli olmayan veya personelin kusuru bulunmadığı açıkça görülen ihbar ve şikayetler değerlendirmeye alınmayacaktır.
 
 Genelgenin llinizde bulunan tüm kamu, üniversite ve özel sağlık kurum ve kuruluşlanna duyurulması ve uygulanmasının teminini, aynca Bakanlığımızca çalışan güvenliğine ilişkin olarak yapılacak yeni düzenlemelerin titizlikle takibini önemle rica ederim.
 

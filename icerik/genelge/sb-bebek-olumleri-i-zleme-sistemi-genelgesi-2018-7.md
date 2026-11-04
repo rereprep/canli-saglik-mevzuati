@@ -9,19 +9,21 @@ etiketler: ["halk sağlığı", "çocuk sağlığı", "anne sağlığı", "taram
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 727-732"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.55. Bebek Ölümleri İzleme Sistemi Genelgesi (2018/7)
 
-### T.C. SAGLIK BAKANLIỚI Halk Saghet Genel Madurduği
+### T.C. SAĞLIK BAKANLIĞI – Halk Sağlığı Genel Müdürlüğü
 
-Sayı : 07414568- Koau - Bebek Olümten Izleme Sitenu alon Perinanl ve Bebek Ölimier: Bilgi Formu, gere ve bebeğin hirnei hasartakta gerçeklestirilen izlem ve işlemleri, allenin sosyz-ekonomik duromna dair bilgilar de ISM ce valep edilecek diger belge ve bilgileri en kasa sirede temm edip göndermekle/gonderilmesim sağlamakla yükümludo Ayrıca bölgesinde, sağle kuruluşu dinunda (evde, yolda v.h) meydanu gelen dilm olması halinde Ek-+*ce yer alan Söre! Chopsi Formunun havuriamıp şonden|miesnı sağlayacaktu.
+Sayı: 67414568-[?]
+Konu: Bebek Ölümleri İzleme Sistemi alon Perinatal ve Bebek Ölimier: Bilgi Formu, gere ve bebeğin hirnei hasartakta gerçeklestirilen izlem ve işlemleri, allenin sosyz-ekonomik duromna dair bilgilar de ISM ce valep edilecek diger belge ve bilgileri en kasa sirede temm edip göndermekle/gonderilmesim sağlamakla yükümludo Ayrıca bölgesinde, sağle kuruluşu dinunda (evde, yolda v.h) meydanu gelen dilm olması halinde Ek-+*ce yer alan Söre! Chopsi Formunun havuriamıp şonden|miesnı sağlayacaktu.
 
-€) Adla hekimieri sorumin oldoklan nufusta perinaal ve bebek olani olugunda EL-1 de yer alan Perital ve Bebek Otünleri Bilgi Formunu Ek-Z de ver alan doldirea kilavurundan yararlanarak dakkuracakt Ferm de bırlıkte gebe ve heheğin birinci basamakta gerşekleştirilen izlem ve işlemlerini allenın sosyo skomomik-külturei donimuna däir bilgileri ve ISM'ce talep edilecek diger belge ve bilgileri en kosa siirede teman edip baglı bulunängu dye sağhk mödadu alne
+€) Aile hekimleri sorumin oldoklan nufusta perinaal ve bebek olani olugunda EL-1 de yer alan Perital ve Bebek Otünleri Bilgi Formunu Ek-Z de ver alan doldirea kilavurundan yararlanarak dakkuracakt Ferm de bırlıkte gebe ve heheğin birinci basamakta gerşekleştirilen izlem ve işlemlerini allenın sosyo skomomik-külturei donimuna däir bilgileri ve ISM'ce talep edilecek diger belge ve bilgileri en kosa siirede teman edip baglı bulunängu dye sağhk mödadu alne
 
 d) Bakandiğunza bagle ber bostunede *Bebek Ölümleri İzlemte Soramiasu" olarik bie personel helitienerekti. Bu personelce, olumun gerçeklestigi 3 1041 is una içinde, okumal te pir eden hekim tarufından Ek-2°de ver alar kıluvuzundan yararlanılarak doldamlan Perimatal ve Bekek Mümleri Bilgi Fortno ie bebek ve gebenin hastanede satşianna dair opikriz fermu ISM'y aldirilecekns, Ayrca ISM ce talep edilebilecek ek bilgı ve belgeler de ivedinkle ponderilecektr Ölu doğunı ve benek olumu цугм dogru yuplabibnesi sçs özellikle луи gin Çinle perçeklesen olürlerde, doßun ve öldns saa de ölim nedenlerin. hem Penatal ve Bebel Cimleri Bilgi Formunda hem de ÖBS ne girişlerde dogru şekilde girilmesine acund dikL- edilecektir. Yenidogan epikriz farmu olarak. Ek-6 kullumlicakur
 
-e) 112 acil saglik Intaes birimleri, sevk sersanda meydana gelen dii doğumi ve behsk Olümlerini Perinanl ve Behek Ökümleri Brigi Frimuna doldatarak, hebege ait kayıtlarla birlikte ISM ye bildire ektir
+e) 112 acil saglik Intaes birimleri, sevk sersanda meydana gelen dii doğumi ve behsk Ölümlerini Perinatal ve Behek Ökümleri Brigi Frimuna doldatarak, hebege ait kayıtlarla birlikte ISM ye bildire ektir
 
 f) Özel sutlık kurum ve kuruluştanda mesul coldir: muayenchanelende ise hekim, bebek olümlerini yukarıda unlan formlarla hiklımet, yaş ve izlemlere dair dokumanlarin ralep edilen bel peleri gündernekle yäkamidür
 
@@ -29,13 +31,13 @@ g) Üniversite hastune|erinde ba hekimlik. bebek dumlerini bildirmek ve incelenm
 
 g) ÖBS de hem lämin gerçekleștigı (le, bem de ikumer edtlen ITa gre vakalar gorulebıldiginden: ikamet edilen il tarafından vakayd ai birinci basanak kayalany la blallkle Bebel čemleri Incelome Kurlunun düy duyubileceli gebeligs doğuma, varsa seke ve behege m meveui şüm bilgi ve belgeler ivedilıkle dilman gerçekleştiği ile bildirilecek, ayneu Başka helgeye ahtiyaç duyulursa da en kisa sürede bildirlecekte:
 
-h) Ayrica (kamer adilen il turafindan, beka dte tidugu ve OBS de yer ainala trapo edilen vakalarda, Dilm sen netlestirildikten sonra Olümün gerşeklegaği if'e Bebek Milumler Incelene Kuralınun atiyaç duyacağı mim Migi ve belgeler ile olümin gerçeklestigi din kumlanmala olümii tespit edebilmeleri jçin perdi bılgiler (hebeğin, annenin ve babanın adısoyach, TE kimlik numurası, bebeğin doğum tarihıl, bebeğin düm tribr, ölüm yeri, älimün gerçekleștigi katumun adı vby gönderilecektir.
+h) Ayrica (kamer adilen il turafindan, beka dte tidugu ve OBS de yer ainala trapo edilen vakalarda, Dilm sen netlestirildikten sonra Ölümün gerşeklegaği if'e Bebek Milumler Incelene Kuralınun atiyaç duyacağı mim Migi ve belgeler ile olümin gerçeklestigi din kumlanmala olümii tespit edebilmeleri jçin perdi bılgiler (hebeğin, annenin ve babanın adısoyach, TE kimlik numurası, bebeğin doğum tarihıl, bebeğin düm tribr, ölüm yeri, älimün gerçekleștigi katumun adı vby gönderilecektir.
 
 0 Ölämin gerçekleştığı ve intelemeyi yapan il Bebek Ohimlerı Inceleme Kurulunun değerlendirmenn ardındon tesi erği durumlan ve kanalanm bebeğiu ikamet enti i'e dk Indireczlder.
 
-### TC SAOLIK BAKANLIGI Halk Sagle Trenef Nudhrgr
+### T.C. SAĞLIK BAKANLIĞI – Halk Sağlığı Genel Müdürlüğü
 
-Sayr , 67414505 Konu / Bebek Olümderi Izleme Sikenu
+Sayr , 67414505 Konu / Bebek Ölümderi Izleme Sikenu
 
 i) Sahnda tespit extien pennatal ve nenek dilumderinin OBS'de olup elmadınun komrolu He Nufus ve Varundustk Isleri Genel Mudurlugünce bildirilurek OBS'de raporlanan vakalann legal ve incelemeleri i bebek olüimleri izleme sorumlusa tarshmdan takip eöileccktir, OB5'de olmayar vakılar, ISM istatistik ve hilgi işlem birimune hildirilscek olup, sisteme kaydinın yapaniruei bu hirimce sn glunorakbr
 
@@ -75,7 +77,7 @@ Perinaral ve bebek olumleti de ilgili inceleme disanda kalun lim iy ve iglemler 
 
 a) Kurul, en w ayda bir kez toplanarak ve ber öld doğum ale bebek ölümu kurulda aynı ayn incelenerek tüm vakalann incelemeleri takip eden ayin somundu tartamlanavakar
 
-B) He gergekleşen tum tHü dogum ve bebek olümleri, ternin edilen belgelerle birlikte Ek- 3 de yer alan Bebek Olümleri Inceleme Kunilu Kahana Forisuna aygun olarak incelenerek kurulca Incdlere essasıda duldunılacaktır. Aynıci her vakada nu formun ilk saylusi kurul üyelerince paraflauicaklır Incelemelerde Perinatal ye Bebek Olünleri Bilgi Formunda yer alan bilgiler kımttol edilerek eksik ve hach olgiler duzeltilecekta.
+B) He gergekleşen tum tHü dogum ve bebek olümleri, ternin edilen belgelerle birlikte Ek- 3 de yer alan Bebek Ölümleri Inceleme Kunilu Kahana Forisuna aygun olarak incelenerek kurulca Incdlere essasıda duldunılacaktır. Aynıci her vakada nu formun ilk saylusi kurul üyelerince paraflauicaklır Incelemelerde Perinatal ye Bebek Olünleri Bilgi Formunda yer alan bilgiler kımttol edilerek eksik ve hach olgiler duzeltilecekta.
 
 e) Bebek olümlerioin değerendinlaicande, izlemier (gebe-hebeki, doğum siirec), (uümá götüren süreçte daha önceki hostune yatsiari, saglik porsoneli muayeneleri ve yapilan işteniler, sosyal faktörler, citem nedenleri ve onlenebilirik duramu ayrınıü olarak incelenecektir. Her vaka Içın olüm nedenleri de delenebilidik duramn mutlaka karam Varlacaktr. Ölümün önlenebiliriy durursonda belidenmexi, hanga agamada daha çok sorun yagandıgınm laspd pdibmei ve ba alaba azel atlidahalelerin belirlenebilmes| için son derece énemi dir.
 
@@ -117,7 +119,7 @@ b) Gerek görülen hallerde Halk Saglğ Genel Müdürligü tarafidan inceleme do
 
 e) Moralite digitlerinin besaplanmusı ikamet edilen ile gire yapilacakur, Iller arasanda vakamın iKamet ettiği yer ile ileili uvuşmahi oldugu durumlarda: ölümün verçeklestiği tarabte hungi stin alle bekimliğr birimine kayıdı ise a ilin rillimü olarak kahul edilecoktir.
 
-el Olümlerin ulke, bolge ve il dazeyinde gorumlunmasinda veya performan: degerlendirmelerinde, Halk bağagı Genel Mudürtugn tarafından yıllık olarak açıklınarak, Bakachık merkez ve taşra birimleriyle paylasalan bebek de çocuk olum bizlar killanlacaktr.
+el Ölümlerin ulke, bolge ve il dazeyinde gorumlunmasinda veya performan: degerlendirmelerinde, Halk bağagı Genel Mudürtugn tarafından yıllık olarak açıklınarak, Bakachık merkez ve taşra birimleriyle paylasalan bebek de çocuk olum bizlar killanlacaktr.
 
 ### TC SAGLIK BAKANLIGI Halk Saglıgı Gencl Mudapugu
 

@@ -7,13 +7,14 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103520/seyahat-iliskili-lejyoner-hastaligi-kontrol-programi-genelgesi-200134.html"
 durum: "yürürlükte"
+konu: "Seyahat ilişkili lejyoner hastalığının kontrol programını ve ilgili tedbirleri belirler."
 ocr: true
 duzeltildi: true
 ---
 
 6.3.22. Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı Genelgesi (2001/34)
 
-### A PLANI SEYAHAT İLİSKİLI LEIYONER HASTALIĞI KONTROL PROGRAMI A. GENEL BİLGİLER
+ A PLANI SEYAHAT İLİSKİLI LEJYONER HASTALIĞI KONTROL PROGRAMI A. GENEL BİLGİLER
 
 Lejyoner hastalığı (Legionnaires' Disease), ilk olarak 1976 yılında Philadelphia'da Amerikan Lejyon Kongresi sırasında, otelde kalmakta olan kongre katılımcıları arasında patlak veren bir pnömoni salgınının ardından tanımlandı. Toplam 221 kişinin etkilendiği bu salgında, 34 kişi hayatını kaybetti. Salgın etkeni, CDC (A.B.D. Hastalık Kontrol Merkezi)'nin aylarca süren yoğun çalışmaları sonucu, ölen hastaların akciğer otopsilerinden izole edildi. Etken, o güne kadar tanınmayan yeni bir gram negatif bir bakteriydi ve salgın yaptığı grup ve enfeksiyonun geliştiği sistem göz önüne alınarak Legionella pneumophila olarak adlandırıldı. Daha sonra yapılan geriye dönük araştırmalar, bu salgının ilk olmadığı, değişik zamanlarda otellerde ve hastane enfeksiyonu şeklinde hastanelerde salgınlar yaptığı gösterilmiştir.
 
@@ -29,7 +30,7 @@ Insanlarda Legionella Enfeksiyonları
 
 • a. Hastane Kaynaklı Lejyoner Hastalığı
 
-### b. Toplumdan Edinilmiş Lejyoner Hastalığı • SEYAHAT İLİŞKİLİ LEJYONER HASTALIĞI
+b. Toplumdan Edinilmiş Lejyoner Hastalığı • SEYAHAT İLİŞKİLİ LEJYONER HASTALIĞI
 
 • Diğer Yaşam Alanlarından Kaynaklanan Lejyoner Hastalığı
 
@@ -67,11 +68,11 @@ Alkol kullanmak (>35cc/gün
 
 Bağışıklık sistemini baskılayan herhangi bir hastalığı olmak veya immüno
 
-### supresyona neden olacak ilaç kullanmak veya kanser tedavisi görmek.
+supresyona neden olacak ilaç kullanmak veya kanser tedavisi görmek.
 
 Özetlemek gerekirse; Legionella enfeksiyonlarının ortaya çıkması için bakterilerin bulunduğu çevresel bir kaynak, bu bakteriyi çoğaltarak duyarlı popülasyona ulaştırabilecek ara mekanizmalar ve duyarlı bir popülasyonun varlığı gereklidir.
 
-### B. SÜRVEYANS
+ B. SÜRVEYANS
 
 Seyahat Ilişkili Lejyoner Hastalığı sürveyansı, vaka ve çevresel sürveyans olmak üzere iki bölümde yapılır. Bilinen bir vaka olmadan, çevresel sürveyans yapmak, akıleı bir yaklaşım olmadığı gibi, kaynakları israf etmekten ve zaman kaybından öteye gidemez.
 
@@ -101,7 +102,7 @@ arttığının gösterilmesi Vaka Sınıflandırması : Olası Vaka : Destekleyi
 
 Yukarıda belirtilen Standart Vaka Tanımına uyan vakaları bildirmekten bütün hekimler sorumludur. Ancak, hastalığın klinik seyri, olguların genellikle yataklı tedavi kurumlarına başvurmasını gerektirecek kadar ağır olduğu ve hastaların da öncelikle Göğüs Hastalıkları, lę Hastalıkları ve Enfeksiyon Hastalıkları kliniklerince izlenecekleri göz önüne alınarak, vaka aramasının bu kliniklerde rutin olarak sürdürülmesinin gerekliliği ortaya çıkmaktadır. Bu nedenle vaka sürveyansında sorumlulukların dağılımı aşağıdaki gibi olacaktır.
 
-### VAKA SÜRVEYANSINDA SORUMLULUKLARIN DAĞILIMI
+ VAKA SÜRVEYANSINDA SORUMLULUKLARIN DAĞILIMI
 
 Temel Sağlık Hizmetleri Refik Saydam Hızısıhha Genel Müdürlüğü Merkezi Başkanlığı Bulaşıcı Hastalıklar Ulusal Legionella Daire Başkanlığı Referans Laboratuarı İl Sağlık Müdürlüğü İl Halk Sağlığı Lab. veya Bulaşıcı Hastalıklar Bölge Hızısıhha Enstitüleri Şube Müdürlüğü Il Genelindeki Hastane Laboratuvarları Gögus Hastalıkları İç Hastalıkları ve Enfeksiyon Hastalıkları Uzmanları
 
@@ -117,25 +118,23 @@ Diğer solunum yolu örnekleri; kesin tanı açısından çok değerli olan kül
 
 Serum örneği; hastadan sitratsız olarak alınan kan, steril şartlarda ayrıldıktan sonra serum kısmı ağzı sıkıca kapalı bir tüp içinde, 48 saat içinde, soğuk zincir ile laboratuara gönderilmelidir. Serumun ayrılamadığı durumlarda kan örneği de gönderilebilir ancak hemoliz olmamasına dikkat edilmelidir. Incelemeler için 1-2 cc. serum yeterlidir. Kesin tanı için çift serum örneğinde titre artışının gösterilmesi önemli olduğundan 4-6 hafta sonra yeniden serum alınmalı ve incelenmelidir.
 
-Vaka tespitinde yalnızca klinik tanımlama göz önüne alındığında, bütün pnömoni olgularının potansiyel olarak Lejyoner Hastalığı yönünden değerlendirilmesi gerektiği gibi bir sonuç ortaya çıkmaktadır. Böyle bir durum hastalık için yürütülen Kontrol Programını işlemez hale getirebilir. Bu nedenle vaka araştırmasında Klinik tanımlama ile hastalığın eepidemiyolojik özellikleri beraber sorgulanmalı ve uyumlu olan vakalar laboratuar incelemesine alınmalıdır. Vaka bildirimi, sorgulaması ve izleminde aşağıdaki akış şeması dikkate alınmalıdır.
+Vaka tespitinde yalnızca klinik tanımlama göz önüne alındığında, bütün pnömoni olgularının potansiyel olarak Lejyoner Hastalığı yönünden değerlendirilmesi gerektiği gibi bir sonuç ortaya çıkmaktadır. Böyle bir durum hastalık için yürütülen Kontrol Programını işlemez hale getirebilir. Bu nedenle vaka araştırmasında Klinik tanımlama ile hastalığın epidemiyolojik özellikleri beraber sorgulanmalı ve uyumlu olan vakalar laboratuar incelemesine alınmalıdır. Vaka bildirimi, sorgulaması ve izleminde aşağıdaki akış şeması dikkate alınmalıdır.
 
 Hastaya ön tanı koyan hekim tarafından izlenecek akış şeması Vaka pnömoni mi?
 
-### HAVIR EVET
-
 2. Etkeni belli mi? EVET, Legionella sp. değil
 
-### HAYIR
+ HAYIR
 
 3. Son 15 gün içinde seyahat etme/otelde konaklama öyküsü var m? HAYIR
 
-### EVET
+ EVET
 
 1. İdrarda (L.pneumophila SG1 için) "Üriner Antijen" NEGATİF baktırın. Sonuç
 
-### POZİTİF
+ POZİTİF
 
-Klinik gözlem ve eepidemiyolojik
+Klinik gözlem ve epidemiyolojik
 
 bulgular (otelde konaklama öyküsü İl Sağlık Müdürlüğü'ne haber ve/veya diğer risk faktörlerinin
 
@@ -159,7 +158,7 @@ Vaka tespiti, numune alımı ile beraber yürütülmesi gereken en önemli çal�
 
 - Çevresel Sürveyans
 
-Seyahat Ilişkili Lejyoner Hastalığı Kontrol Programı kapsamında yapılacak olan çevresel sürveyans, vaka sürveyansını desteklemeye yönelik bir çalışmadır. Bu amaçla vaka bildirilen konaklama tesislerinde yapılması gereken çalışmalar aşağıda açıklanmaktadır. Bu çalışmalar, İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şube Müdürlüğü ve Gıda ve Çevre Kontrol Şube Müdürlüğü tarafindan ortaklaşa yürütülecektir.
+Seyahat Ilişkili Lejyoner Hastalığı Kontrol Programı kapsamında yapılacak olan çevresel sürveyans, vaka sürveyansını desteklemeye yönelik bir çalışmadır. Bu amaçla vaka bildirilen konaklama tesislerinde yapılması gereken çalışmalar aşağıda açıklanmaktadır. Bu çalışmalar, İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şube Müdürlüğü ve Gıda ve Çevre Kontrol Şube Müdürlüğü tarafından ortaklaşa yürütülecektir.
 
 Vaka ihbar edilen konaklama tesisine ilk gidiste_sırası ile yapılması gereken işlemler :
 
@@ -183,7 +182,7 @@ Vaka ihbar edilen konaklama tesisine ilk gidiste_sırası ile yapılması gereke
 
 Gerek su sıcaklığının arttırılması, gerekse hiperklorinasyon o sırada tesiste bulunanlar açısından riskli ve rahatsızlık verici çalışmalardır. Otel işletmesi, suyun sıcaklığının yanıklara vol açabileceği hususunda müşterilerini uyarmalı, yoğun klor kokusu hakkında bilgi vermelidir.
 
-Özellikle vaka yada salgın ihbarı durumlarında otel işletmesinin endişeye ve hatta paniğe kapıldığı; bu nedenle henüz kaynak araştırması için su örneklemesi yapılmamışken dezenfeksiyon çalışmalarımın uygulandığı gözlenmiştir. Bu, eepidemiyolojik açıdan önemli bir bilgiyi -legionella bakterisinin sistemde kolonize olup olmadığına dair bilgiyi- kaybetmemize neden olmaktadır. Vaka veya salgının, ihbar edilen otel ile bağlantılı olduğuna dair güçlü bir kanaat varsa laboratuar bulgusunun menfi çıkması bunu değiştirmez; tam tersine laboratuar sonucunun güvenirliği hakkında kuşku doğurur veya ihbar üzerine su örneklerine müdahale edildiği akla gelir. Bu nedenle sonucu yanıltıcı çabalardan kaçınılmalı, sürveyansa yardımcı olunmalıdır.
+Özellikle vaka yada salgın ihbarı durumlarında otel işletmesinin endişeye ve hatta paniğe kapıldığı; bu nedenle henüz kaynak araştırması için su örneklemesi yapılmamışken dezenfeksiyon çalışmalarımın uygulandığı gözlenmiştir. Bu, epidemiyolojik açıdan önemli bir bilgiyi -legionella bakterisinin sistemde kolonize olup olmadığına dair bilgiyi- kaybetmemize neden olmaktadır. Vaka veya salgının, ihbar edilen otel ile bağlantılı olduğuna dair güçlü bir kanaat varsa laboratuar bulgusunun menfi çıkması bunu değiştirmez; tam tersine laboratuar sonucunun güvenirliği hakkında kuşku doğurur veya ihbar üzerine su örneklerine müdahale edildiği akla gelir. Bu nedenle sonucu yanıltıcı çabalardan kaçınılmalı, sürveyansa yardımcı olunmalıdır.
 
 10. Konaklama tesisinde bu çalışmaları yerine getirdikten sonra, Ek 6'da verilen iLegionella Bakterisinin Tesislere Yerleşmesini Engelemek Için Alnacak Rutin Onlemler Listesi ve Taahhütnamesi" işletme sorumlusuna verilir ve 15 gün sonra yapılacak inceleme sırasında Taahhütnamenin imzalı olarak geri alınacağı bildirilir.
 
@@ -191,7 +190,7 @@ Vaka ihbar edilen konaklama tesisine ikinci gidişte sırası ile yapılması ge
 
 1. Ek 6'da verilen iLegionella Bakterisinin Tesislere Yerleşmesini Engelemek Için Alınacak Rutin Önlemler Listesi ve Taahhütnamesi"nin yerine getirilip, getirilmediğini
 
-2. Konu ile ilgili bir rapor düzenleyin. Raporun ekine, otel yetkililerinin imzaladığı taahhütnameyi ekleyerek, Sağlık Bakanlığı'na acele gönderin. Unutulmaması ve özen gösterilmesi gereken en önemli nokta, yapılan çevresel sürveyans çalışmalarının il düzeyinde bildirim tarihinden itibaren en geç 21 gün içinde tamamlanması gerektiğidir. Bakanlığa gönderilmesi gereken formlar, Otel Su Sistemi Risk Değerlendirme Formu, Çevresel Sürveyans Sonuç Raporu ve Otel Sorumlusu tarafindan imzalanan Legionella
+2. Konu ile ilgili bir rapor düzenleyin. Raporun ekine, otel yetkililerinin imzaladığı taahhütnameyi ekleyerek, Sağlık Bakanlığı'na acele gönderin. Unutulmaması ve özen gösterilmesi gereken en önemli nokta, yapılan çevresel sürveyans çalışmalarının il düzeyinde bildirim tarihinden itibaren en geç 21 gün içinde tamamlanması gerektiğidir. Bakanlığa gönderilmesi gereken formlar, Otel Su Sistemi Risk Değerlendirme Formu, Çevresel Sürveyans Sonuç Raporu ve Otel Sorumlusu tarafından imzalanan Legionella
 
 Yerleşmesini Engelemek Için Alnacak Rutin Onlemleri Uygulayacağına Dair Taahhütname olmalıdır.
 
@@ -205,12 +204,12 @@ Vaka Sürvevansında Laboratuar Hizmetleri: vakaların genellikle hastanelerde t
 
 Vakaların teşhisi için hastanelerde bulundurulması gereken test LEGİONELLA
 
-### ÜRİNER ANTIJEN KART TEST OLARAK BILINEN
+ ÜRİNER ANTIJEN KART TEST OLARAK BILINEN
 
 IMMUNOCHROMOTORAPHIC TEST'dir. Bu test yaklaşık 15 dakika içinde sonuç vermektedir.
 
 Vaka sürveyansında doğrulayıcı analizler için referans merkezi, Ankara Refik Saydam Hıfzısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarıdır. Bu laboratuara gönderilecek numuneler İl Sağlık Müdürlüğü kanalı ile gönderilecek ve ücret ödenmeyecektır.
 
-Cevresel Sürvevansda Laboratuar Hizmetleri : vaka çıkan konaklama tesislerinden ilk ziyaret esnasında alınan su örnekleri Ankara Refik Saydam Hıfzısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarı, Istanbul, Izmir ve Antalya Bölge Hıfzisıhha Enstitüsü Laboratuarları ve Muğla Il Halk Sağlığı Laboratuarı tarafindan incelenecektir. Konaklama tesisinin bulunduğu il, yukarıdaki illerden başka bir il ise, kendisine en yakın olan ismi sayılan laboratuarlardan birinden yararlanacaktır. Konaklama tesislerinden su örnekleri İl Sağlık Müdürlüğü Çevre Sağlığı ve Gıda Kontrol Şube Müdürlüğü tarafından alınacak ve laboratuara götürülecektir. Laboratuarlar vaka bildirilen konaklama tesislerinden çevresel sürveyans için ahınan ilk su örneklerinin incelenmesi için kesinlikle ücret talep etmeyeceklerdir. Konaklama tesislerinin şahsi başvuruları ve vaka çıkan konaklama tesislerinden alınacak ikinci ve daha sonraki incelemeler için, konaklama tesisi İşletmecisi bütün masrafları karşılayacaktır.
+Cevresel Sürvevansda Laboratuar Hizmetleri : vaka çıkan konaklama tesislerinden ilk ziyaret esnasında alınan su örnekleri Ankara Refik Saydam Hıfzısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarı, Istanbul, Izmir ve Antalya Bölge Hıfzisıhha Enstitüsü Laboratuarları ve Muğla Il Halk Sağlığı Laboratuarı tarafından incelenecektir. Konaklama tesisinin bulunduğu il, yukarıdaki illerden başka bir il ise, kendisine en yakın olan ismi sayılan laboratuarlardan birinden yararlanacaktır. Konaklama tesislerinden su örnekleri İl Sağlık Müdürlüğü Çevre Sağlığı ve Gıda Kontrol Şube Müdürlüğü tarafından alınacak ve laboratuara götürülecektir. Laboratuarlar vaka bildirilen konaklama tesislerinden çevresel sürveyans için ahınan ilk su örneklerinin incelenmesi için kesinlikle ücret talep etmeyeceklerdir. Konaklama tesislerinin şahsi başvuruları ve vaka çıkan konaklama tesislerinden alınacak ikinci ve daha sonraki incelemeler için, konaklama tesisi İşletmecisi bütün masrafları karşılayacaktır.
 
-Çevresel sürveyans için alıan su örneklerinin incelenmesinde herhangi bir aksama veya sorun olduğu taktirde referans merkezi, Ankara Refik Saydam Hızısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarıdır. Bu laboratuarda yapılacak referans çalışmaların masraflarının tamamı konaklama tesisinin işletmecisi tarafindan karşılanacaktır.
+Çevresel sürveyans için alıan su örneklerinin incelenmesinde herhangi bir aksama veya sorun olduğu taktirde referans merkezi, Ankara Refik Saydam Hızısıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuarıdır. Bu laboratuarda yapılacak referans çalışmaların masraflarının tamamı konaklama tesisinin işletmecisi tarafından karşılanacaktır.

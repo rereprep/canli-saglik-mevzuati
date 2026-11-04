@@ -11,9 +11,6 @@ ocr: true
 duzeltildi: true
 ---
 
- Merkezlerinde Enfeksiyon Kontrolüne Yönelik Tedbirler Genelgesi (2016/20)
-
-
 
 Bu kapsamda; ekte yer alan Bakanlığımızca hazırlanan diyaliz ünite/merkezleri için enfeksiyon kontrol kılavuzunun tüm ilgililere tebliğ edilmesi;
 
@@ -25,8 +22,10 @@ Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Müsteşar EK: Diyaliz Ünite/Merkezleri Için Enfeksiyon Kontrol Kılavuzu
+Müsteşar
+
+EK: Diyaliz Ünite/Merkezleri İçin Enfeksiyon Kontrol Kılavuzu
 
 ### DAĞITIM
 
-Gereği 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)

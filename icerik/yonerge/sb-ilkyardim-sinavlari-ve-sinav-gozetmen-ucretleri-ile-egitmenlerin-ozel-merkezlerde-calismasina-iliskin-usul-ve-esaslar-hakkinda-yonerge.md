@@ -8,33 +8,38 @@ etiketler: ["ilkyardım", "ilkyardım eğitmeni", "sınav gözetmeni"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 310-314"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 3.2.2. İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Özel Merkezlerde Çalışmasına İlişkin Usul ve Esaslar Hakkında Yönerge
 
-### ILKYARDIM SINAVLARI VE SINAV GOZETMEN ÜCRETLERI ILE EGITMENLERİN MERKEZLERDE ÇALIŞMASINA ILIŞKİN USUL VE ESASLARI HAKKINDA YÖNERGE
+### İLKYARDIM SINAVLARI VE SINAV GÖZETMEN ÜCRETLERİ İLE EĞİTMENLERİN ÖZEL MERKEZLERDE ÇALIŞMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNERGE
 
-## BİRİNCİ BÖLÜM Genel Hükümler
+## BİRİNCİ BÖLÜM
+
+#### Genel Hükümler
 
 #### Amaç
 
-**MADDE 1 –** Ç}) Bu Yönergenin amact, ilkyardım eğitim merkezleri üle llkyardım eğitici egitimı merkezlerinin, teorik ve uygulamalı savlarda sınav gözetımen kibinin oluşturulmas. eğimenlerin çalişma standardı ile sınav gözetmen leretlenne ilişkin usul ve esaslan belirlemektir. Kapsan
+**MADDE 1 –** (1) Bu Yönergenin amacı, ilkyardım eğitim merkezleri ile İlkyardım eğitici egitimı merkezlerinin, teorik ve uygulamalı sınavlarda sınav gözetmen ekibinin oluşturulması, eğitmenlerin çalişma standardı ile sınav gözetmen ücretlerine ilişkin usul ve esasları belirlemektir. Kapsan
 
-**MADDE 2 –** (!) Bu Yönerge, ilkyardım eğitim mercezleri ile ilkyardım eğitici eğitim merkezlerini, sıray gözetmen ekibinin olusturulmasıı eğitici eğitmenlerinin çalışma standasdı İle sınuv gözetmen üeretleritia belirlenmesine ilişkin usul ve esaslan kapsar Dayanak
+**MADDE 2 –** (1) Bu Yönerge, ilkyardım eğitim merkezlerini ile ilkyardım eğitici eğitim merkezlerini, sınav gözetmen ekibinin olusturulmasıı eğitici eğitmenlerinin çalışma standardı İle sınuv gözetmen ücretlerinin belirlenmesine ilişkin usul ve esasları kapsar Dayanak
 
-**MADDE 3 –** (1) Bu Yönerge, 3359 sayrh Saghk Hizmetled Temel Karunu. Ek Madde 13 ve 29:07/201 5 tarh ve 29429 sayıl Resmi Gazete'de yayınlanan Ilkyardnn Yonetmehğtne dayanılarak hazırlanmıştır. Tanimlar
+**MADDE 3 –** (1) Bu Yönerge, 3359 sayılı Sağlık Hizmetleri Temel Kanununun Ek 13 üncü maddesi ile 29/07/2015 tarihli ve 29429 sayılı Resmî Gazete’de yayımlanan İlkyardım Yönetmeliğine dayanılarak hazırlanmıştır.
 
-**MADDE 4 –** (1) Bu Yonergede geçen::
+#### Tanımlar
 
-a) Bakanlik: Sağlık Bakanliğim.
+**MADDE 4 –** (1) Bu Yönergede geçen:
 
-b) Genel Müdürlük, Acil Saglık Hizmetleri Genel Mudürligfinö,
+a) Bakanlık: Sağlık Bakanlığını.
 
-e) Merkez: Ilkeyardım Eğitim Merkezi ile Ilkyardım Eğitici Egitim Merkezini,
+b) Genel Müdürlük: Acil Sağlık Hizmetleri Genel Müdürlüğünü,
+
+e) Merkez: İlkyardım Eğitim Merkezi ile İlkyardım Eğitici Egitim Merkezini,
 
 d) Katılımeı; likyardımet Ve likyardı Eğitmeti olınak İçin egitim alan kışiyi,
 
-e) Müdürlük: Il Sağlik Mildürlüğünü,
+e) Müdürlük: İl Sağlık Müdürlüğünü,
 
 1) OED: Otomatik Ekstemal Defibrilanörü,
 
@@ -76,7 +81,7 @@ b) Uygulamalı sınavda katılımcıya (EK-la)'da yer alar uygulamalar yaptırı
 
 #### İlkyardım Egitimi ve İlkyardın Eğitici Eğitimi Sınavları
 
-**MADDE 8 –** (Ellkyarıı egitimi, llkyardım Eğitici Eğitimi ve Ilkyardım Eğitici Eğitmeni Eğitimlerinde katlıme savısı asgari 5 (heş) azami 20kyirmi) kişidir.
+**MADDE 8 –** (Ellkyarıı egitimi, llkyardım Eğitici Eğitimi ve İlkyardım Eğitici Eğitmeni Eğitimlerinde katlıme savısı asgari 5 (heş) azami 20kyirmi) kişidir.
 
 (2)Smavlar, mesai saati dişinda 17,00" den sonra ve hatta sonlari 119.00 - 18.00 saatleri atasında yapılır. ()Uygulama sınayı teorik aravı takiben aymı gün içinde yapılır. İlkyardı Eğitimi
 
@@ -132,7 +137,7 @@ b) OED eğitımı, OED eğitmeni belgesine sahip tlkyardım oğitmeni ve/veya il
 
 #### İlkyardım Egitmeni, fikyardım Eğlici Egitmeni ve Mesul Müdurun Calşma Esasları
 
-**MADDE 12 –** (1)llkşardim Eğıtmeni ve Ilkyardım Eğitici Eğitmeni en fazla 4 (därt) merkezde çalişabilir. ()Eğitim merkezinde çalışmak için Müdürlüğe başvuran elitmenler dilekçelerinde diğer çalışuğı merkezleri beyan cinekle mükellefir. ()Kanlımeı sayına göce görev alan eğitmenler, eğitim süresince eğitim yetinden ayn lamazlar.
+**MADDE 12 –** (1)llkşardim Eğıtmeni ve İlkyardım Eğitici Eğitmeni en fazla 4 (därt) merkezde çalişabilir. ()Eğitim merkezinde çalışmak için Müdürlüğe başvuran elitmenler dilekçelerinde diğer çalışuğı merkezleri beyan cinekle mükellefir. ()Kanlımeı sayına göce görev alan eğitmenler, eğitim süresince eğitim yetinden ayn lamazlar.
 
 **MADDE 13 –** (1) Mesul Müdür tek bir merkezde müdürlük yapabilir ve müdürlch yaptığı merkezde istetse eğitmenlik de yapabilir. Mesul müduri
 
@@ -146,7 +151,7 @@ e) Denetimlerde merkerde bulunmak ve Denetim Ekibine yardımer olmakla mükellef
 
 #### Denetim
 
-**MADDE 14 –** (1)Merkez denetimleri Ilkyardım Yönetmeliği EK-Ba ve EK -Sb'ye göte yapılr a) Yönetmeliğin usul ve esaslarının yürütülmesi üle içili denetim ferlek tutanak almayan hususlar, formların altıda yet alan genel değerlendirme kısmunda helitilerek tutanak
+**MADDE 14 –** (1)Merkez denetimleri İlkyardım Yönetmeliği EK-Ba ve EK -Sb'ye göte yapılr a) Yönetmeliğin usul ve esaslarının yürütülmesi üle içili denetim ferlek tutanak almayan hususlar, formların altıda yet alan genel değerlendirme kısmunda helitilerek tutanak
 
 6) Tutanak altına alıman cksikliklerin ve uygunsuzlukların giderilmesi çin merkezlere 15 (on bes) uun süre verilir; süre bitiminde eksikligin devam etmesi lulinde 3 (0¢) ayhk faaliyet
 

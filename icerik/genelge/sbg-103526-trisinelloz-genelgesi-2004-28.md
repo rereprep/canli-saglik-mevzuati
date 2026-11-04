@@ -7,18 +7,18 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103526/trisinelloz-genelgesi-200428.html"
 durum: "yürürlükte"
+konu: "Trişinelloz Genelgesi (2004/28) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 6.3.34. Trişinelloz Genelgesi (2004/28)
 
 T.C.
 
-### SAĞLIK BAKANLIĞI
-
 Temel Soğlik Hizmetleri Genel Müdürlüği
 
-### TRİŞİNELLOZİS VAKALARINDA YAKLAŞIM
+ TRİŞİNELLOZİS VAKALARINDA YAKLAŞIM
 
 1. Giriş
 
@@ -28,7 +28,7 @@ Bu hastalıklardan birisi de ülkemizde bu zamana kadar bir epidemisi görülmey
 
 Trişinellozis (Trichinellosis) -hastalık aynı zamanda Trişinozis (Trichinosis) olarak da bilinir- Trichinella spiralis, T. nativa, T. pseudospiralis, T. britovi, T. nelsoni, T. papuae, T. murrelli ve T. zimbabwensis gibi nematod larvalarının neden olduğu gıda kaynaklı zoonoz bir parazit enfeksiyonudur. Larvalarının kaslara yerleşmesinden dolayı Trichine/la türleri "doku nematodları" olarak adlandırılmaktadır.
 
-2. Bulaşma ve Epidemiyoloji
+2. Bulaşma ve Eepidemiyoloji
 
 Trişinellozis, esas olarak enfekte domuz etlerinin çiğ veya az pişmiş olarak tüketilmesi ile olmaktadır; ancak, ayı, at, köpek, tilki vb. hayvanların Trichinella larvaları ile enfekte etlerinin çiğ veya az pişmiş olarak yenmesi sonucu da bir bulaşma söz konusudur.
 
@@ -37,8 +37,6 @@ Bu hayvanlara ait etleri ya da et ürünlerini çiğ veya az pişmiş olarak yem
 Trichinella, konak zinciri domuz-domuz-domuz şeklinde olan bir parazit olarak bilinmekle birlikte, hayvanlar arasındaki leş yeme, birbirini yeme veya hayvanlara enfekte etlerin çiğ olarak verilmesi sonucu parazitler diğer hayvanları da enfekte edebilmektedir. Insanlar da hatalı beslenme alışkanlıkları yüzünden bu zincirdeki yerlerini almaktadırlar.
 
 T.C.
-
-### SAĞLIK BAKANLIĞI
 
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -54,8 +52,6 @@ Trichinella türlerinin patojeniteleri, dünyadaki dağılımları vb. konularda
 
 T.C.
 
-### SAĞLIK BAKANLIĞI
-
 Temel Sağlik Hizmetleri Genel Müdürlüğü Tablo 1. Trichinella Türlerine Ait Bazı Özellikler Trichinella Saklayıcısı Enfektivite Patojenite Dondurma İşlemine Dayanıklılık Türleri (Insan) (Insan) Kuluçka Dönemi T. spiralis Bütün Domestik- Domuz, Yüksek Yüksek Kısa Dirençli dünya silvatik fare, at değil T. pseudospiralis Bütün Silvatik, Kuş, rakun, Orta Yüksek Kısa Dirençli dünya nadiren kemiriciler değil
 
 domestik T. nativa Kuzey Silvatik Kutup ayısı, Yüksek Orta Uzun Dirençli Kutbu mors,
@@ -68,19 +64,13 @@ sincap,
 
 kurt, tilki,
 
-### at
-
 T. nelsoni Ekvatoral Silvatik Yüksek Düşük Uzun Dirençli Afrika ve değil Güney Avrupa
 
 çita, T. britovi Kuzey Silvatik, Tilki, kurt, Orta Orta Uzun Orta kutbunun nadiren ayı, ат, düzeyde ıliman domestik yabani direnç bölgeleri domuzlar T. papuae Papua Silvatik Yaban Hafif- Dirençli Yeni Gine domuzu, orta değil
 
-### timsah
-
 T. murrelli Amerika Silvatik Tilki, ayı, Orta- Uzun Dirençli Birleşik rakun, at, yüksek değil Devletleri vaşak T. zimbabwensis Zimbabwe Silvatik Nil timsahı
 
 T.C
-
-### SAĞLIK BAKANLIĞI
 
 Temel Sağlik Hizmetleri Genel Müdürlüğü
 
@@ -132,8 +122,6 @@ yetmezliği gibi) ve nörolojik (menenjit, ensefalit gibi) problemlere bağlı
 
 olarak görülebilmektedir. т.C.
 
-### SAĞLIK BAKANLIĞI
-
 Temel Soğlik Hizmetleri Genel Müdürluğu
 
 Larvaların kaslara yerleşmesinden 10 yıl sonra kaslarda güçsüzlük, konjonktivit ve koordinasyon bozukluğuna yol açabildiği, serumda IgG belirlenebildiği, hatta herhangi bir belirti vermeden enfeksiyondan 39 yıl sonra kaslarda canlı larvalara rastlanabildiği belirtilmektedir.
@@ -143,8 +131,6 @@ Larvaların kaslara yerleşmesinden 10 yıl sonra kaslarda güçsüzlük, konjon
 Ayrıca, aynı kaynaktan çiğ veya az pişmiş enfekte etleri yiyen birden fazla kişi olabileceğinden, gıda kaynaklı enfeksiyonların da ayırıcı tanıda unutulmaması gerekmektedir.
 
 T.C.
-
-### SAĞLIK BAKANLIĞI
 
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -178,11 +164,9 @@ Trichinella larvalarının belirlendiği vaka,
 
 5.3.3. Hastalığa ait belirtilerin görüldüğü ve aynı kaynaktan şüpheli
 
-### etleri yiyen kişılerden birisinde doğrulanmış vaka.
+etleri yiyen kişılerden birisinde doğrulanmış vaka.
 
 T.C.
-
-### SAĞLIK BAKANLIĞI
 
 Temel Sağlik Hizmetleri Genel Müdürlüğu
 
@@ -194,7 +178,7 @@ Ishal
 
 Yüzde/göz çevresinde ödem
 
-Myalji Epidemiyolojik Hikâye Negatif
+Myalji Eepidemiyolojik Hikâye Negatif
 
 Muhtemelen Vaka Değil Pozitif Eozinofili ve/veya CPK Negatif yüksekliği
 
@@ -202,17 +186,15 @@ OLASI VAKA Vaka Olma İhtimali Düşük Pozitif Seroloji Negatif Negatif
 
 Kas biyopsisi
 
-Epidemiyolojik ilişki Pozitif 5.3.2. Pozitif
+Eepidemiyolojik ilişki Pozitif 5.3.2. Pozitif
 
 5.3.3. Vaka Değil
 
-### KESİN VAKA KESİN VAKA TEDAVI
+ KESİN VAKA KESİN VAKA TEDAVI
 
 Şekil 1. Trişinellozis Vakalarında Tanı Yaklaşımı
 
 T.C.
-
-### SAĞLIK BAKANLIĞI
 
 Temel Sağlik Hizmetleri Genel Müdürlüği
 
@@ -276,8 +258,6 @@ Tiyabendazol aşırı duyarlılığa yol açabilirken, serum teofilin düzeyini 
 
 T.C.
 
-### SAĞLIK BAKANLIĞI
-
 Temel Soğlik Hizmetleri Genel Müdürluğu 6.4. Steroid kullanımı
 
 Trişinelloziste ateşin ve larvaların kaslara yerleşmesi sonucu gelişen olumsuzlukların yatıştırılması açısından ya da başka amaçlarla steroid kullanımı gerekebilmektedir.
@@ -308,8 +288,6 @@ tüketilmelidir.
 
 T.C.
 
-### SAĞLIK BAKANLIĞI
-
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 • Etler, iç ısıları -15 °C olacak şekilde ( 15 cm'den az kalınlıkta parçalanan etler için) 3 hafta dondurulduktan sonra tüketime sunulmalıdır. Etin parça kalınlığı arttıkça bekletme süresi de artmaktadır. Örneğin, kalınlığı 69 cm'e kadar olan etlerin bekletme süreleri -15 °C'de 4 haftadır.
@@ -328,19 +306,17 @@ Etlerin dondurulma dereceleri -15 °Cyi geçtikçe de bekletme süreleri azalmak
 
 T.C.
 
-### SAĞLIK BAKANLIĞI ../ 200
-
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-### TRİŞİNELLOZİS VAKA BİLDİRİM ÇİZELGESİ
+ TRİŞİNELLOZİS VAKA BİLDİRİM ÇİZELGESİ
 
 Kurum :... Epi NumarasI: ....
 
-### 1. HASTA BİLGILERİ
+ 1. HASTA BİLGILERİ
 
 Adi ve Soyadı Cinsiyeti Doğum Tarihi / Yaşı Mesleği Adresi Telefonu Şikäyetlerin Başladığı Tarih Sağlık Kurumuna Başvuru Tarihi
 
-### 2. HASTANIN ŞİKÄYETLERİ
+ 2. HASTANIN ŞİKÄYETLERİ
 
 • Ates • Kaslarda ağrı / hassasiyet • Terleme
 
@@ -354,11 +330,11 @@ Adi ve Soyadı Cinsiyeti Doğum Tarihi / Yaşı Mesleği Adresi Telefonu Şikäy
 
 • Kırgınlık • Oksürük
 
-### 3. TANI VE LABORATUVAR BULGULARI
+ 3. TANI VE LABORATUVAR BULGULARI
 
 3.1. Hastaya Ait Laboratuvar Bulguları
 
-### Eozinofili Eozinofil • Pozitif • Negatif
+ Eozinofili Eozinofil • Pozitif • Negatif
 
 Histopatoloji • Pozitif • Negatif
 
@@ -368,7 +344,7 @@ Serolojik analiz sonucu
 
 Histopatoloji • Pozitif • Negatif
 
-### 4. ÇİĞ VEYA AZ PİŞMİŞ ET / ET ÜRÜNLERİ YEME HİKÅYESİ
+ 4. ÇİĞ VEYA AZ PİŞMİŞ ET / ET ÜRÜNLERİ YEME HİKÅYESİ
 
 • Domuz eti ( Urün çeşidi
 
@@ -390,14 +366,14 @@ Adi ve Soyadı
 
 Imzası
 
-### TRİŞİNELLOZİS VAKA BİLDİRİM ÇİZELGESİ DOLDURMA TALİMATI
+ TRİŞİNELLOZİS VAKA BİLDİRİM ÇİZELGESİ DOLDURMA TALİMATI
 
 1. Trişinellozis şüpheli vakalarla ilgili bilgiler Çizelgede eksik kalmayacak şekilde doldurulur
 
-2. Hastalardan 5 ml kan alınarak serumu ayrılır ve Çizelge ile birlikte derhal Il Sağlık Müdürlüğüne gönderilir.
+2. Hastalardan 5 ml kan alınarak serumu ayrılır ve Çizelge ile birlikte derhal İl Sağlık Müdürlüğüne gönderilir.
 
-3. Il Sağlık Müdürlüğü de her vaka için bir epi numarası vererek (Epi Nu: İl Trafik kodu / Vakanın görüldüğü yıl / Vaka sırası, örneğin 06/2004/1 gibi) Çizelgenin bir nüshasını Temel Sağlık Hizmetleri Genel Müdürlüğüne, serum ile birlikte bir nüshasını da Refik Saydam Hıfzıssıhha Merkezi Başkanlığı (RSHMB) Parazitoloji Laboratuvarina gondenr.
+3. İl Sağlık Müdürlüğü de her vaka için bir epi numarası vererek (Epi Nu: İl Trafik kodu / Vakanın görüldüğü yıl / Vaka sırası, örneğin 06/2004/1 gibi) Çizelgenin bir nüshasını Temel Sağlık Hizmetleri Genel Müdürlüğüne, serum ile birlikte bir nüshasını da Refik Saydam Hıfzıssıhha Merkezi Başkanlığı (RSHMB) Parazitoloji Laboratuvarina gondenr.
 
 4. RSHMB analiz sonuçlarını, numunenin geldiği İI Sağlık Müdürlüğüne hemen bildirir.
 
-5. Il Sağlık Müdürlükleri aylık olarak pozitif vakaların bildirimlerini Temel Sağlık Hizmetleri Genel Müdurluğüne yapacaktır.
+5. İl Sağlık Müdürlükleri aylık olarak pozitif vakaların bildirimlerini Temel Sağlık Hizmetleri Genel Müdurluğüne yapacaktır.

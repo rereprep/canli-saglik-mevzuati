@@ -8,27 +8,37 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103629/askerlik-hizmetini-yedek-subay-
 not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Yedek subay olarak askerlik yapan hekimlerin Devlet hizmeti yükümlülüğünü tamamlamış sayılmasına ilişkin esasları düzenler."
 ---
 
-9.3.9.Askerlik Hizmetini Yedek Subay Olarak Yerine Getirenlerin DHY Tamamlanmış Sayılmasına İlişkin Usul ve Esaslar
+9.3.9. Askerlik Hizmetini Yedek Subay Olarak Yerine Getirenlerin DHY Tamamlanmış Sayılmasına İlişkin Usul ve Esaslar
 
 ### ASKERLİK HİZMETİNİ YEDEK SUBAY OLARAK YERİNE GETİRENLERİN DEVLET HIZMETI YÜKÜMLÜLÜGÜNÜ TAMAMLAMIŞ SAYILMASINA İLİŞKİN USUL VE ESASLAR
 
-**MADDE 1 –** (1) Türk Silahlı Kuvvetlerinin tabip ve uzman tabip ihtiyacının karşılanması için Sağlık Bakanlığı ve Milli Savunma Bakanlığınca müştereken belirlenen yerlerde askerlik hizmetini yedek subay olarak yerine getiren tabip ve uzman tabiplerin Devlet hizmeti yükümlülüğünü tamamlamış sayılmasına ilişkin usul ve esasları belirlemektedir. Kapsam
+**MADDE 1 –** Amaç
 
-**MADDE 2 –** (1) Bu usul ve esaslar, Devlet hizmeti yükümlüsü olup askerlik hizmetini yedek subay olarak yerine getiren tabip, uzman tabip ve yan dal uzmanlarını kapsar. Dayanak
+(1) Türk Silahlı Kuvvetlerinin tabip ve uzman tabip ihtiyacının karşılanması için Sağlık Bakanlığı ve Milli Savunma Bakanlığınca müştereken belirlenen yerlerde askerlik hizmetini yedek subay olarak yerine getiren tabip ve uzman tabiplerin Devlet hizmeti yükümlülüğünü tamamlamış sayılmasına ilişkin usul ve esasları belirlemektedir.
 
-**MADDE 3 –** (1) Bu usul ve esaslar, 3359 sayılı Temel Sağlık Kanunu'nun Ek 3 üncü maddesine dayanılarak hazırlanmıştır. Belirlenen yerler
+**MADDE 2 –** Kapsam
 
-**MADDE 4 –** (1) Askerlik hizmetini yedek subay olarak yerine getirenlerin Devlet hizmeti yükümlülüğünü tamamlamış sayılmasında esas almacak yerler, Sağhk Bakanlığı ve Milli Savunma Bakanlığınca müştereken belirlenmiş ve Ek-l'de gösterilmiştir.
+**MADDE 2 –** (1) Bu usul ve esaslar, Devlet hizmeti yükümlüsü olup askerlik hizmetini yedek subay olarak yerine getiren tabip, uzman tabip ve yan dal uzmanlarını kapsar.
+
+**MADDE 3 –** Dayanak
+
+**MADDE 3 –** (1) Bu usul ve esaslar, 3359 sayılı Temel Sağlık Kanunu'nun Ek 3 üncü maddesine dayanılarak hazırlanmıştır.
+
+**MADDE 4 –** Belirlenen yerler
+
+**MADDE 4 –** (1) Askerlik hizmetini yedek subay olarak yerine getirenlerin Devlet hizmeti yükümlülüğünü tamamlamış sayılmasında esas alınacak yerler, Sağlık Bakanlığı ve Milli Savunma Bakanlığınca müştereken belirlenmiş ve Ek-1'de gösterilmiştir.
 
 **MADDE 5 –** (1) Bu usul ve esaslar kapsamında bulunanlar, askerlik yükümlülüklerini yapmak üzere Şubat, Mayıs, Ağustos ve Kasım dönemlerinde silahaltına alınacaktır.
 
 (2) Şubat celp dönemi için Kasım ayının sonuna kadar, Mayıs celp dönemi için Şubat ayının sonuna kadar, Ağustos celp dönemi için Mayıs ayının sonuna kadar, Kasım celp dönemi için Ağustos ayının sonuna kadar askerlik şubesi başkanlıklarına müracaat etmeleri gerekmektedir.
 
-(3) İlgililerin terhis belgeleri, askerlik hizmetinin bitiminden itibaren en geç bir ay içerisinde Milli Savunma Bakanlığınca Sağlık Bakanlığına gönderilir. Süre
+(3) İlgililerin terhis belgeleri, askerlik hizmetinin bitiminden itibaren en geç bir ay içerisinde Milli Savunma Bakanlığınca Sağlık Bakanlığına gönderilir. 
 
-**MADDE 6 –** (1) Tabip, uzman tabip ve yan dal uzmanlarının Devlet hizmeti yükümlülüğünden muaf tutulması için temel askerlik eğitim süresi hariç, askerlik hizmetlerinin tamamının Ekl'de belirlenen yerlerde yedek subay olarak yerine getirilmiş olması şarttır. Izin, harekät görevleri, tatbikat ve on beş günü geçmeyen hastalık izinleri Ek-l'de belirlenen yerlerde yapılmış askerlik süresinden sayılır. Devlet hizmeti yükümlülüğü
+**MADDE 6 –** Süre (1) Tabip, uzman tabip ve yan dal uzmanlarının Devlet hizmeti yükümlülüğünden muaf tutulması için temel askerlik eğitim süresi hariç, askerlik hizmetlerinin tamamının Ekl'de belirlenen yerlerde yedek subay olarak yerine getirilmiş olması şarttır. Izin, harekät görevleri, tatbikat ve on beş günü geçmeyen hastalık izinleri Ek-1'de belirlenen yerlerde yapılmış askerlik süresinden sayılır. Devlet hizmeti yükümlülüğü
 
 **MADDE 7 –** (1) Ek- 1'de belirlenen yerlerde;
 

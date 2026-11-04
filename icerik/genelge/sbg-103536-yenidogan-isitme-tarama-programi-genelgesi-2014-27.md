@@ -7,16 +7,14 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103536/yenidogan-isitme-tarama-programi-genelgesi-201427.html"
 durum: "yürürlükte"
+konu: "Yenidoğan İşitme Tarama Programı Genelgesi (2014/27) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 6.3.58. Yenidoğan İşitme Tarama Programı Genelgesi (2014/27)
 
-(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338) (cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) ( / )
-
-### T.C. SAĞLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
-
-Ferkiya Hum Sag Sayı : 67414668- Konu : Yenidoğan Tarama Programı Söz konusu bu çalışmaların yürütülmesi sırasında karşılaşılabilecek problemlerin çözülebilmesi için aşağıdaki hususlara azami dikkat gösterilmesi gerekmektedir:
+Ferkiya Hum Sag Sayı : 67414668- Konu: Yenidoğan Tarama Programı Söz konusu bu çalışmaların yürütülmesi sırasında karşılaşılabilecek problemlerin çözülebilmesi için aşağıdaki hususlara azami dikkat gösterilmesi gerekmektedir:
 
 1. Tarama programı kapsamında doğan her bebeğe, doğumu takiben 72 saat içinde ilk işitme taraması testinin yapılması esastır. Ancak 72 saatten önce taburcu olma durumlarında, mümkün olduğunca çok sayıda bebeğe ulaşabilmek için sağlık kurumlarında doğan bebeklerin sağlık kurumunu terk ettiği son anda tarama testi yapılmalı, eğer sorun varsa akış şemasına uygun olarak işlemlerin yürütülmesi gerekmektedir.
 
@@ -36,15 +34,13 @@ Ferkiya Hum Sag Sayı : 67414668- Konu : Yenidoğan Tarama Programı Söz konusu
 
 9. Halk Sağlığı Müdürlüklerince kendi illerinde bulunan merkezlerle iletişim (clektronik posta ve telefon) bilgileri paylaşılmalı ve merkezlerin tüm sorunları önce il düzeyinde değerlendirilmelidir. Sonrasında ilgili ilin Halk Sağlığı Müdürlüğü tarafından Çocuk ve Ergen Sağlığı Daire Başkanlığı ile iletişime geçilmesi programın sistemli ve sağlıklı bir şekilde yürütülmesi için önemlidir.
 
-### T.C. SAGLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
-
-Say1 : 67414668- Konu : Yenidoğan Tarama Programı
+Say1 : 67414668- Konu: Yenidoğan Tarama Programı
 
 10. Aile hekimliği hizmetlerinden faydalanmak üzere gelen her yeni doğan bebeğe, aile hekimi tarafından, doğum sonrası taburcu olmadan hastanede işitme taraması yapılıp yapılmadığı, yapıldı ise sonucunun ne olduğunun ayrıntılı olarak sorgulanması gerekmektedir. Daha önce işitme taraması yapılmadıysa veya bebek testten kaldıysa mutlaka ilgili merkezlere yönlendirilmeli ve sonrasında takipleri yapılmalıdır.
 
 11. Yenidoğana yapılan tarama testleri, SGK tarafından doğum paketi içerisinde sağlık kuruluşlarına ödenmektedir.
 
-12. Yenidoğan İşitme Tarama Ünitelerinde, tarama testlerinde kullanılan cihazların bakımı, kalibrasyonu bünyesinde bulunduğu tarama veya referans merkczleri tarafindan yaptırılacaktır.
+12. Yenidoğan İşitme Tarama Ünitelerinde, tarama testlerinde kullanılan cihazların bakımı, kalibrasyonu bünyesinde bulunduğu tarama veya referans merkczleri tarafından yaptırılacaktır.
 
 13. Yenidoğan Işitme Tarama Programının ilde yürütülmesinden Halk Sağlığı Müdürlüğü koordinasyonunda İl Sağlık Müdürlüğü, ve Kamu Hastaneler Birliği Genel Sekreterliği sorumludur. Programın izleme ve değerlendirilmesi Halk Sağlığı Müdürlüğü tarafından yapılır. Yenidoğan Işitme Tarama Programı'nın sağlıkh şekilde yürütülmesi için yukarıda belirtilen hususlara dikkat edilerek genelge ve eklerinin tüm sağlık kuruluşlarına (resmi ve özel) duyurulması hususunda bilgilerinizi ve gereğini rica ederim.
 

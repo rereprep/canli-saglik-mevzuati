@@ -9,27 +9,30 @@ etiketler: ["mobil sağlık", "kırsal sağlık", "gezi hizmeti"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 486-488"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.3. Mobil Sağlık Hizmetleri Genelgesi (2018/24)
+T.C. SAĞLIK BAKANLIĞI
 
-### E SON SENTE MITO LEI LIMA O HAH T TIT MEDI DARE ARA T.C.
+SAĞLIK BAKANLIĞI
 
-SAĞLIK BAKANLIGI TEa Net
+Halk Sağlığı Genel Müdürlüğü
 
-Hulk Sagliğı Genel Madur ago •ELSERACATE Sayz: 40654213.444 Konu: Mobll Saatke Hamereri
+Sayı: 40654213.444
 
-### GENELGE 201X4
+Konu: Mobil Sağlık Hizmetleri
 
-Fırinci basamak sağik hemetleri kapsamında: saghk hizmetne ulüşamın zor olduğu belde, köy, mezra, uzak malulleler ve benzeri yerleşimı yederine Loruyucu sağlık hizmederinür ulaşılabilirliğini sürdirilebilirieni ve etkinligini sağlamak amacyla "mobil sağhk hizmetleri" uygulámaşmn geçilmiştir. Ziyaret edilen bölgelerde bebek/gebelehusa izlerleri gibi ade hekimligi hizmetlerinin ızlenmesi, kanseş taramaları için yönlendame ve eğitımlerm verılmesi, sağhk eğilanla min verilmesi kronik hastaliklarla ilgıli genel takip {tansiyon elçimu, seker talıhi, boy kile takmi vit] ve aslayie uygulamaların gerçeklestirilmesi, genel sağlik ducumunun gevre sallan boyutayla hirlibe degerendtrimen, sağlk evi ebeleri görev tanminti ieertinde yer plan diğer a ve fälemleri gerçeklestirilmesi aaclam nuktadır.
+### GENELGE 2018/24
 
-Mø l sağlik hizmetler inin Bakanlığmız plan ve programlarına uygun olarak yaygınlaştalmast hamstlar in dahu etkin olarak yürurdlab limesi için aşa dıdaki fusıslara riayet edilocektir:
+Birinci basamak sağlık hizmetleri kapsamında: saghk hizmetine ulaşımın zor olduğu belde, köy, mezra, uzak mahalleler ve benzeri yerleşim yerlerine koruyucu sağlık hizmetlerinin ulaşılabilirliğini sürdürülebilirliğini ve etkinligini sağlamak amacyla "mobil sağlık hizmetleri" uygulámaşmn geçilmiştir. Ziyaret edilen bölgelerde bebek/gebelehusa izlemleri gibi aile hekimliği hizmetlerinin ızlenmesi, kanser taramaları için yönlendirme ve eğitimlerin verılmesi, sağlık eğilanla min verilmesi kronik hastalıklarla ilgıli genel takip {tansiyon ölçümü, şeker takibi, boy-kilo takibi vb.] ve aşıların uygulamaların gerçekleştirilmesi, genel sağlık ducumunun çevre sağlığı boyutuyla hirlibe değerlendirmenin, sağlk evi ebeleri görev tanımı içerisinde yer plan diğer a ve fälemleri gerçekleştirilmesi aaclam nuktadır.
 
-1) Mubil sağhh ekipleri, Merde il sağlik müdarloğlnün teklifi lizerine valilik onsyı die kutaler ve Halk Sadla Genel Modorlgune bildirilir
+Mobil sağlık hizmetler inin Bakanlığmız plan ve programlarına uygun olarak yaygınlaştalmast hamstlar in dahu etkin olarak yürurdlab limesi için aşa dıdaki fusıslara riayet edilocektir:
 
-2) Mobil nefis olarak şehir yerleşkelerinin dıyudaki azak mahalle, bekle, küy, mezra gibi yerleşim birimlerinde yasayan va genellikle tarım ve hayvancılikk apraşan nüfus tanımlanacaktır,
+1) Mobil sağlık ekipleri, ilde il sağlik müdarloğlnün teklifi üzerine valilik onayı ile kurulur ve Halk Sağlığı Genel Müdürlüğüne bildirilir
 
-3) Yerleşim yeri savısı ve nüfusun dağınålığs da gla ůnünde bulundurularak, her 5.0M) mobil mitisa asgari | mobil sağlıkk ekip sayri belirlenir
+2) Mobil nüfus olarak şehir yerleşkelerinin dışındaki uzak mahalle, belde, küy, mezra gibi yerleşim birimlerinde yasayan va genellikle tarım ve hayvancılikk apraşan nüfus tanımlanır,
+
+3) Yerleşim yeri sayısı ve nüfusun dağılımı da göz önünde bulundurularak, her 5.0M) mobil mitisa asgari | mobil sağlıkk ekip sayri belirlenir
 
 4) NO Tisu; 100 unalande o lan yerlere ayda ba, 100-250 arasi yerlere 2 haftada bir, 250 Ozerine laflada bir viyaret gerçekleştirilir. Ancak il sağlık müdür liğince ditiyaç duyulınesı halinde bu sayılarm Uzerinde ziyare planlarabilir.
 
@@ -37,9 +40,9 @@ Mø l sağlik hizmetler inin Bakanlığmız plan ve programlarına uygun olarak 
 
 6) Ekipler ihtiyaç duyulması halinde farkh ilçelerdeki mobil aifusa hizmet verebilir
 
-7) Mobil sağlık hizmetlerinin verilmesi sırasmda bulundurulması gereken are-gerep ve thbi siliur ie inçlar assuri sundurdı Ek-2'de woterimiştir. Ehipler hizner senum euana by ‹malzemelen y an ela hu undurur.
+7) Mobil sağlık hizmetlerinin verilmesi sırasmda bulundurulması gereken are-gerep ve thbi siliur ie inçlar assuri sundurdı Ek-2'de woterimiştir. Ehipler hizmet sunum alanında by ‹malzemeleri y an ela hu undurur.
 
-8y Mohil saglik hizmetleri sunumu için gereki personelin göreviendirtimesi hizmet araşlarmm hithsisi, obbi cihaz, sarf malzemesi ve arac-kereç ihtiyacı il saglik unüöbrloklarince kanyılanv
+8y Mohil saglik hizmetleri sunumu için gereki personelin görevlendirilmesi hizmet araşlarmm hithsisi, obbi cihaz, sarf malzemesi ve arac-kereç ihtiyacı il saglik unüöbrloklarince karşılanır
 
 4) Nes ekip fçin bir ara belalenir Avaç azerindeki uygun yerlerde T.C. Sachk Rakanhen ..., Il Sağkk Müdürlogo, Mebil Sathk Hizmaeri, Ibureleri ile Bakaalgmız lagesa bulusdurulur.
 
@@ -51,7 +54,7 @@ TL) Mobil sağle hizmeterinde görevli persenel gorevir gerektirdigı beyuz öni
 
 SAGLIK BAKANLIĞI ONet
 
-### Halk Sağlığı Genel Müdürlüga AZRANL SPE
+### Halk Sağlığı Genel Müdürlüğü AZRANL SPE
 
 Ekiple görevli sathk personelinin gorev, yetki ve sorumlulukları:
 
@@ -107,19 +110,13 @@ Elbia calişma esaslari:
 
 3) Ziyaret gülerinin aile hekimliği genet hiemet günü/haftau de denk gelinemesme dikkat edilir.
 
-Otet
+### T.C SAGLIK BAKANLIĞI Halk Sağlığı Genel Müdtritiğn
 
-### FRE ISO-EM
-
-I My-
-
-### T.C SAGLIK BAKANLIGI Halk Sağlığı Genel Müdtritiğn
-
-4) Verilen tizmetio kayılarımın tutulmast ve sürecin yonetilenildievi ki hes yerleske kin hir hizmet defteri (mümkünse sabler PC Ezerinden) oluştunilur. Etigler tarafindon surulan hizmet verileri her günün sanunda Ek-1" de yer alan "Mobil Sağlık Formu"ra glenerek Layıalusa alınır. Bu kaynların kemali aymı form kullanılara hazılanan ekip icmali аул gür soninda il sşhk mülürhiğüne hildirlr Il sağhk mödelökleri de ilin izmafini aylık olarak Halk Sastür Genel Moderngüne gönderiz
+4) Verilen tizmetio kayılarımın tutulmast ve sürecin yonetilenildievi ki hes yerleske kin hir hizmet defteri (mümkünse sabler PC Ezerinden) oluştunilur. Etigler tarafindon surulan hizmet verileri her günün sanunda Ek-1" de yer alan "Mobil Sağlık Formu"ra glenerek Layıalusa alınır. Bu kaynların kemali aymı form kullanılara hazılanan ekip icmali аул gür soninda il sşhk mülürhiğüne hildirlr Il sağlık mödelökleri de ilin izmafini aylık olarak Halk Sastür Genel Moderngüne gönderiz
 
 Zlyarederdo uyulnenk ilkeler:
 
-1) Mobil sağhk hizne larin in sunurmında sağale belirten ilke ve kurullara nyrlacakin;
+1) Mobil sağlık hizne larin in sunurmında sağale belirten ilke ve kurullara nyrlacakin;
 
 a) Pazarlanan va ilan edilen çalema planma gare hizmetin aunelmosi esasis, Milehir sebeplerle yapılan değişiklikler, ziyaret gününden en až T ytln önce köylerin malarlarına bildirdacekıl. Mobil sağlek hizmetine gidilen birimin muhtarlarıyla isbirliği içerisinde hizmetler y rtüler
 
@@ -137,4 +134,6 @@ Proi Dr linz AEP MESE
 
 Fardine s1 Elc: 1- Mobil Sağlk Form 2- Mobll Saglik Çantasında Bultentas Gareken Tibbi Calnz, Arnç, Geteç Listesi
 
-### RASTAN A PLANI
+### DAĞITIM
+
+A PLANI

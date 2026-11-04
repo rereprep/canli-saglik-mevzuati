@@ -7,16 +7,16 @@ birim: "Kamu Hastaneleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103546/saglikli-yas-alma-merkezleri-yasam-genelgesi-20235.html"
 durum: "yürürlükte"
+konu: "Sağlıklı Yaş Alma Merkezleri (YAŞAM) Genelgesi (2023/5) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 ## 7.3 GENELGELER
 
 7.3.1. Sağlıklı Yaş Alma Merkezleri (YAŞAM) Genelgesi (2023/5)
 
-### T.C. SAĞLIK BAKANLIĞI Kamu Hastaneleri Genel Müdürluğü
-
-2- Merkezlerin planlaması ilin demografik yapısına ve hizmet ihtiyacına uygun olarak Il Sağlık Müdürlüğü tarafından yapılır.
+2- Merkezlerin planlaması ilin demografik yapısına ve hizmet ihtiyacına uygun olarak İl Sağlık Müdürlüğü tarafından yapılır.
 
 3- Merkezlerin fiziki yerleşkesi yaşlı bireyin hizmete kolay erişebilmesine uygun bir mekânda oluşturulur. Birimin oluşturulduğu fiziki yerleşkede yaşlı birey ve refakatte bulunan kişiler için ayrıca bekleme alanı oluşturulur. Yaşlı bireyin tıbbi bakım değerlendirmesinin yapılabilmesine uygun nitelikte muayene, yaşamsal bulguların tespiti, boy ve kilo ölçümü, kan alma, EKG çekimi gibi temel sağlık hizmetlerinin sunulmasına uygun olarak poliklinik odası şeklinde düzenlemeler yapılır.
 
@@ -36,17 +36,15 @@ ocr: true
 
 T.C.
 
-### SAĞLIK BAKANLIĞI
-
 Kamu Hastaneleri Genel Müdürlüğü
 
-### B) YAŞAM EKİBİ ÜYELERİNİN GÖREV ve SORUMLULUKLARI
+ B) YAŞAM EKİBİ ÜYELERİNİN GÖREV ve SORUMLULUKLARI
 
 1- Merkezde görevli ekip üyeleri, mesleğinin gerektirdiği disiplin ve sorumluluklar doğrultusunda hizmet sunumunu yürütür. Merkezin sorumlusu ekipte görevli olan hekimdir.
 
 2- Hekim, ekibi ile birlikte yaşlı bireyi yerinde veya evinde ziyaret eder. Yaşlı bireyin tıbbi değerlendirmesini yapar ve tıbbi bakım gereksinimlerini belirler, tıbbi bakım planını oluşturur.
 
-3- Hemşire tarafindan ev ziyareti veya yerinde ziyaret sırasında bakım ve takip planı oluşturulur. Bu plan ekip sorumlu hekimi tarafindan onaylanır.
+3- Hemşire tarafından ev ziyareti veya yerinde ziyaret sırasında bakım ve takip planı oluşturulur. Bu plan ekip sorumlu hekimi tarafından onaylanır.
 
 4- Fizyoterapist, fizyoterapi ve rehabilitasyona yönelik ölçme ve değerlendirme yapar, tedavi programını uzman hekim ile birlikte hazırlar. Tedavi programı doğrultusunda mesleki uygulamalarını gerçekleştirir.
 
@@ -72,13 +70,11 @@ d) Sağlık tesisi içinde Merkezin koordinasyonu ile gerçekleştirilen diğer 
 
 T.C.
 
-### SAĞLIK BAKANLIĞI
-
 Kamu Hastaneleri Genel Müdürlüğü
 
-### C) HİZMET SUNUM ESASLARI VE İŞLEYİŞ
+ C) HİZMET SUNUM ESASLARI VE İŞLEYİŞ
 
-1- Il Sağlık Müdürlüğu 80 yaş ve üzeri yaşlı bireyleri tespit eder ve bu işlemi aylık olarak günceller. Tespit edilen yaşlı bireyler hizmet bölgelerine göre Merkezlere aylık olarak bildirilir. Sağlık tesisinde Merkeze yapılan doğrudan başvurular da ilgili birim tarafindan kabul edilir. Ancak, sağlık tesisinin bulunduğu bölge haricinde yerleşimi bulunan yaşhı bireylerin başvuruları Il Sağlık Müdürlüğüne bildirilir. Il Sağlık Müdürlüğü yaşlı bireye en yakın konumda bulunan YAŞAM ekibini görevlendirir. Il Sağlık Müdürlüğü ilinde sağhklı yaş alma merkezlerinin işleyişi ve hizmet sunumunu sevk ve idare etmek ve merkezler arasında koordinasyonu sağlamakla görevlidir. Bu amaçla müdürlük içerisinde gerekli birimleri oluşturur ve personeli görevlendirir.
+1- İl Sağlık Müdürlüğu 80 yaş ve üzeri yaşlı bireyleri tespit eder ve bu işlemi aylık olarak günceller. Tespit edilen yaşlı bireyler hizmet bölgelerine göre Merkezlere aylık olarak bildirilir. Sağlık tesisinde Merkeze yapılan doğrudan başvurular da ilgili birim tarafından kabul edilir. Ancak, sağlık tesisinin bulunduğu bölge haricinde yerleşimi bulunan yaşhı bireylerin başvuruları İl Sağlık Müdürlüğüne bildirilir. İl Sağlık Müdürlüğü yaşlı bireye en yakın konumda bulunan YAŞAM ekibini görevlendirir. İl Sağlık Müdürlüğü ilinde sağlıklı yaş alma merkezlerinin işleyişi ve hizmet sunumunu sevk ve idare etmek ve merkezler arasında koordinasyonu sağlamakla görevlidir. Bu amaçla müdürlük içerisinde gerekli birimleri oluşturur ve personeli görevlendirir.
 
 2- Merkez kendi sorumluluğunda olan yaşlı bireylerle iletişime geçer. Süreç ve hizmetler hakkında bilgilendirme yapar. Yaşlı bireye yerinde veya ev ziyareti yapılmak üzere ilk randevusu oluşturulur.
 
@@ -86,7 +82,7 @@ Kamu Hastaneleri Genel Müdürlüğü
 
 4- Yaşlı bireyin sunulan bütün hizmet seçeneklerini kabul etmemesi halinde ise, YAŞAM ekibiyle iletişim kurması için iletişim numarası verilerek görüşme sonlandırılır.
 
-5- Yerinde ilk ev ziyaretinde yaşlı bireyin değerlendirmesi yapılır. Ilk ziyarette ekipte hekim bulunmak zorundadır. Yaşlı bireyin bağımlılık durumu hekim ve/veya hemşire tarafindan tespit edilir. Bağımlılık düzeyi için Ek-S'de yer alan değerlendirme ölçek ve testleri kullanılarak bağımlılık puanlaması yapılır ve bireyin tıbbi bakım ihtiyaçları
+5- Yerinde ilk ev ziyaretinde yaşlı bireyin değerlendirmesi yapılır. Ilk ziyarette ekipte hekim bulunmak zorundadır. Yaşlı bireyin bağımlılık durumu hekim ve/veya hemşire tarafından tespit edilir. Bağımlılık düzeyi için Ek-S'de yer alan değerlendirme ölçek ve testleri kullanılarak bağımlılık puanlaması yapılır ve bireyin tıbbi bakım ihtiyaçları
 
 6- İlk ziyarette yaşhı bireyin mevcut sağlık durumunun tespiti amacıyla, yaşlı bireyin kabul etmesi halinde, son bir ay içinde yapılmış tahlil sonuçlarının bulunmaması halinde tahlil için kan (Hemogram ve rutin biyokimya) ve idrar örneği alınabilir. Bir sonraki ziyaret için randevu oluşturulur ve yaşlı birey randevusu konusunda bilgilendirilir.
 
@@ -100,8 +96,6 @@ Kamu Hastaneleri Genel Müdürlüğü
 
 T.C.
 
-### SAĞLIK BAKANLIĞI
-
 Kamu Hastaneleri Genel Müdürlüğü
 
 11- Ilk ziyaret dışında kalan ev ziyaretlerini Merkezde görevli hemşire, diyetisyen ve psikologdan oluşan ekip birlikte yapar. Gerektiği durumlarda bu ekibe hekim ve diğer meslek mensupları da katılım sağlar.
@@ -114,17 +108,15 @@ Kamu Hastaneleri Genel Müdürlüğü
 
 15- Merkezde görevli tıbbi sekreter yaşlı bireyin, kamu sağlık tesisinde herhangi bir randevuya ihtiyacı olması halinde randevusunu ahır. Yaşlı birey ile iletişim kurularak randevu tarih ve saati bildirilir.
 
-16- YAŞAM ekibi tarafindan randevu saatinde sağlık tesisinde bulunacak şekilde yaşlı bireyin nakli koordine edilir. Sağlık tesisindeki işlemler süresince yaşlı bireye refakat edilir. Işlem bitiminde yaşlı bireyin evine nakli koordine edilir. 112 acil sağlık ambulanslarından nakil için destek alınır.
+16- YAŞAM ekibi tarafından randevu saatinde sağlık tesisinde bulunacak şekilde yaşlı bireyin nakli koordine edilir. Sağlık tesisindeki işlemler süresince yaşlı bireye refakat edilir. Işlem bitiminde yaşlı bireyin evine nakli koordine edilir. 112 acil sağlık ambulanslarından nakil için destek alınır.
 
 17- YAŞAM ekibi tarafından takibi yapılan hastanın günün herhangi bir zaman diliminde acil sağlık hizmetinden yararlanması halinde, bu durum YAŞAM sorumlu hekimine Bakanlıkça uygun görülen sistem üzerinden mesaj olarak bildirilir. Ilgili bireyin randevu planlaması ihtiyaca göre tekrar yapılır.
 
-18- YAŞAM tarafindan takip süreci içinde yaşlı bireyin bazı girişimsel tıbbi işlemlere (Pansuman, enjeksiyon, sonda değişimi gibi) ihtiyacı olması halinde YAŞAM ekibi tarafindan ek ziyaretlerle bu hizmetler gerçekleştirilir. Ancak, YAŞAM hekimi tarafindan gerekçesi bildirilmesi halinde bu hizmeti evde sağlık hizmet birimlerinden talep edebilir. YAŞAM hekimi tarafından evde sağlık hizmeti koordinasyon merkezine bilgi verilir. Evde sağlık hizmeti koordinasyon merkezi yaşhı bireye evde sağlık hizmet ekibi yönlendirir. Yaşlı bireye yerinde veya evde sunulan hizmetlerin kesintisiz ve sürdürülebilir niteliğinin devamı amacıyla YAŞAM ile Evde Sağlık Il Koordinasyon Merkezinin iş birliği içinde çalışmalı ve iş bölümü yapmalıdır. Bu hizmetlerin eşgüdümlü sunumunun planlanması, koordine edilmesinden İl Sağlık Müdürlüğü sorumludur.
+18- YAŞAM tarafından takip süreci içinde yaşlı bireyin bazı girişimsel tıbbi işlemlere (Pansuman, enjeksiyon, sonda değişimi gibi) ihtiyacı olması halinde YAŞAM ekibi tarafından ek ziyaretlerle bu hizmetler gerçekleştirilir. Ancak, YAŞAM hekimi tarafından gerekçesi bildirilmesi halinde bu hizmeti evde sağlık hizmet birimlerinden talep edebilir. YAŞAM hekimi tarafından evde sağlık hizmeti koordinasyon merkezine bilgi verilir. Evde sağlık hizmeti koordinasyon merkezi yaşhı bireye evde sağlık hizmet ekibi yönlendirir. Yaşlı bireye yerinde veya evde sunulan hizmetlerin kesintisiz ve sürdürülebilir niteliğinin devamı amacıyla YAŞAM ile Evde Sağlık Il Koordinasyon Merkezinin iş birliği içinde çalışmalı ve iş bölümü yapmalıdır. Bu hizmetlerin eşgüdümlü sunumunun planlanması, koordine edilmesinden İl Sağlık Müdürlüğü sorumludur.
 
-19- Yaşlı bireyin değerlendirilmesi ile branş hizmeti ve konsültasyona ihtiyaç olması halinde, yerinde veya evde veya uzaktan görüntülü görüşme yoluyla uzman hekim tarafindan hizmet sunulur.
+19- Yaşlı bireyin değerlendirilmesi ile branş hizmeti ve konsültasyona ihtiyaç olması halinde, yerinde veya evde veya uzaktan görüntülü görüşme yoluyla uzman hekim tarafından hizmet sunulur.
 
 T.C.
-
-### SAĞLIK BAKANLIĞI
 
 Kamu Hastaneleri Genel Müdürlüğü
 
@@ -134,10 +126,9 @@ Bilgilerini ve yukarıda belirtilen çerçevede birimlerin ivedilikle oluşturul
 
 Dr. Fahrettin KOCA
 
-Bakar Ek: 1-Formlar (9 Sayfa) 2- Ölçekler (16 Sayfa) 81 İl Valiliğine (Il Sağhk Müdürlüğü)
+Bakar Ek: 1-Formlar (9 Sayfa) 2- Ölçekler (16 Sayfa) 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
 ---
 
 **Dipnotlar**
 
-<small>(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)</small>

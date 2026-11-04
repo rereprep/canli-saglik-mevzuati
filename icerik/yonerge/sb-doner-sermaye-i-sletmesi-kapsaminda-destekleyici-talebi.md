@@ -8,23 +8,24 @@ etiketler: ["kamu hastaneleri", "döner sermaye", "mali işler"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 820-827"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 7.2.7. Döner Sermaye İşletmesi Kapsamında Destekleyici Talebi ile Yürütülecek Çalışmalar ve Hizmetler Hakkında Yönerge
 
 b) Sağlık tesisi bütçe formu: Destekleyiciler veya yasal temsilcisi tarafından hazırlanan
 
-1) SHGM: Sağhık: Hizmetleri Genel Müdürlügünü,
+1) SHGM: Sağlık Hizmetleri Genel Müdürlüğünü,
 
-i) Sorumlu araștırmacı: Araștırma konusa ile ilgili dalda uzmanlık veya doktora eğitimini tamamlamış olup ilgili merkezde araştırmanım yürütülmesinden sorumlu olan hekim
+i) Sorumlu araștırmacı: Araştırma konusu ile ilgili dalda uzmanlık veya doktora eğitimini tamamlamış olup ilgili merkezde araştırmanın yürütülmesinden sorumlu olan hekim
 
-j) TITCK: Türkiye ilaç ve Tibbi Cihaz Kuraman,
+j) TITCK: Türkiye İlaç ve Tıbbi Cihaz Kurumunu,
 
 ## İKİNCİ BÖLÜM
 
-#### Talep Edilebilecek Çalişmalar ve Hizmetler ile Genel Esaslar Talep edilebilecek hizmet veya çalışmalar
+#### Talep Edilebilecek Çalışmalar ve Hizmetler ile Genel Esaslar
 
-**MADDE 5 –** (1) Döner sermaye işletmesi kapsamında destekleyiciler tarafindan talep edilebilecek çalişmalar;
+**MADDE 5 –** (1) Döner sermaye işletmesi kapsamında destekleyiciler tarafından talep edilebilecek çalışmalar;
 
 a) Klinik araştırmalar,
 
@@ -34,9 +35,9 @@ c) Düşük riskli bilimsel çalışmalar,
 
 ç) Piyasa arz sonrası çalışmaları,
 
-d) Sağlıklı ve/veya hasta gönüllüler ve/veya verileri üzerinde yapılması planlanan geriye dönük arşiv taramaları, yaşam alışkanlıklarını değerlendirilme araştırmaları gibi insana hiçbir şekilde doğrudan müdabale edilmesini gerektirmeden müdahale içermeyen bilimsel çalışmalar, ø) Sağlık alanına evrensel veya ulusal ölçülerde katkı sağlaması beklenen bilimsel içerikli çalama ve projeler, gibi gelir getirici çalışmalardar.
+d) Sağlıklı ve/veya hasta gönüllüler ve/veya verileri üzerinde yapılması planlanan geriye dönük arşiv taramaları, yaşam alışkanlıklarını değerlendirilme araştırmaları gibi insana hiçbir şekilde doğrudan müdahale edilmesini gerektirmeden müdahale içermeyen bilimsel çalışmalar, e) Sağlık alanına evrensel veya ulusal ölçülerde katkı sağlaması beklenen bilimsel içerikli çalışma ve projeler, gibi gelir getirici çalışmalardır.
 
-(2) Döner sermaye işletmesi kapsamnda destekleyiciler tarafından talep edilebilecek hizmetler;
+(2) Döner sermaye işletmesi kapsamında destekleyiciler tarafından talep edilebilecek hizmetler;
 
 a) Danışmanlık hizmeti,
 
@@ -62,7 +63,7 @@ c) Yazılı ve görel medyada ticari amaçh işlerde (video çekimi gibi) yer al
 
 (6) Hizmet verecek kişilerin talep edilen konu ile ilgili alanda en az lisans eğitimi almış olması esastır. Hizmet verebilecek kişiler arasında konu ile ilgili kurs, eğitim veya sertifika aldığını belgelendirenler öncelikli olarak değerlendirilir.
 
-(7) Destekleyiciler tarafindan talep edilen hizmetin danışmanlık hizmeti kapsamına girip girmediği hususu; sağlık tesisine yapılacak başvurularda sağlık tesisi bünyesinde teşkıl edilen bir komisyon marifetiyle, merkez teşkilata yapılacak başvurularda ise ana hizmet birim amirleri veya birim amirinin gerekli görmesi halinde bir komisyon marifetiyle yapılır.
+(7) Destekleyiciler tarafından talep edilen hizmetin danışmanlık hizmeti kapsamına girip girmediği hususu; sağlık tesisine yapılacak başvurularda sağlık tesisi bünyesinde teşkıl edilen bir komisyon marifetiyle, merkez teşkilata yapılacak başvurularda ise ana hizmet birim amirleri veya birim amirinin gerekli görmesi halinde bir komisyon marifetiyle yapılır.
 
 (8) Hizmet vereock kişiler, hizmet kapsamında araç gereç ve laboratuvar gibi kurumun olanaklarını bağlı olduğu başhekim veya ana hizmet birimi umiri onayı olmadan kullanamaz.
 
@@ -78,7 +79,7 @@ c) Yazılı ve görel medyada ticari amaçh işlerde (video çekimi gibi) yer al
 
 **MADDE 7 –** (1) TITCK ve SHGM'nin görev alanına giren konular ile ilgili alman izne müteakiben destekleyici veya yasal temsilcisi tarafından ilgili sağlık tesisine çalışma sözleşmesi iletilir. Çalşmamıu tanımı, gerekşesi, süresi, personelin araştırmadaki günlük çalışma süresi, kapsamı, kaç gönülluyü içerdıği, butçe ve personel dökumü, çalışma sürecinde yapılacak olan işlemler ve miktarlanı, destekleyici veya yasal temsilcisi ile sağlık tesisi arasında yapılacak sözleşmede ver alır. (EK-2)
 
-(2) Sözleşmede; çalışmada görev alacak kişilerin adı soyadı ve ünvanları, çalamadaki rol ve görevleri, çalışma grubunda yer alan personele yapılacak ödemelerle ilgili gelirin paylaşun oranları ve ödeme zamanına ilişkin bilgiler yer alır. Personel ödemelerinin toplam
+(2) Sözleşmede; çalışmada görev alacak kişilerin adı soyadı ve ünvanları, çalışmadaki rol ve görevleri, çalışma grubunda yer alan personele yapılacak ödemelerle ilgili gelirin paylaşun oranları ve ödeme zamanına ilişkin bilgiler yer alır. Personel ödemelerinin toplam
 
 (3) Saghk tesisinden alınacak hizmetler, hizmet miktarı ve her birinin hizmetin bütçe tutarı belirtilir. Bununla birlikte personel ödemeleri, sağlık tesisinden almacak hizmetlerin toplam bütçesi ve varsa sair giderlere yönelik tutarlarını da olduğu çalışmanın butunünü kapsayan finansal tablo oluşturularak sağlık tesisi bütçe formu hazırlanır. (EK-3)
 
@@ -108,19 +109,19 @@ c) Gerekli duyulması halinde yapılması planlanan çalışmalara ilişkin ince
 
 ve benzeri iş ve işlemleri yürütür.
 
-(3) Mükemmeliyet Merkezi oluşturulan sağlık tesislerinde koordinasyon birimi kurulmaz. Koordinasyon birimi ile ilgili iş ve işlemler mükemmeliyet merkezleri tarafindan
+(3) Mükemmeliyet Merkezi oluşturulan sağlık tesislerinde koordinasyon birimi kurulmaz. Koordinasyon birimi ile ilgili iş ve işlemler mükemmeliyet merkezleri tarafından
 
 (4) Ilgili birimde gürev alacak personelin iyi klinik uygulamaları konularında eğitim almış nitelikli sağlık meslek mensubu ve bu alanda çalışan dığer kışılerden olması esastır.
 
 (5) Etik kurul üyeleri ilgili birimlerde görev alamaz
 
-(6) Destekleyici tarafindan talep konusu belirlenmiş ancak sorumlu araştırmacısı. çalışma ekibi, protokolu ve bütçesi henüz belirlenmemiş çalışmalara ilişkin koordinasyon birimine başvuruda bulunulabilir. Bu talep ile değerlendirme ilgili çalışmamın sağlık tesisinde gerçekleştirilmesine dair ön fizibilite çalışması ile sıırlıdır. Bu talepler, birimin koordinasyonunda çalışma konusuyla ilgili klinikler ile birlikte değerlendirilir.
+(6) Destekleyici tarafından talep konusu belirlenmiş ancak sorumlu araştırmacısı. çalışma ekibi, protokolu ve bütçesi henüz belirlenmemiş çalışmalara ilişkin koordinasyon birimine başvuruda bulunulabilir. Bu talep ile değerlendirme ilgili çalışmamın sağlık tesisinde gerçekleştirilmesine dair ön fizibilite çalışması ile sıırlıdır. Bu talepler, birimin koordinasyonunda çalışma konusuyla ilgili klinikler ile birlikte değerlendirilir.
 
 #### Çalışma izin başvuruları
 
-**MADDE 9 –** (1) Destekleyici veya yasal temsilcisi tarafindan Bakanlığa bağlı sağlık tesislerinde 5 inci maddenin birinci fikrasında belirtilen çalışmaların yapılabilmesi için dördüncü fikrada belirtilen belgeler ile Genel Müdürlüğe başvuru yapılır.
+**MADDE 9 –** (1) Destekleyici veya yasal temsilcisi tarafından Bakanlığa bağlı sağlık tesislerinde 5 inci maddenin birinci fikrasında belirtilen çalışmaların yapılabilmesi için dördüncü fikrada belirtilen belgeler ile Genel Müdürlüğe başvuru yapılır.
 
-(2) Başvurular, Genel Mudurlugun görevlendireceği, konu ile ilgili tecrübeye sahip 5 (beş) asil, 2 (iki) yedek üyeden oluşan inceleme komisyonu tarafindan başvuru belgelerinin tam olması durumunda 10 (on) iş günü içinde değerlendirilir ve uygun görülmesi halinde izin verilir.
+(2) Başvurular, Genel Mudurlugun görevlendireceği, konu ile ilgili tecrübeye sahip 5 (beş) asil, 2 (iki) yedek üyeden oluşan inceleme komisyonu tarafından başvuru belgelerinin tam olması durumunda 10 (on) iş günü içinde değerlendirilir ve uygun görülmesi halinde izin verilir.
 
 (3) Başvurularm değerlendirilmesi, ilgili sağhık tesislerinden alınacak hizmetlere ilişkin bütçe incelemesıni içerir. Bütçe incelemesi ile çalışma kapsamında sağlık hizmetlerinin fiyatlandırılması yapılarak sağhk tesisi bütçe formuna nihai şekli verilir.
 
@@ -140,17 +141,17 @@ e) Etik kurul onayı,
 
 1) Destekleyici veya yasal temsilcisinin ilgili personelinin iletişim bilgileri.
 
-(5) Başvurunun değerlendirmeye alınabilmesi için tüm belgelerin eksiksiz olarak sunulmast zorunludur. Değerlendirme sonucunda başvura sahibinden dördüncü fikrada belirtilen belgelerde düzeltme ve açıklama talep edilebilir. Destekleyici tarafindan 7 (yedi) iş günû içerisinde tamamlanmayan başvurular iade edilir. Güncellenen bagvuru, ikinci ve üçünců fikrada belirtilen usul ve esaslar dogrultusunda değerlendirilir.
+(5) Başvurunun değerlendirmeye alınabilmesi için tüm belgelerin eksiksiz olarak sunulmast zorunludur. Değerlendirme sonucunda başvura sahibinden dördüncü fikrada belirtilen belgelerde düzeltme ve açıklama talep edilebilir. Destekleyici tarafından 7 (yedi) iş günû içerisinde tamamlanmayan başvurular iade edilir. Güncellenen bagvuru, ikinci ve üçünců fikrada belirtilen usul ve esaslar dogrultusunda değerlendirilir.
 
 (6) Devam eden çalışmalar için, çalışmaya yeni bir sağlık tesisinin eklenmesi planlandığında birinci fikrada belirtilen usul ve esaslar ile Genel, Müdürlüge başvuruda bulunulur.
 
-(7) Genel Müdürlik tarafindan izin başvurularının değerlendirilmesi ve sağhk tesisi bütçe formuna nihai şeklinin verilmesi hiametine karşılık olarak hizmet bedeli talep edilir. Bu ücret Genel Müdürlük tarafindan belirlenir ve ilan edilir.
+(7) Genel Müdürlik tarafından izin başvurularının değerlendirilmesi ve sağhk tesisi bütçe formuna nihai şeklinin verilmesi hiametine karşılık olarak hizmet bedeli talep edilir. Bu ücret Genel Müdürlük tarafından belirlenir ve ilan edilir.
 
 #### Genel Müdürlük inceleme komisyonu
 
-**MADDE 10 –** (1) İnceleme komisyonuna, Genel Müdürluk tarafindan konuyla ilgili tecrübeye sahip Bakanhk merkez teşkilatı ve taşra teşkilatı bünyesindeki personel görevlendirilebilir. Komisyon üyelerinin görev süresi 6 ay ile 1 yıl arasındadır. Görev süresi biten üye yeniden görevlendirilebilir.
+**MADDE 10 –** (1) İnceleme komisyonuna, Genel Müdürluk tarafından konuyla ilgili tecrübeye sahip Bakanhk merkez teşkilatı ve taşra teşkilatı bünyesindeki personel görevlendirilebilir. Komisyon üyelerinin görev süresi 6 ay ile 1 yıl arasındadır. Görev süresi biten üye yeniden görevlendirilebilir.
 
-(Z) Komisyon, Genel Müdürlük tarafindan belirlenen ve önceden ilan edilen zamanlarda
+(Z) Komisyon, Genel Müdürlük tarafından belirlenen ve önceden ilan edilen zamanlarda
 
 (3) Genel Müdürlük bünyesinde, gerek: görülmesi halinde birden fazla inceleme
 
@@ -164,15 +165,15 @@ e) Etik kurul onayı,
 
 **MADDE 12 –** (1) 5 inci maddenin ikinci fikrasında belirtilen hizmet türlerini yapılabilmesi içın;
 
-a) Destekleyici veya yasal temsilcisi tarafindan, hizmeti verecek sağlık tesislerinde görevli personel için ilgili sağlık tesisine, Bakanlık merkez teşkilatında görevli personel için ilgili Genel Můdürlüğe/Başkanlığa resmi yazı ile başvuru yapılır.
+a) Destekleyici veya yasal temsilcisi tarafından, hizmeti verecek sağlık tesislerinde görevli personel için ilgili sağlık tesisine, Bakanlık merkez teşkilatında görevli personel için ilgili Genel Můdürlüğe/Başkanlığa resmi yazı ile başvuru yapılır.
 
-b) Başvuruda hizmetin tanımı ve kapsamı, yeri, süresi, tarihleri ile hizmet karşılığı ödenecek ücret elittilir. Hizmet verecek kişilerin ve varsa diğer kişilerin görevlendirilmesi; kurumun ana faaliyetlerini aksatmayacak şekilde yürütülmesi kaydıyla, personelin çalıştığı sağlık tesisinin başhekimi, merkez teşkilatta görevli personel için Genel Müdür/Başkan tarafindan yapılır.
+b) Başvuruda hizmetin tanımı ve kapsamı, yeri, süresi, tarihleri ile hizmet karşılığı ödenecek ücret elittilir. Hizmet verecek kişilerin ve varsa diğer kişilerin görevlendirilmesi; kurumun ana faaliyetlerini aksatmayacak şekilde yürütülmesi kaydıyla, personelin çalıştığı sağlık tesisinin başhekimi, merkez teşkilatta görevli personel için Genel Müdür/Başkan tarafından yapılır.
 
 ## DÖRDÜNCÜ BÖLÜM Mali Hükümler
 
 #### Çalışma ve hizmetlerin geliri, gideri ve yasal kesintileri
 
-**MADDE 13 –** (1) Çalışma ve hizmetler için belirlenen toplam tutar, destekleyici tarafindan Döner Sermaye Işletmesi hesabına veya vezneye yatırılır ve döner sermayeye gelir
+**MADDE 13 –** (1) Çalışma ve hizmetler için belirlenen toplam tutar, destekleyici tarafından Döner Sermaye Işletmesi hesabına veya vezneye yatırılır ve döner sermayeye gelir
 
 (2) Toplam tutardan;
 
@@ -194,7 +195,7 @@ gibi yasal kesintiler düşülerek safi tutar belirlenir.
 
 (2) (Değişik: 20.03.2024 tarihli ve 239758327 sayılı Bakan Oluru) Çalışına ve tizmetlerden elde edilen gelirin safi tutarının %15'i isc ilgili kuruma gelir olarak kaydedilir.
 
-(3) Çahşma ekibinde birden fazla kişi bulunması durumunda çalışmalarda ilgili personele ödenecek kısmın dağıtım oramı, yaptıkları hizmetler, risk, emek, zaman ve katkı payı gibi unsurlar dikkate almarak, sorumlu araştırmacı tarafindan belirlenir ve sözleşmede belirtilir. Ilgili sağlık tesisi başhekimi tarafindan onaylanır.
+(3) Çahşma ekibinde birden fazla kişi bulunması durumunda çalışmalarda ilgili personele ödenecek kısmın dağıtım oramı, yaptıkları hizmetler, risk, emek, zaman ve katkı payı gibi unsurlar dikkate almarak, sorumlu araştırmacı tarafından belirlenir ve sözleşmede belirtilir. Ilgili sağlık tesisi başhekimi tarafından onaylanır.
 
 (4) Çalışmayı ve hizmeti yürüten personele yapılacak ödeme; gelir tahsilatının yapıldığı tarihi izleyen bir ay içinde veya bedelin peşin tahsil edilmesi halinde gerçekleşme oranına bağlı olarak aylara bölünerek yapılabilir.
 
@@ -208,7 +209,7 @@ gibi yasal kesintiler düşülerek safi tutar belirlenir.
 
 **MADDE 15 –** (1) Mevzuan uyarmca TITCK iznine tabi çalışmalar, TITCK izni veya SHGM'nin gürev alanına giren konularda SHGM'nin izni alınmadan ilgili sağlık tesislerinde
 
-(2) TITCK izni veya SHGM'nin görev alanıria giren konularda SHGM'nin iznine tabi çalışmalarda, sağlık tesisi ve destekleyici veya yasal temsilcisi arasında yapılacak sözleşme. ilgili çalışma TITCK tarafindan onaylandıktan sonra imzalanır.
+(2) TITCK izni veya SHGM'nin görev alanıria giren konularda SHGM'nin iznine tabi çalışmalarda, sağlık tesisi ve destekleyici veya yasal temsilcisi arasında yapılacak sözleşme. ilgili çalışma TITCK tarafından onaylandıktan sonra imzalanır.
 
 (3) Ilgili tüm izinlerin ve sözleşmelerin aslı veya onaylı sureti ilgili sağlık tesisinde çalışma dosyasında muhataza edılır.
 

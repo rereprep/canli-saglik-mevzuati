@@ -9,32 +9,35 @@ etiketler: ["halk sağlığı", "çocuk sağlığı", "anne sağlığı", "taram
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 719-720"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.51. Çocuklara Yönelik Mikrobesin Destek Programları Genelgesi (2020/03)
 
 - K Net
 
-### SAGLIK BAKANLIGI I ERITENSATE Talk Sağlệ Genel Mộddengn
+### T.C. SAĞLIK BAKANLIĞI – Halk Sağlığı Genel Müdürlüğü
 
-Sayl : 67414668- Konu : Çocuklara yönelik mikrobesin destek programlar
+Sayı: 67414668-[?]  Konu: Çocuklara yönelik mikrobesin destek programları
 
-b) Ailelere demür eksikliği. D vitamini eksikliği ve olumsuz sonuçları hakkında bilgi verilecek preparatların nasıl kullanılacagı ve olası etkileri detaylı alarak anlaniacak, bebege ilgili preperadarın kallanıkıgı yakndan takip edilecektir.
+b) Ailelere demir eksikliği. D vitamini eksikliği ve olumsuz sonuçları hakkında bilgi verilecek preparatların nasıl kullanılacağı ve olası etkileri detaylı alarak anlaniacak, bebeğe ilgili preparatların kullanıldığı yakından takip edilecektir.
 
-x) Demir dksikligi anemisi olen bebeklere rehher değrultusunda tedavi dozu verilecektir
+x) Demir eksikliği anemisi olen bebeklere rehber doğrultusunda tedavi dozu verilecektir
 
-4) Demir ekslkliği uçsandan, bebekler 9, uy izleminde, çocuktur tse 16, izleminde (5 yaş) hemoglobin ve hemetokru degederi bakılarak değerlendirilecektir:
+4) Demir eksikliği açısından, bebekler 9, uy izleminde, çocuktur tse 16, izleminde (5 yaş) hemoglobin ve hemetokru degederi bakılarak değerlendirilecektir:
 
-d) Demir ve D vitamini desteklerınin Hbit yasa kokar surdürülmesi sağlaracaktır.
+d) Demir ve D vitamini desteklerınin iki yaşına kadar surdürülmesi sağlaracaktır.
 
-e) Sevki gereken bebeklerin tamı ve tedavisi ile ilgıli siseçler yakından takip edilecektir. 0 Demir ve D vitamini preparatların lojistiği hassasiyetle takip edilecek, ihtiyaçlar ikilçe sığhk müdürlügüne zamanıda bildirilecektir. #) Bebeklerin Demir ve D vitamini destegine Hişkin süreçler ve kullanlan preparatlara ilişkin lojistik bilgileri Aile Hekimligi Bilgi Sistemine (AHBS) kaydedileoektir,
+e) Sevki gereken bebeklerin tamı ve tedavisi ile ilgıli siseçler yakından takip edilecektir. 0 Demir ve D vitamini preparatların lojistiği hassasiyetle takip edilecek, ihtiyaçlar ikİlçe sağlık müdürlüğüne zamanıda bildirilecektir. #) Bebeklerin Demir ve D vitamini destegine Hişkin süreçler ve kullanlan preparatlara ilişkin lojistik bilgileri Aile Hekimligi Bilgi Sistemine (AHBS) kaydedileoektir,
 
-4) 2004/21 saydı Gudelge ve 2005/71 sayıb Genelge ydrürükien kaldınfsshr. Yukandaki talimsıarın ilimsadeki tom sağlık kurum ve karuluştun ile ilgili auğhk personelte tebliğ afilmeai, herlangi hir aksamaya, mahal vermeksuin aygalamanm shek/liğinin sağlanmas hususunda; Bilgilerinizi ve geregin ren edenir.
+4) 2004/21 saydı Gudelge ve 2005/71 sayıb Genelge ydrürükien kaldınfsshr. Yukandaki talimsıarın ilimsadeki tom sağlık kurum ve karuluştun ile ilgili auğhk personelte tebliğ afilmeai, herlangi hir aksamaya, mahal vermeksuin aygalamanm shek/liğinin sağlanmas hususunda; Bilgilerinizi ve gereğini ren edenir.
 
-Prof Dr. Eninc Al J MESE
+Prof. Dr. Emine ALP MEŞE
 
 Bakan a
 
-Bukan, Yeslmca
+Bakan Yardımcısı
 
-### DAGITIM: A PLANI
+### DAĞITIM:
+
+A Planı

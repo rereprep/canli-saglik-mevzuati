@@ -8,21 +8,25 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103622/yetki-devri-genelgesi-20245.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Bakanlık taşra teşkilatında taşınır devirlerine ilişkin parasal limitleri ve onay yetkisini belirler."
 ---
 
 ## 11.3. GENELGELER
 
 11.3.1. Yetki Devri Genelgesi (2024/5)
 
-### T.C. SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
+### T.C. SAĞLIK BAKANLIĞI
+
+Strateji Geliştirme Başkanlığı
 
 240252837
 
-### TAÇNIN YONETM BAN
+
 
 Sayı : 94036355/809.99 Konu : Yetki Devri
 
-### GENELGE 2024/.5.
+### GENELGE (2024/5)
 
 Bilindiği üzere Taşınır Mal Yönetmeliğinin 39 uncu maddesinin (f) bendinde (Değişik: 14/3/2016-2016/8646 K.); harcama yetkililerinin onayı ile harcama birimleri ve diğer kamu idarelerine devredilecek taşınırlar ile satışı yapılacaklar için tutar belirlemeye Hazine ve Maliye Bakanlığı yetkili kılınmış olup, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ve diğer mevzuat kapsamında uygulanacak olan parasal sınırlar ve alındı birim fiyatları her yıl yeniden belirlenmektedir.
 
@@ -50,10 +54,10 @@ Söz konusu limitler, bu işlemlerden herhangi birine veya tamamına konu olan t
 
 Bilgilerini ve gereğini rica ederim.
 
-Dr. Fahrettn KOCA
+Dr. Fahrettin KOCA
 
 Bakan
 
-### DAGITIM:
+### Dağıtım
 
-81 Il Valiligine (Il Sağlık Müdürlügü)
+81 İl Valiliğine (İl Sağlık Müdürlüğü)

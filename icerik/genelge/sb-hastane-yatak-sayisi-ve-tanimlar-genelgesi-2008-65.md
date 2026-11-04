@@ -9,15 +9,14 @@ etiketler: ["yatak kapasitesi", "hastane yatak sayısı", "yoğun bakım yatağ�
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 143-145"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
-
-2.3.5.Hastane Yatak Sayısı ve Tanımlar Genelgesi (2008/65)
 
 ### HASTANE HİZMETLERİNDE TEMEL KAVRAMLAR A - HASTA YATAGI
 
 Hastaların 24 saatten az olmamak üzere bakım ve tedavilerinin sağlanması amacıyla yatırıldığı, hasta odalarına ya da hastalara devamlı tıbbi bakım hizmeti verilen birimlere yerleştirilen yataklardır. Hasta yatak sayısına; Yoğun bakım, Prematüre ve Yeni doğan Ünitesindeki yataklar (kuvöz, açık bebek yatağı) ile Yanık Merkezi ve Yanık Odalarındaki yataklar dahil edilir.
 
-Akıl ve ruh sağlığı hastanelerinde kronik psikiyatri hastalarının tedavisi için ayrılmış yataklar, fızik tedavi ve rehabilitasyon hastane veya servislerinde rehabilitasyon için ayrılmış yataklar, geriatri yataklanı ıle ortalama kalış süresi 30 gün ve üzerinde olan hasta yatakları "Uzun Süreli Hasta Yatakları". bunun dışında kalan hasta yatakları ise "Kısa Süreli Hasta Yatakları" olarak sınıflandırılır.
+Akıl ve ruh sağlığı hastanelerinde kronik psikiyatri hastalarının tedavisi için ayrılmış yataklar, fizik tedavi ve rehabilitasyon hastane veya servislerinde rehabilitasyon için ayrılmış yataklar, geriatri yatakları ile ortalama kalış süresi 30 gün ve üzerinde olan hasta yatakları “Uzun Süreli Hasta Yatakları”, bunun dışında kalan hasta yatakları ise “Kısa Süreli Hasta Yatakları” olarak sınıflandırılır.
 
 Hasta yataklarına;
 
@@ -41,9 +40,9 @@ h) Refakatçi yatakları,
 
 Bir yıl içinde incelenen yerleşim birimi (lIçe, il, bölge, ülke) sınırları içerisinde bulunan sağlık kurumlarının toplam hasta yatağı sayısının birimin nüfusuna bölünmesi ile elde edilir. Belli sayıda (genellikle 10,000) kişiye düşen hasta yatak sayısını ifade eder. Planlama yapmak gibi diğer amaçlar yanında yerleşim birimleri arasında kıyaslama yapmak amacıyla da kullanılır.
 
-İncelenen yerleşim birimi sınırları içindeki 10,000 Kişiye Düşen Hasta toplam hasta yatağı savısı
+İncelenen yerleşim birimi sınırları içindeki 10,000 Kişiye Düşen Hasta toplam hasta yatağı sayısı
 
-Incelenen yerleşim birimi toplam nüfusu Ornek: 674,387 nüfuslu bir ildeki toplam hasta yatağı sayısı 1,625 dir. Bu ilde 10,000 kişiye düşen hasta yatağı sayısı; 10,000 Kişiye Düşen Hasta 1,625 x10,000 = 24.1 yatak Yatak Sayısı 674,387 şeklinde bulunur.
+İncelenen yerleşim birimi toplam nüfusu Örnek: 674,387 nüfuslu bir ildeki toplam hasta yatağı sayısı 1,625 dir. Bu ilde 10,000 kişiye düşen hasta yatağı sayısı; 10,000 Kişiye Düşen Hasta 1,625 x10,000 = 24.1 yatak Yatak Sayısı 674,387 şeklinde bulunur.
 
 ### C - YATAN HASTA SAYISI
 
@@ -59,7 +58,7 @@ Bir yıl içerisinde hastaneye yatınlan, hastaların, şifa, salah hali, ile ev
 
 ### F - MAKSİMUM YATILAN GÜN SAYISI
 
-Incelenen süre içinde hastanede verilebilecek bakım gün sayısının en büyük değeridir. Hesaplamada hasta yatak sayısı ile incelenen süre içindeki gün sayısı çarpılır. Ornek: 50 yataklı bir hastanenin Ocak(31 gün), Şubat(28/29 gün), Mart ayı (31 gün) için maksimum hasta bakım gün sayısı
+İncelenen süre içinde hastanede verilebilecek bakım gün sayısının en büyük değeridir. Hesaplamada hasta yatak sayısı ile incelenen süre içindeki gün sayısı çarpılır. Örnek: 50 yataklı bir hastanenin Ocak(31 gün), Şubat(28/29 gün), Mart ayı (31 gün) için maksimum hasta bakım gün sayısı
 
 = 50 yatak * (90/91 gün)
 
@@ -69,13 +68,13 @@ Incelenen süre içinde hastanede verilebilecek bakım gün sayısının en büy
 
 ### G - YATILAN GÜN SAYISI
 
-Hastanın hastanede kaldığı günlerin toplamıdır. Hesaplanmasında hastanın giriş çıkış günlerinden yalnız girdığı gün sayılır çıkış günü sayılmaz hastanın çıkış tarihınden giriş tarıhi çıkanlarak elde edılır. Aynı gün yatıp çıkan hastanın hasta günü 1 gün olarak kabul edilir.
+Hastanın hastanede kaldığı günlerin toplamıdır. Hesaplanmasında hastanın giriş çıkış günlerinden yalnız girdığı gün sayılır çıkış günü sayılmaz hastanın çıkış tarihınden giriş tarıhi çıkarılarak elde edılır. Aynı gün yatıp çıkan hastanın hasta günü 1 gün olarak kabul edilir.
 
 ### H) ORTALAMA KALIŞ GÜN SAYISI
 
 Yatılan Gün Savıs
 
-Taburcu + Öler
+Taburcu + Ölen
 
 ### I) YATAN HASTA ORANI (%)
 

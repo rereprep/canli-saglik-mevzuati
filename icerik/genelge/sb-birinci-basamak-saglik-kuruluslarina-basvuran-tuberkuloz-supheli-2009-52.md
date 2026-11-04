@@ -9,6 +9,7 @@ etiketler: ["halk sağlığı", "tüberküloz", "verem savaşı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 694-696"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.40. Birinci Basamak Sağlık Kuruluşlarına Başvuran Tüberküloz Şüpheli Bireylerden Balgam Toplanması Genelgesi (2009/52)
@@ -19,29 +20,29 @@ belirlenmiş usul ve esaslar doğrultusunda Seviye 1 Tüberküloz Laboratuvarlar
 
 Bu amaçla;
 
-1. Tüberküloz şüpheli bireylerden Ek-l'de yer alan kriterlere uygun balgam örneği alınacak ve alınan balgamın tetkik talebi Ek-2"de orneği verilen "Ornek Analiz Fişi" ile yapılacaktır,
+1. Tüberküloz şüpheli bireylerden Ek-1'de yer alan kriterlere uygun balgam örneği alınacak ve alınan balgamın tetkik talebi Ek-2’de örneği verilen "Ornek Analiz Fişi" ile yapılacaktır,
 
 2. Balgamların Ek-3'te yer alan kriterlere uygun koşullarda saklanması sağlanacaktır,
 
-3. Toplanan balgamlann Verem Savaşı Dispanseri laboratuvarlarında Ek-4'te yer alan kriterlere uygun kabulü sağlanacaktır,
+3. Toplanan balgamların Verem Savaşı Dispanseri laboratuvarlarında Ek-4'te yer alan kriterlere uygun kabulü sağlanacaktır,
 
 4. Toplanan balgamlara Verem Savaşı Dispanseri laboratuvarlarında direkt yayma (balgamdan direkt lam üzerine sürüntü) yapılıp, bunun Erlich-Ziehl-Neelsen (EZN) yöntemiyle boyanması ile mikroskobik muayenenin 24 saatten önce yapılması sağlanacaktır,
 
 5. Verem Savaşı Dispanseri laboratuvarında yayma pozitifliği saptanan kişinin bu sonucu, Ek-2'de orneği verilen "Örnek Analiz Fişi" ile birlikte ve telefonla aynı gun içinde balgamın verildiği sağlık kuruluşuna bildirilecektir,
 
-6. Balgam örneğinin direk yayma ve boyamadan sonra; kültür ve ilaç duyarlılık testi yapılmak uzere, en kısa surede (24 saat içerisinde), Ek-S'de ki her il için belirlenen bolge tüberküloz laboratuvarına nakledilmesi sağlanacaktır,
+6. Balgam örneğinin direkt yayma ve boyamadan sonra; kültür ve ilaç duyarlılık testi yapılmak üzere, en kısa sürede (24 saat içerisinde), Ek-5’teki her il için belirlenen bölge tüberküloz laboratuvarına nakledilmesi sağlanacaktır,
 
-7. Hastaların ve sağlık çalışanlarının balgam alınması, kabulu ve nakli hususunda Ek-
+7. Hastaların ve sağlık çalışanlarının balgam alınması, kabulü ve nakli hususunda Ek-
 
 6'de yer alan biyogüvenlik ilkelerine uyması sağlanacaktır,
 
 8. Birinci basamak sağlık kuruluşlarından toplanan balgamlann naklinde Ek-7'de belirtilen kriterlere uygun malzemeler kullanılacak ve belirlenen ilkelere uyulacaktır,
 
-9. Toplanan balgamların, Verem Savaşı Dispanseri laboratuvarina ulaștirilması hususunda Ek-8'de belirlenen lojistik destek sağlanacaktır,
+9. Toplanan balgamların, Verem Savaşı Dispanseri laboratuvarına ulaștirilması hususunda Ek-8'de belirlenen lojistik destek sağlanacaktır,
 
-10. Birinci basamak sağlık kuruluşlarından balgamların taşınması sırasında Ek-9'da örneği verilen "Numune Nakil Kayıt Defteri" kullamlacaktır,
+10. Birinci basamak sağlık kuruluşlarından balgamların taşınması sırasında Ek-9'da örneği verilen "Numune Nakil Kayıt Defteri" kullanılacaktır,
 
-11. Verem Savaşı Dispanseri laboratuvarlarında tetkikin yapılıp sonucun ilgili birinci basamak sağlık kuruluşlarına bildirilmesi konusunda sorumlu olacak personel gorevlendirilecektir.
+11. Verem Savaşı Dispanseri laboratuvarlarında tetkikin yapılıp sonucun ilgili birinci basamak sağlık kuruluşlarına bildirilmesi konusunda sorumlu olacak personel görevlendirilecektir.
 
 T.C.
 

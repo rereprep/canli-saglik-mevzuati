@@ -10,4 +10,3 @@ durum: "yürürlükte"
 
 7.3.7. Bakım Onarım Tadilat İşleri Genelge Revizyonu
 
-(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) (cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)

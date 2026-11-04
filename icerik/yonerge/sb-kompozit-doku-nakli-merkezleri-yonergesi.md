@@ -8,15 +8,16 @@ etiketler: ["kompozit doku", "doku nakli", "yüz nakli"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 87-96"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.2.11. Kompozit Doku Nakli Merkezleri Yönergesi
 
 i) Organ ve doku kaynağı merkezi: Beyin ölümü tespit edebilecek donanım ve personele sahip merkezleri,
 
-j) Ulusal Koordinasyon Kurulu (UKK): Ulusal Organ ve Doku Nakli Koordinasyon
+j) Ulusal Koordinasyon Kurulu (UKK): Ulusal Organ ve Doku Nakli Koordinasyon Kurulunu,
 
-k) Vaskülarize Kompozit Doku: Tipik olarak ekoderm ya da mezodermden köken almış: deri, yağ dokusu, kas, sinir, lenf nodu, kemik ve kıkırdaktan en az ikisinin kombinasyonunu içeren ve nakledildiği alıcıda damar anastomozlan ile yaşatılan dokuları,
+k) Vaskülarize Kompozit Doku: Tipik olarak ektoderm ya da mezodermden köken almış; deri, yağ dokusu, kas, sinir, lenf nodu, kemik ve kıkırdaktan en az ikisinin kombinasyonunu içeren ve nakledildiği alıcıda damar anastomozlan ile yaşatılan dokuları,
 
 ## İKİNCİ BÖLÜM
 
@@ -24,7 +25,7 @@ Kompozit Doku Nakli Bilimsel Danışma Komisyonu ve Kompozit Doku Nakli Konseyi
 
 #### Komisyonun teşkili
 
-**MADDE 4 –** (1) Komisyon Tedavi Hizmetleri Genel Müdürü veya görevlendireceği en az daire başkanı düzeyindeki bir idari amir başkanlığında; Mikro cerrahi alanında deneyimli, organ veya doku nakli konusunda da çalışmaları bulunan doçent ve profesörler arasından Bakanlıkça seçilecek altı üye olmak üzere toplam yedi kişiden oluşur.
+**MADDE 4 –** (1) Komisyon Tedavi Hizmetleri Genel Müdürü veya görevlendireceği en az daire başkanı düzeyindeki bir idari amir başkanlığında; mikrocerrahi alanında deneyimli, organ veya doku nakli konusunda da çalışmaları bulunan doçent ve profesörler arasından Bakanlıkça seçilecek altı üye olmak üzere toplam yedi kişiden oluşur.
 
 (2) Komisyon üyeleri, bir yıl süreyle görev yaparlar. Yeni komisyon üyeleri seçilinceye kadar mevcut üyelerin görevi devam eder.
 
@@ -38,9 +39,9 @@ Kompozit Doku Nakli Bilimsel Danışma Komisyonu ve Kompozit Doku Nakli Konseyi
 
 a) Alıcının çocuk olması ve Endikasyon Listesine göre karar verilmesi mümkün olamayan diğer istisnai vakalar için Bakanlığa başvurulduğunda vakanın nakil yönünden değerlendirilmesinde.
 
-b) Endıkasyon Lıstesıne göre Konsey kararı ile yapılan nakıllerde, nakıl sonucunun endikasyon yönünden değerlendirilmesinde,
+b) Endikasyon Listesine göre Konsey kararı ile yapılan nakillerde, nakıl sonucunun endikasyon yönünden değerlendirilmesinde,
 
-e) Ulke genelinde kompozit doku nakli hizmetlerinin gelişimini izleyerek, alınacak tedbirleri ve ulusal stratejıleri belirlemek için ihtiyaç duyulan konularda,
+c) Ülke genelinde kompozit doku nakli hizmetlerinin gelişimini izleyerek, alınacak tedbirleri ve ulusal stratejileri belirlemek için ihtiyaç duyulan konularda,
 
 ç) Merkezlerin faaliyetleri ve alınacak tedbirler konusunda,
 

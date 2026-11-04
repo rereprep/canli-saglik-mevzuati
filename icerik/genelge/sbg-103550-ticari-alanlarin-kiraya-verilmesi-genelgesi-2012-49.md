@@ -7,14 +7,12 @@ birim: "Kamu Hastaneleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103550/ticari-alanlarin-kiraya-verilmesi-genelgesi-201249.html"
 durum: "yürürlükte"
+konu: "Ticari Alanların Kiraya Verilmesi Genelgesi (2012/49) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 7.3.12. Ticari Alanların Kiraya Verilmesi Genelgesi (2012/49)
-
-(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455)(cid:455) g ( / )
-
-### T.C. SAĞLIK BAKANLIĞI Türkiye Kamu Hastaneleri Kurumu
 
 Sağsk Bakareğı işlemlerinde açık teklif usulü veya kapalı teklif usulünün uygulanacağı açıkça vurgulanmiştır.
 
@@ -36,27 +34,23 @@ Sağsk Bakareğı işlemlerinde açık teklif usulü veya kapalı teklif usulün
 
 4. Aile hekimlerine kiraya verilen ticari alanlarda, sözleşme süresi belirlenirken aile hekimlerinin görevlendirme süreleri göz önünde bulundurulacaktır. Aile hekiminin
 
-### T.C. SAĞLIK BAKANLIĞI Türkiye Kamu Hastaneleri Kurumu
-
 Segık Batantğr herhangi bir sebeple görevinden ayrılması halinde, kullanmadığı dönemlere ait peşin tahsil edilen kira bedeli ilgili aile hekimine iade edilecektir.
 
 5. Ticari alanın kiralama süresi her ne sebeple olursa olsun 3 yıldan fazla olmayacak ve protokol bitim tarihini aşmayacaktır. D) Ticari Alanların İşletilmesi Esasları
 
-1. Ticari alanlara ait elektrik, su ve ısınma giderlerinin tahsil edilememesi veya eksik tahsil edilmesi ihtimaline karşılık, bu tür ticari alanlarda masrafların idareler tarafindan karşılanması koşuluyla (abonelik ve güvence bedelleri kiracıya ait olmak üzere) mümkünse abonelikleri ayrılmalı, mümkün değil ise bu giderlerin süzme sayaç veya tahmin edilen değerler üzerinden tahsil edileceği sözleşmelerde belirtilecektir. Ticari alanların ısınma giderleri ise, birim ısınma maliyeti tespit edilerek kapalı alanın toplam m' si üzerinden hesaplanmalıdır. Kira harici bu tür alacakların tahsili, kira sözleşmelerine dâhil edilmeden TDMS üzerinden ayrıca muhasebeleştirilecektir.
+1. Ticari alanlara ait elektrik, su ve ısınma giderlerinin tahsil edilememesi veya eksik tahsil edilmesi ihtimaline karşılık, bu tür ticari alanlarda masrafların idareler tarafından karşılanması koşuluyla (abonelik ve güvence bedelleri kiracıya ait olmak üzere) mümkünse abonelikleri ayrılmalı, mümkün değil ise bu giderlerin süzme sayaç veya tahmin edilen değerler üzerinden tahsil edileceği sözleşmelerde belirtilecektir. Ticari alanların ısınma giderleri ise, birim ısınma maliyeti tespit edilerek kapalı alanın toplam m' si üzerinden hesaplanmalıdır. Kira harici bu tür alacakların tahsili, kira sözleşmelerine dâhil edilmeden TDMS üzerinden ayrıca muhasebeleştirilecektir.
 
 2. Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik ekinde yayımlanan tip kira sözleşmesinde belirtilen mücbir sebepler (tabii afetler, ülkede genel veya tesisin bulunduğu yerde kısmi seferberlik ilanı, genel veya kısmi grev, lokavt gibi kısmi hak kullanımından doğan imkänsızlıkların meydana gelmesi, bulaşıcı hastalık, salgın gibi olayların çıkması ve benzeri håller) ile sözleşmenin düzenlenmesinden sonra ortaya çıkan ve kamudan kaynaklanan engelleyici hususlar hariç olmak üzere, kiracı sözleşmenin devamı süresince kira süresinin uzatımı, kira bedelinin indirilmesi, ödeme tarihi ve miktarları ile kiralanan alanın yüzölçümünün değiştirilmesi gibi taleplerde
 
 3. Kiraya verilen ticari alanların kamudan kaynaklanan sebeplerle, bir kısmının kurum ihtiyaçları için kullanılmasına karar verilmesi halinde, yeni kira bedeli belirlenirken sadece mª ölçülerinin baz alınmaması, m''nin fiyata yansımasının yanında gelir E) Tahsilâta İlişkin Hususlar
 
-1. Sağlık tesislerince kiraya verilen ticari alanlara ait yüksek meblağlarda tahsil edilmemiş kira alacaklarımın bulunduğu tespit edilmiş olup, TDMS Modülüne kayıth olan kira sözleşmelerinin incelenerek kapatılan ticari alan varsa modül üzerinden de kapatılması, varsa gecikmiş kira borcu bulunan kiracılar uyarılarak en kısa zamanda alacakların tahsil edilmesinin sağlanması, rızaen tahsilatın yapılamaması durumunda borcun tahsili hususunda Genel Sekreterlik bünyesindeki Avukatlık Hizmetleri Birimi tarafindan yasal işlemlere başlanılması gerekmektedir. Ancak Genel Sekreterlikler bünyesinde Avukatlık Hizmetleri Birimi kuruluncaya kadar, bu işlemler Il Sağlık Müdürlükleri bünyesinde yer alan Avukatlık Hizmetleri Bürolarınca yürütülecektir.
+1. Sağlık tesislerince kiraya verilen ticari alanlara ait yüksek meblağlarda tahsil edilmemiş kira alacaklarımın bulunduğu tespit edilmiş olup, TDMS Modülüne kayıth olan kira sözleşmelerinin incelenerek kapatılan ticari alan varsa modül üzerinden de kapatılması, varsa gecikmiş kira borcu bulunan kiracılar uyarılarak en kısa zamanda alacakların tahsil edilmesinin sağlanması, rızaen tahsilatın yapılamaması durumunda borcun tahsili hususunda Genel Sekreterlik bünyesindeki Avukatlık Hizmetleri Birimi tarafından yasal işlemlere başlanılması gerekmektedir. Ancak Genel Sekreterlikler bünyesinde Avukatlık Hizmetleri Birimi kuruluncaya kadar, bu işlemler İl Sağlık Müdürlükleri bünyesinde yer alan Avukatlık Hizmetleri Bürolarınca yürütülecektir.
 
 2. Sağlık tesislerimizde aktif olarak işletilen ticari alanlara ait sözleşmeler TDMS modülüne kaydedilecek olup, ilgili tüm tahsilâtlar bu sözleşme kaydı üzerinden yapılacaktır. Bu ticari alana ait tahsilâtlar emanet hesaplarda bekletilmeyecek, diğer gelir kalemlerinden muhasebeleştirilmeyecektir.
 
 3. Sağlık tesislerinde yer alan ticari alanlardan, anılan protokol ile devredilmesine rağmen, halen ecrimisil yolu ile tahsilätları yapılmakta olanların en kısa sürede yukarıda belirtilen ihale yöntemlerinden biri ile kiraya verilmesi gerekmektedir.
 
 4. Maliye Bakanlığı ile yapılan protokol gereğince, ticari alanlara ait ecrimisil tahsilätları sağlık tesislerimizce yapılacaktır. Bu kapsamda; Milli Emlak Genel Müdürlüğünün 336 sıra nolu Tebliğine göre kurumlarımızca tespit edilerek, gerekli tebligatlar yapılmasına
-
-### T.C. SAĞLIK BAKANLIĞI Türkiye Kamu Hastaneleri Kurumu
 
 Sagit Bakertg rağmen tahsil edilemeyen erimisil alacakları, Genel Sekreterlik bünyesindeki Avukatlık Hizmetleri Birimlerince takip edilerek, ilgili Döner Sermaye Saymanlıklarınca tahsil edilmesinin sağlanması gerekmektedir. Genel Sekreterlik bünyesinde bu birimler oluşturuluncaya kadar anılan işlemler İl Sağlık Müdürlükleri bünyesinde bulunan Avukatlık Hizmetleri Bürolarınca yürütülecektir.
 
@@ -66,16 +60,16 @@ Sagit Bakertg rağmen tahsil edilemeyen erimisil alacakları, Genel Sekreterlik 
 
 2. Yenileme işinin ihale edilebilmesi için; vaziyet planı, uygulama projesi (mimari, statik, elektrik, mekanik) ve yaklaşık maliyet hazırlanmalıdır. Yaklaşık maliyet metraj, imalat sayfası, pursantaj, genel icmal, mahal listesi ve teknik şartnameleri içermelidir. Her bir tadilat ve onarım işi için ayrı ayrı gruplar şeklinde yaklaşık maliyet hazırlanmalı ve sonrasında genel icmal oluşturulmalıdır. Kiralanacak alanların sağlık tesisinin neresinde,
 
-3. Bütün bu belgeler hazırlayanlarca imzalanıp Hastane Yöneticisi tarafindan onaylandıktan sonra izin için Kurumumuza sunulacaktır. Kurumumuzca uygun görülmesi halinde, başvuru dosyası Sağlık Yatırımlanı Genel Müdürlüğüne gönderilecektir. Bilgilerinizi ve Birliğiniz dähilindeki tüm sağlık tesislerine duyurulması hususunda gereğini önemle rica ederim.
+3. Bütün bu belgeler hazırlayanlarca imzalanıp Hastane Yöneticisi tarafından onaylandıktan sonra izin için Kurumumuza sunulacaktır. Kurumumuzca uygun görülmesi halinde, başvuru dosyası Sağlık Yatırımlanı Genel Müdürlüğüne gönderilecektir. Bilgilerinizi ve Birliğiniz dähilindeki tüm sağlık tesislerine duyurulması hususunda gereğini önemle rica ederim.
 
 Vihg TOSUN. P
 
 Prof. Dr.(
 
-### DAĞITIM
+DAĞITIM
 
 87 Kamu Hastaneleri Birliği Genel Sekreterliğine Hukuk Müşavirliğine
 
 Denetim Hizmetleri Daire Başkanlığına
 
-81 İl Valiliğine ( İl Sağhık Müdürlüğü)
+81 İl Valiliğine ( İl Sağlık Müdürlüğü)

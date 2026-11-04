@@ -2,26 +2,32 @@
 id: "sbg-11093-ulusal-medikal-kurtarma-ekipleri-umke-2009-yili-faaliyet-plani"
 baslik: "Ulusal Medikal Kurtarma Ekipleri (UMKE) 2009 Yılı Faaliyet Planı"
 tur: "genelge"
+tarih: "2009-02-02"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11093/ulusal-medikal-kurtarma-ekipleri-umke-2009-yili-faaliyet-plani.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## SAGLlK BAKANLlGI
+### T.C. SAĞLIK BAKANLIĞI
 
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-2.q.g'Lı 02..01..2.oCı.9 Sayı :B.lO.OTSH016.0007/ Konu: 2009 yılı UMKE Faaliyet planı
+Tarih: 02.02.2009
 
-### V ALİLİGİNE (İl Sağlık Müdürlüğü)
+Sayı: B.10.0 TSH 016.0007/2784
+
+Konu: 2009 yılı UMKE Faaliyet Planı
+
+### VALİLİĞİNE (İl Sağlık Müdürlüğü)
 
 Afetlere hazırlıklı olmak amacıyla kurulan ve acil ve olağandışı durumlarda medikal kurtarma hizmetini gerçekleştirecek olan Ulusal Medikal Kurtarma (UMKE) ekiplerinin eğitimleri yıllık faaliyet planına göre yürütülmektedir. Bu amaçla Makamının 23.01.2009 tarihli ve 2041 sayılı oluru ile "2009 yılı UMKE Faaliyet Planı" uygun bulunmuştur.
 
-İl Sağlık Müdürlükleri Ulusal Medikal Kurtarma Ekipleri 2009 Yılı Faaliyet Planına http:\\ www.saglik.gov.tr adresinden ulaşılabileceklerdir.
+İl Sağlık Müdürlükleri Ulusal Medikal Kurtarma Ekipleri 2009 Yılı Faaliyet Planı’na http://www.saglik.gov.tr adresinden ulaşılabilecektir.
 
-İlinizde UMKE ekiplerinin yapacağı faaliyetlerde 2009 yılı faaliyet planına göre hareket edilmesi, UMKE personeline gerekli kolaylığın sağlanması, planda yer almayan ancak yapılması önem arz eden faaliyetler için Bakanlığımıza en az 15 gün önceden bildirmek suretiyle olur alınması durumunda ilgili faaliyet yapılabileceği, gerçekleştirilen faaliyetlerle ilgili raporun en geç faaliyeti takip eden hafta içerisinde Bakanlığımız Temel Sağlık Hizmetleri Genel Müdürlüğü Acil ve Afetlerde Sağlık Hizmetleri Daire Başkanlığı' na gönderilmesi hususunda bilgilerinizi ve gereğini rica ederim.
+İlinizde UMKE ekiplerinin yapacağı faaliyetlerde 2009 yılı faaliyet planına göre hareket edilmesi, UMKE personeline gerekli kolaylığın sağlanması, planda yer almayan ancak yapılması önem arz eden faaliyetler için Bakanlığımıza en az 15 gün önceden bildirilmek suretiyle olur alınması durumunda ilgili faaliyetin yapılabileceği, gerçekleştirilen faaliyetlerle ilgili raporun en geç faaliyeti takip eden hafta içerisinde Bakanlığımız Temel Sağlık Hizmetleri Genel Müdürlüğü Acil ve Afetlerde Sağlık Hizmetleri Daire Başkanlığı' na gönderilmesi hususunda bilgilerinizi ve gereğini rica ederim.
 
 (L~1( ~rlJL
 
@@ -29,17 +35,17 @@ Dr:'~~eddın QöM
 
 Bakana.
 
-GenelMüdürV. EK: 1- Makam Onayı
+Genel Müdür V. EK: 1- Makam Onayı
 
-### DAGITIM:
+### DAĞITIM
 
 81 İl Valiliği
 
-### SAGLlK BAKANLlGI
+
 
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-20~1 ~3. e>j..2009 Sayı : B.lO.OTSH 016.0007/ Konu: 2009 yılı UMKE Faaliyet planı
+
 
 ### BAKANLıK MAKAMıNA
 
@@ -79,7 +85,7 @@ Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 2 UMKE Genel Toplantısı Adana Hekimevi 05/Ocak/2009 05/Ocak/2009 İki Saat 32
 
-3 Umke Eğitimi Adana Hekimevi 05/Ocak/2009 9/Ocak/2009 5 Gün 20
+3 UMKE Eğitimi Adana Hekimevi 05/Ocak/2009 9/Ocak/2009 5 Gün 20
 
 4 UMKE Genel Toplantısı Adana Hekimevi 02/Şubat/2009 02/Şubat/2009 İki Saat 32
 
@@ -129,17 +135,17 @@ Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 27 KBRN Adana Hekimevi 01/Ekim/2009 01/Ekim/2009 İki Saat 30
 
-28 İletişim Haberleşme ve Uluslararsı İşaretler Eğitimi Adana Hekimevi 01/Ekim/2009 01/Ekim/2009 İki Saat 30
+28 İletişim Haberleşme ve Uluslararası İşaretler Eğitimi Adana Hekimevi 01/Ekim/2009 01/Ekim/2009 İki Saat 30
 
 29 KBRN Savunma Eğitimi Adana Hekimevi 01/Ekim/2009 01/Ekim/2009 İki Saat 30
 
-30 Umke Genel Toplantısı Adana Hekimevi 02/Kasım/2009 02/Kasım/2009 İki Saat 30
+30 UMKE Genel Toplantısı Adana Hekimevi 02/Kasım/2009 02/Kasım/2009 İki Saat 30
 
 31 UMKE Genel Toplantısı Adana Hekimevi 01/Aralık/2009 01/Aralık/2009 İki Saat 32
 
 ### GAZİANTEP SIRA BAŞLANGIÇ KATILIMCI EĞİTİMİN ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
-Umke Görev Tanımları 27 Ocak 27 Ocak 1 Gün 20 1 112 ASH Salonu
+UMKE Görev Tanımları 27 Ocak 27 Ocak 1 Gün 20 1 112 ASH Salonu
 
 Afet Ve Olağan Dışı Durumlarda Olay Yeri Güvenliği 10 Nisan 2 Gün 20 2 112 ASH Salonu 09 Nisan
 
@@ -147,9 +153,9 @@ Eğitimi 3 Medikal Çanta Eğitimi 112 ASH Salonu 10 Eylül 10 Eylül 1 Gün 20 
 
 ### KAHRAMANMARAŞ SIRA BAŞLANGIÇ KATILIMCI EĞİTİMİN ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
-Merkez Eğit.Sağ. 28.01.2009 28.01.2009 1 Gün 30 1 Umke Genel Toplantısı.
+Merkez Eğit.Sağ. 28.01.2009 28.01.2009 1 Gün 30 1 UMKE Genel Toplantısı.
 
-Ocağı 2 Afet Ve Olağan Dışı Durumlar Eğitimi. “ 18.02.2009 18.02.2009 1 Gün 30 3 Afet Epidemiyolojisi Eğitimi. “ 18.02.2009 18.02.2009 1 Gün 30 4 Afet Lojistiği Eğitimi “ 18.02.2009 18.02.2009 1 Gün 30 5 Umke Görev Tanımları. “ 18.02.2009 18.02.2009 1 Gün 30 6 Çocuklarda İleri Yaşam Desteği Eğitimi “ 16.03.2009 20.03.2009 5 gün 30 7 Bölge İlleri Toplantısı “ 17.04.2009 17.04.2009 1 Gün 10 8 Temel Dağcılık Ve Kondisyon Eğitimi “ 20.04.2009 24.04.2009 5 Gün 40 9 Medikal Çanta Ve Kurtarma Eğitimi “ 27.05.2009 27.05.2009 1 Gün 30 10 Çoklu Yaralanmalı Kazalara Müdahale Eğitimi “ 27.05.2009 27.05.2009 1 Gün 30 11 Temel Ve İleri Yaşam Destek Eğitimleri “ 27.05.2009 27.05.2009 1 Gün 30 12 Haberleşme Teknikleri Eğitimi “ 17.06.2009 18.06.2009 2 Gün 30 13 Umke Genel Toplantısı “ 21.10.2009 21.10.2009 1 Gün 30 14 Afet Psikolojisi Eğitimi “ 25.11.2009 25.11.2009 1 Gün 30
+Ocağı 2 Afet Ve Olağan Dışı Durumlar Eğitimi. “ 18.02.2009 18.02.2009 1 Gün 30 3 Afet Epidemiyolojisi Eğitimi. “ 18.02.2009 18.02.2009 1 Gün 30 4 Afet Lojistiği Eğitimi “ 18.02.2009 18.02.2009 1 Gün 30 5 UMKE Görev Tanımları. “ 18.02.2009 18.02.2009 1 Gün 30 6 Çocuklarda İleri Yaşam Desteği Eğitimi “ 16.03.2009 20.03.2009 5 gün 30 7 Bölge İlleri Toplantısı “ 17.04.2009 17.04.2009 1 Gün 10 8 Temel Dağcılık Ve Kondisyon Eğitimi “ 20.04.2009 24.04.2009 5 Gün 40 9 Medikal Çanta Ve Kurtarma Eğitimi “ 27.05.2009 27.05.2009 1 Gün 30 10 Çoklu Yaralanmalı Kazalara Müdahale Eğitimi “ 27.05.2009 27.05.2009 1 Gün 30 11 Temel Ve İleri Yaşam Destek Eğitimleri “ 27.05.2009 27.05.2009 1 Gün 30 12 Haberleşme Teknikleri Eğitimi “ 17.06.2009 18.06.2009 2 Gün 30 13 UMKE Genel Toplantısı “ 21.10.2009 21.10.2009 1 Gün 30 14 Afet Psikolojisi Eğitimi “ 25.11.2009 25.11.2009 1 Gün 30
 
 ### KİLİS SIRA BAŞLANGIÇ KATILIMCI EĞİTİMİN ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
@@ -179,7 +185,7 @@ Temel Modül
 
 3 İlk Yardım Temel Uygulamaları İl Ambulans Servisi Eğit sal. 18 Mart 2009 19 Mart 2009 2 GÜN 30
 
-4 Umke Dağ Kurtarma Temel Eğitimi Martı Oteli 7 Nisan 2009 11 Nisan 2009 5 GÜN 30
+4 UMKE Dağ Kurtarma Temel Eğitimi Martı Oteli 7 Nisan 2009 11 Nisan 2009 5 GÜN 30
 
 5 Su Kurtarma Timi Temel Eğitimi İl Amb. Salonu 21 Mayıs 2009 30 Mayıs 2009 9 GÜN 30
 
@@ -367,7 +373,7 @@ Afet Ve ODD Sağlık Risk Yönetimi
 
 Afet Epidemiyolojisi Eğitimi
 
-Umke Görev Tanımları,Afet Lojistiği Eğit.
+UMKE Görev Tanımları,Afet Lojistiği Eğit.
 
 Afetle İlgili Ulusal Ve Uluslararası Kuruluşlar
 
@@ -407,7 +413,7 @@ Afet ve Olağandışı Durumlarda Sağlık Risk Yönetimi
 
 Afet Epidemiyolojisi Eğitimi
 
-Umke Görev Tanımları, Afet Lojistiği Eğitimi
+UMKE Görev Tanımları, Afet Lojistiği Eğitimi
 
 UMKE Eğitim Salonu 27.02.2009 27.02.2009 6 SAAT 26
 
@@ -477,13 +483,13 @@ F Geliştirme Eğitimleri Modülü
 
 ### ESKİŞEHİR SIRA BAŞLANGIÇ KATILIMCI ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
-1 Afet Lojistik Eğitimi Umke Eğitim Salonu 15 Ocak 2009 15 Ocak 2009 1 Gün 28 Kişi
+1 Afet Lojistik Eğitimi UMKE Eğitim Salonu 15 Ocak 2009 15 Ocak 2009 1 Gün 28 Kişi
 
 2 Kar/Dağ Kurtarma Eğitimi Isparta/Davraz 30 Ocak 2009 01 Şubat 2009 3 Gün 12 Kişi
 
 3 Medikal Çanta Eğitimi “ 12 Şubat 2009 12 Şubat 2009 1 Gün 28 Kişi
 
-4 Umke Görev Tanımları “ 05 Mart 2009 05 Mart 2009 1 Gün 28 Kişi
+4 UMKE Görev Tanımları “ 05 Mart 2009 05 Mart 2009 1 Gün 28 Kişi
 
 5 Afet Ortamında Ekip Çalışması Ve Yönetimi “ 26 Mart 2009 26 Mart 2009 1 Gün 28 Kişi
 
@@ -563,7 +569,7 @@ Eğitimleri Modülü
 
 7. Sahada Triaj İl Sağlık Müd. Toplantı Salonu 26.06.2009 26.06.2009 1 Gün 16
 
-8. Umke Çanta Eğitimi İl Sağlık Müd. Toplantı Salonu 24.07.2009 24.07.2009 1 Gün 16
+8. UMKE Çanta Eğitimi İl Sağlık Müd. Toplantı Salonu 24.07.2009 24.07.2009 1 Gün 16
 
 9. Afet Psikolojisi /Telsiz Sistemi ve Afetlerde İl Sağlık Müd. Toplantı Salonu 28.08.2009 28.08.2009 1 Gün 16
 
@@ -643,9 +649,9 @@ Temel Kampçılık, Afet Ve ODD
 
 Hayatı İdame Ettirme Eğitimi
 
-4 Umke 5 Ulusal Kamp Bakanlıkça belirlenecek 3 Gün 8
+4 UMKE 5 Ulusal Kamp Bakanlıkça belirlenecek 3 Gün 8
 
-5 Umke Değerlendirme Toplantısı Yozgat 21.10.2009 21.10.2009 1 Gün 19
+5 UMKE Değerlendirme Toplantısı Yozgat 21.10.2009 21.10.2009 1 Gün 19
 
 ### NİĞDE SIRA BAŞLANGIÇ ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ KATILIMCI SAYISI NO TARİHİ
 
@@ -655,7 +661,7 @@ Temel Modül Eğitimi (Yeni Katılan
 
 Personel )
 
-2008 Yılı Niğde Umke
+2008 Yılı Niğde UMKE
 
 2 Sağlık Müdürlüğü 15.01.2009 15.01.2009 8 Saat 25
 
@@ -685,7 +691,7 @@ Temel Kampçılık, Afet Ve ODD Niğde İli Ulukışla İlçesi Karagöl
 
 Hayatı İdame Ettirme Eğt. Kamp Alanı
 
-8 Ulusal Umke Kampı Bakanlıkça belirlenecek 8
+8 Ulusal UMKE Kampı Bakanlıkça belirlenecek 8
 
 9 Triaj Eğitimi Sağlık Müdürlüğü 15.09.2009 15.09.2009 8 Saat 25
 
@@ -773,7 +779,7 @@ Afet ve Olağan Dışı Durumlarda İl Sağlık Müdürlüğü 1
 
 ### Sağlık Risk Yönetimi Konferans Salonu 09.02.2009 09.02.2009 2 saat 8 Kişi
 
-Umke Görev Tanımları
+UMKE Görev Tanımları
 
 İl Sağlık Müdürlüğü 2 Afet Ortamında Ekip Çalışması
 
@@ -1069,7 +1075,7 @@ DİYARBAKIR 01/12/2008 04/12/2008 4 Gün 58
 
 ### ADIYAMAN SIRA BAŞLANGIÇ KATILIMCI ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
-1 Temel Umke Eğitimi Konferans salonu 02.02.2009 06.02.2009 5 gün 30- kişi
+1 Temel UMKE Eğitimi Konferans salonu 02.02.2009 06.02.2009 5 gün 30- kişi
 
 2 Genel Afet Bilgisi Modülü Konferans salonu 02.03.2009 02.03.2009 8 saat 30-Kişi
 
@@ -1111,7 +1117,7 @@ Temel Kampçılık,Afet Ve Olağandışı Durumlarda 15 Hayatı İdame ve Fiziki
 
 ### BİNGÖL SIRA BAŞLANGIÇ KATILIMCI ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
-1 Afet Lojistiği Eğitimi Umke Toplantı Salonu 27.01.2009 27.01.2009 1gün 20-25 2 Stres ve Çatışma Yönetimi Umke Toplantı Salonu 24.02.2009 24.02.2009 1gün 20-25 3 Medikal Kurtarma Eğitimi Umke Toplantı Salonu 31.03.2009 31.03.2009 1gün 20-25 4 Afetlerde Barınma,Beslenme,Hijyen Eğitimi Umke Toplantı Salonu 28.04.2009 28.04.2009 1gün 20-25 5 Bingöl Depremini Anma Yürüyüşü Çeltiksuyu YİBO 01.05.2009 01.05.2009 1gün 20-25 6 Medikal Çanta Eğitimi Umke Toplantı Salonu 26.05.2009 26.05.2009 1gün 20-25 7 Temel Kampçılık Eğitimi Ilıcalar Beldesi 30.06.2009 30.06.2009 1gün 20-25 8 Deprem Tatbikatı Bingöl Merkez 28.07.2009 28.07.2009 1gün 20-25 9 Crush Sendromu Eğitimi Umke Toplantı Salonu 25.08.2009 25.08.2009 1gün 20-25 10 Haberleşme Teknikleri Umke Toplantı Salonu 29.09.2009 29.09.2009 1gün 20-25 11 Temel ve İleri Yaşam Desteği(Teorik)Eğitimi Umke Toplantı Salonu 27.10.2009 27.10.2009 1gün 20-25 12 Temel ve İleri Yaşam Desteği(Pratik)Eğitimi Umke Toplantı Salonu 24.11.2009 24.11.2009 1gün 20-25 13 Yıl Sonu Değerlendirme Umke Toplantı Salonu 29.12.2009 29.12.2009 1gün 20-25
+1 Afet Lojistiği Eğitimi UMKE Toplantı Salonu 27.01.2009 27.01.2009 1gün 20-25 2 Stres ve Çatışma Yönetimi UMKE Toplantı Salonu 24.02.2009 24.02.2009 1gün 20-25 3 Medikal Kurtarma Eğitimi UMKE Toplantı Salonu 31.03.2009 31.03.2009 1gün 20-25 4 Afetlerde Barınma,Beslenme,Hijyen Eğitimi UMKE Toplantı Salonu 28.04.2009 28.04.2009 1gün 20-25 5 Bingöl Depremini Anma Yürüyüşü Çeltiksuyu YİBO 01.05.2009 01.05.2009 1gün 20-25 6 Medikal Çanta Eğitimi UMKE Toplantı Salonu 26.05.2009 26.05.2009 1gün 20-25 7 Temel Kampçılık Eğitimi Ilıcalar Beldesi 30.06.2009 30.06.2009 1gün 20-25 8 Deprem Tatbikatı Bingöl Merkez 28.07.2009 28.07.2009 1gün 20-25 9 Crush Sendromu Eğitimi UMKE Toplantı Salonu 25.08.2009 25.08.2009 1gün 20-25 10 Haberleşme Teknikleri UMKE Toplantı Salonu 29.09.2009 29.09.2009 1gün 20-25 11 Temel ve İleri Yaşam Desteği(Teorik)Eğitimi UMKE Toplantı Salonu 27.10.2009 27.10.2009 1gün 20-25 12 Temel ve İleri Yaşam Desteği(Pratik)Eğitimi UMKE Toplantı Salonu 24.11.2009 24.11.2009 1gün 20-25 13 Yıl Sonu Değerlendirme UMKE Toplantı Salonu 29.12.2009 29.12.2009 1gün 20-25
 
 ### BATMAN SIRA BAŞLANGIÇ KATILIMCI ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
@@ -1461,7 +1467,7 @@ Sivil Savunma Müdürlüğü Ortak Çalışma 5 UMKE
 
 ### KIRKLARELİ SIRA BAŞLANGIÇ KATILIMCI ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
-1 Umke Görev Tanımı İl Sağ. Md.’lüğü Eğit. Sal 27.02.2009 27.02.2009 1 GÜN 15
+1 UMKE Görev Tanımı İl Sağ. Md.’lüğü Eğit. Sal 27.02.2009 27.02.2009 1 GÜN 15
 
 Afet Ve Olağandışı Durumlara Genel Bakış Eğitimi - Olay 2 İl Sağ. Md.’lüğü Eğit. Sal. 20.03.2009 20.03.2009 1 GÜN 15
 
@@ -1603,7 +1609,7 @@ Urla Karantina Adası
 
 3 Tatbikat Eğit. - Bergama Kış Kampı Bergama İlçesi 10 Şubat 2009 12 Şubat 2009 3 gün 28
 
-4 Ege Umke Afet Ve Olağandışı Durum Tatbikatı Urla Karantina Adası 10 Mart 2009 13 Mart 2009 4 gün 150
+4 Ege UMKE Afet Ve Olağandışı Durum Tatbikatı Urla Karantina Adası 10 Mart 2009 13 Mart 2009 4 gün 150
 
 5 Genel Afet Bilgisi Modülü Urla Karantina Adası 10 Nisan 2009 12 Nisan 2009 3 gün 28
 
@@ -1617,11 +1623,11 @@ Eğt. Bakanlıkça yapılacak)
 
 8 Geliştirme Eğitimleri Modülü Urla Karantina Adası 10 Temmuz 2009 12 Temmuz 2009 3 gün 28
 
-9 İzmir Umke Geliştirme Eğitimi Urla Karantina Adası 10 Ekim 2009 12 Ekim 2009 3 gün 28
+9 İzmir UMKE Geliştirme Eğitimi Urla Karantina Adası 10 Ekim 2009 12 Ekim 2009 3 gün 28
 
-10 Ege Umke Maratonu Urla Karantina Adası 11 Kasım 2009 13 Kasım 2009 2 gün 100
+10 Ege UMKE Maratonu Urla Karantina Adası 11 Kasım 2009 13 Kasım 2009 2 gün 100
 
-11 İzmir Umke Geliştirme Eğitimi Urla Karantina Adası 10 Aralık 2009 12 Aralık 2009 3 gün 28
+11 İzmir UMKE Geliştirme Eğitimi Urla Karantina Adası 10 Aralık 2009 12 Aralık 2009 3 gün 28
 
 ### AYDIN SIRA KATILIMCI ADI YAPILACAĞI YER BAŞLANGIÇ TARİHİ BİTİŞ TARİHİ SÜRESİ NO SAYISI
 
@@ -1755,11 +1761,11 @@ Liderlik Ve Motivasyon Eğitimi
 
 3 Haberleşme Teknikleri Yenikent Dev. Hast. Eğt. Sal. 20.03.2008 20,03.2009 1 Gün 30
 
-4 Temel Umke Eğitimi Eğt. Arş. Hast. Eğt. Sal. 20.04.2008 26.04.2009 7 Gün 45 Kişi
+4 Temel UMKE Eğitimi Eğt. Arş. Hast. Eğt. Sal. 20.04.2008 26.04.2009 7 Gün 45 Kişi
 
-5 Umke Bölge Kampı Bartın İli 20.05.2009 22.05.2009 3 Gün 70 Kişi
+5 UMKE Bölge Kampı Bartın İli 20.05.2009 22.05.2009 3 Gün 70 Kişi
 
-6 Umke Bölge Kampı Sakarya 22.06.2009 24.06.2009 3 Gün 70 Kişi
+6 UMKE Bölge Kampı Sakarya 22.06.2009 24.06.2009 3 Gün 70 Kişi
 
 7 Kbrn Atakları Ve Endüstriyel Kazalar Eğitimi Eğt. Arş. Hast. Eğt. Sal. 16.09.2009 16.09.209 1 Gün 45 Kişi
 
@@ -1803,7 +1809,7 @@ Crush Sendromu
 
 ### ZONGULDAK SIRA BAŞLANGIÇ KATILIMCI ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
-1 Temel Umke Eğitimi Nisan 2009 Mayıs 2009 7 Gün 20
+1 Temel UMKE Eğitimi Nisan 2009 Mayıs 2009 7 Gün 20
 
 Afet Ve Olağan Dışı Durumlar Atatürk Dev. Hast.
 
@@ -1815,7 +1821,7 @@ Afet Ve Kriz Yönetimi
 
 ODD Alanında Çevre Güvenliği
 
-Umke Çanta Eğitimi Atatürk Devlet Hastanesi Temmuz 2009 Temmuz 2009
+UMKE Çanta Eğitimi Atatürk Devlet Hastanesi Temmuz 2009 Temmuz 2009
 
 3 1 GÜN 10 kişi
 
@@ -2129,7 +2135,7 @@ Travmalı Hastaya Yaklaşım
 
 Afet Ve ODD Sağlık Risk Yönetimi 22.05.2009 22.05.2009 4 saat
 
-Salonu 6 - Umke Görev Tanımları Sağlık Müdürlüğü Toplantı 24
+Salonu 6 - UMKE Görev Tanımları Sağlık Müdürlüğü Toplantı 24
 
 26.06.2009 26.06.2009 4 saat
 
@@ -2191,11 +2197,11 @@ Salonu
 
 5 Eğitim Tatbikatı Van Haziran Haziran 2GÜN --
 
-6 Umke Temel Eğitimi Ağrı 5 GÜN
+6 UMKE Temel Eğitimi Ağrı 5 GÜN
 
 Daha sonra belirlenecek
 
-7 Umke Geliştirme Eğitimi Ağrı 3 GÜN MUŞ
+7 UMKE Geliştirme Eğitimi Ağrı 3 GÜN MUŞ
 
 ### KATILIMCI SIRA NO ADI YAPILACAĞI YER BAŞLANGIÇ TARİHİ BİTİŞ TARİHİ SÜRESİ SAYISI
 
@@ -2217,7 +2223,7 @@ Aylık toplantı Dev. Hastanesi Her ay
 
 1 Afet Epidemiyolojisi Eğitimi K.K.M. Toplantı Salonu 27.01.2009 27.01.2009 2 Saat 10
 
-### Umke Görev Tanımları K.K.M. Toplantı Salonu 30.01.2009 30.01.2009 2 Saat 10 Afet Lojistiği Eğitimi K.K.M. Toplantı Salonu 15.02.2009 15.02.2009 2 Saat 10 Afetle İlgili Ulusal Ve Uluslar Arası Kuruluşlar K.K.M. Toplantı Salonu 18.02.2009 18.02.2009 2 Saat 10 B)Psiko Sosyal Durumlar Eğitim Modülü 2 Saat 10 Sahada Etik Davranış Ve Kültürel Özellikler Eğtm. K.K.M. Toplantı Salonu 20.02.2009 20.02.2009 2 Saat 10 Afet Ortamında Ekip Çalışması Ve Yönetimi K.K.M. Toplantı Salonu 23.02.2009 23.02.2009 2 Saat 10
+### UMKE Görev Tanımları K.K.M. Toplantı Salonu 30.01.2009 30.01.2009 2 Saat 10 Afet Lojistiği Eğitimi K.K.M. Toplantı Salonu 15.02.2009 15.02.2009 2 Saat 10 Afetle İlgili Ulusal Ve Uluslar Arası Kuruluşlar K.K.M. Toplantı Salonu 18.02.2009 18.02.2009 2 Saat 10 B)Psiko Sosyal Durumlar Eğitim Modülü 2 Saat 10 Sahada Etik Davranış Ve Kültürel Özellikler Eğtm. K.K.M. Toplantı Salonu 20.02.2009 20.02.2009 2 Saat 10 Afet Ortamında Ekip Çalışması Ve Yönetimi K.K.M. Toplantı Salonu 23.02.2009 23.02.2009 2 Saat 10
 
 2 Stres Ve Çatışma Yönetimi K.K.M. Toplantı Salonu 26.02.2009 26.02.2009 2 Saat 10
 

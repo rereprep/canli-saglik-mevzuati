@@ -9,47 +9,52 @@ etiketler: ["halk sağlığı", "polio", "bulaşıcı hastalıklar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 600-611"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.17. Polio İmportasyon Planı Genelgesi (2002/67)
+### T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-### T.C. SAGLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlügü
+Sayı: B100TSH0110005
 
-Sayi: B100TSH0110005 Konu: Polio importasyon planı genelgesi
+Konu: Polio İmportasyon Planı Genelgesi
 
-### 05.07.2002 / 6191 GENELGE 2002/67
+### GENELGE 2002/67
 
-Hastalık morbidite ve mortalite hızlarını düşürmek ve salgınları kontrol etmek amacıyla, Dünya'da hastalık kontrol programları başlatılmış ve Global Poliomyclit Eradikasyonu Programı böylece gündeme gelmiştir. 1988 yılında 41. Dünya Sağlık Asamblesinde, tüm dünyadan poliomyclitin cradikasyonu hedeflenmiştir. O zamandan bu yana belirgin gelişmeler olmuştur. Türkiye'nin de dahil olduğu Dünya Sağlık Örgütti Avrupa Bölgesi'nin vahşi virüse bağlı son yerli poliomyelit vakası 1998 yılında saptanmiștır. Avrupa Bölgesi 21 Haziran 2002 tarihinde "polio'dan arındırılmış bölge" olarak belgelendirilmiştir.
+Hastalık morbidite ve mortalite hızlarını düşürmek ve salgınları kontrol etmek amacıyla, Dünya'da hastalık kontrol programları başlatılmış ve Global Poliomyelit Eradikasyonu Programı böylece gündeme gelmiştir. 1988 yılında 41. Dünya Sağlık Asamblesinde, tüm dünyadan poliomyclitin cradikasyonu hedeflenmiştir. O zamandan bu yana belirgin gelişmeler olmuştur. Türkiye'nin de dahil olduğu Dünya Sağlık Örgütü Avrupa Bölgesi'nin vahşi virüse bağlı son yerli poliomyelit vakası 1998 yılında saptanmıştır. Avrupa Bölgesi 21 Haziran 2002 tarihinde "polio'dan arındırılmış bölge" olarak belgelendirilmiştir.
 
-Türkiye'de 1989'da yürütülmeye başlanan Poliomyelit Eradikasyon Programı (PEP), hedefe ulaşma doğrultusunda sürekli bir gelişme göstermiştir. Türkiye'de son vahşi poliovirüs 26 Kasım 1998'de paralizisi başlayan bir vakadan izole dilmiştir. Ancak dünyadan poliomyelit tamamen eradike edilinceye kadar ilkemize de importasyon tehlikesi vardır. 2001 yılında Avrupa Bölgesinden Bulgaristan ve Gürestan'da görülen Kuzey Hindistan kökenli importe vahşi poliovirüs izolasyonları, tüm dünyada poliomyelit eradike edilene kadar tehlikenin devam ettiğinin kanıtıdır. Olası bir importasyonu engellemek amacıyla tüm bölgelerde ve yerleşim birimlerinde O yaş grubunda OPV3 așilama oranlarında en az %90'a ulaşmak temel stratejidir. Bu aşt oranna ulaşamayan veya bu oranın devamılığını sağlayamayan yerleşim birimlerinde yürütülecek destek aşılama aktiviteleri ile olası importasyona karşı önlem ahımış olacaktır. Importe bir poliomyelit vakası olması durumunda vakanı erken tespiti ve zamanında uygun müdahalelerle virüsün yayılması önlenebilir.
+Türkiye'de 1989'da yürütülmeye başlanan Poliomyelit Eradikasyon Programı (PEP), hedefe ulaşma doğrultusunda sürekli bir gelişme göstermiştir. Türkiye'de son vahşi poliovirüs 26 Kasım 1998'de paralizisi başlayan bir vakadan izole dilmiştir. Ancak dünyadan poliomyelit tamamen eradike edilinceye kadar ülkemize de importasyon tehlikesi vardır. 2001 yılında Avrupa Bölgesinden Bulgaristan ve Gürcistan'da görülen Kuzey Hindistan kökenli importe vahşi poliovirüs izolasyonları, tüm dünyada poliomyelit eradike edilene kadar tehlikenin devam ettiğinin kanıtıdır. Olası bir importasyonu engellemek amacıyla tüm bölgelerde ve yerleşim birimlerinde O yaş grubunda OPV3 aşılama oranlarında en az %90'a ulaşmak temel stratejidir. Bu aşı oranına ulaşamayan veya bu oranın devamlılığını sağlayamayan yerleşim birimlerinde yürütülecek destek aşılama aktiviteleri ile olası importasyona karşı önlem alınmış olacaktır. İmportte bir poliomyelit vakası olması durumunda vakanın erken tespiti ve zamanında uygun müdahalelerle virüsün yayılması önlenebilir.
 
 Bu daimi genelge: Türkiye'nin poliomyelitden arındırılmış durumunu sürdürmek ve olası bir vahşi poliovirüs importasyonunun erken tespitine ve etkin aşılama cevabı ile kontrol altına alınmasıma hazırlıklı olmak amacıyla düzenlenmiştir.
 
-Ydititülecek çalışmaların ekteki plana göre düzenlenmesi hususunda gereğini rica ederim.
+Yürütülecek çalışmaların ekteki plana göre düzenlenmesi hususunda gereğini rica ederim. ederim.
 
-Eki: İmportasyon plan: (9 sayfa)
+Eki: İmportasyon planı: (9 sayfa)
 
 Doç.Dr. Osman DURMUŞ
 
 Bakan
 
-### DAGITIM A PLANI DAIMI GENELGE
+### DAĞITIM
 
-### VAHŞİ POLIOVİRÜS IMPORTASYONUNUN ENGELLENMESI VE POLIOMYELITTEN ARINDIRILMIŞ DURUMUN DEVAMI İÇİN ULUSAL FAALIYET PLANI
+A PLANI
 
-Genişletilmiş Bağışıklama Programının temel ilkesi, hastalık riskinin en yüksek olduğu dönemden önce, çocuklari aşı ile korunulabilir hastahklara karşı bağışık kılarak, bu hastahklara bağh morbidite ve mortalite hızlarını duşürmek, böylece çocuk ölümleri ve sakathkların azaltmaktır. Hastalık morbidite ve mortalite hızlarını düşürmek ve salgınları kontrol etmek amacıyla, Dünya'da hastahk kontrol programları başlatılmış ve Global Poliomyelit Eradikasyonu Programı böylece gündeme gelmiştir. 1988 yılında 41. Dünya Sağhk Asamblesi nde, tüm dünyadan poliomyelitin eradikasyonu hedeflenmiştir. O zamandan bu yana belirgin gelişmeler olmuştur. Son yerli poliomyelit vakası, Amerika katasıda 1991 yılında, Batı Pasifik bölgesinde 1997 yılında saptanmıştır. Türkiye'nin de dahil olduğu Avrupa Bölgesinin son yerli poliomyelit vakası 1998 yılında Ağrı ilinde saptanmıște Avrupa Bölgesi 21 Haziran 2002 tarihinde "polo'dan armdırılnuy bölge " olarak belgelendirilmiştir.
+### DAİMİ GENELGE
+
+### VAHŞİ POLİOVİRÜS İMPORTASYONUNUN ENGELLENMESİ VE POLİOMYELİTTEN ARINDIRILMIŞ DURUMUN DEVAMI İÇİN ULUSAL FAALİYET PLANI
+
+Genişletilmiş Bağışıklama Programının temel ilkesi, hastalık riskinin en yüksek olduğu dönemden önce, çocuklari aşı ile korunulabilir hastalıklara karşı bağışık kılarak, bu hastalıklara bağh morbidite ve mortalite hızlarını düşürmek, böylece çocuk ölümleri ve sakatlıkların azaltmaktır. Hastalık morbidite ve mortalite hızlarını düşürmek ve salgınları kontrol etmek amacıyla, Dünya'da hastahk kontrol programları başlatılmış ve Global Poliomyelit Eradikasyonu Programı böylece gündeme gelmiştir. 1988 yılında 41. Dünya Sağhk Asamblesinde, tüm dünyadan poliomyelitin eradikasyonu hedeflenmiştir. O zamandan bu yana belirgin gelişmeler olmuştur. Son yerli poliomyelit vakası, Amerika kıtasında 1991 yılında, Batı Pasifik bölgesinde 1997 yılında saptanmıştır. Türkiye'nin de dahil olduğu Avrupa Bölgesinin son yerli poliomyelit vakası 1998 yılında Ağrı ilinde saptanmıște Avrupa Bölgesi 21 Haziran 2002 tarihinde "poliodan'dan armdırılnuy bölge " olarak belgelendirilmiştir.
 
 Poliomyelitin cradikasyonuna ulaştıracak program stratejileri ise şöyle belirlenmiştir:
 
-• Rutin aşilama hizmetlerinin geliştirilmesi ve aşalama oranlarının her bolgede %90"in
+• Rutin aşılama hizmetlerinin geliştirilmesi ve aşalama oranlarının her bolgede %90’ın
 
 üzerine çıkarılarak devam ettirilmesi,
 
-Akut flask paralızi (AFP) ve vahşi polovirüs sürveyansıı sağlanması,
+Akut flask paralizi (AFP) ve vahşi poliodanvirüs sürveyansının sağlanması,
 
-Gerek görülen yerlerde Mopping-up aşılamaları düzenlenmesi.
+Gerek görülen yerlerde mopping-up aşılamaları düzenlenmesi.
 
-Türkiye'de 1989'da yürütülmeye başlanan Poliomyelit Eradikasyon Programı (PEP), hedefe ulaşma doğrultusunda sürekli bir gelişme göstermiştir. Türkiye'de son vahşi poliovirüs 26 Kasım 1998°de paralizisi başlayan bir vakadan izole edilmiştir. Ancak dünyadan poliomyelit tamamen eradike edilinceye kadar ülkemize de importasyon tehlikesi vardır. 2001 yılında Avrupa Bölgesinden Bulgaristan ve Gürestan'da görülen Kuzey Hindistan kökenli importe vahşi poliovirüs izolasyonları tehlikenin devam ettiğinin kanıtıdır. Her iki ülkede de izole edilen virüsler 3 doz OPV ile aşıları tamamlanmamış çocuklarda tespit edilmiştir. Olası bir importasyonu engellemek amacıyla tüm bölgelerde ve yerleşım birimlerinde O yaş grubunda OPV3 aylama oranlarında en az 690'a ulaşmak temel stratejidir. Bu aşı oranıma ulaşamayan veya bu oranın devamhılığıı sağlayamayan yerleşim birimlerinde yürütülecek destek aşılama aktiviteleri ile olası importasyona karşı önlem alınmış olacaktır. İmporte bir poliomyelit vakası olması durumunda vakanın erken tespiti ve
+Türkiye'de 1989'da yürütülmeye başlanan Poliomyelit Eradikasyon Programı (PEP), hedefe ulaşma doğrultusunda sürekli bir gelişme göstermiştir. Türkiye'de son vahşi poliovirüs 26 Kasım 1998’de paralizisi başlayan bir vakadan izole edilmiştir. Ancak dünyadan poliomyelit tamamen eradike edilinceye kadar ülkemize de importasyon tehlikesi vardır. 2001 yılında Avrupa Bölgesinden Bulgaristan ve Gürcistan'da görülen Kuzey Hindistan kökenli importe vahşi poliovirüs izolasyonları tehlikenin devam ettiğinin kanıtıdır. Her iki ülkede de izole edilen virüsler 3 doz OPV ile aşıları tamamlanmamış çocuklarda tespit edilmiştir. Olası bir importasyonu engellemek amacıyla tüm bölgelerde ve yerleşim birimlerinde O yaş grubunda OPV3 aşılama oranlarında en az 690'a ulaşmak temel stratejidir. Bu aşı oranıma ulaşamayan veya bu oranın devamlılığını sağlayamayan yerleşim birimlerinde yürütülecek destek aşılama aktiviteleri ile olası importasyona karşı önlem alınmış olacaktır. İmporte bir poliomyelit vakası olması durumunda vakanın erken tespiti ve
 
 Bu plan; Türkiye'nin poliomyelitden arındırılmış durumunu sürdürmek ve olası bir vahşi poliovirüs importasyonunun erken tespitine ve etkin aşılama cevabı ile kontrol altına alımmasına hazırlıklı olmak amacıyla hazırlanmıştır.
 
@@ -63,23 +68,23 @@ a-İmporte poliomyelit vakasu/virüsü:
 
 zamanda seyahat hikayesi veren bir kişi ile teması olan vakadır.
 
-### DAIMI GENELGE 2
+### DAİMİ GENELGE 2
 
-• Böyle bir vakanın laboratuvar olırak konfirmasyonu gereklidir. Ayrica diğer hastalıklar veya sağlam çocuk taramaları gibi nedenlerle ahnan numunelerde de vahși poliovirüs üretilebilir. Her iki durumda da genetik inceleme ile tespit edilen virüsün kökeni belirlenerek importasyon kesinleştirilir.
+• Böyle bir vakanın laboratuvar olarak konfirmasyonu gereklidir. Ayrıca ederim. diğer hastalıklar veya sağlam çocuk taramaları gibi nedenlerle alınan numunelerde de vahși poliovirüs üretilebilir. Her iki durumda da genetik inceleme ile tespit edilen virüsün kökeni belirlenerek importasyon kesinleştirilir.
 
 b-Yerli poliomyelit vakası/virüsü:
 
-• Enfeksiyonun kuluçka dönemi içinde kendisi veya temaslısımın poliomyelitin göruldağu bir Vahşi virüs ile Türkiye'de karşılaşmış olan ve
+• Enfeksiyonun kuluçka dönemi içinde kendisi veya temaslısımın poliomyelitin görüldüğü bir Vahşi virüs ile Türkiye'de karşılaşmış olan ve
 
 ülkeye seyahat hikayesi olmayan vakadır.
 
-• Böyle bir vakanın laboratuvar olarak konfirmasyonu gereklidir. Ayrica diğer hastalıklar veya sağlam çocuk taramaları gibi nedenlerle alınan numunelerde de vahşi poliovirüs üretilebilir. Her iki durumda da genetik inceleme ile tespit edilen virüsün kökeni belirkenerek yerli virüs olduğu kesinleştirilir.
+• Böyle bir vakanın laboratuvar olarak konfirmasyonu gereklidir. Ayrıca ederim. diğer hastalıklar veya sağlam çocuk taramaları gibi nedenlerle alınan numunelerde de vahşi poliovirüs üretilebilir. Her iki durumda da genetik inceleme ile tespit edilen virüsün kökeni belirlenerek yerli virüs olduğu kesinleştirilir.
 
-c-Aşı türevi poliovirüs (Vaccine-Derived Poliovirus(VDPV)) ve buna bağlı ortaya çakan
+c-Aşı türevi poliovirüs (Vaccine-Derived Poliovirus(VDPV)) ve buna bağlı ortaya çıkan
 
 vakalar:
 
-Moleküler özellikleri așı virüsü ve vahşi virüsten farklı, vahşi virüs benzeri nörovirilans ve bulaştııcılık özellikleri kazanmış virüslere bağlı ortaya çıkan vakalardır. Bu tür vakaların en önemli nedeni rutin așı oranlarının düşüklüğüdür. Aşı virüsii kışıden kişiye yayılmakta, nörovirulansı ve bulaştırıcıhk özelliği artmaktadır. Ekim 2000 tarihindeki Hispaniola salgınından sonra laboratuvarda üretilen poliovirüsler, genetık dizılim (sekanslama) yolu ile incelenmeye başlanmıştır. Genetık dizilim sonuçlarına göre Sabin aşı virüsünden %l'den az farklıhk gösteren sonuçlar Sabin-like (Aşı virüsü) olarak, %1-%15 farklılik gösteren sonuçlar aşı türevi polio virüs (VDPV) olarak ve %15 den fazla farklılık gösteren virüsler de vahşi virüs olarak tanımlanmıştır. Aş türevi poliovirüs, vahşi poliovirüse benzer özellikler gösterdiğinden saptanması durumunda yapılacak aktiviteler aynıdır. Aşı türevi virüslere bağlı ortaya çıkan salgınlar da OPV aşısının uygulanması ile kontrol altina alınabilmektedir.
+Moleküler özellikleri aşı virüsü ve vahşi virüsten farklı, vahşi virüs benzeri nörovirilans ve bulaştırıcılık özellikleri kazanmış virüslere bağlı ortaya çıkan vakalardır. Bu tür vakaların en önemli nedeni rutin aşı oranlarının düşüklüğüdür. Aşı virüsü kişiden kişiye yayılmakta, nörovirulansı ve bulaştırıcılık özelliği artmaktadır. Ekim 2000 tarihindeki Hispaniola salgınından sonra laboratuvarda üretilen poliovirüsler, genetık dizılim (sekanslama) yolu ile incelenmeye başlanmıştır. Genetık dizilim sonuçlarına göre Sabin aşı virüsünden %l'den az farklıhk gösteren sonuçlar Sabin-like (Aşı virüsü) olarak, %1-%15 farklılik gösteren sonuçlar aşı türevi polio virüs (VDPV) olarak ve %15 den fazla farklılık gösteren virüsler de vahşi virüs olarak tanımlanmıştır. Aş türevi poliovirüs, vahşi poliovirüse benzer özellikler gösterdiğinden saptanması durumunda yapılacak aktiviteler aynıdır. Aşı türevi virüslere bağlı ortaya çıkan salgınlar da OPV aşısının uygulanması ile kontrol altina alınabilmektedir.
 
 d-Sicak AFP vakası (Sicak vaka):
 
@@ -97,7 +102,7 @@ o Vahşi poliovirüsün son dönemde görüldüğü bölgelere komşuluğu olan 
 
 bölgelerden bildirilen vakalara sıcak AFP vakası denir.
 
-• Herhangi bir yaştaki kişide polomyelit benzeri klinık tablonun (ateş, ani paralızi, asimetri,
+• Herhangi bir yaştaki kişide poliodanmyelit benzeri klinık tablonun (ateş, ani paralizi, asimetri,
 
 extremite tutulumu vs.) bulunması ve klinisyenin poliomyelitten şüphelenmesi durumu da
 
@@ -113,7 +118,7 @@ e- Poliomyelit açısından yüksek riskli bölge:
 
 • AFP sürveyans güstergeleri hedefın altında kalan bölgeler
 
-### DAIMI GENELGE
+### DAİMİ GENELGE
 
 • Poliomyelit pidemiyolojisi ve vahşi virüs yayılımı dikkate alındığında risk altında
 
@@ -183,7 +188,7 @@ up) devam edilerek bireysel ve toplumsal bağışıklık yüksek duzeyde tutulma
 
 • Yürütülecek destek aşılama çalışmalarında (sNIDs ve mop-up) yüksek aşılama oranlarına ulaşılmalı ve aşısız çocuk kalmamalıdır.
 
-### DAIMI GENELGE
+### DAİMİ GENELGE
 
 • Sınır kapılarında aşılama: Özellikle vahşi poliovirüs dolaşımnın olduğu ülkelerden.
 
@@ -199,9 +204,9 @@ tamamlamaldr.
 
 ### OLASI İMPORTE VAHŞİ POLİOVİRÜS VE AȘI TÜREVİ POLİOVİRÜS TESPITI VE IZLENMESI
 
-Olası importe vahși poliovirts veya ași türevi poliovirüslerin dolașımınm erken tespiti ve izlenmesi için, laboratuvar incelemelerini de içeren yüksek kaliteli AFP sürveyans sistemi çok ónemlidir.
+Olası importe vahși poliovirts veya ași türevi poliovirüslerin dolaşımınm erken tespiti ve izlenmesi için, laboratuvar incelemelerini de içeren yüksek kaliteli AFP sürveyans sistemi çok ónemlidir.
 
-Tüm iller 2002 yılı sonuna kadar yüksek kaliteli AFP sürveyans sistemi göstergelerine ulaşmal ve bu durumun devamlığı sağlamalıdır. Importasyon açısından, vahşi poliovirüs görülen ülkelere komşu illerin ve nüfus hareketlerinin yoğun olduğu büyük illerin daha fazla risk altında okuğu unutulmamalıdır. Tüm iller 2002 yılında yukanıdaki tanıma uyan yüksek riskli bölgelerini belirlemelidirler.
+Tüm iller 2002 yılı sonuna kadar yüksek kaliteli AFP sürveyans sistemi göstergelerine ulaşmal ve bu durumun devamlığı sağlamalıdır. İmporttasyon açısından, vahşi poliovirüs görülen ülkelere komşu illerin ve nüfus hareketlerinin yoğun olduğu büyük illerin daha fazla risk altında okuğu unutulmamalıdır. Tüm iller 2002 yılında yukanıdaki tanıma uyan yüksek riskli bölgelerini belirlemelidirler.
 
 ### YAPILACAK AKTİVİTELER: 1. SICAK VAKA DURUMU:
 
@@ -237,7 +242,7 @@ aktiviteler sıcak AFP vakası ile aynıdır. Vapilacak Aktiviteler: IL PEP Soru
 
 karar verecek ve sıcak vakalar hızla incelenecek ve sonuçlandırılacakta.
 
-### DAIMI GENELGE
+### DAİMİ GENELGE
 
 • Sıcak vaka saptanması halinde Vaka Bildirim Formu derhal Temel Sağhk Hizmetleri Genel
 
@@ -305,7 +310,7 @@ aşılanacaktır.
 
 • İl düzeyinde öncelikli hastanelerden günlük AFP raporu istenecektir,
 
-### DAIMI GENELGE
+### DAİMİ GENELGE
 
 • Oncelikli hastanelerde 5 yaş altı çocuklarda (yüksek riskli bölgelerden başvuranlar veya
 
@@ -393,7 +398,7 @@ haftalk olarak devam edilecektir.
 
 • Tüm iller vahsi poliovirüs tespit edildiği anda derhal bilgilendirilecektir
 
-• Bünyesinde sağhk kuruluşu bulunan diğer kurum ve kuruluşlar merkezi düzeyde
+• Bünyesinde sağlık kuruluşu bulunan diğer kurum ve kuruluşlar merkezi düzeyde
 
 bilgilendirilecektir.
 
@@ -425,7 +430,7 @@ katılımı ile Koordinasyon Grubu kurulacaktır.
 
 Personeli ve Sağhk Kuruluşları bilgilendirilecektir.
 
-### DAIMI GENELGE
+### DAİMİ GENELGE
 
 • Planlanan ve yürütülen faaliyetlerle ilgili ilçelerden günlük rapor alınacak ve Bakanlık merkezine günlük olarak iletileeektir. Merkez ekibin belirleyeceği tarihten sonra günlük raporlar
 
@@ -457,9 +462,9 @@ Personeli ve Sağhk Kuruluşları bilgilendirilecektir.
 
 • Ulusal düzeyde veya belirli illerde ek surveyans aktiviteleri (çevresel surveyans, saglam çocu taraması, serolojik araştırma gibi) yapılması planlanırsa bu aktivitelerin illerindeki koordinasyonu ve uygulanmasını sağlayacaklardır.
 
-• Ulusal duzeyde planlanacak 2 turlu așılama cevabı (mop-up, sNID, UAG) ile ilgili uygulamanın aşısız çocuk kalmayacak şekılde yürütülmesi sağlanacaktır.
+• Ulusal duzeyde planlanacak 2 turlu aşılama cevabı (mop-up, sNID, UAG) ile ilgili uygulamanın aşısız çocuk kalmayacak şekılde yürütülmesi sağlanacaktır.
 
-### DAIMI GENELGE
+### DAİMİ GENELGE
 
 ### DESTEK AȘILAMA CEVABININ BOYUTU:
 
@@ -487,7 +492,7 @@ ve bağışıklama oranlarının düşük olduğu alanlarda poliovirüsün hızl
 
 Merkez Koordinasyon Ekibi tarafindan belirlenen güçlendirilmiş sürveyans aktiviteleri Ulusal Sertifikasyon Komitesi tarafindan dolaşımın durduğu belgelenene kadar sürdürülecektir. Bir vahşi poliovirüsün tespit edilmesi ulusal bir acil durum olarak değerlendirildiğinden, detaylı ve kapsamhı bir dokümantasyon hazırlanarak pidemiyolojik zemin, laboratuvar sonuçlarını da içeren vaka araştırma bulguları, aşılama cevabının tanımlanması ve göçlendirilmiş sůrveyans sonuçları anlatılmalıdır. Uzmanlar grubu koordinasyonu ile hazırlanan son rapor Sağlık Bakanına ve Temel Sağlık Hizmetleri Genel Müdürüne sunulacaktır. Konu hakkında DSO de bilgilendirilecektir.
 
-### DAIMI GENELGE
+### DAİMİ GENELGE
 
 ### SEMA 1
 
@@ -543,6 +548,6 @@ balalekt (pardes hil der des lijude pranaleri aban
 
 •Kök alindine populayon se vakanm balendağa bölgenin evresini de kapsayse alimm oje crastan TSHO ile kata gladra gegirdecee vu gerekl alam bilgela • yar grabandiki. klasa sop ap stratejini de ou es Faikerek aylaran calmaram yürdefleoekir.
 
-### DAIMI GENELGE
+### DAİMİ GENELGE
 
-### AKUT FLASK PARALIZI VAKASI SICAK VAKA AYRIMI YAPILARAK POLIO IMPORTASYON PLANI GENELGESI PARALIE) RUSLASGCSDN TELARES ILS 16 UYGELANACAK GÜN IÇINDE EN AZ 24 SAAT ARALIKLA IKI CARTANEMENESI CEÇ VAKALARDA IK& BAŞKA MR ILE AIT VAKA HAFTA IÇINSE SAPTANMISSA NUM INE ALINIE SAFTANNISSA ILGILI ILE HABEN VERILECEK ICES SERTSE SERASMITSS VAKA IZLEME ALINARAK 60 GÜN TERCIHEN FRAG ALTI, VOLSA IE VAŞ ALTIS BOYUNCA IZLENECEK VE 60. GÜN ALEKAN VAKALAR SICAK YAKA BEĞÊSE. TEMASLIDAN SIRER SESENE (UYGAN SUNUNE SONUNDA VAKA INCELEME TEMANLI NUMUNESİNE GEREN VOKTUK*) FORMUNDA VAKANIN SON DURUMU VI TANISI BELIRTİLECEKTİR. NUMUNELER +I +SCOE KORENARAK ES GEÇ 1 CÓN IÇINDE SOĞUK SARTLARDA YUN NUMENE ALIYAMANY VE 60 GÉ LABORATUVARA ULASTIRILACAN ONUNDA KALET PARALD SELANOLE YAKALARDA UZMAN KURULENA SUNULABILMESI ICIN, HASTANE BOSYASI J CON IÇINDE ULASTIRILAMIVORSA DA VAKA ISCELEME FORMU ILE BIRLIRTE GÔNDERILECEKTÍN. -28° C'DE SANLANACAK MINE GÔNDEREN ILLER TÉN AFF DAIMI GENELGE
+### AKUT FLASK PARALIZI VAKASI SICAK VAKA AYRIMI YAPILARAK POLIO IMPORTASYON PLANI GENELGESI PARALIE) RUSLASGCSDN TELARES ILS 16 UYGELANACAK GÜN IÇINDE EN AZ 24 SAAT ARALIKLA IKI CARTANEMENESI CEÇ VAKALARDA IK& BAŞKA MR ILE AIT VAKA HAFTA IÇINSE SAPTANMISSA NUM INE ALINIE SAFTANNISSA ILGILI ILE HABEN VERILECEK ICES SERTSE SERASMITSS VAKA IZLEME ALINARAK 60 GÜN TERCIHEN FRAG ALTI, VOLSA IE VAŞ ALTIS BOYUNCA IZLENECEK VE 60. GÜN ALEKAN VAKALAR SICAK YAKA BEĞÊSE. TEMASLIDAN SIRER SESENE (UYGAN SUNUNE SONUNDA VAKA INCELEME TEMANLI NUMUNESİNE GEREN VOKTUK*) FORMUNDA VAKANIN SON DURUMU VI TANISI BELIRTİLECEKTİR. NUMUNELER +I +SCOE KORENARAK ES GEÇ 1 CÓN IÇINDE SOĞUK SARTLARDA YUN NUMENE ALIYAMANY VE 60 GÉ LABORATUVARA ULASTIRILACAN ONUNDA KALET PARALD SELANOLE YAKALARDA UZMAN KURULENA SUNULABILMESI ICIN, HASTANE BOSYASI J CON IÇINDE ULASTIRILAMIVORSA DA VAKA ISCELEME FORMU ILE BIRLIRTE GÔNDERILECEKTÍN. -28° C'DE SANLANACAK MINE GÔNDEREN ILLER TÉN AFF DAİMİ GENELGE

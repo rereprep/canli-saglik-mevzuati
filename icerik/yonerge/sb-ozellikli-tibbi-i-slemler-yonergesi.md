@@ -8,6 +8,7 @@ etiketler: ["kamu hastaneleri", "sağlık yönetimi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 804-805"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 7.2.3. Özellikli Tıbbi İşlemler Yönergesi
@@ -18,33 +19,33 @@ yapılan özellikli tıbbi işlemlerin tanımlanması ve bu işlemlere ilişkin 
 
 #### Kapsam
 
-**Madde 2 –** (1) Bu yönerge, Sağlık Bakanlığına bağh ikinci ve üçüncü basamak sağlık tesislerinde görev yapan eğitim görevlisi, başasistan, uzman tabip ve uzman diş tabiplerini kapsar.
+**MADDE 2 –** (1) Bu yönerge, Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerinde görev yapan eğitim görevlisi, başasistan, uzman tabip ve uzman diş tabiplerini kapsar.
 
 #### Dayanak
 
-**Madde 3 –** (1) Bu Yönerge, 06/08/2024 tarihli ve 32624 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren "Sağlık Bakanhğı Ek Ödeme Yönetmeliğinin 4 üncü maddesinin birinci fikrasının (v) bendine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönerge, 06/08/2024 tarihli ve 32624 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren "Sağlık Bakanlığı Ek Ödeme Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (v) bendine dayanılarak hazırlanmıştır.
 
-**Madde 4 –** (1) Bu Yönergede yer alan:
+**MADDE 4 –** (1) Bu Yönergede yer alan:
 
-a) Ozellikli tıbbi işlemler: Hazine ve Maliye Bakanlığının uygun görüşü ile Bakanlıkça işlem ve puanları bölge veya il veya hastane bazında ayrı ayrı belirlenebilen özellikli tıbbi işlemler puanna esas işlemleri,
+a) Özellikli tıbbi işlemler: Hazine ve Maliye Bakanlığının uygun görüşü ile Bakanlıkça işlem ve puanları bölge veya il veya hastane bazında ayrı ayrı belirlenebilen özellikli tıbbi işlemler puanna esas işlemleri,
 
-b) Ozellikli tıbbi işlemler puanı: O dönem içinde özellikli tıbbi işlem yapanların her biri için ayrı ayrı hesaplanan özellikli tıbbi işlemler karşılığı elde edilen puanların toplamını,
+b) Özellikli tıbbi işlemler puanı: O dönem içinde özellikli tıbbi işlem yapanların her biri için ayrı ayrı hesaplanan özellikli tıbbi işlemler karşılığı elde edilen puanların toplamını,
 
-e) Ozellikli tıbbi işlemler tavan ek ödeme tutarı: Kanuna göre belirlenen ek ödeme matrahının, Yönetmeliğin Ek-1 sayılı listesinde özellikli tıbbi işlemler için belirlenmiş olan tavan ek ödeme katsayısı ile çarpımı sonucu bulunan tutarı,
+e) Özellikli tıbbi işlemler tavan ek ödeme tutarı: Kanuna göre belirlenen ek ödeme matrahının, Yönetmeliğin Ek-1 sayılı listesinde özellikli tıbbi işlemler için belirlenmiş olan tavan ek ödeme katsayısı ile çarpımı sonucu bulunan tutarı,
 
-g) Yönetmelik: 06/08/2024 tarihli ve 32624 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Sağlık Bakanlığı Ek Ödeme Yönetmeliğini,
+g) Yönetmelik: 06/08/2024 tarihli ve 32624 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren Sağlık Bakanlığı Ek Ödeme Yönetmeliğini,
 
 Ifade eder.
 
 #### Özellikli tıbbi işlemlerin temel esasları
 
-**Madde 5 –** (1) Ozellikli tıbbi işlemler puanının hesaplanmasında ekli Ozellikli Tıbbi Işlemler Listesi esas alınır.
+**MADDE 5 –** (1) Özellikli tıbbi işlemler puanının hesaplanmasında ekli Özellikli Tıbbi İşlemler Listesi esas alınır.
 
 (2) Aynı seansta birden fazla ameliyatın yapıldığı durumlarda;
 
-a) Aynı kesiden yapılan ameliyatlarda puanı yüksek olan ameliyatın puanı tam, sonraki ameliyatların puanları ise her birinin % 30' u alnarak puanlandırılır.
+a) Aynı kesiden yapılan ameliyatlarda puanı yüksek olan ameliyatın puanı tam, sonraki ameliyatların puanları ise her birinin %30’u alınarak puanlandırılır.
 
-b) Ayrı kesiden yapılan ameliyatlarda puanı yüksek olan ameliyatın puanı tam, sonraki ameliyatların puanları ise her birinin % 50'si almarak puanlandırlır.
+b) Ayrı kesiden yapılan ameliyatlarda puanı yüksek olan ameliyatın puanı tam, sonraki ameliyatların puanları ise her birinin %50’si alınarak puanlandırılır.
 
 c) Yukarıdaki işlemler farklı branşlarda yapılmışsa, yüzdelik oranlarında yer alan rakamlara 25 ilave edilerek puanlandırılır.
 
@@ -62,9 +63,9 @@ c) Yukarıdaki işlemler farklı branşlarda yapılmışsa, yüzdelik oranların
 
 #### Özellikli tıbbi işlemlerin belirlenmesi
 
-**Madde 6 –** (1) Ozellikli tıbbi işlemler listesindeki işlem sayısı 145 adet ile sınırlıdır.
+**Madde 6 –** (1) Özellikli tıbbi işlemler listesindeki işlem sayısı 145 adet ile sınırlıdır.
 
-(2) Ozellikli tıbbi işlemlerin, Hazine ve Maliye Bakanlığı görüşü ile bu Yönergede belirlenen sayısı aşılmamak kaydıyla, işlem ve puanları bölge veya il veya hastane bazında ayrı ayrı Kamu Hastaneleri Genel Müdürlüğünce belirlenebilir.
+(2) Özellikli tıbbi işlemlerin, Hazine ve Maliye Bakanlığı görüşü ile bu Yönergede belirlenen sayısı aşılmamak kaydıyla, işlem ve puanları bölge veya il veya hastane bazında ayrı ayrı Kamu Hastaneleri Genel Müdürlüğünce belirlenebilir.
 
 (3) Değişiklikler bir (1) hafta içinde Hazine ve Maliye Bakanlığına gönderilir.
 

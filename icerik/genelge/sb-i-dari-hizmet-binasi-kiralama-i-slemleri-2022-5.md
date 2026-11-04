@@ -9,9 +9,8 @@ etiketler: ["personel", "kiralama", "ticari alanlar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 999-1001"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
-
-9.3.4. İdari Hizmet Binası Kiralama İşlemleri Hakkında Genelge (2022/5)
 
 2021/14 sayılı Tasarruf Genelgesi kapsamında merkez teşkilatça
 
@@ -19,17 +18,17 @@ Cumhurbaşkanlığı izni alınmaksızın taşra teşkilatınca hizmet binası
 
 ### taşınmaz kiralama işlemleri yapılamaz.
 
-### T.C. SAĞLIK BAKANLIĞI Yönctim Hizmetleri Genel Müdürlüğü
+###  SAĞLIK BAKANLIĞI Yönctim Hizmetleri Genel Müdürlüğü
 
-8. Kira rayiç değerinin tespitinde, hizmet alanları dışındaki alanların malike barakılıp barakılmamasına bağli olarak hizmet sesumu dişındaki alanlardan malikin elde edecegi getiriler ile binanın araç ve gereçieri ve donanımmın malik tarafindan sağlanıp sağlanmayacağı gibi hususlar dikkate al macaktır.
+8) Kira rayiç değerinin tespitinde, hizmet alanları dışındaki alanların malike bırakılıp bırakılmamasına bağli olarak hizmet sunumu dişındaki alanlardan malikin elde edecegi getiriler ile binanın araç ve gereçleri ve donanımmın malik tarafindan sağlanıp sağlanmayacağı gibi hususlar dikkate alınacaktır.
 
-9. Kiralanacak binalarda çalışacak personel sayıs, binalarını hizmete uygunluğu ve ulaşılabilirligi gox Önünde bulunduralacoktir.
+9) Kiralanacak binalarda çalışacak personel sayısı, binalarını hizmete uygunluğu ve ulaşılabilirligi göz önünde bulundurulacaktır.
 
-10. Kiralana komisyona, kiralamaya konu binanın maliki veya karuri temsilcileri e rayiş kira değerine göre ilgıli mevzuntı çerşevesınde yıllık kiro bedelini ve angörülen kiralama süresini belirleyip komisyun kararımı oluşturacaktır.
+10. Kiralamaya konu binanın maliki veya kanuni temsilcileri ile rayiç kira değerine göre, kiralamaya konu binanın maliki veya  ilgili mevzuat çerşevesınde yıllık kira bedelini ve öngörülen kiralama süresini belirleyip komisyon kararını oluşturacaktır.
 
-11. Cumhurbaşkanlığından alinacak kari Namet binası kiralama izin işlemlerinde gerekli kriterlerir sağlanıp sağlanmadığ hususunda inceleme ve degerlendirme yapmek Üzere merkez teşkilatta Idari hizmet binası Kiralama Komisyonu kurulur.
+11) Cumhurbaşkanlığından alinacak kari Namet binası kiralama izin işlemlerinde gerekli kriterlerir sağlanıp sağlanmadığ hususunda inceleme ve değerlendirme yapmek Üzere merkez teşkilatta Idari hizmet binası Kiralama Komisyonu kurulur.
 
-12. Kira sözleneleri, 4734 sayılı Kamu Ihale Kanunu ve 5018 savıl Kamu Mali Y inetimi ve Kontrol Kananu, 2021/14 sayılı Cumhurbaşkanlıgı Tasarruf Tedhirleri Genelgesi ile Hazine ve Malişe Bakanlığınca 16.01.2019 tarih ve 30657 sayılı Restni Gazetede yayılanan Kamtu Idarelerinir Taşınas Kiralamalanna Rişkin Genelgesi ve Bakanlığınızın 27.02.2019 tarihli ve 280 sayılı Makan: Onayı çerçevesinde hazırlanacaktır. Aynea, aşağıdaki husuclar de harcama birimlarince takıdir adilecek diger hususlar sözleşmeye eklenecektir.
+12) Kira sözleneleri, 4734 sayılı Kamu İhale Kanunu ve 5018 savıl Kamu Mali Y inetimi ve Kontrol Kananu, 2021/14 sayılı Cumhurbaşkanlıgı Tasarruf Tedhirleri Genelgesi ile Hazine ve Malişe Bakanlığınca 16.01.2019 tarih ve 30657 sayılı Restni Gazetede yayılanan Kamtu Idarelerinir Taşınas Kiralamalanna Rişkin Genelgesi ve Bakanlığınızın 27.02.2019 tarihli ve 280 sayılı Makan: Onayı çerçevesinde hazırlanacaktır. Aynea, aşağıdaki husuclar de harcama birimlarince takıdir adilecek diger hususlar sözleşmeye eklenecektir.
 
 a) Sözleşme imzalandığı tarih itibari le barün abonelikler (elekırik, su, yakıt vb.j taşınmaz sahibi taralından yaptırılmuş olacaklar
 
@@ -47,23 +46,21 @@ g) Bina malikıne bırakılacak alanlar ile kiralanan aların ticari alantarın�
 
 h) Taşratarı kitalandığı, kiralaımaya konu taşınmazın tapu kaydına şerhı edileceklir.
 
-13. Her binanın kendine özgü özelliklerinin bulunabileceği bususu dikkate ahırneak. Lira sözleşmeleri inzalanıadan önce sözleşme taslağını bir önızği yukarıda belirtılen diğer (kiralama gereksesi. komisyon raporu, rayip bedel tespit belgeleri, başka kamu taşınman olmadığına dair Milli Emlak Daire Baskanlığı/Müdürlüğü yazısı vb.) belgeleric birlikie incelensck üzere Yönstim Hizmetleri Gene! Müdürtüğune gönderilecektir.
+13) Her binanın kendine özgü özelliklerinin bulunabileceği bususu dikkate ahırneak. Lira sözleşmeleri inzalanıadan önce sözleşme taslağını bir önızği yukarıda belirtılen diğer (kiralama gereksesi. komisyon raporu, rayip bedel tespit belgeleri, başka kamu taşınman olmadığına dair Milli Emlak Daire Baskanlığı/Müdürlüğü yazısı vb.) belgeleric birlikie incelensck üzere Yönstim Hizmetleri Gene! Müdürtüğune gönderilecektir.
 
 14. Yönetim Hizmetlen Genel Müdürlüğü tarafindan gerekli ınceleme ve değerlendine yapıldıktan sonra kiralantasma karar verilen taşınmaz, bilgi ve belgeleriyle birikte Cumhurbaşkankığma kiralama izai için gönderılecektır.
 
-15. Yönetim Hizmetleri Genel Müdürdagä tarafindan gerekli ineclome ve degerlendirme sonucunda kıralama talebi herhangi bir nedenle (kira bedelı veya öngorilen kıtalara süresimın uygın bulunmaması eb.) uygun görülmeyenler, uygun görülmeme gerekşeleri ile birlikte inde edilecaktir. Kiralama komisyonu tarafindan iade gerekçeleri gözden geçirilerek gerekli düzenleme yapıldıkian sonra izin için tekrar Yönetim Hizmetleri Genel Müdürlüğüne gönderilecektin Genel Mädäriükçe tekrar değerlenlirme yapılacak ve uygun görülmesi halinde kıralama iş ve işkemlei başlatılasaktı.
+15) Yönetim Hizmetleri Genel Müdürdagä tarafindan gerekli ineclome ve değerlendirme sonucunda kıralama talebi herhangi bir nedenle (kira bedelı veya öngorilen kıtalara süresimın uygın bulunmaması eb.) uygun görülmeyenler, uygun görülmeme gerekşeleri ile birlikte inde edilecaktir. Kiralama komisyonu tarafindan iade gerekçeleri gözden geçirilerek gerekli düzenleme yapıldıkian sonra izin için tekrar Yönetim Hizmetleri Genel Müdürlüğüne gönderilecektin Genel Mädäriükçe tekrar değerlenlirme yapılacak ve uygun görülmesi halinde kıralama iş ve işkemlei başlatılasaktı.
 
-### T.C. SAGLIK BAKANLIGI Yönetim Hizmetleri Genel Müdürlüğü
+###  SAGLIK BAKANLIĞI Yönetim Hizmetleri Genel Müdürlüğü
 
-16, Cumhurbaşkanlığınca kiralana sani verilmesi halinde Yönatim Hizmetleri Erenel Müdüatuğı tarafindan kiralama talebinde bulunan harcama birimine kiralama İşlerinin başkamimasma İlişkinı bilgilendirme yapacaktır.
+16) Cumhurbaşkanlığınca kiralana sani verilmesi halinde Yönatim Hizmetleri Erenel Müdüatuğı tarafindan kiralama talebinde bulunan harcama birimine kiralama İşlerinin başkamimasma İlişkinı bilgilendirme yapacaktır.
 
 17. Kiralana izni verilen Idari hizmet binası, birimin harçama yetkilisi ve idari hizmet binası sahibi arasıda ilgili revanet doğrultusunda stzleşmesi inızalanarak kiralama işlemi umanlanmış olacak ve yapılan kira sozleşmenınım bir nüshası bilgi amaçtı Yönetım Hizmetler Gehel Mädirlüğane gönderilecektir.
 
-18. Bu kapsamdaki kiralama işlemleri, Cumburbaşkanlığından izin alma herię bu ganel ganin diğer usul ve esasiarı dikkate almarak il saglık mudurlüklerince sonuçlandımdacakır.
+18) Bu kapsamdaki kiralama işlemleri, Cumburbaşkanlığından izin alma herię bu ganel ganin diğer usul ve esasiarı dikkate almarak il saglık mudurlüklerince sonuçlandımdacakır.
 
-19. 2015/12 sayılı ve "İdari hizmet binası Kiraluma Hakkında Genelge" konudu Genelge yürürlükten kaldırılmiştir. Bilgi ve gereği ile uygulamada herhangi bir aksamaya meydan verilmemesi için yukanda belirtilen hususlara titizlikle riayet edilmesini önemle rico ederim.
-
-волні 8
+19) 2015/12 sayılı ve "İdari hizmet binası Kiraluma Hakkında Genelge" konudu Genelge yürürlükten kaldırılmiştir. Bilgi ve gereği ile uygulamada herhangi bir aksamaya meydan verilmemesi için yukanda belirtilen hususlara titizlikle riayet edilmesini önemle rico ederim.
 
 Halil ELDEM/R
 

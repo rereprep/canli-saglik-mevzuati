@@ -7,17 +7,19 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103521/silikozis-genelgesi-200862.html"
 durum: "yürürlükte"
+tarih: 2008-09-24
+konu: "Silikozisle ilgili sağlık hizmetleri ve uygulama esaslarını düzenler."
 ocr: true
 duzeltildi: true
 ---
 
 6.3.12. Silikozis Genelgesi (2008/62)
 
-Sayr : B10.0.TSH.0.10.00.06. Konu : Silikozis
+Sayr : B10.0.TSH.0.10.00.06. Konu: Silikozis
 
 24.09.2008 / 29184
 
-### GENELGE 2008/62
+ GENELGE 2008/62
 
 Bilindiği gibi Silikozis, pnömokonyozlar başlığı altında toplanan akciğer hastalıklarındandır. Hastalık mesleki akciğer hastalıkları arasında hızlı seyreden ve ölümcül olanlarından birisi olup koruyucu tedbirlerle önlenebilir. Silikozis solunabilir büyüklükteki (0,5-5 um çaplı) silis partiküllerinin inhalasyonuyla oluşur ve çoğunlukla radyogratiyle saptanabılir. Silikanın yüksek derecede fibrozis yapıcı etkisinin çeşitli açıklamaları yapılmışsa da hangi mekanizma ile akciğerlerde granülomlar ve fibrozis oluşturduğu kesin olarak bilinmemektedir.
 
@@ -31,7 +33,7 @@ Silikozisin tanısı tozla temas öyküsüne ve radyolojik bulgulara elenmesine 
 
 Bakanlık olarak amacımız, büyük opasiteler oluşmadan hatta küçük opasitelerin yoğunluğu artarak hasta semptomatik hale gelmeden erken tanı koyabilmektir. Akciğerlerde opasiteleri olan hastalarda hastalığın doğru tanısını koyabilmek için ayrıntılı çevre ve meslek öyküsü almak ve PA akciğer grafilerini özenle değerlendirmek gerekir.
 
-Sayı : B10.0.TSH.0.10.00.06. Konu : Silikozis Bu nedenle yukarıda sözü edilen işlerde çalışan ya da herhangi başka nedenle toza maruz kalan kışılerde aşağıdaki hususların dikkate alınması gerekmektedir:
+Sayı : B10.0.TSH.0.10.00.06. Konu: Silikozis Bu nedenle yukarıda sözü edilen işlerde çalışan ya da herhangi başka nedenle toza maruz kalan kışılerde aşağıdaki hususların dikkate alınması gerekmektedir:
 
 1. Akciğer grafilerinde şüpheli yuvarlak opsiteleri olanların teşhise yönelik
 

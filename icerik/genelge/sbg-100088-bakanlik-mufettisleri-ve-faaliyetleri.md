@@ -6,18 +6,15 @@ birim: "Teftiş Kurulu Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-100088/bakanlik-mufettisleri-ve-faaliyetleri.html"
 durum: "yürürlükte"
+duzeltildi: true
+konu: "Bakanlık Müfettişleri ve Faaliyetleri konusundaki düzenleme ve uygulama esaslarını bildirir."
+tarih: 2023-10-12
 ocr: true
 ---
 
-## İDARİ VE MALİ HİZMETLER DAİRESİ BAŞKANLIĞI TEFTİŞ KURULU BAŞKANLIĞI BİRİM EVRAKI
+Bakanlık merkez ve taşra teşkilatı ile bağlı kuruluşlarında teftiş, inceleme, soruşturma ve ön inceleme yapmak üzere görevlendirilen Bakanlık Müfettişlerinin temsil ve çalışma odası, hizmet aracı, bilgi ve belge ile bilirkişi ve uzman heyeti taleplerinin karşılanmasında aksaklık, eksiklik ve gecikme gibi olumsuzlukların yaşandığı bilgisi alınmaktadır.
 
-12.10.2023 12:04:32 E-55753567-010.06.01-226734301
-
-226734301
-
-### SAĞLIK BAKANLIĞI
-
-Teftiş Kurulu Başkanlığı
+Bildirildiği üzere, 27.6.1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin Ek 24 üncü maddesi ile denetime tabi gerçek ve tüzel kişilerin, denetim için gereken bilgi ve belgeleri müfettişlere ibraz etmesi ve denetimde yardımcı olması hükme bağlanmıştır.
 
 (2) Teftişe tabi kamu ve özel tüm sağlık kurum ve kuruluşlarının yönetici ve görevli memurları ile çalışanları; müfettişlerin görevlendirildikleri konularda bilgi işlem sistemleri, raporlama araçları, internet, intranet ve benzeri ağlar ile veri tabanlarına erişimini sağlamak, elektronik, manyetik ve benzeri her türlü elektronik bilgi iletişim araç ve gereçlerindeki bilgiler ve kayıtları ilk talebinde müfettişe göstermek ve incelemesine yardımda bulunmak zorundadırlar.
 
@@ -37,7 +34,7 @@ Bu itibarla; teftiş, denetim, rehberlik, inceleme, soruşturma ve ön incelemel
 
 4- Görevleri sırasında konaklamaları için temsile uygun yer temini konusunda gerekli yardım ve kolaylığın gösterilmesi,
 
-5- Teftiş Kurulu Başkanlığına bağlı Istanbul ve Izmir illerindeki çalışma merkezlerinde görevli Müfettişler için, gerekli ve yeterli sayıda çalışma odası tahsis edilmesi ve ihtiyaç olması halinde idari işleri yürütmek üzere personel görevlendirilmesi,
+5- Teftiş Kurulu Başkanlığına bağlı İstanbul ve İzmir illerindeki çalışma merkezlerinde görevli Müfettişler için, gerekli ve yeterli sayıda çalışma odası tahsis edilmesi ve ihtiyaç olması halinde idari işleri yürütmek üzere personel görevlendirilmesi,
 
 Hususlarında gerekli hassasiyetin gösterilmesi için,
 
@@ -49,10 +46,5 @@ Bakan
 
 ### DAĞITIM:
 
-A Planı 81 İl Valiliğine (Il Sağlık Müdürlüklerine)
+A Planı 81 İl Valiliğine (İl Sağlık Müdürlüklerine)
 
-2/2
-
-Üniversiteler Mah. Dumlupınar Bul. 6001 Cad. No: 9 Kat: 6 Bilkent-Çankaya/ANKARA Telefon: (0312) 471 74 35
-
-E posta: tkb@saglik.gov.tr

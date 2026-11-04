@@ -7,18 +7,18 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103528/tularemi-genelgesi-200561.html"
 durum: "yürürlükte"
+konu: "Tularemi Genelgesi (2005/61) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 6.3.33. Tularemi Genelgesi (2005/61)
 
-### T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
-
-Sayı : B100TSH0110002 Konu : Tularemi
+Sayı : B100TSH0110002 Konu: Tularemi
 
 V Hastalığın görüldüğü, kuşkulu vak'aların bulunduğu ya da tularemi pozitif
 
-vak'alarla pidemiyolojik ilişkisi olan yerleşim yerlerinde inceleme ve
+vak'alarla epidemiyolojik ilişkisi olan yerleşim yerlerinde inceleme ve
 
 taramalar yapılarak hastaların bulunup tedavi edilmelerinin temin edilmesiyle,
 
@@ -44,6 +44,6 @@ Bakan a.
 
 Müsteşar
 
-### DAĞITIM :
+ DAĞITIM :
 
 81 İl Valiligine

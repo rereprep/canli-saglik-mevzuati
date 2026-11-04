@@ -9,11 +9,8 @@ etiketler: ["hukuki ehliyet", "sağlık raporu", "adli tıp"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 195-196"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
-
-2.3.25.Hukuki İşlem Ehliyetine İlişkin Rapor Düzenleme Yetkisi Genelgesi (2014/11)
-
-### T.C. SAGLIK BAKANLIGI Sağhk Hizmetleri Genel Müdürlüğü
 
 To Sağok Bakankg ancak tabip gerek gördüğünde ilgili uzmana sevk ederek uzman tarafindan karar verilip raporun düzenlenmesini talep edebilecektir.
 

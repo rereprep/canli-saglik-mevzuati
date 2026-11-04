@@ -8,9 +8,11 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103630/aylik-mahsuplasma-genelgesi-201418.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Döner sermaye ek ödemelerinde aylık mahsuplaşma işlemlerini düzenler."
 ---
 
-9.3.13. Aylık Mahsuplaşma Genelgesi (2014/18) TC Seğik Bakanhğr
+9.3.13. Aylık Mahsuplaşma Genelgesi (2014/18) 
 
 ### SAĞLIK BAKANLIĞI Müsteşarlik
 
@@ -20,15 +22,15 @@ Sayı : 39608046 2014 .4820. 6982 30.04.2014 Konu : Aylık Mahsuplaşma
 
 2014/18
 
-Bilindiği üzere, Bakanlığımız taşra teşkilatında ve bağlı kuruluşların taşra teşkilatlarında görev yapan personele 4/1/1961 tarihli ve 209 sayılı ¿Sağhk Bakanlığına Bağlı Sağlık Kurumları Ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun"un 5 inci maddesine istinaden döner sermaye gelirlerinden ek ödeme yapılmakta olup, yapılan bu ek ödemelerden gelir vergisi kesintisi yapılmaktadır.
+Bilindiği üzere, Bakanlığımız taşra teşkilatında ve bağlı kuruluşların taşra teşkilatlarında görev yapan personele 4/1/1961 tarihli ve 209 sayılı “Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun"un 5 inci maddesine istinaden döner sermaye gelirlerinden ek ödeme yapılmakta olup, yapılan bu ek ödemelerden gelir vergisi kesintisi yapılmaktadır.
 
-209 sayılı Kanunun 5 inci maddesinin ikinci fikrasında "Bu fikra uyarınca personele her ay yapılacak ek ödeme net tutarı, 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca kadro ve görev unvanı veya pozisyon unvanı itibarıyla belirlenmiş olan ek ödeme net tutarından az olamaz. Bu madde uyarınca yapılacak ödeme sigorta prim kesintisine tabi tutulmaz." hükmü yer almaktadır.
+209 sayılı Kanunun 5 inci maddesinin ikinci fıkrasında "Bu fikra uyarınca personele her ay yapılacak ek ödeme net tutarı, 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca kadro ve görev unvanı veya pozisyon unvanı itibarıyla belirlenmiş olan ek ödeme net tutarından az olamaz. Bu madde uyarınca yapılacak ödeme sigorta prim kesintisine tabi tutulmaz." hükmü yer almaktadır.
 
 Bu kapsamda, Bakanlığımız taşra teşkilatında ve bağlı kuruluşların taşra teşkilatlarinda görev yapan personele 209 sayılı Kanun uyarınca yapılan ek ödemeler, 375 sayılı KHK uyarınca belirlenmiş olan ek ödeme net tutarından az olmayacak şekilde yapılmaktadır.
 
-Diğer taraftan, 1 Haziran 2012 tarihli ve 28310 sayılı Resmi Gazete'de yayımlanan Kamu Görevlileri Hakem Heyetinin 29 Mayıs 2012 tarihli ve 2012/1 sayılı kararında yer alan ek ödemeye ilişkin hususlar, 06/06/2012 tarih ve 71 sayıh 2012/24 No'lu Bakanlığımız Genelgesi ile düzenlenmiştir.
+Diğer taraftan, 1 Haziran 2012 tarihli ve 28310 sayılı Resmi Gazete'de yayımlanan Kamu Görevlileri Hakem Heyetinin 29 Mayıs 2012 tarihli ve 2012/1 sayılı kararında yer alan ek ödemeye ilişkin hususlar, 06/06/2012 tarih ve 71 sayılı 2012/24 No'lu Bakanlığımız Genelgesi ile düzenlenmiştir.
 
-Mezkur Genelgenin "E" maddesinde "209 sayılt Kanunun 3 inci maddesi uyarımca ek ödemeden yararlananların ek ödeme dahil bir mali yılda mali haklar kapsamında almış olduğu toplam net ödeme tutarı (maaş + ek ödeme), 375 sayıh Kanın Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ek ödemeden yararlanan hizmet sınıfi, kadro veya pozisyon unvanı, kadro derece ve kademesi, görev yeri, hizmet yılı ve eğitim durumu aym olanların ek ödeme dahil bir mali yılda mali haklar kapsamında almış olduğu toplam net ödeme tutarından az olması halinde aradaki fark, mali yılın sonunda döner sermaye bütçesinden ödenecektir. " hükmü yer almaktadır.
+Mezkur Genelgenin "E" maddesinde "209 sayılt Kanunun 3 inci maddesi uyarımca ek ödemeden yararlananların ek ödeme dahil bir mali yılda mali haklar kapsamında almış olduğu toplam net ödeme tutarı (maaş + ek ödeme), 375 sayılı Kanın Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ek ödemeden yararlanan hizmet sınıfi, kadro veya pozisyon unvanı, kadro derece ve kademesi, görev yeri, hizmet yılı ve eğitim durumu aym olanların ek ödeme dahil bir mali yılda mali haklar kapsamında almış olduğu toplam net ödeme tutarından az olması halinde aradaki fark, mali yılın sonunda döner sermaye bütçesinden ödenecektir. " hükmü yer almaktadır.
 
 Amılan hüküm çerçevesinde; Bakanlığımız taşra teşkilatında ve bağhı kuruluşların taşra teşkilatlarında görev yapan personelin mali yıl sonunda almış olduğu net ödeme tutarının (maaş + ek ödeme), Bakanlığımız harici diğer kurum ve kuruluşlarda 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ek ödemeden yararlanan hizmet sınıfi, kadro veya pozisyon unvanı, kadro derece ve kademesi, görev yeri, hizmet yılı ve eğitim durumu aynı olanların ek ödeme dahil bir mali yılda mali haklar kapsamında almış olduğu toplam net ödeme tutarı ile kıyaslanması ve söz konusu kıyaslama neticesinde toplam net ödeme tutarının az olması halinde aradaki farkın personele ödenmesi gerekmektedir.
 
@@ -38,11 +40,11 @@ Yıllık mahsuplaşma kapsamında 2013 yılında hak edişi oluşan personele an
 
 TC Salk Вакад
 
-### T.C. SAGLIK BAKANLIĞI Müsteşarlık
+### T.C. SAĞLIK BAKANLIĞI Müsteşarlık
 
 Sayı : 39608046 Konu : Aylık Mahsuplaşma
 
-Diğer taraftan, 14/8/2013 tarihli ve 28735 sayılı Resmi Gazete'de yayımlanan Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara Ilişkin 2014 ve 2015 Yıllarını Kapsayan 2. Dönem Toplu Sözleşme" nin Üçüncü Bölüm " Sağlık ve Sosyal Hizmet Koluna İlişkin Toplu Sözleşme" hükümlerinin Fark Ödemesi başlıklı 10 uncu maddesinde "209 sayılı Kanunun 5 inci maddesi, 2547 sayılı Kanunın 58 inci maddesi ile 2659 sayıhı Kanunun 30 uncu maddesi uyarınca ek ödemeden yararlananların ek ödeme dahil bir ayda mali haklar kapsamında almış olduğu toplam net ödeme tutarı, 375 sayılı Kanın Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ek ödemeden yararlanan hizmet sınıfi, kadro ve pozisyon unvanı, kadro derece ve kademesi, görev yeri, hizmet yılı ve eğitim durumu aynı olanların ek ödeme dahil bir ayda mali haklar kapsamında almış olduğu toplam net ödeme tutarından az olması halinde aradaki fark, döner sermaye bütçesinden ödenir. " hükmü yer almaktadır.
+Diğer taraftan, 14/8/2013 tarihli ve 28735 sayılı Resmi Gazete'de yayımlanan Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara Ilişkin 2014 ve 2015 Yıllarını Kapsayan 2. Dönem Toplu Sözleşme" nin Üçüncü Bölüm " Sağlık ve Sosyal Hizmet Koluna İlişkin Toplu Sözleşme" hükümlerinin Fark Ödemesi başlıklı 10 uncu maddesinde "209 sayılı Kanunun 5 inci maddesi, 2547 sayılı Kanunın 58 inci maddesi ile 2659 sayılıı Kanunun 30 uncu maddesi uyarınca ek ödemeden yararlananların ek ödeme dahil bir ayda mali haklar kapsamında almış olduğu toplam net ödeme tutarı, 375 sayılı Kanın Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ek ödemeden yararlanan hizmet sınıfi, kadro ve pozisyon unvanı, kadro derece ve kademesi, görev yeri, hizmet yılı ve eğitim durumu aynı olanların ek ödeme dahil bir ayda mali haklar kapsamında almış olduğu toplam net ödeme tutarından az olması halinde aradaki fark, döner sermaye bütçesinden ödenir. " hükmü yer almaktadır.
 
 Anılan hüküm çerçevesinde; Bakanlığımız taşra teşkilatında ve bağh kuruluşların taşra teşkilatlarında görev yapan ve 209 sayılı Kanunun 5 inci maddesi uyarınca ek ödemeden yararlanan personelin, ay (dönem) sonunda almış olduğu net ödeme tutarının (maaş + ek ödeme), Bakanlığımız harici diğer kurum ve kuruluşlarda 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ek ödemeden yararlanan hizmet sınıfi, kadro veya pozisyon unvanı, kadro derece ve kademesi, görev yeri, hizmet yılı ve eğitim durumu aynı olanların ek ödeme dahil bir ayda mali haklar kapsamında almış olduğu toplam net ödeme tutarı ile kıyaslanması ve net ödeme tutarının az olması halinde aradaki farkın personele ödenmesi gerekmektedir.
 
@@ -58,7 +60,7 @@ Bu bağlamda; mezkur Toplu Sözleşme Kararının 10 uncu maddesinde yer alan k�
 
 TC Sağik Bahaniü!
 
-### T.C. SAGLIK BAKANLIĞI Müsteşarlık
+### T.C. SAĞLIK BAKANLIĞI Müsteşarlık
 
 Sayı : 39608046 Konu : Ayhk Mahsuplaşma
 
@@ -82,7 +84,7 @@ Ornek 3: Bakanlığımız kadrosunda bulunan 1/4 derecede uzman tabip unvanlı p
 
 TC Sağlik Bakanio
 
-### T.C. SAGLIK BAKANLIGI Müsteşarlık
+### T.C. SAĞLIK BAKANLIGI Müsteşarlık
 
 Sayı : 39608046 Konu : Ayhk Mahsuplaşma
 
@@ -94,7 +96,7 @@ Sayı : 39608046 Konu : Ayhk Mahsuplaşma
 
 TC Sağik Bacantğ
 
-### T.C. SAGLIK BAKANLIĞI Müsteşarlık
+### T.C. SAĞLIK BAKANLIĞI Müsteşarlık
 
 Sayı : 39608046 Konu : Aylık Mahsuplaşma
 
@@ -132,6 +134,6 @@ Gereği:
 
 -88 Kamu Hastaneleri Birliği Genel Sekreterliğine
 
--81 Il Valiliğine (Il Sağhk Müdürluğu)
+-81 Il Valiliğine (Il Sağlık Müdürluğu)
 
 -81 Il Valiliğine (Halk Sağhğı Müdürluğu)

@@ -9,40 +9,41 @@ etiketler: ["işyeri hekimliği", "mesai dışı çalışma", "tabip hakları"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 498-498"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.7. Mesai Saatleri Harici İşyeri Hekimliği Genelgesi (2014/1)
+T.C. SAĞLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu Başkanlığı
 
-### AGLAS NE GEYENLAOI BADUE DA SE ANERO C- SAOLE BARAVE) SAÖLIK BAKANLIGH TASE CALESENE VI OC VITES CATAK Türkiye Halk Sağlıg Kununu Başkanlıgı
+Sayı: 98878870/63
 
-00001971812 Say: : 98878870/63 Коси : Мечні sutleri harici işyeri hekimliği
+Konu: Mesai saatleri harici işyeri hekimliği
 
 ### GENELGE
 
-2014/.f....
+2014/1
 
-30/06/2012 tarihli ve 28339 sayıh Resmi Gazete'de yayımlanarak yürür)uğe giren 6331 sayıh lą Sağlığı ve Oüvenliği Kanunu ile; ulke çapanda iş saglığa ve güvenliği (ISG) hizmetlerinin yaygınlaştırılması, bu hizmetlerden tüm çalışanların etkin ve verimli şekilde yararlanması amaçianmıştur.
+30/06/2012 tarihli ve 28339 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren 6331 sayılı İş Sağlığı ve Güvenliği Kanunu ile; ulke çapanda iş sağlığı ve güvenliği (ISG) hizmetlerinin yaygınlaştırılması, bu hizmetlerden tüm çalışanların etkin ve verimli şekilde yararlanması amaçlanmıştır.
 
-Diğer taraflan, 18/01/2014 tarihli ve 28886 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 6514 sayılı Sağlık Bakanlığı ve Baglı Kuruluşlarının Teşkilat ve Görevieri Hakkında Kanun Hükmünde Kararname ile Banı Kanunlarda Değişiklik Yapılmasına Dair Kanun'un 21 inci maddesi ile, 1219 sayık Tebebet ve Şuabatı Sanatlarımın Tara Jorasma Dair Kanun'un 12 nci maddesinin üçüncü fikrasına, "Kamu kurum ve kuraluşiannda çalışan ve yöneticilik görevi bulamayan tabipler ile aile hekimleri, kurum ve kuruluşlarındaki çalışana saatleri dışında ve kurumlarımın izniyle aylık otuz saati goçmemek üzere iş yeri hekimliği yapabilir" hükmü ile "Tabipler, iş yeri hekimliği eğicimi alma ve iş yeri hekimliği belgesine sahip olma şartı aranmaksızın 10 dan az işçi çalışuran az tehlikeli iş yerlerinin iş yeri hekimliği görevini yspabilirler" hükmü eklenmiş ohup såz konusa hükmün uygulanmasına yönelik bazı husuşlara açıklık getirilmesi ihtiyacı hasıl olmuştur.
+Diğer taraftan, 18/01/2014 tarihli ve 28886 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren 6514 sayılı Sağlık Bakanlığı ve Baglı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun'un 21 inci maddesi ile, 1219 sayılı Tababet ve Şuabatı Sanatlarımın Tara Jorasma Dair Kanun'un 12 nci maddesinin üçüncü fikrasına, "Kamu kurum ve kuruluşlarında çalışan ve yöneticilik görevi bulamayan tabipler ile aile hekimleri, kurum ve kuruluşlarındaki çalışma saatleri dışında ve kurumlarımın izniyle aylık otuz saati geçmemek üzere iş yeri hekimliği yapabilir" hükmü ile "Tabipler, iş yeri hekimliği eğicimi alma ve iş yeri hekimliği belgesine sahip olma şartı aranmaksızın 10’dan az işçi çalıştıran az tehlikeli iş yerlerinin iş yeri hekimliği görevini yapabilirler" hükmü eklenmiş ohup såz konusa hükmün uygulanmasına yönelik bazı husuşlara açıklık getirilmesi ihtiyacı hasıl olmuştur.
 
 Bu çerçevede:
 
-1) Sağlık Bakanlığı ve bağlı kuruluşlarının merkez ve taşra teşkilatlarında, asaleten veya vekåleten ayrımı yapılmaksızu disiplin amiri olarak görev yapan personel yünetici olarak
+1) Sağlık Bakanlığı ve bağlı kuruluşlarının merkez ve taşra teşkilatlarında, asaleten veya vekåleten ayrımı yapılmaksızu disiplin amiri olarak görev yapan personel yönetici olarak
 
-2) Aile hekimieri dähil hekimlerin, mesai saatleri dışuda ve tutulması gereken her türld nöbet saatleri ile çakışmamak İzere işyeri hekimliği yapabileceğine ilişkin izinleri; Bakanlık ve boğh kuruluşlan merkez teşkilatında Genel Müdür veya Kurum Bagkana, taşrada ise bekimin görev yaptığı kuruma göre il Sağink Müdürü, Halk Sağlığı Müdürü, Genel Sekreter veya Bölge Baytabibi tarafından verileccktir. Bu izin aylık otuz saati aşmayacaktır.
+2) Aile hekimleri dâhil hekimlerin, mesai saatleri dışında ve tutulması gereken her türlü nöbet saatleri ile çakışmamak üzere işyeri hekimliği yapabileceğine ilişkin izinleri; Bakanlık ve boğh kuruluşlan merkez teşkilatında Genel Müdür veya Kurum Bagkana, taşrada ise hekimin görev yaptığı kuruma göre il Sağink Müdürü, Halk Sağlığı Müdürü, Genel Sekreter veya Bölge Baştabibi tarafından verileccktir. Bu izin aylık otuz saati aşmayacaktır.
 
-3) Işyeri hekimliği yapecak bekimler, işyerleri ile İSG-KATIP sistemi üzerinden yapılan sözleşmelerin imzah suretlerini izin akdığı kuruma ibraz edecektir.
+3) İşyeri hekimliği yapacak hekimler, işyerleri ile İSG-KATIP sistemi üzerinden yapılan sözleşmelerin imzalı suretlerini izin aldığı kuruma ibraz edecektir.
 
 4) Tüm hekimler, on (10y'dan az çalışanı olan sa tehlikeli suufa air jperlerinde işyrı/ hekimliği belgesi aranmaksızın işyeri hekimliği hizmeti verebilecektir.
 
 Bilgilerini ve gereğini rica ederim.
 
-Prof. Dt final TOSUN
+Prof. Dr. Nihat TOSUN
 
-Bakıi a
+Bakan a.
 
-Mustegar
+Müsteşar
 
 ### DAGITIM:
 
-A Plam
+A PLANI

@@ -8,25 +8,26 @@ etiketler: ["bağımlılıkla mücadele", "koordinasyon kurulu", "madde bağıml
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 469-474"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.2.6. Bağımlılık ile Mücadele Kurullarının Çalışma Usul ve Esasları
 
-### IKINCİ BÖLÜM
+## İKİNCİ BÖLÜM
 
-#### Kurulların Oluşturulmasa, Görevleri ve Çalışma Usul ve Esasları Kurulların Oluyumu
+#### Kurulların Oluşturulması, Görevleri ve Çalışma Usul ve Esasları
 
-**MADDE 5 –** (I) Bağımkılıkla Mücadele Yüksek Kurulu (BMYK)'num oluşturacağı strateji ve eylem planlan çerçevesinde görev iera etmek ve bağımlılık ile mücadele çalışmalannda güncel konulanın tartıplarak heh ve etkili kararlann alınması ve uygulanması sağlamak Bacre Bagımlıhkla Mücadele Yüksek Kurulu Başkanının onayt ile BMK ve BMTK lar oluşturulur. Hağımhlıkla Mücadele Karalu (EMK)
+**MADDE 5 –** (1) Bağımlılıkla Mücadele Yüksek Kurulu (BMYK)’nın oluşturacağı strateji ve eylem planlan çerçevesinde görev icra etmek ve bağımlılık ile mücadele çalışmalarında güncel konuların tartışılarak heh ve etkili kararlann alınması ve uygulanması sağlamak Bağımlılıkla Mücadele Yüksek Kurulu Başkanının onayt ile BMK ve BMTK’lar oluşturulur. Bağımlılıkla Mücadele Kurulu (BMK)
 
-**MADDE 6 –** (1) BMK; Sağlık Bakanlığı Bakan Yardımersı başkanlığında şağıdaki üyelerden olugur
+**MADDE 6 –** (1) BMK; Sağlık Bakanlığı Bakan Yardımcısı başkanlığında şağıdaki üyelerden oluşur
 
 a) Adalet Bakanlığı Bakan Yardımcisa
 
-b) Aile, Çalışma ve Sosyal Hiznetfer Bakanlığı Bekan Yardımeisı
+b) Aile, Çalışma ve Sosyal Hizmetler Bakanlığı Bekan Yardımeisı
 
 e) Çevre ve Şehircilik Bakun(ğı Bakan Yardımers
 
-ç) Dişişleri Bakanler Bakan Yardımeı
+ç) Dişişleri Bakanlığı Bakan Yardımeı
 
 d) Gençlik ve Spor Bakanlığı Bakan Yardımcısı
 
@@ -36,11 +37,11 @@ f) İçişleri Bakanlığı Bakan Yardımcısı
 
 g) Kültür ve Turiem Bakanlığı Bakan Yardımcısı
 
-g) Milli Eğitim Bakanlıgı Bakan Yardancısı
+g) Milli Eğitim Bakanlığı Bakan Yardancısı
 
 h) Tarım ve Orman Bakanlığı Bakan Yardımcisı
 
-1) Ticaret Bakanlg: Bakan Yardımeısı
+1) Ticaret Bakanlığı Bakan Yardımeısı
 
 i) Uleştırma ve Altyapı Bakanlığı Bakan Yardımeısı
 
@@ -84,27 +85,27 @@ d) Kuram ve kuruluşlar arast iş birligini sağlamak.
 
 c) Toplantı gündemini oluşturan maddeler hakkında görüg bildirmek.
 
-f) Toplana gündem maddeleri duanda da çalsmalar geliştirici ănerilerde bulunmak Bağımlılıkla Mücadele Teknik Kurulu MADDE 7 (1) Bağımhlkia Mücadele Teknik Kurulu, Sağhk Bakanlığı Halk Sağlıgı Genel Müdürünün, olmadığ, duramlarda ise Halk Sağlığı Gienel Mödürünan göreviendirdigi ilgili daire başkamınım başkanlığında, aşağıda yer alan kurum ve kuruluşlar tarafindan görevlendirilecek en az daire başkanı seviyesinde, toplantılarda kurumları/karuluşlanı adına karar verebilecek temsilcilerden olugur.
+f) Toplana gündem maddeleri duanda da çalsmalar geliştirici ănerilerde bulunmak Bağımlılıkla Mücadele Teknik Kurulu MADDE 7 (1) Bağımhlkia Mücadele Teknik Kurulu, Sağhk Bakanlığı Halk Sağlıgı Genel Müdürünün, olmadığ, duramlarda ise Halk Sağlığı Gienel Mödürünan göreviendirdigi ilgili daire başkamınım başkanlığında, aşağıda yer alan kurum ve kuruluşlar tarafindan görevlendirilecek en az daire başkanı seviyesinde, toplantılarda kurumları/karuluşlanı adına karar verebilecek temsilcilerden oluşur.
 
-a) Adalet Bakanlıgı.
+a) Adalet Bakanlığı.
 
 b) Aile, Çalışma ve Sosyal Hamet/er Bakanlıg.
 
 c) Çevre ve Schire(lk Bakanliğa,
 
-g) Dışişleri Bakanlıgı,
+g) Dışişleri Bakanlığı,
 
 d) Gençlik ve Spor Bakanlığ,
 
 e) Hazine ve Maliye Bakanliği.
 
-1) Içişleri Bakanlıgı.
+1) Içişleri Bakanlığı.
 
 g) Kültür ve Turizm Bakanhğı.
 
 g) Milli Egitim Bakanlığı,
 
-h) Sağhk Bakanlıgı. 0 Tarm ve Orman Bakanlığı.
+h) Sağhk Bakanlığı. 0 Tarm ve Orman Bakanlığı.
 
 i) Ticaret Bakanlığı.
 

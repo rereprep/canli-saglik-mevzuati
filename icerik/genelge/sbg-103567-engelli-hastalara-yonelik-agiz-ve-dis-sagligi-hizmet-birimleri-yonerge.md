@@ -11,11 +11,9 @@ ocr: true
 duzeltildi: true
 ---
 
-2.3.13.Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Yönergesi (2022/3)
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : 67029623-199 Konu : Engelli Hastalara Yönelik Ağız ve Diş
+Sayı: 67029623-199 Konu: Engelli Hastalara Yönelik Ağız ve Diş
 
 Sağlığı Hizmet Birimleri
 
@@ -27,7 +25,9 @@ Prof. Dr. Sabahattin AYDIN
 
 Bakan a.
 
-Bakan Yardımcısı Ek: Usul ve Esaslar (3 Sayfa) Dağitım: 81 İl Valiliğine (İl Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne Sağlık Yatırımları Genel Müdürlüğüne Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
+Bakan Yardımcısı
+
+Ek: Usul ve Esaslar (3 Sayfa) Dağıtım: 81 İl Valiliğine (İl Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne Sağlık Yatırımları Genel Müdürlüğüne Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
 
 1) Engelli Ağız ve Diş Sağlığı Hizmet Birimleri:
 
@@ -51,7 +51,7 @@ e) Bekleme salonu, muayene odalarına bitişik bir alanda oluşturulmalı, diğe
 
 3) Engelli Ünitesi ve Diş Tedavi Merkezinin Fiziki Şartları:
 
-a) Unite ve merkez; poliklinik, ameliyathane ve yataklı servis olmak üzere üç ana bölümden oluşur.
+a) Ünite ve merkez; poliklinik, ameliyathane ve yataklı servis olmak üzere üç ana bölümden oluşur.
 
 b) Poliklinik; en az bir adet muayene odası ve bekleme salonundan oluşur ve yukarıda belirtilen polikliniğin fiziki şartlarını taşır.
 
@@ -59,11 +59,11 @@ c) Ameliyathane; genel anestezi altında dental müdahalelerin yapılabildiği, 
 
 d) Yataklı servis; ameliyat sonrası engelli hastaların tıbbi bakım, tedavi ve takiplerini sağlamak üzere en az 4 (dört) adet gözlem yatağı ile kurulur.
 
-e) Tibbi alanlara ilave olarak, hekimler için dinlenme odası, personel soyunma-giyinme, duş ve tuvalet ihtiyaçları için yeterli alan ayrılır. Kadın ve erkek hastalar ve hasta yakınları için engellilerin de yararlanacağı şekilde düzenlenmiş tuvalet ve lavabo bulunur.
+e) Tıbbi alanlara ilave olarak, hekimler için dinlenme odası, personel soyunma-giyinme, duş ve tuvalet ihtiyaçları için yeterli alan ayrılır. Kadın ve erkek hastalar ve hasta yakınları için engellilerin de yararlanacağı şekilde düzenlenmiş tuvalet ve lavabo bulunur.
 
 4) Personel Standardı:
 
-a) Engelli hastalara yönelik ağız ve diş sağlığı birimlerinde görev yapacak hekim ve diğer personelin görevlendirmesi mevzuatına uygun olarak idare tarafından yapıhır.
+a) Engelli hastalara yönelik ağız ve diş sağlığı birimlerinde görev yapacak hekim ve diğer personelin görevlendirmesi mevzuatına uygun olarak idare tarafından yapılır.
 
 b) İdare tarafından bir hekim veya diş hekimi sorumlu hekim olarak birimde görevlendirilir.
 

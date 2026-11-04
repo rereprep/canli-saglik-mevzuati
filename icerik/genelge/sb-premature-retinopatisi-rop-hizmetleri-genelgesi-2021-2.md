@@ -9,27 +9,23 @@ etiketler: ["prematüre retinopatisi", "rop", "yenidoğan", "göz taraması"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 222-224"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
-
-2.3.33. Prematüre Retinopatisi (ROP) Hizmetleri Genelgesi (2021/2)
-
-### T.C. VÔLTE HÁNE TLỦ OFI NÉLE CỘI- SAGLIK BAKANLIGI SEZAY DỘ DADA BANANI
-
-Sağlık Hizmetleri Genel Müdürlugu
+Sağlık Hizmetleri Genel Müdürlüğü
 
 301292300 Sayı : E-54567092-010.03 Konu : Prematüre Retinopatisi (ROP) Hizmetleri
 
-### GENELGE 2021/ 2
+### GENELGE 2021/2
 
-Prematüre retinopatisi (ROP), prematürelerde görülen retina damarlanın gelişimsel bozukluğuna bağlı olarak gelişen bir göz hastalığıdır. Gebelik haftası, düşük doğum ağırlığı, uygulanan oksijen tedavisinin süresi ve konsantrasyonunun ROP için en iyi bilinen risk faktörü olmasının yanı sıra, prematüre bebeğin ek hastalıklarının, uygulanan tedavilerin ve girişimsel işlemlerin de ROP gelişiminde rol oynadığı düşünülmektedir.
+Prematüre retinopatisi (ROP), prematürelerde görülen retina damarlarının gelişimsel bozukluğuna bağlı olarak gelişen bir göz hastalığıdır. Gebelik haftası, düşük doğum ağırlığı, uygulanan oksijen tedavisinin süresi ve konsantrasyonunun ROP için en iyi bilinen risk faktörü olmasının yanı sıra, prematüre bebeğin ek hastalıklarının, uygulanan tedavilerin ve girişimsel işlemlerin de ROP gelişiminde rol oynadığı düşünülmektedir.
 
-ROP sıklığı ülkelerin gelişmişlik düzeyleri ve yenidoğan yoğun bakım servislerinin haşta bakım kaliteleri ile ilişki göstermektedir. Ülkemizde her yıl canlı doğan bebekler içerisindeki prematüre sıklğı, bu prematürelerde gerçekleştirilen ROP taramaları sıklığı, ROP hastalığımın tedavi edilmediği takdirde kalıcı körlükle sonuçlanması, erken tam ve doğru zamanda uygun tedaviler ile kahcı körlük riskinin yüksek düzeyde azalmasının sağlanması sebebiyle Bakanlığımızca ROP hizmetleri ile ilgili iş ve işlemlerin düzenlenmesi ihtiyacı
+ROP sıklığı ülkelerin gelişmişlik düzeyleri ve yenidoğan yoğun bakım servislerinin hasta bakım kaliteleri ile ilişki göstermektedir. Ülkemizde her yıl canlı doğan bebekler içerisindeki prematüre sıklığı, bu prematürelerde gerçekleştirilen ROP taramaları sıklığı, ROP hastalığının tedavi edilmediği takdirde kalıcı körlükle sonuçlanması, erken tanı ve doğru zamanda uygun tedaviler ile kalıcı körlük riskinin yüksek düzeyde azalmasının sağlanması sebebiyle Bakanlığımızca ROP hizmetleri ile ilgili iş ve işlemlerin düzenlenmesi ihtiyacı
 
 Bu kapsamda, ülkemizde sunulacak ROP hizmetine ilişkin usul ve esaslar aşağıda
 
-ROP tanı merkezi: 32 haftadan küçük ve 1500 gr altı doğan tüm bebekler ile 32 haftadan büyük ve 1500 gr üstü doğmasına rağmen kardiyopulmoner destek tedavisi uygulanmış veya bebeği takip eden uzman hekimin ROP gelişimi açısından riskli gördüğü prematüre bebeklerin doğumdan sonraki 4-6 hafta içinde ROP tarama muayenesinin yapıldığı
+a) ROP tanı merkezi: 32 haftadan küçük ve 1500 gr altı doğan tüm bebekler ile 32 haftadan büyük ve 1500 gr üstü doğmasına rağmen kardiyopulmoner destek tedavisi uygulanmış veya bebeği takip eden uzman hekimin ROP gelişimi açısından riskli gördüğü prematüre bebeklerin doğumdan sonraki 4-6 hafta içinde ROP tarama muayenesinin yapıldığı
 
-1.2. ROP tanı ve tedavi merkezi: ROP tam merkezi faaliyetlerine ilave olarak ROP tanısı alanların tedavilerinin de yapıldığı merkezleri,
+1.2. b) ROP tanı ve tedavi merkezi: ROP tam merkezi faaliyetlerine ilave olarak ROP tanısı alanların tedavilerinin de yapıldığı merkezleri,
 
 ifade eder.
 
@@ -39,15 +35,13 @@ ifade eder.
 
 2.2. ROP merkezleri, bünyelerinde verilen hizmete göre ROP tanı merkezi ve ROP tanı ve tedavi merkezi şeklinde sınıflandırılır.
 
-2.3. ROP merkezlerindeki yoğun bakım hizmetleri, 20/07/2011 tarihli ve 28000 sayılı Resmi Gazete'de yayımlanan Yataklı Sağlık Tesislerinde Yoğun Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkıda Tebliğ kapsamında yürütülür.
+2.3. ROP merkezlerindeki yoğun bakım hizmetleri, 20/07/2011 tarihli ve 28000 sayılı Resmî Gazete'de yayımlanan Yataklı Sağlık Tesislerinde Yoğun Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ kapsamında yürütülür.
 
-2.4. ROP merkezlerindeki acil sevk ve nakil işlemlerinde 16/10/2009 tarihli ve 27378 sayılı Resmi Gazete'de yayımlanan Yataklı Sağhk Tesislerinde Acil Sağlık Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ hükümleri esas almır.
+2.4. ROP merkezlerindeki acil sevk ve nakil işlemlerinde 16/10/2009 tarihli ve 27378 sayılı Resmî Gazete'de yayımlanan Yataklı Sağlık Tesislerinde Acil Sağlık Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ hükümleri esas alınır.
 
 Bakanlığımızca gerektiğinde ROP merkezlerinden bilgi istenebilir. İstenilen bilgiler, Bakanlığımızın belirlediği formatta uygun şekilde elektronik sistem üzerinde kayıt
 
-T.C.
-
-### SAĞLIK BAKANLIĞI
+T.C. SAĞLIK BAKANLIĞI
 
 Sağhk Hizmetleri Genel Müdürlüğü altına alınır. Bilgisayar ortamında tutulan kayıtların yetkisiz olarak değiştirilmemesine ve silinmemesine yönelik gerekli idari ve teknik tedbirler alınır.
 
@@ -65,37 +59,37 @@ erişimlerinin kolaylaştırılması, ihtiyaç duyulan sağlık hizmetlerinin ha
 
 3.3. Tarama muayenesinin yapıldığı sağlık tesislerine ilave olarak, Bakanlıkça yapılan planlamalar neticesinde bünyesinde ROP tarama hizmeti sunulması planlanan sağlık tesisi bünyesinde de ROP Tanı Merkezi kurulabilir.
 
-3.4. ROP tarama hizmeti yamında bünyesinde ROP Tanı ve Tedavi Merkezi açılarak ROP tedavisinin de yapılacağı sağlık tesisleri, Sağlık Bakanlığınca yapılan planlama ile belirlenir.
+3.4. ROP tarama hizmeti yanında bünyesinde ROP Tanı ve Tedavi Merkezi açılarak ROP tedavisinin de yapılacağı sağlık tesisleri, Sağlık Bakanlığınca yapılan planlama ile belirlenir.
 
-3.5. Sağlık Bakanlığınca yapılan planlamalara göre bünyesinde ROP Tanı ve Tedavi Merkezi kurulmasma karar verilen sağlık tesisinde ilgili merkezin kurulması zorunludur.
+3.5. Sağlık Bakanlığınca yapılan planlamalara göre bünyesinde ROP Tanı ve Tedavi Merkezi kurulmasına karar verilen sağlık tesisinde ilgili merkezin kurulması zorunludur.
 
 ROP merkezlerinin faaliyet izni usul ve esasları
 
 4.1. ROP merkezleri, faaliyet izni ile kurulur.
 
-4.2. Faaliyet izni için ROP merkezlerine ait başvuru, sağlık tesisi yöneticisi tarafindan Ek-1 de yer alan "Faaliyet Izni Başvuru Formu" ile birlikte il sağhk müdürlügüne yapılır.
+4.2. Faaliyet izni için ROP merkezlerine ait başvuru, sağlık tesisi yöneticisi tarafından Ek-1’de yer alan "Faaliyet Izni Başvuru Formu" ile birlikte il sağlık müdürlügüne yapılır.
 
-### Başvuru, il sağlık müdürluğünce incelenir ve bu Genelgeye göre oluşturulan
+### Başvuru, il sağlık müdürlüğünce incelenir ve bu Genelgeye göre oluşturulan
 
 denetim ekibince yerinde inceleme yapılır.
 
-### Il sağlık müdürlüğünün uygun görüşü ile birlikte başvuru dosyası, Sağlık
+### İl sağlık müdürlüğünün uygun görüşü ile birlikte başvuru dosyası, Sağlık
 
 Bakanlığına iletilir.
 
-### Başvuru Sağlık Bakanlığı tarafindan uygun bulunması halinde, faaliyet izin
+### Başvuru Sağlık Bakanlığı tarafından uygun bulunması halinde, faaliyet izin
 
 belgesi düzenlenir.
 
 S. ROP merkezlerinin denetim usul ve esasları
 
-5.1. ROP merkezleri, şikåyet veya ihbar üzerine yapılan olağan dışı denetimler hariç olmak üzere, yılda en az bir kere ROP merkezi sınıflamasına uygun olarak Ek-2 de yer alan "Yerinde Denetim ve Değerlendirme Formu"na göre il sağlık müdürlüklerince denetlenir. Il sağlık müdürluğü, denetim sonuçlarını değerlendirir ve tespit edilen sorun ve aksaklıklarla ilgili gerekli tedbirleri alır. Lüzumu halinde denetim sonuçlarını raporlar ve Sağlık Bakanlığına bildirir. Sağlık Bakanlığı gerekli görduğü hallerde Bakanlıkça oluşturulacak denetim ekibine de denetim yaptırabilir.
+5.1. ROP merkezleri, şikâyet veya ihbar üzerine yapılan olağan dışı denetimler hariç olmak üzere, yılda en az bir kere ROP merkezi sınıflamasına uygun olarak Ek-2 de yer alan "Yerinde Denetim ve Değerlendirme Formu"na göre il sağlık müdürlüklerince denetlenir. İl sağlık müdürluğü, denetim sonuçlarını değerlendirir ve tespit edilen sorun ve aksaklıklarla ilgili gerekli tedbirleri alır. Lüzumu halinde denetim sonuçlarını raporlar ve Sağlık Bakanlığına bildirir. Sağlık Bakanlığı gerekli gördüğü hallerde Bakanlıkça oluşturulacak denetim ekibine de denetim yaptırabilir.
 
-### Il sağhk müdürlüğü tarafından, ROP merkezleri denetimleri için sağlık
+### Il sağlık müdürlüğü tarafından, ROP merkezleri denetimleri için sağlık
 
 hizmetleri başkanının veya sağlık hizmetleri başkan yardımcısının başkanlığında bir neonatoloji uzmanı ile bir göz hastalıkları uzmanının katılımı ile denetim ekibi oluşturulur. Neonatoloji uzmanımın olmadığı illerde yerine çocuk sağlığı ve hastalıklari uzmanı denetim ekibine dahil edilir.
 
-### T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlugo
+### T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlugo
 
 ROP merkezleri sevk usul ve esasları
 
@@ -103,7 +97,7 @@ ROP merkezleri sevk usul ve esasları
 
 6.2. Hastanın sevk ve nakli için belirlenen ROP tanı ve tedavi merkezi, sevkle gönderilen hastayı kabul etmekle ve bekletmeksizin tedavisini sağlamakla yükümlüdür.
 
-6.3. Sevk ve nakillerde Acil Sağlık Hizmetleri Çağnı Kayıt ve Operasyon Yönetim Sistemindeki güncellenmiş en son veriler esas alınır. Bu nedenle, Bakanlığımızca ROP merkezi faaliyet izni verilen sağlık tesisleri; ameliyathanenin, ilgili kliniğin ve yoğun bakım servisinin durumunu, boş-dolu yatak ve cihazlara ait bilgiler ile ayrıca operasyona alınan vakalanı anında 112 Komuta Kontrol Merkezine bildirmekle ve günün her saatinde güncel tutmakla yükümlüdür.
+6.3. Sevk ve nakillerde Acil Sağlık Hizmetleri Çağnı Kayıt ve Operasyon Yönetim Sistemindeki güncellenmiş en son veriler esas alınır. Bu nedenle, Bakanlığımızca ROP merkezi faaliyet izni verilen sağlık tesisleri; ameliyathanenin, ilgili kliniğin ve yoğun bakım servisinin durumunu, boş-dolu yatak ve cihazlara ait bilgiler ile ayrıca operasyona alınan vakaları anında 112 Komuta Kontrol Merkezine bildirmekle ve günün her saatinde güncel tutmakla yükümlüdür.
 
 6.4. Bu Genelgede tanımlanan acil sevk ve nakil işlemleri il sağlık müdürlüklerinin denetim ve sorumluluğunda yürütülür.
 
@@ -115,4 +109,6 @@ Prof. Dr. Sabahattin AYDIN
 
 Bakan a.
 
-Bakan Yardımcısı Ek: 1- Faaliyet Izni Başvuru Formu 2- Yerinde Denetim ve Değerlendirme Formu Dağıtım: Gereği: Bilgi: A Plant Sosyal Güvenlik Kurumu Yükseköğretim Kurulu Başkanlığı
+Bakan Yardımcısı
+
+Ek: 1- Faaliyet İzni Başvuru Formu 2- Yerinde Denetim ve Değerlendirme Formu Dağıtım: Gereği: Bilgi: A PLANI Sosyal Güvenlik Kurumu Yükseköğretim Kurulu Başkanlığı

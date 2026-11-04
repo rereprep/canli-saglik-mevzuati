@@ -8,6 +8,7 @@ etiketler: ["aile hekimliği", "tarama katsayısı", "takip katsayısı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 435-440"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.2.1. Aile Hekimliği Tarama ve Takip Katsayısına İlişkin Yönerge
@@ -16,35 +17,35 @@ ocr: true
 
 #### Temel esaslar
 
-**MADDE 5 –** (1) Aile hekimi ve aile sağlığı çalışanının tarama ve takip katsayısının belirlenmesinde; aile hekimliği birimine kayıtlı kişilere ait kardiyovasküler risk değerlendirmesi, çok yönlü yaşlı sağlığı değerlendirmesi, hipertansiyon, diyabet, obezite hastalıklarının tarama, takip ve sonuç durumu, kanser (meme, serviks, kolon) taraması ile süreç yönetimi esas ahınır.
+**MADDE 5 –** (1) Aile hekimi ve aile sağlığı çalışanının tarama ve takip katsayısının belirlenmesinde; aile hekimliği birimine kayıtlı kişilere ait kardiyovasküler risk değerlendirmesi, çok yönlü yaşlı sağlığı değerlendirmesi, hipertansiyon, diyabet, obezite hastalıklarının tarama, takip ve sonuç durumu, kanser (meme, serviks, kolon) taraması ile süreç yönetimi esas alınır.
 
 Tarama, takip ve sonuç ile ilgili tüm işlemler ekte yer alan ilgili kılavuzlara göre yapılır. Bu kılavuzlar Bakanlıkça tıbbi gereklilikler çerçevesinde güncellenerek Bakanlık resmi internet sitesinde ilan edilir ve bilişim sistemlerinin güncelliği sağlanır.
 
-Bakanlıkça uygun görülen bilişim sistemleri üzerinden belırlenen ış kurallarına uygun şekilde ilgili veri tabanına zamanında gönderilen veriler dikkate alınarak hesaplama yapılur.
+Bakanlıkça uygun görülen bilişim sistemleri üzerinden belirlenen iş kurallarına uygun şekilde ilgili veri tabanına zamanında gönderilen veriler dikkate alınarak hesaplama yapılır.
 
-Bakanlıkça, bilişim sistemleri vasıtasıyla yönerge kapsamındaki kriterler için belirlenen periyodlar dikkate almarak her ay hedef nüfus listeleri oluşturulur. Hedef nüfus lıstesındekı kişı sayısı yönerge kapsamındaki her bır kriter içın belirlenen periyodlara bölünerek aylık hedef nüfus sayısı belirlenir. Bu sayı başarı oranlarının hesaplanmasında esas alınur.
+Bakanlıkça, bilişim sistemleri vasıtasıyla yönerge kapsamındaki kriterler için belirlenen periyodlar dikkate alınarak her ay hedef nüfus listeleri oluşturulur. Hedef nüfus listesindeki kişi sayısı yönerge kapsamındaki her bir kriter içın belirlenen periyodlara bölünerek aylık hedef nüfus sayısı belirlenir. Bu sayı başarı oranlarının hesaplanmasında esas alınur.
 
-Gerçekleşme yüzdesi ve başarı oranı hesaplanmasında Hastalık Yönetim Platformu (HYP) listesi ve HYP'ye kaydedilen işlemler esas alımur. Aile hekimliği birimi çalışanları tarafindan sadece Sağlıkta Istatistik ve Nedensel Analizler (SINA) ve HYP bilgilerinde farkhılık olması halinde ilgili aya ilişkin teknik problemlerin çözümü için "https://yazilimdestek.saglik.gov.tr/" adresine en geç takip eden ayın ikinci gününe kadar başvurulabılır, ayrıca bır itıraz sürecı ışletılmez.
+Gerçekleşme yüzdesi ve başarı oranı hesaplanmasında Hastalık Yönetim Platformu (HYP) listesi ve HYP'ye kaydedilen işlemler esas alınır. Aile hekimliği birimi çalışanları tarafından sadece Sağlıkta İstatistik ve Nedensel Analizler (SINA) ve HYP bilgilerinde farklılık olması halinde ilgili aya ilişkin teknik problemlerin çözümü için "https://yazilimdestek.saglik.gov.tr/" adresine en geç takip eden ayın ikinci gününe kadar başvurulabilir, ayrıca bir itiraz süreci işletilmez.
 
-Aile hekimliği biriminde sözleşmeyle çalıştırılan veya görevlendirilen aile hekimi ve aile saglığı çalışanına çalışılan gün sayısına göre ödeme yapılır.
+Aile hekimliği biriminde sözleşmeyle çalıştırılan veya görevlendirilen aile hekimi ve aile sağlığı çalışanına çalışılan gün sayısına göre ödeme yapılır.
 
 #### Kişi takvimleri
 
-**MADDE 6 –** (1)Aile hekimliği birimine kayıtlı her kişi için, tüm kriterler bakımından ilgili kılavuzlarda belirlenen periyod ve şartlar dikkate alıarak tarama ve takiplerin yapılması gereken zamanı gösteren kişı takvımi oluşturulur.
+**MADDE 6 –** (1) Aile hekimliği birimine kayıtlı her kişi için, tüm kriterler bakımından ilgili kılavuzlarda belirlenen periyod ve şartlar dikkate alınarak tarama ve takiplerin yapılması gereken zamanı gösteren kişi takvimi oluşturulur.
 
-Tarama işlemleri için kişinin ilk tarama tarihi, sıfırıcı gün kabul edilerek kişi takvimi oluşturulur. Takip işlemleri için var ise; son tanı tarihi veya tarama ile alacak olan ilk tanı tarihi sıfirıncı gün kabul edilerek kişi takvimi oluşturulur.
+Tarama işlemleri için kişinin ilk tarama tarihi, sıfırıncı gün kabul edilerek kişi takvimi oluşturulur. Takip işlemleri için var ise; son tanı tarihi veya tarama ile alacak olan ilk tanı tarihi sıfirıncı gün kabul edilerek kişi takvimi oluşturulur.
 
 Her yılın son günü, aile hekimliği birimine başvurmadığı için taramaya esas kişi takvimi oluşmayanlar için Bakanlıkça resen kişi takvimi oluşturulur.
 
-Kişilerin aile hekimini değiştirmesi durumunda, mevcut takvimi ile birlikte yeni kayıt olduğu aile hekimliği biriminin hedef nüfus ve kişi listeleri içine dähil edilir. Kişinin hiç takvimi oluşmamış ise kayıt günü sıfırıncı gün kabul edilerek işlem yapılır.
+Kişilerin aile hekimini değiştirmesi durumunda, mevcut takvimi ile birlikte yeni kayıt olduğu aile hekimliği biriminin hedef nüfus ve kişi listeleri içine dâhil edilir. Kişinin hiç takvimi oluşmamış ise kayıt günü sıfırıncı gün kabul edilerek işlem yapılır.
 
-Kanser taramaları hariç olmak üzere; ilk taramadan sonra halen tarama listesinde kalan kişiler için sonraki tarama tarihinden otuz gün öncesinden itibaren tarama yapılabilir. Takipler için ise bu süre on beş gün olarak uygulamır.
+Kanser taramaları hariç olmak üzere; ilk taramadan sonra halen tarama listesinde kalan kişiler için sonraki tarama tarihinden otuz gün öncesinden itibaren tarama yapılabilir. Takipler için ise bu süre on beş gün olarak uygulanır.
 
-Takip, sayı ve süre sınırlaması olmaksızın yapılabilir. Kişi takvimi bu takiplerin takvime uygun olan ilki esas ahınarak güncellenir.
+Takip, sayı ve süre sınırlaması olmaksızın yapılabilir. Kişi takvimi bu takiplerin takvime uygun olan ilki esas alınarak güncellenir.
 
 Kişi takvimi tarama ve takiplere göre sürekli güncellenir.
 
-Başanı oranı hesaplamasında kişi takvimine uygun tarama ve takipler esas alınır.
+Başarı oranı hesaplamasında kişi takvimine uygun tarama ve takipler esas alınır.
 
 #### Ödemeye esas tarama ve takip katsayısı hesaplanması
 
@@ -86,7 +87,7 @@ Hipertansiyon tanısı almış kayıthı kişilerden, son bir yılda en az iki k
 
 Kayıtlı kişilerden diyabet tanısı olanlar ve tarama sonucu diyabet tanısı almuş olanlar ek-4 te yer alan Diyabet Değerlendirme Kılavuzuna göre üç ayda bir izlenir.
 
-Diyabet tanısı almış kayıthı kişilerden son bir yılda en az iki kez izlenmiş olmak kaydıyla bir önceki izlem tarihinden itibaren aile hekimi tarafindan belirlenmiş bireysel HbA1c hedefi ek-4'te yer alan Diyabet Değerlendirme Kılavuzunda belirtilen risk durumlarına göre belirlenen değerden az olanların sayısının son bir yılda izlenen kişi sayısına oranı sonuç için başarı
+Diyabet tanısı almış kayıthı kişilerden son bir yılda en az iki kez izlenmiş olmak kaydıyla bir önceki izlem tarihinden itibaren aile hekimi tarafından belirlenmiş bireysel HbA1c hedefi ek-4'te yer alan Diyabet Değerlendirme Kılavuzunda belirtilen risk durumlarına göre belirlenen değerden az olanların sayısının son bir yılda izlenen kişi sayısına oranı sonuç için başarı
 
 #### Obezite
 

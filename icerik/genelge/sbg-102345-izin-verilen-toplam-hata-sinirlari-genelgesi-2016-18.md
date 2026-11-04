@@ -7,28 +7,27 @@ birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-102345/izin-verilen-toplam-hata-sinirlari-genelgesi-201618.html"
 durum: "yürürlükte"
+duzeltildi: true
+konu: "İzin Verilen Toplam Hata Sınırları Genelgesi (2016/18) konusundaki düzenleme ve uygulama esaslarını bildirir."
+tarih: 2016-10-13
 ocr: true
 ---
 
-## T.C. SAGLIK HIZMETLERI GENEL MÜDÜRLÜGÜ - TIBBI SAĞLIK BAKANLIĞI LABORATUVAR HIZMETLERI DAIRE BASKANLIGI
-
 13/10/2016 14:08 - 95966346 - 010.06.02 - E.02-827
 
-### Sağlık Hizmetleri Genel Müdürlüğü
+Sayı : 95966346 Konu : İzin Verilen Toplam Hata Sınırları
 
-TO SağIk Batanlğı 00031589149 Sayı : 95966346 Konu : Izin Verilen Toplam Hata Sınırları
-
-### GENELGE 2016/.4-8
+### GENELGE 2016/18
 
 Tıbbi laboratuvarların, 09/10/2013 tarihli ve 28790 sayılı Resmi Gazete'de yayımlanan Tıbbi Laboratuvarlar Yönetmeliği ve kalite standartları çerçevesinde uygun periyotlarda, iç kalite kontrol programını yapılandırması ve dış kalite değerlendirme programına dâhil olması zorunludur.
 
 Kalite kontrol işlemleriyle amaçlanan, belirlenen analitik kalite hedeflerine ulaşılmasıdır. Belirlenen analitik kalite hedefleri daha çok İzin Verilen Toplam Hata (Allowable Total Error, TAH) olarak ifade edilmektedir.
 
-Toplam analitik hata (TAH), bir test sonucuna yansıyan Rastlantısal Hata ve Sistematik Hatanın toplamı olur. Hasta güvenliği bakımından toplam analitik hatanın, izin verilen toplam hata sınırını aşmaması gerekmektedir.
+Toplam analitik hata (TAH), bir test sonucuna yansıyan rastlantısal hata ve sistematik hatanın toplamı olur. Hasta güvenliği bakımından toplam analitik hatanın, izin verilen toplam hata sınırını aşmaması gerekmektedir.
 
-Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı tarafından oluşturulan Standardizasyon ve Harmonizasyon çalışma grubu tarafından, on beş parametreye ait izin verilen toplam hata sınırları Tablo 1'de belirlenmiştir. Tıbbi biyokimya laboratuvarları tarafından Izin Verilen Toplam Hata Sınırları belirlenen testler için;
+Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı tarafından oluşturulan Standardizasyon ve Harmonizasyon çalışma grubu tarafından, on beş parametreye ait izin verilen toplam hata sınırları Tablo 1'de belirlenmiştir. Tıbbi biyokimya laboratuvarları tarafından İzin Verilen Toplam Hata Sınırları belirlenen testler için;
 
-1. Tıbbi Laboratuvarlar Yönetmeliği'nin 27inci maddesinin 2inci fikrası gereğince, iç kalite
+1. Tıbbi Laboratuvarlar Yönetmeliği'nin 27’nci maddesinin 2’nci fıkrası gereğince, iç kalite
 
 kontrol çalışması yapması gerekmektedir. Bu çalışma Tablo 1'de bildirilmiş parametreler için
 
@@ -40,7 +39,7 @@ katsayısı (% CV) ve izin verilen toplam hata (% TAH) hesaplanmalı ve Tablo 1'
 
 değerleri aşmamalıdır. Aşılırsa düzeltici önleyici faaliyetler (DÖF) başlatılmalı ve kayıt altına
 
-alinmalidir.
+alınmalıdır.
 
 3. Bu çalışmanın nasıl yapılacağına yönelik "İzin Verilen Toplam Hata Hedeflerine Göre Kısa
 
@@ -56,13 +55,11 @@ Müsteşar
 
 Ek:
 
-Ek-1 Izin Verilen Toplam Hata Hedeflerine Göre Kısa Rehber Dağıtım: 81 İl Valiliği (II Sağlık Müdürlüğü) Türkiye Halk Sağlığı Kurumu Türkiye Kamu Hastaneleri Kurumu Türkiye İlaç ve Tıbbi Cihaz Kurumu Yükseköğretim Kurulu
+Ek-1 İzin Verilen Toplam Hata Hedeflerine Göre Kısa Rehber Dağıtım: 81 İl Valiliği (II Sağlık Müdürlüğü) Türkiye Halk Sağlığı Kurumu Türkiye Kamu Hastaneleri Kurumu Türkiye İlaç ve Tıbbi Cihaz Kurumu Yükseköğretim Kurulu
 
-### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+ EK-1
 
-TC Sağhk Bokanto EK-1
-
-### Izin Verilen Toplam Hata Hedeflerine Göre Kısa Rehber
+### İzin Verilen Toplam Hata Hedeflerine Göre Kısa Rehber
 
 Günümüzde tıbbi laboratuvarlar ulusal ve uluslararası standartlar gereği, test sonuçlarının doğruluğu ve kesinliği, dolayısıyla hasta güvenliği için uygun bir kalite sistemi kurmalı ve uygulamalıdır. Bu konu Tıbbi Laboratuvarlar Yönetmeliği'nde "Tıbbi laboratuvarın kalite kontrol ve değerlendirme sistemi başlıklı 27nci maddesinde şöyle yer almaktadır:
 
@@ -80,17 +77,13 @@ programlarına katılır ve sonuçlarını kayıt altına alır. Dış kalite de
 
 programlarına katılım belgelendirilir."
 
-Kalite kontrol işlemleriyle amaçlanan, belirlenen analitik kalite hedeflerine ulaşılmasıdır. Analitik kalite hedefleri daha çok Izin Verilen Toplam Hata (Allowable Total Error, TAH) olarak ifade edilmektedir. İzin verilen toplam hata, analitin klinik önemine ve klinik deneyimlere, analitin biyolojik değişkenliğine, ulaşılan analitik yetkinliğe veya analitik hataların düzeyine göre belirlenebilir. Testin klinik yararını ortadan kaldırmayacak boyuttaki hatalar izin verilebilir toplam hata içine girebilir.
+Kalite kontrol işlemleriyle amaçlanan, belirlenen analitik kalite hedeflerine ulaşılmasıdır. Analitik kalite hedefleri daha çok İzin Verilen Toplam Hata (Allowable Total Error, TAH) olarak ifade edilmektedir. İzin verilen toplam hata, analitin klinik önemine ve klinik deneyimlere, analitin biyolojik değişkenliğine, ulaşılan analitik yetkinliğe veya analitik hataların düzeyine göre belirlenebilir. Testin klinik yararını ortadan kaldırmayacak boyuttaki hatalar izin verilebilir toplam hata içine girebilir.
 
-Laboratuvar, kendi Toplam Analitik Hatasını (Total Analytic Error, TAH), izin verilen toplam hata sınırı ile kıyaslayarak analitik kalitesini bulabilir. Hasta güvenliği bakımından toplam analitik hatanın, izin verilen toplam hata sınırımı aşmaması gerekir. Toplam analitik hata (TAH), bir test sonucuna yansıyan Rastlantısal Hata ve Sistematik Hatanın toplamıdır (Şekil 1).
+Laboratuvar, kendi Toplam Analitik Hatasını (Total Analytic Error, TAH), izin verilen toplam hata sınırı ile kıyaslayarak analitik kalitesini bulabilir. Hasta güvenliği bakımından toplam analitik hatanın, izin verilen toplam hata sınırımı aşmaması gerekir. Toplam analitik hata (TAH), bir test sonucuna yansıyan rastlantısal hata ve sistematik hatanın toplamıdır (Şekil 1).
 
 Rastlantısal hata (RH), büyüklüğü ve yönü önceden kestirilemeyen, pozitif veya negatif yönde olabilen hatalardır. RH standart sapma (s) ile ifade edilir; ancak, konsantrasyon arttıkça s de mutlak değer olarak büyüyeceğinden genellikle s'in ortalamaya göre yüzde oranı olarak (Varyasyon Katsayısı, %CV) verilir.
 
 Sistematik hata (SH), analitin gerçek değerinden farkı yansıtır. Daima aynı yönde olan hatalardan oluşur. RH'nın tersine ya pozitif ya da negatif yönde olabilir. RH %CV olarak, SH ise % sapma (bias) olarak ifade edilir.
-
-### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC Saplil Batanio
 
 Gerçek
 
@@ -116,23 +109,17 @@ Bir tıbbi laboratuvar; bas'ını sertifikalı referans materyalle, referans met
 
 Bu bilgilerden yola çıkılarak Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı tarafından oluşturulan Analitik Standardizasyon ve Harmonizasyon çalışma grubu, ilk aşamada, dış kalite değerlendirme sonuçları zorunlu olarak gönderilen 15 test için izin verilen toplam hata sınırlarını belirlemek amacıyla bir çalışma başlattı. Bu çalışmada önce Ricos ve arkadaşları tarafından yapılan çalışma esas alındı. Buna göre, laboratuvarlar tarafından kendi dış kalite değerlendirme programlarında her bir analit için elde ettikleri %bias değerleri (hedef değere göre) gönderildi; belli dışlamalar yapıldıktan sonra yaklaşık 6 aylık bias değerlerinin 95. yüzdeliği hata sınırı olarak belirlendi. Belirlenen hata sınırları bir yıllık verilerle aynı işlemler yapılarak doğrulandı. Elde edilen sınırların çapraz bir çalışma ile sağlaması yapıldı. Buna göre 27 laboratuvarın iç kalite kontrolden elde ettikleri 4 aylık %CV değerleri ve dış kalite değerlendirmeden elde edilen %bias verilerinden hareketle toplam analitik hata değerleri hesaplandı.
 
-### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
 TO Sagik Bakanidı Bu yeni verilerle eski sınır değerler karşılaştırılarak toplam izin verilen hata sınırları ve izin verilen en yüksek varyasyon katsayısı (%CV) hedefleri de belirlendi. Bu veriler aşağıda sunulmuştur (Tablo 1).
 
 Tablo 1. Belirlenen İzin Verilen Toplam Hata Sınırları ve izin verilen en yüksek varyasyon katsayısı (%CV)
 
-### ANALIT İZİN VERİLEN İZİN VERİLEN EN TOPLAM HATA (%) YÜKSEK VARYASYON KATSAYISI (%CV) ALBÜMİN 15 7.5 ALANIN AMINOTRANSFERAZ 20 10 ALKALEN FOSFATAZ 30 10 ASPARTAT AMINOTRANSFERAZ 20 10 KLORÜR 9 5 KOLESTEROL 11 5 KREATININ 20 10 GLIKOZ 11 5 HDL KOLESTEROL 30 10 LAKTAT DEHIDROGENAZ 21 10 POTASYUM 9 5 TOTAL PROTEIN 15 7.5 SODYUM 9 5 TRIGLİSERİT 15 7.5
+### ANALIT İZİN VERİLEN İZİN VERİLEN EN TOPLAM HATA (%) YÜKSEK VARYASYON KATSAYISI (%CV) ALBÜMİN 15 7.5 ALANİN AMİNOTRANSFERAZ 20 10 ALKALEN FOSFATAZ 30 10 ASPARTAT AMINOTRANSFERAZ 20 10 KLORÜR 9 5 KOLESTEROL 11 5 KREATININ 20 10 GLİKOZ 11 5 HDL KOLESTEROL 30 10 LAKTAT DEHIDROGENAZ 21 10 POTASYUM 9 5 TOTAL PROTEIN 15 7.5 SODYUM 9 5 TRIGLİSERİT 15 7.5
 
 ÜRE 15 7.5
-
-### SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 TC. Sağil Bakankğr Örnek TAH Hesabı % Bias Hesabı: Dış kalite değerlendirme programında Laboratuvarda elde edilen glikoz değerleri ile eş grubun değerleri aşağıdaki tabloda verilmiştir. (% Bias'ın mutlak değeri alınacaktır) Buna göre bias şöyle hesaplanır: % Bias = [(Es grup değeri - Laboratuvarın sonucu) / Eş grup değeri] x 100 Glikoz (mg/aL) DKD Eş Grup Deger 76 77 127 121 256 262 303 294 29 25 345 348 42 41 154 154 398 388 93 92 240 239 72 69 312 308 99 101 375 375 168 162 59 54 183 185 213 204 436 431
 
 Fark(mg/dL) % Bias Ortalama 199 196,5 2,5 | 1,27
-
-### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 TC Sağla Bakonlğı Varyasyon Katsayısı (%CV) Hesabı: Glikoz için iç kalite kontrol sonuçları (n = 20) aşağıdaki gibi olsun:
 
@@ -158,13 +145,11 @@ Bu değerlerden hareketle TAH şöyle hesaplanır:
 
 ### %TAH = 1.27 + 1.65 x 2.95 = 3.2 + 3.47 = %6.13
 
-Elde edilen %TAH, Tablo l'de glikoz için Izin Verilen Toplam Hata düzeyinin (%11) altındadır. Elde edilen %CV değeri de Izin Verilen En Yüksek Varyasyon Katsayısı'nın (%5) altindadır.
-
-### SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+Elde edilen %TAH, Tablo l'de glikoz için İzin Verilen Toplam Hata düzeyinin (%11) altındadır. Elde edilen %CV değeri de İzin Verilen En Yüksek Varyasyon Katsayısı'nın (%5) altindadır.
 
 TC. Sağlık Bokontör
 
-Sonuç olarak, yöntemin Toplam Analitik Hatası Izin Verilen Toplam Hata sınırının altındadır. Dolayısıyla yöntemin performansı uygundur.
+Sonuç olarak, yöntemin Toplam Analitik Hatası İzin Verilen Toplam Hata sınırının altındadır. Dolayısıyla yöntemin performansı uygundur.
 
 Izin verilen toplam hata hesaplamaları ile elde edilen sonuç; verilen sınılar içerisinde çıkmış ise bu çalışmanın yılda en az bir kez, sınırlar dışında çıkması halinde ise yapılan düzeltici önleyici faaliyetlerle sınırlar içerisinde çıkana kadar ayda bir tekrarlanması gerekmektedir. Kaynaklar
 

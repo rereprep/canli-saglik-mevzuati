@@ -9,11 +9,12 @@ etiketler: ["denetimli serbestlik", "bağımlılık tedavisi", "adli vaka"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 254-259"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.46. Denetimli Serbestlik Tedavi Hizmetleri Genelgesi (2021/13)
 
-### T.C. ÃỘCDE FINI TLERI DENTE MUDURLCÃO - SAĞLIK BAKANLIGI Sağhk Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 83913885 Konu: Denetimli Serbestlik
 
@@ -21,19 +22,19 @@ Tedavi Hizmetleri
 
 ### GENELGE 2021/13
 
-Madde ilişkili suçlardan adli işlem gören ve madde kullanım bozukluğu olan hastaların topluma kazandırılmalarımı teminen yeni bir yaklaşımı ortaya koyan 'Tedavi ve Denetimli Serbestlik Tedbiri' uygulamaları Ulkemizde 2006 yıh itibariyle faaliyete geçmiş ve ilerleyen yıllarda madde bağımlılığı tanı ve tedavisine olumlu bir katkı sağlamıştır.
+Madde ile ilişkili suçlardan adli işlem gören ve madde kullanım bozukluğu olan hastaların topluma kazandırılmalarımı teminen yeni bir yaklaşımı ortaya koyan 'Tedavi ve Denetimli Serbestlik Tedbiri' uygulamaları Ülkemizde 2006 yılı itibarıyla faaliyete geçmiş ve ilerleyen yıllarda madde bağımlılığı tanı ve tedavisine olumlu bir katkı sağlamıştır.
 
-Denetimli serbestlik; suç işleyen kişinin toplum içinde denetim ve takibinin yapılarak, iyileştirilmesi ve topluma kazandırılması için ihtiyaç duyduğu her türlü hizmet, program ve kaynakların sağlandığı alternatif bir ceza sistemidir. Bu nedenle yargı mercileri kişinin öncelikle tedavi edilmesini ve tekrar uyuşturucu veya uyarıcı madde kullanmaktan korunmasını sağlamak amacıyla kişi hakkında 'Tedavi ve Denetimli Serbestlik Tedbiri' kararı verebilir, Bu kişilere sunulacak sağlık hizmetlerinin aşağıda belirlenen usül ve esaslara göre yürütülmesi sağlanacaktır.
+Denetimli serbestlik; suç işleyen kişinin toplum içinde denetim ve takibinin yapılarak, iyileştirilmesi ve topluma kazandırılması için ihtiyaç duyduğu her türlü hizmet, program ve kaynakların sağlandığı alternatif bir ceza sistemidir. Bu nedenle yargı mercileri kişinin öncelikle tedavi edilmesini ve tekrar uyuşturucu veya uyarıcı madde kullanmaktan korunmasını sağlamak amacıyla kişi hakkında 'Tedavi ve Denetimli Serbestlik Tedbiri' kararı verebilir, Bu kişilere sunulacak sağlık hizmetlerinin aşağıda belirlenen usul ve esaslara göre yürütülmesi sağlanacaktır.
 
-Denetimli Serbestlik Tedavi Hizmeti Veren Sağhk Tesisleri:
+Denetimli Serbestlik Tedavi Hizmeti Veren Sağlık Tesisleri:
 
-Bu hizmet, her ilde belirlenen kamu kurum ve kuruluşları bünyesinde yer alan yatakh sağlık tesislerinde verilir. Il Sağlık Müdürlüğü, denetimli serbestlik kapsamında verilecek tedavi hizmeti ihtiyacını değerlendirir ve tedavi hizmetini verecek sağlık tesisini belirler.
+Bu hizmet, her ilde belirlenen kamu kurum ve kuruluşları bünyesinde yer alan yataklı sağlık tesislerinde verilir. İl Sağlık Müdürlüğü, denetimli serbestlik kapsamında verilecek tedavi hizmeti ihtiyacını değerlendirir ve tedavi hizmetini verecek sağlık tesisini belirler.
 
-Il Sağlık Müdürlüğü, belirlenen sağhk tesisini, personel, poliklinik, çok amaçhı grup terapi alanı, numune alma odası ve laboratuvar alt yapısı bakımından inceler. Şartları taşıyan sağlık tesisini denetimli serbestlik tedavi hizmeti vermesi için Valilik Onayı ile görevlendirir ve Bakanlığa bilgi verir.
+İl Sağlık Müdürlüğü, belirlenen sağlık tesisini, personel, poliklinik, çok amaçhı grup terapi alanı, numune alma odası ve laboratuvar alt yapısı bakımından inceler. Şartları taşıyan sağlık tesisini denetimli serbestlik tedavi hizmeti vermesi için Valilik Onayı ile görevlendirir ve Bakanlığa bilgi verir.
 
 Denetimli serbestlik vakalarımın yoğun olduğu illerde bu vakaların iş ve işlemlerini yürütmek için sağlık tesisi, personel ya da poliklinik sayısı arttırılabilir.
 
-Arındırma merkezilerinde aynı zamanda denetimli serbestlik tedavi hizmeti verilebilir.
+Arındırma merkezlerinde aynı zamanda denetimli serbestlik tedavi hizmeti verilebilir.
 
 Personel Durumu:
 
@@ -45,7 +46,7 @@ Fiziki Şartlar:
 
 Sağlık tesisince, hizmetin görülmesine uygun bir poliklinik odası tahsis edilir ve hastane bilgi yönetim sistemleri üzerinden 'Denetimli Serbestlik Polikliniği' tanımlanır. Denetimli serbestlik hastalarının kayıt ve raporlama işlemleri bu poliklinik üzerinden yürütülür.
 
-### T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlügü
+### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
 2. Çok Amaçh Grup Terapi Alan:
 
@@ -75,7 +76,7 @@ B) Kayit ve Kabul:
 
 Hakkında denetimli serbestlik tedavi tedbiri verilen kişiler, denetimli serbestlik tedavi iş ve işlemleri ile yetkili sağlık tesisine yönelik düzenlenen üst yazı sevki ile birlikte önce sağlık tesisinin evrak kayıt birimine başvurur. Kayıt birimi, başvuru işlemlerini tamamladıktan sonra hastayı denetimli serbestlik tedavi polikliniğine yönlendirir.
 
-Sağhk tesisi hastanım tedavi giderlerini ve kontrol değerlendirmesi giderini sosyal güvencesi olması halinde bağlı olduğu Sosyal Güvenlik Kurumu; olmaması halinde ise Bakanlığımızın ilgili mevzuatına göre karşılanması için işlem yapar.
+Sağlık tesisi hastanım tedavi giderlerini ve kontrol değerlendirmesi giderini sosyal güvencesi olması halinde bağlı olduğu Sosyal Güvenlik Kurumu; olmaması halinde ise Bakanlığımızın ilgili mevzuatına göre karşılanması için işlem yapar.
 
 Denetimli serbestlik müdürlüğüne rapor gönderilerek işlemleri tamamlanmış hastalara, müdürlükçe düzenlenmiş yeni bir sevkle başvurmadığı sürece kayıt açılmaz.
 
@@ -171,7 +172,7 @@ Belirlenen tedavi programının uzaması halinde, hastaların tedaviye uyumu hak
 
 Denetimli Serbestlik Müdürluğüne Ek:1 resmi yazı ilişiğinde, ilk muayeneden sonra Ek: 8 rapor ve/veya Ek: 9 nihai rapor gönderilir. Tahlil sonuçları ve takip belgeleri gönderilmez.
 
-### SAĞLIK BAKANLIĞI Sağhk Hizmetleri Genel Müdürlüğü
+### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 Arındırma merkezinde, denetimli serbestlik tedavi hizmetinin verilmesi halinde, hakkında ileri tedavi görmesi gerektiğine karar verilmiş hastanın tedavisine merkezde devam edilir ve Ek: 10 rapor düzenlenir. Tedavi sonunda Ek: 9 nihai rapor düzenlenir. Raporlar Ek: 1 resmi yazı ilişiğinde Denetimli Serbestlik Müdürluğüne gönderilir.
 

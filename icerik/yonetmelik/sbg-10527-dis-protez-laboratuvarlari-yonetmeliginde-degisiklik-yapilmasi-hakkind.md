@@ -6,6 +6,10 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10527/dis-protez-laboratuvarlari-yonetmeliginde-degisiklik-yapilmasi-hakkinda-yonetmelik.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+tarih: "2011-12-31"
+konu: "Diş protez laboratuvarlarında bulundurulması gereken araç ve gereçler ile laboratuvar türlerine ilişkin Yönetmelik değişikliklerini düzenler."
+birim: "Sağlık Bakanlığı"
 ---
 
 31 Aralık 2011 Resmî Gazete
@@ -16,9 +20,9 @@ Sağlık Bakanlığından:
 
 ### Diş Protez Laboratuvarları Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik
 
-MADDE 1 ‒ 7/12/2005 tarihli ve 26016 sayılı Resmî Gazete’de yayımlanan Diş Protez Laboratuvarları Yönetmeliğinin 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 7/12/2005 tarihli ve 26016 sayılı Resmî Gazete’de yayımlanan Diş Protez Laboratuvarları Yönetmeliğinin 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
-“MADDE 4 ‒ Laboratuvarlarda bulundurulması gereken ortak araç ve gereçler şunlardır:
+“**MADDE 4 –** Laboratuvarlarda bulundurulması gereken ortak araç ve gereçler şunlardır:
 
 a) Vakumlu toz emicili çalışma masası.
 
@@ -48,13 +52,13 @@ a) Alçı ve Rövetman Bölümü:
 
 b) Dublikasyon Bölümü:
 
-1) Eritme ünitesi ( elektrikli veya manuel ).
+1) Eritme ünitesi (elektrikli veya manuel).
 
 2) Dublikasyon kalıpları.
 
 c) Modelasyon Bölümü:
 
-1) Ölçüm aleti ( Paralelometre ).
+1) Ölçüm aleti (Paralelometre).
 
 d) Döküm Bölümü:
 
@@ -182,7 +186,7 @@ Aynı sahiplikte birden fazla laboratuvar açılması halinde her bir laboratuva
 
 O ilde ruhsat alan laboratuvarların kayıtları müdürlükçe tutulur.”
 
-MADDE 5 ‒ Aynı Yönetmeliğin 12 nci maddesinin ikinci fıkrasına aşağıdaki bentler eklenmiştir.
+**MADDE 5 –** Aynı Yönetmeliğin 12 nci maddesinin ikinci fıkrasına aşağıdaki bentler eklenmiştir.
 
 “e) Ek-10’daki Diş Protez Laboratuvarı Çalışanları Değerlendirme Formunu doldurmak.
 
@@ -192,7 +196,7 @@ MADDE 6 ‒ Aynı Yönetmeliğe aşağıdaki ek madde eklenmiştir.
 
 “Yardımcı personel çalıştırılması
 
-EK MADDE 1 ‒ Diş protez laboratuvarlarında diş protez teknisyenlerine aşağıda belirlenen işlerde yardımcı olmak üzere Sağlık ve Millî Eğitim Bakanlıkları arasında düzenlenecek Diş Protez Laboratuvarlarında Çalışan Yardımcı Personelin Sertifika Eğitimi İş Birliği Protokolü kapsamında verilecek eğitim sonunda düzenlenecek sertifikaya sahip personel çalıştırılabilir.
+EK **MADDE 1 –** Diş protez laboratuvarlarında diş protez teknisyenlerine aşağıda belirlenen işlerde yardımcı olmak üzere Sağlık ve Millî Eğitim Bakanlıkları arasında düzenlenecek Diş Protez Laboratuvarlarında Çalışan Yardımcı Personelin Sertifika Eğitimi İş Birliği Protokolü kapsamında verilecek eğitim sonunda düzenlenecek sertifikaya sahip personel çalıştırılabilir.
 
 İş birliği protokolünde; eğitime alınacak adaylardan istenilecek belgeler, eğitimin süresi, eğitim merkezleri ve eğitime ilişkin diğer hususlar belirlenir. Eğitim başvuru ilanı Millî Eğitim Bakanlığı resmî internet sitesinde yapılır.
 
@@ -276,31 +280,31 @@ MADDE 9 ‒ Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
 Ek:2
 
-### T.C. . . . . . . . . . . . . VALĠLĠĞĠ ....................... ĠL SAĞLIK MÜDÜRLÜĞÜ ÖZEL . . . . (Bu Kısma Laboratuvarın Adı Yazılacak) . . . . DĠġ PROTEZ LABORATUVARI RUHSAT BELGESĠ
+### T.C. . . . . . . . . . . . . VALİLİĞİ ....................... İL SAĞLIK MÜDÜRLÜĞÜ ÖZEL . . . . (Bu Kısma Laboratuvarın Adı Yazılacak) . . . . Dİş PROTEZ LABORATUVARI RUHSAT BELGESİ
 
 . . . / . . . / . . .
 
 No:
 
-………..(Laboratuvar Sahibinin Adı Yazılacak-ġirket-ġahıs)… sahipliğinde …………(Bu Kısma Laboratuvarın Adresi Yazılacak)…...……………………...……….. adresinde faaliyet göstermek isteyen ……(Bu Kısma Laboratuvarın Türü Yazılacak, Çok Amaçlı ise hangi türlerden oluĢtuğu da belirtilecek) ………….. DiĢ Protez Laboratuvarının …………... tarihli ve …………. sayılı Resmî Gazete’de yayımlanan DiĢ Protez Laboratuvarları Yönetmeliği doğrultusunda ruhsatlandırılması uygun görülmüĢtür.
+………..(Laboratuvar Sahibinin Adı Yazılacak-şirket-şahıs)… sahipliğinde …………(Bu Kısma Laboratuvarın Adresi Yazılacak)…...……………………...……….. adresinde faaliyet göstermek isteyen ……(Bu Kısma Laboratuvarın Türü Yazılacak, Çok Amaçlı ise hangi türlerden oluŞtuğu da belirtilecek) ………….. DiŞ Protez Laboratuvarının …………... tarihli ve …………. sayılı Resmî Gazete’de yayımlanan DiŞ Protez Laboratuvarları Yönetmeliği doğrultusunda ruhsatlandırılması uygun görülmüŞtür.
 
-### SAĞLIK MÜDÜRÜ VALĠ
+### SAĞLIK MÜDÜRÜ VALİ
 
 Ek:4 Belge No: Tarih:...../......./.........
 
-### . . . . . . . . . . . . . . . . . . . . . . . . . . . . DĠġ PROTEZ LABORATUVARI PERSONEL ÇALIġMA BELGESĠ ADI, SOYADI : UNVANI GÖREVĠ : BABA ADI :
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . Dİş PROTEZ LABORATUVARI PERSONEL ÇALIşMA BELGESİ ADI, SOYADI : UNVANI GÖREVİ : BABA ADI :
 
-DOĞUM YERĠ / TARĠHĠ ( Ay -gün) :
+DOĞUM YERİ / TARİHİ ( Ay -gün) :
 
 ### MEZUN OLDUĞU OKUL :
 
-□ DiĢhekimliği □ D.P.T. Yüksek □ Sağlık Meslek
+□ DiŞhekimliği □ D.P.T. Yüksek □ Sağlık Meslek
 
 ### Fakültesi Okulu Lisesi
 
 Mezuniyet Tarihi : Diploma No :
 
-### SAĞLIK BAKANLIĞI DĠġ PROTEZ TEKNĠSYENLĠĞĠ MESLEK BELGESĠNĠN
+### SAĞLIK BAKANLIĞI Dİş PROTEZ TEKNİSYENLİĞİ MESLEK BELGESİNİN
 
 Tescil Tarih / No : Kütük Sayfa No :
 
@@ -308,19 +312,19 @@ Tescil Tarih / No : Kütük Sayfa No :
 
 ADI :
 
-### ADRESĠ :
+### ADRESİ :
 
-Yukarıda açık kimliği yazılı olan DiĢ Hekiminin / DiĢ Protez Teknisyeninin /Yardımcı Personelin ........................................................... DiĢ Protez Laboratuvarında mesleğini icra etmesi, Ġl Sağlık Müdürlüğünce uygun görülmüĢtür.
+Yukarıda açık kimliği yazılı olan DiŞ Hekiminin / DiŞ Protez Teknisyeninin /Yardımcı Personelin ........................................................... DiŞ Protez Laboratuvarında mesleğini icra etmesi, İl Sağlık Müdürlüğünce uygun görülmüŞtür.
 
-Bu belge ..... /...... / ....... tarihli ve ......... sayılı Resmî Gazete'de yayımlanan DiĢ Protez Laboratuvarları Yönetmeliği hükümlerine göre düzenlenmiĢtir.
+Bu belge ..... /...... / ....... tarihli ve ......... sayılı Resmî Gazete'de yayımlanan DiŞ Protez Laboratuvarları Yönetmeliği hükümlerine göre düzenlenmiŞtir.
 
 Düzenleyen Onaylayan
 
 Mesul Müdür Sağlık Müdürlüğü
 
-Ġmza ve Tarih Ġmza ve Tarih Ek :7
+İmza ve Tarih İmza ve Tarih Ek :7
 
-### T.C ........................... VALĠLĠĞĠ ĠL SAĞLIK MÜDÜRLÜĞÜ DĠġ PROTEZ LABORATUVARLARI DENETLEME FORMU
+### T.C ........................... VALİLİĞİ İL SAĞLIK MÜDÜRLÜĞÜ Dİş PROTEZ LABORATUVARLARI DENETLEME FORMU
 
 Laboratuvarın Adı : Tarih : . . / . . / . . . . Türü : Saat : Adresi :
 
@@ -328,19 +332,19 @@ Mevzuata Mevzuata Noksanın Noksanın
 
 Uygun Uygun Giderilmesi Devamında
 
-Mevzuat ile Öngörülen Düzenleme Değil Ġçin Faaliyet Durdurma
+Mevzuat ile Öngörülen Düzenleme Değil İçin Faaliyet Durdurma
 
 Verilecek Süresi
 
-Süre 1 Mesul Müdürlük Belgesi var mı? Var Yok - Süresiz 2 Mesul Müdür görevinin baĢında mı? Evet Hayır - 2 Gün
+Süre 1 Mesul Müdürlük Belgesi var mı? Var Yok - Süresiz 2 Mesul Müdür görevinin baŞında mı? Evet Hayır - 2 Gün
 
-Laboratuvarda çalıĢan tüm sağlık personelinin ve diğer 3 personelin çalıĢma izni var mı? (görünür bir yerde asılı Var Yok 5 Gün 5 Gün
+Laboratuvarda çalıŞan tüm sağlık personelinin ve diğer 3 personelin çalıŞma izni var mı? (görünür bir yerde asılı Var Yok 5 Gün 5 Gün
 
-olacaktır) 4 ÇalıĢanlar yetkili olduğu iĢlerde mi çalıĢıyor? Evet Hayır - 5 Gün
+olacaktır) 4 ÇalıŞanlar yetkili olduğu iŞlerde mi çalıŞıyor? Evet Hayır - 5 Gün
 
 Laboratuvar birimlerine göre asgari cihaz, araç, gereç ve 5 Var Yok 1 Ay 7 Gün
 
-ürünler bulunduruyor mu? 6 Kumlama cihazı çalıĢırken ortama kum yayılıyor mu? Hayır Evet 1 Ay 7 Gün
+ürünler bulunduruyor mu? 6 Kumlama cihazı çalıŞırken ortama kum yayılıyor mu? Hayır Evet 1 Ay 7 Gün
 
 Masalarda bulunan vakum cihazı tozları (metal, 7 Evet Hayır 1 Ay 7 Gün
 
@@ -364,25 +368,25 @@ Laboratuvar fiziki bölüm birim ve odaların nitelikleri 12 Evet Hayır 1 Ay 5 
 
 mevzuata uygun mu?
 
-Laboratuvarın bünyesinde kuruluĢ hizmetleri ile 13 Yok Var 7 Gün 7 Gün
+Laboratuvarın bünyesinde kuruluŞ hizmetleri ile 13 Yok Var 7 Gün 7 Gün
 
-bağdaĢmayacak birim var mı?
+bağdaŞmayacak birim var mı?
 
-Laboratuvarın isim ve unvanının yazılı olduğu dıĢ tabela 14 Evet Hayır 1 Ay 5 Gün
+Laboratuvarın isim ve unvanının yazılı olduğu dıŞ tabela 14 Evet Hayır 1 Ay 5 Gün
 
 faaliyet alanına uygun mu?
 
-KuruluĢta protokol defteri kayıtları düzenli tutuluyor 15 Evet Hayır 1 Ay 5 Gün
+KuruluŞta protokol defteri kayıtları düzenli tutuluyor 15 Evet Hayır 1 Ay 5 Gün
 
 mu? 16 Denetim defteri var mı? Var Yok 5 gün 7 Gün 17 Laboratuvarda kıyafet düzenine uyuluyor mu? Evet Hayır 10 Gün 5 Gün
 
-Laboratuvarın hijyenik koĢulları sağlık hizmeti 18 Evet Hayır - 15 Gün
+Laboratuvarın hijyenik koŞulları sağlık hizmeti 18 Evet Hayır - 15 Gün
 
 sunulmasına uygun mu?
 
 Laboratuvarda hekimliği klinik hizmetleri veriliyor mu 19 veya bu hizmetlerde kullanılan tıbbi cihaz, araç ve Hayır Evet - Ruhsat iptali
 
-gereç bulunduruluyor mu ? Genel Değerlendirme: Denetim Ekip BaĢkanı Denetim Denetim Denetim Mesul Müdür
+gereç bulunduruluyor mu ? Genel Değerlendirme: Denetim Ekip BaŞkanı Denetim Denetim Denetim Mesul Müdür
 
 ### Görevlisi Görevlisi Görevlisi
 
@@ -390,33 +394,33 @@ Adı Soyadı Adı Soyadı Adı Soyadı Adı Soyadı Adı Soyadı
 
 Görevi Görevi Görevi Görevi Görevi
 
-Ġmza Ġmza Ġmza Ġmza Ġmza NOT: Bu formda saptanan eksiklikleri Denetim Defterine yazınız. Aynı eksikliğin kapatma süresi sonunda da devamı halinde ruhsat iptal iĢlemi uygulanır. EK : 8
+İmza İmza İmza İmza İmza NOT: Bu formda saptanan eksiklikleri Denetim Defterine yazınız. Aynı eksikliğin kapatma süresi sonunda da devamı halinde ruhsat iptal iŞlemi uygulanır. EK : 8
 
-### DĠġ PROTEZ LABORATUVARI RUHSAT BAġVURU DOSYASI ĠL DEĞERLENDĠRME CETVELĠ LABORATUVARIN
+### Dİş PROTEZ LABORATUVARI RUHSAT BAşVURU DOSYASI İL DEĞERLENDİRME CETVELİ LABORATUVARIN
 
 ADI :
 
-### TÜRÜ : ADRESĠ : DĠLEKÇE □ VAR □ YOK YERLEġĠM PLANI □ VAR □ YOK ĠTFAĠYE BELGESĠ □ VAR □ YOK ARAÇ GEREÇ LĠSTESĠ □ VAR □ YOK MESUL MÜDÜRÜN DĠPLOMA VEYA MESLEK BELGESĠ ÖRNEĞĠ □ VAR □ YOK
+### TÜRÜ : ADRESİ : DİLEKÇE □ VAR □ YOK YERLEşİM PLANI □ VAR □ YOK İTFAİYE BELGESİ □ VAR □ YOK ARAÇ GEREÇ LİSTESİ □ VAR □ YOK MESUL MÜDÜRÜN DİPLOMA VEYA MESLEK BELGESİ ÖRNEĞİ □ VAR □ YOK
 
 (Sağlık Müdürlüğünce Aslı Görüldü Onaylı)
 
-### SAĞLIK RAPORU □ VAR □ YOK 4 ADET RENKLĠ VESĠKALIK RESĠM □ VAR □ YOK
+### SAĞLIK RAPORU □ VAR □ YOK 4 ADET RENKLİ VESİKALIK RESİM □ VAR □ YOK
 
-( Mesul Müdürlük Belgesi Ġçin )
+( Mesul Müdürlük Belgesi İçin )
 
-### AĞIR VE TEHLİKELİ İŞLERDE ÇALIŞACAKLARA AİT İŞE □ VAR □ YOK GİRİŞ/PERİYODİK MUAYENE FORMU BÜYÜK BOY AKCĠĞER FĠLMLERĠ □ VAR □ YOK DĠġ PROTEZ HĠZMETLERĠNDE ÇALIġAN DĠĞER PERSONEL DĠPLOMA VEYA MESLEK BELGESĠ ÖRNEĞĠ □ VAR □ YOK
+### AĞIR VE TEHLİKELİ İŞLERDE ÇALIŞACAKLARA AİT İŞE □ VAR □ YOK GİRİŞ/PERİYODİK MUAYENE FORMU BÜYÜK BOY AKCİĞER FİLMLERİ □ VAR □ YOK Dİş PROTEZ HİZMETLERİNDE ÇALIşAN DİĞER PERSONEL DİPLOMA VEYA MESLEK BELGESİ ÖRNEĞİ □ VAR □ YOK
 
 (Sağlık Müdürlüğünce Aslı Görüldü Onaylı)
 
 ### SAĞLIK RAPORU □ VAR □ YOK
 
-### 4 ADET RENKLĠ VESĠKALIK RESĠM □ VAR □ YOK
+### 4 ADET RENKLİ VESİKALIK RESİM □ VAR □ YOK
 
-( Personel ÇalıĢma Belgesi Ġçin )
+( Personel ÇalıŞma Belgesi İçin )
 
-### AĞIR VE TEHLİKELİ İŞLERDE ÇALIŞACAKLARA AİT İŞE □ VAR □ YOK GİRİŞ/PERİYODİK MUAYENE FORMU BÜYÜK BOY AKCĠĞER FĠLMLERĠ □ VAR □ YOK ĠNCELENDĠ ĠNCELENDĠ ĠNCELENDĠ ĠNCELENDĠ ĠNCELENDĠ
+### AĞIR VE TEHLİKELİ İŞLERDE ÇALIŞACAKLARA AİT İŞE □ VAR □ YOK GİRİŞ/PERİYODİK MUAYENE FORMU BÜYÜK BOY AKCİĞER FİLMLERİ □ VAR □ YOK İNCELENDİ İNCELENDİ İNCELENDİ İNCELENDİ İNCELENDİ
 
-Ġsim Ġsim Ġsim Ġsim Ġsim Ġmza Ġmza Ġmza Ġmza Ġmza NOT: Ġl denetim ekibince, baĢvuru dosyasında bulunması gereken yukarıda yazılı belgelerin eksiksiz tanzim edildiğine dair bu belge imzalanır Ek:10
+İsim İsim İsim İsim İsim İmza İmza İmza İmza İmza NOT: İl denetim ekibince, baŞvuru dosyasında bulunması gereken yukarıda yazılı belgelerin eksiksiz tanzim edildiğine dair bu belge imzalanır Ek:10
 
 ### T.C. ……….. VALİLİĞİ İl Sağlık Müdürlüğü Diş Protez Laboratuvarı Çalışanları Değerlendirme Formu
 

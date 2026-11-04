@@ -7,11 +7,15 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-38096/tedarik-paylasim-platformu-genelgesi-201818.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+sayi: "2018/18"
+tarih: "2018-06-04"
+konu: "Tedarik Paylaşım Platformunun kullanıcılarını ve ilaç ve tıbbi sarf malzemelerinin iller arasında paylaşım usulünü düzenler."
 ---
 
-## KAMU HASTANELERI GENEL MÜDÜRLÜGÜ - TEDARIK PLANLAMA, STOK VE LOJISTIK YONETIMI DAIRESI T.C BAŞKANLIGI SAĞLIK BAKANLIĞI 04/06/2018 14:05 - 80981279 - 809.99 - E.99-596 Kamu Hastaneleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
 
-00070412173 TC. Sağlık Bakanlığı Sayı : 80981279 Konu : Tedarik Paylaşım Platformu.
+Kamu Hastaneleri Genel Müdürlüğü Sayı : 80981279 Konu : Tedarik Paylaşım Platformu.
 
 ### GENELGE (2018/18)
 
@@ -19,13 +23,13 @@ Bakanlığımız bünyesinde tasarrufu ve kesintisiz sağlık hizmeti sunumu ilk
 
 Söz konusu sistem ile gerçekleşmiş avantajlı ihale fiyatlarıyla alınan ürünlerin iş eksilişine konu edilmeden önce paylaşıma sunulması sonucu iç imkanlarla bir başka ilin ihtiyacı karşılanmaktadır. Bu amaçla illerin mevcut ihalelerinden iş eksilişi yapmadan önce medikal depo kapsamında yer alan ilaç ve tıbbi sarf ile ilgili kalemleri bu sistem üzerinden ilan etmesi ve ihtiyacı olan illere devrinin sağlanması 2017 yılı itibariyle zorunlu hale getirilmiştir.
 
-Ayrıca bu sistem sayesinde ihalelerinde uygun fiyatlı ürün temin eden iller iş artış miktarlarını özellikle mücbir sebeplerle alım yapamayan, bölgesel lojistik sorunlar nedeniyle tedarikte sıkıntı yaşayan sağlık tesislerinin ilaç ve tıbbi sarf ihtiyaçlarının karşılanması için paylaşıma sunmaktadır. Bu amaçla ilaç ve tıbbi sarf alımlarını gerçekleştiremeyen ve tedarikte sorun yaşayan illerimizin sebep ve gerekçelerini ilgili Daire Başkanlığına resmi yazı ile bildirmeleri gerekmektedir. Yapılacak değerlendirme sonucunda gerekçesi uygun bulunan illere birim derecelendirme işlemi uygulanarak, malzeme taleplerinde devir edecek iller tarafından öncelik tanınacaktır. Devir işlemlerinde birim fiyat ve kargo maliyetleri göz önünde bulundurulmalıdır.
+Ayrıca bu sistem sayesinde ihalelerinde uygun fiyatlı ürün temin eden iller iş artış miktarlarını özellikle mücbir sebeplerle alım yapamayan, bölgesel lojistik sorunlar nedeniyle tedarikte sıkıntı yaşayan sağlık tesislerinin ilaç ve tıbbi sarf ihtiyaçlarının karşılanması için paylaşıma sunmaktadır. Bu amaçla ilaç ve tıbbi sarf alımlarını gerçekleştiremeyen ve tedarikte sorun yaşayan illerimizin sebep ve gerekçelerini ilgili Daire Başkanlığına resmî yazı ile bildirmeleri gerekmektedir. Yapılacak değerlendirme sonucunda gerekçesi uygun bulunan illere birim derecelendirme işlemi uygulanarak, malzeme taleplerinde devredecek iller tarafından öncelik tanınacaktır. Devir işlemlerinde birim fiyat ve kargo maliyetleri göz önünde bulundurulmalıdır.
 
-Bilindiği üzere, 694 sayılı KHK ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'de değişikliğe gidilerek Bakanlık ve bağlı kuruluşlarının merkez ve taşra teşkilatı yeniden yapılandırılmıştır. Bu kapsamda belirlenecek Il Sağlık Müdürlüklerinde kurulan Tedarik Paylaşım Birimleri tarafindan temin edilen ürünlerin sistem üzerinden paylaşılması planlanmaktadır.
+Bilindiği üzere, 694 sayılı KHK ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'de değişikliğe gidilerek Bakanlık ve bağlı kuruluşlarının merkez ve taşra teşkilatı yeniden yapılandırılmıştır. Bu kapsamda belirlenecek İl Sağlık Müdürlüklerinde kurulan Tedarik Paylaşım Birimleri tarafından temin edilen ürünlerin sistem üzerinden paylaşılması planlanmaktadır.
 
-Bu doğrultuda daha önce yayımlanan resmi yazılar ile başlatılan uygulamaların Bakanlık teşkilatının yeni yetki ve görev dağılımları ile işleyiş açısından değerlendirilmesi ve işbu genelge ile yeniden düzenlenmesi ihtiyacı hasıl olmuştur.
+Bu doğrultuda daha önce yayımlanan resmî yazılar ile başlatılan uygulamaların Bakanlık teşkilatının yeni yetki ve görev dağılımları ile işleyiş açısından değerlendirilmesi ve işbu genelge ile yeniden düzenlenmesi ihtiyacı hâsıl olmuştur.
 
-### A) PLATFORM KULLANICI TANIMLARI
+### A) Platform Kullanıcı Tanımları
 
 1. Sağlık Profesyoneli (Hekimler ve Tüm Sağlık Çalışanları)
 
@@ -109,7 +113,7 @@ d) Söz konusu belge, evrak olarak dosyalanmalı ve Sağlık Tesisleri Yerinde D
 
 a) Il öncelik sırası, bildirilen mücbir sebep ve gerekçelere istinaden ilgili Daire Başkanlığı
 
-tarafindan belirlenir.
+tarafından belirlenir.
 
 b) Paylaşımda bulunan uzman/sorumlu kendisine gelen talepleri birim derecelendirme öncelik
 

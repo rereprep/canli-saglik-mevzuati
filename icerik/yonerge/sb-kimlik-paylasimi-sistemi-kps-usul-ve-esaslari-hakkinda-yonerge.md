@@ -8,21 +8,26 @@ etiketler: ["kps", "kimlik paylaşımı", "nüfus verisi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 389-393"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-4.2.5. Kimlik Paylaşımı Sistemi (KPS) Usul ve Esasları Hakkında Yönerge Kimlik Paylaşirmı Sisterni Usul ve Esasları Hakkında Yönerge
+4.2.5. Kimlik Paylaşımı Sistemi (KPS) Usul ve Esasları Hakkında Yönerge 
 
-## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+## BİRİNCİ BÖLÜM
+
+#### Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç ve kapsam
 
-**MADDE 1 –** (1) Bu Yönergenın amacı; MERNIS veri tabanında yer alan ve ilgıl mevzuat uyarınca İçişleri Bakanlığı tarafından Sağhk Bakanlığı ide paylaşılan bilgilerin, Kimlik Paylaşını Sistemi üzerinden Bakanlık ve bağh kuruluşlan bünvesinde faaliyet gösteren sağlık hizmeti sunucularna kullandır/masma ilun usul ve esastan düzenlemektir.
+**MADDE 1 –** (1) Bu Yönergenin amacı; MERNIS veri tabanında yer alan ve ilgili mevzuat uyarınca İçişleri Bakanlığı tarafından Sağlık Bakanlığı ile paylaşılan bilgilerin, Kimlik Paylaşını Sistemi üzerinden Bakanlık ve bağlı kuruluşları bünyesinde faaliyet gösteren sağlık hizmeti sunucularna kullandırılmasına ilişkin usul ve esasları düzenlemektir.
 
-**MADDE 2 –** (1) Bu Yonerge: 25/04/2006 tarihli ve 5490 sayılı Nufus Hizmetleri Karununa, 16/11/2000 tarihli Kimlik Paylaşunu Sistemi Yonetmeliğine ve bu Yonetmelik uyaruca Sağhk Bakarlığı ile Içişleri Bakanlığı arasında imzalanan Ikili Anlaşmaya dayanılarak hazırlanmıştu. Tanmlar
+**MADDE 2 –** (1) Bu Yönerge, 25/04/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununa, 16/11/2000 tarihli Kimlik Paylaşımı Sistemi Yönetmeliğine ve bu Yönetmelik uyarınca Sağhk Bakarlığı ile Içişleri Bakanlığı arasında imzalanan Ikili Anlaşmaya dayanılarak hazırlanmıştır.
 
-**MADDE 3 –** (1) Bu Yonergede geçen;
+#### Tanımlar
 
-a) Anlaşma: T.C. İçişleri Bakanlığ Nüfus ve Vatandaşhk Işleri Genel Müdürlüğu ile T.C
+**MADDE 3 –** (1) Bu Yönergede geçen;
+
+a) Anlaşma: T.C. İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlüğu ile T.C
 
 Sağlık Bakanlığı arasında imzalanan Ikili Anlaşmayı,
 
@@ -36,13 +41,13 @@ erişimine açmak ile görevli ve yetkili olan kullanıcıyı,
 
 c) Bakanlık: T.C. Sağlık Bakanlığma,
 
-c) Genel Mudurluk: Saglik Bilgi Sistemleri Genel Mudurlugunu,
+c) Genel Müdürlük: Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
 
 d) IP adresi: Belirli bir ağa baglı cihazlarım birbirini taramak, birbirleriyle iletişim kurmak ve
 
 veri alıverişinde balunmak için kullandiklan internet Protokolu standartlarma gore verilen
 
-e) Idari kullanes: Bakanlik nezdinde Kimlik Paylaşamu Sistemi ile ilgili iş ve işlemleri
+e) İdari kullanıcı: Bakanlik nezdinde Kimlik Paylaşamu Sistemi ile ilgili iş ve işlemleri
 
 yürütmeye yetkili olan kullaneryı.
 

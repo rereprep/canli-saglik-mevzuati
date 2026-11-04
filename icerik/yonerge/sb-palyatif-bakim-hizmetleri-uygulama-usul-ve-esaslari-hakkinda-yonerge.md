@@ -8,43 +8,41 @@ etiketler: ["palyatif bakım", "yaşam sonu bakım", "sağlık tesisleri"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 68-74"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.2.8. Palyatif Bakım Hizmetleri Uygulama Usul ve Esasları Hakkında Yönerge
 
-### T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürluğu
+### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
-та перли шипитері
 
-### Sayı : 15722819/840- SAÖLIK HİZMETLERI GENEL MÜDÜRLCÓO -
 
-Konu: Yönergenin Yürürluğe Konulması SAÖLIK HİZMET STANDARTLARI DAIRE
+Sayı: 15722819/840-[?]
 
-### BAŞKANLIOI
+Konu: Yönergenin Yürürlüğe Konulması
 
-07/07/2013 11:11 / 8151
-
-0061174412
+07/07/2013 [?]
 
 ### BAKANLIK MAKAMINA
 
-Ekte sunulan, Palyatif Bakim Hizmetlerinin Uygulama Usul Ve Esasları Hakkında Yönerge'nin onaylanarak yürürlüğe konulmasını,
+Ekte sunulan, Palyatif Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkında Yönerge'nin onaylanarak yürürlüğe konulmasını,
 
 takdir ve tensiplerinize arz ederim.
 
-Prot. Dr. Dogan UNAL
+Prof. Dr. Doğan ÜNAL
 
 Genel Müdür V. Ek: Yönerge ve Ekleri ( 8 sayfa)
 
-sean Uygun görüşle arz ederim.
+Uygun görüşle arz ederim.
 
-....../....../2015 Prof. Dr. Irfan ŞENCAN
+....../....../2015 Prof. Dr. İrfan ŞENCAN
 
-Müsteşar YardımcıSı Uygun görüşle arz ederim.
+Müsteşar Yardımcısı Uygun görüşle arz ederim.
 
 ..../....../2015
 
-Prof. Dr. Eyüp GUMUŞ Nigstesar
+Prof. Dr. Eyüp GÜMÜŞ
+Müsteşar
 
 ### ....../2015 Dr. Mehmet MÜEZZİNOĞLU Bakan
 

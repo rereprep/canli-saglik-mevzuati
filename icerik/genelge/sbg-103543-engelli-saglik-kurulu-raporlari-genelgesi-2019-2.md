@@ -7,20 +7,18 @@ birim: "Kamu Hastaneleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103543/engelli-saglik-kurulu-raporlari-genelgesi-20192.html"
 durum: "yürürlükte"
+konu: "Engelli Sağlık Kurulu Raporları Genelgesi (2019/2) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 7.3.4. Engelli Sağlık Kurulu Raporları Genelgesi (2019/2)
 
-### KAMU HASTANELERI GENEL MÜDÜRLÜGÜ - HASTA, BASKANLIGI ÇALIŞAN HAKLARI VE GUVENLIGI DAIRESI
-
 18/01/2019 11-16 - 87307621 - 402 03 02 - 129
 
-### T.C. SAGLIK BAKANLIĞI
+Kamu Hastaneleri Genel Müdürlüğü 00085492070 TC Sağlık Bakanlıg Sayı : 87307621-402 Konu: Engelli Sağlık Kurulu Raporları
 
-Kamu Hastaneleri Genel Müdürlüğü 00085492070 TC Sağhk Bakanlıg Sayı : 87307621-402 Konu : Engelli Sağlık Kurulu Raporları
-
-### GENELGE 2019/:2
+ GENELGE 2019/2
 
 Ilgi: 04.12.2017 tarihli ve 1613 sayılı Genelge.
 
@@ -52,13 +50,11 @@ Bakan a.
 
 Bakan Yardımcısı
 
-### T.C. SAĞLIK BAKANLIĞI
-
 TC. Sağlık Bakanağı Kamu Hastaneleri Genel Müdürlüğü
 
-### DAĞITIM:
+DAĞITIM:
 
-Gereği: Bilgi: 81 1l Valiliği (Il Sağlık Müdürlüğü) Aile Çalışma ve Sosyal Hizmetler Bakanlığı
+Gereği: Bilgi: 81 1l Valiliği (İl Sağlık Müdürlüğü) Aile Çalışma ve Sosyal Hizmetler Bakanlığı
 
 Sağlık Hizmetleri Genel Müdürlüğü
 

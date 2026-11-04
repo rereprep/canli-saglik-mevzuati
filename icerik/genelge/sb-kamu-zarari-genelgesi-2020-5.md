@@ -9,29 +9,28 @@ etiketler: ["mali hizmetler", "kamu zararı", "alacak takibi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1079-1083"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-11.3.2. Kamu Zararı Genelgesi (2020/5)
+### T.C. SAGLIK BAKANLIĞI Statel Gelisimne Baskanliğt
 
-### T.C. SAGLIK BAKANLIGI Statel Gelisimne Baskanliğt
+Sayı: 43553240-010.06.01
 
-Say: : 43553240-010.06.01 Konu : Kamu Zararı ilgilendirenler sorguya konu merkez hizmet birimine, taşrayı ilgilendirenler ise ilgili Valiliğe (II Sağhk Madürlüğüne) Yönetmeliğin 7/B maddesine göre işlem tesis edilmesi amacıyla Strateji Geliştirme Başkanlığınca gönderilir.
+Konu: Kamu Zararı ilgilendirenler sorguya konu merkez hizmet birimine, taşrayı ilgilendirenler ise ilgili Valiliğe (II Sağhk Müdürlüğüne) Yönetmeliğin 7/B maddesine göre işlem tesis edilmesi amacıyla Strateji Geliştirme Başkanlığınca gönderilir.
 
-Kamu zararlanna ilişkin sorgulanın, Sayıştay ilåmı ile kesin hükme bağlanması halinde alacağın takibi bu Genelgenin 1 inci maddesinde yazılı takibe yetkili yerlerce yerine getirilecektir.
+Kamu zararlanna ilişkin sorgulanın, Sayıştay ilamı ile kesin hükme bağlanması halinde alacağın takibi bu Genelgenin 1 inci maddesinde yazılı takibe yetkili yerlerce yerine getirilecektir.
 
-Takibi yapılan Sayıştay ilamı ile kesin hükme bağlanmış kamu zararlarından nakden veya mahsuben yapılan tahsilat ile terkin, tenzil ve kaldırma işlemlerine ilişkin belgeler, 17/12/2011 tarihli ve 28145 sayılı Resmi Gazetede yayımlanan Sayıştay Başsavcılığı Çalışma Yönetmeliğinin "Namları infazım izlemesi" başlıklı 9 uncu maddesine göre Sayıştay Başkanlığına, Genelgenin 1 inci maddesinde yazılı takibe yetkili yerlerce gönderikeoaktir.
+Takibi yapılan Sayıştay ilamı ile kesin hükme bağlanmış kamu zararlarından nakden veya mahsuben yapılan tahsilat ile terkin, tenzil ve kaldırma işlemlerine ilişkin belgeler, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazetede yayımlanan Sayıştay Başsavcılığı Çalışma Yönetmeliğinin "Namları infazım izlemesi" başlıklı 9 uncu maddesine göre Sayıştay Başkanlığına, Genelgenin 1 inci maddesinde yazılı takibe yetkili yerlerce gönderilecektir.
 
-4 Mahkemeler tarafından 5018 sayılı Kama Mali Yönetimi ve Kontrol Kanuna 71 inci maddesi kapsamına girdigi tespit edilerek kamu zaranı olduğuna hükmedilen kararların Bakanlığımız markez ve/veya taşra teşkilatına tebliğini müteakiben alacak, idareyi temsile yetkili hukuk birimi tarafından takip ve tahsil edilir. Idareyi temsile yetkili hukuk birimi tarafindan mahkeme kararıma ve yapılan tahsilata ilişkin olarak ilgisine göre 1 inci maddede yazılı takibe yetkıli yerlere bılgi verilir ve işlemlere ilışkin muhasebe kayıtlarıun yaptırılması sağlanır.
+4 Mahkemeler tarafından 5018 sayılı Kama Mali Yönetimi ve Kontrol Kanuna 71 inci maddesi kapsamına girdigi tespit edilerek kamu zaranı olduğuna hükmedilen kararların Bakanlığımız merkez ve/veya taşra teşkilatına tebliğini müteakiben alacak, idareyi temsile yetkili hukuk birimi tarafından takip ve tahsil edilir. İdareyi temsile yetkili hukuk birimi tarafindan mahkeme kararıma ve yapılan tahsilata ilişkin olarak ilgisine göre 1 inci maddede yazılı takibe yetkıli yerlere bılgi verilir ve işlemlere ilışkin muhasebe kayıtlarıun yaptırılması sağlanır.
 
-5) Teşa teşkilatında, Yönetmeliğin 7/A meddesinin 1 inci fikrasına göre Il Sağlık Mudürünun degerlendirmesi sonucu takip ve tahsil edilmesi gerektiği değerlendirilmiş kamu zararlanı, 7/B maddesı hükmüne göre Sayıştay ilamı te kesın hükme bağlanmış kamu zararları ıle 7/C maddesine göre yargılama suretiyle tespit edilen ve Ilçe Sağlık Müdürlüğünde, Hastaneler ile Ağız ve Diş Sağhğı Merkezlerinde takip ve tahsil işlemleri gerçekleştirilen kamu zararları ayrıca Il Sağlık Müdürlüğündeki destek hizmetlerine ilişkin görev, yetki ve sorumluluklann yerine getirildiği Başkanlık turafindan Il düzeyinde izleme ve değerlendirme yapılması amacıyla konsolide edilerek takip edilecektir.
+5) Teşa teşkilatında, Yönetmeliğin 7/A meddesinin 1 inci fikrasına göre İl Sağlık Mudürünun degerlendirmesi sonucu takip ve tahsil edilmesi gerektiği değerlendirilmiş kamu zararlanı, 7/B maddesı hükmüne göre Sayıştay ilamı te kesın hükme bağlanmış kamu zararları ıle 7/C maddesine göre yargılama suretiyle tespit edilen ve İlçe Sağlık Müdürlüğünde, Hastaneler ile Ağız ve Diş Sağhğı Merkezlerinde takip ve tahsil işlemleri gerçekleştirilen kamu zararları ayrıca İl Sağlık Müdürlüğündeki destek hizmetlerine ilişkin görev, yetki ve sorumluluklann yerine getirildiği Başkanlık turafindan Il düzeyinde izleme ve değerlendirme yapılması amacıyla konsolide edilerek takip edilecektir.
 
-6) Denetime yetkili mercilerce merkez teşkilatında yapılan kontrol, denetim veya inceleme sonucunda hazırlanan tazmin raporları bu merciler tarafindan zarana oluştuğu harcama birimine günderilir. Ilgili merkez harcama birimi ise gönderilen tazmin raporundaki zarara ilişkin hususlar için Yönetmeliğin 7/A maddesi hükümlerine göre değerlendireye tabi tutulmasını sağlayacaktır.
+6) Denetime yetkili mercilerce merkez teşkilatında yapılan kontrol, denetim veya inceleme sonucunda hazırlanan tazmin raporları bu merciler tarafindan zarana oluştuğu harcama birimine günderilir. İlgili merkez harcama birimi ise gönderilen tazmin raporundaki zarara ilişkin hususlar için Yönetmeliğin 7/A maddesi hükümlerine göre değerlendireye tabi tutulmasını sağlayacaktır.
 
 Bağlı olduğu list yönetici tarafindan yapılan değerlendirıe sonucunda, kamu zararının oluştuğuna veya kamu zararı niteliği taşımamakla birlikte takip ve tahsili gereken bir alacak olduğuna karar verilmesi halinde ilgili harcama birimi tarafindan Yönetmeliğin eki Ek-l'de yer alan Değerlendirme Formu ile kamu zararının/alacağın tespitine ilişkin belgeler değerlendirmenin yazılı hale getirildiği tarihten itibaren iki iş günü İçerisinde Strateji Geliştirme Başkanlığına gönderilecektir.
 
 Üst yönetici değerlendirmesine tabi tutulmamuş yazı, tutanak, rapor ve benzeri belgeler ile Üst yönetici değerlendirmesine tabi tutulmakla birlikte üst yönetici tarafından kamu zararının oluşmadığı kanaatine varılarak takip ve tahsili öngörülmeyen değerlendime foru ve eki belgeler Strateji Geliştirme Başkanlığına gönderi meyecektir.
-
-### T.C SAGLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
 Sag) : 43553240-010.06 01 Konu : Kamu Zaran
 
@@ -39,39 +38,35 @@ Sag) : 43553240-010.06 01 Konu : Kamu Zaran
 
 Ancak, Bakanlık merkez teşkilatında görev yapan Genel Müdür/Başkan'a yapılan fazla ve yersiz ödemelere (aylık, ücret, tazminat, ek ödeme, zam ve tazminat, dil tazminan, sosyal yardımlar vb.) yönelik lat yönetici değerlendirmesi Genel Müdür/Başkan'ın doğrudan bağlı olduğu üst yönetici (Bakan/Bakan Yardımcısı) tarafindan yapılacaktır.
 
-8) Bakanlığın denetime yetkili mercilerince taşra teşkiletında yapılen kontrol, denetim veya inceleme sonucunda hazırlanan tazmin raporlar bu mercilerce dogrudan ilgili Valilige (Il Saghk Müdürlüğüne) gönderileocktir. Ancak, Bakanlık dışındaki denetime yetkili mercilerce taşra teşkilatında yapılan kontrol, denetim veya inceleme sonucunda hazırlanarak Bakanlık merkez teşkilatıne intikal ettirilen raporlar Strateji Geliştirme Başkanlığı vasıtasıyla ilgili Valiliğe (Il Saghk Müdüringine) gönderilecektir.
+8) Bakanlığın denetime yetkili mercilerince taşra teşkiletında yapılen kontrol, denetim veya inceleme sonucunda hazırlanan tazmin raporlar bu mercilerce dogrudan ilgili Valilige (İl Sağlık Müdürlüğüne) gönderileocktir. Ancak, Bakanlık dışındaki denetime yetkili mercilerce taşra teşkilatında yapılan kontrol, denetim veya inceleme sonucunda hazırlanarak Bakanlık merkez teşkilatıne intikal ettirilen raporlar Strateji Geliştirme Başkanlığı vasıtasıyla ilgili Valiliğe (İl Sağlık Müdüringine) gönderilecektir.
 
-Genelgenin I inci maddesinde yazılı takibe yetkili yer ise tazmin raporundaki veya rapordaki zarara ilişkin hususlar hakkında Yönetmeliğin 7/A maddesi hükümlerine göce işlem başlatacaktır.
+Genelgenin 1 inci maddesinde yazılı takibe yetkili yer ise tazmin raporundaki veya rapordaki zarara ilişkin hususlar hakkında Yönetmeliğin 7/A maddesi hükümlerine göce işlem başlatacaktır.
 
-9) Merkez ve taşra teskilatı döner sermaye işletmesince gerçekleștirilen mali işlemlerden doğan kamu zararı alacakları ile kamu zaran oluşturmayan ancak takip ve tahsil edilmesi gereken alacaklann takip, tahsil ve benzeri işlemlerinde 01/05/2007 tarih ve 26509 sayılı Resmi Gazetede yayımlanan Döner Sermayeli Işletmeler Bütçe ve Muhasebe Yönetmeliğinin ilgili bükümleri uyga anır.
+9) Merkez ve taşra teskilatı döner sermaye işletmesince gerçekleștirilen mali işlemlerden doğan kamu zararı alacakları ile kamu zaran oluşturmayan ancak takip ve tahsil edilmesi gereken alacaklann takip, tahsil ve benzeri işlemlerinde 01/05/2007 tarih ve 26509 sayılı Resmî Gazetede yayımlanan Döner Sermayeli Işletmeler Bütçe ve Muhasebe Yönetmeliğinin ilgili bükümleri uyga anır.
 
 10) Merkez teşkilatında meydana gelen döner sermaye kaynaklı, kamu zararlanı ile kamu zararının oluşmadığı ancak takip ve tahsil edilmesi gereken bir alacağın oluştuğuna karar verilen alacaklar, Yönetmelik hükümlerine göre kamu zararının/alacağın meydana geldığı harcama birimi tarafindan takip ve tahsil edilecek olup Strateji Geliştirme Başkanlığma gönderilmeyecektir.
 
-11) Sorumlulann ve/veya ilgililerin yazılı taksitlendire talebi üzerine merkez ve taşra teşkilatında taksitlendirme iş ve işlemlerinde yetki ve usül, 659 sayılı Kanun Hükmünde Karamame ile bu Kararname çerçevesinde Bakanlığımız Hukuk Hizmederi Genel Müdürloğünün 07/12/2018 tarihli ve 10093 sayılı Yetki Devri Onayına göre tespit edilerek, yürütülecektir.
+11) Sorumlulann ve/veya ilgililerin yazılı taksitlendirme talebi üzerine merkez ve taşra teşkilatında taksitlendirme iş ve işlemlerinde yetki ve usul, 659 sayılı Kanun Hükmünde Kararname ile bu Kararname çerçevesinde Bakanlığımız Hukuk Hizmetleri Genel Müdürloğünün 07/12/2018 tarihli ve 10093 sayılı Yetki Devri Onayına göre tespit edilerek, yürütülecektir.
 
-Merkez teşkilatındo, sorumluların ve/veya ilgililerin yazılı taksitlendirme talebi üzerine taksitlendirmenin stresini, taksit sayısı ve tutarlan ile ödeme zamanlarımı belirleyen ödeme planı ilgili harcama birimince hazırlanacak ve sorumlulardan ve/veyn ilgililerden taksitlerini ödeme planına uygun ve vadesinde düzenli olarak ödeyeceklerine dair "borç senedi ve kefaletname" alınarak taksitlendirmeye ilişkin tüm belgeler Strateji Geliştirme Başkanlığına güderileccktir
+Merkez teşkilatındo, sorumluların ve/veya ilgililerin yazılı taksitlendirme talebi üzerine taksitlendirmenin süresini, taksit sayısı ve tutarlan ile ödeme zamanlarımı belirleyen ödeme planı ilgili harcama birimince hazırlanacak ve sorumlulardan ve/veyn ilgililerden taksitlerini ödeme planına uygun ve vadesinde düzenli olarak ödeyeceklerine dair "borç senedi ve kefaletname" alınarak taksitlendirmeye ilişkin tüm belgeler Strateji Geliştirme Başkanlığına gönderilecektir
 
-### T.C SAGLIK BAKANLIGI Staleji Geliştirme Başkantg
+### T.C SAGLIK BAKANLIĞI Staleji Geliştirme Başkantg
 
-Sayr : 43553240-010.06.01 Koru • Kamnu Zarari
+Sayr : 43553240-010.06.01 Koru • Kamu Zarari
 
 Taksitlendirme taleplerinde, üst yöneticiye verilen yetkilerin devri hususuna ilişkin güncel yetki devri makam onayı ile belirlenen usûl, esaslar ve parasal sınırlar dahilinde hareket edilmesi gerekmektedir.
 
-12) Yönetmeliğin 21 inci maddesinin 1 inci ve 2 nci fikralarnda belirtilen; zorunlu veya mücbir sebeplerle takip ve tahsil imkåmı kalmayan ya da tahsili için yapılacak takibat giderlerinin asıl alacak tutarından fazle olacağının anlaşılması nedeniyle dava ve icra takibine koru olmayan kamu zararından doğan alacaklardan merkezi yönetim bütçe kanununda gösterilen tutara kadar olanlanın kayıtlardan çıkarılmasına ilişkin ast yönetici yetkisi, Bakanlık taşra teşkilatı iş ve İşlemlerinden kaynaklanan alacaklar bakımından Il Sağlık Müdürüne devredilmiştir. Il Sağlık Müdürü bu yetkisini alt kademelere devredemeyecektir.
+12) Yönetmeliğin 21 inci maddesinin 1 inci ve 2 nci fikralarnda belirtilen; zorunlu veya mücbir sebeplerle takip ve tahsil imkânı kalmayan ya da tahsili için yapılacak takibat giderlerinin asıl alacak tutarından fazla olacağının anlaşılması nedeniyle dava ve icra takibine koru olmayan kamu zararından doğan alacaklardan merkezi yönetim bütçe kanununda gösterilen tutara kadar olanlanın kayıtlardan çıkarılmasına ilişkin üst yönetici yetkisi, Bakanlık taşra teşkilatı iş ve İşlemlerinden kaynaklanan alacaklar bakımından İl Sağlık Müdürüne devredilmiştir. İl Sağlık Müdürü bu yetkisini alt kademelere devredemeyecektir.
 
 Terkin edilen alacaklarla ilgili bilgiler her yılın Ocak ayı sonuna kadar Strateji Geliştirme Başkanlığına yazılı olarak gönderilecektir. İlgili yılda terkin edilen bir alacak yok ise o yıl için bilgi gönderilmeyecektir.
 
-13) Tespit edilen kamu zararlarımın takip ve tahsiline ilişkin iş ve işlemlerde, 5018 sayılı Kamu Mali Yönetimi ve Kontrel Kanunu ve 19/10/2006 tarihli ve 26324 sayılı Resmi Gazetede yayımlanan Karnu Zararların Tahsiline Ilişkin Usul ve Esaslar Hakkında Yönetnxlik
+13) Tespit edilen kamu zararlarımın takip ve tahsiline ilişkin iş ve işlemlerde, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ve 19/10/2006 tarihli ve 26324 sayılı Resmî Gazetede yayımlanan Karnu Zararların Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetnxlik
 
 14) 657 sayılı Devlet Memurları Kanunumın 1 inci maddesinin birinci fikrası kapsamında bulunan kamu idarelerinde görevli memurların, kullanımlarıadaki taşınır ve taşınmazların korunması ve her an hizmete hazır halde bulundurulması için gerekli tedbirleri almamaları nedeniyle Devlete verdikleri zararlar ile kamu hukukuna tabi görevlerle ilgili olarak kişilere verdikleri zararlar hakkında, 657 sayılı Kanunun 13 üncü maddesi uyanınca 27/6/1983 tarihli ve 83/6510 sayıh Bakanlar Kurulu Kararıyla yürürlüğe konulan Devlete ve Kişilere Memurlarca Verilen Zararlann Nevi ve Miktarlarımın Tespiti, Takibi, Amirlerinin Sorumluluklan, Yapılacak Diğer Işlerler Hakkında Yönetmelik hükümleri uygulanacaktır.
 
-5) Kamu karesının yönetım ve kullamımında bulunan taşınırların kaybolması, çahınıması eksilesi veya zarar görmesine sebep olunması hallerinde 28/12/2006 tarihli ve 2005/11545 sayılı Bakanlar Kurulu Karan ile yürürlüğe konulan Taşınır Mal Yönetmeliği hükümlerine göre tespit edilen kamu zararlardan Kamu Zararlarının Tahsiline Ilişkin Usul ve Esaslar Hakkında Yönetmeliğin 2 nci maddenin ikinci fikrası kapsamına girmeyenler, 19/10/2006 tarihli ve 26324 sayıh Resmi Gazetede yayımlanan Kamu Zararlarının Tahsiline Ilişkin Usul ve Esaslar Hakkında Yönetmelik hükümlerine göre tahsil edilecektir.
+5) Kamu karesının yönetım ve kullamımında bulunan taşınırların kaybolması, çahınıması eksilesi veya zarar görmesine sebep olunması hallerinde 28/12/2006 tarihli ve 2005/11545 sayılı Bakanlar Kurulu Karan ile yürürlüğe konulan Taşınır Mal Yönetmeliği hükümlerine göre tespit edilen kamu zararlardan Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 2 nci maddenin ikinci fikrası kapsamına girmeyenler, 19/10/2006 tarihli ve 26324 sayıh Resmî Gazetede yayımlanan Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümlerine göre tahsil edilecektir.
 
 16) Bakanlık taşra teşkilatında Genelgenin 1 inci maddesinde yazıh yerler dışında kamu zararından kaynaklanan alacakların takip ve tahsil işlemlerinin yerine getirilmesine derhal son verilecektir. Genelgenin yayam tarihinden itibaren 15 iş gürü içinde Genelgenin 1 inci maddesinde yazılı yerlere devir işlemleri gerçekleştirilecektir.
-
-T.C.
-
-### SAGLIK BAKANLIGI
 
 Strateji Geliştime Başkanla Sayr 43553240-010.06.01 Konu Kamu Zaran
 

@@ -7,16 +7,16 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103532/ulusal-gorme-taramasi-programi-genelgesi-201917.html"
 durum: "yürürlükte"
+konu: "Ulusal Görme Taraması Programı Genelgesi (2019/17) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 6.3.52. Ulusal Görme Taraması Programı Genelgesi (2019/17)
 
-### HALK SAĞLIGI GENEL MÜDÜRL CÓU - HSOM ÇOCUK VE ERGEN SAOLIOI DAIRESI BASKANI IGI T.C. SAGLIK BAKANLIĞI 00100587821 Halk Sağlığı Genel Müdürlügü
+Say: : 67414668- Konu: Ulusal Görme Taraması Program CERTIVNATO
 
-Say: : 67414668- Konu : Ulusal Görme Taraması Program CERTIVNATO
-
-### GENELGE 20191.17
+ GENELGE 2019/17
 
 Ülkemizde çocukluk çağında sık görülen sağlık sorunlarının erken tanınması ve gerekli tedavilerinin sağlanabilmesi amacıyla çeşitli tarama programları yürütülmektedir. Yenidoğan. okul öncesi ve okul çağı çocuklarda sık görülen görme kusurlarına yönelik tarama program da bu programlar arasına dâhil edilmiştir.
 
@@ -30,23 +30,21 @@ Bu kapsamda Ulusal Görme Taraması programımın yürütülmesi sırasında aş
 
 4. haftada prematüre retinopatisi (ROP) açisından değerlendirilmek üzere göz muayenesi için sevk edilecektir
 
-4) Aile hekimi ve aile sağlığı çalışamı tarafindan kendilerine kayıth bebeklere/çocuklara;
+4) Aile hekimi ve aile sağlığı çalışamı tarafından kendilerine kayıth bebeklere/çocuklara;
 
-a) 0-3 aylık bebeklerin, bebek izlemlerinde 6. izlem olan 3. ay izleminin sonuna kadar göz taraması yapılacaktır. Tarama; aile hekimi tarafindan risk faktörleri açısından sorgulama, görme muayenesi, kırmızı refle testinin yapılması şeklindedir. Bebekler, pozitif muayene bulgusu ya da risk faktörlerinden herhangi birinin varhğı durumunda, ileri tetkik ve muayene için göz hastalıkları uzmanına sevk edilecektir.
+a) 0-3 aylık bebeklerin, bebek izlemlerinde 6. izlem olan 3. ay izleminin sonuna kadar göz taraması yapılacaktır. Tarama; aile hekimi tarafından risk faktörleri açısından sorgulama, görme muayenesi, kırmızı refle testinin yapılması şeklindedir. Bebekler, pozitif muayene bulgusu ya da risk faktörlerinden herhangi birinin varhğı durumunda, ileri tetkik ve muayene için göz hastalıkları uzmanına sevk edilecektir.
 
-b) 36-48 aylık çocukların, çocuk izlemlerinde 5. izlemi içerisinde görme taraması yapılacaktır. Taramada; aile hekimleri tarafindan risk faktörleri açısından sorgulama, görme muayenesi, kırmızı refle testi ve aile sağlığı çahşanları tarafindan da Lea Sembol Testi yapılacaktır. Çocuklar, pozitif muayene bulgusu ya da risk faktörlerinden herhangi birinin varlığı durumunda ileri tetkik ve muayene için göz hastalıkları uzmanına sevk edilecektir.
+b) 36-48 aylık çocukların, çocuk izlemlerinde 5. izlemi içerisinde görme taraması yapılacaktır. Taramada; aile hekimleri tarafından risk faktörleri açısından sorgulama, görme muayenesi, kırmızı refle testi ve aile sağlığı çahşanları tarafından da Lea Sembol Testi yapılacaktır. Çocuklar, pozitif muayene bulgusu ya da risk faktörlerinden herhangi birinin varlığı durumunda ileri tetkik ve muayene için göz hastalıkları uzmanına sevk edilecektir.
 
-e) Çocukların 6 yaş ya da 7 yaş izlemleri içerisinde (çocuğun ilköğretim 1. sınıfa başlayacağı yıl) görme taraması yapılacaktır. Taramada; aile hekimleri tarafindan risk faktörleri açısından sorgulama, görme muayenesi, kırmızı refle testi ve aile sağlığı çalışanlari tarafindan da Lea Sembol Testi yapılacaktır. Çocuklar, pozitif muayene bulgusu ya da risk faktörlerinden herhangi birinin varlığı durumunda ileri tetkik ve muayene için göz hastalıkları uzmanına sevk edilecektir.
+e) Çocukların 6 yaş ya da 7 yaş izlemleri içerisinde (çocuğun ilköğretim 1. sınıfa başlayacağı yıl) görme taraması yapılacaktır. Taramada; aile hekimleri tarafından risk faktörleri açısından sorgulama, görme muayenesi, kırmızı refle testi ve aile sağlığı çalışanlari tarafından da Lea Sembol Testi yapılacaktır. Çocuklar, pozitif muayene bulgusu ya da risk faktörlerinden herhangi birinin varlığı durumunda ileri tetkik ve muayene için göz hastalıkları uzmanına sevk edilecektir.
 
 e) Bebek veya çocukların bu tanı ve tedavisine yönelik ilgili süreçler aile hekimince takip edilecektir.
 
 d) Sonuçlar Aile Hekimliği Bilgi Sistemine (AHBS) kaydedilecektir.
 
-### T.C. SAGLIK BAKANLIGI Halk Sagligı Genel Müdürlugt
 
-K.O Sayı :67414668- TSE-ISO-EN Konu : Ulusal Görme Taraması Programı CENTIFICATA
 
-5) Il sağhk müdürlükleri:
+5) Il sağlık müdürlükleri:
 
 a) Aile hekimlerinin eğitim ihtiyaçlarım belirleyecek ve eğitimlerini düzenleyecektir.
 
@@ -60,7 +58,7 @@ a) Taramadan sevk edilen bebek ve çocukların tetkik ve gereğinde tedavileri p
 
 b) Sonucundan aile hekimine bilgi verilecektir.
 
-Görme taraması programının tüm sağhk kuruluşlarında yukarıda belirtilen şekilde uygulanmasının sağlanması ve program çalışmalarımın hassasiyetle yürütülmesi hususlarında;
+Görme taraması programının tüm sağlık kuruluşlarında yukarıda belirtilen şekilde uygulanmasının sağlanması ve program çalışmalarımın hassasiyetle yürütülmesi hususlarında;
 
 Bilgilerinizi ve gereğini rica ederim.
 
@@ -70,6 +68,6 @@ Bakan a.
 
 Bakan Yapimcisı
 
-### DAGITIM:
+DAGITIM:
 
 A Planı

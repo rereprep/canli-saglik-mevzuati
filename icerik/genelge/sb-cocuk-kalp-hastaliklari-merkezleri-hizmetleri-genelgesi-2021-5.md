@@ -9,33 +9,38 @@ etiketler: ["çocuk kalp", "pediatrik kardiyoloji", "kalp merkezi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 214-218"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.31. Çocuk Kalp Hastalıkları Merkezleri Hizmetleri Genelgesi (2021/5)
 
-### SAGLE HEDE TUR ORNE KOLEL DOC - ỘỰK NỊNE TEH PLANI AMA DAIRESI BAŞKANA TO T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : E-83913885 Konu : Çocuk Kalp Hastalikları
+Sayı : E-83913885 Konu : Çocuk Kalp Hastalıkları
 
 Merkezleri Hizmetleri
 
-### GENELGE 2021/
+### GENELGE 2021/5
 
 Bakanlığımızca kalp merkezlerinin planlaması, kurulumu ve işleyişi ile ilgili usul ve esasları düzenleyen 18.07.2019 tarihli ve 80118214-060.04-457 (2019/14) sayılı "Kalp Merkezi Hizmetleri Genelgesi" yayımlanmış olup erişkin kalp merkezi ve çocuk kalp hastalıkları merkezi ayrımı yapılmaksızın tüm iş ve işlemler ilgili Genelge kapsamında yürütülmektedir.
 
-Çocuk kalp hastalıkları, fetal dönemden erişkinlik dönemine kadar, organ gelişimini, doğum sürecini, büyümeyi, gelişmeyi, yaşam tarzını ve kalitesini etkilemektedir. Bu dönemde koordineli bir şekilde ve son teknolojik uygulamalar eşliğinde, alanında uzmanlaşmış bir ekip tarafından çocuk kalp hastalıklarının erken tamı, tedavi ve takibinin sağlanması önem arz etmektedir.
+Çocuk kalp hastalıkları, fetal dönemden erişkinlik dönemine kadar, organ gelişimini, doğum sürecini, büyümeyi, gelişmeyi, yaşam tarzını ve kalitesini etkilemektedir. Bu dönemde koordineli bir şekilde ve son teknolojik uygulamalar eşliğinde, alanında uzmanlaşmış bir ekip tarafından çocuk kalp hastalıklarının erken tanı, tedavi ve takibinin sağlanması önem arz etmektedir.
 
 Bu nedenle, çocuk kalp hastalıkları merkezi hizmetlerinin çağın gerekleri doğrultusunda, ülkenin ihtiyaç ve şartlarına uygun olarak sunulmasını sağlama, bu merkezlerin hizmet standartlarını, fiziki şartlarını, araç, gereç, tıbbi donanım ve personel standartlarını belirleme, mevcut merkezleri yeniden yapılandırma, yeni kurulacak merkezleri planlama ve açılmalarına izin verme, bunların işleyişi ve denetimine ilişkin usul ve esaslarını düzenleme ihtiyacı håsıl olmuştur. Bu kapsamda, çocuk kalp hastalıkları merkezi hizmetlerine ait usul ve esaslar iş bu Genelge ile ekte belirtilen şekliyle düzenlenmiştir
 
-Gencigenin ilinizde bulunan kamu, üniversite ve özel sağlık tesislerine duyurulması ve çocuk kalp hastalıklarınin tanısı, tedavisi ve takibi için sunulan sağlık hizmetlerinin iş-bu-Genelge kapsamında yürütülmesi hususunda;
+Genelgenin ilinizde bulunan kamu, üniversite ve özel sağlık tesislerine duyurulması ve çocuk kalp hastalıklarınin tanısı, tedavisi ve takibi için sunulan sağlık hizmetlerinin işbu Genelge kapsamında yürütülmesi hususunda;
 
-Bilgilerinizi ve gereğini önemle arz/tica ederim.
+Bilgilerinizi ve gereğini önemle arz/rica ederim.
 
-Prof.: Dr. Sabalattin AYDIN
+Prof. Dr. Sabahattin AYDIN
 
 Bakan a
 
-Bakan YardımcISı EK: Çocuk Kalp Hastalıkları Merkezlerine Ilişkin Usul ve Esaslar (9 sayfa) Dağitım: Gereği: Bilgi: 81 Il Valiliğine (Il Sağhk Müdürluga) Cumhurbaşkanlığına
+Bakan Yardımcısı EK: Çocuk Kalp Hastalıkları Merkezlerine İlişkin Usul ve Esaslar (9 sayfa) ### DAĞITIM:
+
+Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğüne)
+
+Bilgi: Cumhurbaşkanlığına
 
 TBMM Başkanlığına
 
@@ -45,7 +50,9 @@ Yükseköğretim Kurulu Başkanlığına
 
 A Plani
 
-### ÇOCUK KALP HASTALIKLARI MERKEZLERİNE İLIŞKİN USUL VE ESASLAR TANIMLAR VE KISALTMALAR
+### ÇOCUK KALP HASTALIKLARI MERKEZLERİNE İLİŞKİN USUL VE ESASLAR
+
+#### Tanımlar ve Kısaltmalar
 
 Bu usul ve esaslarda geçen;
 
@@ -77,7 +84,7 @@ Bu Genelge, bünyesinde çocuk kalp hastalıkları merkezi bulunan Bakanlığa, 
 
 Z) Çocuk kalp hastahklarında mortalite ve morbiditenin en aza indirilmesi, vatandaşlarımızın hizmete erişimlerinin kolaylaştırılması, ihtiyaç duyulan sağlık hizmetlerinin hakkaniyetle sunulması, atıl kapasite oluşturulmaması ve kaynak israfina sebebiyet verilmemesi amacıyla çocuk kalp hastalıkları merkezleri, Bakanlıkça planianı.
 
-3) Bakanlıkça istenilen bilgilerin, Bakanlığın belirlediği formata uygun şekilde elektronik sistem üzerinde kayıt altıma alınmasıdan, bilgisayar ortamında tutulan kayıtların yetkisiz olarak değiştirilmemesine ve silinmemesine yönelik gerekli idari ve teknik tedbirlerin alınmasından, bilgilerin Bakanlığa zamanında iletilmesinden ilgisine göre müdürluk ile koordinatör uzman tabip birinci derecede sorumludur.
+3) Bakanlıkça istenilen bilgilerin, Bakanlığın belirlediği formata uygun şekilde elektronik sistem üzerinde kayıt altıma alınmasıdan, bilgisayar ortanında tutulan kayıtların yetkisiz olarak değiştirilmemesine ve silinmemesine yönelik gerekli idari ve teknik tedbirlerin alınmasından, bilgilerin Bakanlığa zamanında iletilmesinden ilgisine göre müdürluk ile koordinatör uzman tabip birinci derecede sorumludur.
 
 Bu Genelgede hüküm bulunmayan hållerde, çocuk kalp hastalıklan merkezi bulunan sağhık tesisinin tabi olduğu mevzuat hükümleri ile ilgili diğer mevzuat hukümleri uygulanır.
 

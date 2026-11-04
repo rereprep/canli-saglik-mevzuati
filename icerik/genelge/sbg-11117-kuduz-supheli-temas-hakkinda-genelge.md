@@ -2,22 +2,26 @@
 id: "sbg-11117-kuduz-supheli-temas-hakkinda-genelge"
 baslik: "Kuduz Şüpheli Temas Hakkında Genelge"
 tur: "genelge"
+tarih: "2007-06-25"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11117/kuduz-supheli-temas-hakkinda-genelge.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## T. C. SAĞLIK BAKANLIĞI
+### T.C. SAĞLIK BAKANLIĞI
 
-Temel Sağlık Hizmetleri Genel Müdürlüğü K-Q
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-### TSE-ISO-EN
+Sayı: B100TSH0110002-104-01
 
-9000 Say1 : B100TSH0110002-104-01 Konu : Kuduz Şüpheli Temas
+Konu: Kuduz Şüpheli Temas
 
-14900 25.06.07
+Tarih: 25.06.2007
+
+Sayı: 14900
 
 Turistik amaçla ülkemize gelen ve kuduz şüpheli temas sebebiyle kuduz profilaksisine alınan, ancak aşıları tamamlanmadan yurt dışına çıkanların kalan aşılarının tamamlattırılması için Bakanlığımızca gerekli girişimlerde bulunulduğu bilgileriniz dahilindedir.
 
@@ -25,7 +29,7 @@ Söz konusu kişilere aşılarının tamamlattırılması amacıyla ulaşılabil
 
 Bu sebeple, kuduz şüpheli temas sebebiyle sağlık kuruluşlarına müracaat ederek kuduz profilaksisine alınan ve aşıları tamamlanmadan yurt dışına çıkan yabancı ülke vatandaşlarının Bakanlığımıza bildirimi yapılırken, kimlik ve adres bilgilerinin eksiksiz ve doğru olduğuna dikkat edilmesinin yanı sıra pasaport ve kimlik fotokopilerinin de gönderilmesi hususlarında bilgilerinizi ve gereği için de ilgililere emirlerinizi rica ederim.
 
-Uzm. DP. Turan BUZGAN
+Uzm. Dr. Turan BUZGAN
 
 Bakan a.
 
@@ -33,6 +37,8 @@ Genel Müdür
 
 ### DAĞITIM:
 
-81 Il Valiliğine Bulaşıcı ve Salgın Hastalıklar Kontrolü Daire Başkanlığı Elektronik Ağ: www. saglik.gov.tr Zoonotik ve Paraziter Hastalıklar Şube Müdürlüğü Elektronik Mektup: zoonoz.paraziter@saglik.gov.tr Telefon: 0 312 5851390 Faks: 0 312 432 29 94 Mithatpașa Caddesi, Nu: 3
+81 İl Valiliğine Bulaşıcı ve Salgın Hastalıklar Kontrolü Daire Başkanlığı Elektronik Ağ: www.saglik.gov.tr Zoonotik ve Paraziter Hastalıklar Şube Müdürlüğü
 
-### 06434 Sihhiye / ANKARA
+E-posta: zoonoz.paraziter@saglik.gov.tr Telefon: 0 312 5851390 Faks: 0 312 432 29 94 Mithatpaşa Caddesi, Nu: 3
+
+### 06434 Sıhhiye / ANKARA

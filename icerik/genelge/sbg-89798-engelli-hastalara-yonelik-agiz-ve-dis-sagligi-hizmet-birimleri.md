@@ -7,35 +7,37 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-89798/engelli-hastalara-yonelik-agiz-ve-dis-sagligi-hizmet-birimleri.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Engelli hastalara yönelik ağız ve diş sağlığı hizmet birimlerinin sınıflandırılmasını, fiziki şartlarını ve personel standartlarını düzenler."
+tarih: "2022-05-13"
+sayi: "2022/3"
 ---
 
 T.C.
 
 ### SAĞLIK BAKANLIĞI
 
-* Sağlık Hizmetleri Genel Müdürlüğü
+Sağlık Hizmetleri Genel Müdürlüğü
 
-*
 
-### SAGLIK HIZMETLERİ GENEL MÜDÜRLÜĞU - AĞIZ VE DİŞ SAĞLIĞI DAIRESI BAŞKANLIĞI
 
-Sayı : 67029623-199 13/05/2023 14:56 - E-67029523-199-336 Konu : Engelli Hastalara Yönelik Ağız ve Diş
+Sayı : 67029623-199  Konu : Engelli Hastalara Yönelik Ağız ve Diş
 
 Sağlığı Hizmet Birimleri
 
-00165281136
 
-### SENELGI 2022 / .-
 
-Özel bakım ihtiyacı olan bireyler yaşam kalitesini doğrudan etkileyen ağız ve sağlığı hastalıkları açısından yüksek risk grubu içerisinde yer almaktadır. Ağız ve diş sağlığı hastalıklarının genel sağlık üzerine olumsuz etkileri olduğundan, bu bireylerin ağız ve diş sağlığının iyileştirilmesi ve var olan durumlarının korunması önemlidir.
+### Genelge (2022/3)
+
+Özel bakım ihtiyacı olan bireyler yaşam kalitesini doğrudan etkileyen ağız ve diş sağlığı hastalıkları açısından yüksek risk grubu içerisinde yer almaktadır. Ağız ve diş sağlığı hastalıklarının genel sağlık üzerine olumsuz etkileri olduğundan, bu bireylerin ağız ve diş sağlığının iyileştirilmesi ve var olan durumlarının korunması önemlidir.
 
 Bilindiği üzere; engelli hastalara yönelik ağız ve diş sağlığı hizmetleri, engelli hastaların evde sağlık hizmetleri ile birlikte evde muayeneleri, ayaktan başvurularda poliklinik muayeneleri, hastanın genel sistemik durumu ve kooperasyonu uygun ise poliklinik şartlarında ağız ve diş sağlığı tedavileri, genel anestezi gereken durumlarda ihtiyaç olunan konsültasyon hizmetleri, genel anestezi öncesi tahlil ve tetkikleri, genel anestezi altında diş tedavileri ve tedavi sonrası yatış işlemlerini kapsamaktadır.
 
 Bakanlığımızca sağlık kurum ve kuruluşları tarafından engelli hastalara yönelik ağız ve diş sağlığı hizmetlerinin bütüncül bir yaklaşımla güncel ihtiyaç ve beklentilere uygun olarak sunulmasını temin etmek üzere birimlerde görev yapacak asgari personel standardı, birimlerin fiziki şartları, bu birimlerin kurulması ve işleyişi ile buralarda görev yapacak personelin eğitimlerine ilişkin düzenleme yapılması gerektiği değerlendirilmiştir.
 
-Bu kapsamda engelli hastalara yönelik ağız ve diş sağlığı hizmet birimleri; hizmetin içeriği, personel standardı ve fiziki gereklilikler bakımından, ekte usul ve esasları belirtilen engelli polikliniği, engelli ünitesi ve engelli diş tedavi merkez olarak sınıflandırılmış olup poliklinik ve ünitenin ağız ve diş sağlığı hizmeti sunulan sağlık tesisleri bünyesinde; merkez ise Bakanlığımız planlamaları kapsamında uygun görülen yataklı sağlık tesisleri bünyesinde kurulmalıdır. Ağız ve Diş Sağlığı Dairesi Başkanlığı Bilgi İçin: Bilgen KİBAROGLU Bilkent Yerleşkesi, Universiteler Mah. Dumlupınar Bulvarı 6001 Cad. No:9 06800 Çankaya /ANKARA Sağlık Teknikeri (Diş) e-Posta: bilgen.kibaroglu@saglik.gov.tr İnternet Adresi: https://shgmadsdb.saglik.gov.tr Telefon No: 0 (312) 471 7912
+Bu kapsamda engelli hastalara yönelik ağız ve diş sağlığı hizmet birimleri; hizmetin içeriği, personel standardı ve fiziki gereklilikler bakımından, ekte usul ve esasları belirtilen engelli polikliniği, engelli ünitesi ve engelli diş tedavi merkezi olarak sınıflandırılmış olup poliklinik ve ünitenin ağız ve diş sağlığı hizmeti sunulan sağlık tesisleri bünyesinde; merkez ise Bakanlığımız planlamaları kapsamında uygun görülen yataklı sağlık tesisleri bünyesinde kurulmalıdır. Ağız ve Diş Sağlığı Dairesi Başkanlığı Bilgi İçin: Bilgen KİBAROĞLU Bilkent Yerleşkesi, Üniversiteler Mah. Dumlupınar Bulvarı 6001 Cad. No:9 06800 Çankaya /ANKARA Sağlık Teknikeri (Diş) e-Posta: bilgen.kibaroglu@saglik.gov.tr İnternet Adresi: https://shgmadsdb.saglik.gov.tr Telefon No: 0 (312) 471 7912
 
-### SEDYET TREN
+### Genelge
 
 T.C.
 
@@ -53,7 +55,7 @@ Prof. Dr. Sabahattin AYDIN
 
 Bakan a.
 
-Bakan Yardımcısı Ek: Usul ve Esaslar (3 Sayfa) Dagitim: 81 İl Valiliğine (I1 Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne Sağlık Yatırımları Genel Müdürlüğüne Ağız ve Diş Sağlığı Dairesi Başkanlığı Bilgi İçin: Bilgen KİBAROGLU Bilkent Yerleşkesi, Üniversiteler Mah. Dumlupınar Bulvarı 6001 Cad. No:9 06800 Çankaya /ANKARA Sağlık Teknikeri (Diş) e-Posta: bilgen.kibaroglu@saglik.gov.tr Internet Adresi: https://shgmadsdb.saglik.gov.tr Telefon No: 0 (312) 471 7912 Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
+Bakan Yardımcısı Ek: Usul ve Esaslar (3 Sayfa) Dagitim: 81 İl Valiliğine (I1 Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne Sağlık Yatırımları Genel Müdürlüğüne Ağız ve Diş Sağlığı Dairesi Başkanlığı Bilgi İçin: Bilgen KİBAROĞLU Bilkent Yerleşkesi, Üniversiteler Mah. Dumlupınar Bulvarı 6001 Cad. No:9 06800 Çankaya /ANKARA Sağlık Teknikeri (Diş) e-Posta: bilgen.kibaroglu@saglik.gov.tr Internet Adresi: https://shgmadsdb.saglik.gov.tr Telefon No: 0 (312) 471 7912 Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
 
 1) Engelli Ağız ve Diş Sağlığı Hizmet Birimleri:
 
@@ -79,23 +81,23 @@ e) Bekleme salonu, muayene odalarına bitişik bir alanda oluşturulmalı, diğe
 
 a) Unite ve merkez; poliklinik, ameliyathane ve yataklı servis olmak üzere üç ana bölümden oluşur.
 
-b) Poliklinik; en az bir adet muayene odası ve bekleme salonundan oluşur ve yukarıda belirtilen polikliniğin fıziki şartlarını taşır.
+b) Poliklinik; en az bir adet muayene odası ve bekleme salonundan oluşur ve yukarıda belirtilen polikliniğin fiziki şartlarını taşır.
 
 c) Ameliyathane; genel anestezi altında dental müdahalelerin yapılabildiği, ilgili mevzuatına uygun şartları sağlayan ameliyathane bulunur.
 
 d) Yataklı servis; ameliyat sonrası engelli hastaların tıbbi bakım, tedavi ve takiplerini sağlamak üzere en az 4 (dört) adet gözlem yatağı ile kurulur.
 
-e) Tıbbi alanlara ilave olarak, hekimler için dinlenme odası, personel soyunma-giyinme, duş ve tuvalet ihtiyaçları için yeterli alan ayrılır. Kadın ve erkek hastalar ve hasta yakınları için engellılerin de yararlanacağı şekilde düzenlenmiş tuvalet ve lavabo bulunur.
+e) Tıbbi alanlara ilave olarak, hekimler için dinlenme odası, personel soyunma-giyinme, duş ve tuvalet ihtiyaçları için yeterli alan ayrılır. Kadın ve erkek hastalar ve hasta yakınları için engellilerin de yararlanacağı şekilde düzenlenmiş tuvalet ve lavabo bulunur.
 
 4) Personel Standardı:
 
 a) Engelli hastalara yönelik ağız ve diş sağlığı birimlerinde görev yapacak hekim ve diğer personelin görevlendirmesi mevzuatına uygun olarak idare tarafından yapılır.
 
-b) Idare tarafından bir hekim veya diş hekimi sorumlu hekim olarak birimde görevlendirilir.
+b) İdare tarafından bir hekim veya diş hekimi sorumlu hekim olarak birimde görevlendirilir.
 
 c) Birimdeki hizmetler; sorumlu hekimin denetim ve sorumluluğunda, diş hekimi, hemşire, tıbbi sekreter, idari ve teknik personel, temizlik personeli ile diğer unvanlarda personel ile yürütülür.
 
-d) Ünitenin açılacağı sağlık tesisinde genel anestezi işlemlerinin yapılabilmesi için ilgili personelin (anesteziyoloji ve reanimasyon uzmanı, yardımcı sağlık personeli vb.) görevlendirilmesi Il Sağlık Müdürlüğünce sağlanır.
+d) Ünitenin açılacağı sağlık tesisinde genel anestezi işlemlerinin yapılabilmesi için ilgili personelin (anesteziyoloji ve reanimasyon uzmanı, yardımcı sağlık personeli vb.) görevlendirilmesi İl Sağlık Müdürlüğünce sağlanır.
 
 e) Merkezin açılacağı sağlık tesisinde konsültasyon ve genel anestezi işlemlerinin yapılabilmesi için en az birer kardiyoloji uzmanı, çocuk sağlığı ve hastalıkları uzmanı, nöroloji uzmanı, anesteziyoloji ve reanimasyon uzmanı ve iç hastalıkları uzmanı bulunmalıdır.
 
@@ -117,9 +119,9 @@ d) Il sağlık müdürlüğü veya sağlık tesislerindeki evde sağlık hizmeti
 
 e) Acil durumlarda hasta, sağlık kuruluşunun kendi ambulansı veya 112 acil sağlık hizmetleri ambulansı ile nakledilir.
 
-f) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin yapıldığı polikliniklerde, genel anestezi altında yapılması planlanan dental işlemler için Il Sağlık Müdürlüğünce koordinasyon sağlanarak gerekli tahlil, tetkik, anestezi ve yatış hizmetlerini kapsayan kurumlar arası iş birliği protokolü düzenlenebilir.
+f) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin yapıldığı polikliniklerde, genel anestezi altında yapılması planlanan dental işlemler için İl Sağlık Müdürlüğünce koordinasyon sağlanarak gerekli tahlil, tetkik, anestezi ve yatış hizmetlerini kapsayan kurumlar arası iş birliği protokolü düzenlenebilir.
 
-g) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel anestezi altında günübirlik dental işlemlerin yapıldığı ünitelerde, hastadan işlem öncesinde istenecek konsültasyon, tahlil ve tetkiklerin yapılması amacıyla Il Sağlık Müdürlüğünce kurumlar arasında iş birliği ve koordinasyon sağlanır.
+g) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel anestezi altında günübirlik dental işlemlerin yapıldığı ünitelerde, hastadan işlem öncesinde istenecek konsültasyon, tahlil ve tetkiklerin yapılması amacıyla İl Sağlık Müdürlüğünce kurumlar arasında iş birliği ve koordinasyon sağlanır.
 
 h) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel anestezi altında günübirlik ve yatış gerektiren dental işlemlerin yapıldığı merkezlerde, günübirlik taburcu olabilecek işlemlerde, hastanın yatışı sorumlu hekim veya sorumlu hekimin belirleyeceği diş hekimi üzerine yapılır. Yatış gerektirecek işlemlerde idarenin uygun göreceği serviste (18 yaş altı hastanın yatışı tercihen çocuk sağlığı ve hastalıkları, 18 yaş üstü hastanın yatışı ise tercihen nöroloji ya da iç hastalıkları servisi) görevli branş hekimi üzerine yatış yapılır. Tedavi planı, ilgili anesteziyoloji ve reanimasyon uzmanı ve diş hekimi tarafından düzenlenir. Yatış yapılan servisteki görevli branş hekimi koordineli bir şekilde bu tedavi planını uygular.
 

@@ -7,19 +7,18 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103519/saglik-raporlarinin-duzenlenmesi-hakkinda-genelge-201429.html"
 durum: "yürürlükte"
+konu: "Sağlık raporlarının düzenlenmesine ilişkin uygulama esaslarını bildirir."
 ocr: true
 duzeltildi: true
 ---
 
 6.3.5. Sağlık Raporlarının Düzenlenmesi Hakkında Genelge (2014/29)
 
-### OPEL AMAN DAI PATAN TE E T.C. SAGLIK BAKANLIĞI - SAGLIK HİZMETLERİ T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
-
-Sayı : 23642684/010.99 Konu : Sağlık Raporlarinın
+Sayı : 23642684/010.99 Konu: Sağlık Raporlarinın
 
 Düzenlenmesi Hk.
 
-### GENELGE
+ GENELGE
 
 2014/..2.9 İlgi: 30.05.2011 tarih ve 23874 (2011/39) sayıl Genelge.
 
@@ -43,17 +42,17 @@ Uygun olarak düzenleyecektir. Ancak, üst hukuk normları ile formatı özellik
 
 3. Birinci basamak sağlık hizmet sunucularında düzenlenecek Durum Bildirir Tek Hekim Sağlık Raporu formatı düzenlenerek iş bu genelge ekine (Ek-5) konulmuştur. Bu rapor formatı (Ek-5) birinci basamak sağlık hizmet sunucularında istisnasız uygulanacaktır. Ancak üst hukuk normları ile tanımlanan (askerlik yoklaması, sürücü belgesi vb.) formlar belirtilen formata göre düzenlenecektir.
 
-4. Başvuru sahibi tarafindan beyan edilmeyen ya da hekim fiziki muayenesi sırasında belirti ve bulgusuna rastlanamayan çeşitli hastalık ve rahatsızlıkların saptanması için ileri laboratuvar, görüntüleme tetkiklerinin yapılması gerekli değildir. Muayene tarihinde başvuru sahiplerinin haricen sağlam bulunmaları, tam sağlıklı olduklarını göstermez ve raporun düzenlenmesi sonrasında saptanabilecek hastalık ve rahatsızlıkların raporun düzenlendiği tarihte ortaya çıktığının kanıt: sayılamaz. Ayrıca, kişilerin beyan ettiği ya da fizik muayene ile saptanan hastalık veya rahatsızlıkları ileri tetkik ve tedavi gerektirmesi durumunda kişiler ilgili sağlık kurum/kuruluşlarına yönlendirilir.
+4. Başvuru sahibi tarafından beyan edilmeyen ya da hekim fiziki muayenesi sırasında belirti ve bulgusuna rastlanamayan çeşitli hastalık ve rahatsızlıkların saptanması için ileri laboratuvar, görüntüleme tetkiklerinin yapılması gerekli değildir. Muayene tarihinde başvuru sahiplerinin haricen sağlam bulunmaları, tam sağlıklı olduklarını göstermez ve raporun düzenlenmesi sonrasında saptanabilecek hastalık ve rahatsızlıkların raporun düzenlendiği tarihte ortaya çıktığının kanıt: sayılamaz. Ayrıca, kişilerin beyan ettiği ya da fizik muayene ile saptanan hastalık veya rahatsızlıkları ileri tetkik ve tedavi gerektirmesi durumunda kişiler ilgili sağlık kurum/kuruluşlarına yönlendirilir.
 
 5. Genelge eki Ek-S'te yer alan "Durum Bildirir Tek Hekim Sağlık Raporu'nun" birinci basamak sağlık hizmet sunucularında düzenlenmesinde aşağıdaki hükümler geçerlidir:
 
 a) Durum Bildirir Tek Hekim Sağlık Raporu almak için birinci basamak sağlık hizmet sunucularına müracaat edecek kişiler, öncelikle aile sağlığı merkezlerinden ve toplum sağlığ: merkezlerinden veya www.thsk.gov.tr adresinden Genelge eki Ek- 6"da yer alan, Kişisel Sağlık Bilgi Formu" temin edecektir. Başvuru sahibinin bu formda sağlık durumuna (hastalık, şikâyet, aile öyküsü vb.) ilişkin bilgilerin yer aldığı alanları doldurup imzalaması gerekmektedir. Başvuru sahibi 18 yaş altında ise form, velileri veya yasal temsilcileri tarafından imzalanacaktır. Birinci basamak sağlık kuruluşlarına imzalanmış "Kişisel Sağlık Bilgi Formu" ile başvurmayan kişilerin muayeneleri yapılmayacak, rapor düzenlenmeyecektir.
 
-b) "Kişisel Sağlık Bilgi Formu" aile hekimleri tarafindan aile hekimliği biriminde muhafaza
+b) "Kişisel Sağlık Bilgi Formu" aile hekimleri tarafından aile hekimliği biriminde muhafaza
 
 c) Sağlık Bakanlığına bağlı birinci basamak sağlık hizmet sunucularında düzenlenen raporlar için kişilerden ücret talep edilmeyecektir .
 
-6. Birinci basamak sağlık hizmet sunucuları tarafindan düzenlenen tek hekim raporları, AHBS ( Aile Hekimliği Bilgi Sistemi) programı üzerinden, rapor verilme nedenine uygun şekilde elektronik olarak düzenlenerek çıkartılacaktır.
+6. Birinci basamak sağlık hizmet sunucuları tarafından düzenlenen tek hekim raporları, AHBS ( Aile Hekimliği Bilgi Sistemi) programı üzerinden, rapor verilme nedenine uygun şekilde elektronik olarak düzenlenerek çıkartılacaktır.
 
 7. Tüm raporlar elektronik ortamda düzenlenerek istenilmesi halinde imzalı şekilde hastaya verilecektir. Ayrıca rapordaki verilerin USVS (Ulusal Sağlık Veri Sözlüğü) ve diğer ilgili standartlara uygun bir biçimde Sağlık-NET üzerinden Bakanlığımıza gönderilmesi zorunludur.
 
@@ -65,7 +64,7 @@ c) Sağlık Bakanlığına bağlı birinci basamak sağlık hizmet sunucularınd
 
 11. Iş bu genelge tarihinden önce ilgide kayıtlı genelge uyarınca ve önceki rapor formatlarına göre düzenlenmiş raporlar süresi bitimine kadar geçerli olacaktır.
 
-12. Ilaç kullanım raporları, Sağlık Uygulama Tebliğin 4.1.3- İlaç kullanımına esas sağlık raporlarının düzenlenmesi maddesinde belirtilen hükümler çerçevesinde elektronik ortamda düzenlenecek ve bu raporlar başhekimlik tarafindan elektronik ortamda onaylanacaktır.
+12. Ilaç kullanım raporları, Sağlık Uygulama Tebliğin 4.1.3- İlaç kullanımına esas sağlık raporlarının düzenlenmesi maddesinde belirtilen hükümler çerçevesinde elektronik ortamda düzenlenecek ve bu raporlar başhekimlik tarafından elektronik ortamda onaylanacaktır.
 
 13. SUT' ta özel düzenleme bulunan ilaç ve tibbi malzemelerin reçete ve raporları, SUT' ta belirtilen usul ve esaslar çerçevesinde düzenlenecektir.
 
@@ -121,7 +120,7 @@ Müsteşar Ekler:
 
 6. Kişiye Ait Sağlık Bilgileri Formu
 
-### DAGITIM:
+DAGITIM:
 
 Gereği: Bilgi için: 81 Il Valiligine Türkiye Ilaç ve Tıbbi Cihaz Kurumu Başkanlığına (II Sağlık Müdürlüğü) Türkiye Kamu Hastaneleri Kurumu Başkanlığına
 

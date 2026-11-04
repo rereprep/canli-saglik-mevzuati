@@ -6,6 +6,9 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-102340/nukleer-tip-hizmetleri-yonetmeligi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+tarih: "2023-04-25"
+konu: "Nükleer tıp hizmetlerinin planlanması, sınıflandırılması, sunumu, standartları ve denetlenmesine ilişkin usul ve esasları düzenler."
 ---
 
 ## NÜKLEER TIP HİZMETLERİ YÖNETMELİĞİ
@@ -22,7 +25,7 @@ ocr: true
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik; 19/4/1937 tarihli ve 3153 sayılı Radiyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanunun 10 uncu, 11 inci, 12 nci, 13 üncü ve ek 1 inci maddelerine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü, 9 uncu ve ek 11 inci maddelerine ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci, 506 ncı ve 508 inci maddelerine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik; 19/4/1937 tarihli ve 3153 sayılı Radyoloji, Radyum ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanunun 10 uncu, 11 inci, 12 nci, 13 üncü ve ek 1 inci maddelerine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü, 9 uncu ve ek 11 inci maddelerine ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci, 506 ncı ve 508 inci maddelerine dayanılarak hazırlanmıştır.
 
 #### Tanımlar ve kısaltmalar
 
@@ -32,9 +35,9 @@ a) Bakanlık: Sağlık Bakanlığını,
 
 b) Faaliyet izin belgesi: Sağlık kurum ve kuruluşları bünyesinde açılan nükleer tıp merkezlerine Bakanlıkça düzenlenen belgeyi,
 
-c) Gözetimli alan: Kontrollü alan olarak değerlendirilmeyen ve kişisel doz ölçümü gerektirmeyen ancak radyasyonla çalışanların radyasyona maruz kalma potansiyelinin bulunması nedeniyle, alandaki radyasyon seviyelerinin düzenli olarak izlenmesini gerektiren ve radyasyonla çalışanlar için ardışık beş yılın ortalaması olan yıllık doz sınırlarının 1/20’ sinin aşılma olasılığı olup 3/10’unun aşılması beklenmeyen alanları,
+c) Gözetimli alan: Kontrollü alan olarak değerlendirilmeyen ve kişisel doz ölçümü gerektirmeyen ancak radyasyonla çalışanların radyasyona maruz kalma potansiyelinin bulunması nedeniyle, alandaki radyasyon seviyelerinin düzenli olarak izlenmesini gerektiren ve radyasyonla çalışanlar için ardışık beş yılın ortalaması olan yıllık doz sınırlarının 1/20’sinin aşılma olasılığı olup 3/10’unun aşılması beklenmeyen alanları,
 
-ç) Kontrollü (denetimli) alan: Radyasyondan korunmayı sağlamak veya radyoaktif kirliliğin yayılmasını önlemek amacı ile özel kuralların uygulandığı, radyasyonla çalışanların kişisel doz izlemelerinin yapıldığı, giriş çıkışların kontrole tabi olduğu ve görevi gereği radyasyonla çalışanlar için ardışık beş yılın ortalaması olan yıllık doz sınırlarının 3/10'undan fazla radyasyon dozuna maruz kalabilecekleri alanları,
+ç) Kontrollü (denetimli) alan: Radyasyondan korunmayı sağlamak veya radyoaktif kirliliğin yayılmasını önlemek amacı ile özel kuralların uygulandığı, radyasyonla çalışanların kişisel doz izlemelerinin yapıldığı, giriş çıkışların kontrole tabi olduğu ve görevi gereği radyasyonla çalışanlar için ardışık beş yılın ortalaması olan yıllık doz sınırlarının 3/10’undan fazla radyasyon dozuna maruz kalabilecekleri alanları,
 
 d) Lisans: İyonlaştırıcı radyasyona ilişkin bir faaliyetin yürütülmesi için tüzel kişiye NDK tarafından verilen yetkiyi,
 

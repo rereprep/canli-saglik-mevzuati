@@ -9,33 +9,35 @@ etiketler: ["halk sağlığı", "aşı", "bağışıklama"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 778-781"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.72. Aşırı Sıcaklarda Alınması Gereken Önlemler Genelgesi (2007/52)
 
-### T.C. SACLIK BAKANLIĞI Temel Saglik Hizmetleri Genel Müdürlüğu
+### T.C. SAĞLIK BAKANLIĞI – Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-14927 25.06.07 Sayi :B.10.0.TSH0.10.00.02 Koru : Agıri Sicaklar
+14927 25.06.07 Sayı: B.10.0.TSH.0.10.00.02
+Konu: Aşırı Sıcaklar
 
-### ENELO
+### GENELGE
 
-107/5
+2007/52
 
-### ..VALILIGIVE
+### VALİLİĞİNE
 
-Hava sıcaklığında olabilecek artışın, namdeki artaşla birlikte daha fazla cikili olacagı, gerekli önlemler alınmadığı takdirde insan sağlığın olumsuz etkllayebileceği, bu dururnda özellikle dört yaşından küçük çocuklar, yalnız yaşayanlar, özürlüler, hakıma ihtiyacı olarlar, gebeler, 65 yaş ve üzeri yaşlılar, aşını kilolalar, açık alanda çahışanlar, kronik hastahğ olanlar (şeker hastalıgı, kalp-damar hastalıkları, beyin-damar hastalıkları, psikolojik bastalklar, kronik solunum sistemi hastalıkları, karaciğer hastalıkları, böbrek hastalıklan), sürekli ilaç (özellikle tansiyon düşürücü, idrar söktürücü, depresyon ve uyka ilaçları) kullananların, alkol ve madde bağunhılarıın etkilenebileceği bilinmektedir
+Hava sıcaklığında olabilecek artışın, nemdeki artışla birlikte daha fazla etkili olacağı, gerekli önlemler alınmadığı takdirde insan sağlığını olumsuz etkileyebileceği, bu dururnda özellikle dört yaşından küçük çocuklar, yalnız yaşayanlar, özürlüler, bakıma ihtiyacı olanlar, gebeler, 65 yaş ve üzeri yaşlılar, aşırı kilolular, açık alanda çahışanlar, kronik hastalığı olanlar (şeker hastalıgı, kalp-damar hastalıkları, beyin-damar hastalıkları, psikolojik bastalklar, kronik solunum sistemi hastalıkları, karaciğer hastalıkları, böbrek hastalıklan), sürekli ilaç (özellikle tansiyon düşürücü, idrar söktürücü, depresyon ve uyka ilaçları) kullananların, alkol ve madde bağunhılarıın etkilenebileceği bilinmektedir
 
-2003/65 sayıkı genelgemizda yaz mevsimi ile artan hava sıcaklı ve güneşin olumsı etkileriadan konuunak için alınması gereken tedbirlere ilişkin hususlara dıkkat çekilmiş olmakla birlikte bu kenu ile ilgili güntel olarak hazılanmış olan Aşını Seaklarda Alınması Gereken Önlemler korulu
+2003/65 sayılı genelgemizde yaz mevsimi ile artan hava sıcaklı ve güneşin olumsı etkileriadan konuunak için alınması gereken tedbirlere ilişkin hususlara dıkkat çekilmiş olmakla birlikte bu kenu ile ilgili güntel olarak hazılanmış olan Aşırı Sıcaklarda Alınması Gereken Önlemler konulu
 
-1-) Valiliginizce konunun Il Hızısıhha Kurulunda değeriendirilnesi ve iliniz scodinde gereken tüm tedbirlerin alınması, yazımız ekindeki dökümanlarda da bahsedildiği üzere, ilk etapta kronik hastakğı olanlar, açak alanda çalışanlar, özurluler ve hamileler çalışma şartlanı açisından ayrıco değerlendirilerek gerakirse kanumi şartlar çerçevesinde izinli sayılmalan;
+1-) Valiliğinizce konunun İl Hıfzıssıhha Kurulunda değeriendirilnesi ve iliniz scodinde gereken tüm tedbirlerin alınması, yazımız ekindeki dökümanlarda da bahsedildiği üzere, ilk etapta kronik hastakğı olanlar, açak alanda çalışanlar, özurluler ve hamileler çalışma şartlanı açisından ayrıco değerlendirilerek gerakirse kanumi şartlar çerçevesinde izinli sayılmalan;
 
 2-) Hissedilen sıcakle değerlerinin hesupfanmasııda Bakanlığımız web sayfasındaki bilgilerin kullanılabileseği, sıcaklık değerlerinin hayatıa genelini olumsuz etkilemesi durumunda ise diğer kamu görevlileri için de çalışma şartlanmn yeniden düzenlenmesi.
 
-3-) Aşırt sıcaklar nedeniyle oluşabilezek sağlık zorunlerına mildahale için iliniz genelindeki tüm sağlik tesislerinde gereken tedbirlerin aluması,
+3-) Aşırı sıcaklar nedeniyle oluşabilezek sağlık zorunlerına mildahale için iliniz genelindeki tüm sağlık tesislerinde gereken tedbirlerin aluması,
 
-4-) Ozellikle yukarıda yer verilen risk gruplanından kronik hastalığı bulunanlar ile yalnaz yayayan yaşidann ve bakıma ihtiyac: olanlana yaşadıkları mekända ziyoret cdlerek konuyla ilgili olarak bilgilendirilmeleri ve gerekli kontrollerin yapılması, danışma hattı olarak SABIM'in 184 numarale telefonanun kullamimasi,
+4-) Özellikle yukarıda yer verilen risk gruplanından kronik hastalığı bulunanlar ile yalnaz yayayan yaşidann ve bakıma ihtiyac: olanlana yaşadıkları mekända ziyoret cdlerek konuyla ilgili olarak bilgilendirilmeleri ve gerekli kontrollerin yapılması, danışma hattı olarak SABIM'in 184 numarale telefonanun kullamimasi,
 
-3-) Sıcak hava dalgası dönemlerinde hayatı olumsuz etkileyobileck elektrik ve su kesintileriaia yaşanmaması için gerekli tedbirleria aharası,
+3-) Sıcak hava dalgası dönemlerinde hayatı olumsuz etkileyebilecek elektrik ve su kesintileriaia yaşanmaması için gerekli tedbirleria aharası,
 
 6-) Ekteki döküman çerçevesinde, iliniz genelinde bulunan basır-yayın organlanı (TV, Radyo, Gazete, va.) ile işbirliği içerisinde, konunun uzmanı kişiler tarafndan apara güneş vo acaltan korunma yollanna ilişkin eğitici, uyarter bilgiler verilmei amacayla eğitim programlan ve eğitici materyaller hanelanarak halkas bilinșkandirilmesi hususlarinda bilginizi ve gereğini önemle rica ederim
 
@@ -49,11 +51,11 @@ Müsteşar V.
 
 ### EKLER:
 
-EK-1 : Dokuman (3 sayta)
+EK-1 : Doküman (3 sayfa)
 
 ### DAĞITIM:
 
-$1 Il Valiliğine
+81 İl Valiliğine
 
 ### AŞIRI SICAKLARDA ALINMASI GEREKEN ÖNLEMLER
 

@@ -9,6 +9,7 @@ etiketler: ["hukuk", "mevzuat hazırlama"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 917-920"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 8.3.1. Mevzuat Hazırlama Usul ve Esasları Genelgesi (2024/6)
@@ -19,15 +20,15 @@ aa) Hazırlanan mevzuat taslağı hakkında Hukuk Hizmetleri Genel Müdürlüğ�
 
 bb) Görüş istenen hizmet birimleri, Hukuk Hizmetleri Genel Müdürlüğünce tayin edilen süreler içinde görüşünü bildirir. Süresinde görüş verilmezse olumlu görüş verilmiş sayılır.
 
-ce) Bağlı ve ilgili kuruluşlar ile diğer kamu kurum ve kuruluşlarından görüş istenmesi usulünde Mevzuat Hazırlama Usul ve Esasları Hakkında Yönetmeliğin 6 ncı maddesi uygulanır. Görüş alınması işlemleri Hukuk Hizmetleri Genel Müdürlügünce koordine edilir.
+ce) Bağlı ve ilgili kuruluşlar ile diğer kamu kurum ve kuruluşlarından görüş istenmesi usulünde Mevzuat Hazırlama Usul ve Esasları Hakkında Yönetmeliğin 6 ncı maddesi uygulanır. Görüş alınması işlemleri Hukuk Hizmetleri Genel Müdürlüğünce koordine edilir.
 
 (Ç) Görüşler dikkate alınarak taslağa son şekli verilir.
 
 c) Nihaî Işlemler
 
-aa) Resmi Gazete'de yayımlanacak olan mevzuat taslakları, Hukuk Hizmetleri Genel Müdürlüğü tarafından Bakanlık Makamına arz edilir. Imzalanmasını müteakiben yayımlanmak üzere Cumhurbaşkanlığına gönderilir.
+aa) Resmî Gazete'de yayımlanacak olan mevzuat taslakları, Hukuk Hizmetleri Genel Müdürlüğü tarafından Bakanlık Makamına arz edilir. İmzalanmasını müteakiben yayımlanmak üzere Cumhurbaşkanlığına gönderilir.
 
-bb) Resmi Gazete'de yayımlanması gerekmeyen mevzuat taslakları Hukuk Hizmetleri Genel Müdürlüğü tarafindan imzaya sunulur. İmzalanmasını müteakiben ilgili hizmet birimlerine intikal ettirilir.
+bb) Resmî Gazete'de yayımlanması gerekmeyen mevzuat taslakları Hukuk Hizmetleri Genel Müdürlüğü tarafindan imzaya sunulur. İmzalanmasını müteakiben ilgili hizmet birimlerine intikal ettirilir.
 
 B- Kamu Kurum ve Kuruluşlarından Gelen Mevzuat Taslakları Hakkında Bakanlık Görüşünün Oluşturulması
 
@@ -47,12 +48,10 @@ C- Çeşitli ve Son Hükümler
 
 2) Bakanlık taşra teşkilatı tarafindan mevzuat değişikliği yapılmasına ilişkin teklifler değerlendirilmek üzere doğrudan ilgili hizmet birimine gönderilir. Ilgili hizmet birimi tarafindan bu Genelgenin A/I maddesine göre işlem tesis edilir.
 
-3) Bu Genelge'nin uygulanmasından doğacak tereddütleri gidermeye Hukuk Hizmetleri Genel Müdürlüga yetkilidir.
+3) Bu Genelge'nin uygulanmasından doğacak tereddütleri gidermeye Hukuk Hizmetleri Genel Müdürlüğü yetkilidir.
 
 4) 19.11.2013 tarihli ve 23961 sayılı Bakan Onayı ile yürürlüğe konulan Mevzuat Hazırlanması ve Mevzuat Taslakları Hakkında Görüş Bildirilmesine Ilişkin Usûl ve Esaslar yürürlükten kaldırılmıştır.
 
 Yukarıda belirtilen hususlar çerçevesinde gerekli tedbirlerin alınması ve uygulamada herhangi bir aksaklığa mahal verilmemesi hususunda bilgilerini ve gereğini önemle rica ederim.
 
-Dr. Fahretti * * * * *
-
-### T.C. SAĞLIK BAKANLIĞI
+Dr. Fahrettin KOCA

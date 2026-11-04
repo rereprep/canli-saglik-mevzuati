@@ -2,14 +2,58 @@
 id: "saglik-bakanligi-ve-turk-silahli-kuvvetleri-arasinda-turk-silahli-kuvvetleri-saglik-hizmet-sunucularinca-verilecek-yetkilendirilmis-aile-hekimligi-hizmetlerinin-duzenlenmesi-ve-yetkilendirilmesine-iliskin-protokol"
 baslik: "Sağlık Bakanlığı ve Türk Silahlı Kuvvetleri Arasında Türk Silahlı Kuvvetleri Sağlık Hizmet Sunucularınca Verilecek Yetkilendirilmiş Aile Hekimliği Hizmetlerinin Düzenlenmesi ve Yetkilendirilmesine İlişkin Protokol"
 tur: "protokol"
-konu: "Sağlık Bakanlığı ve Türk Silahlı Kuvvetleri Arasında Türk Silahlı Kuvvetleri Sağlık Hizmet Sunucularınca Verilecek Yetkilendirilmiş Aile Hekimliği Hizmetlerinin Düzenlenmesi ve Yetkilendirilmesine İlişkin Protokol çerçevesinde kurumlar arası işbirliği esasları."
+konu: "Türk Silahlı Kuvvetleri sağlık teşkillerinde yetkilendirilmiş aile hekimliği hizmetlerinin verilmesi ve ilgili Bakanlıkların yükümlülüklerine ilişkin esaslar."
+tarih: "2011-12-09"
+birim: "T.C. Sağlık Bakanlığı; Türk Silahlı Kuvvetleri Sağlık Komutanlığı"
 etiketler: ["aile-hekimligi", "protokol"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 544-548"
+kaynak_pdf_sayfa: "550-554"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 ## SAĞLIK BAKANLIĞI VE TÜRK SİLAHLI KUVVETLERİ ARASINDA TÜRK SİLAHLI KUVVETLERİ SAĞLIK HİZMET SUNUCULARINCA VERİLECEK YETKİLENDİRİLMİŞ AİLE HEKİMLİĞİ HİZMETLERİNİN DÜZENLENMESİ VE YETKİLENDİRİLMESİNE İLİŞKİN PROTOKOL
+
+### BİRİNCİ BÖLÜM — Amaç, Kapsam, Dayanak ve Tanımlar
+
+### AMAÇ
+
+**MADDE 1 –** Bu protokolün amacı, Türk Silahlı Kuvvetlerinde (TSK) “yetkilendirilmiş aile hekimliği hizmeti” verecek sağlık teşkillerini tanımlamak, bu teşkillerin ve teşkillerde “yetkilendirilmiş aile hekimi” sıfatıyla görevlendirilecek TSK mensubu tabiplerin yetkilendirilmesini sağlamaktır.
+
+### KAPSAM
+
+**MADDE 2 –** Bu Protokol, 5258 sayılı Aile Hekimliği Kanunu ve bu kanuna dayanılarak çıkarılan Aile Hekimliği Uygulama Yönetmeliğinin 25 inci maddesi hükümlerine uygun olarak TSK Sağlık Komutanlığı tarafından belirlenen, EK-1’de tanımları verilen, EK-2’de listelenen askerî sağlık teşkillerinin içerisinde verilecek “yetkilendirilmiş aile hekimliği” hizmetlerini kapsar.
+
+### DAYANAK
+
+**MADDE 3 –** Bu Protokol, 5258 sayılı Aile Hekimliği Kanunu ve bu kanunun 8 inci maddesine göre çıkarılan Aile Hekimliği Uygulama Yönetmeliğinin 25 inci maddesine dayanılarak hazırlanmıştır.
+
+### TANIMLAR
+
+**MADDE 4 –** Bu Protokolde geçen;
+
+a) Taraflar: Sağlık Bakanlığını ve TSK Sağlık Komutanlığını,
+
+b) Bakanlık: Sağlık Bakanlığını,
+
+c) Komutanlık: TSK Sağlık Komutanlığını,
+
+ç) Kanun: 5258 sayılı Aile Hekimliği Kanununu,
+
+d) Yönetmelik: Aile Hekimliği Uygulama Yönetmeliğini,
+
+ifade eder.
+
+### İKİNCİ BÖLÜM — Yükümlülükler
+
+### YÜKÜMLÜLÜKLER
+
+**MADDE 5 –**
+
+#### a. Komutanlığın Yükümlülükleri
+
+(1) Komutanlık, birinci basamak muayene ve yetkilendirilmiş aile hekimliği hizmeti verecek askerî sağlık teşkillerini, yerlerini ve kuruluşlarını belirler.
 
 (2) Komutanlık, yetkilendirilmiş aile hekimi olarak çalışacak tabip subayların Bakanlık tarafından belirlenen usul ve esaslar çerçevesinde "aile hekimliği birinci aşama uyum eğitimini" almasını sağlar.
 

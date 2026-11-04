@@ -11,13 +11,6 @@ ocr: true
 duzeltildi: true
 ---
 
- Merkezlerinde Enfeksiyon Kontrolüne Yönelik Tedbirler-2 Genelgesi (2017/07)
-
-T.C.
-
-### SAĞLIK BAKANLIĞI
-
-
 
 • Tüm uluslararası rehberlerde hepatit C ile enfekte tüm hastalar için önerildiği gibi enfeksiyon kontrol önlemlerine sıkı uyumun önemli olduğu, Hemodiyaliz ünitelerinde ve işlem esnasında standart önlemlere ve sterilizasyon-dezenfeksiyon-antisepsi ilkeleri ile kateter ilişkili kan dolaşımı enfeksiyonları için gerekli önlemlere tam uyumun sağlanmasının büyük önem arz ettiği, Bu nedenle, ekte sunulan kontrol listelerinin her hasta için doldurulacak şekilde düzenlenmesi ve hasta kayıtları içerisinde yer almasının sağlanması, Ünitelerde kullanılacak ilaçlarla ilgili olarak mümkünse tek kullanımlık flakon ya da ampullerin kullanılması, mümkün olmayan durumlarda ilaçların hastaya özgü olmasının sağlanması, asla çoklu doz şeklinde ortak kullanımın yapılmaması hususunda; Bilgilerinizi ve gereğini rica ederim.
 
@@ -25,8 +18,10 @@ Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Müsteşar EK: Kontrol Listeleri
+Müsteşar
 
-### DAĞITIM:
+EK: Kontrol Listeleri
 
-Gereği 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+### DAĞITIM
+
+Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)

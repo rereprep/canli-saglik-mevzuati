@@ -9,15 +9,21 @@ etiketler: ["halk sağlığı", "çocuk sağlığı", "anne sağlığı", "taram
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 747-751"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.60. Anne Dostu Hastane Genelgesi (2018/27) Sayı 37536863.010.06.02 Konu Anne Dosti Hastane Bu kriterler doğrultmunda anne desto hestane sertifikasi almak ısleyen hasaneiern laleyeceğt adimlas aşagida pelintilmiştir.
+6.3.60. Anne Dostu Hastane Genelgesi (2018/27)
 
-1. Tüm Aday Hastanelerin Bayurusu Için: 1.1. Anne Dostu Hastane unvant almak isteyen hastane hazr temel tammiayiet daethklerin belirtilmesin saglayan "Hastane Bilgı Formu" (Form 1) nu dolduratak resm yazı ile bağkı okdugu il sağlık müd rügane haşvurur 1.2.1 sıälk mödürloau progru kapsanunda hağh oldoğu koorimör l siğlk müdürdogüne hay arayu ileti 13 Knordiratör il sağhk müdüringo de haşvuruyu Halk Suale Genel Müdurlüga ne ve Komu Hastineleri Genel Madlrlügd nu bilgs için günderir.
+Sayı: 37536863.010.06.02
+Konu: Anne Dostu Hastane
 
-1. Tim Adas Hastanelerin Egitim Süreci: 2.1. Aday hastanenin bağh olduğu il sağhk mühirliğn program için behrienen n nidnğu bölgenin koordinatör il saglik müduelüga lle isbirligi içerisinde hastanenun perionel eğitimlerini kanitmeı yoğunluğuna göre turlar halinde planlar. 32 Eğilmi aday hatatenin beğl olduğu i seğirk müdonoğünen yapması enczheli niup personel yetersizliği olması durumunda koordınator u sağha modamingınce destek varilt 2.3 Egitin Arne Dostu Hastane Fäitimei ve Degertendirmect Egitimti almy personeller taralindan verdir 2.4. Eğitim dokünam olarak Anne Destu Hastane Eğilimer Rehheri kullantir 2.5 Egitime kadı hustahklun ve dogum servist, duğuni ünitesi, anestezi bolümi, çocuk hastehklan ve yenidogan bolümü ve acil bölümunde çalışan personel ille hastane yönetiminın karsansının katılımi gereklidir. 2.6. Egitin sonunda katılımcılara Anne Devau elstane Egitimci kehheri nde ye aim Алле Dostu Hastane P'ersonel Egitimi Kaulmi Belgesi düzenlenip verilir. 2.7. Anne Dostu Hastane Personel Egitimi Katim Belgesi numarasane Anne Dostu Hastane (bogan: Numarasy ile baştow, I trafil, kodu ve numata verilerek devamt edilir. (Örnek 231.01.05- (T trafik kodu-0001) 2.%. Diger belumierde salisan hasune perseeline Anne Dostu Hastane Kriterler ile ilgili egim hastane tardfindan humet içi egitim kapsanunde verilir 29, Egitimle tamamlamaktan en az | ay sonra kontd sater il seghk mudantugo tarafindan degerlendime plastaur.
+Bu kriterler doğrultusunda Anne Dostu Hastane sertifikası almak isteyen hastanelerin izleyeceği adımlar aşağıda belirtilmiştir.
 
-3. Degerlendirme Ekibi: 3.1. Koordinatör il saghk müdürlugu kendile baglı illerden degerlerdfime ekimn waşıane Degerlendime ekibi en as 5 (hes) Kiyiden olugur ve ekipte Anne Destu Hastane Egitimci ve Degerienirol Egitimi oms Kanu Ane Dost adune
+1. Tüm Aday Hastanelerin Başvurusu İçin: 1.1. Anne Dostu Hastane unvant almak isteyen hastane hazr temel tammiayiet daethklerin belirtilmesin saglayan "Hastane Bilgı Formu" (Form 1) nu dolduratak resm yazı ile bağkı okdugu il sağlık müd rügane haşvurur 1.2.1 sıälk mödürloau progru kapsanunda hağh oldoğu koorimör l siğlk müdürdogüne hay arayu ileti 13 Knordiratör il sağhk müdüringo de haşvuruyu Halk Suale Genel Müdurlüga ne ve Komu Hastineleri Genel Madlrlügd nu bilgs için günderir.
+
+2. Tüm Aday Hastanelerin Eğitim Süreci: 2.1. Aday hastanenin bağh olduğu il sağhk mühirliğn program için behrienen n nidnğu bölgenin koordinatör il saglik müduelüga lle isbirligi içerisinde hastanenun perionel eğitimlerini kanitmeı yoğunluğuna göre turlar halinde planlar. 32 Eğilmi aday hatatenin beğl olduğu i seğirk müdonoğünen yapması enczheli niup personel yetersizliği olması durumunda koordınator u sağha modamingınce destek varilt 2.3 Egitin Arne Dostu Hastane Fäitimei ve Degertendirmect Egitimti almy personeller taralindan verdir 2.4. Eğitim dokünam olarak Anne Destu Hastane Eğilimer Rehheri kullantir 2.5 Egitime kadı hustahklun ve dogum servist, duğuni ünitesi, anestezi bolümi, çocuk hastehklan ve yenidogan bolümü ve acil bölümunde çalışan personel ille hastane yönetiminın karsansının katılımi gereklidir. 2.6. Egitin sonunda katılımcılara Anne Devau elstane Egitimci kehheri nde ye aim Алле Dostu Hastane P'ersonel Egitimi Kaulmi Belgesi düzenlenip verilir. 2.7. Anne Dostu Hastane Personel Egitimi Katim Belgesi numarasane Anne Dostu Hastane (bogan: Numarasy ile baştow, I trafil, kodu ve numata verilerek devamt edilir. (Örnek 231.01.05- (T trafik kodu-0001) 2.%. Diger belumierde salisan hasune perseeline Anne Dostu Hastane Kriterler ile ilgili egim hastane tardfindan humet içi egitim kapsanunde verilir 29, Egitimle tamamlamaktan en az | ay sonra kontd sater il seghk mudantugo tarafindan degerlendime plastaur.
+
+3. Değerlendirme Ekibi: 3.1. Koordinatör il saghk müdürlugu kendile baglı illerden degerlerdfime ekimn waşıane Degerlendime ekibi en as 5 (hes) Kiyiden olugur ve ekipte Anne Destu Hastane Egitimci ve Degerienirol Egitimi oms Kanu Ane Dost adune
 
 Dektur/ebe/berngire
 
@@ -25,13 +31,13 @@ Dige perondi halunur 1.2. Aday hastanenın baglı oldugu Il saghk mudurlügu per
 
 35. Kadm Hastilklan ve Dogum Danamı Hekimler Dogan Dalesi Standartlarım Degerlendire ve elense Formu (Form 2), Anne Dostu Hastane Gozleme Dayali Degerlendirme Formu (Form 5) de Saghk Personcl Gorüsmu Formu" nun (Furm 4) (kalın hastalikları ve dogum uzmanlan ve bashekim yardimcisı Re yapılon gorüsmelerde) doldurulmasından saramludar 3.6. Doktorebe/herareler, Hastanede Sunulan Hizmetlere Dair Arne Gorusleri Fotou ¡Foen 3) ve Saglik Personell Gorusme Formu' nus (Forw-l) (ebe/lensireler de yapalan göremelerde) doldurulmasudan suramidur 3.7. Diğer Ekip Dyeled, kadın hastabklan ve dogum urman ile birlide Dogum Gnitesi Standartlarim Degerlendirme Ve Baleme Formu (Form 2), Anne Dostu Hastane tanzieme Dayalı Degerlendime Boma" qu (Euuu S) dokturulmasodan sorumiudi 3.8, Tüm ekip üyeleri belirtilen soruminloklara ek olamk formlarn doldurulması sonstad» hep birlikte Anne Dostu Hastane Degerlendire Formu' na (Form 5) diger Toslarm aktarıdorak puan hesaplamasun yapilmasıdan sprumludür 3.9 Tüm ekip üyeleri hesaplamalar tamumlandktari sonra Anne Dasto Hatane Degerledine Rapora (Form 7) ve Anne Dostu Hastane Degerlendirme Önerileri Tormu' man (Form 8) hazirlanmeandan soramiudur
 
-4. Degerlendirme Süreci:
+4. Değerlendirme Süreci:
 
 41. Degerlendime starmla kalfandacak doküman "Anne Dostu Havane Degerlendirmeci Rehberi' dir. Rehber dogrultusunda formlar doldurularak puantanr
 
 42. Dogum Onitesi Standartlan Degerlenirme ve Ileme Formu (Form 2) duldurulur, puanl aur Fonndan en ar 70 puan ve uzeri almmas gereklidir. 4.3 Hustanede Sunulan Hizmetlere Dair Anne Düriyleri Foru (Form J) agktamalat
 
-• Abgrultusda doldurulur ve doetentr. Fuemdaki loplam cevaplandan eu az h 30 vc Ezeri almasi gereklidie 4,4. Saglik Personeli Conine Foru (Form 4) aciklemular dogrultusunda doldurulur Ve ozetlenir. Fortudaki toplant cev aplardan en az % 70 ve dzeri alimas gereklidir- Sayı 57536863/010.06.02 Konu 9 Anne Dostu Hastane
+• Abgrultusda doldurulur ve doetentr. Fuemdaki loplam cevaplandan eu az h 30 vc Ezeri almasi gereklidie 4,4. Saglik Personeli Conine Foru (Form 4) aciklemular dogrultusunda doldurulur Ve ozetlenir. Fortudaki toplant cev aplardan en az % 70 ve dzeri alimas gereklidir- 
 
 45. Anue Dustu Hastane Gifene Dayali Degerlendirme Formu (Form Sidoldurdur, 4.6. Degerlendirme ekibi turafindan delduralan formar Anne Donla Hastane Değertendirme Forma' na (Forn 6) aktanlarak puanlaner Hastanema Hu Formdala her bolumden 10 puan úzerinden en iz 7 pran alinasi ve toplamda en aa 70 puan almasi gereklidir 4.7. Degerlendirmede kullanilan formlarla geçen purunla kriterlerin %h Inin karşılanması gereklidir 4.8. Degerlendirme sonunda Anne Dostu Hastane Degerlendirme Raporu (Fon 7) ve Araw Dostu Hastane Degurlendime Onurileri Formnu (Form B) doldurulur 4.9 Değerlendirede kullanılan her bir foru için şeterii puanianın alınamamaşi veveyn corumlu kriterlerden birimin bile karylanamyer olması durumunda tespit edilen eksikliklar Anne Destu Hastane Degerlendirme Onerileri Formu (Form 9)'nata belirtilerek hastineye huzurlik için er Bala 6 ay süre verilir. 4.10 Megeriendirne ekip sekretaryası tarafından degerlendimede kullanılan filan Farmimdosyalamanık resmi yazt ile koordin tör il sachk müdürogdne gönderlir 4.11. Unvan almaya bak kazanun hastanelere koordinatör il saglık müdurliigo tarafindan en fazla 15 gün iperisinde "Anne Dostu Hastane Sertifikas" düzenlenerek Bastaneye verilis 4.12. Ahne Dostu Hastane Sertifikan Belge Numarasi® no Aime Dostu Hastune Program Numarasa ila basarar. il rafik kodu ve numara verilerek devam edilin (Orne) 231.01.05-il tetik kodu-001) 5, Lavow Alan Hastanelerin Tokip Eden Degerlendirmeleri; 3,1. Anne Destu Hulane Unvan alun hustanelerde programun falerigitin kerurolü ve hizmet kalitesinin devamblğnun suğhaoması amacıyla yılıda bir kez Koonlinaür Il webk müdürtigt trafindan degerlendirme planlant. 4.2 Uyan alan hastenelerin takip eden degerlendimelerinin: planlanmaunda Ilk. degerlendirmede Li adunlar geçerlidia 53 Vilm formlar doldurup puanlane Bir Anecki değerlendirmede hattane panehnune sunulmuş olan Anne Dostu Hastane Degerlendirme Onerileri Formu (Form 8)'ndaki muddelerin hastane tarafindan gerçekleştirilme durumu degerlendirili. Fam be calişsulat sonucumdo kordinatör il seğhk müdürl igd tarafindan; "Anne Drehi Hastane unvam aimak için başvuan ve unvan almayn nuk Savarimi tastunelerin her biri için ayrı ayrı olmuk wæere dosyn tutularak wavın ulan hasunclerin vıllı Geçmiş aya ait Anne Dosta Hastane Ayhk Çalıyin Raporu (Fon 9) her ay in W una kadar -Geregi" için Halk Sagli Genet Müdurlugu Kadin ve Uruma Saghe: Dairesi Başkanhg'n "Bilgi" için hastanenin bağh bulundoğu kuruma güre Kumu Hastaneleri Genel Moda ağs ne veya Saglk Hizmetlen Genel Modürfign'ne gonderili Sayı 57536863 010.06.02 Konu Anne Dostu Hastane
 
@@ -41,9 +47,9 @@ Anne Dosu Hastane Progrım hın ulke genelinde yürürülmesi, bu amaçia yukand
 
 Prof. Dr. Emine ALP MESI
 
-Bakan-a
+Bakan a.
 
-Balar Yardimcis
+Bakan Yardımcısı
 
 ### EKLER:
 
@@ -65,7 +71,7 @@ Balar Yardimcis
 
 14. Hacunclere verilacel Ante Dostu Hastine Sertifika Omegi
 
-### DAGILIM:
+### DAĞITIM:
 
 Gergi BiTg A Plam Saghk Hizmetieri Genel Madringa
 

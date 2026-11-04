@@ -2,24 +2,25 @@
 id: "sbg-11080-genisletilmis-bagisiklama-programi-genelgesi"
 baslik: "Genişletilmiş Bağışıklama Programı Genelgesi"
 tur: "genelge"
+sayi: "2008/14"
+tarih: "2008-02-25"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11080/genisletilmis-bagisiklama-programi-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## SAĞLIK BAKANLIĞI TSE-ISO-EN
+### T.C. SAĞLIK BAKANLIĞI
 
-Temel Sağlık Hizmetleri
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-### Genel Müdürlüğü
+Sayı: B100TSH0110005
 
-Sayı : B100TSH0110005 Konu : Genişletilmiş Bağışıklama
+Konu: Genişletilmiş Bağışıklama Programı Genelgesi
 
-Programı Genelgesi
-
-### 25.02.2008 6111 GENELGE 2008 / 14
+### GENELGE 2008/14
 
 Bağışıklama hizmetlerinde temel amaç; toplumda, özellikle bebek ve çocuklarda aşı ile korunulabilir hastalıkların ortaya çıkışını engellemek, dolayısıyla bu hastalıklardan kaynaklanan ölümlerin ve sakatlıkların önüne geçmektir. Temel hedefin aşısız çocuk bırakmamak olduğu unutulmamalıdır.
 
@@ -29,7 +30,7 @@ Genişletilmiş Bağışıklama Programı (GBP) kapsamında Boğmaca, Difteri, T
 
 Ülkemizde yürütülen Genişletilmiş Bağışıklama Programı’nda son dönemde önemli gelişmeler kaydedilmiştir. 2006 yılından itibaren aşı takvimine üç yeni antijen (Kızamıkçık, Kabakulak ve Hemofilus influenza tip b) eklenmiş ve 2008 yılı başından itibaren de DaBT-İPA- Hib beşli aşısının kullanımı başlatılmıştır.
 
-Bağışıklama hizmetlerinin il düzeyinde yönetilmesi sırasında uyulması gereken kuralları içeren Genişletilmiş Bağışıklama Programına ilişkin Daimi Genelge ekte gönderilmektedir. Bu Daimi Genelge yayınlandığı tarihte yürürlüğe girer. Bu genelge ile 30.11.2006 tarih ve 18607– 2006/120 sayılı Daimi Genelge yürürlükten kaldırılmıştır.
+Bağışıklama hizmetlerinin il düzeyinde yönetilmesi sırasında uyulması gereken kuralları içeren Genişletilmiş Bağışıklama Programına ilişkin Daimi Genelge ekte gönderilmektedir. Bu Daimi Genelge yayımlandığı tarihte yürürlüğe girer. Bu genelge ile 30.11.2006 tarih ve 18607– 2006/120 sayılı Daimi Genelge yürürlükten kaldırılmıştır.
 
 GBP çalışmalarında temel başvuru kaynağı olan bu Daimi Genelge her düzeyde tanıtılmalı, özel sektör dahil tüm sağlık çalışanlarının uygulamadaki değişiklikleri yakından izlemeleri sağlanmalıdır. Ekte gönderilen GBP Daimi Genelgesinin tüm sağlık kuruluşlarına (Tıp Fakülteleri, Hastaneler, Özel Sağlık Kuruluşları ve Muayenehaneler dâhil) ve birinci basamak sağlık personeline imza karşılığı tebliğini ve il düzeyinde yapılacak uygulamaların genelgeye uygun olarak yürütülmesi hususunda gereğini önemle rica ederim.
 
@@ -91,7 +92,7 @@ Bu hedeflere ulaşmak için aşılama hizmetleri herkese ulaşabilecek şekilde 
 
 1) Çocukluk Dönemi Aşılama Takvimi
 
-A ) Okul Öncesi Aşılamalar:
+A) Okul Öncesi Aşılamalar:
 
 • Doğumda (İlk 72 saat içinde) Hep B–1
 
@@ -101,7 +102,7 @@ A ) Okul Öncesi Aşılamalar:
 
 • 4. Ayın bitiminde (16 haftalık) DaBT-İPA-Hib–2
 
-### • 6. Ayın bitiminde (24 haftalık) DaBT-İPA-Hib–3, OPA, Hep B–3
+• 6. Ayın bitiminde (24 haftalık) DaBT-İPA-Hib–3, OPA, Hep B–3
 
 • 12. Ayın bitiminde (52 haftalık) KKK
 
@@ -109,7 +110,7 @@ A ) Okul Öncesi Aşılamalar:
 
 (DaBT-İPA-Hib–3’den 1 yıl sonra)
 
-B ) Okul Aşılamaları:
+B) Okul Aşılamaları:
 
 • İlköğretim 1. sınıfta OPA, KKK, Td
 
@@ -127,7 +128,7 @@ OPA √√√√ √√√√ √√√√ Td √√√√ √√√√
 
 2) 1 Yaş Üstü Hiç Aşılanmamış Çocuklarda Aşılama Şeması
 
-A ) 6 yaşından küçük ve yaşamının ilk yılında hiç aşılanmamış çocuklarda aşılama
+A) 6 yaşından küçük ve yaşamının ilk yılında hiç aşılanmamış çocuklarda aşılama
 
 şeması (12-71 ay):
 
@@ -143,7 +144,7 @@ A ) 6 yaşından küçük ve yaşamının ilk yılında hiç aşılanmamış ço
 
 TCT: Tüberkülin Cilt Testi
 
-B ) 6 yaş üzerinde ve daha önce hiç aşılanmamış çocuklarda aşılama şeması(72 ay ve
+B) 6 yaş üzerinde ve daha önce hiç aşılanmamış çocuklarda aşılama şeması(72 ay ve
 
 üzeri):
 
@@ -155,7 +156,7 @@ B ) 6 yaş üzerinde ve daha önce hiç aşılanmamış çocuklarda aşılama ş
 
 Aşı takviminde belirtilen aralıklara göre aşıları tamamlanamamış çocuklarda önceki aşı dozlarının tekrar yapılmasına gerek yoktur. Aradan uzun bir süre geçmiş olsa bile, aşılamaya bırakılan yerden devam edilir, eksik aşılı çocuk saptandığında yaşına uygun olarak yukarıdaki şemalara göre aşıları tamamlanır.
 
-3- Doğurganlık Çağı Kadın/Gebe Aşılamaları Doğurganlık Çağı (15- 49 Yaş) /Gebe Kadınlardaki Tetanoz Aşı Takvimi
+3- Doğurganlık Çağı Kadın/Gebe Aşılamaları Doğurganlık Çağı (15-49 Yaş)/Gebe Kadınlardaki Tetanoz Aşı Takvimi
 
 Doz sayısı Uygulama zamanı Koruma süresi
 
@@ -2581,4 +2582,4 @@ kapsamında incelenmelidir. *Ciddi ASİE: Ölüm, sakatlık, konjenital anomali 
 
 **Dipnotlar**
 
-<small>DAİMİ GENELGE DAİMİ GENELGE Hep B: Hepatit B aşısı BCG: Bacille Calmette-Guerin aşısı DaBT-İPA-Hib: Difteri, aselüler Boğmaca, Tetanoz, İnaktif Polio, Hemofilus influenza tip b aşısı (Beşli Karma aşı) KKK: Kızamık, Kızamıkçık, Kabakulak aşısı OPA: Oral Polio aşısı Td: Erişkin Tipi Difteri-Tetanoz aşısı R: Rapel (Pekiştirme) DAİMİ GENELGE admuğoD nya1 unos nya2 unos nya4 unos nya6 unos ya 21 ya 42–81 merğökİ fınıs.1 merğökİ fınıs.8 DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE görüldü mü? tespit ediliyor mu? Evet Hayır Evet Canlı doğum sayısı Yüksek Riskli kadar gebe tespiti Hayır Sağlık personeli var mı? yardımıyla yapılan doğumların oranı %80’in üzerinde mi? Evet Evet Hayır Düşük Riskli Düşük Riskli Yüksek Riskli DAİMİ GENELGE DAİMİ GENELGE DAİMİ GENELGE E U M A KIZAMIK I KIZAMIKCIK KABAKULAK R (Kızamık, Kızamıkçık, ...../...../....... Kabakulak) nenefedeH kyA nenefedeH kyA kyA Adı- kaçıncı doz olduğu Aşının uygulanma Uygulanan vücut Üretici Firma Lot Son Kullanma (örn.DaBT-İPA-Hib I) şekli bölgesi numarası* Tarihi* 1. 2. 3. 4. 5. Adı Üretici Firma Lot Numarası* Son Kullanma Tarihi* 1. 2. 3. * Formu dolduran hekim aşının uygulandığı birimde çalışmıyorsa, İl ASİE İzlem sorumlusu tarafından ilgili sağlık ocağı /sağlık kuruluşu ile görüşülerek doldurulacaktır. ⁪Steril Olmayan Enjeksiyon ⁪Aşı lot problemi ⁪Aşılanmamış olanlarda reaksiyonu ⁪Aşının yanlış hazırlanması ⁪Beklenen aşı yan etkisi da benzer tablonun ⁪Yanlış yoldan uygulama ⁪Diğer........................... olması ya da aynı zamana ⁪Yanlış yere uygulama denk gelen başka bir hastalık ⁪Aşının taşınma/depolama ⁪Diğer............................. hatası ⁪Diğer........................................ ⁪ Kesin/kuvvetle olası ⁪ Olası ⁪ Zayıf Olası ⁪ Uyumlu değil ⁪ ASİE değil (İlgisiz) ⁪ Sınıflandırılamayan Herhangi bir önlem alındı mı? ⁪ Hayır ⁪ Evet ( açıklayınız)....................................</small>
+<small>Hep B: Hepatit B aşısı BCG: Bacille Calmette-Guerin aşısı DaBT-İPA-Hib: Difteri, aselüler Boğmaca, Tetanoz, İnaktif Polio, Hemofilus influenza tip b aşısı (Beşli Karma aşı) KKK: Kızamık, Kızamıkçık, Kabakulak aşısı OPA: Oral Polio aşısı Td: Erişkin Tipi Difteri-Tetanoz aşısı R: Rapel (Pekiştirme) DAİMİ GENELGE admuğoD nya1 unos nya2 unos nya4 unos nya6 unos ya 21 ya 42–81 merğökİ fınıs.1 merğökİ fınıs.8          DAİMİ GENELGE görüldü mü? tespit ediliyor mu? Evet Hayır Evet Canlı doğum sayısı Yüksek Riskli kadar gebe tespiti Hayır Sağlık personeli var mı? yardımıyla yapılan doğumların oranı %80’in üzerinde mi? Evet Evet Hayır Düşük Riskli Düşük Riskli Yüksek Riskli  E U M A KIZAMIK I KIZAMIKCIK KABAKULAK R (Kızamık, Kızamıkçık, ...../...../....... Kabakulak) nenefedeH kyA nenefedeH kyA kyA Adı- kaçıncı doz olduğu Aşının uygulanma Uygulanan vücut Üretici Firma Lot Son Kullanma (örn.DaBT-İPA-Hib I) şekli bölgesi numarası* Tarihi* 1. 2. 3. 4. 5. Adı Üretici Firma Lot Numarası* Son Kullanma Tarihi* 1. 2. 3. * Formu dolduran hekim aşının uygulandığı birimde çalışmıyorsa, İl ASİE İzlem sorumlusu tarafından ilgili sağlık ocağı /sağlık kuruluşu ile görüşülerek doldurulacaktır. ⁪Steril Olmayan Enjeksiyon ⁪Aşı lot problemi ⁪Aşılanmamış olanlarda reaksiyonu ⁪Aşının yanlış hazırlanması ⁪Beklenen aşı yan etkisi da benzer tablonun ⁪Yanlış yoldan uygulama ⁪Diğer........................... olması ya da aynı zamana ⁪Yanlış yere uygulama denk gelen başka bir hastalık ⁪Aşının taşınma/depolama ⁪Diğer............................. hatası ⁪Diğer........................................ ⁪ Kesin/kuvvetle olası ⁪ Olası ⁪ Zayıf Olası ⁪ Uyumlu değil ⁪ ASİE değil (İlgisiz) ⁪ Sınıflandırılamayan Herhangi bir önlem alındı mı? ⁪ Hayır ⁪ Evet ( açıklayınız)....................................</small>

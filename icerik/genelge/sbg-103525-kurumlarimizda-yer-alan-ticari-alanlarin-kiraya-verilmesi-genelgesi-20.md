@@ -7,20 +7,20 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103525/kurumlarimizda-yer-alan-ticari-alanlarin-kiraya-verilmesi-genelgesi-201143.html"
 durum: "yürürlükte"
+konu: "Kurumlarımızda Yer Alan Ticari Alanların Kiraya Verilmesi Genelgesi (2011/43) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 6.3.9. Kurumlarımızda Yer Alan Ticari Alanların Kiraya Verilmesi Genelgesi (2011/43)
 
-### T.C. SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
+Sayı :B.10.0.SGB.0.84.00.01/10-06- Konu: Kurumlarımızda yer alan ticari alanların kiraya verilmesi.
 
-Sayı :B.10.0.SGB.0.84.00.01/10-06- Konu : Kurumlarımızda yer alan ticari alanların kiraya verilmesi.
-
-6. Bünyesinde ticari alan bulunan Bakanlığımızą bağlı kurum ve kuruluşların kapatılması halinde, kapatıldığına ilişkin bilgi ve belgeler Il Sağlık Müdürlüklerince 1 (Bir) ay içinde ilgili Defterdarlığa bildirilecektir.
+6. Bünyesinde ticari alan bulunan Bakanlığımızą bağlı kurum ve kuruluşların kapatılması halinde, kapatıldığına ilişkin bilgi ve belgeler İl Sağlık Müdürlüklerince 1 (Bir) ay içinde ilgili Defterdarlığa bildirilecektir.
 
 7. Ticari alanlar amacı dışında kullanılamayacak ve taşınmazların Sağlık Bakanlığına tahsis amacı ile bağdaşmayacak faaliyetlere konu edilmeyecektir. B. Mevcut Sözleşmeler
 
-1. Bakanlığımıza bağlı kurumlar içerisinde yer alıp, Maliye Bakanlığı birimleri tarafindan kiraya verilen ticari alanlara ait devam eden sözleşmeler protokolün imzalandığı tarih itibarıyla, sözleşme süresi sonuna kadar aynı şartlarla Bakanlığımıza bağlı kurumlara devredilmiş olup, kira bedelleri Bakanlığımıza bağlı ilgili kurumlarca tahsil edilecek ve elde edilen kira gelirleri döner sermaye bütçesine gelir kaydedilecektir.
+1. Bakanlığımıza bağlı kurumlar içerisinde yer alıp, Maliye Bakanlığı birimleri tarafından kiraya verilen ticari alanlara ait devam eden sözleşmeler protokolün imzalandığı tarih itibarıyla, sözleşme süresi sonuna kadar aynı şartlarla Bakanlığımıza bağlı kurumlara devredilmiş olup, kira bedelleri Bakanlığımıza bağlı ilgili kurumlarca tahsil edilecek ve elde edilen kira gelirleri döner sermaye bütçesine gelir kaydedilecektir.
 
 2. Mevcut sözleşmelerin süresinin bitiminde yeni ihaleler kurumlarımızca yapılacaktır. Protokolde; Milli Emlak birimlerince, mevcut kiracılara, kira sözleşmelerinin Sağlık Bakanlığına devredildiği, kira bedellerinin Sağlık Bakanlığının/II Sağlık Müdürluğünür elirteceği saymanlığa ödeneceği hususu bildirilecek ve kira dosyalarının bir örneği I Bu bağlamda;
 
@@ -30,9 +30,9 @@ için bağlı olunan döner sermaye saymanlık bilgileri ve hesap numaraları
 
 kurumlarımızca ilgili Milli Emlak birimlerine bildirilecek, ayrıca konu hakkında
 
-Il Sağlık Müdürlüklerine bilgi verilecektir.
+İl Sağlık Müdürlüklerine bilgi verilecektir.
 
-b. Il Sağlık Müdürlüklerince mevcut kira sözleşmelerine ait dosyaların bir örneği
+b. İl Sağlık Müdürlüklerince mevcut kira sözleşmelerine ait dosyaların bir örneği
 
 ilgili Milli Emlak Birimlerinden teslim alınarak kurumlara gönderilecektir. C. Ticari Amaçla Kullamılması Mümkün Olan Yeni Alanların Açılması
 
@@ -46,17 +46,15 @@ kullanılması mümkün olan açılacak/oluşturulacak ve bu ticari alanlar üç
 
 3. Mülkiyeti üçüncü şahıslara ait olmakla birlikte belli bir süre ile kullanım hakkı protokol ile Bakanlığımıza veya Valiliğe bırakılan taşınmazlardaki ticari alanların kiraya verilmesinde bu genelge hükümleri uygulanacaktır.
 
-4. Bakanlığımıza bağlı sağlık kurum ve kuruluşları, mevcut ve yeni oluşturulacak ticari alanlarda genel kabul görmüş faalıyet alanları dışında yeni bir faaliyet alanı ile ilgili kiralama işlemi yapmadan önce Il Sağlık Müdürlüğünden izin alacaklardır. Il Sağlık Müdürlüklerince tereddüt edilen hususlarda Bakanlığımızın ilgili merkez birimlerinden (Tedavi Hizmetleri Genel Müdürluğü, Temel Sağlık Hizmetleri Genel Müdürlüğü, Refik Saydam Hızıssıhha Merkezi Başkanlığı vb.) görüş alınacaktır.
+4. Bakanlığımıza bağlı sağlık kurum ve kuruluşları, mevcut ve yeni oluşturulacak ticari alanlarda genel kabul görmüş faalıyet alanları dışında yeni bir faaliyet alanı ile ilgili kiralama işlemi yapmadan önce İl Sağlık Müdürlüğünden izin alacaklardır. İl Sağlık Müdürlüklerince tereddüt edilen hususlarda Bakanlığımızın ilgili merkez birimlerinden (Tedavi Hizmetleri Genel Müdürluğü, Temel Sağlık Hizmetleri Genel Müdürlüğü, Refik Saydam Hızıssıhha Merkezi Başkanlığı vb.) görüş alınacaktır.
 
-### T.C. SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanhğı
-
-Sayı :B.10.0.SGB.0.84.00.01/10-06-6479 16/06/2011 Konu : Kurumlarımızda yer alan ticari alanların kiraya verilmesi. D. Kiralama İhaleleri ve Kira Süresi 2886 sayılı Devlet İhale Kanunu'nun 74 üncü maddesinde; Tarihi ve bedii değeri olanlar hariç Hazinenin özel mülkiyetindeki yerlerin satışı, kiraya verilmesi, trampası ve mülkiyetin gayri ayni hak tesisi ile Devletin hüküm ve tasarrufu altındaki yerlerin kiraya yenemedan idarei Hakand 72007 tarinde yirtile gi aigi(207 tarihi Resmi Gazane ayni hak tesisi esasları Maliye Bakanlığınca çıkarılacak
+Sayı :B.10.0.SGB.0.84.00.01/10-06-6479 16/06/2011 Konu: Kurumlarımızda yer alan ticari alanların kiraya verilmesi. D. Kiralama İhaleleri ve Kira Süresi 2886 sayılı Devlet İhale Kanunu'nun 74 üncü maddesinde; Tarihi ve bedii değeri olanlar hariç Hazinenin özel mülkiyetindeki yerlerin satışı, kiraya verilmesi, trampası ve mülkiyetin gayri ayni hak tesisi ile Devletin hüküm ve tasarrufu altındaki yerlerin kiraya yenemedan idarei Hakand 72007 tarinde yirtile gi aigi(207 tarihi Resmi Gazane ayni hak tesisi esasları Maliye Bakanlığınca çıkarılacak
 
 şeklinde yer alan hükme istinaden Maliye Bakanlığı'nca Hazinc yayımlanarak ekleri ile birlikte 1/07/2007 tarihinde yürürlüğe girmiştir. Buna göre;
 
 1. Kurum ve kuruluşlarımız ticari alanları kiraya verirken söz konusu yönetmelik hükümlerine göre hareket edeceklerdir.
 
-2. Kiralama ihalelerinde ita amirliği görevi, döner sermayeli işletmelerimizin harcama yetkilileri tarafindan yerine getirilecektir
+2. Kiralama ihalelerinde ita amirliği görevi, döner sermayeli işletmelerimizin harcama yetkilileri tarafından yerine getirilecektir
 
 3. Ihale komisyonları, harcama yetkilileri tarafından komisyon başkanı dâhil olmak üzere kurum personelinden oluşturulacaktır.
 
@@ -84,9 +82,7 @@ b) Kiralamalar, Yönetmeliğin 67 inci maddesinin 3 üncü fikrasına istinaden 
 
 usulü ile ihale edilecektir.
 
-### T.C. SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
-
-Say1 :B.10.O.SGB.0.84.00.01/10-06- Konu : Kurumlarımızda yer alan ticari
+Say1 :B.10.O.SGB.0.84.00.01/10-06- Konu: Kurumlarımızda yer alan ticari
 
 alanların kiraya verilmesi.
 
@@ -106,7 +102,7 @@ usulü ile ihale edilecektir.
 
 c) Taşınırların kira bedelinin tespiti, taşınırın rayiç bedeli ve yıllık amortisman tutarları
 
-### dikkate alınarak oluşturulacak komisyon marifetiyle belirlenecektir.
+dikkate alınarak oluşturulacak komisyon marifetiyle belirlenecektir.
 
 F. Kurumlarımızın Elde Edeceği Kira Gelirleri Katma Değer Vergisi ve Kurumlar Vergisinden Muaftır
 
@@ -122,6 +118,6 @@ Bakan a.
 
 Müsteşar
 
-### DAĞITIM
+DAĞITIM
 
 Gereği Bilgi İçin A Plan: Maliye Bakanlığı'na

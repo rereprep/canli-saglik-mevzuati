@@ -9,37 +9,33 @@ etiketler: ["mali hizmetler", "hizmet alımı", "ihale"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1095-1098"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
+### SAĞLIK BAKANLIĞI
 
-11.3.7. Kamu İdarelerine Bağlı Sağlık Kurum ve Kuruluşlarının Birbirlerinden Yapacakları Mal ve Hizmet Alımları Genelgesi (2018/01)
+Strateji Geliştirme Başkanlığı
 
-T.C
+### A. Teşhis ve Tedaviye Yönelik Mal ve Hizmet Alımları
 
-### SAĞLIK BAKANLIGI
+1) İl Sağlık Madaringo Eşleime Birinterinin Birbirlerinden Vapacakları Teşhis ve Tedaviye Yönelik Mal ve Hizmet Alımları
 
-Strateji Gelistine Başkanle
-
-A-Teshis ve Tedaviye Yönelik Mal ve Hizmet Almdurt
-
-1) İl Saghk Madaringo Eşleime Birinterinin Birbirlerinden Vapacakları Teahk vo Tedaviye Vönelik Mal Ve Hizmet Ahmlar
-
-Taşra teşkilatıada harenma yetkilisi II bashk MöNiri olduğurdan, H Sağlk Maddeltiğl işletme birimlerinia birbirleriden yapasıklan tealiy ve tedaviye yönelis nal vo Namet alimlarında protokol duzenlenmeyecektir.
+Taşra teşkilatında harcama yetkilisi İl Sağlık Müdürü olduğurdan, H Sağlk maddeltiğl işletme birimlerinia birbirleriden yapasıklan tealiy ve tedaviye yönelis nal vo Namet alimlarında protokol duzenlenmeyecektir.
 
 Ançak işletme birimlerimia kend aalarında yapacrklan bu VErden lestia ve tedaviye yöaclih mal ve häanct alımlarada tüm kayanklann etkin ve verimli lallanıdmo ve bu kaymaklar kullamleken de ler bir işlenne bitinivin kuyrak kullanımunda kanlisine dibşen imdiyete katlanması esasından narekalo;
 
-1. aletme birimlerinin birbirlerinden yapacaklun minl ve hızmet ahmlaunda autlka bir bedel degurälecck ve čreörülen hedel, mul ve hizaneti sarar Veret ipletnie biriminia Tatlandig motiyet bedeli veya hale bedeli olandk tespit edilecektir
+1) İşletme birimlerinin birbirlerinden yapacaklun minl ve hızmet ahmlaunda autlka bir bedel degurälecck ve čreörülen hedel, mul ve hizaneti sarar Veret ipletnie biriminia Tatlandig motiyet bedeli veya hale bedeli olandk tespit edilecektir
 
-2. ligdi tarifeleri ile belidenmiş olan mal ve hizmederin badel lespiunde, (anddeleri itd İeüdenen fiyalım geçilmemesinu dikkat edilecektir
+2) İlgili tarifeleri ile belidenmiş olan mal ve hizmederin badel lespiunde, (anddeleri itd İeüdenen fiyalım geçilmemesinu dikkat edilecektir
 
-3. Dodel tespitenade kanuni kesintifer ilave edilmeyecektir
+3) Bedel tespitenade kanuni kesintifer ilave edilmeyecektir
 
-4. Işletme hirimderi mustada fastalandına şağalabilecektir
+4) İşletme hirimderi mustada fastalandına şağalabilecektir
 
-5. Bu ‹ür alımlarda protokol düzenlenmeyeceginden adz komasu alimlarla Hgili ofaras Il Sağlık Müdürlüklerince herhangi bir aksaklğa meydan verilmemesi için vagulama caul ve dusleri belindenebileccktir
+5) Bu tür alımlarda protokol düzenlenmeyeceginden adz komasu alimlarla Hgili ofaras İl Sağlık Müdürlüklerince herhangi bir aksaklğa meydan verilmemesi için vagulama caul ve dusleri belindenebileccktir
 
-6. sea konusu alımlarm muhasebeleştrilmesinde 13-7 de yer atan Muhasebelestirme Omeklerinde belirtildiği şekilde hareket edilmesi gerekmektedir
+6) Söz konusu alımlarm muhasebeleştrilmesinde 13-7 de yer atan Muhasebelestirme Omeklerinde belirtildiği şekilde hareket edilmesi gerekmektedir
 
-2y İl Sağlk Müdurinkleri Düner Sermaye İşlemeleri Arasala Yaşalacak Teştın No Todaviye Yönelik Mal Ve Hizmet Ahmlars
+2) İl Sağlk Müdurinkleri Düner Sermaye İşlemeleri Arasala Yaşalacak Teştın No Todaviye Yönelik Mal Ve Hizmet Ahmlars
 
 L ll Sağık Müdanaklen Daner Sermaye Işletmeleri arasında yaptacak leşha va
 
@@ -53,7 +49,7 @@ Turakindıma gibi iştemlerin tesix edilmesi gerekmektedir.
 
 Tlyaflondıma ajağıdaki şckilde yapılacaktı.
 
-u) Maf Ahmdanma;
+a) Mal Alımlarında;
 
 1) Malli tarifeler ile fiyatlan belirlenmiş planliem bedeli: tatiscion He belfrionen
 
@@ -63,7 +59,7 @@ sadeve kanuni kesintiler ilave edilerck belirienccektir.
 
 2) Tarifelerinde figan bulennaran ve anotsuano tabi olmavan mallanm bedel:
 
-### maliyetinin izerine sadece kanuni kesintiler dave edilerek heli enesektir.
+maliyetinin izerine sadece kanuni kesintiler dave edilerek heli enesektir.
 
 3) Tarifelerinde fiyatt bolunmayan ve amortismana (chi nun milann badei
 
@@ -71,7 +67,7 @@ amortindan tatarlım da dikkate almarak saliş yepacal olan Il Sagla Modanan
 
 ### tarafinday Tasiy Mil Yenemeligi esasturnat gore belirkecehtin
 
-1) Ilgili tarifeleri de fiyotion belirlenig olanlara: bedeli tarifelen ile betirienen
+1) İlgili tarifeleri de fiyotion belirlenig olanlara: bedeli tarifelen ile betirienen
 
 fratı geşemek ve malivetinin altında kalmamak kaydıyla maliyetina Izerine
 
@@ -85,7 +81,7 @@ edilerek belirlenecektir.
 
 3) Tarifelerinde flyatı bulunmayan ve idarelerce üretilen hizmetlerin bedeli; maliyet
 
-### T.C. SAGLIK BAKANLIGI
+### T.C. SAGLIK BAKANLIĞI
 
 Strateji Gelistime Baskanhe
 
@@ -117,7 +113,7 @@ amortismen tatarfarı da dikkate ahmarak sahp yapocok olan Il Soğhk Müdüriog�
 
 tarafindan Taşne Mal Vüneimeliği esaslenna güre bellimuceldir
 
-b) Hizmet Amarmda;
+b) Hizmet Alımlarında;
 
 1) İyili nifeleri te Hiyaları belirlenmiş olanları bedeli tarifesındaki ayat zaa
 
@@ -141,11 +137,11 @@ Cararalen bal.tac B Teshis ve Tedavire Yanellk Olanan Malve Hemes A lamlar 209 s
 
 1. Il Sağlik Müdürlugü letoe birimlerinin birbirleri tasında yapsanklari alınlarda fru Ganal ganin (A-1) maMesinde helimiten esaslar perçevesinde Harasa: acilecektte 2 Il Sasle Müda iklcinn bitadori de yupcaklan aluniarda bu Genelgenin (A-Z) maddesinde betirtilen esaslar ceye/ende herdet edilegektin
 
-### TC. SAGLIK BAKANLIGI Strateji Gehtirme Başkunlu
+### TC. SAGLIK BAKANLIĞI Strateji Gehtirme Başkunlu
 
-C- Diger Hunslur
+### C. Diğer Hususlar
 
-1. Il Suglık Madürlükleri arasında yapalacak olan mai ve hiemot almlaru bedell fatura derlendikten scura en geş 3 (0ę) ky içerisinde ilgili tarafşu ödenacaktir. Bu hususer takibi mal ve liraneti alan Il Saglik Müduri ile mal ve hizmeti varen II Sağlik Müdürt terafindan bizzal yapılacak ve sonuçlanden hacaldır, 2 Il Sağhık Müdiılükleri kullanılmayan veya ihtiyaç fazlası olan mal ve demirbaşları. 209 sayılı Kanunun 3 inell muddesine istinaden bedelsiz alarak türbirierne devredeceklerdir. 3 Bu Cenalganin vygularmasinda tarife, Sosyal Güvenlik Kuramınca yayınlanan Sağlık L'ygulama Tebliğini veya bu kapsanda hazırlatan diğer resmi flyatarı lide ester. 4 Kavu idarelerine bağlı sağik kurum ve kuruluşlarınım hirtirlerzılen yapacaklan mal se leemer alnian koparinda promokol düzenlenmesi halinde Ek-I de yer alan protokol tastagı ornek ahnacakuır.
+1. Il Suglık Müdürlükleri arasında yapalacak olan mai ve hiemot almlaru bedell fatura derlendikten scura en geş 3 (0ę) ky içerisinde ilgili tarafşu ödenacaktir. Bu hususer takibi mal ve liraneti alan Il Saglik Müduri ile mal ve hizmeti varen II Sağlik Müdürt terafindan bizzal yapılacak ve sonuçlanden hacaldır, 2 Il Sağhık Müdiılükleri kullanılmayan veya ihtiyaç fazlası olan mal ve demirbaşları. 209 sayılı Kanunun 3 inell muddesine istinaden bedelsiz alarak türbirierne devredeceklerdir. 3 Bu Cenalganin vygularmasinda tarife, Sosyal Güvenlik Kuramınca yayınlanan Sağlık L'ygulama Tebliğini veya bu kapsanda hazırlatan diğer resmi flyatarı lide ester. 4 Kavu idarelerine bağlı sağik kurum ve kuruluşlarınım hirtirlerzılen yapacaklan mal se leemer alnian koparinda promokol düzenlenmesi halinde Ek-I de yer alan protokol tastagı ornek ahnacakuır.
 
 1. Bu Genelgenin vürürkiže kirdilı tarilien önge inzalanan protokoller, yukarida belirtilen hususlar verşevesinde teniden dücatleneedk veya gerekli doğişiklikler A Gerck hizmet gerchze mal alimlarada hastaya sunulan hizmetlerin veye kullanılan mallara bedeli, geti ödeme kurumara sadece hizmeti mali alan Idare tarafindan fansalar dinacaktr. 7 13/02/2000 tarihli ve 2009/10 sayil Genelgs, 22/05/2013 manhti ve 20)1/05 sayih Genelge ve bu Genelgelere dayamleruk yayimlanan genel yazilar bu Cenelge sie yürürlükten kaldırılmıştır, & Be Genelge Bukerkk Makemaca izaland ğu tarihle ytrirluge gire- Bilgilerina ve geregni rica ederen-
 
@@ -155,6 +151,6 @@ Bakan =
 
 eteger Niler: 1- Protokol Tastuğs (1 Adet.2 sayfo) 1- Muhaseheleştertie Ornekleri (11 Sayta)
 
-### DAGIT IN
+### DAĞITIM
 
 Teregir Ai Il Valisi (il Sastik Socurineu) B Plast

@@ -9,29 +9,32 @@ etiketler: ["halk sağlığı", "aşı", "bağışıklama"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 564-599"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.16. Genişletilmiş Bağışıklama Programı Genelgesi (2009/17)
 
-### SAĞLIK BAKANLIĞI Temel Sağhk Hizmetleri Genel Müdürlügü
+### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayi : B100TSH0110005 : Kouu : Genişletilmiş Bağışıklama 7-94% 13.03.2009
+Sayı: B100TSH0110005
 
-Programi Genelgesi
+Konu: Genişletilmiş Bağışıklama Programı Genelgesi
 
-### GENELGE 17
+13.03.2009
+
+### GENELGE
 
 Bağışıklama hizmetlerinde temel amaç; toplumda, özellikle bebek ve çocuklarda așı ile korunulabilir hastalıkların ortaya çıkışını engellemek, dolayısıyla bu hastalıklardan kaynaklanan ölümlerin ve sakatlıkların önüne geçmektir. Temel hedefin aşısız çocuk bırakmamak olduğu unutulmamalıdar.
 
-Saghk Bakanlığının Teşkilat ve Görevleri Hakkında 181 sayılı Kanun Hükmünde Karamame ile Ülkemizde yürütülecek bağışıklama hizmetlerini düzenleme yetkisi Bakanlığımıza verılmiştir. Bu düzenlemeler yapılırken dünyadaki çeşitli gelişmelar takip edilmekte ve akademisyenlerden oluşan Bağışıklama Danışma Kurulu'nun tavsiyeleri dikkate alımaktadır.
+Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında 181 sayılı Kanun Hükmünde Karamame ile Ülkemizde yürütülecek bağışıklama hizmetlerini düzenleme yetkisi Bakanlığımıza verılmiştir. Bu düzenlemeler yapılırken dünyadaki çeşitli gelişmelar takip edilmekte ve akademisyenlerden oluşan Bağışıklama Danışma Kurulu'nun tavsiyeleri dikkate alımaktadır.
 
 Genişletilmiş Bağışıklama Programı (GBP) kapsamında Boğmaca, Difleri, Tetanoz, Kızamık, Kızamıkşık, Kabakulak, Tüberküloz, Poliomyelit, Hepatit-B, Hemofilus influenza tip b'ye bağlı hastalıklar ile streptokokus prömoniya'ya bağhı invaziv prömokokal hastahklanın ve bu hastalıklardan kaynaklanan bebek ve çocuk ölümlerinin ve sakathkların engellenmesi bedleflenmektedir.
 
 Ülkemizde yürütülen Genişletilmiş Bağııklama Programı'nda son dönemde önemli gelişmeler kaydedilmiştir. 2006 yılından itibaren aşı takvimine üş yeni antijen (Kızamıkçık, Kabakulak ve Hemofilos influenza tip b) eklenmiş, 2008 yıh başından itibaren DaBT-IPA-Hib beşli aşısın ve 2008 yılı Kasım ayıdan itibaren de Konjuge Prömokok aşısının kullanımı
 
-Bağışıklama hizmetlerinin il düzeyinde yönetilmesi sırasında uyulması gereken kuralları içeren Genişletilmiş Bağışıklama Programına ilişkin Daimi Genelge ekte gönderilmektedir. Bu Daimi Genelge yayınlandığı tarihte yürürlüğe girer. Bu Genelge ile 25.02.2008 tarih ve 6111- 2008/14 sayılı Daimi Genelge yürürlükten kaldımılmıştır
+Bağışıklama hizmetlerinin il düzeyinde yönetilmesi sırasında uyulması gereken kuralları içeren Genişletilmiş Bağışıklama Programına ilişkin Daimi Genelge ekte gönderilmektedir. Bu Daimi Genelge yayımlandığı tarihte yürürlüğe girer. Bu Genelge ile 25.02.2008 tarih ve 6111-2008/14 sayılı Daimi Genelge yürürlükten kaldırılmıştır.
 
-GBP şaşmalarında temel başvuru kaynağı olan bu Daimi Genelge her dizeyde tanıtılmalı, özel sektör dahil tüm sağlık çahışanlarının uygulamadaki değişiklikleri yakından izlemeleri sağlanmalıdır. Ekte gönderilen GBP Daimi Genelgesinin tüm sağhk kuruluşlarına (Tip Fakülteleri, Hastaneler, Özel Sağlık Kuruluşlan ve Muayenehaneler dähil) ve birinci basamak sağhk personeline imza karşılığı tebliğini ve il düzeyinde yapılacak uygulamaların genelgeye uygun olarak yürütülmesi hususunda gereğini önemle rica ederim.
+GBP çalışmalarında temel başvuru kaynağı olan bu Daimi Genelge her düzeyde tanıtılmalı, özel sektör dahil tüm sağlık çahışanlarının uygulamadaki değişiklikleri yakından izlemeleri sağlanmalıdır. Ekte gönderilen GBP Daimi Genelgesinin tüm sağlık kuruluşlarına (Tıp Fakülteleri, Hastaneler, Özel Sağlık Kuruluşlan ve Muayenehaneler dähil) ve birinci basamak sağlık personeline imza karşılığı tebliğini ve il düzeyinde yapılacak uygulamaların genelgeye uygun olarak yürütülmesi hususunda gereğini önemle rica ederim.
 
 Prof. Dr. Recep AKDAG
 
@@ -253,13 +256,13 @@ Aştyı uygulamak kadar düzenli aşı kaydı tutmanın da önemli olduğu bilin
 
 • Form 012 (Așı Kayıt Fişi): Temel aşı kayıt formudur. D-39 ay bebekler için Form 012A, 3 yaş ve üzeri için 012B formu kullanılır. Bu formlarda Sağlık Ocağı/Aile Hekimi tarafindan uygulanan tüm kamu aşıları siyah kalemle kaydedilir.
 
-Kişinin bağlı olduğu Sağlık Ocağı/Aile Hekimi dışında başka bir kurum tarafindan aşılanması durumunda aşının yapıldığı Sağlık Ocağ/Aile Hekimi tarafindan misafir Form 0124/B'ye kaydedilir ve "Bölge Dışı Aşı Bildirim Formu" doldurularak ilgili Sağlık Ocağına/Aile Hekimine ulaştırılır. Bu kayıt bağhı olduğu Sağhk Ocağı/Aile Hekimi taralından Form 012A/B'ye mavi renkli bir kalemle işlenir. Bu dozlac da Sağlık Ocağv/Aile Hekimi tarafindan eksik aşılılanın takibinde ve bölge aşı hızlarının hesabında dikkate alınur. Okul aşılamalarında da öğrencinin kayıtlı olduğu Sağhk Ocağ/Aile Hekimine bildırimin yapılması gerekir. Ay sonunda bu aşılar aşıyı uygulayan birim tarafindan Form 013'e kaydedilerek bildirilir.
+Kişinin bağlı olduğu Sağlık Ocağı/Aile Hekimi dışında başka bir kurum tarafindan aşılanması durumunda aşının yapıldığı Sağlık Ocağ/Aile Hekimi tarafindan misafir Form 0124/B'ye kaydedilir ve "Bölge Dışı Aşı Bildirim Formu" doldurularak ilgili Sağlık Ocağına/Aile Hekimine ulaştırılır. Bu kayıt bağhı olduğu Sağlık Ocağı/Aile Hekimi taralından Form 012A/B'ye mavi renkli bir kalemle işlenir. Bu dozlac da Sağlık Ocağv/Aile Hekimi tarafindan eksik aşılılanın takibinde ve bölge aşı hızlarının hesabında dikkate alınur. Okul aşılamalarında da öğrencinin kayıtlı olduğu Sağlık Ocağ/Aile Hekimine bildırimin yapılması gerekir. Ay sonunda bu aşılar aşıyı uygulayan birim tarafindan Form 013'e kaydedilerek bildirilir.
 
-Hastaneler gibi Taşınır Mal Yönetmeliğine uygun olarak aşı verilen diğer birimler tarafindan Il Sağlık Müdürlüğü veya bağlı birimlcrinden alınıp uygulanan kamu aşıları Forn 013 ve uygulanan kişilere ait ad, soyad, doğum tarihi, baba adı, T.C. Kimlik no, adres bilgileri ve aşının adı, lot no., varsa sulandıncı lot no., kaçincı doz olduğuna dair bilgileri içeren bir liste ile Il Sağlık Müdürlugune bildirilir. Il Sağlık Müdürlükleri tarafindan Sağlık Grup Başkanlıklan/TSM ler yolu ile veya doğrudan, aşı kayıtlan ilgili Sağlık Ocağına/Aile Hekimine ulaştırılır. Bu kayıt bağlı olduğu Sağlık: OcağıAile Hekimi tarafindan Form 012A/B'ye mavi renkli bir kalemle İşlenir. Bu dozlar da Sağlık Ocağı/Aile Hekimi tarafindan eksik așılıların takibinde ve bölge aşı hızlarımın hesabında dikkate alınır. Ay sonunda bu aşılar aşıyı uygulayan birim tarafindan Form 013'e kaydedilerek bildirilir.
+Hastaneler gibi Taşınır Mal Yönetmeliğine uygun olarak aşı verilen diğer birimler tarafindan İl Sağlık Müdürlüğü veya bağlı birimlcrinden alınıp uygulanan kamu aşıları Forn 013 ve uygulanan kişilere ait ad, soyad, doğum tarihi, baba adı, T.C. Kimlik no, adres bilgileri ve aşının adı, lot no., varsa sulandıncı lot no., kaçincı doz olduğuna dair bilgileri içeren bir liste ile İl Sağlık Müdürlugune bildirilir. İl Sağlık Müdürlükleri tarafindan Sağlık Grup Başkanlıklan/TSM ler yolu ile veya doğrudan, aşı kayıtlan ilgili Sağlık Ocağına/Aile Hekimine ulaştırılır. Bu kayıt bağlı olduğu Sağlık: OcağıAile Hekimi tarafindan Form 012A/B'ye mavi renkli bir kalemle İşlenir. Bu dozlar da Sağlık Ocağı/Aile Hekimi tarafindan eksik așılıların takibinde ve bölge aşı hızlarımın hesabında dikkate alınır. Ay sonunda bu aşılar aşıyı uygulayan birim tarafindan Form 013'e kaydedilerek bildirilir.
 
-Özel aşlardan, içeriğinde DaBT-IPA-Hib, KKK, KPA ve Hepatit-B antijenlerini bulunduran aşılanı uygulayan kişi ve kuruluşlar tarafindan yapılan aşılar, aşılanun kişi ve aşının bilgileri (ad, soyad, T.C. Kimlik no, doğum tarihi, baba adı, adres bilgileri ve aşının adı, lot no., varsa sulandıncı lot no., kaçıncı doz) ile bir liste halinde aylık olarak bağlı olduğu Sağlık Grup Başkanlığı/TSM/Sağlık Müdürlügüne gönderilmeli ve aşılanan kişinin kayıtlarının ilgili Sağlık Ocağındaki/Aile Hekimindeki Form 012A/B'ye tam ve doğru aktanılması sağlanmalıdır. Ayrıca saha gezilerinde tespit edilen özel aşılar da kayıt altına alınmalıdır. Ozel aşılar tarihleri belirtılerek kırmızı renkli bir kalemle ilgili formlara kaydedilir. Ay sonunda bu aşılar Sağlık Ocağı/Aile Hekimi tarafindan Form 012A/B'den Form 013B'ye aktanlır. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir. Ozel bildirimler veya saha gezileri sırasında tespit edilen GBP hedef antijenleri dışında uygulandıgı tespit edilen diger antijenler Form 012A/B'nin "Diğer" sütununa kaydedilir, bu uşıların bildirimi yapılmaz.
+Özel aşlardan, içeriğinde DaBT-IPA-Hib, KKK, KPA ve Hepatit-B antijenlerini bulunduran aşılanı uygulayan kişi ve kuruluşlar tarafindan yapılan aşılar, aşılanun kişi ve aşının bilgileri (ad, soyad, T.C. Kimlik no, doğum tarihi, baba adı, adres bilgileri ve aşının adı, lot no., varsa sulandıncı lot no., kaçıncı doz) ile bir liste halinde aylık olarak bağlı olduğu Sağlık Grup Başkanlığı/TSM/Sağlık Müdürlüğüne gönderilmeli ve aşılanan kişinin kayıtlarının ilgili Sağlık Ocağındaki/Aile Hekimindeki Form 012A/B'ye tam ve doğru aktanılması sağlanmalıdır. Ayrıca saha gezilerinde tespit edilen özel aşılar da kayıt altına alınmalıdır. Ozel aşılar tarihleri belirtılerek kırmızı renkli bir kalemle ilgili formlara kaydedilir. Ay sonunda bu aşılar Sağlık Ocağı/Aile Hekimi tarafindan Form 012A/B'den Form 013B'ye aktanlır. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir. Ozel bildirimler veya saha gezileri sırasında tespit edilen GBP hedef antijenleri dışında uygulandıgı tespit edilen diger antijenler Form 012A/B'nin "Diğer" sütununa kaydedilir, bu uşıların bildirimi yapılmaz.
 
-• Form 012A (U-59 ay aşı kayıt fişi): Temel aşı kayıt formudur. Bu formda kurum tarafından uygulanan tüm kamu aşılanı siyah kalemle kaydedilir. Bu form Sağlık Ocağı bölgesinin buyukluğüne göre her Sağlık Evi veya Muhtarlık, sokak, vb. düzeyinde hazırlanır. Doğan, tespit edilen veya Saglık Ocağı bölgesine gelen her bebek, Ev Halkı Tespit Fişi (ETE), Form 004, Form 006 ve Form 012A'ya kaydedilir. Aile Hekimleri de kayıtlı bebek ve çocuklarını Form 012A'ya kaydeder. Form 012A'da yapılan aşıların her biri tarih, gün-ay-yıl olarak ilgili alana kaydedilmeli, aşanin ve varsa sulandincisınin lot no'su da belirtilmelidir.
+• Form 012A (U-59 ay aşı kayıt fişi): Temel aşı kayıt formudur. Bu formda kurum tarafından uygulanan tüm kamu aşılanı siyah kalemle kaydedilir. Bu form Sağlık Ocağı bölgesinin buyukluğüne göre her Sağlık Evi veya Muhtarlık, sokak, vb. düzeyinde hazırlanır. Doğan, tespit edilen veya Sağlık Ocağı bölgesine gelen her bebek, Ev Halkı Tespit Fişi (ETE), Form 004, Form 006 ve Form 012A'ya kaydedilir. Aile Hekimleri de kayıtlı bebek ve çocuklarını Form 012A'ya kaydeder. Form 012A'da yapılan aşıların her biri tarih, gün-ay-yıl olarak ilgili alana kaydedilmeli, aşanin ve varsa sulandincisınin lot no'su da belirtilmelidir.
 
 Bu forma diğer sağlık birimleri ve özel hekimler tarafindan yapılan aşılar da tarihleri belirtilerek farklı renkte bir kalemle kaydedilir (Kamu aşıları için mavi, özel aşılar için kırmızı renkli kalem kullamılmalıdır). 60 aylık olan çocukların kayıtlanı form 012B'ye aktarılır. Form 012A, Form 013 ve Form 013B'nin veri kaynağıdır.
 
@@ -269,7 +272,7 @@ Yeni doğan veya tespit edilen her bebek, Form 012A'ya kaydedilirken annenin tet
 
 • Form 012B (5 yaş üzeri ayı kayıt fişi): 012A gibi temel așt kayıt formudur. Bu formda kurum terafindan uygulanan tüm kamu aşıları siyah kalemle kaydedilir. 5 yaşını geçen kişilere yapılan GBP aşıları bu forma tarih, gün-ay-yıl olarak belirtilerek aşının ve varsa sulandıracısının lot no'su ile kaydedilmelidir. Bu forma ayrıca, diğer sağlık birimleri ve üzel hekimler tarafindan yapılan aşılar da tarihleri belirtilerek farklı renkte bir kalemle kaydedilir (Kamu aşılan için mavi, özel aşılar için kırmızı renkli kalem kullanılmalıdır). Form 012A ile birlikte, Form 013 ve Form 013B'nin veri kaynağıdır. Okul çağı ve erişkin dönem aşılamalarının da bu forma kaydedilmesi gerektiği unutulmamalıdır.
 
-• Form 013: Saghk Ocağı, Aile Hekimi (AH). Toplum Sağlığı Merkezi (TSM), diğer kuruluşlar ve Sağlık Müdürlugu duzeyinde, yapılan aşıların ve aşı, antiscrum, cnjektör ve atık kutusu stok durumunun aylık olarak bir üst kademeye bildirilmesi için kullanılı. Her ayın sonunda Sağlık Ocağı. AH ve TSM tarafindan, o ay yapılan aşılar Form 012A'dan ve Form 012B'den, yaş grubuna göre ayrılarak, bu forma aktarılır. Kurumlarda Form 013 hazırlanırken sadece o kurumda uygulanan kamu aşılan bildirilecektir. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir.
+• Form 013: Sağlık Ocağı, Aile Hekimi (AH). Toplum Sağlığı Merkezi (TSM), diğer kuruluşlar ve Sağlık Müdürlugu duzeyinde, yapılan aşıların ve aşı, antiscrum, cnjektör ve atık kutusu stok durumunun aylık olarak bir üst kademeye bildirilmesi için kullanılı. Her ayın sonunda Sağlık Ocağı. AH ve TSM tarafindan, o ay yapılan aşılar Form 012A'dan ve Form 012B'den, yaş grubuna göre ayrılarak, bu forma aktarılır. Kurumlarda Form 013 hazırlanırken sadece o kurumda uygulanan kamu aşılan bildirilecektir. Burada temel amaç; yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir.
 
 Hep B 1. dozunun ilk 72 saat içinde uygulanması Hepatit B Kontrol Programının gereğidir ve bu uygulamanın Sağlık Ocağı/Aile Hekimi, Il ve Ulke düzeyinde takibi gereklidir. Doğumda hastanede uygulanan Hep B 1. doz aşılarının Sağlık OcağıAile Hekimi tarafindan takip edilebilmesi amacıyla bu aşının bildirimi, Form 013 ile bebeğin baglı olduğu kurum tarafindan da yapılmahdır. Ay sonunda, Sağlık Ocağı/Aile Hekimine hastanelerde uygulandığı bildirilen Hep B
 
@@ -285,7 +288,7 @@ Form 013B, takip eden ayın ilk haftası içinde Sağlık Müdürlüğüne gönd
 
 • Bölge Dışı Aşı Bildirim Formu: Kişinin bağlı olduğu Sağlık Ocağ/Aile Hekimi dışında başka bir sağlık kurumu tarafindan aşılanması durumunda ilgili Sağlık Ocağına/Aile Hekimine bildirimde kullanılacaktır.
 
-• Form 004 (Kişisel Sağhk Fişi): Her aşt sansından sonra Form 012A ve B aşı kayıt formlarına kaydedilen aşılar, tarihi gün-ay-yıl olarak belirtilecek şekilde bu forma aktarılır.
+• Form 004 (Kişisel Sağlık Fişi): Her aşt sansından sonra Form 012A ve B aşı kayıt formlarına kaydedilen aşılar, tarihi gün-ay-yıl olarak belirtilecek şekilde bu forma aktarılır.
 
 • Form 005 (Gebe- Lohusa Izleme Fişi): Gebelere yapılan ve Form 012B'ye kaydedilen Td aşılan, tarihi gün-ay-yıl olarak belirtilecek şekilde Form 005°c de kaydedilmelidir.
 
@@ -315,7 +318,7 @@ o Okul Aşı Kartı: Okul aşılamaları sırasında aşılanan her çocuk Form 
 
 ### kaydedilir ve yapılan aşılar gün-ay-yıl şeklinde tarihi belirtilerek aşı kartı verilir.
 
-• Aykık GBP Sürveyans Formu: Bu formun temel amacı GBP kapsamındaki hastahklarla ilgili aşılanma durumu verilerini ayrıntılı olarak toplamak ve sahadaki așı otkinliğini izlemektir. Bu nedenle vakaların aşılanma durumları iyi araştırılmalı ve bilinmiyor sütununda vaka kalmamasına özen gösterilmelidir. Ay sonunda Form 016'ya (Bildirimi Zorunlu Hastalıklar Tespit Fişi) göre tespit edilen GBP kapsamındaki hastalıklar (tüberküloz hariç) bu forma aktarılır ve aym ilk haftası içinde Sağlık Müdürluğüne gönderilir. Gelen formlar Sağlık Müdürlüğünde toplanarak tek bir form haline getirilir ve takip eden ayın en geç 20'sine kadar TSIM programına girilir ve ay sonuna kadar Sağhk Bakanlığına ulaştınıhr. Bu formda yer alan GBP hastalıklanna ait sayılar ile Form 017 erdeki sayılar aym olmalıdır.
+• Aykık GBP Sürveyans Formu: Bu formun temel amacı GBP kapsamındaki hastahklarla ilgili aşılanma durumu verilerini ayrıntılı olarak toplamak ve sahadaki așı otkinliğini izlemektir. Bu nedenle vakaların aşılanma durumları iyi araştırılmalı ve bilinmiyor sütununda vaka kalmamasına özen gösterilmelidir. Ay sonunda Form 016'ya (Bildirimi Zorunlu Hastalıklar Tespit Fişi) göre tespit edilen GBP kapsamındaki hastalıklar (tüberküloz hariç) bu forma aktarılır ve aym ilk haftası içinde Sağlık Müdürluğüne gönderilir. Gelen formlar Sağlık Müdürlüğünde toplanarak tek bir form haline getirilir ve takip eden ayın en geç 20'sine kadar TSIM programına girilir ve ay sonuna kadar Sağlık Bakanlığına ulaştınıhr. Bu formda yer alan GBP hastalıklanna ait sayılar ile Form 017 erdeki sayılar aym olmalıdır.
 
 • Ayı İzlem Çizelgeleri: Her Sağlık Ocağıda/TSM'de, bölgesindeki aşılama hızlarını izlemek için, her bir antijene özel çizelgeler hazırlanmalı, aylık olarak işlenmeli ve aşılama hızlarımın yıl içindeki seyri ve hedefe ulaşma düzeyi bu çizelgeler ile izlenmelidir.
 
@@ -563,7 +566,7 @@ Negatif kabul edilir ve aşılanır.
 
 ### negatif kabul edilip aşılanır. 10 mm ve üzeri ise pozitif kabul edilir.
 
-Pozitif kabul edilir, enfeksiyon olarak degerlendirilir ve ailesi ile birlikte
+Pozitif kabul edilir, enfeksiyon olarak değerlendirilir ve ailesi ile birlikte
 
 incelenir, hasta bulunmazsa koruyucu tedaviye ahınır. * Endussyonun (oluşan sertliğin) çapı ölçülmeli, kızarıklık ölçülmemelidir.
 
@@ -611,7 +614,7 @@ Sağlık Ocağı / Aile Hekimi Ayda bir
 
 Sağlık Evi Haftada bir
 
-Kurumların aşı, antiserum ve malzeme ihtiyaçları bu sevk dönemi süreleri dikkate alınarak hesaplanır. Sağlık Bakanlığı merkez deposundan Il Sağlık Mudurluklerine aşı ve antiserum dağıtımı aşąğıda belirtilen dönemler için. ilgili dönemin ilk ayında il deposunda olacak şekilde yapılmaktadır.
+Kurumların aşı, antiserum ve malzeme ihtiyaçları bu sevk dönemi süreleri dikkate alınarak hesaplanır. Sağlık Bakanlığı merkez deposundan İl Sağlık Mudurluklerine aşı ve antiserum dağıtımı aşąğıda belirtilen dönemler için. ilgili dönemin ilk ayında il deposunda olacak şekilde yapılmaktadır.
 
 Sevk dönemi Aylar
 
@@ -627,7 +630,7 @@ Ekim - Kasım - Aralık
 
 Dönemlik aşı ihtiyacı belirlenirken o dönemde tüketilmesi planlanan aşı yanında rezerv stok ve fire de dikkate alınmalıdır.
 
-a) Il Sağlık Müdürlüğü Ayı İhtiyacı:
+a) İl Sağlık Müdürlüğü Ayı İhtiyacı:
 
 Her dönemde kullanılmast beklenen aşı miktarı, her antijen için dönem hedef nüfusu göz Unünde bulundurularak ayrı aynı hesaplanmalıdır. Yıllık hedef nüfus dörde bölünerek üç aylık dönem hedef nüfusu bulunur. Belirlenen hedef nüfus uygulanan aşı doz sayıst ile çarpılarak yapılacak așı miktarı hesaplanır (örneğin katsayı DaBT-IPA-Hib ve KPA için dört, Hep B için Uç, BOG için bir, vb olmalıdır). Hesaplanan șı miktarına fire payı ve rezerv stok eklendikten sonra çıkan miktar ilin üç aylık ihtiyacını yansıtmaktadır. Son olarak hesaplanan bu miktardan il depo mevcudu çıkarılarak nihai üç ayhık İstek miktarı bulunmalıdır.
 
@@ -753,7 +756,7 @@ adt, soyads bulunmaldtr.
 
 • Ankara merkez depodan kurye ile sevk yapılması gereken hallerde, aşı naklinde yalnızca uzun ömürlü aşı nakil kabı kullanılmahdır.
 
-• Illerden kurumlara aylık olarak yapılan aşı sevklerinde 4 saate kadar olan mesafelere askıh tip aşı nakil kabı kullanılabilir. Daha uzun mesafeler için uzun ömürlü aşı nakil kabı kullan.lmaldat.
+• İllerden kurumlara aylık olarak yapılan aşı sevklerinde 4 saate kadar olan mesafelere askıh tip aşı nakil kabı kullanılabilir. Daha uzun mesafeler için uzun ömürlü aşı nakil kabı kullan.lmaldat.
 
 • Il içi aşı nakillerinin Il Soğuk Zincir Sorumlusunun gözetiminde merkezden kurumlara tek elden yürütülmesi esastır. Bu amaçla kullarılmak üzere aşı nakil araçları hizmete sunulmalidir.
 
@@ -845,7 +848,7 @@ olarak imhası sağlanmalıdır.
 
 ### J-) GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMINDA ÇALISAN PERSONELİN GÖREV VE SORUMLULUKLARI IL DUZEYINDE YAPILACAK IŞLER:
 
-Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi, Illerde bağışıklama hizmetlerinin planlama, izleme, denetleme, değerlendirme ve lojistiğinden sorumlu bir ekibin bulunmasını gerektirmektedir. Ekibin başkamı I1 Sağlık Müdürü'dür ve bağışıklama hizmetlerinin il düzeyinde yürütülmesinden birinci derecede sorumludur. II Aşı Sorumlusu; bulaşıcı hastalıklardan sorumlu Sağlık Müdür Yardımcısı veya Bulaşıcı Hastalıklar Şube Müdürü olabileceği gibi, ilin durumuna göre Sağlık Müdür Yardımcısına bağlı olarak çalışacak, tam gün Sağlık Müdürlüğünde görevli ve sadece GBP'den sorumlu ve bu konuda yetkili olacak başka bir hekim de olabilir. Şube olarak il düzeyinde bağışıklama hizmetlerinin yürütülmesinden Bulaşıcı Hastalıklar Şubesi sorumludur. Il Soğuk Zincir Sorumlusu, tam gün Sağlık Müdürlüğünde çalışan hekim dışt saglık personeli olmalidır Il Aşı Sorumlusu ve İI Soğuk Zincir Sorumlusunun, iş yüklerinin paylaşılması ve bu kişilerin yokluğunda işlerin aksamadan yürütülebilmesi için yardımeıları olmalıdır. Il Aşı Sorumlusu ve Yardımcisının Görevleri:
+Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi, İllerde bağışıklama hizmetlerinin planlama, izleme, denetleme, değerlendirme ve lojistiğinden sorumlu bir ekibin bulunmasını gerektirmektedir. Ekibin başkanını I1 Sağlık Müdürü'dür ve bağışıklama hizmetlerinin il düzeyinde yürütülmesinden birinci derecede sorumludur. II Aşı Sorumlusu; bulaşıcı hastalıklardan sorumlu Sağlık Müdür Yardımcısı veya Bulaşıcı Hastalıklar Şube Müdürü olabileceği gibi, ilin durumuna göre Sağlık Müdür Yardımcısına bağlı olarak çalışacak, tam gün Sağlık Müdürlüğünde görevli ve sadece GBP'den sorumlu ve bu konuda yetkili olacak başka bir hekim de olabilir. Şube olarak il düzeyinde bağışıklama hizmetlerinin yürütülmesinden Bulaşıcı Hastalıklar Şubesi sorumludur. Il Soğuk Zincir Sorumlusu, tam gün Sağlık Müdürlüğünde çalışan hekim dışt sağlık personeli olmalidır Il Aşı Sorumlusu ve İI Soğuk Zincir Sorumlusunun, iş yüklerinin paylaşılması ve bu kişilerin yokluğunda işlerin aksamadan yürütülebilmesi için yardımeıları olmalıdır. Il Aşı Sorumlusu ve Yardımcisının Görevleri:
 
 1. Bakanlık politika ve stratejileri doğrultusunda, ilin bağışıklama hizmetlerindeki mevcut durumu ve kaynaklarını göz önünde bulundurarak, bağışıklama hizmetlerinin amaç ve hedefleriai tespit etmek, yılhk plan ve programları hazırlamak;
 
@@ -877,11 +880,11 @@ Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi, I
 
 • Bölge dışt aşı uygulamalarını ilgili Sağlık Müdürlüklerine zaman geçirmeden aylık olarak bildirmek,
 
-hastalıklarla ilgili bilgilerin Saghk : Ocaklar/Aile Hekimleri/TS'lerden Sağlık Müdürlüğü'ne, Sağlık Müdürlüğü'nden Sağlık Bakanlığı'na zamanında ve doğru olarak gönderilmesini sağlamak,
+hastalıklarla ilgili bilgilerin Sağlık : Ocaklar/Aile Hekimleri/TS'lerden Sağlık Müdürlüğü'ne, Sağlık Müdürlüğü'nden Sağlık Bakanlığı'na zamanında ve doğru olarak gönderilmesini sağlamak,
 
 • Eğitim Şubesi ile birlikte hazırlanan eğitim programlarını uygulamak amacıyla; sağlık kurumlarında ve merkezde eğitim, değerlendirme toplantıları yapmak, yayın organlarından faydalanmak suretiyle halk eğitimi yapmak ve sağlık personeline görev başında eğitim vermek,
 
-• Bakanlıktan sağlanan GBP ile ilgili eğitim materyallerinin ildeki sağhk kurumlarına uygun bir şekilde dağıtılmasanı ve kullanılmasını sağlamak,
+• Bakanlıktan sağlanan GBP ile ilgili eğitim materyallerinin ildeki sağlık kurumlarına uygun bir şekilde dağıtılmasanı ve kullanılmasını sağlamak,
 
 • Denetim planına uygun olarak sağlık kurumlannda denetim yapmak, saptanan aksaklıklara yönelik çözümler üretmek.
 
@@ -891,7 +894,7 @@ hastalıklarla ilgili bilgilerin Saghk : Ocaklar/Aile Hekimleri/TS'lerden Sağl�
 
 • Sağlık kurumlarından gönderilen Form 017*leri değerlendirmek, GBP Sürveyans Formu ile karşılaştırmak, aşıyla korunulabilir bulaşıcı hastalıkların insidans ve prevalanslarımı tespit etmek ve yıllık pidemiyolojik harita, cetvel ve değerlendirme raporlanını düzenlemek,
 
-• Ilgili şubelerle birlikte, aşılama hızlanı ile aşı ile korunulabilir bulaşıcı hastalık vaka sayılarını korşılaştırarak degerlendirmek, (Form 023 lerden yararlanarak ilin gebe ve çocuk sayılarını belirleyip yapılan aşılamalarla karşılaştırmak) ve bu doğrultuda bir sonraki yılın hedef ve stratejilerini belirlemek,
+• Ilgili şubelerle birlikte, aşılama hızlanı ile aşı ile korunulabilir bulaşıcı hastalık vaka sayılarını korşılaştırarak değerlendirmek, (Form 023 lerden yararlanarak ilin gebe ve çocuk sayılarını belirleyip yapılan aşılamalarla karşılaştırmak) ve bu doğrultuda bir sonraki yılın hedef ve stratejilerini belirlemek,
 
 • Sağlık Grup Başkanlıklarının/TSM'lerin bağlı birimlerinin aşılama çalışmalarını denetlediğini kontrol etmek,
 
@@ -911,7 +914,7 @@ Il Soğak Zincir Sorumlusu ve Yardımcısının Görevleri:
 
 ### İLÇE DÜZEYİNDE YAPILACAK İŞLER:
 
-Genişletilmiş Bagışıklama Programının başanı ile yürütülebilmesi ilçe düzeyinde de sorumlu bir ekibin bulunmasını gerektirmektedir. Ilçelerde ekibin başkamı Sağlık Grup Başkanıdır ve bağışıklama hizmetlerinin ilçe düzeyinde yürütülmesinden birinci derecede sorumludur. Ilçe Aşı Sorumlusu, Il Sağlık Müdürd tarafindan Il Aşı Sorumlusunun öncrileri doğrultusunda belirlenir. Ilçe Aşı Sorumlusu Sağlık Grup Başkanı olabileceği gibı, ilçede tam gün çalışan, tercihen kalıcı ve deneyimli bir başka hekim de olabilir. Ilçe așı sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka hekim görevlendirilir. Ilde aşı, serum ve enjektörlerin dağıtımının Sağlık Grup Başkanlıklan üzerinden yapıldığı durumlarda Ikçe Soğuk Zincir Sorumlusu tam gün Sağhık Grup Başkanlığında çalışan hekim dışı sağlık personeli olmalıdır. Ilçe soğuk zincir sorumlusunun görevde olmadığı durumlarda çalışmalanı yirltecek bir başka personel görevlendirilir. İlçe Aşı Sorumlusunun Görevleri:
+Genişletilmiş Bagışıklama Programının başanı ile yürütülebilmesi ilçe düzeyinde de sorumlu bir ekibin bulunmasını gerektirmektedir. Ilçelerde ekibin başkanını Sağlık Grup Başkanıdır ve bağışıklama hizmetlerinin ilçe düzeyinde yürütülmesinden birinci derecede sorumludur. Ilçe Aşı Sorumlusu, İl Sağlık Müdürd tarafindan Il Aşı Sorumlusunun öncrileri doğrultusunda belirlenir. Ilçe Aşı Sorumlusu Sağlık Grup Başkanı olabileceği gibı, ilçede tam gün çalışan, tercihen kalıcı ve deneyimli bir başka hekim de olabilir. Ilçe așı sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka hekim görevlendirilir. Ilde aşı, serum ve enjektörlerin dağıtımının Sağlık Grup Başkanlıklan üzerinden yapıldığı durumlarda Ikçe Soğuk Zincir Sorumlusu tam gün Sağhık Grup Başkanlığında çalışan hekim dışı sağlık personeli olmalıdır. Ilçe soğuk zincir sorumlusunun görevde olmadığı durumlarda çalışmalanı yirltecek bir başka personel görevlendirilir. İlçe Aşı Sorumlusunun Görevleri:
 
 1. Ilçedeki Sağlık Ocaklar/Aile Hekimlerinin ve ilçe geneli/TSM Bölgesinin her aşa için, aylık ve yıllık aşılama ve aşıya devamsızlık hızlarını saptamak, gratiklerle göstermek, başarısızlık nedenlerini araştırmak ve Sağlık Ocağı hekimi/TSM sorumlu hekimi ile birlikte alternatif çözümler aramak, aylık olarak aşı ve aşıya devamsızlık hızları ile aşıyla korunabilir hastalık bildirimleri konusunda geri bildirimde bulunmak,
 
@@ -921,13 +924,13 @@ Genişletilmiş Bagışıklama Programının başanı ile yürütülebilmesi il�
 
 • Ilçedeki Sağlık Ocaklan sorumluları/TSM sorumlu hekimleri ile aşılama faaliyetlerinin planlarını hazırlamak, eğitim ve değerlendirme toplantılar düzenlemek,
 
-• Hazırlanan planın uygulanması için araç ve personel ihtiyacımı organize etmek,
+• Hazırlanan planın uygulanması için araç ve personel ihtiyacını organize etmek,
 
 • Gerekli olan yerlere aşılama hizmetlerinin gezici ekiplerle yapılması için çalışma
 
-• Araç temini konusunda Kaymakamlıkların ve Sağlık Müdürlügünün bilgisi dahilinde Belediyelerin ve diğer kuruluşlann desteklerini sağlamak,
+• Araç temini konusunda Kaymakamlıkların ve Sağlık Müdürlüğünün bilgisi dahilinde Belediyelerin ve diğer kuruluşlann desteklerini sağlamak,
 
-• Sağhk Ocağw/Aile hekimleri/TSM çalışmalarının temel göstergeleri olan kayıt sistemini ve aylık çalışma bildirimlerini düzenli olarak kontrol etmek ve bu kayıtlardaki eksikliklerin giderilmesi hususunda personele gerekli eğitimleri vermek,
+• Sağlık Ocağw/Aile hekimleri/TSM çalışmalarının temel göstergeleri olan kayıt sistemini ve aylık çalışma bildirimlerini düzenli olarak kontrol etmek ve bu kayıtlardaki eksikliklerin giderilmesi hususunda personele gerekli eğitimleri vermek,
 
 • Sağlık Ocaklarında tespit edilen her çocuğun ve gebenin ilgili kayıtlara düzenli olarak geçmesini sağlamak,
 
@@ -955,9 +958,9 @@ Genişletilmiş Bagışıklama Programının başanı ile yürütülebilmesi il�
 
 ### SAĞLIK OCAĞI DÜZEYİNDE YAPILACAK İŞLER:
 
-Genişletilmiş Bağışıklama Programını başan ile yürütülebilmesi Sağlık Ocağı düzeyinde sorumlu bir ekibin bulunmasını gerektirmektedir. Sağlık Ocaklarında ekibin buşkamı Sağlık Ocağı Sorumlu Hekimidir ve bağışıklama hizmetlerinin Sağlık Ocağı bölgesi düzeyinde yürütülmesinden birinci derecede sorumludur. Sağlık Ocağı Aşı Sorumlusu, Sağlık Grup Başkanı tarafindan liçe Aşı Sorumlusunun önerileri doğrultusunda belirlenir. Sağhk Ocağı așt sorumlusu Sorumlu Hekim olabileceği gibi, bir başka hekim de olabilir. Sağlık Ocağı aşı sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka hekim görevlendirilir. Sağlık Ocağında hekim dışı bir sağlık personeli Sağlık Ocağı Soğuk Zincir Sorumlusu olarak görevlendirilir. Soğuk zincir sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka personel belirlenmelidir.
+Genişletilmiş Bağışıklama Programını başan ile yürütülebilmesi Sağlık Ocağı düzeyinde sorumlu bir ekibin bulunmasını gerektirmektedir. Sağlık Ocaklarında ekibin buşkamı Sağlık Ocağı Sorumlu Hekimidir ve bağışıklama hizmetlerinin Sağlık Ocağı bölgesi düzeyinde yürütülmesinden birinci derecede sorumludur. Sağlık Ocağı Aşı Sorumlusu, Sağlık Grup Başkanı tarafindan liçe Aşı Sorumlusunun önerileri doğrultusunda belirlenir. Sağlık Ocağı așt sorumlusu Sorumlu Hekim olabileceği gibi, bir başka hekim de olabilir. Sağlık Ocağı aşı sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka hekim görevlendirilir. Sağlık Ocağında hekim dışı bir sağlık personeli Sağlık Ocağı Soğuk Zincir Sorumlusu olarak görevlendirilir. Soğuk zincir sorumlusunun görevde olmadığı durumlarda çalışmaları yürütecek bir başka personel belirlenmelidir.
 
-Saghk Ocağı Aşı Sorumlusunun Görevleri:
+Sağlık Ocağı Aşı Sorumlusunun Görevleri:
 
 1. Bakanlık politika ve stratejileri doğrultusunda Sağlık Ocağı bölgesinde bağışıklama hizmetlerini yürütmek için aylık, yıllık plan ve programlar hazırlamak,
 
@@ -969,9 +972,9 @@ Saghk Ocağı Aşı Sorumlusunun Görevleri:
 
 • Personele yönelik hizmet içi eğitim programları yapmak ve düzenli olarak hizmet içi eğitim vermek, personelin GBP ve soğuk zincir konusunda eğitimlerini gerçekleştirmek,
 
-• Sağhk Ocağında tespit edilen her çocuğun ve gebenin kayıtlarının düzenli olarak
+• Sağlık Ocağında tespit edilen her çocuğun ve gebenin kayıtlarının düzenli olarak
 
-• ETF kayıtlarının yıl içerisinde sürekli olarak tutulmasını sağlamak; yeni doğan, ölen, göçen ve bölgeye yeni gelenlerin anında ETF'ye geçilmesini ve bu kayıtların takibinin yapılmasım sağlamak, yıl ortasında ETF'lerden Sağlık Ocağı bölgesi nüfus tespitleri yapıp Saglık Müdürlüğüne göndermek,
+• ETF kayıtlarının yıl içerisinde sürekli olarak tutulmasını sağlamak; yeni doğan, ölen, göçen ve bölgeye yeni gelenlerin anında ETF'ye geçilmesini ve bu kayıtların takibinin yapılmasım sağlamak, yıl ortasında ETF'lerden Sağlık Ocağı bölgesi nüfus tespitleri yapıp Sağlık Müdürlüğüne göndermek,
 
 • Gebe ve çocuk izlemlerinin ebe ve hemşireler tarafindan amaca uygun olarak yapılmasın denetlemek,
 
@@ -991,7 +994,7 @@ Saghk Ocağı Aşı Sorumlusunun Görevleri:
 
 • Sağlık Ocağı Aşı Izlem Çizelgeleri, bulaşıcı hastalıkların aylık, yıllık izlem grafikleri ve haritalannın hazırlanmasını sağlamak,
 
-• Oçer aylık ve yıllık değerlendirme raporu ve yıllık faaliyet raporunu hazırlayıp Sağlık Müdürlügüne göndermek,
+• Oçer aylık ve yıllık değerlendirme raporu ve yıllık faaliyet raporunu hazırlayıp Sağlık Müdürlüğüne göndermek,
 
 • Sağlık Ocağına bağh köy ve mahalle Sağlık Evlerini düzenli arahklarla denetlemektir.
 
@@ -1007,7 +1010,7 @@ Sağlık Ocağı Soğuk Zincir Sorumlusunun Görevleri:
 
 ### AILE HEKİMLIGI DÜZEYINDE YAPILACAK IŞLER:
 
-Aile hekimliği sisteminin yürütüldüğü illerde Genişletilmiş Bağışıklama Programını başanı ile yürutülebilmesi için her aile hekiminin kayıtlı kişileri özellikle bebek, çocuk ve gebeleri düzenli takip etmesi gerekir. Her aile hekimi ve aile sağlığı elemanı bu konuda bir ekip oluşturur ve sağhk ocağı sistemindeki benzeri çalışmaları yürütür. Aile hekimi kendisine kayıthı kişiler için aşı sorumlusu iken aile sağlığı elemanı da soğuk zincir sorumlusu olarak görevlidir. Aile hekımleri ve aile sağhğı elemanlan bu genelge kapsamında "Sağhk Ocağı Düzeyinde Yapılacak Işler" bölümünde bulunan görevleri mevcut Aile Hekimliği ile ilgili mevzuat çerçevesinde yerine getirirler. Aile Hekimleri ve Aile Sağlığı Elemanları GBP'nin belirlenen hedeflere uygun olarak yürütülmesinden Toplum Sağlığı Merkezine/Sağlık Grup Başkanlığına karşı sorumludur ve TSM'ler tarafindan denetlenirler.
+Aile hekimliği sisteminin yürütüldüğü illerde Genişletilmiş Bağışıklama Programını başanı ile yürutülebilmesi için her aile hekiminin kayıtlı kişileri özellikle bebek, çocuk ve gebeleri düzenli takip etmesi gerekir. Her aile hekimi ve aile sağlığı elemanı bu konuda bir ekip oluşturur ve sağlık ocağı sistemindeki benzeri çalışmaları yürütür. Aile hekimi kendisine kayıthı kişiler için aşı sorumlusu iken aile sağlığı elemanı da soğuk zincir sorumlusu olarak görevlidir. Aile hekımleri ve aile sağhğı elemanlan bu genelge kapsamında "Sağlık Ocağı Düzeyinde Yapılacak Işler" bölümünde bulunan görevleri mevcut Aile Hekimliği ile ilgili mevzuat çerçevesinde yerine getirirler. Aile Hekimleri ve Aile Sağlığı Elemanları GBP'nin belirlenen hedeflere uygun olarak yürütülmesinden Toplum Sağlığı Merkezine/Sağlık Grup Başkanlığına karşı sorumludur ve TSM'ler tarafindan denetlenirler.
 
 ### K-) AȘI SONRASI İSTENMEYEN ETKİ (ASİE):
 
@@ -1015,7 +1018,7 @@ Aşı uygulanan bir kişide, aşı sonrası ortaya çıkan, bilinen aşı yan et
 
 Aşılar çok güvenilir maddelerdir. Üretim ve dağıtım aşamalarında çok sıkı kontrolden geçmektedirler. Olkemizde kullanılan aşılar Dünya Sağlık Örgütü (DSÖ) tarafindan öncrilen ve onaylanan lyi Üretim Prosedürleri (GMP) kurallarına uygun üretilmiş ve uluslararası referans laboratuarlarında test edilmiş olan aşılardır. Ayrica kullanılacak aşılar teslim alımıp sahada kullanıma sunulmadan önce, Ulusal Referans Laboratuarlarımızda da test edilmekte ve uygun olduğu kanıtlanan aşıların kabulü yapılmaktadır.
 
-Aşılama sonrası sıklıkla hafif, oldukça nadir olarak da yaşamı tehdit edecek kadar ciddi istenmeyen etkiler gözlenebilir. Saglık personelinin büyük çoğunluğu meslek hayatları süresince ciddi bir istenmeyen etki ile karşılaşmayabilirler. Ancak karşılaştıkları zaman da yapmaları gerekenler konusunda yeterli eğitim ve bilgiye sahip olmalıdırlar.
+Aşılama sonrası sıklıkla hafif, oldukça nadir olarak da yaşamı tehdit edecek kadar ciddi istenmeyen etkiler gözlenebilir. Sağlık personelinin büyük çoğunluğu meslek hayatları süresince ciddi bir istenmeyen etki ile karşılaşmayabilirler. Ancak karşılaştıkları zaman da yapmaları gerekenler konusunda yeterli eğitim ve bilgiye sahip olmalıdırlar.
 
 Unutulmamalıdır ki hemen her durumda çocuğun aşı ile korunulabilir hastalıklara yakalanma ve bu hastalığa bağlı nedenlerle ölme ya da sakat kalma olasılığı, aşılama ile oluşabilecek istenmeyen etkilerin görülme olasılığt ile karşılaştınlamayacak kadar fazladır.
 
@@ -1051,7 +1054,7 @@ ASIE ile karşılaşan sağlık personeli, hekim tarafindan değerlendirilen ve 
 
 II ASİE İzlem Sorumlusu;
 
-Her ilde il ASİE İzlem Sorumlusu belirlenecektir. İl Saglık Müdürlugunda Bulaşicı Hastalıklar Şube Müdüri, II ASTE Izlem Sorumlusudur. Ancak gerekli durumlarda başka bir hekim de gorevlendirilebilir. Ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumların araștırılması ve degerlendirilmesi amacıyla II ASIE Danışma Kurulu oluşturalur.
+Her ilde il ASİE İzlem Sorumlusu belirlenecektir. İl Sağlık Müdürlugunda Bulaşicı Hastalıklar Şube Müdüri, II ASTE Izlem Sorumlusudur. Ancak gerekli durumlarda başka bir hekim de gorevlendirilebilir. Ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumların araștırılması ve değerlendirilmesi amacıyla II ASIE Danışma Kurulu oluşturalur.
 
 II ASIE Izlem Sorumlusu;
 
@@ -1225,13 +1228,13 @@ sonra en yakın zamanda, tercihen ilk 24 saat içinde yapılmalıdır.
 
 hızına ulaşmak
 
-- Risk grubu aşılamaları: Sağhk kurumlarına başvuruları durumunda aşağıda belirtilen risk
+- Risk grubu aşılamaları: Sağlık kurumlarına başvuruları durumunda aşağıda belirtilen risk
 
 gruplarına aşı uygulaması yapılır.
 
 • Hasta ve hasta çikartıları ile teması bulunan tum saglik personeli
 
-• Sağlık calısanlarını yetistirildiği tıp fakülteleri, diş hekimliği fakülteleri, saglık meslel
+• Sağlık calısanlarını yetistirildiği tıp fakülteleri, diş hekimliği fakülteleri, sağlık meslel
 
 yüksekokullanı vs. öğrencileri,
 

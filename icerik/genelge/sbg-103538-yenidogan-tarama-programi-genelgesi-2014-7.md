@@ -7,16 +7,14 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103538/yenidogan-tarama-programi-genelgesi-20147.html"
 durum: "yürürlükte"
+konu: "Yenidoğan Tarama Programı Genelgesi (2014/7) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 6.3.57. Yenidoğan Tarama Programı Genelgesi (2014/7)
 
-(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) ( / )
-
-### T.C. SAĞLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
-
-Sayı : 67414668- Konu : Yenidoğan Tarama Programı yeterince oral beslenmeden alınmışsa hastaya ilk hafta içinde aile hekimlerine ya da en yakın sağlık kurumuna başvurarak yeni topuk kanı örneği aldırması gerektiği söylenmelidir.
+Sayı : 67414668- Konu: Yenidoğan Tarama Programı yeterince oral beslenmeden alınmışsa hastaya ilk hafta içinde aile hekimlerine ya da en yakın sağlık kurumuna başvurarak yeni topuk kanı örneği aldırması gerektiği söylenmelidir.
 
 2. Birinci basamak (ASM, TSM) hizmetlerinden faydalanmak üzere gelen her yeni doğan bebeğin, daha önce hastanede topuk kanı alınıp alınmadığı, alındı ise ne zaman alındığı ve kan alımı öncesi bebeğin beslenip beslenmediği yönünden ayrıntılı olarak sorgulanması gerekmektedir. Daha önce topuk kanı alınmadıysa veya topuk kanı bebekten 48 saat dolmadan ya da emzirilmeden önce alındıysa mutlaka mükerrer kan örneği alınmalıdır. Bebeklerden sadece bir kez mükerrer kan örneği alınmalıdır.
 
@@ -36,9 +34,7 @@ Sayı : 67414668- Konu : Yenidoğan Tarama Programı yeterince oral beslenmeden 
 
 10. Web sisteminde kaydına izin verilmeyen ve herhangi bir nedenle bebekten fazladan alınmış olan numunelerin laboratuara gönderilmeyerek tutanakla imha edilmesi gerekmektedir.
 
-### T.C. SAĞLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
-
-Sayı : 67414668- Konu : Yenidoğan Tarama Programı
+Sayı : 67414668- Konu: Yenidoğan Tarama Programı
 
 11. Aynı kargoda bir bebeğe ait iki kan numunesi gönderilmemelidir. Bu numunelerden uygun zaman aralığında ve uygun biçimde alınan numune tarama birimine gönderilip, diğeri tutanak tutularak imha edilmelidir.
 
@@ -58,9 +54,9 @@ Sayı : 67414668- Konu : Yenidoğan Tarama Programı
 
 19. Program kapsamında yapılan çalışmalarda laboratuvarla uyumlu hale getirilen ve ekte yer alan akış şemaları esas ahınmalı, il düzeyinde başka bir düzenleme yapılmamalıdır.
 
-### _T.C. SAGLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
+_T.C. SAGLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
 
-Sayı : 67414668- Konu : Yenidoğan Tarama Programı
+Sayı : 67414668- Konu: Yenidoğan Tarama Programı
 
 20. Sonucu şüpheli çıkan bebeklerin sevk işlemleri yapılırken ekte yer alan ve her hastalık için aynı hazırlanmış olan sevk formları ve Yenidoğan Tarama Programı Web uygulamasında yer alan laboratuar sonucunu içeren çıktı kullanılmalıdır.
 
@@ -84,8 +80,8 @@ Müsteşar
 
 5. Ulusal Yenidoğan Tarama Programı Yazılımı Kullanım Kılavuzu (19 sayfa)
 
-### DAGITIM:
+DAGITIM:
 
-Gereği: 81 Il Valiliği Bilgi: Sağhık Hizmetleri Genel Müdürlüğü, Türkiye Kamu
+Gereği: 81 Il Valiliği Bilgi: Sağlık Hizmetleri Genel Müdürlüğü, Türkiye Kamu
 
 Hastaneleri Kurumu

@@ -11,15 +11,11 @@ ocr: true
 duzeltildi: true
 ---
 
-2.3.24.Ekzimer Lazer Cerrahisi Müdahale Birimi Fiziki Standartları Genelgesi (2014/17)
-
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-b) Odada insan sağlığı açısından gerekli olan optimal termal koşullar ile cihazın çalışması için gerekli olan ortam sıcaklığını ve nemini regüle edecek ısıtma- soğutma sistemi
+b) Odada insan sağlığı açısından gerekli olan optimal termal koşullar ile cihazın çalışması için gerekli olan ortam sıcaklığını ve nemini regüle edecek ısıtma-soğutma sistemi
 
 e) Odanın havasını dış ortama tahliye edebilen tek yönlü aspiratör sistemi olmalıdır.
 
-c) Odada partikül miktarını azaltan damlacık enfeksiyonunu önleyen mobil veya sabi HEPA filtre sistemi olmalıdır.
+c) Odada partikül miktarını azaltan damlacık enfeksiyonunu önleyen mobil veya sabit HEPA filtre sistemi olmalıdır.
 
 Yukarıda belirtilen şartlar dışında ekzimer lazer cihazının teknik özelliklerinin gerektirdiği şartların da ayrıca bulunması gereklidir.
 
@@ -29,7 +25,7 @@ Yukarıda belirtilen şartlar dışında ekzimer lazer cihazının teknik özell
 
 5- Ekzimer lazer cerrahi müdahale biriminde göz içi cerrahi işlemler yapılamaz.
 
-6- Ekzimer lazer cerrahi müdahale biriminde asgari EK-1 de belirtilen malzemeler bulunmalıdır.
+6- Ekzimer lazer cerrahi müdahale biriminde asgari EK-1’de belirtilen malzemeler bulunmalıdır.
 
 Söz konusu sağlık kuruluşları bünyesinde açılacak ekzimer lazer cerrahi müdahale birimine ait iş ve işlemlerin bu Genelge doğrultusunda yürütülmesi hususunda;
 
@@ -39,10 +35,12 @@ Prof. Dr. Nihat TOSUN
 
 Bakan a.
 
-Müsteşar EK-I:Ekzimer Lazer Cerrahisi İçin Bulundurulması Gerekli Asgari Malzemeler Listesi (I sayfa)
+Müsteşar
 
-### DAGITIM:
+EK-I: Ekzimer Lazer Cerrahisi İçin Bulundurulması Gerekli Asgari Malzemeler Listesi (1 sayfa)
 
-Gereği 81 İl Valiliği (lI Sağlık Müdürlugu) Yükseköğretim Kurulu Başkanlığı
+### DAĞITIM
+
+Gereği 81 İl Valiliği (İl Sağlık Müdürlüğü) Yükseköğretim Kurulu Başkanlığı
 
 Türkiye Kamu Hastaneleri Kurumu Başkanlığı

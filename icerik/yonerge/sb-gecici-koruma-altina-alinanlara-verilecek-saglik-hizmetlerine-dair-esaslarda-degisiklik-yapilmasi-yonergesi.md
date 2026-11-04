@@ -8,23 +8,28 @@ etiketler: ["geçici koruma", "göçmen sağlığı", "acil sağlık"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 315-326"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 3.2.3. Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslarda Değişiklik Yapılması Yönergesi
 
-### GEÇICİ KORUMA ALTINA ALINANLARA VERİLECEK SAGLIK HİZMETLERİNE DAIR ESASLAR
+### GEÇİCİ KORUMA ALTINA ALINANLARA VERİLECEK SAĞLIK HİZMETLERİNE DAİR ESASLAR
 
-## BİRİNCİ BÖLÜM Amaç, Kapsam, Hukuki Dayanak ve Tanımlar
+## BİRİNCİ BÖLÜM
+
+#### Amaç, Kapsam, #### Hukuki Dayanak ve Tanımlar
 
 #### Amaç
 
-**Madde 1 –** (1) Bu Esaslarim antaca: 04/04/2013 tarihli ve 6458 sayily Yabancilar ve Muslararası Koruma Karununun 91 inci maddesi gerşevesinde geçici koruma altına alınanlar sağlik hizmeti sunulmasına ilişkin esasların belirlenmesidir. Kapsam
+**MADDE 1 –** (1) Bu Esasların amacı: 04/04/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununun 91 inci maddesi çerçevesinde geçici koruma altına alınanlara sağlık hizmeti sunulmasına ilişkin esasların belirlenmesidir. 
 
-**Madde 2 –** (1) Bu Esaslar: 22/10/2014 tarihli ve 29153 sayılı Resımı Gazetede yayımlanan Geçici Koruma Yönetmeliği kapsamanda geçici koruma altıra alınan kişileri ve kuruluşlan. sağlık hizmeti verecek saghk kurum ve kuruluşlarını, Bakanlıkça uygun görülen gönüllD sağlık hizmetini ve bu hizmeti sunan vakıf veya demekleri kapsar. Hukuki Dayanak
+#### Kapsam
 
-**Madde 3 –** (1) Bu Esaslar, 11/10/2011 tarihli ve 653 sayıı Sağlık Bakanlığı ve Buğlı Kuruluşlarımın Teşkilat ve Gorevlert Hakkında Kamın Hukmünde Kararnamenin 40 maı maddesine ve 22/10/2014 tarihli 2014/6883 saysh Geçici Koruma Yönetmeliğmin 27 nci ve 58 İnci maddelerine dayanılanık hazırlanmıştır. Tanimiar
+**MADDE 2 –** (1) Bu Esaslar, 22/10/2014 tarihli ve 29153 sayılı Resmî Gazete’de yayımlanan Geçici Koruma Yönetmeliği kapsamında geçici koruma altıra alınan kişileri ve kuruluşlarını, sağlık hizmeti verecek sağlık kurum ve kuruluşlarını, Bakanlıkça uygun görülen gönüllü sağlık hizmetini ve bu hizmeti sunan vakıf veya demekleri kapsar. #### Hukuki Dayanak
 
-**Madde 4 –** (1) Bu Esaslaria geçen; #) AFAD: Afet ve Acil Darum Yonetimi Başkanlığant,
+**MADDE 3 –** (1) Bu Esaslar, 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 maı maddesine ve 22/10/2014 tarihli 2014/6883 saysh Geçici Koruma Yönetmeliğmin 27 nci ve 58 İnci maddelerine dayanılanık hazırlanmıştır. #### Tanımlar
+
+**MADDE 4 –** (1) Bu Esaslarda geçen; #) AFAD: Afet ve Acil Darum Yonetimi Başkanlığant,
 
 6) Bakanlık: Sogük Bakanlıün,
 
@@ -242,7 +247,7 @@ tabbi cilaz ve ilaç listesi, bulurur.
 
 (2) (Değişiklike: BO-04/11/2015-9648) Bakarlikça hizmet vermesi uygun görülen vakif vera dernek hizmet sunacağı saatleri kendisi belirier ve Müdüringe bilgı verir. Hizmet sunulan sanılerde mesleğini leraya yetkili sorumlu bir bekimı ve hemşire, sağlık mertınu, acil hıp teknisyeni unvanlarindan asgari bir saghk personelinin bulundurulması zorunludur, Gönallü sağlık hizmeti kapsämındaki ibtiyaca göre hemşire, sağlık memuru veya acil tip teknisyenı sayisa arttirlabilir.
 
-(3) Gönüllü sağlık hizmeti kapsemında vakıf veya dernek, Bakanlıkça belirlerlen sağlık hizmet sunumı standartlan gerşevesinde, geçicı korunanların anglık hizmetleri ile ilgili semel gerekliliklerini yerine getirir. Gonülli saguk hameti verilnesi sırasında, bildirimi korunlo bulayicı hastalık tanısı koomesi veyn akut halk sagiğ tehdidi oluşturabilecek herhung bir durum tespit edilmesi halinde Halk Saghg Müdürlüğüne aym gün bıldırim yapilir
+(3) Gönüllü sağlık hizmeti kapsemında vakıf veya dernek, Bakanlıkça belirlerlen sağlık hizmet sunumı standartlan çerçevesinde, geçicı korunanların anglık hizmetleri ile ilgili semel gerekliliklerini yerine getirir. Gonülli saguk hameti verilnesi sırasında, bildirimi korunlo bulayicı hastalık tanısı koomesi veyn akut halk sagiğ tehdidi oluşturabilecek herhung bir durum tespit edilmesi halinde Halk Saghg Müdürlüğüne aym gün bıldırim yapilir
 
 (4) Gonulla saglık, hizmes kapsamında, hasta için kullamlan ilaç ve hobi malsere gaderien dáhil tanı ve todavi masraflarımın tamamı vakıf veya dernek tarafindan karşılanı. Gönullá sağlık hizmeti kapsamında, ha dadan herhangi bit sebeple beret talep edilemez
 

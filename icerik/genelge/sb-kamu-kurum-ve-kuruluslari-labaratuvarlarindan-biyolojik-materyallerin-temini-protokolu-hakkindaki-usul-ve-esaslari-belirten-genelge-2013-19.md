@@ -9,14 +9,12 @@ etiketler: ["biyolojik materyal", "protokol", "laboratuvar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 289-290"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
+Sağlık Hizmetleri Genel Müdürlüğü
 
-2.3.60. Kamu Kurum ve Kuruluşları Labaratuvarlarından Biyolojik Materyallerin Temini Protokolü Hakkındaki Usul ve Esasları Belirten Genelge (2013/19)
+Sayı: 95966346-[?]
 
-### SAGLIK BAKANLIĞI
+### DAĞITIM:
 
-Sağki: Hizmetleri Genel Müdürlugu TC. Copl BaleniO Sayı : 95966346 -
-
-### DAĞLIM:
-
-Gereği: 81 f1 Valiligine (1 Saghk Mudurlugo) 81 11 Halk Sağlığı Müdurogüne TKHK Taşra Teşkilatı (81 II Kamu Hastaneleri)
+Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü), 81 İl Halk Sağlığı Müdürlüğüne, TKHK Taşra Teşkilatına (81 İl Kamu Hastaneleri)

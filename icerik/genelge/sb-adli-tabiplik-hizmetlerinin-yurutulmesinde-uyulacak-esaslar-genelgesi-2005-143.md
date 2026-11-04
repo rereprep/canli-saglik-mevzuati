@@ -9,17 +9,18 @@ etiketler: ["halk sağlığı", "adli tabiplik", "adli tıp"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 784-796"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.74. Adli Tabiplik Hizmetlerinin Yürütülmesinde Uyulacak Esaslar Genelgesi (2005/143)
 
-d) Mahkeme, hee zaman bilirkişinin duruşmada dinlenmesine karar verebilecegi gibi. ilgililerden birinin istemesi halinda de açıklamalarda bulunmak azere duruşmaya çağırabilir.
+d) Mahkeme, her zaman bilirkişinin duruşmada dinlenmesine karar verebilecegi gibi. ilgililerden birinin istemesi halinda de açıklamalarda bulunmak azere duruşmaya çağırabilir.
 
 Adli tabiplik hizmetlerinde resmi bilirkişilik yetkisi
 
-14. Adli tabiplik hizmetleri esasen ve öncelikle Adli Tip Kurumu'na bağlı birimlerce yürütülmek durumundadır. Mahkemeler ile häkimlikler ve Cumhuriyet savcıhklan tarafindan gönderilen adli tıpla ilgili konularda bilimsel ve teknik görüş bildimek üzere, 2659 sayılı Adli Tıp Kurumu Kanunu ile Adalet Bakanlığina bağlı Adli Tıp Kurumu tesis edilmiş olup; bu Kuruma hağhı şube müdürlükleri, kurulu bulundukları yerlerde adli tıp hizmetlerini yerine getirmekle yükümlü kılınmışlardır. Diğer yandan, sözü edilen Kanunun 3l'inci maddesi gereğince yüksek ogretim kurumlarımın/universitelerin adli tupla ilgili bolum veya bilimlerinde çalışan uzmanlar, adli olaylarda resmi bilirkişi sayılmışlardır.
+14. Adli tabiplik hizmetleri esasen ve öncelikle Adli Tıp Kurumu'na bağlı birimlerce yürütülmek durumundadır. Mahkemeler ile häkimlikler ve Cumhuriyet savcıhklan tarafindan gönderilen adli tıpla ilgili konularda bilimsel ve teknik görüş bildirmek üzere, 2659 sayılı Adli Tıp Kurumu Kanunu ile Adalet Bakanlığina bağlı Adli Tıp Kurumu tesis edilmiş olup; bu Kuruma bağlı şube müdürlükleri, kurulu bulundukları yerlerde adli tıp hizmetlerini yerine getirmekle yükümlü kılınmışlardır. Diğer yandan, sözü edilen Kanunun 3l'inci maddesi gereğince yüksek ogretim kurumlarımın/universitelerin adli tıpla ilgili bölüm veya bilimlerinde çalışan uzmanlar, adli olaylarda resmi bilirkişi sayılmışlardır.
 
-Keza, adli tabiplik hizmetleri, Adli Tıp Kurumu Kanunu'nun ve 224 sayılı Saglık Hizmetlerinin Sosyalleştirilmesi Haklanda Kanun'un 10 uncu maddelerine istinaden buyuk ölçode Sağlık Bakanlığı kuruluşlarınca da yerine getirilmektedir.
+Keza, adli tabiplik hizmetleri, Adli Tıp Kurumu Kanunu'nun ve 224 sayılı Sağlık Hizmetlerinin Sosyalleştirilmesi Hakkında Kanun'un 10 uncu maddelerine istinaden büyük ölçüde Sağlık Bakanlığı kuruluşlarınca da yerine getirilmektedir.
 
 Adli vakaların muayenesinde ve rapor tanziminde yasal çerçeve
 
@@ -27,7 +28,7 @@ Adli vakalann muayenesi ve rapor tanziminde dikkat edilecek hususlara bu Genelge
 
 Adli tabiplik hizmeti «yukarıda da belirtildiği üzere« bir bilirkişilik hizmeti olup, bu hizmetin yürütülmesinde CMK'nın Bilirkişi Incelemesi başlıklı bölümünde yer alan hususlar
 
-Şüpheli veya sanık ile mağdur ve diğer kişilerin beden muayenesi, hu kişilerin vacuamdan ornek atmması ve bu mumumeler izeriade yapilacak molekåler genetik incelenselerte ¡(gifi dususler, CMK'ın Görlem Altına Alınma, Muayene, Keşif ve Otopsi başlıkh bölümündeki 75 ilà 81 'inci maddelerinde ve bu Kanuna göre çıkarıhp 01.06.2005 tarihli ve 25832 sayıh Resmi Gazete'de yayımlanan Ceza Muhakemesinde Beden Muayenesi, Genetik Incelemeler ve Fizik Kimliğin Tespiti Hakkında Yönetmelikte yer almaktadır.
+Şüpheli veya sanık ile mağdur ve diğer kişilerin beden muayenesi, hu kişilerin vücudundan örnek alınması ve bu mumumeler izeriade yapilacak molekåler genetik incelenselerte ¡(gifi dususler, CMK'ın Görlem Altına Alınma, Muayene, Keşif ve Otopsi başlıkh bölümündeki 75 ilà 81 'inci maddelerinde ve bu Kanuna göre çıkarıhp 01.06.2005 tarihli ve 25832 sayılı Resmi Gazete'de yayımlanan Ceza Muhakemesinde Beden Muayenesi, Genetik İncelemeler ve Fizik Kimliğin Tespiti Hakkında Yönetmelikte yer almaktadır.
 
 Zor kullanılarak yakalanan veya yakalamıp gözalıma alman kışılerin sağlık kontrols de figiff hasıslar, CMK'mn 99'uncu maddesine istinaden çıkanlıp, 01.06.2005 tarihli ve 25832 sayılı Resmi Gazete'de yayımlanan Yakalama, Gözaltına Alma ve Ifade Alma Yönetmeliği'nin Sağhk Kontrolü başlıklı Yuncu maddesinde yer almaktadır.
 
@@ -41,7 +42,7 @@ Adli tabıplık hizmetleri kapsamında değerlendirilmesi gereken ölünün kiml
 
 Hizmet planlaması, ildeki adli teşkilat yapılanması da dikkate alınarak büyükşehir beledıyesı statůsündekı il merkezleri, dığer il merkezleri ve ilçe düzeyinde aynı ayrı yapılacaktır.
 
-Adli tip hizmetleri, Adli Tip Kurumu'na baglı birimler ve adli tip anabilim dalı olan üniversitelerin bulunduğu il ve ilçe merkezlerinde, bütünüyle bu kurumlar tarafindan veya bunların yanısıra Bakanlığımıza bağlı sağhk kuruluşları tarafından desteklenerek birlikte yürutülecck; bu kurumların bulunmadığı yerlerde ise batünüyle Bakanlığımıza bağlı saglık kuruluşlarınca yerine
+Adli tip hizmetleri, Adli Tıp Kurumu'na baglı birimler ve adli tip anabilim dalı olan üniversitelerin bulunduğu il ve ilçe merkezlerinde, bütünüyle bu kurumlar tarafindan veya bunların yanısıra Bakanlığımıza bağlı sağhk kuruluşları tarafından desteklenerek birlikte yürutülecck; bu kurumların bulunmadığı yerlerde ise batünüyle Bakanlığımıza bağlı saglık kuruluşlarınca yerine
 
 Yerleşim biriminde yataklı tedavi kurumfan varsa, bu hizmetlerin aksatılmadan yürutulmesi amacıyla, mesat saatlerı tçt ve dışı için ayrı aynı planlama yapımak fizere, yeterince yataklı tedavi kurumu ve sağhık ocağı görevlendirilecektir. Birden fazla sağlık kuruluşunun bulunduğu yerleşım bırımlerinde, görevlendirılecek kuruluş sayısı, iş-yükü ve ulaşım imkänları dikkate alınarak tespit edilecektir. Birden fazla sağlık kuruluşunun görevlendirilmasi durumunda, adli travmatoloji vakalanmın muayenesi ile rapor tanzimi, gerektiğinde otopsi hizmeti ve diğer hizmetler için, bu kurumlar arasındaki işbölümü açık bir şekilde belirlenecektir.
 
@@ -55,7 +56,9 @@ Adli tabıplik hizmeti veren sağhk kuruluşları, personel ve hizmetin gerektir
 
 Adli tabiplik hizmeti verecek sağlık kuruluşları ile gerektığinde otopsi hizmeti verecek icapçı personelin ad, soyad ve iletişim bilgilerini içeren listeler, mesai saatleri içi ve dışı için ayrı aynı bilgi ihtiva etmek üzere ve aylık olarak düzenlenecek ve Cumhuriyet başsavcılıklarına günderi lecektir.
 
-### 3. ADLI VAKALARIN MUAYENESI VE RAPOR TANZİMİ 3,1. ORTAK HÜKÜMLER
+### 3. ADLİ VAKALARIN MUAYENESİ VE RAPOR TANZİMİ
+
+#### 3.1. Ortak Hükümler
 
 3.1.1. Adli vakalar iki kategoride ele alınacak,
 
@@ -69,7 +72,7 @@ Adli vakaların yetkili resmi mereilerce gönderilme zorunluluğu
 
 3.1.3. Adli muayene ve sonucunda rapor tanzimi işleminin, yetkili bir resmi makamun usulúnce talebi üzerine yapılması esastır. Bu çergevede, muayene ve sonucunda rapor tanzimi için adli vaka olarak tabibe gönderilen kişinin gönderilme işleminin, Kanunda belirtiken adli makamlarca yapılması gerekir. Muayene ve rapor tat mi isteme yetkisi, olayın mahiyeti (yakalara, gözaltına alma, soruşturma veya kovuşturma), m enesi istenilen kişinin samk, şüpheli veya mağdur olması ve yapılması istenen tıbbi işleme göre deg
 
-3.14. Ceza Muhakemesinde Beden Muayenesi, Genetik Incelemeler ve Fizik Kiraliğin Tespiti Haklanda Yönetmelik kapsamı
+3.14. Ceza Muhakemesinde Beden Muayenesi, Genetik İncelemeler ve Fizik Kiraliğin Tespiti Hakkında Yönetmelik kapsamı
 
 ### Şüpheli veya sark azerinde iç beden wanyenesi yapılabilmesi ya da vücudundan kan
 
@@ -113,9 +116,9 @@ Tabibin bilirkişi olarak davete icap zorunluluğu, ilk değerlendirme ve sevk d
 
 3.1.9. Cumhuriyet saveısı, håkim veya mahkeme tarafından adli vakanın muayenesi talep edilen sağlık kuruluşunda görevli tabip, CMK kapsamında resmi bilirkişi olarak bu görevi kabul
 
-3.1.10. Vaka değerlendirilerek, tespit edilen bulgular ayığıda mümkünse rapor duzenlenmesi yoluna gidilecektir. Ancak, canlı adli vakaların veya cesetlerin muayenesi sonucunda, vakanın olanakları daha fazla olan bir kuruluşa sevk edilmesi, bazı uzmanlardan konsultasyon istenmesi, bir adli up uzmanına, Adli Tip Kurumu veya üniversitelerin adli up ile ilgili bölüm veya birimlerine gönderilmesi gerekebılir. Böyle bir durumda bılirkişi sıfatı ile tabip, kendisini görevlendiren Cumhuriyet saveısı, håkim veya mahkemeye durumu gerekçeli olarak anlatacak veya rapor edecektir. Cumhuriyet savcısı veya mahkeme ya da hakimin bu görülşü kabul etmemesi halinde, yasal zorunluluk olarak adli makamların talebi doğrultusunda hareket edilecek; ancak, vakanım sevk edilmesinin daha uygun olacağı yönündeki bilirkişi görüşünün raporda yer alması saglanacaktır.
+3.1.10. Vaka değerlendirilerek, tespit edilen bulgular ayığıda mümkünse rapor duzenlenmesi yoluna gidilecektir. Ancak, canlı adli vakaların veya cesetlerin muayenesi sonucunda, vakanın olanakları daha fazla olan bir kuruluşa sevk edilmesi, bazı uzmanlardan konsultasyon istenmesi, bir adli up uzmanına, Adli Tıp Kurumu veya üniversitelerin adli up ile ilgili bölüm veya birimlerine gönderilmesi gerekebılir. Böyle bir durumda bılirkişi sıfatı ile tabip, kendisini görevlendiren Cumhuriyet saveısı, håkim veya mahkemeye durumu gerekçeli olarak anlatacak veya rapor edecektir. Cumhuriyet savcısı veya mahkeme ya da hakimin bu görülşü kabul etmemesi halinde, yasal zorunluluk olarak adli makamların talebi doğrultusunda hareket edilecek; ancak, vakanım sevk edilmesinin daha uygun olacağı yönündeki bilirkişi görüşünün raporda yer alması saglanacaktır.
 
-3.1.1I. Adli vakanın şevki durumunda, bu Genelgenin Adli Raporlanın Düzenlenmesi başlıkh bolumundeki şevkle ilgili hususlara uyulacaktır.
+3.1.1I. Adli vakanın şevki durumunda, bu Genelgenin Adli Raporlanın Düzenlenmesi başlıkh bölümundeki şevkle ilgili hususlara uyulacaktır.
 
 Adli vakalarda tıbbi gerekliliklerle yapılması gerekli muayene ve tedaviler
 
@@ -153,7 +156,7 @@ Muayene edilecek kişi kadınsa ve talebine rağmen bir kadın tabibin bulunmas�
 
 Muayene, kişinin butün vücudu uzerinde yapılmalıdır. Rapor yazımında yardımcı olmak tizere, muayene bulgulan kisaca not alınmalıda.
 
-Muayenayi yapan tabip, batın adli vakalarda ve özellikle gözaltına alınmış kişilerin muayenesi esnasında TCK'da yer alan işkence (Madde 94), neticesi sababiyle ağırlaşmış işkence (Madde 95) ve eziyet (Madde 96) suçlarını işlendiği yolunda herhangi bir bulguya rastlaması hålinde, durumu derhål Cumhuriyet savesına bildirecektir. Bu duranda Ceza Muhakemesinde Beden Muayenesi, Genetik: Incelemeler ve Fizik: Kimligin Tespiti Hakkında Yönetmeligin Thci ve S'inci maddesine göre işlem yapılacaktır.
+Muayenayi yapan tabip, batın adli vakalarda ve özellikle gözaltına alınmış kişilerin muayenesi esnasında TCK'da yer alan işkence (Madde 94), neticesi sababiyle ağırlaşmış işkence (Madde 95) ve eziyet (Madde 96) suçlarını işlendiği yolunda herhangi bir bulguya rastlaması hålinde, durumu derhål Cumhuriyet savesına bildirecektir. Bu duranda Ceza Muhakemesinde Beden Muayenesi, Genetik: İncelemeler ve Fizik: Kimligin Tespiti Hakkında Yönetmeligin Thci ve S'inci maddesine göre işlem yapılacaktır.
 
 Adli vakalarda, suçun aydınlatılmasına katkıda bulunabilecek: delil ihtiva etmesi muhtemel elbise ve benzeri materyalin saklanması için gerekli tedbirler ahımalı veya tedbirlerin alması hususu kolluk kuvvetlerine hatırlatılmalıdır.
 
@@ -211,9 +214,9 @@ Rapor tanziminde saghk modürlugu tarafindan ikleki ihtiyaç miktarına göre to
 
 Raporlarin tanzimi ve adli makamlara iletilmesi
 
-3.3.4. Adli raporlar üç nüsha olarak düzenlenecektir. Her bir nüshanın verileceği merci, vakanın Ceza Muhakemesinde Beden Muayenesı, Genenk Incelemeler ve Fizik Kimliğin Tespitt Hakkında Yönewelik veya Yakalama, Gözalana Alma ve Ilirde Alma Yönerneliği kapsamında olmasına göre farkhlık arzetmekte olup, munyene için getirilen kişinin hangi kapsamda olduğu sevk evrakında belirtilmemişse getiren kolluk kuvvetinden sorularak ögrenilecek ve raporun dağıtımı şu şekilde yapılacaktır:
+3.3.4. Adli raporlar üç nüsha olarak düzenlenecektir. Her bir nüshanın verileceği merci, vakanın Ceza Muhakemesinde Beden Muayenesı, Genenk İncelemeler ve Fizik Kimliğin Tespitt Hakkında Yönewelik veya Yakalama, Gözalana Alma ve Ilirde Alma Yönerneliği kapsamında olmasına göre farkhlık arzetmekte olup, munyene için getirilen kişinin hangi kapsamda olduğu sevk evrakında belirtilmemişse getiren kolluk kuvvetinden sorularak ögrenilecek ve raporun dağıtımı şu şekilde yapılacaktır:
 
-aJ Ceza Muhakemesinde Beden Muayenesi, Genctik Incelemeler ve Fizik Kimliğin Tespiti Hakkında Yönetmelik kapsamında bir suça ilişkin olarak şupheli veya sanık ile mağdur ve diğer kişilerin beden muayenesi, bu kişilerin vücudundan ömek alıması ve muayene sonucunda rapor tanzimi isteniyorsa, raporun bir nüshası sağlık kuruluşunda kalacak, muayene sonrasında hemen rapor tanzim edilmesi mümkün ise iki nüshası kapalı ve mühürlü zarf içerisinde ilgili håkimliğe, mahkemaye veya Cumhuriyet başsavcılığına iletilmek üzere getiren kolluk gürelisine teslim elecek, ileri tetkık ve benzeri nedenlerle hemen rapor tanzimi mümkün değılse raporun iki nüshası kapalı ve mühürlü bir zarf içinde sağlık kuruluşunca ilgili adli makama en kısa sürede iletilecektir.
+aJ Ceza Muhakemesinde Beden Muayenesi, Genctik İncelemeler ve Fizik Kimliğin Tespiti Hakkında Yönetmelik kapsamında bir suça ilişkin olarak şupheli veya sanık ile mağdur ve diğer kişilerin beden muayenesi, bu kişilerin vücudundan ömek alıması ve muayene sonucunda rapor tanzimi isteniyorsa, raporun bir nüshası sağlık kuruluşunda kalacak, muayene sonrasında hemen rapor tanzim edilmesi mümkün ise iki nüshası kapalı ve mühürlü zarf içerisinde ilgili håkimliğe, mahkemaye veya Cumhuriyet başsavcılığına iletilmek üzere getiren kolluk gürelisine teslim elecek, ileri tetkık ve benzeri nedenlerle hemen rapor tanzimi mümkün değılse raporun iki nüshası kapalı ve mühürlü bir zarf içinde sağlık kuruluşunca ilgili adli makama en kısa sürede iletilecektir.
 
 Yakalama, Gözaltına Alma ve Ifade Alma Yönetmeliği kapsamında, kolluk kuvvetlerince zor kullanılarak yakalanan veya yakalanıp gözaltına alman kişilerin sağlık kontrolü amaciyla muayene ve rapor tanzimi istenmesi durumunda,
 
@@ -267,7 +270,7 @@ Bakan
 
 ### EKLER:
 
-1) Yeni TCK'da Tanımlanan Yaralama Suçlanrın Adli Tip Açısından Değerlendirilmesi ve Adli Rapor Tanzimi Için Rehber (18 sayfa)
+1) Yeni TCK'da Tanımlanan Yaralama Suçlanrın Adli Tıp Açısından Değerlendirilmesi ve Adli Rapor Tanzimi Için Rehber (18 sayfa)
 
 2) Adli Rapor Formlan (Açiklamalar dáhil 20 sayfa)
 
@@ -277,4 +280,4 @@ Bakan
 
 Gereği: 8I h Valiliği * * * * *
 
-### T.C. SAĞLIK BAKANLIĞI
+

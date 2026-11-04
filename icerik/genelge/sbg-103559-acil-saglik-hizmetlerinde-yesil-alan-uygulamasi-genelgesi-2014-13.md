@@ -7,22 +7,20 @@ birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103559/acil-saglik-hizmetlerinde-yesil-alan-uygulamasi-genelgesi-201413.html"
 durum: "yürürlükte"
+konu: "Acil Sağlık Hizmetlerinde Yeşil Alan Uygulaması Genelgesi (2014/13) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 2.3.46. Acil Sağlık Hizmetlerinde Yeşil Alan Uygulaması Genelgesi (2014/13)
 
-### TC. SAÖLIK BAKANLIGI - SAĞLIK HIZMETLER UYOLLAMALARI DAIRE BASKANLIĞI DENEL MUDURLUGO - SOSYAL GUVENLI
-
 28.03. 2014 11:11 - 2014.3409.13 : 010.86 02
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC Sofis Sakaned Say : 23642684/010.06.02 - 5409.13 26.03.2014 Konu Acil Sağhk Hizmetlerinde Yeşil
+TC Sofis Sakaned Say : 23642684/010.06.02 - 5409.13 26.03.2014 Konu Acil Sağlık Hizmetlerinde Yeşil
 
 Alan Uygulaması
 
-### GENELGE 2014/13
+ GENELGE 2014/13
 
 Ilgi: 27.01.2012 tarihli ve 3931 (2012/10) sayılı Genelge.
 
@@ -42,6 +40,6 @@ Bakan a.
 
 Müsteşar
 
-### DAGITIM:
+DAGITIM:
 
-Gereği: 81 11 Valiligine (Il Sağhk Müdürlüğü)
+Gereği: 81 11 Valiligine (İl Sağlık Müdürlüğü)

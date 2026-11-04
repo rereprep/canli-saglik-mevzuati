@@ -8,9 +8,11 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103626/4924-sozlesmeli-personel-hakkinda-genelge-20231.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "4924 sayılı Kanuna tabi sözleşmeli personelin istihdam ve yerleştirme işlemlerini düzenler."
 ---
 
-9.3.3.4924 Sözleşmeli Personel Hakkında Genelge (2023/1)
+9.3.3. 4924 Sözleşmeli Personel Hakkında Genelge (2023/1)
 
 T.C.
 
@@ -18,13 +20,13 @@ T.C.
 
 Yönetim Hizmetleri Genel Müdürlüğü
 
-4- Ek-III sayılı listede vizelenen pozisyonlar öncelikle; Devlet hizmeti yükümlüsü olmayan tabipler için sonrasında boş pozisyon kalması halinde ise Devlet hizmeti yükümlüsü olan tabipler için Devlet hizmeti yükümlülüğünün son 6 (altı) ayı içerisinde başvurmaları ve Devlet hizmeti yükümlülüğünün bitimine müteakip 1 (bir) yıl çalışmayı taahhüt etmeleri kaydıyla kullanılacaktır.
+4- Ek-III sayılı listede vizelenen pozisyonlar öncelikle; Devlet hizmeti yükümlüsü olmayan tabipler için sonrasında boş pozisyon kalması halinde ise Devlet hizmeti yükümlüsü olan tabipler için Devlet hizmeti yükümlülüğünün son 6 (altı) ayı içerisinde başvurmaları ve Devlet hizmeti yükümlülüğünün bitimini müteakip 1 (bir) yıl çalışmayı taahhüt etmeleri kaydıyla kullanılacaktır.
 
 5- Devlet hizmeti yükümlüsü olup da sözleşmeli pozisyona geçen personel, bir yıl çalışacağına dair vermiş olduğu taahhütnameye aykırı davranarak, sözleşmesini mazeret atamaları ile mahkeme kararlarının uygulanması hariç taahhüt ettiği süreden önce feshederse, fesih tarihinden itibaren 3 (üç) yıl geçmeden yeniden sözleşmeli pozisyonda istihdam edilmeyecektir.
 
 Devlet hizmeti yükümlüsü olup olmadığına bakılmaksızın doğum sonrası ve askerlik sebebiyle aylıksız izne ayrılmak amacıyla sözleşmesini fesheden personel için yeniden sözleşme imzalanma aşamasında cezai şart uygulanmayacaktır.
 
-6- 26/03/2013 tarihli ve 28599 sayılı Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliği hükümleri gereği düzenlenen personel dağılım cetvelinde ön görülmeyen branşlarda veya personel dağılım cetvelinde belirlenen sayının üzerinde sözleşmeli personel istihdamı yapılmayacaktır. Personel dağılım cetvelinin doluluğunda, kadrolu ve sözleşmeli personel sayısının toplamı esas alınacaktır.
+6- 26/03/2013 tarihli ve 28599 sayılı Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliği hükümleri gereği düzenlenen personel dağılım cetvelinde öngörülmeyen branşlarda veya personel dağılım cetvelinde belirlenen sayının üzerinde sözleşmeli personel istihdamı yapılmayacaktır. Personel dağılım cetvelinin doluluğunda, kadrolu ve sözleşmeli personel sayısının toplamı esas alınacaktır.
 
 7- Yerleştirme işlemlerinde personelin aynı birimde vize edilen sözleşmeli pozisyonlara yerleştirilmesi esastır. Ancak çalıştığı birimde boş pozisyon olmaması halinde sözleşmeli pozisyona geçmek isteyen personelin, pozisyonun müsait olması halinde başka bir birime yerleştirme işlemi yapılabilecektir.
 
@@ -38,15 +40,15 @@ Il merkezinde bulunan birimlere yerleştirme işlemi tamamlandıktan sonra ilçe
 
 10- Il genelindeki yerleştirme işlemleri, komisyon kararı esas alınarak ÇKYS/IKYS işlemleri, sözleşmenin feshinden sonra Devlet memurluğuna atama işlemleri il sağlık müdürlüğünce; sözleşmenin imzalanması ve fesih işlemi ise Bakanlık adına il sağlık müdürü tarafından yapılacaktır.
 
-Sözleşmeli Personel ile imzalanacak Sağlık Bakanlığı Sözleşmeli Sağlık Personeli Hizmet Sözleşmesinin ekindeki hedeflerin değerlendirilerek, formun doldurulmasına yönelik işlemler başhekimce, takibi ise il sağhk müdürlüğünce yapılacaktır.
+Sözleşmeli Personel ile imzalanacak Sağlık Bakanlığı Sözleşmeli Sağlık Personeli Hizmet Sözleşmesinin ekindeki hedeflerin değerlendirilerek, formun doldurulmasına yönelik işlemler başhekimce, takibi ise il sağlık müdürlüğünce yapılacaktır.
 
 11- Bahse konu personelin sözleşmeli pozisyonlara yerleştirme ve kura işlemlerini yürütmek üzere il sağlık müdürlüğü bünyesinde beş kişiden müteşekkil "4924 Sayılı Kanun'a Tabi Sözleşmeli Personel Il Komisyonu" kurulacaktır.
 
-12- Komisyon; İl Sağhk Müdürünün veya uygun gördüğü başkanın başkanlığında, başkan ve başkan yardımcılarından oluşturulacaktır. Yeterli sayıda başkan ve başkan yardımcılarının bulunmadığı durumlarda uzmanlar ve şube müdürleri komisyona üye olarak alınacaktır.
+12- Komisyon; İl Sağlık Müdürünün veya uygun gördüğü başkanın başkanlığında, başkan ve başkan yardımcılarından oluşturulacaktır. Yeterli sayıda başkan ve başkan yardımcılarının bulunmadığı durumlarda uzmanlar ve şube müdürleri komisyona üye olarak alınacaktır.
 
 13- Sözleşmeli personel statüsüne geçenlerden sözleşmelerinin bitiminde Devlet memuru olarak atanmak isteyenlerin nakilleri görev yaptıkları birime yapılacaktır. Bu birimlerde boşluk bulunmaması halinde öncelikle bu birimlerin bulunduğu il merkezi/ilçeye, birimin bulunduğu il
 
-### T.C. SAĞLIK BAKANLIĞI Yönetim Hizmetleri Genel Müdürlügü
+### T.C. SAĞLIK BAKANLIĞI Yönetim Hizmetleri Genel Müdürlüğü
 
 merkezi/ilçede yer bulunmaması halinde il içerisinde ihtiyaç bulunan diğer birimlere 657 sayılı Kanunun ilgili hükümlerine göre naklen atamaları yapılacaktır.
 
@@ -64,4 +66,4 @@ Bilgilerinizi ve bu çerçevede gereğini rica ederim.
 
 Dr. Fahpottin KOCA
 
--Bakan Dağitım : 81 Il Valiliğine (Il Sağhk Müdürlüğü)
+-Bakan Dağitım : 81 Il Valiliğine (Il Sağlık Müdürlüğü)

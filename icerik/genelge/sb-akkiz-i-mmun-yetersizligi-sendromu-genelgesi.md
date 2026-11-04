@@ -1,32 +1,29 @@
 ---
 id: "sb-akkiz-i-mmun-yetersizligi-sendromu-genelgesi"
-baslik: "Akkız İmmun Yetersizliği Sendromu Genelgesi"
+baslik: "Akkiz İmmun Yetersizliği Sendromu Genelgesi"
 tur: "genelge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Akkız İmmun Yetersizliği Sendromu Genelgesi uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
+konu: "Akkiz İmmun Yetersizliği Sendromu Genelgesi uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
 etiketler: ["halk sağlığı", "hiv/aids", "laboratuvar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 642-645"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.26. Akkız İmmun Yetersizliği Sendromu Genelgesi
+6.3.26. Akkiz İmmun Yetersizliği Sendromu Genelgesi
 
-### SAGLIK VE BOSYAL YARDIM BAKANLIGI
+### SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
-Tedavi Hiznetleri Genel EL:/
+Tedavi Hizmetleri Genel Müdürlüğü [?]
 
-Mudurlugu Th.II-8b.Md.5590-568? ANKARA Konu:Acquired Immune 18 Agustos 1903
+Sayı: Th.II-8b.Md.5590-568[?] — Ankara, 18 Ağustos 1983 [?]
 
-Defacieney Syndrome
+Konu: Acquired Immune Deficiency Syndrome (Akkiz İmmun Yetersizliği Sendromu)
 
-(Akkia Imaun Yeterşizlik
+### VALİLİĞİNE
 
-Sendromu]
-
-### ..YALILIGINE
-
-> Memleketinizde AIDS olguları saptanmamistır. AIDS'in görülduğu Amerika Birlegik Devletleri vo Avrupa Ulkeleri ile mikı ilişkileriais olması gedeniyle uyanak bulunmamis gerekir.
+> Memleketinizde AIDS olguları saptanmamıştır. AIDS'in görülduğu Amerika Birleşik Devletleri ve Avrupa ülkeleri ile mikı ilişkileriais olması gedeniyle uyanak bulunmamis gerekir.
 
 AIDS yeni tarif edilnig bir sendrom olup etkeni henüz saptanmanıętar. Mubtemel otken bir virus olarak düşünülnektedir. Çok yakın temas (cinsel) ve Han ve kan ürünleri-küllanımı ile geçmektedir (Hepatit B benzeri).
 
@@ -96,7 +93,7 @@ SesIngau
 
 Prof. Or haya KELiçpHuAZ
 
-### BAKAN DAGITIH:
+### BAKAN DAĞITIMI:
 
 Geregi için: Bilgi için: 1-Valilikler 1-Bagbakanlak: 2-Universite Tap fakülteleri 2-Bakanlikler
 

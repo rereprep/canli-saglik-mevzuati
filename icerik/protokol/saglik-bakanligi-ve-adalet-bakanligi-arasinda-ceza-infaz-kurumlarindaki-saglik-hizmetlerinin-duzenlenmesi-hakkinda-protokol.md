@@ -2,14 +2,54 @@
 id: "saglik-bakanligi-ve-adalet-bakanligi-arasinda-ceza-infaz-kurumlarindaki-saglik-hizmetlerinin-duzenlenmesi-hakkinda-protokol"
 baslik: "Sağlık Bakanlığı ve Adalet Bakanlığı Arasında Ceza İnfaz Kurumlarındaki Sağlık Hizmetlerinin Düzenlenmesi Hakkında Protokol"
 tur: "protokol"
-konu: "Sağlık Bakanlığı ve Adalet Bakanlığı Arasında Ceza İnfaz Kurumlarındaki Sağlık Hizmetlerinin Düzenlenmesi Hakkında Protokol çerçevesinde kurumlar arası işbirliği esasları."
+konu: "Ceza infaz kurumlarında sağlık hizmetlerinin sunulması, personel görevlendirilmesi ve tedavi giderlerinin karşılanmasına ilişkin Bakanlıklar arası esaslar."
+tarih: "2009-04-30"
+birim: "T.C. Sağlık Bakanlığı; Adalet Bakanlığı"
 etiketler: ["protokol", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 550-553"
+kaynak_pdf_sayfa: "556-559"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 ## SAĞLIK BAKANLIĞI VE ADALET BAKANLIĞI ARASINDA CEZA İNFAZ KURUMLARINDAKİ SAĞLIK HİZMETLERİNİN DÜZENLENMESİ HAKKINDA PROTOKOL
+
+### Amaç
+
+**MADDE 1 –** Bu Protokolün amacı; ceza infaz kurumlarındaki sağlık hizmetlerinin Sağlık Bakanlığı hastanelerine bağlı ceza infaz kurumu semt polikliniği, aile hekimleri veya görevlendirilen sağlık personeli eliyle Birleşmiş Milletler Minimum Standartlarında yürütülmesini sağlamaktır.
+
+### Kapsam
+
+**MADDE 2 –** Bu Protokol; ceza infaz kurumlarında verilecek sağlık hizmetleri ile bu hizmetleri verecek personeli kapsar.
+
+### Tanımlar
+
+**MADDE 3 –** Bu protokolde geçen;
+
+a) Sağlık Müdürlüğü: İl sağlık müdürlüğünü,
+
+b) Sağlık Birimi: Ceza infaz kurumlarında bulunan sağlık birimini,
+
+c) Ceza İnfaz Kurumu Semt Polikliniği: Ceza infaz kurumları kampüslerinde bulunan, hükümlü ve tutuklu mevcudu ile kurum personeli ve bunların bakmakla yükümlü olduğu kişi sayısının toplamı 5000’i aşan ceza infaz kurumları bünyesinde kurulan ve bir hastaneye bağlı olarak faaliyet gösteren sağlık birimini,
+
+ç) Hastane: Ceza infaz kurumu semt polikliniğinin bağlanacağı Sağlık Bakanlığına bağlı yataklı tedavi kurumunu,
+
+d) Kurum: İlgili ceza infaz kurumunu,
+
+e) Baştabip: İlgili hastane baştabibini,
+
+ifade eder.
+
+### Ceza İnfaz Kurumu Semt Polikliniği
+
+**MADDE 4 –** Ankara-Sincan, İstanbul-Silivri ve İstanbul-Maltepe Ceza İnfaz Kurumları kampüsleri bünyesindeki sağlık birimleri, Sağlık Bakanlığınca uygun görülen hastanelere bağlanır ve ceza infaz kurumu semt polikliniği olarak yapılandırılır ve hizmete devam eder. Hükümlü ve tutuklu mevcudu ile kurum personeli ve bunların bakmakla yükümlü olduğu kişi sayısının toplamı 5000’i aşan kampüsler bünyesinde; Adalet Bakanlığının talebi ve Sağlık Bakanlığının onayı ile ceza infaz kurumu semt polikliniği açılabilir.
+
+### Ceza İnfaz Kurumlarında Aile Hekimliği ve Diğer Sağlık Hizmeti Uygulaması
+
+**MADDE 5 –** 1000 ve üzerinde hükümlü ve tutuklu bulunan her kuruma aile hekimliği pozisyonu ihdas edilerek sağlık hizmeti sunulur. Kampüs içerisinde bulunup 1000 ve üzerinde hükümlü ve tutuklu barındıran kurumlar da bu kapsamda değerlendirilir.
+
+Hükümlü ve tutuklu sayısı 1000’e kadar olan kurumlar durumu uygun olan en fazla üç aile hekimine bağlanır. İlgili aile hekimi sağlık hizmetini, gezici sağlık hizmeti kapsamında verir.
 
 Aile hekimliği uygulamasına geçilmemiş illerde; hükümlü ve tutuklu ile personel sayısı; 1000'in üzerinde olan kurumlarda haftada 5 tam gün, 500 ila 1000 arasında olan kurumlarda haftada 5 yarım gün, 500'ün altında olan kurumlarda haftada 2 yarım gün tabipli sağlık hizmeti. Kampüs içerisinde bulunan ve 1000'in altında hükümlü ve tutuklu sayısı bulunan kurumlar da bu kapsamda değerlendirilir.
 
@@ -17,7 +57,7 @@ Diş ünitesi bulunan ceza infaz kurumlarında, il sağlık müdürlüğünce pl
 
 Ceza Tevkifevleri Genel Müdürlüğünce görevlendirilmiş tabip ve diş tabibi bulunan ceza infaz kurumlarında Sağlık Bakanlığınca tabip görevlendirilmesi yapılmaz, Sağlık Bakanlığının aile hekimliği uygulaması kapsamında görevlendirme yaptığı ceza infaz kurumlarına Adalet Bakanlığınca atama, nakil ve görevlendirme yapılmaz.
 
-#### Sağlık Hizmetinin Yürütülmesine Ilişkin Esaslar
+#### Sağlık Hizmetinin Yürütülmesine İlişkin Esaslar
 
 **Madde 6 –** Kurumlarda sağlık hizmeti aşağıdaki esaslar çerçevesinde yürütülür:
 

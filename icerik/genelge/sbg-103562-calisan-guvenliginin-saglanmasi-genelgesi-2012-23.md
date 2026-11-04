@@ -7,20 +7,20 @@ birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103562/calisan-guvenliginin-saglanmasi-genelgesi-201223.html"
 durum: "yürürlükte"
+konu: "Çalışan Güvenliğinin Sağlanması Genelgesi (2012/23) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 2.2.15. Çalışan Güvenliğinin Sağlanması Genelgesi (2012/23)
 
-### T.C. SAĞLIK BAKANLIĞI Sağhk Hizmetleri Genel Müdürlüğü
-
 Sağak Bakar
 
-### : B.10.0.SHG.0.21.00.00 /951.99 /6665 14/05/2012
+: B.10.0.SHG.0.21.00.00 /951.99 /6665 14/05/2012
 
-Sayı Konu : Çalışan güvenliğinin sağlanması
+Sayı Konu: Çalışan güvenliğinin sağlanması
 
-### GENELGE 2012/.23
+ GENELGE 2012/23
 
 Sağlık çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlığımızca bu çerçevede, sağlık çalışanlarının güvenliğine yönelik aşağıdaki düzenlemeler yapılarak kurumlarımız talimatlandırılmiști.
 
@@ -46,7 +46,7 @@ b) Kurumlarımızda uygulamaya konulan "Hizmet Kalite Standartları" kapsamında
 
 c) Yatakl Sağlk Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ" ile acil servisler başta olmak üzere riskli alanlarda güvenlik tedbirleri artırılarak, genel kolluk ve özel güvenlik personeliyle güvenlik kamerası bulundurulmasının sağlanması.
 
-Diğer taraftan şiddeti azaltmaya yönelik çalışmaların basın mensupları, iletişim uzmanları, idareciler ve sağlık çalışanlarıyla birlikte değerlendirildiği sempozyum düzenleyerek ulusal düzeyde sürekliliği olan "Emeğe Saygı Şiddete Sıfır Tolerans" kampanyasını başlatmıştık. Bu kampanya kapsamında vatandașı bilgilendirmek ve toplumsal bilinç oluşturmak amacı ile çalışmalarımızı yürütmekteyiz. Ayrıca "hasta ve çalışan güvenliği sempozyumları" düzenleyerek sağlık çalışanlarına eğitimler vermekteyiz.
+Diğer taraftan şiddeti azaltmaya yönelik çalışmaların basın mensupları, iletişim uzmanları, idareciler ve sağlık çalışanlarıyla birlikte değerlendirildiği sempozyum düzenleyerek ulusal düzeyde sürekliliği olan "Emeğe Saygı Şiddete Sıfır Tolerans" kampanyasını başlatmıştık. Bu kampanya kapsamında vatandaşı bilgilendirmek ve toplumsal bilinç oluşturmak amacı ile çalışmalarımızı yürütmekteyiz. Ayrıca "hasta ve çalışan güvenliği sempozyumları" düzenleyerek sağlık çalışanlarına eğitimler vermekteyiz.
 
 Kişinin fiziksel ve psikolojik açıdan zarar görmesiyle sonuçlanan veya sonuçlanması muhtemel olan sözlü veya fiili hareketler olarak tanımlanan şiddet olaylarının önlenmesi amacıyla. mevcut uygulamaların gözden geçirilmesi önem taşımaktadır. Bu itibarla çalışan güvenliğinin sağlanmasında yöneticilerimize büyük görev ve sorumluluk düşmekte olup aşağıdaki talimatlar hassasiyetle uygulanacaktır.
 
@@ -57,10 +57,6 @@ a) "Beyaz Kod" uygulaması sorumlu başhekim yardımcısı vasıtasıyla yakınd
 b) Görevli müdahale ekiplerinin olay yerine en kısa zamanda ulaşması sağlanacaktır.
 
 c) Gerçekleşen olayların analizi yapılarak, ilgili sağlık kurumuna özgü tedbirler artırılacaktır.
-
-### 1
-
-### T.C. SAGLIK BAKANLIGI Sağhık Hizmetleri Genel Müdürlüğü
 
 2) Çalışan Hakları ve Güvenliği Birimi;
 
@@ -96,17 +92,15 @@ b) Sağlık çalışanlarına şiddet davranışına karşı tedbir alma eğitim
 
 5) Hasta ve hasta yakınlarının bilgilendirilmesi;
 
-a) Hasta ve hasta yakınlarının ilk olarak nereye müracaat edecekleri, hangi işlemler ve tedavinin yapılacağı, tetkik ve tahlillerin nerede yapılacağı, beklemeleri gerekiyorsa ne kadar süreyle bekleyecekleri gibi konularda bilgilendirme süreçleri gözden geçirilerek eksiklikler varsa tamamlanacaktır. Bu amaçla acil servisler başta olmak üzere hastanın durumu ile ilgili hasta ve/veya hasta yakınlarını bilgilendirmek üzere "hasta bilgilendirme alanları" güçlendirilerek ve hangi durumlarda, ne sıklıkta ve kim tarafindan bilgilendirme yapılacağı belirlenecektir.
+a) Hasta ve hasta yakınlarının ilk olarak nereye müracaat edecekleri, hangi işlemler ve tedavinin yapılacağı, tetkik ve tahlillerin nerede yapılacağı, beklemeleri gerekiyorsa ne kadar süreyle bekleyecekleri gibi konularda bilgilendirme süreçleri gözden geçirilerek eksiklikler varsa tamamlanacaktır. Bu amaçla acil servisler başta olmak üzere hastanın durumu ile ilgili hasta ve/veya hasta yakınlarını bilgilendirmek üzere "hasta bilgilendirme alanları" güçlendirilerek ve hangi durumlarda, ne sıklıkta ve kim tarafından bilgilendirme yapılacağı belirlenecektir.
 
 b) Vatandaşı şiddete uğrayan sağlık personelinin hizmet vermekten çekilme hakkının bulunduğu, böyle bir durumda hizmet alma sürecinin aksayabileceği konusunda bilgilendirilecektir.
 
 e) Vatandaş, sağlık çalışanına yönelik şiddet uygulayanların mutlaka yargılanacağı ve cezalandırılacağı konusunda (pano/afiş/broşürler gibi vasıtalarla) bilgilendirecektir.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
 Sağlık çalışanları, sağlık hizmeti sunumu esnasında şiddete uğraması halinde, acil verilmesi
 
-a) Hizmetten çekilme talebi, kurum tarafindan belirlenen yöneticiye sözlü veya yazılı olarak
+a) Hizmetten çekilme talebi, kurum tarafından belirlenen yöneticiye sözlü veya yazılı olarak
 
 b) Bildirim üzerine yetkili yönetici, olayı derhal değerlendirerek hizmetten çekilme talebinin
 
@@ -118,9 +112,9 @@ Sağlık çalışanlarına yönelik şiddet olaylarını takip etmek üzere "Bak
 
 24 saat hizmet verecek "113" numaralı telefon ve "www.beyazkod.saglik.gov.tr" internet sayfası oluşturulmuştur.
 
-a) Kamu ve özel tüm sağhk kurum ve kuruluşlarında gerçekleşen şiddet olayları, yöneticiler tarafindan derhal "113" numaralı telefonla Bakanlık Beyaz Kod Birimine bildirilecek, eş zamanlı olarak ilgili kurumun hukuk birimine ve adli mercilere intikal ettirilecektir. Kamu görevlilerine karşı işlenen şiddet olaylarının takibi şikâyete bağhı olmadığından, ilgili personelin şikâyetinin olup olmadığına bakılmaksızın yönetic ler olayı mutlaka adli mercilere intikal ettirecektir. Özel sağlık kuruluşları da adli bildirim konusunda gerekli hassasiyeti gösterecektir.
+a) Kamu ve özel tüm sağlık kurum ve kuruluşlarında gerçekleşen şiddet olayları, yöneticiler tarafından derhal "113" numaralı telefonla Bakanlık Beyaz Kod Birimine bildirilecek, eş zamanlı olarak ilgili kurumun hukuk birimine ve adli mercilere intikal ettirilecektir. Kamu görevlilerine karşı işlenen şiddet olaylarının takibi şikâyete bağhı olmadığından, ilgili personelin şikâyetinin olup olmadığına bakılmaksızın yönetic ler olayı mutlaka adli mercilere intikal ettirecektir. Özel sağlık kuruluşları da adli bildirim konusunda gerekli hassasiyeti gösterecektir.
 
-b) Şiddete uğrayan sağlık çalışanı tarafindan da "113" numaralı telefona dogrudan bildirim yapılabilecektir.
+b) Şiddete uğrayan sağlık çalışanı tarafından da "113" numaralı telefona dogrudan bildirim yapılabilecektir.
 
 , "www.beyazkod.saglik.gov.tr" adresinde bulunan "Beyaz Kod Bildirim Formu"nu dolduracaktır.
 
@@ -134,9 +128,7 @@ a) "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik"in 7 ve 8
 
 b) Il sağlık müdürü konuyla doğrudan sorumlu bir sağlık müdür yardımcısı ile birlikte kurumlarda çalışan güvenliği uygulamaları ve alınan tedbirleri aylık periyotlarla izleyecek ve Bakanlığa rapor edecektir.
 
-e) SABIM'e yapılan sağlık çalışanları hakkındaki şikayetler, başvuruların ancak % 4 ünü oluşturmaktadır. SABİM'e ve hasta hakları birimine yapılan sağlık çalışanlanı hakkındaki şikåyetler, öncelikle SABIM'den sorumlu il sağlık müdür yardımeısı ve hasta haklarından sorumlu başhekim yardımcısı tarafindan ön değerlendirmeye tabi tutulacak, genel ve
-
-### T.C. SAGLIK BAKANLIĞI
+e) SABIM'e yapılan sağlık çalışanları hakkındaki şikayetler, başvuruların ancak % 4 ünü oluşturmaktadır. SABİM'e ve hasta hakları birimine yapılan sağlık çalışanlanı hakkındaki şikåyetler, öncelikle SABIM'den sorumlu il sağlık müdür yardımeısı ve hasta haklarından sorumlu başhekim yardımcısı tarafından ön değerlendirmeye tabi tutulacak, genel ve
 
 Sağlık Hizmetleri Genel Müdürlüğü Sağlik Bakanlğ soyut nitelikte olan, şikayet sahibinin adı ve adresi belli olmayan veya personelin kusuru bulunmadığı açıkça görülen ihbar ve şikayetler değerlendirmeye alınmayacaktır.
 
@@ -146,6 +138,6 @@ Prof. Dr. Recep AKDAĞ
 
 Bakan
 
-### DAGITIM
+DAGITIM
 
 A Planı

@@ -8,33 +8,44 @@ etiketler: ["mali hizmetler", "merkez payı", "finansman"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1067-1071"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 11.2.4. Merkez Pay Yönergesi
 
-### SAĞLIK BAKANLIĞI İLE BAGLI KURULUŞLARINA BAĞLI DÖNER SERMAYE İŞLETMELERİNDEN MERKEZE AKTARILAN TUTARIN BAĞILIM VE SARFINA DAIR YÖNERGE BİRİNCI BOLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+### SAĞLIK BAKANLIĞI İLE BAĞLI KURULUŞLARINA BAĞLI DÖNER SERMAYE İŞLETMELERİNDEN MERKEZE AKTARILAN TUTARIN DAĞILIM VE SARFINA DAİR YÖNERGE
 
-#### Amaç ve Kapsam
+## BİRİNCİ BÖLÜM
 
-**MADDE 1 –** (1) Bu Yönerge; Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatında kurulan cöner sermaye işletmelerince, sağlık hazmeterinin iyileştirimesi, kaliteli ve verimli hizmet sunumunun teşvik edilmesi, sağhk kurum ve kuruluşlarının kendi imkänlanıyla karşılayamadıklan ihtiyaçlann giderilmesi, eğitim, araştırma ve geliştirne faaliyetlerinin desteklenmesi, Bakanlık taşra teşkilatı ile Türkiye Halk Sağlığı Kurumu taşra teşkilatının desteklenmesi, Bakanlık merkez ve taşra teşkilatında ve Turkiye Halk Sağlığı Kurumu merkez ve taşra teşkilahı ile Türkiye Kamu Hastaneleri Kurumunun merkez teşkilatında görev yapan memurlar ile sözleșmeli personele ek ödemede bulunulaması amacıyla yapalacak giderlere iştirak etmek için aylık gayrisafi hasılattan her ay tahsil edilerek Döner Sermaye Merkez Muhasebe birimine aktarılan 66'ya kadar olan tutanın dağılım ve sarfına ilişkin kriterleri belirlemek için hazırlanmiştır. Dayanak
+#### Amaç, Kapsam, Dayanak ve Tanımlar
 
-**MADDE 2 –** (1) Bu Yönerge; 4/1/1961 tarihli ve 209 sayılı Sağhık Bakanlığına Baglı Sağlak Kurumları le Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesine dayanılarak hazırlanmıştır Tanımlar
+#### Amaç ve kapsam
+
+**MADDE 1 –** (1) Bu Yönerge; Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatında kurulan döner sermaye işletmelerince, sağlık hizmetlerinin iyileştirilmesi, kaliteli ve verimli hizmet sunumunun teşvik edilmesi, sağlık kurum ve kuruluşlarının kendi imkânlarıyla karşılayamadıklan ihtiyaçlann giderilmesi, eğitim, araştırma ve geliştirme faaliyetlerinin desteklenmesi, Bakanlık taşra teşkilatı ile Türkiye Halk Sağlığı Kurumu taşra teşkilatının desteklenmesi, Bakanlık merkez ve taşra teşkilatında ve Türkiye Halk Sağlığı Kurumu merkez ve taşra teşkilahı ile Türkiye Kamu Hastaneleri Kurumunun merkez teşkilatında görev yapan memurlar ile sözleșmeli personele ek ödemede bulunması amacıyla yapılacak giderlere iştirak etmek için aylık gayrisafi hasılattan her ay tahsil edilerek Döner Sermaye Merkez Muhasebe Birimine aktarılan %5’e kadar olan tutarın dağılım ve sarfına ilişkin kriterleri belirlemek için hazırlanmiştır. 
+
+#### Dayanak
+
+**MADDE 2 –** (1) Bu Yönerge; 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesine dayanılarak hazırlanmıştır Tanımlar
 
 **MADDE 3 –** (1) Bu Yönergede geçen;
 
-a) Kanun: 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumlar. İle Esenlcadirme (Rehabilitasyon) Tesislerine Verilecck Döner Sermaye Hakkında Kanuy C
+a) Kanun: 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunu,
 
-b) Bakanlik: Sağlik Bakanlığını,
+b) Bakanlık: Sağlık Bakanlığını,
 
 c) Bakan: Sağlık Bakanını,
 
-g) Merkez Teşkilati: 663 sayılı Saghk Bakanlığı ve Bagh Kuruluşlarımın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Karamame de belirlenen Bakanlığıa merkez hizmet birimlerini,
+ç) Merkez Teşkilatı: 663 sayılı Saghk Bakanlığı ve Bagh Kuruluşlarımın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Karamame de belirlenen Bakanlığıa merkez hizmet birimlerini,
 
 d) Bağlı Kuruluş: Türkiye Kamu Hastaneleri Kururnu, Türkiye Halk Sağhğ Kurumunu ifade æder.
 
-### İKINCİ BÖLÜM Merkeze Pay Aktarilması, Dağlım ve Sarf ile ilgili Hususlar
+## İKİNCİ BÖLÜM
 
-Temel Esaslar MADDE 4 (1) Merkeze aktarılan %5*ya kadar olan tutann dağılır ve sarfina ilişkin temel esaslar aşagida belirtilmiştir:
+#### Merkeze Pay Aktarılması, Dağılım ve Sarf ile İlgili Hususlar
+
+#### Temel esaslar
+
+**MADDE 4 –** (1) Merkeze aktarılan %5*ya kadar olan tutann dağılır ve sarfina ilişkin temel esaslar aşağıda belirtilmiştir:
 
 a) Merkeze aktanlacak %ö'ya kadar olan tutarı, kurumlar veya işletmeler itibariyle bu oramın altında belirlemeye veya hiş almamaya Bakan yetkilidir.
 

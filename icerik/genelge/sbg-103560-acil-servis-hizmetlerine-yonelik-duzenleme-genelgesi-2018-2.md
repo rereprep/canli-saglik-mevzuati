@@ -7,12 +7,12 @@ birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103560/acil-servis-hizmetlerine-yonelik-duzenleme-genelgesi-20182.html"
 durum: "yürürlükte"
+konu: "Acil Servis Hizmetlerine Yönelik Düzenleme Genelgesi (2018/2) konusundaki uygulama ve esasları düzenler."
 ocr: true
+duzeltildi: true
 ---
 
 2.3.22. Acil Servis Hizmetlerine Yönelik Düzenleme Genelgesi (2018/2)
-
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 TC Sağlik Bakar Seres NoLurs
 
@@ -32,16 +32,16 @@ a. hasta ve hasta yakını imkânları ve konforunun artırılması,
 
 İlgili acil servislerde araç giriş çıkış ve otopark imkânlarının genişletilerek acil hastalara araç park imkânları ve kolaylıklarının sağlanması gerekmektedir.
 
-Yukarda sayılan düzenlemelerin ivedilikle yapılarak yeşil, sarı, kırmızı ve mesai kaydırma poliklinikleri günlük hasta sayısı ve ortalama bekleme sürelerinin Bakanlık tarafindan tam ve zamanında takibinin yapılabilmesini teminen, il sağlık müdürlüklerine verilerin günlük gönderilmesi ve ilgili il sağlık müdürlükleri ve sağlık tesisi yöneticilerinin uygulamaları yerinde bizzat takiplerinin sağlanması hususunda gereğini rica ederim.
+Yukarda sayılan düzenlemelerin ivedilikle yapılarak yeşil, sarı, kırmızı ve mesai kaydırma poliklinikleri günlük hasta sayısı ve ortalama bekleme sürelerinin Bakanlık tarafından tam ve zamanında takibinin yapılabilmesini teminen, il sağlık müdürlüklerine verilerin günlük gönderilmesi ve ilgili il sağlık müdürlükleri ve sağlık tesisi yöneticilerinin uygulamaları yerinde bizzat takiplerinin sağlanması hususunda gereğini rica ederim.
 
 Dr. Ahmet DEMIRCAN
 
 Bakan
 
-### DAĞITIM
+DAĞITIM
 
 İlgili İl Valiliklerine (İl Sağlık Müdürlüğü)
 
-### EKLER:
+EKLER:
 
 Ek-1 Hastane Listesi

@@ -8,11 +8,14 @@ etiketler: ["sağlık hizmetleri", "eğitim planlama kurulu", "uzmanlık eğitim
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 15-17"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.2.1. Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönerge
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü EĞİTİM PLANLAMA KURULUNUN (EPK) GÖREVLERİNE DAİR YÖNERGE
+### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
+
+### EĞİTİM PLANLAMA KURULUNUN (EPK) GÖREVLERİNE DAİR YÖNERGE
 
 #### Amaç
 
@@ -20,13 +23,13 @@ ocr: true
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bakanlığa bağlı eğitim ve araștırma hastanelerini ve eğiticileri kapsar.
+**MADDE 2 –** (1) Bakanlığa bağlı eğitim ve araştırma hastanelerini ve eğiticileri kapsar.
 
-**MADDE 3 –** (1) 3 Eylül 2022 tarihli ve 31942 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği'nin 7 nci maddesine
+**MADDE 3 –** (1) 3 Eylül 2022 tarihli ve 31942 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği’nin 7 nci maddesine dayanılarak hazırlanmıştır.
 
-**MADDE 4 –** (1) Eğitim ve araştırma faaliyetlerini planlamak, yürütmek ve gözetmek tizere genel eğitim ve araștırma hastanelerinde en az yedi, dal eğitim ve araștırma hastanelerinde ise en az
+**MADDE 4 –** (1) Eğitim ve araştırma faaliyetlerini planlamak, yürütmek ve gözetmek üzere genel eğitim ve araştırma hastanelerinde en az yedi, dal eğitim ve araştırma hastanelerinde ise en az
 
-(2) Başhekim EPK'nin doğal başkanıdır. Kurum eğitim sorumlusu, EPK'nin doğal üyesidir. Diğer EPK üyeleri Başhekimin gözetiminde eğiticiler tarafindan yapılacak gizli oylamayla eğiticiler arasından seçilir. Seçilen üyelerin görev süresi üç yıldır, süresi dolan üyeler tekrar seçilebilir. Ayrıca aynı sayıda yedek üye de gizli oylamayla seçilir. Üyeler arasından bir başkan vekili seçilir. Başkanın bulunmadığı hallerde EPK'ya başkan vekili başkanlık eder. Eğitici sayısı genel hastanelerde yediden, dal hastanelerinde ise üçten az olan eğitim ve araştırma hastanelerinde tüm eğiticiler EPK
+(2) Başhekim EPK'nin doğal başkanıdır. Kurum eğitim sorumlusu, EPK'nin doğal üyesidir. Diğer EPK üyeleri Başhekimin gözetiminde eğiticiler tarafından yapılacak gizli oylamayla eğiticiler arasından seçilir. Seçilen üyelerin görev süresi üç yıldır, süresi dolan üyeler tekrar seçilebilir. Ayrıca aynı sayıda yedek üye de gizli oylamayla seçilir. Üyeler arasından bir başkan vekili seçilir. Başkanın bulunmadığı hallerde EPK'ya başkan vekili başkanlık eder. Eğitici sayısı genel hastanelerde yediden, dal hastanelerinde ise üçten az olan eğitim ve araştırma hastanelerinde tüm eğiticiler EPK
 
 (3) EPK, başhekim başkanlığında, her ay en az bir defa, üye tam sayısının üçte ikisinin katılımı ile toplanır. EPK toplantıya katılan üyelerin oy çokluğu ile karar alır. Oyların eşitliği halinde Başkanın oy verdiği taraf çoğunluğu sağlamış kabul edilir.
 
@@ -34,11 +37,11 @@ ocr: true
 
 (5) EPK kararları Başhekim tarafından yürütülür.
 
-#### EPK Görevleri
+#### EPK’nin Görevleri
 
 **MADDE 5 –** (1) EPK'nin görevleri şunlardır:
 
-a) Tipta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğinde akademik kurullara verilen görevleri yapmak,
+a) Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğinde akademik kurullara verilen görevleri yapmak,
 
 b) Kurumun eğitim ve araştırma kapasitesinin oluşturulması ve geliştirilmesi için gerekli tedbirleri belirlemek,
 

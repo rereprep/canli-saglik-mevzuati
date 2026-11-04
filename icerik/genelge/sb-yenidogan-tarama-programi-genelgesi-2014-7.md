@@ -9,29 +9,32 @@ etiketler: ["halk sağlığı", "çocuk sağlığı", "anne sağlığı", "taram
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 734-741"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 6.3.57. Yenidoğan Tarama Programı Genelgesi (2014/7)
 
-### T.C. SAGLIK BAKANLIĞI Turkiye Halk Saghgı Kurumu
+### T.C. SAĞLIK BAKANLIĞI – Türkiye Halk Sağlığı Kurumu
 
-........ Suyi : 67414668- Коли Yenidoğas Tarama Progranı
+Sayı: 67414668-[?]  Konu: Yenidoğan Tarama Programı
 
-### VALILIGINE (Hal Salo Mader ugu) GENELGE
+### GENELGE 2014/7
 
-Ulkemixde yıldı yaklaşık 1.270.000 hebek dugmakta ve bu bebeklerin binde 1.40 hir yayıma gelmeden ölmektedir. Ülkerdade behek ve çocuk ölümünu onlemeye yönelik yaritälen çalışmala sonucunda yollar içinde çocuk ölumleri azalmas, çocuk sağlığmı telli aden diger soranlar One çamaștr, Bu Inctutklardan korunulabilir olanlarm yatamengı olumsuzluklan onlemek de artik çocuk sağle konsanda ancefikl vadik hizmetlerinden biridir. Yenidoğan Tatama Prograna sinıde yer alun konjenitl hipotiroldi, fanilketonüri ve biyotinidaz eksikliğı hastalıklannın taramıusı, bu kapsandaki koruyucu saglik hizmetlerinin en önemlilerındendir
+#### VALİLİĞİNE (Halk Sağlığı Müdürlüğüne)
 
-GoT saglı Sağlk Bakanlılı ve Baglı Kuruluştanmn Teşkilat ve Glevleri Hakknda Konun Hükmünde Karamane de Yenideğan Turuma Programı Tarkişe Halk Sağlığı Kurumu Bulaşic: Olmayan Hastalıklar Programlar ve Kanser Başkan Yardımelığı Çocuk ve Ergen Saglıgı Daire Baskanliı Koordınatörliginde yirtilmekiedir. Bu gorev kapsamında her bebeğı taranmasi, larama sonuçlanina gde bebeklerin algili klinige yonlendirilmelerinin takibo ve programan Izleme ve degeriendirimesi Ne Adedürilehilirli@in suğlanması yer almaktadır.
+Ülkemizde yıldı yaklaşık 1.270.000 hebek doğmakta ve bu bebeklerin binde 1.40 hir yayıma gelmeden ölmektedir. Ülkemizde behek ve çocuk ölümünu onlemeye yönelik yaritälen çalışmala sonucunda yollar içinde çocuk ölumleri azalmas, çocuk sağlığmı telli aden diger soranlar One çamaștr, Bu Inctutklardan korunulabilir olanlarm yatamengı olumsuzluklan onlemek de artik çocuk sağle konsanda ancefikl vadik hizmetlerinden biridir. Yenidoğan Tarama Programı sinıde yer alun konjenital hipotiroidi, fenilketonüri ve biyotinidaz eksikliği hastalıklannın taramıusı, bu kapsandaki koruyucu saglik hizmetlerinin en önemlilerındendir
 
-Halk Sağhğ Mildirlakleri, bebeklerin dogumlarından itibaren uygun şarflarda, öpel filtre käğdan ile ropuk kanı omekterini ahmak, web uygulamasınu ahnan kan ömeklerinin girişini yapmak, mükerrer numaneierin ve tekrar numunelerin zamanmıdia eksiksiz olaruk almasını, kan emeklerinin Yerndeğen Tarama Laboratuvarlarına en kusa zanunda elaştrimasne sa@iemak, tama somiçian incanet ortamunda açiklamır açıklanmaz sonuçlart hastahk yönünden şüpheli çıkan hebeklerin web saytandeki talimatlar doğrulusunda ilgili klimklere sevkini gerçekleştirmek, Ugıli klinik tardıdan verilen tanıları ve sonuçlarıu web uygulamasındaki klinik tanı girişlerinı kullanarak kaydetmek ve bu hebcklerin takip edilmesini sağlamakla yukümludür.
+663 sayılı Sağlık Bakanlığı ve Baglı Kuruluştanmn Teşkilat ve Görevleri Hakkında Konun Hükmünde Karamane de Yenideğan Turuma Programı Tarkişe Halk Sağlığı Kurumu Bulaşıcı Olmayan Hastalıklar Programlar ve Kanser Başkan Yardımelığı Çocuk ve Ergen Saglıgı Daire Baskanliı Koordınatörliginde yürütülmektedir. Bu gorev kapsamında her bebeğı taranmasi, larama sonuçlanina gde bebeklerin algili klinige yonlendirilmelerinin takibo ve programan Izleme ve degeriendirimesi Ne Adedürilehilirli@in suğlanması yer almaktadır.
+
+Halk Sağlığı Müdürlükleri, bebeklerin dogumlarından itibaren uygun şarflarda, öpel filtre käğdan ile topuk kanı omekterini ahmak, web uygulamasınu ahnan kan ömeklerinin girişini yapmak, mükerrer numaneierin ve tekrar numunelerin zamanmıdia eksiksiz olaruk almasını, kan emeklerinin Yerndeğen Tarama Laboratuvarlarına en kusa zanunda elaştrimasne sa@iemak, tama somiçian incanet ortamunda açiklamır açıklanmaz sonuçlart hastahk yönünden şüpheli çıkan hebeklerin web saytandeki talimatlar doğrulusunda ilgili klimklere sevkini gerçekleştirmek, Ugıli klinik tardıdan verilen tanıları ve sonuçlarıu web uygulamasındaki klinik tanı girişlerinı kullanarak kaydetmek ve bu hebcklerin takip edilmesini sağlamakla yukümludür.
 
 50z konusu hu çalişmaların yürutültnesi sırasıda karsıdaşılan problemterin gülebilmesi için aşa@rdukı hususlaru azam dikkat güsterilmesi gerek ınektedir:
 
 1. Tarama programı kapsamuda dogan her bebekien doğumu takiben 46 sazl sonra (ond beslenmenin ardından) topuk kanı emeği alınması esastir, Ancak mimkin olduğura çok sayıda bebeğe ulaşabilmek için sağlık kurumlarında doğan hehekterin sağlık kurumunu terk ettiği son anda topuk tamı örneği alınmalı, eğer hu örnek bebek
 
-### T.C SAĞLIK BAKANLIĞI Tirkıye Halk Sağhğt Kamumu
+### T.C. SAĞLIK BAKANLIĞI – Türkiye Halk Sağlığı Kurumu
 
-Sayu 67414658- Коли Услідов Тагана Progranu yeterince orni beslenmedee alsamuşsa hastaya Uk afta içinde aile fekimlerine ya da en yıkın sıgik kurumuna başvurarak yenı kopuk kam örneği aldırmasi gerektiğı snylenneidir.
+Sayı: 67414668-[?]  Konu: Yenidoğan Tarama Programı yeterince orni beslenmedee alsamuşsa hastaya Uk afta içinde aile fekimlerine ya da en yıkın sıgik kurumuna başvurarak yenı kopuk kam örneği aldırmasi gerektiğı snylenneidir.
 
 1, Bininci basansak (ASM, TSM) hizmetlerinden faydalanmale izere gelen Ber yeni doğan bebeğin, dalta Tace hastanede topuk kum alımp ahumadıgo, ahındı ise ne zaman alınde ve kan alum ducesi bebeğin beslenip beslenmedigi yonunden ayneni olarak sorgulanması gerekmektedir. Daña once topuk kamı alınmadysa veya topuk kam habekten 48 asar dolmadan ya da emzinimeden once alındıysa maduka mukerrer kun Amogı altmaldır. Bebeklerden sulese for kez milerrer kan Ömeği alımmuldır,
 
@@ -73,7 +76,7 @@ AR Web vygulamasına kayn ve onay yupulmadan gonderilen numuneler laboratuar Ça
 
 19. Program kapamında yapilan çaleşnalanda laboratuvarla uyumlu hale getirilen ve ekre yer alan aka peratar cae alimmali, il diirejinde baska bir dizenleme yapa/onamalida
 
-### T.C. SAGLIK BAKANLIĞI Türkiye Halk Suğlıüı Kurumm
+### T.C. SAĞLIK BAKANLIĞI Türkiye Halk Suğlıüı Kurumm
 
 Sayt : 67414668 Konu : Yenidogan Tatama Program
 
