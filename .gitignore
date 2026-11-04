@@ -1,0 +1,10 @@
+_site/
+kaynak-isleme/indirilen/
+__pycache__/
+.DS_Store
+*.pyc
+# Kaynak kitaplar (büyük dosyalar) depoya alınmaz
+kaynaklar/
+*.pdf
+!site/**/*.pdf
+

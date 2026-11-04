@@ -1,0 +1,40 @@
+name: Resmî Gazete takibi
+
+# Her sabah 09:30'da (Türkiye saati) Resmî Gazete'yi tarar; sağlıkla ilgili yeni
+# düzenlemeleri bir çekme isteği (pull request) olarak önerir.
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+    inputs:
+      gun:
+        description: "Geriye doğru taranacak gün sayısı"
+        default: "1"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: tara
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python araclar/rg_takip.py --gun "${{ github.event.inputs.gun || '1' }}"
+      - if: steps.tara.outputs.eklenen != '0'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: resmi-gazete/otomatik
+          title: "Resmî Gazete: yeni sağlık düzenlemeleri"
+          commit-message: "Resmî Gazete'den yeni sağlık düzenlemeleri"
+          body: |
+            Resmî Gazete takip ajanı sağlıkla ilgili yeni düzenlemeler buldu.
+            Lütfen künye bilgilerini ve metinleri kontrol edip birleştirin; birleştirince site otomatik yayımlanır.
+          labels: resmi-gazete
+

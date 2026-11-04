@@ -1,0 +1,162 @@
+---
+id: "aile-hekimligi-kanunu"
+baslik: "Aile Hekimliği Kanunu"
+tur: "kanun"
+tarih: "2004-11-24"
+sayi: "5258"
+rg_tarih: "2004-12-09"
+rg_sayi: "25665"
+birim: "Sağlık Bakanlığı"
+konu: "Aile Hekimliği Kanunu ile belirlenen yasal esaslar, haklar ve yükümlülükler."
+etiketler: ["aile-hekimligi", "mevzuat"]
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 24-28"
+durum: "yürürlükte"
+---
+
+## AİLE HEKİMLİĞİ KANUNU
+
+Kanun Numarası : 5258
+
+Kabul Tarihi : 24/11/2004
+
+Yayımlandığı Resmî Gazete : Tarih : 9/12/2004 Sayı :25665
+
+Yayımlandığı Düstur : Tertip : 5 Cilt : 44
+
+#### Amaç ve kapsam
+
+**Madde 1 –** Bu Kanunun amacı; Sağlık Bakanlığının (…)<sup>[3]</sup> belirleyeceği illerde, birinci basamak sağlık hizmetlerinin geliştirilmesi, birey ihtiyaçları doğrultusunda koruyucu sağlık hizmetlerine ağırlık verilmesi, kişisel sağlık kayıtlarının tutulması ve bu hizmetlere eşit erişimin sağlanması amacıyla aile hekimliği hizmetlerinin yürütülebilmesini teminen görevlendirilecek veya çalıştırılacak sağlık personelinin statüsü ve malî hakları ile hizmetin esaslarını düzenlemektir.
+
+#### Tanımlar
+
+**Madde 2 –** Aile hekimi; kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetlerini yaş, cinsiyet ve hastalık ayrımı yapmaksızın her kişiye kapsamlı ve devamlı olarak belli bir mekânda vermekle yükümlü, gerektiği ölçüde gezici sağlık hizmeti veren ve tam gün esasına göre çalışan aile hekimliği uzmanı veya Sağlık Bakanlığının öngördüğü eğitimleri alan uzman tabip veya tabiptir.
+
+Aile sağlığı çalışanı; aile hekimi ile birlikte hizmet veren hemşire, ebe, sağlık memuru gibi sağlık çalışanıdır.
+
+#### Personelin statüsü, hak ve yükümlülükleri
+
+**Madde 3 –** Sağlık Bakanlığı; Bakanlık veya diğer kamu kurum veya kuruluşları personeli olan uzman tabip, tabip ve aile sağlığı çalışanı olarak çalıştırılacak sağlık personelini, kendilerinin talebi ve kurumlarının veya Bakanlığın muvafakatı üzerine, 657 sayılı Devlet Memurları Kanunu ile diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın, sözleşmeli olarak çalıştırmaya veya bu nitelikteki Bakanlık personelini aile hekimliği uygulamaları için görevlendirmeye veya aile hekimliği uzmanlık eğitimi veren kurumlarla sözleşme yapmaya yetkilidir.
+
+Aile sağlığı çalışanları, Sağlık Bakanlığı tarafından uygun görülen ve aile hekiminin de görüşü alınarak, kurumlarınca muvafakatı verilen Bakanlık veya diğer kamu kurum ve kuruluşları personeli arasından seçilir ve bunlar sözleşmeli olarak çalıştırılır. Bu suretle eleman temin edilememesi halinde, Sağlık Bakanlığı, personelini bu hizmetler için görevlendirebilir. İhtiyaç duyulması halinde, Türkiye'de mesleğini icra etmeye yetkili ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A) bendinin (4), (5) ve (7) numaralı alt bentlerindeki şartları taşıyan kamu görevlisi olmayan uzman tabip, tabip ve aile sağlığı çalışanları; Sağlık Bakanlığının önerisi, Maliye Bakanlığının uygun görüşü üzerine sözleşme yapılarak aile hekimliği uygulamalarını yürütmek üzere aile hekimleri ve aile sağlığı çalışanları altmış beş yaşına kadar çalıştırılabilir.<sup>[6]</sup>
+
+Sözleşmeli olarak çalışan aile hekimi ve aile sağlığı çalışanları kurumlarında aylıksız veya ücretsiz izinli sayılırlar ve bunların kadroları ile ilişkileri devam eder. (Değişik ikinci cümle:11/10/2011-KHK-663/58 md.) Bu personelin, sözleşmeli statüde geçen süreleri kazanılmış hak derece ve kademelerinde veya kıdemlerinde değerlendirilerek her yıl işlem yapılır ve bunlar talepleri halinde eski görevlerine atanırlar. Sözleşmeli personel statüsünde çalışmakta iken aile hekimi ve aile sağlığı çalışanı statüsüne geçenlerden önceki sözleşmeli personel statüsüne dönmek isteyenler, eski kurumlarındaki boş pozisyonlara öncelikle atanırlar ve bu madde kapsamındaki çalışmaları hizmet sürelerinde dikkate alınır.
+
+Kadroya bağlı olarak veya sözleşmeli personel pozisyonlarında görev yapan personelden Sağlık Bakanlığınca aile hekimi veya aile sağlığı çalışanı olarak görevlendirilenlere, 209 sayılı Sağlık ve Sosyal Yardım Bakanlığına Bağlı Sağlık Kuruluşları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun uyarınca ek ödeme yapılmaz. Bunlara, aylıklarına ve ücretlerine ilaveten, çalıştıkları günler dikkate alınarak aşağıdaki fıkrada belirlenen miktarların yarısını aşmamak üzere tespit edilecek tutarda ödeme yapılır.
+
+Sözleşme yapılan aile hekimi ve aile sağlığı çalışanlarına, 657 sayılı Kanunun 4 üncü maddesinin (B) bendine göre belirlenen en yüksek brüt sözleşme ücretinin aile hekimi için (6) katını, aile sağlığı çalışanı için (1,5) katını aşmamak üzere tespit edilecek tutar, çalışılan ay sonuçlarının ilgili sağlık idaresine bildiriminden itibaren onbeş gün içerisinde ödenir. (Ek cümle : 4/7/2012-6354/ 12 md., Değişik ikinci cümle: 20/8/2016-6745/59 md.) Aile hekimlerine ve aile sağlığı çalışanlarına ihtiyaç hâlinde, 657 sayılı Kanunun ek 33 üncü maddesinde belirtilen yerlerde haftalık çalışma süresi ve mesai saatleri dışında nöbet görevi verilir. (Ek cümle: 2/1/2014-6514/52 md.) Bunlara entegre sağlık hizmeti sunulan merkezlerde artırımlı ücretten yararlananlar hariç olmak üzere, 657 sayılı Kanunun ek 33 üncü maddesi çerçevesinde nöbet ücreti ödenir.
+
+________________
+
+Sözleşmeli olarak çalışmaya başlayanların, daha önce bağlı oldukları sosyal güvenlik kuruluşlarıyla ilişkileri aynı şekilde devam ettirilir. Ancak, her türlü prim, kesenek ve kurum karşılıkları bu fıkrada belirtilen ücretlerden kesilerek ilgili sosyal güvenlik kuruluşuna aktarılır. Bunlar önceki durumları çerçevesinde tedavi yardımlarından yararlanmaya devam ederler.
+
+Aile hekimi ve aile sağlığı çalışanlarının durumları ve aile hekimliği uzmanlık eğitimi almış olup olmadıkları da dikkate alınmak suretiyle yapılacak ödeme tutarlarının tespitinde; çalıştığı bölgenin sosyo-ekonomik gelişmişlik düzeyi, Bakanlıkça karşılanmadığı takdirde aile sağlığı merkezi giderleri, (…)<sup>[7]</sup> , kayıtlı kişi sayısı ve bunların risk grupları, gezici sağlık hizmetleri ile aile hekimi tarafından karşılanmayan gider unsurları, belirlenen standartlar çerçevesinde sağlığın geliştirilmesi, hastalıkların önlenmesi, takibi ve kontrolündeki başarı oranı gibi kriterler esas alınır. Sağlık Bakanlığınca belirlenen standartlara göre, koruyucu hekimlik hizmetlerinin eksik uygulaması (…)<sup>[8]</sup> halinde bu ödeme tutarından brüt ücretin % 20'sine kadar indirim yapılır. Sosyo-ekonomik gelişmişlik düzeyi ücreti, aile sağlığı merkezi giderleri, (…) ve gezici sağlık hizmetleri ödemelerinden Damga Vergisi hariç herhangi bir kesinti yapılmaz. (Ek cümle: 2/1/2014-6514/52 md.) Aile hekimlerince talep edilen tetkik ve sarf malzemelerinin giderleri halk sağlığı müdürlükleri tarafından hak sahiplerine ayrıca ödenir.
+
+(Ek fıkra: 4/7/2012-6354/12 md.) Aile hekimliği uzmanlık eğitimi veren kurumların; her bir araştırma görevlisi/asistan başına azamî kayıtlı kişi sayısı 4000 kişiyi aşmamak ve her kayıtlı kişi başına (görev yapacak araştırma görevlisi/asistan sayısı da esas alınmak suretiyle) aylık beş Türk Lirasından fazla olmamak üzere belirlenecek tutar, çalışılan aya ait sonuçların ilgili sağlık idaresine bildiriminden itibaren onbeş gün içinde ilgili döner sermaye mevzuatı hükümlerine tabi tutulmaksızın döner sermaye işletmelerinde bu amaçla açılacak olan hesaba yatırılır. Bu tutarı üç katına kadar artırmaya Cumhurbaşkanı yetkilidir. Kayıtlı kişi başına belirlenen tutar, 657 sayılı Kanunun 4 üncü maddesinin (B) bendine göre belirlenen en yüksek brüt sözleşme ücretinin artışı oranında artırılabilir. Sağlık Bakanlığı tarafından belirlenen standartlara göre, koruyucu hekimlik hizmetlerinin eksik uygulanması hâlinde ödeme tutarının % 20’sine kadar indirim yapılır.<sup>[10]</sup>
+
+(Ek fıkra: 4/7/2012-6354/12 md.) Bu şekilde kurumlarca oluşturulacak aile sağlığı merkezlerinin bu Kanun kapsamında oluşacak tüm giderleri sekizinci fıkrada belirtilen hesaplardan ödenir. Kurumlarınca aile hekimliği hizmetlerinde çalıştırılan öğretim üyesi, eğitim görevlisi, araştırma görevlisi ve asistanlara; kayıtlı kişi sayısı ve bunların risk grupları, gezici sağlıkhizmetleri,belirlenen standartlar çerçevesinde sağlığın geliştirilmesi, hastalıkların önlenmesi, takibi ve kontrolündeki başarı oranı gibi kriterlere göre yapılacak ödemelereilişkinusulveesaslarMaliyeBakanlığınınuygun görüşüüzerineSağlıkBakanlığıncaçıkarılacakyönetmeliklebelirlenir.İlgililere yapılacak toplam ödeme, kadrolarına bağlı olarak yapılan ödemeler de dâhil olmak üzere beşinci fıkrada yer alan sınırları aşamaz. Sekizinci fıkrakapsamındaoluşturulanailesağlığımerkezlerindegörevyapanailesağlığıçalışanlarına209sayılıKanunun5incimaddesive4/11/1981 tarihlive2547sayılıYükseköğretimKanununun58incimaddesihükümleriçerçevesindebelirlenenazamîeködemetutarınıgeçmemeküzere yukarıda belirtilen kriterler çerçevesinde yapılacak ödeme, anılan fıkra uyarınca açılmış bulunan hesaplardan ödenir.(Mülga cümle: 16/6/2022-7411/11 md.) (Değişik cümle: 16/6/2022-7411/11 md.)Bu ödemelerden yararlanan personele, çalışmaları sebebiyle4/1/1961tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek DönerSermayeHakkındaKanunun5inciveek3üncümaddeleriile2547sayılıKanunun58incimaddesiuyarıncahizmetsunumşartlarıve kriterleri de dikkate alınmak suretiyle ödeme yapılır. (Ek cümle: 16/6/2022-7411/11 md.) Bu ödemeler toplamı ilgisine göre 209 sayılı Kanunun 5 inci maddesi ile 2547 sayılı Kanunun 58 inci maddesinde belirlenmiş olan tavanları geçemez.
+
+(Ekfıkra:15/11/2018-7151/26md.) AilehekimliğiuzmanlıkeğitimiverenvakıfüniversiteleriileSağlıkBakanlığıarasında bu maddenin birinci fıkrası kapsamında kurumsal sözleşme yapılabilir ve sekizinci fıkradaki usul ve esaslara göre üniversite hesabına ödeme yapılır.
+
+(Ek fıkra:15/11/2018-7151/26 md.) Aile hekimleri ferden veya müştereken personel çalıştırabilir ve işveren olabilir.
+
+(Ek fıkra:15/11/2018-7151/26 md.) Aile hekimleri ve aile sağlığı çalışanlarının yıllık izinleri, yıl içinde çalışılan süre ile orantılı olmak ve ait olduğu sözleşme döneminde kullanılmak üzere otuz gündür. Ayrıca beş gün kongre ve seminer izni ile yıllık izin bitiminden sonra mazeretleri nedeniyle beş gün idari izin verilebilir. Evlenme, ölüm, doğum ve emzirme hâllerinde, 657 sayılı Kanunun 4/B maddesi kapsamındaki sözleşmeli personele ilişkin izin süreleri uygulanır. Hastalık durumunda, bir malî yılda en çok on günlük dönemler halinde toplam kırk güne kadar hekimin uygun görmesiyle hastalık izni verilebilir. Bir defada on günü aşan hastalık izni ancak sağlık kurulu raporu ile verilebilir. Sözleşmeli aile hekimi iken aile hekimliği uzmanlık eğitimi almakta olanlar, bu eğitimleri kapsamındaki hastane rotasyonu süresince izinli sayılır.
+
+_____________ <sup>[6]</sup>15/11/2018 tarihli 7151 sayılı Kanunun 26 ncı maddesiyle bu fıkrada yer alan “yürütmek üzere” ibaresinden sonra gelmek üzere “aile hekimleri ve aile sağlığı çalışanları altmış beş yaşına kadar” ibaresi eklenmiştir. <sup>[7]</sup>2/1/2014 tarihli ve 6514 sayılı Kanunun 52 nci maddesiyle, bu fıkrada yer alan “tetkik ve sarf malzemesi giderleri” ibareleri madde metninden çıkarılmıştır. <sup>[8]</sup>Bu fıkranın ikinci cümlesinde yer alan “... veya hasta sevk oranlarının yüksek olması...” ibaresi, 7/11/2008 tarihli ve 27047 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 21/2/2008 tarihli ve E.: 2005/10, K.: 2008/63 sayılı Kararı ile iptal edilmiştir. <sup>[9]</sup>11/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesiyle bu fıkrada yer alan “karşılanmayan gider unsurları” ibaresinden sonra gelmek üzere “, belirlenen standartlar çerçevesinde sağlığın geliştirilmesi, hastalıkların önlenmesi, takibi ve kontrolündeki başarı oranı” ibaresi eklenmiştir. <sup>[10]</sup>2/7/2018tarihlive700sayılıKHK’nin158incimaddesiyle,bufıkradayeralan“SağlıkBakanlığınıntalebiveMaliyeBakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+
+(Ek fıkra: 14/7/2023-7456/13 md.) Sözleşmeli aile hekimleri ve sözleşmeli diş hekimleri ile aile sağlığı çalışanları hakkında uygulanacak disiplin cezalarında bu Kanun ile ilgili düzenlemeler dışında, 657 sayılı Devlet Memurları Kanununun ilgili maddelerine göre işlem yapılır. Aylıktan kesme cezası, kişinin brüt ücretinin 1/30-1/8 arasında kesinti yapılması şeklinde, bu Kanunun 3 üncü maddesinin ikinci fıkrasının son cümlesi kapsamında çalışanlar için kademe ilerlemesinin durdurulması cezası brüt ücretinin 1/6-1/4 arasında kesinti yapılması şeklinde uygulanır. Devlet memurluğundan çıkarma cezası sözleşmenin feshini gerektirir. (Ek cümleler:21/2/2024-7496/25 md.) Sözleşme ile çalıştırılan aile hekimi ve aile sağlığı çalışanlarına, halk sağlığının geliştirilmesine destek olmalarını, halkın birinci basamak sağlık hizmetlerine erişimlerini kolaylaştırmalarını ve düzenli hizmet sunmalarını teminen ödüllendirilmeleri ve motivasyonlarının artırılması amacıyla destek ödemesi yapılır. Bu ödeme, uyarma cezası alanlara bir ay, kınama cezası alanlara iki ay, aylıktan kesme ya da kademe ilerlemesinin durdurulması cezası alanlara üç ay süresince yapılmaz. Aile hekimi ve aile sağlığı çalışanlarına bir sözleşme döneminde toplam altı ay ve üzerinde ödeme kesintisini gerektirir disiplin cezası verilmesi hâlinde aile hekimi ve aile sağlığı çalışanlarının mevcut sözleşmeleri feshedilir.
+
+(Ek fıkra: 14/7/2023-7456/13 md.) Sağlığın geliştirilmesi, hastalıkların önlenmesi, takibi ve kontrolü ile koruyucu sağlık hizmetlerinin standartlara uygun olarak yerine getirilmemesi gibi Bakanlıkça belirlenen performans hedeflerine ulaşılamaması halinde sözleşmenin Bakanlıkça yenilenmemesine karar verilebilir.
+
+(Ekfıkra: 14/7/2023-7456/13 md.) Sözleşmeli olarak çalışan aile hekimi, aile diş hekimi ve aile sağlığı çalışanlarının eski kadro veya pozisyonlarına atanabilmeleri için sözleşmelerinin Devlet memurluğundan çıkarma cezasını gerektiren fiilleri nedeniyle sona ermemiş olması gerekir.
+
+(Ek fıkra: 14/7/2023-7456/13 md.) Disiplin kurullarının teşkili, disiplin amirlerinin tayin ve tespiti ile disiplin hükümlerinin uygulanmasına ilişkin diğer esaslar yönetmelikte düzenlenir.
+
+#### Kamuya ait taşınmazların kullanımı
+
+**Madde 4 –** Hazine, belediye veya il özel idaresine ait taşınmazlardan aile sağlığı merkezi olarak kullanılması uygun görülenler, Maliye Bakanlığı, belediye veya il özel idarelerince bu amaçla kullanılmak üzere doğrudan aile hekimine kiraya verilebilir.
+
+#### Hizmetin esasları
+
+**Madde 5 –** (Değişik fıkra:15/11/2018-7151/27 md.) Aile hekimliği uygulaması kapsamında kişilerin aile hekimine kaydı yapılır. Sağlık Bakanlığınca belirlenen süre sonunda kişiler aile hekimlerini değiştirebilirler veya sağlık hizmet planlamasına uygun olarak Sağlık Bakanlığı kişilerin aile hekimini değiştirebilir. Her bir aile hekimi için kayıtlı kişi sayısı; coğrafi şartlar, sağlık hizmet planlaması gibi kriterler esas alınarak Hazine ve Maliye Bakanlığının görüşü alınarak Sağlık Bakanlığınca belirlenir.
+
+(Değişik cümle:9/1/2025-7538/4 md.) Yabancılara sunulan hizmetler, sertifikası olan aile hekimlerince mesai dışında sunulan akupunktur ve fitoterapi uygulamaları ile özel amaçlı raporlardan Bakanlıkça belirlenenler hariç olmak üzere aile hekimliği hizmetleri ücretsizdir. (Ekcümle:9/1/2025-7538/4 md.) Acil haller hariç, haftada kırk saatten az olmamak kaydı ile Bakanlıkça belirlenen kıstaslar çerçevesinde ilgili aile hekiminin talebi ve o yerin sağlık idaresince onaylanan çalışma saatleri içinde yerine getirilir. (Ek cümle: 10/9/2014-6552/117 md.) Bakanlıkça belirlenen aile sağlığı merkezlerinde çalışma saatleri dışında, aile hekimleri ve aile sağlığı çalışanları ile gerektiğinde Sağlık Bakanlığı ve bağlı kuruluşları personeline nöbet görevi verilebilir. Aile hekimliği uygulaması kapsamında acil haller ve mücbir sebepler dışında, kişi hangi sosyal güvenlik kuruluşuna tâbi olursa olsun, aile hekiminin sevki olmaksızın sağlık kurum ve kuruluşlarına müracaat edenlerden katkı payı alınır. Alınacak katkı payı tutarı Sağlık Bakanlığı, Hazine ve Maliye Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığınca müştereken belirlenir. Diğer kanunların aile hekimliği hizmetleri kapsamındaki hizmetlerin sunumu ile sevk ve müracaata ilişkin hükümleri uygulanmaz. (Ek cümle:11/10/2011-KHK-663/58 md.) Aile hekimliği hizmetleri dışında kalan birinci basamak sağlık hizmetleri toplum sağlığı merkezleri tarafından verilir ve bu merkezlerin organizasyonu, kadroları, görevleri ile çalışma usûl ve esasları Bakanlıkça belirlenir. Yabancılar hakkında ilgili mevzuat hükümleri uygulanır. (Ek cümleler:9/1/2025-7538/4 md.) Bu fıkranın birinci cümlesi kapsamında Bakanlıkça tarifeleri belirlenen hizmetlerden tahsil edilecek gelirler il sağlık müdürlüklerinin döner sermaye işletmelerinde bu amaçla açılacak olan hesaba yatırılır. Bu hesapta toplanan gelirlerin, sağlık hizmet sunumu için harcanma kriterleri, aile sağlığı merkezi giderlerinde kullanılması da dahil aile hekimine ve aile sağlığı çalışanına dağıtılabilecek miktarları, dağıtım ve harcamaya ilişkin diğer usul ve esaslar Hazine ve Maliye Bakanlığının uygun görüşü üzerine Bakanlıkça belirlenir. Aile hekimi ve aile sağlığı çalışanına yapılacak ödemenin hesabında 3 üncü maddenin beşinci fıkrası hükümleri dikkate alınmaz.
+
+Aile hekimlerinin şahsî kayıtları ilgili il ve ilçe sağlık idare birimlerinde tutulur. Aile hekimlerinin kullandığı basılı veya elektronik ortamda tutulan kayıtlar, kişilerin sağlık dosyaları ile raporlar, sevk belgesi ve reçete gibi belgeler resmî kayıt ve evrak niteliğindedir. Bu kayıt ve belgeler, hekimin ayrılması veya kişinin hekim değiştirmesi halinde eksiksiz olarak devredilir. İlgili mevzuatta birinci basamak sağlık kuruluşları ve resmî tabiplerce düzenlenmesi öngörülen her türlü rapor, sevk evrakı, reçete ve sair belgeler, aile hekimliği uygulamasına geçilen yerlerde aile hekimleri tarafından düzenlenir.
+
+#### Denetim, sorumluluk ve mal bildirimi
+
+**Madde 6 –** Aile hekimleri ve aile sağlığı çalışanları, mevzuat ve sözleşme hükümlerine uygunluk ile diğer konularda Bakanlık, ilgili mülkî idare ve sağlık idaresinin denetimine tâbidir. Aile hekimi ve aile sağlığı çalışanları, görevleriyle ilgili ya da görevleri başında işledikleri veya kendilerine karşı işlenen suçlarda Devlet memurları gibi kabul edilir. Aile hekimi ve aile sağlığı çalışanları, 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu gereğince mal bildiriminde bulunmakla yükümlüdür. ________________ <sup>[11]</sup>4/7/2012 tarihli ve 6354 sayılı Kanunun 13 üncü maddesi ile bu fıkranın birinci cümlesine “kaydı ile” ibaresinden sonra gelmek üzere “Bakanlıkça belirlenen kıstaslar çerçevesinde” ibaresi eklenmiştir. <sup>[12]</sup>9/1/2025 tarihli ve 7538 sayılı Kanunun 4 üncü maddesi ile bu fıkrada yer alan “Türkiye Halk Sağlığı Kurumunca” ibareleri “Bakanlıkça” şeklinde, mevcut üçüncü cümlesinde yer alan “Aile hekimliği uygulamasına geçilen yerlerde” ibaresi “Aile hekimliği uygulaması kapsamında” şeklinde, mevcut dördüncü cümlesinde yer alan “Sağlık, Maliye ve Çalışma ve Sosyal Güvenlik bakanlıklarınca” ibaresi “Sağlık Bakanlığı, Hazine ve Maliye Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığınca” şeklinde, mevcut beşinci cümlesinde yer alan “Aile hekimliği uygulamasına geçilen yerlerde, diğer” ibaresi “Diğer” şeklinde değiştirilmiştir.
+
+#### Ağız ve diş sağlığı ile yaşlı sağlığı hizmetleri
+
+**MADDE 7 –** (Başlığı ile Birlikte Değişik:14/7/2023-7456/14 md.)
+
+Birinci basamak sağlık hizmetlerinin etkililiğini ve kalitesini artırmak, aile hekimliği hizmetlerinin bütüncül olarak yürütülmesini sağlamak amacıyla Sağlık Bakanlığınca belirlenen nüfus, yaş grubu ve bölge gibi kriterlere göre ağız ve diş sağlığı ile yaşlı sağlığı hizmetleri planlaması yapılır.
+
+Birinci basamak ağız ve diş sağlığı ile yaşlı sağlığı hizmetlerini yürütmek üzere hekim ve diş hekimleri ile Bakanlıkça belirlenen diğer sağlık meslek mensuplarıyla bu Kanunda belirtilen usul ve esaslar çerçevesinde sözleşme akdedilir. Sözleşme yapılan personel hakkında statü, hak, yükümlülükler ve diğer hususlarda bu Kanunun 3 üncü maddesi uygulanır.
+
+#### Yönetmelikler
+
+**Madde 8 –** Aile hekimi ve aile sağlığı çalışanlarının çalışma usul ve esasları; çalışılan yer, kurum ve statülerine göre öncelik sıralaması; aile hekimliği uygulamasına geçişe ve nakillere ilişkin puanlama sistemi ve sayıları; aile sağlığı merkezi olarak kullanılacak yerlerde aranacak fizikî ve teknik şartlar; meslek ilkeleri; iş tanımları; performans ve hizmet kalite standartları; hasta sevk evrakı, reçete, rapor ve diğer kullanılacak belgelerin şekli ve içeriği, kayıtların tutulması ile çalışma ve denetime ilişkin usul ve esaslar, Sağlık Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+
+Aile hekimi ve aile sağlığı çalışanlarıyla yapılacak sözleşmede yer alacak hususlar ve bu Kanunda belirlenen esaslar çerçevesinde bunlara yapılacak ödeme tutarları ile bu ücretlerden indirim oran ve şartları, (…)<sup>[13]</sup> Cumhurbaşkanınca çıkarılacak yönetmelikle düzenlenir.
+
+#### Yürürlük
+
+**Madde 9 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
+
+#### Yürütme
+
+**Madde 10 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür. ______________ <sup>[13]</sup>Anayasa Mahkemesi’nin 21/6/2022 tarihli ve E.: 2022/43, K.: 2022/81 sayılı Kararı ile bu fıkrada yer alan “…sözleşmenin feshini gerektiren nedenler,…” ibaresi iptal edilmiştir. <sup>[14]</sup>2/7/2018 tarihli ve 700 sayılı KHK’nin 158 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının uygun görüşü alınarak, Sağlık Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+
+### 5258 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
+
+Değiştiren Kanunun/ 5258 sayılı Kanunun değişen veya iptal edilen maddeleri Yürürlüğe Giriş Tarihi KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Numarası
+
+Anayasa Mah.’nin E.: 3 7/11/2008 2005/10, K.: 2008/63 sayılı
+
+Kararı KHK/663 Kanunun Adı, 1, 3, 5 2/11/2011
+
+6354 3, 5 12/7/2012
+
+6514 3 18/1/2014
+
+6552 5 11/9/2014
+
+6745 3 7/9/2016
+
+24/6/2018 tarihinde birlikte
+
+yapılan Türkiye Büyük Millet
+
+Meclisi ve Cumhurbaşkanlığı KHK/700 3,8 seçimleri sonucunda
+
+Cumhurbaşkanının andiçerek
+
+göreve başladığı tarihte
+
+(9/7/2018)
+
+7151 2, 3, 5, 6, 8, 5/12/2018
+
+yayımını takip eden ayın birinde
+
+7411 3
+
+(1/7/2022)
+
+Anayasa Mahkemesi’nin yayımlanmasından başlayarak 21/6/2022 tarihli ve E.: 8 dokuz ay sonra 2022/43, K.: (5/5/2023) 2022/81 sayılı
+
+Kararı ile
+
+7456 3, 7 15/7/2023
+
+7496 3 1/3/2024
+
+7538 5 15/1/2025
+
+---
+
+**Dipnotlar**
+
+<small><sup>[1]</sup>Bu Kanunun adı “Aile Hekimliği Pilot Uygulaması Hakkında Kanun” iken 11/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesi ile metne işlendiği şekilde değiştirilmiştir. <sup>[2]</sup>15/11/2018 tarihli 7151 sayılı Kanunun 28 inci maddesiyle bu Kanunda yer alan “aile sağlığı elemanı” ibareleri “aile sağlığı çalışanı” şeklinde, “aile sağlığı elemanları” ibareleri “aile sağlığı çalışanları” şeklinde, “aile sağlığı elemanlarına” ibareleri “aile sağlığı çalışanlarına” şeklinde, “aile sağlığı elemanlarının” ibareleri “aile sağlığı çalışanlarının” şeklinde ve “aile sağlığı elemanlarıyla” ibaresi “aile sağlığı çalışanlarıyla” şeklinde değiştirilmiştir. <sup>[3]</sup>11/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesiyle bu maddede geçen “pilot olarak” ibaresi yürürlükten kaldırılmıştır. <sup>[4]</sup>1/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesiyle bu maddede geçen “görevlendirmeye” ibaresinden sonra gelmek üzere “veya aile hekimliği uzmanlık eğitimi veren kurumlarla sözleşme yapmaya” ibaresi eklenmiştir. <sup>[5]</sup>14/7/2023 tarihli ve 7456 sayılı Kanunun 13 üncü maddesiyle bu maddenin başlığında yer alan “ve malî haklar” ibaresi “, hak ve yükümlülükleri” şeklinde değiştirilmiş, ikinci fıkrasının birinci cümlesinde yer alan “Aile sağlığı çalışanları, aile hekimi tarafından belirlenen ve Sağlık Bakanlığı tarafından uygun görülen, kurumlarınca da” ibaresi “Aile sağlığı çalışanları, Sağlık Bakanlığı tarafından uygun görülen ve aile hekiminin de görüşü alınarak, kurumlarınca” şeklinde değiştirilmiş, yedinci fıkrasına birinci cümlesinde yer alan “gelişmişlik düzeyi,” ibaresinden sonra gelmek üzere “Bakanlıkça karşılanmadığı takdirde” ibaresi eklenmiştir.</small>
