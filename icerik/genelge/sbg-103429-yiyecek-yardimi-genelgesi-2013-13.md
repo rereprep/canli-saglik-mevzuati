@@ -2,132 +2,91 @@
 id: "sbg-103429-yiyecek-yardimi-genelgesi-2013-13"
 baslik: "Yiyecek Yardımı Genelgesi (2013/13)"
 tur: "genelge"
+tarih: "2013-07-12"
 sayi: "2013/13"
 birim: "Acil Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "112 acil sağlık hizmetlerinde çalışan personelin yemek ve kumanya yardımından yararlanma usul ve esaslarını düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103429/yiyecek-yardimi-genelgesi-201313.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-3.3.3. Yiyecek Yardımı Genelgesi (2013/13)
-
 ### T.C. SAĞLIK BAKANLIĞI
+Acil Sağlık Hizmetleri Genel Müdürlüğü
 
-TL: Sogi% Duant( Acil Sağlık Hizmetleri Genel Müdürlüğü Sayı : 72026553/20/J.5338.1 16 TEMMUZ 201 Konu: Yiyecek yardımı
+Sayı : 72026553/20/15338.1
+Konu: Yiyecek yardımı
 
-### . VALILIĞINE (II Sağlık Müdürlugu)
+16 TEMMUZ 2013
 
-Bilindiği üzere, 657 saylı Devlet Memurları Kanununun 212 nci maddesi uyarınca hazırlanarak 19/11/1986 tarihli ve 86/11220 sayılı Bakanlar Kurulu Karanı ile yürürlüğe konulan Devlet Memurları Yiyecek Yardımı Yönetmeliği'ne 25/07/2011 tarihli ve 2011/2083 sayılı Bakanlar Kurulu Kararının eki Devlet Memurları Yiyecek Yardımı Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik ile eklenen Ek 2 nci maddesinde "Bu Yönetmeliğe göre yiyecek yardımından yararlanacak personelden Sağlık Bakanlığı 112 acil sağlık hizmetlerinde görev yapan personel (sözleşmeli personel dâhil), il sağlık müdürlüklerinin yemek servislerinden veya il sağlık müdürlüklerince belirlenen Sağlık Bakanlığına bağlı yataklı tedavi kurumlarının yemek servislerinden ücret ödemeden yararlanır. Bu personelden hizmetin kesintisiz olması nedeniyle görev yerinden ayrılamayacak durumda bulunanlar kumanya verilmek suretiyle bu yardımdan yararlandırılabilir. Bu maddenin uygulanmasına ilişkin usul ve esaslar Sağlık Bakanlığınca belirlenir." hükmü getirilmiştir.
+VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
 
-Diğer taraftan 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler" başlıklı 58 inci maddesinin onbeşinci fikrası ile mevzuatta Sağlık Bakanlığına yapılan atıfların, bu Kanun Hükmünde Kararname ile yeniden yapılandırılan Sağlık Bakanlığı veya görev ve faaliyet alanlarına göre ilgili bağlı kuruluşlarına yapılmış sayılacağı hüküm
+Bilindiği üzere, 657 sayılı Devlet Memurları Kanununun 212 nci maddesi uyarınca hazırlanarak 19/11/1986 tarihli ve 86/11220 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurları Yiyecek Yardımı Yönetmeliği'ne 25/07/2011 tarihli ve 2011/2083 sayılı Bakanlar Kurulu Kararının eki Devlet Memurları Yiyecek Yardımı Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik ile eklenen Ek 2 nci maddesinde "Bu Yönetmeliğe göre yiyecek yardımından yararlanacak personelden Sağlık Bakanlığı 112 acil sağlık hizmetlerinde görev yapan personel (sözleşmeli personel dâhil), il sağlık müdürlüklerinin yemek servislerinden veya il sağlık müdürlüklerince belirlenen Sağlık Bakanlığına bağlı yataklı tedavi kurumlarının yemek servislerinden ücret ödemeden yararlanır. Bu personelden hizmetin kesintisiz olması nedeniyle görev yerinden ayrılamayacak durumda bulunanlar kumanya verilmek suretiyle bu yardımdan yararlandırılabilir. Bu maddenin uygulanmasına ilişkin usul ve esaslar Sağlık Bakanlığınca belirlenir." hükmü getirilmiştir.
 
-Yönetmeliğin Ek Madde 2'nin uygulanmasına ilişkin mülga Temel Sağlık Hizmetleri Genel Müdürlüğü'nce belirlenen usul ve esaslar 19.10.2011 tarihli ve 32421 sayılı yazı ile 81 Il Valiliğine duyurulmuştur. Ancak, Bakanlığımızın yeniden yapılandırılması kapsamında 112 Acil Sağlık Hizmetlerinde görev alan personelin yiyecek yardımının temininde bazı aksaklıkların yaşandığı belirlenmiş olup söz konusu aksaklıkların giderilmesine yönelik daha önce mülga Genel Müdürlükçe belirlenen usul ve esasların yeniden düzenlenmesine ihtiyaç duyulmuştur.
+Diğer taraftan 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler" başlıklı 58 inci maddesinin onbeşinci fıkrası ile mevzuatta Sağlık Bakanlığına yapılan atıfların, bu Kanun Hükmünde Kararname ile yeniden yapılandırılan Sağlık Bakanlığı veya görev ve faaliyet alanlarına göre ilgili bağlı kuruluşlarına yapılmış sayılacağı hüküm altına alınmıştır.
+
+Yönetmeliğin Ek Madde 2'nin uygulanmasına ilişkin mülga Temel Sağlık Hizmetleri Genel Müdürlüğü'nce belirlenen usul ve esaslar 19.10.2011 tarihli ve 32421 sayılı yazı ile 81 İl Valiliğine duyurulmuştur. Ancak, Bakanlığımızın yeniden yapılandırılması kapsamında 112 Acil Sağlık Hizmetlerinde görev alan personelin yiyecek yardımının temininde bazı aksaklıkların yaşandığı belirlenmiş olup söz konusu aksaklıkların giderilmesine yönelik daha önce mülga Genel Müdürlükçe belirlenen usul ve esasların yeniden düzenlenmesine ihtiyaç duyulmuştur.
 
 Bu kapsamda hazırlanan 12.07.2013 tarih ve 4830 sayılı genelge ektedir.
 
-Bakanhk merkez ve taşra teşkilatı ile bağlı kuruluşları birim amirlerinin konuya azami titizlik göstermeleri, maiyetlerindeki sorumlu personellerin bilgilendirilmeleri ve 112 acil sağlık hizmetlerinde çalışan personelin yiyecek ihtiyaçlarının bu çerçevede aksatılmadan karşılanması hususunda;
+Bakanlık merkez ve taşra teşkilatı ile bağlı kuruluşları birim amirlerinin konuya azami titizlik göstermeleri, maiyetlerindeki sorumlu personellerin bilgilendirilmeleri ve 112 acil sağlık hizmetlerinde çalışan personelin yiyecek ihtiyaçlarının bu çerçevede aksatılmadan karşılanması hususunda;
 
 Bilgilerinizi ve gereğini rica ederim.
 
 Prof. Dr. Ali COŞKUN
-
 Bakan a.
+Genel Müdür
 
-Genel Müdür EK: Genelge (2 sayfa)
+EK: Genelge (2 sayfa)
 
-### T.C SAGLIK BAKANLIGI T.C. SAGLIK BAKANLIĞI
+---
 
-Acil Sağlık Hizmetleri Genel Müdürlüğu ACİL SAĞLIK HİZMETLERİ GENEL
+### T.C. SAĞLIK BAKANLIĞI
+Acil Sağlık Hizmetleri Genel Müdürlüğü
 
-### MÜDÜRLÜGO - SATIN ALMA
+Sayı : 72026553/934.99/4830
+Konu : Yiyecek yardımı
 
-TC Sağlık Bakaniğı 12.07.2013 14:44 - 72026553/934.99/4830 Sayı : 72026553 2013 /13 Konu : Yiyecek yardımı
+12.07.2013
 
 ### GENELGE
+2013/13
 
-Bilindiği üzere, 657 sayılı Devlet Memurları Kanununun 212 nci maddesi uyarınca hazırlanarak 19/11/1986 tarihli ve 86/11220 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurları Yiyecek Yardımı Yönetmeliği'ne 25/07/2011 tarihli ve 2011/2083 sayılı Bakanlar Kurulu Kararının eki Devlet Memurları Yiyecek Yardımı Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik ile eklenen Ek 2 inci maddesinde;
+Bilindiği üzere, 657 sayılı Devlet Memurları Kanununun 212 nci maddesi uyarınca hazırlanarak 19/11/1986 tarihli ve 86/11220 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurları Yiyecek Yardımı Yönetmeliği'ne 25/07/2011 tarihli ve 2011/2083 sayılı Bakanlar Kurulu Kararının eki Devlet Memurları Yiyecek Yardımı Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik ile eklenen Ek 2 nci maddesinde;
 
-Bu Yönetmeliğe göre yiyecek yardımından yararlanacak personelden Sağlık Bakanlığı 112 acil sağlık hizmetlerinde görev yapan personel (sözleşmeli personel dähil), il sağlık müdürlüklerinin yemek servislerinden veya il sağlık müdürlüklerince belirlenen Sağlık Bakanlığına bağlı yataklı tedavi kurumlarının yemek servislerinden ücret ödemeden yararlanır. Bu personelden hizmetin kesintisiz olması nedeniyle görev yerinden ayrılamayacak durumda bulunanlar kumanya verilmek suretiyle bu yardımdan yararlandırılabilir. Bu maddenin uygulanmasına ilişkin usul ve esaslar Sağlık Bakanlığınca belirlenir." hükmüne yer verilmiştir.
+"Bu Yönetmeliğe göre yiyecek yardımından yararlanacak personelden Sağlık Bakanlığı 112 acil sağlık hizmetlerinde görev yapan personel (sözleşmeli personel dâhil), il sağlık müdürlüklerinin yemek servislerinden veya il sağlık müdürlüklerince belirlenen Sağlık Bakanlığına bağlı yataklı tedavi kurumlarının yemek servislerinden ücret ödemeden yararlanır. Bu personelden hizmetin kesintisiz olması nedeniyle görev yerinden ayrılamayacak durumda bulunanlar kumanya verilmek suretiyle bu yardımdan yararlandırılabilir. Bu maddenin uygulanmasına ilişkin usul ve esaslar Sağlık Bakanlığınca belirlenir." hükmüne yer verilmiştir.
 
-Diğer taraftan 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevler Hakkında Kanun Hükmünde Kararnamenin "Atıflar, Değiştirilen ve Yürürlükten Kaldırılan Hükümler" başlıklı 58'inci maddesinin on beşinci fikrası ile mevzuatta Sağlık Bakanlığına yapılan atıfların, bu Kanun Hükmünde Kararname ile yeniden yapılandırılan Sağlık Bakanlığı veya görev ve faaliyet alanlarına göre ilgili bağlı kuruluşlarına yapılmış sayılacağı hüküm altına ahımıştır.
+Diğer taraftan 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin "Atıflar, Değiştirilen ve Yürürlükten Kaldırılan Hükümler" başlıklı 58'inci maddesinin on beşinci fıkrası ile mevzuatta Sağlık Bakanlığına yapılan atıfların, bu Kanun Hükmünde Kararname ile yeniden yapılandırılan Sağlık Bakanlığı veya görev ve faaliyet alanlarına göre ilgili bağlı kuruluşlarına yapılmış sayılacağı hüküm altına alınmıştır.
 
-Yönetmeliğin Ek 2'nci maddesinin uygulanmasına ilişkin mülga Temel Sağlık Hizmetleri Genel Müdürlüğü'nce belirlenen usul ve esaslar 19.10.2011 tarihli ve 32421 sayılı yazı ile 81 11 Valiliğine duyurulmuştur. Ancak, Bakanlığımızın yeniden yapılandırılması kapsamında 112 Acil Sağlık Hizmetlerinde görev alan personelin yiyecek yardımının teminine yönelik daha önce mülga Genel Müdürlükçe belirlenen usul ve esasların yeniden düzenlenmesine ihtiyaç duyulmuştur.
+Yönetmeliğin Ek 2'nci maddesinin uygulanmasına ilişkin mülga Temel Sağlık Hizmetleri Genel Müdürlüğü'nce belirlenen usul ve esaslar 19.10.2011 tarihli ve 32421 sayılı yazı ile 81 İl Valiliğine duyurulmuştur. Ancak, Bakanlığımızın yeniden yapılandırılması kapsamında 112 Acil Sağlık Hizmetlerinde görev alan personelin yiyecek yardımının teminine yönelik daha önce mülga Genel Müdürlükçe belirlenen usul ve esasların yeniden düzenlenmesine ihtiyaç duyulmuştur.
 
 Buna göre;
 
-1. 112 acil sağlık hizmetleri sağlık komuta kontrol merkezi ve istasyonlarında çalışan tüm
+1. 112 acil sağlık hizmetleri sağlık komuta kontrol merkezi ve istasyonlarında çalışan tüm personele (idari ve teknik personel ile sözleşmeli personel dahil), çalışma süresine paralel olarak öğle ve akşam yemeği ile gece kahvaltısından oluşan 3 öğün olacak şekilde yiyecek yardımı yapılacaktır.
 
-personele (idari ve teknik personel ile sözleşmeli personel dahil), çalışma süresine paralel olarak
+2. Bakanlığımıza bağlı kurumlara ait yataklı tedavi kurumlarının bünyesinde görev yapan B1 ve B2 tipi istasyonların personeli, bulunduğu kurumun yemek ve kahvaltı servislerinden ücretsiz yararlandırılacaktır. Yemek ve kahvaltı saatlerinde görevde olan personel için yiyecek ihtiyaçları görev dönüşü karşılanacak şekilde tedbir alınacaktır.
 
-öğle ve akşam yemeği ile gece kahvaltısından oluşan 3 öğün olacak şekilde yiyecek yardımı
+3. Entegre İlçe Devlet Hastanesi olmayan B2 Tipi istasyonların yemek yardımı Halk Sağlığı Müdürlüğü tarafından karşılanacaktır.
 
-yapılacaktır.
+4. A1, A2, B1, B2 ve C Tipi İstasyon personelinin vakada olduğu durumlar ile görev mahalli dışına yapılacak uzun süreli görevlendirmelerde veya benzeri hallerde bağlı bulunduğu kurum tarafından personele kumanya ve/veya gideceği yerde yemek verilmesi yönünde gerekli tedbirler alınacaktır. Gerektiğinde üç öğün bir seferde dağıtılabileceği gibi görev süresi dikkate alınarak yeterli miktarda kumanya dağıtılabilecektir.
 
-9. Rakanlığımıza bağhı kurumlara ait yataklı tedavi kurumlarının bünyesinde görev yapan B1 ve B2
+5. 112 İstasyonlarının yemek ve kahvaltı saatlerine denk gelen vaka teslimlerinde ise; teslimin gerçekleştiği Bakanlığımıza bağlı kurumlara ait yataklı tedavi kurumunun bu hizmetlerinden ilgili personel öncelikli ve ücretsiz yararlanacaktır.
 
-tipi istasyonların personeli, bulunduğu kurumun yemek ve kahvaltı servislerinden ücretsiz
+6. Merkeze uzakta yer alan istasyonlar için alt yükleniciler tarafından yemek servisi sağlanabileceği yönünde düzenleme yapılabilecektir. Hiçbir şekilde yemek servisinin sağlanamadığı durumlarda uygun şartlar oluşturularak yemek yardımı (ihtiyaç duyulan teçhizat temin edilerek) nevale olarak da karşılanabilecektir.
 
-yararlandırılacaktır. Yemek ve kahvaltı saatlerinde görevde olan personel için yiyecek ihtiyaçları
+7. Görevlendirme suretiyle 112 İl Ambulans Servisi emrinde çalışmakta olan (belediye ve diğer kamu kurumları dâhil) personel de bu genelge hükümlerine göre yemek yardımından yararlandırılacaktır.
 
-görev dönüşü karşılanacak şekılde tedbir alınacaktır.
-
-3. Entegre Ilçe Devlet Hastaneşi olmayan B2 Tipi istasyonların yemek yardımı Halk Sağhığı
-
-Müdürlüğü tarafindan karşılanacaktır.
-
-4. A1,A2,B1,B2 ve C Tipi Istasyon personelinin vakada olduğu durumlar ile görev mahalli dışına
-
-yapılacak uzun süreli görevlendirmelerde veya benzeri hallerde bağlı bulunduğu kurum
-
-tarafindan personele kumanya ve/veya gideceği yerde yemek verilmesi yönünde gerekli tedbirler
-
-alacaktır. Gerektiğinde üç öğün bir seferde dağıtılabileceği gibi görev süresi dikkate alınarak
-
-yeterli miktarda kumanya dağıtılabilecektir.
-
-### T.C. T.C. SAĞLIK BAKANLIĞI SAĞLIK BAKANLIĞI ACİL SAĞLIK HİZMETLERİ GENEL
-
-Acil Sağlık Hizmetleri Genel Müdürluğü MÜDÜRLÜGO - SATIN ALNA
-
-12.07.2013 14:44 - 72026553/934.99/4830 TC Sağlık Bakanlığı
-
-01635962 Sayı : 72026553 Konu : Yiyecek yardımı
-
-5. 112 Istasyonlarının yemek ve kahvalu saatlerine denk gelen vaka teslimlerinde ise; teslimin
-
-gerçekleştiği Bakanlığımıza bağlı kurumlara ait yatakh tedavi kurumunun bu hizmetlerinden
-
-ilgili personel öncelikli ve ücretsiz yararlanacaktır.
-
-6. Merkeze uzakta yer alan istasyonlar için alt yükleniciler tarafindan yemek servisi sağlanabileceği
-
-yönünde düzenleme yapılabilecektir. Hiçbir şekilde yemek servisinin sağlanamadığı durumlarda
-
-uygun şartlar oluşturularak yemek yardımı (ihtiyaç duyulan teçhizat temin edilerek) nevale
-
-olarak da karşılanabili..
-
-7. Görevlendirme suretiyle 112 Il Ambulans Servisi emrinde çalışmakta olan (belediye ve diğer
-
-kamu kurumları dâhil) personel de bu genelge hükümlerine göre yemek yardımından
-
-yararlandırılacaktır.
-
-8. Söz konusu harcamalar için yapılacak ödemeler öncelikli olarak genel bütçeden, genel bütçe
-
-ödeneğinin yetersiz kalması durumunda ise döner sermaye bütçesinden karşılanabilecektir.
+8. Söz konusu harcamalar için yapılacak ödemeler öncelikli olarak genel bütçeden, genel bütçe ödeneğinin yetersiz kalması durumunda ise döner sermaye bütçesinden karşılanabilecektir.
 
 Bu itibarla, mülga Temel Sağlık Hizmetleri Genel Müdürlüğü'nün 19 Ekim 2011 tarihli ve 32421 sayılı yazısı yürürlükten kaldırılmış olup, Bakanlık merkez ve taşra teşkilatı ile bağlı kuruluşların birim amirlerinin konuya azami titizlik göstermeleri, maiyetlerindeki sorumlu personellerin bilgilendirilmeleri ve 112 acil sağlık hizmetlerinde çalışan personelin yiyecek ihtiyaçlarının bu çerçevede aksatılmadan karşılanması hususunda gerekli hassasiyetin gösterilmesini önemle rica ederim.
 
-suP
-
-Crof. Dr. Nihat TOSUN
-
+Prof. Dr. Nihat TOSUN
 Bakan a.
-
 Müsteşar
 
-### DAGITIM :
-
-B Planı 81 Il Valiliğine
+### DAĞITIM:
+B Planı
+81 İl Valiliğine

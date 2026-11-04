@@ -89,6 +89,8 @@ def belgeleri_oku():
 
 def baslik_anahtari(b):
     s = re.sub(r"^\s*(\d+\.)+\d*\s*", "", b.get("baslik", ""))
+    if b.get("tur") == "genelge" and re.fullmatch(r"\d{4}/\d+", b.get("sayi", "")):
+        return ("genelge", "no:" + b["sayi"])
     s = re.sub(r"\(\s*\d{4}\s*/\s*\d+\s*\)", "", s)
     return (b.get("tur"), sade(s))
 
@@ -98,7 +100,7 @@ def oncelik(b):
     puan = 0
     if b["id"].startswith("dx-"):
         puan += 40
-    if not b.get("ocr"):
+    if not b.get("ocr") or b.get("duzeltildi"):
         puan += 20
     if b["id"].startswith("sbg-"):
         puan += 5
@@ -114,6 +116,7 @@ def tekillestir(liste):
         grup.sort(key=oncelik, reverse=True)
         ana = grup[0]
         for diger in grup[1:]:
+            ana.setdefault("eski_kimlikler", []).append((diger["tur"], diger["id"]))
             for alan in ("tarih", "sayi", "rg_tarih", "rg_sayi", "birim", "konu", "etiketler", "kaynak_url"):
                 if diger.get(alan) and not ana.get(alan):
                     ana[alan] = diger[alan]
@@ -557,6 +560,14 @@ def main():
         klasor = CIKTI / "mevzuat" / b["tur"]
         klasor.mkdir(parents=True, exist_ok=True)
         (klasor / f"{b['id']}.html").write_text(belge_sayfasi(b), encoding="utf-8")
+        for eski_tur, eski_id in b.get("eski_kimlikler", []):
+            # Birleştirilen kopyaların adresleri çalışmaya devam etsin
+            hedef_klasor = CIKTI / "mevzuat" / eski_tur
+            hedef_klasor.mkdir(parents=True, exist_ok=True)
+            yeni = f"../{b['tur']}/{b['id']}.html"
+            (hedef_klasor / f"{eski_id}.html").write_text(
+                f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={yeni}">'
+                f'<link rel="canonical" href="{yeni}"><a href="{yeni}">{e(b["baslik"])}</a>', encoding="utf-8")
         if b["tam_metin"] and not a.hizli:
             for ad, uretici in (("docx", word_uret), ("pdf", pdf_uret)):
                 try:

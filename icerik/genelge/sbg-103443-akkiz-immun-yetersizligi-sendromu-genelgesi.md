@@ -1,104 +1,113 @@
 ---
 id: "sbg-103443-akkiz-immun-yetersizligi-sendromu-genelgesi"
-baslik: "Akkız İmmun Yetersizliği Sendromu Genelgesi"
+baslik: "Akkiz İmmun Yetersizliği Sendromu Genelgesi"
 tur: "genelge"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+tarih: "1983-08-16"
+sayi: "5590-5687"
+birim: "Tedavi Hizmetleri Genel Müdürlüğü"
+konu: "Akkiz İmmun Yetersizlik Sendromu (AIDS) hakkında alınacak koruyucu önlemler ve donör seçimi kurallarını düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103443/akkiz-immun-yetersizligi-sendromu-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.25. Akkız İmmun Yetersizliği Sendromu Genelgesi
+### T.C.
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
+Tedavi Hizmetleri Genel Müdürlüğü
 
-### SAGLIK VE SOSYAL YARDIM BAKANLIGI
+Sayı : Th. II-Şb.Md. 5590-5687
+Konu : Acquired Immune Deficiency Syndrome (Akkiz İmmun Yetersizlik Sendromu)
 
-Tedavi Hizmetleri Genel EL: /
+ANKARA, 16 Ağustos 1983
 
-Müdürlüğü Th. II-Sb.Ma.5590-5687 ANKARA Konu: Acquired Immune 16 Agustos 1983
+VALİLİĞİNE
 
-Deficiency Syndrome
+Memleketimizde AIDS olguları saptanmamıştır. AIDS'in görüldüğü Amerika Birleşik Devletleri ve Avrupa Ülkeleri ile sıkı ilişkilerimiz olması nedeniyle uyanık bulunmamız gerekir.
 
-(Akkia İmmun Yetersizlik
+AIDS yeni tarif edilmiş bir sendrom olup etkeni henüz saptanmamıştır. Muhtemel etken bir virüs olarak düşünülmektedir. Çok yakın temas (cinsel) ve kan ve kan ürünleri kullanımı ile geçmektedir (Hepatit B benzeri).
 
-Sendromu)
+Bu hastalık kişinin hücresel direncini kırmaktadır. Burada bilhassa T lenfosit subpopülasyonları etkilenmektedir. Bunun sonucunda da hastalarda non-spesifik bulgular yanında halsizlik, sebepsiz kilo kaybı, ateş, yaygın lenfadenomegali, uzun süreli ishal, öksürük, menenjit, pnömoni, ensefalit, oral ve intestinal kandidiyazis, herpes zoster v.b. gibi ağır enfeksiyonlar oluşmakta veya Kaposi sarkomu, lenfoma v.b. gibi malign oluşumlar meydana çıkmaktadır. Prognoz kötü olup yeterli bir tedavisi yoktur. Tartışmalı olmakla beraber kortikosteroidlerin kullanılması denenmektedir. Kesin tanı için (etkene yönelik) elimizde herhangi bir laboratuvar testi yoktur. Hücresel direncin laboratuvar testleri ile tamamiyle bozulduğu saptanır. Kuluçka süresi uzun olup 6 ay ile 3 yıl arasında değişmektedir. Portörlüğü saptayacak bir laboratuvar testi de yoktur. Asya memleketlerinde ve Çin'de bugüne kadar rastlanmamıştır. Genetik dispozisyon da düşünülmektedir.
 
-### ..VALILIĞINE
+Hastalık nedeni kesinleşmediği için korunmada gerekli etkin tedbirler bugün için kesinlikle bilinmemektedir. Bununla beraber kan ve kan ürünleri ile de geçmesi nedeni ile aşağıdaki önlemler önerilmektedir:
 
-/ Memleketimizde AIDS olguları saptanmamıştır. AIDS'in görüldüğü Amerika Birleşik Devletleri ve Avrupa Ulkeleri ile sıkı ilişkilerimiz olması nedeniyle uyanık bulunmamiz gerekir.
+1- Kan ve kan ürünlerinin sağlanmasında milli imkânların gerektirdiği üst düzeye erişilmeli, milli yeterlilik sağlanmalıdır.
 
-AIDS yeni tarif edilmiş bir sendrom olup etkeni henüz saptanmamıętır. Muhtemel etken bir virus olarak düşünülmektedir. Çok yakın temas (cinsel) ve kan ve kan ürünleri-kullanımı ile geçmektedir (Hepatit B benzeri).
+a) Bu suretle dış ülkelerden kan ve bilhassa kan ürünlerinin Faktör VIII, antihemofilik globulin, fibrinojen, çeşitli immünoglobulinler (Kızamık, Kızamıkçık, Kabakulak, Suçiçeği, Tetanos, Hepatit B v.b.) ithallerinde azami titizlik gösterilmelidir.
 
-Bu hastalık kişinin hücresel direncini kırmaktadır. Burada bilhassa T lenfosit subpopulasyonları etkilennektedir. Bunun sonucunda da hastalarda nonspesifik bulgular yanında halsizlik, sebepsiz kilo kaybı, ateş, yaygın lenfadenomegali, uzun süreli ishal, öksürük, menenjit, prömoni, ansefalit, oral ve intestinal kandidiazis, herpes zoster v.b. gibi ağır enfeksiyonlar oluşmakta veya kaposi sarkomu, lenfoma v.b. gibi malign oluşumlar meydana çıkmaktadır. Prognoz kötü olup yeterli bir tedavisi yoktur. Tartışmalı olmakla beraber kortikosteroidlerin kullanılması denenmektedir. Kesin tani için (etkene yönelik) elimizde herhangi bir laboratuvar testi yoktur. Hücresel direncin laboratuvar testleri ile tamamiyle bozulduğu saptanır. Kuluçka süresi uzun olup 6 ay ile- 3 yıl arasında değişmektedir. Portörlüğü saptayacak bir laboratuvar testi de yoktur. Aya memleketlerinde ve Çin'de bugüne kadar rastlanmamıştır. Genelik dispozisyon da düşünülmektedir.
+b) AIDS olgularının çok görüldüğü Avrupa Devletleri ve Amerika Birleşik Devletlerinden yapılacak ithalatta Milli Kan Bankaları veya Milli Kan Merkezlerinden temin yoluna gidilmelidir.
 
-### (.%..)
+c) Alınacak kan ürünlerinde plazma orijininin etikette yazılmış olmasına dikkat edilmelidir. İmal eden ülke plazmayı ithal yoluyla temin etmişse bu ürünler alınmamalıdır.
 
--2
+2- Donör seçiminde azami dikkat gösterilmelidir.
 
-Hastalık nedeni kesinleşmediği için korunmada gerekli etkin tedbirler bu gün için kesinlikle bilinmemektedir. Bununla beraber kan ve kan ürünleri ile de geçmesi nedeni ile aşağidaki önlemler önerilmektedir.
+a) Kan transfüzyonu ve kan ürünleri imali için seçilecek donörlerde AIDS'e karşı korunmada (diğer donör olma şartları yanında):
 
-1-Ken ve kan ürünlerinin sağlanmasında milli imkânların gerektirdiği üst düzeye erişilmeli, milli yeterlilik sağlammalığar.
+I- Gönüllü donörden kan alınması esas olmalıdır. Bu mümkün olmadığı hallerde paralı alıma gidilmelidir.
 
-a)Bu suretle dıg Ilkelerden kan ve bilhassa kan ürünlerinin vaktör VIII, antihemofilik globulin, fibrinojen, çoşitli immanoglobulinler (Kizamık, Kazamikçik, Kabakulak, Su çiveği, Tetanos, Hepatit 8 v.b.) ithallerinde azami titizlik gösterilmelidir.
+II- Paralı alınmış kanlardan tercihen kan ürünleri imali cihetine gidilmemelidir.
 
-b)AIDS olgularinın çok görülduğu Avrupa Devletleri ve Amerike Birleşik Devletlerinden yapılacak ithalatta Milli Kan Bankaları veya Milli Kan Merkezlerinden temin yoluna gidilmelidir.
+b) AIDS konusunda donörlerde dikkat edilmesi gereken hususlar: Eğer bir donörde;
 
-c)Alınacak kan ürünlerinde plazma orijininin etikette yazılmiş olmaeina dikkat edilmelidir. İmal eden ülke plazmayı ithal yoluyla temin etmişse bu ürünler alınmamalıdır.
+I- İleri derecede gece terlemesi,
 
-2-Donör seçiminde azami dikkat gösterilmelidir.
+II- Sebebi bilinmeyen ateş,
 
-a)Kan transfüzyonu ve kan ürünleri imâli için seçilecek donörlerde AIDS'e karşı korunmada (diğer donör olma gartiarı yanında):
+III- Sebepsiz kilo kaybı,
 
-I-Gönüllü donörden kan alınnası esas olmalıdır. Bu mümkün olmadığı hallerde parali alima gidilmelidir.
+IV- Halsizlik,
 
-II-Paralı alınnış kanlardan tercihen kan ürünleri imali cihetine gidilmemelidir.
+V- Jeneralize lenfadenomegali (1 aydan fazla süreli),
 
-b)AIDS konusunda donörlerde dikkat edilmesi gereken hususlar: Eğer bir donörde;
+VI- Uzun süreli ishal (1 haftayı aşkın süredir),
 
-I-'leri derecede gece terlemesi,
+VII- Uzun süreli öksürük (2 haftadan ziyade),
 
-II-Sebebi bilinmeyen ateş, III-Sebebsiz kilò kaybı,
+gibi bulgular mevcut ise AIDS için şüpheli kabul edilerek, bu kişilerden kan alınmamalıdır.
 
-IV-Haleizlik,
+c) İlaç alışkanlığı olanlardan (zerk yolu ile ilaç kullananlar) kan alınmamalıdır.
 
-V-Jeneralize Lenfoaderomegali (1 aydan fazla süreli),
+d) Genelevlerde, bar ve pavyonlarda çalışanlardan kan alınmamalıdır.
 
-( .%..)
+e) Avrupa, Afrika ve Arap memleketlerinde uzun süre kalmış işçilerimizden, yurda dönüşlerinden en az 3 yıl geçmeden kan alınmamalıdır.
 
-VI-Uzun süreli ishal (1 haftayı aşkın süredir),
+f) Plazma ve plazma ürünleri imal eden müesseseler bu konuda da sık sık ve etkin bir şekilde teknik ve idari denetime tabi tutulmalıdır.
 
-VII-Uzun süreli öksürük (2 haftadan ziyade), gibi bulgular mevcut ise AIDS için şüpheli kabul edilerek, bu kişilerden kan alınmamalıdır.
+3- Kan ve kan ürünlerinin kullanılmalarında endikasyonda azami titizlik gösterilmelidir.
 
-c)İlâç alışkanlığı olanlardan (Zerk yolu ile ılâç kullananlar) kan alınnamalıdır.
+a) Bu amaçla kan transfüzyonu endikasyonları konusunda eğitime önem verilmelidir.
 
-d)enelevlerde, Bar ve Pavyonlarda çaliganlardan kan alinmamalidir.
+I- Bu şekilde kan israfı önlenecektir.
 
-e)Avrupa, «friks ve Arap Memleketlerinde uzun süre kalmią işçilerimizden, yurda dönüşlerinden en az 3 yıl geçmeden kan alınmamalidır.
+II- Memleketimiz şartlarında pek çok hastalığın (sıtma, sifilis, sitomegalovirüs enfeksiyonu ve hepatit B v.b.) bulaşması azalacaktır.
 
-)Plazma ve plazma ürünleri imâl eden müesseseler bu konuda da sık sık ve etkin bir şekilde teknik ve idari denetime tabi tutulmalıdır.
+III- AIDS'in bulaşma olasılığı azalacaktır.
 
-3-Kan ve kan ürünlerinin kullanılmalarında endikasyonda azami titizlik gösterilnelidir.
+4- Kan transfüzyonu ve bu meyanda bilhassa AIDS konusunda da doktorlarımızın uyarılması yerinde olacaktır.
 
-a)Bu amaçla kan transfüzyonu indikasyonları konusunda eğitime önem verilmelidir.
+5- Gazete ve mecmualarda konu ile ilgili açıklayıcı yayınlar yapılmaktadır. Bu yayınların ayrıca konuya dikkat çekici niteliği nedeniyle yararlı olabileceği düşünülmektedir.
 
-I-Bu şekilde kan israfı önlenecektir.
+6- AIDS şüpheli olgular detaylı olarak derhal Sağlık ve Sosyal Yardım Bakanlığına bildirilmelidir.
 
-II-Memleketimiz şartlarında pekçok hastalığın (gıtma, sifilis, sitomegalovirus enfeksiyonu ve hepatit B, v.b.), bulaşması azalacaktır.
+Bilgilerinizi ve ilgililere duyurulması için gereğini rica ederim.
 
-III-AIDS'in bulaşme olasilığı azalacaktir.
+Prof. Dr. Kaya KILIÇTURGAY
+Bakan
 
-4-Kan transfüzyonu ve bu meyanda bilhassa AIDS konusunda da doktorlaramazın uyarılması yerinde olacaktır.
+### DAĞITIM:
 
-5-Gazete ve mecmualarda konu ile ilgili açıklayıcı yayınlar yapılmaktadır. Eu yayınların ayrıca konuya dikkat çekici niteliği nedeniyle yararlı olabileceği digünülmoktedir.
+Gereği için:
+1- Valilikler
+2- Üniversite Tıp Fakülteleri Dekanlıkları
+3- Gülhane Askeri Tıp Akademisi Komutanlığı
+4- Yataklı Tedavi Kurumları Kan Merkezleri
+5- Sosyal Sigortalar Kurumu Kan Merkezleri
+6- Kızılay Kan Merkezleri
 
-6-AIDS güpheli olgular detaylı olarak derhal Sağlık ve Sosyal Yardım Bakanlığina bildirilmelidir.
-
-Bilgilerinizi ve ilgililere dusurulmasi için gereğini rica ederim.
-
-I/USlungay
-
-Prof. Dr. Kaya KILICTURGAY
-
-### BAKAN DAĞITIM:
-
-Gercgi için: Bilgi için: 1-Valilikler 1-Bagbakanlik 2-Iniversite Tip fakülteleri 2-Bakanlıklar Dekanlikları 3*Sosyal Sigortalar Kurumu Genel Müdürlüğü 3"Oülhane Askeri Tip Akademisi 4-Kizılay Genel Merkezi Komutanlığı 5-Merkez Daireler ve Şubeler 4-Yataklı Tedavi Kurumları Kan Werkezleri 5-Posjal Sigortalor Kurumu Kan Merkezleri 6-Kızılay Kan Merkezleri
+Bilgi için:
+1- Başbakanlık
+2- Bakanlıklar
+3- Sosyal Sigortalar Kurumu Genel Müdürlüğü
+4- Kızılay Genel Merkezi
+5- Merkez Daireler ve Şubeler
