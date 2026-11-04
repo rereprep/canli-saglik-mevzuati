@@ -3,19 +3,48 @@ id: "sb-konaklama-tesisleri-bunyesinde-sunulacak-saglik-hizmetleri-genelgesi-201
 baslik: "Konaklama Tesisleri Bünyesinde Sunulacak Sağlık Hizmetleri Genelgesi (2013/18)"
 tur: "genelge"
 sayi: "2013/18"
+tarih: "2013-09-26"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Otel ve konaklama tesisleri bünyesinde açılacak sağlık ünitelerinin taşıması gereken şartları ve çalışma esaslarını düzenler."
-etiketler: ["konaklama tesisi", "sağlık ünitesi", "turizm sağlığı"]
+konu: "Konaklama tesisleri bünyesinde açılacak sağlık ünitelerinin kuruluş, başvuru, personel ve işleyiş şartlarını düzenler."
+etiketler: ["özel sağlık kuruluşları", "konaklama tesisleri", "sağlık ünitesi", "turizm"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 263-267"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.3.48. Konaklama Tesisleri Bünyesinde Sunulacak Sağlık Hizmetleri Genelgesi (2013/18)
 
-### T.C. SAGLIK BAKANLIGI
+### T.C. SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
-TC Sağlik Bekaneg Sağlık Hizmetleri Genel Müdürlüğü
+Sayı : 54567092/010.06/ 32724
+Tarih: 26.09.2013
+Konu : Konaklama Tesisleri Bünyesinde Sunulacak Sağlık Hizmetleri
+
+..................... VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
+
+GENELGE
+2013/18
+
+Özel Hastaneler Yönetmeliğinin Ek 10 uncu maddesi ile Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin Ek 2 nci maddesi ve Diyaliz Merkezleri Hakkında Yönetmeliğin Ek 1 inci maddesinde "Konaklama tesislerinde sunulacak sağlık hizmetleri" ile ilgili düzenleme yapılmıştır.
+Kültür ve Turizm Bakanlığından belgeli konaklama tesislerinde sunulacak sağlık hizmetleri, sağlık ünitelerinin ve birimlerin kuruluş ve işleyişine dair aşağıdaki açıklamaların yapılmasında fayda görülmüştür.
+
+A. Bu Genelgede geçen;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Konaklama tesisi: Kültür ve Turizm Bakanlığından işletme veya yatırım belgesi almış tesisleri,
+c) Müdürlük: İl Sağlık Müdürlüğünü,
+d) Özel sağlık kuruluşu: Sağlık hizmeti sunmak üzere Sağlık Bakanlığınca veya müdürlükçe ruhsatlandırılmış özel sağlık kuruluşlarını,
+e) Sağlık ünitesi: Konaklama tesisinde konaklayan kişilerin ani gelişen sağlık problemlerinde ve acil durumlarda müdahale, muayene ve sevk işlemlerinin düzenlenmesi amacıyla konaklama tesislerinde kurulan birimleri,
+f) Turizm yatırım belgesi: Konaklama tesisi açmak için ilk müracaatta Kültür ve Turizm Bakanlığınca yatırımcıya verilen belgeyi,
+g) Turizm işletme belgesi: Konaklama tesisi işletmek için Kültür ve Turizm Bakanlığınca yatırımcıya verilen belgeyi,
+h) Yönetmelik: Özel Hastaneler Yönetmeliği ile Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliği ve Diyaliz Merkezleri Hakkında Yönetmeliği,
+ifade eder.
+
+B. Konaklama tesisinde açılacak sağlık üniteleri başvuruları ve işleyişi
+1) Sağlık ünitesi işletecekler; konaklama tesisinin bulunduğu ilde faaliyet gösteren herhangi bir özel sağlık kuruluşuna bağlı olarak, bu özel sağlık kuruluşunun kadro ve kapasitesini kullanarak başvuru yapabilir. Bir özel sağlık kuruluşu, en fazla kadrolu hekim sayısı kadar konaklama tesisinde sağlık ünitesi açabilir.
+2) Bir özel sağlık kuruluşuna bağlı olarak işletilecek sağlık ünitelerinin tüm faaliyetlerinden bağlı olduğu sağlık kuruluşu sorumludur.
 
 3) Bağımsız olarak açılmak istenen sağlık üniteleri planlama kapsamında ve hekim sorumluluğunda kurulup işletilebilir.
 
@@ -23,7 +52,7 @@ TC Sağlik Bekaneg Sağlık Hizmetleri Genel Müdürlüğü
 
 5) Planlama kapsamında bağımsız olarak açılacak sağlık ünitelerinde ise Müdürlükçe hekim adına sağlık ünitesi uygunluk belgesi ve sorumlu hekim çalışma izin belgesi düzenlenir.
 
-6) Başvuru evrakları ve yapılacak işlemler: aynı il sınırları içinde bir özel sağlık kuruluşuna bağhı olarak konaklama tesisinde açılacak sağlık ünitesi başvurulanı, özel sağlık kuruluşunun mesul müdürü tarafindan Müdürlüğe yapılır. Müdürlük başvuruyu değerlendirir, sağlık ünitesini yerinde inceler ve başvuruyu sonuçlandırır.
+6) Başvuru evrakları ve yapılacak işlemler: aynı il sınırları içinde bir özel sağlık kuruluşuna bağlı olarak konaklama tesisinde açılacak sağlık ünitesi başvuruları, özel sağlık kuruluşunun mesul müdürü tarafından Müdürlüğe yapılır. Müdürlük başvuruyu değerlendirir, sağlık ünitesini yerinde inceler ve başvuruyu sonuçlandırır.
 
 Başvuru dilekçesine eklenecek evraklar şunlardır:
 
@@ -43,7 +72,7 @@ e) Sağlık ünitesinde tam zamanlı çalışacak en az bir sağlık personelini
 
 8) Sağlık üniteleri; ilaç, malzeme, tıbbi donanım ve yapılacak tıbbi işlemler açısından muayenehaneler için belirlenen asgari özellikleri taşır. Sağlık ünitesi, Ayakta Teşhis ve Tedavi Yapılan Ozel Sağlık Kuruluşları Hakkında Yönetmelikte, muayenehaneler için öngörülen muayene odası şartları sağlar. Sağlık ünitelerinde sadece muayenehanelerde yapılan işlemler yapılabilir.
 
-9) Sağhk üniteleri, işleyiş ve denetleme açısından bağhı olduğu sağlık kuruluşlarının sorumluluğundadırlar.
+9) Sağlık üniteleri, işleyiş ve denetleme açısından bağlı olduğu sağlık kuruluşlarının sorumluluğundadırlar.
 
 Konaklama tesisinde açılacak sağlık birimleri başvuru ve işleyişi
 
@@ -123,4 +152,5 @@ Müsteşar
 
 ### EKLER
 
-EK 1 - Sağhk Ünitelerinde Aranacak Şartlar, EK 2 - Tespit Formu, EK 3 - Personel Çalişma Belgesi, EK 4 - Uygunluk belgesi, EK 5 - Denetim Formu. Dağitım: 81 Il Valiligi
+EK 1 - Sağlık Ünitelerinde Aranacak Şartlar, EK 2 - Tespit Formu, EK 3 - Personel Çalışma Belgesi, EK 4 - Uygunluk belgesi, EK 5 - Denetim Formu. DAĞITIM:
+81 İl Valiliğine

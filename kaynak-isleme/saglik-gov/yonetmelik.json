@@ -5,7 +5,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-115968/organ-nakli-hizmetleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "115968.html"
+  "dosya": "115968.html",
+  "ekler": [
+   {
+    "dosya": "115968-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.39872.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "115968-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.39872.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "103225",
@@ -13,7 +27,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-103225/kan-ve-kan-urunleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "103225.html"
+  "dosya": "103225.html",
+  "ekler": [
+   {
+    "dosya": "103225-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.12632.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "102336",
@@ -21,7 +43,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-102336/tibbi-laboratuvarlar-yonetmeligi.html",
   "tip": "html",
-  "dosya": "102336.html"
+  "dosya": "102336.html",
+  "ekler": []
  },
  {
   "trid": "102337",
@@ -29,7 +52,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-102337/genetik-hastaliklar-degerlendirme-merkezleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "102337.html"
+  "dosya": "102337.html",
+  "ekler": []
  },
  {
   "trid": "102338",
@@ -37,7 +61,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-102338/iyonlastirici-radyasyon-ve-radyonuklit-kullanilarak-sunulan-saglik-hizmetleri-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "102338.html"
+  "dosya": "102338.html",
+  "ekler": []
  },
  {
   "trid": "102339",
@@ -45,7 +70,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-102339/radyoloji-hizmetleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "102339.html"
+  "dosya": "102339.html",
+  "ekler": [
+   {
+    "dosya": "102339-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.39497.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "102339-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.39497.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "102340",
@@ -61,7 +100,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-102341/radyasyon-onkolojisi-hizmetleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "102341.html"
+  "dosya": "102341.html",
+  "ekler": []
  },
  {
   "trid": "102342",
@@ -69,7 +109,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-102342/enfeksiyoz-madde-ile-enfeksiyoz-tani-ve-klinik-ornegi-tasima-yonetmeligi.html",
   "tip": "html",
-  "dosya": "102342.html"
+  "dosya": "102342.html",
+  "ekler": [
+   {
+    "dosya": "102342-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.14314.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10414",
@@ -77,7 +125,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10414/uremeye-yardimci-tedavi-uyte-merkezleri-yonetmeligi-2005.html",
   "tip": "html",
-  "dosya": "10414.html"
+  "dosya": "10414.html",
+  "ekler": [
+   {
+    "dosya": "10414-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.20085.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10414-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.20085.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10415",
@@ -85,7 +147,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10415/kozmetik-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10415.html"
+  "dosya": "10415.html",
+  "ekler": [
+   {
+    "dosya": "10415-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.40405.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10415-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.40405.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10416",
@@ -101,7 +177,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10417/kalitsal-kan-hastaliklarindan-hemoglobinopati-kontrol-programi-ile-tani-ve-tedavi-merkezleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10417.html"
+  "dosya": "10417.html",
+  "ekler": [
+   {
+    "dosya": "10417-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.4936.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10418",
@@ -109,7 +193,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10418/saglik-bakanligi-trafik-hizmetleri-doner-sermaye-isletme-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10418.html"
+  "dosya": "10418.html",
+  "ekler": [
+   {
+    "dosya": "10418-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.4817.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10419",
@@ -117,7 +209,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10419/gemi-adamlarinin-egitim-belgelendirme-sinav-vardiya-tutma-kutuklenme-ve-donatim-esaslari-hakkinda-yonetmelik-ilgili-hukumler.html",
   "tip": "html",
-  "dosya": "10419.html"
+  "dosya": "10419.html",
+  "ekler": []
  },
  {
   "trid": "10420",
@@ -125,7 +218,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10420/basbakanlik-kriz-yonetim-merkezi-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10420.html"
+  "dosya": "10420.html",
+  "ekler": [
+   {
+    "dosya": "10420-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/158/0/ytkrizyonmerkyondoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10420-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/160/0/ytkrizyonmerkyonpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10421",
@@ -133,7 +240,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10421/mal-bildiriminde-bulunulmasi-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10421.html"
+  "dosya": "10421.html",
+  "ekler": [
+   {
+    "dosya": "10421-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.90748.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10421-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.90748.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10422",
@@ -141,7 +262,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10422/sabotajlara-karsi-koruma-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10422.html"
+  "dosya": "10422.html",
+  "ekler": [
+   {
+    "dosya": "10422-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.8813543.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10422-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.8813543.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10424",
@@ -149,7 +284,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10424/nufus-planlamasi-hizmetlerini-yurutme-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10424.html"
+  "dosya": "10424.html",
+  "ekler": [
+   {
+    "dosya": "10424-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.837083.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10424-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.837083.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10425",
@@ -157,7 +306,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10425/aday-memurlarin-yetistirilmesine-dair-genel-yonetmelik.html",
   "tip": "html",
-  "dosya": "10425.html"
+  "dosya": "10425.html",
+  "ekler": []
  },
  {
   "trid": "10428",
@@ -165,7 +315,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10428/dis-protez-laboratuarlari-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10428.html"
+  "dosya": "10428.html",
+  "ekler": [
+   {
+    "dosya": "10428-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.9650.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10428-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.9650.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10429",
@@ -173,7 +337,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10429/saglik-bakanligi-aday-memurlarinin-yetistirilmelerine-iliskin-yonetmelik.html",
   "tip": "html",
-  "dosya": "10429.html"
+  "dosya": "10429.html",
+  "ekler": []
  },
  {
   "trid": "10430",
@@ -181,7 +346,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10430/devlet-memurlarinin-tedavi-yardimi-ve-cenaze-giderleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10430.html"
+  "dosya": "10430.html",
+  "ekler": [
+   {
+    "dosya": "10430-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.76913.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10430-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.76913.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10431",
@@ -189,7 +368,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10431/hiperbarik-oksijen-tedavisi-uygulanan-ozel-saglik-kuruluslari-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10431.html"
+  "dosya": "10431.html",
+  "ekler": [
+   {
+    "dosya": "10431-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.4809.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10434",
@@ -197,7 +384,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10434/doner-sermayeli-kuruluslar-ihale-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10434.html"
+  "dosya": "10434.html",
+  "ekler": [
+   {
+    "dosya": "10434-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.848213.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10434-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.848213.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10435",
@@ -205,7 +406,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10435/nufus-planlamasi-hizmetlerini-yurutecek-personelin-egitimi-gorev-yetki-ve-sorumluluklari-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10435.html"
+  "dosya": "10435.html",
+  "ekler": [
+   {
+    "dosya": "10435-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.4933.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10436",
@@ -221,7 +430,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10437/halkin-saglik-egitimi-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10437.html"
+  "dosya": "10437.html",
+  "ekler": [
+   {
+    "dosya": "10437-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.9352.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10438",
@@ -229,7 +446,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10438/acil-saglik-hizmetleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10438.html"
+  "dosya": "10438.html",
+  "ekler": [
+   {
+    "dosya": "10438-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.4798.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10439",
@@ -237,7 +462,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10439/afetlere-iliskin-acil-yardim-teskilati-ve-planlama-esaslarina-dair-yonetmelik.html",
   "tip": "html",
-  "dosya": "10439.html"
+  "dosya": "10439.html",
+  "ekler": []
  },
  {
   "trid": "10440",
@@ -245,7 +471,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10440/ana-cocuk-sagligi-ve-aile-planlamasi-merkezleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10440.html"
+  "dosya": "10440.html",
+  "ekler": []
  },
  {
   "trid": "10441",
@@ -253,7 +480,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10441/saglik-bakanligi-personeli-gorevde-yukselme-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10441.html"
+  "dosya": "10441.html",
+  "ekler": []
  },
  {
   "trid": "10443",
@@ -261,7 +489,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10443/kaplicalar-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10443.html"
+  "dosya": "10443.html",
+  "ekler": [
+   {
+    "dosya": "10443-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.8056.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10444",
@@ -277,7 +513,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10445/kan-urunlerinin-ruhsatlandirilmasina-dair-yonetmelik.html",
   "tip": "html",
-  "dosya": "10445.html"
+  "dosya": "10445.html",
+  "ekler": []
  },
  {
   "trid": "10446",
@@ -285,7 +522,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10446/kanser-erken-teshis-ve-tarama-merkezleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10446.html"
+  "dosya": "10446.html",
+  "ekler": []
  },
  {
   "trid": "10447",
@@ -293,7 +531,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10447/ce-uygunluk-isaretinin-urune-ilistirilmesine-ve-kullanilmasina-dair-yonetmelik.html",
   "tip": "html",
-  "dosya": "10447.html"
+  "dosya": "10447.html",
+  "ekler": []
  },
  {
   "trid": "10450",
@@ -301,7 +540,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10450/iyi-laboratuvar-uygulamalari-prensipleri-ve-test-laboratuvarlarinin-belgelendirilmesine-dair-yonetmelik.html",
   "tip": "html",
-  "dosya": "10450.html"
+  "dosya": "10450.html",
+  "ekler": []
  },
  {
   "trid": "10451",
@@ -309,7 +549,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10451/olcu-ve-olcu-aletlerinin-metrolojik-kontrolleri-icin-genel-esaslara-dair-yonetmelik.html",
   "tip": "html",
-  "dosya": "10451.html"
+  "dosya": "10451.html",
+  "ekler": []
  },
  {
   "trid": "10452",
@@ -317,7 +558,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10452/uluslararasi-birimler-sistemine-dair-yonetmelik.html",
   "tip": "html",
-  "dosya": "10452.html"
+  "dosya": "10452.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6401&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10453",
@@ -325,7 +568,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10453/nufus-planlamasi-hizmetlerini-yurutecek-personelin-egitimi-gorev-yetki-ve-sorumluluklari-hakkinda-yonetmelikte-degisiklik-yapilmasina-dair-yonetmelik.html",
   "tip": "html",
-  "dosya": "10453.html"
+  "dosya": "10453.html",
+  "ekler": []
  },
  {
   "trid": "10454",
@@ -333,7 +577,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10454/akupunktur-tedavisi-uygulanan-ozel-saglik-kuruluslari-ile-bu-tedavinin-uygulanmasi-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10454.html"
+  "dosya": "10454.html",
+  "ekler": [
+   {
+    "dosya": "10454-ek1.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/171/0/ytakupunkturzip.zip",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10455",
@@ -341,7 +593,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10455/sozlesmeli-saglik-personeli-atama-ve-nakil-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10455.html"
+  "dosya": "10455.html",
+  "ekler": []
  },
  {
   "trid": "10456",
@@ -349,7 +602,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10456/beseri-tibbi-urunler-bilimsel-danismanlik-kurulu-ve-komisyonlarinin-kurulus-ve-gorevleri-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10456.html"
+  "dosya": "10456.html",
+  "ekler": []
  },
  {
   "trid": "10458",
@@ -357,7 +611,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10458/beseri-tibbi-urunlerin-tanitim-faaliyetleri-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10458.html"
+  "dosya": "10458.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20880&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10459",
@@ -373,7 +629,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10460/egitim-personelinin-nitelik-ve-secim-esaslari-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10460.html"
+  "dosya": "10460.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11110&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10461",
@@ -381,7 +639,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10461/hasta-haklari-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10461.html"
+  "dosya": "10461.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4847&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10464",
@@ -389,7 +649,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10464/tani-ve-tedavi-protokolleri-etik-kurulu-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10464.html"
+  "dosya": "10464.html",
+  "ekler": [
+   {
+    "dosya": "10464-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/176/0/tanitedavi20protokolleriyonetmeligipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10464-ek2.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/177/0/tanitedavi20protokolleriyonetmeligizip.zip",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10466",
@@ -397,7 +671,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10466/surucu-davranislarini-gelistirme-egitimi-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10466.html"
+  "dosya": "10466.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4804&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10467",
@@ -405,7 +681,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10467/optisyenlik-muesseseleri-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10467.html"
+  "dosya": "10467.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19311&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10468",
@@ -421,7 +699,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10469/dogal-mineralli-sular-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10469.html"
+  "dosya": "10469.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4821&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10470",
@@ -429,7 +709,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10470/odeme-gucu-olmayan-vatandaslarin-tedavi-giderlerinin-devlet-tarafindan-karsilanmasi-ve-yesil-kart-uygulamasi-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10470.html"
+  "dosya": "10470.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4846&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10471",
@@ -437,7 +719,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10471/dis-protez-teknisyenligi-meslek-belgesi-verilmesi-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10471.html"
+  "dosya": "10471.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7211&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10472",
@@ -453,7 +737,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10473/insani-tuketim-amacli-sular-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10473.html"
+  "dosya": "10473.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7510&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10474",
@@ -461,7 +747,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10474/evde-bakim-hizmetleri-sunumu-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10474.html"
+  "dosya": "10474.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7542&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10477",
@@ -469,7 +757,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10477/ambulanslar-ve-acil-saglik-araclari-ile-ambulans-hizmetleri-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10477.html"
+  "dosya": "10477.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41246&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10478",
@@ -485,7 +775,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10481/fizyoterapi-ve-bunlara-benzer-muesseseler-hakkinda-nizamname.html",
   "tip": "html",
-  "dosya": "10481.html"
+  "dosya": "10481.html",
+  "ekler": []
  },
  {
   "trid": "10482",
@@ -501,7 +792,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10483/ceza-muhakemesinde-beden-muayenesi-genetik-incelemeler-ve-fizik-kimligin-tespiti-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10483.html"
+  "dosya": "10483.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8202&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10488",
@@ -509,7 +802,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10488/bulasici-hastaliklar-surveyans-ve-kontrol-esaslari-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10488.html"
+  "dosya": "10488.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11347&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10489",
@@ -541,7 +836,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10493/sozlesmeli-saglik-personeli-disiplin-kurullari-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10493.html"
+  "dosya": "10493.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11111&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10494",
@@ -557,7 +854,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10495/mal-bildiriminde-bulunulmasi-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10495.html"
+  "dosya": "10495.html",
+  "resmi_url": "http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=3.5.90748&MevzuatIliski=0&sourceXmlSearch=mal%20bildiriminde",
+  "ekler": []
  },
  {
   "trid": "10498",
@@ -613,7 +912,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10504/saglik-bakanligi-trafik-hizmetleri-doner-sermaye-isletmesi-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10504.html"
+  "dosya": "10504.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4817&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10505",
@@ -621,7 +922,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10505/kaplicalar-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10505.html"
+  "dosya": "10505.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8056&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10506",
@@ -629,7 +932,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10506/aile-hekimligi-pilot-uygulamasi-hakkinda-yonetmelikte-degisiklik-yapilmasina-dair-yonetmelik.html",
   "tip": "html",
-  "dosya": "10506.html"
+  "dosya": "10506.html",
+  "ekler": []
  },
  {
   "trid": "10507",
@@ -637,7 +941,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10507/aile-hekimligi-pilot-uygulamasi-kapsaminda-saglik-bakanliginca-calistirilan-personele-yapilacak-odemeler-ve-sozlesme-sartlari-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10507.html"
+  "dosya": "10507.html",
+  "ekler": []
  },
  {
   "trid": "10508",
@@ -645,7 +950,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10508/aile-hekimligi-pilot-uygulamasi-hakkinda-yonetmelikte-degisiklik-yapilmasina-dair-yonetmelik.html",
   "tip": "html",
-  "dosya": "10508.html"
+  "dosya": "10508.html",
+  "ekler": []
  },
  {
   "trid": "10509",
@@ -661,7 +967,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10510/ozel-hastaneler-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10510.html"
+  "dosya": "10510.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41265&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10511",
@@ -669,7 +977,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10511/ayakta-teshis-ve-tedavi-hizmeti-sunulan-ozel-saglik-kuruluslari-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10511.html"
+  "dosya": "10511.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42369&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10512",
@@ -693,7 +1003,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10533/hemsirelik-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10533.html"
+  "dosya": "10533.html",
+  "ekler": [
+   {
+    "dosya": "10533-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.13830.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10514",
@@ -701,7 +1019,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10514/terapotik-aferez-merkezleri-ve-uniteleri-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10514.html"
+  "dosya": "10514.html",
+  "ekler": [
+   {
+    "dosya": "10514-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.32693.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10514-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.32693.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10515",
@@ -709,7 +1041,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10515/uremeye-yardimci-tedavi-uygulamalari-ve-uremeye-yardimci-tedavi-merkezleri-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10515.html"
+  "dosya": "10515.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20085&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10516",
@@ -717,7 +1051,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10516/aile-hekimligi-uygulama-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10516.html"
+  "dosya": "10516.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=17051&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10518",
@@ -725,7 +1061,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10518/yatakli-tedavi-kurumlari-isletme-yonetmeligi-son-degisiklerle-beraber.html",
   "tip": "html",
-  "dosya": "10518.html"
+  "dosya": "10518.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=85319&MevzuatTur=3&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10519",
@@ -733,7 +1071,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10519/ucucu-maddelerin-zararlarindan-insan-sagliginin-korunmasi-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10519.html"
+  "dosya": "10519.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14180&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10520",
@@ -741,7 +1081,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10520/insan-doku-ve-hucreleri-ile-bunlarla-ilgili-merkezlerin-kalite-ve-guvenligi-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10520.html"
+  "dosya": "10520.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14389&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "10521",
@@ -749,7 +1091,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10521/mezarlik-yerlerinin-insasi-ile-cenaze-nakil-ve-defin-islemleri-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10521.html"
+  "dosya": "10521.html",
+  "ekler": []
  },
  {
   "trid": "10524",
@@ -797,7 +1140,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10530/saglik-bakanligi-bagli-kuruluslari-hizmet-birimlerinin-gorevleri-ile-calisma-usul-ve-esaslari-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "10530.html"
+  "dosya": "10530.html",
+  "ekler": []
  },
  {
   "trid": "10532",
@@ -813,6 +1157,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-28791/kisisel-saglik-verileri-hakkinda-yonetmelik.html",
   "tip": "html",
-  "dosya": "28791.html"
+  "dosya": "28791.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32610&MevzuatTur=7&MevzuatTertip=5",
+  "ekler": []
  }
 ]

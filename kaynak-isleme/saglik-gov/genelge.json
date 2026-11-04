@@ -45,7 +45,8 @@
   "birim": "Acil Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10536/dis-iliskiler-ve-avrupa-birligi-genel-mudurlugu.html",
   "tip": "html",
-  "dosya": "10536.html"
+  "dosya": "10536.html",
+  "ekler": []
  },
  {
   "trid": "103433",
@@ -167,7 +168,8 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10541/bakanligimiza-tahsisli-tasinmazlardaki-bufe-kantin-cay-ocagi-gibi-yerlerin-kiraya-verilmesi-ve-otoparklarin-kullanimi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10541.html"
+  "dosya": "10541.html",
+  "ekler": []
  },
  {
   "trid": "10542",
@@ -175,7 +177,8 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10542/doner-sermaye-isletmelerinin-bagis-kabul-etmesi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10542.html"
+  "dosya": "10542.html",
+  "ekler": []
  },
  {
   "trid": "10543",
@@ -183,7 +186,8 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10543/is-birakma-ve-isi-yavaslatma-eylemleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10543.html"
+  "dosya": "10543.html",
+  "ekler": []
  },
  {
   "trid": "10544",
@@ -291,7 +295,8 @@
   "birim": "Türkiye İlaç ve Tıbbi Cihaz Kurumu",
   "url": "https://www.saglik.gov.tr/TR-10551/endikasyon-disi-ilac-kullanimi.html",
   "tip": "html",
-  "dosya": "10551.html"
+  "dosya": "10551.html",
+  "ekler": []
  },
  {
   "trid": "10552",
@@ -299,7 +304,8 @@
   "birim": "Türkiye İlaç ve Tıbbi Cihaz Kurumu",
   "url": "https://www.saglik.gov.tr/TR-10552/kontrole-tabi-kimyasal-maddeler.html",
   "tip": "html",
-  "dosya": "10552.html"
+  "dosya": "10552.html",
+  "ekler": []
  },
  {
   "trid": "10553",
@@ -307,7 +313,8 @@
   "birim": "Türkiye İlaç ve Tıbbi Cihaz Kurumu",
   "url": "https://www.saglik.gov.tr/TR-10553/kontrole-tabi-mustahzarlarin-satissarf-hareketlerinin-yerinden-takibi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10553.html"
+  "dosya": "10553.html",
+  "ekler": []
  },
  {
   "trid": "10554",
@@ -315,7 +322,8 @@
   "birim": "Türkiye İlaç ve Tıbbi Cihaz Kurumu",
   "url": "https://www.saglik.gov.tr/TR-10554/eczanelere-iliskin-bolge-eczaci-odalarinca-tasdiklenenduzenlenen-raporlar-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10554.html"
+  "dosya": "10554.html",
+  "ekler": []
  },
  {
   "trid": "10555",
@@ -323,7 +331,8 @@
   "birim": "Türkiye İlaç ve Tıbbi Cihaz Kurumu",
   "url": "https://www.saglik.gov.tr/TR-10555/ephedrine---pseudoephedrine-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10555.html"
+  "dosya": "10555.html",
+  "ekler": []
  },
  {
   "trid": "10556",
@@ -331,7 +340,8 @@
   "birim": "Türkiye İlaç ve Tıbbi Cihaz Kurumu",
   "url": "https://www.saglik.gov.tr/TR-10556/soguk-damga-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10556.html"
+  "dosya": "10556.html",
+  "ekler": []
  },
  {
   "trid": "10557",
@@ -339,7 +349,8 @@
   "birim": "Türkiye İlaç ve Tıbbi Cihaz Kurumu",
   "url": "https://www.saglik.gov.tr/TR-10557/eczanelere-iliskin-muracaat-ve-ruhsatlandirma-islemlerinin-valiliklere-devri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10557.html"
+  "dosya": "10557.html",
+  "ekler": []
  },
  {
   "trid": "10558",
@@ -347,7 +358,8 @@
   "birim": "Türkiye İlaç ve Tıbbi Cihaz Kurumu",
   "url": "https://www.saglik.gov.tr/TR-10558/kontrole-tabi-madde-ve-mustahzarlarin-sarflari-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10558.html"
+  "dosya": "10558.html",
+  "ekler": []
  },
  {
   "trid": "103638",
@@ -475,7 +487,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10590/saglik-bakanligi-ozel-guvenlik-hizmetleri-genelgesi.html",
   "tip": "html",
-  "dosya": "10590.html"
+  "dosya": "10590.html",
+  "ekler": [
+   {
+    "dosya": "10590-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/472/0/sbozel-guvenlik-hizmetleri-genelgesiii-doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10589",
@@ -483,7 +503,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10589/ikys-genelgesi.html",
   "tip": "html",
-  "dosya": "10589.html"
+  "dosya": "10589.html",
+  "ekler": [
+   {
+    "dosya": "10589-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/471/0/1929pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10588",
@@ -491,7 +519,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10588/mal-bildirimi.html",
   "tip": "html",
-  "dosya": "10588.html"
+  "dosya": "10588.html",
+  "ekler": [
+   {
+    "dosya": "10588-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/469/0/1931pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10587",
@@ -499,7 +535,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10587/ckysikys.html",
   "tip": "html",
-  "dosya": "10587.html"
+  "dosya": "10587.html",
+  "ekler": [
+   {
+    "dosya": "10587-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/467/0/1930pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10585",
@@ -507,7 +551,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10585/donem-tayini-islemleri.html",
   "tip": "html",
-  "dosya": "10585.html"
+  "dosya": "10585.html",
+  "ekler": [
+   {
+    "dosya": "10585-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/466/0/1932pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10582",
@@ -515,7 +567,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10582/bakaya-tabiplerin-sevk-islemleri.html",
   "tip": "html",
-  "dosya": "10582.html"
+  "dosya": "10582.html",
+  "ekler": [
+   {
+    "dosya": "10582-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/464/0/1933pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10578",
@@ -523,7 +583,21 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10578/is-zekasi-ve-ckysikys-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10578.html"
+  "dosya": "10578.html",
+  "ekler": [
+   {
+    "dosya": "10578-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/459/0/iszekasi-talimatsondoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10578-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/461/0/is-zekasi-ek1doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10576",
@@ -531,7 +605,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10576/mal-bildirimi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10576.html"
+  "dosya": "10576.html",
+  "ekler": []
  },
  {
   "trid": "10575",
@@ -539,7 +614,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10575/yetki-devrine-iliskin-genelge.html",
   "tip": "html",
-  "dosya": "10575.html"
+  "dosya": "10575.html",
+  "ekler": []
  },
  {
   "trid": "10574",
@@ -547,7 +623,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10574/mal-bildirimi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10574.html"
+  "dosya": "10574.html",
+  "ekler": []
  },
  {
   "trid": "10573",
@@ -555,7 +632,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10573/gorevlendirmeler-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10573.html"
+  "dosya": "10573.html",
+  "ekler": []
  },
  {
   "trid": "10572",
@@ -563,7 +641,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10572/atama-ve-nakil-yonetmeligi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10572.html"
+  "dosya": "10572.html",
+  "ekler": []
  },
  {
   "trid": "10571",
@@ -571,7 +650,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10571/devlet-hizmeti-yukumlulugu-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10571.html"
+  "dosya": "10571.html",
+  "ekler": []
  },
  {
   "trid": "10570",
@@ -579,7 +659,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10570/sozlesmeli-personeli-alimi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10570.html"
+  "dosya": "10570.html",
+  "ekler": []
  },
  {
   "trid": "10569",
@@ -587,7 +668,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10569/trafik-kazali-araclarin-islemlerinin-yurutulmesi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10569.html"
+  "dosya": "10569.html",
+  "ekler": []
  },
  {
   "trid": "10568",
@@ -595,7 +677,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10568/saglik-ulasim-araclari-kullanim-bakim-onarim-hek-islemleri.html",
   "tip": "html",
-  "dosya": "10568.html"
+  "dosya": "10568.html",
+  "ekler": []
  },
  {
   "trid": "10567",
@@ -603,7 +686,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10567/resmi-arac-kullanimi-hakkinda-genelgeler.html",
   "tip": "html",
-  "dosya": "10567.html"
+  "dosya": "10567.html",
+  "ekler": []
  },
  {
   "trid": "10566",
@@ -611,7 +695,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10566/enerji-tasarrufu-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10566.html"
+  "dosya": "10566.html",
+  "ekler": []
  },
  {
   "trid": "10565",
@@ -619,7 +704,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10565/terkin-satma-ve-devir-islemleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10565.html"
+  "dosya": "10565.html",
+  "ekler": []
  },
  {
   "trid": "10564",
@@ -627,7 +713,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10564/resmi-muhurler-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10564.html"
+  "dosya": "10564.html",
+  "ekler": []
  },
  {
   "trid": "10563",
@@ -635,7 +722,8 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10563/kaybolan-veveya-calinan-malzemeler-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10563.html"
+  "dosya": "10563.html",
+  "ekler": []
  },
  {
   "trid": "10562",
@@ -643,7 +731,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10562/imza-sirkuleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10562.html"
+  "dosya": "10562.html",
+  "ekler": [
+   {
+    "dosya": "10562-ek1.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/455/0/gimzasirkulerizip.zip",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10561",
@@ -651,7 +747,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10561/arsiv-hizmetleri-hakkinda-genelgeler.html",
   "tip": "html",
-  "dosya": "10561.html"
+  "dosya": "10561.html",
+  "ekler": [
+   {
+    "dosya": "10561-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/454/0/garsivgen125pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10560",
@@ -659,7 +763,15 @@
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10560/devir-teslim-ve-evrak-tesekkulu-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10560.html"
+  "dosya": "10560.html",
+  "ekler": [
+   {
+    "dosya": "10560-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/453/0/gevrakdevtesusulpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "103622",
@@ -731,7 +843,8 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-34356/ihalelere-katilmaktan-yasaklama-islemleri-konulu-2018-12-sayili-genelge.html",
   "tip": "html",
-  "dosya": "34356.html"
+  "dosya": "34356.html",
+  "ekler": []
  },
  {
   "trid": "10736",
@@ -739,7 +852,27 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10736/2011-2012-2013-yillari-doner-sermaye-butce-cagrisi-genelge-ve-ekleri-201076.html",
   "tip": "html",
-  "dosya": "10736.html"
+  "dosya": "10736.html",
+  "ekler": [
+   {
+    "dosya": "10736-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/614/0/201076sayiligenelgepdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10736-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/616/0/201076ekaciklamapdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10736-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/621/0/201076ornekhastanexls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10735",
@@ -747,7 +880,8 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10735/burokrasinin-azaltilmasi-ve-idari-basitlestirme-genelge-201071.html",
   "tip": "html",
-  "dosya": "10735.html"
+  "dosya": "10735.html",
+  "ekler": []
  },
  {
   "trid": "10734",
@@ -755,7 +889,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10734/arastirma-gelistirme-hizmeti-alimlari-hakkinda-genelge-201058.html",
   "tip": "html",
-  "dosya": "10734.html"
+  "dosya": "10734.html",
+  "ekler": [
+   {
+    "dosya": "10734-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/613/0/genelge201058pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10733",
@@ -763,7 +905,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10733/13082010-tarih-8513-sayi-ve-201059-sira-numarali-karsiliksiz-kaynak-aktarimi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10733.html"
+  "dosya": "10733.html",
+  "ekler": [
+   {
+    "dosya": "10733-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/612/0/genelge201059pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10731",
@@ -771,7 +921,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10731/azami-stok-miktarlarinin-belirlenmesi-ve-stok-yonetimi-200963-nolu-genelge.html",
   "tip": "html",
-  "dosya": "10731.html"
+  "dosya": "10731.html",
+  "ekler": [
+   {
+    "dosya": "10731-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/611/0/200963sayiligenelgestokyonetimiveekleripdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10730",
@@ -779,7 +937,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10730/hizmet-alimlarinda-calistirilacak-isci-sayisinin-tespiti-ve-ongorulecek-ucretler-2-hakkinda-200964-sira-nolu-genelge-ve-ekleri.html",
   "tip": "html",
-  "dosya": "10730.html"
+  "dosya": "10730.html",
+  "ekler": [
+   {
+    "dosya": "10730-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/609/0/hizmetalimlarindacalisiscisayisitespitipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10729",
@@ -787,7 +953,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10729/2009-50-sayili-genelge-ve-ekleri.html",
   "tip": "html",
-  "dosya": "10729.html"
+  "dosya": "10729.html",
+  "ekler": [
+   {
+    "dosya": "10729-ek1.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/602/0/genelge200950veeklerizip.zip",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10728",
@@ -795,7 +969,8 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10728/2010-2011-2012-yillari-doner-sermaye-butce-cagrisi-hakkinda-genelge-ve-ekleri.html",
   "tip": "html",
-  "dosya": "10728.html"
+  "dosya": "10728.html",
+  "ekler": []
  },
  {
   "trid": "10727",
@@ -803,7 +978,8 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10727/burokrasinin-azaltilmasi-ve-idari-basitlestirme-hakkinda-genelge-ve-ekleri.html",
   "tip": "html",
-  "dosya": "10727.html"
+  "dosya": "10727.html",
+  "ekler": []
  },
  {
   "trid": "10726",
@@ -811,7 +987,21 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10726/il-stok-havuzu-ve-ihtiyaclarin-karsilanmasi-hakkindaki-23072009-tarih-45-sayili-genelge-ve-ekistrateji-gelistirme-baskanligi.html",
   "tip": "html",
-  "dosya": "10726.html"
+  "dosya": "10726.html",
+  "ekler": [
+   {
+    "dosya": "10726-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/600/0/200945ilstokhavuzuihtiyaclarinkarsilanmasidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10726-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/601/0/200945genelgeekikurumlarlistesixls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10725",
@@ -819,7 +1009,8 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10725/saglik-mudurluklerinde-stok-yonetimi-200868.html",
   "tip": "html",
-  "dosya": "10725.html"
+  "dosya": "10725.html",
+  "ekler": []
  },
  {
   "trid": "10724",
@@ -827,7 +1018,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10724/azami-stok-miktarinin-belirlenmesi-ve-stok-yonetimi-2009-23-sayili-genelge-strateji-gelistirme-baskanligi.html",
   "tip": "html",
-  "dosya": "10724.html"
+  "dosya": "10724.html",
+  "ekler": [
+   {
+    "dosya": "10724-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/332/0/azamistokmiktarininbelirlenmesivestokyonetimipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10723",
@@ -835,7 +1034,27 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10723/12052009-tarih-ve-32-sayili-hizmet-alimlarinda-calistirilacak-isci-sayisinin-tespiti-ve-ongorulecek-ucretler-ile-ilgili-200932-genelge-strateji-gelistirme-baskanligi.html",
   "tip": "html",
-  "dosya": "10723.html"
+  "dosya": "10723.html",
+  "ekler": [
+   {
+    "dosya": "10723-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/597/0/2009-32-sira-nolu-genelge-isci-sayisi-ve-ucretler-genelgesidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10723-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/598/0/2009-32-sira-nolu-genelge-eki--ucret-tablosuxls.xls",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10723-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/599/0/program-duyurusu-icin-tiklayinizdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10722",
@@ -843,7 +1062,21 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10722/kamu-idarelerine-bagli-saglik-kurum-ve-kuruluslarinin-birbirlerinden-mal-ve-hizmet-almalari-hakkinda-genelge-200910-strateji-gelistirme-baskanligi.html",
   "tip": "html",
-  "dosya": "10722.html"
+  "dosya": "10722.html",
+  "ekler": [
+   {
+    "dosya": "10722-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/596/0/kamuidarelerinebalsalkkurumvekurulularnnbirbirlerinemalvehizmetvermelerihakkndagenelge1doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10722-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/321/0/maliyebakanligigorusuicintiklayinizdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10721",
@@ -851,7 +1084,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10721/sosyal-guvenlik-kurumu-mensuplarina-goturu-bedel-hizmet-sunumu-19022009-tarih-ve-11-sayili--genelgesi-strateji-gelistirme-baskanligi.html",
   "tip": "html",
-  "dosya": "10721.html"
+  "dosya": "10721.html",
+  "ekler": [
+   {
+    "dosya": "10721-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/326/0/goturubedelhizmetsunumgenelgesiicintiklayinizdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10720",
@@ -859,7 +1100,21 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10720/4734-sayili-kanunun-62-nci-maddesinin-i-bendinin-uygulanmasina-iliskin-06022009-tarihli-1221-20099-sayili-genelge.html",
   "tip": "html",
-  "dosya": "10720.html"
+  "dosya": "10720.html",
+  "ekler": [
+   {
+    "dosya": "10720-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/310/0/-10genelgesidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10720-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/595/0/-10-tabloxls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10719",
@@ -867,7 +1122,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10719/kurum-stok-kayitlari-genelge-200875.html",
   "tip": "html",
-  "dosya": "10719.html"
+  "dosya": "10719.html",
+  "ekler": [
+   {
+    "dosya": "10719-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/593/0/stok-genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10717",
@@ -875,7 +1138,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10717/2009-2010-2011-yillari-doner-sermaye-butce-kalemleri-aciklamasi-200864.html",
   "tip": "html",
-  "dosya": "10717.html"
+  "dosya": "10717.html",
+  "ekler": [
+   {
+    "dosya": "10717-ek1.docx",
+    "tip": "docx",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/591/0/rcetvelidocx.docx",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10716",
@@ -883,7 +1154,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10716/2009-2010-2011-yillari-doner-sermaye-butce-cagrisi-genelgesi200864.html",
   "tip": "html",
-  "dosya": "10716.html"
+  "dosya": "10716.html",
+  "ekler": [
+   {
+    "dosya": "10716-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/201/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10715",
@@ -891,7 +1170,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10715/kurumlarimizin-belediyelerden-alacaklari-genelge-200846.html",
   "tip": "html",
-  "dosya": "10715.html"
+  "dosya": "10715.html",
+  "ekler": [
+   {
+    "dosya": "10715-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/590/0/yerel-yonetimler-terkin-protokoludoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10714",
@@ -899,7 +1186,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10714/doner-sermaye-kaynaklarindan-yapilacak-olan-ihalelerde-uyulmasi-gereken-usul-ve-esaslar-hakkinda-genelge2008-42.html",
   "tip": "html",
-  "dosya": "10714.html"
+  "dosya": "10714.html",
+  "ekler": [
+   {
+    "dosya": "10714-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/585/0/donerpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10713",
@@ -907,7 +1202,8 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10713/aile-hekimligi-uygulanan-illerde-merkez-payi-alinmamasi-ile-ilgili-genelge200844.html",
   "tip": "html",
-  "dosya": "10713.html"
+  "dosya": "10713.html",
+  "ekler": []
  },
  {
   "trid": "10712",
@@ -915,7 +1211,8 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10712/doner-sermaye-butcesi-programi-genelgesi.html",
   "tip": "html",
-  "dosya": "10712.html"
+  "dosya": "10712.html",
+  "ekler": []
  },
  {
   "trid": "10711",
@@ -923,7 +1220,8 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10711/firmadernekvakif-gibi-kuruluslarca-duzenlenen-konferansa-katilan-personelin-egitim-giderleri.html",
   "tip": "html",
-  "dosya": "10711.html"
+  "dosya": "10711.html",
+  "ekler": []
  },
  {
   "trid": "10710",
@@ -931,7 +1229,27 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10710/agaclandirma-seferberligine-iliskin-genelge.html",
   "tip": "html",
-  "dosya": "10710.html"
+  "dosya": "10710.html",
+  "ekler": [
+   {
+    "dosya": "10710-ek1.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/581/0/agacjpg.JPG",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10710-ek2.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/582/0/ek1jpg.jpg",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10710-ek3.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/583/0/ek2jpg.jpg",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10709",
@@ -939,7 +1257,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10709/doner-sermayeli-kurumlarimizin-hizmet-vermeleri-hususunda-20082-sayili-genelge.html",
   "tip": "html",
-  "dosya": "10709.html"
+  "dosya": "10709.html",
+  "ekler": [
+   {
+    "dosya": "10709-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/580/0/kurumlarimizin--hizmet-vermeleridoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10708",
@@ -947,7 +1273,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10708/kurumlarimizin-birbirlerine-mal-ve-hizmet-vermeleri-hakkinda-20081-sayili-genelge.html",
   "tip": "html",
-  "dosya": "10708.html"
+  "dosya": "10708.html",
+  "ekler": [
+   {
+    "dosya": "10708-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/579/0/kurumlarimizin-birbirlerine-mal-ve-hizmet-vermeleri--genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10706",
@@ -955,7 +1289,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10706/tibbi-cihaz-hizmet-alimina-iliskin-genelge.html",
   "tip": "html",
-  "dosya": "10706.html"
+  "dosya": "10706.html",
+  "ekler": [
+   {
+    "dosya": "10706-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/578/0/genelge2007103doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10705",
@@ -963,7 +1305,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10705/gider-tahakkuk-stok-islemleri-konulu-genelge.html",
   "tip": "html",
-  "dosya": "10705.html"
+  "dosya": "10705.html",
+  "ekler": [
+   {
+    "dosya": "10705-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/577/0/stokbilgi20071doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10704",
@@ -971,7 +1321,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10704/tasinir-mal-yonetmeligi.html",
   "tip": "html",
-  "dosya": "10704.html"
+  "dosya": "10704.html",
+  "ekler": [
+   {
+    "dosya": "10704-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/576/0/tasinirmalgenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10703",
@@ -979,7 +1337,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10703/tasinmazlarin-kaydi.html",
   "tip": "html",
-  "dosya": "10703.html"
+  "dosya": "10703.html",
+  "ekler": [
+   {
+    "dosya": "10703-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/81/0/tasinmazeklerxls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10702",
@@ -987,7 +1353,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10702/200820092010-doner-sermaye-butcesi-hazirlama-esaslari.html",
   "tip": "html",
-  "dosya": "10702.html"
+  "dosya": "10702.html",
+  "ekler": [
+   {
+    "dosya": "10702-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/575/0/2008butceforxls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10701",
@@ -995,7 +1369,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10701/tasarruf-tedbirleri.html",
   "tip": "html",
-  "dosya": "10701.html"
+  "dosya": "10701.html",
+  "ekler": [
+   {
+    "dosya": "10701-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/60/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10700",
@@ -1003,7 +1385,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10700/performans-yonetimi-ve-kaliteyi-gelistirme-calismalarina-dair-genelge-200770.html",
   "tip": "html",
-  "dosya": "10700.html"
+  "dosya": "10700.html",
+  "ekler": [
+   {
+    "dosya": "10700-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/574/0/internetteyayindoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10699",
@@ -1011,7 +1401,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10699/ek-odeme-yonetmeliginin-bazi-hukumlerine-iliskin-yurutmenin-durdurulmasi-karari.html",
   "tip": "html",
-  "dosya": "10699.html"
+  "dosya": "10699.html",
+  "ekler": [
+   {
+    "dosya": "10699-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/42/0/genelge-yurutmeyi-durdurma-karari-ek-odeme-yonetmeligidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10698",
@@ -1019,7 +1417,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10698/tasinir-mal-yonetmeligi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10698.html"
+  "dosya": "10698.html",
+  "ekler": [
+   {
+    "dosya": "10698-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/573/0/listexls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10697",
@@ -1027,7 +1433,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10697/200755-sayili-gorev-dagilimi-genelgesi.html",
   "tip": "html",
-  "dosya": "10697.html"
+  "dosya": "10697.html",
+  "ekler": [
+   {
+    "dosya": "10697-ek1.docx",
+    "tip": "docx",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/572/0/55saygendoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10696",
@@ -1035,7 +1449,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10696/ertesi-yila-gecen-yuklenmeler-ve-kit-karsiligi-cihaz-edinme-alimlarinda-gelecek-yillara-yaygin-yuklenme.html",
   "tip": "html",
-  "dosya": "10696.html"
+  "dosya": "10696.html",
+  "ekler": [
+   {
+    "dosya": "10696-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/571/0/2007-48-ertesi-yila-gecen-yuklenmeler-ve-kit-karsiligi-cihaz-edinme-alimlarinda-gelecek-yillara-yaygin-yuklenmedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10694",
@@ -1043,7 +1465,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10694/toplu-alimlar.html",
   "tip": "html",
-  "dosya": "10694.html"
+  "dosya": "10694.html",
+  "ekler": [
+   {
+    "dosya": "10694-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/27/0/toplu-alimdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10693",
@@ -1051,7 +1481,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10693/4bli-personelin-ssk-prim-kesintisi.html",
   "tip": "html",
-  "dosya": "10693.html"
+  "dosya": "10693.html",
+  "ekler": [
+   {
+    "dosya": "10693-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/25/0/4-bisveren-kesintisidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10692",
@@ -1059,7 +1497,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10692/ek-odeme-bodrolarinin-sisteme-girilmesi.html",
   "tip": "html",
-  "dosya": "10692.html"
+  "dosya": "10692.html",
+  "ekler": [
+   {
+    "dosya": "10692-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/22/0/ekodemebodrolarininsistemegirilmesi-yayimdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10691",
@@ -1067,7 +1513,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-10691/tibbi-cihaz-alimlari.html",
   "tip": "html",
-  "dosya": "10691.html"
+  "dosya": "10691.html",
+  "ekler": [
+   {
+    "dosya": "10691-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/19/0/tibcihalimidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "103614",
@@ -1515,7 +1969,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-103229/201324-sayili-kritik-kan-stok-seviyesinin-korunmasi-genelgesi.html",
   "tip": "html",
-  "dosya": "103229.html"
+  "dosya": "103229.html",
+  "ekler": [
+   {
+    "dosya": "103229-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/46949/0/2013-24-sayili-kritik-kan-stok-seviyesinin-korunmasi-genelgesipdf.PDF",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "103228",
@@ -1531,7 +1993,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-103227/2004-66-transfuzyon-komitesi-genelgesi.html",
   "tip": "html",
-  "dosya": "103227.html"
+  "dosya": "103227.html",
+  "ekler": [
+   {
+    "dosya": "103227-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/46944/0/2004-66-transfuzyon-komitesi-genelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "102351",
@@ -1539,7 +2009,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-102351/genetik-veri-paylasimi-genelgesi-202114.html",
   "tip": "html",
-  "dosya": "102351.html"
+  "dosya": "102351.html",
+  "ekler": [
+   {
+    "dosya": "102351-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyamerkez.saglik.gov.tr/Eklenti/42244/0/genetik-veri-paylasimi-2021-14-nolu-genelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "102350",
@@ -1547,7 +2025,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-102350/kamu-kurum-ve-kuruluslari-laboratuvarlarinda-biyolojik-materyallerin-temini-protokolu-hakkindaki-usul-ve-esaslari-belirten-genelge-201319.html",
   "tip": "html",
-  "dosya": "102350.html"
+  "dosya": "102350.html",
+  "ekler": [
+   {
+    "dosya": "102350-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyamerkez.saglik.gov.tr/Eklenti/2509/0/genelge201319pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "102349",
@@ -1555,7 +2041,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-102349/tibbi-laboratuvarlarda-numune-saklama-sureleri-gozetimli-hizmet-laboratuvarlari-kapsamindaki-testler-hakkindaki-genelge-20144.html",
   "tip": "html",
-  "dosya": "102349.html"
+  "dosya": "102349.html",
+  "ekler": [
+   {
+    "dosya": "102349-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyamerkez.saglik.gov.tr/Eklenti/2569/0/genelge-20144barkodlupdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "102348",
@@ -1563,7 +2057,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-102348/formaldehit-ve-ksilen-olcum-standartlari-hakkinda-genelge-20145.html",
   "tip": "html",
-  "dosya": "102348.html"
+  "dosya": "102348.html",
+  "ekler": [
+   {
+    "dosya": "102348-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyamerkez.saglik.gov.tr/Eklenti/38699/0/formaldehit-ve-ksilen-olcum-standartlari-hakkinda-genelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "102345",
@@ -1571,7 +2073,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-102345/izin-verilen-toplam-hata-sinirlari-genelgesi-201618.html",
   "tip": "html",
-  "dosya": "102345.html"
+  "dosya": "102345.html",
+  "ekler": [
+   {
+    "dosya": "102345-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyamerkez.saglik.gov.tr/Eklenti/2581/0/genelge-201618izin-verilen-toplam-hata-sinirlaripdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "102344",
@@ -1579,7 +2089,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-102344/tibbi-laboratuvarlarda-kan-numunelerinde-etanol-analizi-islemleri-genelgesi-201712.html",
   "tip": "html",
-  "dosya": "102344.html"
+  "dosya": "102344.html",
+  "ekler": [
+   {
+    "dosya": "102344-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyamerkez.saglik.gov.tr/Eklenti/11278/0/kan-numunelerinde-etanol-analizi-islemlerinin-usulpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "102343",
@@ -1587,7 +2105,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-102343/soybaginin-tespiti-testi-hakkinda-genelge-20242.html",
   "tip": "html",
-  "dosya": "102343.html"
+  "dosya": "102343.html",
+  "ekler": [
+   {
+    "dosya": "102343-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyamerkez.saglik.gov.tr/Eklenti/47797/0/2024-2-sayili-soybaginin-tespiti-testi-hakkinda-genelge-sonpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11024",
@@ -1595,7 +2121,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11024/saglik-bolge-planlamasi-hakkinda-genelge-ile-hastane-yatak-ve-rolleri-tescil-onayi-201050.html",
   "tip": "html",
-  "dosya": "11024.html"
+  "dosya": "11024.html",
+  "ekler": [
+   {
+    "dosya": "11024-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/45235/0/2010-50-sayili-genelgepdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11024-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/45246/0/30-shb-bakan-onayipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11024-ek3.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/45252/0/saglik-bakanligi-yatakli-saglik-tesisleri-rollerinin-belirlenmesine-iliskin-kriterler-832023pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "89798",
@@ -1611,7 +2157,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-50909/pratisyen-tabiplerin-hasta-yatirmalari-ve-uzman-tabiplerin-hasta-bakma-yas-siniri.html",
   "tip": "html",
-  "dosya": "50909.html"
+  "dosya": "50909.html",
+  "ekler": [
+   {
+    "dosya": "50909-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/28460/0/2018-30-genelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "34666",
@@ -1619,7 +2173,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-34666/201814-yataga-bagimli-kisiler-icin-durum-bildirir-tek-hekim-raporu-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "34666.html"
+  "dosya": "34666.html",
+  "ekler": [
+   {
+    "dosya": "34666-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/15542/0/2018-14-sayili-genelgepdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "34666-ek2.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/15553/0/yataga-bagimli-secmenler-icin-durum-bildirir-tek-hekim-saglik-raporusonpptx.pptx",
+    "ustyazi": false
+   },
+   {
+    "dosya": "34666-ek3.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/15554/0/yataga-bagimli-secmenler-icin-durum-bildirir-tek-hekim-saglik-raporusonpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "25603",
@@ -1627,7 +2201,21 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-25603/klinik-kalite-uygulama-ve-veri-kalitesi-iyilestirme-rehberi.html",
   "tip": "html",
-  "dosya": "25603.html"
+  "dosya": "25603.html",
+  "ekler": [
+   {
+    "dosya": "25603-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/10941/0/klinik-kalite-genelgepdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "25603-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/11054/0/klinik-kalite-uygulama-ve-veri-kalitesi-iyilestirme-rehberipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "18674",
@@ -1635,7 +2223,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-18674/saglik-turizmi-bolge-koordinatorlugu-sistemi-genelgesi.html",
   "tip": "html",
-  "dosya": "18674.html"
+  "dosya": "18674.html",
+  "ekler": [
+   {
+    "dosya": "18674-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/7577/0/saglik-turizmi-bolge-koordinatorlugu-sistemiustyazipdf.pdf",
+    "ustyazi": true
+   }
+  ]
  },
  {
   "trid": "11061",
@@ -1643,7 +2239,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11061/uzmanlik-ogrencileri-201619-genelge.html",
   "tip": "html",
-  "dosya": "11061.html"
+  "dosya": "11061.html",
+  "ekler": [
+   {
+    "dosya": "11061-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/5805/0/uzmanlik-ogrencileriustyazipdf.pdf",
+    "ustyazi": true
+   }
+  ]
  },
  {
   "trid": "11060",
@@ -1651,7 +2255,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11060/turk-silahli-kuvvetleri-saglik-yetenegi-yonetmeligi-kapsaminda-verilen-saglik-raporlari-hakkinda-201615-sayili-genelge.html",
   "tip": "html",
-  "dosya": "11060.html"
+  "dosya": "11060.html",
+  "ekler": [
+   {
+    "dosya": "11060-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1103/0/onnbespdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11059",
@@ -1659,7 +2271,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11059/istirahat-raporlari-2016-12.html",
   "tip": "html",
-  "dosya": "11059.html"
+  "dosya": "11059.html",
+  "ekler": [
+   {
+    "dosya": "11059-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1102/0/istirahat-raporlari-2016-12pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11058",
@@ -1667,7 +2287,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11058/gaziler-ve-sehit-ve-dul-yetimlerinin-saglik-kurulu-raporlari-hk-201614-sayili-genelge.html",
   "tip": "html",
-  "dosya": "11058.html"
+  "dosya": "11058.html",
+  "ekler": [
+   {
+    "dosya": "11058-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1101/0/201614-sayili-genelgeustyazipdf.pdf",
+    "ustyazi": true
+   }
+  ]
  },
  {
   "trid": "11057",
@@ -1675,7 +2303,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11057/terorden-zarar-goren-kisilerin-tedavi-giderleri-hk-201613-sayili-genelge.html",
   "tip": "html",
-  "dosya": "11057.html"
+  "dosya": "11057.html",
+  "ekler": [
+   {
+    "dosya": "11057-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1100/0/genelge-2016-13pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11056",
@@ -1683,7 +2319,33 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11056/replantasyon-uygulamalari-genelgesi-20169.html",
   "tip": "html",
-  "dosya": "11056.html"
+  "dosya": "11056.html",
+  "ekler": [
+   {
+    "dosya": "11056-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1096/0/replantasyon-uygulamalari-genelgesipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11056-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1097/0/ek-1-replantasyon-yapabilecek-merkezler-listesipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11056-ek3.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1098/0/ek-2-dogrudan-basvuran-hastalarin-sevk-algoritmasipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11056-ek4.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1099/0/ek-3-112-komuta-kontrol-merkezi-sevk-algoritmasipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11055",
@@ -1691,7 +2353,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11055/yesil-alan-genelgesi-201413.html",
   "tip": "html",
-  "dosya": "11055.html"
+  "dosya": "11055.html",
+  "ekler": [
+   {
+    "dosya": "11055-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1094/0/2014-13-yesil-alan-genelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11054",
@@ -1699,7 +2369,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11054/adli-olaya-taraf-kisiler-hakkinda-tedavi-ve-denetimli-serbestlik-tedbirine-hukmedilenler-ile-tutuklu-ve-hukumlu-tedavi-gideri-hakkinda-genelge-2013-2.html",
   "tip": "html",
-  "dosya": "11054.html"
+  "dosya": "11054.html",
+  "ekler": [
+   {
+    "dosya": "11054-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1093/0/adli-olaya-taraf-kisiler-hakkinda-tedavi-ve-denetimli-serbestlik-tedbirine-hukmedilenler-ile-tutuklu-ve-hukumlu-tedavi-gideri-hakkinda-genelge-2013-2pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11051",
@@ -1707,7 +2385,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11051/radyasyon-kaynaklariyla-calisan-personele-iliskin-genelge-201234.html",
   "tip": "html",
-  "dosya": "11051.html"
+  "dosya": "11051.html",
+  "ekler": [
+   {
+    "dosya": "11051-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1077/0/radyasyonpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11050",
@@ -1715,7 +2401,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11050/saglik-personelinin-ikametine-iliskin-genelge-201231.html",
   "tip": "html",
-  "dosya": "11050.html"
+  "dosya": "11050.html",
+  "ekler": [
+   {
+    "dosya": "11050-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1074/0/ikametpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11049",
@@ -1723,7 +2417,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11049/calisan-guvenliginin-saglanmasiyla-ilgili-genelge.html",
   "tip": "html",
-  "dosya": "11049.html"
+  "dosya": "11049.html",
+  "ekler": [
+   {
+    "dosya": "11049-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1073/0/calisangenelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11048",
@@ -1731,7 +2433,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11048/evde-saglik-hizmetlerinin-agiz-ve-dis-sagligi-merkezlerinden-alinmasi-hakkinda-genelge-201217.html",
   "tip": "html",
-  "dosya": "11048.html"
+  "dosya": "11048.html",
+  "ekler": [
+   {
+    "dosya": "11048-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1069/0/agiz-evde-saglikpdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11048-ek2.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1070/0/agiz-dis-evde-saglik-ek-1xlsx.xlsx",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11048-ek3.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1072/0/agiz-dis-evde-saglik-ek-2pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11047",
@@ -1739,7 +2461,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11047/muayenehane-bina-standartlari-genelgesi-201155.html",
   "tip": "html",
-  "dosya": "11047.html"
+  "dosya": "11047.html",
+  "ekler": [
+   {
+    "dosya": "11047-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1065/0/muayenehane-genelge-son-03102011pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11046",
@@ -1747,7 +2477,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11046/acil-saglik-hizmetlerinde-yesil-alan-uygulamasi-genelgesi-201210.html",
   "tip": "html",
-  "dosya": "11046.html"
+  "dosya": "11046.html",
+  "ekler": [
+   {
+    "dosya": "11046-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1062/0/acil-saglik-hizmetlerinde-yesil-alan-uygulamasipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11045",
@@ -1755,7 +2493,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11045/ruhsatli-diyaliz-merkezlerinin-hastalarini-sisteme-kayit-yapmalarini-saglayan-genelge-20126.html",
   "tip": "html",
-  "dosya": "11045.html"
+  "dosya": "11045.html",
+  "ekler": [
+   {
+    "dosya": "11045-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1059/0/organ-nakli-2012-6pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11044",
@@ -1763,7 +2509,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11044/organ-nakli-merkezlerinin-2012-yili-planlamasi-201167.html",
   "tip": "html",
-  "dosya": "11044.html"
+  "dosya": "11044.html",
+  "ekler": [
+   {
+    "dosya": "11044-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1058/0/genelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11043",
@@ -1771,7 +2525,8 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11043/bilgilendirme-ve-tanitim-faliyetleri-konulu-201159-sayili-genelge.html",
   "tip": "html",
-  "dosya": "11043.html"
+  "dosya": "11043.html",
+  "ekler": []
  },
  {
   "trid": "11042",
@@ -1779,7 +2534,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11042/201157-nolu-istatistik-formlari-revizyonu-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11042.html"
+  "dosya": "11042.html",
+  "ekler": [
+   {
+    "dosya": "11042-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1057/0/genelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11041",
@@ -1787,7 +2550,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11041/yatakli-tedavi-kurumlarinda-yatan-hastalara-iliskin-uygulamalar-hakkinda-genelge-2002-23.html",
   "tip": "html",
-  "dosya": "11041.html"
+  "dosya": "11041.html",
+  "ekler": [
+   {
+    "dosya": "11041-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1056/0/2002-23pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11040",
@@ -1795,7 +2566,21 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11040/ramazan-bayrami-hakkinda-genelge-201148.html",
   "tip": "html",
-  "dosya": "11040.html"
+  "dosya": "11040.html",
+  "ekler": [
+   {
+    "dosya": "11040-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1053/0/bayramgenelgepdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11040-ek2.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1054/0/kopya-rt-merkez-listesixlsx.xlsx",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11039",
@@ -1803,7 +2588,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11039/icap-nobetlerinde-gorevli-personelin-ulasimi-hakkinda-genelge-201136.html",
   "tip": "html",
-  "dosya": "11039.html"
+  "dosya": "11039.html",
+  "ekler": [
+   {
+    "dosya": "11039-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1052/0/genelge201136doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11038",
@@ -1811,7 +2604,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11038/yogun-bakim-servislerine-hasta-yatirilmasi-hakkinda-genelge-201126.html",
   "tip": "html",
-  "dosya": "11038.html"
+  "dosya": "11038.html",
+  "ekler": [
+   {
+    "dosya": "11038-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1051/0/2011-26-sayili-genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11037",
@@ -1819,7 +2620,21 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11037/ev-hemodiyalizi-genelgesi-2013--4.html",
   "tip": "html",
-  "dosya": "11037.html"
+  "dosya": "11037.html",
+  "ekler": [
+   {
+    "dosya": "11037-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/40301/0/ev-hemodiyalizi-genelgesipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11037-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1049/0/evhemodiyalizekpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11036",
@@ -1827,7 +2642,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11036/asistan-calismalari-hakkinda-genelge-201119.html",
   "tip": "html",
-  "dosya": "11036.html"
+  "dosya": "11036.html",
+  "ekler": [
+   {
+    "dosya": "11036-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1047/0/asistan-calismalaridoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11035",
@@ -1835,7 +2658,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11035/hasta-tasima-hizmet-alimi-hakkinda-genelge201120.html",
   "tip": "html",
-  "dosya": "11035.html"
+  "dosya": "11035.html",
+  "ekler": [
+   {
+    "dosya": "11035-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1046/0/hasta-tasima-hizmet-alimidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11034",
@@ -1843,7 +2674,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11034/radyolojik-flim-atik-banyo-solusyonlari-ve-atik-rontgen-flimleri-hakkinda-genelge-201113.html",
   "tip": "html",
-  "dosya": "11034.html"
+  "dosya": "11034.html",
+  "ekler": [
+   {
+    "dosya": "11034-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1045/0/genelge201113pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11033",
@@ -1851,7 +2690,8 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11033/evde-saglik-hizmetlerinde-hizmet-verilen-hasta-dosyalarinda-yer-alacak-formlar-ilgili-genelge.html",
   "tip": "html",
-  "dosya": "11033.html"
+  "dosya": "11033.html",
+  "ekler": []
  },
  {
   "trid": "11032",
@@ -1859,7 +2699,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11032/acil-servislerde-bulunan-veznelerin-kaldirilmasi-20116.html",
   "tip": "html",
-  "dosya": "11032.html"
+  "dosya": "11032.html",
+  "ekler": [
+   {
+    "dosya": "11032-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1044/0/acil-servis-vezneleridoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11031",
@@ -1867,7 +2715,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11031/ulusal-organ-nakli-bilgi-sistemi-hakkinda-genelge-20114.html",
   "tip": "html",
-  "dosya": "11031.html"
+  "dosya": "11031.html",
+  "ekler": [
+   {
+    "dosya": "11031-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1043/0/2011-4pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11030",
@@ -1875,7 +2731,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11030/bakanligimiza-tahsisli-tasinmazlardaki-bufe-kantin-cay-ocagi-gibi-yerlerin-amacina-yonelik-kullanilmasi-hakkinda-genelge-20112.html",
   "tip": "html",
-  "dosya": "11030.html"
+  "dosya": "11030.html",
+  "ekler": [
+   {
+    "dosya": "11030-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1041/0/2011-2doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11029",
@@ -1883,7 +2747,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11029/gezici-saglik-araclari-ve-mobil-uniteler-hakkinda-201081.html",
   "tip": "html",
-  "dosya": "11029.html"
+  "dosya": "11029.html",
+  "ekler": [
+   {
+    "dosya": "11029-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1040/0/genelge1doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11028",
@@ -1891,7 +2763,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11028/poliklinik-hizmetlerinde-oncelik-sirasi-hakkinda-genelge-201073-80.html",
   "tip": "html",
-  "dosya": "11028.html"
+  "dosya": "11028.html",
+  "ekler": [
+   {
+    "dosya": "11028-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1039/0/2010-73-80doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11027",
@@ -1899,7 +2779,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11027/tibbi-atiklarin-kontrolu-yonetmeligi-uygulamalari-hakkinda-genelge201075.html",
   "tip": "html",
-  "dosya": "11027.html"
+  "dosya": "11027.html",
+  "ekler": [
+   {
+    "dosya": "11027-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1036/0/2010-75pdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11027-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1037/0/ek-1xls.xls",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11027-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1038/0/ek-2xls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11026",
@@ -1907,7 +2807,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11026/organ-nakli-merkezi-2011-yili-planlamasi201067.html",
   "tip": "html",
-  "dosya": "11026.html"
+  "dosya": "11026.html",
+  "ekler": [
+   {
+    "dosya": "11026-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1035/0/genelge-2010-67pdf.PDF",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11025",
@@ -1915,7 +2823,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11025/saglik-personeli-calisma-saatleri-201055.html",
   "tip": "html",
-  "dosya": "11025.html"
+  "dosya": "11025.html",
+  "ekler": [
+   {
+    "dosya": "11025-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1034/0/saglik-personeli-calisma-saatleridoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11023",
@@ -1923,7 +2839,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11023/hastanelerle-ticari-iliskisi-bulunan--kisi-ve-firmalar-hakkinda-genelge-201051.html",
   "tip": "html",
-  "dosya": "11023.html"
+  "dosya": "11023.html",
+  "ekler": [
+   {
+    "dosya": "11023-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1027/0/ticari-iliski-genelgesi-doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11022",
@@ -1931,7 +2855,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11022/yogun-bakim-ve-yenidogan-yogunbakim-unitelerinde-hizmet-sunumu-ve-isleyis-konusunda-genelge-201045-hakkkinda-duyuru.html",
   "tip": "html",
-  "dosya": "11022.html"
+  "dosya": "11022.html",
+  "ekler": [
+   {
+    "dosya": "11022-ek1.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1026/0/ybjpg.JPG",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11021",
@@ -1939,7 +2871,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11021/hasta-nakil-ve-sevk-esaslari-hakkinda-genelge-201046.html",
   "tip": "html",
-  "dosya": "11021.html"
+  "dosya": "11021.html",
+  "ekler": [
+   {
+    "dosya": "11021-ek1.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1025/0/acil-genelgejpg.JPG",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11020",
@@ -1947,7 +2887,21 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11020/total-parenteral-nutrisyon-icin-guvenli-uygulamalar-rehberi-201044.html",
   "tip": "html",
-  "dosya": "11020.html"
+  "dosya": "11020.html",
+  "ekler": [
+   {
+    "dosya": "11020-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1023/0/genelgetpndoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11020-ek2.docx",
+    "tip": "docx",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1024/0/tpn-28510docx.docx",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11019",
@@ -1955,7 +2909,21 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11019/yogun-bakim-ve-yeni-dogan-yogun-bakim-unitelerinde-hizmet-sunumu-ve-isleyisi-hakkinda-genelge-201045.html",
   "tip": "html",
-  "dosya": "11019.html"
+  "dosya": "11019.html",
+  "ekler": [
+   {
+    "dosya": "11019-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1021/0/yogun-bakim-genelgedoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11019-ek2.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1022/0/form2jpg.jpg",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11018",
@@ -1963,7 +2931,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11018/kiyafetler-hakkinda-genelge-201034.html",
   "tip": "html",
-  "dosya": "11018.html"
+  "dosya": "11018.html",
+  "ekler": [
+   {
+    "dosya": "11018-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1020/0/kiyafet-genelgesidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11017",
@@ -1971,7 +2947,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11017/halkla-iliskiler-personeli-ve-tibbi-sekreter-istihdami-201032.html",
   "tip": "html",
-  "dosya": "11017.html"
+  "dosya": "11017.html",
+  "ekler": [
+   {
+    "dosya": "11017-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1019/0/halkla-iliskiler-personeli-ve-tibbi-dsekreter-istihdamidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11016",
@@ -1979,7 +2963,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11016/nobet-ucretleri-hakkinda-201021.html",
   "tip": "html",
-  "dosya": "11016.html"
+  "dosya": "11016.html",
+  "ekler": [
+   {
+    "dosya": "11016-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1018/0/nobet-ucretleridoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11015",
@@ -1987,7 +2979,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11015/ozel-hasta-odalari-ucretleri-hakkinda--genelge201018.html",
   "tip": "html",
-  "dosya": "11015.html"
+  "dosya": "11015.html",
+  "ekler": [
+   {
+    "dosya": "11015-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1017/0/ozelhastagenelgedoc.DOC",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11014",
@@ -1995,7 +2995,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11014/ilac-ve-tibbi-sarf-malzemesi-alimlari-genelgesi-2010-10.html",
   "tip": "html",
-  "dosya": "11014.html"
+  "dosya": "11014.html",
+  "ekler": [
+   {
+    "dosya": "11014-ek1.docx",
+    "tip": "docx",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1016/0/genelge-2010-10docx.docx",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11013",
@@ -2003,7 +3011,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11013/tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri-hakkinda-genelge-201011.html",
   "tip": "html",
-  "dosya": "11013.html"
+  "dosya": "11013.html",
+  "ekler": [
+   {
+    "dosya": "11013-ek1.docx",
+    "tip": "docx",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1012/0/tibbicihazlarlailgilimalvehizmetalimi-islemlerihakkindagenelgedocx.docx",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11013-ek2.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1014/0/eklerrar.rar",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11013-ek3.docx",
+    "tip": "docx",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1015/0/2010-11-sayili-genelge-aciklamasidocx.docx",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11012",
@@ -2011,7 +3039,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11012/mesai-disi-poliklinik-uygulamasi-hakkinda-genelge-20106.html",
   "tip": "html",
-  "dosya": "11012.html"
+  "dosya": "11012.html",
+  "ekler": [
+   {
+    "dosya": "11012-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1011/0/mesai-disi-poliklinik-uygulamasidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11011",
@@ -2019,7 +3055,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11011/hizmet-ici-egitim-yonetmeligi-genelgesi.html",
   "tip": "html",
-  "dosya": "11011.html"
+  "dosya": "11011.html",
+  "ekler": [
+   {
+    "dosya": "11011-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1009/0/hieyongenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11010",
@@ -2027,7 +3071,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11010/yangin-onleme-ve-sondurme-denetimleri-hakkinda-genelge20102.html",
   "tip": "html",
-  "dosya": "11010.html"
+  "dosya": "11010.html",
+  "ekler": [
+   {
+    "dosya": "11010-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1000/0/genelge2010-2doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11010-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1002/0/2010-2-ekxls.xls",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11010-ek3.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1003/0/ek-2pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11009",
@@ -2035,7 +3099,21 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11009/992-ve-3153-sayili-kanun-kapsaminda-laboratuvar-basvurulari-hakkinda-genelge-20101.html",
   "tip": "html",
-  "dosya": "11009.html"
+  "dosya": "11009.html",
+  "ekler": [
+   {
+    "dosya": "11009-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/998/0/genelgedoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11009-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/999/0/eklersondoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11008",
@@ -2043,7 +3121,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11008/denetimli-serbestlik-tedbirleri-uygulanan-kisilerin-tedavileri-200982.html",
   "tip": "html",
-  "dosya": "11008.html"
+  "dosya": "11008.html",
+  "ekler": [
+   {
+    "dosya": "11008-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/995/0/genelgelerdoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11008-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/996/0/denetimli-serbestlik-genelgesi-ekleri12456doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11008-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/997/0/ek-3-ab-alti-haftalik-takip-ve-bilgi-formudoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11007",
@@ -2051,7 +3149,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11007/mesleki-beceri-egitimi-gorecek-ogrenci-sayisinin-belirlenmesi-200977.html",
   "tip": "html",
-  "dosya": "11007.html"
+  "dosya": "11007.html",
+  "ekler": [
+   {
+    "dosya": "11007-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/994/0/mesleki-beceri-egitimi-gorecek-ogrenci-sayisinin-belirlenmesi-genelge-2009-77doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11006",
@@ -2059,7 +3165,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11006/bayram-tatili-ve-pandemi-surecindeki-izinlerle-ilgili-genelge-200976.html",
   "tip": "html",
-  "dosya": "11006.html"
+  "dosya": "11006.html",
+  "ekler": [
+   {
+    "dosya": "11006-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/993/0/bayramtatiligenelgesi21doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11005",
@@ -2067,7 +3181,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11005/merkezi-hastane-randevu-sistemi-entegrasyonu-genelgesi-200965.html",
   "tip": "html",
-  "dosya": "11005.html"
+  "dosya": "11005.html",
+  "ekler": [
+   {
+    "dosya": "11005-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/992/0/2009-65doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11004",
@@ -2075,7 +3197,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11004/saglik-kurumlarinda-izinlerin-planlanmasi-hakkinda-genelge-200959.html",
   "tip": "html",
-  "dosya": "11004.html"
+  "dosya": "11004.html",
+  "ekler": [
+   {
+    "dosya": "11004-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/991/0/2009-59doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11003",
@@ -2083,7 +3213,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11003/ilac-tanitimi-hakkinda-genelge-200958.html",
   "tip": "html",
-  "dosya": "11003.html"
+  "dosya": "11003.html",
+  "ekler": [
+   {
+    "dosya": "11003-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/990/0/2009-58doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11002",
@@ -2091,7 +3229,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11002/4b-sozlesmeli-personele-iliskin--saglik-kurulu-raporlari-hakkinda-genelge-200949.html",
   "tip": "html",
-  "dosya": "11002.html"
+  "dosya": "11002.html",
+  "ekler": [
+   {
+    "dosya": "11002-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/989/0/genelge4bdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11001",
@@ -2099,7 +3245,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11001/yogun-bakim-unitelerinin-standartlari-genelgesi-200956.html",
   "tip": "html",
-  "dosya": "11001.html"
+  "dosya": "11001.html",
+  "ekler": [
+   {
+    "dosya": "11001-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/988/0/yogumbakimgenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11000",
@@ -2107,7 +3261,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11000/tibbi-cihaz-statusundeki-urunlerin-uygunsuzluklarinin-bildirimi-hakkinda-genelge-200953.html",
   "tip": "html",
-  "dosya": "11000.html"
+  "dosya": "11000.html",
+  "ekler": [
+   {
+    "dosya": "11000-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/987/0/urunuygunsuzlugudoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10999",
@@ -2115,7 +3277,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10999/tipta-uzmanlik-belgeleri-tescil-islemleri.html",
   "tip": "html",
-  "dosya": "10999.html"
+  "dosya": "10999.html",
+  "ekler": [
+   {
+    "dosya": "10999-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/986/0/tescilgenelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10998",
@@ -2123,7 +3293,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10998/cerrahi-mudahale-birimlerinde-uygulanacak-cerrahi-mudahale-listesi-hakkinda-genelge200942.html",
   "tip": "html",
-  "dosya": "10998.html"
+  "dosya": "10998.html",
+  "ekler": [
+   {
+    "dosya": "10998-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/983/0/genelgemetindoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10998-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/984/0/eklerxls.xls",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10998-ek3.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/985/0/resim-032jpg.jpg",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10997",
@@ -2131,7 +3321,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10997/ilac-firmalari-temsilcilerinin-ilac-tanitimi-hakkinda-genelge-200941.html",
   "tip": "html",
-  "dosya": "10997.html"
+  "dosya": "10997.html",
+  "ekler": [
+   {
+    "dosya": "10997-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/981/0/ilactanitimgenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10996",
@@ -2139,7 +3337,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10996/doku-ve-hucre-laboratuvari-ve-bankaciligi-hakkinda-genelge-200935.html",
   "tip": "html",
-  "dosya": "10996.html"
+  "dosya": "10996.html",
+  "ekler": [
+   {
+    "dosya": "10996-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/980/0/dis-bankasidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10995",
@@ -2147,7 +3353,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10995/zorunlu-kan-temini-hakkinda-genelge-200937.html",
   "tip": "html",
-  "dosya": "10995.html"
+  "dosya": "10995.html",
+  "ekler": [
+   {
+    "dosya": "10995-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/979/0/kan-genelge-4doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10994",
@@ -2155,7 +3369,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10994/tibbi-malzeme-katilim-payi-hakkinda-genelge-200934.html",
   "tip": "html",
-  "dosya": "10994.html"
+  "dosya": "10994.html",
+  "ekler": [
+   {
+    "dosya": "10994-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/978/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10993",
@@ -2163,7 +3385,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10993/yenidogan-yogun-bakim-unitelerinin-denetimi-genelegesi-200922.html",
   "tip": "html",
-  "dosya": "10993.html"
+  "dosya": "10993.html",
+  "ekler": [
+   {
+    "dosya": "10993-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/975/0/genelgewebdoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10993-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/976/0/ek1denetimformuwebdoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10993-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/977/0/ek2webdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10992",
@@ -2171,7 +3413,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10992/ilac-firmalari-temsilcileri-hakkinda-genelge-200925.html",
   "tip": "html",
-  "dosya": "10992.html"
+  "dosya": "10992.html",
+  "ekler": [
+   {
+    "dosya": "10992-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/974/0/ilacfirmalarigenelgesidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10991",
@@ -2179,7 +3429,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10991/dis-protez-laboratuvarlari-calisma-ortamlari-hakkinda-genelge-2009-20.html",
   "tip": "html",
-  "dosya": "10991.html"
+  "dosya": "10991.html",
+  "ekler": [
+   {
+    "dosya": "10991-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/973/0/disprotezteknisyenlerinincalismaortamlaihakkindagenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10990",
@@ -2187,7 +3445,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10990/hasta-haklari-uygulamasi-genelgesi-2009-21.html",
   "tip": "html",
-  "dosya": "10990.html"
+  "dosya": "10990.html",
+  "ekler": [
+   {
+    "dosya": "10990-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/972/0/2009-21-genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10989",
@@ -2195,7 +3461,21 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10989/saglik-yatirimlari-hakkinda-genelge-200919.html",
   "tip": "html",
-  "dosya": "10989.html"
+  "dosya": "10989.html",
+  "ekler": [
+   {
+    "dosya": "10989-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/970/0/genelge2009-19doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10989-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/971/0/genelgeyatirimdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10987",
@@ -2203,7 +3483,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10987/yatakli-tedavi-kurumlarinda-cicek-bulundurma-genelgesi-20092.html",
   "tip": "html",
-  "dosya": "10987.html"
+  "dosya": "10987.html",
+  "ekler": [
+   {
+    "dosya": "10987-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/968/0/cicekgenelgesidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10986",
@@ -2211,7 +3499,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10986/diyaliz-membran-sartnameleri-genelgesi-20091.html",
   "tip": "html",
-  "dosya": "10986.html"
+  "dosya": "10986.html",
+  "ekler": [
+   {
+    "dosya": "10986-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/967/0/diyalizmebrangenelgesidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10985",
@@ -2219,7 +3515,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10985/toplum-sagliginin-korunmasi-ve-gerekli-denetimlerin-saglanmasi-hakkinda-genelge-200878.html",
   "tip": "html",
-  "dosya": "10985.html"
+  "dosya": "10985.html",
+  "ekler": [
+   {
+    "dosya": "10985-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/966/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10984",
@@ -2227,7 +3531,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10984/mali-konulardaki-uygulamalar-genelgesi-200877.html",
   "tip": "html",
-  "dosya": "10984.html"
+  "dosya": "10984.html",
+  "ekler": [
+   {
+    "dosya": "10984-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/963/0/genelge200877doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10984-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/964/0/ek1--2xls.xls",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10984-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/965/0/ek3xls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10983",
@@ -2235,7 +3559,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10983/dis-protez-teknisyenligi-meslek-hastaliklari-genelgesi-200876.html",
   "tip": "html",
-  "dosya": "10983.html"
+  "dosya": "10983.html",
+  "ekler": [
+   {
+    "dosya": "10983-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/962/0/disprotezgenelgesiidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10982",
@@ -2243,7 +3575,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10982/hastane-yatak-sayilari-vetanimlari-ile-ilgili-genelge-200865.html",
   "tip": "html",
-  "dosya": "10982.html"
+  "dosya": "10982.html",
+  "ekler": [
+   {
+    "dosya": "10982-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/961/0/ekpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10981",
@@ -2251,7 +3591,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10981/psiko-teknik-degerlendirme-merkezi-hakkinda-genelge-200861.html",
   "tip": "html",
-  "dosya": "10981.html"
+  "dosya": "10981.html",
+  "ekler": [
+   {
+    "dosya": "10981-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/959/0/psikoteknikgenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10980",
@@ -2259,7 +3607,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10980/beyin-olumu-bildirimlerinin-ve-kadavra-organ-bagisinin-artirilmasi-genelgesi-200860.html",
   "tip": "html",
-  "dosya": "10980.html"
+  "dosya": "10980.html",
+  "ekler": [
+   {
+    "dosya": "10980-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/958/0/organbagisigenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10979",
@@ -2267,7 +3623,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10979/yogun-bakim-unitelerinin-standartlari-genelgesi-200853.html",
   "tip": "html",
-  "dosya": "10979.html"
+  "dosya": "10979.html",
+  "ekler": [
+   {
+    "dosya": "10979-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/957/0/yogunbakimgenelgesi200853doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10978",
@@ -2275,7 +3639,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10978/ayakta-teshis-ve-tedavi-yapilan-ozel-saglik-kuruluslari-ile-ilgili-uygulamalar-hakkinda-genelge-200847.html",
   "tip": "html",
-  "dosya": "10978.html"
+  "dosya": "10978.html",
+  "ekler": [
+   {
+    "dosya": "10978-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/956/0/attgenelge1962008doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10977",
@@ -2283,7 +3655,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10977/ozel-hastaneler-ile-ilgili--uygulamalar-hakkinda-genelge-200848.html",
   "tip": "html",
-  "dosya": "10977.html"
+  "dosya": "10977.html",
+  "ekler": [
+   {
+    "dosya": "10977-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/955/0/ozelhastanegenelge1962008doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10976",
@@ -2291,7 +3671,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10976/ozel-saglik-kuruluslari-bina-durumu-hakkinda-genelge-200830.html",
   "tip": "html",
-  "dosya": "10976.html"
+  "dosya": "10976.html",
+  "ekler": [
+   {
+    "dosya": "10976-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/954/0/genelge2doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10975",
@@ -2299,7 +3687,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10975/tibbi-oksijen-yogunlastirci-cihazlarin-temini-hakkinda-genelge-200826.html",
   "tip": "html",
-  "dosya": "10975.html"
+  "dosya": "10975.html",
+  "ekler": [
+   {
+    "dosya": "10975-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/952/0/tibbioksijengenelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10974",
@@ -2307,7 +3703,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10974/ayakta-teshis-ve-tedavi-yapilan-ozel-saglik-kuruluslari-hakkinda-yonetmelik-hakkinda-genelge-200817.html",
   "tip": "html",
-  "dosya": "10974.html"
+  "dosya": "10974.html",
+  "ekler": [
+   {
+    "dosya": "10974-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/950/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10973",
@@ -2315,7 +3719,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10973/ayakta-teshis-ve-tedavi-yapilan-ozel-saglik-kuruluslari-hakkindaki-yonetmelik-ile-ilgili-genelge-200811.html",
   "tip": "html",
-  "dosya": "10973.html"
+  "dosya": "10973.html",
+  "ekler": [
+   {
+    "dosya": "10973-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/949/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10972",
@@ -2323,7 +3735,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10972/ozel-hastaneler-yonetmeliginde-degisikligi-ile-ilgili-genelge-200810.html",
   "tip": "html",
-  "dosya": "10972.html"
+  "dosya": "10972.html",
+  "ekler": [
+   {
+    "dosya": "10972-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/948/0/ozelhastanegenelge1doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10971",
@@ -2331,7 +3751,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10971/hastanelerde-fotograf-ve-kamera-cekimi-hakkinda-genelge-20084.html",
   "tip": "html",
-  "dosya": "10971.html"
+  "dosya": "10971.html",
+  "ekler": [
+   {
+    "dosya": "10971-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/947/0/fotokameradoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10970",
@@ -2339,7 +3767,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10970/tibbi-atik-depolari-hakkinda-genelge-2007100.html",
   "tip": "html",
-  "dosya": "10970.html"
+  "dosya": "10970.html",
+  "ekler": [
+   {
+    "dosya": "10970-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/945/0/tibbidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10969",
@@ -2347,7 +3783,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10969/agiz-ve-dis-sagligi-hizmetleri-200789.html",
   "tip": "html",
-  "dosya": "10969.html"
+  "dosya": "10969.html",
+  "ekler": [
+   {
+    "dosya": "10969-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/944/0/agiz-ve-dis-sagligi-hizmetleridoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10968",
@@ -2355,7 +3799,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10968/radyasyon-kaynaklari-ile-calisan-kamu-saglik-personeli-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "10968.html"
+  "dosya": "10968.html",
+  "ekler": [
+   {
+    "dosya": "10968-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1077/0/radyasyonpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10967",
@@ -2363,7 +3815,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10967/ivig-tedavisi-genelgesi.html",
   "tip": "html",
-  "dosya": "10967.html"
+  "dosya": "10967.html",
+  "ekler": [
+   {
+    "dosya": "10967-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/942/0/immunglobulin-genelge11doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10966",
@@ -2371,7 +3831,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10966/fizyoterapi-uygulamalari-genelgesi-200776.html",
   "tip": "html",
-  "dosya": "10966.html"
+  "dosya": "10966.html",
+  "ekler": [
+   {
+    "dosya": "10966-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/940/0/genelgdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10965",
@@ -2379,7 +3847,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10965/kurum-idari-kurul-kararlari-200716.html",
   "tip": "html",
-  "dosya": "10965.html"
+  "dosya": "10965.html",
+  "ekler": [
+   {
+    "dosya": "10965-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/939/0/kurumidarikurulkararlarigenelge2007-16doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10964",
@@ -2387,7 +3863,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10964/hasta-ve-hasta-yakinlari-memnuniyet-anketi-uygulama-hizmetleri-ihalesine-dair-genelge.html",
   "tip": "html",
-  "dosya": "10964.html"
+  "dosya": "10964.html",
+  "ekler": [
+   {
+    "dosya": "10964-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/938/0/secilen-illerxls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10963",
@@ -2395,7 +3879,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10963/pratisyen-tabiplerin-hasta-yatirma-suresi-genelgesi-200749.html",
   "tip": "html",
-  "dosya": "10963.html"
+  "dosya": "10963.html",
+  "ekler": [
+   {
+    "dosya": "10963-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/937/0/pratisyentabiplerihastayatirmasuresidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10962",
@@ -2403,7 +3895,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10962/tibbi-malzeme-temini-ve-odeme-esaslari.html",
   "tip": "html",
-  "dosya": "10962.html"
+  "dosya": "10962.html",
+  "ekler": [
+   {
+    "dosya": "10962-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/936/0/genelge-010-06doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10960",
@@ -2411,7 +3911,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10960/hasta-odalarinin-duzenlenmesi.html",
   "tip": "html",
-  "dosya": "10960.html"
+  "dosya": "10960.html",
+  "ekler": [
+   {
+    "dosya": "10960-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/933/0/hastaodalarininduzenlenmesidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10959",
@@ -2419,7 +3927,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10959/kan-ve-kan-urunleri-temini.html",
   "tip": "html",
-  "dosya": "10959.html"
+  "dosya": "10959.html",
+  "ekler": [
+   {
+    "dosya": "10959-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/932/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10958",
@@ -2427,7 +3943,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10958/ozel-hastanelerin-uzmanlik-dali-ilave-islemleri-hakkina-genelge.html",
   "tip": "html",
-  "dosya": "10958.html"
+  "dosya": "10958.html",
+  "ekler": [
+   {
+    "dosya": "10958-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/931/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10957",
@@ -2435,7 +3959,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10957/200730-sayili-ev-hemodiyalizi-genelgesinde-200838-sayili-genelge-ile-degisiklik-yapilmistir.html",
   "tip": "html",
-  "dosya": "10957.html"
+  "dosya": "10957.html",
+  "ekler": [
+   {
+    "dosya": "10957-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/930/0/evhemodiyalizi1doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10956",
@@ -2443,7 +3975,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10956/bastabip-yardimcilarinin-nobetleri-200710.html",
   "tip": "html",
-  "dosya": "10956.html"
+  "dosya": "10956.html",
+  "ekler": [
+   {
+    "dosya": "10956-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/929/0/200710doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10955",
@@ -2451,7 +3991,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10955/ilce-hastaneleri-20077.html",
   "tip": "html",
-  "dosya": "10955.html"
+  "dosya": "10955.html",
+  "ekler": [
+   {
+    "dosya": "10955-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/927/0/20077doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10954",
@@ -2459,7 +4007,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10954/saglik-meslek-lisesi-ogrencilerinin-saglik-kurum-ve-kuruluslarinda-mesleki-beceri-egitimi-2007-2.html",
   "tip": "html",
-  "dosya": "10954.html"
+  "dosya": "10954.html",
+  "ekler": [
+   {
+    "dosya": "10954-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/925/0/smlstajdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10953",
@@ -2467,7 +4023,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10953/2007-4-nolu-genelge.html",
   "tip": "html",
-  "dosya": "10953.html"
+  "dosya": "10953.html",
+  "ekler": [
+   {
+    "dosya": "10953-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/921/0/genelge-2007-4doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10952",
@@ -2475,7 +4039,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10952/2007-1-nolu-genelge.html",
   "tip": "html",
-  "dosya": "10952.html"
+  "dosya": "10952.html",
+  "ekler": [
+   {
+    "dosya": "10952-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/918/0/genelge-2007-1doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10951",
@@ -2483,7 +4055,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10951/sspe-hastaliginda-inosine-pranobex-etken-maddeli-ilacin-temini-2006123.html",
   "tip": "html",
-  "dosya": "10951.html"
+  "dosya": "10951.html",
+  "ekler": [
+   {
+    "dosya": "10951-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/916/0/genelge123doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10949",
@@ -2491,7 +4071,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10949/kaliteyi-gelistirme-ve-performans-degerlendirme-yonergesi.html",
   "tip": "html",
-  "dosya": "10949.html"
+  "dosya": "10949.html",
+  "ekler": [
+   {
+    "dosya": "10949-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/913/0/genelge124doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10948",
@@ -2499,7 +4087,15 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-10948/ihtiyac-fazlasi-sertifikali-personel-2006131.html",
   "tip": "html",
-  "dosya": "10948.html"
+  "dosya": "10948.html",
+  "ekler": [
+   {
+    "dosya": "10948-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/912/0/gen131doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "103539",
@@ -2731,7 +4327,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-103511/nobet-hizmetleri-genelgesi-201616.html",
   "tip": "html",
-  "dosya": "103511.html"
+  "dosya": "103511.html",
+  "ekler": [
+   {
+    "dosya": "103511-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/48340/0/nobet-hizmetleri-genelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "103510",
@@ -2859,7 +4463,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-103494/kan-yoluyla-bulasan-hastaliklarin-onlenmesi-genelgesi-2002109.html",
   "tip": "html",
-  "dosya": "103494.html"
+  "dosya": "103494.html",
+  "ekler": [
+   {
+    "dosya": "103494-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/48323/0/kan-yoluyla-bulasan-hastalik-genelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "103492",
@@ -2907,7 +4519,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-103487/gebelere-demir-ve-d-vitamini-destek-uygulamalari-genelgesi-20204.html",
   "tip": "html",
-  "dosya": "103487.html"
+  "dosya": "103487.html",
+  "ekler": [
+   {
+    "dosya": "103487-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/48317/0/gebelere-demir-ve-d-vitamini-genelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "103486",
@@ -3099,7 +4719,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11171/nobetler-hakkinda-genelge-201412.html",
   "tip": "html",
-  "dosya": "11171.html"
+  "dosya": "11171.html",
+  "ekler": [
+   {
+    "dosya": "11171-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1274/0/genelge12pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11170",
@@ -3107,7 +4735,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11170/mesai-saatleri-harici-isyeri-hekimligi.html",
   "tip": "html",
-  "dosya": "11170.html"
+  "dosya": "11170.html",
+  "ekler": [
+   {
+    "dosya": "11170-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1273/0/mesaisonuispdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11169",
@@ -3115,7 +4751,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11169/tam-bugday-ekmeginin-tesviki-ve-ekmek-israfinin-onlenmesi-genelgesi.html",
   "tip": "html",
-  "dosya": "11169.html"
+  "dosya": "11169.html",
+  "ekler": [
+   {
+    "dosya": "11169-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1272/0/genelge-tam-bugdaypdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11168",
@@ -3123,7 +4767,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11168/organ-nakli-merkezleri-2013-yili-planlanmasi-201248.html",
   "tip": "html",
-  "dosya": "11168.html"
+  "dosya": "11168.html",
+  "ekler": [
+   {
+    "dosya": "11168-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1271/0/organnaklipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11167",
@@ -3131,7 +4783,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11167/olum-bildirim-sistemiobs-genelgesi.html",
   "tip": "html",
-  "dosya": "11167.html"
+  "dosya": "11167.html",
+  "ekler": [
+   {
+    "dosya": "11167-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/35821/0/obs--genelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11165",
@@ -3139,7 +4799,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11165/yenidoganlarda-k-vitamini-uygulamasina-iliskin-201017-sayili-genelge.html",
   "tip": "html",
-  "dosya": "11165.html"
+  "dosya": "11165.html",
+  "ekler": []
  },
  {
   "trid": "11164",
@@ -3147,7 +4808,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11164/meslek-hastaliklariyla-ilgili-genelge-150150-13062011.html",
   "tip": "html",
-  "dosya": "11164.html"
+  "dosya": "11164.html",
+  "ekler": [
+   {
+    "dosya": "11164-ek1.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1270/0/temelsiszip.zip",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11163",
@@ -3155,7 +4824,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11163/ureme-sagligi-egitimcileri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11163.html"
+  "dosya": "11163.html",
+  "ekler": []
  },
  {
   "trid": "11158",
@@ -3163,7 +4833,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11158/gebelere-d-vitamini-destek-programi.html",
   "tip": "html",
-  "dosya": "11158.html"
+  "dosya": "11158.html",
+  "ekler": []
  },
  {
   "trid": "11157",
@@ -3171,7 +4842,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11157/tutun-kontrolu-calismalarinda-kullanilan-200944-sayili-genelge-ekindeki-degisiklikler.html",
   "tip": "html",
-  "dosya": "11157.html"
+  "dosya": "11157.html",
+  "ekler": [
+   {
+    "dosya": "11157-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1264/0/gendoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11156",
@@ -3179,7 +4858,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11156/ureme-sagligi-hizmet-ici-egitimleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11156.html"
+  "dosya": "11156.html",
+  "ekler": []
  },
  {
   "trid": "11155",
@@ -3187,7 +4867,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11155/201079-sayili-ozurlu-kisilere-yonelik-saglik-hizmetlerinin-sunumuna-iliskin-genelge.html",
   "tip": "html",
-  "dosya": "11155.html"
+  "dosya": "11155.html",
+  "ekler": [
+   {
+    "dosya": "11155-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1263/0/ozurludoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11154",
@@ -3195,7 +4883,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11154/201074-sayili-verem-savasi-dispanserlerininacilmasikapatilmasiyer-degistirilmesi-ve-tahsisine-iliskin-genelge.html",
   "tip": "html",
-  "dosya": "11154.html"
+  "dosya": "11154.html",
+  "ekler": []
  },
  {
   "trid": "11153",
@@ -3203,7 +4892,21 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11153/yuzme-havuzlarinin-denetimi-genelgesi-2010.html",
   "tip": "html",
-  "dosya": "11153.html"
+  "dosya": "11153.html",
+  "ekler": [
+   {
+    "dosya": "11153-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1260/0/havuzgenelgesidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11153-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1261/0/ekleridoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11152",
@@ -3211,7 +4914,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11152/dogum-ve-sezaryen-eylemi-yonetim-rehberi---2010--42.html",
   "tip": "html",
-  "dosya": "11152.html"
+  "dosya": "11152.html",
+  "ekler": [
+   {
+    "dosya": "11152-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1259/0/dogumsezaryeneylemiyonetimrehberi26052010doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11151",
@@ -3219,7 +4930,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11151/birinci-basamak-saglik-hizmetlerinde-lojman-tahsisi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11151.html"
+  "dosya": "11151.html",
+  "ekler": [
+   {
+    "dosya": "11151-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1258/0/lojmangenelgesidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11149",
@@ -3227,7 +4946,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11149/acil-obstetrik-bakim-yonetim-rehberi-2010--28.html",
   "tip": "html",
-  "dosya": "11149.html"
+  "dosya": "11149.html",
+  "ekler": [
+   {
+    "dosya": "11149-ek1.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1257/0/aobekimzip.zip",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11148",
@@ -3235,7 +4962,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11148/dogum-sonu-bakim-yonetim-rehberi-genelgesi-2010--27.html",
   "tip": "html",
-  "dosya": "11148.html"
+  "dosya": "11148.html",
+  "ekler": [
+   {
+    "dosya": "11148-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1256/0/dogumsonubakim04052010doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11147",
@@ -3243,7 +4978,21 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11147/ambulans-hava-araci-isletmesine-dair-esaslar.html",
   "tip": "html",
-  "dosya": "11147.html"
+  "dosya": "11147.html",
+  "ekler": [
+   {
+    "dosya": "11147-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1254/0/genelge-ust-yazipdf.pdf",
+    "ustyazi": true
+   },
+   {
+    "dosya": "11147-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1255/0/hava-ambulans-genelge-2010doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11146",
@@ -3251,7 +5000,45 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11146/kizamik-kizamikcik-ve-konjenital-kizamikcik-kks-surveyansi-genelgesi-2010.html",
   "tip": "html",
-  "dosya": "11146.html"
+  "dosya": "11146.html",
+  "ekler": [
+   {
+    "dosya": "11146-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1237/0/kizamik-kizamikcikkks-surveyansigenelgesi2010pdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11146-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1238/0/ek-1-kizamik-kizamikcik-vaka-bildirim-ve-laboratuvar-istek-ve-sonuc-formupdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11146-ek3.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1239/0/ek-2-kizamik--kizamikcik-vaka-inceleme-formupdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11146-ek4.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1240/0/ek-3-laboratuvar-rehberipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11146-ek5.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1241/0/ek-4-izolasyon-onlemleripdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11146-ek6.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1242/0/ek-5-form-016xls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11145",
@@ -3259,7 +5046,21 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11145/dogum-oncesi-bakim-yonetim-rehberi-genelgesi-2010--13.html",
   "tip": "html",
-  "dosya": "11145.html"
+  "dosya": "11145.html",
+  "ekler": [
+   {
+    "dosya": "11145-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1235/0/01-risk-degerlendirme-formudoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11145-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1236/0/02-dob-yonetim-rehberidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11144",
@@ -3267,7 +5068,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11144/200951-sayili-dogrudan-gozetimli-tedavi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11144.html"
+  "dosya": "11144.html",
+  "ekler": [
+   {
+    "dosya": "11144-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1234/0/dogrudan-gozetimli-tedavi-hakkinda-genelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11143",
@@ -3275,7 +5084,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11143/200952-sayili-birinci-basamak-saglik-kuruluslarina-basvuran-tuberkuloz-supheli-bireylerden-balgam-toplanmasiquot-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11143.html"
+  "dosya": "11143.html",
+  "ekler": [
+   {
+    "dosya": "11143-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1231/0/birinci-basamak-saglik-kuruluslarina-basvuran-tuberkuloz-supheli-bireylerden-balgam-toplanmasi-hakkinda-genelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11142",
@@ -3283,7 +5100,27 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11142/ambalajli-sularin-yetki-devri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11142.html"
+  "dosya": "11142.html",
+  "ekler": [
+   {
+    "dosya": "11142-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1227/0/genelgedoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11142-ek2.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1228/0/eklerzip.zip",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11142-ek3.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1229/0/eklerrar.rar",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11140",
@@ -3291,7 +5128,27 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11140/bebek-olumleri-izlemi-sistemi-genelgesi-2009--31.html",
   "tip": "html",
-  "dosya": "11140.html"
+  "dosya": "11140.html",
+  "ekler": [
+   {
+    "dosya": "11140-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1223/0/ek-1-bebek-olumleri-bilgi-formudoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11140-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1224/0/ek-2-doldurma-kilavuzudoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11140-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1225/0/ek-3-il-bebek-olumlerini-inceleme-kurulu-calisma-formudoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11139",
@@ -3299,7 +5156,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11139/zehirlenme-bildirimleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11139.html"
+  "dosya": "11139.html",
+  "ekler": [
+   {
+    "dosya": "11139-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1222/0/zehirlenmedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11138",
@@ -3307,7 +5172,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11138/kot-giysilere-uygulanan-puskurtme-isleminde-kum-kullaniminin-yasaklanmasi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11138.html"
+  "dosya": "11138.html",
+  "ekler": [
+   {
+    "dosya": "11138-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1221/0/kotgendoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11137",
@@ -3315,7 +5188,45 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11137/genisletilmis-bagisiklama-programi-genelgesi-2009.html",
   "tip": "html",
-  "dosya": "11137.html"
+  "dosya": "11137.html",
+  "ekler": [
+   {
+    "dosya": "11137-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1205/0/gbp-genelgesi-2009doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11137-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1206/0/ek-1-ust-yazidoc.doc",
+    "ustyazi": true
+   },
+   {
+    "dosya": "11137-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1207/0/bebek-cocuk-asi-kartidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11137-ek4.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1208/0/bolge-disi-asi-bildirim-formudoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11137-ek5.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1209/0/cizelgeler-kpadoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11137-ek6.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1210/0/form-012-axls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11136",
@@ -3323,7 +5234,45 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11136/asi-sonrasi-istenmeyen-etkiler-genelgesi-2009.html",
   "tip": "html",
-  "dosya": "11136.html"
+  "dosya": "11136.html",
+  "ekler": [
+   {
+    "dosya": "11136-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1196/0/2009-asie-genelgesidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11136-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1197/0/ek-1-asie-bildirim-sistemi-semasidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11136-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1198/0/ek-2-vaka-tanimlaridoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11136-ek4.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1199/0/ek-3--asie-bildirim-ve-inceleme-formudoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11136-ek5.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1200/0/ek-4-saglik-personelinin-asie-ile-karsilastiginda-yapmasi-gerekenlerdoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11136-ek6.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1201/0/ek-5-vaka-arastirmasidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11135",
@@ -3331,7 +5280,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11135/hizmet-alimi-hakkinda-genelgeler.html",
   "tip": "html",
-  "dosya": "11135.html"
+  "dosya": "11135.html",
+  "ekler": [
+   {
+    "dosya": "11135-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1195/0/hizmetalimdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11134",
@@ -3339,7 +5296,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11134/kadina-yonelik-aile-ici-siddetle-mucadele-saha-egitimi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11134.html"
+  "dosya": "11134.html",
+  "ekler": [
+   {
+    "dosya": "11134-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1194/0/ailegendoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11133",
@@ -3347,7 +5312,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11133/hava-kirliligi-onlemleri-hakkinda-duyuru.html",
   "tip": "html",
-  "dosya": "11133.html"
+  "dosya": "11133.html",
+  "ekler": [
+   {
+    "dosya": "11133-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1193/0/sevgidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11132",
@@ -3355,7 +5328,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11132/acil-obstetrik-bakim-yonetim-rehberi-genelgesi-2009--5.html",
   "tip": "html",
-  "dosya": "11132.html"
+  "dosya": "11132.html",
+  "ekler": [
+   {
+    "dosya": "11132-ek1.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1192/0/aob-duzeltilmisprotokollersonzip.zip",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11131",
@@ -3363,7 +5344,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11131/hava-kirliligi-olcumlari-hakkinda-duyuru.html",
   "tip": "html",
-  "dosya": "11131.html"
+  "dosya": "11131.html",
+  "ekler": [
+   {
+    "dosya": "11131-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1191/0/havagendoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11130",
@@ -3371,7 +5360,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11130/200882-sayili-dispanser-personelinin-nobeti-ve-gorevlendirilmesi.html",
   "tip": "html",
-  "dosya": "11130.html"
+  "dosya": "11130.html",
+  "ekler": [
+   {
+    "dosya": "11130-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1190/0/genelge2doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11129",
@@ -3379,7 +5376,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11129/halk-sagligi-alaninda-kullanilan-pestisit-ve--benzeri-maddelerin-dogru-ve-guvenli-kullanimlari-konusunda-mesul-mudur-setifika-egitimi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11129.html"
+  "dosya": "11129.html",
+  "ekler": [
+   {
+    "dosya": "11129-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1189/0/mesulmudgenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11128",
@@ -3387,7 +5392,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11128/silikozis-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11128.html"
+  "dosya": "11128.html",
+  "ekler": [
+   {
+    "dosya": "11128-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1188/0/silikozisdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11127",
@@ -3395,7 +5408,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11127/4207-sayili-kanun-hukumlerinin-uygulanmasi.html",
   "tip": "html",
-  "dosya": "11127.html"
+  "dosya": "11127.html",
+  "ekler": [
+   {
+    "dosya": "11127-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1187/0/4207-sayili-kanun-genelge-220908doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11126",
@@ -3403,7 +5424,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11126/burokrasinin-azaltilmasi-ve-islemlerin-basitlestirilmesi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11126.html"
+  "dosya": "11126.html",
+  "ekler": [
+   {
+    "dosya": "11126-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1186/0/burokrasidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11125",
@@ -3411,7 +5440,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11125/okul-sagligi-hizmetleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11125.html"
+  "dosya": "11125.html",
+  "ekler": [
+   {
+    "dosya": "11125-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1185/0/okulgenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11124",
@@ -3419,7 +5456,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11124/aile-hekimligi-uygulamalarinda-pilot-il-disindan-yerlestirme-islemlerinde-uyulacak-esaslar.html",
   "tip": "html",
-  "dosya": "11124.html"
+  "dosya": "11124.html",
+  "ekler": []
  },
  {
   "trid": "11123",
@@ -3427,7 +5465,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11123/saglik-evleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11123.html"
+  "dosya": "11123.html",
+  "ekler": [
+   {
+    "dosya": "11123-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1184/0/saglikevigenelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11122",
@@ -3435,7 +5481,45 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11122/anne-olumleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11122.html"
+  "dosya": "11122.html",
+  "ekler": [
+   {
+    "dosya": "11122-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1177/0/anne-olumu-genelgesipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11122-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1178/0/formdoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11122-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1179/0/genelge1doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11122-ek4.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1180/0/duyurudoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11122-ek5.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1181/0/anneolumleri1doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11122-ek6.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1182/0/tsimtdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11121",
@@ -3443,7 +5527,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11121/yuzme-havuzlarinin-denetim-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11121.html"
+  "dosya": "11121.html",
+  "ekler": [
+   {
+    "dosya": "11121-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1176/0/havuz-suyu-genelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11120",
@@ -3451,7 +5543,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11120/pestisit-ve-benzeri-maddeler-hakkinda-yapilacak-yasal-islem-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11120.html"
+  "dosya": "11120.html",
+  "ekler": [
+   {
+    "dosya": "11120-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1175/0/genelge-yasal-islempdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11119",
@@ -3459,7 +5559,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11119/pestisit-etiket-onaylari-ve-ithal-izinleri.html",
   "tip": "html",
-  "dosya": "11119.html"
+  "dosya": "11119.html",
+  "ekler": [
+   {
+    "dosya": "11119-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1174/0/genelge-etiket-onaylaripdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11118",
@@ -3467,7 +5575,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11118/insektisitrodentisitmollususit-ithal-ve-uretim-basvuru-formu.html",
   "tip": "html",
-  "dosya": "11118.html"
+  "dosya": "11118.html",
+  "ekler": [
+   {
+    "dosya": "11118-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1173/0/psetbasvuruformupdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11117",
@@ -3475,7 +5591,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11117/kuduz-supheli-temas-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11117.html"
+  "dosya": "11117.html",
+  "ekler": [
+   {
+    "dosya": "11117-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1172/0/kuduzsuphepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11116",
@@ -3483,7 +5607,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11116/kuduz-ve-kuduz-riskli-temas-durumlarinda-yaklasim-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11116.html"
+  "dosya": "11116.html",
+  "ekler": [
+   {
+    "dosya": "11116-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1171/0/kuduzriskpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11115",
@@ -3491,7 +5623,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11115/sarbon-anti-serumu-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11115.html"
+  "dosya": "11115.html",
+  "ekler": [
+   {
+    "dosya": "11115-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1170/0/sarbonpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11114",
@@ -3499,7 +5639,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11114/4207-sayili-kanun-hukumlerinin-uygulanmasi.html",
   "tip": "html",
-  "dosya": "11114.html"
+  "dosya": "11114.html",
+  "ekler": [
+   {
+    "dosya": "11114-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1169/0/2006-8-sayili-genelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11113",
@@ -3507,7 +5655,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11113/kanser-kontrol-sube-mudurlugu-genelgesi.html",
   "tip": "html",
-  "dosya": "11113.html"
+  "dosya": "11113.html",
+  "ekler": [
+   {
+    "dosya": "11113-ek1.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1168/0/kanser-kontrol-sube-mudurlugu-genelgesizip.zip",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11112",
@@ -3515,7 +5671,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11112/verem-savasi-hizmetleri-genelgesi.html",
   "tip": "html",
-  "dosya": "11112.html"
+  "dosya": "11112.html",
+  "ekler": [
+   {
+    "dosya": "11112-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1167/0/verem-savasi-hizmetleri-1990-tarihli-genelgesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11111",
@@ -3523,7 +5687,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11111/tasinabilir-mobil-helalar-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11111.html"
+  "dosya": "11111.html",
+  "ekler": [
+   {
+    "dosya": "11111-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1166/0/helalardoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11110",
@@ -3531,7 +5703,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11110/tibbi-atiklar-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11110.html"
+  "dosya": "11110.html",
+  "ekler": [
+   {
+    "dosya": "11110-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1165/0/tibbiatikdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11109",
@@ -3539,7 +5719,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11109/bebek-ve-cocuk-izlem-protokolu-genelgesi-2008--45.html",
   "tip": "html",
-  "dosya": "11109.html"
+  "dosya": "11109.html",
+  "ekler": [
+   {
+    "dosya": "11109-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1164/0/p7doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11108",
@@ -3547,7 +5735,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11108/ozurlu-kisilere-yonelik-saglik-hizmetlerinin-sunumu-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11108.html"
+  "dosya": "11108.html",
+  "ekler": [
+   {
+    "dosya": "11108-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1163/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11107",
@@ -3555,7 +5751,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11107/asi-sonrasi-istenmeyen-etkiler-genelgesi.html",
   "tip": "html",
-  "dosya": "11107.html"
+  "dosya": "11107.html",
+  "ekler": [
+   {
+    "dosya": "11107-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1162/0/genelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11105",
@@ -3563,7 +5767,27 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11105/form-102102a-genelgesi-2008--5.html",
   "tip": "html",
-  "dosya": "11105.html"
+  "dosya": "11105.html",
+  "ekler": [
+   {
+    "dosya": "11105-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1158/0/yeni102doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11105-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1159/0/yeni-102-adoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11105-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1160/0/102-form-doldurma-klavuzudoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11104",
@@ -3571,7 +5795,21 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11104/dogum-oncesi-bakim-izlem-protokolu-genelgesi-2008--13.html",
   "tip": "html",
-  "dosya": "11104.html"
+  "dosya": "11104.html",
+  "ekler": [
+   {
+    "dosya": "11104-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1156/0/p02-dob-b1doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11104-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1157/0/p01-risk-degerlendirme-formu-consdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11103",
@@ -3579,7 +5817,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11103/pestisit-vb-ruhsat-suresi-ve-biyolojik-etkinlik-denemeleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11103.html"
+  "dosya": "11103.html",
+  "ekler": [
+   {
+    "dosya": "11103-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1155/0/ruhsatsuresdendoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11102",
@@ -3587,7 +5833,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11102/pestisit-ithalat-islemleri-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11102.html"
+  "dosya": "11102.html",
+  "ekler": [
+   {
+    "dosya": "11102-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1154/0/pestisititthalatdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11101",
@@ -3595,7 +5849,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11101/ruh-sagligi-hastalarinin-sevk-ve-takipleri.html",
   "tip": "html",
-  "dosya": "11101.html"
+  "dosya": "11101.html",
+  "ekler": [
+   {
+    "dosya": "11101-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1153/0/ruh-genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11100",
@@ -3603,7 +5865,27 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11100/gebelerde-demir-destek-programi-uygulumasi-genelgesi-2007--6.html",
   "tip": "html",
-  "dosya": "11100.html"
+  "dosya": "11100.html",
+  "ekler": [
+   {
+    "dosya": "11100-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1149/0/gddp-cizelgedoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11100-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1151/0/gebelerde-demir-destek-yeni--rehberdoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11100-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1152/0/akiscizelgesidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11099",
@@ -3611,7 +5893,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11099/entegre-ilce-hastanelerinden-gonderilmesi-gereken-formlar-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11099.html"
+  "dosya": "11099.html",
+  "ekler": [
+   {
+    "dosya": "11099-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1147/0/entegrehastanelergenelegesidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11098",
@@ -3619,7 +5909,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11098/birinci-basamak-saglik-hizmetlerinin-dogrudan--hizmet-alimi-yoluyla-sunulmasi-ve-ucretsiz-olmasi.html",
   "tip": "html",
-  "dosya": "11098.html"
+  "dosya": "11098.html",
+  "ekler": [
+   {
+    "dosya": "11098-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1145/0/genelge1basamakdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11097",
@@ -3627,7 +5925,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11097/illerde-tutun-kontrol-kurulu-kurulmasi.html",
   "tip": "html",
-  "dosya": "11097.html"
+  "dosya": "11097.html",
+  "ekler": [
+   {
+    "dosya": "11097-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1143/0/genelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11096",
@@ -3635,7 +5941,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11096/992-ve-3153-sayili-kanun-kapsamindaki-laboratuvarlar-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11096.html"
+  "dosya": "11096.html",
+  "ekler": [
+   {
+    "dosya": "11096-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1141/0/ek12doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11095",
@@ -3643,7 +5957,45 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11095/anne-olumleri-veri-sistemi-genelgesi-2007--27.html",
   "tip": "html",
-  "dosya": "11095.html"
+  "dosya": "11095.html",
+  "ekler": [
+   {
+    "dosya": "11095-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1131/0/usul-ve-esaslardoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11095-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1132/0/anne-olumu-defin-listesidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11095-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1133/0/anne-olumu-defin-bildirim-formudoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11095-ek4.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1134/0/anne-olumu-soru-kagididoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11095-ek5.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1135/0/saglik-kurumu-kayit-inceleme-formudoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11095-ek6.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1136/0/anne-olumu-il-bildirim-formudoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11094",
@@ -3651,7 +6003,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11094/surucu-davranislarini-gelistirme-egitimi-genelgesi.html",
   "tip": "html",
-  "dosya": "11094.html"
+  "dosya": "11094.html",
+  "ekler": [
+   {
+    "dosya": "11094-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1130/0/sudgenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11093",
@@ -3659,7 +6019,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11093/ulusal-medikal-kurtarma-ekipleri-umke-2009-yili-faaliyet-plani.html",
   "tip": "html",
-  "dosya": "11093.html"
+  "dosya": "11093.html",
+  "ekler": [
+   {
+    "dosya": "11093-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1129/0/2009umkepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11092",
@@ -3667,7 +6035,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11092/200661-mobil-tarama-ekiplerinin-idari-mali-ve-calisma-usullerinin-belirlenerek-il-saglik-mudurluklerine-devri-ilgili-genelge.html",
   "tip": "html",
-  "dosya": "11092.html"
+  "dosya": "11092.html",
+  "ekler": [
+   {
+    "dosya": "11092-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1128/0/109mobtarek22052006pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11091",
@@ -3675,7 +6051,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11091/200678-sayili-dogrudan-gozetimli-tedavi-uygulamasina-iliskin-esaslar-ilgili-genelge.html",
   "tip": "html",
-  "dosya": "11091.html"
+  "dosya": "11091.html",
+  "ekler": [
+   {
+    "dosya": "11091-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1127/0/106dgt0607206pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11090",
@@ -3683,7 +6067,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11090/200660-sayili-ek-odeme-yonetmeligi-geregi-verem-savas-dispanserleri-icin-belirlenen-performans-kriterleri-ile-ilgili-genelge.html",
   "tip": "html",
-  "dosya": "11090.html"
+  "dosya": "11090.html",
+  "ekler": [
+   {
+    "dosya": "11090-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1126/0/107perforkriter22052006pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11089",
@@ -3691,7 +6083,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11089/200588-sayili-tubekuloz-kontrolunde-tespit-edilen-hedeflere-ulasabilmek-icin-alinacak-tedbirler-ile-ilgili-genelge.html",
   "tip": "html",
-  "dosya": "11089.html"
+  "dosya": "11089.html",
+  "ekler": [
+   {
+    "dosya": "11089-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1125/0/97illerdetbkont26052005pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11088",
@@ -3699,7 +6099,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11088/200473-sayili-dispanser-personelinin-tayin-ve-gorevlendirmelerinde-verem-savasi-dairesi-baskanligindan-gorus-alinmasi-ile-ilgili-genelge.html",
   "tip": "html",
-  "dosya": "11088.html"
+  "dosya": "11088.html",
+  "ekler": [
+   {
+    "dosya": "11088-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1124/0/96personelgorev20052004pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11087",
@@ -3707,7 +6115,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11087/bulasici-hastaliklarin-ihbari-ve-bildirim-sistemi.html",
   "tip": "html",
-  "dosya": "11087.html"
+  "dosya": "11087.html",
+  "ekler": [
+   {
+    "dosya": "11087-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1123/0/bulasicihbargenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11086",
@@ -3715,7 +6131,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11086/bulasici-hastaliklarla-mucadele.html",
   "tip": "html",
-  "dosya": "11086.html"
+  "dosya": "11086.html",
+  "ekler": [
+   {
+    "dosya": "11086-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1122/0/bulasicigenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11085",
@@ -3723,7 +6147,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11085/egitim-saglik-ocagi-egitim-bolumu-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11085.html"
+  "dosya": "11085.html",
+  "ekler": [
+   {
+    "dosya": "11085-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1121/0/egitimsaglikocagidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11084",
@@ -3731,7 +6163,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11084/saglik-ocaginda-kullanilan-afisler-genelgesi.html",
   "tip": "html",
-  "dosya": "11084.html"
+  "dosya": "11084.html",
+  "ekler": [
+   {
+    "dosya": "11084-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1120/0/sagafisdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11083",
@@ -3739,7 +6179,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11083/mahalle-saglik-evlerinin-saglik-ocagi-ebe-bolgesi-olarak-degistirilmesi-ve-saglik-evlerinin-yeniden-duzenlenmesi-hakkindaki-genelge.html",
   "tip": "html",
-  "dosya": "11083.html"
+  "dosya": "11083.html",
+  "ekler": []
  },
  {
   "trid": "11082",
@@ -3747,7 +6188,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11082/ecza-dolaplari-talimatnamesi.html",
   "tip": "html",
-  "dosya": "11082.html"
+  "dosya": "11082.html",
+  "ekler": [
+   {
+    "dosya": "11082-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1119/0/eczadolaplartalimdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11081",
@@ -3755,7 +6204,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11081/saglik-kabinlerinin-acilisi-ve-isleyisi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11081.html"
+  "dosya": "11081.html",
+  "ekler": [
+   {
+    "dosya": "11081-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1118/0/saglikkabingenelgedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11080",
@@ -3763,7 +6220,15 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11080/genisletilmis-bagisiklama-programi-genelgesi.html",
   "tip": "html",
-  "dosya": "11080.html"
+  "dosya": "11080.html",
+  "ekler": [
+   {
+    "dosya": "11080-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1117/0/gbpgenelge2008pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11079",
@@ -3771,7 +6236,45 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11079/neonatal-tarama-programi-genelgesi-2006--130.html",
   "tip": "html",
-  "dosya": "11079.html"
+  "dosya": "11079.html",
+  "ekler": [
+   {
+    "dosya": "11079-ek1.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1109/0/hepsizip.zip",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11079-ek2.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1111/0/bilginotdoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11079-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1112/0/illerinhaftalikdagilimgunleridoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11079-ek4.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1113/0/konjhipotroiddanismancocukendokrincilerxls.xls",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11079-ek5.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1114/0/pedendklnklistroiddoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11079-ek6.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1116/0/word-dosyadoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11078",
@@ -3779,7 +6282,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11078/hizmet-ici-egitim-ve-halk-egitim-programlari-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11078.html"
+  "dosya": "11078.html",
+  "ekler": []
  },
  {
   "trid": "11077",
@@ -3787,7 +6291,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11077/kanser-kayitlari--genelge---2006--9-.html",
   "tip": "html",
-  "dosya": "11077.html"
+  "dosya": "11077.html",
+  "ekler": []
  },
  {
   "trid": "11076",
@@ -3795,7 +6300,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11076/1-7-nisan-kanser-haftasi-hakkinda-genelge.html",
   "tip": "html",
-  "dosya": "11076.html"
+  "dosya": "11076.html",
+  "ekler": []
  },
  {
   "trid": "11075",
@@ -3803,7 +6309,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11075/kanser-erken-teshis-ve-tarama-merkezi-hizmetlerinin-yurutulmesinde-uygulanacak-usul-ve-esaslargenelge---2006--10.html",
   "tip": "html",
-  "dosya": "11075.html"
+  "dosya": "11075.html",
+  "ekler": []
  },
  {
   "trid": "11068",
@@ -3811,7 +6318,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11068/demir-gibi-turkiye-projesi--genelgesi-2004--21.html",
   "tip": "html",
-  "dosya": "11068.html"
+  "dosya": "11068.html",
+  "ekler": []
  },
  {
   "trid": "11067",
@@ -3819,7 +6327,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11067/ishalli-hastaliklarin-kontrolu-genelgesi-2004--52.html",
   "tip": "html",
-  "dosya": "11067.html"
+  "dosya": "11067.html",
+  "ekler": []
  },
  {
   "trid": "11066",
@@ -3827,7 +6336,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11066/sosyal-riski-azaltma-projesi-kapsaminda-sartli-nakit-transferi-uygulamasi-genelgesi-2004--64.html",
   "tip": "html",
-  "dosya": "11066.html"
+  "dosya": "11066.html",
+  "ekler": []
  },
  {
   "trid": "11065",
@@ -3835,7 +6345,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11065/tup-bebek-irtibat-burosu-genelgesi-2004--68.html",
   "tip": "html",
-  "dosya": "11065.html"
+  "dosya": "11065.html",
+  "ekler": []
  },
  {
   "trid": "11064",
@@ -3843,7 +6354,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11064/hemoglobinopati-kontrol-programi-genelgesi-2005--62.html",
   "tip": "html",
-  "dosya": "11064.html"
+  "dosya": "11064.html",
+  "ekler": []
  },
  {
   "trid": "11063",
@@ -3851,7 +6363,8 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11063/iyot-haftasi-genelgesi-2005--72.html",
   "tip": "html",
-  "dosya": "11063.html"
+  "dosya": "11063.html",
+  "ekler": []
  },
  {
   "trid": "11173",
@@ -3859,7 +6372,15 @@
   "birim": "Proje Yönetim Destek Birimi",
   "url": "https://www.saglik.gov.tr/TR-11173/aralik-donemi-ek-odemeleri.html",
   "tip": "html",
-  "dosya": "11173.html"
+  "dosya": "11173.html",
+  "ekler": [
+   {
+    "dosya": "11173-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1275/0/aradonekodedoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11175",
@@ -3867,7 +6388,15 @@
   "birim": "Müsteşarlık",
   "url": "https://www.saglik.gov.tr/TR-11175/ek-odeme-ve-mali-haklar-hakkinda-genelge-201224.html",
   "tip": "html",
-  "dosya": "11175.html"
+  "dosya": "11175.html",
+  "ekler": [
+   {
+    "dosya": "11175-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1276/0/tabip-disi-personel-sabit-odemesikamu-gorevlileri-hakem-heyeti-kararlarigenelgepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11176",
@@ -3875,7 +6404,15 @@
   "birim": "Müsteşarlık",
   "url": "https://www.saglik.gov.tr/TR-11176/merkez-teskilati-hakem-kurulu-kararlari-201227-sayili-genelge.html",
   "tip": "html",
-  "dosya": "11176.html"
+  "dosya": "11176.html",
+  "ekler": [
+   {
+    "dosya": "11176-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1277/0/merkez-teskilati-hakem-kurulu-kararlarigenelge2012-27doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "25667",
@@ -3883,7 +6420,15 @@
   "birim": "Müsteşarlık",
   "url": "https://www.saglik.gov.tr/TR-25667/tasra-teskilati-isleyisine-yonelik-201717-sayili-genelge.html",
   "tip": "html",
-  "dosya": "25667.html"
+  "dosya": "25667.html",
+  "ekler": [
+   {
+    "dosya": "25667-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/11558/0/tarama0003pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "103365",
@@ -3899,7 +6444,15 @@
   "birim": "Sağlık Bilgi Sistemleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11184/sagliknet-online-ve-e-nabiz-hakkinda-20166-sayili-genelge.html",
   "tip": "html",
-  "dosya": "11184.html"
+  "dosya": "11184.html",
+  "ekler": [
+   {
+    "dosya": "11184-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/820/0/genelge20166pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11183",
@@ -3907,7 +6460,15 @@
   "birim": "Sağlık Bilgi Sistemleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11183/saglik-bilgi-sistemleri-uygulamalari-hakkinda-201517-sayili-genelge.html",
   "tip": "html",
-  "dosya": "11183.html"
+  "dosya": "11183.html",
+  "ekler": [
+   {
+    "dosya": "11183-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/810/0/sbsgmgenelge17pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "34353",
@@ -3915,7 +6476,15 @@
   "birim": "Teftiş Kurulu Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-34353/201811-disiplin-is-ve-islemleri.html",
   "tip": "html",
-  "dosya": "34353.html"
+  "dosya": "34353.html",
+  "ekler": [
+   {
+    "dosya": "34353-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/15357/0/genelge---11pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "100088",
@@ -3923,7 +6492,15 @@
   "birim": "Teftiş Kurulu Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-100088/bakanlik-mufettisleri-ve-faaliyetleri.html",
   "tip": "html",
-  "dosya": "100088.html"
+  "dosya": "100088.html",
+  "ekler": [
+   {
+    "dosya": "100088-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/46586/0/ustyazi-2pdf.pdf",
+    "ustyazi": true
+   }
+  ]
  },
  {
   "trid": "38096",

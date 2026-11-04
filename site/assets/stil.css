@@ -57,6 +57,8 @@ table.kunye td{padding:7px 12px;border:1px solid var(--cizgi);word-break:break-w
 .sonuc mark{background:#ffe58a}
 .alt{background:#1b2633;color:#cfd6de;font-size:.88rem;padding:20px 0}
 .alt .uyari{opacity:.8}
+.alt .ithaf{color:#fff}
+.ithaf-buyuk{font-size:1.1rem;border-left:4px solid var(--kirmizi);padding:10px 16px;background:var(--vurgu);border-radius:6px}
 .kucuk{font-size:.85rem;color:var(--soluk)}
 @media (max-width:700px){.menu a{margin:0 14px 0 0}.ana-ara{flex-direction:column}table.liste th:nth-child(n+3),table.liste td:nth-child(n+3){display:none}}
 @media print{.ust,.alt,.indir,.metin-ara,.yol,.etiketler{display:none}main{box-shadow:none}}

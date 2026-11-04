@@ -89,9 +89,20 @@ def ekleri_izle(tur):
         return
     ogeler = json.loads(dizin_yolu.read_text(encoding="utf-8"))
     klasor = KOK / "kaynak-isleme" / "indirilen" / tur
-    for i, o in enumerate(ogeler):
-        if o.get("tip") != "html" or o.get("ekler"):
-            continue
+    import concurrent.futures
+    isler = [o for o in ogeler if o.get("tip") == "html" and "ekler" not in o]
+    print(f"{tur}: {len(isler)} ara sayfa izlenecek", flush=True)
+    with concurrent.futures.ThreadPoolExecutor(4) as havuz:
+        for i, _ in enumerate(havuz.map(lambda o: ek_indir(o, klasor), isler)):
+            if (i + 1) % 20 == 0:
+                print(f"  {tur}: {i + 1}/{len(isler)}", flush=True)
+                dizin_yolu.write_text(json.dumps(ogeler, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    dizin_yolu.write_text(json.dumps(ogeler, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"{tur}: ekler tamam", flush=True)
+
+
+def ek_indir(o, klasor):
+    if True:
         sayfa = (klasor / o["dosya"]).read_text(encoding="utf-8", errors="replace")
         baglar = []
         for b in DOSYA_BAG.findall(sayfa):
@@ -103,9 +114,15 @@ def ekleri_izle(tur):
             m = re.search(r'href="(https?://(?:www\.)?mevzuat\.gov\.tr/[^"]+)"', sayfa)
             if m:
                 o["resmi_url"] = html.unescape(m.group(1))
-            continue
+            o["ekler"] = []
+            return
         ekler = []
         for j, b in enumerate(baglar[:6]):
+            onceki = sorted(klasor.glob(f"{o['trid']}-ek{j + 1}.*"))
+            if onceki:
+                ekler.append({"dosya": onceki[0].name, "tip": onceki[0].suffix[1:], "url": b,
+                              "ustyazi": "ustyazi" in b.lower() or "ust-yazi" in b.lower()})
+                continue
             try:
                 icerik, tip, ad = getir(b)
             except Exception as hata:
@@ -117,11 +134,6 @@ def ekleri_izle(tur):
             ekler.append({"dosya": dosya, "tip": uz, "url": b, "ustyazi": "ustyazi" in b.lower() or "ust-yazi" in b.lower()})
             time.sleep(0.3)
         o["ekler"] = ekler
-        if (i + 1) % 20 == 0:
-            print(f"  {tur}: {i + 1}/{len(ogeler)}", flush=True)
-            dizin_yolu.write_text(json.dumps(ogeler, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    dizin_yolu.write_text(json.dumps(ogeler, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"{tur}: ekler tamam", flush=True)
 
 
 def main():

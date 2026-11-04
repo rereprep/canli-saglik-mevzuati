@@ -2,71 +2,62 @@
 id: "sb-evlilik-oncesi-danismanlik-genelgesi-2014-24"
 baslik: "Evlilik Öncesi Danışmanlık Genelgesi (2014/24)"
 tur: "genelge"
+tarih: "2014-09-16"
 sayi: "2014/24"
 birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Evlilik Öncesi Danışmanlık Genelgesi (2014/24) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["halk sağlığı", "sağlık yönetimi"]
+konu: "Evlenecek çiftlere evlilik öncesi danışmanlık hizmeti sunulması ve sağlık raporu düzenlenmesine ilişkin usul ve esasları belirler."
+etiketler: ["halk sağlığı", "sağlık yönetimi", "evlilik öncesi", "üreme sağlığı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 752-753"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-6.3.61. Evlilik Öncesi Danışmanlık Genelgesi (2014/24)
+### 6.3.61. Evlilik Öncesi Danışmanlık Genelgesi (2014/24)
 
-### SAGLIK BAKANLIGI
+T.C.  
+SAĞLIK BAKANLIĞI  
+Türkiye Halk Sağlığı Kurumu
 
-Terkiye Halk Sağlıgı Kurumu
+Sayı: 57536863/233/02  
+Konu: Evlilik Öncesi Danışmanlık
 
-EVRAG ERTAn
+### GENELGE  
+2014/24
 
-....
+Aile; toplumun temeli ve çekirdeğidir. Sağlıklı nesillerin yetiştirildiği bir ocak, sevgi, saygı, sadakat ve güven ortamının tesis edildiği bir müessese, karşılıklı hak ve ödevlere sahip bireylerin oluşturduğu bir yuvadır. Sağlıklı nesiller bu yuvalarda yetişir. Aile ne kadar sağlam ve sağlıklı temellere oturur ise, toplum da o nispette sağlam ve sağlıklı olur. Evlilik toplumun sağlıklı idamesinde çok önemli bir kurumdur ve kanunlarla korunmuştur.
 
-### TE SPO
+Bilindiği üzere, 4721 sayılı Türk Medeni Kanunu'nun 136 ncı ve 1593 Sayılı Umumi Hıfzıssıhha Kanunu'nun 122 nci maddeleri gereğince evlenecek kişilerin evlenmeye engel hastalıklarının bulunmadığı hususunda sağlık raporu almaları mecburidir.
 
-Sayi: 57536863/233/02 Konu: Evlilik Onsest Damşmanhk
+Sağlık raporu almak üzere sağlık kurum veya kuruluşuna başvuran kişilere; güvenli annelik, bulaşıcı hastalıklar, genetik geçişli hastalıklar ve gebeliği önleyici yöntemlerle ilgili danışmanlık hizmeti verilerek üreme sağlığı hizmetlerinin iyileştirilmesi bakımından bu durum bir fırsat olarak değerlendirilmelidir.
 
-### GENELGE 3014..
+Evlilik öncesi danışmanlık hizmetleri ile kişilerin sağlık okuryazarlığı geliştirilerek sağlığa yönelik risklerin erken tespiti, tedavisi yapılarak gerekli önlemlerin alınması sağlanacaktır.
 
-Alle toplumun temeli ve çekirdeğıdir Sağleh nesillerin yetiştirildiğ Fir oczh, sevg. saygi, sulakat ve güven ortamımın tesis edildizi bir müessese, karadıklı hak ve ödevlere sahip birey kerin olaşiunduğu bir yadır. Sağlıkli neiller bu yuvalarda yetişir. Aile ne kadar sağlam Ve wıglıkli tanelere oturur ie, toplum da e nispette sağlam ve sağlikli olur. Evlilik saphanan sağlıklridanesinde çok önemli bir hurumdur ve kanunlarla korunmuştur.
+Bu itibarla;
 
-Bilindiği aerte. 4721 savılı Türk Medeni Kanumu nun 136 net ve 1593 Saydi Umumi Hissıhha Kanunu mua 122 nui maddeleri gereğince evlenecek kişilerin evlenmeye engel lastikklarnin bulunmadığı hususunda sağlıs raporu almalan mechundir.
+1- Evlenecek çiftlere evlilik öncesi danışmanlık hizmeti "Evlilik Öncesi Danışmanlık Rehberi" (Ek-1) kapsamında sağlık personelince sunulacaktır.
 
-Sağlık raporu almak üzere sağlık karum veya suruluşuna başvuran kişilere: glivenii annelik, baleşiei hastalıklar, gezenk geçişli boatalklar ve gebeigi önleyici yontemlerle ilgili danişmanlık hizmeti verilerek üremte sağliğı hometlerinin iyileştirimesi bakartimdan hur durum bir firsat olarak degerlendirmeler,
+2- Evlilik öncesi danışmanlık hizmetlerinin eş adaylarına birlikte verilmesi esastır. Ancak zorunlu hallerde (farklı ülkelerde veya şehirlerde bulunma, ağır hastalık vb.) ayrı ayrı olarak da danışmanlık hizmeti verilebilir.
 
-Elifik oncesi damşmantk himetleri ile kişüerin saglik okuryazarigı geliştilerek seğhğa gönelik risklerin erken tespiti. tedavisı yağıarak gerekli tırlerletin altıman sulunacakar.
+3- Evlilik öncesi danışmanlık hizmeti sunulduktan sonra kişilere "Evliliğe Sağlıklı Başlangıç" (Ek-2) dokümanı ile konuyla ilgili broşürler verilecektir.
 
-fe Evlenecek giftere evlilik ontesi danişmanlik hizmeti "Evlilik Oncesi Danişmanlik Rehberi" «Fk-1) kapsanunda saghk personelince sunalacaktr.
+4- Evlilik öncesi danışmanlık hizmetleri ile ilgili veri akış sisteminin "Bilgi Sistemlerine" entegrasyonu sağlanana kadar veriler "Evlilik Öncesi Danışmanlık Formu" (Ek-3) ile sağlık raporu düzenleyen kurum ve kuruluşlarca ayda bir Toplum Sağlığı Merkezine, Toplum Sağlığı Merkezince de ayda bir İl Halk Sağlığı Müdürlüğüne, İl Halk Sağlığı Müdürlüğünce de 3 ayda bir icmali alınarak Kadın ve Üreme Sağlığı Daire Başkanlığına bildirilecektir.
 
-1: lavtili öncesi danışmanlik bimtetlerinin eg adaylarna bilike verilinesi esastır. Ancak zorunlu hallerde (tark)ı ülkelerde veya şchirlerde bulunma, ağı hastaki vh yayn aynı olarak da damarnl k hizned verilebilin
+Daimi Genelge'nin ekleri ile birlikte tüm sağlık kurum ve kuruluşlarına tebliğini ve il düzeyinde yapılacak uygulamaların Genelgeye uygun olarak yürütülmesi hususunda; gereğini önemle rica ederim.
 
-3. Evlilik oncesi dansşmarhk hizaneti sanuldaktan sonra kiştere "Evliliğe Sagliklı Raştangie™ (F1-2) dokümanı ile konuyla lgili brosürler verilecektir.
+Prof. Dr. Eyüp GÜMÜŞ  
+Bakan a.  
+Müsteşar
 
-+ FAB öncesi damymanlk hizmetleri ile ilgili veri abtj sisteminin *lgi Sistemlerine" entegrasyonu sağlanana kadar veriler "Evlilik Oncedi Dansşmanlık, Foru" TEL Ai ile sağhk raporu düzenleyen kurum ve kuruluşlarca ayda bir Toplum Saghg: Mekezine, Toplun Sağlg Merkezince de ayda bir If Halk Sagker Mülrtugune: Il Halk Saghğı Modür üğance de 3 ayda bir imali alinarak Kadun ve Oreme Sagliga Daire Hakant@inu bildirilecehtit:
+### EKLER:  
+1) Evlilik Öncesi Danışmanlık Rehberi (122 Sayfa)  
+2) Evliliğe Sağlıklı Başlangıç Dokümanı (66 Sayfa)  
+3) Evlilik Öncesi Danışmanlık Formu (1 Sayfa)
 
-T.C.
+### DAĞITIM:  
+Gereği:  
+81 İl Halk Sağlığı Müdürlüğü
 
-### SAGLIK BAKANLIGI
-
-T tkiye Halk Sagngı kurumi
-
-Dalıni Genelge'min ekleri de balikte tan sahk kuzun v kuruluşara tebliğeni ve i duzeyinde yapılacak uygulamalarım Genelgeye uygun olarak yürüdiresi hususunda geregini únumle riay ederm
-
-Prof. Dr. Eyup GUMÜS
-
-Bakan a
-
-Milistesa
-
-### ERLER
-
-1 Fedilik Öncesi Danşmankk Rehberi (1 22 Sayfa)
-
-1 TAle Sadlkh Başlangiç Dokümanı (G6 Sayfa)
-
-B Bolk Orersi Danganld, Formn 1 Suydu
-
-### DAĞITIM:
-
-Gereği Bilgi 81 Il Halk Sağlg Mudürlago 81 Il Saglik Müdürdogo
-
-81 11 Kamu Hastane Birligi
+Bilgi:  
+81 İl Sağlık Müdürlüğü  
+81 İl Kamu Hastane Birliği

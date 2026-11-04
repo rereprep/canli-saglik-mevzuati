@@ -5,7 +5,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-103226/kan-ve-kan-urunleri-kanunu.html",
   "tip": "html",
-  "dosya": "103226.html"
+  "dosya": "103226.html",
+  "ekler": [
+   {
+    "dosya": "103226-ek1.docx",
+    "tip": "docx",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5624.docx",
+    "ustyazi": false
+   },
+   {
+    "dosya": "103226-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5624.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10410",
@@ -21,7 +35,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10408/tarih-29071998--sayi-4375-turk-silahli-kuvvetleri-ic-hizmet-kanunu-devlet-memurlari-kanunu-ve-turkiye-cumhuriyeti-emekli-sandigi-kanununda-degisiklik-yapilmasina-dair-kanun.html",
   "tip": "html",
-  "dosya": "10408.html"
+  "dosya": "10408.html",
+  "ekler": [
+   {
+    "dosya": "10408-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4375.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10408-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4375.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10407",
@@ -69,7 +97,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10402/tarih-14061986--sayi-3294-sosyal-yardimlasma-ve-dayanismayi-tesvik-kanunu.html",
   "tip": "html",
-  "dosya": "10402.html"
+  "dosya": "10402.html",
+  "ekler": [
+   {
+    "dosya": "10402-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3294.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10402-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3294.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10401",
@@ -85,7 +127,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10400/tarih-04012002--sayi-4734-kamu-ihale-kanunu.html",
   "tip": "html",
-  "dosya": "10400.html"
+  "dosya": "10400.html",
+  "ekler": [
+   {
+    "dosya": "10400-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4734.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10400-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4734.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10399",
@@ -101,7 +157,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10398/saglik-hizmetleri-temel-kanunu.html",
   "tip": "html",
-  "dosya": "10398.html"
+  "dosya": "10398.html",
+  "ekler": [
+   {
+    "dosya": "10398-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3359.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10398-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3359.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10397",
@@ -109,7 +179,9 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10397/radyoloji-radiyom-ve-elektrikle-tedavi-ve-diger-fizyoterapi-muesseseleri-hakkinda-kanun.html",
   "tip": "html",
-  "dosya": "10397.html"
+  "dosya": "10397.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3153&MevzuatTur=1&MevzuatTertip=3",
+  "ekler": []
  },
  {
   "trid": "10396",
@@ -117,7 +189,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10396/seriri-tahhariyat-ve-tahlilat-yapilan-masli-teamuller-aranilan-umuma-mahsus-bakteriyoloji-ve-kimya-laboratuvarlari-kanunu.html",
   "tip": "html",
-  "dosya": "10396.html"
+  "dosya": "10396.html",
+  "ekler": []
  },
  {
   "trid": "10395",
@@ -125,7 +198,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10395/turk-dis-hekimleri-birligi-kanunu.html",
   "tip": "html",
-  "dosya": "10395.html"
+  "dosya": "10395.html",
+  "ekler": [
+   {
+    "dosya": "10395-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3224.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10395-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3224.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10394",
@@ -133,7 +220,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10394/eczacilar-birligi-kanunu.html",
   "tip": "html",
-  "dosya": "10394.html"
+  "dosya": "10394.html",
+  "ekler": []
  },
  {
   "trid": "10393",
@@ -141,7 +229,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10393/sayisi560--rg-tarihi28061995--rg-sayisi22327-gidalarin-uretimi-tuketimi-ve-denetlenmesine-dair-kanun-hukmunde-kararname.html",
   "tip": "html",
-  "dosya": "10393.html"
+  "dosya": "10393.html",
+  "ekler": []
  },
  {
   "trid": "10392",
@@ -149,7 +238,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10392/rg-tarihi07111995--rg-sayisi22456-4128-sayili-kanun-ile-degisik-560-sayili-gidalarin-uretimi-tuketimi-ve-denetlenmesine-dair-kanun-hukmunde-kararname.html",
   "tip": "html",
-  "dosya": "10392.html"
+  "dosya": "10392.html",
+  "ekler": []
  },
  {
   "trid": "10391",
@@ -157,7 +247,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10391/turk-tabipleri-birligi-kanunu.html",
   "tip": "html",
-  "dosya": "10391.html"
+  "dosya": "10391.html",
+  "ekler": []
  },
  {
   "trid": "10390",
@@ -165,7 +256,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10390/sayisi2368--rg-tarihi31121980--rg-sayisi17207--saglik-personelinin-tazminat-ve-calisma-esaslarina-dair-kanun.html",
   "tip": "html",
-  "dosya": "10390.html"
+  "dosya": "10390.html",
+  "ekler": []
  },
  {
   "trid": "10389",
@@ -173,7 +265,15 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10389/4703-sayili-urunlere-iliskin-teknik-mevzuatin-hazirlanmasi-ve-uygulanmasina-dair-kanun.html",
   "tip": "html",
-  "dosya": "10389.html"
+  "dosya": "10389.html",
+  "ekler": [
+   {
+    "dosya": "10389-ek1.bin",
+    "tip": "bin",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/9.5.34085.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10388",
@@ -181,7 +281,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10388/sayisi224--rg-tarihi12011961--rg-sayisi10705-saglik-hizmetlerinin-sosyallestirilmesi-hakkinda-kanun.html",
   "tip": "html",
-  "dosya": "10388.html"
+  "dosya": "10388.html",
+  "ekler": []
  },
  {
   "trid": "10387",
@@ -189,7 +290,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10387/rg-tarihi27051983--rg-sayisi18059-2827-sayili-nufus-planlamasi-hakkinda-kanun.html",
   "tip": "html",
-  "dosya": "10387.html"
+  "dosya": "10387.html",
+  "ekler": [
+   {
+    "dosya": "10387-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2827.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10387-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2827.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10386",
@@ -197,7 +312,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10386/657-sayili-devlet-memurlari-kanunu.html",
   "tip": "html",
-  "dosya": "10386.html"
+  "dosya": "10386.html",
+  "ekler": [
+   {
+    "dosya": "10386-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10386-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10385",
@@ -205,7 +334,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10385/sayisi1219--rg-tarihi04041928--rg-sayisi863-tababet-ve-suabati-sanatlarinin-tarzi-icrasina-dair-kanun.html",
   "tip": "html",
-  "dosya": "10385.html"
+  "dosya": "10385.html",
+  "ekler": []
  },
  {
   "trid": "10384",
@@ -213,7 +343,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10384/tarihi24041930--sayisi1593--rg-tarihi06051930--rg-sayisi1489--umumi-hifzissihha-kanunu.html",
   "tip": "html",
-  "dosya": "10384.html"
+  "dosya": "10384.html",
+  "ekler": []
  },
  {
   "trid": "10383",
@@ -221,7 +352,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10383/tarihi07061935--sayisi2767-sitma-ve-frengi-ilaclari-hakkinda-kanun.html",
   "tip": "html",
-  "dosya": "10383.html"
+  "dosya": "10383.html",
+  "ekler": []
  },
  {
   "trid": "10382",
@@ -229,7 +361,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10382/tarihi23061936--sayisi3039-celtik-ekimi-kanunu.html",
   "tip": "html",
-  "dosya": "10382.html"
+  "dosya": "10382.html",
+  "ekler": []
  },
  {
   "trid": "10381",
@@ -237,7 +370,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10381/tarihi07061939--sayisi3634--rg-tarihi16061939--rg-sayisi4234--milli-mudafaa-mukellefiyeti-kanunu.html",
   "tip": "html",
-  "dosya": "10381.html"
+  "dosya": "10381.html",
+  "ekler": []
  },
  {
   "trid": "10380",
@@ -245,7 +379,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10380/tarihi30121940--sayisi3959-turkiye-cumhuriyeti-merkez-hifzissiha-muessesesinin-teskiline-dair-kanun.html",
   "tip": "html",
-  "dosya": "10380.html"
+  "dosya": "10380.html",
+  "ekler": []
  },
  {
   "trid": "10379",
@@ -253,7 +388,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10379/tarihi18121953--sayisi6197--rg-tarihi24121953--rg-sayisi8591-eczacilar-ve-eczaneler-hakkinda-kanun.html",
   "tip": "html",
-  "dosya": "10379.html"
+  "dosya": "10379.html",
+  "ekler": []
  },
  {
   "trid": "10378",
@@ -269,7 +405,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10377/tarihi11011960--sayisi7402--rg-tarihi11011960--rg-sayisi10402--sitmanin-imhasi-hakkinda-kanun.html",
   "tip": "html",
-  "dosya": "10377.html"
+  "dosya": "10377.html",
+  "ekler": []
  },
  {
   "trid": "10376",
@@ -277,7 +414,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10376/tarihi24101960--sayisi108--rg-tarihi28101960--rg-sayisi10641--savunma-sekreterlikleri-kurulmasina-dair-kanun.html",
   "tip": "html",
-  "dosya": "10376.html"
+  "dosya": "10376.html",
+  "ekler": []
  },
  {
   "trid": "10375",
@@ -285,7 +423,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10375/tarihi04011961--sayisi209--rg-tarihi09011961--rg-sayisi10702--209-sayili-doner-sermaye-kanunu.html",
   "tip": "html",
-  "dosya": "10375.html"
+  "dosya": "10375.html",
+  "ekler": [
+   {
+    "dosya": "10375-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.209.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10375-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.209.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10374",
@@ -293,7 +445,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10374/tarihi31051963--sayisi244--rg-tarihi11061963--rg-sayisi11425--milletlerarasi-andlasmalarin-yapilmasi-yururlugu-ve-yayinlanmasi-ile-bazi-andlasmalarin-yapilmasi-icin-bakanlar-kuruluna-yetki-verilmesi-hakkinda-kanun.html",
   "tip": "html",
-  "dosya": "10374.html"
+  "dosya": "10374.html",
+  "ekler": []
  },
  {
   "trid": "10373",
@@ -301,7 +454,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10373/tarihi31031965--sayisi555--rg-tarihi10041965--rg-sayisi11965-saglik-egitim-enstituleri-kurulus-kanunu.html",
   "tip": "html",
-  "dosya": "10373.html"
+  "dosya": "10373.html",
+  "ekler": []
  },
  {
   "trid": "10372",
@@ -309,7 +463,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10372/tarihi29051979--sayisi2238--rg-tarihi03061979--rg-sayisi16655--organ-ve-doku-alinmasi-saklanmasi-ve-nakli-hakkinda-kanun.html",
   "tip": "html",
-  "dosya": "10372.html"
+  "dosya": "10372.html",
+  "ekler": [
+   {
+    "dosya": "10372-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2238.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10372-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2238.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10371",
@@ -317,7 +485,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10371/tarihi14041982--sayisi2659--rg-tarihi20041982--rg-sayisi17670--adli-tip-kurumu-kanunu.html",
   "tip": "html",
-  "dosya": "10371.html"
+  "dosya": "10371.html",
+  "ekler": [
+   {
+    "dosya": "10371-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2659.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10371-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2659.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10370",
@@ -325,7 +507,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10370/tarihi18101982--sayisi2709-turkiye-cumhuriyeti-anayasasi.html",
   "tip": "html",
-  "dosya": "10370.html"
+  "dosya": "10370.html",
+  "ekler": []
  },
  {
   "trid": "10369",
@@ -333,7 +516,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10369/tarihi13121983--sayisi181--rg-tarihi14121983--rg-sayisi18251-saglik-bakanliginin-teskilat-ve-gorevleri-hakkinda-kanun-hukmunde-kararname.html",
   "tip": "html",
-  "dosya": "10369.html"
+  "dosya": "10369.html",
+  "ekler": []
  },
  {
   "trid": "10368",
@@ -341,7 +525,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10368/tarihi14121983--sayisi18351-kanserle-savas-daire-baskanligi-kurulus-kanunu.html",
   "tip": "html",
-  "dosya": "10368.html"
+  "dosya": "10368.html",
+  "ekler": []
  },
  {
   "trid": "10366",
@@ -357,7 +542,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10365/tarihi19041990--sayisi3628--rg-tarihi04051990--rg-sayisi20508--mal-bildiriminde-bulunulmasirusvet-ve-yolsuzluklarla-mucadele-kanunu.html",
   "tip": "html",
-  "dosya": "10365.html"
+  "dosya": "10365.html",
+  "ekler": [
+   {
+    "dosya": "10365-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3628.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10365-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3628.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10364",
@@ -373,7 +572,8 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10363/tarihi31122002--sayisi20025125-sayili-bakanlar-kurulu-karari.html",
   "tip": "html",
-  "dosya": "10363.html"
+  "dosya": "10363.html",
+  "ekler": []
  },
  {
   "trid": "10359",
@@ -397,7 +597,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-10361/tarihi22062004--sayisi5193--rg-tarihi26062004--rg-sayisi5193-optisyenlik-hakkinda-kanun.html",
   "tip": "html",
-  "dosya": "10361.html"
+  "dosya": "10361.html",
+  "ekler": [
+   {
+    "dosya": "10361-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5193.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "10361-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5193.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10360",

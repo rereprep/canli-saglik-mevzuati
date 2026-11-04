@@ -45,7 +45,21 @@
   "birim": "Sağlık Bilgi Sistemleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11292/saglik-bilgi-sistemleri-genel-mudurlugu-teskilat-gorev-yetki-calisma-usul-ve-esaslari-hakkinda-yonerge.html",
   "dosya": "11292.html",
-  "tip": "html"
+  "tip": "html",
+  "ekler": [
+   {
+    "dosya": "11292-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/701/0/sbsgm-teskilat-gorev-yetki-calisma-usul-ve-esaslari-hakkinda-yonergepdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11292-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/702/0/ek-sbsgm-teskilat-gorev-yetki-calisma-usul-ve-esaslari-hakkinda-yonergepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11291",
@@ -53,7 +67,21 @@
   "birim": "Sağlık Bilgi Sistemleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11291/bilgi-guvenligi-politikalari-ve-yonergesi.html",
   "dosya": "11291.html",
-  "tip": "html"
+  "tip": "html",
+  "ekler": [
+   {
+    "dosya": "11291-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/15584/0/bilgi-guvenligi-politikalari-yonergesi20180502pdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11291-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1382/0/bilgiguvenligipolitikalarikilavuzupdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11290",
@@ -133,7 +161,15 @@
   "birim": "Strateji Geliştirme Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-11244/strateji-gelistirme-baskanligi-mali-islemlerin-surec-akis-semasi.html",
   "dosya": "11244.html",
-  "tip": "html"
+  "tip": "html",
+  "ekler": [
+   {
+    "dosya": "11244-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/57/0/maliislsurakissemdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11266",
@@ -269,7 +305,27 @@
   "birim": "Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11248/su-aritma-sistemi-yonergesi.html",
   "dosya": "11248.html",
-  "tip": "html"
+  "tip": "html",
+  "ekler": [
+   {
+    "dosya": "11248-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1323/0/susistemi-valilikdoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11248-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1324/0/su-sistemi-onayidoc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11248-ek3.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1325/0/su-aritma-sistemi-yonergesiimzadoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11251",
@@ -459,7 +515,27 @@
   "birim": "Halk Sağlığı Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11269/toplum-ruh-sagligi-merkezleri-hakkinda-yonerge.html",
   "dosya": "11269.html",
-  "tip": "html"
+  "tip": "html",
+  "ekler": [
+   {
+    "dosya": "11269-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1346/0/onay-ve-duyurupdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11269-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1347/0/trsm-yonerge--doc.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11269-ek3.bin",
+    "tip": "bin",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1348/0/eklerrar.rar",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11275",
@@ -483,7 +559,15 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-105145/saglik-bakanligi-ve-bagli-kuruluslari-imza-yetkileri-yonergesi-2024.html",
   "tip": "html",
-  "dosya": "105145.html"
+  "dosya": "105145.html",
+  "ekler": [
+   {
+    "dosya": "105145-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyamerkez.saglik.gov.tr/Eklenti/49010/0/saglik-bakanligi-ve-bagli-kuruluslari-imza-yekileri-yonergesipdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "34781",
@@ -491,7 +575,15 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-34781/saglik-bakanligi-denetci-yardimcilarinin-yetistirilmelerine-iliskin-usul-ve-esaslari-hakkinda-yonerge.html",
   "tip": "html",
-  "dosya": "34781.html"
+  "dosya": "34781.html",
+  "ekler": [
+   {
+    "dosya": "34781-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/15605/0/yonergepdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11274",
@@ -499,7 +591,21 @@
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11274/temel-is-sagligi-hizmetlerinin-uygulama-usul-ve-esaslari-hakkinda-yonerge.html",
   "tip": "html",
-  "dosya": "11274.html"
+  "dosya": "11274.html",
+  "ekler": [
+   {
+    "dosya": "11274-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1359/0/yonergepdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11274-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1360/0/temelisdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11270",
@@ -600,144 +706,226 @@
   "trid": "11241",
   "baslik": "Entegre İlçe Hastanesi'nin Açılması, Kapanması ve Buralarda Verilecek Sağlık Hizmetleri Hakkında Yönerge",
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11241/entegre-ilce-hastanesinin-acilmasi-kapanmasi-ve-buralarda-verilecek-saglik-hizmetleri-hakkinda-yonerge.html"
+  "url": "https://www.saglik.gov.tr/TR-11241/entegre-ilce-hastanesinin-acilmasi-kapanmasi-ve-buralarda-verilecek-saglik-hizmetleri-hakkinda-yonerge.html",
+  "tip": "doc",
+  "dosya": "11241.doc"
  },
  {
   "trid": "11240",
   "baslik": "Yatırım, İnşaat ve Onarım Daire Başkanlığı Görev Çalışma Usul Ve Esasları Hakkında Yönerge",
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11240/yatirim-insaat-ve-onarim-daire-baskanligi-gorev-calisma-usul-ve-esaslari-hakkinda-yonerge.html"
+  "url": "https://www.saglik.gov.tr/TR-11240/yatirim-insaat-ve-onarim-daire-baskanligi-gorev-calisma-usul-ve-esaslari-hakkinda-yonerge.html",
+  "tip": "doc",
+  "dosya": "11240.doc"
  },
  {
   "trid": "11239",
   "baslik": "Sağlık Bakanlığı Yataklı Tedavi Kurumsal Kaliteyi Geliştirme ve Performans Değerlendirme Yönergesi",
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11239/saglik-bakanligi-yatakli-tedavi-kurumsal-kaliteyi-gelistirme-ve-performans-degerlendirme-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-11239/saglik-bakanligi-yatakli-tedavi-kurumsal-kaliteyi-gelistirme-ve-performans-degerlendirme-yonergesi.html",
+  "tip": "bin",
+  "dosya": "11239.bin"
  },
  {
   "trid": "11238",
   "baslik": "Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi Yönergesi",
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11238/bulasici-hastaliklarin-ihbari-ve-bildirim-sistemi-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-11238/bulasici-hastaliklarin-ihbari-ve-bildirim-sistemi-yonergesi.html",
+  "tip": "doc",
+  "dosya": "11238.doc"
  },
  {
   "trid": "11237",
   "baslik": "Kaliteyi Geliştirme ve Performans Değerlendirme Yönergesi",
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11237/kaliteyi-gelistirme-ve-performans-degerlendirme-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-11237/kaliteyi-gelistirme-ve-performans-degerlendirme-yonergesi.html",
+  "tip": "doc",
+  "dosya": "11237.doc"
  },
  {
   "trid": "11235",
   "baslik": "Elektro Konvülsif Tedavi Uygulama Yönergesi",
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11235/elektro-konvulsif-tedavi-uygulama-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-11235/elektro-konvulsif-tedavi-uygulama-yonergesi.html",
+  "tip": "doc",
+  "dosya": "11235.doc"
  },
  {
   "trid": "11192",
   "baslik": "Devlet Memurları Yabancı Diller Eğitim Merkezinde Eğitim Görecek Personelin Seçimine Yönelik Yönerge",
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11192/devlet-memurlari-yabanci-diller-egitim-merkezinde-egitim-gorecek-personelin-secimine-yonelik-yonerge.html"
+  "url": "https://www.saglik.gov.tr/TR-11192/devlet-memurlari-yabanci-diller-egitim-merkezinde-egitim-gorecek-personelin-secimine-yonelik-yonerge.html",
+  "tip": "html",
+  "dosya": "11192.html",
+  "ekler": []
  },
  {
   "trid": "11236",
   "baslik": "Gezici Sağlık Hizmetlerinin Yürütülmesi Hakkında Yönerge (13-10-2006 tarih ve 11465 Sayılı Makam Onayı) ...",
   "birim": "Hukuk Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11236/gezici-saglik-hizmetlerinin-yurutulmesi-hakkinda-yonerge-13-10-2006-tarih-ve-11465-sayili-makam-onayi-yururluge-girmistir.html"
+  "url": "https://www.saglik.gov.tr/TR-11236/gezici-saglik-hizmetlerinin-yurutulmesi-hakkinda-yonerge-13-10-2006-tarih-ve-11465-sayili-makam-onayi-yururluge-girmistir.html",
+  "tip": "doc",
+  "dosya": "11236.doc"
  },
  {
   "trid": "103807",
   "baslik": "İl Sağlık Müdürlüğü ve Birimleri Kurum Hizmet ve Teşvik Ek Ödeme Yönergesi",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103807/il-saglik-mudurlugu-ve-birimleri-kurum-hizmet-ve-tesvik-ek-odeme-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-103807/il-saglik-mudurlugu-ve-birimleri-kurum-hizmet-ve-tesvik-ek-odeme-yonergesi.html",
+  "tip": "pdf",
+  "dosya": "103807.pdf"
  },
  {
   "trid": "103808",
   "baslik": "Sağlık Bakanlığı 4\\B Sözleşmeli Personelininin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine ...",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103808/saglik-bakanligi-4b-sozlesmeli-personelininin-yeniden-hizmete-alinmasi-ve-kurum-ici-yer-degisikligine-dair-yonerge.html"
+  "url": "https://www.saglik.gov.tr/TR-103808/saglik-bakanligi-4b-sozlesmeli-personelininin-yeniden-hizmete-alinmasi-ve-kurum-ici-yer-degisikligine-dair-yonerge.html",
+  "tip": "pdf",
+  "dosya": "103808.pdf"
  },
  {
   "trid": "103809",
   "baslik": "Sağlık Bakanlığı 4\\B Sözleşmeli Personelinin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine ...",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103809/saglik-bakanligi-4b-sozlesmeli-personelinin-yeniden-hizmete-alinmasi-ve-kurum-ici-yer-degisikligine-dair-yonergede-degisiklik-yapilmasi.html"
+  "url": "https://www.saglik.gov.tr/TR-103809/saglik-bakanligi-4b-sozlesmeli-personelinin-yeniden-hizmete-alinmasi-ve-kurum-ici-yer-degisikligine-dair-yonergede-degisiklik-yapilmasi.html",
+  "tip": "pdf",
+  "dosya": "103809.pdf"
  },
  {
   "trid": "103810",
   "baslik": "Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103810/saglik-bakanligi-sosyal-tesisler-isletme-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-103810/saglik-bakanligi-sosyal-tesisler-isletme-yonergesi.html",
+  "tip": "pdf",
+  "dosya": "103810.pdf"
  },
  {
   "trid": "103811",
   "baslik": "Sağlık Bakanlığı ve Bağlı Kuruluşları Devir-Teslim ve İlişik Kesme Yönergesi",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103811/saglik-bakanligi-ve-bagli-kuruluslari-devir-teslim-ve-ilisik-kesme-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-103811/saglik-bakanligi-ve-bagli-kuruluslari-devir-teslim-ve-ilisik-kesme-yonergesi.html",
+  "tip": "pdf",
+  "dosya": "103811.pdf"
  },
  {
   "trid": "103812",
   "baslik": "Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103812/saglik-bakanligi-saglik-personelinin-il-ici-yer-degistirmesine-iliskin-yonerge.html"
+  "url": "https://www.saglik.gov.tr/TR-103812/saglik-bakanligi-saglik-personelinin-il-ici-yer-degistirmesine-iliskin-yonerge.html",
+  "tip": "pdf",
+  "dosya": "103812.pdf"
  },
  {
   "trid": "103813",
   "baslik": "Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer ...",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103813/saglik-bakanligi-saglik-hizmetleri-ve-yardimci-saglik-hizmetleri-sinifi-harici-personelin-atama-ve-yer-degistirme-usul-ve-esaslarina-iliskin-yonerge.html"
+  "url": "https://www.saglik.gov.tr/TR-103813/saglik-bakanligi-saglik-hizmetleri-ve-yardimci-saglik-hizmetleri-sinifi-harici-personelin-atama-ve-yer-degistirme-usul-ve-esaslarina-iliskin-yonerge.html",
+  "tip": "hata"
  },
  {
   "trid": "103814",
   "baslik": "Sözleşmeli Yönetici Performans Değerlendirme Yönergesi",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103814/sozlesmeli-yonetici-performans-degerlendirme-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-103814/sozlesmeli-yonetici-performans-degerlendirme-yonergesi.html",
+  "tip": "pdf",
+  "dosya": "103814.pdf"
  },
  {
   "trid": "103815",
   "baslik": "Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile Çalışma Usul ve Esaslarına Dair Yönerge",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103815/saglik-bakanligi-tasra-teskilati-kadro-standartlari-ile-calisma-usul-ve-esaslarina-dair-yonerge.html"
+  "url": "https://www.saglik.gov.tr/TR-103815/saglik-bakanligi-tasra-teskilati-kadro-standartlari-ile-calisma-usul-ve-esaslarina-dair-yonerge.html",
+  "tip": "hata"
  },
  {
   "trid": "11264",
   "baslik": "Bakanlığımız Personeli Ait Kurum Kimlik Kartları Yönergesi",
   "birim": "Yönetim Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11264/bakanligimiz-personeli-ait-kurum-kimlik-kartlari-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-11264/bakanligimiz-personeli-ait-kurum-kimlik-kartlari-yonergesi.html",
+  "tip": "hata"
  },
  {
   "trid": "103715",
   "baslik": "Sağlık Bakanlığı Afet ve Acil Durum Yönetim Merkezi Yönergesi",
   "birim": "Acil Sağlık Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103715/saglik-bakanligi-afet-ve-acil-durum-yonetim-merkezi-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-103715/saglik-bakanligi-afet-ve-acil-durum-yonetim-merkezi-yonergesi.html",
+  "tip": "hata"
  },
  {
   "trid": "103716",
   "baslik": "Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslarda Değişiklik Yapılması Yönergesi ...",
   "birim": "Acil Sağlık Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103716/gecici-koruma-altina-alinanlara-verilecek-saglik-hizmetlerine-dair-esaslarda-degisiklik-yapilmasi-yonergesi-saglik-bakanligi-yonerge-ve-genelgeler-323-gecici-koruma-altina-alinanlara-verilecek-saglik-hizmetlerine-dair-esaslarda.html"
+  "url": "https://www.saglik.gov.tr/TR-103716/gecici-koruma-altina-alinanlara-verilecek-saglik-hizmetlerine-dair-esaslarda-degisiklik-yapilmasi-yonergesi-saglik-bakanligi-yonerge-ve-genelgeler-323-gecici-koruma-altina-alinanlara-verilecek-saglik-hizmetlerine-dair-esaslarda.html",
+  "tip": "hata"
  },
  {
   "trid": "103717",
   "baslik": "İl Ambulans Servisi Çalışma Yönergesi",
   "birim": "Acil Sağlık Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103717/il-ambulans-servisi-calisma-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-103717/il-ambulans-servisi-calisma-yonergesi.html",
+  "tip": "pdf",
+  "dosya": "103717.pdf"
  },
  {
   "trid": "103718",
   "baslik": "İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Özel Merkezlerde Çalışmasına İlişkin ...",
   "birim": "Acil Sağlık Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-103718/ilkyardim-sinavlari-ve-sinav-gozetmen-ucretleri-ile-egitmenlerin-ozel-merkezlerde-calismasina-iliskin-usul-ve-esaslar-hakkinda-yonerge.html"
+  "url": "https://www.saglik.gov.tr/TR-103718/ilkyardim-sinavlari-ve-sinav-gozetmen-ucretleri-ile-egitmenlerin-ozel-merkezlerde-calismasina-iliskin-usul-ve-esaslar-hakkinda-yonerge.html",
+  "tip": "pdf",
+  "dosya": "103718.pdf"
  },
  {
   "trid": "11288",
   "baslik": "Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslar Hakkında 22.10.2014 Tarihli ...",
   "birim": "Acil Sağlık Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-11288/gecici-koruma-altina-alinanlara-verilecek-saglik-hizmetlerine-dair-esaslar-hakkinda-22102014-tarihli-ve-29153-sayili-yonerge.html"
+  "url": "https://www.saglik.gov.tr/TR-11288/gecici-koruma-altina-alinanlara-verilecek-saglik-hizmetlerine-dair-esaslar-hakkinda-22102014-tarihli-ve-29153-sayili-yonerge.html",
+  "tip": "pdf",
+  "dosya": "11288.pdf"
  },
  {
   "trid": "23652",
   "baslik": "İl Sağlık Müdürlükleri Performans Değerlendirme Hakkında Yönergesi",
   "birim": "Acil Sağlık Hizmetleri Genel Müdürlüğü",
-  "url": "https://www.saglik.gov.tr/TR-23652/il-saglik-mudurlukleri-performans-degerlendirme-hakkinda-yonergesi.html"
+  "url": "https://www.saglik.gov.tr/TR-23652/il-saglik-mudurlukleri-performans-degerlendirme-hakkinda-yonergesi.html",
+  "tip": "html",
+  "dosya": "23652.html",
+  "ekler": [
+   {
+    "dosya": "23652-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/9781/0/ismperformans-yonergesipdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "23652-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/9777/0/ek-1-gosterge-puan-tablosupdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "23652-ek3.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/9779/0/ek-2-performans-gosterge-kartlaripdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "23652-ek4.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/9780/0/ek-3-il-performans-raporupdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "23652-ek5.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/9778/0/ek-4-itiraz-basvuru-formupdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "23652-ek6.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/9782/0/ek-5-il-performans-puani-hesaplama-formulu-ve-basari-gruplari-tablosupdf.pdf",
+    "ustyazi": false
+   }
+  ]
  }
 ]
