@@ -149,8 +149,11 @@ _ES_DIZIN = None
 
 
 # ---------------------------------------------------------------- yardımcılar
+XML_DISI = re.compile("[\x00-\x08\x0b\x0c\x0e-\x1f\ufffe\uffff]")
+
+
 def e(s):
-    return html.escape(str(s or ""), quote=True)
+    return html.escape(XML_DISI.sub("", str(s or "")), quote=True)
 
 
 def tarih_tr(iso):
@@ -196,6 +199,7 @@ def md_html(govde):
 
 def duz_bloklar(govde):
     """Word/PDF üretimi için (tip, metin) listesi."""
+    govde = XML_DISI.sub("", govde)
     for blok in re.split(r"\n{2,}", govde.strip()):
         blok = blok.strip()
         if not blok:
@@ -548,13 +552,17 @@ def main():
     (CIKTI / ".nojekyll").write_text("")
 
     dizin, metin_dizin = [], []
+    hatalar = []
     for i, b in enumerate(sorted(belgeler.values(), key=lambda b: sade(b["baslik"]))):
         klasor = CIKTI / "mevzuat" / b["tur"]
         klasor.mkdir(parents=True, exist_ok=True)
         (klasor / f"{b['id']}.html").write_text(belge_sayfasi(b), encoding="utf-8")
         if b["tam_metin"] and not a.hizli:
-            word_uret(b, klasor / f"{b['id']}.docx")
-            pdf_uret(b, klasor / f"{b['id']}.pdf")
+            for ad, uretici in (("docx", word_uret), ("pdf", pdf_uret)):
+                try:
+                    uretici(b, klasor / f"{b['id']}.{ad}")
+                except Exception as hata:  # tek belge yüzünden yayın durmasın
+                    hatalar.append(f"{b['id']}.{ad}: {hata}")
         dizin.append({"i": b["id"], "b": b["baslik"], "t": b["tur"], "d": b.get("tarih", ""), "s": b.get("sayi", ""),
                       "r": b.get("rg_tarih", ""), "rs": b.get("rg_sayi", ""), "k": b.get("konu", ""),
                       "e": b.get("etiketler", []), "m": 1 if b["tam_metin"] else 0})
@@ -573,6 +581,10 @@ def main():
         if any(b["tur"] == t for b in belgeler.values()):
             (CIKTI / "tur" / f"{t}.html").write_text(tur_sayfasi(t, belgeler), encoding="utf-8")
     print(f"{len(belgeler)} kayıt ({len(metin_dizin)} tam metin) -> {CIKTI}")
+    for h in hatalar:
+        print("UYARI: indirme dosyası üretilemedi:", h)
+    if len(hatalar) > max(5, len(metin_dizin) // 20):
+        sys.exit("Çok sayıda Word/PDF dosyası üretilemedi.")
 
 
 if __name__ == "__main__":
