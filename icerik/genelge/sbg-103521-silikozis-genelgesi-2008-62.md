@@ -7,7 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103521/silikozis-genelgesi-200862.html"
 durum: "yürürlükte"
-tarih: 2008-09-24
+tarih: "2008-09-24"
 konu: "Silikozisle ilgili sağlık hizmetleri ve uygulama esaslarını düzenler."
 ocr: true
 duzeltildi: true

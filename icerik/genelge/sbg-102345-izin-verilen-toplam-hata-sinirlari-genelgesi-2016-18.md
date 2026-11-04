@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-102345/izin-verilen-toplam-hata-sinirl
 durum: "yürürlükte"
 duzeltildi: true
 konu: "İzin Verilen Toplam Hata Sınırları Genelgesi (2016/18) konusundaki düzenleme ve uygulama esaslarını bildirir."
-tarih: 2016-10-13
+tarih: "2016-10-13"
 ocr: true
 ---
 

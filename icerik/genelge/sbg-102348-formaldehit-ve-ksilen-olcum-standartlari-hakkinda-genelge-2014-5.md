@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-102348/formaldehit-ve-ksilen-olcum-sta
 durum: "yürürlükte"
 duzeltildi: true
 konu: "Formaldehit ve Ksilen Ölçüm Standartları Hakkında Genelge (2014/5) konusundaki düzenleme ve uygulama esaslarını bildirir."
-tarih: 2014-02-28
+tarih: "2014-02-28"
 ocr: true
 ---
 

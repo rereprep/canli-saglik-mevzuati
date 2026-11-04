@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-100088/bakanlik-mufettisleri-ve-faaliy
 durum: "yürürlükte"
 duzeltildi: true
 konu: "Bakanlık Müfettişleri ve Faaliyetleri konusundaki düzenleme ve uygulama esaslarını bildirir."
-tarih: 2023-10-12
+tarih: "2023-10-12"
 ocr: true
 ---
 

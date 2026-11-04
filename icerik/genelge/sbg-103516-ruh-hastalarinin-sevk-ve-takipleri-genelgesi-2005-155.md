@@ -7,7 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103516/ruh-hastalarinin-sevk-ve-takipleri-genelgesi-2005155.html"
 durum: "yürürlükte"
-tarih: 2005-10-13
+tarih: "2005-10-13"
 konu: "Ruh hastalarının sevk ve takip süreçlerinde uygulanacak usulü düzenler."
 ocr: true
 duzeltildi: true

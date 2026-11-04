@@ -42,7 +42,14 @@ def on_bilgi_ayir(metin):
     for satir in metin[4:son].splitlines():
         if ":" in satir:
             k, v = satir.split(":", 1)
-            veri[k.strip()] = json.loads(v.strip())
+            v = v.strip()
+            try:
+                veri[k.strip()] = json.loads(v)
+            except json.JSONDecodeError:  # elle/ajanla yazılmış tırnaksız değerler
+                if v in ("true", "false"):
+                    veri[k.strip()] = v == "true"
+                else:
+                    veri[k.strip()] = v.strip('"').strip("'")
     return veri, metin[son + 5:]
 
 

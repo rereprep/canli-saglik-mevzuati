@@ -7,7 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103514/polio-importasyon-plani-genelgesi-200267.html"
 durum: "yürürlükte"
-tarih: 2002-07-05
+tarih: "2002-07-05"
 konu: "Poliomyelit importasyonunun önlenmesi ve Türkiye’nin poliomyelitten arındırılmış durumunun sürdürülmesi için ulusal faaliyet planını belirler."
 ocr: true
 duzeltildi: true

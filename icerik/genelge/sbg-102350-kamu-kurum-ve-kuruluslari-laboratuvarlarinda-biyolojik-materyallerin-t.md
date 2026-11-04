@@ -9,7 +9,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 duzeltildi: true
 konu: "Kamu Kurum ve Kuruluşları Laboratuvarlarında Biyolojik Materyallerin Temini Protokolü Hakkındaki Usul konusundaki düzenleme ve uygulama esaslarını bildirir."
-tarih: 2013-10-28
+tarih: "2013-10-28"
 sayi: "2013/19"
 ocr: true
 ---

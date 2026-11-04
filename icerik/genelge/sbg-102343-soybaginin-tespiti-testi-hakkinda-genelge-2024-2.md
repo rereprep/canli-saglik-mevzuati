@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-102343/soybaginin-tespiti-testi-hakkin
 durum: "yürürlükte"
 duzeltildi: true
 konu: "Soybağının Tespiti Testi Hakkında Genelge (2024/2) konusundaki düzenleme ve uygulama esaslarını bildirir."
-tarih: 2024-03-05
+tarih: "2024-03-05"
 ocr: true
 ---
 

@@ -7,7 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103518/saglik-evleri-genelgesi-2004127.html"
 durum: "yürürlükte"
-tarih: 2004-10-19
+tarih: "2004-10-19"
 konu: "Sağlık evlerinin işleyişine ilişkin uygulamaları düzenler."
 ocr: true
 duzeltildi: true

@@ -7,7 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103515/riskli-gebelikler-yonetim-rehberi-genelgesi-201410.html"
 durum: "yürürlükte"
-tarih: 2014-03-13
+tarih: "2014-03-13"
 konu: "Riskli Gebelikler Yönetim Rehberi’nin uygulanmasını ve sağlık kuruluşlarına bildirilmesini düzenler."
 ocr: true
 duzeltildi: true

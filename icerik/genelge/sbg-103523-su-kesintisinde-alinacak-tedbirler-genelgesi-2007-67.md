@@ -7,7 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103523/su-kesintisinde-alinacak-tedbirler-genelgesi-200767.html"
 durum: "yürürlükte"
-tarih: 2007-08-08
+tarih: "2007-08-08"
 konu: "Su kesintilerinde toplum sağlığını korumak için sağlık müdürlükleri, yerel yönetimler ve halkça alınacak tedbirleri belirler."
 ocr: true
 duzeltildi: true
