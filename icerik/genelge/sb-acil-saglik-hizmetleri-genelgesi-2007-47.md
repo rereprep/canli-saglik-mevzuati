@@ -11,13 +11,13 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 355-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.369"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B100TSH0160001 / 14060
+Sayı : B100TSH0160001 / 14030
 Tarih: 18.06.2007
 Konu : Acil Sağlık Hizmetleri
 

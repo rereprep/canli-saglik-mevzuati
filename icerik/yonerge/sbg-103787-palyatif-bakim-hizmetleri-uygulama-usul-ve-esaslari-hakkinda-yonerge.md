@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103787/palyatif-bakim-hizmetleri-uygul
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103787.pdf s.8"
+kontrol_edildi: true
 ---
 
 T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü

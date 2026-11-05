@@ -11,7 +11,7 @@ ocr: true
 tarih: "2011-03-29"
 sayi: "13984"
 duzeltildi: true
-sayfa_kontrol: "103786.pdf s.1"
+kontrol_edildi: true
 ---
 
 ### Kompozit Doku Nakli Merkezleri Yönergesi

@@ -9,10 +9,33 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103589/kronik-yara-bakim-hizmetleri-ge
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103589.pdf s.1"
+tarih: "06.12.2022"
+kontrol_edildi: true
 ---
 
 2.3.21. Kronik Yara Bakım Hizmetleri Genelgesi (2022/8)
+
+### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı: 54567092-  
+Konu: Kronik Yara Bakım Hizmetleri  
+Genelge: 2022/8
+
+Tedavileri zor ve uzun süren, multidisipliner bir çalışmayı gerektiren kronik yaralar gerek hastalarda oluşturdukları olumsuz etkiler, gerekse sağlık çalışanları ve sağlık sistemine getirdiği külfet açısından tüm gelişmiş ve gelişmekte olan toplumlar için büyük bir sorun olup başvuran hastaların teşhis ve tedavi sürecini gerçekleştirmek, oluşabilecek komplikasyonları önlemek/azaltmak, kronik yara bakımı verecek sağlık tesislerinde klinikler arasında koordinasyonu sağlamak amacıyla; kronik yara hizmetleri ile ilgili iş ve işlemlerin düzenlenmesi ihtiyacı doğmuştur.
+
+Bu maksatla ülkemizde sunulacak kronik yara bakım hizmetlerine ilişkin usul ve esasları düzenleyen 6/7/2021 tarihli ve (2021/04) sayılı Kronik Yara Bakım Hizmetleri Genelgesi yayımlanmış ve yürürlüğe girmiştir. Ancak Kronik Yara Bakım Hizmetleri Genelgesinin (2021/4) yayımlandığı tarihten bu yana Bakanlığımızca yapılan değerlendirmeler sonucunda bazı değişikliklerin yapılmasına ihtiyaç duyulmuş olup, bahsi geçen genelge yürürlükten kaldırılmıştır. Bu kapsamda, ülkemizde sunulacak kronik yara bakım hizmetlerine ilişkin usul ve esaslar ekte belirtilen şekliyle yeniden düzenlenmiştir.
+
+Genelgenin ilinizde bulunan kamu ve özel tüm sağlık tesislerine duyurulması, kronik yara tanısı, tedavisi ve takibi için sunulan sağlık hizmetlerinin işbu Genelge kapsamında yürütülmesi hususunda;
+
+Bilgilerinizi ve gereğini önemle arz/rica ederim.
+
+Prof. Dr. Sabahattin AYDIN  
+Bakan a.  
+Bakan Yardımcısı
+
+Ek: Kronik Yara Bakım Hizmetlerine İlişkin Usul ve Esaslar (8 sayfa)
+
+Dağıtım: Gereği: 81 İl Valiliği (İl Sağlık Müdürlüğü). Bilgi: Cumhurbaşkanlığı, TBMM Başkanlığı, Sosyal Güvenlik Kurumu, Yükseköğretim Kurulu Başkanlığı, A Planı.
 
 ### KRONİK YARA BAKIM HİZMETLERİNE İLİŞKİN USUL VE ESASLAR
 

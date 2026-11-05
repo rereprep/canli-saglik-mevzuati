@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1005
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1019"
+kontrol_edildi: true
 ---
 
 9.3.6. Mal Bildirimleri Konulu Genelge (2018/20)
@@ -26,7 +26,7 @@ Konu : Mal Bildirimleri
 GENELGE
 2018/20
 
-Bilindiği üzere gerçeğe aykırı mal bildiriminde bulunan, haksız mal edinen veya haksız edinilen malı kaçıran veya gizleyenlere 3628 sayılı Kanunda belirtilen ceza hükümler, süresi içinde mal bildiriminde bulunmayanlara ise 657 sayılı Kanunun disiplin hükümleri uygulanmaktadır.
+Bilindiği üzere gerçeğe aykırı mal bildiriminde bulunan, haksız mal edinen veya haksız edinilen malı kaçıran veya gizleyenlere 3628 sayılı Kanunda belirtilen ceza hükümleri, süresi içinde mal bildiriminde bulunmayanlara ise 657 sayılı Kanunun disiplin hükümleri uygulanmaktadır.
 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu ile bu Kanunun uygulanmasına ilişkin usul ve esasları düzenleyen ve 10/08/1990 tarihli ve 90/748 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Mal Bildiriminde Bulunulması Hakkında Yönetmeliğin öngördüğü işlemlerin yerine getirilmesi, uygulamada yaşanan sıkıntıların giderilmesi ve personelin mağduriyetinin önlenmesi amacına yönelik hususlar aşağıda belirtilmiştir.
 
 A) MAL BİLDİRİMİNDE BULUNULMASINDA UYULMASI GEREKEN USUL VE ESASLAR

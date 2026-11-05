@@ -8,10 +8,10 @@ etiketler: ["personel", "yönetici performansı", "değerlendirme"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 941-947"
 durum: "yürürlükte"
 ocr: true
-tarih: "2018-05-18"
-sayi: "362"
+tarih: ""
+sayi: "82040698"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.955"
+kontrol_edildi: true
 ---
 
 9.2.4. Sözleşmeli Yönetici Performans Değerlendirme Yönergesi

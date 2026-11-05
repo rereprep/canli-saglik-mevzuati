@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 181-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.195"
+kontrol_edildi: true
 ---
 
 2.3.19. Kronik Yara Bakım Hizmetleri Genelgesi (2022/8)

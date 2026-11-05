@@ -2,6 +2,7 @@
 id: "sb-adli-olaya-taraf-kisiler-hakkinda-tedavi-ve-denetimli-serbestlik-tedbirine-hukmedilenler-ile-tutuklu-ve-hukumlu-tedavi-gideri-hakkinda-genelge-2013-2"
 baslik: "Adli Olaya Taraf Kişiler, Hakkında Tedavi ve Denetimli Serbestlik Tedbirine Hükmedilenler ile Tutuklu ve Hükümlü Tedavi Gideri Hakkında Genelge (2013/2)"
 tur: "genelge"
+tarih: "2013-01-03"
 sayi: "2013/2"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Adli olaylara taraf kişilerin, hakkında tedavi ve denetimli serbestlik tedbirine hükmedilenlerin ile tutuklu ve hükümlülerin muayene ve tedavi giderlerinin karşılanma usul ve esasları."
@@ -10,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 260-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.274"
+kontrol_edildi: true
 ---
 
 > *Not: 2013/2 sayılı Genelgenin 4. Maddesinde "Ödenek Talebine İlişkin Esaslar"ın (ç) maddesinde geçen bütçe tertibi güncellenmiş olup 54.167.489.337-0014.0067-01-03.09 olarak kullanılmaktadır.*
@@ -18,17 +19,32 @@ sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.274"
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü
 
-**Sayı :** 64047795/23642684/010-06  
-**Konu :** Adli olaya taraf kişiler, hakkında tedavi ve denetimli serbestlik tedbirine hükmedilenler ile tutuklu ve hükümlü tedavi gideri hk.
+**Sayı :** 64047795/23642684/010-06 / 165  
+**Konu :** Adli olaya taraf kişiler, hakkında tedavi ve denetimli serbestlik tedbirine hükmedilenler ile tutuklu ve hükümlü tedavi gideri hk.  
+**Tarih :** 03.01.2013
+
+VALİLİĞİNE
 
 ### GENELGE
 **2013/2**
 
-### 1 – ADLİ OLAYLARA TARAF KİŞİLERİN TEDAVİ GİDERLERİ:
+**İlgi:**
+a) 09.08.2004 tarihli ve 13480 (2004/104) sayılı Genelge.
+b) 01.02.2005 tarihli ve 1792 sayılı Genel Yazı.
+c) 11.02.2005 tarihli ve 2398 sayılı Genel Yazı.
+ç) 12.09.2005 tarihli ve 17594 sayılı Genel Yazı.
+d) 24.04.2006 tarihli ve 8113 (2006/49) sayılı Genelge.
+e) Adli vakalara ait fiyat tarifesi hakkında 16.05.2012 tarihli ve 7007 (2012/22) sayılı Genelge.
 
-a- Güvenlik güçlerince yakalanarak gözaltına alınan kişilerin nezarethaneye giriş ve çıkışlarında yapılan adli muayene giderleri kolluk kuvvetlerinin bağlı olduğu genel bütçeli idarelerce (İçişleri Bakanlığı, Adalet Bakanlığı vb.) karşılanacaktır.
+Ceza infaz kurumları ve tutukevlerince Bakanlığımıza bağlı hastaneler ve üniversite hastanelerine sevk edilen tutuklu ve hükümlüler, hakkında tedavi ve denetimli serbestlik tedbirine hükmedilenler ile adli olaya taraf olan ve adli makamlarca sağlık durumlarının belirlenmesi ve adli rapor düzenlenmesi amacıyla gönderilen sanık, mağdur ve müşteki durumundaki kişilerin tıbbi muayene, kontrol, tetkik ve tedavilerine ait giderler, ilgi (a), (b), (c), (ç) ve (d)’de kayıtlı genelge ve genel yazılarımızda yer alan hükümler doğrultusunda yürütülmekte idi. Hükümlerin bir kısmının güncelliğini yitirmiş olması nedeniyle anılan düzenlemeler yürürlükten kaldırılmış olup, bahse konu sağlık giderlerine ilişkin uygulamaların iş bu genelge kapsamında yürütülmesi gerekmektedir.
 
-b- Şüpheli, sanık, mağdur ve diğer kişilerin beden muayenesi, bu kişilerden kan veya benzeri biyolojik örneklerle, saç, tükürük, tırnak gibi örnekler alınması ve bunlar üzerinde moleküler genetik incelemeler yapılması ile diğer adli muayene ve rapor tanzim giderleri ile bu kişilerin adli muayeneleri sonrasında veya acil hallerde yapılan her türlü muayene, tetkik, tahlil ve tedavi bedelleri Bakanlığımızca karşılanacaktır.
+### 1- ADLİ OLAYA TARAF OLAN (TRAFİK KAZASI HARİÇ) KİŞİLERİN TEDAVİ GİDERLERİ:
+
+a- Adli olaya taraf olan ve adli makamlarca sağlık durumlarının belirlenmesi ve adli rapor düzenlenmesi amacıyla gönderilen sanık, mağdur ve müşteki durumundaki kişilerin tıbbi muayene, kontrol, tetkik ve tedavilerine ait giderler ilgilinin SGK hak sahibi olması halinde Sağlık Uygulama Tebliği usul ve esasları kapsamında anılan Kuruma fatura edilmesi gerekmektedir.
+
+b- Herhangi bir nedenle genel sağlık sigortasından faydalanmayan kişilerin bahse konu giderleri Bakanlığımızca karşılanacaktır.
+
+c- Sağlık Uygulama Tebliği’nde yer almayan ancak Bakanlığımız ve üniversite hastanelerinde adli tıbba yönelik yapılan işlemler ilgi (e) Genelge’de belirtilen usul ve esaslar çerçevesinde yürütülecektir.
 
 ### 2 – HAKKINDA TEDAVİ VE DENETİMLİ SERBESTLİK TEDBİRİNE HÜKMEDİLEN KİŞİLERİN TEDAVİ GİDERLERİ:
 

@@ -11,10 +11,22 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.417"
+kontrol_edildi: true
 ---
 
 5.2.1. Sağlık Yapıları Yönetimi Usul ve Esasları
+
+### Dağıtım yerlerine yazı (kitap s. 403)
+
+İlgi yazıları: (a) Bakan Yardımcılığı Makamının 15.03.2023 tarihli ve 31496714 sayılı yazısı; (b) Sağlık Yatırımları Genel Müdürlüğünün 30.06.2021 tarihli ve 212990232 sayılı yazısı; (c) Bakan Yardımcılığı Makamının 21.12.2021 tarihli ve 78742172 sayılı yazısı; (d) Sağlık Yatırımları Genel Müdürlüğünün 22.12.2022 tarihli ve 1545044 sayılı yazısı. (Kaynak görüntüde bazı rakamlar bulanık.)
+
+Bakanlığa bağlı sağlık kurum ve kuruluşları ile idari binaların depreme dayanıklılık yönünden değerlendirilmesinde önceliklendirme yapılması; binaların deprem dayanıklılığının artırılması noktasında kamu kaynaklarının etkin ve verimli kullanılması için aşağıdaki öncelik sıralamasına göre işlem tesis edilmesi bildirilmiştir:
+
+1. Etap: Yapım yılı 2000 ve öncesi olan binalar.  
+2. Etap: Yapım yılı 2001 ve 2007 yılları arası olan binalar.  
+3. Etap: Yapım yılı 2008 ve 2018 yılları arası olan binalar.
+
+Her etap tamamlandığında değerlendirme İl Sağlık Müdürlükleri bünyesinde yapılarak Bakanlığın ilgili birimine bildirilmelidir. İl genelinde farklı uygulamalar oluşmaması için deprem performans analizi yaptırılacak binalar, tahliye, yıkım ve güçlendirme süreçleri ile hizmetin sürdürülmesi konusunda ilgili genel müdürlüklere bildirim yapılması ve koordinasyon kurulması istenmiştir. Görüntünün alt bölümünde, performans analizi için teknik personel bulunmaması halinde Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünden veya diğer kamu kurumlarından destek alınacağı; güçlendirme projeleri ve yaklaşık maliyetlerine dair 2014/9 sayılı yazının uygulanacağı belirtilmektedir. Alt satır devamı sayfa dışında kaldığından tamamlanmamıştır.
 
 ### T.C. SAĞLIK BAKANLIĞI Sağbk Yatımlan Genel Müdürligü
 

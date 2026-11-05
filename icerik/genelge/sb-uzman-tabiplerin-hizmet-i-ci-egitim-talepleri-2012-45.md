@@ -2,7 +2,7 @@
 id: "sb-uzman-tabiplerin-hizmet-i-ci-egitim-talepleri-2012-45"
 baslik: "Uzman Tabiplerin Hizmet İçi Eğitim Talepleri Genelgesi (2012/45)"
 tur: "genelge"
-tarih: "2012-11-28"
+tarih: "2012-12-03"
 sayi: "2012/45"
 birim: "Türkiye Kamu Hastaneleri Kurumu"
 konu: "Uzman tabiplerin yeni tıbbi teknik ve girişimsel uygulamalara yönelik eğitim ve araştırma hastanelerinde hizmet içi eğitim başvuruları ve izin usul ve esasları"
@@ -11,56 +11,52 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 893-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.907"
+kontrol_edildi: true
 ---
 
 7.3.14. Uzman Tabiplerin Hizmet İçi Eğitim Talepleri Genelgesi (2012/45)
 
 T.C.
 SAĞLIK BAKANLIĞI
-Türkiye Kamu Hastaneleri Kurumu
+TÜRKİYE KAMU HASTANELERİ KURUMU
+İnsan Kaynakları Başkan Yardımcılığı
 
-Sayı : B.10.1.TKH.0.73.00.00 / 12154
+Sayı : B.10.1.TKH.0.25.00.00-774.99/84845
 Konu : Uzman Tabiplerin Hizmet İçi Eğitim Talepleri
 
-28/11/2012
+03.12.2012
 
 GENELGE
 2012/45
 
-Tıptaki hızlı gelişmeler, yeni tanı ve tedavi yöntemlerinin uygulamaya girmesi ve ileri teknoloji gerektiren girişimsel tıbbi işlemlerin yaygınlaşması sebebiyle sağlık hizmetlerinin kalitesinin artırılması amacıyla uzman tabiplerin hizmet içi eğitime tabi tutulmaları gerekmektedir.
+Sağlıkta Dönüşüm Programı kapsamında yataklı tedavi kurumlarında muayene teşhis ve tedavi hizmetlerinin sunumunda etkinlik ve kaliteyi belirlemede önemli rol üstlenen Uzman Tabiplerin çağın sürekli değişen ve gelişen modern tıbbın gerektirdiği özellikli uygulamalar konusunda hizmet içi eğitime alınmaları önem arz etmektedir.
 
-Kurumumuza bağlı eğitim ve araştırma hastanelerinde uzman tabiplerin hizmet içi eğitim taleplerinin karşılanmasına ilişkin usul ve esaslar aşağıda belirlenmiştir:
+Bu çerçevede, sağlık kurumlarında görev yapan Uzman Tabip'lerin hizmet içi eğitim ihtiyacının gerekçeli olarak tespiti ve yapılan taleplerin ihtiyaçlar doğrultusunda doğru olarak değerlendirilip sonuçlandırılabilmesi, Kurumumuza yapılan eğitim başvurularında uygulama birliğinin sağlanarak, gereksiz yazışmalara ve zaman kaybına sebebiyet verilmemesi için;
 
-### A) Başvuru ve Kabul Şartları:
+A- Eğitim Başvurularında Bulunması Zorunlu Bilgi ve Belgeler Şunlardır:
 
-1. Eğitim başvuruları yalnızca Bakanlığımıza bağlı eğitim ve araştırma hastanelerine yapılabilir.
+1. Kamu Hastaneleri Birliklerinde çalışan Uzman Tabip'ler için;
+a) Hizmet İçi Eğitim almayı talep eden Uzman Tabib'in Hastane Yöneticisine hitaplı dilekçesi,
+b) Eğitim ve Araştırma Hastanelerinde çalışan Uzman Tabip'lerin eğitim talepleri için Eğitim Planlama ve Koordinasyon Kurulu kararı,
+c) Eğitim almak istenilen Kurumun uygun görüş yazısı,
 
-2. Üniversite ve Özel Hastanelerde çalışan Uzman Tabipler için başvuru formuna çalıştığı kurumdan alınacak izin ve onay belgelerinin eklenmesi zorunludur.
+2. Üniversite ve Özel Hastanelerde çalışan Uzman Tabip'ler için:
+a) Hizmet İçi Eğitimi almayı talep eden Uzman Tabib'in dilekçesi,
+b) Hizmet İçi Eğitimi almayı talep eden Uzman Tabib'in görev yaptığı Kurumun uygun görüş yazısı,
+c) Eğitim almak istenilen Kurumun uygun görüş yazısı.
 
-3. Başvurular, eğitimin başlama tarihinden en az 2 (iki) ay önce Kuruma Kamu Hastane Birlikleri Genel Sekreterliği aracılığı ile gönderilir.
+B- Eğitim Başvurusuna İlişkin Esaslar Şunlardır:
 
-4. Bu genelge hükümlerine uygun olmayan ve Kuruma doğrudan yapılan bireysel başvurular değerlendirmeye alınmaz.
-
-5. Geçici görevli Uzman Tabiplerin eğitim başvuruları kabul edilmez. Geçici görevli Uzman Tabipler kadrosunun bulunduğu kurumlarında göreve başladıktan sonra eğitim için başvuru yapabilirler.
-
-### B) Eğitimin Yürütülmesi ve Süresi:
-
-1. Hizmet içi eğitim süresi en az 1 ay, en fazla 6 aydır. Eğitim süresi eğitim programının niteliğine ve eğitici kliniğin teklifine göre belirlenir.
-
-2. Eğitime katılan tabip, eğitim süresince eğitici kliniğin çalışma düzenine, nöbet ve mesai kurallarına uymakla yükümlüdür.
-
-3. Eğitim bitiminde ilgili eğitim sorumlusu ve başhekimlikçe onaylanan "Hizmet İçi Eğitim Başarı Belgesi" tanzim edilir ve ilgilinin özlük dosyasına işlenmek üzere kurumuna gönderilir.
+a) Kamu Hastaneleri Birliklerinde çalışan Uzman Tabip'ler eğitim başvurularını ekte yer alan başvuru formu ile çalıştığı sağlık tesisine yaparlar. Eğitim talep eden Uzman Tabip eğitim sonunda çalıştığı sağlık tesisinin bağlı olduğu Birlikte bir yıl süre ile çalışmayı taahhüt eder.
+b) Üniversite ve Özel Hastanelerde çalışan Uzman Tabip'ler eğitim başvurularını dilekçe ile çalıştığı kuruma yaparlar.
+c) Kamu Hastaneleri Birliklerinde çalışan Uzman Tabip'ler için başvuru formuna bu genelgenin A.1. maddesinde belirtilen belgelerin eklenmesi zorunludur.
+d) Üniversite ve Özel Hastanelerde çalışan Uzman Tabipler için başvuru formuna bu genelgenin A.2. maddesinde belirtilen belgelerin eklenmesi zorunludur.
+e) Başvurular, eğitimin başlama tarihinden en az 2 (iki) ay önce Kuruma Kamu Hastane Birlikleri Genel Sekreterliği aracılığı ile gönderilir.
+f) Bu genelge hükümlerine uygun olmayan ve Kuruma doğrudan yapılan bireysel başvurular değerlendirmeye alınmaz.
+g) Geçici görevli Uzman Tabip'lerin eğitim başvuruları kabul edilmez. Geçici görevli Uzman Tabip'ler kadrosunun bulunduğu kurumlarında göreve başladıktan sonra eğitim için başvuru yapabilirler.
 
 Bilgilerinizi ve hizmet içi eğitim başvurularına ilişkin iş ve işlemlerin bu genelge ile belirlenen usul ve esaslar dahilinde yürütülmesini, bunun dışında yapılacak eğitim başvuruları hakkında Kurumumuzca işlem yapılmayacağının Birliğiniz, sağlık tesisleri ile iliniz üniversite ve Özel Hastanelerine imza karşılığı tebliğini önemle rica ederim.
 
 Prof. Dr. Nihat TOSUN
 Bakan a.
 Müsteşar
-
-EKLER:
-1- Başvuru Formu (1 sayfa)
-
-DAĞITIM:
-Kamu Hastaneleri Birliklerine
-

@@ -11,12 +11,12 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 525-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.539"
+kontrol_edildi: true
 ---
 
 
 
-6.3.15. Kızamık/Kızamıkcık ve Konjenital Kızamıkçık Sendromu (KKS) Genelgesi (2010/20)
+6.3.15. Kızamık/Kızamıkçık ve Konjenital Kızamıkçık Sendromu (KKS) Genelgesi (2010/20)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü

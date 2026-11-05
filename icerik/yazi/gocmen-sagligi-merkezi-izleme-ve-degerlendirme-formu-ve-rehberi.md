@@ -12,7 +12,7 @@ kaynak_pdf_sayfa: "542-544"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "mevzuat-kitabi.pdf s.543, mevzuat-kitabi.pdf s.544"
+kontrol_edildi: true
 ---
 
 ## GÖÇMEN SAĞLIĞI MERKEZİ İZLEME VE DEĞERLENDİRME FORMU VE REHBERİ

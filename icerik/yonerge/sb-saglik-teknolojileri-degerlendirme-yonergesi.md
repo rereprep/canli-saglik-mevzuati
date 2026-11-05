@@ -11,10 +11,16 @@ ocr: true
 tarih: "2019-10-25"
 sayi: "5201"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.47"
+kontrol_edildi: true
 ---
 
 2.2.5. Sağlık Teknolojileri Değerlendirme Yönergesi
+
+### Bakanlık Makamına sunuş yazısı (kitap s. 33)
+
+Kaynak yazının sayı ve tarihi: 54567092/010.04; 25/10/2019, saat 15:05; evrak numarası 34567092-010.04-5201. Konu: Sağlık Teknolojileri Değerlendirme Yönergesi.
+
+Sağlık teknolojisi değerlendirme sürecini ve basamaklarını tanımlamak amacıyla “Sağlık Teknolojisi Değerlendirme Yönergesi” hazırlanmıştır. Anılan Yönerge'nin onaylanarak yürürlüğe konulmasını takdir ve tensiplerinize arz ederim.
 
 ### SAĞLIK TEKNOLOJİSİ DEĞERLENDİRME YÖNERGESİ
 

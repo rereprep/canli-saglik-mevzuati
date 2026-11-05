@@ -9,12 +9,16 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 27-3
 durum: "yürürlükte"
 ocr: true
 tarih: "2020-08-14"
-sayi: "967"
+sayi: "54567092-010.04"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.41"
+kontrol_edildi: true
 ---
 
 2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge
+
+### Bakanlık Makamına sunuş yazısı (kitap s. 27)
+
+10/7/2018 tarihli ve 30474 sayılı Resmî Gazete'de yayımlanan 1 numaralı Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (a) ve (b) bentleri ve 508 inci maddesi ile 31/7/2019 tarihli ve 30848 sayılı Resmî Gazete'de yayımlanan Terapötik Aferez Merkezleri ve Üniteleri Hakkında Yönetmelik hükümlerine dayanılarak hazırlanan Yönerge ekte sunulmuştur. Onaylanarak yürürlüğe konulması arz edilmiştir. Evrak damgası: 14/08/2020 14:31; 84655351-010.04-96. Ek: Yönerge metni (4 sayfa). İmza/onay bölümünde tarih 2020 olarak basılı, gün/ay seçilemiyor.
 
 ### SAĞI IK HIZMETLERI GENEL MODÜRLO0O • T.C. MEVZUAT İŞLERI DAIREN BAŞKANLIĞI SAĞLIK BAKANLIĞI 10/12/2020 11-04 • 54567092-010.04-5974
 

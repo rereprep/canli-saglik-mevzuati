@@ -11,13 +11,13 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 481-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.495"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Halk Sağlığı Genel Müdürlüğü
 
-**Sayı:** 23776858-157.99-242  
+**Sayı:**  
 **Konu:** Kanser kayıtçılığı
 
 ### GENELGE

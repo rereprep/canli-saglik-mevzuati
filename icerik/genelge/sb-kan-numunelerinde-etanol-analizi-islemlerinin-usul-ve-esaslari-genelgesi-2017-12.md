@@ -10,13 +10,13 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 275-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.289"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü
 
-**Sayı :** 23642684-010.06/  
+**Sayı :** 95966346/  
 **Konu :** Kan Numunelerinde Etanol Analizi İşlemlerinin Usul ve Esasları  
 **Tarih :** 27/04/2017
 

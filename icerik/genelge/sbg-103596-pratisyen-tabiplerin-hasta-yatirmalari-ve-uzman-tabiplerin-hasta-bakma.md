@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103596/pratisyen-tabiplerin-hasta-yati
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103596.pdf s.1"
+kontrol_edildi: true
 ---
 
 2.3.42. Pratisyen Tabiplerin Hasta Yatırmaları ve Uzman Tabiplerin Hasta Bakma Yaş Sınırı Genelgesi (2018/30)

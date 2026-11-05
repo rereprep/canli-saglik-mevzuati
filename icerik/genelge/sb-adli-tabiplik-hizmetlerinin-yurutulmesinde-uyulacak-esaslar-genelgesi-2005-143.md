@@ -2,30 +2,61 @@
 id: "sb-adli-tabiplik-hizmetlerinin-yurutulmesinde-uyulacak-esaslar-genelgesi-2005-143"
 baslik: "Adli Tabiplik Hizmetlerinin Yürütülmesinde Uyulacak Esaslar Genelgesi (2005/143)"
 tur: "genelge"
+tarih: "2005-09-22"
 sayi: "2005/143"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Adli Tabiplik Hizmetlerinin Yürütülmesinde Uyulacak Esaslar Genelgesi (2005/143) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
 etiketler: ["halk sağlığı", "adli tabiplik", "adli tıp"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 784-796"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.798"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-**Sayı :** B.10.0.TSH.0.10.00.03-010.06/16147  
-**Konu :** Adli Tabiplik Hizmetlerinin Yürütülmesinde Uyulacak Esaslar  
+**Sayı :** B.10.0.TSH.013.003 - 13292  
+**Konu :** Adli tabiplik hizmetlerinin yürütülmesinde uyulacak esaslar  
 **Tarih :** 22.09.2005
 
 ### GENELGE
 **2005/143**
 
-**1. ADLİ TABİPLİK HİZMETLERİNDE RESMİ BİLİRKİŞİLİK YETKİSİ**
+**İlgi:** 20.09.2000 tarihli ve B100TSH0130000-13243 (2000/93) sayılı Genelge.
 
-1.1. Adli tabiplik hizmetleri esasen ve öncelikle Adli Tıp Kurumu'na bağlı birimlerce yürütülmek durumundadır. Mahkemeler ile häkimlikler ve Cumhuriyet savcıhklan tarafindan gönderilen adli tıpla ilgili konularda bilimsel ve teknik görüş bildirmek üzere, 2659 sayılı Adli Tıp Kurumu Kanunu ile Adalet Bakanlığina bağlı Adli Tıp Kurumu tesis edilmiş olup; bu Kuruma bağlı şube müdürlükleri, kurulu bulundukları yerlerde adli tıp hizmetlerini yerine getirmekle yükümlü kılınmışlardır. Diğer yandan, sözü edilen Kanunun 3l'inci maddesi gereğince yüksek ogretim kurumlarımın/universitelerin adli tıpla ilgili bölüm veya bilimlerinde çalışan uzmanlar, adli olaylarda resmi bilirkişi sayılmışlardır.
+Bilindiği üzere, Bakanlığımıza bağlı sağlık kuruluşlarında adli tabiplik hizmetleri hâlen ilgi Genelgede belirtilen esaslar çerçevesinde yürütülmektedir. Ancak, 01.06.2005 tarihinde yürürlüğe giren 5237 sayılı Türk Ceza Kanunu (TCK) ile 5271 sayılı Ceza Muhakemesi Kanunu (CMK) ve bu Kanuna dayanarak çıkartılan bazı yönetmelikler doğrultusunda, adli tabiplik hizmetlerinin yürütülmesi ile ilgili konuların yeniden düzenlenmesi gereği ortaya çıkmıştır.
+
+Bu nedenle, Sağlık Bakanlığı'na bağlı sağlık kuruluşlarında adli tabiplik hizmetleri aşağıda açıklanan düzenlemeler çerçevesinde yürütülecektir.
+
+### 1. ADLİ TABİPLİK HİZMETLERİNİN KAPSAMI VE YASAL ÇERÇEVE
+
+#### Kapsam
+
+**1.1.** Bakanlığımıza bağlı sağlık kuruluşlarınca yürütülen adli tabiplik hizmetleri esas olarak travmaya bağlı adli vakaların değerlendirilmesi ve bunlara ait adlî raporların düzenlenmesi ile adlî ölü muayenesi ve otopsi işlemleridir. Kimlik tespiti, cinsel saldırı olgularının değerlendirilmesi, yaş tayini, maluliyet değerlendirmesi, ceza ehliyeti ve hukuki ehliyet tespiti ile kişinin işlediği fiilin hukuki anlam ve sonuçlarını algılama (farik ve mümeyyizlik) ve/veya davranışlarını yönlendirme yeteneğinin yeterince gelişip gelişmediğinin değerlendirilmesi gibi hizmetler de bu kapsamdadır.
+
+#### Muayene ve rapor düzenleme yetkisi
+
+**1.2.** 1219 sayılı Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanun'da, kişilerin bedenî ve aklî durumu hakkında rapor tanzimine sadece bu Kanuna göre meslek icrası hakkına sahip tabipler yetkili kılınmış olup (Madde 13), mahkemelerce bilirkişilik için başvurulacak tabiplerin de bu özelliğe sahip olması gerektiği hükmü yer almaktadır (Madde 11).
+
+Aynı şekilde, CMK'da adli tabiplik hizmetleriyle ilgili muhtelif maddelerde, bu işlemlerin sadece tabipler veya sağlık mesleği mensuplarınca yapılacağı hükme bağlanmıştır.
+
+#### Bilirkişi olarak adli tabibin yükümlülükleri ve yetkileri
+
+**1.3.** Adlî tabiplik hizmeti aslen bir bilirkişilik hizmeti olup, görevin icrasında CMK'nın bilirkişilik ile ilgili hükümleri geçerlidir (CMK, Madde 62-73). Buna göre,
+
+a) Bilirkişiler, hâkimler veya mahkemeler ile soruşturma evresinde Cumhuriyet savcısı tarafından belirlenir. Kanunların belirli konularda görevlendirdiği resmî bilirkişiler öncelikle atanırlar.
+
+b) Resmî bilirkişilikle görevlendirilmiş olanlar, bilirkişilik görevini kabul etmekle yükümlü olup, usulünce çağrıldığı halde yasal bir sebep olmaksızın gelmeyen veya görüş bildirmekten çekinen bilirkişiler hakkında disiplin hapsi cezası uygulanır.
+
+c) Bilirkişi olarak görevlendirilen tabip, görevini yerine getirirken zorunlu saydığı soruları, mağdur, şüpheli veya sanığa yöneltebilir. Ayrıca, görevini yerine getirmek amacıyla bilgi edinmek için şüpheli veya sanık dışındaki kimselerin de bilgilerine başvurabilir.
+
+d) Mahkeme, her zaman bilirkişinin duruşmada dinlenmesine karar verebileceği gibi, ilgililerden birinin istemesi halinde de açıklamalarda bulunmak üzere duruşmaya çağırabilir.
+
+#### Adli tabiplik hizmetlerinde resmî bilirkişilik yetkisi
+
+**1.4.** Adli tabiplik hizmetleri esasen ve öncelikle Adli Tıp Kurumu'na bağlı birimlerce yürütülmek durumundadır. Mahkemeler ile häkimlikler ve Cumhuriyet savcıhklan tarafindan gönderilen adli tıpla ilgili konularda bilimsel ve teknik görüş bildirmek üzere, 2659 sayılı Adli Tıp Kurumu Kanunu ile Adalet Bakanlığina bağlı Adli Tıp Kurumu tesis edilmiş olup; bu Kuruma bağlı şube müdürlükleri, kurulu bulundukları yerlerde adli tıp hizmetlerini yerine getirmekle yükümlü kılınmışlardır. Diğer yandan, sözü edilen Kanunun 3l'inci maddesi gereğince yüksek ogretim kurumlarımın/universitelerin adli tıpla ilgili bölüm veya bilimlerinde çalışan uzmanlar, adli olaylarda resmi bilirkişi sayılmışlardır.
 
 Keza, adli tabiplik hizmetleri, Adli Tıp Kurumu Kanunu'nun ve 224 sayılı Sağlık Hizmetlerinin Sosyalleştirilmesi Hakkında Kanun'un 10 uncu maddelerine istinaden büyük ölçüde Sağlık Bakanlığı kuruluşlarınca da yerine getirilmektedir.
 

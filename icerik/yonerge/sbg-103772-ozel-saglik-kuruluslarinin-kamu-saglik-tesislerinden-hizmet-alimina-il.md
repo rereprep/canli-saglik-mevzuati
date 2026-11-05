@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103772/ozel-saglik-kuruluslarinin-kamu
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103772.pdf s.1"
+kontrol_edildi: true
 ---
 
 # ÖZEL SAĞLIK KURULUŞLARININ KAMU SAĞLIK TESİSLERİNDEN HİZMET ALIMINA İLİŞKİN YÖNERGE

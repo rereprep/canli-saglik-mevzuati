@@ -10,7 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 504-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.518"
+kontrol_edildi: true
 ---
 
 6.3.10. Kurumlarımızda Yer Alan Ticari Alanların Kiraya Verilmesi Genelgesi (2011/43)

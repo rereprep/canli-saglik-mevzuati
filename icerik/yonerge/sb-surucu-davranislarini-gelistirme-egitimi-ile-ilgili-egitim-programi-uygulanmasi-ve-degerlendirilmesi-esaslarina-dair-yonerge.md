@@ -11,10 +11,22 @@ ocr: true
 tarih: "2005-03-04"
 sayi: "3201"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.492"
+kontrol_edildi: true
 ---
 
 6.2.8. Sürücü Davranışlarını Geliştirme Eğitimi ile İlgili Eğitim Programı Uygulanması ve Değerlendirilmesi Esaslarına Dair Yönerge
+
+### Birinci bölüm (kitap s. 478)
+
+04.03.2005 tarihli ve 3201 sayılı.
+
+**Madde 1 – Amaç:** Yönergenin amacı, Sürücü Davranışlarını Geliştirme Eğitimi Yönetmeliği hükümleri doğrultusunda eğitime tabi tutulan sürücülere eğitim programı sonunda yapılacak değerlendirmeler ile ilgili usul ve esasları düzenlemektir.
+
+**Madde 2 – Kapsam:** Yönerge, Sürücü Davranışlarını Geliştirme Eğitimine tabi tutulan sürücüler, eğitim programının uygulanmasında görev alacak eğitimciler, trafik eğitimcilerini ve eğitim birimini kapsar.
+
+**Madde 3 – Dayanak:** 14/09/2004 tarihli ve 25583 sayılı Resmî Gazete'de yayımlanan Sürücü Davranışlarını Geliştirme Eğitimi Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
+
+**Madde 4 – Tanımlar:** Müdürlük, eğitimi veren resmî sağlık kuruluşunun bulunduğu İl Sağlık Müdürlüğünü; Yönetmelik, 14 Eylül 2004 tarih ve 25583 sayılı Resmî Gazete'de yayımlanan Yönetmeliği; Eğitim, Sürücü Davranışlarını Geliştirme Eğitimini; Eğitim Birimi, İl Sağlık Müdürlüğü bünyesindeki birimi; Eğitim Programı, eğitim ve izleme-değerlendirme olmak üzere iki bölümde uygulanacak teorik ve uygulamalı programı; Eğitimci, Bakanlıkça hazırlanan eğitimi alıp sertifikalandırılmış ve programı uygulayacak kişiyi; Trafik Eğitimcisi, İl Emniyet Müdürlüğü Trafik Denetleme Şubelerinde görevli, en az lisans düzeyinde eğitim görmüş ve trafik eğitimi almış kişiyi; Sürücü, kanuna göre ikinci kez alkollü araç kullandığı tespit edilerek eğitime tabi tutulan kişiyi ifade eder.
 
 ### SÜRÜCÜ DAVRANIŞLARINI GELİŞTİRME EĞİTİMİ İLE İLGİLİ EĞİTİM PROGRAMI UYGULANMASI VE DEĞERLENDİRİLMESİ ESASLARINA DAİR YÖNERGE
 

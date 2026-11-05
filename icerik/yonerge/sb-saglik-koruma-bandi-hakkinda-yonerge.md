@@ -11,10 +11,25 @@ ocr: true
 tarih: "2011-02-17"
 sayi: "6359"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.489"
+kontrol_edildi: true
 ---
 
 6.2.7.Sağlık Koruma Bandı Hakkında Yönerge
+
+### Bakanlık Makamına sunuş yazısı (kitap s. 475)
+
+Sayı: B1XUTSH0100002  
+Konu: Yönerge
+
+Gayrisıhhi müesseselerin ruhsatları ve denetimleri Bakanlığımız tarafından yapılmakta iken, 5216 sayılı Büyükşehir Belediyesi Kanunu, 5272 sayılı Belediye Kanunu ve 5302 sayılı İl Özel İdaresi Kanunu, kurumların ve Bakanlığımızın yetki ve sorumluluklarını değiştirmiştir.
+
+Gayrisıhhi müesseselerin denetim, ruhsatlandırma ve sağlık koruma bandı belirlenmesi işlemleri İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik kapsamında yapılmaktadır. Belediyeler ve İl Özel İdareleri tarafından oluşturulan inceleme kurulları aynı özellikteki tesisler için farklı sağlık koruma bandı ve güvenlik mesafesi oluşturabilmektedir.
+
+Ülke genelinde standardizasyonun sağlanması ve çevre ve toplum sağlığının olumsuz etkilenmemesi amacıyla “Çevre ve Toplum Sağlığını Olumsuz Etkileyebilecek Gayrisıhhi Müesseselerin Etrafında Bırakılacak Sağlık Koruma Bandı Mesafesinin Belirlenmesi Hakkında Yönerge” hazırlanmıştır.
+
+Organize Sanayi Bölgesi ve Gayri Sıhhi Müesseseler (Çevresel Etki Değerlendirmesi) Yönetmeliği Ek-1 ve Ek-2 listelerinde yer alan işletmeler ile İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik ekinde yer alan gayrisıhhi müesseseler ile ilgili Bakanlığımızca yerine getirilen iş ve işlemlerin valiliklere devredilmesi ve ekli “Çevre ve Toplum Sağlığını Olumsuz Etkileyebilecek Gayrisıhhi Müesseselerin Etrafında Bırakılacak Sağlık Koruma Bandı Mesafesinin Belirlenmesi Hakkında Yönerge”nin yürürlüğe konulmasını takdir ve tensiplerinize arz ederim.
+
+Tarih damgası: 17 Şubat 2011. Onay bölümündeki gün/ay okunaksız; yıl 2011. Bakan: Prof. Dr. Recep Akdağ.
 
 ### ÇEVRE VE TOPLUM SAĞLIĞINI OLUMSUZ ETKİLEYEBİLECEK GAYRİSIHHİ MÜESSESELERİN ETRAFINDA BIRAKILACAK SAĞLIK KORUMA BANDI MESAFESİ BELİRLENMESİ HAKKINDA YÖNERGE Genel Hükümler Amaç, Kapsam, Dayanak ve Tanımlar
 

@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 263-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.277"
+kontrol_edildi: true
 ---
 
 2.3.48. Konaklama Tesisleri Bünyesinde Sunulacak Sağlık Hizmetleri Genelgesi (2013/18)

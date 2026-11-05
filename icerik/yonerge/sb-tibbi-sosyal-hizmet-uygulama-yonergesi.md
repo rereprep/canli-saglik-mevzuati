@@ -11,10 +11,16 @@ ocr: true
 tarih: "2011-02-16"
 sayi: "7465"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.111"
+kontrol_edildi: true
 ---
 
 2.2.12. Tıbbi Sosyal Hizmet Uygulama Yönergesi
+
+### Bakanlık Makamına sunuş yazısı (kitap s. 97)
+
+Sayı: B.10.0.THG.0.58.00.01.020/7465. Konu: Tıbbi Sosyal Hizmet Uygulama Yönergesi. Bakanlığımız sağlık kurum ve kuruluşlarından hizmet alan özürlü, kimsesiz, yoksul, sağlık güvencesiz, yaşlı, mülteci, sığınmacı, aile içi şiddet mağduru, il dışından gelen vb. hastalar öncelikli olmak üzere sosyal hizmet müdahalesine ihtiyaç duyan tüm hastaların tedavi sürecinde yaşadıkları psiko-sosyal ve sosyo-ekonomik sorunlarının zamanında çözümlenmesi amacıyla tıbbi sosyal hizmet uygulamalarının standardize edilmesi, etkinleştirilmesi, yaygınlaştırılması ve geliştirilmesine yönelik düzenleme yapılmasına ihtiyaç duyulmuştur. Bu kapsamda “Tıbbi Sosyal Hizmet Uygulama Yönergesi” hazırlanmıştır. Ekte sunulan Yönergenin yürürlüğe konulması arz edilmektedir.
+
+İmza: Prof. Dr. İrfan Şencan, Genel Müdür V.; uygun görüş Prof. Dr. Nihat Tosun, Müsteşar; OLUR, Prof. Dr. Recep Akdağ, Bakan (2011). Ekler: Yönerge (6 sayfa), Yönerge ekleri (5 sayfa).
 
 ## BİRİNCİ BÖLÜM Amaç, Kapsam ve Dayanak, Tanımlar
 

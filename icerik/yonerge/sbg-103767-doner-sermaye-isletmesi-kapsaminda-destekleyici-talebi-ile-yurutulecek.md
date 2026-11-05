@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103767/doner-sermaye-isletmesi-kapsami
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103767.pdf s.1"
+kontrol_edildi: true
 ---
 
 # DÖNER SERMAYE İŞLETMESİ KAPSAMINDA DESTEKLEYİCİ TALEBİ İLE YÜRÜTÜLECEK ÇALIŞMALAR VE HİZMETLER HAKKINDA YÖNERGE

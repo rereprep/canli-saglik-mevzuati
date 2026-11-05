@@ -9,10 +9,28 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103585/kan-numunelerinde-etanol-analiz
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103585.pdf s.1"
+kontrol_edildi: true
 ---
 
 2.3.51. Kan Numunelerinde Etanol Analizi İşlemlerinin Usul ve Esasları Genelgesi (2017/12)
+
+### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı: 95966346/  
+Konu: Kan Numunelerinde Etanol Analizi İşlemlerinin Usul ve Esasları  
+Genelge: 2017/12
+
+09/10/2013 tarihli ve 28790 sayılı Resmî Gazete’de yayımlanarak yürürlüğe girmiş bulunan Tıbbi Laboratuvarlar Yönetmeliğinin “Tıbbi laboratuvarların çalışma esasları” başlıklı 12 nci maddesinin 14 üncü fıkrasında, “Yasadışı ve kötüye kullanılan ilaç ve maddelerin analizini yapan tıbbi laboratuvarlar ile alkol ve madde bağımlılığı tedavi merkezlerindeki tıbbi laboratuvarların çalışma usul ve esasları Bakanlıkça belirlenir.” hükmü yer almaktadır. Anılan hüküm gereğince; tıbbi laboratuvarlarda kan numunelerinde etanol analizi işlemleri için ekteki usul ve esaslar belirlenmiş olup uygulamanın bu hükümler doğrultusunda yürütülmesi gerekmektedir.
+
+Bilgilerini ve uygulamanın işbu Genelge esaslarına göre yürütülmesini önemle rica ederim.
+
+Prof. Dr. Eyüp GÜMÜŞ  
+Bakan a.  
+Müsteşar
+
+Ek: Kan Numunelerinde Etanol Analizi İşlemlerinin Usul ve Esasları (3 sayfa)
+
+Dağıtım (gereği için): 81 İl Valiliği (İl Sağlık Müdürlüğü), Türkiye Halk Sağlığı Kurumu, Türkiye Kamu Hastaneleri Kurumu, Türkiye İlaç ve Tıbbi Cihaz Kurumu, Yükseköğretim Kurulu, T.C. Adalet Bakanlığı Adli Tıp Kurumu, T.C. İçişleri Bakanlığı Emniyet Genel Müdürlüğü
 
 
 ### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü

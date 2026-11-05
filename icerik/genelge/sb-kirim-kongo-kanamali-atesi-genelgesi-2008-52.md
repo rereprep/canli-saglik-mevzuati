@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 667-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.681"
+kontrol_edildi: true
 ---
 
 6.3.32. Kırım-Kongo Kanamalı Ateşi Genelgesi (2008/52)

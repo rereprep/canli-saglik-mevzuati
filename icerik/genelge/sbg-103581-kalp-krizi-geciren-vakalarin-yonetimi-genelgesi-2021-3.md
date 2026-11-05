@@ -9,12 +9,34 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103581/kalp-krizi-geciren-vakalarin-yo
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103581.pdf s.1"
+kontrol_edildi: true
 ---
 
 2.3.34. Kalp Krizi Geçiren Vakaların Yönetimi Genelgesi (2021/3)
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürluğu EK-1 Kalp Krizi Geçiren Vakaların Yönetimine İlişkin Usul ve Esaslar
+### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı: E-83913885  
+Konu: Kalp Krizi Geçiren Vakaların Yönetimi  
+Genelge: 2021/3
+
+Bilindiği üzere, kalp merkezlerinin planlanması, kurulması ve işleyişi ile ilgili usul ve esaslar 18.07.2019 tarihli ve 2019/14 sayılı Kalp Merkezi Hizmeti Genelgesi ile düzenlenmiştir. Bu çerçevede, ülkemizde kalp krizine bağlı gelişen mortalite ve morbiditenin en aza indirilmesi, vakalara ulusal ve uluslararası standartlarda müdahale edilmesi, tanı ve tedavi süreçlerinin geliştirilmesi, vatandaşlarımızın hizmete erişimlerinin kolaylaştırılması, ihtiyaç duyulan sağlık hizmetlerinin zamanında ve hakkaniyetle sunulması amacıyla Bakanlığımızca ülkemizin coğrafi yapısı, nüfus hareketleri, koroner arter hastalığı insidans ve prevalansı, koroner arter hastalığı nedeniyle il dışına yapılan sevkler, mevcut sağlık hizmeti veren kalp merkezlerinin yapıları, bu merkezlere ulaşılabilirlik ve uluslararası standartlar incelenerek kalp krizi geçiren hastaya en kısa sürede en iyi tedaviyi uygulamak amacıyla ilgili usul ve esaslar ekte düzenlenmiştir.
+
+Genelgenin ilinizde bulunan tüm sağlık kuruluşlarına duyurulması, Bakanlığımız ve üniversitelere bağlı sağlık tesislerinde ve özel sağlık tesislerinde kalp krizi tanısı konulan hastalara sunulan sağlık hizmetlerinin işbu Genelge kapsamında yürütülmesi hususunda;
+
+Bilgilerinizi ve gereğini önemle arz/rica ederim.
+
+Prof. Dr. Sabahattin AYDIN  
+Bakan a.  
+Bakan Yardımcısı
+
+Dağıtım:
+
+**Gereği:** Yükseköğretim Kurulu Başkanlığına; 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+**Bilgi:** Cumhurbaşkanlığına; TBMM Başkanlığına; Sosyal Güvenlik Kurumuna; A Planı
+
+### EK-1. Kalp Krizi Geçiren Vakaların Yönetimine İlişkin Usul ve Esaslar
 
 I. Genel Esaslar
 
