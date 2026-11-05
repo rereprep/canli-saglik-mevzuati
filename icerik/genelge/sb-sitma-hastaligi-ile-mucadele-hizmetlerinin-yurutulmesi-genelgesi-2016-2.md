@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 649-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.663"
+kontrol_edildi: true
 ---
 
 6.3.28. Sıtma Hastalığı ile Mücadele Hizmetlerinin Yürütülmesi Genelgesi (2016/2)
@@ -26,17 +26,21 @@ Konu : Sıtma Hastalığı ile Mücadele Hizmetlerinin Yürütülmesi
 GENELGE
 2016/2
 
-Ülkemizde yürütülen kararlı mücadele ve başarılı çalışmalar sonucunda yerli sıtma bulaşı durdurulmuş ve eliminasyon aşamasına gelinmiştir. Ancak, dünyada sıtmanın halen yaygın olarak görülmesi, uluslararası seyahat ve ticaretin artması, göç hareketleri ve iklim değişiklikleri gibi faktörler nedeniyle ülkemize dış kaynaklı sıtma vakalarının girişi ve yerli bulaşın yeniden başlama riski devam etmektedir.
+Bilindiği üzere ülkemizde sıtma hizmetleri, 7402 sayılı Sıtmanın İmhası Hakkında Kanun, 1593 sayılı Umumi Hıfzıssıhha Kanunu ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname çerçevesinde yürütülmektedir.
 
-Bu kapsamda sıtma eliminasyonunun korunması ve yerli sıtma bulaşının önlenmesi amacıyla il düzeyinde yürütülecek iş ve işlemler aşağıda belirtilmiştir:
+Sıtma, enfekte dişi Anofel türü sivrisineklerinin sokmasıyla insanlara bulaşan Plasmodium parazitlerinin neden olduğu bir hastalıktır. Ülkemizde sıtma geçmişte yaygın görülen bir hastalık iken yürütülen başarılı çalışmalar neticesinde son yıllarda sıtmanın görülme sıklığı azalmıştır. Halen nüks ve yurtdışından gelen vakaların sebep olduğu vakalar ile yurtdışı kaynaklı sıtma vakaları tespit edilmektedir. Ancak ülkemizde sıtma etkenini nakleden Anofel türlerinin bulunması, iklim ve çevresel faktörler, büyük nüfus hareketleri, sıtma endemik ülkelere seyahat edenlerin sayısının ve bu ülkelerle ticaret ilişkilerinin artması, yurtdışı kaynaklı sıtma vakalarının artması, düzensiz göçmenler, ülkemizin sıtmanın yayılabileceği subtropikal bölgede yer alması ve iklim değişikliğine bağlı ortalama hava sıcaklıklarında gözlenen artışlar nedeniyle sıtma riski halen devam etmektedir.
 
-### 1) Sürveyans çalışmaları:
+Ülkemizde yerli sıtma bulaşının başlamasının önüne geçilmesi için Halk Sağlığı Müdürlüğü Bulaşıcı Hastalıklar Kontrol Programları Şubesi koordinesinde, aşağıdaki iş ve işlemler ilgili birimlerce yerine getirilecektir.
 
-a) İl genelinde sıtma sürveyans çalışmaları Bulaşıcı Hastalıklar Kontrol Programları Şube Müdürlüğü koordinasyonunda Toplum Sağlığı Merkezleri (TSM) ve Aile Sağlığı Merkezleri (ASM) işbirliği ile yürütülecektir.
+1) Sürveyans ve önleme çalışmaları;
 
-b) Riskli bölgelere seyahat öyküsü bulunanlar, mevsimlik tarım işçileri ve göçmenler öncelikli risk grupları olarak değerlendirilecek, bu gruplarda aktif sürveyans çalışmaları titizlikle sürdürülecektir.
+a) Ülkemizde, halen sıtma endemik ülkelere seyahat edenler, mülteciler, göçmenler, sıtma salgının görüldüğü bölgeden gelenler, mevsimlik işçiler, misafirler ile son üç yıl içerisinde sıtma tanısı alıp tedavisi yapılan hastalar ve bu kişilerle aynı ortamda bulunan (aile bireyleri, iş arkadaşları vb.) kişiler risk gruplarını oluşturmaktadır. Bu nedenle sıtma teşhis ve tedavisi ile hastalık geçişinin önlenmesinde en önemli yöntem olan sürveyans çalışmalarının mülteciler, göçmenler, mevsimlik tarım işçileri, misafirlerde ve bilinmesi durumunda sıtma endemik ülkelere seyahat edenlerde etkin ve düzenli bir şekilde yürütülmesi, sıtma tanısı alıp tedavisi yapılan hastalar ve bu kişilerle aynı ortamda bulunanların ek-1'deki Sıtma Bilgilendirme Formu ile takiplerinin yapılması sağlanacaktır.
 
-c) Mülteciler, göçmenler ve ülkeye izinsiz giren kişilerin sıtma açısından değerlendirilmesinde il emniyet müdürlükleri ile işbirliği yapılarak kişiler tespit edilecektir.
+b) Sürveyans çalışmaları kapsamında aylık olarak risk gruplarına ulaşılarak o anda ateşli olan veya son bir hafta içinde ateş geçirmiş olanlardan (aktif sürveyans) ve herhangi bir nedenle sağlık kuruluşuna başvuran ateşli olan veya son bir hafta içinde ateş geçirmişlerden (pasif sürveyans) kan yayması alınarak sıtma açısından değerlendirilmesi sağlanacaktır.
+
+c) Bahsi geçen sıtma sürveyans hizmetleri ilgili sağlık kuruluşlarında sağlık personeli (doktor, hemşire, sağlık memuru, laboratuvar teknisyeni, biyolog, ebe vb.) tarafından yürütülecek ve yapılan çalışmalar aylık olarak ek-2 deki "Aylık Sıtma Çalışmaları Formu" ile Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir.
+
+ç) Mülteciler, göçmenler ve ülkeye izinsiz giren kişilerin sıtma açısından değerlendirilmesinde il emniyet müdürlükleri ile işbirliği yapılarak kişiler tespit edilecektir.
 
 d) Koruma amaçlı ilaç kullananlar dahil olmak üzere sıtma riskli bölgelerde bulunmuş ve ateşi olan veya son bir hafta içinde ateş geçirmişlerin başvuru sebebine bakılmaksızın sıtma açısından değerlendirilmesi sağlanacaktır. Bu kişilerin ilk değerlendirmelerinde sıtma tespit edilmemiş ise, kişiler hastalık hakkında bilgilendirilecek ve *P. falciparum* sıtması endemik ülkelerden gelenler 1 yıl, *P. vivax* endemik ülkelerden gelenler ise 3 yıl süreyle risk gruplarına dahil edilerek sıtma bilgilendirme formu ile takipleri yapılacaktır.
 

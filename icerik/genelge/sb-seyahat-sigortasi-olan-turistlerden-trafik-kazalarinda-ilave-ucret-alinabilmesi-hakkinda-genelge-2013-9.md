@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 197-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.211"
+kontrol_edildi: true
 ---
 
 2.3.26. Seyahat Sigortası Olan Turistlerden Trafik Kazalarında İlave Ücret Alınabilmesi Hakkında Genelge (2013/9)
