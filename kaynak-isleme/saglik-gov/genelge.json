@@ -970,7 +970,14 @@
   "url": "https://www.saglik.gov.tr/TR-10728/2010-2011-2012-yillari-doner-sermaye-butce-cagrisi-hakkinda-genelge-ve-ekleri.html",
   "tip": "html",
   "dosya": "10728.html",
-  "ekler": []
+  "ekler": [
+   {
+    "dosya": "10728-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/603/0/donerbutcegenelgeveekleripdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10727",
@@ -979,7 +986,14 @@
   "url": "https://www.saglik.gov.tr/TR-10727/burokrasinin-azaltilmasi-ve-idari-basitlestirme-hakkinda-genelge-ve-ekleri.html",
   "tip": "html",
   "dosya": "10727.html",
-  "ekler": []
+  "ekler": [
+   {
+    "dosya": "10727-ek1.zip",
+    "tip": "zip",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/602/0/genelge200950veeklerizip.zip",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10726",
@@ -1203,7 +1217,14 @@
   "url": "https://www.saglik.gov.tr/TR-10713/aile-hekimligi-uygulanan-illerde-merkez-payi-alinmamasi-ile-ilgili-genelge200844.html",
   "tip": "html",
   "dosya": "10713.html",
-  "ekler": []
+  "ekler": [
+   {
+    "dosya": "10713-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/187/0/aile2pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10712",
@@ -1212,7 +1233,14 @@
   "url": "https://www.saglik.gov.tr/TR-10712/doner-sermaye-butcesi-programi-genelgesi.html",
   "tip": "html",
   "dosya": "10712.html",
-  "ekler": []
+  "ekler": [
+   {
+    "dosya": "10712-ek1.pdf",
+    "tip": "pdf",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/161/0/scan0003pdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10711",
@@ -1221,7 +1249,14 @@
   "url": "https://www.saglik.gov.tr/TR-10711/firmadernekvakif-gibi-kuruluslarca-duzenlenen-konferansa-katilan-personelin-egitim-giderleri.html",
   "tip": "html",
   "dosya": "10711.html",
-  "ekler": []
+  "ekler": [
+   {
+    "dosya": "10711-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/130/0/egitimdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10710",

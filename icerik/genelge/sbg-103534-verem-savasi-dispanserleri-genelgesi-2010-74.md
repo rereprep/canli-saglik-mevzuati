@@ -15,3 +15,4 @@ durum: "yürürlükte"
 
 **Dipnotlar**
 
+<small>(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3) 700</small>

@@ -11,3 +11,4 @@ durum: "yürürlükte"
 
 7.3.2. Uzmanlık Öğrencilerinin Uzmanlık Tezi ve Bilimsel Çalışmaları Genelgesi (2023/2)
 
+(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338)(cid:338) (cid:23)(cid:23)(cid:23)(cid:23)(cid:23)(cid:23)(cid:23)(cid:23) (cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404)(cid:404) (cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336)(cid:336) ( / )

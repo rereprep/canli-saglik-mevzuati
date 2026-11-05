@@ -1141,7 +1141,14 @@
   "url": "https://www.saglik.gov.tr/TR-10530/saglik-bakanligi-bagli-kuruluslari-hizmet-birimlerinin-gorevleri-ile-calisma-usul-ve-esaslari-hakkinda-yonetmelik.html",
   "tip": "html",
   "dosya": "10530.html",
-  "ekler": []
+  "ekler": [
+   {
+    "dosya": "10530-ek1.html",
+    "tip": "html",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171222.htm",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "10532",

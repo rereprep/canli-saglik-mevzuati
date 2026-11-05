@@ -5,6 +5,21 @@
   "birim": "",
   "url": "https://www.saglik.gov.tr/TR-11299/gida-maddelerinin-ve-umumi-sagligi-ilgilendiren-esya-ve-levazimin-hususi-vasiflarini-gosteren-tuzuk.html",
   "tip": "html",
-  "dosya": "11299.html"
+  "dosya": "11299.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/MevzuatMetin/2.3.315481.doc",
+  "ekler": [
+   {
+    "dosya": "11299-ek1.doc",
+    "tip": "doc",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/2.3.315481.doc",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11299-ek2.pdf",
+    "tip": "pdf",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/2.3.315481.pdf",
+    "ustyazi": false
+   }
+  ]
  }
 ]

@@ -80,7 +80,7 @@ def uzanti(icerik, tip, ad):
     return m.group(1).lower() if m else "bin"
 
 
-DOSYA_BAG = re.compile(r'href="((?:https?://[^"]*saglik\.gov\.tr)?/?[^"]*?(?:Eklenti/[^"]+|\.(?:pdf|PDF|docx?|DOCX?)))"')
+DOSYA_BAG = re.compile(r'href="((?:https?://[^"]*saglik\.gov\.tr)?/?[^"]*?(?:Eklenti/[^"]+|\.(?:pdf|PDF|docx?|DOCX?|xlsx?|htm)))"')
 
 
 def ekleri_izle(tur):
@@ -90,7 +90,7 @@ def ekleri_izle(tur):
     ogeler = json.loads(dizin_yolu.read_text(encoding="utf-8"))
     klasor = KOK / "kaynak-isleme" / "indirilen" / tur
     import concurrent.futures
-    isler = [o for o in ogeler if o.get("tip") == "html" and "ekler" not in o]
+    isler = [o for o in ogeler if o.get("tip") == "html" and not o.get("ekler")]
     print(f"{tur}: {len(isler)} ara sayfa izlenecek", flush=True)
     with concurrent.futures.ThreadPoolExecutor(4) as havuz:
         for i, _ in enumerate(havuz.map(lambda o: ek_indir(o, klasor), isler)):
@@ -104,16 +104,32 @@ def ekleri_izle(tur):
 def ek_indir(o, klasor):
     if True:
         sayfa = (klasor / o["dosya"]).read_text(encoding="utf-8", errors="replace")
+        bas = sayfa.find('class="pages_content')
+        if bas > 0:  # yalnızca sayfa gövdesindeki bağlantılar
+            son = sayfa.find('class="page_sub_links_content', bas)
+            sayfa = sayfa[bas:son if son > 0 else bas + 60000]
         baglar = []
         for b in DOSYA_BAG.findall(sayfa):
             b = html.unescape(b)
             b = b if b.startswith("http") else urllib.request.urljoin("https://www.saglik.gov.tr/", b)
             if b not in baglar:
                 baglar.append(b)
+        m = re.search(r'href="(https?://(?:www\.)?mevzuat\.gov\.tr/[^"]+)"', sayfa)
+        if m:
+            o["resmi_url"] = html.unescape(m.group(1))
         if not baglar:
-            m = re.search(r'href="(https?://(?:www\.)?mevzuat\.gov\.tr/[^"]+)"', sayfa)
-            if m:
-                o["resmi_url"] = html.unescape(m.group(1))
+            # Bakanlığın alt sitelerindeki sayfaya bir seviye in
+            for alt in re.findall(r'href="(https?://[a-z]+\.saglik\.gov\.tr/[^"]+\.html?)"', sayfa)[:2]:
+                try:
+                    icerik, _, _ = getir(html.unescape(alt))
+                    for b in DOSYA_BAG.findall(icerik.decode("utf-8", "replace")):
+                        b = html.unescape(b)
+                        b = b if b.startswith("http") else urllib.request.urljoin(alt, b)
+                        if b not in baglar and ("Eklenti" in b or re.search(r"\.(pdf|docx?)$", b, re.I)):
+                            baglar.append(b)
+                except Exception:
+                    pass
+        if not baglar:
             o["ekler"] = []
             return
         ekler = []

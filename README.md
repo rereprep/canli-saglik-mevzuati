@@ -9,7 +9,7 @@ Sağlık mevzuatını tek yerde toplayan, [mevzuat.gov.tr](https://www.mevzuat.g
 - Mevzuat türüne göre listeleme, başlıkta ve tam metinde arama, sayı ve yıl süzgeci
 - Her tam metin için **Word (.docx)** ve **PDF** indirme, yazdırma ve metin içinde arama
 - Tam metni henüz eklenmemiş düzenlemeler için künye ve resmî kaynağa bağlantı
-- Resmî Gazete'yi her gün tarayan **Gemini 3.8 Flash** ajanı; bulduğu sağlık düzenlemelerini çekme isteği olarak önerir
+- Resmî Gazete'yi her gün tarayan takip otomasyonu; bulduğu sağlık düzenlemelerini çekme isteği olarak önerir
 
 Site GitHub Pages üzerinde statik olarak yayımlanır; sunucu veya veritabanı gerekmez.
 
@@ -38,7 +38,8 @@ araclar/docx_aktar.py         Word yönerge metinlerini içe aktarır
 araclar/ozcan_ekleri.py       Özcan, Halk Sağlığı kitabı eklerindeki listeleri kataloğa aktarır
 araclar/zenginlestirme_listesi.py  Künyesi eksik belgeler için ajan iş listesi üretir
 araclar/site_uret.py          Statik siteyi, Word ve PDF dosyalarını üretir
-araclar/rg_takip.py           Resmî Gazete takip ajanı (Gemini 3.8 Flash)
+araclar/rg_takip.py           Resmî Gazete takibi (anahtar sözcük süzgeci)
+araclar/mevzuat_gov_aktar.py  Künye kayıtlarının güncel metnini mevzuat.gov.tr'den alır
 site/assets/                  Stil, arama betiği, simge
 ```
 
@@ -67,7 +68,7 @@ Türler: `kanun`, `cbk`, `khk`, `tuzuk`, `yonetmelik`, `yonerge`, `genelge`, `te
 
 ## Resmî Gazete takibi
 
-`.github/workflows/resmi-gazete.yml` her sabah Resmî Gazete'yi tarar. Depo ayarlarında **Settings → Secrets and variables → Actions** altında `GEMINI_API_KEY` tanımlanırsa Gemini 3.8 Flash ajanı her düzenlemenin sağlıkla ilgisini değerlendirir ve künyesini çıkarır; tanımlanmazsa anahtar sözcük süzgeci kullanılır. Model adı `GEMINI_MODEL` değişkeniyle değiştirilebilir.
+`.github/workflows/resmi-gazete.yml` her sabah Resmî Gazete'yi tarar, sağlıkla ilgili yeni düzenlemeleri anahtar sözcüklerle seçer ve bir çekme isteği (pull request) açar. İstek birleştirildiğinde site otomatik yayımlanır.
 
 ## Uyarı
 

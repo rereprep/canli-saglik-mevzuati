@@ -2,9 +2,8 @@
 """Resmî Gazete'yi tarar, sağlıkla ilgili yeni düzenlemeleri siteye ekler.
 
 Her gün GitHub Actions ile çalışır (bkz. .github/workflows/resmi-gazete.yml).
-GEMINI_API_KEY ortam değişkeni tanımlıysa Gemini 3.8 Flash ajanı her kaydın
-sağlıkla ilgili olup olmadığına karar verir ve künye bilgilerini (tür, konu,
-etiketler, birim) çıkarır. Anahtar yoksa anahtar sözcük süzgeci kullanılır.
+Sağlıkla ilgili kayıtlar başlık ve metnin başındaki anahtar sözcüklerle
+seçilir; bulunanlar çekme isteği (pull request) olarak önerilir.
 
 Kullanım:
   python araclar/rg_takip.py                 # bugünün sayısı
@@ -17,7 +16,6 @@ from pathlib import Path
 
 KOK = Path(__file__).resolve().parent.parent
 TAKIP = KOK / "kaynak-isleme" / "katalog" / "resmi-gazete-takip.json"
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 UA = {"User-Agent": "Mozilla/5.0 (CanliSaglikMevzuati; +https://github.com)"}
 
 ANAHTAR = re.compile(
@@ -99,40 +97,6 @@ def html_metin(sayfa):
     return "\n\n".join(s for s in satirlar if s)
 
 
-def gemini(istem):
-    anahtar = os.environ.get("GEMINI_API_KEY")
-    if not anahtar:
-        return None
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={anahtar}"
-    govde = json.dumps({
-        "contents": [{"role": "user", "parts": [{"text": istem}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1},
-    }).encode()
-    for deneme in range(3):
-        try:
-            istek = urllib.request.Request(url, data=govde, headers={"Content-Type": "application/json"})
-            with urllib.request.urlopen(istek, timeout=90) as r:
-                yanit = json.loads(r.read())
-            return json.loads(yanit["candidates"][0]["content"]["parts"][0]["text"])
-        except Exception as hata:  # ağ/kota hatalarında yeniden dene
-            print(f"  Gemini hatası ({deneme + 1}/3): {hata}", file=sys.stderr)
-            time.sleep(5 * (deneme + 1))
-    return None
-
-
-AJAN_ISTEMI = """Sen bir sağlık hukuku uzmanı ajansın. Aşağıda Resmî Gazete'nin {tarih} tarihli sayısında yayımlanan bir düzenlemenin başlığı ve metninin başı var.
-Görevin: Bu düzenlemenin sağlık mevzuatı sitesine eklenip eklenmeyeceğine karar vermek ve künyesini çıkarmak.
-Sağlık hizmetleri, sağlık personeli, ilaç/tıbbi cihaz/kozmetik, halk sağlığı, sağlık sigortası, gıda güvenliği ve hasta hakları ile doğrudan ilgili olanlar eklenir; yalnızca bir üniversitenin genel lisansüstü yönetmeliği gibi dolaylı olanlar eklenmez (sağlık bilimleri/tıp fakültesine özgü olanlar eklenir).
-Yalnızca şu JSON'u döndür:
-{{"ilgili": true/false, "tur": "kanun|cbk|yonetmelik|teblig|genelge|tuzuk", "baslik": "resmi ad", "birim": "yayımlayan kurum", "konu": "tek cümle", "etiketler": ["2-5 küçük harfli etiket"], "degistirilen": "değişiklik düzenlemesiyse değiştirdiği ana düzenlemenin adı, değilse boş"}}
-
-BÖLÜM: {bolum}
-BAŞLIK: {baslik}
-METİN (ilk kısım):
-{metin}
-"""
-
-
 def gun_tara(gun, mevcut):
     yil, ay, g = gun.strftime("%Y"), gun.strftime("%m"), gun.strftime("%Y%m%d")
     fihrist = f"https://www.resmigazete.gov.tr/eskiler/{yil}/{ay}/{g}.htm"
@@ -160,13 +124,9 @@ def gun_tara(gun, mevcut):
                 metin = html_metin(getir(url))
             except Exception:
                 metin = ""
-        karar = gemini(AJAN_ISTEMI.format(tarih=gun.isoformat(), bolum=oge["bolum"], baslik=oge["metin"], metin=metin[:6000]))
-        if karar is None:  # Gemini yoksa anahtar sözcük süzgeci
-            if not ANAHTAR.search(oge["metin"] + " " + metin[:1500]):
-                continue
-            karar = {"ilgili": True, "tur": tur, "baslik": re.sub(r"^[–\-–\s]+", "", oge["metin"]), "birim": "", "konu": "", "etiketler": []}
-        if not karar.get("ilgili"):
+        if not ANAHTAR.search(oge["metin"] + " " + metin[:1500]):
             continue
+        karar = {"tur": tur, "baslik": re.sub(r"^[–\-–\s]+", "", oge["metin"]), "birim": "", "konu": "", "etiketler": []}
         kayit = {
             "id": "rg-" + g + "-" + sade_id(karar.get("baslik") or oge["metin"]),
             "baslik": karar.get("baslik") or oge["metin"],
@@ -180,8 +140,6 @@ def gun_tara(gun, mevcut):
             "kaynak": f"Resmî Gazete, {gun.strftime('%d.%m.%Y')}" + (f", Sayı {sayi.group(1)}" if sayi else ""),
             "durum": "yürürlükte",
         }
-        if karar.get("degistirilen"):
-            kayit["not"] = "Değiştirdiği düzenleme: " + karar["degistirilen"]
         if metin:
             kayit["metin"] = metin
         yeni.append(kayit)

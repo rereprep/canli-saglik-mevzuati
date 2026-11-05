@@ -656,6 +656,22 @@
  },
  {
   "tur": "genelge",
+  "id": "sbg-10728-2010-2011-2012-yillari-doner-sermaye-butce-cagrisi-hakkinda-genelge-ve",
+  "baslik": "2010-2011-2012 Yılları Döner Sermaye Bütçe Çağrısı Hakkında Genelge ve Ekleri",
+  "birim": "Strateji Geliştirme Başkanlığı",
+  "kaynak": "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)",
+  "kaynak_url": "https://www.saglik.gov.tr/TR-10728/2010-2011-2012-yillari-doner-sermaye-butce-cagrisi-hakkinda-genelge-ve-ekleri.html",
+  "durum": "yürürlükte",
+  "parcalar": [
+   {
+    "kaynak_pdf": "genelge/10728-ek1.pdf",
+    "pdf_baslangic": 1,
+    "pdf_bitis": 4
+   }
+  ]
+ },
+ {
+  "tur": "genelge",
   "id": "sbg-10724-azami-stok-miktarinin-belirlenmesi-ve-stok-yonetimi-2009-23-sayili-gen",
   "baslik": "Azami Stok Miktarının Belirlenmesi ve Stok Yönetimi (2009-23 Sayılı) Genelge (Strateji Geliştirme Başkanlığı)",
   "birim": "Strateji Geliştirme Başkanlığı",
@@ -683,6 +699,39 @@
     "kaynak_pdf": "genelge/10714-ek1.pdf",
     "pdf_baslangic": 1,
     "pdf_bitis": 48
+   }
+  ]
+ },
+ {
+  "tur": "genelge",
+  "sayi": "2008/44",
+  "id": "sbg-10713-aile-hekimligi-uygulanan-illerde-merkez-payi-alinmamasi-ile-ilgili-gen",
+  "baslik": "Aile Hekimliği Uygulanan İllerde Merkez Payı Alınmaması ile İlgili Genelge(2008/44)",
+  "birim": "Strateji Geliştirme Başkanlığı",
+  "kaynak": "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)",
+  "kaynak_url": "https://www.saglik.gov.tr/TR-10713/aile-hekimligi-uygulanan-illerde-merkez-payi-alinmamasi-ile-ilgili-genelge200844.html",
+  "durum": "yürürlükte",
+  "parcalar": [
+   {
+    "kaynak_pdf": "genelge/10713-ek1.pdf",
+    "pdf_baslangic": 1,
+    "pdf_bitis": 1
+   }
+  ]
+ },
+ {
+  "tur": "genelge",
+  "id": "sbg-10712-doner-sermaye-butcesi-programi-genelgesi",
+  "baslik": "Döner Sermaye Bütçesi Programı Genelgesi",
+  "birim": "Strateji Geliştirme Başkanlığı",
+  "kaynak": "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)",
+  "kaynak_url": "https://www.saglik.gov.tr/TR-10712/doner-sermaye-butcesi-programi-genelgesi.html",
+  "durum": "yürürlükte",
+  "parcalar": [
+   {
+    "kaynak_pdf": "genelge/10712-ek1.pdf",
+    "pdf_baslangic": 1,
+    "pdf_bitis": 1
    }
   ]
  },
@@ -4234,6 +4283,21 @@
     "kaynak_pdf": "kanun/10361-ek2.pdf",
     "pdf_baslangic": 1,
     "pdf_bitis": 11
+   }
+  ]
+ },
+ {
+  "tur": "tuzuk",
+  "id": "sbg-11299-gida-maddelerinin-ve-umumi-sagligi-ilgilendiren-esya-ve-levazimin-husu",
+  "baslik": "Gıda Maddelerinin Ve Umumi Sağlığı İlgilendiren Eşya Ve Levazımın Hususi Vasıflarını Gösteren Tüzük",
+  "kaynak": "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)",
+  "kaynak_url": "https://www.mevzuat.gov.tr/MevzuatMetin/2.3.315481.doc",
+  "durum": "yürürlükte",
+  "parcalar": [
+   {
+    "kaynak_pdf": "tuzuk/11299-ek2.pdf",
+    "pdf_baslangic": 1,
+    "pdf_bitis": 144
    }
   ]
  },
