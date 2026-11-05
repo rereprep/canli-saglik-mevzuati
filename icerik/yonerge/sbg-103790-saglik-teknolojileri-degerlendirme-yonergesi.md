@@ -8,10 +8,10 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103790/saglik-teknolojileri-degerlendi
 durum: "yürürlükte"
 ocr: true
 konu: "Sağlık Bakanlığı bünyesinde yürütülen sağlık teknolojisi değerlendirme sürecini, konu seçimi komisyonunu ve proje basamaklarını tanımlar."
-tarih: "2019-10-25"
+tarih: "2019-10-23"
 sayi: "5201"
 duzeltildi: true
-sayfa_kontrol: "103790.pdf s.1"
+kontrol_edildi: true
 ---
 
 T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü

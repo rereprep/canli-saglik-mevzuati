@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103797/saglik-bakanliginda-doner-serma
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103797.pdf s.1"
+kontrol_edildi: true
 ---
 
 11.2.3. Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge

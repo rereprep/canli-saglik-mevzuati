@@ -12,7 +12,7 @@ kaynak_pdf_sayfa: "545-547"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "mevzuat-kitabi.pdf s.547"
+kontrol_edildi: true
 ---
 
 ## PERFORMANS İTİRAZ KOMİSYONU ÇALIŞMA USULÜ VE ESASLARI
@@ -109,11 +109,9 @@ Bu kapsamda performans kesintilerine yönelik yapılacak olan itirazlar ile düz
 
 **17)** İtiraz dilekçeleri/formları ve ekleri sadece performans itirazları için komisyonda değerlendirilecek olup farklı bir işlem için kullanılmayacaktır.
 
-**18)** Komisyon kararına itiraz ancak ek bilgi ve belge olması durumunda ve bir sonraki toplantıya kadar aynı komisyona yapılacak olup komisyon tarafından tekrar değerlendirilerek karara bağlanacaktır.
+**18)** Halk Sağlığı Hizmetleri Başkanlığı, bu talimatın uygulanmasını sağlamak üzere alt düzenlemeler yapmaya yetkilidir. Bu düzenlemeler, İl Sağlık Müdürlüğü resmi internet sayfasında ilan edilir, ilan tarihinde aile hekimlerine ve aile sağlığı çalışanlarına ve ilgililerine tebliğ edilmiş sayılır.
 
-**19)** Halk Sağlığı Hizmetleri Başkanlığı, bu talimatın uygulanmasını sağlamak üzere alt düzenlemeler yapmaya yetkilidir. Bu düzenlemeler, İl Sağlık Müdürlüğü resmi internet sayfasında ilan edilir, ilan tarihinde aile hekimlerine ve aile sağlığı çalışanlarına ve ilgililerine tebliğ edilmiş sayılır.
-
-**20)** İlgi yazı yürürlükten kaldırılmıştır.
+**19)** İlgi yazı yürürlükten kaldırılmıştır.
 
 Bilgilerini ve gereğini rica ederim.
 

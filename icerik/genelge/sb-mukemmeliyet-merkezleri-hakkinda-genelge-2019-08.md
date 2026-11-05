@@ -10,8 +10,30 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 233-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.247"
+kontrol_edildi: true
 ---
+
+### T.C. SAĞLIK BAKANLIĞI
+#### Sağlık Hizmetleri Genel Müdürlüğü
+
+**Sayı:** 80118214-010.06-  
+**Konu:** Mükemmeliyet Merkezleri Hakkında
+
+### GENELGE
+**2019/08**
+
+Sağlık hizmet sunumunda ülkemizde yürütülen çalışmalar ve sürdürülen sağlık politikaları ile birlikte, başta ihtiyaç duyulan sağlık hizmetlerine kolay ulaşılabilirlik olmak üzere, sağlık tesislerinin yapı ve standartları, ileri düzey sağlık teknolojileri sayı ve çeşitliliği, hakkaniyetli sağlık insan gücü ve hizmet dağılımı, bilgi işlem kapasitesi gibi pek çok alanda belirgin gelişmeler sağlanmış ve vatandaşların sağlık hizmetlerinden memnuniyet düzeyi çarpıcı oranlarda arttırılmıştır.
+
+Sağlık hizmetlerinde kalitenin sürekli arttırılması ve sürdürülebilirliğin sağlanması temel anlayışı ile devam eden Bakanlığımız çalışmalarında, “sağlık hizmet alanında mükemmeliyet merkezleri” kurulması ve geliştirilmesi öncelikli konulardan biri olarak benimsenmiştir. Bu kapsamda kamu, üniversite ve özel sağlık tesisleri içerisinde insan gücü kapasitesi, sağlık teknolojileri profili, fiziki alt yapısı ve kalite kültürü uygun hizmet birimlerinin kurumsal olarak “mükemmeliyet merkezi” adıyla yapılandırılması ve bu merkezlerin ihtiyaç duyulan özellikli sağlık hizmetleri sunumu ile birlikte eğitim ve AR-GE alanında rol üstlenmeleri hedeflenmiştir.
+
+Sağlık hizmet alanı mükemmeliyet merkezlerinin insan gücü nitelik ve niceliğinin, sağlık teknolojileri gerekliliklerinin, fiziki ve idari yapı ile kalite temelli sağlık hizmet şartlarının tanımlanmasına ve Bakanlığımızca değerlendirilerek kurumsal tesciline ilişkin usul ve esaslar bu Genelgenin Ek’inde düzenlenmiştir.
+
+Genelgenin ilinizde bulunan tüm sağlık kuruluşlarına duyurulması ile Bakanlığımız, üniversite ve özel sağlık tesislerinde mükemmeliyet merkezleri kurulması işlemlerinin işbu Genelge kapsamında yürütülmesi hususunda;
+
+Bilgilerinizi ve gereğini önemle rica ederim.
+
+Dr. Fahrettin KOCA  
+Bakan
 
 ### EK MÜKEMMELİYET MERKEZLERİNE İLİŞKİN USUL VE ESASLAR 1. GENEL ESASLAR
 

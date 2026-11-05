@@ -11,8 +11,28 @@ duzeltildi: true
 konu: "Soybağının Tespiti Testi Hakkında Genelge (2024/2) konusundaki düzenleme ve uygulama esaslarını bildirir."
 tarih: "2024-03-05"
 ocr: true
-sayfa_kontrol: "102343-ek1.pdf s.1"
+kontrol_edildi: true
 ---
+
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı : 95966346-010.06 - 238542190
+Konu : Soybağının Tespiti Testi
+
+05.03.2024
+
+GENELGE
+2024/2
+
+İlgi : 28.10.2022 tarihli ve 2022/6 sayılı Soybağının Tespiti Testi Hakkında Genelge.
+
+5901 sayılı Türk Vatandaşlığı Kanunu'nun "Saklı nüfus" başlıklı Ek 1 inci maddesinde (Ek: 19/10/2017-7039/33 md.); "onsekiz yaşını tamamlayıncaya kadar herhangi bir nedenle aile kütüğüne kayıt edilmemiş olan ve yabancı bir devletle vatandaşlık bağı bulunmayan kişilere; ana ve baba, bunların ölmüş olması halinde, varsa kardeşleri ile hısımlığını gösterir tıbbi rapor ibraz etmeleri durumunda Türk vatandaşlığını kazanır" hükmü ile 5490 sayılı Nüfus Hizmetleri Kanununun 15 inci maddesinin dördüncü fıkrasında; "Sağlık personelinin takibi dışında doğan çocukların doğum bildirimi nüfus müdürlüklerine sözlü beyanla yapılır. Her sözlü beyanda mülki idare amirinin emri ile aile hekimlerince beyanların doğruluğunun araştırılması zorunludur" hükmü çerçevesinde aile kütüklerine tescil işlemleri Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünce yürütülmektedir.
+
+Ancak aile kütüklerine tescil işlemlerinin yapılması sürecinde, kimlik tespiti yapılması gereken ilgili kişilerin "Soybağının Tespiti Testi"nin yapılarak tıbbi rapor düzenlenmesine yönelik iş ve işlemler Bakanlığımızca yürütülmektedir.
+
+Bu itibarla; Soybağının Tespiti Testi yapılarak tıbbi rapor düzenlenmek üzere ilçe nüfus müdürlüklerine müracaat eden talep sahiplerinin, nüfus müdürlüğünce kimlik tespiti yapılarak düzenlenecek "Kimlik Tespit Formu 1-2 (Ek-1) (Ek-2)" ile kamu sağlık kurum/kuruluşuna başvurmalarından itibaren izlenilecek işlem adımları ve dikkat edilmesi gereken genel usul ve esaslar aşağıda belirtilmektedir.
 
 ### 1. Tanımlar
 

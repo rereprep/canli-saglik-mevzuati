@@ -12,7 +12,7 @@ kaynak_pdf_sayfa: "539-541"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "mevzuat-kitabi.pdf s.540, mevzuat-kitabi.pdf s.541"
+kontrol_edildi: true
 ---
 
 ## SAĞLIKLI HAYAT MERKEZİ İZLEME VE DEĞERLENDİRME FORMU VE REHBERİ

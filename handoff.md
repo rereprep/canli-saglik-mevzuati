@@ -16,6 +16,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Siteyi düzenleyen: Mithat Temizer — yalnızca Hakkında sayfasında ve README'de.
 - İthaf her sayfanın alt bilgisinde: "Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla."
 - Ajanlar: Gemini 3.8 Flash (google-antigravity/gemini-3.8-flash) ve gpt-6-luna. Her zaman 6 ajan çalıştır. Kotaya (429) takılan ajanın kalan işini hemen diğer modelle yeni ajana ver (luna → Gemini Flash, Gemini Flash → luna). Bağlantı (502/ENOTFOUND) hatasında aynı modelle yeniden başlat. Biten/hata veren ajanı kapat ki sınır dolmasın.
+- Kullanıcı: duran ajanın yerine önce "hy3" denenecek; spawn_agent hy3'ü tanımıyor (2026-11-05: "Unknown model hy3"), bu yüzden yukarıdaki eski usul geçerli. Yönetici döngüsü her yeni ajanda önce hy3'ü dener.
 - Gönderim anahtarı kalıcı: /Users/mithattemizer/Documents/Canlı Sağlık Mevzuatı/.anahtar/id_ed25519 (git config core.sshCommand ayarlı; düz `git push origin main` yeterli).
 
 ## Kaynaklar ve işleme hattı
