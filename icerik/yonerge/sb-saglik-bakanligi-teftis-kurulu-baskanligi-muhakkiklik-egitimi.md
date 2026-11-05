@@ -11,10 +11,42 @@ ocr: true
 tarih: "2024-11-29"
 sayi: "261021584"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1029"
+kontrol_edildi: true
 ---
 
 10.2.1. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Hukuk Hizmetleri Genel Müdürlüğü
+
+Sayı: E-11045126-010.04-
+
+Konu: Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi
+
+BAKANLIK MAKAMINA
+
+Teftiş Kurulu Başkanlığının düzenlemiş olduğu Muhakkiklik eğitimlerinin ilke ve hedeflerini tespit etmek, eğitimleri planlamak ve uygulamak, eğitim sonu katılımcıların değerlendirilmesine ilişkin usul ve esasları belirlemek amacıyla 23.08.2022 tarihli ve 31932 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığı Teftiş Kurulu Yönetmeliği'nin 4 üncü maddesinin 4 üncü fıkrasına istinaden hazırlanan Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi taslağı ilişikte sunulmuştur.
+
+İlişikte sunulan nihai taslağın yürürlüğe konulmasını takdir ve tensiplerinize arz ederim.
+
+[?]
+
+Hukuk Hizmetleri Genel Müdürü
+
+Uygun görüşle arz ederim. [?] /11/2024
+
+Hüseyin Kürşat KIRBIYIK
+
+Bakan Yardımcısı
+
+OLUR [?] / 2024
+
+Ek: Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi Taslağı (7 sayfa)
 
 ### T.C. SAĞLIK BAKANLIĞI Teftiş Kurulu Başkanlığı
 

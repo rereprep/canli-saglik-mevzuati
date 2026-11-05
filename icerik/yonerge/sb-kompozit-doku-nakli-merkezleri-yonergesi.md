@@ -9,10 +9,56 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 87-9
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.101"
+kontrol_edildi: true
 ---
 
 2.2.11. Kompozit Doku Nakli Merkezleri Yönergesi
+
+### Kompozit Doku Nakli Merkezleri Yönergesi
+
+(Makamın 29.03.2011 tarihli ve 13984 sayılı Onayları ile yürürlüğe girmiştir.)
+
+## BİRİNCİ BÖLÜM Amaç ve Kapsam, Dayanak ve Tanımlar
+
+#### Amaç ve kapsam
+
+**MADDE 1 –** (1) Bu Yönergenin amacı; vaskülarize kompozit homogreft doku nakli yapacak merkezlerin taşıması gereken şartlar ile çalışmalarına dair usul ve esasları belirlemektir.
+
+(2) Bu Yönerge, kompozit doku nakli merkezi açacak kamu ve özel sağlık kurum ve kuruluşları ile bu merkezlerde görev yapacak personeli kapsar.
+
+(3) Herhangi bir embriyonel katmandan köken alan; barsak, trakea, larinks gibi dokuların vaskülerize homogreft olarak nakilleri de bu Yönerge kapsamındadır.
+
+(4) Karaciğer, böbrek, akciğer, pankreas, kalp, kalp-akciğer gibi organlar ile kök hücre nakli amacıyla alınan kemik iliği ve kornea nakilleri bu Yönerge kapsamı dışındadır.
+
+#### Dayanak
+
+**MADDE 2 –** (1) Bu Yönerge; 29/05/1979 tarihli ve 2238 sayılı Organ ve Doku Alınması, Saklanması ve Nakli Hakkında Kanun hükümlerine, 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığı'nın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 43 üncü maddesine ve 01/06/2000 tarihli ve 24066 sayılı Resmi Gazete'de yayımlanan Organ ve Doku Nakli Hizmetleri Yönetmeliğinin 16 ncı maddesine dayanılarak hazırlanmıştır.
+
+#### Tanımlar ve kısaltmalar
+
+**MADDE 3 –** (1) Bu Yönergede geçen;
+
+a) Bakanlık: Sağlık Bakanlığını,
+
+b) Doku tipleme laboratuarı: Verici adayı ile alıcıların doku tiplemelerini yapabilecek donanım ve personele sahip, Bakanlıkça açılma izni verilmiş/ruhsatlandırılmış laboratuvarları,
+
+c) Donör: Beyin ölümünün gerçekleştiği yetkili kurulca tespit edilmiş ya da bir tabip tarafından kalp atımının durduğunun ve ölü olarak kabul edildiğinin tespitinden itibaren geçen ilk 3 saatlik süre içerisindeki kadavrayı,
+
+ç) Genel Müdürlük: Bakanlık Tedavi Hizmetleri Genel Müdürlüğünü,
+
+d) Homogreft: Aynı tür içerisinde farklı genetik yapıya sahip bireylerden elde edilen dokuları,
+
+e) Kanun: 2238 sayılı Organ ve Doku Alınması, Saklanması ve Nakli Hakkında Kanunu,
+
+f) Komisyon: Bu Yönerge çerçevesinde faaliyet gösterecek olan Kompozit Doku Nakilleri Bilimsel Danışma Komisyonunu,
+
+g) Konsey: Kompozit Doku Nakli Konseyini,
+
+ğ) Kompozit doku nakli: Vücut bütünlüğünü bozan ve fonksiyon kaybına yol açacak şekilde kompozit doku kaybı olan hastalara form ve fonksiyon restorasyonu amacı ile yapılan ve yaşam kalitesini artırmak amacıyla uygulanan kompozit doku nakli ameliyesini,
+
+h) Merkez: Bu Yönerge kapsamına giren nakillerin uygulandığı tıbbi tedavi merkezlerini,
+
+ı) Müdürlük: İl sağlık müdürlüğünü,
 
 i) Organ ve doku kaynağı merkezi: Beyin ölümü tespit edebilecek donanım ve personele sahip merkezleri,
 

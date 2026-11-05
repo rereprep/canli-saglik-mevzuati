@@ -9,10 +9,39 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Yedek subay olarak askerlik yapan hekimlerin Devlet hizmeti yükümlülüğünü tamamlamış sayılmasına ilişkin esasları düzenler."
-sayfa_kontrol: "103629.pdf s.1"
+kontrol_edildi: true
 ---
 
+
 9.3.9. Askerlik Hizmetini Yedek Subay Olarak Yerine Getirenlerin DHY Tamamlanmış Sayılmasına İlişkin Usul ve Esaslar
+
+### T.C. SAĞLIK BAKANLIĞI
+#### Yönetim Hizmetleri Genel Müdürlüğü
+##### Hukuk ve Mevzuat Dairesi Başkanlığı
+
+**Sayı:** 82040698/
+**Konu:** Usul ve Esaslar
+
+**BAKANLIK MAKAMINA**
+
+Türk Silahlı Kuvvetlerinin tabip ve uzman tabip ihtiyacının karşılanması için 3359 sayılı Temel Sağlık Kanunu'nun Ek 3 üncü maddesine dayanılarak hazırlanan "ASKERLİK HİZMETİNİ YEDEK SUBAY OLARAK YERİNE GETİRENLERİN DEVLET HİZMETİ YÜKÜMLÜLÜĞÜNÜ TAMAMLAMIŞ SAYILMASINA İLİŞKİN USUL VE ESASLAR"ın yürürlüğe konulmasını tensiplerinize arz ederim.
+
+Dr. Mehmet B. AKGÜL
+Genel Müdür [?]
+
+**Ek:** (3 sayfa)
+
+Uygun Görüşle Arz Ederim
+22.01/2018 [?]
+Müsteşar Yardımcısı
+
+**OLUR**
+/...2018
+Prof. Dr. Eyüp GÜMÜŞ
+Bakan a.
+Müsteşar
+
+---
 
 ### ASKERLİK HİZMETİNİ YEDEK SUBAY OLARAK YERİNE GETİRENLERİN DEVLET HİZMETİ YÜKÜMLÜLÜĞÜNÜ TAMAMLAMIŞ SAYILMASINA İLİŞKİN USUL VE ESASLAR
 

@@ -10,20 +10,20 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "4924 sayılı Kanuna tabi sözleşmeli tabip ve uzman tabip pozisyonlarına yerleştirme usul ve esaslarını düzenler."
-sayfa_kontrol: "103626.pdf s.1"
+kontrol_edildi: true
 ---
+
 
 9.3.3. 4924 Sözleşmeli Personel Hakkında Genelge (2023/1)
 
-### T.C.
-### SAĞLIK BAKANLIĞI
-Yönetim Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
+#### Yönetim Hizmetleri Genel Müdürlüğü
 
-Sayı : 49635782-  
-Konu : 4924 Sözleşmeli Personel
+**Sayı:** 49635782-
+**Konu:** 4924 Sözleşmeli Personel
 
 ### GENELGE
-### 2023/1
+**2023/1**
 
 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun birinci maddesinde; eleman temininde güçlük çekilen yerlerde ve hizmet dallarında sağlık hizmetlerinin etkili ve verimli bir şekilde yürütülebilmesini temin etmek üzere, Sağlık Bakanlığı ve bağlı kuruluşları tarafından hizmet akdi ile sözleşmeli olarak istihdam edilecek ve işçi sayılmayan sağlık personelinin hizmet şartlarını, niteliklerini, işe alınma ve işine son verilme hallerini, görev ve yetkilerini, hak, yükümlülük ve sorumluluklarını, ücret ve diğer ödemeleri ile özlük işlerinin düzenlemesine yer verilmiş olup sözleşmeli personel istihdam edilecek hizmet birimleri yılda bir kez Cumhurbaşkanı kararı ile tespit edilmekte ve bu kapsamda kullanılacak sözleşmeli personel pozisyonları Hazine ve Maliye Bakanlığı tarafından vize edilmektedir.
 
@@ -31,7 +31,7 @@ Konu : 4924 Sözleşmeli Personel
 
 Bu çerçevede; gerek 4924 sayılı Kanundan gerekse de 3359 sayılı Kanundan alınan yetki doğrultusunda, Bakanlığımız taşra teşkilatında boş bulunan sözleşmeli tabip ve uzman tabip pozisyonlarına yerleştirme işlemleri aşağıda belirtilen usul ve esaslara göre yapılacaktır.
 
-1- Boş sözleşmeli pozisyonlara öncelikle, pozisyonların vize edildiği birimlerde çalışanların yerleştirme işlemleri yapılacaktır. Yerleştirmede, Ek-I, Ek-II, Ek-III sayılı cetvellerde düzenlenen pozisyonlar esas alınarak, Devlet hizmeti yükümlüsü olmayan yan dal uzman tabipleri, ana dal uzman tabipleri ve tabiplerin yerleştirme işlemleri sırası ile yapılacak olup boş pozisyon kalması halinde, Devlet hizmeti yükümlüsü olan yan dal uzman tabipleri, ana dal uzman tabipleri ve tabiplerin, Devlet hizmeti yükümlülüğünün son 6 (altı) ayı içerisinde başvurmaları ve Devlet hizmeti yükümlülüğünün bitimine müteakip 1 (bir) yıl çalışmayı taahhüt etmeleri kaydıyla yerleştirme işlemleri yapılacaktır. Belirtilen sıralamaya aykırı olarak yapılan yerleştirme işlemi geçersiz olacaktır.
+1- Boş sözleşmeli pozisyonlara öncelikle, pozisyonların vize edildiği birimlerde çalışanların yerleştirme işlemleri yapılacaktır. Yerleştirmede, Ek-I, Ek-II, Ek-III sayılı cetvellerde düzenlenen pozisyonlar esas alınarak, Devlet hizmeti yükümlüsü olmayan yan dal uzman tabipleri, ana dal uzman tabipleri ve tabiplerin yerleştirme işlemleri sırası ile yapılacak olup boş pozisyon kalması halinde, Devlet hizmeti yükümlüsü olan yan dal uzman tabipleri, ana dal uzman tabipleri ve tabiplerin, Devlet hizmeti yükümlülüğünün son 6 (altı) ayı içerisinde başvurmaları ve Devlet hizmeti yükümlülüğünün bitimine müteakip 1 (bir) yıl çalışmayı taahhüt etmeleri kaydıyla yerleştirme işlemleri yapılacaktır. Belirtilen sıralamaya aykırı olarak yapılan yerleştirme işlemi [?]
 
 2- Ek-I sayılı listede bulunan birimlerde vizelenen sözleşmeli uzman tabip pozisyonları, öncelikle; Devlet hizmeti yükümlüsü olmayan yan dal uzman tabipleri sonrasında boş pozisyon kalması halinde ise Devlet hizmeti yükümlüsü olan yan dal uzman tabipleri için Devlet hizmeti yükümlülüğünün son 6 (altı) ayı içerisinde başvurmaları ve Devlet hizmeti yükümlülüğünün bitimine müteakip 1 (bir) yıl çalışmayı taahhüt etmeleri kaydıyla kullanılacaktır.
 

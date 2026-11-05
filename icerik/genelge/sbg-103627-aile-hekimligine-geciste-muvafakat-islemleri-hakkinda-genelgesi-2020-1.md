@@ -10,40 +10,43 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Aile hekimliğine geçişte muvafakat işlemlerine ilişkin esasları belirler."
-sayfa_kontrol: "103627.pdf s.1"
+kontrol_edildi: true
 ---
+
 
 9.3.6. Aile Hekimliğine Geçişte Muvafakat İşlemleri Hakkında Genelgesi (2020/1)
 
-### T.C.
-### SAĞLIK BAKANLIĞI
-Yönetim Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
+#### Yönetim Hizmetleri Genel Müdürlüğü
+##### Hukuk ve Mevzuat Dairesi Başkanlığı
 
-Sayı : 49635782/  
-Konu : Aile hekimliğine geçişte muvafakat işlemleri
+**Sayı:** 49635782/
+**Konu:** Aile hekimliğine geçişte muvafakat işlemleri
 
 ### GENELGE
-### 2020/1
+**2020/1**
 
-5258 sayılı Aile Hekimliği Kanunu'nun 3'üncü maddesinin birinci fıkrasında "Sağlık Bakanlığı; Bakanlık veya diğer kamu kurum veya kuruluşları personeli olan uzman tabip, tabip ve aile sağlığı elemanı olarak çalıştırılacak sağlık personelini, kendilerinin talebi ve kurumlarının veya Bakanlığın muvafakati üzerine 657 sayılı Devlet Memurları Kanunu ile diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın, sözleşmeli olarak çalıştırmaya veya bu nitelikteki Bakanlık personelini aile hekimliği uygulamaları için görevlendirmeye... yetkilidir." hükmüne yer verilmiştir.
+5258 sayılı Aile Hekimliği Kanunu'nun 3'üncü maddesinin birinci fıkrasında "Sağlık Bakanlığı; Bakanlık veya diğer kamu kurum veya kuruluşları personeli olan uzman tabip, tabip ve aile sağlığı çalışanı olarak çalıştırılacak sağlık personelini, kendilerinin talebi ve kurumlarının veya Bakanlığın muvafakati üzerine 657 sayılı Devlet Memurları Kanunu ile diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın, sözleşmeli olarak çalıştırmaya veya bu nitelikteki Bakanlık personelini aile hekimliği uygulamaları için görevlendirmeye yetkilidir." hükmüne yer verilmiştir.
 
-Sağlık hizmetlerinin etkili, verimli yürütülmesi ve hizmet sunumunda aksamaya mahal verilmemesi amacıyla, aile hekimliği uygulamasında sözleşmeli olarak görev yapmak isteyenlere aşağıdaki açıklamalar çerçevesinde işlem yapılacaktır:
+Sağlık hizmetlerinin etkili, verimli yürütülmesi ve hizmet sunumunda aksamaya mahal verilmemesi amacıyla, aile hekimliği uygulamasında sözleşmeli olarak görev yapmak isteyenlere aşağıdaki açıklamalar çerçevesinde işlem yapılacaktır.
 
-1) Bakanlığımız ve bağlı kuruluşları hariç diğer kamu kurum ve kuruluşlarından sözleşmeli aile hekimi veya aile sağlığı elemanı olmak üzere müracaat eden personel, kurumlarınca muvafakat verilmesi halinde yerleştirme işlemine alınacaktır.
+1) Bakanlığımız ve bağlı kuruluşları hariç diğer kamu kurum ve kuruluşlarından sözleşmeli aile hekimi/aile sağlığı çalışanı olmak üzere müracaat eden personel, kurumlarınca muvafakat verilmesi halinde yerleştirme işlemine alınacaktır.
 
-2) Halen sözleşmeli aile hekimi veya aile sağlığı elemanı olarak görev yapan ve aile hekimliği uygulamasına geçmesi için muvafakat verilen personelin mevcut durumları sözleşmeli olduğu müddetçe ve sözleşme yenilemelerinde de korunacaktır. Ayrıca Aile Hekimliği Uygulama Yönetmeliği'nin 15 inci maddesinin birinci fıkrasının (a) ve (c) bendi uyarınca öncelik hakkı bulunanların aile hekimliği yerleştirme başvurusunda muvafakat aranmayacaktır. Aile sağlığı elemanının sözleşme yenileme döneminde olmak şartı ile başka aile hekimliği biriminde aile sağlığı elemanı olarak görev yapmak üzere sözleşme imzalanması durumunda ayrıca muvafakat aranmayacaktır.
+2) Halen sözleşmeli aile hekimi/aile sağlığı çalışanı olarak görev yapan ve aile hekimliği uygulamasına geçmesi için muvafakat verilen personelin mevcut durumları sözleşmeli olduğu müddetçe ve sözleşme yenilemelerinde de korunacaktır. Ayrıca Aile Hekimliği Uygulama Yönetmeliği'nin 15 inci maddesinin birinci fıkrasının (a) ve (c) bendinden öncelik hakkı bulunanların aile hekimliği yerleştirmesine başvurusunda muvafakat aranmayacaktır.
 
 3) Bakanlığımız kadrolarında tabip, ebe, hemşire, sağlık memuru (toplum sağlığı, ilk ve acil yardım) olarak görev yapan personelin sözleşmeli aile hekimliği pozisyonlarına geçmek için bulundukları kurumdan ayrılmaları halinde;
 
-a) İl sağlık müdürlüğü, ilçe sağlık müdürlüğü, toplum sağlığı merkezi ve bağlı birimleri ile E grubundaki hastanelerinde unvan veya branşında doluluk oranının %30'un,
+a) İl sağlık müdürlüğü, ilçe sağlık müdürlüğü, toplum sağlığı merkezi ve bağlı birimleri ile EII ve EIII rolündeki entegre hastanelerinde unvan veya branşında doluluk oranının %30'un,
 
-b) Eğitim araştırma hastaneleri ile devlet hastanelerinde unvan veya branşında doluluk oranının %60'ın,
+b) Eğitim araştırma hastaneleri ile devlet hastanelerinde (EI dahil) unvan veya branşında doluluk oranının %85'in,
 
-c) Diğer sağlık tesislerinde unvan veya branşında doluluk oranının %60'ın
+c) Diğer sağlık tesislerinde unvan veya branşında doluluk oranının %70'in
 
-altına düşenlere muvafakat verilmemiş, bu oranların üzerinde olması durumunda muvafakat verilmiştir. Sağlık evlerinde çalışan personel için bu maddedeki oranlar aranmaksızın muvafakat verilmiştir.
+altına düşenlere muvafakat verilmemiştir.
 
-4) Doluluk oranının hesaplanmasında Personel Dağılım Cetveline göre aktif çalışan personel sayısı esas alınacaktır. Aktif çalışan sayısının belirlenmesinde, üç aydan fazla süre ile görevde bulunmayan personel hesaba katılmayacaktır. Geçici görevde bulunan personelin muvafakat verme işlemlerinde, ilgilinin kadrosunun bulunduğu yerdeki sayı ve oranlar esas alınacaktır.
+d) Doluluk oranının hesaplanmasında Personel Dağılım Cetveline göre aktif çalışan personel sayısı esas alınır. Aktif çalışan sayısının belirlenmesinde, üç aydan fazla süre ile görevde bulunmayan personel hesaba katılmaz. Geçici görevde bulunan personelin muvafakat verme işlemlerinde, ilgilinin kadrosunun bulunduğu yerdeki sayı ve oranlar esas alınır.
+
+4) Eğitim araştırma hastaneleri ile devlet hastanelerinde görev yapmakta olanlardan en az 25 yıl hizmeti olanlar ile sağlık kurulu raporu gereği nöbet tutamayacak durumda olanlara, bulunduğu hastanelerden ayrılmaları halinde unvan veya branşında doluluk oranı %50'nin altına düşmemek şartıyla muvafakat verilmiştir.
 
 5) 663 sayılı KHK'nın 45/A maddesine tabi olarak görev yapan sözleşmeli personelin aile sağlığı çalışanı olarak sözleşme imzalamasına muvafakat verilmemiştir.
 

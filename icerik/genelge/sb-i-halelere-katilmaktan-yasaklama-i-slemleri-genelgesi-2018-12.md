@@ -10,7 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1085
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1099"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -24,13 +24,23 @@ sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1099"
 
 4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu kapsamında ihalelere katılmaktan yasaklama işlemlerinde uyulacak usul ve esaslar şunlardır:
 
-a) Kanunun 17, 20, 22 ve 26 ncı maddelerinde belirtilen fiil veya davranışlarda bulunanlar hakkında yasaklama kararı verilir. 84kam fermin uygulanacağı belirtilmektedir
+İl Sağlık Müdürlükleri ile bağlı sağlık tesisleri ihtiyaç duydukları mal ve hizmet alımları ile yapım işleri ihalelerini 4734 sayılı Kamu İhale Kanunu, 4735 sayılı Kamu İhale Sözleşmeleri Kanunu ve bu Kanunlara dayanılarak çıkartılan ikincil mevzuat hükümleri doğrultusunda, satış ve kiralama işlemlerini ise 2886 sayılı Devlet İhale Kanunu ve bu Kanuna dayanılarak çıkartılan ikincil mevzuat hükümlerine göre yapmaktadır.
 
-b) Kanunun 22 nel maddesinde: 19, 20 ve 21 inci maddekre güre stizleşmenin feshedilmesi halinde, yükleniciler hakkanda 26 nez madde hakamlerine göre işlem yapılacağ belirtilmektedir.
+4734, 4735 ve 2886 sayılı Kanunlar ve ikincil mevzuat hükümlerinde, ihale sürecinde ve/veya sözleşmenin uygulanması sırasında bazı fiil veya davranışlarda bulunmanın yasak olduğu ve bu yasak fiil veya davranışlarda bulunanlar hakkında nasıl bir işlem tesis edileceği belirtilmiştir.
 
-ei Kanunun 25 inki maddesinde säeleşmenin eygulanması sarasında yasaklama fiil ve davranışlar saralanmuş ve 26 mea maddesinde de ba yasak fiil ve davranaglarda balananlar hakkında ihalelere katılmaktan yasaklama karanı verileceği öngörulmüştur.
+694 sayılı KHK ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat Ve Görevleri Hakkında Kanun Hükmünde Kararname'de değişiklik gidilerek Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatının yeniden yapılandırılması neticesinde Bakanlığımız taşra teşkilatında uygulama birliğinin sağlanması amacıyla ihalelere katılmaktan yasaklama işlemleri aşağıda belirtilen açıklamalar çerçevesinde yürütülecektir.
 
-d) Kanunun 29 uncu maddesinde; madde hükmünde belirtilan hususların aksine hareket edenkr hakkında ihalelere katılmaktan yasaklama uygulanacağı angürülmüş. Kanunun 30, 32, 33 ve 34 uncü mackelerinde ilgililerin sorumluluklan belirlenmiş ve aksine hareket edemler hakkında uygalanacak yaptırımlarla birlikte aymı Kanunun 22 inci maddesinin de se galanacagı halme baglanmıştar. 3- Çerçeve Anlaşma Inateteri Ve Ninferit Süaleyme Ahmlaro Ila İlgili Vasaklama
+### A- İHALELERE KATILMAKTAN YASAKLAMAYA İLİŞKİN HÜKÜMLER
+
+**1- 4734 Sayılı Kamu İhale Kanununda Yer Alan Yasaklama Hükümleri**
+
+a) 4734 sayılı Kanunun 17 nci maddesinde ihalelerde yasak fiil ve davranışlar belirlenmiş ve bu yasaklara uymayanlar hakkında ihalelere katılmaktan yasaklama kararı verileceği belirtilmiştir.
+
+b) Kanunun 58 inci maddesinde üzerine ihale yapıldığı halde mücbir sebep halleri dışında usulüne göre sözleşme yapmayanlar hakkında ihalelere katılmaktan yasaklama kararı verileceği belirtilmiştir.
+
+c) Kanunun 59 uncu maddesinde, taahhüt tamamlandıktan ve kabul işlemi yapıldıktan sonra tespit edilmiş olsa dahi, ihale süresinde 17 nci maddede belirtilen yasak fiil veya davranışlarda bulunanlar hakkında ihalelere katılmaktan yasaklama kararı verileceği belirtilmiştir.
+
+d) 4734 sayılı Kanunun 61 inci maddesinde, madde hükmünde belirtilen hususların aksine hareket edenler hakkında ihalelere katılmaktan yasaklama kararı verileceği 3- Çerçeve Anlaşma Inateteri Ve Ninferit Süaleyme Ahmlaro Ila İlgili Vasaklama
 
 b) 4734 sayılı Kanunun ek 2 nei maddesi uyarınca, Çerçeve Anlaşma Ihaleleri Lygulama Yonetmeliğinin 43 Öncü maddesine göre münferit strlaşteye davet edildiği halde ihale dokümanında belirtilen süre içerisinde münferit sälesene imzalamayan istekliye ihalekre katılmaktan yusaklama cezası verileceklar.
 

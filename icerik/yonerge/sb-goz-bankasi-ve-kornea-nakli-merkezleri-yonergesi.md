@@ -9,10 +9,62 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 75-8
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.89"
+kontrol_edildi: true
 ---
 
 2.2.9. Göz Bankası ve Kornea Nakli Merkezleri Yönergesi
+
+### GÖZ BANKASI VE KORNEA NAKLİ MERKEZLERİ YÖNERGESİ
+
+(Makamın 28.01.2015 tarihli ve 5376.203 sayılı Onayı ile yürürlüğe girmiştir.)
+
+## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+
+**Madde 1 –** (1) Bu Yönergenin amacı; modern tıbbın gereklerine uygun göz bankalarının kurulması, faaliyetleri, denetimi ve kornea naklini gerçekleştiren kamu kurumlarına bağlı hastaneler ile özel hastanelerin uymak zorunda oldukları hususlara ilişkin usul ve esasları düzenlemektir.
+
+#### Kapsam
+
+**Madde 2 –** (1) Bu Yönerge; göz bankalarını ve bunlarla iş yapan tüm kamu kurumlarına bağlı hastaneler ile özel hastaneleri kapsar.
+
+#### Dayanak
+
+**Madde 3 –** (1) Bu yönerge, 29/5/1979 tarihli ve 2238 sayılı Organ ve Doku Alınması, Saklanması ve Nakli Hakkındaki Kanun'a, 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 8 inci maddesinin birinci fıkrasının (a) ve (b) bentleri ile 01/02/2012 tarihli ve 28191 sayılı Resmi Gazete'de yayımlanan Organ ve Doku Nakli Hizmetleri Yönetmeliği'ne dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+
+**Madde 4 –** (1) Bu yönergede geçen;
+
+a) Bakanlık: Sağlık Bakanlığını,
+
+b) Banka: Vericiden göz küresi ve kornea, sklera, konjonktiva, limbus, amniyotik membran gibi dokuların alınmasını sağlayan, alıcı sağlığı açısından incelenerek, gerekli test ve incelemelerin yapıldığı, saklandığı ve dağıtımının gerçekleştirildiği göz bankalarını,
+
+c) Doku: Göze nakledilebilen ve bu maddenin (b) bendinde sayılan dokuları,
+
+ç) Doku Kaynağı Merkezi: Kamu kurumlarına bağlı hastaneler, özel hastaneler ve adli tıp kurumlarını,
+
+d) Doku Nakli Merkezi: Göze nakledilebilecek dokuların naklini yapan kamu kurumlarına bağlı hastaneler ile özel hastaneler bünyesindeki merkezleri,
+
+e) Kamu hastaneleri: Sağlık Bakanlığına bağlı hastaneler ile üniversite hastanelerini,
+
+f) Kurul: Kornea Nakli Bilimsel Danışma Kurulunu,
+
+g) TODS: Türkiye Organ ve Doku Bilgi Sistemini,
+
+ğ) UKK: Ulusal Koordinasyon Kurulunu,
+
+ifade eder.
+
+## İKİNCİ BÖLÜM Bankaların Fiziksel Standartları ve Karşılaması Gereken Hususlar
+
+#### Bankanın kurulması
+
+**Madde 5 –** (1) Banka, bir göz hastalıkları uzmanı sorumluluğunda ve kamu hastanelerinin bünyesinde kurulur.
+
+#### Bankanın bölümleri ve özellikleri, tıbbi ve teknik donanım
+
+**Madde 6 –** (1) Banka asgari olarak aşağıdaki standartları taşır:
 
 a) En az 20 metrekare büyüklüğünde, dış ortam ile teması bulunmayan, asepsi ve antisepsi kurallarına uygunluğu sağlanan ve tek bir girişi bulunan tamamen banka faaliyetleri için ayrılmış olan bir doku işleme laboratuvarı bulunur. Bu laboratuvarda:
 

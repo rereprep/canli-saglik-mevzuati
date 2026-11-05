@@ -10,7 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 617-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.631"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -24,7 +24,7 @@ sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.631"
 ### GENELGE
 **2016/23**
 
-1) Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansının amaçları:
+İnvaziv bakteriyel hastalıklar; menenjit, bakteriyemi ya da sepsis, epiglotit, bakteriyeminin eşlik ettiği pnömoni, septik artrit, osteomiyelit, perikardit ve selülit olarak tanımlanmaktadır. Halen, invaziv bakteriyel hastalıklara neden olan üç etken için Streptococcus pneumoniae, Neisseria meningitidis ve Haemophilus influenzae tip b bulunmaktadır.Genişletilmiş Bağışıklama Programı (GBP); Hemofilus influenza tip b'ye (Hib) bağlı hastalıklar ile Streptokokus pnömoni'ye bağlı invaziv pnömokokal hastalıkların morbidite ve mortalitesinin azaltılarak kontrol altına alınması amacıyla yürütülen bağışıklama hizmetlerini de içermektedir. Ülkemizde, Hib aşısı uygulamasına 25 Aralık 2006 tarihinde, 25 Ekim 2006 tarihinden itibaren doğan çocuklara uygulanmak üzere başlanmıştır. Nisan 2004 tarihinden itibaren doğan çocuklara Mart 2008-Haziran 2009 tarihleri arasında yakalama aşılaması yapılmıştır. Aşı, Ocak 2008 tarihinden itibaren DaBT-IPV-Hib aşısı şeklinde uygulanmaktadır. Konjuge pnömokok aşısı (KPA) 7 bileşenli olarak Mayıs 2008 tarihinden itibaren doğan çocuklara Kasım 2008 yılında uygulanmasına başlanmıştır. Nisan 2011 tarihinde 13 bileşenli KPA'ya uygulamasına geçilmiştir.S. pneumoniae ve H. influenzae tip b'ye bağlı invaziv hastalıklar kontrolü programının amacı; pnömokok ve Hib'e bağlı invaziv bakteriyel hastalıkların kontrolünün sağlanması, bu hastalıklara bağlı ölüm ve sakatlıkların engellenmesi olacak belirlenmiştir. Hedef; pnömokok ve Hib'e bağlı invaziv bakteriyel hastalıkların insidansının belirlenmesi ve aşılama ile diğer önlemlere bağlı hastalık insidansında azalmanın izlenmesidir. Bağışıklama, politik kararlılık, sosyal mobilizasyon ve diğer destekleyici çalışmaların yanı sıra sürveyansın yürütülmesi de temel program stratejileri arasında yer almaktadır.Ülkemizde meningokokal hastalıklara yönelik vaka bağı sürveyans, temaslı takibi ve kontrol işlemleri çalışmaları yürütülmektedir. Meningokok aşısı; GBP kapsamında yer almamakla birlikte, seyahat sağlığı kapsamında vakaların endemik olarak görüldüğü ülkelere girişte zorunlu uygulamalar arasında yer almakta olup Suudi Arabistan tarafından da Hac ve Umre ziyaretçileri için yaptırılması zorunlu kılınmaktadır. Ayrıca yüksek risk altında olmaları nedeniyle silah altına alınan er ve erbaşlara da uygulanmaktadır.Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyans programı kapsamında; menenjit, sepsis ve bakteriyeminin eşlik ettiği pnömoniyi içeren invaziv meningokokal hastalık, invaziv H. influenzae hastalıkları ve invaziv pnömokokal hastalıklar bulunmaktadır.1) Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansının amaçları:
 
 a) İnvaziv bakteriyel hastalık düzeyini ulusal düzeyde tahmin etmek.  
 b) *H. influenzae*, *S. pneumoniae* ve *N. meningitidis* nedeniyle oluşan invaziv bakteriyel hastalık düzeyini ulusal düzeyde tahmin etmek.  

@@ -9,10 +9,34 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 820-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.834"
+kontrol_edildi: true
 ---
 
 7.2.7. Döner Sermaye İşletmesi Kapsamında Destekleyici Talebi ile Yürütülecek Çalışmalar ve Hizmetler Hakkında Yönerge
+
+### DÖNER SERMAYE İŞLETMESİ KAPSAMINDA DESTEKLEYİCİ TALEBİ İLE YÜRÜTÜLECEK ÇALIŞMALAR VE HİZMETLER HAKKINDA YÖNERGE
+
+## BİRİNCİ BÖLÜM Başlangıç Hükümleri
+
+**MADDE 1 –** (1) Bu Yönergenin amacı, Bakanlık ve bağlı kuruluşları ile kamu kurum ve kuruluşları haricindeki gerçek ve tüzel kişilerce, sağlık hizmetleri dışında, sağlık tesisi içinde veya hizmetin gerektirdiği yerde, Bakanlıktan veya sağlık tesisinden talep edilecek bilimsel görüş, proje, araştırma, uygulama ve benzeri hizmetler ile ilgili usul ve esasları belirlemek ve bu kapsamda izin başvuruları ve mali hükümlere ilişkin hususları düzenlemektir.
+
+#### Kapsam
+
+**MADDE 2 –** (1) Bu Yönerge, Bakanlığın merkez teşkilatı ile Bakanlığa bağlı sağlık tesislerini ve bünyelerinde görev yapan personeli kapsar.
+
+(2) Sanayi ve Teknoloji Bakanlığı (Sanayi Tezleri Projeleri - SANTEZ, Kalkınma Ajansları tarafından finansman desteği ile yapılan projeler gibi), Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı (İleri Teknoloji Araştırma Projeleri gibi), Türkiye Sağlık Enstitüleri Başkanlığı (TÜSEB) ile Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) Ar-Ge projeleri gibi kamu kurum ve kuruluşları tarafından desteklenen çalışmalar ve hizmetler bu Yönerge kapsamında değerlendirilmez.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu Yönerge, 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesi ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 508 inci maddesine istinaden hazırlanmıştır.
+
+#### Tanımlar
+
+**MADDE 4 –** (1) Bu Yönergede geçen;
+
+a) Araştırmacı: Sorumlu araştırmacının gözetimi ve denetimi altında, araştırmayla ilgili kritik yöntemlerin uygulanması veya araştırmayla ilgili önemli kararların alınması hususlarında, sorumlu araştırmacı tarafından görevlendirilen hekim veya diş hekimini,
+
+b) Araştırma bütçe formu: Destekleyiciler tarafından hazırlanan ve çalışmanın yürütüleceği merkezin, çalışmayı yapan kişilerin ve yapılacak işlemlerin bulunduğu dokümanı,
 
 b) Sağlık tesisi bütçe formu: Destekleyiciler veya yasal temsilcisi tarafından hazırlanan
 

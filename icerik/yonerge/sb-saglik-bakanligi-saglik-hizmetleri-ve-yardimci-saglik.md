@@ -11,10 +11,36 @@ ocr: true
 tarih: "2023-09-08"
 sayi: "22410678"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.937"
+kontrol_edildi: true
 ---
 
 9.2.1. Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Yönetim Hizmetleri Genel Müdürlüğü
+
+Sayı: E-49635782-010.04-
+
+Konu: Yönerge
+
+BAKANLIK MAKAMINA
+
+02/02/2018 tarihli ve 663 sayılı Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge'nin yürürlükten kaldırılması ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname çerçevesinde hazırlanan "Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge"nin yürürlüğe konulmasını tensiplerinize arz ederim.
+
+Dr. Mehmet KOCA
+
+Yönetim Hizmetleri Genel Müdürü
+
+OLUR [?] / 2023
+
+Dr. Fahrettin KOCA
+
+Bakan
 
 ### SAĞLIK BAKANLIĞI SAĞLIK HIZMETLERI VE YARDIMCI SAĞLIK HİZMETLERİ SINIFI HARİCİ PERSONELİN ATAMA VE YER DEĞİŞTİRME USUL VE ESASLARINA İLIŞKİN YÖNERGE
 

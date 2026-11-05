@@ -9,10 +9,31 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 389-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.403"
+kontrol_edildi: true
 ---
 
-4.2.5. Kimlik Paylaşımı Sistemi (KPS) Usul ve Esasları Hakkında Yönerge 
+4.2.5. Kimlik Paylaşımı Sistemi (KPS) Usul ve Esasları Hakkında Yönerge
+
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Bilgi Sistemleri Genel Müdürlüğü
+
+Sayı : 75730711
+Konu : KPS Yönergesi
+
+### BAKANLIK MAKAMINA
+
+MERNİS veri tabanında yer alan ve ilgili mevzuat uyarınca İçişleri Bakanlığı tarafından Sağlık Bakanlığı ile paylaşılan bilgilerin, Kimlik Paylaşımı Sistemi (KPS) üzerinden Bakanlık ve bağlı kuruluşları bünyesinde faaliyet gösteren sağlık hizmeti sunucularına kullandırılmasına ilişkin usul ve esasları düzenlemek amacıyla hazırlanan "Kimlik Paylaşımı Sistemi Usul ve Esasları Hakkında Yönerge"nin yürürlüğe konması hususunu tensiplerinize arz ederim.
+
+[?]
+Sağlık Bilgi Sistemleri Genel Müdürü
+
+OLUR
+[?]
+Prof. Dr. Recep AKDAĞ
+Bakan
+
+Ek: Yönerge (4 Sayfa)
 
 ## BİRİNCİ BÖLÜM
 

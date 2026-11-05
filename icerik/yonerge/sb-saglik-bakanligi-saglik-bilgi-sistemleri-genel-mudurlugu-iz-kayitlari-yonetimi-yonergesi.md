@@ -11,10 +11,48 @@ ocr: true
 tarih: "2021-11-08"
 sayi: ""
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.386"
+kontrol_edildi: true
 ---
 
 4.2.2. Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü İz Kayıtları Yönetimi Yönergesi
+
+### Genel Müdürlük Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Sağlık Bilgi Sistemleri Genel Müdürlüğü
+
+Standart ve Akreditasyon Dairesi Başkanlığı
+
+Sayı: E-75730711
+
+Konu: İz Kayıtları Yönetimi Yönergesi
+
+GENEL MÜDÜRLÜK MAKAMINA
+
+Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü tarafından işletilen bilgi sistemleri üzerinde gerçekleştirilen iş ve işlemlerin takip edilebilirliğini sağlamak maksadıyla, her seviyedeki sistem bileşeni tarafından üretilmesi gereken iz kayıtlarının asgari düzeyde içeriğini, bu kayıtların saklama süresi ve koşullarını belirlemek amacıyla hazırlanan "Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü İz Kayıtları Yönetimi Yönergesi"nin yürürlüğe konulması hususunu tensiplerinize arz ederim.
+
+Esra MUSLU
+
+Standart ve Akreditasyon Dairesi Başkanı
+
+Uygun Görüşle Arz Ederim:
+
+04/ [?] /2021
+
+Şahin AYDIN
+
+Sağlık Bilgi Sistemleri Genel Müdür Yardımcısı V.
+
+OLUR [?] / 2021
+
+Dr. Mustafa Mahir ÜLGÜ
+
+Sağlık Bilgi Sistemleri Genel Müdürü V.
+
+Ek: Yönerge ve Ekleri (6 Sayfa)
 
 ### SAĞLIK BAKANLIĞI SAĞLIK BİLGİ SİSTEMLERİ GENEL MÜDÜRLÜĞÜ İZ KAYITLARI YÖNETİMİ YÖNERGESİ
 

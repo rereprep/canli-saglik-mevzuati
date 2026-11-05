@@ -11,10 +11,44 @@ ocr: true
 tarih: "2017-11-07"
 sayi: "51275"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.966"
+kontrol_edildi: true
 ---
 
 9.2.6.Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile Çalışma Usul ve Esaslarına Dair Yönerge
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Müsteşarlık
+
+Sayı: 39608046/
+
+Konu: Yönerge
+
+BAKANLIK MAKAMINA
+
+04/01/2012 tarihli ve 28163 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğine dayanılarak hazırlanan "Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile Çalışma Usul ve Esaslarına Dair Yönerge"nin yürürlüğe konulmasını tensiplerinize arz ederim.
+
+Seyfi UYANIK
+
+Müsteşar Yardımcısı
+
+Ek: Yönerge
+
+Uygun Görüşle Arz Ederim. [?] / 2017
+
+Prof. Dr. Eyüp GÜMÜŞ
+
+Müsteşar
+
+OLUR [?] / 2017
+
+Dr. Ahmet DEMİRCAN
+
+Bakan
 
 ### SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI KADRO STANDARTLARI İLE ÇALIŞMA USUL VE ESASLARINA DAİR YÖNERGE BİRİNCİ BÖLÚM Amaç, Kapsam, Dayanak ve Tanımlar
 

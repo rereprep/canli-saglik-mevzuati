@@ -9,10 +9,40 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 461-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.475"
+kontrol_edildi: true
 ---
 
 6.2.5. Ani Gelişen Halk Sağlığı Tehditlerine Yönelik Erken Uyarı Cevap Sistemi Uygulama Yönergesi
+
+T.C.
+SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
+
+Sayı : 44773052/
+Konu : Yönerge
+
+### BAKANLIK MAKAMINA
+
+Erken uyarı ve cevap sistemi, biyolojik, kimyasal, çevresel, radyolojik, nükleer veya henüz nedeni bilinmeyen akut halk sağlığı tehditleri ve halk sağlığı acillerine yönelik olarak hazırlıklılık, erken tespit, doğrulama, risk değerlendirmesi, müdahale ve risk iletişimi süreçlerini kapsayan ve sonuçta morbidite ve mortaliteyi azaltmayı hedefleyen bir sistemdir.
+
+Bu kapsamda ani gelişen halk sağlığı tehditlerine yönelik Erken Uyarı ve Cevap Sistemi'ne ilişkin temel ilke ve bileşenlerin, veri/bilgi toplama ve paylaşım yöntemlerinin, merkez ve taşra teşkilatının görev ve sorumluluklarının, paydaş kurum ve kuruluşlarla iletişim ve koordinasyonun tanımlandığı "Ani Gelişen Halk Sağlığı Tehditlerine Yönelik Erken Uyarı Cevap Sistemi Uygulama Yönergesi"nin yürürlüğe konulması hususunu;
+
+Tensiplerinize arz ederim.
+
+Doç. Dr. [?]
+Halk Sağlığı Genel Müdürü
+
+Uygun görüşle arz ederim.
+[?]
+Prof. Dr. Emine ALP MEŞE
+Bakan Yardımcısı
+
+OLUR
+[?]
+Dr. Fahrettin KOCA
+Bakan
+
+Ek: Yönerge (12 sayfa)
 
 ### ANİ GELİŞEN HALK SAĞLIĞI TEHDİTLERİNE YÖNELİK ERKEN UYARI CEVAP SİSTEMİ UYGULAMA YÖNERGESİ
 

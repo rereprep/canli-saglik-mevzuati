@@ -9,12 +9,48 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Mevcut ve yeni yapılacak sağlık tesislerinde uyulması gereken asgari teknik standartları belirler."
-sayfa_kontrol: "103624.pdf s.1"
+kontrol_edildi: true
 ---
+
 
 ## 5.3. GENELGELER
 
-5.3.1. Mevcut ve Yeni Yapılacak Sağlık Tesislerinde Uyulması Gereken Asgari Teknik Standartlar Genelgesi
+### 5.3.1. Mevcut ve Yeni Yapılacak Sağlık Tesislerinde Uyulması Gereken Asgari Teknik Standartlar Genelgesi
+
+#### T.C. SAĞLIK BAKANLIĞI
+##### İnşaat ve Onarım Dairesi Başkanlığı
+
+**Sayı:** B.10.0.İOD.0.07.00.00-10-6/
+**Konu:** Mevcut ve Yeni Yapılacak Sağlık Tesislerinde Uyulması Gereken Asgari Teknik Standartlar
+
+### GENELGE
+**2012/[?]**
+
+Bakanlığımızca "Sağlıkta Dönüşüm Projesi Kapsamında Yapılacak Sağlık Tesisleri İçin Proje Aşamasında Uyulması Gereken Hususlar" ile ilgili ihtiyaç ve fonksiyon yönünden uygulanması gereken şartlar aşağıda belirtilmiştir.
+
+### Acil Servis
+
+1- Acil servis bekleme bölümünde, triajda ön muayenesi yapıldıktan sonra ciddi bir durum olmadığı tespit edilen hastaların tespit ve tedavisi için poliklinik odaları planlanacaktır. Poliklinik oda sayısı aksi belirtilmediği sürece aşağıdaki sayılar dikkate alınarak yapılacaktır.
+
+0 - 50 yatak: [?]
+51 - 100 yatak: [?]
+101 - 200 yatak: [?]
+201 - 400 yatak: 9
+401 - 600 yatak: [?]
+601 - 900 yatak: 13
+901 - ve üzeri yatak: 16
+
+2- Acil servis girişinde acil giriş/bekleme, triaj, acil müdahale alanları birbiri ile irtibatlı şekilde planlanacak ve acil girişinde lobi tarzında bilgi alma-verme bankosu bulunan alan düzenlenmelidir.
+
+3- Acil servislerinde doktor, hemşire, personel için ayrı soyunma ve dinlenme alanlarına projesinde yer verilecektir.
+
+4- Toplam acil servis alanının % 10-15'i kadar kapalı ve yarı açık alanı mevcut olan kafe mahali, acil servis ile doğrudan bağlantılı ve ana girişi dışarıdan olacak şekilde hizmet verecektir.
+
+5- Acil servislerde hastanenin yatak kapasitesi ve acil servisin seviyesine göre hasta ve hasta yakınları için bekleme alanlarına projesinde yer verilecektir.
+
+6- Acil servis girişlerinde iç ve dış hava kontrolü sağlanması için hava perdesi sistemi uygulanacaktır.
+
+---
 
 ### Yoğun Bakım Birimleri
 
