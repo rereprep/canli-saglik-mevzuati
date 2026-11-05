@@ -11,44 +11,32 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 287-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.301"
+kontrol_edildi: true
 ---
 
-2.3.59. Tıbbi Laboratuvarlarda Numune Saklama Süreleri, Gözetimli Hizmet Laboratuvarları Kapsamındaki Testler Genelgesi (2014/4)
+2.3.59. Tıbbi Labaratuvarlarda Numune Saklama Süreleri, Gözetimli Hizmet Labaratuvarları Kapsamındaki Testler Genelgesi (2014/4)
 
 T.C.
 SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : 95966346-010.06 /
+Sayı : 95966346 -
 Konu : Tıbbi Laboratuvarlarda Numune Saklama Süreleri, Gözetimli Hizmet Laboratuvarları Kapsamındaki Testler
-
-14/02/2014
 
 GENELGE
 2014/4
 
-Bilindiği üzere, 09/10/2013 tarihli ve 28790 sayılı Resmi Gazetede yayımlanan Tıbbi Laboratuvarlar Yönetmeliği ile tıbbi laboratuvarların kuruluşu, işleyişi, denetimi ve ruhsatlandırılmasına ilişkin usul ve esaslar yeniden düzenlenmiştir.
+Tıbbi Laboratuvarlar Yönetmeliği 09.10.2013 tarih ve 28790 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiştir.
 
-Mezkûr Yönetmeliğin 21 inci maddesinin dördüncü fıkrasında yer alan "Tıbbi laboratuvarlarda analiz edilen numunelerin saklanma süreleri ve koşulları ile gözetimli hizmet laboratuvarı kapsamında çalışılabilecek testler Bakanlıkça belirlenir." hükmü uyarınca Tıbbi Laboratuvar Bilimsel Danışma Komisyonunun önerileri doğrultusunda aşağıdaki düzenlemeler yapılmıştır:
+İlgili Yönetmeliğin Tıbbi laboratuvarların çalışma esasları başlıklı 12'nci maddesinde "(7) Raporlanan tıbbi laboratuvar testlerine ilişkin numunelerin saklanması ile ilgili hususlar Bakanlıkça belirlenir." hükmü ile Tıbbi laboratuvarların görevleri başlıklı 11'inci maddesinde "(4) Kamu sahipliğindeki kurum/kuruluşlarda, ruhsatlı tıbbi laboratuvarlarına bağlı aynı uzmanlık dalındaki birim sorumlusunun sorumluluğunda olmak kaydıyla, Bakanlıkça gözetimli hizmet laboratuvarı kurulmasına izin verilebilir. Gözetimli hizmet laboratuvarlarında Bakanlıkça belirlenen testler çalışılır." hükümleri sevk olunmuş olup aşağıda belirtilen şekilde uygulama tesis edilmesi gerekmektedir.
 
-### 1- Tıbbi Laboratuvarlarda Numune Saklama Süreleri ve Koşulları:
+1. Gaita ve idrar hariç tüm vücut sıvılarına ilişkin numunelerin sonuç raporlandıktan sonra en az 24 saat uygun koşullarda saklanması esastır. Ancak, belirlenen süre içerisinde sonuç değerleri değişebilecek test numunelerinin saklama süresine, ilgili laboratuvar uzmanı tarafından karar verilecektir.
 
-a) Tıbbi Biyokimya Laboratuvarlarında; rutin biyokimya ve hormon testlerine ait serum/plazma numuneleri analiz sonrasında en az 2 gün süreyle +2 ila +8 °C'de saklanmalıdır. Tekrar çalışılması gerekebilecek özel test numuneleri ile itiraz konusu olabilecek numuneler ise en az 1 ay süreyle -20 °C veya daha düşük sıcaklıkta saklanır.
+2. Gözetimli Hizmet Laboratuvarı kapsamında çalışılacak testler, Başkanlığımızın web sitesinde (http://www.laboratuvar.saglik.gov.tr) yayımlanır ve güncellenir. Web sitesinde yayımlanan testler gözetimli hizmet laboratuvarlarında çalışılabilecektir.
 
-b) Tıbbi Mikrobiyoloji Laboratuvarlarında; serolojik test serumları analizden sonra en az 1 hafta +2 ila +8 °C'de, şüpheli veya referans doğrulaması gereken numuneler ise en az 1 ay süreyle -20 °C veya daha düşük sıcaklıkta muhafaza edilir. Pozitif kültür izolatları ve klinik önemi haiz suşlar uygun kriyoprotektan ile -70 °C veya daha düşük sıcaklıkta ya da liyofilize edilerek arşivlenir.
+Tıbbi laboratuvarlarda, yukarıda belirtilen hususlar çerçevesinde işlem tesis edilmesi hususunda;
 
-c) Tıbbi Patoloji Laboratuvarlarında; parafin bloklar en az 20 yıl, histopatolojik ve sitopatolojik lamlar en az 10 yıl süreyle oda sıcaklığında, nemden ve ışıktan korunarak arşivlenir. Islak doku örnekleri ise kesin rapor çıkış tarihinden itibaren en az 1 ay süreyle uygun tespit solüsyonunda muhafaza edilir.
-
-ç) Genetik Laboratuvarlarında; DNA ve RNA numuneleri ile kromozom preparatları mevzuatta ve ilgili kılavuzlarda belirlenen süre ve sıcaklık şartlarında (-20 °C veya -80 °C) saklanır.
-
-### 2- Gözetimli Hizmet Laboratuvarları Kapsamındaki Testler:
-
-Yönetmeliğin 12 nci maddesi kapsamında hizmet veren gözetimli hizmet laboratuvarlarında; yalnızca acil tanı ve tedavi sürecinde gecikmeksizin sonuçlandırılması gereken temel biyokimya, tam kan sayımı, tam idrar analizi, kardiyak enzimler, kan gazları ve temel pıhtılaşma testleri gibi acil test panelleri çalışılabilir. Kapsamlı immünolojik, moleküler veya ileri düzey mikrobiyolojik ve genetik testler bu laboratuvarlarda çalışılamaz.
-
-Uygulamanın yukarıda belirtilen usul ve esaslar çerçevesinde yürütülmesi, ilinizdeki kamu, üniversite ve özel tüm sağlık kuruluşlarına ve tıbbi laboratuvarlara duyurulması hususunda;
-
-Bilgilerinizi ve gereğini rica ederim.
+Gereğini rica ederim.
 
 Prof. Dr. Nihat TOSUN
 Bakan a.
@@ -59,6 +47,6 @@ Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 Türkiye Kamu Hastaneleri Kurumu
 Türkiye Halk Sağlığı Kurumu
-Yükseköğretim Kurulu Başkanlığı
+Yüksek Öğretim Kurulu
 Türk Silahlı Kuvvetleri Sağlık Komutanlığı
 

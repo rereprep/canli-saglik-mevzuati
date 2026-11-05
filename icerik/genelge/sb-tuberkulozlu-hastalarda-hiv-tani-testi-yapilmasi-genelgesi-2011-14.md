@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 691-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.705"
+kontrol_edildi: true
 ---
 
 6.3.38. Tüberkülozlu Hastalarda HIV Tanı Testi Yapılması Genelgesi (2011/14)
@@ -63,4 +63,5 @@ EKLER:
 DAĞITIM:
 Gereği:
 81 İl Valiliğine
+
 

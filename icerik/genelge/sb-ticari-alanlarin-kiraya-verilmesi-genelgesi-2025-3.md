@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 888-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.902"
+kontrol_edildi: true
 ---
 
 7.3.13. Ticari Alanların Kiraya Verilmesi Genelgesi (2025/3)
@@ -23,28 +23,24 @@ Hukuk Hizmetleri Genel Müdürlüğü
 Sayı : E-11045126-010.06-273449570
 Konu : Ticari Alanların Kiraya Verilmesi
 
-11/01/2025
-
 GENELGE
 2025/3
 
-Bakanlığımıza tahsisli taşınmazlar ile bağlı sağlık kurum ve kuruluşlarında bulunan ticari alanların kiraya verilmesi, işletilmesi, denetimi ve hasılatın takibine ilişkin usul ve esaslar aşağıda düzenlenmiştir:
+Bilindiği üzere, Hazine ve Maliye Bakanlığı ile Bakanlığımız arasında imzalanan 15/6/2011 tarihli protokol ile mülkiyeti Hazineye ait/Hazine ile hisseli/üst yapısı Hazineye ait ya da zemini Hazineye ait olup Sağlık Bakanlığına tahsisli olan yerler ile Bakanlığımızca kiralanmış ve kira bedelleri merkezi yönetim bütçesinden karşılanan hastane ve birinci basamak sağlık kurumlarındaki ticari amaçla kullanılması mümkün olan (söz konusu taşınmazların aile hekimlerine kiralanması dahil olmak üzere) ve yeni açılacak bölümlerin kiralanması 10 yıllığına Bakanlığımıza devredilmiştir. Çevre Şehircilik ve İklim Değişikliği Bakanlığı Milli Emlak Genel Müdürlüğünün 23/5/2019 tarihli ve E.122884 sayılı yazısı ile protokol süresi 15/6/2031 tarihine kadar uzatılmıştır. Bu kapsamda ticari alanların işletilme esasları Bakanlığımızın 2011/43 ve 2012/49 sayılı Genelgeleri ile düzenlenmiş olup kiralama işlemleri bu çerçevede ilgili idarelerce yerine getirilmektedir.
 
-### 1. Genel İlkeler:
+Bakanlığımız ile bağlı ve ilgili kuruluşlarının teşkilat ve görevlerinin, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ve 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile yeniden belirlenmesi üzerine Bakanlık taşra teşkilatında uygulama birliğinin sağlanması ve geçen süreçte yeni sorun alanlarının çözüme kavuşturulması amacıyla ticari alanların kiraya verilmesi işlemleri aşağıda belirtilen açıklamalar çerçevesinde yürütülecektir.
 
-a) Bakanlığımıza tahsisli taşınmazlardaki büfe, kantin, kafeterya, çay ocağı, ATM, otomat, otopark gibi ticari alanlar hasta, hasta yakını ve personelin temel ihtiyaçlarını karşılamak üzere açılır.
+### 1. Protokole İlişkin Hükümler:
 
-b) Bu alanlar sağlık hizmeti sunumunu aksatmayacak, hasta ve çalışan güvenliğini tehlikeye düşürmeyecek, genel hijyen ve estetik kurallara uygun yerlerde planlanır.
+a) Protokol süresi, protokolün imzalandığı tarihten itibaren 10 yıldır. Ancak Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 22/5/2019 tarihli ve 122229 sayılı Bakanlık Makam Olurları ile Protokolün son geçerlilik süresi 15/6/2031 tarihine kadar 10 yıl süreyle uzatılmıştır. Bu kapsamda kiraya verilecek ticari alanlar 3 yılı geçmeyecek şekilde ihale edilecek ve sözleşmelerin süreleri protokol bitim süresini (15/6/2031) aşmayacak şekilde düzenlenecektir.
 
-c) Ticari alanların işletilmesinde kamu yararı, hizmet kalitesi, piyasa rayiçlerine uygunluk ve saydamlık ilkeleri esastır.
+b) Kiracılar ile yapılacak sözleşmelere protokolün belirtilen tarihte veya herhangi bir sebeple daha erken sona ermesi halinde, sözleşmenin sona ereceği ve bu hususlarda herhangi bir hak ve tazminat talep edilemeyeceğine dair hükümler konulacaktır.
 
-ç) Ticari alanların kiralama süreçleri Bakanlığımız ile Hazine ve Maliye Bakanlığı arasındaki Protokol ve ilgili mevzuat hükümlerine uygun olarak yürütülür.
+c) Ticari alanlar ihale yapılmaksızın kiraya verilemez ve başka bir usul ile kullandırılamaz. 11/10/2011 tarihli ve 663 sayılı Kanun Hükmünde Kararnamenin ek 2 nci maddesi, 7/1/2020 tarihli ve 2041 sayılı Cumhurbaşkanı Kararı ve özel mevzuatı uyarınca kira bedeli ödenmek şartıyla Uluslararası Sağlık Hizmetleri Anonim Şirketi (USHAŞ) ve hissesinin yüzde ellisinden fazlası USHAŞ'a ait olan şirketler bu bent hükmüne tabi değildir.
 
-d) Bu alanlarda tütün ve tütün ürünleri, alkollü içecekler ile mevzuatla satışı yasaklanan ürünlerin bulundurulması ve satışı kesinlikle yasaktır.
+ç) Kiracılara hiçbir şekilde kiralama karşılığında ticari alan yaptırılmayacaktır.
 
-e) Bakanlığımıza bağlı sağlık kurum ve kuruluşları döner sermayeli işletme niteliğinde olup tabi olduğu mevzuat çerçevesinde genel işletmecilik esasları doğrultusunda yönetilmektedir. Sağlık hizmetlerinin sürdürülebilirliği, bütçe dengelerinin sağlanması, döner sermaye gelirlerine katkı sağlanması ve âtıl kapasitenin değerlendirilmesi amacı ile ticari amaçlı kullanımı mümkün olan yeni açılacak ticari alanlar kiraya verilecektir.
-
-f) Sağlık Bakanlığına tahsisli taşınmazlar amacı dışında kullanılmayacak, taşınmazın bünyesinde bulunan ticari alanlar da Bakanlığımıza tahsis amacı ile bağdaşmayacak faaliyetlere konu edilmeyecektir. Ticari alanlarda mevzuatla yasaklanan ürünlerin satışı yaptırılmayacaktır.
+d) İdare ile kiracı arasında imzalanan kira sözleşmelerinin (mülkiyeti üçüncü şahıslara ait olmakla birlikte kullanım hakkı Bakanlığımıza veya Valiliğe bırakılan taşınmazlar ile döner sermaye kaynaklarından kiralanan taşınmazlardaki ticari alanlar ve aile hekimleri ile yapılan sözleşmeler hariç) bir örneği il sağlık müdürlüğünce sözleşmenin düzenlenmesinden itibaren bir ay içinde Çevre, Şehircilik ve İklim Değişikliği Bakanlığının ilgili il müdürlüğüne gönderilecektir. Ayrıca protokol kapsamındaki ticari alanlardan, sağlık tesisinin kapatılması nedeniyle faaliyetlerine son verilenler bir ay içinde cari yıl sözleşme bilgileri ile birlikte il sağlık müdürlüğü vasıtasıyla Kamu Hastaneleri Genel Müdürlüğüne ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığının ilgili il müdürlüğüne bildirilecektir.
 
 ### 2. Kiralama İhaleleri ve Genel Hükümler:
 
@@ -149,4 +145,5 @@ Bakan
 DAĞITIM:
 A PLANI (Bağlı ve İlgili Kuruluşlar Hariç)
 81 İl Sağlık Müdürlüğüne
+
 

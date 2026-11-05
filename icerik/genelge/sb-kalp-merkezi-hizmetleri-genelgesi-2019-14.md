@@ -2,6 +2,7 @@
 id: "sb-kalp-merkezi-hizmetleri-genelgesi-2019-14"
 baslik: "Kalp Merkezi Hizmetleri Genelgesi (2019/14)"
 tur: "genelge"
+tarih: "2019-07-18"
 sayi: "2019/14"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Erişkin kalp merkezlerinin kurulması, tanı ve tedavi birimlerinin asgari standartları ve işleyişini belirler."
@@ -10,16 +11,34 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 225-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.239"
+kontrol_edildi: true
 ---
-### T.C. SAĞLIK BAKANLIĞI
+
+### T.C.
+### SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü
 
-**Sayı :** 80118214-060.04-457  
-**Konu :** Kalp Merkezi Hizmetleri
+**Sayı :** 80118214 - 010.06 - 457  
+**Konu :** Kalp Merkezi Hizmetleri  
+**Tarih :** 18/07/2019
 
 ### GENELGE
 **2019/14**
+
+Kalp ve damar hastalıkları küresel ölümlerin % 30'una neden olan, özellikle orta ve ileri yaş grubundaki kişilerde en önemli mortalite ve morbidite nedenidir. Kalp ve damar hastalıklarının klinik tedavi maliyetleri de oldukça yüksektir. Genellikle orta yaştaki insanları etkileyen bu hastalıklar nitelikli insan kaynağının en verimli yıllarını olumsuz etkilemekte, ülkelerin üretimini ve dolayısıyla ekonomik gelişimini sekteye uğratmaktadır.
+
+Kalp cerrahisi ve girişimsel kardiyoloji hizmetlerinin planlanması için Bakanlığımızca kalp ve damar cerrahisi, kardiyoloji, çocuk kalp ve damar cerrahisi ve çocuk kardiyoloji uzmanlarından oluşturulan "Kalp ve Damar Hastalıkları Bilimsel Çalışma ve Değerlendirme Komisyonu" kurulmuştur. Ülkemizin kalp ve damar hastalıklarının insidansı, prevalansı, coğrafi yapısı, nüfus hareketleri, yetişmiş sağlık insan gücü ve güncel uluslararası kılavuzlar da göz önüne alınarak Komisyon tarafından kalp ve damar hastalıklarına yönelik planlamalar yapılmaktadır.
+
+Bu planlamaların amacı; kalp ve damar hastalıklarında mortalite ve morbiditenin en aza indirilmesi, vatandaşlarımızın hizmete erişimlerinin kolaylaştırılması, ihtiyaç duyulan sağlık hizmetlerinin hakkaniyetle sunulması, atıl kapasite oluşturulmaması ve kaynak israfına sebebiyet verilmemesidir. Tüm bu hususlar göz önünde bulundurularak girişimsel kardiyoloji ve açık kalp cerrahisinin birlikte yapıldığı "Kalp Merkezleri"nin tanımı yapılmıştır. Bu merkezlerin planlaması, kurulumu ve işleyişi ile ilgili usul ve esaslar bu Genelgenin ekinde düzenlenmiştir. Halen bünyesinde kalp merkezi bulunan hastaneler bu genelgenin yayımlandığı tarihten itibaren bir yıl içerisinde kalp merkezini Bakanlıkça tescil ettirmek zorundadır.
+
+Genelgenin, ilinizde bulunan tüm sağlık kuruluşlarına duyurulması ile Bakanlığımız, üniversite ve özel sağlık tesislerinde Kalp Merkezi işlemlerinin iş bu Genelge kapsamında yürütülmesi hususunda;
+
+Bilgilerinizi ve gereğini önemle rica ederim.
+
+Dr. Fahrettin KOCA  
+Bakan
+
+**Ek:** Kalp Merkezlerine İlişkin Usul ve Esaslar
 
 ### EK-1 KALP MERKEZLERİNE İLİŞKİN USUL VE ESASLAR
 

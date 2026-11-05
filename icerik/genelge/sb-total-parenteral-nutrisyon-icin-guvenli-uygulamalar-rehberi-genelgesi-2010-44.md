@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 239-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.253"
+kontrol_edildi: true
 ---
 
 2.3.38. Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi Genelgesi (2010/44)
@@ -20,15 +20,18 @@ T.C.
 SAĞLIK BAKANLIĞI
 Tedavi Hizmetleri Genel Müdürlüğü
 
-Sayı : B.10.0.THG.0.79.00.02 / 26162
-Konu : Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi
-
-25/06/2010
+17.06.2010
+Sayı : B.10.0.THG.0.12.00.03 -216.99/24718
+Konu: Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi
 
 GENELGE
-2010/44
+(2010/44)
 
-Yataklı tedavi kurumlarında yatarak tedavi gören hastalarda malnütrisyonun önlenmesi ve tedavisinde parenteral nütrisyon uygulamaları hayati öneme sahiptir. Parenteral nütrisyon solüsyonlarının hazırlanması, saklanması ve hastaya uygulanması süreçlerinde hasta güvenliğinin en üst düzeyde sağlanması, enfeksiyon risklerinin ve uygulama hatalarının en aza indirilmesi amacıyla Bakanlığımızca "Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi" hazırlanmıştır.
+Bakanlık Makamının 16/05/2007 tarihli ve 7716 sayılı onayı ile yürürlüğe konulmuş olan "Hastane Enfeksiyonları Bilimsel Danışma Kurulu'nun Teşkili, Görevleri ile Çalışma Usul ve Esasları Hakkında Yönerge" gereğince, 25/09/2009 tarihli 20441 sayılı Bakan Oluru ile oluşturulan Hastane Enfeksiyonları Bilimsel Danışma Kurulu'nun 28 Mayıs 2010 tarihli toplantısında alınan karara göre;
+
+Hastanelerimizdeki mevcut ve yeni açılacak olan Parenteral Nütrisyon Ünitelerinin (PN) standardize edilerek hastane kaynaklı enfeksiyonlara bağlı mortalite ve morbiditenin azaltılmasına yardımcı olmak ve kurumun hizmet kalitesinin artırılmasına katkı sağlamak amacıyla Parenteral Nütrisyon uygulamalarının belirli standartlar doğrultusunda yapılması gerekmektedir. Bu nedenle hazırlanan "Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi" ile tüm yataklı tedavi kurumlarında, PN işleminin hazırlandığı yerin ve dolum ünitelerinin özellikleri, dolum cihazının bakımı, dolum işlemi, bölümün temizliği, personel ile ilgili özellikler, PN ilaç etkileşimi, PN solüsyonlarının depolanma, saklanma, taşınma ve teslimi, PN uygulaması gibi konular standardize edilmiştir.
+
+Ayrıca, söz konusu rehber hakkında tüm klinisyenlerin bilgilendirilmesi, rehbere uygun çalışmalarının sağlanması, merkezlerin büyüklük hasta profili ve yapısına göre nütrisyon ekiplerinin kurulması gerekmektedir. PN solüsyonlarını ünitelerinde kendileri hazırlayan merkezlerin, deneyimli eczacıları nütrisyon destek ekiplerine dahil etmeleri önemlidir. Dolum ünitesinde hazırlanan tüm solüsyonlar, dozları, uyumlulukları ve geçimlilikleri yönünden mutlaka bir eczacı tarafından değerlendirilmeli ve bir sağlık teknisyeni tarafından eczacı gözetiminde hazırlanmalıdır. TPN hazırlama ekibine konuya ilişkin eğitim verilmeli ve eğitimin sürekliliği sağlanmalıdır. Ayrıca bu ekip, klinikte TPN uygulayan ekibe eğitim vermelidir.
 
 Yataklı tedavi kurumlarında yer alan Parenteral Nütrisyon Ünitelerinin Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi'ne uygunluğu yönünde denetlenmesi gerekir. Bu nedenle; 26.03.2009 tarih ve 30-12286 (2009/22) sayılı Genelge gereği Yenidoğan Yoğun Bakım Ünitelerinin denetlenmesi amacı ile oluşturulan komisyona bir diyetisyen ve bir eczacının da eklenmesi ile oluşturulacak alt komisyon tarafından Parenteral Nütrisyon Ünitelerinin de denetlenmesi, ilk denetimin 2010 yılı Aralık ayı sonuna kadar gerçekleştirilmesi ve denetim raporlarının Sağlık Müdürlüklerince her yılın Aralık Ayı sonuna kadar toplu olarak Refik Saydam Hıfzıssıhha Merkezi Başkanlığına iletilmesi gerekmektedir.
 
@@ -38,8 +41,7 @@ Prof. Dr. Nihat TOSUN
 Bakan a.
 Müsteşar V.
 
-EK:
-Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi (12 sayfa)
+EK: Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi (12 sayfa)
 
 DAĞITIM :
 A Planı
