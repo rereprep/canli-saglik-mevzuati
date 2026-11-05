@@ -27,12 +27,13 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## OCR düzeltme durumu
 - OCR'lı belgeler künyede `ocr: true`; düzeltilenler `duzeltildi: true` (kitaptan_cikar bunları ezmez).
-- Kalan düzeltilmemiş: `grep -l '^ocr: true' icerik/*/*.md | xargs grep -L '^duzeltildi: true'` (2026-11-05 itibarıyla 40; çoğu sbg- Bakanlık belgeleri ve halk sağlığı kitabı yazıları).
+- Kalan düzeltilmemiş: `grep -l '^ocr: true' icerik/*/*.md | xargs grep -L '^duzeltildi: true'` — 2026-11-05 itibarıyla 0. Tüm OCR'lı belgeler ajanlarca kaynakla karşılaştırılıp düzeltildi (bazılarında okunamayan yerler [?] ile işaretli).
 - Ajanlar künyeye bazen tırnaksız değer yazıyor: /tmp/csm-test/kunye_duzelt.py ile standartlaştır (yoksa yeniden yaz: değerleri json.dumps ile yaz, ocr/duzeltildi "true" → true).
 - Etkili ajan talimatı: her turda listedeki düzeltilmemiş ilk 5 dosyayı düzelt ve kaydet; bitince yeniden görevlendir.
 
 ## Bilinen eksikler / sonraki adımlar
-- Kalan 40 OCR belgesini düzelt, sonra tam derleme + push.
+- OCR düzeltmesi tamamlandı (2026-11-05). Yeni eklenen OCR'lı belgeler için aynı ajan akışını kullan.
+- Ajan raporlarındaki notlar: bazı yönergelerde onay tarihi kaynakta boş ("…/…/2019"); bu künyeler bilerek boş bırakıldı. Birim adları künyede bugünkü adlarla, metinde eski adlarla geçebilir.
 - Resmî Gazete takibi için depo Settings > Secrets'a GEMINI_API_KEY eklenebilir; otomatik PR için Actions > "Allow GitHub Actions to create pull requests" açılmalı.
 - saglik.gov.tr'de 62 genelge kaydı alt liste sayfası (ör. devredilen birimlerin genelgeleri) olarak kaldı; ayrıca taranmadı.
 - Künye tarih/sayı eksikleri için araclar/zenginlestirme_listesi.py + kaynak-isleme/zenginlestirme/*.json katmanı hazır, henüz kullanılmadı.
