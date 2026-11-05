@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 876-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.891"
+kontrol_edildi: true
 ---
 
 7.3.12. Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9)
@@ -35,17 +35,35 @@ Bakanlığımızın yürütmekte olduğu Sağlıkta Dönüşüm Programı ile ha
 
 ### 1. STOK YÖNETİMİ UYGULAMALARI
 
-#### 1.1. Stok Kontrol Süreci ile İlgili Kavramlar
+1.1. Stok Kontrol Süreci ile İlgili Kavramlar
 
 Kamu Hastaneleri Birliklerinde, stok yönetiminin bir bileşeni olan stok kontrol süreci çerçevesinde uygulama birliğini sağlamak ve terim karmaşasını engellemek adına bazı kavramlara aşağıda yer verilmiştir:
 
-a) **Birlik Stok Havuzu:** Birliğe bağlı sağlık tesislerinin ambarlarında bulunan ve gerekli hallerde ortak kullanıma sunulan İlaç, Tıbbi Sarf, Kırtasiye, Tıbbi Cihaz, Demirbaş vb. mal ve malzemeler birlik stok havuzu olarak değerlendirilecektir. Birliğe bağlı sağlık tesisleri arasında ayrım olmaksızın bu mal ve malzemeler (öncelikle acil ihtiyaç ve kapasite fazlası durumlarında olmak üzere) ortak kullanılacaktır. Birlik Stok Havuzunun yönetimi, dağılımı ve kullanımı, ilgili mevzuat ve bu genelge hükümlerine aykırı olmamak üzere, kaynak israfına yol açmadan Genel Sekreterlikçe belirlenecektir.
+a) Birlik Stok Havuzu: Birliğe bağlı sağlık tesislerinin ambarlarında bulunan ve gerekli hallerde ortak kullanıma sunulan İlaç, Tıbbi Sarf, Kırtasiye, Tıbbi Cihaz, Demirbaş vb. mal ve malzemeler birlik stok havuzu olarak değerlendirilecektir. Birliğe bağlı sağlık tesisleri arasında ayrım olmaksızın bu mal ve malzemeler (öncelikle acil ihtiyaç ve kapasite fazlası durumlarında olmak üzere) ortak kullanılacaktır. Birlik Stok Havuzunun yönetimi, dağılımı ve kullanımı, ilgili mevzuat ve bu genelge hükümlerine aykırı olmamak üzere, kaynak israfına yol açmadan Genel Sekreterlikçe belirlenecektir.
 
-b) **Azami Stok Seviyesi (Miktarı):** Sağlık tesislerinde ve Birlik genelinde bulundurulabilecek en fazla stok miktarını ifade eder. Birlik ve sağlık tesisleri için azami stok süresi 60 gündür.
+b) Fiili Stok Düzeyi: Stok yönetim performansı değerlendirilmek istenen Birlik, birliğe bağlı herhangi bir sağlık tesisi veya sağlık tesisinin herhangi bir ambarında (Ör: A Sağlık Tesisi İlaç Ambarı gibi) bulunan fiili stok miktarını gün cinsinden gösteren değerdir. İncelemenin yapıldığı andaki fiili stok tutarının, günlük ortalama tüketim tutarına bölümü ile hesaplanır.
 
-c) **Stok Fazlası Ürün:** Azami stok seviyesini aşan miktardaki ürünlerdir.
+c) Günlük Ortalama Talep Hızı: İlgili ambardan belirli bir sürede tüketime verilen toplam birim miktarın günlük ortalamasıdır. Örneğin A ilacı için 12 adet/gün'dür.
 
-ç) **İhtiyaç Fazlası Ürün:** Sağlık tesisinde tüketim imkânı kalmayan, hekim ayrılması veya cihaz değişimi gibi nedenlerle atıl kalan veya miadının dolmasına 6 ay kaldığı halde tüketilemeyeceği anlaşılan ürünlerdir.
+d) Azami Stok Miktarı: Tüketime dönük mal ve malzemeler için Kurumumuzca belirlenerek sağlık tesislerimizde bulundurulmasına izin verilen üst sınır stok miktarıdır.
+
+e) Stok Fazlası Miktar: İlgili malzeme için Azami Stok Miktarını aşan stok miktardır. Stok Fazlası Miktar = Fiili Stok Miktarı - Azami Stok Miktarı formülü ile hesaplanarak bulunur. Stok fazlası malzemeler öncelikle Birliğe bağlı diğer sağlık tesislerine devredilerek tüketilmelidir.
+
+f) İhtiyaç Fazlası Miktar: İhtiyaca dönük olarak temin edildiği halde, çeşitli nedenlerle sağlık tesisinde ihtiyaç duyulmayan veya ihtiyacı aşan miktarda bulunan, elden çıkarılmadığı takdirde atıl kalan veya tesisin elinde kullanılamaz hale gelerek kamu zararına yol açacağı öngörülen ve Malzeme Kaynakları Yönetim Sistemi (MKYS) ekranlarında ilgili alana kayıt edilerek bildirimi yapılacak mal ve malzemelere ilişkin miktarları gösteren değerdir. İhtiyaç fazlası malzemeler de stok fazlası malzemeler gibi öncelikle birliğe bağlı diğer sağlık tesislerine devredilerek tüketilmelidir.
+
+1.2. Azami Stok Miktarının Belirlenmesi
+
+a) İşbu Genelge ile Birlikler ve bağlı Sağlık Tesisleri için Azami Stok Miktarı 60 (altmış) gün yetecek stok miktarı olarak yeniden belirlenmiştir.
+
+b) Azami Stok Miktarı ilgili malzeme için günlük ortalama talep hızının 60 (altmış) ile çarpımı suretiyle elde edilir.
+
+c) Taşınırlara ait yıllık ihtiyaç miktarları Taşınır Kayıt ve Kontrol Yetkilileri tarafından MKYS'de yer alan "Yıllık İhtiyaç Giriş İşlemleri Ekranı" üzerinden sisteme girilecek veya bazı malzemeler için otomatik olarak belirlenmesi sağlanacaktır.
+
+d) Yıllık ihtiyaç miktarları bir önceki yıl ve yıl içindeki tüketimler ile hizmet kapasitesindeki artış ve azalışlar da göz önüne alınarak gerçekçi bir şekilde belirlenecektir.
+
+e) MKYS'de yıllık ihtiyacı girilmeyen malzemelerin yıllık ihtiyaç miktarları sistem tarafından otomatik olarak 1 (bir) olarak kabul edilecektir. Dolayısıyla fiili stok, stok fazlası modülüne sistem tarafından otomatik olarak yansıtılacaktır.
+
+f) Farmasötik eşdeğer kabul edilen jenerik ilaçlara bağlı ticari müstahzarlar bir arada değerlendirilerek yıllık ihtiyaç miktarları belirlenecektir.
 
 #### 1.2. Teşkilatlanma ve Görev Dağılımı
 
