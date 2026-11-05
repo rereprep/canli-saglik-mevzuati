@@ -12,7 +12,7 @@ kaynak_pdf_sayfa: "562-563"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "mevzuat-kitabi.pdf s.563"
+kontrol_edildi: true
 ---
 
 ## AİLE HEKİMLİĞİ UYGULAMASI PLANLAMA REHBERİ

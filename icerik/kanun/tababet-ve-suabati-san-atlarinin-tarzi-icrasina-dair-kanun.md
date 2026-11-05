@@ -11,7 +11,7 @@ konu: "Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun ile bel
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 41-60"
 durum: "yürürlükte"
-sayfa_kontrol: "mevzuat-kitabi.pdf s.61"
+kontrol_edildi: true
 ---
 
 ## TABABET VE ŞUABATI SAN'ATLARININ TARZI İCRASINA DAİR KANUN<sup>[1]</sup>
@@ -622,9 +622,44 @@ Bu maddenin yürürlüğe girdiği tarihten önce oral patoloji alanında doktor
 
 ### EK–1[22] Tıpta Uzmanlık Ana Dalları ve Eğitim Sürelerine Dair Çizelge
 
-__________________ <sup>[22]</sup>Bu çizelge 6/4/2011 tarihli ve 6225 sayılı Kanunun 10 uncu maddesinin hükmüdür.
-
-36- Sualtı Hekimliği ve Hiperbarik Tıp 3 yıl
+| Ana Dallar | Eğitim Süreleri |
+| --- | --- |
+| 1- Acil Tıp | 4 yıl (İç Hastalıkları uzmanları için 2 yıl; Genel Cerrahi uzmanları için 2 yıl; Patoloji uzmanları için 2 yıl; Kulak-Burun-Boğaz Hastalıkları uzmanları için 2 yıl; Plastik, Rekonstrüktif ve Estetik Cerrahi uzmanları için 2 yıl) |
+| 2- Adli Tıp | 4 yıl |
+| 3- Ağız, Yüz ve Çene Cerrahisi | 5 yıl |
+| 4- Aile Hekimliği | 3 yıl |
+| 5- Anatomi | 3 yıl |
+| 6- Anesteziyoloji ve Reanimasyon | 4 yıl |
+| 7- Askeri Sağlık Hizmetleri * | 3 yıl |
+| 8- Beyin ve Sinir Cerrahisi | 5 yıl |
+| 9- Çocuk Cerrahisi | 5 yıl |
+| 10- Çocuk Sağlığı ve Hastalıkları | 4 yıl |
+| 11- Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları | 4 yıl (Ruh Sağlığı ve Hastalıkları uzmanları için 2 yıl) |
+| 12- Deri ve Zührevi Hastalıkları | 4 yıl |
+| 13- Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji | 5 yıl (Tıbbi Mikrobiyoloji uzmanı tabipler için 3 yıl) |
+| 14- Fiziksel Tıp ve Rehabilitasyon | 4 yıl |
+| 15- Fizyoloji | 3 yıl |
+| 16- Genel Cerrahi | 5 yıl |
+| 17- Göğüs Cerrahisi | 5 yıl (Kalp ve Damar Cerrahisi uzmanları için 2 yıl; Genel Cerrahi uzmanları için 3 yıl) |
+| 18- Göğüs Hastalıkları | 4 yıl (İç Hastalıkları uzmanları için 2 yıl) |
+| 19- Göz Hastalıkları | 4 yıl |
+| 20- Halk Sağlığı | 4 yıl |
+| 21- Hava ve Uzay Hekimliği | 3 yıl |
+| 22- Histoloji ve Embriyoloji | 3 yıl |
+| 23- İç Hastalıkları | 4 yıl |
+| 24- Kadın Hastalıkları ve Doğum | 4 yıl |
+| 25- Kalp ve Damar Cerrahisi | 5 yıl (Göğüs Cerrahisi uzmanları için 3 yıl; Genel Cerrahi uzmanları için 3 yıl) |
+| 26- Kardiyoloji | 4 yıl (İç Hastalıkları uzmanları için 2 yıl) |
+| 27- Kulak Burun Boğaz Hastalıkları | 4 yıl |
+| 28- Nöroloji | 4 yıl |
+| 29- Nükleer Tıp | 4 yıl |
+| 30- Ortopedi ve Travmatoloji | 5 yıl |
+| 31- Plastik, Rekonstrüktif ve Estetik Cerrahi | 5 yıl (Genel Cerrahi uzmanları için 3 yıl) |
+| 32- Radyasyon Onkolojisi | 4 yıl |
+| 33- Radyoloji | 4 yıl |
+| 34- Ruh Sağlığı ve Hastalıkları | 4 yıl |
+| 35- Spor Hekimliği | 4 yıl (Fiziksel Tıp ve Rehabilitasyon uzmanları için 2 yıl; Ortopedi ve Travmatoloji uzmanları için 2 yıl) |
+| 36- Sualtı Hekimliği ve Hiperbarik Tıp 3 yıl
 
 37- Tıbbi Biyokimya 4 yıl
 

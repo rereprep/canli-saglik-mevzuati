@@ -11,7 +11,7 @@ kaynak_pdf_sayfa: "550-554"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "mevzuat-kitabi.pdf s.550"
+kontrol_edildi: true
 ---
 
 ## SAĞLIK BAKANLIĞI VE TÜRK SİLAHLI KUVVETLERİ ARASINDA TÜRK SİLAHLI KUVVETLERİ SAĞLIK HİZMET SUNUCULARINCA VERİLECEK YETKİLENDİRİLMİŞ AİLE HEKİMLİĞİ HİZMETLERİNİN DÜZENLENMESİ VE YETKİLENDİRİLMESİNE İLİŞKİN PROTOKOL

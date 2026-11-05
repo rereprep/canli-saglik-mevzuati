@@ -11,10 +11,10 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Sağlık Bakanlığı personelinin mal bildiriminde bulunma usul ve esasları, bildirim zamanları ve idari süreçlerini düzenler."
-sayfa_kontrol: "103636.pdf s.1"
+kontrol_edildi: true
 ---
 
-9.3.6. Mal Bildirimleri Konulu Genelge (2018/20)
+9.3.7. Mal Bildirimleri Konulu Genelge (2018/20)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Yönetim Hizmetleri Genel Müdürlüğü
@@ -50,9 +50,15 @@ b) Kendilerine aylık ödenenler, net aylık tutarının beş katından fazla; a
 
 4) Her türlü kara, deniz ve hava taşıt araçları, traktör, biçer-döver, harman makinası ve diğer ziraat makineleri, inşaat ve iş makineleri, hayvanlar, koleksiyon ve ev eşyaları ile diğer taşınır mallar,
 
+5) Hakları,
+
 6) Alacakları,
 
-7) Borçları, Mal bildirimine konu teşkil etmektedir. Mallar, mal bildirimi tarihindeki değerleri esas alınmak suretiyle beyan edilecektir. Mal bildirimlerinde (b) bendinde belirtilen mal, hak, alacak, borç ve gelirlerin ayrı ayrı toplam degerleri gösterilecektir. Mal bildiriminde bulunmakla yükümlü personel, eşinin 3628 sayılı Kanun kapsamında olması halinde, her birinin ayrı ayrı mal bildiriminde bulunması ve eşlerden her birinin, eşi ile velayeti altındaki çocuklarına ait malları da ayrıca bildirecektir.
+7) Borçları,
+
+8) Gelirleri,
+
+Mal bildirimine konu teşkil etmektedir. Mallar, mal bildirimi tarihindeki değerleri esas alınmak suretiyle beyan edilecektir. Mal bildirimlerinde (b) bendinde belirtilen mal, hak, alacak, borç ve gelirlerin ayrı ayrı toplam değerleri gösterilecektir. Mal bildiriminde bulunmakla yükümlü personel, eşinin 3628 sayılı Kanun kapsamında olması halinde, her birinin ayrı ayrı mal bildiriminde bulunması ve eşlerden her birinin, eşi ile velayeti altındaki çocuklarına ait malları da ayrıca bildirecektir.
 
 3. Mal Bildiriminin Verilme Zamanı Mal bildirimlerinin;
 

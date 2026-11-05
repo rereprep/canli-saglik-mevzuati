@@ -10,7 +10,7 @@ duzeltildi: true
 konu: "Bakanlık ve Bağlı Kuruluşlarının Taşra Teşkilatlarının İşleyişi Hakkında Genelge konusundaki uygulama ve esasları bildirir."
 tarih: "2013-07-04"
 ocr: true
-sayfa_kontrol: "10547-ek4.pdf s.11"
+kontrol_edildi: true
 ---
 
 ### Hukuk Müşavirliği
@@ -502,19 +502,24 @@ STRATEJİK ANALİZ..............................................................
 
 İl Sağlık Müdürü
 
-İl Sağlık Müdür İl Sağlık Müdür
+İl Sağlık Müdür Yardımcıları
 
-Yardımcıları Yarcımcıları
+Halk Sağlığı Müdürü
 
-............ .............. ..............
+Halk Sağlığı Müdür Yardımcıları
 
-Halk Sağlığı
+Genel Sekreter
 
-Müdürü
+Tıbbi Hizmetler Başkanı
+Mali Hizmetler Başkanı
+İdari Hizmetler Başkanı
 
-Halk Sağlığı Müdür Halk Sağlığı Müdür
+Hastane Yöneticiliği
+Başhekim
+Sağlık Bakım Hizmetleri Müdürü
+İdari ve Mali İşler Müdürü
 
-Yardımcıları Yardımcıları ............ .............. .............. 1.5. Kaynaklar 1.5.1. İnsan Kaynakları İl’de görev alan tüm sağlık çalışanlarının (özel sektör ve üniversite dâhil) toplam sayısı verilecektir. (örnek tablo)
+1.5. Kaynaklar 1.5.1. İnsan Kaynakları İl’de görev alan tüm sağlık çalışanlarının (özel sektör ve üniversite dâhil) toplam sayısı verilecektir. (örnek tablo)
 
 2012 Sayı Yüz Binde Uzman Hekim Pratisyen Hekim Asistan Hekim Toplam Hekim Diş Hekimi Eczacı Hemşire Ebe Diğer Sağlık Personeli Diğer Personel ve Hizmet Alımı 1.5.2. Mali Kaynaklar …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… …………………………………………………………………………………………………………… ……………………………… (örnek tablo)
 

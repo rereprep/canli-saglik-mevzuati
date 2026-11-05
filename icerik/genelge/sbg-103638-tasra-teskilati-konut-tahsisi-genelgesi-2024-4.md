@@ -11,7 +11,7 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Sağlık Bakanlığı taşra teşkilatı personelinin kamu konutlarından yararlanma, görev ve sıra tahsisi, komisyon teşkili ve dağıtım usul ve esasları"
-sayfa_kontrol: "103638.pdf s.1"
+kontrol_edildi: true
 ---
 
 9.3.2. Taşra Teşkilatı Konut Tahsisi Genelgesi (2024/4)
@@ -28,7 +28,7 @@ Konu : Taşra Teşkilatı Konut Tahsisi
 GENELGE
 2024/4
 
-10/7/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Kararnamesi ile Bakanlığımızın teşkilat yapısı yeniden düzenlenmiştir. Ayrıca; Yataklı Tedavi Kurumlarında görev yapan personele Yataklı Tedavi Kurumlarında bulunan konutların tahsisine izin veren ve bu alanda düzenlenen Bakan Oluru ile yürürlüğe giren 13.01.1983 tarihli ve 17927 sayılı Yataklı Tedavi Kurumları Konut Yönergesinin dayanağını oluşturan Memur Konutları Yönetmeliği yürürlükten kaldırıldığı için Bakanlığımız ve bağlı kuruluşların taşra teşkilatı personelinin (Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü hariç) 2946 sayılı Kamu Konutları Kanunu ve Kamu Konutları Yönetmeliğinde belirlenen usul ve esaslar doğrultusunda yararlanacağı kamu konutlarının tahsisi ve kullanımına ilişkin usul ve esasların aşağıdaki şekilde yeniden düzenlenmesine ihtiyaç duyulmuştur.
+10/7/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Kararnamesi ile Bakanlığımızın teşkilat yapısı yeniden düzenlenmiştir. Ayrıca; Yataklı Tedavi Kurumlarında görev yapan personele Yataklı Tedavi Kurumlarında bulunan konutların tahsisine izin veren ve bu alanda düzenlenen Bakan Oluru ile yürürlüğe giren 13.01.1983 tarihli ve 17297 sayılı Yataklı Tedavi Kurumları Konut Yönergesinin dayanağını oluşturan Memur Konutları Yönetmeliği yürürlükten kaldırıldığı için Bakanlığımız ve bağlı kuruluşların taşra teşkilatı personelinin (Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü hariç) 2946 sayılı Kamu Konutları Kanunu ve Kamu Konutları Yönetmeliğinde belirlenen usul ve esaslar doğrultusunda yararlanacağı kamu konutlarının tahsisi ve kullanımına ilişkin usul ve esasların aşağıdaki şekilde yeniden düzenlenmesine ihtiyaç duyulmuştur.
 
 1) Her ilde, İl Sağlık Müdürünün başkanlığında Destek Hizmetleri ve/veya Personel Hizmetleri Başkanlarından oluşacak Yetkili Konut Dağıtım Komisyonu kurulacaktır. Belirtilen unvanlarda Başkanlıklar ihdas edilmemiş ise komisyon üyesi İl Sağlık Müdürünce belirlenecektir. Asil üyelerden oluşacak komisyonun kurulmasına ilişkin usule göre İl Sağlık Müdürünün belirleyeceği personelin başkanlığında 3 (üç) kişiden müteşekkil yedek üyeler de tespit edilecektir. Komisyonun sekretarya görevi İl Sağlık Müdürlüğü Destek Hizmetleri ve/veya Personel Hizmetleri Başkanlığı tarafından yürütülecektir. 14/12/2010 tarihli ve 27785 sayılı Resmi Gazete'de yayımlanan 2010/26 sayılı Başbakanlık Genelgesinin ikinci maddesi doğrultusunda komisyona temsilci katılımı sağlanacaktır.
 
@@ -38,14 +38,14 @@ GENELGE
 
 4) Yetkili Konut Dağıtım Komisyonunca, görev tahsisli konutların dağıtımı ekli (Ek-1 sayılı) listeye göre yapılacaktır. Aynı unvanda birden fazla personelin talebi olması halinde, görev tahsisli konut, Kamu Konutları Yönetmeliğinin Ek-4 sayılı cetvelinde belirtilen puanlama neticesinde oluşacak puan sıralamasına göre tahsis edilecektir.
 
-5) İl ve ilçe merkezlerindeki sıra tahsisli konutlar, 657 sayılı Devlet Memurları Kanununun 36 ncı maddesinde sayılan hizmet sınıflarına göre aşağıdaki tabloda belirtilen oranlar esas alınarak Yetkili Konut Dağıtım Komisyonunca personele tahsis edilecektir. Her personele, kendi hizmet sınıfı için ayrılmış konutta, Kamu Konutları Yönetmeliğinin Ek-4 sayılı cetvelinde belirtilen puanlama neticesinde oluşacak puan sıralamasına göre tahsis işlemi yapılacaktır. Köy ve beldelerde bulunan konutlar öncelikle sağlık hizmetleri sınıfına ve yardımcı sağlık hizmetleri sınıfına tahsis edilecek olup boş konut kalması halinde ise aşağıdaki tabloda belirtilen oranlara uygun olarak aynı usule göre tahsis işlemi yapılacaktır. Boş konut kalması halinde, ilgili mevzuatına göre sözleşmeli aile hekimleri ile aile sağlığı elemanları da bu konutlardan yararlandırılabilecektir.
+5) İl ve ilçe merkezlerindeki sıra tahsisli konutlar, 657 sayılı Devlet Memurları Kanununun 36 ncı maddesinde sayılan hizmet sınıflarına göre aşağıdaki tabloda belirtilen oranlar esas alınarak Yetkili Konut Dağıtım Komisyonunca personele tahsis edilecektir. Her personele, kendi hizmet sınıfı için ayrılmış konutta, Kamu Konutları Yönetmeliğinin Ek-4 sayılı cetvelinde belirtilen puanlama neticesinde oluşacak puan sıralamasına göre tahsis işlemi yapılacaktır. Köy ve beldelerde bulunan konutlar öncelikle sağlık hizmetleri sınıfına ve yardımcı sağlık hizmetleri sınıfına tahsis edilecek olup boş konut kalması halinde ise aşağıdaki tabloda belirtilen oranlara uygun olarak aynı usule göre tahsis işlemi yapılacaktır. Boş konut kalması halinde, ilgili mevzuatına göre sözleşmeli aile hekimleri ile aile sağlığı elemanları da bu konutlardan faydalanabilmek için başvuru yapabilecektir.
 
 | Hizmet Sınıfları | İl Merkezleri Tahsis Oranı | İlçe Merkezleri Tahsis Oranı |
 |---|---|---|
 | a) Sağlık Hizmetleri Sınıfı | %20 | %20 |
-| b) Yardımcı Sağlık Hizmetleri | %50 | %50 |
+| b) Yardımcı Sağlık Hizmetleri | %60 | %60 |
 | c) Genel İdare ve Avukatlık Hizmetleri | %10 | %10 |
-| d) Teknik Hizmetler | %5 | %10 |
+| d) Teknik Hizmetler | %5 | [?] |
 | e) Yardımcı Hizmetler ve Din Hizmetleri | %15 | %10 |
 
 6) Tabloda hizmet sınıflarına göre tahsis oranları belirlenmiş olup tahsis oranlarında ihtiyaçlar çerçevesinde değişiklik Yönetim Hizmetleri Genel Müdürlüğünce yapılacaktır.
@@ -78,7 +78,7 @@ EK : Görev Tahsisli Unvan Listesi (1 sayfa)
 ---
 
 ### EK-1
-### SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI GÖREV TAHSİSLİ KAMU KONUTU VERİLECEKLERİN GÖREV UNVANLARI VE ÖNCELİK SIRASINI GÖSTEREN LİSTE
+### SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI, GÖREV TAHSİSLİ KAMU KONUTU VERİLECEKLERİN GÖREV UNVANLARI VE ÖNCELİK SIRASINI GÖSTEREN LİSTEDİR.
 
 **İl Merkezleri:**
 1- İl Sağlık Müdürü
@@ -92,9 +92,5 @@ EK : Görev Tahsisli Unvan Listesi (1 sayfa)
 
 **İlçe Merkezleri:**
 1- İlçe Sağlık Müdürü
-2- Başhekim
-3- Başhekim Yardımcısı
-4- Şube Müdürü
-5- Hastane Müdürü
-6- Hastane Müdür Yardımcısı
-7- TSM Sorumlu Hekimi
+2- Şube Müdürü
+3- TSM Sorumlu Hekimi

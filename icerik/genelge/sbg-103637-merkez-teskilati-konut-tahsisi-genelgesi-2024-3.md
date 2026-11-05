@@ -11,7 +11,7 @@ ocr: true
 duzeltildi: true
 konu: "Merkez teşkilatındaki kamu konutlarının türlerini, tahsis usulünü ve esaslarını belirler."
 tarih: "2024-03-08"
-sayfa_kontrol: "103637.pdf s.1"
+kontrol_edildi: true
 ---
 
 9.3.1. Merkez Teşkilatı Konut Tahsisi Genelgesi (2024/3)
@@ -42,7 +42,7 @@ c) a ve b bendinde belirtilen kadrolara ait görevleri vekâleten yürüten pers
 
 1- Bakanlık merkez teşkilatında, Yönetim Hizmetleri Genel Müdürünün veya görevlendireceği Genel Müdür Yardımcısının başkanlığında, Destek Hizmetleri Dairesi Başkanı ve İdari Hizmetler Dairesi Başkanlarından oluşacak Merkez Konut Tahsis Komisyonu kurulacaktır. Belirtilen unvanlarda Daire Başkanlıkları ihdas edilmemiş ise komisyon üyesi Yönetim Hizmetleri Genel Müdürünce belirlenecektir. Asil üyelerden oluşacak komisyonun kurulmasına ilişkin usule göre Yönetim Hizmetleri Genel Müdürünün belirleyeceği 3 (üç) kişiden müteşekkil yedek üyeler de tespit edilecektir. Komisyonun sekretarya görevi, Yönetim Hizmetleri Genel Müdürlüğü İdari Hizmetler Dairesi Başkanlığı tarafından yürütülecektir. Ayrıca Komisyona 14/12/2010 tarihli ve 27785 sayılı Resmî Gazete'de yayımlanan 2010/26 sayılı Başbakanlık Genelgesi doğrultusunda temsilci katılımı sağlanır.
 
-2- Kadrosu Bakanlık merkez teşkilatında olup görev tahsisli konutta oturmakta iken, 663 sayılı Kanun Hükmünde Kararnamenin 42 nci maddesi uyarınca İl Sağlık Müdürlükleri ve bağlı Sağlık Tesislerinde sözleşme imzalayarak sözleşmeli pozisyonda göreve başlayanlar oturdukları konutu boşaltmakla yükümlüdürler. Kadrosunun Merkez veya Taşra Teşkilatında olup olmadığına bakılmaksızın Bakanlık Merkez Teşkilatında fiilen görev yapan personel görevleri süresince konutlardan yararlanmaya devam eder.
+2- Kadrosu Bakanlık merkez teşkilatında olup görev tahsisli konutta oturmakta iken, 663 sayılı Kanun Hükmünde Kararnamenin 42. maddesi uyarınca İl Sağlık Müdürlükleri ve bağlı Sağlık Tesislerinde sözleşme imzalayarak sözleşmeli pozisyonda göreve başlayanlar oturdukları konutu boşaltmakla yükümlüdürler. Kadrosunun Merkez veya Taşra Teşkilatında olup olmadığına bakılmaksızın Bakanlık Merkez Teşkilatında fiilen görev yapan personel görevleri süresince konutlardan yararlanmaya devam eder.
 
 3- Konut talepleri, Kamu Konutları Yönetmeliğinde belirtilen Kamu Konutları Tahsis Talep Beyannamesi doldurularak her yıl 15 Kasım ile 15 Aralık tarihleri arasında Yönetim Hizmetleri Genel Müdürlüğü İdari Hizmetler Dairesi Başkanlığına yapılacaktır. Mezkûr talepler adı geçen Başkanlıkça toplandıktan sonra komisyona gönderilecektir. Ocak ayında Merkez Konut Tahsis Komisyonu, Kamu Konutları Yönetmeliğinin Ek-4 sayılı cetvelinde belirtilen usul ve esaslara uygun olarak yapacağı puanlama neticesinde oluşan puan sıralaması Yönetim Hizmetleri Genel Müdürlüğünün (https://yhgm.saglik.gov.tr) internet sayfasında ilan edilecektir. Bu puanlama listesi 1 (bir) yıl geçerli olacak şekilde işlem görecek olup belirtilen dönem içinde boşalan konut listede sırası gelen personele teklif edilecektir. Görev tahsisli konutlarda oturmaya hak kazanacak şekilde atanan personel hakkında ise görev tahsisli boş konut bulunması halinde yukarıdaki süreler beklenmeksizin Komisyonca tahsis işlemi yapılacaktır. Konut tahsis işlemleri tamamlandıktan sonra, konut değişikliği yapılmayacaktır.
 

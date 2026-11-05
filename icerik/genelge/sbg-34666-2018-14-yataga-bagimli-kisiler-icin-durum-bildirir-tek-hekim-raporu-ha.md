@@ -11,7 +11,7 @@ tarih: "2018-04-30"
 sayi: "2018/14"
 konu: "Seyyar sandık talebi için yatağa bağımlı seçmenlere aile hekimlerince e-Rapor sistemi üzerinden durum bildirir tek hekim sağlık raporu düzenlenmesini ister."
 duzeltildi: true
-sayfa_kontrol: "34666-ek3.pdf s.2, 34666-ek3.pdf s.3, 34666-ek3.pdf s.4, 34666-ek3.pdf s.5, 34666-ek3.pdf s.6, 34666-ek3.pdf s.7, 34666-ek3.pdf s.8, 34666-ek3.pdf s.10, 34666-ek3.pdf s.11, 34666-ek3.pdf s.12, 34666-ek3.pdf s.13"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
