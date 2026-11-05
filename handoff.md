@@ -37,6 +37,11 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Etkili ajan talimatı: her turda listedeki düzeltilmemiş ilk 5 dosyayı düzelt ve kaydet; bitince yeniden görevlendir.
 
 ## Bilinen eksikler / sonraki adımlar
+- 2026-11-06 durumu: Sayfa kontrolü (323 belge) ve genel OCR kontrolü (540 belge) TAMAMLANDI; tüm OCR'lı belgelerde kontrol_edildi: true var. Ajanlar birçok belgede uydurma giriş/madde/sayı buldu ve kaynaktaki metinle değiştirdi; okunamayan yerler [?].
+- Ajanlar zaman zaman künyedeki "id:" satırının ilk harfini siliyor ("d: ..."). Derleme öncesi ../.idkontrol.py ile kontrol et; site_uret.py artık id/tür yoksa dosya adından tamamlıyor.
+- İki site_uret.py aynı anda çalıştırılmamalı (_site klasörünü siliyor).
+- WorkBuddy (workbuddy-ai/hy3, hy4free) ajanları sık sık 429/502 verdi ve bazen "çalışıyor" görünüp takıldı; 20+ dk dosya değişmezse kapat ve işi luna/Gemini'ye ver.
+- mevzuat.gov.tr aktarımı tamamlandı (son tur 13 yeni metin; 66 kayıt mevzuat.gov.tr'de bulunamadı — bunlar Resmî Gazete ya da yalnızca künye olarak kaldı). Künyesi kalan kayıt: ~145.
 - ÖNEMLİ (2026-11-05): Bölüm başlığı yazılı olup gövdesi taranmış görüntü olan sayfalar (metin 80–600 karakter, büyük görüntü) OCR'dan kaçmıştı; bazı ajanlar bu kısımları UYDURMUŞTU (ör. 2025/6 Teftiş genelgesinde yanlış birim, sayı ve maddeler). 353 sayfa OCR'landı (ocr_toplu.py --sayfalar). Etkilenen 323 belgenin künyesinde `sayfa_kontrol` alanı var; ham OCR'ları kaynak-isleme/ocr-ek/<id>.txt. Ajanlar bu sayfaları görüntüyle karşılaştırıp düzeltiyor; bitince sayfa_kontrol silinip kontrol_edildi eklenir. kitaptan_cikar artık metni <600 karakter olan sayfalarda OCR varsa onu kullanıyor.
 - Ajan talimatlarında "eksik kısmı tamamla" denirken mutlaka "yalnızca görüntüde gördüğünü yaz, tahmin etme" vurgulanmalı.
 - 2026-11-05 akşam durumu:
