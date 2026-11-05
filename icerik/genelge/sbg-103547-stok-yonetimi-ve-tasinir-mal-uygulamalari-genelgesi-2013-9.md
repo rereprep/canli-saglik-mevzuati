@@ -2,6 +2,7 @@
 id: "sbg-103547-stok-yonetimi-ve-tasinir-mal-uygulamalari-genelgesi-2013-9"
 baslik: "Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9)"
 tur: "genelge"
+tarih: "2013-07-01"
 sayi: "2013/9"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
@@ -10,9 +11,41 @@ durum: "yürürlükte"
 konu: "Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 7.3.11. Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9)
+
+T.C.
+SAĞLIK BAKANLIĞI
+TÜRKİYE KAMU HASTANELERİ KURUMU
+TKHK - TKHK HUKUK MÜŞAVİRLİĞİ
+01.07.2013 - 16:54:56 - 89432283/641/6156
+01586109
+
+Sayı : 80981279-010.06/
+Konu : Stok Yönetimi ve Taşınır Mal Uygulamaları
+
+........ VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
+.. KAMU HASTANELERİ BİRLİĞİNE
+(Genel Sekreterlik)
+
+GENELGE 2013/9
+
+Bakanlığımızın yürütmekte olduğu Sağlıkta Dönüşüm Programı ile halkımıza daha iyi bir sağlık hizmeti sunumu amaçlanmış olup bu amaca yönelik çalışmalar kesintisiz olarak devam etmektedir. Sağlık hizmeti sunumunun sağlanmasında ihtiyaç duyulan kaynakların yeterince ve zamanında karşılanması, yüksek maliyetli sağlık hizmeti girdilerine karşılık, kıt kaynakların ekonomik, etkin ve verimli kullanılması hayati önemi haizdir.
+
+Bu doğrultuda Bakanlığımızca 2009 yılından bu yana yayımlanan genelgeler ile stok yönetimi ve taşınır mal uygulamalarına yönelik bir takım düzenlemeler yapılarak, Bakanlığımıza bağlı kurum ve kuruluşlarda "Azami Stok Miktarı Uygulaması" başlatılmış ve stok fazlası ve ihtiyaç fazlası ürünlerin ihtiyacı olan kurumlara devredilmesi zorunlu hale getirilmiştir.
+
+Diğer taraftan 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname doğrultusunda devam eden süreçte Kamu Hastaneleri Birlikleri (bundan sonra Birlik olarak ifade edilecektir) kurularak faaliyetlerine başlamışlardır. Bu doğrultuda daha önce yayımlanan Genelgeler ile başlatılan uygulamaların Bakanlık Teşkilatının yeni yetki ve görev dağılımları ve yürürlüğe konulan yeni mevzuat çerçevesinde Birlik ölçeğinde yorumlanması ve işbu genelge ile yeniden düzenlenmesi ihtiyacı doğmuştur.
+
+1-STOK YÖNETİMİ UYGULAMALARI
+
+1.1. Stok Kontrol Süreci ile İlgili Kavramlar
+
+Kamu Hastaneleri Birliklerinde, stok yönetiminin bir bileşeni olan stok kontrol süreci çerçevesinde uygulama birliğini sağlamak ve terim karmaşasını engellemek adına bazı kavramlara aşağıda yer verilmiştir.
+
+Birlik Stok Havuzu: Birliğe bağlı sağlık tesislerinin ambarlarında bulunan ve gerekli hallerde ortak kullanıma sunulan İlaç, Tıbbi Sarf, Kırtasiye, Tıbbi Cihaz, Demirbaş vb. mal ve malzemeler birlik stok havuzu olarak değerlendirilecektir. Birliğe bağlı sağlık tesisleri arasında ayrım olmaksızın bu mal ve malzemeler (öncelikle acil ihtiyaç ve kapasite fazlası durumlarında olmak üzere) ortak kullanılacaktır. Birlik Stok Havuzunun yönetimi, dağılımı ve kullanımı, ilgili mevzuat ve bu genelge hükümlerine aykırı olmamak üzere, kaynak israfına yol açmadan Genel Sekreterlikçe belirlenecektir.
 
 Fiili Stok Düzeyi: Stok yönetim performansı değerlendirilmek istenen Birlik, birliğe bağlı herhangi bir sağlık tesisi veya sağlık tesisinin herhangi bir ambarında (Or: A Sağlık Tesisi İlaç Ambarı gibi) bulunan fiili stok miktarını gün cinsinden gösteren değerdir. İncelemenin yapıldığı andaki fiili stok tutarının, günlük ortalama tüketim tutarına bölümü ile hesaplanır.
 
