@@ -2,30 +2,25 @@
 id: "sbg-105145-saglik-bakanligi-ve-bagli-kuruluslari-imza-yetkileri-yonergesi-2024"
 baslik: "Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi 2024"
 tur: "yonerge"
+tarih: "2024-07-16"
 birim: "Hukuk Hizmetleri Genel Müdürlüğü"
+konu: "Sağlık Bakanlığı ve bağlı kuruluşlarında imzaya yetkili makamları ve imza yetkilerinin kullanılmasına ilişkin ilke ve usulleri belirler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-105145/saglik-bakanligi-ve-bagli-kuruluslari-imza-yetkileri-yonergesi-2024.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## HUKUK HİZMETLERİ GENEL MUDURLUGÜ BIRİM EVRAKI HUKUK HIZMETLERI GENEL MUDURLUGU
+T.C.
+SAĞLIK BAKANLIĞI
+Hukuk Hizmetleri Genel Müdürlüğü
 
-17/07/2024. 15:37:10 - E-80207860-010 04-248002608
+Sayı: E-11045126-010.04-
 
-T.C
+Konu: Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi
 
-### SAGLIK BAKANLIĞI
-
-Hukuk Hizmetleri Genel Müdürlüğü 248902606
-
-### IUKUK HIZMETLERİ GENEL MÜDURLUGU GİDEN EVRAK SERVISI
-
-Sayı : E-11045126-010.04- Konu : Sağlık Bakanlığı ve Bağlı Kuruluşları
-
-Imza Yetkileri Yönergesi
-
-### BAKANLIK MAKAMINA
+BAKANLIK MAKAMINA
 
 Bakanlığımız ve bağlı kuruluşlarında, imzaya yetkili makamları belirlemek, verilen yetkileri belli ilke ve usullere bağlamak, alt kademelere yetki tanıyarak sorumluluk duygusunu geliştirmek, üst makamlara politika belirleme ve önemli konularda daha sağlıklı karar almak için zaman kazandırmak, bürokratik işlemleri kısaltarak hizmetlerde sürat ve verimliliği artırmak maksadıyla hazırlanan ekli "Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi"nin yürürlüğe konulmasını tensiplerine arz ederim.
 
@@ -39,31 +34,43 @@ Uygun görüşle arz ederim.
 
 Hüseyin Kürşat KIRBIYIK
 
-Bakan YardımcıSı
+Bakan Yardımcısı
 
-### OLUR
+OLUR
 
 16/7/2024
 
-Prof. Dr. Kemal MEMIŞOĞLU
+Prof. Dr. Kemal MEMİŞOĞLU
+
+Bakan
 
 Ek: Yönerge (7 sayfa)
 
 ### SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARI İMZA YETKİLERİ YÖNERGESİ
 
-## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+## BİRİNCİ BÖLÜM
 
-**MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığı ve bağlı kuruluşlarında, imzaya yetkili makamları belirlemek, verilen yetkileri belli ilke ve usullere bağlamak, alt kademelere yetki tanıyarak sorumluluk duygusunu geliştirmek, üst makamlara politika belirleme ve önemli konularda daha sağlıklı karar almak için zaman kazandırmak, bürokratik işlemleri kısaltarak hizmetlerde sürat ve verimliliği artırmaktır. Kapsam
+### Amaç, Kapsam, Dayanak ve Tanımlar
 
-**MADDE 2 –** (1) Bu Yönerge; Bakan, Bakan Yardımcıları, Bakanlık merkez teşkilatındaki hizmet birimleri ve bağlı kuruluşların en üst yöneticileri ile daha alt kademedeki görevlilerin, Bakanlığın hizmet ve faaliyetlerine ait imza yetkilerini ve bu yetkilerin tam ve etkili olarak kullanılmasına ilişkin ilke ve usulleri kapsar. Dayanak
+#### Amaç
 
-**MADDE 3 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 506 ncı ve 508 inci maddelerine dayanılarak hazırlanmıştır. Tanımlar
+**MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığı ve bağlı kuruluşlarında, imzaya yetkili makamları belirlemek, verilen yetkileri belli ilke ve usullere bağlamak, alt kademelere yetki tanıyarak sorumluluk duygusunu geliştirmek, üst makamlara politika belirleme ve önemli konularda daha sağlıklı karar almak için zaman kazandırmak, bürokratik işlemleri kısaltarak hizmetlerde sürat ve verimliliği artırmaktır.
+
+#### Kapsam
+
+**MADDE 2 –** (1) Bu Yönerge; Bakan, Bakan Yardımcıları, Bakanlık merkez teşkilatındaki hizmet birimleri ve bağlı kuruluşların en üst yöneticileri ile daha alt kademedeki görevlilerin, Bakanlığın hizmet ve faaliyetlerine ait imza yetkilerini ve bu yetkilerin tam ve etkili olarak kullanılmasına ilişkin ilke ve usulleri kapsar.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 506 ncı ve 508 inci maddelerine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) Bağlı kuruluş: 15/7/2018 tarihli ve 4 sayılı Bakanlıklara Bağlı, Ilgili, Ilişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi uyarınca teşkil edilen Türkiye Ilaç ve Tıbbi Cihaz Kurumu ile Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü,
+b) Bağlı kuruluş: 15/7/2018 tarihli ve 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi uyarınca teşkil edilen Türkiye İlaç ve Tıbbi Cihaz Kurumu ile Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü,
 
 c) Bakan: Sağlık Bakanını,
 
@@ -71,11 +78,15 @@ c) Bakan: Sağlık Bakanını,
 
 d) Birim amiri: Bakanlık merkez teşkilatındaki hizmet birimlerinin en üst yöneticilerini,
 
-e) Bağlı kuruluş amiri: Bağlı kuruluşların en üst yöneticilerini, ifade eder.
+e) Bağlı kuruluş amiri: Bağlı kuruluşların en üst yöneticilerini,
 
-## İKİNCİ BÖLÜM Genel Hükümler
+ifade eder.
 
-#### Imza atma yetkisi verilenler
+## İKİNCİ BÖLÜM
+
+### Genel Hükümler
+
+#### İmza atma yetkisi verilenler
 
 **MADDE 5 –** (1) Bu Yönerge ile tespit edilen imza atmaya yetkili makamlar aşağıda gösterilmiştir.
 
@@ -87,25 +98,27 @@ c) Birim amiri
 
 ç) Birim amirinin yetki devrettiği astlar
 
-#### d) Bağlı kuruluş amirinin yetki devrettiği astlar. Ilke ve usuller
+d) Bağlı kuruluş amirinin yetki devrettiği astlar.
+
+#### İlke ve usuller
 
 **MADDE 6 –** (1) Bu Yönerge ile devredilen imza yetkisinin kullanılmasında aşağıdaki hususlara riayet edilecektir.
 
-a) Imza yetkilerinin; sorumluluk anlayışı içerisinde, zamanında, tam, doğru ve dengeli olarak kullanılması esastır.
+a) İmza yetkilerinin; sorumluluk anlayışı içerisinde, zamanında, tam, doğru ve dengeli olarak kullanılması esastır.
 
-b) Imza yetkisinin kullanılmasında, hitap edilen makam ile konunun kapsam ve önemi dikkate alınır.
+b) İmza yetkisinin kullanılmasında, hitap edilen makam ile konunun kapsam ve önemi dikkate alınır.
 
 c) Devredilmiş yetkilerle ilgili üst makamların bilme hakkı saklıdır. Bakan birimlerin tamamı, bakan yardımcısı bağlı birimleri, birim amirleri kendi birimleri, bağlı kuruluş amirleri ise bağlı kuruluş açısından ilgili bilme hakkını kullanır. İmza yetkisi verilenler, yetki alanlarına giren konularla ilgili prensip kararı niteliği taşıyan ve Bakanlık politikasını ilgilendiren hususlar ile önemli gördükleri konu ve işlerde imzadan önce veya işlem safhasında üst makamlara -varsa alternatif önerilerle birlikte- bilgi sunacak ve bu makamların talimatlarına göre hareket edeceklerdir.
 
-ç) Imza yetkisinin devrinde, Bakanın her konuda havale, imza ve onay yetkisi saklıdır.
+ç) İmza yetkisinin devrinde, Bakanın her konuda havale, imza ve onay yetkisi saklıdır.
 
-d) Imzaya yetkili kişinin izin, hastalık, görev gibi nedenlerle bulunmadığı hallerde vekıli imza yetkisini kullanır. Yapılan iş ve işlemlerle ilgili imzaya yetkili kişiye bilahare bilgi verilir.
+d) İmzaya yetkili kişinin izin, hastalık, görev gibi nedenlerle bulunmadığı hallerde vekili imza yetkisini kullanır. Yapılan iş ve işlemlerle ilgili imzaya yetkili kişiye bilahare bilgi verilir.
 
 e) Bakan tarafından devredilen imza yetkisi kullanılırken yazışmalarda, "Bakan a." ibaresi kullanılır.
 
 f) Bakanlık hizmet birimleri ve bağlı kuruluşlar arasındaki yazışmalarda "Bakan a." "Kurum Başkanı/Genel Müdür a.", "Genel Müdür Yardımcısı a." gibi ifadeler kullanılmaz. Ancak Bakan Yardımcısının imzalayacağı bu tür yazışmalarda, "Bakan a." ibaresi kullanılır.
 
-g) Iç yönerge ile kendilerine imza yetkileri devredilen yetkililer, "Bakan a." ibaresini Bakanlık dışı kurumlarla ve kişilerle yapılan yazışmalarda kullanırlar. Bu maddenin birinci fikrasının (d) bendinde belirtilen usul, iç yönerge ile kendilerine imza yetkileri devredilen yetkililer için de geçerlidir.
+g) İç yönerge ile kendilerine imza yetkileri devredilen yetkililer, "Bakan a." ibaresini Bakanlık dışı kurumlarla ve kişilerle yapılan yazışmalarda kullanırlar. Bu maddenin birinci fıkrasının (d) bendinde belirtilen usul, iç yönerge ile kendilerine imza yetkileri devredilen yetkililer için de geçerlidir.
 
 ğ) Avukatların nakil ve görevlendirmelerinde Hukuk Hizmetleri Genel Müdürlüğünün teklifi veya uygun görüşü alınır.
 
@@ -115,11 +128,11 @@ h) Birden fazla birimi ilgilendiren veya diğer birimlerin görüşünün alınm
 
 i) Yazıların ilgili birimce hazırlanması ve yayımlanması esastır. Ancak acele hallerde, Özel Kalem Müdürlüğünce hazırlanan yazıların bir örneği bilgi veya gereği için ilgili birimine gönderilir.
 
-j) Bakana ve Bakan Yardımcısına bilgi vermeyi ve açıklama yapmayı gerektiren yazılar birim amirleri veya görevlendireceği personel tarafından Bakan veya Bakan Yardımcısının imzasına sunulur. Imzaya yetkili diğer makam sahiplerinin imzasına sunulacak yazılar için de gerektiğinde kendilerine bilgi verilir ve açıklama yapılır.
+j) Bakana ve Bakan Yardımcısına bilgi vermeyi ve açıklama yapmayı gerektiren yazılar birim amirleri veya görevlendireceği personel tarafından Bakan veya Bakan Yardımcısının imzasına sunulur. İmzaya yetkili diğer makam sahiplerinin imzasına sunulacak yazılar için de gerektiğinde kendilerine bilgi verilir ve açıklama yapılır.
 
 k) Yazılar, varsa ekleri ve ilgisiyle birlikte elektronik ortamda imzaya gönderilir.
 
-1) Bakanlık dışı yazışmalarda karşılıklılık ilkesi esas olup imza yetkisinin kullanımı sırasında makamların astlık-üstlük durumları gözetilir.
+l) Bakanlık dışı yazışmalarda karşılıklılık ilkesi esas olup imza yetkisinin kullanımı sırasında makamların astlık-üstlük durumları gözetilir.
 
 m) Birimlerin Bakanlık Hukuk Hizmetleri Genel Müdürlüğünden görüş talep edilebilmesi için meselenin öncelikle varsa hukuk birimlerince değerlendirilmesi ve görüş isteme yazısının doğrudan birim amiri tarafından imzalanması şart olup bu yetki alt kademelere devredilemez.
 
@@ -127,7 +140,7 @@ n) Her türlü ihale iş ve işlemlerinin tesisi ile sözleşmelerin imzalanmas�
 
 o) Bir belgeyi sadece görev ve sorumlulukları gereği öğrenmekle, incelemekle, gereğini yerine getirmekle ve korumakla sorumlu bulunanların yetkileri düzeyinde bilgi sahibi olması ve nüfuz etmesi esastır.
 
-(2) Bu Yönergede Bakan onayı ile yapılacak değişikliklere dair iş ve işlemler Hukuk Hizmetleri Genel Müdürlüğü tarafindan koordine edilir.
+(2) Bu Yönergede Bakan onayı ile yapılacak değişikliklere dair iş ve işlemler Hukuk Hizmetleri Genel Müdürlüğü tarafından koordine edilir.
 
 (3) Bu Yönergeyle devredilen herhangi bir imza yetkisinin yeniden düzenlenmesi ancak bu Yönergede değişiklik yapılması ile mümkündür.
 
@@ -139,9 +152,11 @@ o) Bir belgeyi sadece görev ve sorumlulukları gereği öğrenmekle, incelemekl
 
 (3) Resmi evraklarda paraf ve imzası bulunan her kademedeki memur ve amirler attıkları paraf ve imzadan görev ve yetkileri çerçevesinde sorumludur.
 
-(4) Yazışmalar; konuların önemi, amacı, kapsamı, etkililiği ve gerekliliğine göre değerlendirilerek süreleri içerisinde geciktirilmeden sonuçlandırılır. Imzalanan veya onaylanan evrakın önemi ve özelliği dikkate alınarak gönderildiği yere ulaşıp ulaşmadığı ve işlemlerin sonucu takip edilir.
+(4) Yazışmalar; konuların önemi, amacı, kapsamı, etkililiği ve gerekliliğine göre değerlendirilerek süreleri içerisinde geciktirilmeden sonuçlandırılır. İmzalanan veya onaylanan evrakın önemi ve özelliği dikkate alınarak gönderildiği yere ulaşıp ulaşmadığı ve işlemlerin sonucu takip edilir.
 
-## ÜÇÜNCÜ BÖLÜM Imza Yetkileri
+## ÜÇÜNCÜ BÖLÜM
+
+### İmza Yetkileri
 
 #### Bakanın yetkili olduğu işlemler
 
@@ -157,7 +172,9 @@ c) Cumhurbaşkanı ve Cumhurbaşkanı Yardımcısının onayını gerektiren iş
 
 d) Türkiye Büyük Millet Meclisi Başkanlığına, Türkiye Büyük Millet Meclisi Komisyon Başkanlıklarına ve Türkiye Büyük Millet Meclisi üyelerine yazılan yazılar,
 
-e) Bağlı kuruluşlar dahil yeni kadro talepleriyle ilgili olarak Cumhurbaşkanlığına yazılan yazılar ) Bakanlık hizmet birimleri tarafından hazırlanan düzenleyici ve direktif niteliğindeki genelgeler,
+e) Bağlı kuruluşlar dahil yeni kadro talepleriyle ilgili olarak Cumhurbaşkanlığına yazılan yazılar,
+
+f) Bakanlık hizmet birimleri tarafından hazırlanan düzenleyici ve direktif niteliğindeki genelgeler,
 
 g) Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatında Teftiş Kurulu Başkanlığı tarafından yapılacak soruşturma emirleri, bu soruşturmalar için müfettiş görevlendirmeleri, denetim faaliyetlerine ilişkin tüm raporların muameleye konulma onayları, yıllık genel denetim, genel teftiş ve düzenlilik denetimi programları,
 
@@ -165,29 +182,33 @@ g) Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatında Teftiş K
 
 h) Bakanlık tarafından oluşturulmuş olan ve başkanlığı Bakan Yardımcısı tarafından yürütülen kurulların Bakan onayını gerektiren kararları,
 
-1) Birim amirleri ile ilgili soruşturmalara ilişkin onaylar,
+ı) Birim amirleri ile ilgili soruşturmalara ilişkin onaylar,
 
-1) Tıpta, diş hekimliğinde ve eczacılıkta uzmanlık mevzuatı uyarınca düzenlenen uzmanlık belgeleri,
+i) Tıpta, diş hekimliğinde ve eczacılıkta uzmanlık mevzuatı uyarınca düzenlenen uzmanlık belgeleri,
 
 j) Daire başkanı, basın ve halkla ilişkiler müşaviri, hukuk müşaviri, müfettiş yardımcısı, iç denetçi ve özel kalem müdürü kadrolarına yapılacak atama onayları,
 
-k) 11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 42 nci maddesine göre; il sağlık müdürü, başkan, eğitim ve araştırma hastanesi ile şehir hastanesi başhekimi (koordinatör başhekim dahil) pozisyonu için yapılacak sözleşmeler ve görevlendırme onayları,
+k) 11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 42 nci maddesine göre; il sağlık müdürü, başkan, eğitim ve araştırma hastanesi ile şehir hastanesi başhekimi (koordinatör başhekim dahil) pozisyonu için yapılacak sözleşmeler ve görevlendirme onayları,
 
-1) 10/7/2018 tarihli ve 3 sayılı Ust Kademe Kamu Yöneticileri ile Kamu Kurum ve Kuruluşlarında Atama Usullerine Dair Cumhurbaşkanlığı Kararnamesi kapsamında atananlar ile daire başkanı, basın ve halkla ilişkiler müşaviri, hukuk müşaviri, özel kalem müdürü, il sağlık müdürü, başkan, eğitim ve araştırma hastanesi ve şehir hastanesi başhekimi (koordinatör başhekim dahil) kadro ve pozisyonları için yıllık izin, sağlık izni gibi geçici sebeplerle meydana gelen boşalmalar hâriç vekâleten atama veya görevlendirme onayları,
+l) 10/7/2018 tarihli ve 3 sayılı Üst Kademe Kamu Yöneticileri ile Kamu Kurum ve Kuruluşlarında Atama Usullerine Dair Cumhurbaşkanlığı Kararnamesi kapsamında atananlar ile daire başkanı, basın ve halkla ilişkiler müşaviri, hukuk müşaviri, özel kalem müdürü, il sağlık müdürü, başkan, eğitim ve araştırma hastanesi ve şehir hastanesi başhekimi (koordinatör başhekim dahil) kadro ve pozisyonları için yıllık izin, sağlık izni gibi geçici sebeplerle meydana gelen boşalmalar hâriç vekâleten atama veya görevlendirme onayları,
 
 m) Bakanlık ve bağlı kuruluş merkez ve taşra teşkilatı personeline 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 122 nci maddesi uyarınca başarı belgesi, üstün başarı belgesi ve ödül verilmesine yönelik onaylar,
 
 n) Bakanlık ve bağlı kuruluşlarının, ilgili kurumlara yazılacak yeni kadro ihdasına yönelik teklif yazıları,
 
-o) Bakanlık personelinin yurtdışı görevlendirılmesıne ilışkın onaylar,
+o) Bakanlık personelinin yurtdışı görevlendirilmesine ilişkin onaylar,
 
-ö) 3 sayılı Ust Kademe Kamu Yöneticileri ile Kamu Kurum ve Kuruluşlarında Atama Usullerine Dair Cumhurbaşkanlığı Kararnamesi kapsamında atanan personelin başka kurumlara nakilleri için muvafakat onayları,
+ö) 3 sayılı Üst Kademe Kamu Yöneticileri ile Kamu Kurum ve Kuruluşlarında Atama Usullerine Dair Cumhurbaşkanlığı Kararnamesi kapsamında atanan personelin başka kurumlara nakilleri için muvafakat onayları,
 
 p) Birim amirlerinin istifa yoluyla görevden ayrılma isteklerine ilişkin onaylar,
 
 r) İlgili mevzuatı uyarınca Bakan onayını gerektiren iş ve işlemler,
 
-s) Mevzuat gereği bizzat Bakan tarafından imzalanması öngörülen diğer yazılar ile Bakanın bizzat imzalamayı uygun gördüğü yazılar, Bakan tarafından imzalanır veya onaylanır. Bakan Yardımcısının yetkili olduğu işlemler
+s) Mevzuat gereği bizzat Bakan tarafından imzalanması öngörülen diğer yazılar ile Bakanın bizzat imzalamayı uygun gördüğü yazılar,
+
+Bakan tarafından imzalanır veya onaylanır.
+
+#### Bakan Yardımcısının yetkili olduğu işlemler
 
 **MADDE 9 –** (1) Bakanlık ve bağlı kuruluşlar tarafından tesis edilecek iş ve işlemlerden;
 
@@ -207,11 +228,11 @@ f) Bakanlık hizmet birimleri ve taşra teşkilatı birimlerinin bütçe kullan�
 
 g) 21/2/2013 tarihli ve 6428 sayılı Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun kapsamında alınan onaylar,
 
-ğ) Bakanlık ve bağlı kuruluş merkez ve taşra teşkilatı tarafından yürütülen ihale iş ve işlemleri ile ilgili olarak 8/9/1983 tarihli ve 2886 sayılı Devlet Ihale Kanunu, 4/1/2002 tarihli ve 4734 sayılı Kamu Ihale Kanunu ve 5/1/2002 tarihli ve 4735 sayılı Kamu Ihale Sözleşmeleri Kanunu uyarınca verilecek kamu ihalelerinden yasaklama kararlarına ilişkin onaylar,
+ğ) Bakanlık ve bağlı kuruluş merkez ve taşra teşkilatı tarafından yürütülen ihale iş ve işlemleri ile ilgili olarak 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ve 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu uyarınca verilecek kamu ihalelerinden yasaklama kararlarına ilişkin onaylar,
 
 h) Üniversitelere ait sağlık kuruluşları ile özel sağlık kuruluşlarının açılış, izin ve ruhsatları ile kadro tahsisi onayları,
 
-1) Sağlık hizmeti ücret tarifelerine ait onaylar,
+ı) Sağlık hizmeti ücret tarifelerine ait onaylar,
 
 i) Bağlı kuruluşlar hariç yan ödeme ve özel hizmet tazminatları ile ilgili listelerin onayı,
 
@@ -219,7 +240,7 @@ j) Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatı birimlerinin
 
 k) Birden fazla birim temsilcisinin katılımıyla oluşturulan ve başkanlığı birim amirleri tarafından ifa edilen komisyonların, kurulların ve jürilerin teşkiline ait onaylar,
 
-1) Merkez teşkilatı birimlerine yer tahsisi veya tahsis değişikliği onayları,
+l) Merkez teşkilatı birimlerine yer tahsisi veya tahsis değişikliği onayları,
 
 m) Mülkiyeti hazine, kamu kurum ve kuruluşlarına ait olup Bakanlığımıza tahsisli olan taşınmazlar ile, özel mülkiyette olup meri imar planlarında sağlık alanı olarak ayrılan taşınmazların; tahsis, devir, kamulaştırma, imar planı değişikliği gibi hususlarda iletilen taleplerin değerlendirilmesine ilişkin yazı ve onaylar,
 
@@ -239,7 +260,7 @@ s) Bakan Yardımcısı imzasıyla gelen yazılara verilen cevaplar,
 
 t) Üniversiteler ile imzalanacak birlikte kullanım protokollerine uygunluk görüşleri,
 
-u) Ilçe sağlık müdürü, eğitim ve araştırma hastanesi ile şehir hastanesi başhekimleri dışındaki diğer başhekim pozisyonlarına ilişkin sözleşme ve görevlendirme onayları,
+u) İlçe sağlık müdürü, eğitim ve araştırma hastanesi ile şehir hastanesi başhekimleri dışındaki diğer başhekim pozisyonlarına ilişkin sözleşme ve görevlendirme onayları,
 
 ü) Sağlık uzmanı, avrupa birliği uzmanı, mali hizmetler uzmanı, eğitim görevlisi, başasistan kadrolarına yapılacak atama ve görevlendirme onayları,
 
@@ -253,7 +274,13 @@ aa) 657 sayılı Devlet Memurları Kanunu kapsamında bilgilerini arttırmak üz
 
 bb) 26/3/2013 tarihli ve 28599 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinde tanımlanan stratejik personel için (Bakanlık ile bağlı kuruluş merkez ve taşra teşkilatı personeli) başka kurumlara nakilleri için muvafakat yazıları,
 
-cc) Genel kadro değişikliklerine yönelik teklif yazıları, ÇÇ) Önemi sebebiyle Bakan Yardımcısı tarafından imzalanması alt makamlarca önerilip kabul gören yazılar, ilgili Bakan Yardımcısı tarafından imzalanır veya onaylanır. Birim amirinin yetkili olduğu işlemler
+cc) Genel kadro değişikliklerine yönelik teklif yazıları,
+
+çç) Önemi sebebiyle Bakan Yardımcısı tarafından imzalanması alt makamlarca önerilip kabul gören yazılar,
+
+ilgili Bakan Yardımcısı tarafından imzalanır veya onaylanır.
+
+#### Birim amirinin yetkili olduğu işlemler
 
 **MADDE 10 –** (1) Aşağıda belirtilen işlemlerden;
 
@@ -271,7 +298,7 @@ e) Hizmet içi eğitim, kurs, komisyon, toplantı ve benzeri etkinliklere katıl
 
 f) Üst makamlar tarafından imzalanarak yahut da onaylanarak neticelendirilmiş bulunan işlemlerin ilgililerine tebliği işlemleri,
 
-g) Ilgili mevzuatı uyarınca tesis edilmeleri mümkün bulunmayan işlem taleplerine verilecek menfi cevap yazıları,
+g) İlgili mevzuatı uyarınca tesis edilmeleri mümkün bulunmayan işlem taleplerine verilecek menfi cevap yazıları,
 
 ğ) Bakanlıklara yazılan bilgi amaçlı yazılar,
 
@@ -279,7 +306,7 @@ h) Bakan, Bakan Yardımcıları tarafından onaylanmış kararların uygulanmas�
 
 ı) Birimler arası bilgi alıp vermeyi öngören yazılar,
 
-1) Birimler arası bilgi alıp vermeyi öngören yazılar,
+ı) Birimler arası bilgi alıp vermeyi öngören yazılar,
 
 i) Birim amirinin imzası ile gelen yazılara verilecek cevabi yazılar,
 
@@ -287,9 +314,11 @@ j) Bakan ve Bakan Yardımcısına bilgi vermeyi gerektirir nitelikteki önemli y
 
 k) Dava ve icra dosyalarına ilişkin yapılacak savunma ve itirazların dayanağı maddi olayları ve birim görüşlerini içeren Hukuk Hizmetleri Genel Müdürlüğünü muhatap yazılar,
 
-1) Mahkemelerden ve Cumhuriyet başsavcılıklarından gönderilen ara kararları ve müzekkerelere verilecek cevap yazıları,
+l) Mahkemelerden ve Cumhuriyet başsavcılıklarından gönderilen ara kararları ve müzekkerelere verilecek cevap yazıları,
 
-m) Bakan ve Bakan Yardımcısının, birim amirleri tarafından imzalanmasını uygun gördüğü dıger yazılar, birim amirleri tarafından imzalanır.
+m) Bakan ve Bakan Yardımcısının, birim amirleri tarafından imzalanmasını uygun gördüğü diğer yazılar,
+
+birim amirleri tarafından imzalanır.
 
 (2) Aşağıda belirtilen işlemlerden;
 
@@ -307,54 +336,74 @@ b) Yönetim Hizmetleri Genel Müdürünce;
 
 3) Bakanlık merkez teşkilatı personelinin kurum kimlikleri,
 
-4) Işçi alımı ve iş sözleşmesi feshi onayları,
+4) İşçi alımı ve iş sözleşmesi feshi onayları,
 
 5) Resmi mühür ve soğuk damga basılmasına dair onaylar,
 
-6) Disiplin cezalarının bir süre sonra özlük dosyasında silinmesi işlemleri, Bağlı kuruluş amirinin yetkili olduğu işlemler
+6) Disiplin cezalarının bir süre sonra özlük dosyasında silinmesi işlemleri,
+
+imzalanır.
+
+#### Bağlı kuruluş amirinin yetkili olduğu işlemler
 
 **MADDE 11 –** (1) Aşağıda belirtilen işlemlerden;
 
 a) Bağlı kuruluşların görev ve yetkilerine ilişkin iş ve işlemlerden, bu Yönerge ile Bakan ve Bakan Yardımcısının imza yetkisine bırakılmış olanlar dışındaki tüm işlemler,
 
-b) Bağlı kuruluş kadrolarındaki personelin yan ödeme ve özel hizmet tazminatları ile ilgili
+b) Bağlı kuruluş kadrolarındaki personelin yan ödeme ve özel hizmet tazminatları ile ilgili listeler,
 
 c) Bağlı kuruluş personelinin askere celp ve sevklerinin ertelenmesine ilişkin Milli Savunma Bakanlığına yapılacak teklif yazıları,
 
-ç) Yapılacak denetim, inceleme ve soruşturma emirleri, yıllık genel denetim, düzenlilik ve performans denetimi programları ile tüm raporların muameleye konulma onayları, bağlı kuruluş amiri tarafından imzalanacaktır.
+ç) Yapılacak denetim, inceleme ve soruşturma emirleri, yıllık genel denetim, düzenlilik ve performans denetimi programları ile tüm raporların muameleye konulma onayları,
 
-(2) 4 sayılı Cumhurbaşkanlığı Kararnamesinin 506 ncı maddesinde sayılan hususlarda yürütülecek teftiş hizmetlerinin, ilgili alanda düzenleme ve denetleme yetkisi bulunan Türkiye Ilaç ve Tıbbi Cihaz Kurumu tarafından yürütülmesi esas olmakla birlikte Bakanlığın bağlı kuruluşlar üzerindeki teftiş yetkisi saklıdır. Iç yönerge
+bağlı kuruluş amiri tarafından imzalanacaktır.
 
-**MADDE 12 –** (1) Birimler ve bağlı kuruluşlar, bu Yönergenin yürürlüğe girdıği tarihten itibaren on beş gün içerisinde iç yönergelerini hazırlar.
+(2) 4 sayılı Cumhurbaşkanlığı Kararnamesinin 506 ncı maddesinde sayılan hususlarda yürütülecek teftiş hizmetlerinin, ilgili alanda düzenleme ve denetleme yetkisi bulunan Türkiye İlaç ve Tıbbi Cihaz Kurumu tarafından yürütülmesi esas olmakla birlikte Bakanlığın bağlı kuruluşlar üzerindeki teftiş yetkisi saklıdır.
+
+#### İç yönerge
+
+**MADDE 12 –** (1) Birimler ve bağlı kuruluşlar, bu Yönergenin yürürlüğe girdiği tarihten itibaren on beş gün içerisinde iç yönergelerini hazırlar.
 
 (2) Birimler ve bağlı kuruluşlar tarafından hazırlanan iç yönergeler Hukuk Hizmetleri Genel Müdürlüğü koordine parafı ve Bakan onayıyla yürürlüğe girer.
 
 (3) İç yönergelerde hüküm bulunmayan hallerde bu Yönerge hükümleri uygulanır.
 
-## DÖRDÜNCÜ BÖLÜM Çeşitli ve Son Hükümler
+## DÖRDÜNCÜ BÖLÜM
+
+### Çeşitli ve Son Hükümler
 
 #### Yazışma usulü
 
-**MADDE 13 –** (1) Yazışmalar, 10/6/2020 tarihli ve 31151 sayılı Resmî Gazete'de yayımlanan Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik çerçevesınde yapılır.
+**MADDE 13 –** (1) Yazışmalar, 10/6/2020 tarihli ve 31151 sayılı Resmî Gazete'de yayımlanan Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik çerçevesinde yapılır.
 
-#### Istisnalar
+#### İstisnalar
 
-**MADDE 14 –** (1) Bakanlık ve bağlı kuruluş müfettişleri, iç denetçileri, hukuk müşavirleri ve avukatlarının; teftiş, denetim ve vekalet gibi bizzat ve kadro unvanlarına mündemiç olarak kullandığı imza yetkileri saklıdır. Hüküm bulunmayan haller
+**MADDE 14 –** (1) Bakanlık ve bağlı kuruluş müfettişleri, iç denetçileri, hukuk müşavirleri ve avukatlarının; teftiş, denetim ve vekalet gibi bizzat ve kadro unvanlarına mündemiç olarak kullandığı imza yetkileri saklıdır.
+
+#### Hüküm bulunmayan haller
 
 **MADDE 15 –** (1) Bu Yönergede hüküm bulunmayan hallerde yapılması gereken iş ve işlemler ile imza yetkileri, düzenleme yapılıncaya kadar Bakan tarafından belirlenir. Bu suretle yapılacak olan iş ve işlemler Hukuk Hizmetleri Genel Müdürlüğü koordinasyonunda yerine getirilir.
 
-(2) Imza yetkilerinin kullanılmasında tereddüt bulunması halinde Hukuk Hizmetleri Genel Müdürlüğünün görüşüne başvurulur. Yürürlükten kaldırılan hükümler
+(2) İmza yetkilerinin kullanılmasında tereddüt bulunması halinde Hukuk Hizmetleri Genel Müdürlüğünün görüşüne başvurulur.
 
-**MADDE 16 –** (1) 10/10/2018 tarihli Sağlık Bakanlığı ve Bağlı Kuruluşları Imza Yetkileri Yönergesi ve bu Yönergenin yürürlük tarihinden önce yürürlüğe konulmuş makam onayları yürürlükten kaldırılmıştır. Yönergenin uygulanması ve takip
+#### Yürürlükten kaldırılan hükümler
 
-**MADDE 17 –** (1) Bu Yönerge, birimlerde görevli ilgili personele imza karşılığı okutularak bildirilir ve sıralı amirlerince bu Yönergeye uygun hareket edilip edilmediği takip ve kontrol edilir. Yürürlük
+**MADDE 16 –** (1) 10/10/2018 tarihli Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi ve bu Yönergenin yürürlük tarihinden önce yürürlüğe konulmuş makam onayları yürürlükten kaldırılmıştır.
 
-**MADDE 18 –** (1) Bu Yönerge Bakan onayı ile yürürlüğe girer. Yürütme
+#### Yönergenin uygulanması ve takip
+
+**MADDE 17 –** (1) Bu Yönerge, birimlerde görevli ilgili personele imza karşılığı okutularak bildirilir ve sıralı amirlerince bu Yönergeye uygun hareket edilip edilmediği takip ve kontrol edilir.
+
+#### Yürürlük
+
+**MADDE 18 –** (1) Bu Yönerge Bakan onayı ile yürürlüğe girer.
+
+#### Yürütme
 
 **MADDE 19 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
 16/7/2024
 
-Prof. Dr/ Kemal MEMiŞOĞLU
+Prof. Dr. Kemal MEMİŞOĞLU
 
-/Bakan
+Bakan
