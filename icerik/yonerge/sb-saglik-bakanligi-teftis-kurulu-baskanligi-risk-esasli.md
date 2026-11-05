@@ -11,7 +11,7 @@ ocr: true
 tarih: "2024-11-29"
 sayi: "261023707"
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1038"
 ---
 
 ### SAĞLIK BAKANLIĞI TEFTİŞ KURULU BAŞKANLIĞI RİSK ESASLI DENETİM SİSTEMİ KOORDİNATÖRLÜĞÜ YÖNERGESİ

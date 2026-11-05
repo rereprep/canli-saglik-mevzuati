@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 299-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.313"
 ---
 
 3.2.1. Sağlık Bakanlığı Afet ve Acil Durum Yönetim Merkezi Yönergesi

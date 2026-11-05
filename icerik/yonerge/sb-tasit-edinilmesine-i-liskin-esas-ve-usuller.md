@@ -11,6 +11,7 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1051"
 ---
 
 11.2.1.Taşıt Edinilmesine İlişkin Esas ve Usuller (Değişiklik İşlenmiş Hâli)

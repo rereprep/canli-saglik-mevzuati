@@ -9,6 +9,7 @@ durum: "yürürlükte"
 ocr: true
 konu: "Aile hekimliği birimlerinde ödemeye esas tarama ve takip katsayısının kriterlerini, başarı oranlarını ve hesaplama usullerini belirler."
 duzeltildi: true
+sayfa_kontrol: "103723.pdf s.1"
 ---
 
 ### AİLE HEKİMLİĞİ TARAMA VE TAKİP KATSAYISINA İLİŞKİN YÖNERGE

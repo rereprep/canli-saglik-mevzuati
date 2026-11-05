@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 893-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.907"
 ---
 
 7.3.14. Uzman Tabiplerin Hizmet İçi Eğitim Talepleri Genelgesi (2012/45)

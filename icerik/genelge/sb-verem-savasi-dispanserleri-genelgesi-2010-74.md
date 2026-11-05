@@ -8,6 +8,7 @@ konu: "Verem Savaşı Dispanserleri Genelgesi (2010/74) uyarınca yürütülecek
 etiketler: ["halk sağlığı", "aşı", "bağışıklama"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 693-693"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.707"
 ---
 
 6.3.39. Verem Savaşı Dispanserleri Genelgesi (2010/74)

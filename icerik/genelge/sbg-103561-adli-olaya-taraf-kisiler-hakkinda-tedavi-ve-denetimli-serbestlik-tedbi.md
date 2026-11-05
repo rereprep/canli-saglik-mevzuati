@@ -10,6 +10,7 @@ durum: "yürürlükte"
 konu: "Adli Olaya Taraf Kişiler, Hakkında Tedavi ve Denetimli Serbestlik Tedbirine Hükmedilenler ile Tutuklu konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103561.pdf s.1"
 ---
 
 2.3.47. Adli Olaya Taraf Kişiler, Hakkında Tedavi ve Denetimli Serbestlik Tedbirine Hükmedilenler ile Tutuklu ve Hükümlü Tedavi Gideri Hakkında Genelge (2013/2)

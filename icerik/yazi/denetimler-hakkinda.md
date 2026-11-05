@@ -7,23 +7,25 @@ sayi: "19831278"
 birim: "Türkiye Halk Sağlığı Kurumu Başkanlığı"
 konu: "Aile sağlığı merkezi, aile hekimi ve aile sağlığı elemanlarına yönelik denetim ve değerlendirmelerde uyulacak hususları belirler."
 etiketler: ["denetim", "mevzuat"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 492-492"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 492"
 kaynak_pdf_sayfa: "498"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## DENETİMLER HAKKINDA
 
-T.C.
-SAĞLIK BAKANLIĞI
-Türkiye Halk Sağlığı Kurumu Başkanlığı
+T.C.  
+SAĞLIK BAKANLIĞI  
+Türkiye Halk Sağlığı Kurumu Başkanlığı  
 
-Sayı: 19831278/
-Konu: Denetimler Hak.
+**Sayı :** 19831278/  
+**Konu :** Denetimler Hak.  
 
-### ……… VALİLİĞİNE (Halk Sağlığı Müdürlüğü)
+### .................... VALİLİĞİNE  
+(Halk Sağlığı Müdürlüğü)
 
 İlgi: 03.01.2012 tarih ve 306 sayılı yazımız.
 
@@ -45,9 +47,9 @@ Bilindiği üzere aile sağlığı merkezine, aile hekimlerine ve aile sağlığ
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Seçil ÖZKAN
-Bakan a.
-Kurum Başkanı
+Prof. Dr. Seçil ÖZKAN  
+Bakan a.  
+Kurum Başkanı  
 
-Dağıtım:
+### DAĞITIM:
 81 İl Valiliğine (Halk Sağlığı Müdürlüğü)

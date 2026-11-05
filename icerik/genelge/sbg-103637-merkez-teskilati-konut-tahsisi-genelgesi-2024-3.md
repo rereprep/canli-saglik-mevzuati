@@ -11,7 +11,7 @@ ocr: true
 duzeltildi: true
 konu: "Merkez teşkilatındaki kamu konutlarının türlerini, tahsis usulünü ve esaslarını belirler."
 tarih: "2024-03-08"
-kontrol_edildi: true
+sayfa_kontrol: "103637.pdf s.1"
 ---
 
 9.3.1. Merkez Teşkilatı Konut Tahsisi Genelgesi (2024/3)

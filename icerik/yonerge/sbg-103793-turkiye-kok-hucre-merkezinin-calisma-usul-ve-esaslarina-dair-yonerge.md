@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103793/turkiye-kok-hucre-merkezinin-ca
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103793.pdf s.1"
 ---
 
 2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge

@@ -7,6 +7,7 @@ birim: "Sağlık Bilgi Sistemleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103365/teletip-ve-teleradyoloji-sistemi-genelgesi-201916.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103365.pdf s.1, 103365.pdf s.2"
 ---
 
 ## 4.3. GENELGELER

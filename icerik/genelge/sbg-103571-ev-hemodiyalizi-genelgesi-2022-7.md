@@ -7,6 +7,7 @@ birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103571/ev-hemodiyalizi-genelgesi-20227.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103571.pdf s.1"
 ---
 
 2.3.29. Ev Hemodiyalizi Genelgesi (2022/7)

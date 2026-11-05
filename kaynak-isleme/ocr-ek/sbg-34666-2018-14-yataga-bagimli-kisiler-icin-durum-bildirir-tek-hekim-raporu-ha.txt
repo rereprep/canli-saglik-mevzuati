@@ -1,0 +1,259 @@
+=== 34666-ek3.pdf PDF sayfa 2 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Aile hekimleri https://erapor.saglik.gov.tr Adresine girerler.
+08 0
+< > C 88 | [VPN • | erapor.saglik.gov.tr/portal/Home/#
+T.C Sağlık Bakanlığı e-Rapor Sistemi
+e-Rapor Sistemi Nedir?
+Bakanlığımıza bağlı sağlık kuruluşlarınca verilen tüm raporların (doğum, engelli,
+surucu, istırahat, durum bildınr raporu vb.) elektronık ortamda, e-ımzalı olarak
+urum Bildirir
+Sürücü Raporları
+Sporcu Raporlari
+Doğum Raporları
+e-Rapor Sistemi birçok bileşenden oluşmakta olup her bir bileşen (e-Doğum Raporu,
+Uygulamaya Git →
+Uygulamaya Git →
+Uyquiama
+Uyulamaya Git ->
+e.Fnneli Raponı e Sunucü Raponı vb ) farklı fazlarda devreve alınarak sırası ile
+Sağlık Bilgi Yönetim Sistemi (SBYS) ve diğer ilgili sistemlerle entegre edilecektir.
+Duyurular
+Yatağa Bağımlı
+e Panor / e-Donum Bileseni Kullanicı Kilavzu 2 1 sunumu ve Fntenrasvon
+Kılavuzu 2 3 sürümü yayınlanmıştır.
+riskinler İçin Engel
+Askeri Raporlar
+ÇÖZGER
+porla
+Uygulamaya Git →
+Uygulamaya Git →
+Uvaulamava Git -→
+Uvaulamava Git -→
+O e-Rapor Sistemi le lgli tu
+• та оні Вокалі
+Çağn Merkezi +00 312 248 51 51
+=== 34666-ek3.pdf PDF sayfa 3 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+E-rapor portal anasayfada Aile Hekimi Yatağa Bağımlı Kişiler için Durum Bildirir Tek
+Hekim Raporu Bileşeni kısmında uygulamaya git butonuna tıklayarak Ortak Giriş
+Noktası'na yönlendirilir.
+Yataga bagımlı
+Kişiler Için Durum
+Bildirir Tek Hekim
+Raporu
+Uygulamaya Git →
+=== 34666-ek3.pdf PDF sayfa 4 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Ortak Giriş Noktası
+E-İmza Uygulaması İndir
+--Imza Kullanmak Icın Gereklı Uyoulamavı Buradan Indırebılırsınıa
+Ortak Giriş Noktası
+Orak Gırs Noktası Nedır ve Nasıl Kullanıltı
+Şifre ile Giriş
+Bg Erişilebilir Uygulamalar
+E-Posta Adresinizi Yazın
+Parolanızı Yazın
+Sisteme giriş yapabilmek için e-imza ile
+Giriş
+giriş butonu tıklanır.
+• Ortak Giriş Noktası
+E-imza Uygulaması indir
+• F-Imza Kullanmak Icin Gerekli Uvculamavı Buradan Indirebilirsiniz
+Ortak Gıris Noktası
+Ortak Giriş Noktası Nedir ve Nasıl Kullanılır
+Oturum Taahhütnamesi
+İşbu sözleşme e-inza ile geçerli bir oturum başlattığımı ve
+ensima ait or elektronik imza re ou metni imza ad dimil
+Erişilebilir Uygulamalar
+aahhut ederim
+Ortak Giriş Noktasından Erişilebileceğiniz Uygulamalar
+30/04/2018 14:32
+e-İmza ile Giriş
+Kayıt olduğum ya da devam etmeye tikladığımda. Şartları ve
+Lütfen bilgisayarınıza e-imza takınız
+=== 34666-ek3.pdf PDF sayfa 5 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+E-İmza Uygulamasını Nasıl İndirebilirim
+E-imza uygulaması bilgisayarınızda
+kurulu değilse aşağıdaki adımları takip
+E-imza Uygulaması indir
+Ortak Giriş Noktası
+ederek uygulamayı kurabilirsiniz. E-İmza
+E-İmza Kullanmak İçin Gerekli Uygulamayı Buradan İndirebilirsiniz.
+Uygulaması İndir kısmında yer alan
+Ortak Giriş Noktası
+→
+Ortak Giriş Noktası Nedir ve Nasıl Kullanılır
+indirme butonuna tıklanir ve Şekil 'de
+Oturum Taahhütnamesi
+yer alan e-İmza Uygulaması indirme
+İşbu sözleşme e-imza ile geçerli bir oturum başlattığımı ve
+Erişilebilir Uygulamalar
+Ortak Giriş Noktasından Erişilebileceğiniz Uygulamalar
+30 04 2018 14:32
+adresine ulaşılır
+e-Imza ile Giriş
+Lütfen bilgisayarınıza e-imza takınız
+=== 34666-ek3.pdf PDF sayfa 6 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+onabi
+Q Ubuntu
+Pardus
+Windows
+Mac
+Şekil ' de kırmızı ile gösterilen
+Anasayfa
+alanlardan işletim sistemi seçilir ve
+Windows için e-Nabız e-Imza
+Şimdi İndir butonuna tıklanır.
+E-Nabız e-imza ile e-imza atmak artık çok kolay! e-Nabız e-İmza kurulum
+aşağıdan indirebilirsiniz.
+Desteklenen Versiyonlar: XP, Vista, 7, 8.1, 10
+• İşlemci Mimarisi: 32 bit, 64 bit
+Desteklenen Kartlar: ESHS lerden temin edilen bütün kartlar
+• e-Güven kurulumu için: Kurulum Yardım
+• Sürücüsü Otomatik Yüklenen Kartlar: KamuSM, Turktrust, e-Tuğra, e-İmzaTR (e-
+Güven tarafindan verilen kartların sürücüleri ilgili sayfadan kurulmalıdır)
+=== 34666-ek3.pdf PDF sayfa 7 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Şekil ' de yer alan "Sağlık Bakanlığı Personeli Sürümü" butonuna tıklandıktan sonra
+Şimdi İndir (Sağlık Bakanlığı Personeli Sürümü) butonuna tıklanır.
+Qinabz
+Windows
+Ubuntu
+Mac
+Pardus
+Anasayfa
+Windows için e-Nabız e-İmza
+E-Nabız e-imza ile e-imza atmak artık çok kolay! e Nabız e-İmza kurulum
+dosyaların aşagidan indirebilirsiniz.
+b nabe:
+* Vatandaş Sürümü
+* Sağlık Bakanlığı Personeli Sürümü
+Sürüm
+: 2.2.3
+Sürüm Tarihi : 21.04.2018
+Özet (SHA-1) : 15ea41c48698fe1465f70dde00d187d6e8543790
+Şimdi İndir (Sağlık Bakanlığı Personeli Sürümü)
+Desteklenen Versiyonlar: XP, Vista, 7, 8.1, 10
+İşlemci Mimarisi: 32 bit, 64 bit
+• Desteklenen Kartlar: ESHS erden temin edilen butun kartlar
+V e-Güven kurulumu için: Kurulum Yardım
+v Sürücüsü Otomatik Yüklenen Kartlar: KamuSM, Turktrust, e-Tuğra, e-İmzaTR (e-
+Güven tarafindan verilen kartların sürücüleri ilgili sayfadan kurulmalıdır)
+=== 34666-ek3.pdf PDF sayfa 8 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Program İndirildikten sonra aşağıdaki yükleme adımlar yapılır.
+Dosya adı: eNabizElm
+Kayıt țürü: Application
+^ Klasörleri Gizle
+• e-Nabiz e-İmza - Kurulumu
+• e-Nabiz e-İmza - Kurulumu
+X P e-Nabiz e-İmza - Kurulumu
+• e-Nabiz e-İmza - Kurulumu
+Kuruluyor
+Kurulmaya Hazır
+e-Nabız e-İmza Kurulum
+tangi bileşenler kurulacak?
+e-Nabız e-İmza bilgisayarınıza kurulmaya hazır.
+Lütfen e-Nabız e -İmza bilgisayarınıza kurulurken bekleyin.
+Yardımcisina Hoşgeldiniz.
+Derman emeye hes edalarin
+Bilgisayarınıza e-Nabız e-İmza 2.2.3 sürümü yazılımı kurulacak.
+uruluma devam etmek için İleri düğmesine, ayarları gözden geçirip değiştirmek için Geri
+Kurulum tamamlanıyor...
+Onerän etmeden önce çalşan diğer tüm progranlan kapatanız
+Jucmesine uKavI
+Kurulum tipi:
+Tam Kurulum
+V e-Imza Sihirbazı
+Devam etmek için İleri, çıkmak için İptal düğmesine basın.
+V Tarayicı İmzalama Servisi
+Seçilmiş bileşenler:
+V Taraya Eklentileri
+J Otomatik Güncelleme
+0.1MB
+i bilesenler icin diskte en az 60,0 MB bos alan gerekli.
+• e-Nabiz e-İmza - Kurulumu
+e-Nabiz e-İmza kurulum
+yardımcısı tamamlanıyor
+Bilgisayarınıza e-Nabız e-İmza kurulumu tamamlandı. Simgeleri
+Kurulumdan çkmak için Bitti düğmesine tklayın.
+=== 34666-ek3.pdf PDF sayfa 10 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Aile Hekimi Işlemleri •lütfen bilgen eksiksiz ve doğruluğunden emin olarak daidurun
+RE
+Muayene
+Kayit Ekranı
+Rapor Onizleme
+Sisteme girişi onaylanan
+T.C. Kimlik Numarası Sorgulama
+Ale hekiminin muayene ekranıdır, T.C kinlik numarası girilerek sorgula butonuna basılır, hasta bilgileri
+TC Amia No Griniz
+sağ tarafla bulunan bilgi kartında gözlenir. Hastanın geçitiş raporlanı var ise aşağidaki Esteden
+şekildeki
+Sorgula
+Aile hekimi
+gözlemleneblir.
+ekrana gelir raporu
+Adi / Soyadı
+Geçmiş Rapor Bilgisi
+yazılacak olan hastanın TC
+Kimlik numarası ilgili alana
+Baba Adi
+yazılır ve sorgula butonuna
+Doğum Tarihi
+Cinsiyet
+basılır.
+Telefon
+Adres
+Ileri
+Vazgeç
+© 2017 Sağlık Bågi Sistemleri Tarafindan Geliştirilmiştir T.C. Sağ& Bakanlığı
+=== 34666-ek3.pdf PDF sayfa 11 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Aile Hekimi Işlemleri •Lütfen bilgileri ek
+in olarak doldurunuz
+Rapor Onizleme
+Muayene
+Kayıt Ekranı
+TC Kimlik bilgileri girilen
+T.C Kimlik Numarası
+L Tanı/Bulgu
+Vatandaş'ın verileri ekrana
+Bulgu Sermuz.
+gelir ve ilgili aile hekimi ileri
+Adı / Soyadi
+butonuna basar ve tani
+Baba Adi
+yada bulgularını yazar.
+Cinsiyet
+Doğum Tarihi
+Sonuç kismında Hastalık
+nedeniyle yada engellilik
+Telefon
+L Sonug
+nedeniyle yatağa bağımlı
+Adres
+seçeneklerinden birini seçer
+Engellık nedentyle yatağa bağımiı
+Hatalık nedenlyle yatağa bağımlı
+ve raporu ön izleme ve
+imzalama aşamasina geçer.
+Vazgeç
+Ileri
+Geri
+© 2017 • Saglık Bigi Sistemleri Tarafırdan Geliştirilmiştir T.C. Sağla Bakanlığı
+=== 34666-ek3.pdf PDF sayfa 12 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Yazılan raporun ön izlemesi görülür
+Aile hekimi yada doktor raporu imzaladıktan sonra PDF hazır
+ve doktor onaylı hale gelir. Vatandaşa vermek üzere çıktı
+alınır ve ıslak imzalı olarak gerekli ilgili kurumlara verilmek
+üzere vatandaşa teslim edilir.
+=== 34666-ek3.pdf PDF sayfa 13 ===
+e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Soru ve sorunlarınız için
+erapor.destek@saglik.gov.tr
+Yazılım Destek Telefon : 0 312 248 51 51

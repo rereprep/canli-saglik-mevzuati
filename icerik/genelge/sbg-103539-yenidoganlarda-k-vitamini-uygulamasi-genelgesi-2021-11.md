@@ -7,6 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103539/yenidoganlarda-k-vitamini-uygulamasi-genelgesi-202111.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103539.pdf s.1"
 ---
 
 6.3.49. Yenidoğanlarda K Vitamini Uygulaması Genelgesi (2021/11)

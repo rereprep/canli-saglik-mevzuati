@@ -11,6 +11,7 @@ ocr: true
 tarih: "2019-02-25"
 sayi: "2833"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.962"
 ---
 
 9.2.5.Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge

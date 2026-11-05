@@ -9,7 +9,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103583.pdf s.1"
 ---
 
 2.3.12. Kamu Ağız ve Diş Sağlığı Tesislerinin Hizmet Rollerinin Belirlenmesi ve Planlanmasına İlişkin Usul ve Esaslar Genelgesi (2024/7) Kamu Hastaneleri Genel Müdürlüğüne gönderilen yatırıma esas ağız ve diş sağlığı hizmet birimlerine yönelik planlama uygulamadan kaldırılmıştır.

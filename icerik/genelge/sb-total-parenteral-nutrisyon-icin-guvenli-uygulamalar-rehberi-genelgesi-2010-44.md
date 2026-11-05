@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 239-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.253"
 ---
 
 2.3.38. Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi Genelgesi (2010/44)

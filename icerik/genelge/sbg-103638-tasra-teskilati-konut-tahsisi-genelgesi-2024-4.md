@@ -10,8 +10,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103638/tasra-teskilati-konut-tahsisi-g
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 konu: "Sağlık Bakanlığı taşra teşkilatı personelinin kamu konutlarından yararlanma, görev ve sıra tahsisi, komisyon teşkili ve dağıtım usul ve esasları"
+sayfa_kontrol: "103638.pdf s.1"
 ---
 
 9.3.2. Taşra Teşkilatı Konut Tahsisi Genelgesi (2024/4)

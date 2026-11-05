@@ -7,6 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103504/kot-giysilere-uygulanan-puskurtme-isleminde-kum-kullaniminin-yasaklanmasi-genelgesi-200924.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103504.pdf s.1"
 ---
 
 6.3.11. Kot Giysilere Uygulanan Püskürtme İşleminde Kum Kullanımının Yasaklanması Genelgesi (2009/24)

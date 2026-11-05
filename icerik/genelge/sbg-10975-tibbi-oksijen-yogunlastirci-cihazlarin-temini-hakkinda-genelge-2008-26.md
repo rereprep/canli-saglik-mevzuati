@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10975/tibbi-oksijen-yogunlastirci-ciha
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Tedavi Hizmetleri Genel Müdürlüğü

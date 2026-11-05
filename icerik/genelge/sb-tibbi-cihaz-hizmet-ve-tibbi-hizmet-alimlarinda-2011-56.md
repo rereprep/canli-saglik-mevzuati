@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 896-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.910, sbyonergevegenelge202520022025pdf.pdf s.918"
 ---
 
 7.3.15. Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti Genelgesi (2011/56)

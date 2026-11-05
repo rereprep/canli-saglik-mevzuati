@@ -7,6 +7,7 @@ birim: "Strateji Geliştirme Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103615/ihalelere-katilmaktan-yasaklama-islemleri-konulu-genelgede-degisiklik-yapilmasi-genelgesi-202006.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103615.pdf s.1"
 ---
 
 11.3.5. İhalelere Katılmaktan Yasaklama İşlemleri Konulu Genelgede Değişiklik Yapılması Genelgesi (2020/06)

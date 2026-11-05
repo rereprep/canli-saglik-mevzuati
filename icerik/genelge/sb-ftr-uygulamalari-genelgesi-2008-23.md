@@ -8,6 +8,7 @@ konu: "Fizik tedavi ve rehabilitasyon uygulamalarında seans planlaması ve teda
 etiketler: ["fizik tedavi", "rehabilitasyon", "ftr"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 293-293"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.307"
 ---
 
 2.3.62. FTR Uygulamaları Genelgesi (2008/23)

@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 181-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.195"
 ---
 
 2.3.19. Kronik Yara Bakım Hizmetleri Genelgesi (2022/8)
@@ -18,7 +19,8 @@ duzeltildi: true
 ### T.C. SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : 54567092-
+Sayı : 54567092-010.06.02-13159
+Tarih: 06.12.2022
 Konu : Kronik Yara Bakım Hizmetleri
 
 GENELGE
@@ -47,7 +49,9 @@ Sosyal Güvenlik Kurumu
 Yükseköğretim Kurulu Başkanlığı
 A Planı
 
-### KRONİK YARA BAKIM HİZMETLERİNE İLİŞKİN USUL VE ESASLAR A- TANIMLAR
+### KRONİK YARA BAKIM HİZMETLERİNE İLİŞKİN USUL VE ESASLAR
+
+### A- TANIMLAR
 
 1. Bu usul ve esaslarda geçen;
 
@@ -55,9 +59,9 @@ a) Bakan: Sağlık Bakanını,
 
 b) Bakanlık: Sağlık Bakanlığını,
 
-e) Bilimsel komisyon: Kronik yara bakım hizmetlerinin planlanması, geliştirilmesi ve ülke genelinde etkin bir şekilde sunulması amacıyla Bakanlıkça oluşturulan Kronik Yara Bakım Hizmetleri Bilimsel Komisyonunu,
+c) Bilimsel komisyon: Kronik yara bakım hizmetlerinin planlanması, geliştirilmesi ve ülke genelinde etkin bir şekilde sunulması amacıyla Bakanlıkça oluşturulan Kronik Yara Bakım Hizmetleri Bilimsel Komisyonunu,
 
-ș) Birinci basamak kronik yara bakımı: Sadece cilt (dermis ve epidermis) ve cilt altının etkilendiği, yağ ve derin dokuların etkilenmediği yaraların tedavisi için sunulan hizmeti,
+ç) Birinci basamak kronik yara bakımı: Sadece cilt (dermis ve epidermis) ve cilt altının etkilendiği, yağ ve derin dokuların etkilenmediği yaraların tedavisi için sunulan hizmeti,
 
 d) Genel müdür: Sağlık Hizmetleri Genel Müdürünü,
 
@@ -67,13 +71,13 @@ f) Kronik yara: Altta yatan birtakım problemlerden dolayı iyileşmesi geciken,
 
 g) Kronik yara bakım ünitesi: Bakanlıkça tescil edilen ve kronik yara bakım alanlarında sunulan tedavilerle iyileşmeyen yaralar dahil olmak üzere bu Genelge kapsamında tanımlanan yaraların tümüne ve eşlik eden hastalıkların basit cerrahi müdahalelere izin vermediği hastaların tedavi edildiği üniteyi,
 
-g) Müdürlük: Il Sağlık Müdürlügünü,
+ğ) Müdürlük: Il Sağlık Müdürlügünü,
 
 h) Sorumlu tabip: Kronik yara bakım ünitesinde hizmetin koordinasyonu ve organizasyonundan, bir bütün olarak planlanıp yürütülmesinden ve ekibinde görevli tüm personelden ilgili sağlık tesisi yönetimine karşı sorumlu olan genel cerrahi uzmanı, ortopedi ve travmatoloji uzmanı, plastik, rekonstrüktif ve estetik cerrahi uzmanı veya çocuk cerrahisi uzmanları arasından görevlendirilen tabibi,
 
 ifade eder.
 
-### B- KRONIK YARA BAKIM HİZMETLERİNE ILIŞKIN GENEL ESASLAR
+### B- KRONİK YARA BAKIM HİZMETLERİNE İLİŞKİN GENEL ESASLAR
 
 1. Bu Genelge, birinci ve ikinci basamak kronik yara bakım hizmeti veren sağlık tesisleri ve yine bünyesinde yara bakım ünitesi bulunan Bakanlığa, üniversitelere, gerçek kişilere ve özel hukuk tüzel kişilerine ait sağlık tesisleri ile bu birimlerde görev yapan personeli kapsar.
 
@@ -141,7 +145,7 @@ erte tutanakla karara bağlanır. Genel Müdürlükçe de uygun bulunması halin
 
 4. Müdürlük, denetimlerin gerçeğe uygun olarak düzenlenmesinden sorumludur.
 
-### E- KONSEY KURULMASI VE ÇALIŞMA PRENSIBI
+### E- KONSEY KURULMASI VE ÇALIŞMA PRENSİBİ
 
 1. Konsey sorumlu tabibin başkanlığında ilgili alan uzman tabiplerinin katılımı ile oluşturulur.
 
@@ -153,7 +157,7 @@ erte tutanakla karara bağlanır. Genel Müdürlükçe de uygun bulunması halin
 
 5. Kliniklerde yatan ve kronik yarası oluşan hastalar kendi tabipleri tarafından sorumlu tabibe yönlendirilerek konseye çıkarılmaları sağlanır.
 
-### F- EGITİM VE SERTİFİKASYON
+### F- EĞİTİM VE SERTİFİKASYON
 
 1. Kronik yara bakım ünitesi olan sağlık tesislerinde çalışacak hemşirelerin, Bakanlıkça onaylanan Stoma ve Yara Bakım Hemşireliği Sertifikasyon Eğitimini almaları zorunludur.
 

@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1028
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1042"
 ---
 
 10.3.1. Teftiş ve Denetim Faaliyetlerinin Yürütülmesi Genelgesi (2025/6)

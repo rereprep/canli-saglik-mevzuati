@@ -10,7 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 225-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.239"
 ---
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü

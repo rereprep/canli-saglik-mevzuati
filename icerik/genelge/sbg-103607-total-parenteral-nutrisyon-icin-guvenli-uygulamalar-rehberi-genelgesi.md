@@ -10,7 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103607/total-parenteral-nutrisyon-icin
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103607.pdf s.1"
 ---
 
 2.3.39. Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi Genelgesi (2010/44)

@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "582-583"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## EASM / EAHB HİZMET VE İŞLETME SÜREÇLERİNDE DİKKAT EDİLMESİ GEREKEN HUSUSLAR

@@ -9,8 +9,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103627/aile-hekimligine-geciste-muvafa
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 konu: "Aile hekimliğine geçişte muvafakat işlemlerine ilişkin esasları belirler."
+sayfa_kontrol: "103627.pdf s.1"
 ---
 
 9.3.6. Aile Hekimliğine Geçişte Muvafakat İşlemleri Hakkında Genelgesi (2020/1)

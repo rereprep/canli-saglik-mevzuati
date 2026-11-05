@@ -12,6 +12,7 @@ kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 247-288"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 birim: "Cumhurbaşkanı"
 kaynak_pdf_sayfa: "253"
 ---
@@ -472,7 +473,7 @@ Iki Logonun Kullanılması Örneği: 0,5 cm. 1,5 cm.
 
 Merkez Teşkilatı Omeği:
 
-### _T.C. CUMHURBAȘKANLIĞI CUMHURBAŞKANLIĞI IDAR IŞLER BAŞKANLIĞI Destek ve Mali Hizmetler Genel Müdürlüğu T.C ADALET BAKANLIĞI Ceza İşleri Genel Müdürlüğü
+### _T.C. CUMHURBAȘKANLIĞI CUMHURBAŞKANLIĞI IDAR IŞLER BAŞKANLIĞI Destek ve Mali Hizmetler Genel Müdürlüğü T.C ADALET BAKANLIĞI Ceza İşleri Genel Müdürlüğü
 
 Bağlı İdare Örneği:
 
@@ -678,7 +679,7 @@ Adi SOYADI
 
 Strateji Geliştirme Başkanı Ilgi (a) Dilekçe (2 Sayfa) 2- İlsi (b) Yazı (1 Sayfa)
 
-### Bu belge, güvenli elektronik imza ile imzalanmaştır.
+### Bu belge, güvenli elektronik imza ile imzalanmıştır.
 
 Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Doğrulama Adresi: https://www.turkiye.gov.tr/adaletbakanligi-ebys T.C. Adalet Bakanlığı 06659 Kızılay-Çankaya-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 kpp Adresi adaleta s01 .kep.v ./@adalet.gov.tr Internet Adresi: www.adalet.gov.t
 
@@ -690,7 +691,7 @@ Telefon No: (0312) 1234567
 
 İmza Yetkisi Devrinde İmza Örneği: Adi SOY ADI
 
-Bakan a. Bakan Yardımcısı Adi SOYADI İdari İşler Başkamı a. Destek ve Mali Hizmetler Genel Müdürü Adı SOY ADI Nüfus ve Vatandaşlık İşleri Genel Müdürü a. Kimlik Kartları Daire Başkanı Adı SOYADI
+Bakan a. Bakan Yardımcısı Adi SOYADI İdari İşler Başkanı a. Destek ve Mali Hizmetler Genel Müdürü Adı SOY ADI Nüfus ve Vatandaşlık İşleri Genel Müdürü a. Kimlik Kartları Daire Başkanı Adı SOYADI
 
 Vali a. Vali YardımcISI Adi SOY ADI Büyükşchir Belediye Başkanı a. Genel Sekreter Prof. Dr. Adi SOYADI
 
@@ -798,7 +799,7 @@ Adı SOYADI
 
 ### Bu belge, güvenli elektronik inza ile imzalanmaştır.
 
-Belge Doğrulama Kodu: ABCDE-FGHJ-KIMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tccb-ebys Cumburbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 e-Posta:............/@tecb.gov.tr Internet Adresi: www.tecb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
+Belge Doğrulama Kodu: ABCDE-FGHJ-KIMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tccb-ebys Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 e-Posta:............/@tecb.gov.tr Internet Adresi: www.tecb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
 
 ### 1/2
 
@@ -854,11 +855,11 @@ Ek : Davet Mektubu (2 Sayfa)
 
 ### Bu belge, güvenli elektronik inza ile imzalanmaştır.
 
-Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tccb-ebys Cumburbaşkanlığı Külliyesi 06360 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta:...................../@tecb.gov.tr Internet Adresi: www.tecb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
+Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkiye.gov.tr/tccb-ebys Cumhurbaşkanlığı Külliyesi 06360 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta:...................../@tecb.gov.tr Internet Adresi: www.tecb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
 
 ### ÖRNEK 18/A FİZİKSEL ORTAMDA HAZIRLANAN OLUR ÖRNEĞİ GİZLİ T.C. İÇİŞLERİ BAKANLIĞI Emniyet Genel Müdürlüğü
 
-Sayi : Z-11837526-951.01.01-23453211 24.08.2019 Konu : İę Güvenlik
+Sayi : Z-11837526-951.01.01-23453211 24.08.2019 Konu : İç Güvenlik
 
 ### BAKANLIK MAKAMINA
 
@@ -888,7 +889,7 @@ Sayı : E-48154937-602.02-2587945 21.08.2019 Konu : Orta Vadeli Program Hazırla
 
 Adi SOYADI
 
-Strateji Geliştirme Başkamı Uygun görüşle arz ederim.
+Strateji Geliştirme Başkanı Uygun görüşle arz ederim.
 
 Adı SOYADI Bakan Yardımcısı
 
@@ -912,7 +913,7 @@ Adi SOYADI
 
 İdari İşler Başkan V. Ek: Karar Sureti (1 Sayfa)
 
-### Bu belge, güvenli elektronik imza ile imzalanmaştır.
+### Bu belge, güvenli elektronik imza ile imzalanmıştır.
 
 Belge Doğrulama Kodu: ABCDE-FGHIJ-KLMNO-PRSTUV Belge Dogrulama Adresi: https://www.turkive.gov.tr/tccb-ebys Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta: _.* ........@tccb.gov.tr Internet Adresi: www.tccb.gov.tr Kep Adresi: cumhurbaskanligi@hs01.kep.tr Telefon No: (0312) 1234567
 
@@ -948,7 +949,7 @@ Adı SOYADI
 
 Idari İşler Başkanı Ek: Personel Listesi (10 Kişi) 20.08.2019 Uzman : Adi SOY ADI (Parat) 20.08.2019 Daire Başkanı : Adi SOY ADI (Paraf 20.08.2019 Genel Müdür : Adi SOYADI (Paraf) Cumhurbaşkanhığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adi SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Unvan e-Posta: _......... /@tceb.gov.tr Intemet Adresi: www.teeb.gov.tr Telefon No: (0312) 1234567 Kep Adresi: cumhurbaskanligi@hs01.kep.tr
 
-### ÖRNEK 20 KOORDİNASYON ÖRNEĞİ GİZLİ CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Güvenlik İşleri Genel Müdürlüğu
+### ÖRNEK 20 KOORDİNASYON ÖRNEĞİ GİZLİ CUMHURBAŞKANLIĞI İDARİ İŞLER BAŞKANLIĞI Güvenlik İşleri Genel Müdürlüğü
 
 Sayı : Z-41654118-951.02.02-133496 08.08.2019 Konu : Güvenlik Eylem Planı
 
@@ -960,7 +961,7 @@ Adı SOYADI
 
 Güvenlik İşleri Genel Müdürü
 
-### Imza Adi SOYADI İdari İşler Başkamı
+### Imza Adi SOYADI İdari İşler Başkanı
 
 07.08.2019 Mühendis : Adi SOY ADI (Paraf) 07.08.2019 Şube Mudürü Adi SOY ADI (Parat) 07.08.2019 Daire Başkanı : Adı SOY ADI (Parat Koordinasyon : 08.08.2019 Daire Başkanı : Adı SOYADI (Paraf) Cumhurbaşkanlığı Külliyesi 06560 Beştepe-ANKARA Bilgi için: Adı SOYADI Telefon No: (0 312) 123 45 67 Faks No: (0 312) 123 45 68 Telefon No: (0312) 1234567 e-Posta: _..... @tccb.gov.tr Internet Adresi: www.tccb.gov.tr Kep Adresi: cumhurbaskanlivi@hs01 kep.tr GİZLİ
 

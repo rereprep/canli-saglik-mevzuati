@@ -6,6 +6,7 @@ konu: "Coğrafi Yapısı Nedeniyle Kayıtlı Nüfusun Zorunlu Olarak Düşük Ol
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 432-432"
 durum: "yürürlükte"
+sayfa_kontrol: "mevzuat-kitabi.pdf s.438"
 ---
 
 ## COĞRAFİ YAPISI NEDENİYLE KAYITLI NÜFUSUN ZORUNLU OLARAK DÜŞÜK OLDUĞU YERLER-1 432

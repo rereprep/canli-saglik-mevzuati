@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 230-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.244"
 ---
 
 2.3.35. Yoğun Bakım Servislerinde Hasta Ziyareti Uygulamaları Genelgesi (2019/09)

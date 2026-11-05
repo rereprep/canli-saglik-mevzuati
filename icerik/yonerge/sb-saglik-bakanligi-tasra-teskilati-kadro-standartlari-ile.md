@@ -11,6 +11,7 @@ ocr: true
 tarih: "2017-11-07"
 sayi: "51275"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.966"
 ---
 
 9.2.6.Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile Çalışma Usul ve Esaslarına Dair Yönerge

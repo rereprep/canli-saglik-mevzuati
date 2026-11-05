@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 327-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.341"
 ---
 
 3.2.4. İl Ambulans Servisi Çalışma Yönergesi

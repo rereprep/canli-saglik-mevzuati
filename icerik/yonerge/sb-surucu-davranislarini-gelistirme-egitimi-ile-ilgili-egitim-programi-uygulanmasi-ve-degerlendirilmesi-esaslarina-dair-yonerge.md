@@ -11,6 +11,7 @@ ocr: true
 tarih: "2005-03-04"
 sayi: "3201"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.492"
 ---
 
 6.2.8. Sürücü Davranışlarını Geliştirme Eğitimi ile İlgili Eğitim Programı Uygulanması ve Değerlendirilmesi Esaslarına Dair Yönerge

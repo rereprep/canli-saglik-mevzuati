@@ -7,6 +7,7 @@ birim: "Kamu Hastaneleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103551/uzmanlik-ogrencilerinin-uzmanlik-tezi-ve-bilimsel-calismalari-genelgesi-20232.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103551.pdf s.1"
 ---
 
 7.3.2. Uzmanlık Öğrencilerinin Uzmanlık Tezi ve Bilimsel Çalışmaları Genelgesi (2023/2)

@@ -11,6 +11,7 @@ ocr: true
 tarih: "2022-11-02"
 sayi: "2272"
 duzeltildi: true
+sayfa_kontrol: "103784.pdf s.1"
 ---
 
 T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü

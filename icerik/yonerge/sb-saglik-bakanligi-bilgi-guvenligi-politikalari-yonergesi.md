@@ -11,6 +11,7 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.395"
 ---
 
 4.2.4. Sağlık Bakanlığı Bilgi Güvenliği Politikaları Yönergesi

@@ -8,8 +8,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103629/askerlik-hizmetini-yedek-subay-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 konu: "Yedek subay olarak askerlik yapan hekimlerin Devlet hizmeti yükümlülüğünü tamamlamış sayılmasına ilişkin esasları düzenler."
+sayfa_kontrol: "103629.pdf s.1"
 ---
 
 9.3.9. Askerlik Hizmetini Yedek Subay Olarak Yerine Getirenlerin DHY Tamamlanmış Sayılmasına İlişkin Usul ve Esaslar

@@ -10,8 +10,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103636/mal-bildirimleri-konulu-genelge
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 konu: "Sağlık Bakanlığı personelinin mal bildiriminde bulunma usul ve esasları, bildirim zamanları ve idari süreçlerini düzenler."
+sayfa_kontrol: "103636.pdf s.1"
 ---
 
 9.3.6. Mal Bildirimleri Konulu Genelge (2018/20)

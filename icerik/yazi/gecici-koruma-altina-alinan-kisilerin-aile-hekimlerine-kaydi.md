@@ -7,21 +7,22 @@ sayi: "99858683-045.01"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Geçici koruma altındaki kişilerin aile hekimliği birimlerine kaydının yalnızca toplum sağlığı merkezi veya ilçe sağlık müdürlüğünce yapılacağını ve göçmen sağlığı birimlerine yönlendirileceklerini bildirir."
 etiketler: ["gocmen-sagligi", "mevzuat"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 569-569"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 569"
 kaynak_pdf_sayfa: "575"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## GEÇİCİ KORUMA ALTINA ALINAN KİŞİLERİN AİLE HEKİMLERİNE KAYDI
 
-T.C.
-SAĞLIK BAKANLIĞI
-Halk Sağlığı Genel Müdürlüğü
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-Sayı: 99858683-045.01
-Konu: Geçici koruma altına alınan kişilerin aile hekimlerine kaydı
+**Sayı :** 99858683-045.01  
+**Konu :** Geçici koruma altına alınan kişilerin aile hekimlerine kaydı  
 
 ### DAĞITIM YERLERİNE
 
@@ -33,10 +34,10 @@ Ayrıca, kişilerin ikamet adresine göre ulaşılabilir konumda GSM, GGSM ve G�
 
 Bilgilerini ve gereğini rica ederim.
 
-e-imzalıdır.
-Doç. Dr. Fatih KARA
-Bakan a.
-Genel Müdür
+e-imzalıdır.  
+Doç. Dr. Fatih KARA  
+Bakan a.  
+Genel Müdür  
 
-Dağıtım:
+### DAĞITIM:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)

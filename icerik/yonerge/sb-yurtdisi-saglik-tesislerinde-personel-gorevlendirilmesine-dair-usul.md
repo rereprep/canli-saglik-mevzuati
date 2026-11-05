@@ -11,6 +11,7 @@ ocr: true
 tarih: "2018-12-13"
 sayi: "1453"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.820"
 ---
 
 7.2.4.Yurtdışı Sağlık Tesislerinde Personel Görevlendirilmesine Dair Usul ve Esaslar Hakkında Yönerge

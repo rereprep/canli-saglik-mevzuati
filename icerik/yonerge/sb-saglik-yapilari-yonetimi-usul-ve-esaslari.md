@@ -11,6 +11,7 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.417"
 ---
 
 5.2.1. Sağlık Yapıları Yönetimi Usul ve Esasları

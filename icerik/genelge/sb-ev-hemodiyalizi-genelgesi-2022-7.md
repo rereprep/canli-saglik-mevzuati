@@ -8,6 +8,7 @@ konu: "Kronik böbrek yetmezliği hastalarına yönelik ev hemodiyalizi hizmetin
 etiketler: ["ev hemodiyalizi", "böbrek yetmezliği", "diyaliz"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 199-199"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.213"
 ---
 
 2.3.27. Ev Hemodiyalizi Genelgesi (2022/7)

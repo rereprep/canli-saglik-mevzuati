@@ -9,7 +9,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103809.pdf s.1"
 ---
 
 9.2.9. Sağlık Bakanlığı 4/B Sözleşmeli Personelinin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönergede Değişiklik Yapılması

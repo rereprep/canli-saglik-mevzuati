@@ -1,0 +1,161 @@
+=== mevzuat-kitabi.pdf PDF sayfa 414 ===
+EK - 1
+KRİTER KATSAYISINA ESAS ASGARİ VE AZAMİ BAŞARI ORANLARI
+Azami
+Asgari
+Kriter
+Başarı
+Başan
+Yüzdesi
+Yüzdesi
+Tarama
+90
+40
+Hipertansiyon
+Takip
+90
+50
+Sonuç
+40
+90
+Tarama
+90
+40
+Diyabet
+Takip
+50
+90
+90
+Sonuç
+40
+Tarama
+90
+40
+Obezite
+Takip
+50
+90
+Sonuç
+90
+40
+Serviks Kanseri
+Tarama
+50
+90
+Kolorektal Kanser
+Tarama
+50
+90
+Meme Kanseri
+Tarama
+40
+90
+Tarama
+40
+90
+Kardiyovasküler Risk
+50
+90
+Takip
+Değerlendirmesi
+90
+40
+Sonuç
+Tarama
+90
+40
+Çok Yönlü Yaşlı Sağlığı
+50
+90
+Takip
+Değerlendirmesi
+Sonuç
+40
+90
+Süreç Yönetimi
+50
+80
+EK - 2
+BAŞARI ORANLARINA GÖRE KRİTER KATSAYILARI
+Asgari Başan
+KATSAYILAR
+Asgari - Azami
+Azami Başarı Oranı Üzeri
+sgari Başa
+Başarı Oranları Arası İçin
+Oranının Altı Için Kriter
+Için Kriter Katsayısı
+ranı Için Kriter Katsay.
+KRITERLER
+Kriter Katsayısı
+Katsayısı
+Tarama
+1 ila 1,05
+1,05
+0,994
+1 ila 1,0231
+Hipertansiyon
+Takip
+1,0231
+0,99
+Sonuç
+1 ila 1,05
+1,05
+Tarama
+0,994
+Takip
+Diyabet
+0,99
+1,023
+1 ila 1,023
+Sonuç
+1 ila 1,05
+Tarama
+1,05
+0,994
+Obezite
+0,99
+Takip
+1,023
+1 ila 1,023
+Sonuç
+1 ila 1,03
+Serviks Kanseri
+Tarama
+1,03
+0,994
+1 ila 1,03
+Kolorektal Kanser
+Tarama
+1,03
+0,994
+Tarama
+1,031
+0,994
+Meme Kanseri
+1 ila 1,031
+1,05
+1 ila 1,05
+0,994
+Tarama
+Kardiyovasküler Risk
+1 ila 1,023
+Takip
+1,023
+0,99
+Değerlendirmesi
+Sonuç
+Tarama
+0,994
+Çok Yönlü Yaşlı Sağlığı
+Takip
+0,99
+Degerlendirmesi
+Sonuç
+1 ila 1,03
+Süreç Yönetimi
+1,03
+0,994
+(Değişik 13/08/2021 tarihli ve E.1298) Ek 2'de yer alan Asgari Başarı Oranının Altı İçin Kriter Katsayı
+değerleri "1" olarak değiştirilmiștir.
+408

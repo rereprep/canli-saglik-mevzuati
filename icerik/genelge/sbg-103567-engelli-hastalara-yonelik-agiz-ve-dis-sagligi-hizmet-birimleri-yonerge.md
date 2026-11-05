@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103567/engelli-hastalara-yonelik-agiz-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103567.pdf s.1"
 ---
 
 

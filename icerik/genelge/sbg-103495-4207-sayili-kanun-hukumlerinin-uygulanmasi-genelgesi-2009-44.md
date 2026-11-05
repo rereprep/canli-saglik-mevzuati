@@ -7,6 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103495/4207-sayili-kanun-hukumlerinin-uygulanmasi-genelgesi-200944.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103495.pdf s.1"
 ---
 
 6.3.45. 4207 Sayılı Kanun Hükümlerinin Uygulanması Genelgesi (2009/44)

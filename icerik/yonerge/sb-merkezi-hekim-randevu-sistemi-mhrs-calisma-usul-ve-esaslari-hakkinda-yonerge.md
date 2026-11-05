@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 376-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.390"
 ---
 
 4.2.3. Merkezi Hekim Randevu Sistemi (MHRS) Çalışma Usul ve Esasları Hakkında Yönerge

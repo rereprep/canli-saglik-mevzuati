@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 745-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.759"
 ---
 
 T.C.  

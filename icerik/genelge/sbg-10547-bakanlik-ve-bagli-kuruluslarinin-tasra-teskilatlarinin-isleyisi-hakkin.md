@@ -10,7 +10,7 @@ duzeltildi: true
 konu: "Bakanlık ve Bağlı Kuruluşlarının Taşra Teşkilatlarının İşleyişi Hakkında Genelge konusundaki uygulama ve esasları bildirir."
 tarih: "2013-07-04"
 ocr: true
-kontrol_edildi: true
+sayfa_kontrol: "10547-ek4.pdf s.11"
 ---
 
 ### Hukuk Müşavirliği

@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10561/arsiv-hizmetleri-hakkinda-genelg
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – İdari ve Mali İşler Dairesi Başkanlığı
@@ -37,7 +38,7 @@ Bu nedenle, Kurum Arşivinin ilk önce fiziki durumu ve görünümünün düzelt
 
 Bilgilerinizi ve durumun hassasiyetle değerlendirilerek, Biriminizce bu güne kadar Kurum Arşivine devredilmiş olan evrakları konu, işlem ve içerik bakımından düzenleyerek yukarıda belirtildiği şekilde ayıklama çalışmaları neticesi arşivlenmesi için, Biriminiz hizmetleri hakkında (mümkünse her başkanlık için ayrı ayrı olmak üzere) yeterli bilgiye sahip iki (2) personel isminin çalışmaya esas gerekli planlamayı yapmak üzere 13.12.2000 tarihine kadar İdari ve Mali İşler Dairesi Başkanlığına bildirilmesi hususunda gereğini önemle rica ederim.
 
-Prof. Dr. Haluk TOKUÇOĞLU [?]  
+Prof. Dr. Haluk TOKUÇOĞLU  
 Bakan a.  
 Müsteşar
 

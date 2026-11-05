@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 820-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.834"
 ---
 
 7.2.7. Döner Sermaye İşletmesi Kapsamında Destekleyici Talebi ile Yürütülecek Çalışmalar ve Hizmetler Hakkında Yönerge

@@ -11,7 +11,7 @@ ocr: true
 tarih: "2024-07-17"
 sayi: "248902606"
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.923"
 ---
 
 ### SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARI İMZA YETKİLERİ YÖNERGESİ

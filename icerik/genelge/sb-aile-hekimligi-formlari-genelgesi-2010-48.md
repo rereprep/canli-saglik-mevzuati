@@ -8,6 +8,7 @@ konu: "Aile hekimliği uygulamasında kullanılan resmi izlem, tarama ve kayıt 
 etiketler: ["aile hekimliği", "izlem formları", "kayıt formu"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 503-503"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.517"
 ---
 
 6.3.9. Aile Hekimliği Formları Genelgesi (2010/48)

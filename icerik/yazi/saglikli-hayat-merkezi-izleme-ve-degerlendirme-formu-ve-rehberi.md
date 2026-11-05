@@ -12,19 +12,17 @@ kaynak_pdf_sayfa: "539-541"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "mevzuat-kitabi.pdf s.540, mevzuat-kitabi.pdf s.541"
 ---
 
 ## SAĞLIKLI HAYAT MERKEZİ İZLEME VE DEĞERLENDİRME FORMU VE REHBERİ
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı: 19831278/060.08
-
-Konu: Sağlıklı Hayat Merkezleri (SHM) İzleme ve Değerlendirme Formu ve Rehberi
+**Sayı :** 19831278/060.08  
+**Konu :** Sağlıklı Hayat Merkezleri (SHM) İzleme ve Değerlendirme Formu ve Rehberi  
 
 ### DAĞITIM YERLERİNE
 
@@ -46,27 +44,17 @@ hususlarında;
 
 Bilgilerini ve gereğini rica ederim.
 
-Doç. Dr. Fatih KARA
+Doç. Dr. Fatih KARA  
+Bakan a.  
+Genel Müdür  
 
-Bakan a.
+**EKLER:**  
+1- SHM İzleme ve Değerlendirme Formu (17 Sayfa)  
+2- SHM İzleme ve Değerlendirme Rehberi (128 Sayfa)  
 
-Genel Müdür
-
-Ek:
-
-1- SHM İzleme ve Değerlendirme Formu (17 Sayfa)
-
-2- SHM İzleme ve Değerlendirme Rehberi (128 Sayfa)
-
-Dağıtım:
-
-Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Bilgi: HSGM Daire Başkanlıklarına
-
-Halk Sağlığı Genel Müdürlüğü, İzleme Değerlendirme ve İstatistik Daire Başkanlığı, Sağlık Mahallesi A. Adnan Saygun 2 Caddesi No:55 Sıhhiye/ANKARA. Bilgi için: Münüre YILMAZ. Tel: (312) 565 51 61
-
-Belge Doğrulama Kodu: d38970fd-43da-4899-9ff7-c79316fd70a0. Belge Doğrulama Adresi: https://www.turkiye.gov.tr/saglik-bakanligi-ebys. Bu belge, güvenli elektronik imza ile imzalanmıştır.
+### DAĞITIM:
+**Gereği:** 81 İl Valiliğine (İl Sağlık Müdürlüğü)  
+**Bilgi:** HSGM Daire Başkanlıklarına
 
 ### SAĞLIKLI HAYAT MERKEZİ İZLEME VE DEĞERLENDİRME FORMU
 

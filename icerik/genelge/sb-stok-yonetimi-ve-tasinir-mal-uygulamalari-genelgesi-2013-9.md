@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 876-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.891"
 ---
 
 7.3.12. Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9)

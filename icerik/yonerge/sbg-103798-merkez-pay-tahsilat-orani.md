@@ -6,6 +6,7 @@ birim: "Strateji Geliştirme Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103798/merkez-pay-tahsilat-orani.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103798.pdf s.1"
 ---
 
 11.2.5. Merkez Pay Tahsilat Oranı

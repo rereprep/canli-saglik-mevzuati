@@ -1,6 +1,6 @@
 ---
 id: "sbg-11253-saglik-hizmeti-sunumunda-poliklinik-hizmetlerinin-hastalarin-hekimini"
-baslik: "Sağlık Hizmeti Sunumunda Poliklinik Hizmetlerinin Hastaların Hekimini Seçmesine Ve Değiştirmesine İmkân"
+baslik: "Sağlık Hizmeti Sunumunda Poliklinik Hizmetlerinin Hastaların Hekimini Seçmesine ve Değiştirmesine İmkân Verecek Şekilde Düzenlenmesi Hakkında Yönerge"
 tur: "yonerge"
 tarih: "2007-10-17"
 sayi: "B.10.0.THG.0.12.00.04.254.99/9379"
@@ -12,6 +12,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103574/genetik-veri-paylasimi-genelges
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103574.pdf s.1"
 ---
 
 2.3.49. Genetik Veri Paylaşımı Genelgesi (2021/14)

@@ -9,7 +9,7 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Mevcut ve yeni yapılacak sağlık tesislerinde uyulması gereken asgari teknik standartları belirler."
-kontrol_edildi: true
+sayfa_kontrol: "103624.pdf s.1"
 ---
 
 ## 5.3. GENELGELER

@@ -7,10 +7,11 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11169/tam-bugday-ekmeginin-tesviki-ve-ekmek-israfinin-onlenmesi-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
-tarih: "2013-03-20"
-sayi: "2013/02"
 konu: "Tam buğday ekmeği kullanımını teşvik etme ve ekmek israfını önleme çalışmalarını ister."
 duzeltildi: true
+sayi: "2013/3"
+tarih: "2013-03-04"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -37,4 +38,8 @@ Prof. Dr. Nihat TOSUN
 
 Bakan a.
 
-Müsteşar Dağıtım Bakanlık ve Bağlı Kurumları Birimleri (A Planı) Obezite, Diyabet ve Metabolik Hastalıklar Daire Başkanlığı Tel: (312) 565 61 37 Sağlık-1 sok. No: 38/B Sıhhiye/Ankara/Türkiye Faks:(312) 565 61 55
+Müsteşar
+
+### DAĞITIM:
+
+ Bakanlık ve Bağlı Kurumları Birimleri (A Planı) Obezite, Diyabet ve Metabolik Hastalıklar Daire Başkanlığı Tel: (312) 565 61 37 Sağlık-1 sok. No: 38/B Sıhhiye/Ankara/Türkiye Faks:(312) 565 61 55

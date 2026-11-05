@@ -8,10 +8,11 @@ birim: "Türkiye Halk Sağlığı Kurumu"
 konu: "Aile hekimliği uygulamasında gezici sağlık hizmeti planlaması, kapsama alma, güzergâh belirleme ve hak ediş ödemelerine ilişkin usul ve esaslar."
 etiketler: ["mobil-saglik", "mevzuat", "aile-hekimligi"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 558-564"
-kaynak_pdf_sayfa: 564
+kaynak_pdf_sayfa: "564-570"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.  

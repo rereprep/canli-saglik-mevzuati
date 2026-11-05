@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103598/replantasyon-uygulamalari-genel
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103598.pdf s.1"
 ---
 
 2.3.38. Replantasyon Uygulamaları Genelgesi (2016/9)

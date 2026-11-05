@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103794/ulusal-organ-ve-doku-nakli-koor
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103794.pdf s.1"
 ---
 
 2.2.14. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi

@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 294-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.308"
 ---
 
 2.3.63. Sağlık Personelinin İhtiyaç Halinde Çağrıya Uyması Genelgesi (2018/28)

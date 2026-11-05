@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103771/saglik-tesislerinde-mesai-disi-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103771.pdf s.1"
 ---
 
 # SAĞLIK TESİSLERİNDE MESAİ DIŞI SAĞLIK HİZMETİ SUNUMUNA YÖNELİK USUL VE ESASLAR

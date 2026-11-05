@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103603/tam-gun-yasasi-uygulamasi-genel
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103603.pdf s.1"
 ---
 
 2.3.25. Tam Gün Yasası Uygulaması Genelgesi (2014/8)

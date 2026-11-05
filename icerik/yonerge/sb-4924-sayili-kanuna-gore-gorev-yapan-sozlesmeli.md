@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 844-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.858"
 ---
 
 7.2.11. 4924 Sayılı Kanuna Göre Görev Yapan Sözleşmeli Personelin Hizmet Hedeflfleri ile Sözleşme Yenilenmesine İlişkin Usul ve Esaslar Mücbir sebepler dişında bir değerlendirme döneminde ilgili, belirlenen sonuç verme sürelerinden üç ve üzeri sonuç verme sürelerini aşması durumunda başarısız olarak değerlendirilir

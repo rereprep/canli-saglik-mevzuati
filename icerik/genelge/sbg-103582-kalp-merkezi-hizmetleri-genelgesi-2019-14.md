@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103582/kalp-merkezi-hizmetleri-genelge
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103582.pdf s.1"
 ---
 
 2.3.36. Kalp Merkezi Hizmetleri Genelgesi (2019/14)

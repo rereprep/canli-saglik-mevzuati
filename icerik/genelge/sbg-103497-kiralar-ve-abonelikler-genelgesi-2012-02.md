@@ -2,6 +2,7 @@
 id: "sbg-103497-kiralar-ve-abonelikler-genelgesi-2012-02"
 baslik: "Kiralar ve Abonelikler Genelgesi (2012/02)"
 tur: "genelge"
+tarih: "2012-06-13"
 sayi: "2012/02"
 birim: "Türkiye Halk Sağlığı Kurumu Başkanlığı"
 konu: "Halk sağlığı birimlerinin kira, su, elektrik, doğalgaz ve telefon aboneliklerinin devri ve giderlerinin karşılanmasını düzenler."
@@ -10,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103497/kiralar-ve-abonelikler-genelges
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

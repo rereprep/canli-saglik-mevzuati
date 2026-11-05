@@ -1,6 +1,6 @@
 ---
 id: "sbg-11261-verem-savasi-daresi-baskanliginca-olusturulacak-danisma-kurullarinin-k"
-baslik: "Verem Savaşı Daresi Başkanlığınca Oluşturulacak Danışma Kurullarının Kuruluş ve Görevleri ile Çalışma"
+baslik: "Verem Savaşı Dairesi Başkanlığınca Oluşturulacak Danışma Kurullarının Kuruluş ve Görevleri ile Çalışma Usul ve Esasları Yönergesi"
 tur: "yonerge"
 tarih: "2009-05-13"
 sayi: "B.10.0.VSD.0.00.00.06-415.03/1997"
@@ -12,6 +12,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

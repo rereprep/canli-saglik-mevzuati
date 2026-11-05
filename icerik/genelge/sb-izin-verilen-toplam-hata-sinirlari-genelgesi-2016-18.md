@@ -8,6 +8,7 @@ konu: "Tıbbi laboratuvarlarda yapılan klinik analizlerde izin verilen toplam h
 etiketler: ["laboratuvar", "hata sınırları", "kalite kontrol"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 281-281"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.295"
 ---
 
 2.3.55. İzin Verilen Toplam Hata Sınırları Genelgesi (2016/18)

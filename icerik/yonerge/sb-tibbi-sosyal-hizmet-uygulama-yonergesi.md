@@ -11,6 +11,7 @@ ocr: true
 tarih: "2011-02-16"
 sayi: "7465"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.111"
 ---
 
 2.2.12. Tıbbi Sosyal Hizmet Uygulama Yönergesi

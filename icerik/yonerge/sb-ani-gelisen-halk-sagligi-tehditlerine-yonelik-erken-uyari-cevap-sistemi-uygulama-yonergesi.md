@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 461-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.475"
 ---
 
 6.2.5. Ani Gelişen Halk Sağlığı Tehditlerine Yönelik Erken Uyarı Cevap Sistemi Uygulama Yönergesi

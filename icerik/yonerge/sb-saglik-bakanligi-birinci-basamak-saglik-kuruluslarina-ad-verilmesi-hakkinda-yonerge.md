@@ -11,6 +11,7 @@ ocr: true
 tarih: "2019-05-15"
 sayi: "8271140-020-652"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.470"
 ---
 
 6.2.4. Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge

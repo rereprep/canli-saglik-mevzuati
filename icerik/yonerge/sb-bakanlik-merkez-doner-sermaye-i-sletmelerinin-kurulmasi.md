@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1073
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1087"
 ---
 
 11.2.6. Bakanlık Merkez Döner Sermaye İşletmelerinin Kurulması ve İşletilmesi Hakkında Yönerge

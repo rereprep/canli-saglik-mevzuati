@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11275/toplum-sagligi-merkezlerinin-kur
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

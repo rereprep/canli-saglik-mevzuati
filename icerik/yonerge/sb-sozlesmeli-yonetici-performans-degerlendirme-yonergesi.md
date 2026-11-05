@@ -11,6 +11,7 @@ ocr: true
 tarih: "2018-05-18"
 sayi: "362"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.955"
 ---
 
 9.2.4. Sözleşmeli Yönetici Performans Değerlendirme Yönergesi

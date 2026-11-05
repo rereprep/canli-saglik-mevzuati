@@ -11,13 +11,36 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103502/kizamikkizamikcik-ve-konjenital
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 
 
-### T.C. SAĞLIK BAKANLIĞI TSE-ISO-EN K-O
+### T.C. SAĞLIK BAKANLIĞI
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Temel Sağlık Hizmetleri Genel Müdürlüğü 9000 Sayı: Konu:
+Sayı : B100TSH01105 / 18617
+Konu : Kızamık/Kızamıkçık ve Konjenital Kızamıkçık Sendromu (KKS) Sürveyansı Genelgesi
+
+01 Nisan 2010
+
+### GENELGE
+2010/20
+
+Türkiye'de kızamığa bağlı morbidite ve mortalitenin yüksekliği ve Dünyada ve Avrupa bölgesinde son yıllarda kaydedilen gelişmeler ve deneyimler de göz önüne alınarak, 2002-2010 yıllarını kapsayan Kızamık ve Kızamıkçığın Eliminasyonu ve KKS'nin Önlenmesi Programı hazırlanmıştır. Programın amacı Türkiye'de kızamık ve kızamıkçık hastalıklarını elimine etmek, KKS'yi önlemek ve bu düzeyleri sürdürmektir. 2002 yılında %82 olan kızamık aşılama hızı, yürütülen başarılı bağışıklama çalışmalarıyla 2009 yılında %97'ye yükselmiştir. Hedefimiz, 2010 yılı sonuna kadar Türkiye'de yerli virüs geçişini durdurmak, 2010 yılından sonra Türkiye dışından gelecek yeni kızamık virüslerinin Türkiye'de yerleşmesini önlemek ve kızamığa bağlı ölümleri engellemektir.
+
+Programın temel stratejilerinden biri de destek aşılama çalışması sonrasında kızamık insidansının azalması ile vaka bazında, laboratuvar destekli kızamık sürveyansına geçilmesi ve akut flask paralizi sürveyansına entegre edilmiş haftalık aktif sürveyansın oluşturulması olarak belirlenmiştir. "Kızamık Eliminasyon Programı, Kızamık Saha Rehberi"nde laboratuvar destekli ve vaka bazlı kızamık sürveyansı kuralları belirlenmiştir. 2005 yılında da Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi Yönergesi ile laboratuvar destekli standart vaka tanımları yapılarak bildirimin kuralları belirlenmiştir.
+
+Programın stratejik hedeflerine uygun olarak rutin aşılama hızının %95'in üzerinde olması ve destek aşılama çalışmalarının başarıyla tamamlanması sonucunda kızamık vaka sayımız da giderek azalmış, 2001 yılında 30.509 iken, 2009 yılında 4'e (3 importe, 1 importe vaka ile ilişkili vaka) kadar düşmüştür. Böylece eliminasyon dönemine geçilerek importasyonun engellenmesi giderek daha da ön plana çıkan bir hedef haline gelmiştir. Eliminasyon döneminde yürütülecek sürveyansa özgü bazı farklılıklar bulunmaktadır.
+
+Eliminasyon döneminde, kızamık sürveyansı stratejilerimiz şunlardır:
+a. Rutin bildirimlerin tam, zamanında, doğru ve tutarlı olmasının sağlanması,
+b. Aktif sürveyans yürütülmesi,
+c. Vaka bazında, laboratuvar destekli sürveyansın sürdürülmesi,
+d. Aşı sonrası istenmeyen etki sürveyansı ile bağışıklama güvenliğinin izlenmesi,
+e. Rutin bağışıklama hızlarıyla programın sürekli izlenmesi ve değerlendirilmesi,
+f. Salgınların erken saptanması, incelenmesi, doğrulanması ve elde edilen verilerin salgınların kontrolü ve önlenmesi stratejilerini belirlenmesinde kullanılması ve gerekiyorsa seroprevalans araştırmaları ile hassas nüfus birikimine ilişkin bilgi sağlanması,
+g. Vaka ve salgın doğrulaması için oluşturulmuş olan bir laboratuvar ağının geliştirilmesidir.
 
 Türkiye'de kızamık sürveyansının eliminasyon hedefine ulaşıldığının kanıtlanması ve olası bir salgının erken tespiti ve etkin salgın yanıtı ile kontrol altına alınmasını sağlamak amacıyla yeniden düzenlenmiş olan ve sürveyansın il düzeyinde yürütülmesi sırasında uyulması gereken kuralları içeren Daimi Genelge ekte gönderilmektedir. Bu Daimi Genelge yayınlandığı tarihte
 

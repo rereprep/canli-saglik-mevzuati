@@ -12,16 +12,17 @@ kaynak_pdf_sayfa: "542-544"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "mevzuat-kitabi.pdf s.543, mevzuat-kitabi.pdf s.544"
 ---
 
 ## GÖÇMEN SAĞLIĞI MERKEZİ İZLEME VE DEĞERLENDİRME FORMU VE REHBERİ
 
-T.C.
-SAĞLIK BAKANLIĞI
-Halk Sağlığı Genel Müdürlüğü
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-Sayı: 19831278/060.08
-Konu: Göçmen Sağlığı Merkezi (GSM) İzleme ve Değerlendirme Formu ve Rehberi
+**Sayı :** 19831278/060.08  
+**Konu :** Göçmen Sağlığı Merkezi (GSM) İzleme ve Değerlendirme Formu ve Rehberi  
 
 ### DAĞITIM YERLERİNE
 
@@ -41,21 +42,17 @@ hususlarında;
 
 Bilgilerini ve gereğini rica ederim.
 
-Doç. Dr. Fatih KARA
-Bakan a.
-Genel Müdür
+Doç. Dr. Fatih KARA  
+Bakan a.  
+Genel Müdür  
 
-Ek:
-1. GSM İzleme ve Değerlendirme Formu (17 Sayfa)
-2. GSM İzleme ve Değerlendirme Rehberi (136 Sayfa)
+**EKLER:**  
+1. GSM İzleme ve Değerlendirme Formu (17 Sayfa)  
+2. GSM İzleme ve Değerlendirme Rehberi (136 Sayfa)  
 
-Dağıtım:
-
-Gereği:
-81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Bilgi:
-HSGM Daire Başkanlıklarına
+### DAĞITIM:
+**Gereği:** 81 İl Valiliğine (İl Sağlık Müdürlüğü)  
+**Bilgi:** HSGM Daire Başkanlıklarına
 
 ### GÖÇMEN SAĞLIĞI MERKEZİ İZLEME VE DEĞERLENDİRME FORMU
 

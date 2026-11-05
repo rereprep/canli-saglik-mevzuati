@@ -11,7 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103606/tibbi-laboratuvarlarda-numune-s
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103606.pdf s.1"
 ---
 
 2.3.56. Tıbbi Laboratuvarlarda Numune Saklama Süreleri, Gözetimli Hizmet Laboratuvarları Kapsamındaki Testler Genelgesi (2014/4)

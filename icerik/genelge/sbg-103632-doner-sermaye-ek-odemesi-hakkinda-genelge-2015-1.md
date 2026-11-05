@@ -10,7 +10,7 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Döner sermaye ek ödemesi uygulamasına ilişkin açıklamaları düzenler."
-kontrol_edildi: true
+sayfa_kontrol: "103632.pdf s.1"
 ---
 
 9.3.12. Döner Sermaye Ek Ödemesi Hakkında Genelge (2015/1)

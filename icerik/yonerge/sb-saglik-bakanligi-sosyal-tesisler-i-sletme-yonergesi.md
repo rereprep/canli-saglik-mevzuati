@@ -11,6 +11,7 @@ ocr: true
 tarih: "2020-01-24"
 sayi: "955"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.945"
 ---
 
 9.2.2. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi

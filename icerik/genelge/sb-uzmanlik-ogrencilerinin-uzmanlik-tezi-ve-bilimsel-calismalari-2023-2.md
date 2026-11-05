@@ -8,6 +8,7 @@ konu: "Uzmanlık Öğrencilerinin Uzmanlık Tezi ve Bilimsel Çalışmaları Gen
 etiketler: ["kamu hastaneleri", "tıpta uzmanlık", "asistan hekim"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 858-858"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.872"
 ---
 
 7.3.3. Uzmanlık Öğrencilerinin Uzmanlık Tezi ve Bilimsel Çalışmaları Genelgesi (2023/2)

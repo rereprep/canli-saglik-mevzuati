@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103585/kan-numunelerinde-etanol-analiz
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103585.pdf s.1"
 ---
 
 2.3.51. Kan Numunelerinde Etanol Analizi İşlemlerinin Usul ve Esasları Genelgesi (2017/12)

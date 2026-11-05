@@ -11,7 +11,7 @@ durum: "yürürlükte"
 ocr: true
 sayi: "719"
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.375"
 ---
 
 ### SAĞLIK BAKANLIĞI YENİ ELEKTRONİK BELGE YÖNETİM SİSTEMİ YÖNERGESİ

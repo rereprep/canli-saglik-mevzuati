@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11184/sagliknet-online-ve-e-nabiz-hakk
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

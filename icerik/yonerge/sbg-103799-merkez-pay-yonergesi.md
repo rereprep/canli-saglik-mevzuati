@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103799/merkez-pay-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103799.pdf s.1"
 ---
 
 11.2.4. Merkez Pay Yönergesi

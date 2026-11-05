@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 310-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.324"
 ---
 
 3.2.2. İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Özel Merkezlerde Çalışmasına İlişkin Usul ve Esaslar Hakkında Yönerge

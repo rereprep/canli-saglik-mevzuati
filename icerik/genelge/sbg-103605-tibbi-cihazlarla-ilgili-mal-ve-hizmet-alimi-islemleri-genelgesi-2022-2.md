@@ -10,7 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103605/tibbi-cihazlarla-ilgili-mal-ve-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103605.pdf s.1"
 ---
 2.3.30. Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri Genelgesi (2022/2)
 

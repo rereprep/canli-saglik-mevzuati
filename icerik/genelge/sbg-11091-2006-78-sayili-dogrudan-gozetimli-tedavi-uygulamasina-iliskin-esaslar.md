@@ -9,6 +9,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11091/200678-sayili-dogrudan-gozetimli
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+tarih: "2006-07-06"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -55,6 +57,6 @@ Bakan a.
 
 Müsteşar
 
-### DAGITIM:
+### DAĞITIM:
 
 81 Il Valiliğine

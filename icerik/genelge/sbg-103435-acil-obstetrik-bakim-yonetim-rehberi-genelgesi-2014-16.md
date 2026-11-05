@@ -7,6 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103435/acil-obstetrik-bakim-yonetim-rehberi-genelgesi-201416.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103435.pdf s.1"
 ---
 
 6.3.62. Acil Obstetrik Bakım Yönetim Rehberi Genelgesi (2014/16)

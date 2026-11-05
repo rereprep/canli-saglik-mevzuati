@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103796/bakanlik-merkez-doner-sermaye-i
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103796.pdf s.1"
 ---
 
 11.2.6. Bakanlık Merkez Döner Sermaye İşletmelerinin Kurulması ve İşletilmesi Hakkında Yönerge

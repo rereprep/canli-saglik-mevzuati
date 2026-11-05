@@ -11,6 +11,7 @@ ocr: true
 tarih: "2019-10-25"
 sayi: "5201"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.47"
 ---
 
 2.2.5. Sağlık Teknolojileri Değerlendirme Yönergesi

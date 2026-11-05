@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 18-1
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.32"
 ---
 
 2.2.2. Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergede Değişiklik Yapılmasına Dair Yönerge

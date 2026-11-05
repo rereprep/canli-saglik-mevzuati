@@ -8,6 +8,7 @@ konu: "İdrar numunelerinde uyuşturucu ve kötüye kullanılan madde analizi ya
 etiketler: ["madde analizi", "doğrulama laboratuvarı", "toksikoloji"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 282-282"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.296"
 ---
 
 22.3.3.5.566..İİddrraarrNNuummuunneelleerrininddeeYYaassaaddışışııvveeKKööttüüyyeeKKuullllaannılılaannİİllaaççvvee MMaaddddeeAAnnaalliziziiYYaappaannDDooğğrruullaammaaLLaabbaorraattuuvvaarrllaarrınınınınÇÇaallışışmmaaUUssuull vveeEEssaassllaarrııHHaakkkkınınddaaGGeenneellggee((22001155//1144))

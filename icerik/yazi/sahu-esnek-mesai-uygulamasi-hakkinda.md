@@ -7,26 +7,25 @@ tarih: "2020-01-06"
 sayi: "49654233-772.99"
 birim: "Halk Sağlığı Genel Müdürlüğü, Toplum Sağlığı Hizmetleri ve Eğitim Dairesi Başkanlığı"
 etiketler: ["uzmanlik-egitimi", "mevzuat"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 574-574"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 574"
 kaynak_pdf_sayfa: "580"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## SAHU ESNEK MESAİ UYGULAMASI HAKKINDA
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-SAĞLIK BAKANLIĞI
+**Sayı :** 49654233-772.99  
+**Konu :** SAHU Esnek Mesai Hakkında  
 
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı: 49654233-772.99
-
-Konu: SAHU Esnek Mesai Hakkında
-
-### DENİZLİ VALİLİĞİNE (İl Sağlık Müdürlüğü)
+### DENİZLİ VALİLİĞİNE  
+(İl Sağlık Müdürlüğü)
 
 İlgi: 18/11/2019 tarihli ve 64472473-799-997 sayılı yazı.
 
@@ -38,14 +37,7 @@ Yukarıdaki mevzuat hükümleri dikkate alındığında eğitim programlarının
 
 Bilgilerini ve gereğini rica ederim.
 
-e-imzalıdır.
-
-Uzm. Dr. Muhammet ÇÖMÇE
-
-Bakan a.
-
+e-imzalıdır.  
+Uzm. Dr. Muhammet ÇÖMÇE  
+Bakan a.  
 Genel Müdür Yardımcısı
-
-HSGM Tolum Sağlığı Hizmetleri ve Eğitim Dairesi Başkanlığı, Sağlık Mahallesi, A. Adnan Saygun 2 Caddesi No:55 N Blok Giriş Kat No: 14 Çankaya/ANKARA. Telefon: 312 565 5854. Faks No: 3125655975. E-Posta: mursel.batga@thsk.gov.tr. Bilgi için: Mürsel BATGA, Sağlık Memuru. Telefon No: 312 565 5850
-
-Belge Doğrulama Kodu: ffbaa396-eeaf-4909-89f9-312a6b64178e. Belge Doğrulama Adresi: https://www.turkiye.gov.tr/saglik-bakanligi-ebys. Bu belge, güvenli elektronik imza ile imzalanmıştır.

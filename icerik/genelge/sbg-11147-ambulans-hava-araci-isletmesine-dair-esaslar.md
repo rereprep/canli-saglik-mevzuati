@@ -7,10 +7,12 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11147/ambulans-hava-araci-isletmesine-dair-esaslar.html"
 durum: "yürürlükte"
 ocr: true
-tarih: "2010-04-21"
-sayi: "B.10.0.TSH.0.16.08"
 konu: "Ambulans helikopter ve uçaklarının işletilmesi ile görevlendirilme usullerini düzenler."
 duzeltildi: true
+kontrol_edildi: true
+sayi: "2010/24"
+tarih: "2010-04-21"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -38,9 +40,7 @@ Bu Genelgenin ilinizde bulunan komuta kontrol merkezi, 112 istasyonları, resmi 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
 Seraceddin ÇOM
-
 Bakan a.
-
 Genel Müdür V. Hava Ambulans Operasyon Merkezi Telefonları: Telefon: 0312 585 14 34, 0312 585 14 35, 0312 435 77 48, 0312 433 09 63 Faks: 0312 435 73 13 Uydu telefonu:88 216 611 04 192, 88 216 611 04 192
 
 ### DAĞITIM:

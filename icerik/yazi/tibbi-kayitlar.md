@@ -7,24 +7,22 @@ tarih: "2018-08-31"
 sayi: "99858683-719"
 birim: "Halk Sağlığı Genel Müdürlüğü, Aile Hekimliği Dairesi Başkanlığı"
 etiketler: ["mevzuat", "birinci-basamak"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 582-582"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 582"
 kaynak_pdf_sayfa: "588"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## TIBBİ KAYITLAR
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı: 99858683-719
-
-Konu: Tıbbi Kayıtlar
+**Sayı :** 99858683-719  
+**Konu :** Tıbbi Kayıtlar  
 
 ### DAĞITIM YERLERİNE
 
@@ -40,18 +38,10 @@ Bu kapsamda özellikle aile sağlığı elemanlarının yaptığı iş ve işlem
 
 Bilgilerinizi ve gereğini arz/rica ederim.
 
-Dr. Hüseyin İLTER
+Dr. Hüseyin İLTER  
+Bakan a.  
+Genel Müdür  
 
-Bakan a.
-
-Genel Müdür
-
-### DAĞITIM
-
-Gereği: 81 İl Valiliği (İl Sağlık Müdürlüğü)
-
-Bilgi: Sağlık Bilgi Sistemleri Genel Müdürlüğü
-
-Bilgi için: İlhami AKKUŞ, Uzman Yardımcısı. Faks No: 0 (312) 565 59 81
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden [?] kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır.
+### DAĞITIM:
+**Gereği:** 81 İl Valiliği (İl Sağlık Müdürlüğü)  
+**Bilgi:** Sağlık Bilgi Sistemleri Genel Müdürlüğü

@@ -8,6 +8,7 @@ konu: "MHRS Genelgesi (2021/12) uyarınca yürütülecek sağlık hizmetleri ve 
 etiketler: ["kamu hastaneleri", "mhrs", "randevu sistemi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 859-859"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.873"
 ---
 
 7.3.4. MHRS Genelgesi (2021/12)

@@ -11,6 +11,7 @@ ocr: true
 tarih: "2020-09-02"
 sayi: "4145"
 duzeltildi: true
+sayfa_kontrol: "103781.pdf s.1"
 ---
 
 T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü

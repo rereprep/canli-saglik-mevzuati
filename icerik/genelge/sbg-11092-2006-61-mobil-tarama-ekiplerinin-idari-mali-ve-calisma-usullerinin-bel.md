@@ -10,6 +10,8 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+tarih: "2006-05-24"
+kontrol_edildi: true
 ---
 
 ### ACELE
@@ -85,8 +87,6 @@ iv) Yerinde yapılmış taramalar hemen takip eden günde Verem Savaş Dispanser
 5) Verem Savaş Grup Başkanlıklarının devredilmiş olduğu 12 İl Sağlık Müdürlüğü dışında, iş yükü ve kapasite itibari ile Mobil Tarama Ekipleri oluşturmaya müsait illerde de, Valiliğin teklifi Bakanlık Makamının oluru ile, Mobil Tarama Ekipleri oluşturulabilecektir.
 
 Bilgilerinizi ve Genelge hükümlerinin titizlikle uygulanması hususunda gereğini önemle rica ederim.
-
-anmè
 
 Prof. Dr. Necdet ÜNÜVAR
 

@@ -11,6 +11,8 @@ tarih: "2012-12-27"
 sayi: "2012/48"
 konu: "2013 yılı organ nakli merkezi lisans planlamasını ve başvuru koşullarını belirler."
 duzeltildi: true
+tarih: "2012-12-25"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -77,7 +79,7 @@ süre bitimine kadar Organ Nakli Merkezleri Yönergesindeki gerekli yeterlilikle
 
 İşbu Genelgenin yürürlüğe girmesi ile 2012/46 sayılı Genelge iptal edilmiştir. İlinizde faaliyet göstermekte olan devlete ait üniversite hastaneleri, eğitim ve araştırma hastaneleri ve devlet hastaneleri, eğitim yetkisi almış vakıf üniversitesi tıp fakültesi hastaneleri ve özel hastanelerden bildirilen başvuruların Bakanlığımıza iletilmesi hususunda,
 
-Gereğini bilgilerinize rica ederim.
+Bilgilerinizi ve gereğini rica ederim.
 
 Prof. Dr. Nihat TOSUN
 

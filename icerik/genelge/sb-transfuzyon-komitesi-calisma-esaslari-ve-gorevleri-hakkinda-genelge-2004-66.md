@@ -8,6 +8,7 @@ konu: "Yataklı sağlık tesislerinde transfüzyon komitelerinin kuruluşu, gör
 etiketler: ["transfüzyon komitesi", "kan güvenliği", "yataklı tedavi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 178-178"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.192"
 ---
 
 2.3.17. Transfüzyon Komitesi Çalışma Esasları ve Görevleri Hakkında Genelge (2004/66)

@@ -11,6 +11,7 @@ ocr: true
 tarih: "2020-08-14"
 sayi: "967"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.41"
 ---
 
 2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge

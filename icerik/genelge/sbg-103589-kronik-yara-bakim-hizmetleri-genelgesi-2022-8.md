@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103589/kronik-yara-bakim-hizmetleri-ge
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103589.pdf s.1"
 ---
 
 2.3.21. Kronik Yara Bakım Hizmetleri Genelgesi (2022/8)

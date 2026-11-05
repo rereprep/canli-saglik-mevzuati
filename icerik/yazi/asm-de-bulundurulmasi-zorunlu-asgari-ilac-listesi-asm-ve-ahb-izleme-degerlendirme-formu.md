@@ -12,7 +12,7 @@ kaynak_pdf_sayfa: "483-497"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "mevzuat-kitabi.pdf s.483, mevzuat-kitabi.pdf s.490, mevzuat-kitabi.pdf s.497"
 ---
 
 ## ASM’DE BULUNDURULMASI ZORUNLU ASGARİ İLAÇ LİSTESİ, ASM VE AHB İZLEME DEĞERLENDİRME FORMU

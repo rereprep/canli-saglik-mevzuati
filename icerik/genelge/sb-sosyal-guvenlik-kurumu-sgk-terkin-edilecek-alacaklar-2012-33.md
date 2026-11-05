@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1100
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1114"
 ---
 
 11.3.9. Sosyal Güvenlik Kurumu (SGK) Terkin Edilecek Alacaklar Genelgesi (2012/33)

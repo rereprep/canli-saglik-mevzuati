@@ -11,6 +11,7 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.852"
 ---
 
 7.2.9. Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge Değişikliği

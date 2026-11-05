@@ -8,9 +8,14 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11289/merkezi-hekim-randevu-sistemi-ca
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-## MERKEZİ HEKİM RANDEVU SİSTEMİ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+## MERKEZİ HEKİM RANDEVU SİSTEMİ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE
+
+### BİRİNCİ BÖLÜM
+
+### Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç ve kapsam
 
@@ -26,7 +31,7 @@ b) ASM: Aile sağlığı merkezlerini,
 
 c) Bakanlık: Sağlık Bakanlığını,
 
-c) HBYS: Hastane Bilgi Yönetim Sistemini,
+ç) HBYS: Hastane Bilgi Yönetim Sistemini,
 
 ç) Hekim çalışma cetveli: Bir hekimin çalışma zamanının tamamını ihtiva eden çalışma programını,
 
@@ -34,13 +39,13 @@ d) HSGM: Halk Sağlığı Genel Müdürlüğünü,
 
 e) KHGM: Kamu Hastaneleri Genel Müdürlüğünü,
 
-g) MHRS: Merkezi Hekim Randevu Sistemini,
+f) MHRS: Merkezi Hekim Randevu Sistemini,
 
-ğ) Sağlık tesisi: Sağlık Bakanlığına bağlı, ikinci ve üçüncü basamak sağlık kurumları ile ağız ve diş sağlığı merkezlerini ve hastanelerini,
+g) Sağlık tesisi: Sağlık Bakanlığına bağlı, ikinci ve üçüncü basamak sağlık kurumları ile ağız ve diş sağlığı merkezlerini ve hastanelerini,
 
-h) SBSGM: Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
+ğ) SBSGM: Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
 
-1) TSM: Toplum sağlığı merkezlerini, ifade eder.
+ı) TSM: Toplum sağlığı merkezlerini, ifade eder.
 
 ### İKİNCI BÖLÜM MHRS Hizmetlerinin Merkezi Koordinasyonu
 

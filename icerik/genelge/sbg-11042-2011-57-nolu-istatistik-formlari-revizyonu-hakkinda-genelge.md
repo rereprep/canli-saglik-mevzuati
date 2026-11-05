@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11042/201157-nolu-istatistik-formlari-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Tedavi Hizmetleri Genel Müdürlüğü

@@ -10,7 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103620/sosyal-guvenlik-kurumu-sgk-terk
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103620.pdf s.1"
 ---
 
 11.3.9. Sosyal Güvenlik Kurumu (SGK) Terkin Edilecek Alacaklar Genelgesi (2012/33)

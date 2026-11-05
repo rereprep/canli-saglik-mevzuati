@@ -1,0 +1,53 @@
+=== mevzuat-kitabi.pdf PDF sayfa 584 ===
+E-NABIZ AILE HEKİMİ DEĞIŞTİRME EKRANI BILGİLERİNİN ÇKYS VE CBS ÜZERİNDEN
+EKSİKSİZ DOLDURULMASI
+T.C
+SAĞLIK BAKANLIĞI
+00063878096
+Halk Sağlığı Genel Müdürlüğü
+TC. SagM Bakanlig
+: 99858683-708.01
+Sayı
+: E-Nabız Aile Hekimi Değiştirme Ekranı Bilgilerinin
+Konu
+ÇKYS ve CBS Uzerinden Eksiksiz Doldurulması
+.... VALILIGINE
+(Il Sağlık Müdürlüğii)
+Aile hekimliği uygulamasının kullanımının teşviki ve aile hekimine erişimi
+kolaylaştırmak amacıyla güncel teknolojik altyapı değerlendirilerek kişilerin e-devlet veya
+e-Nabız sistemleri üzerinden aile hekimini değiştirmesine imkän veren düzenleme yapılmış ve
+kullanıma sunulmuştur. Söz konusu uygulamada kişilere seçtikleri bölgedeki aile sağlığı
+merkezleri (ASM), aile hekimliği birimleri (AHB) ile bunların nüfuslarına ilişkin bilgiler
+verilmekte olup, yönlendirmeler ile kendılerine en yakın ve nüfusu en uygun hekımi tercih
+etmeleri teşvik edilmektedır. Aile hekımlığı değiştırme ekranında açılan harıtada yer alan AHB
+bilgileri Bakanlığımız ve taşra teşkilatımızca da kullanılan Çekirdek Kaynak Yönetim Sistemi
+(ÇKYS), Coğrafi Bilgi Sistemi (CBS) veya Mekânsal Iş Zekâsı (MIZ) üzerinden alınmakta
+olup, bu bilgilerin güncel ve eksiksiz olması önem arz etmektedir.
+Bu kapsamda aile hekimliği hizmetlerinin kullanımın teşviki ve sunulan hizmetlere
+eşit erişim amacıyla;
+1 - e-Nabız sisteminin kullanımının yaygınlaştırılması için öncelikle aile hekimlerimizin
+kendilerine kayıtlı kişilere geçici e-Nabız şifresi verme konusunda bilinçlendirilmesi,
+2 - ASM ve AHB bilgilerinin eksik/hatalı olması dunumunda e-Nabız sistemine girerek
+alle hekımi değiştirmek isteyen kışilerin bırimleri harita üzerinde görememesi veya yanlış yerde
+görmesinin aile hekimi seçimini etkilemesi ve hizmete eşit erişim ilkesini zedelemesi sonucunu
+doğuracağından, Müdürlüğünüzün ilgili birimlerince ilgili sistemler üzerinden ASM ve AHB
+bilgilerinin (koordinat, adres, bağlı bulunduğu hiyerarşik birim, kayıt olmak isteyen kişi ile
+paylaşılabilecek telefon numarası gibi) eksiksiz/hatasız olarak girilmesi ve girilen bilgilerin
+e-Nabız üzerinden kontrol edilmesi,
+3 - Herhangi bir teknik aksaklıkla karşılaşıldığında Bakanlığımız yazılım destek sistemi
+( yazilimdestek: saglik. gov.tr internet adresi veya 0312 2485151 telefon numarası üzerinden) ile
+planlama ve mevzuata ilişkin tereddüte düştülen konular hakkında ise Genel Müdürlüğümüz
+ilgili birimleriyle irtibata geçilmesi hususunda;
+Gereğini rica ederim.
+Dr. Hüseyin İLTER
+Bakan a.
+Genel Müdür
+Dağıtım:
+Bilgi:
+Gereği:
+Sağlık Bilgi Sistemleri Genel Müdürlüğü
+81 Il Valiliği (Il Sağlık Müdürlüğü)
+Evrakun elektronik imzalı suretine http://e-belge saglik gov .tr adresinden 50622541-8496-4425-bb67-4967 deSbe636 kodu le erişebilirsiniz
+Sağla Mah est Adnai Sayun y Cin No 33 010 Shye Arkanik ina ile inzalarmustr
+Bilgi için: hami AKKUŞ
+578

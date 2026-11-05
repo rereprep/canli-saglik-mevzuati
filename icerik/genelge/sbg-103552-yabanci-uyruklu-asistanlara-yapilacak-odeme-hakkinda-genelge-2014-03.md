@@ -10,6 +10,7 @@ durum: "yürürlükte"
 konu: "Yabancı Uyruklu Asistanlara Yapılacak Ödeme Hakkında Genelge (2014/03) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103552.pdf s.1"
 ---
 
 7.3.9. Yabancı Uyruklu Asistanlara Yapılacak Ödeme Hakkında Genelge (2014/03)

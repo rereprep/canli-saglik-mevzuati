@@ -11,9 +11,8 @@ duzeltildi: true
 konu: "Kan Yoluyla Bulaşan Hastalıkların Önlenmesi Genelgesi (2002/109) konusundaki uygulama ve esasları bildirir."
 tarih: "2002-10-16"
 ocr: true
+sayfa_kontrol: "103494-ek1.pdf s.1"
 ---
-
-6.3.23. Kan Yoluyla Bulaşan Hastalıkların Önlenmesi Genelgesi (2002/109)
 
 Ülkemizde erkek berberlerinde, kadın kuaförlerinde ve manikür-pedikür salonlarındaki yanlış ve bilinçsiz uygulamalar kan yoluyla bulaşan (Hepatit B, Hepatit C, HIV/AIDS enfeksiyonu, …) bir takım hastalıkların kişiden kişiye bulaşmasına, dolayısıyla bu hastalıkların yayılmasına ve kontrolünün zorlaşmasına neden olmaktadır.
 
@@ -41,4 +40,7 @@ Doç. Dr. Sefer AYCAN
 
 Bakan a.
 
-Müsteşar Dağıtım: A Planıı
+Müsteşar
+
+### DAĞITIM:
+A Planı

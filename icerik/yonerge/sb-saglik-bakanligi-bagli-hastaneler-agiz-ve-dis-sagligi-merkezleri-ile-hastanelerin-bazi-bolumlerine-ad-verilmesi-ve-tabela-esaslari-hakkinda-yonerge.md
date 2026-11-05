@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 20-2
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.34"
 ---
 
 2.2.3. Sağlık Bakanlığı Bağlı Hastaneler, Ağız ve Diş Sağlığı Merkezleri ile Hastanelerin Bazı Bölümlerine Ad Verilmesi ve Tabela Esasları Hakkında Yönerge

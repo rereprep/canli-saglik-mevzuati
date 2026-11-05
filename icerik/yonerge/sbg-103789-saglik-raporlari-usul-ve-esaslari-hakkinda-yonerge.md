@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103789/saglik-raporlari-usul-ve-esasla
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103789.pdf s.1"
 ---
 
 2.2.6.Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;

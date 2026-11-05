@@ -2,6 +2,7 @@
 id: "sbg-103506-kutanoz-leishmaniasis-genelgesi-2003-126"
 baslik: "Kutanöz Leishmaniasis Genelgesi (2003/126)"
 tur: "genelge"
+tarih: "2003-10-24"
 sayi: "2003/126"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kutanöz Leishmaniasis (şark çıbanı) hastalığının tespiti, tedavisi, ilaç temini ve vektör mücadelesi usullerini düzenler."
@@ -10,9 +11,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103506/kutanoz-leishmaniasis-genelgesi
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-6.3.19. Kutanöz Leishmaniasis Genelgesi (2003/126)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü

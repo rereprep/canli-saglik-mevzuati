@@ -7,6 +7,7 @@ birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103609/uks-ve-organ-nakli-merkezleri-yonergesinde-yer-alan-takip-formlari-hakkinda-genelge-201225.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103609.pdf s.1"
 ---
 
 2.3.30. UKS ve Organ Nakli Merkezleri Yönergesi’nde Yer Alan Takip Formları Hakkında Genelge (2012/25)

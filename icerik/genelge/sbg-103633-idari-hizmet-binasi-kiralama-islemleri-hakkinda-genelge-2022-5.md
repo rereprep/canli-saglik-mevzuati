@@ -10,7 +10,7 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "İdari hizmet binası kiralama işlemlerinin usul ve esaslarını belirler."
-kontrol_edildi: true
+sayfa_kontrol: "103633.pdf s.1"
 ---
 
 9.3.4. İdari Hizmet Binası Kiralama İşlemleri Hakkında Genelge (2022/5)

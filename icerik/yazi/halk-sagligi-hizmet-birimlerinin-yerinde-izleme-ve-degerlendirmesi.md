@@ -7,21 +7,24 @@ sayi: "19831278-010.07.01/E.01-1634"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Taşra teşkilatında ASM, AHB, TSM, KETEM ve entegre ilçe hastaneleri gibi halk sağlığı hizmet birimlerinin yerinde izleme ve değerlendirme işlemlerinin yürütülmesine ilişkin usul ve esaslar."
 etiketler: ["halk-sagligi", "denetim", "izleme-degerlendirme"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 555-555"
-kaynak_pdf_sayfa: 561
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 555"
+kaynak_pdf_sayfa: "561"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
+## HALK SAĞLIĞI HİZMET BİRİMLERİNİN YERİNDE İZLEME VE DEĞERLENDİRMESİ
 
 T.C.  
 SAĞLIK BAKANLIĞI  
-Halk Sağlığı Genel Müdürlüğü
+Halk Sağlığı Genel Müdürlüğü  
 
-Sayı : 19831278-010.07.01  
-Konu : Halk Sağlığı Hizmet Birimlerinin Yerinde İzleme ve Değerlendirmesi
+**Sayı :** 19831278-010.07.01/E.01-1634  
+**Konu :** Halk Sağlığı Hizmet Birimlerinin Yerinde İzleme ve Değerlendirmesi  
 
-### .......... VALİLİĞİNE  
+### .................... VALİLİĞİNE  
 (İl Sağlık Müdürlüğü)
 
 25/08/2017 tarihli Resmî Gazete'de yayımlanan 694 sayılı Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'de değişiklikler yapılmıştır. Taşra teşkilatındaki değişimle birlikte İl Sağlık Müdürlüklerinde Halk Sağlığı Hizmet birimlerinin yerinde izleme ve değerlendirilmesi görevinin hangi birim tarafından yapılacağı konusunda tereddüt hâsıl olduğu Genel Müdürlüğümüze bildirilmiştir.
@@ -38,11 +41,5 @@ Dr. Hüseyin İLTER
 Bakan a.  
 Genel Müdür
 
-DAĞITIM:  
-81 İl Valiliğine
-
-İzleme, Değerlendirme ve İstatistik Dairesi Başkanlığı  
-Bilgi için: Hülya ANBARYAPAN KORKMAZ Unvan: TIBBİ TEKNOLOG  
-e-Posta: hulya.anbaryapan@saglik.gov.tr  
-İnt. Adresi: Sağlık Mah. A. Adnan Saygun Cad. No:55 Sıhhiye/ANKARA  
-Telefon No: 0 (312) 565 58 32 Faks No: 0 (312) 565 59 67
+### DAĞITIM:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)

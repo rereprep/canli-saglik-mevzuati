@@ -10,7 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 260-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.274"
 ---
 
 > *Not: 2013/2 sayılı Genelgenin 4. Maddesinde "Ödenek Talebine İlişkin Esaslar"ın (ç) maddesinde geçen bütçe tertibi güncellenmiş olup 54.167.489.337-0014.0067-01-03.09 olarak kullanılmaktadır.*

@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 626-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.640"
 ---
 
 6.3.23. Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı Genelgesi (2001/34)

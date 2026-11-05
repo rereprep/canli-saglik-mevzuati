@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-18674/saglik-turizmi-bolge-koordinator
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

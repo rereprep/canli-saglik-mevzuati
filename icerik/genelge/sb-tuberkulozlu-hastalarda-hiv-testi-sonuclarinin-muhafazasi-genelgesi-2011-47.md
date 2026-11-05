@@ -8,6 +8,7 @@ konu: "Tüberkülozlu Hastalarda HIV Testi Sonuçlarının Muhafazası Genelgesi
 etiketler: ["halk sağlığı", "tüberküloz", "verem savaşı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 625-625"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.639"
 ---
 
 6.3.22. Tüberkülozlu Hastalarda HIV Testi Sonuçlarının Muhafazası Genelgesi (2011/47)

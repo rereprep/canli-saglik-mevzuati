@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10712/doner-sermaye-butcesi-programi-g
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

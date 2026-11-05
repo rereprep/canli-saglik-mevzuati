@@ -2,6 +2,7 @@
 id: "sbg-103501-kirim-kongo-kanamali-atesi-genelgesi-2004-46"
 baslik: "Kırım Kongo Kanamalı Ateşi Genelgesi (2004/46)"
 tur: "genelge"
+tarih: "2004-03-31"
 sayi: "2004/46"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kırım-Kongo Kanamalı Ateşi salgınlarının önlenmesi, bulaşma yolları, hastane enfeksiyon kontrol önlemleri ve halk eğitimi kurallarını düzenler."
@@ -10,9 +11,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103501/kirim-kongo-kanamali-atesi-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-6.3.29. Kırım Kongo Kanamalı Ateşi Genelgesi (2004/46)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü

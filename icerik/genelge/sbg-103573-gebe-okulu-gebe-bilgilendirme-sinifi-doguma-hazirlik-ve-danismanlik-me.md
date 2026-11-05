@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103573/gebe-okulu-gebe-bilgilendirme-s
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103573.pdf s.1"
 ---
 
 2.3.6. Gebe Okulu, Gebe Bilgilendirme Sınıfı, Doğuma Hazırlık ve Danışmanlık Merkezleri Genelgesi (2018/23)

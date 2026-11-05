@@ -1,0 +1,39 @@
+=== 103587.pdf PDF sayfa 1 ===
+166
+2.2.14. Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme
+Rehberi Genelgesi (2019/15)
+BAKAN YARDIMCISI - SAĞLIK HİZMETLERİ GENEL
+T.C.
+22/07/2019 15:59 - 64047705 - 010 06 02 - 122
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
+00097869766
+: 54567092-010.06.02
+Sayı
+Konu : Klinik Kalite Uygulama ve
+Veri Kalitesi İyileştirme Rehberi
+GENELGE
+2019/ 15
+Ilgi : 22/05/2017 tarih ve 64047795 - 010.06.01 - E.01-212 sayıl Genelge (2017/8)
+Bakanlığımızca Sağlıkta Dönüşüm Programı ile birlikte nitelikli ve etkili sağlık
+hizmeti için kalite ve akreditasyon faaliyetlerine başlanmış ve ülke genelinde bu alanda
+önemli bir mesafe kat edilmiştir. Bu kapsamda kalite ve akreditasyon faaliyetleri bünyesinde,
+teşhis tedavi ve bakım süreçlerinin iyileştirilmesi amacıyla Türkiye Klinik Kalite Ölçme ve
+Değerlendirme Sistemi'nin kurulmasına yönelik çalışmalar başlatılmıştır.
+Sistem, hastalık yükü, ölçülebilirlik ve süreçlere müdahale ile iyileştirmeye açık olma
+özelliği dikkate alınarak, belirlenen sağlık olgularına yönelik tıbbi süreçler ve klinik
+sonuçların kurumsal, bölgesel ve ulusal düzeyde izlenmesi, analiz edilmesi ve iyileştirilmesini
+amaçlamaktadır. Sistem kapsamında sağlık olgusu ve göstergeler belirlenmiş, söz konusu
+göstergelere ilişkin verilerin elde edilmesi amacıyla E-Nabız üzerinde Klinik Kalite Karar
+Destek Sistemi oluşturulmuştur.
+Gösterge sonuçlarına yönelik analizlerin doğru yapılması ve iyileştirmeye açık
+alanların doğru şekilde belirlenmesi için sistemden doğru verilerin elde edilmesi büyük önem
+arz etmektedir. Bu bağlamda, takip edilen sağlık olgularına dair klinik süreçlerin kalitesi ile
+ilgili sorumluların ve sorumlulukların tanımlanması, elde edilen verilerin doğrulanması ve
+veri kalitesinin iyileştirilmesine yönelik sağlık kuruluşlarında gerçekleştirilmesi gereken
+faaliyetlere ilişkin "Klinik Kalite Uygulama ve Veri Kalitesi Iyileştirme Rehberi" hazırlanmış
+ve 22/05/2017 tarihli Bakanlık Onayı ile 2017/8 sayılı Genelge'nin eki olarak yayınlanmıştı.
+25 Ağustos 2017 tarihli Resmi Gazetede yayımlanan 694 sayılı Kanun Hükmünde Kararname
+ve bunun akabinde, 10/7/2018 tarihli Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı
+Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile Sağlık Bakanlığının teşkilat yapısında
+bir kısım değişiklikler yapılmıştır. Yapılan değişikliklerin klinik kalite kurumsal yapısında da

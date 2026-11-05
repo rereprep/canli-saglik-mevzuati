@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 315-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.329"
 ---
 
 3.2.3. Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslarda Değişiklik Yapılması Yönergesi

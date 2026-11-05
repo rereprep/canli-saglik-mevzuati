@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: 353
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "mevzuat-kitabi.pdf s.353"
 ---
 
 07.11.2017 tarihli ve 51275 sayılı Yönerge

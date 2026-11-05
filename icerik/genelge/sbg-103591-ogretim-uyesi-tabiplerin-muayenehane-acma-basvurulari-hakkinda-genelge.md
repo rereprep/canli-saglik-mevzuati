@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103591/ogretim-uyesi-tabiplerin-muayen
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103591.pdf s.1"
 ---
 
 2.3.20. Öğretim Üyesi Tabiplerin Muayenehane Açma Başvuruları Hakkında Genelge (2023/8)

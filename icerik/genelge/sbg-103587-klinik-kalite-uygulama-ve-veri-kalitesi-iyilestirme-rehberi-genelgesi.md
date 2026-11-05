@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103587/klinik-kalite-uygulama-ve-veri-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103587.pdf s.1"
 ---
 
 2.2.14. Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi Genelgesi (2019/15)

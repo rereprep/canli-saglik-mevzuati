@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 389-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.403"
 ---
 
 4.2.5. Kimlik Paylaşımı Sistemi (KPS) Usul ve Esasları Hakkında Yönerge 

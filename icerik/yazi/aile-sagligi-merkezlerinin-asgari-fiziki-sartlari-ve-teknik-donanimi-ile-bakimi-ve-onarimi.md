@@ -12,7 +12,7 @@ kaynak_pdf_sayfa: "509-512"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "mevzuat-kitabi.pdf s.509"
 ---
 
 ## AİLE SAĞLIĞI MERKEZLERİNİN ASGARİ FİZİKİ ŞARTLARI VE TEKNİK DONANIMI İLE BAKIMI VE ONARIMI

@@ -7,24 +7,22 @@ tarih: "2020-09-17"
 sayi: "99858683-045.01"
 birim: "Halk Sağlığı Genel Müdürlüğü, Aile Hekimliği Dairesi Başkanlığı"
 etiketler: ["uzmanlik-egitimi", "mevzuat"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 575-575"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 575"
 kaynak_pdf_sayfa: "581"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## SAHU EĞİTİMİNİ TAMAMLAYAN AİLE HEKİMLERİ
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı: 99858683-045.01
-
-Konu: SAHU eğitimini tamamlayan aile hekimleri
+**Sayı :** 99858683-045.01  
+**Konu :** SAHU eğitimini tamamlayan aile hekimleri  
 
 ### DAĞITIM YERLERİNE
 
@@ -46,20 +44,11 @@ Bu kapsamda;
 
 Bilgilerini ve gereğini arz/rica ederim.
 
-e-imzalıdır.
+e-imzalıdır.  
+Doç. Dr. Fatih KARA  
+Bakan a.  
+Genel Müdür  
 
-Doç. Dr. Fatih KARA
-
-Bakan a.
-
-Genel Müdür
-
-### DAĞITIM
-
-Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Bilgi: Sağlık Bilgi Sistemleri Genel Müdürlüğüne; Sağlık Hizmetleri Genel Müdürlüğüne; Strateji Geliştirme Başkanlığına; Yönetim Hizmetleri Genel Müdürlüğüne
-
-Halk Sağlığı Genel Müdürlüğü - Aile Hekimliği Daire Başkanlığı, Sağlık Mahallesi A. Adnan Saygun 2 Cad. No:55 - 06100 - Sıhhiye ANKARA. Bilgi için: Aslıhan KAHRAMAN
-
-Belge Doğrulama Kodu: b71b5304-6a60-4825-babe-1e07069fa5ba. Belge Doğrulama Adresi: https://www.turkiye.gov.tr/saglik-bakanligi-ebys. Bu belge, güvenli elektronik imza ile imzalanmıştır.
+### DAĞITIM:
+**Gereği:** 81 İl Valiliğine (İl Sağlık Müdürlüğü)  
+**Bilgi:** Sağlık Bilgi Sistemleri Genel Müdürlüğüne, Sağlık Hizmetleri Genel Müdürlüğüne, Strateji Geliştirme Başkanlığına, Yönetim Hizmetleri Genel Müdürlüğüne

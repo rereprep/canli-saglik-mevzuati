@@ -7,24 +7,22 @@ tarih: "2018-03-27"
 sayi: "19831278-010.07.01"
 birim: "Halk Sağlığı Genel Müdürlüğü, İzleme, Değerlendirme ve İstatistik Daire Başkanlığı"
 etiketler: ["recete", "mevzuat"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 523-523"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 523"
 kaynak_pdf_sayfa: "529"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## KIRMIZI VE YEŞİL REÇETE
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı: 19831278-010.07.01
-
-Konu: Kırmızı ve Yeşil Reçete
+**Sayı :** 19831278-010.07.01  
+**Konu :** Kırmızı ve Yeşil Reçete  
 
 ### DAĞITIM YERLERİNE
 
@@ -46,16 +44,9 @@ Bu nedenle Renkli Reçete Sisteminin kullanımının yanı sıra genelgede belir
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Dr. Hüseyin İLTER
+Dr. Hüseyin İLTER  
+Bakan a.  
+Genel Müdür  
 
-Bakan a.
-
-Genel Müdür
-
-### Dağıtım
-
-81 İl Sağlık Müdürlüğü
-
-İzleme, Değerlendirme ve İstatistik Daire Başkanlığı, Prof. Dr. Nusret Fişek Cad. No: 41 Yenişehir / ANKARA. Bilgi için: Süleyman DALDAL, Sağlık Memuru. Telefon: 312 565 5963. E-posta: suleyman.daldal@saglik.gov.tr
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 3d3bc8d9-df1d-4911-9ac1-89ac89cea90a kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır.
+### DAĞITIM:
+81 İl Sağlık Müdürlüğüne

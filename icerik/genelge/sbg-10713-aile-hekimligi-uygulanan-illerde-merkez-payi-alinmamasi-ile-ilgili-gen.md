@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10713/aile-hekimligi-uygulanan-illerde
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

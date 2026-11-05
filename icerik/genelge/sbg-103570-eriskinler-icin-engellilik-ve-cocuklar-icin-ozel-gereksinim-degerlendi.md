@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103570/eriskinler-icin-engellilik-ve-c
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103570.pdf s.1"
 ---
 
 2.3.44. Erişkinler İçin Engellilik ve Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması Genelgesi (2019/06)

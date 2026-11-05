@@ -8,6 +8,7 @@ konu: "Tüberküloz Aktif Sürveyansı Genelgesi (2014/31) uyarınca yürütüle
 etiketler: ["halk sağlığı", "tüberküloz", "verem savaşı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 689-689"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.703"
 ---
 
 6.3.36. Tüberküloz Aktif Sürveyansı Genelgesi (2014/31)

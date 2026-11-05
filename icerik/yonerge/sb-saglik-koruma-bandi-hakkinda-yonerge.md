@@ -11,6 +11,7 @@ ocr: true
 tarih: "2011-02-17"
 sayi: "6359"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.489"
 ---
 
 6.2.7.Sağlık Koruma Bandı Hakkında Yönerge

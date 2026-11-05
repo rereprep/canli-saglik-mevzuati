@@ -10,6 +10,7 @@ durum: "yürürlükte"
 konu: "Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti Genelgesi (2011/56) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103549.pdf s.1, 103549.pdf s.9"
 ---
 
 7.3.13. Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti Genelgesi (2011/56)

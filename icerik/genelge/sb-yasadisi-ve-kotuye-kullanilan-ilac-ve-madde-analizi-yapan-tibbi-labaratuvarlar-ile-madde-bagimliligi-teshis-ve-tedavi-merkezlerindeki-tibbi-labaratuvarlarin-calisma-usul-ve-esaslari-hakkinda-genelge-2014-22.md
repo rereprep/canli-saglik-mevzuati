@@ -8,6 +8,7 @@ konu: "Madde bağımlılığı teşhis ve tedavi merkezleri bünyesindeki labora
 etiketler: ["madde bağımlılığı", "toksikoloji", "laboratuvar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 283-283"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.297"
 ---
 
 2.3.57. Yasadışı ve Kötüye Kullanılan İlaç ve Madde Analizi Yapan Tıbbi Labaratuvarlar ile Madde Bağımlılığı Teşhis ve Tedavİ Merkezlerindeki Tıbbi Labaratuvarların Çalışma Usul ve Esasları Hakkında Genelge (2014/22)

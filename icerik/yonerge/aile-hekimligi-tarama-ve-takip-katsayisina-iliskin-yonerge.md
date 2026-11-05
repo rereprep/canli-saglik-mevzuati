@@ -9,6 +9,7 @@ konu: "Aile Hekimliği Tarama ve Takip Katsayısına İlişkin Yönerge hüküml
 etiketler: ["aile-hekimligi", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 404-408"
 durum: "yürürlükte"
+sayfa_kontrol: "mevzuat-kitabi.pdf s.414"
 ---
 
 30.06.2021 tarihli ve 1091 sayılı Yönerge

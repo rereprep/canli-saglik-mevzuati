@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103566/ekzimer-lazer-cerrrahisi-mudaha
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103566.pdf s.1"
 ---
 
 b) Odada insan sağlığı açısından gerekli olan optimal termal koşullar ile cihazın çalışması için gerekli olan ortam sıcaklığını ve nemini regüle edecek ısıtma-soğutma sistemi

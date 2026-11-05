@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103805/saglik-bakanligi-teftis-kurulu-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103805.pdf s.1"
 ---
 
 ## 10.2. YÖNERGELER

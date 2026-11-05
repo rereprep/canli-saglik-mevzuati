@@ -11,33 +11,41 @@ ocr: true
 tarih: "2025-05-23"
 sayi: "277164646"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.813"
 ---
-
-7.2.1. Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Kurum Hedef Katsayısının Hesaplanmasına İlişkin Yönerge
 
 ### SAĞLIK TESİSLERİ KURUM HEDEF KATSAYISININ BELİRLENMESİNE İLİŞKİN YÖNERGE
 
-## BİRİNCİ BÖLÜM Başlangıç Hükümleri
+## BİRİNCİ BÖLÜM
+### Başlangıç Hükümleri
 
-**MADDE 1 –** Bu Yönergenin amacı, Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerinin ek ödeme miktarının belirlenmesinde çarpan olarak kullanılacak kurum hedet katsayısının tespitine yönelik usul ve esasları belirlemektir. Kapsam
+#### Amaç
 
-**MADDE 2 –** Bu Yönerge, Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerini kapsar. Dayanak
+**MADDE 1 –** (1) Bu Yönergenin amacı, Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerinin ek ödeme miktarının belirlenmesinde çarpan olarak kullanılacak kurum hedef katsayısının tespitine yönelik usul ve esasları belirlemektir.
 
-**MADDE 3 –** Bu Yönerge, 12/8/2022 tarihli ve 31921 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığı Ek Ödeme Yönetmeliğinin 4 üncü maddesinin (n) fıkrasına dayanılarak hazırlanmıştır.
+#### Kapsam
+
+**MADDE 2 –** (1) Bu Yönerge, Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerini kapsar.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu Yönerge, 12/8/2022 tarihli ve 31921 sayılı Resmî Gazete'de yayımlanan Sağlık Bakanlığı Ek Ödeme Yönetmeliğinin 4 üncü maddesinin (n) fıkrasına dayanılarak hazırlanmıştır.
+
+#### Tanımlar
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) Bölüm: Göstergelerin ilgilerine göre gruplandırıldıklan hizmetlerin bütününü,
+b) Bölüm: Göstergelerin ilgilerine göre gruplandırıldıkları hizmetlerin bütününü,
 
 c) Genel Müdürlük: Kamu Hastaneleri Genel Müdürlüğünü,
 
 d) Gösterge: Her bir bölüm altında yer alan ölçülebilir kriterleri,
 
-e) Gösterge hedef değeri: Genel Müdürlük tarafından ilan edilen ve sağlık tesisleri tarafindan karşılanması beklenen hedef değeri,
+e) Gösterge hedef değeri: Genel Müdürlük tarafından ilan edilen ve sağlık tesisleri tarafından karşılanması beklenen hedef değeri,
 
-f) Gösterge puanı: Her bir göstergeye ait hedefin karşılanma durumuna göre ahınabilecek puanı,
+f) Gösterge puanı: Her bir göstergeye ait hedefin karşılanma durumuna göre alınabilecek puanı,
 
 g) Grup: Sağlık tesislerinde sunulan sağlık hizmetleri ile finansal sürdürülebilirlik ve memnuniyet kriterleri dikkate alınarak yapılan sınıflandırmayı,
 
@@ -45,31 +53,36 @@ h) Hesaplama yöntemi: Göstergelere esas değerlerin hesaplama yöntemini,
 
 i) İlgili dönem: Döner sermaye ek ödemesinin yapılacağı aylık dönemleri,
 
-j) Kurum hedef katsayısı: Bakanlıkça sağlık tesislerinde dağıtımına karar verilen ek ödeme miktarımın tesis başına belirlenmesinde çarpan olarak kullanılan ve ilgili birimin sağlık hizmet sunumu, finansal sürdurülebilirlik, çalışan ve hasta memnuniyeti gibi kriterler çerçevesinde belirlenen 1,0 ile 1,3 arasında değişen katsayıyı,
+j) Kurum hedef katsayısı: Bakanlıkça sağlık tesislerinde dağıtımına karar verilen ek ödeme miktarının tesis başına belirlenmesinde çarpan olarak kullanılan ve ilgili birimin sağlık hizmet sunumu, finansal sürdürülebilirlik, çalışan ve hasta memnuniyeti gibi kriterler çerçevesinde belirlenen 1,0 ile 1,3 arasında değişen katsayıyı,
 
 k) Sağlık tesisi: Üniversiteler ile birlikte kullanılan hastaneler de dâhil olmak üzere ikinci ve üçüncü basamak sağlık hizmeti veren, Sağlık Bakanlığına bağlı sağlık tesisleri ile ağız ve diş sağlığı merkezlerini,
 
-1) Sağlık tesisi puanı: Sağlık tesislerinin hesaplama yöntemi üzerinden yapılan hesaplama sonucu elde edilen puanların 100 puan uzerinden toplamini,
+l) Sağlık tesisi puanı: Sağlık tesislerinin hesaplama yöntemi üzerinden yapılan hesaplama sonucu elde edilen puanların 100 puan üzerinden toplamını,
 
 m) Sağlık tesisleri puanlama cetveli: Sağlık tesisleri için hesaplamaya esas gösterge puanlarının yer aldığı cetveli,
 
-## İKİNCİ BÖLÜM Kurum Hedef Katsayısı Hesaplama Usul ve Esasları
+ifade eder.
+
+## İKİNCİ BÖLÜM
+### Kurum Hedef Katsayısı Hesaplama Usul ve Esasları
 
 #### Temel esaslar
 
-**MADDE 5 –** (1) Bakanlıkça kurum hedef katsayısının hesaplanmasına ilişkin temel esaslar aşağıda belirtilmiştir.
+**MADDE 5 –** (1) Bakanlıkça kurum hedef katsayısının hesaplanmasına ilişkin temel esaslar aşağıda belirtilmiştir:
 
-a) Sağlık tesisleri sahip oldukları insan gücü, imkân ve kabiliyetler, tıbbi cihaz altyapısı ve sunulan sağlık hizmetleri dikkate alınarak Genel Müdürlük tarafindan gruplandırılır. Sağlık tesislerinin bulundukları gruplara ait listeler Genel Müdürlük tarafindan ilan edilır. Sağık tesislerinin yer aldığı gruplarda yeniden düzenleme yapılabilir.
+a) Sağlık tesisleri sahip oldukları insan gücü, imkân ve kabiliyetler, tıbbi cihaz altyapısı ve sunulan sağlık hizmetleri dikkate alınarak Genel Müdürlük tarafından gruplandırılır. Sağlık tesislerinin bulundukları gruplara ait listeler Genel Müdürlük tarafından ilan edilir. Sağlık tesislerinin yer aldığı gruplarda yeniden düzenleme yapılabilir.
 
-b) Sağlık tesislerinin kurum hedef katsayısının hesaplanmasına esas teşkil eden hizmet bölümleri, göstergeleri, gösterge puanları ve hesaplama yöntemleri ile sağlık tesisi puanının karşılık geldiği kurum hedef katsayı tablosu Genel Müdürlük tarafindan ilan edilir.
+b) Sağlık tesislerinin kurum hedef katsayısının hesaplanmasına esas teşkil eden hizmet bölümleri, göstergeleri, gösterge puanları ve hesaplama yöntemleri ile sağlık tesisi puanının karşılık geldiği kurum hedef katsayı tablosu Genel Müdürlük tarafından ilan edilir.
 
-c) Gösterge hedef degerleri, her grup için Bakanlık hedefleri doğrultusunda ayrı ayn belirlenir ve her bir grup için göstergelere ait hedef değerler ilan edilir. Hedef değerler, ihtiyaca binaen Genel Müdürlukçe yeniden belirlenebilir.
+c) Gösterge hedef değerleri, her grup için Bakanlık hedefleri doğrultusunda ayrı ayrı belirlenir ve her bir grup için göstergelere ait hedef değerler ilan edilir. Hedef değerler, ihtiyaca binaen Genel Müdürlükçe yeniden belirlenebilir.
 
-d) Sağlık tesislerinin gösterge hedeflerini karşılama durumlarına göre puanlama cetvelinde belirtilen puanların toplamı, sağlık tesisi puanını oluşturur. Bir sağlık tesisinin puanı, bulunduğu grubun puanlama cetveline göre 0-100 arasında bir değer alır
+d) Sağlık tesislerinin gösterge hedeflerini karşılama durumlarına göre puanlama cetvelinde belirtilen puanların toplamı, sağlık tesisi puanını oluşturur. Bir sağlık tesisinin puanı, bulunduğu grubun puanlama cetveline göre 0-100 arasında bir değer alır.
 
 e) Bir sağlık tesisinin ilgili dönemdeki kurum hedef katsayısının hesaplanabilmesi için, ilgili sağlık tesisinin o dönemde mali açıdan bağımsız olarak hizmet sunumu yapmış olması ve hizmet verilerinin oluşması gerekmektedir.
 
-f) Sağlık tesisi puanı hesaplanmayan sağlık tesislerinin kurum hedef katsayısı 1,0 olarak kabul edilir. Sağlık tesislerinin kurum hedef katsayıları: Genel Müdürlük tarafindan hesaplanır. Bu katsayı, Bakanlıkça sağlık tesislerinde dağıtımına karar verilen ek ödeme miktarının tesis başına belirlenmesinde çarpan olarak kullanılır.
+f) Sağlık tesisi puanı hesaplanmayan sağlık tesislerinin kurum hedef katsayısı 1,0 olarak kabul edilir.
+
+g) Sağlık tesislerinin kurum hedef katsayıları Genel Müdürlük tarafından hesaplanır. Bu katsayı, Bakanlıkça sağlık tesislerinde dağıtımına karar verilen ek ödeme miktarının tesis başına belirlenmesinde çarpan olarak kullanılır.
 
 #### Yürürlük
 
@@ -78,3 +91,4 @@ f) Sağlık tesisi puanı hesaplanmayan sağlık tesislerinin kurum hedef katsay
 #### Yürütme
 
 **MADDE 7 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
+

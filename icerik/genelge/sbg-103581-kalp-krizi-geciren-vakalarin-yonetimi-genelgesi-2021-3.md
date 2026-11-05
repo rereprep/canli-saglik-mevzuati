@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103581/kalp-krizi-geciren-vakalarin-yo
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103581.pdf s.1"
 ---
 
 2.3.34. Kalp Krizi Geçiren Vakaların Yönetimi Genelgesi (2021/3)

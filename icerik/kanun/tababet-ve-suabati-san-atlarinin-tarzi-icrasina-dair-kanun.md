@@ -11,6 +11,7 @@ konu: "Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun ile bel
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 41-60"
 durum: "yürürlükte"
+sayfa_kontrol: "mevzuat-kitabi.pdf s.61"
 ---
 
 ## TABABET VE ŞUABATI SAN'ATLARININ TARZI İCRASINA DAİR KANUN<sup>[1]</sup>

@@ -7,6 +7,7 @@ konu: "Merkez Pay Tahsilat Oranı konusundaki uygulama usul ve esaslarını beli
 etiketler: ["mali hizmetler", "merkez payı", "finansman"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1072-1072"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1086"
 ---
 
 11.2.5. Merkez Pay Tahsilat Oranı

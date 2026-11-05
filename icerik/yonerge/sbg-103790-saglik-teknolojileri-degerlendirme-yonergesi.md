@@ -11,7 +11,7 @@ konu: "Sağlık Bakanlığı bünyesinde yürütülen sağlık teknolojisi değe
 tarih: "2019-10-25"
 sayi: "5201"
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103790.pdf s.1"
 ---
 
 T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü

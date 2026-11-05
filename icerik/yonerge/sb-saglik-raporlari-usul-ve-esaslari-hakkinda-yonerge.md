@@ -11,6 +11,7 @@ ocr: true
 tarih: "2019-09-30"
 sayi: "1618"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.53"
 ---
 
 2.2.6. Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;

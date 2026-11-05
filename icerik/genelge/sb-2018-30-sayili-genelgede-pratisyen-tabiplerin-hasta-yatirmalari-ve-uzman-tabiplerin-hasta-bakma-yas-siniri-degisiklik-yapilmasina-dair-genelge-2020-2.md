@@ -8,6 +8,7 @@ konu: "Pratisyen tabiplerin hasta yatırma yetkisi ve uzman tabiplerin hasta bak
 etiketler: ["tabip yetkisi", "mevzuat değişikliği", "çalışma usulleri"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 246-246"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.260"
 ---
 
 2.3.42. 2018/30 Sayılı Genelgede (Pratisyen Tabiplerin Hasta Yatırmaları ve Uzman Tabiplerin Hasta Bakma Yaş Sınırı) Değişiklik Yapılmasına Dair Genelge (2020/2)

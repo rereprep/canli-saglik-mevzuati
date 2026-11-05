@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 233-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.247"
 ---
 
 ### EK MÜKEMMELİYET MERKEZLERİNE İLİŞKİN USUL VE ESASLAR 1. GENEL ESASLAR

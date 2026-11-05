@@ -12,19 +12,17 @@ kaynak_pdf_sayfa: "532-533"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "mevzuat-kitabi.pdf s.533"
 ---
 
 ## TABELA VE YÖNLENDİRME LEVHALARI
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Sağlığın Geliştirilmesi Genel Müdürlüğü  
 
-SAĞLIK BAKANLIĞI
-
-Sağlığın Geliştirilmesi Genel Müdürlüğü
-
-Sayı: 67598610/
-
-Konu: Kurumsal Kimlik Kılavuzu Tabela ve Yönlendirme Levhaları
+**Sayı :** 67598610/  
+**Konu :** Kurumsal Kimlik Kılavuzu Tabela ve Yönlendirme Levhaları  
 
 ### HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜNE
 
@@ -44,15 +42,10 @@ Sağlık Hizmetleri Genel Müdürlüğü tarafından yayımlanan “Sağlık Bak
 
 Bilgilerinizi ve gereğini arz ederim.
 
-Ümran BENLİ
+Ümran BENLİ  
+Genel Müdür  
 
-Genel Müdür
-
-EK: Tabela Örneği
-
-Sağlığın Geliştirilmesi Genel Müdürlüğü Sağlık İletişimi Daire Başkanlığı, Adres: Üniversiteler mah. Dumlupınar Bulvarı 6001 cadde No:9 Kat:4 Bilkent / ANKARA. Telefon: (312) 585 28 74. www.saglik.gov.tr
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 7a176a12-b392-4308-ad4e-222b0a9c503a kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır.
+**EK:** Tabela Örneği
 
 ### Mart 2019’dan sonra açılan ASM’lerde Birim Tabelası;
 
@@ -60,7 +53,7 @@ Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 7a1
 | --- | --- |
 | No. 1903 | Ayyıldız Aile Sağlığı Merkezi |
 
-### Mart 2019’dan önce açılan ASM’lerde Birim Talbelası;
+### Mart 2019’dan önce açılan ASM’lerde Birim Tabelası;
 
 **ÖRNEK 1:** Aile hekimliği uzmanları için tabela örneği:
 

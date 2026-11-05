@@ -11,6 +11,7 @@ ocr: true
 tarih: "2019-03-14"
 sayi: "427"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1068"
 ---
 
 11.2.3. Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge

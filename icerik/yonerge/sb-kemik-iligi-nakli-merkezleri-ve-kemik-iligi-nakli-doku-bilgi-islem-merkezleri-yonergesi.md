@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 128-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.142"
 ---
 
 2.2.16. Kemik İliği Nakli Merkezleri ve Kemik İliği Nakli Doku Bilgi İşlem Merkezleri Yönergesi

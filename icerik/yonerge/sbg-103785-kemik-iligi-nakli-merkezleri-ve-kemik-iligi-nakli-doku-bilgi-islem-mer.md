@@ -11,6 +11,7 @@ ocr: true
 tarih: "2001-02-26"
 sayi: "1832"
 duzeltildi: true
+sayfa_kontrol: "103785.pdf s.1"
 ---
 
 ### Kemik İliği Nakli Merkezleri Ve Kemik İliği Nakli Doku Bilgi İşlem Merkezleri Yönergesi

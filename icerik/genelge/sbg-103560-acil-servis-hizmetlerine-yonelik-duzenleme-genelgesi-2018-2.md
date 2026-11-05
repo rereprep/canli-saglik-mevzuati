@@ -10,6 +10,7 @@ durum: "yürürlükte"
 konu: "Acil Servis Hizmetlerine Yönelik Düzenleme Genelgesi (2018/2) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103560.pdf s.1"
 ---
 
 2.3.22. Acil Servis Hizmetlerine Yönelik Düzenleme Genelgesi (2018/2)

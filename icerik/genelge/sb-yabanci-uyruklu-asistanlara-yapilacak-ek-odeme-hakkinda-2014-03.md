@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 872-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.886"
 ---
 
 7.3.10. Yabancı Uyruklu Asistanlara Yapılacak Ek Ödeme Hakkında Genelge (2014/03)

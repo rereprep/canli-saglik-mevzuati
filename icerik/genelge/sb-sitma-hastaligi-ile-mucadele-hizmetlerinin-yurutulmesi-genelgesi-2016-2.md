@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 649-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.663"
 ---
 
 6.3.28. Sıtma Hastalığı ile Mücadele Hizmetlerinin Yürütülmesi Genelgesi (2016/2)

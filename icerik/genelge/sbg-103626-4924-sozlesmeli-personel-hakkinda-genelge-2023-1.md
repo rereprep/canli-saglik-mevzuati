@@ -9,8 +9,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103626/4924-sozlesmeli-personel-hakkin
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 konu: "4924 sayılı Kanuna tabi sözleşmeli tabip ve uzman tabip pozisyonlarına yerleştirme usul ve esaslarını düzenler."
+sayfa_kontrol: "103626.pdf s.1"
 ---
 
 9.3.3. 4924 Sözleşmeli Personel Hakkında Genelge (2023/1)

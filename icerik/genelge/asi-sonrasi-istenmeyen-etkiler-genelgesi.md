@@ -11,7 +11,7 @@ kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 472-473"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "mevzuat-kitabi.pdf s.479"
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

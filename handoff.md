@@ -34,6 +34,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Etkili ajan talimatı: her turda listedeki düzeltilmemiş ilk 5 dosyayı düzelt ve kaydet; bitince yeniden görevlendir.
 
 ## Bilinen eksikler / sonraki adımlar
+- ÖNEMLİ (2026-11-05): Bölüm başlığı yazılı olup gövdesi taranmış görüntü olan sayfalar (metin 80–600 karakter, büyük görüntü) OCR'dan kaçmıştı; bazı ajanlar bu kısımları UYDURMUŞTU (ör. 2025/6 Teftiş genelgesinde yanlış birim, sayı ve maddeler). 353 sayfa OCR'landı (ocr_toplu.py --sayfalar). Etkilenen 323 belgenin künyesinde `sayfa_kontrol` alanı var; ham OCR'ları kaynak-isleme/ocr-ek/<id>.txt. Ajanlar bu sayfaları görüntüyle karşılaştırıp düzeltiyor; bitince sayfa_kontrol silinip kontrol_edildi eklenir. kitaptan_cikar artık metni <600 karakter olan sayfalarda OCR varsa onu kullanıyor.
+- Ajan talimatlarında "eksik kısmı tamamla" denirken mutlaka "yalnızca görüntüde gördüğünü yaz, tahmin etme" vurgulanmalı.
 - 2026-11-05 akşam durumu:
   - Künye kayıtları tamamlanıyor: araclar/mevzuat_gov_aktar.py (güncel metin; kaynak-isleme/mevzuat-gov/eslesme.json) ve araclar/resmi_gazete_aktar.py (ilk yayımlanan metin; segmentler/resmi-gazete.json). Tam metin 661 → 967. mevzuat.gov.tr erişim kesintisinde aktarım ~221/325'te durdu; erişim gelince eslesme.json'daki boş kayıtları silip yeniden çalıştır.
   - saglik.gov.tr: tebliğ ve alt site sayfaları da izleniyor; sayfa içi genelge metinleri (pages_content) içeriğe alınıyor (saglik_gov_aktar.html_yaz).

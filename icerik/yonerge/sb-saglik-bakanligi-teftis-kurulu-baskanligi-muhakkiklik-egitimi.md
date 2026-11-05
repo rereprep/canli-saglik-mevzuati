@@ -11,6 +11,7 @@ ocr: true
 tarih: "2024-11-29"
 sayi: "261021584"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1029"
 ---
 
 10.2.1. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi

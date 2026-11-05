@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103577/hukuki-islem-ehliyetine-iliskin
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103577.pdf s.1"
 ---
 
 2.3.27. Hukuki İşlem Ehliyetine İlişkin Rapor Düzenleme Yetkisi Genelgesi (2014/11)

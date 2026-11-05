@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103602/sunnet-islemi-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103602.pdf s.1"
 ---
 
 2.3.23. Sünnet İşlemi Genelgesi

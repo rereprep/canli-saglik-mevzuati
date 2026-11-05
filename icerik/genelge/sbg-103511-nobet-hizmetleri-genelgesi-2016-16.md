@@ -11,6 +11,7 @@ duzeltildi: true
 konu: "Nöbet Hizmetleri Genelgesi (2016/16) konusundaki uygulama ve esasları bildirir."
 tarih: "2016-09-07"
 ocr: true
+sayfa_kontrol: "103511-ek1.pdf s.1"
 ---
 
 6.3.1. Nöbet Hizmetleri Genelgesi (2016/16)

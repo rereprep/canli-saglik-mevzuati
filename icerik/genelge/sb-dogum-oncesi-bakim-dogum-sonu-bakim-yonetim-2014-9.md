@@ -8,6 +8,7 @@ konu: "Doğum Öncesi Bakım, Doğum Sonu Bakım Yönetim Rehberleri Genelgesi (
 etiketler: ["halk sağlığı", "sağlık yönetimi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 733-733"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.747"
 ---
 
 6.3.56. Doğum Öncesi Bakım, Doğum Sonu Bakım Yönetim Rehberleri Genelgesi (2014/9)

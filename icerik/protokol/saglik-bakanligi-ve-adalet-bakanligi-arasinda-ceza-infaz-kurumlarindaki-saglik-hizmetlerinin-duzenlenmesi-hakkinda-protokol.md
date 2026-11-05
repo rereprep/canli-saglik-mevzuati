@@ -11,7 +11,7 @@ kaynak_pdf_sayfa: "556-559"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "mevzuat-kitabi.pdf s.556"
 ---
 
 ## SAĞLIK BAKANLIĞI VE ADALET BAKANLIĞI ARASINDA CEZA İNFAZ KURUMLARINDAKİ SAĞLIK HİZMETLERİNİN DÜZENLENMESİ HAKKINDA PROTOKOL

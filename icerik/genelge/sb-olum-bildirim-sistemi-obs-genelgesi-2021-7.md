@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 767-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.781"
 ---
 
  dâhil edildiği yıllık nöbet listesi ile il sağlık müdürlüğü tarafından yürütülür. Nüfusu 30.000’in üzerinde olan ilçelerde ilçe sağlık müdürleri nöbete dâhil edilmez.

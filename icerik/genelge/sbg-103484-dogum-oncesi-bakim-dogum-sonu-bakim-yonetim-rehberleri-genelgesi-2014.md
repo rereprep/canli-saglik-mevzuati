@@ -7,6 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103484/dogum-oncesi-bakim-dogum-sonu-bakim-yonetim-rehberleri-genelgesi-20149.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103484.pdf s.1"
 ---
 
 6.3.56. Doğum Öncesi Bakım, Doğum Sonu Bakım Yönetim Rehberleri Genelgesi (2014/9)

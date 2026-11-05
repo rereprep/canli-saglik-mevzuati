@@ -1,0 +1,51 @@
+=== sbyonergevegenelge202520022025pdf.pdf PDF sayfa 285 ===
+T.C. SAĞLIK BAKANLIĞI YÖNERGELER VE GENELGELER KİTABI
+2.3.51. Genetik Veri Paylaşımı Genelgesi (2021/14)
+SAGLIK HIMEILER GENEL HODCW OÓO •
+T.C.
+TE TRİK VE TEȘCİ: HİZMETLARI DARISİ
+SAĞLIK BAKANLIĞI
+HAŞANLIG
+00 0.60.92/105
+290 10021 18:31 - E-0590
+Sağlık Hizmetleri Genel Müdürlügu
+Say: : 95966346 -
+Konu : Genetik Veri Paylaşımı
+GENELGE
+202 y.1.4
+Bireye ait genomdan hücre çekirdeğinden ya da mitokondrisinden kodlanan DNA ve
+RNA diziliminin tamamı ile Protein diziliminden elde edilen bilgilerin tamamı ya da bir kısmı
+genetik veri olarak değerlendirilmektedir. DNA ve/veya RNA'da meydana gelen germline veya
+somatik tüm genomik değişiklikler de genetik veri kapsamında değerlendirilmektedir.
+Ülkemizde, klasik ve ileri nesil dizileme (Next Generation Sequencing, NGS)
+yöntemleri kullanılarak gerçekleştirilen yuksek hacimli nükleik asit (DNA/RNA) dizileme
+işlemleri genetik tanı ya da bilimsel araştırma amacıyla yaygın olarak kullanılmaya
+başlanmıştur. Bakanhğımuzca bu çalışmalar sonucunda elde edilen bilginin depolanması ve
+paylaşılması ile ilgili düzenleme yapılmasına ihtiyaç duyulmuştur. Kişinin genetik yapısımı
+oluşturan genomun tamamı veya bir kısmından elde edilen kalıtsal nitelikteki veri bireyin
+biyolojik kimliğini oluşturmaktadır. Elde edilen kalıtsal nitelikteki veri kişisel bilgiler gızlense
+dahi bireyin taşıcığı genetik çeşitlilik nedeniyle kişinin kimlığinin anlaşılmasına ve özel hayatın
+gizliliğinin ihlal edilmesine neden olabilmektedir. Bu veri aktarılırken kimliksizleştirme işlemi
+yapılsa dahi verinin niteliği sadece ilgili kişinin değil aynı zamanda genetik bağı olan aile
+fertlerinin ve toplum menfaatinin de ciddi şekilde zarar görebileceği bir nitelik arz
+edebilmektedir. Bu nedenle dünyada bu veriler "hassas veri" olarak tanımlanmakta olup,
+genetik verilerin depolanması ve paylaşıma açılması konularında özel bir önlem alınması
+gereken veriler olarak kabul edilmektedir.
+6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında, genctik, sağlık ve
+biyometrik verilerin "özel nitelikli kişisel veri" olduğu hüküm altına alınmıştır. Sağlık hızmeti
+sunucularından elde edilen verinin işlenmesi, erişimi, imha edilmesi ve aktarılması hakkında
+21.05.2019 tarihli ve 30808 sayılı Resmi Gazete'de yayımlanan Kişisel Sağlık Verileri
+Hakkında Yönetmelik ile gerekli düzenlemeler yapılmıştır. Genetik hastalıkların temsının
+belirlenmesi amacıyla kurulan merkezlerin çalışma usul ve esaslan, 10.01.2020 tarihli ve 31004
+sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Genctik Hastalıklar Değerlendirme
+Merkezleri Yönetmeliği ile belirlenmiştir. Aynca taru amacıyla kurulan tıbbi laboratuvarların
+çalışma usul ve esasları, 09.10.2013 tarihli ve 28790 sayılı Resmi Gazete de yayımlanarak
+yürürlüğe giren Tıbbi Laboratuvarlar Yönetmeliği ile belirlenmiştir.
+2019/12 Sayılı
+Cumhurbaşkanlığ Bilgi Iletişim ve Güvenliği Tedbirleri Genelgesi kapsamında da gerek
+bireyler gerekse toplum açısından kritik öneme sahip verilerin güvenliğinin sağlanması
+konusunda alınması gerekli tedbirler belirtılmiştir.
+Bu kapsamda özellikle kişinin biyolojik kimliğinin belirlenmesi için genetik bilgi içeren
+tüm genetik verilerin yönetimi ve paylaşıma açılması için aşağıdaki hususlara riayet edilmesi
+gerekmektedir;
+271

@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11115/sarbon-anti-serumu-hakkinda-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -72,6 +73,6 @@ Müsteşar
 
 ### OLUR / 2005 Prof. Dr. Recep AKDAĞ Bakan
 
-Bulaşıcı ve Salgın Hastalıklar Kontrolü Daire Başkanlığı Elektronik Ağ : www.saglik.gov.tr Zoonoz ve Parazit Hastalıklar Şube Müdürlüğu E-posta: zoonoz.paraziter@saglik.gov.tr Tel : 0 312 433 23 31-435 64 40-60/ 1253 Belgegeçer : 0 312 432 29 94 Mithatpaşa Caddesi, Nu : 3
+Bulaşıcı ve Salgın Hastalıklar Kontrolü Daire Başkanlığı Elektronik Ağ : www.saglik.gov.tr Zoonotik ve Paraziter Hastalıklar Şube Müdürlüğü E-posta: zoonoz.paraziter@saglik.gov.tr Tel : 0 312 433 23 31-435 64 40-60/ 1253 Belgegeçer : 0 312 432 29 94 Mithatpaşa Caddesi, Nu : 3
 
 06434 Sıhhiye / ANKARA

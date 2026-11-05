@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103778/yurtdisi-saglik-tesislerinde-pe
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103778.pdf s.1"
 ---
 
 # YURT DIŞI SAĞLIK TESİSLERİNDE PERSONEL GÖREVLENDİRİLMESİNE DAİR USUL VE ESASLAR HAKKINDA YÖNERGE

@@ -10,6 +10,7 @@ kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 238-246"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 Resmî Gazete Tarihi: 18.10.2019 Resmî Gazete Sayısı: 30922

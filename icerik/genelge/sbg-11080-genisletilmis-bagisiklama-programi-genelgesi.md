@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11080/genisletilmis-bagisiklama-progra
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "11080-ek1.pdf s.42, 11080-ek1.pdf s.50"
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

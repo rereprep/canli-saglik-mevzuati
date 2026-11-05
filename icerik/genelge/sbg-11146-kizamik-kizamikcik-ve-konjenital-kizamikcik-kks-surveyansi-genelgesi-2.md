@@ -11,6 +11,7 @@ tarih: "2010-04-01"
 sayi: "2010/20"
 konu: "Türkiye’de kızamık ve kızamıkçığın eliminasyonu ile konjenital kızamıkçık sendromunun önlenmesine yönelik sürveyans kurallarını belirler."
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

@@ -8,6 +8,7 @@ konu: "Kamu Kurum ve Kuruluşlarında Şeker ve Tuz Kullanımı ile İlgili Düz
 etiketler: ["halk sağlığı", "sağlık yönetimi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 766-766"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.780"
 ---
 
 6.3.68. Kamu Kurum ve Kuruluşlarında Şeker ve Tuz Kullanımı ile İlgili Düzenleme Genelgesi (2014/4)

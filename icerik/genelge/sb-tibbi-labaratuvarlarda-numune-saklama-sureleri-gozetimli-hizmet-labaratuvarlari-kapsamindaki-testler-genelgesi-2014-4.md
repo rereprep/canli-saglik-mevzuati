@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 287-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.301"
 ---
 
 2.3.59. Tıbbi Laboratuvarlarda Numune Saklama Süreleri, Gözetimli Hizmet Laboratuvarları Kapsamındaki Testler Genelgesi (2014/4)

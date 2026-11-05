@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103565/diyaliz-merkezlerinde-enfeksiyo
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103565.pdf s.1"
 ---
 
 

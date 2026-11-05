@@ -8,6 +8,7 @@ konu: "Kontrol Programı Genelgesi (2018/25) uyarınca yürütülecek sağlık h
 etiketler: ["halk sağlığı", "sağlık yönetimi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 771-771"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.785"
 ---
 
 6.3.70. Kontrol Programı Genelgesi (2018/25)

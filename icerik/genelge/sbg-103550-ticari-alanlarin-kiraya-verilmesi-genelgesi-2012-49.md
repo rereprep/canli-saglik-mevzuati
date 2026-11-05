@@ -10,6 +10,7 @@ durum: "yürürlükte"
 konu: "Ticari Alanların Kiraya Verilmesi Genelgesi (2012/49) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "103550.pdf s.1"
 ---
 
 7.3.12. Ticari Alanların Kiraya Verilmesi Genelgesi (2012/49)

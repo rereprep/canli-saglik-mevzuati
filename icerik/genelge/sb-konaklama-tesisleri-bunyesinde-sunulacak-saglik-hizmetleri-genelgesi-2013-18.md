@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 263-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.277"
 ---
 
 2.3.48. Konaklama Tesisleri Bünyesinde Sunulacak Sağlık Hizmetleri Genelgesi (2013/18)
@@ -144,7 +145,7 @@ Ilinizde bulunan konaklama tesislerinde sağlık hizmeti sunumunun bu Genelge h�
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof Dr. Nihat TOSUN
+Prof. Dr. Nihat TOSUN
 
 Bakan a.
 
@@ -152,5 +153,11 @@ Müsteşar
 
 ### EKLER
 
-EK 1 - Sağlık Ünitelerinde Aranacak Şartlar, EK 2 - Tespit Formu, EK 3 - Personel Çalışma Belgesi, EK 4 - Uygunluk belgesi, EK 5 - Denetim Formu. DAĞITIM:
+EK 1 - Sağlık Ünitelerinde Aranacak Şartlar,
+EK 2 - Tespit Formu,
+EK 3 - Personel Çalışma Belgesi,
+EK 4 - Uygunluk belgesi,
+EK 5 - Denetim Formu.
+
+DAĞITIM:
 81 İl Valiliğine

@@ -10,6 +10,8 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+tarih: "2006-05-24"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -32,12 +34,16 @@ Verem Savaş Hizmetlerinde istenilen amaca ulaşabilmek için ilgide kayıtlı S
 
 3) Yine döner sermaye pay dağıtımına esas olan aya göre Dispanserde tedavide olan ve ilacı verilmesi gereken Veremli hastaların %85 veya daha fazlasının ay içinde ilacı verilmiş olmas1
 
-Verem Savaş Dispanserlerinde bu şartların karşılanıp karşılanmadığı, Il Tüberküloz Koordinatörü tarafından tespit edilerek Il Sağlık Müdürlüğü'ne bildirilir. Il Sağlık Müdürünün kararıyla Verem Savaş Dispanseri personeli o dönem İl performans ortalamasından değerlendirilir. Ancak Verem Savaş Dispanserlerinde çalışan personel için o dönem sağlık kuruluşu performans puan ortalaması ile İl performans puan ortalamasından yüksek olan esas [?]
+Verem Savaş Dispanserlerinde bu şartların karşılanıp karşılanmadığı, Il Tüberküloz Koordinatörü tarafından tespit edilerek Il Sağlık Müdürlüğü'ne bildirilir. Il Sağlık Müdürünün kararıyla Verem Savaş Dispanseri personeli o dönem İl performans ortalamasından değerlendirilir. Ancak Verem Savaş Dispanserlerinde çalışan personel için o dönem sağlık kuruluşu performans puan ortalaması ile İl performans puan ortalamasından yüksek olanı esas alınır.
 
 Gereğini rica ederim
 
-Prof Dr. Nakdet ÜNÜVAR
+Prof. Dr. Necdet ÜNÜVAR
 
 Bakan a.
 
-Müsteşar Dağıtım: A Planı
+Müsteşar
+
+### DAĞITIM:
+
+A Planı

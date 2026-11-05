@@ -10,6 +10,7 @@ duzeltildi: true
 konu: "Bakanlık Müfettişleri ve Faaliyetleri konusundaki düzenleme ve uygulama esaslarını bildirir."
 tarih: "2023-10-12"
 ocr: true
+sayfa_kontrol: "100088-ek1.pdf s.1"
 ---
 
 Bakanlık merkez ve taşra teşkilatı ile bağlı kuruluşlarında teftiş, inceleme, soruşturma ve ön inceleme yapmak üzere görevlendirilen Bakanlık Müfettişlerinin temsil ve çalışma odası, hizmet aracı, bilgi ve belge ile bilirkişi ve uzman heyeti taleplerinin karşılanmasında aksaklık, eksiklik ve gecikme gibi olumsuzlukların yaşandığı bilgisi alınmaktadır.

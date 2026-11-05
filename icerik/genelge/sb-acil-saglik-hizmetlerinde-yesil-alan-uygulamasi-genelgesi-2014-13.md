@@ -8,6 +8,7 @@ konu: "Acil servislerde yeşil alan muayenesi kriterleri ve triyaj sınıflandı
 etiketler: ["acil servis", "yeşil alan", "triyaj"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 253-253"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.267"
 ---
 
 2.3.45. Acil Sağlık Hizmetlerinde Yeşil Alan Uygulaması Genelgesi (2014/13)

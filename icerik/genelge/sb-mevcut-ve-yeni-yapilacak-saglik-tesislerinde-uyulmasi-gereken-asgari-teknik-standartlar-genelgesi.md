@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 406-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.420"
 ---
 
 ### Mevcut ve Yeni Yapılacak Sağlık Tesislerinde Uyulması Gereken Asgari Teknik Standartlar Genelgesi

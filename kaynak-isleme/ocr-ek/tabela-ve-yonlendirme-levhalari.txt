@@ -1,0 +1,22 @@
+=== mevzuat-kitabi.pdf PDF sayfa 533 ===
+Mart 2019'dan sonra açılan ASM'lerde Birim Tabelası;
+Poliklinik
+HURIYET SAST
+(Polyclinic)
+. . .
+Uzm. Dr. Halid BAYKAL
+01
+Ayyıldız Aile Sağlığı Merkezi
+No. 1903
+Mart 2019'dan önce açılan ASM'lerde Birim Tabelası;
+ÖRNEK 1: Aile hekimliği uzmanları için tabela örneği:
+Aile Hekimi
+Uzm.Dr....
+Ebe/Hemşire/Sağlık Memuru/ATT: Ayşe GÜZEL
+Birim TINo: ..
+ÖRNEK 2: Aile hekimliği yapan pratisyen hekimler için tabela örneği:
+Aile Hekimi
+Dr..................
+Ebe/Hemşire/Sağlık Memuru/ATT: Fatma SAKİN
+Birim THf.No: ...........
+527

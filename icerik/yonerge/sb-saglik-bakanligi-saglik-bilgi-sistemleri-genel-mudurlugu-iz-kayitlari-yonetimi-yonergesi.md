@@ -11,6 +11,7 @@ ocr: true
 tarih: "2021-11-08"
 sayi: ""
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.386"
 ---
 
 4.2.2. Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü İz Kayıtları Yönetimi Yönergesi

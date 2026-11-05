@@ -12,19 +12,17 @@ kaynak_pdf_sayfa: "537-538"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## OKUL AŞILAMA ÇALIŞMALARININ AİLE HEKİMLERİNCE UYGULANMASI
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı: 131.10.01/
-
-Konu: Okul Aşılama Çalışmalarının Aile Hekimlerince Uygulanması
+**Sayı :** 131.10.01/  
+**Konu :** Okul Aşılama Çalışmalarının Aile Hekimlerince Uygulanması  
 
 ### BAKANLIK MAKAMINA
 
@@ -46,31 +44,19 @@ hususlarında;
 
 Tensiplerinizi arz ederim.
 
-Doç. Dr. Fatih KARA
+Doç. Dr. Fatih KARA  
+Genel Müdür  
 
-Genel Müdür
+**EKLER:**  
+-1: BDK Tavsiye Kararı (2 sayfa)  
+-2: Ulusal Çocukluk Dönemi Aşılama Takvimi  
 
-Ekler:
+OLUR  
+03.06.2020  
 
--1: BDK Tavsiye Kararı (2 sayfa)
-
--2: Ulusal Çocukluk Dönemi Aşılama Takvimi
-
-OLUR
-
-03.06.2020
-
-Prof. Dr. Emine ALP MEŞE
-
-Bakan a.
-
+Prof. Dr. Emine ALP MEŞE  
+Bakan a.  
 Bakan Yardımcısı
-
-01.06.2020 Daire Başkanı: Selçuk KILIÇ
-
-..../..../2020 Genel Müdür Yardımcısı: Muhammet ÇÖMÇE
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 14b32490-b1f9-4d7c-8525-0c26897ac6bb kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır.
 
 ### Ek-2: Ulusal Çocukluk Dönemi Aşılama Takvimi
 

@@ -7,6 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-102349/tibbi-laboratuvarlarda-numune-saklama-sureleri-gozetimli-hizmet-laboratuvarlari-kapsamindaki-testler-hakkindaki-genelge-20144.html"
 not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
+sayfa_kontrol: "102349-ek1.pdf s.2"
 ---
 
 t TC SAGLlK B.-\K--\XLlGI. SAGLIK HınlEllER! , ! GEXEL "ltDtRJ.eGe • TIBB! L.-\BOR.-\Tn:-\R

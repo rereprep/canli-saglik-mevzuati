@@ -11,6 +11,7 @@ ocr: true
 tarih: "2020-07-24"
 sayi: "356"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1056"
 ---
 
 11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi (Değişiklikler İşlenmiş Hâli)

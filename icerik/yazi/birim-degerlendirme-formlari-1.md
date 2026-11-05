@@ -6,6 +6,7 @@ konu: "Birim Değerlendirme Formları-1 hakkındaki düzenlemeler ve uygulama es
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 529-529"
 durum: "yürürlükte"
+sayfa_kontrol: "mevzuat-kitabi.pdf s.535"
 ---
 
 ## BİRİM DEĞERLENDİRME FORMLARI-1

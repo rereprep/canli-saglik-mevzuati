@@ -10,7 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103814/sozlesmeli-yonetici-performans-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103814.pdf s.1"
 ---
 
 9.2.4. Sözleşmeli Yönetici Performans Değerlendirme Yönergesi

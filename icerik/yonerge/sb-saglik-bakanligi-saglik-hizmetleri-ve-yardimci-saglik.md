@@ -11,6 +11,7 @@ ocr: true
 tarih: "2023-09-08"
 sayi: "22410678"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.937"
 ---
 
 9.2.1. Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge

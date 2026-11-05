@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103600/seyahat-sigortasi-olan-turistle
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103600.pdf s.1"
 ---
 
 2.3.28. Seyahat Sigortası Olan Turistlerden Trafik Kazalarında İlave Ücret Alınabilmesi Hakkında Genelge (2013/9)

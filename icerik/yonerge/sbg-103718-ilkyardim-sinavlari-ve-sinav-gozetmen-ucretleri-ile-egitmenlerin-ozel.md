@@ -10,6 +10,7 @@ durum: "yürürlükte"
 ocr: true
 konu: "İlkyardım eğitim merkezlerindeki sınavların yürütülmesini, sınav gözetmen ücretlerini ve eğitmenlerin merkezlerde çalışma esaslarını düzenler."
 duzeltildi: true
+sayfa_kontrol: "103718.pdf s.1, 103718.pdf s.2, 103718.pdf s.4"
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

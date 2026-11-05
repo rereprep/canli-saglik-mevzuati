@@ -11,6 +11,7 @@ kaynak_pdf_sayfa: "405-409"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "mevzuat-kitabi.pdf s.405"
 ---
 
 ## SAĞLIK BAKANLIĞI BİRİNCİ BASAMAK SAĞLIK KURULUŞLARINA AD VERİLMESİ HAKKINDA YÖNERGE

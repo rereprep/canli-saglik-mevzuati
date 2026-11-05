@@ -11,6 +11,7 @@ ocr: true
 tarih: "2014-01-31"
 sayi: "10.04"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.463"
 ---
 
 6.23. Toplum Sağlığı Merkezlerinde (TSM) Yürütülecek İş Sağlığı ve Güvenliği Hizmetlerinin Uygulama Usûl Ve Esasları Hakkında

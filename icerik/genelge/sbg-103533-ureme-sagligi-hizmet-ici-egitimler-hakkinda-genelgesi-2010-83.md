@@ -7,6 +7,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103533/ureme-sagligi-hizmet-ici-egitimler-hakkinda-genelgesi-201083.html"
 durum: "yürürlükte"
+sayfa_kontrol: "103533.pdf s.1"
 ---
 
 6.3.64. Üreme Sağlığı Hizmet İçi Eğitimler Hakkında Genelgesi (2010/83)

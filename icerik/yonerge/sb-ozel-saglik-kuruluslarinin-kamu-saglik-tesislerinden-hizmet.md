@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 816-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.830"
 ---
 
 7.2.6. Özel Sağlık Kuruluşlarının Kamu Sağlık Tesislerinden Hizmet Alımına İlişkin Yönerge

@@ -11,6 +11,7 @@ ocr: true
 tarih: "2024-07-01"
 sayi: ""
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.855"
 ---
 
 7.2.10. Sağlık Tesislerinde Mesai Dışı Sağlık Hizmeti Sunumuna Yönelik Usul ve Esaslar

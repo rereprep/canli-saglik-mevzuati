@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103792/tibbi-sosyal-hizmet-uygulama-yo
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103792.pdf s.1"
 ---
 
 2.2.12. Tıbbi Sosyal Hizmet Uygulama Yönergesi

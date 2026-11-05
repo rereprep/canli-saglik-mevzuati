@@ -11,7 +11,9 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11010/yangin-onleme-ve-sondurme-deneti
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
 ### T.C. SAĞLIK BAKANLIĞI – Tedavi Hizmetleri Genel Müdürlüğü
 
 Sayı: B.10.0.THG.0.10.00.15/010-06-1499  
@@ -105,7 +107,7 @@ Bakanlığınız Yangın Önleme ve Söndürme Yönergesi gereğince yataklı te
 
 Bilgilerinizi arz ederim.
 
-Ercan TOPACA [?]  
+Ercan TOPACA  
 Vali  
 Bakan a.  
 Genel Müdür

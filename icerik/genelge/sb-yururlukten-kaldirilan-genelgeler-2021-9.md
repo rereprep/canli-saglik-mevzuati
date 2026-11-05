@@ -8,6 +8,7 @@ konu: "Yürürlük kabiliyeti kalmayan veya yeni mevzuatla güncellenen eski gen
 etiketler: ["mevzuat", "yürürlükten kaldırma", "genelgeler"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 243-243"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.257"
 ---
 
 2.3.40. Yürürlükten Kaldırılan Genelgeler (2021/9)

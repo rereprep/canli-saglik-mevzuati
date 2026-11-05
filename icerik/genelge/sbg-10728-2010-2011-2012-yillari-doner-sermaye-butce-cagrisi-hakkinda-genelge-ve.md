@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10728/2010-2011-2012-yillari-doner-ser
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -169,18 +170,18 @@ S.KAYA
 
 5- Yatırım bütçesi aşağıda belirtilen borçluluk oranındaki (Borçluluk oranı= Toplam Borçlar/İlgili ay geliri) artış katsayısına göre hesaplanır.
 
-a) Borçluluk oranı 2 ve üzeri olanlar bütçenin % 2'i oranına kadar yatırım bütçesi ayırabilecek
+a) Borçluluk oranı 2 ve üzeri olanlar bütçenin % 2'i oranına kadar yatırım bütçesi ayırabilecektir.
 
-b) Borçluluk oranı 1,5-2 arası olanlar % 3’ü oranına kadar yatırım bütçesi ayırabilecek
+b) Borçluluk oranı 1,5-2 arası olanlar % 3’ü oranına kadar yatırım bütçesi ayırabilecektir.
 
-c) Borçluluk oranı 1-1,5 arası olanlar % 4'ü oranına kadar yatırım bütçesi ayırabilecek
+c) Borçluluk oranı 1-1,5 arası olanlar % 4'ü oranına kadar yatırım bütçesi ayırabilecektir.
 
-d) Borçluluk oranı 0,5-1 arası olanlar % 5'i oranına kadar yatırım bütçesi ayırabilecek
+d) Borçluluk oranı 0,5-1 arası olanlar % 5'i oranına kadar yatırım bütçesi ayırabilecektir.
 
-e) Borçluluk oranı 0-0,5 arası olanlar % 6'sı oranına kadar yatırım bütçesi ayırabilecek
+e) Borçluluk oranı 0-0,5 arası olanlar % 6'sı oranına kadar yatırım bütçesi ayırabilecektir.
 
-f) Borçluluk oranı 0 olanlar % 7'si oranına kadar yatırım bütçesi ayırabilecek
+f) Borçluluk oranı 0 olanlar % 7'si oranına kadar yatırım bütçesi ayırabilecektir.
 
 6- 750-01 (Araştırma ve Geliştirme Giderleri) Kalemine Eğitim ve Araştırma Hastanelerimiz ödenek koyabilecektir.
 
-7- EK:1 Tabloda belirlenen parametrelere 2011 de % 4.5, 2012 de % 4.5 artış uygulanacaktır
+7- EK:1 Tabloda belirlenen parametrelere 2011 de % 4.5, 2012 de % 4.5 artış uygulanacaktır.

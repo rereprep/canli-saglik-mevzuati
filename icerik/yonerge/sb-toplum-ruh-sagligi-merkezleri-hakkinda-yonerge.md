@@ -11,6 +11,7 @@ ocr: true
 tarih: "2014-03-06"
 sayi: "9453"
 duzeltildi: true
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.455"
 ---
 
 6.2.2. Toplum Ruh Sağlığı Merkezleri Hakkında Yönerge

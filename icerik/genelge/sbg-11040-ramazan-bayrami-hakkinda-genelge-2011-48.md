@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11040/ramazan-bayrami-hakkinda-genelge
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Tedavi Hizmetleri Genel Müdürlüğü

@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11055/yesil-alan-genelgesi-201413.html
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
@@ -40,9 +41,3 @@ Müsteşar
 ### DAĞITIM:
 
 Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
----
-
-**Dipnotlar**
-
-<small>Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 62156d22-a5cc-49eb-b85a-ea27bd2ac716 kodu ile erişebilirsiniz.</small>

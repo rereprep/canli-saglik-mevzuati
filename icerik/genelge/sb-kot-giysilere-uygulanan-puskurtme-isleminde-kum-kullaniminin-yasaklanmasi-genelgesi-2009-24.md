@@ -8,6 +8,7 @@ konu: "Kot taşlama ve tekstil püskürtme işlerinde silikozis riskine yol aça
 etiketler: ["kum püskürtme", "silikozis", "iş sağlığı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 509-509"
 durum: "yürürlükte"
+sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.523"
 ---
 
 6.3.12. Kot Giysilere Uygulanan Püskürtme İşleminde Kum Kullanımının Yasaklanması Genelgesi (2009/24)

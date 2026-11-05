@@ -11,6 +11,7 @@ duzeltildi: true
 konu: "Soybağının Tespiti Testi Hakkında Genelge (2024/2) konusundaki düzenleme ve uygulama esaslarını bildirir."
 tarih: "2024-03-05"
 ocr: true
+sayfa_kontrol: "102343-ek1.pdf s.1"
 ---
 
 ### 1. Tanımlar

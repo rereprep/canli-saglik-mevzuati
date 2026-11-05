@@ -10,7 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103617/kamu-zarari-genelgesi-20205.htm
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
+sayfa_kontrol: "103617.pdf s.1"
 ---
 
 11.3.2. Kamu Zararı Genelgesi (2020/5)
