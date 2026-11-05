@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 896-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.910, sbyonergevegenelge202520022025pdf.pdf s.918"
+kontrol_edildi: true
 ---
 
 7.3.15. Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti Genelgesi (2011/56)
@@ -25,8 +25,30 @@ Konu : Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tes
 
 19/10/2011
 
+............ VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
+
 GENELGE
 2011/56
+
+İlgi: 01.03.2010 tarihli ve 2010/11 Sıra Nolu Genelge.
+
+Bakanlığımıza bağlı sağlık kurum ve kuruluşlarımızda vatandaş memnuniyetinin artırılması, hizmet kalitesinin daha üst düzeye çıkarılması ve kamu kaynaklarının etkili, ekonomik ve verimli kullanılması sağlık hizmetlerinin sürdürülebilirliği açısından büyük önem arz etmektedir.
+
+4734 sayılı Kamu İhale Kanunu hükümleri çerçevesinde ihtiyaçların uygun şartlarda ve zamanında karşılanmasının en önemli etkenlerinden birisi de alım konusu işin yaklaşık maliyetinin gerçekçi ve piyasa şartlarına uygun olarak belirlenmesidir. 4734 sayılı Kanuna dayanılarak Kamu İhale Kurumu'nca yayımlanan ihale uygulama yönetmeliklerinde ve Kamu İhale Genel Tebliği'nde yaklaşık maliyetin nasıl tespit edileceği ve dikkat edilecek hususlar ayrıntılı olarak belirtilmiştir. Hizmet Alımı İhaleleri Uygulama Yönetmeliği'nin "Yaklaşık maliyetin hesaplanmasına esas miktar ve fiyatların tespiti" başlıklı 8 inci maddesinde de;
+
+"İdareler, yaklaşık maliyetin hesaplanabilmesi için öncelikle ihale konusu hizmeti oluşturan iş kalemlerini veya gruplarını ve bunlara ilişkin miktarları tespit ederler. Bu amaçla, idare tarafından gerek duyulduğunda, aşağıda belirtilen esas ve usuller çerçevesinde miktar araştırması da yapılabilir.
+
+(2) Yaklaşık maliyete ilişkin fiyatların tespitinde;
+a) Kamu kurum ve kuruluşlarınca işin niteliğine göre belirlenmiş fiyatlar,
+b) İhaleyi yapan idare veya diğer idarelerce gerçekleştirilmiş aynı veya benzer işlerdeki fiyatlar,
+c) İlgili odalarca belirlenmiş fiyatlar,
+ç) İhale konusu işi oluşturan iş kalemlerine veya gruplarına ilişkin olarak piyasadan yapılacak fiyat araştırması kapsamında elde edilecek fiyat tekliflerinin aritmetik ortalaması alınmak suretiyle ya da konusunda uzman bilirkişi ve ekspertizlerden soruşturularak oluşturulan fiyatlar,
+d) İhale konusu işe ilişkin olarak Bütçe Uygulama Talimatlarında ve/veya Sağlık Uygulama Tebliğinde yer alan fiyatlardan KDV veya farklı nitelikteki diğer giderler indirilmek suretiyle bulunan fiyatlar,
+Esas alınır.
+(3) İdareler yaklaşık maliyete ilişkin fiyatların tespitinde, (a), (b), (c), (ç) ve (d) bentlerinde belirtilen fiyatların birini, birkaçını veya tamamını herhangi bir öncelik sırası olmaksızın kullanabilirler..." şeklinde hüküm yer almaktadır.
+
+İlgide kayıtlı genelge hükümleri çerçevesinde alımına karar/izin verilen "Tıbbi Cihaz Hizmet Alımları ile Tıbbi Hizmet Alımları"nın yaklaşık maliyet tespitinde; Bakanlığımıza bağlı bazı kurumlarca Sağlık Uygulama Tebliğinde yer alan fiyatlardan KDV veya farklı nitelikteki diğer giderler indirilmek suretiyle bulunan fiyatların esas alındığı bilinmektedir.
 
 Bakanlığımızca yapılan değerlendirmelerde, yaklaşık maliyeti Sağlık Uygulama Tebliğinde yer alan fiyatların esas alınarak belirlendiği ihalelerde gerçekçi bir fiyat teklifinin verilmediği ve hizmetin daha ekonomik olarak alınmasının her zaman sağlanamadığı görülmüştür.
 
@@ -151,5 +173,41 @@ Teftiş Kurulu Başkanlığına
 İç Denetim Birimi Başkanlığına
 Tedavi Hizmetleri Genel Müdürlüğüne
 
-*(Not: Kamu Hastaneleri Genel Müdürlüğünce ilgili sistem güncellenmiş olup yapılan yaklaşık maliyet hesaplamalarında güncellenmiş modül kullanılacaktır.)*
+Kamu Hastaneleri Genel Müdürlüğünce ilgili sistem güncellenmiş olup yapılan yaklaşık maliyet hesaplamalarında güncellenmiş modül kullanılacaktır.
+
+T.C.
+SAĞLIK BAKANLIĞI
+Kamu Hastaneleri Genel Müdürlüğü
+
+Sayı : E-36385208-949-226519750
+Konu : Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti
+
+10.10.2023
+
+DAĞITIM YERLERİNE
+
+İlgi : Strateji Geliştirme Başkanlığının 19.10.2011 tarihli ve 11143 sayılı 2011/56 Genelgesi
+
+Bakanlığımıza bağlı sağlık kurum ve kuruluşlarımızda vatandaş memnuniyetinin artırılması, hizmet kalitesinin daha üst düzeye çıkarılması ve kamu kaynaklarının etkili, ekonomik ve verimli kullanılması sağlık hizmetlerinin sürdürülebilirliği açısından büyük önem arz etmektedir.
+
+Strateji Geliştirme Başkanlığının ilgide kayıtlı Genelgesinde; "...Manyetik Rezonans (MR) ve Bilgisayarlı Tomografi (BT) Hizmet Alımlarında yaklaşık maliyetin daha sağlıklı belirlenebilmesi için Bakanlığımıza bağlı kurumlar bundan sonra; alınacak hizmeti oluşturan iş gruplarını ve maliyet bileşenlerini dikkate alarak yaklaşık maliyet tespiti yapacaklardır." düzenlemesi yer almaktadır. Bu amaçla, sağlık tesislerimizce kullanılmakta olan Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Hesaplamaya Yardımcı Modülde yer alan ilgili parametreler, oluşan yeni ekonomik koşullar doğrultusunda güncellenmiştir.
+
+Bu kapsamda, Müdürlüğünüz ve bağlı sağlık tesislerince yapılacak olan MR ve BT hizmet alımlarının yaklaşık maliyet tespitlerinde; ilgi genelge hükümleri doğrultusunda, https://hizmetalimlari.saglik.gov.tr adresinde yer alan güncellenmiş modülün kullanılması ve konunun bağlı sağlık tesislerimizin ilgili birimlerine ivedilikle duyurulması hususunda;
+
+Bilgilerini ve gereğini rica ederim.
+
+Uzm. Dr. İlkay GÜLER
+Bakan a.
+Genel Müdür Yardımcısı
+
+Ek: İlgi Genelge (8 Sayfa)
+
+Dağıtım:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+Bilgi:
+Strateji Geliştirme Başkanlığına
+
+Bu belge, güvenli elektronik imza ile imzalanmıştır.
 
