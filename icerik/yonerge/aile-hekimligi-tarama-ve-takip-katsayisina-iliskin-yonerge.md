@@ -9,7 +9,9 @@ konu: "Aile Hekimliği Tarama ve Takip Katsayısına İlişkin Yönerge hüküml
 etiketler: ["aile-hekimligi", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 404-408"
 durum: "yürürlükte"
-sayfa_kontrol: "mevzuat-kitabi.pdf s.414"
+ocr: true
+duzeltildi: true
+kontrol_edildi: true
 ---
 
 30.06.2021 tarihli ve 1091 sayılı Yönerge
@@ -190,8 +192,54 @@ az) olanlar için iki yılda bir, orta riskli (%5-4) olanlar için altı ayda bi
 
 **MADDE 16 –** (1) Bu yönerge hükümlerini Sağlık Bakanı yürütür. Ek: Ek-1: Kriter Katsayısına Esas Asgari Ve Azami Başarı Oranları Ek-2: Başarı Oranlarına Göre Kriter Katsayıları Ek-3: Hipertansiyon Değerlendirme Kılavuzu Ek-4: Diyabet Değerlendirme Kılavuzu Ek-5: Obezite Değerlendirme Kılavuzu Ek-6: Aile Sağlığı Merkezlerinde Kanser Tarama Kılavuzu Ek-7: Kardiyovasküler Risk Değerlendirmesi Kılavuzu Ek-8: Çok Yönlü Yaşlı Değerlendirme Kılavuzu
 
-### 407
+### EK – 1
+#### KRİTER KATSAYISINA ESAS ASGARİ VE AZAMİ BAŞARI ORANLARI
+
+| Kriter | | Asgari Başarı Yüzdesi | Azami Başarı Yüzdesi |
+| --- | --- | --- | --- |
+| Hipertansiyon | Tarama | 40 | 90 |
+| | Takip | 50 | 90 |
+| | Sonuç | 40 | 90 |
+| Diyabet | Tarama | 40 | 90 |
+| | Takip | 50 | 90 |
+| | Sonuç | 40 | 90 |
+| Obezite | Tarama | 40 | 90 |
+| | Takip | 50 | 90 |
+| | Sonuç | 40 | 90 |
+| Serviks Kanseri | Tarama | 50 | 90 |
+| Kolorektal Kanser | Tarama | 50 | 90 |
+| Meme Kanseri | Tarama | 40 | 90 |
+| Kardiyovasküler Risk Değerlendirmesi | Tarama | 40 | 90 |
+| | Takip | 50 | 90 |
+| | Sonuç | 40 | 90 |
+| Çok Yönlü Yaşlı Sağlığı Değerlendirmesi | Tarama | 40 | 90 |
+| | Takip | 50 | 90 |
+| | Sonuç | 40 | 90 |
+| Süreç Yönetimi | | 50 | 80 |
+
+### EK – 2
+#### BAŞARI ORANLARINA GÖRE KRİTER KATSAYILARI
+
+| KRİTERLER | KATSAYILAR | Asgari Başarı Oranının Altı İçin Kriter Katsayısı | Asgari Başarı Oranı İçin Kriter Katsayısı | Asgari – Azami Başarı Oranları Arası İçin Kriter Katsayısı | Azami Başarı Oranı Üzeri İçin Kriter Katsayısı |
+| --- | --- | --- | --- | --- | --- |
+| Hipertansiyon | Tarama | 0,994 | 1 | 1 ila 1,05 | 1,05 |
+| | Takip | 0,99 | 1 | 1 ila 1,0231 | 1,0231 |
+| | Sonuç | 1 | 1 | 1 | 1 |
+| Diyabet | Tarama | 0,994 | 1 | 1 ila 1,05 | 1,05 |
+| | Takip | 0,99 | 1 | 1 ila 1,023 | 1,023 |
+| | Sonuç | 1 | 1 | 1 | 1 |
+| Obezite | Tarama | 0,994 | 1 | 1 ila 1,05 | 1,05 |
+| | Takip | 0,99 | 1 | 1 ila 1,023 | 1,023 |
+| | Sonuç | 1 | 1 | 1 | 1 |
+| Serviks Kanseri | Tarama | 0,994 | 1 | 1 ila 1,03 | 1,03 |
+| Kolorektal Kanser | Tarama | 0,994 | 1 | 1 ila 1,03 | 1,03 |
+| Meme Kanseri | Tarama | 0,994 | 1 | 1 ila 1,031 | 1,031 |
+| Kardiyovasküler Risk Değerlendirmesi | Tarama | 0,994 | 1 | 1 ila 1,05 | 1,05 |
+| | Takip | 0,99 | 1 | 1 ila 1,023 | 1,023 |
+| | Sonuç | 1 | 1 | 1 | 1 |
+| Çok Yönlü Yaşlı Sağlığı Değerlendirmesi | Tarama | 0,994 | 1 | 1 | 1 |
+| | Takip | 0,99 | 1 | 1 | 1 |
+| | Sonuç | 1 | 1 | 1 | 1 |
+| Süreç Yönetimi | | 0,994 | 1 | 1 ila 1,03 | 1,03 |
 
 (Değişik 13/08/2021 tarihli ve E.1298) Ek 2’de yer alan Asgari Başarı Oranının Altı İçin Kriter Katsayı değerleri “1” olarak değiştirilmiştir.
-
-### 408

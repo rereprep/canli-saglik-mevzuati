@@ -41,7 +41,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
   - Künye kayıtları tamamlanıyor: araclar/mevzuat_gov_aktar.py (güncel metin; kaynak-isleme/mevzuat-gov/eslesme.json) ve araclar/resmi_gazete_aktar.py (ilk yayımlanan metin; segmentler/resmi-gazete.json). Tam metin 661 → 967. mevzuat.gov.tr erişim kesintisinde aktarım ~221/325'te durdu; erişim gelince eslesme.json'daki boş kayıtları silip yeniden çalıştır.
   - saglik.gov.tr: tebliğ ve alt site sayfaları da izleniyor; sayfa içi genelge metinleri (pages_content) içeriğe alınıyor (saglik_gov_aktar.html_yaz).
   - Resmî Gazete takibinde Gemini kullanılmıyor (kullanıcı kararı); depo ayarında "Allow GitHub Actions to create and approve pull requests" açıldı.
-  - OCR hızlı kontrolü sürüyor: künyede `kontrol_edildi: true` olanlar ikinci kez kontrol edildi (233/540; bu turda sonraki 5 genelge sayfası görüntüyle karşılaştırıldı). Kalan: `grep -l '^ocr: true' icerik/*/*.md | xargs grep -L '^kontrol_edildi: true'`.
+  - OCR hızlı kontrolü sürüyor: künyede `kontrol_edildi: true` olanlar ikinci kez kontrol edildi (243/540; bu turda sonraki 5 genelge sayfası görüntüyle karşılaştırıldı). Kalan: `grep -l '^ocr: true' icerik/*/*.md | xargs grep -L '^kontrol_edildi: true'`.
 - OCR düzeltmesi tamamlandı (2026-11-05). Yeni eklenen OCR'lı belgeler için aynı ajan akışını kullan.
 - Ajan raporlarındaki notlar: bazı yönergelerde onay tarihi kaynakta boş ("…/…/2019"); bu künyeler bilerek boş bırakıldı. Birim adları künyede bugünkü adlarla, metinde eski adlarla geçebilir.
 - Resmî Gazete takibi için depo Settings > Secrets'a GEMINI_API_KEY eklenebilir; otomatik PR için Actions > "Allow GitHub Actions to create pull requests" açılmalı.

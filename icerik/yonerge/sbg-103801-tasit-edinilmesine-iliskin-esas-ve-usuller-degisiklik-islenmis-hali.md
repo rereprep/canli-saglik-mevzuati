@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103801/tasit-edinilmesine-iliskin-esas
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103801.pdf s.1"
+kontrol_edildi: true
 ---
 
 ## 11.2. YÖNERGELER

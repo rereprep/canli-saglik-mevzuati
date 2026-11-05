@@ -9,7 +9,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103598/replantasyon-uygulamalari-genel
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103598.pdf s.1"
+tarih: "14.07.2016"
+kontrol_edildi: true
 ---
 
 2.3.38. Replantasyon Uygulamaları Genelgesi (2016/9)
@@ -18,7 +19,7 @@ sayfa_kontrol: "103598.pdf s.1"
 ### SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : 83913885-010.06/  
+Sayı : 83913885  
 Konu : Replantasyon Uygulamaları
 
 ### GENELGE

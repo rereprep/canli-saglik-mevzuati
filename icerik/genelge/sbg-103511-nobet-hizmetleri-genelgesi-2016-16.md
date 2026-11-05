@@ -2,27 +2,45 @@
 id: "sbg-103511-nobet-hizmetleri-genelgesi-2016-16"
 baslik: "Nöbet Hizmetleri Genelgesi (2016/16)"
 tur: "genelge"
+tarih: "2016-09-07"
 sayi: "2016/16"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Türkiye Halk Sağlığı Kurumu"
+konu: "Aile hekimliği çalışanlarının ASM, TSM, hastaneler ve 112 acil sağlık hizmetlerinde yürütecekleri nöbet hizmetlerinin usul ve esasları"
+etiketler: ["nöbet hizmetleri", "aile hekimliği", "asm", "tsm", "112 acil", "hastane"]
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103511/nobet-hizmetleri-genelgesi-201616.html"
 durum: "yürürlükte"
-duzeltildi: true
-konu: "Nöbet Hizmetleri Genelgesi (2016/16) konusundaki uygulama ve esasları bildirir."
-tarih: "2016-09-07"
 ocr: true
-sayfa_kontrol: "103511-ek1.pdf s.1"
+duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.1. Nöbet Hizmetleri Genelgesi (2016/16)
 
-Sayı: 99858683
+T.C.
+SAĞLIK BAKANLIĞI
+Türkiye Halk Sağlığı Kurumu Başkanlığı
 
-Konu: Nöbet Hizmetleri
+Sayı : 99858683 - 00030167566
+Konu : Nöbet Hizmetleri
 
-b) Nöbet tutturulacak sağlık tesisinde görev yapan ebe, hemşire, sağlık memuru (toplum sağlığı) ve acil tıp teknisyenlerinin aylık mesailerinin üzerine 24 saat ilave (160+24) hizmet vermelerine rağmen ihtiyacın devam etmesi durumunda; aile sağlığı elemanları, il ve ilçe sağlık müdürlüğü, 112 acil sağlık hizmetleri başhekimliği ve bağlı istasyonları, halk sağlığı müdürluğu, toplum sağlığı merkezi, kamu hastaneleri genel sekreterliğinde sayılan unvanlarda görev yapanları dâhil edilmesi suretiyle nöbet havuzu oluşturulacaktır.
+GENELGE
+2016/16
 
-e) İlgili kurumlar yukarıdaki hükümler çerçevesinde belirledikleri nöbet ihtiyacını Halk Sağlığı Müdürlüğüne bildirecek olup, halk sağlığı müdürlüğünün değerlendirmesi ile nöbet planlaması yapılacaktır. Ihtilaf olması halinde 04/07/2013 tarihli ve 2013/3 sayılı Bakanlığımız Genelgesi ile oluşturulan komisyon kararına göre işlem tesis edilecektir.
+07/09/2016 tarihli ve 29824 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren 6745 sayılı Kanunun 59 uncu maddesi ile 5258 sayılı Aile Hekimliği Kanunu'nun 3 üncü maddesinin beşinci fıkrasının ikinci cümlesi "Aile hekimlerine ve aile sağlığı elemanlarına ihtiyaç halinde, 657 sayılı Kanunun ek 33 üncü maddesinde belirtilen yerlerde haftalık çalışma süresi ve mesai saatleri dışında nöbet görevi verilir." şeklinde değiştirilmiştir.
+
+5258 sayılı Kanunun 3 üncü maddesinin beşinci fıkrası ile Aile Hekimliği Uygulama Yönetmeliğinin 10 uncu maddesinin dördüncü fıkrası çerçevesinde aile hekimliği çalışanlarının (aile hekimi ve aile sağlığı elemanı) ihtiyaç halinde aile sağlığı merkezleri (ASM), toplum sağlığı merkezleri (TSM) ve bağlı birimlerinde ya da hastanelerde ve 112 acil sağlık hizmetlerinde yürütecekleri nöbet hizmetleri aşağıdaki açıklamalar doğrultusunda yerine getirilecektir:
+
+1) Aile hekimliği çalışanları tarafından verilecek nöbet hizmetlerine ilişkin listelerin hazırlanması, iş ve işlemlerin takibi, değerlendirilmesi, koordinasyonu ve sonuçlandırılması halk sağlığı müdürlüğü (HSM) tarafından gerçekleştirilecektir. Bir sonraki ayın nöbet listeleri halk sağlığı müdürlüğünce önceki ayın en geç 20'sine kadar düzenlenerek, halk sağlığı müdürlüğünün internet sayfasından duyurulacak ve Elektronik Belge Yönetim Sistemi (EBYS) üzerinden ilgililere tebliğ edilecektir.
+
+2) TSM ve bağlı birimleri ile ASM'lerde ihtiyaç halinde verilecek nöbet hizmetleri aşağıdaki usul ve esaslar çerçevesinde yürütülecektir:
+a) Hastanesi bulunmayan ve entegre sağlık hizmeti sunulamayan ilçe merkezleri, nüfus yoğunluğunun dönemsel olarak arttığı yerleşim yerleri gibi nöbet mahalleri, halk sağlığı müdürlüğünün nöbet ihtiyacını belirten gerekçeli teklifi ve Türkiye Halk Sağlığı Kurumunun onayı ile belirlenecektir.
+b) Nöbetlerde kayıt işlemleri Aile Hekimliği Bilgi Sistemi ve/veya Muayene Bilgi Yönetim Sistemi üzerinden gerçekleştirilecektir.
+
+3) Hastanelerde ve 112 acil sağlık hizmetlerinde aile hekimliği çalışanlarına nöbet tutturulmasını gerektiren ihtiyaç hali; illerin sağlık personeli doluluk durumu, nüfusu, coğrafi şartları, sosyo-ekonomik ve kültürel özellikleri, nöbet tutulacak sağlık tesisinin il veya ilçe merkezine uzaklığı gibi kriterler göz önünde bulundurulmak suretiyle belirlenecektir. Buna göre:
+a) Nöbet tutturulacak sağlık tesisinde görev yapan hekimlerin (branşında tek olan veya aktif branş nöbeti tutan uzman hekimler hariç) aylık mesailerinin üzerine 24 saat daha (160+24) hizmet vermelerine rağmen hekim ihtiyacının devam etmesi durumunda; nöbet tutulacak hastanede görev yapan hekimler (branşında tek olan veya aktif branş nöbeti tutan uzman hekimler hariç) ile aile hekimleri, il ve ilçe sağlık müdürlüğü, 112 acil sağlık hizmetleri başhekimliği ve bağlı istasyonları, halk sağlığı müdürlüğü, toplum sağlığı merkezi, kamu hastaneleri genel sekreterliğinde görev yapan hekimlerin dâhil edilmesi suretiyle nöbet havuzu oluşturulacaktır.
+b) Nöbet tutturulacak sağlık tesisinde görev yapan ebe, hemşire, sağlık memuru (toplum sağlığı) ve acil tıp teknisyenlerinin aylık mesailerinin üzerine 24 saat ilave (160+24) hizmet vermelerine rağmen ihtiyacın devam etmesi durumunda; aile sağlığı elemanları, il ve ilçe sağlık müdürlüğü, 112 acil sağlık hizmetleri başhekimliği ve bağlı istasyonları, halk sağlığı müdürlüğü, toplum sağlığı merkezi, kamu hastaneleri genel sekreterliğinde sayılan unvanlarda görev yapanların dâhil edilmesi suretiyle nöbet havuzu oluşturulacaktır.
+c) İlgili kurumlar yukarıdaki hükümler çerçevesinde belirledikleri nöbet ihtiyacını Halk Sağlığı Müdürlüğüne bildirecek olup, halk sağlığı müdürlüğünün değerlendirmesi ile nöbet planlaması yapılacaktır. İhtilaf olması halinde 04/07/2013 tarihli ve 2013/3 sayılı Bakanlığımız Genelgesi ile oluşturulan komisyon kararına göre işlem tesis edilecektir.
 
 4) Nöbet listeleri öncelikle gönüllülük esasına göre hazırlanacaktır. Nöbet listesi hazırlanırken sağlık personelinin eşit ve sıralı şekilde yer almasına azami dikkat gösterilecektir.
 
@@ -37,9 +55,8 @@ e) İlgili kurumlar yukarıdaki hükümler çerçevesinde belirledikleri nöbet 
 Bilgilerini ve gereğini rica ederim.
 
 Prof. Dr. Eyüp GÜMÜŞ
-
 Bakan a.
+Müsteşar
 
-Müsteşar Dağıtım
-
-### A PLANI
+DAĞITIM:
+A Planı

@@ -13,8 +13,6 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
-
 ### T.C. SAĞLIK BAKANLIĞI
 #### Strateji Geliştirme Başkanlığı
 

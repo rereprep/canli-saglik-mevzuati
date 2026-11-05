@@ -9,7 +9,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103602/sunnet-islemi-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103602.pdf s.1"
+tarih: "23.03.2015"
+kontrol_edildi: true
 ---
 
 2.3.23. Sünnet İşlemi Genelgesi
@@ -18,7 +19,7 @@ sayfa_kontrol: "103602.pdf s.1"
 ### SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : 54567092-045 / 333  
+Sayı : 54567092/045/  
 Konu : Sünnet İşlemi  
 25/03/2015
 

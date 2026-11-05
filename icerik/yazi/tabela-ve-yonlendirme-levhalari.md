@@ -12,7 +12,7 @@ kaynak_pdf_sayfa: "532-533"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "mevzuat-kitabi.pdf s.533"
+kontrol_edildi: true
 ---
 
 ## TABELA VE YÖNLENDİRME LEVHALARI

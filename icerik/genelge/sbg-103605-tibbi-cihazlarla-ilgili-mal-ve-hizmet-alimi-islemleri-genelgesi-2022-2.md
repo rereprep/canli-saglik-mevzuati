@@ -10,7 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103605/tibbi-cihazlarla-ilgili-mal-ve-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103605.pdf s.1"
+kontrol_edildi: true
 ---
 2.3.30. Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri Genelgesi (2022/2)
 
@@ -18,7 +18,7 @@ T.C.
 SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : E-23642684-010.06.01-638
+Sayı : 83913885
 Konu : Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri
 
 22/03/2022
@@ -30,15 +30,23 @@ Bakanlığımıza bağlı sağlık tesisleri, üniversite hastaneleri ve özel s
 
 ### 1. GENEL ESASLAR:
 
-1.1. Sağlık tesislerinin tıbbi cihaz mal ve hizmet alımları, il düzeyinde kurulacak olan Tıbbi Cihaz ve Tıbbi Hizmet Alımı Komisyonu marifetiyle planlanacaktır.
+1.1. Bu Genelge kapsamında düzenlenen konular ile ilgili İl Sağlık Müdürlükleri bünyesinde, ilgilerine göre gerekli uzman personellerin de bulunduğu en az 3 (üç) veya daha fazla tek sayıda üyeden müteşekkil “İl Tıbbi Cihaz Alımları Planlama Komisyonu” kurulacaktır.
 
-1.2. İl Komisyonu, il genelindeki kamu, üniversite ve özel sağlık tesislerinin tıbbi cihaz taleplerini, mevcut cihaz envanterini, atıl kapasiteyi ve ilin demografik/epidemiyolojik ihtiyaçlarını gözeterek değerlendirecektir.
+1.2. İlde bulunan sağlık kuruluşlarının bu Genelge kapsamındaki talepleri öncelikli olarak mezkûr Komisyonca değerlendirmeye alınacak ve İl Sağlık Müdürlüğüne gerekçeleri ile birlikte rapor halinde sunulacaktır. İl Sağlık Müdürlüğü tarafından komisyon raporu değerlendirilerek bu Genelgenin müteakip maddelerinde bahsi geçen iş ve işlemler yerine getirilir. İl Sağlık Müdürlüğü tarafından uygun görülen başvurular bilgi ve gereği için Sağlık Hizmetleri Genel Müdürlüğüne gönderilir, reddedilen başvurular ise gönderilmez. Kamu Hastaneleri Genel Müdürlüğü ile Halk Sağlığı Genel Müdürlüğünün görev alanında yer alan sağlık tesislerinin tıbbi cihaz alımları ve tıbbi cihaz hizmet alımları İl Sağlık Müdürlüğü tarafından ilgili Genel Müdürlüğe gönderilecektir. Planlama kapsamındaki tıbbi cihaz alımları ve tıbbi cihaz hizmet alımları ilgili Genel Müdürlük aracılığıyla Sağlık Hizmetleri Genel Müdürlüğüne iletilecektir. Ayrıca Müdürlük bünyesindeki ilgili başkanlıklar, il genelinde görev alanları kapsamındaki planlamaya tabi cihazlara ait envanter kayıtlarını tutarlar.
 
-1.3. Komisyon her ay düzenli olarak toplanacak ve alınan kararlar gerekçeleri ile birlikte karar defterine işlenecektir.
+1.3. Komisyon karar verirken özel sağlık kurumlarının kapasitelerini de göz önünde bulunduracaktır. Komisyon eksiksiz olarak toplanıp komisyon kararları çoğunlukla alınacaktır. Kararlarda çekimser kalınamaz; karşı oy kullanan komisyon üyeleri gerekçesini karara yazmak ve imzalamak zorundadır. Komisyon üyeleri oy ve kararlarından sorumludur. Komisyonda görev yapacak personel tedarikinde alt maddelerdeki sıralamaya dikkat edilerek üye alınır. İlde bulunmaması halinde yakın illerden, il sağlık müdürlüklerinin “görevlendirme” talepleri ile temin edilecektir. Üyeler öncelik ve bulunma sırasına göre alt maddelerdeki kurumlarda çalışan uzmanlardan oluşacaktır:
 
-1.4. Komisyon başkanı Sağlık Müdürü veya ilgili başkanlardan biri olmak üzere seçilir. Diğer üyeler başvurulanın türüne göre ilgili uzmanlık dallarından olmak şartı ile genelgenin müteakip maddelerine göre Sağlık Müdürlüğü tarafindan belirlenecektir.
+1.3.1. Sağlık Bakanlığına bağlı Eğitim ve Araştırma Hastaneleri,
+1.3.2. Üniversite Hastaneleri,
+1.3.3. Devlet Hastaneleri,
+1.3.4. Sağlık Müdürlüğü İdari Birimleri,
+1.3.5. Özel sektör Mesul Müdürleri (gözlemci sıfatı ile).
 
-1.5. Planlama kapsamında bulunan tıbbi cihaz (PET-CT, LINAC, Tomoterapi, Cobalt-60, Brakiterapi, Koroner Anjiyografi, Cyberknife) hizmet alımları ile ilgili il görüşü Sağlık Hizmetleri Genel Müdürlüğü'ne bildirilecektir. Kamu Hastaneleri Genel Müdürlüğü ile Halk Sağlığı Genel Müdürluğü'nün görev alanında yer alan sağlık tesisleri ile alakalı ilin görüşü ilgili Genel Müdürlük aracığıyla Sağhk Hizmetleri Genel Müdürlüğü'ne bildirilecektir. Sağlık Hızmetleri Genel Müdürluğü'nün izin yazısı olmadan tıbbi cihaz, tıbbi cihaz hizmet ve tıbbi hizmet alımı işlemlerine başlanmayacak ve izin yazısı ihale dosyalarında bulundurulacaktır. Kamu Hastaneleri Genel Müdürlüğü'nün görev alanında bulunan sağlık tesislerinin Bakanlık iznine tabi tıbbi cihaz hizmet ve tıbbi hizmet alımları ilgili Genel Müdürlük tarafından belirlenerek yayınlanır ve talepleri Kamu Hastaneleri tarafından değerlendirilir. Diğer cihazlara ait hizmet alımı talepleri Bakanlığa gönderilmeyecektir.
+İstenildiği takdirde Ankara ve İzmir illerindeki kurumlar iki grup halinde, İstanbul’daki kurumlar ise altı grup halinde değerlendirilerek komisyonlar toplanabilecektir.
+
+1.4. Komisyon başkanı Sağlık Müdürü veya ilgili başkanlardan biri olmak üzere seçilir. Diğer üyeler başvurulanın türüne göre ilgili uzmanlık dallarından olmak şartı ile Genelgenin müteakip maddelerine göre Sağlık Müdürlüğü tarafından belirlenecektir.
+
+1.5. Planlama kapsamında bulunan tıbbi cihaz (PET-CT, LINAC, Tomoterapi, Cobalt-60, Brakiterapi, Koroner Anjiyografi, Cyberknife) hizmet alımları ile ilgili il görüşü Sağlık Hizmetleri Genel Müdürlüğüne bildirilecektir. Kamu Hastaneleri Genel Müdürlüğü ile Halk Sağlığı Genel Müdürlüğünün görev alanında yer alan sağlık tesisleri ile alakalı ilin görüşü ilgili Genel Müdürlük aracılığıyla Sağlık Hizmetleri Genel Müdürlüğüne bildirilecektir. Sağlık Hizmetleri Genel Müdürlüğünün izin yazısı olmadan tıbbi cihaz, tıbbi cihaz hizmet ve tıbbi hizmet alımı işlemlerine başlanmayacak ve izin yazısı ihale dosyalarında bulundurulacaktır. Kamu Hastaneleri Genel Müdürlüğünün görev alanında bulunan sağlık tesislerinin Bakanlık iznine tabi tıbbi cihaz hizmet ve tıbbi hizmet alımları ilgili Genel Müdürlük tarafından belirlenerek yayımlanır ve talepleri Kamu Hastaneleri tarafından değerlendirilir. Diğer cihazlara ait hizmet alımı talepleri Bakanlığa gönderilmeyecektir.
 
 1.6. Tıbbi cihaz alım, tıbbi cihaz hizmet alım veya tıbbi hizmet alım talepleri için cihaz veya hizmetler ile ilgili en az bir uzman üye belirlenecektir.
 

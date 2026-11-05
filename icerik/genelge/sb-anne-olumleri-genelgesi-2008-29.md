@@ -2,56 +2,42 @@
 id: "sb-anne-olumleri-genelgesi-2008-29"
 baslik: "Anne Ölümleri Genelgesi (2008/29)"
 tur: "genelge"
+tarih: "2008-04-16"
 sayi: "2008/29"
-birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Kırsal kesimde yaşayan gebelerin tespiti, doğum öncesi bakım, riskli gebeliklerin takibi ve misafir anne uygulaması talimatı."
-etiketler: ["halk sağlığı", "çocuk sağlığı", "anne sağlığı", "tarama"]
+birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "Kırsal kesimde yaşayan gebelerin tespiti, olumsuz kış ve hava koşullarında doğum öncesi nakilleri, konaklatılmaları ve koordinasyon esaslarını düzenler."
+etiketler: ["halk sağlığı", "çocuk sağlığı", "anne sağlığı", "misafir anne"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 757-758"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.771"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
-#### Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
+#### Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-**Sayı :** B.10.0.AÇS.0.12.00.00-010.06/4925  
-**Konu :** Anne Ölümleri
-
-### VALİLİĞİNE
+**Sayı :** B100TSH0130000- 12245  
+**Konu :** Anne Ölümleri  
+**Tarih :** 16.04.2008
 
 ### GENELGE
 **2008/29**
 
-Toplumun gelişmişlik düzeyini gösteren en temel göstergelerden biri anne ölüm düzeyidir. Anne ölümlerini azaltmada temel yaklaşım, gebeliğin başlangıcından itibaren tüm gebelerin sağlık personeli tarafından izlenmesi, risklerin belirlenmesi ve her doğumun sağlık kuruluşunda sağlıklı şartlarda sağlık personeli yardımıyla yaptırılmasının sağlanmasıdır.
+Anne ve bebek ölümlerini azaltmak için yürütülen ana ve çocuk sağlığı hizmetleri, rutin sağlık hizmetlerinin yanında özel programlarla desteklenmekte ve ulusal sağlık politikalarının en önemli ayaklarından birini oluşturmaktadır. Tüm çabalara rağmen, sonradan değerlendirildiğinde alınabilecek basit tedbirler ile önlenebilir olan birçok risk günümüzde halen büyük sorunlar olarak karşımıza çıkabilmektedir. Ülke genelinde, kimi yıllar çok daha ağır olmakla birlikte, bazı bölgelerimizde kış aylarının olumsuz hava koşulları nedeniyle ulaşım imkansız hale gelmektedir. Birçok kamu kurum ve kuruluşu bu olumsuz koşullarda hizmetini sürdürmek üzere maddi ve manevi çok değerli çabaları ortaya koymaktadırlar. Ancak buna rağmen bazı yerleşim merkezleri ile ulaşım zaman zaman sağlanamamaktadır. Elverişsiz hava şartları nedeniyle en değerli varlıklarımız olan annelerin sağlıklarını tehdit edebilecek olan bu koşulların, alınacak çok basit tedbirler ile ortadan kaldırılabilmesi mümkündür.
 
-Bakanlığımızca kırsal kesimde yaşayan gebelerin tespit edilmesi, doğum öncesi bakımlarının sağlanması, gebelikte gelişebilecek tehlike işaretleri konusunda eğitilmeleri ve doğumlarını sağlık kuruluşunda yapmalarının sağlanması amacıyla yürütülen çalışmalara ağırlık verilmiştir.
+Alınan tüm tedbirlere rağmen kimi zaman doğum eylemi yaklaşmış ya da başlamış olan annelerimizin, ilgili sağlık kurum ve kuruluşlarına ulaşması mümkün olmamaktadır. İl sağlık müdürlükleri olarak, ulaşım ve hava şartları yönünden elverişsiz yerleşim merkezlerinde ikamet eden gebelerin, muhtemel doğum tarihleri yaklaştığında daha elverişli yerleşim merkezlerine nakledilmeleri ve buralarda konaklamalarının sağlanması ile ilgili bir eylem planı hazırlamaları gerekmektedir.
 
-Bu kapsamda;
-
-1- Kırsal kesimde yaşayan ve doğum yapması beklenen gebelerin tespit edilerek kayıt altına alınması,
-
-2- Bu gebelerin doğum öncesi bakım hizmetlerinden eksiksiz yararlandırılması,
-
-3- Ulaşım güçlüğü olan bölgelerdeki gebelerin, doğum zamanı yaklaşmadan önce uygun sağlık kuruluşlarına nakillerinin planlanması ve gerektiğinde "Misafir Anne Uygulaması" kapsamında konaklatılmalarının sağlanması,
-
-4- Riskli gebeliklerin tespit edilerek bir üst basamağa sevklerinin ve takiplerinin titizlikle yürütülmesi,
-
-5- Gebelerin acil durumlarda 112 Acil Yardım ambulansları ile sevklerinin ücretsiz olarak gerçekleştirilmesi,
-
-6- İlgili kurum ve kuruluşlarla koordinasyon sağlanarak kış şartları ve olumsuz hava koşullarında yolların açık tutulması ve sağlık ekiplerinin ulaşımına öncelik verilmesi,
-
-hususlarında gereken hassasiyetin gösterilmesini, riskli gebelerin ve acil müdahale gerektiren hastaların bulunduğu mahallere öncelik verilmesi ve bu çalışmalarda bulunan kamu kurum ve kuruluşların imkanlarını bu mahallere yönlendirmesi konusunda gerekli koordinasyonun sağlanması hususlarında gereğini rica ederim.
+Bu eylem planı doğrultusunda iliniz bünyesinde Müdürlüğünüz ile ilgili diğer kamu kurum ve kuruluşları arasında gerekli koordinasyon ve işbirliği sağlanarak, il ve ilçe Sosyal Yardımlaşma ve Dayanışma Vakıfları imkanları ilgili mevzuat doğrultusunda bu plana da destek verecek şekilde yapılandırılmalıdır. Ayrıca acil hastalara yönelik müdahalelerde elverişsiz hava koşulları nedeniyle yaşanan güçlüklerde ve yol açma çalışmalarında bu hastaların bulunduğu mahallere öncelik verilmesi ve bu çalışmalarda bulunan kamu kurum ve kuruluşların imkanlarını bu mahallere yönlendirmesi konusunda gerekli koordinasyonun sağlanması hususlarında gereğini rica ederim.
 
 Uzm. Dr. Orhan Fevzi GÜMRÜKÇÜOĞLU  
 Bakan a.  
 Müsteşar
 
-### DAĞITIM:
-**Gereği:**  
-81 İl Valiliğine
+**Dağıtım :**  
+**Gereği :**  
+81 il Valiliği
 
-**Bilgi:**  
-Teftiş Kurulu Başkanlığına  
-Hukuk Müşavirliğine
+**Bilgi :**  
+Teftiş Kurulu Başkanlığı  
+Hukuk Müşavirliği
