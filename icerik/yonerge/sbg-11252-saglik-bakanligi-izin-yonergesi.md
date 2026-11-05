@@ -2,24 +2,31 @@
 id: "sbg-11252-saglik-bakanligi-izin-yonergesi"
 baslik: "Sağlık Bakanlığı İzin Yönergesi"
 tur: "yonerge"
+tarih: "1995-01-09"
+sayi: "B.100.PER-01-300-21/00100"
 birim: "Hukuk Hizmetleri Genel Müdürlüğü"
+konu: "Sağlık Bakanlığı merkez ve taşra teşkilatında görevli personelin yıllık, mazeret, hastalık ve aylıksız izinlerinin kullanılmasına ilişkin usul ve esasları belirler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11252/saglik-bakanligi-izin-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 T.C.
-
-### SAĞLIK BAKANLIĞI İZİN YÖNERGESİ BBIK BAKAMIB TURKEY
-
+SAĞLIK BAKANLIĞI
+İZİN YÖNERGESİ
 1995
 
-### T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü SAYI : B.100.PER-01-300-21/00100 09/01/1995
+T.C.
+SAĞLIK BAKANLIĞI
+Personel Genel Müdürlüğü
+
+SAYI: B.100.PER-01-300-21/00100 — 09/01/1995
 
 KONU: İzin Yönergesi
 
-### BAKANLIK MAKAMINA
+BAKANLIK MAKAMINA
 
 Bakanlığımız merkez ve taşra teşkilatında görevli personelin izinleri ve bu izinlerin kullanımıyla ilgili olarak; 657 sayılı Devlet Memurları Kanunu ile diğer kanun ve yönetmelikler doğrultusunda hareket edilmesini sağlamak, bürokrasiyi azaltmak, görev, yetki ve sorumluluk dağılımında denge kurmak ve birlikteliği temin ederek uygulama farklılıklarını ortadan kaldırmak amacıyla, Genel Müdürlüğümüzce hazırlanan “Sağlık Bakanlığı İzin Yönergesi” ilişikte sunulmuştur.
 
@@ -29,27 +36,30 @@ Haluk YILDIZ
 
 Genel Müdür
 
-### O L U R 09/01/1995 Dr.Doğan BARAN Bakan
+O L U R
+09/01/1995
+Dr. Doğan BARAN
+Bakan
 
 ### SAĞLIK BAKANLIĞI İZİN YÖNERGESİ
 
 ## BİRİNCİ BÖLÜM
 
-Genel Esaslar
+### Genel Esaslar
 
-Amaç:
+#### Amaç:
 
 **Madde 1 –** Bu Yönergenin amacı, Sağlık Bakanlığı merkez ve taşra teşkilatında görevli personelin yıllık, mazeret, hastalık ve ayılıksız izinlerinin kullanılmasına ilişkin usul ve esasları göstermektedir.
 
-Kapsam:
+#### Kapsam:
 
 **Madde 2 –** Bu Yönerge, Sağlık Bakanlığı’nın merkez ve taşra teşkilatında görevli bütün personeli kapsar.
 
-Dayanak:
+#### Dayanak:
 
 **Madde 3 –** Bu Yönerge, 657 sayılı Devlet Memurları Kanunu ile izinler konusunu düzenleyen diğer kanunlar ve ilgili yönetmeliklere göre hazırlanmıştır.
 
-Esaslar:
+#### Esaslar:
 
 **Madde 4 –** İzinler, işin aksamaması bakımından, amirin uygun bulacağı zamanlarda toptan veya kısım, kısım kullanılabilir. Savaş veya olağanüstü hallerde Başbakanın veya Bakanın gösterdiği lüzum üzerine izin kullanılması durdurulabilir.
 
@@ -69,9 +79,9 @@ Esaslar:
 
 ## İKİNCİ BÖLÜM
 
-Yıllık İzinler
+### Yıllık İzinler
 
-Yıllık İzin Süreleri:
+#### Yıllık İzin Süreleri:
 
 **Madde 12 –** 657 sayılı Devlet Memurları Kanunu’nun 102 nci maddesi gereği, hizmeti 1 yıldan 10 yıla kadar (on yıl dahil) olanlar için yirmi gün, hizmeti 10 yıldan fazla olanlar için otuz gün yıllık izin verilmekle birlikte, zorunlu hallerde bu sürelere gidiş ve dönüş için en çok ikişer gün eklenebilir.
 
@@ -87,31 +97,31 @@ b) Bunun için, hem memurun iki yıllık iznini birleştirme isteğinde bulunmas
 
 c) Bir önceki yıl izni ile birleştirilerek kullanılmak istenilen izin süresinden bir kısmının kullanılarak izin süresi artması halinde, artan süre bir sonraki yıl izni ile ikinci kez birleştirilemez.
 
-Yıllık İznin Sınırlandırılması:
+#### Yıllık İznin Sınırlandırılması:
 
 **Madde 14 –** Yıllık izinlerin kullanılmasında idareye verilen takdir yetkisi, yalnızca yıllık izinlerin kullanılış usul ve esaslarının tespitine ilişkin olup, personele kanunla verilen izin hakkını ortadan kaldıracak biçimde genişletilemez.
 
 Olağanüstü haller sebebiyle izinlerin kullanılması Bakanlıkça durdurulmuş olmadıkça her takvim yılının ilk mesai gününden itibaren hiçbir talimata gerek kalmaksızın yıllık izin kullanımına müsaade edilecektir.
 
-Memuriyete Yeniden Dönenlerin Yıllık İzinleri:
+#### Memuriyete Yeniden Dönenlerin Yıllık İzinleri:
 
 **Madde 15 –** İstifa suretiyle veya başka bir nedenle memuriyetten ayrılıp bilahare yeniden memuriyete dönenler, yıl içinde ne zaman göreve başladıklarına bakılmaksızın ve her hangi bir kısıtlama söz konusu olamadan o yıla ait yıllık izinlerini kullanabilirler.
 
 657 sayılı Kanun’a tabi memur iken her hangi bir nedenle memuriyetten ayrılıp, sözleşeli veya işçi statüsünde çalışırken, bu statülerde bulunanlara tanınan yıllık izinlerini kullanan personelin bilahare memuriyete dönmesi durumunda da; yıllık izin kullanmasına müsaade edilecektir.
 
-Aday Memurun Yıllık İzini:
+#### Aday Memurun Yıllık İzini:
 
 **Madde 16 –** Memuriyet de bir yıllık hizmet süresini dolduran aday memurlar yıllık izinlerini kullanabilirler.
 
-Askerlik Dönüşü Yıllık İzin:
+#### Askerlik Dönüşü Yıllık İzin:
 
 **Madde 17 –** Askerlik hizmetini yapmakta iken 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu’na izin kullanarak terhis olup görevine dönen memurlar, göreve döndüğü yıla ait yıllık izinlerini kullanabilirler.
 
-Bir Önceki Yıla Ait Kullanılmamış İzin Hakları:
+#### Bir Önceki Yıla Ait Kullanılmamış İzin Hakları:
 
 **Madde 18 –** Memur içinde bulunduğu yıla ait iznini kullanmamış olsa dahi, bir önceki yıla ait kısmen veya tamamen kullanmadığı iznini talep edebilir.
 
-Yıllık İzinde Hastalanma Hali:
+#### Yıllık İzinde Hastalanma Hali:
 
 **Madde 19 –** Yıllık izinlerini kullanırken hastalanan memurlar, hastalık izinlerini ve kullanmakta oldukları yıllık izinlerinin kalan kısmını bulundukları yerde geçirirler.
 
@@ -119,7 +129,7 @@ Ancak hastalık izinlerinin süresi kullanmakta oldukları yıllık izin süresi
 
 Bunların hastalanmaları sebebiyle kullanamadıkları yıllık izinlerinin süresi 657 sayılı Kanunun değişik 102 nci maddesi göz önünde bulundurularak hesaplanır ve bu süre aynı Kanunun 103 ncü maddesine göre kullandırılır.
 
-Yıllık İzinde Kıdemin Hesaplanması:
+#### Yıllık İzinde Kıdemin Hesaplanması:
 
 **Madde 20 –** Yıllık izin süresinin tespitinde;
 
@@ -137,7 +147,7 @@ b) Serbest Avukatlıkta ve Avukat Staj devresinde geçen hizmetler ile,
 
 c) Mezkur Kanunun 77 nci maddesine göre yabancı memleketlerde veya Uluslar arası kuruluşlarda geçen hizmet süreleri, dikkate alınmayacaktır.
 
-Yıllık İzinleri Vermeye Yetkili Amirler:
+#### Yıllık İzinleri Vermeye Yetkili Amirler:
 
 **Madde 21 –** Yıllık izinleri vermeye yetkili amirler aşağıda gösterilmiştir;
 
@@ -149,29 +159,19 @@ b) Müsteşar Yardımcıları, Genel Müdürler, APK Kurlu Başkanı, 1 nci Huku
 
 c) Teftiş Kurulu Başkanlığında ; Başmüfettiş, Müfettiş, Müfettiş Yardımcısı, Şube Müdürü ve diğer personelin izinleri TEFTİŞ KURLU BAŞKANI,
 
-d) APK Kurulu Başkanlığında; Daire Başkanı, APK Kurulu Uzmanı, Mimar ve Mühendislerin izinleri APK KURUL BAŞKANI, diğer personelin izinleri DAİRE
+d) APK Kurulu Başkanlığında; Daire Başkanı, APK Kurulu Uzmanı, Mimar ve Mühendislerin izinleri APK KURUL BAŞKANI, diğer personelin izinleri DAİRE BAŞKANI,
 
-### BAŞKANI,
+e) Hukuk Müşavirliğinde; Hukuk Müşavirleri ve diğer personelin izinleri 1 nci HUKUK MÜŞAVİRİ,
 
-e) Hukuk Müşavirliğinde; Hukuk Müşavirleri ve diğer personelin izinleri 1 nci
-
-### HUKUK MÜŞAVİRİ,
-
-f) Özel Kalem Müdürlüğünde ; görevli tüm personelin izinleri ÖZEL KALEM
-
-### MÜDÜRÜ,
+f) Özel Kalem Müdürlüğünde ; görevli tüm personelin izinleri ÖZEL KALEM MÜDÜRÜ,
 
 g) Genel Müdürlüklerde ; Genel Müdür Yardımcısı ve Daire Başkanlarına GENEL MÜDÜR, Şube Müdürlerine GENEL MÜDÜR YARDIMCISI Uzman, Şef, Memur ve diğer personele ise DAİRE BAŞKANI,
 
 h) Müstakil Daire Başkanlıklarında ; Şube Müdürlerine DAİRE BAŞKANI, diğer personele ise ŞUBE MÜDÜRLERİ,
 
-ı) Savunma Sekreterliğinde ; görevli tüm personelin izinleri SAVUNMA
+ı) Savunma Sekreterliğinde ; görevli tüm personelin izinleri SAVUNMA SEKRETERİ,
 
-### SEKRETERİ,
-
-i) Sağlık Projesi Genel koordinatörlüğünde ; görevli tüm personelin izinleri GENEL
-
-### KOORDİNATÖR,
+i) Sağlık Projesi Genel koordinatörlüğünde ; görevli tüm personelin izinleri GENEL KOORDİNATÖR,
 
 Tarafından verilecektir.
 
@@ -183,7 +183,7 @@ b) İlçelerde Kaymakamlar,
 
 Veya yetki devrettiği kurum amirlerince verilecektir.
 
-Yıllık İzinlerin Verilmesi ile ilgili İşlemler:
+#### Yıllık İzinlerin Verilmesi ile ilgili İşlemler:
 
 **Madde 22 –** 657 sayılı Devlet Memurları Kanunu’nun 102, 103 ve 104 ncü maddelerine istinaden kullanılacak yıllık ve mazeret izinlerinin verilmesi işlemlerinde;
 
@@ -197,11 +197,11 @@ B) Taşra Teşkilatında :
 
 Atama ve yükselmeleri ile her türlü özlük hakları Bakanlığımızca ifa edilen Sağlık ve Yardımcı Sağlık Personeli dahil, 5442 sayılı İler İdaresi Kanunu’na tabi olarak illerde görev yapan tüm personelin anılan ve izinlerle ilgili ayrılış ve başlayış tarihlerine ilişkin bilgiler Bakanlığa gönderilmeyerek İl Sağlık Müdürlüklerindeki ‘’Kişisel İzin Fişlerinde‘’ kayıt ve takibi yapılacaktır.
 
-Öğretmenlerin Yaz Tatili İzini:
+#### Öğretmenlerin Yaz Tatili İzini:
 
 **Madde 23 –** Öğretmenler, yaz tatili ile dinlenme tatillerinde izinli sayılırlar. Bunlara hastalık ve mazeret izinleri dışında ayrıca yıllık izin verilmez.
 
-İzinlerin Yurt Dışında Kullanımı:
+#### İzinlerin Yurt Dışında Kullanımı:
 
 **Madde 24 –** Yıllık, mazeret, hastalık veya yaz tatili izinlerini yurt dışında geçirmek isteyen memurların bu izinleri :
 
@@ -215,21 +215,21 @@ B) Taşra teşkilatında;
 
 Valiler tarafından verilecektir.
 
-Şua İzini:
+#### Şua İzini:
 
 **Madde 25 –** Hizmetleri sırasında radyoaktif ışınlarla çalışan personele, her yıl, yıllık izinlerine ilaveten bir aylık sağlık izni verilir.
 
-İdari İzin:
+#### İdari İzin:
 
 **Madde 26 –** Zorunlu hallerde izin vermeye yetkili amirin takdiri ile ayda sekiz saati geçmemek üzere personele kısa süreli izin verilebilir. (Ek-3)
 
 ## ÜÇÜNCÜ BÖLÜM
 
-#### Mazeret İzinleri
+### Mazeret İzinleri
 
 **Madde 27 –** Bu Yönerge kapsamında görev yapan personele 657 sayılı Kanun’un 104 ncü Maddesine göre aşağıda belirtilen hususlar dahilinde mazeret izni verilir.
 
-### A) Amirin takdirine bağlı olmaksızın verilmesi gereken mazeret izinleri:
+A) Amirin takdirine bağlı olmaksızın verilmesi gereken mazeret izinleri:
 
 1- Kadın memura doğum yapmasından önce doktor raporu üzerine üç hafta (21 gün), doğum yaptığı tarihten itibaren ise altı hafta (42 gün) müddetle izin verilir. Bu süreden sonra da bu sürenin bitimiyle başlayacak altı aylık süre esas alınmak kaydıyla günde bir buçuk saat süt izni verilir.
 
@@ -247,17 +247,17 @@ Ancak bu iznin verilmesinde, mazeret iznini talep eden memurun gösterdiği gere
 
 2- Zaruret halinde 10 gün daha aynı usulle mazeret izni verilebilir. Bu takdirde ikinci defa aldığı bu izin yıllık izinden düşülür.
 
-Mazeret İzninde Yol İzni Verilemeyeceği:
+#### Mazeret İzninde Yol İzni Verilemeyeceği:
 
 **Madde 28 –** 26 ncı maddedeki mazeret izinlerinde yol için ayrıca ek izin verilemez.
 
-Mazeret İzini Vermeye Yetkili Amirler:
+#### Mazeret İzini Vermeye Yetkili Amirler:
 
 **Madde 29 –** 657 sayılı Devlet Memurları Kanununun 104 ncü maddesine istinaden kullanılacak mazeret izinleri, 21 nci maddede belirtilen yıllık izinleri vermeye yetkili amirler tarafından verilecektir.
 
 ## DÖRDÜNCÜ BÖLÜM
 
-#### Hastalık İzinleri
+### Hastalık İzinleri
 
 **Madde 30 –** Memurlara hastalıkları halinde verilecek raporlarda gösterilecek lüzum üzerine aylık ve özlük haklarına dokunulmaksızın aşağıdaki esaslara göre izin verilir.
 
@@ -269,7 +269,7 @@ C) Kanser, Verem ve Akıl hastalıkları gibi uzun süreli bir tedaviye ihtiyaç
 
 Memurların hastalıkları sebebiyle yataklı tedavi kurumlarında yatarak gördükleri tedavi süreleri hastalık izinlerine ait sürelerin hesabında dikkate alınır.
 
-İzin süresinin sonunda hastalıklarının devam ettiği resmi sağlık kurullarının devam ettiği resmi sağlık kurullarının raporu ile tespit edilenlerin izinleri bir katına kadar uzatılır. Bu sürelerin sonunda da iyileşmeyen memurlar hakkında emeklilik hükümleri uygulanır.
+İzin süresinin sonunda hastalıklarının devam ettiği resmi sağlık kurullarının raporu ile tespit edilenlerin izinleri bir katına kadar uzatılır. Bu sürelerin sonunda da iyileşmeyen memurlar hakkında emeklilik hükümleri uygulanır.
 
 Görevlerinden dolayı saldırıya uğrayan memurlar ile görevleri sırasında ve görevlerinden dolayı bir kazaya uğrayan veya bir meslek hastalığına tutulan memurlar iyileşinceye kadar izinli sayılırlar.
 
@@ -307,7 +307,7 @@ Resmi ve Özel Hekim bulunmaması ve hastanın tıbbi sebepler veya ulaşım şa
 
 Bu gerekçe ile düzenlenen hastalık belgelerinin geçerli olabilmesi için İl Sağlık Müdürlüğünce veya belirleyeceği bir Hekim tarafından onaylanması zorunludur.
 
-### IV- Yurt Dışında Alınan Raporlara İstinaden Verilecek Hastalık İzinleri:
+IV- Yurt Dışında Alınan Raporlara İstinaden Verilecek Hastalık İzinleri:
 
 Yurt dışında görevli memurlar ile, geçici görev veya bilgi ve görgüsünü artırmak, staj yapmak gibi sebeplerle yurt dışına gönderilen memurlar ve yıllık izinlerini yurt dışında kullanırken hastalanan memurların hastalık raporları Büyükelçi veya elçi tarafından tespit edilerek Dış İşleri Bakanlığına bildirilmiş olan hekim ve hastanelerce mahalli mevzuata göre düzenlenir.
 
@@ -315,17 +315,17 @@ Yukarıda belirtilen nedenlerle yurt dışında bulunan personelin almış oldu�
 
 Raporların yalnızca Türkçe tercümelerinin yabancı dildeki asıllarına uygun olduğunun misyon şefince onaylattırılması, raporun o ülke mevzuatına uygun olduğu anlamına gelmeyeceğinden bu hususa titizlikle riayet edilecektir.
 
-### V- Acil Vakalarda Alınan Raporlara İstinaden Verilecek Hastalık İzinleri:
+V- Acil Vakalarda Alınan Raporlara İstinaden Verilecek Hastalık İzinleri:
 
 Acil Vakalarda düzenlenen hastalık raporları uyarınca hastalık izni verilebilmesi için raporda Vakanın acil olduğunun belirtilmiş olması şarttır. Aksi takdirde hasta memur, hastalık izni kullanıyor sayılmakla beraber en kısa zamanda Devlet Memurları Tedavi Yardım ve Cenaze Giderleri Yönetmeliğinin ilgili maddelerine göre muayeneye sevk edilerek hakkında bu muayene sonucuna göre işlem yapılır.
 
-Aralıklı Olarak Alınan Raporların Hastalık İznine Çevrilmesi:
+#### Aralıklı Olarak Alınan Raporların Hastalık İznine Çevrilmesi:
 
 **Madde 31 –** Resmi sağlık kurallarınca düzenlenen veya onaylanan raporlara göre verilen hastalık izinleri hariç tek hekimleri değişik tarihlerde düzenledikleri hastalık raporlarında gösterdikleri zorunluluk üzerine kendilerine yıl içinde toplam 40 gün hastalık izni verilen memurların o yıl içinde bu süreyi aşan ilk ve müteakip bütün hastalık raporlarının geçerli sayıla bilmesi için buların kurumun veya İl Sağlık Müdürlüğünün belirleyeceği resmi sağlık kurullarınca onaylanması gerekmektedir.
 
 40 günlük sürenin hesaplanmasında 29 ncu maddenin III ncü bendinde belirtilen hastalık belgelerinde gösterilen zorunluluk üzerine verilen hastalık izinleri de göz önünde bulundurulur.
 
-Hastalık İzninin Verilemeyeceği Haller:
+#### Hastalık İzninin Verilemeyeceği Haller:
 
 **Madde 32 –** Memurların Hastalık Raporlarını verecek Hekim ve Resmi Sağlık Kurulları Hakkındaki Yönetmelik ile Devlet Memurları Tedavi Yardımı ve Cenaze Giderleri Yönetmeliğinde tespit edilen usul ve esaslara uyulmaksızın alınan hastalık raporlarına dayanılarak haslık izni verilemez.
 
@@ -341,11 +341,11 @@ b) Memurların Hastalık Raporlarını Verecek Hekim ve Resmi Sağlık Kurullar�
 
 c) İstirahat raporu yasal gerekçelerle hastalık iznine çevrilmeyen bir personele keyfiyet mutlaka tebliğ edilecek ve bu konuda tebligat yapılmaksızın veya durumdan haberdar edildiği ispat edilmeksizin memurun göreve başlamaması nedeniyle görevden çekilmiş sayılması gibi bir işleme tabi tutulmayacaktır.
 
-Hastalık Raporunun Kuruma Verilmesi:
+#### Hastalık Raporunun Kuruma Verilmesi:
 
 **Madde 33 –** Hekim veya Sağlık Kurullarınca hastalıkları dolayısıyla istirahatına lüzum görülenler, istirahat raporlarını derhal ve en kısa sürede kurum amirine vermek veya bildirmek zorundadırlar.
 
-Hastalık İzninin Geçirileceği Yer:
+#### Hastalık İzninin Geçirileceği Yer:
 
 **Madde 34 –** Memurlar hastalık izinlerini, ancak hastalık raporlarında gösterilecek tıbbi zorunluluk üzerine merkezde kurum amirinin, illerde mülki amirin, yurt dışında ise misyon şefinin onayı ile görev yerinden başka bir yerde geçirebilirler.
 
@@ -353,11 +353,11 @@ Geçici görevle bulundukları yerlerde hastalanan memurların hastalık izinler
 
 Yıllık izinlerini kullanırken hastalanan memurlar hastalık izinlerini bulundukları yer dışında geçiremezler.
 
-Hastalık İzinlerini Vermeye Yetkili Amirler:
+#### Hastalık İzinlerini Vermeye Yetkili Amirler:
 
 **Madde 35 –** Memurların hastalık izinleri de 21 nci maddede belirtilen yıllık izinleri vermeye yetkili amirler tarafından verilecektir.
 
-Hastalık İzinlerinin Verilmesi ile ilgili işlemler:
+#### Hastalık İzinlerinin Verilmesi ile ilgili işlemler:
 
 **Madde 36 –** Bu izinlerin verilmesi ile ilgili işlemlerde;
 
@@ -377,7 +377,7 @@ Hastalık izin takipleri İl Sağlık Müdürlüklerince yapılan personelin tay
 
 ## BEŞİNCİ BÖLÜM
 
-#### Aylıksız İzinler
+### Aylıksız İzinler
 
 **Madde 37 –** 657 sayılı Devlet Memurları Kanunu’nun 108 nci maddesine istinaden ;
 
@@ -411,15 +411,15 @@ d) Askerlik için verilecek aylıksız izinler:
 
 Muvazzaf askerliğe ayrılan memurlar askerlik süresince görev yeri saklı kalarak aylıksız izinli sayılırlar.
 
-Aylıksız İzin Sonu Göreve Başlama:
+#### Aylıksız İzin Sonu Göreve Başlama:
 
 **Madde 38 –** Aylıksız izin alan personel müsaade süresinin bitiminden önce mazeretini gerektiren sebebin kalkması halinde derhal görevine dönmek zorundadır. Mazeret sebebinin kalkması halinde veya müsaade süresinin bitiminde görevine dönmeyenler memuriyetten çekilmiş sayılırlar.
 
 Aylıksız izinde iken bu izninin bitiş tarihinden öncesini ve sonrasını kapsayacak şekilde hastalık raporu alan personele, raporun aylıksız iznin bitiş tarihinden sonrasını kapsayan kısmı için hastalık izni verilecek ve göreve başlama tarihi raporun bitiş tarihi olacaktır.
 
-Aylıksız İzinleri Vermeye Yetkili Amirler:
+#### Aylıksız İzinleri Vermeye Yetkili Amirler:
 
-### Madde 39- Aylıksız izinleri vermeye yetkili amirler aşağıda gösterilmiştir.
+**Madde 39 –** Aylıksız izinleri vermeye yetkili amirler aşağıda gösterilmiştir.
 
 A) Atama ve yükselmeleri ile her türlü özlük hakları Bakanlığımızca ifa edilen Merkez ve Taşra teşkilatında görevli tüm personele,
 
@@ -429,7 +429,7 @@ b) 657 sayılı Kanunun 108 nci maddesine istinaden verilecek izinler Personel G
 
 B) 5442 sayılı İller İdaresi Kanunu’na tabi olarak görev yapan vilayet memurlarının 657 sayılı Kanun’un 108 nci maddesine istinaden aylıksız izinleri valiler tarafından verilecektir.
 
-Aylıksız İzinlerin Verilmesi ile İlgili İşlemler:
+#### Aylıksız İzinlerin Verilmesi ile İlgili İşlemler:
 
 **Madde 40 –** 657 sayılı Kanun’un 108 nci maddesi gereği verilecek ücretsiz izin işlemlerinin ifası için aşağıda belirtilen usullere kesinlikle riayet edilecektir.
 
@@ -447,7 +447,7 @@ Ancak bu hakkın kısmen veya tamamen yitirilmemesi için aylıksız izne ayrıl
 
 6- Doğum ve askerlik nedeniyle aylıksız izne ayrılacak olanlar için Bakanlık Onayı beklenilmezken, gerek yakınlarının rahatsızlığı, gerekse eşinin yurt içinde veya yurt dışına sürekli görevle atanma gerekçeleri karşısında talep edilecek aylıksız izinlerde ise ilgililer alınacak Bakanlık Onayı tebliğ edilmeden görevlerinden ayrılmayacaklardır.
 
-### Yabancı Bir Memleket veya Uluslar arası Kuruluşta Hizmet alma:
+#### Yabancı Bir Memleket veya Uluslar arası Kuruluşta Hizmet alma:
 
 **Madde 41 –** 657 sayılı Kanunun 77 nci maddesine göre, kurumunun muvafakati ile yabancı memleketlerde veya uluslar arası kuruluşlarda görev alacak memurlara, Bakanlığın teklifi ve Başbakanlığın izni ile (her üç yılda bir Başbakanlığın iznini almak kaydıyla) memuriyet süresince yabancı memleketlerde on yıla, uluslar arası kuruluşlarda yirmi bir yıla kadar maaşsız izin verilebilir.
 
@@ -455,7 +455,7 @@ Yukarıdaki fıkraya göre izin alan memurların kadro ile ilişkileri devam ede
 
 Bu kimselerin görevlerine dönmek istemeleri halinde; bu 657 sayılı Kanun’un sınav veya seçme ile ilgili hükümleri dikkate alınmak suretiyle, yabancı memleketlerde veya uluslar arası kuruluşlarda geçirdikleri hizmet sürelerinin her yılı bir kademe ilerlemesine ve her üç yılı bir derece yükselmesine esas olacak şekilde ve boş kadro bulunduğu takdirde değerlendirilir.
 
-Bilgilerini Artırmak Üzere Dış Memleketlere Gönderilecek Memurlara Verilecek Aylıksız İzinler:
+#### Bilgilerini Artırmak Üzere Dış Memleketlere Gönderilecek Memurlara Verilecek Aylıksız İzinler:
 
 **Madde 42 –** 657 sayılı Kanun’un 78 nci maddesine göre mesleklerine ait öğrenimi bitirerek Devlet memurluğuna alınmış ve asil memur olarak atanmış olanlardan mesleklerine ait hizmetlerde yetiştirilmek, eğitilmek, bilgilerini artırmak veya staj yapmak üzere dış memleketlere;
 
@@ -493,13 +493,13 @@ Bakanlığımızın açmış olduğu sınava müracaat ederek Devlet imkanlarıy
 
 ## ALTINCI BÖLÜM
 
-Çeşitli Hükümler
+### Çeşitli Hükümler
 
-Refakat İzini:
+#### Refakat İzini:
 
 **Madde 43 –** Hastanın tedavi edilmek üzere başka bir yere gönderilmesi esnasında yanında refakatçi olarak bir kimsenin bulundurulması hususunun ilgili sağlık kurum ve kuruluşunun raporunda belirtilmesi halinde, gerek aile fertlerinden birisine refakat eden memurlar, gerekse refakat edecek kimsesi bulunmayan hasta memura kurumunca refakatçi olarak temin edilen memurlar Sayıştay Genel Kurulu’nun 07.01.1991 gün ve 4686/1 sayılı kararı gereğince bu süre içersinde görev izinli sayılırlar.
 
-İkamet Mecburiyeti:
+#### İkamet Mecburiyeti:
 
 **Madde 44 –** 657 sayılı Devlet Memurları Kanunu’nun (Ek-20) nci maddesi gereği; Devlet memurlarının görev yaptıkları kurum ve hizmet birimlerinin bulunduğu yerleşme merkezlerinde (Mücavir alanları dahil Belediye ve Köy hudutları içersinde) ikamet etmeleri esastır.
 
@@ -507,24 +507,24 @@ Devlet Memurlarının görevini aksatmamak kaydı ve şartıyla birinci fıkrada
 
 Devlet Memurları, ikamet ettikleri il hudutlarını tatillerde ancak yetkili amirin izni ile terk edebilirler.
 
-Sporculara Verilecek İzinler:
+#### Sporculara Verilecek İzinler:
 
 **Madde 45 –** 3289 sayılı Kanun’un 29 ncu maddesi gereğince; milletlerarası seviyede yurt içi ve yurt dışı spor müsabakaları ve bunların hazırlık çalışmalarına katılacak Sporcu, Hakem, Antrenör, Monitör, Yöneticiler ve bu amaçla görevlendirilecek diğer görevliler, bağlı oldukları kurumlarınca organizasyonun devamı süresince izinli sayılırlar. Bunların özlük hakları kurumlarınca saklı tutulur. Öğrencilerin bu süreleri devamsızlık süresinin hesabında dikkate alınmaz.
 
-Kongre, Konferans, Workshop, Seminer ve Sempozyum Gibi Toplantılara Katılacak Personele Verilecek İzinler:
+#### Kongre, Konferans, Workshop, Seminer ve Sempozyum Gibi Toplantılara Katılacak Personele Verilecek İzinler:
 
 **Madde 46 –** Toplantıya tebliğ (bildiri) çalışma veya poster ile katılacak personel ile adına davetiye gelen personele, bağlı bulunduğu kurumun uygun görüşleriyle birlikte ilgili Sağlık Müdürlüğü kanalıyla kongre tarihinden en az 20 gün önce Bakanlığımızda olacak şekilde başvurduğu takdirde söz konusu kongre süresince izin verilebilir.
 
 Toplantıya gözlemci olarak katılacak personele ise Sağlık Müdürlüğünce senelik iznine mahsuben izin verilebilir.
 
-Yürürlükten Kaldırma:
+#### Yürürlükten Kaldırma:
 
 **Madde 47 –** Bu Yönerge hükümlerine aykırı gelen daha önceki tüm genelge hükümleri yürürlükten kaldırılmıştır.
 
-Yürütme:
+#### Yürütme:
 
 **Madde 48 –** Bu yönerge hükümlerini Sağlık Bakanı yürütür.
 
-Yürürlük:
+#### Yürürlük:
 
 **Madde 49 –** Bu Yönerge Bakan Onayını takiben yürürlüğe girer.
