@@ -3,20 +3,52 @@ id: "sbg-103784-egitim-planlama-kurulunun-epk-gorevlerine-dair-yonergede-degisik
 baslik: "Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergede Değişiklik Yapılmasına Dair Yönerge"
 tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "EPK üyelerinin seçiminde oylamaya katılanları eğiticiler yerine eğitim sorumluları olarak değiştirir."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103784/egitim-planlama-kurulunun-epk-gorevlerine-dair-yonergede-degisiklik-yapilmasina-dair-yonerge.html"
 durum: "yürürlükte"
 ocr: true
+tarih: "2022-11-02"
+sayi: "2272"
+duzeltildi: true
 ---
 
-2.2.2. Eğitim Planlama Kurulunun (EPK) Görevlerine Dair
+T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
-### Yönergede Değişiklik Yapılmasına Dair Yönerge
+Sayı: E-15260714/010.04
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü ĞİTİM PLANLAMA KURULUNUN (EPK) GÖREVLERİNE DAİR YÖNERGED EĞİŞİKLİK YAPILMASINA DAİR YÖNERG
+Konu: Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergede Değişiklik Yapılmasına Dair Yönerge
 
-**MADDE 1 –** 11/10/2022 tarihli ve 2068 sayılı Makam Onayı ile yürürlüğe giren Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergenin 4 üncü maddesinin ikinci fikrasında yer alan "eğiticiler" ibaresi, "eğitim sorumlulari" şeklinde degiştirilmiştir.
+BAKANLIK MAKAMINA
+
+11/10/2022 tarihli ve 2068 sayılı Makam Onayı ile yürürlüğe giren Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergede değişiklik yapılmak üzere Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergede Değişiklik Yapılmasına Dair Yönerge hazırlanmıştır.
+
+Anılan Yönerge Taslağının onaylanarak yürürlüğe konulması hususunu tensiplerinize arz ederim.
+
+Prof. Dr. Ahmet TEKİN
+
+Sağlık Hizmetleri Genel Müdürü
+
+Uygun görüşle arz ederim.
+
+…/…/2022
+
+Prof. Dr. Sabahattin AYDIN
+
+Bakan Yardımcısı
+
+OLUR
+
+…/…/2022
+
+Uzm. Dr. Fahrettin KOCA
+
+Bakan
+
+### EĞİTİM PLANLAMA KURULUNUN (EPK) GÖREVLERİNE DAİR YÖNERGEDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNERGE
+
+**MADDE 1 –** 11/10/2022 tarihli ve 2068 sayılı Makam Onayı ile yürürlüğe giren Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergenin 4 üncü maddesinin ikinci fıkrasında yer alan "eğiticiler" ibaresi, "eğitim sorumluları" şeklinde değiştirilmiştir.
 
 **MADDE 2 –** (1) Bu Yönerge yayımı tarihinde yürürlüğe girer.
 
-**MADDE 3 –** (1) Bu Yönerge hükümlerini Sağlık Bakamı yürütür.
+**MADDE 3 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

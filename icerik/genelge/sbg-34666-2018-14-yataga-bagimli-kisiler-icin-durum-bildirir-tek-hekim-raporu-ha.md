@@ -7,134 +7,152 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-34666/201814-yataga-bagimli-kisiler-icin-durum-bildirir-tek-hekim-raporu-hakkinda-genelge.html"
 durum: "yürürlükte"
 ocr: true
+tarih: "2018-04-30"
+sayi: "2018/14"
+konu: "Seyyar sandık talebi için yatağa bağımlı seçmenlere aile hekimlerince e-Rapor sistemi üzerinden durum bildirir tek hekim sağlık raporu düzenlenmesini ister."
+duzeltildi: true
 ---
 
-T.C. Sağlık Bakanlığı
+### T.C. SAĞLIK BAKANLIĞI
 
-Sağlık Bilgi Sistemleri
+Sağlık Hizmetleri Genel Müdürlüğü
 
-### Genel Müdürlüğü YATAĞA BAĞIMLI KİŞİLER İÇİN DURUM BİLDİRİR TEK HEKİM RAPORU BİLESENİ KULLANIMI
+Sayı: 23642684-010.06
 
-e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu  Aile hekimleri https://erapor.saglik.gov.tr Adresine girerler.
+Konu: Yatağa Bağımlı Kişiler İçin Durum Bildirir Tek Hekim Sağlık Raporu
 
-e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu  E-rapor portal anasayfada Aile Hekimi Yatağa Bağımlı Kişiler İçin Durum Bildirir Tek
+### GENELGE 2018/14
 
-Hekim Raporu Bileşeni kısmında uygulamaya git butonuna tıklayarak Ortak Giriş
+Bilindiği üzere, 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun'un 14 üncü maddesinin birinci fıkrasına 13/3/2018 tarihinde 7102 sayılı Kanunun 2 nci maddesiyle eklenen "Hastalığı veya engeli sebebiyle yatağa bağımlı olan seçmenlerin, muhtarlık seçimleri hariç, oy kullanmalarını sağlamak için seyyar sandık kurulu kurulmasına, oy kullanılmasına, sayım ve döküm ile birleştirme işlemlerine ilişkin usul ve esasları belirlemek." hükmü ile Yüksek Seçim Kuruluna yatağa bağımlı seçmenlerin oy kullanmalarını sağlamak için seyyar sandık kurulması görevi verilmiştir.
 
-Noktası’na yönlendirilir.
+Anılan hüküm gereğince, yatağa bağımlı seçmenlerin Anayasal haklarından faydalanmak için seyyar sandık talebinde bulunmalarını sağlamak amacıyla Yüksek Seçim Kurulu tarafından düzenlenen ve ekte bir örneği yer alan "Seyyar Sandık Kurulu Talep Formu" ile birlikte "Engeli nedeniyle yatağa bağımlı olduğu" veya "Hastalığı sebebiyle yatağa bağımlı olduğu" ibaresinin yazılı olduğu sağlık raporunu ibraz etmeleri gerekmektedir.
 
-### e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Seçmen listelerinin kesinleşmesi sürecinde seyyar sandık hizmetinden yararlanacak vatandaşların da belirlenmesi gerekmekte olup, bahse konu durum bildirir yatağa bağımlılık raporunu, vatandaşların sağlık durumunu en iyi bilen bağlı oldukları aile hekimlerinin düzenlemesi gerekmektedir. Bu rapordan yararlanabilecek ağır engeli bulunan ve/veya hâlihazırda evde sağlık hizmetlerinden yararlanmakta olan vatandaşlarımızın listesi kayıtlı oldukları aile hekimlerine elektronik ortamda ulaştırılacaktır. Bu listelerde bulunmamakla birlikte aile hekimlerince yatağa bağımlı olduğu bilinen kişilere de bu çerçevede rapor düzenlenebilecektir.
 
- Sisteme giriş yapabilmek için e-imza ile
+Aile hekimleri, kendilerine kayıtlı kişileri süratle gözden geçirecek ve bu haktan yararlanabilecek bireylerin mevcut durumuna ve/veya geçerli sağlık kurulu raporuna göre değerlendirme yaparak, genelge ekinde yer alan "Yatağa Bağımlı Kişiler İçin Durum Bildirir Tek Hekim Sağlık Raporu" formatına uygun şekilde https://erapor.saglik.gov.tr adresinde yayınlanan Sağlık Bakanlığı e-Rapor sistemi üzerinden elektronik rapor olarak düzenleyeceklerdir. Düzenlenen rapordan bir nüsha ıslak imzalı olarak vatandaşa teslim edilecektir. Bu kapsamda sağlık raporu düzenlenen vatandaşların listesinin 4 Mayıs 2018 tarihi mesai bitimine kadar kesinleştirilmesi gerekmektedir.
 
-giriş butonu tıklanır.
+Uygulamanın yukarıda vurgulanan esaslara uygun olarak yürütülmesi ve tüm aile hekimlerine tebliği hususunda;
 
-### ORTAK GİRİŞ NOKTASI SİSTEMİNE GİRİŞ
+Bilgilerini ve uygulamanın gereğini önemle rica ederim.
 
-### e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Dr. Ahmet DEMİRCAN
 
-E-İmza Uygulamasını Nasıl İndirebilirim  E-imza uygulaması bilgisayarınızda
+Bakan
 
-kurulu değilse aşağıdaki adımları takip
+Ek:
 
-ederek uygulamayı kurabilirsiniz. E-İmza
+1- Seyyar Sandık Kurulu Talep Formu
 
-Uygulaması İndir kısmında yer alan
+2- Yatağa Bağımlı Kişiler İçin Durum Bildirir Tek Hekim Sağlık Raporu
 
-indirme butonuna tıklanır ve Şekil ’de
+### DAĞITIM
 
-yer alan e-İmza Uygulaması indirme
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-adresine ulaşılır
+### ……………………… AİLE HEKİMLİĞİ BİRİMİ
 
-### e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+### YATAĞA BAĞIMLI SEÇMENLER İÇİN DURUM BİLDİRİR TEK HEKİM SAĞLIK RAPORU
 
- Şekil ’de kırmızı ile gösterilen
+Verilme nedeni; 27'nci Yasama Dönemi Milletvekili Genel Seçimi Ve Cumhurbaşkanlığı Seçimi Seyyar Sandık Kurulu Talebi İçin Verilmek Üzere
 
-alanlardan işletim sistemi seçilir ve
+| HASTANIN/ENGELLİNİN: | |
+| --- | --- |
+| Adı ve Soyadı: | T.C. Kimlik Numarası: |
+| Baba Adı: | Cinsiyeti: |
+| Doğum Tarihi: | Telefon Numarası: |
+| Adres: | |
 
-Şimdi İndir butonuna tıklanır.
+TANI(LAR)/ BULGU(LAR):
 
-e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu  Şekil ’de yer alan “Sağlık Bakanlığı Personeli Sürümü” butonuna tıklandıktan sonra
+KARAR:
 
-Şimdi İndir (Sağlık Bakanlığı Personeli Sürümü) butonuna tıklanır.
+☐ Yukarıda bilgileri bulunan şahsın hastalık nedeniyle yatağa bağımlı olduğu kanaatine varılmıştır.
 
-### e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+☐ Yukarıda bilgileri bulunan şahsın engellilik nedeniyle yatağa bağımlı olduğu kanaatine varılmıştır.
 
- Program İndirildikten sonra aşağıdaki yükleme adımlar yapılır. e-Rapor - Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+*Bu rapor yalnızca seyyar sandık talebi olan seçmenler için geçerlidir.
 
-•nablz e-imza Sihirbazı onade
+*Kişinin oy kullanıp kullanamayacağına yönelik bir değerlendirme içermez.
 
-e-İmza Sihirbazi
+Onaylayan Hekim
 
-imeza
+Adı Soyadı
 
-Hoş Geldiniz Akıllı Kart Kontrolü
+Diploma Tescil Numarası
 
-• naoe imz e-Nabız e-İmza ile kolay, hızlı ve güvenilir bir şekilde e-imza atarsınız. Türkiye'deki e-İmza firmalarından aldığınız e-imza kartlarını rahatlıkla kullanabilirsiniz. Windows, Mac OS X, Pardus ve Ubuntu işletim sistemlerinde çalıştırabilirsiniz.
+TCKN
 
-Şimdi bilgisayarınızda takılı olan akıllı kartlar ve En yaygın kullanılan Internet Gezginlerini destekler. e-İmza için ek bir plugin indirmek zorunda kalmazsınız. Bilgisayarınızda sürücüler kontrol edilecektir. Lütfen kullanmak Java'nın yüklü olmasını gerektirmez.
+### T.C. YÜKSEK SEÇİM KURULU BAŞKANLIĞI
 
-istediğiniz akıllı kart okuyucuları bilgisayarınıza takınız
+### SEYYAR SANDIK KURULU TALEP FORMU
 
-ve lleri tușuna basınız.
+| Beyan Edilen Kişinin | | |
+| --- | --- | --- |
+| **KİMLİK BİLGİLERİ** | | |
+| T.C. Kimlik No | : | (Zorunlu Alan) |
+| Adı | : | (Zorunlu Alan) |
+| Soyadı | : | (Zorunlu Alan) |
+| İrtibat Telefonu | : | |
+| E-posta adresi | : | |
+| **ADRES BİLGİLERİ** | | |
+| İl | : | |
+| İlçe | : | |
+| Muhtarlık | : | |
+| Cadde/Sokak | : | |
+| Kapı No | : | |
+| Daire No | : | |
 
-### COOY
+| Beyan Eden Kişi | |
+| --- | --- |
+| Kendisi ☐ | Yakını ☐ |
+| İmza: | T.C. Kimlik No: / Adı: / Soyadı: / Yakınlık Derecesi: / Cep Telefonu: / İmza: |
+| | **Teslim Alan (Muhtar veya İlçe Seçim Kurulu Yetkilisi)** |
+| | Adı Soyadı: / Ünvanı: / İmzası/Mührü: / Tarih: |
 
-Kapat Geri © 2018 T.C. Sağlık Bakanlığı © 2018 T.C. Sağık Bakanlığı © 2018 T.C. Sağlık Bakanlığı Qinabz eimza Sihirbazi Onabiz
+AÇIKLAMALAR
 
-e-İmza Sihirbazı Takılı Akıllı Kartlar e-imza Atmaya Hazirsinız Bilgisayarınıza takılı herhangi bir akıllı kart bulunamamıştır. © 2018 T.C. Sağlk Bakaniğ © 2018 T.C. Sağlk Bakanlğı
+1- BU FORMA HASTALIĞI VEYA ENGELİ SEBEBİYLE YATAĞA BAĞIMLI OLAN KİŞİNİN KİMLİK FOTOKOPİSİNİN DE EKLENMESİ GEREKİR.
 
-### e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+2- DOLDURULAN FORM, YERLEŞİM YERİ ADRESİNİN BAĞLI OLDUĞU İLÇE SEÇİM KURULUNA VEYA İLÇE SEÇİM KURULUNA İLETİLMEK ÜZERE BAĞLI BULUNULAN MUHTARLIĞA VEYA DOĞRUDAN SEÇMEN KÜTÜĞÜ GENEL MÜDÜRLÜĞÜNE İLETİLMELİDİR.
 
- Sisteme girişi onaylanan
+3- E-POSTA VEYA İRTİBAT TELEFONU ALANLARINDAN DOLDURMANIZ HALİNDE SEÇİMLE İLGİLİ BİLGİLENDİRMELER TARAFINIZA GÖNDERİLECEKTİR.
 
-Aile hekimi şekildeki
+4- SEYYAR SANDIK KURULU TALEP FORMU İLE BİRLİKTE "ENGELİ NEDENİYLE YATAĞA BAĞIMLI OLDUĞU" VEYA "HASTALIĞI SEBEBİYLE YATAĞA BAĞIMLI OLDUĞU" İBARESİNİN YER ALDIĞI SAĞLIK RAPORUNUN İBRAZI GEREKLİDİR.
 
-ekrana gelir raporu
+### T.C. Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü
 
-yazılacak olan hastanın TC
+### YATAĞA BAĞIMLI KİŞİLER İÇİN DURUM BİLDİRİR TEK HEKİM RAPORU BİLEŞENİ KULLANIMI
 
-Kimlik numarası ilgili alana
+#### e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu
 
-yazılır ve sorgula butonuna
+- Aile hekimleri https://erapor.saglik.gov.tr adresine girerler.
 
-basılır.
+- E-rapor portal anasayfada Aile Hekimi Yatağa Bağımlı Kişiler İçin Durum Bildirir Tek Hekim Raporu Bileşeni kısmında uygulamaya git butonuna tıklayarak Ortak Giriş Noktası'na yönlendirilir.
 
-### E-NABIZ GİRİŞİ ONAYLANAN AİLE HEKİMİ YA DA DOKTORUN SİSTEME GİRİŞİ VE KULLANIMI
+#### Ortak Giriş Noktası Sistemine Giriş
 
-### e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+- Sisteme giriş yapabilmek için e-imza ile giriş butonu tıklanır.
 
- TC Kimlik bilgileri girilen
+#### E-İmza Uygulamasını Nasıl İndirebilirim
 
-Vatandaş'ın verileri ekrana
+- E-imza uygulaması bilgisayarınızda kurulu değilse aşağıdaki adımları takip ederek uygulamayı kurabilirsiniz. E-İmza Uygulaması İndir kısmında yer alan indirme butonuna tıklanır ve Şekil'de yer alan e-İmza Uygulaması indirme adresine ulaşılır.
 
-gelir ve ilgili aile hekimi ileri
+- Şekil'de kırmızı ile gösterilen alanlardan işletim sistemi seçilir ve Şimdi İndir butonuna tıklanır.
 
-butonuna basar ve tanı
+- Şekil'de yer alan "Sağlık Bakanlığı Personeli Sürümü" butonuna tıklandıktan sonra Şimdi İndir (Sağlık Bakanlığı Personeli Sürümü) butonuna tıklanır.
 
-yada bulgularını yazar.  Sonuç kısmında Hastalık
+- Program indirildikten sonra aşağıdaki yükleme adımları yapılır.
 
-nedeniyle yada engellilik
+#### E-Nabız Girişi Onaylanan Aile Hekimi ya da Doktorun Sisteme Girişi ve Kullanımı
 
-nedeniyle yatağa bağımlı
+- Sisteme girişi onaylanan aile hekimi şekildeki ekrana gelir, raporu yazılacak olan hastanın TC Kimlik numarası ilgili alana yazılır ve sorgula butonuna basılır.
 
-seçeneklerinden birini seçer
+- TC Kimlik bilgileri girilen vatandaşın verileri ekrana gelir ve ilgili aile hekimi ileri butonuna basar ve tanı ya da bulgularını yazar.
 
-ve raporu ön izleme ve
+- Sonuç kısmında Hastalık nedeniyle ya da engellilik nedeniyle yatağa bağımlı seçeneklerinden birini seçer ve raporu ön izleme ve imzalama aşamasına geçer.
 
-imzalama aşamasına geçer.
+- Yazılan raporun ön izlemesi görülür. Aile hekimi ya da doktor raporu imzaladıktan sonra PDF hazır ve doktor onaylı hale gelir. Vatandaşa vermek üzere çıktı alınır ve ıslak imzalı olarak gerekli ilgili kurumlara verilmek üzere vatandaşa teslim edilir.
 
-### e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu
+Soru ve sorunlarınız için: erapor.destek@saglik.gov.tr
 
-Yazılan raporun ön izlemesi görülür Aile hekimi yada doktor raporu imzaladıktan sonra PDF hazır
-
-ve doktor onaylı hale gelir. Vatandaşa vermek üzere çıktı
-
-alınır ve ıslak imzalı olarak gerekli ilgili kurumlara verilmek
-
-üzere vatandaşa teslim edilir. e-Rapor – Yatağa Bağımlı Kişiler için Tek Hekim Raporu
-
-### Soru ve sorunlarınız için erapor.destek@saglik.gov.tr
-
-Yazılım Destek Telefon : 0 312 248 51 51
+Yazılım Destek Telefon: 0 312 248 51 51

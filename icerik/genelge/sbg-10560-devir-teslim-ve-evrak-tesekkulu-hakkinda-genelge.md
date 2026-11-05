@@ -3,25 +3,19 @@ id: "sbg-10560-devir-teslim-ve-evrak-tesekkulu-hakkinda-genelge"
 baslik: "Devir-Teslim ve Evrak Teşekkülü Hakkında Genelge"
 tur: "genelge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
+konu: "Bakanlık ve bağlı sağlık kurum ve kuruluşlarında Dosya Muhteviyatı Formu uygulamasını başlatır ve arşiv malzemesinin kurum arşivine devir-teslim ve envanter işlemlerini düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10560/devir-teslim-ve-evrak-tesekkulu-hakkinda-genelge.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-89кг T.C.
+### T.C. SAĞLIK BAKANLIĞI – İdari ve Mali İşler Dairesi Başkanlığı
 
-### SAĞLIK BAKANLIĞI
-
-SS96IK BBKANLIG 10 Arak 2002
-
-### Idari ve Mali Işler Dairesi Başkanlığı SAYI : B100IMI0000010/ ANKARA
-
-KONU:Devir Teslim ve
-
-Evrak Teşekkülü
-
-01 48
+Sayı: B100İMİ0000010/0148  
+Konu: Devir Teslim ve Evrak Teşekkülü  
+Ankara, 10 Ocak 2002 [?]
 
 Bildiğiniz gibi, Bakanlığımız bünyesinde ve bağlı Sağlık Kurum ve Kuruluşlarımızda Kurum Arşivi'nin Kanun ve Yönetmeliklerde tanımlanan niteliklere uygun hale getirilmesi ile, işin rastgele yapılmasının önüne geçilerek belli bir sisteme kavuşturulması bakımından, 2001 yılı içerisinde yoğun çalışma ve eğitim programları yapılmış, olumlu ve bilgilendirici koordinasyonlar kurulmuştur.
 
@@ -31,54 +25,77 @@ Bu anlamda, yıl içerisinde kurulan koordinasyonlar ve yapılan bilgilendirme �
 
 Bunun için 2002 yılından itibaren, bir işlemle ilgili dosya oluşturmaya başlanırken Dosya Muhteviyatı Formunun tutulması uygulamasına geçilmesi kararlaştırılmıştır. Oluşturulan Dosya Muhteviyatı Formu dosyanın en üst bölümüne takılacak ve her işlem gören evrak sıra numarasıyla Forma işlenecektir.
 
-Bu uygulamayla evrak kayıp yada yıl sonunda evrak tespiti yapılması zorluğunun önüne geçileceği gibi, Evrak Devir ve Envanter Formunun tanziminde de büyük kolaylık sağlanmış olacaktır. Yıl sonu itibariyle Evrak Devir ve Envanter Formunun nasıl doldurulacağına ilişkin ayrıntılar ekte gönderilen açıklamalarla
+Bu uygulamayla evrak kayıp yada yıl sonunda evrak tespiti yapılması zorluğunun önüne geçileceği gibi, Evrak Devir ve Envanter Formunun tanziminde de büyük kolaylık sağlanmış olacaktır. Yıl sonu itibariyle Evrak Devir ve Envanter Formunun nasıl doldurulacağına ilişkin ayrıntılar ekte gönderilen açıklamalarla teferruatlı olarak izah edilmiştir.
 
-Bilgilerinizi ve yukarıda ifade edilen, ekte birer öreği gönderilen açıklamaların dikkatle incelenerek belirtilen hususların mahiyetinizdeki bütün Sağlık Kurum ve Kuruluşlarında uygulamaya konulmasını ve tereddüt edilen konularda Bakanlığımız Idari ve Mali İşler Dairesi Başkanlığı ile koordinasyon kurulmasını
+Bilgilerinizi ve yukarıda ifade edilen, ekte birer örneği gönderilen açıklamaların dikkatle incelenerek belirtilen hususların mahiyetinizdeki bütün Sağlık Kurum ve Kuruluşlarında uygulamaya konulmasını ve tereddüt edilen konularda Bakanlığımız İdari ve Mali İşler Dairesi Başkanlığı ile koordinasyon kurulmasını önemle rica ederim.
 
-Bakan a
-
+Ertuğrul CANDAN  
+Bakan a.  
 Müsteşar Yardımcısı
 
 ### EKLER:
 
-Dosya Muhteviyatı Döküm Formu (1 adet)
-
+1. Dosya Muhteviyatı Döküm Formu (1 adet)
 2. Evrak Devir İşleminde Uyulacak Kurallar (1 Adet)
-
-Devir, Teslim ve Envanter Formu (1 Adet)
-
+3. Devir, Teslim ve Envanter Formu (1 Adet)
 4. Formun Doldurulmasına Ait Açıklama (1 Adet)
 
-### DAĞITIM
+### DAĞITIM:
 
 A Planı
 
-EK-1
+### EK-1 – DOSYA BAZINDA TEŞEKKÜL EDEN ARŞİV MALZEMESİNİN TASNİFİ, KURUM ARŞİVİNE DEVRİNDE UYULMASI GEREKEN KURALLAR
 
-### DOSYA BAZINDA TEŞEKKUL EDEN ARŞIV MALZEMESINİN TASNİFİ KURUM ARŞİVİNE DEVRİNDE UYULMASI GEREKEN KURALLAR
+| No | Kural |
+| --- | --- |
+| 01. | Aynı birime ait dosyalar bir araya getirilir. |
+| 02. | Dosyanın, işlem gördüğü yıl esas alınmak suretiyle, yıl grupları oluşturulur. |
+| 03. | Yıl veya yıl gruplarına göre ayrılan dosyalar, birimde kullanılan dosya planı esas alınarak konularına göre ayrılır. |
+| 04. | Konularına göre ayrılan dosyalar, birimde teşekkül ederken aldığı müteselsil bir sıra numarası varsa buna göre (Proje no, rapor no gibi), yoksa en son işlem gördüğü tarih sırasına göre dizilir. |
+| 05. | Yukarıdaki işlemler yapıldıktan sonra devredilecek formun asli düzeni sağlanmış olur. |
+| 06. | Oluşturulan düzen bozulmadan, ilk dosyadan başlamak suretiyle dosyalara sıra numarası verilir. |
+| 07. | Oluşturulan dosyalar, ilk dosyadan başlamak suretiyle bağcıklı klasörlerin alacağı oranda klasörlere yerleştirilir ve bu klasörlere müteselsil klasör numaraları verilir. Daha sonra aşağıdaki işlemlere geçilir. |
+| 08. | Evrak içindeki zarflar (tarihi değeri olanlar ve üzerinde bilgi taşıyanlar hariç) kulakçıklar ve en önemlisi mükerrer olan evrak atılır. |
+| 09 | Dosya içindeki her evrakın ön yüz sağ alt köşesine, dosyanın ilk sayfasından başlayarak ekler de dahil olmak üzere (eklere verilecek sıra numarası ilgili evrakın numarası olacak ve ekler a, b gibi alt katagoride değerlendirilecektir. Örneğin 1/a, 1/b gibi) kurşun kalemle sıra numarası verilir ve toplam sayfa sayısı dosyanın ilk sayfasının ön yüz sol alt köşesine kurşun kalemle yapılır. |
+| 10. | Numaralandırılmış evrak 3 nüsha olarak, Envanter Formuna listelenecek, bir sureti biriminizde tutulacak, bir sureti Başkanlığımıza imza karşılığı verilecek, diğer sureti de klasörün en üst iç kısmına takılacaktır. |
+| 11. | "Arşiv Yer Damgası"nın doldurma işlemi kurşun kalemle yapılır ve sırasıyla 1. kareye kurumun, 2. kareye devredilecek evrak hangi birime aitse o birimin, 3. kareye ise devredilen evrak alt birime aitse alt birimin, Devlet Arşivleri Genel Müdürlüğü ile Bakanlığın mutabakatı sağlanarak önceden tespit edilmiş kodları yazılır. 4. kare boş geçilir. 5. kare "Kutu Numarası" bölümüdür. Üzerinde çalışılan dosya 7. maddede yapılan işleme göre hangi numaralı klasöre ait ise o klasörün numarası bu bölüme yazılır. 6. kare ise "Dosya Sıra Numarası" bölümüdür. Üzerinde çalışılan dosyaya, 6. maddede yapılan işleme göre verilen numara bu bölüme yazılır. Son kare boş bırakılır. Bu işlemlerden sonra Devir Teslim Envanter Formunun doldurulmasına geçilir. |
 
-01. Aynı birime ait dosyalar bir araya getirilir. 02 Dosyanın, işlem gördüğü yıl esas alınmak suretiyle, yıl grupları oluşturulur. Yıl veya yıl gruplarına göre ayrılan dosyalar, birimde kullanılan dosya planı esas
+### T.C. SAĞLIK BAKANLIĞI – DOSYA MUHTEVİYATI DÖKÜM FORMU
 
-03. alınarak konularına ğöre ayrılır. Konularına göre ayrılan dosyalar, birimde teşekkül ederken aldığı müteselsil bir sıra
+…… DAİ.BŞK/GN MD  
+…… Şube Müdürlüğü
 
-04. numarası varsa buna göre (Proje no, rapor no gibi), yoksa en son işlem gördüğü tarih sırasına göre dizilir. Yukarıdaki işlemler yapıldıktan sonra devredilecek formun asli düzeni sağlanmış ^15 06 Oluşturulan düzen bozulmadan, ilk dosyadan başlamak suretiyle dosyalara sıra numarası verilir. Oluşturulan dosyalar, ilk dosyadan başlamak suretiyle bağcıklı klasörlerin alacağı
+| SIRA NO | TARİH | SAYISI | KONUSU | SAYFA ADEDİ | AÇIKLAMALAR |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 
-07. oranda klasörlere yerleştirilir ve bu klasörlere müteselsil klasör numaraları verilir. Daha sonra aşağıdaki işlemlere geçilir. Evrak içindeki zarflar (tarihi değeri olanlar ve üzerinde bilgi taşıyanlar hariç) 08. kulakçıklar ve en önemlisi mükerrer olan evrak atılır. Dosya içindeki her evrakın ön yüz sağ alt köşesine, dosyanın ilk sayfasından başlayarak ekler de dahil olmak üzere (eklere verilecek sıra numarası ilgili evrakın 09 numarası olacak ve ekler a, b gibi alt katagoride değerlendirilecektir. Örneğin 1/a, 1/b gibi) kurşun kalemle sıra numarası verilir ve toplam sayfa sayısı dosyanın ilk sayfasının ön yüz sol alt köşesine kurşun kalemle yapılır. Numaralandırılmış evrak 3 nüsha olarak, Envanter Formuna listelenecek, bir sureti O. biriminizde tutulacak, bir sureti Başkanlığımıza imza karşılığı verilecek, diğer sureti de klasörün en üst iç kısmına takılacaktır. "Arşiv Yer Damgası"nın doldurma işlemi kurşun kalemle yapılır ve sırasıyla 1 .kareye kurumun, 2. kareye devredilecek evrak hangi birime aitse o birimin, 3. kareye ise devredilen evrak alt birime aitse alt birimin, Devlet Arşivleri Genel Müdürlüğü ile Bakanlığın mutabakatı sağlanarak önceden tespit edilmiş kodları yazılır. 4. kare boş geçilir. 5. kare "Kutu Numarası" bölümüdür. Üzerinde çalışılan dosya 7. maddede 11. yapılan işleme göre hangi numaralı klasöre ait ise o klasörün numarası bu bölüme yazılır. 6. kare ise "Dosya Sıra Numarası" bölümüdür. Üzerinde çalışılan dosyaya, 6 maddede yapılan işleme göre verilen numara bu bölüme yazılır. Son kare boş bırakılır. Bu işlemlerden sonra Devir Teslim Envanter Formunun doldurulmasına geçilir.
+### EK-2 – T.C. SAĞLIK BAKANLIĞI ARŞİV MALZEMESİ DEVİR-TESLİM ve ENVANTER FORMU
 
-T.C.
+…… DAİRE BŞK/GN MD  
+…… ŞUBE MÜDÜRLÜĞÜ
 
-### SAĞLIK BAKANLIĞI .. DAI.BŞK/GN MD
+| TÜRÜ |  | İŞLEM YILI |  | TEŞKİLAT KODU |  | KUTU |  | DOSYA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ENVANTER SIRA NO | İŞLEM TARİHİ | SAYISI | GİZLİLİK DERECESİ | KONUSU | ADEDİ | AÇIKLAMA | EVRAK SIRA NO |  |
 
-... Şube Müdürlüğü
+### EK-3 – ARŞİV MALZEMESİ DEVİR TESLİM VE ENVANTER FORMUNUN DOLDURULMASI
 
-### DOSYA MUHTEVİYATI DÖKÜM FORMU SIRA NO TARIH SAYISI SAYFA KONUSU ADEDI AÇIKLAMALAR
+| No | Açıklama |
+| --- | --- |
+| 1 | Envanter Formunun başında kurumun antedi bulunur. |
+| 2 | "Birimi" bölümüne, arşiv malzemesini devreden birimin açık adı, |
+| 3 | "Türü" bölümüne, devredilen arşiv malzemesinin türü yazılır. Burada devredilen malzeme evrak olduğundan, bu bölüme "Evrak" ibaresi, |
+| 4 | "İşlem Yılı" bölümüne devredilecek arşiv malzemesi hangi yıla aitse yılı veya yıl grubu, |
+| 5 | "Teşkilat Kodu" bölümüne, her karenin içine sırasıyla kurum kodu, Birimin kodu varsa alt birim ve hizmet türü kodları, |
+| 6 | "Kutu no" bölümüne, listenin o sayfasında dökümü yapılan evrakın ait olduğu klasör numarası, |
+| 7 | "Dosya no" bölümüne, listenin o sayfasında dökümü yapılan evrakın ait olduğu dosya numarası veya numaraları, |
+| 8 | "Envanter Sıra Numarası" bölümüne, devredilen fonun ilk evrakından başlayarak en son evraka kadar verilen sıra numarasını, |
+| 9 | "İşlem Tarihi" bölümüne, evrakın en son işlem gördüğü tarih yani evrakın en son tarihi, |
+| 10 | "Sayısı" bölümüne, en son işlem gören evrakın almış olduğu sayı, |
+| 11 | "Gizlilik Derecesi" bölümüne, evrakın gizlilik kaydının olup olmadığı (Gizlilik kaydı varsa) "G" kısaltması ile gösterilir. |
+| 12 | "Konusu" bölümüne, evrakın kısaca konusu (Evrakın yazılırken kısaltmalar kullanılmayacak, kısa ve öz biçimde evrakın muhteviyatını verecek ifadeler kullanılacaktır), |
+| 13 | "Adedi" bölümüne, evrak kaç sayfadan müteşekkil ise toplam sayfa sayısı, |
+| 14 | "Açıklamalar" bölümüne, evrakla ilgili açıklama gereği duyulan hususlar kaydedilir. Örnek: "Evrakın eki yok" veya "Evrakın ekinde bir adet fotoğraf mevcut" gibi, |
+| 15 | "Evrak Sıra Numarası" bölümüne, kaydedilen evrakın dosya içinde almış olduğu sıra numarası, |
 
-EK-2
-
-### T.C. SAĞLIK BAKANLIĞI ...DAIRE BŞK/GN MD ..ŞUBE MÜDÜRLÜĞO ARŞİV MALZEMESİ DEVİR-TESLİM ve ENVANTER FORMU TORO ISLEM YILI TEŞKILAT KODU KUTU DOSYA IŞLEM SAYISI GIZLILIK KONUSU ADEDI AÇIKLAMA EVRAK SIRA TARİHI DERECESI NO
-
-EK-3
-
-### ARŞİV MALZEMESİ DEVİR TESLİM VE ENVANTER FORMUNUN DOLDURULMASI
-
-1 Envanter Formunun başında kurumun antedi bulunur. 2 "Birimi" bölümüne, arşiv malzemesini devreden birimin açık adı, "Türü" bölümüne, devredilen arşiv malzemesinin türü yazılır. Burada devredilen malzeme evrak olduğundan, bu bölüme "Evrak" ibaresi, "İşlem Yılı" bölümüne devredilecek arşiv malzemesi hangi yıla aitse yılı veya 4 yıl grubu, "Teşkilat Kodu" bölümüne, her karenin içine sırasıyla kurum kodu, Birimin 5 kodu varsa alt birim ve hizmet türü kodları, "Kutu no" bölümüne, listenin o sayfasında dökümü yapılan evrakın ait olduğu 6 klasör numarası, "Dosya no" bölümüne, listenin o sayfasında dökümü yapılan evrakın alt 7 olduğu dosya numarası veya numaraları, "Envanter Sıra Numarası" bölümüne, devredilen fonun ilk evrakından 8 başlayarak en son evraka kadar verilen sıra numarasını, "İşlem Tarihi" bölümüne, evrakın en son işlem gördüğü tarih yani evrakın en 9 son tarihi, 10 Sayısı" bölümüne, en son işlem gören evrakın almış olduğu sayı. "Gizlilik Derecesi" bölümüne, evrakın gizlilik kaydının olup olmadığı (Gizlilik 11 kaydı varsa) "G" kısaltması ile gösterilır. "Konusu" bölümüne, evrakın kısaca konusu (Evrakın yazılırken kısaltmalar 12 kullanılmayacak, kısa ve öz biçimde evrakın muhteviyatını verecek ifadeler kullanılacaktır), 13 "Adedi" bölümüne, evrak kaç sayfadan müteşekkil ise toplam sayfa sayısı, "Açıklamalar" bölümüne, evrakla ilgili açıklama gereği duyulan hususlar 14 kaydedilir. Örnek: "Evrakın eki yok" veya "Evrakın ekinde bir adet fotoğraf mevcut" gibı, 15 "Evrak Sıra Numarası" bölumüne, kaydedilen evrakın dosya içinde almış ]olduğu sıra numarası,_ yazılır.
+yazılır.
