@@ -1,37 +1,31 @@
 ---
 id: "sbg-11146-kizamik-kizamikcik-ve-konjenital-kizamikcik-kks-surveyansi-genelgesi-2"
-baslik: "Kızamık, Kızamıkçık ve Konjenital Kızamıkçık (KKS) Sürveyansı Genelgesi 2010"
+baslik: "Kızamık, Kızamıkçık ve Konjenital Kızamıkçık Sendromu Sürveyansı Genelgesi (2010/20)"
 tur: "genelge"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11146/kizamik-kizamikcik-ve-konjenital-kizamikcik-kks-surveyansi-genelgesi-2010.html"
 durum: "yürürlükte"
-ocr: true
+ocr: "true"
+tarih: "2010-04-01"
+sayi: "2010/20"
+konu: "Türkiye’de kızamık ve kızamıkçığın eliminasyonu ile konjenital kızamıkçık sendromunun önlenmesine yönelik sürveyans kurallarını belirler."
+duzeltildi: "true"
 ---
 
-## T.C. K-Q SAĞLIK BAKANLIĞI TSE-ISO-EN
+### T.C. SAĞLIK BAKANLIĞI
 
-9000
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-### Temel Sağlık Hizmetleri Genel Müdürlüğü
+Sayı: B100TSH01105
 
-Sayı: B100TSH01105 Konu: Kızamık/Kızamıkçık ve Konjenital Kızamıkçık Sendromu (KKS)
-
-Sürveyansı Genelgesı T.C.
-
-### SAĞLIK BAKANLIĞI
-
-Temel Sağ. Hiz. Genel
-
-Md. Genişletilmiş Bağışıklama
-
-01 Nisan 2010 15:53:59 /18617
+Konu: Kızamık/Kızamıkçık ve Konjenital Kızamıkçık Sendromu (KKS) Sürveyansı Genelgesi
 
 ### GENELGE 2010/20
 
-Türkiye'de kızamığa bağlı morbidite ve mortalitenin yüksekliği ve Dünyada ve Avrupa bölgesinde son yıllarda kaydedilen gelişmeler ve deneyimler de göz önüne alınarak, 2002-2010 yıllarını kapsayan Kızamık ve Kızamıkçığın Eliminasyonu ve KKS'nin Önlenmesi Programı hazırlanmıştır. Programın amacı Türkiye'de kızamık ve kızamıkçık hastalıklarını elimine etmek, KKS'yi önlemek ve bu düzeyleri sürdürmektir. 2002 yılında %82 olan kızamık aşılama hızı, yürütülen başarılı bağışıklama çalışmalarıyla 2009 ỷılında %97'ye yükselmiştir. Hedefimiz, 2010 yılı sonuna kadar Türkiye'de yerli virüs geçişini durdurmak, 2010 yılından sonra Türkiye dışından gelecek yeni kızamık virüslerinin Türkiye'de yerleşmesini önlemek ve kızamığa bağlı ölümleri
+Türkiye'de kızamığa bağlı morbidite ve mortalitenin yüksekliği ve Dünyada ve Avrupa bölgesinde son yıllarda kaydedilen gelişmeler ve deneyimler de göz önüne alınarak, 2002-2010 yıllarını kapsayan Kızamık ve Kızamıkçığın Eliminasyonu ve KKS'nin Önlenmesi Programı hazırlanmıştır. Programın amacı Türkiye'de kızamık ve kızamıkçık hastalıklarını elimine etmek, KKS'yi önlemek ve bu düzeyleri sürdürmektir. 2002 yılında %82 olan kızamık aşılama hızı, yürütülen başarılı bağışıklama çalışmalarıyla 2009 yılında %97'ye yükselmiştir. Hedefimiz, 2010 yılı sonuna kadar Türkiye'de yerli virüs geçişini durdurmak, 2010 yılından sonra Türkiye dışından gelecek yeni kızamık virüslerinin Türkiye'de yerleşmesini önlemek ve kızamığa bağlı ölümleri [?]
 
-Programın temel stratejilerinden biri de destek aşılama çalışması sonrasında kızamık isidansının azalması ile vaka bazında, laboratuvar destekli kızamık surveyansına geçilmesi ve akut flask paralizi sürveyansına entegre edilmiş haftalık aktif sürveyansın oluşturulması olarak belirlenmiştir. "Kızamık Eliminasyon Programı, Kızamık Saha Rehberi"nde laboratuvar destekli ve vaka bazlı kızamık surveyansı kuralları belirlenmiştir. 2005 yılında da Bulaşıcı Hastalıkların Ihbarı ve Bildirim Sistemi Yönergesi ile laboratuvar destekli standart vaka tanımları yapılarak bildirimin kuralları belirlenmiştir.
+Programın temel stratejilerinden biri de destek aşılama çalışması sonrasında kızamık insidansının azalması ile vaka bazında, laboratuvar destekli kızamık sürveyansına geçilmesi ve akut flask paralizi sürveyansına entegre edilmiş haftalık aktif sürveyansın oluşturulması olarak belirlenmiştir. "Kızamık Eliminasyon Programı, Kızamık Saha Rehberi"nde laboratuvar destekli ve vaka bazlı kızamık sürveyansı kuralları belirlenmiştir. 2005 yılında da Bulaşıcı Hastalıkların Ihbarı ve Bildirim Sistemi Yönergesi ile laboratuvar destekli standart vaka tanımları yapılarak bildirimin kuralları belirlenmiştir.
 
 Programın stratejik hedeflerine uygun olarak rutin aşılama hızının %95'in üzerinde olması ve destek aşılama çalışmalarının başarıyla tamamlanması sonucunda kızamık vaka sayımız da giderek azalmış, 2001 yılında 30.509 iken, 2009 yılında 4'e (3 importe, 1 importe vaka ile ilişkili vaka) kadar düşmüştür. Böylece eliminasyon dönemine geçilerek importasyonun engellenmesi giderek daha da ön plana çıkan bir hedef haline gelmiştir. Eliminasyon döneminde yürütülecek sürveyansa özgü bazı farklılıklar bulunmaktadır.
 
@@ -53,11 +47,11 @@ salgınların kontrolü ve önlenmesi stratejilerini belirlenmesinde kullanılma
 
 gerekiyorsa seroprevalans araştırmaları ile hassas nüfus birikimine ilişkin bilgi
 
-saglanması.
+sağlanması.
 
-### g. Vaka ve salgın doğrulaması için olușturulmuş olan bir laboratuvar ağının
+### g. Vaka ve salgın doğrulaması için oluşturulmuş olan bir laboratuvar ağının
 
-geliştirilmesıdır. Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı, GBP Şubesi, B Blok, Kat:4 e-posta: temel.bsh(@saglik.gov.tr, Tel: 0312 435 29 71, Faks: 0312 432 29 94
+geliştirilmesidir. Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı, 
 
 ### T.C. K-Q SAGLIK BAKANLIĞI TSE-ISO-EN
 
@@ -67,7 +61,7 @@ geliştirilmesıdır. Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın 
 
 Sayı: Konu:
 
-Türkiye'de kızamık sürveyansının eliminasyon hedefine ulaşıldığının kanıtlanması ve olası bir salgının erken tespiti ve etkin salgın yanıtı ile kontrol altına alınmasını sağlamak amacıyla yeniden düzenlenmiş olan ve sürveyansın il düzeyinde yürütülmesi sırasında uyulması gereken kuralları içeren Daimi Genelge ekte gönderilmektedir. Bu Daimi Genelge yayınlandığı tarihte yürürlüge gırer.
+Türkiye'de kızamık sürveyansının eliminasyon hedefine ulaşıldığının kanıtlanması ve olası bir salgının erken tespiti ve etkin salgın yanıtı ile kontrol altına alınmasını sağlamak amacıyla yeniden düzenlenmiş olan ve sürveyansın il düzeyinde yürütülmesi sırasında uyulması gereken kuralları içeren Daimi Genelge ekte gönderilmektedir. Bu Daimi Genelge yayımlandığı tarihte yürürlüğe girer.
 
 Kızamık/Kızamıkçık/KKS sürveyansı konusunda temel başvuru kaynağı olan bu Daimi Genelge her düzeyde tanıtılmalı, özel sektör dahil tüm sağlık çalışanlarının uygulamadaki değişiklikleri yakından izlemeleri sağlanmalıdır. Ekte gönderilen Kızamık Sürveyansı Daimi Genelgesinin tüm sağlık kuruluşlarına (Tıp Fakülteleri, Hastaneler, Özel Sağlık Kuruluşları ve Muayenehaneler dâhil) ve birinci basamak sağlık personeline imza karşılığı tebliğini ve il düzeyinde yapılacak uygulamaların Genelgeye uygun olarak yürütülmesi hususunda gereğini önemle rica ederim.
 
@@ -77,7 +71,7 @@ Bakan a.
 
 Müsteşar Ek: Daimi Genelge
 
-### DAGITIM: A PLANI
+### DAĞITIM: A PLANI
 
 Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı, GBP Şubesi, B Blok, Kat:4
 

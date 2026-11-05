@@ -7,9 +7,10 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103810/saglik-bakanligi-sosyal-tesisler-isletme-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: "true"
 ---
 
-9.2.3.Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi
+9.2.3. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi
 
 ### SAĞLIK BAKANLIĞI SOSYAL TESİSLER İŞLETME YÖNERGESİ
 
@@ -21,35 +22,35 @@ ocr: true
 
 **MADDE 2 –** (1) Bu Yönerge; Bakanlık personeli ve emeklilerinin, eşi, çocukları ile kanunen bakmakla yükümlü oldukları aile bireylerinin Bakanlık merkez teşkilatı yemekhanesi hariç olmak üzere yemekhane, kafeterya, eğitim ve dinlenme tesisi, hekim evi, kreş gibi sosyal tesislerin yönetimini, işletilmesini, kapatılmasını, açılmasını ve buralarda verilecek hizmetleri kapsar.
 
-**MADDE 3 –** (1) Bu Yönerge, 10/12/2003 tarihli ve 5018 sayılı Kamu Mall Yönetimi ve Kontrol Kanunu, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu'nun 191 inci maddesi, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 379 uncu maddesi, Kamu Kurum ve Kuruluşlarınca Işletilen Sosyal Tesislerin Muhasebe Uygulamalarina Dair Esas ve Usuller ile Kamu Sosyal Tesislerine İlişkin Tebliğlere dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönerge, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu'nun 191 inci maddesi, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 379 uncu maddesi, Kamu Kurum ve Kuruluşlarınca İşletilen Sosyal Tesislerin Muhasebe Uygulamalarina Dair Esas ve Usuller ile Kamu Sosyal Tesislerine İlişkin Tebliğlere dayanılarak hazırlanmıştır.
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
 a) Bakanlık: Sağlık Bakanlığı merkez ve taşra teşkilatını,
 
-b) Daire Başkanlığı: Genel Müdürlüğün yapacağı görevlendirmeye göre Idari Hizmetler Dairesi Başkanlığını, Destek Hizmetleri Dairesi Başkanlığını ya da Mali
+b) Daire Başkanlığı: Genel Müdürlüğün yapacağı görevlendirmeye göre İdari Hizmetler Dairesi Başkanlığını, Destek Hizmetleri Dairesi Başkanlığını ya da Mali
 
 c) Genel Müdürlük: Yönetim Hizmetleri Genel Müdürlüğünü,
 
-9) Gerçekleştirme Görevlisi: Harcama yetkilisi tarafindan görevlendirilen ve 5018 sayılı Kanun'a göre görevini ifa eden personeli,
+ç) Gerçekleştirme Görevlisi: Harcama yetkilisi tarafından görevlendirilen ve 5018 sayılı Kanun'a göre görevini ifa eden personeli,
 
-d) Harcama Yetkilisi: Üst yönetici tarafindan görevlendirilen ve 5018 sayılı
+d) Harcama Yetkilisi: Üst yönetici tarafından görevlendirilen ve 5018 sayılı
 
-e) Muhasebe Yetkilisi: Oncelikli olarak fakülte ve yüksekokulların işletme, iktisat, maliye, muhasebe bölümlerinden mezun olanlar veya muhasebe yetkilisi sertifikası olanlar arasından Yönetim Kurulunca görevlendirilen personeli,
+e) Muhasebe Yetkilisi: Öncelikli olarak fakülte ve yüksekokulların işletme, iktisat, maliye, muhasebe bölümlerinden mezun olanlar veya muhasebe yetkilisi sertifikası olanlar arasından Yönetim Kurulunca görevlendirilen personeli,
 
-1) Kamu Harcama ve Muhasebe Bilişim Sistemi (KBS) : Verilerin Hazine ve Maliye Bakanlığa aktarılmasında kullanılan sistemi,
+f) Kamu Harcama ve Muhasebe Bilişim Sistemi (KBS) : Verilerin Hazine ve Maliye Bakanlığa aktarılmasında kullanılan sistemi,
 
 g) KTS Sosyal Tesis: Milli Emlak Otomasyon Projesi sisteminde oluşturulan
 
-#### 915 Yönetim Kurulu ve Çalışma Esasları
+#### #### Yönetim Kurulu ve Çalışma Esasları
 
-**MADDE 6 –** (1) Yönetim Kurulu bir başkan ve 2 üyeden oluşur. Üye sayısı kadar yedek üye belirlenir. Yönetim Kurulu Başkanımı ve üyelerini üst yönetici belirler. Görevlendirmeler bir yıl süre ile yapılır. Görev süresi sona erenler, aynı usülle tekrar görevlendirilebilir.
+**MADDE 6 –** (1) Yönetim Kurulu bir başkan ve 2 üyeden oluşur. Üye sayısı kadar yedek üye belirlenir. Yönetim Kurulu Başkanını ve üyelerini üst yönetici belirler. Görevlendirmeler bir yıl süre ile yapılır. Görev süresi sona erenler, aynı usülle tekrar görevlendirilebilir.
 
-(2) Yönetim Kurulu, toplantı gündemindeki konuları görüşmek üzere her yıl Ocak ayında toplanır. Kurul, gerektiğinde Yönetim Kurulu Başkanının çağrısı üzerine ayrıca toplanabilir. Kurulda alınan kararlar, karar defterine yazılır. Karar defteri başkan tarafindan onaylanır.
+(2) Yönetim Kurulu, toplantı gündemindeki konuları görüşmek üzere her yıl Ocak ayında toplanır. Kurul, gerektiğinde Yönetim Kurulu Başkanının çağrısı üzerine ayrıca toplanabilir. Kurulda alınan kararlar, karar defterine yazılır. Karar defteri başkan tarafından onaylanır.
 
 (3) Yönetim Kurulu üye tam sayısı ile toplanır, kararlarını salt çoğunlukla alır.
 
-(4) Yönetim Kurulu üyelerinden izinli, görevli vs. gibi nedenlerle görevleri başında bulunamayanların yerine, yedek üyeler toplantıya katıhırlar.
+(4) Yönetim Kurulu üyelerinden izinli, görevli vs. gibi nedenlerle görevleri başında bulunamayanların yerine, yedek üyeler toplantıya katılırlar.
 
 (5) Yemekhane hizmeti sunan sosyal tesislerin bünyesinde de Yönetim Kurulu teşkil edilmesi zorunludur. Yönetim Kurulunun Görevleri
 
@@ -61,7 +62,7 @@ b) Sosyal tesislerin işletilmesi ile ilgili her türlü tedbiri almak,
 
 e) Muhasebe kayıtlarının Usul ve Esaslar çerçevesinde tutulmasını sağlamak,
 
-g) Hesap verilebilirlik açısından defterleri ve malf tabloları, konsolide gelir-gider tablolarını usülüne uygun olarak düzenlenmesini sağlamak, denetim birimlerine ve diğer bilgi kullanıcılarına sunmak,
+g) Hesap verilebilirlik açısından defterleri ve mali tabloları, konsolide gelir-gider tablolarının usulüne uygun olarak düzenlenmesini sağlamak, denetim birimlerine ve diğer bilgi kullanıcılarına sunmak,
 
 d) Faaliyet dönemi başlamadan önce Büyük Defter (Defter-i Kebir) ve günlük defter dökümlerini Yönetim Kurulu Başkanına tasdik ettirmek,
 
@@ -69,25 +70,25 @@ e) Ihtiyaç duyulması hålinde, sosyal tesislere yapılacak olan yıllık mal v
 
 f) Kiralamalarla ilgili karar almak,
 
-g) Sosyal tesislerin hesaplarında bulunan paraların; ödeme durumuna göre, 8/3/2019 tarihli ve 30708 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Kamu Haznedarlığı Yönetmeliği hükümleri doğrultusunda, gelir sağlamak üzere sermayesinin yüzde ellisinden fazlası kamuya ait olan Bankalarda değerlendirilmesine karar vermek,
+g) Sosyal tesislerin hesaplarında bulunan paraların; ödeme durumuna göre, 8/3/2019 tarihli ve 30708 sayılı Resmî Gazetede yayımlanarak yürürlüğe giren Kamu Haznedarlığı Yönetmeliği hükümleri doğrultusunda, gelir sağlamak üzere sermayesinin yüzde ellisinden fazlası kamuya ait olan Bankalarda değerlendirilmesine karar vermek,
 
 ğ) Sosyal tesislerin etkin ve verimli çalıştırılması ve hizmet kalitesinin artırılması için gerekli tedbirleri almak,
 
 h) Sosyal tesislerden dinlenme amacıyla veya diğer amaçlarla yararlanacaklardan alınacak yemek, konaklama ve diğer hizmet bedellerinin tespitinde ve elde edilen gelirlerin kullanımında, her yıl Hazine ve Maliye Bakanlığınca yayımlanan Kamu Sosyal Tesislerine İlişkin Tebliğ hükümlerini dikkate alarak karar almak,
 
-1) Sosyal tesislerde sunulan her türlüi mal ve hizmetin fiyatının belirlenmesinde maliyet bedelinin altında olmamak kaydıyla;
+ı) Sosyal tesislerde sunulan her türlü mal ve hizmetin fiyatının belirlenmesinde maliyet bedelinin altında olmamak kaydıyla;
 
 (1) Mal ve hizmetin üretim maliyetini (işçilik maliyeti, işçi ve işveren payları, kıdem tazminatı vb. giderler ile hammadde, satın alma bedeli, elektrik, ısınma, su giderleri vb.),
 
-B) Personel: Sosyal tesislerin idari ve mali işlerini ve görev faaliyetlerini yürütmekle vazifeli olan diğer personeli,
+g) Personel: Sosyal tesislerin idari ve mali işlerini ve görev faaliyetlerini yürütmekle vazifeli olan diğer personeli,
 
-h) Sosyal Tesis Birim Sorumlusu: Her sosyal tesis için üst yönetici tarafindan belirlenen personeli,
+ğ) Sosyal Tesis Birim Sorumlusu: Her sosyal tesis için üst yönetici tarafından belirlenen personeli,
 
 1) Sosyal Tesisler: Bakanlık merkez teşkilatı yemekhanesi hariç olmak üzere, Bakanlıkça işletilen ve genel bütçe içerisinde yer almayan eğitim, dinlenme ve spor tesisi, misafirhane, kreş, yemekhane, kafeterya gibi tesisleri,
 
 1) Tebliğ: Her yıl Hazine ve Maliye Bakanlığı tarafından yayımlanarak yürürlüğe giren Kamu Sosyal Tesislerine Ilişkin Tebliğ'i,
 
-J) Usûl ve Esaslar: 30/12/2005 tarihli ve 26039 sayıl Resmi Gazetede yayımlanarak yürürluğe giren Kamu Kurum ve Kuruluşlarınca Işletilen Sosyal Tesislerin Muhasebe Uygulamalarına Dair Esas ve Usuller'i,
+J) Usûl ve Esaslar: 30/12/2005 tarihli ve 26039 sayıl Resmî Gazetede yayımlanarak yürürluğe giren Kamu Kurum ve Kuruluşlarınca İşletilen Sosyal Tesislerin Muhasebe Uygulamalarına Dair Esas ve Usuller'i,
 
 k) Üst yönetici: Bakanhk merkez teşkilatında Yönetim Hizmetleri Genel Müdürünü, taşra teşkilatında ise Il Sağlık Müdürünü,
 
@@ -139,9 +140,9 @@ b) Yönetim Kurulunun aldığı kararlar doğrultusunda sosyal tesisleri yönetm
 
 c) Üçer aylık dönemlerde işletme hesap özetinin ilgili Daire Başkanlığı'na gönderilmesini sağlamak,
 
-#### ç) Sosyal tesisler tarafindan kullanılan defterleri tasdik etmek. Sosyal Tesis Birim Sorumlusu
+#### ç) Sosyal tesisler tarafından kullanılan defterleri tasdik etmek. Sosyal Tesis Birim Sorumlusu
 
-**MADDE 9 –** (1) Sosyal Tesis Birim Sorumlusu üst yönetici tarafindan görevlendirilir. Sosyal Tesis Birim Sorumlusu aynı zamanda Harcama Yetkilisi görevini de yürütebilir. Görevlerinin yerine getirilmesinden Yönetim Kurulu Başkarı ve/veya ülst yöneticiye karşı sorumludur. Sosyal Tesis Birim Sorumlusunun Görevleri
+**MADDE 9 –** (1) Sosyal Tesis Birim Sorumlusu üst yönetici tarafından görevlendirilir. Sosyal Tesis Birim Sorumlusu aynı zamanda Harcama Yetkilisi görevini de yürütebilir. Görevlerinin yerine getirilmesinden Yönetim Kurulu Başkarı ve/veya ülst yöneticiye karşı sorumludur. Sosyal Tesis Birim Sorumlusunun Görevleri
 
 **MADDE 10 –** (1) Sosyal Tesis Birim Sorumlusunun görevleri şunlardır:
 
@@ -179,7 +180,7 @@ m) Işçi olarak çalışanların puantajlarını, çalışma çizelgelerini, re
 
 n) Yangın, doğal afet, tahliye planları ve sivil savunma iş ve işlemlerini yaptırmak, olağan üstü durumlar için gerekli tedbirleri almak/aldırmak,
 
-o) Görev alanıyla ilgili üst yönetici/Yönetim Kurulu Başkanı tarafindan verilecek diğer iş ve işlemleri yapmak ve yaptırmak Muhasebe Yetkilisi
+o) Görev alanıyla ilgili üst yönetici/Yönetim Kurulu Başkanı tarafından verilecek diğer iş ve işlemleri yapmak ve yaptırmak Muhasebe Yetkilisi
 
 **MADDE 11 –** (1) Muhasebe Yetkilisi, Yönetim Kuruluna karşı sorumludur. İzinli, görevli vs. gibi nedenlerle görevi başında bulunamadığı zamanlarda Sosyal Tesis Birim Sorumlusunun görevlendireceği personel bu görevi yerine getirir. Muhasebe Yetkilisinin görevleri
 
@@ -257,7 +258,7 @@ e) Ihtiyaç duyulması hälinde açılacak diğer hesaplardır.
 
 #### Satın Alma Işlemleri
 
-**MADDE 15 –** (1) Sosyal tesislerin faaliyetlerinin devamı için gereken harcamalar, Hazine ve Maliye Bakanlığı tarafindan yayımlanan Kamu Sosyal Tesislerine İlişkin Tebliğ'de belirlenen usül ve esaslara göre, Yönetim Kurulu karanı ile yürütülür.
+**MADDE 15 –** (1) Sosyal tesislerin faaliyetlerinin devamı için gereken harcamalar, Hazine ve Maliye Bakanlığı tarafından yayımlanan Kamu Sosyal Tesislerine İlişkin Tebliğ'de belirlenen usül ve esaslara göre, Yönetim Kurulu karanı ile yürütülür.
 
 (2) Satın alma işlemlerinde aşağıdaki kurallar göz önünde bulundurulur:
 

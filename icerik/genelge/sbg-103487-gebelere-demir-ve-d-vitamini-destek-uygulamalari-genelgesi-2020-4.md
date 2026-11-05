@@ -7,18 +7,18 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103487/gebelere-demir-ve-d-vitamini-destek-uygulamalari-genelgesi-20204.html"
 durum: "yürürlükte"
+duzeltildi: true
+konu: "Gebelere Demir ve D Vitamini Destek Uygulamaları Genelgesi (2020/4) konusundaki uygulama ve esasları bildirir."
 ocr: true
 ---
 
 6.3.59. Gebelere Demir ve D Vitamini Destek Uygulamaları Genelgesi (2020/4)
 
-### HALK SAGLIĞI GENEL MÜDÜRLÜGÜ - HSGM KADIN VE T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
+Sayı: 57536863
 
-00118522002 Sayı : 57536863 Konu: Gebelere Demir ve D Vitamini Destek
+Konu: Gebelere Demir ve D Vitamini Destek Uygulamaları
 
-Uygulamaları
-
-### GENELGE 2020/.4
+### GENELGE 2020/4
 
 Anne ve bebek sağlığı açısından ciddi bir tehdit olan aneminin ve eksikliği yaygın olarak gözlenen D vitamini yetersizliğinin önlenebilmesi amacıyla Gebelere Demir Destek Programı ile Gebelere D vitamini Destek Programı uygulanmaktadır.
 
@@ -36,7 +36,7 @@ a) Günlük 40-60 mg elementer demir verilecektir. Uygulamada Kalsiyum, Magnezyu
 
 b) Halk Sağlığı Genel Müdürlüğümüzün web sayfasında yer alan güncel Doğum Öncesi Bakım Yönetim Rehberi ve Doğum Sonu Bakım Yönetim Rehberi'ne uygun olarak, demir desteği uygulaması; gebeliğin 4. ayının başından (ikinci trimestr) itibaren gebelik süresince 6 ay ve doğum sonrası 3 ay olmak üzere toplam 9 ay süreyle yapılacaktır.
 
-c) Klinik ve/veya laboratuvar olarak anemi tespit edilen gebeler ve anneler Doğum Öncesi Bakım Yönetim Rehberi ve Doğum Sonu Bakım Yönetim Rehberi'nde belirtilen anemi tedavi protokolü uygulanarak izlenecek, anemi bulguları devam ederse aile hekimi tarafindan ilgili hastaneye sevk edilecektir.
+c) Klinik ve/veya laboratuvar olarak anemi tespit edilen gebeler ve anneler Doğum Öncesi Bakım Yönetim Rehberi ve Doğum Sonu Bakım Yönetim Rehberi'nde belirtilen anemi tedavi protokolü uygulanarak izlenecek, anemi bulguları devam ederse aile hekimi tarafından ilgili hastaneye sevk edilecektir.
 
 5) D vitamini desteğinde;
 
@@ -44,18 +44,18 @@ a) Halk Sağlığı Genel Müdürlüğümüzün web sayfasında yer alan güncel
 
 b) Doğum öncesi ve doğumdan sonraki dönemde kullanılacak D vitamini dozu; günlük tek doz 1200 IU (9 damla) olmalıdır.
 
-6) Demir ve D vitamini destek uygulamasıın sürdürülebilirliğini teşvik etmek üzere, gebelere sağlık hizmeti veren sağlık personelinin hizmet içi eğitimleri, Halk Sağlığı Genel Müdürlüğümüzün web sayfasında yer alan güncel Doğum Öncesi Bakım Yönetim Rehberi ve Doğum Sonu Bakım Yönetim Rehberi'ne göre il sağlık müdürlüğünce planlanarak yapılacaktır.
+6) Demir ve D vitamini destek uygulamasının sürdürülebilirliğini teşvik etmek üzere, gebelere sağlık hizmeti veren sağlık personelinin hizmet içi eğitimleri, Halk Sağlığı Genel Müdürlüğümüzün web sayfasında yer alan güncel Doğum Öncesi Bakım Yönetim Rehberi ve Doğum Sonu Bakım Yönetim Rehberi'ne göre il sağlık müdürlüğünce planlanarak yapılacaktır.
 
 7) Demir ve D vitamini desteği sağlanan gebeye/anneye ilişkin verilerin sağlık bilgi sistemlerine girişi yapılacak ve il düzeyinde verilerin takip edilmesi il sağlık müdürlüğünün sorumluluğunda olacaktır. Bakanlığımızca programın takibinde mevcut bilgi sistemleri kullanılacaktır.
 
 8) 2007/6 sayılı Genelge ile 2011/34 sayılı Genelgeler yürürlükten kaldırılmıştır.
 
-SAĞLIK BAKANLIĞI - KQNet
+SAĞLIK BAKANLIĞI - 
 
-Halk Sağlığı Genel Müdürlüğü CERTIFICATE Sayı : 57536863 Konu: Gebelere Demir ve D Vitamini Destek
+Halk Sağlığı Genel Müdürlüğü  Sayı : 57536863 Konu: Gebelere Demir ve D Vitamini Destek
 
 Uygulamaları
 
 Yukarıdaki talimatların ilinizdeki tüm sağlık kurum ve kuruluşları ile ilgili sağlık personeline tebliğ edilmesi, herhangi bir aksamaya mahal vermeksizin uygulamanın sürekliliğinin sağlanması hususunda;
 
-Bilgilerinizi ve gereğini rica ederim. Dağıtım: A Plam
+Bilgilerinizi ve gereğini rica ederim. Dağıtım: A Planı

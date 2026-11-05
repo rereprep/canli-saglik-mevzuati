@@ -6,36 +6,36 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11147/ambulans-hava-araci-isletmesine-dair-esaslar.html"
 durum: "yürürlükte"
-ocr: true
+ocr: "true"
+tarih: "2010-04-21"
+sayi: "B.10.0.TSH.0.16.08"
+konu: "Ambulans helikopter ve uçaklarının işletilmesi ile görevlendirilme usullerini düzenler."
+duzeltildi: "true"
 ---
 
-## SAGLIK BAKANLIĞI
+### T.C. SAĞLIK BAKANLIĞI
 
-Temel Sağlık Hizmetleri Genel Müdürlüğü Sayı : B.10.0.TSH.0.16.08 T.C. Konu : Ambulans Hava Aracı İşletilmesine Dair Esaslar SAGLIK BAKANLIĞI
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Temel Sağ. Hiz. Genel Müd. Hava
+Sayı: B.10.0.TSH.0.16.08
 
-Ambulans Şube Müd.
+Konu: Ambulans Hava Aracı İşletilmesine Dair Esaslar
 
-21 Nisan 2010 14:26:12 /21166
+### İL VALİLİĞİNE
 
-### ....İL VALİLIĞİNE
+(İl Sağlık Müdürlüğü)
 
-(Il Sağlık Müdürlüğü)
-
-6618732
-
-### tıbbi müdahaleyi gerektiren durumlarda, hastanın tıbbi müdahalenin
+Tıbbi müdahaleyi gerektiren durumlarda, hastanın tıbbi müdahalenin
 
 yapılabileceği sağlık kuruluşuna en seri şekilde ulaştırılması ve gereken müdahalenin zamanında yapılması hayati önem arz etmektedir. Bu amaçla Bakanlığımız hava ambulans sistemini vatandaşlarımızın hizmetine sunmuş, ambulans helikopter hizmeti 28 Ekim 2008 tarihinden itibaren devam etmekte olup, ambulans uçak hizmeti 16 Nisan 2010 tarihi itibariyle başlatılmıştır.
 
-Hizmete sunulan ambulans helikopterler ile Ankara ilinde konuşlanan ambulans uçaklarının işletim hususları bu Genelge ekinde yer alan usül ve esaslar doğrultusunda yerine getirilecektir.
+Hizmete sunulan ambulans helikopterler ile Ankara ilinde konuşlanan ambulans uçaklarının işletim hususları bu Genelge ekinde yer alan usul ve esaslar doğrultusunda yerine getirilecektir.
 
 Bu doğrultuda ambulans helikopterlerin kendi sorumluluk sahası dışına yapılacak görevlendirmeleri ile 24 saat hizmet verecek ambulans uçak taleplerinin alınması ve görevlendirilmesi Bakanlık bünyesinde kurulan "Hava Ambulans Operasyon Merkezi" tarafından yapılacaktır. Hava Ambulans Operasyon Merkezinin telefon numaraları aşağıda belirtilmiştir.
 
-Bu Genelgenin ilinizde bulunan komuta kontrol merkezi, 112 istasyonları, resmi ve özel tüm hastanelerin acilservis ve yoğun bakımları ile hastane idarecilerine imza karşılığında duyurulması hususunda:
+Bu Genelgenin ilinizde bulunan komuta kontrol merkezi, 112 istasyonları, resmi ve özel tüm hastanelerin acil servis ve yoğun bakımları ile hastane idarecilerine imza karşılığında duyurulması hususunda:
 
-Bilgilerinizi ve gereğini önemle rica ederim. Trocao
+Bilgilerinizi ve gereğini önemle rica ederim.
 
 Seraceddin ÇOM
 
@@ -45,4 +45,4 @@ Genel Müdür V. Hava Ambulans Operasyon Merkezi Telefonları: Telefon: 0312 585
 
 ### DAĞITIM:
 
-81 İl Valiligine
+81 İl Valiliğine

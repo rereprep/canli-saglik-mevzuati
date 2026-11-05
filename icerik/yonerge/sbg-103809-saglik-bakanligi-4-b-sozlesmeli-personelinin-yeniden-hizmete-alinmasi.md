@@ -8,9 +8,10 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103809/saglik-bakanligi-4b-sozlesmeli-
 not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
+duzeltildi: "true"
 ---
 
-9.2.9.Sağlık Bakanlığı 4\B Sözleşmeli Personelininin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönergede Değişiklik Yapılması
+9.2.9. Sağlık Bakanlığı 4/B Sözleşmeli Personelinin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönergede Değişiklik Yapılması
 
 ### SAĞLIK BAKANLIĞI 4/B SÖZLEŞMELİ PERSONELİNİN YENİDEN HİZMETE ALINMASI VE KURUM İÇİ YER DEĞİŞİKLİĞİNE DAİR YÖNERGEDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN YÖNERGE
 
@@ -24,38 +25,42 @@ ocr: true
 
 **MADDE 3 –** Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
-### YÖNETİM HİZMETLERİ GENEL MÜDÜRLÜGÜ - HUKUK VE MEVZUAT DAIRESI BAŞKANLIÓI 20/08/2019 11:49 - E-49635782 - 010 04 - 11386 T.C. SAĞLIK BAKANLIĞI
+### T.C. SAĞLIK BAKANLIĞI – Yönetim Hizmetleri Genel Müdürlüğü
 
-Yönetim Hizmetleri Genel Müdürlüğü 00099646829 Say1 : 49635782/ Konu : Yönerge
+Sayı: 49635782  Konu: Yönerge
 
 ### BAKANLIK MAKAMINA
 
-Sağlık Bakanlığı 4/B Sözleşmeli Personelin Yeniden Hizmete Alınması ve Kurum Içi Yer Değiştirmesine Dair Yönergede Değişiklik Yapılmasına Ilişkin Yönerge'nin yürürlüğe konulmasını tensiplerinize arz ederim.
+Sağlık Bakanlığı 4/B Sözleşmeli Personelin Yeniden Hizmete Alınması ve Kurum İçi Yer Değiştirmesine Dair Yönergede Değişiklik Yapılmasına İlişkin Yönerge'nin yürürlüğe konulmasını tensiplerinize arz ederim.
 
-Mehmet ISLAMOGLU
+Mehmet İSLAMOĞLU
 
 Genel Müdür
 
-### OLUR ../../2019 PDF a KOCA
+### OLUR
+
+…/2019
+
+Dr. Fahrettin KOCA
 
 EK: Yönerge (1 sayfa)
 
 ### SAĞLIK BAKANLIĞI 4/B SÖZLEŞMELİ PERSONELİN YENİDEN HİZMETE ALINMASI VE KURUM İÇİ YER DEĞİŞTİRMESİNE DAİR YÖNERGEDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN YÖNERGE
 
-**MADDE 1 –** 18/10/2012 tarihli ve 24835 sayılı Sağlık Bakanlığı 4/B Sözleşmeli Personelin Yeniden Hizmete Alınması ve Kurum İçi Yer Değiştirmesine Dair Yönergenin 7 nci maddesinin onbirinci fikrasında bulunan " Kura sonucu" ibaresi yürürlükten kaldırılmış; maddenin sonuna aşağıdaki fıkra eklenmiştir.
+**MADDE 1 –** 18/10/2012 tarihli ve 24835 sayılı Sağlık Bakanlığı 4/B Sözleşmeli Personelin Yeniden Hizmete Alınması ve Kurum İçi Yer Değiştirmesine Dair Yönergenin 7 nci maddesinin on birinci fıkrasında bulunan “Kura sonucu” ibaresi yürürlükten kaldırılmış; maddenin sonuna aşağıdaki fıkra eklenmiştir.
 
-"(12) "Başvurusu kabul edilip ancak ilan edilen pozisyon sayısının yetersiz olması sebebiyle yerleştirme işlemleri yapılamayanların aile birliği mazeretine bağlı değiştirmeleri; başvuru yapılan ilde bir sonraki kura dönemine kadar herhangi bir nedenle boş pozisyon oluşması halinde kurasız, boş pozisyon oluşmaması halinde ise pozisyon ihdas edilmesine müteakip bir sonraki kura dönemine kadar kurasız yapılır."
+“(12) Başvurusu kabul edilip ancak ilan edilen pozisyon sayısının yetersiz olması sebebiyle yerleştirme işlemleri yapılamayanların aile birliği mazeretine bağlı değiştirmeleri; başvuru yapılan ilde bir sonraki kura dönemine kadar herhangi bir nedenle boş pozisyon oluşması halinde kurasız, boş pozisyon oluşmaması halinde ise pozisyon ihdas edilmesine müteakip bir sonraki kura dönemine kadar kurasız yapılır."
 
-**MADDE 2 –** Bu Yönerge, yayımı tarihinde yürürlüğe girer.
+**MADDE 2 –** Bu Yönerge yayımı tarihinde yürürlüğe girer.
 
 **MADDE 3 –** Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
 Abdulkadir BEKTAS
 
-Daire Başkamı
+Daire Başkanı
 
 ---
 
 **Dipnotlar**
 
-<small>972</small>
+

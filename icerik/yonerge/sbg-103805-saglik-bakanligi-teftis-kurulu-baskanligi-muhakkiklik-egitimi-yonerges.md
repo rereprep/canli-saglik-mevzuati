@@ -7,6 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103805/saglik-bakanligi-teftis-kurulu-baskanligi-muhakkiklik-egitimi-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: "true"
 ---
 
 ## 10.2. YÖNERGELER
@@ -17,11 +18,11 @@ ocr: true
 
 #### Genel esaslar
 
-**Madde 5 –** (1) Muhakkiklik hizmet içi eğitimi programının standartları; Bakanlığın stratejik planları, Bakanlığımıza iletilen şikâyet ve temennilerin içerikleri ile Teftiş Kurulu Başkanlığının inceleme, soruşturma ve denetimlerde tespit ettiği hususlar dikkate alınarak Muhakkiklik eğitiminin hedefleri
+**MADDE 5 –** (1) Muhakkiklik hizmet içi eğitimi programının standartları; Bakanlığın stratejik planları, Bakanlığımıza iletilen şikâyet ve temennilerin içerikleri ile Teftiş Kurulu Başkanlığının inceleme, soruşturma ve denetimlerde tespit ettiği hususlar dikkate alınarak belirlenir.
 
 **Madde 6 –** (1) Muhakkiklik eğitim programının hedefi;
 
-a) Bakanlık taşra ve merkez teşkilatında inceleme ve soruşturma görevlerini ifa eden muhakkiklerin günün koşularına uygun olarak yetiştirilmelerini sağlamak,
+a) Bakanlık taşra ve merkez teşkilatında inceleme ve soruşturma görevlerini ifa eden muhakkiklerin günün koşullarına uygun olarak yetiştirilmelerini sağlamak,
 
 b) Görevin gerektirdiği bilgi, beceri ve davranışlara sahip olmalarını temin etmek, temsil kabiliyetlerini yükseltmek,
 
@@ -33,13 +34,15 @@ d) Çalışma disiplini, ekip çalışması, iletișim becerileri, analitik ve d
 
 e) Güncel inceleme, soruşturma ve rapor yazım teknikleri konularındaki becerilerini
 
-#### f) Rapor yazım tekniklerinde standardizasyonu ve objektifliği sağlamak, Muhakkiklik eğitiminin sorumlulukları
+f) Rapor yazım tekniklerinde standardizasyonu ve objektifliği sağlamak.
 
-**Madde 7 –** (1) Muhakkiklik eğitiminde belirlenen hedeflere ulaşabilmek için ilgililerin sorumlulukları şunlardır;
+#### Muhakkiklik eğitiminin sorumlulukları
 
-a) Bu yönergede belirtilen hükümlere göre eğiticiler ve eğitime tabi tutulacak personel eğıtime katılmaktan sorumludur.
+**MADDE 7 –** (1) Muhakkiklik eğitiminde belirlenen hedeflere ulaşabilmek için ilgililerin sorumlulukları şunlardır;
 
-b) Muhakkiklik eğitiminden yararlanmada, belirlenecek öncelik prensipleri dâhilinde talep eden veya kendi birimlerince bu eğitime katılması istenilen personel, belirlenen muhakkiklik hizmet içi eğitim ihtiyacına göre, kapsamdaki eğitim etkinliklerine katılması,
+a) Bu Yönergede belirtilen hükümlere göre eğiticiler ve eğitime tabi tutulacak personel eğitime katılmaktan sorumludur.
+
+b) Muhakkiklik eğitiminden yararlanmada, belirlenecek öncelik prensipleri dâhilinde talep eden veya kendi birimlerince bu eğitime katılması istenilen personel, belirlenen muhakkiklik hizmet içi eğitim ihtiyacına göre, kapsamdaki eğitim etkinliklerine katılması.
 
 c) Gerektiğinde ilgili kurum ve kuruluşlarla, muhakkiklik eğitiminde iş birliği sağlanması; bilgi, belge, araç-gereç ve eğitici değişimi yapılır.
 
@@ -55,29 +58,33 @@ g) Muhakkiklik eğitimine tabi tutulan personel eğitimde kazandırılan nitelik
 
 ğ) Eğitimden beklenen sonuçlara ulaşılıp ulaşılamadığının belirlenmesi için eğitim çalışmaları sırasında ve bitiminde değerlendirme yapılır.
 
-### OÇÜNCO BOLOM Eğitimin Konuları
+## ÜÇÜNCÜ BÖLÜM
+
+#### Eğitimin konuları
 
 #### Eğitim konuları
 
-**Madde 8 –** (1) Muhakkiklik eğitim programı, aşağıda yer alan hususlar ve konular esas
+**MADDE 8 –** (1) Muhakkiklik eğitim programı, aşağıda yer alan hususlar ve konular esas
 
-a) Başta Anayasa olmak üzere; 657 sayılı Devlet Memurları Kanunu, Idare Hukuku ve Ceza Hukukunun genel ilkeleri, 4483 sayılı Kanun, 3628 sayılı Kanun, memurların adli, idari ve mali sorumlulukları, kamu zararı ve tazmin usulleri, denetim görevlilerinin uyacakları mesleki etik davranış ilkeleri, inceleme ve soruşturma mevzuatı, Sağlık Bakanlığının teşkilat yapısı, uygulamaya yönelik olarak Eğitim Komisyonunun önereceğı, Başkanlığın uygun göreceği konulara ağırlık vermek suretiyle eğitim programına dahil edilir.
+a) Başta Anayasa olmak üzere; 657 sayılı Devlet Memurları Kanunu, İdare Hukuku ve Ceza Hukukunun genel ilkeleri, 4483 sayılı Kanun, 3628 sayılı Kanun, memurların adli, idari ve mali sorumlulukları, kamu zararı ve tazmin usulleri, denetim görevlilerinin uyacakları mesleki etik davranış ilkeleri, inceleme ve soruşturma mevzuatı, Sağlık Bakanlığının teşkilat yapısı, uygulamaya yönelik olarak Eğitim Komisyonunun önereceği, Başkanlığın uygun göreceği konulara ağırlık vermek suretiyle eğitim programına dâhil edilir.
 
 b) Bakanlığa intikal eden şikâyete konu olan hususlar dikkate alınarak; Taşıt Kanunu, Harcırah Kanunu, ihale mevzuatı, basına demeç verme ve sosyal medya paylaşımları, mobbing, tıbbi kötü uygulama, hasta ve çalışan haklarına yönelik uygulamalar, sağlık kurulu raporları, ilaç ve reçete tanzimi usulleri, terör propagandası kapsamına giren fiiller, yangın ve sivil savunma mevzuatı ve mali denetim usul ve yöntemlerine eğitim programlarında yer verilebilir.
 
-c) Başkanlıkça gerekli görüldüğü takdirde; resmi yazışma usul ve esasları, protokol ve nezaket kuralları, dilbilgisi, kompozisyon ve öyküleme teknikleri, kişisel gelişim ve iletişim konuları muhakkiklik eğitim programlarına ilâve edilebilir. tartışmaları katılımcılara yaptırılır.
+c) Başkanlıkça gerekli görüldüğü takdirde; resmî yazışma usul ve esasları, protokol ve nezaket kuralları, dilbilgisi, kompozisyon ve öyküleme teknikleri, kişisel gelişim ve iletişim konuları muhakkiklik eğitim programlarına ilave edilebilir. tartışmaları katılımcılara yaptırılır.
 
 d) Katılımcıların profilleri dikkate alınarak, eğitim programlarının içerikleri, süreleri ve programın yürütülme biçimi Eğitim Komisyonunca belirlenerek Başkanlığın takdirine sunulur.
 
-## DÖRDÜNCÜ BÖLÜM Eğitici Personelin Niteliği ve Eğitici Temini
+## DÖRDÜNCÜ BÖLÜM
+
+#### Eğitici personelin niteliği ve eğitici temini
 
 #### Eğitici personelin niteliği ve eğitici temini
 
 **Madde 9 –** (1) Muhakkiklik eğitiminde eğitici olarak görev yapacak personel, Başkanlık tarafından, eğitim konularına uygun olarak, bu alanlarda çalışması ve tecrübesi olanlar arasından seçilir ve görevlendirilir.
 
-(2) Eğiticiler görevlendirilirken, eğitim konularıyla ilgili bilgi, beceri ve tecrübe sahibi olmalarının yanısıra, eğiticilerde etkili sunum ve hitabet becerisi e ifade etme kabiliyetiözellikleri de dikkate alınır.
+(2) Eğiticiler görevlendirilirken, eğitim konularıyla ilgili bilgi, beceri ve tecrübe sahibi olmalarının yanı sıra, eğiticilerde etkili sunum ve hitabet becerisi ifade etme kabiliyetleri de dikkate alınır.
 
-(3) Eğiticilerin öncelikli olarak Bakanlık içinden temin edilmesi esastır. Ihtiyaç duyulması halinde üniversiteler dâhil, diğer kamu kurum ve kuruluşları ile özel kişilerden, özel kurum ve kuruluşlardan eğitici temin edilebilir.
+(3) Eğiticilerin öncelikli olarak Bakanlık içinden temin edilmesi esastır. İhtiyaç duyulması halinde üniversiteler dâhil, diğer kamu kurum ve kuruluşları ile özel kişilerden, özel kurum ve kuruluşlardan eğitici temin edilebilir.
 
 ## BEŞİNCİ BÖLÜM
 
@@ -87,15 +94,15 @@ Eğitimin Yapılacağı Yer ve Süresi
 
 **Madde 10 –** (1) Eğitimler, Eğitim Komisyonunca önerilecek ve Başkanlıkça uygun görülecek yer ve merkezlerde yapılır.
 
-(2) Başkanlıkça gerek görüldüğü takdirde, katılımcılara Bakanlığın denetimine tabi her türlü resmi ve özel kurum ve kuruluşta mahallinde gezi, gözlem, inceleme ve uygulama yaptınlabilir.
+(2) Başkanlıkça gerek görüldüğü takdirde, katılımcılara Bakanlığın denetimine tabi her türlü resmi ve özel kurum ve kuruluşta mahallinde gezi, gözlem, inceleme ve uygulama yaptırılabilir.
 
-(3) Eğitim Merkezi olarak kullanılacak mahallerin fiziki ve teknik yeterlilik koşullarıyla ilgili problemler, Başkanlık kanalıyla ilgili teknik ve idari birimlerle koordinasyon dähilinde giderilir.
+(3) Eğitim Merkezi olarak kullanılacak mahallerin fiziki ve teknik yeterlilik koşullarıyla ilgili problemler, Başkanlık kanalıyla ilgili teknik ve idari birimlerle koordinasyon dâhilinde giderilir.
 
 #### Eğitimin süresi
 
 **Madde 11 –** (1) Eğitim süresi, periyodu ve eğitim saatleri Başkanlıkça belirlenir. Aynı yıl içinde, aynı veya farklı katılımcıların iştirak edeceği, farklı seviyelerde birden fazla muhakkiklik eğitimi programı düzenlenebilir.
 
-(2) Resmi mesai saatleri haricinde ve hafta sonlarında da eğitim programi düzenlenebılir.
+(2) Resmî mesai saatleri haricinde ve hafta sonlarında da eğitim programi düzenlenebilir.
 
 (3) Eğitim faaliyetlerinde bir ders saati 50 dakikadır. Katılımcı ve eğiticilere her 50 dakikalık periyod sonrası 10 dakika dinlenme molası verilir. Blok derslerde 90 dakikayı geçen eğitim yapılamaz. Gün boyu devam eden eğitimlerde katılımcılara ve eğiticilere 60 dakika öğle yemeği molası verilir.
 

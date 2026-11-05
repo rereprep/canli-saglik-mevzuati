@@ -7,43 +7,44 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103800/saglik-bakanligi-on-mali-kontrol-islemleri-yonergesi-degisiklikler-islenmis-hali.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: "true"
 ---
 
 11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi (Değişiklikler İşlenmiş Hâli)
 
-### SAĞLIK BAKANLIĞI ÖN MALI KONTROL İŞLEMLERİ YÖNERGESİNDE DEĞIŞİKLİK YAPILMASINA DAIR YÖNERGE
+### SAĞLIK BAKANLIĞI ÖN MALİ KONTROL İŞLEMLERİ YÖNERGESİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNERGE
 
-**MADDE 1 –** Sağlık Bakanlığı Ön Mali Kontrol Işlemleri Yönergesinin 3 üncü maddesinin e, g. ğ. h, ı ve i fikraları aşağıdaki şekilde değiştirilmiştir. "ej Karun: 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununu, gi Harcama Birimi: Kamu idaresi bütçesinde ödenek tahsis edilen ve harcama yetkisi hulunan birim ile ödenek gönderme belgesi ile adenek gönderilen Bakanlık merkez ve taşra harcama B1 Harcama Yetkilisi: Hötpeyle ödenek tahsis edilen veya ödenek gönderne belgesi ile ödenek gönderilen ber bir harcama biriminin en üst yöneticisini.
+**MADDE 1 –** Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesinin 3 üncü maddesinin e, g. ğ. h, ı ve i fıkraları aşağıdaki şekilde değiştirilmiştir. “e) Kanun: 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununu, g) Harcama Birimi: Kamu idaresi bütçesinde ödenek tahsis edilen ve harcama yetkisi bulunan birim ile ödenek gönderme belgesi ile adenek gönderilen Bakanlık merkez ve taşra harcama ğ) Harcama Yetkilisi: Bütçeyle ödenek tahsis edilen veya ödenek gönderme belgesi ile ödenek gönderilen her bir harcama biriminin en üst yöneticisini;
 
-h) Gerçekleştime Görevlisi: Harcama talimatı üzerine; işin yapaniması, mal veya hızmetin alınması, teslim almaya ilişkin işlemlerin yapılmasa, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanmasına yönelik iş ve işlem süreçlerinde görev yapan kişılerı,
+h) Gerçekleştirme Görevlisi: Harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapılması, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanmasına yönelik iş ve işlem süreçlerinde görev yapan kişılerı,
 
-1) On Mali Kontrol: Idarelerin gelir, gider, varlik ve yüktimlülöklerine ilişkin mali karar ve işlemlerinin; idarenin bütçesi, bütçe tertibi, kullanılabilir ödenek tutanı, harcama programu. finansman programı, merkezi yönetim bütçe kanunu ve diğer mali mevzuat hükümlerine uygunluğu ve kaynakların etkili, ekonomik ve verimli bir şekilde kullanılması yönlerinden yapılan kontrolünü,
+1) Ön Mali Kontrol: İdarelerin gelir, gider, varlık ve yükümlülüklerine ilişkin mali karar ve işlemlerinin; idarenin bütçesi, bütçe tertibi, kullanılabilir ödenek tutarı, harcama programı, finansman programı, merkezi yönetim bütçe kanunu ve diğer mali mevzuat hükümlerine uygunluğu ve kaynakların etkili, ekonomik ve verimli bir şekilde kullanılması yönlerinden yapılan kontrolünü,
 
-i) Gørtş Yazısı: On mall kontrol sonucunda mali karar ve işlemlerin uygun bulunup bulurmadığı yününde verilen yazılı glilişü veya dayanak belge üzerine yazılan şerhi,"
+i) Görüş Yazısı: Ön mali kontrol sonucunda mali karar ve işlemlerin uygun bulunup bulunmadığı yönünde verilen yazılı görüşü veya dayanak belge üzerine yazılan şerhi,"
 
-**MADDE 2 –** Aym Yönergenin 9 uncu maddesi başlığıyla birlikte aşağıdaki şekilde değistirilmiştir *Mevzuat taslaklannın bütçeye etkisinin hesaplanması (I) Gelir azaltea veya gider artıneı ve idareye yükümlålük getirecek mevzuat taslakları, ilgili birim tarafından, mali yüklerin besaplanmasını sağlamak üzere Başkanlığa gönderilir.
+**MADDE 2 –** Aynı Yönergenin 9 uncu maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir *“Mevzuat taslaklarının bütçeye etkisinin hesaplanması” (1) Gelir azaltıcı veya gider artırıcı ve idareye yükümlülük getirecek mevzuat taslakları, ilgili birim tarafından, mali yüklerin hesaplanmasını sağlamak üzere Başkanlığa gönderilir.
 
-(2) Gelir azaltıcı veya gider artıricı ve idareye yüktimlultik getirecek mevzuat taslaklanı için ilgili mevzuatı gereğince görüş ahnması sürecinde 23/2/2022 tarihli ve 5210 sanlı Cumhurbaşkamı Kararıyla yürürluğe konulan Mevzuat Hazırlama Usul ve Esasları Hakkında Yonetmelik kapsaminda hazırlaması zorunlu olan bütçe etki formu kontrole tabi tutularak: orta vadeli program çerçevesinde, idarenin stratejik: plam, performans programa ve butçesi @zerindeki etileri açisından değerlendirilir."
+(2) Gelir azaltıcı veya gider artırıcı ve idareye yükümlülük getirecek mevzuat taslaklanı için ilgili mevzuatı gereğince görüş alınması sürecinde 23/2/2022 tarihli ve 5210 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Mevzuat Hazırlama Usul ve Esasları Hakkında Yönetmelik kapsamında hazırlaması zorunlu olan bütçe etki formu kontrole tabi tutularak, orta vadeli program çerçevesinde, idarenin stratejik planı, performans programı ve bütçesi üzerindeki etkileri açısından değerlendirilir."
 
-**MADDE 3 –** Aym Yönergenin 10 uncu maddesinin 1 inci fikrasında yer alan "bir milyon" haresi "beş milyon" şeklinde, "üç milyon" ibaresi "on beş" milyon şeklinde değiştirilmişir.
+**MADDE 3 –** Aynı Yönergenin 10 uncu maddesinin 1 inci fıkrasında yer alan "bir milyon" ibaresi "beş milyon" şeklinde, "üç milyon” ibaresi “on beş milyon” şeklinde değiştirilmiştir.
 
-**MADDE 4 –** Aynı Yönergenin 10 uncu maddesine aşağıdaki fikra eklenmiştir. *(7) On mali kontrole tabi ihale işlem dosyalanı, mevzuatta belirtilen itiraz sürelerinin bitimini takiben sözleşme imzalanmadan ve idare taahhüt altina girmeden önce Başkanlığa gönderilmesi gerekmektedir."
+**MADDE 4 –** Aynı Yönergenin 10 uncu maddesine aşağıdaki fıkra eklenmiştir: “(7) Ön mali kontrole tabi ihale işlem dosyaları, mevzuatta belirtilen itiraz sürelerinin bitimini takiben sözleşme imzalanmadan ve idare taahhüt altına girmeden önce Başkanlığa gönderilmesi gerekmektedir.”
 
-**MADDE 5 –** Aynı Yönergenin 11 inci maddesine aşağıdaki fikra eklenmiştir. 7(3) Ödenek göndetme belgelerinin Başkanlığın iç kontrol alt birimi chışnda diğer alt birimleri tarafından elektronik ortamda onaylanması halinde dn mali kontrol yapilmış ve uygun görüş verilmiş sayılır *
+**MADDE 5 –** Aynı Yönergenin 11 inci maddesine aşağıdaki fikra eklenmiştir. “(3) Ödenek gönderme belgelerinin Başkanlığın iç kontrol alt birimi dışında diğer alt birimleri tarafından elektronik ortamda onaylanması halinde ön mali kontrol yapılmış ve uygun görüş verilmiş sayılır *
 
-**MADDE 6 –** Ayn Yönergenin 12 nei maddesine aşağıdaki fikra eklenmiştir. "()Ödenek aktarmalarımın Bașkanlığın iç kontrol alt birimi dışında diger alt birimleri tarafindan elektronik ortamda hazırlanıp onaylanması halinde ön mali kontrol sapılmış ve uygun gorus verilmis sayılr."
+**MADDE 6 –** Aynı Yönergenin 12 nci maddesine aşağıdaki fikra eklenmiştir. "“(2) Ödenek aktarmalarımın Bașkanlığın iç kontrol alt birimi dışında diger alt birimleri tarafindan elektronik ortamda hazırlanıp onaylanması halinde ön mali kontrol yapılmış ve uygun görüş verilmiş sayılır.”"
 
-**MADDE 7 –** Aymı Yänergenin 13 üncü maddesi başhğyla birlikte aşağıdaki şekilde değiştirilmiştir, "Kadro ve pozisyon dağilim cetvelleri
+**MADDE 7 –** Aynı Yönergenin 13 üncü maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir, "“Kadro ve pozisyon dağılım cetvelleri
 
-(1) 2 sayılı Genel kadro ve Usulo Hakkında Cumbarbaşkanlığı Kararnamesine tabi idarelere ait kadro ve pozisyon dağılım cetvelleri, arılan Cumbarbașkanlğı Kararnamesi bükümleri çerçevesinde Başkanlikça kontrol edilir.
+(1) 2 sayılı Genel kadro ve Usulo Hakkında Cumhurbaşkanlığı Kararnamesine tabi idarelere ait kadro ve pozisyon dağılım cetvelleri, anılan Cumhurbaşkanlığı Kararnamesi hükümleri çerçevesinde Başkanlikça kontrol edilir.
 
-(2) Kadro ve pozisyon dağılam cetvelleri Baskanlikça en goç bes iş günü içinde kontrol edilir. Ilgililere yapılacak ödemeler bu onayih kadro ve pozisyon dağılım cetvellerine göre yapılır. Bu cetvellerde yapılacak değişiklikler de aym şekilde Başkanlıkça kontrole tabidiri" MADDE N-Aymı Yönergenin 16 net maddesinin 1 inci fıkrası aşağıdaki şekilde değiştirilmiştir. *44/2007 tarihli ve 5620 sayıl Kamuda Geçici Iş Pozisyonlannda Çolşanların Sürekli İşçi Kadrolanna veya Sözleşmeli Personel Statüsüne Geçirilmeleri, Geçici Işçi Çalşınlmast ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun kapsamındaki idarelerde çaliştırılacak geçici işçi poziayon (adamday) sayılanının aylar ve birimler itibanyla dağılımı ilgili mevzuatında belirlenen idarelerce vizesini müteakip kontrole tähidir."
+(2) Kadro ve pozisyon dağılım cetvelleri Başkanlıkça en geç beş iş günü içinde kontrol edilir. İlgililere yapılacak ödemeler bu onaylı kadro ve pozisyon dağılım cetvellerine göre yapılır. Bu cetvellerde yapılacak değişiklikler de aynı şekilde Başkanlıkça kontrole tabidir.” **MADDE 8 –** Aynı Yönergenin 16 ncı maddesinin 1 inci fıkrası aşağıdaki şekilde değiştirilmiştir. *44/2007 tarihli ve 5620 sayıl Kamuda Geçici İş Pozisyonlannda Çalışanların Sürekli İşçi Kadrolanna veya Sözleşmeli Personel Statüsüne Geçirilmeleri, Geçici İşçi Çalşınlmast ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun kapsamındaki idarelerde çaliştırılacak geçici işçi pozisyon (adamday) sayılanının aylar ve birimler itibanyla dağılımı ilgili mevzuatında belirlenen idarelerce vizesini müteakip kontrole tähidir."
 
-**MADDE 9 –** Aym Yönergenin 17 pci maddesinin 1 inci fikrasında yer alan "dağılımını gösteren listeler" Ibareainden sonra gelmek üzere "kontrol edilmek üzere Başkanlığa ilgili mevzuatında belirlenen kontrol süresinin bitiminden en az 10 gün önce gönderilir ve* ibaresi eklenmiştir.
+**MADDE 9 –** Aynı Yönergenin 17 pci maddesinin 1 inci fıkrasında yer alan "dağılımını gösteren listeler" Ibareainden sonra gelmek üzere "kontrol edilmek üzere Başkanlığa ilgili mevzuatında belirlenen kontrol süresinin bitiminden en az 10 gün önce gönderilir ve* ibaresi eklenmiştir.
 
-**MADDE 10 –** Aym Yanergenin 18 inci maddesi aşağıdaki şekilde değiştirilmiştir. *Ilgili mevzuatı uyannca her bir idare bazında ihdas edilen ve alim izni verilen pozisyon cetvellerine ve vize edilen tip söleşeye uygun olarak çalaştrılacak personelle yapılacak sözleşmeler kontrole tabidir. Bu sözleşmeler ilgili mevzuatı uyanınca ihdas edilen ve alım izni verilen pozisyon cetvellerine ve vize edilen tip sözleșmeye, ilgili kamunlanna, diğer mevzuatina ve bütçelerinde öngörülen dezenlemelere vygunluk yönünden Haşkanlıkça incelenir ve en geç bej ia günü içınde sonuçlandırılır. Uygun görülmeyen sözleşmeler gerekçeli bir yazıyla ilgili birime gönderilir."
+**MADDE 10 –** Aym Yanergenin 18 inci maddesi aşağıdaki şekilde değiştirilmiştir. *Ilgili mevzuatı uyannca her bir idare bazında ihdas edilen ve alim izni verilen pozisyon cetvellerine ve vize edilen tip söleşeye uygun olarak çalaştrılacak personelle yapılacak sözleşmeler kontrole tabidir. Bu sözleşmeler ilgili mevzuatı uyanınca ihdas edilen ve alım izni verilen pozisyon cetvellerine ve vize edilen tip sözleșmeye, ilgili kamunlanna, diğer mevzuatina ve bütçelerinde öngörülen dezenlemelere vygunluk yönünden Başkanlıkça incelenir ve en geç bej ia günü içınde sonuçlandırılır. Uygun görülmeyen sözleşmeler gerekçeli bir yazıyla ilgili birime gönderilir."
 
-**MADDE 11 –** Aym Yönergenin ekinde yer akan Ek:l Taahhüt Evrakı ve Sözleşme Tasanısı Kontrol Forma degiştirilmiştir.
+**MADDE 11 –** Aynı Yönergenin ekinde yer akan Ek-1 Taahhüt Evrakı ve Sözleşme Tasarısı Kontrol Formu degiştirilmiştir.
 
 ### SAGLIK BAKANLIĞI ÖN MALİ KONTROL IŞLEMLERI VÖNERGESI
 
@@ -57,7 +58,7 @@ i) Gørtş Yazısı: On mall kontrol sonucunda mali karar ve işlemlerin uygun b
 
 #### Dayanak
 
-**Madde 2 –** (1) Bu Yönerge, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yänetimi ve Kontrol Kanunu'nun 58 inci ve 60 met maddelerine, 5436 sayıla Kamu Mali Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapilması Hakknda Kamun'un 15 inci maddesine ve 26040 sayılı (3 üncü mükerrer) Resmi Gazete'de yayımlanan Iç Kontrol ve On Mali Kontrole Ilişkin Usul ve Esaslara dayanılarak hazırlanmıştır.
+**Madde 2 –** (1) Bu Yönerge, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yänetimi ve Kontrol Kanunu'nun 58 inci ve 60 met maddelerine, 5436 sayıla Kamu Mali Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapilması Hakknda Kamun'un 15 inci maddesine ve 26040 sayılı (3 üncü mükerrer) Resmi Gazete'de yayımlanan Iç Kontrol ve Ön Mali Kontrole Ilişkin Usul ve Esaslara dayanılarak hazırlanmıştır.
 
 **Madde 3 –** (1) Bu Yonergede geçen:
 
@@ -83,7 +84,7 @@ EM(Degişik:16.01.2023 taribli ve E-39434888-612.02-207119253 sayd Bakan OnayıH
 
 h) (Degişik: 16.01.2023 taribli ve E-39434888-612.02-207119253 sayd Bakan Onayı)Gerçekleștirme Görevlisi: Harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapilması, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanmasına yönelk iş ve işlem süreçlerinde görev yapan kişileri,
 
-INDeğișik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayd Bakan OnayıjÖn Mali Kontrol: Idarelerin gelir, gider, varlık ve yükümlüliklerine ilişkin mali karar ve işlemlerinin; idarenin bütçesi, butçe tertibi, kullanılabilir ödenek tutarı, harcama programı, finansman programı, merkezi yönetim bütçe kanunu ve diğer mali mevzuat hükümlerine uygunluğu ve kaynaklanın etkili, ckonomik ve verimli bir şekilde kullanilması yönlerinden yapilan kontrolünü,
+INDeğișik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayd Bakan OnayıjÖn Mali Kontrol: İdarelerin gelir, gider, varlık ve yükümlüliklerine ilişkin mali karar ve işlemlerinin; idarenin bütçesi, butçe tertibi, kullanılabilir ödenek tutarı, harcama programı, finansman programı, merkezi yönetim bütçe kanunu ve diğer mali mevzuat hükümlerine uygunluğu ve kaynaklanın etkili, ckonomik ve verimli bir şekilde kullanilması yönlerinden yapilan kontrolünü,
 
 i) (Degisk: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayl Bakan OnayajGärüş Yazısı: Ön mali kontrol sonucunda mali karar ve işlemlerin uygun bulunup bulunmadığı yönünde verilen yazılı görüşü veya dayarak belge üzerine yazılan şerhi,
 
@@ -95,17 +96,17 @@ j EBYS: Sağlak Bakanlığının kullandiğs Elektronik Belge Yönetim Sistemi'n
 
 **Madde 4 –** (1) Ön mali kontrol görevi, yönetim sorumluluğu çerçevesinde, Başkanlık ve harcama birimleri tarafindan yerine getirilir.
 
-(2) Başkanlık tarafindan yapılacak on mali kontrol bu Yönerge de belirtilen kontroller ile harcama birimlerinin talebi veya Başkanlığın risk değerlendirmesi sonucunda dn mali kontrol işlemine tabi tutulmasında yarar görülen mali karar ve işlemlerden, Ust Yönetici tarafindan uygun görülen kontrollerden meydana gelir.
+(2) Başkanlık tarafindan yapılacak ön mali kontrol bu Yönerge de belirtilen kontroller ile harcama birimlerinin talebi veya Başkanlığın risk değerlendirmesi sonucunda ön mali kontrol işlemine tabi tutulmasında yarar görülen mali karar ve işlemlerden, Ust Yönetici tarafindan uygun görülen kontrollerden meydana gelir.
 
-(3) Başkanlık ve harcama birimleri tarafindan yapilacak en mali kontrol, idarenin bütçesi, bütçe tertibi, kullanılabilir ödenek tutarı, ayrıntılı harcama programı, merkezi yünetim bütçe kanunu ve diğer mali mevzuat hükümlerine uygunluk yönlerinden yerine getirilir. Harcama birimleri tarafindan yapilacak on mali kontrol; idare bütçesi ve bütçe tertibine uygunluk yöründen yapılacak kontrol, ödeneğin bütçeye konulma amacına uygun olarak harcamanın yerinde yapılıp yapılmadığı, ihtiyaçlann karşılanmasında idarenin önceliklerine uyum, etkinlik değerlendirmesi ile harcamalarda verimlilik ve tutumluluğun sağlanması hususlarım da kapsar.
+(3) Başkanlık ve harcama birimleri tarafindan yapilacak en mali kontrol, idarenin bütçesi, bütçe tertibi, kullanılabilir ödenek tutarı, ayrıntılı harcama programı, merkezi yünetim bütçe kanunu ve diğer mali mevzuat hükümlerine uygunluk yönlerinden yerine getirilir. Harcama birimleri tarafindan yapilacak ön mali kontrol; idare bütçesi ve bütçe tertibine uygunluk yöründen yapılacak kontrol, ödeneğin bütçeye konulma amacına uygun olarak harcamanın yerinde yapılıp yapılmadığı, ihtiyaçlann karşılanmasında idarenin önceliklerine uyum, etkinlik değerlendirmesi ile harcamalarda verimlilik ve tutumluluğun sağlanması hususlarım da kapsar.
 
 (4) Ayrica mali karar ve işlemler, harcama birimleri tarafindan kaynakların etkili, ekonomik ve verimli bir şekilde kullanılması açısından da kontrol edilir.
 
 #### Ön mali kontrolün niteliği
 
-**Madde 5 –** (1) On mali kontrol sonucunda uygun görüş verilip verilmemesi, danışma ve önleyici nitelikte olup mali karar ve işlemlerin harcama yetkilisi tarafindan uygulanmasında bağlayıcı değildir.
+**Madde 5 –** (1) Ön mali kontrol sonucunda uygun görüş verilip verilmemesi, danışma ve önleyici nitelikte olup mali karar ve işlemlerin harcama yetkilisi tarafindan uygulanmasında bağlayıcı değildir.
 
-(2) Malli karar ve işlemlerin on mali kontrole tâbi tutulmasa ve ön mali kontrol sonucunda uygun görüş verilmiş olması, harcama yetkilileri ve gerçekleştirme görevlilerinin sorumluluğunu ortadan kaldırmaz.
+(2) Malli karar ve işlemlerin ön mali kontrole tâbi tutulmasa ve ön mali kontrol sonucunda uygun görüş verilmiş olması, harcama yetkilileri ve gerçekleştirme görevlilerinin sorumluluğunu ortadan kaldırmaz.
 
 #### Ön mali kontrol süreci ve usulü
 
@@ -145,13 +146,13 @@ j EBYS: Sağlak Bakanlığının kullandiğs Elektronik Belge Yönetim Sistemi'n
 
 #### Tanbhüt evraka ve sözleşme tasarıları
 
-**Madde 10 –** (1) Harcama birimlerinin, ihale kanunlanna tåbi olsun veya olmasın, harcamayı gerektirecek taahhüt evrakı ve sözleşme tasanlarından tutarı mal ve hizmet alımları için (Değişik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayılı Bakan Onayu) beş milyon Türk Lirasına, yapım işleri için (Değişik: 16.01.2023 tarihli ve E-39434888-612.02- 207119253 sayılı Bakan Onayı) on beş milyon Tork Lirasına eşit ve bu tutarlan ajanlar on mali kontrole tabidir. Bu tutarlara Katma Değer Vergisi dähil değildir.
+**Madde 10 –** (1) Harcama birimlerinin, ihale kanunlanna tåbi olsun veya olmasın, harcamayı gerektirecek taahhüt evrakı ve sözleşme tasanlarından tutarı mal ve hizmet alımları için (Değişik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayılı Bakan Onayu) beş milyon Türk Lirasına, yapım işleri için (Değişik: 16.01.2023 tarihli ve E-39434888-612.02- 207119253 sayılı Bakan Onayı) on beş milyon Tork Lirasına eşit ve bu tutarlan ajanlar ön mali kontrole tabidir. Bu tutarlara Katma Değer Vergisi dähil değildir.
 
 (2) 15/01/2014 tarihli ve 5070 sayıh Elektronik Imza Kanunu gereğince, güvenli
 
 ### 3/2
 
-elektronik imza, elle atilan imza ile aym hukuki sonucu doğurur. Bu çerçevede On Mali Kontrole tabi taahhüt evrakı ve söæleşme tasanları ile sözleşme yapıldıktan sonraki sözleşme ve eki belgelerin tamamı ilgili harcama yetkilisinin elektronik inzasa ile imzaladığ üst yanı ve ekleri ile birlikte EBYS üzerinden Başkanlığa gönderilir. Bu hususa ilişkin detaylar gerektiğinde Başkanlıkça belirlenir. Başkanlığa taahhüt evrakı ve sözleşme tasarlanı ile sözleşme yapıldıktan sonraki teleşme ve eki belgelere dair fiziki olarak evrak, CD, DVD vebenzeri
+elektronik imza, elle atilan imza ile aym hukuki sonucu doğurur. Bu çerçevede Ön Mali Kontrole tabi taahhüt evrakı ve söæleşme tasanları ile sözleşme yapıldıktan sonraki sözleşme ve eki belgelerin tamamı ilgili harcama yetkilisinin elektronik inzasa ile imzaladığ üst yanı ve ekleri ile birlikte EBYS üzerinden Başkanlığa gönderilir. Bu hususa ilişkin detaylar gerektiğinde Başkanlıkça belirlenir. Başkanlığa taahhüt evrakı ve sözleşme tasarlanı ile sözleşme yapıldıktan sonraki teleşme ve eki belgelere dair fiziki olarak evrak, CD, DVD vebenzeri
 
 () Kontrol edilmek üæere elektronik imzalı üst yaza ve ekleri ile birlikte Başkanlığa gönderilecek olan belgeler asagida belirtilmiştir.
 
@@ -187,13 +188,13 @@ k) Ihaleye iliskin tüm şartnameler,
 
 m) 4734 saylı Kamu Ihale Kanunu'mun 22 nei maddesinin (f) bendine göre; özelliğinden ve belli süre içinde kullanılma zorunluluğundan dolayı stoklanması ekonomik olmayan veya acil durumlarda kullanılacak olan ilaç, aș, serum, anti-serum, kan vekan ürünler ile ortez, protez gibi uygulama esnasında hastaya göre belirlenebilen ve hastaya özgü tıbbi sarf malzemeleri, test ve tetkik sarf malzemeleri alımların acil bir durum sebebi ile gerçekleştirildiğini ve stoklanmasının mümkün bulunmadığını tevsik edici belge,
 
-n) Sözleşme veya protokol tasarılan.
+n) Sözleşme veya protokol tasanılan.
 
 o) Yapılan ihalenin usul ve türüne uygun olarak, 4734 sayılı Kamu Ihale Kananu ile 4735 sayılı Kamu Ihale Sözleşmeleri Kanunu'na ilişkin yayımlanan yönetmelik ve diğer düzenleyici mevzuat hükümleri uyarınca düzenlenmesi gereken standart formlar ve diğer
 
 4) Düzenlenmiş ise zeyilnameler, açıklamalar ve bunlann isteklilere gönderildigine dair belgeler,
 
-p) Ihalelere Yönelik Başvurular Hakkında Yönetmelik hükümlerine göre idareye ve Kamu Ihale Kurumuna başvuruda bulunulduğu takdirde, buna ilişkin yazışmalar (Söz konusu Yönetmelik hukumlerine göre şikäyet ve itirazen şikäyet başvuruları sonuçlanmadan taahhüt dosyalanı Haşkanlığa gönderilmeyecektir.).
+p) Ihalelere Yönelik Başvurular Hakkında Yönetmelik hükümlerine göre idareye ve Kamu Ihale Kurumuna başvuruda bulunulduğu takdirde, buna ilişkin yazışmalar (Söz konusu Yönetmelik hukumlerine göre şikäyet ve itirazen şikäyet başvuruları sonuçlanmadan taahhüt dosyaları Haşkanlığa gönderilmeyecektir.).
 
 r) Üzerine ihale yapılan istekli ile ekonomik açıdan en avantajlı ikinci teklif sahibine ait geçici teminat alındı belgesi (Banka Teminat Mektubu olması durumunda aynea Geçici Teminat Mektubu ve bankadan alacak teyit yazılanı),
 
@@ -209,7 +210,7 @@ u) Ihale kararının onaylandhğna dair ihale yetkilisi onayı (Onay tarihinin b
 
 v) Ihale kararlarına ait damga vergisinin (Ihale Komisyon Kararına ait karar pulu) tahsil edildigine ilişkin belge.
 
-y) Işlem dosyasında bulunan bütün belgeleri gösteren onaylı dizi pusulası.
+y) İşlem dosyasında bulunan bütün belgeleri gösteren onaylı dizi pusulası.
 
 (4) Taahhüt evrakı ve sözleşme tasanları, Başkanlikça en geç on iş günü içinde kontrol edilir. Yapılan kontrol sonucunda düzenlenen görüş yazası harcama birimine gönderilir.
 
@@ -221,27 +222,27 @@ b) Yapım işlerinde sözleşmede ängörülmeyen iş artışıman zorunlu hale 
 
 c) Sözlesmenin devri halinde devir sözleşmesi,
 
-4) Sozleşme inzalanmadan önce ihale tarihinde, 4734 sayılı Kamu Ihale Kanunu'nun 10 uncu maddesinin dördüncü fikrasının (a), (b), (c), (d), (e) ve (g) bentlerinde belirtilen durumlarda olmadığına ilişkin belgeler.
+4) Sozleşme inzalanmadan önce ihale tarihinde, 4734 sayılı Kamu Ihale Kanunu'nun 10 uncu maddesinin dördüncü fıkrasının (a), (b), (c), (d), (e) ve (g) bentlerinde belirtilen durumlarda olmadığına ilişkin belgeler.
 
 (6) Bu belgelerden yabancı dilde düzenlenmiş olanlann onayh Türkçe tercümelerinin ayrica işlem dosyasına eklenmesi gerekmekte olup belgelerin yabancı dildeki asılları ile taahhütlere ilişkin diğer belgeler harcama birimlerinde muhafaza edilir.
 
-(7) (Ek:16.01.2023 tarihli ve E-39434888-612.02-207119253 sayıl Bakan Onayı) On mali kontrole tabi ihale işlem dosyalan, mevzuatta belirtilen itiraz sürelerinin bitimini takiben adaleşme inzalanmadan ve idare taahhüt altına girmeden önce Başkanlığa gönderilmesi gerekmektedir.
+(7) (Ek:16.01.2023 tarihli ve E-39434888-612.02-207119253 sayıl Bakan Onayı) Ön mali kontrole tabi ihale işlem dosyalan, mevzuatta belirtilen itiraz sürelerinin bitimini takiben adaleşme inzalanmadan ve idare taahhüt altına girmeden önce Başkanlığa gönderilmesi gerekmektedir.
 
 #### Ödenek gänderme belgeleri
 
-**Madde 11 –** (1) Butçe ödeneklerinin dağitımı ödenek gönderne belgesiyle yapılr. Odenek gönderme belgeleri harcama yetkilisi tarafindan imzalandiktan sonra køntrol edilmek üzere Başkanlığa gönderilir. Ancak, harcama birimlerince ödenek gönderme belgelerinin ebütçe sistemi üzerinden düzenlenmesi durumunda, işlemlerde kolaylık sağlamak üzere
+**Madde 11 –** (1) Butçe ödeneklerinin dağitımı ödenek gönderme belgesiyle yapılr. Odenek gönderme belgeleri harcama yetkilisi tarafindan imzalandiktan sonra køntrol edilmek üzere Başkanlığa gönderilir. Ancak, harcama birimlerince ödenek gönderme belgelerinin ebütçe sistemi üzerinden düzenlenmesi durumunda, işlemlerde kolaylık sağlamak üzere
 
 ### 5/8
 
-Başkanlığa ödenek gönderne belgesi yerine odenek gönderme belgeleri icmali gönderilir.
+Başkanlığa ödenek gönderme belgesi yerine odenek gönderme belgeleri icmali gönderilir.
 
 (2) Yilı Merkezi Yönetim Bütçe Kanunu'na, bütçe tertibine, ayrıntilı harcama programına, bůtçe ödeneklerinin dağıtım ve kullanımına ilişkin usul ve esaslara uygunluğu yönünden kontrol edilen ve uygun bulunan ödenek gönderme belgeleri veya ödenek gönderme belgeleri imalinin en mali kontrol işlemi, Başkanlıkça en geç dę iş günü içinde sonuçlandırılır. Uygun görülmeyen ödenek gönderme belgeleri veya ödenek gönderme belgeleri icmali aynı süre içinde gerekçeli bir yazıyla harcama yetkilisine gönderilir.
 
-(3) Ödenek gönderne belgelerinin harcama birimlerince e-bûtçe sistemi üzerinden duzenlenmesi durumunda, Usul ve Esaslarda belirtilen birim tarafindan e-bütçe sistemi üzerinden ödenek kayt ve dağıtam işlemlerine onay verilmesi, ödeneklerin on mali kontrol işleminin yapıldığa ve uygun görüş verildiği anlamına gelir.
+(3) Ödenek gönderme belgelerinin harcama birimlerince e-bûtçe sistemi üzerinden duzenlenmesi durumunda, Usul ve Esaslarda belirtilen birim tarafindan e-bütçe sistemi üzerinden ödenek kayt ve dağıtam işlemlerine onay verilmesi, ödeneklerin ön mali kontrol işleminin yapıldığa ve uygun görüş verildiği anlamına gelir.
 
 (4) Tenkis belgelerinin an mali kontrol işlemleri de ödenek gönderme belgeleri için belirtilen usul ve esaslar çerçevesinde yürütülür.
 
-(5) (Ek:16.01.2023 turibli ve E-39434888-612.02-207119253 sayıl Bakan Onayı) Odenek gönderme belgelerinin Başkanlığın iç kontrol alt birimi dışnda diğer alt birimleri tarafından elektronik ortamda onaylanması halinde ön mali kontrol yapilmış ve uygun görüş verilmiş sayılır.
+(5) (Ek:16.01.2023 turibli ve E-39434888-612.02-207119253 sayıl Bakan Onayı) Odenek gönderme belgelerinin Başkanlığın iç kontrol alt birimi dışnda diğer alt birimleri tarafından elektronik ortamda onaylanması halinde ön mali kontrol yapılmış ve uygun görüş verilmiş sayılır.
 
 #### Ödenek aktarma işlemleri
 
@@ -249,7 +250,7 @@ Başkanlığa ödenek gönderne belgesi yerine odenek gönderme belgeleri icmali
 
 (2) Mevzuatına aykırı bulunan aktarma taleplerinin, ayna süre içinde gerekçeli bir yazıyla ilgili harcama yetkilisine iadesi sağlanır.
 
-(3) (Ek: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayıl Bakan Onay1) Ödenek aktarmalannan Başkanlığın iç kontrol alt birimi dışında diğer alt birimleri tarafindan elektronik ortamda hazırlamıp onaylanması halinde dn mali kontrol yapılmış ve uygun görüş verilmiş sayılır.
+(3) (Ek: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayıl Bakan Onay1) Ödenek aktarmalannan Başkanlığın iç kontrol alt birimi dışında diğer alt birimleri tarafindan elektronik ortamda hazırlamıp onaylanması halinde ön mali kontrol yapılmış ve uygun görüş verilmiş sayılır.
 
 (Değişik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayıl Bakan Onayı)
 
@@ -257,7 +258,7 @@ Başkanlığa ödenek gönderne belgesi yerine odenek gönderme belgeleri icmali
 
 **Madde 13 –** (1) 2 sayıllı Genel Kadro ve Usulu Hakkında Cumhurbaşkanlığı Karamamesine täbi idarelere ait kadro ve pozisyon dağılım cetvelleri, anılan Cumhurbașkanlığ» Karamamesi hukümleri çerçevesinde Başkanlikça kontrol edilir.
 
-(2) Kadro ve porisyon dağılım cetvelleri Başkanliça en geç beş iş günü içinde kontrol edilir. Ilgililere yapılacak ödemeler bu onayhı kadro ve pozisyon dağılım cetvellerine göre yapılır. Bu cetvellerde yapılacak değişiklikler de aymı şekilde Başkanlikça kontrole tabidir.
+(2) Kadro ve porisyon dağılım cetvelleri Başkanliça en geç beş iş günü içinde kontrol edilir. İlgililere yapılacak ödemeler bu onayhı kadro ve pozisyon dağılım cetvellerine göre yapılır. Bu cetvellerde yapılacak değişiklikler de aymı şekilde Başkanlikça kontrole tabidir.
 
 #### Seyahat kardı listeleri
 
@@ -271,7 +272,7 @@ Başkanlığa ödenek gönderne belgesi yerine odenek gönderme belgeleri icmali
 
 #### Geçici isçi pozisyonları
 
-**Madde 16 –** (Degișik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayıl Bakan Onayı) (1) 4/4/2007 tarihli ve 5620 sayılı Kamuda Geçici lş Pozisyonlarında Çalışanlann Sürekli Işçi Kadrolarna veya Sözleşmeli Personel Statüsüne Geçirilmeleri, Geçici Işçi Çalıştırılması ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun kapsamındaki idarelerde çalışanlacak geçici işçi pozisyon (adam/ay) sayılarmın aylar ve birimler itibarıyla dağılımı ilgili mevzuatında belirlenen idarelerce vizesini müteakip kontrole täbidir.
+**Madde 16 –** (Degișik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayıl Bakan Onayı) (1) 4/4/2007 tarihli ve 5620 sayılı Kamuda Geçici lş Pozisyonlarında Çalışanlann Sürekli İşçi Kadrolarna veya Sözleşmeli Personel Statüsüne Geçirilmeleri, Geçici İşçi Çalıştırılması ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun kapsamındaki idarelerde çalışanlacak geçici işçi pozisyon (adam/ay) sayılarmın aylar ve birimler itibarıyla dağılımı ilgili mevzuatında belirlenen idarelerce vizesini müteakip kontrole täbidir.
 
 (2) Geçici işçi pozisyonlan Başkankkça en geç beş iş günd içinde kontrol edilir. Kontrol sonucunda uygun görülmeyen cetveller, aynı süre içinde gerekçeli bir yazıyla ilgili birime
 
@@ -299,7 +300,7 @@ Başkanlığa ödenek gönderne belgesi yerine odenek gönderme belgeleri icmali
 
 #### Duzenleme уарта yetkisi
 
-**Madde 20 –** (L) Bu Yönergede belirlenen mali karar ve işlemlerin dışnda kalan mali karar ve işlemlerin de ayu şekilde Başkanhk tarafindan kontrol ettirilmesine yönelik düzenleme yapılabilir. Bu konuda yapılacak düzenlemeler, ilgili birimin Başkanlığa änerisi ve / veya Başkanlığın talebi üzerine Ust Yöneticinin onayıyla yürürluğe konulur.
+**Madde 20 –** (L) Bu Yönergede belirlenen mali karar ve işlemlerin dışnda kalan mali karar ve işlemlerin de ayu şekilde Başkanhk tarafindan kontrol ettirilmesine yönelik düzenleme yapılabilir. Bu konuda yapılacak düzenlemeler, ilgili birimin Başkanlığa änerisi ve / veya Başkanlığın talebi üzerine Ust Yöneticinin onayıyla yürürlüğe konulur.
 
 (2) Başkanlığın ön mali kontrolüne täbi tutulacak mali karar ve işlemler, riskli alanlar dikkate alınmak suretiyle tür, tutar ve konu itibariyle belirlenir ve bu düzenlemeler her yıl tekrar görden geçinilir.
 
@@ -309,7 +310,7 @@ Başkanlığa ödenek gönderne belgesi yerine odenek gönderme belgeleri icmali
 
 (2) Bu Yanergenin 10 uncu maddesi kapsamanda gerçekleştirilecek iş ve işlemlerin Başkanlikça yapılan kontrol sonucunda düzenlenen Taahhüt Evrakı ve Sözleşme Tasarısı Kontrol Formu her bir taahhüt dosyas için døldurulacaktır. Doldurulan form muhafaza edilir. Harcama birimine ise yapılan kontroller sonucu düzenlenen gürüş yazısı (varsa mevzuata uygun olarak giderilebilecek nitelikte hata ve noksanlıklar bulunan mali karar ve işlemler belirtilerek) gönderilir.
 
-**Madde 22 –** (1) On mali kontrol sonucunda uygun görüş verilmediği halde harcama yetkilileri tarafindan gerçekleştirilen işlemler, harcama yetkililerince Başkanlığa yazıhı olarak bildirilir. Başkanlikça bu tür işlemlerin kayıtları tutulur ve aylik dönemler itibariyle Üst Yöneticiye bildirilir. Söz konusu kayıtlar ię ve dş denetim sırasında denetçilere de sunulur.
+**Madde 22 –** (1) Ön mali kontrol sonucunda uygun görüş verilmediği halde harcama yetkilileri tarafindan gerçekleştirilen işlemler, harcama yetkililerince Başkanlığa yazıhı olarak bildirilir. Başkanlikça bu tür işlemlerin kayıtları tutulur ve aylik dönemler itibariyle Üst Yöneticiye bildirilir. Söz konusu kayıtlar ię ve dş denetim sırasında denetçilere de sunulur.
 
 #### Kontrol süresi
 

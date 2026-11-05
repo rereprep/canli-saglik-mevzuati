@@ -7,21 +7,26 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103799/merkez-pay-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: "true"
 ---
 
 11.2.4. Merkez Pay Yönergesi
 
-. . . e e ay ö e ges
 
-### SAĞLIK BAKANLIĞI İLE BAĞLI KURULUŞLARINA BAGLI DONER SERMAYE İŞLETMELERİNDEN MERKEZE AKTARILAN TUTARIN DAĞILIM VE SARFINA DAIR YÖNERGE
 
-## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+### SAĞLIK BAKANLIĞI İLE BAĞLI KURULUŞLARINA BAĞLI DÖNER SERMAYE İŞLETMELERİNDEN MERKEZE AKTARILAN TUTARIN DAĞILIM VE SARFINA DAİR YÖNERGE
 
-#### Amaç ve Kapsam
+## BİRİNCİ BÖLÜM
 
-**MADDE 1 –** (1) Bu Yönerge; Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatında kurulan döner sermaye işletmelerince, sağhk hizmetlerinin iyileştirilmesi, kaliteli ve verimli hizmet sunumunun teşvik edilmesi, sağlık kurum ve kuruluşlannın kendi imkånlarıyla karşılayamadıklan ihtiyaçlann giderilmesi, eğitim, araştırma ve geliştirme faaliyetlerinin desteklenmesi, Bakanlık taşra teşkilatı ile Türkiye Halk Sağhğı Kurumu taşra teşkilatının desteklenmesi, Bakanlık merkez ve taşra teşkilatında ve Türkiye Halk Sağlığı Kurumu merkez ve taşra teşkilatı ile Türkiye Karu Hastaneleri Kurumunun merkez teşkilatında görev yapan memurlar ile sözleşmeli personele ek ödemede bulunulması amacıyla yapılacak giderlere iştirak etmek için aylık gayrisafi hasılattan her ay tahsil edilerek Döner Sermaye Merkez Muhasebe birimine aktarılan %'ya kadar olan tutarın dağılım ve sarfina ilişkin kriterleri belirlemek için hazırlanmiştır. Dayanak
+#### Amaç, kapsam, dayanak ve tanımlar
 
-**MADDE 2 –** (1) Bu Yönerge; 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağhk Kurumları Ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesine dayarlarak hazırlanmıştır. Tanımlar
+#### Amaç ve kapsam
+
+**MADDE 1 –** (1) Bu Yönerge; Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatında kurulan döner sermaye işletmelerince, sağlık hizmetlerinin iyileştirilmesi, kaliteli ve verimli hizmet sunumunun teşvik edilmesi, sağlık kurum ve kuruluşlarının kendi imkânlarıyla karşılayamadıklan ihtiyaçların giderilmesi, eğitim, araştırma ve geliştirme faaliyetlerinin desteklenmesi, Bakanlık taşra teşkilatı ile Türkiye Halk Sağhğı Kurumu taşra teşkilatının desteklenmesi, Bakanlık merkez ve taşra teşkilatında ve Türkiye Halk Sağlığı Kurumu merkez ve taşra teşkilatı ile Türkiye Kamu Hastaneleri Kurumunun merkez teşkilatında görev yapan memurlar ile sözleşmeli personele ek ödemede bulunulması amacıyla yapılacak giderlere iştirak etmek için aylık gayrisafi hasılattan her ay tahsil edilerek Döner Sermaye Merkez Muhasebe birimine aktarılan %'ya kadar olan tutarın dağılım ve sarfina ilişkin kriterleri belirlemek için hazırlanmıştır. 
+
+#### Dayanak
+
+**MADDE 2 –** (1) Bu Yönerge; 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesine dayanılarak hazırlanmıştır. #### Tanımlar
 
 **MADDE 3 –** (1) Bu Yönergede geçen;
 
@@ -35,33 +40,35 @@ c) Bakan: Sağlık Bakanını,
 
 d) Bağlı Kuruluş: Türkiye Kamu Hastaneleri Kurumu, Türkiye Halk Sağhğ Kurumunu ifade eder.
 
-### İKINCİ BÖLÜM Merkeze Pay Aktarılması, Dağlım ve Sarfi ile ilgili Hususlar
+## İKİNCİ BÖLÜM
+
+#### Merkeze Pay Aktarılması, Dağılım ve Sarf ile İlgili Hususlar
 
 #### Temel Esaslar
 
-**MADDE 4 –** (1) Merkeze aktarılan %á*ya kadar olan tutann dağılur ve sarfina ilişkin temel esaslar aşağida belirtilmiştir:
+**MADDE 4 –** (1) Merkeze aktarılan %5’e kadar olan tutarın dağılımı ve sarfina ilişkin temel esaslar aşağida belirtilmiştir:
 
 a) Merkeze aktarılacak %'ya kadar olan tutarı, kurumlar veya işletmeler itibariyle bu oramın altında belirlemeye veya hiç almamaya Bakan yetkilidir.
 
-b) Ilgili aya ait Merkeze gönderilecek tutarlar, Sağlik Kurumlan Döner Sermaye Muhasebe Birimlerince takip eden ayın 20" sine kadar Döner Semaye Merkez Muhasebe Biriminin banka hesabına aktarılır.
+b) İlgili aya ait Merkeze gönderilecek tutarlar, Sağlik Kurumlan Döner Sermaye Muhasebe Birimlerince takip eden ayın 20’sine kadar Döner Semaye Merkez Muhasebe Biriminin banka hesabına aktarılır.
 
-e) Merkeze aktarılan tutar; Bakanlık merkez teşkılatında görev yapan memurlar ile sözleşmeli personelin ek ödemesinde kullanılır. Ayrıca kendi döner sermaye kaynaklanının yetersiz kalması halinde Türkiye Halk Sağlığı Kurumu, merkez ve taşra teşkilatı ile Türkiye Kamu Hastaneleri Kurumu'nun merkez teşkilatında görev yapan memarlar ile sözleşmeli personelin ek ödemelerinde kullanılmak üzere kaynak aktarımı yapılabilir. Yapılan bu ödemelerden sonra kalan tutar; sağlık hizmetlerinin iyileştirilmesi, kaliteli ve verimli hizmet sunumunun teşvik edilmesi, sağhk kurum ve kuruluşlanmın kendi imkånlanyla karşılayamadıkları ihtiyaçlann giderilmesi ile eğitim, araştırma ve geliştirme faaliyetlerinin desteklenmesi için kullanılır.
+e) Merkeze aktarılan tutar; Bakanlık merkez teşkılatında görev yapan memurlar ile sözleşmeli personelin ek ödemesinde kullanılır. Ayrıca kendi döner sermaye kaynaklarının yetersiz kalması halinde Türkiye Halk Sağlığı Kurumu, merkez ve taşra teşkilatı ile Türkiye Kamu Hastaneleri Kurumu'nun merkez teşkilatında görev yapan memurlar ile sözleşmeli personelin ek ödemelerinde kullanılmak üzere kaynak aktarımı yapılabilir. Yapılan bu ödemelerden sonra kalan tutar; sağlık hizmetlerinin iyileştirilmesi, kaliteli ve verimli hizmet sunumunun teşvik edilmesi, sağlık kurum ve kuruluşlanmın kendi imkånlanyla karşılayamadıkları ihtiyaçların giderilmesi ile eğitim, araştırma ve geliştirme faaliyetlerinin desteklenmesi için kullanılır.
 
-g) Merkeze aktarılan tutardan Personele dağıtılacak ek ödemenin dışında kalan kısmım, 209 sayılı Kanunun beşinci maddesinin dördünco fikrası çerçevesinde, kullanılacağı gider kalem ve miktarını belirlemaye, Bakan yetkilidir.
+g) Merkeze aktarılan tutardan Personele dağıtılacak ek ödemenin dışında kalan kısmım, 209 sayılı Kanunun beşinci maddesinin dördünco fıkrası çerçevesinde, kullanılacağı gider kalem ve miktarını belirlemaye, Bakan yetkilidir.
 
-d) Yapilacak bu giderler, döner sermayeli işletmelerin tabi olduğu mevzuat hükümleri gerçevesinde gerşeklestirilir.
+d) Yapilacak bu giderler, döner sermayeli işletmelerin tabi olduğu mevzuat hükümleri çerçevesinde gerçekleştirilir.
 
 e) Bakanlık Merkez teşkilatı ile Bağh kuruluşlanın eğitim, araştıra ve geliştirme projeleri için kaynaklarımın yetersiz kalması halinde taleplerini Bakanlık Strateji Geliştirme Başkanlığına intikal ettirirler. Bu talepleri değerlendirmek üæere komisyon oluşturmaya ve komisyonun onayladığı projelere kaynak aktarmaya Bakan yetkilidir.
 
-f) Bakanlık merkez ve taşra teşkilatı ile Bakanlığa bağh kuruluşlar ile taşra teşkilatı, kendi imkänlarıyla karşılayamadıkları ihtiyaçlanını, gerekçeli teklif yazısı ile Bakanlık Strateji Geliştirme Başkanlığına bildirirler. Ihtiyaçların karşılanmasına karar vermeye ve kaynak aktarımı yapmaya Bakan yetkilidir.
+f) Bakanlık merkez ve taşra teşkilatı ile Bakanlığa bağh kuruluşlar ile taşra teşkilatı, kendi imkänlarıyla karşılayamadıkları ihtiyaçlanını, gerekçeli teklif yazısı ile Bakanlık Strateji Geliştirme Başkanlığına bildirirler. İhtiyaçların karşılanmasına karar vermeye ve kaynak aktarımı yapmaya Bakan yetkilidir.
 
-g) Düner Sermaye Merkez Muhasebe Birimi hesabına aktarılan % 6'ya kadar olan tutarlardan bu birimce Hazine payı ve Sosyal Hizmetler ve Çocuk Esirgene Kurumu payt aynlmaz. Merkeze aktarılan bu tutarlardan ihtiyacı bulunan sağhk kurum ve kuruluşlarına sermayelerine mahsuben veya yardım olarak gönderilebilir. Kurum veya kuruluşlara merkez payından yapılan yardımlardan, kurum veya kuruluşlar tarafindan ayrıca Hazine payı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu payı aynılmaz. Döner Sermaye Merkez Muhasebe Biriminin yılsonu nakit mevcudu aym amaçla kullanılmak tızere ertesi yıla devredilir."
+g) Döner Sermaye Merkez Muhasebe Birimi hesabına aktarılan %6’ya kadar olan tutarlardan bu birimce Hazine payı ve Sosyal Hizmetler ve Çocuk Esirgene Kurumu payt aynlmaz. Merkeze aktarılan bu tutarlardan ihtiyacı bulunan sağlık kurum ve kuruluşlarına sermayelerine mahsuben veya yardım olarak gönderilebilir. Kurum veya kuruluşlara merkez payından yapılan yardımlardan, kurum veya kuruluşlar tarafindan ayrıca Hazine payı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu payı aynılmaz. Döner Sermaye Merkez Muhasebe Biriminin yılsonu nakit mevcudu aym amaçla kullanılmak tızere ertesi yıla devredilir."
 
 ### ÜÇÜNCÜ BÖLÚM Son Hükümler
 
-#### Yönerge Kapsamındaki Görevlerin Yürütülmesi
+#### Yönerge kapsamındaki görevlerin yürütülmesi
 
-**MADDE 5 –** (1) Bu Yönerge kapsamındaki ek ödemeye ilişkin gerçekleştirme işlemleri, ilgili birimlerce yapılar.
+**MADDE 5 –** (1) Bu Yönerge kapsamındaki ek ödemeye ilişkin gerçekleştirme işlemleri, ilgili birimlerce yapılır.
 
 (2) Bu Yönergenin uygulanması ile ilgili diğer täm iş ve işlemlerin yürütülmeai hususlannda, Bakanlık merkez hizmet birimleri, Türkiye Kamu Hastaneleri Kurumu ve Türkiye Halk Sağlığı Kurumu hizmet birimleri görevli ve yetkilidir.
 
@@ -69,6 +76,6 @@ g) Düner Sermaye Merkez Muhasebe Birimi hesabına aktarılan % 6'ya kadar olan 
 
 **GEÇİCİ MADDE 1 –** 663 sayılı Sağlık: Bakanlğ ve Bagh Kuruluşlarımın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Karamamenin yürürlüğe girdiği 02/11/2011 tarihinden Bece Bakanlık Ilaç ve Eczacılık Genel Müdürlügünce döner semaye kaynaklanından ihale edilen işlerin hakediş ödemeleri tamamlanmamış olanlarına ilişkin olarak Türkiye Ilaç ve Tibbi Cihaz Kurumuna gerekli kaynağı aktarmaya Bakan yetkilidir. Yürürlük
 
-**MADDE 7 –** (1) Maliye Bakanlığının uygun görüşü alınan bu Yönerge, yayımlandığı tarihten İtibaren geçerli olmak üzere Bakan onayı ile yürürlüğe girer. Virütme
+**MADDE 7 –** (1) Maliye Bakanlığının uygun görüşü alınan bu Yönerge, yayımlandığı tarihten İtibaren geçerli olmak üzere Bakan onayı ile yürürlüğe girer. #### Yürütme
 
 **MADDE 8 –** (1) Bu Yönerge hükümlerini Bakan yürütür.
