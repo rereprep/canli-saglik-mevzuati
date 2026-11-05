@@ -1,5 +1,5 @@
 ---
-d: "sbg-103561-adli-olaya-taraf-kisiler-hakkinda-tedavi-ve-denetimli-serbestlik-tedbi"
+id: "sbg-103561-adli-olaya-taraf-kisiler-hakkinda-tedavi-ve-denetimli-serbestlik-tedbi"
 baslik: "Adli Olaya Taraf Kişiler, Hakkında Tedavi ve Denetimli Serbestlik Tedbirine Hükmedilenler ile Tutuklu"
 tur: "genelge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"

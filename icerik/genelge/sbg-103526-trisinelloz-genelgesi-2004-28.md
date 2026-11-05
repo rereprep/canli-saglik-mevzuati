@@ -17,9 +17,9 @@ kontrol_edildi: true
 
 ## Genelge yazısı (05.03.2004)
 
-**T.C. Sağlık Bakanlığı — Temel Sağlık Hizmetleri Genel Müdürlüğü**  
-Sayı: B100TSH0110002 / 03557  
-Konu: Trişinelloz  
+**T.C. Sağlık Bakanlığı — Temel Sağlık Hizmetleri Genel Müdürlüğü**
+Sayı: B100TSH0110002 / 03557
+Konu: Trişinelloz
 Genelge: 2004/28
 
 Hayvanlardan insanlara geçen ve zoonozlar olarak bilinen hastalıkların iki yüzün üzerinde olduğu Dünya Sağlık Teşkilatı tarafından bildirilmekte ve bu hastalıklara yenileri eklenerek sayıları sürekli artmaktadır. Hatalı beslenme alışkanlıkları, altyapı eksiklikleri, sosyo-ekonomik ve sosyo-kültürel düzeydeki problemler nedeniyle ülkemizde de önemli bir halk sağlığı problemi olmaya devam eden zoonoz hastalıkların önemli bir kısmını zoonoz parazitozlar oluşturmaktadır. Son zamanlarda ciddi bir epidemi şeklinde ortaya çıkarak bu halkaya eklenen trişinelloz hastalığı da ülkemizdeki parazit ve gıda kaynaklı zoonozlardan [?].
@@ -28,7 +28,7 @@ Bakanlığımızca, trişinelloz epidemisi durumunda gerek vaka yönetiminin uyg
 
 Bu nedenle, trişinelloz vakalarında ilişikte gönderilen bilgiler doğrultusunda hareket edilmesi, söz konusu bilgilerin bütün sağlık kurum ve kuruluşlarına ulaştırılmasının sağlanması, konuya ilişkin olarak halkın bilgilendirilmesi ve bilinçlenmesine yönelik çalışmaların yapılması, gıda denetimlerinin titizlikle yapılmasının sağlanması hususlarında bilgilerinizi ve keyfiyetin gereği için ilgililere emirlerinizi arz ve rica ederim.
 
-**Prof. Dr. Necdet ÜNÜVAR**  
+**Prof. Dr. Necdet ÜNÜVAR**
 Bakan a. — Müsteşar
 
 **Ekler:**
@@ -247,7 +247,7 @@ Albendazolün aşırı duyarlılığa yol açabileceği belirtilmektedir.
 
 Karbamazepin, albendazolün etkisini azaltabilirken, dekzametazon, simetidin ve prazikuantel toksisitesini artırabilmektedir. 6.3. Tiyabendazol
 
-Trişinellozis vakalarında tiyabendazolün yetişkinlerdeki kullanımı -yan ekilerinden dolayı uzun süreli kullanımlar problemli olabilmektedir- 50 mg/kg miktarındaki günlük dozun ikiye bölünerek verilmesi şeklindedir; günlük doz 3 gramı geçmemelidir. Çocuklardaki tiyabendazol kullanımı ise, 15 kg'ın üzerinde olanlara yetişkinlerde olduğu gibidir. Bu ağırlığın altındakilerde kullanımla ilgili bilgiler henüz yeterli değildir.
+Trişinellozis vakalarında tiyabendazolün yetişkinlerdeki kullanımı (yan etkilerinden dolayı uzun süreli kullanımı problemli olabilmektedir) 50 mg/kg miktarındaki günlük dozun ikiye bölünerek verilmesi şeklindedir; günlük doz 3 gramı geçmemelidir. Çocuklardaki tiyabendazol kullanımı ise, 15 kg'ın üzerinde olanlara yetişkinlerde olduğu gibidir. Bu ağırlığın altındakilerde kullanımla ilgili bilgiler henüz yeterli değildir.
 
 Tiyabendazol aşırı duyarlılığa yol açabilirken, serum teofilin düzeyini artırarak bunun toksisitesini artırabilmektedir.
 
@@ -257,7 +257,7 @@ Trişinelloziste ateşin ve larvaların kaslara yerleşmesi sonucu gelişen olum
 
 Bu amaçla trişinelloziste 5 mg/kg/gün miktarında mebendazol ile 40-60 mg/gün dozunda prednizolon ya da 400-800 mg/gün miktarında albendazol ile yine aynı dozda prednizolon birlikte verilebilir.
 
-Fransa'da meydana gelen pidemide vakaların tedavileri 800 mg/gün miktarındaki albendazol ile 30 mg/gün miktarındaki prednizonun kombine edilerek 3 gün süreyle verilmesi şeklinde plânlanmıştır.
+Fransa'da meydana gelen epidemide vakaların tedavileri 800 mg/gün miktarındaki albendazol ile 30 mg/gün miktarındaki prednizonun kombine edilerek 3 gün süreyle verilmesi şeklinde plânlanmıştır.
 
 Genel olarak prednizolon 30-60 mg/gün miktarında endikasyonu uygun görülürse kullanılabilmektedir.
 
@@ -265,7 +265,7 @@ Orta ve daha düşük düzeydeki enfeksiyonlarda da gerektiğinde steroid kullan
 
 7. Korunma ve Kontrol
 
-Her enfeksiyon hastalığında olduğu gibi trişinelloziste de esas olan korunma olup, basit bazı önlemlerin alınması ve birtakım alışkanlıklara son verilmesi ile korunma sağlanmaktadır. Etlerin çiğ veya az pişmiş olarak yenmesi sonucunda trişinellozis haricinde başka hastalıkların da bulaşabileceği unutulmamalıdır. Ayrıca, değişik ülkelerde görülen epidemiler ve yapılan deneysel çalışmalar hastalığın sadece domuzlar veya yukarıda adı geçen hayvanlarda değil, herbivor (ot yiyen) bir çok hayvanda da görülebileceğini göstermektedir. Trişinellozisten korunma önlemlerinin başlıcaları şunlardır:
+Her enfeksiyon hastalığında olduğu gibi trişinelloziste de esas olan korunma olup, basit bazı önlemlerin alınması ve birtakım alışkanlıklara son verilmesi ile korunma sağlanmaktadır. Etlerin çiğ veya az pişmiş olarak yenmesi sonucunda trişinellozis haricinde başka hastalıkların da bulaşabileceği unutulmamalıdır. Ayrıca, değişik ülkelerde görülen epidemiler ve yapılan deneysel çalışmalar hastalığın sadece domuzlar veya yukarıda adı geçen hayvanlarda değil, herbivor (ot yiyen) birçok hayvanda da görülebileceğini göstermektedir. Trişinellozisten korunma önlemlerinin başlıcaları şunlardır:
 
 • Kaynağı belirsiz, üretim izni olmayan ve etiketinde gerekli bilgilerin yer
 
@@ -294,8 +294,6 @@ Etlerin dondurulma dereceleri -15 °C’yi geçtikçe de bekletme süreleri azal
 • Gıda, halk sağlığını doğrudan ilgilendiren önemli bir mevzu olduğundan, gıda üretim ve satış yerlerindeki denetimlerde hassasiyet gösterilerek halkın sağlığıyla oynanmasına fırsat verilmemelidir.
 
 • Av etleri ile ilgili mevzuat hazırlanarak uygulanması sağlanmalı ve gerekli kontroller yapıldıktan sonra av etlerinin tüketime sunulmasına müsaade edilmelidir.
-
-• Av etleri ile ilgili mevzuat hazırlanarak uygulanması sağlanmalı ve gerekli kontroller yapıldıktan sonra av etlerinin tüketime sunulmasına müsaade
 
 
 ## Ek-2. Trişinellozis Vaka Bildirim Çizelgesi
@@ -335,7 +333,7 @@ Ateş; ishal; karın ağrısı; bulantı; kusma; kırgınlık; kaslarda ağrı/h
 
 | İnceleme | Sonuç |
 |---|---|
-| Serolojik analiz | [?] |
+| Serolojik analiz sonucu | … |
 | Histopatoloji | Pozitif / Negatif |
 
 ### 4. Çiğ veya az pişmiş et / et ürünleri yeme hikâyesi
@@ -354,7 +352,7 @@ Ateş; ishal; karın ağrısı; bulantı; kusma; kırgınlık; kaslarda ağrı/h
 
 Salah / Şifa / Eks
 
-**Muayene eden hekimin adı ve soyadı:** …  
+**Muayene eden hekimin adı ve soyadı:** …
 **İmzası:** …
 
 ## Ek-2 doldurma talimatı
