@@ -109,9 +109,8 @@ def oncelik(b):
         puan += 40
     if not b.get("ocr") or b.get("duzeltildi"):
         puan += 20
-    if b["id"].startswith("sbg-"):
-        puan += 5
-    return puan + min(len(b.get("govde", "")) / 100000, 1)
+    # Eşit temizlikteki kopyalardan daha eksiksiz (uzun) metni seç
+    return puan + min(len(b.get("govde", "")) / 5000, 15)
 
 
 def tekillestir(liste):

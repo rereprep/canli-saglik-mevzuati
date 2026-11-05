@@ -24,6 +24,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 4. Word yönergeler: araclar/docx_aktar.py (Yönergeler klasörü)
 5. Kataloglar (yalnızca künye): katalog.json (ajan), ozcan-halk-sagligi-ekleri.json (araclar/ozcan_ekleri.py, Özcan Halk Sağlığı 2. baskı Ek I–VII), saglik-gov.json, resmi-gazete-takip.json
 6. Site: araclar/site_uret.py (--hizli: Word/PDF üretmez). Aynı belgenin kopyaları birleştirilir; eski adresler yönlendirilir.
+   Birleştirme önceliği: Word kaynaklı > OCR'sız veya düzeltilmiş > daha uzun (eksiksiz) metin. Genelgeler sayı numarasıyla (ör. 2023/1) eşleşir.
 
 ## OCR düzeltme durumu
 - OCR'lı belgeler künyede `ocr: true`; düzeltilenler `duzeltildi: true` (kitaptan_cikar bunları ezmez).
