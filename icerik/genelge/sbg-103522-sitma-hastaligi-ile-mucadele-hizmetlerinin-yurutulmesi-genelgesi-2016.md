@@ -10,6 +10,7 @@ durum: "yürürlükte"
 konu: "Sıtma hastalığı ile mücadele hizmetlerinin yürütülmesine ilişkin esasları düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.27. Sıtma Hastalığı ile Mücadele Hizmetlerinin Yürütülmesi Genelgesi (2016/2)
@@ -50,7 +51,7 @@ Hizmetlerinin Yürütülmesi
 
 a) Son üç yıl içerisinde sıtma endemik bölgede bulunmayan veya herhangi bir yurtdışı kaynaklı sıtma vakası ile ilişkili olmayan (yerli vaka olma olasılığı olan) kişilerde sıtma paraziti tespit edilmesi halinde derhal Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına bildirilecektir.
 
-Böyle bir sıtma vakası saptanması durumunda sağlık personeli tarafından 2 (iki) adet rodajlı lama hazırlanan yayma preparatları ile vakumlu EDTA hı tüpe (mor kapaklı) usulüne uygun şekilde alınan venöz kan örnekleri, isim listesi ile beraber soğuk zincir kurallarına göre ve lam taşıma kutuları içerisinde Ulusal Sıtma Referans Laboratuvarına gönderilecek ve hemen tedavisine başlanacaktır.
+Böyle bir sıtma vakası saptanması durumunda sağlık personeli tarafından 2 (iki) adet rodajlı lama hazırlanan yayma preparatları ile vakumlu EDTA lı tüpe (mor kapaklı) usulüne uygun şekilde alınan venöz kan örnekleri, isim listesi ile beraber soğuk zincir kurallarına göre ve lam taşıma kutuları içerisinde Ulusal Sıtma Referans Laboratuvarına gönderilecek ve hemen tedavisine başlanacaktır.
 
 b) Yurtdışı kaynaklı sıtma vakası tespit edilmesi halinde:
 
@@ -62,9 +63,9 @@ b) Yurtdışı kaynaklı sıtma vakası tespit edilmesi halinde:
 
 c) Sıtma vakasının tedavisi tamamlandıktan 15 gün sonra parazitolojik inceleme için yayma yapılacak, pozitif bulunması halinde tedavinin yeniden düzenlenmesi sağlanacaktır. Kontrol kanı alınamaması halinde sebebine yönelik açıklamayı içeren bir tutanak ile bu durum kayıt altına alınacaktır.
 
-¢) Tespit edilen her bir vakanın detaylı epidemiyolojik incelemesi yapılacak, enfeksiyon orjini ve parazit türü dikkatlice sınıflandırılacak ve Bulaşıcı Hastalıklar Kontrol Programları Şube Müdürlüğü tarafından ek-4"teki "Sıtma Eepidemiyolojik Inceleme Formu" eksiksiz olarak doldurularak aylık olarak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir.
+ç) Tespit edilen her bir vakanın detaylı epidemiyolojik incelemesi yapılacak, enfeksiyon orijini ve parazit türü dikkatlice sınıflandırılacak ve Bulaşıcı Hastalıklar Kontrol Programları Şube Müdürlüğü tarafından ek-4"teki "Sıtma Epidemiyolojik Inceleme Formu" eksiksiz olarak doldurularak aylık olarak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir.
 
-d) Sıtma tedavi ilaçlarının, etiketinde belirtilen saklama koşullarına uygun olarak depolanması sağlanacaktır. Ayrıca ilin büyüklüğüne ve yıllık ortalama tespit edilen vaka sayısına göre asgari stok yönetimi sağlanacaktır. Sıtma tedavi ilaçlarının temin ve depolanmasından sorumlu en az bir sağlık personeli belirlenecek ve ildeki tüm sağlık kuruluşlarına bu kişinin irtibat bilgileri bildirilecektir. Tedavi ilacı ile diğer malzemelere ilişkin olarak Ek-'teki "Sıtma Tedavi Ilacı Stok Durumu Formu" doldurularak ihtiyaç belirlenerek aylık olarak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir.
+d) Sıtma tedavi ilaçlarının, etiketinde belirtilen saklama koşullarına uygun olarak depolanması sağlanacaktır. Ayrıca ilin büyüklüğüne ve yıllık ortalama tespit edilen vaka sayısına göre asgari stok yönetimi sağlanacaktır. Sıtma tedavi ilaçlarının temin ve depolanmasından sorumlu en az bir sağlık personeli belirlenecek ve ildeki tüm sağlık kuruluşlarına bu kişinin irtibat bilgileri bildirilecektir. Tedavi ilacı ile diğer malzemelere ilişkin olarak Ek-5 teki "Sıtma Tedavi Ilacı Stok Durumu Formu" doldurularak ihtiyaç belirlenerek aylık olarak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir.
 
 e) Sıtma ilaçlarının. talep eden sağlık kuruluşuna ivedilikle temin edilebilmesi hususunda gerekli düzenlemeler yapılacaktır.
 
@@ -73,6 +74,10 @@ Say: : 10712557-136 Konu: Sıtma Hastalığı Ile Mücadele
 Hizmetlerinin Yürütülmesi
 
 4) Vektör kontrol çalışmaları;
+
+a) Başta sıtma ve leishmaniasis olmak üzere Batı Nil virüsü ateşi, tatarcık ateşi, dengue ateşi, chikungunya gibi bütün sivrisinek ve tatarcıkla bulaşan hastalıkların vektör mücadelesi ortak olarak yürütülecek, planlamalarda ildeki vektörle bulaşan hastalık riskleri ve insidansları göz önünde bulundurulacaktır.
+
+b) Vektör kontrol çalışmalarında; halkın bilgilendirilmesi, çevre düzenlemesi, yapay üreme alanlarının azaltılması, Gambusia affinis türü balıklar gibi sivrisineklerin doğal düşmanlarının kullanılması, biyosidal ürünlerin kullanılması gibi farklı yöntemler bir plan dahilinde ilgili sektörlerle işbirliği içerisinde uygulanacaktır.
 
 a) Bașta sıtma ve leishmaniasis olmak üzere batı nil virüsü ateşi, tatarcık ateși, deng ateşi, chikungunya gibi bütün sivrisinek ve tatarcıkla bulaşan hastalıkların vektör mücadelesi ortak olarak yürütülecek, planlamalarda ildeki vektörle bulaşan hastalık riskleri ve insidansları göz önünde bulundurulacaktır. dahilinde ilgili sektörlerle işbirliği içerisinde uygulanacaktır.
 
@@ -96,7 +101,7 @@ j) Personel ve aracin hizmet alım yoluyla temin edildiği durumlarda da (c) ve 
 
 k) Sıtma çalışmalarında görevli işçilerin özlük ve personel kayıtlarımın titizlikle tutulması ile izinlerini düzenli olarak kullanmaları sağlanacaktır. Işçilerin izne ayrılmalarına ve tekrar işe başlamalarına ilişkin tutanak tanzim edilecek ve işçilere imzalatılarak özlük dosyalarında muhafaza edilecektir.
 
-1) Ek-'daki "Vektör Kontrolü Malzeme Formu" aylık olarak takip eden ayın en geç S'ine kadar doldurularak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir. Vektör kontrolü malzeme formunun ilde vektör mücadelesini planlayan ve uygulayan personel tarafından doldurulması esastır.
+1) Ek-6 daki "Vektör Kontrolü Malzeme Formu" aylık olarak takip eden ayın en geç 5 ine kadar doldurularak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir. Vektör kontrolü malzeme formunun ilde vektör mücadelesini planlayan ve uygulayan personel tarafından doldurulması esastır.
 
 Sayı : 10712557-136 Konu: Sıtma Hastalığı Ile Mücadele
 
@@ -108,11 +113,11 @@ Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-müstesu '
+Müsteşar'
 
 EKLER:
 
-Ek -1- Sitma Bilgilendirme Formu Ek -2- Aylık Sıtma Çalışmaları Ek -3- Halk Sağlığı Laboratuvarı Aylık Formu Ek -4- Sıtma Eepidemiyolojik Inceleme Formu Ek -5- Sıtma Tedavi Ilacı Stok Durumu Ek -6- Vektör Kontrol Malzeme Formu
+Ek -1- Sitma Bilgilendirme Formu Ek -2- Aylık Sıtma Çalışmaları Ek -3- Halk Sağlığı Laboratuvarı Aylık Formu Ek -4- Sıtma Epidemiyolojik Inceleme Formu Ek -5- Sıtma Tedavi Ilacı Stok Durumu Ek -6- Vektör Kontrol Malzeme Formu
 
 DAGITIM:
 

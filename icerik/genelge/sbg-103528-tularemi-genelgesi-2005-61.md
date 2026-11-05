@@ -10,33 +10,51 @@ durum: "yürürlükte"
 konu: "Tularemi Genelgesi (2005/61) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.33. Tularemi Genelgesi (2005/61)
 
-Sayı : B100TSH0110002 Konu: Tularemi
+T.C.
 
-V Hastalığın görüldüğü, kuşkulu vak'aların bulunduğu ya da tularemi pozitif
+SAĞLIK BAKANLIĞI
 
-vak'alarla epidemiyolojik ilişkisi olan yerleşim yerlerinde inceleme ve
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-taramalar yapılarak hastaların bulunup tedavi edilmelerinin temin edilmesiyle,
+Sayı: B100TSH0110002
 
-V Vak'a bildirimlerinin, mer'i mevzuatı muvacehesinde yapılması icap
+Konu: Tularemi
 
-Bunların yanı sıra, yapılan incelemeler ve değerlendirmeler ile Bakanlığımıza ulaşan bilgiler, tulareminin çok fazla bilinen bir hastalık olmamasından dolayı ayırıcı tanılarda fazla akla getirilemediği, bundan ötürü de tanı ve tedavinin zamanında gerçekleştirilemeyişine bağh birtakım problemlerin bulunduğu şeklindedir.
+11/04/2005                                                                 5103
 
-Bu nedenle :
+GENELGE
 
-V Beta-laktam antibiyotik tedavisine cevap vermeyen tonsillofarenjit vak'aları,
+(2005/61)
 
-• Boyunda lenfadenopatisi (LAP) olan vak'alar ile,
+Tularemi, tavşan ateşi veya avcı hastalığı gibi isimlerle de bilinen, virülansı hayli yüksek olan *Francisella tularensis* adlı bakterinin meydana getirdiği bir zoonozdur. Hastalığa neden olan bakterinin doğal saklayıcısı çoğunlukla kemirici hayvanlar olup, hastalığın insanlara bulaşmasında, enfekte hayvanların idrar, dışkı, kan ve organlarının deri, mukoza veya konjunktivaya direkt teması ile kontamine olmuş gıdaların yenmesi ve suların içilmesi önemli rol oynamaktadır. Hastalık, enfekte av hayvanlarının yüzülmesi, etlerinin parçalanması veya bu hayvanlara ait etlerin çiğ ya da iyi pişirilmeden yenmesiyle bulaşabileceği gibi etkeni taşıyan kene ve kan emici sineklerin insanları ısırması ile de bulaşma söz konusu olabilmektedir.
 
-V LAP yanında konjunktiviti bulunan vak'alarda tularemi de düşünülmeli ve
+Tularemi, klinik olarak ülseroglandüler, glandüler, oküloglandüler, orofaringeal, tifoidal ve pnömonik tularemi şeklinde görülen bir hastalıktır. Zaman zaman değişik illerde orofaringeal ve oküloglandüler formlarda epidemik bir seyir arz eden tulareminin ülkemizdeki bulaşma kaynağı konusundaki genel kanaat, kontaminasyonlar açısından izolasyonu tam olarak sağlanamamış, hayvanların kolayca kirletebileceği, yeterli klorlama yapılamamış ya da klorlamada sürekliliğin sağlanamadığı kaynak ve depolardan su içilmesi merkezindedir.
 
-ayırıcı tanıda bu bilgiler dikkate ahımalıdır.
+Bu cümleden olmak üzere:
 
-Konuya ilişkin olarak bilgilerinizi; keyfiyetin, Ilinizdeki bütün sağlık kurum ve kuruluşları ile diğer muhataplarına ulaștırılmasının sağlanması hususlarında da ilgililere emirlerinizi rica ederim.
+- Özellikle kırsal kesimlerde bulunan içme ve kullanma sularına ait kaynak, kanal, boru ve depoların, kontaminasyonları önleyecek şekilde ıslahının sağlanması hususunda ilgili kurum ve kuruluşlarla icap eden iş birliğinin gerçekleştirilmesi,
+- İçme ve kullanma sularının klorlanması ile klorlama işlemlerinde sürekliliğin sağlanması,
+- Kaynağı belirsiz veya yeterince klorlama yapıldığından emin olunmayan suların kaynatılarak içilmesi, suların ferdi dezenfeksiyonu ile özellikle av hayvanlarının yüzülmesi ve parçalanması esnasında eldiven kullanılması, bu hayvanlara ait etlerin iyice pişirilerek yenmesi, meyve ve sebzelerin bol su ile iyice yıkandıktan sonra tüketilmesi gibi konularda halkın bilgilenmesine ve bilinçlendirilmesine yönelik eğitim verilmesi,
+
+hususları önem arz etmektedir.
+
+- Hastalığın görüldüğü, kuşkulu vakaların bulunduğu ya da tularemi pozitif vakalarla epidemiyolojik ilişkisi olan yerleşim yerlerinde inceleme ve taramalar yapılarak hastaların bulunup tedavi edilmelerinin temin edilmesiyle,
+- Vaka bildirimlerinin, mer’i mevzuatı muvacehesinde yapılması icap etmektedir.
+
+Bunların yanı sıra, yapılan incelemeler ve değerlendirmeler ile Bakanlığımıza ulaşan bilgiler, tulareminin çok fazla bilinen bir hastalık olmamasından dolayı ayırıcı tanılarda fazla akla getirilemediği, bundan ötürü de tanı ve tedavinin zamanında gerçekleştirilemeyişine bağlı birtakım problemlerin bulunduğu şeklindedir.
+
+Bu nedenle:
+
+- Beta-laktam antibiyotik tedavisine cevap vermeyen tonsillofarenjit vakaları,
+- Boyunda lenfadenopatisi (LAP) olan vakalar ile,
+- LAP yanında konjunktiviti bulunan vakalarda tularemi de düşünülmeli ve ayırıcı tanıda bu bilgiler dikkate alınmalıdır.
+
+Konuya ilişkin olarak bilgilerinizi; keyfiyetin, ilinizdeki bütün sağlık kurum ve kuruluşları ile diğer muhataplarına ulaştırılmasının sağlanması hususlarında da ilgililere emirlerinizi rica ederim.
 
 Prof. Dr. Necdet ÜNÜVAR
 
@@ -44,6 +62,6 @@ Bakan a.
 
 Müsteşar
 
- DAĞITIM :
+DAĞITIM:
 
-81 İl Valiligine
+81 İl Valiliğine
