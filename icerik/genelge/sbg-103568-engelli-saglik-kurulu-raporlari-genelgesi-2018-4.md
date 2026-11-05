@@ -9,7 +9,6 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103568/engelli-saglik-kurulu-raporlari
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 ---
 
 2.3.45. Engelli Sağlık Kurulu Raporları Genelgesi (2018/4)

@@ -73,13 +73,13 @@ d) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
 e) Merkez: Sağlık Bakanlığı ve bağlı kuruluşları, üniversite, Türk Silahlı Kuvvetleri, belediye ve özel sağlık kuruluşlarına ait sağlık hizmet sunucularına bağlı olarak palyatif bakım hizmeti vermek üzere kurulan merkezi,
 
-e) Müdürlük: İl sağlık müdürlügünü,
+f) Müdürlük: İl sağlık müdürlüğünü,
 
 g) Sorumlu tabip: Palyatif bakım hizmetlerinin planlanması ve uygulanması amacıyla ilgili kurum amirince palyatif bakım merkez sorumlusu olarak görevlendirilen tercihen anestezi uzmanı olmak üzere uzman tabibi,
 
 ğ) Yönetici: Palyatif bakım hizmeti vermeye yetkili olan sağlık hizmet sunucusunun yöneticisini,
 
-ı) TKHK: Türkiye Kamu Hastaneleri Kurumunu,
+h) TKHK: Türkiye Kamu Hastaneleri Kurumunu,
 
 ifade eder.
 

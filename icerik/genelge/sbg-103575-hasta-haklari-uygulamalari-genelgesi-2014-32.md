@@ -9,7 +9,6 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103575/hasta-haklari-uygulamalari-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 ---
 
 2.3.11. Hasta Hakları Uygulamaları Genelgesi (2014/32)

@@ -10,7 +10,6 @@ durum: "yürürlükte"
 konu: "Çalışan Güvenliğinin Sağlanması Genelgesi (2012/23) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 ---
 
 2.2.15. Çalışan Güvenliğinin Sağlanması Genelgesi (2012/23)

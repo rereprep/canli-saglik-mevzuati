@@ -10,7 +10,6 @@ durum: "yürürlükte"
 konu: "Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 ---
 
 7.3.11. Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9)

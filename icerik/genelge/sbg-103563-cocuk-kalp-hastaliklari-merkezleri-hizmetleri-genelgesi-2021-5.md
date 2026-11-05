@@ -10,7 +10,6 @@ durum: "yürürlükte"
 tarih: "2021-07-06"
 ocr: true
 duzeltildi: true
-kontrol_edildi: true
 ---
 
 
