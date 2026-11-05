@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 133-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.147"
+kontrol_edildi: true
 ---
 
 2.3.1. Soybağının Tespiti Testi Genelgesi (2024/2)
@@ -20,29 +20,33 @@ T.C.
 SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : E-23642684-010.06.01-239563278
+Sayı : 95966346 -
 Konu : Soybağının Tespiti Testi
 
 GENELGE
 2024/2
 
-İlgi: 13/05/2022 tarihli ve 2022/6 sayılı Genelge.
+İlgi : 28.10.2022 tarihli ve 2022/6 sayılı Soybağının Tespiti Testi Hakkında Genelge.
 
-5490 sayılı Nüfus Hizmetleri Kanunu uyarınca nüfus kütüklerine tescil işlemlerinde soybağının tespitine ihtiyaç duyulması halinde yapılacak tıbbi tahlil ve DNA testlerine ilişkin usul ve esaslar aşağıda düzenlenmiştir:
+5901 sayılı Türk Vatandaşlığı Kanunu'nun "Saklı nüfus" başlıklı Ek 1 inci maddesinde (Ek: 19/10/2017-7039/33 md.); "onsekiz yaşını tamamlayıncaya kadar herhangi bir nedenle aile kütüğüne kayıt edilmemiş olan ve yabancı bir devletle vatandaşlık bağı bulunmayan kişilere; ana ve baba, bunların ölmüş olması halinde, varsa kardeşleri ile hısımlığını gösterir tıbbi rapor ibraz etmeleri durumunda Türk vatandaşlığını kazanır" hükmü ile 5490 sayılı Nüfus Hizmetleri Kanununun 15 inci maddesinin dördüncü fıkrasında; "Sağlık personelinin takibi dışında doğan çocukların doğum bildirimi nüfus müdürlüklerine sözlü beyanla yapılır. Her sözlü beyanda mülki idare amirinin emri ile aile hekimlerince beyanların doğruluğunun araştırılması zorunludur" hükmü çerçevesinde aile kütüklerine tescil işlemleri Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünce yürütülmektedir.
 
-### 1- Tanımlar:
+Ancak aile kütüklerine tescil işlemlerinin yapılması sürecinde, kimlik tespiti yapılması gereken ilgili kişilerin "Soybağının Tespiti Testi"nin yapılarak tıbbi rapor düzenlenmesine yönelik iş ve işlemler Bakanlığımızca yürütülmektedir.
 
-1.1- Anne/Baba/Çocuk: Soybağının tespiti testi talep edilen kişileri,
+Bu itibarla; Soybağının Tespiti Testi yapılarak tıbbi rapor düzenlenmek üzere ilçe nüfus müdürlüklerine müracaat eden talep sahiplerinin, nüfus müdürlüğünce kimlik tespiti yapılarak düzenlenecek "Kimlik Tespit Formu 1-2 (Ek-1) (Ek-2)" ile kamu sağlık kurum/kuruluşuna başvurmalarından itibaren izlenilecek işlem adımları ve dikkat edilmesi gereken genel usul ve esaslar aşağıda belirtilmektedir.
 
-1.2- Genetik Hastalıklar Değerlendirme Merkezi: Bakanlığımızca yetkilendirilmiş ve ruhsatlandırılmış moleküler genetik laboratuvarlarını,
+1- Tanımlar:
 
-1.3- Kamu Sağlık Kurum/Kuruluşu: Sağlık Bakanlığına ve üniversitelere bağlı ikinci ve üçüncü basamak sağlık tesislerini,
+1.1- Soybağının Tespiti Testi: Talep sahiplerinin tanımlanmasında ve diğer bireylerden ayırt edilmesinde etkin olan özelliklerin tespit edilmesi amacıyla yapılan testi,
 
-1.4- Numune: EDTA'lı tüpe usulüne uygun olarak alınan periferik venöz kan örneğini,
+1.2- Kimlik Tespit Formu 1: 18 (on sekiz) yaş üstü kişilerde saklı nüfus için kullanılacak formu (Ek-1),
 
-1.5- Numune Gözetim Zinciri Formu: Numunenin kimlik doğrulamasından raporlamaya kadar geçen süreçte takibini sağlayan formu,
+1.3- Kimlik Tespit Formu 2: 18 (on sekiz) yaş altı kişilerde sözlü beyanda kullanılacak formu (Ek-2),
 
-1.6- Soybağının Tespiti Testi: DNA analizi yöntemiyle biyolojik anne, baba ve çocuk arasındaki genetik bağın tespit edilmesini sağlayan testi,
+1.4- Moleküler Genetik Raporu Formu: Genetik hastalıklar değerlendirme merkezleri tarafından ilgili nüfus müdürlüğüne gönderilecek sonuç rapor formunu (Ek-3),
+
+1.5- Numune Gözetim Zinciri Formu: Numunenin kaybolmaması için, numuneyi alan kişinin, numuneyi laboratuvarda ve genetik hastalıklar değerlendirme merkezinde teslim alan kişilerin imzası bulunan formu (Ek-4),
+
+1.6- Ödeme Makbuzu: Soybağının Tespiti Testi yapılması için, talep sahipleri tarafından numunenin alınacağı hastanenin döner sermayesine yatırdığını gösterir belgeyi,
 
 1.7- Saklı Nüfus: On sekiz yaşını tamamlayıncaya kadar herhangi bir nedenle aile kütüğüne kayıt edilmemiş olan ve yabancı bir devletle vatandaşlık bağı bulunmayan kişileri,
 

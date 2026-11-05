@@ -10,7 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 727-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.741"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -20,7 +20,37 @@ sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.741"
 **Konu :** Bebek Ölümleri İzleme Sistemi
 
 ### GENELGE
-**2018/7** alon Perinatal ve Bebek Ölimier: Bilgi Formu, gere ve bebeğin hirnei hasartakta gerçeklestirilen izlem ve işlemleri, ailenin sosyo-ekonomik durumuna dair bilgilar de ISM ce valep edilecek diger belge ve bilgileri en kısa sürede temin edip göndermekle/gönderilmesini sağlamakla yükümlüdür. Ayrıca bölgesinde, sağle kuruluşu dinunda (evde, yolda v.h) meydanu gelen dilm olması halinde Ek-+*ce yer alan Sözel Otopsi Formunun hazırlanıp gönderilmesini sağlayacaktır..
+**2018/7**
+
+Ülkemizde uygulamakta olduğumuz Sağlıkta Dönüşüm Programı kapsamında yürüttüğümüz programlar sonucunda gerek anne gerekse bebek ölümlerinde önceki yıllarla kıyaslanamayacak ölçüde büyük başarılar elde edilmiş, bebek ölüm hızı binde 10'un altına düşürülmüştür. Bu rakamları daha aşağı seviyelere düşürebilmek için her bir bebek ölümünü izleyerek nedenini ortaya çıkarmak ve aynı nedenlerle oluşabilecek ölümleri önlemek amacıyla kayıt ve bildirim sistemi uygulamaya konulmuş olup ülkemizde gerçekleşen perinatal ve bebek ölümlerinin tespiti ve incelemeleri bu kapsamda yapılmaktadır.
+
+Bu çerçevede tespit ve incelemeler aşağıdaki usul ve esaslara göre yürütülecektir:
+
+1) Bildirim kriterleri;
+
+Bildirim ve incelemesi yapılacak vakalar:
+
+a) "22 hafta ve üzeri veya 500 gram ve üzeri" "ölü doğumlar",
+
+b) Gebelik süresi ve doğum ağırlığından bağımsız olarak canlı doğup 0-364 (dâhil) gün içerisinde ölen bebekler,
+
+c) Kurul kararıyla gerçekleştirilen gebelik tahliyelerinden, (a) ve (b) bendinde belirtilen kriterlerde olan vakalar.
+
+Bildirimi Ölüm Bildirim Sistemi (ÖBS) mevzuatı kapsamında yapılacak, ancak incelenmeyecek vakalar;
+
+a) 1-4 yaş çocuk ölümleri (365-1825 gün)
+
+2) Bildirim şekli:
+
+Bildirimler ölümün gerçekleştiği il tarafından yapılacaktır. Bildirimler Ölüm Bildirim Sistemi (ÖBS) mevzuatı çerçevesinde ölümün gerçekleştiği 3 (üç) iş günü içinde ilgili sağlık kuruluşunca ÖBS'ye girilecek ayrıca aynı süre içinde Ek-1'de yer alan Perinatal ve Bebek Ölümleri Bilgi Formu ile de il sağlık müdürlüğüne (İSM) gönderilecektir.
+
+3) İzleme sistemi sorumluları ve görevleri:
+
+a) Her ilde bir "İl Bebek Ölümlerini İzleme Sorumlusu" belirlenecek olup (Halk sağlığı hizmetlerinden sorumlu başkan yardımcısı ya da çocuk, ergen, kadın ve üreme sağlığı birim sorumlusunun görevlendirilmesi tercih edilmelidir), sistemin yürütme ve sekretarya işlemlerinden sorumlu olacaktır.
+
+b) Ayrıca sistemin sağlıklı bir şekilde sürdürülmesi amacıyla İSM tarafından biri hekim olmak üzere yeterli sayıda personel bu konuda çalışmak üzere görevlendirilecektir. Görevlendirilen hekim, Bebek Ölümleri İnceleme Kurulunun her toplantısına katılım sağlayarak incelemeleri tamamlanarak ÖBS arayüzüne girişi yapılan inceleme sonuçlarının kontrol ve onaylama işlemlerini yapacaktır.
+
+c) Her ilçede, ilçe sağlık müdürü ya da toplum sağlığı merkezi (TSM) başkanı; Bebek Ölümleri İnceleme Kurulu tarafından yapılacak değerlendirmede kullanılacak olan ve Ek-1'de yer alan Perinatal ve Bebek Ölümleri Bilgi Formu, gebe ve bebeğin birinci basamakta gerçekleştirilen izlem ve işlemleri, ailenin sosyo-ekonomik durumuna dair bilgiler ile İSM'ce talep edilecek diğer belge ve bilgileri en kısa sürede temin edip göndermekle/gönderilmesini sağlamakla yükümlüdür. Ayrıca bölgesinde, sağlık kuruluşu dışında (evde, yolda v.b.) meydana gelen ölüm olması halinde Ek-4'te yer alan Sözel Otopsi Formunun hazırlanıp gönderilmesini sağlayacaktır.
 
 €) Aile hekimleri sorumin oldoklan nufusta perinaal ve bebek olani olugunda EL-1 de yer alan Perital ve Bebek Otünleri Bilgi Formunu Ek-Z de ver alan doldirea kilavurundan yararlanarak dakkuracakt Ferm de bırlıkte gebe ve heheğin birinci basamakta gerşekleştirilen izlem ve işlemlerini allenın sosyo skomomik-külturei donimuna däir bilgileri ve ISM'ce talep edilecek diger belge ve bilgileri en kosa siirede teman edip baglı bulunängu dye sağhk mödadu alne
 
