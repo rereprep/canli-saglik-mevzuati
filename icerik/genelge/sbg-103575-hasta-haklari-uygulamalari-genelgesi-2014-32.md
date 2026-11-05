@@ -9,15 +9,16 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103575/hasta-haklari-uygulamalari-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.11. Hasta Hakları Uygulamaları Genelgesi (2014/32)
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü T.C. SAĞLIK BAKANLIĞI - SAĞLIK HİZMETLERI TC Sağlık Bakanlığı DENEL MÜ DÜRLCÓ0 - HASTA HAKLARI VE
+Sağlık Hizmetleri Genel Müdürlüğü T.C. SAĞLIK BAKANLIĞI - SAĞLIK HİZMETLERI TC Sağlık Bakanlığı GENEL MÜDÜRLÜĞÜ - HASTA HAKLARI VE
 
-### An quEITICN TIBBI SOSYAL HİZMETLER DAIRE BAŞKANL10I
+### An quEITICN TIBBI SOSYAL HİZMETLER DAİRE BAŞKANLIĞI
 
 Sayı : 64047795
 
@@ -57,7 +58,7 @@ d) Birden fazla kurul oluşturulması halinde sağlık kuruluşlarının bağlı
 
 e) Hasta hakları uygulamalarını il genelinde koordine eder ve bu konuda danışmanlık yapar. Gereği halinde uygulamaları yerinde denetler ve hasta hakları ihlaline sebep olabilecek hususları yerinde inceler/inceletir.
 
-1) Ihtiyaç halinde ilde hasta hakları ile ilgili seminer, toplantı ve eğitim düzenler.
+1) İhtiyaç halinde ilde hasta hakları ile ilgili seminer, toplantı ve eğitim düzenler.
 
 g) Kurul kararlarının özetini, başvuru tarihi, başvuru konusu, karar tarihi ve sayısı ile sağlık tesisi ismi belirterek kişi isimlerine yer vermeden il sağlık müdürlüğünün internet sayfasında duyurulmasını sağlar.
 
@@ -71,7 +72,7 @@ Başkan ve üyeler:
 
 Kurul; başkan, sendika işyeri temsileisi, kurum temsilcisi, dernek temsilcisi ve vatandaștan oluşur.
 
-İl Sağlık Müdürü veya görevlendireceği hasta hakları koordinatörü veya sağlık müdür yardımcısı başta olmak üzere en az lisans mezunu, hasta hakları konusunda deneyimi veya eğitimi olan, tercihen idari pozisyonu bulunan bir üye kurula başkanlık eder. Ilçede kurul oluşturulacaksa, İl Sağlık Müdürünün görevlendireceği, Ilçe sağlık müdürü veya en az lisans mezunu düzeyinde hasta hakları konusunda deneyimi veya eğitimi olan bir üye kurula başkanlık
+İl Sağlık Müdürü veya görevlendireceği hasta hakları koordinatörü veya sağlık müdür yardımcısı başta olmak üzere en az lisans mezunu, hasta hakları konusunda deneyimi veya eğitimi olan, tercihen idari pozisyonu bulunan bir üye kurula başkanlık eder. İlçede kurul oluşturulacaksa, İl Sağlık Müdürünün görevlendireceği, İlçe sağlık müdürü veya en az lisans mezunu düzeyinde hasta hakları konusunda deneyimi veya eğitimi olan bir üye kurula başkanlık
 
 Diğer kurul üyeleri:
 
@@ -145,7 +146,7 @@ e) Sekretaryaya yapılan hasta haklarına ilişkin başvuruları HBBS'ye kaydede
 
 ### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
-TC. Soğak Bakanlığ
+TC. Sağlık Bakanlığ
 
 1) Görev yaptığı kurula bağlanması uygun görülen sağlık tesisini HBBS üzerinde kurulla ilişkilendirir. Gereği halinde ilgili sağlık tesisinin başka bir kurula bağlanması için il koordinatörüne aktarım talebinde bulunur.
 
@@ -155,7 +156,7 @@ Iletişim birimi:
 
 a) Hasta hakları uygulamalarının yürütülmesi amacıyla, kamu sağlık tesisleri, üniversite sağlık tesisleri, askeri hastaneler, kamu ve özel ağız diş sağlığı tesisleri, özel hastaneler, tıp merkezleri, poliklinikler ve toplum sağlığı merkezlerinde iletişim birimi kurulur. Toplum Sağlığı Merkezine bağlı birimler ile entegre sağlık hizmeti sunulan birinci basamak kamu sağlık tesislerinde hasta hakları uygulamaları toplum sağlığı merkezlerinde kurulan hasta iletişim birimince yürütülür.
 
-Ozel muayenehane, 112 acil sağlık hizmetleri ve diğer sağlık birimlerine ilişkin başvurular Il veya Ilçe Sağhık Müdürlüğüne yapılır. Bu başvurular genel hükümlere göre degerlendirilir.
+Ozel muayenehane, 112 acil sağlık hizmetleri ve diğer sağlık birimlerine ilişkin başvurular Il veya İlçe Sağlık Müdürlüğüne yapılır. Bu başvurular genel hükümlere göre degerlendirilir.
 
 b) Hasta iletişim birimi yeteri kadar sağlık hizmetleri sınıfi ve idari hizmetler sınıfi çalışanından oluşur.
 
@@ -169,7 +170,7 @@ e) Hasta iletişim birimi, poliklinik katında, kolay ulaşılabilir bir yerde v
 
 Hasta iletişim Birimi sorumlusu
 
-a) Hasta iletişim birim sorumlusu öncelikli olarak hasta hakları konusunda eğitimi bulunan sosyal hizmet uzmanı, psikolog, iletişim fakültesi mezunları ya da müfredatında iletişim, halkla ilişkiler dersi bulunan fakülteler olmak üzere en az lisans mezunu kişiler arasından sağlık kuruluşunun teklifi, varsa sağlık kuruluşunun idari olarak bağhı olduğu ildeki üst kuruluşunun ve sağlık müdürlüğünün uygun görüşü, Valiliğin onayı ile görevlendirilir. Görevine aynı usulle
+a) Hasta iletişim birim sorumlusu öncelikli olarak hasta hakları konusunda eğitimi bulunan sosyal hizmet uzmanı, psikolog, iletişim fakültesi mezunları ya da müfredatında iletişim, halkla ilişkiler dersi bulunan fakülteler olmak üzere en az lisans mezunu kişiler arasından sağlık kuruluşunun teklifi, varsa sağlık kuruluşunun idari olarak bağlı olduğu ildeki üst kuruluşunun ve sağlık müdürlüğünün uygun görüşü, Valiliğin onayı ile görevlendirilir. Görevine aynı usulle
 
 Bu genelgenin yayım tarihinde hasta hakları birim sorumlusu olarak çalışanlar, eğitim durumları ve unvanlarına bakılmaksızın bir defaya mahsus olmak üzere hiçbir onaya gerek kalmaksızın görevlerine devam ederler. Görevlerinden ayrılmaları halinde bu hakları sona erer.
 
@@ -183,7 +184,7 @@ T.C.
 
 ### SAĞLIK BAKANLIGI
 
-Sağlık Hizmetleri Genel Müdürlüğü TC Sağak Bakanlığı
+Sağlık Hizmetleri Genel Müdürlüğü TC Sağlık Bakanlığıı
 
 1- Hasta odaklı hizmet anlayışı eğitimi(hasta hekim iletişimi, Bakanlık uygulamaları, hasta hakları mevzuatı).
 

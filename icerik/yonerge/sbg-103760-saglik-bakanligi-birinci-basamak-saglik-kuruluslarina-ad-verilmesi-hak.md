@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103760/saglik-bakanligi-birinci-basama
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 **T.C.**  

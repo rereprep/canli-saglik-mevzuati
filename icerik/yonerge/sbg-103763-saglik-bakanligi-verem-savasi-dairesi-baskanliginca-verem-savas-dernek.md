@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103763/saglik-bakanligi-verem-savasi-d
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 **T.C.**  

@@ -9,6 +9,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 konu: "Düzenlemenin amacı ve kapsamı ile uygulama usul ve esaslarını belirler."
 tarih: ""
 sayi: ""
@@ -20,24 +21,22 @@ Türkiye Halk Sağlığı Kurumu Başkanlığı
 
 T.C. Sağlık Bakanlığı
 
-### T.C. SAĞLIK BAKANLIĞI - TÜRKİYE HALK SAĞLIĞI KURUMU • THSK BİRİNCİ BASAMAK SAĞLIK KURULUŞLARI PLANLAMA VE ORGANİZASYON DAİRE BAŞKANLIĞI
+### T.C. Sağlık Bakanlığı - Türkiye Halk Sağlığı Kurumu Başkanlığı
 
-Sayı : 58171140- 15.11.2013 18:05 - 2013.5679.125371 Konu : Sağlık Bakanlığı Birinci Basamak Sağlık
-
-
-Kuruluşlarına Ad Verilmesi Hakkında Yönerge
+**Sayı:** 58171140- 15.11.2013 18:05 - 2013.5679.125371
+**Konu:** Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge
 
 ### BAKANLIK MAKAMINA
 
 663 Sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname" gereğince Bakanlığımız teşkilatı yeniden yapılandırılmış ve Bakanlık politika ve hedeflerine uygun olarak, temel sağlık hizmetlerini yürütmekle görevli, Bakanlığa bağlı Türkiye Halk Sağlığı Kurumu kurulmuş ve birinci basamak sağlık hizmetlerini sunan kuruluşlar yeniden yapılandırılmıştır.
 
-Yeniden yapılandırma sonrasında, Bakanlığımızca planlanan, yatırım programına alınan ve yapımı Devlet veya hayırsever tarafından gerçekleştirilen birinci basamak sağlık kuruluşlarına ad verilmesine ilişkin usul ve esasların yeniden belirlenmesi ihtiyacı hâsıl olmuş olup konuyla ilgili hususları düzenlemek amacıyla 'Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge" hazırlanmıştır.
+Yeniden yapılandırma sonrasında, Bakanlığımızca planlanan, yatırım programına alınan ve yapımı Devlet veya hayırsever tarafından gerçekleştirilen birinci basamak sağlık kuruluşlarına ad verilmesine ilişkin usul ve esasların yeniden belirlenmesi ihtiyacı hâsıl olmuş olup konuyla ilgili hususları düzenlemek amacıyla "Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge" hazırlanmıştır.
 
 Makamınızca da uygun görülmesi halinde 26/04/2004 tarihli ve 3942 sayılı Makam Onayı ile yürürlüğe giren "Sağlık Bakanlığı Birinci Basamak Sağlık Kurum ve Kuruluşlarının Açılması, Kapatılması ve Bunlara Ad Verilmesi Hakkında Yönerge" nin yürürlükten kaldırılması ve "Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge" nin onaylanması ve yürürlüğe konulması hususlarını;
 
 Emir ve tensiplerinize arz ederim.
 
-Doç. DI. Turan BUZGAN
+Doç. Dr. Turan BUZGAN
 
 Kurum Başkanı
 
@@ -51,17 +50,21 @@ Müsteşar
 
 2013 Dr. Mehmet MÜEZZİNOĞLU Bakan
 
-Türkiye Halk Sağlığı Kurumu Başkanlığı Birinci Basamak Sağlık Kuruluşları Planlama ve Organizasyon Daire Başkanlığı Tel: 0 (312) 565 59 51 Faks: 0 (312) 565 59 24 e-posta: birincibasplanlamadb@thsk.gov.tr
-
 ### SAĞLIK BAKANLIĞI BİRİNCİ BASAMAK SAĞLIK KURULUŞLARINA AD VERİLMESİ HAKKINDA YÖNERGE
 
 #### Amaç
 
-**Madde 1 –** (1) Bu Yönergenin amacı; birinci basamak sağlık hizmeti sunan kuruluşlara ad verilmesine ilişkin usul ve esasları belirlemektir. Kapsam
+**Madde 1 –** (1) Bu Yönergenin amacı; birinci basamak sağlık hizmeti sunan kuruluşlara ad verilmesine ilişkin usul ve esasları belirlemektir.
 
-**Madde 2 –** (1) Bu Yönerge, birinci basamak sağlık hizmeti veren aile sağlığı merkezleri, halk sağlığı laboratuvarları, toplum sağlığı merkezleri ile bu merkezlere bağlı hizmet birimlerini, entegre ilçe devlet hastanelerini ve acil sağlık hizmetleri istasyonları ile acil sağlık hizmetleri komuta kontrol merkezlerini kapsar. Hukuki dayanak
+#### Kapsam
 
-**Madde 3 –** (1) Bu Yönerge; 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ve 5258 sayılı Aile Hekimliği Kanunu'na dayanılarak hazırlanmıştır. Tanımlar
+**Madde 2 –** (1) Bu Yönerge, birinci basamak sağlık hizmeti veren aile sağlığı merkezleri, halk sağlığı laboratuvarları, toplum sağlığı merkezleri ile bu merkezlere bağlı hizmet birimlerini, entegre ilçe devlet hastanelerini ve acil sağlık hizmetleri istasyonları ile acil sağlık hizmetleri komuta kontrol merkezlerini kapsar.
+
+#### Hukuki dayanak
+
+**Madde 3 –** (1) Bu Yönerge; 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ve 5258 sayılı Aile Hekimliği Kanunu'na dayanılarak hazırlanmıştır.
+
+#### Tanımlar
 
 **Madde 4 –** (1) Bu Yönergede geçen;
 
@@ -77,11 +80,15 @@ d) Birinci basamak sağlık kuruluşu: Aile sağlığı merkezi, toplum sağlı�
 
 e) Genel müdürlük: Acil Sağlık Hizmetleri Genel Müdürlüğünü,
 
-1) Komuta kontrol merkezi: Acil sağlık çağrılarının karşılandığı, değerlendirildiği ve ambulansların sevk ve idare edildiği merkezi,
+f) Komuta kontrol merkezi: Acil sağlık çağrılarının karşılandığı, değerlendirildiği ve ambulansların sevk ve idare edildiği merkezi,
 
 g) Kurum: Türkiye Halk Sağlığı Kurumunu,
 
-h) Müdürlük: Halk sağlığı müdürlüğünü, acil sağlık hizmetleri istasyonu ve komuta kontrol merkezleri için il sağlık müdürlüğünü, Ifade eder. Birinci basamak sağlık kuruluşuna ad verme
+h) Müdürlük: Halk sağlığı müdürlüğünü, acil sağlık hizmetleri istasyonu ve komuta kontrol merkezleri için il sağlık müdürlüğünü,
+
+ifade eder.
+
+#### Birinci basamak sağlık kuruluşuna ad verme
 
 **Madde 5 –** (1) Birinci basamak sağlık kuruluşuna verilecek adı; kuruluşun genel ve özel amaçlarına, seviyesine, bulunduğu çevrenin sosyal, kültürel, tarihi özelliğine ve şartlarına uygun olması, belli bir anlam taşıması gerekir.
 
@@ -109,7 +116,7 @@ a)Arsa bağışlandığı, İnşaat keşif bedelinin %10 ile %50'si arasında ma
 
 b) İnşaat keşif bedelinin %l'i ile %10'u arasında mali katkıda bulunanlara ise Valilik tarafından teşekkür belgesi verilir.
 
-()Birinci basamak sağlık kuruluşu bina ve tesislerine adları verilecek kişilerin çevrede olumlu izlenimler bakmış olması gerekir. Ancak, daha sonra kamuoyunda olumsuz izlenimler bıraktığı anlaşılan, toplum nazarında itibar kaybına uğradığı hususunda genel kabulün oluştuğu kişilere ait adlar ilgili Valiliğin görüşü alınmak suretiyle Müdürlüğün teklifi ve Kurum/Genel Müdürlük onayı ile iptal edilebilir.
+(3) Birinci basamak sağlık kuruluşu bina ve tesislerine adları verilecek kişilerin çevrede olumlu izlenimler bırakmış olması gerekir. Ancak, daha sonra kamuoyunda olumsuz izlenimler bıraktığı anlaşılan, toplum nazarında itibar kaybına uğradığı hususunda genel kabulün oluştuğu kişilere ait adlar ilgili Valiliğin görüşü alınmak suretiyle Müdürlüğün teklifi ve Kurum/Genel Müdürlük onayı ile iptal edilebilir.
 
 (4) Birinci basamak sağlık kuruluşunun herhangi bir nedenle kapanması durumunda hayırseverler herhangi bir hak iddiasında bulunamaz.
 

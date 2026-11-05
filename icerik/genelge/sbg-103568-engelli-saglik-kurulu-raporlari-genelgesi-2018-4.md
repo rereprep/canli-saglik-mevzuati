@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103568/engelli-saglik-kurulu-raporlari
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.45. Engelli Sağlık Kurulu Raporları Genelgesi (2018/4)
@@ -21,7 +22,7 @@ T.C. 16/02/2018 14:27 - 23642684 - 010.99 - E.92-300
 
 00063047878 TC Sağlik Bakan
 
-Serel Mudur tugu Sayı : 23642684/ Konu : Engelli Sağhık Kurulu Raporları
+Serel Mudur tugu Sayı : 23642684/ Konu : Engelli Sağlık Kurulu Raporları
 
 ### GENELGE 2018/.4.
 
@@ -63,4 +64,4 @@ Bakan a.
 
 Müsteşar
 
-ми .
+и .

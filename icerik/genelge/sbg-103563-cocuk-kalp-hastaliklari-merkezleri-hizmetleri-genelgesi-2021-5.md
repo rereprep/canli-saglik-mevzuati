@@ -10,6 +10,7 @@ durum: "yürürlükte"
 tarih: "2021-07-06"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 
@@ -69,7 +70,7 @@ Komisyon: Çocuk kalp sağlığı hizmetlerinin planlanması, geliştirilmesi ve
 
 Koordinatör uzman tabip: Çocuk kalp hastalıkları merkezinde verilen hizmetlerin bir ekip anlayışı içerisinde planlanması ve ilgili diğer kliniklerle koordinasyon ve iş birliği içerisinde yürütülmesinden sorumlu, ilgili sağlık tesisi yönetimi tarafından çocuk kalp hastalıkları merkezlerinde çocuk kardiyolojisi veya çocuk kalp ve damar cerrahisi uzmanı tabiplerden birisi olarak belirlenen
 
-### ÇOCUK KALP HASTALIKLARI MERKEZİ HİZMETLERİNE İLİŞKİN GENEL ESASLARİZMETLERİNE İLİŞKİN GENEL ESASLAR
+### ÇOCUK KALP HASTALIKLARI MERKEZİ HİZMETLERİNE İLİŞKİN GENEL ESASLAR
 
 1) Bu Genelge, bünyesinde çocuk kalp hastalıkları merkezi bulunan Bakanlığa, üniversitelere, gerçek kişilere ve özel hukuk tüzel kişilerine ait yataklı sağlık tesisleri ile çocuk kalp
 
@@ -145,7 +146,7 @@ Sağlık tesisi yönetimi tarafından ekip üyeleri gerektiğinde değiştirileb
 
 Yeni açılacak çocuk kalp hastalıkları merkezindeki uzman tabip ve tabip dışı personel, gerektiğinde koordinatör çocuk kalp hastalıkları merkezi tarafından eğitime tabi tutulur ve eğitim süresi yeterliliği koordinatör çocuk kalp hastalıkları merkezi tarafından belirlenir.
 
-### Yeni açılacak çocuk kalp hastalıkları merkezinde müdahale edilecek vaka olduğunda
+Yeni açılacak çocuk kalp hastalıkları merkezinde müdahale edilecek vaka olduğunda:
 
 hastanın tıbbi bilgileri, girişimsel kardiyolojik işlemler ve diğer gerekli görülen tetkik ve tahliller koordinatör çocuk kalp hastalıkları merkezindeki ekibe gönderilir. Ortak karar ile hastaya yapılacak tedavi belirlenir. Bu doğrultuda gereklilik halinde koordinatör çocuk kalp hastalıkları merkezindeki ekip işleme dâhil olur.
 
@@ -157,21 +158,21 @@ Koordinatör çocuk kalp hastalıkları merkezinin koordinasyon görevi; yeni a�
 
 ve koordineli yapılabilmesi ve hastalara en doğru tedavinin uygulanması için ortak konsey oluşturulur.
 
-### Çocuk kalp hastalıkları merkezi konseyi, en az bir çocuk kardiyolojisi uzmanı ve en az
+Çocuk kalp hastalıkları merkezi konseyi, en az bir çocuk kardiyolojisi uzmanı ve en az
 
 iki çocuk kalp ve damar cerrahisi uzmanından oluşur. Sağlık tesislerinde görevli ilgili tüm uzmanlar konseyin doğal üyesidir.
 
-### Konsey üyeleri dönüşümlü olarak konseye başkanlık yapar. Konseyin çalışma programı
+Konsey üyeleri dönüşümlü olarak konseye başkanlık yapar. Konseyin çalışma programı
 
 sağlık tesisi yönetimine bildirilir.
 
 4) Günlük yapılan girişimsel kardiyolojik işlem sonucu ameliyat kararı alınan hastaların tedavisi o günün konsültan hekimi veya konsültan hekimin bağlı olduğu klinik tarafından yapılır. Ancak hastanın hekim seçme özgürlüğü ayrıca dikkate alınır.
 
-### Çocuk kalp hastalıkları merkezlerinde tüm kararlar elektronik kayıt sisteminde kayıt
+Çocuk kalp hastalıkları merkezlerinde tüm kararlar elektronik kayıt sisteminde kayıt
 
 altına alınır ve istendiğinde yapılan işlemlerle ilgili raporlar alınır.
 
-### Konsey odası sağlık tesisi yönetimi tarafından tahsis edilmiş ve içinde hastalara ait tüm
+Konsey odası sağlık tesisi yönetimi tarafından tahsis edilmiş ve içinde hastalara ait tüm
 
 kayıtları izlemeye uygun gerekli araç ve gereçler ile donatılır.
 

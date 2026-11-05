@@ -11,6 +11,7 @@ tarih: "2005-10-13"
 konu: "Ruh hastalarının sevk ve takip süreçlerinde uygulanacak usulü düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.47. Ruh Hastalarının Sevk ve Takipleri Genelgesi (2005/155)
@@ -53,13 +54,13 @@ Bu cümleden olarak;
 
 5) Hastaların hastaneden çıkışlarında geldikleri il sağlık müdürlüklerine ayaktan tedavi, takip ve kontrolleri amacıyla özellikle (RS 20) formu, ilgili bölge hastanesince doldurularak il müdürlüklerine mutlak suretle gönderilmesi sağlanacaktır.
 
-6) Il içindeki kronik hastaların il müdürlüklerince profilinin çıkartılması ile takiplerinin düzenli olması sağlanacak, ikame tedavileri izleme ve kontrolleri bağlı bulunduğu sağlık ocağı ve ilgili hastanece (RS 30) kullanılarak konunun hassasiyetine binaen il müdürlüğü ile sürekli koordinasyon halinde yürütülecektir. (RS 30) bilgilerinin ayrıca aylık olarak il müdürlüğüne gönderilmesi sağlanacaktır.
+6) İl içindeki kronik hastaların il müdürlüklerince profilinin çıkartılması ile takiplerinin düzenli olması sağlanacak, ikame tedavileri izleme ve kontrolleri bağlı bulunduğu sağlık ocağı ve ilgili hastanece (RS 30) kullanılarak konunun hassasiyetine binaen il müdürlüğü ile sürekli koordinasyon halinde yürütülecektir. (RS 30) bilgilerinin ayrıca aylık olarak il müdürlüğüne gönderilmesi sağlanacaktır.
 
-7) (RS 40) formunun doldurulmasında tanı gruplamaları, yaş gruplamaları, eğitim durumu, tedavi süresi, cinsiyet ayırımının (intihar girişimi dahil) sağlıklı yapılması ve yıl içinde altışar aylık iki dönem şeklinde Temel Sağlık Istatistik Modülü Çalışması kapsamında (TSİM); işlerlik içerisinde ise elektronik ortamda, değil ise normal yoldan herhangi bir gecikmeye neden olmaksızın Bakanlığımıza gönderilecektir. Ayrıca bu konuyla ilgili personelin eğitimi il müdürlüklerince düzenli olarak sağlanacaktır.
+7) (RS 40) formunun doldurulmasında tanı gruplamaları, yaş gruplamaları, eğitim durumu, tedavi süresi, cinsiyet ayırımının (intihar girişimi dahil) sağlıklı yapılması ve yıl içinde altışar aylık iki dönem şeklinde Temel Sağlık İstatistik Modülü Çalışması kapsamında (TSİM); işlerlik içerisinde ise elektronik ortamda, değil ise normal yoldan herhangi bir gecikmeye neden olmaksızın Bakanlığımıza gönderilecektir. Ayrıca bu konuyla ilgili personelin eğitimi il müdürlüklerince düzenli olarak sağlanacaktır.
 
 8) (RS 50) formu ile ilgili olarak, Ek-l'de gösterilen beş bölge hastanesince verilerin karşılaştırılması açısından tanımlanan form düzenli olarak doldurulup, altışar aylık iki dönem şeklinde Bakanlığımıza intikali sağlanacaktır.
 
-9) Bulunduğu ilden bölge hastanesine sevk edilen ancak, kendi imkanlarıyla intikalini sağlayan hasta veya yakınlarından, ilgili bölge hastanesince mutlaka (RS 10) formu alınacaktır. Ayrıca; kendiliğinden kendi bölge hastanesi veya diğer bölgelerden herhangi birine başvuran hastaların tedavilerini müteakiben (RS 20) formu ile anılan bölge hastanelerince illerine gönderilmeleri sağlanacaktır. Il müdürlüklerince de, (RS 40) formu düzenlenirken bu hastaların (RS 10 ile giden, RS 20 ile gelen) grubunun içerisinde değerlendirilmeleri temin edilecektir.
+9) Bulunduğu ilden bölge hastanesine sevk edilen ancak, kendi imkanlarıyla intikalini sağlayan hasta veya yakınlarından, ilgili bölge hastanesince mutlaka (RS 10) formu alınacaktır. Ayrıca; kendiliğinden kendi bölge hastanesi veya diğer bölgelerden herhangi birine başvuran hastaların tedavilerini müteakiben (RS 20) formu ile anılan bölge hastanelerince illerine gönderilmeleri sağlanacaktır. İl müdürlüklerince de, (RS 40) formu düzenlenirken bu hastaların (RS 10 ile giden, RS 20 ile gelen) grubunun içerisinde değerlendirilmeleri temin edilecektir.
 
 10) Daha önce bölge hastanesinde yatarak tedavi görmüş ve iline gönderilmiş hastaların, kontrol amacıyla tekrar bölge hastanesine başvurması halinde beraberlerinde tekrar (RS 20) formu ile iline gönderilmesi, ilgili hastanın tedavisinin değişebileceği noktasından hareketle yerinde olacaktır. II müdürlüklerinin bu hususa dikkat ederek söz edilen durumlarda mükerrerliğin önlenmesi amacıyla, (RS 20) bilgilerinin (RS 40)a aktarılmamasına özen gösterilecektir.
 
@@ -73,9 +74,9 @@ III- Ruh Sağlığı Bozuk Olan Şahıslarla Ilgili Olarak Dikkate Alınması Ge
 
 Kanun'un 409 uncu maddenin ikinci fikrasında, Akıl hastalığı veya akıl zayıflığı sebebiyle kısıtlamaya ancak resmi sağlık kurulu raporu üzerine karar verilir. Häkim, karar vermeden önce, kurul raporunu göz önünde tutarak kısıtlanması istenen kişiyi dinleyebilir."; 474 üncü maddesinde ise, "Akıl hastalığı veya akıl zayıflığı yüzünden kısıtlanmış olan kişi üzerindeki vesayetin kaldırılmasına, ancak kısıtlama sebebinin ortadan kalkmış olduğunun resmi sağlık kurulu raporu ile belirlenmesi hålinde karar verilebiliri hükümleri getirilmiştir.
 
-Kanun'un 397 nci maddesinde, "vesayet makamının, sulh hukuk mahkemesi olduğu"; 462 nci maddesinin (13) numaralı bendinde, iVesayet altındaki kişinin bir eğitim, bakım veya sağlık kurumuna yerleştirilmesinin, vesayet makamının iznine bağlı bulunduğu" düzenlenmiştir.
+Kanun'un 397 nci maddesinde, "vesayet makamının, sulh hukuk mahkemesi olduğu"; 462 nci maddesinin (13) numaralı bendinde, "Vesayet altındaki kişinin bir eğitim, bakım veya sağlık kurumuna yerleştirilmesinin, vesayet makamının iznine bağlı bulunduğu" düzenlenmiştir.
 
-Koruma amacıyla özgürlüğün kısıtlanması konusunda Kanun'un 432 ilå 437 nci maddelerinde düzenleme getirilmiştir. Kanun'un 432 nci maddesinde, "Akıl hastalığı veya akıl zayıflığı sebeplerinden biriyle toplum için tehlike oluşturan her ergin kişinin, kişisel korunmasının başka şekilde sağlanamaması hâlinde, tedavisi, eğitimi veya ıslahı için elverişli bir kuruma yerleştirileceği veya alıkonulabileceği; görevlerini yaparlarken bu sebeplerden birinin varlığını öğrenen kamu görevlilerinin, bu durumu hemen yetkili vesayet makamına bildirmek zorunda oldukları" yönünde hükme yer verilerek, devamı maddelerinde bu konuda yapılacak iş ve işlemlere dair hükümler sevk
+Koruma amacıyla özgürlüğün kısıtlanması konusunda Kanun'un 432 ilå 437 nci maddelerinde düzenleme getirilmiştir. Kanun'un 432 nci maddesinde, "Akıl hastalığı veya akıl zayıflığı sebeplerinden biriyle toplum için tehlike oluşturan her ergin kişinin, kişisel korunmasının başka şekilde sağlanamaması hâlinde, tedavisi, eğitimi veya ıslahı için elverişli bir kuruma yerleştirileceği veya alıkonulabileceği; görevlerini yaparlarken bu sebeplerden birinin varlığını öğrenen kamu görevlilerinin, bu durumu hemen yetkili vesayet makamına bildirmek zorunda oldukları" yönünde hükme yer verilerek, devamı maddelerinde bu konuda yapılacak iş ve işlemlere dair hükümler sevk edilmiştir.
 
 Türk Medeni Kanunu'nun 446 nci ve 447 nci maddelerinde "küçükler" ve "kısıtlılar" bakımından,iküçüklerin, koruma amacıyla bir kuruma yerleştirilmesine vasinin başvurusu üzerine vesayet makamının veya gecikmesinde sakınca bulunan hâllerde bizzat vasinin karar vereceği ve durumu derhal vesayet makamına bildireceği"; "kısıtlının korunması için gecikmesinde sakınca bulunan hållerde vasinin, koruma amacıyla özgürlüğün kısıtlanmasına ilişkin hükümlere göre kısıtlıyı bir kuruma yerleștirebileceği veya orada alıkoyabileceği ve durumu derhal vesayet makamına bildireceği" yönünde hükümler getirilerek vasinin görevleri gösterilmiştir.
 

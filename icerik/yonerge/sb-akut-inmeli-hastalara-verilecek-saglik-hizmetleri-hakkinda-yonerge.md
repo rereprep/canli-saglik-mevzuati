@@ -9,6 +9,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 60-6
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.7. Akut İnmeli Hastalara Verilecek Sağlık Hizmetleri Hakkında Yönerge
@@ -61,37 +62,37 @@ Bakan
 
 **MADDE 3 –** (1) Bu Yönerge, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncül maddesinin (c) bendi ve 9 uncu maddesine, 10/07/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddesine dayanılarak hazırlanmıştır.
 
-#### Tanimlar
+#### Tanımlar
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) Bilim Komisyonu: Bu Yönergenin 12 nei maddesine göre Bakanlık onayı ile kurulan Akut İnme Bilim Komisyonunu, inme merkezlerini,
+b) Bilim Komisyonu: Bu Yönergenin 12 nci maddesine göre Bakanlık onayı ile kurulan Akut İnme Bilim Komisyonunu, inme merkezlerini,
 
-ç) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
+c) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
 d) Hasta: Akut serebral iskemi, intraserebral kanama ve subaraknoid kanama nedeniyle akut inme tablosundaki hastayı,
 
-e) Inceleme komisyonu: Inme üniteleri ve inme merkezlerinin bölgesel düzeyde koordinasyonu, geliştirilmesi, tescili ve denetimi için bu Yönergenin 13 üncü Maddesine göre illerde teşkil edilen inceleme, değerlendirme ve denetim komisyonunu,
+e) İnceleme komisyonu: İnme üniteleri ve inme merkezlerinin bölgesel düzeyde koordinasyonu, geliştirilmesi, tescili ve denetimi için bu Yönergenin 13 üncü Maddesine göre illerde teşkil edilen inceleme, değerlendirme ve denetim komisyonunu,
 
-f) Inme ünitesi: 6 neı maddede yer alan şartları taşıyan ve akut iskemik inmeli ve intraserebral kanamalı hastaların takip ve tedavisinin yedi gün yirmi dört saat (7/24) hizmet esasına dayalı olarak sağlandığı ve intravenöz (IV) trombolitik tedavinin yapıldığı birimi,
+f) İnme ünitesi: 6 ncı maddede yer alan şartları taşıyan ve akut iskemik inmeli ve intraserebral kanamalı hastaların takip ve tedavisinin yedi gün yirmi dört saat (7/24) hizmet esasına dayalı olarak sağlandığı ve intravenöz (IV) trombolitik tedavinin yapıldığı birimi,
 
-### S. C.+ 055 F E M2 TLER
 
-g) Inme merkezi: 7 nci maddede yer alan şartları taşıyan ve IV trombolitik tedavi yanında akut inmeli hastalara invaziv endovasküler tedavilerin yedi gün yirmi dört saat (7/24) hizmet esasına dayalı olarak yapıldığı birimi,
 
-ğ) Müdürlük: Il sağlık müdürlüğünü,
+g) İnme merkezi: 7 nci maddede yer alan şartları taşıyan ve IV trombolitik tedavi yanında akut inmeli hastalara invaziv endovasküler tedavilerin yedi gün yirmi dört saat (7/24) hizmet esasına dayalı olarak yapıldığı birimi,
+
+ğ) Müdürlük: İl sağlık müdürlüğünü,
 
 h) Nörogirişim uygulamaları: Akut inme tanı ve tedavisinde kullanılan endovasküler girişim yöntemlerini,
 
-1) Sağlık tesisi: Akut inmeli hastaların tanı ve tedavisinin yapıldığı, Sağlık Bakanlığına devlet ve vakıf üniversitelerine, diğer kamu kurumlarına, özel sektöre ait yataklı sağhk kuruluşlarını,
+ı) Sağlık tesisi: Akut inmeli hastaların tanı ve tedavisinin yapıldığı, Sağlık Bakanlığına devlet ve vakıf üniversitelerine, diğer kamu kurumlarına, özel sektöre ait yataklı sağlık kuruluşlarını,
 
-i) Sorumlu tabip: Inme ünitesi ve inme merkezindeki tüm uygulamalardan sorumlu nöroloji uzmanını,
+i) Sorumlu tabip: İnme ünitesi ve inme merkezindeki tüm uygulamalardan sorumlu nöroloji uzmanını,
 
 j) Yönetici: Sağlık Bakanlığına ait sağlık tesisleri için hastane başhekimini, üniversitelere ait sağlık tesisleri için sağlık uygulama ve araştırma merkezi başhekimini, özel sağlık tesisleri için mesul müdürü,
 
-k) 112 KKM: Valiliklere bağlı ortak çağrı merkezi veya 112 II Ambulans Servisi Baştabipliğine bağlı Komuta Kontrol Merkezini,
+k) 112 KKM: Valiliklere bağlı ortak çağrı merkezi veya 112 İl Ambulans Servisi Baştabipliğine bağlı Komuta Kontrol Merkezini,
 
 ## İKİNCİ BÖLÜM
 
@@ -103,7 +104,7 @@ Genel Şartlar, Birimlerin Özellikleri, Nörogirişim Uygulamaları, Sevk Esasl
 
 **MADDE 5 –** (1) Bakanlık planlamalarına uygun olarak yataklı sağlık tesisleri bünyesinde akut inmeli hastaların tanı, tedavi ve takibini sağlamak üzere birimler oluşturulur. Bu birimler, bünyesinde faaliyet göstereceği sağlık tesisinin asgari standartlarına göre inme ünitesi veya inme merkezi şeklinde nöroloji kliniğine bağlı olarak yapılandırılır.
 
-(2) Inme birimleri, hastanın acil tanısı ile IV trombolitik tedavi ve invaziv endovasküler tedaviler başta olmak üzere akut tedavisini hastalığın belirti ve bulgularının ortaya çıkmasından sonraki ilk saatlerde tamamlayabilmek üzere, yedi gün yirmi dört saat (7/24) hizmet esasına dayalı olarak müdürlük, 112 KKM ve diğer inme birimleri ile bölgesel koordinasyon içinde çalışır.
+(2) İnme birimleri, hastanın acil tanısı ile IV trombolitik tedavi ve invaziv endovasküler tedaviler başta olmak üzere akut tedavisini hastalığın belirti ve bulgularının ortaya çıkmasından sonraki ilk saatlerde tamamlayabilmek üzere, yedi gün yirmi dört saat (7/24) hizmet esasına dayalı olarak müdürlük, 112 KKM ve diğer inme birimleri ile bölgesel koordinasyon içinde çalışır.
 
 (3) Yönetici, bu yönerge gereklerini sağlamak üzere sağlık tesisi bünyesinde ilgili tüm sağlık çalışanlarının ve sağlık hizmet birimlerinin katılımıyla bir akut inme ekibi oluşturur.
 
@@ -115,15 +116,15 @@ Genel Şartlar, Birimlerin Özellikleri, Nörogirişim Uygulamaları, Sevk Esasl
 
 #### İnme ünitelerinin özellikleri
 
-**MADDE 6 –** (1) Inme üniteleri, inme bulguları ile uygun zaman aralığında ulaşan hastalara, IV trombolitik tedavinin yapıldığı ve inme merkezlerinde uygulanabilecek tedavilere ihtiyacı olan hastaların belirlenerek sevk ve organizasyon sürecinin yürütüldüğu
+**MADDE 6 –** (1) İnme üniteleri, inme bulguları ile uygun zaman aralığında ulaşan hastalara, IV trombolitik tedavinin yapıldığı ve inme merkezlerinde uygulanabilecek tedavilere ihtiyacı olan hastaların belirlenerek sevk ve organizasyon sürecinin yürütüldüğu
 
 (2) İnme üniteleri, bu Yönergenin ekindeki Ek-I'de yer alan asgari personel, donanım
 
 #### İnme merkezinin özellikleri
 
-**MADDE 7 –** (1) Inme merkezleri, inme bulguları ile uygun zaman aralığında sağlık tesisine ulaşan hastalara, IV trombolitik tedavilerin yanı sıra her türlü endovasküler girişim yöntemlerinin uygulandığı birimlerdir.
+**MADDE 7 –** (1) İnme merkezleri, inme bulguları ile uygun zaman aralığında sağlık tesisine ulaşan hastalara, IV trombolitik tedavilerin yanı sıra her türlü endovasküler girişim yöntemlerinin uygulandığı birimlerdir.
 
-(2) Inme merkezleri, bu Yönergenin ekindeki Ek-l'de yer alan asgari personel, donanım ve hizmet standartlarını taşır.
+(2) İnme merkezleri, bu Yönergenin ekindeki Ek-l'de yer alan asgari personel, donanım ve hizmet standartlarını taşır.
 
 #### Nörogirişim uygulamaları
 
@@ -141,9 +142,9 @@ c) Nörogirişim yapacak uzman tabipler en az 20 (yirmi) baş-boyun bölgesi eks
 
 **MADDE 9 –** (1) Hastaların tanı ve tedavisi ile sevk ve nakil işlemleri sürecinde bu Yönergenin ekinde yer alan algoritmaların temel alınması esas olmakla birlikte mücbir nedenlerle takip edilememesi veya sağlık sistemindeki yeni gelişmeler ışığında yeni yaklaşımların gelişmesi durumunda hasta için en uygun işlemlerin yürütülmesi sağlanır.
 
-a) 112 Il Ambulans Sistemine başvurulması ve ilk sağlık tesisine nakil öncesi durumu için Ek-3,
+a) 112 İl Ambulans Sistemine başvurulması ve ilk sağlık tesisine nakil öncesi durumu için Ek-3,
 
-b) Acil servise girişi yapılan hastalar için Inme Algoritması Ek-4,
+b) Acil servise girişi yapılan hastalar için İnme Algoritması Ek-4,
 
 c) Akut inmeli hastaların sağlık tesisinde yatış sürecinde Ek-5,
 
@@ -183,9 +184,9 @@ temel alınarak süreçler takip edilir.
 
 #### Bilim komisyonunun kurulması
 
-**MADDE 12 –** (1) Inme birimlerine ait başvuruları dosya bazında veya gerektiğinde yerinde incelemek, yeni açılacak birimler ile faaliyette olanların bu Yönerge esaslarına uygunluğunu değerlendirmek, inme konusunda birimlerin faaliyetleri ve geliştirilmesi için çalışmalar yapmak, tıbbi ve teknolojik gelişmeleri izlemek ve gerektiğinde uygulanmasını sağlamak, izleme ve değerlendirmeye esas veri tabanı oluşturmak, birimlerin faaliyet ve hizmetleri ile ilgili Bakanlığa intikal eden şikayetleri incelemek amacıyla, tüm işlevleri ve kararları tavsiye niteliğinde olmak üzere, Genel Müdürlük bünyesinde, Bakanlık onayı ile "Akut Inme Bilim Komisyonu" oluşturulur.
+**MADDE 12 –** (1) İnme birimlerine ait başvuruları dosya bazında veya gerektiğinde yerinde incelemek, yeni açılacak birimler ile faaliyette olanların bu Yönerge esaslarına uygunluğunu değerlendirmek, inme konusunda birimlerin faaliyetleri ve geliştirilmesi için çalışmalar yapmak, tıbbi ve teknolojik gelişmeleri izlemek ve gerektiğinde uygulanmasını sağlamak, izleme ve değerlendirmeye esas veri tabanı oluşturmak, birimlerin faaliyet ve hizmetleri ile ilgili Bakanlığa intikal eden şikayetleri incelemek amacıyla, tüm işlevleri ve kararları tavsiye niteliğinde olmak üzere, Genel Müdürlük bünyesinde, Bakanlık onayı ile "Akut İnme Bilim Komisyonu" oluşturulur.
 
-de lai br daire anlan.
+
 
 (2) Bilim Komisyonu, Genel Müdür veya görevlendireceği bir yetkilinin başkanlığında, Genel Müdürlük bünyesinde ilgili bir daire başkanı, Kamu Hastaneleri Genel Müdürlüğü ve Acil Sağlık Hizmetleri Genel Müdürlüğünü temsilen birer daire başkanı, tercihen inme merkezi sorumluları arasından en az doçent düzeyinde 2 (iki) nöroloji uzmanı temsilci ile bünyesinde inme merkezi bulunan sağlık tesislerinde görevli en az doçent düzeyinde kardiyoloji, beyin ve sinir cerrahisi ve radyoloji uzmanlık dallarından birer temsilci olmak üzere dokuz üyeden oluşur. Komisyon başkanı ve ilgili daire başkanları hariç, üyelerin görev süresi 2 (iki) yıldır. Görev süresi dolan üye tekrar seçilebilir.
 
@@ -195,13 +196,13 @@ de lai br daire anlan.
 
 **MADDE 13 –** (1) Akut inmeli hastaların takip ve tedavisini yapacak birimlerin yerinde değerlendirilmesi amacıyla illerde inceleme, değerlendirme ve denetim komisyonu kurulur.
 
-(2) Inceleme komisyonu, müdürlüğün yetkilendireceği bir başkan ya da ilgili başkan yardımcısı başkanlığında, kamu sağlık tesisleri için özellikli sağlık hizmetleri biriminden bir şube müdürü ya da bir uzman; özel sağlık tesisleri için ise özel yataklı biriminden şube müdürü ya da bir uzman, 112 Il Ambulans Servisi Baştabipliğinden bir temsilci, inme konusunda deneyimli bir nöroloji uzmanı ve bir radyoloji uzmanı tabibin katılımı ile oluşturulur. Komisyonda ilde faaliyet gösteren üniversitelerin tıp fakültelerinden ve özel sağlık tesislerinden de temsilciler görevlendirilebilir.
+(2) İnceleme komisyonu, müdürlüğün yetkilendireceği bir başkan ya da ilgili başkan yardımcısı başkanlığında, kamu sağlık tesisleri için özellikli sağlık hizmetleri biriminden bir şube müdürü ya da bir uzman; özel sağlık tesisleri için ise özel yataklı biriminden şube müdürü ya da bir uzman, 112 İl Ambulans Servisi Baştabipliğinden bir temsilci, inme konusunda deneyimli bir nöroloji uzmanı ve bir radyoloji uzmanı tabibin katılımı ile oluşturulur. Komisyonda ilde faaliyet gösteren üniversitelerin tıp fakültelerinden ve özel sağlık tesislerinden de temsilciler görevlendirilebilir.
 
 (3) Komisyonun sekretaryası müdürlükçe yürütülür.
 
 #### Başvuru usulü ve tescil
 
-**MADDE 14 –** (1) Inme birimlerine ait başvurular sağlık tesisi yöneticisinin yazılı talebi ile müdürlüğe yapılır. I.C.× 10
+**MADDE 14 –** (1) İnme birimlerine ait başvurular sağlık tesisi yöneticisinin yazılı talebi ile müdürlüğe yapılır. 
 
 (2) Başvuru dosyasında bulunması gereken bilgi ve belgeler şunlardır:
 
@@ -213,37 +214,37 @@ c) Sertifika ve/veya eğitim belgeleri,
 
 ç) Öğrenim durumuna ilişkin belgeler, Yönergenin 8 inci maddesindeki kriterleri sağladığına dair belgeler,
 
-(3) Birimlere ait başvurular müdürlükçe dosya bazında değerlendirilir ve noksan belgesi bulunmayan başvuru dosyası, inceleme ve değerlendirme komisyonuna havale edilir. Birimler, komisyon marifetiyle yerinde inceleme ve raporlama yöntemiyle Ek-7'deki Inceleme, Değerlendirme ve Denetim Formu'na göre değerlendirilir. Inceleme Komisyonu tarafindan uygun bulunduğu takdirde bir tutanakla karara bağlanır ve tescil edilmek üzere müdürlük görüşü ile birlikte Bakanlığa gönderilir. Bilim Komisyonun da görüşü alınarak Genel Müdürlükçe uygun bulunan birim başvuruları Bakanlık onayı ile tescil edilir.
+(3) Birimlere ait başvurular müdürlükçe dosya bazında değerlendirilir ve noksan belgesi bulunmayan başvuru dosyası, inceleme ve değerlendirme komisyonuna havale edilir. Birimler, komisyon marifetiyle yerinde inceleme ve raporlama yöntemiyle Ek-7'deki İnceleme, Değerlendirme ve Denetim Formu'na göre değerlendirilir. İnceleme Komisyonu tarafindan uygun bulunduğu takdirde bir tutanakla karara bağlanır ve tescil edilmek üzere müdürlük görüşü ile birlikte Bakanlığa gönderilir. Bilim Komisyonun da görüşü alınarak Genel Müdürlükçe uygun bulunan birim başvuruları Bakanlık onayı ile tescil edilir.
 
 ## DÖRDÜNCÜ BÖLÜM Çeşitli ve Son Hükümler
 
 #### Eğitim faaliyetleri
 
-**MADDE 15 –** (1) Inme birimlerinde görevlendirilen uzman tabip, hemşire ve diğer sağlık personelinin Bakanlıkça belirlenen usul ve esaslar doğrultusunda genel yoğun bakım ve nöroloji yoğun bakım ve resüsitasyon eğitimleri almaları sağlanır. Nöroloji uzmanı tabipler ile beyin ve sinir cerrahisi uzmanı tabipler yoğun bakım konusundaki eğitimden muaftır.
+**MADDE 15 –** (1) İnme birimlerinde görevlendirilen uzman tabip, hemşire ve diğer sağlık personelinin Bakanlıkça belirlenen usul ve esaslar doğrultusunda genel yoğun bakım ve nöroloji yoğun bakım ve resüsitasyon eğitimleri almaları sağlanır. Nöroloji uzmanı tabipler ile beyin ve sinir cerrahisi uzmanı tabipler yoğun bakım konusundaki eğitimden muaftır.
 
-(2) Akut inmeli hastalara girişimsel işlem uygulayacak uzman tabipler, nörogirişim uygulamaları konusunda Bakanlıkça belirlenen usul ve esaslar dahilinde eğitime tabi tutulur. Bu Yönergenin 8 inci maddesinde belirtilen kriterleri haiz olduğunu belgeleyen uzman
+(2) Akut inmeli hastalara girişimsel işlem uygulayacak uzman tabipler, nörogirişim uygulamaları konusunda Bakanlıkça belirlenen usul ve esaslar dahilinde eğitime tabi tutulur. Bu Yönergenin 8 inci maddesinde belirtilen kriterleri haiz olduğunu belgeleyen uzman [?]
 
-(3) Müdürlükçe görevlendirilecek en az bir nöroloji uzmanı tarafindan 112 Il Ambulans Servisinde çalışan tabip ve personele bu Yönergeye ilişkin eğitim verilir. Eğitimin müfredatı, bilim komisyonu marifetiyle hazırlanır. Eğitim alamayan personel için yılda en az
+(3) Müdürlükçe görevlendirilecek en az bir nöroloji uzmanı tarafindan 112 İl Ambulans Servisinde çalışan tabip ve personele bu Yönergeye ilişkin eğitim verilir. Eğitimin müfredatı, bilim komisyonu marifetiyle hazırlanır. Eğitim alamayan personel için yılda en az [?]
 
-(4) Akut inme konusunda, müdürlüklerin koordinasyonunda ilgili kurum ve kuruluşlarla işbirliği yapılarak ulusal ve yerel iletişim kanalları aracılığıyla ve bilgilendirici broşür ve posterler kullanılarak halka, hastalara ve hasta yakınlarına yönelik eğitim
+(4) Akut inme konusunda, müdürlüklerin koordinasyonunda ilgili kurum ve kuruluşlarla işbirliği yapılarak ulusal ve yerel iletişim kanalları aracılığıyla ve bilgilendirici broşür ve posterler kullanılarak halka, hastalara ve hasta yakınlarına yönelik eğitim [?]
 
 #### Denetim, sorumluluk ve yaptırımlar
 
-**MADDE 16 –** (1) Inme birimlerinin bu Yönerge hükümlerine uygun olarak yapılandırılması ve işleyişinden sağlık tesisi yöneticileri ve müdürlükler birinci derecede
+**MADDE 16 –** (1) İnme birimlerinin bu Yönerge hükümlerine uygun olarak yapılandırılması ve işleyişinden sağlık tesisi yöneticileri ve müdürlükler birinci derecede [?]
 
-(2) Birimler, Bakanlıkça gerekli hallerde Bakanlık denetim birimlerine yaptırılacak olağan ve olağan dışı denetimler haricinde-işleyiş ile alakalı yılda en az bir kere Ek-'deki forma uygun olarak müdürlükler tarafından yerinde denetlenir.
+(2) Birimler, Bakanlıkça gerekli hallerde Bakanlık denetim birimlerine yaptırılacak olağan ve olağan dışı denetimler haricinde, işleyiş ile alakalı yılda en az bir kere Ek-[?]’deki forma uygun olarak müdürlükler tarafından yerinde denetlenir.
 
 (3) Bu Yönergede belirtilen usul ve esaslara göre yapılacak denetim sonuçlarına göre, tespit edilen eksiklik veya uygunsuzluklar giderilinceye kadar birimlere en fazla 6 (altı) aya kadar süre verilir. Süre sonunda eksiklik veya uygunsuzluğu giderilemeyen birimlerin tescili Bakanlıkça iptal edilir.
 
 (4) Yaptırma esas teşkil eden uygunsuzlukları gideren birimler için talep halinde, bu Yönergede belirtilen usulle yeniden tescil işlemi yapılır.
 
-(5) Hastaların sevk ve nakil işlemlerinin bu Yönerge hükümlerine uygun olarak yürütülmesinden 112 Il Ambulans Servislerinde görevli personel ve 112 Il Ambulans Servisi baştabibi birinci derecede sorumludur.
+(5) Hastaların sevk ve nakil işlemlerinin bu Yönerge hükümlerine uygun olarak yürütülmesinden 112 İl Ambulans Servislerinde görevli personel ve 112 İl Ambulans Servisi baştabibi birinci derecede sorumludur.
 
-(6) Akut inmeli hastaların sevk ve nakil sürecinin, 112 Il Ambulans Servislerince bu Yönergenin g'uncu maddesindeki eklere göre yürütülmesi için müdürlüklerce gerekli düzenlemeler yapılır. Sevk sürecinin etkin bir koordinasyon içerisinde yürütülmesinden ve denetlenmesinden müdürlükler sorumludur.
+(6) Akut inmeli hastaların sevk ve nakil sürecinin, 112 İl Ambulans Servislerince bu Yönergenin 9’uncu maddesindeki eklere göre yürütülmesi için müdürlüklerce gerekli düzenlemeler yapılır. Sevk sürecinin etkin bir koordinasyon içerisinde yürütülmesinden ve denetlenmesinden müdürlükler sorumludur.
 
-Meveut inme birimleri
+Mevcut inme birimleri
 
-GEÇICİ MADDE 1- (1) Bu Yönergede belirtilen hususların hälihazırda inme birimi olarak belirlenmiş tesislere bu yönergedeki şartlara uyum sağlanması için bir kereye mahsus 1 (bir) yıl süte verilir.
+GEÇİCİ MADDE 1- (1) Bu Yönergede belirtilen hususların hâlihazırda inme birimi olarak belirlenmiş tesislere bu yönergedeki şartlara uyum sağlanması için bir kereye mahsus 1 (bir) yıl süre verilir.
 
 #### Yürürlük
 
@@ -251,4 +252,4 @@ GEÇICİ MADDE 1- (1) Bu Yönergede belirtilen hususların hälihazırda inme bi
 
 #### Yürütme
 
-**MADDE 18 –** (1) Bu Yönerge hükümlerini Sağhık Bakanı yürütür.
+**MADDE 18 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

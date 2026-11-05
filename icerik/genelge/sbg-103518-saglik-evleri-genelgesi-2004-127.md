@@ -11,13 +11,18 @@ tarih: "2004-10-19"
 konu: "Sağlık evlerinin işleyişine ilişkin uygulamaları düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.10. Sağlık Evleri Genelgesi (2004/127)
 
-Sayı :B100TSH0130001 ANKARA Konu:Sağlık evleri
+Sayı: B100TSH0130001
+Konu: Sağlık evleri
 
- GENELGE 2004/127
+19.10.2004
+
+GENELGE
+2004/127
 
 İLGİ: 18.10.2004 tarihli ve 9964 sayılı Makam Onayı.
 
@@ -29,12 +34,12 @@ Bu nedenle "mahalle sağlık evi" ifadesinin "sağlık ocağı ebe bölgesi" ola
 
 Bilginizi ve hizmetin bu doğrultuda yürütülmesi hususunda gereğini rica ederim.
 
-Prof.Dr. Necdet ÜNÜVAR
+Prof. Dr. Necdet ÜNÜVAR
 
 Bakan a.
 
 Müsteşar Ek: Makam Onayı
 
- DAĞITIM:
+### DAĞITIM:
 
 81 İl Valiliği

@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "530-531"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## YÖNETİM KARAR DEFTERİ
@@ -28,9 +29,9 @@ Konu: Yönetim Karar Defteri
 
 ### ........ VALİLİĞİNE (Halk Sağlığı Müdürlüğü)
 
-Bilindiği üzere 25/01/2013 tarih ve 28539 sayılı Resmi Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliği'nin, 26 ıncı maddesinin birinci fıkrasında, ....“Yönetim tarafından alınan kararlar karar defterine işlenir….” hükmü yer almaktadır.
+Bilindiği üzere 25/01/2013 tarih ve 28539 sayılı Resmî Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliği'nin, 26 ncı maddesinin birinci fıkrasında, “Yönetim tarafından alınan kararlar karar defterine işlenir….” hükmü yer almaktadır.
 
-Sağlık Bakanlığı Temel Sağlık Hizmetleri Genel Müdürlüğü’nün 3/01/2012 tarih ve 306 sayılı yazısı ile yayımlanarak uygulamaya konulan formlar, Kurumumuzun 30/04/2013 tarih ve 46119 sayılı yazısı ile revize edilmiştir. Bahsi geçen yazının EK-1’inde yer alan; Aile Sağlığı Merkezi İzleme Değerlendirme Formunda da belirtildiği üzere “Yönetim karar defteri mevcut mu? Kararlar usulüne uygun şekilde yönetim karar defterine kaydedilmiş mi?” soruları ve 25.01.2013 tarihli ve 28539 sayılı Aile Hekimliği Uygulama Yönetmeliği’nin “Aile sağlığı merkezinin işletilmesi” başlıklı 26 ıncı maddesinin birinci fıkrasında “Aile sağlığı merkezinde birden çok aile hekimi hizmet veriyor ise, aile hekimleri kendi aralarında bir yönetim planı oluşturarak yönetici belirler ve yönetici ismini müdürlüğe bildirirler…..” hükümleri yer almaktadır.
+Sağlık Bakanlığı Temel Sağlık Hizmetleri Genel Müdürlüğü’nün 3/01/2012 tarih ve 306 sayılı yazısı ile yayımlanarak uygulamaya konulan formlar, Kurumumuzun 30/04/2013 tarih ve 46119 sayılı yazısı ile revize edilmiştir. Bahsi geçen yazının EK-1’inde yer alan; Aile Sağlığı Merkezi İzleme Değerlendirme Formunda da belirtildiği üzere “Yönetim karar defteri mevcut mu? Kararlar usulüne uygun şekilde yönetim karar defterine kaydedilmiş mi?” soruları ve 25.01.2013 tarihli ve 28539 sayılı Aile Hekimliği Uygulama Yönetmeliği’nin “Aile sağlığı merkezinin işletilmesi” başlıklı 26 ncı maddesinin birinci fıkrasında “Aile sağlığı merkezinde birden çok aile hekimi hizmet veriyor ise, aile hekimleri kendi aralarında bir yönetim planı oluşturarak yönetici belirler ve yönetici ismini müdürlüğe bildirirler…..” hükümleri yer almaktadır.
 
 İzleme ve değerlendirme ziyaretleri esnasında yönetim karar defterlerinin bulundurulması ve doldurulması hakkında tereddüt hasıl olduğu bildirildiğinden Yönetim Karar Defteri ile ilgili olarak aşağıda belirtilen hususlara uygun iş ve işlemler tesis edilecektir:
 
@@ -72,4 +73,4 @@ Kurum Başkanı
 
 Türkiye Halk Sağlığı Kurumu, Birinci Basamak Sağlık Hizmetleri Başkan Yardımcılığı, Aile Hekimliği İzleme ve Değerlendirme D.B., Sağlık Mah. A.Adnan SAYGUN 2 Caddesi No:55 Sıhhiye/ANKARA. Bilgi için: Hemşire Ayşegül ÖZĞAN
 
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden f10b36c1-214c-48dc-a77d-ddb5f1b58ad4 kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır.
+

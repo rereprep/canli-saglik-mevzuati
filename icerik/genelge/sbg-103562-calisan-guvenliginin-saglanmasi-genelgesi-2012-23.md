@@ -10,11 +10,12 @@ durum: "yürürlükte"
 konu: "Çalışan Güvenliğinin Sağlanması Genelgesi (2012/23) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.15. Çalışan Güvenliğinin Sağlanması Genelgesi (2012/23)
 
-Sağak Bakar
+Sağlık Bakanlığı
 
 : B.10.0.SHG.0.21.00.00 /951.99 /6665 14/05/2012
 
@@ -24,7 +25,7 @@ Sayı Konu: Çalışan güvenliğinin sağlanması
 
 Sağlık çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlığımızca bu çerçevede, sağlık çalışanlarının güvenliğine yönelik aşağıdaki düzenlemeler yapılarak kurumlarımız talimatlandırılmiști.
 
-a) Tüm sağlık kurumlarında, hizmet alanlar ve sağlık çalışanları için güvenli bir ortam sağlanması amacıyla yayımlanan "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik" dogrultusunda;
+a) Tüm sağlık kurumlarında, hizmet alanlar ve sağlık çalışanları için güvenli bir ortam sağlanması amacıyla yayımlanan "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik" doğrultusunda;
 
 1) Çalışan güvenliği komitesinin kurulması,
 
@@ -112,7 +113,7 @@ Sağlık çalışanlarına yönelik şiddet olaylarını takip etmek üzere "Bak
 
 24 saat hizmet verecek "113" numaralı telefon ve "www.beyazkod.saglik.gov.tr" internet sayfası oluşturulmuştur.
 
-a) Kamu ve özel tüm sağlık kurum ve kuruluşlarında gerçekleşen şiddet olayları, yöneticiler tarafından derhal "113" numaralı telefonla Bakanlık Beyaz Kod Birimine bildirilecek, eş zamanlı olarak ilgili kurumun hukuk birimine ve adli mercilere intikal ettirilecektir. Kamu görevlilerine karşı işlenen şiddet olaylarının takibi şikâyete bağhı olmadığından, ilgili personelin şikâyetinin olup olmadığına bakılmaksızın yönetic ler olayı mutlaka adli mercilere intikal ettirecektir. Özel sağlık kuruluşları da adli bildirim konusunda gerekli hassasiyeti gösterecektir.
+a) Kamu ve özel tüm sağlık kurum ve kuruluşlarında gerçekleşen şiddet olayları, yöneticiler tarafından derhal "113" numaralı telefonla Bakanlık Beyaz Kod Birimine bildirilecek, eş zamanlı olarak ilgili kurumun hukuk birimine ve adli mercilere intikal ettirilecektir. Kamu görevlilerine karşı işlenen şiddet olaylarının takibi şikâyete bağlı olmadığından, ilgili personelin şikâyetinin olup olmadığına bakılmaksızın yönetic ler olayı mutlaka adli mercilere intikal ettirecektir. Özel sağlık kuruluşları da adli bildirim konusunda gerekli hassasiyeti gösterecektir.
 
 b) Şiddete uğrayan sağlık çalışanı tarafından da "113" numaralı telefona dogrudan bildirim yapılabilecektir.
 
@@ -132,7 +133,7 @@ e) SABIM'e yapılan sağlık çalışanları hakkındaki şikayetler, başvurula
 
 Sağlık Hizmetleri Genel Müdürlüğü Sağlik Bakanlğ soyut nitelikte olan, şikayet sahibinin adı ve adresi belli olmayan veya personelin kusuru bulunmadığı açıkça görülen ihbar ve şikayetler değerlendirmeye alınmayacaktır.
 
-Genelgenin Ilinizde bulunan tüm kamu, üniversite ve özel sağlık kurum ve kuruluşlarına duyurulması ve uygulanmasının teminini, ayrıca Bakanlığımızca çalışan güvenliğine ilişkin olarak yapılacak yeni düzenlemelerin titizlikle takibini önemle rica ederim.
+Genelgenin İlinizde bulunan tüm kamu, üniversite ve özel sağlık kurum ve kuruluşlarına duyurulması ve uygulanmasının teminini, ayrıca Bakanlığımızca çalışan güvenliğine ilişkin olarak yapılacak yeni düzenlemelerin titizlikle takibini önemle rica ederim.
 
 Prof. Dr. Recep AKDAĞ
 

@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103773/ozellikli-tibbi-islemler-yonerg
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 # ÖZELLİKLİ TIBBİ İŞLEMLER YÖNERGESİ
@@ -57,7 +58,7 @@ Bakan
 **Madde 2 –** (1) Bu yönerge, Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerinde görev yapan eğitim görevlisi, başasistan, uzman tabip ve uzman diş tabiplerini kapsar.
 
 #### Dayanak
-**Madde 3 –** (1) Bu Yönerge, 12/08/2022 tarihli ve 31921 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren "Sağlık Bakanlığı Ek Ödeme Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (ü) bendine dayanılarak hazırlanmıştır.
+**Madde 3 –** (1) Bu Yönerge, 12/08/2022 tarihli ve 31921 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren "Sağlık Bakanlığı Ek Ödeme Yönetmeliği"nin 4 üncü maddesinin birinci fıkrasının (ü) bendine dayanılarak hazırlanmıştır.
 
 #### Tanımlar
 **Madde 4 –** (1) Bu Yönergede yer alan:

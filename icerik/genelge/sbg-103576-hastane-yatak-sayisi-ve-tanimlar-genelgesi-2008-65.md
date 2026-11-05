@@ -9,27 +9,28 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103576/hastane-yatak-sayisi-ve-tanimla
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.4. Hastane Yatak Sayısı ve Tanımlar Genelgesi (2008/65)
 
-### T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürluğu
+### T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-y1 : B.10.0.THG.0.10.00.02/010.0 ›nu : Hastane Yatak Sayısı ve Tanıml 40370 24.10.2008
+Sayı: B.10.0.THG.0.10.00.02/010.0 Konu: Hastane Yatak Sayısı ve Tanıml 40370 24.10.2008
 
-### ENELG 008 / 6
+### GENELGE 2008/65
 
-İlgi : 20.07.2006 tarihli ve 13962 (2006/87) sayıl Genelge.
+İlgi : 20.07.2006 tarihli ve 13962 (2006/87) sayılı Genelge.
 
 Bakanlığımıza ait hastanelerde kullanılan yataklara ilişkin düzenlemelerle alakalı olarak yayımlanan ilgide kayıtlı genelge esaslarının uygulanması sırasında farklı değerlendirme ve yorumlardan kaynaklanan sorun ve aksaklıklarla karşılaşıldığı, bazı hususlarda ise tereddütler oluştuğu
 
 Bu bağlamda, Bakanlığımıza bağlı yataklı tedavi kurumlarındaki hizmet kapasitesinin belirlenmesi, mevcut yatak ve hizmet kapasitesinin etkin ve en üst seviyede kullanımı ve bunların ölçülebilirliğinin sağlanması neticesinde elde edilecek veriler ışığında; kurumların öncelikli ihtiyaçlarının tespit edilerek ileriye dönük bina, tıbbi teknoloji, nitelikli insan gücü ve hizmet alımları gibi kurumsal planlamalarını doğru ve ihtiyaçlarına uygun şekilde gerçekleştirebilmeleri maksadıyla hastanelerde kullanılan yatak tanımlarına ve bu konudaki farklı yorum ve uygulamalara açıklık getirilmesi ve uygulamada birliğin sağlanması bakımından Bakanlığımızca iş bu genelge ekine
 
-Buna göre, hastanelerdeki mevcut yataklar için kadro yatağı, fiili yatak, hastane yatağı gibi daha önce kullanılmakta olan farklı kavramların kullanılmaması gerekmekte olup hastanelerimizin yatak sayısının belirlenmesi ve hizmet kapasitesinin tespitinde ekte (Ek-1) gönderilen HASTANE HIZMETLERİNDE TEMEL KAVRAMLAR" başlıklı dokümanda belirlenen " Hasta Yatağı" tanımı uyarınca işlem yapılmasını, hastanelerin çalışmalarına ilişkin istatistik verilerinin hazırlanmasında ve bu konuda yapılacak hesaplamalarda yine aynı dokümanda örnekleme yapılmak suretiyle açıkça tanımlanan istatistik formüllerinin esas alınmasını,
+Buna göre, hastanelerdeki mevcut yataklar için kadro yatağı, fiili yatak, hastane yatağı gibi daha önce kullanılmakta olan farklı kavramların kullanılmaması gerekmekte olup hastanelerimizin yatak sayısının belirlenmesi ve hizmet kapasitesinin tespitinde ekte (Ek-1) gönderilen HASTANE HİZMETLERİNDE TEMEL KAVRAMLAR" başlıklı dokümanda belirlenen " Hasta Yatağı" tanımı uyarınca işlem yapılmasını, hastanelerin çalışmalarına ilişkin istatistik verilerinin hazırlanmasında ve bu konuda yapılacak hesaplamalarda yine aynı dokümanda örnekleme yapılmak suretiyle açıkça tanımlanan istatistik formüllerinin esas alınmasını,
 
-İlgili baştabiplikler tarafından hastanelerin yatak sayılarının yeni düzenlemeye uygun olarak tespitlerinin yapılarak servislere göre yatak dağılımlarını ve hastane toplam yatak sayısını gösterir şekilde hazırlanacak ve İl Sağlık Müdürluklerince onaylanacak yatak dağılım cetvellerinin tescil işlemlerine esas olmak üzere 31.12.2008 tarihinden önce Bakanlığımızda olacak şekilde gönderilmesini,
+İlgili baştabiplikler tarafından hastanelerin yatak sayılarının yeni düzenlemeye uygun olarak tespitlerinin yapılarak servislere göre yatak dağılımlarını ve hastane toplam yatak sayısını gösterir şekilde hazırlanacak ve İl Sağlık Müdürlüklerince onaylanacak yatak dağılım cetvellerinin tescil işlemlerine esas olmak üzere 31.12.2008 tarihinden önce Bakanlığımızda olacak şekilde gönderilmesini,
 
-Ayrıca, ilgide kayıthı Bakanlık Genelgesi yürürlükten kaldırılmış olup bu konudaki iş ve işlemlerin iş bu genelge ve eki "HASTANE HİZMETLERİNDE TEMEL KAVRAMLAR" çerçevesinde yürütülmesi gerektiği hususunun ilgili kurum ve kuruluşlara imza karşılığı tebliğini önemle rica ederim.
+Ayrıca, ilgide kayıtlı Bakanlık Genelgesi yürürlükten kaldırılmış olup bu konudaki iş ve işlemlerin iş bu genelge ve eki "HASTANE HİZMETLERİNDE TEMEL KAVRAMLAR" çerçevesinde yürütülmesi gerektiği hususunun ilgili kurum ve kuruluşlara imza karşılığı tebliğini önemle rica ederim.
 
 Uzm. Dr. Orhan F. GÜMRÜKÇÜOGLU
 
@@ -65,13 +66,13 @@ g) Hastanede devamlı olarak kalanlarla nöbetçi personel için ayrılan yatakl
 
 h) Refakatçi yatakları,
 
-### B-NÜFUS BAŞINA DÜŞEN HASTA YATAK SAYISI
+### B - NÜFUS BAŞINA DÜŞEN HASTA YATAK SAYISI
 
-Bir yıl içinde incelenen yerleşim birimi (İlçe, il, bölge, ülke) sınırları içerisinde bulunan sağlık kurumlarının toplam hasta yatağı sayısının birimin nüfusuna bölünmesi ile elde edilir. Belli sayıda (genellikle 10,000) kişiye düşen hasta yatak sayısını ifade eder. Planlama yapmak gibi diğer amaçlar yanında yerleşim birimleri arasında kıyaslama yapmak amacıyla da kullanılır. 10,000 Kişiye Düşen Hasta Incelenen yerleşim birimi sınırları içindeki
+Bir yıl içinde incelenen yerleşim birimi (İlçe, il, bölge, ülke) sınırları içerisinde bulunan sağlık kurumlarının toplam hasta yatağı sayısının birimin nüfusuna bölünmesi ile elde edilir. Belli sayıda (genellikle 10,000) kişiye düşen hasta yatak sayısını ifade eder. Planlama yapmak gibi diğer amaçlar yanında yerleşim birimleri arasında kıyaslama yapmak amacıyla da kullanılır. 10,000 Kişiye Düşen Hasta İncelenen yerleşim birimi sınırları içindeki
 
-### toplam hasta yatağı sayısı
+Toplam hasta yatağı sayısı / İncelenen yerleşim birimi toplam nüfusu
 
-Incelenen yerleşim birimi toplam nüfusu Örnek: 674,387 nüfuslu bir ildeki toplam hasta yatağı sayısı 1,625 dir. Bu ilde 10,000 kişiye düşen hasta yatağı sayısı; 10,000 Kişiye Düşen Hasta 1,625 x10,000 = 24.1 yatak Yatak Sayısı 674,387 şeklinde bulunur.
+İncelenen yerleşim birimi toplam nüfusu Örnek: 674,387 nüfuslu bir ildeki toplam hasta yatağı sayısı 1,625 dir. Bu ilde 10,000 kişiye düşen hasta yatağı sayısı; 10,000 Kişiye Düşen Hasta 1,625 x10,000 = 24.1 yatak Yatak Sayısı 674,387 şeklinde bulunur.
 
 ### C - YATAN HASTA SAYISI
 
@@ -87,7 +88,7 @@ Bir yıl içerisinde hastaneye yatırılan, hastaların, şifa, salah hali, ile 
 
 ### F - MAKSİMUM YATILAN GÜN SAYISI
 
-Incelenen süre içinde hastanede verilebilecek bakım gün sayısının en büyük değeridir. Hesaplamada hasta yatak sayısı ile incelenen süre içindeki gün sayısı çarpılır. Ornek: 50 yataklı bir hastanenin Ocak(31 gün), Şubat(28/29 gün), Mart ayı (31 gün) için maksimum hasta bakım gün sayısı
+İncelenen süre içinde hastanede verilebilecek bakım gün sayısının en büyük değeridir. Hesaplamada hasta yatak sayısı ile incelenen süre içindeki gün sayısı çarpılır. Örnek: 50 yataklı bir hastanenin Ocak(31 gün), Şubat(28/29 gün), Mart ayı (31 gün) için maksimum hasta bakım gün sayısı
 
 = 50 yatak * (90/91 gün)
 
@@ -101,17 +102,17 @@ Hastanın hastanede kaldığı günlerin toplamıdır. Hesaplanmasında hastanı
 
 ### H) ORTALAMA KALIŞ GÜN SAYISI
 
-Yatılan Gün Savis
+Yatılan Gün Sayısı
 
-Taburcu + Oler
+Taburcu + Ölen
 
-### I) VATAN HASTA ORANI (%)
+### I - YATAN HASTA ORANI (%)
 
 Bir yılda hastane polikliniğine başvuran hastaların ne kadarının yatırılarak tedavi edildiğini gösterir.
 
-Yatan Hasta X 101
+Yatan Hasta × 100
 
-Poliklinil
+Poliklinik başvurusu
 
 ### J) YATAK DEVİR HIZI
 
@@ -119,7 +120,7 @@ Bir yatağın yılda kaç hasta tarafından kullanıldığını gösterir.
 
 Yatan Hasta
 
-Hasta Yatağ
+Hasta Yatağı
 
 ### K) DEVİR ARALIĞI (GÜN)
 
@@ -127,7 +128,7 @@ Bir hasta yatağının kaç gün boş kaldığını gösterir.
 
 Hasta Yatağı X Süre- Yatılan Gün Savısı
 
-(Taburcu + Olen)
+(Taburcu + Ölen)
 
 ### L - YATAK DOLULUK ORANI:
 
@@ -137,4 +138,4 @@ Yatılan Gün Sayisı X 100
 
 Yatak Doluluk Oranı -
 
-3ay ( 90 - 92 gün) veya 1 yıl (365 gün) X hasta yatak sayısı Hasta yataklarının yeterli kullanılıp kullanılmadığını gösterir
+3 ay (90-92 gün) veya 1 yıl (365 gün) X hasta yatak sayısı Hasta yataklarının yeterli kullanılıp kullanılmadığını gösterir

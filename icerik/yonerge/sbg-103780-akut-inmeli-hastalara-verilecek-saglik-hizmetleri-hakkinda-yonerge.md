@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103780/akut-inmeli-hastalara-verilecek
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 # AKUT İNMELİ HASTALARA VERİLECEK SAĞLIK HİZMETLERİ HAKKINDA YÖNERGE

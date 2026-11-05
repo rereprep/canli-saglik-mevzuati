@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "560"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## YETKİLENDİRİLMİŞ AİLE HEKİMLİĞİ BİRİMİ İZLEME VE DEĞERLENDİRME FAALİYETİ
@@ -36,7 +37,7 @@ Konu: Yetkilendirilmiş Aile Hekimliği Birimi İzleme ve Değerlendirme Faaliye
 
 Bilindiği üzere 09.12.2011 tarihinde Bakanlığımız ve Türk Silahlı Kuvvetleri arasında *Türk Silahlı Kuvvetleri Sağlık Hizmet Sunucularınca Verilecek Yetkilendirilmiş Aile Hekimliği Hizmetlerinin Düzenlemesi ve Yetkilendirilmesine İlişkin Protokol* imzalanmıştır. Söz konusu protokol 5258 sayılı Aile Hekimliği Kanunu ve buna bağlı olarak yürürlüğe giren Aile Hekimliği Uygulama Yönetmeliğine göre hazırlanmıştır.
 
-Bu kapsamda, 25.01.2013 ve 28539 sayılı Resmi Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliği’nin 29’uncu maddesinde “Aile sağlığı merkezleri dışında birinci basamak sağlık hizmeti veren; üniversiteler, askeri birlikler, hastaneler, kurum ve işyerlerinde yetkilendirilmiş aile hekimliği hizmeti verilebilir. Bu kurumlarda Kurumun öngördüğü eğitimleri almaları şartı ile herhangi bir suretle istihdam edilen hekimlerin talebi ve kurumlarının teklifi üzerine, valiliğin uygun görüşü ve Kurumun onayı ile kendi görev ve sorumluluk alanlarıyla sınırlı olmak kaydıyla, aile hekimliği yetkisi verilir. Kurumlar bu Yönetmelikteki fiziki şartları ve teknik donanımı sağlamakla yükümlüdür. Yetkilendirilmiş aile hekimleri Kurum tarafından belirlenen hizmete özel sözleşmeyle göreve başlatılırlar. Yetkilendirilmiş aile hekimi, aile hekiminin yaptığı iş ve işlemleri yapmakla yükümlüdür.” ibaresi yer almaktadır.
+Bu kapsamda, 25.01.2013 ve 28539 sayılı Resmî Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliği’nin 29’uncu maddesinde “Aile sağlığı merkezleri dışında birinci basamak sağlık hizmeti veren; üniversiteler, askeri birlikler, hastaneler, kurum ve işyerlerinde yetkilendirilmiş aile hekimliği hizmeti verilebilir. Bu kurumlarda Kurumun öngördüğü eğitimleri almaları şartı ile herhangi bir suretle istihdam edilen hekimlerin talebi ve kurumlarının teklifi üzerine, valiliğin uygun görüşü ve Kurumun onayı ile kendi görev ve sorumluluk alanlarıyla sınırlı olmak kaydıyla, aile hekimliği yetkisi verilir. Kurumlar bu Yönetmelikteki fiziki şartları ve teknik donanımı sağlamakla yükümlüdür. Yetkilendirilmiş aile hekimleri Kurum tarafından belirlenen hizmete özel sözleşmeyle göreve başlatılırlar. Yetkilendirilmiş aile hekimi, aile hekiminin yaptığı iş ve işlemleri yapmakla yükümlüdür.” ibaresi yer almaktadır.
 
 Ayrıca mezkûr Yönetmeliğin Denetim başlıklı 33’üncü maddesinde “Aile sağlığı merkezi, aile hekimleri ve aile sağlığı elemanları, mevzuat ve sözleşme hükümlerine uygunluk ile diğer konularda Kurum, ilgili mülkî idare amirleri ve yerel sağlık idare amirleri veya bunların görevlendireceği personelin denetimine tâbidir. Denetim yapmaya yetkili amir, ilgili mevzuat ve sözleşme şartlarına aykırılığı doğrudan kendisi tespit edebileceği gibi, tespiti yapmak üzere incelemeci veya soruşturmacı da görevlendirebilir. Bu denetimler Kurum tarafından belirlenen denetleme formları ile gerçekleştirilir.” hükmü yer almaktadır.
 
