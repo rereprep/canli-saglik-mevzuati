@@ -11,8 +11,44 @@ ocr: true
 tarih: "2024-11-29"
 sayi: "261023707"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1038"
+kontrol_edildi: true
 ---
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Hukuk Hizmetleri Genel Müdürlüğü
+
+Sayı: E-11045126-010.04-
+
+Konu: Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi
+
+BAKANLIK MAKAMINA
+
+Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi (REDES) Koordinatörlüğünün organizasyon yapısını, görevlerini, çalışma usul ve esaslarını düzenlemek amacıyla 23.08.2022 tarihli ve 31932 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığı Teftiş Kurulu Yönetmeliği'nin 4. maddesinin 4. fıkrasına istinaden hazırlanan "Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi" taslağı ilişikte sunulmuştur.
+
+İlişikte sunulan nihai taslağın yürürlüğe konulmasını takdir ve tensiplerinize arz ederim.
+
+Av. Ülker KUGU
+
+Hukuk Hizmetleri Genel Müdürü
+
+Uygun görüşle arz ederim. [?] / 11 / 2024
+
+Hüseyin Kürşat KIRBIYIK
+
+Bakan Yardımcısı
+
+OLUR [?] / 2024
+
+Prof. Dr. Kemal MEMİŞOĞLU
+
+Bakan
+
+Ek: Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi Taslağı (3 sayfa)
 
 ### SAĞLIK BAKANLIĞI TEFTİŞ KURULU BAŞKANLIĞI RİSK ESASLI DENETİM SİSTEMİ KOORDİNATÖRLÜĞÜ YÖNERGESİ
 

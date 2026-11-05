@@ -11,12 +11,52 @@ ocr: true
 tarih: "2019-03-14"
 sayi: "427"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.1068"
+kontrol_edildi: true
 ---
 
 11.2.3. Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge
 
-### SAĞLIK BAKANLIGINDA DONER SERMAYE MUHASEB HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN YÖNERG BIRINCI BOLÜM Ansae, Kapsam, Davanak ve Tanımlar
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Strateji Geliştirme Başkanlığı
+
+Sayı: 93377465/045
+
+Konu: Yönerge
+
+BAKANLIK MAKAMINA
+
+Bilindiği üzere, 05/12/2018 tarihli ve 30616 sayılı Resmi Gazete'de yayımlanan 7151 sayılı Sağlıkla İlgili Bazı Kanun Ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 13 üncü maddesi ile 04/01/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun ek 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+
+"EK MADDE 2- Sağlık Bakanlığına bağlı döner sermaye işletmelerinin muhasebe hizmetleri Bakanlıkça yürütülür. Ancak, Bakanlık tarafından teklif edilen ve Hazine ve Maliye Bakanlığınca uygun görülen döner sermaye işletmelerinin muhasebe hizmetleri Hazine ve Maliye Bakanlığı tarafından yürütülebilir."
+
+Yapılan değişiklik ile Hazine ve Maliye Bakanlığınca yürütülen Bakanlığımız döner sermaye işletmelerinin muhasebe hizmetleri, mezkûr madde uyarınca 01/04/2019 tarihinden itibaren Bakanlığımızca yürütülecektir.
+
+Bu meyanda, Bakanlığımız döner sermaye işletmelerinin muhasebe iş ve işlemlerini yürütecek muhasebe birimlerinin oluşturulması ve muhasebe hizmetlerinin etkin ve mevzuata uygun bir şekilde yürütülebilmesi maksadıyla hazırlanan ekli "Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge" taslağının yürürlüğe konulması hususunu tensiplerinize arz ederim.
+
+Dr. Abdulvahit SÖZÜER
+
+Başkan
+
+Uygun Görüşle Arz Ederim. [?]
+
+Prof. Dr. Muhammet GÜVEN
+
+Bakan Yardımcısı
+
+OLUR [?] / 2019
+
+Dr. Fahrettin KOCA
+
+Bakan
+
+### SAĞLIK BAKANLIĞINDA DÖNER SERMAYE MUHASEBE HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN YÖNERGE
+
+## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
 **MADDE 1 –** (1) Bu Yönergenin amacı, Bakanlik merkez ve taşra teşkilatı döner sermaye muhasebe hizmetlerinin yärälanesine ilişkin asal ve esasları belirlemektir. Карнят
 

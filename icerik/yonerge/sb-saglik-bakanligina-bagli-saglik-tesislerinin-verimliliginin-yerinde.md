@@ -11,8 +11,60 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.825"
+kontrol_edildi: true
 ---
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Kamu Hastaneleri Genel Müdürlüğü
+
+Sayı: 31057145-1/A/2018
+
+Konu: Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge
+
+BAKANLIK MAKAMINA
+
+Bakanlığımıza bağlı sağlık tesislerinin etkinlik ve verimliliğini değerlendirmek, problemleri kaynağında tespit edip çözüme kavuşturmak ve verimli hizmet sunumunu gerçekleştirmek amacıyla Genel Müdürlüğümüzce yerinde değerlendirme faaliyetleri yürütülmektedir. Bu kapsamda, Bakanlığımıza bağlı sağlık tesislerinin yerinde değerlendirilmesinde usul ve esasların, gözlem yapacak personelin ve yetkilerinin belirlenmesi amacı ile "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge" hazırlanmıştır.
+
+Söz konusu yönergenin onaylanarak yürürlüğe konulması hususunu emir ve tensiplerinize arz ederim.
+
+Prof. Dr. Murat ALPER
+
+Genel Müdür
+
+Uygun görüşle arz ederim. [?]
+
+Dr. Şuayip BİRİNCİ
+
+Müsteşar Yardımcısı
+
+Uygun görüşle arz ederim. [?] / 2018
+
+Prof. Dr. Eyüp GÜMÜŞ
+
+Müsteşar
+
+OLUR [?] / 2018
+
+Dr. Ahmet DEMİRCAN
+
+Bakan
+
+Ekler:
+
+1- Yönerge Taslağı (5 sayfa)
+
+2- Hastane Yerinde Değerlendirme Soru Listesi
+
+3- Ruh ve Sinir Hastalıkları Hastanesi Soru Listesi
+
+4- Kadın Doğum ve Çocuk Hastalıkları Hastanesi Soru Listesi
+
+5- ADSM/ADSH Soru Listesi
 
 ### SAĞLIK BAKANLIĞINA BAĞLI SAĞLIK TESİSLERİNİN VERİMLİLİĞİNİN YERİNDE DEĞERLENDİRİLMESİ HAKKINDA YÖNERGE
 

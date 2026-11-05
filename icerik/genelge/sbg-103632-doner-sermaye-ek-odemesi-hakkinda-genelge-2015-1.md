@@ -10,8 +10,31 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Döner sermaye ek ödemesi uygulamasına ilişkin açıklamaları düzenler."
-sayfa_kontrol: "103632.pdf s.1"
+kontrol_edildi: true
 ---
+
+
+9.3.12. Döner Sermaye Ek Ödemesi Hakkında Genelge (2015/1)
+
+### T.C. SAĞLIK BAKANLIĞI
+#### Yönetim Hizmetleri Genel Müdürlüğü
+##### İnsan Kaynakları Planlama ve İstatistik İşleri [?]
+
+**Sayı:** 76219013
+**Konu:** Döner Sermaye Ek Ödemesi hk.
+
+### GENELGE
+**2015/1**
+
+**İlgi:** 09/11/2012 tarihli ve 125 sayılı 2012/40 No'lu Genelge
+
+Bakanlığımız taşra teşkilatı ile Türkiye Halk Sağlığı Kurumu taşra teşkilatı ve Türkiye Halk Sağlığı Kurumuna bağlı merkez laboratuvarlarında görev yapan personele, 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun'un 5 inci maddesine istinaden 17/08/2012 tarihli ve 28387 sayılı Resmi Gazetede yayımlanan "Sağlık Bakanlığı ve Bağlı Kuruluşların Taşra Teşkilatında Görevli Personele Ek Ödeme Yapılmasına Dair Yönetmelik"te belirtilen usul ve esaslar uyarınca döner sermaye ek ödemesi yapılmakta iken, 02.01.2014 tarihli ve 6514 sayılı Kanun'un 38 inci maddesine binaen 209 sayılı Kanun'un 5 inci maddesinde bazı değişiklikler yapılmış ve Türkiye İlaç ve Tıbbi Cihaz Kurumu'nun sağlık ve yardımcı sağlık hizmetleri ile teknik hizmetler sınıfı kadrolarında bulunan ve Kurumun analiz ve kontrol laboratuvarlarında fiilen görev yapan personele de döner sermaye gelirlerinden ek ödeme yapılması imkânı tanınmıştır.
+
+Bu yeni hukuki durum çerçevesinde, "Sağlık Bakanlığı ve Bağlı Kuruluşları Personeline Ek Ödeme Yapılmasına Dair Yönetmelik" 28/11/2014 tarih ve 29189 sayılı Resmi Gazete'de yayımlanmış olup, bu Yönetmeliğin Türkiye İlaç ve Tıbbi Cihaz Kurumu Analiz ve Kontrol Laboratuvarlarına ilişkin hükümleri 18/1/2014 tarihinden itibaren geçerli olmak üzere, diğer hükümleri ise 1/12/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girdiğinden "Sağlık Bakanlığı ve Bağlı Kuruluşları Personeline Ek Ödeme Yapılmasına Dair Yönetmelik"in bazı hükümlerine açıklık kazandırılması gerekmiştir.
+
+Bu itibarla, mezkur Yönetmeliğin:
+
+1) "Tanımlar" başlıklı 4 üncü maddesinin birinci fıkrasının (b) bendinde "Bilimsel çalışma destek puanı; İl Sağlık Müdürlüğü ve bağlı birimlerinde, Türkiye Halk Sağlığı Kurumuna bağlı merkez laboratuvarları, Halk Sağlığı Müdürlükleri ile bağlı birimlerinde ve Analiz ve Kontrol Laboratuvarında görev yapan personele Ek-5 sayılı tabloda yer alan bilimsel çalışmaları belgelemesi ve ilgili kurumlar tarafından oluşturulan komisyon tarafından onaylanması halinde onayı takip eden 2 ay süreyle verilen ve aynı listede yer alan bilimsel çalışmalara karşılık gelen puanı ifade eder." şeklinde tanımlanmıştır. Bu hükme göre İl Sağlık Müdürlüğü bünyesinde en az üç kişiden oluşan bir komisyon kurulması ve bu kapsamda İl Sağlık Müdürlüğü ve bağlı birimlerinde görev yapan personelin belgelenmiş bilimsel çalışmalarının bu komisyonca onaylanmasını müteakiben Mezkur Yönetmeliğin Ek-5 sayılı tablosunda yapılan bilimsel çalışmaya karşılık gelen puanın, komisyon onayını takip eden 2 ay süre ile verilmesi gerekmektedir.
 
 9.3.12. Döner Sermaye Ek Ödemesi Hakkında Genelge (2015/1)
 
@@ -25,7 +48,7 @@ Konu : Döner Sermaye Ek Ödemesi hk.
 ### GENELGE
 ### 2015/1
 
-[... metin başı (1. madde) kaynak baskıda yer almamaktadır ...]
+
 
 2) "Tanımlar" başlıklı 4 üncü maddesinin birinci fıkrasının "h" bendinde "Çalışılmayan günler; Resmi tatil günleri, nöbet izinleri ve görevin yapılması esnasında meydana gelebilecek yaralanma ve hastalık hâlinin sağlık raporuyla belgelendirilmesi sonucu kullanılan hastalık izin süreleri hariç olmak üzere tüm çalışılmayan günleri ifade eder." tanımı yer almaktadır. Tanımda yer alan, görevin yapılması esnasında meydana gelebilecek yaralanma ve hastalık hâlinin sağlık raporuyla belgelendirilmesi sonucu kullanılan hastalık izin süreleri hesaplanırken, 657 sayılı Devlet Memurları Kanunu'nun, "Hastalık ve Refakat İzni" başlıkh 105'inci maddesinin beşinci fikrasında yer alan "Görevi sırasında veya görevinden dolayı bir kazaya veya saldırıya uğrayan veya bir meslek hastalığına tutulan memur, iyileşinceye kadar izinli sayılır." hükmü çerçevesinde, görevi sırasında veya görevinden dolayı bir kazaya veya saldırıya uğrayan veya bir meslek hastalığına tutulan personelin sağlık raporuyla belgelendirdiği hastalık izin süreleri dikkate alınacaktır. Bunun dışındaki hastalık izinleri mezkur hükümdeki çalışılmayan günler kapsamında değerlendirilecektir.
 

@@ -10,8 +10,39 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "İdari hizmet binası kiralama işlemlerinin usul ve esaslarını belirler."
-sayfa_kontrol: "103633.pdf s.1"
+kontrol_edildi: true
 ---
+
+
+9.3.4. İdari Hizmet Binası Kiralama İşlemleri Hakkında Genelge (2022/5)
+
+### T.C. SAĞLIK BAKANLIĞI
+#### Yönetim Hizmetleri Genel Müdürlüğü
+##### İdari Hizmetler Dairesi Başkanlığı [?]
+
+**Sayı:** 57955685
+**Konu:** İdari Hizmet Binası Kiralama İşlemleri
+
+### GENELGE
+**2022/5**
+
+Bilindiği üzere Cumhurbaşkanlığı Teşkilatı Hakkında 1 Nolu Cumhurbaşkanlığı Kararnamesinin 366'ncı maddesinde Sağlık Bakanlığı Yönetim Hizmetleri Genel Müdürlüğünün görevleri düzenlenmiş ve bu görevleri arasında "5018 sayılı Kanun hükümleri çerçevesinde, kiralama ve satın alma işlerini yürütmek, temizlik, güvenlik, aydınlatma, ısınma, onarım, taşıma ve benzeri hizmetleri yapmak veya yaptırmak" yer almaktadır.
+
+Diğer taraftan; hizmet binalarının kiralanmasına ilişkin usul ve esaslar 4734 sayılı Kamu İhale Kanunu, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, 2021/14 sayılı Cumhurbaşkanlığı Tasarruf Tedbirleri Genelgesi ile Hazine ve Maliye Bakanlığınca 16.01.2019 tarihli ve 30657 sayılı Resmi Gazetede yayımlanan Kamu İdarelerinin Taşınmaz Kiralamalarına İlişkin Genelge ile düzenlenmiştir. Bakanlık merkez teşkilatı harcama birimleri, il ve ilçe sağlık müdürlüğü idari hizmet binası kiralanmasında, hizmetin kesintisiz sürdürülmesi, mali kaynakların etkin ve verimli kullanılması ve atıl kapasite oluşturulmaması amacına yönelik hususlar aşağıda belirtilmiştir.
+
+1. Kiralamaya gidilmeden önce inşaatı devam eden Bakanlığa ait bina durumları ile boşaltılacak binaların kapasitesi dikkate alınacaktır. 6 ay içerisinde tamamlanacak inşaatların veya boşalacak binaların mevcut olması halinde tadilat-onarım ve taşınma süreleri göz önünde bulundurularak hizmette herhangi bir aksaklık olmaması halinde bina kiralama yoluna gidilmeyecektir.
+
+2. Kaynakların etkin ve verimli kullanılması için kiralamaya gidilmeden önce Bakanlığımıza tahsisli binalar kullanılacaktır. Bunun mümkün olmaması halinde öncelikle kamu binalarının kiralanmasına daha sonra diğer binaların kiralanmasına gidilecektir.
+
+3. İdari hizmet binası ihtiyacının olduğu bölgede hazineye ait, ihtiyacı giderecek idari hizmet binasının bulunup bulunmadığı Milli Emlak Daire Başkanlığına/Müdürlüğüne yazılı olarak sorulacaktır.
+
+4. İdari hizmet binası ihtiyacının hâsıl olduğu harcama birimlerinde, üç kişiden az olmamak üzere kiralama komisyonu kurulacaktır. Merkez teşkilatında, harcama yetkilisinin onayı ile ilgili daire başkanı ve diğer personelden, il sağlık müdürlüklerinde ise İl Sağlık Müdürünün onayı ile ilgili Başkanlık ve diğer personelden oluşur. Kiralama komisyonuna seçilen diğer personelin idari, mali ve teknik hizmetler biriminde görevli olması şarttır.
+
+5. Kiralama Komisyonu tarafından öncelikle kiralanacak taşınmazın kullanım amacı ve kiralama gerekçesini gösteren hususların yer aldığı rapor hazırlanacak ve bu rapor birim amiri tarafından onaylanacaktır.
+
+6. Kiralama komisyonunca, kiralanacak idari hizmet binasına ilişkin can ve mal güvenliğinin sağlanması için teknik personelden (Mühendis, Tekniker, Teknisyen) destek alınacaktır. Ayrıca kiralanacak idari hizmet binasının deprem, yangın mevzuatına uygun olup olmadığı, yapı kullanım izni ile tapu takyidat kayıtları incelenerek değerlendirilecektir.
+
+7. Kiralama Komisyonu; kiralamaya konu binanın yıllık kira rayiç bedelini araştırmak üzere, kiralanacak binanın yerini, emsal satış bedelini, kiralanacak binanın bulunduğu mahallin piyasa değerini, binanın yaşını, piyasa rayici (kira bakımından) gibi kıstasları göz önünde bulundurarak; serbest emlakçılar, belediye başkanlıkları, defterdarlık ve mal müdürlükleri ile ticaret ve sanayi odasından yazılı bilgi ve raporlar doğrultusunda değer tespitini yapacak ve öngörülen kiralama süresini ve kira rayiç bedelini tespit edecektir.
 
 9.3.4. İdari Hizmet Binası Kiralama İşlemleri Hakkında Genelge (2022/5)
 
@@ -25,7 +56,7 @@ Konu : İdari Hizmet Binası Kiralama İşlemleri
 ### GENELGE
 ### 2022/5
 
-[... metin başı (1-7. maddeler) kaynak baskıda yer almamaktadır ...]
+
 
 2021/14 sayılı Tasarruf Tedbirleri konulu Cumhurbaşkanlığı Genelgesi kapsamında merkez teşkilatça Cumhurbaşkanlığı izni alınmaksızın taşra teşkilatınca hizmet binası ve taşınmaz kiralama işlemleri yapılamaz.
 

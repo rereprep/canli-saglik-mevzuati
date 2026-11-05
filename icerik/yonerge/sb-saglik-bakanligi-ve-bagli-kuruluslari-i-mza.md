@@ -11,8 +11,42 @@ ocr: true
 tarih: "2024-07-17"
 sayi: "248902606"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.923"
+kontrol_edildi: true
 ---
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Hukuk Hizmetleri Genel Müdürlüğü
+
+Sayı: E-11045126-010.04-
+
+Konu: Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi
+
+BAKANLIK MAKAMINA
+
+Bakanlığımız ve bağlı kuruluşlarında, imzaya yetkili makamları belirlemek, verilen yetkileri belli ilke ve usullere bağlamak, alt kademelere yetki tanıyarak sorumluluk duygusunu geliştirmek, üst makamlara politika belirleme ve önemli konularda daha sağlıklı karar almak için zaman kazandırmak, bürokratik işlemleri kısaltarak hizmetlerde sürat ve verimliliği artırmak maksadıyla hazırlanan ekli "Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi"nin yürürlüğe konulmasını tensiplerinize arz ederim.
+
+Av. Ülker KUGU
+
+Hukuk Hizmetleri Genel Müdürü
+
+Uygun görüşle arz ederim. 16/7/2024
+
+Hüseyin Kürşat KIRBIYIK
+
+Bakan Yardımcısı
+
+OLUR 16/7/2024
+
+Prof. Dr. Kemal MEMİŞOĞLU
+
+Bakan
+
+Ek: Yönerge (7 sayfa)
 
 ### SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARI İMZA YETKİLERİ YÖNERGESİ
 

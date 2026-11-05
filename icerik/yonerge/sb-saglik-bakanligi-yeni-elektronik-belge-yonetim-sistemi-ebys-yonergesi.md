@@ -11,8 +11,44 @@ durum: "yürürlükte"
 ocr: true
 sayi: "719"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.375"
+kontrol_edildi: true
 ---
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Sağlık Bilgi Sistemleri Genel Müdürlüğü
+
+Sayı: E-75730711-719
+
+Konu: Yeni EBYS Yönergesi
+
+BAKANLIK MAKAMINA
+
+Bakanlığımız merkez, taşra ve yurt dışı teşkilatı ile bağlı ve ilgili kuruluşun merkez ve taşra teşkilatında etkinlik, verimlilik ve takip edilebilirliğin, zaman ve iş gücü ile kırtasiye giderlerinde tasarrufun sağlanması ve resmi yazışmalarda bilişim teknolojilerinden istifade edilmesi amacıyla geliştirilen Elektronik Belge Yönetim Sistemi'nin (EBYS) gelişen teknoloji ve değişen ihtiyaçlar doğrultusunda yenilenmesi gerekliliği hâsıl olmuştur. Bu kapsamda EBYS üzerinde Genel Müdürlüğümüz tarafından yazılım geliştirme çalışmaları yapılmış olup bahse konu çalışmalar tamamlanmıştır.
+
+Makamınızca da uygun görülmesi halinde 02.08.2018 tarihli ve 2082 sayılı Makam Onayı ile yürürlüğe giren "Sağlık Bakanlığı Elektronik Belge Yönetim Sistemi Yönergesi"nin kaldırılması ile "Sağlık Bakanlığı Yeni Elektronik Belge Yönetim Sistemi Yönergesi"nin onaylanması ve yürürlüğe konulması hususunu emir ve tensiplerinize arz ederim.
+
+Dr. M. Mahir ÜLGÜ
+
+Sağlık Bilgi Sistemleri Genel Müdürü V.
+
+Uygun görüşle arz ederim. [?] / 2022
+
+Dr. Şuayip BİRİNCİ
+
+Bakan Yardımcısı
+
+OLUR [?] / 2022
+
+Dr. Fahrettin KOCA
+
+Bakan
+
+Ek: Sağlık Bakanlığı Yeni Elektronik Belge Yönetim Sistemi Yönergesi (10 Sayfa)
 
 ### SAĞLIK BAKANLIĞI YENİ ELEKTRONİK BELGE YÖNETİM SİSTEMİ YÖNERGESİ
 

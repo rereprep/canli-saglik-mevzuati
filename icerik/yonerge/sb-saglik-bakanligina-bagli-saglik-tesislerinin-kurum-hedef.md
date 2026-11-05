@@ -11,8 +11,48 @@ ocr: true
 tarih: "2025-05-23"
 sayi: "277164646"
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.813"
+kontrol_edildi: true
 ---
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Kamu Hastaneleri Genel Müdürlüğü
+
+Sayı: E-32693113-010
+
+Konu: Kurum Hedef Katsayısının Hesaplanmasına İlişkin Yönerge
+
+BAKANLIK MAKAMINA
+
+Sağlık Bakanlığı Ek Ödeme Yönetmeliğinin 4 üncü maddesinin (n) fıkrasında "Kurum hedef katsayısı: Bakanlıkça sağlık tesislerinde dağıtımına karar verilen ek ödeme miktarının tesis başına belirlenmesinde çarpan olarak kullanılan ve ilgili birimin sağlık hizmet sunumu, finansal sürdürülebilirlik, çalışan ve hasta memnuniyeti gibi kriterler çerçevesinde düzenlenen 1,0 ile 1,3 arasında değişen katsayıyı, ifade eder." hükmü yer almaktadır.
+
+Bu hükme göre, Bakanlığımıza bağlı ikinci ve üçüncü basamak sağlık tesislerinde, döner sermayeden dağıtımına karar verilen ek ödeme miktarının tesis başına belirlenmesinde çarpan olarak kullanılacak kurum hedef katsayısının hesaplanması gerekmektedir.
+
+Bu minvalde kurum hedef katsayısının hesaplanmasına yönelik usul ve esasları belirlemek amacıyla Genel Müdürlüğümüzce hazırlanan "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Kurum Hedef Katsayısının Hesaplanmasına İlişkin Yönerge"nin yürürlüğe konulması hususunu;
+
+Takdir ve tensiplerinize arz ederim.
+
+Doç. Dr. A. Zülfikar AKELMA
+
+Genel Müdür
+
+Uygun görüşle arz ederim. [?] / 01 / 2023
+
+Doç. Dr. Tolga TOLUNAY
+
+Bakan Yardımcısı
+
+OLUR [?] / 01 / 2023
+
+Dr. Fahrettin KOCA
+
+Bakan
+
+Ek: Yönerge (2 Sayfa)
 
 ### SAĞLIK TESİSLERİ KURUM HEDEF KATSAYISININ BELİRLENMESİNE İLİŞKİN YÖNERGE
 
