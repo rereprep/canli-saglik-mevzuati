@@ -26,7 +26,7 @@ Dünyada eski çağlardan günümüze kadar bulaşıcı hastalıklar, sık ve ya
 
 Ülkemizde, bulaşıcı hastalıkların mortalitesi ve morbiditesinin azaltılması amacı ile oluşturulan bulaşıcı hastalıkların sürveyansı sistemi kapsamında, sağlık politikalarının belirlenmesi, hastalıklara ait kontrol programlarının oluşturulması, programların izlenmesi ve gerektiğinde yeni düzenlemeler yapılması amacı ile kullanılan temel veri kaynaklarının en önemlilerinden biri bulaşıcı hastalıkların ihbar ve bildirimi ile elde edilen bilgilerdir.
 
-Bulaşıcı hastalıkların ihbar ve bildirimi ile alakalı olarak Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği 30/05/2007 tarihli ve 26537 sayılı Resmi Gazete'de yayımlanmış ve yürürlüğe girmiştir. Daha sonra mezkur yönetmelikte yer alan ve hastalıkların bildirimlerinde kullanılan standart vaka tanımlarında güncelleme yapılarak mezkur yönetmelik değişikliği 02/04/2011 tarihli ve 27891 sayılı Resmi Gazete'de yayımlanmıştır.
+Bulaşıcı hastalıkların ihbarı ve bildirimi ile alakalı olarak Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği 30/05/2007 tarihli ve 26537 sayılı Resmi Gazete'de yayımlanmış, ve yürürlüğe girmiştir. Daha sonra mezkur yönetmelikte yer alan ve hastalıkların bildirimlerinde kullanılan standart vaka tanımlarında güncelleme yapılarak mezkur yönetmelik değişikliği 02/04/2011 tarihli ve 27891 sayılı Resmi Gazete'de yayımlanmıştır.
 
 Bulaşıcı hastalıkların halk sağlığı açısından tehdit oluşturma özellikleri olması ve bu tehditlerin erkenden saptanarak gerekli koruma ve kontrol önlemlerinin alınabilmesi amacı ile hastalık ihbar ve bildirimlerinin tanı koyan tüm hekimler tarafından yapılması gerekmektedir.
 

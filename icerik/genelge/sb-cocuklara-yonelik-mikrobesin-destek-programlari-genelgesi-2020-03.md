@@ -17,7 +17,7 @@ kontrol_edildi: true
 ### T.C. SAĞLIK BAKANLIĞI
 #### Halk Sağlığı Genel Müdürlüğü
 
-**Sayı :** 67414668-010.06.02  
+**Sayı :** 67414668-010.[?].[?]  
 **Konu :** Çocuklara yönelik mikrobesin destek programları
 
 ### GENELGE
