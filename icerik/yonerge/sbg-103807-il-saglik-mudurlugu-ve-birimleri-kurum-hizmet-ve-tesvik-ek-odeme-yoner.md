@@ -7,7 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103807/il-saglik-mudurlugu-ve-birimleri-kurum-hizmet-ve-tesvik-ek-odeme-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 9.2.2. İl Sağlık Müdürlüğü ve Birimleri Kurum Hizmet ve Teşvik Ek Ödeme Yönergesi

@@ -2,26 +2,26 @@
 id: "sbg-11049-calisan-guvenliginin-saglanmasiyla-ilgili-genelge"
 baslik: "Çalışan Güvenliğinin Sağlanmasıyla İlgili Genelge"
 tur: "genelge"
+tarih: "2012-05-14"
+sayi: "2012/23"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "Sağlık çalışanlarına yönelik şiddetin önlenmesi için Beyaz Kod, Çalışan Hakları ve Güvenliği Birimi, güvenlik tedbirleri, hizmetten çekilme ve hukuki yardım esaslarını düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11049/calisan-guvenliginin-saglanmasiyla-ilgili-genelge.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
-Sağlık Bakanlığı
+Sayı: B.10.0.SHG.0.21.00.00/951.99/6665  
+Konu: Çalışan güvenliğinin sağlanması  
+Tarih: 14/05/2012
 
-### : B.10.0.SHG.0.21.00.00 /951.99 / 6665 14/05/2012
+### GENELGE 2012/23
 
-Sayı Konu : Çalışan güvenliğinin sağlanması
-
-### GENELGE
-
-2012/.2.3
-
-Sağlık çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlığımızca bu çerçevede, sağlık çalişanlarının güvenliğine yönelik aşağıdaki düzenlemeler yapılarak kurumlarımız
+Sağlık çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlığımızca bu çerçevede, sağlık çalışanlarının güvenliğine yönelik aşağıdaki düzenlemeler yapılarak kurumlarımız talimatlandırılmıştı.
 
 a) Tüm sağlık kurumlarında, hizmet alanlar ve sağlık çalışanları için güvenli bir ortam sağlanması amacıyla yayımlanan "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik" doğrultusunda;
 
@@ -43,11 +43,11 @@ a) Tüm sağlık kurumlarında, hizmet alanlar ve sağlık çalışanları için
 
 b) Kurumlarımızda uygulamaya konulan "Hizmet Kalite Standartları" kapsamında çalışma ortamından kaynaklanan risklerin bertaraf edilmesi amacıyla şiddet ve iletişim konularını da kapsayacak şekilde risk değerlendirmesi yapılarak gerekli tedbirlerin alınması.
 
-c) Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ" ile acil servisler başta olmak üzere riskli alanlarda güvenlik tedbirleri artırılarak, genel kolluk ve özel güvenlik personeliyle güvenlik kamerası bulundurulmasının sağlanması.
+c) "Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ" ile acil servisler başta olmak üzere riskli alanlarda güvenlik tedbirleri artırılarak, genel kolluk ve özel güvenlik personeliyle güvenlik kamerası bulundurulmasının sağlanması.
 
-Diğer taraftan şiddeti azaltmaya yönelik çalışmaların basın mensupları, iletişim uzmanları, idareciler ve sağlık çalışanlarıyla birlikte değerlendirildiği sempozyum düzenleyerek ulusal düzeyde sürekliliği olan "Emeğe Saygı Şiddete Sıfır Tolerans" kampanyasını başlatmıştık. Bu kampanya kapsamında vatandaşı bilgilendirmek ve toplumsal bilinç oluşturmak amacı ile çalışmalarımızı yürütmekteyiz. Ayrıca "hasta ve çalışan güvenliği sempozyumları" düzenleyerek sağlık
+Diğer taraftan şiddeti azaltmaya yönelik çalışmaların basın mensupları, iletişim uzmanları, idareciler ve sağlık çalışanlarıyla birlikte değerlendirildiği sempozyum düzenleyerek ulusal düzeyde sürekliliği olan "Emeğe Saygı Şiddete Sıfır Tolerans" kampanyasını başlatmıştık. Bu kampanya kapsamında vatandaşı bilgilendirmek ve toplumsal bilinç oluşturmak amacı ile çalışmalarımızı yürütmekteyiz. Ayrıca "hasta ve çalışan güvenliği sempozyumları" düzenleyerek sağlık çalışanlarına eğitimler vermekteyiz.
 
-Kişinin fiziksel ve psikolojik açıdan zarar görmesiyle sonuçlanan veya sonuçlanması muhtemel olan sözlü veya fiili hareketler olarak tanımlanan şiddet olaylarının önlenmesi amacıyla, mevcut uygulamaların gözden geçirilmesi önem taşımaktadır. Bu itibarla çalışan güvenliğinin sağlanmasında yöneticilerimize büyük görev ve sorumluluk düşmekte olup aşağıdaki talimatlar
+Kişinin fiziksel ve psikolojik açıdan zarar görmesiyle sonuçlanan veya sonuçlanması muhtemel olan sözlü veya fiili hareketler olarak tanımlanan şiddet olaylarının önlenmesi amacıyla, mevcut uygulamaların gözden geçirilmesi önem taşımaktadır. Bu itibarla çalışan güvenliğinin sağlanmasında yöneticilerimize büyük görev ve sorumluluk düşmekte olup aşağıdaki talimatlar hassasiyetle uygulanacaktır.
 
 1) Beyaz kod uygulaması;
 
@@ -57,17 +57,11 @@ b) Görevli müdahale ekiplerinin olay yerine en kısa zamanda ulaşması sağla
 
 c) Gerçekleşen olayların analizi yapılarak, ilgili sağlık kurumuna özgü tedbirler artırılacaktır.
 
-1
-
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-Sağlık Bakanlığı
-
 2) Çalışan Hakları ve Güvenliği Birimi;
 
 Hastane ile ağız ve diş sağlığı merkezlerinde bir başhekim yardımcısının doğrudan takip edeceği "Çalışan Hakları ve Güvenliği Birimleri" kurulacaktır. Bağlı birimlerdeki çalışan hakları ve güvenliğine ilişkin iş ve işlemlerini yürütmek üzere halk sağlığı müdürlükleri ile il sağlık müdürlüklerinde de bir müdür yardımcısının doğrudan takibinde aynı birimler kurulacaktır.
 
-a) Bu birim tüm sağlık çalışanlarının kolay ulaşabileceği bir yerde olacaktır. Gerekli ekipman (dış hatta açık telefon, faks, internet bağlantılı bilgisayar ve uygun görüşme ortamı) temin
+a) Bu birim tüm sağlık çalışanlarının kolay ulaşabileceği bir yerde olacaktır. Gerekli ekipman (dış hatta açık telefon, faks, internet bağlantılı bilgisayar ve uygun görüşme ortamı) temin edilecektir.
 
 b) Birimde tercihen sosyal hizmet uzmanı, psikolog veya halkla ilişkiler uzmanı sekretarya olarak görevlendirilecek ve yeterli sayıda personel bulundurulacaktır.
 
@@ -83,7 +77,7 @@ b) Acil servis, yoğun bakım ve ameliyathane gibi şiddet riskinin yüksek oldu
 
 c) Hasta mahremiyeti dikkate alınmak şartıyla, kurumların tüm alanlarını gözetleyebilecek şekilde güvenlik kameraları yerleştirilecek ve kamera görüntüleri sürekli takip edilecektir. Şüpheli durumlara ve kişilere bu konuda eğitilmiş özel güvenlik elemanları anında müdahale edecektir.
 
-d) Iletişim becerileri ve sorunlu hasta/hasta yakınlarını tanıma-çatışma yönetimi konularında eğitim almış kişiler, bekleme alanlarında görevlendirilecek ve "sorun çözücü" olarak çalışmaları temin edilecektir.
+d) İletişim becerileri ve sorunlu hasta/hasta yakınlarını tanıma-çatışma yönetimi konularında eğitim almış kişiler, bekleme alanlarında görevlendirilecek ve "sorun çözücü" olarak çalışmaları temin edilecektir.
 
 e) Fiziki mekanlar 24 saat boyunca yeterli düzeyde aydınlatılacak ve havalandırılacaktır.
 
@@ -91,21 +85,17 @@ f) Personelin alternatif çıkış yolları oluşturulacaktır.
 
 4) Çalışanların eğitimi;
 
-a) Başta güvenlik görevlileri, 112 ve acil çalışanları olmak üzere çalışanlara iletişim becerileri, öfke kontrolü ve özellikle öfkeli hasta ve hasta yakınıyla iletişim konularında eğitim
+a) Başta güvenlik görevlileri, 112 ve acil çalışanları olmak üzere çalışanlara iletişim becerileri, öfke kontrolü ve özellikle öfkeli hasta ve hasta yakınıyla iletişim konularında eğitim verilecektir.
 
 b) Sağlık çalışanlarına şiddet davranışına karşı tedbir alma eğitimleri verilecektir.
 
 5) Hasta ve hasta yakınlarının bilgilendirilmesi;
 
-a) Hasta ve hasta yakınlarının ilk olarak nereye müracaat edecekleri, hangi işlemler ve tedavinin yapılacağı, tetkik ve tahlillerin nerede yapılacağı, beklemeleri gerekiyorsa ne kadar süreyle bekleyecekleri gibi konularda bilgilendirme süreçleri gözden geçirilerek eksiklikler varsa tamamlanacaktır. Bu amaçla acil servisler bașta olmak üzere hastanın durumu ile ilgili hasta ve/veya hasta yakınlarını bilgilendirmek üzere "hasta bilgilendirme alanları" güçlendirilerek ve hangi durumlarda, ne sıklıkta ve kim tarafından bilgilendirme yapılacağı belirlenecektir.
+a) Hasta ve hasta yakınlarının ilk olarak nereye müracaat edecekleri, hangi işlemler ve tedavinin yapılacağı, tetkik ve tahlillerin nerede yapılacağı, beklemeleri gerekiyorsa ne kadar süreyle bekleyecekleri gibi konularda bilgilendirme süreçleri gözden geçirilerek eksiklikler varsa tamamlanacaktır. Bu amaçla acil servisler başta olmak üzere hastanın durumu ile ilgili hasta ve/veya hasta yakınlarını bilgilendirmek üzere "hasta bilgilendirme alanları" güçlendirilerek ve hangi durumlarda, ne sıklıkta ve kim tarafından bilgilendirme yapılacağı belirlenecektir.
 
 b) Vatandaşı şiddete uğrayan sağlık personelinin hizmet vermekten çekilme hakkının bulunduğu, böyle bir durumda hizmet alma sürecinin aksayabileceği konusunda bilgilendirilecektir.
 
-c) Vatandaş, sağlık çalışanına yönelik şiddet uygulayanların mutlaka yargılanacağı ve cezalandırılacağı konusunda (pano/afiş/broşürler gibi vasıtalarla) bilgilendirecektir.
-
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-Sağlık Bakanlığı
+c) Vatandaş, sağlık çalışanına yönelik şiddet uygulayanların mutlaka yargılanacağı ve cezalandırılacağı konusunda (pano/afiş/broşürler gibi vasıtalarla) bilgilendirilecektir.
 
 6) Hizmetten çekilme;
 
@@ -115,44 +105,35 @@ a) Hizmetten çekilme talebi, kurum tarafından belirlenen yöneticiye sözlü v
 
 b) Bildirim üzerine yetkili yönetici, olayı derhal değerlendirerek hizmetten çekilme talebinin uygun olup olmadığı hakkında gecikmeksizin karar verecektir.
 
-c) Yetkili yönetici, hizmetten çekilme talebini uygun bulduğu takdirde hastanın sağlık hizmeti almasına ve tedavisinin devamına yönelik tedbirleri güvenlik tedbirleriyle birlikte alacaktır. Bu kapsamda ilgili hastanın sağlık hizmetini devam ettirecek yeni sağlık çalışanını belirleyecek. kurum içerisinde bunun mümkün olmaması halinde hastanın hizmet alabileceği başka bir sağlık kurumuna sevkini ve hizmet alımını sağlayacaktır. Bu süreç sırasında hastanın tedavisinin aksatılmamasına itina edilecektir.
+c) Yetkili yönetici, hizmetten çekilme talebini uygun bulduğu takdirde hastanın sağlık hizmeti almasına ve tedavisinin devamına yönelik tedbirleri güvenlik tedbirleriyle birlikte alacaktır. Bu kapsamda ilgili hastanın sağlık hizmetini devam ettirecek yeni sağlık çalışanını belirleyecek, kurum içerisinde bunun mümkün olmaması halinde hastanın hizmet alabileceği başka bir sağlık kurumuna sevkini ve hizmet alımını sağlayacaktır. Bu süreç sırasında hastanın tedavisinin aksatılmamasına itina edilecektir.
 
 7) Bildirim süreci ve hukuki yardım;
 
-Sağlık çalışanlarına yönelik şiddet olaylarını takip etmek üzere "Bakanlık Beyaz Kod Birimi"
+Sağlık çalışanlarına yönelik şiddet olaylarını takip etmek üzere "Bakanlık Beyaz Kod Birimi" kurulmuş, 24 saat hizmet verecek "113" numaralı telefon ve "www.beyazkod.saglik.gov.tr" internet sayfası oluşturulmuştur.
 
-24 saat hizmet verecek "113" numaralı telefon ve "www.beyazkod.saglik.gov.tr" internet sayfası oluşturulmuştur.
+a) Kamu ve özel tüm sağlık kurum ve kuruluşlarında gerçekleşen şiddet olayları, yöneticiler tarafından derhal "113" numaralı telefonla Bakanlık Beyaz Kod Birimine bildirilecek, eş zamanlı olarak ilgili kurumun hukuk birimine ve adli mercilere intikal ettirilecektir. Kamu görevlilerine karşı işlenen şiddet olaylarının takibi şikâyete bağlı olmadığından, ilgili personelin şikâyetinin olup olmadığına bakılmaksızın yönetic'ler olayı mutlaka adli mercilere intikal ettirecektir. Özel sağlık kuruluşları da adli bildirim konusunda gerekli hassasiyeti gösterecektir.
 
-a) Kamu ve özel tüm sağlık kurum ve kuruluşlarında gerçekleşen şiddet olayları, yöneticiler tarafindan derhal "113" numaralı telefonla Bakanlık Beyaz Kod Birimine bildirilecek, eş zamanlı olarak ilgili kurumun hukuk birimine ve adli mercilere intikal ettirilecektir. Kamu görevlilerine karşı işlenen şiddet olaylarının takibi şikâyete bağlı olmadığından, ilgili personelin şikâyetinin olup olmadığına bakılmaksızın yönetic'ler olayı mutlaka adli mercilere intikal ettirecektir. Özel sağlık kuruluşları da adli bildirim konusunda gerekli hassasiyeti gösterecektir.
+b) Şiddete uğrayan sağlık çalışanı tarafından da "113" numaralı telefona doğrudan bildirim yapılabilecektir.
 
-b) Şiddete uğrayan sağlık çalışanı tarafindan da "113" numaralı telefona doğrudan bildirim yapılabilecektir.
+c) Ayrıca yöneticiler, "www.beyazkod.saglik.gov.tr" adresinde bulunan "Beyaz Kod Bildirim Formu"nu dolduracaktır.
 
-c) Ayrıca yöneticiler, "www.beyazkod.saglik.gov.tr" adresinde bulunan "Beyaz. Kod Bildirim Formu'nu dolduracaktır
+d) Bildirim üzerine Bakanlık Beyaz Kod Birimi, yöneticilere ve/veya ilgili personele hukuki süreçle ilgili rehberlik yapacak, olayın adli makamlara intikal ettirilip ettirilmediğini araştıracak ve şayet ettirilmemiş ise olayı derhal adli makamlara bildirecektir. Ayrıca şiddet olayının gerçekleştiği sağlık kurumunun hukuk birimine olayın bildirildiğini tespit ederek olayın takibini temin edecektir.
 
-d) Bildirim üzerine Bakanlık Beyaz Kod Birimi, yöneticilere ve/veya ilgili personele hukuki süreçle ilgili rehberlik yapacak, olayın adli makamlara intikal ettirilip ettirilmediğini araştıracak ve şayet ettirilmemiş ise olayı derhal adli makamlara bildirecektir. Ayrıca șiddet olayının gerçekleștiği sağlık kurumunun hukuk birimine olayın bildirildiğini tespit ederek olayın takibini temin edecektir.
-
-e) Hukuk birimleri, işlenen suçtan mağdur olan Bakanlık personeline veya vefatı halinde kanuni mirasçılarına bir avukatın hukuki yardımını isteyip istemediğini soracak ve talep etmeleri halinde Bakanlık avukatlarınca ilgili personele 28/04/2012 tarihli ve 28277 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığı Personeline Karşı İşlenen Suçlar Nedeniyle Yapılacak Hukuki Yardımın Usul ve Esasları Hakkında Yönetmelik" çerçevesinde hukuki yardım yapılacaktır.
+e) Hukuk birimleri, işlenen suçtan mağdur olan Bakanlık personeline veya vefatı halinde kanuni mirasçılarına bir avukatın hukuki yardımını isteyip istemediğini soracak ve talep etmeleri halinde Bakanlık avukatlarınca ilgili personele 28/04/2012 tarihli ve 28277 sayılı Resmi Gazete'de yayımlanan "Sağlık Bakanlığı Personeline Karşı İşlenen Suçlar Nedeniyle Yapılacak Hukuki Yardımın Usul ve Esasları Hakkında Yönetmelik" çerçevesinde hukuki yardım yapılacaktır.
 
 8) Diğer hususlar;
 
-a) "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik"in 7 ve 8 inci maddeleri, "Hastane Hizmet Kalite Standartları" çerçevesinde daha etkili şekilde uygulanmaya devam
+a) "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik"in 7 ve 8 inci maddeleri, "Hastane Hizmet Kalite Standartları" çerçevesinde daha etkili şekilde uygulanmaya devam edilecektir.
 
 b) İl sağlık müdürü konuyla doğrudan sorumlu bir sağlık müdür yardımcısı ile birlikte kurumlarda çalışan güvenliği uygulamaları ve alınan tedbirleri aylık periyotlarla izleyecek ve Bakanlığa rapor edecektir.
 
-c) SABIM'e yapılan sağlık çalışanları hakkındaki şikayetler, başvuruların ancak % 4'ünü oluşturmaktadır. SABIM'e ve hasta hakları birimine yapılan sağlık çalışanları hakkındaki şikâyetler, öncelikle SABIM'den sorumlu il sağlık müdür yardımcısı ve hasta haklarından sorumlu başhekim yardımcısı tarafından ön değerlendirmeye tabi tutulacak, genel ve
+c) SABİM'e yapılan sağlık çalışanları hakkındaki şikayetler, başvuruların ancak % 4'ünü oluşturmaktadır. SABİM'e ve hasta hakları birimine yapılan sağlık çalışanları hakkındaki şikâyetler, öncelikle SABİM'den sorumlu il sağlık müdür yardımcısı ve hasta haklarından sorumlu başhekim yardımcısı tarafından ön değerlendirmeye tabi tutulacak, genel ve soyut nitelikte olan, şikayet sahibinin adı ve adresi belli olmayan veya personelin kusuru bulunmadığı açıkça görülen ihbar ve şikayetler değerlendirmeye alınmayacaktır.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+Genelgenin İlinizde bulunan tüm kamu, üniversite ve özel sağlık kurum ve kuruluşlarına duyurulması ve uygulanmasının teminini, ayrıca Bakanlığımızca çalışan güvenliğine ilişkin olarak yapılacak yeni düzenlemelerin titizlikle takibini önemle rica ederim.
 
-Sağlık Bakanlığı soyut nitelikte olan, şikayet sahibinin adı ve adresi belli olmayan veya personelin kusuru bulunmadığı açıkça görülen ihbar ve şikayetler değerlendirmeye alınmayacaktır.
-
-Genelgenin Ilinizde bulunan tüm kamu, üniversite ve özel sağlık kurum ve kuruluşlarına duyurulması ve uygulanmasının teminini, ayrıca Bakanlığımızca çalışan güvenliğine ilişkin olarak yapılacak yeni düzenlemelerin titizlikle takibini önemle rica ederim.
-
-Prof. Dr. Recep AKDAĞ
-
+Prof. Dr. Recep AKDAĞ  
 Bakan
 
-### DAĞITIM
+### DAĞITIM:
 
 A Planı
-
-4

@@ -6,11 +6,11 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11168/organ-nakli-merkezleri-2013-yili-planlanmasi-201248.html"
 durum: "yürürlükte"
-ocr: "true"
+ocr: true
 tarih: "2012-12-27"
 sayi: "2012/48"
 konu: "2013 yılı organ nakli merkezi lisans planlamasını ve başvuru koşullarını belirler."
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

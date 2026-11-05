@@ -7,7 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103810/saglik-bakanligi-sosyal-tesisler-isletme-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 9.2.3. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi

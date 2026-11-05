@@ -7,7 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103800/saglik-bakanligi-on-mali-kontrol-islemleri-yonergesi-degisiklikler-islenmis-hali.html"
 durum: "yürürlükte"
 ocr: true
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi (Değişiklikler İşlenmiş Hâli)

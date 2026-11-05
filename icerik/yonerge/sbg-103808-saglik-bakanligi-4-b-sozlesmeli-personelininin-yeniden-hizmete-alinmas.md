@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103808/saglik-bakanligi-4b-sozlesmeli-
 not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 9.2.8. Sağlık Bakanlığı 4/B Sözleşmeli Personelininin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönerge

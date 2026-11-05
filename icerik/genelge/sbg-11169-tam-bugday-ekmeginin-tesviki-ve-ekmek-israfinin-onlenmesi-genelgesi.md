@@ -6,11 +6,11 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11169/tam-bugday-ekmeginin-tesviki-ve-ekmek-israfinin-onlenmesi-genelgesi.html"
 durum: "yürürlükte"
-ocr: "true"
+ocr: true
 tarih: "2013-03-20"
 sayi: "2013/02"
 konu: "Tam buğday ekmeği kullanımını teşvik etme ve ekmek israfını önleme çalışmalarını ister."
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

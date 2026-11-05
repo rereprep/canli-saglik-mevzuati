@@ -6,11 +6,11 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11147/ambulans-hava-araci-isletmesine-dair-esaslar.html"
 durum: "yürürlükte"
-ocr: "true"
+ocr: true
 tarih: "2010-04-21"
 sayi: "B.10.0.TSH.0.16.08"
 konu: "Ambulans helikopter ve uçaklarının işletilmesi ile görevlendirilme usullerini düzenler."
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

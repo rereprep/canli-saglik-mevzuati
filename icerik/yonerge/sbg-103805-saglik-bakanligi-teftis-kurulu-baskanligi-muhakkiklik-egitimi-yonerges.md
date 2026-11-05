@@ -7,7 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103805/saglik-bakanligi-teftis-kurulu-baskanligi-muhakkiklik-egitimi-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 ## 10.2. YÖNERGELER

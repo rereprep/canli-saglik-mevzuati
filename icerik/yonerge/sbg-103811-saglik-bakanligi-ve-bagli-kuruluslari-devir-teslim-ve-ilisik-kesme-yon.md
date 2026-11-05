@@ -7,7 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103811/saglik-bakanligi-ve-bagli-kuruluslari-devir-teslim-ve-ilisik-kesme-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 9.2.7. Sağlık Bakanlığı ve Bağlı Kuruluşları Devir-Teslim ve İlişik Kesme Yönergesi

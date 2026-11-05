@@ -6,11 +6,11 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11146/kizamik-kizamikcik-ve-konjenital-kizamikcik-kks-surveyansi-genelgesi-2010.html"
 durum: "yürürlükte"
-ocr: "true"
+ocr: true
 tarih: "2010-04-01"
 sayi: "2010/20"
 konu: "Türkiye’de kızamık ve kızamıkçığın eliminasyonu ile konjenital kızamıkçık sendromunun önlenmesine yönelik sürveyans kurallarını belirler."
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

@@ -2,47 +2,44 @@
 id: "denetim-formlari"
 baslik: "Denetim Formları"
 tur: "yazi"
-konu: "Denetim Formları hakkındaki düzenlemeler ve uygulama esasları."
+tarih: "2012-01-30"
+sayi: "B.10.0.TSH.0.20.00.01"
+birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "Aile sağlığı merkezi ve aile hekimliği birimlerinin rutin ve olağan dışı denetimlerinde kullanılacak denetim formlarını bildirir."
 etiketler: ["denetim", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 476-476"
+kaynak_pdf_sayfa: "482"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## DENETIM FORMLARI T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdüelüğü
+## DENETİM FORMLARI
 
-TC.
+T.C.
+SAĞLIK BAKANLIĞI
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-### SAGLIK BAKANLIGI
+Sayı: B.10.0.TSH.0.20.00.01
+Konu: Denetim Formları
 
-Say1 : B.10.0.TSH.0.20,00.01 Tentel Sağ, Hiz. Genel Nd. Aile
+### ……………………… VALİLİĞİNE (İl Sağlık Müdürlüğü)
 
-Helan ded Uy gelano Sube Mid.
+İLGİ: 03.01.2012 tarihli ve 306 sayılı yazımız.
 
-Konu : Denetim Formlar 30 Ocal: 2012 14:00:22 /2592
+İlgi yazımızla; 5258 sayılı Aile Hekimliği Kanunu'nun "Denetim, sorumluluk ve mal bildirimi" başlıklı 6 ncı maddesi, 25.05.2010 tarihli ve 27591 sayılı Resmi Gazete'de yayımlanan "Aile Hekimliği Uygulama Yönetmeliği"nin "Denetim" başlıklı 29 uncu maddesi ve 30.12.2010 tarihli ve 27801 sayılı Resmi Gazete'de yayımlanan "Aile Hekimliği Uygulaması Kapsamında Sağlık Bakanlığınca Çalıştırılan Personele Yapılacak Ödemeler İle Sözleşme Usul Ve Esasları Hakkında Yönetmelik"in "Denetim" başlıklı 11 inci maddesinde yer alan hükümler çerçevesinde Bakanlık, ilgili mülki idare amirleri ve yerel sağlık idare amirleri veya bunların görevlendireceği personel tarafından aile sağlığı merkezi, aile hekimleri ve aile sağlığı elemanlarını mevzuat ve sözleşme hükümlerine uygunluk ile diğer konularda nasıl denetleneceğine ilişkin hususlar belirlenmiştir.
 
-### ........ VALILIGINE (İl Sağlık Müdürlüğu)
-
-ILGI: 03.01.2012 tarihli ve 306 sayılı yazımız.
-
-İlgi yazımızla; 5258 sayılı Aile Hekimliği Kanunu'nun "Denetim, sorumluluk ve mal bildirimi" başhkh 6 nct maddesi, 25.05.2010 tarihli ve 27591 sayıh Resmi Gazete'de yayımlanan "Aile Hekimliği Uygulama Yönetmeliği"nin "Denetim" başkıkh 29 uncu maddesi ve 30.12.2010 tarihli ve 27801 sayıl Resmi Gazete'de yayimlanan Aile Hekimliği Uygulaması Kapsamında Sağlık Bakanlığınca Çalıştırılan Personele Yapılacak Odemeler Ile Sözleşme Usul Ve Esasları Hakkında Yönetmelik"in "Denetim" başlıkhı 11 inci maddesinde yer alan hükümler çerçevesinde Bakanhk, ilgili mülki idare amirleri ve yerel sağlık idare amirleri veya bunların görevlendireceği personel tarafından aile sağlığı merkezi, aile hekimleri ve aile sağlığı elemanlarını mevzuat ve sözleşme hükümlerine uygunluk ile diğer konularda nasıl denetleneceğine ilişkin hususlar belirlenmiştir.
-
-Bu kapsamda; ilinizde aile sağlığı merkezi, aile hekimleri ve aile sağlığı elemanlarının rutin denetimleri ile olağandışı durum, ihbar ve şikâyet durumlarında yapılacak olan denetimlerinde ekte yer alan ve ayn zamanda resmi sayfamızda (www.ailehekimligi.gov.tr) yayımlanmiş olan EK - 1 Aile Sağlığı Merkezi Denetim Formu" ve "EK - 2 Aile Hekimliği Birimi Denetim Formu" ve "EK - 3 ASM ve AHB'nin Olağan Dışı Durum, Ihbar Ve Şikâyetlerinde Kullanılacak Denetim Formu Ve Inceleme Tutanağı" mın kullanılması hususunda;
+Bu kapsamda; ilinizde aile sağlığı merkezi, aile hekimleri ve aile sağlığı elemanlarının rutin denetimleri ile olağandışı durum, ihbar ve şikâyet durumlarında yapılacak olan denetimlerinde ekte yer alan ve aynı zamanda resmi internet sayfamızda (www.ailehekimligi.gov.tr) yayımlanmış olan "EK - 1 Aile Sağlığı Merkezi Denetim Formu" ve "EK - 2 Aile Hekimliği Birimi Denetim Formu" ve "EK - 3 ASM ve AHB'nin Olağan Dışı Durum, İhbar Ve Şikâyetlerinde Kullanılacak Denetim Formu Ve İnceleme Tutanağı"nın kullanılması hususunda;
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Doạ! ĐP. Turah BUZGAN
-
+Doç. Dr. Turan BUZGAN
 Bakan a.
+Müsteşar Yardımcısı
 
-Müsteşar Yardımc15ı EK-1: Aile Sağlığı Merkezi Denetim Formu EK-2: Aile Hekimliği Birimi Denetim Formu EK-3: ASM ve AHB' nin Olağan Dışı Durum, Ihbar Ve
+EK-1: Aile Sağlığı Merkezi Denetim Formu
+EK-2: Aile Hekimliği Birimi Denetim Formu
+EK-3: ASM ve AHB'nin Olağan Dışı Durum, İhbar Ve Şikâyetlerinde Kullanılacak Denetim Formu Ve İnceleme Tutanağı
 
-Şikâyetlerinde Kullanılacak Denetim Formu Ve İnceleme Tutanağı Dağıtım: 81 Il Valiliği
-
-Adres: Alle Hekimliği Daire Başkanlığı TIF: (0 312]5851321, 5851436, 5851425
-
-Sağlık Bakanlığı B blok, 4. Kat Faks: (0312)4322665
-
-Mithatpaşa Cad. No:3, Sihhiye/ANKARA E-posta adresi: alle@saglik.gov.tr
-
-### 476
+Dağıtım:
+81 İl Valiliği

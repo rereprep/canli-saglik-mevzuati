@@ -2,59 +2,81 @@
 id: "gezici-saglik-hizmeti-planlamalari"
 baslik: "Gezici Sağlık Hizmeti Planlamaları"
 tur: "yazi"
-konu: "Gezici Sağlık Hizmeti Planlamaları hakkındaki düzenlemeler ve uygulama esasları."
+tarih: "2019-12-03"
+sayi: "99858683-431.03.01"
+birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Gezici sağlık hizmeti planlamalarının altı aylık dönemlerle değerlendirilip yenilenen Form-5 ile her yıl Kasım ve Mayıs aylarında Bakanlığa sunulmasını ister."
 etiketler: ["mobil-saglik", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 565-566"
+kaynak_pdf_sayfa: "571-572"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## GEZİCİ SAĞLIK HİZMETİ PLANLAMALARI HALK SAGLIGI GENEL MUDURLUGU - HSOM AILE HEKİMLIKI DAIRESİ BAŞKANLIĞI
+## GEZİCİ SAĞLIK HİZMETİ PLANLAMALARI
 
-09/12/2019 21.23 - E.90858683 - 431.03.01 - E 232:
+T.C.
+SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
 
-### T.C. SAĞLIK BAKANLIĞI 00106768417
-
-Halk Sağlığı Genel Müdürlüğü к-а T QNet
-
-### TSE-ISO-EN 9000 CERTIFICATE
-
-Sayı : 99858683-431.03.01 Konu : Gezici Sağlık Hizmeti Planlamalan
+Sayı: 99858683-431.03.01
+Konu: Gezici Sağlık Hizmeti Planlamaları
 
 ### DAĞITIM YERLERİNE
 
-Ilgi :a) Mülga Türkiye Halk Sağlığı Kurumu'nun 28.10.2014 tarihli ve E.92 sayılı yazısı
+İlgi: a) Mülga Türkiye Halk Sağlığı Kurumu'nun 28.10.2014 tarihli ve E.92 sayılı yazısı
 
 b) Mülga Türkiye Halk Sağlığı Kurumu'nun 18.05.2015 tarihli ve E.1039 sayılı yazısı
 
-Aile hekimlıği uygulaması kapşamında sağlık hizmetine ulaşımın zor olduğu belde, köy, mezra, uzak mahalleler ve benzeri yerleşim yerlerine gezici sağlık hizmeti planlanarak, aile hekimleri ve aile sağlığı çalışanlarınca sağlık hizmeti sunulması sağlanmakta olup, bu hizmete ilişkin planlamalar ve ödemeler Aile Hekimliği Uygulama Yönetmeliği'nin 6 ncı maddesi ve Aile Hekimliği Odeme ve Sözleşme Yönetmeliği'nin 16 ncı ve 17 nci maddesi hükümleri çerçevesinde yapılmaktadır.
+Aile hekimliği uygulaması kapsamında sağlık hizmetine ulaşımın zor olduğu belde, köy, mezra, uzak mahalleler ve benzeri yerleşim yerlerine gezici sağlık hizmeti planlanarak, aile hekimleri ve aile sağlığı çalışanlarınca sağlık hizmeti sunulması sağlanmakta olup, bu hizmete ilişkin planlamalar ve ödemeler Aile Hekimliği Uygulama Yönetmeliği'nin 6 ncı maddesi ve Aile Hekimliği Ödeme ve Sözleşme Yönetmeliği'nin 16 ncı ve 17 nci maddesi hükümleri çerçevesinde yapılmaktadır.
 
-Gezici sağlık hizmeti planlamalarında kişilerin sağlık hizmetlerine erişiminin kolaylaştırılması yanında kamu kaynaklarının maliyet - etkin kullanımı da önem arz ettiğinden, mevcut durumu etkıleyen değışıklıklerin süreç ıçerisınde takıbı ve değerlendirilmesi gerekmektedir. Bu kapsamda il sağlık müdürlüğünüzce il genelindeki tüm gezici sağlık hizmeti planlamaları 6 (altı) aylık dönemler halinde; yerleşim yerlerinin toplam nüfusu ve nüfus özellikleri, coğrafi şartları, iklim, ulaşım koşulları, sağlık kurumlarına uzaklıkları, sunulan gezıcı sağlık hızmetının etkınlığı, yerleşım yerlerinde ıkamet eden kişilerin hizmet alma alışkanlıkları, aile hekimlerinin mevcut nüfusu, gezici sağlık hizmeti güzergähları ve sefer sayıları dikkate alınarak değerlendirilecektir. Değerlendirme sonucu (mevcut halinin devamı ya da gezici sağlık hizmeti kapsamına alma, gezici sağlık hizmeti kapsamından çıkarma ve hekim bağlantı değişikliği) her yıl Kasım ve Mayıs aylarında gezici sağlık hizmeti planlamasına ilişkin Form-5 dokümanı üzerinde ilgili alanlarda belirtilerek Bakanlığımıza sunulacaktır.
+Gezici sağlık hizmeti planlamalarında kişilerin sağlık hizmetlerine erişiminin kolaylaştırılması yanında kamu kaynaklarının maliyet - etkin kullanımı da önem arz ettiğinden, mevcut durumu etkileyen değişikliklerin süreç içerisinde takibi ve değerlendirilmesi gerekmektedir. Bu kapsamda il sağlık müdürlüğünüzce il genelindeki tüm gezici sağlık hizmeti planlamaları 6 (altı) aylık dönemler halinde; yerleşim yerlerinin toplam nüfusu ve nüfus özellikleri, coğrafi şartları, iklim, ulaşım koşulları, sağlık kurumlarına uzaklıkları, sunulan gezici sağlık hizmetinin etkinliği, yerleşim yerlerinde ikamet eden kişilerin hizmet alma alışkanlıkları, aile hekimlerinin mevcut nüfusu, gezici sağlık hizmeti güzergâhları ve sefer sayıları dikkate alınarak değerlendirilecektir. Değerlendirme sonucu (mevcut halinin devamı ya da gezici sağlık hizmeti kapsamına alma, gezici sağlık hizmeti kapsamından çıkarma ve hekim bağlantı değişikliği) her yıl Kasım ve Mayıs aylarında gezici sağlık hizmeti planlamasına ilişkin Form-5 dokümanı üzerinde ilgili alanlarda belirtilerek Bakanlığımıza sunulacaktır.
 
 Ayrıca ilgi (a) yazı ekinde yer alan Form-5 dokümanı ihtiyaca binaen yeniden düzenlenerek ekte sunulmuş olup, gezici sağlık hizmetine ilişkin işlemlerde ekte yer alan dokümanın kullanılması hususunda;
 
 Bilgilerinizi ve gereğini rica ederim.
 
 Doç. Dr. Fatih KARA
-
 Bakan a.
+Genel Müdür
 
-Genel Müdür Ek: Form-5 (1 Sayfa)
+Ek: Form-5 (1 Sayfa)
 
-### DAGITIM
+DAĞITIM
 
-Gereği 81 1l Valiliği (Il Sağlk Müdürlüğü) lalk Sağla spek Madacag2taakintigi Dinsi/Bagksat@bcc0 Belge Doğrulama Adresi: https://www.tukig9ĘMNBalik/eYy|sitky aghk babales Pref PeNistet Fisek Caddesi No. Al Sihhiye/ANKAR/ Telefon: Faks No: HEMŞIRE
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
 
-### AÇIKLAMA ( BELIRTİLMESİ GEREKEN DIĞER HUSUSLAR) İLGİLI ALE HEKİMLERİNİN GÜRÜŞÜ OLUMLU OLUMSUZ
+### FORM - 5 GEZİCİ SAĞLIK HİZMETİ PLANLAMA FORMU
 
-YERLEŞİM YERİ GEZİCİ SAĞLIK HİZMETİ KAPSAMINA ALINDIKTAN/ÇIKARILDIKTAN SONRA ALLE HEKİMLİĞİ BİRİMİNİN KOS VERLERINE GORE GENEL NÜFUS DURUMU TOPLAM NÜFUS YERİNDE NÜFUS NÜRUS YERLEŞİK
+Formun sütunları, soldan sağa:
 
-### YERiNDE VERILEN YERLESİN NÜFUS GEZİCİ SAĞLIK HiZMEti MEKAN DURUMU (VAR(/YOK) GEŹİC HİZMETİ PLANI DEĞİŞİKLİĞi GEREKÇES PLANLANAN İŞLEM (KAPSAMA ALMA/ KAPSANDAN DEĞiŞiKLİK YOK) KAPSANDAN DeĞŞiKİK YOK DEĞISİKLİK YOK KAPSAMA ALMA DEĞISİKLİK YOK KAPSAMA ALMA ÇIKARMA/ ÇIKARMA GEZİCİ SAĞLIK HİZMETİ PLANLAMA FORMU YERLEŞIM YERINDEN BASU OLDUGU ALE SAĞLIĞ MERKEZÍNE ULAŞIM DURUMU GÜNDC KAC DEL ATÍLAMEL YERLEŞIM YERİNİN OLDUĞU AHB YE BAZU ALE SAQUG MERKEZİNE UZAKLIĞ FORM - 5 YERLEŞIM KOS NÜFUS FERÍNDE YERLEŞİM YERİNE SUNULAN SAĞLIK HİZMETİNİN MEVCUT DURUMU YERLEŞİM YENİ GEZİCİ SAĞLIK HIZMETi KAPSAMINDA MI2 (F/H)
+- **Gezici sağlık hizmeti kapsamına alınması planlanan yerleşim yeri:** S.N., İl, İlçe, Belde / Köy / Uzak Mahalle Adı, MERNİS Lokasyon Kodu, TÜİK Nüfusu, KDS Nüfusu
+- **Yerleşim yerine sunulan sağlık hizmetinin mevcut durumu:** ASM Adı, AHB Adı, AHB ÇKYS Kurum Türü (Entegre, Normal, Düşük Nüfus), KDS verilerine göre birimin genel nüfus durumu (Yerleşik Nüfus, Gezici Sağlık Hizmeti Verilen Nüfus, Yerinde Sağlık Hizmeti Verilen Nüfus, Toplam Nüfus (Gezici+Yerinde+Yerleşik)), Yerleşim Yeri Gezici Sağlık Hizmeti Kapsamında mı? (E/H), Yerleşim Yerinde AHB'ye Bağlı KDS Nüfus, Yerleşim Yerinin Bağlı Olduğu Aile Sağlığı Merkezine Uzaklığı (KM), Yerleşim Yerinden Bağlı Olduğu Aile Sağlığı Merkezine Ulaşım Durumu (Evet (Günde kaç defa olduğu belirtilmelidir.) / Hayır)
+- Planlanan İşlem (Kapsama Alma/ Kapsamdan Çıkarma/ Değişiklik Yok)
+- Gezici Hizmeti Planı Değişikliği Gerekçesi
+- Gezici Sağlık Hizmeti Verilecek Mekan Durumu (Var/Yok)
+- **Yerleşim yeri gezici sağlık hizmeti kapsamına alındıktan/çıkarıldıktan sonra aile hekimliği biriminin KDS verilerine göre genel nüfus durumu:** Yerleşik Nüfus, Gezici Sağlık Hizmeti Verilen Nüfus, Yerinde Sağlık Hizmeti Verilen Nüfus, Toplam Nüfus (Gezici+Yerinde+Yerleşik)
+- **İlgili aile hekimlerinin görüşü:** Var (Olumlu / Olumsuz), Yok
+- Açıklama (Belirtilmesi gereken diğer hususlar)
 
-d núlas sanlan secnata abes, velsim veredo AHB ve balo K0S el
+Formdaki örnek satırlar (doldurulmamış sütunlar gösterilmemiştir):
 
-### KOS VERİLENİNE GÖRE BİNİMİN GENEL NÜFUS TOPLAM NÜFUS VERÊNDEN YERLEŞİK) YERİNDE SAĞLIK VERİLEN DURUMU ADI/SOYADI KURUMU HIZMETİ VERİLEN I NÜFUS YERLEȘIK NÜFUS AHB CIYS KURUM TÜRÜ (ENTEGRE, NORMAL, DUSÜK NÜFUS) AHIS ACK - AHB ASM ADI F ASM
+| S.N. | Belde / Köy / Uzak Mahalle Adı | KDS Nüfusu | ASM Adı | AHB Adı | Gezici Kapsamında mı? (E/H) | AHB'ye Bağlı KDS Nüfus | Planlanan İşlem |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | A Beldesi | 175 | A ASM | … AHB | E | 50 | Kapsamdan Çıkarma |
+| 1 | A Beldesi | 175 | B ASM | … AHB | H | 25 | Değişiklik Yok |
+| 1 | A Beldesi | 175 | C ASM | … AHB | E | 100 | Değişiklik Yok |
+| 1 | A Beldesi | 175 | D ASM | … AHB | H | | Kapsama Alma |
+| 2 | B Uzak Mahallesi | 75 | Ç ASM | … AHB | H | 50 | Değişiklik Yok |
+| 2 | B Uzak Mahallesi | 75 | F ASM | … AHB | H | 25 | Kapsama Alma |
 
-NÜFUSU lo delduru/unan gürcal KOS verileri dikara adimakaor. Tableda yor dan KDS müluu bölümü KDS.
+| Düzenleyen | | Onaylayan | |
+| --- | --- | --- | --- |
+| Tarih | | Tarih | |
+| Adı/Soyadı | ………………… | Adı/Soyadı | ………………… |
+| Kurumu | ………………… | Kurumu | ………………… |
+| İmza | ………………… | İmza | ………………… |
 
-### GEZİCİ SAĞLIK HİZMETİ KAPSAMINA ALINMASI PLANLANAN YERLEŞİM YERİ NÜFUSU MENIS LOKASYON KODU BELDE / KÖY / UZAK MAHALLE A BELDESI B LAK MAHALLESÍ OÜZENLEYEN ADU/SOYADI
+Tablo doldurulurken güncel KDS verileri dikkate alınacaktır. Tabloda yer alan KDS nüfusu bölümü KDS demografi başlığı altında yer alan güncel nüfus sayıları raporuna göre, yerleşim yerinde AHB'ye bağlı KDS nüfusu bölümü ise aynı başlık altında yer alan gezici hizmet sayıları (hasta lokasyonuna göre) raporuna göre doldurulacaktır.

@@ -2,45 +2,52 @@
 id: "sbg-11261-verem-savasi-daresi-baskanliginca-olusturulacak-danisma-kurullarinin-k"
 baslik: "Verem Savaşı Daresi Başkanlığınca Oluşturulacak Danışma Kurullarının Kuruluş ve Görevleri ile Çalışma"
 tur: "yonerge"
+tarih: "2009-05-13"
+sayi: "B.10.0.VSD.0.00.00.06-415.03/1997"
 birim: "Halk Sağlığı Genel Müdürlüğü"
+konu: "Verem Savaşı Dairesi Başkanlığı bünyesinde bilimsel destek sağlayacak danışma kurullarının kuruluşu, görevleri ve çalışma usul ve esaslarını belirler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11261/verem-savasi-daresi-baskanliginca-olusturulacak-danisma-kurullarinin-kurulus-ve-gorevleri-ile-calisma-usul-ve-esaslari-yonergesi.html"
 not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## SALE PAKENT SAĞLIK BAKANLIĞI
+T.C.
+SAĞLIK BAKANLIĞI
+Verem Savaşı Dairesi Başkanlığı
 
-Verem Savaşı Dairesi Başkanlığı Sayı 14.05.2009
+Sayı: B.10.0.VSD.0.00.00.06-415.03/1997 — 14.05.2009
 
-### : B.10.0.VSD.0.00.00.06-415.03/ 1997
+Konu: Danışma Kurullarının Kuruluş ve Görevleri ile Çalışma Usul ve Esasları Hakkında Yönerge
 
-Konu : Danışma Kurullarının Kuruluş ve
+BAKANLIK MAKAMINA
 
-Görevleri ile Çalışma Usul ve Esasları
+Bakanlığımızca 29/12/2005 tarihli ve 6366 sayılı onayla yürürlüğe konulan "Ulusal Verem Danışma Kurulu Yönergesi"nin iptal edilmesini,
 
-Hakkında Yönerge
+İhtiyaca binaen düzenlenen ve ekte sunulan "Sağlık Bakanlığı Verem Savaşı Dairesi Başkanlığı'nca Oluşturulacak Danışma Kurullarının Kuruluş ve Görevleri ile Çalışma Usul ve Esasları Hakkında Yönerge" nin yürürlüğe konulmasını;
 
-### BAKANLIK MAKAMINA
+Tensiplerinize arz ederim.
 
-Bakanlığımızca 29/12/2005 tarihli ve 6366 sayılı onayla yürürlüğe konulan "Ulusal Verem Danışma Kurulu Yönergesi"nin iptal edilmesini, İhtiyaca binaen düzenlenen ve ekte sunulan Sağlık Bakanlığı Verem Savaşı Dairesi Başkanlığı'nca Oluşturulacak Danışma Kurullarının Kuruluş ve Görevleri ile Çalışma Usul ve Esasları Hakkında Yönergei nin yürürlüğe konulmasını; Tensiplerinize arz ederim.
+Uzm. Dr. Hamza BOZKURT
+Verem Savaşı Dairesi Başkan V.
 
-Uzn Dr. Hamza BOZKURT
-
-Verem Savaşı Dairesi Başkan V. ygun Görüşle Arz Ederim
-
-13.05./2009 Prof.Dr.Nihat TOSUN
-
+Uygun Görüşle Arz Ederim
+13.05.2009
+Prof. Dr. Nihat TOSUN
 Müsteşar
 
-### OLUR 13./05 /2009 Prof.Dr. Recep AKDAĞ Bakan
+OLUR
+13.05.2009
+Prof. Dr. Recep AKDAĞ
+Bakan
 
-Verem Savaşı Dairesi Başkanlığı, İlkiz Sok, Nọ:4 Sıhhiye ANKARA İRTİBAT: Hüsamettin SÖNMEZ Tel: +90 312 231 44 25 -231 21 85 - 231 38 56 Faks: + 90 312 231 37 16 E-posta: husamettin.sonmez@saglik.gov.tr
+### SAĞLIK BAKANLIĞI VEREM SAVAŞI DAİRESİ BAŞKANLIĞI'NCA OLUŞTURULACAK DANIŞMA KURULLARININ KURULUŞ VE GÖREVLERİ İLE ÇALIŞMA USÛL VE ESASLARI HAKKINDA YÖNERGE
 
-### SAĞLIK BAKANLIĞI VEREM SAVAŞI DAİRESİ BAŞKANLIĞINCA OLUŞTURULACAK DANIŞMA KURULLARININ KURULUŞ VE GÖREVLERİ İLE ÇALIŞMA USÛL VE ESASLARI HAKKINDA YÖNERGE
+## BİRİNCİ BÖLÜM
 
-## BİRİNCİ BÖLÜM Amaç, Kapsam, Hukuki Dayanak ve Tanımlar
+### Amaç, Kapsam, Hukuki Dayanak ve Tanımlar
 
 #### Amaç
 
@@ -64,19 +71,19 @@ b) Makam: Sağlık Bakanlığı Müsteşarını,
 
 c) Başkanlık: Verem Savaşı Dairesi Başkanlığını,
 
-ç) Kurul Başkanı: Verem Savaşı Dairesi Başkanını, Sağlık Bakanlığı - Verem Savaşı Daireşi Başkanlığr İlkiz Sok No:4 Sıhhiye Ankara CAM: Dr/flamza BOZKURT
+ç) Kurul Başkanı: Verem Savaşı Dairesi Başkanını,
 
-### Telefon: (0 312) 230 18 59; Fax: 231.37.16
+d) Kurullar: İhtisas alanına göre belirli bir konuda çalışma yapmak ve rapor hazırlamak üzere oluşturulan danışma kurullarını,
 
-• =& Verem Savaşı Dairesi Başkan V.
-
-d) Kurullar: Ihtisas alanına göre belirli bir konuda çalışma yapmak ve rapor hazırlamak üzere oluşturulan danışma kurullarını, Ifade eder.
+İfade eder.
 
 ## İKİNCİ BÖLÜM
 
-#### Kurulların Oluşturulması, Başkanlık ve Üyelik Kurulların teşkili ve üyeleri
+### Kurulların Oluşturulması, Başkanlık ve Üyelik
 
-**MADDE 5 –** (1) Ikinci maddedeki amaç çerçevesinde Verem Savaşı Dairesi Başkanlığı'nın faaliyetlerini yürütürken ihtiyaç duyacağı konularda ve sayıda çalışma konusuyla ilgili kurum ve kuruluşlar ile üniversitelerden seçilecek makam tarafından uygun görülen üyelerin katılımıyla oluşturulur.
+#### Kurulların teşkili ve üyeleri
+
+**MADDE 5 –** (1) İkinci maddedeki amaç çerçevesinde Verem Savaşı Dairesi Başkanlığı'nın faaliyetlerini yürütürken ihtiyaç duyacağı konularda ve sayıda çalışma konusuyla ilgili kurum ve kuruluşlar ile üniversitelerden seçilecek makam tarafından uygun görülen üyelerin katılımıyla oluşturulur.
 
 (2) Kurulun başkanlığını Verem Savaşı Dairesi Başkanı yürütür.
 
@@ -86,21 +93,23 @@ d) Kurullar: Ihtisas alanına göre belirli bir konuda çalışma yapmak ve rapo
 
 ## ÜÇÜNCÜ BÖLÜM
 
-#### Kurul Başkanı ve Kurulların Görevleri Kurulların görevleri
+### Kurul Başkanı ve Kurulların Görevleri
 
-**MADDE 6 –** (1) Kurullar; Dünya Sağlık Örgütünün (DSÖ) ve European Centre for Disease Prevention and Control(ECDC = Avrupa Hastalık Önleme ve Kontrolü Merkezi)'nin önerilerini de dikkate almak suretiyle;
+#### Kurulların görevleri
 
-a) Veremle savaşta Laboratuar Çalışma Prosedürü hazırlanmasında, danışmanlık
+**MADDE 6 –** (1) Kurullar; Dünya Sağlık Örgütünün (DSÖ) ve European Centre for Disease Prevention and Control (ECDC = Avrupa Hastalık Önleme ve Kontrolü Merkezi)'nin önerilerini de dikkate almak suretiyle;
+
+a) Veremle savaşta Laboratuar Çalışma Prosedürü hazırlanmasında, danışmanlık yapmak,
 
 b) Verem hastalığının laboratuar tanısı, klinik tanısı ve tedavisi ile ilgili ulusal stratejilerin oluşturulmasında, uygulama alanlarının belirlenmesinde danışmanlık yapmak
 
 c) Veremli hastaların tanı, tedavi ve izlemlerinde karşılaşılan sorunlarla ilgili çözüm önerilerinde bulunmak,
 
-g) Klinik tanı ve tedavi politikalarının belirlenmesi, tedavi protokolleri ve eylem planları geliştirilmesinde danışmanlık yapmak,
+ç) Klinik tanı ve tedavi politikalarının belirlenmesi, tedavi protokolleri ve eylem planları geliştirilmesinde danışmanlık yapmak,
 
 d) Sahada karşılaşılan sorunlar tespit edilerek ülkemizde verem ile mücadelenin en üst düzeyde yapılması için tavsiye niteliğinde kararlar almak,
 
-"Üzm. Dr. Hamza BOZKURT Sağlık Bakanlığı -- Verem Savaşı Dairesi Başkanlığı Verem Savaşı Dairesi Başkan 1' 2 İlkiz Şok No:4 Sıhhiye Ankara Telefon: (0 312) 230 18 59; Fax: 231 37 16 e). Ulusal Verem Politikasının belirlenmesi ve eylem planları geliştirilmesinde danışmanlık yapmak,
+e) Ulusal Verem Politikasının belirlenmesi ve eylem planları geliştirilmesinde danışmanlık yapmak,
 
 f) Ülke genelinde veremle ilgili bilimsel çalışmalara yön verecek önerilerde bulunmak,
 
@@ -108,11 +117,15 @@ g) Verem konusunda çalışan kamu, özel sektör ve sivil toplum örgütlerinin
 
 h) Toplumun verem konusunda doğru bilgilendirilmesi ve bilinçlendirilmesi için önerilerde bulunmak,
 
-1) Durum tespiti, çözüm önerileri ve eylem planı içeren raporlar hazırlayarak Başkanlığa sunmak,
+ı) Durum tespiti, çözüm önerileri ve eylem planı içeren raporlar hazırlayarak Başkanlığa sunmak,
 
 i) Yönergenin amacı doğrultusunda belirlenerek gündeme alınan benzeri konuları görüşmek,
 
-j) Başkanlığa, ihtiyaç duyulan diğer konularda bilimsel danışmanlık hizmetinde bulunmak, Ile görevlidir. Kurul başkanının görevleri
+j) Başkanlığa, ihtiyaç duyulan diğer konularda bilimsel danışmanlık hizmetinde bulunmak,
+
+İle görevlidir.
+
+#### Kurul başkanının görevleri
 
 **MADDE 7 –** (1) Başkan;
 
@@ -124,11 +137,15 @@ c) Kurulları toplantıya çağırmak,
 
 d) Toplantı tutanaklarını onaylamak,
 
-e) Yönerge kapsamındaki diğer iş ve işlemleri gerçekleştirmek, Görevlerini yürütür.
+e) Yönerge kapsamındaki diğer iş ve işlemleri gerçekleştirmek,
+
+Görevlerini yürütür.
 
 ## DÖRDÜNCÜ BÖLÜM
 
-#### Kurulların Çalışma Usul ve Esasları ile Sekretarya Hizmetleri Kurulların çalışma usul ve esasları
+### Kurulların Çalışma Usul ve Esasları ile Sekretarya Hizmetleri
+
+#### Kurulların çalışma usul ve esasları
 
 **MADDE 8 –** (1) Kurullar, Başkanlığın daveti üzerine toplanır.
 
@@ -136,11 +153,7 @@ e) Yönerge kapsamındaki diğer iş ve işlemleri gerçekleştirmek, Görevleri
 
 3) Kurullar üye tam sayısının yarısından bir fazlası ile toplanır.
 
-Uzm. Dr. alıza BOZKURT
-
-Verem Savaşı Dairesi Başkan V. Sağlik Bakanlığı - Verem Savaşı Dairesi Başkanlığı İlkiz Sok No:4 Sıhhiye Ankara Telefon: (0 312) 230 18 59; Fax; 231 37 16
-
-.4) Kurulların kararlarını oy birliği ile almaları esastır, ancak oybirliği sağlanamadığı durumlarda toplantıya katılan üyelerin yarısının bir fazlasının aynı yönde oyu ile karar alınır. Oylamada çekimser oy kullanılmaz. Oyların eşit olması durumunda başkanın oy kullandığı taraf çoğunluğu sağlamış sayılır.
+4) Kurulların kararlarını oy birliği ile almaları esastır, ancak oybirliği sağlanamadığı durumlarda toplantıya katılan üyelerin yarısının bir fazlasının aynı yönde oyu ile karar alınır. Oylamada çekimser oy kullanılmaz. Oyların eşit olması durumunda başkanın oy kullandığı taraf çoğunluğu sağlamış sayılır.
 
 5) Karar tutanakları üyelerce imzalanır.
 
@@ -150,7 +163,7 @@ Verem Savaşı Dairesi Başkan V. Sağlik Bakanlığı - Verem Savaşı Dairesi 
 
 ## BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+### Çeşitli ve Son Hükümler
 
 #### Yürürlükten kaldırılan hükümler
 
@@ -163,9 +176,3 @@ Verem Savaşı Dairesi Başkan V. Sağlik Bakanlığı - Verem Savaşı Dairesi 
 #### Yürütme
 
 **MADDE 12 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
-
-Uzmi. Dr. Hama BOZKURT Sağlık Bakanlığı - Verem Savaşi Dairesi Başkanlığı
-
-• •İlkiz Sok No:4 Sıhhiye Ankara • Telefon: (0 312) 230 18 59; Fax: 231 37 16
-
-Verem Savaşı Dairesi Başkani V.

@@ -6,11 +6,11 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11170/mesai-saatleri-harici-isyeri-hekimligi.html"
 durum: "yürürlükte"
-ocr: "true"
+ocr: true
 tarih: "2014-01-27"
 sayi: "98878870/63"
 konu: "Kamu hekimlerinin mesai dışında işyeri hekimliği yapmasına ilişkin izin ve uygulama esaslarını açıklar."
-duzeltildi: "true"
+duzeltildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
