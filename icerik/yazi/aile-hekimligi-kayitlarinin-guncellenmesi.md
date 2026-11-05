@@ -12,13 +12,17 @@ kaynak_pdf_sayfa: "585"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## AİLE HEKİMLİĞİ KAYITLARININ GÜNCELLENMESİ
 
-Sayı: 99858683-010.06.01-E.822
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-Konu: İlçenizde İkamet Eden Fakat Aile Hekimi Farklı İlçede Olan Kişilerin Aile Hekimliği Kayıtlarının Güncellenmesi
+**Sayı :** 99858683-010.06.01-E.822  
+**Konu :** İlçenizde İkamet Eden Fakat Aile Hekimi Farklı İlçede Olan Kişilerin Aile Hekimliği Kayıtlarının Güncellenmesi  
 
 ### DAĞITIM YERLERİNE
 
@@ -28,16 +32,9 @@ Mezkûr mevzuat hükümlerinin uygulanmasının kolaylaştırılması ve takibi 
 
 Gereğini rica ederim.
 
-Dr. Hüseyin İLTER
+Dr. Hüseyin İLTER  
+Bakan a.  
+Genel Müdür  
 
-Bakan a.
-
-Genel Müdür
-
-### DAĞITIM
-
+### DAĞITIM:
 81 İl Valiliği (İl Sağlık Müdürlüğü)
-
-Sağlık Mahallesi Adnan Saygun 2 Cad. No: 55, 06100 Sıhhiye/Ankara. Bilgi için: İlhami AKKUŞ, Uzman Yardımcısı. Faks: 0 (312) 565 59 81. Telefon: 0 (312) 565 5903. E-posta: ilhami.akkus@saglik.gov.tr. İnternet adresi: Aile Hekimliği Daire Başkanlığı.
-
-Elektronik imzalı suretine e-belge.saglik.gov.tr adresinden erişilebilir. Belge, 5070 sayılı Elektronik İmza Kanununa göre güvenli elektronik imza ile imzalanmıştır. Erişim kodu: [?].

@@ -11,7 +11,10 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 525-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
+
 
 6.3.15. Kızamık/Kızamıkcık ve Konjenital Kızamıkçık Sendromu (KKS) Genelgesi (2010/20)
 
@@ -65,7 +68,7 @@ Rutin aşılamada, 2006 yılından itibaren %95 ve üzerinde aşılama hızına 
 
 Bu durumun sağlanması ve belgelenmesinde sürveyans çalışmaları en önemli yeri tutmaktadır. 2009 yılı sonunda yayınlanan DSÖ Avrupa Bölgesi Sürveyans Rehberi de dikkate alınarak hazırlanan bu Genelge ile ülkemizdeki sürveyans çalışmalarının düzenlenmesi, izleme değerlendirme kriterlerinin belirlenmesi ve duyurulması ve ülkemizde kızamık ve kızamıkçığın elimine edildiğini ve KKS'nin önlendiğinin belgelendirilmesi için gerekli hazırlığın yapılması hedeflenmektedir.
 
-### ### KIZAMIK, KIZAMIKÇIK VE KONJENİTAL KIZAMIKÇIK SENDROMU SÜRVEYANSI DAİMİ GENELGESİ
+### KIZAMIK, KIZAMIKÇIK VE KONJENİTAL KIZAMIKÇIK SENDROMU SÜRVEYANSI DAİMİ GENELGESİ
 
 ### GİRİŞ
 
@@ -203,80 +206,40 @@ vb) temasıyla bulaşır.
 
 Kızamık hastalığı olan kişiler döküntünün başlamasından dört gün öncesine, döküntünün sona ermesinden ise dört gün sonrasına kadar bulaştınıcı kabul edilmektedir. Maruziyet sonrası, belirtilerin başlamasına kadar olan inkübasyon süresi ortalama 10-12 gündür (7-18 gün).
 
-Virüsün alınmasını takiben oluşan enfeksiyon sonrası, kızamık virüsü nazofarenksin solunum epitelini tutarak bölgesel lenf nodlanna yayılır. Burada 2-3 günlük bir çoğalma döneminden sonra, birincil viremi sırasında retiküloendotelyal sisteme doğru genişleyerek yayılır. Enfeksiyondan 5-7 gün sonra, 7 gün surecek olan ikincil viremi dönemi başlar. Bu dönemde, cilt, konjunktiva, solunum yolu ve diğer organlarda (dalak, timus, akciğer, karaciğer, böbrek) enfeksiyon ve virus çoğalması olabilmektedir. Viremi 11-14. günlerde pik yaparak birkaç gün içerisinde hızla azalr (Tablo 1). Tablo 1. Kızamık Enfeksiyonunun Patogenezi
+Virüsün alınmasını takiben oluşan enfeksiyon sonrası, kızamık virüsü nazofarenksin solunum epitelini tutarak bölgesel lenf nodlanna yayılır. Burada 2-3 günlük bir çoğalma döneminden sonra, birincil viremi sırasında retiküloendotelyal sisteme doğru genişleyerek yayılır. Enfeksiyondan 5-7 gün sonra, 7 gün surecek olan ikincil viremi dönemi başlar. Bu dönemde, cilt, konjunktiva, solunum yolu ve diğer organlarda (dalak, timus, akciğer, karaciğer, böbrek) enfeksiyon ve virus çoğalması olabilmektedir. Viremi 11-14. günlerde pik yaparak birkaç gün içerisinde hızla azalır (Tablo 1).
 
-### Solunum yolu damlacıklarındaki kızamık virusü nazofarenks epiteliyle temas eder ve
+#### Tablo 1. Kızamık Enfeksiyonunun Patogenezi
 
-epitelyal hücreler enfekte olarak viral çoğalma gerçekleşir.
-
-Virüs bolgesel lenf dokusuna yayıhır.
-
-Birincil viremi dönemi.
-
-### Kızamık virusu solunum yolu epitelinde, bölgesel lenf nodlarında ve uzak bölgelere
-
-doğru çoğalarak yayılır.
-
-Ikincil viremi donemi.
-
-### Enfeksiyon cilt ve solunum yolunu da içerecek şekilde diğer bölgelerde de saptanır.
-
-Virüs, Kanda, solumum yolunda, ciltte ve diger organlarda saptanır.
-
-Viremi azalarak kaybolur, organlardaki virüs içeriği hızla düşerek bağışıklık oluşur.
+| Gün | Durum |
+| --- | --- |
+| 0 | Solunum yolu damlacıklarındaki kızamık virüsü nazofarenks epiteliyle temas eder ve epitelyal hücreler enfekte olarak viral çoğalma gerçekleşir. |
+| 1-2 | Virüs bölgesel lenf dokusuna yayılır. |
+| 2-3 | Birincil viremi dönemi. |
+| 3-5 | Kızamık virüsü solunum yolu epitelinde, bölgesel lenf nodlarında ve uzak bölgelere doğru çoğalarak yayılır. |
+| 5-7 | İkincil viremi dönemi. |
+| 7-11 | Enfeksiyon cilt ve solunum yolunu da içerecek şekilde diğer bölgelerde de saptanır. |
+| 11-14 | Virüs, kanda, solunum yolunda, ciltte ve diğer organlarda saptanır. |
+| 15-17 | Viremi azalarak kaybolur, organlardaki virüs içeriği hızla düşerek bağışıklık oluşur. |
 
 Solunum yolunun enfekte olmasıyla öksürük ve burun akıntısı meydana gelir. Solunum yolunun daha yaygın zarar görmesiyle oluşan silia kaybı, otitis media ve pnömoni gibi ikincil bakteriyal enfeksiyonlar için zemin hazırlar.
 
-Dermal kapiler endotel hücrelerinde, viruse karşı oluşan bağışıklık yanıtı makülopapüler doküntu ve enantem (Koplik lekeleri) meydana gelir. Şekil l'de kızamık hastalığının klinik ozelliklerinin hastalığın günlerine göre görülme durumu verilmiştir. Şekil 1. Kızamık Hastalığının Klinik Ozelliklerinin Hastalığın Günlerine Göre Görülme Durumu
+Dermal kapiler endotel hücrelerinde, virüse karşı oluşan bağışıklık yanıtı sonucu tipik makülopapüler döküntü ve enantem (Koplik lekeleri) meydana gelir. Şekil 1'de kızamık hastalığının klinik özelliklerinin hastalığın günlerine göre görülme durumu verilmiştir.
 
-### Hastalığın günleri (kızamık) 40º0 1 2 3456 7 8 9 10
+#### Şekil 1. Kızamık Hastalığının Klinik Özelliklerinin Hastalığın Günlerine Göre Görülme Durumu
 
-39°C
+*(Grafik: Hastalığın günlerine göre ateş, döküntü, Koplik lekeleri, konjonktivit, nezle belirtileri ve öksürüğün prodromal, döküntü ve iyileşme dönemlerindeki seyri.)*
 
-38ºC
+Bildirilen kızamık vakalarının yaklaşık %30'unda bir ya da daha fazla komplikasyon gelişmektedir. Bir yaş altı çocuklarda ve erişkinlerde ciddi komplikasyon riski daha yüksektir. Gelişmekte olan ülkelerde görülen komplikasyonlar şunlardır: Pnömoni (%1-6), diyare (%6), otitis media (%7-9), körlük ve post enfeksiyöz ensefalit (1000 vakada 1), ölüm (%3-6).
 
-3Z:C
+Daha az rastlanan (100.000 vakada 1) ancak çok ciddi bir diğer komplikasyon ise subakut sklerozan panensefalit (SSPE)'dir. SSPE, santral sinir sisteminin kalıcı kızamık virüs enfeksiyonu nedeni ile oluşan ilerleyici kronik ensefalittir. Genellikle, enfeksiyondan 7-10 yıl sonra görülmektedir. SSPE hastalarında moleküler tanı yöntemleri ile yapılan incelemelerde de vahşi kızamık virüsü suşları gösterilmiştir. SSPE insidansının kızamık enfeksiyonunun yaşamın erken dönemlerinde geçirilmesiyle yükseldiği bilinmektedir. Aşılanma oranı yüksek olan ülkelerde, tüm nüfusta SSPE insidansı milyonda 1, kızamık hastalığının endemik olduğu aşılanma oranı düşük olan ülkelerde ise milyonda 20-100 olarak bildirilmektedir. DSÖ Aşı Güvenliği Küresel Danışma Komitesi (GACVS) tarafından SSPE hastalığına kızamık aşısının neden olmadığı açıklanmıştır.
 
-Ates
-
-Döküntü
-
-Koplik lekeleri
-
-Konjunkdvit
-
-Nezle belirtileri
-
-Oksürük 10-12 gunlük Prodromal Dokunta donemi İyileşme dönemi inkübasyon dönemi dönem
-
-Bildirilen kızamık vakalarının yaklaşık 630 unda bir ya da daha fazla komplikasyon gelişmektedir. Bir yaş altı çocuklarda ve erişkinlerde ciddi komplikasyon riski daha yüksektir Gelişmekte olan ülkelerde görülen komplikasyonlar şunlardır: Pnömoni (%1-6), diyare (%6), otitis media (%7-9), körlük ve post enfeksiyóz ensefalit (1000 vakada 1), ölum (%3-6).
-
-Daha az rastlanan (100.000 vakada 1) ancak çok ciddi bir diğer komplikasyon ise subakut sklerozan panensefalit (SSPE) dir. SSPE, santral sinir sisteminin kalıcı kızamık virus enfeksiyonu nedeni ile oluşan ilerleyici kronik ensefalittir. Genellikle, gorülmektedir. SSPE hastalarında molekuler tanı yöntemleri ile yapılan incelemelerde de vahşi kızamık virusu suşları gösterilmiştir. SSPE isidansının kızamık enfeksiyonunun yaşamın erken dönemlerinde geçirilmesiyle yükseldiği bilinmektedir. Aşılanma oranı yüksek olan ülkelerde, tüm nüfusta SSPE insidansı milyonda 1, kızamık hastalığının endemik olduğu aşılanma oranı düşük olan ülkelerde ise milyonda 20-100 olarak bildirilmektedir. DSO Aşı Güvenliği Küresel Danışma Komitesi (GACVS) tarafindan SSPE hastalığına kızamık aşısının neden olmadığı açıklanmıştır. 2.2. Kızamık Hastalığıın Tanısı
+### 2.2. Kızamık Hastalığının Tanısı
 
 Kızamık isidansının duşuk olduğu ulkelerde, kızamığın klinik tanısının pozitif tahmın değeri de duşuk olduğundan; tek başına klinik belirtiler kızamık tanısı için güvenilir değildir. Kızamık benzeri döküntüyle seyreden birtakım hastalıklan kızamıktan ayırt edebilmek için mutlaka laboratuvar değerlendirmesi gerekmektedir.
 
-Birincil bağışıklık yanıtı sırasında, kızamığa özgü IgM ve IgG antikorları oluşmakta olup döküntülerin başlamasından itibaren birkaç gün içerisinde duyarlı ELISA yöntemiyle serumda saptanabilir. Döküntülerin ortaya çakmasından itibaren kızamuk vakalarımın 670'inde ilk 2 gün, 690'ında ise 3-5 gün içerisinde IgM antikoru pozitifliği saptanır. IgM antikorlanı 7-10 içinde pik yaptıktan sonra düşmeye başlar, 6-8 haftanın sonunda ise artık nadiren saptanabilir. IgG antikor düzeyleri ise 3. haftada pik yaparak enfeksiyondan sonra uzun süre bulunmaya devam eder. Yanıt sırasında, serum ve sekretuvar IgA antikorlan da oluşmaktadır. Şekil 2. Akut Kızamık Enfeksiyonunda Bağışıklık Yanıtı Oluşma Süreci.
+Birincil bağışıklık yanıtı sırasında, kızamığa özgü IgM ve IgG antikorları oluşmakta olup döküntülerin başlamasından itibaren birkaç gün içerisinde duyarlı ELISA yöntemiyle serumda saptanabilir. Döküntülerin ortaya çakmasından itibaren kızamuk vakalarımın 670'inde ilk 2 gün, 690'ında ise 3-5 gün içerisinde IgM antikoru pozitifliği saptanır. IgM antikorlanı 7-10 içinde pik yaptıktan sonra düşmeye başlar, 6-8 haftanın sonunda ise artık nadiren saptanabilir. IgG antikor düzeyleri ise 3. haftada pik yaparak enfeksiyondan sonra uzun süre bulunmaya devam eder. Yanıt sırasında, serum ve sekretuvar IgA antikorlan da oluşmaktadır. #### Şekil 2. Akut Kızamık Enfeksiyonunda Bağışıklık Yanıtı Oluşma Süreci
 
-Virüs nazofariniste saptanabilir.
-
-### Virüs kenda saptanabilir.
-
-Döküntülù dônem
-
-CDS
-
-T huc IgG
-
-CDS Ight
-
-Thic
-
-### unsupresyen
-
-7 14 21 28 35
-
-Günier
-
+*(Grafik: Enfeksiyon ve döküntünün başlamasından itibaren virüsün nazofarinkste ve kanda saptanabilirlik süreleri ile CD4/CD8 T hücreleri, IgM, IgG antikor düzeyleri ve immünsupresyon süreci.)*
 Enfeksiyon Dökuntunün başlamasi
 
 Kızamık virüsü klinik ömeklerden (nazofarengeal sürüntu, idrar, periferik kandaki mononükleer hücreler) dökuntulerin başlamasından itibaren ilk: 5 gune kadar izole edilebilir, PCR ile de 7 güne kadar (ve bazen sonrasında da) saptanabilir
@@ -297,51 +260,28 @@ enfeksiyonunun pidemiyolojisi kızamıkla benzerdir; düzenli salgın dönemleri
 
 Kızamıkçık: virusu kızamığa göre daha az bulaşıcı olup aynı kızamıkta olduğu gibi enfekte kişilerin solunum yolundaki damlacıklarla ve burun ve farengeal sekresyonlarıyla doğrudan ya da dolaylı temas yoluyla bulaşmaktadır. Kişilerin en çok bulaştırıcı olduğu dönem döküntülerin başladığı dönemdir, ancak döküntünün başlamasından önceki 7 gün, başlamasından sonraki 14 gün boyunca bulaştırıcı olabilirler. Maruziyeti takiben, inkübasyon periyodu ortalama 14-18 gün sürer (12-23 gün). Konjenital enfeksiyonu olan bebekler farengeal sekresyonlar ve idrar yoluyla çok miktarda virüsü bir yıl ya da daha fazla süreyle yayabilir.
 
-Kızamıkçık virüsü nazofarenksi enfekte ettığinde, solunum yolu epitelinde ve bölgesel lenf odlarında çoğalır. Enfeksiyondan 5-7 gün sonra viremi başlar. Döküntünůn başlamasından bir hafta öncesine ve iki hafta sonrasına kadar virüs nazofarenksten izole edilebilir (Tablo 2). Tablo 2. Kızamıkçık Enfeksiyonunun Patogenezi.
+Kızamıkçık virüsü nazofarenksi enfekte ettığinde, solunum yolu epitelinde ve bölgesel lenf odlarında çoğalır. Enfeksiyondan 5-7 gün sonra viremi başlar. Döküntünün başlamasından bir hafta öncesine ve iki hafta sonrasına kadar virüs nazofarenksten izole edilebilir (Tablo 2).
 
-Enfekte kişilerin solunum sekresyonlarında kızamıkçık virüsü saptanması.
+#### Tablo 2. Kızamıkçık Enfeksiyonunun Patogenezi
 
-Nazofarenkste ve bölgesel lenf odlarında viral replikasyon.
-
-Nazofarenkste viral yayılmanın ilk işaretleri.
-
-Cilt ve diğer bölgelerde enfeksiyonun saptanması.
-
-Maksimum düzeyde viremi ve virürı.
-
-Maksimum düzeyde nazofarenks yayılımı (döküntünün başlamasından 3 gün öncesinden
-
-7 gün sonrasına kadar).
-
-Viremi azalarak kaybolur.
+| Gün | Durum |
+| --- | --- |
+| 0 | Enfekte kişilerin solunum sekresyonlarında kızamıkçık virüsü saptanması. |
+| 1-2 | Nazofarenkste ve bölgesel lenf nodlarında viral replikasyon. |
+| 3-8 | Nazofarenkste viral yayılmanın ilk işaretleri. |
+| 6-20 | Viremi dönemi. |
+| 8-14 | Cilt ve diğer bölgelerde enfeksiyonun saptanması. |
+| 10-17 | Maksimum düzeyde viremi ve virüri. |
+| 10-24 | Maksimum düzeyde nazofarenks yayılımı (döküntünün başlamasından 3 gün öncesinden 7 gün sonrasına kadar). |
+| 17-19 | Viremi azalarak kaybolur. |
 
 Semptomlar genellikle hafiftir; başlica semptomlar lenfadenopati ve makulopapüler döküntüdür. Hastalık döküntünün başlamasından önce, genellikle adolesanlarda ve erişkinlerde kısa (1-5 gün) bir prodrom dönemi ile seyrederken, çocuklarda döküntü genellikle ilk belirtidir. Bu dönemde, hafif ateş, başağrısı, iştahsızlık, hafif konjunktivit, boğaz ağrısı, öksürük ve döküntüden 5-7 gün önce lenfadenopati (suboksipital, post-aurikular, servikal) görülür, döküntüden iki gün sonrasına kadar devam eder, bazen haftalarca sürebilir. Enfeksiyonun başlamasından yaklaşık 14- 18 gün sonra, makulopapüler doküntü başlayarak yüz ve boyundan vücuda doğru yayılır. Döküntü genellikle kaşıntılı olup 1-3 gün içerisinde kaybolur (Şekil 3).
 
-Artralji ve artrit kızamıkçık geçiren erişkinler arasında yaygın olarak izlenmekte olup kronikleşebildiği de bilinmektedir. Daha az yaygın olan komplikasyonlar ise ölümcül olabilen trombositopeni ve ensefalittir (6000 vakada 1). Ilerleyici kızamıkçık panensefaliti olarak bilinen nadir görülen geç bir kızamıkçık komplikasyonu da bulunmaktadır. Şekil 3. Kızamıkçık Hastalığının Klinik Özelliklerinin Hastalığın Günlerine Göre Görülme Durumu
+Artralji ve artrit kızamıkçık geçiren erişkinler arasında yaygın olarak izlenmekte olup kronikleşebildiği de bilinmektedir. Daha az yaygın olan komplikasyonlar ise ölümcül olabilen trombositopeni ve ensefalittir (6000 vakada 1). Ilerleyici kızamıkçık panensefaliti olarak bilinen nadir görülen geç bir kızamıkçık komplikasyonu da bulunmaktadır. #### Şekil 3. Kızamıkçık Hastalığının Klinik Özelliklerinin Hastalığın Günlerine Göre Görülme Durumu
 
-Hastalığın günleri (kl ızamak çak)
+*(Grafik: Hastalığın günlerine göre ateş, döküntü, lenfadenopati, halsizlik, konjonktivit ve nezle belirtilerinin seyri.)*
 
-40°C 1 2 3 6 7 8 9 10
-
-30°0
-
-38°C
-
-37°C
-
-Ates
-
-Döküntü
-
-Lenfadenopat:
-
-Halsizlik (erişkinlerde)
-
-Halsizlik (cocuklarda
-
-Konjunktivit
-
-Nezie belirtileri 3.2. Kızamıkçık Hastalığıı Tanısı
+### 3.2. Kızamıkçık Hastalığının Tanısı
 
 Bazı enfeksiyonlar belirtileri değerlendirmesi çok önem taşımaktadır.
 
@@ -351,15 +291,11 @@ Enfeksiyonu takiben, döküntünün başlamasından birkaç gün öncesinden ba�
 
 DSO tarafindan önerilen standart test ELISA ile IgM antikoru saptanmasıdır.
 
-IgM antikorlarıyla çapraz reaksiyona girebilen antikorlar (om; Ebstein Bart Virusü, Parvovirüs B19 vb), romatoid faktör ya da otoantikorlar da yalancı pozitif IgM testi sonucuna neden olabilmektedir. Kızamakçık isidansının milyonda l'in (eliminasyon için sınır değer) altında olduğu ülkelerde, bilinen bir maruziyetin (vakayla temas, endemik bölgelere seyahat vb) olmadığı bir kişide, kızamıkçık IgM'in pozitif çıkması durumunda, kızamıkçık enfeksiyonunu yalanci pozitif sonuçtan ayut etmek için sonucun diğer laboratuvar yöntemleriyle değerlendirilmesi gerekmektedir. Şekil 4. Akut Kızamıkçık Enfeksiyonunda Bağışıklık Yanıtı Oluşma Süreci.
+IgM antikorlarıyla çapraz reaksiyona girebilen antikorlar (om; Ebstein Bart Virusü, Parvovirüs B19 vb), romatoid faktör ya da otoantikorlar da yalancı pozitif IgM testi sonucuna neden olabilmektedir. Kızamakçık isidansının milyonda l'in (eliminasyon için sınır değer) altında olduğu ülkelerde, bilinen bir maruziyetin (vakayla temas, endemik bölgelere seyahat vb) olmadığı bir kişide, kızamıkçık IgM'in pozitif çıkması durumunda, kızamıkçık enfeksiyonunu yalanci pozitif sonuçtan ayut etmek için sonucun diğer laboratuvar yöntemleriyle değerlendirilmesi gerekmektedir. #### Şekil 4. Akut Kızamıkçık Enfeksiyonunda Bağışıklık Yanıtı Oluşma Süreci
 
-### Virüs nazofarinkste saptanabilir.
+*(Grafik: Döküntünün başlamasından itibaren virüsün nazofarinkste ve kanda saptanabilirlik süreleri ile IgM ve IgG antikor seyri.)*
 
-Virüs kanda saptanabilir.
-
-9 10. 11
-
-Enfeksiyon Döküntinün başlaması Gebelikte Kızamıkçık Enfeksiyonu
+### Gebelikte Kızamıkçık Enfeksiyonu
 
 Sürveyans amacıyla, yalnız IgM testi yeterli olmakla birlikte; klinik vaka yönetimi için mutlaka IgG antikorunda belirgin artışın gösterilmesi gereklidir. Hastalık belirtilerinin ya da bilinen bir kızamıkçık benzeri bir enfeksiyonla temas öyküsünün bulunmadığı durumlarda, IgM pozitifliğinin pozitif tahmini değeri düşük okduğundan dikkatle değerlendirilmesi gerekır. Bu durumda, avidite testi, kızamıkçık immünoblot, virüs tespiti ya da izolasyonu gibi ek yöntemlere
 
@@ -405,7 +341,9 @@ Konjenital kızamıkçık ineksiyonu olan bebeklerde, doğumda ya da hemen sonra
 
 ### 5. KIZAMIK, KIZAMIKÇIK ve KKS SÜRVEYANSI: VAKA TANIMLARI ve SINIFLAMALAR
 
-5.1, Kizamık Vaka Tananları ve Seflamalan Kızamık için Klinik Tanımlama
+### 5.1. Kızamık Vaka Tanımları ve Sınıflamaları
+
+**Kızamık için Klinik Tanımlama:**
 
 38°C'den yuksek ates Ye Kızank Tanısı için Gerekli Laboratuvar Kriterleri
 
@@ -425,7 +363,7 @@ Konjenital kızamıkçık ineksiyonu olan bebeklerde, doğumda ya da hemen sonra
 
 az 4 kat) artış Kızamıkçık Vaka Sıılaması Şüpheli Vaka: Makülopapüler döküntüyle seyreden herhangi bir hastalık Olası Kızamıkçık Vakası (Klinik Vaka): Klinik tanımlamaya uyan vaka. Kesin Kızamıkçık Vakası: a. Laboratuvarla Doğrulanmış Vaka: Tam için gerekli laboratuvar kriterlerinden biri ilc doğrulanmış olası vaka veya yakın zamanda aşılanmış ise laboratuvarla doğrulanmış vaka ile epidemiyolojik bağlantısı olan vaka b. Eepidemiyolojik Ilişkili Vaka: Başka bir laboratuvarla doğrulanmış kesin vaka ile epidemiyolojik ilişkıli (maruziyet ve inkubasyon donemi açısından yer ve zaman-semprowfarı başamasundan 12-23 gan once temsas- ilişkisi bulunma durumu) olan olası vaka. Vakı Değil: Kızamıkçığın klinik tanılaması ile uyumlu belirti ve bulgulan olan bir kişide laboratuvar testlerinin negatif olması yeyą kızamıkçık olmadığı (orn: roseola infartum, eryahema afekstyoeıı vå) laboratuvarla dogrulanmış bir vaka ile eepidemiyolojik ilişkili olan vaka. | SICAK VAKA: Kesin vaka ile temas öyküsi olan zera döküntünün başlamasından önceki 3 l hafla içerisinde seyahat üykusu olan veya aşısız yeva yaşına göre eksik aşılı olan veya | | kümelenme gösteren olası kızamık/kızamıkşık vaka tanımına uyan vakalar sıcak vaka olarak | degerlendirilir Makülopepüler döküntülu bir vaka ile karşılaşıldığında; öncelikle sıcak vaka olup olmadığı degerlendirilmelidir. 5.3. Konjenital Kizamıkçık Sendromu Vaka Tanımları ve Sınıflamaları Konjenital Kızamıkçık Sendromu için Klinik Tanımlama: 1 yaşından küçük bir pocukta, A grubu bulgulardan en az iki veya A ve B grubu bulgulardan bir konjenital durumun bulunmasıdır. A Grubu B Grubu Sensorinöral işitme kaybı Purpura Konjenital kalp hastalığı Splenomegali Pigmenter retinopati Mikrosefali Katarakt Gelişme geriliği Konjenital glokom Meningoensetalit
 
-### Radiolusent kemik hastalığı
+• Radyolüsent kemik hastalığı
 
 Doğumdan sonraki ilk 24 saat içinde başlayan sanlık Konjenital Kızamıkçık Sendromu Tanısı için Gerekli Laboratuvar Kriterleri
 
@@ -443,35 +381,11 @@ veya kızamıkçık virüs izolasyonu). Konjenital Kızamıkçık Sendromu Vaka 
 
 Eliminasyon programının hedeflerine uygun olarak sürveyansta duyarlılığı (tüm vakalara ulaşabilmek) arttırmak gerekmektedir. Bu nedenle, şupbeli vaka tarımına uyan tüm vakalara olası kızamık/kızamıkçık şüphesi ile yaklaşılmalı ve incelenmelidir. Ulusal kızamık/kızamıkçık/KKS sürveyansı akış şeması Şekil S'te verilmiştir
 
-### Şekil 5. Ulusal Kızamık/Kızamıkçık Sürveyansı Akış Şeması
+#### Şekil 5. Ulusal Kızamık/Kızamıkçık Sürveyansı Akış Şeması
 
-Bağlık Ocağı/Aile Hekimi Hastaneler/Özel Sağlık Kuruluşları
+*(Şema: Sağlık Ocağı/Aile Hekimi, Hastaneler/Özel Sağlık Kuruluşları, TSM/Sağlık Grup Başkanlığı, İl Sağlık Müdürlüğü, BHM Laboratuvarı, RSHMB ve Sağlık Bakanlığı arasındaki bildirim, örnek sevki ve inceleme akışı.)*
 
-Vaka Haine ve Lab frek vo Senup Far gerd d'alster
-
-### Seren góuder, seak vakaysa idrary Fala faceboe Formana dolder
-
-sofarengeal narinti de al ve gônder
-
-TSM/Sağlık Grup Başkanliğı *| Salgin incetenesi başlat
-
-raka değil Bildirim ve Lab Intek ve Sonuy Foru
-
-Vala incafie furalan iamamiar tamamlanmar
-
-### derur te nacafarageai Orehieri formalaryla (haftada de hezi gönder arstiti da al ve gönder a Cetvelt olupar (ayda 2 kez) gündar
-
-Vaka Baldira ve Lab Fesel ve Samuç Forman Il Sağlık Modürioğo: + kal sarves burona ve Vaka Incelene Formauu doldur: Vaha Secelane Faresi (son seaflana) Serun af ve gonder IT Faka Cerved obane ve aydo ? ke
-
-### Vaka Bolarte ve Lab Anek ve Somu, Formn gönder
-
-Borada 2 kaz munase güan
-
-BHM Laboratuvar Sicak vakayan hersas gönder
-
-Isolaran içne amel te ve gonder Saglik Bakanlıgı
-
-Faku Farar ve Laß Aick ve Sonu, Farn Bul, Hast. vo Salgin Kont. Dai Bgk. IgM (-) IgM (+) SIM Hubal Formanu gönder Dokmunalen sowakr ofk + RSHMB DSO 3 gün (çarisale altsay Une telnarfaracal Gonewp layim 6.1. Şüpheli ya da Olası Kızamık/Kramıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılayan Sağlık Personelinin Vaka ile Ilk Görüşmede Yapması Gerekenler:
+### 6.1. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşan Sağlık Personelinin Vaka ile İlk Görüşmede Yapması Gerekenler:
 
 1. Vakamın sıcak vaka olup olmadığımı değerlendiriniz
 
@@ -507,7 +421,9 @@ Faku Farar ve Laß Aick ve Sonu, Farn Bul, Hast. vo Salgin Kont. Dai Bgk. IgM (-
 
 8. Hastanım izolasyonu konusunda aileyi bilgilendiriniz, hastane ortamında ise izolasyonunu sağlayınız: Hastalar, hastaneye yatışarını gerektiren ek bir durum yoksa evlerinde izole edilmeli, hane halkı dışındakilerle teması sınırlı tutulmalıdır. Daha detaylı bilgi için Ek 4'e bakınız. Tüm temashlar en uzun inkübasyon süresince izlenerek belirtilerin başlaması durumunda örnek almalıdır.
 
-9. Bilgiyi Form 016'ya (Ek 5), 017A'ya (Ek 6) ve GBP Sürveyans Formuna (Ek 7) ekleyiniz: * Il Sağlık Müdürluğu, sağisk ocağtiatte hekimigı ya da TSM Saglık Grup Başkanlıgı dışndakı bir kaynaktar (hastane, özel klinuk, okal vb) jäpheli kramuk vakaını ihbarı aluğında, vakit geçirmeden fgil Sağtık Grup Başkanlığın/TSM'yı bılgtlendrmcicůr. Saglık Grup BaşkanlığuTSM derhal vakayı incelemeli, eğer bildiren kişilerce yapmamaysa, vaka formları doldurulmalz ve uygun örackler tapianarak tüm formalar ve ornekier Sagik Nedarfuğine gönderilmelidir. 6.2. Şüpheli ya da Olası Kızamık/Kızamıkeık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında TSM/Sağlık Grup Başkankıkları Tarafından Yapılması Gerekenler:
+9. Bilgiyi Form 016'ya (Ek 5), 017A'ya (Ek 6) ve GBP Sürveyans Formuna (Ek 7) ekleyiniz: * Il Sağlık Müdürluğu, sağisk ocağtiatte hekimigı ya da TSM Saglık Grup Başkanlıgı dışndakı bir kaynaktar (hastane, özel klinuk, okal vb) jäpheli kramuk vakaını ihbarı aluğında, vakit geçirmeden fgil Sağtık Grup Başkanlığın/TSM'yı bılgtlendrmcicůr. Saglık Grup BaşkanlığuTSM derhal vakayı incelemeli, eğer bildiren kişilerce yapmamaysa, vaka formları doldurulmalz ve uygun örackler tapianarak tüm formalar ve ornekier Sagik Nedarfuğine gönderilmelidir. 
+
+### 6.2. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında TSM/Sağlık Grup Başkanlıkları Tarafından Yapılması Gerekenler:
 
 1. Sağlık kurumlarından gönderilen formlan değerlendirerek vaka cetveli (Ek 8) hazırlayınız ve Vaka Inceleme Formunda eksik kalan bilgileri tamamlayınız.
 
@@ -529,7 +445,9 @@ Faku Farar ve Laß Aick ve Sonu, Farn Bul, Hast. vo Salgin Kont. Dai Bgk. IgM (-
 
 4. Saptanan vakalarla, aileleriyle ve takip eden hekimle vakaların izolasyonu konusunda görüşünüz: Hastalar, hastaneye yatışarımı gerektiren ek bir durum yoksa evlerinde izole edilmeli, hane halkı dışındakilerle teması sınırlı tutulmalıdır. Daha detaylı bilgi için Ek 4'e bakıız. Tüm temaslılar en uzun inkübasyon süresince izlenerek
 
-5. Alnan örnekleri belirlenen günlerde Sağhk Müdürlüğüne ulaştırmak üzere uygun koşullarda saklayınız. Daha detaylı bilgi için Ek 3'e bakınız. * İmmünglabulin 6 ayin altındakı bebekter, gebeler, ımessasuprese kaşıler ıçin ve aşunın kontrendike ofduğu diğer derumlarda inerilmektedir. Kızamu salgılarmda kitlesel inmånglabulin nygulamanıuı yeri yoktur. Onerilen nygulama dozu 0,25 mlkg dir. Immunsuprese kişiler için onerilen doz 0,5 mlkg dir (en fazla 15 m!) Kas içine (intramuskeler) uygulanmalıdar. 6.3. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında Sağhk Müdürlüğü Taralından Yapılması Gerekenler:
+5. Alnan örnekleri belirlenen günlerde Sağhk Müdürlüğüne ulaştırmak üzere uygun koşullarda saklayınız. Daha detaylı bilgi için Ek 3'e bakınız. * İmmünglabulin 6 ayin altındakı bebekter, gebeler, ımessasuprese kaşıler ıçin ve aşunın kontrendike ofduğu diğer derumlarda inerilmektedir. Kızamu salgılarmda kitlesel inmånglabulin nygulamanıuı yeri yoktur. Onerilen nygulama dozu 0,25 mlkg dir. Immunsuprese kişiler için onerilen doz 0,5 mlkg dir (en fazla 15 m!) Kas içine (intramuskeler) uygulanmalıdır.
+
+### 6.3. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında İl Sağlık Müdürlükleri Tarafından Yapılması Gerekenler:
 
 1. Sıcak vaka saptanması durumunda, derhal Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'nı arayınız.
 
@@ -553,7 +471,11 @@ Faku Farar ve Laß Aick ve Sonu, Farn Bul, Hast. vo Salgin Kont. Dai Bgk. IgM (-
 
 5. TSM/Sağlık Grup Başkanlıkları tarafından gönderilmiş olan vaka cetvelindeki olası/kesin kızamık/kızamıkçık vakaları için il vaka cetveli hazırlanarak her ayın sonunda Sağlık Bakanlığı'na gönderiniz: TSM/Sağlık Grup Başkanlıkları tarafindan gonderilmiş olan vaka cetvelleri birleştirildikten sonra, vaka inceleme formlardan da yararlamılarak Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolu Daire Başkanlığı tarafindan oluşturularak illere elektronik ortamda gönderilmiş olan il vaka cetveline istenen veriler Ek 10'deki yönergeye uygun olarak işlenmeli ve her ayın sonunda elektronik ortanda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir.
 
-6. BHM'den gelen sonuçlurı bildirimi yapan sağlık personeline ve hastanın yaşadığ ögedeki TSM/Sağlık Grup Başkanlığma bildiriniz: BHM sonuçlar Sağlık Müdürlüğüne bildireceği için, bildirim yapan personele ve hastanın yaşadığı bölgedeki TSM/Sağlık Grup Başkanlığına bildirim yapmak Il Sağlık Müdürlüğünün görevidir. Geri bildiriım en kısa sürede sözlü ve yazılı olarak yapılmalıdır. 6.4. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında Bölge Hızıssıhha Müdürlüğü Tarafından Yapılması Gerekenler:
+6. BHM'den gelen sonuçlurı bildirimi yapan sağlık personeline ve hastanın yaşadığ ögedeki TSM/Sağlık Grup Başkanlığma bildiriniz: BHM sonuçlar Sağlık Müdürlüğüne bildireceği için, bildirim yapan personele ve hastanın yaşadığı bölgedeki TSM/Sağlık Grup Başkanlığına bildirim yapmak Il Sağlık Müdürlüğünün görevidir. Geri bildiriım en kısa sürede sözlü ve yazılı olarak yapılmalıdır. 
+
+### 6.4. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında Bölge Hıfzıssıhha Laboratuvarları Tarafından Yapılması Gerekenler:
+
+
 
 1. Gelen orneği kızamık ve kızamıkçığa özgü IgM ve gerektiğinde IgG antikorları yönünden inceleyiniz,
 
@@ -825,11 +747,11 @@ TSM/Saglık Grup Başkanlığını bilgilendiriniz,
 
 a. 6 aydan küçük bebeklerde, kızamıkçığa özgü IgM ve IgG serokıjisini
 
-### değerlendirmek için ikinci kan (serum) örneğinin alınması gerekir
+*(değerlendirmek için ikinci kan (serum) örneğinin alınması gerekir)*
 
 b. 6 aydan büyük bebeklerde, birkaç ay sonra kızamıkçığa özgü IgG serolojisini
 
-### değerlendirmek için ikinci kan (serum) örneğinin alınması gerekir
+*(değerlendirmek için ikinci kan (serum) örneğinin alınması gerekir)*
 
 Daha detayh bilgi için Ek J'e bakınız.
 
@@ -849,7 +771,7 @@ vaka! KKS değil
 
 Yok
 
-### + Alinamadi veya negatif
++ Alınamadı veya negatif
 
 Grup A'dan en Grup A'dan bir
 
@@ -943,7 +865,7 @@ Aglanma duremu (doz
 
 SuY1S1) Kazamakçık içerem aşı Hanede beazer vaka var mi? Çevrede benzer vaka var mu? Sosyal ortamlar* Inkübasyon döneminde scyahat öyküsü var mı Dokünté öncesi/sonrası 4 günde temas edilen kişiler Omck Alma Tarihi Nazofarenfeal Sürüntü ve Idrar Ömeği Alemo Tarihi Orneklerin Laboratuvara Ulaştığı Tarih IgM Antikoru Vaka Sınıflaması
 
-### TERMINOLOJI:
+### TERMİNOLOJİ:
 
 Uygun Araştırma: Her şüpheli kızamk/kızamıkçık vakası için sorgulanması gerekli en az değişkenin (yaş, cinsiyet, doküntünün başlama tarihi, ömek alınma tarihi, aşıhı olma durumu, seyahat öyküsü) sorgulanmış olmasıdır. Bunlara ek olarak; her bir şüpheli vaka için epidemiyolojik ilişki araştırması da yürütülmuş olmalıdır. Uygun Serum Orneği: Döküntü başlangıcından sonraki 28 gün içinde ahınmış, bemolize edilmeden ayrılmış, soğuk zincire uygun olarak saklanmış ve gönderilmiş serum orneğidir. İndeks vaka: Bir salgındaki ilk vakadır. Sekonder (ikincil) vakalar: Indeks vakadan sonra görülen ve onunla epidemiyolojik ilişkisi olan ve indeks vaka tarafindan enfekte edilmiş vakalardır Eepidemiyolojik İlişki: Bir başka kızamık vakası ile temas. Bu temas direkt yüz yüze karşılaşma olabileceği gibi, aynı ortamda bulunma (bölgede oturma, bölgeye ziyaret ya da aymı okula gitme, ortak kullamlan eşyalar, vb) olarak da tanımlanabilir Sporadik Vaka: Birbiriyle epidemiyolojik ilişkisi olmayan ve tek görülen vakalardır. Importe Kızanık Virüsi: Kaynağı Türkiye dışından olan kızamık virüsüdür, Bu tür virusler Türkiye dışıda kızamıkla karşılaşmış vakalardan ya da onların Turkiye'de enfekte ettiği kişilerden izole edilecektir. Yerli Kızamık Virüsü: Bir ülkede kızamığın endemik olduğu dönemde dolaşan kızamık virüsüdür. Türkiye'de bugüne kadar izole edilen kızamık virüslerinin D4 ve D6 tipi olduğu saptanmıştır. Bulaş Zinciri/Salgın: Inkübasyon periyodunu göz önüne almarak aralarında yeterli zamansal. epidemiyolojik ve/veya viral tiplendirme açısından ilişki bulunan iki ya da daha fazla konfirme vaka bulunmasıdır. Importe Vaka: döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık için 7- 18, kızamıkçık için 12-23 gün) yurt dışında bulunma oykusü olan ve epidemiyolojik ve/veya virolojik olarak da yabancı kaynaklı enfeksiyona ilişkin kanıtlarla desteklenen vakadır. Yerli Vaka: Importasyonun veya importe vakayla ilişkinin kamtlanamadığı veya enfeksiyon kaynağı bılinmeyen sporadik vakadır. İmporte Vakayla İlişkili Vaka: Importe vakayla epidemiyolojik ve/veya virolojik ilişkisi bulunan vakadır. Sıcak Vaka: Kesin vaka ile temas öyküsü olan veya döküntünün başlamasından önceki 3 hafta içerisinde seyahat öyküsü olan veya aşısız veya yaşına göre eksik aşılı olan veya kümelenme gösteren olası kızamık/kızamıkçık vaka tanımına uyan vakadır. Importe Vakaların Orantisi: Eepidemiyolojik araştırma sonucunda importe olarak sınıflandırılan kızamık ya da kızamıkçık vaka sayısının toplam vaka sayışına bölünmesiyle elde edilir. Eliminasyon fazında importe vakaların orantası artar.
 

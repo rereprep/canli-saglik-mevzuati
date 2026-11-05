@@ -11,6 +11,7 @@ ocr: true
 tarih: "2014-06-02"
 sayi: "6404779/2014.5403.6"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 02.06.2014 tarih ve 6404779/2014.5403.6 sayılı Makam Oluru ile yürürlüğe konulan
@@ -39,9 +40,11 @@ duzeltildi: true
 
 a) Bakanlık: Sağlık Bakanlığı ve bağlı kuruluşlarının merkez ve taşra teşkilatlarını,
 
-b) Braille Yayın: Görme engelliler için kabartma harflerle basılmış eserleri
+b) Braille Yayın: Görme engelliler için kabartma harflerle basılmış eserleri,
 
-c) Elektronik Yayın: Eserlerin her türlü elektronik ortamda sunulmuş şeklini, ç) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
+c) Elektronik Yayın: Eserlerin her türlü elektronik ortamda sunulmuş şeklini,
+
+ç) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
 ç) İşlenme Eser: Diğer bir eserden istifade suretiyle vücuda getirilip de bu eserlere nispetle müstakil olmayan ve işleyenin hususiyetini taşıyan fikir ve sanat mahsullerini,
 

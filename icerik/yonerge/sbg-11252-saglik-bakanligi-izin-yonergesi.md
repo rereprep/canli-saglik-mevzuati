@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11252/saglik-bakanligi-izin-yonergesi.
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -107,7 +108,7 @@ Olağanüstü haller sebebiyle izinlerin kullanılması Bakanlıkça durdurulmu�
 
 **Madde 15 –** İstifa suretiyle veya başka bir nedenle memuriyetten ayrılıp bilahare yeniden memuriyete dönenler, yıl içinde ne zaman göreve başladıklarına bakılmaksızın ve her hangi bir kısıtlama söz konusu olamadan o yıla ait yıllık izinlerini kullanabilirler.
 
-657 sayılı Kanun’a tabi memur iken her hangi bir nedenle memuriyetten ayrılıp, sözleşeli veya işçi statüsünde çalışırken, bu statülerde bulunanlara tanınan yıllık izinlerini kullanan personelin bilahare memuriyete dönmesi durumunda da; yıllık izin kullanmasına müsaade edilecektir.
+657 sayılı Kanun’a tabi memur iken herhangi bir nedenle memuriyetten ayrılıp, sözleşmeli veya işçi statüsünde çalışırken, bu statülerde bulunanlara tanınan yıllık izinlerini kullanan personelin bilahare memuriyete dönmesi durumunda da yıllık izin kullanmasına müsaade edilecektir.
 
 #### Aday Memurun Yıllık İzini:
 
@@ -157,7 +158,7 @@ a) Müsteşar, Teftiş Kurulu Başkanı ve Özel Kalem Müdürünün izinleri BA
 
 b) Müsteşar Yardımcıları, Genel Müdürler, APK Kurlu Başkanı, 1 nci Hukuk Müşaviri, Müstakil Daire Başkanları, Savunma Sekreteri, Sağlık Projesi Genel Koordinatörü ve Bakan Müşavirlerinin izinleri MÜSTEŞAR,
 
-c) Teftiş Kurulu Başkanlığında ; Başmüfettiş, Müfettiş, Müfettiş Yardımcısı, Şube Müdürü ve diğer personelin izinleri TEFTİŞ KURLU BAŞKANI,
+c) Teftiş Kurulu Başkanlığında; Başmüfettiş, Müfettiş, Müfettiş Yardımcısı, Şube Müdürü ve diğer personelin izinleri TEFTİŞ KURULU BAŞKANI,
 
 d) APK Kurulu Başkanlığında; Daire Başkanı, APK Kurulu Uzmanı, Mimar ve Mühendislerin izinleri APK KURUL BAŞKANI, diğer personelin izinleri DAİRE BAŞKANI,
 
@@ -195,7 +196,7 @@ Birim amirleri ve yardımcılarının kullandıkları izinlerle ilgili ayrılı�
 
 B) Taşra Teşkilatında :
 
-Atama ve yükselmeleri ile her türlü özlük hakları Bakanlığımızca ifa edilen Sağlık ve Yardımcı Sağlık Personeli dahil, 5442 sayılı İler İdaresi Kanunu’na tabi olarak illerde görev yapan tüm personelin anılan ve izinlerle ilgili ayrılış ve başlayış tarihlerine ilişkin bilgiler Bakanlığa gönderilmeyerek İl Sağlık Müdürlüklerindeki ‘’Kişisel İzin Fişlerinde‘’ kayıt ve takibi yapılacaktır.
+Atama ve yükselmeleri ile her türlü özlük hakları Bakanlığımızca ifa edilen Sağlık ve Yardımcı Sağlık Personeli dâhil, 5442 sayılı İl İdaresi Kanunu’na tabi olarak illerde görev yapan tüm personelin anılan izinlerle ilgili ayrılış ve başlayış tarihlerine ilişkin bilgiler Bakanlığa gönderilmeyerek İl Sağlık Müdürlüklerindeki ‘’Kişisel İzin Fişlerinde‘’ kayıt ve takibi yapılacaktır.
 
 #### Öğretmenlerin Yaz Tatili İzini:
 
@@ -489,7 +490,7 @@ Bu Hükmün Uygulanmasında;
 
 Ayrıca, kendi imkanlarıyla ihtisas yapmak amacıyla yurt dışına gitmek isteyen mecburi hizmetli pratisyen hekimlerin, yurt dışındaki Üniversiteye kayıt yaptırdıklarını beyan etmeleri halinde mecburi hizmetleri ihtisas sonuna ertelenir. Mecburi hizmeti olamayan hekimler ise istifa etmeleri gerekmektedir.
 
-Bakanlığımızın açmış olduğu sınava müracaat ederek Devlet imkanlarıyla yetiştirilmek anacıyla yurt dışına gönderilecek Devlet memurları ise 657 sayılı Kanunun 79 ncu maddesine istinaden maaşlı izinli sayılırlar.
+Bakanlığımızın açmış olduğu sınava müracaat ederek Devlet imkânlarıyla yetiştirilmek amacıyla yurt dışına gönderilecek Devlet memurları ise 657 sayılı Kanunun 79 uncu maddesine istinaden maaşlı izinli sayılırlar.
 
 ## ALTINCI BÖLÜM
 

@@ -11,6 +11,7 @@ kaynak_pdf_sayfa: "447-451"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## ECZANE BULUNMAYAN YERLEŞİM BÖLGELERİNDE YAŞAYAN HALKA YERİNDE İLAÇ TEMİNİNE İLİŞKİN PROTOKOL

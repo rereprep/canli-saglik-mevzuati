@@ -2,6 +2,7 @@
 id: "sbg-103482-dogrudan-gozetimli-tedavi-genelgesi-2009-51"
 baslik: "Doğrudan Gözetimli Tedavi Genelgesi (2009/51)"
 tur: "genelge"
+tarih: "2009-08-28"
 sayi: "2009/51"
 birim: "Verem Savaşı Dairesi Başkanlığı"
 konu: "Tüberküloz hastalarında Doğrudan Gözetimli Tedavi (DGT) uygulamasının yaygınlaştırılması, uygulanış usulü ve takibini düzenler."
@@ -10,9 +11,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103482/dogrudan-gozetimli-tedavi-genel
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 6.3.41. Doğrudan Gözetimli Tedavi Genelgesi (2009/51)
 
 T.C.  
 SAĞLIK BAKANLIĞI  

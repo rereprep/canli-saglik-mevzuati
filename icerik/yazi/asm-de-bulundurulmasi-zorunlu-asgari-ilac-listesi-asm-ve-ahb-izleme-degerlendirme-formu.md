@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "483-497"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## ASM’DE BULUNDURULMASI ZORUNLU ASGARİ İLAÇ LİSTESİ, ASM VE AHB İZLEME DEĞERLENDİRME FORMU
@@ -817,11 +818,7 @@ NOT 2: Halihazırda faaliyette olan aile hekimliği birimlerinde bina şartları
 | 18. | Kaptopril 25 mg tb | 20 tablet |
 | 19. | Diüretik amp | 5 amp |
 
-### ASM ve AHB’NİN OLAĞAN DIŞI DURUM, İHBAR VE ŞİKAYETLERİNDE KULLANILACAK DENETİM FORMU VE İNCELEME TUTANAĞI
-
-EK - 3
-
-ASM VE AHB'NİN OLAĞAN DIŞI DURUM, İHBAR VE ŞİKAYETLERİNDE KULLANILACAK DENETİM FORMU VE İNCELEME TUTANAĞI
+### EK – 4 ASM VE AHB'NİN OLAĞAN DIŞI DURUM, İHBAR VE ŞİKAYETLERİNDE KULLANILACAK DENETİM FORMU VE İNCELEME TUTANAĞI
 
 TARİH: SAAT:
 

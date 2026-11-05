@@ -10,6 +10,7 @@ duzeltildi: true
 konu: "Bakanlık ve Bağlı Kuruluşlarının Taşra Teşkilatlarının İşleyişi Hakkında Genelge konusundaki uygulama ve esasları bildirir."
 tarih: "2013-07-04"
 ocr: true
+kontrol_edildi: true
 ---
 
 ### Hukuk Müşavirliği
@@ -38,11 +39,12 @@ Il idare şube başkanlarının her biri kanun, tüzük, yönetmelik ve hüküme
 
 Görüldüğü üzere, 5442 sayılı Kanun'un 9 uncu maddesi uyarınca vali, il genelinde her bakanlığa karşı doğrudan sorumlu ve bakanlıkların ildeki en üst temsilcisidir. Dolayısıyla, Bakanlığımız ve bağlı kuruluşlarının taşra teşkilatlarının en üst yöneticileri görev alanlarıyla ilgili olarak valiye karşı sorumludur Ancak, Sağlık Bakanlığı Bağlı Kuruluşları Hizmet Birimlerinin Görevleri ile Çalışma Usul ve Esasları Hakkında Yönetmeliği'nin 14 üncü maddesinin "Bağlı kuruluşların taşra yönetim birimleri, sağlık kuruluşlarının planlama ve yatırımlarına, kadro taleplerine, başkanlığı vali veya yardımcısı tarafından yürütülen kurul kararlanı ile önemli ve
 
-### SAGLIK BAKANLIĞI Hukuk Müşavirliği
+### T.C. SAĞLIK BAKANLIĞI
+Hukuk Müşavirliği
 
 Sayı : 11045126/010.06.02/ Konu: Bakanlık ve bağlı kuruluşlarının
 
-taşıa teşkilatlarının işleyişi stratejik görüş ve teklif içeren konulara ilişkin olarak Bakanlık ve kurumlarının merkez teşkilatlarıyla yapacaklan yazışmaları, il sağlık müdürü üzerinden valilik kanalıyla yaparlar." hükmü uyarınca, Halk Sağlığı Müdürleri ve Genel Sekreterler, vali ve merkez teşkilatı ile ilişkilerini bu işler bakımından İI Sağlık Müdürü üzerinden yürütürler.
+taşra teşkilatlarının işleyişi stratejik görüş ve teklif içeren konulara ilişkin olarak Bakanlık ve kurumlarının merkez teşkilatlarıyla yapacaklan yazışmaları, il sağlık müdürü üzerinden valilik kanalıyla yaparlar." hükmü uyarınca, Halk Sağlığı Müdürleri ve Genel Sekreterler, vali ve merkez teşkilatı ile ilişkilerini bu işler bakımından İI Sağlık Müdürü üzerinden yürütürler.
 
 Koordinasyon ve Hakemlik:
 

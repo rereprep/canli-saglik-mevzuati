@@ -10,19 +10,25 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1084
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-T.C. 00148324193
+### T.C. SAĞLIK BAKANLIĞI
+#### Strateji Geliştirme Başkanlığı
 
-Sayı: 43553240-010.06.01
+**Sayı :** 43553240-010.06.01/  
+**Konu :** Kamu Zararı  
+**Tarih :** 28/05/2021
 
-Konu: Kamu Zararı
-
-### GENELGE (2021/6)
+### GENELGE
+**2021/6**
 
 2020/5 sayılı ve "Kamu Zararı" konulu Genelgenin 10'uncu maddesi yürürlükten kaldırılmış olup bundan sonra merkez teşkilatında meydana gelen Döner Sermaye kaynaklı kamu zararları/kamu alacaklarının takip ve tahsil işlemlerinde Genelgenin 6 ncı maddesine göre işlem tesis edilecektir.
 
 Bilgilerinizi ve gereğini önemle rica ederim.
+
+Dr. Fahrettin KOCA  
+Bakan
 
 ### DAĞITIM:
 

@@ -10,9 +10,13 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 636-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-Sayı: B100TSH0110000-15559
+### T.C. SAĞLIK BAKANLIĞI
+#### Temel Sağlık Hizmetleri Genel Müdürlüğü
+
+**Sayı :** B100TSH0110000-15559
 
 Tarih: 16.10.2002
 
@@ -20,7 +24,8 @@ Konu: Kan Yoluyla Bulaşan Hastalıkların Önlenmesi
 
 ### ... VALİLİĞİNE (Halk Sağlığı Müdürlüğü)
 
-### GENELGE 2002/109
+### GENELGE
+**2002/109**
 
 Ülkemizde erkek berberlerinde, kadın kuaförlerinde ve manikür-pedikür salonlarındaki yanlış ve bilinçsiz uygulamalar kan yolu ile bulaşan (Hepatit B. Hepatit C, HIV/AIDS enfeksiyonu,....) bir takım hastalıkların kişiden kişiye bulaşmasına, dolayısı ile bu hastalıkların yayılmasına ve kontrolünün zorlaşmasına neden olmaktadır.
 

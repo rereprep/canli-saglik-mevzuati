@@ -10,10 +10,16 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1095
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-### SAĞLIK BAKANLIĞI
+### T.C. SAĞLIK BAKANLIĞI
+#### Strateji Geliştirme Başkanlığı
 
-Strateji Geliştirme Başkanlığı
+**Sayı :** 43553240-010.06/
+**Konu :** Kamu İdarelerine Bağlı Sağlık Kurum ve Kuruluşlarının Birbirlerinden Yapacakları Mal ve Hizmet Alımları
+
+### GENELGE
+**2018/01**
 
 ### A. Teşhis ve Tedaviye Yönelik Mal ve Hizmet Alımları
 
@@ -145,11 +151,13 @@ Cararalen bal.tac B Teshis ve Tedavire Yanellk Olanan Malve Hemes A lamlar 209 s
 
 1. Bu Genelgenin vürürkiže kirdilı tarilien önge inzalanan protokoller, yukarida belirtilen hususlar verşevesinde teniden dücatleneedk veya gerekli doğişiklikler A Gerck hizmet gerchze mal alimlarada hastaya sunulan hizmetlerin veye kullanılan mallara bedeli, geti ödeme kurumara sadece hizmeti mali alan Idare tarafindan fansalar dinacaktr. 7 13/02/2000 tarihli ve 2009/10 sayil Genelgs, 22/05/2013 manhti ve 20)1/05 sayih Genelge ve bu Genelgelere dayamleruk yayimlanan genel yazilar bu Cenelge sie yürürlükten kaldırılmıştır, & Be Genelge Bukerkk Makemaca izaland ğu tarihle ytrirluge gire- Bilgilerina ve geregni rica ederen-
 
-Prod. Dr. Esup ODMOS
+Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan =
 
-eteger Niler: 1- Protokol Tastuğs (1 Adet.2 sayfo) 1- Muhaseheleştertie Ornekleri (11 Sayta)
+Müsteşar
+
+**EKLER:** 1- Protokol Tastuğs (1 Adet.2 sayfo) 1- Muhaseheleştertie Ornekleri (11 Sayta)
 
 ### DAĞITIM
 

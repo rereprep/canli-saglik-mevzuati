@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103797/saglik-bakanliginda-doner-serma
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.2.3. Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge
@@ -76,7 +77,7 @@ a) Sözleşmeli uzman olarak görev yapıyor olmak.
 
 b) Tercihen, üniversitelerin maliye, işletme, iktisat, kamu yönetimi, sağhk yönetimi, sağlık Idaresi bolumleri ile fakültelerin muhasebe eğitimi veren ilgili bölümlerinden mezun olmak.
 
-c) Muhasebe hizmetleri ile ilgili birimlerde muhasebe yetkilisi için en az dört yıl, mahasebe yetkilisi yardımısı için en az iki yıl çalışmış olmak.
+c) Muhasebe hizmetleri ile ilgili birimlerde muhasebe yetkilisi için en az dört yıl, muhasebe yetkilisi yardımısı için en az iki yıl çalışmış olmak.
 
 4) Ayıktan kesme veya kademe ilerlemesinin durdurulması cezası almamą olmak.
 
@@ -128,11 +129,11 @@ Muhasebe yetkilisi yardıeıa görevlendirilmesi
 
 MADDE N - (1) Muhasebe vekilisi yardımcılan, I1 Sağlik Müdürü tarafindar görevlendirilir.
 
-(2) Her muhasebe birimi için en az bir mahasebe yetkilisi yardımcısı görevlendirilir. Muhasebe biriminde bir mali yalda oluşan yevmiye sayısının kırk bini aşması halinde ilave bir, yetmiş bini aşması halinde ilave iki ve yle bini aşması halinde de ilave üg mabascbe yetkilisi yardımcısı görevlendirilir. Yevmiye sayısına bağh ilave görevlendirmeler için yönetim dönemi hesabının yetkili mercilere verildiği tarih esas ahınır.
+(2) Her muhasebe birimi için en az bir muhasebe yetkilisi yardımcısı görevlendirilir. Muhasebe biriminde bir mali yalda oluşan yevmiye sayısının kırk bini aşması halinde ilave bir, yetmiş bini aşması halinde ilave iki ve yle bini aşması halinde de ilave üg mabascbe yetkilisi yardımcısı görevlendirilir. Yevmiye sayısına bağh ilave görevlendirmeler için yönetim dönemi hesabının yetkili mercilere verildiği tarih esas ahınır.
 
 (3) Muhasebe yetkilisi yardımeasıın herhangi bir nedenle görevinin sona ermesi halinde 10 iş günd içinde yerine görevlendinte yapıle.
 
-(4) Muhasehe hirimlerinde görevlendirilen muhasebe yetkilisi yardımcısı, mahasche yetkilisine karşt sorumludur.
+(4) Muhasehe hirimlerinde görevlendirilen muhasebe yetkilisi yardımcısı, muhasebe yetkilisine karşt sorumludur.
 
 #### Muhasebe yetkilisi yardımcısımın görevleri
 
@@ -148,21 +149,21 @@ bi Muhasebe yetkilisinin verdiği diğer görevleri yapmak.
 
 (2) Muhasebe yetkilileri hakkındaki sorumlulak, devredilen işterle ilgili olarak gorev ve yetki devri yapılanlar hakknda da uygulamır.
 
-() Muhasebe yetkilileri devrettikleri görev ve sorumluluklana, yardımcılar tarafindan usulüne aygun olarak yerine getirillip getirilmediğini gözetmekle yükümlüdtir.
+() Muhasebe yetkilileri devrettikleri görev ve sorumluluklana, yardımcılar tarafından usulüne aygun olarak yerine getirillip getirilmediğini gözetmekle yükümlüdtir.
 
 Muhasebe yetkilisinin yerine geçici olarak gürevlendirilecek personel
 
-MADDE I1 - (I) Muhasebe yetkilisinin, yıllik izin, geçici gorei, histalık izni vb. gibi herhangi bir nedenle kısa süreli olarak görevinim başında bulunmadığı hallerde, muhasche yetkilisinin yerine muhasebe yetkilisi yardımcıları arasından götevkenlme yapılar.
+MADDE I1 - (I) Muhasebe yetkilisinin, yıllik izin, geçici gorei, histalık izni vb. gibi herhangi bir nedenle kısa süreli olarak görevinim başında bulunmadığı hallerde, muhasebe yetkilisinin yerine muhasebe yetkilisi yardımcıları arasından götevkenlme yapılar.
 
 3/12
 
-(2) Muhasebe yetkilisi yardımcısının da görevinin başında bulunmaması halinde, varsa muhasebe biriminden sözleşmeli uzman olma şartı hariç mahasebe yetkilia olarak görevlendirilme şartlanna sahip olan bir personel görevlendirılir. Hu şartlara sahip personel de bolummaması halinde muhasebe hirimi personeli arasından, görevlendirme yapılar.
+(2) Muhasebe yetkilisi yardımcısının da görevinin başında bulunmaması halinde, varsa muhasebe biriminden sözleşmeli uzman olma şartı hariç muhasebe yetkilia olarak görevlendirilme şartlanna sahip olan bir personel görevlendirılir. Hu şartlara sahip personel de bolummaması halinde muhasebe hirimi personeli arasından, görevlendirme yapılar.
 
 (3) Bu görevlendirmeler 11 Saghk Madarinon onayı ile yapılar.
 
 (4) Bu maddeye göre yapılacak pürevlendirmeler iki aydan uzan säreli olamaz ve bu görevlendirmelerde devir işlemi yapılmaz.
 
-(5) Ba maddeye göre yapılan görevlendirmenin, herhangi bir nedenle iki ayı aşmast halinde, en geg 15 gün içinde 6 ne maddeye göre yeni hir muhasche yetkilisi görevlendirilir ve devir kurulunca devir cetveli düzenlenerek 14 Uncü maddeye göre kesin devir yapılır.
+(5) Ba maddeye göre yapılan görevlendirmenin, herhangi bir nedenle iki ayı aşmast halinde, en geg 15 gün içinde 6 ne maddeye göre yeni hir muhasebe yetkilisi görevlendirilir ve devir kurulunca devir cetveli düzenlenerek 14 Uncü maddeye göre kesin devir yapılır.
 
 #### Muhasebe yetkilisinin gorevinin sona ermesi
 
@@ -178,7 +179,7 @@ b) Gerekçesini belirttek kaşdıyla Il Sağlık Müdarünün teklifi, Başkanı
 
 (4) Sözleşmeli uzman ile imzalanan steleşmenin süresinin bitmesi üzerine, ayra muhasebe yetkilisi ile en geç sözleşmenin biniği günü takip eden iş günü içinde yeni bir sözleşme imzalanması ve imzalanan bu steleșmenin imza tarihi itibariyle ÇKYS tlæerinde yenilenmesi halinde muhasebe yetkilaliği görevi kesintisiz olaras devam oder.
 
-(5) Sözleşmesi sona erecek muhasche yetkilisinin yeniden görevlendirilmemesi halinde, säleşme stresinin sona ermesinden en geç bir ay önce yeni bir görevlendirme yapılması zorunludur.
+(5) Sözleşmesi sona erecek muhasebe yetkilisinin yeniden görevlendirilmemesi halinde, säleşme stresinin sona ermesinden en geç bir ay önce yeni bir görevlendirme yapılması zorunludur.
 
 #### Muhasebe yetkilileri arasanda devir işlemleri
 
@@ -202,7 +203,7 @@ b) Gerekçesini belirttek kaşdıyla Il Sağlık Müdarünün teklifi, Başkanı
 
 #### Muhasebe biriminin teşekkül ettirilmesi
 
-**MADDE 15 –** (1) Bu yönerge ile 11 Sahk Madüräne baglu olamk her ilde hir muhasebe hizmetlerinin hangi mahasebe birimine bağhı olarak yürütüleceği de Il Sağlık Mödürünün gerekçe raporunda belirtilir.
+**MADDE 15 –** (1) Bu yönerge ile 11 Sahk Madüräne baglu olamk her ilde hir muhasebe hizmetlerinin hangi muhasebe birimine bağhı olarak yürütüleceği de Il Sağlık Mödürünün gerekçe raporunda belirtilir.
 
 (2) Muhasebe hizmetleri yürütelürken, iş yüka, muhasebe birimine wæsklk vb. nedenlerle harcama biriminin bagh olduğu muhasebe biriminin değistirilmesi de birinci fikrada belirtilen usulle yapıhr.
 
@@ -218,9 +219,9 @@ a) Bakanlık merkez ve taşra teşkilatının muhasebe hizmetlerini yürütmek.
 
 b) Muhasebe yetkililiği görevi ile ilgili Sanştay'a hesap vermek.
 
-c) Mevzuatında Hazine ve Maliye Bakanlığa tarafindan belirlenen essalar cerçevesinde, gelislerin ve alacakların tahsili, giderlerin hak sahiplerine ödenmesi, para ve parayla ifade edilebilen değerler ile emanetlerin alaması, saklanmasa, ilgililere verilmesi, gönderilmesi ve diğer tüm mali işlemlerin katlantın yapılması ve belgelerin saklanması, raporlanması işlemlerini yürtlimek.
+c) Mevzuatında Hazine ve Maliye Bakanlığa tarafından belirlenen essalar cerçevesinde, gelislerin ve alacakların tahsili, giderlerin hak sahiplerine ödenmesi, para ve parayla ifade edilebilen değerler ile emanetlerin alaması, saklanmasa, ilgililere verilmesi, gönderilmesi ve diğer tüm mali işlemlerin katlantın yapılması ve belgelerin saklanması, raporlanması işlemlerini yürtlimek.
 
-ç) Muhasebe iş ve işlemleri tle ilgili sorumlu olduğu amir tarafindan verilen görevleri
+ç) Muhasebe iş ve işlemleri tle ilgili sorumlu olduğu amir tarafından verilen görevleri
 
 #### Muhasebe birimi bülämleri
 
@@ -274,7 +275,7 @@ A) Tetkik ve kontrol işlemleri servisi personelinin görevleri
 
 (g) Odeme emri belgeleri dzerinde istihkak sahiplerinin sosyal güvenlik primi, vergi, lera vb, borcu bulunup bullunmadığım araştırmak, varsa ilgıli mevzuntı uyaninca muhasebe yetkilisine gerekli kesintilerin yapılması konusunda bilgi vermek.
 
-(d) Gelir tahakkuk estakı ve eki belgeler trerinde ilgili mevzaat hükümlerine uygun olarak gerekli kontrolleri yaparak mahasebe yetkilisine göndermek.
+(d) Gelir tahakkuk estakı ve eki belgeler trerinde ilgili mevzaat hükümlerine uygun olarak gerekli kontrolleri yaparak muhasebe yetkilisine göndermek.
 
 (e) Bu bölümde yapılacak kayıtlann TDMS girişinin eksiksiz ve zamanında yapılması sağlamak
 
@@ -282,7 +283,7 @@ A) Tetkik ve kontrol işlemleri servisi personelinin görevleri
 
 (g) Belgekrin incelendiğine dalr evrakı imzalamak ve kaşelemek.
 
-4g) Muhasebe yetkilisi tarafindan verilen diğer görevleri yapmak.
+4g) Muhasebe yetkilisi tarafından verilen diğer görevleri yapmak.
 
 2- Ön ödeme işlemleri bölümü personelinin görevleri
 
@@ -302,11 +303,11 @@ A) Tetkik ve kontrol işlemleri servisi personelinin görevleri
 
 (0) Belgelerin incelendiğine dair evraka imzalamak ve kaşelemek.
 
-(g) Muhasebe yetkılisi tarafindan verilen diğer görevleri yapmak.
+(g) Muhasebe yetkılisi tarafından verilen diğer görevleri yapmak.
 
 3- Alacak takibi işlemleri bölümü personelinin görevleri,
 
-(a) Kama idarelerince tespit edilen kamu zararından doğan alacaklar ile ilgili idare tarafindan hildirilen kişi borcu kaynaklı diğer alacakların sorumlular ve ilgililer adına TDMS üzerinde muhasebeleştirme işlemlerini yapetak.
+(a) Kama idarelerince tespit edilen kamu zararından doğan alacaklar ile ilgili idare tarafından hildirilen kişi borcu kaynaklı diğer alacakların sorumlular ve ilgililer adına TDMS üzerinde muhasebeleştirme işlemlerini yapetak.
 
 (b) Sayıstay damana istinaden bildirilenleri ilamda belirtilen socumlular adana: adli ve
 
@@ -314,17 +315,17 @@ mahkeme karalarına Istinaden bildirilenleri kararda tazminle yükümlü olduğu
 
 (e) Bu maddenin (a) ve (b) fikralarına göre muhasebe kayıtlanna alınan alacaklar için tahsilat izleme dosyası açmak.
 
-(c) Tahsilat izleme dosyası balunan alacaklarla ilgili olarak ilgili ve sorumlular tarafindan bankaya yatınlan paraların muhasebeleştire işlemlerini yapmak.
+(c) Tahsilat izleme dosyası balunan alacaklarla ilgili olarak ilgili ve sorumlular tarafından bankaya yatınlan paraların muhasebeleştire işlemlerini yapmak.
 
 (d) Tahsilatı yapılmamış ve alacaklar hesabında bekleyen yılan såri tüm alacaklann takibine ve tahsilatıma yönelik işlemlerin yapılması için Mayıs ve Ekim aylarında olmak dzere yılda iki defh durumu ilgili idareye bildirmek.
 
 (e) Görevi ile ilgili belgelerin incelendiğine dair evraka imzalamak.
 
-(D) Muhasebe yetkilisi tarafindan verilen diğer görevleri yapeak
+(D) Muhasebe yetkilisi tarafından verilen diğer görevleri yapeak
 
 4- Taşınar işlemleri bülämü personelimin gärevleri
 
-(a) Harcama birimleri tarafindan in muhasebeden girişi yapılan taşınır hareketleriyle ilgili alarak bildirilen giris, şıka, devir, hurdayn ayırma, kayup ve çalanma gibi işlemlere ait mevzuat hukümlerine uygun olarak gelen evraklan inceleyip kontrollerini yapmak.
+(a) Harcama birimleri tarafından in muhasebeden girişi yapılan taşınır hareketleriyle ilgili alarak bildirilen giris, şıka, devir, hurdayn ayırma, kayup ve çalanma gibi işlemlere ait mevzuat hukümlerine uygun olarak gelen evraklan inceleyip kontrollerini yapmak.
 
 (b) Kayıtlarda bulunan amortismana tabi maddi duran varlıklara dişkin harcama birimkerince muhasebe birimine gönderilen yul sonu amortisman kayat ve işlemlerine ait belgeleri incelemek, eksik olanla taramamak ve kontrollerini sağlamak.
 
@@ -350,19 +351,19 @@ B) Banka takip ve ödeme işlemleri servisi personelinin görevleri
 
 (c) Banka hesabından ilgili hesaplara aktanımı gerçekleşen tutarlan hesap özet cetveline göre sistem tizerinden Inceleyip, gerekli belgeleri oluşturamak muhasebe kaydını
 
-Kç) Banka şubesi tarafindan kimlik ve hesap bilgileri uyuşmazhğı gihi nedenlerle iade edilen paralan emanet hesaplarına almak, gerekli araştırma ve düzeltmeler yapilıktan sonra ilgililerin hesabına gönderilmesi işlemlerini yürütmek.
+Kç) Banka şubesi tarafından kimlik ve hesap bilgileri uyuşmazhğı gihi nedenlerle iade edilen paralan emanet hesaplarına almak, gerekli araştırma ve düzeltmeler yapilıktan sonra ilgililerin hesabına gönderilmesi işlemlerini yürütmek.
 
 (d) Cüntak hesap özet cetveli ile mizanda banka hesabına kontrol etmek, hatih darumlanı muhasebe yetkilisine bildirerek birlikte çöetmlemek.
 
 (e) Gün içerisinde alseakhlanın hesabına aktanldığı bankaca bildirilen gönderne emri tutarlarının kapatma kaydını yapmak.
 
-(1) Kişi ve kurumlar tarafindan bankaya yahırılan paraların mahasebeleştirme işlemlerini yapmak veya tahsilatın türüne göre yapılmasımı sağlamak.
+(1) Kişi ve kurumlar tarafından bankaya yahırılan paraların muhasebeleştirme işlemlerini yapmak veya tahsilatın türüne göre yapılmasımı sağlamak.
 
 (g) Banka işlemleri ile ilgili diğer iş ve işlemleri yapmak
 
 (2) Mali kaynaklann, etkin ve verimli kullanilması ve izlenebilmesi amacyla yürürlükteki Kamu Haznedarlığı Yönetmeliği ile banka protokold bakümlerine göre degerlendirmek.
 
-(h) Muhasebe yetkilisi tarafindan verilkn diğer görevleri yapmak
+(h) Muhasebe yetkilisi tarafından verilkn diğer görevleri yapmak
 
 C) Vezne işlemleri servisi personelinin görevleri
 
@@ -412,7 +413,7 @@ C) Vezne işlemleri servisi personelinin görevleri
 
 (s) Teminat mektupları işlemleriyle ilgili yazışmalan muhafaza etmek.
 
-(a) Muhasebe yetkilisi tarafindan verilen diğer görevleri yapmak
+(a) Muhasebe yetkilisi tarafından verilen diğer görevleri yapmak
 
 D) Evrak kayst, tasnif ve arşiv servisi personelinin görevleri
 
@@ -436,7 +437,7 @@ Q) Arşivin tertip, düzen ve güvenliğini sağlamak, bunun için her türlü t
 
 (h) İlgili mevzuatlar kapsamında diğer arşiv işlemlerini yürümek.
 
-(1) Muhasebe yetkilisi tarafindan verilen diğer görevleri yapmak
+(1) Muhasebe yetkilisi tarafından verilen diğer görevleri yapmak
 
 9/12
 
@@ -444,11 +445,11 @@ Q) Arşivin tertip, düzen ve güvenliğini sağlamak, bunun için her türlü t
 
 #### Muhasebe yetkilisi mutemedi görevlendirilmesi
 
-**MADDE 20 –** (1) Zaruriluluk bulunması halinde, muhasebe yetkilisi adına para ve parayla ifade edilebilen değerleri almak, vermek, vezne ve ambarlarda muhafaza etmek azere mahasebe yetkilisinin de mavafakatı alımarak seçilen personel, hareama yetkilisi tarafindan muhasebe yetkilisi matemedi olarak görevlendirilir. Görevlerinden ayrılanlar ayra gün Içerisinde muhasche birimine bildirilir.
+**MADDE 20 –** (1) Zaruriluluk bulunması halinde, muhasebe yetkilisi adına para ve parayla ifade edilebilen değerleri almak, vermek, vezne ve ambarlarda muhafaza etmek azere muhasebe yetkilisinin de mavafakatı alımarak seçilen personel, hareama yetkilisi tarafından muhasebe yetkilisi matemedi olarak görevlendirilir. Görevlerinden ayrılanlar aynı gün Içerisinde muhasebe birimine bildirilir.
 
 (2) Muhasebe yetkilisi mutenedi, doğrudan muhasebe yetkilisine karşı sorumludur.
 
-(3) Görevinde ihmali olduğu, görevini kötüye kullandığı ve zimmetine para geçirdiği tespit edilen muhasebe yetkilisi mutemetleri ilgili harcama birimince derhal mahasebe
+(3) Görevinde ihmali olduğu, görevini kötüye kullandığı ve zimmetine para geçirdiği tespit edilen muhasebe yetkilisi mutemetleri ilgili harcama birimince derhal muhasebe
 
 (4) Muhasebe yetkilisi mutemetleri 0606/1954 tarihli ve 2720 sayıl Resmi Gazete'de yayımlanan Kefalet Kanunu hükümleri uyanınca kefalete tabi tutulur.
 
@@ -462,11 +463,11 @@ Q) Arşivin tertip, düzen ve güvenliğini sağlamak, bunun için her türlü t
 
 Gelir tahakkuk evraklarının düzenlenmesi ve muhasebe kuyularıma alınması
 
-MADDE 22 (1) İlgili mevzuatında belirtilen döner sermaye gelirlerinin tahakkuk ettirildiği muhasebe işlem fişi ve eki belgeler, gellir tahakkuk evraklandır.
+MADDE 22 (1) İlgili mevzuatında belirtilen döner sermaye gelirlerinin tahakkuk ettirildiği muhasebe işlem fişi ve eki belgeler, gelir tahakkuk evraklandır.
 
-(2) Harcama birimlerinde tahakkuk eden ve duzenlenen belge, gelir gerçekleștire görevlisi ve harcama yetkilisi tarafindan kontrol edilerek imzalanır.
+(2) Harcama birimlerinde tahakkuk eden ve duzenlenen belge, gelir gerçekleștire görevlisi ve harcama yetkilisi tarafından kontrol edilerek imzalanır.
 
-(3) Gelir tahakkuk evrakları müteakip ayın 6 neı günü mesal saati hitimine kadar gelir tahakkuk görevlikrince düzenlenir ve TDMS üzerinden ön muhasebe kayıtlanna alımır. Aymı zamanda bu süre içerisinde belgelerin salak imzalı nüshalannın da mahasebe birimine tutanak karşılığı teslim edılmesi sağlanar.
+(3) Gelir tahakkuk evrakları müteakip ayın 6 neı günü mesal saati hitimine kadar gelir tahakkuk görevlikrince düzenlenir ve TDMS üzerinden ön muhasebe kayıtlanna alımır. Aymı zamanda bu süre içerisinde belgelerin salak imzalı nüshalannın da muhasebe birimine tutanak karşılığı teslim edılmesi sağlanar.
 
 (4) Muhasebe işlem fişleri 3 (0ç) nüsha olarak tanzim odilir. Bunun Ao nüshası muhasebe birimine gönderilir. Bir nüshası le harcama hiriminde arşivlenir.
 
@@ -482,7 +483,7 @@ MADDE 22 (1) İlgili mevzuatında belirtilen döner sermaye gelirlerinin tahakku
 
 (2) Odene envi helgesi ve eki belgeler 3/2005 tarihli ve 26040 (3. mrtikerter) sayılı Resmi Gazete'de yayımlanan Merkezi Yönetim Harcama Belgeleri Yonetmeliği kapsamında ve ilgili diğer mevzuat kapsamında tanzim edilir. Harcama yetkilisi, kendisine en yakı üst kademe yöneticilerinden birisini veya birkaçını ödeme emri belgesini imzalamak uzere görevlendirir.
 
-(3) Harcama birimlerince ödemte emri belgesi eklerini olușturan belgeler tartilarak ôn muhasebeye girilir ve muhasebe biriminin onayna sunulur. Bu belgelerin ıslak imzal nüshalar muhasebe birimine gönderilir. Muhasebe biriminin onayımı müteakiben ödeme emri belgesi harcama birimletinde gider gerçekleştirme görevlisi ve hareama yetkilisi tarafindan kontrol edilerek imzalanır.
+(3) Harcama birimlerince ödemte emri belgesi eklerini olușturan belgeler tartilarak ôn muhasebeye girilir ve muhasebe biriminin onayna sunulur. Bu belgelerin ıslak imzal nüshalar muhasebe birimine gönderilir. Muhasebe biriminin onayımı müteakiben ödeme emri belgesi harcama birimletinde gider gerçekleştirme görevlisi ve hareama yetkilisi tarafından kontrol edilerek imzalanır.
 
 (4) Ilgililerce imza edilen ödeme emri belgesi ve eki belgeler, ilgili mevzuatlan gereği harcama biriminin bağh olduğu muhasebe birimine tutanak karşılığında teslim edilir.
 
@@ -502,27 +503,27 @@ MADDE 22 (1) İlgili mevzuatında belirtilen döner sermaye gelirlerinin tahakku
 
 #### Muhasebe hizmetlerinin yürütülmesi
 
-**MADDE 26 –** (I) Bu Yenergede belirtilmeyen hususlarla ilgili olank, mevcut mali mevzuat hükümleri ile ilgili kurumlar tarafindan yürürluğe konulacak olan mevzuat hükümleri dikkate alınacaktr.
+**MADDE 26 –** (I) Bu Yönergede belirtilmeyen hususlarla ilgili olank, mevcut mali mevzuat hükümleri ile ilgili kurumlar tarafından yürürlüğe konulacak olan mevzuat hükümleri dikkate alınacaktr.
 
-#### Odemelerde dacelik strast
+#### Ödemelerde dacelik strast
 
-**MADDE 27 –** (1) Odemeler, Yonetmeligin 22 nei maddesi ve ilgili diğer mevzut hükümlerinde belirtilen ödemelerdeki öncelik sırasına göre yapahr.
+**MADDE 27 –** (1) Ödemeler, Yönetmeliğin 22 nei maddesi ve ilgili diğer mevzut hükümlerinde belirtilen ödemelerdeki öncelik sırasına göre yapahr.
 
-(2) Yönergenin yürürlüğe girdiği tarihten sonra, ilgili kamu kurum ve kuraluşlan tarafindan yürürluge konulacak mevzuatlarla ödemelerdeki öncelik sırasının_degiştirilmesi halinde, ödemeler, yürürluğe konulan mevzuatlardaki ödemelerdeki etindetle sıraşına göre
+(2) Yönergenin yürürlüğe girdiği tarihten sonra, ilgili kamu kurum ve kuraluşlan tarafından yürürluge konulacak mevzuatlarla ödemelerdeki öncelik sırasının_degiştirilmesi halinde, ödemeler, yürürlüğe konulan mevzuatlardaki ödemelerdeki etindetle sıraşına göre
 
 1
 
 #### Soramulak
 
-**MADDE 28 –** (1) Mutasebe yetkilisi, muhasebe yetkilisi yardımçısu ve muhasebe birimi persaneli tarafindan, basit ve nitelikli zimmet suça işlenmesi ve ilgili personelin kusuru ile kamu zaran oluşması halinde, yürürlükteki mevzuat kapsamında bu durumdan ilgili kişiler sorum adar.
+**MADDE 28 –** (1) Muhasebe yetkilisi, muhasebe yetkilisi yardımçısu ve muhasebe birimi persaneli tarafından, basit ve nitelikli zimmet suça işlenmesi ve ilgili personelin kusuru ile kamu zaran oluşması halinde, yürürlükteki mevzuat kapsamında bu durumdan ilgili kişiler sorum adar.
 
-#### Merkez döner sermaye mahasebe bleimi
+#### Merkez döner sermaye muhasebe bleimi
 
 **MADDE 19 –** (1) Bakanlik merkez döner sermaye işletmesi muhasebe hizmetleri, Başkanlis tarshedan yürinulur.
 
-(2) Merkez döner semaye muhasebe birimi muhasebe yetkilisi, Başkanın teklifi ve Dat Yöneticinin anayı ile tercihen mahasche yetkilisi sertifikasna sahip, mali hizmetler uzmanları arasindan gorevlendirilir.
+(2) Merkez döner semaye muhasebe birimi muhasebe yetkilisi, Başkanın teklifi ve Dat Yöneticinin anayı ile tercihen muhasebe yetkilisi sertifikasna sahip, mali hizmetler uzmanları arasindan görevlendirilir.
 
-(3) Muhasebe yetkilisi yardımcısı, Başkan tarafindan tercihen muhasebe yetkilisı sertifikasına sahip, Başkanlık personeli araşandan görevlendirilir.
+(3) Muhasebe yetkilisi yardımcısı, Başkan tarafından tercihen muhasebe yetkilisı sertifikasına sahip, Başkanlık personeli araşandan görevlendirilir.
 
 #### Hüküm bulunmayan haller
 

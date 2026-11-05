@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10588/mal-bildirimi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Personel Genel Müdürlüğü

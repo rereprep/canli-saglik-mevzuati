@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103792/tibbi-sosyal-hizmet-uygulama-yo
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.12. Tıbbi Sosyal Hizmet Uygulama Yönergesi
@@ -36,7 +37,7 @@ d) Komisyon: Tıbbi Sosyal Hizmetler Bilimsel Danışma Komisyonunu
 
 e) Şube: Tıbbi Sosyal Hizmetler Şubesini
 
-f) Müdürlük: Il Sağlık Müdürlüklerini
+f) Müdürlük: İl Sağlık Müdürlüklerini
 
 g) Tıbbi sosyal hizmet: Ayakta ya da yatarak tedavi gören hastaların tıbbi tedaviden etkili bir şekılde yararlanması, sosyal sağlığının korunması ve geliştirilmesi, tedavi sürecinde hastanın ailesi ve çevresi ile ilişkilerinin düzenlenmesi, tedavi sürecini etkileyen psiko-sosyal ve sosyo-ekonomik sorunlarının zamanında çözümlenerek sosyal işlevselliğini yeniden kazanması amacıyla yürütülen sosyal hizmet uygulamasını,
 
@@ -230,7 +231,7 @@ b) Hastaneden hizmet alan,
 
 13. Yabancı uyruklu olup tedaviden yararlanamayan hastalar
 
-14. Il dişından gelen hastalar, öncelikli olmak tizere tıbbi sosyal hizmete ihtiyaç duyan hastalar için sosyal hizmet müdahalesini planlar ve uygular.
+14. İl dışından gelen hastalar, öncelikli olmak tizere tıbbi sosyal hizmete ihtiyaç duyan hastalar için sosyal hizmet müdahalesini planlar ve uygular.
 
 c) Hastalığa ve tedavi sürecine uyumda zorlanan hastaların uyumunu sağlamak için gerekli sosyal hizmet müdahalesinde bulunur.
 

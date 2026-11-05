@@ -7,23 +7,25 @@ sayi: "99858683/045"
 birim: "Türkiye Halk Sağlığı Kurumu"
 konu: "Aile sağlığı merkezlerinde bulundurulması zorunlu aspiratör cihazının asgari özelliklerini ve temin süresini belirler."
 etiketler: ["mevzuat", "birinci-basamak"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 521-521"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 521"
 kaynak_pdf_sayfa: "527"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## AİLE SAĞLIĞI MERKEZLERİNDE ASPİRATÖR CİHAZININ BULUNDURULMASI HAKKINDA
 
-T.C.
-SAĞLIK BAKANLIĞI
-Türkiye Halk Sağlığı Kurumu
+T.C.  
+SAĞLIK BAKANLIĞI  
+Türkiye Halk Sağlığı Kurumu Başkanlığı  
 
-Sayı: 99858683/045
-Konu: Aspiratör Cihazı Hk.
+**Sayı :** 99858683/045  
+**Konu :** Aspiratör Cihazı Hk.  
 
-### ……………………… VALİLİĞİNE (Halk Sağlığı Müdürlüğü)
+### .................... VALİLİĞİNE  
+(Halk Sağlığı Müdürlüğü)
 
 İlgi: 10.04.2015 tarihli ve 99858683/903.07.02/711 sayılı yazımız.
 
@@ -43,9 +45,9 @@ Aile sağlığı merkezlerinde hâlihazırda bulundurulan aspiratör cihazların
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. İrfan ŞENCAN
-Bakan a.
-Kurum Başkanı V.
+Prof. Dr. İrfan ŞENCAN  
+Bakan a.  
+Kurum Başkanı V.  
 
-DAĞITIM:
-81 İl Valiliğine
+### DAĞITIM:
+81 İl Valiliğine (Halk Sağlığı Müdürlüğü)

@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "509-512"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## AİLE SAĞLIĞI MERKEZLERİNİN ASGARİ FİZİKİ ŞARTLARI VE TEKNİK DONANIMI İLE BAKIMI VE ONARIMI
@@ -41,7 +42,7 @@ Bu çerçevede aşağıdaki şekilde işlem tesis edilecektir;
 
 4) Müdürlükçe yapılan tüm bu harcamalar belgelendirilerek komisyon kararı ile aile hekimine bildirilir.
 
-5) Belgelenen toplam tutarın ilgili aile hekimliği biriminin ASM gider ödeneğinin yüzde 50'sinden fazla olması durumunda, komisyon tarafından belirlenen ödeme takvimine göre aile hekimliği birimi gider ödeneğinden mahsup edilir. Belge içeriğini buraya yazabilir ya da kopyala/yapıştır yapabilirsiniz.
+5) Belgelenen toplam tutarın ilgili aile hekimliği biriminin ASM gider ödeneğinin yüzde 50'sinden fazla olması durumunda, komisyon tarafından belirlenen ödeme takvimine göre aile hekimliği birimi gider ödeneğinden mahsup edilir.
 
 6) Bakanlığımız tasarrufunda olmayan ve aile hekimleri tarafından doğrudan diğer kamu, özel hukuk (gerçek ve tüzel) kişilerden kiralanan binaların asgari fiziki ve teknik şartlarının oluşturulması kiracı/kiralayan ilişkileri çerçevesinde sözleşmenin taraflarınca yerine getirilmesi gerekmektedir. Ancak halihazırda hizmet vermekte olan ASM'lere mevzuat gereği yapılan denetimler sonucunda hizmet sunumu için gerekli asgari fiziki şartlarda tespit edilen eksikliklerin verilen süre içerisinde giderilmemesi durumunda müdürlükçe giderilir. Giderilen eksiklikler belgelendirilerek aile hekimliği biriminin ASM gider ödeneğinden mahsup edilir.
 

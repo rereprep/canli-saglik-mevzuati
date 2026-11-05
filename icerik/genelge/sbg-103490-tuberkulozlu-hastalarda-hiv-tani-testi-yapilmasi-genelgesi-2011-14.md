@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103490/tuberkulozlu-hastalarda-hiv-tan
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

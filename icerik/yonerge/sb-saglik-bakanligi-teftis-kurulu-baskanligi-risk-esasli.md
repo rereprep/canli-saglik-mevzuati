@@ -11,13 +11,13 @@ ocr: true
 tarih: "2024-11-29"
 sayi: "261023707"
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-10.2.2. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi
 
 ### SAĞLIK BAKANLIĞI TEFTİŞ KURULU BAŞKANLIĞI RİSK ESASLI DENETİM SİSTEMİ KOORDİNATÖRLÜĞÜ YÖNERGESİ
 
-## BİRİNCİ BÖLÜM Başlangıç Hükümleri
+## BİRİNCİ BÖLÜM
+### Başlangıç Hükümleri
 
 #### Amaç ve kapsam
 
@@ -37,7 +37,7 @@ a) Bakan: Sağlık Bakanını,
 
 b) Bakanlık: Sağlık Bakanlığını,
 
-e) Başkan: Sağlık Bakanlığı Teftiş Kurulu Başkanını,
+c) Başkan: Sağlık Bakanlığı Teftiş Kurulu Başkanını,
 
 ç) Başkanlık: Sağlık Bakanlığı Teftiş Kurulu Başkanlığını,
 
@@ -45,21 +45,21 @@ d) İl temsilcisi: İl sağlık müdürü tarafından il sağlık müdürlüğü
 
 e) Koordinatör: Risk Esaslı Denetim Sistemi Koordinatörünü,
 
-1) Koordinatörlük: Risk Esaslı Denetim Sistemi Koordinatörlüğünü,
+f) Koordinatörlük: Risk Esaslı Denetim Sistemi Koordinatörlüğünü,
 
 g) Risk Esaslı Denetim Sistemi (REDES): Sağlık hizmet sunumunda yolsuzluk, usulsüzlük veya israf riski taşıyan durumları veri madenciliği yöntemleriyle tespit eden modern ve dinamik teftiş sistemini,
 
-g) REDES Portal: REDES Koordinatörlüğü bünyesinde gerçekleştirilen görev atama, dosyalama ve benzeri işlerin yürütüldüğü ve kayıt altına alındığı web tabanlı uygulamayı ifade eder.
+ğ) REDES Portal: REDES Koordinatörlüğü bünyesinde gerçekleştirilen görev atama, dosyalama ve benzeri işlerin yürütüldüğü ve kayıt altına alındığı web tabanlı uygulamayı ifade eder.
 
 ## İKİNCİ BÖLÜM
-
-#### Risk Esaslı Denetim Sistemi Koordinatörlüğünün Organizasyon Yapısı
+### Risk Esaslı Denetim Sistemi Koordinatörlüğünün Organizasyon Yapısı
 
 **MADDE 4 –** (1) Koordinatörlük, Koordinatöre bağlı olarak faaliyet gösteren; İstihbarat Birimi, Analiz Birimi, Raporlama Birimi ve Saha Biriminden oluşur. Koordinatör, Sağlık Bakanlığı Teftiş Kurulu Yönetmeliğinin 10 uncu maddesi uyarınca Başkana bağlı olarak görev yapar.
 
 ## ÜÇÜNCÜ BÖLÜM
+### Risk Esaslı Denetim Sistemi Koordinatörlüğünün Görevleri
 
-#### Risk Esaslı Denetim Sistemi Koordinatörlüğünün görevleri
+#### Koordinatörlüğün görevleri
 
 **MADDE 5 –** (1) Koordinatörlük aşağıdaki görevleri yerine getirir:
 
@@ -115,7 +115,7 @@ g) Muhakkik rehberi hazırlamak,
 
 h) Mevzuat geliştirme çalışması yapmak,
 
-1) Yürütülen iş ve işlemlerle ilgili tüm bilgi ve belgeleri REDES Portala kaydetmek,
+ı) Yürütülen iş ve işlemlerle ilgili tüm bilgi ve belgeleri REDES Portala kaydetmek,
 
 i) Koordinatör tarafından verilen diğer görevleri yerine getirmek.
 
@@ -155,11 +155,13 @@ b) İş süreçlerine yönelik doküman hazırlamak,
 
 c) Yıllık strateji belgesi hazırlamak,
 
-c) Saha faaliyetleri ve benzeri çalışmaların sonuç raporunu hazırlamak,
+ç) Saha faaliyetleri ve benzeri çalışmaların sonuç raporunu hazırlamak,
 
 d) Broşür, video ve benzeri içerik üretmek,
 
-e) Sosyal medya içeriği üretmek, f REDES web sitesine içerik üretmek.
+e) Sosyal medya içeriği üretmek,
+
+f) REDES web sitesine içerik üretmek,
 
 g) Basın bültenini raporlamak,
 
@@ -169,31 +171,35 @@ g) Basın bültenini raporlamak,
 
 **MADDE 10 –** (1) Saha Birimi aşağıdaki görevleri yerine getirir:
 
-a) Il temsilcileriyle koordinasyon sağlamak.
+a) İl temsilcileriyle koordinasyon sağlamak,
 
-b) Iç-dış paydaşlarla koordinasyon sağlamak.
+b) İç-dış paydaşlarla koordinasyon sağlamak,
 
-e) Il temsilcilerinden gelen bilgileri derleyip istihbarat birimine aktarmak,
+c) İl temsilcilerinden gelen bilgileri derleyip istihbarat birimine aktarmak,
 
-g) İllerden veri talep etmek, düzenlemek ve kayıt altına almak,
+ç) İllerden veri talep etmek, düzenlemek ve kayıt altına almak,
 
-d) Sahada ilgili birimlerle temas kurarak merkezden elde edilen verileri doğrulamak, f) Fiilen sahada veya çevrimiçi yöntemlerle gerçekleştirilen saha faaliyetlerinin, çalıştay, toplantı ve benzeri etkinliklerin koordinasyonunu sağlamak,
+d) Sahada ilgili birimlerle temas kurarak merkezden elde edilen verileri doğrulamak,
 
-1) Koordinatör tarafından verilen diğer görevleri yerine getirmek.
+e) Fiilen sahada veya çevrimiçi yöntemlerle gerçekleştirilen saha faaliyetlerinin, çalıştay, toplantı ve benzeri etkinliklerin koordinasyonunu sağlamak,
 
-## DÖRDÜNCÜ BÖLÜM Mali Hükümler
+f) Koordinatör tarafından verilen diğer görevleri yerine getirmek.
+
+## DÖRDÜNCÜ BÖLÜM
+### Mali Hükümler
 
 #### Mali Hükümler
 
 **MADDE 11 –** (1) REDES kapsamında merkez ve taşra teşkilatında verilecek eğitimlere ilişkin mali hususlar aşağıda sıralanmıştır:
 
-a) REDES kapsamında taşra teşkilatında verilecek eğitimlerde, eğiticilere il dışı görevleri için 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre gündelik, konaklama, yol bedeli ve ayrica varsa eğitimin icrasıyla ilgili diğer zorunlu masrafları ödenir.
+a) REDES kapsamında taşra teşkilatında verilecek eğitimlerde, eğiticilere il dışı görevleri için 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre gündelik, konaklama, yol bedeli ve ayrıca varsa eğitimin icrasıyla ilgili diğer zorunlu masrafları ödenir.
 
 b) Eğitime katılanların gündelik, konaklama ve yol bedelleri kendi kurum ve kuruluşlarınca 6245 sayılı Kanun hükümlerine göre ödenir. Katılımcılara gündelik, konaklama ve yol bedeli haricinde ayrıca bir ödeme yapılmaz.
 
 c) Yönerge çerçevesinde eğitim vermek üzere görevlendirilen eğiticilere; 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 89 uncu ve 176 ncı maddeleri, 11/12/2009 tarihli ve B.10.0.SEG.0.72.00.03-010.03/15296 sayılı Bakanlık Makam Onayı ile yürürlüğe giren Sağlık Bakanlığı Hizmet İçi Eğitim Yönetmeliğinin 39 uncu maddesi, 07/10/1994 tarihli ve 94/6192 sayılı Bakanlar Kurulu Kararı ile 20/12/1994 tarihli ve 22147 sayılı Resmî Gazete'de yayımlanan Sağlık Bakanlığına Bağlı Her Derecedeki Eğitim ve Öğretim Kurumları ile Hizmet İçi Eğitim Kurs ve Seminerlerde Ücretle Okutulacak Ders Saatlerinin Sayısı, Ders Görevi Alacakların Nitelikleri ve Diğer Hususlara Dair Esaslara dayanılarak eğitim ücreti ödenebilir.
 
-## BEŞİNCİ BÖLÜM Son Hükümler
+## BEŞİNCİ BÖLÜM
+### Son Hükümler
 
 #### Yürürlük
 
@@ -202,3 +208,4 @@ c) Yönerge çerçevesinde eğitim vermek üzere görevlendirilen eğiticilere; 
 #### Yürütme
 
 **MADDE 13 –** (1) Bu Yönerge hükümlerini Bakan yürütür.
+

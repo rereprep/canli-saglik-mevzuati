@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103810/saglik-bakanligi-sosyal-tesisle
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 9.2.3. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi
@@ -226,15 +227,15 @@ B) Diğer tüm mall iş ve işlemleri yapmak.
 
 (4) Il sağlık müdürlüklerindeki yemekhane hizmeti veren sosyal tesislerde; personelin kadro veya pozisyon unvanı, hizmetlerin özelliği, yemek maliyetleri ve yemek servisinin farklı mahallerde daha iyi şartlarda sunulması gibi hususlar dikkate alınarak Kamu Sosyal Tesislerine Ilişkin Tebliğ'de belirtilen miktarlar üzerinden yemek bedeli tespit edilir.
 
-(5) Devlet Memurları Yiyecek Yardımı Yönetmeliği hükümleri kapsamında yiyecek yardımının gerektirdiği giderler, yemek maliyetlerinin Ankara, İstanbul ve Izmir Illeri için üçte ikisini; diğer iller için yarısını aşmamak üzere genel bütçeden tahsis edilen ödenekten karşılanır.
+(5) Devlet Memurları Yiyecek Yardımı Yönetmeliği hükümleri kapsamında yiyecek yardımının gerektirdiği giderler, yemek maliyetlerinin Ankara, İstanbul ve İzmir illeri için üçte ikisini; diğer iller için yarısını aşmamak üzere genel bütçeden tahsis edilen ödenekten karşılanır.
 
 (6) Sosyal tesislerin gelirleri; bunlarin işletilmesinden, finansal araçlardan ve her türlü bağışlardan elde edilecek gelirlerden oluşur. Sosyal tesisler ile ilgili her türlü gelir ve giderin ilgili mevzuata uygun olarak belgelendirilmesi esastır.
 
 (7) Giderler, muhasebe işlem fişleri ile işlenir. Muhasebe işlem fişlerinde, Harcama Yetkilisi ve Gerçekleştirme Görevlisinin imzaları olur. Gerçekleştirme Görevlisi olmaması durumunda, Muhasebe Yetkilisi her iki görevi de ifa eder.
 
-(8) Muhasebe Yetkilisi mutemetleri, Kamu Haznedarlığı Yönetmeliği'ne göre tahsil ettiği sosyal tesis gelirini o gün saat 16.00'ya kadar bankaya veya muhasebe birimine yatırarak Z raporunu ve banka dekontunu muhasebe yetkilisine teslim eder Ancak; işin gereği olarak, saat 16.00'dan sonra tahsil edilen paralar ile tatil günlerinde yapılan tahsilat iş bitiminde muhasebe birimindeki kasaya tutanak karşılığı teslim edilerek korumaya alınır. Bu şekilde muhasebe birimi kasasıa intikal eden para tutanı takip eden ilk mesai günü bankaya yatırılır.
+(8) Muhasebe Yetkilisi mutemetleri, Kamu Haznedarlığı Yönetmeliği'ne göre tahsil ettiği sosyal tesis gelirini o gün saat 16.00'ya kadar bankaya veya muhasebe birimine yatırarak Z raporunu ve banka dekontunu muhasebe yetkilisine teslim eder. Ancak; işin gereği olarak, saat 16.00'dan sonra tahsil edilen paralar ile tatil günlerinde yapılan tahsilat iş bitiminde muhasebe birimindeki kasaya tutanak karşılığı teslim edilerek korumaya alınır. Bu şekilde muhasebe birimi kasasına intikal eden para tutarı takip eden ilk mesai günü bankaya yatırılır.
 
-(9) Harcama Yetkilisinin uygun görmesi ve karşılığı ödeneğin saklı tutulması kaydıyla, ilgili kanunlarda öngörülen håller ile gerçekleştirme işlemlerinin tamamlanması beklenilemeyecek ivedi veya zorunlu giderler için Merkezi Yönetim Bütçe Kanunu'nda belirlenen avans limitinin 5 katına kadar avans verilebilir. Avans olarak verilen tutarların en geç 30 gün içinde mahsubu veya iadesi sağlamır.
+(9) Harcama Yetkilisinin uygun görmesi ve karşılığı ödeneğin saklı tutulması kaydıyla, ilgili kanunlarda öngörülen hâller ile gerçekleştirme işlemlerinin tamamlanması beklenilemeyecek ivedi veya zorunlu giderler için Merkezi Yönetim Bütçe Kanunu'nda belirlenen avans limitinin 5 katına kadar avans verilebilir. Avans olarak verilen tutarların en geç 30 gün içinde mahsubu veya iadesi sağlanır.
 
 (10) Sosyal tesisin paralanı, sermayesinin yarısından fazlası kamuya ait bankalarda muhafaza edilir.
 

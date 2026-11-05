@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103793/turkiye-kok-hucre-merkezinin-ca
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge
@@ -48,7 +49,7 @@ Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge
 
 **MADDE 2 –** (1) Bu Yönerge, Sağlık Bakanlığı bünyesinde kurulan Türkiye Kök Hücre Merkezinin yapısını, görevlerini ve çalışma esaslarını kapsar.
 
-**MADDE 3 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fikrasının (a) ve (b) bentlerine ve 508 inci maddesine, 31/7/2019 tarihli ve 30848 sayılı Resmi Gazete'de yayımlanan Terapötik Aferez Merkezleri ve Uniteleri Hakkında Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönerge, 10/7/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (a) ve (b) bentlerine ve 508 inci maddesine, 31/7/2019 tarihli ve 30848 sayılı Resmi Gazete'de yayımlanan Terapötik Aferez Merkezleri ve Üniteleri Hakkında Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
@@ -56,19 +57,19 @@ a) Bakanlık: Sağlık Bakanlığını,
 
 b) Bağışçı: Hematopoetik kök hücre nakli gereken hasta ile eşleşen ve kemik iliği veya periferik kök hücre verme konusunda bilgilendirilmiş ve gönüllü olduğunu beyan etmiş, bağışçı olmasında herhangi bir engel bulunmayan 18-50 yaş arasındaki kişiyi,
 
-c) Bağış Merkezı (BM): Bağışçı kazanımı için Bölge Kan Merkezlerinde veya Bölge Kan Merkezlerinden bağımsız müstakil alanlarda kurulan, gerektiğinde mobil ekipler oluşturarak bağışçıdan aydınlatılmış onamı ve kan numunesi alınan merkezi,
+c) Bağış Merkezi (BM): Bağışçı kazanımı için Bölge Kan Merkezlerinde veya Bölge Kan Merkezlerinden bağımsız müstakil alanlarda kurulan, gerektiğinde mobil ekipler oluşturarak bağışçıdan aydınlatılmış onamı ve kan numunesi alınan merkezi,
 
 ç) Genel Müdür: Sağlık Hizmetleri Genel Müdürünü,
 
 d) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
-e) Hematopoetik Kök Hücre Nakil Merkezi (HKHNM): Hastaya, hematopoctik kök hücre nakli uygulamak amacı ile kamu veya özel sağlık tesislerinde kurulan nakil merkezini,
+e) Hematopoetik Kök Hücre Nakil Merkezi (HKHNM): Hastaya, hematopoetik kök hücre nakli uygulamak amacı ile kamu veya özel sağlık tesislerinde kurulan nakil merkezini,
 
 f) Kök Hücre: Kemik iliğinde, periferik kanda ve göbek kordonunda bulunan, kan ve bağışıklık sistemi hücrelerine dönüşebilen öncül hematopoetik kök hücreleri,
 
 g) Türkiye Kök Hücre Merkezi (TÜRKÖK): İleri tetkik ve özel tedavi gerektiren hastalar için ulusal ve uluslararası akraba dışı kök hücre temini ve nakline yönelik her türlü iş ve işlemi gerçekleştiren, hastalıkların teşhis ve tedavisinin yapıldığı yüksek teknoloji içeren alt yapıya sahip, eğitim ve araştırma hizmetlerinin verildiği kuruluşlar arasında koordinasyonu sağlayan, gerektiğinde bu kuruluşların tıbbi donanım ve alt yapısından faydalanan, bünyesinde ulusal kemik iliği veri bankası bulunan, Genel Müdürlüğe bağlı olarak hizmet veren sağlık hizmet sunucusunu,
 
-g) Veri Tabanı: TÜRKÖK tarafından, bağışçıların doku tiplerine ait verilerin tutulduğu elektronik veri kayıt sisteminı,
+g) Veri Tabanı: TÜRKÖK tarafından, bağışçıların doku tiplerine ait verilerin tutulduğu elektronik veri kayıt sistemini,
 
 ## İKİNCİ BÖLÜM TÜRKÖK'ün Yapısı, Görevleri ve Veri Tabanımın Güncellenmesi
 
@@ -82,13 +83,13 @@ a) Merkez çalışanları için gün ışığı alan, havadar her biri en az 20 
 
 b) Veri tabanını oluşturan sistem için server odası olmalıdır.
 
-(3) Gerekli görüldüğü takdirde TURKOK bünyesinde kordon kanı bankası kurulabilir.
+(3) Gerekli görüldüğü takdirde TÜRKÖK bünyesinde kordon kanı bankası kurulabilir.
 
 (4) Işlerin etkin ve zamanında gerçekleştirilebilmesi için Bakanlıkça belirlenen illerde gerekirse kök hücre koordinasyon birimi kurulabilir.
 
 #### TÜRKÖK'ün Görevleri
 
-**MADDE 6 –** (1) TURKOK'ün görevleri şunlardır;
+**MADDE 6 –** (1) TÜRKÖK'ün görevleri şunlardır;
 
 (a) Kök hücre nakli gereken hastaların tedavisi için yurt içinden veya yurt dışından kök hücre temin edilmesini ve nakil merkezine transferine kadar olan süreci yürütür veya yürütülmesını sağlar.
 
@@ -172,7 +173,7 @@ b) Veri tabanını oluşturan sistem için server odası olmalıdır.
 
 **MADDE 9 –** (1) TÜRKÖK personeli ve TÜRKOK'ün hizmet aldığı kurum görevlileri, bu Yönerge kapsamındaki faaliyetlerle ilgili olarak gizlilik sözleşmesi imzalamakla yükümlüdürler.
 
-(2) TURKOK bilgi yönetim sistemine erişim, görev alanı ile ilgili yetkılendırılmış personel ile sınırl tutulur.
+(2) TÜRKÖK bilgi yönetim sistemine erişim, görev alanı ile ilgili yetkilendirilmiş personel ile sınırlı tutulur.
 
 (3) Kayıt altına alınan hastanın ve bağışçının kişisel verileri, ilgili mevzuata uygun olarak işlenir ve veri tabanına aktarılır.
 

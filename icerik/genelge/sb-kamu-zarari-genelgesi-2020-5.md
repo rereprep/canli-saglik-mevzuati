@@ -10,13 +10,18 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1079
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-### T.C. SAGLIK BAKANLIĞI Statel Gelisimne Baskanliğt
+### T.C. SAĞLIK BAKANLIĞI
+#### Strateji Geliştirme Başkanlığı
 
-Sayı: 43553240-010.06.01
+**Sayı :** 43553240-010.06.01/  
+**Konu :** Kamu Zararı  
+**Tarih :** 15/07/2020
 
-Konu: Kamu Zararı ilgilendirenler sorguya konu merkez hizmet birimine, taşrayı ilgilendirenler ise ilgili Valiliğe (II Sağhk Müdürlüğüne) Yönetmeliğin 7/B maddesine göre işlem tesis edilmesi amacıyla Strateji Geliştirme Başkanlığınca gönderilir.
+### GENELGE
+**2020/5** ilgilendirenler sorguya konu merkez hizmet birimine, taşrayı ilgilendirenler ise ilgili Valiliğe (II Sağhk Müdürlüğüne) Yönetmeliğin 7/B maddesine göre işlem tesis edilmesi amacıyla Strateji Geliştirme Başkanlığınca gönderilir.
 
 Kamu zararlanna ilişkin sorgulanın, Sayıştay ilamı ile kesin hükme bağlanması halinde alacağın takibi bu Genelgenin 1 inci maddesinde yazılı takibe yetkili yerlerce yerine getirilecektir.
 
@@ -74,7 +79,7 @@ Strateji Geliştime Başkanla Sayr 43553240-010.06.01 Konu Kamu Zaran
 
 Balglennz: Ve gereğini onemle nica ederm.
 
-DE. Folan RUSA
+Dr. Fahrettin KOCA
 
 Bakan
 

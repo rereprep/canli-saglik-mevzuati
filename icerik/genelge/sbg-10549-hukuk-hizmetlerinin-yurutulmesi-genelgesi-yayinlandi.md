@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10549/hukuk-hizmetlerinin-yurutulmesi-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Hukuk Müşâvirliği

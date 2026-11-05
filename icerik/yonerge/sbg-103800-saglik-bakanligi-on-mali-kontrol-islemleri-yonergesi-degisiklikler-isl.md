@@ -8,13 +8,14 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103800/saglik-bakanligi-on-mali-kontro
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi (Değişiklikler İşlenmiş Hâli)
 
 ### SAĞLIK BAKANLIĞI ÖN MALİ KONTROL İŞLEMLERİ YÖNERGESİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNERGE
 
-**MADDE 1 –** Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesinin 3 üncü maddesinin e, g. ğ. h, ı ve i fıkraları aşağıdaki şekilde değiştirilmiştir. “e) Kanun: 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununu, g) Harcama Birimi: Kamu idaresi bütçesinde ödenek tahsis edilen ve harcama yetkisi bulunan birim ile ödenek gönderme belgesi ile adenek gönderilen Bakanlık merkez ve taşra harcama ğ) Harcama Yetkilisi: Bütçeyle ödenek tahsis edilen veya ödenek gönderme belgesi ile ödenek gönderilen her bir harcama biriminin en üst yöneticisini;
+**MADDE 1 –** Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesinin 3 üncü maddesinin e, f, g, ğ, h, ı ve i fıkraları aşağıdaki şekilde değiştirilmiştir. “e) Kanun: 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununu, g) Harcama Birimi: Kamu idaresi bütçesinde ödenek tahsis edilen ve harcama yetkisi bulunan birim ile ödenek gönderme belgesi ile ödenek gönderilen Bakanlık merkez ve taşra harcama ğ) Harcama Yetkilisi: Bütçeyle ödenek tahsis edilen veya ödenek gönderme belgesi ile ödenek gönderilen her bir harcama biriminin en üst yöneticisini;
 
 h) Gerçekleştirme Görevlisi: Harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapılması, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanmasına yönelik iş ve işlem süreçlerinde görev yapan kişılerı,
 

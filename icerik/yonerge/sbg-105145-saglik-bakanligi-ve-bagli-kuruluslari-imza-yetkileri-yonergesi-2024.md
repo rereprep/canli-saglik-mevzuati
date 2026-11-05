@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-105145/saglik-bakanligi-ve-bagli-kurul
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

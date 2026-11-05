@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103789/saglik-raporlari-usul-ve-esasla
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.6.Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
@@ -182,7 +183,7 @@ Emniyet Teşkilatına Ahnacak Öğrenciler ve Memurlar Hakkında Düzenlenecek
 
 (2) Hakkında rapor düzenlenmesi istenilen kişi, kurumun resmi yazısı ile hastane sağlık kurullarına müracaat eder. Kurum sevki olmayanlar hakkında dilim belirtir sağlık kurulu raporu düzenlenmez. Emniyet Teşkilatında çalışan personelin, dilim belirtir rapor haricindeki diğer rapor taleplerinde kurum sevki aranmaz.
 
-(3) ETSŞY kapsamında düzenlenen sağlık raporlarına esas muayeneyi yapan ilgili uzman doktor, rapora konu olan patolojik durumları, fonksiyon kayıplarını ve sekelleri tespit ederken, gerekli laboratuvar, görüntüleme ve fonksiyon tespit yöntemleri ile uygun gördüğü diğer değerlendirme yöntemlerinden yararlanır. Yapılan işlemlerin ve fıziki muayenenin ayrıntılı sonuçları ile hastalığın-sakatlığın esas arazı, neden olduğu fonksiyon kayıpları, kalıcı sekelleri, tedavi planı, takip ve kontrol sıklığı ve hastayı tanımlayacak dığer ayrıntılar raporda belirtilir.
+(3) ETSŞY kapsamında düzenlenen sağlık raporlarına esas muayeneyi yapan ilgili uzman doktor, rapora konu olan patolojik durumları, fonksiyon kayıplarını ve sekelleri tespit ederken, gerekli laboratuvar, görüntüleme ve fonksiyon tespit yöntemleri ile uygun gördüğü diğer değerlendirme yöntemlerinden yararlanır. Yapılan işlemlerin ve fiziki muayenenin ayrıntılı sonuçları ile hastalığın-sakatlığın esas arazı, neden olduğu fonksiyon kayıpları, kalıcı sekelleri, tedavi planı, takip ve kontrol sıklığı ve hastayı tanımlayacak diğer ayrıntılar raporda belirtilir.
 
 (4) Kişi ile ilgili tespit edilen teşhisler ile bu teşhislere ve hastalığın/sakatlığın ağırlığına veya derecesine uygun olan, ETSŞY hükümlerine göre belirlenen dilimler raporda belirtilir.
 
@@ -258,7 +259,7 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflari.
 
 (7) Sürücü ve araçlara ilişkin kod tablosu İçişleri Bakanlığı, Sağlık Bakanlığı ve Bilim Sanayi ve Teknoloji Bakanlığınca belirlenmiş olup Ek-8' de yer almaktadır. 1'den 100'e kadar olan kod numaraları Avrupa Birliği Mevzuatındaki şekliyle, 100 ve üzerindeki kod numaraları ise sadece ülkemizde kullanılacak yerel kod numaralarıdır.
 
-(8) Rapor talep eden kişiler, Kişiye Ait Bilgi Formunu e-Devlet üzerinden dolduracaktır. 18 yaşından küçükler için beyan formunun doldurulması zorunlu değildir. Pratisyen hekimin/aile hekiminin gerekli görmesi halinde 18 yaşından küçükler için veli ya da vasisi tarafından beyan formu manuel yazılı olarak doldurulur. Pratisyen hekim/aile hekimi tarafından beyan formu incelenerek sürücü/sürücü adayının muayenesini yapar, muayene bulgusuna göre sağlık raporunun II. Kısmını doldurup sağlık raporunu tanzim ederek kişiye teslim eder. Başvurun kişiler muayene edildikten sonra kişilerin beyan ettiği ya da fızik muayene ile saptanan hastalık veya rahatsızlıkların ileri tetkik ve tedavi gerektirmesi durumunda kişiler ilgili uzman hekime/hekimlere sevk edilir.
+(8) Rapor talep eden kişiler, Kişiye Ait Bilgi Formunu e-Devlet üzerinden dolduracaktır. 18 yaşından küçükler için beyan formunun doldurulması zorunlu değildir. Pratisyen hekimin/aile hekiminin gerekli görmesi halinde 18 yaşından küçükler için veli ya da vasisi tarafından beyan formu manuel yazılı olarak doldurulur. Pratisyen hekim/aile hekimi tarafından beyan formu incelenerek sürücü/sürücü adayının muayenesini yapar, muayene bulgusuna göre sağlık raporunun II. Kısmını doldurup sağlık raporunu tanzim ederek kişiye teslim eder. Başvuran kişiler muayene edildikten sonra kişilerin beyan ettiği ya da fizik muayene ile saptanan hastalık veya rahatsızlıkların ileri tetkik ve tedavi gerektirmesi durumunda kişiler ilgili uzman hekime/hekimlere sevk edilir.
 
 #### Diğer hususlar
 
@@ -270,7 +271,9 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflari.
 
 (4) Sürücü Adayı ve Sürücü Sağlık Raporları sadece sürücü belgesi alınabilmesi amacıyla kullanılır.
 
-### SEKİZINCI BOLÜM Özel Güvenlik Görevlisi Adayları İçin Verilecek Sağlık Kurulu Raporu
+### SEKİZİNCİ BÖLÜM
+
+### Özel Güvenlik Görevlisi Adayları İçin Verilecek Sağlık Kurulu Raporu
 
 #### Raporların düzenlenmesi, tasdiki ve rapor formatına ilişkin açıklamalar
 

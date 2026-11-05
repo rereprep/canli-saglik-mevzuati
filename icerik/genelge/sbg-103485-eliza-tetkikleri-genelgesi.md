@@ -2,6 +2,8 @@
 id: "sbg-103485-eliza-tetkikleri-genelgesi"
 baslik: "Eliza Tetkikleri Genelgesi"
 tur: "genelge"
+tarih: "1992-01-09"
+sayi: "3045"
 birim: "Tedavi Hizmetleri Genel Müdürlüğü"
 konu: "Sağlık kuruluşlarında kan bağışçıları ve şüpheli olgularda HIV/ELISA testlerinin çalışılması, doğrulanması ve bildirim esaslarını düzenler."
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
@@ -9,9 +11,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103485/eliza-tetkikleri-genelgesi.html
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 6.3.25. Eliza Tetkikleri Genelgesi
 
 T.C.  
 SAĞLIK BAKANLIĞI  

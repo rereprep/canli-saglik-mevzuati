@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10560/devir-teslim-ve-evrak-tesekkulu-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – İdari ve Mali İşler Dairesi Başkanlığı

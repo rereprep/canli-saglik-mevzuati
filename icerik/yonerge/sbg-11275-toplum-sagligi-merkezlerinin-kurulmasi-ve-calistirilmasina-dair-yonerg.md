@@ -12,7 +12,7 @@ duzeltildi: true
 
 T.C.
 
-### SAĞLIK BAKANLIGI
+### SAĞLIK BAKANLIĞI
 
 Temel Sağ. Hiz. Genel Md. Aile
 
@@ -44,7 +44,7 @@ Genel Müdür Yardımcısı
 
 81 Il Valiliğine Aile Hekimligi Daire Başkanlığı Toplum Sağlığı Merkezleri Şubesi TIf:(0 312) 585 14 22 / 585 13 75 Faks: (0 312) 585 14 17 Sağlık Bakanlığı D Blok Sıhhiye/ANKARA
 
-### T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü T.C. SAĞLIK BAKANLIGI
+### T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü T.C. SAĞLIK BAKANLIĞI
 
 Temel Sağ. Hiz. Genel Md. Aile Sayı : B.100.TSH.020. 00.06 Hekimliği Toplum Sağlğı Şube Konu : Yönerge 03 Agustos 2011 10:51:23 /25143
 
@@ -672,7 +672,7 @@ c) Bakanlığın öngördüğü plan ve projeleri uygular,
 
 ç) Riskli ve duyarlı gruplarda psikolojik destek sağlanmasında görev alır,
 
-d) Çalışmaları ile ilgili verileri toplar, araștırmalar planlar ve planlanan çalişmalarda
+d) Çalışmaları ile ilgili verileri toplar, araştırmalar planlar ve planlanan çalışmalarda
 
 e) Hizmet kalitesinin arttırılması ve organizasyon çalışmalarını kurum çalışanları ile işbirliği içerisinde yürütür,
 
@@ -696,11 +696,11 @@ a) Hizmet götürülecek bölge ve toplumu tanır,
 
 b) Bölgenin sağlık ölçütlerini değerlendirir ve buna göre sorunları ve öncelikleri saptar,
 
-c) Çalışmaları ile ilgili veri toplar, araștırmalar planlar ve planlanan çalıșmalarda
+c) Çalışmaları ile ilgili veri toplar, araştırmalar planlar ve planlanan çalıșmalarda
 
 ç) Toplumun beslenme sorunlarının belirlenmesi, çözüm yollarının planlanması ve uygulanmasında görev alır,
 
-d) Saglık eğitimi hizmetlerinde görev alır,
+d) Sağlık eğitimi hizmetlerinde görev alır,
 
 e) Toplum kalkınması hizmetlerinde görev alır,
 
