@@ -20,7 +20,7 @@ T.C.
 SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B10.0.TSH.0.10.00.06 / 29184
+Sayı : B10.0.TSH.0.10.00.06.
 Konu : Silikozis
 
 24.09.2008 / 29184

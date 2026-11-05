@@ -28,7 +28,7 @@ Verem Savaşı Dairesi Başkanlığı
 …… VALİLİĞİNE  
 (İl Sağlık Müdürlüğü)
 
-Bakanlık Makamının 14/05/2009 tarihli ve 1997 sayılı Onayı ile yürürlüğe konulan "Sağlık Bakanlığı Verem Savaşı Dairesi Başkanlığınca Oluşturulacak Danışma Kurulların Kuruluş ve Görevleri ile Çalışma Usul ve Esasları Hakkındaki Yönerge" hükümleri gereği oluşturulan Bilimsel Danışma Kurullarının tavsiye niteliğindeki kararları doğrultusunda;
+Bakanlık Makamının 14/05/2009 tarihli ve 1997 sayılı Onayı ile yürürlüğe konulan "Sağlık Bakanlığı Verem Savaşı Dairesi Başkanlığınca Oluşturulacak Danışma Kurullarının Kuruluş ve Görevleri ile Çalışma Usul ve Esasları Hakkındaki Yönerge" hükümleri gereği oluşturulan Bilimsel Danışma Kurullarının tavsiye niteliğindeki kararları doğrultusunda;
 
 1- Ülkemizde tüberküloz kontrolünde DSÖ'nün benimsediği Tüberkülozu Durdurma Stratejisi ve Uluslararası Tüberküloz Bakım Standartları (UTBS) esas alınarak her bireyin en iyi korunma önlemlerinden ve her tüberküloz hastasının tanı ve tedaviden yararlanmasını sağlamak üzere hazırlanan "Tüberküloz Tanı ve Tedavi Rehberi"nin uygulamaya konulması uygun görülmüştür.
 
@@ -40,7 +40,7 @@ Başta verem savaşı dispanserleri olmak üzere; birinci, ikinci ve üçüncü 
 
 3- İl sağlık müdürlüklerinin sorumluluğu ve koordinasyonunda il düzeyinde yürütülen tüberküloz kontrol programı kapsamında uygulamaların izlenmesi, değerlendirilmesi ve eksikliklerin saptanması izlemlere dayanan tespitlere yönelik yerinde eğitim yapılması amacıyla çalışmalar yapılacaktır. İzleme ve değerlendirme faaliyetlerine ilişkin raporlar merkez teşkilatında ilgili birimlerce değerlendirildikten sonra ilgili ilin sağlık müdürlüğüne rapor edilecektir.
 
-İl sağlık müdürlükleri; Bakanlık izleme ve değerlendirme ekibinin ziyareti kapsamında yürütülen çalışmaların hızlı ve etkin yürütülmesinde tüm imkânları sağlamaktan, izleme ve değerlendirmeler sonucunda Bakanlık ilgilileri tarafından hazırlanacak rapor gereklerini yerine getirmekten, Tüberküloz Tanı ve Tedavi Rehberi", "Tüberküloz Hastası ve Hasta Yakınları Bilgilendirme Rehberi" ve "Tüberküloz Hasta ve Hasta Yakınları Bilgilendirilmiş Onam Formu" ile ilgili uygulamaların takibinden sorumludurlar.
+İl sağlık müdürlükleri; Bakanlık izleme ve değerlendirme ekibinin ziyareti kapsamında yürütülen çalışmaların hızlı ve etkin yürütülmesinde tüm imkânları sağlamaktan, izleme ve değerlendirmeler sonucunda Bakanlık ilgilileri tarafından hazırlanacak rapor gereklerini yerine getirmekten, "Tüberküloz Tanı ve Tedavi Rehberi", "Tüberküloz Hastası ve Hasta Yakınları Bilgilendirme Rehberi" ve "Tüberküloz Hasta ve Hasta Yakınları Bilgilendirilmiş Onam Formu" ile ilgili uygulamaların takibinden sorumludurlar.
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 

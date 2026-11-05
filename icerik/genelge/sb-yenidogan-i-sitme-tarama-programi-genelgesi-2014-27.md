@@ -72,7 +72,7 @@ EKLER:
 
 1. Yenidoğan İşitme Taraması Uygulama Rehberi (13 sayfa)
 
-2. Ulusal Yenidoğan İşitme Tarama Programı Yazılımı Kullanım Kılavuzu (http://isitesaraus.saglik.gov.tr) [?]
+2. Ulusal Yenidoğan İşitme Tarama Programı Yazılımı Kullanım Kılavuzu [?]
 
 DAĞITIM:
 Gereği: 81 İl Valiliği

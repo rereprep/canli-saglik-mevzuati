@@ -147,7 +147,7 @@ a) Sağlık kabinleri, şikâyet veya ihbar üzerine yapılan olağan dışı de
 
 b) Bu Genelgede hüküm bulunmayan hallerde, ayakta teşhis ve tedavi yapılan özel sağlık kuruluşlarının tabi olduğu mevzuat ile ilgili diğer mevzuat hükümleri uygulanır.
 
-20. Sağlık kabinlerinde, Ek-6'da yer alan Sadece Acil Durumlarda Kullanılmak Üzere Bulundurulacak İlaçlar Listesi"ndeki ilaçların mesleki mevzuatlarında belirlenen yetkinlikleri çerçevesinde yalnızca yaptıkları müdahaleye bağlı olarak ortaya çıkabilecek acil durumlarda kullanılmak üzere eksiksiz olarak bulundurulması zorunludur. Sadece acil durumlarda kullanmak üzere bulundurulacak ilaçlar, GLN (Global Lokasyon Numarası) kodu ile ilaç depolarından temin edilecektir. Sağlık kabinlerinde bulundurulabilecek tıbbi malzeme listesi ve ilaç listesi haricinde hiçbir surette ilaç, tıbbi malzeme, tıbbi cihaz, kozmetik ürün, gıda takviyesi vb. ürün bulundurulamaz ve satılamaz. Sunulabilecek hizmetler listesi haricinde başka bir hizmet
+20. Sağlık kabinlerinde, Ek-6'da yer alan "Sadece Acil Durumlarda Kullanılmak Üzere Bulundurulacak İlaçlar Listesi"ndeki ilaçların mesleki mevzuatlarında belirlenen yetkinlikleri çerçevesinde yalnızca yaptıkları müdahaleye bağlı olarak ortaya çıkabilecek acil durumlarda kullanılmak üzere eksiksiz olarak bulundurulması zorunludur. Sadece acil durumlarda kullanmak üzere bulundurulacak ilaçlar, GLN (Global Lokasyon Numarası) kodu ile ilaç depolarından temin edilecektir. Sağlık kabinlerinde bulundurulabilecek tıbbi malzeme listesi ve ilaç listesi haricinde hiçbir surette ilaç, tıbbi malzeme, tıbbi cihaz, kozmetik ürün, gıda takviyesi vb. ürün bulundurulamaz ve satılamaz. Sunulabilecek hizmetler listesi haricinde başka bir hizmet
 
 21. Sağlık kabinleri tarafından yapılacak tanıtım ve bilgilendirme faaliyetleri Bakanlıkça yürürlüğe konulan sağlık hizmetlerinde tanıtım ve bilgilendirme faaliyetleri hakkında mevzuat hükümlerine uygun olarak yürütülür.
 
@@ -155,11 +155,13 @@ b) Bu Genelgede hüküm bulunmayan hallerde, ayakta teşhis ve tedavi yapılan �
 
 23. Sağlık kabinleri başka bir ticari kuruluş içerisinde veya bünyesinde yer alamaz. Sağlık kabinleri müstakil binalarda veya bir binada müstakil bir birim olarak açılabilir.
 
-belirleyeceği diğer ek düzenlemelere uymakla zorunludur.
+24. Sağlık kabini sahibi veya ortakları yukarıda sayılanlar dışında kalan ve mevzuatta yer alan hükümler çerçevesinde sağlık kabininin bağlı bulunduğu İl Sağlık Müdürlüğünün belirleyeceği diğer ek düzenlemelere uymakla zorunludur.
 
 25. İl Sağlık Müdürlükleri, ilin şartlarını dikkate alarak genel sağlığın ve hizmet kullanıcılarının haklarının korunması amacıyla, asgari fiyat tarifesi ve benzeri diğer düzenlemeleri 1593 sayılı Kanun hükümlerine göre İl Umumi Hıfzıssıhha Kurulu kararı ile belirler ve ilgililere tebliğ ederler.
 
-26. Sağlık kabinlerinin işletme a) İşletme uygunluk belgesi, bu Genelge hükümlerine aykırılık hâlinde iptal edilir.
+26. Sağlık kabinlerinin işletme uygunluk belgesi iptali ve faaliyetlerini askıya alma hakkında uyulacak hususlar belirlenmiştir:
+
+a) Bina tadilatı durumlarında sağlık kabini en fazla 6 (altı) ay süreyle faaliyetini askıya alabilir. Askı süresinin sonunda faaliyete başlanılmaması halinde sağlık kabininin işletme uygunluk belgesi iptal edilir.
 
 b) Doğal afet, genel salgın hastalık, kısmi veya genel seferberlik ilanı gibi mücbir sebeplerden dolayı sağlık kabinin faaliyeti Müdürlükçe en fazla 2 (iki) yıl süreyle askıya alınabilir. Askı süresinin sonunda faaliyete geçmeyen sağlık kabininin işletme uygunluk belgesi iptal edilir.
 
@@ -172,13 +174,12 @@ Bilgilerinizi ve gereğini rica ederim.
 Dr. Fahrettin KOCA
 Bakan
 
-Ek-1 : Sağlık Kabini İşletme Uygunluk Belgesi Ek-2 : Sağlık Kabini Mesul Müdürlük Belgesi Ek-3 : Sağlık Kabini Çalışma Uygunluk Belgesi Ek-4 : Sağlık Kabinlerinde Bulundurulabilecek
-
-Tıbbi Malzemeler Listesi Ek-5 : Sağlık Kabinlerinde Sunulabilecek
-
-Hizmetler Listesi Ek-6 : Sağlık Kabinlerinde Sadece Acil Durumlarda
-
-Kullanılmak Üzere Bulundurulacak İlaçlar Listesi
+Ek-1 : Sağlık Kabini İşletme Uygunluk Belgesi
+Ek-2 : Sağlık Kabini Mesul Müdürlük Belgesi
+Ek-3 : Sağlık Kabini Çalışma Uygunluk Belgesi
+Ek-4 : Sağlık Kabinlerinde Bulundurulabilecek Tıbbi Malzemeler Listesi
+Ek-5 : Sağlık Kabinlerinde Sunulabilecek Hizmetler Listesi
+Ek-6 : Sağlık Kabinlerinde Sadece Acil Durumlarda Kullanılmak Üzere Bulundurulacak İlaçlar Listesi
 
 DAĞITIM:
 Gereği: 81 İl Valiliği (İl Sağlık Müdürlüğü)

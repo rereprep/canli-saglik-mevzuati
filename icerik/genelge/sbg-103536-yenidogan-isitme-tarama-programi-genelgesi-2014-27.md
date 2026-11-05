@@ -51,7 +51,7 @@ Söz konusu bu çalışmaların yürütülmesi sırasında karşılaşılabilece
 
 6. Taramadan kalan bebeklerin ilgili merkezlere sevk edilmesi ve sevk işleminin "Yenidoğan İşitme Tarama Web Uygulamasına" kayıt edilmesi sağlanmalıdır. Sevk edilen bebek sayısı programın izlenmesinde önemli bir kriterdir.
 
-7. Halk Sağlığı Müdürlüklerinde Yenidoğan İşitme Taraması programından sorumlu kişi Bulaşıcı Olmayan Hastalıklar, Programlar ve Kanser/ÇEKUS Şube Müdürüdür.
+7. Halk Sağlığı Müdürlüklerinde Yenidoğan İşitme Taraması programından sorumlu kişi Bulaşıcı Olmayan Hastalıklar, Programlar ve Kanser/ÇEKÜS Şube Müdürüdür.
 
 8. Doğum yapılan hastanelerde "İşitme Taraması Üniteleri"nin yapılandırılması, Tarama Ünitesi'nde dönüşümlü olarak çalışmak üzere en az 2 sağlık personeli; odyometrist veya ebe veya hemşire veya sağlık memurundan oluşan tarama ekibi ve bu işten sorumlu 1 hekimin hastane yönetimince görevlendirilmesi, eğitimlerinin ise Halk Sağlığı Müdürlüklerince verilmesi, sonrasında da katılım belgesi düzenlenmesi gerekmektedir. Ünitelerde devamlı olarak en az 1 sağlık personeli (odyometrist, ebe, hemşire, sağlık memuru) bulundurulması zorunludur.
 
