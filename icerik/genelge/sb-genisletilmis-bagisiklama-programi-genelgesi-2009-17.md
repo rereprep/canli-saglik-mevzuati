@@ -10,11 +10,11 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 564-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-6.3.16. Genişletilmiş Bağışıklama Programı Genelgesi (2009/17)
-
-### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
+#### Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı: B100TSH0110005
 
@@ -23,6 +23,8 @@ Konu: Genişletilmiş Bağışıklama Programı Genelgesi
 13.03.2009
 
 ### GENELGE
+**2009/17**
+
 
 Bağışıklama hizmetlerinde temel amaç; toplumda, özellikle bebek ve çocuklarda așı ile korunulabilir hastalıkların ortaya çıkışını engellemek, dolayısıyla bu hastalıklardan kaynaklanan ölümlerin ve sakatlıkların önüne geçmektir. Temel hedefin aşısız çocuk bırakmamak olduğu unutulmamalıdar.
 
@@ -312,11 +314,11 @@ bölgelerdeki doğurganlık çağı kadın için Form 012B'ye kayıt sırasında
 
 dizenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu tarihi kurşun
 
-### kalemle kaydedilerek verilir. Aşılama tarihi gün-ay-yıl olarak doldurulmalıdır.
+kalemle kaydedilerek verilir. Aşılama tarihi gün-ay-yıl olarak doldurulmalıdır.
 
 o Okul Aşı Kartı: Okul aşılamaları sırasında aşılanan her çocuk Form 012B'ye
 
-### kaydedilir ve yapılan aşılar gün-ay-yıl şeklinde tarihi belirtilerek aşı kartı verilir.
+kaydedilir ve yapılan aşılar gün-ay-yıl şeklinde tarihi belirtilerek aşı kartı verilir.
 
 • Aykık GBP Sürveyans Formu: Bu formun temel amacı GBP kapsamındaki hastahklarla ilgili aşılanma durumu verilerini ayrıntılı olarak toplamak ve sahadaki așı otkinliğini izlemektir. Bu nedenle vakaların aşılanma durumları iyi araştırılmalı ve bilinmiyor sütununda vaka kalmamasına özen gösterilmelidir. Ay sonunda Form 016'ya (Bildirimi Zorunlu Hastalıklar Tespit Fişi) göre tespit edilen GBP kapsamındaki hastalıklar (tüberküloz hariç) bu forma aktarılır ve aym ilk haftası içinde Sağlık Müdürluğüne gönderilir. Gelen formlar Sağlık Müdürlüğünde toplanarak tek bir form haline getirilir ve takip eden ayın en geç 20'sine kadar TSIM programına girilir ve ay sonuna kadar Sağlık Bakanlığına ulaştınıhr. Bu formda yer alan GBP hastalıklanna ait sayılar ile Form 017 erdeki sayılar aym olmalıdır.
 
@@ -334,17 +336,17 @@ Aşıların yapılmaması gereken durumlar çok nadirdir. Kesin kontrendikasyon 
 
 • Kesin kontrendikasyon:
 
-### o DaBI'ye bağlı ensefalopati (Boğmaca bileşeni çıkarılarak takvime devam edilir.)
+- DaBT'ye bağlı ensefalopati (Boğmaca bileşeni çıkarılarak takvime devam edilir.)
 
 • Önlem alınarak aşı yapılacak durumlar:
 
-### o Aşılamadan sonra 18 suat içinde ortaya çıkan 40,5°C ve üzerinde rektal ateş
+- Aşılamadan sonra 48 saat içinde ortaya çıkan 40,5°C ve üzerinde rektal ateş
 
 o Hipotonik hiporesponsif atak
 
 o Konvülsiyon
 
-### o Aşılamadan 48 saat sonra ortaya çikan ve en az 3 saat süren durdurulamayan
+- Aşılamadan 48 saat sonra ortaya çıkan ve en az 3 saat süren durdurulamayan
 
 ağlama İPA:
 
@@ -386,11 +388,11 @@ o Genel kontrendikasyonlar dışında kontrendikasyonu yoktur.
 
 • Kesin kontrendikasyon:
 
-### o Jeneralize malign hastalık, lenfoma, lösemi, konjenital immün yetmezlik ya da
+- Jeneralize malign hastalık, lenfoma, lösemi, konjenital immün yetmezlik ya da
 
 HIV enfeksiyonu nedeniyle inumün cevabın bozulduğu durumlar,
 
-### o Koctikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle
+- Kortikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle
 
 ımün cevabın baskılandığı durumlar.
 
@@ -564,7 +566,7 @@ Negatif kabul edilir ve aşılanır.
 
 Şüpheli kabul edilir, 1 hafta sonra TCT tekrarlanır, yine 6-9 mm bulunursa
 
-### negatif kabul edilip aşılanır. 10 mm ve üzeri ise pozitif kabul edilir.
+negatif kabul edilip aşılanır. 10 mm ve üzeri ise pozitif kabul edilir.
 
 Pozitif kabul edilir, enfeksiyon olarak değerlendirilir ve ailesi ile birlikte
 
@@ -846,7 +848,9 @@ o Enjektör Güvenli Atık Kutularının "Tıbbi Atıkların Kontrolü Yönetmel
 
 olarak imhası sağlanmalıdır.
 
-### J-) GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMINDA ÇALISAN PERSONELİN GÖREV VE SORUMLULUKLARI IL DUZEYINDE YAPILACAK IŞLER:
+### J-) GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMINDA ÇALIŞAN PERSONELİN GÖREV VE SORUMLULUKLARI
+
+#### İL DÜZEYİNDE YAPILACAK İŞLER:
 
 Genişletilmiş Bağışıklama Programının başarı ile yürütülebilmesi, İllerde bağışıklama hizmetlerinin planlama, izleme, denetleme, değerlendirme ve lojistiğinden sorumlu bir ekibin bulunmasını gerektirmektedir. Ekibin başkanını I1 Sağlık Müdürü'dür ve bağışıklama hizmetlerinin il düzeyinde yürütülmesinden birinci derecede sorumludur. II Aşı Sorumlusu; bulaşıcı hastalıklardan sorumlu Sağlık Müdür Yardımcısı veya Bulaşıcı Hastalıklar Şube Müdürü olabileceği gibi, ilin durumuna göre Sağlık Müdür Yardımcısına bağlı olarak çalışacak, tam gün Sağlık Müdürlüğünde görevli ve sadece GBP'den sorumlu ve bu konuda yetkili olacak başka bir hekim de olabilir. Şube olarak il düzeyinde bağışıklama hizmetlerinin yürütülmesinden Bulaşıcı Hastalıklar Şubesi sorumludur. Il Soğuk Zincir Sorumlusu, tam gün Sağlık Müdürlüğünde çalışan hekim dışt sağlık personeli olmalidır Il Aşı Sorumlusu ve İI Soğuk Zincir Sorumlusunun, iş yüklerinin paylaşılması ve bu kişilerin yokluğunda işlerin aksamadan yürütülebilmesi için yardımeıları olmalıdır. Il Aşı Sorumlusu ve Yardımcisının Görevleri:
 

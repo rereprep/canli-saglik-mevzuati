@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103618/kamu-zarari-genelgesi-20216.htm
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.3.3. Kamu Zararı Genelgesi (2021/6)

@@ -10,9 +10,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 512-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-6.3.14. Aşı Sonrası İstenmeyen Etkiler (ASİE) Genelgesi (2023/03)
 
 ### T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
 
@@ -32,7 +31,7 @@ Aşt sonrası istenmeyen etkilerin il ve ülke düzeyinde İzlenebilmesi için s
 
 Söz konusu Genelge ile Mart 2009 tarihinden sonra Çocukluk Dönemi Ulusal Aşı Takvimimize eklenen Hepatit A ve Suçiçeği aşılarının uygulaması sonrasında beklenen istenmeyen etkiler ASİE Izleme Sistemi kapsamına alanmış, ayrica ASİE vaka sınıflamasında uluslararası güncel rehberlere uygun olarak hazs değişiklikler yapılmıştır. Bu Genelge ile 13.03.2009 taribli ve 2009/17-7943 sayıl Daimi Genelge yürürlükten kaldırılmış olup. Ast Sonrası İstenmeyen Etki Izleme Sisteminin yeni değniklikler doğrultusunda yürütülmesi hastalarımı olurlarmıza arz ederım
 
-Prof. Dr. Sedat RAKY GÜSÜZ
+Prof. Dr. Sedat KAYGUSUZ
 Genel Müdür
 
 / /2023 Doç.Dr. Tolga TOLUNAY
@@ -47,7 +46,8 @@ Bakan
 
 Cnnu: Ag Sonesı İstenmeyen Ehiler (AS|E) Genelge 02.162/2003
 
-### GENELGE 2023/03
+### GENELGE
+**2023/03**
 
 Bağışıklamamın amacı, kişiler ve toplumu aşı ile önlenebilir hastahklara karşı korumakta. Aşılama çalışmalan, Ülkemizde așı ile korunulabilir hastalıkları ve buna bağlı ölümleri büyk oranda Onlemiștir.
 
@@ -61,7 +61,9 @@ Genelgenin çoğaltılarak tüm sağlık kurum ve kuruluşlarna (özel sağlık 
 
 Dr. Fahrettin KOCA
 
-Hakan EK: Daimi Guw ly= (11 sayfa)
+Bakan
+
+**EK:** Daimi Genelge (11 sayfa)
 
 ### DAĞITIM:
 

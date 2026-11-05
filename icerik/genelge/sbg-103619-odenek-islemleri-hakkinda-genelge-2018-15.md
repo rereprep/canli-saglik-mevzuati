@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103619/odenek-islemleri-hakkinda-genel
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.3.6. Ödenek İşlemleri Hakkında Genelge (2018/15)

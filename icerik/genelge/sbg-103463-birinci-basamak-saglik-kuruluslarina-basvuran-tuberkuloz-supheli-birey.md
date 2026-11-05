@@ -2,6 +2,7 @@
 id: "sbg-103463-birinci-basamak-saglik-kuruluslarina-basvuran-tuberkuloz-supheli-birey"
 baslik: "Birinci Basamak Sağlık Kuruluşlarına Başvuran Tüberküloz Şüpheli Bireylerden Balgam Toplanması Genelgesi (2009/52)"
 tur: "genelge"
+tarih: "2009-08-31"
 sayi: "2009/52"
 birim: "Verem Savaşı Dairesi Başkanlığı"
 konu: "Birinci basamak sağlık kuruluşlarına başvuran tüberküloz şüphelilerinden balgam numunelerinin toplanması ve nakil usullerini düzenler."
@@ -10,78 +11,74 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103463/birinci-basamak-saglik-kurulusl
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI Verem Savaşı Dairesi Başkanlığı
+### T.C. SAĞLIK BAKANLIĞI
+Verem Savaşı Dairesi Başkanlığı
 
-belirlenmiş usul ve esaslar doğrultusunda Seviye 1 Tüberküloz Laboratuvarlarına nakledilecektir.
+Sayı : B.10.0.VSD.0.00.00.06-410/3710
+Konu : Birinci Basamak Sağlık Kuruluşlarına Başvuran Tüberküloz Şüpheli Bireylerden Balgam Toplanması
+
+31.08.2009
+
+### GENELGE
+2009/52
+
+VALİLİĞİNE
+(Sağlık Müdürlüğü)
+
+Tüberküloz, solunum yoluyla kolay bulaştığı ve kontrolü güç olduğu için dünyada olduğu gibi Türkiye'de de önemli halk sağlığı sorunlarından biri olmaya devam etmektedir. Dünya Sağlık Örgütü tarafından tüberküloz mücadelesinde önerilen metot; Doğrudan Gözetimli Tedavi Stratejisi olup, Doğrudan Gözetimli Tedavi Stratejisi'nin bileşenleri; bakteriyoloji ile vaka bulma, doğrudan gözetimli ve standart kısa süreli anti-tüberküloz ilaç rejimleri, etkin bir ilaç ikmali ile yönetimi ve izleme-değerlendirme sistemiyle etkili ölçümünden oluşmaktadır.
+
+Dünya Sağlık Örgütü, taşrada Verem Savaşı Dispanseri laboratuvarlarının (Seviye 1 Tüberküloz Laboratuvarları) oluşturulmasını ve bu kuruluşa diğer sağlık kuruluşlarından balgam toplanmasını önermektedir. Bu nedenle; Doğrudan Gözetimli Tedavi Stratejisi'nin önemli bir parçası olan bakteriyolojik tanı etkinliğini artırmak için, birinci basamak sağlık kuruluşlarından da tüberküloz şüpheli bireylerden balgam toplanması ve toplanan balgam örneklerine bakteriyolojik tetkiklerin yapılması gerekmektedir.
+
+Birinci basamak sağlık kuruluşlarından dispanser laboratuvarlarına balgam örneklerinin sistemli ve düzenli olarak naklinin sağlanması ile hastalık şüpheli bireylerden tüm birinci basamak sağlık kuruluşlarından örnek toplanması ve laboratuvarlarda gerekli tetkiklerin yapılması sağlanacak, hastalığın erken tanı ve tedavisi ile toplumun diğer bireylerine hastalığın bulaşması engellenecektir.
+
+Üç haftadan uzun süren öksürük, balgam çıkarma ile birlikte gece terlemesi, ateş, yorgunluk, halsizlik, iştahsızlık ve kısa sürede aşırı kilo kaybı gibi belirtilerden biri veya birkaçı ile verem savaşı dispanserleri veya birinci basamak sağlık kuruluşlarına başvuran tüberküloz ön tanısı konulmuş kişilerden alınan balgam numuneleri, bu genelge ile belirlenmiş usul ve esaslar doğrultusunda Seviye 1 Tüberküloz Laboratuvarlarına nakledilecektir.
 
 Bu amaçla;
 
-1. Tüberküloz şüpheli bireylerden Ek-l'de yer alan kriterlere uygun balgam örneği alınacak ve alınan balgamın tetkik talebi Ek-2"de örneği verilen "Ornek Analiz Fişi" ile yapılacaktır,
+1. Tüberküloz şüpheli bireylerden Ek-1'de yer alan kriterlere uygun balgam örneği alınacak ve alınan balgamın tetkik talebi Ek-2'de örneği verilen "Örnek Analiz Fişi" ile yapılacaktır,
 
-2. Balgamların Ek-'te yer alan kriterlere uygun koşullarda saklanması sağlanacaktır,
+2. Balgamların Ek-3'te yer alan kriterlere uygun koşullarda saklanması sağlanacaktır,
 
-3. Toplanan balgamların Verem Savaşı Dispanseri laboratuvarlarında Ek-4 te yer alan kriterlere uygun kabulü sağlanacaktır,
+3. Toplanan balgamların Verem Savaşı Dispanseri laboratuvarlarında Ek-4'te yer alan kriterlere uygun kabulü sağlanacaktır,
 
 4. Toplanan balgamlara Verem Savaşı Dispanseri laboratuvarlarında direkt yayma (balgamdan direkt lam üzerine sürüntü) yapılıp, bunun Erlich-Ziehl-Neelsen (EZN) yöntemiyle boyanması ile mikroskobik muayenenin 24 saatten önce yapılması sağlanacaktır,
 
 5. Verem Savaşı Dispanseri laboratuvarında yayma pozitifliği saptanan kişinin bu sonucu, Ek-2'de örneği verilen "Örnek Analiz Fişi" ile birlikte ve telefonla aynı gün içinde balgamın verildiği sağlık kuruluşuna bildirilecektir,
 
-Balgam örneğinin direk yayma ve boyamadan sonra; kültür ve ilaç duyarhılık testi yapılmak üzere, en kısa sürede (24 saat içerisinde), Ek-'de'ki her il için belirlenen bölge tüberküloz laboratuvarına nakledilmesi sağlanacaktır,
+6. Balgam örneğinin direkt yayma ve boyamadan sonra; kültür ve ilaç duyarlılık testi yapılmak üzere, en kısa sürede (24 saat içerisinde), Ek-5'teki her il için belirlenen bölge tüberküloz laboratuvarına nakledilmesi sağlanacaktır,
 
-7. Hastaların ve sağlık çalışanlarının balgam alınması, kabulu ve nakli hususunda Ek-
-
-6'de yer alan biyogüvenlik ilkelerine uyması sağlanacaktır,
+7. Hastaların ve sağlık çalışanlarının balgam alınması, kabulü ve nakli hususunda Ek-6'da yer alan biyogüvenlik ilkelerine uyması sağlanacaktır,
 
 8. Birinci basamak sağlık kuruluşlarından toplanan balgamların naklinde Ek-7'de belirtilen kriterlere uygun malzemeler kullanılacak ve belirlenen ilkelere uyulacaktır,
 
-9. Toplanan balgamların, Verem Savașı Dispanseri laboratuvarina ulaștırılması hususunda Ek-8'de belirlenen lojistik destek sağlanacaktır,
+9. Toplanan balgamların, Verem Savaşı Dispanseri laboratuvarına ulaştırılması hususunda Ek-8'de belirlenen lojistik destek sağlanacaktır,
 
 10. Birinci basamak sağlık kuruluşlarından balgamların taşınması sırasında Ek-9'da örneği verilen "Numune Nakil Kayıt Defteri" kullanılacaktır,
 
 11. Verem Savaşı Dispanseri laboratuvarlarında tetkikin yapılıp sonucun ilgili birinci basamak sağlık kuruluşlarına bildirilmesi konusunda sorumlu olacak personel görevlendirilecektir.
 
-T.C.
-
-### SAGLIK BAKANLIĞI
-
-Verem Savaşı Dairesi Başkanlığı
-
-Birinci basamak sağlık kuruluşlarına başvurmuş tüberküloz şüpheli kişilerden balgam örneklerinin Verem Savașı Dispanseri laboratuvarına ulaştırılması ile ilgili usul ve esasları belirleyen bu genelgenin yürütülmesi ve il içi koordinasyonun sağlanmasından İl Sağlık Müdürlükleri birinci derecede sorumludurlar.
+Birinci basamak sağlık kuruluşlarına başvurmuş tüberküloz şüpheli kişilerden balgam örneklerinin Verem Savaşı Dispanseri laboratuvarına ulaştırılması ile ilgili usul ve esasları belirleyen bu genelgenin yürütülmesi ve il içi koordinasyonun sağlanmasından İl Sağlık Müdürlükleri birinci derecede sorumludurlar.
 
 Gereğinin yapılmasını rica ederim.
 
-Prof Dr. Nihat TOSUN
-
+Prof. Dr. Nihat TOSUN
 Bakan a.
-
 Müsteşar
 
+### EKLER:
 1. Balgam Toplama Kriterleri (2 sayfa)
-
-2. Ornek Analiz Fişi (1 sayfa)
-
-3. Laboratuvarda Balgam Saklama Kriterleri (1 sayta)
-
+2. Örnek Analiz Fişi (1 sayfa)
+3. Laboratuvarda Balgam Saklama Kriterleri (1 sayfa)
 4. Laboratuvara Balgam Kabul Kriterleri (1 sayfa)
-
-5. Bölge Tüberküloz Laboratuarları (1 sayfa)
-
-6. Biyogüvenlik Ilkeleri (2 sayta)
-
-7. Balgam Orneğinin Nakli Ile İlgili Malzemeler ve Dikkat Edilmesi Gereken İlkeler (2 sayfa)
-
-8. Lojistik Işleyişle İlgili Faaliyetler (1 sayfa)
-
+5. Bölge Tüberküloz Laboratuvarları (1 sayfa)
+6. Biyogüvenlik İlkeleri (2 sayfa)
+7. Balgam Örneğinin Nakli İle İlgili Malzemeler ve Dikkat Edilmesi Gereken İlkeler (2 sayfa)
+8. Lojistik İşleyişle İlgili Faaliyetler (1 sayfa)
 9. Numune Nakil Kayıt Defteri (1 sayfa)
 
 ### DAĞITIM:
-
-Gereği: 81 İl Valiliğine
-
----
-
-**Dipnotlar**
-
-<small>(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)</small>
+Gereği:
+81 İl Valiliğine

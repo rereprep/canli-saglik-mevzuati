@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103612/yataga-bagimli-kisiler-icin-dur
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.40. Yatağa Bağımlı Kişiler İçin Durum Bildirir Tek Hekim Raporu Genelgesi (2023/4)

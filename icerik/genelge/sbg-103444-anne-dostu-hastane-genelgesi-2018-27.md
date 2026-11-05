@@ -2,6 +2,7 @@
 id: "sbg-103444-anne-dostu-hastane-genelgesi-2018-27"
 baslik: "Anne Dostu Hastane Genelgesi (2018/27)"
 tur: "genelge"
+tarih: "2018-10-18"
 sayi: "2018/27"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Anne sağlığı ve doğum hizmetlerinin kalitesinin artırılması amacıyla Anne Dostu Hastane Programı başvuru, değerlendirme ve izleme süreçlerini düzenler."
@@ -10,62 +11,122 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103444/anne-dostu-hastane-genelgesi-20
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-1. Tüm Aday Hastanelerin Bayurusu İçin: 1.1. Anne Dostu Hastane unvant almak isteyen hastane hazr temel tammiayiet daethklerin belirtilmesin saglayan "Hastane Bilgı Formu" (Form 1) nu dolduratak resm yazı ile bağkı okdugu il sağlık müd rügane haşvurur 1.2.1 sıälk mödürloau progru kapsanunda hağh oldoğu koorimör l siğlk müdürdogüne hay arayu ileti 13 Knordiratör il sağhk müdüringo de haşvuruyu Halk Suale Genel Müdurlüga ne ve Komu Hastineleri Genel Madlrlügd nu bilgs için günderir.
+### T.C. SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
 
-1. Tim Adas Hastanelerin Egitim Süreci: 2.1. Aday hastanenin bağh olduğu il sağhk mühirliğn program için behrienen n nidnğu bölgenin koordinatör il saglik müduelüga lle isbirligi içerisinde hastanenun perionel eğitimlerini kanitmeı yoğunluğuna göre turlar halinde planlar. 32 Eğilmi aday hatatenin beğl olduğu i seğirk müdonoğünen yapması enczheli niup personel yetersizliği olması durumunda koordınator u sağha modamingınce destek varilt 2.3 Egitin Arne Dostu Hastane Fäitimei ve Degertendirmect Egitimti almy personeller taralindan verdir 2.4. Eğitim dokünam olarak Anne Destu Hastane Eğilimer Rehheri kullantir 2.5 Egitime kadı hustahklun ve dogum servist, duğuni ünitesi, anestezi bolümi, çocuk hastehklan ve yenidogan bolümü ve acil bölümunde çalışan personel ille hastane yönetiminın karsansının katılımi gereklidir. 2.6. Egitin sonunda katılımcılara Anne Devau elstane Egitimci kehheri nde ye aim Алле Dostu Hastane P'ersonel Egitimi Kaulmi Belgesi düzenlenip verilir. 2.7. Anne Dostu Hastane Personel Egitimi Katim Belgesi numarasane Anne Dostu Hastane (bogan: Numarasy ile baştow, I trafil, kodu ve numata verilerek devamt edilir. (Örnek 231.01.05- (T trafik kodu-0001) 2.%. Diger belumierde salisan hasune perseeline Anne Dostu Hastane Kriterler ile ilgili egim hastane tardfindan humet içi egitim kapsanunde verilir 29, Egitimle tamamlamaktan en az | ay sonra kontd sater il seghk mudantugo tarafından degerlendime plastaur.
+Sayı : 57536863/010.06.02
+Konu : Anne Dostu Hastane
 
-3. Degerlendirme Ekibi: 3.1. Koordinatör il saghk müdürlugu kendile baglı illerden degerlerdfime ekimn waşıane Degerlendime ekibi en as 5 (hes) Kiyiden olugur ve ekipte Anne Destu Hastane Egitimci ve Degerienirol Egitimi oms Kanu Ane Dost adune
+### GENELGE
+2018/27
 
-Dektur/ebe/berngire
+Ülkemizde yaklaşık her yıl yaklaşık 1,5 milyon gebelik ve 1,3 milyon doğum olmaktadır. Gebe ve lohusaların yüzde 98'i en az 1 kez bakım hizmeti almakta, doğumların yüzde 99'u hastanelerde gerçekleşmektedir. Sağlıkta Dönüşüm Programı kapsamında yenilenen hastanelerde tek kişilik odalarda doğum imkânı sağlanmıştır. Anne sağlığı hizmetlerinde sağlanan niceliksel gelişmeler yanında hizmetlerin niteliğinin geliştirilmesine de ihtiyaç duyulmaktadır. Bu amaçla anne sağlığı ve doğum hizmetlerinin kalitesinin yükseltilmesine yönelik olarak çalışmalar yapılmaktadır. Bu doğrultuda doğumun ideal koşullarda en az müdahale ile normal olarak gerçekleşmesinin sağlanması hedeflenmektedir. Türkiye Cumhuriyeti Anayasasının 41. Maddesi gereğince Devlet'in ailenin huzur ve refahı ile anne ve çocuğun korunmasını sağlama ödevi bulunmaktadır. Bunun yanı sıra insan hakları, kadın hakları, çocuk hakları, hasta hakları ve tıp etiğinin temel prensipleri kapsamında; anne güvenliği ve mahremiyetini de dikkate alarak takiplerinin ve doğumlarının gerçekleştirileceği ideal ortamların oluşturması gerekmektedir.
 
-Dige perondi halunur 1.2. Aday hastanenın baglı oldugu İl saghk mudurlügu personeli değerlendima ekibinde gorev alamaz. 3.3. Degerlendirme Ekip Sorumlusu, Knordmnarr il sağlık müdürlüğn tarafından belirlente. Mustaka kadıs hastal kian ve doğarm hamanı ohmalıdir. Ekip sotumlusupdeßerlendime garev paylaşimı. formlarin tam ve eksiksie doldurulmasi De değerlerlime sonunda ekiple birlikte Desuplamulan "Degerlenlime Raporu ve Önerilert Formu" nun hazirlanmasinden sorumludur 3.4. Değerlendirme ekip sekretryası: Koordinatör il saghk mudürlugn tarafından belirlenir Degerlendirmede kullumun folann banriaens ve degertendume dosyasinn "Degerlendinne Raporu ve Onerileri Forma" man ilgili birimlere gönderilmesinden sorumdadar
+T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Kadın ve Üreme Sağlığı Dairesi Başkanlığı tarafından yukarıda bahsi geçen hedefler doğrultusunda Anne Dostu Hastane Programı geliştirilmiş ve belirli standartları karşılayan hastanelere "Anne Dostu Hastane" unvanı verilmesine ve sertifikalandırılmasına başlanmıştır.
 
-35. Kadm Hastilklan ve Dogum Danamı Hekimler Dogan Dalesi Standartlarım Degerlendire ve elense Formu (Form 2), Anne Dostu Hastane Gozleme Dayali Degerlendirme Formu (Form 5) de Saghk Personcl Gorüsmu Formu" nun (Furm 4) (kalın hastalikları ve dogum uzmanlan ve bashekim yardimcisı Re yapılon gorüsmelerde) doldurulmasından saramludar 3.6. Doktorebe/herareler, Hastanede Sunulan Hizmetlere Dair Arne Gorusleri Fotou ¡Foen 3) ve Saglik Personell Gorusme Formu' nus (Forw-l) (ebe/lensireler de yapalan göremelerde) doldurulmasudan suramidur 3.7. Diğer Ekip Dyeled, kadın hastabklan ve dogum urman ile birlide Dogum Gnitesi Standartlarim Degerlendirme Ve Baleme Formu (Form 2), Anne Dostu Hastane tanzieme Dayalı Degerlendime Boma" qu (Euuu S) dokturulmasodan sorumiudi 3.8, Tüm ekip üyeleri belirtilen soruminloklara ek olamk formlarn doldurulması sonstad» hep birlikte Anne Dostu Hastane Degerlendire Formu' na (Form 5) diger Toslarm aktarıdorak puan hesaplamasun yapilmasıdan sprumludür 3.9 Tüm ekip üyeleri hesaplamalar tamumlandktari sonra Anne Dasto Hatane Degerledine Rapora (Form 7) ve Anne Dostu Hastane Degerlendirme Önerileri Tormu' man (Form 8) hazirlanmeandan soramiudur
+Anne Dostu Hastane Programı'nın uygulanmasına yönelik ulusal kriterler şunlardır:
 
-4. Degerlendirme Süreci:
+1. Güvenli ve kaliteli gebelik izlemi ve doğum hizmeti almak bütün anne adaylarının hakkıdır.
+2. Gebelik dönemi, travay, doğum ve doğum sonrası süreçlerde gerekli danışmanlık hizmetleri sunulmalıdır.
+3. Kurumlarda poliklinik, eğitim, danışmanlık ve doğum hizmetleri Bakanlık mevzuatları ile belirlenmiş standartlara uygun olmalıdır.
+4. Mahremiyet gereksinimleri itina ile karşılanmalı, hijyen ve konfor standartları yüksek tutulmalıdır.
+5. Kanıta dayalı olmayan müdahaleler rutin olarak uygulanmamalıdır.
+6. Hizmet sunumu için gerekli olan insan kaynakları ve lojistik destek optimum düzeyde olmalıdır.
+7. Acil obstetrik durumlarda sevk kriterlerine uyulmalıdır.
+8. Doğum hizmeti anne ve bebek odaklı olmalıdır.
+9. Hizmet sunanların bilgi ve beceri kapasitesini güçlendirmeye yönelik eğitimler planlanmalı ve uygulanmalıdır.
+10. Verilen hizmetlerle ilgili gerekli kayıtlar tutulmalı ve düzenli aralıklarla analizleri yapılarak hizmetlerin geliştirilmesinde kullanılmalıdır.
 
-41. Degerlendime starmla kalfandacak doküman "Anne Dostu Havane Degerlendirmeci Rehberi' dir. Rehber dogrultusunda formlar doldurularak puantanr
+Bu kriterler doğrultusunda anne dostu hastane sertifikası almak isteyen hastanelerin izleyeceği adımlar aşağıda belirtilmiştir.
 
-42. Dogum Onitesi Standartlan Degerlenirme ve Ileme Formu (Form 2) duldurulur, puanl aur Fonndan en ar 70 puan ve uzeri almmas gereklidir. 4.3 Hustanede Sunulan Hizmetlere Dair Anne Düriyleri Foru (Form J) agktamalat
+### 1. Tüm Aday Hastanelerin Başvurusu İçin;
+1.1. Anne Dostu Hastane unvanı almak isteyen hastane bazı temel tanımlayıcı özelliklerin belirtilmesini sağlayan "Hastane Bilgi Formu" (Form 1)'nu doldurarak resmi yazı ile bağlı olduğu il sağlık müdürlüğüne başvurur.
+1.2. İl sağlık müdürlüğü program kapsamında bağlı olduğu koordinatör il sağlık müdürlüğüne başvuruyu iletir.
+1.3. Koordinatör il sağlık müdürlüğü de başvuruyu Halk Sağlığı Genel Müdürlüğü'ne ve Kamu Hastaneleri Genel Müdürlüğü'ne bilgi için gönderir.
 
-• Abgrultusda doldurulur ve doetentr. Fuemdaki loplam cevaplandan eu az h 30 vc Ezeri almasi gereklidie 4,4. Saglik Personeli Conine Foru (Form 4) aciklemular dogrultusunda doldurulur Ve ozetlenir. Fortudaki toplant cev aplardan en az % 70 ve dzeri alimas gereklidir- Sayı 57536863/010.06.02 Konu 9 Anne Dostu Hastane
+### 2. Tüm Aday Hastanelerin Eğitim Süreci;
+2.1. Aday hastanenin bağlı olduğu il sağlık müdürlüğü program için belirlenen ait olduğu bölgenin koordinatör il sağlık müdürlüğü ile işbirliği içerisinde hastanenin personel eğitimlerini katılımcı yoğunluğuna göre turlar halinde planlar.
+2.2. Eğitimi aday hastanenin bağlı olduğu il sağlık müdürlüğünün yapması öncelikli olup personel yetersizliği olması durumunda koordinatör il sağlık müdürlüğünce destek verilir.
+2.3. Eğitim Anne Dostu Hastane Eğitimci ve Değerlendirmeci Eğitimi almış personeller tarafından verilir.
+2.4. Eğitim dokümanı olarak Anne Dostu Hastane Eğitimci Rehberi kullanılır.
+2.5. Eğitime kadın hastalıkları ve doğum servisi, doğum ünitesi, anestezi bölümü, çocuk hastalıkları ve yenidoğan bölümü ve acil bölümünde çalışan personel ile hastane yönetiminin tamamının katılımı gereklidir.
+2.6. Eğitim sonunda katılımcılara Anne Dostu Hastane Eğitimci Rehberi'nde yer alan Anne Dostu Hastane Personel Eğitimi Katılım Belgesi düzenlenip verilir.
+2.7. Anne Dostu Hastane Personel Eğitimi Katılım Belgesi numarasına; Anne Dostu Hastane Program Numarası ile başlanır, il trafik kodu ve numara verilerek devam edilir. (Örnek 231.01.05- il trafik kodu-0001)
+2.8. Diğer bölümlerde çalışan hastane personeline Anne Dostu Hastane Kriterleri ile ilgili eğitim hastane tarafından hizmet içi eğitim kapsamında verilir.
+2.9. Eğitimler tamamlandıktan en az 1 ay sonra koordinatör il sağlık müdürlüğü tarafından değerlendirme planlanır.
 
-45. Anue Dustu Hastane Gifene Dayali Degerlendirme Formu (Form Sidoldurdur, 4.6. Degerlendirme ekibi turafindan delduralan formar Anne Donla Hastane Değertendirme Forma' na (Forn 6) aktanlarak puanlaner Hastanema Hu Formdala her bolumden 10 puan úzerinden en iz 7 pran alinasi ve toplamda en aa 70 puan almasi gereklidir 4.7. Degerlendirmede kullanilan formlarla geçen purunla kriterlerin %h Inin karşılanması gereklidir 4.8. Degerlendirme sonunda Anne Dostu Hastane Degerlendirme Raporu (Fon 7) ve Araw Dostu Hastane Degurlendime Onurileri Formnu (Form B) doldurulur 4.9 Değerlendirede kullanılan her bir foru için şeterii puanianın alınamamaşi veveyn corumlu kriterlerden birimin bile karylanamyer olması durumunda tespit edilen eksikliklar Anne Destu Hastane Degerlendirme Onerileri Formu (Form 9)'nata belirtilerek hastineye huzurlik için er Bala 6 ay süre verilir. 4.10 Megeriendirne ekip sekretaryası tarafından degerlendimede kullanılan filan Farmimdosyalamanık resmi yazt ile koordin tör il sachk müdürogdne gönderlir 4.11. Unvan almaya bak kazanun hastanelere koordinatör il saglık müdurliigo tarafından en fazla 15 gün iperisinde "Anne Dostu Hastane Sertifikas" düzenlenerek Bastaneye verilis 4.12. Ahne Dostu Hastane Sertifikan Belge Numarasi® no Aime Dostu Hastune Program Numarasa ila basarar. il rafik kodu ve numara verilerek devam edilin (Orne) 231.01.05-il tetik kodu-001) 5, Lavow Alan Hastanelerin Tokip Eden Degerlendirmeleri; 3,1. Anne Destu Hulane Unvan alun hustanelerde programun falerigitin kerurolü ve hizmet kalitesinin devamblğnun suğhaoması amacıyla yılıda bir kez Koonlinaür İl webk müdürtigt trafindan degerlendirme planlant. 4.2 Uyan alan hastenelerin takip eden degerlendimelerinin: planlanmaunda Ilk. degerlendirmede Li adunlar geçerlidia 53 Vilm formlar doldurup puanlane Bir Anecki değerlendirmede hattane panehnune sunulmuş olan Anne Dostu Hastane Degerlendirme Onerileri Formu (Form 8)'ndaki muddelerin hastane tarafından gerçekleştirilme durumu degerlendirili. Fam be calişsulat sonucumdo kordinatör il seğhk müdürl igd tarafından; "Anne Drehi Hastane unvam aimak için başvuan ve unvan almayn nuk Savarimi tastunelerin her biri için ayrı ayrı olmuk wæere dosyn tutularak wavın ulan hasunclerin vıllı Geçmiş aya ait Anne Dosta Hastane Ayhk Çalıyin Raporu (Fon 9) her ay in W una kadar -Geregi" için Halk Sagli Genet Müdurlugu Kadin ve Uruma Saghe: Dairesi Başkanhg'n "Bilgi" için hastanenin bağh bulundoğu kuruma güre Kumu Hastaneleri Genel Moda ağs ne veya Saglk Hizmetlen Genel Modürfign'ne gonderili Sayı 57536863 010.06.02 Konu Anne Dostu Hastane
+### 3. Değerlendirme Ekibi;
+3.1. Koordinatör il sağlık müdürlüğü kendine bağlı illerden değerlendirme ekibi oluşturur. Değerlendirme ekibi en az 5 (beş) kişiden oluşur ve ekipte Anne Dostu Hastane Eğitimci ve Değerlendirmeci Eğitimi almış;
+- Mutlaka 1 (bir) kadın hastalıkları ve doğum uzmanı hekim
+- Doktor/ebe/hemşire
+- Diğer personel bulunur.
+3.2. Aday hastanenin bağlı olduğu il sağlık müdürlüğü personeli değerlendirme ekibinde görev alamaz.
+3.3. Değerlendirme Ekip Sorumlusu; Koordinatör il sağlık müdürlüğü tarafından belirlenir. Mutlaka kadın hastalıkları ve doğum uzmanı olmalıdır. Ekip sorumlusu; değerlendirme görev paylaşımı, formların tam ve eksiksiz doldurulması ile değerlendirme sonunda ekiple birlikte hesaplamaların, "Değerlendirme Raporu ve Önerileri Formu"nun hazırlanmasından sorumludur.
+3.4. Değerlendirme ekip sekretaryası; Koordinatör il sağlık müdürlüğü tarafından belirlenir. Değerlendirmede kullanılan formların hazırlanması ve değerlendirme dosyasının, "Değerlendirme Raporu ve Önerileri Formu"nun ilgili birimlere gönderilmesinden sorumludur.
+3.5. Kadın Hastalıkları ve Doğum Uzmanı Hekimler; Doğum Ünitesi Standartlarını Değerlendirme ve İzleme Formu (Form 2), Anne Dostu Hastane Gözleme Dayalı Değerlendirme Formu (Form 5) ile Sağlık Personeli Görüşme Formu'nun (Form 4) (kadın hastalıkları ve doğum uzmanları ve başhekim yardımcısı ile yapılan görüşmelerde) doldurulmasından sorumludur.
+3.6. Doktor/ebe/hemşireler; Hastanede Sunulan Hizmetlere Dair Anne Görüşleri Formu (Form 3) ve Sağlık Personeli Görüşme Formu'nun (Form 4) (ebe/hemşireler ile yapılan görüşmelerde) doldurulmasından sorumludur.
+3.7. Diğer Ekip Üyeleri; kadın hastalıkları ve doğum uzmanı ile birlikte Doğum Ünitesi Standartlarını Değerlendirme ve İzleme Formu (Form 2), Anne Dostu Hastane Gözleme Dayalı Değerlendirme Formu'nun (Form 5) doldurulmasından sorumludur.
+3.8. Tüm ekip üyeleri belirtilen sorumluluklara ek olarak formların doldurulması sonrasında hep birlikte Anne Dostu Hastane Değerlendirme Formu'na (Form 6) diğer formların aktarılarak puan hesaplamasının yapılmasından sorumludur.
+3.9. Tüm ekip üyeleri hesaplamalar tamamlandıktan sonra Anne Dostu Hastane Değerlendirme Raporu (Form 7) ve Anne Dostu Hastane Değerlendirme Önerileri Formu'nun (Form 8) hazırlanmasından sorumludur.
 
-Halk Saglığ Genel Modünogü Kadın ve Prane Suûl&r Dairesi Buskanlu programa Haşkin lut ay illerden gelen venlen toplayarak yıllık olarak resmi webı sayfast ferinden yym ar
+### 4. Değerlendirme Süreci;
+4.1. Değerlendirme sırasında kullanılacak doküman "Anne Dostu Hastane Değerlendirmeci Rehberi"dir. Rehber doğrultusunda formlar doldurularak puanlanır.
+4.2. Doğum Ünitesi Standartları Değerlendirme ve İzleme Formu (Form 2) doldurulur, puanlanır. Formdan en az 70 puan ve üzeri alınması gereklidir.
+4.3. Hastanede Sunulan Hizmetlere Dair Anne Görüşleri Formu (Form 3) açıklamalar doğrultusunda doldurulur ve özetlenir. Formdaki toplam cevaplardan en az % 70 ve üzeri alması gereklidir.
+4.4. Sağlık Personeli Görüşme Formu (Form 4) açıklamalar doğrultusunda doldurulur ve özetlenir. Formdaki toplam cevaplardan en az % 70 ve üzeri alması gereklidir.
+4.5. Anne Dostu Hastane Gözleme Dayalı Değerlendirme Formu (Form 5) doldurulur.
+4.6. Değerlendirme ekibi tarafından doldurulan formlar Anne Dostu Hastane Değerlendirme Formu'na (Form 6) aktarılarak puanlanır. Hastanenin bu formdaki her bölümden 10 puan üzerinden en az 7 puan alması ve toplamda en az 70 puan alması gereklidir.
+4.7. Değerlendirmede kullanılan formlarda geçen zorunlu kriterlerin %100'ünün karşılanması gereklidir.
+4.8. Değerlendirme sonunda Anne Dostu Hastane Değerlendirme Raporu (Form 7) ve Anne Dostu Hastane Değerlendirme Önerileri Formu (Form 8) doldurulur.
+4.9. Değerlendirmede kullanılan her bir form için yeterli puanların alınamaması ve/veya zorunlu kriterlerden birinin bile karşılanamıyor olması durumunda tespit edilen eksiklikler Anne Dostu Hastane Değerlendirme Önerileri Formu (Form 8)'nda belirtilerek hastaneye hazırlık için en fazla 6 ay süre verilir.
+4.10. Değerlendirme ekip sekretaryası tarafından değerlendirmede kullanılan tüm formlar dosyalanarak resmi yazı ile koordinatör il sağlık müdürlüğüne gönderilir.
+4.11. Unvan almaya hak kazanan hastanelere koordinatör il sağlık müdürlüğü tarafından en fazla 15 gün içerisinde "Anne Dostu Hastane Sertifikası" düzenlenerek hastaneye verilir.
+4.12. Anne Dostu Hastane Sertifikası Belge Numarası'na Anne Dostu Hastane Program Numarası ile başlanır, il trafik kodu ve numara verilerek devam edilir. (Örnek 231.01.05- il trafik kodu-001)
 
-Anne Dosu Hastane Progrım hın ulke genelinde yürürülmesi, bu amaçia yukando yet alan tadi ve esastann iliniz genelindeki um saghk lunan ve kiraląlarma duyurularak Artizlikle uygulanmes hursusunde; Geregini ve ilgilere emirlerinizi onemle rea ederim.
+### 5. Unvan Alan Hastanelerin Takip Eden Değerlendirmeleri;
+5.1. Anne Dostu Hastane Unvanı alan hastanelerde programın işlerliğinin kontrolü ve hizmet kalitesinin devamlılığının sağlanması amacıyla yılda bir kez Koordinatör İl sağlık müdürlüğü tarafından değerlendirme planlanır.
+5.2. Unvan alan hastanelerin takip eden değerlendirmelerinin planlanmasında ilk değerlendirmede ki adımlar geçerlidir.
+5.3. Tüm formlar doldurup puanlanır. Bir önceki değerlendirmede hastane yönetimine sunulmuş olan Anne Dostu Hastane Değerlendirme Önerileri Formu (Form 8)'ndaki maddelerin hastane tarafından gerçekleştirilme durumu değerlendirilir.
 
-Prof. Dr. Emine ALP MESI
+Tüm bu çalışmalar sonucunda koordinatör il sağlık müdürlüğü tarafından;
 
-Bakan-a
+"Anne Dostu Hastane" unvanı almak için başvuran ve unvan almaya hak kazanmış hastanelerin her biri için ayrı ayrı olmak üzere dosya tutularak unvan alan hastanelerin yıllık değerlendirme sonuçları da dosyaya eklenir.
 
-Balar Yardimcis
+Geçmiş aya ait Anne Dostu Hastane Aylık Çalışma Raporu (Form 9) her ayın 10'una kadar "Gereği" için Halk Sağlığı Genel Müdürlüğü Kadın ve Üreme Sağlığı Dairesi Başkanlığı'na, "Bilgi" için hastanenin bağlı bulunduğu kuruma göre Kamu Hastaneleri Genel Müdürlüğü'ne veya Sağlık Hizmetleri Genel Müdürlüğü'ne gönderilir.
+
+Halk Sağlığı Genel Müdürlüğü Kadın ve Üreme Sağlığı Dairesi Başkanlığı programa ilişkin her ay illerden gelen verileri toplayarak yıllık olarak resmi web sayfası üzerinden yayımlar.
+
+Anne Dostu Hastane Programı'nın ülke genelinde yürütülmesi, bu amaçla yukarıda yer alan usül ve esasların iliniz genelindeki tüm sağlık kurum ve kuruluşlarına duyurularak, titizlikle uygulanması hususunda;
+
+Gereğini ve ilgililere emirlerinizi önemle rica ederim.
+
+Prof. Dr. Emine ALP MEŞE
+Bakan a.
+Bakan Yardımcısı
 
 ### EKLER:
+1. Anne Dostu Hastane Katılımcı Rehberi
+2. Anne Dostu Hastane Eğitimci Rehberi
+3. Anne Dostu Hastane Değerlendirmeci Rehberi
+4. Koordinatör İl Sağlık Müdürlükleri ve Kapsamındaki İl Sağlık Müdürlükleri Listesi
+5. Hastane Bilgi Formu (Form 1)
+6. Doğum Ünitesi Standartlarını İzleme ve Değerlendirme Formu (Form 2)
+7. Hastanede Sunulan Hizmetlere Dair Anne Görüşleri Formu (Form 3)
+8. Sağlık Personeli Görüşme Formu (Form 4)
+9. Anne Dostu Hastane Gözleme Dayalı Değerlendirme Formu (Form 5)
+10. Anne Dostu Hastane Değerlendirme Formu (Form 6)
+11. Anne Dostu Hastane Değerlendirme Raporu (Form 7)
+12. Anne Dostu Hastane Değerlendirme Önerileri Formu (Form 8)
+13. Anne Dostu Hastane Aylık Bildirim Formu (Form 9)
+14. Hastanelere verilecek Anne Dostu Hastane Sertifika örneği
 
-1 Anne Dosta: Fistane Katilamer Rebberi
+### DAĞITIM:
+Gereği:
+A Planı
 
-2. Anne Dostu Hastane Egitimci Rehberi Anne Dustu Hastane Degerlendirmeci Keliberi
-
-4. Konünaör I| Saghk Müdürlükleri ve Kapsamındaki İl Saglık Müdurnklen Lisesi 5 Hastane Bilg Formu (Furm 1)
-
-6. Dogum Dniteai Standartium Telame ve Degerlendirme Formu (Form 21 Hastanede Sumalan Hiametlere Dair Ame Görûşleri Fonnu (Fur 3) * Saglik Personeli Gerlişine Formu (Form 4)
-
-1. Anne Destu Hastene Gözleme Dayal Degerlendirme l'ormu (Form
-
-10. Alne Dostu Hastane Degerlendirme Formai (Form 6)
-
-1. Ane Dostu Hastane Değerlendime Raporu (Form 7)
-
-2. Anne Dosu Hatane Degeriendirme Öncrilen Formu (Fow e) 13, Anne Dostu Hastune Aylik Bildirim Fonnu (Form 9)
-
-14. Hacunclere verilacel Ante Dostu Hastine Sertifika Omegi
-
-### DAGILIM:
-
-Gergi BiTg A Plam Saghk Hizmetieri Genel Madringa
-
-Kanu Hastenelen Siarl Müdaniügi
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğü
+Kamu Hastaneleri Genel Müdürlüğü

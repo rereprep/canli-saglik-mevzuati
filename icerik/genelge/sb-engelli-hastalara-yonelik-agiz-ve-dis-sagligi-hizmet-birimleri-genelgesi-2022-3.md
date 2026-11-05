@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 163-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 2.3.11. Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Genelgesi (2022/3)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -22,8 +21,8 @@ Sağlık Hizmetleri Genel Müdürlüğü
 Sayı : 67029623-199  
 Konu : Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri
 
-### GENELGE  
-2022/3
+### GENELGE
+**2022/3**
 
 Özel bakım ihtiyacı olan bireyler yaşam kalitesini doğrudan etkileyen ağız ve diş sağlığı hastalıkları açısından yüksek risk grubu içerisinde yer almaktadır. Ağız ve diş sağlığı hastalıklarının genel sağlık üzerine olumsuz etkileri olduğundan, bu bireylerin ağız ve diş sağlığının iyileştirilmesi ve var olan durumlarının korunması önemlidir.
 
@@ -50,7 +49,7 @@ Sağlık Yatırımları Genel Müdürlüğüne
 
 ---
 
-### Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
+#### Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
 
 **1) Engelli Ağız ve Diş Sağlığı Hizmet Birimleri:**
 

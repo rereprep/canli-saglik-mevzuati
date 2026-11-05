@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 185-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -22,7 +23,7 @@ Konu : Acil Servis Hizmetlerine Yönelik Düzenleme
 DAĞITIM YERLERİNE
 
 ### GENELGE
-2018/2
+**2018/2**
 
 Acil servis hizmetlerinde bazı özellikli ve yoğun hastanelerimizin yaşadığı sorunları ve sebeplerini çözmek üzere, acil sağlık hizmetleri tebliği değişiklik çalışmaları tamamlanmış ve yayınlanma aşamasındadır. Bu aşamada hasta yoğunluğunu azaltmak ve hasta memnuniyetini artırmak için ekli listede bulunan hastanelerin aşağıdaki hususlarda ivedilikle çalışmalar yapması gerekmektedir.
 
@@ -58,7 +59,7 @@ a. İlgili acil servislerde ivedilikle küçük onarım, basit yapım işlerinin
 
 b. İlgili acil servislerde araç giriş çıkış ve otopark imkânlarının genişletilerek acil hastalara araç park imkânları ve kolaylıklarının sağlanması gerekmektedir.
 
-Yukarda sayılan düzenlemelerin ivedilikle yapılarak yeşil, sarı, kırmızı ve mesai kaydırma poliklinikleri günlük hasta sayısı ve ortalama bekleme sürelerinin Bakanlık tarafından tam ve zamanında takibinin yapılabilmesini teminen, il sağlık müdürlüklerine verilerin günlük gönderilmesi ve ilgili il sağlık müdürlükleri ve sağlık tesisi yöneticilerinin uygulamaları yerinde bizzat takiplerinin sağlanması hususunda gereğini rica ederim.
+Yukarıda sayılan düzenlemelerin ivedilikle yapılarak yeşil, sarı, kırmızı ve mesai kaydırma poliklinikleri günlük hasta sayısı ve ortalama bekleme sürelerinin Bakanlık tarafından tam ve zamanında takibinin yapılabilmesini teminen, il sağlık müdürlüklerine verilerin günlük gönderilmesi ve ilgili il sağlık müdürlükleri ve sağlık tesisi yöneticilerinin uygulamaları yerinde bizzat takiplerinin sağlanması hususunda gereğini rica ederim.
 
 Dr. Ahmet DEMİRCAN
 Bakan

@@ -10,7 +10,17 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 143-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
+### T.C. SAĞLIK BAKANLIĞI
+#### Tedavi Hizmetleri Genel Müdürlüğü
+
+**Sayı :** B.10.0.THG.0.10.00.02/
+**Konu :** Hastane Yatak Sayısı ve Tanımlar
+
+### GENELGE
+**2008/65**
 
 ### HASTANE HİZMETLERİNDE TEMEL KAVRAMLAR A - HASTA YATAGI
 

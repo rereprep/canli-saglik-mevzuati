@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 996-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -19,7 +20,7 @@ Sayı : 49635782-
 Konu : 4924 Sözleşmeli Personel
 
 ### GENELGE
-2023/1
+**2023/1**
 
 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun birinci maddesinde; eleman temininde güçlük çekilen yerlerde ve hizmet dallarında sağlık hizmetlerinin etkili ve verimli bir şekilde yürütülebilmesini temin etmek üzere, Sağlık Bakanlığı ve bağlı kuruluşları tarafından hizmet akdi ile sözleşmeli olarak istihdam edilecek ve işçi sayılmayan sağlık personelinin hizmet şartlarını, niteliklerini, işe alınma ve işine son verilme hallerini, görev ve yetkilerini, hak, yükümlülük ve sorumluluklarını, ücret ve diğer ödemeleri ile özlük işlerinin düzenlemesine yer verilmiş olup sözleşmeli personel istihdam edilecek hizmet birimleri yılda bir kez Cumhurbaşkanı kararı ile tespit edilmekte ve bu kapsamda kullanılacak sözleşmeli personel pozisyonları Hazine ve Maliye Bakanlığı tarafından vize edilmektedir.
 

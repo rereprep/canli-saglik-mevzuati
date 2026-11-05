@@ -10,15 +10,19 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 999-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-2021/14 sayılı Tasarruf Genelgesi kapsamında merkez teşkilatça
+### T.C. SAĞLIK BAKANLIĞI
+#### Yönetim Hizmetleri Genel Müdürlüğü
 
-Cumhurbaşkanlığı izni alınmaksızın taşra teşkilatınca hizmet binası
+**Sayı :** E-49635782-010.06/
+**Konu :** İdari Hizmet Binası Kiralama İşlemleri
 
-### taşınmaz kiralama işlemleri yapılamaz.
+### GENELGE
+**2022/5**
 
-###  SAĞLIK BAKANLIĞI Yönctim Hizmetleri Genel Müdürlüğü
+2021/14 sayılı Tasarruf Tedbirleri konulu Cumhurbaşkanlığı Genelgesi kapsamında, kamu kaynaklarının etkili, ekonomik ve verimli kullanılması amacıyla merkez teşkilatça Cumhurbaşkanlığı izni alınmaksızın taşra teşkilatınca hizmet binası ve taşınmaz kiralama işlemleri yapılamaz.
 
 8) Kira rayiç değerinin tespitinde, hizmet alanları dışındaki alanların malike bırakılıp bırakılmamasına bağli olarak hizmet sunumu dişındaki alanlardan malikin elde edecegi getiriler ile binanın araç ve gereçleri ve donanımmın malik tarafindan sağlanıp sağlanmayacağı gibi hususlar dikkate alınacaktır.
 
@@ -62,7 +66,7 @@ h) Taşratarı kitalandığı, kiralaımaya konu taşınmazın tapu kaydına şe
 
 19) 2015/12 sayılı ve "İdari hizmet binası Kiraluma Hakkında Genelge" konudu Genelge yürürlükten kaldırılmiştir. Bilgi ve gereği ile uygulamada herhangi bir aksamaya meydan verilmemesi için yukanda belirtilen hususlara titizlikle riayet edilmesini önemle rico ederim.
 
-Halil ELDEM/R
+Halil ELDEMİR
 
 Bakan a
 

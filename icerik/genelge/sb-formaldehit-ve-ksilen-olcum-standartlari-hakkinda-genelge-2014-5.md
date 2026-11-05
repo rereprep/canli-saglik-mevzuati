@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 284-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 2.3.58. Formaldehit ve Ksilen Ölçüm Standartları Hakkında Genelge (2014/5)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -22,8 +21,8 @@ Sağlık Hizmetleri Genel Müdürlüğü
 Sayı : 95966346 -  
 Konu : Formaldehit ve Ksilen Ölçüm Standartları Hakkında Genelge
 
-### GENELGE  
-2014/5
+### GENELGE
+**2014/5**
 
 09.10.2013 tarih ve 28790 sayılı Resmî Gazete'de yayımlanan Tıbbi Laboratuvarlar Yönetmeliği Tıbbi Laboratuvar güvenliği başlıklı 28 inci maddesi "(2) Korunmaya yönelik alınan tedbirler, tıbbi laboratuvar personelinin ve yakın çevresinin kimyasal, radyoaktif veya enfeksiyöz ajana maruz kalma olasılığını azaltıcı veya önleyici olmalıdır." ile Ek - 10 Tıbbi Laboratuvar Denetim Formu Faaliyete Esas Denetim Kriterleri Madde 16 "Tıbbi patoloji laboratuvarında havadaki formaldehit ve ksilen düzeyleri ölçülmektedir." hükümleri gereğince; tıbbi patoloji laboratuvarlarında oluşacak toksik madde maruziyetini giderici düzenleyici ve önleyici faaliyetler yapılmalıdır.
 

@@ -10,11 +10,12 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103620/sosyal-guvenlik-kurumu-sgk-terk
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.3.9. Sosyal Güvenlik Kurumu (SGK) Terkin Edilecek Alacaklar Genelgesi (2012/33)
 
-### T.C. SAĞLIK BAKANLIĞI Müsteşarlik
+### T.C. SAĞLIK BAKANLIĞI Müsteşarlık
 
 Sayı: B.10.0.MUS.00.00.00,0/ Konu: Terkin Edilecek Alacaklar
 

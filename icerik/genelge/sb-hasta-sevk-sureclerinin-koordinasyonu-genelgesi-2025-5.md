@@ -10,9 +10,25 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 344-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-3.3.1. Hasta Sevk Süreçlerinin Koordinasyonu Genelgesi (2025/5) dışı sevk taleplerine ise il sağlık müdürünün görevlendireceği hizmet başkanını veya başkan yardımcısı tarafindan onay verilmelidir. Onaysız sevkler sistemden kabul edilmeyecek, gerekli uyarılar ve bildirimler ilgili sağlık tesislerine yapılacaktır.
+### T.C. SAĞLIK BAKANLIĞI
+#### Acil Sağlık Hizmetleri Genel Müdürlüğü
+
+**Sayı :** E-39942531-010.06/
+**Konu :** Hasta Sevk Süreçlerinin Koordinasyonu
+
+### GENELGE
+**2025/5**
+
+Acil sağlık hizmetlerinde hasta sevklerinin hızlı, güvenli, etkin ve mevzuata uygun şekilde yürütülmesi, hasta mağduriyetlerinin ve gereksiz sevklerin önlenmesi amacıyla aşağıdaki hususlara riayet edilecektir:
+
+1) Acil hastaların hastaneler arası nakil talepleri 112 Komuta Kontrol Merkezi koordinasyonunda gerçekleştirilecektir.
+
+2) Sevk talebinde bulunan hekim, hastanın tıbbi durumuna uygun sağlık tesisini ve gerekçesini sevk formuna eksiksiz kaydedecektir.
+
+3) İl içi ve il dışı sevk taleplerine ise il sağlık müdürünün görevlendireceği hizmet başkanı veya başkan yardımcısı tarafından onay verilmelidir. Onaysız sevkler sistemden kabul edilmeyecek, gerekli uyarılar ve bildirimler ilgili sağlık tesislerine yapılacaktır.
 
 7) İller arası sevk süreçlerinde koordinasyonun sağlanması amacıyla her ilin, yalnızca bağlı bulunduğu koordinatör ilin il dışı nakil masasıyla iletişim kurması esastır. Koordinatör il, hastanın sevk talebinin öncelikle kendi bölgesinde çözümlenebilmesi için gerekli değerlendirmeyi yapmalı, çözüm bulunamaması halinde bölge dışına uygun merkeze sevk için en yakın koordinatör illerle iletişim kurmalıdır. Gelen sevk talepleri koordinatör iller tarafindan acil servis, yataklı servis veya yoğun bakım talebi ayırt etmeksizin değerlendirilip hastanın aciliyeti ve klinik durumu gibi faktörler dikkate alınarak kabul önceliği belirlenmelidir. Öncelikli ve özellikli kabul edilen vakalarda ise bu durumun gerekçesi, sistem üzerinde açık, anlaşılır ve denetlenebilir şekilde kayıt altına alınmalıdır. Söz konusu uygulama, hasta sağlığı ve güvenliği ile kaynakların etkin kullanımı açısından titizlikle yürütülmelidir.
 
@@ -25,5 +41,11 @@ Yukarıda belirtilen hususlar çerçevesinde gerekli tedbirlerin alınması, uyg
 Bilgilerini ve gereğini rica ederim.
 
 Prof. Dr. Kemal MEMİŞOĞLU
+Bakan
 
-Bakan Dağıtım: Gereği: Bilgi: 81 lI Valiligine (II Saglik Müdurlugu) A PLANI (Bağlı ve Ilgili Kuruluşlar Hariç)
+### DAĞITIM:
+**Gereği:**
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+**Bilgi:**
+A PLANI (Bağlı ve İlgili Kuruluşlar Hariç)

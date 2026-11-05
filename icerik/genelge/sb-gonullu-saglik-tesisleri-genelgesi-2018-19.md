@@ -10,15 +10,17 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 494-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
+#### Halk Sağlığı Genel Müdürlüğü
 
-Sayı: 68289900-641.99
-
-Konu: Gönüllü sağlık tesisleri
+**Sayı :** 68289900-641.99/  
+**Konu :** Gönüllü Sağlık Tesisleri
 
 ### GENELGE
+**2018/19**
 
 Ülkemizde geçici koruma altına alınanlara sunulan sağlık hizmetleri, 04/11/2015 tarihli ve 9648 sayılı Makam Oluru ile yürürlüğe giren “Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslar” çerçevesinde Halk Sağlığı Genel Müdürlüğümüz koordinasyonunda yürütülmektedir.
 

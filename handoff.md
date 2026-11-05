@@ -15,7 +15,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 ## Kullanıcı kararları
 - Siteyi düzenleyen: Mithat Temizer — yalnızca Hakkında sayfasında ve README'de.
 - İthaf her sayfanın alt bilgisinde: "Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla."
-- Ajanlar: Gemini 3.8 Flash (google-antigravity/gemini-3.8-flash) ve gpt-6-luna. Biri kotaya (429) takılırsa işi diğer modelle sürdür. Aynı anda en fazla 6 alt ajan.
+- Ajanlar: Gemini 3.8 Flash (google-antigravity/gemini-3.8-flash) ve gpt-6-luna. Her zaman 6 ajan çalıştır. Kotaya (429) takılan ajanın kalan işini hemen diğer modelle yeni ajana ver (luna → Gemini Flash, Gemini Flash → luna). Bağlantı (502/ENOTFOUND) hatasında aynı modelle yeniden başlat. Biten/hata veren ajanı kapat ki sınır dolmasın.
+- Gönderim anahtarı kalıcı: /Users/mithattemizer/Documents/Canlı Sağlık Mevzuatı/.anahtar/id_ed25519 (git config core.sshCommand ayarlı; düz `git push origin main` yeterli).
 
 ## Kaynaklar ve işleme hattı
 1. Kitaplar (kaynak klasörde, depoya girmez): mevzuat-kitabi.pdf (halk sağlığı, basılı s.+6=PDF), sbyonergevegenelge202520022025pdf.pdf (SB Yönergeler ve Genelgeler Kitabı 2025, basılı s.+14=PDF). Segmentler: kaynak-isleme/segmentler/*.json → araclar/kitaptan_cikar.py

@@ -2,6 +2,7 @@
 id: "sbg-103477-bulasici-hastaliklarin-ihbar-ve-bildirim-sistemi-genelgesi-2015-18"
 baslik: "Bulaşıcı Hastalıkların İhbar ve Bildirim Sistemi Genelgesi (2015/18)"
 tur: "genelge"
+tarih: "2015-10-23"
 sayi: "2015/18"
 birim: "Türkiye Halk Sağlığı Kurumu"
 konu: "Bulaşıcı hastalıkların ihbar ve bildirimi sisteminde A, B, C, D grubu hastalıkların bildirim usulleri ve standart formlarını düzenler."
@@ -10,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103477/bulasici-hastaliklarin-ihbar-ve
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -26,12 +28,6 @@ VALİLİĞİNE
 
 ### 
 
-### T.C. SAĞLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
-
-Sayı : 13588366 Konu : Bulaşıcı Hastalıkların
-
-İhbar ve Bildirim Sistemi
-
 1) Bildirimi zorunlu bir bulaşıcı hastalığın ihbarı ve bildiriminden sağlık hizmeti veren bütün kamu kurum ve kuruluşlar ile gerçek ve tüzel kişiler sorumludur.
 
 2) Ülke genelinde hizmet veren üniversiteler de dâhil olmak üzere tüm yataklı tedavi kurumlarında bulaşıcı hastahkların takibi ve bildirimlerinden sorumlu sürveyans sorumlusu belirlenecektir. Yataklı tedavi kurumlarının büyüklüğüne göre sürveyans sorumlusuna yardımcı olmak üzere personel görevlendirilecektir. Görev alacak kişiler sağlık personeli arasından belirlenecek ve başhekim yardımcısına bağlı olarak hizmet verecektir. Kurum ve kuruluşlar tarafından konu ile ilgili kişilerin isimleri ve bu isimlerin değişiklikleri halk sağlığı müdürlüğüne (Müdürlük/HSM) bildirilecektir.
@@ -47,12 +43,6 @@ Sayı : 13588366 Konu : Bulaşıcı Hastalıkların
 7) Aile hekimlerinden elektronik ortamda yapılan bulaşıcı hastahk bildirimlerinin Sağlık Bilgi Sistemleri aracılığı ile TSM tarafından görülmesi sağlanacaktır.
 
 8) Bildirimi yapılan hastahklara ait raporların Temel Sağlık Istatistikleri Modülü (TSIM) içinde görülmesi sağlanacaktır.
-
-### T.C. SAĞLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
-
-Sayı : 13588366 Konu : Bulaşıcı Hastalıkların
-
-İhbar ve Bildirim Sistemi
 
 9) Form-014 veya Sağlık Bilgi Sistemlerinden alınan bildirimler ayrıca kişinin ikamet ettiği bölgedeki TSM'ye gönderilmeyecektir.
 
@@ -108,24 +98,16 @@ e) THSK ilgili Daire Başkanlıkları tarafından raporlamalar değerlendirilece
 
 15) Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi Standart Tanı, Sürveyans ve Laboratuvar Rehberinde belirlenen IHBARI gereken hastalıklar tespit edildiginde, derhal bütün sağlık kurum ve kuruluşları tarafından, en hızlı şekilde telefon, fax gibi iletişim araçları ile TSM'ye derhal ihbarı yapılacaktır. Bu ihbardan sonra yukarıda yer alan esaslar çerçevesinde hastalık bildirimleri yapılacaktır.
 
-### T.C. SAGLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
-
-Sayi : 13588366 Konu : Bulaşıcı Hastalıkların
-
-İhbar ve Bildirim Sistemi
-
 16) Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi Standart Tanı, Sürveyans ve Laboratuvar Rehberinde belirtilen hastalıklar için, hastalığın etkeninin, kaynağının tespit edilmesi ve yayılımının engellenmesi amacı ile TSM tarafından filyasyon çalışmalarına başlanacaktır.
 
-17) Gerekli durumlarda filyasyon çalışmalarina aile hekimleri ve halk sağlığı
+17) Gerekli durumlarda filyasyon çalışmalarına aile hekimleri ve halk sağlığı müdürlükleri de katılacaktır.
 
 18) İhbar ve bildirim sistemi uygulanırken, dünyada yaşanan gelişmeler doğrultusunda güncellenen bildirimi zorunlu bulaşıcı hastalıklar listesi ve standart vaka tanımları esas almacaktır.
 
-Bu Genelge'nin ekleri ile birlikte tüm sağhk kurum ve kuruluşlarına tebliği ile il
+Bu Genelge'nin ekleri ile birlikte tüm sağlık kurum ve kuruluşlarına tebliği ile il düzeyinde uygulamaların Genelge'ye uygun olarak yürütülmesi hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 
-Prof. Dr. Eyüp GÜMÜS
-
+Prof. Dr. Eyüp GÜMÜŞ
 Bakan a.
-
-Müstesa Ek: 1- Form-014 (1 sayfa) 2- Bildirimi Zorunlu Bulaşıcı Hastalık Grupları (1 sayfa) 3- A Grubu Hastalıklara Ait Bildirim Akış Şeması (1 sayfa) 4- B Grubu Hastalıklara Ait Bildirim Akış Şeması (1 sayfa) 5- C Grubu Hastalıklara Ait Bildirim Akış Şeması (1 sayfa) 6- D Grubu Hastalıklara Ait Bildirim Akış Şeması (1 sayfa) 7- Form-014D (1 sayfa) 8- Uluslararası Halk Sağlığı Acil Durumları Belirlemede Kullanılan Karar Aracı (1 sayfa)
+Müsteşar Ek: 1- Form-014 (1 sayfa) 2- Bildirimi Zorunlu Bulaşıcı Hastalık Grupları (1 sayfa) 3- A Grubu Hastalıklara Ait Bildirim Akış Şeması (1 sayfa) 4- B Grubu Hastalıklara Ait Bildirim Akış Şeması (1 sayfa) 5- C Grubu Hastalıklara Ait Bildirim Akış Şeması (1 sayfa) 6- D Grubu Hastalıklara Ait Bildirim Akış Şeması (1 sayfa) 7- Form-014D (1 sayfa) 8- Uluslararası Halk Sağlığı Acil Durumları Belirlemede Kullanılan Karar Aracı (1 sayfa)

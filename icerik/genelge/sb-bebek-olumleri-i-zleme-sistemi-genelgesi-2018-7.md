@@ -10,18 +10,21 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 727-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-6.3.55. Bebek Ölümleri İzleme Sistemi Genelgesi (2018/7)
+### T.C. SAĞLIK BAKANLIĞI
+#### Halk Sağlığı Genel Müdürlüğü
 
-### T.C. SAĞLIK BAKANLIĞI – Halk Sağlığı Genel Müdürlüğü
+**Sayı :** 67414668-010.06.02/
+**Konu :** Bebek Ölümleri İzleme Sistemi
 
-Sayı: 67414568-[?]
-Konu: Bebek Ölümleri İzleme Sistemi alon Perinatal ve Bebek Ölimier: Bilgi Formu, gere ve bebeğin hirnei hasartakta gerçeklestirilen izlem ve işlemleri, allenin sosyz-ekonomik duromna dair bilgilar de ISM ce valep edilecek diger belge ve bilgileri en kasa sirede temm edip göndermekle/gonderilmesim sağlamakla yükümludo Ayrıca bölgesinde, sağle kuruluşu dinunda (evde, yolda v.h) meydanu gelen dilm olması halinde Ek-+*ce yer alan Söre! Chopsi Formunun havuriamıp şonden|miesnı sağlayacaktu.
+### GENELGE
+**2018/7** alon Perinatal ve Bebek Ölimier: Bilgi Formu, gere ve bebeğin hirnei hasartakta gerçeklestirilen izlem ve işlemleri, ailenin sosyo-ekonomik durumuna dair bilgilar de ISM ce valep edilecek diger belge ve bilgileri en kısa sürede temin edip göndermekle/gönderilmesini sağlamakla yükümlüdür. Ayrıca bölgesinde, sağle kuruluşu dinunda (evde, yolda v.h) meydanu gelen dilm olması halinde Ek-+*ce yer alan Sözel Otopsi Formunun hazırlanıp gönderilmesini sağlayacaktır..
 
 €) Aile hekimleri sorumin oldoklan nufusta perinaal ve bebek olani olugunda EL-1 de yer alan Perital ve Bebek Otünleri Bilgi Formunu Ek-Z de ver alan doldirea kilavurundan yararlanarak dakkuracakt Ferm de bırlıkte gebe ve heheğin birinci basamakta gerşekleştirilen izlem ve işlemlerini allenın sosyo skomomik-külturei donimuna däir bilgileri ve ISM'ce talep edilecek diger belge ve bilgileri en kosa siirede teman edip baglı bulunängu dye sağhk mödadu alne
 
-d) Bakandiğunza bagle ber bostunede *Bebek Ölümleri İzlemte Soramiasu" olarik bie personel helitienerekti. Bu personelce, olumun gerçeklestigi 3 1041 is una içinde, okumal te pir eden hekim tarufından Ek-2°de ver alar kıluvuzundan yararlanılarak doldamlan Perimatal ve Bekek Mümleri Bilgi Fortno ie bebek ve gebenin hastanede satşianna dair opikriz fermu ISM'y aldirilecekns, Ayrca ISM ce talep edilebilecek ek bilgı ve belgeler de ivedinkle ponderilecektr Ölu doğunı ve benek olumu цугм dogru yuplabibnesi sçs özellikle луи gin Çinle perçeklesen olürlerde, doßun ve öldns saa de ölim nedenlerin. hem Penatal ve Bebel Cimleri Bilgi Formunda hem de ÖBS ne girişlerde dogru şekilde girilmesine acund dikL- edilecektir. Yenidogan epikriz farmu olarak. Ek-6 kullumlicakur
+d) Bakandiğunza bagle ber bostunede *Bebek Ölümleri İzlemte Soramiasu" olarik bie personel helitienerekti. Bu personelce, olumun gerçeklestigi 3 1041 is una içinde, okumal te pir eden hekim tarufından Ek-2°de ver alar kıluvuzundan yararlanılarak doldamlan Perimatal ve Bekek Mümleri Bilgi Fortno ie bebek ve gebenin hastanede satşianna dair opikriz fermu ISM'y aldirilecekns, Ayrca ISM ce talep edilebilecek ek bilgı ve belgeler de ivedinkle ponderilecektr Ölu doğunı ve benek olumu цугм dogru yuplabibnesi sçs özellikle луи gin Çinle perçeklesen olürlerde, doßun ve öldns saa de ölüm nedenlerin. hem Penatal ve Bebel Cimleri Bilgi Formunda hem de ÖBS ne girişlerde dogru şekilde girilmesine acund dikL- edilecektir. Yenidogan epikriz farmu olarak. Ek-6 kullumlicakur
 
 e) 112 acil saglik Intaes birimleri, sevk sersanda meydana gelen dii doğumi ve behsk Ölümlerini Perinatal ve Behek Ökümleri Brigi Frimuna doldatarak, hebege ait kayıtlarla birlikte ISM ye bildire ektir
 
@@ -35,13 +38,11 @@ h) Ayrica (kamer adilen il turafindan, beka dte tidugu ve OBS de yer ainala trap
 
 0 Ölämin gerçekleştığı ve intelemeyi yapan il Bebek Ohimlerı Inceleme Kurulunun değerlendirmenn ardındon tesi erği durumlan ve kanalanm bebeğiu ikamet enti i'e dk Indireczlder.
 
-### T.C. SAĞLIK BAKANLIĞI – Halk Sağlığı Genel Müdürlüğü
 
-Sayr , 67414505 Konu / Bebek Ölümderi Izleme Sikenu
 
 i) Sahnda tespit extien pennatal ve nenek dilumderinin OBS'de olup elmadınun komrolu He Nufus ve Varundustk Isleri Genel Mudurlugünce bildirilurek OBS'de raporlanan vakalann legal ve incelemeleri i bebek olüimleri izleme sorumlusa tarshmdan takip eöileccktir, OB5'de olmayar vakılar, ISM istatistik ve hilgi işlem birimune hildirilscek olup, sisteme kaydinın yapaniruei bu hirimce sn glunorakbr
 
-4) Inceleme; Perinatal ve bebek ölümlerinin incelemesi olenin gergekleştigi il tarufndun yaralasakti. Ancak haşka hir al'e tedavisi açin sevk edilen ve volda Ojerek, göndertten kurusua ex duhul olarak gelen olu dogum ve bebek @lamlerinde bilirim ve incelemeler ikamet edilen il tamifndan унімакт Sitemıt kontrolir ve yüruttimesinden ISM sorumludur. Her ilde Bebek Ölümled Inselene Kurulu oluşturalscak, ve bu kurul aşagidaki uyelerden oluşacaktır, (N) I6 ve izeri illerde; I sağlik mudüru veya balk saBıgı hizmetlerinden sorumle haskan başk mo liganda: #) Çocuk, ergen, kadan ve theme sağdiğı hizmetlerinden sorumlu hinas sırumlusu, by Sıstem gırışleri kontrol ederek onaylayacak plan ISM bunyesiride yetkilendirilmiş bir hekım e) Kamu hastaneleri hizmetlerinden soramin Işkanken bir kışi (fereihen varsa frastane hizmetler birini sonimiast)
+4) Inceleme; Perinatal ve bebek ölümlerinin incelemesi olenin gergekleştigi il tarufndun yaralasakti. Ancak haşka hir al'e tedavisi açin sevk edilen ve volda Ojerek, göndertten kurusua ex duhul olarak gelen olu dogum ve bebek @lamlerinde bilirim ve incelemeler ikamet edilen il tamifndan унімакт Sitemıt kontrolir ve yüruttimesinden ISM sorumludur. Her ilde Bebek Ölümled Inselene Kurulu oluşturalscak, ve bu kurul aşagidaki uyelerden oluşacaktır, (N) I6 ve izeri illerde; I sağlik mudüru veya halk sağlığı hizmetlerinden sorumle haskan başk mo liganda: #) Çocuk, ergen, kadan ve theme sağdiğı hizmetlerinden sorumlu hinas sırumlusu, by Sıstem gırışleri kontrol ederek onaylayacak plan ISM bunyesiride yetkilendirilmiş bir hekım e) Kamu hastaneleri hizmetlerinden soramin Işkanken bir kışi (fereihen varsa frastane hizmetler birini sonimiast)
 
 ç) Sağlık hizmetlerinden sorumlu buşkanhktan bir kişi (leteiban üzel teşhiş tedavi merkezleri ya do beel yanukis birimi sacumlusu) dı Acil sağhi hizmetlerinden sorumlu hękenlıhtan bir kişt ttertten sati saghk hizmederi (arisi & muTaso)
 
@@ -57,9 +58,7 @@ h) Kadıi hastaliklar ve dogum versani
 
 1) Gerek gordiktiğn haferde Kunil Başkum İbtlyve Juyulan uzmandk dallanıntan lekinleri ve ISM Binmierni davet edebilir Jy Gerek gorkługo hallerde Kurdl, inceiemesini yapağt vaka de ilgıli olun mehk personelint davet edehilir. %) Ide üniversie varsa ilgıli anabilim dallarıdan kunim saglanardir
 
-### TC SAGLIK BAKANLIGI Hele -Sagirg Gene| Moduriago
 
-Suys 5741406K- Коли + Bebek Önimeri İzleme Sesenı
 
 B) (2-15 illerinde:
 
@@ -89,9 +88,7 @@ el Ayrıca Kural, sarın se aksaklıklar içın. gerek gördüğü hallerde ayr�
 
 F) Kuril dyesi olarak seçilen personelin ISV'ee belirlenen tarihlende görevlendirineal içir gorev yapuüı kurum tarahndan gereken kolaybık gaverlecek ve personelin bu abrevioden dulwy kirilda geçırdiy sore için çohsıkla kuraman ortalamasından ek odeme yapılraasi sağlanacakıo.
 
-### T.C SAGLIK BAKANLIGI Halk Safke Genel Müdurtig
 
-Sayr : 67414668- Konu / Bebek Ölümleri Izleme Sistemi
 
 8) Karul toplantsi seascunda Ek-5de yer alna Behek Otünieri Inecleme Kumi Karan Formu doldurulanik imza alıu almasak karul Byelerince paratlanan çallana formlatmo ilk sayfalun bu forma eklenecektir Kurul karan fontlar ve kurulda incelenen belgeler ISM'ce tuldaza edilęcektir. Bakanlık tarafından talep edilmeşı kalinde bir üreğr iheu eflecektı.
 
@@ -121,19 +118,16 @@ e) Moralite digitlerinin besaplanmusı ikamet edilen ile gire yapilacakur, Iller
 
 el Ölümlerin ulke, bolge ve il dazeyinde gorumlunmasinda veya performan: degerlendirmelerinde, Halk bağagı Genel Mudürtugn tarafından yıllık olarak açıklınarak, Bakachık merkez ve taşra birimleriyle paylasalan bebek de çocuk olum bizlar killanlacaktr.
 
-### TC SAGLIK BAKANLIGI Halk Saglıgı Gencl Mudapugu
 
-Sayı 67414668- Konu Bebek Ölümleri Izleme Sistemi
 
 9) Hakant@imusca yayımlanan 2009/31 sayili Genelge fe 2014/6 sayde Genelge yuruttakien kaldirimşen
 
 Bilgilerinizi ve yukanda yer alan wal ve esceların ilıniz genelindeki tum saghk kurum/ kurulaşama dayarlak titizlikle yygulanmas hususunda ilgililere emirlerinial onemle rica ederim.
 
-Pod. Dr. Eyup GOMÜS
+Prof. Dr. Eyüp GÜMÜŞ
 
-Bakun «
-
-Masteru
+Bakan a.
+Müsteşar
 
 ### EKLER
 

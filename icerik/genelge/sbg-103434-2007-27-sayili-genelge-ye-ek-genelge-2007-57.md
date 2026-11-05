@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103434/2007-27-sayili-genelge-ye-ek-ge
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

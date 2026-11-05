@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 860-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 7.3.5. Engelli Sağlık Kurulu Raporları Genelgesi (2019/2)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -22,8 +21,8 @@ Kamu Hastaneleri Genel Müdürlüğü
 Sayı : 87307621-402  
 Konu : Engelli Sağlık Kurulu Raporları
 
-### GENELGE  
-2019/2
+### GENELGE
+**2019/2**
 
 İlgi: 04.12.2017 tarihli ve 1613 sayılı Genelge.
 

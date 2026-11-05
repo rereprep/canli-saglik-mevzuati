@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103617/kamu-zarari-genelgesi-20205.htm
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.3.2. Kamu Zararı Genelgesi (2020/5)
@@ -24,7 +25,7 @@ Kamu zararlarına ilişkin sorguların, Sayıştay ilamı ile kesin hükme bağl
 
 Takibi yapılan Sayıştay ilamı ile kesin hükme bağlanmış kamu zararlarından nakden veya mahsuben yapılan tahsilat ile terkin, tenzil ve kaldırma işlemlerine ilişkin belgeler, 17/12/2011
 
-### 28145 sayılı Resmî Gazete’de yayımlanan Sayıştay Başsavcılığı
+28145 sayılı Resmî Gazete’de yayımlanan Sayıştay Başsavcılığı
 
 Yönetmeliğinin "İlamlarım infazının izlenmesi" başlıklı 9 uncu maddesine göre Sayıştay Başkanlığına, Genelgenin 1 inci maddesinde yazılı takibe yetkili yerlerce gönderilecektir.
 

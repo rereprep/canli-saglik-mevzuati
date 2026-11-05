@@ -10,7 +10,17 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 219-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
+### T.C. SAĞLIK BAKANLIĞI
+#### Sağlık Hizmetleri Genel Müdürlüğü
+
+**Sayı :** E-83913885-010.06.02/
+**Konu :** Kalp Krizi Geçiren Vakaların Yönetimi
+
+### GENELGE
+**2021/3**
 
 ### EK-I Kalp Krizi Geçiren Vakaların Yönetimine İlişkin Usul ve Esaslar
 

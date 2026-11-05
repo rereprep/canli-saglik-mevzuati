@@ -11,6 +11,7 @@ tarih: "2018-12-18"
 sayi: "2018/30"
 konu: "Pratisyen tabiplerin hasta yatırmalarını ve uzman tabiplerin çocuk ve erişkin hastalara bakma yaş sınırına ilişkin uygulamayı düzenler."
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -25,7 +26,7 @@ Konu: Pratisyen Tabiplerin Hasta Yatırmaları ve Uzman Tabiplerin Hasta Bakma Y
 
 İlgi: 20/07/2017 tarih ve E.02.3213 (2017/13) sayılı Genelge.
 
-Bilindiği üzere, 13.1.1983 tarihli ve 17927 sayılı Resmi Gazete'de yayımlanan Yataklı Tedavi Kurumları İşletme Yönetmeliği'nin 73 üncü maddesinde; "Yatan her hastanın tedavisi tabibin tertip ve tavsiyesi üzerine ilgili sağlık personeli tarafından sağlanır." hükmü yer almaktadır.
+Bilindiği üzere, 13.1.1983 tarihli ve 17927 sayılı Resmî Gazete'de yayımlanan Yataklı Tedavi Kurumları İşletme Yönetmeliği'nin 73 üncü maddesinde; "Yatan her hastanın tedavisi tabibin tertip ve tavsiyesi üzerine ilgili sağlık personeli tarafından sağlanır." hükmü yer almaktadır.
 
 Anılan hüküm gereğince, hasta veya yaralı olarak acil servise müracaat eden vatandaşlarımızın, uzman tabibin bulunmadığı durumlarda pratisyen tabipler tarafından acil servislerde müşahade amaçlı veya müşahade sonrası gerekiyor ise yataklı servislerde yatırılarak tedavisi sağlanabilir.
 
@@ -33,7 +34,7 @@ Pratisyen tabip tarafından müşahade edilen veya yatırılan hasta, gerektiği
 
 Ayrıca, uzman tabiplerin hasta bakma yaş sınırı ile ilgili olarak, uygulama birliği sağlanması için yapılacak işlemlere esas olmak üzere aşağıdaki şekilde uygulama yapılacaktır:
 
-1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunun 1 inci maddesinde yer alan "Türkiye Cumhuriyeti dâhilinde tababet icra ve her hangi surette olursa olsun hasta tedavi edebilmek için tıp fakültesinden diploma sahibi olmak şarttır." hükmü gereğince başta acil haller olmak üzere ihtiyaç duyulan hallerde, hastaların yaş kısıtlaması olmaksızın tabip veya çocuk/erişkin uzman tabipleri tarafından tedavi edilmesi esastır.
+1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunun 1 inci maddesinde yer alan "Türkiye Cumhuriyeti dâhilinde tababet icra ve herhangi surette olursa olsun hasta tedavi edebilmek için tıp fakültesinden diploma sahibi olmak şarttır." hükmü gereğince başta acil haller olmak üzere ihtiyaç duyulan hallerde, hastaların yaş kısıtlaması olmaksızın tabip veya çocuk/erişkin uzman tabipleri tarafından tedavi edilmesi esastır.
 
 4721 sayılı Türk Medeni Kanunu'nun 11'inci maddesinde erginliğin on sekiz yaşının ikmaliyle başlayacağı belirtilmiştir. Çocuk, 5237 sayılı Türk Ceza Kanunu'nda "henüz onsekiz yaşını doldurmamış kişi" ve Birleşmiş Milletler Çocuk Haklarına Dair Sözleşmenin birinci maddesinde de "on sekiz yaşından küçük insan" olarak tanımlamıştır. 24.03.2013 tarihli ve 28597 sayılı Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği'nde de çocuk hastalar 18 (onsekiz) yaş altı olarak belirlenmiş durumdadır.
 

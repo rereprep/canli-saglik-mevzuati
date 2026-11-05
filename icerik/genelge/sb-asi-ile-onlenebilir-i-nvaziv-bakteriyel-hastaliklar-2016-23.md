@@ -4,82 +4,59 @@ baslik: "Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansı Ge
 tur: "genelge"
 sayi: "2016/23"
 birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansı Genelgesi (2016/23) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["halk sağlığı", "aşı", "bağışıklama"]
+konu: "H. influenzae, S. pneumoniae ve N. meningitidis etkenli invaziv bakteriyel hastalıkların ulusal ve toplum temelli aktif sürveyansına ilişkin usul ve esaslar."
+etiketler: ["halk sağlığı", "aşı", "bağışıklama", "sürveyans"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 617-619"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-6.3.20. Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansı Genelgesi (2016/23)
-
 ### T.C. SAĞLIK BAKANLIĞI
+#### Türkiye Halk Sağlığı Kurumu
 
-Türkiye Halk Sağlığı Kurumu
-
-we golen Sad.
+**Sayı :** 21001706  
+**Konu :** Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansı Genelgesi
 
 ### VALİLİĞİNE
 
-Say: : 21001706 Konu : Api le Önlenebilir Imazis Bakteriyel
+### GENELGE
+**2016/23**
 
-Hastalıklar Sürveyansı Genelgesi
+1) Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansının amaçları:
 
-1) Aş ile Onlenebilir Invaziv Bakteriyel Hastalıklar Söreyansmu amaçlan:
+a) İnvaziv bakteriyel hastalık düzeyini ulusal düzeyde tahmin etmek.  
+b) *H. influenzae*, *S. pneumoniae* ve *N. meningitidis* nedeniyle oluşan invaziv bakteriyel hastalık düzeyini ulusal düzeyde tahmin etmek.  
+c) *H. influenzae*, *S. pneumoniae* ve *N. meningitidis*'in neden olduğu invaziv hastalıklarda mevcut serogrup/serotip dağılımını ve zaman içindeki değişimini takip etmek.  
+d) Gerektiğinde invaziv izolatlar arasında klonal ilişki ortaya konularak vakalar arasındaki epidemiyolojik bağlantıyı saptamak.  
+e) Antibiyotik direncinde zaman içerisinde olabilecek değişimi izlemek.  
+f) GBP kapsamında mevcut ve yeni aşıların kullanımına veya değişimine ilişkin kanıta dayalı karar vermek için ön bilgi sağlamak.  
+g) Bağışıklama programının ve aşıların etkililiğini hastalık düzeylerindeki ve serotiplerdeki değişimleri izleyerek değerlendirmek.  
+h) Ülkemiz için daha etkin olabilecek aşı formülasyonlarının oluşturulmasına katkıda bulunmak ve aşılama politikalarına yardımcı olmak.  
+i) İnvaziv meningokokal hastalık ve invaziv *H. influenzae* vakaları ile temas eden kişilerin ve kümelenme durumunun belirlenmesi ve riskli kişilere yönelik kontrol önlemlerinin alınmasını sağlamak.  
+j) İnvaziv pnömokokal hastalık vakalarının kümelenme durumunun belirlenmesi ve gerektiğinde kontrol önlemlerinin alınmasını sağlamak olarak belirlenmiştir.
 
-al Invaziv bakterivel hastank dünesini ulasal düzeyde tahmin emek.
+2) Bildirimi zorunlu bulaşıcı hastalıkların ülke genelindeki bildirimi Bulaşıcı Hastalıkların İhbar ve Bildirim Sistemi Genelgesi (2015/18) kapsamında yürütülmektedir. Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıklar Sürveyansı kapsamında yer alan hastalıkların bildirimi Türkiye Halk Sağlığı Kurumu (THSK) tarafından yayımlanan Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıkların Sürveyansı Rehberi'ne uygun olarak ulusal sürveyans yanı sıra belirlenmiş illerde toplum temelli aktif sürveyans ile yapılacaktır.
 
-b) J. inflzencee. & panaretioc se V. meninenals nedeniyle oluşan invaziv bakteriyel hastalik düzeyiai ulusal düzeyde tahmin etinck.
+a) Ulusal sürveyans kapsamında:  
+- Ülke genelinde hizmet veren tüm sağlık kurumlarından vaka sınıflaması şüpheli, olası, kesin olan invaziv meningokokal hastalıkların bildirimi.  
+- Ülke genelinde hizmet veren tüm yataklı tedavi kurum ve kuruluşlarından vaka sınıflaması kesin olan invaziv pnömokokal hastalıklar ile invaziv *H. influenzae* hastalıklarının bildirimi yapılacaktır.
 
-c) J. influenzce. S. peczsamine ne V. meningitifis in neden olduğu inaxiv hastalklarda meveut serogrup/serotip dağılımını ve zaman içindeki değişimini takip etmek.
+b) Toplum temelli aktif sürveyans kapsamında:  
+Ankara, Bursa, Samsun, Gaziantep ve İzmir illerinin merkez ilçelerindeki belirlenmiş olan hastanelerden; vaka sınıflaması şüpheli, olası, kesin olan invaziv meningokokal hastalıklar, invaziv pnömokokal hastalıklar ile invaziv *H. influenzae* hastalıklarının bildirimi yapılacaktır.
 
-d) Gerektiğinde insasis solalar arasanda klesal ilişki ortaya konularak vakalar atasındaki pidemiyolojik baglanty saplamak.
+3) Ulusal sürveyans kapsamında kesin invaziv meningokokal, invaziv pnömokokal hastalıklar ile invaziv *H. influenzae* hastalıklarda saptanan izolatlar Halk Sağlığı Müdürlükleri (HSM) tarafından kargo veya kurye ile THSK Mikrobiyoloji Referans Laboratuvarları Daire Başkanlığına (MRLDB) gönderilecektir.
 
-e) Antibiyotik direncinde zamun iperisinde olabilecek değisimi izlenek.
+4) Toplum temelli aktif sürveyans kapsamında olası bakteriyel menenjit, olası meningokokal menenjit, olası meningokokal sepsis hastalıklarından alınan klinik örneklere yönelik laboratuvar çalışması yapılamıyor ise örnekler, HSM tarafından THSK tarafından yetkilendirilmiş Halk Sağlığı Laboratuvarına gönderilecektir. Yataklı tedavi kurumları ile halk sağlığı laboratuvarlarında elde edilen izolatlar ve moleküler tabanlı yöntemlerle üçlü patojen araştırmasında pozitif tespit edilen klinik örnekler HSM tarafından THSK MRLDB'ye gönderilecektir.
 
-f) GRP kapsamanda meveut ve yuni aşıların kullanımana veya değişimine ilişkin kanıta davah karar vermek için Un bilgi saLumak.
+5) Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıkların Sürveyansında yürütülecek çalışmalarda kullanılmak üzere hazırlanan Rehber Genelgemiz ekinde yer almaktadır.
 
-g) Bağiuklama programan ve aşlann ekilidiğini hastalık düzeylerindeki ve serotiplerdeki değişimleri izlegerek degerlendirmek.
+Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıkların Sürveyansı Rehberi'nin tüm sağlık kurum ve kuruluşlarına tebliği ile il düzeyinde uygulamaların mezkûr Rehbere uygun olarak yürütülmesi hususunda bilgilerini ve gereğini rica ederim.
 
-h) Ulkemiz için daha etkin alabilecek aş formülasyonlerun oluşturulmasıne katkıda halunmak ve aglama politikalarna sardime olmak.
+Prof. Dr. Eyüp GÜMÜŞ  
+Bakan a.  
+Müsteşar
 
-i) Ivazi meningokokal hastalık ve invazis Aw/lenzo vakalan ile temas eden kişilerin ve kärelerene durmenaun belirlenenesi se tiskli başilere yönelik kontrol Onlemlerinin alamasın
-
-j) lavazis poémokokal hastalik sakalurnan kümelenme durumunun belirlenmesi ve gerektiğinde kontrol önlemlerinin altımasan sağlamuk olarak beärlenmiştir.
-
-21 Bildirimi zorunlu bulaşe bastadilarn obe panelindeki bildirimi Balaşie Hamalıkların Pahar ve Bildirim Sikemi Genelgesi (2015-18) kapsanunda yürütülmckledir. Aşı ile Onlenebilir Invaziv Bakteriyel Hastahklau Sürveganaı kapsamında ver alan hastahklanın hildirimi Türkiye Halk Sağlğı kurunu {TUSK| tarufundan sayılanda Aşı ile Önlenebilir Invaziv Bakteriyel Hastalıklann Sürveyansı Rehberi ne uygun olarak ulusıl sürveyans yamu stra belirlenmiş illerde toplum temelli aktif atrveyans ile yapılacaktır.
-
-a) Ulusal süreyans kapsamnda
-
-Olke genelinde hizmet veren süm saglık kurumlanndan vaka sınıflantası şüpheli. olası. kesin olan invaziv meningokokal hastalıkların bildirimi.
-
-Elke genelinde hizmet veren tüm pataklı tedavi kuram ve kuruluşlarından vaka sıniflamast kesin olun invadv prömokokel hastalıklar ile insavis Matlweev hastalklaran
-
-b) Toplum temelli aktil'sürevans kapsatunda: Ankara. Bursa. Samsu, Gazlantep te kmir illerinin merkez ilçelerindeki belirlenmiş olan hastanelerden; vaku sutlamusı süpheli. olas, kesin olan imazis meningokokal hastalıklar, imazi prömokokal hastahkiar ile insaxiv finfhewza hastalıklarmn bıldirimi yapılacaktır.
-
-### T.C. SAĞLIK BAKANLIĞI
-
-Türkiye Halk Sağlğı Kurumu *-O
-
-
-
-9009 « ЖУ: 473. Say: : 2100:706 Konu : Agle Onlenebilir Envaziv Bakteriyel
-
-Hastabklar Sureyansı Genelgesi
-
-3) Ulusal sürveyans kapsamında kesin invaziv meningokokal. invaziv prömokakal hastaliklar ile invaziv Aifareato hastaliklarda saplanan izolatlar Halk Sağig Modüzlökleri(HSM) taratindan kargo vega kurye ile THSK Mikrobiyoloji Keferans Labotauvarlan Daire Başkanlığana (MRLDB1 gönderlecektır.
-
-J) Toplum temelli aktif süneyans kapsamında olasi bakteriyel menenjit. olası meningokokal menenjit. olası meningokokal sepsis hastalıklarındar, ahınan klinik örneklere yönelik laboratuvar çalışması yapilanuyor ise trockler, HSM tarafindan THSK taratindan yetkilendirilmiş Halk Saglıgı Laboratuvarınu gönderilevektir. Yutukhı tedavi kurumlan ile halk suğlığı laboracuvarfarında elde edilen izolaılar ve molekuler tabanlı yöntemlerde üçtü patojen araştırmasında pozitif tespit edilen klinik örnekker HSM taratindan 'THSK MRLDB'ye gönderilecektir.
-
-5) As ile Önlenchilir Invaziv Batturigel Hastaliklann Sureyaner yürutulecek sahşmalarda kullarlmak üzere hazarlaran Rebber Genelyemiz skinde ser
-
-Agı ile Onlenebilir Invazy Bakterivel Hastalklrn Sie‹cyans Rehberi nin tüm sağhk kutum ve kuruluşlanna tebliği ile il düzeyinde uygulamaların mezkür Rehbere uygun olarak yürütülmesi hususunda bilgilerini ve gereğini rica ederim
-
-Prof. De. Eytip GU.MUS
-
-Bakan a.
-
-Müsteşar Ek: Aq ile Önlenebilir Inaziv Bakteriyel
-
-ustalikların Siirseyansı Rechberi..yfa) Dağıtım 81 1l Valiligine (Halk Sağlig Modadage)
+**Ek:** Aşı ile Önlenebilir İnvaziv Bakteriyel Hastalıkların Sürveyansı Rehberi  
+**Dağıtım:** 81 İl Valiliğine (Halk Sağlığı Müdürlüğü)

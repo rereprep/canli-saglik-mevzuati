@@ -15,15 +15,21 @@ duzeltildi: true
 
 10.2.2. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğü Yönergesi
 
-### SAĞLIK BAKANLIĞI TEFTIŞ KURULU BAŞKANLIGI RİSK ESASLI DENETİM SİSTEMİ KOORDİNATÖRLÜĞÜ YÖNERGESİ BİRİNCİ BÔLÜM Başlangı Hükümleri
+### SAĞLIK BAKANLIĞI TEFTİŞ KURULU BAŞKANLIĞI RİSK ESASLI DENETİM SİSTEMİ KOORDİNATÖRLÜĞÜ YÖNERGESİ
+
+## BİRİNCİ BÖLÜM Başlangıç Hükümleri
 
 #### Amaç ve kapsam
 
-**MADDE 1 –** (1) Bu Yönergenin amacı, Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlügünün organizasyon yapısı ve görevleri ile çalışma usul ve esaslarını düzenlemektir.
+**MADDE 1 –** (1) Bu Yönergenin amacı, Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğünün organizasyon yapısı ve görevleri ile çalışma usul ve esaslarını düzenlemektir.
 
-(2) Bu Yönerge, Teftiş Kurulu Başkankığı Risk Esaskı Denetim Sistemi Koordinatörlüğünün birimlerini ve bu birimlerce gerçekleştirilen iş ve işlemleri kapsar. Dayanak
+(2) Bu Yönerge, Teftiş Kurulu Başkanlığı Risk Esaslı Denetim Sistemi Koordinatörlüğünün birimlerini ve bu birimlerce gerçekleştirilen iş ve işlemleri kapsar.
 
-**MADDE 2 –** (1) Bu Yönerge, 23/8/2022 tarihli ve 31932 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığı Tefiş Kurulu Yönetmeliğinin 4 üncü maddesinin dördüncü fıkrasına dayanılarak hazırlanmıştır. Tanımlar
+#### Dayanak
+
+**MADDE 2 –** (1) Bu Yönerge, 23/8/2022 tarihli ve 31932 sayılı Resmî Gazete'de yayımlanan Sağlık Bakanlığı Teftiş Kurulu Yönetmeliğinin 4 üncü maddesinin dördüncü fıkrasına dayanılarak hazırlanmıştır.
+
+#### Tanımlar
 
 **MADDE 3 –** (1) Bu Yönergede geçen;
 
@@ -31,11 +37,11 @@ a) Bakan: Sağlık Bakanını,
 
 b) Bakanlık: Sağlık Bakanlığını,
 
-e) Başkan: Sağlık Bakanlığı Teftiş Kurulu Başkanımı,
+e) Başkan: Sağlık Bakanlığı Teftiş Kurulu Başkanını,
 
 ç) Başkanlık: Sağlık Bakanlığı Teftiş Kurulu Başkanlığını,
 
-d) Il temsilcisi: Il sağlık müdürü tarafindan il sağlık müdürlügu hizmet başkanları arasından belirlenen ve Risk Esaslı Denetim Sistemi Koordinatörlüğü tarafından yapilan bildirimlerin, sahaya yönelik olarak hazırlanan ekranların takibini gerçekleştiren ve merkezle koordinasyonu sağlayan görevliyi,
+d) İl temsilcisi: İl sağlık müdürü tarafından il sağlık müdürlüğü hizmet başkanları arasından belirlenen ve Risk Esaslı Denetim Sistemi Koordinatörlüğü tarafından yapılan bildirimlerin, sahaya yönelik olarak hazırlanan ekranların takibini gerçekleştiren ve merkezle koordinasyonu sağlayan görevliyi,
 
 e) Koordinatör: Risk Esaslı Denetim Sistemi Koordinatörünü,
 
@@ -43,17 +49,17 @@ e) Koordinatör: Risk Esaslı Denetim Sistemi Koordinatörünü,
 
 g) Risk Esaslı Denetim Sistemi (REDES): Sağlık hizmet sunumunda yolsuzluk, usulsüzlük veya israf riski taşıyan durumları veri madenciliği yöntemleriyle tespit eden modern ve dinamik teftiş sistemini,
 
-g) REDES Portal: REDES Koordinatörlugü bünyesinde gerçekleştirilen görev atama, dosyalama ve benzeri işlerin yürütüldüğü ve kayıt altına alındığı web tabanlı uygulamayı ifade eder.
+g) REDES Portal: REDES Koordinatörlüğü bünyesinde gerçekleştirilen görev atama, dosyalama ve benzeri işlerin yürütüldüğü ve kayıt altına alındığı web tabanlı uygulamayı ifade eder.
 
 ## İKİNCİ BÖLÜM
 
 #### Risk Esaslı Denetim Sistemi Koordinatörlüğünün Organizasyon Yapısı
 
-**MADDE 4 –** (1) Koordinatörlük, Koordinatöre bağlı olarak faaliyet gösteren; Istihbarat Birimi, Analiz Birimi, Raporlama Birimi ve Saha Biriminden oluşur. Koordinatör, Sağlık Bakanlığı Teftiş Kurulu Yönetmeliğinin 10 uncu maddesi uyarınca Başkana bağlı olarak görev yapar.
+**MADDE 4 –** (1) Koordinatörlük, Koordinatöre bağlı olarak faaliyet gösteren; İstihbarat Birimi, Analiz Birimi, Raporlama Birimi ve Saha Biriminden oluşur. Koordinatör, Sağlık Bakanlığı Teftiş Kurulu Yönetmeliğinin 10 uncu maddesi uyarınca Başkana bağlı olarak görev yapar.
 
-### ÜÇÜNCÜ BOLÜM
+## ÜÇÜNCÜ BÖLÜM
 
-#### Risk Esaskı Denetim Sistemi Koordinatörlüğünün Görevleri Koordinatörlügün görevleri
+#### Risk Esaslı Denetim Sistemi Koordinatörlüğünün görevleri
 
 **MADDE 5 –** (1) Koordinatörlük aşağıdaki görevleri yerine getirir:
 
@@ -63,7 +69,7 @@ b) Denetim kaynaklarının etkili ve verimli kullanılmasına katkı sağlamak,
 
 c) Bakanlık merkez ve taşra teşkilatına rehberlik yapmak,
 
-g) Bakanlık ya da paydaş kunınların politikalarına katkı sağlamak.
+ç) Bakanlık ya da paydaş kurumların politikalarına katkı sağlamak.
 
 #### Koordinatörün görevleri
 
@@ -77,39 +83,43 @@ c) Koordinatörlükçe oluşturulan, REDES raporu, değerlendirme raporu, faaliy
 
 ç) Başkanlığın diğer birimleriyle koordinasyonu sağlamak,
 
-d) Koordinatörluğün insan kaynakları yönetimini yapmak,
+d) Koordinatörlüğün insan kaynakları yönetimini yapmak,
 
 e) Koordinatörlükte görevli personelin eğitimine yönelik faaliyetleri yürütmek,
 
 f) Koordinatörlükte görevli personelin izin işlemlerini Başkanın onayına sunmak,
 
-#### g) Başkan tarafından verilen diğer görevleri yerine getirmek. İstihbarat Biriminin görevleri
+g) Başkan tarafından verilen diğer görevleri yerine getirmek.
 
-**MADDE 7 –** (1) Istihbarat Birimi aşağıdaki görevleri yerine getirir:
+#### İstihbarat Biriminin görevleri
+
+**MADDE 7 –** (1) İstihbarat Birimi aşağıdaki görevleri yerine getirir:
 
 a) Sağlık hizmet sunumunda yolsuzluk, usulsüzlük ve israfa neden olan konuları tespit etmek,
 
-b) Inceleme-sorușturma raporlarini incelemek,
+b) İnceleme-soruşturma raporlarını incelemek,
 
 c) Raportör ve müfettiş görüşmelerini gerçekleştirmek,
 
 ç) Uzman görüşmesi gerçekleştirmek,
 
-d) Basıni takip etmek,
+d) Basını takip etmek,
 
-e) Istihbarat raporu hazirlamak,
+e) İstihbarat raporu hazırlamak,
 
 f) Değerlendirme raporu hazırlamak,
 
 g) Muhakkik rehberi hazırlamak,
 
-g) Merkez ve taşra teşkilatına yönelik rehberlik çalışması yapmak,
+ğ) Merkez ve taşra teşkilatına yönelik rehberlik çalışması yapmak,
 
 h) Mevzuat geliştirme çalışması yapmak,
 
 1) Yürütülen iş ve işlemlerle ilgili tüm bilgi ve belgeleri REDES Portala kaydetmek,
 
-#### i) Koordinatör tarafından verilen diğer görevleri yerine getirmek. Analiz Biriminin görevleri
+i) Koordinatör tarafından verilen diğer görevleri yerine getirmek.
+
+#### Analiz Biriminin görevleri
 
 **MADDE 8 –** (1) Analiz Birimi aşağıdaki görevleri yerine getirir:
 
@@ -117,7 +127,7 @@ a) Sağlık hizmet sunumunda yolsuzluk, usulsüzlük ve israfa neden olan konula
 
 b) Veri temin etmek,
 
-e) Tanımlayıcı istatistikleri oluşturmak,
+c) Tanımlayıcı istatistikleri oluşturmak,
 
 ç) Analiz çalışması yapmak,
 
@@ -125,25 +135,27 @@ d) REDES raporu hazırlamak,
 
 e) Değerlendirme raporu hazırlamak,
 
-f) REDES analizlerinden kaynaklanan inceleme-soruşturma işlerinde müfettişlerden ve REDES risk alanlarına giren konularda iç ve dış paydaşlardan gelen talepleri karşılarnak,
+f) REDES analizlerinden kaynaklanan inceleme-soruşturma işlerinde müfettişlerden ve REDES risk alanlarına giren konularda iç ve dış paydaşlardan gelen talepleri karşılamak,
 
 g) Yürütülen iş ve işlemlerle ilgili tüm bilgi ve belgeleri portala kaydetmek,
 
-g) Yönetici Bilgi Ekranı oluşturmak,
+ğ) Yönetici Bilgi Ekranı oluşturmak,
 
 h) REDES raporunda yer verilen önerileri takip etmek,
 
-#### 1) Koordinatör tarafindan verilen diğer görevleri yerine getirmek. Raporlama Biriminin görevleri
+ı) Koordinatör tarafından verilen diğer görevleri yerine getirmek.
+
+#### Raporlama Biriminin görevleri
 
 **MADDE 9 –** (1) Raporlama Birimi aşağıdaki görevleri yerine getirir:
 
-a) Altı aylık ve yıllık faaliyet raporlarım hazırlamak,
+a) Altı aylık ve yıllık faaliyet raporlarını hazırlamak,
 
-b) Iş süreçlerine yönelik doküman hazırlamak,
+b) İş süreçlerine yönelik doküman hazırlamak,
 
-e) Yıllık strateji belgesi hazırlamak,
+c) Yıllık strateji belgesi hazırlamak,
 
-g) Saha faaliyetleri ve benzeri çalışmaların sonuç raporunu hazırlamak.
+c) Saha faaliyetleri ve benzeri çalışmaların sonuç raporunu hazırlamak,
 
 d) Broşür, video ve benzeri içerik üretmek,
 
@@ -151,7 +163,9 @@ e) Sosyal medya içeriği üretmek, f REDES web sitesine içerik üretmek.
 
 g) Basın bültenini raporlamak,
 
-#### g) Koordinatör tarafindan verilen diğer görevleri yerine getirmek. Saha Biriminin görevleri
+ğ) Koordinatör tarafından verilen diğer görevleri yerine getirmek.
+
+#### Saha Biriminin görevleri
 
 **MADDE 10 –** (1) Saha Birimi aşağıdaki görevleri yerine getirir:
 
@@ -161,9 +175,9 @@ b) Iç-dış paydaşlarla koordinasyon sağlamak.
 
 e) Il temsilcilerinden gelen bilgileri derleyip istihbarat birimine aktarmak,
 
-g) Illerden veri talep etmek, düzenlemek ve kayıt altına almak,
+g) İllerden veri talep etmek, düzenlemek ve kayıt altına almak,
 
-d) Sahada ilgili birimlerle temas kurarak merkezden elde edilen verileri doğrulamak, ø) Fiilen sahada veya çevrimiçi yöntemlerle gerçekleştirilen saha faaliyetlerinin, çalıştay, toplantı ve benzeri etkinliklerin koordinasyonunu sağlamak,
+d) Sahada ilgili birimlerle temas kurarak merkezden elde edilen verileri doğrulamak, f) Fiilen sahada veya çevrimiçi yöntemlerle gerçekleştirilen saha faaliyetlerinin, çalıştay, toplantı ve benzeri etkinliklerin koordinasyonunu sağlamak,
 
 1) Koordinatör tarafından verilen diğer görevleri yerine getirmek.
 
@@ -173,16 +187,18 @@ d) Sahada ilgili birimlerle temas kurarak merkezden elde edilen verileri doğrul
 
 **MADDE 11 –** (1) REDES kapsamında merkez ve taşra teşkilatında verilecek eğitimlere ilişkin mali hususlar aşağıda sıralanmıştır:
 
-a) REDES kapsamında taşta teşkilatında verilecek eğitimlerde, eğiticilere il dışı görevleri için 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre gündelik, konaklama, yol bedeli ve ayrica varsa eğitimin icrasıyla ilgili diğer zorunlu masrafları ödenir.
+a) REDES kapsamında taşra teşkilatında verilecek eğitimlerde, eğiticilere il dışı görevleri için 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre gündelik, konaklama, yol bedeli ve ayrica varsa eğitimin icrasıyla ilgili diğer zorunlu masrafları ödenir.
 
-b) Eğitime katılanların gündelik, konaklama ve yol bedelleri kendi kurum ve kuruluşlanınca 6245 sayılı Kanun hükümlerine göre ödenir. Katılımcılara gündelik, konaklama ve yol bedeli haricinde ayrıca bir ödeme yapılmaz.
+b) Eğitime katılanların gündelik, konaklama ve yol bedelleri kendi kurum ve kuruluşlarınca 6245 sayılı Kanun hükümlerine göre ödenir. Katılımcılara gündelik, konaklama ve yol bedeli haricinde ayrıca bir ödeme yapılmaz.
 
-c) Yönerge çerçevesinde eğitim vermek üzere görevlendirilen eğiticilere; 14/7/1965 tarihli ve 657 sayıl Devlet Memurları Kanununun 89 uncu ve 176 neı maddeleri, 11/12/2009 tarihli ve B.10.0.SEG.0.72.00.03-010.03/15296 sayılı Bakanlık Makam Onayı ile yürürlüğe giren Sağlık Bakanlığı Hizmet Içi Eğitim Yönetmeliğinin 39 uncu maddesi, 07/10/1994 tarihli ve 94/6192 sayılı Bakanlar Kurulu Karan ile 20/12/1994 tarihli ve 22147 sayılı Resmi Gazete'de yayımlanan Sağlık Bakanlığına Bağlı Her Derecedeki Eğitim ve Oğretim Kurumları ile Hizmet Içi Eğitim Kurs ve Seminerlerde Ücretle Okutulacak Ders Saatlerinin Sayısı, Ders Görevi Alacakların Nitelikleri ve Diğer Hususlara Dair Esaslara dayamlarak eğitim ücreti ödenebilir.
+c) Yönerge çerçevesinde eğitim vermek üzere görevlendirilen eğiticilere; 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 89 uncu ve 176 ncı maddeleri, 11/12/2009 tarihli ve B.10.0.SEG.0.72.00.03-010.03/15296 sayılı Bakanlık Makam Onayı ile yürürlüğe giren Sağlık Bakanlığı Hizmet İçi Eğitim Yönetmeliğinin 39 uncu maddesi, 07/10/1994 tarihli ve 94/6192 sayılı Bakanlar Kurulu Kararı ile 20/12/1994 tarihli ve 22147 sayılı Resmî Gazete'de yayımlanan Sağlık Bakanlığına Bağlı Her Derecedeki Eğitim ve Öğretim Kurumları ile Hizmet İçi Eğitim Kurs ve Seminerlerde Ücretle Okutulacak Ders Saatlerinin Sayısı, Ders Görevi Alacakların Nitelikleri ve Diğer Hususlara Dair Esaslara dayanılarak eğitim ücreti ödenebilir.
 
 ## BEŞİNCİ BÖLÜM Son Hükümler
 
 #### Yürürlük
 
-**MADDE 12 –** (1) Bu Yönerge, Bakan Onayı ile yürürlüğe girer. Yürütme
+**MADDE 12 –** (1) Bu Yönerge, Bakan Onayı ile yürürlüğe girer.
+
+#### Yürütme
 
 **MADDE 13 –** (1) Bu Yönerge hükümlerini Bakan yürütür.

@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 664-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.31. Kırım-Kongo Kanamalı Ateşi Genelgesi (2006/81)
@@ -60,7 +61,7 @@ Diğer taraftan, KKKA ile ilgili hususlar Bilimsel Danışma Kurulunda da görü
   - Kenelerin hiçbir şekilde elle patlatılmaması ve öldürülmemesi,
   - Ayrıca, keneleri vücuttan uzaklaştırmak amacıyla, gazyağı ve kolonya gibi kimyasal maddeleri dökmek veya yanan sigarayı ve kibriti keneye değdirmek gibi yöntemlere başvurulmaması olduğu; bu sebeple de toplumun ve sağlık çalışanlarının eğitimlerine devam edilmesi yönünde kanaat hâsıl olmuştur.
 
-Keyfiyete ilişkin olarak bilgilerinizi, yukarıda belirtilen konular ile halkın ve sağlık çalışanlarının bilgilendirilmesi ve bilinçlendirilmesine yönelik çalışmaların Bakanlığımız tarafından gönderilen eğitim materyalleri çerçevesinde yapılmasının temini yanında, genelgemizin ilgili bütün kurum ve kuruluşlara da ulaştırılmasının sağlanması hususlarında
+Keyfiyete ilişkin olarak bilgilerinizi, yukarıda belirtilen konular ile halkın ve sağlık çalışanlarının bilgilendirilmesi ve bilinçlendirilmesine yönelik çalışmaların Bakanlığımız tarafından gönderilen eğitim materyalleri çerçevesinde yapılmasının temini yanında, genelgemizin ilgili bütün kurum ve kuruluşlara da ulaştırılmasının sağlanması hususlarında ilgililere emirlerinizi rica ederim.
 
 Prof. Dr. Necdet ÜNÜVAR
 Bakan a.

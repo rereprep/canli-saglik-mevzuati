@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 745-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 6.3.59. Gebelere Demir ve D Vitamini Destek Uygulamaları Genelgesi (2020/4)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -22,8 +21,8 @@ Halk Sağlığı Genel Müdürlüğü
 Sayı : 57536863  
 Konu : Gebelere Demir ve D Vitamini Destek Uygulamaları
 
-### GENELGE  
-2020/4
+### GENELGE
+**2020/4**
 
 Anne ve bebek sağlığı açısından ciddi bir tehdit olan aneminin ve eksikliği yaygın olarak gözlenen D vitamini yetersizliğinin önlenebilmesi amacıyla Gebelere Demir Destek Programı ile Gebelere D vitamini Destek Programı uygulanmaktadır.
 

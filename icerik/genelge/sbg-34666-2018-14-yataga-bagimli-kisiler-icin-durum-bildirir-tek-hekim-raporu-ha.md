@@ -11,6 +11,7 @@ tarih: "2018-04-30"
 sayi: "2018/14"
 konu: "Seyyar sandık talebi için yatağa bağımlı seçmenlere aile hekimlerince e-Rapor sistemi üzerinden durum bildirir tek hekim sağlık raporu düzenlenmesini ister."
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -53,7 +54,7 @@ Ek:
 
 ### YATAĞA BAĞIMLI SEÇMENLER İÇİN DURUM BİLDİRİR TEK HEKİM SAĞLIK RAPORU
 
-Verilme nedeni; 27'nci Yasama Dönemi Milletvekili Genel Seçimi Ve Cumhurbaşkanlığı Seçimi Seyyar Sandık Kurulu Talebi İçin Verilmek Üzere
+Verilme nedeni: 27'nci Yasama Dönemi Milletvekili Genel Seçimi ve Cumhurbaşkanlığı Seçimi seyyar sandık kurulu talebi için verilmek üzere
 
 | HASTANIN/ENGELLİNİN: | |
 | --- | --- |
@@ -62,7 +63,7 @@ Verilme nedeni; 27'nci Yasama Dönemi Milletvekili Genel Seçimi Ve Cumhurbaşka
 | Doğum Tarihi: | Telefon Numarası: |
 | Adres: | |
 
-TANI(LAR)/ BULGU(LAR):
+TANI(LAR)/BULGU(LAR):
 
 KARAR:
 

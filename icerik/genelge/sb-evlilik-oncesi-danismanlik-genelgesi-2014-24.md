@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 752-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 6.3.61. Evlilik Öncesi Danışmanlık Genelgesi (2014/24)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -22,8 +21,8 @@ Türkiye Halk Sağlığı Kurumu
 Sayı: 57536863/233/02  
 Konu: Evlilik Öncesi Danışmanlık
 
-### GENELGE  
-2014/24
+### GENELGE
+**2014/24**
 
 Aile; toplumun temeli ve çekirdeğidir. Sağlıklı nesillerin yetiştirildiği bir ocak, sevgi, saygı, sadakat ve güven ortamının tesis edildiği bir müessese, karşılıklı hak ve ödevlere sahip bireylerin oluşturduğu bir yuvadır. Sağlıklı nesiller bu yuvalarda yetişir. Aile ne kadar sağlam ve sağlıklı temellere oturur ise, toplum da o nispette sağlam ve sağlıklı olur. Evlilik toplumun sağlıklı idamesinde çok önemli bir kurumdur ve kanunlarla korunmuştur.
 

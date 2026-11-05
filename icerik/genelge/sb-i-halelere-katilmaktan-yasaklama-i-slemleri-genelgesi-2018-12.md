@@ -10,9 +10,21 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1085
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
- 20, 22 ve 26 ne make 84kam fermin uygulanacağı belirtilmektedir
+### T.C. SAĞLIK BAKANLIĞI
+#### Strateji Geliştirme Başkanlığı
+
+**Sayı :** 64047795-010.06/
+**Konu :** İhalelere Katılmaktan Yasaklama İşlemleri
+
+### GENELGE
+**2018/12**
+
+4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu kapsamında ihalelere katılmaktan yasaklama işlemlerinde uyulacak usul ve esaslar şunlardır:
+
+a) Kanunun 17, 20, 22 ve 26 ncı maddelerinde belirtilen fiil veya davranışlarda bulunanlar hakkında yasaklama kararı verilir. 84kam fermin uygulanacağı belirtilmektedir
 
 b) Kanunun 22 nel maddesinde: 19, 20 ve 21 inci maddekre güre stizleşmenin feshedilmesi halinde, yükleniciler hakkanda 26 nez madde hakamlerine göre işlem yapılacağ belirtilmektedir.
 
@@ -174,11 +186,11 @@ S- Fesih karun ve ku kararın yükleniciye bildirikliğine doir belge.
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
-Prof. Dr. Eyúp GOMDS
+Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Müstger
+Müsteşar
 
 ### DAGITIM
 

@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 357-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Temel Sağlık Hizmetleri Genel Müdürlüğü
@@ -18,7 +19,8 @@ Sayı: B100TSH0160001
 Konu: Ambulans Hizmetleri Koordinasyonu  
 22.02.2005 — 2389
 
-### GENELGE (2005/30)
+### GENELGE
+**2005/30**
 
 …… VALİLİĞİNE  
 (İl Sağlık Müdürlüğü)

@@ -9,21 +9,22 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103582/kalp-merkezi-hizmetleri-genelge
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.36. Kalp Merkezi Hizmetleri Genelgesi (2019/14)
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-T.C. SAĞLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
+### EK-1. Kalp Merkezlerine İlişkin Usul ve Esaslar
 
-### SAĞLIK HIZMETLERE GENEL MUDORLUGO EK-1 KALP MERKEZLERİNE ILIŞKİN USUL VE ESASLAR 1. GENEL ESASLAR
+### 1. Genel Esaslar
 
 1.1. Bu genelge kamu, üniversite ve özel sektöre ait tüm sağlık tesislerini kapsar.
 
 1.2. Bünyesinde kardiyoloji ve kalp damar cerrahisi hizmeti verilen hastanelerden açık kalp cerrahisi ameliyatlarının ve girişimsel kardiyoloji işlemlerinin birlikte ve koordineli yapıldığı hastaneler bünyesinde kurulan birimler "kalp merkezi" olarak tanımlanır. Girişimsel kardiyoloji işlemleri ifadesi anjiyografi cihazı ile katater laboratuvarlarında yapılan tüm kardiyolojik işlemleri kapsar.
 
-1.3. Kalp merkezleri Sağlık Bakanlığı izni ile açılır ve tescil edilir. Kalp merkezlerinin planlanması ve işleyişi bu genelge hükümlerine göre yapılır. Bakanlıkça kalp merkezi olarak tescil edilmemiş sağlık tesislerinde girişimsel kardiyolojik işlemler veya açık kalp cerrahisi yapılamaz. Tanı ve tedavi amaçlı girişimsel kardiyolojik işlemler açık kalp cerrahisi yapılmayan hastanelerde yapılamaz. Ancak aynı yerleşke içerisinde kalp cerrahisi yapılan bir merkezin olması durumunda tanı ve tedavi amaçlı girişimsel kardiyolojik işlemler yapılabilir. Açık kalp cerrahisi yapılamayan ancak Bakanlıkça yapılan stratejik planlamalarda ihtiyaç duyulan merkezlerde, kamu hastaneleri bünyesinde en yakın ildeki açık kalp cerrahisi yapılan kliniklerle koordinasyon sağlanarak tamı ve tedavi amaçhı girişimsel kardiyolojik işlemlerin yapılmasına izin verilebilir.
+1.3. Kalp merkezleri Sağlık Bakanlığı izni ile açılır ve tescil edilir. Kalp merkezlerinin planlanması ve işleyişi bu genelge hükümlerine göre yapılır. Bakanlıkça kalp merkezi olarak tescil edilmemiş sağlık tesislerinde girişimsel kardiyolojik işlemler veya açık kalp cerrahisi yapılamaz. Tanı ve tedavi amaçlı girişimsel kardiyolojik işlemler açık kalp cerrahisi yapılmayan hastanelerde yapılamaz. Ancak aynı yerleşke içerisinde kalp cerrahisi yapılan bir merkezin olması durumunda tanı ve tedavi amaçlı girişimsel kardiyolojik işlemler yapılabilir. Açık kalp cerrahisi yapılamayan ancak Bakanlıkça yapılan stratejik planlamalarda ihtiyaç duyulan merkezlerde, kamu hastaneleri bünyesinde en yakın ildeki açık kalp cerrahisi yapılan kliniklerle koordinasyon sağlanarak tanı ve tedavi amaçlı girişimsel kardiyolojik işlemlerin yapılmasına izin verilebilir.
 
 1.4. Kalp merkezlerini planlanmak, başvuruları dosya bazında veya gerektiğinde yerinde incelemek, mevcut merkezlerin standartlara uygunluğunu değerlendirmek, merkezler ile ilgili şikayetleri incelemek, kardiyoloji ve kalp damar cerrahisi hizmetleri ve faaliyetleri konusunda tıbbi teknolojik gelişmelere paralel olarak, tüm işlevleri tavsiye niteliğinde olmak üzere Bakanlıkça Kalp ve Damar Hastalıkları Bilimsel Çalışma ve Değerlendirme Komisyonu kurulur.
 
@@ -31,13 +32,9 @@ T.C. SAĞLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
 
 ### 2. KALP MERKEZLERİNİN STANDARTLARI VE PLANLAMA ESASLARI
 
-2.1. Kalp merkezinde kalp ve damar cerrahisi kliniği, kardiyoloji kliniği, anjiyografi cihazı kurulu katater laboratuvarı, Bakanlıkça tescil edilmiş ikinci seviye en az dört yataklı koroner yoğun bakım servisi, üçüncüi seviye en az beş yataklı (dört yatak+ bir izolasyon odası) kalp ve damar cerrahisi yoğun bakım servisi ve iki adet kalp damar cerrahisi ameliyat salonu bulunur. Ancak bu genelgenin yayınlanmasından önce hizmet veren merkezlerde en az bir kalp
+2.1. Kalp merkezinde kalp ve damar cerrahisi kliniği, kardiyoloji kliniği, anjiyografi cihazı kurulu katater laboratuvarı, Bakanlıkça tescil edilmiş ikinci seviye en az dört yataklı koroner yoğun bakım servisi, üçüncü seviye en az beş yataklı (dört yatak+ bir izolasyon odası) kalp ve damar cerrahisi yoğun bakım servisi ve iki adet kalp damar cerrahisi ameliyat salonu bulunur. Ancak bu genelgenin yayınlanmasından önce hizmet veren merkezlerde en az bir kalp
 
-### T.C. SAĞLIK BAKANLIĞI
 
-T.C. SAĞLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
-
-### SAGLIC HIZMETLERI GENEL MUDURLUGU
 
 damar cerrahisi ameliyat salonu bulunabilir. Bu merkezlerden yıllık 250 açık kalp cerrahisi ameliyatı, 2.500 tanı ve tedavi amaçlı girişimsel kardiyolojik işlem yapılan merkezlerde en az iki kalp damar cerrahisi ameliyat salonu bulunmalıdır.
 
@@ -69,9 +66,7 @@ yapılan kalp merkezlerinde yıllık 100'den az açık kalp cerrahisi ameliyatı
 
 2.8. Kalp merkezi bünyesinde açık kalp cerrahisi ameliyatlarının ve bu maddenin 2.8.3 bendinde sayılan girişimsel kardiyoloji işlemlerinin birlikte ve koordineli yapılabilmesi ve
 
-### T.C. SAĞLIK BAKANLIĞI
-
-T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+metleri Genel Müdürlüğü
 
 ### SAĞLIK HIZMETLERI GENEL MUDURLUGO
 

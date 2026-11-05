@@ -11,6 +11,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.3.7. Kamu İdarelerine Bağlı Sağlık Kurum ve Kuruluşlarının Birbirlerinden Yapacakları Mal ve Hizmet Alımları Genelgesi (2018/01)

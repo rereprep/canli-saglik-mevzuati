@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 251-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 2.3.44. Engelli Sağlık Kurulu Raporları Genelgesi (2018/4)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -22,8 +21,8 @@ Sağlık Hizmetleri Genel Müdürlüğü
 Sayı : 23642684/  
 Konu : Engelli Sağlık Kurulu Raporları
 
-### GENELGE  
-2018/4
+### GENELGE
+**2018/4**
 
 Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik'in Özürlü sağlık kurulu raporunun geçerlilik süresi başlıklı 13'üncü maddesinde
 

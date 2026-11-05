@@ -10,15 +10,22 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 784-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-6.3.74. Adli Tabiplik Hizmetlerinin Yürütülmesinde Uyulacak Esaslar Genelgesi (2005/143)
+### T.C. SAĞLIK BAKANLIĞI
+#### Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-d) Mahkeme, her zaman bilirkişinin duruşmada dinlenmesine karar verebilecegi gibi. ilgililerden birinin istemesi halinda de açıklamalarda bulunmak azere duruşmaya çağırabilir.
+**Sayı :** B.10.0.TSH.0.10.00.03-010.06/16147  
+**Konu :** Adli Tabiplik Hizmetlerinin Yürütülmesinde Uyulacak Esaslar  
+**Tarih :** 22.09.2005
 
-Adli tabiplik hizmetlerinde resmi bilirkişilik yetkisi
+### GENELGE
+**2005/143**
 
-14. Adli tabiplik hizmetleri esasen ve öncelikle Adli Tıp Kurumu'na bağlı birimlerce yürütülmek durumundadır. Mahkemeler ile häkimlikler ve Cumhuriyet savcıhklan tarafindan gönderilen adli tıpla ilgili konularda bilimsel ve teknik görüş bildirmek üzere, 2659 sayılı Adli Tıp Kurumu Kanunu ile Adalet Bakanlığina bağlı Adli Tıp Kurumu tesis edilmiş olup; bu Kuruma bağlı şube müdürlükleri, kurulu bulundukları yerlerde adli tıp hizmetlerini yerine getirmekle yükümlü kılınmışlardır. Diğer yandan, sözü edilen Kanunun 3l'inci maddesi gereğince yüksek ogretim kurumlarımın/universitelerin adli tıpla ilgili bölüm veya bilimlerinde çalışan uzmanlar, adli olaylarda resmi bilirkişi sayılmışlardır.
+**1. ADLİ TABİPLİK HİZMETLERİNDE RESMİ BİLİRKİŞİLİK YETKİSİ**
+
+1.1. Adli tabiplik hizmetleri esasen ve öncelikle Adli Tıp Kurumu'na bağlı birimlerce yürütülmek durumundadır. Mahkemeler ile häkimlikler ve Cumhuriyet savcıhklan tarafindan gönderilen adli tıpla ilgili konularda bilimsel ve teknik görüş bildirmek üzere, 2659 sayılı Adli Tıp Kurumu Kanunu ile Adalet Bakanlığina bağlı Adli Tıp Kurumu tesis edilmiş olup; bu Kuruma bağlı şube müdürlükleri, kurulu bulundukları yerlerde adli tıp hizmetlerini yerine getirmekle yükümlü kılınmışlardır. Diğer yandan, sözü edilen Kanunun 3l'inci maddesi gereğince yüksek ogretim kurumlarımın/universitelerin adli tıpla ilgili bölüm veya bilimlerinde çalışan uzmanlar, adli olaylarda resmi bilirkişi sayılmışlardır.
 
 Keza, adli tabiplik hizmetleri, Adli Tıp Kurumu Kanunu'nun ve 224 sayılı Sağlık Hizmetlerinin Sosyalleştirilmesi Hakkında Kanun'un 10 uncu maddelerine istinaden büyük ölçüde Sağlık Bakanlığı kuruluşlarınca da yerine getirilmektedir.
 
@@ -74,23 +81,23 @@ Adli vakaların yetkili resmi mereilerce gönderilme zorunluluğu
 
 3.14. Ceza Muhakemesinde Beden Muayenesi, Genetik İncelemeler ve Fizik Kiraliğin Tespiti Hakkında Yönetmelik kapsamı
 
-### Şüpheli veya sark azerinde iç beden wanyenesi yapılabilmesi ya da vücudundan kan
+a) Şüpheli veya sanık üzerinde iç beden muayenesi yapılabilmesi ya da vücudundan kan
 
 veya benzeri biyolojık örneklerle sa k veya tükrük gıbı ömmeklerin alınabılmesi için, håkim, mahkeme veya gocikmesinde sakıne a bulunan hallerde Cumhuriyet savesının karan ve istemı gerekir. Cinsel organlar ve anüs bölgesinde yapılacak muayeneler de iç beden muayenesi kapsamında değerlendirilecektir. Şüpheli veya sarık üzerinde dıy beden umayenesi, häkim, mahkeme veya Cumhuriyct savcısı ile emrindeki adli kolluk görevlilerinin talebiyle yapılabilir.
 
-### Mağdurma vücudu tızerinde dış ve iç beden muayenesi yapılabilmesi ya da kan veya
+b) Mağdurun vücudu üzerinde dış ve iç beden muayenesi yapılabilmesi ya da kan veya
 
 benzeri biyolojik öneklerle saç, tırnak veya tükrük gibi örneklerin alınabilmesi için, håkim, mahkeme veya gecikmesinde sakınca bulunan hallerde Cumhuriyet savesının karan ve istemi
 
-### Genital muayene tałeplerinde mutlaka håkim, mahkeme veya gecikmesinde sakınca
+c) Genital muayene taleplerinde mutlaka hâkim, mahkeme veya gecikmesinde sakınca
 
 bulunan hallerde Cumhuriyet savesının karan aranacaktur.
 
-### Çocuğun soybağıın araştırılmanı amacıyla yapılacak işlemler için, håkım veya
+ç) Çocuğun soybağının araştırılması amacıyla yapılacak işlemler için, hâkim veya
 
 mahkeme karan veya gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının karan gerekir.
 
-### Suçun aydınlatılmasıı sağlamak amacıyla şüpkefi, sarak veya diğer kişiferin kendi
+d) Suçun aydınlatılmasını sağlamak amacıyla şüpheli, sanık veya diğer kişilerin kendi
 
 rafarı ile bayuruları hafinde, soruşturma sathasında Cumhuriyet savcısının, kovuşturna aşamasında håkim veya mahkeme karan ile tıbbi muayeneleri yapılabilir ya da vücutlarından ömek
 
@@ -264,7 +271,7 @@ Mahkümların muayenesi
 
 Ilinizdeki adli tip hizmetlerinin, bu Genelgede belirtilen hususlar dikkate almarak ve insan haysiyeti ile temel hak ve hürriyetlerin mahiyetine uygun olarak yurtlımesini; bøylelikle bu hizmet ile ilşıli olarak ulusal ve uluslararası yargı kurulışları ve diğer kuruluşlar nezdinde oluşabilecek problemlere ve saglık personeli hakkında ileri surilebilecek haksız ithamlara mahal verilmemesini; getirilen düzenlemelerin adli tabiplik hizmetlerinin yürütülmesinden sorumlu olan tüm kurum ve kuruluy sorumlularına ve uygulayıcılarına tebliğini ve siz konusu düzenlemelerin aciliyet ve hassasiyetle uygulamaya konulmasını önemle rica ederim.
 
-Prot.Dr.Recep AKDAG
+Prof. Dr. Recep AKDAĞ
 
 Bakan
 
@@ -278,6 +285,6 @@ Bakan
 
 ### DAĞITIM:
 
-Gereği: 8I h Valiliği * * * * *
+Gereği: 81 İl Valiliği * * * * *
 
 

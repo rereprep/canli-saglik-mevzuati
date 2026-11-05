@@ -9,19 +9,22 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103587/klinik-kalite-uygulama-ve-veri-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.14. Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi Genelgesi (2019/15)
 
-### SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü
 
-değişiklik yapılmasını gerektirmesi sebebiyle söz konusu rehber güncellenmiştir. Güncel rehbere http://kalite.saglik.gov.tr/ ve http://klinikkalite,saglik.gov.tr/ adreslerinden ulaşılabilmektedir. Bu genelgenin yürürlüğe girdiği tarihten itibaren, ilgide kayıtlı Genelge yürürlükten kaldırılmıştır.
+değişiklik yapılmasını gerektirmesi sebebiyle söz konusu rehber güncellenmiştir. Güncel rehbere http://kalite.saglik.gov.tr/ ve http://klinikkalite.saglik.gov.tr/ adreslerinden ulaşılabilmektedir. Bu genelgenin yürürlüğe girdiği tarihten itibaren, ilgide kayıtlı Genelge yürürlükten kaldırılmıştır.
 
 Bilgilerinizi ve uygulamaların ekteki rehbere uygun olarak yürütülmesi gerektiğinin, ilgili tüm kamu ve özel sağlık hizmet sunucularına tebliğini önemle rica ederim.
 
-Jr-fahretin KOCA T
+Dr. Fahrettin KOCA
 
-Baka EK: Klinik Kalite Uygulama ve Veri Kalitesi İyileștirme Rehberi (28 s.)
+Bakan
+
+Ek: Klinik Kalite Uygulama ve Veri Kalitesi İyileștirme Rehberi (28 s.)
 
 ### DAĞITIM:
 

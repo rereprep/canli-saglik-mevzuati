@@ -10,15 +10,17 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1031
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-10.3.2. Bakanlık Müfettişleri ve Faaliyetleri Genelgesi (2023/9)
+### T.C. SAĞLIK BAKANLIĞI
+#### Teftiş Kurulu Başkanlığı
 
-T.C.
+**Sayı :** 83075849-010.06/
+**Konu :** Bakanlık Müfettişleri ve Faaliyetleri
 
-### SAĞLIK BAKANLIĞI
-
-Teftiş Kurulu Başkanlığı
+### GENELGE
+**2023/9**
 
 (2) Teftişe tabi kamu ve özel tüm sağlık kurum ve kuruluşlarının yönetici ve görevli memurları ile çalışaniarı; müfettişlerin görevlendirildikleri konularda bilgi işlem sistemleri arama araçları, internet, intranet ve benzeri ağlar lle veri tabanlarına erişimini sağlamak; elektronik, manyetik ve benzeri her türlü elektronik bilgi tletişim araç ve gereçlerindeki bilgiler ve kayıtları ilk talebinde müfettişe göstermek ve incelemesine yardımda bulunmak
 
@@ -40,7 +42,7 @@ Bu itibarla; teftiş, denetim, rehberlik, inceleme, soruşturma ve ôn incelemel
 
 5- Teftiş Kurulu Başkanlığına bağlı İstanbul ve İzmir illerindeki çalışma merkezlerinde görevli Müfettişler için, gerekli ve yeterli sayıda çalışma odası tahsis edilmesi ve ihtiyaç olması halinde idari işleri yürütmek üzere personel görevlendirilmesi,
 
-Hususlarında gerekli hamasiyetin gösterilmesi için,
+Hususlarında gerekli hassasiyetin gösterilmesi için,
 
 Bilgilerinizi ve gereğini rica ederim.
 

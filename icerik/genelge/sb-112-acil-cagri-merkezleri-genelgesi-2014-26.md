@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 347-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -19,7 +20,7 @@ Sayı : 39947351-010.06-02/
 Konu : 112 Acil Çağrı Merkezleri
 
 ### GENELGE
-2014/26
+**2014/26**
 
 İlgi: 16 Mayıs 2014 tarih ve 29002 sayılı R.G.'de İçişleri Bakanlığı tarafından yayımlanan "112 Acil Çağrı Merkezleri Kuruluş, Görev ve Çalışma Yönetmeliği"
 

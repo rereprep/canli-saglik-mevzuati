@@ -187,7 +187,7 @@ g) Literatür taramasında, konunun içeriğine ve kanıtların önemine göre T
 
 (3) Yayımlanan STD raporlarının güncelliği izlenerek varsa Genel Müdürlüğe yapılan başvurular da değerlendirilerek mevcut STD raporunda güncelleme ihtiyacı olup olmadığı belirlenir. Güncellemeye gerek duyulduğunda STD proje süreci başlatılır.
 
-### ›ÖRDÜNCÜ BÖLÜM eşitli ve Son Hükümleı
+## DÖRDÜNCÜ BÖLÜM Çeşitli ve Son Hükümler
 
 #### Düzenleme yetkisi
 
