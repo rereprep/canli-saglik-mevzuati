@@ -2,7 +2,7 @@
 
 *Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla.*
 
-Site sahibi: **Mithat Temizer**
+Siteyi düzenleyen: **Mithat Temizer**
 
 Sağlık mevzuatını tek yerde toplayan, [mevzuat.gov.tr](https://www.mevzuat.gov.tr) benzeri açık bir mevzuat bilgi sistemi. Kanun, Cumhurbaşkanlığı kararnamesi ve yönetmeliklerin yanında Resmî Gazete'de yayımlanmayan **yönerge, genelge ve Sağlık Bakanlığı yazışmalarını** da içerir.
 

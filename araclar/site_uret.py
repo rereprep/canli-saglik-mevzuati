@@ -290,7 +290,6 @@ def sayfa(baslik, icerik, kok="", aciklama=""):
 <footer class="alt">
   <div class="kap">
     <p><strong>{SITE_ADI}</strong> — sağlıkla ilgili kanun, yönetmelik, yönerge, genelge ve Sağlık Bakanlığı yazışmalarını tek yerde toplar.</p>
-    <p>Site sahibi: <strong>Mithat Temizer</strong></p>
     <p class="ithaf"><em>Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla.</em></p>
     <p class="uyari">Bu site resmî bir kaynak değildir. Metinler derlenmiş kitaplardan ve resmî sitelerden aktarılmıştır; hukuki işlemlerde Resmî Gazete ve ilgili kurumun yayımladığı metin esas alınmalıdır.</p>
   </div>
@@ -406,7 +405,7 @@ def hakkinda_sayfasi(belgeler):
     lis = "".join(f"<li>{e(k)}</li>" for k in kaynaklar if k)
     icerik = f"""<h1>Hakkında</h1>
 <p class="ithaf-buyuk"><em>Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla.</em></p>
-<p>Site sahibi: <strong>Mithat Temizer</strong></p>
+<p>Siteyi düzenleyen: <strong>Mithat Temizer</strong></p>
 <p>Canlı Sağlık Mevzuatı, mevzuat.gov.tr örneğinde olduğu gibi sağlık alanındaki düzenlemeleri tek yerde toplamayı amaçlar. Resmî Gazete'de yayımlanan kanun ve yönetmeliklerin yanında, Resmî Gazete'de yayımlanmadığı için ulaşılması güç olan yönerge, genelge ve Sağlık Bakanlığı yazışmalarını da içerir.</p>
 <p>Her tam metinli belge Word (.docx) ve PDF olarak indirilebilir. Tam metni henüz eklenmemiş kayıtlarda künye ve resmî kaynağa bağlantı yer alır.</p>
 <h2>Kaynaklar</h2><ul>{lis}<li>mevzuat.gov.tr, saglik.gov.tr ve resmigazete.gov.tr</li></ul>
