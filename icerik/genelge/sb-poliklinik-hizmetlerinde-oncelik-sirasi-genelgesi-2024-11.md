@@ -3,17 +3,43 @@ id: "sb-poliklinik-hizmetlerinde-oncelik-sirasi-genelgesi-2024-11"
 baslik: "Poliklinik Hizmetlerinde Öncelik Sırası Genelgesi (2024/11)"
 tur: "genelge"
 sayi: "2024/11"
-birim: "Sağlık Hizmetleri Genel Müdürlüğü"
+birim: "Hukuk Hizmetleri Genel Müdürlüğü"
 konu: "Sağlık kurum ve kuruluşlarında poliklinik muayenelerinde öncelik sırasına tabi hastaları ve uygulama esaslarını düzenler."
 etiketler: ["poliklinik", "öncelik sırası", "hasta hakları", "yaşlılar"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 151-152"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.165"
+kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI Hukuk Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
+#### Hukuk Hizmetleri Genel Müdürlüğü
+
+**Sayı:** E-11045126-010.06  
+**Konu:** Poliklinik Hizmetlerinde Öncelik Sırası
+
+### GENELGE
+**2024/11**
+
+**İlgi:**  
+a) Poliklinik Hizmetlerinde Öncelik Sırası Konulu 2010/73-80 Sayılı Genelge.  
+b) Poliklinik Hizmetlerinde Öncelik Sırası Konulu 2016/22 Sayılı Genelge.  
+c) Poliklinik Hizmetlerinde Öncelik Sırası Değişikliği Konulu 2017/10 Sayılı Genelge.
+
+Bilindiği üzere, sağlık kurum ve kuruluşlarında özellikle poliklinik hizmetlerinde hasta mağduriyetlerinin önlenmesi, mevzuatımızda hasta hakları mevzuatı başta olmak üzere toplumda öncelikli olarak korunması ve özel tedbir alınması öngörülen vatandaşlarımızın sağlık hizmetinden de öncelikli olarak yararlandırılmaları konusunda Bakanlığımızca muhtelif zamanlarda yayımlanan genelgeler ile düzenlemeler yapılmış, mevzuat lafzına ve ruhuna uygun olarak uygulanabilmesine yardımcı olmak amacı ile yasal dayanağa kavuşturulmuştur.
+
+Türkiye Cumhuriyeti Anayasası’nın “Kanun önünde eşitlik” başlıklı 10 uncu maddesinde; “Herkes, dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin kanun önünde eşittir. Kadınlar ve erkekler eşit haklara sahiptir. Devlet, bu eşitliğin yaşama geçmesini sağlamakla yükümlüdür. Bu maksatla alınacak tedbirler eşitlik ilkesine aykırı olarak yorumlanamaz. Çocuklar, yaşlılar, özürlüler, harp ve vazife şehitlerinin dul ve yetimleri ile malul ve gaziler için alınacak tedbirler eşitlik ilkesine aykırı sayılmaz...” hükmü gereği;
+
+Sağlık kurum ve kuruluşlarında genel hizmetin aksamasına meydan vermeyecek şekilde poliklinik muayenelerinde öncelik sırası alacak gruplar yukarıda anılan mevzuat çerçevesinde aşağıdaki şekilde yeniden düzenlenmiştir.
+
+1. Acil vakalar (ani gelişen hastalık, kaza, yaralanma ve benzeri durumlar ile ivedilikle tıbbi müdahale yapılması gerektiğine hekim tarafından karar verilen vakalar),
+2. Engelli hastalar,
+3. Hamileler,
+4. 65 yaş üstü hastalar,
+5. Yedi yaşından küçük çocuklar,
+6. Harp ve vazife şehitlerinin dul ve yetimleri ile malul ve gaziler ile aileleri,
+7. 669 sayılı Kanun Hükmünde Kararname (KHK) kapsamında Türk Silahlı Kuvvetlerinden Sağlık Bakanlığımıza devredilen sağlık kuruluşlarında geçerli olmak üzere, öncelikli olarak garnizon dışından sevkle gelenler, hizmetteki Türk Silahlı Kuvvetleri (TSK), Jandarma Genel Komutanlığı (JGK) ve Sahil Güvenlik Komutanlığı (SGK) personeli ve bakmakla yükümlü olduğu kişiler ile emekli TSK, J.Gn.K.lığı ve S.G.K.lığı personeli ve bakmakla yükümlü olduğu kişiler,
 
 8. 5395 sayılı Çocuk Koruma Kanunu kapsamında koruyucu ve destekleyici tedbir karanı olan çocuklar,
 

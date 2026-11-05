@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103811/saglik-bakanligi-ve-bagli-kurul
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "103811.pdf s.1"
+kontrol_edildi: true
 ---
 
 9.2.7. Sağlık Bakanlığı ve Bağlı Kuruluşları Devir-Teslim ve İlişik Kesme Yönergesi

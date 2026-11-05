@@ -10,10 +10,31 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 767-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.781"
+kontrol_edildi: true
 ---
 
- dâhil edildiği yıllık nöbet listesi ile il sağlık müdürlüğü tarafından yürütülür. Nüfusu 30.000’in üzerinde olan ilçelerde ilçe sağlık müdürleri nöbete dâhil edilmez.
+### T.C. SAĞLIK BAKANLIĞI
+#### Halk Sağlığı Genel Müdürlüğü
+
+**Sayı:** E-96867468-773.99  
+**Konu:** Ölüm Bildirim Sistemi (ÖBS)
+
+### GENELGE
+**2021/7**
+
+Ülkemizde ölümlerle ilgili iş ve işlemler Sağlık Bakanlığı ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmelik çerçevesinde ilgili kurumlarca yürütülmektedir. Ölüm Bildirim Sistemi (ÖBS) https://obs.saglik.gov.tr adresinde hizmete sunulmuş olup ülke genelinde kullanılmaktadır.
+
+İlgili Yönetmelikte belirtilen tüm taraflar (belediyeler, sağlık kurum ve kuruluşları vb.) e-imza, mobil imza veya e-Devlet şifresi ile kendilerine tanımlanan yetki çerçevesinde ÖBS’yi kullanabilmektedir. Sistemin devamlılığı için ilgili kurumların merkez ve taşra teşkilatlarının işbirliği, bilgi paylaşımı ve desteği önem arz etmektedir. İllerde ÖBS’nin işleyişinden il sağlık müdürü bizzat sorumludur. Ölüm belgeleme ve bildirim sürecine dair iş ve işlemler aşağıdaki şekilde yürütülür.
+
+1) Ölüm, sağlık kurumlarında gerçekleşmiş ise ölümle ilgili bilgiler bu kurumdaki görevli hekim tarafından ÖBS’ye kaydedilir. Ölen kişi için düzenlenen ve elektronik olarak imzalanan ölüm belgesinin ihtiyaç duyulan sayıda nüshası sistemden alınır ve defin işlemleri için ölenin yakınlarına verilir.
+
+2) Ölüm, sağlık kurumları dışında (ev, otel, yurt gibi toplu yaşam alanları, bakımevleri, işyeri vb.) gerçekleşmiş ise ölüm belgesi düzenleme ile ilgili işlemler, belediye hekimlerinin asli görevi olduğundan belediye hekimleri tarafından (belediyenin sözleşme ile hizmet aldığı hekimler belediye hekimi olarak değerlendirilir) birinci maddede belirtildiği şekilde yerine getirilir. Bu görev belediye tarafından karşılanamıyor ise:
+
+a) Mesai saatleri içerisinde ölüm belgesi düzenleme ile ilgili işlemler, öncelikle ilçe sağlık müdürlüğü/toplum sağlığı merkezi hekimi, yoksa aile hekimi tarafından birinci maddede belirtildiği şekilde yapılır.
+
+b) Mesai saatleri dışında ölüm belgesi düzenleme ile ilgili işlemler ise il sağlık müdürlüklerince ilin tamamı bu hizmeti alacak şekilde yakın ilçeler birleştirilerek adli/defin nöbet planı yapılmak suretiyle yerine getirilir. İhtiyaç olan yerlerde nöbet planı her ilçe için ayrı olarak yapılabilir. Nöbet planlaması mümkün olduğunca adli hizmet nöbeti ile birleştirilerek yapılır. Adli Tıp Kurumunun doğrudan hizmet verdiği yerlerde hekimlere ayrıca adli nöbet (yerinde ölü muayenesi) görevi verilmez. Belediyelerce 24 saat esasına göre hizmet verilen yerlerde ayrıca nöbet planı yapılmaz.
+
+c) Ölüm belgelerine ilişkin işlemler, belediye başkanı ve başkan yardımcısı hariç, tüm belediye hekimleri, entegre ilçe devlet hastanesi (E2, E3)/ilçe sağlık müdürlüğü/toplum sağlığı merkezi hekimleri ve aile hekimlerinin dâhil edildiği yıllık nöbet listesi ile il sağlık müdürlüğü tarafından yürütülür. Nüfusu 30.000’in üzerinde olan ilçelerde ilçe sağlık müdürleri nöbete dâhil edilmez.
 
 g) Mesai dışında tutulan nöbetler için izin verilmesi veya deret ödenmesi hususunda kurumları kendi mevzuata göre hareket «dilir. Bu şesçevede entegre ilpe devlet hastanesi (E2, E3ytiçe sağlık müdurlügü/toplum sağlığa merkezi hekimleune, afle hekimietine (ertegre sağlık merkezinde görevli aile hekimleri hariş) ve şoförlere 651 sayıls Kneunan Ek 33 üncü maddeaine göre icap nöbet lercti ödenir.
 

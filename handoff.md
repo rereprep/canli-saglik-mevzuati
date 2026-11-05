@@ -13,6 +13,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Python: /Users/mithattemizer/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 (her zaman -I ile çalıştır; /tmp'deki .py dosyaları modülleri bozabiliyor)
 
 ## Kullanıcı kararları
+- Ajanlar veya arka plan işleri çalışırken turu KAPATMA (son yanıt verme); kapatınca işler yarım kalıyor. Her şey bitene kadar izlemeye devam et, ara durumu kısa notlarla bildir.
+- WorkBuddy (mcp__workbuddy__run_workbuddy_task) modelleri hy3 ve hy4free çalışıyor (2026-11-05): 3 işçi hy3, 3 işçi hy4free; biri hata verirse diğerine geç, ikisi de olmazsa Gemini Flash / luna alt ajanlarına dön.
 - Siteyi düzenleyen: Mithat Temizer — yalnızca Hakkında sayfasında ve README'de.
 - İthaf her sayfanın alt bilgisinde: "Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla."
 - Ajanlar: Gemini 3.8 Flash (google-antigravity/gemini-3.8-flash) ve gpt-6-luna. Her zaman 6 ajan çalıştır. Kotaya (429) takılan ajanın kalan işini hemen diğer modelle yeni ajana ver (luna → Gemini Flash, Gemini Flash → luna). Bağlantı (502/ENOTFOUND) hatasında aynı modelle yeniden başlat. Biten/hata veren ajanı kapat ki sınır dolmasın.

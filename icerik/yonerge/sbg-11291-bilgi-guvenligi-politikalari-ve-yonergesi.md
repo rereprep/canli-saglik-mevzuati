@@ -11,7 +11,7 @@ duzeltildi: true
 konu: "Düzenlemenin amacı ve kapsamı ile uygulama usul ve esaslarını belirler."
 tarih: ""
 sayi: ""
-sayfa_kontrol: "11291-ek2.pdf s.1, 11291-ek2.pdf s.3"
+kontrol_edildi: true
 ---
 
 ## SAĞLIK BAKANLIĞI BİLGİ GÜVENLİĞİ POLİTİKALARI YÖNERGESİ
