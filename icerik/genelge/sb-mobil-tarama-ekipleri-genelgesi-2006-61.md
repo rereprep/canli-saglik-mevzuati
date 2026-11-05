@@ -10,74 +10,72 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 702-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI Verem Savaşı Dairesi Başkanlığı
+ACELE  
+22 Mayıs 2006  
+ANKARA
 
-Sayı: B.10.0.VSD.0.00.00.06-010.06.02-756
+T.C.  
+SAĞLIK BAKANLIĞI  
+Verem Savaşı Dairesi Başkanlığı
 
-Konu: Mobil Tarama Ekipleri
+SAYI : B.10.0.VSD.0.00.00.06-010.06.02- 756  
+KONU : Mobil Tarama Ekipleri
 
 ### GENELGE 2006/61
 
-1952 Yılından beri Bakanlığımız Merkez Teşkilatı bünyesinde faaliyetlerini sürdüren, başlangıçta BCG kampanyalarından sorumlu iken zaman içinde hapishane vb. toplu yaşam alanları veya organize topluluklarda radyolojik olarak verem taraması yapıp, Verem Savaş Dispanserlerine ilaç ikmali yapan Mobil Verem Savaş Gruplarımın 19.04.2006 tarih ve 5624 sayılı makamın onayı paralelinde idari ve mali yapılanması ile çalışma usul ve esasları aşağıdaki gibi belirlenmiştir.
+1952 Yılından beri Bakanlığımız Merkez Teşkilatı bünyesinde faaliyetlerini sürdüren, başlangıçta BCG kampanyalarından sorumlu iken zaman içinde hapishane v.b toplu yaşam alanları veya organize topluluklarda radyolojik olarak verem taraması yapıp, Verem Savaş Dispanserlerine ilaç ikmali yapan Mobil Verem Savaş Gruplarının 19.04.2006 tarih ve 5624 sayılı makamın onayı paralelinde idari ve mali yapılanması ile çalışma usul ve esasları aşağıdaki gibi belirlenmiştir.
 
-1- Verem Savaş Grup Başkanlıkları hali hazırda konuşlanmış bulundukları 12 İl (Adana, Kayseri, Eskişehir, Samsun, İzmir, İstanbul, Bursa, Antalya, Trabzon, Erzurum, Diyarbakırr ve Edirne) Sağlık Müdürlüğüne tüm personel, ekipman ve demirbaşı ile devredilmişlerdir.
+1- Verem Savaş Grup Başkanlıkları hali hazırda konuşlanmış bulundukları 12 İl (Adana, Kayseri, Eskişehir, Samsun, İzmir, İstanbul, Bursa, Antalya, Trabzon, Erzurum, Diyarbakır ve Edirne) Sağlık Müdürlüğüne tüm personel, ekipman ve demirbaşı ile devredilmişlerdir.
 
-2- Verem Savaş Grup Başkanlıkları devredildikleri İl Sağlık Müdürlüğünün bünyesinde Sağlık Müdürluğanün uygun göreceği bir birimde, İl Tüberküloz Koordinatörünün sorumluluğu ve *Mobil Tarama Ekipleri" adı altında yapılandırılacaklardır. Mevzuatı gereğince ücretsiz olarak yapılması gereken risk grupları taramaları dışında ücret karşılığında yapılacak organize topluluk taramalarında, Sağlık Müdürlüğünün uygun gördüğü birim adına Döner Sermaye makbuzu kesilerek çalışmalarını sürdüreceklerdir.
+2- Verem Savaş Grup Başkanlıkları devredildikleri İl Sağlık Müdürlüğünün bünyesinde Sağlık Müdürlüğünün uygun göreceği bir birimde, İl Tüberküloz Koordinatörünün sorumluluğu ve "Mobil Tarama Ekipleri" adı altında yapılandırılacaklardır. Mevzuatı mucibince ücretsiz olarak yapılması gereken risk grupları taramaları dışında ücreti mukabili yapılacak organize topluluk taramalarında, Sağlık Müdürlüğünün uygun gördüğü birim adına Döner Sermaye makbuzu kesilerek çalışmalarını sürdüreceklerdir.
 
-3- Ilk etapta 81 ilde ayrı ayrı "Mobil Tarama Ekipleri" oluşturmak zaman ve maliyet gerektiren bir unsur olarak karşımıza çıktığından;
+3- İlk etapta 81 İlde ayrı ayrı "Mobil Tarama Ekipleri" oluşturmak zaman ve maliyet gerektiren bir unsur olarak karşımıza çıktığından;
 
 a-) Adana İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Adana, Adıyaman, Hatay, İçel, Kahramanmaraş, Gaziantep, Osmaniye, Kilis,
 
-b-) Kayseri İl Sağlık Mudürlugu bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Kayseri, Aksaray, Kırşehir, Malatya, Nevşehir, Niğde, Sivas, Yozgat,
+b-) Kayseri İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Kayseri, Aksaray, Kırşehir, Malatya, Nevşehir, Niğde, Sivas, Yozgat,
 
-c-) Eskişchir İl Sağlık Müdürlüğu bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Eskişehir, Ankara, Bolu, Çankırı, Kırıkkale, Zonguldak, Bartın, Karabük, Düzce,
+c-) Eskişehir İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Eskişehir, Ankara, Bolu, Çankırı, Kırıkkale, Zonguldak, Bartın, Karabük, Düzce,
 
-d-) Samsun İl Sağlık Müdurluğu bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Samsun, Amasya, Çorum, Kastamonu, Sinop, Tokat,
+d-) Samsun İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Samsun, Amasya, Çorum, Kastamonu, Sinop, Tokat,
 
-e-) İzmir İl Sağlık Müdürlüğüi bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; İzmir,
+e-) İzmir İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; İzmir, Aydın, Denizli, Manisa, Muğla, Uşak,
 
-f-) İstanbul İl Sağlık Müdürlügu bunyesinde faaliyet gösterecek Mobil Tarama Ekibi; İstanbul,
+f-) İstanbul İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; İstanbul,
 
 g-) Bursa İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Bursa, Balıkesir, Çanakkale, Kocaeli, Kütahya, Sakarya, Bilecik, Yalova,
 
-h-) Antalya Il Sağlik Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Antalya, Afyon, Burdur, Isparta, Karaman, Konya,
+h-) Antalya İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Antalya, Afyon, Burdur, Isparta, Karaman, Konya,
 
-1-) Trabzon İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi;
+ı-) Trabzon İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Trabzon, Artvin, Bayburt, Gümüşhane, Giresun, Ordu, Rize,
 
-, Artvin, Bayburt, Gümüşhane, Giresun, Ordu, Rize,
+i-) Erzurum İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Erzurum, Ağrı, Erzincan, Bingöl, Kars, Tunceli, Ardahan, Iğdır,
 
-i-) Erzurum İl Sağlık Müdürlüğü bünyesinde Faaliyet gösterecek Mobil Tarama Ekibi; Erzurum, Ağnı, Erzincan, Bingöl, Kars, Tunceli, Ardahan, Iğdır,
+j-) Diyarbakır İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Diyarbakır, Batman, Bitlis, Elazığ, Hakkari, Mardin, Siirt, Şırnak, Van, Şanlıurfa, Muş,
 
-### T.C. SAĞLIK BAKANLIĞI Verem Savaşı Dairesi Başkanlığı
+k-) Edirne İl Sağlık Müdürlüğü bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Edirne, Kırklareli, Tekirdağ illerindeki:
 
-KONU : Mobil Tarama Ekipleri
+i) Hapishane, huzurevi, çocuk yuvası ve İndeks vaka bildirilmiş askeri birlik koğuş ve kapalı alan temaslıları gibi öncelikli risk gruplarını,
 
-j-) Diyarbakır İl Sağlık Müdürlugu bünyesinde faaliyet gösterecek Mobil Tarama Ekibi; Diyarbakırr, Batman, Bitlis, Elazığ, Hakkâri, Mardin, Siirt, Şırnak, Van, Şanlıurfa, Muş,
+ii) Öncelikli risk grupları taramasından kalan zamanda kendi ilindeki/bölgesindeki organize toplulukların Verem (ve istenen diğer) taramalarını, belli bir program dahilinde yapacaklardır. Bu taramalar yapılırken, indeks vaka çıkmış risk grupları ve askeri birliklere acil ve öncelikli müdahale edilecektir.
 
-k-) Edirne İl Sağlık Müdürlüğü bunyesinde faaliyet gösterecek Mobil Tarama Ekibi;
+iii) Mahkûm – tutuklu ve asker taramalarında, Bakanlığımız ile ilgi Bakanlıklar arasında imzalanan Protokoller (Ceza İnfaz Kurumları ile Tutukevlerindeki Yönetim, Dış Koruma ve Sağlık Hizmetlerinin Daha Düzenli ve Etkili Bir Şekilde Yürütülmesini Sağlamak Amacıyla Adalet ve İçişleri Bakanlıkları ile Sağlık Bakanlığı arasında düzenlenen 26.12.2003 tarih ve 24106 sayılı Protokol ve Sağlık Bakanlığı- Milli Savunma Bakanlığı arasındaki protokol) esas alınacaktır.
 
-1) Hapishane, huzurevi, çocuk yuvası ve indeks vaka bildirilmiş askeri birlik koğuş ve
-
-ii) Öncelikli risk grupları taramasından kalan zamanda kendi ilindeki/bölgesindeki organize toplulukların Verem (ve istenen diğer) taramalarını, belli bir program dahilinde yapacaklardır. Bu taramalar yapılırken, indeks vaka çıkmış risk grupları ve askeri birliklere acil ve öncelikli
-
-iii) Mahkûm - tutuklu ve asker taramalarında, Bakanlığımız ile ilgi Bakanlıklar arasında imzalanan Protokoller (Ceza Infaz Kurumları ile Tutukevlerindeki Yönetim, Dış Koruma ve Sağlık Hızmetlerinin Daha Düzenli ve Etkili Bir Şekilde Yürütülmesini Sağlamak Amacıyla Adalet ve Içişleri Bakanlıkları ile Sağlık Bakanlığı arasında düzenlenen 26.12.2003 tarih ve 24106 sayılı Protokol ve Sağlık Bakanlığı- Milli Savunma Bakanlığı arasındaki protokol) esas alınacaktır.
-
-IV) Yerinde yapılmış taramalar hemen takip eden günde Verem Savaş Dispanserlerinde
+iv) Yerinde yapılmış taramalar hemen takip eden günde Verem Savaş Dispanserlerinde değerlendirilecektir.
 
 4-) Mobil Tarama Ekipleri, Bakanlıkça gerekli görüldüğü durumlarda Verem Savaş Dispanserleri için gerekli ilaç vb malzeme ikmalini yapacaklardır.
 
-5-) Verem Savaş Grup Başkanlıklarımın devredilmiş olduğu 12 İl Sağlık Müdürlüğü dışında, ia yükü ve kapasite itibari ile Mobil Tarama Ekipleri oluşturmaya müsait illerde de, Valiliğin teklifi Bakanlık Makamının oluru ile, Mobil Tarama Ekipleri oluşturulabilecektir.
+5-) Verem Savaş Grup Başkanlıklarının devredilmiş olduğu 12 İl Sağlık Müdürlüğü dışında, iş yükü ve kapasite itibari ile Mobil Tarama Ekipleri oluşturmaya müsait illerde de, Valiliğin teklifi Bakanlık Makamının oluru ile, Mobil Tarama Ekipleri oluşturulabilecektir.
 
-Bilgilerinizi ve Genelge hükümlerinin titizlikle uygulanması hususunda gereğini önemle rica ederim..
+Bilgilerinizi ve Genelge hükümlerinin titizlikle uygulanması hususunda gereğini önemle rica ederim.
 
-Prof. Dr. Nedret ÜNÜVAR
-
-Bakan a
-
+Prof. Dr. Necdet ÜNÜVAR  
+Bakan a.  
 Müsteşar
 
-### DAĞITIM:
+### DAĞITIM:  
+A Planı
 
-A Plan

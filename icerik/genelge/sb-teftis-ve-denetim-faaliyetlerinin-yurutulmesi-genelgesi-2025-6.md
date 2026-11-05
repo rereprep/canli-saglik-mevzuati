@@ -2,9 +2,8 @@
 id: "sb-teftis-ve-denetim-faaliyetlerinin-yurutulmesi-genelgesi-2025-6"
 baslik: "Teftiş ve Denetim Faaliyetlerinin Yürütülmesi Genelgesi (2025/6)"
 tur: "genelge"
-tarih: "2025-01-20"
 sayi: "2025/6"
-birim: "Teftiş Kurulu Başkanlığı"
+birim: "Hukuk Hizmetleri Genel Müdürlüğü"
 konu: "Bakanlık merkez ve taşra birimlerinde iç kontrol, yerinde denetim, muhakkiklik, REDES kullanımı ve müfettiş incelemelerine ilişkin usul ve esaslar"
 etiketler: ["denetim", "denetim sistemi", "risk esaslı denetim", "teftiş kurulu", "redes"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1028-1030"

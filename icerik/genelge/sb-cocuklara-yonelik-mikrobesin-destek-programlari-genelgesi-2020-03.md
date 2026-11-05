@@ -11,7 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 719-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.733"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -25,7 +25,7 @@ sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.733"
 
 Beslenme sorunlarından en çok etkilenen yaş grubu bebekler ve 5 yaş altı çocuklardır. Özellikle doğumu izleyen ilk 36 aylık dönemde büyüme ve gelişme çok hızlı olduğundan, bebek ve küçük çocukların beslenme durumu, çocuğun daha sonraki fiziksel, zihinsel ve sosyal gelişimi açısından büyük önem taşır. Bu dönemde karşımıza çıkabilecek olan büyüme ve gelişme bozuklukları protein, enerji, vitamin ve mineral eksikliğinin neden olduğu beslenme yetersizliklerinden kaynaklanan önlenebilir durumlardır.
 
-Bakanlığımızca ülke düzeyinde, doğan bebeklerin doğumdan sonra hemen emzirilmeye başlatılması, ilk 6 ay "sadece" anne sütü verilmesi, 6. aydan sonra da uygun ve yeterli miktardaki ek besinlerle beraber emzirmenin sürdürülmesi, toplumun demir ve D-vitamini eksikliği konusunda bilinçlendirilmesi ile birlikte demir yetersizliği anemisinin önlenmesi amacıyla "Demir Gibi Türkiye Programı" ve D vitamini eksikliklerinin önlenmesi için "Bebeklerde D Vitamini Yetersizliğinin Önlenmesi ve Kemik Sağlığının Korunması Programı" yürütülmektedir.
+Bakanlığımızca ülke düzeyinde, doğan bebeklerin doğumdan sonra hemen emzirilmeye başlatılması, ilk 6 ay "sadece" anne sütü verilmesi, 6. aydan sonra da uygun ve yeterli miktardaki ek besinlerle beraber emzirmenin sürdürülmesi, toplumun demir ve D-vitamini eksikliği konusunda bilinçlendirilmesi ile birlikte demir yetersizliği anemisinin önlenmesi amacıyla "Demir Gibi Türkiye Programı" ve D vitamini eksikliklerinin önlenmesi için "Bebeklerde D Vitamini Yetersizliğinin Önlenmesi ve Kemik Sağlığının Korunması Programı" sürdürülmektedir.
 
 Programların yürütülmesi sırasında aşağıdaki hususlara riayet edilecektir:
 

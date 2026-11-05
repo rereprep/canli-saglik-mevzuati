@@ -10,17 +10,27 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 620-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.634"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Türkiye Halk Sağlığı Kurumu
 
-**Sayı :** 13588366-010.06.02/
+**Sayı :** 13588366
 **Konu :** Bulaşıcı Hastalıkların İhbar ve Bildirim Sistemi
 
 ### GENELGE
 **2015/18**
+
+Dünyada eski çağlardan günümüze kadar bulaşıcı hastalıklar, sık ve yaygın görülmesi, ölümlere, başka hastalıklara ya da sakatlıklara yol açması, iş gücü ve maddi kayıplara sebep olması dolayısıyla her zaman ülkelerin öncelikleri arasında yer almış ve bulaşıcı hastalıklarla mücadele, koruma ve kontrol önlemlerinin alınması için birçok çalışmalar yapılmıştır. Ticaret, turizm gibi sebeplerle gerek ülke içinde gerekse ülkelerarası seyahatlerin artması nedeniyle bulaşıcı hastalıkların ilk ortaya çıktığı bölge veya ülke ile sınırlı kalmayıp kolaylıkla ve hızlı bir şekilde yayıldığı dikkate alındığında, bulaşıcı hastalıklara karşı koruma ve kontrol önlemlerinin alınması zorunluluğu artarak devam etmektedir.
+
+Ülkemizde, bulaşıcı hastalıkların mortalitesi ve morbiditesinin azaltılması amacı ile oluşturulan bulaşıcı hastalıkların sürveyansı sistemi kapsamında, sağlık politikalarının belirlenmesi, hastalıklara ait kontrol programlarının oluşturulması, programların izlenmesi ve gerektiğinde yeni düzenlemeler yapılması amacı ile kullanılan temel veri kaynaklarının en önemlilerinden biri bulaşıcı hastalıkların ihbar ve bildirimi ile elde edilen bilgilerdir.
+
+Bulaşıcı hastalıkların ihbar ve bildirimi ile alakalı olarak Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği 30/05/2007 tarihli ve 26537 sayılı Resmi Gazete'de yayımlanmış ve yürürlüğe girmiştir. Daha sonra mezkur yönetmelikte yer alan ve hastalıkların bildirimlerinde kullanılan standart vaka tanımlarında güncelleme yapılarak mezkur yönetmelik değişikliği 02/04/2011 tarihli ve 27891 sayılı Resmi Gazete'de yayımlanmıştır.
+
+Bulaşıcı hastalıkların halk sağlığı açısından tehdit oluşturma özellikleri olması ve bu tehditlerin erkenden saptanarak gerekli koruma ve kontrol önlemlerinin alınabilmesi amacı ile hastalık ihbar ve bildirimlerinin tanı koyan tüm hekimler tarafından yapılması gerekmektedir.
+
+Bulaşıcı hastalıkların ihbar ve bildirimi konusunda sağlık bilgi sistemlerine yönelik çalışmalar halen devam etmekte olup, bu süreç içerisinde bulaşıcı hastalıkların ihbar ve bildirimi aşağıdaki hususlara göre yapılacaktır;
 
 1) Bildirimi zorunlu bir bulaşıcı hastalığın ihbarı ve bildiriminden sağlık hizmeti veren bütün kamu kurum ve kuruluşlan ile gerçek ve tüzel kişiler sorumludur.
 

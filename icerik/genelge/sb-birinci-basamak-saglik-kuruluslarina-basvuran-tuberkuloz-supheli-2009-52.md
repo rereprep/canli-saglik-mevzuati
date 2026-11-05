@@ -11,20 +11,31 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 694-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
-sayfa_kontrol: "sbyonergevegenelge202520022025pdf.pdf s.708"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Verem Savaşı Dairesi Başkanlığı
 
-**Sayı :** B.10.0.VSD.0.00.00.06-010/3700  
-**Konu :** Tüberküloz Şüphelilerden Balgam Toplanması  
-**Tarih :** 28 Ağustos 2009
+**Sayı :** B.10.0.VSD.0.00.00.06-110/3710  
+**Konu :** Birinci Basamak Sağlık Kuruluşlarına Başvuran Tüberküloz Şüpheli Bireylerden Balgam Toplanması.  
+**Tarih :** 31.08.2009
 
 ### GENELGE
 **2009/52**
 
-Birinci basamak sağlık kuruluşlarına başvuran ve iki-üç haftadan uzun süren öksürüğü olan tüberküloz şüpheli bireylerden balgam örneklerinin toplanması ve incelenmesi verem savaşında erken tanı için hayati önem taşımaktadır. Alınan balgam örnekleri belirlenmiş usul ve esaslar doğrultusunda Seviye 1 Tüberküloz Laboratuvarlarına nakledilecektir.
+...................... VALİLİĞİNE  
+( Sağlık Müdürlüğü )
+
+Tüberküloz, solunum yoluyla kolay bulaştığı ve kontrolü güç olduğu için dünyada olduğu gibi Türkiye'de de önemli halk sağlığı sorunlarından biri olmaya devam etmektedir.
+
+Dünya Sağlık Örgütü tarafından Tüberküloz mücadelesinde önerilen metot; Doğrudan Gözetimli Tedavi Stratejisi olup, Doğrudan Gözetimli Tedavi Stratejisi'nin bileşenleri, bakteriyoloji ile vaka bulma, doğrudan gözetimli ve standart kısa süreli anti-tüberküloz ilaç rejimleri, etkin bir ilaç ikmali ile yönetimi ve izleme-değerlendirme sistemiyle etkili ölçümünden oluşmaktadır.
+
+Dünya Sağlık Örgütü, taşrada Verem Savaşı Dispanseri laboratuvarlarının (Seviye 1 Tüberküloz Laboratuvarları) oluşturulmasını ve bu kuruluşa diğer sağlık kuruluşlarından balgam toplanması önermektedir. Bu nedenle; Doğrudan Gözetimli Tedavi Stratejisi'nin önemli bir parçası olan bakteriyolojik tanı etkinliğini artırmak için, birinci basamak sağlık kuruluşlarından da tüberküloz şüpheli bireylerden balgam toplanması ve toplanan balgam örneklerine bakteriyolojik tetkiklerin yapılması gerekmektedir.
+
+Birinci basamak sağlık kuruluşlarından dispanser laboratuvarlarına balgam örneklerinin sistemli ve düzenli olarak naklinin sağlanması ile hastalık şüpheli bireylerden tüm birinci basamak sağlık kuruluşlarından örnek toplanması ve laboratuvarlarda gerekli tetkiklerin yapılması sağlanacak, hastalığın erken tanı ve tedavisi ile toplumun diğer bireylerine hastalığın bulaşması engellenecektir.
+
+"Üç haftadan uzun süren öksürük, balgam çıkarma ile birlikte gece terlemesi, ateş, yorgunluk, halsizlik, iştahsızlık ve kısa sürede aşırı kilo kaybı" gibi belirtilerden biri veya birkaçı ile verem savaşı dispanserleri veya birinci basamak sağlık kuruluşlarına başvuran tüberküloz ön tanısı konulmuş kişilerden alınan balgam numuneleri, bu genelge ile belirlenmiş usul ve esaslar doğrultusunda Seviye 1 Tüberküloz Laboratuvarlarına nakledilecektir.
 
 Bu amaçla;
 
