@@ -1,37 +1,52 @@
 ---
 id: "saglik-bakanligi-tasra-teskilati-kadro-sandartlari-ile-calisma-usul-ve-esaslarina-dair-yonerge"
-baslik: "Sağlık Bakanlığı Taşra Teşkilatı Kadro Sandartları İle Çalışma Usul ve Esaslarına Dair Yönerge"
+baslik: "Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları İle Çalışma Usul ve Esaslarına Dair Yönerge"
 tur: "yonerge"
 tarih: "2017-11-07"
 sayi: "51275"
-konu: "Sağlık Bakanlığı Taşra Teşkilatı Kadro Sandartları İle Çalışma Usul ve Esaslarına Dair Yönerge hükümleri ve teşkilat görev tanımları."
-etiketler: ["mevzuat", "birinci-basamak"]
+birim: "Yönetim Hizmetleri Genel Müdürlüğü"
+konu: "Sağlık Bakanlığı taşra teşkilatının çalışma usul ve esasları, görev tanımları ve kadro standartlarını düzenler."
+etiketler: ["mevzuat", "birinci-basamak", "tasra-teskilati", "kadro-standartlari"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 347-398"
+kaynak_pdf_sayfa: 353
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 07.11.2017 tarihli ve 51275 sayılı Yönerge
 
-### SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI KADRO SANDARTLARI İLE ÇALIŞMA USUL VE ESASLARINA DAİR YÖNERGE
+### SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI KADRO STANDARTLARI İLE ÇALIŞMA USUL VE ESASLARINA DAİR YÖNERGE
 
 (15/10/2024 tarihli ve E-49635782-010.04-256795454 sayılı Bakan Onayı ile değişikliğe gidilmiştir.)
 
+## BİRİNCİ BÖLÜM
+#### Amaç, Kapsam, Dayanak ve Tanımlar
+
+**Amaç**  
+**MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığı taşra teşkilatının görev, yetki ve sorumlulukları, kadro ve pozisyon standartları, kadroların ve pozisyonların düzenli ve hizmet gereklerine uygun olarak kullanımı ile çalışma usul ve esaslarını düzenlemektir.
+
+**Kapsam**  
+**MADDE 2 –** (1) Bu Yönerge; Sağlık Bakanlığı taşra teşkilatında yer alan il ve ilçe sağlık müdürlükleri ile bu müdürlüklere bağlı birimleri kapsar.
+
+**Dayanak**  
+**MADDE 3 –** (1) Bu Yönerge; 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesi ile 371 inci maddesine dayanılarak hazırlanmıştır.
+
 ## İKİNCİ BÖLÜM
+#### Temel Esaslar, Görev, Yetki ve Sorumluluklar
 
-#### Temel esaslar
-
+**Temel esaslar**  
 **MADDE 4 –** (1) Bakanlık taşra teşkilatı aşağıdaki temel ilkeler çerçevesinde hizmetlerini yürütürler.
 
-a) Bakanlık politikalarına, strateji ve hedeflerine, planlama ve düzenlemelerine uygun
+a) Bakanlık politikalarına, strateji ve hedeflerine, planlama ve düzenlemelerine uygun hareket ederler.
 
 b) Sağlık hizmetinin kesintisiz ve bütünlük içerisinde sunumunu sağlamaya yönelik tedbirleri alırlar. Birlikte yürütülmesi gereken işlerde azami ölçüde işbirliği ve yardımlaşma içerisinde bulunurlar.
 
-c) Insan gücünde ve maddi kaynaklarda tasarruf sağlamak ve verimi artırmak amacıyla hizmetlerin planlanmasında ve sunumunda müşterek hareket ederler.
+c) İnsan gücünde ve maddi kaynaklarda tasarruf sağlamak ve verimi artırmak amacıyla hizmetlerin planlanmasında ve sunumunda müşterek hareket ederler.
 
-ç) Bakanlık taşra teşkilatında görevli her derece ve unvandaki personel, kendi yetkileri dâhilindeki iş ve işlemlerin yürütülmesinde ve hizmet sunumunda, hasta, çalışan hakları ve güvenliği mevzuatı ilkeleri çerçevesinde, kaynak israfı ve atıl kapasiteye yol açılmaksızın, performans hedeflerine uygun, etkin, verimli ve kaliteli sağlık hizmeti sunulmasını sağlamakla
+ç) Bakanlık taşra teşkilatında görevli her derece ve unvandaki personel, kendi yetkileri dâhilindeki iş ve işlemlerin yürütülmesinde ve hizmet sunumunda, hasta, çalışan hakları ve güvenliği mevzuatı ilkeleri çerçevesinde, kaynak israfı ve atıl kapasiteye yol açılmaksızın, performans hedeflerine uygun, etkin, verimli ve kaliteli sağlık hizmeti sunulmasını sağlamakla yükümlüdürler.
 
-d) Bu ilkeyi gerçekleştirmeye yönelik olarak, kalkınma plan ve programlarında yer alan hedefler doğrultusunda, kamu kaynaklarının etkin ve verimli kullanılması amacıyla, nüfus, coğrafi yapı, ulaşım, sosyoekonomik gelişmişlik düzeyi ve hizmetin büyüklüğü göz önünde bulundurulmak suretıyle müdürlük, ilçe sağlık müdürlüğü ve bağlı sağlık tesislerinde görevlendirilecek sözleşmeli yöneticilerin ve uzmanların nitelik ve sayıları ile kadrolu personel sayıları Bakanlık tarafından belirlenir.
+d) Bu ilkeyi gerçekleştirmeye yönelik olarak, kalkınma plan ve programlarında yer alan hedefler doğrultusunda, kamu kaynaklarının etkin ve verimli kullanılması amacıyla, nüfus, coğrafi yapı, ulaşım, sosyoekonomik gelişmişlik düzeyi ve hizmetin büyüklüğü göz önünde bulundurulmak suretiyle müdürlük, ilçe sağlık müdürlüğü ve bağlı sağlık tesislerinde görevlendirilecek sözleşmeli yöneticilerin ve uzmanların nitelik ve sayıları ile kadrolu personel sayıları Bakanlık tarafından belirlenir.
 
 e) Müdürlüğün ve ilçe sağlık müdürlüğünün her kademesindeki yöneticileri, görevlerini mevzuata ve sözleşme hükümlerine, stratejik plan ve programlara, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütülmesinden üst kademelere karşı sorumludur.
 
@@ -105,13 +120,17 @@ b) Görevlerin usulüne uygun, zamanında ve düzenli olarak yürütülmesinde m
 
 c) Görev alanı ile ilgili üç aylık durum raporunu hazırlayarak müdüre sunar.
 
-#### ç) Müdürün verdiği diğer görevleri yerine getirir. Başkan yardımcısının görevleri
+ç) Müdürün verdiği diğer görevleri yerine getirir.
 
-**MADDE 10 –** (1) Başkan yardımcısı, başkana ve müdüre karşı sorumlu olup müdür tarafindan ilgili başkanlık hizmet alanlarına yönelik olarak yapılacak görev dağılımı çerçevesinde hizmetlerin yürütülmesinden sorumludur.
+#### Başkan yardımcısının görevleri
 
-#### (2) Müdürün ve Başkanın verdiği diğer görevleri yerine getirir. İlçe sağlık müdürünün görevleri
+**MADDE 10 –** (1) Başkan yardımcısı, başkana ve müdüre karşı sorumlu olup müdür tarafından ilgili başkanlık hizmet alanlarına yönelik olarak yapılacak görev dağılımı çerçevesinde hizmetlerin yürütülmesinden sorumludur.
 
-**MADDE 11 –** (1) Ilçe sağlık müdürü, müdüre karşı sorumlu olup aşağıdaki görevleri
+(2) Müdürün ve Başkanın verdiği diğer görevleri yerine getirir.
+
+#### İlçe sağlık müdürünün görevleri
+
+**MADDE 11 –** (1) İlçe sağlık müdürü, müdüre karşı sorumlu olup aşağıdaki görevleri
 
 a) Müdürlük tarafından verilen görevleri ilçe düzeyinde yerine getirir, yapılan düzenlemelere uyumu denetler ve gerekli yaptırımları uygular. Uzmanın görevleri
 
@@ -185,7 +204,9 @@ r) Görev alanındaki personelin;
 
 s) Bakanlığın belirledıği sağlık bılişimi standartlarının uygulanmasını, merkezi bılişim sistemlerine veri gönderimlerini sağlamak.
 
-#### t) Müdür tarafından verilen diğer görevleri yapmak. Sağlık bakım hizmetleri müdürü
+t) Müdür tarafından verilen diğer görevleri yapmak.
+
+#### Sağlık bakım hizmetleri müdürü
 
 **MADDE 15 –** (1) Sağlık bakım hizmetleri; sağlık tesisine başvuran hastaların kabulünden ayrılış işlemleri tamamlanana kadar geçen süre içerisinde, müdavi hekimin teşhis, tedavi ve rehabilitasyon hususlarındaki direktifleri dikkate alınarak hasta ve çalışan hakları, güvenliği ile memnuniyeti ilkeleri çerçevesinde sunulan hizmetler ile hastanın nakli, sosyal destek sağlanması, hizmete erişiminin kolaylaştırılmasını sağlamaya yönelik sunulan hizmetlerin bütünüdür.
 
@@ -403,7 +424,7 @@ YardımcISı 1 Başkan 2 Başkan 1 Başkan 1 Başkan 1 Başkan 1 Başkan 3 Başk
 
 5) 17 ve i8 illerinde; halk sağlığı hizmetleri bir başkan, kamu hastaneleri hizmetleri bir başkan, acil sağlık hizmetleri, ilaç ve tıbbi cihaz hizmetler-ile sağlık hizmetler(Sağlık Hizmetleri Başkanlığt adı altında) bir başkan, personel hizmetleri ile destek hizmetleri (Destek Hizmetleri Başkan liğt adr altadey biğ bagkan
 
-6) 19 illerinde; halk sağlığı hizmetleri, kamu hastaneleri hizmetleri, acil sağlık hizmetleri, ilaç ve tıbbi cihaz hizmetler ile sağlık hizmetleri (Sağlik Hižmétleri, Başkanhg adı altında) bir başkan, personel hizmetleri ile destek hizmetleri (Destek Hizmetleri Başkanlığı adı altında) bir başkan tarafından yürütülür. Evrakm elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 3r755a9a-de8a-4066-8685-bd9cccfe95b3 kodu ile crişebilisiniz. Bu belge 5070 sayıh elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstir.
+6) 19 illerinde; halk sağlığı hizmetleri, kamu hastaneleri hizmetleri, acil sağlık hizmetleri, ilaç ve tıbbi cihaz hizmetler ile sağlık hizmetleri (Sağlik Hižmétleri, Başkanhg adı altında) bir başkan, personel hizmetleri ile destek hizmetleri (Destek Hizmetleri Başkanlığı adı altında) bir başkan tarafından yürütülür.
 
 ### EK-II IL SAGLIK MÜDÜRLÜĞÜ BAŞKANLIKLARI, BİRİM ADLARI VE GÖREV TANIMLARI A) HALK SAGLIĞI BAŞKANLIĞI HİZMET BİRİMLERİ
 
@@ -449,7 +470,6 @@ g) Faaliyet alanıyla ilgili izleme ve değerlendirme faaliyeti yapmak, ilgili b
 
 g) Göçmenlere verilecek sağlık hizmetlerinin nicelik ve niteliğinin behrlenmesi ile güncellenmesi faaliyetlerini, ilgili birimlerle birlikte yürütmek.
 
-BEK Evrakın elel adresinden 31755a9 -4066-8685-bd9ccefc95b3 kodı
 
 ### 360
 
@@ -491,7 +511,6 @@ i) Aile Hekimliği Uygulama Yönetmeliğinde yer verilen eğitimleri yapmak ve/v
 
 j) Birinci basamak sağlık hizmetleri alanında yapılacak olan araştırma taleplerini değerlendirmek.
 
-2 ÈKíÀS Evrakın elektronik imzala suretine http:/le-belge saglik gov.tr adresinden 3755a98 deSa 106-8685-bd9cefe9557 koh6 n/egebileit Bu belge 5070 sayıh elektronik imza kanuna göre güvenli elektronık imza ile imzalanmıstır.
 
 ### 361
 
@@ -545,7 +564,6 @@ f) Kanser Erken Teşhis ve Tarama Eğitim Merkezlerinin (KETEM) planlanması ye 
 
 ### 3
 
-Evrakın elektronik imzalı suretine hitp:/e-belge.saglik.gov.tr adresinden 31755a9a-de8a-4066-8685-bd9ceefe95b3 kedu F5 Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile inzalanmıstır.
 
 ### 362
 
@@ -587,9 +605,7 @@ h) Bakanlıkça belirlenen beslenme ve diyet danışmanlığı hizmetlerine ait 
 
 1) Toplu beslenme hizmeti sunulan yerlerde (okul, yurt, hastane, kreş, bakımęvi, čezaevi vb.) besinlerin satın alınmasından servisine kadar geçen her aşamada sağlıklı beslenmenin
 
-4 АДиРві· Evrakın elektronik imzal suretine htp:/e-belge.saglik.gov.tr adresinden 31755u9a-de8a-1066-8685-bd9cef95b) kod2/fe fes
 
-tirsiniz Bu belge 5070 sayıh elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 ### 363
 
@@ -635,7 +651,7 @@ j) Koruyucu ruh sağlığı hizmetleri kapsamında üniversiteler, sivil toplum 
 
 k) Faaliyet alanlarıyla ilgili hizmet içi eğitim programı hazırlamak ya da hazırlanmasını sağlamak, bu eğitimlerin gerçekleştirilmesini sağlamak.
 
-1) Il Sağlık Müdürü tarafindan verilen benzeri görevleri yapmak. Evrakın elektronik imzal suretine http://e-belge.saglik.gov.tr adresinden 31755a9a-dc8a-4066-8685-bd9cecfc95b3 koduile greebilrshi Bu belge 5070 sayıh elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
+1) Il Sağlık Müdürü tarafindan verilen benzeri görevleri yapmak.
 
 ### 364
 
@@ -673,7 +689,7 @@ a) Anne ve bebek ölümleri inceleme komisyonları kurmak, anne ve bebek ölüml
 
 b) Evlilik öncesinde, gebelik, yenidoğan ve çocukluk döneminde gerçekleştirilen tüm tarama programlarının il genelinde ilgili sağlık kuruluşlarında sağlıklı şekilde yürütülmesini sağlamak, lojistik süreçleri ve tarama programlarında saptanan şüpheli vakaları yönetmek, program göstergelerini takip etmek.
 
-e) 15-49 yaş kadın, gebe, lohusa, bebek, çocuk ve ergen izlemlerinin Bakanlikça belirlenen standartlara uygun olarak uygulanmasını sağlamak, göstergeleri takip etmek, uygulayıcılara geri bildirim vermek. Evrakin elektronik imzal suretine http://e-belge.saglik.gov.tr adresinden 31755a9a-dc8a-4066-8685-bd9ccefe95b3 kod Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
+e) 15-49 yaş kadın, gebe, lohusa, bebek, çocuk ve ergen izlemlerinin Bakanlikça belirlenen standartlara uygun olarak uygulanmasını sağlamak, göstergeleri takip etmek, uygulayıcılara geri bildirim vermek.
 
 ### 365
 
@@ -723,7 +739,6 @@ g) Ani gelişen halk sağlığı tehditlerini ortadan kaldırmaya ve/veya azaltm
 
 ### 7 BEKTAS
 
-Evrakın elektronik imzal: suretine htp://e-belge saglik gov.tr adresinden 31755a9a-de8a-4066-8685-bd9ceefe95b3 kodu ile et Bu belge 5070 sayıhı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 ### 366
 
@@ -771,7 +786,6 @@ o) Il Sağlık Müdürü tarafindan verilen benzeri görevleri yapmak.
 
 ### 8
 
-Dai SARP Evrakin elektronik imzal suretine http://e-belge.saglik.gov.tr adresinden 31755a9a-deSa-4066-8685-bd9/cecfe:95b3 kodu ilg stiwebiftsiniz Bu belge 5070 sayılı elektronik imza ka una göre güvenli elektronik imza ile imzalanmıstır.
 
 ### 367
 
@@ -827,7 +841,6 @@ SĄS
 
 ### 9
 
-Evrakin elektronik imzal: suretine htp:lle-belge.saglik.gov.tr adresinden 3755a9a-deSa-106-8685-bd9cecfe95b3 kodu120 sapıtasini Bu belge 5070 sayılı elektronık imza kanuna göre güvenli elektronık imza ile imzalanmıstır.
 
 ### 368
 
@@ -883,7 +896,6 @@ h) Il Sağlık Müdürü tarafından verilen benzeri görevleri yapmak.
 
 ### 10
 
-Evrakın elektronik imzal: suretine http://e-belge.saglik.gov.tr adresinden 3f755a9a-de8a-4066-8685-bd9cecfc95b3 %pdfig g Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 ### 369
 
@@ -927,9 +939,7 @@ a) Ihtiyaç duyulan veriler için gerekli formları istatistiki veri toplama man
 
 ### 11
 
-Evrakin elektronik imzal suretine htp://e-belge saglik gov.tr adresinden 3755a9a-desa 1066-8685-bal9ecefe95b9 k cad4 1698
 
-bilirsiniz Bu belge 5070 sayıh elektronik imza kanuna göre güvenli elektronik inıza ile imzalanmıstır.
 
 ### 370
 
@@ -987,7 +997,6 @@ g) Mali kaynakların etkin, etkili ve verimli kullanılmasını sağlamak için 
 
 ### 12
 
-Evrakın elektronik imzal suretine http://e-belge.saglik.gov.tr adresinden 3f755a9a-dc8a-4066-8685-bd9ceefe95b3 e erigebil isiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronık imza ile imzalanmıstır.
 
 g) Sağlık tesislerinde tedarik planlama süreçlerine ilişkin düzenlemelere uyulmasını sağlamak ve gerekli tedbirleri almak.
 
@@ -1041,7 +1050,6 @@ a) Sağlık kurum ve kuruluşlarında, hasta ve refakatçilerine yönelik hizmet
 
 13 bdulltachr BEKTAS
 
-erirsiniz Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 3/755a9a-dc8a-4066-8685-bd9ccefe9563-kodu ilg Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronık imza ile imzalanmıstır.
 
 ### 372
 
@@ -1089,7 +1097,6 @@ h) Organ ve doku nakli, kan ve kan ürünleri, diyaliz, üremeye yardımcı teda
 
 ### 14
 
-Evrakın elektronik imzal: suretine http:/le-belge.saglik.gov.tr adresinden 3f755a9a-dc8a-4066-8685-bd9ceefe95b3 kBk Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronık imza ile imzalanmıstır.
 
 ### 373
 
@@ -1125,7 +1132,6 @@ b) Sağlıkta tanıtım ve bilgilendirme faaliyetlerini düzenli olarak izlemek,
 
 c) Ilgili mevzuat gereğince tüm sağlık kurum ve kuruluşlarında çalışan hekim ve sağlık personeline verilen meslekten men cezalarını uygulamak.
 
-15 Evrakin elektronik imzali suretine htp:/e-belge saglik gov .r adresinden 3175a9»-deka-106-8685-bl9cefe9565 hodu l@ay tlimiy Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 ### 374
 
@@ -1169,7 +1175,6 @@ a) Sağlık meslek mensuplarının mevzuatlarla belirlenen görev, yetki, soruml
 
 b) Bakanlığın planlamalarına uygun olarak sağhk meslek mensuplarının it düzcyinde mikro planlamalarını yapmak,
 
-16 @alne Fatan s Evrakm cikirik imzal muretine hip:/c bole saglik gov ar adresinden 375090 de8 06-8685 bl9 ce6-953 kalei fite lirainie Bu belge 5070 sayıhı elektronik imza kanuna göre güvenli elektronik inza ile imzalanmıstır.
 
 ### 375
 
@@ -1221,7 +1226,6 @@ e) Hizmet amacına yönelik organizasyon ile mal ve hizmet alımları ile ilgili
 
 ›au kagit BEK TA
 
-17 faire Baskany Burada ceteni inal untin tap/l bele alik o e ade inden 375 Po de8 -06-8685 b9206953 kate ie raftimiz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 ### 376
 
@@ -1267,7 +1271,6 @@ d) İl Sağlık Müdürü tarafindan verilen benzeri görevleri yapmak.
 
 ### 18
 
-Evrakin elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 3f755a9a-de8a-4066-8685-bd9ccefe95b3 kadu ifoeräebilixiniz Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 ### 377
 
@@ -1317,7 +1320,6 @@ isdalkadır BEKTAS
 
 ### 19
 
-Evrakin elektronik imzah suretine tp:/e-bolge saglik gov er adresinden 3175a9a deSa-406-8685-bd9 ce69563 kodu ile eryebilryiniz Bu belge 5070 sayılı elektronik imza kanuna göre güvenlı elektronık imza ile imzalanmıstır.
 
 ### 378
 
@@ -1361,7 +1363,6 @@ a) Sağlık ve yardımcı sağlık hizmetleri sınıfinda görev yapmakta person
 
 b) Tabip ve uzman tabiplerin Devlet hizmet yükümlülüğü takip ve tamamlama iş ve e) Sağlık personelinin emeklilik ve fili hizmet iş ve işlemlerini yürütmeki Wa 4 2- eç a işlemlerini yürütmek
 
-20 Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 ### J17
 
@@ -1423,7 +1424,6 @@ a) Disiplin ile ilgili işlemlerin mevzuata uygun şekilde, zamanında yapılmas
 
 b) Personel hakkında; 657 sayılı Devlet Memurları Kanununun disiplin hukuku hükümlerini, tåbi oldukları mevzuatta yer alan (4924 sayılı Kanun, 5258 sayılı Kanun ve 663 sayılı Sağhk Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamede öngörülen) ihtar puanlarını ve sürekli işçi olarak istihdam edilenler hakkında Belirsiz Süreli İş Sözleşmesinde düzenlenen cezaları uygulamaya ilişkin iş ve işlemleri yürütmek.
 
-21 Evrakin elektronik imzal: suretine http:l/e-belge.saglik.gov.tr adresinden 3f755a9a-dc8a-4066-8685-bd9ccefe95b3 ködu ile e Bu belge 5070 sayıh elektronık imza kanuna göre güvenli elektronık imza ile imzalanmıstır.
 
 ### 380
 
@@ -1483,7 +1483,6 @@ h) Daire tabipliği, iş sağlığı ve güvenliği ile ilgili iş ve işlemleri
 
 1) Faaliyet alanlarıyla ilgili eğitim programı hazırlayarak uygulamak ya daz uyulamak görev alanıyla ilgili araştırmalar yapmak, konu hakkında sempozyum, panel, çaliştay, seminer
 
-22 Evrakın elektronik imzal suretine hitp:i/e-belge.saglk.gov.tr adresinden 3f755a9a-de8a-4066-8685-bd9ceefc95b3 kedh fetr@cbilanaiz Bu belge 5070 sayılı elektronik imza kanana göre güvenli elektronik imza ile inzalanmıstır.
 
 ### J01
 
@@ -1537,7 +1536,6 @@ b) Bakanlığın ihtiyaç duyduğu taşınmazların kamulaştırma işlemlerini 
 
 ### • BEKTAS 23
 
-Evrakın elektronik imzal: suretine htp://e-belge saglik gov.tr adresinden 3/755a9»-deSa-1066-8685-bd9ceefe95b3 kodu jlé éngebilbini Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 ### 382
 
@@ -1591,7 +1589,6 @@ d) 663 sayılı Kanun Hükmünde Kararname'nin 54 üncü maddesi kapsamındaki p
 
 e) Hukuki işlemlerle ilgili olarak yazışmalarda bulunmak. vs. etkinlikler düzenlemek ve düzenlenen ulusal ve uluslararası etkinhiklere kaü, vel/yeyă olçe 1) Faaliyet alanlarıyla ilgili eğitim programı hazırlayarak uygulamak ya da uygulatmak, görev alanıyla ilgili araştırmalar yapmak, konu hakkında sempozyum, panel, çalıştay, seminer katılım sağlamak.
 
-24 Evrakin elektronik imzal: suretine http://e-belge.saglik.gov.tr adresinden 3f755a9a-de8a-4066-8685-bd9cccfe95b3 kodbale dr Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronık imza ile imzalanmıstır.
 
 ### 383
 
@@ -1641,9 +1638,7 @@ e) Hasta hakları uygulamalarını il genelinde koordine etmek, bu konuda danı�
 
 f) Kurul kararlarının özetini, başvuru tarihi, başvuru konusu, karar tarihi ve sayısı ile sağlık tesisi ismi belirtilerek kişi isimleri isimlerine yer vermeden il sağlık müdürlüğünün internet sayfasında duyurulmasını sağlamak. görev alanya let ilanaşuyhala yapmak, konu hak kand sempozyum, pane y da tay, seminer .
 
-25 Evrakın elektronik imzal: suretine http://e-belge.saglik.gov.tr adresinden 3f755a9a-dc8a-4066-8685-bd9ccefc95b3 kodüik erebilirsiniz
 
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronık imza ile imzalanmıstır.
 
 ### 384
 
@@ -1697,7 +1692,6 @@ c) Görev alanıyla ilgili veri toplamak, analiz ve raporlama çalışmalarını
 
 26
 
-schi n HD U Evrakın elektronik imzala suretine http://e-belge.saglik.gov.tr adresinden 31755a9a-dc8a-4066-8685-bd9ccefe95b3 kodu ilc Bu belge 5070 sayıh elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 ### 385
 
@@ -1975,33 +1969,70 @@ Sağlık Personeli Özlük Birimi, Diğer Personel Özlük Birimi, Disiplin Biri
 
 Idari Hizmetler Birimi, Yatırımlar Birimi ile Sağlık Bilgi Sistemleri Birimi altırda tanupf iş ve işlemleri yapar.
 
-### 12. MALI HİZMETLER BİRİMİ 13. HUKUK VE MUHAKEMAT BİRİMİ 14. HASTA HAKLARI İL KOORDİNATÖRLÜGÜ 392
-
-### 15. SİVİL SAVUNMA VE SEFERBERLİK HİZMETLERİ BİRİMİ 16. DÖNER SERMAYE MUHASEBE HİZMETLERİ BİRİMİ 17. IL KALITE KOORDINATÖRLÜGÜ 18. MESLEKİ SORUMLULUK KURULU İL KOORDİNATÖRLÜĞÜ 19. AGIZ VE DİŞ SAĞLIĞI HİZMETLERİ BİRİMİ VII) İ9 GRUBU ILLERDE KURULACAK BİRİMLER 1.HALK SAGLIĞI HİZMETLERİ BİRİMİ
-
-Halk Sağlığı Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
-
-### 2.KAMU HASTANELERİ HİZMETLERİ BİRİMİ
-
-Kamu Hastaneleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
-
-### .SAGLIK HİZMETLERİ BİRİMİ
-
-Sağlık Hizmetleri Başkanlığı ile Ilaç ve Tıbbi Cihaz Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
-
-### 4.ACİL SAĞLIK HİZMETLERİ BİRİMİ
-
-Acil Hizmetler Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
-
-### .PERSONEL HİZMETLERİ BİRİMI
-
-Personel Hizmetleri Başkanlığı altındaki birimlere ile Inceleme ve Soruşturma Birimine tanımlanan iş ve işlemleri yapar.
-
-### .DESTEK HİZMETLERİ BİRİMİ
-
+### 12. MALİ HİZMETLER BİRİMİ
 Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
 
-### 7. HUKUK VE MUHAKEMAT BIRIMI S.HASTA HAKLARI İL KOORDİNATÖRLÜĞÜ 9.SİVİL SAVUNMA VE SEFERBERLİK HİZMETLERİ BİRİMİ 10.DÖNER SERMAYE MUHASEBE HİZMETLERİ BİRİMİ 11.İL KALİTE KOORDİNATÖRLÜĞÜ 12. MESLEKI SORUMLULUK KURULU İL KOORDİNATÖRLÜĞÜ 13. AGIZ VE DIŞ SAGLIGI HİZMETLERİ BİRİMI 393
+### 13. HUKUK VE MUHAKEMAT BİRİMİ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 14. HASTA HAKLARI İL KOORDİNATÖRLÜĞÜ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 15. SİVİL SAVUNMA VE SEFERBERLİK HİZMETLERİ BİRİMİ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 16. DÖNER SERMAYE MUHASEBE HİZMETLERİ BİRİMİ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 17. İL KALİTE KOORDİNATÖRLÜĞÜ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 18. MESLEKİ SORUMLULUK KURULU İL KOORDİNATÖRLÜĞÜ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 19. AĞIZ VE DİŞ SAĞLIĞI HİZMETLERİ BİRİMİ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### VII) İ9 GRUBU İLLERDE KURULACAK BİRİMLER
+
+### 1. HALK SAĞLIĞI HİZMETLERİ BİRİMİ
+Halk Sağlığı Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 2. KAMU HASTANELERİ HİZMETLERİ BİRİMİ
+Kamu Hastaneleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 3. SAĞLIK HİZMETLERİ BİRİMİ
+Sağlık Hizmetleri Başkanlığı ile İlaç ve Tıbbi Cihaz Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 4. ACİL SAĞLIK HİZMETLERİ BİRİMİ
+Acil Hizmetler Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 5. PERSONEL HİZMETLERİ BİRİMİ
+Personel Hizmetleri Başkanlığı altındaki birimler ile İnceleme ve Soruşturma Birimine tanımlanan iş ve işlemleri yapar.
+
+### 6. DESTEK HİZMETLERİ BİRİMİ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 7. HUKUK VE MUHAKEMAT BİRİMİ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 8. HASTA HAKLARI İL KOORDİNATÖRLÜĞÜ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 9. SİVİL SAVUNMA VE SEFERBERLİK HİZMETLERİ BİRİMİ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 10. DÖNER SERMAYE MUHASEBE HİZMETLERİ BİRİMİ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 11. İL KALİTE KOORDİNATÖRLÜĞÜ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 12. MESLEKİ SORUMLULUK KURULU İL KOORDİNATÖRLÜĞÜ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
+
+### 13. AĞIZ VE DİŞ SAĞLIĞI HİZMETLERİ BİRİMİ
+Destek Hizmetleri Başkanlığı altındaki birimlere tanımlanan iş ve işlemleri yapar.
 
 ### EK-IV 1 SAYILI CETVEL A) İL SAĞLIK MÜDÜRLÜĞÜ PERSONELİN KADRO UNVANI VE NİTELİĞİ SINIFI 12 15
 
@@ -2021,7 +2052,6 @@ Bekçi YHS Berber YHS Hizmetli YHS 60 50 40 35 30 25 20 15 10 Teknisyen Yardımc
 
 (2) Tekniker/Teknisyen standardı, tabloda bellrtilmeyen diğer teknike nisyen b nı için de kul NOT: A) Sürekli İşçi İl Sağlık Müdürlüğü standardı; Il Ambulans Servisi Başh Sağlık Hizmetleri İstasyonlarını kapsamaktadır.
 
-EE T.9
 
 ### 395
 
@@ -2045,7 +2075,6 @@ Uzman Tabip (Aile Hekimliği) SHS Uzman Tabip (Halk SeğB) SHS Tabip (3) SHS 26 
 
 (10) Entegre B2 tipi Acil Sağik Hizmetleri İstasyonu olması durumunda kulanır. NOT: A) ilçe TÜiK nüfusu 750.001 de daha büyük ilçeler A1, 500.001 ile 750.000 arasında olan geler A2, 350.001 ile 500.000 arasinda olan liçeler A3, 275.001 àe 350.000 arasinda olan ilçeler A4, 200.001 ile 275.000 arasinda olan ilpeler AS, 150.001 ile 200.000 arasinda olan Ilçeler B1, 100.001 ile 150.000 arasinda olen ilçeler B2, 75.001 ile 100.000 arasinda olan ilçeler B3, 50.001 ile 75.000 arasinda olan Epeler B4, 30.001 ile 50.000 arasinda olan ilçeler B$ grubu olarak tanimlanmiştır.
 
-C2 000
 
 ### 396
 
