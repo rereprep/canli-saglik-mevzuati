@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 772-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.71. Su Kesintisinde Alınacak Tedbirler Genelgesi (2007/67)
@@ -19,7 +20,7 @@ T.C.
 SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B.10.0.TSH.0.10.00.04 / 20862
+Sayı : B.10.0.TSH.0.10.00.04
 Konu : Su kesintisinde alınacak tedbirler
 
 08.08.2007
@@ -38,7 +39,7 @@ Muhtemel sorunların tanımlanarak çözümü için sorumlulukların bilinçli b
 
 Toplum sağlığının korunması ve su kesintilerinin herhangi bir sağlık sorununa yol açmaması için yerel yönetimler, vatandaşlar ve ilgili kurum ve kuruluşlarca alınması gereken tedbirler ve dikkat edilmesi gereken hususlar aşağıda belirtilmektedir.
 
-### A- Sağlık Müdürlüklerince Alınması Gereken Tedbirler
+A- Sağlık Müdürlüklerince Alınması Gereken Tedbirler
 
 1. Sağlık Müdürlüklerinde ilgili sağlık müdür yardımcısı başkanlığında, gıda ve çevre kontrol şube müdürü, bulaşıcı hastalıklar şube müdürü, sağlık ocakları şube müdüründen oluşan bir izleme değerlendirme birimi oluşturularak gelişmeler ve yapılan çalışmalar günlük/haftalık değerlendirilmelidir (su ve besinlerle bulaşan hastalık sürveyansı).
 
@@ -76,7 +77,7 @@ Toplum sağlığının korunması ve su kesintilerinin herhangi bir sağlık sor
 
 18. 17.02.2006 tarih ve 2006/23 sayılı Genelgemiz göz önüne alınarak olası salgın durumları hemen incelemeye alınmalıdır.
 
-### B- Yerel Yönetimlerce Alınması Gereken Tedbirler
+B- Yerel Yönetimlerce Alınması Gereken Tedbirler
 
 1. Öncelikle mümkün olduğunca su kesintisine gidilmemesi için tüm alternatifler değerlendirilmeli ve zamanında tedbir alınmalıdır.
 
@@ -86,7 +87,7 @@ Toplum sağlığının korunması ve su kesintilerinin herhangi bir sağlık sor
 
 4. Kesinti planlaması da dahil olmak üzere su kesintilerinin her aşamasında ve su dağıtım sisteminde arıza olması halinde, sağlık müdürlükleri ile koordinasyon sağlanmalıdır.
 
-5. Normal şartlarda şebeke sularındaki serbest klor miktarı 0,5 ppm (mg/L) olmalıdır. Ancak, su kesintilerinin yaşandığı yerlerde süper klorlama yapılmak suretiyle bu düzey en az 1-2 ppm seviyesinde tutulmalıdır.
+5. Normal şartlarda şebeke sularındaki serbest klor miktarı 0,5 ppm (mg/L) olmalıdır. Ancak, su kesintilerinin yaşandığı yerlerde süper klorlama yapılmak suretiyle bu miktar 1 ppm (mg/L)'e çıkarılmalıdır.
 
 6. Kesinti süresince kontroller sıklaştırılmalı, suyun bakteriyolojik analizleri, serbest klor ölçümleri aksatılmadan yapılmalıdır. Klorlama cihazlarının periyodik bakımlarının yapılarak sürekliliği sağlanmalı ve sistem muhtemel arızalara karşı yedeklenmelidir.
 
@@ -124,7 +125,7 @@ Toplum sağlığının korunması ve su kesintilerinin herhangi bir sağlık sor
 
 23. İlgili belediye personelinin hijyen ve dezenfeksiyonla ilgili bilgi açıkları varsa il sağlık teşkilatı ile işbirliği yapılarak eğitimleri sağlanmalıdır.
 
-### C- Halkımızın Dikkat Etmesi Gereken Hususlar
+C- Halkımızın Dikkat Etmesi Gereken Hususlar
 
 1. Bina ve konutlarda kullanılan su depolarından temizliği yapılmamış olanlar hemen, daha sonra da belirli periyotlarla (kesinti olduğu dönemlerde 3 ayda bir, diğer dönemlerde 6 ayda bir) temizlenmeli ve bakımları yapılarak dezenfeksiyonu sağlanmalıdır.
 
@@ -148,7 +149,7 @@ Toplum sağlığının korunması ve su kesintilerinin herhangi bir sağlık sor
 
 11. Kişisel temizliğe özellikle el temizliğine mutlaka dikkat edilmelidir.
 
-12. Sahteliğinden şüphelenilen ambalajlı sular ile ilgili şikayetler Sağlık Müdürlükleri ile Sağlık Bakanlığının 184 no'lu telefon hattına iletilmelidir.
+12. Sahteliğinden şüphelenilen ambalajlı sular ile ilgili şikayetler Sağlık Müdürlükleri ile Sağlık Bakanlığının 184 nolu telefon hattına iletilmelidir.
 
 13. Kesinti, arıza, açıkta su satılması, su depoları ve diğer hususlar ise belediyelerin ilgili birimlerine iletilmelidir.
 

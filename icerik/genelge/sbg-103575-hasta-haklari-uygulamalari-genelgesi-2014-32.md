@@ -53,9 +53,9 @@ b) HBBS'nin işleyişini ve kurul kararlarının uygulanmasını takip eder. HBB
 
 c) Kurulun toplanması, üye görevlendirilmesi ve üyeliğin sona ermesi gibi kurulun çalışmasına ilişkin işlemleri yürütür.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC. Sağlık Bakanliğ
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 d) Birden fazla kurul oluşturulması halinde sağlık kuruluşlarının bağlı olacağı kurul ile değişiklik taleplerini değerlendirir.
 
@@ -95,9 +95,9 @@ Toplum sağlığı merkezleri ve bağlı birimleri ile entegre sağlık hizmeti 
 
 Kurulda görev almak isteyen dernekler İl Sağlık Müdürlüğüne başvurur. Birden fazla hasta hakları derneğinin veya tüketici derneğinin başvurması durumunda, öncelikle hasta hakları derneklerinden yoksa tüketici derneklerinden bir dernek temsilcisi il sağlık müdürlüğünce kura yoluyla belirlenir. Beyanına göre sağlık kurulüşuyla ticari ilişkisi olmayan dernek ve dernek üvesi kurulda görevlendirilir.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC Sağlık Bakanlığı
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 Kurula temsilci gönderecek kurumlar her kurul için bir asil bir yedek olmak üzere yasal süreler içinde görev yapacak daimi iki temsilci ismi bildirir. Asil üyelerin mazereti sebebiyle toplantıya katılamaması halinde yerlerine yedek üyeler katılır.
 
@@ -147,9 +147,9 @@ d) Kurul kararını gerekçesiyle birlikte HBBS'ye kaydeder. Kararın yer aldı�
 
 e) Sekretaryaya yapılan hasta haklarına ilişkin başvuruları HBBS'ye kaydeder.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC. Sağlık Bakanlığ
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 1) Görev yaptığı kurula bağlanması uygun görülen sağlık tesisini HBBS üzerinde kurulla ilişkilendirir. Gereği halinde ilgili sağlık tesisinin başka bir kurula bağlanması için il koordinatörüne aktarım talebinde bulunur.
 
@@ -184,10 +184,8 @@ c) Hasta hakları konusunda eğitimi olmayan kişiler hasta iletişim birim soru
 Hasta iletişim birimi sorumlusu, il koordinatörlüğü tarafından planlanan 8 saat teorik ve 8 saat uygulamalı aşağıdaki eğitimlere tabi tutulur:
 
 T.C.
-
-### SAĞLIK BAKANLIGI
-
-Sağlık Hizmetleri Genel Müdürlüğü TC Sağlık Bakanlığıı
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 1- Hasta odaklı hizmet anlayışı eğitimi(hasta hekim iletişimi, Bakanlık uygulamaları, hasta hakları mevzuatı).
 
@@ -229,9 +227,9 @@ Hasta ve yakınları tarafından, sağlık hizmet sunucularına ilişkin başvur
 
 HBBS'ye, https://hastahaklari.saglik.gov.tr/ adresinde tanimlı olan sağlik tesislerine yönelik şikayet, sorun-çözme, görüş- öneri veya teşekkür başvurusu yapılabilir. Bu başvuru ilgili sağlık tesisi hasta iletişim birimi tarafından işleme alınır.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC. Sağlık Bakanlığ
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 Hasta veya yakını tarafından hasta iletişim birimine doğrudan başvuru yapılması halinde, başvuru kimlik ibrazıyla yazılı olarak alınır. Yazılı başvuru tarayıcıdan geçirilerek HBBS ye doğrudan başvuru olarak kaydedilir. Süreç hakkında başvuran bilgilendirilir.
 
@@ -267,9 +265,9 @@ e) Sağlık tesisleri, kurul kararlarının gereğini yerine getirir ve yapılan
 
 1) Kurul kararı kendisine bildirilen ilgili kurum veya kuruluşun yöneticisi/askeri hastane başhekimi/mesul müdürü gerekli işlemlerin yapılmamasından veya gecikmesinden doğacak adli ve idari sonuclardan sorumludur.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC Sağlık Bakanlığ
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 Hasta hakları uygulamalarının ve Hasta Başvuru Bildirim Sisteminin herhangi bir aksamaya mahal verilmeden tüm sağlık tesislerimizde multidisipliner bir şekilde uygulanması hususunda gereğini rica ederim.
 

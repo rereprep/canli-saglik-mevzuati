@@ -267,7 +267,7 @@ d) Taşınırların devri, imha ve hurdaya ayrılması, satışı veya terkin i�
 
 Sayı : 80981279-010.06/ Konu: Stok Yönetimi ve Taşınır Mal Uygulamaları
 
- YÜRÜRLÜKTEN KALDIRMA:
+7. YÜRÜRLÜKTEN KALDIRMA:
 
 Bu genelgenin yayımı tarihi itibarı ile aşağıda belirtilen genelgeler ve bu genelgelere istinaden yayımlanan genel yazılar yürürlükten kaldırılmıştır.
 
@@ -285,6 +285,6 @@ f) 05.10.2011 tarihli ve 10604 sayılı (2011/54 sıra nolu) Genelge.
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Đr. Nihat TOSUN
+Prof. Dr. Nihat TOSUN
 
 Müsteşar

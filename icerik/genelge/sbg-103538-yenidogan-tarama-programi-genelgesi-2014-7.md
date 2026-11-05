@@ -10,21 +10,42 @@ durum: "yürürlükte"
 konu: "Yenidoğan Tarama Programı Genelgesi (2014/7) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.57. Yenidoğan Tarama Programı Genelgesi (2014/7)
 
-Sayı : 67414668- Konu: Yenidoğan Tarama Programı yeterince oral beslenmeden alınmışsa hastaya ilk hafta içinde aile hekimlerine ya da en yakın sağlık kurumuna başvurarak yeni topuk kanı örneği aldırması gerektiği söylenmelidir.
+### T.C. SAĞLIK BAKANLIĞI
+Türkiye Halk Sağlığı Kurumu
+
+**Sayı :** 67414668-  
+**Konu :** Yenidoğan Tarama Programı
+
+…… VALİLİĞİNE  
+(Halk Sağlığı Müdürlüğü)
+
+### GENELGE
+**2014/7**
+
+Ülkemizde yılda yaklaşık 1.270.000 bebek doğmakta ve bu bebeklerin binde 7.4'ü bir yaşına gelmeden ölmektedir. Ülkemizde bebek ve çocuk ölümünü önlemeye yönelik yürütülen çalışmalar sonucunda yıllar içinde çocuk ölümleri azalmış, çocuk sağlığını tehdit eden diğer sorunlar öne çıkmıştır. Bu hastalıklardan korunulabilir olanların yaratacağı olumsuzlukları önlemek de artık çocuk sağlığı konusunda öncelikli sağlık hizmetlerinden biridir. Yenidoğan Tarama Programı içinde yer alan konjenital hipotiroidi, fenilketonüri ve biyotinidaz eksikliği hastalıklarının taraması, bu kapsamdaki koruyucu sağlık hizmetlerinin en önemlilerindendir.
+
+663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Yenidoğan Tarama Programı Türkiye Halk Sağlığı Kurumu Bulaşıcı Olmayan Hastalıklar Programlar ve Kanser Başkan Yardımcılığı Çocuk ve Ergen Sağlığı Daire Başkanlığı koordinatörlüğünde yürütülmektedir. Bu görev kapsamında her bebeğin taranması, tarama sonuçlarına göre bebeklerin ilgili kliniğe yönlendirilmelerinin takibi ve programın izleme ve değerlendirilmesi ile sürdürülebilirliğin sağlanması yer almaktadır.
+
+Halk Sağlığı Müdürlükleri; bebeklerin doğumlarından itibaren uygun şartlarda, özel filtre kâğıtları ile topuk kanı örneklerini almak, web uygulamasına alınan kan örneklerinin girişini yapmak, mükerrer numunelerin ve tekrar numunelerin zamanında eksiksiz olarak alınmasını, kan örneklerinin Yenidoğan Tarama Laboratuvarlarına en kısa zamanda ulaştırılmasını sağlamak, tarama sonuçları internet ortamında açıklanır açıklanmaz sonuçları hastalık yönünden şüpheli çıkan bebeklerin web sayfasındaki talimatlar doğrultusunda ilgili kliniklere sevkini gerçekleştirmek, ilgili klinik tarafından verilen tanıları ve sonuçlarını web uygulamasındaki klinik tanı girişlerini kullanarak kaydetmek ve bu bebeklerin takip edilmesini sağlamakla yükümlüdür.
+
+Söz konusu bu çalışmaların yürütülmesi sırasında karşılaşılan problemlerin çözülebilmesi için aşağıdaki hususlara azami dikkat gösterilmesi gerekmektedir:
+
+1. Tarama programı kapsamında doğan her bebekten doğumu takiben 48 saat sonra (oral beslenmenin ardından) topuk kanı örneği alınması esastır. Ancak mümkün olduğunca çok sayıda bebeğe ulaşabilmek için sağlık kurumlarında doğan bebeklerin sağlık kurumunu terk ettiği son anda topuk kanı örneği alınmalı, eğer bu örnek bebek yeterince oral beslenmeden alınmışsa hastaya ilk hafta içinde aile hekimlerine ya da en yakın sağlık kurumuna başvurarak yeni topuk kanı örneği aldırması gerektiği söylenmelidir.
 
 2. Birinci basamak (ASM, TSM) hizmetlerinden faydalanmak üzere gelen her yeni doğan bebeğin, daha önce hastanede topuk kanı alınıp alınmadığı, alındı ise ne zaman alındığı ve kan alımı öncesi bebeğin beslenip beslenmediği yönünden ayrıntılı olarak sorgulanması gerekmektedir. Daha önce topuk kanı alınmadıysa veya topuk kanı bebekten 48 saat dolmadan ya da emzirilmeden önce alındıysa mutlaka mükerrer kan örneği alınmalıdır. Bebeklerden sadece bir kez mükerrer kan örneği alınmalıdır.
 
-3. Yenidoğan servislerinde yatırılarak izlenen hasta bebeklerden tarama için ilk 48 saat içinde topuk kamı örneğin alınmalı ve web sistemine girişleri yapılmalıdır. Bebek oral beslenmeye geçtikten 48 saat sonra mutlaka mükerrer numunesinin alınması sağlanmalıdır. Nakli söz konusu olan bebeklerin topuk kanı örneğinin alındığının hastaneden verilen çıkış özetinde belirtilmesi gerekmektedir. Hasta bebeğin nakledildiği hastanede önce çıkış özeti kontrol edilmeli, topuk kanı örneğinin alındığına dair bir ibare yoksa mutlaka tarama için topuk kanı örneği ahımalı ve bebek hastaneden taburcu edilirken çıkış özetinde örnek alındığı belirtilmelidir.
+3. Yenidoğan servislerinde yatırılarak izlenen hasta bebeklerden tarama için ilk 48 saat içinde topuk kanı örneğin alınmalı ve web sistemine girişleri yapılmalıdır. Bebek oral beslenmeye geçtikten 48 saat sonra mutlaka mükerrer numunesinin alınması sağlanmalıdır. Nakli söz konusu olan bebeklerin topuk kanı örneğinin alındığının hastaneden verilen çıkış özetinde belirtilmesi gerekmektedir. Hasta bebeğin nakledildiği hastanede önce çıkış özeti kontrol edilmeli, topuk kanı örneğinin alındığına dair bir ibare yoksa mutlaka tarama için topuk kanı örneği alınmalı ve bebek hastaneden taburcu edilirken çıkış özetinde örnek alındığı belirtilmelidir.
 
 4. Bebeklerden mükerrer veya yeni numune alınırken dikkat edilmesi gereken en önemli husus numunenin 48 saatlik oral beslenmeyi takiben alınmasıdır.
 
-5. Bebek hastaneden ayrılırken henüz 48 saatlik oral beslenme süresi dolmamışsa mutlaka uygun zamanda mükerrer numune alınmalıdır. Mükerrer numunede test sonuçları "normal" ise başka topuk kanı örneği alınmamalıdır.7 gün içerisinde mükerrer numunenin
+5. Bebek hastaneden ayrılırken henüz 48 saatlik oral beslenme süresi dolmamışsa mutlaka uygun zamanda mükerrer numune alınmalıdır. Mükerrer numunede test sonuçları "normal" ise başka topuk kanı örneği alınmamalıdır. 7 gün içerisinde mükerrer numunenin gönderilmesi zorunludur.
 
-6. 48 saatlik oral beslenmeyi takiben alınan numunelerde test sonuçlari "normal" ise tekrar topuk kanı örneği alınmamalıdır. Yeni numunede test sonucu "şüpheli" çıkmış ise tekrar kan örneği alınarak şüpheli olan test için "tekrar numune" girişi yapılmalıdır.
+6. 48 saatlik oral beslenmeyi takiben alınan numunelerde test sonuçları "normal" ise tekrar topuk kanı örneği alınmamalıdır. Yeni numunede test sonucu "şüpheli" çıkmış ise tekrar kan örneği alınarak şüpheli olan test için "tekrar numune" girişi yapılmalıdır.
 
 7. Tekrar numuneden sonra kan alınmamalıdır. Web sisteminde yayımlanan uyarılar doğrultusunda hareket edilmelidir.
 
@@ -32,9 +53,7 @@ Sayı : 67414668- Konu: Yenidoğan Tarama Programı yeterince oral beslenmeden a
 
 9. Web sistemi ilk mükerrer numune ve tekrar numune dışında hiçbir numune türünü kabul etmeyeceğinden web sisteminde yayımlanan uyarılar doğrultusunda hareket edilmelidir.
 
-10. Web sisteminde kaydına izin verilmeyen ve herhangi bir nedenle bebekten fazladan alınmış olan numunelerin laboratuara gönderilmeyerek tutanakla imha edilmesi gerekmektedir.
-
-Sayı : 67414668- Konu: Yenidoğan Tarama Programı
+10. Web sisteminde kaydına izin verilmeyen ve herhangi bir nedenle bebekten fazladan alınmış olan numunelerin laboratuvara gönderilmeyerek tutanakla imha edilmesi gerekmektedir.
 
 11. Aynı kargoda bir bebeğe ait iki kan numunesi gönderilmemelidir. Bu numunelerden uygun zaman aralığında ve uygun biçimde alınan numune tarama birimine gönderilip, diğeri tutanak tutularak imha edilmelidir.
 
@@ -44,44 +63,33 @@ Sayı : 67414668- Konu: Yenidoğan Tarama Programı
 
 14. Laboratuvara gönderilecek numunelerin en fazla 100 kan örneği içerecek paketler halinde, paket lastikleri ile desteklenerek, zarflara veya kilitli poşetlere daha sonra da kargo poşetine konularak gönderilmesi esastır.
 
-15. Kan alımı ile kayıt arasında geçen sürede kan örneklerinin saklanma şartları analiz sonucunu etkileyebilmekte olup uygun kan alma ve saklama ortamı sağlanmalıdır. Alınan kan numunelerinin sağlık kuruluşlarından toplanması ve tarama merkezlerine gönderilinceye kadar kilitli naylon torbalar içinde buzdolabında (2-8 "C'de) saklanması gereklidir.
+15. Kan alımı ile kayıt arasında geçen sürede kan örneklerinin saklanma şartları analiz sonucunu etkileyebilmekte olup uygun kan alma ve saklama ortamı sağlanmalıdır. Alınan kan numunelerinin sağlık kuruluşlarından toplanması ve tarama merkezlerine gönderilinceye kadar kilitli naylon torbalar içinde buzdolabında (2-8 °C'de) saklanması gereklidir.
 
-16. Laboratuarda tüm kayıt işlemleri barkod üzerinden yapılmaktadır. Barkodlar; numune kâğıdı üzerinde işaretli alanlara yapıştırılmalıdır. Barkodlar numunelerin üzerine, kåğıdı veya birden çok sayfayı ve bilgileri kapatacak şekilde yapıştırılmamalıdır. Barkod bilgileri ile numune kåğıdı üzerindeki bilgilerin uyumlu olduğu mutlaka kontrol edilmelidir.
+16. Laboratuarda tüm kayıt işlemleri barkod üzerinden yapılmaktadır. Barkodlar; numune kâğıdı üzerinde işaretli alanlara yapıştırılmalıdır. Barkodlar numunelerin üzerine, kâğıdı veya birden çok sayfayı ve bilgileri kapatacak şekilde yapıştırılmamalıdır. Barkod bilgileri ile numune kâğıdı üzerindeki bilgilerin uyumlu olduğu mutlaka kontrol edilmelidir.
 
 17. Hatalı kayıtların önüne geçmek için özellikle annenin T.C. Kimlik Numarası başta olmak üzere bebeğe ulaşmak için gerekli zorunlu alanların tümünün eksiksiz ve doğru (mümkünse nüfus cüzdanından kontrol edilerek) doldurulmasına dikkat edilmelidir. Numunelerin web sistemine girişleri yapılırken sistem, anne TC. Kimlik numarası için otomatik olarak Mernis sorgulaması yapmaktadır. Aşırı sistem yoğunluklarının yaşandığı durumlarda Mernis sorgulaması birkaç dakika bekledikten sonra manuel olarak yapılmalıdır. Mernis sorgulaması yapıldıktan sonra ekrandaki bilgiler ile numune kâğıdı üzerindeki bilgilerin uyumlu olup olmadığı mutlaka kontrol edilmelidir.
 
 18. Web uygulamasına kayıt ve onay yapılmadan gönderilen numuneler laboratuar çalışmalarının gecikmesine neden olmaktadır. Bu sebeple numuneler sisteme girildikten sonra onay işleminin gerçekleştirilmesi ve onay yapıldıktan sonra numunelerle onay listesindeki numune sayısının karşılaştırılması gerekmektedir.
 
-19. Program kapsamında yapılan çalışmalarda laboratuvarla uyumlu hale getirilen ve ekte yer alan akış şemaları esas ahınmalı, il düzeyinde başka bir düzenleme yapılmamalıdır.
-
-_T.C. SAGLIK BAKANLIĞI Türkiye Halk Sağlığı Kurumu
-
-Sayı : 67414668- Konu: Yenidoğan Tarama Programı
+19. Program kapsamında yapılan çalışmalarda laboratuvarla uyumlu hale getirilen ve ekte yer alan akış şemaları esas alınmalı, il düzeyinde başka bir düzenleme yapılmamalıdır.
 
 20. Sonucu şüpheli çıkan bebeklerin sevk işlemleri yapılırken ekte yer alan ve her hastalık için aynı hazırlanmış olan sevk formları ve Yenidoğan Tarama Programı Web uygulamasında yer alan laboratuar sonucunu içeren çıktı kullanılmalıdır.
 
 21. Tarama sonucunda hastalık yönünden şüpheli çıkan bebekler, aksi talimat olmadığı sürece ekte gönderilen revize akış şemaları uyarınca yönlendirilmeli, sonuçları web uygulamasındaki klinik tanı girişine yine ekte gönderilen "Ulusal Yenidoğan Tarama Programı Yazılımı Kullanım Kılavuzu"nda belirtildiği biçimde kaydedilmelidir. Bu aşamada gecikmelere yol açılmaması için tanı kodları mutlaka belirlenen zaman dilimleri içerisinde girilmelidir. Tanı kodu olarak "Tanılama sürecinde" seçildiğinde en geç 3 ay içerisinde bebeğin kesin tanısı sisteme girilmelidir.
 
-Yenidoğan Tarama Programı'nın sağlıklı şekilde yürütülmesi için yukarıda belirtilen hususlara dikkat edilerek genelge ve eklerinin tüm sağlık kuruluşlarina (resmi ve özel) duyurulması hususunda bilgilerinizi ve gereğini rica ederim.
+Yenidoğan Tarama Programı'nın sağlıklı şekilde yürütülmesi için yukarıda belirtilen hususlara dikkat edilerek genelge ve eklerinin tüm sağlık kuruluşlarına (resmi ve özel) duyurulması hususunda bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Nihat TOSUN
-
-Bakan a.
-
+Prof. Dr. Nihat TOSUN  
+Bakan a.  
 Müsteşar
 
-1. Akış Şemaları (3 sayfa)
-
-2. Sevk formları (3 sayfa)
-
-3. Pediatrik Endokrinoloji Uzmanları Danışman Listesi (5 sayfa)
-
-4. Pediatrik Beslenme ve Metabolizma Klinikleri ( Isayfa)
-
+1. Akış Şemaları (3 sayfa)  
+2. Sevk formları (3 sayfa)  
+3. Pediatrik Endokrinoloji Uzmanları Danışman Listesi (5 sayfa)  
+4. Pediatrik Beslenme ve Metabolizma Klinikleri (1 sayfa)  
 5. Ulusal Yenidoğan Tarama Programı Yazılımı Kullanım Kılavuzu (19 sayfa)
 
-DAGITIM:
+DAĞITIM:
 
-Gereği: 81 Il Valiliği Bilgi: Sağlık Hizmetleri Genel Müdürlüğü, Türkiye Kamu
-
-Hastaneleri Kurumu
+Gereği: 81 İl Valiliği  
+Bilgi: Sağlık Hizmetleri Genel Müdürlüğü, Türkiye Kamu Hastaneleri Kurumu
