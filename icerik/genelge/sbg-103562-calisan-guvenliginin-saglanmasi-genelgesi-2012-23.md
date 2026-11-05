@@ -27,7 +27,7 @@ Konu : Çalışan güvenliğinin sağlanması
 GENELGE
 2012/23
 
-Sağlık çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlığımızca bu çerçevede, sağlık kurumlarımız yönelik aşağıdaki çalışanlarının güvenliğine düzenlemeler yapılarak talimatlandırılmıştır.
+Sağlık çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlığımızca bu çerçevede, sağlık çalışanlarının güvenliğine yönelik aşağıdaki düzenlemeler yapılarak kurumlarımız talimatlandırılmıştır.
 
 a) Tüm sağlık kurumlarında, hizmet alanlar ve sağlık çalışanları için güvenli bir ortam sağlanması amacıyla yayımlanan "Hasta ve Çalışan Güvenliğinin Sağlanmasına Dair Yönetmelik" doğrultusunda;
 

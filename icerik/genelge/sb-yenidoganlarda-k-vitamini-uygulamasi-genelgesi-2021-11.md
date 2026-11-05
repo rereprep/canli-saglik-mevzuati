@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 716-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.49. Yenidoğanlarda K Vitamini Uygulaması Genelgesi (2021/11)

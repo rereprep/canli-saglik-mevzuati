@@ -2,6 +2,7 @@
 id: "sbg-103575-hasta-haklari-uygulamalari-genelgesi-2014-32"
 baslik: "Hasta Hakları Uygulamaları Genelgesi (2014/32)"
 tur: "genelge"
+tarih: "2014-11-06"
 sayi: "2014/32"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
@@ -9,21 +10,24 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103575/hasta-haklari-uygulamalari-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.11. Hasta Hakları Uygulamaları Genelgesi (2014/32)
 
-### T.C. SAĞLIK BAKANLIĞI
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
-Sağlık Hizmetleri Genel Müdürlüğü T.C. SAĞLIK BAKANLIĞI - SAĞLIK HİZMETLERI TC Sağlık Bakanlığı GENEL MÜDÜRLÜĞÜ - HASTA HAKLARI VE
-
-### An quEITICN TIBBI SOSYAL HİZMETLER DAİRE BAŞKANLIĞI
+SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - HASTA HAKLARI VE TIBBİ SOSYAL HİZMETLER DAİRE BAŞKANLIĞI
+06.11.2014 17:56 - 2014.5371.1165 / 419
+00006121732
 
 Sayı : 64047795
+Konu : Hasta Hakları Uygulamaları
 
-00006121732 Konu : Hasta Hakları Uygulamaları
-
-### GENELGE 2014/32
+GENELGE
+2014/32
 
 Hasta Hakları Yönetmeliği ile birinci basamak kamu sağlık tesisleri, özel sağlık tesisleri ve askeri hastaneler dahil olmak üzere bütün sağlık kurum ve kuruluşlarında hasta memnuniyetinin arttırılması, insan haysiyetine yakışır şekilde herkesin hasta haklarından faydalanabilmesi, hak ihlallerinden korunabilmesi ve gerektiğinde hukuki korunma yollarını fiilen kullanılabilmesini teminen hasta sorumlulukları da belirlenerek hasta/çalışan memnuniyeti ve güvenliğini gözeten bir yaklaşımla düzenleme yapılmıştır.
 
@@ -39,7 +43,7 @@ Il koordinatörü:
 
 Hekim, sosyal hizmet uzmanı ya da psikolog öncelikli olmak üzere lisans mezunları arasından İl Sağlık Müdürünün teklifi, Valiliğin uygun görüşü ve Bakanlığın onayı ile belirlenir. Görevine aynı usulle son verilir. Görevini İl Sağlık Müdürüne bağlı olarak yürütür.
 
-Bu genelgenin yayım tarihinde hasta hasta hakları il koordinatörlüğü görevini yürütenler, eğitim durumları ve unvanlarına bakılmaksızın bir defaya mahsus olmak üzere hiçbir onaya gerek kalmaksızın görevlerine devam ederler. Görevlerinden ayrılmaları halinde bu hakları sona erer.
+Bu genelgenin yayım tarihinde hasta hakları il koordinatörlüğü görevini yürütenler, eğitim durumları ve unvanlarına bakılmaksızın bir defaya mahsus olmak üzere hiçbir onaya gerek kalmaksızın görevlerine devam ederler. Görevlerinden ayrılmaları halinde bu hakları sona erer.
 
 Il koordinatörünün görevleri:
 
@@ -273,4 +277,9 @@ Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Müstesar Dağıtım: A Plan Yüksek Öğretim Kurulu Bşk.na Genel Kurmay Başkanlığına
+Müsteşar
+
+Dağıtım:
+A Planı
+Yüksek Öğretim Kurulu Bşk.na
+Genel Kurmay Başkanlığına

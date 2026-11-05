@@ -10,20 +10,28 @@ durum: "yürürlükte"
 tarih: "2021-07-06"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 
-Sayı: E-83913885 Konu: Çocuk Kalp Hastalıkları
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
-Merkezleri Hizmetleri
+SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - SAĞLIK HİZMETLERİ PLANLAMA DAİRESİ BAŞKANLIĞI
+06/07/2021 10:06 - [?]
 
-### GENELGE 2021/5
+Sayı : E-83913885
+Konu : Çocuk Kalp Hastalıkları Merkezleri Hizmetleri
+
+GENELGE
+2021/5
 
 Bakanlığımızca kalp merkezlerinin planlaması, kurulumu ve işleyişi ile ilgili usul ve esasları düzenleyen 18.07.2019 tarihli ve 80118214-060.04-457 (2019/14) sayılı 'Kalp Merkezi Hizmetleri Genelgesi" yayımlanmış olup erişkin kalp merkezi ve çocuk kalp hastalıkları merkezi ayrımı yapılmaksızın tüm iş ve işlemler ilgili Genelge kapsamında yürütülmektedir.
 
 Çocuk kalp hastalıkları, fetal dönemden erişkinlik dönemine kadar, organ gelişimini, doğum sürecini, büyümeyi, gelişmeyi, yaşam tarzını ve kalitesini etkilemektedir. Bu dönemde koordineli bir şekilde ve son teknolojik uygulamalar eşliğinde, alanında uzmanlaşmış bir ekip tarafından çocuk kalp hastalıklarının erken tanı, tedavi ve takibinin sağlanması önem arz etmektedir.
 
-Bu nedenle, çocuk kalp hastalıkları merkezi hizmetlerinin çağın gerekleri doğrultusunda, ülkenin ihtiyaç ve şartlarına uygun olarak sunulmasını sağlama, bu merkezlerin hizmet standartlarını, fiziki şartlarını, araç, gereç, tıbbi donanım ve personel standartlarını belirleme, mevcut merkezleri yeniden yapılandırma, yeni kurulacak merkezleri planlama ve açılmalarına izin verme, bunların işleyişi ve denetimine ilişkin usul ve esaslarını düzenleme ihtiyacı håsıl olmuştur. Bu kapsamda, çocuk kalp hastalıkları merkezi hizmetlerine ait usul ve esaslar iş bu Genelge ile ekte belirtilen şekliyle düzenlenmiştir.
+Bu nedenle, çocuk kalp hastalıkları merkezi hizmetlerinin çağın gerekleri doğrultusunda, ülkenin ihtiyaç ve şartlarına uygun olarak sunulmasını sağlama, bu merkezlerin hizmet standartlarını, fiziki şartlarını, araç, gereç, tıbbi donanım ve personel standartlarını belirleme, mevcut merkezleri yeniden yapılandırma, yeni kurulacak merkezleri planlama ve açılmalarına izin verme, bunların işleyişi ve denetimine ilişkin usul ve esaslarını düzenleme ihtiyacı hâsıl olmuştur. Bu kapsamda, çocuk kalp hastalıkları merkezi hizmetlerine ait usul ve esaslar iş bu Genelge ile ekte belirtilen şekliyle düzenlenmiştir.
 
 Genelgenin ilinizde bulunan kamu, üniversite ve özel sağlık tesislerine duyurulması ve çocuk kalp hastalıklarının tanısı, tedavisi ve takibi için sunulan sağlık hizmetlerinin işbu Genelge kapsamında yürütülmesi hususunda;
 
@@ -33,21 +41,20 @@ Prof. Dr. Sabahattin AYDIN
 
 Bakan a.
 
-Bakan Yardımcısı EK: Çocuk Kalp Hastalıkları Merkezlerine İlişkin Usul ve Esaslar (9 sayfa)
+Bakan Yardımcısı
 
-### DAĞITIM
+EK:
+Çocuk Kalp Hastalıkları Merkezlerine İlişkin Usul ve Esaslar (9 sayfa)
 
-Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
+Dağıtım:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
+Bilgi:
 Cumhurbaşkanlığına
-
 TBMM Başkanlığına
-
 Sosyal Güvenlik Kurumuna
-
 Yükseköğretim Kurulu Başkanlığına
-
-A Plan:
+A Planı:
 
 ### TANIMLAR VE KISALTMALAR
 
@@ -57,7 +64,7 @@ Bakan: Sağlık Bakanını,
 
 Bakanlık: Sağlık Bakanlığını,
 
-Çocuk kalp hastalıkları merkezi: Fetal dönemde ve başvuru tarihindeki yaşı esas alınmak kaydıyla 18 yaşını doldurmamış, 18 yaş ve üzeri konjenital kalp hastalığı nedeniyle takipli olan veya geç tanı konulmuş konjenital kalp hastalığı olan bireylere çocuk kardiyolojisi ve/veya çocuk kalp ve damar cerrahisi alanında girișimsel ve/veya cerrahi işlemler ile tanı ve/veya tedavi hizmeti verilen Ek-I'de yer alan "Çocuk Kalp Hastalıkları Merkezi Asgari Standartları" kriterlerine sahip kalp hastalıkları merkezi [?]
+Çocuk kalp hastalıkları merkezi: Fetal dönemde ve başvuru tarihindeki yaşı esas alınmak kaydıyla 18 yaşını doldurmamış, 18 yaş ve üzeri konjenital kalp hastalığı nedeniyle takipli olan veya geç tanı konulmuş konjenital kalp hastalığı olan bireylere çocuk kardiyolojisi ve/veya çocuk kalp ve damar cerrahisi alanında girişimsel ve/veya cerrahi işlemler ile tanı ve/veya tedavi hizmeti verilen Ek-I'de yer alan "Çocuk Kalp Hastalıkları Merkezi Asgari Standartları" kriterlerine sahip kalp hastalıkları merkezi [?]
 
 Erişkin kalp merkezi: Bünyesinde 18 yaş ve üzeri bireylere kardiyoloji ve kalp ve damar cerrahisi hizmeti verilen sağlık tesislerinde, 18 yaş ve üzeri konjenital kalp hastalıklarına ait işlemler, açık kalp cerrahisi ameliyatları ile girişimsel kardiyoloji işlemlerinin birlikte ve koordineli yapıldığı 2019/14 sayılı Genelge kapsamında tescilli kalp merkezlerini,
 
@@ -115,7 +122,7 @@ Bakanlıkça faaliyet izni verilen çocuk kalp hastalıkları merkezleri, bünye
 
 ### ÇOCUK KALP HASTALIKLARI MERKEZLERİNİN DENETİM USUL VE ESASLARI
 
-Çocuk kalp hastalıklan merkezlerinin işleyişi ve verilen hizmetlerin bu Genelge hükümlerine uygun olarak etkili bir şekilde yürütülmesinden, koordinatör uzman tabip, sağlık tesisi yönetimi ve müdürlüklerin birinci derecede ve müteselsilen sorumludur.
+Çocuk kalp hastalıkları merkezlerinin işleyişi ve verilen hizmetlerin bu Genelge hükümlerine uygun olarak etkili bir şekilde yürütülmesinden, koordinatör uzman tabip, sağlık tesisi yönetimi ve müdürlüklerin birinci derecede ve müteselsilen sorumludur.
 
 Müdürlük tarafından çocuk kalp hastalıkları merkezi denetimleri için bir müdürlük yetkilisi başkanlığında bir çocuk kardiyolojisi uzmanı veya bir çocuk kalp ve damar cerrahisi uzmanı tabibin katılımı ile bir denetim ekibi oluşturulur. Gerekli hallerde çocuk sağlığı ve hastalıkları uzmanı, neonatoloji uzmanı ile diğer çocuk yan dal uzmanlıkları da denetim ekibine dâhil edilebilir.
 
