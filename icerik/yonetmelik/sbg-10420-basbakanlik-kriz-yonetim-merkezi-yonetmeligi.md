@@ -6,11 +6,16 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10420/basbakanlik-kriz-yonetim-merkezi-yonetmeligi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Başbakanlık Kriz Yönetim Merkezinin teşkilatını, çalışma usullerini, görev ve sorumluluklarını düzenler."
+birim: "Bakanlar Kurulu"
+sayi: "96/8716"
+tarih: "1996-09-30"
 ---
 
 ## BAŞBAKANLIK KRİZ YÖNETİM MERKEZİ YÖNETMELİĞİ
 
-Bakanlar Kurulu Kararının Tarihi :30/9/1996 No: 96/8716 Dayandığı Kanunun Tarihi : No: Yayımlandığı R.Gazetenin Tarihi : 9/1/1997 No: 22872 Yayımlandığı Düsturun Tertibi : 5, Cildi: 26, S.:
+Bakanlar Kurulu Kararının Tarihi :30/9/1996 No: 96/8716 Dayandığı Kanunun Tarihi : [?] No: Yayımlandığı R.Gazetenin Tarihi : 9/1/1997 No: 22872 Yayımlandığı Düsturun Tertibi : 5, Cildi: 26, Sayfa: [?]
 
 #### Amaç
 
@@ -56,7 +61,7 @@ d) (Ek: 4/7/2002-2002/4518 K.) Türkiye Acil Durum Yönetimi Genel Müdürlüğ�
 
 e) Bölge Kriz Yönetim Merkezi; Muhtemel veya mevcut kriz bölgesinde, merkezden görevlendirilen elemanlarca tesis edilen ve Başbakanlık Kriz Yönetim Merkezi ile, ilgili kriz merkezlerine bağlı olarak kurulan merkez veya merkezleri,
 
-f) (Değişik: (Ek: 4/7/2002-2002/4518 K.) Kriz Merkezi; Genelkurmay Başkanlığı, ilgili bakanlık, kurum ve kuruluşlar ile il ve ilçelerde kurulan merkezleri,
+f) (Ek: 4/7/2002-2002/4518 K.) Kriz Merkezi; Genelkurmay Başkanlığı, ilgili bakanlık, kurum ve kuruluşlar ile il ve ilçelerde kurulan merkezleri,
 
 g) Olağanüstü Hal; Tabii afet, tehlikeli salgın hastalıkları veya ağır ekonomik bunalım halleri ile, Anayasa ile kurulan hür demokrasi düzeninin veya temel hak ve hürriyetleri ortadan kaldırmaya yönelik yaygın şiddet hareketlerine ait ciddi belirtilerin ortaya çıkması veya şiddet olayları sebebiyle kamu düzeninin ciddi bir şekilde bozulması durumunu,
 
@@ -314,61 +319,27 @@ EK-A Kriz hallerinde yönetim ve birimlerin aralarındaki ilişkileri gösteren 
 
 EK-A
 
-### NO LOKTERI RAYNAKLAR BIRTEnI TURTI-I YURTDIR aÖLÖE BOL¢L HTITACLAR TOKILER ASOLAHTI
+### Kriz Hâllerinde Yönetim
 
-Ranadi ve
+[?]
 
-### Kab MEnKEd
+EK-B
 
-Kaiz HALLErINDE YÖNETIM
+### Kriz Koordinasyon Kurulunda Görev Alacak Bakanlık, Kurum ve Kuruluşlar
 
-Sanalkurma kaiz purunu
-
-### DAGDAKAN
-
-Kadz MEnKEz
-
-### AÇAKADLI
-
-### EK-B BASKAN NOOFM NEVEN
-
-2A:EC2ELr
-
-### KRİZ KOORDİNAS YON KURULUNA GÖREV ALACAK BAKANLIK, KURUM VE KURULUŞ PERSONELİ MÜSTEŞAR VE MUKUM BAGCINLA DREKTISINDE AANLIK, KUPEM YE KUPLLUAF 2 GENEL NUPAMYEASICAN VEYA TEMNLORI MULI GÜVENLIK KUFULU CNEL SEKTETEN 1 BASENKAN VEYA ILOLI DEYLET BAKANI (EKONOMIKISL SOPM) DEYLET BAKAN 14 QUSUYE SOBYAL OÛ YENUK BAKAN ENERI YE TARI KONAKLAR BAKAN INTIG DUME IN DISER BAKAN BAVNEIPLES VE LORSAN BACAN TAMYE KÖVISLEM BAKAN BANAY YE TONKET BAKIN E MALLIONVLAM BACANI MLLIESITIMEAKN ULASTETMMEAKANI ADALET BAKANI IÇİSLERI BAKAN DISİSLERI BAKAN MILDE BAKAN ONSUK ENKIN OPEMAN BAKINI GEYTZ BACAN
+[?]
 
 EK-C
 
-### KRIZ DEGERLENDIRNE VE TAKIP KURULUNDA ÇOREV ALACAK BAKANLIK, KURUM VE KURULUŞ PERSONELİ
+### Kriz Değerlendirme ve Takip Kurulunda Görev Alacak Bakanlık, Kurum ve Kuruluşlar
 
-LICkvE ENISE ріссет TABI BÜYİK BÜYÜK TERLEL VE TEM. VE H.NAм
-
-### BAKUNU, ARIMDE ALLALE TEHDİTLER- GUYN KLI) ( BONC: NO ce HAREKET • PETLER INGILM (H.ASTALILA K VE TB: BINALMLK MALNE LEFI CLALAR
-
-1 BASENSALK M/eTEgeRI
-
-### $ ADALET BAKANL MORTEÇA 4 МАВШВІМОВТЕДУ S IOSLE EMSALIMERAR DILE BASAL OTESARI 7 MALTE BACALISI MO OTEȘUN
-
-8 ми вдівний мовтеди
-
-### * BATINCIUK VE /KAN BAKINUĞ MÖSTEÇAN ALK BACINLI MORTESA ULASIRM BASANLE MOSTESIN TARM NE KÖYL EN BACANU MOSTEȘN CALENH VE ACENL JON, BAC HOSTESIT W VETONET BARU ORTESAR ENER,I VE TABI KAY BAKLASI MONTESAN CANN BACINU HOSTESIN ETE BACAL MONTE MIK DENEL SENTETERL TEMEL CIN RODOREI NATON VEK BAS%ANI DPT. OTEŞAN HAZINE VE DIŞ TOMRET MOTESALAT ATCH ENER,IN KUPAMAJ BASCIN NELAYGENEL BASAN INTİG DUYLAN DISER BAKINUK NE C/PIM TEMNLC LEPI (REPENTI SINDE)
+[?]
 
 EK-D
 
-### SEKRETERYA'DA GOREV ALACAK BAKANLIK, KURUM VE KURULUŞ PERSONELI
+### Sekretaryada Görev Alacak Bakanlık, Kurum ve Kuruluşlar
 
-LTICkVE ENISE ріссет TALI BÜYİK BÜYÜK TERLEL VE TEM. VE H.NAм NO BAKUNU, ARIMDE ALLALE тенітек- GUYN KLI (I BONC
-
-### HAREKET • PETLER INGILM (H.ASTALILA K VE TB: BINALIMLA MALNE LEFI CLALAR
-
-1 Bap antk l dn MRn N Uran Nic 2 dindaray Tindag 8 AaM Cak:4) Ly Ch. MALN 14 Uva Pic 4 MAB) Male Bakalğ
-
-### 8 MEZA
-
-9 Beytendeik vo shan Bak.ag (eğik Bakank) Migima Bakankg • Tani vº K0 gi esk/fı * Calara và dọp (Oc Da. 4) 14 danay wi Tol Baka/g Erêr) we Told Kay Ba:g Civan Bakal/ğı MaK ly Tint din • KOOPERAT CI TCK: g By: on A Uzan Pego nil/
-
-### NT " D "Ù
-
-CPT. gl n. A A N / Un. Pit. Hothi v Cig Th: Mộ ibn lil n MH N Lavan Negonal Aite z Esaka g l/I D BA. 80 Una Pegn l Nom Enind Kurane IyI D Dg.lan Be laman Negan id (Kal y ie l pali ly D Bg n N Varan Ni gonl| ihy dypdan dgi s hale vo th (inct cint
+[?]
 
 ### 30/9/1996 TARİH VE 96/8716 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE
 

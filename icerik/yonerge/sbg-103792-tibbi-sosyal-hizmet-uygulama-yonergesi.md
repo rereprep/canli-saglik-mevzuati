@@ -7,6 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103792/tibbi-sosyal-hizmet-uygulama-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.2.12. Tıbbi Sosyal Hizmet Uygulama Yönergesi
@@ -17,9 +18,9 @@ ocr: true
 
 #### Kapsam ve dayanak
 
-**Madde 2 –** (1) Bu Yönerge; Sağhık Bakanlığı'na bağlı ikinci ve basamak sağhk kurumlarını kapsar.
+**Madde 2 –** (1) Bu Yönerge; Sağlık Bakanlığı'na bağlı ikinci ve üçüncü basamak sağlık kurumlarını kapsar.
 
-(2) Bu Yönerge; 13/12/1983 tarihli ve 181 sayılı Sağhık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43.maddesine dayanılarak ve 10/09/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Yatakh Tedavi Kurumları İşletme Yönetmeliği hükümleri dikkate alınarak hazırlanmıştır.
+(2) Bu Yönerge; 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43.maddesine dayanılarak ve 10/09/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliği hükümleri dikkate alınarak hazırlanmıştır.
 
 **Madde 3 –** (1) Bu yönergede geçen;
 
@@ -43,7 +44,7 @@ g) Sosyal hizmet müdahalesi: Bireyle, grupla, aileyle, toplumla sosyal hizmet v
 
 h) Birim: Tıbbi sosyal hizmet uygulamalarının yürütüldüğü, ikinci ve üçüncüi basamak sağlık kurum ve kuruluşları bünyesindeki sosyal hizmet birimini,
 
-1) Hastane: Sağhık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık kurumlarını ifade eder.
+1) Hastane: Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık kurumlarını ifade eder.
 
 ## İKİNCİ BÖLÜM
 

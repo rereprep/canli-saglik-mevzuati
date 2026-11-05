@@ -7,6 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11275/toplum-sagligi-merkezlerinin-kurulmasi-ve-calistirilmasina-dair-yonerge.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 T.C.
@@ -27,9 +28,9 @@ Sayı : B.100.TSH.020.00.06 Konu: Yönerge
 
 (İl Sağlık Müdürlüğü) İlgi: 26.01.2010 tarihli ve 2365 sayılı yönerge.
 
-Aile hekimliği uygulamaları kapsamında "Toplum Sağlığı Merkezlerinin Kurulması ve Çalıştırılmasına Dair Yönerge" Makam'ın 03.08.2011 tarihli ve 25143 sayılı Onay'ı ile yürürlüğe girmiş olup, ilgide kayıth "Aile Hekimliğinin Pilot Uygulandığı İllerde Toplum Sağlığı Merkezleri Kurulması ve Çalıştırılmasına Dair Yönerge" görülen lüzum üzerine yürürlükten kaldırılmıştır.
+Aile hekimliği uygulamaları kapsamında "Toplum Sağlığı Merkezlerinin Kurulması ve Çalıştırılmasına Dair Yönerge" Makam'ın 03.08.2011 tarihli ve 25143 sayılı Onay'ı ile yürürlüğe girmiş olup, ilgide kayıtlı "Aile Hekimliğinin Pilot Uygulandığı İllerde Toplum Sağlığı Merkezleri Kurulması ve Çalıştırılmasına Dair Yönerge" görülen lüzum üzerine yürürlükten kaldırılmıştır.
 
-Toplum Sağlığı Merkezlerinin Kurulması ve Çalıştırılmasına Dair Yönerge'nin yürürlüğe konmasına ilişkin alınan Makam Onayı ve Yönerge 03.08.2011 tarihi itibarı ile Bakanlığımız web sayfasında yayınlanmaktadır.
+Toplum Sağlığı Merkezlerinin Kurulması ve Çalıştırılmasına Dair Yönerge'nin yürürlüğe konmasına ilişkin alınan Makam Onayı ve Yönerge 03.08.2011 tarihi itibarı ile Bakanlığımız web sayfasında yayımlanmaktadır.
 
 Bilgilerinizi ve gereğini rica ederim.
 
@@ -49,7 +50,7 @@ Temel Sağ. Hiz. Genel Md. Aile Sayı : B.100.TSH.020. 00.06 Hekimliği Toplum S
 
 ### BAKANLIK MAKAMINA 1297148
 
-Aile hekimliği pilot uygulaması kapsamında 26.01.2010 tarihli ve 2365 sayılı makam onayı ile " Aile Hekimliğinin Pilot Uygulandığı Illerde Toplum Sağlığı Merkezlerinin Kurulması ve Çalıştırılmasına Dair Yönerge" yürürlüğe girmiştir.
+Aile hekimliği pilot uygulaması kapsamında 26.01.2010 tarihli ve 2365 sayılı makam onayı ile " Aile Hekimliğinin Pilot Uygulandığı İllerde Toplum Sağlığı Merkezlerinin Kurulması ve Çalıştırılmasına Dair Yönerge" yürürlüğe girmiştir.
 
 Mevcut yönergenin 25 inci maddesinin 2 numaralı fikrası, 34 üncü maddesinin (ğ) bendi ve Geçici 1 inci maddesinin iptali ve yürütmenin durdurulması talepleriyle, Bakanlığımız aleyhine açılan davalarda, Danıştay 10. Daire'nin 31/12/2010 tarihli ve E.2010/3859 sayılı kararı, yine Danıştay 10. Daire'nin 7/3/2011 tarih ve 2011/798 E sayılı kararı ile "dava konusu işlemin yürütülmesinin durdurulmasına" karar verilmiştir. Yürütmenin durdurulması kararının gerekçesinde, 5258 sayılı Kanun'un 8 inci maddesi hükmünün doğrudan dava konusu yönergenin dayanak maddesi olamayacağına işaret edilmektedir. Mezkur yargı kararının nasıl uygulanması gerektiği ile ilgili Hukuk Müşavirliğinden görüş alınmış olup, 21/02/2011 tarih ve 7295 sayılı hukuk müşavirliği görüşünde "...Bu itibarla, yürürlükteki Yönerge'nin dayanak maddesinin, karar gerekçesinde işaret edildiği üzere, "5258 sayılı Kanun'un 8 inci maddesine dayanılarak çıkarılan ve 25/05/2010 tarihli ve 27591 sayılı Resmi Gazete'de yayımlanan Aile Hekimliği Uygulama Yönetmeliği ve 181 sayılı KHK'nin 43. Maddesi" olarak değiştirilmesinin, yargı kararı icaplarına göre hareket edilmiş olması bakımından yeterli olabileceği sonucuna varılmaktadır" denildiğinden, Yönergenin hukuki dayanak başlıkh 3 üncü maddesinin 5258 sayılı Kanun'un 8 inci maddesine dayanılarak çıkarılan ve 25/05/2010 tarihli ve 27591 sayılı Resmi Gazete'de yayımlanan Aile Hekimliği Uygulama Yönetmeliği ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesi olarak değiştirilmesi zarureti hâsıl olmuştur. Bununla birlikte diğer hükümlerden bazılarının yürütmesi durdurulduğundan yönerge yeniden hazırlanmıştır.
 
@@ -611,8 +612,6 @@ b) Laboratuvarın temiz ve düzenli tutulmasını laboratuvar malzemelerinin ise
 
 9) Toplum sağlığı merkezinin sahaya yönelik çalışmalarının yürütülmesiyo göre hey c) Kayıt tutar ve aylık, yıllık raporlar hazırlar,
 
-94
-
 d) Laboratuvar malzemelerinin, demirbaş ve sarf malzemelerinin saklanmasından ve muhafazasından sorumludur. Laboratuvardaki cihazların bakımının yaptırılmasını sağlar,
 
 e) Sorumlu hekimin vereceği diğer işleri yapar.
@@ -695,8 +694,6 @@ h) Görevi ile ilgili kayıt ve formları tutar,
 
 a) Hizmet götürülecek bölge ve toplumu tanır,
 
-60
-
 b) Bölgenin sağlık ölçütlerini değerlendirir ve buna göre sorunları ve öncelikleri saptar,
 
 c) Çalışmaları ile ilgili veri toplar, araștırmalar planlar ve planlanan çalıșmalarda
@@ -745,9 +742,9 @@ Son Hükümler
 
 #### Yürürlükten kaldırılan hükümler
 
-**Madde 55 –** (1) 26/01/2010 tarih ve 2365 sayılı Makam Onayı ile yürürlüğe giren Aile Hekimliğinin Pilot Uygulandığı Illerde Toplum Sağlığı Merkezleri Kurulması Ve Çalıştırılmasına Dair Yönerge yürürlükten kaldırılmıştır.
+**Madde 55 –** (1) 26/01/2010 tarih ve 2365 sayılı Makam Onayı ile yürürlüğe giren Aile Hekimliğinin Pilot Uygulandığı İllerde Toplum Sağlığı Merkezleri Kurulması Ve Çalıştırılmasına Dair Yönerge yürürlükten kaldırılmıştır.
 
-**Geçici Madde 1 –** (1) Aile hekimliği uygulamasına geçen illerdeki sağhk evi, ana çocuk sağlığı ve aile planlaması merkezleri, dispanserler ve diğer benzer birinci basamak sağlık kurum ve kuruluşları ile birimleriyle halk sağlığı laboratuvarları personeliyle birlikte toplum sağlığı merkezlerine bağlı birer birim olarak çalışırlar. Kapatılan sağlık birimlerinin kadroları, faaliyet alanındaki toplum sağlığı merkezinin kadrosuna aktarılır. Bu kadroların ilave edilmesiyle toplum sağlığı merkezlerinin standart kadrolarının aşılması halinde standart fazlası personel Sağlık Bakanlığı Atama Ve Nakil Yönetmeliği hükümlerine göre diğer sağlık kurum ve kuruluşlarına atanır.
+**Geçici Madde 1 –** (1) Aile hekimliği uygulamasına geçen illerdeki sağlık evi, ana çocuk sağlığı ve aile planlaması merkezleri, dispanserler ve diğer benzer birinci basamak sağlık kurum ve kuruluşları ile birimleriyle halk sağlığı laboratuvarları personeliyle birlikte toplum sağlığı merkezlerine bağlı birer birim olarak çalışırlar. Kapatılan sağlık birimlerinin kadroları, faaliyet alanındaki toplum sağlığı merkezinin kadrosuna aktarılır. Bu kadroların ilave edilmesiyle toplum sağlığı merkezlerinin standart kadrolarının aşılması halinde standart fazlası personel Sağlık Bakanlığı Atama Ve Nakil Yönetmeliği hükümlerine göre diğer sağlık kurum ve kuruluşlarına atanır.
 
 **Geçici Madde 2 –** (1) Birden fazla toplum sağlığı merkezi kurulmuş olan ilçede Müdürlükçe uygun görülecek olanın dışındaki toplum sağlığı merkezleri bir ay içerisinde kapatılır.
 

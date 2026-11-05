@@ -6,11 +6,14 @@ tarih: "2020-06-09"
 sayi: "2646"
 rg_tarih: "2020-06-10"
 rg_sayi: "31151"
-konu: "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik kapsamında yürütülen hizmetlerin usul ve esasları."
+konu: "Kamu kurum ve kuruluşlarının resmî yazışma kurallarını ve belge yönetimini düzenler."
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 247-288"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+birim: "Cumhurbaşkanı"
+kaynak_pdf_sayfa: "253"
 ---
 
 Resmî Gazete Tarihi: 10.06.2020 Resmî Gazete Sayısı: 31151

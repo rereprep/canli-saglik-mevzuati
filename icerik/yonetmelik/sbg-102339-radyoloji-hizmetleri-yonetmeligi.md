@@ -6,6 +6,11 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-102339/radyoloji-hizmetleri-yonetmeligi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Radyoloji hizmetlerinin ve bu hizmetleri sunan merkez ve birimlerin faaliyet, standart ve denetim esaslarını düzenler."
+birim: "Sağlık Bakanlığı"
+sayi: "31821"
+tarih: "2022-04-26"
 ---
 
 ## RADYOLOJİ HİZMETLERİ YÖNETMELİĞİ

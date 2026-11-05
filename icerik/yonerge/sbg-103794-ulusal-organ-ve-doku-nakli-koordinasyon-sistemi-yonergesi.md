@@ -7,6 +7,7 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103794/ulusal-organ-ve-doku-nakli-koordinasyon-sistemi-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.2.14. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi
@@ -19,9 +20,9 @@ ocr: true
 
 (2) Organ ve doku dağıtımında acil organ talepleri öncelikle değerlendirilir ve acil talepler için Acil Bekleme Listesi oluşturulur.
 
-(3) Organ ve dokular 6 ncı, 7 nci ve 8 inci maddelerde belirtilen usul ve esaslara göre kullanılır. Yeni açılan veya ruhsatı iptal edilen nakil merkezi olması halinde Bakanlıkça Ulusal Sistemden Organ Ve Doku Alım ve Çıkarım Sırasındaki (Ek 3) listede ekleme ya da çıkarma yapılır.
+(3) Organ ve dokular 6 ncı, 7 nci ve 8 inci maddelerde belirtilen usul ve esaslara göre kullanılır. Yeni açılan veya ruhsatı iptal edilen nakil merkezi olması halinde Bakanlıkça Ulusal Sistemden Organ ve Doku Alım ve Çıkarım Sırasındaki (Ek 3) listede ekleme ya da çıkarma yapılır.
 
-(4) Bakanlık tarafindan her organ için Ulusal Organ Nakli Bekleme Listesi oluşturulduğunda, nakil merkezleri kendi organ nakli bekleme listelerindeki hasta bilgilerini Ulusal Organ Nakli Bekleme Listesine kaydetmekle yükümlüdür.
+(4) Bakanlık tarafından her organ için Ulusal Organ Nakli Bekleme Listesi oluşturulduğunda, nakil merkezleri kendi organ nakli bekleme listelerindeki hasta bilgilerini Ulusal Organ Nakli Bekleme Listesine kaydetmekle yükümlüdür.
 
 (5) Organ bekleyen hastalarını Ulusal Bekleme Listesine kaydetmeyen merkezlere kadavra organ dağıtımı yapılmaz. Ancak, bu merkezler kendilerinde çıkacak kadavra vericileri UKS'ne sunmak zorundadır.
 
@@ -33,7 +34,7 @@ ocr: true
 
 **Madde 6 –** (1) Kalp ve akciğer greftlerinin dağıtımı ilkeleri şunlardır:
 
-a) Kalp dokularının dağıtımı sırayla; Bölgesel Acil, Bölgesel Sıra, Ulusal Acil, Ulusal Sıra olacak şekilde BKM ve /veya UKM tarafindan yapılır.
+a) Kalp dokularının dağıtımı sırayla; Bölgesel Acil, Bölgesel Sıra, Ulusal Acil, Ulusal Sıra olacak şekilde BKM ve /veya UKM tarafından yapılır.
 
 b) Acil kalp nakli bekleme listesine alınacak hastalar, "status 1" kriterlerine uyan; mekanik pompa desteği alan hastalar, intraaortik balon pompa desteği altında olan hastalar ve devamlı inotropik ilaç desteğine ihtiyaç duyan hastalardır. Acil bildirimleri yapılmış aynı şartlara sahip olan hastalar arasında öncelik, bildirimi en erken yapılmış hastaya verilir.
 
@@ -51,11 +52,11 @@ b) Verici, kalp ve/veya akciğer nakli uygulanmayan hastanelerin birinden çık�
 
 c) BKM'ne o bölgenin herhangi bir hastanesinden bildirilmiş ve klinik olarak beyin ölümü teşhisi konulmuş ve fakat beyin ölümü kararı verecek Kanun'da belirtilen uzmanların bulunamadığı hallerde veya başka sebeplerle beyin ölümü teşhisi konulamamış potansiyel vericilerin aynı bölgedeki kalp ve/veya akciğer nakli yapan merkezlerden birine veya başka bir organ nakli merkezine sevk edilmesi halinde, kazanılacak kalp ve akciğer greftlerinin dağıtımı bu maddenin (2) numaralı fikrasının (b) bendinde belirtilen usûl ile dağıtılır.
 
-ç) Bölgesinde kullanılmayan kalp ve akciğer greftleri BKM tarafindan UKM'ne bildirilerek (Ulusal Acil Bildirim yoksa) (Ek 3-A)'daki Ulusal Sistemden Organ ve Doku Alım/Çıkarım Sırası Formunda belirtilen sıraya göre kalp ve/veya akciğer nakli merkezlerine
+ç) Bölgesinde kullanılmayan kalp ve akciğer greftleri BKM tarafından UKM'ne bildirilerek (Ulusal Acil Bildirim yoksa) (Ek 3-A)'daki Ulusal Sistemden Organ ve Doku Alım/Çıkarım Sırası Formunda belirtilen sıraya göre kalp ve/veya akciğer nakli merkezlerine
 
-(3) Greft alım sırası gelen merkezler, BKM veya UKM tarafindan teklif edilen grefti, uygun kan grubunda alıcı hasta olmaması, fiziki şartlar ve insan gücü ile ilgili sorunlar gibi zorunlu sebeplerle nakledemeyecek durumdaysa bir sonraki teklif edilecek greft için aynı siralarını muhafaza ederler.
+(3) Greft alım sırası gelen merkezler, BKM veya UKM tarafından teklif edilen grefti, uygun kan grubunda alıcı hasta olmaması, fiziki şartlar ve insan gücü ile ilgili sorunlar gibi zorunlu sebeplerle nakledemeyecek durumdaysa bir sonraki teklif edilecek greft için aynı siralarını muhafaza ederler.
 
-(4) Greft alım sırası gelen merkezler BKM veya UKM tarafından teklif edilen grefti naklettikleri takdirde, greft alım sıraları, greft BKM den teklif edilmişse BKM listesinde, UKM tarafindan teklif edilmişse UKM listesinde en sona geçer. BKM, kendi greft alım listesi değiştiğinde UKM'ne listenin son halini bildirir.
+(4) Greft alım sırası gelen merkezler BKM veya UKM tarafından teklif edilen grefti naklettikleri takdirde, greft alım sıraları, greft BKM den teklif edilmişse BKM listesinde, UKM tarafından teklif edilmişse UKM listesinde en sona geçer. BKM, kendi greft alım listesi değiştiğinde UKM'ne listenin son halini bildirir.
 
 #### Karaciğer dağıtım ilkeleri
 
@@ -63,7 +64,7 @@ c) BKM'ne o bölgenin herhangi bir hastanesinden bildirilmiş ve klinik olarak b
 
 Acil karaciğer greftlerinin dağıtımı UKM tarafından yapılır.
 
-b) UKM'ne bildirilmiş, herhangi bir bölgede acil karaciğer nakli gerektiren fulminan ve subfulminan hepatitli veya acil retransplantasyon gerektiren hasta var ise, ülkede çıkan ilk karaciğer grefti, kan grubu uyumuna bakılmaksızın bu hastaya nakledilmek üzere ilgili merkeze UKM tarafindan teklif edilir. Fulminan ve subfulminan hepatitli hastalarda transplantasyon endikasyonu koymak ve bu suretle acil karaciğer grefti talep edebilmek için aşağıdaki kriterlerin tamamının bulunması
+b) UKM'ne bildirilmiş, herhangi bir bölgede acil karaciğer nakli gerektiren fulminan ve subfulminan hepatitli veya acil retransplantasyon gerektiren hasta var ise, ülkede çıkan ilk karaciğer grefti, kan grubu uyumuna bakılmaksızın bu hastaya nakledilmek üzere ilgili merkeze UKM tarafından teklif edilir. Fulminan ve subfulminan hepatitli hastalarda transplantasyon endikasyonu koymak ve bu suretle acil karaciğer grefti talep edebilmek için aşağıdaki kriterlerin tamamının bulunması
 
 1) Daha önce bilinen bir karaciğer hastalığı olmamalıdır.
 
@@ -81,15 +82,15 @@ c) UKM'ne kayıtlı acil karaciğer nakli bekleyen hasta yok ise, bir bölgede, 
 
 1) Verici, karaciğer nakli uygulayan hastanelerin birinden çıkıyorsa, karaciğer grefti öncelikle o merkezde nakledilir. O merkezde nakledilemiyorsa, BKM tarafından (Ek 3-B)'de düzenlenen Ulusal Sistemden Organ ve Doku Alım/Çıkarım Sırası Formundaki sıraya göre aynı ilde veya o bölge illerindeki diğer merkezlerine teklif edilir.
 
-2) Verici, karaciğer nakli uygulanmayan bir hastaneden çıkıyorsa, karaciğer grefti o bölge içerisinde karaciğer nakli uygulayan merkezlere BKM tarafindan (Ek 3-B)'de düzenlenen Ulusal Sistemden Organ ve Doku Ahım/Çıkarım Sırası Formundaki bölgesel sıraya göre dağıtılır.
+2) Verici, karaciğer nakli uygulanmayan bir hastaneden çıkıyorsa, karaciğer grefti o bölge içerisinde karaciğer nakli uygulayan merkezlere BKM tarafından (Ek 3-B)'de düzenlenen Ulusal Sistemden Organ ve Doku Alım/Çıkarım Sırası Formundaki bölgesel sıraya göre dağıtılır.
 
-ç) BKM'ne o bölgenin herhangi bir hastanesinden bildirilmiş, klinik olarak beyin ölümü teşhisi konulmuş ve fakat Kanun'da belirtilen uzmanlar bulunamadığı veya başka sebeplerle teşhisi konulamamış potansiyel vericilerin, aynı bölgedeki karaciğer veya başka bir organ nakli yapan merkezlerin birine sevk edilmesi durumunda kazanılacak karaciğer greftlerinin dağıtımı, o bölge içerisinde karaciğer nakli uygulayan merkezler arasında, BKM tarafindan (Ek 3-B)'de düzenlenen Ulusal Sistemden Organ ve Doku Alım/Çıkarım Sırası Formundaki bölgesel sıraya göre dağıtılır.
+ç) BKM'ne o bölgenin herhangi bir hastanesinden bildirilmiş, klinik olarak beyin ölümü teşhisi konulmuş ve fakat Kanun'da belirtilen uzmanlar bulunamadığı veya başka sebeplerle teşhisi konulamamış potansiyel vericilerin, aynı bölgedeki karaciğer veya başka bir organ nakli yapan merkezlerin birine sevk edilmesi durumunda kazanılacak karaciğer greftlerinin dağıtımı, o bölge içerisinde karaciğer nakli uygulayan merkezler arasında, BKM tarafından (Ek 3-B)'de düzenlenen Ulusal Sistemden Organ ve Doku Alım/Çıkarım Sırası Formundaki bölgesel sıraya göre dağıtılır.
 
-d) Bölgesinde kullanılamayan karaciğer greftleri, BKM tarafindan UKM'ne bildirilir. UKM bu grefti, (Ek 3-B)'deki Ulusal Sistemden Organ ve Doku Alım/Çıkarım Sırası Formundaki Ulusal sıraya göre diğer bölgelerde bulunan karaciğer nakli merkezlerine teklif eder ve nakledilmesini sağlar.
+d) Bölgesinde kullanılamayan karaciğer greftleri, BKM tarafından UKM'ne bildirilir. UKM bu grefti, (Ek 3-B)'deki Ulusal Sistemden Organ ve Doku Alım/Çıkarım Sırası Formundaki Ulusal sıraya göre diğer bölgelerde bulunan karaciğer nakli merkezlerine teklif eder ve nakledilmesini sağlar.
 
-e) Karaciğer alım sırası gelen merkezler, BKM veya UKM tarafindan teklif edilen grefti, uygun kan grubunda alıcı hasta olmaması, fiziki şartlar ve insan gücü ile ilgili sorunlar gibi zorunlu sebeplerle nakledemeyecek durumda ise, bir sonra teklif edilecek greft için aymı
+e) Karaciğer alım sırası gelen merkezler, BKM veya UKM tarafından teklif edilen grefti, uygun kan grubunda alıcı hasta olmaması, fiziki şartlar ve insan gücü ile ilgili sorunlar gibi zorunlu sebeplerle nakledemeyecek durumda ise, bir sonra teklif edilecek greft için aymı
 
-Greft alım sırası gelen merkezler BKM veya UKM tarafindan teklif edilen grefti naklettikleri takdirde, greft alım sıraları, greft BKM den teklif edilmişse BKM listesinde, UKM tarafindan teklif edilmişse UKM listesinde en sona geçer. BKM, kendi greft alım listesi
+Greft alım sırası gelen merkezler BKM veya UKM tarafından teklif edilen grefti naklettikleri takdirde, greft alım sıraları, greft BKM den teklif edilmişse BKM listesinde, UKM tarafından teklif edilmişse UKM listesinde en sona geçer. BKM, kendi greft alım listesi
 
 g) Karaciğeri alacak merkez, crossklemp işlemini takip eden 1 saatlik süreyi aştıktan sonra karaciğeri almaktan vazgeçer ise, karaciğeri kullanmış sayılacağından Bölgesel veya
 
@@ -99,7 +100,7 @@ g) Kadavra karaciğer, gönderildiği merkezde split yapılarak birden fazla has
 
 **Madde 8 –** (1) Böbrek dağıtım ilkeleri şunlardır:
 
-a) Böbrek dağıtımı UKM tarafindan Ulusal Organ Nakli Bekleme Listesinde yapılan eşleştirme ve puanlamaya göre yapılır. (Nakil merkezi tespitine yönelik yapılan puanlamada, merkezler, en yüksek puanlı 3 hastanın toplam puanına göre en yüksekten en düşüğe doğru
+a) Böbrek dağıtımı UKM tarafından Ulusal Organ Nakli Bekleme Listesinde yapılan eşleştirme ve puanlamaya göre yapılır. (Nakil merkezi tespitine yönelik yapılan puanlamada, merkezler, en yüksek puanlı 3 hastanın toplam puanına göre en yüksekten en düşüğe doğru
 
 b) Her alıcı, kendisiyle aynı kan grubundan olan vericiden böbrek alır.
 
@@ -107,7 +108,7 @@ c) Acil böbrek bildirimi için:
 
 1) Herhangi bir diyaliz yöntemi ile tedavisi mümkün olmayan (damar yolu girişi olmayan, periton diyalizi uygulanamayan, vb.) hastalar için nakil merkezleri acil bildirimlerini Acil Hasta Bildirim Formu (Ek 8-C) ile UKM'ne bildirir.
 
-2) Söz konusu talebin kabul edilmesi için UKM tarafindan Diyaliz Bilim Kurulundan üç üyenin olurunun alınması gereklidir (görüşler faks ile teyit edilecektir). UKM, gerektiğinde hastanın ve dosyanın Bakanlığın belirleyeceği bir nefrolog ve/veya kalp-damar cerrahisi uzmanı tarafindan yerinde görülmesini sağlar.
+2) Söz konusu talebin kabul edilmesi için UKM tarafından Diyaliz Bilim Kurulundan üç üyenin olurunun alınması gereklidir (görüşler faks ile teyit edilecektir). UKM, gerektiğinde hastanın ve dosyanın Bakanlığın belirleyeceği bir nefrolog ve/veya kalp-damar cerrahisi uzmanı tarafından yerinde görülmesini sağlar.
 
 3) Olumlu görüş alındıktan sonra böbrek, acil bildirimi yapılan hastaya (birden fazla acil hasta varsa puan sırasına göre) yönlendirilir.
 
@@ -133,7 +134,7 @@ d) Böbrek dağıtımında uygulanacak genel kurallar ve yükümlülükler şunl
 
 7) Puanlamada nakil merkezleri veya aynı merkezdeki hastalar arasında eşitlik olması halinde, HLA antijenlerinden önce DR, sonra B, daha sonra A uyumu dikkate alınarak merkeze veya hastaya öncelik verilir.
 
-8) Bir nakil merkezine teklif edilen böbreğin, o nakil merkezi tarafindan herhangi bir nedenle reddedilmesi veya asgari doku uyumu şartının gerçekleşmemesi halinde, puanlamaya göre sıradaki nakil merkezine böbrek teklif edilir.
+8) Bir nakil merkezine teklif edilen böbreğin, o nakil merkezi tarafından herhangi bir nedenle reddedilmesi veya asgari doku uyumu şartının gerçekleşmemesi halinde, puanlamaya göre sıradaki nakil merkezine böbrek teklif edilir.
 
 9) Vericiden alınacak kan, doku, vb. numunenin doku tipleme laboratuvarına taşınması ile böbreklerin uygun alıcıların bulunduğu nakil merkezine ulaştırılması amacıyla il içi veya iller arası yapılması gerekli taşıma işlemleri UKM veya BM'nin organizasyonunda, vericinin bulunduğu ildeki sağlık müdürlüğü veya böbrek nakli merkezlerince temin edilecek araçlar vasıtasıyla gerçekleştirilir.
 
@@ -145,13 +146,13 @@ d) Böbrek dağıtımında uygulanacak genel kurallar ve yükümlülükler şunl
 
 13) UKM tarafından yapılan kontrollerde bekleyen hasta verilerinde yanlışlık olduğu tespit edilen merkezler Bakanhkça uyarıhır. Verilerindeki yanlışlık nedeniyle haksız olarak böbrek aldığı saptanan merkezler, her benzer vaka için iki defa olmak üzere, böbrek dağıtımından faydalanamazlar.
 
-14) Nakil merkezleri vericinin doku tipinin belirlenmesini sağlamak, belirlenen doku tipini UKM'ne bildirmek ve nakil işlemini, acil durumlar hariç olmak kaydıyla, UKM tarafindan yapılacak puanlama işlemi tamamlandıktan sonra gerçekleştirmekle yükümlüdür.
+14) Nakil merkezleri vericinin doku tipinin belirlenmesini sağlamak, belirlenen doku tipini UKM'ne bildirmek ve nakil işlemini, acil durumlar hariç olmak kaydıyla, UKM tarafından yapılacak puanlama işlemi tamamlandıktan sonra gerçekleştirmekle yükümlüdür.
 
 15) Nakil merkezleri, bekleyen hastalarının verilerini, T.C. kimlik numarası dahil, Ulusal Organ Nakli Bekleme Listesine eksiksız, doğru ve zamanında girilmesinden, hasta bilgilerinin doğruluğunun en az 6 ayda bir kontrol edilerek güncellenmesinden sorumludur.
 
 16) Doku tipleme laboratuvarları, BKM veya UKM'nin koordinasyonu ile böbrek nakli merkezleri veya organ ve doku kaynağı merkezlerinden kendilerine ulaştırılan, beyin ölümü saptanmış bağışı sağlanan vericilerin doku tiplerini belirlemek üzere gerekli testleri, en hızlı şekilde, resmi tatil günleri de dahil olmak üzere, 24 saat yapmakla yükümlüdür.
 
-17) Acil bildirimi veya sıfır mismatch nedeniyle bir bölgeden başka bir bölgeye kadavra böbrek gönderilmesi halinde, böbreği alan nakil merkezi, çıkarım sırası nedeniyle veya vericinin kendi hastanesinde çıkması nedeniyle elde edeceği ilk böbreği kendisine daha önce böbrek gönderen nakil merkezine vermek zorundadır. Bu organ borçlanması ve geri ödeme durumu UKM tarafindan takip edilir.
+17) Acil bildirimi veya sıfır mismatch nedeniyle bir bölgeden başka bir bölgeye kadavra böbrek gönderilmesi halinde, böbreği alan nakil merkezi, çıkarım sırası nedeniyle veya vericinin kendi hastanesinde çıkması nedeniyle elde edeceği ilk böbreği kendisine daha önce böbrek gönderen nakil merkezine vermek zorundadır. Bu organ borçlanması ve geri ödeme durumu UKM tarafından takip edilir.
 
 18) Ulusal Organ Nakli Bekleme Listesi Programının oluşabilecek herhangi bir teknik nedenle çalışamaması halinde, teknik sorun giderilene kadar Makamın 30/01/2001 tarih ve 950 sayılı Onayları ile yürürlüğe giren ve bu Yönerge ile yürürlükten kaldırılan Ulusal Organ Ve Doku Nakli Koordinasyon Sistemi Yönergesinin ilgili hükümlerinde belirtilen böbrek dağıtım ilkelerine göre işlem yapılır.
 
@@ -167,7 +168,7 @@ e) Kadavra vericinin böbrek nakli merkezlerinde çıkması durumunda aşağıda
 
 1) Kadavra vericinin böbrek nakli merkezi dışındaki bir organ ve doku kaynağı merkezinde çıkması durumunda aşağıdaki kurallar uygulanır:
 
-1) Organ ve doku kaynağı merkezlerinde çıkan kadavra vericilerden böbrek çıkarımı, BKM'ne bağlı illerdeki (Ek 2) nakil merkezleri tarafindan ve (Ek 3-C)'ye göre sıra ile gerçekleştirilir.
+1) Organ ve doku kaynağı merkezlerinde çıkan kadavra vericilerden böbrek çıkarımı, BKM'ne bağlı illerdeki (Ek 2) nakil merkezleri tarafından ve (Ek 3-C)'ye göre sıra ile gerçekleştirilir.
 
 2) Böbrek çıkarımını yapacak nakil merkezi ile karaciğeri kullanacak nakil merkezi aynı hastane bünyesinde ise, böbrek çıkarımı karaciğeri kullanacak karaciğer transplant cerrahının sorumluluğunda gerçekleştirilebilir.
 
@@ -217,7 +218,7 @@ a) Yönetmeliğin 22 nci maddesi uyarınca organ ve doku kaynağı merkezi nitel
 
 b) Organ ve doku kaynağı merkezlerinde görev alacak organ ve doku nakli koordinatörü ve yardımcılarının isimlerini, meslek ûnvanlarını ve telefon numaralarını BKM'ne bildirirler.
 
-c) Bütün resmi ve özel hastaneler, beyin ölümü vakalarını bağlı olduğu BKM'ne ve UKM'ne bildirmek zorundadır. Hastane servislerindeki potansiyel beyin ölümü vakalarını servis sorumlu tabibi çalıştığı kurumun organ ve doku nakli koordinatörüne bildirir. Organ ve doku nakli koordinatörü veya yardımcıları beyin ölümünün teşhis edilmesi için beyin ölümü kurulunu göreve davet eder. Kanun'un 11 inci ve 13 üncü maddeleri uyarınca beyin ölümü kararı alındıktan sonra organ ve doku nakli koordinatörü veya yardımcıları tarafından Kanun'a uygun olarak hasta yakınlarından, organ ve doku bağışı talep edilir. Organ ve doku nakli koordinatörü vakayı ve bağış durumunu (Ek I)'de düzenlenen Beyin Olümü Bildirim Formunu ve Aile Izin Formunu (Ek 9) doldurarak bağh bulunduğu BKM'ne ve UKM'ne bildirmek zorundadır. Kurumda organ ve doku nakli koordinatörü bulunmuyor ise, beyin ölümü vakası Baştabip tarafindan ilgili BKM'ne ve UKM'ne bildirilir.
+c) Bütün resmi ve özel hastaneler, beyin ölümü vakalarını bağlı olduğu BKM'ne ve UKM'ne bildirmek zorundadır. Hastane servislerindeki potansiyel beyin ölümü vakalarını servis sorumlu tabibi çalıştığı kurumun organ ve doku nakli koordinatörüne bildirir. Organ ve doku nakli koordinatörü veya yardımcıları beyin ölümünün teşhis edilmesi için beyin ölümü kurulunu göreve davet eder. Kanun'un 11 inci ve 13 üncü maddeleri uyarınca beyin ölümü kararı alındıktan sonra organ ve doku nakli koordinatörü veya yardımcıları tarafından Kanun'a uygun olarak hasta yakınlarından, organ ve doku bağışı talep edilir. Organ ve doku nakli koordinatörü vakayı ve bağış durumunu (Ek I)'de düzenlenen Beyin Olümü Bildirim Formunu ve Aile Izin Formunu (Ek 9) doldurarak bağh bulunduğu BKM'ne ve UKM'ne bildirmek zorundadır. Kurumda organ ve doku nakli koordinatörü bulunmuyor ise, beyin ölümü vakası Baştabip tarafından ilgili BKM'ne ve UKM'ne bildirilir.
 
 (2) Beyin Olümü Bildirim Formlarının Başhekimlikçe ayhık olarak Bakanlık Tedavi Hizmetleri Genel Müdürlüğüne gönderilmesi zorunludur.
 
@@ -257,7 +258,7 @@ j) Hastane personeline ve halka eğitim vermek,
 
 k) Organ ve doku nakli koordinatör yardımcısına organ ve doku nakli ile ilgili yaptığı planlarda görev vermek ve kontrol etmek,
 
-1) Bakanlık tarafindan organ ve doku nakli konusunda düzenlenecek her türlü eğitim ve kampanyalara bölgesinde iştirak etmek ve destek vermek, ile görevli ve sorumludur.
+1) Bakanlık tarafından organ ve doku nakli konusunda düzenlenecek her türlü eğitim ve kampanyalara bölgesinde iştirak etmek ve destek vermek, ile görevli ve sorumludur.
 
 (4) Organ ve doku nakli koordinatör yardımcısı, organ ve doku nakli koordinatörünün verdiği görevleri yapar ve organ ve doku nakli koordinatörünün yukarıda belirtilen görevleri yerine getirmesinde yardımcı olur. Bölge koordinasyon merkezlerinin görev ve sorumlulukları
 
@@ -293,7 +294,7 @@ e) Organ bağış kampanyalan düzenlemek,
 
 f) Sağlık personeline ve halka eğitim vermek,
 
-g) Bakanlık tarafindan organ ve doku nakli konusunda düzenlenecek her tür eğitim ve kampanyalara bölgesinde iştirak etmek ve destek vermek,
+g) Bakanlık tarafından organ ve doku nakli konusunda düzenlenecek her tür eğitim ve kampanyalara bölgesinde iştirak etmek ve destek vermek,
 
 g) Organ ve doku kaynağı merkezleri, doku tipleme laboratuarları ve organ ve doku nakli merkezleri arasında koordinasyonu sağlamak,
 
@@ -339,9 +340,9 @@ g) Organ bağış kampanyaları düzenlemek,
 
 ğ) Sağlık personeline ve halka eğitim vermek,
 
-h) Bakanlık tarafindan organ ve doku nakli konusunda düzenlenecek her tür eğitim ve kampanyalara iştirak etmek ve destek vermek,
+h) Bakanlık tarafından organ ve doku nakli konusunda düzenlenecek her tür eğitim ve kampanyalara iştirak etmek ve destek vermek,
 
-ı) Bakanlık tarafindan verilen diğer görevleri yapmak,
+ı) Bakanlık tarafından verilen diğer görevleri yapmak,
 
 ile görevli ve sorumludur.
 
@@ -369,4 +370,4 @@ ile görevli ve sorumludur.
 
 **Madde 18 –** (1) Bu Yönerge Bakan onayı ile yürürlüğe girer. Yürütme
 
-**Madde 19 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür. Ekler: Ek: 1 Beyin Ölümü Bildirim Formu Ek: 2 Bölge Koordinasyon Merkezlerine Bağlanan İllerin Listesi Ek: 3 Ulusal Sistemden Organ ve Doku Ahım/Çıkarım Sırası Ek: 4 Verici Bilgi Formu Ek: 5 Organ Bilgi Formu Ek: 6 Alicı İzleme Formu Ek: 7 Kadavradan Böbrek Dağıtımı Puanlama Tablosu Ek: 8 Acil Hasta Bildirim Formu Ek: 9 Aile Izin Formu
+**Madde 19 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür. Ekler: Ek: 1 Beyin Ölümü Bildirim Formu Ek: 2 Bölge Koordinasyon Merkezlerine Bağlanan İllerin Listesi Ek: 3 Ulusal Sistemden Organ ve Doku Alım/Çıkarım Sırası Ek: 4 Verici Bilgi Formu Ek: 5 Organ Bilgi Formu Ek: 6 Alicı İzleme Formu Ek: 7 Kadavradan Böbrek Dağıtımı Puanlama Tablosu Ek: 8 Acil Hasta Bildirim Formu Ek: 9 Aile Izin Formu

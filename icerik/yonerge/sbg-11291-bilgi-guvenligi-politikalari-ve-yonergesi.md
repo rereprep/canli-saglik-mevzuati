@@ -7,6 +7,10 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11291/bilgi-guvenligi-politikalari-ve-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Düzenlemenin amacı ve kapsamı ile uygulama usul ve esaslarını belirler."
+tarih: ""
+sayi: ""
 ---
 
 ## SAĞLIK BAKANLIĞI BİLGİ GÜVENLİĞİ POLİTİKALARI YÖNERGESİ
@@ -1089,7 +1093,7 @@ zombiler ağına* katıldı kötücül
 
 durumda
 
-### yazılım yüklenir
+### Yazılım yüklenir
 
 Kötücül yazılım, kullanicı
 
@@ -1219,7 +1223,7 @@ $eker~1?Sordu
 
 "Yüzeysel bir soru eşittir eksi
 
-### "yüz", "yüzde" yerine puan":
+### "yüz", "yüzde" yerine puan
 
 "bir", "tek" yerine 1
 
@@ -3213,7 +3217,7 @@ tanımına giren belgeler geri dönüşüme devirleri yapılmalıdır.
 
 C.26.3. Bilgi Teknolojilerinin (Disk Storage Veri tabanı dataları vb.) 14 Mart 2005
 
-Tarihli 25755 sayılı Resmi Gazete ’de yayınlanmış, sonraki yıllarda da çeşitli
+Tarihli 25755 sayılı Resmî Gazete ’de yayınlanmış, sonraki yıllarda da çeşitli
 
 değişikliklere uğramış katı atıkların kontrolü yönetmeliğine ve Basel Sözleşmesine
 
@@ -3631,7 +3635,7 @@ px?RootFolder=http%3a%2f%2fweb%2eogm%2egov%2etr%2fbirimler%2fm
 
 erkez%2fbilgiislem%2fDokumanlar%2fBilgiGuvenligi&FolderCTID=0x0120003
 
-### CFBD24EFB3DA6479A64B187A54853D4
+### [Barkod/OCR kalıntısı]
 
 13. http://bigb.meb.gov.tr
 

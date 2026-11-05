@@ -10,9 +10,10 @@ etiketler: ["kanser", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 234-237"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-Resmi Gazete Tarihi: 03.06.2015 Resmi Gazete Sayısı: 29375
+Resmî Gazete Tarihi: 03.06.2015 Resmî Gazete Sayısı: 29375
 
 ### KANSER BİLDİRİMİ VE KANSER KAYIT MERKEZLERİ YÖNETMELİĞİ
 

@@ -7,6 +7,10 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-48968/sbsgm-hizmet-birimleri-ve-gorevleri-hakkinda-yonerge.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Düzenlemenin amacı ve kapsamı ile uygulama usul ve esaslarını belirler."
+tarih: ""
+sayi: ""
 ---
 
 ## SAĞLIK BİLGİ SİSTEMLERİ GENEL MÜDÜRLÜĞÜ HİZMET BİRİMLERİ VE GÖREVLERİ HAKKINDA YÖNERGE
@@ -45,7 +49,7 @@ c) Genel Müdür: Sağlık Bilgi Sistemleri Genel Müdürünü,
 
 (5) Genel Müdür tarafından özellikli veya dönemsel yürütülmesi gereken hizmetler için çalışma grupları veya birimler teşkil edilebilir.
 
-(6) Daire başkanlıkları, bu Yönergede belirlenen görevlerin dışında Genel Müdür tarafindan verilen benzer nitelikteki görevleri de yapmakla yükümlüdür. Daire Başkanlıkları
+(6) Daire başkanlıkları, bu Yönergede belirlenen görevlerin dışında Genel Müdür tarafından verilen benzer nitelikteki görevleri de yapmakla yükümlüdür. Daire Başkanlıkları
 
 **MADDE 5 –** (1) Genel Müdürlüğün daire başkanlıkları şunlardır:
 
@@ -167,7 +171,7 @@ f) Resmi Istatistik Programı kapsamında Bakanlık birimleri ile Türkiye İsta
 
 g) Görev alanına giren araştırmaları yürütmek, elde edilen veriler ile analizler yapmak, gerektiğinde ileri analiz çalışmalarında bulunmak, sonuçları rapor ve ulusal uluslararası bilimsel yayın haline getirmek.
 
-g) Dığer kurumlar tarafindan talep edilen verileri Bakanlık birimleri ile koordinasyonu sağlayarak temin etmek.
+g) Dığer kurumlar tarafından talep edilen verileri Bakanlık birimleri ile koordinasyonu sağlayarak temin etmek.
 
 h) Konusu ile ilgili toplantı, çalıştay, kongre vb. faaliyetleri düzenlemek ve düzenlenen faaliyetlere katılmak.
 
@@ -237,7 +241,7 @@ k) Uluslararası sağlık bilişimi standartlarının ülkemizde kullanımını 
 
 1) e-Devlet Kapısı üzerinden sunulacak Bakanlık hizmetlerini ilgili birimlerle belirlemek ve bu hizmetlere ilişkin işlemleri yürütmek.
 
-m) Bakanlık tarafindan sunulan e-Devlet hizmeti bilgi sisteminin diğer kamu kurum ve kuruluşları ile entegrasyonunu sağlamak.
+m) Bakanlık tarafından sunulan e-Devlet hizmeti bilgi sisteminin diğer kamu kurum ve kuruluşları ile entegrasyonunu sağlamak.
 
 n) Kurumu oluşturan bölüm ve ögeler arasında eşgüdüm, motivasyon, karar alma ve bilgi akışını sağlamak.
 
@@ -285,7 +289,7 @@ k) Ulusal ölçekte kamu-üniversite-özel sektörler arasında entelektüel ser
 
 akademik dünya ile güçlü iş birlikleri oluşturmak ve yapay zekâ konusunda ülkemizde öncü sağlık altyapılarının hayata geçirilmesine katkı sağlamak.
 
-### m) Çevre sağlığına yönelik bilişim projeleri geliştirmek, bakım ve desteğini sağlamak. n) Genel Müdür tarafindan alanı ile ilgili verilen diğer görevleri yapmak.
+### m) Çevre sağlığına yönelik bilişim projeleri geliştirmek, bakım ve desteğini sağlamak. n) Genel Müdür tarafından alanı ile ilgili verilen diğer görevleri yapmak.
 
 #### Halk Sağlğı Bilişimi Dairesi Başkanlığı
 
@@ -349,7 +353,7 @@ h) Bakanlık merkez ve taşra birimleri ile bağlı kuruluşların kullandığı
 
 1) Bakanlık ilgili birimlerinin taleplerini değerlendirerek arazi, bina ve diğer sabit tesislerinin kaydını ve takibini yapacak bilişim altyapısını kurmak.
 
-#### i) Genel Müdür tarafindan alanı ile ilgili verilen diğer görevleri yapmak. Veri Yönetimi Dairesi Başkanlığı
+#### i) Genel Müdür tarafından alanı ile ilgili verilen diğer görevleri yapmak. Veri Yönetimi Dairesi Başkanlığı
 
 **MADDE 13 –** (1) Veri Yönetimi Dairesi Başkanlığının görev ve yetkileri şunlardır:
 

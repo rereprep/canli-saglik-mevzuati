@@ -9,6 +9,7 @@ etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 238-246"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 Resmî Gazete Tarihi: 18.10.2019 Resmî Gazete Sayısı: 30922
@@ -403,7 +404,7 @@ EK-1
 
 iMZAS
 
-### BİRİM ÄMİRİNİN ADI VE SOYADI UNVANI TELEFON FAKS GOREVLI PERSONELIN ADI VE SOYADI BELGENİN VERİLİŞ ŞEKLİ ASIL ÖRNEK FAKS YERİNDE İNCELEME BELGE/DOSYANIN SAYFA SAYISI/ADEDI TESLIM EDEN TESLIM TESLIM ALAN TARİHİ ONAY IADE EDEN IADE TARIHI IADE ALAN AÇIKLAMALAR
+### BİRİM AMİRİNİN ADI VE SOYADI UNVANI TELEFON FAKS GOREVLI PERSONELIN ADI VE SOYADI BELGENİN VERİLİŞ ŞEKLİ ASIL ÖRNEK FAKS YERİNDE İNCELEME BELGE/DOSYANIN SAYFA SAYISI/ADEDI TESLIM EDEN TESLIM TESLIM ALAN TARİHİ ONAY IADE EDEN IADE TARIHI IADE ALAN AÇIKLAMALAR
 
 1- İstek, belgenin ait olduğu birim amirinin imzası ile yapılır. 2- İstek Formunda belirtilen görevli dışındakilere belge teslim edilmez. 3- Istek Formu, belge asıllarını talebi halinde iki nüsha, diğerleri için ise tek nüsha düzenlenir. 4- Ası/ nüshası teslim edimmiş belgelerin iade süresi 7 gündür. 5- Telefonla yapılacak istekler dikkate alınmaz.
 

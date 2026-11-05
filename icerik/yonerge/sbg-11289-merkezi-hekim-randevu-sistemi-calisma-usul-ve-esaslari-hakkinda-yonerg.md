@@ -7,15 +7,16 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11289/merkezi-hekim-randevu-sistemi-calisma-usul-ve-esaslari-hakkinda-yonerge.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-## MERKEZI HEKİM RANDEVU SİSTEMİ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE BIRINCI BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+## MERKEZİ HEKİM RANDEVU SİSTEMİ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç ve kapsam
 
 **MADDE 1 –** (1) Bu Yönerge; Sağlık Bakanlığına bağlı birinci, ikinci ve üçüncü basamak sağlık tesisleri ile ağız ve diş sağlığı merkezleri ve polikliniklerinde, Merkezi Hekim Randevu Sistemi kapsamında verilecek muayene randevusu hizmetlerine ilişkin usûl ve esasları düzenlemek amacıyla hazırlanmıştır. Dayanak
 
-**MADDE 2 –** (1) Bu Yönerge, 663 sayıhı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 40 ıncı maddesine dayanılarak hazırlanmıştır. Tanımlar ve kısaltmalar
+**MADDE 2 –** (1) Bu Yönerge, 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 40 ıncı maddesine dayanılarak hazırlanmıştır. Tanımlar ve kısaltmalar
 
 **MADDE 3 –** (1) Bu Yönergenin uygulanmasında:
 
@@ -25,15 +26,15 @@ b) ASM: Aile sağlığı merkezlerini,
 
 c) Bakanlık: Sağlık Bakanlığını,
 
-g) HBYS: Hastane Bilgi Yönetim Sistemini,
+c) HBYS: Hastane Bilgi Yönetim Sistemini,
 
-d) Hekim çalışma cetveli: Bir hekimin çalışma zamanının tamamını ihtiva eden çalışma programini,
+ç) Hekim çalışma cetveli: Bir hekimin çalışma zamanının tamamını ihtiva eden çalışma programını,
 
-e) HSGM: Halk Sağlığı Genel Müdürlüğünü,
+d) HSGM: Halk Sağlığı Genel Müdürlüğünü,
 
-f) KHGM: Kamu Hastaneleri Genel Müdürlüğünü,
+e) KHGM: Kamu Hastaneleri Genel Müdürlüğünü,
 
-g) MIRS: Merkezi Hekim Randevu Sistemini,
+g) MHRS: Merkezi Hekim Randevu Sistemini,
 
 ğ) Sağlık tesisi: Sağlık Bakanlığına bağlı, ikinci ve üçüncü basamak sağlık kurumları ile ağız ve diş sağlığı merkezlerini ve hastanelerini,
 
@@ -45,13 +46,11 @@ h) SBSGM: Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
 
 #### Görev ve sorumluluklar
 
-**MADDE 4 –** (1) MHRS hizmetlerinin koordinasyonu; SBSGM, KHGM ve HSGM tarafindan birlikte gerçekleştirilir. Bu koordinasyon görevinin yerine getirilmesi için ilgili genel müdürlüklerde ve il sağlık müdürlüklerinde "MHRS Hiżmet Birimleri" oluşturulur.
+**MADDE 4 –** (1) MHRS hizmetlerinin koordinasyonu; SBSGM, KHGM ve HSGM tarafından birlikte gerçekleştirilir. Bu koordinasyon görevinin yerine getirilmesi için ilgili genel müdürlüklerde ve il sağlık müdürlüklerinde "MHRS Hizmet Birimleri" oluşturulur.
 
 (2) SBSGM'nin görev ve sorumlulukları şunlardır:
 
 a) MHRS hizmetlerinin teknik süreçlerinin takibi, planlanması, yürütülmesi, gelişen ihtiyaçlar doğrultusunda KHGM ile HSGM'nin görüşlerini alarak bakım, onarım ve geliştirme çalışmaları kapsamında teknik yapının oluşturulması, gerekli güncellemelerin yapılması, MHRS süreçlerine ilişkin yazılım ve donanımın temini.
-
-1
 
 b) KHGM ve HSGM ile işbirliği yaparak, birinci basamakta ve sağlık tesislerinde sunulan sağlık hizmetlerinin MHRS ile entegrasyonun sağlanması kapsamında kullanılacak yazılım ve teknik alt yapının temini.
 
@@ -73,7 +72,7 @@ a) Birinci basamak sağlık tesisleri ile ASM'lerde MHRS kapsamında randevulu p
 
 b) Birinci basamak sağlık tesisleri ile AS'lerde hekim çalışma cetvellerinin planlanması, EK-2'de yer alan esaslara göre uygulanması ve polikliniklerde randevulu muayene süreçlerinin takibi.
 
-c) Birinci basamak sağlık tesisleri ile AS'lerde MHRS işleyişinde tespit edilen sorunların çözümlenmesi, belirlenen ihtiyaçlar doğrultusunda politikaların geliştirilmesi ve uygulanmaşı.
+c) Birinci basamak sağlık tesisleri ile AS'lerde MHRS işleyişinde tespit edilen sorunların çözümlenmesi, belirlenen ihtiyaçlar doğrultusunda politikaların geliştirilmesi ve uygulanması.
 
 ## ÜÇÜNCÜ BÖLÜM MHRS Hizmetlerinin Yürütülmesi
 
@@ -88,8 +87,6 @@ c) Birinci basamak sağlık tesisleri ile AS'lerde MHRS işleyişinde tespit edi
 (4) Sağlık tesislerinde; hekim çalışma cetvellerinin EK-2'de tanımlı esaslara uygun bir şekilde sisteme girilmesinin sağlanmasından, randevu alan hastalara verilen hizmetin takibinden, verilerin zamanında ve doğru bir şekilde Bakanlığa bildirilmesinden, kamu hastaneleri başkanı sorumludur.
 
 (5) Birinci basamak sağlık tesisleri ile AS'lerde; hekim çalışma cetvellerinin EK-2'de tanımlı esaslara uygun bir şekilde sisteme girilmesinin sağlanmasından, randevu alan hastalara verilen hizmetin takibinden, verilerin zamanında ve doğru bir şekilde Bakanlığa bildirilmesinden, halk sağlığı başkanı sorumludur.
-
-2
 
 #### Sağlık tesislerinde koordinasyon
 
@@ -137,7 +134,7 @@ g) EK-2'de yer alan esaslara göre MHRS kapsamında yürütülecek iş ve işlem
 
 **MADDE 11 –** (1) Bu Yönergenin eklerinde, ilgili genel müdürlüğün talebi ve SBSGM'nin onayı ile değişiklik yapılabilir. Yaptırım
 
-**MADDE 12 –** (1) Bu Yönergede belirtilen usul ve esaslara uyulmadığının Bakanlık tarafindan yapılan inceleme sonucunda tespiti halinde ilgililer hakkında mevzuat hükümleri çerçevesinde idari işlem tesis edilir. Kaldırılan hükümler
+**MADDE 12 –** (1) Bu Yönergede belirtilen usul ve esaslara uyulmadığının Bakanlık tarafından yapılan inceleme sonucunda tespiti halinde ilgililer hakkında mevzuat hükümleri çerçevesinde idari işlem tesis edilir. Kaldırılan hükümler
 
 **MADDE 13 –** (1) Bu Yönerge ile 31.12.2015 tarihli 'Merkezi Hekim Randevu Sistemi Çalışma Usul ve Esasları Hakkında Yönerge' yürürlükten kaldıılmıştır. Yürürlük
 
@@ -145,19 +142,17 @@ g) EK-2'de yer alan esaslara göre MHRS kapsamında yürütülecek iş ve işlem
 
 **MADDE 15 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
-EK-1 1- HBYS ve AHBS ile MHRS entegrasyonu, Tablo l'de yer alan MHRS web servislérinin kullanımına göre belirlenir. Işlem No. Web Servis Metot işlem adı
+EK-1 1- HBYS ve AHBS ile MHRS entegrasyonu, Tablo l'de yer alan MHRS web servislérinin kullanımına göre belirlenir. İşlem No. Web Servis Metot işlem adı
 
 KurumKlinikEkleme Poliklinik İşlemleri KurumKlinikSilme
 
-KlinikBilgileriSorgulama 4 KurumTaslakCetvelEkleme 5 KurumTaslakCetvelGuncelleme 6 Kurum TaslakCetvelKesinlestirme 7 KurumTaslakCetvelSilme Çalışma Cetveli Işlemleri 8 KurumTaslakCetvelSorgulama 9 KurumTaslakCetvelTarihleriGuncelle 10 KurumKesinCetvelGuncelleme 11 KurumKesinCetvelSilme 12 KurumKesinCetvelSorgulama 13 KurumRandevuSorgulamaObj 14 RandevuDurumGuncelle Randevu Işlemleri 15 RandevuEkleme 16 Randevulptal 17 RandevuNotuDuzenleme Devam Eden Randevu İşlemleri 18 RandevuGuncelleme Sağhk Kurulu İşlemleri 19 SaglikKuruluRandevuUsoidBaglama 20 KurumIstisnaEkleme Istisna İşlemleri 21 KurumIstisnaSilme 22 KurumIstisnaSorgulama Web Servis Adresi:* http://mhrsws.sagliknet.saglik.gov.tr/PRSC_MHRS_WS?wsdl *https olarak da kullanılmaktadır. 2- MHRS entegrasyonu kapsamında, HBYS ve AHBS'lerde Tablo l'de belirtilen ana metotları kullanmak zorunludur. Bu kapsamda tüm MHRS web servis metotları tüketilerek ve aşağıda belirtildiği şekilde kullanılır. Tablo l'deki servislere karşılık gelen HBYS ve AHBS ara yüzlerinin ideal kullanım şekli aşağıdaki gibidir:
+KlinikBilgileriSorgulama 4 KurumTaslakCetvelEkleme 5 KurumTaslakCetvelGuncelleme 6 Kurum TaslakCetvelKesinlestirme 7 KurumTaslakCetvelSilme Çalışma Cetveli İşlemleri 8 KurumTaslakCetvelSorgulama 9 KurumTaslakCetvelTarihleriGuncelle 10 KurumKesinCetvelGuncelleme 11 KurumKesinCetvelSilme 12 KurumKesinCetvelSorgulama 13 KurumRandevuSorgulamaObj 14 RandevuDurumGuncelle Randevu İşlemleri 15 RandevuEkleme 16 Randevulptal 17 RandevuNotuDuzenleme Devam Eden Randevu İşlemleri 18 RandevuGuncelleme Sağlık Kurulu İşlemleri 19 SaglikKuruluRandevuUsoidBaglama 20 KurumIstisnaEkleme Istisna İşlemleri 21 KurumIstisnaSilme 22 KurumIstisnaSorgulama Web Servis Adresi:* http://mhrsws.sagliknet.saglik.gov.tr/PRSC_MHRS_WS?wsdl *https olarak da kullanılmaktadır. 2- MHRS entegrasyonu kapsamında, HBYS ve AHBS'lerde Tablo l'de belirtilen ana metotları kullanmak zorunludur. Bu kapsamda tüm MHRS web servis metotları tüketilerek ve aşağıda belirtildiği şekilde kullanılır. Tablo l'deki servislere karşılık gelen HBYS ve AHBS ara yüzlerinin ideal kullanım şekli aşağıdaki gibidir:
 
 a) HBYS ve AHBS'lerde gerektiğinde kullanılmak üzere, Tablo l'deki üç farklı poliklinik işleminin yapılabileceği ara yüzler bulunur.
 
 b) "Çalışma Cetveli İşlemleri" periyodik olarak kullanılır ve bunların kullanılma sıklığına sağlık tesisinin yönetimi tarafından karar verilir. HBYS ve AHBS'lerde, Tablo l'deki dokuz (9) farklı "Çalışma Cetveli İşlemleri" nin yapılabileceği arayüz bulunur.
 
 c) MHRS'nin gereksiz yük altında kalmaması adına HBYS ve AHBS'lerin MHRS ile tamamen entegre olduğu var sayılır, HBYS ve AHBS'de tanımlı hekim çalışma cetveli ile çakışacak yeni bir cetvel MHRS'ye gönderilmez.
-
-1
 
 ### EK-2
 
@@ -177,7 +172,7 @@ c) MHRS'nin gereksiz yük altında kalmaması adına HBYS ve AHBS'lerin MHRS ile
 
 2.6. "Sağlık Kurulu Cetveli" kendi içerisinde "Başvuru Randevusu" ve "Muayene Randevusu" olmak üzere ikiye ayrılır. "Başvuru Randevusu" için Sağlı Kurulu birimine, "Muayene Randevusu" için ilgili kurul hekimlerine cetvel tanımlanır. Sağlık Kurulu muayene randevuları, sağlık
 
-2.7. Birim zaman içerisinde verilebilecek randevu sayısı KHGM veya HSGM tarafindan belirlenir.
+2.7. Birim zaman içerisinde verilebilecek randevu sayısı KHGM veya HSGM tarafından belirlenir.
 
 2.8. Sağlık tesisi tarafından gerekli görüldüğü durumlarda vatandaşlara, hastaneden ayrılmalarından önce "İlk Muayene", "Kontrol" ve "Sağlık Kurulu" randevularının verilmesi sağlanır.
 
@@ -186,8 +181,6 @@ c) MHRS'nin gereksiz yük altında kalmaması adına HBYS ve AHBS'lerin MHRS ile
 2.10. Hastalar, ana dal hekimi tarafından muayene edildikten ve tetkik işlemlerinden sonra uygun görülmesi halinde, tıpta ileri uzmanlık gerektiren yan dal poliklinikler için ilgili yan dal polikliniğine sistem üzerinden "Takip Gerektiren Hasta Listesine (Yeşil Liste)" süreli olarak eklenmek sureti ile yönlendirilir. Ilgili yan dal hekimi tarafından onaylama işleminden sonra hastaların süresiz olarak listede kalmaları sağlanır.
 
 2.11. Sağlık tesislerinde, poliklinik hizmetlerine dair randevuların MHRS dışındaki kanallar (web, defter kayıt vb.) üzerinden verilmemesi hususunda gerekli tedbirler alınır.
-
-1
 
 3. Hekim Çalışma Cetvelinin Iptal Edilmesi 3.1. Henüz randevu alınmamış hekim çalışma cetvelleri:
 

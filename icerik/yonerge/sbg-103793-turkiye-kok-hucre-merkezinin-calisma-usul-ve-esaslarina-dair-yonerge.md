@@ -7,11 +7,12 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103793/turkiye-kok-hucre-merkezinin-calisma-usul-ve-esaslarina-dair-yonerge.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
 2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge
 
-### SADEIK HİZMETLER GENEL MODORLO0O - MEVZCAT IŞLERI DAIREN BAŞKANLIĞI SAĞLIK BAKANLIĞI 10/12/2020 11 04 • 54567092-010.04-5974 Sağlık Hizmetleri Genel Müdürlüğü
+### SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - MEVZUAT İŞLERİ DAİRE BAŞKANLIĞI SAĞLIK BAKANLIĞI 10/12/2020 11 04 • 54567092-010.04-5974 Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 54567092-010.04 Konu : Türkiye Kök Hücre Merkezinin Çalışma
 
@@ -27,15 +28,15 @@ Ekte sunulan "Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dai
 
 Takdir ve tensiplerinize arz ederim.
 
-Pros, Bo Ane kin
+Prof. Dr. Ahmet Tekin
 
-/ Genel Müdür Ek: Yöuerge Metni (1 sayfa) Uygun görüşle arz ederim.
+/ Genel Müdür Ek: Yönerge Metni (1 sayfa) Uygun görüşle arz ederim.
 
 .... / .... /2020 Prof. Dr. Muhammet GÜVEN
 
 Bakan Yardımcısı
 
-### OLUR ..../ ..../2020 Jr. Fahretin KOCA Pakan
+### OLUR ..../ ..../2020 Dr. Fahrettin KOCA Bakan
 
 Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge
 

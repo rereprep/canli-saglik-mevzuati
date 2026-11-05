@@ -7,6 +7,10 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11292/saglik-bilgi-sistemleri-genel-mudurlugu-teskilat-gorev-yetki-calisma-usul-ve-esaslari-hakkinda-yonerge.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Düzenlemenin amacı ve kapsamı ile uygulama usul ve esaslarını belirler."
+tarih: ""
+sayi: ""
 ---
 
 ## SAĞLIK BİLGİ SİSTEMLERİ GENEL MÜDÜRLÜĞÜ TEŞKİLAT, GÖREV, YETKİ, ÇALIŞMA USUL ve ESASLARI HAKKINDA YÖNERGE
@@ -17,9 +21,9 @@ ocr: true
 
 **Madde 1 –** Bu Yönergenin amacı, Sağlık Bilgi Sistemleri Genel Müdürlüğünün teşkilat, görev ve yetkilerini düzenlemektir. Bu Yönerge, Sağlık Bilgi Sistemleri Genel Müdürlüğünün tüm alt birimlerini kapsar:. Dayanak
 
-**Madde 2 –** Bu Yönerge, 663 sayılı Sağlık Bakanlığı ve Bağhı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 40'ncı maddelerine dayanılarak hazırlanmıştır. Tanımlar
+**Madde 2 –** Bu Yönerge, 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 40'ncı maddelerine dayanılarak hazırlanmıştır. Tanımlar
 
-**Madde 3 –** Bu Yönergede geçen; Bakanlık: Sağlık Bakanlığını, Bakan: Sağlık Bakanımı, Genel Müdürlük: Sağhk Bilgi Sistemleri Genel Müdürlüğünü, Genel Müdür: Sağlık Bilgi Sistemleri Genel Müdürünü, ifade eder.
+**Madde 3 –** Bu Yönergede geçen; Bakanlık: Sağlık Bakanlığını, Bakan: Sağlık Bakanımı, Genel Müdürlük: Sağlık Bilgi Sistemleri Genel Müdürlüğünü, Genel Müdür: Sağlık Bilgi Sistemleri Genel Müdürünü, ifade eder.
 
 ## İKİNCİ BÖLÜM
 
@@ -29,7 +33,7 @@ ocr: true
 
 **Madde 5 –** (1) Genel Müdürün görev, yetki ve sorumlulukları şunlardır:
 
-a) Genel Müdürlük hizmetlerini mevzuat hükümlerine, kurumun amaç ve politikalarıma, stratejik planına uygun olarak yönetmek,
+a) Genel Müdürlük hizmetlerini mevzuat hükümlerine, kurumun amaç ve politikalarına, stratejik planına uygun olarak yönetmek,
 
 b) Bakanlık politikalarına uygun şekilde, ikincil düzenlemeleri yapmak, stratejik plan, yıllık performans programları ve faaliyet raporlarını hazırlamak ve uygulamak,
 
@@ -41,7 +45,7 @@ d) Genel Müdürlük bütçesini hazırlamak,
 
 e) Görev alanına giren konularda bağlı kuruluşlar ve diğer kurum ve kuruluşlar ile işbirliği yapmak ve koordinasyonu sağlamak,
 
-f) Üst yönetim ve Bakan tarafindan verilen diğer görevleri yerine getirmek.
+f) Üst yönetim ve Bakan tarafından verilen diğer görevleri yerine getirmek.
 
 (2) Genel Müdür, yürütülen hizmetlerden ve emri altındakilerin faaliyet ve işlemlerinden Bakana karşı sorumludur. Daire Başkanlarını Görev, Yetki ve Sorumlulukları
 
@@ -49,19 +53,19 @@ f) Üst yönetim ve Bakan tarafindan verilen diğer görevleri yerine getirmek.
 
 (2) Daire başkanları, Genel Müdür tarafından verilen talimatlara uygun olarak; yönetimine verilen hizmetlerin yürütülmesi ile ilgili plan ve programları tespit ederek Genel Müdürün onayına sunar, uygulamaları izler, koordine eder, denetler ve oluşabilecek sorunların giderilmesi konusunda gerekli önlemleri alır. Hizmet Planlaması ve Görev Dağılını
 
-**Madde 7 –** (1) Genel Müdürlük bünyesinde teşkil edilen daire başkanlıkları ile koordinatörlükler ve bunları görevleri Ek-l'de yer almaktadır.
+**MADDE 7 –** (1) Genel Müdürlük bünyesinde teşkil edilen daire başkanlıkları ile koordinatörlükler ve bunları görevleri Ek-l'de yer almaktadır.
 
 (2) Daire başkanlıklarındaki birim sorumluları, daire başkanının teklifi üzerine Genel Müdür tarafından görevlendirilir:
 
-(3) Genel Müdürlükte, Bakanlık Makamınca görevlendirilen Bakanlık Müşavirleri görev yapabilirler. Bakanhk Müşavirleri belirlenmiş dairelerden sorumlu olarak görevlendirilebileceği gibi belirli iş veya programlardan sorumlu olarak Genel Müdüre danışmanlık yapmak veya uzmanlık alanlarıyla ilgili konularda çalışma, araştırma, yapmak üzere görevlendirilebilirler. Bakanlık Müşavirlerinin sorumlu olacağı birimler, program ve projeler, araştırma ve danışmanlık yapacağı alanlar Genel Müdür tarafindan belirlenir.
+(3) Genel Müdürlükte, Bakanlık Makamınca görevlendirilen Bakanlık Müşavirleri görev yapabilirler. Bakanhk Müşavirleri belirlenmiş dairelerden sorumlu olarak görevlendirilebileceği gibi belirli iş veya programlardan sorumlu olarak Genel Müdüre danışmanlık yapmak veya uzmanlık alanlarıyla ilgili konularda çalışma, araştırma, yapmak üzere görevlendirilebilirler. Bakanlık Müşavirlerinin sorumlu olacağı birimler, program ve projeler, araştırma ve danışmanlık yapacağı alanlar Genel Müdür tarafından belirlenir.
 
 ## ÜÇÜNCÜ BÖLÜM
 
 #### Son Hükümler Yürürlük
 
-**Madde 9 –** Bu Yönerge Bakan onayı ile yürürlüğe girer. Yürütme
+**MADDE 9 –** Bu Yönerge Bakan onayı ile yürürlüğe girer. Yürütme
 
-**Madde 10 –** Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
+**MADDE 10 –** Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
 EK-1 Sağlık Bilgi Sistemleri Genel Müdürlüğü Tarafından Yürütülecek Hizmetler ve Daire Başkanlıklarının Görev ve Sorumlulukları
 

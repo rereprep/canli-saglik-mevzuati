@@ -7,9 +7,10 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103789/saglik-raporlari-usul-ve-esaslari-hakkinda-yonerge.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
 ---
 
-2.2.6.Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılt Makam Olur'u ile aynı tarihte yürürlüğe konulan;
+2.2.6.Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
 
 ### SAĞLIK RAPORLARI USUL VE ESASLARI HAKKINDA YÖNERGE
 
@@ -25,7 +26,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 **MADDE 2 –** (1) Bu Yönerge; resmi ve özel tüm sağlık hizmet sunucularını, özel hukuk tüzel kişileri ve gerçek kişileri kapsamaktadır.
 
-**MADDE 3 –** (1) Bu Yönerge; 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanunu, 10/7/2018 tarihli ve 30474 sayılı Resmi Gazete' de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddeleri, 24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Kanunu S'inci maddesi ile 10.9.1982 tarihli ve 8/5319 nolu Bakanlar Kurulu Kararı ile yürürlüğe giren Yataklı Tedavi Kurumları Işletme Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönerge; 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanunu, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddeleri, 24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Kanunu 8 inci maddesi ile 10.9.1982 tarihli ve 8/5319 nolu Bakanlar Kurulu Kararı ile yürürlüğe giren Yataklı Tedavi Kurumları İşletme Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
@@ -39,7 +40,7 @@ c) ÇKYS: Çekirdek Kaynak Yönetim sistemini,
 
 d) e-Rapor: Sağlık raporlarının elektronik olarak düzenlenebildiği, c-imza ile onaylanabildiği Bakanlık tarafından kurulan elektronik sistemi,
 
-e) ETSŞY: 3/1/2018 tarih ve 30290 sayılı Resmi Gazete' de yayımlanan Emniyet Teşkilatı Sağlık Şartları Yönetmeliğini,
+e) ETSŞY: 3/1/2018 tarih ve 30290 sayılı Resmî Gazete’de yayımlanan Emniyet Teşkilatı Sağlık Şartları Yönetmeliğini,
 
 f) Evlilik Öncesi Sağlık Raporu: Kişilerin evlenmeye engel hastalığının bulunmadığını gösteren sağlık raporudur.
 
@@ -53,7 +54,7 @@ h) HBYS: Hastane Bilgi Yönetim Sistemini,
 
 i) Kurul raporları: (20/10/2020/4959 Yürürlük: 20/10/2020) Tek tabibin yetkisi dışında kalan hususlarda kişilerin sağlık durumları hakkında karar verilen en az Iç Hastalıkları, Kulak Burun Boğaz, Genel Cerrahi, Göz Hastalıkları, Nöroloji veya Ruh Sağlığı ve Hastalıkları uzman hekimlerinin yer aldığı sağlık kurullarınca düzenlenen raporları,
 
-j) Kurum tabipliği: 6/1/2005 tarihli ve 5283 sayıhı Bazı Kamu Kurum ve Kuruluşlarına Ait Sağlık Birimlerinin, Sağlık Bakanlığına Devredilmesine Dair Kanunun 'üncü maddesinin birinci fikrasının (c) bendinde tanımlanan birimleri,
+j) Kurum tabipliği: 6/1/2005 tarihli ve 5283 sayılı Bazı Kamu Kurum ve Kuruluşlarına Ait Sağlık Birimlerinin, Sağlık Bakanlığına Devredilmesine Dair Kanunun 'üncü maddesinin birinci fikrasının (c) bendinde tanımlanan birimleri,
 
 k) ÖTV: Özel Tüketim Vergisini,
 
@@ -71,7 +72,7 @@ p) SYY: 31/10/2016 tarihli ve 2016/9431 nolu Bakanlar Kurulu Kararı ile yürür
 
 r) Tedavi, hastalık bildirir, istirahat, ortez - protez için gerekli sağlık kurulu raporları: Sağlık tesisinde var ise ilgili daldan üç uzmanın katılımı ile, aynı dalda üç uzman bulunmaması halinde ise ilgili dal uzmanı ile birlikte öncelikle bu uzmanlık dalına en yakın uzmanlık dalından olmak üzere, baştabibin seçeceği diğer dallardan uzmanların katılımı ile üç uzman tabipten oluşturulacak sağlık kurulunca verilen raporu,
 
-s) Tek hekim raporları: Kişilerin sağlık durumları hakkında karanın tek hekim tarafindan verildiği raporları,
+s) Tek hekim raporları: Kişilerin sağlık durumları hakkında kararın tek hekim tarafından verildiği raporları,
 
 $) TSK: Türk Silahlı Kuvvetleri,
 
@@ -81,7 +82,7 @@ t) Yükümlü: Yoklama ve sevke tabi er ile yoklama ve sevke tabi yedek subay ad
 
 #### Kimlik tespiti
 
-**MADDE 5 –** (1) Kimlik tespitinin; başvuru, muayene, kan veya laboratuvar numunesi verilmesi, görüntüleme hizmetleri dâhil tüm süreçlerde hizmeti sunan personel tarafindan yapılması zorunludur.
+**MADDE 5 –** (1) Kimlik tespitinin; başvuru, muayene, kan veya laboratuvar numunesi verilmesi, görüntüleme hizmetleri dâhil tüm süreçlerde hizmeti sunan personel tarafından yapılması zorunludur.
 
 (2) Kimlik tespitinin doğru şekilde yapılabilmesi için sağlık hizmet sunumunda görevli tüm personel, sorumluluklarını yerine getirmekle yükümlüdür.
 
@@ -97,21 +98,21 @@ t) Yükümlü: Yoklama ve sevke tabi er ile yoklama ve sevke tabi yedek subay ad
 
 #### Raporların düzenlenmesi, tasdiki ve rapor formatına ilişkin açıklamalar
 
-**MADDE 6 –** (1) Memur ve diğer kamu görevlilerine istirahat raporu işlemlerinde; tüm sağlık hizmet sunucuları tarafindan, Sosyal Güvenlik Kurumu "Iş Göremezlik Uygulaması Sistemi" kullanılacaktır. Sistemden rapor provizyonu alınmasını takiben yapılan muayene ve tetkikler sonucunda, tıbben istirahati lüzumlu görülenlere, ilgili mevzuatla belirlenen usul ve esaslara uygun olarak, anılan sistem üzerinden istirahat raporu düzenlenecektir. Sistem üzerinden raporu tanzim eden hekim/hekimler tarafindan rapor onaylanacaktır. Sistemden rapor düzenlenebileceğine dair ön izin alınamaması durumunda, başvuran kişi bilgilendirilerek hastanelerde hastane başhekimliğine, birinci basamak sağlık kuruluşlarında ise en yakın veya ilgilinin seçeceği hastanenin başhekimliğine yönlendirilir. Kişinin muayenesi ve lüzumu halinde istirahat raporu düzenlenmesi işlemleri, başhekimin koordinasyonunda yapılır.
+**MADDE 6 –** (1) Memur ve diğer kamu görevlilerine istirahat raporu işlemlerinde; tüm sağlık hizmet sunucuları tarafından, Sosyal Güvenlik Kurumu "Iş Göremezlik Uygulaması Sistemi" kullanılacaktır. Sistemden rapor provizyonu alınmasını takiben yapılan muayene ve tetkikler sonucunda, tıbben istirahati lüzumlu görülenlere, ilgili mevzuatla belirlenen usul ve esaslara uygun olarak, anılan sistem üzerinden istirahat raporu düzenlenecektir. Sistem üzerinden raporu tanzim eden hekim/hekimler tarafından rapor onaylanacaktır. Sistemden rapor düzenlenebileceğine dair ön izin alınamaması durumunda, başvuran kişi bilgilendirilerek hastanelerde hastane başhekimliğine, birinci basamak sağlık kuruluşlarında ise en yakın veya ilgilinin seçeceği hastanenin başhekimliğine yönlendirilir. Kişinin muayenesi ve lüzumu halinde istirahat raporu düzenlenmesi işlemleri, başhekimin koordinasyonunda yapılır.
 
-(2) Sistem üzerinden düzenlenen istirahat raporları için çıktı alınmasına gerek yoktur. (20/10/2020/4959 Yürürlük: 20/10/2020) Düzenlenen istirahat raporları crapor.saglik.gov.tr internet adresi "Rapor Doğrulama" ve İş Göremezlik Sistemi rapor görüntüleme ekranlarından doğrulanabilecek, e-Devlet kapısı üzerinden görüntülenebilecektir.
+(2) Sistem üzerinden düzenlenen istirahat raporları için çıktı alınmasına gerek yoktur. (20/10/2020/4959 Yürürlük: 20/10/2020) Düzenlenen istirahat raporları erapor.saglik.gov.tr internet adresi "Rapor Doğrulama" ve İş Göremezlik Sistemi rapor görüntüleme ekranlarından doğrulanabilecek, e-Devlet kapısı üzerinden görüntülenebilecektir.
 
 (3) İş göremezlik sisteminde hata nedeniyle rapor düzenlenemediği durumlarda Ek-1 İstirahat Rapor Formatı' na uygun şekilde manuel rapor düzenlenebilir. Hastanelerde bu çıktıya hastanenin barkodu yapıştırılır. Başhekimlik mührü ve onayı aranmaz.
 
 (4) Kurum hekimleri ve sözleşmeli aile hekimleri hariç birinci basamak resmi sağlık hizmet sunucularında görevli hekimler Iş Göremezlik Uygulamasına dâhil olana kadar Ek-1 İstirahat Rapor Formatı' na uygun şekilde manuel rapor düzenleyebilir.
 
-(5) Memurların hastalık raporlarının, 5510 sayılı Kanun ve ilgili mevzuatında belirtilen usul ve esaslar çerçevesinde kendilerini tedavi eden kurum tabipliği, aile hekimliği veya SGK ile sözleşmeli sağlık hizmeti sunucuları tarafından düzenlenmesi esastır. SGK ile sözleşmesi bulunmayan sağlık hizmeti sunucuları tarafindan verilen ve istirahat süresi on günü geçmeyen raporlar, SGK ile sözleşmeli sağlık hizmeti sunucusu hekim tarafından, istirahat süresi on günü aşan raporlar ise SGK ile sözleşmeli sağlık hizmeti sunucusu sağlık kurulunca onandığı takdirde
+(5) Memurların hastalık raporlarının, 5510 sayılı Kanun ve ilgili mevzuatında belirtilen usul ve esaslar çerçevesinde kendilerini tedavi eden kurum tabipliği, aile hekimliği veya SGK ile sözleşmeli sağlık hizmeti sunucuları tarafından düzenlenmesi esastır. SGK ile sözleşmesi bulunmayan sağlık hizmeti sunucuları tarafından verilen ve istirahat süresi on günü geçmeyen raporlar, SGK ile sözleşmeli sağlık hizmeti sunucusu hekim tarafından, istirahat süresi on günü aşan raporlar ise SGK ile sözleşmeli sağlık hizmeti sunucusu sağlık kurulunca onandığı takdirde
 
 (6) İş Göremezlik Belgesi, Sosyal Güvenlik Kurumu Başkanlığınca belirtilen usul, esas ve formata göre düzenlenecektir.
 
 (7) Tek hekim raporu ile bir defada en çok on gün rapor verilebilir. Raporda kontrol muayenesi öngörülmüş ise kontrol muayenesi sonrasında tek hekim tarafından en çok on gün daha rapor verilebilir. Kontrol muayenesi sonrası hastalığın devam etmesi sebebiyle verilecek hastalık raporlarının on günü aşması durumunda bu raporun sağlık kurulunca verilmesi
 
-(8) Bir takvim yılı içinde tek hekim tarafindan aynı kişiye verilecek raporların toplamı kırk günü geçemez.
+(8) Bir takvim yılı içinde tek hekim tarafından aynı kişiye verilecek raporların toplamı kırk günü geçemez.
 
 (9) Istirahat raporlarının usule ve fenne uygun düzenlenmesi konusunda gerekli hassasiyet gösterilir
 
@@ -147,7 +148,7 @@ e) Terör, kaza, maluliyet raporları hariç olmak üzere 3 (üç) aydan kısa s
 
 (2) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personeli, öğrencileri ve bunların adayları ile askerlik yükümlülerinin görevlerine uyarlık bakımından sağlık yeteneklerini tespit etmek amacıyla yapılacak muayene ve düzenlenecek sağlık raporları Bakanlıkça yayımlanan Türk Silahlı Kuvvetleri Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi'nde yer alan sağlık hizmet sunucuları tarafından düzenlenir.
 
-(3) Uçucu sağlık raporları ile denizalticı ve dalgiç sağlik raporları sadece Uçucu, Denizaltıcı ve Dalgıç Sınıfi Raporları Vermeye Yetkili Hastaneler Listesi'nde yer alan hastaneler tarafindan düzenlenir.
+(3) Uçucu sağlık raporları ile denizalticı ve dalgiç sağlik raporları sadece Uçucu, Denizaltıcı ve Dalgıç Sınıfi Raporları Vermeye Yetkili Hastaneler Listesi'nde yer alan hastaneler tarafından düzenlenir.
 
 (4) Yükümlüler dâhil sağlık kurulu raporu için başvuracak tüm personel, ilgili makamlarca düzenlenen sevk kâğıdı ile hastaneye müracaat eder. Sevk kâğıdını düzenleyen makam tarafından personelin ne maksatla muayene edileceği sevk kâğıdında belirtilir. Yatarak tedavi gören personelden ayrıca sevk kåğıdı istenmez. Sevk kâğıdı örneği Ek-9'da yer
 
@@ -169,7 +170,7 @@ Emniyet Teşkilatına Ahnacak Öğrenciler ve Memurlar Hakkında Düzenlenecek
 
 (3) Bütün branşlar için ayrılmış olan muayene bölümleri eksiksiz doldurulur, laboratuvar yöntemi, görüntüleme yöntemi, fonksiyon tespit yöntemi ve uygun görülen diğer değerlendirme yöntemlerinin ve fizik muayenenin sonuçları doldurulduktan sonra, patolojik bir durum tespit edilmeyenler için "SAĞLAM" ifadesi yazılır, patolojik bir durum tespit edilenler için teşhisler ile birlikte ETSŞY hükümlerine göre belirlenen dilimler yazılır, kaşelenir ve imzalanır.
 
-(4) Raporun sonundaki teşhis hanesine, tespit edilen teşhisler ile birlikte hastalığınsakatlığın ağırlığına ve derecesine uygun olan ETSŞY hükümlerine göre belirlenen dilimler yazılır. Bir hastalık tespit edilmediyse "SAGLAM" ifadesi yazılır.
+(4) Raporun sonundaki teşhis hanesine, tespit edilen teşhisler ile birlikte hastalığınsakatlığın ağırlığına ve derecesine uygun olan ETSŞY hükümlerine göre belirlenen dilimler yazılır. Bir hastalık tespit edilmediyse "SAĞLAM" ifadesi yazılır.
 
 (5) Raporun karar hanesine, rapor talebine cevaben uygun görülen karar açıkça yazılır, raporun sağlık kurulu bölümü ilgili uzman doktorlarca kaşelenir ve imzalanır. Raporda; klinik durum, teşhis, dilim ve karar arasında çelişki olmaması gerekir.
 
@@ -203,7 +204,7 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflari.
 
 #### Raporların düzenlenmesine ve formatına ilişkin açıklamalar
 
-**MADDE 12 –** (1) Sağlık raporu şablonu Bakanlık ve Içişleri Bakanlığı tarafindan ortaklaşa olarak düzenlenerek yayımlanmıştır. Ek-7 Sağlık Rapor Formatı' na uygun olarak tanzim edilir.
+**MADDE 12 –** (1) Sağlık raporu şablonu Bakanlık ve Içişleri Bakanlığı tarafından ortaklaşa olarak düzenlenerek yayımlanmıştır. Ek-7 Sağlık Rapor Formatı' na uygun olarak tanzim edilir.
 
 (2) e-Rapor sisteminde düzenlenen raporlarda fotoğraf bulunma zorunluluğu aranmaz.
 
@@ -213,17 +214,17 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflari.
 
 #### Sürücü ve sürücü adayları sağlık raporları ikinci kısım
 
-**MADDE 14 –** (1) Sağlık tesisleri, aile sağlığı merkezleri veya özel sağlık kuruluşlarında görevli pratisyen/aile hekimi tarafindan doldurulacak kısımdır.
+**MADDE 14 –** (1) Sağlık tesisleri, aile sağlığı merkezleri veya özel sağlık kuruluşlarında görevli pratisyen/aile hekimi tarafından doldurulacak kısımdır.
 
-(2) Hekimler tarafindan raporda yer alan sürücü belgesi sınıf ve grupları kesinlikle
+(2) Hekimler tarafından raporda yer alan sürücü belgesi sınıf ve grupları kesinlikle
 
 (3) "Sürücü olabilir" kutucuğu işaretlenmiş ise karar kısmının doldurulması zorunlu
 
-(4) Pratisyen hekim/aile hekimi tarafindan kod tablosunda belirtilen kod numaralarından yalnızca gözlük (01.01), gözlük veya kontakt lensle (01.06) kod numaraları kullanılabilir.
+(4) Pratisyen hekim/aile hekimi tarafından kod tablosunda belirtilen kod numaralarından yalnızca gözlük (01.01), gözlük veya kontakt lensle (01.06) kod numaraları kullanılabilir.
 
 #### Sürücü ve sürücü adayları sağlık raporları üçüncü kısım
 
-**MADDE 15 –** (1) Sağlık tesisleri/özel sağlık kuruluşlarında görevli ilgili uzman hekim/uzman hekimler tarafindan doldurulacak kısımdır.
+**MADDE 15 –** (1) Sağlık tesisleri/özel sağlık kuruluşlarında görevli ilgili uzman hekim/uzman hekimler tarafından doldurulacak kısımdır.
 
 (2) Kutucuklardan sadece bir tanesi işaretlenebilir. Sürücü belgesi sınıfları kesinlikle
 
@@ -235,19 +236,19 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflari.
 
 (6) "Sürücü olamaz" kutucuğu işaretlenip sürücü olamaz kararı verilen raporlar, il/ilçe sağlık müdürlüğündeki komisyona sevk edilemez. Bu karara kişilerin itirazı halinde Yönerge' nin 38'inci maddesi Sürücü/Sürücü Adayı Raporlarına Itiraz başlığına göre işlem tesis edilir.
 
-(7) Üçüncü kısım birden fazla uzman hekim tarafindan doldurulacaksa ortak kullanılır. Birden fazla uzman hekim tarafindan rapor düzenlendiğinde her uzman hekim, kendi uzmanlık alanına göre sürücü/sürücü adayının sürücü belgesi alıp alamayacağını raporda belirtir.
+(7) Üçüncü kısım birden fazla uzman hekim tarafından doldurulacaksa ortak kullanılır. Birden fazla uzman hekim tarafından rapor düzenlendiğinde her uzman hekim, kendi uzmanlık alanına göre sürücü/sürücü adayının sürücü belgesi alıp alamayacağını raporda belirtir.
 
-(8) Uçüncü kısımda uzman hekimler, sadece kod tablosundaki "Tabipler tarafindan kullanılacak kodlar" başlığı altında yer alan kodları kullanabilir. Kod Tablosundaki Komisyon tarafindan kullanılabilecek kodları kullanamazlar. (Orneğin: 10.02. Otomatik Vites vb.) Ancak Göz Hastalıkları Uzman hekimleri monoküler bozukluğu bulunan kişiler için 42.01, 42.03, 42.05, 42.06 kodlarını kullanarak sürücü sağlık raporu düzenleyebilirler. Bu kişilerin komisyona sevki zorunlu değildir.
+(8) Uçüncü kısımda uzman hekimler, sadece kod tablosundaki "Tabipler tarafından kullanılacak kodlar" başlığı altında yer alan kodları kullanabilir. Kod Tablosundaki Komisyon tarafından kullanılabilecek kodları kullanamazlar. (Orneğin: 10.02. Otomatik Vites vb.) Ancak Göz Hastalıkları Uzman hekimleri monoküler bozukluğu bulunan kişiler için 42.01, 42.03, 42.05, 42.06 kodlarını kullanarak sürücü sağlık raporu düzenleyebilirler. Bu kişilerin komisyona sevki zorunlu değildir.
 
-(9) Kontrol süreleri kod tablosuna uygun olarak belirtilir. Belirli süreler için öngörülmüş olan kontrol muayeneleri ilgili uzman hekim/hekimler tarafindan yapılır ve karar raporun III. Kısmındaki sürücü kısıtları kısmına yazılır.
+(9) Kontrol süreleri kod tablosuna uygun olarak belirtilir. Belirli süreler için öngörülmüş olan kontrol muayeneleri ilgili uzman hekim/hekimler tarafından yapılır ve karar raporun III. Kısmındaki sürücü kısıtları kısmına yazılır.
 
 #### Sürücü ve sürücü adayları sağlık raporları dördüncü kısım
 
-**MADDE 16 –** (1) Ozel tertibatlı motorlu araç kullanılması gereken durumda il/ilçe sağlık müdürlüğü bünyesinde kurulan komisyon tarafindan doldurulacak kısımdır.
+**MADDE 16 –** (1) Ozel tertibatlı motorlu araç kullanılması gereken durumda il/ilçe sağlık müdürlüğü bünyesinde kurulan komisyon tarafından doldurulacak kısımdır.
 
-(2) Il sağlık müdürü veya görevlendireceği il sağlık müdürlüğü görevlisinin başkanlığında Ortopedi ve Travmatoloji, Fiziksel Tip ve Rehabilitasyon, Nöroloji uzmanları ve valilikçe kamu kurum/kuruluşlarından veya ilgili meslek odalarından görevlendirilecek bir makine mühendisinden oluşan komisyon tarafindan belirlenecek özel tertibat kod numarası ile hangi sınıf sürücü belgesi alabileceği aynı sağlık raporunun ilgili bölümüne yazılır. İhtiyaç duyulması halinde komisyona lç Hastalıkları, Ruh Sağlığı Hastalıkları, Kulak Burun Boğaz uzman hekimleri ve elektrik mühendisi dähil edilir. Komisyon sürücü/sürücü adayının özel tertibat olmaksızın araç kullanabileceğine veya sürücü olamayacağına karar verebilir. Komisyon aracın tadil edilmesini müteakip sürücünün aracı kullanıp kullanamadığını kontrol
+(2) Il sağlık müdürü veya görevlendireceği il sağlık müdürlüğü görevlisinin başkanlığında Ortopedi ve Travmatoloji, Fiziksel Tip ve Rehabilitasyon, Nöroloji uzmanları ve valilikçe kamu kurum/kuruluşlarından veya ilgili meslek odalarından görevlendirilecek bir makine mühendisinden oluşan komisyon tarafından belirlenecek özel tertibat kod numarası ile hangi sınıf sürücü belgesi alabileceği aynı sağlık raporunun ilgili bölümüne yazılır. İhtiyaç duyulması halinde komisyona lç Hastalıkları, Ruh Sağlığı Hastalıkları, Kulak Burun Boğaz uzman hekimleri ve elektrik mühendisi dähil edilir. Komisyon sürücü/sürücü adayının özel tertibat olmaksızın araç kullanabileceğine veya sürücü olamayacağına karar verebilir. Komisyon aracın tadil edilmesini müteakip sürücünün aracı kullanıp kullanamadığını kontrol
 
-(3) Komisyon tarafindan belirlenecek özel tertibat kodlarının, engellilik sağlık kurulu raporunda belirtilen engel durumu ile uyumlu olması gerekir.
+(3) Komisyon tarafından belirlenecek özel tertibat kodlarının, engellilik sağlık kurulu raporunda belirtilen engel durumu ile uyumlu olması gerekir.
 
 (4) Komisyon tarafından kişinin özel tertibat olmaksızın araç kullanabileceğine karar verilmesi halinde rapora "özel tertibat olmadan araç kullanabilir." ibaresi yazılır, hangi sınıf sürücü belgesi alabileceği belirtilerek rapor tanzim edilir.
 
@@ -257,15 +258,15 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflari.
 
 (7) Sürücü ve araçlara ilişkin kod tablosu İçişleri Bakanlığı, Sağlık Bakanlığı ve Bilim Sanayi ve Teknoloji Bakanlığınca belirlenmiş olup Ek-8' de yer almaktadır. 1'den 100'e kadar olan kod numaraları Avrupa Birliği Mevzuatındaki şekliyle, 100 ve üzerindeki kod numaraları ise sadece ülkemizde kullanılacak yerel kod numaralarıdır.
 
-(8) Rapor talep eden kişiler, Kişiye Ait Bilgi Formunu e-Devlet üzerinden dolduracaktır. 18 yaşından küçükler için beyan formunun doldurulması zorunlu değildir. Pratisyen hekimin/aile hekiminin gerekli görmesi halinde 18 yaşından küçükler için veli ya da vasisi tarafindan beyan formu manuel yazılı olarak doldurulur. Pratisyen hekim/aile hekimi tarafindan beyan formu incelenerek sürücü/sürücü adayının muayenesini yapar, muayene bulgusuna göre sağlık raporunun II. Kısmını doldurup sağlık raporunu tanzim ederek kişiye teslim eder. Başvurun kişiler muayene edildikten sonra kişilerin beyan ettiği ya da fızik muayene ile saptanan hastalık veya rahatsızlıkların ileri tetkik ve tedavi gerektirmesi durumunda kişiler ilgili uzman hekime/hekimlere sevk edilir.
+(8) Rapor talep eden kişiler, Kişiye Ait Bilgi Formunu e-Devlet üzerinden dolduracaktır. 18 yaşından küçükler için beyan formunun doldurulması zorunlu değildir. Pratisyen hekimin/aile hekiminin gerekli görmesi halinde 18 yaşından küçükler için veli ya da vasisi tarafından beyan formu manuel yazılı olarak doldurulur. Pratisyen hekim/aile hekimi tarafından beyan formu incelenerek sürücü/sürücü adayının muayenesini yapar, muayene bulgusuna göre sağlık raporunun II. Kısmını doldurup sağlık raporunu tanzim ederek kişiye teslim eder. Başvurun kişiler muayene edildikten sonra kişilerin beyan ettiği ya da fızik muayene ile saptanan hastalık veya rahatsızlıkların ileri tetkik ve tedavi gerektirmesi durumunda kişiler ilgili uzman hekime/hekimlere sevk edilir.
 
 #### Diğer hususlar
 
-**MADDE 17 –** (1) Sürücünün /sürücü adayının ilk muayenesi genel muayene yapmaya yönelik tıbbi donanım ve araç-gereçleri bulunduran uzman hekimler tarafindan da yapılabilir. Bu durumda raporların ikinci kısmı veya sadece üçüncü kısmı doldurularak düzenlenen raporlarda pratisyen hekim/aile hekimi (aile hekimliği uzmanı dâhil) imzasının bulunması şartı
+**MADDE 17 –** (1) Sürücünün /sürücü adayının ilk muayenesi genel muayene yapmaya yönelik tıbbi donanım ve araç-gereçleri bulunduran uzman hekimler tarafından da yapılabilir. Bu durumda raporların ikinci kısmı veya sadece üçüncü kısmı doldurularak düzenlenen raporlarda pratisyen hekim/aile hekimi (aile hekimliği uzmanı dâhil) imzasının bulunması şartı
 
-(2) Sürücü belgesine sahip herhangi bir kişinin sağlık muayeneleri esnasında sürücü belgesinin geçici süreyle geri alınmasını gerektiren ve bildirim yükümlüğü olan durumlarda kişiye ait kimlik bilgileri ve hastalığın tanısı hekimin görevli olduğu kurum/özel sağlık kuruluşu tarafindan Emniyet Genel Müdürlüğüne/Il Emniyet Müdürlüğüne bildirilir.
+(2) Sürücü belgesine sahip herhangi bir kişinin sağlık muayeneleri esnasında sürücü belgesinin geçici süreyle geri alınmasını gerektiren ve bildirim yükümlüğü olan durumlarda kişiye ait kimlik bilgileri ve hastalığın tanısı hekimin görevli olduğu kurum/özel sağlık kuruluşu tarafından Emniyet Genel Müdürlüğüne/Il Emniyet Müdürlüğüne bildirilir.
 
-(3) Sürücü/sürücü adayının motorlu bir aracı kullanmak için gerekli olan yeterli görme keskinliğine sahip olduğundan emin olunması için uygun değerlendirme yapılır. Kişilerin görme keskinliğinin yetersiz olduğuna ve/veya göze ait hastalığa dair şüphe söz konusu olduğunda, uzman hekim tarafindan muayene edilir. Sürücü/sürücü adaylarından iki gözü de gören ve beyan formunda belirtilen renk körlüğü, gece körlüğü (tavukkarası), göz kapağında düşme, çift görme veya şaşılık, blefarospazm, katarakt, afaki veya progresif göz hastalığı bulunmayan kişilerin pratisyen hekim/aile hekimi tarafından görme keskinliği yönünden mezkůr hüküm kapsamında muayenesi yapılır. Göz muayenesinde gözlükle görme keskinliğinin sağlanması halinde "gözlük kullanmak kaydıyla" sürücü belgesi alabileceğine dair sağlık raporu düzenlenir. Pratisyen hekim/aile hekimi tarafindan kod tablosunda belirtilen kod numaralarından yalnızca gözlük (01.01), gözlük veya kontakt lensle (01.06) kod numaraları kullanılabilir. Mezkür hüküm kapsamında görme keskinliğine karar verilememesi veya yukarıda belirtilen durum/durumların olması halinde sürücü/sürücü adayı, göz muayenesi yönünden değerlendirilmek üzere göz hastalıkları uzmanına sevk edilir.
+(3) Sürücü/sürücü adayının motorlu bir aracı kullanmak için gerekli olan yeterli görme keskinliğine sahip olduğundan emin olunması için uygun değerlendirme yapılır. Kişilerin görme keskinliğinin yetersiz olduğuna ve/veya göze ait hastalığa dair şüphe söz konusu olduğunda, uzman hekim tarafından muayene edilir. Sürücü/sürücü adaylarından iki gözü de gören ve beyan formunda belirtilen renk körlüğü, gece körlüğü (tavukkarası), göz kapağında düşme, çift görme veya şaşılık, blefarospazm, katarakt, afaki veya progresif göz hastalığı bulunmayan kişilerin pratisyen hekim/aile hekimi tarafından görme keskinliği yönünden mezkůr hüküm kapsamında muayenesi yapılır. Göz muayenesinde gözlükle görme keskinliğinin sağlanması halinde "gözlük kullanmak kaydıyla" sürücü belgesi alabileceğine dair sağlık raporu düzenlenir. Pratisyen hekim/aile hekimi tarafından kod tablosunda belirtilen kod numaralarından yalnızca gözlük (01.01), gözlük veya kontakt lensle (01.06) kod numaraları kullanılabilir. Mezkür hüküm kapsamında görme keskinliğine karar verilememesi veya yukarıda belirtilen durum/durumların olması halinde sürücü/sürücü adayı, göz muayenesi yönünden değerlendirilmek üzere göz hastalıkları uzmanına sevk edilir.
 
 (4) Sürücü Adayı ve Sürücü Sağlık Raporları sadece sürücü belgesi alınabilmesi amacıyla kullanılır.
 
@@ -277,7 +278,7 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflari.
 
 (2) Psikiyatri, Nöroloji, Göz ve Kulak Burun Boğaz muayeneleri bulunmak şartı ile ilgili sağlık kurulunca uygun görülecek diğer branş muayenelerini içerir.
 
-(3) Karar olarak "Ozel Güvenlik Görevlisi OLUR-OLAMAZ" ifadesi yazılır ve muayenesi bulunan her branş tarafindan kaşelenerek imzalanır.
+(3) Karar olarak "Ozel Güvenlik Görevlisi OLUR-OLAMAZ" ifadesi yazılır ve muayenesi bulunan her branş tarafından kaşelenerek imzalanır.
 
 (4) Bu raporlar Ek-4'te yer alan Durum Bildirir Sağlık Kurulu Rapor formatına uygun şekilde düzenlenir.
 
@@ -325,9 +326,9 @@ Silah Bulundurma veya Taşıma Ruhsatı Alacak Kişilere Verilecek Sağlık Kuru
 
 #### Yivli silah ruhsatı almak isteyenlerin muayenelerine ilişkin genel esaslar
 
-**MADDE 21 –** (1) Silah ruhsatı almak isteyenlerin muayeneleri; Sağlık Bakanlığına ve Üniversitelere bağlı sağlık hizmet sunucuları tarafindan bu Yönerge hükümlerine göre yapılır. Kişi hakkında "durum bildirir sağlık kurulu raporu" düzenlenir.
+**MADDE 21 –** (1) Silah ruhsatı almak isteyenlerin muayeneleri; Sağlık Bakanlığına ve Üniversitelere bağlı sağlık hizmet sunucuları tarafından bu Yönerge hükümlerine göre yapılır. Kişi hakkında "durum bildirir sağlık kurulu raporu" düzenlenir.
 
-(2) Silahın kullanılabilmesi ile ilgili fiziksel ve ruhsal yeterlilik düzeyleri Psikiyatri, Nöroloji, Ortopedi, Göz, Kulak Burun Boğaz hekimlerince değerlendirilir. Diğer bölüm muayenelerine ihtiyaç duyulan durumlarda, ilgili sağlık kurulu tarafindan kişinin muayenesi ilgili bölüme yaptırılabilir. Rapor sonucuna sağlık kurulunca karar verilir.
+(2) Silahın kullanılabilmesi ile ilgili fiziksel ve ruhsal yeterlilik düzeyleri Psikiyatri, Nöroloji, Ortopedi, Göz, Kulak Burun Boğaz hekimlerince değerlendirilir. Diğer bölüm muayenelerine ihtiyaç duyulan durumlarda, ilgili sağlık kurulu tarafından kişinin muayenesi ilgili bölüme yaptırılabilir. Rapor sonucuna sağlık kurulunca karar verilir.
 
 #### Ortopedi ve nöroloji muayenesine ilişkin esaslar
 
@@ -387,7 +388,7 @@ d) İntihar girişimi, geçmiş self mutilasyon davranışlarına ait skarlar,
 
 #### Kontrol muayenesi
 
-**MADDE 29 –** (1) Silah almak isteyen kişinin muayenesi mevcut durumuna göre yapılır. Hastalıkları bulunan fakat silah ruhsatı verilmesine esas teşkil edecek sağlık kurulu raporu alabilecek düzeyde yeterli görülenlerden, zamanla hastalığının kötüleşebilme ihtimali bulunanlara, ilgili uzman doktor veya sağlık kurulu tarafindan kontrol muayenesi zorunluluğu getirilebilir. Belirli zaman sonra kontrol şartı ile verilen sağlık kurulu raporlarının takibi, kişiye silah ruhsatı veren birim tarafından yapılır. Öngörülen kontrol muayenesinin sonunda, ilgili branşın uzman doktorunun görüşlerini içeren sağlık raporu düzenlenir. Bu raporda, kontrol muayenesini yapan branş veya branşlar dışında, silah ruhsatı alınabilmesine dair raporda bulunması gereken diğer branş veya branşların muayene ve onaylarının bulunması zorunlu değildir. Ancak branş hekimi uygun görmesi halinde hastayı kurul raporu alınması için kurula sevk edebilir.
+**MADDE 29 –** (1) Silah almak isteyen kişinin muayenesi mevcut durumuna göre yapılır. Hastalıkları bulunan fakat silah ruhsatı verilmesine esas teşkil edecek sağlık kurulu raporu alabilecek düzeyde yeterli görülenlerden, zamanla hastalığının kötüleşebilme ihtimali bulunanlara, ilgili uzman doktor veya sağlık kurulu tarafından kontrol muayenesi zorunluluğu getirilebilir. Belirli zaman sonra kontrol şartı ile verilen sağlık kurulu raporlarının takibi, kişiye silah ruhsatı veren birim tarafından yapılır. Öngörülen kontrol muayenesinin sonunda, ilgili branşın uzman doktorunun görüşlerini içeren sağlık raporu düzenlenir. Bu raporda, kontrol muayenesini yapan branş veya branşlar dışında, silah ruhsatı alınabilmesine dair raporda bulunması gereken diğer branş veya branşların muayene ve onaylarının bulunması zorunlu değildir. Ancak branş hekimi uygun görmesi halinde hastayı kurul raporu alınması için kurula sevk edebilir.
 
 #### Sonradan anlaşılan durumlar
 
@@ -395,7 +396,7 @@ d) İntihar girişimi, geçmiş self mutilasyon davranışlarına ait skarlar,
 
 #### Yivsiz av tüfeği ruhsatı almak isteyenlerin muayenelerine ilişkin genel esaslar
 
-**MADDE 31 –** (1) Yivsiz av tüfeği ruhsatı almak isteyenlerin muayeneleri; Sağlık Bakanlığına ve Üniversitelere bağlı sağlık hizmet sunucuları tarafindan bu Yönerge hükümlerine göre yapılır. Kişi hakkında "durum bildirir tek hekim raporu" düzenlenir.
+**MADDE 31 –** (1) Yivsiz av tüfeği ruhsatı almak isteyenlerin muayeneleri; Sağlık Bakanlığına ve Üniversitelere bağlı sağlık hizmet sunucuları tarafından bu Yönerge hükümlerine göre yapılır. Kişi hakkında "durum bildirir tek hekim raporu" düzenlenir.
 
 (2) Silahın güvenli bir şekilde kullanıma hazır hale getirilmesi, güvenli olarak kullanılması, silahın tam olarak kavranabilmesi için baskın kullanılan ekstremite ayrımı olmaksızın her iki üst ekstremite de kavrama yapabilme ve güç kullanabilme hareket kabiliyeti olması gerekir.
 
@@ -439,13 +440,13 @@ e) (20/10/2020/4959 Yürürlük: 20/10/2020) Belirlenen rapor formatları dış�
 
 (2) Yönerge eki Ek-S' de yer alan "Durum Bildirir Tek Hekim Sağhk Raporu'nun" birinci basamak sağlık hizmet sunucularında düzenlenmesinde aşağıdaki hükümler geçerlidir.
 
-a) Durum Bildirir Tek Hekim Sağlık Raporu almak için birinci basamak sağlık hizmet sunucularına müracaat edecek kişiler, Kişiye Ait Bilgi Formunu e-Devlet üzerinden doldurur. 18 yaşından küçükler için beyan formunun doldurulması zorunlu değildir. Pratisyen hekimin/aile hekiminin gerekli görmesi halinde 18 yaşından küçükler için veli ya da vasisi tarafindan beyan formu manuel yazılı olarak doldurulur.
+a) Durum Bildirir Tek Hekim Sağlık Raporu almak için birinci basamak sağlık hizmet sunucularına müracaat edecek kişiler, Kişiye Ait Bilgi Formunu e-Devlet üzerinden doldurur. 18 yaşından küçükler için beyan formunun doldurulması zorunlu değildir. Pratisyen hekimin/aile hekiminin gerekli görmesi halinde 18 yaşından küçükler için veli ya da vasisi tarafından beyan formu manuel yazılı olarak doldurulur.
 
-b) e-Devlet üzerinden düzenlenenler hariç "Kişisel Sağlık Bilgi Formu" aile hekimleri tarafindan aile hekimliği biriminde muhafaza edilir.
+b) e-Devlet üzerinden düzenlenenler hariç "Kişisel Sağlık Bilgi Formu" aile hekimleri tarafından aile hekimliği biriminde muhafaza edilir.
 
 e) Sağlık Bakanlığına bağlı birinci basamak sağlık hizmet sunucularında düzenlenen raporlar için kişilerden ücret talep edilmez.
 
-ę) Birinci basamak sağlık hizmet sunucuları tarafindan düzenlenen tek hekim raporları, Aile Hekimliği Bilgi Sistemi üzerinden elektronik olarak düzenlenir.
+ę) Birinci basamak sağlık hizmet sunucuları tarafından düzenlenen tek hekim raporları, Aile Hekimliği Bilgi Sistemi üzerinden elektronik olarak düzenlenir.
 
 d) Aile hekimliği sözleşmesi imzalayan aile hekimliği uzmanı ve diğer uzman hekimler aldıkları eğitim dâhilinde ilaç ve tıbbi malzeme kullanım raporları düzenleyebilir.
 
@@ -465,19 +466,19 @@ d) Aile hekimliği sözleşmesi imzalayan aile hekimliği uzmanı ve diğer uzma
 
 (6) Sağlık kurulu muayeneleri, ilgili uzmanlık dallarına ait polikliniklerde yapılır. Laboratuvar tetkik sonuçları ve filmleri forma eklenir. Sağlık kurulu raporları 2 (iki) nüsha olarak düzenlenir ve bir nüshası raporu veren kurumda muhafaza edilir.
 
-(7) Özel sağlık hizmet sunucuları tarafindan verilecek sağlık raporları Bu Yönerge eklerinde yer alan rapor formatlarına uygun olarak düzenlenir.
+(7) Özel sağlık hizmet sunucuları tarafından verilecek sağlık raporları Bu Yönerge eklerinde yer alan rapor formatlarına uygun olarak düzenlenir.
 
 ## ONİKİNCİ BÖLÜM Raporlara itiraz
 
 #### Sağlık kurulu raporlarına itiraz işlemleri
 
-**MADDE 36 –** (1) Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi, raporu isteyen kurum tarafindan itiraz edilebilir. Ilgililer itiraz dilekçesi ve sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ya da adına rapor düzenlenecek kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğüne başvurur. Il sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirmesi yapabilir. Bu durumda görevlendirme yapılan hakem hastanenin bağlı bulunduğu il sağlık müdürlüğüne bilgi verilir.
+**MADDE 36 –** (1) Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi, raporu isteyen kurum tarafından itiraz edilebilir. Ilgililer itiraz dilekçesi ve sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ya da adına rapor düzenlenecek kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğüne başvurur. Il sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirmesi yapabilir. Bu durumda görevlendirme yapılan hakem hastanenin bağlı bulunduğu il sağlık müdürlüğüne bilgi verilir.
 
 (2) Il sağlık müdürlüğünce, sağlık raporu alacak kişi Yönerge eki Ek- 12 Hakem Hastane Listesinde yer alan aynı veya üst roldeki en yakın sağlık hizmet sunucusuna gönderilir Itiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir.
 
-(3) Ilk sağlık kurulu raporu ile itiraz sonrasında tayin edilen hakem hastanece düzenlenen ikinci sağlık raporu arasında çelişki olması halinde, kişi ilk rapor için itirazda bulunulan ilin il sağlık müdürlüğü tarafindan Ek-13 Bölge Hakem Hastaneler Listesi'nde yer alan ilgili branş/branşların bulunduğu en yakın hastanelerden birine sevk edilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir. İl sağlık müdürlüğü tarafindan Bölge Hakem Hastaneler Listesi'nden hakem hastane belirlenirken ikinci raporu düzenleyen hastaneye göre itiraza konu kararın verildiği branş/branşların var ise eğitim kliniği düzeyinde olması tercih sebebidir.
+(3) Ilk sağlık kurulu raporu ile itiraz sonrasında tayin edilen hakem hastanece düzenlenen ikinci sağlık raporu arasında çelişki olması halinde, kişi ilk rapor için itirazda bulunulan ilin il sağlık müdürlüğü tarafından Ek-13 Bölge Hakem Hastaneler Listesi'nde yer alan ilgili branş/branşların bulunduğu en yakın hastanelerden birine sevk edilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir. İl sağlık müdürlüğü tarafından Bölge Hakem Hastaneler Listesi'nden hakem hastane belirlenirken ikinci raporu düzenleyen hastaneye göre itiraza konu kararın verildiği branş/branşların var ise eğitim kliniği düzeyinde olması tercih sebebidir.
 
-(4) Itiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Yönerge cki Ek-12 Hakem Hastane Listesinde yer alıyor ise kişi listede yer alan aynı veya üst roldeki dığer en yakın hastaneye sevk edilir. Rapor Bölge hakem Hastanelerinden biri tarafindan düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir. Sağlık raporları arasında çelişki olması halinde, en yakın farklı bir bölge hakem hastaneye, sağlık kurulu raporu tanzim edilmesi amacıyla yine il sağlık müdürlüğü kanalıyla kişi gönderilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir.
+(4) Itiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Yönerge cki Ek-12 Hakem Hastane Listesinde yer alıyor ise kişi listede yer alan aynı veya üst roldeki dığer en yakın hastaneye sevk edilir. Rapor Bölge hakem Hastanelerinden biri tarafından düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir. Sağlık raporları arasında çelişki olması halinde, en yakın farklı bir bölge hakem hastaneye, sağlık kurulu raporu tanzim edilmesi amacıyla yine il sağlık müdürlüğü kanalıyla kişi gönderilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir.
 
 #### Istirahat raporlarına itiraz işlemleri
 
@@ -495,7 +496,7 @@ d) Aile hekimliği sözleşmesi imzalayan aile hekimliği uzmanı ve diğer uzma
 
 #### Sürücü raporlarına itiraz
 
-**MADDE 38 –** (1) Raporlara; adına rapor düzenlenen kişi, velisi, vasisi veya raporu isteyen kurum tarafindan itiraz edilebilir. Rapora itiraz, raporun verildiği sağlık hizmet sunucusunun bulunduğu ya da adına rapor düzenlenen kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğüne yapılır.
+**MADDE 38 –** (1) Raporlara; adına rapor düzenlenen kişi, velisi, vasisi veya raporu isteyen kurum tarafından itiraz edilebilir. Rapora itiraz, raporun verildiği sağlık hizmet sunucusunun bulunduğu ya da adına rapor düzenlenen kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğüne yapılır.
 
 (2) Aile hekimleri muayene neticesinde sürücülüğe engel hali tespit edilen veya hakkında karar verilemeyen sürücü/sürücü adayını ilgili uzman tabip/tabiplere gönderebilir. Aile hekimlerinin bu kararına itiraz edilemez.
 
@@ -513,19 +514,19 @@ d) Aile hekimliği sözleşmesi imzalayan aile hekimliği uzmanı ve diğer uzma
 
 (9) (20/10/2020/4959 Yürürlük: 20/10/2020) Hakem tayin edilen il sağlık müdürlükleri bünyesinde oluşturulan komisyonun ilk başvuru yapılan komisyon olması ve bu komisyon kararına itiraz edilmesi halinde, kişi öncelikle en yakın il sağlık müdürlüğüne sevk edilir. Sevk edilen il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararı ile ilk komisyon kararı aynı yönde ise karar kesinleşir. Kararlar arası çelişki olması halinde kişi diğer bölgedeki hakem olarak belirlenmiş il sağlık müdürlüğüne gönderilir. Hakem tayin edilmiş il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararları kesindir, itiraz edilemez.
 
-(10) Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafindan raporu tanzim eden sağlık hizmet sunucusuna, rapor iade edilir. Ilgili sağlık hizmet sunucusu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez.
+(10) Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafından raporu tanzim eden sağlık hizmet sunucusuna, rapor iade edilir. Ilgili sağlık hizmet sunucusu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez.
 
 Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı personelinin sağlik raporlarına itiraz
 
-**MADDE 39 –** (1) Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi, raporu isteyen kurum tarafindan itiraz edilebilir. Ilgililer itiraz dilekçesi ve sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ya da adına rapor düzenlenen kişinin ikametgåhının bulunduğu ilin il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirilmesini doğrudan yapabilir. Bu durumda görevlendirme yapılan hakem hastanenin bağlı bulunduğu il sağlık müdürlüğüne bilgi verilir. SMY' nin 'üncü bölümünde belirtilen onay/inceleme makamlarınca işlem yapılmadan itiraz
+**MADDE 39 –** (1) Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi, raporu isteyen kurum tarafından itiraz edilebilir. Ilgililer itiraz dilekçesi ve sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ya da adına rapor düzenlenen kişinin ikametgåhının bulunduğu ilin il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirilmesini doğrudan yapabilir. Bu durumda görevlendirme yapılan hakem hastanenin bağlı bulunduğu il sağlık müdürlüğüne bilgi verilir. SMY' nin 'üncü bölümünde belirtilen onay/inceleme makamlarınca işlem yapılmadan itiraz
 
 (3) Askerlik yükümlülüğüne tabi olanlar hakkında verilen "Askerliğe Elverişlidir", 'Ertesi Yıla Bırakma", "Sevk Tehiri" ve "Askerliğe Elverişli Değildir" kararlı raporlara yapılacak itirazlar askerlik şubelerine, "Istirahat" veya "Hava Değişimi" kararlı raporlara yapılacak itirazlar ise ilgili sağlık kuruluşuna sevki yapan askerlik şubesi ise askerlik şubesine, birlik komutanlığı/kurum amirliği ise birlik komutanlığı/kurum amirliğine yapılır. Doğrudan il sağlık müdürlüklerine yapılan itirazlara herhangi bir işlem yapılmaz.
 
 (4) İl sağlık müdürlüğünce, sağlık raporu alacak kişi Yönerge eki Ek-12 Hakem Hastane Listesinde yer alan askeri sağlık raporu vermeye yetkili aynı veya üst roldeki en yakın sağlık hizmet sunucusuna gönderilir. Ancak güvenlik nedeniyle kurumların talepleri dikkate alınır. Bu durumda sağlık raporu alacak kişi aynı veyą üst rolde olmak koşulu ile en yakın hastane dışında herhangi bir hakem hastaneye gönderilir. Itiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir
 
-(5) Ilk sağlık kurulu raporu ile itiraz sonrasında tayin edilen hakem hastanece düzenlenen ikinci sağlık raporu arasında çelişki olması halinde, kişi ilk rapor için itirazda bulunulan ilin il sağlık müdürlüğü tarafindan Bölge Hakem Hastaneler Listesi'nde (Ek- 13) yer alan ilgili branş/branşların bulunduğu askeri sağlık raporu vermeye yetkili en yakın hastanelerden birine sevk edilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir. İl sağlık müdürlüğü tarafından Bölge Hakem Hastaneler Listesi'nden hakem hastane belirlenirken ikinci raporu düzenleyen hastaneye göre itiraza konu kararın verildiği branş/branşların var ise eğitim kliniği düzeyinde olması tercih sebebidir.
+(5) Ilk sağlık kurulu raporu ile itiraz sonrasında tayin edilen hakem hastanece düzenlenen ikinci sağlık raporu arasında çelişki olması halinde, kişi ilk rapor için itirazda bulunulan ilin il sağlık müdürlüğü tarafından Bölge Hakem Hastaneler Listesi'nde (Ek- 13) yer alan ilgili branş/branşların bulunduğu askeri sağlık raporu vermeye yetkili en yakın hastanelerden birine sevk edilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir. İl sağlık müdürlüğü tarafından Bölge Hakem Hastaneler Listesi'nden hakem hastane belirlenirken ikinci raporu düzenleyen hastaneye göre itiraza konu kararın verildiği branş/branşların var ise eğitim kliniği düzeyinde olması tercih sebebidir.
 
-(6) İtiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Yönerge eki Ek- 12 Hakem Hastane Listesinde yer alıyor ise kişi listede yer alan aynı veya üst roldeki diğer en yakın hastaneye sevk edilir. Rapor bölge hakem Hastanelerinden biri tarafindan düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir. Sağlık raporları arasında çelişki olması halinde, en yakın farklı bir bölge hakem hastaneye, sağlık kurulu raporu tanzim edilmesi amacıyla yine il sağlık müdürlüğü kanalıyla kişi gönderilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir.
+(6) İtiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Yönerge eki Ek- 12 Hakem Hastane Listesinde yer alıyor ise kişi listede yer alan aynı veya üst roldeki diğer en yakın hastaneye sevk edilir. Rapor bölge hakem Hastanelerinden biri tarafından düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir. Sağlık raporları arasında çelişki olması halinde, en yakın farklı bir bölge hakem hastaneye, sağlık kurulu raporu tanzim edilmesi amacıyla yine il sağlık müdürlüğü kanalıyla kişi gönderilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir.
 
 (7) Askerlik yükümlülüğüne tabi olanlar hakkında aile hekimleri veya tek tabipler tarafından verilen "Askerliğe Elverişlidir" veya "10 güne kadar (dâhil) "istirahat" kararlı raporlara itiraz halinde, sağlık kuruluşuna sevki yapan askerlik şubeleri veya birlik komutanlıkları/kurum amirliklerince, yükümlüler sağlık kurulu raporu aldırılmak üzere en yakın "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşlarına sevk edilir.
 
@@ -533,7 +534,7 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 #### Uçucu ve dalgıç/denizaltıcı sınıfı sağlık kurulu raporlarına itiraz
 
-**MADDE 40 –** (1) Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi veyahut raporu isteyen kurum tarafindan itiraz edilebilir. Ilgililer itiraz dilekçesi ve ilk sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ya da adına rapor düzenlenen kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirilmesini doğrudan yapabilir. Bu durumda görevlendirme yapılan hakem hastanenin bağlı bulunduğu il sağlık müdürlüğüne bilgi verilir.
+**MADDE 40 –** (1) Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi veyahut raporu isteyen kurum tarafından itiraz edilebilir. Ilgililer itiraz dilekçesi ve ilk sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ya da adına rapor düzenlenen kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirilmesini doğrudan yapabilir. Bu durumda görevlendirme yapılan hakem hastanenin bağlı bulunduğu il sağlık müdürlüğüne bilgi verilir.
 
 (2) Uçucu sağlık raporlanı ile dalgıç/denizaltıcı sağlık kurulu raporlarına yapılan itirazlarda, Gülhane Eğitim ve Araştırma Hastanesi ile Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesi hakem hastane olarak yetkilendirilmiştir.
 
@@ -541,7 +542,7 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 (4) Sağlık raporları arasında çelişki olması halinde ilk itirazda sevkin yapılmadığı Gülhane Eğitim ve Araștırma Hastanesi veya Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesinden birine kişi yeniden il sağlık müdürlüğü aracılığı ile sevk edilir. Bu hastanenin sağlık kurulunun verdiği karar kesindir ve bu karara itiraz edilemez.
 
-(5) Gülhane Eğitim ve Araştırma Hastanesi veya Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesinden biri tarafindan tanzim edilmiş raporlara itiraz halinde; öncelikle bu hastaneler dışında Uçucu, Denizaltıcı ve Dalgıç Sınıfi Raporları Vermeye Yetkili Hastaneler Listesi'nde yer alan en yakın sağlık hizmet sunucularından birine kişi sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu
+(5) Gülhane Eğitim ve Araştırma Hastanesi veya Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesinden biri tarafından tanzim edilmiş raporlara itiraz halinde; öncelikle bu hastaneler dışında Uçucu, Denizaltıcı ve Dalgıç Sınıfi Raporları Vermeye Yetkili Hastaneler Listesi'nde yer alan en yakın sağlık hizmet sunucularından birine kişi sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu
 
 (6) Sağlık raporları arasında çelişki olması halinde; ilk rapor Gülhane Eğitim ve Araştırma Hastanesinde düzenlenmiş ise Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesi, Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesinde düzenlenmiş ise Gülhane Eğitim ve Araştırma Hastanesi hakem hastane olarak belirlenir. Hakem hastane olarak belirlenen bu hastanelerin sağlık kurulunca verilen karar kesindir ve bu karara itiraz edilemez.
 
@@ -551,19 +552,19 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 (2) Il sağlık müdürlüğünce, sağlık raporu alacak kişi Yönerge eki Ek-12 Hakem Hastane Listesinde yer alan aynı veya üst roldeki en yakın sağlık hizmet sunucusuna gönderilir. Itiraz üzerinde alınan ikinci rapora itiraz süresi içinde itiraz olmaması halinde ikinci rapora göre işlem tesis edilir ve rapor kesinleşir. Ilk rapor ile hakem hastane raporu kararı farklı olsa dahi itiraz olmadan Bölge Hakem Hastanesine sevke gerek yoktur.
 
-(3) Sağlık raporları arasında çelişki olması ve itiraz edilmesi halinde, ilk rapor için itirazda bulunulan ilin il sağlık müdürlüğü tarafindan Ek-13 Bölge Hakem Hastaneler Listesi'nde yer alan ilgili branş/branşların bulunduğu en yakın hastanelerden birine sevk edilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir. İl sağlık müdürlüğü tarafından Bölge Hakem Hastaneler Listesi'nden hakem hastane belirlenirken ikinci raporu düzenleyen hastaneye göre itiraza konu kararın verildiği branş/branşların var ise eğitim kliniği düzeyinde
+(3) Sağlık raporları arasında çelişki olması ve itiraz edilmesi halinde, ilk rapor için itirazda bulunulan ilin il sağlık müdürlüğü tarafından Ek-13 Bölge Hakem Hastaneler Listesi'nde yer alan ilgili branş/branşların bulunduğu en yakın hastanelerden birine sevk edilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir. İl sağlık müdürlüğü tarafından Bölge Hakem Hastaneler Listesi'nden hakem hastane belirlenirken ikinci raporu düzenleyen hastaneye göre itiraza konu kararın verildiği branş/branşların var ise eğitim kliniği düzeyinde
 
 (4) Itiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Yönerge eki Ek-12 Hakem Hastane Listesinde yer alıyor ise kişi listede yer alan aynı veya üst roldeki diğer en yakın hastaneye sevk edilir. Rapor Bölge hakem Hastanelerinden biri tarafından düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir. Itiraz üzerinde alınan ikinci rapora itiraz süresi içinde itiraz olmaması halinde ikinci rapora göre işlem tesis edilir ve rapor kesinleşir. Ilk rapor ile hakem hastane raporu kararı farklı olsa dahi itiraz olmadan sevke gerek yoktur. Sağlık raporları arasında çelişki olması ve itiraz edilmesi halinde, en yakın farklı bir bölge hakem hastaneye, sağlık kurulu raporu tanzim edilmesi amacıyla yine il sağlık müdürlüğü kanalıyla kişi gönderilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir.
 
 (20/10/2020/4959 Yürürlük: 20/10/2020) Emniyet Teşkilatı Sağhk Şartları Yönetmeliği Kapsamında Düzenlenen Sağlık Raporlarına Itiraz
 
-**MADDE 42 –** (1) Raporlara itiraz; raporu alan kişi, raporu alan kişinin velisi veya vasisi, tarafindan Emniyet Genel Müdürlüğüne yapılır. Emniyet Genel Müdürlüğü ilk raporu düzenleyen sağlık hizmet sunucusunun bulunduğu veya kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğünden hakem hastane talebinde bulunur. Il sağlık müdürlükleri veya hastanelere Emniyet Genel Müdürlüğünün yazılı talebi olmadan doğrudan yapılan itirazlar kabul edilmez.
+**MADDE 42 –** (1) Raporlara itiraz; raporu alan kişi, raporu alan kişinin velisi veya vasisi, tarafından Emniyet Genel Müdürlüğüne yapılır. Emniyet Genel Müdürlüğü ilk raporu düzenleyen sağlık hizmet sunucusunun bulunduğu veya kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğünden hakem hastane talebinde bulunur. Il sağlık müdürlükleri veya hastanelere Emniyet Genel Müdürlüğünün yazılı talebi olmadan doğrudan yapılan itirazlar kabul edilmez.
 
 (2) İl sağlık müdürlüğü, Yönerge eki Ek-12 Hakem Hastane Listesinde yer alan emniyet personeli sağlık raporları konusunda yetkilendirilmiş aynı veya üst roldeki en yakın sağlık hizmet sunucusunu hakem hastane olarak belirler ve Emniyet Genel Müdürlüğüne bildirir. Ancak güvenlik nedeniyle kurumların talepleri dikkate alınır. Bu durumda sağlık raporu alacak kişi aynı veya üst rolde olmak koşulu ile en yakın hastane dışında herhangi bir hakem hastaneye gönderilir. Il Sağlık Müdürlüğü gerektiğinde il dışı hakem hastane görevlendirilmesini doğrudan yapabilir. Bu durumda görevlendirme yapılan hakem hastanenin bağlı bulunduğu il sağlık müdürlüğüne bilgi verilir.
 
 (3) Düzenlenen raporların teyidi amacı ile veya bu rapora yapılan itirazın değerlendirilmesi amacı ile alınan yeni raporun ETSŞY veya ilgili diğer mevzuat hükümlerine uygunluğu Emniyet Genel Müdürlüğü tarafından değerlendirilir. Alınan son sağlık kurulu raporunun yapılacak işlemler açısında yeterli olup olmadığına tekrar teyit gerektirip gerektirmeyeceğine, kişilerin itirazlarının kabul edilip edilemeyeceğine Emniyet Genel Müdürlüğü tarafından karar verilir.
 
-(4) Ilk sağlık kurulu raporu ile itiraz sonrasında tayin edilen hakem hastanece düzenlenen ikinci sağlık raporuna itiraz olması ve itirazın Emniyet Genel Müdürlüğü tarafından uygun görülerek il sağlık müdürlüğünden hakem hastane talebinde bulunulması durumunda, il sağlık müdürlüğü tarafindan Bölge Hakem Hastaneler Listesi'nde (Ek- 13) yer alan ilgili branş/branşların bulunduğu en yakın hastanelerden biri hakem hastane olarak belirlenir ve Emniyet Genel Müdürlüğüne bildirilir. Kişiye tebligat Emniyet Genel Müdürlüğünce yapılır.
+(4) Ilk sağlık kurulu raporu ile itiraz sonrasında tayin edilen hakem hastanece düzenlenen ikinci sağlık raporuna itiraz olması ve itirazın Emniyet Genel Müdürlüğü tarafından uygun görülerek il sağlık müdürlüğünden hakem hastane talebinde bulunulması durumunda, il sağlık müdürlüğü tarafından Bölge Hakem Hastaneler Listesi'nde (Ek- 13) yer alan ilgili branş/branşların bulunduğu en yakın hastanelerden biri hakem hastane olarak belirlenir ve Emniyet Genel Müdürlüğüne bildirilir. Kişiye tebligat Emniyet Genel Müdürlüğünce yapılır.
 
 (5) Itiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Yönerge eki Ek- 12 Hakem Hastane Listesinde yer alıyor ise kişi listede yer alan aynı veya üst roldeki diğer en yakın hastaneye sevk edilir. Rapor bölge hakem Hastanelerinden biri tarafından düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir.
 
@@ -579,9 +580,9 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 (5) Adli mercilerin talebi ile düzenlenen adli sağlık raporlarına adli mercilerin yazılı talebi olmadan doğrudan yapılan itirazlar kabul edilmez.
 
-(6) Sağlık raporları kişiye teslim edilirken mutlaka teslim belgesi düzenlenerek teslim eden ve alan kişi tarafindan imzalanır. E-Rapor sistemi üzerinden düzenlenen raporlarda teslim tarihi mutlaka sistemde belirtilir.
+(6) Sağlık raporları kişiye teslim edilirken mutlaka teslim belgesi düzenlenerek teslim eden ve alan kişi tarafından imzalanır. E-Rapor sistemi üzerinden düzenlenen raporlarda teslim tarihi mutlaka sistemde belirtilir.
 
-(7) Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafından raporu tanzim eden sağlık hizmet sunucusuna rapor iade edilir. Ilgili sağlık hizmet sunucusu sağlık kurulu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez. Sağlık hizmet sunucusu tarafindan işlem tesis edilmediği durumlarda kişi/kurum hatalı rapor için raporun düzenlendıği sağlık hizmet sunucusunun bulunduğu ilin il sağlık müdürlüğüne başvurur. Il sağlık müdürlüğü başvuru gerekçesini inceler, raporda hata tespit etmesi halinde yeni rapor düzenlenmesi amacı ile kişiyi raporun düzenlendiği sağlık hizmet sunucusuna sevk
+(7) Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafından raporu tanzim eden sağlık hizmet sunucusuna rapor iade edilir. Ilgili sağlık hizmet sunucusu sağlık kurulu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez. Sağlık hizmet sunucusu tarafından işlem tesis edilmediği durumlarda kişi/kurum hatalı rapor için raporun düzenlendıği sağlık hizmet sunucusunun bulunduğu ilin il sağlık müdürlüğüne başvurur. Il sağlık müdürlüğü başvuru gerekçesini inceler, raporda hata tespit etmesi halinde yeni rapor düzenlenmesi amacı ile kişiyi raporun düzenlendiği sağlık hizmet sunucusuna sevk
 
 (8) Rapora itiraz eden kişi, itiraz muayenesi işlemlerinin hangi aşamasında olursa olsun itirazından vazgeçerse veya itiraz merciine başvurmaz ya da işlemleri tamamlamaz ise ilgili makama resmi yazı ile bildirilir. Itirazda bulunan makam bu dilekçe ile kontrol muayenesi işlemini sonlandırabilir. Bu durumda raporun teslim edileceği kurum talebi olmadan yeniden hakem hastane görevlendirmesi yapılmaz.
 
@@ -617,7 +618,7 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 (14) Yönerge eki yetkili hastane listelerinde, rapor formatlarında yapılan değişikliklerin Sağlık Bakanlığı resmi internet adresinde duyurulmasından itibaren güncel yetkili hastane listeleri veya rapor formatları esas alınır.
 
-(15) (20/10/2020/4959 Yürürlük: 20/10/2020) Adli merciler tarafindan istenen durum bildirir raporlar ile mevzuatta kişiler ile doğrudan paylaşılmayacağı hüküm altına alınan raporlar kişilerin e-Devlet kapısında görüntülenemez.
+(15) (20/10/2020/4959 Yürürlük: 20/10/2020) Adli merciler tarafından istenen durum bildirir raporlar ile mevzuatta kişiler ile doğrudan paylaşılmayacağı hüküm altına alınan raporlar kişilerin e-Devlet kapısında görüntülenemez.
 
 #### Yürürlükten kaldırılan mevzuat
 

@@ -6,6 +6,11 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-115968/organ-nakli-hizmetleri-yonetmeligi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Organ nakli ve bağışı hizmetleri ile bu hizmetleri sunan merkezlerin standart ve çalışma esaslarını düzenler."
+birim: "Sağlık Bakanlığı"
+sayi: "32038"
+tarih: "2022-12-09"
 ---
 
 ## ORGAN NAKLİ HİZMETLERİ YÖNETMELİĞİ

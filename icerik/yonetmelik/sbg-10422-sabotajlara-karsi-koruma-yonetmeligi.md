@@ -6,6 +6,11 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10422/sabotajlara-karsi-koruma-yonetmeligi.html"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+konu: "Kamu ve özel kuruluşları sabotajlara karşı korumak için alınacak tedbir ve uygulama esaslarını düzenler."
+birim: "Bakanlar Kurulu"
+sayi: "88/13543"
+tarih: "1988-10-16"
 ---
 
 ## SABOTAJLARA KARŞI KORUMA YÖNETMELİĞİ
@@ -26,7 +31,7 @@ Yayımlandığı Düsturun Tertibi : 5 Cildi : 28 Sayfa : 1625
 
 #### Kapsam
 
-**Madde 2 –** Bu Yönetmelik Bakanlıklar ve birince maddede belirlenen özellikleri taşıyan kamu ve özel sektör kurum ve kuruluşlarını kapsar.
+**Madde 2 –** Bu Yönetmelik Bakanlıklar ve birinci maddede belirlenen özellikleri taşıyan kamu ve özel sektör kurum ve kuruluşlarını kapsar.
 
 Genelkurmay Başkanlığı, Milli Savunma Bakanlığı, Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı, MİT Müsteşarlığı, Emniyet Genel Müdürlüğü ve Sahil Güvenlik Komutanlığı bu Yönetmelik kapsamı dışındadır.
 
@@ -570,7 +575,9 @@ a. İhbarlı sabotaj ve saldırı halinde :
 
 (2) Çalışma saatleri dışında :
 
-### 5 – İŞBİRLİĞİ, KOORDİNASYON VE KONTROL: 6 – EKLER :
+### 5 – İŞBİRLİĞİ, KOORDİNASYON VE KONTROL
+
+### 6 – EKLER
 
 (1)
 
@@ -580,9 +587,11 @@ a. İhbarlı sabotaj ve saldırı halinde :
 
 ### Tarih Müessese Amiri Adı - Soyadı İmza - Mühür veya Kaşe GİZLİ
 
-### 16/10/1988 TARİH VE 88/13543 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Kararnamenin
+### Yönetmelikte Değişiklik Yapan Kararnamelerin Yürürlük Tarihleri
 
-Tarihi Numarası Farklı Tarihte Yürürlüğe Giren Maddeler Yürürlüğe Giriş Tarihi 21/3/1992 92/2859 - 1/4/1992
+| Kararname tarihi | Kararname numarası | Yürürlüğe giren maddeler | Yürürlük tarihi |
+|---|---|---|---|
+| 21/3/1992 | 92/2859 | — | 1/4/1992 |
 
 ---
 
