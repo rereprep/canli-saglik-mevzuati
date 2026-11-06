@@ -49,5 +49,53 @@
   "ocr": true,
   "baslik_satiri": "Sayfa : 2 RESMİ GAZETE 11 Temmuz 1993 — Sayı: 21634",
   "sonraki_baslik_satiri": "11 Temmuz 1993 — Sayı : 21634 RESMİ GAZETE Sayfa : 21"
+ },
+ {
+  "id": "oz-icme-ve-kullanma-sularinin-dezenfeksiyonuna-ait-yonetmelik-1967-05-16",
+  "baslik": "İçme ve Kullanma Sularının Dezenfeksiyonuna Ait Yönetmelik",
+  "tur": "yonetmelik",
+  "rg_tarih": "1967-05-16",
+  "rg_sayi": "12599",
+  "not": "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler.",
+  "durum": "yürürlükte",
+  "kaynak": "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)",
+  "kaynak_url": "https://www.resmigazete.gov.tr/arsiv/12599.pdf",
+  "kaynak_pdf": "rg-arsiv/12599.pdf",
+  "pdf_baslangic": 7,
+  "pdf_bitis": 9,
+  "ocr": true,
+  "baslik_satiri": "Dezenfeksiyonuna ait"
+ },
+ {
+  "id": "oz-saglik-savas-memurlarinin-nitelik-yetki-ve-sorumluluklarini-belirten-yonetmelik",
+  "baslik": "Sağlık Savaş Memurlarının Nitelik, Yetki ve Sorumluluklarını Belirten Yönetmelik",
+  "tur": "yonetmelik",
+  "rg_sayi": "13535",
+  "not": "Ek VI: Uygulama olanağı kalmamış yönetmelikler.",
+  "durum": "uygulama olanağı kalmamış",
+  "kaynak": "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)",
+  "kaynak_url": "https://www.resmigazete.gov.tr/arsiv/13535.pdf",
+  "kaynak_pdf": "rg-arsiv/13535.pdf",
+  "pdf_baslangic": 3,
+  "pdf_bitis": 4,
+  "ocr": true,
+  "baslik_satiri": "Sağlık Savaş Memurlarının Nitelik"
+ },
+ {
+  "id": "sbg-10425-aday-memurlarin-yetistirilmesine-dair-genel-yonetmelik",
+  "baslik": "Aday Memurların Yetiştirilmesine Dair Genel Yönetmelik",
+  "tur": "yonetmelik",
+  "tarih": "1983-06-27",
+  "sayi": "83/6061",
+  "rg_tarih": "1983-06-27",
+  "rg_sayi": "18090",
+  "durum": "yürürlükte",
+  "kaynak": "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)",
+  "kaynak_url": "https://www.resmigazete.gov.tr/arsiv/18090.pdf",
+  "kaynak_pdf": "rg-arsiv/18090.pdf",
+  "pdf_baslangic": 13,
+  "pdf_bitis": 21,
+  "ocr": true,
+  "baslik_satiri": "Aday Memurların Yetiştirilmelerine İlişkin"
  }
 ]
