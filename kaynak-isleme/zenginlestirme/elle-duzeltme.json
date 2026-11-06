@@ -56,7 +56,8 @@
  },
  "sbg-103513-olum-bildirim-sistemi-obs-genelgesi-2021-7": {
   "tercih": true,
-  "sayi": "2021/7"
+  "sayi": "2021/7",
+  "tarih": "2021-08-02"
  },
  "sbg-103810-saglik-bakanligi-sosyal-tesisler-isletme-yonergesi": {
   "tercih": true
@@ -95,7 +96,8 @@
   "tarih": "2025-06-19"
  },
  "sb-saglik-kabinleri-hakkinda-genelge-2023-07": {
-  "sayi": "2023/7"
+  "sayi": "2023/7",
+  "tarih": "2023-09-13"
  },
  "sbg-103622-yetki-devri-genelgesi-2024-5": {
   "sayi": "2024/5"
@@ -142,5 +144,30 @@
  "sbg-10590-saglik-bakanligi-ozel-guvenlik-hizmetleri-genelgesi": {
   "sayi": "2005/11",
   "tarih": "2005-01-28"
+ },
+ "sbg-103591-ogretim-uyesi-tabiplerin-muayenehane-acma-basvurulari-hakkinda-genelge": {
+  "tarih": "2023-09-26"
+ },
+ "sb-ogretim-uyesi-tabiplerin-muayenehane-acma-basvurulari-hakkinda-genelge-2023-8": {
+  "tarih": "2023-09-26"
+ },
+ "k-tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri": {
+  "tarih": "2021-03-19",
+  "sayi": "2021/1"
+ },
+ "sb-olum-bildirim-sistemi-obs-genelgesi-2021-7": {
+  "tarih": "2021-08-02"
+ },
+ "sbg-103617-kamu-zarari-genelgesi-2020-5": {
+  "tarih": "2020-07-23"
+ },
+ "sb-kamu-zarari-genelgesi-2020-5": {
+  "tarih": "2020-07-23"
+ },
+ "sbg-11028-poliklinik-hizmetlerinde-oncelik-sirasi-hakkinda-genelge-2010-73-80": {
+  "tarih": "2010-10-20"
+ },
+ "sbg-11067-ishalli-hastaliklarin-kontrolu-genelgesi-2004-52": {
+  "tarih": "2004-04-12"
  }
 }
