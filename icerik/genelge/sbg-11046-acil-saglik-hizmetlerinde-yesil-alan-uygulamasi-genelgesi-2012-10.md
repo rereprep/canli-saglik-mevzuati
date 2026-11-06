@@ -13,7 +13,7 @@ durum: "yürürlükte"
 
 Sayı :B.10.0.THG.0.83.00.03- 211.99- 01.01/3931 27.01.2012 Konu: Acil Sağlık Hizmetlerinde Yeşil Alan Uygulaması
 
-### ..............................VALĠLĠĞĠNE GENELGE 2012/10
+### ..............................VALİLİĞİNE GENELGE 2012/10
 
 21.01.2012 tarih ve 28180 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Sağlık Uygulama Tebliği’nde (SUT) Değişiklik Yapılmasına Dair Tebliğ ile acil servislerde yeşil alan uygulaması kapsamında değerlendirilecek sağlık hizmetleri için katılım payı alınacağı hükme bağlanmıştır. Bu kapsamda 520.021 Kodu ile tanımlanan “Yeşil Alan Muayenesi” uygulamasında birliğinin sağlanması bakımından aşağıdaki açıklamaların yapılmasına lüzum görülmüştür.
 

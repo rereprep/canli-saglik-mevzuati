@@ -10,9 +10,9 @@ durum: "yürürlükte"
 
 ## T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B100TSH0100003-12187 15 Nisan 2008 Ankara Konu: Pestisit Etiket Onayları ve Ġthal Ġzinleri
+Sayı : B100TSH0100003-12187 15 Nisan 2008 Ankara Konu: Pestisit Etiket Onayları ve İthal İzinleri
 
-Ġlgi:14.04.2006 tarihli ve 4975 sayılı yazımız.
+İlgi:14.04.2006 tarihli ve 4975 sayılı yazımız.
 
 Bakanlığımızca izin verilmiş olan halk sağlığı alanında kullanılan pestisit ve pestisit benzeri maddelerin dozlarının Dünya Sağlık Örgütü’nün (WHO) 2006 yılı kitapçığına* göre ayarlanarak etiket örneklerinin onaylanmak üzere 07 Temmuz 2006 tarihine kadar Bakanlığımıza gönderilmesi ilgi yazı ile ilgili firmalardan talep edilmiş ve yazı Türkiye Odalar ve Borsalar Birliği, Kimya Sanayicileri Derneği ile Sabun ve Deterjan Sanayicileri Derneğine de bildirilmiştir.
 
@@ -28,7 +28,7 @@ Bakan a.
 
 Genel Müdür V.
 
-### (ĠMZA)
+### (İMZA)
 
 *:WHO 2006 yayını:
 
@@ -38,7 +38,7 @@ For the control of vectors and pests of public health importance, Sixth edition,
 
 ### DAĞITIM:
 
-Gereği : Bilgi: 81 Ġl Valiliğine Türkiye Odalar ve Borsalar Birliği (Ġl Sağlık Müdürlüğü)
+Gereği : Bilgi: 81 İl Valiliğine Türkiye Odalar ve Borsalar Birliği (İl Sağlık Müdürlüğü)
 
 ---
 

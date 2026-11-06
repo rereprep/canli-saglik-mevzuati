@@ -14,9 +14,9 @@ Sayı : B.10.0.SGB.0.73.00.07/809.99/ 10193 09 Ekim 2009 Konu : Azami Stok Mikta
 
 Stok Yönetimi
 
-### …………….. VALĠLĠĞĠNE (Ġl Sağlık Müdürlüğü) GENELGE 2009/63
+### …………….. VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE 2009/63
 
-Ġlgi: a) 27.03.2009 tarihli ve 3214 sayılı (2009/23 sıra nolu) Genelgemiz.
+İlgi: a) 27.03.2009 tarihli ve 3214 sayılı (2009/23 sıra nolu) Genelgemiz.
 
 b) 23.07.2009 tarihli ve 7402 sayılı (2009/45 sıra nolu) Genelgemiz.
 
@@ -82,7 +82,7 @@ tarihinden itibaren en geç 90 (doksan) gün içerinde ödeme yapılacak şekild
 
 satın alma işlemlerini bu esas doğrultusunda gerçekleştirecektir.
 
-Bu genelge ile getirilen düzenlemelerin il düzeyinde yürütülmesinden Ġl Sağlık Müdürleri doğrudan sorumludur.
+Bu genelge ile getirilen düzenlemelerin il düzeyinde yürütülmesinden İl Sağlık Müdürleri doğrudan sorumludur.
 
 Bilgilerinizi ve konunun iliniz dâhilindeki Bakanlığımıza bağlı tüm döner sermayeli kurum ve kuruluşlarına duyurulması hususunda gereğini önemle rica ederim.
 

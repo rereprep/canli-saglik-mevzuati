@@ -258,6 +258,8 @@ def baslik_anahtari(b):
 def oncelik(b):
     """Aynı belgenin birden çok kopyası varsa en temiz metni seç."""
     puan = 0
+    if b.get("tercih"):  # elle: bu kopyanın metni daha temiz
+        puan += 100
     if b["id"].startswith("dx-"):
         puan += 40
     if not b.get("ocr") or b.get("duzeltildi"):

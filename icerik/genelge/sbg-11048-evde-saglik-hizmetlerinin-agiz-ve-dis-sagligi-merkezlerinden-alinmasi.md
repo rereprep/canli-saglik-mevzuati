@@ -11,39 +11,39 @@ durum: "yürürlükte"
 
 ## T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-Sayı : B.10.0.THG.0.11.00.07-215.09-8012 27.02.2012 Konu : Evde Sağlık Hizmetlerinin Ağız ve DiĢ Sağlığı
+Sayı : B.10.0.THG.0.11.00.07-215.09-8012 27.02.2012 Konu : Evde Sağlık Hizmetlerinin Ağız ve Diş Sağlığı
 
 Merkezlerinden Alınması
 
-### ……………… VALĠLĠĞĠNE (Ġl Sağlık Müdürlüğü) 2012/17
+### ……………… VALİLİĞİNE (İl Sağlık Müdürlüğü) 2012/17
 
-Ġlgi : a) 18.02.2011 tarihli ve 7818 sayılı 2011/8 Genelgemiz.
+İlgi : a) 18.02.2011 tarihli ve 7818 sayılı 2011/8 Genelgemiz.
 
 b) 24.02.2011 tarihli ve B.10.0.THG.0.10.00.01-020-8751 sayılı Makam Onayı.
 
-Bilindiği üzere; fertlerin ve toplumun sağlığını korumak maksadıyla, evde bakım hizmeti veren sağlık kuruluĢlarının açılması, çalıĢması ve denetlenmesi ile bunları iĢleten kurum ve kuruluĢların, özel hukuk tüzel kiĢilerinin ve gerçek kiĢilerin uyması gereken usul ve esasları düzenleyen, Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelik 10.03.2005 tarihli ve 25751 sayılı Resmi Gazete’de yayımlanmıĢtır.
+Bilindiği üzere; fertlerin ve toplumun sağlığını korumak maksadıyla, evde bakım hizmeti veren sağlık kuruluşlarının açılması, çalışması ve denetlenmesi ile bunları işleten kurum ve kuruluşların, özel hukuk tüzel kişilerinin ve gerçek kişilerin uyması gereken usul ve esasları düzenleyen, Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelik 10.03.2005 tarihli ve 25751 sayılı Resmi Gazete’de yayımlanmıştır.
 
-Ġlgide kayıtlı Makam Onayı ile yürürlüğe giren Sağlık Bakanlığınca Sunulan Evde Sağlık Hizmetlerinin Uygulama Usul Ve Esasları Hakkında Yönergede; evde sağlık hizmetleri birimleri kurulması, bu birimlerin asgari fiziki donanımı ile araç, gereç ve personel standardının ve ilgili personelin yetki ve sorumluluklarının belirlenmesi, iletiĢim, uygulanacak randevu, kayıt ve takip sisteminin tanımlanması ve uygulamanın denetimine iliĢkin usul ve esaslar belirlenmiĢtir.
+İlgide kayıtlı Makam Onayı ile yürürlüğe giren Sağlık Bakanlığınca Sunulan Evde Sağlık Hizmetlerinin Uygulama Usul Ve Esasları Hakkında Yönergede; evde sağlık hizmetleri birimleri kurulması, bu birimlerin asgari fiziki donanımı ile araç, gereç ve personel standardının ve ilgili personelin yetki ve sorumluluklarının belirlenmesi, iletişim, uygulanacak randevu, kayıt ve takip sisteminin tanımlanması ve uygulamanın denetimine ilişkin usul ve esaslar belirlenmiştir.
 
-Söz konusu Yönergede de belirtildiği üzere ağız ve diĢ sağlığı evde sağlık birimi Ağız ve DiĢ Sağlı Hastaneleri ile Ağız ve DiĢ Sağlığı Merkezleri bünyesinde oluĢturulmalı, hizmetin yönetimi, birimler arasındaki iletiĢim ve koordinasyon müdürlük bünyesinde oluĢturulan koordinasyon merkezi tarafından sağlanmalıdır. Birim ve mobil birimler, illerde ilgili kurum baştabibinin, ilçelerde grup başkanlıklarının talebi ve müdürlüğün teklifi üzerine valilik onayı ile kurulur ve tescil için Bakanlığa bildirilir. Ancak Bakanlığımıza bağlı ağız ve diĢ sağlığı hastaneleri ile ağız ve diĢ sağlığı merkezi baĢtabiplikleri ile yapılan görüĢmelerde bazılarının il oluru alınmaksızın ve tescil iĢlemi yapılmadan konsültasyon usulü hizmet verdikleri anlaĢılmıĢtır.
+Söz konusu Yönergede de belirtildiği üzere ağız ve diş sağlığı evde sağlık birimi Ağız ve Diş Sağlı Hastaneleri ile Ağız ve Diş Sağlığı Merkezleri bünyesinde oluşturulmalı, hizmetin yönetimi, birimler arasındaki iletişim ve koordinasyon müdürlük bünyesinde oluşturulan koordinasyon merkezi tarafından sağlanmalıdır. Birim ve mobil birimler, illerde ilgili kurum baştabibinin, ilçelerde grup başkanlıklarının talebi ve müdürlüğün teklifi üzerine valilik onayı ile kurulur ve tescil için Bakanlığa bildirilir. Ancak Bakanlığımıza bağlı ağız ve diş sağlığı hastaneleri ile ağız ve diş sağlığı merkezi baştabiplikleri ile yapılan görüşmelerde bazılarının il oluru alınmaksızın ve tescil işlemi yapılmadan konsültasyon usulü hizmet verdikleri anlaşılmıştır.
 
-Uygulama birliğinin sağlanması maksadıyla Bakanlığımızca hazırlanmıĢ evde sağlık biriminde görevli diĢ hekiminin ziyaret esnasında doldurması gereken form ekte (Ek-1) gönderilmiĢtir. Bahse konu formların anılan Yönergenin 20 inci maddesi gereği iki nüsha halinde düzenlenmesi ve evde sağlık birimince her hasta için oluĢturulacak hasta dosyalarında bulundurulması gerekmektedir.
+Uygulama birliğinin sağlanması maksadıyla Bakanlığımızca hazırlanmış evde sağlık biriminde görevli diş hekiminin ziyaret esnasında doldurması gereken form ekte (Ek-1) gönderilmiştir. Bahse konu formların anılan Yönergenin 20 inci maddesi gereği iki nüsha halinde düzenlenmesi ve evde sağlık birimince her hasta için oluşturulacak hasta dosyalarında bulundurulması gerekmektedir.
 
-Ağız ve DiĢ Sağlığı Merkezlerinin evde sağlık hizmetlerine kurumsal olarak yaklaĢmaları ve kurumlarında bir birim oluĢturarak asgari Ģartlar oluĢturulup il oluru alınarak hastanın takibi, verilen hizmetin kayıt altına alınması ve tescilinin olması gerekmektedir. Ġl Onayı olmaksızın hizmet veren Kurumlarımızın Valiliğinizce uyarılması, onaysız hizmet veren birimin, birim faaliyetine izin verilmemesi ile Onay alınmasına müteakiben bu iĢlemlerin yapılmasının sağlanması gerekmektedir.
+Ağız ve Diş Sağlığı Merkezlerinin evde sağlık hizmetlerine kurumsal olarak yaklaşmaları ve kurumlarında bir birim oluşturarak asgari şartlar oluşturulup il oluru alınarak hastanın takibi, verilen hizmetin kayıt altına alınması ve tescilinin olması gerekmektedir. İl Onayı olmaksızın hizmet veren Kurumlarımızın Valiliğinizce uyarılması, onaysız hizmet veren birimin, birim faaliyetine izin verilmemesi ile Onay alınmasına müteakiben bu işlemlerin yapılmasının sağlanması gerekmektedir.
 
-Ağız ve diĢ sağlığı evde sağlık hizmetlerinden yararlanmak isteyen kiĢi ya da söz konusu kiĢinin yakınlarına yönelik hazırlanmıĢ bilgilendirmiĢ onam formu ekte (Ek-2) gönderilmektedir.
+Ağız ve diş sağlığı evde sağlık hizmetlerinden yararlanmak isteyen kişi ya da söz konusu kişinin yakınlarına yönelik hazırlanmış bilgilendirmiş onam formu ekte (Ek-2) gönderilmektedir.
 
-Bilgilerinizi, konuya iliĢkin uygulamanın ilgili Yönerge hükümleri ile yukarıda belirtilen düzenlemelere uygun olarak yürütülmesinin sağlanması hususlarında ilgililere emirlerinizi önemle rica ederim.
+Bilgilerinizi, konuya ilişkin uygulamanın ilgili Yönerge hükümleri ile yukarıda belirtilen düzenlemelere uygun olarak yürütülmesinin sağlanması hususlarında ilgililere emirlerinizi önemle rica ederim.
 
 Prof. Dr. Nihat TOSUN
 
 Bakan a.
 
-MüsteĢar Dağıtım: 81 Ġl Valiliğine Ek: 1- Ağız ve DiĢ Sağlığı Evde Sağlık Hasta Değerlendirme/Tedavi Formu (1 Sayfa)
+Müsteşar Dağıtım: 81 İl Valiliğine Ek: 1- Ağız ve Diş Sağlığı Evde Sağlık Hasta Değerlendirme/Tedavi Formu (1 Sayfa)
 
-2- Ağız ve DiĢ Sağlığı Evde Sağlık BilgilendirilmiĢ Onam Formu (2 Sayfa)
+2- Ağız ve Diş Sağlığı Evde Sağlık Bilgilendirilmiş Onam Formu (2 Sayfa)
 
-3- Evde sağlık uygulamalarında diĢ hekimleri tarafından verilebilecek hizmetler (1 Sayfa)
+3- Evde sağlık uygulamalarında diş hekimleri tarafından verilebilecek hizmetler (1 Sayfa)
 
 ……………………………………………….(Ağız ve Diş Sağlığı Hastanesi/ Ağız ve Diş Sağlığı Merkezi) EK-2
 
@@ -167,4 +167,4 @@ Adı- Soyadı: Tarih: İmza:
 
 **Dipnotlar**
 
-<small>………………………………………………………………………..…………..…………..………………………………… Sağlık Bakanlığı THGM Ağız DiĢ Sağlığı Dairesi BaĢkanlığı Ağız DiĢ Sağlığı Ruhsatlandırma ve Yardımcı Hizmetler ġube Müdürlüğü MithatpaĢa Cad. No:3 B Blok 3/14 Sıhhıye/ ANKARA Tel:0312 585 15 57-58 Faks: 0 312 585 15 65-66</small>
+<small>………………………………………………………………………..…………..…………..………………………………… Sağlık Bakanlığı THGM Ağız Diş Sağlığı Dairesi Başkanlığı Ağız Diş Sağlığı Ruhsatlandırma ve Yardımcı Hizmetler ġube Müdürlüğü Mithatpaşa Cad. No:3 B Blok 3/14 Sıhhıye/ ANKARA Tel:0312 585 15 57-58 Faks: 0 312 585 15 65-66</small>

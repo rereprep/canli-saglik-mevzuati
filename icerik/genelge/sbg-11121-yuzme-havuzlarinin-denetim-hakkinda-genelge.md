@@ -12,15 +12,15 @@ durum: "yürürlükte"
 
 Sayı : B.10.0.TSH.0.10.00.04/121.99 15.05.2008/15653 Konu: Yüzme havuzlarının denetimi hk.
 
-### ………………VALĠLĠĞĠNE (Ġl Sağlık Müdürlüğü)
+### ………………VALİLİĞİNE (İl Sağlık Müdürlüğü)
 
-Bahar mevsimiyle birlikte havaların ısınması ve haziran ayında okulların tatile girmesi sonucunda, önümüzdeki dönemde iç ve dıĢ turizmdeki hareketliliğe bağlı olarak özellikle turizm bölgelerinde nüfus yoğunluğunda artıĢlar görülecektir. Ġnsanların eğlenmek, spor yapmak ve serinlemek amacıyla deniz, göl ve yüzme havuzu gibi alanlara da ihtiyaçları artacaktır. Deniz ve göl suyu kalitesi Bakanlığımızca düzenli olarak kontrol edilmektedir. Havuz suyu kalitesi ve standartları konusunda ise Yönetmelik çalıĢmaları halen devam etmektedir. Yüzme amacıyla kullanılan açık ve kapalı yüzme havuzları ile sularının hijyenik Ģartlara uygunluğu, havuz suyunda kullanılan kimyasalların (dezenfektan, pH düzenleyici, topaklayıcı, çöktürücü, parlatıcı ve yosun önleyici gibi) Bakanlığımızca ruhsatlandırılmıĢ ürünler olması ve havuz suyundaki konsantrasyonlarının kontrol edilmesi halk sağlığı açısından önem arz etmektedir.
+Bahar mevsimiyle birlikte havaların ısınması ve haziran ayında okulların tatile girmesi sonucunda, önümüzdeki dönemde iç ve dış turizmdeki hareketliliğe bağlı olarak özellikle turizm bölgelerinde nüfus yoğunluğunda artışlar görülecektir. İnsanların eğlenmek, spor yapmak ve serinlemek amacıyla deniz, göl ve yüzme havuzu gibi alanlara da ihtiyaçları artacaktır. Deniz ve göl suyu kalitesi Bakanlığımızca düzenli olarak kontrol edilmektedir. Havuz suyu kalitesi ve standartları konusunda ise Yönetmelik çalışmaları halen devam etmektedir. Yüzme amacıyla kullanılan açık ve kapalı yüzme havuzları ile sularının hijyenik şartlara uygunluğu, havuz suyunda kullanılan kimyasalların (dezenfektan, pH düzenleyici, topaklayıcı, çöktürücü, parlatıcı ve yosun önleyici gibi) Bakanlığımızca ruhsatlandırılmış ürünler olması ve havuz suyundaki konsantrasyonlarının kontrol edilmesi halk sağlığı açısından önem arz etmektedir.
 
-Yüzme havuzu iĢleticileri, havuz sularında Bakanlığımızdan ruhsatlı havuz suyu kimyasallarını kullanmaktan, bu kimyasalların eğitimli personelce uygulanmasından, havuz suyu kalitesinin bu genelge ekinde belirtilen limit değerleri sağlamasından, yüzme havuzlarının hijyenik Ģartlarda iĢletilmesinden ve gerekli koruyucu tedbirlerin alınmasından sorumludurlar.
+Yüzme havuzu işleticileri, havuz sularında Bakanlığımızdan ruhsatlı havuz suyu kimyasallarını kullanmaktan, bu kimyasalların eğitimli personelce uygulanmasından, havuz suyu kalitesinin bu genelge ekinde belirtilen limit değerleri sağlamasından, yüzme havuzlarının hijyenik şartlarda işletilmesinden ve gerekli koruyucu tedbirlerin alınmasından sorumludurlar.
 
-Açık ve kapalı yüzme havuzu bulunduran ve iĢleten kurum, kuruluĢ ve tesisler genelge eki (Ek-4’teki) çizelgede yer alan parametrelerin analizlerini çizelgede belirtilen sıklıkta 15 Haziran 2008 tarihi itibariyle yapmaya veya yaptırmaya baĢlayacaklardır. Havuz suyuna ait analiz sonuçları analizi yapan yetkili personelce (biyolog, kimyager, kimya mühendisi, çevre mühendisi ve laborant) imzalanacak ve iĢletmenin idaresinden sorumlu personel tarafından onaylanarak muhafaza edilecek ve denetimlerde Ġl Sağlık Müdürlüğü denetim elemanlarına ibraz edilecektir.
+Açık ve kapalı yüzme havuzu bulunduran ve işleten kurum, kuruluş ve tesisler genelge eki (Ek-4’teki) çizelgede yer alan parametrelerin analizlerini çizelgede belirtilen sıklıkta 15 Haziran 2008 tarihi itibariyle yapmaya veya yaptırmaya başlayacaklardır. Havuz suyuna ait analiz sonuçları analizi yapan yetkili personelce (biyolog, kimyager, kimya mühendisi, çevre mühendisi ve laborant) imzalanacak ve işletmenin idaresinden sorumlu personel tarafından onaylanarak muhafaza edilecek ve denetimlerde İl Sağlık Müdürlüğü denetim elemanlarına ibraz edilecektir.
 
-Ġl Sağlık Müdürlüklerince halk sağlığının korunması amacıyla havuz suyu kontrol ve denetimlerinin;
+İl Sağlık Müdürlüklerince halk sağlığının korunması amacıyla havuz suyu kontrol ve denetimlerinin;
 
 1. Yazımız ekinde gönderilen (Ek-5) denetim formu doğrultusunda yapılması,
 
@@ -28,9 +28,9 @@ Açık ve kapalı yüzme havuzu bulunduran ve iĢleten kurum, kuruluĢ ve tesisl
 
 kullanılmadığının kontrol edilmesi, izinsiz ürünlerin kullanıldığının tespit edilmesi
 
-halinde kullanımının önlenmesi ve gerekli yasal iĢlemlerin yapılması,
+halinde kullanımının önlenmesi ve gerekli yasal işlemlerin yapılması,
 
-3. Havuz kimyasallarının depolanma, hazırlanma ve uygulanma Ģartlarının, yeterli kiĢisel
+3. Havuz kimyasallarının depolanma, hazırlanma ve uygulanma şartlarının, yeterli kişisel
 
 koruyucu ekipmanların bulunup bulunmadığının kontrol edilmesi,
 
@@ -58,13 +58,13 @@ Müdürlükleri ile ilgili sektör dernekleri veya ilgili meslek odalarının ko
 
 düzenlenmesi ve sertifikaların Halk Eğitim Müdürlükleri tarafından verilmesi,
 
-eğitimlerde genel hijyen kuralları, su ile bulaĢabilecek hastalıklar, havuz sularında
+eğitimlerde genel hijyen kuralları, su ile bulaşabilecek hastalıklar, havuz sularında
 
 kullanılan kimyasalların insan sağlığı üzerine etkileri ve ilk yardım konusunda yetkili
 
 personel tarafından eğitim verilmesinin sağlanması,
 
-7. Ġlgili iĢletmelere görev ve sorumluluklarının tebliğ edilmesi, Haziran ayına kadarki
+7. İlgili işletmelere görev ve sorumluluklarının tebliğ edilmesi, Haziran ayına kadarki
 
 denetimlerin mevcut mevzuat doğrultusunda yapılması,
 
@@ -84,13 +84,13 @@ Genel Müdür V.
 
 ### DAĞITIM:
 
-Gereği: Bilgi: 81 Ġl Valiliğine Kültür ve Turizm Bakanlığına
+Gereği: Bilgi: 81 İl Valiliğine Kültür ve Turizm Bakanlığına
 
 Milli Eğitim Bakanlığına
 
-Türkiye Odalar ve Borsalar Birliği BaĢkanlığına
+Türkiye Odalar ve Borsalar Birliği Başkanlığına
 
-Ulusal Havuz Enstitüsü Derneği BaĢkanlığına Ek: 3 sayfa …./…./2008 Hukuk MüĢaviri H. ġEN
+Ulusal Havuz Enstitüsü Derneği Başkanlığına Ek: 3 sayfa …./…./2008 Hukuk Müşaviri H. ġEN
 
 ### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü EK-1
 
@@ -100,7 +100,7 @@ Parametre Örnek alma sıklığı Birim Minimum Maksimum pH Havuz suyunun Tatlı
 
 kullanımından önce
 
-baĢlanmak üzere günde az 3 Deniz 6,5 7.8
+başlanmak üzere günde az 3 Deniz 6,5 7.8
 
 defa suyu Amonyum Ayda bir defa mg/L 0.5 Nitrit Ayda bir defa mg/L 0.5 Nitrat Ayda bir defa mg/L 20 Siyanürük asit Ayda bir defa mg/L 30 100 Bakır Ayda bir defa mg/L 1.0 Alüminyum Ayda bir defa mg/L 0.2 Organik maddeler Ayda bir defa mg/L 5.0 için sarf edilen oksijen miktarı Toplam alkalilik Ayda bir defa 80 120 Bağlı klor Havuz suyu kullanımından mg/L 0.2
 
@@ -152,7 +152,7 @@ Pseudomonas aeruginosa 0/100 ml
 
 Parametre Örnek alma sıklığı Birim Minimum Maksimum pH Havuz suyunun kullanımından Tatlı su 6,5 7,6
 
-önce baĢlanmak üzere günde en
+önce başlanmak üzere günde en
 
 az 3 defa Deniz suyu 6,5 7.8 Amonyum Ayda bir defa mg/L 0.5 Nitrit Ayda bir defa mg/L 0.5 Nitrat Ayda bir defa mg/L 20 Siyanürik asit Ayda bir defa mg/L 30 100 Alüminyum Ayda bir defa mg/L 0.2 Bağlı klor Havuz suyu kullanımından önce mg/L 0.2
 

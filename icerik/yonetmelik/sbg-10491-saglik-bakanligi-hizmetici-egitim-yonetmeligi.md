@@ -7,13 +7,13 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10491/saglik-bakanligi-hizmetici-egiti
 durum: "yürürlükte"
 ---
 
-## SAĞLIK BAKANLIĞI HĠZMET ĠÇĠ EĞĠTĠM YÖNETMELĠĞĠ
+## SAĞLIK BAKANLIĞI HİZMET İÇİ EĞİTİM YÖNETMELİĞİ
 
 (11/12/2009 Tarih ve B.10.0.SEG.0.72.00.03-010.03/15296 Sayılı
 
-Bakanlık Makam Onayı Ġle Yürürlüğe GirmiĢtir.)
+Bakanlık Makam Onayı İle Yürürlüğe Girmiştir.)
 
-### BĠRĠNCĠ BÖLÜM
+### BİRİNCİ BÖLÜM
 
 Amaç, Kapsam, Dayanak ve Tanımlar
 
@@ -49,7 +49,7 @@ f) Eğitim Merkezi: Hizmet içi eğitim faaliyetlerinin yürütüldüğü yeri,
 
 g) Eğitim Programı: Yıllık hizmet içi eğitim planına göre belirtilen süre içerisinde branş veya alanda nasıl eğitim yapılacağını düzenleyen programı,
 
-ğ) (DeğiĢik 31/12/2012-36239 Sayılı Bakan Oluru) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
+ğ) (Değişik 31/12/2012-36239 Sayılı Bakan Oluru) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
 h) Hizmet İçi Eğitim Faaliyetleri: Personelin eğitimi amacıyla yapılan kurs, seminer, konferans, panel, sempozyum, forum, tartışma, sergi, staj, araştırma, inceleme ve uygulama gezileri gibi her türlü etkinliği,
 
@@ -75,7 +75,7 @@ p) Yıllık Hizmet İçi Eğitim Planı: Bakanlığın yıllık eğitim ihtiyaç
 
 ifade eder.
 
-### ĠKĠNCĠ BÖLÜM
+### İKİNCİ BÖLÜM
 
 Eğitimin Esasları
 
@@ -125,9 +125,9 @@ h) Eğitimden beklenen sonuçlara ulaşılıp ulaşılamadığının belirlenmes
 
 ## ÜÇÜNCÜ BÖLÜM
 
-Eğitim TeĢkilatı ve Görevleri
+Eğitim Teşkilatı ve Görevleri
 
-#### Eğitim teĢkilatı
+#### Eğitim teşkilatı
 
 **MADDE 7 –** (1) Bakanlığın hizmet içi eğitim faaliyetleri;
 
@@ -141,11 +141,11 @@ tarafından yürütülür.
 
 #### Eğitim kurulu
 
-**MADDE 8 –** (1) (DeğiĢik 31/12/2012-36239 Sayılı Bakan Oluru) Eğitim Kurulu, Bakanlığın hizmet içi eğitim faaliyetlerine ilişkin genel politikasını tespit etmek ve izlemek amacıyla ilgili müsteşar yardımcısı başkanlığında, merkez teşkilatı ana hizmet birimi amirlerinden oluşur.
+**MADDE 8 –** (1) (Değişik 31/12/2012-36239 Sayılı Bakan Oluru) Eğitim Kurulu, Bakanlığın hizmet içi eğitim faaliyetlerine ilişkin genel politikasını tespit etmek ve izlemek amacıyla ilgili müsteşar yardımcısı başkanlığında, merkez teşkilatı ana hizmet birimi amirlerinden oluşur.
 
 (2) Kurul üyelerinin özürleri halinde yardımcıları veya vekilleri toplantılara katılırlar.
 
-(3) (DeğiĢik 31/12/2012-36239 Sayılı Bakan Oluru) Eğitim Kurulu, her yıl bir defa Eylül ayında toplanır.
+(3) (Değişik 31/12/2012-36239 Sayılı Bakan Oluru) Eğitim Kurulu, her yıl bir defa Eylül ayında toplanır.
 
 (4) Kurul, gerekli görülen hâllerde başkanın çağrısı üzerine olağanüstü toplanır.
 
@@ -153,7 +153,7 @@ tarafından yürütülür.
 
 (6) Bakanlığın hizmet içi eğitim ile ilgili politika ve stratejilerinin belirlenmesinde, resmî ve özel kurum ve kuruluşlardan görüş alınabilir veya kurula temsilci çağrılabilir.
 
-(7) (DeğiĢik 31/12/2012-36239 Sayılı Bakan Oluru) Eğitim Kurulunun kararları Müsteşar onayı ile kesinleşir.
+(7) (Değişik 31/12/2012-36239 Sayılı Bakan Oluru) Eğitim Kurulunun kararları Müsteşar onayı ile kesinleşir.
 
 #### Eğitim kurulunun görevleri
 
@@ -217,7 +217,7 @@ o) İl Sağlık Müdürlüklerinin yürüttüğü eğitim faaliyetlerinin merkez
 
 p) Eğitim Kurulunun sekreterya hizmetlerini yürütmektir.
 
-#### Ġl sağlık müdürlüğünün görevleri
+#### İl sağlık müdürlüğünün görevleri
 
 **MADDE 11 –** (1) İl Sağlık Müdürlüğünün hizmet içi eğitimle ilgili görevleri şunlardır:
 
@@ -303,9 +303,9 @@ d) Zorunlu sebeplerle görevlerine devam edememeleri hâlinde durumu program yö
 
 (2) Eğitim görevlileri, eğitimde görevli oldukları süre içinde yıllık izin kullanamazlar.
 
-### BEġĠNCĠ BÖLÜM
+### BEġİNCİ BÖLÜM
 
-Hizmet Ġçi Eğitimin Planlanması ve Uygulanması
+Hizmet İçi Eğitimin Planlanması ve Uygulanması
 
 #### Hizmet içi eğitim
 
@@ -317,17 +317,17 @@ Hizmet Ġçi Eğitimin Planlanması ve Uygulanması
 
 (c) Eğitim faaliyetinde görevlendirilecek program yöneticisi, eğitim görevlileri, diğer görevliler, eğitime alınacak kursiyer veya katılımcılar ile eğitim merkezi, tarihi, süresi ve eğitim programı merkezi faaliyetlerde ilgili birimle iş birliği içinde Genel Müdürlükçe; il faaliyetlerinde il sağlık müdürlüğünce belirlenir.
 
-#### Yurt dıĢında eğitim
+#### Yurt dışında eğitim
 
 **MADDE 18 –** (1) Personelin yurt dışında yetiştirilmesi, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu’nun ilgili hükümleri ile 1/2/1974 tarih ve 14786 sayılı Resmî Gazetede yayımlanan “Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik" hükümleri çerçevesinde yapılır.
 
 #### Yıllık plan
 
-**MADDE 19 –** (1) (DeğiĢik 31/12/2012-36239 Sayılı Bakan Oluru) Genel Müdürlük, diğer birimlerle iş birliği yaparak bir sonraki yılın hizmet içi eğitim planını hazırlar. Bu planlar eğitim kurulunda görüşüldükten sonra Müsteşar onayı ile kesinleşerek uygulamaya konulur. Yıllık eğitim programları Müsteşarın onayından sonra, eğitim çalışmalarının başlamasından en az bir ay önce bütün birimlere duyurulur.
+**MADDE 19 –** (1) (Değişik 31/12/2012-36239 Sayılı Bakan Oluru) Genel Müdürlük, diğer birimlerle iş birliği yaparak bir sonraki yılın hizmet içi eğitim planını hazırlar. Bu planlar eğitim kurulunda görüşüldükten sonra Müsteşar onayı ile kesinleşerek uygulamaya konulur. Yıllık eğitim programları Müsteşarın onayından sonra, eğitim çalışmalarının başlamasından en az bir ay önce bütün birimlere duyurulur.
 
-(2) (DeğiĢik 31/12/2012-36239 Sayılı Bakan Oluru) Merkezî yıllık hizmet içi eğitim planı Genel Müdürlükçe; il yıllık hizmet içi eğitim planı ise il sağlık müdürlüğünce hazırlanır ve merkezde Müsteşar illerde valilik onayı alındıktan sonra yürürlüğe girer.
+(2) (Değişik 31/12/2012-36239 Sayılı Bakan Oluru) Merkezî yıllık hizmet içi eğitim planı Genel Müdürlükçe; il yıllık hizmet içi eğitim planı ise il sağlık müdürlüğünce hazırlanır ve merkezde Müsteşar illerde valilik onayı alındıktan sonra yürürlüğe girer.
 
-(3) (DeğiĢik 31/12/2012-36239 Sayılı Bakan Oluru) Merkezî yıllık hizmet içi eğitim planında ve faaliyetlerinde Müsteşar, il yıllık hizmet içi eğitim planında ve faaliyetlerinde valilik onayı alınmadan değişiklik yapılamaz.
+(3) (Değişik 31/12/2012-36239 Sayılı Bakan Oluru) Merkezî yıllık hizmet içi eğitim planında ve faaliyetlerinde Müsteşar, il yıllık hizmet içi eğitim planında ve faaliyetlerinde valilik onayı alınmadan değişiklik yapılamaz.
 
 (4) İl yıllık hizmet içi eğitim planları ve uygulama sonuçları ilgili birimlere ve Genel Müdürlüğe bildirilir.
 
@@ -353,7 +353,7 @@ olmak üzere; kurs, seminer, konferans, panel, sempozyum, forum, tartışma, ser
 
 (3) Bakanlık birimlerinin kendi içinde veya diğer kamu kurum ve kuruluşlarıyla ortaklaşa düzenleyecekleri eğitim programlarının koordinasyonu Genel Müdürlükçe sağlanır.
 
-#### Eğitim programı değiĢikliği
+#### Eğitim programı değişikliği
 
 **MADDE 21 –** (1) Eğitim programlarında onay alınmadan değişiklik yapılamaz.
 
@@ -377,13 +377,13 @@ b) Programların süreleri, varılmak istenen amaca uygun olarak; programın yer
 
 (4) Eğitim programlarının yürütülmesi, koordinasyonuna ilişkin görevler program yöneticisi tarafından yürütülür.
 
-#### Eğitim faaliyetlerine diğer kurum ve kuruluĢlardan katılma
+#### Eğitim faaliyetlerine diğer kurum ve kuruluşlardan katılma
 
 **MADDE 24 –** (1) Bakanlık ve il sağlık müdürlükleri düzenledikleri eğitimlere; giderleri kendilerine veya kurumlarına ait olmak kaydıyla, özel sağlık kurumları, diğer Bakanlıklar ile kamu kurum ve kuruluşlarında görev yapan personelin bu Yönetmelik çerçevesinde eğitim faaliyetlerine katılmalarını kabul edebilir.
 
 ## ALTINCI BÖLÜM
 
-Eğitime Katılma, Sınavlar, Değerlendirme, Ġzinler ve Disiplin
+Eğitime Katılma, Sınavlar, Değerlendirme, İzinler ve Disiplin
 
 #### Eğitime katılma
 
@@ -489,7 +489,7 @@ c) Sınavlarda başarılı olanlara Genel Müdürlük veya il sağlık müdürl�
 
 d) Eğitim programının genel değerlendirmesine yardımcı olmak üzere, eğitim sırasında veya sonunda, eğitim faaliyetlerine katılanlar ile görev alanların görüş ve düşüncelerini tespit etmek üzere anketler düzenlenebilir.
 
-#### Günlük çalıĢma süresi
+#### Günlük çalışma süresi
 
 **MADDE 33 –** (1) Eğitim faaliyetlerinde günlük çalışma süresi; merkezî faaliyetlerde
 
@@ -517,13 +517,13 @@ d) Eğitim programının genel değerlendirmesine yardımcı olmak üzere, eğit
 
 (5) Eğitim faaliyetlerinde görevlendirilen program yöneticisi ve eğitim görevlilerinden görevlerini yapmayanlar veya aksatanlar hakkında ilgili mevzuat hükümleri doğrultusunda gerekli işlem yapılır.
 
-#### Ġzinler
+#### İzinler
 
 **MADDE 36 –** (1) Hizmet içi eğitime katılanlar, eğitim süresince hastalık izni ve 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu’nun 104’üncü maddesinin A, B, C fıkraları dışında izin kullanamazlar. Başka kurum ve kuruluşlarda eğitime katılanlar, o kuruluşun izinle ilgili mevzuat hükümlerine tabi olurlar.
 
-### YEDĠNCĠ BÖLÜM
+### YEDİNCİ BÖLÜM
 
-ÇeĢitli Hükümler
+Çeşitli Hükümler
 
 #### Hizmet alımı
 

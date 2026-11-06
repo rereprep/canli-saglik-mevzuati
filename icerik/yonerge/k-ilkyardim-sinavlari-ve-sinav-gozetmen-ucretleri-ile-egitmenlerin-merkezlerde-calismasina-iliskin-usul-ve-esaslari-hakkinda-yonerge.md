@@ -10,7 +10,7 @@ kaynak_url: "https://dosyamerkez.saglik.gov.tr/Eklenti/43478/0/ilkyardimsinavlar
 durum: "yürürlükte"
 ---
 
-## ĠLKYARDIM SINAVLARI VE SINAV GÖZETMEN ÜCRETLERĠ ĠLE EĞĠTMENLERĠN MERKEZLERDE ÇALIġMASINA ĠLĠġKĠN USUL VE ESASLARI HAKKINDA YÖNERGE BĠRĠNCĠ BÖLÜM Genel Hükümler
+## İLKYARDIM SINAVLARI VE SINAV GÖZETMEN ÜCRETLERİ İLE EĞİTMENLERİN MERKEZLERDE ÇALIġMASINA İLİġKİN USUL VE ESASLARI HAKKINDA YÖNERGE BİRİNCİ BÖLÜM Genel Hükümler
 
 #### Amaç
 
@@ -56,9 +56,9 @@ j) Yönetmelik: 29.07.2015 tarih ve 29429 Sayılı Resmi Gazete’de yayımlanan
 
 ifade eder.
 
-### ĠKĠNCĠ BÖLÜM
+### İKİNCİ BÖLÜM
 
-Ġlkyardım eğitimi ve ilkyardım eğitici eğitimi sınav gözetmeni komisyonu ilesınav
+İlkyardım eğitimi ve ilkyardım eğitici eğitimi sınav gözetmeni komisyonu ilesınav
 
 ### gözetmen ekibinde görev alacaklar
 
@@ -84,7 +84,7 @@ b) Uygulamalı sınavda, katılımcıya (EK-7a)’da yer alan uygulamalar yaptı
 
 ## ÜÇÜNCÜ BÖLÜM
 
-#### Ġlkyardım Eğitimi ve Ġlkyardım Eğitici Eğitimi Sınavları
+#### İlkyardım Eğitimi ve İlkyardım Eğitici Eğitimi Sınavları
 
 **MADDE 8 –** (1)İlkyardım eğitimi, İlkyardım Eğitici Eğitimi ve İlkyardım Eğitici Eğitmeni Eğitimlerinde katılımcı sayısı asgari 5 (beş) azami 20(yirmi) kişidir.
 
@@ -92,7 +92,7 @@ b) Uygulamalı sınavda, katılımcıya (EK-7a)’da yer alan uygulamalar yaptı
 
 (3)Uygulama sınavı teorik sınavı takiben aynı gün içinde yapılır.
 
-#### Ġlkyardım Eğitimi
+#### İlkyardım Eğitimi
 
 **MADDE 9 –** (1)İlkyardım eğitimi 2 gün (16 saat)’dür.
 
@@ -118,7 +118,7 @@ e) Uygulamalı sınavdan 100 üzerinden 85 ve üstü puan alan katılımcılar b
 
 f) Sınav sırasında, katılımcı ve merkez eğitmeninin sorulara itirazları görevli gözetmenler tarafından değerlendirilir.Yanlış olduğu tespit edilen sorular tutanakla kayıt altına alınarak soru iptal edilir, puanlama kalan sorular üzerinden yapılır ve müdürlüğe bildirilir.
 
-#### Ġlkyardım Eğitici Eğitimi
+#### İlkyardım Eğitici Eğitimi
 
 **MADDE 10 –** (1)İlkyardım eğitici eğitimi süresi 5 gün (40saat)’dür.
 
@@ -156,7 +156,7 @@ b) Merkezler Müdürlükten OED eğitimi düzenleme yetki belgesi alarak OED eğ
 
 ## DÖRDÜNCÜ BÖLÜM
 
-#### Ġlkyardım Eğitmeni,Ġlkyardım Eğitici Eğitmeni ve Mesul Müdürün ÇalıĢma Esasları
+#### İlkyardım Eğitmeni,İlkyardım Eğitici Eğitmeni ve Mesul Müdürün Çalışma Esasları
 
 **MADDE 12 –** (1)İlkyardım Eğitmeni ve İlkyardım Eğitici Eğitmeni en fazla 4 (dört)merkezde çalışabilir.
 
@@ -176,7 +176,7 @@ c)Denetimlerde merkezde bulunmak ve Denetim Ekibine yardımcı olmakla mükellef
 
 (2)Kamu personeli olarak çalışan eğitmenler mesul müdürlük yapamaz.
 
-### BEġĠNCĠBÖLÜM
+### BEġİNCİBÖLÜM
 
 #### Denetim
 
@@ -218,7 +218,7 @@ katsayısı) X %....... ) formülüne göre hesaplar.
 
 (3)Müdürlük tarafından, sınav gözetmenlerine yapılan ödeme listesinin bir örneği, 193 sayılı Gelir Vergisi Kanununda yer alan vergi matrah dilimleri dikkate alınarak her bir gözetmenin kendi matrah dilimine göre doğru vergi oranlarının uygulanmasını sağlamak üzere Defterdarlık Muhasebe Müdürlüğüne gönderilir.
 
-### YEDĠNCĠ BÖLÜM Son Hükümler
+### YEDİNCİ BÖLÜM Son Hükümler
 
 #### Yürürlük
 

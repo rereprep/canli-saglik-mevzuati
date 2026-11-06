@@ -9,7 +9,7 @@ durum: "yürürlükte"
 
 Resmi Gazete Tarihi: 06.07.2005 Resmi Gazete Sayısı: 25867
 
-### AĠLE HEKĠMLĠĞĠ PĠLOT UYGULAMASI HAKKINDA YÖNETMELĠK BĠRĠNCĠ KISIM Genel Hükümler BĠRĠNCĠ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+### AİLE HEKİMLİĞİ PİLOT UYGULAMASI HAKKINDA YÖNETMELİK BİRİNCİ KISIM Genel Hükümler BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç ve kapsam
 
@@ -51,7 +51,7 @@ Hizmet bölgesi, hizmet grubu ve hizmet puanı: 8/6/2004 tarihli ve 25486 sayıl
 
 ifade eder.
 
-### ĠKĠNCĠ BÖLÜM ÇalıĢma Usul ve Esasları
+### İKİNCİ BÖLÜM Çalışma Usul ve Esasları
 
 #### Aile hekiminin görevleri
 
@@ -129,7 +129,7 @@ ile yetkili ve görevlidir.
 
 **Madde 6 –** Aile hekimliğine geçilen illerde gezici sağlık hizmeti bölgeleri, uygulama başlamadan önceki iki ay içinde, aile hekimliği uygulamalarına geçildikten sonra yapılmak istenen değişiklikler ise her yıl Ocak ve Temmuz aylarında il sağlık müdürlüğünün teklifi ve Bakanlığın uygun görüşüyle tesbit edilir. Gezici sağlık hizmeti vermekle yükümlü aile hekimleri atama sırasında belirlenir. Gezici sağlık hizmeti veren aile hekimlerinin, bölgelerindeki dağınık yerleşim birimlerine belirli bir plan dâhilinde periyodik olarak ulaşmaları ve bu şekilde hizmet vermeleri esastır. Bunu sağlamak için aile hekimi, coğrafi durum, iklim koşulları, ulaşım şartları ve kendisine bağlı olan yerleşim birimlerinin sayısını dikkate alarak hizmeti aksatmayacak şekilde ziyaret yapar ve programını köy/mahalle muhtarlar vasıtasıyla en geç bir önceki haftanın son iş günü saat 12.00’ye kadar duyurulmasını sağlar. Bu ziyaretlerin aile sağlığı elemanının görev yetki ve sorumlulukları çerçevesinde, aile hekimince uygun görülen kısmı aile sağlığı elemanınca da yapılabilir.
 
-#### BağıĢıklama hizmetleri
+#### Bağışıklama hizmetleri
 
 **Madde 7 –** Genişletilmiş bağışıklama programı ve gebe aşıları aile hekimi tarafından yürütülür. Aile hekimlerine ihtiyaçları olan aşılar ilçe sağlık grup başkanlıkları tarafından ulaştırılır.
 
@@ -137,7 +137,7 @@ ile yetkili ve görevlidir.
 
 **Madde 8 –** Hastaneye başvuruyu gerektiren ve aile hekiminin müdahil olamadığı acil durumlarda, hasta veya başvurulan acil servisin yetkilisi mümkün olan en kısa süre içerisinde aile hekimine/aile sağlığı merkezine gerekçesini belirterek yazılı olarak bilgi verir.
 
-#### KiĢilerin aile hekimini seçebileceği bölgeler
+#### Kişilerin aile hekimini seçebileceği bölgeler
 
 **Madde 9 –** Aile hekimliği uygulamasına geçilen yerlerde, kişilerin birinci basamak sağlık hizmetlerinden faydalanabilmesi için aile hekimlerine kaydolması şarttır. Kişilerin aile hekimlerine ilk kaydı, aile hekimliği uygulamalarına yeni geçilen illerde il sağlık müdürlüğü tarafından ikamet ettikleri bölge göz önünde bulundurularak yapılır. Daha sonra kişiler, bulundukları yerin coğrafi şartlarına göre yakın konumdaki aile hekimini zaman ve bölge sınırlaması olmaksızın serbestçe seçebilir. Kendi seçimini yapan kişinin aile hekimini değiştirmesi için en az altı ay beklemesi zorunludur. Aile hekimliği uygulamalarının olduğu bir il’e ikamet amacıyla yeni gelen kişiler bölgelerinde bulunan aile hekimlerinden istedikleri bir aile hekimine kayıt yaptırırlar. Kayıt yaptırmamışlarsa ilk ev halkı tespitinde tespit edilirler ve il sağlık müdürlüğü tarafından kendine kayıtlı kişi sayısı en az olan yakın konumdaki aile hekiminden başlanarak kayıtları yapılır.
 
@@ -153,7 +153,7 @@ Sürekli ikamet ettiği ilden uzakta kalacak kişi veya geçici süre ile Türki
 
 **Madde 10 –** Aile hekimi ve aile sağlığı elemanı sağlık hizmetlerinin yürütülmesi esnasında, 19/2/1960 tarihli ve 10436 sayılı Tıbbi Deontoloji Nizamnamesi ve bağlı bulunan ilgili mevzuat hükümlerine uymak ve hasta haklarına saygı göstermekle yükümlüdür.
 
-#### ÇalıĢma saatleri
+#### Çalışma saatleri
 
 **Madde 11 –** Aile hekimleri ve aile sağlığı elemanları tam gün esasına göre çalışırlar.
 
@@ -165,19 +165,19 @@ Aile hekimi ve aile sağlığı elemanları, yangın, deprem, sel felaketi gibi 
 
 Hizmetlerin devamlılığının sağlanabilmesi için gerekli durumlarda Bakanlık personeli görevlendirme suretiyle çalıştırılır.
 
-#### Ġzinler
+#### İzinler
 
 **Madde 12 –** Görevlendirme suretiyle çalıştırılan aile hekimleri ve aile sağlığı elemanları yıllık, mazeret izni ve hastalık izni yönünden, asli statülerine ilişkin mevzuata tâbidir.
 
 Sözleşme ile çalıştırılan aile hekimleri ve aile sağlığı elemanları yıllık, mazeret izni ve hastalık iznini 5258 sayılı Kanunun 8 inci maddesinin ikinci fıkrası uyarınca kullanırlar.
 
-#### Geri dönüĢ ve görev değiĢikliği
+#### Geri dönüş ve görev değişikliği
 
 **Madde 13 –** Sözleşmeli aile hekimleri ve aile sağlığı elemanları Bakanlık veya kurumlarının muvafakati ile göreve başlayabilirler. Bu görevlerini yürüttükleri sürece kurumlarından ücretsiz izinli sayılırlar ve kadroları ile ilişkileri devam eder.
 
 Sözleşmeli aile hekimleri ve aile sağlığı elemanları bu görevlerinden ayrılmaları halinde, genel hükümler ve Bakanlık mevzuatına göre memur veya sözleşmeli pozisyonlara geçebilirler.
 
-(DeğiĢik üçüncü fıkra: RG-24/03/2007-26472) Bakanlık kadrolarında memur statüsünde görev yapmakta iken ücretsiz izne ayrılarak sözleşmeli statüde aile hekimi veya aile sağlığı elemanı olan personel kendisinin vazgeçmesi veya herhangi bir suretle sözleşmesinin sona ermesi halinde, ücretsiz izine ayrıldığı görevine kadro veya personel dağılım cetveli fazlalığına bakılmaksızın geri döner. Aile Hekimliği uygulaması nedeniyle ücretsiz izne ayrıldığı birimin kaldırılması halinde ise bu birimin bulunduğu İlçe Sağlık Grup Başkanlığına atanır. Memuriyet görevine geri dönen personelin; personel dağılım cetvelinde açık olan ve doluluk oranlarına göre ihtiyaç duyulan kadrolardan birisine, memuriyet görevine başlamasından itibaren 30 gün içinde kendisinin talep etmesi ve İl Sağlık Müdürlüğünün de uygun görmesi ile bir defaya mahsus olmak üzere aynı il içinde yer değiştirme suretiyle ataması yapılabilir. Bu şekilde görevine geri dönen personel daha sonraki iş ve işlemleri için Bakanlık atama ve nakil mevzuatına tabi olur.
+(Değişik üçüncü fıkra: RG-24/03/2007-26472) Bakanlık kadrolarında memur statüsünde görev yapmakta iken ücretsiz izne ayrılarak sözleşmeli statüde aile hekimi veya aile sağlığı elemanı olan personel kendisinin vazgeçmesi veya herhangi bir suretle sözleşmesinin sona ermesi halinde, ücretsiz izine ayrıldığı görevine kadro veya personel dağılım cetveli fazlalığına bakılmaksızın geri döner. Aile Hekimliği uygulaması nedeniyle ücretsiz izne ayrıldığı birimin kaldırılması halinde ise bu birimin bulunduğu İlçe Sağlık Grup Başkanlığına atanır. Memuriyet görevine geri dönen personelin; personel dağılım cetvelinde açık olan ve doluluk oranlarına göre ihtiyaç duyulan kadrolardan birisine, memuriyet görevine başlamasından itibaren 30 gün içinde kendisinin talep etmesi ve İl Sağlık Müdürlüğünün de uygun görmesi ile bir defaya mahsus olmak üzere aynı il içinde yer değiştirme suretiyle ataması yapılabilir. Bu şekilde görevine geri dönen personel daha sonraki iş ve işlemleri için Bakanlık atama ve nakil mevzuatına tabi olur.
 
 Bakanlığa bağlı kurum ve kuruluşlarda sözleşmeli personel statüsünde çalışmakta iken aile hekimliği uygulamasını tercih eden aile hekimi/aile sağlığı elemanı, kamu hizmetinden çıkarılmayı gerektirecek bir fiil dışında, uygulamadan vazgeçmesi durumunda veya herhangi bir suretle sözleşmelerinin sona ermesi halinde, boş ise önceki sözleşmeli personel pozisyonlarına, bu pozisyon dolu ise aynı hizmet bölgesinde, bu bölgede boş pozisyon bulunmazsa sırasıyla üst hizmet bölgelerinde boş pozisyonlara öncelikle atanırlar.
 
@@ -203,7 +203,7 @@ Sevk oranları, bebek ve gebe izlemi ve aşılama oranlarının hesaplanmasına 
 
 ## DÖRDÜNCÜ BÖLÜM
 
-Atamalarda/Görevlendirmelerde Öncelik Sıralaması/Ölçütleri ve Nakillere ĠliĢkin Esaslar
+Atamalarda/Görevlendirmelerde Öncelik Sıralaması/Ölçütleri ve Nakillere İlişkin Esaslar
 
 #### Öncelik sıralaması
 
@@ -231,7 +231,7 @@ Aile sağlığı elemanları Bakanlıkça uygun görülen periyotlarda hizmet i�
 
 Aile hekimleri ve aile sağlığı elemanları bu eğitimlerin en az % 80’ine katılmak zorundadır.
 
-### ĠKĠNCĠ KISIM Fiziki ve Teknik ġartlar, Kullanılacak Belgeler ve Kayıtların Tutulması BĠRĠNCĠ BÖLÜM Fiziki ve Teknik ġartlar
+### İKİNCİ KISIM Fiziki ve Teknik ġartlar, Kullanılacak Belgeler ve Kayıtların Tutulması BİRİNCİ BÖLÜM Fiziki ve Teknik ġartlar
 
 #### Aile sağlığı merkezi
 
@@ -239,7 +239,7 @@ Aile hekimleri ve aile sağlığı elemanları bu eğitimlerin en az % 80’ine 
 
 Aynı aile sağlığı merkezinde görev yapan her bir aile hekimi ayrı ayrı sözleşme yapmak zorundadır.
 
-#### Fiziki Ģartlar
+#### Fiziki şartlar
 
 **Madde 21 –** Aile sağlığı merkezleri aşağıda belirtilen asgari fiziki şartları sağlamalıdır:
 
@@ -259,7 +259,7 @@ g) Hastaların kullanabileceği bir lavabo ve tuvalet olmalıdır.
 
 Muayene odası dışında bahsedilen diğer odalar aile hekimlerince müşterek kullanılabilir. Yukarıda bahsedilen odalardan (d), (e) ve (f) bentlerinde belirtilenler ayrı oda olmak zorunda değildir, uygun başka odalarla birleştirilebilir.
 
-#### Teknik Ģartlar
+#### Teknik şartlar
 
 **Madde 22 –** Aile sağlığı merkezinde aşağıda belirtilen asgari tıbbi cihaz ve malzemelerin bulundurulması zorunludur:
 
@@ -331,11 +331,11 @@ Merkezlerin belirlenmesinde, sağlık hizmetlerinin çeşidine ve niteliğine uy
 
 Göreve yeni başlayan aile hekimi mevcut personel ile hizmet vermeye başlar. İsterse hizmet verdiği mekânı il sağlık müdürlüğünün uygun görüşü ile değiştirebilir.
 
-#### Tetkik ve tahlil iĢlemleri
+#### Tetkik ve tahlil işlemleri
 
 **Madde 24 –** Aile hekimi, tanı ve takip için gerekli görülen basit görüntüleme ve laboratuvar tetkiklerini mümkünse kendi çalıştığı birimde yapar. Diğer laboratuvar hizmetleri ilçe sağlık grup başkanlığı bünyesinde sürdürülür veya il sağlık müdürlüğünün uygun gördüğü sağlık kuruluşunun laboratuvarında yaptırılır.
 
-### ĠKĠNCĠ BÖLÜM Kullanılacak Belgeler
+### İKİNCİ BÖLÜM Kullanılacak Belgeler
 
 #### Sevk evrakı ve reçete düzenlenmesi
 
@@ -357,9 +357,9 @@ Hasta sevk evrakı, reçete, rapor, bildirimi zorunlu hastalıklarla ilgili form
 
 Sosyal güvenlik kurumuna bağlı olarak sağlık güvencesine haiz olan kişilerin reçeteleri ilgili kurumun sağlık karnelerine yazılır. Kişinin herhangi bir sosyal güvenlik kuruluşu ile ilişkisinin bulunmaması halinde ise, Bakanlıkça belirlenen formata uygun şekilde bir nüsha halinde reçete tanzim edilir ve hastaya verilir. Bu durumda ilaç bilgileri dozajları ile birlikte kişi dosyasına işlenir.
 
-#### YetkilendirilmiĢ aile hekimleri
+#### Yetkilendirilmiş aile hekimleri
 
-**MADDE 26 –** (BaĢlığı ile birlikte değiĢik:RG-28/07/2006-26242)
+**MADDE 26 –** (Başlığı ile birlikte değişik:RG-28/07/2006-26242)
 
 Bakanlık dışında birinci basamak sağlık hizmeti veren, üniversiteler, askeri birlikler, hastaneler, kurum ve işyerlerinde herhangi bir suretle istihdam edilen, bakanlığın öngördüğü eğitimleri alan ve bu Yönetmelikteki fiziki ve teknik şartları temin eden hekimlere, kendi görev ve sorumluluk alanlarıyla sınırlı olmak kaydıyla, kendilerinin talebi ve kurumlarının teklifi üzerine valiliklerce aile hekimliği yetkisi verilir. Yetkilendirme sonrası hizmete özel sözleşme ile göreve başlatılır. Yetkilendirilmiş aile hekimi aile hekimliği uygulamasına yönelik mevzuat çerçevesinde görev yapar.
 
@@ -375,7 +375,7 @@ Kayıtlı kişi sayısı, yapılan hizmetlerin listesi, muayene edilen ve sevk e
 
 Aile hekimlerinin ve aile sağlığı elemanlarının kendileri ile ilgili kayıtları il sağlık müdürlüğünde tutulur.
 
-#### Kayıtların tutulma Ģekli ve muhafazası
+#### Kayıtların tutulma şekli ve muhafazası
 
 **Madde 28 –** Aile hekimi kendisine kayıtlı kişilerin kişisel sağlık dosyalarını tutmakla yükümlüdür. Kayıtların güvenliği ve mahremiyeti aile hekiminin sorumluluğundadır.
 
@@ -395,7 +395,7 @@ Atanan aile hekimi kayıtlı kişileri devralır. Acil bir sebeple görevinden a
 
 **Madde 30 –** Aile sağlığı merkezi, aile hekimleri ve aile sağlığı elemanları, mevzuat ve sözleşme hükümlerine uygunluk ve diğer konularda Bakan, ilgili mülkî idare amirleri ve yerel sağlık idare amirleri veya bunların görevlendireceği personelin denetimine tâbidir. Denetim yapmaya yetkili amir, mevzuat ve sözleşme şartlarına aykırılığı doğrudan kendisi tespit edebileceği gibi, tespiti yapmak üzere soruşturmacı da görevlendirebilir. Mevzuat ve sözleşme şartlarına aykırılık tespit edildiği takdirde, genel hükümler ve 5258 sayılı Kanunun 8 inci maddesinin ikinci fıkrası uyarınca ilgililer hakkında işlem tesis edilir.
 
-## ÜÇÜNCÜ KISIM Son Hükümler GEÇĠCĠ MADDE 1 – (Ek: RG-05/12/2006-26367)
+## ÜÇÜNCÜ KISIM Son Hükümler GEÇİCİ MADDE 1 – (Ek: RG-05/12/2006-26367)
 
 Bu Yönetmeliğin yürürlüğe girmesinden önce tamamlanmış birinci aşama uyum eğitimleri için eğiticilere il içi eğitimler için 1000, il dışı eğitimler için 1500 puan verilir.
 
@@ -409,9 +409,9 @@ Bu Yönetmeliğin yürürlüğe girmesinden önce tamamlanmış birinci aşama u
 
 (EK–1)
 
-### Aile Hekimliği Uygulamasında Atama ve Nakille Ġlgili Usul ve Esaslar
+### Aile Hekimliği Uygulamasında Atama ve Nakille İlgili Usul ve Esaslar
 
-#### Aile hekimliği uygulamasına geçiĢe ve nakillere iliĢkin puanlama sistemi ve sayıları
+#### Aile hekimliği uygulamasına geçişe ve nakillere ilişkin puanlama sistemi ve sayıları
 
 **Madde 1 –** Aile hekimliği uygulamasına geçilen illerde, sistemin hizmet sunumuna etkileri göz önüne alınarak personel dağıtım cetveli hazırlanır.
 
@@ -421,13 +421,13 @@ Kurumlar arası naklen atama için, Bakanlığın belirlediği ilkeler çerçeve
 
 Ülke genelinde unvan ve branşlar itibari ile personel dağılım cetveli doluluk karşılama oranı gözetilerek, pilot il personel dağılım cetvelinin hangi oranda atamaya açılacağına Bakanlıkça karar verilir.
 
-#### ÇalıĢılan yer, kurum ve statülerine göre öncelik sıralaması
+#### Çalışılan yer, kurum ve statülerine göre öncelik sıralaması
 
-**Madde 2 –** (DeğiĢik: RG-24/03/2007-26472)
+**Madde 2 –** (Değişik: RG-24/03/2007-26472)
 
 Aile Hekimliği uygulamasına geçilen illerde aşağıdaki düzenlemelere göre yerleştirme yapılır.
 
-A) SözleĢme ile çalıĢtırılacak aile hekimleri:
+A) Sözleşme ile çalıştırılacak aile hekimleri:
 
 I) İlk yerleştirme
 
@@ -475,7 +475,7 @@ Pilot ilde boş pozisyonlar bu sıralamaya göre doldurulamaz ise bu maddenin (A
 
 Aile hekimliği çalışma bölgesinde göreve başlayan sözleşmeli aile hekimi, bu bölgede 6 ay çalışmadan aynı ilde başka bir aile hekimliği çalışma bölgesine nakil talebinde bulunamaz. Bu kısıtlama uygulamaya geçilen pilot ilde ilk 6 aylık dönemde uygulanmaz.
 
-B) SözleĢmeli aile sağlığı elemanları:
+B) Sözleşmeli aile sağlığı elemanları:
 
 Ebe, hemşire ve sağlık memurları (toplum sağlığı) kendilerinin talebi ve Bakanlık veya kurumlarının muvafakati ile aşağıdaki öncelik ve şartlar gözetilmek suretiyle sözleşmeli aile sağlığı elemanı olarak istihdam edilir.
 
@@ -489,17 +489,17 @@ C) Görevlendirme:
 
 Pilot ilde boş aile hekimi ve aile sağlığı elemanı pozisyonları görevlendirme suretiyle doldurulur. Farklı ilçeden görevlendirme yapılması halinde, görevlendirme süresi, personelin rızası olmadıkça altı ayı geçemez.
 
-#### GeçiĢ dönemi sonrasında atama ve yer değiĢtirme
+#### Geçiş dönemi sonrasında atama ve yer değiştirme
 
 **Madde 3 –** A) Aile hekimleri:
 
 Naklen atanma talebinde bulunan aile hekimleri ile yeniden veya ilk defa işe başlamak isteyen uzman tabip ve tabipler aşağıdaki gruplar halinde hizmet puanına göre, hizmet puanı bulunmayanlar ise müracaat tarihine göre sıralanır:
 
-1) (DeğiĢik: RG-05/12/2006-26967) Naklen atanma talebinde bulunan aile hekimliği uzmanı tabipler.
+1) (Değişik: RG-05/12/2006-26967) Naklen atanma talebinde bulunan aile hekimliği uzmanı tabipler.
 
-2) (DeğiĢik: RG-05/12/2006-26967) Aile hekimleri.
+2) (Değişik: RG-05/12/2006-26967) Aile hekimleri.
 
-3) (DeğiĢik: RG-05/12/2006-26967) Kamu kurum ve kuruluşlarında çalışan tabip/diğer uzman tabipler.
+3) (Değişik: RG-05/12/2006-26967) Kamu kurum ve kuruluşlarında çalışan tabip/diğer uzman tabipler.
 
 4) (Ek: RG-05/12/2006-26967) Diğer tabip ve uzman tabipler.
 
@@ -519,7 +519,7 @@ Boş aile hekimliği ve aile sağlığı pozisyonlarının duyurulması, müraca
 
 Boşalan pozisyona müracaatı kabul edilen aile hekimi veya aile sağlığı elemanı en geç onbeş gün içinde görevine başlamak zorundadır.
 
-#### ÇeĢitli hükümler
+#### Çeşitli hükümler
 
 **Madde 4 –** Aile hekimi veya aile sağlığı elemanın bu Yönetmelik’te düzenlenen sistem dışında özür durumu gibi farklı nedenlerle naklen ataması yapılamaz. Bu konumdaki personel memur olarak görev yaparken sözleşmeli statüye geçmiş ise, bu statüye tekrar dönerek tayin talebinde bulunabilir veya bu Yönetmelik’teki düzenlemeye göre sıralamaya girebilir.
 
@@ -529,7 +529,7 @@ Aile hekimliği uygulamasına geçilen illerde bu bölümdeki özel düzenlemele
 
 EK-2 (Ek: RG-05/12/2006-26367)
 
-### EĞĠTĠM PUANLAMA TABLOSU EĞĠTĠM SAYISI EĞĠTĠM PUANI EĞĠTĠM PUANI (ĠL ĠÇĠ) (ĠL DIġI) 1 300 400 2 400 500 3 500 600 4 600 800 5 800 1000 6 800 1000 7 800 1000 8 600 800 9 500 600 10 400 500 11 300 400 12 200 300
+### EĞİTİM PUANLAMA TABLOSU EĞİTİM SAYISI EĞİTİM PUANI EĞİTİM PUANI (İL İÇİ) (İL DIġI) 1 300 400 2 400 500 3 500 600 4 600 800 5 800 1000 6 800 1000 7 800 1000 8 600 800 9 500 600 10 400 500 11 300 400 12 200 300
 
 13 100 200
 

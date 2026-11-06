@@ -24,7 +24,7 @@ durum: "yürürlükte"
 
 (Not: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı ile yapılan değişiklik metne işlenmiştir)
 
-### SAĞLIK BAKANLIĞI 4/B SÖZLEġMELĠ PERSONELĠNĠN YENĠDEN HĠZMETE ALINMASI VE KURUM ĠÇĠ YER DEĞĠġĠKLĠĞĠNE DAĠR YÖNERGE BĠRĠNCĠ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+### SAĞLIK BAKANLIĞI 4/B SÖZLEġMELİ PERSONELİNİN YENİDEN HİZMETE ALINMASI VE KURUM İÇİ YER DEĞİġİKLİĞİNE DAİR YÖNERGE BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç
 
@@ -64,13 +64,13 @@ f) Personel :657 sayılı Devlet Memurları Kanunu’nun 4/B
 
 maddesine göre çalışan sözleşmeli personeli,
 
-g) Ġl Komisyonu :İl Sağlık Müdürlükleri bünyesinde bu Yönergede
+g) İl Komisyonu :İl Sağlık Müdürlükleri bünyesinde bu Yönergede
 
 belirtilen iş ve işlemleri yürütmek üzere Valilik onayıyla kurulan 4/B Sözleşmeli
 
 Personel Komisyonu’nu,
 
-h) ĠKYS :Çekirdek kaynak yönetim sisteminin insan kaynakları
+h) İKYS :Çekirdek kaynak yönetim sisteminin insan kaynakları
 
 yönetim sistemi modülünü,
 
@@ -100,7 +100,7 @@ l) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Hizmet bölgesi
 
 ifade eder.
 
-### ĠKĠNCĠ BÖLÜM Yeniden Hizmete Alınma
+### İKİNCİ BÖLÜM Yeniden Hizmete Alınma
 
 **Madde 5 –** (1) Personel, Bakanlık adına sözleşme imzalamaya yetkili amirinden, fesih tarihini de belirterek doğum veya askerlik sebebiyle hizmet sözleşmesinin feshedilmesini dilekçeyle talep eder. Askerlik sebebiyle fesih talebinde bu tarih, askere sevk tarihini geçemez. Doğum nedeniyle hizmet sözleşmesinin feshi için doğum raporunun aslının veya resmi kurumlarca onaylı bir örneğinin; askerlik nedeniyle hizmet sözleşmesinin feshi için ise, askere sevk belgesinin resmi kurumlarca onaylı bir örneğinin fesih talebini içeren dilekçe ile birlikte sözleşme yapılan kurum veya kuruluşa verilmesi zorunludur. Dilekçede belirtilen fesih tarihi, sözleşmenin fesih tarihi olarak esas alınır.
 
@@ -116,13 +116,13 @@ gerekir.
 
 (4) Doğum ve askerlik sebebiyle hizmet sözleşmesi feshedilenler hariç olmak üzere; hizmet sözleşmelerini kendi istekleri ile feshedenler, fesih tarihinden itibaren bir yıl geçmeden Bakanlığa ait sözleşmeli personel pozisyonlarına yeniden atanamazlar. Bu sürenin sonunda yeniden hizmete alınma, 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname’nin ek 3 üncü maddesi hükümlerine tabidir.
 
-## ÜÇÜNCÜ BÖLÜM Kurum Ġçi Yer DeğiĢikliği
+## ÜÇÜNCÜ BÖLÜM Kurum İçi Yer Değişikliği
 
-#### KarĢılıklı yer değiĢikliği
+#### Karşılıklı yer değişikliği
 
-**Madde 6 –** (DeğiĢik madde: 23/03/2010 tarihli ve 96201 sayılı Bakan Onayı)
+**Madde 6 –** (Değişik madde: 23/03/2010 tarihli ve 96201 sayılı Bakan Onayı)
 
-(1) (DeğiĢik ibare: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı) Aynı unvan ve hizmet niteliklerine sahip pozisyonda çalışan personelin il içi veya aynı hizmet bölgesindeki il’ler arası karşılıklı yer değişikliği;
+(1) (Değişik ibare: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı) Aynı unvan ve hizmet niteliklerine sahip pozisyonda çalışan personelin il içi veya aynı hizmet bölgesindeki il’ler arası karşılıklı yer değişikliği;
 
 a) Pozisyonlarının vizeli olduğu il’de fiilen en az bir yıl çalışmış olmaları,
 
@@ -138,9 +138,9 @@ kaydıyla yapılabilir.
 
 (5) İl içinde karşılıklı yer değişikliği gerçekleşen personel, bir yıl geçmedikçe yeniden il içinde karşılıklı yer değişikliği talebinde bulunamaz.
 
-#### EĢ durumu nedeniyle yer değiĢikliği
+#### Eş durumu nedeniyle yer değişikliği
 
-**Madde 7 –** (DeğiĢik madde: 23/03/2010 tarihli ve 96201 sayılı Bakan Onayı)
+**Madde 7 –** (Değişik madde: 23/03/2010 tarihli ve 96201 sayılı Bakan Onayı)
 
 (1) Eş durumu nedeniyle il’ler arası yer değişikliği için boş sözleşmeli personel pozisyonları her yıl ocak ve temmuz aylarında Bakanlıkça tespit ve ilan edilir. Bu pozisyonlara yerleştirme kura ile yapılır.
 
@@ -162,7 +162,7 @@ gerekir.
 
 (5) Kadrolu personelin, sözleşmeli eşin görev yaptığı il’e nakil talebinde bulunabilmesi için o il’de standardın uygun olması şarttır. Kadrolu eşin, standardın uygun olmaması nedeniyle sözleşmeli eşin bulunduğu il’e atanamadığının, sözleşmeli personelin eş durumu nedeniyle yer değişikliği başvurularının alındığı tarihler arasında belgelendirilmesi halinde sözleşmeli personel, kadrolu eşin görev yaptığı il’e yer değişikliği talebinde bulunabilir.
 
-(6) (DeğiĢik fıkra: 21/09/2011 tarihli ve 263826 sayılı Bakan Onayı) Bu madde kapsamında en son yapılan eş durumu kurası için boş pozisyon ilan edilmemiş olması veya en son yapılan kura sonucu sözleşmeli personelin kadrolu çalışan eşinin bulunduğu il’e yerleştirilememesi durumunda, bir sonraki eş durumu kurası için boş sözleşmeli personel pozisyonlarının ilan edileceği tarihe kadar başvuruda bulunması ya da sözleşmeli personelin, pozisyonunun vizeli olduğu il’de fiilen en az bir yıl çalışmamış olması nedeniyle bu madde hükümlerinden yararlandırılamaması hallerinde kadrolu personel, sözleşmeli eşin görev yaptığı il’e standardın uygun olması kaydıyla atanır.
+(6) (Değişik fıkra: 21/09/2011 tarihli ve 263826 sayılı Bakan Onayı) Bu madde kapsamında en son yapılan eş durumu kurası için boş pozisyon ilan edilmemiş olması veya en son yapılan kura sonucu sözleşmeli personelin kadrolu çalışan eşinin bulunduğu il’e yerleştirilememesi durumunda, bir sonraki eş durumu kurası için boş sözleşmeli personel pozisyonlarının ilan edileceği tarihe kadar başvuruda bulunması ya da sözleşmeli personelin, pozisyonunun vizeli olduğu il’de fiilen en az bir yıl çalışmamış olması nedeniyle bu madde hükümlerinden yararlandırılamaması hallerinde kadrolu personel, sözleşmeli eşin görev yaptığı il’e standardın uygun olması kaydıyla atanır.
 
 (7) Kadrolu personelin eşinin, diğer kamu kurum veya kuruluşlarında 657 sayılı Devlet Memurları Kanunu’nun 4/B maddesine göre sözleşmeli personel olarak çalışması halinde ise kadrolu personel, eşinin görev yaptığı il’e standardın uygun olması kaydıyla atanır.
 
@@ -174,9 +174,9 @@ gerekir.
 
 (11) Kura sonucu, eş durumu nedeniyle görev yeri değişikliğine hak kazanan personelin atamaları Bakanlık tarafından il emrine yapılır. Bu personelin il içerisinde görev yapacakları hizmet birimleri, Bakanlıkça tespit edilen tarihler arasında Müdürlükler tarafından belirlenir. Görev yeri değiştirilen personel ile yeniden sözleşme imzalanır.
 
-#### Sağlık mazereti nedeniyle yer değiĢikliği
+#### Sağlık mazereti nedeniyle yer değişikliği
 
-**Madde 8 –** (DeğiĢik birinci fıkra: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)
+**Madde 8 –** (Değişik birinci fıkra: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)
 
 (1) Pozisyonunun bulunduğu il’de kendisinin veya kanunen bakmakla yükümlü olduğu eş, anne, baba veya çocuklarından birinin hastalığının tedavisinin mümkün olmadığını, eğitim ve araştırma hastanelerinden alınacak sağlık kurulu raporu ve görev yerinin bağlı bulunduğu il sağlık müdürlüğünden alınacak yazı ile belgelendirenlerin görev yeri Bakanlıkça değiştirilebilir.
 
@@ -190,33 +190,33 @@ gerekir.
 
 (2) Mazereti sona eren personelden;
 
-a) (DeğiĢik birinci cümle: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Eş durumu mazereti sona eren sözleşmeli personel, bulunduğu il D veya C hizmet grubunda ise veya mazereti, eşinin ölümü veya emekli olması nedeniyle sona ermiş ise talebi veya Bakanlıkça ihtiyaç duyulması halinde yerinde bırakılır. Aksi halde personel, D veya C hizmet grubunda aynı unvan ve niteliğe sahip boş pozisyon bulunan bir il’de sözleşme yapılarak çalıştırılır.
+a) (Değişik birinci cümle: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Eş durumu mazereti sona eren sözleşmeli personel, bulunduğu il D veya C hizmet grubunda ise veya mazereti, eşinin ölümü veya emekli olması nedeniyle sona ermiş ise talebi veya Bakanlıkça ihtiyaç duyulması halinde yerinde bırakılır. Aksi halde personel, D veya C hizmet grubunda aynı unvan ve niteliğe sahip boş pozisyon bulunan bir il’de sözleşme yapılarak çalıştırılır.
 
 b) Sağlık mazereti sona erenler ise, sağlık mazereti nedeniyle yer değişikliği gerçekleştirmeden önce pozisyonunun bulunduğu il sınırları içerisindeki aynı unvan ve niteliğe sahip boş pozisyonda, sözleşme yapılarak çalıştırılır. Bu ilde boş pozisyon bulunamaması halinde personel, boş pozisyon bulununcaya kadar sağlık mazereti nedeniyle çalıştığı ilde görevine devam eder.
 
-#### EĢi Ģehit olan personel
+#### Eşi şehit olan personel
 
 **Madde 10 –** (1) Aynı unvan ve niteliğe sahip boş pozisyon bulunması halinde, eşi şehit olan personelin üstleri vasıtasıyla Bakanlığa ulaştırılan yer değişikliği talebi, bir defaya mahsusen Bakanlıkça yerine getirilir. Personelin yer değişikliği talebinde bulunduğu il’de aynı unvan ve niteliğe sahip boş pozisyon bulunmaması halinde personel, yeniden yazılı talebi alınarak aynı unvan ve niteliğe sahip boş pozisyon bulunan başka bir il’de sözleşme yapılarak çalıştırılabilir.
 
 ## DÖRDÜNCÜ BÖLÜM
 
-#### Unvan değiĢikliği
+#### Unvan değişikliği
 
 **Madde 11 –** (1) Personelin, unvan değişikliği suretiyle atamasının yapılacağı pozisyon için öngörülen ilk defa hizmete alınma prosedürüne riayet edilmesi kaydıyla, unvan değişikliği mümkündür.
 
-### BEġĠNCĠ BÖLÜM
+### BEġİNCİ BÖLÜM
 
-ÇeĢitli Hükümler
+Çeşitli Hükümler
 
-#### Mazeret Sebebiyle Yer DeğiĢikliği Talep Edenlerden Ġstenen Belgeler
+#### Mazeret Sebebiyle Yer Değişikliği Talep Edenlerden İstenen Belgeler
 
 **Madde 12 –** (1) Bu Yönerge kapsamında;
 
 a) Eş durumu nedeniyle görev yeri değişikliği talebinde bulunanlardan;
 
-1) (DeğiĢik bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) PBS başvuru formu,
+1) (Değişik bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) PBS başvuru formu,
 
-2) (DeğiĢik bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Vukuatlı nüfus kayıt örneğinin aslı,
+2) (Değişik bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Vukuatlı nüfus kayıt örneğinin aslı,
 
 3) Eşinin kamu personeli olduğunu ve kurum içi görev yeri değişikliği mümkün olmayan veya mevzuatı uyarınca zorunlu yer değiştirmeye tabi tutulan bir görevde bulunduğunu belirten, son bir ay içerisinde eşinin çalıştığı kurumun personel biriminden alınmış atamaya yetkili amir veya yetki devri yapılan makamca imzalanmış belgenin aslı,
 
@@ -240,7 +240,7 @@ c) Eşinin şehit olması nedeniyle görev yeri değişikliği talebinde bulunan
 
 ile Bakanlıkça gerekli görülen belgeler istenir.
 
-#### Görev yeri değiĢen personel
+#### Görev yeri değişen personel
 
 **Madde 13 –** (1) Bu Yönergenin 6, 7 ve 8 inci maddelerine göre görev yeri değişen personelden, süresi içerisinde görevine başlamayanların hizmet sözleşmeleri, kendi istekleriyle tek taraflı olarak feshedilmiş sayılır.
 
@@ -248,15 +248,15 @@ ile Bakanlıkça gerekli görülen belgeler istenir.
 
 (3) (Ek fıkra: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)
 
-(DeğiĢik ibare: 23/03/2010 tarihli ve 96201 sayılı Bakan Onayı) İl’ler arası olmak üzere; karşılıklı yer değişikliği, eş durumu, sağlık mazereti veya eşinin şehit olması nedeniyle görev yeri değiştirilenler, sigortalılık işlemleri ve hizmet sözleşmesi yapılması amacıyla yeni görev yerine müracaat etmek üzere ayın 14 üncü günü mesai bitimine kadar beş işgünü izinli sayılır. Bu personelin eski görev yerleri ile ilişikleri, ayın 14 üncü günü mesai bitimi itibariyle sona erer. Sözleşmeli personel hizmet sözleşmesi imzalayarak ayın 15 inci günü yeni yerinde göreve başlatılır.
+(Değişik ibare: 23/03/2010 tarihli ve 96201 sayılı Bakan Onayı) İl’ler arası olmak üzere; karşılıklı yer değişikliği, eş durumu, sağlık mazereti veya eşinin şehit olması nedeniyle görev yeri değiştirilenler, sigortalılık işlemleri ve hizmet sözleşmesi yapılması amacıyla yeni görev yerine müracaat etmek üzere ayın 14 üncü günü mesai bitimine kadar beş işgünü izinli sayılır. Bu personelin eski görev yerleri ile ilişikleri, ayın 14 üncü günü mesai bitimi itibariyle sona erer. Sözleşmeli personel hizmet sözleşmesi imzalayarak ayın 15 inci günü yeni yerinde göreve başlatılır.
 
-#### Ġl Komisyonu TeĢekkülü ve Görevleri
+#### İl Komisyonu Teşekkülü ve Görevleri
 
 **Madde 14 –** (1) İl Sağlık Müdürlükleri bünyesinde, bu Yönergede belirtilen iş ve işlemleri yürütmek üzere İl Sağlık Müdürü’nün teklifi ve Valilik Onayıyla 4/B Sözleşmeli Personel İl Komisyonu kurulur. İl Komisyonu, İl Sağlık Müdürü veya personelden sorumlu İl Sağlık Müdür Yardımcısı’nın başkanlığında toplam beş kişiden oluşur. Üyelerden biri Personel Şube Müdürü olmak kaydıyla, Başkan ve diğer üyeler İl Sağlık Müdürünce belirlenir. İl Komisyonu, bu Yönergede belirtilen iş ve işlemler ile Bakanlıkça verilen görevleri yürütür.
 
 #### Aile Hekimliği Uygulamasına Geçme ve Ayrılma
 
-**Ek Madde 1 –** (DeğiĢik Ek Madde: 07/04/2011 tarihli ve 80506 sayılı Bakan Onayı)
+**Ek Madde 1 –** (Değişik Ek Madde: 07/04/2011 tarihli ve 80506 sayılı Bakan Onayı)
 
 (1) 5258 sayılı Kanun kapsamında aile hekimliği uygulamasına geçmek isteyen ebe, hemşire ve sağlık memuru (toplum sağlığı teknisyeni veya acil tıp teknisyeni) unvanlı 4/B sözleşmeli personel, hizmet sözleşmesini feshederek pozisyonunun bulunduğu il’deki aile sağlığı merkezlerinde sözleşmeli aile sağlığı elemanı olarak çalıştırılabilir.
 

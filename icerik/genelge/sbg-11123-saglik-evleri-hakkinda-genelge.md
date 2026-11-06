@@ -12,9 +12,9 @@ durum: "yürürlükte"
 
 Sayı :B100TSH0130001 ANKARA Konu:Sağlık evleri
 
-### 19.10.2004 016043 …………… VALĠLĠĞĠNE (Ġl Sağlık Müdürlüğü) GENELGE 2004/127
+### 19.10.2004 016043 …………… VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE 2004/127
 
-ĠLGĠ:18.10.2004 tarihli ve 9964 sayılı Makam Onayı.
+İLGİ:18.10.2004 tarihli ve 9964 sayılı Makam Onayı.
 
 Bilindiği gibi, Sağlık Hizmetlerinin Sosyalleştirildiği Bölgelerde Hizmetin Yürütülmesi hakkında Yönetmelik ve Sağlık Hizmetlerinin Yürütülmesi Hakkında Yönerge’de Sağlık Ocaklarına bağlı hizmetin gerektirdiği sayıda çok yönlü sağlık hizmeti veren sağlık evleri bulunacağı belirtilmektedir. Sağlık evleri sağlık ocağının bulunduğu yerleşim yeri dışındaki yerleşim yerlerinde (ocağa bağlı uygun köylerde) ulaşılabilirliği kolaylaştırmak için oluşturulan yapılanmalar olmasına karşın zaman içinde sağlık ocağının bulunduğu yerleşim yerindeki sağlık ocağı ebelerinin hizmet bölgeleri mahalle sağlık evi olarak değerlendirilerek, sağlık ocağı ebelerinin atamaları sağlık ocağı yerine mahalle sağlık evlerine yapılmıştır.
 
@@ -32,10 +32,10 @@ Müsteşar Ek:Makam Onayı
 
 ### DAĞITIM :
 
-81 Ġl Valiliği
+81 İl Valiliği
 
 ---
 
 **Dipnotlar**
 
-<small>SAĞLIK OCAKLARI DAĠRE BAġKANLIĞI Tel : 0 (312) 435 64 40 / 1242 Faks : 0 (312) 434 44 49</small>
+<small>SAĞLIK OCAKLARI DAİRE BAġKANLIĞI Tel : 0 (312) 435 64 40 / 1242 Faks : 0 (312) 434 44 49</small>
