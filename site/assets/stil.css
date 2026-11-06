@@ -38,8 +38,13 @@ table.kunye th{background:var(--vurgu);text-align:left;padding:7px 12px;width:19
 table.kunye td{padding:7px 12px;border:1px solid var(--cizgi);word-break:break-word}
 .etiketler{text-align:center;margin-bottom:12px}
 .etiket{display:inline-block;background:var(--vurgu);border-radius:12px;padding:2px 10px;margin:2px;font-size:.8rem;text-decoration:none}
-.metin-ara{display:flex;gap:10px;align-items:center;margin:10px 0 14px}
+.metin-ara{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:10px 0 14px}
 .metin-ara input{flex:1;max-width:420px;padding:9px 12px;border:1px solid var(--cizgi);border-radius:6px}
+.sirala{display:inline-flex;gap:6px;align-items:center;font-size:.92rem;color:#444;white-space:nowrap}
+.sirala select{padding:8px 10px;border:1px solid var(--cizgi);border-radius:6px;background:#fff;font:inherit}
+table.liste th[data-sirala]{cursor:pointer;user-select:none}
+table.liste th[aria-sort=ascending]::after{content:" ▲";font-size:.75em}
+table.liste th[aria-sort=descending]::after{content:" ▼";font-size:.75em}
 .metin{max-width:900px;margin:0 auto;font-family:"Times New Roman",Georgia,serif;font-size:1.07rem;text-align:justify}
 .metin h2,.metin h3{text-align:center;font-size:1.05rem;margin:22px 0 8px}
 .metin h4{margin:16px 0 2px;font-size:1rem}

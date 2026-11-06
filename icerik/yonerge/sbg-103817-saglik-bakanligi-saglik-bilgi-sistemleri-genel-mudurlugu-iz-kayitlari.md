@@ -9,587 +9,190 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-### Kaynak sayfalarının metni (PDF s. 1–6)
+# SAĞLIK BAKANLIĞI SAĞLIK BİLGİ SİSTEMLERİ GENEL MÜDÜRLÜĞÜ
+# İZ KAYITLARI YÖNETİMİ YÖNERGESİ
 
-SAĞLIK BAKANLIĞI SAĞLIK BİLGİ SİSTEMLERİ GENEL MÜDÜRLÜĞÜ
-İZ KAYITLARI YÖNETİMİ YÖNERGESİ
-BİRİNCİ BÖLÜM
-Amaç, Kapsam, Dayanak ve Tanımlar
-Amaç
-MADDE 1- (1) Bu Yönerge'nin amacı, Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel
-Müdürlüğü tarafından işletilen bilgi sistemleri üzerinde gerçekleştirilen iş ve işlemlerin takip
-edilebilirliğini sağlamak maksadıyla; her seviyedeki sistem bileşeni tarafından üretilmesi
-gereken iz kayıtlarının asgari düzeyde içeriğini, bu kayıtların saklama süresi ve koşullarını
-belirlemektir.
-Kapsam
-MADDE 2- Bu Yönerge Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğünü
-kapsar.
-Dayanak
-MADDE 3- (1) Bu Yönerge, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı
-Hakkında Cumhurbaşkanlığı Kararnamesinin 358 inci maddesinin birinci fıkrası (a) bendine
-ve 508 inci maddesinin birinci fikrasına dayanılarak hazırlanmıştır.
-Tanımlar
-MADDE 4- (1) Bu Yönerge'nin uygulanmasında;
+## BİRİNCİ BÖLÜM
+### Amaç, Kapsam, Dayanak ve Tanımlar
+
+### Amaç
+
+**MADDE 1-** (1) Bu Yönerge’nin amacı, Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğü tarafından işletilen bilgi sistemleri üzerinde gerçekleştirilen iş ve işlemlerin takip edilebilirliğini sağlamak maksadıyla; her seviyedeki sistem bileşeni tarafından üretilmesi gereken iz kayıtlarının asgari düzeyde içeriğini, bu kayıtların saklama süresi ve koşullarını belirlemektir.
+
+### Kapsam
+
+**MADDE 2-** Bu Yönerge Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğünü kapsar.
+
+### Dayanak
+
+**MADDE 3-** (1) Bu Yönerge, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 358 inci maddesinin birinci fıkrası (a) bendine ve 508 inci maddesinin birinci fıkrasına dayanılarak hazırlanmıştır.
+
+### Tanımlar
+
+**MADDE 4-** (1) Bu Yönerge’nin uygulanmasında;
+
 a) Bakanlık: Sağlık Bakanlığını,
-b) Bilgi: Kurum için değeri olan, uygun bir şekilde korunması gereken ve bilgi
-sistemleri üzerinde işlenen tüm kaynakları,
-c) Bilgi işleme: Veri ve bilgilerin manuel veya bir otomasyon sisteminin parçası
-olarak elde edilmesi, kaydedilmesi, depolanması, muhafazası, değiştirilmesi,
-yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hâle
-getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veri ve
-bilgiler üzerinde gerçekleştirilen her türlü işlemi,
-d) Bilgi sistemleri: Bilginin toplanması, işlenmesi, saklanması, dağıtımı ve
-kullanımına yönelik insan kaynağı, operasyonel faaliyetler ve süreçler ile bunlarla
-etkileşim içinde bulunan bilgi teknolojilerini,
-e) Bilgi teknolojileri: Herhangi bir biçimdeki verinin, girişinin yapılması, saklanması,
-işlenmesi, iletilmesi ve çıktılarının alınması için kullanılan donanım, yazılım,
-iletişim altyapısı ve ilgili diğer teknolojileri,
+
+b) Bilgi: Kurum için değeri olan, uygun bir şekilde korunması gereken ve bilgi sistemleri üzerinde işlenen tüm kaynakları,
+
+c) Bilgi işleme: Veri ve bilgilerin manuel veya bir otomasyon sisteminin parçası olarak elde edilmesi, kaydedilmesi, depolanması, muhafazası, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veri ve bilgiler üzerinde gerçekleştirilen her türlü işlemi,
+
+d) Bilgi sistemleri: Bilginin toplanması, işlenmesi, saklanması, dağıtımı ve kullanımına yönelik insan kaynağı, operasyonel faaliyetler ve süreçler ile bunlarla etkileşim içinde bulunan bilgi teknolojilerini,
+
+e) Bilgi teknolojileri: Herhangi bir biçimdeki verinin, girişinin yapılması, saklanması, işlenmesi, iletilmesi ve çıktılarının alınması için kullanılan donanım, yazılım, iletişim altyapısı ve ilgili diğer teknolojileri,
+
 f) Genel Müdürlük: Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
+
 g) Genel Müdür: Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürünü,
-h) Işletim güvenliği verisi: Bilgi teknolojileri tarafından donanım, yazılım veya
-cihazların desteklediği yetenekler çerçevesinde bilgi sistemleri iş sürekliliği, sistem
-işletim güvenliği ve hata ayıklama gibi maksatlarla üretilen verileri,
-1) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü veriyi,
 
+h) İşletim güvenliği verisi: Bilgi teknolojileri tarafından donanım, yazılım veya cihazların desteklediği yetenekler çerçevesinde bilgi sistemleri iş sürekliliği, sistem işletim güvenliği ve hata ayıklama gibi maksatlarla üretilen verileri,
 
-j) Kişisel sağlık verisi: Kimlıği belirli ya da belirlenebilir gerçek kişinin fıziksel ve
-ruhsal sağlığına ilişkin her türlü bilgi ile kişiye sunulan sağlık hizmetiyle ilgili
-bilgileri,
-k) Kritik veri: Kişisel sağlık verileri başta olmak üzere; özel nitelikli kişisel veriyi,
-insan kaynakları yönetimi faaliyetleri kapsamında kişilerin özlük bilgilerini, ilgili
-mevzuat ve kurum içi düzenlemeler gereği sır olarak saklanması gereken verileri,
-1) Kurumsal veri: Kritik veriler ve işletim güvenliği verileri haricinde kalan, kişisel
-verileri de içeren diğer verileri,
+i) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü veriyi,
+
+j) Kişisel sağlık verisi: Kimliği belirli ya da belirlenebilir gerçek kişinin fiziksel ve ruhsal sağlığına ilişkin her türlü bilgi ile kişiye sunulan sağlık hizmetiyle ilgili bilgileri,
+
+k) Kritik veri: Kişisel sağlık verileri başta olmak üzere; özel nitelikli kişisel veriyi, insan kaynakları yönetimi faaliyetleri kapsamında kişilerin özlük bilgilerini, ilgili mevzuat ve kurum içi düzenlemeler gereği sır olarak saklanması gereken verileri,
+
+l) Kurumsal veri: Kritik veriler ve işletim güvenliği verileri haricinde kalan, kişisel verileri de içeren diğer verileri,
+
 m) Veri: Bilginin işlenmemiş halini,
-n) Veri işleme: Verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri
-kayıt sisteminin parçası olarak elde edilmesi, kaydedilmesi, depolanması,
-muhafazası, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması,
-devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da
-kullanılmasının engellenmesi gibi veri ve bilgiler üzerinde gerçekleştirilen her
-türlü işlemi,
+
+n) Veri işleme: Verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olarak elde edilmesi, kaydedilmesi, depolanması, muhafazası, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veri ve bilgiler üzerinde gerçekleştirilen her türlü işlemi,
+
 ifade eder.
-İKİNCİ BÖLÜM
-Iz Kayıtları Oluşturma Esasları ve Saklama Süreleri
-MADDE 5 - (1) Bilgi sistemlerinin ve bu sistemler vasıtasıyla yürütülen faaliyetlerin
-boyutu ve karmaşıklığıyla orantılı olacak şekilde, bilgi sistemleri dâhilinde gerçekleşen işlem
-ve olaylara ilişkin iz kayıtları alınır. Iz kayıtları, işlemin doğasına uygun detay ve içerikte,
-asgari olarak aşağıdaki bilgileri barındırır:
+
+## İKİNCİ BÖLÜM
+### İz Kayıtları Oluşturma Esasları ve Saklama Süreleri
+
+**MADDE 5 –** (1) Bilgi sistemlerinin ve bu sistemler vasıtasıyla yürütülen faaliyetlerin boyutu ve karmaşıklığıyla orantılı olacak şekilde, bilgi sistemleri dâhilinde gerçekleşen işlem ve olaylara ilişkin iz kayıtları alınır. İz kayıtları, işlemin doğasına uygun detay ve içerikte, asgari olarak aşağıdaki bilgileri barındırır:
+
 a) Kaydı oluşturan sistem,
+
 b) Kaydın oluşturulduğu tarih, saat ve zaman dilimi bilgisi,
-c) Kaydı oluşturan işlem ya da olayla birlikte, varsa gerçekleştirilen değişikliğin ne
-olduğunu gösteren bilgi,
+
+c) Kaydı oluşturan işlem ya da olayla birlikte, varsa gerçekleştirilen değişikliğin ne olduğunu gösteren bilgi,
+
 ç) Kaydın ilişkili olduğu tekil kullanıcıyı veya sistemi gösteren bilgi.
-(2) Alınan iz bilgilerinin, yaşanan bilgi güvenliği olaylarının sonradan incelenmesine
-ve bunlar hakkında güvenilir delillerin elde edilmesine imkân tanıyacak nitelikte olması
-sağlanır.
-(3) Kritik verilere; erişim, sorgulama, görüntüleme, kopyalama, değiştirme ve silme
-işlemleri ile bu bilgilerin işlendiği bilgi varlıklarına yönelik erişim yetkilerinin verilmesi,
-değiştirilmesi ve geri alınması işlemlerine ilişkin iz kayıtları asgari üç yıl boyunca saklanır.
-(4) Kurumsal verilere; erişim, sorgulama, görüntüleme, kopyalama, değiştirme ve silme
-işlemleri ile bu bilgilerin işlendiği bilgi varlıklarına yönelik erişim yetkilerinin verilmesi,
-değiştirilmesi ve geri alınması işlemlerine ilişkin iz kayıtları asgari iki yıl boyunca saklanır.
-(5) Başkaca bir yasal düzenleme bulunmaması halinde işletim güvenliği iz kayıtları için
-daha farklı saklama süreleri belirlenebilir.
 
-ÜÇÜNCÜ BÖLÜM
-Diğer Hususlar
-MADDE 6 - (1) Bakanlık bilgi sistemleri tarafından oluşturulması gereken iz kayıtları ile ilgili
-detaylar Ek-1 Çizelge'de olduğu gibidir.
-(2) Iz kayıtlarının saklama koşulları, saklama süreleri, yedekleme koşulları, varsa
-aktarılma koşulları; ilgili sistem veya uygulamanın sahipleri tarafından belirlenir ve Ek-2
-Form'a uygun olarak kayıt altına alınır.
-(3) Uretilen iz kayıtlarının zamansal olarak tutarlılığını sağlamak maksadıyla iz kaydı
-üreten sistem ve uygulamaların zaman sunucuları ile senkronize edilmesi sağlanır.
-(4) Iz kayıtlarının bütünlüğünün bozulmasının önlenmesine ve herhangi bir bozulma
-durumunda bunun tespit edilebilmesine ilişkin gerekli tedbirler alınır.
-(5) Iz kayıtlarına, bilmesi gereken prensibine uygun olarak sadece erişim yetkisi verilen
-kişilerin ulaşabilmesi ve iz kayıtlarının yetkisiz müdahalelere karşı korunması sağlanır.
-DÖRDÜNCÜ BÖLÜM
-Çeşitli ve Son Hükümler
-Eklerin Güncellenmesi
-MADDE 7- (1) Ek-1 Çizelge ve Ek-2 Form; yasal mevzuatta meydana gelen
-değişiklikler, sistemsel gereksinimler ve kapsam dahilinde yer alan birimler tarafından yapılan
-geri bildirimler doğrultusunda Genel Müdürlük tarafından güncellenir. Güncellenen Çizelge
-ve Form, Genel Müdürlüğün web sayfasında yayımlanır.
-Yürürlük
-MADDE 8- (1) Bu Yönerge hükümleri onaylandığı tarihten altı ay sonra yürürlüğe
-girer.
-Yürütme
-MADDE 9- (1) Bu Yönerge hükümlerini Genel Müdür yürütür.
+(2) Alınan iz bilgilerinin, yaşanan bilgi güvenliği olaylarının sonradan incelenmesine ve bunlar hakkında güvenilir delillerin elde edilmesine imkân tanıyacak nitelikte olması sağlanır.
 
-İZ KAYITLARI YÖNETİMİ YÖNERGESİ EK-1 ÇİZELGE
-Iz Bilgisi Ureten
-Saklama Süresi
-Sira No
-Kayıt Türü Açıklaması
-Kayıt Türü
-Zorunluluk Durumu
-Üretilecek İz Bilgisi Detayı
-Sistem
-Otomatik olarak
-üretilmeyen, uygulama
-•Kullanicı Id/Kullanicı Adi: (Zorunlu)
-•Proje Adı/Proje Id: (Zorunlu)
-ihtiyaçlarına binaen
-uygulama geliştirici
-•Log Açıklama: (Zorunlu)
-Uygulama iz
-Açıklama 1 uygulanacaktır.
-Yönerge m.5/3 veya m.5/4
-tarafından özel olarak
-•Tarih ve Saat: (Zorunlu)
-Uygulamalar
-Kayıtları
-uygulanacaktır.
-yapılan kayıt işlemleridir.
-• Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json
-Diğer iz kayıt türlerine göre
-olarak toplandıktan sonra SHA256 algoritmasına göre hash
-değerinin saklandığı alandır.
-daha anlamsal veriler ve
-mesajlar içerebilir.
-•Kullanıcı Id/Kullanıcı Adı: (Zorunlu)
-• Erişim Sağlanan Servis Adı: (Zorunlu)
-• Erişim Sağlanan Metot: (Zorunlu)
-•Kaynak IP: (Opsiyonel)
-•Gönderilen URL: (Zorunlu)
-ç Servis - API
-Uygulama arka planında
-•Gönderilen Istek Mesajı: opsiyonel (verinin kritikliği baz
-(Application
-"MicroService" ya da servis
-Yönerge m.5/3, m.5/4 veya
-Açıklama 1 uygulanacaktır. alınarak saklanmalıdır.)
-tabanlı mimari gibi çok fazla
-Uygulamalar
-Programming
-•Cevap Mesajı : opsiyonel (özel nitelikli kişisel verilerde
-m.5/5 uygulanacaktır.
-Interface) iz
-servisin çalıştığı uygulamalar
-saklanmalıdır)
-için kullanılır.
-Kayıtları
-•Istek Tarih ve Saat: (Zorunlu)
-•Metot cevap süresi:
-•Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json
-olarak toplandıktan sonra SHA256 algoritmasına göre hash
-değerinin saklandığı alandır.
-•Kullanicı Id/Kullanıcı Adı: (Zorunlu)
-• Erişim Sağlanan Servis Adiı: (Zorunlu)
-• Erişim Sağlanan Metot: (Zorunlu)
-•Kaynak IP: (Opsiyonel)
-•Gönderilen URL: (Zorunlu)
-Servisler üzerinden dış
-•Gönderilen İstek Mesajı: Opsiyonel(verinin kritikliği baz
-uygulamalar ile yapılan
-Diş Servis iz
-Yönerge m.5/3, m.5/4 veya
-Açıklama 1 uygulanacaktır. alınarak saklanmalıdır.)
-Uygulamalar
-Kayıtları
-erişimleri kayıt altına almak
-•Cevap Mesajı : Opsiyonel (özel nitelikli kişisel verilerde
-m.5/5 uygulanacaktır.
-amacıyla kullanılır.
-saklanmalıdır)
-•İstek Tarih ve Saat: (Zorunlu)
-•Metot cevap süresi: Opsiyonel
-•Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json
-olarak toplandıktan sonra SHA256 algoritmasına göre hash
-değerinin saklandığı alandır.
-•Kullanıcı Id/Kullanicı Adı: (Zorunlu)
-•Veritabanı Kullanıcı Adı: (Zorunlu)
-•Kaynak IP: (Opsiyonel)
-•İşlem Tipi: (Zorunlu)
-EKLEME/GÜNCELLEME/SİLME/SORGULAMA
-•Eski Veri: (Zorunlu) SİLME ve GÜNCELLEME işlemlerinde
-Uygulama Denetim Uygulamada yapılan veri
-Açıklama 1 ve
-JSON olarak saklanacaktır.
-(Veri Tabani
-Açıklama 2 uygulanacaktır.
-Yönerge m.5/3 veya m.5/4
-Uygulamalar
-tabanı hareketlerini kayıt
-•Yeni Veri: (Zorunlu)EKLEME ve GÜNCELLEME işlemlerinde
-Hareketleri)
-uygulanacaktır.
-altına almak için kullanılır.
-JSON olarak saklanacaktır.
-Kayıtları
-•Sorgu Koşulu: (Zorunlu) SORGULAMA, SİLME ve
-GÜNCELLEME işlemlerinde saklanacaktır.
-•Istek Tarih ve Saat: (Zorunlu)
-•Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json
-olarak toplandıktan sonra SHA256 algoritmasına göre hash
-değerinin saklandığı alandır.
-• Kullanıcı Id/Kullanıcı Adı: (Zorunlu)
-•Kaynak IP: (Opsiyonel)
-Başarılı ve başarısız kimlik
-Oturum Açma Iz
-•İstek Tarih ve Saat: (Zorunlu)
-doğrulama olaylarını kayıt
-Yönerge m.5/3 veya m.5/4
-Oturum açma işlemi varsa
-Uygulamalar
-Kayıtları (Logon/
-• Login Başarı Durumu: (Zorunlu)
-tutulmasi zorunludur.
-altına almak amacıyla
-uygulanacaktır.
-Logoff)
-•Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json
-kullanılır.
-olarak toplandiktan sonra SHA256 algoritmasına göre hash
-değerinin saklandığı alandır.
-•Kullanıcı Id/Kullanicı Adı: (Opsiyonel)
-•Sunucu Adi: (Opsiyonel)
-Uygulamalarda oluşan hata
-•Erişim Sağlanan Metot: (Opsiyonel)
-Yönerge m.5/5
-Hata Mesajları İz
-ve dataylarının kayıtlarıdır.
-6 Uygulamalar
-•Kaynak IP: (Opsiyonel)
-Tutulması zorunludur.
-Kayıtları
-uygulanacaktır.
-Sistem yönetimi için
-•Gönderilen URL: (Opsiyonel)
-gereklidir.
-•Hata Mesaji: (Opsiyonel)
-•StackTrace: (Opsiyonel)
-Orta katman uygulamasının
-Yönerge m.5/5
-Orta Katman
-Orta Katman
-Tutulması zorunludur.
-yönetimi ve izlenmesi için
-Orta katman uygulama log kayıtları
-Yazılımları
-Yönetim Iz Kayıtları
-uygulanacaktır.
-gerekli olan iz kayıtlarıdır.
-• Erişim Zamanı: (Zorunlu)
-•Kaynak IP: (Opsiyonel)
-Çizelge'nin 10 sıra numaral
-Çizelge'nin 10 sıra
-•Kaynak Port:
-numaralı maddesi
-maddesi kapsaminda
-Orta Katman
-•Hedef IP: (Zorunlu)
-Orta Katman Erişim Orta katman uygulamasının
-tutulmayan erişimler için 2
-kapsamında iz kayıtları
-erişim iz kayıtlarıdır.
-İz Kayıtları
-•Hedef Adres (URL): (Zorunlu)
-Yazılımları
-tutulmayan erişimler için
-Vıl saklanır. Bunun dışında
-•Hedef Port:
-tutulması zorunludur.
-Yönerge m.5/5 uygulanır
-•HTTP Durum Kodu: (Zorunlu)
-•İstek Metodu: (Opsiyonel)
-Yönerge m.5/5
-Orta Katman
-Orta Katman Hata
-Orta katman uygulamasının
+(3) Kritik verilere; erişim, sorgulama, görüntüleme, kopyalama, değiştirme ve silme işlemleri ile bu bilgilerin işlendiği bilgi varlıklarına yönelik erişim yetkilerinin verilmesi, değiştirilmesi ve geri alınması işlemlerine ilişkin iz kayıtları asgari üç yıl boyunca saklanır.
 
-Tutulması zorunludur.
-Orta katman hata log kayıtları
-Yazılımları
-uygulanacaktır.
-hata iz kayıtlarıdır
-İz Kayıtları
-•Erişim Tarihi: (Zorunlu)
-•Kaynak IP: (Opsiyonel)
-•Kaynak Port:
-Bakanlık uygulamalarına
-Ağ ve Güvenlik
-•Hedef IP: (Zorunlu)
-Yer Sağlayıcı Trafik
+(4) Kurumsal verilere; erişim, sorgulama, görüntüleme, kopyalama, değiştirme ve silme işlemleri ile bu bilgilerin işlendiği bilgi varlıklarına yönelik erişim yetkilerinin verilmesi, değiştirilmesi ve geri alınması işlemlerine ilişkin iz kayıtları asgari iki yıl boyunca saklanır.
 
-Tutulmasi zorunludur.
-2 Yil
-yapılan erişimleri kayıt altına
-Sistemleri
-Bilgisi
-•Hedef Adres (URL): (Zorunlu)
-almak amacıyla kullanılır.
-•Hedef Port:
-•HTTP Durum Kodu: (Zorunlu)
-•Istek Metodu: (Zorunlu)
+(5) Başkaca bir yasal düzenleme bulunmaması halinde işletim güvenliği iz kayıtları için daha farklı saklama süreleri belirlenebilir.
 
+## ÜÇÜNCÜ BÖLÜM
+### Diğer Hususlar
 
-• Erişim Tarihi: (Zorunlu)
-•Kaynak IP: (Opsiyonel)
-•Kaynak Mac Adresi: (Zorunlu)
-Kurumsal ağ üzerinden
-•Kullanıcı Adı: (Zorunlu)
-Ağ ve Güvenlik
-Kullanicı Internet
-kullanıcıların internet
-2 YıI
-Tutulması zorunludur.
-•Hedef Host adi: (Zorunlu)
+**MADDE 6 –** (1) Bakanlık bilgi sistemleri tarafından oluşturulması gereken iz kayıtları ile ilgili detaylar Ek-1 Çizelge’de olduğu gibidir.
 
-Sistemleri
-Erişim İz Kayıtları
-erişimlerini kayıt altına
-• Hedef Port: (Zorunlu)
-almak için kullanılır.
-•Istek Metodu: (Zorunlu)
-*Uygulama Protokolü: (Zorunlu)
-•HTTP Durum Kodu: (Zorunlu)
-Kurumsal ağa bağlı olarak
-çalışan ve IP adreslerini
-DHCP vasitası ile dinamik
-•Kiralama Tarihi: (Zorunlu)
-Ağ ve Güvenlik
-olarak alan bilgisayarlara
-• Tahsis Edilen IP Adresi: (Opsiyonel)
-2 YıI
+(2) İz kayıtlarının saklama koşulları, saklama süreleri, yedekleme koşulları, varsa aktarılma koşulları; ilgili sistem veya uygulamanın sahipleri tarafından belirlenir ve Ek-2 Form’a uygun olarak kayıt altına alınır.
 
-Tutulmasi zorunludur.
-DHCP İz Kayıtları
-Sistemleri& Sistem
-•İstemcinin Mac Adresi: (Zorunlu)
-verilen IP adresleri ve
-Yönetim Birimi
-makine bilgilerinin
-eşleştirilmesi amacıyla
-kullanılır.
-Sunucu bilgisayarları
-Işletim sistemi seviyesinde oluşmuş iz kayıtları
-üzerinde işletim sistemi
-İşletim Sistemi İz
-Yönerge m.5/5
-Sunucu
-Sunucu ağ olayları ile ilgili iz kayıtları
+(3) Üretilen iz kayıtlarının zamansal olarak tutarlılığını sağlamak maksadıyla iz kaydı üreten sistem ve uygulamaların zaman sunucuları ile senkronize edilmesi sağlanır.
 
-Tutulmasi zorunludur.
-seviyesinde yapılan işlemleri
-uygulanacaktır.
-Kayitları
-Bilgisayarları
-Sunucu işletim sistemi dosya erişim iz kayıtları(Opsiyonel)
-kayıt altına almak amacıyla
-Sunucu hata olayları ile ilgili iz kayıtları
-kullanılır
-Kimlik Doğrulama
-•Kullanıcı Id/Kullanıcı Adı: (Zorunlu)
-Sunucu üzerinde başarılı ve
-•İstek Tarih ve Saat: (Zorunlu)
-ve Oturum Açma iz başarısız kimlik doğrulama
-Sunucu
+(4) İz kayıtlarının bütünlüğünün bozulmasının önlenmesine ve herhangi bir bozulma durumunda bunun tespit edilebilmesine ilişkin gerekli tedbirler alınır.
 
-Tutulması zorunludur.
-6 ay saklanacaktır.
-•Login Başarı Durumu: (Zorunlu)
-Kayıtları (Logon/
-olaylarını kayıt altına almak
-Bilgisayarları
-Logoff)
-amacıyla kullanılır.
-•Gönderen Adresi: (Zorunlu)
-•Alicı Adresi: (Zorunlu)
-•Tarih ve Saat: (Zorunlu)
-E-posta gönderim ve alma
-E-Posta İleti Takip
-Kurumsal E-Posta
+(5) İz kayıtlarına, bilmesi gereken prensibine uygun olarak sadece erişim yetkisi verilen kişilerin ulaşabilmesi ve iz kayıtlarının yetkisiz müdahalelere karşı korunması sağlanır.
 
-•Konu: (Zorunlu)
-İşlemlerinin kayıt altına
-Tutulmasi zorunludur.
-2 Yıl
-İz Kayıtları
-Sistemi
-•Kaynak Ip : (Zorunlu)
-alınması amacıyla kullanılır.
-•Başarı Durumu: (Zorunlu)
-•Mesaj Boyutu :
-•Tarih ve Saat: (Zorunlu)
-•Kaynak Ip : (Zorunlu)
-Web Tabanlı E-
-E-posta gonderim ve alma
-Kurumsal E-Posta
-•Server Ip: (Zorunlu)
-2 YıI
+## DÖRDÜNCÜ BÖLÜM
+### Çeşitli ve Son Hükümler
 
-Tutulması zorunludur.
-Posta Orta Katman işlemlerinin kayıt altına
-•Kullanıcı: (Zorunlu)
-Sistemi
-İz Kayıtları
-alınması amacıyla kullanılır
-•İstek: (Zorunlu)
-•Client Tipi: (Zorunlu)
-• İşletim Sistemi İz Kayıtları
-VTYS üzerinde sistemi
-• VTYS İz Kayıtları
-Yönerge m.5/5 uygulanır.
-Veri Tabanı Yönetim VTYS Sistem İz
-yürütmek ve idamesini
+### Eklerin Güncellenmesi
 
-Tutulması zorunludur.
-Opsiyonel olanlar haricinde
-• Cluster Iz Kayıtları(Opsiyonel)
-sağlamak için gerekli olan
-Sistemi
-Kayıtları
-en az 1 ay saklanır.
-• CellNode İz Kayitları(Oracle sistemleri için)
-kayıtlardır.
-• Hata Loglari(Opsiyonel)
-VTYS üzerinde kullanıcılar
-•Veri Tabanı tanımsal ve yapisal işlemleri(DDL vb)
-Yönerge m.5/3 veya m.5/4
-Açiklama 2 ve
-VTYS Denetim
-Veri Tabanı Yönetim
-tarafindan yapılan
-•Veri Tabanı veri işleme işlemleri(DML vb)
+**MADDE 7-** (1) Ek-1 Çizelge ve Ek-2 Form; yasal mevzuatta meydana gelen değişiklikler, sistemsel gereksinimler ve kapsam dahilinde yer alan birimler tarafından yapılan geri bildirimler doğrultusunda Genel Müdürlük tarafından güncellenir. Güncellenen Çizelge ve Form, Genel Müdürlüğün web sayfasında yayımlanır.
 
-Sistemi
-uygulanacaktır.
-(Audit) Iz Kayıtları
-hareketlerin kayıt altına
-Açıklama 3 uygulanacaktır.
-•Veri Tabanı yetki ve kontrol işlemleri(DCL vb)
-alınması amacıyla kullanılır.
-•Kullanicı Id/Kullanicı Adı: (Zorunlu)
-Veri tabanına başanlı ve
-VTYS Oturum Açma
-Yönerge m.5/5
-Veri Tabanı Yönetim
-başarısız kimlik doğrulama
-•Istek Tarih ve Saat: (Zorunlu)
+### Yürürlük
 
-İz Kayıtları (Logon/
-Tutulması zorunludur.
-uygulanacaktir.
-Sistemi
-olaylarını kayıt altına almak
-• Login Başarı Durumu: (Zorunlu)
-Logoff)
-En az 6 ay saklanacaktır.
-amacıyla kullanılır.
-YKHYS Yöneticileri
-tarafindan YKHYS
-uygulaması vasıtasıyla
-yapılan yönetimsel işlemler
-• Yönetimsel İşlemler (kullanıcı ekleme, kullanıcı silme,
-Yetkili Kullanıcı
-2 YıI
-Hesap Yönetim
+**MADDE 8-** (1) Bu Yönerge hükümleri onaylandığı tarihten altı ay sonra yürürlüğe girer.
 
-YKHYS İz Kayıtları
-kullanıcı yetki güncelleme, video görüntüleme)
-Tutulması zorunludur.
-ve sistem kullanıcılarının
-Sistemi (YKHYS)
-yetkilendirildikleri
-kaynaklarda yaptıkları
-işlemleri kayıt altına almak
-amacıyla kullanılır.
-MLYS yöneticileri tarafından
-• Yönetimsel İşlemler (kullanıcı ekleme, kullanıcı silme, arşiv
-Merkezi Log
-MLYS uygulaması vasıtasıyla
-Merkezi Log
-verileri üzerinde yapılan EKLEME, SİLME, GÜNCELLEME,
-2 YıI
+### Yürütme
 
-Yönetim Sistemi
-Yönetim Sistemi
-Tutulması zorunludur.
-yapılan yönetimsel işlemleri
-Kayitları
-(MLYS)
-kayıt altına almak amacıyla
-SORGULAMA, DIŞA AKTARMA)
-kullanılır.
-Son kullanicı
-Günlük Dosyaları / Bilgi Düzeyine Kadar
-Son Kullanıcı Yerel
-bilgisayarlarında
-Yönerge m.5/5
-Son Kullanicı
-Tutulması zorunlu değildir. Uygulama ve Hizmet Günlükleri/Bilgi Düzeyine Kadar (Uç
-Bilgisayar İz
+**MADDE 9-** (1) Bu Yönerge hükümlerini Genel Müdür yürütür.
 
-gerçekleşen olayların kayıt
-uygulanacaktır.
-Bilgisayarları
-Nokta Güvenlik Yazılımı İz Kayıtlarını da (çerecek Şekilde)
-altına alınması amacıyla
-Kayıtları
-kullanılır
-Açıklamalar:
-1. Uygulama iz kayıtları, iç web servis-API iz kayıtları, servis iz kayıtları, veri tabanı denetim iz kayıtlanı Yönerge m.5/2 kapsamında ihtiyaçların tamamını karşılayacak şekilde bir arada ya da ayrı ayrı
-kullanılabilir. Hangi iz kayıtlarının kullanılacağı uygulama sahibinin sorumluluğuna bırakılmıştır. Uygulama sahipleri Yönerge m.5/5 kapsamında yapılacak çalışmalarda bahsi geçen iz kayıtlarına ihtiyaç
-bulunması halinde ayrıca tutabilir.
-2. SORGULAMA işlemini kayıt altına almak çok maliyetli olacağından başka bir alternatif olmamasi durumunda tutulur.
+## EK-1 ÇİZELGE
+### İZ KAYITLARI YÖNETİMİ YÖNERGESİ EK-1 ÇİZELGE
+
+| Sıra No | İz Bilgisi Üreten Sistem | Kayıt Türü | Kayıt Türü Açıklaması | Zorunluluk Durumu | Üretilecek İz Bilgisi Detayı | Saklama Süresi |
+|---:|---|---|---|---|---|---|
+| 1 | Uygulamalar | Uygulama İz Kayıtları | Otomatik olarak üretilemeyen, uygulama ihtiyaçlarına binaen uygulama geliştirici tarafından özel olarak yapılan kayıt işlemleridir. Diğer iz kayıt türlerine göre daha anlamsal veriler ve mesajlar içerebilir. | Açıklama 1 uygulanacaktır. | • Kullanıcı Id/Kullanıcı Adı: (Zorunlu)<br>• Proje Adı/Proje Id: (Zorunlu)<br>• Log Açıklama: (Zorunlu)<br>• Tarih ve Saat: (Zorunlu)<br>• Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json olarak toplandıktan sonra SHA256 algoritmasına göre hash değerinin saklandığı alandır. | Yönerge m.5/3 veya m.5/4 uygulanacaktır. |
+| 2 | Uygulamalar | İç Servis - API (Application Programming Interface) İz Kayıtları | Uygulama arka planında “MicroService” ya da servis tabanlı mimari gibi çok fazla servisin çalıştığı uygulamalar için kullanılır. | Açıklama 1 uygulanacaktır. | • Kullanıcı Id/Kullanıcı Adı: (Zorunlu)<br>• Erişim Sağlanan Servis Adı: (Zorunlu)<br>• Erişim Sağlanan Metot: (Zorunlu)<br>• Kaynak IP: (Opsiyonel)<br>• Gönderilen URL: (Zorunlu)<br>• Gönderilen İstek Mesajı: Opsiyonel (verinin kritikliğine baz alınarak saklanmalıdır.)<br>• Cevap Mesajı: opsiyonel (özel nitelikli kişisel verilerde saklanmalıdır)<br>• İstek Tarih ve Saat: (Zorunlu)<br>• Metot cevap süresi:<br>• Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json olarak toplandıktan sonra SHA256 algoritmasına göre hash değerinin saklandığı alandır. | Yönerge m.5/3, m.5/4 veya m.5/5 uygulanacaktır. |
+| 3 | Uygulamalar | Dış Servis İz Kayıtları | Servisler üzerinden dış uygulamalar ile yapılan erişimleri kayıt altına almak amacıyla kullanılır. | Açıklama 1 uygulanacaktır. | • Kullanıcı Id/Kullanıcı Adı: (Zorunlu)<br>• Erişim Sağlanan Servis Adı: (Zorunlu)<br>• Erişim Sağlanan Metot: (Zorunlu)<br>• Kaynak IP: (Opsiyonel)<br>• Gönderilen URL: (Zorunlu)<br>• Gönderilen İstek Mesajı: Opsiyonel (verinin kritikliğine baz alınarak saklanmalıdır.)<br>• Cevap Mesajı: Opsiyonel (özel nitelikli kişisel verilerde saklanmalıdır)<br>• İstek Tarih ve Saat: (Zorunlu)<br>• Metot cevap süresi: Opsiyonel<br>• Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json olarak toplandıktan sonra SHA256 algoritmasına göre hash değerinin saklandığı alandır. | Yönerge m.5/3, m.5/4 veya m.5/5 uygulanacaktır. |
+| 4 | Uygulamalar | Uygulama Denetim (Veri Tabanı Hareketleri) Kayıtları | Uygulamada yapılan veri tabanı hareketlerini kayıt altına almak için kullanılır. | Açıklama 1 ve Açıklama 2 uygulanacaktır. | • Kullanıcı Id/Kullanıcı Adı: (Zorunlu)<br>• Veritabanı Kullanıcı Adı: (Zorunlu)<br>• Kaynak IP: (Opsiyonel)<br>• İşlem Tipi: (Zorunlu) EKLEME/GÜNCELLEME/SİLME/SORGULAMA<br>• Eski Veri: (Zorunlu) SİLME ve GÜNCELLEME işlemlerinde JSON olarak saklanacaktır.<br>• Yeni Veri: (Zorunlu) EKLEME ve GÜNCELLEME işlemlerinde JSON olarak saklanacaktır.<br>• Sorgu Koşulu: (Zorunlu) SORGULAMA, SİLME ve GÜNCELLEME işlemlerinde saklanacaktır.<br>• İstek Tarih ve Saat: (Zorunlu)<br>• Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json olarak toplandıktan sonra SHA256 algoritmasına göre hash değerinin saklandığı alandır. | Yönerge m.5/3 veya m.5/4 uygulanacaktır. |
+| 5 | Uygulamalar | Oturum Açma İz Kayıtları (Logon/Logoff) | Başarılı ve başarısız kimlik doğrulama olaylarını kayıt altına almak amacıyla kullanılır. | Oturum açma işlemi varsa tutulması zorunludur. | • Kullanıcı Id/Kullanıcı Adı: (Zorunlu)<br>• Kaynak IP: (Opsiyonel)<br>• İstek Tarih ve Saat: (Zorunlu)<br>• Login Başarı Durumu: (Zorunlu)<br>• Hash verisi: (Zorunlu) Log yapısında olan tüm işlemlerin Json olarak toplandıktan sonra SHA256 algoritmasına göre hash değerinin saklandığı alandır. | Yönerge m.5/3 veya m.5/4 uygulanacaktır. |
+| 6 | Uygulamalar | Hata Mesajları İz Kayıtları | Uygulamalarda oluşan hata ve datalarının kayıtlarıdır. Sistem yönetimi için gereklidir. | Tutulması zorunludur. | • Kullanıcı Id/Kullanıcı Adı: (Opsiyonel)<br>• Sunucu Adı: (Opsiyonel)<br>• Erişim Sağlanan Metot: (Opsiyonel)<br>• Kaynak IP: (Opsiyonel)<br>• Gönderilen URL: (Opsiyonel)<br>• Hata Mesajı: (Opsiyonel)<br>• StackTrace: (Opsiyonel) | Yönerge m.5/5 uygulanacaktır. |
+| 7 | Orta Katman Yazılımları | Orta Katman Yönetim İz Kayıtları | Orta katman uygulamasının yönetimi ve izlenmesi için gerekli olan iz kayıtlarıdır. | Tutulması zorunludur. | Orta katman uygulama log kayıtları | Yönerge m.5/5 uygulanacaktır. |
+| 8 | Orta Katman Yazılımları | Orta Katman Erişim İz Kayıtları | Orta katman uygulamasının erişim iz kayıtlarıdır. | Çizelge'nin 10 sıra numaralı maddesi kapsamında iz kayıtları tutulmayan erişimler için tutulması zorunludur. | • Erişim Zamanı: (Zorunlu)<br>• Kaynak IP: (Opsiyonel)<br>• Kaynak Port:<br>• Hedef IP: (Zorunlu)<br>• Hedef Adres (URL): (Zorunlu)<br>• Hedef Port:<br>• HTTP Durum Kodu: (Zorunlu)<br>• İstek Metodu: (Opsiyonel) | Çizelge'nin 10 sıra numaralı maddesi kapsamında tutulmayan erişimler için 2 yıl saklanır. Bunun dışında Yönerge m.5/5 uygulanır. |
+| 9 | Orta Katman Yazılımları | Orta Katman Hata İz Kayıtları | Orta katman uygulamasının hata iz kayıtlarıdır. | Tutulması zorunludur. | Orta katman hata log kayıtları | Yönerge m.5/5 uygulanacaktır. |
+| 10 | Ağ ve Güvenlik Sistemleri | Yer Sağlayıcı Trafik Bilgisi | Bakanlık uygulamalarına yapılan erişimleri kayıt altına almak amacıyla kullanılır. | Tutulması zorunludur. | • Erişim Tarihi: (Zorunlu)<br>• Kaynak IP: (Opsiyonel)<br>• Kaynak Port:<br>• Hedef IP: (Zorunlu)<br>• Hedef Adres (URL): (Zorunlu)<br>• Hedef Port:<br>• HTTP Durum Kodu: (Zorunlu)<br>• İstek Metodu: (Zorunlu) | 2 Yıl |
+| 11 | Ağ ve Güvenlik Sistemleri | Kullanıcı İnternet Erişim İz Kayıtları | Kurumsal ağ üzerinden kullanıcıların internet erişimlerini kayıt altına almak için kullanılır. | Tutulması zorunludur. | • Erişim Tarihi: (Zorunlu)<br>• Kaynak IP: (Opsiyonel)<br>• Kaynak Mac Adresi: (Zorunlu)<br>• Kullanıcı Adı: (Zorunlu)<br>• Hedef Host adı: (Zorunlu)<br>• Hedef Port: (Zorunlu)<br>• İstek Metodu: (Zorunlu)<br>• Uygulama Protokolü: (Zorunlu)<br>• HTTP Durum Kodu: (Zorunlu) | 2 Yıl |
+| 12 | Ağ ve Güvenlik Sistemleri&Sistem Yönetim Birimi | DHCP İz Kayıtları | Kurumsal ağa bağlı olarak çalışan ve IP adreslerini DHCP vasıtası ile dinamik olarak alan bilgisayarlara verilen IP adresleri ve makine bilgilerinin eşleştirilmesi amacıyla kullanılır. | Tutulması zorunludur. | • Kiralama Tarihi: (Zorunlu)<br>• Tahsis Edilen IP Adresi: (Opsiyonel)<br>• İstemcinin Mac Adresi: (Zorunlu) | 2 Yıl |
+| 13 | Sunucu Bilgisayarları | İşletim Sistemi İz Kayıtları | Sunucu bilgisayarları üzerinde işletim sistemi seviyesinde yapılan işlemleri kayıt altına almak amacıyla kullanılır. | Tutulması zorunludur. | İşletim sistemi seviyesinde oluşmuş iz kayıtları<br>Sunucu ağ olayları ile ilgili iz kayıtları<br>Sunucu işletim sistemi dosya erişim iz kayıtları (Opsiyonel)<br>Sunucu hata olayları ile ilgili iz kayıtları | Yönerge m.5/5 uygulanacaktır. |
+| 14 | Sunucu Bilgisayarları | Kimlik Doğrulama ve Oturum Açma İz Kayıtları (Logon/Logoff) | Sunucu üzerinde başarılı ve başarısız kimlik doğrulama olaylarını kayıt altına almak amacıyla kullanılır. | Tutulması zorunludur. | • Kullanıcı Id/Kullanıcı Adı: (Zorunlu)<br>• İstek Tarih ve Saat: (Zorunlu)<br>• Login Başarı Durumu: (Zorunlu) | 6 ay saklanacaktır. |
+| 15 | Kurumsal E-Posta Sistemi | E-Posta İleti Takip İz Kayıtları | E-posta gönderim ve alma işlemlerinin kayıt altına alınması amacıyla kullanılır. | Tutulması zorunludur. | • Gönderen Adresi: (Zorunlu)<br>• Alıcı Adresi: (Zorunlu)<br>• Tarih ve Saat: (Zorunlu)<br>• Konu: (Zorunlu)<br>• Kaynak Ip: (Zorunlu)<br>• Başarı Durumu: (Zorunlu)<br>• Mesaj Boyutu: | 2 Yıl |
+| 16 | Kurumsal E-Posta Sistemi | Web Tabanlı E-Posta Orta Katman İz Kayıtları | E-posta gönderim ve alma işlemlerinin kayıt altına alınması amacıyla kullanılır. | Tutulması zorunludur. | • Tarih ve Saat: (Zorunlu)<br>• Kaynak IP: (Zorunlu)<br>• Server Ip: (Zorunlu)<br>• Kullanıcı: (Zorunlu)<br>• İstek: (Zorunlu)<br>• Client Tipi: (Zorunlu) | 2 Yıl |
+| 17 | Veri Tabanı Yönetim Sistemi | VTYS Sistem İz Kayıtları | VTYS üzerinde sistemi yürütmek ve idamesini sağlamak için gerekli olan kayıtlardır. | Tutulması zorunludur. | • İşletim Sistemi İz Kayıtları<br>• VTYS İz Kayıtları<br>• Cluster İz Kayıtları (Opsiyonel)<br>• CellNode İz Kayıtları (Oracle sistemleri için)<br>• Hata Logları (Opsiyonel) | Yönerge m.5/5 uygulanır. Opsiyonel olanlar haricinde en az 1 ay saklanır. |
+| 18 | Veri Tabanı Yönetim Sistemi | VTYS Denetim (Audit) İz Kayıtları | VTYS üzerinde kullanıcılar tarafından yapılan hareketlerin kayıt altına alınması amacıyla kullanılır. | Açıklama 2 ve Açıklama 3 uygulanacaktır. | • Veri Tabanı tanımsal ve yapısal işlemleri (DDL vb)<br>• Veri tabanı veri işleme işlemleri (DML vb)<br>• Veri tabanı yetki ve kontrol işlemleri (DCL vb) | Yönerge m.5/3 veya m.5/4 uygulanacaktır. |
+| 19 | Veri Tabanı Yönetim Sistemi | VTYS Oturum Açma İz Kayıtları (Logon/Logoff) | Veri tabanına başarılı ve başarısız kimlik doğrulama olaylarını kayıt altına almak amacıyla kullanılır. | Tutulması zorunludur. | • Kullanıcı Id/Kullanıcı Adı: (Zorunlu)<br>• İstek Tarih ve Saat: (Zorunlu)<br>• Login Başarı Durumu: (Zorunlu) | Yönerge m.5/5 uygulanacaktır. En az 6 ay saklanacaktır. |
+| 20 | Yetkili Kullanıcı Hesap Yönetim Sistemi (YKHS) | YKHS İz Kayıtları | YKHS Yöneticileri tarafından YKHS uygulaması vasıtasıyla yapılan yönetimsel işlemler ve sistem kullanıcılarının yetkilendirildikleri kaynaklarda yaptıkları işlemleri kayıt altına almak amacıyla kullanılır. | Tutulması zorunludur. | • Yönetimsel işlemler (kullanıcı ekleme, kullanıcı silme, kullanıcı yetki güncelleme, video görüntüleme) | 2 Yıl |
+| 21 | Merkezi Log Yönetim Sistemi (MLYS) | Merkezi Log Yönetim Sistemi Kayıtları | MLYS yöneticileri tarafından MLYS uygulaması vasıtasıyla yapılan yönetimsel işlemleri kayıt altına almak amacıyla kullanılır. | Tutulması zorunludur. | • Yönetimsel işlemler (kullanıcı ekleme, kullanıcı silme, arşiv verileri üzerinde yapılan EKLEME, SİLME, GÜNCELLEME, SORGULAMA, DIŞA AKTARMA) | 2 Yıl |
+| 22 | Son Kullanıcı Bilgisayarları | Son Kullanıcı Yerel Bilgisayar İz Kayıtları | Son kullanıcı bilgisayarlarında gerçekleşen olayların kayıt altına alınması amacıyla kullanılır. | Tutulması zorunlu değildir. | Günlük Dosyaları / Bilgi Düzeyine Kadar<br>Uygulama ve Hizmet Günlükleri/Bilgi Düzeyine Kadar (Üç Nokta Güvenlik Yazılımı İz Kayıtlarını da içerecek şekilde) | Yönerge m.5/5 uygulanacaktır. |
+
+**Açıklamalar:**
+
+1. Uygulama iz kayıtları, iç web servis-API iz kayıtları, servis iz kayıtları, veri tabanı denetim iz kayıtları Yönerge m.5/2 kapsamında ihtiyaçların tamamını karşılayacak şekilde bir arada ya da ayrı ayrı kullanılabilir. Hangi iz kayıtlarının kullanılacağı uygulama sahibinin sorumluluğuna bırakılmıştır. Uygulama sahipleri Yönerge m.5/5 kapsamında yapılacak çalışmalarda bahsi geçen iz kayıtlarına ihtiyaç olması halinde ayrıca tutabilir.
+2. SORGULAMA işlemini kayıt altına almak çok maliyetli olacağından başka bir alternatif olmaması durumunda tutulur.
 3. Uygulama sahibi tarafından resmi olarak talep edilmesi gerekir.
 
+## EK-2 FORM
+### İZ KAYITLARI YÖNETİMİ YÖNERGESİ EK-2 SİSTEM VE UYGULAMALAR İÇİN İZ KAYDI DETAYLARI GÖSTERİR FORM
 
-uygulanının özelliğine bağlı olarak aynı kayıt türü içinde yer alan ancak niteliği (Yönerge m.5/3, 4 veya 5) farklı iz kayıtları bulunabileceği dikkate alınarak her biri için ayrı saklama süresi belirlenebilir. Bu durumda İlgili kayıt türünün altına yeni satırlarš
-(A3) Uygulama İz kayıtları, İç Servis-API İz Kayıtları, Dış Servis İz Kayıtları, Veri Tabanı Denetim İz kayıtları ; Yönerge m.5/2 kapsamında tanımlanan ihtiyaçların tamamını karşılayacak şekilde bir arada ya da ayrı ayrı kullanılabilir. Hangi iz kayıtlarının
-Açıklamalar
-(A2) Yönerge m.5'in ilgili fıkrası ve Ek-1 Çizelge "Saklama Süresi" sutünü dikkate alınarak elle doldurulur. Bu alana "5 yıl", "2 yıl", "6 ay", "1 hafta", "3 gün", "50 MB disk alanı" gibi belirgin bir değer girilmesi gerekir. İz kaydı tutulan sistem veya
-(A1) Bu formda yer alan kayıt türleri, ilgili iz kaydını üretecek kaynak dikkate alınarak farklı renkler ile gruplandırılmıştır. Formun doldurulduğu uygulama/sistem dikkate alınarak sadece ilgili satırların doldurulması yeterlidir.
-tutulması gerektiği uygulama sahiplerinin sorumluluğuna bırakılmıştır. Uygulama sahipleri bu kayıtlardan bir ya da birkaçını, ihtiyaç olması halinde Yönerge m.5/5 kapsamında yapılacak çalışmalar için de ayrıca tutabilir.
-Aktarım Bilgisi
-Yedekleme Bilgisi
-İZ KAYITLARI YÖNETİMİ YÖNERGESİ EK-2 SİSTEM VE UYGULAMALAR İÇİN İZ KAYDI DETAYLARI GÖSTERİR FORM
-Saklama Süresi (A2)
-Zaman Damgasi
-(A8) İz bilgileri Merkezi Log Yönetim Sistemi haricinde bir başka yere aktarılıyor ise açıklama sutünuna gerekli açıklamalar yazılır.
-(A7) Seçenekler arasında yer alan hiçbir şık uygulanabilir değil ise diğer seçilir ve açıklama sütununa gerekli açıklamalar yapılır.
+| Alan | Bilgi |
+|---|---|
+| İz Bilgisi Üreten Sistemin/Uygulamanın Adı | : |
+| Sistemin / Uygulamanın İşletme Yönetiminden Sorumlu Birim | : |
+| Formdaki Bilgilerin En Son Güncellendiği Tarih | : |
+| Formdaki Bilgileri En Son Güncelleyen Kişi | : |
+
+| Sıra No | Kayıt Türü (A1) | Saklama Durumu | Saklandığı Yer | Zaman Damgası | Saklama Süresi (A2) | Yedekleme Bilgisi | Aktarım Bilgisi | Açıklamalar |
+|---:|---|---|---|---|---|---|---|---|
+| 1 | Uygulama İz Kayıtları (A3) |  |  |  |  |  |  |  |
+| 2 | İç Web Servis API İz Kayıtları (A3) |  |  |  |  |  |  |  |
+| 3 | Servis İz Kayıtları (A3) |  |  |  |  |  |  |  |
+| 4 | Uygulama Denetim Kayıtları (Veri Tabanı Hareketleri) (A3) |  |  |  |  |  |  |  |
+| 5 | Oturum Açma İz Kayıtları (Logon/Logoff) |  |  |  |  |  |  |  |
+| 6 | Hata Mesajları İz Kayıtları |  |  |  |  |  |  |  |
+| 7 | Orta Katman Yönetim İz Kayıtları |  |  |  |  |  |  |  |
+| 8 | Orta Katman Erişim İz Kayıtları |  |  |  |  |  |  |  |
+| 9 | Orta Katman Hata Mesajları İz Kayıtları |  |  |  |  |  |  |  |
+| 10 | Yer Sağlayıcı Trafik Bilgisi |  |  |  |  |  |  |  |
+| 11 | DHCP İz Kayıtları |  |  |  |  |  |  |  |
+| 12 | Kullanıcı İnternet Erişim İz Kayıtları |  |  |  |  |  |  |  |
+| 13 | İşletim Sistemi İz Kayıtları |  |  |  |  |  |  |  |
+| 14 | Kimlik Doğrulama ve Oturum Açma İz Kayıtları (Logon/Logoff) |  |  |  |  |  |  |  |
+| 15 | Exchange Message Tracking İz Kayıtları |  |  |  |  |  |  |  |
+| 16 | Exchange IIS İz Kayıtları |  |  |  |  |  |  |  |
+| 17 | VTYS Sistem İz Kayıtları |  |  |  |  |  |  |  |
+| 18 | VTYS Denetim (Audit) İz Kayıtları |  |  |  |  |  |  |  |
+| 19 | VTYS Oturum Açma İz Kayıtları (Logon/Logoff) |  |  |  |  |  |  |  |
+| 20 | Son Kullanıcı Yerel Bilgisayar İz Kayıtları |  |  |  |  |  |  |  |
+
+**Açıklamalar**
+
 Genel: Bu form İz Kayıtları Yönetimi Yönergesi uyarınca iz kaydı üreten tüm sistem/uygulamalar için ayrı ayrı tutulur.
-Saklandığı Yer
-Durumu
-(A6) Kullanılan VTYS'nın adı, şema ve tablo bazında detaylar açıklamalar sütununa yazılır
-(A5) İz kayıtlarının saklandığı verin dosya adı ve yolu açıklamalar sütununa yazılır.
+
+(A1) Bu formda yer alan kayıt türleri, ilgili iz kaydını üretecek kaynak dikkate alınarak farklı renkler ile gruplandırılmıştır. Formun doldurulduğu uygulama/sistem dikkate alınarak sadece ilgili satırların doldurulması yeterlidir.
+
+(A2) Yönerge m.5’in ilgili fıkrası ve EK-1 Çizelge “Saklama Süresi” sütunu dikkate alınarak elle doldurulur. Bu alana “5 yıl”, “2 yıl”, “6 ay”, “1 hafta”, “3 gün”, “50 MB disk alanı” gibi belirgin bir değer girilmesi gerekmektedir. İz kaydı tutulan sistem veya uygulamanın özelliğine bağlı olarak aynı kayıt türü içinde yer alan ancak niteliği (Yönerge m.5/3, 4 veya 5) farklı iz kayıtları bulunabileceği dikkate alınarak her biri için ayrı saklama süresi belirlenebilir. Bu durumda ilgili kayıt türünün altına yeni satırlar açılır. Her biri için detaylı bilgiler açıklamalar sütununa yazılır.
+
+(A3) Uygulama İz Kayıtları, İç Servis-API İz Kayıtları, Dış Servis İz Kayıtları, Veri Tabanı Denetim iz kayıtları; Yönerge m.5/2 kapsamında tanımlanan ihtiyaçların tamamını karşılayacak şekilde bir arada ya da ayrı ayrı kullanılabilir. Hangi iz kayıtlarının tutulması gerektiği uygulama sahiplerinin sorumluluğuna bırakılmıştır. Uygulama sahipleri bu kayıtlardan bir ya da birkaçını, ihtiyaç olması halinde Yönerge m.5/5 kapsamında yapılacak çalışmalar için de ayrıca tutabilir.
+
 (A4) Kısmen seçilmesi durumunda açıklamalar sütununun doldurulması gerekir.
-Kimlik Doğrulama ve Oturum Açma İz kayıtları (Logon/ Logoff)
-Uygulama Denetim Kayıtları (Veri Tabanı Hareketleri) (A3)
-Sistemin / Uygulamanın İşletme Yönetiminden Sorumlu Birim
-açılır. Her biri için detaylı bilgiler açıklamalar sütununa yazılır.
-Kayıt Türü (A1)
-Oturum Açma İz Kayıtları (Logon/ Logoff)
-Orta Katman Hata Mesajları İz Kayıtları
-Son Kullanıcı Yerel Bilgisayar İz Kayıtları
-Exchange Message Tracking İz Kayıtları
-Formdaki Bilgilerin En Son Güncellendiği Tarih
-Kullanıcı İnternet Erişim İz Kayıtları
-Formdaki Bilgilerin En Son Güncelleyen Kişi
-İz Bilgisi Üreten Sistemin/Uygulamanın Adı
-VTYS Denetim (Audit) İz Kayıtları
-İç Web Servis API İz Kayıtları (A3)
-Orta Katman Yönetim İz Kayıtları
-Orta Katman Erişim İz Kayıtları
-VTYS Oturum Açma İz Kayıtları
-Hata Mesajları İz Kayıtları
-Uygulama İz Kayıtları (A3)
-İşletim Sistemi İz Kayıtları
-Yer Sağlayıcı Trafik Bilgisi
-Exchange IIS İz Kayıtları
-VTYS Sistem İz Kayıtları
-Servis İz Kayıtları (A3)
-DHCP İz Kayıtları
-(Logon/ Logoff)
-Açiklamalar
-Sira No
 
+(A5) İz kayıtlarının saklandığı yerin dosya adı ve yolu açıklamalar sütununa yazılır.
 
+(A6) Kullanılan VTYS’nin adı, şema ve tablo bazında detaylar açıklamalar sütununa yazılır.
 
+(A7) Seçenekler arasında yer alan hiçbir şık uygulanabilir değil ise diğer seçilir ve açıklama sütununa gerekli açıklamalar yapılır.
 
-
-Belge Doğrulama Adresi: https
-
-r/saglik-bakanligi-ebys
+(A8) İz bilgileri Merkezi Log Yönetim Sistemi haricinde bir başka yere aktarılıyor ise açıklama sütununa gerekli açıklamalar yazılır.

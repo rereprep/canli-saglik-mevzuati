@@ -11,6 +11,29 @@
   var suz=document.getElementById("liste-suz");
   if(suz){suz.addEventListener("input",function(){var q=sade(suz.value);document.querySelectorAll("table.liste tbody tr").forEach(function(tr){tr.style.display=!q||sade(tr.textContent).indexOf(q)>=0?"":"none";});});}
 
+  // Liste sıralama: ada göre ya da tarihe göre (tarihi olmayanlar her zaman sonda)
+  function karsilastir(tur){return function(a,b){
+    if(tur==="ad")return a.ad.localeCompare(b.ad,"tr");
+    if(!a.t!==!b.t)return a.t?-1:1;
+    var f=tur==="yeni"?b.t.localeCompare(a.t):a.t.localeCompare(b.t);
+    return f||a.ad.localeCompare(b.ad,"tr");};}
+  var sir=document.getElementById("liste-sirala");
+  if(sir){
+    var tbody=document.querySelector("table.liste tbody");
+    var uygula=function(){var tur=sir.value;try{localStorage.setItem("csm-sirala",tur);}catch(x){}
+      Array.prototype.map.call(tbody.rows,function(r){return {r:r,ad:r.getAttribute("data-ad")||"",t:r.getAttribute("data-tarih")||""};})
+        .sort(karsilastir(tur)).forEach(function(x){tbody.appendChild(x.r);});
+      document.querySelectorAll("table.liste th[data-sirala]").forEach(function(th){th.setAttribute("aria-sort",th.getAttribute("data-sirala")==="ad"?(tur==="ad"?"ascending":"none"):(tur==="yeni"?"descending":tur==="eski"?"ascending":"none"));});};
+    var ths=document.querySelectorAll("table.liste thead th");
+    [[0,"ad"],[2,"tarih"]].forEach(function(x){var th=ths[x[0]];if(!th)return;th.setAttribute("data-sirala",x[1]);th.setAttribute("tabindex","0");th.title="Sıralamak için tıklayın";
+      var tik=function(){sir.value=x[1]==="ad"?"ad":(sir.value==="yeni"?"eski":"yeni");uygula();};
+      th.addEventListener("click",tik);th.addEventListener("keydown",function(ev){if(ev.key==="Enter"||ev.key===" "){ev.preventDefault();tik();}});});
+    var kayitli=null;try{kayitli=localStorage.getItem("csm-sirala");}catch(x){}
+    if(kayitli&&/^(ad|yeni|eski)$/.test(kayitli))sir.value=kayitli;
+    uygula();
+    sir.addEventListener("change",uygula);
+  }
+
   var mAra=document.getElementById("metinde-ara");
   if(mAra){
     var metin=document.getElementById("metin"), asil=metin.innerHTML, zaman;
@@ -55,7 +78,9 @@
         }
         sonuc.push({b:b,p:parca});
       });
-      sonuc.sort(function(a,b){return (b.b.r||b.b.d||"").localeCompare(a.b.r||a.b.d||"");});
+      var ssir=document.getElementById("sonuc-sirala"), stur=ssir?ssir.value:"yeni";
+      var kars=karsilastir(stur);
+      sonuc.sort(function(a,b){return kars({ad:sade(a.b.b),t:a.b.d||a.b.r||""},{ad:sade(b.b.b),t:b.b.d||b.b.r||""});});
       document.getElementById("sonuc-bilgi").textContent=sonuc.length+" sonuç bulundu"+(sonuc.length>300?" (ilk 300 gösteriliyor)":"");
       var isaretle=function(s){var x=e(s);qEl.value.trim().split(/\s+/).filter(function(k){return k.length>1;}).forEach(function(k){x=x.replace(new RegExp("("+kacis(e(k))+")","gi"),"<mark>$1</mark>");});return x;};
       document.getElementById("sonuclar").innerHTML=sonuc.slice(0,300).map(function(s){var b=s.b;
@@ -64,6 +89,7 @@
     });
   }
   form.addEventListener("submit",function(ev){ev.preventDefault();history.replaceState(null,"","?q="+encodeURIComponent(qEl.value));calistir();});
+  var ssir2=document.getElementById("sonuc-sirala"); if(ssir2)ssir2.addEventListener("change",calistir);
   calistir();
 })();
 

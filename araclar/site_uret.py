@@ -514,8 +514,10 @@ def tablo(belgeler, kok):
     for b in belgeler:
         rg = " / ".join(x for x in [tarih_tr(b.get("rg_tarih")), b.get("rg_sayi")] if x)
         isaret = "" if b["tam_metin"] else ' <span class="rozet">künye</span>'
+        siralama_tarihi = b.get("tarih") or b.get("rg_tarih") or ""
         satirlar.append(
-            f'<tr><td><a href="{kok}mevzuat/{b["tur"]}/{e(b["id"])}.html">{e(b["baslik"])}</a>{isaret}</td>'
+            f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}">'
+            f'<td><a href="{kok}mevzuat/{b["tur"]}/{e(b["id"])}.html">{e(b["baslik"])}</a>{isaret}</td>'
             f'<td>{e(TUR_TEKIL[b["tur"]])}</td><td>{e(tarih_tr(b.get("tarih")))}</td><td>{e(b.get("sayi"))}</td><td>{e(rg)}</td></tr>')
     return ('<table class="liste"><thead><tr><th>Mevzuat Adı</th><th>Tür</th><th>Tarih</th><th>Sayı</th><th>Resmî Gazete</th></tr></thead><tbody>'
             + "".join(satirlar) + "</tbody></table>")
@@ -547,7 +549,10 @@ def tur_sayfasi(tur, belgeler):
     liste = sorted((b for b in belgeler.values() if b["tur"] == tur), key=lambda b: sade(b["baslik"]))
     icerik = f"""<nav class="yol"><a href="../index.html">Ana Sayfa</a> › {e(TUR_ADLARI[tur])}</nav>
 <h1>{e(TUR_ADLARI[tur])} <small>({len(liste)})</small></h1>
-<div class="metin-ara"><input type="search" id="liste-suz" placeholder="Bu listede süz…" aria-label="Listede süz"></div>
+<div class="metin-ara"><input type="search" id="liste-suz" placeholder="Bu listede süz…" aria-label="Listede süz">
+<label class="sirala">Sırala <select id="liste-sirala" aria-label="Sıralama">
+<option value="ad">Ada göre (A–Z)</option><option value="yeni">Tarihe göre (yeniden eskiye)</option><option value="eski">Tarihe göre (eskiden yeniye)</option>
+</select></label></div>
 {tablo(liste, "../")}"""
     return sayfa(TUR_ADLARI[tur], icerik, "../")
 
@@ -566,6 +571,9 @@ def ara_sayfasi():
     <label>Yıl <input type="number" id="yil1" min="1900" max="2100" placeholder="başlangıç"> – <input type="number" id="yil2" min="1900" max="2100" placeholder="bitiş"></label>
   </div>
   <fieldset class="turler"><legend>Mevzuat türü</legend>{turler}</fieldset>
+  <div class="satir secenek"><label class="sirala">Sırala <select id="sonuc-sirala" aria-label="Sonuç sıralaması">
+  <option value="yeni">Tarihe göre (yeniden eskiye)</option><option value="eski">Tarihe göre (eskiden yeniye)</option><option value="ad">Ada göre (A–Z)</option>
+  </select></label></div>
 </form>
 <p id="sonuc-bilgi"></p>
 <div id="sonuclar"></div>"""
