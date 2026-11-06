@@ -37,6 +37,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Etkili ajan talimatı: her turda listedeki düzeltilmemiş ilk 5 dosyayı düzelt ve kaydet; bitince yeniden görevlendir.
 
 ## Bilinen eksikler / sonraki adımlar
+- 2026-11-06 akşamüstü: Künye olarak kalan 23 kayıt yeniden arandı → 9'u tam metin oldu (1065 kayıt / 1052 tam metin), 1'i gizlendi (7183 'Biyosidal/Halk Sağlığı Kanunu' künyesi hatalı; 7183 = Turizm Tanıtım Ajansı K.). Kalan 13'ün nedenleri ../arastirma/eksik23/sonuc-*.json'da. Ajanların kabuğunda ağ yok: adres bulurlar, indirmeyi ana oturum yapar. OCR (ocr_toplu/macOS Vision) bu ortamda boş çıkıyor; taranmış PDF'leri görüntüden ajanlara yazdır (../arastirma/eksik23/metin-*.md, ../.kunyeyaz.py <id> <kaynak> <url> 1 <metin...>). RG arşiv metin dosyalarında (arastirma/arsiv/<sayı>.txt) SAYFA n = PDF sayfa n-1 olabilir; görüntüyle doğrula. resmigazete.gov.tr erişimi aralıklı (bazen zaman aşımı). Künyedeki RG sayıları yanlış olabiliyor (7478 Köy İçmesuyu: 9631 değil 11306).
 - 2026-11-06 öğleden sonra (Opus):
   - Yayın hatası 4685ff5'teki bozuk Kutanöz künyesindendi; d41bd14 onardı. site_uret.on_bilgi_ayir artık kapanışı olmayan künyede durmuyor, uyarı veriyor (3d9aa25).
   - Eczacılar Birliği Kanunu (6643) mevzuat.gov.tr güncel metin (../.mgdegistir.py <glob> <tur> <no> <tertip>). 5181 ve 3575 sayılı kanunların Türkçe harfleri luna ile düzeltildi (resmigazete.gov.tr buradan zaman aşımına düşüyor). 2004/73 ve 2005/88 verem genelgeleri görüntüden yeniden yazıldı.
