@@ -19,9 +19,11 @@ TAKIP = KOK / "kaynak-isleme" / "katalog" / "resmi-gazete-takip.json"
 UA = {"User-Agent": "Mozilla/5.0 (CanliSaglikMevzuati; +https://github.com)"}
 
 ANAHTAR = re.compile(
-    r"sağlık|saglik|tıbb|tıp|hekim|hasta|hastane|ilaç|eczac|eczane|kozmetik|aşı|bulaşıcı|hemşire|ebe|"
-    r"diş|biyosidal|tütün|organ|doku|kan ürün|laboratuvar|ambulans|acil sağlık|halk sağlığı|hıfzıssıhha|"
-    r"gıda|beslenme|engelli|radyasyon|uyuşturucu|bağımlılık|genel sağlık sigortası|tıbbi cihaz|klinik", re.I)
+    r"sağlık|saglik|tıbb|\btıp\b|tıpta|hekim|hasta|ilaç|eczac|eczane|kozmetik|\başı|bulaşıcı|hemşire|\bebe(lik)?\b|"
+    r"diş hekim|ağız ve diş|biyosidal|tütün|organ ve doku|organ nakli|kan ve kan ürün|tıbbi laboratuvar|ambulans|"
+    r"hıfzıssıhha|gıda|beslenme|engelli|radyasyon|uyuşturucu|bağımlılık|genel sağlık sigortası|tıbbi cihaz|klinik|"
+    r"veteriner|zehir|psikolog|fizyoterap|diyetisyen|optisyen|odyolog", re.I)
+ILAN = re.compile(r"ilan|ilân|ilanlar", re.I)
 
 BOLUM_TUR = [
     ("KANUN", "kanun"), ("CUMHURBAŞKANLIĞI KARARNAMES", "cbk"), ("YÖNETMELİK", "yonetmelik"),
@@ -110,7 +112,7 @@ def gun_tara(gun, mevcut):
     p.feed(sayfa)
     yeni = []
     for oge in p.ogeler:
-        if "İLAN" in oge["bolum"].upper() or "YARGI" in oge["bolum"].upper():
+        if ILAN.search(oge["bolum"]) or "YARGI" in oge["bolum"].upper() or ILAN.search(oge["metin"]) or "ilanlar" in oge["href"].lower():
             continue
         url = urllib.request.urljoin(fihrist, oge["href"])
         if url in mevcut:
@@ -124,7 +126,8 @@ def gun_tara(gun, mevcut):
                 metin = html_metin(getir(url))
             except Exception:
                 metin = ""
-        if not ANAHTAR.search(oge["metin"] + " " + metin[:1500]):
+        # Yalnızca başlığa bakılır; gövdede geçen "sağlık" sözcüğü ilgisiz düzenlemeleri de yakalıyordu
+        if not ANAHTAR.search(oge["metin"]):
             continue
         karar = {"tur": tur, "baslik": re.sub(r"^[–\-–\s]+", "", oge["metin"]), "birim": "", "konu": "", "etiketler": []}
         kayit = {
