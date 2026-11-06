@@ -22,13 +22,23 @@ from mevzuat_gov_aktar import html_md  # noqa: E402
 
 KLASOR = KOK / "kaynak-isleme" / "indirilen" / "kunye"
 SEGMENT = KOK / "kaynak-isleme" / "segmentler" / "kunye-kaynak.json"
-UA = {"User-Agent": "Mozilla/5.0 (Macintosh) CanliSaglikMevzuati"}
+UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/pdf,*/*;q=0.8", "Accept-Language": "tr-TR,tr;q=0.9,en;q=0.8"}
 
 
 def getir(url):
     url = urllib.parse.quote(url, safe=":/?&=%#+~.,-_")
-    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
-        return r.read()
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
+            return r.read()
+    except urllib.error.URLError as hata:
+        if "CERTIFICATE_VERIFY_FAILED" not in str(hata):
+            raise
+        # Python'un sertifika paketi bazı ara sertifikaları içermiyor; sistem deposuyla doğrulayan curl'ü dene
+        c = subprocess.run(["curl", "-sSfL", "--max-time", "60", "-A", UA["User-Agent"], url], capture_output=True)
+        if c.returncode != 0:
+            raise
+        return c.stdout
 
 
 def coz(ham):
@@ -58,13 +68,18 @@ def tip_bul(ham):
 
 def kaynak_adi(url):
     h = urllib.parse.urlparse(url).netloc
+    if "web.archive.org" in h:
+        asil = re.sub(r"^https?://web\.archive\.org/web/\w+/", "", url)
+        return "İnternet Arşivi kopyası: " + kaynak_adi(asil if asil.startswith("http") else "http://" + asil)
     if "resmigazete" in h:
         return "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
     if "saglik.gov.tr" in h:
         return f"T.C. Sağlık Bakanlığı internet sitesi ({h.removeprefix('www.')})"
     if "tbmm" in h:
         return "TBMM kanun metni (ilk kabul edilen metin)"
-    return f"Resmî kurum sitesi ({h.removeprefix('www.')})"
+    if h.endswith(".gov.tr"):
+        return f"Resmî kurum sitesi ({h.removeprefix('www.')})"
+    return f"{h.removeprefix('www.')} (resmî yayın değildir; metnin aktarıldığı ikincil kaynak)"
 
 
 def eslesir(b, metin):
@@ -74,6 +89,20 @@ def eslesir(b, metin):
         return True
     bas = sade(metin[:6000])
     return sum(s[:6] in bas for s in ozu) / len(ozu) >= 0.6
+
+
+def resimden_pdf(resimler):
+    """Taranmış genelge resimlerini (JPG/PNG/TIFF) OCR'lanmak üzere tek PDF'de birleştirir."""
+    from PIL import Image
+    sayfalar = []
+    for h in resimler:
+        im = Image.open(io.BytesIO(h))
+        for i in range(getattr(im, "n_frames", 1)):
+            im.seek(i)
+            sayfalar.append(im.convert("RGB"))
+    cikti = io.BytesIO()
+    sayfalar[0].save(cikti, "PDF", save_all=True, append_images=sayfalar[1:], resolution=200)
+    return cikti.getvalue()
 
 
 def pdf_metni(yol, sayfa=3):
@@ -96,11 +125,50 @@ def word_yaz(yol, veri):
 
 def ekleri_bul(sayfa, url):
     ekler = []
-    for m in re.finditer(r'href="([^"]+\.(?:pdf|docx?|zip)(?:\?[^"]*)?)"', sayfa, re.I):
+    for m in re.finditer(r'href="([^"]+\.(?:pdf|docx?|zip|jpe?g|png|tiff?)(?:\?[^"]*)?)"', sayfa, re.I):
         u = urllib.parse.urljoin(url, html.unescape(m.group(1)))
         if u not in ekler:
             ekler.append(u)
     return ekler
+
+
+BITIS = re.compile(r"(?i)(yürürlüğe girer|hükümlerini .{0,60}yürütür|yürütülür\.|bilgilerinizi ve gereğini|rica ederim|arz ederim|gereğini rica)")
+ALTBILGI = re.compile(r"(?i)(tüm hakları|copyright|©|çerez|paylaş|yorum yap|ilgili haberler|abone ol|giriş yap|üye ol)")
+
+
+def bolum_kes(govde, b):
+    """Genel bir web sayfasının Markdown'ından yalnızca belge metnini ayırır."""
+    import difflib
+    bloklar = [x for x in govde.split("\n\n") if x.strip()]
+    ozu = baslik_ozu(b)
+    bas = None
+    for i, x in enumerate(bloklar):
+        a = sade(re.sub(r"\(.*?\)", " ", x))[:250]
+        if len(a) > 10 and (difflib.SequenceMatcher(None, ozu, a[:len(ozu) + 20]).ratio() > 0.6 or (ozu and ozu[:35] in a)):
+            bas = i
+            break
+    if bas is None:
+        for i, x in enumerate(bloklar):
+            if re.search(r"(?i)\b(madde|MADDE)\s*1\b", x):
+                bas = max(0, i - 3)
+                break
+    if bas is None:
+        return ""
+    son = None
+    for i in range(bas, len(bloklar)):
+        if BITIS.search(bloklar[i]):
+            son = i
+        elif son is not None and i - son > 6:
+            break
+    if son is None:
+        son = next((i - 1 for i in range(bas, len(bloklar)) if ALTBILGI.search(bloklar[i]) and len(bloklar[i]) < 200), len(bloklar) - 1)
+    else:
+        # imza bloğu: bitiş ifadesinden sonra gelen kısa satırlar
+        k = son + 1
+        while k < len(bloklar) and len(bloklar[k]) < 120 and not ALTBILGI.search(bloklar[k]) and k - son <= 5:
+            k += 1
+        son = k - 1
+    return "\n\n".join(bloklar[bas:son + 1]) + "\n"
 
 
 def capa_bolumu(sayfa, capa):
@@ -134,8 +202,13 @@ def isle(b, url, segmentler, rapor, derinlik=0, zorla=False, baslik=None):
             ham, tip = z.read(n), tip_bul(z.read(n))
             break
         else:
-            rapor.append((b["id"], url, "zip içinde belge yok"))
-            return False
+            resimler = sorted(n for n in z.namelist() if re.search(r"\.(jpe?g|png|tiff?|gif|bmp)$", n, re.I))
+            if not resimler:
+                rapor.append((b["id"], url, "zip içinde belge yok"))
+                return False
+            ham, tip = resimden_pdf([z.read(n) for n in resimler]), "pdf"
+    if tip == "resim":
+        ham, tip = resimden_pdf([ham]), "pdf"
     if tip == "pdf":
         yol = KLASOR / f"{b['id'][:80]}.pdf"
         yol.write_bytes(ham)
@@ -174,6 +247,8 @@ def isle(b, url, segmentler, rapor, derinlik=0, zorla=False, baslik=None):
     if tip == "html":
         sayfa = coz(ham)
         host = urllib.parse.urlparse(url).netloc
+        if "web.archive.org" in host:
+            host = urllib.parse.urlparse(re.sub(r"^https?://web\.archive\.org/web/\w+/", "", url)).netloc or host
         if "mevzuat.gov.tr" in host:
             rapor.append((b["id"], url, "mevzuat.gov.tr sayfası (kaldırılmış)"))
             return False
@@ -203,13 +278,20 @@ def isle(b, url, segmentler, rapor, derinlik=0, zorla=False, baslik=None):
                 (KOK / "icerik" / b["tur"] / f"{b['id']}.md").write_text("\n".join(on) + "\n\n" + govde, encoding="utf-8")
                 rapor.append((b["id"], url, "Resmî Gazete metni"))
                 return True
-        elif "saglik.gov.tr" in host:
+        elif "saglik.gov.tr" in host and 'class="pages_content' in sayfa:
             if html_yaz(sayfa, veri):
                 hedef = KOK / "icerik" / b["tur"] / f"{b['id']}.md"
                 if eslesir(b, hedef.read_text(encoding="utf-8").split("\n---\n", 1)[-1]):
                     rapor.append((b["id"], url, "sayfa metni"))
                     return True
                 hedef.unlink()
+        else:
+            govde = bolum_kes(html_md(sayfa), b)
+            if len(govde) > 400 and (zorla or eslesir(b, govde)):
+                on = ["---"] + [f"{k}: {json.dumps(v, ensure_ascii=False)}" for k, v in veri.items()] + ["---"]
+                (KOK / "icerik" / b["tur"] / f"{b['id']}.md").write_text("\n".join(on) + "\n\n" + govde, encoding="utf-8")
+                rapor.append((b["id"], url, f"sayfa metni ({len(govde)} karakter)"))
+                return True
         rapor.append((b["id"], url, "sayfada tam metin yok"))
         return False
     rapor.append((b["id"], url, f"desteklenmeyen biçim: {tip}"))
@@ -231,7 +313,8 @@ def main():
     atla = set(json.loads(atla_dosya.read_text(encoding="utf-8"))) if atla_dosya.exists() else set()
     rapor = []
     biten = set()
-    for dosya in sorted(Path(a.arastirma).glob("sonuc*.json")):
+    # Resmî Gazete eşleşmeleri önce işlenir; atla.json'daki adresler (kesik/önizleme sayfaları) kullanılmaz
+    for dosya in sorted(Path(a.arastirma).glob("sonuc*.json"), key=lambda p: ("-rg" not in p.name, p.name)):
         try:
             kayitlar = json.loads(dosya.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
@@ -242,6 +325,8 @@ def main():
             if not b or b["tam_metin"] or b["id"] in segmentler or b["id"] in atla or b["id"] in biten:
                 continue
             for url in (k.get("url"), k.get("yedek_url")):
+                if url and url in atla:
+                    continue
                 if url and url.startswith("http") and isle(b, url, segmentler, rapor, zorla=k.get("zorla", False),
                                                            baslik=k.get("baslik")):
                     biten.add(b["id"])

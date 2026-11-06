@@ -8,76 +8,58 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11051/radyasyon-kaynaklariyla-calisan-
 durum: "yürürlükte"
 ---
 
-## SALIK BAKANLIil Saglik Hizmetleri Genel Mudurlugu
+## T.C. Sağlık Bakanlığı
 
-Sa*hk BakanIii
+Sağlık Hizmetleri Genel Müdürlüğü
 
-Sak Hzrnefied
+**Sayı:** B.10.0.SHG.0.18.00.00-010.06/
 
-GeI MUdUU Sayi : B.10.0.SHG.0.18.00.00-010.06/ I(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Konu : Radyasyon Kaynaklariyia cahan Personel
+**Konu:** Radyasyon Kaynaklarıyla Çalışan Personel
 
-### GENELGE 2012/ :
+### GENELGE 2012/34
 
-VAL!Lh!NE
+**....................... VALİLİĞİNE**
 
-3153 sayili Kanunun Ek 1 mci maddesinde yer alan, "tyonlatirici radyasyonia tehis, tedavi veya aratirmanin yapildigi yerier He bu i veya iiemlerde çahan personelin haftalik çahma süresi 35 saattir. Bu sUre içerisinde, Saglik Bakanliginca çikarilacak yonetmelikte belirtilen radyasyon dozu limitleri de ayrica dikkate alinir. Doz limitlerinin ailmamasi için ahnmasi gereken tedbirler He aiidigi taktirde izinle gecirilecek süreler ye ahnacak diger tedbirler Saghk Bakanhginca çikarilacak yonetmelikle belirlenir." hükmU geregince B akanhgimizca hazirlanan "S aghk Hizmetlerinde tyonlatirici Radyasyon Kaynakiari he caiian Personelin Radyasyon Doz Limitleri ye ca1ima Esaslari Hakkinda Yönetmelik" 05/07/2012 tarihli ye 28344 sayili Resmi Gazete yayimianarak yUruriuge girmitir.
+3153 sayılı Kanunun Ek 1 inci maddesinde yer alan, “İyonlaştırıcı radyasyonla teşhis, tedavi veya araştırmanın yapıldığı yerler ile bu iş veya işlemlerde çalışan personelin haftalık çalışma süresi 35 saattir. Bu süre içerisinde, Sağlık Bakanlığınca çıkarılacak yönetmelikte belirtilen radyasyon dozu limitleri de ayrıca dikkate alınır. Doz limitlerinin aşılmaması için alınması gereken tedbirler ile aşıldığı taktirde izinle geçirilecek süreler ve alınacak diğer tedbirler Sağlık Bakanlığınca çıkarılacak yönetmelikle belirlenir.” hükmü gereğince Bakanlığımızca hazırlanan “Sağlık Hizmetlerinde İyonlaştırıcı Radyasyon Kaynakları İle Çalışan Personelin Radyasyon Doz Limitleri ve Çalışma Esasları Hakkında Yönetmelik” 05/07/2012 tarihli ve 28344 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiştir.
 
-Bu Yönetmeiik, radyasyon kaynagi He tehis, tedavi veya aratirmanin yapildigi kamu ye Ozel turn saghk kurum ye kuru1u1ari He radyasyon kaynaklariyla cahan personeli kapsamaktadir.
+Bu Yönetmelik, radyasyon kaynağı ile teşhis, tedavi veya araştırmanın yapıldığı kamu ve özel tüm sağlık kurum ve kuruluşları ile radyasyon kaynaklarıyla çalışan personeli kapsamaktadır.
 
-YOnetmelikte yapilan düzenlemelere i1ikin aagidaki hususlarm duyuruimasi gerekii g6rU1rnutur.
+Yönetmelikte yapılan düzenlemelere ilişkin aşağıdaki hususların duyurulması gerekli görülmüştür.
 
-1- Radyasyon kaynakiari He çahma esasiari be1ir1enmitir. Radyasyon guvenligi kapsamrnda saglik kurum ye kuru1u1arrnin yukumluiuklerine vurgu yapi1mi olup bu yUkumluluklerin saghk kururn ye kuru1ulari idarelerince hassasiyetie yerine getirilmesi gerekmektedir.
+1. Radyasyon kaynakları ile çalışma esasları belirlenmiştir. Radyasyon güvenliği kapsamında sağlık kurum ve kuruluşlarının yükümlülüklerine vurgu yapılmış olup bu yükümlülüklerin sağlık kurum ve kuruluşları idarelerince hassasiyetle yerine getirilmesi gerekmektedir.
 
-2- Saglik kurum ye kuruiu1arinda Radyasyon Guveniigi Komitesi oiuturuimasi 6ng6ru1mutur. Buna gore, Komitenin oiuturu1masi, etkin çahmasi, radyasyon guvenligi hususlarrnrn komiteye bildirilmesi ye komite tarafrndan alinan kararlarin uygulanmasindan saglik kurum ye kuru1uu idaresi sorumlu oiup, komitenin gOrevlerini yurUtebilmesi için gerekli olan fiziki ye idari her tUriü imkân idare tarafindan saglanacaktir.
+2. Sağlık kurum ve kuruluşlarında Radyasyon Güvenliği Komitesi oluşturulması öngörülmüştür. Buna göre, Komitenin oluşturulması, etkin çalışması, radyasyon güvenliği hususlarının komiteye bildirilmesi ve komite tarafından alınan kararların uygulanmasından sağlık kurum ve kuruluşu idaresi sorumlu olup, komitenin görevlerini yürütebilmesi için gerekli olan fiziki ve idari her türlü imkân idare tarafından sağlanacaktır.
 
-3- Radyasyon guvenligi kapsaminda Turkiye Atom Enerjisi Kurumunca yurutulen mevzuat hükümleri dikkate ahnarak radyasyon doz lirnitleri He kiisel cep, el biiegi veya yuzuk dozimetresi kullanacak personel belir1enmitir.
+3. Radyasyon güvenliği kapsamında Türkiye Atom Enerjisi Kurumunca yürütülen mevzuat hükümleri dikkate alınarak radyasyon doz limitleri ile kişisel cep, el bileği veya yüzük dozimetresi kullanacak personel belirlenmiştir.
 
-4- Radyasyon kaynagi kuliarnian saghk kururn ye kuru1u1arinda çalian turn personel mçin idarelerin airnasi gereken tedbirler He personelin çahma esaslari beiirlenmitir. Buna gore;
+4. Radyasyon kaynağı kullanılan sağlık kurum ve kuruluşlarında çalışan tüm personel için idarelerin alması gereken tedbirler ile personelin çalışma esasları belirlenmiştir. Buna göre;
 
-4.1 .Radyasyon kaynagi He çahan personel, bu YOnetmelikte belirtilen radyasyon doz limitieri ye Kanunun Ek 1 mci maddesinde ongOruien sure dâhilinde çahtiri1ir. Bu personelin çalima ek1i, KanunI sureyi amamak kaydiyla, hizmetin etkinlik ye surekiiiiginin saglanmasi bakirnindan vardiya veya nöbet §eklinde dUzenlenebilir. Bu
+4.1. Radyasyon kaynağı ile çalışan personel, bu Yönetmelikte belirtilen radyasyon doz limitleri ve Kanunun Ek 1 inci maddesinde öngörülen süre dâhilinde çalıştırılır. Bu personelin çalışma şekli, Kanunî süreyi aşmamak kaydıyla, hizmetin etkinlik ve sürekliliğinin sağlanması bakımından vardiya veya nöbet şeklinde düzenlenebilir. Bu personel normal mesai dışında icap nöbetine çağrılmış ise icap nöbetinde bilfiil çalışılan süre de haftalık çalışma süresine dâhil edilir.
 
-### SALIK BAKANLBII Saghk Hizmetleri Genel Mudurlugu
+4.2. İdare, personelin sağlığını korumak, doz aşımına maruz kalmasını önlemek ve iş güvenliğini sağlamak için işin niteliğine uygun koruyucu giysi ve teçhizatı eksiksiz bulundurmak ve bu Yönetmelik hükümlerini yerine getirmekle; personel de gerekli korunma tedbirlerine uymakla yükümlüdür.
 
-SaikBakanIit(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) il2-
+4.3. Kişisel dozimetre ölçümlerinde doz limitlerinin aşıldığının tespiti halinde idarece alınacak tedbirler ile izin süreleri belirlenmiştir. Personel sağlığını korumaya yönelik bu tedbirlere idarelerin hassasiyetle uyması, izin verilmesi öngörülen durumlarda mutlak suretle iznin ilgili personele zamanında kullandırılması gerekmektedir.
 
-Sakk Hmetje1
+4.4. Radyasyon Güvenliği Komitesince belirlenen ve radyasyon görevlisi olmamakla birlikte radyasyon kaynağı ile yürütülen faaliyetlerden dolayı yıllık 1 mSv etkin doz değerinden fazla doza maruz kalma ihtimali bulunan personele tedbir amaçlı kişisel dozimetre kullandırılması öngörülmüştür. Bu bağlamda, dozimetre teminine ve kullandırılmasına idarece özen gösterilmesi gerekmektedir.
 
-Gonel MUw1U personel normal mesai diinda icap nöbetine cagri1mi ise icap nöbetinde bilfiil çahi1an sure de haftalik çalima süresine dâhil edilir.
+5. 6/10/2007 tarihli ve 26665 sayılı Resmî Gazete’de yayımlanan “Kamu Sağlık Hizmetlerinde İyonlaştırıcı Radyasyon Kaynakları ile Çalışan Personelin Radyasyon Doz Limitleri Hakkında Yönetmelik” yürürlükten kaldırılmıştır.
 
-4.2.1dare, personelin sagligini korumak, doz aimina maruz kalmasini önlemek ye guvenligini saglamak için iin niteligine uygun koruyucu giysi ye teçhizati eksiksiz bulundurmak ye bu Yönetmelik hükümlerini yerine getirmekie; personel de gerekli korunma tedbirlerine uymakla yukumludur.
+Bilgilerinizi ve konunun ilgililere tebliği ile gereğini rica ederim.
 
-4.3.Kiisel dozimetre olçumlerinde doz limitlerinin aildiginin tespiti halinde idarece ahnacak tedbirler He izin süreleri belirlenmitir. Personel saghgini korumaya yonelik bu tedbirlere idarelerin hassasiyetle uymasi, izin verilmesi ongortilen durumlarda mutlak suretle iznin ilgili personele zamaninda kullandirilmasi gerekmektedir.
+Prof. Dr. Nihat TOSUN  
+Bakan a.  
+Müsteşar
 
-4.4. Radyasyon Guvenligi Komitesince belirlenen ye radyasyon gorevlisi olmamakia birlikte radyasyon kaynagi ile yurutulen faaliyetlerden dolayi yilhk 1 mSv etkin doz degerinden fazia doza maruz kalma ihtimali bulunan personele tedbir amaçli kiisel dozimetre kullandirilmasi 6ng6ru1mutur. Bu baglamda, dozimetre teminine ye kullandirilmasina idarece özen gosterilmesi gerekmektedir.
+**Dağıtım**  
+Gereği:
 
-5- 6/10/2007 tarihli ye 26665 sayili ResmI Gazete'de yayimlanan "Kamu Saglik Hizmetlerinde tyonlatirici Radyasyon Kaynaklari ile Callan Personelin Radyasyon Doz Limitleri Hakkinda Yönetmelik" yürurlukten kaldirilmitir.
+5- Milli Savunma Bakanlığı  
+6- Yüksek Öğretim Kurulu Başkanlığı  
+7- Türkiye Kamu Hastaneleri Kurumu  
+8- Türkiye Halk Sağlığı Kurumu  
+9- Türkiye İlaç ve Tıbbi Cihaz Kurumu  
+10- 81 İl Valiliği
 
-Bilgilerinizi ye konunun ilgililere tebligi ile geregini rica ederim.
-
-4
-
-i 7
-
-Prof. Dr. Nihat TOWN
-
-Bakan a.
-
-Müstear Dagitim Geregi:
-
-5- Milli Savunma Bakanhgi
-
-6- Yüksek Ogretim Kurulu Bakan1igi
-
-7- Turkiye Kamu Hastaneleri Kurumu
-
-8- Turkiye Halk Sagligi Kurumu
-
-9- Turkiye ilaç ye Tibbi Cihaz Kurumu
-
-10-81 Il Valiligi
-
----
-
-**Dipnotlar**
-
-<small>Mevzuat I1eri Dairesi Bakan1igi(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Ayrintili bilgi için irtibat: H.ACAR Mithatpaa Cad. B Blok II.Kat No:24 Sthhiye/Ankara (cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Tel: 0 (312) 585 1502 Faks: 0 (312) 585 1565 Mevzuat t1eri Dairesi Bakan1igi(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Ayrintili bilgi için irtibat: H.ACAR Mithatpaa Cad. B Blok II.Kat No:24 Sihhiye/Ankara (cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Tel: 0(312) 585 15 02 Faks: 0 (312) 585 1565</small>
+ocr: true
+duzeltildi: true
+kontrol_edildi: true

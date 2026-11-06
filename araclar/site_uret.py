@@ -57,8 +57,11 @@ def belgeleri_oku():
     global _ES_DIZIN
     tam = []
     ek = {}
+    elle = {}  # elle-duzeltme.json: her alanı zorla değiştirir
     for js in sorted((KOK / "kaynak-isleme" / "zenginlestirme").glob("*.json")):
-        ek.update(json.loads(js.read_text(encoding="utf-8")))
+        hedef = elle if js.stem == "elle-duzeltme" else ek
+        for i, v in json.loads(js.read_text(encoding="utf-8")).items():
+            hedef.setdefault(i, {}).update(v)
     for md in sorted((KOK / "icerik").glob("*/*.md")):
         veri, govde = on_bilgi_ayir(md.read_text(encoding="utf-8"))
         # Bozuk künyelere dayanıklılık: kimlik ve tür dosya yolundan tamamlanır
@@ -68,6 +71,7 @@ def belgeleri_oku():
         for alan, deger in ek.get(veri["id"], {}).items():
             if deger and (not veri.get(alan) or alan in ("baslik", "konu", "etiketler")):
                 veri[alan] = deger
+        veri.update({a: d for a, d in elle.get(veri["id"], {}).items() if a != "gizle"})
         alanlari_duzelt(veri)
         veri["govde"] = govde
         veri["tam_metin"] = True
@@ -75,6 +79,8 @@ def belgeleri_oku():
     belgeler = tekillestir(tam)
     # Tam metni olan (ya da tam metne birleştirilmiş) kimlikler katalogda yeniden künye olarak görünmesin
     bilinen = set(belgeler)
+    sahip = {i: b for b in belgeler.values() for _, i in b.get("eski_kimlikler", [])}
+    sahip.update(belgeler)
     for b in belgeler.values():
         bilinen.update(i for _, i in b.get("eski_kimlikler", []))
     for js in sorted((KOK / "kaynak-isleme" / "katalog").glob("*.json")):
@@ -85,11 +91,19 @@ def belgeleri_oku():
             k["etiketler"] = [t.replace("-", " ") for t in k.get("etiketler", []) if t]
             if not k.get("id"):
                 k["id"] = "k-" + sade(k["baslik"]).replace(" ", "-")[:90]
-            if k["id"] in bilinen or ek.get(k["id"], {}).get("gizle"):
+            if k["id"] in bilinen or elle.get(k["id"], {}).get("gizle"):
+                continue
+            esi = sahip.get(elle.get(k["id"], {}).get("esi", ""))
+            if esi:  # elle belirlenmiş: bu künye, tam metni olan başka bir kaydın kopyası
+                esi.setdefault("eski_kimlikler", []).append((k["tur"], k["id"]))
+                for alan in ("tarih", "sayi", "rg_tarih", "rg_sayi", "birim", "konu"):
+                    if k.get(alan) and not esi.get(alan):
+                        esi[alan] = k[alan]
                 continue
             for alan, deger in ek.get(k["id"], {}).items():
                 if deger and (not k.get(alan) or alan in ("baslik", "konu", "etiketler")):
                     k[alan] = deger
+            k.update({a: d for a, d in elle.get(k["id"], {}).items() if a != "gizle"})
             alanlari_duzelt(k)
             # Tam metni olan belgeyle aynıysa yalnızca eksik alanları tamamla
             es = esini_bul(belgeler, k)
@@ -211,8 +225,13 @@ def ciftleri_birlestir(belgeler):
                 bas = kume[0]
                 if k[0] == "ts":
                     import difflib
-                    uygun = (difflib.SequenceMatcher(None, baslik_ozu(b), baslik_ozu(bas)).ratio() >= 0.6
-                             or (b["tam_metin"] and bas["tam_metin"] and metin_benzer(b, bas)))
+                    if b["tam_metin"] and bas["tam_metin"]:
+                        k1 = {w[:6] for w in baslik_ozu(b).split() if len(w) > 2}
+                        k2 = {w[:6] for w in baslik_ozu(bas).split() if len(w) > 2}
+                        ortusme = len(k1 & k2) / max(1, min(len(k1), len(k2)))
+                        uygun = metin_benzer(b, bas) or ortusme >= 0.8
+                    else:
+                        uygun = difflib.SequenceMatcher(None, baslik_ozu(b), baslik_ozu(bas)).ratio() >= 0.6
                 else:
                     uygun = (not any(celisir(b, u) for u in kume)
                              and (not (b["tam_metin"] and bas["tam_metin"]) or metin_benzer(b, bas)))

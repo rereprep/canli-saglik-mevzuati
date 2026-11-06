@@ -8,59 +8,51 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11026/organ-nakli-merkezi-2011-yili-planlamasi201067.html"
 durum: "yürürlükte"
 ---
+ocr: true
+duzeltildi: true
+kontrol_edildi: true
+---
 
-## SAdLIK BAKANLICI
 
-T€davl Hlz,GeneMl lld.orgrnNaIu
+## T.C.
+## SAĞLIK BAKANLIĞI
+### Tedavi Hizmetleri Genel Müdürlüğü
 
-glunetlerl9b,
-
-T.C. 15Eyl0l201016:21:35 F5998
-
-|1iilliillllillirllllllllllllllllllllllll
-
-TedaviHizmetleri GenelMiidiirliilii
-
-8043940 Sayr: B.10.0.THG.0.14.00.05 Konu: OrganNakliMerkezi201I Yrhplanlamasr
+Sayı : B.10.0.THG.0.14.00.05
+Konu: Organ Nakli Merkezi 2011 Yılı Planlaması
 
 ### GENELGE
 
-2010t,......67
+2010/.......67
 
-OrganNakli MerkezleriYtinergesindeBakanhkMakamrnrn24t081201t0arihli ve 3420gsayrh onayrile yaprlandeEiqiklikleeklenenE_lI<inci maddesindoergannaklimerkezlerininBakanhkgayaprlacak planlamayagdre agrlaca$ri,ilke.genelindeyeni merkezaErlmasrniahtiyagduyulanhizmetbiilgelerive ihtiyagkapasitesbielirlenerekBakanhkinternetsitesindeilanedilmesiiingbdhiiitiir.
+Organ Nakli Merkezleri Yönergesinde Bakanlık Makamının 24/08/2010 tarihli ve 34208 sayılı Onayı ile yapılan değişiklikle eklenen Ek 1 inci maddesinde organ nakli merkezlerinin Bakanlıkça yapılacak planlamaya göre açılacağı, ülke genelinde yeni merkez açılmasına ihtiyaç duyulan hizmet bölgeleri ve ihtiyaç kapasiteleri belirlenerek Bakanlık internet sitesinde ilan edilmesi öngörülmüştür.
 
-Ek I inci maddehiikiimlerigeregincei;llerin demo-grafikyupt.t,org* beklemelistelerindekayrtl hasta sayllafl, merkezlerinkapasitekullanrm durumu, bdlgiere gdrJ niifus ve merkez sayrla', transplantasyoynapabilecekhekimsayrlarrve iilke genelindeOagrtrmgribi kriterlerdikkatealnarak,2011 ytlt igin yeni organnakli merkeziagtlmasrnaihtiyagduyulaniller ie merkezsayrsrbelirlenmiqolup aqagdakilistedebelirtildigigibidir.
+Ek 1 inci madde hükümleri gereğince; illerin demografik yapısı, organ bekleme listelerinde kayıtlı hasta sayıları, merkezlerin kapasite kullanım durumu, bölgelere göre nüfus ve merkez sayıları, transplantasyon yapabilecek hekim sayıları ve ülke genelinde dağılımı gibi kriterler dikkate alınarak, 2011 yılı için yeni organ nakli merkezi açılmasına ihtiyaç duyulan iller ve merkez sayısı belirlenmiş olup aşağıdaki listede belirtildiği gibidir.
 
-Merkezagrlmastnrnbelli bir__planlamdanhilindeyaprlmasrve yeni merkezagrlmasrihtiyacrolan yerlerin belirlenmesiyaptlrken ilgili bilimsel danrqmakomisyonlanve Ulusal KoordinasyonKurulu gciriiqlerai ltnmrq,yaprlanplanlamadakaynaklannetkinkullanrmrve atll kapasiteyeyol agrlmamasirl,lke diizeyindehizmetindengelie, rigilebilirk, aliteliveverimlibir qekildesunumuhedeflenmiqtir.'
+Merkez açılmasının belli bir planlama dâhilinde yapılması ve yeni merkez açılması ihtiyacı olan yerlerin belirlenmesi yapılırken ilgili bilimsel danışma komisyonları ve Ulusal Koordinasyon Kurulu görüşleri alınmış, yapılan planlamada kaynakların etkin kullanımı ve atıl kapasiteye yol açılmaması, ülke düzeyinde hizmetin dengeli, erişilebilir, kaliteli ve verimli bir şekilde sunumu hedeflenmiştir.
 
-Aqalrdabelirtilenillerdemerkezagmakisteyenkamuve rizelhastaneleIr Ocak-2g $ubat201I tarihleriarasrndamerkezagmatalebiniigerendilekgesinBi akanlk TedaviHizmetleriGenelMiidiirliiliine iletecektir.
+Aşağıda belirtilen illerde merkez açmak isteyen kamu ve özel hastaneler 1 Ocak-28 Şubat 2011 tarihleri arasında merkez açma talebini içeren dilekçesini Bakanlık Tedavi Hizmetleri Genel Müdürlüğüne iletecektir.
 
-BagvurulaBr akanhkgade[erlendirilir.Kamuhizmetlerininsiireklilili vesiirdiiriilebilirlili ileuzman hekim eEitimi bakrmndanijncelikleo ildeki kamuyaait iiniversitehast-aneleirlie egitim u" u.uq,,.rnu hastanelerindeynaprlanbagvurudikkateahnrr.Kamuyaaithastanelerdebnaqvuruyaprlm-amahsar linde<izel hastanelerdeynaptlanbagvuruladrelerlendirmeyaehnrr.Belirlenensaynrniizerindebagvuruolmasrhalinde haksahibinoterhuzurundayaptlacakkurailebelirlenir.Hak sahibihaitaneyemerkezagmanihaibagvurusu yapmakiizerednizinverilir.
+Başvurular Bakanlıkça değerlendirilir. Kamu hizmetlerinin sürekliliği ve sürdürülebilirliği ile uzman hekim eğitimi bakımından öncelikle o ildeki kamuya ait üniversite hastaneleri ile eğitim ve araştırma hastanelerinden yapılan başvuru dikkate alınır. Kamuya ait hastanelerden başvuru yapılmaması halinde özel hastanelerden yapılan başvurular değerlendirmeye alınır. Belirlenen sayının üzerinde başvuru olması halinde hak sahibi noter huzurunda yapılacak kura ile belirlenir. Hak sahibi hastaneye merkez açma nihai başvurusu yapmak üzere ön izin verilir.
 
-Merkezagma<inizni alanhastaneYdnergeyeuygunolarakmerkezruhsatbagvurusunu<jnizin tarihindenitibareniki ayigerisindeeksiksizolarakil Sa[hkMiidiirlii[ii aracrhgrylBaakanirlayapar.Bu siire igerisinderuhsatbagvurusuyaptlmamashralindebagvurusahibinin-oniznl ipLt edilir. Ii#r kurasrndaki srrayagcireyenihaksahibibelirlenerekaynriglemleryaprlrr.
+Merkez açma ön izni alan hastane Yönergeye uygun olarak merkez ruhsat başvurusunu ön izin tarihinden itibaren iki ay içerisinde eksiksiz olarak İl Sağlık Müdürlüğü aracılığıyla Bakanlığa yapar. Bu süre içerisinde ruhsat başvurusu yapılmaması halinde başvuru sahibinin ön izni iptal edilir. Noter kurasındaki sıraya göre yeni hak sahibi belirlenerek aynı işlemler yapılır.
 
-Gerelinibilgilerinizericaederim.
+Gereğini bilgilerinize rica ederim.
 
-Bakana.
+| ORGAN NAKLİ MERKEZİ AÇMAK İÇİN PLANLAMA DAHİLİNDE RUHSAT BAŞVURUSUNDA BULUNULABİLECEK İLLER |  |  |  |  |  |
+|---|---:|---|---:|---|---:|
+|  | BÖBREK NAKLİ MERKEZİ | SAYI | KARACİĞER NAKLİ MERKEZİ | SAYI | KALP NAKLİ MERKEZİ / SAYI |
+| 1 | BURSA | 1 | DİYARBAKIR | 1 | BURSA / 1 |
+| 2 | TRABZON | 1 | VAN | 1 |  |
+| 3 | VAN | 1 | BURSA | 1 |  |
+| 4 | DİYARBAKIR | 2 | SAMSUN | 1 |  |
+| 5 | ŞANLIURFA | 1 |  |  |  |
+| 6 | HATAY | 1 |  |  |  |
 
-Miistegar
+### DAĞITIM:
 
-### DAGITIM:
+Gereği:
 
-GereEi: 8l irvalitigi
+81 İl Valiliği
 
 ---
-
-**Dipnotlar**
-
-<small>ORGANNAKLi MERKEZi A9MAK iEiN PLANLAMADAHiLINDERI,HsATtsA$ITJRUSUI\'DBAIJLUNIJLA}iLEcEK ILLER BoBREKNAKLi MERKEZi SAYI KARAcieERNAKLi MERKEZI SAYI KAIP NAKLI I/DRKEZ| SAYI BURSA I DiYARBAKIR I BURSA</small>
-
-<small>2 TRABZON I</small>
-
-<small>3 BURSA</small>
-
-<small>4 DiYARBAKIR 2 SAMSUN I</small>
-
-<small>5 IJANLIURFA</small>
-
-<small>6 HATAY</small>

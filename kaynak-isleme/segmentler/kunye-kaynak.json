@@ -379,5 +379,115 @@
   "kaynak_pdf": "kunye/sbg-10389-4703-sayili-urunlere-iliskin-teknik-mevzuatin-hazirlanmasi-ve-uygulanm.pdf",
   "pdf_baslangic": 1,
   "pdf_bitis": 12
+ },
+ {
+  "id": "k-doner-sermaye-isletmesi-kapsaminda-destekleyici-talebi-ile-yurutulecek-calismalar-ve-hizmetler-hakkinda-yonerge-degisikligi",
+  "baslik": "Döner Sermaye İşletmesi Kapsamında Destekleyici Talebi ile Yürütülecek Çalışmalar ve Hizmetler Hakkında Yönerge Değişikliği",
+  "tur": "yonerge",
+  "tarih": "2024-03-20",
+  "sayi": "239758327",
+  "birim": "Kamu Hastaneleri Genel Müdürlüğü (KHGM)",
+  "konu": "Döner Sermaye Kapsamındaki Çalışmalar/Hizmetler Yönergesinde Değişiklik.",
+  "etiketler": [
+   "yonerge",
+   "saglik bakanligi"
+  ],
+  "durum": "yürürlükte",
+  "kaynak": "portal.aifd.org.tr (resmî yayın değildir; metnin aktarıldığı ikincil kaynak)",
+  "kaynak_url": "https://portal.aifd.org.tr/wp-content/uploads/2024/07/doner-sermaye-isletmesi-kapsaminda-destekleyici-talebi-ile-yurutulecek-calismalar-ve-hizmetler-hakkinda-yonergepdf.pdf",
+  "kaynak_pdf": "kunye/k-doner-sermaye-isletmesi-kapsaminda-destekleyici-talebi-ile-yurutulecek-calisma.pdf",
+  "pdf_baslangic": 1,
+  "pdf_bitis": 10
+ },
+ {
+  "id": "oz-sicak-ve-soguk-maden-sularinin-istismari-ile-kaplicalar-tesisati-hakkinda-kanun-1926-06-30",
+  "baslik": "Sıcak ve Soğuk Maden Sularının İstismarı ile Kaplıcalar Tesisatı Hakkında Kanun",
+  "tur": "kanun",
+  "sayi": "927",
+  "rg_tarih": "1926-06-30",
+  "rg_sayi": "408",
+  "etiketler": [
+   "sağlıkla ilgili genel mevzuat"
+  ],
+  "not": "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler.",
+  "durum": "yürürlükte",
+  "kaynak": "TBMM kanun metni (ilk kabul edilen metin)",
+  "kaynak_url": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400927.pdf",
+  "kaynak_pdf": "kunye/oz-sicak-ve-soguk-maden-sularinin-istismari-ile-kaplicalar-tesisati-hakkinda-kan.pdf",
+  "pdf_baslangic": 1,
+  "pdf_bitis": 1
+ },
+ {
+  "id": "k-kamu-hastaneleri-genel-mudurlugu-daire-baskanliklari-ve-gorevleri-hakkinda-yonerge",
+  "baslik": "Kamu Hastaneleri Genel Müdürlüğü Daire Başkanlıkları ve Görevleri Hakkında Yönerge",
+  "tur": "yonerge",
+  "tarih": "2025-05-23",
+  "birim": "Kamu Hastaneleri Genel Müdürlüğü",
+  "konu": "KHGM bünyesindeki daire başkanlıklarının yapısı ve görevlerinin düzenlenmesi",
+  "etiketler": [
+   "yonerge",
+   "saglik bakanligi"
+  ],
+  "durum": "yürürlükte",
+  "kaynak": "T.C. Sağlık Bakanlığı internet sitesi (dosyamerkez.saglik.gov.tr)",
+  "kaynak_url": "https://dosyamerkez.saglik.gov.tr/Eklenti/51054/0/kamu-hastaneleri-genel-mudurlugu-daire-baskanliklari-ve-gorevleri-hakkinda-yonergepdf.pdf",
+  "kaynak_pdf": "kunye/k-kamu-hastaneleri-genel-mudurlugu-daire-baskanliklari-ve-gorevleri-hakkinda-yon.pdf",
+  "pdf_baslangic": 1,
+  "pdf_bitis": 8
+ },
+ {
+  "id": "sbg-10735-burokrasinin-azaltilmasi-ve-idari-basitlestirme-genelge-2010-71",
+  "baslik": "Bürokrasinin Azaltılması ve İdari Basitleştirme (Genelge 2010/71)",
+  "tur": "genelge",
+  "sayi": "2010/71",
+  "birim": "Strateji Geliştirme Başkanlığı",
+  "durum": "yürürlükte",
+  "kaynak": "memurlar.net (resmî yayın değildir; metnin aktarıldığı ikincil kaynak)",
+  "kaynak_url": "https://www.memurlar.net/common/news/documents/179070/genelge_2010_71.pdf",
+  "kaynak_pdf": "kunye/sbg-10735-burokrasinin-azaltilmasi-ve-idari-basitlestirme-genelge-2010-71.pdf",
+  "pdf_baslangic": 1,
+  "pdf_bitis": 7
+ },
+ {
+  "id": "sbg-11113-kanser-kontrol-sube-mudurlugu-genelgesi",
+  "baslik": "Kanser Kontrol Şube Müdürlüğü Genelgesi",
+  "tur": "genelge",
+  "birim": "Halk Sağlığı Genel Müdürlüğü",
+  "durum": "yürürlükte",
+  "kaynak": "T.C. Sağlık Bakanlığı internet sitesi (dosyasb.saglik.gov.tr)",
+  "kaynak_url": "https://dosyasb.saglik.gov.tr/Eklenti/1168/0/kanser-kontrol-sube-mudurlugu-genelgesizip.zip",
+  "kaynak_pdf": "kunye/sbg-11113-kanser-kontrol-sube-mudurlugu-genelgesi.pdf",
+  "pdf_baslangic": 1,
+  "pdf_bitis": 2
+ },
+ {
+  "id": "sbg-10425-aday-memurlarin-yetistirilmesine-dair-genel-yonetmelik",
+  "baslik": "Aday Memurların Yetiştirilmesine Dair Genel Yönetmelik",
+  "tur": "yonetmelik",
+  "durum": "yürürlükte",
+  "kaynak": "Resmî kurum sitesi (mgm.gov.tr)",
+  "kaynak_url": "https://www.mgm.gov.tr/FILES/kurumsal/mevzuat/adaymemurlaryonetmeligi2011.pdf",
+  "kaynak_pdf": "kunye/sbg-10425-aday-memurlarin-yetistirilmesine-dair-genel-yonetmelik.pdf",
+  "pdf_baslangic": 1,
+  "pdf_bitis": 10
+ },
+ {
+  "id": "k-kan-numunelerinde-etanol-analizi-islemlerine-iliskin-yonerge",
+  "baslik": "Kan Numunelerinde Etanol Analizi İşlemlerine İlişkin Yönerge",
+  "tur": "yonerge",
+  "tarih": "2025-11-07",
+  "sayi": "E-11045126-010.04-294066240",
+  "birim": "Sağlık Hizmetleri Genel Müdürlüğü – Tetkik ve Teşhis Hizmetleri DB",
+  "konu": "Kan numunelerinde etanol analizinin pre-analitik, analitik ve post-analitik süreçlerinin standartlaştırılması",
+  "etiketler": [
+   "yonerge",
+   "saglik bakanligi"
+  ],
+  "durum": "yürürlükte",
+  "kaynak": "T.C. Sağlık Bakanlığı internet sitesi (dosyaism.saglik.gov.tr)",
+  "kaynak_url": "https://dosyaism.saglik.gov.tr/WebFiles/logolar/logo-tr.png",
+  "kaynak_pdf": "kunye/k-kan-numunelerinde-etanol-analizi-islemlerine-iliskin-yonerge.pdf",
+  "pdf_baslangic": 1,
+  "pdf_bitis": 1
  }
 ]

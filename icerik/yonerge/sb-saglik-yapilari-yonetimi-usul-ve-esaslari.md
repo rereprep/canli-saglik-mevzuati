@@ -14,46 +14,66 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-5.2.1. Sağlık Yapıları Yönetimi Usul ve Esasları
+## T.C. SAĞLIK BAKANLIĞI
+Sağlık Yatırımları Genel Müdürlüğü
 
-### Dağıtım yerlerine yazı (kitap s. 403)
+Sayı:
 
-İlgi yazıları: (a) Bakan Yardımcılığı Makamının 15.03.2023 tarihli ve 31496714 sayılı yazısı; (b) Sağlık Yatırımları Genel Müdürlüğünün 30.06.2021 tarihli ve 212990232 sayılı yazısı; (c) Bakan Yardımcılığı Makamının 21.12.2021 tarihli ve 78742172 sayılı yazısı; (d) Sağlık Yatırımları Genel Müdürlüğünün 22.12.2022 tarihli ve 1545044 sayılı yazısı. (Kaynak görüntüde bazı rakamlar bulanık.)
+Konu: Sağlık Yapıları Yönetimi Usul ve Esasları
 
-Bakanlığa bağlı sağlık kurum ve kuruluşları ile idari binaların depreme dayanıklılık yönünden değerlendirilmesinde önceliklendirme yapılması; binaların deprem dayanıklılığının artırılması noktasında kamu kaynaklarının etkin ve verimli kullanılması için aşağıdaki öncelik sıralamasına göre işlem tesis edilmesi bildirilmiştir:
+### DAĞITIM YERLERİNE
 
-1. Etap: Yapım yılı 2000 ve öncesi olan binalar.  
-2. Etap: Yapım yılı 2001 ve 2007 yılları arası olan binalar.  
-3. Etap: Yapım yılı 2008 ve 2018 yılları arası olan binalar.
+İlgi:
+(a) Bakan Yardımcılığı Makamının 16.03.2023 tarih ve 211496714 [?] sayılı yazısı.
+(b) Sağlık Yatırımları Genel Müdürlüğünün 30.03.2021 [?] tarih ve 212990232 sayılı yazısı.
+(c) Bakan Yardımcılığı Makamının 21.11.2022 tarih ve 178742172 [?] sayılı yazısı.
+(d) Sağlık Yatırımları Genel Müdürlüğünün 22.12.2022 tarih ve 154850441 [?] sayılı yazısı.
 
-Her etap tamamlandığında değerlendirme İl Sağlık Müdürlükleri bünyesinde yapılarak Bakanlığın ilgili birimine bildirilmelidir. İl genelinde farklı uygulamalar oluşmaması için deprem performans analizi yaptırılacak binalar, tahliye, yıkım ve güçlendirme süreçleri ile hizmetin sürdürülmesi konusunda ilgili genel müdürlüklere bildirim yapılması ve koordinasyon kurulması istenmiştir. Görüntünün alt bölümünde, performans analizi için teknik personel bulunmaması halinde Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünden veya diğer kamu kurumlarından destek alınacağı; güçlendirme projeleri ve yaklaşık maliyetlerine dair 2014/9 sayılı yazının uygulanacağı belirtilmektedir. Alt satır devamı sayfa dışında kaldığından tamamlanmamıştır.
+Bilindiği üzere ülkemiz genelinde sağlık hizmet binalarının risk tespitlerinin yapılarak, deprem dayanıklılığının ölçülmesi ve sonuçlarının değerlendirilmesine yönelik ilgi (a) yazı ve ekleri merkez ve taşra teşkilatımıza gönderilmiştir. Ancak mevcut yazıda belirlenen uygulama esasları yürürlükten kaldırılarak aşağıdaki hükümler doğrultusunda yenilenmiştir.
 
-### T.C. SAĞLIK BAKANLIĞI Sağbk Yatımlan Genel Müdürligü
+Bakanlığımıza bağlı sağlık kurum ve kuruluşları ile idari binaların depreme dayanıklılık yönünden değerlendirilmesinde önceliklendirme yapılması gerekmektedir. Bu kapsamda iliniz bünyesindeki binaların deprem dayanıklılığının ölçülmesi noktasında kamu kaynaklarının etkin ve verimli kullanılması adına aşağıdaki öncelik sıralamasına göre işlem tesis edilmelidir.
 
-Genelgema sekizinci maddesindeki yetkınin Il sağlık Müdürlüklen taralindan kullantimasi ve proje/yaklayık mabyetletin if ilnyesindeki tekeik personeileree omy fanmas,
+| Etap | | |
+|---|---|---|
+| 1. Etap | : | Yapım yılı 2000 ve öncesi olan binalar |
+| 2. Etap | : | Yapım yılı 2001 ve 2007 yılları arası olan binalar |
+| 3. Etap | : | Yapım yılı 2008 ve 2018 yılları arası olan binalar |
 
-Güçlendırme kararı verilmesi halinde, güçlendime yapıin ödeneginin, 30)4/9 sayıla Genlyrel hukämletine göre Il Sağlık Mudürlugo ve birinci hasanak sağlık lesiderinde Straieji Gelstume Başkanl erelan ikinci ve üçünců fasamal sağla lesiderinde Kamu Hattaneleri Gonal Můdurlugladon talep-edilinsai, güçlendirme maliyetlerinin yeniden yapem maliyetine oranının N 20yi aynıun durtmendu saltem programuz seklif edilmek Krere Il Sağisk Müdürlaklett tarafından Sağlk Yatırabias Genel Mödizügu ne bildirinsesi
+Her etap tamamlandığında gerekli değerlendirmenin İl Sağlık Müdürlükleri bünyesinde yapılarak Bakanlık ilgili birimine durumun bildirilmesi gerekmektedir.
 
-Güçlenlerme maliyelerinia venlåen yapı inabıyetive vedeai %401 aşrara durtmenda yikılmas yonunde gördę bilderilen biralarla daif dokümanların: bietnci basumak sağlık hizmeti sunan sağlık tesisleri ve alari binalar içen Valilik bönşesendeki. Skinei ve tçllecü basamak sağla hiznadi sunan sağli saislari için Sağlk Yatınmlan Genel Madarlaps hileyecideki Yikım Karar Komisyonuna değerlendirilmel Beere gönderilmesi,
+İllerimizde farklı uygulamaların oluşmaması ve uygulama birliği sağlanması açısından;
 
-Dala onceki karın ve yönetmehklere güre deprem performam aralizi ye değerlendirmesi Yapsämuj ancak Il Sağla Mudürlükleri tarafindan herhangi bir karar almımam binalar için i bunyesinde gerekli değerlendirmenin yapılarik yikam ingürdlüyresa binınci basamak sağlık kiamet sanan cağidk Tesisleri ve ulari hisazar için Valiliğe, ikinci ve üçünci basamak sağisi, hraneti sanan sağla seyisieri kan Sağlık Yatsamelan Genel Müdürlügine bayvarlts g eremek tedir.
+İl Sağlık Müdürlüklerimizce öncelikle Hızlı Tarama Testinin (Tahribatsız Beton Test Çekici, Röntgen Donatı Tarama, Sıyırma, Gözlemsel Rapor vb.) yapılması veya yaptırılması, hızlı tarama testi sonucunda hiçbir deprem yükü taşımadığı anlaşılan ve çökme riski bulunan binaların tahliyesi talebinin Bakanlık ilgili birimine (birinci basamak sağlık hizmeti sunan sağlık tesisleri için Halk Sağlığı Genel Müdürlüğü, ikinci ve üçüncü basamak sağlık hizmeti sunan sağlık tesisleri için Kamu Hastaneleri Genel Müdürlüğü ile Sağlık Hizmetleri Genel Müdürlüğü, acil sağlık hizmeti sunan sağlık tesisleri için Acil Sağlık Hizmetleri Genel Müdürlüğü, idari binalar için Yönetim Hizmetleri Genel Müdürlüğü) iletilmesi, yıkım talebinin ise ikinci ve üçüncü basamak sağlık hizmeti sunan sağlık tesisleri için Sağlık Yatırımları Genel Müdürlüğüne iletilmesi gerekmektedir. Birinci basamak sağlık hizmeti sunan sağlık tesisleri ve idari binaların yıkımı için Valilik bünyesinde işlemlerin sonuçlandırılması,
 
-Geçendime kararı vaya Yilum Karar Kumlayenunca başlatine sılom lyleminden dalayi fenalenn boşaluma karan, ügili Genel Moderfoklere (Birinci hasmak salik lesisi hrin lamin kimi tin planleması Hafk Sağhja Genci Müdürlegü, icinci ve açunch basamak sağtk tecoi ben alanında himmetin plandanası Kamu Hastaneleri Gesel Modtrlnğs ve Seğhk Himetlen Genel Müturtuga, acil sağlık hizmeu suras sağlık tesisi hanlarola hemetin planiamnu Acil Sagsk Hizraelleri Genel Malarinğu, Han binalantaki Siant planlames Yenetim Hizmetleri Genel Maderugo) bildirilir ve agili Ganal Müdürükler koordinaryomenda II Sağlık Miadürlüklerince yürizülür
+Hızlı tarama testi sonucunda beton dayanımı kanun ve yönetmelikler ile belirlenen değerin altında çıkan binalar için deprem performans analizinin İl Sağlık Müdürlüklerince yukarıda belirtilen etaplar dikkate alınarak yaptırılması gerekmektedir. Deprem performans analizinin Ek-1'de yer alan Sağlık Bakanlığı Mevcut Sağlık Tesislerinin Deprem Tahkik ve/veya Güçlendirilmesi ve/veya Nitelikli Hale Getirilmesi İşine Ait Özel Teknik Şartname ve Ek-2'de yer alan Zemin ve Temel Etüt Şartnamesi doğrultusunda yaptırılması,
 
-Ydım kararı alamą olan binalar ıle dgili yeniden yapam için gereklı planlama süreci duilı Genel Müdürtükler (Birinci basamak sağik terid binalınnda hizmetie planlamensi Halk Sağler Gerel Modıioge ikisci ve oçlincü husamd, sağla tesai binalarnla hirmerin planlamasi Kamu Hastanelerı Genul Mödudngo ve Sağlık Hizmetleri Genel Madürlaga, acil sağlık hizmeti sunan sağlık terisi hirslanında hizmetin planlamasi Avi Sağla Hizzazteri Genel Müdürloga, idari binalardaki hiznaci planlanan Yaretim Himmetlen Geni Matarlagos tarufindan yapalurak yaterım progrımina teklif adimek anere Sağlık Vatanmlan Genel Madarlugune iletilir.
+Deprem performans analizi sonuçlarının İl Sağlık Müdürlükleri teknik personelince (yeterli teknik personel bulunmaması halinde öncelikle Çevre, Şehircilik ve İklim Değişikliği İl Müdürlükleri olmak üzere ildeki diğer kamu kurum ve kuruluşlarından destek alınarak) incelenmesi ve binalarda güçlendirme çıkması durumunda, güçlendirme projeleri ve yaklaşık maliyetlerine dair 2014/9 sayılı Genelge'nin sekizinci maddesindeki yetkinin İl Sağlık Müdürlükleri tarafından kullanılması ve proje/yaklaşık maliyetlerin il bünyesindeki teknik personellerce onaylanması,
 
-Tabkik ve performana anata galipnalun ve güçlendire projesi için edemak ibiyaa, Il Sagtah Modürtoği ve birinci hanmak saflık lessletinde Strateji Gelişimne Başkanlınea (kinei ve öçüna) hesamak saglik testslerinde gerektig durenlanda her hir sağlık tersinin döner sertmaye Mugesinan 970.03.05.01.90 Diğer Mavir Firma ve Kiyilere Odemeler kalemin Gecrinden Kanu Hanmackri Genel
+Güçlendirme kararı verilmesi halinde; güçlendirme yapım ödeneğinin, 2014/9 sayılı Genelgesi hükümlerine göre İl Sağlık Müdürlüğü ve birinci basamak sağlık tesislerinde Strateji Geliştirme Başkanlığından, ikinci ve üçüncü basamak sağlık tesislerinde Kamu Hastaneleri Genel Müdürlüğünden talep edilmesi, güçlendirme maliyetlerinin yeniden yapım maliyetine oranının %20'yi aşması durumunda yatırım programına teklif edilmek üzere İl Sağlık Müdürlükleri tarafından Sağlık Yatırımları Genel Müdürlüğü'ne bildirilmesi,
 
-En dinelene ie birlikte Bakan Yardiolig Makamıman ihti (e) ve (c) yalany ile Salink Yatrmlanı Genel Müdürliğünün ilgi (bi ve (d) yaedar yliklikien kaldıminışiar
+Güçlendirme maliyetlerinin yeniden yapım maliyetine oranının %40'ı aşması durumunda yıkılması yönünde görüş bildirilen binalarla ilgili dokümanların; birinci basamak sağlık hizmeti sunan sağlık tesisleri ve idari binalar için Valilik bünyesindeki, ikinci ve üçüncü basamak sağlık hizmeti sunan sağlık tesisleri için Sağlık Yatırımları Genel Müdürlüğü bünyesindeki Yıkım Karar Komisyonuna değerlendirilmek üzere gönderilmesi,
 
-Bilgilerinizi ve geregini rica ederimi.
+Daha önceki kanun ve yönetmeliklere göre deprem performans analizi ve değerlendirmesi yapılmış ancak İl Sağlık Müdürlükleri tarafından herhangi bir karar alınmamış binalar için il bünyesinde gerekli değerlendirmenin yapılarak yıkım öngörülüyorsa birinci basamak sağlık hizmeti sunan sağlık tesisleri ve idari binalar için Valiliğe, ikinci ve üçüncü basamak sağlık hizmeti sunan sağlık tesisleri için Sağlık Yatırımları Genel Müdürlüğüne başvurulması gerekmektedir.
 
-TorTOL VAY
+Güçlendirme kararı veya Yıkım Karar Komisyonunca başlatılan yıkım işleminden dolayı binaların boşaltılma kararı, ilgili Genel Müdürlüklere (Birinci basamak sağlık tesisi binalarında hizmetin planlaması Halk Sağlığı Genel Müdürlüğü, ikinci ve üçüncü basamak sağlık tesisi binalarında hizmetin planlaması Kamu Hastaneleri Genel Müdürlüğü ve Sağlık Hizmetleri Genel Müdürlüğü, acil sağlık hizmeti sunan sağlık tesisi binalarında hizmetin planlaması Acil Sağlık Hizmetleri Genel Müdürlüğü, idari binalardaki hizmet planlaması Yönetim Hizmetleri Genel Müdürlüğü) bildirilir ve ilgili Genel Müdürlükler koordinasyonunda İl Sağlık Müdürlüklerince yürütülür.
 
-Bekan a
+Yıkım kararı alınmış olan binalar ile ilgili yeniden yapım için gerekli planlama süreci ilgili Genel Müdürlükler (Birinci basamak sağlık tesisi binalarında hizmetin planlaması Halk Sağlığı Genel Müdürlüğü, ikinci ve üçüncü basamak sağlık tesisi binalarında hizmetin planlaması Kamu Hastaneleri Genel Müdürlüğü ve Sağlık Hizmetleri Genel Müdürlüğü, acil sağlık hizmeti sunan sağlık tesisi binalarında hizmetin planlaması Acil Sağlık Hizmetleri Genel Müdürlüğü, idari binalardaki hizmet planlaması Yönetim Hizmetleri Genel Müdürlüğü) tarafından yapılarak yatırım programına teklif edilmek üzere Sağlık Yatırımları Genel Müdürlüğüne iletilir.
 
-Bakan YardancH
+Tahkik ve performans analiz çalışmaları ve güçlendirme projesi için ödenek ihtiyacı, İl Sağlık Müdürlüğü ve birinci basamak sağlık tesislerinde Strateji Geliştirme Başkanlığınca, ikinci ve üçüncü basamak sağlık tesislerinde gerektiği durumlarda her bir sağlık tesisinin döner sermaye bütçesinin 970.03.05.01.90 Diğer Müşavir Firma ve Kişilere Ödemeler kaleminin üzerinden Kamu Hastaneleri Genel Müdürlüğünden talep edilir.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Yatırımlara Gonel Müdürliga
+Bu düzenleme ile birlikte Bakan Yardımcılığı Makamının ilgi (a) ve (c) yazıları ile Sağlık Yatırımları Genel Müdürlüğünün ilgi (b) ve (d) yazıları yürürlükten kaldırılmıştır.
 
-Des@stam : 81 11 Valiligs Acil Sağlık Hizmetleri Gensi Madactuga Halk sağlğ: Genel Müdürlağe Kamu Hastaneleri Genel Müdürlugü Sağlık Hicmetieri Genel Müd ariaga Sağlık Vatımmlan Gessl Mudürluğu YOnetim Hizmetleri Genel Müdurlugu
+Bilgilerinizi ve gereğini rica ederim.
+
+Doç. Dr. Tolga TOLUNAY
+Bakan a.
+Bakan Yardımcısı
+
+Dağıtım:
+81 İl Valiliği
+Acil Sağlık Hizmetleri Genel Müdürlüğü
+Halk Sağlığı Genel Müdürlüğü
+Kamu Hastaneleri Genel Müdürlüğü
+Sağlık Hizmetleri Genel Müdürlüğü
+Sağlık Yatırımları Genel Müdürlüğü
+Yönetim Hizmetleri Genel Müdürlüğü
