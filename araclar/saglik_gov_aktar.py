@@ -66,6 +66,29 @@ def docx_yaz(yol, veri):
     return True
 
 
+def html_yaz(sayfa, veri, tam_sayfa=False):
+    """saglik.gov.tr sayfa gövdesindeki (veya .htm ekindeki) metni içeriğe yazar."""
+    from mevzuat_gov_aktar import html_md
+    if not tam_sayfa:
+        bas = sayfa.find('class="pages_content')
+        if bas < 0:
+            return False
+        son = sayfa.find('class="page_sub_links_content', bas)
+        sayfa = sayfa[bas:son if son > 0 else bas + 80000]
+        sayfa = sayfa[sayfa.find(">") + 1:]
+    # <p> içermeyen sayfalarda satır sonlarını paragrafa çevir
+    if not re.search(r"(?i)<p[ >]", sayfa):
+        sayfa = "<p>" + re.sub(r"(?i)<br\s*/?>\s*(<br\s*/?>\s*)*", "</p><p>", sayfa) + "</p>"
+    govde = html_md(sayfa)
+    if len(govde) < 600:
+        return False
+    on = ["---"] + [f"{a}: {json.dumps(b, ensure_ascii=False)}" for a, b in veri.items()] + ["---"]
+    hedef = KOK / "icerik" / veri["tur"] / f"{veri['id']}.md"
+    hedef.parent.mkdir(parents=True, exist_ok=True)
+    hedef.write_text("\n".join(on) + "\n\n" + govde, encoding="utf-8")
+    return True
+
+
 def main():
     segmentler, katalog = [], []
     for dizin in sorted((KOK / "kaynak-isleme" / "saglik-gov").glob("*.json")):
@@ -94,6 +117,11 @@ def main():
             elif word_ekler:
                 e = word_ekler[0]
                 tip, dosya = e["tip"], INDIRILEN / tur / e["dosya"]
+            htm_ekler = [e for e in ekler if e["tip"] == "html"]
+            if not tamam and not pdf_ekler and not word_ekler and htm_ekler:
+                tamam = html_yaz((INDIRILEN / tur / htm_ekler[0]["dosya"]).read_text(encoding="utf-8", errors="replace"), veri, tam_sayfa=True)
+            if not tamam and tip == "html" and not ekler and dosya.exists():
+                tamam = html_yaz(dosya.read_text(encoding="utf-8", errors="replace"), veri)
             if tamam:
                 pass
             elif tip == "pdf" and dosya.exists():

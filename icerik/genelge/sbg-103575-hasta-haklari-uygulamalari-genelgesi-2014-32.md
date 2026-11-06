@@ -2,6 +2,7 @@
 id: "sbg-103575-hasta-haklari-uygulamalari-genelgesi-2014-32"
 baslik: "Hasta Hakları Uygulamaları Genelgesi (2014/32)"
 tur: "genelge"
+tarih: "2014-11-06"
 sayi: "2014/32"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
@@ -9,21 +10,24 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103575/hasta-haklari-uygulamalari-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.11. Hasta Hakları Uygulamaları Genelgesi (2014/32)
 
-### T.C. SAĞLIK BAKANLIĞI
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
-Sağlık Hizmetleri Genel Müdürlüğü T.C. SAĞLIK BAKANLIĞI - SAĞLIK HİZMETLERI TC Sağlık Bakanlığı DENEL MÜ DÜRLCÓ0 - HASTA HAKLARI VE
-
-### An quEITICN TIBBI SOSYAL HİZMETLER DAIRE BAŞKANL10I
+SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - HASTA HAKLARI VE TIBBİ SOSYAL HİZMETLER DAİRE BAŞKANLIĞI
+06.11.2014 17:56 - 2014.5371.1165 / 419
+00006121732
 
 Sayı : 64047795
+Konu : Hasta Hakları Uygulamaları
 
-00006121732 Konu : Hasta Hakları Uygulamaları
-
-### GENELGE 2014/32
+GENELGE
+2014/32
 
 Hasta Hakları Yönetmeliği ile birinci basamak kamu sağlık tesisleri, özel sağlık tesisleri ve askeri hastaneler dahil olmak üzere bütün sağlık kurum ve kuruluşlarında hasta memnuniyetinin arttırılması, insan haysiyetine yakışır şekilde herkesin hasta haklarından faydalanabilmesi, hak ihlallerinden korunabilmesi ve gerektiğinde hukuki korunma yollarını fiilen kullanılabilmesini teminen hasta sorumlulukları da belirlenerek hasta/çalışan memnuniyeti ve güvenliğini gözeten bir yaklaşımla düzenleme yapılmıştır.
 
@@ -39,7 +43,7 @@ Il koordinatörü:
 
 Hekim, sosyal hizmet uzmanı ya da psikolog öncelikli olmak üzere lisans mezunları arasından İl Sağlık Müdürünün teklifi, Valiliğin uygun görüşü ve Bakanlığın onayı ile belirlenir. Görevine aynı usulle son verilir. Görevini İl Sağlık Müdürüne bağlı olarak yürütür.
 
-Bu genelgenin yayım tarihinde hasta hasta hakları il koordinatörlüğü görevini yürütenler, eğitim durumları ve unvanlarına bakılmaksızın bir defaya mahsus olmak üzere hiçbir onaya gerek kalmaksızın görevlerine devam ederler. Görevlerinden ayrılmaları halinde bu hakları sona erer.
+Bu genelgenin yayım tarihinde hasta hakları il koordinatörlüğü görevini yürütenler, eğitim durumları ve unvanlarına bakılmaksızın bir defaya mahsus olmak üzere hiçbir onaya gerek kalmaksızın görevlerine devam ederler. Görevlerinden ayrılmaları halinde bu hakları sona erer.
 
 Il koordinatörünün görevleri:
 
@@ -49,15 +53,15 @@ b) HBBS'nin işleyişini ve kurul kararlarının uygulanmasını takip eder. HBB
 
 c) Kurulun toplanması, üye görevlendirilmesi ve üyeliğin sona ermesi gibi kurulun çalışmasına ilişkin işlemleri yürütür.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC. Sağlık Bakanliğ
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 d) Birden fazla kurul oluşturulması halinde sağlık kuruluşlarının bağlı olacağı kurul ile değişiklik taleplerini değerlendirir.
 
 e) Hasta hakları uygulamalarını il genelinde koordine eder ve bu konuda danışmanlık yapar. Gereği halinde uygulamaları yerinde denetler ve hasta hakları ihlaline sebep olabilecek hususları yerinde inceler/inceletir.
 
-1) Ihtiyaç halinde ilde hasta hakları ile ilgili seminer, toplantı ve eğitim düzenler.
+1) İhtiyaç halinde ilde hasta hakları ile ilgili seminer, toplantı ve eğitim düzenler.
 
 g) Kurul kararlarının özetini, başvuru tarihi, başvuru konusu, karar tarihi ve sayısı ile sağlık tesisi ismi belirterek kişi isimlerine yer vermeden il sağlık müdürlüğünün internet sayfasında duyurulmasını sağlar.
 
@@ -71,7 +75,7 @@ Başkan ve üyeler:
 
 Kurul; başkan, sendika işyeri temsileisi, kurum temsilcisi, dernek temsilcisi ve vatandaștan oluşur.
 
-İl Sağlık Müdürü veya görevlendireceği hasta hakları koordinatörü veya sağlık müdür yardımcısı başta olmak üzere en az lisans mezunu, hasta hakları konusunda deneyimi veya eğitimi olan, tercihen idari pozisyonu bulunan bir üye kurula başkanlık eder. Ilçede kurul oluşturulacaksa, İl Sağlık Müdürünün görevlendireceği, Ilçe sağlık müdürü veya en az lisans mezunu düzeyinde hasta hakları konusunda deneyimi veya eğitimi olan bir üye kurula başkanlık
+İl Sağlık Müdürü veya görevlendireceği hasta hakları koordinatörü veya sağlık müdür yardımcısı başta olmak üzere en az lisans mezunu, hasta hakları konusunda deneyimi veya eğitimi olan, tercihen idari pozisyonu bulunan bir üye kurula başkanlık eder. İlçede kurul oluşturulacaksa, İl Sağlık Müdürünün görevlendireceği, İlçe sağlık müdürü veya en az lisans mezunu düzeyinde hasta hakları konusunda deneyimi veya eğitimi olan bir üye kurula başkanlık
 
 Diğer kurul üyeleri:
 
@@ -91,9 +95,9 @@ Toplum sağlığı merkezleri ve bağlı birimleri ile entegre sağlık hizmeti 
 
 Kurulda görev almak isteyen dernekler İl Sağlık Müdürlüğüne başvurur. Birden fazla hasta hakları derneğinin veya tüketici derneğinin başvurması durumunda, öncelikle hasta hakları derneklerinden yoksa tüketici derneklerinden bir dernek temsilcisi il sağlık müdürlüğünce kura yoluyla belirlenir. Beyanına göre sağlık kurulüşuyla ticari ilişkisi olmayan dernek ve dernek üvesi kurulda görevlendirilir.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC Sağlık Bakanlığı
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 Kurula temsilci gönderecek kurumlar her kurul için bir asil bir yedek olmak üzere yasal süreler içinde görev yapacak daimi iki temsilci ismi bildirir. Asil üyelerin mazereti sebebiyle toplantıya katılamaması halinde yerlerine yedek üyeler katılır.
 
@@ -143,9 +147,9 @@ d) Kurul kararını gerekçesiyle birlikte HBBS'ye kaydeder. Kararın yer aldı�
 
 e) Sekretaryaya yapılan hasta haklarına ilişkin başvuruları HBBS'ye kaydeder.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC. Soğak Bakanlığ
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 1) Görev yaptığı kurula bağlanması uygun görülen sağlık tesisini HBBS üzerinde kurulla ilişkilendirir. Gereği halinde ilgili sağlık tesisinin başka bir kurula bağlanması için il koordinatörüne aktarım talebinde bulunur.
 
@@ -155,7 +159,7 @@ Iletişim birimi:
 
 a) Hasta hakları uygulamalarının yürütülmesi amacıyla, kamu sağlık tesisleri, üniversite sağlık tesisleri, askeri hastaneler, kamu ve özel ağız diş sağlığı tesisleri, özel hastaneler, tıp merkezleri, poliklinikler ve toplum sağlığı merkezlerinde iletişim birimi kurulur. Toplum Sağlığı Merkezine bağlı birimler ile entegre sağlık hizmeti sunulan birinci basamak kamu sağlık tesislerinde hasta hakları uygulamaları toplum sağlığı merkezlerinde kurulan hasta iletişim birimince yürütülür.
 
-Ozel muayenehane, 112 acil sağlık hizmetleri ve diğer sağlık birimlerine ilişkin başvurular Il veya Ilçe Sağhık Müdürlüğüne yapılır. Bu başvurular genel hükümlere göre degerlendirilir.
+Ozel muayenehane, 112 acil sağlık hizmetleri ve diğer sağlık birimlerine ilişkin başvurular Il veya İlçe Sağlık Müdürlüğüne yapılır. Bu başvurular genel hükümlere göre degerlendirilir.
 
 b) Hasta iletişim birimi yeteri kadar sağlık hizmetleri sınıfi ve idari hizmetler sınıfi çalışanından oluşur.
 
@@ -169,7 +173,7 @@ e) Hasta iletişim birimi, poliklinik katında, kolay ulaşılabilir bir yerde v
 
 Hasta iletişim Birimi sorumlusu
 
-a) Hasta iletişim birim sorumlusu öncelikli olarak hasta hakları konusunda eğitimi bulunan sosyal hizmet uzmanı, psikolog, iletişim fakültesi mezunları ya da müfredatında iletişim, halkla ilişkiler dersi bulunan fakülteler olmak üzere en az lisans mezunu kişiler arasından sağlık kuruluşunun teklifi, varsa sağlık kuruluşunun idari olarak bağhı olduğu ildeki üst kuruluşunun ve sağlık müdürlüğünün uygun görüşü, Valiliğin onayı ile görevlendirilir. Görevine aynı usulle
+a) Hasta iletişim birim sorumlusu öncelikli olarak hasta hakları konusunda eğitimi bulunan sosyal hizmet uzmanı, psikolog, iletişim fakültesi mezunları ya da müfredatında iletişim, halkla ilişkiler dersi bulunan fakülteler olmak üzere en az lisans mezunu kişiler arasından sağlık kuruluşunun teklifi, varsa sağlık kuruluşunun idari olarak bağlı olduğu ildeki üst kuruluşunun ve sağlık müdürlüğünün uygun görüşü, Valiliğin onayı ile görevlendirilir. Görevine aynı usulle
 
 Bu genelgenin yayım tarihinde hasta hakları birim sorumlusu olarak çalışanlar, eğitim durumları ve unvanlarına bakılmaksızın bir defaya mahsus olmak üzere hiçbir onaya gerek kalmaksızın görevlerine devam ederler. Görevlerinden ayrılmaları halinde bu hakları sona erer.
 
@@ -180,10 +184,8 @@ c) Hasta hakları konusunda eğitimi olmayan kişiler hasta iletişim birim soru
 Hasta iletişim birimi sorumlusu, il koordinatörlüğü tarafından planlanan 8 saat teorik ve 8 saat uygulamalı aşağıdaki eğitimlere tabi tutulur:
 
 T.C.
-
-### SAĞLIK BAKANLIGI
-
-Sağlık Hizmetleri Genel Müdürlüğü TC Sağak Bakanlığı
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 1- Hasta odaklı hizmet anlayışı eğitimi(hasta hekim iletişimi, Bakanlık uygulamaları, hasta hakları mevzuatı).
 
@@ -225,9 +227,9 @@ Hasta ve yakınları tarafından, sağlık hizmet sunucularına ilişkin başvur
 
 HBBS'ye, https://hastahaklari.saglik.gov.tr/ adresinde tanimlı olan sağlik tesislerine yönelik şikayet, sorun-çözme, görüş- öneri veya teşekkür başvurusu yapılabilir. Bu başvuru ilgili sağlık tesisi hasta iletişim birimi tarafından işleme alınır.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC. Sağlık Bakanlığ
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 Hasta veya yakını tarafından hasta iletişim birimine doğrudan başvuru yapılması halinde, başvuru kimlik ibrazıyla yazılı olarak alınır. Yazılı başvuru tarayıcıdan geçirilerek HBBS ye doğrudan başvuru olarak kaydedilir. Süreç hakkında başvuran bilgilendirilir.
 
@@ -263,9 +265,9 @@ e) Sağlık tesisleri, kurul kararlarının gereğini yerine getirir ve yapılan
 
 1) Kurul kararı kendisine bildirilen ilgili kurum veya kuruluşun yöneticisi/askeri hastane başhekimi/mesul müdürü gerekli işlemlerin yapılmamasından veya gecikmesinden doğacak adli ve idari sonuclardan sorumludur.
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
-
-TC Sağlık Bakanlığ
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 Hasta hakları uygulamalarının ve Hasta Başvuru Bildirim Sisteminin herhangi bir aksamaya mahal verilmeden tüm sağlık tesislerimizde multidisipliner bir şekilde uygulanması hususunda gereğini rica ederim.
 
@@ -273,4 +275,9 @@ Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Müstesar Dağıtım: A Plan Yüksek Öğretim Kurulu Bşk.na Genel Kurmay Başkanlığına
+Müsteşar
+
+Dağıtım:
+A Planı
+Yüksek Öğretim Kurulu Bşk.na
+Genel Kurmay Başkanlığına

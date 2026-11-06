@@ -7,51 +7,62 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103524/sarbon-antiserumu-genelgesi-200587.html"
 durum: "yürürlükte"
+tarih: "2005-05-26"
 konu: "Şarbon antiserumunun tedavideki yerine ve kullanımına ilişkin değerlendirmeyi bildirir."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.32. Şarbon Antiserumu Genelgesi (2005/87)
 
-Sayı : B100TSH0110002 Konu: Şarbon Antiserumu
+**T.C. Sağlık Bakanlığı**
+Temel Sağlık Hizmetleri Genel Müdürlüğü
+Sayı: B100TSH0110002
+Konu: Şarbon Antiserumu
+Tarih: 26.05.2005
+7615
 
-13.05.05.* 5000
+## Genelge (2005/87)
 
-BAKANLIK MAKAMINA
+Bakanlığımız, Refik Saydam Hıfzıssıhha Merkezi Başkanlığı tarafından üretilen ve ülkemizde şarbon hastalığı tedavisinde çok az da olsa bazı vak'alarda kullanılan hayvan kaynaklı şarbon antiserumu uygulaması, son bilimsel gelişmeler doğrultusunda yeniden değerlendirilmiş olup, Makamın 13/05/2005 tarihli ve B100TSH0110002/5000 sayılı sureti ilişik Olurlarına müsteniden, söz konusu uygulamaya son verildiği hususlarında bilgilerinizi, keyfiyetten bütün sağlık kurum ve kuruluşlarının haberdar edilmesi için de ilgililere emirlerinizi arz ve rica ederim.
 
-Ülkemizde, Refik Saydam Hıfzıssıhha Merkezi Başkanlığı tarafından üretilen ve şarbon hastalığı tedavisinde çok az da olsa bazı vak'alarda kullanıldığı bildirilen hayvan kaynaklı şarbon antiserumunun, tedavideki yerinin ne olduğu konusunda ilgili kurumlar ile uzmanların fikirlerine başvurulmuş olup, tarafimıza ulaşan görüşlerin değerlendirilmesi neticesinde ;
+**Ek:** Makam Onayı (1 sayfa)
 
-* Insan şarbonunda antiserum uygulamasının, 1960°hı yıllardan beri batı dünyasında terk edildiği,
+Prof. Dr. Necdet ÜNÜVAR
+Bakan a.
+Müsteşar
 
-• Dünya Saglik Teskilâti tarafından hazirlanan "Guidelines for the Surveillance and Control of
+**Dağıtım:** A Planı; Daimî Genelge.
 
-Anthrax in Humans and Animals WHO/EMC/ZDI/98.6" adl kılavuzda da tedavide
+## Ek: Makam Onayı
 
-antibakteriyel şarbon antiserumunun önerilmediği,
+**T.C. Sağlık Bakanlığı**
+Temel Sağlık Hizmetleri Genel Müdürlüğü
+Sayı: B100TSH0110002
+Konu: Şarbon Antiserumu
+13.05.2005 — 5000
 
-/ Sadece sistemik şarbon olgularının tedavisinde, aşılanmış insanlardan hazırlanan spesifik
+**Bakanlık Makamına**
 
-antitoksik human gammaglobulinin, antimikrobiyel tedavi ile birlikte verilmesi konusunda
+Ülkemizde, Refik Saydam Hıfzıssıhha Merkezi Başkanlığı tarafından üretilen ve şarbon hastalığı tedavisinde çok az da olsa bazı vak'alarda kullanıldığı bildirilen hayvan kaynaklı şarbon antiserumunun, tedavideki yerinin ne olduğu konusunda ilgili kurumlar ile uzmanların fikirlerine başvurulmuş olup, tarafımıza ulaşan görüşlerin değerlendirilmesi neticesinde:
 
-görüş birliğinin bulunduğu; ancak, dünyada da henüz bu antiserumu hazırlayıp kullanımını
+- İnsan şarbonunda antiserum uygulamasının, 1960'lı yıllardan beri Batı dünyasında terk edildiği,
+- Dünya Sağlık Teşkilatı tarafından hazırlanan “Guidelines for the Surveillance and Control of Anthrax in Humans and Animals WHO/EMC/ZDI/98.6” adlı kılavuzda da tedavide antibakteriyel şarbon antiserumunun önerilmediği,
+- Sadece sistemik şarbon olgularının tedavisinde, aşılanmış insanlardan hazırlanan spesifik antitoksik human gammaglobulinin, antimikrobiyel tedavi ile birlikte verilmesi konusunda görüş birliğinin bulunduğu; ancak dünyada da henüz bu antiserumu hazırlayıp kullanımını sürekli kılan bir ülkenin bulunmadığı,
+- *Bacillus anthracis*'in biyolojik silah olarak da kullanılabilme potansiyelinin olması keyfiyetinden ötürü, Refik Saydam Hıfzıssıhha Merkezi Başkanlığında şarbonla ilgili her türlü çalışmayı yapabilecek bir laboratuvar kurulmasının uygun olacağı
 
-sürekli kılan bir ülkenin bulunmadığı,
+kanaatine varılmıştır.
 
-• Bacillus anthracis'in biyolojik silah olarak da kullanılabilme potansiyelinin olması
+Bu nedenle, şarbon hastalığının tedavisinde antiserum kullanımının uygulamadan kaldırılması ve dolayısıyla da hayvan kaynaklı şarbon antiserumu üretimine son verilmesi hususlarında takdir ve tensiplerinizi arz ederim.
 
-keyfiyetinden ötürü, Refik Saydam Hıfzıssıhha Merkezi Başkanlığında şarbonla ilgili her türlü
+Uzm. Dr. Mehmet UĞURLU
+Genel Müdür
 
-çalışmayı yapabilecek bir låboratuvar kurulmasının uygun olacağı kanaatine varılmıştır.
+**Uygun görüşle arz ederim**
+Prof. Dr. Necdet ÜNÜVAR
+Müsteşar
 
-Bu nedenle, şarbon hastalığının tedavisinde antiserum kullanımının uygulamadan kaldırılması ve dolayısıyla da hayvan kaynaklı şarbon antiserumu üretimine son verilmesi hususlarında takdir ve
-
-Uzm. Dr. Mehmet UGURLU
-
-Genel Müdür Uygun Görüşle Arz Ederim
-
-/ /2005
-
-Müstesar
-
-Prof. Dr. Recep AKDAG Bakan
+**Olur**
+Prof. Dr. Recep AKDAĞ
+Bakan

@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11246/tibbi-cihazlar-bilimsel-ve-tekni
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

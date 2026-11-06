@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 613-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.19. Kutanöz Leishmaniasis Genelgesi (2003/126)
@@ -29,7 +30,7 @@ GENELGE
 
 Bilindiği gibi Leishmaniasis, Leishmania cinsi parazitler ile enfekte dişi kum sineklerinin (Tatarcık, Phlebotomus) kan emmesi sırasında insanlara bulaştırdığı bir hastalıktır. İnsanlarda üç tip klinik tablo ile seyreden hastalığın Ülkemizde en çok görülen şekli Kutanöz Leishmaniasis (KL) olup, Şanlıurfa, Osmaniye, Adana, Hatay, Kahramanmaraş ve Mersin illerimizde endemik olarak görülmektedir.
 
-Malûm olduğu üzere, KL ile ilgili tanı ve tedavi kriterleri ile vektör ve çevreye yönelik hizmetler ilgi genelgemiz ve ekinde gönderilen Kutanöz Leishmaniasis Kontrol Programı kapsamında verilen bilgiler çerçevesinde yürütülmektedir.
+Malûm olduğu üzere, KL ile ilgili tanı ve tedavi kriterleri ile vektör ve çevreye yönelik hizmetler ilgi genelgemiz ve ekinde gönderilen Kutanöz Leishmaniosis Kontrol Programı kapsamında verilen bilgiler çerçevesinde yürütülmektedir.
 
 Ancak, ortaya çıkan bir takım gelişmeler ve bu gelişmeler neticesinde yapılan değerlendirmeler, ilgi genelgemiz çerçevesinde yürütülen hizmetlere ilişkin yeni bir mütalaanın gerekliliğini ortaya koymuştur.
 

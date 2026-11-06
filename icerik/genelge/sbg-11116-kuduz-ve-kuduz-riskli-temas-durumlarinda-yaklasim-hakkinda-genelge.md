@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11116/kuduz-ve-kuduz-riskli-temas-duru
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -43,4 +44,4 @@ Genel Müdür V.
 
 81 İl Valiliğine Bulaşıcı ve Salgın Hastalıklar Kontrolü Daire Başkanlığı Elektronik Ağ: www.saglik.gov.tr Zoonoz ve Paraziter Hastalıklar Şube Müdürlüğü Elektronik Mektup: zoonoz.paraziter@saglik.gov.tr Tel: 0 312 433 23 31-435 64 40-60 / 1253 Belgegeçer: 0 312 432 29 94
 
-### 
+###

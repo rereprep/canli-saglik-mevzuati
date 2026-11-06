@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 869-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -24,7 +25,7 @@ KAMU HASTANELERİ BİRLİĞİ
 GENEL SEKRETERLİĞİNE
 
 ### GENELGE
-2014/06
+**2014/06**
 
 İlgi: 28/05/2013 tarihli ve 2013/05 sıra nolu Genelge.
 
@@ -36,7 +37,7 @@ Geçen zaman sürecinde uygulamada yaşanan tereddütler ve bu tereddütlerin gi
 
 Yapılan bu değişiklik bağlamında bundan sonra Kamu Hastaneleri Birliklerimiz ve bağlı sağlık tesislerimiz ekte gönderilen tip sözleşme ve aşağıda belirtilen hususlar çerçevesinde hareket edeceklerdir.
 
-1. İhtiyaçların öncelikle 4734 sayılı Kanununda belirtilen temel ihale usulleriyle karşılanmasının esas olduğu unutulmamalıdır.
+1. İhtiyaçların öncelikle 4734 sayılı Kanunda belirtilen temel ihale usulleriyle karşılanmasının esas olduğu unutulmamalıdır.
 
 2. Söz konusu tip sözleşme sadece "ortez, protez gibi uygulama esnasında hastaya göre belirlenebilen ve hastaya özgü tıbbi sarf malzemeleri, test ve tetkik sarf malzemeleri alımları"nda kullanılacaktır. Anılan bent kapsamında yapılan "Özelliğinden ve belli süre içinde kullanılma zorunluluğundan dolayı stoklanması ekonomik olmayan veya acil durumlarda kullanılacak olan ilaç, aşı, serum, anti-serum, kan ve kan ürünleri" alımlarında söz konusu tip sözleşme kullanılmayacak olup ilgili mevzuat dahilinde bu alımlar gerçekleştirilecektir.
 

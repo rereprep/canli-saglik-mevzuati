@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "514-522"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## AİLE HEKİMLİĞİ BİRİMLERİNİN GRUPLANDIRMA İŞLEMLERİ

@@ -7,6 +7,39 @@ birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103569/enjeksiyon-uygulamalari-hakkinda-genelge-201911.html"
 durum: "yürürlükte"
+kontrol_edildi: true
 ---
 
 2.3.10. Enjeksiyon Uygulamaları Hakkında Genelge (2019/11)
+
+### T.C. SAĞLIK BAKANLIĞI
+#### Sağlık Hizmetleri Genel Müdürlüğü
+
+**Sayı:** 14500235-401.99/
+**Konu:** Enjeksiyon Uygulamaları Hakkında Genelge
+
+### GENELGE
+**2019/11**
+
+1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunun 1'inci maddesi "Türkiye Cumhuriyeti dâhilinde tababet icra ve her hangi surette olursa olsun hasta tedavi edebilmek için tıp fakültesinden diploma sahibi olmak şarttır." hükmü ile 70'inci maddesinde "Tabipler, diş tabipleri ve dişçiler yapacakları her nevi ameliye için hastanın, hasta küçük veya tahtı hacirde ise veli veya vasisinin evvelemirde muvafakatını alırlar. Büyük ameliyei cerrahiyeler için bu muvafakatin tahriri olması lazımdır. (Veli veya vasisi olmadığı veya bulunmadığı veya üzerinde ameliye yapılacak şahıs ifadeye muktedir olmadığı takdirde muvafakat şart değildir.) ..." hükmü yer almaktadır.
+
+Kanun Maddesinden de anlaşılacağı üzere, tıbbi müdahalelerde hastanın muvafakatının alınması gereklidir. Ancak, büyük cerrahi işlemler için bu muvafakatın yazılı olması zorunlu olup mevzuatımızda bunun dışında yazılı rıza alınması gereken bir işlem öngörülmemiştir.
+
+Enjeksiyon uygulamaları büyük ameliyei cerrahiye olmadığı için hastaların sözel olarak bilgilendirilmesinin gerekli ve yeterli olduğu, müdavi hekim tarafından reçete edilmiş güncel tedavisinin yetkili sağlık meslek mensupları tarafından hastanın reçetesi görülerek yapılması halinde yazılı onam alınması zorunluluğu bulunmadığı hususunda,
+
+Bilgilerinizi ve uygulamanın gereğini önemle rica ederim.
+
+Prof. Dr. Muhammet GÜVEN
+Bakan a.
+Bakan Yardımcısı
+
+### DAĞITIM
+
+**Gereği:** 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+**Bilgi:**
+Hukuk Hizmetleri Genel Müdürlüğüne
+Yükseköğretim Kurulu Başkanlığına (YÖK)
+Kamu Hastaneleri Genel Müdürlüğüne
+Acil Sağlık Hizmetleri Genel Müdürlüğüne
+Halk Sağlığı Genel Müdürlüğüne

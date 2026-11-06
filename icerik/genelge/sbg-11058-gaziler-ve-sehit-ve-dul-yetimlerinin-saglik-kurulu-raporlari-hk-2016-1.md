@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11058/gaziler-ve-sehit-ve-dul-yetimler
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### SAĞLIK BAKANLIĞI
@@ -36,4 +37,4 @@ Müsteşar
 
 ### DAĞITIM
 
-Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü) Türkiye Kamu Hastaneleri Kurumuna Yükseköğretim Kuruluna Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Mahmut Esat Bozkurt Cad. Umut sok. No: 19 
+Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü) Türkiye Kamu Hastaneleri Kurumuna Yükseköğretim Kuruluna Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Mahmut Esat Bozkurt Cad. Umut sok. No: 19

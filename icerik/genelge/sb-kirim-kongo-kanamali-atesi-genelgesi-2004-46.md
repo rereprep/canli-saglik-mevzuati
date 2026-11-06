@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 654-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-6.3.29. Kırım Kongo Kanamalı Ateşi Genelgesi (2004/46)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
@@ -22,7 +21,8 @@ SAYI : B100TSH0110002 / 05367
 KONU : Kırım-Kongo Kanamalı Ateşi
 31.03.04
 
-### GENELGE 2004/46
+### GENELGE
+**2004/46**
 
 İLGİ: 30.12.2003 tarihli ve B100TSH0110002/20409 sayılı genelge.
 

@@ -2,48 +2,59 @@
 id: "sb-yabanci-uyruklu-asistanlara-yapilacak-ek-odeme-hakkinda-2014-03"
 baslik: "Yabancı Uyruklu Asistanlara Yapılacak Ek Ödeme Hakkında Genelge (2014/03)"
 tur: "genelge"
+tarih: "2014-02-14"
 sayi: "2014/03"
-birim: "Kamu Hastaneleri Genel Müdürlüğü"
-konu: "Yabancı Uyruklu Asistanlara Yapılacak Ek Ödeme Hakkında Genelge (2014/03) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
-etiketler: ["kamu hastaneleri", "tıpta uzmanlık", "asistan hekim"]
+birim: "Türkiye Kamu Hastaneleri Kurumu"
+konu: "Sağlık Bakanlığına bağlı eğitim ve araştırma hastanelerinde uzmanlık eğitimi yapan yabancı uyruklu asistanlara yapılacak ödemelerin usul ve esasları"
+etiketler: ["kamu hastaneleri", "tıpta uzmanlık", "asistan hekim", "yabancı uyruklu asistan", "ek ödeme"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 872-873"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 7.3.10. Yabancı Uyruklu Asistanlara Yapılacak Ek Ödeme Hakkında Genelge (2014/03)
 
-### SAĞLIK BAKANLIĞI TÜRKİYE KAMU HASTANELERİ KURUMU İzleme, Ölçme ve Değerlendirme Başkan Yardımcılığı
+T.C.
+SAĞLIK BAKANLIĞI
+TÜRKİYE KAMU HASTANELERİ KURUMU
+İzleme, Ölçme ve Değerlendirme Başkan Yardımcılığı
 
-Sayı : 49022165-010.99 / Konu : Yabancı Uyruklu Asistanlara
+Sayı : 49022165-010.99 /
+Konu : Yabancı Uyruklu Asistanlara Yapılacak Ödeme Hakkında
 
-Yapılacak Ödeme Hakkında
+GENELGE
+2014/03
 
-6514 sayılı Kanun 18/01/2014 tarihinden itibaren geçerli olmak üzere yürürlüğe girdiğinden, yabancı uyruklu asistanların Ocak 2014 dönemine ilişkin ödemelerinin hesaplanmasında 01/01/2014-17/01/2014 tarihlerine ilişkin olarak 209 sayılı Kanunun 3 üncü maddesinin üçüncü fıkrasının (ı) bendi kapsamında işlem tesis edilmesi, 18/01/2014-31/12/2014 tarihlerine ilişkin olarak ise 1219 sayılı Kanunun ek 14 üncü maddesi kapsamında işlem tesis edilmesi gerekmektedir. Ornek Hesaplama;
+İlgi : 06/07/2005 tarihli ve B.10.0.APK.0.00.00.00/4218 (3899) sayılı 2005/105 No'lu Genelge.
 
-209 sayılı Kanun Uyarınca 1219 sayılı Kanun Uyarınca
+Bilindiği üzere, 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun'un 3 üncü maddesinde Bakanlığın, eğitim ve araştırma hastanelerinde uzmanlık eğitimi yapmakta olan yabancı uyruklu asistanlara döner sermaye gelirlerinden 500 YTL'ye kadar ödeme yapılması hususunda döner sermaye işletmelerine yetki vermeye mezun olduğu hüküm altına alınmış ve ilgide kayıtlı Genelge ile söz konusu Kanun hükmüne istinaden ayrıntılı açıklamalara yer verilmiş idi.
 
-01/01/2014-17/01/2014 18/01/2014-31/01/2014 2014 Yılı Ocak ayına ilişkin
+Diğer taraftan, 02/01/2014 tarihli ve 6514 sayılı "Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun" 18/01/2014 tarih ve 28886 sayılı Resmî Gazete'de yayımlanarak 18/01/2014 tarihinden itibaren yürürlüğe giren mezkur Kanunun 25 inci maddesi ile 1219 sayılı Kanunun ek 14 üncü maddesine "Tıpta ve diş tabipliğinde yabancı uyruklu kontenjanında uzmanlık eğitimi yapmakta olanlara, ilgili kurumun döner sermayesinden, döner sermayesi bulunmayan kurumlarda kurum bütçesinden, vakıf üniversitelerinde ise kendi bütçelerinden (13.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda ödeme yapılır. Bu ödemeden damga vergisi dışında herhangi bir kesinti yapılmaz." hükmü eklenmiştir. Ayrıca, anılan Kanunun 37 nci maddesi ile 209 sayılı Kanunun 3 üncü maddesinin üçüncü fıkrasının (ı) bendi yürürlükten kaldırılmıştır.
 
-Unvanı tarihleri arasına ilişkin tarihleri arasına ilişkin yapılacak toplam ödeme
+Bu çerçevede, 18/01/2014 tarihinden itibaren Kurumumuza bağlı eğitim ve araştırma hastanelerinde görev yapan yabancı uyruklu asistanlara (13.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda ödeme yapılması gerekmekte olup, bu tutardan damga vergisi dışında herhangi bir kesinti yapılmayacaktır.
 
-yapılacak ödeme yapılacak ödeme (NET)
+Şubat 2014 Dönemine İlişkin Örnek Hesaplama Tablosu:
 
-### (NET) (NET)
+| Unvanı | Gösterge Rakamı (A) | Memur Aylık Katsayısı (B) | Ödenmesi Gereken Tutar (Brüt) (AxB) | Damga Vergisi | Ödenmesi Gereken Tutar (Net) |
+|---|---|---|---|---|---|
+| Yabancı Uyruklu Asistan | 13000 | 0,076998 | 1.000,97 TL | 7,60 TL | 993,37 TL |
 
-Yabancı Uyruklu
+6514 sayılı Kanun 18/01/2014 tarihinden itibaren geçerli olmak üzere yürürlüğe girdiğinden, yabancı uyruklu asistanların Ocak 2014 dönemine ilişkin ödemelerinin hesaplanmasında 01/01/2014-17/01/2014 tarihlerine ilişkin olarak 209 sayılı Kanunun 3 üncü maddesinin üçüncü fıkrasının (ı) bendi kapsamında işlem tesis edilmesi, 18/01/2014-31/01/2014 tarihlerine ilişkin olarak ise 1219 sayılı Kanunun ek 14 üncü maddesi kapsamında işlem tesis edilmesi gerekmektedir.
 
-Asistan 230,98 TL 448,62 TL. 679,60
+Örnek Hesaplama:
 
-Netice itibari ile Kurumumuza bağlı eğitim ve araştırma hastanelerınde görev yapan yabancı uyruklu asistanlara 18/01/2014 tarihinden itibaren 1219 sayılı Kanunun ek 14 üncü maddesi uyarınca ödeme yapılması gerekmektedir.
+| Unvanı | 209 sayılı Kanun Uyarınca 01/01/2014-17/01/2014 tarihleri arasına ilişkin yapılacak ödeme (NET) | 1219 sayılı Kanun Uyarınca 18/01/2014-31/01/2014 tarihleri arasına ilişkin yapılacak ödeme (NET) | 2014 Yılı Ocak ayına ilişkin yapılacak toplam ödeme (NET) |
+|---|---|---|---|
+| Yabancı Uyruklu Asistan | 230,98 TL | 448,62 TL | 679,60 TL |
 
-Bilgilerinizi ve konunun Birliginize bağlı tüm üçüncü basamak saglık tesislerine duyurulması hususunda gereğini önemle rica ederim.
+Netice itibari ile Kurumumuza bağlı eğitim ve araştırma hastanelerinde görev yapan yabancı uyruklu asistanlara 18/01/2014 tarihinden itibaren 1219 sayılı Kanunun ek 14 üncü maddesi uyarınca ödeme yapılması gerekmektedir.
+
+Bilgilerinizi ve konunun Birliğinize bağlı tüm üçüncü basamak sağlık tesislerine duyurulması hususunda gereğini önemle rica ederim.
 
 Prof. Dr. Ali İhsan DOKUCU
+Kurum Başkanı
 
-Kurum Başkamı
-
-### DAĞITIM:
-
+DAĞITIM:
 88 Kamu Hastaneleri Birliğine

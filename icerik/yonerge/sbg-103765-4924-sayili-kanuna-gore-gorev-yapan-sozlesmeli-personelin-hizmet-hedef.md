@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103765/4924-sayili-kanuna-gore-gorev-y
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 # 4924 SAYILI KANUNA GÖRE GÖREV YAPAN SÖZLEŞMELİ PERSONELİN HİZMET HEDEFLERİ İLE SÖZLEŞME YENİLENMESİNE İLİŞKİN USUL VE ESASLAR

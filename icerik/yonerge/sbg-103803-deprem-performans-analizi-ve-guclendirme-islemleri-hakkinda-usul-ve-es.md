@@ -6,6 +6,7 @@ birim: "Sağlık Yatırımları Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103803/deprem-performans-analizi-ve-guclendirme-islemleri-hakkinda-usul-ve-esaslar.html"
 durum: "yürürlükte"
+kontrol_edildi: true
 ---
 
 ## BAKAN YARDIMCILIĞI... HUKUK HİZMETLERİ GENEL MÜDÜRLÜĞÜ

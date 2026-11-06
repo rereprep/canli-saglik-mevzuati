@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 667-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.32. Kırım-Kongo Kanamalı Ateşi Genelgesi (2008/52)
@@ -35,12 +36,12 @@ Bu sebeple KKKA şüpheli vakaların erken teşhis ve tedavilerini sağlamak ve 
 1. Endemik bölgede yaşayan ve/veya endemik bölgeyi son iki hafta içinde ziyaret eden ve/veya kene tutunması olan kişilerde:
    a. Sadece kene tutunması olan ve klinik belirti/bulgusu olmayan kişiler 10 gün süre ile klinik belirti ve bulgular açısından takip edilecektir.
    b. Ani başlayan ateş, baş ağrısı, aşırı halsizlik, kas ve eklem ağrıları, karın ağrısı, ishal ve kanama şikâyetlerinin biri veya birkaçı ile sağlık kurum ve kuruluşlarına başvuran hastalarda kırsal bölgede yaşama veya son 2 hafta içinde kırsal alan ziyaretinin olup olmadığı, hayvan yetiştiriciliği ile meşguliyeti ve çevresinde KKKA hastasının bulunup bulunmadığı mutlaka sorgulanmalıdır.
-   c. Bu tür vakalara, tam kan sayımı yapılacak, trombosit sayısı: 150 000/mm³'den düşük ve/veya lökosit sayısı: 4000/mm³'den düşük ise ikinci basamak sağlık kuruluşlarına gecikmeksizin sevk edilecektir.
+   c. Bu tür vakalara, tam kan sayımı yapılacak, trombosit sayısı: 150.000/mm³'den düşük ve/veya lökosit sayısı: 4000/mm³'den düşük ise ikinci basamak sağlık kuruluşlarına gecikmeksizin sevk edilecektir.
 
 2. KKKA ön tanısıyla ikinci basamak sağlık kuruluşlarına sevk edilen hastalar için,
    a. Mutlaka ALT, AST, LDH ve CK testleri yapılacak, takip ve tedavi buna göre planlanacaktır.
    b. KKKA kesin tanısı amacıyla hastalardan alınan kan örnekleri biyogüvenlik önlemleri ve soğuk zincir kurallarına uygun şekilde Refik Saydam Hıfzıssıhha Merkezi Başkanlığına gönderilecek ve ilgili formlar tam olarak doldurulacaktır.
-   c. Eşlik eden başka bir hastalığı olanlar (Diyabet, Kronik Böbrek Yetersizliği, KOAH, Hematolojik Hastalıklar), 60 yaşın üstündeki hastalar, klinik durumu hızla bozulan (peteşi, ekimoz, diş eti kanaması, burun kanaması vb. ortaya çıkan), şuur bulanıklığı olan, aPTT testi uzamış bulunan, trombosit sayısı hızla azalan veya 50 000/mm³'ün altında olan hastalar ile takip eden hekimin sevk edilmesini uygun gördüğü hastalar 3. basamak sağlık kuruluşuna sevk edilebilecektir (Ek-1).
+   c. Eşlik eden başka bir hastalığı olanlar (Diyabet, Kronik Böbrek Yetersizliği, KOAH, Hematolojik Hastalıklar), 60 yaşın üstündeki hastalar, klinik durumu hızla bozulan (peteşi, ekimoz, diş eti kanaması, burun kanaması vb. ortaya çıkan), şuur bulanıklığı olan, aPTT testi uzamış bulunan, trombosit sayısı hızla azalan veya 50.000/mm³'ün altında olan hastalar ile takip eden hekimin sevk edilmesini uygun gördüğü hastalar 3. basamak sağlık kuruluşuna sevk edilebilecektir (Ek-1).
 
 3. Ayrıca, KKKA'da vaka yönetimi ve izolasyon önlemleri konusunda ilgi (b) genelge ve ekinde belirtilen hususlara uyulacaktır.
 

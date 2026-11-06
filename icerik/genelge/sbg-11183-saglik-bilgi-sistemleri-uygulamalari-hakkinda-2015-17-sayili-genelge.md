@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11183/saglik-bilgi-sistemleri-uygulama
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

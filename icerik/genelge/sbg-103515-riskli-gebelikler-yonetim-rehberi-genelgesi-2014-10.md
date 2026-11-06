@@ -11,6 +11,7 @@ tarih: "2014-03-13"
 konu: "Riskli Gebelikler Yönetim Rehberi’nin uygulanmasını ve sağlık kuruluşlarına bildirilmesini düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.63. Riskli Gebelikler Yönetim Rehberi Genelgesi (2014/10)
@@ -27,8 +28,9 @@ Bakanlığımız tarafından “Sağlıkta Dönüşüm Programı” kapsamında 
 
 Gebeliği olumsuz etkileyebilecek riskler gebelik sürecinde ortaya çıkabileceği gibi gebelik öncesi dönemde de olabilmekte ve gebelikle ağırlaşarak anne ölümüyle sonuçlanabilmektedir. Ayrıca 15-49 yaş kadın ve gebe izleminde risk değerlendirmesi yapılması, gerekli tedavinin planlanması açısından çok önemlidir. Önlenebilir anne ölümüne neden olan riskli durumların tespit edilmesi ve yönetilmesine ilişkin Bakanlığımızca “Riskli Gebeliklerin Önlenmesi Programı” başlatılmıştır. Program kapsamında, oluşturulan bilim komisyonunca risklerin yönetimine ilişkin gebelik öncesi, gebelik, doğum ve doğum sonrası dönemlerde yapılması gerekenleri içerecek şekilde “Riskli Gebelikler Yönetim Rehberi” hazırlanmıştır. Hazırlanan rehberler: Gebelikte Venöz Tromboembolizm Yönetimi Rehberi, Gebelik ve Kardiyovasküler Hastalıklar Yönetim Rehberi, Diyabetik Gebe Yönetim Rehberi, Astımlı Gebe Yönetim Rehberi ve güncellenen Epilepsili Gebe Yönetim Rehberinden oluşmaktadır.
 
-Genelge ekinde yer alan "Riskli Gebelikler Yönetim Rehberi"nin; 15-49 yaş kadın izlemi. doğum öncesi, doğum ve doğum sonu bakım hizmetleri sunan tüm sağlık kuruluşlarına ve personeline tebliğ edilerek uygulamaya konulması konusunda ilgililere emirlerinizi önemle rica ederim.
+Genelge ekinde yer alan "Riskli Gebelikler Yönetim Rehberi"nin; 15-49 yaş kadın izlemi, doğum öncesi, doğum ve doğum sonu bakım hizmetleri sunan tüm sağlık kuruluşlarına ve personeline tebliğ edilerek uygulamaya konulması konusunda ilgililere emirlerinizi önemle rica ederim.
 
 Prof. Dr. Nihat TOSUN
 
-(Müsteşar Bakan a.
+Müsteşar
+Bakan a.

@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 763-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -20,7 +21,7 @@ Sayı : B100AÇS0120000-010.06-01 / 12853
 Konu : 2007/27 sayılı Genelgeye Ek Genelge
 
 ### GENELGE
-2007/57
+**2007/57**
 
 VALİLİĞİNE
 

@@ -12,21 +12,20 @@ kaynak_pdf_sayfa: "573-574"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## SAHA ZİYARET GÜNÜ
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Türkiye Halk Sağlığı Kurumu Başkanlığı  
 
-SAĞLIK BAKANLIĞI
+**Sayı :** 19831278/622.02  
+**Konu :** Saha Ziyareti Günü  
 
-Türkiye Halk Sağlığı Kurumu
-
-Sayı: 19831278/622.02
-
-Konu: Saha Ziyareti Günü
-
-### ........ VALİLİĞİNE (Halk Sağlığı Müdürlüğü)
+### .................... VALİLİĞİNE  
+(Halk Sağlığı Müdürlüğü)
 
 Bilindiği üzere 25.01.2013 tarih 28539 sayı ile Resmi Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliğinin 10 uncu maddesinin birinci fıkrasında “Aile hekimleri ve aile sağlığı elemanları tam gün esasına göre çalışırlar, ikinci fıkrasında da “Mesai saatleri ve günleri, çalışma yerinin şartları da dikkate alınmak suretiyle çalıştığı bölgedeki kişilerin ihtiyaçlarına uygun olarak aile hekimi tarafından teklif edilir ve müdürlükçe uygun görülmesi halinde onaylanır. Yapılacak ev ziyaretleri ve gezici/yerinde sağlık hizmetleri çalışma süresine dâhil edilir. Çalışılan günler ve saatler aile sağlığı merkezinin dış levhasının yakınında ve görülecek bir yerine asılarak kişilerin bilgilenmesi sağlanır.” hükümleri vazolunmuştur.
 
@@ -40,16 +39,9 @@ Sahada yürütülen sağlık hizmet sunumunda sürekliliği sağlamak için, mü
 
 Gereğini bilgilerinize rica ederim.
 
-Prof. Dr. İrfan ŞENCAN
+Prof. Dr. İrfan ŞENCAN  
+Bakan a.  
+Kurum Başkanı  
 
-Bakan a.
-
-Kurum Başkanı
-
-### Dağıtım
-
+### DAĞITIM:
 81 İl Valiliğine (Halk Sağlığı Müdürlüğü)
-
-Türkiye Halk Sağlığı Kurumu, Birinci Basamak Sağlık Hizmetleri Başkan Yardımcılığı, Aile Hekimliği İzleme ve Değerlendirme D.B., Sağlık Mah. A.Adnan SAYGUN 2 Caddesi No:55 Sıhhiye/ANKARA. Bilgi için: Hemşire Ayşegül ÖZĞAN
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 776d39b1-681f-49ca-a8b2-9e10af7b3a28 kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır.

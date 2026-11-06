@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11080/genisletilmis-bagisiklama-progra
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -1940,6 +1941,32 @@ Aşının yapıldığı kurum: Aşıyı yapan: Onaylayan:
 
 ### BEBEK/ÇOCUK AŞI KARTI BEBEK/ÇOCUK AŞI KARTI ÖN YÜZ BEBEK/ÇOCUK AŞI KARTI ARKA YÜZ
 
+**BEBEK/ÇOCUK AŞI KARTI ÖN YÜZ**
+
+| AŞILAR | 1. AŞI | 2. AŞI | 3. AŞI | TEKRAR | UYGULAMA TARİHİ | TEKRAR GELİŞ TARİHİ |
+| --- | --- | --- | --- | --- | --- | --- |
+| HEPATİT B (SARILIK) | | | | | | |
+| 5'Lİ KARMA (DaBT-İPA-Hib) | | | | | | |
+| VEREM (BCG) | | | | | | |
+| KKK (Kızamık, Kızamıkçık, Kabakulak) | | | | | | |
+| ÇOCUK FELCİ Ağızdan (OPA) | | | | | | |
+| Diğer | | | | | | |
+
+**BEBEK/ÇOCUK AŞI KARTI ARKA YÜZ**
+
+T.C. SAĞLIK BAKANLIĞI AŞI KARTI
+
+Çocuğun Adı: .............................. Kız ☐ Erkek ☐
+Soyadı: ..............................
+Doğum Tarihi: Gün / Ay / Yıl
+Anne adı: .............................. Baba adı: ..............................
+Adres: .............................. Tel: ..............................
+TC Kimlik no: .............................. Sağlık kurumu: .............................. 012 A Sıra no: ...............
+
+Aşı kartını kaybetmeyin, çocuğunuzu aşılamaya getirirken yanınızda bulundurun.
+
+Aşılanan çocuklarda; hafif ateş, huzursuzluk, hafif bir döküntü, aşı uygulanan yerde kızarıklık, hassasiyet, ağrı olabilir. Bu dönemde; enjeksiyon yerine soğuk uygulanabilir, parasetamol içeren ağrı kesıcı-ateş düşürücü ilaçlar verilebilir. Aşılar ile ilgili soru ve sorunlarınız için aşının uygulandığı Sağlık Kurumuna başvurunuz.
+
 Td AŞI KARTI
 
 ### ERİŞKİN DİFTERİ-TETANOZ (Td) AŞI KARTI ÖN YÜZ T.C. SAĞLIK BAKANLIĞI ERİŞKİN DİFTERİ-TETANOZ AŞI KARTI ADI SOYADI
@@ -2278,7 +2305,11 @@ bulunduğu bulanık sıvı
 
 ### İğnenin farklı pozisyonları
 
-Bebeklere IM enjeksiyon uygulaması şeması Deltoid kasından yapılacak aşılarda uygulama şeması
+Deri içi (intradermal), Deri altı (subkutan), Kas içi (intramusküler); Deri / Deri altı bölge.
+
+**Bebeklere IM enjeksiyon uygulaması şeması:** femur büyük trokanter seviyesi, Üst 1/3, Orta 1/3, Alt 1/3; Rektus femoris kası, Vastus lateralis kası, femur yan patella femoral kondil.
+
+**Deltoid kasından yapılacak aşılarda uygulama şeması:** Enjeksiyon bölgesi; akromium çıkıntısı, Deltoid kası, skapula, derin brakial arter, humerus, radial sinir.
 
 Aşı ihtiyacı belirlemede örnekler;
 

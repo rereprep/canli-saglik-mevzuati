@@ -6,21 +6,22 @@ sayi: "49654233-010.07.01"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Birinci basamak sağlık hizmeti sunan askeri teşkillerin il müdürlüklerince tespiti, ÇKYS tanımlaması ve ruhsatlandırma için bildirilmesine ilişkin Genel Müdürlük oluru."
 etiketler: ["mevzuat", "birinci-basamak"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 549-549"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 549"
 kaynak_pdf_sayfa: "555"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## BİRİNCİ BASAMAK SAĞLIK HİZMETİ SUNAN ASKERİ BİRİMLERİN TANIMLANMASI
 
-T.C.
-SAĞLIK BAKANLIĞI
-Halk Sağlığı Genel Müdürlüğü
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-Sayı: 49654233-010.07.01
-Konu: Birinci Basamak Askeri Sağlık Teşkilleri
+**Sayı :** 49654233-010.07.01  
+**Konu :** Birinci Basamak Askeri Sağlık Teşkilleri  
 
 ### GENEL MÜDÜRLÜK MAKAMINA
 
@@ -34,13 +35,13 @@ Sağlık Bakanlığı tebliği şartlarına haiz olanların İl Müdürlüklerim
 
 Tensiplerinize arz ederim.
 
-e-imzalıdır.
-Uzm. Dr. Bekir KESKİNKILIÇ
-Genel Müdür Yardımcısı
+e-imzalıdır.  
+Uzm. Dr. Bekir KESKİNKILIÇ  
+Genel Müdür Yardımcısı  
 
-OLUR
-…/…/2018
+OLUR  
+…/…/2018  
 
-e-imzalıdır.
-Dr. Hüseyin İLTER
+e-imzalıdır.  
+Dr. Hüseyin İLTER  
 Genel Müdür

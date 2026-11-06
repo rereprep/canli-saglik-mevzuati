@@ -11,7 +11,9 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10724/azami-stok-miktarinin-belirlenme
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
 ### T.C. SAĞLIK BAKANLIĞI – Strateji Geliştirme Başkanlığı
 
 Sayı: B.10.0.SGB.0.73.00-07/809.99 – 3214 [?]  

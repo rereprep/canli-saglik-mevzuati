@@ -11,6 +11,7 @@ ocr: true
 tarih: "2022-11-02"
 sayi: "2272"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü

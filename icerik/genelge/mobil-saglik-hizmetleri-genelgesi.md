@@ -11,6 +11,7 @@ kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 446-450"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -116,7 +117,7 @@ A PLANI
 ---
 
 ### EK 1
-#### ........................... İL SAĞLIĞI MÜDÜRLÜĞÜ
+#### ........................... İL SAĞLIK MÜDÜRLÜĞÜ
 
 | Tarih | EKİP PERSONELİ | | | | | GÜNLÜK KATEDİLEN KM | ZİYARET GERÇEKLEŞTİRİLEN KÖY SAYISI | GİDİLEN KÖYLERİN TOPLAM NÜFUSU | TOPLAM ZİYARET EDİLEN HASTA SAYISI | SUNULAN HİZMETLER** | | | | | | | ZİYARET EDİLEN HASTALAR İÇİNDE*** | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

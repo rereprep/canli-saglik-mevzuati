@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: 353
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 07.11.2017 tarihli ve 51275 sayılı Yönerge
@@ -23,14 +24,26 @@ duzeltildi: true
 ## BİRİNCİ BÖLÜM
 #### Amaç, Kapsam, Dayanak ve Tanımlar
 
-**Amaç**  
-**MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığı taşra teşkilatının görev, yetki ve sorumlulukları, kadro ve pozisyon standartları, kadroların ve pozisyonların düzenli ve hizmet gereklerine uygun olarak kullanımı ile çalışma usul ve esaslarını düzenlemektir.
-
-**Kapsam**  
-**MADDE 2 –** (1) Bu Yönerge; Sağlık Bakanlığı taşra teşkilatında yer alan il ve ilçe sağlık müdürlükleri ile bu müdürlüklere bağlı birimleri kapsar.
+**Amaç ve kapsam**  
+**MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığı taşra teşkilatının görev yetki ve sorumlulukları, kadro ve pozisyon standartları, kadroların ve pozisyonların düzenli ve hizmet gereklerine uygun olarak kullanımı ile çalışma usul ve esaslarını düzenlemektir.
 
 **Dayanak**  
-**MADDE 3 –** (1) Bu Yönerge; 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesi ile 371 inci maddesine dayanılarak hazırlanmıştır.
+**MADDE 2 –** (1) Bu Yönerge; 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 ıncı maddesi ile 04/01/2012 tarihli ve 28163 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğine dayanılarak hazırlanmıştır.
+
+**Tanımlar**  
+**MADDE 3 –** (1) Bu Yönergede geçen;  
+a) Bakan: Sağlık Bakanını,  
+b) Bakanlık: Sağlık Bakanlığını,  
+c) Kurum: Türkiye İlaç ve Tıbbi Cihaz Kurumunu,  
+ç) Müdür: İl Sağlık Müdürünü,  
+d) Müdürlük: İl Sağlık Müdürlüğünü,  
+e) Başkan: İl sağlık müdürlüğü bünyesinde ihtiyaca göre halk sağlığı, kamu hastaneleri, ilaç ve tıbbi cihaz, sağlık ve acil sağlık hizmetleri ile personel ve destek hizmetlerini yürütmek üzere sözleşmeli başkan pozisyonunda istihdam edilen sözleşmeli personeli,  
+f) Başkan Yardımcısı: İl sağlık müdürlüğü bünyesinde ihtiyaca göre halk sağlığı, kamu hastaneleri, ilaç ve tıbbi cihaz, sağlık ve acil sağlık hizmetleri ile personel ve destek hizmetlerini yürütmek üzere sözleşmeli başkan yardımcısı pozisyonda istihdam edilen sözleşmeli personeli,  
+g) Sağlık Tesisi: Müdürlük veya ilçe sağlık müdürlüğüne bağlı birinci, ikinci ve üçüncü basamak sağlık hizmetlerini veren hastane/merkez ve bağlı birimlerini, üniversiteler ile ortak/birlikte kullanılan hastaneler de dâhil olmak üzere, ağız ve diş sağlığı merkezleri, hastaneler, 112 acil istasyonları ile benzeri sağlık kuruluşlarını,  
+ğ) Uzman: Bakanlıkça belirlenen alan ve vasıflarda özel bir meslek bilgisi, tecrübe veya ihtisas gerektiren hizmetleri yürütmek üzere sözleşmeli uzman pozisyonunda istihdam edilen sözleşmeli personeli,  
+h) İl grubu: Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinde belirtilen il gruplarını,  
+ı) Standart: İl Sağlık Müdürlüğü, İlçe Sağlık Müdürlüğü ve sağlık tesislerinde kadro/unvan/branş/pozisyon itibariyle çalıştırılabilecek azami personel sayısını,  
+ifade eder.
 
 ## İKİNCİ BÖLÜM
 #### Temel Esaslar, Görev, Yetki ve Sorumluluklar

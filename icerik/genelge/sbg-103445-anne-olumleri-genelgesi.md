@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103445/anne-olumleri-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

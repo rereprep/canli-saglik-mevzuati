@@ -2,7 +2,7 @@
 id: "sb-trisinelloz-genelgesi-2004-28"
 baslik: "Trişinelloz Genelgesi (2004/28)"
 tur: "genelge"
-tarih: "2004-03-01"
+tarih: "2004-03-05"
 sayi: "2004/28"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Trişinellozis vakalarında klinik yaklaşım, tanı, tedavi, korunma, filyasyon ve epidemiyolojik sürveyans rehberi"
@@ -11,41 +11,40 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 675-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
 6.3.35. Trişinelloz Genelgesi (2004/28)
 
 T.C.
 SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B100TSH0110002 / 3036
-Konu : Trişinellozis
+SAYI : B100TSH0110002 / 03557
+KONU : Trişinelloz
 
-01.03.2004
+05.03.2004
 
 GENELGE
-2004/28
+2004 / 28
 
-İki bin dört yılı Ocak ayı başlarında İzmir ilinde çiğ köfte yiyen vatandaşlarımızda ortaya çıkan ve Bakanlığımızca yapılan incelemeler neticesinde etkeninin domuz eti kaynaklı Trichinella olduğu anlaşılan trişinellozis epidemisi ile ilgili olarak yürütülen çalışmalar başarıyla tamamlanmıştır.
+Hayvanlardan insanlara geçen ve zoonozlar olarak bilinen hastalıkların iki yüzün üzerinde olduğu Dünya Sağlık Teşkilatı tarafından bildirilmekte ve bu hastalıklara yenileri eklenerek sayıları sürekli artmaktadır. Hatalı beslenme alışkanlıkları, alt yapı eksiklikleri, sosyo-ekonomik ve sosyo-kültürel düzeydeki problemler nedeniyle ülkemizde de oldukça önemli bir halk sağlığı problemi olmaya devam eden zoonoz hastalıkların oldukça önemli bir kısmını ise zoonoz parazitozlar oluşturmaktadır. Son zamanlarda ciddi bir epidemi şeklinde ortaya çıkarak bu halkaya eklenen trişinelloz hastalığı da ülkemizdeki parazit ve gıda kaynaklı zoonozlardan birisi olmuştur.
 
-Ülkemizde bu zamana kadar görülmeyen söz konusu hastalıkla ilgili olarak sağlık çalışanlarının ve halkın bilgilendirilmesi ile bilinçlendirilmesine yönelik eğitimler, hastalığın tanısı ve tedavisine yönelik hizmetler, vaka kontrol çalışmaları, ilgili kurum ve kuruluşlarla koordinasyon gibi hizmetler büyük ölçüde gerçekleştirilmiştir.
+Bakanlığımızca, trişinelloz epidemisi durumunda gerek vaka yönetiminin uygun bir şekilde sağlanması gerekse vakalara zamanında müdahale edilerek doğru bir şekilde tedaviye alınması amacıyla "Trişinelloz Vakalarında Yaklaşım" adlı doküman ile "Trişinelloz Vaka Bildirim Çizelgesi" hazırlanarak ilişikte sunulmuştur.
 
-Trişinellozis ile ilgili klinik tanımlama, vaka tanımları, tanı, tedavi ve koruyucu önlemler ile bu vakalarda yapılması gereken işlemleri içeren "Trişinellozis Vakalarında Yaklaşım" rehberi ilişikte gönderilmektedir.
-
-Söz konusu rehberin bütün sağlık kurum ve kuruluşlarına ulaştırılmasının sağlanması ile ilişikte verilen bilgiler çerçevesinde konuya hassasiyetle yaklaşılarak gereğinin yapılması hususlarında;
-
-Bilgilerinizi ve gereğini rica ederim.
+Bu nedenle, trişinelloz vakalarında ilişikte gönderilen bilgiler doğrultusunda hareket edilmesi, söz konusu bilgilerin bütün sağlık kurum ve kuruluşlarına ulaştırılmasının sağlanması, konuya ilişkin olarak halkın eğitilmesi ve bilinçlenmesine yönelik çalışmaların yapılması, gıda denetimlerinin titizlikle yapılmasının sağlanması hususlarında bilgilerinizi ve keyfiyetin gereği için ilgililere emirlerinizi arz ve rica ederim.
 
 Prof. Dr. Necdet ÜNÜVAR
 Bakan a.
 Müsteşar
 
-EK:
-Rehber (14 sayfa)
+EKLER:
+EK-1. Trişinelloz Vakalarında Yaklaşım (9 sf.)
+Ek-2. Trişinelloz Vaka Bildirim Çizelgesi (1 sf.)
 
 DAĞITIM:
-81 İl Valiliğine
+A Plânı
+
+DAİMÎ GENELGE
 
 ---
 
@@ -386,3 +385,4 @@ Imzasi
 4. RSHMB analiz sonuçlarını, numunenin geldiği Il Sağlık Müdürlüğüne hemen bidirir.
 
 5. II Sağlık Müdürlükleri aylık olarak pozitif vakaların bildirimlerini Temel Sağlık Hizmetleri Genel Müdürlüğüne yapacaktır.
+

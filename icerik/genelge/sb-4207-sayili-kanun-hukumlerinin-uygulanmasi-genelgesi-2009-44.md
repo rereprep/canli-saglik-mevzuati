@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 708-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -19,7 +20,7 @@ Sayı: B.10.0.TSH.027.01/
 Konu: 4207 sayılı Kanun Hükümlerinin Uygulanması
 
 ### GENELGE
-2009 / 44
+**2009/44**
 
 Tütün kullanımı, çok yaygın bir bağımlılık çeşidi olmasının yanı sıra, tütün ve dumanında bulunan maddelerin insan sağlığı üzerine yaptığı olumsuz etkiler nedeniyle dünyanın ve ülkemizin en önemli ve önlenebilir halk sağlığı sorunlarından biridir. Tütün ve tütün ürünleriyle mücadele çalışmalarına yön vermek amacıyla Dünya Sağlık Örgütü tarafından "Tütün Kontrolü Çerçeve Sözleşmesi" hazırlanmış ve ülkemizin de içinde yer aldığı 165 ülke bu sözleşmeye taraf olmuştur. Bakanlığımız koordinatörlüğünde hazırlanan Ulusal Tütün Kontrol Programı 7 Ekim 2006 tarihli ve 26312 sayılı Resmi Gazetede 2006/29 sayılı Başbakanlık Genelgesi ekinde yayımlanmıştır.
 

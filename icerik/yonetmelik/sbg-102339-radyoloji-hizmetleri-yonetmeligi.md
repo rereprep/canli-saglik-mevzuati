@@ -7,6 +7,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-102339/radyoloji-hizmetleri-yonetmelig
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 konu: "Radyoloji hizmetlerinin ve bu hizmetleri sunan merkez ve birimlerin faaliyet, standart ve denetim esaslarını düzenler."
 birim: "Sağlık Bakanlığı"
 sayi: "31821"

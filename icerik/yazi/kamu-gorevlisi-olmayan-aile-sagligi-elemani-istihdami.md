@@ -8,20 +8,23 @@ birim: "Türkiye Halk Sağlığı Kurumu"
 konu: "Kamu görevlisi olmayan ebe, hemşire, sağlık memuru ve acil tıp teknisyenlerinin sözleşmeli aile sağlığı elemanı olarak istihdamına ilişkin usul ve esaslar."
 etiketler: ["mevzuat", "birinci-basamak", "aile-sagligi-elemani"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 474-475"
-kaynak_pdf_sayfa: 480
+kaynak_pdf_sayfa: "480-481"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
+## KAMU GÖREVLİSİ OLMAYAN AİLE SAĞLIĞI ELEMANI İSTİHDAMI
 
 T.C.  
 SAĞLIK BAKANLIĞI  
-Türkiye Halk Sağlığı Kurumu Başkanlığı
+Türkiye Halk Sağlığı Kurumu Başkanlığı  
 
-Sayı: B.10.1.HSK.0.06.00.00/010.06.01/1238  
-Konu: Kamu görevlisi olmayan aile sağlığı elemanı istihdamı
+**Sayı :** B.10.1.HSK.0.06.00.00/010.06.01/1238  
+**Konu :** Kamu görevlisi olmayan aile sağlığı elemanı istihdamı  
 
-### ........... VALİLİĞİNE  
+### .................... VALİLİĞİNE  
 (Halk Sağlığı Müdürlüğü)
 
 İlgi: 01/07/2011 tarihli ve B.10.0.THS.0.20.00.01/22100 sayılı yazı.
@@ -75,9 +78,5 @@ Dr. Mustafa AKSOY
 Bakan a.  
 Kurum Başkan Yardımcısı
 
-DAĞITIM:  
+### DAĞITIM:
 81 İl Valiliğine (Halk Sağlığı Müdürlüğü)
-
-Türkiye Halk Sağlığı Kurumu Başkanlığı  
-Prof. Dr. Nusret Fişek Caddesi NO:41 Yenişehir / Ankara / Türkiye  
-Tel: (312) 565 58 00-01-02-03 Faks: (312) 565 59 31

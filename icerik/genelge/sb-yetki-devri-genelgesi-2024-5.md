@@ -10,42 +10,41 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1078
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.3.1. Yetki Devri Genelgesi (2024/5)
 
-### T.C. SAĞLIK BAKANLIĞI – Strateji Geliştirme Başkanlığı
+T.C.
+SAĞLIK BAKANLIĞI
+Strateji Geliştirme Başkanlığı
 
-Sayı: 94036355/809.99  Konu: Yetki Devri
+Sayı : 94036355/809.99
+Konu : Yetki Devri
 
-### GENELGE 2024/5
+GENELGE
+2024/5
 
-Taşınır Mal Yönetmeliğinin 39 uncu maddesinin (1) fıkrası uyarınca (Değisil: 14002016-20468046 KI, harcama yetkililerinin harcama birimleri ve diger kama idarelerine devredilecek taşınırlar ile satış yapılacaklar için tutar belirtemeye Hazine ve Maliye Bakanlılı yetkili kılınmuş olup, 10/12/2003 tacihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ve diğer mevzuat kapsamında uygulanacak olan parasal sınırlar ve alındı birim fiyatlanı her yıl yeniden belirlenmektedir.
+Bilindiği üzere Taşınır Mal Yönetmeliğinin 39 uncu maddesinin (1) fıkrasında (Değişik: 14/01/2016-20468046 Kİ) harcama yetkililerinin harcama birimleri ve diğer kamu idarelerine devredilecek taşınırlar ile satış yapılacaklar için tutar belirlemeye Hazine ve Maliye Bakanlığı yetkili kılınmış olup, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ve diğer mevzuat kapsamında uygulanacak olan parasal sınırlar ve alındı birim fiyatları her yıl yeniden belirlenmektedir.
 
-Yukarıda belirtilen hüküm ve ilgili mevzuatlar kapsamanda Bakanlığımızca taşınır işlemlerinde uygulanacak parasal sınırler 2008/57 sayılı genelgemiz ile belirlenerek yetki devri yapalmışt. Ancak; Taşınır Mal Yönetmeliğinde yapılan değişiklikler ve bahse konu limitlerin yetersiz kalması nedeniyle yetki devrine konu limitlerin yeniden belirlenmesi uygun görülmüştir.
+Yukarıda belirtilen hüküm ve ilgili mevzuatlar kapsamında Bakanlığımızca taşınır işlemlerinde uygulanacak parasal sınırlar 2008/57 sayılı genelgemiz ile belirlenerek yetki devri yapılmıştı. Ancak; Taşınır Mal Yönetmeliğinde yapılan değişiklikler ve bahse konu limitlerin yetersiz kalması nedeniyle yetki devrine konu limitlerin yeniden belirlenmesi uygun görülmüştür.
 
 Bu itibarla;
 
-• Taşınırların kamu idareleri arasındaki devirlerinde 2.000.000 TL'ye kadar (2.000.000
+• Taşınırların kamu idareleri arasındaki devirlerinde 2.000.000 TL'ye kadar (2.000.000 TL dahil)
 
-TL dahil)
+• Taşınırların Bakanlığımıza bağlı harcama birimleri arasındaki devirlerinde 10.000.000 TL'ye kadar (10.000.000 TL dahil) olanların "İl Sağlık Müdürü" onayı ile yapılması,
 
-• Taşinırlann Bakanlığımıza bagh harcama birimleri arasındaki devirlerinde 10.000.000
+söz konusu limitler üzerindeki taşınır devirlerine ilişkin onayların ise üst yönetici onayı alınmak üzere Bakanlığımıza gönderilmesi gerekmektedir.
 
-TL'ye kadar (10.000.000 TL dahil) olanların “Harcama yetkilisinin onayı” ile yapılması,
+• Yukarıda belirtilen tutarlar Strateji Geliştirme Başkanlığı tarafından yılı yeniden değerleme oranında her yıl artırılabilir.
 
-söz konusu limitler üzerindeki taşınır devirlerine ilişkin onayların ise üst yönetici onayı
+Söz konusu limitler, bu işlemlerden herhangi birine veya tamamına konu olan taşınırlar için ve her bir işlem bazında uygulanmaya devam edecek olup, 2008/57 sayılı genelge yürürlükten kaldırılmıştır.
 
-alınmak üzere Bakanlığımıza gönderilmesi gerekmektedir.
+Bilgilerini ve gereğini rica ederim.
 
-• Yukanda belirtilen tutarlar Strateji Geliştinne Başkanlığ tarafından yılı yeniden
+Dr. Fahrettin KOCA
+Bakan
 
-değerleme oranında her yıl artırılabilir.
-
-Söz konusu limitler, bu işlemlerden herhangi birine veya tamamine konu olan taşmırlar için ve her bir işlere bazandu aygalanmava devamnı edecek ofup, 2008/57 sayıli genelge yürürlükten kaldırılmıştır
-
-Bilgilerini ve gereğini rica ederim
-
-### DAĞITIM:
-
+DAĞITIM:
 81 İl Valiliğine (İl Sağlık Müdürlüğüne)

@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103801/tasit-edinilmesine-iliskin-esas
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## 11.2. YÖNERGELER
@@ -22,7 +23,7 @@ duzeltildi: true
 
 (3) Hizmet alımı yöntemi ile taşıt edinimleri şoförlü veya şoförsüz yapılabilecektir. Şoför kadrosunda yeterli personelin bulunması halinde şoförlü taşıt edinilmeyecektir. Kadrosu şoför olan personel, şoförlük hizmeti dışında başka bir görevde görevlendirilmeyecek, ihtiyaç duyulması halinde mevcut kadrolu personelden şoför olarak görevlendirme yapılacaktır. Ancak şoför kadrosunda yeterli personelin bulunmaması halinde, şoförlü taşıt edinim yöntemine başvurulabilecektir.
 
-(4) (Değişik: 22.06.2023/218607755-Makam Onayı) Hizmet alımı yöntemi ile taşıt edinimlerinde şoförlü hizmet alımı yapılması halinde şoför gideri dahil taşıt kiralamalarında aylık kiralama bedeli hesabında yemek, yol, resmi tatil ücreti ve benzeri giderler de dahil yürürlükte bulunan brüt asgari ücretin yüzde elli artırımlı tutarı esas alınacak; işveren maliyeti kapsamında yer alan sosyal sigorta ve genel sağlık sigortası işveren payı (%20,5) ve işsizlik sigortası işveren payı (%2) ile işçilik maliyeti üzerinden hesaplanan sözleşme giderleri ve genel giderler (%4) ise idarelerce ayrıca ödenecektir.
+(4) (Değişik: 22.06.2023/218607755-Makam Onayı) Hizmet alımı yöntemi ile taşıt edinimlerinde şoförlü hizmet alımı yapılması halinde şoför gideri dâhil taşıt kiralamalarında aylık kiralama bedeli hesabında yemek, yol, resmi tatil ücreti ve benzeri giderler de dahil yürürlükte bulunan brüt asgari ücretin yüzde elli artırımlı tutarı esas alınacak; işveren maliyeti kapsamında yer alan sosyal sigorta ve genel sağlık sigortası işveren payı (%20,5) ve işsizlik sigortası işveren payı (%2) ile işçilik maliyeti üzerinden hesaplanan sözleşme giderleri ve genel giderler (%4) ise idarelerce ayrıca ödenecektir.
 
 Yerli muhteva oranı %50'nin altında kalan yabancı menşeli taşıtlardan hizmet alımı yöntemi ile edinim gerçekleştirilmeyecektir.
 
@@ -32,7 +33,7 @@ Hizmet alımı yöntemi ile edinilecek taşıtların yaş haddi, binek ve statio
 
 Araç ihtiyacı konusunda her bir iş ve iş sıklığı ile ilçeler ve hizmet yerleri bazında analizler, iş etütleri ve hangi işler için hangi sıklıkla taşıtların kullanıldığı değerlendirmeleri yapılacak ve söz konusu işlemleri belirli takvim aralıklarıyla güncelleme çalışmaları yürütülecektir.
 
-Nüfus sayılarında Türkiye İstatistik Kurumu (TÜİK) tarafından yayınlanan en son yılın verileri dikkate alınacaktır.
+Nüfus sayılarında Türkiye İstatistik Kurumu (TÜİK) tarafından yayımlanan en son yılın verileri dikkate alınacaktır.
 
 (10) Personel sayılarında Yönetim Hizmetleri Genel Müdürlüğünün verileri dikkate alınacaktur.
 

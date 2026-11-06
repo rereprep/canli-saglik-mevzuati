@@ -2,6 +2,7 @@
 id: "sbg-103449-asi-sonrasi-istenmeyen-etkiler-asie-genelgesi-2023-03"
 baslik: "Aşı Sonrası İstenmeyen Etkiler (ASİE) Genelgesi (2023/03)"
 tur: "genelge"
+tarih: "2023-02-02"
 sayi: "2023/03"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Aşı uygulamaları sonrasında gelişen istenmeyen etkilerin (ASİE) tespiti, bildirimi, incelenmesi ve izlenmesi süreçlerini düzenler."
@@ -10,17 +11,14 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103449/asi-sonrasi-istenmeyen-etkiler-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
 
-TSELISO-EN IQNet
-
-### CERTIFICATE
-
-Sayı : E- 21001706-010.06.02 Konu : Aşı Sonrası İstenmeyen Etkiler
-
-(ASİE) Genelgesi
+Sayı : E-21001706-010.06.02
+Konu : Aşı Sonrası İstenmeyen Etkiler (ASİE) Genelgesi
 
 ### BAKANLIK MAKAMINA
 
@@ -30,19 +28,32 @@ Aşı sonrası istenmeyen etkilerin il ve ülke düzeyinde izlenebilmesi için s
 
 Söz konusu Genelge ile Mart 2009 tarihinden sonra Çocukluk Dönemi Ulusal Aşı Takvimimize eklenen Hepatit A ve Suçiçeği aşılarının uygulaması sonrasında beklenen istenmeyen etkiler ASİE İzleme Sistemi kapsamına alınmış, ayrıca ASİE vaka sınıflamasında uluslararası güncel rehberlere uygun olarak bazı değişiklikler yapılmıştır. Bu Genelge ile 13.03.2009 tarihli ve 2009/17-7943 sayılı Daimi Genelge yürürlükten kaldırılmış olup, Aşı Sonrası İstenmeyen Etki İzleme Sisteminin yeni değişiklikler doğrultusunda yürütülmesi hususlarını olurlarınıza arz ederim.
 
-Prot Dr. Sedat KAYGUSUZ Uyem püruyle arz ederun Halk Sağlığı Genel Müdürü
+Prof. Dr. Sedat KAYGUSUZ
+Halk Sağlığı Genel Müdürü
 
-- / /2023 Doç.Dr. Tolga TOLUNAY
+Uygun görüşle arz ederim.
+.../02/2023
 
+Doç. Dr. Tolga TOLUNAY
 Bakan Yardımcısı
 
-### DE NT ƯN CA Bakan
+OLUR
+.../02/2023
 
-### T.C. SAĞLIK BAKANLIĞI Halk Sağhğı Genel Müdürlüğü
+Dr. Fahrettin KOCA
+Bakan
 
-Sayı: B100TSH 011 0000 Konu: Aşı Sonrası Istenmeyen Etkiler (ASİE) Genelgesi 02./02/2023
+---
 
-### GENELGE 2023/.0.3
+### T.C. SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
+
+Sayı : B100TSH 011 0000
+Konu : Aşı Sonrası İstenmeyen Etkiler (ASİE) Genelgesi
+Tarih: 02/02/2023
+
+### GENELGE
+2023/03
 
 Bağışıklamanın amacı, kişiler ve toplumu aşı ile önlenebilir hastalıklara karşı korumaktır. Aşılama çalışmaları, Ulkemizde aşı ile korunulabilir hastalıkları ve buna bağlı ölümleri büyük oranda önlemiştir.
 
@@ -418,7 +429,7 @@ ASİE' lerin dağılımi,
 
 - ASI'lerin nedenlerine göre dağılımı
 
-- Ciddi ASİ'lerin dağılımı gibi konular yer ahır. h. Gerekli durumlarda İl Sağlık Müdürlüklerine destek verir.
+- Ciddi ASİ'lerin dağılımı gibi konular yer alır. h. Gerekli durumlarda İl Sağlık Müdürlüklerine destek verir.
 
 1. Bakanlık içindeki ilgili kuruluşlar ve uluslararası kuruluşlar ile toplum iletişimini sağlar. i. Sınıflandırma sonuçları ile birlikte ilgili farmakovijilans verilerini TITCK'ya resmi yazı ile elektronik bilgi yönetim sistemi üzerinden gönderir. Bildirim süresi ciddi ASİE vakaları, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar için on beş gündür. Diğer ASİE vakalarını ise üçer aylık periyodlarla toplu j. Dünya Sağlık Örgütü veya Bakanlıkça pandemi endemi olarak tanımlanan durumlarda Sağlık Bakanlığınca yürütülen ve aşı temininin Sağlık Bakanlığınca yapıldığı aşılama programlarında elektronik yolla toplanan ASI'lerin nedeninin sınıflamasını yapar ve değerlendirme sonuçları ile birlikte ilgili farmakovijilans verilerini TITCK'ya iletir. Bildirim süresi ciddi ASİE vakaları, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar için on beş gündür. Diğer ASİE vakalarını ise üçer aylık periyodlarla toplu olarak bildirir. k. Beklenmeyen ASİE olması durumunda, 24 saat içerisinde bu bildirimi elektronik belge yönetim sistemi üzerinden Ek-l'e uygun olarak TITCK'ya gönderir.
 
@@ -428,7 +439,7 @@ ASİE' lerin dağılımi,
 
 Merkez ASİE Danışma Kurulu, değerlendirme ve sınıflamanın yapılamadığı durumlar ile ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan ASI'leri inceleyerek nedenlerinin saptanmasi ve nihai kararın verilerek vaka sınıflandırmasının yapılması amacıyla konunun uzmanlarından kurulmuş bir danışma
 
-Merkez ASİE Danışma Kurulu; çocuk sağlığı ve hastalıkları uzmanları, pidemiyolog/ halk sağlığı uzmanları, erişkin ve çocuk enfeksiyon hastalıkları uzmanları, immünologlar, virologlar, mikrobiyoloji uzmanları, çocuk ve erişkin nöroloji uzmanları, sosyal pediatri uzmanlari, alerji uzmanlari, patoloji uzmanlari, TITCK dan sorumlu personel ve HSGM'den sorumlu personelden oluşur.
+Merkez ASİE Danışma Kurulu; çocuk sağlığı ve hastalıkları uzmanları, epidemiyolog / halk sağlığı uzmanları, erişkin ve çocuk enfeksiyon hastalıkları uzmanları, immünologlar, virologlar, mikrobiyoloji uzmanları, çocuk ve erişkin nöroloji uzmanları, sosyal pediatri uzmanlari, alerji uzmanlari, patoloji uzmanlari, TITCK dan sorumlu personel ve HSGM'den sorumlu personelden oluşur.
 
 Merkez ASİE Danışma Kurulu yılda en az iki kez ve toplanmalarını gerektirecek acil durumlarda ise bildirime müteakip 30 gün içerisinde toplanır. İl ASİE Danışma Kurulları'na ek olarak sınıflandırma yapılması gerekmeyen, vaka olmadığı durumlarda geri bildirim sunmak üzere yılda en az bir kez toplanır. Vaka inceleme formları, araştırma raporları, hastane kayıtları (hasta dosyası), epikriz, mevcut laboratuvar verilerini değerlendirerek son sınıflamayı yapar. Kurulun gerekli gördüğü durumlarda ilden ileri araştırma ve yardımcı testlerin yapılması istenebilir.
 

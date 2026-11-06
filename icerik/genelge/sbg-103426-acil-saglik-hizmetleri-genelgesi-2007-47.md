@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103426/acil-saglik-hizmetleri-genelges
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

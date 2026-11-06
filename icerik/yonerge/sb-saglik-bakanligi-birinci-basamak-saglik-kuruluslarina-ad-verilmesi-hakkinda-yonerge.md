@@ -11,9 +11,50 @@ ocr: true
 tarih: "2019-05-15"
 sayi: "8271140-020-652"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.2.4. Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Halk Sağlığı Genel Müdürlüğü
+
+Sayı: 58271140
+
+Konu: Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge
+
+BAKANLIK MAKAMINA
+
+Bilindiği üzere 1 Nolu Cumhurbaşkanlığı Kararnamesi ile Bakanlığımız ve bağlı kuruluşlarının teşkilat yapısı yeniden düzenlenerek Bakanlık politika ve hedeflerine uygun olarak, temel sağlık hizmetlerini yürütmekle görevli, Bakanlığımız bünyesinde Halk Sağlığı Genel Müdürlüğü kurulmuştur.
+
+Yeniden yapılandırma sonrasında, Bakanlığımızca planlanan, yatırım programına alınan ve yapımı Devlet veya hayırsever tarafından gerçekleştirilen birinci basamak sağlık kuruluşlarına ad verilmesine ilişkin usul ve esasların yeniden belirlenmesi ihtiyacı hâsıl olmuş olup konuyla ilgili hususları düzenlemek amacıyla "Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge" hazırlanmıştır.
+
+Makamınızca da uygun görülmesi halinde 15.11.2013 tarihli ve 125371 sayılı Makam Onayı ile yürürlüğe giren "Sağlık Bakanlığı Birinci Basamak Sağlık Kurum ve Kuruluşlarının Açılması, Kapatılması ve Bunlara Ad Verilmesi Hakkında Yönerge"nin yürürlükten kaldırılması ve "Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge"nin onaylanması ve yürürlüğe konulması hususlarını;
+
+Tensiplerinize arz ederim.
+
+Doç. Dr. Fatih KARA
+
+Genel Müdür
+
+Uygun görüşle arz ederim.
+
+07/05/2019
+
+Prof. Dr. Emine ALP MEŞE
+
+Bakan Yardımcısı
+
+OLUR [?] / 2019
+
+Dr. Fahrettin KOCA
+
+Bakan
 
 ### SAĞLIK BAKANLIĞI BİRİNCİ BASAMAK SAĞLIK KURULUŞLARINA AD VERİLMESİ HAKKINDA YÖNERGE
 

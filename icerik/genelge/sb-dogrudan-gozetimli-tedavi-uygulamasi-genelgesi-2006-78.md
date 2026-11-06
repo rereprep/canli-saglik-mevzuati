@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 700-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 6.3.42. Doğrudan Gözetimli Tedavi Uygulaması Genelgesi (2006/78)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -26,8 +25,8 @@ Konu : Doğrudan Gözetimli Tedavi uygulaması
 ....................VALİLİĞİNE  
 (İl Sağlık Müdürlüğü)
 
-### GENELGE  
-2006/78
+### GENELGE
+**2006/78**
 
 Verem hastalığı, hem dünya hem de ülkemiz için ciddi bir halk sağlığı sorunu olmaya devam etmektedir. Dünya Sağlık Örgütü 2006 Küresel Tüberküloz Raporundaki verilere göre, dünyada her yıl yaklaşık 9 milyon yeni verem hastasının ortaya çıktığı ve 1,7 milyon hastanın verem sebebiyle öldüğü bilinmektedir. Ülkemizde 2005 yılı içinde belirlenen yeni verem hastası sayısı 18.789'dur.
 

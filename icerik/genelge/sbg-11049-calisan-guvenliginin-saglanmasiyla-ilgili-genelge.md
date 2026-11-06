@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11049/calisan-guvenliginin-saglanmasiy
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü

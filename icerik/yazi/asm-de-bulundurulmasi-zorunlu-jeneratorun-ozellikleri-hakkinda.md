@@ -7,23 +7,25 @@ sayi: "19831278/045.01"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Aile sağlığı merkezlerinde bulundurulacak jeneratör veya kesintisiz güç kaynağının uyması gereken kriterleri ve belgelendirme şeklini açıklar."
 etiketler: ["aile-hekimligi", "mevzuat"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 520-520"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 520"
 kaynak_pdf_sayfa: "526"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## ASM'DE BULUNDURULMASI ZORUNLU JENERATÖRÜN ÖZELLİKLERİ HAKKINDA
 
-T.C.
-SAĞLIK BAKANLIĞI
-Halk Sağlığı Genel Müdürlüğü
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-Sayı: 19831278/045.01
-Konu: Jeneratör ve Kesintisiz Güç Kaynağı
+**Sayı :** 19831278/045.01  
+**Konu :** Jeneratör ve Kesintisiz Güç Kaynağı  
 
-### KARAMAN VALİLİĞİNE (İl Sağlık Müdürlüğü)
+### KARAMAN VALİLİĞİNE  
+(İl Sağlık Müdürlüğü)
 
 İlgi: 18.10.2024 tarihli ve E-70208910-045.99-257205173 sayılı yazınız,
 
@@ -41,6 +43,6 @@ Konu: Jeneratör ve Kesintisiz Güç Kaynağı
 
 Bilgilerini ve gereğini rica ederim.
 
-Dr. Erdoğan KOCAYİĞİT
-Bakan a.
+Dr. Erdoğan KOCAYİĞİT  
+Bakan a.  
 Genel Müdür Yardımcısı

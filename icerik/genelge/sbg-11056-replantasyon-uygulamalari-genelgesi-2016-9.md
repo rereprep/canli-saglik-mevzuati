@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11056/replantasyon-uygulamalari-genelg
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ

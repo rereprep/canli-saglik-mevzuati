@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103787/palyatif-bakim-hizmetleri-uygul
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
@@ -87,7 +88,7 @@ c) Bakanlık: Sağlık Bakanlığını,
 
 d) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
-d) Merkez: Sağlık Bakanlığı ve bağlı kuruluşları, üniversite, Türk Silahlı Kuvvetleri, belediye ve özel sağlık kuruluşlarına ait sağlık hizmet sunucularına bağlı olarak palyatif bakım hizmeti vermek üzere kurulan merkezi,
+e) Merkez: Sağlık Bakanlığı ve bağlı kuruluşları, üniversite, Türk Silahlı Kuvvetleri, belediye ve özel sağlık kuruluşlarına ait sağlık hizmet sunucularına bağlı olarak palyatif bakım hizmeti vermek üzere kurulan merkezi,
 
 e) Müdürlük: İl sağlık müdürlüğünü,
 

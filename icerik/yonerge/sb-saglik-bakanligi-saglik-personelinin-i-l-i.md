@@ -11,9 +11,44 @@ ocr: true
 tarih: "2019-02-25"
 sayi: "2833"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 9.2.5.Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Yönetim Hizmetleri Genel Müdürlüğü
+
+Sayı: 82040698/
+
+Konu: Yönerge
+
+BAKANLIK MAKAMINA
+
+1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 371 inci maddesi ile 3359 sayılı Sağlık Hizmetleri Temel Kanunu'na dayanılarak hazırlanan "Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge"nin yürürlüğe konulmasını tensiplerinize arz ederim.
+
+Mehmet İSLAMOĞLU
+
+Genel Müdür
+
+Uygun görüşle arz ederim. [?]
+
+Prof. Dr. Muhammet GÜVEN
+
+Bakan Yardımcısı
+
+OLUR [?] / 2019
+
+Dr. Fahrettin KOCA
+
+Bakan
+
+Ek: Yönerge (3 sayfa)
 
 ### SAĞLIK BAKANLIĞI SAĞLIK PERSONELİNİN İL İÇİ YER DEĞİŞTİRMESİNE İLİŞKİN YÖNERGE
 

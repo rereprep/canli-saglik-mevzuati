@@ -9,15 +9,50 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 315-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 3.2.3. Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslarda Değişiklik Yapılması Yönergesi
+
+T.C.
+SAĞLIK BAKANLIĞI
+Acil Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı : 54567092/9648
+Konu : Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslarda Değişiklik Yapılması
+
+### BAKANLIK MAKAMINA
+
+22/10/2014 tarihli ve 29153 sayılı Resmi Gazete'de yayımlanan Geçici Koruma Yönetmeliği'ne istinaden, geçici koruma altına alınan kişilere yönelik sağlık hizmeti verecek sağlık kurum ve kuruluşlarını, gönüllü sağlık hizmetini ve bu hizmeti sunan vakıf veya derneklerin çalışma esaslarını belirlemek üzere hazırlanan "Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslar" 25/03/2015 tarih ve 2875 sayılı Makam Onayı ile yürürlüğe konulmuştur. Bu kapsamdaki sağlık hizmetlerinin daha etkin ve verimli şekilde sunulmasının sağlanması ve uygulamada karşılaşılan sorunların giderilmesi maksadıyla, mevzuatta değişiklik yapılması gerekliliği hâsıl olmuştur.
+
+Bu amaçla hazırlanan "Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslarda Değişiklik Yapılması Yönergesi" metni ilişikte sunulmuştur.
+
+Bilgilerinizi ve anılan Esasların onaylanarak, yürürlüğe konulması hususunu tensiplerinize arz ederim.
+
+Uzm. Dr. Muzaffer AKKOCA
+Genel Müdür
+
+Uygun Görüşle Arz Ederim.
+Uzm. Dr. Mehmet BAKAR
+Müsteşar Yardımcısı
+
+Uygun Görüşle Arz Ederim.
+[?]
+Prof. Dr. Eyüp GÜMÜŞ
+Müsteşar
+
+OLUR
+[?]
+Dr. Mehmet MÜEZZİNOĞLU
+Bakan
+
+EKLER: EK-I Yönerge Tadili (5 Sayfa)
 
 ### GEÇİCİ KORUMA ALTINA ALINANLARA VERİLECEK SAĞLIK HİZMETLERİNE DAİR ESASLAR
 
 ## BİRİNCİ BÖLÜM
 
-#### Amaç, Kapsam, #### Hukuki Dayanak ve Tanımlar
+#### Amaç, Kapsam, Hukuki Dayanak ve Tanımlar
 
 #### Amaç
 
@@ -25,7 +60,9 @@ duzeltildi: true
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Esaslar, 22/10/2014 tarihli ve 29153 sayılı Resmî Gazete’de yayımlanan Geçici Koruma Yönetmeliği kapsamında geçici koruma altıra alınan kişileri ve kuruluşlarını, sağlık hizmeti verecek sağlık kurum ve kuruluşlarını, Bakanlıkça uygun görülen gönüllü sağlık hizmetini ve bu hizmeti sunan vakıf veya demekleri kapsar. #### Hukuki Dayanak
+**MADDE 2 –** (1) Bu Esaslar, 22/10/2014 tarihli ve 29153 sayılı Resmî Gazete’de yayımlanan Geçici Koruma Yönetmeliği kapsamında geçici koruma altıra alınan kişileri ve kuruluşlarını, sağlık hizmeti verecek sağlık kurum ve kuruluşlarını, Bakanlıkça uygun görülen gönüllü sağlık hizmetini ve bu hizmeti sunan vakıf veya demekleri kapsar.
+
+#### Hukuki Dayanak
 
 **MADDE 3 –** (1) Bu Esaslar, 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 maı maddesine ve 22/10/2014 tarihli 2014/6883 saysh Geçici Koruma Yönetmeliğmin 27 nci ve 58 İnci maddelerine dayanılanık hazırlanmıştır. #### Tanımlar
 

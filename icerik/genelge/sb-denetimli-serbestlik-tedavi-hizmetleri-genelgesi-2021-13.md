@@ -10,9 +10,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 254-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-2.3.46. Denetimli Serbestlik Tedavi Hizmetleri Genelgesi (2021/13)
 
 ### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -20,7 +19,8 @@ Sayı : 83913885 Konu: Denetimli Serbestlik
 
 Tedavi Hizmetleri
 
-### GENELGE 2021/13
+### GENELGE
+**2021/13**
 
 Madde ile ilişkili suçlardan adli işlem gören ve madde kullanım bozukluğu olan hastaların topluma kazandırılmalarımı teminen yeni bir yaklaşımı ortaya koyan 'Tedavi ve Denetimli Serbestlik Tedbiri' uygulamaları Ülkemizde 2006 yılı itibarıyla faaliyete geçmiş ve ilerleyen yıllarda madde bağımlılığı tanı ve tedavisine olumlu bir katkı sağlamıştır.
 
@@ -196,7 +196,7 @@ evrakının geçerlilik süresi, aynı gün veya sevk tarihini takip eden ilk i�
 
 gönderilir.
 
-2015/11 sayıi Bakanlığımız Genelgesi yürürlükten kaldırılmış olup, denetimli serbestlik tedavi hizmetlerinin herhangi bir aksamaya mahal verilmeden yukanda belirlenen esaslara göre yürütülmesi hususunda,
+2015/11 sayılı Bakanlığımız Genelgesi yürürlükten kaldırılmış olup, denetimli serbestlik tedavi hizmetlerinin herhangi bir aksamaya mahal verilmeden yukarıda belirlenen esaslara göre yürütülmesi hususunda,
 
 Gereğini ve bilgilerini arz/rica ederim.
 

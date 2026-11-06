@@ -2,6 +2,7 @@
 id: "sb-kalp-krizi-geciren-vakalarin-yonetimi-genelgesi-2021-3"
 baslik: "Kalp Krizi Geçiren Vakaların Yönetimi Genelgesi (2021/3)"
 tur: "genelge"
+tarih: "2021-05-27"
 sayi: "2021/3"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Akut koroner sendrom ve kalp krizi geçiren vakaların hastane öncesi ve hastane içi tanı, sevk ve yönetimini düzenler."
@@ -10,7 +11,42 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 219-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
+### T.C.
+### SAĞLIK BAKANLIĞI
+#### Sağlık Hizmetleri Genel Müdürlüğü
+
+**Sayı :** E-83913885-010.06.02-2931  
+**Konu :** Kalp Krizi Geçiren Vakaların Yönetimi  
+**Tarih :** 27/05/2021
+
+### GENELGE
+**2021/3**
+
+Bilindiği üzere, kalp merkezlerinin planlanması, kurulması ve işleyişi ile ilgili usul ve esaslar 18.07.2019 tarihli ve 2019/14 sayılı Kalp Merkezi Hizmetleri Genelgesi ile düzenlenmiştir.
+
+Bu çerçevede, ülkemizde kalp krizine bağlı gelişen mortalite ve morbiditenin en aza indirilmesi, vakalara ulusal ve uluslararası standartlarda müdahale edilmesi, tanı ve tedavi süreçlerinin geliştirilmesi, vatandaşlarımızın hizmete erişimlerinin kolaylaştırılması, ihtiyaç duyulan sağlık hizmetlerinin zamanında ve hakkaniyetle sunulması amacıyla Bakanlığımızca ülkemizin coğrafi yapısı, nüfus hareketleri, koroner arter hastalığı insidans ve prevalansı, koroner arter hastalığı nedeniyle il dışına yapılan sevkler, mevcut sağlık hizmeti veren kalp merkezlerinin yapıları, bu merkezlere ulaşılabilirlik ve uluslararası standartlar incelenerek kalp krizi geçiren hastaya en kısa sürede en iyi tedaviyi uygulamak amacıyla ilgili usul ve esaslar ekte düzenlenmiştir.
+
+Genelgenin ilinizde bulunan tüm sağlık kuruluşlarına duyurulması, Bakanlığımız ve üniversitelere bağlı sağlık tesislerinde ve özel sağlık tesislerinde kalp krizi tanısı konulan hastalara sunulan sağlık hizmetlerinin iş bu Genelge kapsamında yürütülmesi hususunda;
+
+Bilgilerinizi ve gereğini önemle arz/rica ederim.
+
+Prof. Dr. Sabahattin AYDIN  
+Bakan a.  
+Bakan Yardımcısı
+
+**Dağıtım:**  
+**Gereği:**  
+Yükseköğretim Kurulu Başkanlığına  
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+**Bilgi:**  
+Cumhurbaşkanlığına  
+TBMM Başkanlığına  
+Sosyal Güvenlik Kurumuna  
+A Planı
 
 ### EK-I Kalp Krizi Geçiren Vakaların Yönetimine İlişkin Usul ve Esaslar
 

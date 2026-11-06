@@ -10,19 +10,17 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 154-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
+#### Sağlık Hizmetleri Genel Müdürlüğü
 
-Sağlık Hizmetleri Genel Müdürlüğü LC. SAÔLIK BAKANLIĞI - SACLIK HZMETLERI TC Sağik Bakanliğ DENEL MO DÜRLC00 - HASTA HAKLARI VE
-
-### TIBBİ SOSYAL HİZMETLER DAİRE BAŞKANLIĞI
-
-90011 2014 17 30 P 2014 231110 Sayt : 64047795
-
-00006121732 Konu : Hasta Hakları Uygulamaları
+**Sayı :** 64047795-010.06/00006121732  
+**Konu :** Hasta Hakları Uygulamaları
 
 ### GENELGE
+**2014/32**
 
 Hasta Hakları Yönetmeliği ile birinci basamak kamu sağlık tesisleri, özel sağlık tesisleri ve askeri hastaneler dahil olmak üzere bütün sağlık kurum ve kuruluşlarında hasta memnuniyetinin arttırılması, insan haysiyetine yakışır şekilde herkesin hasta haklarından faydalanabilmesi, hak ihlallerinden korunabilmesi ve gerektiğinde hukuki korunma yollarını fiilen kullanılabilmesini teminen hasta sorumlulukları da belirlenerek hasta/çalışan memnuniyeti ve güvenliğini gözeten bir yaklaşımla düzenleme yapılmıştır.
 
@@ -254,12 +252,18 @@ e) Sağlık tesisleri, kurul kararlarının gereğini yerine getirir ve yapılan
 
 f) Kurul karanı kendisine bildirilen ilgili kurum veya kuruluşun yöneticisi/askeri hastane başhekimi/mesul müdürü gerekli işlemlerin yapılmamasından veya gecikmesinden doğacak adli ve idari sonuclardan sorumludur.
 
-TC Sağik Bakanliğı
-
 Hasta hakları uygulamalarının ve Hasta Başvuru Bildirim Sisteminin herhangi bir aksamaya mahal verilmeden tüm sağlık tesislerimizde multidisipliner bir şekilde uygulanması hususunda gereğini rica ederim.
 
 Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Mustegar Dağıtım: A Plan Yüksek Öğretim Kurulu Bşk.na Genel Kurmay Başkanlığına
+Müsteşar
+
+### DAĞITIM:
+**Gereği:**
+A Planı
+
+**Bilgi:**
+Yükseköğretim Kurulu Başkanlığına
+Genelkurmay Başkanlığına

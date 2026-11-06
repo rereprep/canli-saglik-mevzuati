@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11061/uzmanlik-ogrencileri-201619-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### SAĞLIK BAKANLIĞI
@@ -66,4 +67,4 @@ Gereği:
 
 - Türkiye Kamu Hastaneleri Kurumu
 
-- Adalet Bakanlığı (Adli Tıp Kurumu) * 
+- Adalet Bakanlığı (Adli Tıp Kurumu) *

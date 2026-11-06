@@ -9,9 +9,50 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 376-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 4.2.3. Merkezi Hekim Randevu Sistemi (MHRS) Çalışma Usul ve Esasları Hakkında Yönerge
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Sağlık Bilgi Sistemleri Genel Müdürlüğü
+
+Sayı: 75730711
+
+Konu: MHRS Yönergesi
+
+BAKANLIK MAKAMINA
+
+Bakanlığımıza bağlı birinci, ikinci ve üçüncü basamak sağlık tesisleri ile ağız ve diş sağlığı merkezleri ve polikliniklerinde, Merkezi Hekim Randevu Sistemi kapsamında verilecek muayene randevusu hizmetlerine ilişkin usul ve esasları düzenlemek amacıyla hazırlanan "Merkezi Hekim Randevu Sistemi Çalışma Usul ve Esasları Hakkında Yönerge"nin yürürlüğe konulması hususunu tensiplerinize arz ederim.
+
+[?]
+
+Genel Müdür V.
+
+Ek: Yönerge ve ekleri (7 sayfa)
+
+Uygun görüşle arz ederim. [?]
+
+Dr. Suayip BİRİNCİ
+
+Müsteşar Yardımcısı
+
+Uygun görüşle arz ederim. [?]
+
+Prof. Dr. Eyüp GÜMÜŞ
+
+Müsteşar
+
+OLUR [?]
+
+Dr. Ahmet DEMİRCAN
+
+Bakan
 
 ### MERKEZİ HEKİM RANDEVU SİSTEMİ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE
 
@@ -23,7 +64,9 @@ duzeltildi: true
 
 #### Dayanak
 
-**MADDE 2 –** (1) Bu Yönerge, 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 40 ıncı maddesine dayanılarak hazırlanmıştır. #### Tanımlar ve kısaltmalar
+**MADDE 2 –** (1) Bu Yönerge, 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 40 ıncı maddesine dayanılarak hazırlanmıştır.
+
+#### Tanımlar ve kısaltmalar
 
 **MADDE 3 –** (1) Bu Yönergenin uygulanmasında:
 
@@ -33,21 +76,23 @@ b) ASM: Aile sağlığı merkezlerini,
 
 c) Bakanlık: Sağlık Bakanlığını,
 
-g) HBYS: Hastane Bilgi Yönetim Sistemini,
+ç) HBYS: Hastane Bilgi Yönetim Sistemini,
 
-d) Hekim çalışma cetveli: Bir hekimin çalışma zamanının tamamını ihtiva eden çalışma programini,
+d) Hekim çalışma cetveli: Bir hekimin çalışma zamanının tamamını ihtiva eden çalışma programını,
 
 e) HSGM: Halk Sağlığı Genel Müdürlüğünü,
 
-1) KHGM: Kamu Hastaneleri Genel Müdürlüğünü,
+f) KHGM: Kamu Hastaneleri Genel Müdürlüğünü,
 
-g) MHRS: Merkezi Hekim Randevu Sistemini.
+g) MHRS: Merkezi Hekim Randevu Sistemini,
 
-g) Sağlık tesisi: Sağlık Bakanlığına bağlı, ikinci ve üçüncü basamak sağhk kurumları ile ağz ve diş sağlıği merkezlerini ve hastanelerini,
+ğ) Sağlık tesisi: Sağlık Bakanlığına bağlı, ikinci ve üçüncü basamak sağlık kurumları ile ağız ve diş sağlığı merkezlerini ve hastanelerini,
 
-h) SBSGM: Sağlık Bilgi Sistemleri Gencl Madürlüğünü,
+h) SBSGM: Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
 
-1) TSM: Toplam sağlığ merkezlerini. ifade eder.
+ı) TSM: Toplam sağlığı merkezlerini,
+
+ifade eder.
 
 ## İKİNCİ BÖLÜM MHRS Hizmetlerinin Merkezi Koordinasyonu
 

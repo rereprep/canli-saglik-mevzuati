@@ -1,0 +1,1740 @@
+{
+ "k-eczacilar-ve-eczaneler-hakkinda-kanun": {
+  "no": "6197",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "ECZACILAR VE ECZANELER HAKKINDA KANUN",
+  "rg_tarih": "1953-12-24",
+  "rg_sayi": "8591"
+ },
+ "k-hemsirelik-kanunu": {
+  "no": "6283",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "HEMŞİRELİK KANUNU",
+  "rg_tarih": "1954-03-02",
+  "rg_sayi": "8647"
+ },
+ "k-optisyenlik-hakkinda-kanun": {
+  "no": "5193",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "OPTİSYENLİK HAKKINDA KANUN",
+  "rg_tarih": "2004-06-26",
+  "rg_sayi": "25504"
+ },
+ "k-organ-ve-doku-alinmasi-saklanmasi-asilanmasi-ve-nakli-hakkinda-kanun": {
+  "no": "2238",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "ORGAN VE DOKU ALINMASI, SAKLANMASI, AŞILANMASI VE NAKLİ HAKKINDA KANUN",
+  "rg_tarih": "1979-06-03",
+  "rg_sayi": "16655"
+ },
+ "k-radiyoloji-radiyom-ve-elektrikle-tedavi-ve-diger-fizyoterapi-muesseseleri-hakkinda-kanun": {
+  "no": "3153",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "RADİYOLOJİ, RADİYOM VE ELEKTRİKLE TEDAVİ VE DİĞER FİZYOTERAPİ MÜESSESELERİ HAKKINDA KANUN",
+  "rg_tarih": "1937-04-28",
+  "rg_sayi": "3591"
+ },
+ "k-sosyal-sigortalar-ve-genel-saglik-sigortasi-kanunu": {
+  "no": "5510",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU",
+  "rg_tarih": "2006-06-16",
+  "rg_sayi": "26200"
+ },
+ "k-turk-dishekimleri-birligi-kanunu": {
+  "no": "3224",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "TÜRK DİŞ HEKİMLERİ BİRLİĞİ KANUNU",
+  "rg_tarih": "1985-06-25",
+  "rg_sayi": "18792"
+ },
+ "k-turk-tabipleri-birligi-kanunu": {
+  "no": "6023",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "TÜRK TABİPLERİ BİRLİĞİ KANUNU",
+  "rg_tarih": "1953-01-31",
+  "rg_sayi": "8323"
+ },
+ "k-umumi-hifzissihha-kanunu": {
+  "no": "1593",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "UMUMİ HIFZISSIHHA KANUNU",
+  "rg_tarih": "1930-05-06",
+  "rg_sayi": "1489"
+ },
+ "k-uyusturucu-maddelerin-murakabesi-hakkinda-kanun": {
+  "no": "2313",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "UYUŞTURUCU MADDELERİN MURAKABESİ HAKKINDA KANUN",
+  "rg_tarih": "1933-06-24",
+  "rg_sayi": "2435"
+ },
+ "k-ispenciyari-ve-tibbi-mustahzarlar-kanunu": {
+  "no": "1262",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "İSPENÇİYARİ VE TIBBİ MÜSTAHZARLAR KANUNU",
+  "rg_tarih": "1928-05-26",
+  "rg_sayi": "898"
+ },
+ "k-sosyal-guvenlik-kurumu-saglik-uygulama-tebligi-sut": {
+  "no": "17229",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİ",
+  "rg_tarih": "2013-03-24",
+  "rg_sayi": "28597"
+ },
+ "k-turk-eczacilari-deontoloji-tuzugu": {
+  "no": "610314",
+  "tur": 2,
+  "tertip": "5",
+  "ad": "TÜRK ECZACILARI DEONTOLOJİ TÜZÜĞÜ",
+  "rg_tarih": "1968-07-27",
+  "rg_sayi": "12961"
+ },
+ "k-acil-saglik-hizmetleri-yonetmeligi": {
+  "no": "4798",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ACİL SAĞLIK HİZMETLERİ YÖNETMELİĞİ",
+  "rg_tarih": "2000-05-11",
+  "rg_sayi": "24046"
+ },
+ "k-ayakta-teshis-ve-tedavi-yapilan-ozel-saglik-kuruluslari-hakkinda-yonetmelik": {
+  "no": "42369",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "AYAKTA TEŞHİS VE TEDAVİ YAPILAN ÖZEL SAĞLIK KURULUŞLARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2025-04-19",
+  "rg_sayi": "32875"
+ },
+ "k-agiz-ve-dis-sagligi-hizmeti-sunulan-ozel-saglik-kuruluslari-hakkinda-yonetmelik": {
+  "no": "39749",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "AĞIZ VE DİŞ SAĞLIĞI HİZMETİ SUNULAN ÖZEL SAĞLIK KURULUŞLARI\r\nHAKKINDA YÖNETMELİK",
+  "rg_tarih": "2022-10-06",
+  "rg_sayi": "31975"
+ },
+ "k-beseri-tibbi-urunler-ruhsatlandirma-yonetmeligi": {
+  "no": "39102",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "BEŞERİ TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİ",
+  "rg_tarih": "2021-12-11",
+  "rg_sayi": "31686"
+ },
+ "k-beseri-tibbi-urunler-ve-ozel-tibbi-amacli-gidalarin-geri-cekilmesi-hakkinda-yonetmelik": {
+  "no": "41050",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "BEŞERİ TIBBİ ÜRÜNLER VE ÖZEL TIBBİ AMAÇLI GIDALARIN\r\nGERİ ÇEKİLMESİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2024-10-23",
+  "rg_sayi": "32701"
+ },
+ "k-beseri-tibbi-urunlerin-klinik-arastirmalari-hakkinda-yonetmelik": {
+  "no": "40207",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "BEŞERİ TIBBİ ÜRÜNLERİN KLİNİK ARAŞTIRMALARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2023-05-27",
+  "rg_sayi": "32203"
+ },
+ "k-biyosidal-urunler-yonetmeligi": {
+  "no": "13672",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "BİYOSİDAL ÜRÜNLER YÖNETMELİĞİ",
+  "rg_tarih": "2009-12-31",
+  "rg_sayi": "27449 4. Mükerrer"
+ },
+ "k-diyaliz-merkezleri-hakkinda-yonetmelik": {
+  "no": "31297",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "DİYALİZ MERKEZLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2019-03-01",
+  "rg_sayi": "30701"
+ },
+ "k-dogal-mineralli-sular-hakkinda-yonetmelik": {
+  "no": "4821",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "DOĞAL MİNERALLİ SULAR HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2004-12-01",
+  "rg_sayi": "25657"
+ },
+ "k-geleneksel-ve-tamamlayici-tip-uygulamalari-yonetmeligi": {
+  "no": "45117",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "GELENEKSEL VE TAMAMLAYICI TIP UYGULAMALARI YÖNETMELİĞİ",
+  "rg_tarih": "2026-04-28",
+  "rg_sayi": "33237"
+ },
+ "k-hasta-haklari-yonetmeligi": {
+  "no": "4847",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HASTA HAKLARI YÖNETMELİĞİ",
+  "rg_tarih": "1998-08-01",
+  "rg_sayi": "23420"
+ },
+ "k-hastane-afet-ve-acil-durum-planlari": {
+  "no": "34368",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HASTANE AFET VE ACİL DURUM PLANLARI (HAP) UYGULAMA YÖNETMELİĞİ",
+  "rg_tarih": "2020-03-18",
+  "rg_sayi": "31072"
+ },
+ "k-hastane-koordinasyon-kurulu-yonetmeligi": {
+  "no": "41085",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HASTANE KOORDİNASYON KURULU YÖNETMELİĞİ",
+  "rg_tarih": "2024-12-03",
+  "rg_sayi": "32741"
+ },
+ "k-ebelik-yonetmeligi": {
+  "no": "41084",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "EBELİK YÖNETMELİĞİ",
+  "rg_tarih": "2024-12-03",
+  "rg_sayi": "32741"
+ },
+ "k-ecza-ticarethaneleri-ve-ecza-ticarethanelerinde-bulundurulan-urunler-hakkinda-yonetmelik": {
+  "no": "39572",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ECZA TİCARETHANELERİ VE ECZA TİCARETHANELERİNDE \r\nBULUNDURULAN ÜRÜNLER HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2022-06-15",
+  "rg_sayi": "31867"
+ },
+ "k-eczacilar-ve-eczaneler-hakkinda-yonetmelik": {
+  "no": "19569",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ECZACILAR VE ECZANELER HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2014-04-12",
+  "rg_sayi": "28970"
+ },
+ "k-gebe-okullari-ile-doguma-yonelik-hizmetlerin-usul-ve-esaslari-hakkinda-yonetmelik": {
+  "no": "41098",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "GEBE OKULLARI İLE DOĞUMA YÖNELİK HİZMETLERİN USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2024-12-13",
+  "rg_sayi": "32751"
+ },
+ "k-geleneksel-bitkisel-tibbi-urunler-ruhsatlandirma-yonetmeligi": {
+  "no": "40062",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "GELENEKSEL BİTKİSEL TIBBİ ÜRÜNLER\r\nRUHSATLANDIRMA YÖNETMELİĞİ",
+  "rg_tarih": "2023-02-03",
+  "rg_sayi": "32093"
+ },
+ "k-homeopatik-tibbi-urunler-ruhsatlandirma-yonetmeligi": {
+  "no": "40245",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HOMEOPATİK TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİ",
+  "rg_tarih": "2023-07-08",
+  "rg_sayi": "32242"
+ },
+ "k-kaplicalar-yonetmeligi": {
+  "no": "8056",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "KAPLICALAR YÖNETMELİĞİ",
+  "rg_tarih": "2001-07-24",
+  "rg_sayi": "24472"
+ },
+ "k-kisisel-saglik-verileri-hakkinda-yonetmelik": {
+  "no": "32610",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "KİŞİSEL SAĞLIK VERİLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2019-06-21",
+  "rg_sayi": "30808"
+ },
+ "k-optisyenlik-muesseseleri-hakkinda-yonetmelik": {
+  "no": "19311",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "OPTİSYENLİK MÜESSESELERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2014-01-18",
+  "rg_sayi": "28886"
+ },
+ "k-radyasyon-onkolojisi-hizmetleri-yonetmeligi": {
+  "no": "42765",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "RADYASYON ONKOLOJİSİ HİZMETLERİ YÖNETMELİĞİ",
+  "rg_tarih": "2025-12-16",
+  "rg_sayi": "33109"
+ },
+ "k-sac-ekimi-birimleri-hakkinda-yonetmelik": {
+  "no": "40176",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAÇ EKİMİ BİRİMLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2023-05-06",
+  "rg_sayi": "32182"
+ },
+ "k-saglik-bakanligi-atama-ve-yer-degistirme-yonetmeligi": {
+  "no": "17232",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞI ATAMA VE  YER DEĞİŞTİRME YÖNETMELİĞİ",
+  "rg_tarih": "2013-03-26",
+  "rg_sayi": "28599"
+ },
+ "k-saglik-bakanligi-ek-odeme-yonetmeligi": {
+  "no": "40905",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞI\r\nEK ÖDEME YÖNETMELİĞİ",
+  "rg_tarih": "2024-08-06",
+  "rg_sayi": "32624"
+ },
+ "k-saglik-bakanligi-tasra-teskilati-idari-ve-hizmet-birimleri-kadro-standartlari-yonetmeligi": {
+  "no": "15741",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI İDARİ VE HİZMET BİRİMLERİ KADRO STANDARTLARI YÖNETMELİĞİ",
+  "rg_tarih": "2012-01-04",
+  "rg_sayi": "28163"
+ },
+ "k-saglik-bakanligina-ait-kurum-ve-kuruluslar-ile-devlet-universitelerinin-ilgili-birimlerinin-birlikte-kullanimi-ile-isbirligi-usul-ve-esaslari-hakkinda-yonetmelik": {
+  "no": "34330",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞINA AİT KURUM VE KURULUŞLAR İLE DEVLET\r\nÜNİVERSİTELERİNİN İLGİLİ BİRİMLERİNİN BİRLİKTE\r\nKULLANIMI İLE İŞBİRLİĞİ USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2020-03-04",
+  "rg_sayi": "31058"
+ },
+ "k-saglik-bilgi-yonetim-sistemleri-hakkinda-yonetmelik": {
+  "no": "39682",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BİLGİ YÖNETİM SİSTEMLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2022-08-25",
+  "rg_sayi": "31934"
+ },
+ "k-saglik-hizmetleri-lisans-yonetmeligi": {
+  "no": "42692",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK HİZMETLERİ LİSANS YÖNETMELİĞİ",
+  "rg_tarih": "2025-11-11",
+  "rg_sayi": "33074"
+ },
+ "k-saglik-hizmetlerinde-tanitim-ve-bilgilendirme-faaliyetleri-hakkinda-yonetmelik": {
+  "no": "42694",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK HİZMETLERİNDE TANITIM VE BİLGİLENDİRME\r\nFAALİYETLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2025-11-12",
+  "rg_sayi": "33075"
+ },
+ "k-saglik-meslek-mensubu-olmayan-personelin-saglik-personeli-yoklugunda-yapmaya-yetkili-olduklari-acil-tibbi-mudahaleler-hakkinda-yonetmelik": {
+  "no": "42657",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK MESLEK MENSUBU OLMAYAN PERSONELİN SAĞLIK PERSONELİ YOKLUĞUNDA YAPMAYA YETKİLİ OLDUKLARI ACİL TIBBİ MÜDAHALELER HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2025-10-17",
+  "rg_sayi": "33050"
+ },
+ "k-saglik-meslek-mensuplarinin-serbest-meslek-icrasi-hakkinda-yonetmelik": {
+  "no": "42353",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK MESLEK MENSUPLARININ SERBEST MESLEK İCRASI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2025-03-29",
+  "rg_sayi": "32856"
+ },
+ "k-saglik-meslek-mensuplarinin-tibbi-islem-ve-uygulamalari-nedeniyle-sorusturulmasina-ve-idarece-odenen-tazminatin-rucu-edilmesine-dair-usul-ve-esaslar-hakkinda-yonetmelik": {
+  "no": "39573",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK MESLEK MENSUPLARININ TIBBÎ İŞLEM VE UYGULAMALARI NEDENİYLE SORUŞTURULMASINA VE İDARECE ÖDENEN TAZMİNATIN RÜCU EDİLMESİNE DAİR USUL VE\r\nESASLAR HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2022-06-15",
+  "rg_sayi": "31867"
+ },
+ "k-seferberlik-ve-savas-hali-yonetmeligi": {
+  "no": "8510",
+  "tur": 21,
+  "tertip": "5",
+  "ad": "SEFERBERLİK VE SAVAŞ HÂLİ YÖNETMELİĞİ",
+  "rg_tarih": "2024-05-22",
+  "rg_sayi": "32553"
+ },
+ "k-tibbi-amacli-olmayan-belirli-aktif-urun-gruplarinin-yeniden-siniflandirilmasina-iliskin-yonetmelik": {
+  "no": "40924",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TIBBİ AMAÇLI OLMAYAN BELİRLİ AKTİF ÜRÜN GRUPLARININ\r\nYENİDEN SINIFLANDIRILMASINA İLİŞKİN YÖNETMELİK",
+  "rg_tarih": "2024-08-17",
+  "rg_sayi": "32635"
+ },
+ "k-tibbi-cihaz-klinik-arastirmalari-yonetmeligi": {
+  "no": "39621",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TIBBİ CİHAZ KLİNİK ARAŞTIRMALARI YÖNETMELİĞİ",
+  "rg_tarih": "2022-07-08",
+  "rg_sayi": "31890"
+ },
+ "k-tibbi-cihaz-satis-reklam-ve-tanitim-yonetmeligi": {
+  "no": "19666",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TIBBİ CİHAZ SATIŞ, REKLAM VE TANITIM YÖNETMELİĞİ",
+  "rg_tarih": "2014-05-15",
+  "rg_sayi": "29001"
+ },
+ "k-tibbi-laboratuvar-hizmetleri-ve-ileri-teknoloji-tibbi-laboratuvar-uygulamalari-hakkinda-yonetmelik": {
+  "no": "42668",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TIBBİ LABORATUVAR HİZMETLERİ VE İLERİ TEKNOLOJİ TIBBİ LABORATUVAR UYGULAMALARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2025-10-24",
+  "rg_sayi": "33057"
+ },
+ "k-tipta-ve-dis-hekimliginde-uzmanlik-egitimi-yonetmeligi": {
+  "no": "39700",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TIPTA VE DİŞ HEKİMLİĞİNDE UZMANLIK EĞİTİMİ YÖNETMELİĞİ",
+  "rg_tarih": "2022-09-03",
+  "rg_sayi": "31942"
+ },
+ "k-uluslararasi-saglik-turizmi-ve-turistin-sagligi-hakkinda-yonetmelik": {
+  "no": "42376",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ULUSLARARASI SAĞLIK TURİZMİ VE TURİSTİN SAĞLIĞI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2025-04-26",
+  "rg_sayi": "32882"
+ },
+ "k-uzaktan-saglik-hizmetlerinin-sunumu-hakkinda-yonetmelik": {
+  "no": "39363",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "UZAKTAN SAĞLIK HİZMETLERİNİN SUNUMU HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2022-02-10",
+  "rg_sayi": "31746"
+ },
+ "k-yatakli-tedavi-kurumlari-isletme-yonetmeligi": {
+  "no": "85319",
+  "tur": 3,
+  "tertip": "5",
+  "ad": "YATAKLI TEDAVİ KURUMLARI İŞLETME YÖNETMELİĞİ",
+  "rg_tarih": "1983-01-13",
+  "rg_sayi": "17927 (Mükerrer)"
+ },
+ "k-yurt-disindan-ilac-temini-yonetmeligi": {
+  "no": "40063",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "YURT DIŞINDAN İLAÇ TEMİNİ YÖNETMELİĞİ",
+  "rg_tarih": "2023-02-03",
+  "rg_sayi": "32093"
+ },
+ "k-cok-disiplinli-cocuk-ve-genc-ruh-sagligi-merkezleri-hakkinda-yonetmelik": {
+  "no": "39882",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ÇOK DİSİPLİNLİ ÇOCUK VE GENÇ RUH SAĞLIĞI MERKEZLERİ\r\nHAKKINDA YÖNETMELİK",
+  "rg_tarih": "2022-12-15",
+  "rg_sayi": "32044"
+ },
+ "k-ozel-hastaneler-yonetmeligi": {
+  "no": "41265",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ÖZEL HASTANELER YÖNETMELİĞİ",
+  "rg_tarih": "2025-01-30",
+  "rg_sayi": "32798"
+ },
+ "k-ozel-saglik-tesislerinin-denetimi-hakkinda-yonetmelik": {
+  "no": "40421",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ÖZEL SAĞLIK TESİSLERİNİN DENETİMİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2023-11-17",
+  "rg_sayi": "32372"
+ },
+ "k-uremeye-yardimci-tedavi-uygulamalari-ve-uremeye-yardimci-tedavi-merkezleri-hakkinda-yonetmelik": {
+  "no": "20085",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ÜREMEYE YARDIMCI TEDAVİ UYGULAMALARI VE ÜREMEYE YARDIMCI TEDAVİ MERKEZLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2014-09-30",
+  "rg_sayi": "29135"
+ },
+ "k-ileri-tedavi-tibbi-urunler-ruhsatlandirma-yonetmeligi": {
+  "no": "40206",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "İLERİ TEDAVİ TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİ",
+  "rg_tarih": "2023-05-27",
+  "rg_sayi": "32203"
+ },
+ "k-ilkyardim-yonetmeligi": {
+  "no": "20992",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "İLKYARDIM YÖNETMELİĞİ",
+  "rg_tarih": "2015-07-29",
+  "rg_sayi": "29429"
+ },
+ "k-insan-doku-ve-hucrelerinden-elde-edilen-urunler-ve-bu-urunler-ile-ilgili-merkezler-hakkinda-yonetmelik": {
+  "no": "42611",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "İNSAN DOKU VE HÜCRELERİNDEN ELDE EDİLEN ÜRÜNLER VE BU\r\nÜRÜNLER İLE İLGİLİ MERKEZLER HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2025-09-04",
+  "rg_sayi": "33007"
+ },
+ "k-insani-tuketim-amacli-sular-hakkinda-yonetmelik": {
+  "no": "7510",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "İNSANİ TÜKETİM AMAÇLI SULAR HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2005-02-17",
+  "rg_sayi": "25730"
+ },
+ "k-iyonlastirici-radyasyon-ve-radyonuklit-kullanilarak-sunulan-saglik-hizmetleri-hakkinda-yonetmelik": {
+  "no": "7077",
+  "tur": 21,
+  "tertip": "5",
+  "ad": "İYONLAŞTIRICI RADYASYON VE RADYONÜKLİT KULLANILARAK SUNULAN SAĞLIK HİZMETLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2023-04-13",
+  "rg_sayi": "32162"
+ },
+ "k-isyeri-hekimi-ve-diger-saglik-personelinin-gorev-yetki-sorumluluk-ve-egitimleri-hakkinda-yonetmelik": {
+  "no": "18615",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "İŞYERİ HEKİMİ VE DİĞER SAĞLIK PERSONELİNİN GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2013-07-20",
+  "rg_sayi": "28713"
+ },
+ "oz-hususi-hastaneler-kanunu-1933-06-05": {
+  "no": "2219",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "HUSUSİ HASTANELER KANUNU",
+  "rg_tarih": "1933-06-05",
+  "rg_sayi": "2419"
+ },
+ "oz-turk-eczacilari-birligi-kanunu-1956-02-02": {
+  "no": "6643",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "TÜRK ECZACILARI BİRLİĞİ KANUNU",
+  "rg_tarih": "1956-02-02",
+  "rg_sayi": "9223"
+ },
+ "oz-sitmanin-imhasi-hakkinda-kanun-1960-01-11": {
+  "no": "7402",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "SITMANIN İMHASI HAKKINDA KANUN",
+  "rg_tarih": "1960-01-11",
+  "rg_sayi": "10402"
+ },
+ "oz-saglik-hizmetlerinin-sosyallestirilmesi-hakkinda-kanun-1961-01-12": {
+  "no": "224",
+  "tur": 1,
+  "tertip": "4",
+  "ad": "SAĞLIK HİZMETLERİNİN SOSYALLEŞTİRİLMESİ HAKKINDA KANUN",
+  "rg_tarih": "1961-01-12",
+  "rg_sayi": "10705"
+ },
+ "oz-nufus-planlamasi-hakkinda-kanim-1983-05-27": {
+  "no": "2827",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "NÜFUS PLANLAMASI HAKKINDA KANUN",
+  "rg_tarih": "1983-05-27",
+  "rg_sayi": "18059"
+ },
+ "oz-kalitsal-hastaliklarla-mucadele-kanunu-1993-12-30": {
+  "no": "3960",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "KALITSAL HASTALIKLARLA MÜCADELE KANUNU",
+  "rg_tarih": "1993-12-30",
+  "rg_sayi": "21804"
+ },
+ "oz-kozmetik-kanunu-2005-03-30": {
+  "no": "5324",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "KOZMETİK KANUNU",
+  "rg_tarih": "2005-03-30",
+  "rg_sayi": "25771"
+ },
+ "oz-biyoguvenlik-kanunu-2010-03-26": {
+  "no": "5977",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "BİYOGÜVENLİK KANUNU",
+  "rg_tarih": "2010-03-26",
+  "rg_sayi": "27533"
+ },
+ "oz-ispenciyari-ve-tibbi-mustahzarlar-nizamnamesi-1935-09-23": {
+  "no": "23238",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "İSPENÇİYARİ VE TIBBİ MÜSTAHZARLAR NİZAMNAMESİ",
+  "rg_tarih": "1935-09-23",
+  "rg_sayi": "3113"
+ },
+ "oz-gemilerde-yolcularin-sihhi-emniyeti-hakkinda-nizamname-1943-01-28": {
+  "no": "219331",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "GEMİLERDE YOLCULARIN SIHHİ EMNİYETİ HAKKINDA NİZAMNAME",
+  "rg_tarih": "1943-01-28",
+  "rg_sayi": "5316"
+ },
+ "oz-gida-maddelerinin-ve-umumi-sagligi-ilgilendiren-esya-ve-levazimin-hususi-vasifla-1952-10-18": {
+  "no": "315481",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "GIDA MADDELERİNİN VE UMUMİ SAĞLIĞI İLGİLENDİREN EŞYA VE LEVAZIMIN HUSUSİ VASIFLARINI GÖSTEREN TÜZÜK",
+  "rg_tarih": "1952-10-18",
+  "rg_sayi": "8236"
+ },
+ "oz-fizyoterapi-ve-bunlara-benzer-muesseseler-hakkinda-nizamname": {
+  "no": "49326",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "FİZYOTERAPİ VE BUNLARA BENZER MÜESSESELER HAKKINDA NİZAMNAME",
+  "rg_tarih": "1957-10-12",
+  "rg_sayi": "9730"
+ },
+ "oz-sosyal-sigorta-saglik-islemleri-tuzugu-1972-06-22": {
+  "no": "74496",
+  "tur": 2,
+  "tertip": "5",
+  "ad": "SOSYAL SİGORTA SAĞLIK İŞLEMLERİ TÜZÜĞÜ",
+  "rg_tarih": "1972-06-22",
+  "rg_sayi": "14223"
+ },
+ "oz-uluslararasi-saglik-tuzugu-1973-04-25": {
+  "no": "75578",
+  "tur": 2,
+  "tertip": "5",
+  "ad": "ULUSLARARASI SAĞLIK TÜZÜĞÜ",
+  "rg_tarih": "1973-04-25",
+  "rg_sayi": "14517"
+ },
+ "oz-rahim-tahliyesi-ve-sterilizasyon-hizmetlerinin-yurutulmesi-ve-denetlenmesine-ili-1983-12-18": {
+  "no": "837395",
+  "tur": 2,
+  "tertip": "5",
+  "ad": "RAHİM TAHLİYESİ VE STERİLİZASYON HİZMETLERİNİN YÜRÜTÜLMESİ VE DENETLENMESİNE İLİŞKİN TÜZÜK",
+  "rg_tarih": "1983-12-18",
+  "rg_sayi": "18255"
+ },
+ "oz-saglik-bakanligi-teftis-kurulu-tuzugu-1990-09-14": {
+  "no": "90671",
+  "tur": 2,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞI TEFTİŞ KURULU TÜZÜĞÜ",
+  "rg_tarih": "1990-09-14",
+  "rg_sayi": "20635"
+ },
+ "oz-koy-kanunu-1924-04-07": {
+  "no": "442",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "KÖY KANUNU",
+  "rg_tarih": "1924-04-07",
+  "rg_sayi": "68"
+ },
+ "oz-sular-hakkinda-kanun-1926-05-10": {
+  "no": "831",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "SULAR HAKKINDA KANUN",
+  "rg_tarih": "1926-05-10",
+  "rg_sayi": "368"
+ },
+ "oz-ecza-ticarethaneleriyle-sanat-ve-ziraat-islerinde-kullanilan-zehirli-ve-muessir--1927-03-12": {
+  "no": "984",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "ECZA TİCARETHANELERİYLE SANAT VE ZİRAAT İŞLERİNDE KULLANILAN ZEHİRLİ VE MÜESSİR KİMYEVİ MADDELERİN SATILDIĞI DÜKKANLARA MAHSUS KANUN",
+  "rg_tarih": "1927-03-12",
+  "rg_sayi": "574"
+ },
+ "oz-seriri-ve-gidai-taharriyat-ve-tahlilat-yapilan-ve-masli-teamuller-aranilan-umuma-1927-03-30": {
+  "no": "992",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "SERİRİ VE GIDAİ TAHARRİYAT VE TAHLİLAT YAPILAN VE MASLİ TEAMÜLLER ARANILAN UMUMA MAHSUS BAKTERİYOLOJİ VE KİMYA LABORATUVARLARI KANUNU",
+  "rg_tarih": "1927-03-30",
+  "rg_sayi": "580"
+ },
+ "oz-celtik-ekimi-kanunu-1936-06-23": {
+  "no": "3039",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "ÇELTİK EKİMİ KANUNU",
+  "rg_tarih": "1936-06-23",
+  "rg_sayi": "3337"
+ },
+ "oz-yalova-kaplicalarinin-isletilmesi-ve-kaplicalarin-inkisafi-islerinin-sihhat-ve-i-1939-07-04": {
+  "no": "3653",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "YALOVA TERMAL KAPLICALARININ İDARESİ VE İŞLETİLMESİ HAKKINDA KANUN",
+  "rg_tarih": "1939-07-04",
+  "rg_sayi": "4249"
+ },
+ "oz-kimyagerlik-ve-kimya-muhendisligi-hakkinda-kanun-1954-02-20": {
+  "no": "6269",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "KİMYAGERLİK VE KİMYA MÜHENDİSLİĞİ HAKKINDA KANUN",
+  "rg_tarih": "1954-02-20",
+  "rg_sayi": "8639"
+ },
+ "oz-veteriner-hekimligi-mesleginin-icrasina-turk-veteriner-hekimleri-birligi-ile-oda-1954-03-18": {
+  "no": "6343",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "VETERİNER HEKİMLİĞİ MESLEĞİNİN İCRASINA, TÜRK VETERİNER HEKİMLERİ BİRLİĞİ İLE ODALARININ TEŞEKKÜL TARZINA VE GÖRECEĞİ İŞLERE DAİR KANUN",
+  "rg_tarih": "1954-03-18",
+  "rg_sayi": "8661"
+ },
+ "oz-umumi-hayata-muessir-afetler-dolay-isiyle-alinacak-tedbirlerle-yapilacak-yardiml-1959-05-25": {
+  "no": "7269",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "UMUMİ HAYATA MÜESSİR AFETLER DOLAYISİYLE ALINACAK TEDBİRLERLE YAPILACAK YARDIMLARA DAİR KANUN",
+  "rg_tarih": "1959-05-25",
+  "rg_sayi": "10213"
+ },
+ "oz-koy-icme-sulari-hakkinda-kanun-1960-05-16": {
+  "no": "7478",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "KÖY İÇME SULARI HAKKINDA KANUN",
+  "rg_tarih": "1960-05-16",
+  "rg_sayi": "10506"
+ },
+ "oz-yeralti-sulari-hakkinda-kanun-1960-12-23": {
+  "no": "167",
+  "tur": 1,
+  "tertip": "4",
+  "ad": "YERALTI SULARI HAKKINDA KANUN",
+  "rg_tarih": "1960-12-23",
+  "rg_sayi": "10688"
+ },
+ "oz-saglik-ve-sosyal-yardim-bakanligina-bagli-saglik-kurumlan-ile-esenlendirme-rehab-1961-01-09": {
+  "no": "209",
+  "tur": 1,
+  "tertip": "4",
+  "ad": "SAĞLIK BAKANLIĞINA BAĞLI SAĞLIK KURUMLARI İLE ESENLENDİRME (REHABİLİTASYON) TESİSLERİNE VERİLECEK DÖNER SERMAYE HAKKINDA KANUN",
+  "rg_tarih": "1961-01-09",
+  "rg_sayi": "10702"
+ },
+ "oz-belediye-teskilati-olan-yerlesim-yerlerine-icme-kullanma-ve-endustri-suyu-temini-1968-07-16": {
+  "no": "1053",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "BELEDİYE TEŞKİLÂTI OLAN YERLEŞİM YERLERİNE  İÇME, KULLANMA VE ENDÜSTRİ SUYU TEMİNİ HAKKINDA KANUN",
+  "rg_tarih": "1968-07-16",
+  "rg_sayi": "12951"
+ },
+ "oz-gemi-saglik-resmi-kanunu-1981-11-10": {
+  "no": "2548",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "GEMİ SAĞLIK RESMİ KANUNU",
+  "rg_tarih": "1981-11-10",
+  "rg_sayi": "17510"
+ },
+ "oz-adli-tip-kurumu-kanunu-1982-04-20": {
+  "no": "2659",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "ADLİ TIP KURUMU İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "rg_tarih": "1982-04-20",
+  "rg_sayi": "17670"
+ },
+ "oz-turkiye-atom-enerjisi-kurumu-kanunu-1982-07-13": {
+  "no": "2690",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU İLE İLGİLİ BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN",
+  "rg_tarih": "1982-07-13",
+  "rg_sayi": "17753"
+ },
+ "oz-sosyal-hizmetler-kanunu-1983-05-27": {
+  "no": "2828",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "SOSYAL HİZMETLER KANUNU",
+  "rg_tarih": "1983-05-27",
+  "rg_sayi": "18059"
+ },
+ "oz-cevre-kanunu-1983-08-11": {
+  "no": "2872",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "ÇEVRE KANUNU",
+  "rg_tarih": "1983-08-11",
+  "rg_sayi": "18132"
+ },
+ "oz-uyusturucu-maddelerle-ilgili-kanun-1986-06-19": {
+  "no": "3298",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "UYUŞTURUCU MADDELERLE İLGİLİ KANUN",
+  "rg_tarih": "1986-06-19",
+  "rg_sayi": "19139"
+ },
+ "oz-ozel-cevre-koruma-kurumu-baskanligi-kurulmasina-dair-kanun-hukmunde-kararname-1989-11-13": {
+  "no": "383",
+  "tur": 4,
+  "tertip": "5",
+  "ad": "ÖZEL ÇEVRE KORUMA KURUMU BAŞKANLIĞI KURULMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+  "rg_tarih": "1989-11-13",
+  "rg_sayi": "20341"
+ },
+ "oz-mezarliklarin-korunmasi-hakkinda-kanun-1994-06-13": {
+  "no": "3998",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "MEZARLIKLARIN KORUNMASI HAKKINDA KANUN",
+  "rg_tarih": "1994-06-13",
+  "rg_sayi": "21959"
+ },
+ "oz-buyuksehir-belediyesi-kanunu-2004-07-23": {
+  "no": "5216",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "BÜYÜKŞEHİR BELEDİYESİ KANUNU",
+  "rg_tarih": "2004-07-23",
+  "rg_sayi": "25531"
+ },
+ "oz-turk-ceza-kanunu-2004-10-12": {
+  "no": "5237",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "TÜRK CEZA KANUNU",
+  "rg_tarih": "2004-10-12",
+  "rg_sayi": "25611"
+ },
+ "oz-ceza-muhakemesi-kanunu-2004-12-17": {
+  "no": "5271",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "CEZA MUHAKEMESİ KANUNU",
+  "rg_tarih": "2004-12-17",
+  "rg_sayi": "25673"
+ },
+ "oz-bazi-kamu-kurum-ve-kuruluslarina-ait-saglik-birimlerinin-saglik-bakanligina-devr-2005-01-19": {
+  "no": "5283",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "BAZI KAMU KURUM VE KURULUŞLARINA AİT SAĞLIK BİRİMLERİNİN SAĞLIK BAKANLIĞINA DEVREDİLMESİNE DAİR KANUN",
+  "rg_tarih": "2005-01-19",
+  "rg_sayi": "25705 (Mükerrer)"
+ },
+ "oz-belediye-kanunu-2005-07-13": {
+  "no": "5393",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "BELEDİYE KANUNU",
+  "rg_tarih": "2005-07-13",
+  "rg_sayi": "25874"
+ },
+ "oz-sular-kanununun-uygulanisini-gosteren-tuzuk-1928-08-29": {
+  "no": "7044",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "SULAR KANUNUNUN UYGULANIŞINI GÖSTEREN TÜZÜK",
+  "rg_tarih": "1928-08-29",
+  "rg_sayi": "976"
+ },
+ "oz-evlenme-muayenesi-hakkinda-nizamname-1931-09-21": {
+  "no": "11682",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "EVLENME MUAYENESİ HAKKINDA NİZAMNAME",
+  "rg_tarih": "1931-09-21",
+  "rg_sayi": "1904"
+ },
+ "oz-polis-vazife-ve-salahiyet-nizamnamesi-1938-04-25": {
+  "no": "28501",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "POLİS VAZİFE VE SALÂHİYET NİZAMNAMESİ",
+  "rg_tarih": "1938-04-25",
+  "rg_sayi": "3890"
+ },
+ "oz-vazife-malulluklerini-belirten-usul-ve-belgeler-hakkinda-tuzuk-1951-11-08": {
+  "no": "313653",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "VAZİFE MALULLÜKLERİNİ BELİRTEN USUL VE BELGELER HAKKINDA TÜZÜK",
+  "rg_tarih": "1951-11-08",
+  "rg_sayi": "7951"
+ },
+ "oz-vazife-malulluklerinin-nevileri-ile-dereceleri-hakkinda-nizamname-1953-08-15": {
+  "no": "41053",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "VAZİFE MALULLÜKLERİNİN NEVİLERİ İLE DERECELERİ HAKKINDA NİZAMNAME",
+  "rg_tarih": "1953-08-15",
+  "rg_sayi": "8485"
+ },
+ "oz-zirai-mucadele-ilac-ve-aletleri-hakkinda-nizamname-1959-02-04": {
+  "no": "411142",
+  "tur": 2,
+  "tertip": "3",
+  "ad": "ZİRAİ MÜCADELE İLAÇ VE ALETLERİ HAKKINDA NİZAMNAME",
+  "rg_tarih": "1959-02-04",
+  "rg_sayi": "10126"
+ },
+ "oz-genel-kadinlar-ve-genelevlerin-tabi-olacaklari-hukumler-ve-fuhus-yuzunden-bulasa-1961-04-19": {
+  "no": "5984",
+  "tur": 2,
+  "tertip": "4",
+  "ad": "GENEL KADINLAR VE GENELEVLERİN TABİ OLACAKLARI HÜKÜMLER VE FUHUŞ YÜZÜNDEN BULAŞAN ZÜHREVİ HASTALIKLARLA MÜCADELE TÜZÜĞÜ",
+  "rg_tarih": "1961-04-19",
+  "rg_sayi": "10786"
+ },
+ "oz-yeralti-sulari-tuzugu-1961-08-08": {
+  "no": "51465",
+  "tur": 2,
+  "tertip": "4",
+  "ad": "YERALTI SULARI TÜZÜĞÜ",
+  "rg_tarih": "1961-08-08",
+  "rg_sayi": "10875"
+ },
+ "oz-turk-standartlarinin-uygulanmasi-hakkinda-tuzuk-1967-02-22": {
+  "no": "67677",
+  "tur": 2,
+  "tertip": "5",
+  "ad": "TÜRK STANDARTLARININ UYGULANMASI HAKKINDA TÜZÜK",
+  "rg_tarih": "1967-02-22",
+  "rg_sayi": "12534"
+ },
+ "oz-lagim-mecrasi-insaasi-mumkun-olmayan-yerlerde-yapilacak-cukurlara-ait-yonetmelik-1971-03-19": {
+  "no": "40464",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "LÂĞIM MECRASI İNŞAASI MÜMKÜN OLMAYAN YERLERDE YAPILACAK ÇUKURLARA AİT YÖNETMELİK",
+  "rg_tarih": "1971-03-09",
+  "rg_sayi": "13783"
+ },
+ "oz-nufus-planlamasi-hizmetlerini-yurutecek-personelin-egitimi-gorev-yetki-ve-soruml-1983-09-10": {
+  "no": "4933",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "NÜFUS PLANLAMASI HİZMETLERİNİ YÜRÜTECEK PERSONELİN EĞİTİMİ, GÖREV, YETKİ VE SORUMLULUKLARI \r\nHAKKINDA YÖNETMELİK",
+  "rg_tarih": "1983-09-10",
+  "rg_sayi": "18161"
+ },
+ "oz-hayvan-sagligi-ve-zabitasi-yonetmeligi-1989-03-15": {
+  "no": "8913838",
+  "tur": 3,
+  "tertip": "5",
+  "ad": "HAYVAN SAĞLIĞI VE ZABITASI YÖNETMELİĞİ",
+  "rg_tarih": "1989-03-15",
+  "rg_sayi": "20109"
+ },
+ "oz-turk-silahli-kuvvetlerince-yetistirilen-sihhiye-sinifina-mensup-erbas-ve-erlerin-1994-10-11": {
+  "no": "946047",
+  "tur": 3,
+  "tertip": "5",
+  "ad": "TÜRK SİLAHLI KUVVETLERİNCE YETİŞTİRİLEN SIHHİYE SINIFINA MENSUP ERBAŞ VE ERLERİN BAZI KÜÇÜK SIHHİ İŞLEMLERİ YAPABİLMESİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "1994-10-11",
+  "rg_sayi": "22078"
+ },
+ "oz-radyasyon-guvenligi-yonetmeligi-2000-03-24": {
+  "no": "5272",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "RADYASYON GÜVENLİĞİ YÖNETMELİĞİ",
+  "rg_tarih": "2000-03-24",
+  "rg_sayi": "23999"
+ },
+ "oz-halkin-saglik-egitimi-yonetmeligi-2000-08-06": {
+  "no": "9352",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HALKIN SAĞLIK EĞİTİMİ YÖNETMELİĞİ",
+  "rg_tarih": "2000-08-06",
+  "rg_sayi": "24132"
+ },
+ "oz-hiperbarik-oksijen-tedavisi-uygulanan-ozel-saglik-kuruluslari-hakkinda-yonetmeli-2001-08-01": {
+  "no": "4809",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HİPERBARİK OKSİJEN TEDAVİSİ UYGULANAN ÖZEL SAĞLIK KURULUŞLARI \r\nHAKKINDA YÖNETMELİK",
+  "rg_tarih": "2001-08-01",
+  "rg_sayi": "24480"
+ },
+ "oz-asbestle-calismalarda-saglik-ve-guvenlik-onlemleri-hakkinda-yonetmelik-2003-12-26": {
+  "no": "17050",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ASBESTLE ÇALIŞMALARDA SAĞLIK VE GÜVENLİK ÖNLEMLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2013-01-25",
+  "rg_sayi": "28539"
+ },
+ "oz-biyolojik-etkenlere-maruziyet-risklerinin-onlenmesi-hakkinda-yonetmelik-2004-06-10": {
+  "no": "18485",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "BİYOLOJİK ETKENLERE MARUZİYET RİSKLERİNİN ÖNLENMESİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2013-06-15",
+  "rg_sayi": "28678"
+ },
+ "oz-adli-tip-kurumu-kanunu-uygulama-yonetmeligi-2004-07-31": {
+  "no": "7076",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ADLÎ TIP KURUMU KANUNU UYGULAMA YÖNETMELİĞİ",
+  "rg_tarih": "2004-07-31",
+  "rg_sayi": "25539"
+ },
+ "oz-dis-protezciligi-dalinda-kalfalik-belgesi-sahiplerine-dis-protez-teknisyenligi-m-2004-12-16": {
+  "no": "7211",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "DİŞ PROTEZCİLİĞİ DALINDA KALFALIK BELGESİ SAHİPLERİNE DİŞ PROTEZ \r\nTEKNİSYENLİĞİ MESLEK BELGESİ VERİLMESİ \r\nHAKKINDA YÖNETMELİK",
+  "rg_tarih": "2004-12-16",
+  "rg_sayi": "25672"
+ },
+ "oz-beseri-tibbi-urunlerin-siniflandirilmasina-dair-yonetmelik-2005-02-17": {
+  "no": "7514",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "BEŞERİ TIBBİ ÜRÜNLERİN SINIFLANDIRILMASINA DAİR YÖNETMELİK",
+  "rg_tarih": "2005-02-17",
+  "rg_sayi": "25730"
+ },
+ "oz-evde-bakim-hizmetleri-sunumu-hakkinda-yonetmelik-2005-03-10": {
+  "no": "7542",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "EVDE BAKIM HİZMETLERİ SUNUMU \r\nHAKKINDA YÖNETMELİK",
+  "rg_tarih": "2005-03-10",
+  "rg_sayi": "25751"
+ },
+ "oz-ceza-muhakemesinde-beden-muayenesi-genetik-incelemeler-ve-fizik-kimligin-tespiti-2005-06-01": {
+  "no": "8202",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "CEZA MUHAKEMESİNDE BEDEN MUAYENESİ, GENETİK İNCELEMELER VE FİZİK KİMLİĞİN TESPİTİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2005-06-01",
+  "rg_sayi": "25832"
+ },
+ "oz-isyeri-acma-ve-calisma-ruhsatlarina-iliskin-yonetmelik-2005-08-10": {
+  "no": "20059207",
+  "tur": 21,
+  "tertip": "5",
+  "ad": "İŞYERİ AÇMA VE ÇALIŞMA RUHSATLARINA İLİŞKİN YÖNETMELİK",
+  "rg_tarih": "2005-08-10",
+  "rg_sayi": "25902"
+ },
+ "oz-yatakli-tedavi-kurumlari-enfeksiyon-kontrol-yonetmeligi-2005-08-11": {
+  "no": "42778",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "YATAKLI TEDAVİ KURUMLARI ENFEKSİYON KONTROL YÖNETMELİĞİ",
+  "rg_tarih": "2025-12-18",
+  "rg_sayi": "33111"
+ },
+ "oz-dis-protez-laboratuvarlari-yonetmeligi-2005-12-07": {
+  "no": "9650",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "DİŞ PROTEZ LABORATUVARLARI YÖNETMELİĞİ",
+  "rg_tarih": "2005-12-07",
+  "rg_sayi": "26016"
+ },
+ "oz-hayvan-deneyleri-etik-kurullarinin-calisma-usul-ve-esaslarina-dair-yonetmelik-2006-07-06": {
+  "no": "19404",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HAYVAN DENEYLERİ ETİK KURULLARININ ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "rg_tarih": "2014-02-15",
+  "rg_sayi": "28914"
+ },
+ "oz-saglik-bakanliginca-yapilacak-piyasa-gozetimi-ve-denetiminin-usul-ve-esaslari-ha-2007-06-25": {
+  "no": "11399",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞINCA YAPILACAK PİYASA GÖZETİMİ VE DENETİMİNİN USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2007-06-25",
+  "rg_sayi": "26563"
+ },
+ "oz-havaalani-saglik-denetleme-merkezleri-yonetmeligi-2008-02-17": {
+  "no": "11972",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HAVAALANI SAĞLIK DENETLEME MERKEZLERİ YÖNETMELİĞİ",
+  "rg_tarih": "2008-02-17",
+  "rg_sayi": "26790"
+ },
+ "oz-hava-kalitesi-degerlendirme-ve-yonetimi-yonetmeligi-2008-06-06": {
+  "no": "12188",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HAVA KALİTESİ DEĞERLENDİRME VE YÖNETİMİ YÖNETMELİĞİ",
+  "rg_tarih": "2008-06-06",
+  "rg_sayi": "26898"
+ },
+ "oz-kan-ve-kan-urunleri-yonetmeligi-2008-12-04": {
+  "no": "12632",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "KAN VE KAN ÜRÜNLERİ YÖNETMELİĞİ",
+  "rg_tarih": "2008-12-04",
+  "rg_sayi": "27074"
+ },
+ "oz-saglik-hizmeti-sunan-4734-sayili-kamu-ihale-kanunu-kapsamindaki-idarelerin-teshi-2009-02-07": {
+  "no": "12851",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK HİZMETİ SUNAN 4734 SAYILI KAMU İHALE KANUNU KAPSAMINDAKİ İDARELERİN TEŞHİS VE TEDAVİYE YÖNELİK OLARAK BİRBİRLERİNDEN YAPACAKLARI MAL VE HİZMET ALIMLARINA İLİŞKİN YÖNETMELİK",
+  "rg_tarih": "2009-02-07",
+  "rg_sayi": "27134"
+ },
+ "oz-sahil-saglik-denetleme-merkezleri-yonetmeligi-2009-06-10": {
+  "no": "13104",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAHİL SAĞLIK DENETLEME MERKEZLERİ YÖNETMELİĞİ",
+  "rg_tarih": "2009-06-10",
+  "rg_sayi": "27254"
+ },
+ "oz-2022-sayili-kanun-kapsaminda-aylik-alan-ozurlulere-saglik-kurulu-raporu-vermeye--2009-07-03": {
+  "no": "13185",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "2022 SAYILI KANUN KAPSAMINDA AYLIK ALAN ÖZÜRLÜLERE SAĞLIK KURULU RAPORU VERMEYE YETKİLİ HASTANELERİN BELİRLENMESİ İLE SAĞLIK RAPORLARININ ALINMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2009-07-03",
+  "rg_sayi": "27277"
+ },
+ "oz-mezarlik-yerlerinin-insaasi-ile-cenaze-nakil-ve-defin-islemleri-hakkinda-yonetme-2010-01-19": {
+  "no": "13730",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "MEZARLIK YERLERİNİN İNŞAASI İLE CENAZE NAKİL VE DEFİN İŞLEMLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2010-01-19",
+  "rg_sayi": "27467"
+ },
+ "oz-hemsirelik-yonetmeligi-2010-03-08": {
+  "no": "13830",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HEMŞİRELİK YÖNETMELİĞİ",
+  "rg_tarih": "2010-03-08",
+  "rg_sayi": "27515"
+ },
+ "oz-ucucu-maddelerin-zararlarindan-insan-sagliginin-korunmasi-hakkinda-yonetmelik-2010-08-05": {
+  "no": "14180",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "UÇUCU MADDELERİN ZARARLARINDAN İNSAN SAĞLIĞININ KORUNMASI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2010-08-05",
+  "rg_sayi": "27663"
+ },
+ "oz-enfeksiyoz-madde-ile-enfeksiyoz-tani-ve-klinik-ornegi-tasima-yonetmeligi-2010-09-25": {
+  "no": "14314",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ENFEKSİYÖZ MADDE İLE ENFEKSİYÖZ TANI VE KLİNİK ÖRNEĞİ TAŞIMA YÖNETMELİĞİ",
+  "rg_tarih": "2010-09-25",
+  "rg_sayi": "27710"
+ },
+ "oz-tibbi-cihaz-yonetmeligi-2011-06-07": {
+  "no": "38657",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TIBBİ CİHAZ YÖNETMELİĞİ",
+  "rg_tarih": "2021-06-02",
+  "rg_sayi": "31499 Mükerrer"
+ },
+ "oz-trafik-kazalari-nedeniyle-ilgililere-sunulan-saglik-hizmet-bedellerinin-tahsilin-2011-08-27": {
+  "no": "15259",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TRAFİK KAZALARI NEDENİYLE İLGİLİLERE SUNULAN SAĞLIK HİZMET BEDELLERİNİN TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2011-08-27",
+  "rg_sayi": "28038"
+ },
+ "oz-hudut-kapilarinda-uygulanacak-saglik-islemleri-hakkinda-yonetmelik-2011-09-17": {
+  "no": "15307",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HUDUT KAPILARINDA UYGULANACAK SAĞLIK İŞLEMLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2011-09-17",
+  "rg_sayi": "28057"
+ },
+ "oz-ismarlama-protez-ve-ortez-merkezleri-ile-isitme-cihazi-merkezleri-hakkinda-yonet-2011-09-24": {
+  "no": "15333",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİ İLE İŞİTME CİHAZI MERKEZLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2011-09-24",
+  "rg_sayi": "28064"
+ },
+ "oz-devlet-memurlarina-verilecek-hastalik-raporlari-ile-hastalik-ve-refakat-iznine-i-2011-10-29": {
+  "no": "20112226",
+  "tur": 3,
+  "tertip": "5",
+  "ad": "DEVLET MEMURLARINA VERİLECEK HASTALIK RAPORLARI iLE HASTALIK VE REFAKAT İZNİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2011-10-29",
+  "rg_sayi": "28099"
+ },
+ "oz-tutun-bagimliligi-tedavi-ve-egitim-birimleri-hakkinda-yonetmelik-2011-11-23": {
+  "no": "15510",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TÜTÜN BAĞIMLILIĞI TEDAVİ VE EĞİTİM BİRİMLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2011-11-23",
+  "rg_sayi": "28121"
+ },
+ "oz-hayvansal-gidalar-icin-ozel-hijyen-kurallari-yonetmeligi": {
+  "no": "15664",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HAYVANSAL GIDALAR İÇİN ÖZEL HİJYEN KURALLARI YÖNETMELİĞİ",
+  "rg_tarih": "2011-12-27",
+  "rg_sayi": "28155"
+ },
+ "oz-yabanci-saglik-meslek-mensuplarinin-turkiye-de-ozel-saglik-kuruluslarinda-calism-2012-02-22": {
+  "no": "15909",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "YABANCI SAĞLIK MESLEK MENSUPLARININ TÜRKİYE’DE ÖZEL SAĞLIK KURULUŞLARINDA ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "rg_tarih": "2012-02-22",
+  "rg_sayi": "28212"
+ },
+ "oz-saglik-bakanligi-personeline-karsi-islenen-suclar-nedeniyle-yapilacak-hukuki-yar-2012-04-28": {
+  "no": "16104",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞI PERSONELİNE KARŞI İŞLENEN SUÇLAR NEDENİYLE YAPILACAK HUKUKİ YARDIMIN USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2012-04-28",
+  "rg_sayi": "28277"
+ },
+ "oz-saglik-meslekleri-kurulu-yonetmeligi-2012-02-14": {
+  "no": "16842",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK MESLEKLERİ KURULU YÖNETMELİĞİ",
+  "rg_tarih": "2012-12-14",
+  "rg_sayi": "28497"
+ },
+ "oz-is-ekipmanlarinin-kullaniminda-saglik-ve-guvenlik-sartlari-yonetmeligi-2013-04-25": {
+  "no": "18318",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "İŞ EKİPMANLARININ KULLANIMINDA SAĞLIK VE GÜVENLİK ŞARTLARI YÖNETMELİĞİ",
+  "rg_tarih": "2013-04-25",
+  "rg_sayi": "28628"
+ },
+ "oz-turk-gida-kodeksi-gida-katki-maddeleri-yonetmeligi-2013-06-30": {
+  "no": "40365",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TÜRK GIDA KODEKSİ GIDA KATKI MADDELERİ YÖNETMELİĞİ",
+  "rg_tarih": "2023-10-13",
+  "rg_sayi": "32338 (Mükerrer)"
+ },
+ "oz-hijyen-egitimi-yonetmeligi-2013-07-05": {
+  "no": "18552",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "HİJYEN EĞİTİMİ YÖNETMELİĞİ",
+  "rg_tarih": "2013-07-05",
+  "rg_sayi": "28698"
+ },
+ "oz-calisanlarin-titresimle-ilgili-risklerden-korunmalarina-dair-yonetmelik-2013-08-22": {
+  "no": "18759",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ÇALIŞANLARIN TİTREŞİMLE İLGİLİ RİSKLERDEN KORUNMALARINA DAİR YÖNETMELİK",
+  "rg_tarih": "2013-08-22",
+  "rg_sayi": "28743"
+ },
+ "oz-gecici-veya-belirli-sureli-islerde-is-sagligi-ve-guvenligi-hakkinda-yonetmelik-2013-08-23": {
+  "no": "18763",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "GEÇİCİ VEYA BELİRLİ SÜRELİ İŞLERDE İŞ SAĞLIĞI VE GÜVENLİĞİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2013-08-23",
+  "rg_sayi": "28744"
+ },
+ "oz-ozel-saglik-sigortalari-yonetmeligi-2013-10-23": {
+  "no": "18962",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ÖZEL SAĞLIK SİGORTALARI YÖNETMELİĞİ",
+  "rg_tarih": "2013-10-23",
+  "rg_sayi": "28800"
+ },
+ "oz-uluslararasi-giris-noktalarinda-uygulanacak-cevre-sagligi-islemlerine-dair-yonet-2013-11-03": {
+  "no": "18986",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ULUSLARARASI GİRİŞ NOKTALARINDA UYGULANACAK ÇEVRE SAĞLIĞI İŞLEMLERİNE DAİR YÖNETMELİK",
+  "rg_tarih": "2013-11-03",
+  "rg_sayi": "28810"
+ },
+ "oz-tozla-mucadele-yonetmeligi-2013-11-05": {
+  "no": "18989",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TOZLA MÜCADELE YÖNETMELİĞİ",
+  "rg_tarih": "2013-11-05",
+  "rg_sayi": "28812"
+ },
+ "oz-saglik-bakanligi-sertifikali-egitim-yonetmeligi-2014-02-04": {
+  "no": "19376",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞI SERTİFİKALI EĞİTİM YÖNETMELİĞİ",
+  "rg_tarih": "2014-02-04",
+  "rg_sayi": "28903"
+ },
+ "oz-112-acil-cagri-merkezleri-kurulus-gorev-ve-calisma-yonetmeligi-2014-05-16": {
+  "no": "19670",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "112 ACİL ÇAĞRI MERKEZLERİ KURULUŞ, GÖREV VE ÇALIŞMA YÖNETMELİĞİ",
+  "rg_tarih": "2014-05-16",
+  "rg_sayi": "29002"
+ },
+ "oz-cevresel-etki-degerlendirmesi-yonetmeligi-2014-11-25": {
+  "no": "39647",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ÇEVRESEL ETKİ DEĞERLENDİRMESİ YÖNETMELİĞİ",
+  "rg_tarih": "2022-07-29",
+  "rg_sayi": "31907"
+ },
+ "oz-turk-tabipleri-birligi-tabela-yonetmeligi-2015-02-14": {
+  "no": "20534",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "TÜRK TABİPLERİ BİRLİĞİ TABELA YÖNETMELİĞİ",
+  "rg_tarih": "2015-02-14",
+  "rg_sayi": "29267"
+ },
+ "oz-atik-yonetimi-yonetmeligi-2015-04-02": {
+  "no": "20644",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ATIK YÖNETİMİ YÖNETMELİĞİ",
+  "rg_tarih": "2015-04-02",
+  "rg_sayi": "29314"
+ },
+ "oz-saglikta-kalitenin-gelistirilmesi-ve-degerlendirilmesine-dair-yonetmelik-2015-06-27": {
+  "no": "20859",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIKTA KALİTENİN GELİŞTİRİLMESİ VE DEĞERLENDİRİLMESİNE DAİR YÖNETMELİK",
+  "rg_tarih": "2015-06-27",
+  "rg_sayi": "29399"
+ },
+ "oz-beseri-tibbi-urunlerin-tanitim-faaliyetleri-hakkinda-yonetmelik-2015-07-03": {
+  "no": "20880",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "BEŞERÎ TIBBİ ÜRÜNLERİN TANITIM FAALİYETLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2015-07-03",
+  "rg_sayi": "29405"
+ },
+ "oz-kozmetik-urun-veya-hammaddelerinin-etkinlik-ve-guvenlilik-calismalari-ile-klinik-2015-09-20": {
+  "no": "21159",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "KOZMETİK ÜRÜN VEYA HAMMADDELERİNİN ETKİNLİK VE GÜVENLİLİK ÇALIŞMALARI İLE KLİNİK ARAŞTIRMALARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2015-09-20",
+  "rg_sayi": "29481"
+ },
+ "oz-beseri-tibbi-urunlerin-ambalaj-bilgileri-kullanma-talimati-ve-takibi-yonetmeligi-2017-04-25": {
+  "no": "23536",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "BEŞERİ TIBBİ ÜRÜNLERİN AMBALAJ BİLGİLERİ, KULLANMA TALİMATI VE TAKİBİ YÖNETMELİĞİ",
+  "rg_tarih": "2017-04-25",
+  "rg_sayi": "30048"
+ },
+ "oz-saglik-bakanligi-bagli-kuruluslari-hizmet-birimlerinin-gorevleri-ile-calisma-usu-2017-12-22": {
+  "no": "24204",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞI BAĞLI KURULUŞLARI HİZMET BİRİMLERİNİN\r\nGÖREVLERİ İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2017-12-22",
+  "rg_sayi": "30278"
+ },
+ "oz-biyosidal-urunlerin-kullanim-usul-ve-esaslari-hakkinda-yonetmelik-2019-07-04": {
+  "no": "32642",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "BİYOSİDAL ÜRÜNLERİN KULLANIM USUL VE ESASLARI\r\nHAKKINDA YÖNETMELİK",
+  "rg_tarih": "2019-07-04",
+  "rg_sayi": "30821"
+ },
+ "oz-yanik-tedavi-birimleri-hakkinda-yonetmelik-2019-10-08": {
+  "no": "33852",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "YANIK TEDAVİ BİRİMLERİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2019-10-08",
+  "rg_sayi": "30912"
+ },
+ "oz-gida-kontrol-laboratuvarlari-yonetmeligi-2022-02-18": {
+  "no": "39375",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "GIDA KONTROL LABORATUVARLARI YÖNETMELİĞİ",
+  "rg_tarih": "2022-02-18",
+  "rg_sayi": "31754"
+ },
+ "oz-ambulanslar-ve-acil-saglik-araclari-ile-ambulans-hizmetleri-yonetmeligi-2025-01-08": {
+  "no": "41246",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "AMBULANSLAR VE ACİL SAĞLIK ARAÇLARI İLE AMBULANS HİZMETLERİ YÖNETMELİĞİ",
+  "rg_tarih": "2025-01-08",
+  "rg_sayi": "32776"
+ },
+ "oz-saglik-hizmetlerinin-sosyallestirildigi-bolgelerde-hizmetin-yurutulmesi-hakkinda-1964-09-09": {
+  "no": "63470",
+  "tur": 3,
+  "tertip": "5",
+  "ad": "SAĞLIK HİZMETLERİNİN SOSYALLEŞTİRİLDİĞİ BÖLGELERDE HİZMETİN YÜRÜTÜLMESİ HAKKINDA YÖNETMELİK",
+  "rg_tarih": "1964-09-09",
+  "rg_sayi": "11802"
+ },
+ "oz-mezuniyet-belgesine-sahip-olmadan-mesleklerini-icra-etmekte-olan-dis-teknisyenle-1989-12-20": {
+  "no": "11123",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "MEZUNİYET BELGESİNE SAHİP OLMADAN MESLEKLERİNİ İCRA ETMEKTE OLAN DİŞ TEKNİSYENLERİNE EHLİYET SINAVI İLE DİŞ PROTEZ TEKNİSYENİ UNVANI KAZANDIRILMASINA DAİR YÖNETMELİK",
+  "rg_tarih": "1989-12-20",
+  "rg_sayi": "20378"
+ },
+ "sbg-11338-peloidlerin-uretimi-ve-satisi-hakkinda-teblig": {
+  "no": "8215",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "PELOİDLERİN ÜRETİMİ VE SATIŞI HAKKINDA TEBLİĞ",
+  "rg_tarih": "2005-04-21",
+  "rg_sayi": "25793"
+ },
+ "sbg-11339-ambulans-ve-acil-bakim-teknikerleri-ile-acil-tip-teknisyenlerinin-cali": {
+  "no": "12941",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "AMBULANS VE ACİL BAKIM TEKNİKERLERİ İLE ACİL TIP TEKNİSYENLERİNİN ÇALIŞMA USUL VE ESASLARINA DAİR TEBLİĞ",
+  "rg_tarih": "2009-03-26",
+  "rg_sayi": "27181"
+ },
+ "sbg-10418-saglik-bakanligi-trafik-hizmetleri-doner-sermaye-isletme-yonetmeligi": {
+  "no": "4817",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SAĞLIK BAKANLIĞI TRAFİK HİZMETLERİ DÖNER SERMAYE İŞLETME YÖNETMELİĞİ",
+  "rg_tarih": "1999-10-02",
+  "rg_sayi": "23834"
+ },
+ "sbg-10452-uluslararasi-birimler-sistemine-dair-yonetmelik": {
+  "no": "6401",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "ULUSLARARASI BİRİMLER SİSTEMİNE DAİR YÖNETMELİK",
+  "rg_tarih": "2002-06-21",
+  "rg_sayi": "24792"
+ },
+ "sbg-10460-egitim-personelinin-nitelik-ve-secim-esaslari-hakkinda-yonetmelik": {
+  "no": "11110",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "EĞİTİM PERSONELİNİN NİTELİK VE SEÇİM ESASLARI HAKKINDA YÖNETMELİK",
+  "rg_tarih": "2003-08-28",
+  "rg_sayi": "25213"
+ },
+ "sbg-10466-surucu-davranislarini-gelistirme-egitimi-yonetmeligi": {
+  "no": "4804",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "SÜRÜCÜ DAVRANIŞLARINI GELİŞTİRME EĞİTİMİ YÖNETMELİĞİ",
+  "rg_tarih": "2004-09-14",
+  "rg_sayi": "25583"
+ },
+ "sbg-10518-yatakli-tedavi-kurumlari-isletme-yonetmeligi-son-degisiklerle-beraber": {
+  "no": "85319",
+  "tur": 3,
+  "tertip": "5",
+  "ad": "YATAKLI TEDAVİ KURUMLARI İŞLETME YÖNETMELİĞİ",
+  "rg_tarih": "1983-01-13",
+  "rg_sayi": "17927 (Mükerrer)"
+ },
+ "k-ilac-fiyatlarinin-belirlenmesine-dair-karar": {
+  "no": "20179901",
+  "tur": 3,
+  "tertip": "5",
+  "ad": "İlaç Fiyatlarının Belirlenmesine Dair Karar",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "k-yesil-kart-kanunu-odeme-gucu-olmayan-vatandaslarin-tedavi-giderlerinin-yesil-kart-verilerek-devlet-tarafindan-karsilanmasi-hakkinda-kanun": {
+  "no": "3816",
+  "tur": 1,
+  "tertip": "5",
+  "ad": "Yeşil Kart Kanunu (Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun)",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "k-tibbi-kotu-uygulamaya-iliskin-zorunlu-mali-sorumluluk-sigortasinda-kurum-katkisina-iliskin-tarife-ve-talimat": {
+  "no": "14175",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasında Kurum Katkısına İlişkin Tarife ve Talimat",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "k-tibbi-deontoloji-tuzugu": {
+  "no": "4944",
+  "tur": 2,
+  "tertip": "4",
+  "ad": "Tıbbi Deontoloji Tüzüğü",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "k-asi-ve-immun-serumlar-hakkinda-seri-serbest-birakma-yonetmeligi": {},
+ "k-kan-ve-kan-bilesenleri-yonetmeligi": {
+  "no": "12644",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "Kan ve Kan Bileşenleri Yönetmeliği",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "k-ruhsatli-beseri-tibbi-urunlerdeki-varyasyanlara-dair-yonetmelik": {},
+ "k-turk-eczacilar-birligi-disiplin-yonetmeligi": {},
+ "k-turkiye-ilac-ve-tibbi-cihaz-kurumu-teskilat-ve-gorevleri-hakkinda-yonetmelik": {
+  "no": "31825",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Teşkilat ve Görevleri Hakkında Yönetmelik",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "oz-biyoloji-ve-tibbin-uygulanmasi-bakimindan-insan-haklari-ve-insan-haysiyetinin-ko-2004-04-20": {},
+ "oz-sicak-ve-soguk-maden-sularinin-istismari-ile-kaplicalar-tesisati-hakkinda-kanun-1926-06-30": {},
+ "oz-cenaze-nakline-mahsus-beynelmilel-itilafnameye-iltihakimiz-hakkinda-kanun-1939-02-07": {},
+ "oz-cenazelerin-nakli-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-1975-05-04": {},
+ "oz-isyeri-acma-ve-calisma-ruhsatlarina-dair-kanun-hukmunde-kararnamenin-degistirile-1989-06-17": {},
+ "oz-mezarliklar-hakkinda-nizamname-1931-08-09": {},
+ "oz-hayvan-saglik-memurlari-mektebi-ve-bu-memurlarin-vazife-ve-salahiyetleri-hakkind-1941-05-28": {},
+ "oz-ispirtolu-ickilerin-vasiflariyla-bira-fabrika-ve-imalathanelerinin-kontrol-ve-mu-1956-04-27": {},
+ "oz-sivil-mudafaa-vekaletlerarasi-is-birligi-ve-karsilikli-yardim-nizamnamesi-1959-06-26": {},
+ "oz-parlayici-patlayici-tehlikeli-ve-zararli-maddelerle-calisilan-isyerlerinde-ve-is-1973-12-24": {},
+ "oz-yapi-islerinde-isci-sagligi-ve-is-guvenligi-tuzugu-1974-09-12": {},
+ "oz-is-teftisi-tuzugu-1979-08-28": {},
+ "oz-nukleer-tesislere-lisans-verilmesine-iliskin-tuzuk-1983-12-19": {},
+ "oz-maden-ve-tas-ocaklari-isletmelerinde-ve-tunel-yapiminda-alinacak-is-sagligi-ve-g-1984-10-22": {},
+ "oz-radyasyon-guvenligi-tuzugu-1985-09-07": {},
+ "oz-sanayi-ve-ziraatte-kullanilan-zehirli-maddelerin-ecza-ticarethanelerinde-sureti--1927-12-28": {},
+ "oz-yeniden-kurulacak-koylerde-nazara-alinmasi-gereken-genel-saglik-sartlari-hakkind": {},
+ "oz-11-06-1936-ve-3039-sayili-celtik-ekimi-kanunun-sureti-tatbikatina-dair-talimatna-1936-10-12": {},
+ "oz-ecza-dolaplari-talimatnamesi-1955-03-03": {},
+ "oz-sut-ve-sut-mamullerinin-istihsal-ve-satisina-mahsus-mahal-ve-levazim-ile-sut-ver-1956-04-30": {},
+ "oz-icme-ve-kullanma-sularinin-dezenfeksiyonuna-ait-yonetmelik-1967-05-16": {},
+ "oz-bulasici-ve-salgin-hastaliklar-ciktiginda-alinacak-tedbirlere-uyulmamasi-halinde": {},
+ "oz-gida-maddeleri-ile-temasta-bulunan-veya-bulunmak-uzere-imal-edilen-plastikler-ha-1980-06-12": {},
+ "oz-insan-cesedi-uzerinde-bilimsel-arastirma-yapilmasina-iliskin-yonetmelik-1982-06-17": {},
+ "oz-2313-sayili-uyusturucu-maddelerin-murakabesi-hakkinda-kanunun-uygulamasina-ilisk-1982-11-21": {},
+ "oz-ozel-ve-resmi-kombinalarin-kurulus-ve-isleyisini-gosterir-yonetmelik-1982-12-12": {},
+ "oz-ithal-edilecek-ilac-ham-baslangic-maddeleri-ispenciyari-ve-tibbi-mustahzarlar-yo-1984-11-01": {},
+ "oz-turk-silahli-kuvvetleri-saglik-yetenegi-yonetmeligi-1986-11-24": {},
+ "oz-hashasin-ekimi-kontrolu-toplanmasi-degerlendirilmesi-imhasi-satin-alinmasi-satil-1988-05-04": {},
+ "oz-zararli-kimyasal-madde-ve-urunlerin-kontrolu-yonetmeligi-1993-07-11": {},
+ "oz-saglik-bakanligi-tasra-teskilati-yatak-ve-kadro-standartlari-yonetmeligi-1994-10-26": {},
+ "oz-kamu-personeli-ve-bunlarin-emeklilerinin-yurt-disinda-tedavilerine-iliskin-yonet-1999-08-11": {},
+ "oz-kanser-kayit-merkezi-yonetmeligi-2000-12-14": {},
+ "oz-gozlukculuk-ruhsatnamesi-verilmesi-icin-gerceklestirilecek-kurs-ve-sinav-yonetme-2004-12-17": {},
+ "oz-cevresel-gurultunun-degerlendirilmesi-yonetmeligi-2010-06-04": {},
+ "oz-beseri-tibbi-urunlerin-imalathaneleri-hakkinda-yonetmelik-2013-04-27": {},
+ "oz-ilaclarin-guvenliligi-hakkinda-yonetmeligi-2014-04-15": {},
+ "oz-koy-saglik-memurlari-yonetmeligi-1946-04-02": {},
+ "oz-kaza-saglik-idareleri-ve-saglik-merkezleri-talimatnamesi-1955-07-07": {},
+ "oz-kaza-saglik-idareleri-ve-saglik-merkezleri-motorlu-tasit-talimatnamesi-1955-07-07": {},
+ "oz-vilayet-sihhat-mudur-ve-hukumet-tabipler-ile-belediye-saglik-isleri-mudur-ve-bel-1958-08-26": {},
+ "oz-7478-sayili-kanun-geregince-vilayetlere-birakilan-koy-icme-suyu-islerinin-yurutu-1963-01-12": {},
+ "oz-cevre-sagligi-memurlari-yonetmeligi-1965-08-14": {},
+ "oz-radyoloji-ve-tedavi-laboratuvari-teknisyeni-saglik-memurlarinin-gorev-ve-yetkile-1967-06-27": {},
+ "oz-laboratuvar-teknisyeni-saglik-memurlarinin-gorev-ve-yetkileri-hakkinda-yonetmeli-1967-06-27": {},
+ "oz-saglik-hizmetlerinin-sosyallestirildigi-bolgelerde-saglik-ocaklari-iase-yonetmel-1968-08-07": {},
+ "oz-sosyallestirilmis-saglik-hizmetlerinin-saglik-kurullari-yonetmeligi-1969-03-15": {},
+ "oz-saglik-savas-memurlarinin-nitelik-yetki-ve-sorumluluklarini-belirten-yonetmelik": {},
+ "oz-bazi-saglik-personeline-devlet-hizmeti-hukumlulugu-uygulamasi-esaslarina-dair-yo-1981-11-20": {},
+ "oz-saglik-hizmetlerinin-sosyallestirildigi-il-ve-bolgelerde-saglik-ocagi-ve-saglik--1982-05-29": {},
+ "oz-kamu-kurum-ve-kuruluslarina-ait-saglik-isletmelerinin-yonetimi-ile-calisma-usul--1995-01-11": {},
+ "sbg-10397-radyoloji-radiyom-ve-elektrikle-tedavi-ve-diger-fizyoterapi-muessesele": {
+  "no": "3153",
+  "tur": 1,
+  "tertip": "3",
+  "ad": "Radyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanun",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-10389-4703-sayili-urunlere-iliskin-teknik-mevzuatin-hazirlanmasi-ve-uygulanm": {},
+ "sbg-10359-tarihi-27-05-2004-sayisi-5179-r-g-tarihi-05-06-2004-r-g-sayisi-25483-g": {},
+ "sbg-10360-tarihi-24-03-2005-sayisi-5324-r-g-tarihi-24-03-2005-kozmetik-kanunu": {},
+ "sbg-11306-ayniyat-islemlerinde-uyulmasi-gereken-usul-ve-esaslar": {},
+ "sbg-11313-turk-gida-kodeksi-devam-formulleri": {
+  "no": "32639",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "Türk Gıda Kodeksi Devam Formülleri",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-11317-tibbi-cihaz-vucuda-yerlestirilebilir-aktif-tibbi-cihazlar-ve-vucut-dis": {},
+ "sbg-11319-madde-bagimliligi-merkezlerinde-gorev-yapacak-personelin-egitimine-ve": {
+  "no": "10281",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "Madde Bağımlılığı Merkezlerinde Görev Yapacak Personelin Eğitimine Ve Sertifikalandırılmasına Dair Tebliği",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-11320-diyaliz-sertifikalarinin-resertifikasyonu-hakkinda-teblig": {},
+ "sbg-11321-yatakli-saglik-tesislerinde-acil-servis-hizmetlerinin-uygulama-usul-ve": {
+  "no": "13494",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul Ve Esasları Hakkında Tebliğ",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-11330-kurum-tabipliklerinin-standardina-dair-teblig-ve-degisiklik-tebligi": {
+  "no": "6094",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "Kurum Tabipliklerinin Standardına Dair Tebliğ ve Değişiklik Tebliği",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-11331-evde-bakim-hizmetleri-sunumu-hakkinda-teblig": {
+  "no": "9424",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "Evde Bakım Hizmetleri Sunumu Hakkında Tebliğ",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-11336-kamu-kurum-ve-kuruluslarina-ait-yer-arac-bina-ve-tesislerde-tutun-urun": {
+  "no": "12161",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "Kamu Kurum Ve Kuruluşlarına Ait Yer, Araç, Bina Ve Tesislerde Tütün Ürünü Tüketenlere Verilecek İdari",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-11337-elastomer-ve-kaucuktan-yapilmis-olan-biberon-basligi-ve-emziklerde-n-n": {
+  "no": "18979",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "Elastomer ve Kauçuktan Yapılmış Olan Biberon Başlığı ve Emziklerde N- nitrosamin ve N- nitrosamine Dönüşebilen",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-11342-kuvetli-asit-veya-baz-iceren-temizlik-urunlerinin-uretimine-ithalatina": {
+  "no": "18983",
+  "tur": 9,
+  "tertip": "5",
+  "ad": "Kuvetli Asit veya Baz İçeren Temizlik Ürünlerinin Üretimine, İthalatına ve Bildirim Esaslarına Dair Tebliğ",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-10425-aday-memurlarin-yetistirilmesine-dair-genel-yonetmelik": {},
+ "sbg-10454-akupunktur-tedavisi-uygulanan-ozel-saglik-kuruluslari-ile-bu-tedavinin": {},
+ "sbg-10470-odeme-gucu-olmayan-vatandaslarin-tedavi-giderlerinin-devlet-tarafindan": {
+  "no": "4846",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Devlet Tarafından Karşılanması ve Yeşil Kart Uygulaması",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-10471-dis-protez-teknisyenligi-meslek-belgesi-verilmesi-hakkinda-yonetmelik": {
+  "no": "7211",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "Diş Protez Teknisyenliği Meslek Belgesi Verilmesi Hakkında Yönetmelik",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-10493-sozlesmeli-saglik-personeli-disiplin-kurullari-hakkinda-yonetmelik": {
+  "no": "11111",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "Sözleşmeli Sağlık Personeli Disiplin Kurulları Hakkında Yönetmelik",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-10501-kanser-erken-teshis-ve-tarama-merkezleri-yonetmeliginde-degisiklik-yap": {},
+ "sbg-10502-kanser-kayit-merkezi-yonetmeliginde-degisiklik-yapilmasina-dair-yonetm": {},
+ "sbg-10504-saglik-bakanligi-trafik-hizmetleri-doner-sermaye-isletmesi-yonetmeligi": {
+  "no": "4817",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "Sağlık Bakanlığı Trafik Hizmetleri Döner Sermaye İşletmesi Yönetmeliği",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-10511-ayakta-teshis-ve-tedavi-hizmeti-sunulan-ozel-saglik-kuruluslari-hakkin": {
+  "no": "42369",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "Ayakta Teşhis ve Tedavi Hizmeti Sunulan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-10520-insan-doku-ve-hucreleri-ile-bunlarla-ilgili-merkezlerin-kalite-ve-guve": {
+  "no": "14389",
+  "tur": 7,
+  "tertip": "5",
+  "ad": "İnsan Doku ve Hücreleri ile Bunlarla İlgili Merkezlerin Kalite ve Güvenliği Hakkında Yönetmelik",
+  "rg_tarih": "",
+  "rg_sayi": ""
+ },
+ "sbg-10521-mezarlik-yerlerinin-insasi-ile-cenaze-nakil-ve-defin-islemleri-hakkind": {},
+ "sbg-10525-ayakta-teshis-ve-tedavi-yapilan-ozel-saglik-kuruluslari-hakkinda-yonet": {}
+}

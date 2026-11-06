@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103805/saglik-bakanligi-teftis-kurulu-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## 10.2. YÖNERGELER
@@ -158,7 +159,7 @@ c) Eğitim esnasında etkili sunum ve aktarım tekniklerini, interaktif modern e
 
 Durumundadırlar.
 
-(2) Eğiticiler, kendilerine verilen eğitim programının katılımcılara aktanılması sırasında, programın belli bir düzen içinde yürütülmesini temin ederler.
+(2) Eğiticiler, kendilerine verilen eğitim programının katılımcılara aktarılması sırasında, programın belli bir düzen içinde yürütülmesini temin ederler.
 
 (3) Eğitimler, eğitim görevini aksatmamak şartıyla, eğiticilere üzerindeki mevcut işlerin eğitim görevi ile birlikte yürütülebilir.
 
@@ -170,7 +171,7 @@ Durumundadırlar.
 
 **Madde 15 –** (1) Muhakkiklik eğitimine katılanların Eğitim Komisyonunca belirlenen şartları taşımaları gereklidir.
 
-(2) Muhakkiklik eğitim programlarına katılması kararlaştırılan personel, eğitim faaliyetine katılmak zorunda olup, bağh oldukları birim amirleri, söz konusu personelin muhakkiklik eğitime katılımını sağlamakla yükümlüdür.
+(2) Muhakkiklik eğitim programlarına katılması kararlaştırılan personel, eğitim faaliyetine katılmak zorunda olup, bağlı oldukları birim amirleri, söz konusu personelin muhakkiklik eğitime katılımını sağlamakla yükümlüdür.
 
 (3) Kanuni mazeretleri olanlar dışında, eğitim faaliyetine katılmayanlar ve eğitim faaliyetlerini aksattıkları tutanaklarla tespit edilenler disiplin amirlerine bildirilir.
 
@@ -192,9 +193,9 @@ d) Eğitim merkezi veya eğitim yerinde belirlenen diğer kurallara uymak,
 
 (7) Eğitim esnasında; katılımcılar, eğitimi aksatacak, derslerin ve konuşmacının insicamını bozacak, diğer katılımcıları rahatsız edecek şekilde hareket edemezler.
 
-(8) Belirtilenen kurallara uymadıkları tespit edilenler hakkında gerekli işlemler kendi disiplin amirlerince yerine getirilir.
+(8) Belirtilen kurallara uymadıkları tespit edilenler hakkında gerekli işlemler kendi disiplin amirlerince yerine getirilir.
 
-(9) Izin süresi, Eğitim programının 1/3'ünü geçtiği takdirde, bu katılımcılara katılım belgesi verilmez. Eğitim Sorumlusu tarafindan uygun görüldüğü takdirde, daha sonraki emsal eğitimlerde, bu eksik eğitimler söz konusu katılımcılar tarafından tamamlanırsa, ilgili katılımcılara katılım belgesi verilebilir.
+(9) İzin süresi, Eğitim programının 1/3'ünü geçtiği takdirde, bu katılımcılara katılım belgesi verilmez. Eğitim Sorumlusu tarafindan uygun görüldüğü takdirde, daha sonraki emsal eğitimlerde, bu eksik eğitimler söz konusu katılımcılar tarafından tamamlanırsa, ilgili katılımcılara katılım belgesi verilebilir.
 
 ### Eğitim Sorumlusunun bilgisi ve
 

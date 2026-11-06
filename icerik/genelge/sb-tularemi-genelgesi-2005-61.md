@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 673-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.34. Tularemi Genelgesi (2005/61)
@@ -51,4 +52,5 @@ Müsteşar
 
 DAĞITIM:
 81 İl Valiliğine
+
 

@@ -11,9 +11,14 @@ ocr: true
 tarih: "2019-09-30"
 sayi: "1618"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.6. Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
+
+### Bakanlık Makamına sunuş yazısı (kitap s. 39)
+
+Kaynak yazının sayısı: 23642684. Yazı, 30/09/2019 tarihli evrak damgasını taşımaktadır; damgadaki saat 17.02, barkod numarası 0102524721'dir. Metinde, eski “Sağlık Raporlarına İlişkin Usul ve Esaslar”ın yürürlükten kaldırılarak bu Yönergenin yürürlüğe konulması arz edilmektedir. İmza/onay yerlerindeki gün ve ay boş bırakılmıştır (2019).
 
 ### SAĞLIK RAPORLARI USUL VE ESASLARI HAKKINDA YÖNERGE
 

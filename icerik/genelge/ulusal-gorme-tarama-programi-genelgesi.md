@@ -8,9 +8,11 @@ tur: "genelge"
 konu: "Bebek, okul öncesi ve okul çağı çocuklarda sık görülen görme kusurlarına yönelik Ulusal Görme Taraması Programı uygulama usul ve esasları."
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 459-460"
+kaynak_pdf_sayfa: "465-466"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -24,7 +26,7 @@ duzeltildi: true
 
 Ülkemizde çocukluk çağında sık görülen sağlık sorunlarının erken tanınması ve gerekli tedavilerinin sağlanabilmesi amacıyla çeşitli tarama programları yürütülmektedir. Yenidoğan, okul öncesi ve okul çağı çocuklarda sık görülen görme kusurlarına yönelik tarama programı da bu programlar arasına dâhil edilmiştir.
 
-Bu kapsamda Ulusal Görme Taraması programının yürütülmesi sırasında aşağıdaki hususlara riayet edilecektir:
+Bu kapsamda Ulusal Görme Taraması Programının yürütülmesi sırasında aşağıdaki hususlara riayet edilecektir:
 
 1) "Ulusal Görme Taraması Uygulama Rehberi" Halk Sağlığı Genel Müdürlüğümüzün web sayfasında güncel olarak yer almakta olup, program buradan takip edilecektir.
 

@@ -9,9 +9,35 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 327-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 3.2.4. İl Ambulans Servisi Çalışma Yönergesi
+
+T.C.
+SAĞLIK BAKANLIĞI
+Temel Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı : B100TSH0160001
+Konu : İl Ambulans Servisi Çalışma Yönergesi
+
+GENELGE 2005/7
+Sayı: 0872
+
+... VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
+
+Ülkemiz genelinde vatandaşlarımızın maruz kaldığı afet, acil sağlık, kaza ve yaralanma gibi durumlarda, en kısa sürede olay mahalline ulaşarak, yerinde ilk müdahaleyi yapmak, gerekiyorsa ihtiyacı olan sağlık hizmetini alabileceği bir sağlık kuruluşuna ulaştırılmasını sağlamak amacıyla Bakanlığımız bünyesinde halen 81 ilimizde birer komuta kontrol merkezi koordinasyonunda 889 acil sağlık hizmetleri istasyonu ile hizmet verilmektedir.
+
+Acil Sağlık Hizmetleri Başhekimliği ve ambulans hizmetlerinin hastaneler ile sağlık ocakları bünyesinde yürütülmesine dair usul ve esaslar 24.03.2004 tarih ve 25412 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren "Acil Sağlık Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik" ile belirlenmiştir.
+
+Bu doğrultuda İl ambulans servisi başhekimliği, komuta kontrol merkezi ve acil sağlık istasyonlarının çalışma usul ve esasları, bu istasyonların çalıştırılması ile ilgili kurum ve kuruluşların görev ve sorumluluklarına ilişkin idari hususlar, hazırlanan yönerge ile belirlenmiş bulunmaktadır.
+
+Bilgilerinizi ve bundan sonra ilgili tüm kurum ve kuruluşlarla yürütülecek hizmetlerin bu Yönerge hükümleri doğrultusunda yerine getirilmesi hususunda gereğini rica ederim.
+
+EKLER: Yönerge (25 Sayfa)
+
+DAĞITIM: 81 il Valiliğine
 
 ### İL AMBULANS SERVİSİ ÇALIŞMA YÖNERGESİ
 

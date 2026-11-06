@@ -8,9 +8,11 @@ tur: "genelge"
 konu: "Yenidoğan döneminde hemorajik hastalığın önlenmesi amacıyla K vitamini profilaksisi uygulanmasına ve ret süreçlerine ilişkin usul ve esaslar."
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 470-471"
+kaynak_pdf_sayfa: "476-477"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -30,7 +32,7 @@ Bu kapsamda yapılacak çalışmalarda aşağıdaki hususlara riayet edilecektir
 
 1) Tüm yenidoğanlara doğumun ardından doğum salonunda yapılacaktır.
 
-2) Yenidoğan proflaksisinde genel uygulama dozu 1 mg intramusküler (IM) şeklindedir. Bebek doğum ağırlığı 1500 gramın altında ise doz 0,5 mg IM olarak yapılacaktır.
+2) Yenidoğan profilaksisinde genel uygulama dozu 1 mg intramusküler (IM) şeklindedir. Bebek doğum ağırlığı 1500 gramın altında ise doz 0,5 mg IM olarak yapılacaktır.
 
 3) K vitamininin hazırlanması ve uygulanması sırasında yürürlükte bulunan hasta ve çalışan güvenliği ile ilgili mevzuatta belirtilen usul ve esaslara uyulacaktır.
 
@@ -44,7 +46,7 @@ Bu kapsamda yapılacak çalışmalarda aşağıdaki hususlara riayet edilecektir
 
 8) İl sağlık müdürlükleri sağlık kuruluşlarında sürekli K vitamini bulunma durumunu kontrol edecektir.
 
-9) Ailelerin uygulamayı reddetmesi durumunda öncelikle bilgilendirme yapılacak, ailenin kararını değiştirmemesi halinde ekte yer alan form doldurularak imza altına alınacak hasta dosyasında muhafaza edilecektir. Ayrıca formun bir kopyası aileye verilecek, bir kopyası da resmi yazı ile il sağlık müdürlüğüne iletilecektir.
+9) Ailelerin uygulamayı reddetmesi durumunda öncelikle bilgilendirme yapılacak, ailenin kararını değiştirmemesi halinde ekte yer alan form doldurularak imza altına alınarak hasta dosyasında muhafaza edilecektir. Ayrıca formun bir kopyası aileye verilecek, bir kopyası da resmi yazı ile il sağlık müdürlüğüne iletilecektir.
 
 10) Aile tarafından uygulamanın reddedildiği durumda bebekte sekel ya da ölüm tespit edilirse konu, il sağlık müdürlüğü tarafından adli makamlara intikal ettirilecektir.
 

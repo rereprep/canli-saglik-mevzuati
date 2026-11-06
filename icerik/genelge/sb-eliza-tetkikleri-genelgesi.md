@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 638-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 6.3.25. Eliza Tetkikleri Genelgesi
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -57,7 +56,7 @@ b) Eliza testi sayısı ve müsbet olanlar aylık periodlarla muntazam olarak İ
 
 c) Pilot uygulama Ankara-İstanbul-İzmir-Antalya illeri başta olmak üzere Orta ve Doğu Karadeniz, Trakya, Marmara, Ege ve Akdeniz Bölgelerinde turizmin hareketli olduğu illerimizde yapılacaktır.
 
-d) Döner sermayesi olup Eliza cihazı olmıyan hastaneler en kısa zamanda döner sermayeden temin edecekler. Döner Sermayesi ve cihazı olmıyanlar Bakanlığımızdan talep edeceklerdir.
+d) Döner sermayesi olup Eliza cihazı olmayan hastaneler en kısa zamanda döner sermayeden temin edecekler. Döner Sermayesi ve cihazı olmıyanlar Bakanlığımızdan talep edeceklerdir.
 
 e) İl Sağlık Müdürlükleri ve Baştabibler uygulamayı tatbik ve takipten sorumludurlar.
 

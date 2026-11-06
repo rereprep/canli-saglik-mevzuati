@@ -12,16 +12,17 @@ kaynak_pdf_sayfa: "586-587"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## BOŞ AİLE HEKİMLİĞİ BİRİMLERİNİN CARİ GİDERLERİNİN ÖDENMESİ HAKKINDA
 
-T.C.
-SAĞLIK BAKANLIĞI
-Halk Sağlığı Genel Müdürlüğü
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-Sayı: 43252159-641.03.99
-Konu: Boş Aile Hekimliği Birimlerinin Cari Giderlerinin Ödenmesi Hk.
+**Sayı :** 43252159-641.03.99  
+**Konu :** Boş Aile Hekimliği Birimlerinin Cari Giderlerinin Ödenmesi Hk.  
 
 ### DAĞITIM YERLERİNE
 
@@ -39,14 +40,10 @@ Bu kapsamda boş aile hekimliği birimleri için yapılacak aile sağlığı mer
 
 Bilgilerini ve gereğini arz/rica ederim.
 
-Dr. Hüseyin İLTER
-Bakan a.
-Genel Müdür
+Dr. Hüseyin İLTER  
+Bakan a.  
+Genel Müdür  
 
-Dağıtım:
-
-Gereği:
-81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Bilgi:
-Strateji Geliştirme Başkanlığı
+### DAĞITIM:
+**Gereği:** 81 İl Valiliğine (İl Sağlık Müdürlüğü)  
+**Bilgi:** Strateji Geliştirme Başkanlığı

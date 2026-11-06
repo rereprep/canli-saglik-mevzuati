@@ -11,6 +11,7 @@ kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 234-237"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 Resmî Gazete Tarihi: 03.06.2015 Resmî Gazete Sayısı: 29375

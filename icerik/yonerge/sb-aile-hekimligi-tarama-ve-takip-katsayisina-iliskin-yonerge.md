@@ -9,9 +9,54 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 435-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.2.1. Aile Hekimliği Tarama ve Takip Katsayısına İlişkin Yönerge
+
+### AİLE HEKİMLİĞİ TARAMA VE TAKİP KATSAYISINA İLİŞKİN YÖNERGE
+
+## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+
+**MADDE 1 –** (1) Bu Yönergenin amacı, aile hekimi ve aile sağlığı çalışanlarının kayıtlı kişi sayısı ödemesine etki eden hastalık tarama, takip, sonuç ve süreç yönetimi kriterleri ile bu kriterlere ilişkin başarı oranları ve ödemeye esas katsayıların belirlenmesidir.
+
+#### Kapsam
+
+**MADDE 2 –** (1) Bu Yönerge; aile hekimliği uygulaması çerçevesinde sözleşmeli olarak çalıştırılan ve Bakanlıkça görevlendirilen aile hekimi ve aile sağlığı çalışanlarını kapsar.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu Yönerge 30/06/2021 tarihli ve 31527 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinin 18 inci maddesinin ikinci fıkrasının (a) bendinin altıncı alt bendine ve 21 inci maddesinin ikinci fıkrasının (a) bendinin altıncı alt bendine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+
+**MADDE 4 –** (1) Bu Yönergede geçen;
+
+a) [?]
+
+b) Başarı oranı: Aylık olarak yapılan tarama ve takip sayısı ile var ise önceki dönemde hedefin (%100) üzerinde yapılan sayının toplamının, ilgili ayda yapılması gereken sayıya oranının yüzde cinsinden değerini ve takip sonucunda ilgili kriterler için amaçlanan sonuca ulaşma oranını,
+
+c) Gerçekleşme yüzdesi: Aylık olarak yapılan tarama ve takip sayısını yapılması gereken sayıya oranının yüzde cinsinden değerini ve takip sonucunda ilgili kriterler için amaçlanan sonuca ulaşma oranını,
+
+ç) Kriter: Yönerge kapsamındaki her hastalık ve durum için yönergenin ilgili maddesinde belirlenen tarama, takip ve sonuç ile süreç yönetimi bileşenlerini,
+
+d) Kriter katsayısı: Her kriter için başarı oranına göre belirlenen katsayıyı,
+
+e) Periyod: Her hastalık için hedef nüfusa yönelik olarak ilgili kılavuzlarda belirlenen tarama, takip ve sonuca yönelik işlemlerinin ay cinsinden yapılma sıklığını,
+
+f) Sonuç: Hastaların tarama ve takip süreçlerinde yapılacak olan iş ve işlemlerin [?],
+
+g) Süreç Yönetimi: Kişilerin, kayıtlı olduğu aile hekimliği biriminde sağlık hizmeti alma [?],
+
+ğ) Takip: Hastalar için yapılması gereken iş ve işlemleri,
+
+h) Tarama: Kayıtlı nüfus içerisinden her hastalık türü için sağlıklı veya risk altında olan grubun tespitine yönelik yapılması gereken iş ve işlemleri,
+
+ı) Tarama ve takip katsayısı: Tüm kriter katsayılarının çarpımı ile belirlenecek katsayıyı,
+
+ifade eder.
 
 ## İKİNCİ BÖLÜM Temel Esaslar ve Hesaplama Usulleri
 
@@ -110,8 +155,6 @@ Hipertansiyon tanısı almış kayıthı kişilerden, son bir yılda en az iki k
 Kayıtlı kişilerden diyabet tanısı olanlar ve tarama sonucu diyabet tanısı almuş olanlar ek-4 te yer alan Diyabet Değerlendirme Kılavuzuna göre üç ayda bir izlenir.
 
 Diyabet tanısı almış kayıtlı kişilerden son bir yılda en az iki kez izlenmiş olmak kaydıyla bir önceki izlem tarihinden itibaren aile hekimi tarafından belirlenmiş bireysel HbA1c hedefi ek-4'te yer alan Diyabet Değerlendirme Kılavuzunda belirtilen risk durumlarına göre belirlenen değerden az olanların sayısının son bir yılda izlenen kişi sayısına oranı sonuç için başarı
-
-**MADDE 10 –** (1) Obezite hastalık riskine ilişkin 18 yaş ve üzeri kişilerin yılda bir defa ek- 5 te yer alan Obezite Değerlendirme Kılavuzuna göre obezite taraması yapılur. Aile hekimlıği birimine kayıtlı kişilerden 18 yaş ve üzeri olanlardan obezite tarama listesi oluşturulur. Geriye dönük son üç ay içerisinde obezite tanısı alan kişiler ve tarama sonrası obezite tanısı alan kişiler tarama kapsamı dışındadır.
 
 Kardiyovasküler risk nedeniyle hastalık (diyabet, hipertansiyon vb.) tanısı almuş kişilerden, son bir yılda en az iki kez izlenmiş olmak kaydıyla, son bir yılda herhangi bir komplikasyon gelişmemiş ve son kardiyovasküler risk değeri bir önceki değerine göre azalanların sayısı ile herhangi bir komplikasyonu olan ve son kardiyovasküler risk değerinde bir önceki değere göre artış olmayanların (azalanlar ve sabit kalanlar dahil) sayısının toplamının son bir yılda izlenen kişi sayısına oranı sonuç için başarı oranıdır. Çok yönlü yaşhı değerlendirmesi
 

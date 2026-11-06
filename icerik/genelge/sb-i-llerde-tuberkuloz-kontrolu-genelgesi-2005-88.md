@@ -10,13 +10,18 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 704-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-###  SAĞLIK BAKANLIĞI Verem Savaşı Daire Başkanlığı
+### T.C. SAĞLIK BAKANLIĞI
+#### Verem Savaşı Dairesi Başkanlığı
 
-26Mÿn2605 Sayl : B100VSD0000071-9710/5498 ANKARA Konu : İllerde Tüberküloz Kontrolü
+**Sayı :** B100VSD0000071-9710/5498  
+**Konu :** İllerde Tüberküloz Kontrolü  
+**Tarih :** 26.05.2005
 
-### GENELGE 2005/88
+### GENELGE
+**2005/88**
 
 Dünya Sağlık Örgütü'nün hesaplamalarına göre Dünya'da her yıl 8 milyon kişi tüberküloza yakalanmakta ve 2 milyon kişi bu nedenle hayatını kaybetmektedir. Bu rakamlar hastalığın daha uzun yıllar Dünya için tehdit oluşturacağına işaret etmektedir.
 
@@ -31,8 +36,6 @@ kontrol altında yapılması, aile bireylerinin periyodik kontrollerinin gerçek
 Bölge Tüberküloz Laboratuvar olan illerde bu laboratuvarlarin personel eksikliklerinin giderilerek çalışma kapasitesinin arttınlması; 9- Bu laboratuvarların olmadığı yerlerde illerdeki Hıfzıssıhha Laboratuvarları veya Halk Sağlığı Laboratuvarlarının tüberküloz kültürü yapabilecek duruma getirilmesi; 10- Verem Savaşı Dispanserindeki personel sayısının görülen hizmeti aksatmayacak seviyede olmasının sağlanması: 11- Klinik ve bakteriyolojik durumları nedeniyle Göğüs Hastalıkları Hastanelerinde yatarak tedavisi gereken hastalann tedavilerinin yapılması konusunda gerekli titizliğin gösterilmesi gerekmektedir.
 
 Bu hususlara azami derecede dikkat edilerek neticeden bilgi verilmesini önemle rica ederim.
-
-Dr. ummihg
 
 Uz. Dr. Cihanser EREL
 

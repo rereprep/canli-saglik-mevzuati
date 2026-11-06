@@ -3,7 +3,7 @@ id: "asm-de-bulundurulmasi-zorunlu-asgari-ilac-listesi-asm-ve-ahb-izleme-degerle
 baslik: "ASM’de Bulundurulması Zorunlu Asgari İlaç Listesi, ASM ve AHB İzleme Değerlendirme Formu"
 tur: "yazi"
 tarih: "2013-04-30"
-sayi: "99858683/010/46113"
+sayi: "99858683/010/46119"
 birim: "Türkiye Halk Sağlığı Kurumu Başkanlığı"
 konu: "Aile sağlığı merkezlerinde bulundurulması zorunlu asgari ilaç listesini ve ASM ile AHB izleme değerlendirme formlarını yürürlüğe koyar."
 etiketler: ["aile-hekimligi", "denetim"]
@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "483-497"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## ASM’DE BULUNDURULMASI ZORUNLU ASGARİ İLAÇ LİSTESİ, ASM VE AHB İZLEME DEĞERLENDİRME FORMU
@@ -20,7 +21,7 @@ T.C.
 SAĞLIK BAKANLIĞI
 Türkiye Halk Sağlığı Kurumu Başkanlığı
 
-Sayı: 99858683/010/46113
+Sayı: 99858683/010/46119
 Konu: ASM'de Bulundurulması Zorunlu Asgari İlaç Listesi, ASM ve AHB İzleme Değerlendirme Formları
 
 ### ……………… VALİLİĞİNE (Halk Sağlık Müdürlüğü)
@@ -817,11 +818,7 @@ NOT 2: Halihazırda faaliyette olan aile hekimliği birimlerinde bina şartları
 | 18. | Kaptopril 25 mg tb | 20 tablet |
 | 19. | Diüretik amp | 5 amp |
 
-### ASM ve AHB’NİN OLAĞAN DIŞI DURUM, İHBAR VE ŞİKAYETLERİNDE KULLANILACAK DENETİM FORMU VE İNCELEME TUTANAĞI
-
-EK - 3
-
-ASM VE AHB'NİN OLAĞAN DIŞI DURUM, İHBAR VE ŞİKAYETLERİNDE KULLANILACAK DENETİM FORMU VE İNCELEME TUTANAĞI
+### EK – 3 ASM VE AHB'NİN OLAĞAN DIŞI DURUM, İHBAR VE ŞİKAYETLERİNDE KULLANILACAK DENETİM FORMU VE İNCELEME TUTANAĞI
 
 TARİH: SAAT:
 

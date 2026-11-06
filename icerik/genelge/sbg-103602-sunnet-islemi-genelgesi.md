@@ -1,31 +1,48 @@
 ---
 id: "sbg-103602-sunnet-islemi-genelgesi"
-baslik: "Sünnet İşlemi Genelgesi"
+baslik: "Sünnet İşlemi Genelgesi (2015/7)"
 tur: "genelge"
+sayi: "2015/7"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103602/sunnet-islemi-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+tarih: "23.03.2015"
+kontrol_edildi: true
 ---
 
 2.3.23. Sünnet İşlemi Genelgesi
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C.
+### SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
-TC Sağak Bakanh Dene Podur gu
+Sayı : 54567092/045/  
+Konu : Sünnet İşlemi  
+25/03/2015
 
-İlgi (a) ve (b)'de kayıth genel yazılar ile 25/03/1997 tarih ve 6091 (Genelge 1997/3) sayılı Sağlık Kabinlerinin Açılışı ve Denetimi Hakkında Genelge eki Ek-4 te Sağlık Kabinlerinde Bulundurulabilecek Tibbi Malzemeler Listesinde yer alan "10.Sünnet için kullanılacak malzemeler" ibaresi ve Ek-S'te yer alan Sağlık Kabininde Sunulabilecek Hizmetler Listesinin "4.Sünnet" ibaresi yürürlükten kaldırılmıştır
+### GENELGE
+### 2015/7
+
+İlgi: a) 30/12/2014 tarihli ve 9653 sayılı genel yazı.  
+b) 22/01/2015 tarihli ve 680 sayılı genel yazı.
+
+Bilindiği üzere, 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunun 3 üncü maddesinde yer alan "Sünnet ameliyesi tabiplerce yapılır." hükmü ile sünnet işleminin cerrahi bir müdahale olarak yalnızca tabipler tarafından yapılabileceği düzenlenmiştir. Mezkûr Kanunun Geçici 9 uncu maddesinde yer alan geçiş süresi 31/12/2014 tarihi itibarıyla sona ermiştir.
+
+Bu çerçevede, 01/01/2015 tarihinden itibaren sünnet işleminin yalnızca tabipler tarafından yapılması zorunlu hale gelmiştir.
+
+İlgi (a) ve (b)'de kayıtlı genel yazılar ile 25/03/1997 tarih ve 6091 (Genelge 1997/3) sayılı Sağlık Kabinlerinin Açılışı ve Denetimi Hakkında Genelge eki Ek-4'te Sağlık Kabinlerinde Bulundurulabilecek Tıbbi Malzemeler Listesinde yer alan "10. Sünnet için kullanılacak malzemeler" ibaresi ve Ek-5'te yer alan Sağlık Kabininde Sunulabilecek Hizmetler Listesinin "4. Sünnet" ibaresi yürürlükten kaldırılmıştır.
+
+Konunun iliniz dahilindeki tüm sağlık kurum ve kuruluşlarına, sağlık kabinlerine ve meslek mensuplarına duyurulması hususunda;
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ
-
-Bakan a.
-
+Prof. Dr. Eyüp GÜMÜŞ  
+Bakan a.  
 Müsteşar
 
 ### DAĞITIM:
 
-81 İl Valiliği
+81 İl Valiliğine

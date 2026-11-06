@@ -10,13 +10,52 @@ durum: "yürürlükte"
 konu: "Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti Genelgesi (2011/56) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-7.3.13. Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti Genelgesi (2011/56)
+T.C.
+SAĞLIK BAKANLIĞI
+Strateji Geliştirme Başkanlığı
 
-(2011/56)
+Sayı : B.10.0.SGB.0.84.00.01/10-06-11143
+Konu : Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti
 
-Say1 :B.10.0.SGB.0.84.00.01/10-06-11143 19/10/2011 Konu:Tibbi Cihaz Hizmet ve Tibbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti Bakanlığımızca yapılan değerlendirmelerde, yaklaşık maliyeti Sağlık Uygulama Tebliğinde yer alan fiyatların esas alınarak belirlendiği ihalelerde gerçekçi bir fiyat teklifinin verilmediği ve hizmetin daha ekonomik olarak alınmasının her zaman sağlanamadığı Manyetik Rezonans (MR) ve Bilgisayarlı Tomografi (BT) Hizmet Ahmlarında yaklaşık maliyetin daha sağlıklı belirlenebilmesi için Bakanlığımıza bağlı kurumlar bundan sonra; ahnacak hizmeti oluşturan iş gruplarını ve maliyet bileşenlerini dikkate alarak yaklaşık maliyet tespiti yapacaklardır. Bu amaçla Tıbbi Cihaz Hizmet ve Tibbi Hizmet Ahımlarında Yaklaşık Maliyet Hesaplamaya Yardımcı Modül" geliştirilerek kurumlarımızın kullanımına açılmış olup, MR ve BT hizmet alımlarımın yaklaşık maliyet tespitlerinde bu modül kullanılacaktır. Hizmet alım süresi 6 aydan daha az süreli hizmet alımlarında anılan modül kullanılmadan da idarelerce yaklaşık maliyet hesaplanabilecektir. Kurumlarımız diğer tıbbi cihaz ve tıbbi hizmet ahımlarının yaklaşık maliyet tespitinde; mezkür yönetmelik hükmünde belirtilen yöntemlerden biri olan hizmeti oluşturan iş gruplarını ve maliyet bileşenlerini dikkate alarak yaklaşık maliyet tespiti yapabılecekleri gibi diğer yöntemleri dıkkate alarak da yaklaşık maliyet tespiti yapabileceklerdir. A. Modülün Kullamılması
+19/10/2011
+
+............ VALİLİĞİNE
+(İl Sağlık Müdürlüğü)
+
+GENELGE
+2011/56
+
+İlgi: 01.03.2010 tarihli ve 2010/11 Sıra Nolu Genelge.
+
+Bakanlığımıza bağlı sağlık kurum ve kuruluşlarımızda vatandaş memnuniyetinin artırılması, hizmet kalitesinin daha üst düzeye çıkarılması ve kamu kaynaklarının etkili, ekonomik ve verimli kullanılması sağlık hizmetlerinin sürdürülebilirliği açısından büyük önem arz etmektedir.
+
+4734 sayılı Kamu İhale Kanunu hükümleri çerçevesinde ihtiyaçların uygun şartlarda ve zamanında karşılanmasının en önemli etkenlerinden birisi de alım konusu işin yaklaşık maliyetinin gerçekçi ve piyasa şartlarına uygun olarak belirlenmesidir. 4734 sayılı Kanuna dayanılarak Kamu İhale Kurumu'nca yayımlanan ihale uygulama yönetmeliklerinde ve Kamu İhale Genel Tebliği'nde yaklaşık maliyetin nasıl tespit edileceği ve dikkat edilecek hususlar ayrıntılı olarak belirtilmiştir. Hizmet Alımı İhaleleri Uygulama Yönetmeliği'nin "Yaklaşık maliyetin hesaplanmasına esas miktar ve fiyatların tespiti" başlıklı 8 inci maddesinde de;
+
+"İdareler, yaklaşık maliyetin hesaplanabilmesi için öncelikle ihale konusu hizmeti oluşturan iş kalemlerini veya gruplarını ve bunlara ilişkin miktarları tespit ederler. Bu amaçla, idare tarafından gerek duyulduğunda, aşağıda belirtilen esas ve usuller çerçevesinde miktar araştırması da yapılabilir.
+
+(2) Yaklaşık maliyete ilişkin fiyatların tespitinde;
+a) Kamu kurum ve kuruluşlarınca işin niteliğine göre belirlenmiş fiyatlar,
+b) İhaleyi yapan idare veya diğer idarelerce gerçekleştirilmiş aynı veya benzer işlerdeki fiyatlar,
+c) İlgili odalarca belirlenmiş fiyatlar,
+ç) İhale konusu işi oluşturan iş kalemlerine veya gruplarına ilişkin olarak piyasadan yapılacak fiyat araştırması kapsamında elde edilecek fiyat tekliflerinin aritmetik ortalaması alınmak suretiyle ya da konusunda uzman bilirkişi ve ekspertizlerden soruşturularak oluşturulan fiyatlar,
+d) İhale konusu işe ilişkin olarak Bütçe Uygulama Talimatlarında ve/veya Sağlık Uygulama Tebliğinde yer alan fiyatlardan KDV veya farklı nitelikteki diğer giderler indirilmek suretiyle bulunan fiyatlar,
+Esas alınır.
+(3) İdareler yaklaşık maliyete ilişkin fiyatların tespitinde, (a), (b), (c), (ç) ve (d) bentlerinde belirtilen fiyatların birini, birkaçını veya tamamını herhangi bir öncelik sırası olmaksızın kullanabilirler..." şeklinde hüküm yer almaktadır.
+
+İlgide kayıtlı genelge hükümleri çerçevesinde alımına karar/izin verilen "Tıbbi Cihaz Hizmet Alımları ile Tıbbi Hizmet Alımları"nın yaklaşık maliyet tespitinde; Bakanlığımıza bağlı bazı kurumlarca Sağlık Uygulama Tebliği'nde yer alan fiyatlardan KDV veya farklı nitelikteki diğer giderler indirilmek suretiyle bulunan fiyatların esas alındığı bilinmektedir.
+
+Bakanlığımızca yapılan değerlendirmelerde, yaklaşık maliyeti Sağlık Uygulama Tebliğinde yer alan fiyatların esas alınarak belirlendiği ihalelerde gerçekçi bir fiyat teklifinin verilmediği ve hizmetin daha ekonomik olarak alınmasının her zaman sağlanamadığı görülmüştür.
+
+Manyetik Rezonans (MR) ve Bilgisayarlı Tomografi (BT) Hizmet Alımlarında yaklaşık maliyetin daha sağlıklı belirlenebilmesi için Bakanlığımıza bağlı kurumlar bundan sonra; alınacak hizmeti oluşturan iş gruplarını ve maliyet bileşenlerini dikkate alarak yaklaşık maliyet tespiti yapacaklardır.
+
+Bu amaçla "Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Hesaplamaya Yardımcı Modül" geliştirilerek kurumlarımızın kullanımına açılmış olup, MR ve BT hizmet alımlarının yaklaşık maliyet tespitlerinde bu modül kullanılacaktır.
+
+Hizmet alım süresi 6 aydan daha az süreli hizmet alımlarında anılan modül kullanılmadan da idarelerce yaklaşık maliyet hesaplanabilecektir. Kurumlarımız diğer tıbbi cihaz ve tıbbi hizmet alımlarının yaklaşık maliyet tespitinde; mezkûr yönetmelik hükmünde belirtilen yöntemlerden biri olan hizmeti oluşturan iş gruplarını ve maliyet bileşenlerini dikkate alarak yaklaşık maliyet tespiti yapabilecekleri gibi diğer yöntemleri dikkate alarak da yaklaşık maliyet tespiti yapabileceklerdir.
+
+A. Modülün Kullamılması
 
 1. Modül, Hizmet Alımları Kapsamında Çalıştırılan Işçi Sayısının Tespiti ve Takibi
 
@@ -160,6 +199,38 @@ Iç Denetim Birimi Başkanlığına
 
 Tedavi Hizmetleri Genel Müdürlüğüne
 
-Kamu Hastaneleri Genel Müdürlüğünce ilgili sistem güncellenmiş olup yapılan yaklaşık maliyet hesaplamalarında güncellenmiş modül
+Kamu Hastaneleri Genel Müdürlüğünce ilgili sistem güncellenmiş olup yapılan yaklaşık maliyet hesaplamalarında güncellenmiş modül kullanılacaktır.
 
-kullanılacaktır.
+T.C.
+SAĞLIK BAKANLIĞI
+Kamu Hastaneleri Genel Müdürlüğü
+
+Sayı : E-36385208-949-226519750
+Konu : Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti
+
+10.10.2023
+
+DAĞITIM YERLERİNE
+
+İlgi : Strateji Geliştirme Başkanlığının 19.10.2011 tarihli ve 11143 sayılı 2011/56 Genelgesi
+
+Bakanlığımıza bağlı sağlık kurum ve kuruluşlarımızda vatandaş memnuniyetinin artırılması, hizmet kalitesinin daha üst düzeye çıkarılması ve kamu kaynaklarının etkili, ekonomik ve verimli kullanılması sağlık hizmetlerinin sürdürülebilirliği açısından büyük önem arz etmektedir.
+
+Strateji Geliştirme Başkanlığının ilgide kayıtlı Genelgesinde; "...Manyetik Rezonans (MR) ve Bilgisayarlı Tomografi (BT) Hizmet Alımlarında yaklaşık maliyetin daha sağlıklı belirlenebilmesi için Bakanlığımıza bağlı kurumlar bundan sonra; alınacak hizmeti oluşturan iş gruplarını ve maliyet bileşenlerini dikkate alarak yaklaşık maliyet tespiti yapacaklardır." düzenlemesi yer almaktadır. Bu amaçla, sağlık tesislerimizce kullanılmakta olan Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Hesaplamaya Yardımcı Modülde yer alan ilgili parametreler, oluşan yeni ekonomik koşullar doğrultusunda güncellenmiştir.
+
+Bu kapsamda, Müdürlüğünüz ve bağlı sağlık tesislerince yapılacak olan MR ve BT hizmet alımlarının yaklaşık maliyet tespitlerinde; ilgi genelge hükümleri doğrultusunda, https://hizmetalimlari.saglik.gov.tr adresinde yer alan güncellenmiş modülün kullanılması ve konunun bağlı sağlık tesislerimizin ilgili birimlerine ivedilikle duyurulması hususunda;
+
+Bilgilerini ve gereğini rica ederim.
+
+Uzm. Dr. İlkay GÜLER
+Bakan a.
+Genel Müdür Yardımcısı
+
+Ek: İlgi Genelge (8 Sayfa)
+
+Dağıtım:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+Bilgi:
+Strateji Geliştirme Başkanlığına

@@ -10,9 +10,37 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 759-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-6.3.66. Anne Ölümleri Veri Sistemi Genelgesi (2007/27) Sayı : B100AÇS0110000- Konu : Anne Ölümleri Veri Sistemi bağlı tüm köyleri dolaşarak muhtarlardan bu bildirimleri alacaktır. Bu dönem zarfında anne ölümü olmamış ise bu husus tutanakla kayıt altına alınacaktır.
+### T.C. SAĞLIK BAKANLIĞI
+#### Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
+
+**Sayı :** B100AÇS0110000-[?]  
+**Konu :** Anne Ölümleri Veri Sistemi
+
+### VALİLİĞİNE
+
+### GENELGE
+**2007/27**
+
+Anne ölümlerinin önlenmesi ve anne sağlığının geliştirilmesi amacıyla oluşturulan "Anne Ölümleri Veri Sistemi" kapsamında; sağlık ocakları, belediye tabiplikleri ve ilgili tüm kurumlarca ölüm bildirimlerinin düzenli olarak yapılması gerekmektedir. Sağlık personeli bağlı tüm köyleri dolaşarak muhtarlardan bu bildirimleri alacaktır. Bu dönem zarfında anne ölümü olmamış ise bu husus tutanakla kayıt altına alınacaktır.
+
+Gebelik suresince, dogum sirasinda ve sonrasinda saglik hizmetlerine erisilebilirlik, saglik hizmetlerinden faydalanma ve bu hizmetlerin kalitesi ile daha genis cerceveden bakildiginda kadinin egitimi, toplumsal cinsiyet esitligi ve sosyal kosullar anne olumleri ile iliskilidir. Bu ozelligi ile anne olumlerinin seviyesi cok boyutlu bir kalkinma gostergesi olarak kullanilmaktadir. Anne olumleri gebelik, dogum, dogum sonrasi 42 gunluk surecte meydana gelen olumlerdir. Bircok ulkede ve ulkemizde anne olumleri ile ilgili veri toplamada sikintilar yasanmaktadir. Dolayisi ile bu konudaki gostergelerin hesaplanmasi icin farkli ve yenilikci yaklasimlara ihtiyac vardir.
+
+2005-2006 yillari arasinda bir yillik surecte gerceklestirilen Ulusal Anne Olumleri Calismasi mevcut duruma iliskin dogru veriyi saglayarak anne olumleri ile ilgili mevcut bilgi sistemlerinin eksikligini kapatmistir. Projenin sonuclari, ulkemizdeki mevcut olum kayit sistemlerini degerlendirmis ve yeni bir olum kayit sistemi icin oneriler ve yontemler gelistirmistir.
+
+Bu cercevede olusturulan yeni Anne Olumleri Veri Sistemi kapsaminda:
+
+1. Toplanacak olum verileri, ulke genelinde gerceklesen tum anne olumlerini kapsayacaktir.
+
+2. Bakanligimizda "Anne Olumleri On Inceleme Komisyonu" ve "Merkez Inceleme Komisyonu" olusturulacaktir (Bkz. Ek 1).
+
+3. Her ilde de "Il Anne Olumleri Tespit ve Onleme Birimi" ve "Il Inceleme Komisyonu" olusturulacaktir (Bkz. Ek 1).
+
+4. Her Saglik Grup Baskanligi ve Saglik Ocaginda programin yurutulmesinden sorumlu bir saglik personeli program sorumlusu (Anne Olumleri Veri Sistemi Birim Sorumlusu) olacaktir.
+
+5. Saglik Ocagi bulunmayan belde, koy vb. yerlesim merkezlerinde olumler, bilindigi uzere yasa geregince Koy Muhtari tarafindan bildirilmektedir. Program cercevesinde 12-50 yas anne olumlerini icerisine alan gebelik, dogum, dogum sonrasi 42 gunluk surecte meydana gelen tum kadin olumleri de muhtarlar tarafindan kayit altina alinacaktir. Koyun bagli oldugu Saglik Ocaginda programin yurutulmesinden sorumlu saglik personeli, her ay Saglik Ocagina muhtarlik bildirimlerini ulastiranlardan alacaktir.
 
 6. Her Sağlık Ocağı tarafından kendi sahasındaki 12-50 yaş anne ölümlerini içerisine alan gebelik, doğum, doğum sonrası 42 günlük süreçte meydana gelen tům kadın ölümleri tespit edilecel: ve "Anne Ölumu il Bildirim Formu" (Ek.6) doldurularak her ay bağlı oldukları Sağlık Grup Başkanlıklarına, aylık periyotlarla elde ettikleri muhtarlık bildirimleri, Anne Ölümü Defin Listesi (Ek2), Anne Ölümü Defn Bildirim Formu (Ek.3) ile birlikte gönderilecektir. Ölüm olsun ya da olması bildirim mutlak surette yapılacaktır.
 
@@ -26,7 +54,7 @@ duzeltildi: true
 
 11. 112 Hizmet Birimleri de her ay İl Sağlık Modürluklerine søvk strasında meydana gelen anne ölümlerini içerisine alan gebelik, doğum, doğum sonrası 42 günluk surecte meydana gelen tüm kadın ölümlerini "Anne Ölümü Il Bildirim Formu" ile bildireceklerdir.
 
-12. Il Program Sorumlusu ayda bår kez, ilde mevcut doğum hizmeti veren tüm ikinci ve üçüncü basamak sağlık kuruluşlarımı ziyaret edecek, kadın hastalıkları ve doğum kliniği, doğumhane, ameliyathane, acil servis (Anne olumu gerçekleşmiş başka uzmanlık dalı Sayı :B100AÇS0110000- Konu : Anne Olumleri Veri Sistemi servisleri de sorgulanarak) kayıtlarını inceleyerek o kuruluştaki 12-50 yaş anne ölümlerini içerisine alan gebelik, doğum, doğum sonrası 42 günlük süreşte meydana gelen tüm kadın ölümlerini tespit edip, kayıt altına alarak, ölüm olsun ya da olmasın kurulış başbekimi ile birlikte tutanak tutarak iman altina alacakar
+12. Il Program Sorumlusu ayda bår kez, ilde mevcut doğum hizmeti veren tüm ikinci ve üçüncü basamak sağlık kuruluşlarımı ziyaret edecek, kadın hastalıkları ve doğum kliniği, doğumhane, ameliyathane, acil servis (Anne olumu gerçekleşmiş başka uzmanlık dalı  servisleri de sorgulanarak) kayıtlarını inceleyerek o kuruluştaki 12-50 yaş anne ölümlerini içerisine alan gebelik, doğum, doğum sonrası 42 günlük süreşte meydana gelen tüm kadın ölümlerini tespit edip, kayıt altına alarak, ölüm olsun ya da olmasın kurulış başbekimi ile birlikte tutanak tutarak iman altina alacakar
 
 Ölümlerin Değerlendirilmesi:
 
@@ -52,7 +80,7 @@ Yukarıda belirtilen konulanın ilinizde titizlikle uygulanması hususunda ilgil
 
 ounie
 
-Próf. Dr. Necdet UNUVAR
+Prof. Dr. Necdet ÜNÜVAR
 
 Müsteşar
 

@@ -11,6 +11,7 @@ ocr: true
 tarih: "2008-05-28"
 sayi: "19735"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.15. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi

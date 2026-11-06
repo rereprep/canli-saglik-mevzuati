@@ -10,17 +10,39 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 999-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-2021/14 sayılı Tasarruf Genelgesi kapsamında merkez teşkilatça
+### T.C. SAĞLIK BAKANLIĞI
+#### Yönetim Hizmetleri Genel Müdürlüğü
 
-Cumhurbaşkanlığı izni alınmaksızın taşra teşkilatınca hizmet binası
+**Sayı :** E-49635782-010.06/
+**Konu :** İdari Hizmet Binası Kiralama İşlemleri
 
-### taşınmaz kiralama işlemleri yapılamaz.
+### GENELGE
+**2022/5**
 
-###  SAĞLIK BAKANLIĞI Yönctim Hizmetleri Genel Müdürlüğü
+2021/14 sayılı Tasarruf Genelgesi kapsamında merkez teşkilatça Cumhurbaşkanlığı izni alınmaksızın taşra teşkilatınca hizmet binası ve taşınmaz kiralama işlemleri yapılamaz.
 
-8) Kira rayiç değerinin tespitinde, hizmet alanları dışındaki alanların malike bırakılıp bırakılmamasına bağli olarak hizmet sunumu dişındaki alanlardan malikin elde edecegi getiriler ile binanın araç ve gereçleri ve donanımmın malik tarafindan sağlanıp sağlanmayacağı gibi hususlar dikkate alınacaktır.
+Bilindiği üzere Cumhurbaşkanlığı Teşkilatı Hakkında 1 Nolu Cumhurbaşkanlığı Kararnamesinin 156'ncı maddesinde Sağlık Bakanlığı Yönetim Hizmetleri Genel Müdürlüğünün görevleri düzenlenmiş ve bu görevleri arasında "5018 sayılı Kanun hükümleri çerçevesinde, kiralama ve satın alma işlemlerini yürütmek, temizlik, güvenlik, aydınlatma, ısıtma, onarım, taşıma ve benzeri hizmetleri yapmak veya yaptırmak" yer almaktadır.
+
+Diğer taraftan; hizmet binalarının kiralanmasına ilişkin usul ve esaslar 4734 sayılı Kamu İhale Kanunu, 5018 sayılı Kanun Mali Yönetimi ve Kontrol Kanunu, 2021/14 sayılı Cumhurbaşkanlığı Tasarruf Tedbirleri Genelgesi ile Hazine ve Maliye Bakanlığınca 16.01.2019 tarihli ve 30657 sayılı Resmi Gazetede yayımlanan Kamu İdarelerinin Taşınmaz Kiralamalarına İlişkin Genelge ile düzenlenmiştir. Bakanlık merkez teşkilat harcama birimleri, il ve ilçe sağlık müdürlüklerince idari hizmet binası kiralama işlemlerinde hizmetin kesintisiz sürdürülmesi, mali kaynakların verimli ve ekonomik kullanılması ve israf edilmemesi amacına yönelik hususlar aşağıda belirtilmiştir.
+
+1) Kiralamaya gidilmeden önce inşaatı devam eden Bakanlığa ait bina durumları ile boşaltılacak binaların kapasitesi dikkate alınacaktır, 6 ay içerisinde tamamlanarak inşaatların veya boşaltılacak binaların mümkün olması halinde tadilat-onarım ve taşınma süreleri göz önünde bulundurularak hizmette herhangi bir aksaklık olmaması halinde bina kiralanmaya gidilmeyecektir.
+
+2) Kaynakların etkin ve verimli kullanılması için kiralamaya gidilmeden önce Bakanlığımıza tahsis edilen binalar kullanılacaktır. Bunun mümkün olmaması halinde öncelikle kamu binalarının kiralanmasına, daha sonra diğer binaların kiralanmasına gidilecektir.
+
+3) İdari hizmet binası ihtiyacı olan bölgede hazineye ait, ihtiyacı giderecek idari hizmet binası bulunup bulunmadığı Milli Emlak Daire Başkanlığına/Müdürlüğüne yazılı olarak sorulacaktır.
+
+4) İdari hizmet binası ihtiyacı olan harcama birimlerinde, üç kişiden az olmamak üzere kiralama komisyonu kurulacaktır. Merkez teşkilatında, harcama yetkilisinin onayı ile ilgili daire başkanı ve diğer personelden, il sağlık müdürlüklerinde ise il Sağlık Müdürünün onayı ile şube müdürü ve diğer personelden oluşur. Kiralama komisyonuna seçilen diğer personelin idari, mali ve teknik hizmetler biriminde görevli olması gerekir.
+
+5) Kiralama Komisyonu tarafından öncelikle kiralanacak taşınmazın kullanım amacı ve kiralamayı gerektiren hususların yer aldığı rapor hazırlanacak ve bu rapor birim amiri tarafından onaylanacaktır.
+
+6) Kiralama komisyonu tarafından, kiralanacak idari hizmet binasına ilişkin can ve mal güvenliğinin sağlanması için teknik personelden (Mühendis, Tekniker, Teknisyen) destek alınacaktır. Ayrıca kiralanacak idari hizmet binasının deprem, yangın mevzuatına uygun olup olmadığı, yapı kullanma izin belgesi ile tapu kayıtları incelenerek de değerlendirilecektir.
+
+7) Kiralama Komisyonu; kiralanacak taşınmazın emsal rayiç bedelini araştırmalı; kiralanacak binanın yerini, emsal rayiç bedelini, kiralanacak binanın bulunduğu mahallin piyasa değerini birazını aşan piyasa rayici (kira bedeli) gibi kıstasları göz önünde bulundurarak; serbest emlakçılar, belediye başkanlıkları, defterdarlık ve mal müdürlükleri ile ticaret ve sanayi odaları düzenli bilgi ve raporlar doğrultusunda değer tespitini yapacak ve öngörülen kiralama sürecini ve kira rayiç bedelini teklif edecektir.
+
+8) Kira rayiç değerinin tespitinde, hizmet alanları dışındaki alanların malike bırakılıp bırakılmamasına bağlı olarak hizmet sunumu dışındaki alanlardan malikin elde edeceği getiriler ile binanın araç ve gereçleri ve donanımının malik tarafından sağlanıp sağlanmayacağı gibi hususlar dikkate alınacaktır.
 
 9) Kiralanacak binalarda çalışacak personel sayısı, binalarını hizmete uygunluğu ve ulaşılabilirligi göz önünde bulundurulacaktır.
 
@@ -62,7 +84,7 @@ h) Taşratarı kitalandığı, kiralaımaya konu taşınmazın tapu kaydına şe
 
 19) 2015/12 sayılı ve "İdari hizmet binası Kiraluma Hakkında Genelge" konudu Genelge yürürlükten kaldırılmiştir. Bilgi ve gereği ile uygulamada herhangi bir aksamaya meydan verilmemesi için yukanda belirtilen hususlara titizlikle riayet edilmesini önemle rico ederim.
 
-Halil ELDEM/R
+Halil ELDEMİR
 
 Bakan a
 

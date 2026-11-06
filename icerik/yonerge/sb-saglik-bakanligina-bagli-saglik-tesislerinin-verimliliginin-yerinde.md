@@ -11,96 +11,171 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-7.2.5. Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge
+### Bakanlık Makamına sunuş yazısı
 
-### SAĞLIK BAKANLIĞINA BAĞLI SAĞLIK TESİSLERİNİN VERİMLİLIĞİNİN YERİNDE DEĞERLENDİRİLMESİ HAKKINDA YÖNERGE
+T.C.
 
-## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak, Tanımlar
+SAĞLIK BAKANLIĞI
+
+Kamu Hastaneleri Genel Müdürlüğü
+
+Sayı: 31057145-1/A/2018
+
+Konu: Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge
+
+BAKANLIK MAKAMINA
+
+Bakanlığımıza bağlı sağlık tesislerinin etkinlik ve verimliliğini değerlendirmek, problemleri kaynağında tespit edip çözüme kavuşturmak ve verimli hizmet sunumunu gerçekleştirmek amacıyla Genel Müdürlüğümüzce yerinde değerlendirme faaliyetleri yürütülmektedir. Bu kapsamda, Bakanlığımıza bağlı sağlık tesislerinin yerinde değerlendirilmesinde usul ve esasların, gözlem yapacak personelin ve yetkilerinin belirlenmesi amacı ile "Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge" hazırlanmıştır.
+
+Söz konusu yönergenin onaylanarak yürürlüğe konulması hususunu emir ve tensiplerinize arz ederim.
+
+Prof. Dr. Murat ALPER
+
+Genel Müdür
+
+Uygun görüşle arz ederim. [?]
+
+Dr. Şuayip BİRİNCİ
+
+Müsteşar Yardımcısı
+
+Uygun görüşle arz ederim. [?] / 2018
+
+Prof. Dr. Eyüp GÜMÜŞ
+
+Müsteşar
+
+OLUR [?] / 2018
+
+Dr. Ahmet DEMİRCAN
+
+Bakan
+
+Ekler:
+
+1- Yönerge Taslağı (5 sayfa)
+
+2- Hastane Yerinde Değerlendirme Soru Listesi
+
+3- Ruh ve Sinir Hastalıkları Hastanesi Soru Listesi
+
+4- Kadın Doğum ve Çocuk Hastalıkları Hastanesi Soru Listesi
+
+5- ADSM/ADSH Soru Listesi
+
+### SAĞLIK BAKANLIĞINA BAĞLI SAĞLIK TESİSLERİNİN VERİMLİLİĞİNİN YERİNDE DEĞERLENDİRİLMESİ HAKKINDA YÖNERGE
+
+## BİRİNCİ BÖLÜM
+### Amaç, Kapsam, Dayanak, Tanımlar
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönergenin amacı Sağlık Bakanlığma hağlı sağlık tesislerinin verimliliğinin ve sağlık hizmet sunumlarınimi yerinde değerlendirilmesidir. Kapsam
+**MADDE 1 –** (1) Bu Yönergenin amacı Sağlık Bakanlığına bağlı sağlık tesislerinin verimliliğinin ve sağlık hizmet sunumlarının yerinde değerlendirilmesidir.
 
-**MADDE 2 –** (1) Bu Yönerge, Sağhık Bakanlığına bağhı sağlık tesislerini kapsar. Dayanak
+#### Kapsam
 
-**MADDE 3 –** (1) Bu Yönerge 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat Ve Görevleri Hakkındaki Kanun Hükmünde Karatamenin 25/A maddesin: dayamlarak hazırlanmışir. Tanmlar
+**MADDE 2 –** (1) Bu Yönerge, Sağlık Bakanlığına bağlı sağlık tesislerini kapsar.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu Yönerge 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkındaki Kanun Hükmünde Kararnamenin 25/A maddesine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) Degerlendirme Listesi: Genel Müdürlilk tarafindan hazırlanan sağlık tesislerinin değerlendirilmesinde kullanılacak olan ekie yer alan fisteyi.
+b) Değerlendirme Listesi: Genel Müdürlük tarafından hazırlanan sağlık tesislerinin değerlendirilmesinde kullanılacak olan ekte yer alan listeyi,
 
-e) Ekip Başkanı: Il bazında değerlendirme yapun tüm ekiplerin başkanını, ©) Ekip Sorumlusu: Sağlık tesısım değerlendirecek verimlilik gözlem ekibinin sorumlusunu,
+c) Ekip Başkanı: İl bazında değerlendirme yapan tüm ekiplerin başkanını,
+
+ç) Ekip Sorumlusu: Sağlık tesisini değerlendirecek verimlilik gözlem ekibinin sorumlusunu,
 
 d) Genel Müdürlük: Kamu Hastaneleri Genel Müdürlüğünü,
 
-f) Genel Müdür: Kamu Hastaneleri Genel Müdrünü,
+e) Genel Müdür: Kamu Hastaneleri Genel Müdürünü,
 
-g) Sağlık Tesisi: Sağlık Bakanlığına bağlı ikinci ve üçünch basamak sağlık hizmetlerini veren hastaneler ve hağit birimlerini, ağız ve diş sağlıgı hastaneleri ve merkezlerini..
+f) Sağlık Tesisi: Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık hizmetlerini veren hastaneler ve bağlı birimlerini, ağız ve diş sağlığı hastaneleri ve merkezlerini,
 
-g) Verimlilik Gözlemcisi. Bugh saglt tesislerini yerinde (zleyıp degerlendirmek fizer Bakanlık taralindan görevlendirilen kişiyi,
+g) Verimlilik Gözlemcisi: Bağlı sağlık tesislerini yerinde izleyip değerlendirmek üzere Bakanlık tarafından görevlendirilen kişiyi,
 
-1) Verimlitik Gözlem Ekibi: En az iki verimlilik gözlemcisinden olaşan ekibi,
+ğ) Verimlilik Gözlem Ekibi: En az iki verimlilik gözlemcisinden oluşan ekibi,
 
-i) Yıllık Değerlendirme Plan: Genel Madürlük tarafindan hazırlaman ve sağil tesislerinin değerlendirilecekleri tarihleri gösteren plam, ifade eder.
+h) Yıllık Değerlendirme Planı: Genel Müdürlük tarafından hazırlanan ve sağlık tesislerinin değerlendirilecekleri tarihleri gösteren planı,
 
-## İKİNCİ BÖLÜM Verimlilik Gözlem Ekiplerinin Oluşturulması
+ifade eder.
 
-**MADDE 5 –** (1) Verimlilik gözlem ekipleri Bakanlık merkez teşkilatı ve Bakanlık taşra teşkilatında yer alan il sağlık mudürkikleri ve sağlık tesislerinde görev yapan personelden seçilir.
+## İKİNCİ BÖLÜM
+### Verimlilik Gözlem Ekiplerinin Oluşturulması
 
-(2) Verimlilik gözlemer adaşlar, Genel Müdürlüğün haztiadg gözlemci sğitimlerne kaulı, egitinde başarilı olmalan halinde Bakank onayı ile Verimlilik Gözlemcisi olarak görevlendirilir.
+**MADDE 5 –** (1) Verimlilik gözlem ekipleri Bakanlık merkez teşkilatı ve Bakanlık taşra teşkilatında yer alan il sağlık müdürlükleri ve sağlık tesislerinde görev yapan personelden seçilir.
 
-(3) Verimlilik Gözlem Ekibi en az iki kişiden oluşur. Değerlendirilecek sağkk tesisiva büyüklügüne göre Genel Müdürlük, ekibin sayısını belider,
+(2) Verimlilik gözlemci adayları, Genel Müdürlüğün hazırladığı gözlemci eğitimlerine katılır, eğitimde başarılı olmaları halinde Bakanlık onayı ile Verimlilik Gözlemcisi olarak görevlendirilir.
 
-(4) Genel Müdürlük tarafindan görevlendirilen ner ekibe bir sorumlu atanır, ekip sorumlularından biri ekip başkanı olarak belirlenir. Ekip başkanı, görsvlendirilen ckipleri koordine eder ve yönlendirir.
+(3) Verimlilik Gözlem Ekibi en az iki kişiden oluşur. Değerlendirilecek sağlık tesisinin büyüklüğüne göre Genel Müdürlük, ekibin sayısını belirler.
 
-## ÜÇÜNCÜ BÖLÜM Verimlilik Gözlem Ekibinin Görevlendirilmesi
+(4) Genel Müdürlük tarafından görevlendirilen her ekibe bir sorumlu atanır, ekip sorumlularından biri ekip başkanı olarak belirlenir. Ekip başkanı, görevlendirilen ekipleri koordine eder ve yönlendirir.
 
-**MADDE 6 –** (1) Verimfilik gözlemcisi, gözlem ve değerlendimelerini Kamu Hastaneleri Genel Mödüri ve Sağlık Bakamı adına vapur.
+## ÜÇÜNCÜ BÖLÜM
+### Verimlilik Gözlem Ekibinin Görevlendirilmesi
 
-**MADDE 7 –** (1) Sağlık tesislerinde sunulan hizmetin gözlenmesi ve yesinde değerlendirilmesi yılda en az bir kez yapıle. Genel Müdürlüğan gerek duyduğu hallenda mükerrer degerlendirme yapılabilir.
+**MADDE 6 –** (1) Verimlilik gözlemcisi, gözlem ve değerlendirmelerini Kamu Hastaneleri Genel Müdürü ve Sağlık Bakanı adına yapar.
 
-(2) Genel Müdürlükçe tüm sağlık tesislerini kapsayacak şekilde yıllık değerlendire plati yapılır ve gerekli görülen hallerde Genel Müdürün onayı de yıllık planda değişiklikler yapılır
+**MADDE 7 –** (1) Sağlık tesislerinde sunulan hizmetin gözlenmesi ve yerinde değerlendirilmesi yılda en az bir kez yapılır. Genel Müdürlüğün gerek duyduğu hallerde mükerrer değerlendirme yapılabilir.
 
-(3) Verimlisk gözlem ekibinin ulaşım ve konaklama hizmetleri Genel Müdürlük tarafından görevlendirme amam Oncesinde planlant.
+(2) Genel Müdürlükçe tüm sağlık tesislerini kapsayacak şekilde yıllık değerlendirme planı yapılır ve gerekli görülen hallerde Genel Müdürün onayı ile yıllık planda değişiklikler yapılır.
 
-(4) Görev onayı alnan verimlilik gözlemcisinin, belgelenmiş bir müebir sebep (Ölüm, hastalık ve mevzuatta belirtilen afet durumları vb.) dışında görev yapugı kurumu veya kendisi tarafindan görevi ertelenemez ve aksatılamaz.
+(3) Verimlilik gözlem ekibinin ulaşım ve konaklama hizmetleri Genel Müdürlük tarafından görevlendirme zamanı öncesinde planlanır.
 
-### DÖRDÜNCÜ BÖLOM
+(4) Görev onayı alınan verimlilik gözlemcisinin, belgelenmiş bir mücbir sebep (Ölüm, hastalık ve mevzuatta belirtilen afet durumları vb.) dışında görev yaptığı kurumu veya kendisi tarafından görevi ertelenemez ve aksatılamaz.
 
-#### Sağlık Tesislerinin Yerinde Değerlendirilmesi
+## DÖRDÜNCÜ BÖLÜM
+### Sağlık Tesislerinin Yerinde Değerlendirilmesi
 
-**MADDE 8 –** (1) Verimlilik gözlem ekibi: görev emirlerindeki sağlık tesislerini Genel Müdürlük tarafinden oluşturulan ve ekte belirtilen "Yerinde Degerlendirme Soru Listeleri" kapsamında degerlendirur.
+**MADDE 8 –** (1) Verimlilik gözlem ekibi; görev emirlerindeki sağlık tesislerini Genel Müdürlük tarafından oluşturulan ve ekte belirtilen "Yerinde Değerlendirme Soru Listeleri" kapsamında değerlendirir.
 
-(2) Verimlilık gözlem ekini, değerlendimek üzere gittiği sağlık tesisinde başhckim ve/veya başhekimin aygun gördüğü personelin kahılımı ile bilgilendime toplanusı yapar.
+(2) Verimlilik gözlem ekibi, değerlendirmek üzere gittiği sağlık tesisinde başhekim ve/veya başhekimin uygun gördüğü personelin katılımı ile bilgilendirme toplantısı yapar.
 
-(3) Sağlık tesisi yönetimi gözlem ekibine göreve ilişkin her konuda yardımcı olur. Gözlema, hasta ve yakınlarınm hak ve mahremiyetini gözeterek gömıek istediği fer tülü kayıt, evral. düzenleme ve uygulamayı işleyişi aksatmadan değerlendirme hakkınu sahiptir.
+(3) Sağlık tesisi yönetimi gözlem ekibine göreve ilişkin her konuda yardımcı olur. Gözlemci, hasta ve yakınlarının hak ve mahremiyetini gözeterek görmek istediği her türlü kayıt, evrak, düzenleme ve uygulamayı işleyişi aksatmadan değerlendirme hakkına sahiptir.
 
-(5) Değerlendirmeler esnasında, degerlendirilecek birimin sorumlusa ve yetkilı personeli verimlilik gözlem ekibine eşlik eder. Değerlendirilen atantam yänelik elde edilen bulgular gözlemciler tarafindan kuyu edilir.
+(4) Değerlendirmeler esnasında, değerlendirilecek birimin sorumlusu ve yetkili personeli verimlilik gözlem ekibine eşlik eder. Değerlendirilen alanlara yönelik elde edilen bulgular gözlemciler tarafından kayıt edilir.
 
-(6) Verimlilik gözlem ekibi, degerlendire sırasında kayılanı ve uygulamaları yahuzea degerlendirir, midahale etmez. Sağlık tesislerinin gözlemi atasında edinilen her türdü bilgi. kayıt, doküman vb. gizlilik esasları çerçevesinde olup Genel Müdürlügün ızni olmadan Açüncü kişilerle paylaşılamaz
+(5) Verimlilik gözlem ekibi, değerlendirme sırasında kayıtları ve uygulamaları yalnızca değerlendirir, müdahale etmez. Sağlık tesislerinin gözlemi sırasında edinilen her türlü bilgi, kayıt, doküman vb. gizlilik esasları çerçevesinde olup Genel Müdürlüğün izni olmadan üçüncü kişilerle paylaşılamaz.
 
-(7) Verimfilik gözlemcileri, değerlendire sonuçlarını sağlık tesisinden ayrılmadan takip modülüne kaydeder.
+(6) Verimlilik gözlemcileri, değerlendirme sonuçlarını sağlık tesisinden ayrılmadan takip modülüne kaydeder.
 
-## BEŞİNCİ BÖLÜM Itiraz ve Muafiyetlerin Değerlendirilmesi
+## BEŞİNCİ BÖLÜM
+### İtiraz ve Muafiyetlerin Değerlendirilmesi
 
-**MADDE 9 –** (1) Takip modulune kayıt edilen değerlendirme raporlant, ilgili birimlerce kontrol edilerek Genel Müdürlükçe 15 (on beş) gün içinde onaylanu, Rapor onayını takiben değerlendirme sonuçlanı Il Sağlık Müdürlakferine takip modatü üzerinden bildirilir.
+**MADDE 9 –** (1) Takip modülüne kayıt edilen değerlendirme raporları, ilgili birimlerce kontrol edilerek Genel Müdürlükçe 15 (on beş) gün içinde onaylanır. Rapor onayını takiben değerlendirme sonuçları İl Sağlık Müdürlüklerine takip modülü üzerinden bildirilir.
 
-(2) Il Sağlık Müdürlükleń degerlendirme sonuçlaram iletilmesini takiben 15 (on bes) gün içerisinde sonuçlara titaz edebilir. Itirazlar EK-2 formı dolduralarak I1 Sağlık Mädürląge tarafindan Genel Müdirlüğe ilotifir.
+(2) İl Sağlık Müdürlükleri değerlendirme sonuçlarının iletilmesini takiben 15 (on beş) gün içerisinde sonuçlara itiraz edebilir. İtirazlar EK-2 formu doldurularak İl Sağlık Müdürlüğü tarafından Genel Müdürlüğe iletilir.
 
-(3) Itirazlar Genel Müdürlük tarafindan oluşturulan komisyon tatarindan değerlendirilerel sonuçlan Il Sağlık Mödürlüklerine bildirilir-
+(3) İtirazlar Genel Müdürlük tarafından oluşturulan komisyon tarafından değerlendirilerek sonuçları İl Sağlık Müdürlüklerine bildirilir.
 
-**MADDE 10 –** (1) Doğal afet, savaş, salgın hastahk, seferberlik gibi olağanüstü hållere maruz kalan sağlık tesisleri ile taşıran. yeni ayılan sağlık tesislerinin yerinde degerlendime karan Genel Müdürläk taruhndan verılin MADDE 11 Ią bu yönergenin ekinde bulunan yerinde değerlendirne soru listelerinde ve Itiraz formunda ihtiyaç duyulması halinde Genel Müdürün onayı ile gerekli değişiklikler yapılır.
+**MADDE 10 –** (1) Doğal afet, savaş, salgın hastalık, seferberlik gibi olağanüstü hâllere maruz kalan sağlık tesisleri ile taşınan, yeni açılan sağlık tesislerinin yerinde değerlendirme kararı Genel Müdürlük tarafından verilir.
 
-## ALTINCI BÖLÜM Son Hükümler, Yürürlak ve Yürütme
+**MADDE 11 –** (1) İş bu yönergenin ekinde bulunan yerinde değerlendirme soru listelerinde ve İtiraz formunda ihtiyaç duyulması halinde Genel Müdürün onayı ile gerekli değişiklikler yapılır.
 
-#### Yürürlükten kakırılan yönerge
+## ALTINCI BÖLÜM
+### Son Hükümler, Yürürlük ve Yürütme
 
-**MADDE 12 –** (1) 26/12/2014 tarihli ve 376 sayılt Türkiye Kamu Hastaneleri Kurumuna Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge yürürlükten kaldırılmıştır. Yürürlük
+#### Yürürlükten kaldırılan yönerge
 
-**MADDE 11 –** (1) Be Yönerge Bakan onuyım müteakip türtirliğc gires. Yürütm≤
+**MADDE 12 –** (1) 26/12/2014 tarihli ve 376 sayılı Türkiye Kamu Hastaneleri Kurumuna Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge yürürlükten kaldırılmıştır.
 
-**MADDE 12 –** (1) Bu Yönerge hükümlerini Genel Müdüt yürütür. KK-1 Verinde Değerlendime Soru Listeleri EK-2. Verinda Değerlendirme Itiraz Başvuru Forma
+#### Yürürlük
+
+**MADDE 13 –** (1) Bu Yönerge Bakan onayını müteakip yürürlüğe girer.
+
+#### Yürütme
+
+**MADDE 14 –** (1) Bu Yönerge hükümlerini Genel Müdür yürütür.
+
+EK-1 Yerinde Değerlendirme Soru Listeleri  
+EK-2 Yerinde Değerlendirme İtiraz Başvuru Formu
+

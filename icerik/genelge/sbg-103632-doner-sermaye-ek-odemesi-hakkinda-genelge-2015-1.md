@@ -10,17 +10,45 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Döner sermaye ek ödemesi uygulamasına ilişkin açıklamaları düzenler."
+kontrol_edildi: true
 ---
+
 
 9.3.12. Döner Sermaye Ek Ödemesi Hakkında Genelge (2015/1)
 
-
-
 ### T.C. SAĞLIK BAKANLIĞI
+#### Yönetim Hizmetleri Genel Müdürlüğü
+##### İnsan Kaynakları Planlama ve İstatistik İşleri [?]
 
+**Sayı:** 76219013
+**Konu:** Döner Sermaye Ek Ödemesi hk.
+
+### GENELGE
+**2015/1**
+
+**İlgi:** 09/11/2012 tarihli ve 125 sayılı 2012/40 No'lu Genelge
+
+Bakanlığımız taşra teşkilatı ile Türkiye Halk Sağlığı Kurumu taşra teşkilatı ve Türkiye Halk Sağlığı Kurumuna bağlı merkez laboratuvarlarında görev yapan personele, 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun'un 5 inci maddesine istinaden 17/08/2012 tarihli ve 28387 sayılı Resmi Gazetede yayımlanan "Sağlık Bakanlığı ve Bağlı Kuruluşların Taşra Teşkilatında Görevli Personele Ek Ödeme Yapılmasına Dair Yönetmelik"te belirtilen usul ve esaslar uyarınca döner sermaye ek ödemesi yapılmakta iken, 02.01.2014 tarihli ve 6514 sayılı Kanun'un 38 inci maddesine binaen 209 sayılı Kanun'un 5 inci maddesinde bazı değişiklikler yapılmış ve Türkiye İlaç ve Tıbbi Cihaz Kurumu'nun sağlık ve yardımcı sağlık hizmetleri ile teknik hizmetler sınıfı kadrolarında bulunan ve Kurumun analiz ve kontrol laboratuvarlarında fiilen görev yapan personele de döner sermaye gelirlerinden ek ödeme yapılması imkânı tanınmıştır.
+
+Bu yeni hukuki durum çerçevesinde, "Sağlık Bakanlığı ve Bağlı Kuruluşları Personeline Ek Ödeme Yapılmasına Dair Yönetmelik" 28/11/2014 tarih ve 29189 sayılı Resmi Gazete'de yayımlanmış olup, bu Yönetmeliğin Türkiye İlaç ve Tıbbi Cihaz Kurumu Analiz ve Kontrol Laboratuvarlarına ilişkin hükümleri 18/1/2014 tarihinden itibaren geçerli olmak üzere, diğer hükümleri ise 1/12/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girdiğinden "Sağlık Bakanlığı ve Bağlı Kuruluşları Personeline Ek Ödeme Yapılmasına Dair Yönetmelik"in bazı hükümlerine açıklık kazandırılması gerekmiştir.
+
+Bu itibarla, mezkur Yönetmeliğin:
+
+1) "Tanımlar" başlıklı 4 üncü maddesinin birinci fıkrasının (b) bendinde "Bilimsel çalışma destek puanı; İl Sağlık Müdürlüğü ve bağlı birimlerinde, Türkiye Halk Sağlığı Kurumuna bağlı merkez laboratuvarları, Halk Sağlığı Müdürlükleri ile bağlı birimlerinde ve Analiz ve Kontrol Laboratuvarında görev yapan personele Ek-5 sayılı tabloda yer alan bilimsel çalışmaları belgelemesi ve ilgili kurumlar tarafından oluşturulan komisyon tarafından onaylanması halinde onayı takip eden 2 ay süreyle verilen ve aynı listede yer alan bilimsel çalışmalara karşılık gelen puanı ifade eder." şeklinde tanımlanmıştır. Bu hükme göre İl Sağlık Müdürlüğü bünyesinde en az üç kişiden oluşan bir komisyon kurulması ve bu kapsamda İl Sağlık Müdürlüğü ve bağlı birimlerinde görev yapan personelin belgelenmiş bilimsel çalışmalarının bu komisyonca onaylanmasını müteakiben Mezkur Yönetmeliğin Ek-5 sayılı tablosunda yapılan bilimsel çalışmaya karşılık gelen puanın, komisyon onayını takip eden 2 ay süre ile verilmesi gerekmektedir.
+
+9.3.12. Döner Sermaye Ek Ödemesi Hakkında Genelge (2015/1)
+
+### T.C.
+### SAĞLIK BAKANLIĞI
 Yönetim Hizmetleri Genel Müdürlüğü
 
-Sayı : 76219013 Konu : Döner Sermaye Ek Ödemesi hk.
+Sayı : 76219013  
+Konu : Döner Sermaye Ek Ödemesi hk.
+
+### GENELGE
+### 2015/1
+
+
 
 2) "Tanımlar" başlıklı 4 üncü maddesinin birinci fıkrasının "h" bendinde "Çalışılmayan günler; Resmi tatil günleri, nöbet izinleri ve görevin yapılması esnasında meydana gelebilecek yaralanma ve hastalık hâlinin sağlık raporuyla belgelendirilmesi sonucu kullanılan hastalık izin süreleri hariç olmak üzere tüm çalışılmayan günleri ifade eder." tanımı yer almaktadır. Tanımda yer alan, görevin yapılması esnasında meydana gelebilecek yaralanma ve hastalık hâlinin sağlık raporuyla belgelendirilmesi sonucu kullanılan hastalık izin süreleri hesaplanırken, 657 sayılı Devlet Memurları Kanunu'nun, "Hastalık ve Refakat İzni" başlıkh 105'inci maddesinin beşinci fikrasında yer alan "Görevi sırasında veya görevinden dolayı bir kazaya veya saldırıya uğrayan veya bir meslek hastalığına tutulan memur, iyileşinceye kadar izinli sayılır." hükmü çerçevesinde, görevi sırasında veya görevinden dolayı bir kazaya veya saldırıya uğrayan veya bir meslek hastalığına tutulan personelin sağlık raporuyla belgelendirdiği hastalık izin süreleri dikkate alınacaktır. Bunun dışındaki hastalık izinleri mezkur hükümdeki çalışılmayan günler kapsamında değerlendirilecektir.
 
@@ -44,12 +72,6 @@ e- (h) bendinde "25/6/2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikalar
 
 d- (m) bendinde, 112 acil sağlık hizmetlerinde çalışan personele Il Sağlık Müdürluğu il birim performans puan ortalamasının % 40"1 oranında ek puan verileceği öngörülmüş olup, bu hüküm kapsamında 112 acil sağlık hizmetlerinde çalışan personele %40 oranında ek puan verilmesi gerekmektedir. Ancak, 112 acil sağlık hizmetlerinde çalışan personelden anlaşılması gereken, Il Ambulans Komuta Kontrol Merkezi Baştabipliği bünyesinde fiilen çalışan personel olup, Il Sağlık Müdürlüğünün bir şubesi olarak hizmet veren Acil Sağlık Hizmetleri Şube Müdürlüğünde görev yapan personelin anılan ek puandan yararlanması mümkün değildir.
 
-TC Soğak Bakaniğ T.C.
-
-### SAĞLIK BAKANLIĞI Yönetim Hizmetleri Genel Müdürlüğü
-
-Sayı : 76219013 Konu : Döner Sermaye Ek Ödemesi hk.
-
 e- (n) bendinde, "bu Yönetmelik kapsamında fiilen ek ödeme hesaplamalarını yapan personele İl Sağlık Müdürlüğü il birim performans puan ortalamasının % 20'si oranında ek puan verileceği öngörülmüş olup, mezkur hükümde yer alan "...fiilen ek ödeme hesaplamalarını yapan personel" ibaresinden; ilgili ek ödeme döneminde gerekli hesaplamaları yaparak ek ödeme bordrolarını hazırlayan personelin anlaşılması gerekmektedir. Fiilen ek ödeme hesaplamalarını yapmayan ve ek ödeme bordrolarını hazırlamayan ancak ek ödemelerden sorumlu Sağlık Müdür Yardımcısı, Şube Müdürü olarak görev yapan personel bu kapsamda değerlendirilmeyecek ve mezkür hükümdeki ek puandan faydalanamayacaktır. Hesaplamaları bizzat yapan en fazla iki personel "fiilen ek ödeme hesaplamalarımı yapan personel" olarak değerlendirilecektir.
 
 4) "İl Sağlık Müdürlüğü ve bağlı birimlerinde net performans puanınin belirlenmesi" başliklı 17. Maddesinin (¢) bendinde " Net performans puanlarının hesaplanması aşağıdaki şekilde yapılır,
@@ -62,19 +84,13 @@ e- (n) bendinde, "bu Yönetmelik kapsamında fiilen ek ödeme hesaplamalarını 
 
 6) 14/2/1985 tarihli ve 3152 sayılı Içişleri Bakanlığının Teşkilat ve Görevleri Hakkında Kanun'un 28 inci maddesine 20/02/2014 tarihli 6525 sayılı Kanunla eklenen beşinci fikrada Çağrı merkezinde görevlendirilen personelin aylık, ödenek, her türlü zam ve tazminatları, ek ödemeleri ile diğer mali ve sosyal hak ve yardımları kendi kurumları tarafindan karşılanır. Diğer kurumlar tarafindan görevlendirilen personelin, kendi kurumunda sahip olduğu mali ve sosyal hakları herhangi bir kısıtlamaya tabi olmaksızın korunur." hükmüne yer verildiğinden 112 Acil Çağrı Merkezlerine görevlendirilen personele kadrosunun bulunduğu birim esas alınarak, kendi hizmet alanı kadro unvan katsayısı ve kadrosunun bulunduğu birim için Yönetmelikte belirlenen birim bazlı ek puandan da yararlandırılarak döner sermaye ek ödemesinin yapılması gerekmektedir.
 
-TC Sağak Bakanağı T.C.
-
-### SAĞLIK BAKANLIĞI Yönetim Hizmetleri Genel Müdürlüğü
-
-Sayı : 76219013 Konu : Döner Sermaye Ek Ödemesi hk.
-
 Ayrıca kadrosu Il Ambulans Komuta Kontrol Merkezi Baştabipliği bünyesinde olup 112 Acil Çağrı Merkezlerine görevlendirilen tabip dışı personelin "Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara Ilişkin 2014 ve 2015 Yıllarını Kapsayan
 
 2. Dönem Toplu Sözleşme"de yer alan "209 sayılı Kanunun 5 inci maddesinin ikinci fikrasının ikinci cümlesi hükmü Sağlık Bakanlığı 112 acil sağlık hizmetlerinde görev yapan personel (sözleşmeli personel dâhil) hakkında da uygulanır" hükmü kapsamında özellik arz eden birimler için öngörülen tavan ek ödeme katsayısından da yararlandırılması gerekmektedir.
 
 7) Ilgi Genelge yürürlükten kaldırılmıştır.
 
-Döner sermaye ek ödemesine yönelik iş ve işlemlerin yukanda yapılan açıklamalar dikkate alınarak gerçekleştirilmesi hususunda;
+Döner sermaye ek ödemesine yönelik iş ve işlemlerin yukarıda yapılan açıklamalar dikkate alınarak gerçekleştirilmesi hususunda;
 
 Bilgilerinizi ve gereğini rica ederim.
 
@@ -82,8 +98,8 @@ Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Müste
+Müsteşar
 
-### DAGITIM:
+### DAĞITIM:
 
 Gereği: A Planı (Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü hariç)

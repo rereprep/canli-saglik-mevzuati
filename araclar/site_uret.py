@@ -61,6 +61,10 @@ def belgeleri_oku():
         ek.update(json.loads(js.read_text(encoding="utf-8")))
     for md in sorted((KOK / "icerik").glob("*/*.md")):
         veri, govde = on_bilgi_ayir(md.read_text(encoding="utf-8"))
+        # Bozuk künyelere dayanıklılık: kimlik ve tür dosya yolundan tamamlanır
+        veri.setdefault("id", md.stem)
+        veri.setdefault("tur", md.parent.name)
+        veri.setdefault("baslik", md.stem.replace("-", " "))
         for alan, deger in ek.get(veri["id"], {}).items():
             if deger and (not veri.get(alan) or alan in ("baslik", "konu", "etiketler")):
                 veri[alan] = deger

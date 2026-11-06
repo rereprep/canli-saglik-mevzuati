@@ -11,91 +11,90 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 646-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.27. Kuduzla Mücadele ve Profilaksi Uygulamaları Genelgesi (2019/04)
 
-### LALK SAỘL LGI GENEL MỘD CHLOỐC - RIOM DONOTIN YE VEN TORLI HASTALEE AI TARTEN D,AZRANTA
+### T.C.
+### SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
 
-T.C 11/5/2019 1414
+Sayı : 10712557-136.99
+Tarih: 11.05.2019
+Konu : Kuduzla Mücadele ve Profilaksi Uygulamaları
 
-### SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
+GENELGE
+2019/04
 
-Sayı : 10712557-136.99 Konu : Kuduzla Mücadele ve Profilaksi Uygulamaları
+Kuduz, insan sağlığını tehdit eden ve klinik belirtiler geliştikten sonra geriye dönüşü mümkün olmayan ve dramatik bir şekilde ölümle sonuçlanan zoonotik hastalıktır. Bu sebeple, gerek kuduz riskli temas öncesi, gerekse kuduz riskli temas sonrası doğru profilaksi uygulamalarının gerçekleştirilmesi oldukça önemlidir. Kuduz hastalığı ölümcül bir hastalık olması nedeniyle, kuduz riskli temaslılarda aşılamanın gerekliliği konusunda kişilerin detaylı bir şekilde bilgilendirilmesi elzemdir.
 
-### GENELGE 2019/04
+Ülkemizde kuduz ve kuduz riskli temas, bildirimi zorunlu hastalıklar listesinde yer almaktadır. 30/05/2007 tarihli ve 26537 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren "Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği" ile vaka tanımları ve bildirim düzenlenmiştir.
 
-Kuduz, insan sağlığını tehdit eden ve klinik belirtiler geliştikten sonra geriye dönüşu mümkün olmayan ve dramatik bir sekilde ölümle sonuçlanan zoonotik hastalıktır. Bu sebeple, gerek kuduz riskli temas öncesi, gerekse kuduz riskli temas sonrası doğru profilaksi uygulamaların gerçekleştirilmesi oldukça önemlidir. Kuduz hastalığı ölümcül bir hastalık olması nedeniyle, kuduz riskli temaslılarda aşılamanın gerekliliği konusunda kişilerin detaylı bir şekilde bilgilendirilmesi elzemdir.
+Bu kapsamda, kuduz vakaları ile kuduz riskli temaslılara yaklaşım, profilaksi uygulamaları ve bildirimlere ilişkin usul ve esaslarda aşağıdaki hususlara göre işlem tesis edilmelidir:
 
-Ülkemizde kuduz ve kuduz risklı temas, bildirims zorunlu hastalıklar lişesinde yer dınuktadı. 30/05,2007 urlıi ve 36537 sayshı Resmı Gazete'de Sayınıdanarak yüntige guer *Bubş er Hesabklar Suveyans ve Kontral Fazslan Yäneneliği" Re vaka Tamılan ve bilditim dizeneumifir
+1) Kuduz vakaları ile kuduz riskli temaslılara yaklaşım ve kuduz profilaksi uygulamaları Ek 1'deki Kuduz Profilaksi Rehberi'nde belirtilen usul ve esaslara göre yapılacaktır.
 
-Ba Rapsarda, kuduz vakalar ile kuduz rişkli temaslıdam yaklaşımı, profılakat uygalamolanı ve bildırimlere iliskin usul ve canlarda aşağidak hususlam göre ąleni tesa edilmelida
+2) Kuduz Profilaksi Rehberi konusunda ilgili personele eğitimler verilecek ve bu eğitimlerin hızlı bir şekilde tamamlanması sağlanacaktır. Kuduz riskli temas değerlendirmesi yapan sağlık personeline her yıl düzenli olarak ayrıca yenileme eğitimleri yapılacak, yıl sonunda düzenlenen eğitimler ve eğitim alan kişiler ile ilgili bilgiler Bakanlığımıza gönderilecektir.
 
-1) Kuduz vakalar ile kuduz riskli temaslılara yaklaşun ve kuduz profilaksi üygılanalan Ek I deki Kuduz Profilalsi Rehberl nde belirtilen usul ve cunslara göre yapıneaktır.
+3) Halkın hastalık ile ilgili bilgilerini arttırmaya yönelik Bakanlığımızca hazırlanan materyaller kullanılarak farkındalık çalışmaları yürütülecektir.
 
-2) Kuduz Profilaksl Rehben konusunda derit personele eğitimler verilenek ve bu eğitımlerin tuzlı hir sekilde tamamlanması sağlanacakm. Knduz riskh temas değerlendinnesı уаран sagas persoreime heryu duzenir olarak ayca yenilene egdimlen yapılacak, yı somında dozenlenen cinimler ve eğıtim alan kisiler ile ilgili bilgiler Bakanlıgımiza gönderlecektr.
+4) İl sağlık müdürlüklerince kuduz riskli teması olan kişilerin değerlendirileceği ve gerekli profilaksi uygulamalarının yapılacağı "Kuduz Aşı Uygulama Merkezleri" oluşturulacaktır. Kuduz Aşı Uygulama Merkezlerinin öncelikle ikinci veya üçüncü basamak sağlık kuruluşlarında oluşturulması esastır. Kuduz Aşı Uygulama Merkezlerinin sayısı ve lokalizasyonu ilin büyüklüğü, coğrafik durumu, nüfus yoğunluğu gibi durumlar dikkate alınarak belirlenecektir. Bu merkezlere ilişkin güncel bilgilere il sağlık müdürlüklerinin internet sayfalarında yer verilecektir. Kuduz Aşı Uygulama Merkezleri konusunda halk bilgilendirmesi yapılacaktır.
 
-3) Halkın hastalik ile ilgıli bilgilerini arttırmaya yönelik Bakanlıgmezea haarlanan matetsaller kullanarak farkındahk çahsmalar yürütülecktu.
+5) Mesleki veya diğer nedenlerle kuduz ile karşılaşma riski artmış olan kişilere temas öncesi profilaksi uygulamasının önemi hakkında bilinçlendirme çalışmaları yapılacaktır.
 
-4) Il anglk müdürlüklerince Endıse riskli letrası olan kişilerin değerlendirdezeği ve gerekli profilaksi uygulamalarimın yapılacağı "Koduz Aşı Uygulama Merkezkeri" oluşturulacakur. Kuduz Agı Uygulama Merkezlerinin öncelıkle kincı Veya üçüncü basamak sağlık kuruluşlarada oluşturulması esasur. Kuduz Aşı Uygukuna Merkezlerinı sayıs ve lokalizaayonu ilin buyüklüğü. roğrafiki darıne, nüfus yeğunluğu gibi dururdar dikkate alnarak belirlenecekti- Ru merkezlere Rişkin güncel bilgilere il sağlık müdürlök terinin internet sayfalarıda yer verilecektir. Kuduz Apı Uygulama Merkezlen konusunda halk bülgülendirmesi yapılsenktır,
+6) Kuduz riskli temas nedeniyle profilaksiye alınan kişiler, hastalığın ciddiyeti ve aşı gerekliliği konusunda bilgilendirilecek ve Ek 2'de yer alan Kuduz Bilgilendirme Formu iki nüsha halinde düzenlenerek imza altına alınacaktır. Bu formun bir nüshası kişiye ya da yasal temsilcisine aşı kartı ile birlikte verilecek diğer nüshası aşı uygulanan sağlık kuruluşunda muhafaza edilecektir.
 
-Sı Mesleki veya diğer nedenlerie kuduz ie karşılaşma naka artımış atan kiydere remas oncesı profilaksı uygulamaşamın anem hakkmda bilıçlendime salışınaları yapılakıe
+7) Kuduz aşısı takvimine uyum göstermeyenlere ulaşılarak aşılarını yaptırmaları için merkezlere davet edilecektir. Kişilerin aşılarını başka bir ilde yaptırdıklarını beyan etmeleri durumunda ilgili il sağlık müdürlüğüne bilgi verilecektir.
 
-6) Kuduz riskli reiras nedeyle profilaksiye alnan kışiler, husahğm ciddiyeti ve așı geresbliği konusunda bilgilendirilecet, ve Ek 2'de ver alan Kuduz Bilgilendıme Fonna di nasha halinde düzenlenerek ımza aluna ahınacaktr. Bu formun bir nüshası kaşıye yu da yrsal tomauciarne ası kart de barlikte verlecck diğer nüshası ası uyguların sağlık kruluşunda muhafaza edileçektir
+8) Kuduz riskli temasa maruz kalarak ülkemizde kuduz profilaksisine alınan, ancak aşıları tamamlanmadan yurt dışına çıkacağını beyan eden kişilerle ilgili olarak ekte yer alan yabancı uyruklular için Kuduz Bilgilendirme Formu (Almanca, Fransızca, İngilizce, Rusça, Arapça şeklinde oluşturulan formlar) iki nüsha halinde düzenlenip imza altına alınarak formun bir nüshası kişiye ya da yasal temsilcisine Kuduz Aşı Takip Kartı (Ek 3) ile birlikte verilecektir. Kuduz riskli temaslı kişilerle ilgili yurtdışı bildirime yönelik herhangi bir işlem yapılmayacaktır.
 
-7) Kiluz aşısı takvimine uyum göstermeyenlete ılaşılerak aşdanıı yaptirtalan içi merkezlere dever edilecektın Kişilerin aşılarm başka bir ilde yapurdıklanmı beyan emmeleri durumunda dipin il saglik madaragune bilgi verilecektir.
+9) Kuduz riskli temas bildirimlerindeki mevcut uygulamalara yeni elektronik sisteme geçiş sağlanana kadar devam edilecek olup bu kapsamda kuduz riskli temas bildirimi ve takibini ilk profilaksi uygulamasının yapıldığı sağlık kuruluşu yapacaktır. Bu kapsamda, kuduz riskli temasa maruz kalan her kişi için Ek 4'te yer alan "Kuduz Riskli Temas Vaka İnceleme Formu" doldurulacaktır.
 
-8) Kuduz rekti teması monız kalorak älkemizde kudur profilaksisıne alıman, ančak aştlan tamamlanmadan yurt dışua çıkacağını beyan eden kişilerle ilgili olarak ekte yer alan yabancı
+10) Her ayın sonunda tedavisi tamamlanmış olanlar Ek 5'teki Kuduz Riskli Temas Aylık İzlem Formu ile Temel Sağlık İstatistik Modülü (TSİM) üzerinden Bakanlığımıza bildirilecektir.
 
-### TC SAGLIK BAKANLIGI HEalk Sagla Genel Mikkrogu
+11) Kuduz aşısı ve immunglobulin uygulamasına bağlı olarak gelişen istenmeyen etkilerde 2009/18 sayılı Aşı Sonrası İstenmeyen Etkiler (ASİE) Genelgesi doğrultusunda hareket edilecektir.
 
-uyruklular için Kuduz Bilgilendirme Formu (Almanca, Fransızea, Ingilizse, Rusça, Arapça şeklinde oluştandan Formlar) iki nüshe halinde düzenlemıp imza altına ahınarak formun bir nüskas) kiatyr ya dar yasal temsilcisine Kukuz Agı Takip Karu (Ek 3) ile birlikte verilecektir, Kuduz riskli témaslı kişilerle ilğili yurdışı bildirime yonelik herlangi bır işlem yapımtayacaktır.
+12) Olası kuduz vakaları en geç 24 saat içinde il sağlık müdürlüğüne telefon, faks gibi araçlarla ihbar edilecek, il sağlık müdürlüğü tarafından da en kısa sürede Bakanlığımız Zoonotik ve Vektörel Hastalıklar Dairesi Başkanlığına bildirim yapılacaktır. Olası kuduz vakaları ile ilgili derhal sürveyans çalışmalarına başlanacaktır.
 
-9) Kuduz riskli temaş bılderimlerindeki meveut uygulamafara yeni clektronik sizteme geçią sağlanana kadar devan edilecek ofup bu kapsanklı kuduz riskli temas bildini ve takibini ilk profilaksi uygulamasmın yapıldıgı sağlık kuruluşu yapacaktır. Bu kapsanıda, kuduz riskli temasa naruz kalan her kişi Için Ek 4Te yer alan "Kuduz Risklı Teras Vaka Inceleme Farmı" dn/durulseakte
+13) Kuduz hastalığından şüphelenilmesi durumunda kesin tanının konulabilmesi için laboratuvar doğrulamasının yapılması gerekmektedir. Bu sebeple; kuduz şüphesi ile takip edilen ve/veya ölen insanlardan "Kuduz Profilaksi Rehberi"nde belirtilen şekilde numuneler alınacak ve laboratuvar tanısı için belirlenmiş referans laboratuvara ulaştırılacaktır. Numuneler biyogüvenlik önlemleri altında ve soğuk zincir şartlarında en seri şekilde nakledilecektir.
 
-10) Her aym somanda tedavisi (umurdanıma olanlar Ek S tcki Kuduz Riskli Tomas Aylı) Izlem Foru ile Tenicl Sağlık Tatatiac) Modäli (TSİM) Gectinden Bakanhğmza bıldirilecektin.
+14) Kesin kuduz vakalarına dair hasta dosyası, laboratuvar sonuçları, profilaksi uygulanmışsa uygulamalara dair bilgileri içeren inceleme raporu Bakanlığımıza gönderilecektir.
 
-11) Kuduz aşısı ve mimunglobılin uygulomasına baglı olarak gelişen istenmeyen etkilerdr 2009,18 sayıı Aşı Scorası İstenmeyen Elkiler (ASIE), Genelgesi dogratusunda hareke
+15) İnsan ve hayvan kuduz vakasının tespit edilmesi durumunda filyasyon çalışmalarının ivedilikle gerçekleştirilmesi ve raporlanması, bunun dışındaki kuduz riskli temaslılarda;
+a) Bölgenin coğrafik konumu ve ulaşım durumu,
+b) Bölgede kuduz mihrakı bulunma durumu,
+c) Birden fazla kuduz riskli temaslının bulunması,
+d) Yaban hayvan kaynaklı kuduz riskli temasın olması vb.
+durumlar göz önüne alınarak vaka bazında değerlendirme yapılıp filyasyon çalışmalarının başlatılması sağlanacaktır. Bu çalışmalarda enfeksiyon hastalıkları uzmanından da destek alınacaktır.
 
-12) Olası kuduz vakalar en geç 24 sact içinde il sağlık müdürlüğüne telefon, faks gib araclarla ihbar edilcock. il sağlık müdürlügü marafnın du en kısa sürede Bakanlığımız Zoonoik ve Vektörel Hastalıkdar Dairesi Başkanlıgma bildırim sapılacaktır. Olası kuduz Vakalar de ilgılı derhal sürveyans ça şmalanma başlanacaktır.
+16) Çocuklarda görülen kuduz riskli temasların tercihen Çocuk Enfeksiyon Hastalıkları kliniklerinde veya Çocuk Sağlığı ve Hastalıkları kliniklerinde değerlendirilmesi, başta acil haller olmak üzere ihtiyaç duyulan hallerde hastaların yaş kısıtlaması olmaksızın çocuk veya erişkin branş hekimi tarafından değerlendirilmesi sağlanacaktır.
 
-13) Kuduz hastalığıdan şüphelenilmesi duramunda kesin tamımın konulabilmesı için tabantuvar doğralamasmm yapilması gerekmektedir, Bu sebeple, kuduz süpbesi ile takip edilen ve/veya olea insanlardan "Kuduz, Profitaksi Rehberi"nde belinilen sekilte nununcler alnacak ve laboratuvar tenışı gin behrienmış referans laboratuvara ulaştinlacaktır:. Numuneler biyogüvenlik alemleri alanda ve soğuk zimar sortlaanda en seri şekilde nakledilecektir.
+17) Kuduz riskli temasa sebep olan hayvanların müşahede altına alınarak müşahede sonundaki sağlık durumlarının bildirilmesi amacıyla İl/İlçe Tarım ve Orman Müdürlüklerine durum yeni elektronik bildirim sistemi kurulana kadar yazılı olarak bildirilmeye devam edilecektir. Bu konudaki yazışmalar kuduz riskli temas sonrası başvurunun yapıldığı ve profilaksi şemasının planlandığı sağlık kuruluşu tarafından yapılacaktır.
 
-14) Kesin kuduz vakalarina dair hasta dosyasi. laburatuvar sonuçlan, profiluksi vygekomossa uygulantalara dair bilgileri iceren inceleme raperu Bakanlığınea gürderilecektir.
+18) Riskli temas bildirilirken İl/İlçe Tarım ve Orman Müdürlüklerinden profilaksi yaklaşımına yön vermesi bakımından müşahede sonucunun bildirilmesi özellikle talep edilecektir.
 
-15) Insan ve hayvan kuduz vakasının tespit edılmesi durumunda fiyasyon çalışmaların Weifilikle gerşekleştirilnesa ve raporlanması, bunun dişındaki kuduz riskch temaslılarda;
+19) Evcil, sahipsiz ve yabani hayvanlarda; kuduzdan korunma amaçlı önlemler, koruyucu uygulamalar, hastalık bildirimi ve takibi, alınacak önlemler, aşılama, aşılı hayvanların tanımlanması, hastalıktan korunma ve hastalık ile mücadele çalışmalarında görev ve sorumluluklar Tarım ve Orman Bakanlığı tarafından 18/01/2012 tarihli ve 28177 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren "Kuduz Hastalığından Korunma ve Kuduz Hastalığı İle Mücadele Yönetmeliği" ile belirlenmiştir. Bu konuda Tarım ve Orman Bakanlığı'nın İl ve İlçe teşkilatlarıyla sürekli koordinasyon içerisinde çalışılacaktır.
 
-1) Bolgenin coğrafil kanume ve ulaşen duruniu,
+20) Sahipsiz hayvanların aşılanması, işaretlenmesi ve rehabilitasyonu ile ilgili düzenlemeler ise 5199 sayılı Hayvanları Koruma Kanunu ile 12/05/2006 tarihli ve 26166 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren Hayvanların Korunmasına Dair Uygulama Yönetmeliği ile yapılmıştır. Bu kapsamda kuduz hastalığı başta olmak üzere bütün zoonotik hastalıkların kontrolü amacıyla yasal düzenlemelerle verilen sorumluluklar kapsamında ilgili kurum ve kuruluşlarla işbirliği içerisinde hastalıkla mücadele çalışmaları sürdürülecektir.
 
-b) Bölgede kuduz mihrakı bulunma duruma,
+Kuduzla Mücadele ve Profilaksi Uygulamaları ile ilgili 12/11/2014 tarihli ve 2014/30 sayılı Genelge ve ekleri yürürlükten kaldırılmıştır.
 
-x) Birden fazla kuduz riskli retlastooi bulurmasi
-
-d) Yasan hayvan kaynaklı kudue riskli temasın olması kb.
-
-dununlar göz änüne ahnarak saka bezında değerlendirme yapıbp fiyasyon çalışmalarını başlatılması sağlanaçaktır. Bu çalışmalarda enfeksiyon hastalıklan uzmanandan da destek a/nacakor:
-
-16) Çocuklarda görden kuduz riskli temasların tercihan Çocuk Enfeksıyon Hastalıkları kliniklerinde Veya Çocuk Sağlığ ve Hastahklan kbniklerinde değerlendirilmesı, başta seil haller elmak üzere ihtiyaç dayulan hallerde hastaların yaş kısıtlaması olmaksızın çocuk seya crişkin brans bekim tarafndam değe endirilmesi sağlanacaktr
-
-17y Kuduz riskli temasa schen olan hayvanların müşahede altına alnarak müşallede somadaki sağle duromiannn bibrianesi amacyla iles Tarm ve Orman Madidükæenne durunı yeni elektronik baldirım sistemi kurulana kadar yucıh olarak bilchrılmeye devamı seilecckür, Bu konudaki yazışmalar kudaz riskli temas sonrası başvurunun jupedığı ve profilaksi somasınıi planlandğı saği k kuretusu karafimdan yapracaknr
-
-18) Riskli temas bildirilirken Wilce Tanm ve Orman Madirlüklennder profilacsi yaklaşımına yäu vermesı bakamından müşahede sonuzunım båldirlmesi özellikle talep edüncekher
-
-### T.C SAGLIK BAKANLIGI Röle Sağlıği Genel Mudürtuğa
-
-19) Eveil, sahipsiz ve yabaw hayvanlarda; kudurdun korunmu amaçh önlemler, konuyuzu uygulamular, Pastelık bildirimi ve takibı, alınacak ünlenler, aşlema, asır hastanlarn Mauylioması lestalktan köntraa ve hastalk He mücadele cahşmalarnda görey ve sarimlaklan Tonin ve Oman Bakanlığı taralindan 18/01/2011 sanhli xe 28177 sayilı Resmi Gazute'de savımlanarak yürürlüğe greni Kuduz Hastahığından Konanına ve Kuduz Hastalığı Ile Mücadele Yönetmeliği" de belirlenmiştir. Bu koruda Tanm ve Oman Bakankğr on Il ve liçe teşkilatlımyla sürekli koord nasyon ğenisınde çalıştiacakhr
-
-20) Sahipsia huyyanların uşlanması, işaretlenmesi ve rehabilitasyonu ile ilgili düzenlemeler ise 5199 savıde Hayvanlen Koruma Kanana de 12/05/2006 tarihli ve 26166 sayris Resmi Gazete'de yayılanarak увл giren Hayvanların Korunmaşına Dair Hygıama Yoremistige de yapılmıştir. Bu kapsanda küduz hastalığı haşta olmak üzere burün nosnouk Inmabıkların kontrolü amacıyla yasal düzenlemelerle verilen serantufuklar kapsamada dgili kurun ve kuruluşlarda isbirliğ) içerisinde hastatıkla aniteadele çlesmabır sentürilecekir
-
-Kuduzla Mücadele ve Profilaksı Uygulamadan Be ilgilı 12/11/2014 taribli ve 20 14250 sayilı Genelge ve eklen yürürlükten kaldırimehır.
-
-Bilgilerinizi ve bu Genelge'nia ekleri ile birlikte nün sağlk kurun ve kuruluslarina tebliği ile il dizeyınde Hygulamakarın Genelgeye uygun ofarak yürütülmesa basusunda;
+Bilgilerinizi ve bu Genelge'nin ekleri ile birlikte tüm sağlık kurum ve kuruluşlarına tebliği ile il düzeyinde uygulamaların Genelgeye uygun olarak yürütülmesi hususunda;
 
 Gereğini önemle rica ederim.
 
 Prof. Dr. Emine ALP MEŞE
 Bakan a.
-Bakan Yardımcısı 1: Kuduz Profilaksi Rehber (43 sayfa) 2- Kuduz Bilgilendirme Formu 3- Kuduz Aşı Takip Kartı
+Bakan Yardımcısı
 
-4- Kuduz Riskli Temas Vaka İnceleme Formu 5- Kuduz Riskli Temas Aylık İcmal Formu DAĞITIM:
-Gereği: A Planı
+Ekler:
+1- Kuduz Profilaksi Rehberi (43 sayfa)
+2- Kuduz Bilgilendirme Formu
+3- Kuduz Aşı Takip Kartı
+4- Kuduz Riskli Temas Vaka İnceleme Formu
+5- Kuduz Riskli Temas Aylık İzlem Formu
+
+Dağıtım:
+Gereği:
+A Planı

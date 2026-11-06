@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103443/akkiz-immun-yetersizligi-sendro
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C.

@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103807/il-saglik-mudurlugu-ve-birimler
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 9.2.2. İl Sağlık Müdürlüğü ve Birimleri Kurum Hizmet ve Teşvik Ek Ödeme Yönergesi

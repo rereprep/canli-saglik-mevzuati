@@ -7,6 +7,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-115968/organ-nakli-hizmetleri-yonetmel
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 konu: "Organ nakli ve bağışı hizmetleri ile bu hizmetleri sunan merkezlerin standart ve çalışma esaslarını düzenler."
 birim: "Sağlık Bakanlığı"
 sayi: "32038"

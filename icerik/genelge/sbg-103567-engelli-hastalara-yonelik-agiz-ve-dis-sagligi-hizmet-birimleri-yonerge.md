@@ -9,9 +9,30 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103567/engelli-hastalara-yonelik-agiz-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
+2.3.13. Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Yönergesi (2022/3)
 
+### T.C. SAĞLIK BAKANLIĞI
+#### Sağlık Hizmetleri Genel Müdürlüğü
+##### Ağız ve Diş Sağlığı Dairesi Başkanlığı
+
+**Sayı:** 67029623-199
+**Konu:** Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri
+
+### GENELGE
+**2022/3**
+
+Özel bakım ihtiyacı olan bireyler yaşam kalitesini doğrudan etkileyen ağız ve diş sağlığı hastalıkları açısından yüksek risk grubu içerisinde yer almaktadır. Ağız ve diş sağlığı hastalıklarının genel sağlık üzerine olumsuz etkileri olduğundan, bu bireylerin ağız ve diş sağlığının iyileştirilmesi ve var olan durumlarının korunması önemlidir.
+
+Bilindiği üzere; engelli hastalara yönelik ağız ve diş sağlığı hizmetleri, engelli hastaların evde sağlık hizmetleri ile birlikte evde muayeneleri, ayaktan başvurularda poliklinik muayeneleri, hastanın genel sistemik durumu ve kooperasyonu uygun ise poliklinik şartlarında ağız ve diş sağlığı tedavileri, genel anestezi gereken durumlarda ihtiyaç olunan konsültasyon hizmetleri, genel anestezi öncesi tahlil ve tetkikleri, genel anestezi altında diş tedavileri ve tedavi sonrası yatış işlemlerini kapsamaktadır.
+
+Bakanlığımızca sağlık kurum ve kuruluşları tarafından engelli hastalara yönelik ağız ve diş sağlığı hizmetlerinin bütüncül bir yaklaşımla güncel ihtiyaç ve beklentilere uygun olarak sunulmasını temin etmek üzere birimlerde görev yapacak asgari personel standardı, birimlerin fiziki şartları, bu birimlerin kurulması ve işleyişi ile buralarda görev yapacak personelin eğitimlerine ilişkin düzenleme yapılması gerektiği değerlendirilmiştir.
+
+Bu kapsamda engelli hastalara yönelik ağız ve diş sağlığı hizmet birimleri; hizmetin içeriği, personel standardı ve fiziki gereklilikler bakımından, ekte usul ve esasları belirtilen engelli polikliniği, engelli ünitesi ve engelli diş tedavi merkez olarak sınıflandırılmış olup poliklinik ve ünitenin ağız ve diş sağlığı hizmeti sunulan sağlık tesisleri bünyesinde; merkez ise Bakanlığımız planlamaları kapsamında uygun görülen yataklı sağlık tesisleri bünyesinde kurulmalıdır.
+
+---
 
 Sayı: 67029623-199 Konu: Engelli Hastalara Yönelik Ağız ve Diş
 
@@ -87,11 +108,11 @@ b) Hastanın sağlık kuruluşu içerisindeki tetkik, tedavi ve konsültasyon i�
 
 c) Yoğun bakım ihtiyacı olan hastaların idame tedavileri mümkünse aynı sağlık kuruluşu içerisinde, değilse en yakın sağlık kuruluşunda devam ettirilir.
 
-d) Il sağlık müdürlüğü veya sağlık tesislerindeki evde sağlık hizmeti için tahsis edilmiş ulaşım ve nakil araçları, ihtiyaç duyulması halinde engelli hastalara yönelik ağız ve diş sağlığı birimleriyle birlikte ortak kullanılabilir.
+d) İl Sağlık Müdürlüğü veya sağlık tesislerindeki evde sağlık hizmeti için tahsis edilmiş ulaşım ve nakil araçları, ihtiyaç duyulması halinde engelli hastalara yönelik ağız ve diş sağlığı birimleriyle birlikte ortak kullanılabilir.
 
 e) Acil durumlarda hasta, sağlık kuruluşunun kendi ambulansı veya 112 acil sağlık hizmetleri ambulansı ile nakledilir.
 
-1) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin yapıldığı polikliniklerde, genel anestezi altında yapılması planlanan dental işlemler için İl Sağlık Müdürlüğünce koordinasyon sağlanarak gerekli tahlil, tetkik, anestezi ve yatış hizmetlerini kapsayan kurumlar arası iş birliği protokolü düzenlenebilir.
+f) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemlerinin yapıldığı polikliniklerde, genel anestezi altında yapılması planlanan dental işlemler için İl Sağlık Müdürlüğünce koordinasyon sağlanarak gerekli tahlil, tetkik, anestezi ve yatış hizmetlerini kapsayan kurumlar arası iş birliği protokolü düzenlenebilir.
 
 g) Ayaktan başvuran hastaların ağız ve diş sağlığı muayeneleri ile tedavi işlemleri ile genel anestezi altında günübirlik dental işlemlerin yapıldığı ünitelerde, hastadan işlem öncesinde istenecek konsültasyon, tahlil ve tetkiklerin yapılması amacıyla İl Sağlık Müdürlüğünce kurumlar arasında iş birliği ve koordinasyon sağlanır.
 
@@ -105,4 +126,4 @@ j) Sorumlu hekim, hizmetin bir bütün olarak planlanıp yürütülmesinden ve b
 
 a) Birimde görevlendirilen personel, bu Genelgede belirlenen görev ve sorumlulukların gerektirdiği bilgi, beceri ve tutumların kazandırılması, engelli hastalara yönelik ağız ve diş sağlığı alanındaki yeniliklerin takip edilmesi, personel arasında bilgi ve uygulama birlikteliğinin sağlanması amacıyla Bakanlığımızca oluşturulan engelli hastalara yönelik ağız ve diş sağlığı bilim komisyonunca belirlenen eğitimlere katılım sağlamalıdır.
 
-b) Birimde görev yapan personelin, eğitimlerinin en fazla beş yılda bir yenilenmesi gerekir. Eğitimlerin düzenlenmesi ve duyurulması Genel Müdürlüğümüzce yapılacaktır
+b) Birimde görev yapan personelin, eğitimlerinin en fazla beş yılda bir yenilenmesi gerekir. Eğitimlerin düzenlenmesi ve duyurulması Genel Müdürlüğümüzce yapılacaktır.

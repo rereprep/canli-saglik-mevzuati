@@ -12,23 +12,20 @@ kaynak_pdf_sayfa: "545-547"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## PERFORMANS İTİRAZ KOMİSYONU ÇALIŞMA USULÜ VE ESASLARI
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-SAĞLIK BAKANLIĞI
+**Sayı :** 19831278/045.01  
+**Konu :** Performans İtiraz Komisyonu Usulü ve Esasları  
 
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı: 19831278/045.01
-
-06.12.2024
-
-Konu: Performans İtiraz Komisyonu Usulü ve Esasları
-
-### ........ VALİLİĞİNE (İl Sağlık Müdürlüğü)
+### .................... VALİLİĞİNE  
+(İl Sağlık Müdürlüğü)
 
 İlgi: 29/05/2014 tarihli ve 37694 sayılı yazımız.
 
@@ -82,37 +79,35 @@ Bu kapsamda performans kesintilerine yönelik yapılacak olan itirazlar ile düz
 
 **b)** Komisyon başkanının görevli, izinli veya raporlu olduğu durumlarda yerine bakan Halk Sağlığı Hizmetleri Başkan Yardımcısı komisyon başkanı olacak Başkan Yardımcısı yok ise İzleme Değerlendirme ve İstatistik Birimi/Aile Hekimliği/Toplum Sağlığı ve Halk Sağlığı Hizmetleri Birim sorumlusu komisyona başkanlık edecektir. Komisyon üyelerinin görevli, izinli veya raporlu olması durumunda komisyona vekilleri katılacaktır.
 
-**2)** Komisyonla ilgili sekretarya işlemleri İzleme Değerlendirme ve İstatistik Birimince, bu birimin bulunmadığı illerde sırasıyla Aile Hekimliği, Toplum Sağlığı ve Halk Sağlığı Hizmetleri Birimi tarafından yürütülecektir.
+**3)** Komisyonla ilgili sekretarya işlemleri İzleme Değerlendirme ve İstatistik Birimince, bu birimin bulunmadığı illerde sırasıyla Aile Hekimliği, Toplum Sağlığı ve Halk Sağlığı Hizmetleri Birimi tarafından yürütülecektir.
 
-**3)** Aile hekimleri ve aile sağlığı çalışanları Sağlıkta İstatistik ve Nedensel Analizler (SİNA) sisteminden ilgili ay için tespit edilen performans verilerinin ilçe sağlık müdürlüğü/ toplum sağlığı merkezi tarafından incelenmesi varsa eksik belgelerin zamanında tamamlattırılması açısından performansın ait olduğu ay içinde veya Bakanlıkça sabitlenmesini takip eden en geç ilk iş günü içerisinde itiraz dilekçelerini ve eklerini bağlı olduğu ilçe sağlık müdürlüğü/ toplum sağlığı merkezine elden veya Doküman Yönetim Sistemi (DYS) üzerinden ulaştıracaktır.
+**4)** Aile hekimleri ve aile sağlığı çalışanları Sağlıkta İstatistik ve Nedensel Analizler (SİNA) sisteminden ilgili ay için tespit edilen performans verilerinin ilçe sağlık müdürlüğü/ toplum sağlığı merkezi tarafından incelenmesi varsa eksik belgelerin zamanında tamamlattırılması açısından performansın ait olduğu ay içinde veya Bakanlıkça sabitlenmesini takip eden en geç ilk iş günü içerisinde itiraz dilekçelerini ve eklerini bağlı olduğu ilçe sağlık müdürlüğü/ toplum sağlığı merkezine elden veya Doküman Yönetim Sistemi (DYS) üzerinden ulaştıracaktır.
 
-**4)** Aile hekimlerince iletilen her bir kişi ve izlem için ayrı ayrı olmak üzere düzenlenen itiraz dilekçeleri ekleri ile birlikte ilçe sağlık müdürlüğü/toplum sağlığı merkezi tarafından evrakın doğruluğunun incelenmesi, onaylanması ve (konusuna göre Yerinde Tespit Tutanağı (Ek-13) ve Bağışıklama/İzlem Bilgilendirme Tutanağının (Ek-12) doldurulması) eksik belgelerin tamamlatılmasından sonra iki iş günü içinde Halk Sağlığı Hizmetleri Başkanlığına elden veya DYS’den ulaştırılacaktır.
+**5)** Aile hekimlerince iletilen her bir kişi ve izlem için ayrı ayrı olmak üzere düzenlenen itiraz dilekçeleri ekleri ile birlikte ilçe sağlık müdürlüğü/toplum sağlığı merkezi tarafından evrakın doğruluğunun incelenmesi, onaylanması ve (konusuna göre Yerinde Tespit Tutanağı (Ek-13) ve Bağışıklama/İzlem Bilgilendirme Tutanağının (Ek-12) doldurulması) eksik belgelerin tamamlatılmasından sonra iki iş günü içinde Halk Sağlığı Hizmetleri Başkanlığına elden veya DYS’den ulaştırılacaktır.
 
-**5)** İtirazlar komisyon tarafından incelenerek en geç itirazları takip eden 2 iş günü içerisinde karara bağlanacaktır.
+**6)** İtirazlar komisyon tarafından incelenerek en geç itirazları takip eden 2 iş günü içerisinde karara bağlanacaktır.
 
-**6)** İtirazlar ile ilgili komisyon kararı, ilgili birimlere itirazların sonuçlandığı günün ertesi iş günü iletilecektir. Komisyon kararları aile hekimleri/aile sağlığı çalışanlarının ödemeleri ile ilgili birim tarafından aynen uygulanacaktır.
+**7)** İtirazlar ile ilgili komisyon kararı, ilgili birimlere itirazların sonuçlandığı günün ertesi iş günü iletilecektir. Komisyon kararları aile hekimleri/aile sağlığı çalışanlarının ödemeleri ile ilgili birim tarafından aynen uygulanacaktır.
 
-**7)** Herhangi bir nedenle, belirlenen tarihten sonra yapılan itiraz başvuruları bir sonraki komisyon toplantısına sunulmak üzere değerlendirilecektir.
+**8)** Herhangi bir nedenle, belirlenen tarihten sonra yapılan itiraz başvuruları bir sonraki komisyon toplantısına sunulmak üzere değerlendirilecektir.
 
-**8)** İtiraz başvurusu için en son tarih ödemenin gerçekleşmesinden sonraki 60 gündür.
+**9)** İtiraz başvurusu için en son tarih ödemenin gerçekleşmesinden sonraki 60 gündür.
 
-**9)** Olağandışı durumlarda toplantı günü ve saati değişiklik gösterebilir.
+**10)** Olağandışı durumlarda toplantı günü ve saati değişiklik gösterebilir.
 
-**10)** Toplantı kararları üye sayısının salt çoğunluğunun uygun görüşü ile alınacaktır.
+**11)** Toplantı kararları üye sayısının salt çoğunluğunun uygun görüşü ile alınacaktır.
 
-**11)** Aile hekimleri ve aile sağlığı çalışanlarınca iletilen itiraz formunda istenilen belgeler eksiksiz olarak gönderilecek, eksik belgesi olan müracaatlar, belgeler tamamlanıncaya kadar değerlendirmeye alınmayacaktır.
+**12)** Aile hekimleri ve aile sağlığı çalışanlarınca iletilen itiraz formunda istenilen belgeler eksiksiz olarak gönderilecek, eksik belgesi olan müracaatlar, belgeler tamamlanıncaya kadar değerlendirmeye alınmayacaktır.
 
-**12)** Komisyonda alınan kararlar İl Sağlık Müdürlüğü resmi internet sayfasında Kişisel Verilerin Korunması Kanunu kapsamında düzenlenerek ilan edilecek, aile hekimlerine ve aile sağlığı çalışanlarına tebliğ edilmiş sayılacaktır.
+**13)** Komisyonda alınan kararlar İl Sağlık Müdürlüğü resmi internet sayfasında Kişisel Verilerin Korunması Kanunu kapsamında düzenlenerek ilan edilecek, aile hekimlerine ve aile sağlığı çalışanlarına tebliğ edilmiş sayılacaktır.
 
-**13)** Komisyon başkanı tarafından gerekli görüldüğü hallerde, komisyona asil üyeler dışında görüş ve önerilerine başvurulmak üzere (SİNA sisteminden verilerin alınmasında görevli olan bilgi işlem personeli gibi) katılımcı davet edilebilecektir. Teknik katılımcının oy kullanma yetkisi bulunmamakla birlikte komisyona katıldığına dair tutanağı imzalayacaktır.
+**14)** Komisyon başkanı tarafından gerekli görüldüğü hallerde, komisyona asil üyeler dışında görüş ve önerilerine başvurulmak üzere (SİNA sisteminden verilerin alınmasında görevli olan bilgi işlem personeli gibi) katılımcı davet edilebilecektir. Teknik katılımcının oy kullanma yetkisi bulunmamakla birlikte komisyona katıldığına dair tutanağı imzalayacaktır.
 
-**14)** Komisyonda alınan kararlar komisyon üyeleri tarafından imza altına alınacak ve dosyada saklanacaktır.
+**15)** Komisyonda alınan kararlar komisyon üyeleri tarafından imza altına alınacak ve dosyada saklanacaktır.
 
-**15)** Komisyon kararları, karar tarihinden itibaren en geç 15 (on beş) gün içerisinde elektronik ortamda hsgm.izleme@saglik.gov.tr internet adresine, imzalı karar tutanağı ve Ek-14 Tablo Örneği doldurularak gönderilecektir.
+**16)** Komisyon kararları, karar tarihinden itibaren en geç 15 (on beş) gün içerisinde elektronik ortamda hsgm.izleme@saglik.gov.tr internet adresine, imzalı karar tutanağı ve Ek-14 Tablo Örneği doldurularak gönderilecektir.
 
-**16)** İtiraz dilekçeleri/formları ve ekleri sadece performans itirazları için komisyonda değerlendirilecek olup farklı bir işlem için kullanılmayacaktır.
-
-**17)** Komisyon kararına itiraz ancak ek bilgi ve belge olması durumunda ve bir sonraki toplantıya kadar aynı komisyona yapılacak olup komisyon tarafından tekrar değerlendirilerek karara bağlanacaktır.
+**17)** İtiraz dilekçeleri/formları ve ekleri sadece performans itirazları için komisyonda değerlendirilecek olup farklı bir işlem için kullanılmayacaktır.
 
 **18)** Halk Sağlığı Hizmetleri Başkanlığı, bu talimatın uygulanmasını sağlamak üzere alt düzenlemeler yapmaya yetkilidir. Bu düzenlemeler, İl Sağlık Müdürlüğü resmi internet sayfasında ilan edilir, ilan tarihinde aile hekimlerine ve aile sağlığı çalışanlarına ve ilgililerine tebliğ edilmiş sayılır.
 
@@ -120,13 +115,11 @@ Bu kapsamda performans kesintilerine yönelik yapılacak olan itirazlar ile düz
 
 Bilgilerini ve gereğini rica ederim.
 
-Doç. Dr. Muhammed Emin DEMİRKOL
+Doç. Dr. Muhammed Emin DEMİRKOL  
+Bakan a.  
+Halk Sağlığı Genel Müdürü  
 
-Bakan a.
-
-Halk Sağlığı Genel Müdürü
-
-Ek:
+**EKLER:**
 
 1. Aile Hekimliği Uygulaması Performans Değerlendirmesi İtiraz Nedenleri Ve Sunulması Gereken Evrak (2 sayfa)
 2. Aile Hekimliği Uygulaması Performans İtiraz Formu (1 sayfa)
@@ -149,6 +142,6 @@ Bu belge, güvenli elektronik imza ile imzalanmıştır. Belge doğrulama kodu: 
 
 ---
 
-Yazı eklerine aşağıdaki adresten ulaşablirsiniz.
+Yazı eklerine aşağıdaki adresten ulaşabilirsiniz.
 
 https://hsgm.saglik.gov.tr/tr/easm-faaliyetleri/performans-itiraz-komisyonu-usul-esaslari.html

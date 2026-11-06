@@ -11,6 +11,7 @@ duzeltildi: true
 sayi: "2018/18"
 tarih: "2018-06-04"
 konu: "Tedarik Paylaşım Platformunun kullanıcılarını ve ilaç ve tıbbi sarf malzemelerinin iller arasında paylaşım usulünü düzenler."
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -39,7 +40,7 @@ numaraları ile giriş yapılır.
 
 b) Kullanıcılar platform üzerinden paylaşılan ürünleri incelemelidir.
 
-c) Sistemden talep gönderme işlemi yapması halinde; 'Ilgili Taşınır Kayıt Yetkilisi ile irtibat
+c) Sistemden talep gönderme işlemi yapması halinde; 'İlgili Taşınır Kayıt Yetkilisi ile irtibat
 
 kurunuz' uyarısı alınır.
 
@@ -47,53 +48,43 @@ d) Sadece Katalog Görüntüleme ekranını görülür.
 
 2. Medikal Depo Stok Yönetimi Uzmanı/Sorumlusu
 
-a) 81 Il Sağlık Müdürlüğünde görevli medikal depo stok yönetimi uzmanı/sorumlusu
-
-### tarafından sisteme T.C. kimlik numarası ve MKYS şifresi ile giriş yapılır.
+a) 81 İl Sağlık Müdürlüğünde görevli medikal depo stok yönetimi uzmanı/sorumlusu tarafından sisteme T.C. kimlik numarası ve MKYS şifresi ile giriş yapılır.
 
 b) Paylaşımda bulunan illerin katalogları görülür.
 
-c) Sistemden ilgili illere talep gönderme yetkisine sahiptir. Tedarik Planlama, Stok ve Lojistik Yönetimi Daire Başkanlığı Ayrıntılı Bilgi için irtibat: Aysun OZKAN Sağlık Bakanlığı Bilkent Yerleşkesi Üniversiteler Mahallesi E-posta: stok.yonetim@saglik.gov.tr
+c) Sistemden ilgili illere talep gönderme yetkisine sahiptir.
 
-6001. Cadde. No:3 Kat:1 Çankaya / ANKARA Tel: 0312 565 03 81
-
-### SAĞLIK BAKANLIĞI Kamu Hastaneleri Genel Müdürlüğü
-
-TC. Sağlık Bakanlığı Sayı : 80981279 Konu : Tedarik Paylaşım Platformu.
-
-d) Ile ait ihale eksilişi miktarları paylaşılarak, gelen talepler onaylanır.
+d) İle ait ihale eksilişi miktarları paylaşılarak gelen talepler onaylanır.
 
 e) Özellikle mücbir sebep ile tedarikte sorun yaşayan illere öncelik tanınır.
 
 f) Kullanıcılar dönemsel olarak kendi iline ait giriş ve çıkış işlemlerini takip etmelidir.
 
-g) Katalog görüntüleme, iş eksilişi kalemi paylaşma ve talep gönderme işlemlerini yapılır.
+g) Katalog görüntüleme, iş eksilişi kalemi paylaşma ve talep gönderme işlemleri yapılır.
 
 3. Tedarik Paylaşım Birim Uzmanı
 
-a) Paylaşımda bulunan Il Sağlık Müdürlükleri Tedarik Paylaşım Birim uzmanları tarafından
+a) Paylaşımda bulunan İl Sağlık Müdürlüklerinin Tedarik Paylaşım Birim uzmanları tarafından sisteme T.C. kimlik numarası ve MKYS şifreleri ile giriş yapılır.
 
-sisteme T.C. kimlik numarası ve MKYS şifreleri ile giriş yapılır.
-
-b) Ihale bilgileri, sözleşme bilgileri girilir.
+b) İhale bilgileri ve sözleşme bilgileri girilir.
 
 c) 81 il ile paylaşılacak katalog ürün miktarlarına karar verilir.
 
 d) Gelen talepler değerlendirilir.
 
-e) Ozellikle mücbir sebep ile tedarikte sorun yaşayan illere öncelik tanınır.
+e) Özellikle mücbir sebeple tedarikte sorun yaşayan illere öncelik tanınır.
 
 f) Paylaşımda bulunan diğer il katalogları görülür ve talep gönderilir.
 
 g) Tüm ekranları görme ve işlem yapma yetkisine sahiptir.
 
-### B) PLATFORM IŞLEMLERI
+### B) PLATFORM İŞLEMLERİ
 
 1. Tedarik Birimleri Paylaşım İşlemleri
 
-a) Ihale ve sözleşme bilgileri alanları eksiksiz olarak doldurulmalıdır.
+a) İhale ve sözleşme bilgileri alanları eksiksiz olarak doldurulmalıdır.
 
-b) Ilaç veya tıbbi sarf ekleme ekranı üzerinden paylaşılacak ürünler eklenir.
+b) İlaç veya tıbbi sarf ekleme ekranı üzerinden paylaşılacak ürünler eklenir.
 
 c) Her kalem için resim yükleme işlemleri yapılır. Resimleri yüklenmeyen ilaç ve tıbbi sarf
 
@@ -101,7 +92,7 @@ malzemeler katalog ekranına yansımayacaktır.
 
 2. İş Eksilişi Paylaşım İşlemleri
 
-a) 81 Il Sağlık Müdürlüğünde görevli medikal depo stok yönetimi uzmanı/sorumlusu tarafından mevcut ihalelere ait iş eksilişi kalemleri belirlenir.
+a) 81 İl Sağlık Müdürlüğünde görevli medikal depo stok yönetimi uzmanı/sorumlusu tarafından mevcut ihalelere ait iş eksilişi kalemleri belirlenir.
 
 b) Belirlenen kalemler ihale sözleşme bitiş tarihinden en az 45 (kırk beş) gün önce TPP sisteminde bulunan ihale işlemleri bölümüne yüklenmelidir. Her kalem için resim yükleme işlemleri yapılmalıdır. Resimleri yüklenmeyen ilaç ve tıbbi sarf malzemeler katalog ekranına yansımayacaktır.
 
@@ -119,15 +110,9 @@ b) Paylaşımda bulunan uzman/sorumlu kendisine gelen talepleri birim derecelend
 
 sırasına göre değerlendirmelidir.
 
-c) Talep değerlendirme işlemlerinde karşılıklı mutabakata varılması gerekmektedir. Tedarik Planlama, Stok ve Lojistik Yönetimi Daire Başkanlığı Ayrıntılı Bilgi için irtibat: Aysun ÖZKAN Sağlık Bakanlığı Bilkent Yerleşkesi Üniversiteler Mahallesi E-posta: stok.yonetim@saglik.gov.tr
+c) Talep değerlendirme işlemlerinde karşılıklı mutabakata varılması gerekmektedir.
 
-6001. Cadde. No:3 Kat:1 Çankaya / ANKARA Tel: 0312 565 03 81
-
-### SAĞLIK BAKANLIĞI Kamu Hastaneleri Genel Müdürlüğü
-
-TC Sağlık Bakanlığı Sayı : 80981279 Konu : Tedarik Paylaşım Platformu.
-
-4. Devir Işlemleri
+4. Devir İşlemleri
 
 a) Tedarik paylaşım ve iş eksiliş işlemlerinde 'Tedarik Paylaşım Devir Çıkış/ Devir Giriş' MKYS hareket türü ile işlem tesis edilmelidir.
 
@@ -137,9 +122,9 @@ c) Kargo işlem ücretleri devir alan illere aittir.
 
 d) Devir eden kurum en az 6 ay miatlı ürün göndermek zorundadır.
 
-Gönderilen ürünlerin miadı uzun olacağından ve talepler azami stok uygulamasına uygun olarak yapılacağından, TPP üzerinden temin edilen ürünlerde miat uzatımı vb. işlemler yapılmayacaktır.
+e) Gönderilen ürünlerin miadı uzun olacağından ve talepler azami stok uygulamasına uygun olarak yapılacağından, TPP üzerinden temin edilen ürünlerde miat uzatımı vb. işlemler yapılmayacaktır.
 
-f) Piyasa gözetim denetim ve vijilans süreçleri devir alan illere aittir.
+f) Piyasa gözetim, denetim ve vijilans süreçleri devir alan illere aittir.
 
 5. Ödenek Aktarım İşlemleri Aşağıda sıralanan işlemler Sağlık Bakanlığı Merkez Teşkilatı ilgili birimleri tarafından
 
@@ -147,7 +132,7 @@ a) TPP kapsamında bedelsiz olarak gerçekleşen devir işlemlerinde devir eden 
 
 b) Ay sonunda idarenin devir ettiği kadar bedel, devir alan idarenin ödeneğinden mahsup edilerek devir eden idareye aktarılır.
 
-Bakanlık, Il Sağlık Müdürlükleri ve bağlı sağlık tesislerinde Tedarik Paylaşım Platformu ışlemlerının yukarıda belirtilen düzenlemeler çerçevesinde yürütülmesi hususunda;
+Bakanlık, İl Sağlık Müdürlükleri ve bağlı sağlık tesislerinde Tedarik Paylaşım Platformu işlemlerinin yukarıda belirtilen düzenlemeler çerçevesinde yürütülmesi hususunda;
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
@@ -155,6 +140,10 @@ Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a
 
-Müste amn. Dağıtım: Gereği: Bilgi: 81 Il Valiliği (I1 Sağlık Müdürlüğüi) B Planı Tedarik Planlama, Stok ve Lojistik Yönetimi Daire Başkanlığı Ayrıntılı Bilgi için irtibat: Aysun OZKAN Sağlık Bakanlığı Bilkent Yerleşkesi Üniversiteler Mahallesi E-posta: stok.yonetim@saglik.gov.tr
+Müsteşar
 
-6001. Cadde. No:3 Kat: 1 Çankaya / ANKARA Tel: 0312 565 03 81
+### DAĞITIM
+
+Gereği: 81 İl Valiliği (İl Sağlık Müdürlüğü)
+
+Bilgi: B Planı

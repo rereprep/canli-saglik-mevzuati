@@ -2,8 +2,9 @@
 id: "saglik-bakanligi-birinci-basamak-saglik-kuruluslarina-ad-verilmesi-hakkinda-yonerge"
 baslik: "Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge"
 tur: "yonerge"
+tarih: "2019-05-15"
 konu: "Birinci basamak sağlık kuruluşlarına ad verilmesi, bağışla yapılan binaların adlandırılması ve plaket asılmasına ilişkin usul ve esaslar."
-sayi: "58271140"
+sayi: "58271140-020-652"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 399-403"
@@ -11,6 +12,7 @@ kaynak_pdf_sayfa: "405-409"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## SAĞLIK BAKANLIĞI BİRİNCİ BASAMAK SAĞLIK KURULUŞLARINA AD VERİLMESİ HAKKINDA YÖNERGE
@@ -21,7 +23,7 @@ SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
 
-Sayı: 58271140
+Sayı: 58271140-020-652
 
 Konu: Sağlık Bakanlığı Birinci Basamak Sağlık Kuruluşlarına Ad Verilmesi Hakkında Yönerge
 
@@ -41,7 +43,7 @@ Genel Müdür
 
 Uygun görüşle arz ederim.
 
-[?]/05/2019
+07/05/2019
 
 Prof. Dr. Emine ALP MEŞE
 

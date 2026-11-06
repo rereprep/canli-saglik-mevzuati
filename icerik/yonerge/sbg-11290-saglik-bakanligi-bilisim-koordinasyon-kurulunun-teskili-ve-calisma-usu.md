@@ -9,6 +9,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 konu: "Düzenlemenin amacı ve kapsamı ile uygulama usul ve esaslarını belirler."
 tarih: ""
 sayi: ""

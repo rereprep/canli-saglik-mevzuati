@@ -24,8 +24,6 @@ jobs:
         with:
           python-version: "3.12"
       - id: tara
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python araclar/rg_takip.py --gun "${{ github.event.inputs.gun || '1' }}"
       - if: steps.tara.outputs.eklenen != '0'
         uses: peter-evans/create-pull-request@v7

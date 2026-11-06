@@ -11,12 +11,13 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 355-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B100TSH0160001 / 14060
+Sayı : B100TSH0160001 / 14030
 Tarih: 18.06.2007
 Konu : Acil Sağlık Hizmetleri
 
@@ -24,7 +25,7 @@ VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
 ### GENELGE
-2007/47
+**2007/47**
 
 Acil hastalık ve yaralanma, trafik kazası gibi insan hayatını doğrudan tehdit eden bir çok olayda, acil tıbbi yardımın yerinde ve en kısa sürede başlatılması, hasta ya da yaralının uygun ekipman ve personel yardımıyla tedavi kurumlarına taşınması, tedavi kurumlarında bekletilmeden gereken müdahalenin yapılması, hayat kurtarma zincirinin vazgeçilmez halkalarıdır.
 

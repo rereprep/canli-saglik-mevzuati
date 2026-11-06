@@ -2,6 +2,7 @@
 id: "sbg-103500-kirim-kongo-kanamali-atesi-genelgesi-2008-52"
 baslik: "Kırım-Kongo Kanamalı Ateşi Genelgesi (2008/52)"
 tur: "genelge"
+tarih: "2008-07-09"
 sayi: "2008/52"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kırım-Kongo Kanamalı Ateşi (KKKA) vakalarında risk değerlendirmesi, kene tutunması sonrası yapılacak işlemler ve izlem ilkelerini düzenler."
@@ -10,9 +11,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103500/kirim-kongo-kanamali-atesi-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-6.3.32. Kırım-Kongo Kanamalı Ateşi Genelgesi (2008/52)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü

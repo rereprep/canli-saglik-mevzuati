@@ -9,6 +9,7 @@ konu: "Halk Sağlığı Hizmetlerine Yönelik Laboratuvarların Çalışma Usul 
 etiketler: ["halk-sagligi", "laboratuvar"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 289-301"
 durum: "yürürlükte"
+kontrol_edildi: true
 ---
 
 Resmî Gazete Tarihi: 09.03.2019 Resmî Gazete Sayısı: 30709

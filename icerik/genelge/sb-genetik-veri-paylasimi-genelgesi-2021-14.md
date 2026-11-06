@@ -10,7 +10,17 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 271-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
+### T.C. SAĞLIK BAKANLIĞI
+#### Sağlık Hizmetleri Genel Müdürlüğü
+
+**Sayı :** 83913885-010.06.02/
+**Konu :** Genetik Veri Paylaşımı
+
+### GENELGE
+**2021/14**
 
 Bireye ait genomdan hücre çekirdeğinden ya da mitokondrisinden kodlanan DNA ve RNA diziliminin tamamı ile Protein diziliminden elde edilen bilgilerin tamamı ya da bir kısmı genetik veri olarak değerlendirilmektedir. DNA ve/veya RNA’da meydana gelen germline veya somatik tüm genomik değişiklikler de genetik veri kapsamında değerlendirilmektedir.
 
@@ -46,7 +56,7 @@ aktarımı kimin denetleyeceği (veri erişim komitesi, vb.), kişisel verileri 
 
 Bilgilerini ve gereğini önemle rica ederim.
 
-Prof. Dr. Sab attin AYDIN
+Prof. Dr. Sabahattin AYDIN
 
 Bakan a.
 

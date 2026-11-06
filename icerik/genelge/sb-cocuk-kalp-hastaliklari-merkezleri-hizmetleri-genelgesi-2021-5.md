@@ -10,9 +10,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 214-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-2.3.31. Çocuk Kalp Hastalıkları Merkezleri Hizmetleri Genelgesi (2021/5)
 
 ### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -20,7 +19,8 @@ Sayı : E-83913885 Konu : Çocuk Kalp Hastalıkları
 
 Merkezleri Hizmetleri
 
-### GENELGE 2021/5
+### GENELGE
+**2021/5**
 
 Bakanlığımızca kalp merkezlerinin planlaması, kurulumu ve işleyişi ile ilgili usul ve esasları düzenleyen 18.07.2019 tarihli ve 80118214-060.04-457 (2019/14) sayılı "Kalp Merkezi Hizmetleri Genelgesi" yayımlanmış olup erişkin kalp merkezi ve çocuk kalp hastalıkları merkezi ayrımı yapılmaksızın tüm iş ve işlemler ilgili Genelge kapsamında yürütülmektedir.
 
@@ -130,7 +130,9 @@ Bakanlıkça faaliyet izni verilen çocuk kalp hastalıkları merkezleri, bünye
 
 Çocuk kalp hastalıkları merkezleri, Bakanlıkça gerekli hallerde Komisyona ve Bakanlık denetim birimlerine yaptırılacak olağan ve olağan dışı denetimler haricinde işleyiş ile alakalı iki yılda bir Ek-4 "Çocuk Kalp Hastalıkları Merkezi Yerinde Denetim ve Degerlendirme Formu"na göre müdürlükçe olağan denetime tabi tutulur. Müdürtük, denetim sonuçlarını değerlendirir ve tespit edilen sorun ve aksakhklarla ilgili gerekli tedbirleri alır. Lüzumu halinde denetim sonuçlarını raporlar ve Bakanlığa bildirir.
 
-### Müdürlük, denetimlerin gerçeğe uygun olarak düzenlenmesinden sorumludur. ÇOCUK KALP HASTALIKLARI MERKEZİ YOĞUN BAKIM SERVİSİ HİZMETLERİ
+Müdürlük, denetimlerin gerçeğe uygun olarak düzenlenmesinden sorumludur.
+
+### ÇOCUK KALP HASTALIKLARI MERKEZİ YOĞUN BAKIM SERVİSİ HİZMETLERİ
 
 Bünyesinde çocuk kalp merkezi açılacak sağlık tesislerinde 20/07/2011 tarih ve 28000 sayılı Resmi Gazete'de yayımlanan Yataklı Sağlık Tesislerinde Yoğun Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkıda Tebliğine göre tescil edilmiş üçüncü seviye kalp ve damar cerrahisi yoğun bakım servisi kurulur.
 
@@ -148,13 +150,13 @@ Koordinatör çocuk kalp hastalıkları merkezi, Bakanlığa veya talep edilir i
 
 Yeni açılacak çocuk kalp hastalıkları merkezindeki iş ve işlemler, çocuk kalp hastalıkları merkezinin koordinatör uzman tabibi ve koordinatör çocuk kalp hastalıkları merkezinin iş birliği içinde yapılır. Bu amaçla yeni açılacak çocuk kalp hastalıkları merkezinin açılış aşamasında koordinatör çocuk kalp hastalıkları merkezinden bir ekip belirlenir.
 
-### Sağlık tesisi yönetimi tarafindan ekip üyeleri gerektiğinde değiştirilebilir, ekibe yeni
+Sağlık tesisi yönetimi tarafından ekip üyeleri gerektiğinde değiştirilebilir, ekibe yeni
 
 üyeler eklenir veya çıkartılabilir.
 
 Yeni açılacak çocuk kalp hastalıklan merkezindeki uzman tabip ve tabip dışı personel, gerektiğinde koordinatör çocuk kalp hastalıkları merkezi tarafından eğitime tabi tutulur ve eğitim süresi yeterliliği koordinatör çocuk kalp hastalıkları merkezi tarafından belirlenir.
 
-### Yeni açılacak çocuk kalp hastalıkları merkezinde müdahale edilecek vaka olduğunda
+Yeni açılacak çocuk kalp hastalıkları merkezinde müdahale edilecek vaka olduğunda
 
 hastanın tıbbi bilgileri, girişimsel kardiyolojik işlemler ve diğer gerekli görülen tetkik ve tahliller koordinatör çocuk kalp hastalıkları merkezindeki ekibe gönderilir. Ortak karar ile hastaya yapılacak tedavi belirlenir. Bu doğrultuda gereklilik halinde koordinatör çocuk kalp hastalıklan merkezindeki ekip işleme dáhil olur.
 
@@ -162,28 +164,32 @@ Koordinatör çocuk kalp hastalıkları merkezinin uygun görduğu durumlarda ye
 
 Koordinatör çocuk kalp hastalıkları merkezinin koordinasyon görevi; yeni açılacak çocuk kalp hastalıkları merkezinin, cerrahi ve girişimsel uygulamalar ile hizmet sunum bakımimdan fonksiyonel ve yeterli bir kurumsal yapılanması sağlanana kadar devam eder.
 
-### G) ÇOCUK KALP HASTALIKLARI MERKEZİ KONSEY KURULMASI VE ÇALIŞMA PRENSİBI Çocuk kalp hastalıkları merkezi bünyesinde gerçekleştirilecek tıbbi işlemlerin birlikte
+### G) ÇOCUK KALP HASTALIKLARI MERKEZİ KONSEYİ KURULMASI VE ÇALIŞMA PRENSİBİ
+
+Çocuk kalp hastalıkları merkezi bünyesinde gerçekleştirilecek tıbbi işlemlerin birlikte
 
 ve koordineli yapılabilmesi ve hastalara en doğru tedavinin uygulanması için ortak konsey oluşturulur.
 
-### Çocuk kalp hastalıkları merkezi konseyi, en az bir çocuk kardiyolojisi uzmanı ve en az
+Çocuk kalp hastalıkları merkezi konseyi, en az bir çocuk kardiyolojisi uzmanı ve en az
 
 iki çocuk kalp ve damar cerrahisi uzmanından oluşur. Sağlık tesislerinde görevli ilgili tüm uzmanlar konseyin doğal üyesidir.
 
-### Konsey üyeleri dönüşümlü olarak konseye başkanlık yapar. Konseyin çalışma programı
+Konsey üyeleri dönüşümlü olarak konseye başkanlık yapar. Konseyin çalışma programı
 
 sağlık tesisi yönetimine bildirilir.
 
-### Günlük yapılan girişimsel kardiyolojik işlem sonucu ameliyat kararı alman hastaların
+Günlük yapılan girişimsel kardiyolojik işlem sonucu ameliyat kararı alınan hastaların
 
 tedavisi o günün konsültan hckini veya konsültan hekimin bağlı olduğu klinik tarafından yapılır. Ancak hastanın hekim seçme özgürlüğu ayrıca dikkate alınır.
 
-### Çocuk kalp hastalıkları merkezlerinde tüm kararlar elektronik kayıt sisteminde kayıt
+Çocuk kalp hastalıkları merkezlerinde tüm kararlar elektronik kayıt sisteminde kayıt
 
 altına alınır ve istendiğinde yapılan işlemlerle ilgili raporlar alınır.
 
 б) Konsey odası sağlık tesisi yönetimi tarafından tahsis edilmiş ve içinde hastalara ait tüm kayıtları izlemeye uygun gerekli araç ve gereçler ile donatılır.
 
-### MEVCUT ÇOCUK KALP SAGLIĞI HİZMETİ SUNAN SAĞLIK TESISLERİNIN UYUMU Bu Genelgenin yürürlük tarihinden önce çocuk kalp sağlığı alanında tanı ve/veya tedavi
+### MEVCUT ÇOCUK KALP SAĞLIĞI HİZMETİ SUNAN SAĞLIK TESİSLERİNİN UYUMU
+
+Bu Genelgenin yürürlük tarihinden önce çocuk kalp sağlığı alanında tanı ve/veya tedavi
 
 hizmeti sunan sağlık: tesisleri tarafindan bu Genelgenin yayım tarihi itibaren bir yıl içinde bulunduğu müdürlük aracılığı ile Bakanlığa faaliyet izni için müracaat edilmesi zorunludur.

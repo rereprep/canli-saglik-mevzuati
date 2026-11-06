@@ -6,6 +6,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103722/aile-hekimligi-tarama-ve-takip-katsayisina-iliskin-yonergede-degisiklik-yapilmasina-dair-yonerge.html"
 durum: "yürürlükte"
+kontrol_edildi: true
 ---
 
 6.2.2. Aile Hekimliği Tarama ve Takip Katsayısına İlişkin Yönergede Değişiklik Yapılmasına Dair Yönerge

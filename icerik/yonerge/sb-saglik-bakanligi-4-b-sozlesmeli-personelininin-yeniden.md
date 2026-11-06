@@ -9,7 +9,48 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 979-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
+### SAĞLIK BAKANLIĞI 4/B SÖZLEŞMELİ PERSONELİNİN YENİDEN HİZMETE ALINMASI VE KURUM İÇİ YER DEĞİŞİKLİĞİNE DAİR YÖNERGE
+
+(Not: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı ile yapılan değişiklikler metne işlenmiştir.)
+
+## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+
+**Madde 1 –** (1) Bu Yönerge; Sağlık Bakanlığı taşra teşkilatında 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesine göre çalışan sözleşmeli personelin yeniden hizmete alınması, karşılıklı yer değişikliği, eş durumu ve sağlık mazereti nedeniyle yer değişikliği ve unvan değişikliğine ilişkin usul ve esasları belirler.
+
+#### Kapsam
+
+**Madde 2 –** (1) Bu Yönerge, Sağlık Bakanlığı taşra teşkilatında 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesine göre çalışan sözleşmeli personeli kapsar.
+
+#### Dayanak
+
+**Madde 3 –** (1) Bu Yönerge; 06/06/1978 tarihli ve 7/15754 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Sözleşmeli Personel Çalıştırılmasına İlişkin Esasların ek 1, ek 3 ve ek 4 üncü maddelerine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+
+**Madde 4 –** (1) Bu Yönergede geçen;
+
+a) Bakanlık: Sağlık Bakanlığı'nı,
+
+b) Bakan: Sağlık Bakanı'nı,
+
+c) Müdürlük: İl Sağlık Müdürlüğü'nü,
+
+ç) Pozisyon: İlgili mevzuatı uyarınca vize edilen ve bir sözleşmeli personelin istihdamına imkân veren görev unvanına ait pozisyonu,
+
+d) Hizmet Grubu: Sağlık Bakanlığı Atama ve Nakil Yönetmeliği çerçevesinde personel dağılım cetveli doluluk oranına göre belirlenen il gruplarını,
+
+e) Sağlık Komisyonu: Sağlık Bakanlığı Atama ve Nakil Yönetmeliği'ne göre sağlık mazeretlerini inceleyen Komisyonu,
+
+f) Personel: 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesine göre çalışan sözleşmeli personeli,
+
+g) İl Komisyonu: İl Sağlık Müdürlükleri bünyesinde bu Yönergede belirtilen iş ve işlemleri yürütmek üzere Valilik onayıyla kurulan 4/B Sözleşmeli Personel Komisyonu'nu,
+
+ifade eder.
 
 9.2.7.Sağlık Bakanlığı 4\B Sözleşmeli Personelininin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönerge
 

@@ -9,13 +9,14 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 804-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 7.2.3. Özellikli Tıbbi İşlemler Yönergesi
 
 ### ÖZELLİKLİ TIBBİ İŞLEMLER YÖNERGESİ
 
-yapılan özellikli tıbbi işlemlerin tanımlanması ve bu işlemlere ilişkin puanların belirlenmesidir.
+[?] yapılan özellikli tıbbi işlemlerin tanımlanması ve bu işlemlere ilişkin puanların belirlenmesidir.
 
 #### Kapsam
 
@@ -27,7 +28,7 @@ yapılan özellikli tıbbi işlemlerin tanımlanması ve bu işlemlere ilişkin 
 
 **MADDE 4 –** (1) Bu Yönergede yer alan:
 
-a) Özellikli tıbbi işlemler: Hazine ve Maliye Bakanlığının uygun görüşü ile Bakanlıkça işlem ve puanları bölge veya il veya hastane bazında ayrı ayrı belirlenebilen özellikli tıbbi işlemler puanna esas işlemleri,
+a) Özellikli tıbbi işlemler: Hazine ve Maliye Bakanlığının uygun görüşü ile Bakanlıkça işlem ve puanları bölge veya il veya hastane bazında ayrı ayrı belirlenebilen özellikli tıbbi işlemler puanına esas işlemleri,
 
 b) Özellikli tıbbi işlemler puanı: O dönem içinde özellikli tıbbi işlem yapanların her biri için ayrı ayrı hesaplanan özellikli tıbbi işlemler karşılığı elde edilen puanların toplamını,
 
@@ -51,7 +52,7 @@ c) Yukarıdaki işlemler farklı branşlarda yapılmışsa, yüzdelik oranların
 
 (3) Özellikli Tıbbi İşlemler Listesinde yer alan (*) işaretli işlemler sadece konjenital skolyoz (ICD-10 kodu Q67.5, Q76.3 olan) cerrahisinde uygulandığında Özellikli Tıbbi İşlem olarak kabul edilir.
 
-(4) Ekli listede yer alan ve puanı 1500 ilà 5000 arasında olan ameliyatların, ekip hâlinde yapılması durumunda birinci ve ikinci hekime, koordinatör hastane ekibi ile yapılan kalp ve damar cerrahisi ameliyatlarında ise ekipteki her hekime yapılan işlemin puanı bölünmeden ayrı ayrı verilir. Puanı 5000 ve üzeri olan ameliyatların puanları birinci ve ikinci hekime bölünmeden ayrı ayrı, üçüncü hekime ise puanı yarısı verilir. Bu fikra kapsamındaki ameliyatlara yönelik anestezi uygulamalarının da ekip halinde yapılması durumunda birinci ve ikinci anestezi uzmanı hekime anestezi işlem puanı bölünmeden ayrı ayrı verilir.
+(4) Ekli listede yer alan ve puanı 1500 ila 5000 arasında olan ameliyatların, ekip hâlinde yapılması durumunda birinci ve ikinci hekime, koordinatör hastane ekibi ile yapılan kalp ve damar cerrahisi ameliyatlarında ise ekipteki her hekime yapılan işlemin puanı bölünmeden ayrı ayrı verilir. Puanı 5000 ve üzeri olan ameliyatların puanları birinci ve ikinci hekime bölünmeden ayrı ayrı, üçüncü hekime ise puanının yarısı verilir. Bu fikra kapsamındaki ameliyatlara yönelik anestezi uygulamalarının da ekip halinde yapılması durumunda birinci ve ikinci anestezi uzmanı hekime anestezi işlem puanı bölünmeden ayrı ayrı verilir.
 
 (5) Ekli listede yer alan;
 
@@ -71,13 +72,11 @@ c) Yukarıdaki işlemler farklı branşlarda yapılmışsa, yüzdelik oranların
 
 #### Yürürlükten kaldırılan Yönerge
 
-### Madde 7- (1) 13/10/2022 tarihli ve 1087 sayılı Özellikli Tıbbi İşlemler Yönergesi
-
-yürürlükten kaldırılmıştır.
+**Madde 7 –** (1) 13/10/2022 tarihli ve 1087 sayılı Özellikli Tıbbi İşlemler Yönergesi yürürlükten kaldırılmıştır.
 
 #### Yürürlük
 
-**Madde 8 –** (1) Bu Yönerge, 01/07/2024 tarihinden geçerli olmak üzere Bakan Onayı ile yürürlüge girer.
+**Madde 8 –** (1) Bu Yönerge, 01/07/2024 tarihinden geçerli olmak üzere Bakan Onayı ile yürürlüğe girer.
 
 #### Yürütme
 

@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103769/genel-tibbi-islemler-yonergesi.
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 # GENEL TIBBİ İŞLEMLER YÖNERGESİ

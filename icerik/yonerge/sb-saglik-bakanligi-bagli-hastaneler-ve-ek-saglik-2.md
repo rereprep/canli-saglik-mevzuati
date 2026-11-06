@@ -11,9 +11,48 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 7.2.9. Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge Değişikliği
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Tedavi Hizmetleri Genel Müdürlüğü
+
+Sayı: B.10.0.THG.0,10.00.02-020
+
+Konu: Yönerge Değişikliği
+
+BAKANLIK MAKAMINA
+
+Bakanlığımıza ait yataklı sağlık tesisleri tarafından sunulmakta olan poliklinik muayene, teşhis, tedavi ve rehabilitasyon hizmetleri ile günü birlik sağlık hizmetlerinin ek hizmet binaları veya bağlı hastaneler vasıtasıyla verilebilmesi için; genel ve dal hastaneleri ile eğitim ve araştırma hastanelerine bağlı olarak faaliyet göstermek üzere açılan ve açılacak olan semt polikliniği, ek hizmet binası veya bağlı hastanelerin Bakanlığımız plan ve programlarına uygun olarak, kaynak israfına sebebiyet vermeksizin ve atıl kapasite yaratılmaksızın kurulması, mevcut sağlık insan gücünün rasyonel kullanılması, bu birimlerin rantabl işletilmesinin sağlanması, verilecek hizmetin kapsamı ve çalışma usul esasları ile buralarda görevlendirilen personelin görev yetki ve sorumluluklarını ve ayrıca hizmet birleştirmesi yapılacak sağlık tesislerine ilişkin temel esasları belirlemek amacıyla 26.01.2011 tarih ve 3972 sayılı makam onayı "Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge" yürürlüğe konulmuş idi.
+
+26.01.2011 tarih ve 3972 sayılı makam onayı ile yürürlüğe konulan "Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönergede Değişiklik Yapılmasına Dair Yönerge Taslağı"nın yürürlüğe konulmasını,
+
+Takdir ve tensiplerinize arz ederim.
+
+Prof. Dr. İrfan ŞENCAN
+
+Genel Müdür V.
+
+Uygun görüşle arz ederim. [?] / 2011
+
+Prof. Dr. Nihat TOSUN
+
+Müsteşar
+
+Prof. Dr. Recep AKDAĞ
+
+Bakan
+
+Ekler:
+
+1- Yönerge Değişiklik Taslağı (1 sayfa)
 
 ### BAĞLI HASTANELER VE EK SAĞLIK TESİSLERİNİN AÇILMASI VE İŞLEYİŞİ İLE HİZMET BİRLEŞTİRMESİ YAPILMASI HAKKINDA YÖNERGEDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNERGE
 

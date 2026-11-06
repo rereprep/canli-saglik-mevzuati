@@ -11,9 +11,48 @@ ocr: true
 tarih: "2011-01-26"
 sayi: "3972"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 7.2.8. Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Tedavi Hizmetleri Genel Müdürlüğü
+
+Sayı: B.10.0.THG.0.10.00.02-020
+
+Konu: Sağlık Bakanlığı Bağlı Hastaneler Ve Ek Sağlık Tesislerinin Açılması Ve İşleyişi İle Hizmet Birleştirmesi Yapılması Hakkında Yönerge
+
+BAKANLIK MAKAMINA
+
+Bakanlığımıza ait yataklı sağlık tesisleri tarafından sunulmakta olan poliklinik muayene, teşhis, tedavi ve rehabilitasyon hizmetleri ile günü birlik sağlık hizmetlerinin ek hizmet binaları veya bağlı hastaneler vasıtasıyla verilebilmesi için; genel ve dal hastaneleri ile eğitim ve araştırma hastanelerine bağlı olarak faaliyet göstermek üzere açılan ve açılacak olan semt polikliniği, ek hizmet binası veya bağlı hastanelerin Bakanlığımız plan ve programlarına uygun olarak, kaynak israfına sebebiyet vermeksizin ve atıl kapasite yaratılmaksızın kurulması, mevcut sağlık insan gücünün rasyonel kullanılması, bu birimlerin rantabl işletilmesinin sağlanması, verilecek hizmetin kapsamı ve çalışma usul esasları ile buralarda görevlendirilen personelin görev yetki ve sorumluluklarını ve ayrıca hizmet birleştirmesi yapılacak sağlık tesislerine ilişkin temel esasları belirlemek amacıyla "Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge Taslağı" hazırlanmıştır.
+
+İlişik "Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge Taslağı"nın yürürlüğe konulmasını,
+
+Takdir ve tensiplerinize arz ederim.
+
+Prof. Dr. İrfan ŞENCAN
+
+Genel Müdür
+
+Uygun görüşle arz ederim. [?] / 2010
+
+Prof. Dr. Nihat TOSUN
+
+Müsteşar
+
+Prof. Dr. Recep AKDAĞ
+
+Bakan
+
+Ekler:
+
+1- Yönerge Taslağı (11 sayfa)
 
 26.01.2011 tarihli ve 3972 sayılı Onay ile yürürlüğe girmiştir.
 

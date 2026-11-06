@@ -2,7 +2,7 @@
 id: "sbg-103778-yurtdisi-saglik-tesislerinde-personel-gorevlendirilmesine-dair-usul-ve"
 baslik: "Yurtdışı Sağlık Tesislerinde Personel Görevlendirilmesine Dair Usul ve Esaslar Hakkında Yönerge"
 tarih: "2018-12-13"
-sayi: "97014916-903.07.03-1453"
+sayi: "97014916-319"
 konu: "Sağlık Bakanlığınca insani yardım amaçlı olarak hizmet veren yurtdışı sağlık tesislerinde görevlendirilecek personelin seçimi, görevlendirilmesi ve koordinasyonuna ilişkin usul ve esaslar."
 tur: "yonerge"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103778/yurtdisi-saglik-tesislerinde-pe
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 # YURT DIŞI SAĞLIK TESİSLERİNDE PERSONEL GÖREVLENDİRİLMESİNE DAİR USUL VE ESASLAR HAKKINDA YÖNERGE

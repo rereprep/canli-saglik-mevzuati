@@ -11,6 +11,9 @@ tarih: "2017-10-02"
 sayi: "2017/17"
 konu: "694 sayılı KHK ile yeniden düzenlenen taşra teşkilatında mülga kurumların görevlerinin İl Sağlık Müdürlüklerince yürütülmesine ilişkin usul ve esasları belirler."
 duzeltildi: true
+tarih: "2017-10-18"
+sayi: "2017/17"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -67,6 +70,6 @@ Bakan a.
 
 Müsteşar
 
-### DAĞITIM
+### DAĞITIM:
 
 A Planı

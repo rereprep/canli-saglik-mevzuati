@@ -9,8 +9,9 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103783/egitim-planlama-kurulunun-epk-g
 durum: "yürürlükte"
 ocr: true
 tarih: "2022-10-11"
-sayi: "2068"
+sayi: "E-15260714/010.04"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü

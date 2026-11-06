@@ -11,9 +11,16 @@ ocr: true
 tarih: "2019-10-25"
 sayi: "5201"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.5. Sağlık Teknolojileri Değerlendirme Yönergesi
+
+### Bakanlık Makamına sunuş yazısı (kitap s. 33)
+
+Kaynak yazının sayı ve tarihi: 54567092/010.04; 25/10/2019, saat 15:05; evrak numarası 34567092-010.04-5201. Konu: Sağlık Teknolojileri Değerlendirme Yönergesi.
+
+Sağlık teknolojisi değerlendirme sürecini ve basamaklarını tanımlamak amacıyla “Sağlık Teknolojisi Değerlendirme Yönergesi” hazırlanmıştır. Anılan Yönerge'nin onaylanarak yürürlüğe konulmasını takdir ve tensiplerinize arz ederim.
 
 ### SAĞLIK TEKNOLOJİSİ DEĞERLENDİRME YÖNERGESİ
 
@@ -187,7 +194,7 @@ g) Literatür taramasında, konunun içeriğine ve kanıtların önemine göre T
 
 (3) Yayımlanan STD raporlarının güncelliği izlenerek varsa Genel Müdürlüğe yapılan başvurular da değerlendirilerek mevcut STD raporunda güncelleme ihtiyacı olup olmadığı belirlenir. Güncellemeye gerek duyulduğunda STD proje süreci başlatılır.
 
-### ›ÖRDÜNCÜ BÖLÜM eşitli ve Son Hükümleı
+## DÖRDÜNCÜ BÖLÜM Çeşitli ve Son Hükümler
 
 #### Düzenleme yetkisi
 

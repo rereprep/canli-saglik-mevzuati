@@ -10,13 +10,30 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103620/sosyal-guvenlik-kurumu-sgk-terk
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
 
 11.3.9. Sosyal Güvenlik Kurumu (SGK) Terkin Edilecek Alacaklar Genelgesi (2012/33)
 
-### T.C. SAĞLIK BAKANLIĞI Müsteşarlik
+### T.C. SAĞLIK BAKANLIĞI
+#### Müsteşarlık
 
-Sayı: B.10.0.MUS.00.00.00,0/ Konu: Terkin Edilecek Alacaklar
+**Sayı:** B.10.0.MUS.00.00.00.0/
+**Konu:** Terkin Edilecek Alacaklar
+
+### GENELGE
+**2012/33**
+
+Bilindiği üzere, 02.01.2012 tarih ve 2012/2688 sayılı Bakanlar Kurulu Kararının 1'inci maddesinde, "5502 sayılı Sosyal Güvenlik Kurumu Kanununa göre Sosyal Güvenlik Kurumuna devredilen Emekli Sandığı Genel Müdürlüğü, Sosyal Sigortalar Kurumu Başkanlığı ve Bağ-Kur Genel Müdürlüğü ile 3816 sayılı Kanun kapsamında bulunanlar ve tedavi giderleri Yılı Merkezi Yönetim Bütçe Kanununda yer alan ödeneklerden karşılanan kişiler, Sağlık Bakanlığına bağlı tüm sağlık kurum ve kuruluşlarından alınan tedavi hizmetleri karşılığı tutarlardan, Sağlık Bakanlığı ile geri ödeme kurumları arasında sağlanan mutabakat gereği tespit olunan aylık ödeme tutarını aşan kısma isabet eden hizmet bedelleri oranında, 08/07/2002 tarihli ve 4736 sayılı Kanunun 1 inci maddesinin birinci fıkrası hükmünden muaftır." [?]
+
+2'nci maddesinde ise; "Bu Kararın uygulanmasına ilişkin usul ve esaslar Çalışma ve Sosyal Güvenlik Bakanı, Maliye Bakanı ve Sağlık Bakanı tarafından müştereken belirlenir." hükümleri yer almaktadır.
+
+Bu hükümler çerçevesinde, ilgili Bakanlar arasında mutabakat sağlanmış ve bu mutabakat gereği tespit olunan aylık ödeme tutarını aşan ve 4736 sayılı Kanunun 1'inci maddesinden muaf tutulacak hizmet bedellerinin terkin edilmesine ilişkin esas ve usuller belirlenmiştir.
+
+Söz konusu esas ve usullerin "Tanımlar" başlıklı 4'üncü maddesinde; "Geri Ödeme Kurumları: Sosyal Güvenlik Kurumu, tedavi giderleri Yılı Merkezi Yönetim Bütçe Kanununda yer alan ödeneklerden karşılanan kişiler için ilgili kurum ve kuruluşları ile 18.06.1992 tarihli ve 3816 sayılı Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun'a göre tedavi yardımı karşılanan kişiler için Sağlık Bakanlığını ifade eder." [?]
+
+"Muaf Tutularak Terkin Edilecek Faturaların Tespiti ve Kayıtlardan Çıkarılma Zamanı" başlıklı 5'inci maddesinde; "Geri ödeme kurumlarınca tedavi giderleri karşılanan kişiler için, Bakanlığa bağlı sağlık kurum ve kuruluşlarında verilen tedavi hizmetleri karşılığı;
 
 a) Bakanlık ve Kurunca imzalanan protokol kapsamında tedavi giderleri karşılanan
 

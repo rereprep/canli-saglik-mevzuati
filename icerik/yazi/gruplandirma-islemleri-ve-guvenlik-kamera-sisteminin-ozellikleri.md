@@ -12,18 +12,20 @@ kaynak_pdf_sayfa: "523-524"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## GRUPLANDIRMA İŞLEMLERİ VE GÜVENLİK KAMERA SİSTEMİNİN ÖZELLİKLERİ
 
-T.C.
-SAĞLIK BAKANLIĞI
-Türkiye Halk Sağlığı Kurumu
+T.C.  
+SAĞLIK BAKANLIĞI  
+Türkiye Halk Sağlığı Kurumu Başkanlığı  
 
-Sayı: 99858683-010.07.01
-Konu: Gruplandırma işlemleri ve güvenlik kamera sisteminin özellikleri
+**Sayı :** 99858683-010.07.01  
+**Konu :** Gruplandırma işlemleri ve güvenlik kamera sisteminin özellikleri  
 
-### ……… VALİLİĞİNE (Halk Sağlığı Müdürlüğü)
+### .................... VALİLİĞİNE  
+(Halk Sağlığı Müdürlüğü)
 
 21/07/2017 tarihli ve 99858683-010.07.01-1828 sayılı, "Aile Hekimliği Birimlerinin Gruplandırma İşlemleri" konulu genel yazımızın ekinde yer alan "Gruplandırma Değerlendirme Formu"ndaki **13. "Engelliler için düzenlenmiş tuvalet işlevsel olarak bulunmaktadır."** kriterinin denetlenmesi sırasında yapılacak işlemler arasında yer alan "a) Mevcut tuvaletlere ilave olarak en az bir adet engelli tuvaleti bulunmalı ya da mevcut olan bay ve bayan tuvaletlerinden her ikisi de engelliler için yeniden düzenlenmiş olmalıdır." hükmü ile ilgili olarak; yapılan denetimlerde teknik açıdan söz konusu kriterin "(Bay WC + Bayan WC + Engelli WC veya Engelli Bayan WC + Engelli Bay WC)" sağlanmasının mümkün olmadığının tespit edilmesi halinde "aile sağlığı merkezindeki mevcut tuvaletlerden herhangi birinin aynı zaman da engelliler için düzenlenmiş olmasının grup kriterinin sağlanması bakımından yeterli olacağı,
 
@@ -43,11 +45,9 @@ e) Bekleme alanlarına ve ASM girişine binanın güvenlik kamerası ile görün
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. İrfan ŞENCAN
-Bakan a.
-Kurum Başkanı
+Prof. Dr. İrfan ŞENCAN  
+Bakan a.  
+Kurum Başkanı  
 
-Dağıtım:
-
-Gereği:
-81 İl Valiliğine (Halk Sağlığı Müdürlüğü)
+### DAĞITIM:
+**Gereği:** 81 İl Valiliğine (Halk Sağlığı Müdürlüğü)

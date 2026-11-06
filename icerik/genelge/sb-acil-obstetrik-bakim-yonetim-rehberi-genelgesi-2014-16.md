@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 754-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -20,7 +21,7 @@ Sayı : 57536863/231.01.03
 Konu : Acil Obstetrik Bakım Yönetim Rehberi
 
 ### GENELGE
-2014/16
+**2014/16**
 
 Gebelik ve doğum doğal bir süreç olmakla birlikte tüm gebeliklerin % 5-20'sinde potansiyel olarak, hayatı tehdit eden ve profesyonel müdahale gerektiren bir komplikasyon gelişebilmekte ve majör obstetrik bir girişime gerek duyulmaktadır. Gebelik, doğum ve doğum sonu dönemde gelişen komplikasyonların çoğu önceden tahmin edilemez ve önlenemez olmakla birlikte etkin bir tedavi ile anne mortalite ve morbiditesi önemli ölçüde azaltılabilmektedir.
 

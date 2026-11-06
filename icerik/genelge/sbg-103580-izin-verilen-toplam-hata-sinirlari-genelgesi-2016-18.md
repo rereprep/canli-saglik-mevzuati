@@ -9,15 +9,16 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103580/izin-verilen-toplam-hata-sinirl
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.52. İzin Verilen Toplam Hata Sınırları Genelgesi (2016/18)
 
-### T.C. SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜGÜ - TIBBÍ SAĞLIK BAKANLIĞI LABORATUVAR HIZMETLERI DAIRE BAŞKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - SAĞLIK BAKANLIĞI - TIBBİ LABORATUVAR HİZMETLERİ DAİRE BAŞKANLIĞI
 
 TE: Erge RotanD 00031589149 Sayı : 95966346 Konu : İzin Verilen Toplam Hata Sınırları
 
-### GENELGE 2016/.4.8
+### GENELGE 2016/18
 
 Tıbbi laboratuvarları, 09/10/2013 tarihli ve 28790 sayılı Resmî Gazete'de yayımlanan Tıbbi Laboratuvarlar Yönetmeliği ve kalite standartları çerçevesinde uygun periyotlarda, iç kalite kontrol programını yapılandırması ve dış kalite değerlendirme programına dâhil olması zorunludur.
 
@@ -25,21 +26,19 @@ Kalite kontrol işlemleriyle amaçlanan, belirlenen analitik kalite hedeflerine 
 
 Toplam analitik hata (TAH), bir test sonucuna yansıyan Rastlantısal Hata ve Sistematik Hatanı toplamı olur. Hasta güvenliği bakımından toplam analitik hatanın, izin verilen toplam hata sınırını aşmaması gerekmektedir.
 
-Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı tarafından oluşturulan Standardizasyon ve Harmonizasyon çalışma grubu tarafından, on beş parametreye ait izin verilen toplam hata sınırları Tablo l'de belirlenmiştir. Tıbbi biyokimya laboratuvarları tarafından İzin Verilen Toplam Hata Sınırları belirlenen testler için;
+Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı tarafından oluşturulan Standardizasyon ve Harmonizasyon çalışma grubu tarafından, on beş parametreye ait izin verilen toplam hata sınırları Tablo 1'de belirlenmiştir. Tıbbi biyokimya laboratuvarları tarafından İzin Verilen Toplam Hata Sınırları belirlenen testler için;
 
-1. Tıbbi Laboratuvarlar Yönetmeliği'nin 27inci maddesinin inci fikrası gereğince, iç kalite
-
-kontrol çalışması yapması gerekmektedir. Bu çalışma Tablo l'de bildirilmiş parametreler için
+1. Tıbbi Laboratuvarlar Yönetmeliği’nin 27 nci maddesinin [?] fıkrası gereğince iç kalite kontrol çalışması yapılmalıdır. Bu çalışma Tablo 1'de bildirilmiş parametreler için
 
 ilgili testin çalışıldığı günlerde, en az bir defa ve en az iki seviye olmalıdır.
 
-2. Iç kalite kontrol ve dış kalite değerlendirme bulgularından elde edilen bilgilerle varyasyon
+2. İç kalite kontrol ve dış kalite değerlendirme bulgularından elde edilen bilgilerle varyasyon
 
-katsayısı (% CV) ve izin verilen toplam hata (% TAH) hesaplanmalı ve Tablo l'de bildirilen
+katsayısı (% CV) ve izin verilen toplam hata (% TAH) hesaplanmalı ve Tablo 1'de bildirilen
 
 değerleri aşmamalıdır. Aşılırsa düzeltici önleyici faaliyetler (DÖF) başlatılmalı ve kayıt altına
 
-3. Bu çalışmanınn nasıl yapılacağına yönelik "İzin Verilen Toplam Hata Hedeflerine Göre Kısa
+3. Bu çalışmanın nasıl yapılacağına yönelik "İzin Verilen Toplam Hata Hedeflerine Göre Kısa
 
 Rehber" ekte sunulmuştur.
 
@@ -53,4 +52,4 @@ Müsteşar
 
 Ek:
 
-Ek-1 İzin Verilen Toplam Hata Hedeflerine Göre Kısa Rehber Dağıtım: 81 İ1 Valiliği (İl Sağlık Müdürlüğü) Türkiye Halk Sağlığı Kurumu Türkiye Kamu Hastaneleri Kurumu Türkiye İlaç ve Tibbi Cihaz Kurumu Yükseköğretim Kurulu
+Ek-1 İzin Verilen Toplam Hata Hedeflerine Göre Kısa Rehber Dağıtım: 81 İl Valiliği (İl Sağlık Müdürlüğü) Türkiye Halk Sağlığı Kurumu Türkiye Kamu Hastaneleri Kurumu Türkiye İlaç ve Tıbbi Cihaz Kurumu Yükseköğretim Kurulu

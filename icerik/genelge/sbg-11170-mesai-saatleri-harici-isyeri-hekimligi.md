@@ -11,6 +11,9 @@ tarih: "2014-01-27"
 sayi: "98878870/63"
 konu: "Kamu hekimlerinin mesai dışında işyeri hekimliği yapmasına ilişkin izin ve uygulama esaslarını açıklar."
 duzeltildi: true
+sayi: "2013/6"
+tarih: "2013-04-18"
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

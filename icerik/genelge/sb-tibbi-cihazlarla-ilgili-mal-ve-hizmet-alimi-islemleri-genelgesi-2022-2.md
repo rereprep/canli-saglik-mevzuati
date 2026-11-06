@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 202-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.30. Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri Genelgesi (2022/2)
@@ -19,7 +20,7 @@ T.C.
 SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : E-23642684-010.06.01-638
+Sayı : 83913885
 Konu : Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri
 
 22/03/2022
@@ -27,15 +28,23 @@ Konu : Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri
 GENELGE
 2022/2
 
-Bakanlığımıza bağlı sağlık tesisleri, üniversite hastaneleri ve özel sağlık kuruluşlarında tıbbi cihazların planlanması, temini, kullanımı, hizmet alımları ve envanter yönetiminde kaynakların etkin, verimli ve kamu yararına uygun kullanılması amacıyla aşağıdaki usul ve esaslar belirlenmiştir:
+Sağlık Bakanlığına bağlı sağlık kuruluşlarının tıbbi cihaz, mal ve hizmet alımı, kit veya sarf karşılığı cihaz kullanma uygulaması ile kamu sağlık tesislerinin tıbbi cihaz tahsisine ilişkin karşılaşılan sorunların giderilmesi ve uygulama birliğinin sağlanması amacıyla tıbbi cihazlarla ilgili mal ve hizmet alımı işlemlerine ilişkin usul ve esaslar aşağıda belirtilmiştir:
 
 ### 1. GENEL ESASLAR:
 
-1.1. Sağlık tesislerinin tıbbi cihaz mal ve hizmet alımları, il düzeyinde kurulacak olan Tıbbi Cihaz ve Tıbbi Hizmet Alımı Komisyonu marifetiyle planlanacaktır.
+1.1. Bu Genelge kapsamında düzenlenen konular ile ilgili İl Sağlık Müdürlükleri bünyesinde, ilgilerine göre gerekli uzman personellerin de bulunduğu en az 3 (üç) veya daha fazla tek sayıda üyeden müteşekkil "İl Tıbbi Cihaz Alımları Planlama Komisyonu" kurulacaktır.
 
-1.2. İl Komisyonu, il genelindeki kamu, üniversite ve özel sağlık tesislerinin tıbbi cihaz taleplerini, mevcut cihaz envanterini, atıl kapasiteyi ve ilin demografik/epidemiyolojik ihtiyaçlarını gözeterek değerlendirecektir.
+1.2. İlde bulunan sağlık kuruluşlarının bu Genelge kapsamındaki talepleri öncelikli olarak mezkûr Komisyonca değerlendirilmeye alınacak ve İl Sağlık Müdürlüğüne gerekçeleri ile birlikte rapor halinde sunulacaktır. İl Sağlık Müdürlüğü tarafından komisyon raporu değerlendirilerek bu Genelgenin müteakip maddelerinde bahsi geçen iş ve işlemler yerine getirilir. İl Sağlık Müdürlüğü tarafından uygun görülen başvurular bilgi ve gereği için Sağlık Hizmetleri Genel Müdürlüğüne gönderilir, reddedilen başvurular ise gönderilmez. Kamu Hastaneleri Genel Müdürlüğü ile Halk Sağlığı Genel Müdürlüğünün görev alanında yer alan sağlık tesislerinin tıbbi cihaz alımları ve tıbbi cihaz hizmet alımları İl Sağlık Müdürlüğü tarafından ilgili Genel Müdürlüğe gönderilecektir. Planlama kapsamındaki tıbbi cihaz alımları ve tıbbi cihaz hizmet alımları ilgili Genel Müdürlük aracılığıyla Sağlık Hizmetleri Genel Müdürlüğüne iletilecektir. Ayrıca Müdürlük bünyesindeki ilgili başkanlıklar, il genelinde görev alanları kapsamındaki planlamaya tabi cihazlara ait envanter kayıtlarını tutarlar.
 
-1.3. Komisyon her ay düzenli olarak toplanacak ve alınan kararlar gerekçeleri ile birlikte karar defterine işlenecektir.
+1.3. Komisyon karar verirken özel sağlık kurumlarının kapasitelerini de göz önünde bulunduracaktır. Komisyon eksiksiz olarak toplanıp komisyon kararları çoğunlukla alınacaktır. Kararlarda çekimser kalınamaz; karşı oy kullanan komisyon üyeleri gerekçesini karara yazmak ve imzalamak zorundadır. Komisyon üyeleri oy ve kararlarından sorumludur. Komisyonda görev yapacak personel tedarikinde alt maddelerdeki sıralamaya dikkat edilerek üye alınır. İlde bulunmaması halinde yakın illerden, il sağlık müdürlüklerinin "görevlendirme" talepleri ile temin edilecektir. Üyeler öncelik ve bulunma sırasına göre alt maddelerdeki kurumlarda çalışan uzmanlardan oluşacaktır:
+
+1.3.1. Sağlık Bakanlığına bağlı Eğitim ve Araştırma Hastaneleri,
+1.3.2. Üniversite Hastaneleri,
+1.3.3. Devlet Hastaneleri,
+1.3.4. Sağlık Müdürlüğü İdari Birimleri,
+1.3.5. Özel sektör Mesul Müdürleri (gözlemci sıfatı ile).
+
+İstenildiği takdirde Ankara ve İzmir illerindeki kurumlar iki grup halinde, İstanbul'daki kurumlar ise altı grup halinde değerlendirilerek komisyonlar toplanabilecektir.
 
 1.4. Komisyon başkanı Sağlık Müdürü veya ilgili başkanlardan biri olmak üzere seçilir. Diğer üyeler başvurulanın türüne göre ilgili uzmanlık dallarından olmak şartı ile genelgenin müteakip maddelerine göre Sağlık Müdürlüğü tarafindan belirlenecektir.
 

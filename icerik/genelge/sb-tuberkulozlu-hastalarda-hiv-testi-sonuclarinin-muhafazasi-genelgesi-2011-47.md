@@ -2,12 +2,47 @@
 id: "sb-tuberkulozlu-hastalarda-hiv-testi-sonuclarinin-muhafazasi-genelgesi-2011-47"
 baslik: "Tüberkülozlu Hastalarda HIV Testi Sonuçlarının Muhafazası Genelgesi (2011/47)"
 tur: "genelge"
+tarih: "2011-07-22"
 sayi: "2011/47"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Verem Savaşı Dairesi Başkanlığı"
 konu: "Tüberkülozlu Hastalarda HIV Testi Sonuçlarının Muhafazası Genelgesi (2011/47) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
 etiketler: ["halk sağlığı", "tüberküloz", "verem savaşı"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 625-625"
 durum: "yürürlükte"
+ocr: true
+duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.22. Tüberkülozlu Hastalarda HIV Testi Sonuçlarının Muhafazası Genelgesi (2011/47)
+
+T.C.
+SAĞLIK BAKANLIĞI
+Verem Savaşı Dairesi Başkanlığı
+
+Sayı : B.10.0.VSD.0.00.00.07-427 / 2592
+Konu : Tüberkülozlu Hastalarda HIV Testi Sonuçlarının Muhafazası
+
+22 Temmuz 2011
+
+GENELGE
+2011/47
+
+Tüberkülozlu hastalarda tüberküloz-HIV birlikteliğinin olup olmadığını saptayarak, hasta için en uygun tedavi rejiminin belirlenmesi ve iki hastalık arasındaki etkileşmenin en aza indirgenmesini sağlamak amacıyla 04.03.2011 tarihli ve 2011/14 sayılı "Tüberkülozlu Hastalarda HIV Tanı Testi Yapılması" konulu genelge ile 01.03.2011 tarihinden itibaren tüm sağlık kurum ve kuruluşlarında tüberküloz tanısı alan hastalara HIV-ELISA tanı testi yapılması istenmişti.
+
+Bahsi geçen genelgede "HIV testi sonuçlarının (pozitif ya da negatif) verem savaşı dispanserinde gizlilik ilkelerine uygun şekilde kayıt altına alınması ve hastanın kişisel dosyasında muhafaza edilmesi sağlanmalıdır." denmektedir.
+
+Yapılan değerlendirmeler sonucunda verem savaşı dispanserlerinde hasta dosyalarının muhafaza edildiği arşivlerde gizlilik koşullarının sağlanmasının güç olabileceği düşünülmüş olup ilgili madde aşağıdaki şekilde değiştirilmiştir:
+
+- HIV(+) tespit edilen tüberküloz hasta bilgileri İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şube Müdürlüğünde gizlilik ilkelerine uygun şekilde muhafaza edilecektir. HIV testinin negatif tespit edildiği durumlarda ise test sonuçları dispanserdeki hasta dosyasında saklanacaktır.
+
+Konunun ilgili birimlere iletilmesi ve çalışmaların titizlikle sürdürülmesi hususunda bilgilerinizi ve gereğini rica ederim.
+
+Prof. Dr. Nihat TOSUN
+Bakan a.
+Müsteşar
+
+DAĞITIM:
+Gereği:
+81 İl Valiliği
+

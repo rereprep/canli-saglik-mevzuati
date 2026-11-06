@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11031/ulusal-organ-nakli-bilgi-sistemi
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Tedavi Hizmetleri Genel Müdürlüğü

@@ -9,9 +9,38 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 15-1
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.1. Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönerge
+
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı : E-15260714/010.04
+Konu : Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönerge
+
+### BAKANLIK MAKAMINA
+
+3 Eylül 2022 tarihli ve 31942 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği'nin 7 nci maddesi uyarınca Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönerge hazırlanmıştır.
+
+Anılan Yönerge Taslağının onaylanarak yürürlüğe konulması hususunu tensiplerinize arz ederim.
+
+Prof. Dr. Ahmet TEKİN
+Sağlık Hizmetleri Genel Müdürü
+
+Uygun görüşle arz ederim.
+[?]
+Prof. Dr. Sabahattin AYDIN
+Bakan Yardımcısı
+
+OLUR
+[?]
+Uzm. Dr. Fahrettin KOCA
+Bakan
+
+Ek: Yönerge Taslağı
 
 ### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 

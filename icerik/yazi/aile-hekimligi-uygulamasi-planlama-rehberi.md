@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "562-563"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## AİLE HEKİMLİĞİ UYGULAMASI PLANLAMA REHBERİ

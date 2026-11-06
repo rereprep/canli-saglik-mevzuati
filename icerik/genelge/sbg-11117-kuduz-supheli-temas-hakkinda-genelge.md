@@ -9,6 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11117/kuduz-supheli-temas-hakkinda-gen
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -41,4 +42,4 @@ Genel Müdür
 
 E-posta: zoonoz.paraziter@saglik.gov.tr Telefon: 0 312 5851390 Faks: 0 312 432 29 94 Mithatpaşa Caddesi, Nu: 3
 
-### 06434 Sıhhiye / ANKARA
+06434 Sıhhiye / ANKARA

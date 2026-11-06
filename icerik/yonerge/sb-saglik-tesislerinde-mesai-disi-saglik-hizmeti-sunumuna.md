@@ -11,9 +11,26 @@ ocr: true
 tarih: "2024-07-01"
 sayi: ""
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 7.2.10. Sağlık Tesislerinde Mesai Dışı Sağlık Hizmeti Sunumuna Yönelik Usul ve Esaslar
+
+### Amaç, kapsam, dayanak ve mesai dışı çalışma (kitap s. 841)
+
+**MADDE-1 (1)** Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerinde, hizmetin normal mesai saatleri dışında da verilmesi suretiyle hizmette sürekliliği ve kolay erişimi sağlamaktır.
+
+**MADDE-2 (1)** Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerini ve bu tesislerde görev yapan, 209 sayılı Kanun ve Sağlık Bakanlığı Ek Ödeme Yönetmeliği çerçevesinde mesai dışı çalıştığında ek ödeme verilmesi gereken tabip, diş tabibi ve diğer personeli kapsar.
+
+**MADDE-3 (1)** 209 sayılı Kanunun 5 inci maddesinin ikinci fıkrası ile Sağlık Bakanlığı Ek Ödeme Yönetmeliğinin 5 inci maddesinin dokuzuncu fıkrasına dayanılarak hazırlanmıştır.
+
+**MADDE-4 (1)** Nöbet ve icap nöbetleri haricinde mesai dışında verilen sağlık hizmetine personelin katılımıdır. Tabip ve diş tabiplerinin mesai dışı çalışmalarının mesai dışı ek ödemeye esas hesaplanabilmesi için Bakanlıkça belirlenen mesai içi genel tıbbi işlem puanı eşiğini aşmaları gerekir. Mesai dışı çalışma saatleri; sağlık tesisleri başhekimleri tarafından sağlık hizmetlerinin sürekliliği ve kesintiye uğramaması amacıyla personel sayısı da dikkate alınarak vardiya ve nöbet gibi hizmetlerde aksaklık olmayacak şekilde, valilikçe belirlenen mesai saatleri dışında belirlenir. Ancak mesai süresi, mevzuatı kapsamında valilikçe belirlenen mesai saatlerinden önce tamamlanan personele, başhekim tarafından mesaisini tamamlamasını müteakip mesai dışı çalışma yaptırabilir. Mesai dışı sağlık hizmetleri tatil günlerinde de verilebilir.
+
+(2) Mesai dışı ek ödemeye esas çalışma için gerekli olan, Bakanlıkça belirlenen mesai içi genel tıbbi işlem puan eşiğini aşamayan tabiplerin, ilgili dönemdeki mesai dışındaki hizmetlerinden elde ettiği puanlar Genel Tıbbi İşlemler Yönergesi eki Genel Tıbbi İşlemler Listesine göre artırımsız mesai içi genel tıbbi işlem puanı olarak değerlendirilir.
+
+(3) Sağlık tesisindeki ihtiyaç göz önüne alınarak Başhekimlikçe sağlık tesisi veya klinik veya branş bazında ayrı ayrı mesai dışı çalışma yaptırılabilir.
+
+(4) Mesai dışı ek ödemeye esas mesai içi genel tıbbi işlem puanı eşiği tabloda her tesis rolü için “Tabip için ilgili ek ödeme dönemi genel tıbbi işlem puanı 20.000 üzeri” olarak belirtilmiştir. Görüntüde roller: A1, A1_DAL, AII, AII_DAL, B, C, D, E1, ADSH-ADSEAH ve ADSM.
 
 Mesai dışı çalışma temel esasları
 

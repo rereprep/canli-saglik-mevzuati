@@ -2,6 +2,7 @@
 id: "sbg-103505-kuduzla-mucadele-ve-profilaksi-uygulamalari-genelgesi-2019-04"
 baslik: "Kuduzla Mücadele ve Profilaksi Uygulamaları Genelgesi (2019/04)"
 tur: "genelge"
+tarih: "2019-03-14"
 sayi: "2019/04"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Kuduz şüpheli temas durumlarında yara bakımı, aşı ve immünglobulin profilaksisi ile Kuduz Profilaksi Rehberi ilkelerini düzenler."
@@ -10,19 +11,20 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103505/kuduzla-mucadele-ve-profilaksi-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-6.3.27. Kuduzla Mücadele ve Profilaksi Uygulamaları Genelgesi (2019/04)
+### T.C. SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
+Zoonotik ve Vektörel Hastalıklar Dairesi Başkanlığı
 
-### LALK SAỘL LGI GENEL MỘD CHLOỐC - RIOM DONOTIN YE VEN TORLI HASTALEE AI TARTEN D,AZRANTA
+Sayı : 10712557-136.99
+Konu : Kuduzla Mücadele ve Profilaksi Uygulamaları
 
-T.C 11/5/2019 1414
+14.03.2019
 
-### SAĞLIK BAKANLIĞI Halk Sağlığı Genel Müdürlüğü
-
-Sayı : 10712557-136.99 Konu : Kuduzla Mücadele ve Profilaksi Uygulamaları
-
-### GENELGE 2019/04
+### GENELGE
+2019/04
 
 Kuduz, insan sağlığını tehdit eden ve klinik belirtiler geliştikten sonra geriye dönüşu mümkün olmayan ve dramatik bir sekilde ölümle sonuçlanan zoonotik hastalıktır. Bu sebeple, gerek kuduz riskli temas öncesi, gerekse kuduz riskli temas sonrası doğru profilaksi uygulamaların gerçekleştirilmesi oldukça önemlidir. Kuduz hastalığı ölümcül bir hastalık olması nedeniyle, kuduz riskli temaslılarda aşılamanın gerekliliği konusunda kişilerin detaylı bir şekilde bilgilendirilmesi elzemdir.
 

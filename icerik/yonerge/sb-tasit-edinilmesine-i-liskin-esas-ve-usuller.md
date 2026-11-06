@@ -11,9 +11,20 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.2.1.Taşıt Edinilmesine İlişkin Esas ve Usuller (Değişiklik İşlenmiş Hâli)
+
+### Birinci bölüm (kitap s. 1037)
+
+**Madde 1 – Amaç:** Kamu kaynaklarının etkili, ekonomik ve verimli kullanılması amacıyla Bakanlık taşra teşkilatında kamu hizmetlerinin gerektirdiği taşıt ihtiyacının karşılanmasına ilişkin esas ve usulleri belirlemektir.
+
+**Madde 2 – Kapsam:** İl sağlık müdürlükleri ve bağlı sağlık tesislerinin ekli (1) sayılı cetvelde yer alan taşıt edinimlerini ve yönetimini kapsar.
+
+**Madde 3 – Dayanak:** 237 sayılı Taşıt Kanunu; 2006/10193 sayılı Bakanlar Kurulu Kararına ekli Hizmet Alımı Suretiyle Taşıt Edinilmesine İlişkin Esas ve Usuller; 2006/10194 sayılı Karara ekli Taşıtları Sürebilecek Kamu Görevlilerinin Belirlenmesine İlişkin Esas ve Usuller; 2014/6425 sayılı Karara ekli, 237 sayılı Taşıt Kanunu Kapsamında Edinilecek Taşıtların Menşei, Silindir Hacimleri ve Diğer Niteliklerinin Belirlenmesine Dair Karara dayanılarak hazırlanmıştır.
+
+**Madde 4 – Tanımlar:** Bakanlık merkez teşkilatı taşıt değerlendirme komisyonu; Strateji Geliştirme Başkanı veya görevlendireceği daire başkanı başkanlığında, Strateji Geliştirme Başkanlığı, Yönetim Hizmetleri Genel Müdürlüğü, Kamu Hastaneleri Genel Müdürlüğü ve Halk Sağlığı Genel Müdürlüğünden yetkili personelin katılımı ile oluşur. Bakanlık merkez teşkilatı ilgili birimleri bu dört birimdir. İl sağlık müdürlüğü taşıt değerlendirme komisyonu, ilde taşıt edinim taleplerini değerlendirmek üzere İl Sağlık Müdürü veya görevlendireceği başkanlığında en az 5 ve tek sayıda kişiden oluşur. Taşıt edinimi, satın alma, hibe ve hizmet alımı yöntemidir.
 
 #### Genel hükümler
 

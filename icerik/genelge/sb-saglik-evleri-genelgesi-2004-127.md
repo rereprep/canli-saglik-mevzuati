@@ -10,19 +10,24 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 508-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
+T.C.  
+SAĞLIK BAKANLIĞI  
+Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı: B100TSH0130001  Konu: Sağlık evleri
+Sayı : B100TSH0130001  
+ANKARA  
+Konu : Sağlık evleri  
+19.10.2004 - 016043
+
+.................. VALİLİĞİNE  
+(İl Sağlık Müdürlüğü)
 
 ### GENELGE 2004/127
 
-#### VALİLİĞİNE (İl Sağlık Müdürlüğüne)
-
-19.10.2004 – 016043
-
-İlgi: 18.10.2004 tarihli ve 9964 sayılı Makam Onayı.
+İLGİ: 18.10.2004 tarihli ve 9964 sayılı Makam Onayı.
 
 Bilindiği gibi, Sağlık Hizmetlerinin Sosyalleştirildiği Bölgelerde Hizmetin Yürütülmesi hakkında Yönetmelik ve Sağlık Hizmetlerinin Yürütülmesi Hakkında Yönerge'de Sağlık Ocaklarına bağlı hizmetin gerektirdiği sayıda çok yönlü sağlık hizmeti veren sağlık evleri bulunacağı belirtilmektedir. Sağlık evleri sağlık ocağının bulunduğu yerleşim yeri dışındaki yerleşim yerlerinde (ocağa bağlı uygun köylerde) ulaşılabilirliği kolaylaştırmak için oluşturulan yapılanmalar olmasına karşın zaman içinde sağlık ocağının bulunduğu yerleşim yerindeki sağlık ocağı ebelerinin hizmet bölgeleri mahalle sağlık evi olarak değerlendirilerek, sağlık ocağı ebelerinin atamaları sağlık ocağı yerine mahalle sağlık evlerine yapılmıştır.
 
@@ -32,12 +37,12 @@ Bu nedenle "mahalle sağlık evi" ifadesinin "sağlık ocağı ebe bölgesi" ola
 
 Bilginizi ve hizmetin bu doğrultuda yürütülmesi hususunda gereğini rica ederim.
 
-Prof. Dr. Necdet ÜNÜVAR
+Prof. Dr. Necdet ÜNÜVAR  
+Bakan a.  
+Müsteşar
 
-Bakan a.
+Ek: Makam Onayı
 
-Müsteşar Ek: Makam Onayı
-
-### DAĞITIM:
-
+### DAĞITIM:  
 81 İl Valiliği
+

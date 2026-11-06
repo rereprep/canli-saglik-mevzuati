@@ -10,18 +10,65 @@ durum: "yürürlükte"
 konu: "TSM Genelgesi (2013/11) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.7. TSM Genelgesi (2013/11)
 
-6.3.7. TSM Genelgesi (2013/11)
+## Genelge yazısı
 
-05.07.2013 - 17:19:07
+T.C. Sağlık Bakanlığı — Türkiye Halk Sağlığı Kurumu Başkanlığı
+Sayı: 90611027/[?]
+Konu: Genelge
+09.07.2013
 
-90611027/010.06/69179 Sağlık Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığından;
+**Valiliğine (Halk Sağlığı Müdürlüğü)**
 
- GENELGE 2013/11
+6331 sayılı İş Sağlığı ve Güvenliği Kanunu 30.06.2012 tarihli ve 28339 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiştir. Bu kapsamda iş sağlığı ve güvenliği hizmeti yürütmek isteyen kamu ve özel sektör kuruluşları, 29.12.2012 tarihli ve 28512 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği'nde yer alan hükümlere göre yetkilendirilmektedir.
 
-6331 sayılı Iş Sağlığı ve Güvenliği Kanunu 30.6.2012 tarihli ve 28339 sayılı Resmi Gazetede yayımlanarak yürürlüğe girmiştır. Söz konusu Kanun hükümlerine göre iş sağlığı ve güvenliği hızmetlerini yürütmek isteyen kamu ve özel sektör kuruluşları Çalışma ve Sosyal Güvenlik Bakanlığı'nca (ÇSGB) yetkilendirildikten sonra hizmet sunabilmektedirler. Ortak sağlık ve güvenlik birimlerinın yetkilendirilme ve çalışma usulleri ise 29.12.2012 tarihli ve 28512 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Iş Sağlığı ve Güvenliğı Hizmetleri Yönetmeliğinde belirlenmiştir. Bu bağlamda; Sağlık Bakanlığına bağlı toplum sağlığı merkezlerinde (TSM) işyeri hekimliği ve diğer sağlık personeli hızmetlerının sunulabilmesi için aşağıdaki hususların yerine getirilmesi gerekmektedir. Fiziki mekan koşulları: Bulunduğu bölgede iş sağlığı hizmeti sunmak isteyen TSM'ler muayene odası olarak 10 m ilk yardım ve acil müdahale odası olarak 15 m' ve bekleme yeri olarak da en az 12 m'lik alanlar ile uygun büyüklükte arşiv bölümü oluşturacaklardır. Buna ilaveten iş güvenliği hizmeti vermek isteyen TSM'ler belirtilen odalara ek olarak 10 m' iş güvenliği uzmanı odası bulundurmakla yükümlüdürler. Söz konusu odaların aynı bina içerisinde bulunması esastır. Insan kaynakları: TS'lerde görev yapan hekimlerın ve diğer sağlık personelinin iş sağlığı hizmeti sunabilmeleri için geçerli işyeri hekimliği ve diğer sağlık personeli belgesine sahip olmaları gerekmektedir. TSM sorumlu hekimi aymı zamanda bu Genelge kapsamında yürütülecek hizmetler ile ilgili iş ve işlemlerden Çalışma ve Sosyal Güvenlik Bakanlığı Iş Sağlığı ve Güvenliği Genel Müdürlüğüne karşı da sorumludur. Sorumlu hekimin değişmesi durumunda yeni sorumlu hekim Iş Sağlığı ve Güvenliği Genel Müdürlüğüne yazı ile bildirilecektir. Başvuru işlemleri: Iş sağlığı hizmeti sunmak isteyen TSM'ler dilekçe ile birlikte fiziki alanların gösterildiği plan ve ilgili yere ait yangına karşı gerekli tedbirlerin alındığına dair yetkili mercilerden alınmış belge. ışyeri hekimi ve diğer sağlık personeline ait görevlendirme yazıları ile diploma ve sertifikalarının bir örneğini bağlı bulunduğu Halk Sağlığı Müdürlüğü kanah ile Çalışma ve Sosyal Güvenlik Bakanlığı İş Sağlığı ve Güvenliği Genel Müdürlüğüne göndereceklerdir. Yetkilendirme ve hizmeti sunma işlemleri: TSM yetki belgeleri TSM adresine münhasıran verilecek olup herhangi bir yer değişikliği olduğu takdirde. aynı ışlemler tekrarlanarak yeni belge düzenlenir. Yetki belgesi alındıktan sonra ilgili personelin bilgileri elektronik ortamda ÇSGB'ce yürütülen ISG KATIP'in veri tabanında tanımlanarak hizmet sunulabilecektir. Bu genelge kapsamında görevlendirilecek işyeri hekimi. diğer sağlık personeli ve olması halinde iş güvenliği uzmanına ilgili mevzuatla belirlenen çalısma sürelerine uygun olarak ISG KATIP'de onaylanan iş sağlığı ve güvenligi hizmet sözleşmesi süresi içerisinde bu hizmetin yürütümüne engel olacak başka bır görev verilmeyecektir. Ancak, bu süreler dışındaki mesai planlaması Sağlık Bakanlığının ilgili mevzuatina tabidir. Denetleme işlemleri: Yetkilendirilmiş TS'lerin sunduğu hizmetlerin Iş Sağlığı ve Güvenliği Kanunu yönünden denetimleri ÇSGB tarafından, diğer hususların denetimleri ise Sağlık Bakanlığınca yapılır. ÇSGB tarafından yapılan denetimler sonucunda tespit edilen eksiklikler ilgili TSM'nin bağlı olduğu Il Müdürlüğüne bildirilir. Hizmetin aksamaması için gereken tedbirler Il Müdürlüğü tarafından alınur. Hizmet alan ışyeri yetkilisi ile TSM'nin sorumlu hekimi (sorumlu müdür yetkisi ile) e-devlet şifresı alarak her türlü işlemi www.isgkatip.csgb.gov.tr adresindeki ISG KATIP üzerinden vapabilir. 28S7 çözümü için Sağlık Bakanlığı Türkiye Halk Sağlığı Kurumu Başkanlığı bünyesindeki Çalışanların Sağlığı ve Güvenliği Daire Başkanlığı ile ÇSGB Iş Sağlığı ve Güvenliği Gene! Bilgilerini ve gereğini rica ederiz. Dr. Mehmet MÜEZZİNOĞLU Faruk ÇELIK
+Ülkemizde iş sağlığı ve güvenliği hizmetlerinin yaygınlaştırılabilmesi için Toplum Sağlığı Merkezleri bünyesinde Ortak Sağlık Güvenlik Birimlerinin (OSGB) kurulması önem arz etmektedir. Söz konusu Yönetmeliğin 17 nci maddesinin 7 nci fıkrasına göre Toplum Sağlığı Merkezlerinin yetkilendirilme ve denetimine ilişkin usul ve esasların Bakanlığımız ve Çalışma ve Sosyal Güvenlik Bakanlığının birlikte hazırlayacakları genelge ile belirleneceği hükme bağlanmıştır.
 
-Sağlık Bakan Çalışma ve Sosyal Güvenlik Bakanı Aile Sağlığı Merkezleri Kiralama 5258 sayılı Aile Hekimliği Kanununa göre hazineye, belediyeye veya il özel idaresine ait taşınmazlardan aile sağlığı merkezi olarak kullanılması uygun görülenler, Hazine ve Maliye Bakanlığı, belediye veya il özel idarelerince bu amaçla kullanılmak üzere doğrudan aile hekimine kiraya verilebilmektedir. Bu itibarla; mülkiyeti hazineye ait olup Bakanlığımıza tahsisli/tasarrufunda olan yerler ile diğer kamu kurum/kuruluşları veya özel hukuk (gerçek ve tüzel) kişilerinden geçici-sürekli tahsis, protokol, encümen kararı vb. ile kullanım hakkı Bakanlığımız tasarrufuna bırakılan yerler aile hekimlerine kiralanabilmektedir. Bu binalarının aile hekimlerine kiraya verilmesi işlemler; 2886 Sayılı Devlet İhale Kanunu, Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik ve 2011/43 Sayılı Genelgede (Kurumlarımızda yer alan ticari alanların kiraya verilmesi konulu Genelge) belirlenen usul ve esaslar çerçevesinde yapılmaktadır. Aile hekimleri ile yapılacak kiralamalarda; kira sözleşme süresi aile hekimi hizmet sözleşme süresi ile sınırlı olmalı, kira sözleşmesinde bu hususa yer verilmelidir. Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği gereğince; aile hekimliği hizmet sözleşmesi ile kiralama sözleşmesi birlikte imzalanmalıdır. İlçe sağlık müdürlüğü/toplum sağlığı merkezi veya bunlara bağlı diğer hizmet birimleri ile aile sağlığı merkezlerinin birlikte hizmet verdiği müşterek binalarda aile hekimliği birimlerince kullanılan alanların kira bedelleri, kullanım alanları gözetilerek hesaplanmalıdır. Müşterek olarak kullanılan binalarda aile hekimleri tarafından kullanılmayan alan ve bölümler için aile hekimlerinden kira talep edilmemelidir. Müşterekolarakkullanılanveailehekimlerinekiralananbinalarda,elektrik,suvb.aboneliklerin mümkünse ayrılması; hizmetin gereği ve altyapı gibi nedenlerle aboneliklerin ayrılmasının mümkün olmadığı hâllerde ise elektrik, su, doğalgaz, gibi işletme giderlerinin kullanım alanı ve kullanım zamanı gibi faktörler dikkate alınarak ilgili aile hekimlerinden tahsil edilmelidir. Bakanlığımız tasarrufunda olmayan ve ilgili mevzuatında belirlenen standartları sağlayan diğer kamu kurumları veya özel hukuk (gerçek ve tüzel) kişilerin tasarrufunda/mülkiyetinde olan yerler de aile hekimleri tarafından doğrudan Aile Sağlığı Merkezi (ASM) olarak kiralanabilmektedir. Bu binaların kiralama iş ve işlemleri sözleşmenin taraﬂﬂarı arasında tesis edilmelidir.
+Bu hüküm gereği Sağlık Bakanlığı ve Çalışma ve Sosyal Güvenlik Bakanlığınca yayımlanan 2013/11 sayılı Genelge ekte yer almakta olup ilgili tüm kurumlara duyurulması, ilinizde iş sağlığı ve güvenliği hizmetlerini sunacak OSGB'lerin genelgede belirlenen usul ve esaslar çerçevesinde hızla kurularak hizmet sunumuna başlamasının sağlanması hususlarında bilgilerini ve gereğini arz ve rica ederim.
+
+**Bakan a. — Kurum Başkanı**
+İmza/isim: [?]
+
+**Ek:** Genelge (2 sayfa)
+
+**Dağıtım:** Çalışma ve Sosyal Güvenlik Bakanlığına (İş Sağlığı ve Güvenliği Genel Müdürlüğü); 81 İl Valiliğine (Halk Sağlığı Müdürlüğü).
+
+## Genelge 2013/11
+
+Sağlık Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığından;
+
+6331 sayılı İş Sağlığı ve Güvenliği Kanunu 30.06.2012 tarihli ve 28339 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiştir. Söz konusu Kanun hükümlerine göre iş sağlığı ve güvenliği hizmetlerini yürütmek isteyen kamu ve özel sektör kuruluşları, Çalışma ve Sosyal Güvenlik Bakanlığınca (ÇSGB) yetkilendirildikten sonra hizmet sunabilmektedir. Ortak sağlık ve güvenlik birimlerinin yetkilendirilme ve çalışma usulleri ise 29.12.2012 tarihli ve 28512 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği'nde belirlenmiştir. Bu bağlamda, Sağlık Bakanlığına bağlı toplum sağlığı merkezlerinde (TSM) işyeri hekimliği ve diğer sağlık personeli hizmetlerinin sunulabilmesi için aşağıdaki hususların yerine getirilmesi gerekmektedir.
+
+### Fiziki mekân koşulları
+
+Bulunduğu bölgede iş sağlığı hizmeti sunmak isteyen TSM'ler muayene odası olarak 10 m², ilk yardım ve acil müdahale odası olarak 15 m² ve bekleme yeri olarak da en az 12 m²'lik alanlar ile uygun büyüklükte arşiv bölümü oluşturacaklardır. Buna ilaveten iş güvenliği hizmeti vermek isteyen TSM'ler, belirtilen odalara ek olarak 10 m² iş güvenliği uzmanı odası bulundurmakla yükümlüdürler. Söz konusu odaların aynı bina içerisinde bulunması esastır.
+
+### İnsan kaynakları
+
+TSM'lerde görev yapan hekimlerin ve diğer sağlık personelinin iş sağlığı hizmeti sunabilmeleri için geçerli işyeri hekimliği ve diğer sağlık personeli belgesine sahip olmaları gerekmektedir. TSM sorumlu hekimi, aynı zamanda bu Genelge kapsamında yürütülecek hizmetlerle ilgili iş ve işlemlerden Çalışma ve Sosyal Güvenlik Bakanlığı İş Sağlığı ve Güvenliği Genel Müdürlüğüne karşı da sorumludur. Sorumlu hekimin değişmesi durumunda yeni sorumlu hekim, İş Sağlığı ve Güvenliği Genel Müdürlüğüne yazı ile bildirilecektir.
+
+### Başvuru işlemleri
+
+İş sağlığı hizmeti sunmak isteyen TSM'ler; dilekçe, fiziki alanların gösterildiği plan, ilgili yerde yangına karşı gerekli tedbirlerin alındığına dair yetkili mercilerden alınmış belge, işyeri hekimi ve diğer sağlık personeline ait görevlendirme yazıları ile diploma ve sertifikalarının bir örneğini, bağlı bulunduğu Halk Sağlığı Müdürlüğü kanalıyla Çalışma ve Sosyal Güvenlik Bakanlığı İş Sağlığı ve Güvenliği Genel Müdürlüğüne göndereceklerdir.
+
+### Yetkilendirme ve hizmeti sunma işlemleri
+
+TSM yetki belgeleri TSM adresine münhasıran verilecek olup herhangi bir yer değişikliği olduğu takdirde aynı işlemler tekrarlanarak yeni belge düzenlenir. Yetki belgesi alındıktan sonra ilgili personelin bilgileri elektronik ortamda ÇSGB'ce yürütülen İSG-KÂTİP'in veri tabanında tanımlanarak hizmet sunulabilecektir. Bu Genelge kapsamında görevlendirilecek işyeri hekimi, diğer sağlık personeli ve olması hâlinde iş güvenliği uzmanına, ilgili mevzuatla belirlenen çalışma sürelerine uygun olarak İSG-KÂTİP'te onaylanan iş sağlığı ve güvenliği hizmet sözleşmesi süresi içerisinde bu hizmetin yürütümüne engel olacak başka bir görev verilmeyecektir. Ancak bu süreler dışındaki mesai planlaması Sağlık Bakanlığının ilgili mevzuatına tabidir.
+
+### Denetleme işlemleri
+
+Yetkilendirilmiş TSM'lerin sunduğu hizmetlerin İş Sağlığı ve Güvenliği Kanunu yönünden denetimleri ÇSGB tarafından, diğer hususların denetimleri ise Sağlık Bakanlığınca yapılır. ÇSGB tarafından yapılan denetimler sonucunda tespit edilen eksiklikler ilgili TSM'nin bağlı olduğu İl Müdürlüğüne bildirilir. Hizmetin aksamaması için gereken tedbirler İl Müdürlüğü tarafından alınır.
+
+Hizmet alan işyeri yetkilisi ile TSM'nin sorumlu hekimi (sorumlu müdür yetkisi ile), e-Devlet şifresi alarak her türlü işlemi www.isgkatip.csgb.gov.tr adresindeki İSG-KÂTİP üzerinden yapabilir.
+
+TSM'lerin iş sağlığı ve güvenliği hizmeti sunmasında ortaya çıkabilecek problemlerin çözümü için Sağlık Bakanlığı Türkiye Halk Sağlığı Kurumu Başkanlığı bünyesindeki Çalışanların Sağlığı ve Güvenliği Daire Başkanlığı ile ÇSGB İş Sağlığı ve Güvenliği Genel Müdürlüğü bünyesindeki Yetkilendirme Daire Başkanlığı ile irtibata geçilmesi gerekmektedir.
+
+Bilgilerini ve gereğini rica ederiz.
+
+| Dr. Mehmet MÜEZZİNOĞLU | Faruk ÇELİK |
+|---|---|
+| Sağlık Bakanı | Çalışma ve Sosyal Güvenlik Bakanı |

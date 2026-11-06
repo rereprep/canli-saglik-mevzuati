@@ -9,9 +9,46 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 469-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.2.6. Bağımlılık ile Mücadele Kurullarının Çalışma Usul ve Esasları
+
+### BAĞIMLILIKLA MÜCADELE KURULLARININ ÇALIŞMA USUL VE ESASLARI
+
+## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+
+**MADDE 1 –** (1) Bu usul ve esasların amacı 2019/2 sayılı Cumhurbaşkanlığı Genelgesi ile kurulmuş olan Bağımlılıkla Mücadele Yüksek Kurulu (BMYK)'nun oluşturacağı strateji ve eylem planları çerçevesinde görev icra edecek olan Bağımlılıkla Mücadele Kurulu, Bağımlılıkla Mücadele Teknik Kurulu ve Bağımlılıkla Mücadele İl Koordinasyon Kurullarının çalışma usul ve esaslarını belirlemektir.
+
+#### Kapsam
+
+**MADDE 2 –** (1) Bu usul ve esaslar; "Bağımlılıkla Mücadele Kurulu", "Bağımlılıkla Mücadele Teknik Kurulu" ve "Bağımlılıkla Mücadele İl Koordinasyon Kurulları"nın kimlerden oluşacağı, görev, yetki ve sorumlulukları ile çalışma usul ve esaslarını kapsar.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu usul ve esaslar, 2019/2 sayılı Cumhurbaşkanlığı Genelgesine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+
+**MADDE 4 –** (1) Bu usul ve esaslarda geçen;
+
+a) BMYK: Bağımlılıkla Mücadele Yüksek Kurulunu,
+
+b) BMK: Bağımlılıkla Mücadele Kurulunu,
+
+c) BMTK: Bağımlılıkla Mücadele Teknik Kurulunu,
+
+ç) BMIKK: Bağımlılıkla Mücadele İl Koordinasyon Kurullarını,
+
+d) İlgili Bakanlık: Bağımlılıkla Mücadele Yüksek Kurulu Üyesi Bakanlıkları (Adalet Bakanlığı, Aile, Çalışma ve Sosyal Hizmetler Bakanlığı, Çevre ve Şehircilik Bakanlığı, Gençlik ve Spor Bakanlığı, Hazine ve Maliye Bakanlığı, İçişleri Bakanlığı, Milli Eğitim Bakanlığı, Sağlık Bakanlığı, Tarım ve Orman Bakanlığı, Ticaret Bakanlığı, Ulaştırma ve Altyapı Bakanlığı),
+
+e) Genel Müdürlük: Halk Sağlığı Genel Müdürlüğünü,
+
+f) Müdürlük: İl Sağlık Müdürlüklerini,
+
+ifade eder.
 
 ## İKİNCİ BÖLÜM
 

@@ -7,28 +7,25 @@ tarih: "2023-11-08"
 sayi: "19831278/045.03"
 birim: "Halk Sağlığı Genel Müdürlüğü, Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 etiketler: ["aile-hekimligi", "mevzuat"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 507-507"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 507"
 kaynak_pdf_sayfa: "513"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## ÖZEL HUKUK KİŞİLERDEN KİRALANAN ASM GİDERLERİ
 
-T.C.
+T.C.  
+SAĞLIK BAKANLIĞI  
+Halk Sağlığı Genel Müdürlüğü  
 
-SAĞLIK BAKANLIĞI
+**Sayı :** 19831278/045.03  
+**Konu :** Görüş  
 
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı: 19831278/045.03
-
-08.11.2023
-
-Konu: Görüş
-
-### ANKARA VALİLİĞİNE (İl Sağlık Müdürlüğü)
+### ANKARA VALİLİĞİNE  
+(İl Sağlık Müdürlüğü)
 
 İlgi: 12/10/2023 tarihli ve 226755678 sayılı yazınız,
 
@@ -38,12 +35,6 @@ Bilindiği üzere aile hekimleri tarafından özel hukuk (gerçek ve tüzel) ki�
 
 Bilgilerini ve gereğini rica ederim.
 
-Dr. Öğretim Üyesi Süleyman ÖZSARI
-
-Bakan a.
-
+Dr. Öğretim Üyesi Süleyman ÖZSARI  
+Bakan a.  
 Genel Müdür Yardımcısı
-
-Halk Sağlığı Genel Müdürlüğü, Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı, Sağlık Mahallesi A. Adnan Saygun 2 Caddesi No:55 Sıhhiye/ANKARA. Bilgi için: Münüre YILMAZ, Hemşire. Tel: (312) 565 51 61
-
-Bu belge, güvenli elektronik imza ile imzalanmıştır. Belge doğrulama kodu: AAB1D1A1-49E9-4B27-ACB5-55C5B0F28AAD. Belge doğrulama adresi: https://www.turkiye.gov.tr/saglik-bakanligi-ebys

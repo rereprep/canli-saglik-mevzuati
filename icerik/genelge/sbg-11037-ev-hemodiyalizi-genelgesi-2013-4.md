@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11037/ev-hemodiyalizi-genelgesi-2013--
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü

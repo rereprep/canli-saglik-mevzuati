@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11274/temel-is-sagligi-hizmetlerinin-u
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.

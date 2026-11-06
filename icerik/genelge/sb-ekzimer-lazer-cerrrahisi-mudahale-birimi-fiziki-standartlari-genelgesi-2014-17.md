@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 189-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 2.3.22. Ekzimer Lazer Cerrrahisi Müdahale Birimi Fiziki Standartları Genelgesi (2014/17)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -25,8 +24,8 @@ Konu : Ekzimer Lazer Cerrahisi Müdahale birimi fiziki standartları
 ....................VALİLİĞİNE  
 (İl Sağlık Müdürlüğü)
 
-### GENELGE  
-2014/17
+### GENELGE
+**2014/17**
 
 Bilindiği üzere 09.03.2000 tarih ve 23988 sayılı Yönetmelik aynı isimli "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik" in yürürlüğe girmesi ile yürürlükten kaldırılmıştır. Mezkûr Yönetmeliğin yürürlükten kaldırılması ile 16.03.2002 tarih ve 24697 sayılı "Eksimer Laser Cerrahisi Uygulanacak Cerrahi Müdahale Birimleri Hakkında Tebliğ" de yürürlükten kaldırılmıştır.
 

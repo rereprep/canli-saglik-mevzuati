@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103812/saglik-bakanligi-saglik-persone
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 9.2.5. Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge

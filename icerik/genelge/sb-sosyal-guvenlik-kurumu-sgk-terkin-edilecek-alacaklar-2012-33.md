@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1100
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.3.9. Sosyal Güvenlik Kurumu (SGK) Terkin Edilecek Alacaklar Genelgesi (2012/33)
@@ -25,9 +26,27 @@ Konu : Terkin Edilecek Alacaklar
 GENELGE
 2012/33
 
-02/01/2012 tarihli ve 2012/2688 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan "Sağlık Bakanlığına Bağlı Sağlık Tesisleri Tarafından Sosyal Güvenlik Kurumuna Devredilen Alacaklar ile Bu Teşkilat Tarafından Yapılacak Terkin İşlemlerine İlişkin Usul ve Esaslar Hakkında Karar"ın 5 inci maddesinde;
+Bilindiği üzere, 02.01.2012 tarih ve 2012/2688 sayılı Bakanlar Kurulu Kararının 1'inci maddesinde,
 
-"a) Bakanlık ve Kurumca imzalanan protokol kapsamında tedavi giderleri karşılanan kişiler için yılı içinde düzenlenen faturaların toplam tutarından, Sözleşme kapsamında yapılmış ödemelerin toplam tutarını aşan kısmının tamamı,
+"5502 sayılı Sosyal Güvenlik Kurumu Kanunu uyarınca Sosyal Güvenlik Kurumuna devredilen Emekli Sandığı Genel Müdürlüğü, Sosyal Sigortalar Kurumu Başkanlığı ve Bağ-Kur Genel Müdürlüğü ile 3816 sayılı Kanun kapsamında bulunanlar ve tedavi giderleri Yılı Merkezi Yönetim Bütçe Kanununda yer alan ödeneklerden karşılanan kişiler, Sağlık Bakanlığına bağlı tüm sağlık kurum ve kuruluşlarından alınan tedavi hizmetleri karşılığı faturalardan, Sağlık Bakanlığı ile geri ödeme kurumları arasında sağlanan mutabakat gereği tespit olunan aylık ödeme tutarını aşan kısmına isabet eden hizmet bedelleri oranında, 8/1/2002 tarihli ve 4736 sayılı Kanunun 1 inci maddesinin birinci fıkrası hükmünden muaftır."
+
+2'nci maddesinde ise,
+
+"Bu Kararın uygulanmasına ilişkin usul ve esaslar Çalışma ve Sosyal Güvenlik Bakanı, Maliye Bakanı ve Sağlık Bakanı tarafından müştereken belirlenir."
+
+Hükümleri yer almaktadır.
+
+Bu hükümler çerçevesinde, ilgili Bakanlar arasında mutabakat sağlanmış ve bu mutabakat gereği tespit olunan aylık ödeme tutarını aşan ve 4736 sayılı Kanunun 1'inci maddesinden muaf tutulacak hizmet bedellerinin terkin edilmesine ilişkin esas ve usuller belirlenmiştir.
+
+Söz konusu esas ve usullerin "Tanımlar" başlıklı 4'üncü maddesinde;
+
+"Geri Ödeme Kurumları: Sosyal Güvenlik Kurumunu, tedavi giderleri Yılı Merkezi Yönetim Bütçe Kanununda yer alan ödeneklerden karşılanan kişiler için ilgili kurum ve kuruluşları ile 18.06.1992 tarihli ve 3816 sayılı Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanuna göre tedavi yardımı karşılanan kişiler için Sağlık Bakanlığını," ifade ettiği,
+
+Muaf Tutularak Terkin Edilecek Faturaların Tespiti ve Kayıtlardan Çıkarılma Zamanı başlıklı 5'inci maddesinde;
+
+Geri ödeme kurumlarınca tedavi giderleri karşılanan kişiler için, Bakanlığa bağlı sağlık kurum ve kuruluşlarında verilen tedavi hizmetleri karşılığı;
+
+a) Bakanlık ve Kurumca imzalanan protokol kapsamında tedavi giderleri karşılanan kişiler için yılı içinde düzenlenen faturaların toplam tutarından, Sözleşme kapsamında yapılmış ödemelerin toplam tutarını aşan kısmının tamamı,
 
 b) Diğer geri ödeme kurumları tarafından tedavi giderleri karşılanan kişiler için en geç Götürü Bedel Üzerinden Sağlık Hizmeti Alım Sözleşmesinin ait olduğu yılın sonuna kadar düzenlenen faturalardan; bedeli ödenmemiş olanların tamamı,
 
@@ -35,11 +54,11 @@ terkin edilir.
 
 Yukarıda belirtilen terkin edilmesi gereken faturaların muhasebe kayıtlarından çıkartılma zamanı cari yıl aralık ayının son günü tarihine kadardır."
 
-Mahsuplaşma başlıklı 6 ncı maddesinde ise;
+Mahsuplaşma başlıklı 6'ncı maddesinde ise;
 
 "Bakanlığa bağlı sağlık kurum ve kuruluşlarınca düzenlenen faturaların, ilgisine göre denetim elemanlarınca, diğer görevlilerce veya ilgililerce incelenmesi neticesinde fazla ve/veya yersiz tahakkuk ettirildiği veya ödendiği tespit edildiği tutarlardan, bu protokolün imzalandığı tarih itibariyle kalanları (tahsil veya mahsup edilmemiş olanlar) ile Kurumun diğer alacakları sağlık kurum ve kuruluşlarının terkin edilen alacaklarına mahsup edilmiş sayılır ve herhangi bir bedel talep edilmez."
 
-hükümlerine yer verilmiştir.
+Hükümlerine yer verilmiştir.
 
 Bu itibarla;
 

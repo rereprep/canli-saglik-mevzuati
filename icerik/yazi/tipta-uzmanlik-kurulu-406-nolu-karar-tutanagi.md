@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "578-579"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## TIPTA UZMANLIK KURULU 406 NOLU KARAR TUTANAĞI
@@ -38,7 +39,7 @@ Karar No: 406
 
 ### SÖZLEŞMELİ AİLE HEKİMLERİNE VERİLECEK AİLE HEKİMLİĞİ UZMANLIK EĞİTİMİNE AİT TIPTA UZMANLIK KURULUNCA BELİRLENEN ESASLAR
 
-1. Bu eğitiminin müfredatı (amaç, öğrenim hedefleri, rotasyon dal ve süreleri, ölçme-değerlendirme yöntemleri, tez süreci) 1219 sayılı Kanuna ekli çizelgede 3 yıllık eğitim süresi olduğu belirtilen aile hekimliği uzmanlık eğitimininki ile aynı olmalıdır.
+1. Bu eğitimin müfredatı (amaç, öğrenim hedefleri, rotasyon dal ve süreleri, ölçme-değerlendirme yöntemleri, tez süreci) 1219 sayılı Kanuna ekli çizelgede 3 yıllık eğitim süresi olduğu belirtilen aile hekimliği uzmanlık eğitimininki ile aynı olmalıdır.
 
 2. Bu eğitime girmek için adaydan Tıpta Uzmanlık Eğitimine Giriş Sınavı’nda (TUS) minimum puan şartı olarak: Sözleşmeli aile hekimleri için ÖSYM tarafından TUS klinik tıp bilimleri testinden, 1 ağırlık katsayısı kullanılarak KTBT standart puanından hesaplanacak bir puandan alınacak 40’tır. Yabancı dil yeterliliği şartı aranmaz.
 
@@ -46,7 +47,7 @@ Karar No: 406
 
 4. Bu eğitim için “yıllık global ülke kontenjanı” TUK tarafından belirlenip ilan edildikten sonra THSK, eğitim kurumlarından bu eğitime ait kontenjan taleplerini alır; bu taleplere göre global ülke kontenjanını eğitim kurumlarına dağıtır.
 
-5. THSK, global kontenjanları hangi eğitim kurumlarına hangi sayılarda dağıttığını resmi bir yolla TUS’a başvuruların başladığı tarihten önce ilan edilir.
+5. THSK, global kontenjanları hangi eğitim kurumlarına hangi sayılarda dağıttığını resmî bir yolla TUS’a başvuruların başladığı tarihten önce ilan edilir.
 
 6. Sahadaki sözleşmeli aile hekimleri, THSK’nın ilanındaki kontenjanlara başvurabilmek için TUS’a girip aldıkları puan ile THSK’ya başvururlar.
 

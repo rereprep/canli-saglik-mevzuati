@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 782-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-6.3.73. Kiralar ve Abonelikler Genelgesi (2012/02)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Türkiye Halk Sağlığı Kurumu Başkanlığı
@@ -24,7 +23,8 @@ Konu : Kiralar ve Abonelikler
 ............ VALİLİĞİNE
 (Halk Sağlığı Müdürlüğü)
 
-GENELGE 2012/02
+### GENELGE
+**2012/02**
 
 Bilindiği üzere ülkemiz genelinde hizmet veren aile sağlığı merkezlerinin büyük çoğunluğu kamu kurumlarından kiralanmış binalarda faaliyetlerini sürdürmektedir. Söz konusu binalardaki kira, elektrik, su, telefon, internet, doğalgaz vb. giderlerin “Aile Hekimliği Uygulama Yönetmeliği” ve “Aile Hekimliği Uygulaması Kapsamında Sağlık Bakanlığınca Çalıştırılan Personele Yapılacak Ödemeler ile Sözleşme Usul ve Esasları Hakkında Yönetmelik” hükümlerine istinaden aile hekimlerince karşılanması ve aboneliklerin kendi adlarına yenilenmesi gerekmektedir.
 

@@ -8,12 +8,17 @@ etiketler: ["toplum sağlığı", "tsm", "iş sağlığı ve güvenliği"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 449-455"
 durum: "yürürlükte"
 ocr: true
-tarih: "2014-01-31"
-sayi: "10.04"
+tarih: "2014"
+sayi: "98878870"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.23. Toplum Sağlığı Merkezlerinde (TSM) Yürütülecek İş Sağlığı ve Güvenliği Hizmetlerinin Uygulama Usûl Ve Esasları Hakkında
+
+### Bakanlık Makamına sunuş yazısı (kitap s. 449)
+
+30/06/2012 tarihli ve 28339 sayılı Resmî Gazete'de yayımlanan 6331 sayılı İş Sağlığı ve Güvenliği Kanunu ile 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete'de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğine paralel olarak, 16/06/2011 tarihli ve 20065 sayılı Bakanlık Olur'u ile yürürlüğe konulan “Temel İş Sağlığı Hizmetlerinin Uygulama Usul ve Esasları Hakkında Yönerge”de değişiklik yapılması gereği doğmuştur. Bu yönergenin yürürlükten kaldırılarak ekteki TSM yönergesinin yürürlüğe konulması arz edilmiştir. Onay yılı 2014; gün/ay okunaksızdır. Ek: yönerge (15 sayfa).
 
 ### TOPLUM SAĞLIĞI MERKEZLERİNDE YÜRÜTÜLECEK İŞ SAĞLIĞI VE GÜVENLIĞİ HİZMETLERİNİN UYGULAMA USÜL VE ESASLARI HAKKINDA YÖNERGE
 

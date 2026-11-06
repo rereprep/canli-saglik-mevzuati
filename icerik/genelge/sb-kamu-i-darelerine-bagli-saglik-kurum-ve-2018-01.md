@@ -10,10 +10,32 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1095
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-### SAĞLIK BAKANLIĞI
 
-Strateji Geliştirme Başkanlığı
+### T.C.
+### SAĞLIK BAKANLIĞI
+#### Strateji Geliştirme Başkanlığı
+
+**Sayı :** 93377465/010.06.01/  
+**Konu :** Kamu İdarelerine Bağlı Sağlık Kurum ve Kuruluşlarının Birbirlerinden Yapacakları Mal ve Hizmet Alımları
+
+### GENELGE
+**(2018/01)**
+
+4734 sayılı Kamu İhale Kanunu'nun "İstisnalar" başlıklı 3 üncü maddesinin (h) bendinde yer alan, "...sağlık hizmeti sunan bu Kanun kapsamındaki idarelerin teşhis ve tedaviye yönelik olarak birbirlerinden yapacakları mal ve hizmet alımları," hükmü ile 4734 sayılı Kanun kapsamında bulunan ve sağlık hizmeti sunan idarelerin teşhis ve tedaviye yönelik olmak üzere birbirlerinden yapacakları tüm mal ve hizmet alımları istisna kapsamına alınmıştır. Bu düzenlemeyle, 4734 sayılı Kanun kapsamında olup sağlık hizmeti sunan idarelerin birbirlerinden teşhis ve tedaviye yönelik olarak yapacakları mal ve hizmet alımlarını ihale yapmadan gerçekleştirmeleri mümkün hale gelmiştir.
+
+Anılan hükmün uygulamasını sağlamak üzere Maliye Bakanlığı'nca Bakanlığımız ve Kamu İhale Kurumu'nun görüşleri alınarak hazırlanan "Sağlık Hizmeti Sunan 4734 Sayılı Kamu İhale Kanunu Kapsamındaki İdarelerin Teşhis ve Tedaviye Yönelik Olarak Birbirlerinden Yapacakları Mal Ve Hizmet Alımlarına İlişkin Yönetmelik" 07.02.2009 tarihli ve 27134 sayılı Resmi Gazete'de yayımlanarak yürürlüğe konulmuş, ayrıca Bakanlığımızca çeşitli tarihlerde konuyu açıklayıcı genelgeler ve genel yazılar yayımlanmıştır.
+
+Öte yandan 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 1 inci maddesi ile Bakanlığımıza döner sermaye işletmeleri kurulabilmesi ve döner sermaye işletmelerinin borçlanma ve işletilmesine dair usûl ve esasların Bakanlığımızca belirlenmesine, 3 üncü maddesi ile de bu Kanuna tâbi döner sermayeli işletmelerin gerekli gördükleri hallerde ihtiyaç duydukları mal ve hizmetleri belirleyecekleri fiyat üzerinden, birbirlerinden temin edebilmelerine imkân tanınmıştır.
+
+694 sayılı KHK ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat Ve Görevleri Hakkında Kanun Hükmünde Kararname'de değişikliğe gidilerek Bakanlık ve bağlı kuruluşlarının merkez ve taşra teşkilatı yeniden yapılandırılmıştır. Bu çerçevede 03.10.2017 tarihli ve E.99-855 sayılı genel yazımız ile İl Sağlık Müdürlüklerinde, Sağlık Müdürlüğü İşletme Birimi ve bağlı sağlık tesisleri işletme birimlerinden müteşekkil (bundan sonra işletme birimi olarak ifade edilecektir) İl Sağlık Müdürlüğü Döner Sermaye İşletmesi kurulmasına dair usul ve esaslar belirlenmiştir.
+
+Bu yeni yapılanma doğrultusunda;  
+1- İl Sağlık Müdürlüğü işletme birimleri arasında,  
+2- İl Sağlık Müdürlükleri döner sermaye işletmeleri arasında,  
+3- İl Sağlık Müdürlükleri döner sermaye işletmeleri ile diğer kamu idarelerine bağlı sağlık kurum ve kuruluşları arasında;  
+Anılan Yönetmelik hükümleri doğrultusunda yapılacak teşhis ve tedaviye yönelik mal ve hizmet alımlarında uyulması gereken usul ve esaslar bu Genelgeyle yeniden düzenlenmiştir.
 
 ### A. Teşhis ve Tedaviye Yönelik Mal ve Hizmet Alımları
 
@@ -145,11 +167,13 @@ Cararalen bal.tac B Teshis ve Tedavire Yanellk Olanan Malve Hemes A lamlar 209 s
 
 1. Bu Genelgenin vürürkiže kirdilı tarilien önge inzalanan protokoller, yukarida belirtilen hususlar verşevesinde teniden dücatleneedk veya gerekli doğişiklikler A Gerck hizmet gerchze mal alimlarada hastaya sunulan hizmetlerin veye kullanılan mallara bedeli, geti ödeme kurumara sadece hizmeti mali alan Idare tarafindan fansalar dinacaktr. 7 13/02/2000 tarihli ve 2009/10 sayil Genelgs, 22/05/2013 manhti ve 20)1/05 sayih Genelge ve bu Genelgelere dayamleruk yayimlanan genel yazilar bu Cenelge sie yürürlükten kaldırılmıştır, & Be Genelge Bukerkk Makemaca izaland ğu tarihle ytrirluge gire- Bilgilerina ve geregni rica ederen-
 
-Prod. Dr. Esup ODMOS
+Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan =
 
-eteger Niler: 1- Protokol Tastuğs (1 Adet.2 sayfo) 1- Muhaseheleştertie Ornekleri (11 Sayta)
+Müsteşar
+
+**EKLER:** 1- Protokol Tastuğs (1 Adet.2 sayfo) 1- Muhaseheleştertie Ornekleri (11 Sayta)
 
 ### DAĞITIM
 

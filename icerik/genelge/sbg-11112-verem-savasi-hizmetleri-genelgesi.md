@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11112/verem-savasi-hizmetleri-genelges
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -1164,12 +1165,14 @@ l¡adde 14- Er Eßitin merkez ve Birliklerinde dakitin yepılmadan önce; .gerek
 
 **Madde 15 –** Milli Savunma Bakanlığı herhangi bir nedenle veren taranasi! dan geçmeden Eğitin M'erkez ve Birliklerine sevk edilenlerin digında , kitle taramaları 1çin özel ekip istenmemesi hususunda 1lgill yerlere gerekli talimatı verir.
 
-### ORTAK HUKÜLER
+### ORTAK HÜKÜMLER
 
-**Madde 16 –** Bu protokol 1mza tarihinden 1tibaren yürürluge girer,
+**Madde 16 –** Bu protokol imza tarihinden itibaren yürürlüğe girer.
 
-### MİLLİ SAVUNMA BAKANLIĞI SAĞLIE VE SOSYAL YARDIM BAKANLIGI
+### MİLLİ SAVUNMA BAKANLIĞI
 
-İsmail ÇETİN Dr. Tendoğan TOKGOZ Tep. Kd Alb. MUstegar ".S.B.SaË.ve Vet.D. Bgk. 1mza
+### SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
+
+İsmail ÇETİN Dr. Aydoğan TOKGÖZ Tep. Kd Alb. MUstegar ".S.B.SaË.ve Vet.D. Bgk. 1mza
 
 imza

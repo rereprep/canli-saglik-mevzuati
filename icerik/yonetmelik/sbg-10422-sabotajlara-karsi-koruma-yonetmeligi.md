@@ -7,6 +7,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10422/sabotajlara-karsi-koruma-yonetme
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 konu: "Kamu ve özel kuruluşları sabotajlara karşı korumak için alınacak tedbir ve uygulama esaslarını düzenler."
 birim: "Bakanlar Kurulu"
 sayi: "88/13543"

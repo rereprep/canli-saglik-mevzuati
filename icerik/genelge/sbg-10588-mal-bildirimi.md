@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10588/mal-bildirimi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – Personel Genel Müdürlüğü
@@ -88,43 +89,3 @@ Ek - 1 Mal Bildirim Formu
 ### DAĞITIM:
 
 A Planı
-
-#### Resmî Gazete, 11 Haziran 2002 – Sayı: 24782
-
-Yönetmelik
-
-Karar Sayısı: 2002/4133 Ekli "Kamu Konutları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"in yürürlüğe konulması; 2946 sayılı Kamu Konutları Kanunu'nun 11 inci maddesine göre, Bakanlar Kurulu'nca 1/5/2002 tarihinde kararlaştırılmıştır. Bülent ECEVİT Ahmet Necdet SEZER
-
-Başbakan CUMHURBAŞKAN
-
-D. BAHÇELİ H. H. ÖZKAN M. YILMAZ K. DERVİŞ
-
-Devlet Bak. ve Başb. Yrd. Devlet Bak. ve Başb. Yrd Devlet Bak. ve Başb. Yrd. Devlet Bakanı Prof. Dr. T. TOSKAY M. KEÇECİLER F. ÜNLÜ F. BAL Devlet Bakanı Devlet Bakanı Devlet Bakanı V. Devlet Bakanı N. ARSEVEN M. YILMAZ Prof. Dr. R. MİRZAOĞLU Dr. Y. KARAKOYUNLU Devlet Bakanı Devlet Bak. ve Başb. Yrd. Devlet Bakanı Devlet Bakanı H. GEMİCİ Prof. Dr. Ş. ÜŞENMEZ E. S. GAYDALI F. ÜNLÜ Devlet Bakanı Devlet Bakanı Devlet Bakanı Devlet Bakanı
-
-Dr. R. DOĞRU R. ÖNAL M. BOSTANCIOĞLU S. ÇAKMAKOĞLU
-
-Devlet Bakanı Devlet Bakanı Adalet Bakanı V. Milli Savunma Bakanı
-
-R. K. YÜCELEN İ. CEM S. ORAL M. BOSTANCIOĞLU
-
-İçişleri Bakanı Dışişleri Bakanı Maliye Bakanı Milli Eğitim Bakanı Prof. Dr. A. AKÇAN Doç. Dr. O. DURMUŞ Prof. Dr. A. AKÇAN Prof. Dr. H. Y. GÖKALP Bayındırlık ve İskân Bakanı Sağlık Bakanı Ulaştırma Bakanı V. Tarım ve Köy İşleri Bakanı
-
-Y. OKUYAN A. K. TANRIKULU Z. ÇAKAN M. İ. TALAY
-
-Çalışma ve Sos. Güv. Bakanı Sanayi ve Ticaret Bakanı Enerji ve Tabii Kay. Bakanı Kültür Bakanı
-
-M. TAŞAR Prof. Dr. N. ÇAĞAN F.AYTEKİN
-
-Turizm Bakanı Orman Bakanı Çevre Bakanı
-
-#### Kamu Konutları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
-
-**MADDE 1 –** 16/07/1984 tarihli ve 84/8345 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Konutları Yönetmeliğinin 14'üncü maddesinin birinci fıkrasının ikinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiş ve mevcut üçüncü cümle aşağıdaki şekilde değiştirilmiştir. "Bu birim beyannameleri Mal Bildiriminde Bulunulması Hakkında Yönetmelik uyarınca verilen mal bildirimleri ile karşılaştırılması için mal bildirimlerinin verileceği mercilere gönderir." Karşılaştırma işlemi sonuçlandıktan sonra, konut tahsis işlerini yürütmekle görevlendirilen birimde, beyannamedeki bilgilere göre ek (4) sayılı cetveldeki puanlar dikkate alınır ve her yıl Ocak ayı içinde gerekli değerlendirme bilgisayar ortamında yapılarak toplam puana göre sıra cetveli düzenlenir."
-
-**MADDE 2 –** Aynı Yönetmeliğin eki (5) sayılı cetvel ilişikteki şekilde değiştirilmiştir.
-
-**MADDE 3 –** Aynı Yönetmeliğe aşağıdaki geçici madde eklenmiştir. "Geçici Madde 10- Bu Yönetmeliğin "yayımı tarihinden itibaren yapılacak konut tahsisleri için en geç bir ay içinde ek (5) sayılı cetvelin değişik şekline göre yeni beyannameler alınır. Konut tahsisleri yeni beyannameler esas alınarak sonuçlandırılır."
-
-**MADDE 4 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
-
-**MADDE 5 –** Bu Yönetmelik hükümlerini Bakanlar Kurulu yürütür.

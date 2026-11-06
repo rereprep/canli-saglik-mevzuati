@@ -11,6 +11,7 @@ duzeltildi: true
 konu: "Engelli hastalara yönelik ağız ve diş sağlığı hizmet birimlerinin sınıflandırılmasını, fiziki şartlarını ve personel standartlarını düzenler."
 tarih: "2022-05-13"
 sayi: "2022/3"
+kontrol_edildi: true
 ---
 
 T.C.
@@ -35,9 +36,7 @@ Bilindiği üzere; engelli hastalara yönelik ağız ve diş sağlığı hizmetl
 
 Bakanlığımızca sağlık kurum ve kuruluşları tarafından engelli hastalara yönelik ağız ve diş sağlığı hizmetlerinin bütüncül bir yaklaşımla güncel ihtiyaç ve beklentilere uygun olarak sunulmasını temin etmek üzere birimlerde görev yapacak asgari personel standardı, birimlerin fiziki şartları, bu birimlerin kurulması ve işleyişi ile buralarda görev yapacak personelin eğitimlerine ilişkin düzenleme yapılması gerektiği değerlendirilmiştir.
 
-Bu kapsamda engelli hastalara yönelik ağız ve diş sağlığı hizmet birimleri; hizmetin içeriği, personel standardı ve fiziki gereklilikler bakımından, ekte usul ve esasları belirtilen engelli polikliniği, engelli ünitesi ve engelli diş tedavi merkezi olarak sınıflandırılmış olup poliklinik ve ünitenin ağız ve diş sağlığı hizmeti sunulan sağlık tesisleri bünyesinde; merkez ise Bakanlığımız planlamaları kapsamında uygun görülen yataklı sağlık tesisleri bünyesinde kurulmalıdır. Ağız ve Diş Sağlığı Dairesi Başkanlığı Bilgi İçin: Bilgen KİBAROĞLU Bilkent Yerleşkesi, Üniversiteler Mah. Dumlupınar Bulvarı 6001 Cad. No:9 06800 Çankaya /ANKARA Sağlık Teknikeri (Diş) e-Posta: bilgen.kibaroglu@saglik.gov.tr İnternet Adresi: https://shgmadsdb.saglik.gov.tr Telefon No: 0 (312) 471 7912
-
-### Genelge
+Bu kapsamda engelli hastalara yönelik ağız ve diş sağlığı hizmet birimleri; hizmetin içeriği, personel standardı ve fiziki gereklilikler bakımından, ekte usul ve esasları belirtilen engelli polikliniği, engelli ünitesi ve engelli diş tedavi merkezi olarak sınıflandırılmış olup poliklinik ve ünitenin ağız ve diş sağlığı hizmeti sunulan sağlık tesisleri bünyesinde; merkez ise Bakanlığımız planlamaları kapsamında uygun görülen yataklı sağlık tesisleri bünyesinde kurulmalıdır. ### Genelge
 
 T.C.
 
@@ -55,7 +54,19 @@ Prof. Dr. Sabahattin AYDIN
 
 Bakan a.
 
-Bakan Yardımcısı Ek: Usul ve Esaslar (3 Sayfa) Dagitim: 81 İl Valiliğine (I1 Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne Sağlık Yatırımları Genel Müdürlüğüne Ağız ve Diş Sağlığı Dairesi Başkanlığı Bilgi İçin: Bilgen KİBAROĞLU Bilkent Yerleşkesi, Üniversiteler Mah. Dumlupınar Bulvarı 6001 Cad. No:9 06800 Çankaya /ANKARA Sağlık Teknikeri (Diş) e-Posta: bilgen.kibaroglu@saglik.gov.tr Internet Adresi: https://shgmadsdb.saglik.gov.tr Telefon No: 0 (312) 471 7912 Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
+Bakan Yardımcısı
+
+Ek: Usul ve Esaslar (3 Sayfa)
+
+### DAĞITIM
+
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+Kamu Hastaneleri Genel Müdürlüğüne
+
+Sağlık Yatırımları Genel Müdürlüğüne
+
+### Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
 
 1) Engelli Ağız ve Diş Sağlığı Hizmet Birimleri:
 
@@ -79,7 +90,7 @@ e) Bekleme salonu, muayene odalarına bitişik bir alanda oluşturulmalı, diğe
 
 3) Engelli Ünitesi ve Diş Tedavi Merkezinin Fiziki Şartları:
 
-a) Unite ve merkez; poliklinik, ameliyathane ve yataklı servis olmak üzere üç ana bölümden oluşur.
+a) Ünite ve merkez; poliklinik, ameliyathane ve yataklı servis olmak üzere üç ana bölümden oluşur.
 
 b) Poliklinik; en az bir adet muayene odası ve bekleme salonundan oluşur ve yukarıda belirtilen polikliniğin fiziki şartlarını taşır.
 
@@ -115,7 +126,7 @@ b) Hastanın sağlık kuruluşu içerisindeki tetkik, tedavi ve konsültasyon i�
 
 c) Yoğun bakım ihtiyacı olan hastaların idame tedavileri mümkünse aynı sağlık kuruluşu içerisinde, değilse en yakın sağlık kuruluşunda devam ettirilir.
 
-d) Il sağlık müdürlüğü veya sağlık tesislerindeki evde sağlık hizmeti için tahsis edilmiş ulaşım ve nakil araçları, ihtiyaç duyulması halinde engelli hastalara yönelik ağız ve diş sağlığı birimleriyle birlikte ortak kullanılabilir.
+d) İl sağlık müdürlüğü veya sağlık tesislerindeki evde sağlık hizmeti için tahsis edilmiş ulaşım ve nakil araçları, ihtiyaç duyulması halinde engelli hastalara yönelik ağız ve diş sağlığı birimleriyle birlikte ortak kullanılabilir.
 
 e) Acil durumlarda hasta, sağlık kuruluşunun kendi ambulansı veya 112 acil sağlık hizmetleri ambulansı ile nakledilir.
 

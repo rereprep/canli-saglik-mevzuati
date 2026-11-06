@@ -10,7 +10,18 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 275-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
+### T.C. SAĞLIK BAKANLIĞI
+#### Sağlık Hizmetleri Genel Müdürlüğü
+
+**Sayı :** 95966346/  
+**Konu :** Kan Numunelerinde Etanol Analizi İşlemlerinin Usul ve Esasları  
+**Tarih :** 27/04/2017
+
+### GENELGE
+**2017/12**
 
 ### KAN NUMUNELERİNDE ETANOL ANALİZİ İŞLEMLERİNİN USUL VE ESASLARI
 
@@ -60,6 +71,19 @@ karıştırılır. 2.1.2. Numune Kabul: Numune kabul biriminde nunune, kabul/ret
 
 değerlendirilerek laboratuvar kabul işlemi yapılır.
 
-### 3. Doğrulama İşlemleri 3.1. Doğrulama: Tıbbi laboratuvarlarda yapılan tetkiklere süreç vasıtasıyla yapalacak. itirazda doğrulana iş ve işlemleri Adli Tıp Kurumu tarafindan yapılır. Numune nakli ve diğer ią ve işlemler Adli Tıp Kurumunca belirlenen prosedürlere uygun olarak yapıla.
+### 3. DOĞRULAMA İŞLEMLERİ
 
-### 4. Bu Genelgede belirtilmeyen hususlarda 09,10.2013 ve 28790 sayılı Resmî Gazete'de yayımlanan Tıbbi Laboratuvarlar Yönetmeliği ve ilgili diğer mevzuat hükümleri geçerlidir.
+3.1. Doğrulama: Tıbbi laboratuvarlarda yapılan tetkiklere yasal süreç vasıtasıyla yapılacak itirazda doğrulama iş ve işlemleri Adli Tıp Kurumu tarafından yapılır. Numune nakli ve diğer iş ve işlemler Adli Tıp Kurumunca belirlenen prosedürlere uygun olarak yapılır.
+
+### 4. DİĞER HUSUSLAR
+
+Bu Genelgede belirtilmeyen hususlarda 09.10.2013 tarihli ve 28790 sayılı Resmî Gazete'de yayımlanan Tıbbi Laboratuvarlar Yönetmeliği ve ilgili diğer mevzuat hükümleri geçerlidir.
+
+Bilgilerinizi ve gereğini rica ederim.
+
+Prof. Dr. Eyüp GÜMÜŞ  
+Bakan a.  
+Müsteşar
+
+### DAĞITIM:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)

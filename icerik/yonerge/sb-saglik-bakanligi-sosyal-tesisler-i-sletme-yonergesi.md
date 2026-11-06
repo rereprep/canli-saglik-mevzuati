@@ -11,35 +11,49 @@ ocr: true
 tarih: "2020-01-24"
 sayi: "955"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 9.2.2. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi
 
 ### SAĞLIK BAKANLIĞI SOSYAL TESİSLER İŞLETME YÖNERGESİ
 
-## BİRİNCİ BÖLÜM
-### Amaç, Kapsam, Dayanak ve Tanımlar
+## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç
-**MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığına bağlı sosyal tesislerin kuruluş ve işletilmesine ilişkin usul ve esasları belirlemektir.
+
+**MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığı merkez ve taşra teşkilatına ait sosyal tesislerin kurulmasına, yönetilmesine, işletilmesine ve sosyal tesis imkânetlerinden yararlanılmasına, ilgili mevzuat kapsamında muhasebe, defter ve kayıtlarının tutulmasına, hesap verilebilirlik açısından denetim birimlerine ve diğer bilgi kullanıcılarına sunulmasına dair usûl ve esasları düzenlemektir.
 
 #### Kapsam
-**MADDE 2 –** (1) Bu Yönerge; Sağlık Bakanlığına bağlı olarak faaliyet gösteren sosyal tesisleri kapsar.
+
+**MADDE 2 –** (1) Bu Yönerge, Bakanlık personeli ve emeklilerinin, eşi, çocukları ile kanunen bakmakla yükümlü oldukları aile bireylerinin Bakanlık merkez teşkilatı yemekhanesi hariç olmak üzere yemekhane, kafeterya, eğitim ve dinlenme tesisi, hekim evi, kreş gibi sosyal tesislerin yönetimini, işletilmesini, kapatılmasını, açılmasına ve buralarda verilecek hizmetleri kapsar.
 
 #### Dayanak
-**MADDE 3 –** (1) Bu Yönerge; 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddeleri ile Kamu Sosyal Tesislerine İlişkin Tebliğ hükümlerine dayanılarak hazırlanmıştır.
+
+**MADDE 3 –** (1) Bu Yönerge, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu'nun 191 inci maddesi, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 379 uncu maddesi, Kamu Kurum ve Kuruluşlarınca İşletilen Sosyal Tesislerin Muhasebe Uygulamalarına Dair Esas ve Usuller ile Kamu Sosyal Tesislerine İlişkin Tebliğlere dayanılarak hazırlanmıştır.
 
 #### Tanımlar
+
 **MADDE 4 –** (1) Bu Yönergede geçen;
-a) Bakanlık: Sağlık Bakanlığını,
-b) Sosyal Tesis: Sağlık Bakanlığına bağlı eğitim ve dinlenme tesisi, misafirhane, kreş ve çocuk bakımevi, spor tesisi, yemekhane ve benzeri tesisleri,
-c) Üst Yönetici: Sağlık Bakanlığı Bakan Yardımcısını,
+
+a) Bakanlık: Sağlık Bakanlığı merkez ve taşra teşkilatını,
+
+b) Daire Başkanlığı: Genel Müdürlüğün yapacağı görevlendirmeye göre İdari Hizmetler Dairesi Başkanlığını, Destek Hizmetleri Dairesi Başkanlığını ya da Mali Hizmetler Dairesi Başkanlığını,
+
+c) Genel Müdürlük: Yönetim Hizmetleri Genel Müdürlüğünü,
+
+ç) Gerçekleştirme Görevlisi: Harcama yetkilisi tarafından görevlendirilen ve 5018 sayılı Kanun'a göre görevini ifa eden personeli,
+
+d) Harcama Yetkilisi: Üst yönetici tarafından görevlendirilen ve 5018 sayılı Kanun'a göre görevini ifa eden personeli,
+
+e) Muhasebe Yetkilisi: Öncelikli olarak fakülte ve yüksekokulların işletme, iktisat, maliye, muhasebe bölümlerinden mezun olanlar veya muhasebe yetkilisi sertifikası olanlar arasından Yönetim Kurulunca görevlendirilen personeli,
+
+f) Kamu Harcama ve Muhasebe Bilişim Sistemi (KBS): Verilerin Hazine ve Maliye Bakanlığına aktarılmasında kullanılan sistemi,
+
+g) KTS Sosyal Tesis: Milli Emlak Otomasyon Projesi sisteminde oluşturulan modülü,
+
 ifade eder.
 
-## İKİNCİ BÖLÜM
-### Sosyal Tesislerin Kuruluşu ve İşletilmesi
-
-#### Kuruluş
 **MADDE 5 –** (1) Sosyal tesisler Üst Yöneticinin onayı ile kurulur veya kapatılır.
 
 ## ÜÇÜNCÜ BÖLÜM

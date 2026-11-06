@@ -9,9 +9,48 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 299-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 3.2.1. Sağlık Bakanlığı Afet ve Acil Durum Yönetim Merkezi Yönergesi
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Acil Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı: E-29341019-303.99
+
+Konu: Sağlık Bakanlığı Afet ve Acil Durum Yönetim Merkezi Yönergesi
+
+BAKANLIK MAKAMINA
+
+19/02/2011 tarihli ve 27851 sayılı Resmi Gazete'de yayımlanan Afet ve Acil Durum Yönetim Merkezleri Yönetmeliği ile tüm Bakanlıklar, Afet ve Acil Durum Yönetim Merkezlerini (AADYM) kurmak ve işletmekle yükümlü kılınmıştır.
+
+Bu kapsamda, meydana gelebilecek afet ve acil durumlarda sağlık hizmetleri alanında yürütülen tüm çalışmaları koordine etmek ve yürütmek amacıyla hazırlanan ve ekte yer alan Sağlık Bakanlığı Afet ve Acil Durum Yönetim Merkezi (SAKOM-İl SAKOM) Yönergesi'nin onaylanarak yürürlüğe konulması hususunu;
+
+Tensiplerinize arz ederim.
+
+Doç. Dr. Eray ÇINAR
+
+Genel Müdür
+
+Uygun görüşle arz ederim. [?]
+
+Dr. Şuayip BİRİNCİ
+
+Bakan Yardımcısı
+
+OLUR [?]
+
+Dr. Fahrettin KOCA
+
+Bakan
+
+Ek: Yönerge Metni
 
 ### SAĞLIK BAKANLIĞI AFET VE ACİL DURUM YÖNETİM MERKEZİ (SAKOM) VE İL SAKOM YÖNERGESİ
 

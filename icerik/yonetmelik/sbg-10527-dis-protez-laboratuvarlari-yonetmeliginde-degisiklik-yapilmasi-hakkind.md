@@ -7,6 +7,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10527/dis-protez-laboratuvarlari-yonet
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 tarih: "2011-12-31"
 konu: "Diş protez laboratuvarlarında bulundurulması gereken araç ve gereçler ile laboratuvar türlerine ilişkin Yönetmelik değişikliklerini düzenler."
 birim: "Sağlık Bakanlığı"
@@ -280,31 +281,31 @@ MADDE 9 ‒ Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
 Ek:2
 
-### T.C. . . . . . . . . . . . . VALİLİĞİ ....................... İL SAĞLIK MÜDÜRLÜĞÜ ÖZEL . . . . (Bu Kısma Laboratuvarın Adı Yazılacak) . . . . Dİş PROTEZ LABORATUVARI RUHSAT BELGESİ
+### T.C. . . . . . . . . . . . . VALİLİĞİ ....................... İL SAĞLIK MÜDÜRLÜĞÜ ÖZEL . . . . (Bu Kısma Laboratuvarın Adı Yazılacak) . . . . Diş PROTEZ LABORATUVARI RUHSAT BELGESİ
 
 . . . / . . . / . . .
 
 No:
 
-………..(Laboratuvar Sahibinin Adı Yazılacak-şirket-şahıs)… sahipliğinde …………(Bu Kısma Laboratuvarın Adresi Yazılacak)…...……………………...……….. adresinde faaliyet göstermek isteyen ……(Bu Kısma Laboratuvarın Türü Yazılacak, Çok Amaçlı ise hangi türlerden oluŞtuğu da belirtilecek) ………….. DiŞ Protez Laboratuvarının …………... tarihli ve …………. sayılı Resmî Gazete’de yayımlanan DiŞ Protez Laboratuvarları Yönetmeliği doğrultusunda ruhsatlandırılması uygun görülmüŞtür.
+………..(Laboratuvar Sahibinin Adı Yazılacak-şirket-şahıs)… sahipliğinde …………(Bu Kısma Laboratuvarın Adresi Yazılacak)…...……………………...……….. adresinde faaliyet göstermek isteyen ……(Bu Kısma Laboratuvarın Türü Yazılacak, Çok Amaçlı ise hangi türlerden oluştuğu da belirtilecek) ………….. Diş Protez Laboratuvarının …………... tarihli ve …………. sayılı Resmî Gazete’de yayımlanan Diş Protez Laboratuvarları Yönetmeliği doğrultusunda ruhsatlandırılması uygun görülmüştür.
 
 ### SAĞLIK MÜDÜRÜ VALİ
 
 Ek:4 Belge No: Tarih:...../......./.........
 
-### . . . . . . . . . . . . . . . . . . . . . . . . . . . . Dİş PROTEZ LABORATUVARI PERSONEL ÇALIşMA BELGESİ ADI, SOYADI : UNVANI GÖREVİ : BABA ADI :
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . Diş PROTEZ LABORATUVARI PERSONEL ÇALIşMA BELGESİ ADI, SOYADI : UNVANI GÖREVİ : BABA ADI :
 
 DOĞUM YERİ / TARİHİ ( Ay -gün) :
 
 ### MEZUN OLDUĞU OKUL :
 
-□ DiŞhekimliği □ D.P.T. Yüksek □ Sağlık Meslek
+□ Dişhekimliği □ D.P.T. Yüksek □ Sağlık Meslek
 
 ### Fakültesi Okulu Lisesi
 
 Mezuniyet Tarihi : Diploma No :
 
-### SAĞLIK BAKANLIĞI Dİş PROTEZ TEKNİSYENLİĞİ MESLEK BELGESİNİN
+### SAĞLIK BAKANLIĞI Diş PROTEZ TEKNİSYENLİĞİ MESLEK BELGESİNİN
 
 Tescil Tarih / No : Kütük Sayfa No :
 
@@ -314,9 +315,9 @@ ADI :
 
 ### ADRESİ :
 
-Yukarıda açık kimliği yazılı olan DiŞ Hekiminin / DiŞ Protez Teknisyeninin /Yardımcı Personelin ........................................................... DiŞ Protez Laboratuvarında mesleğini icra etmesi, İl Sağlık Müdürlüğünce uygun görülmüŞtür.
+Yukarıda açık kimliği yazılı olan Diş Hekiminin / Diş Protez Teknisyeninin /Yardımcı Personelin ........................................................... Diş Protez Laboratuvarında mesleğini icra etmesi, İl Sağlık Müdürlüğünce uygun görülmüştür.
 
-Bu belge ..... /...... / ....... tarihli ve ......... sayılı Resmî Gazete'de yayımlanan DiŞ Protez Laboratuvarları Yönetmeliği hükümlerine göre düzenlenmiŞtir.
+Bu belge ..... /...... / ....... tarihli ve ......... sayılı Resmî Gazete'de yayımlanan Diş Protez Laboratuvarları Yönetmeliği hükümlerine göre düzenlenmiştir.
 
 Düzenleyen Onaylayan
 
@@ -324,7 +325,7 @@ Mesul Müdür Sağlık Müdürlüğü
 
 İmza ve Tarih İmza ve Tarih Ek :7
 
-### T.C ........................... VALİLİĞİ İL SAĞLIK MÜDÜRLÜĞÜ Dİş PROTEZ LABORATUVARLARI DENETLEME FORMU
+### T.C ........................... VALİLİĞİ İL SAĞLIK MÜDÜRLÜĞÜ Diş PROTEZ LABORATUVARLARI DENETLEME FORMU
 
 Laboratuvarın Adı : Tarih : . . / . . / . . . . Türü : Saat : Adresi :
 
@@ -396,7 +397,7 @@ Görevi Görevi Görevi Görevi Görevi
 
 İmza İmza İmza İmza İmza NOT: Bu formda saptanan eksiklikleri Denetim Defterine yazınız. Aynı eksikliğin kapatma süresi sonunda da devamı halinde ruhsat iptal iŞlemi uygulanır. EK : 8
 
-### Dİş PROTEZ LABORATUVARI RUHSAT BAşVURU DOSYASI İL DEĞERLENDİRME CETVELİ LABORATUVARIN
+### Diş PROTEZ LABORATUVARI RUHSAT BAşVURU DOSYASI İL DEĞERLENDİRME CETVELİ LABORATUVARIN
 
 ADI :
 
@@ -408,7 +409,7 @@ ADI :
 
 ( Mesul Müdürlük Belgesi İçin )
 
-### AĞIR VE TEHLİKELİ İŞLERDE ÇALIŞACAKLARA AİT İŞE □ VAR □ YOK GİRİŞ/PERİYODİK MUAYENE FORMU BÜYÜK BOY AKCİĞER FİLMLERİ □ VAR □ YOK Dİş PROTEZ HİZMETLERİNDE ÇALIşAN DİĞER PERSONEL DİPLOMA VEYA MESLEK BELGESİ ÖRNEĞİ □ VAR □ YOK
+### AĞIR VE TEHLİKELİ İŞLERDE ÇALIŞACAKLARA AİT İŞE □ VAR □ YOK GİRİŞ/PERİYODİK MUAYENE FORMU BÜYÜK BOY AKCİĞER FİLMLERİ □ VAR □ YOK Diş PROTEZ HİZMETLERİNDE ÇALIşAN DİĞER PERSONEL DİPLOMA VEYA MESLEK BELGESİ ÖRNEĞİ □ VAR □ YOK
 
 (Sağlık Müdürlüğünce Aslı Görüldü Onaylı)
 

@@ -2,7 +2,7 @@
 id: "sb-seyahat-i-liskili-lejyoner-hastaligi-kontrol-programi-2001-34"
 baslik: "Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı Genelgesi (2001/34)"
 tur: "genelge"
-tarih: "2001-04-12"
+tarih: "2001-05-01"
 sayi: "2001/34"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Seyahat ilişkili lejyoner hastalığı vakalarının bildirimi, vaka ve çevresel sürveyansı ile koruma ve kontrol önlemleri"
@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 626-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.23. Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı Genelgesi (2001/34)
@@ -19,37 +20,25 @@ T.C.
 SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B100TSH0110004 / 5472
+Sayı : B100TSH0110001
 Konu : Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı
 
-GENELGE
-2001/34
+01/05/2001
 
-Bilindiği gibi seyahat ilişkili Lejyoner Hastalığı, konaklama tesislerinde kalan yerli ve yabancı turistlerde görülebilen, ölümcül seyredebilen ve turizm sektörünü doğrudan etkileyen önemli bir halk sağlığı sorunudur.
+GENELGE- 2001/34
 
-Hastalığın kontrol altına alınması, konaklama tesislerinde gerekli teknik ve hijyenik tedbirlerin uygulanması, etkin bir vaka ve çevresel sürveyans sisteminin yürütülmesi amacıyla Bakanlığımızca "Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı" hazırlanmıştır.
+İlgi : 30.05.1996 tarih ve 6076 Sayılı Daimi Genelge
 
-Bu kapsamda;
+Seyahat İlişkili Lejyoner Hastalığı, günümüzde özellikle turizm sektöründe ciddi sorunlara yol açan bir hastalıktır. Bu hastalık için Avrupa ülkeleri için bir haberleşme ağı kurulmuş olup, ülkemiz de bu ağın içinde yer almaktadır. 1996 yılında yayınlanan İlgi'de belirtilen genelge doğrultusunda Lejyoner hastalığına yönelik çalışmalar, bilimsel gelişmeler göz önüne alınarak ekte gönderilen "Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı" çerçevesinde yeniden düzenlenmiştir.
 
-1- Ekte gönderilen "Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı" doğrultusunda ilinizdeki tüm kamu ve özel sağlık kurum ve kuruluşları ile konaklama tesislerinde gerekli iş ve işlemlerin titizlikle yürütülmesi,
+Ekte gönderilen "Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı" göz önüne alınarak, özellikle hastanelere öncelik vererek vaka sürveyansı çalışmalarını, İl Turizm Müdürlükleri ile işbirliği içinde Bulaşıcı Hastalıklar Şube Müdürlüğü ve Gıda ve Çevre Kontrol Şube Müdürlükleri sorumluluğunda çevresel sürveyans çalışmalarını düzenlemeniz gerekmektedir.
 
-2- Tanı konulan veya şüphelenilen vakaların ivedilikle İl Sağlık Müdürlüğüne ve Bakanlığımıza bildirilmesi,
+İlgi'de belirtilen 30.05.1996 tarih ve 6076 sayılı Daimi Genelge, bu genelge ile yürürlükten kaldırılmış olup, ekte gönderilen "Seyahat İlişkili Lejyoner Hastalığı Kontrol Programı"nın il düzeyindeki bütün sağlık kuruluşlarında dağıtımının yapılması ve personel eğitimlerinde göz önüne alınması hususunda bilgi ve gereğini önemle rica ederim.
 
-3- Vaka bildirilen konaklama tesislerinde çevresel sürveyans ve filyasyon çalışmalarının gecikmeksizin başlatılması,
+Doç. Dr. Osman DURMUŞ
+Sağlık Bakanı
 
-hususlarında;
-
-Bilgilerinizi ve gereğini önemle rica ederim.
-
-Doç. Dr. Sefer AYCAN
-Bakan a.
-Müsteşar
-
-EKLER:
-1- Kontrol Programı Metni ve Formlar
-
-DAĞITIM:
-81 İl Valiliğine (İl Sağlık Müdürlüğü)
+EK : Kontrol Programı (23) sayfa
 
 ---
 

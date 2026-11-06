@@ -2,51 +2,45 @@
 id: "sb-saglik-personelinin-ihtiyac-halinde-cagriya-uymasi-genelgesi-2018-28"
 baslik: "Sağlık Personelinin İhtiyaç Halinde Çağrıya Uyması Genelgesi (2018/28)"
 tur: "genelge"
-tarih: "2018-10-31"
+tarih: "2018-12-04"
 sayi: "2018/28"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
-konu: "Afet ve olağanüstü hallerde sağlık personelinin göreve çağrılması ve çağrıya icabet etme zorunluluğu"
+konu: "Sağlık personelinin mesai saatleri haricinde ihtiyaç halinde sağlık kuruluşuna en kısa sürede ulaşması ve çağrıya uyma esasları."
 etiketler: ["sağlık personeli", "olağanüstü hal", "göreve çağrı", "afet"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 294-296"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-2.3.63. Sağlık Personelinin İhtiyaç Halinde Çağrıya Uyması Genelgesi (2018/28)
+### T.C.
+### SAĞLIK BAKANLIĞI
+#### Sağlık Hizmetleri Genel Müdürlüğü
 
-T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sayı :** 54567092 - 641.99 - E.99-6056  
+**Konu :** Sağlık Personelinin İhtiyaç Halinde Çağrıya Uyması  
+**Tarih :** 04/12/2018
 
-Sayı : 23642684-010.06.02
-Konu : Sağlık Personelinin İhtiyaç Halinde Çağrıya Uyması
+### GENELGE
+**2018/28**
 
-GENELGE
-2018/28
+Bilindiği üzere, sağlık hizmetlerinin aciliyeti, sürekli ve ertelenemez özelliği sebebiyle, kamu ve özel sağlık kuruluşlarında çalışan sağlık personelinin, ihtiyaç duyulduğunda sağlık kuruluşuna en kısa sürede ulaşması, gerek sağlık hizmetinin etkililiği gerekse hastaların ihtiyaç duydukları sağlık hizmetine zamanında ulaşabilmeleri bakımından büyük önem taşımaktadır.
 
-Bilindiği üzere, 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin birinci fıkrasının (ı) bendinde "Afet, savaş, seferberlik hallerinde ve olağanüstü durumlarda sağlık hizmetlerinin aksamaması amacıyla kamu ve özel sektör bütün sağlık kurum ve kuruluşlarının sevk ve idaresi Sağlık Bakanlığınca yürütülür. Bu kurum ve kuruluşlar Sağlık Bakanlığının sevk ve idaresine uymak zorundadır. Bu hallerde; kamu ve özel sektör bütün sağlık kurum ve kuruluşlarında çalışan tabipler dahil tüm sağlık personeli ile sağlık personeli sayılanlar, Bakanlığın gerek görmesi halinde ihtiyacı karşılamak üzere, görev yaptıkları kurum ve kuruluşun haricinde Bakanlıkça belirlenecek yerlerde çağrı üzerine görev yapmakla yükümlüdür." hükmü amirdir.
+10/7/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 383 üncü maddesinde; *"Sağlık personelinin mesai saatleri haricinde de hizmetine ihtiyaç duyulduğunda ilgili sağlık kuruluşuna ulaşabilmeleri için alınacak tedbirler ve ilgililerin uyacağı kurallar Bakanlıkça belirlenir."* hükmü yer almaktadır.
 
-Afet, savaş, seferberlik halleri ile olağanüstü durumlar dışında da; toplumsal hareketler, geniş çaplı kazalar, salgın hastalıklar ve halk sağlığını tehdit eden diğer olağanüstü durumlarda sağlık hizmetlerinin aksamadan yürütülebilmesi için Bakanlığımızca ihtiyaç duyulan il veya bölgelere personel takviyesi yapılması gerekebilmektedir.
+Kamu ve özel sağlık kuruluşlarında sağlık hizmetlerinin verimli ve aksamadan yerine getirilmesini temin amacıyla normal mesai saatleri haricinde de hizmetine ihtiyaç duyulabilen sağlık personelinin, ihtiyaç durumunda en kısa sürede sağlık kuruluşuna ulaşması gerekmektedir. Bu itibarla ilgili personelin normal ulaşım şartlarında 30 dakika içinde sağlık kuruluşunda bulunmasını sağlayacak şekilde yukarıdaki kanun hükmüne riayet edilmelidir.
 
-Bu kapsamda, afet ve olağanüstü hallerde sağlık hizmetlerinin etkin, verimli ve kesintisiz sunulmasını teminen;
+Mülki idare amirleri eş durumu, sağlık mazereti sebebiyle veya personelin ikameti için mesken bulunamadığı durumlarda sağlık hizmetinin aksamaması için gerekli tedbirleri almak kaydıyla, bu süreyi ilgili sağlık personelinin şartları ile halkın hizmete erişim ihtiyacını dikkate alarak belirleyebilir.
 
-1- Kamu ve özel sektör bütün sağlık kurum ve kuruluşlarında görev yapan tabipler dahil tüm sağlık personelinin, ihtiyaç duyulması halinde Bakanlığımızca veya Valiliklerce yapılacak çağrıya derhal icabet etmeleri,
+Uygulamanın titizlikle takibi ile genelgeye aykırı hareket eden personel hakkında görev yaptığı kuruluşun mevzuatına göre idari ve disiplin işlemi yapılması hususunda;
 
-2- Kurum ve kuruluş yöneticilerinin, görevlendirilen personelin görev yerine intikalini sağlayacak her türlü tedbiri alması ve bu konuda gerekli kolaylığı göstermesi,
+Bilgilerini ve bu çerçevede gereğini önemle rica ederim.
 
-3- Yapılan çağrıya mazeretsiz olarak uymayan veya gecikmeli olarak katılan personel hakkında ilgili mevzuat hükümleri doğrultusunda idari ve yasal işlemlerin tesis edilmesi,
+Prof. Dr. Muhammet GÜVEN  
+Bakan a.  
+Bakan Yardımcısı
 
-hususlarında;
-
-Bilgilerini ve gereğini önemle rica ederim.
-
-Dr. Fahrettin KOCA
-Bakan
-
-DAĞITIM:
-Gereği:
-- 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-- Bakanlık Merkez Teşkilatına
-- Bağlı ve İlgili Kuruluşlara
-
+**Dağıtım:**  
+81 İl Valiliğine (İl Sağlık Müdürlüğü)  
+Yükseköğretim Kurulu Başkanlığına

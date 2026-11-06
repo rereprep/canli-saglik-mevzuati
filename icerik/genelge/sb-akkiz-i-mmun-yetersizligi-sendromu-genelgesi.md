@@ -9,17 +9,14 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 642-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-6.3.26. Akkiz İmmun Yetersizliği Sendromu Genelgesi
+### T.C. SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
+#### Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-### SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
-
-Tedavi Hizmetleri Genel Müdürlüğü [?]
-
-Sayı: Th.II-8b.Md.5590-568[?] — Ankara, 18 Ağustos 1983 [?]
-
-Konu: Acquired Immune Deficiency Syndrome (Akkiz İmmun Yetersizliği Sendromu)
+**Sayı :** B.10.0.TSH.0.11.00.04/10419  
+**Konu :** Akkiz İmmun Yetersizliği Sendromu
 
 ### VALİLİĞİNE
 

@@ -10,11 +10,33 @@ durum: "yürürlükte"
 konu: "Ticari Alanların Kiraya Verilmesi Genelgesi (2012/49) konusundaki uygulama ve esasları düzenler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-7.3.12. Ticari Alanların Kiraya Verilmesi Genelgesi (2012/49)
+T.C.
+SAĞLIK BAKANLIĞI
+Türkiye Kamu Hastaneleri Kurumu
 
-Sağsk Bakareğı işlemlerinde açık teklif usulü veya kapalı teklif usulünün uygulanacağı açıkça vurgulanmiştır.
+Sayı : B.10.1.TKH.0.28.0000-756.02/2953
+Konu : Ticari Alanların Kiraya Verilmesi.
+
+GENELGE
+2012/49
+
+Bilindiği üzere, mülkiyeti Hazineye ait /Hazine ile hisseli/ üst yapı Hazineye ait ya da zemini Hazineye ait olup, Sağlık Bakanlığına tahsisli olan yerler ile Sağlık Bakanlığınca kiralanmış ve kira bedelleri merkezi yönetim bütçesinden karşılanan hastane ve birinci basamak sağlık kurumlarındaki ticari amaçla kullanılması mümkün olan bölümlerinin (söz konusu taşınmazların Aile Hekimlerine kiralanması dâhil olmak üzere) Sağlık Bakanlığı tarafından Döner Sermaye İşletmeleri eliyle işlettirilmesine ilişkin Maliye Bakanlığı ile Bakanlığımız arasında 15/06/2011 tarihinde protokol imzalanmıştır. Bu protokol kapsamında yapılması gereken iş ve işlemler, 2011/43 sıra nolu Genelge ile tüm sağlık tesislerimize duyurulmuştur.
+
+02/11/2011 tarih ve 28103 (mükerrer) sayılı Resmi Gazete'de yayımlanan 663 sayılı KHK ile Bakanlığımızda meydana gelen yeniden yapılanma sonucu, anılan protokol ile devredilen ikinci ve üçüncü basamak sağlık hizmeti veren hastaneler ile ağız ve diş sağlığı merkezlerindeki ticari alanların (aile hekimlerine verilen alanlar dâhil) işletilmesi Kurumumuza devredilmiş olup, bu süreçten sonraki iş ve işlemler Kurumumuzca yürütülmektedir.
+
+Bu bağlamda 2011/43 sıra numaralı Genelge ile duyurulan hususlarda değişiklikler yapılması ve geçen süreçte tespit edilen noksanlıklar hususunda açıklama yapılması zarureti doğmuştur:
+
+A) İhale Öncesi İşlemler
+
+1. Kurumumuza bağlı sağlık tesislerinde bulunan ticari alanların kiralama ihale işlemlerinin iliniz Kamu Hastaneleri Birliği Genel Sekreterliğince yürütülmesi esastır. Kiralamalarla ilgili tüm işlemler Genel Sekreterlik bünyesinde bulunan Mali Hizmetler Başkanı sorumluluğundadır.
+
+2. Pazarlık usulü ihaleler ile tahmin edilen yıllık kira bedeli 2886 sayılı Kanunun 45 inci maddesine göre her yıl merkezi yönetim bütçe kanunuyla belirlenen parasal sınırın % 2 (yüzde 2) sini geçmeyen açık teklif usulü ihaleler, Genel Sekreterliğin uygun görmesi halinde sağlık tesislerine devredilebilir. Bu tür ihalelerin ilgili sağlık tesisi ölçeğinde yapılabilmesi için, Genel Sekreter tarafından hastane yöneticisine veya hastane yöneticiliği görevini yürüten başhekime yetki verilmelidir.
+
+3. Sağlık tesislerindeki ticari alanların kiraya verilmesinde;
+Hazine Taşınmazlarının İdaresi Hakkında Yönetmeliğin 67 inci maddesinin birinci fıkrasında; "Taşınmazların kiraya verilmesinde tahmin edilen yıllık kira bedeli, Kanunun 45 inci maddesine göre her yıl merkezi yönetim bütçe kanunuyla belirlenen parasal sınıra kadar olan ihalelerde açık teklif usulü, bu sınırı aşanlarda ise kapalı teklif usulü uygulanır. Kapalı veya açık teklif usulüyle kiraya verilemeyen taşınmazlar, uygun zamanda tekrar aynı usulle kira ihalesine çıkarılır ve bunlar Kanunun 43 üncü ve 49 uncu maddeleri uyarınca pazarlık ihalesine bırakılmaz" hükmü gereğince kiralama işlemlerinde açık teklif usulü veya kapalı teklif usulünün uygulanacağı açıkça vurgulanmıştır.
 
 4. Otomatik para çekme makineleri (ATM'ler), radyo ve televizyon vericileri, reklam levhası, afış asılmak üzere kiraya verilecek yerler ile aile hekimleri için kullanılacak yerlerin kiraya verilmesi işlemleri Yönetmeliğin 67 nci maddesinin 4 üncü fikrasına istinaden pazarhk usulü ile ihale edilebilecektir. Hazineye ait yerlerin kiralanması ilgili yönetmelik hükümlerine tabi olup, maaş ödeme karşılığı yapılan promosyon anlaşmalarında ATM ve uydu şube yerleri pazarlık konusu edilmeyecektir. Ayrıca bu tür sözleşmelere diğer bankaların faaliyetlerini engelleyecek ticari etiğe uygun olmayan hükümler konulmayacaktır.
 

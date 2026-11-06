@@ -10,6 +10,7 @@ ocr: true
 sayi: "2017/8"
 konu: "Klinik kalite göstergelerine ilişkin verilerin doğrulanması ve veri kalitesinin iyileştirilmesi için hazırlanan rehberin uygulanmasını ister."
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

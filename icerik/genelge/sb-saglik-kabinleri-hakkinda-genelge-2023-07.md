@@ -10,19 +10,20 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 146-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI
+2.3.6. Sağlık Kabinleri Hakkında Genelge (2023/07)
 
+T.C.
+SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
-
-224354451
 
 Sayı: 64706799/010.06
 
 Konu: Sağlık Kabinleri Hakkında Genelge
 
-### GENELGE 2023/07
+GENELGE 2023/07
 
 Ebe, hemşire ve sağlık memuru (toplum sağlığı) tarafından mesleklerini serbest olarak icra etmek üzere açılacak sağlık kabinlerinin standartları, açılışı, işleyişi ve denetimi ile ilgili usul ve esaslar bu Genelge ile belirlenmiştir.
 
@@ -64,7 +65,7 @@ f) İlgili merciden alınmış sağlık kabininin kesin adresini belirtir yazı,
 
 g) Sağlık kabininin İl Sağlık Müdürlüğü onaylı krokisi,
 
-g) Sağlık kabininde bulundurulabilecek tıbbi malzeme listesi (Ek-4’te yer alan Sağlık Kabinlerinde Bulundurulabilecek Tıbbi Malzemeler Listesinden oluşturulacaktır),
+g) Sağlık kabininde bulundurulabilecek tıbbi malzeme listesi (Ek-4'te yer alan Sağlık Kabinlerinde Bulundurulabilecek Tıbbi Malzemeler Listesinden oluşturulacaktır),
 
 b) Sağlık kabininde sunulabilecek hizmetler listesi (Ek-5’te yer alan Sağlık Kabinlerinde Sunulabilecek Hizmetler Listesinden oluşturulacaktır),
 
@@ -84,27 +85,25 @@ n) Her ortak için imza sirküleri, ortaklık sözleşmesi.
 
 o) İl Sağlık Müdürlüğünce ihtiyaç duyulması halinde sağlık kabinlerinden ek belge talep
 
-Sağlık kabininin ortakhk halinde açılmak istenmesi durumunda, yukarıdaki maddenin (a), (b), (c), (C), (d), (e) bentlerinde sayılan başvuru belgeleri söz konusu her bir ebe, hemşire ve sağlık memuru için ayrı ayrı istenir. Ancak, bu belgeler sağlık kabini adına düzenlenen tek bir dosyada bırleştirılır.
+Sağlık kabininin ortaklık halinde açılmak istenmesi durumunda, yukarıdaki maddenin (a), (b), (c), (ç), (d), (e) bentlerinde sayılan başvuru belgeleri söz konusu her bir ebe, hemşire ve sağlık memuru için ayrı ayrı istenir. Ancak, bu belgeler sağlık kabini adına düzenlenen tek bir dosyada birleştirilir.
 
-3. Sağlık kabininin tek kişi tarafından açılması halinde kişiye Ek-1'de yer alan "Sağlık Kabini İşletme Uygunluk Belgesi" ile Ek-2’de yer alan "Sağlık Kabini Mesul Müdürlük Belgesi" düzenlenir. Sağlık kabininin ortaklık halinde açılması durumunda bütün ortakların imzasını içeren dilekçede mesul müdür olması teklif edilen ortak adına Ek-I'de yer alan "Sağlık Kabini İşletme Uygunluk Belgesi" düzenlenir ve bu ortağa mesul müdür unvanı; tek sahiplikle açılmışsa bu kişiye mesul müdür unvanı verilerek, bu kişi adına Ek-2’de yer alan "Sağlık Kabini Mesul Müdürlük Belgesi" düzenlenir. Bu belgenin veya belgelerin dışında, sağlık kabininde mesleğini serbest olarak icra edecek başvuru sahibine ya da ortaklık halinde açılmak istenmesi durumunda ise bütün ortaklar adına ayrı ayrı olmak üzere Ek-3’te yer alan "Sağlık Kabini Çalışma Uygunluk Belgesi" düzenlenir. İşletme uygunluk belgesi düzenlenmesinden itibaren 6 (altı) ay içinde faaliyete geçmeyen sağlık kabinin işletme uygunluk belgesi İl Sağlık Müdürlüğünce iptal edilir
+3. Sağlık kabininin tek kişi tarafından açılması halinde kişiye Ek-1'de yer alan "Sağlık Kabini İşletme Uygunluk Belgesi" ile Ek-2'de yer alan "Sağlık Kabini Mesul Müdürlük Belgesi" düzenlenir. Sağlık kabininin ortaklık halinde açılması durumunda bütün ortakların imzasını içeren dilekçede mesul müdür olması teklif edilen ortak adına Ek-1'de yer alan "Sağlık Kabini İşletme Uygunluk Belgesi" düzenlenir ve bu ortağa mesul müdür unvanı; tek sahiplikle açılmışsa bu kişiye mesul müdür unvanı verilerek, bu kişi adına Ek-2'de yer alan "Sağlık Kabini Mesul Müdürlük Belgesi" düzenlenir. Bu belgenin veya belgelerin dışında, sağlık kabininde mesleğini serbest olarak icra edecek başvuru sahibine ya da ortaklık halinde açılmak istenmesi durumunda ise bütün ortaklar adına ayrı ayrı olmak üzere Ek-3'te yer alan "Sağlık Kabini Çalışma Uygunluk Belgesi" düzenlenir. İşletme uygunluk belgesi düzenlenmesinden itibaren 6 (altı) ay içinde faaliyete geçmeyen sağlık kabinin işletme uygunluk belgesi İl Sağlık Müdürlüğünce iptal edilir
 
 4. Sağlık kabininin başka bir adrese taşınma talebi olması halinde bu genelgedeki açılış işlemleri uygulanır.
 
 5. Mevcut ortaklar haricinde farklı şahıslara devir yapılamaz.
 
-6. Sağlık kabininin faaliyetine son verilmesi halinde İl Sağlık Müdürlüğünce sağhk kabini adına düzenlenen tüm belgeler ve arşiv kayıtları ile sadece acil durumlarda kullanılmak üzere bulundurulacak ilaçlar İl Sağlık Müdürlüğüne teslim edilir. İl Sağlık Müdürlüğünce işyerine ait işletme uygunluk belgesi iptal edilerek kapatma işlemi uygulanır.
-
-### T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
+6. Sağlık kabininin faaliyetine son verilmesi halinde İl Sağlık Müdürlüğünce sağlık kabini adına düzenlenen tüm belgeler ve arşiv kayıtları ile sadece acil durumlarda kullanılmak üzere bulundurulacak ilaçlar İl Sağlık Müdürlüğüne teslim edilir. İl Sağlık Müdürlüğünce işyerine ait işletme uygunluk belgesi iptal edilerek kapatma işlemi uygulanır.
 
 7. Ebe, hemşire ve sağlık memurları, sağlık mevzuatında yer alan genel hükümler gereğince, birden fazla sağlık kabini açarak mesleklerini serbest olarak icra edemezler. Yine aynı mevzuat hükümleri gereğince, mesleğini serbest olarak icra eden sağlık personelinin bizzat başkaca bir işyeri açmak suretiyle her türlü ticaret yapması yasaktır.
 
-8. Sağhık kabinlerinde, sağlık kabini sahibi veya ortakları dışında başka personel çalıştırılamaz. Sağlık kabinlerinde, sağlık kabininin sahibi veya ortaklık halinde açılmış olması durumunda sağlık kabininın ortaklarından en az birisinin bulunmadığı durumlarda, her ne gerekçe ile olursa olsun sağlık hizmeti sunulamaz.
+8. Sağlık kabinlerinde, sağlık kabini sahibi veya ortakları dışında başka personel çalıştırılamaz. Sağlık kabinlerinde, sağlık kabininin sahibi veya ortaklık halinde açılmış olması durumunda sağlık kabininın ortaklarından en az birisinin bulunmadığı durumlarda, her ne gerekçe ile olursa olsun sağlık hizmeti sunulamaz.
 
 9. Sağlık kabinlerinde, sağlık kabini sahibi veya ortaklarınca hekim tarafından tanımlanmamış uygulamalar ile ebe, hemşire ve sağlık memurlarının mesleki mevzuatlarında belirlenmiş olan yetkileri dışında uygulamalarda bulunulamaz.
 
 10. Sağlık kabinlerinde, Ek-5'te yer alan "Sağlık Kabinlerinde Sunulabilecek Hizmetler Listesi" kapsamında sağlık hizmeti sunulur. Sağlık kabinleri tarafından evde bakım hizmeti ve evde sağlık hizmeti sunulamaz.
 
-11. Sağlık kabinlerinde, Il Sağlık Müdürlüğü tarafından onaylanmış ve yapılan her türlü uygulamanın işleneceği protokol defterinin bulundurulması zorunludur. Adli özellik arz eden her türlü müdahalenin en yakın kolluk kuvveti birimine bildirilmesi zorunludur. Protokol defterinde; müdahale yapılan kişinin adı, soyadı, yaşı, cinsiyeti, açık adresi, yapılan müdahaleye kimin karar verdiği ve karar veren kişinin adı, soyadı, düzenlediği belgeye ait bilgiler ile yapılan müdahalenin tarihi, kapsamı ve önerilenler ile müdahale yapan kişinin imzası yer almak
+11. Sağlık kabinlerinde, İl Sağlık Müdürlüğü tarafından onaylanmış ve yapılan her türlü uygulamanın işleneceği protokol defterinin bulundurulması zorunludur. Adli özellik arz eden her türlü müdahalenin en yakın kolluk kuvveti birimine bildirilmesi zorunludur. Protokol defterinde; müdahale yapılan kişinin adı, soyadı, yaşı, cinsiyeti, açık adresi, yapılan müdahaleye kimin karar verdiği ve karar veren kişinin adı, soyadı, düzenlediği belgeye ait bilgiler ile yapılan müdahalenin tarihi, kapsamı ve önerilenler ile müdahale yapan kişinin imzası yer almak
 
 12. Hekim tarafından oluşturulan reçetenin veya yazılı tedavi planının bir kopyasının sağlık kabininde arşivlenmesi, tedavi öncesinde reçetenin, yazılı tedavi planının kontrol edilmesi, uygulanacak işlem hakkında hastanın veya kanuni temsilcisinin bilgilendirilmesi ve sadece reçete edilen veya yazılı tedavi planda yer alan işlemlerin uygulanması zorunludur.
 
@@ -116,17 +115,15 @@ a) Sağlık kabininin açılış ve faaliyeti ile ilgili her türlü işlemleri 
 
 b) Sağlık kabini faaliyetleri hakkında İl Sağlık Müdürlüğü ile koordinasyonu sağlamak ve talep edilen bilgi, belge ve verilerin gönderilmesini temin etmek,
 
-c) Bu Genelge kapsamında sağlık kabıninde yapılacak değişiklikleri en geç 10 (on) iş günü içerisinde İl Sağlık Müdürlüğüne bildirmek,
+c) Bu Genelge kapsamında sağlık kabininde yapılacak değişiklikleri en geç 10 (on) iş günü içerisinde İl Sağlık Müdürlüğüne bildirmek,
 
-ş) Sağlık kabininin kayıt ve arşiv sistemini oluşturmak ve kayıtların düzenli ve doğru bir şekilde tutulmasını sağlamak,
+d) Sağlık kabininin kayıt ve arşiv sistemini oluşturmak ve kayıtların düzenli ve doğru bir şekilde tutulmasını sağlamak,
 
 d) Sağlık kabini kayıtlarının kişisel verilerin korunmasına ilişkin mevzuata uygun tutulmasını sağlamak.
 
-e) Denetimlerde istenilen her türlü bilgi, belge, kayıtları sunmak ve sağhk kabininde bulunan tüm fiziki alanları göstermek,
+e) Denetimlerde istenilen her türlü bilgi, belge, kayıtları sunmak ve sağlık kabininde bulunan tüm fiziki alanları göstermek,
 
 14. Sağlık kabinlerinde görevli personel öncesinde İl Sağlık Müdürlüğüne bildirimde bulunmak kaydıyla 1 (bir) yıl içerisinde toplamda en fazla 30 (otuz) gün izin kullanabilir. İzin ve mazeret (askerlik, doğum, vefat, rapor vb.) süresince sağlık kabininin İl Sağlık Müdürlüğünce faaliyeti geçici olarak durdurulur. Ortak olarak açılmış sağlık kabinlerinde ortaklardan en az birisinin bulunması durumunda sağlık kabini faaliyetine devam eder.
-
-### T.C. SAGLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
 
 15. Sağlık kabinleri çalışma saatlerini hafta içi ve hafta sonu dahil olmak üzere 07:00- 22:00 arasında olacak şekilde belirleyerek İl Sağlık Müdürlüğüne bildirir.
 
@@ -146,23 +143,25 @@ e) Sağlık kabini, işletme uygunluk belgesinde belirtilen adres haricinde tama
 
 19. Denetim ve idari yaptırım
 
-a) Sağlık kabınleri, şikâyet veya ihbar üzerine yapılan olağan dışı denetimler hariç olmak üzere İl Sağlık Müdürlüğünce oluşturulan denetleme ekibi tarafından yılda en az 1 (bir) kez denetlenir. Bu Genelge hükümlerine aykırılık tespit edilmesi halinde, 7/5/1987 tarihli 3359 sayılı Sağlık Hizmetleri Temel Kanunu'nun ek 11 inci maddesi ve ikincil düzenlemeler uygulanır.
+a) Sağlık kabinleri, şikâyet veya ihbar üzerine yapılan olağan dışı denetimler hariç olmak üzere İl Sağlık Müdürlüğünce oluşturulan denetleme ekibi tarafından yılda en az 1 (bir) kez denetlenir. Bu Genelge hükümlerine aykırılık tespit edilmesi halinde, 7/5/1987 tarihli 3359 sayılı Sağlık Hizmetleri Temel Kanunu'nun ek 11 inci maddesi ve ikincil düzenlemeler uygulanır.
 
 b) Bu Genelgede hüküm bulunmayan hallerde, ayakta teşhis ve tedavi yapılan özel sağlık kuruluşlarının tabi olduğu mevzuat ile ilgili diğer mevzuat hükümleri uygulanır.
 
-20. Sağlık kabinlerinde, Ek-6'da yer alan Sadece Acil Durumlarda Kullanılmak Üzere Bulundurulacak İlaçlar Listesi"ndeki ilaçların mesleki mevzuatlarında belirlenen yetkinlikleri çerçevesinde yalnızca yaptıkları müdahaleye bağlı olarak ortaya çıkabilecek acil durumlarda kullanılmak üzere eksiksiz olarak bulundurulması zorunludur. Sadece acil durumlarda kullanmak üzere bulundurulacak ilaçlar, GLN (Global Lokasyon Numarası) kodu ile ilaç depolarından temin edilecektir. Sağlık kabinlerinde bulundurulabilecek tıbbi malzeme listesi ve ilaç listesi haricinde hiçbir surette ilaç, tıbbi malzeme, tıbbi cihaz, kozmetik ürün, gıda takviyesi vb. ürün bulundurulamaz ve satılamaz. Sunulabilecek hizmetler listesi haricinde başka bir hizmet
+20. Sağlık kabinlerinde, Ek-6'da yer alan "Sadece Acil Durumlarda Kullanılmak Üzere Bulundurulacak İlaçlar Listesi"ndeki ilaçların mesleki mevzuatlarında belirlenen yetkinlikleri çerçevesinde yalnızca yaptıkları müdahaleye bağlı olarak ortaya çıkabilecek acil durumlarda kullanılmak üzere eksiksiz olarak bulundurulması zorunludur. Sadece acil durumlarda kullanmak üzere bulundurulacak ilaçlar, GLN (Global Lokasyon Numarası) kodu ile ilaç depolarından temin edilecektir. Sağlık kabinlerinde bulundurulabilecek tıbbi malzeme listesi ve ilaç listesi haricinde hiçbir surette ilaç, tıbbi malzeme, tıbbi cihaz, kozmetik ürün, gıda takviyesi vb. ürün bulundurulamaz ve satılamaz. Sunulabilecek hizmetler listesi haricinde başka bir hizmet
 
 21. Sağlık kabinleri tarafından yapılacak tanıtım ve bilgilendirme faaliyetleri Bakanlıkça yürürlüğe konulan sağlık hizmetlerinde tanıtım ve bilgilendirme faaliyetleri hakkında mevzuat hükümlerine uygun olarak yürütülür.
 
-22. Tabelaları ile basılı ve elektronik ortam materyallerinde, işletme uygunluk belgesinde kayıtlı kabın ismi dışında başka bir isim kullanılamaz. Tabelada en çok iki renk kullanılabilir. Işık verici vasıtalar ile tabelaları süslemek yasaktır. Tabelada "Özel" ibaresine diğer yazı büyüklüğünün yarısından az olmamak kaydıyla yer verilmelidir. Tabela yazıları süslemesiz ve sade olmalıdır. Sağlık kabinlerine ait binanın dış cephesinde yer alacak tabelaların dışında, bina dış cephesinde her ne amaçla olursa olsun, başka yazı ve işaret yer alamaz.
+22. Tabelaları ile basılı ve elektronik ortam materyallerinde, işletme uygunluk belgesinde kayıtlı kabinin ismi dışında başka bir isim kullanılamaz. Tabelada en çok iki renk kullanılabilir. Işık verici vasıtalar ile tabelaları süslemek yasaktır. Tabelada "Özel" ibaresine diğer yazı büyüklüğünün yarısından az olmamak kaydıyla yer verilmelidir. Tabela yazıları süslemesiz ve sade olmalıdır. Sağlık kabinlerine ait binanın dış cephesinde yer alacak tabelaların dışında, bina dış cephesinde her ne amaçla olursa olsun, başka yazı ve işaret yer alamaz.
 
 23. Sağlık kabinleri başka bir ticari kuruluş içerisinde veya bünyesinde yer alamaz. Sağlık kabinleri müstakil binalarda veya bir binada müstakil bir birim olarak açılabilir.
 
-belirleyeceği diğer ek düzenlemelere uymakla zorunludur.
+24. Sağlık kabini sahibi veya ortakları yukarıda sayılanlar dışında kalan ve mevzuatta yer alan hükümler çerçevesinde sağlık kabininin bağlı bulunduğu İl Sağlık Müdürlüğünün belirleyeceği diğer ek düzenlemelere uymakla zorunludur.
 
-25. Il Sağlık Müdürlükleri, ilin şartlarını dikkate alarak genel sağlığın ve hizmet kullanıcılarının haklarının korunması amacıyla, asgari fiyat tarifesi ve benzeri diğer düzenlemeleri 1593 sayılı Kanun hükümlerine göre İl Umumi Hıfzıssıhha Kurulu kararı ile belirler ve ilgililere tebliğ ederler.
+25. İl Sağlık Müdürlükleri, ilin şartlarını dikkate alarak genel sağlığın ve hizmet kullanıcılarının haklarının korunması amacıyla, asgari fiyat tarifesi ve benzeri diğer düzenlemeleri 1593 sayılı Kanun hükümlerine göre İl Umumi Hıfzıssıhha Kurulu kararı ile belirler ve ilgililere tebliğ ederler.
 
-26. Sağlık kabinlerinin işletme a) İşletme uygunluk belgesi, bu Genelge hükümlerine aykırılık hâlinde iptal edilir.
+26. Sağlık kabinlerinin işletme uygunluk belgesi iptali ve faaliyetlerini askıya alma hakkında uyulacak hususlar belirlenmiştir:
+
+a) Bina tadilatı durumlarında sağlık kabini en fazla 6 (altı) ay süreyle faaliyetini askıya alabilir. Askı süresinin sonunda faaliyete başlanılmaması halinde sağlık kabininin işletme uygunluk belgesi iptal edilir.
 
 b) Doğal afet, genel salgın hastalık, kısmi veya genel seferberlik ilanı gibi mücbir sebeplerden dolayı sağlık kabinin faaliyeti Müdürlükçe en fazla 2 (iki) yıl süreyle askıya alınabilir. Askı süresinin sonunda faaliyete geçmeyen sağlık kabininin işletme uygunluk belgesi iptal edilir.
 
@@ -173,15 +172,14 @@ b) Doğal afet, genel salgın hastalık, kısmi veya genel seferberlik ilanı gi
 Bilgilerinizi ve gereğini rica ederim.
 
 Dr. Fahrettin KOCA
+Bakan
 
-Bakan Ek-1 : Sağlık Kabini İşletme Uygunluk Belgesi Ek-2 : Sağlık Kabini Mesul Müdürlük Belgesi Ek-3 : Sağlık Kabini Çalışma Uygunluk Belgesi Ek-4 : Sağlık Kabinlerinde Bulundurulabilecek
+Ek-1 : Sağlık Kabini İşletme Uygunluk Belgesi
+Ek-2 : Sağlık Kabini Mesul Müdürlük Belgesi
+Ek-3 : Sağlık Kabini Çalışma Uygunluk Belgesi
+Ek-4 : Sağlık Kabinlerinde Bulundurulabilecek Tıbbi Malzemeler Listesi
+Ek-5 : Sağlık Kabinlerinde Sunulabilecek Hizmetler Listesi
+Ek-6 : Sağlık Kabinlerinde Sadece Acil Durumlarda Kullanılmak Üzere Bulundurulacak İlaçlar Listesi
 
-Tıbbi Malzemeler Listesi Ek-5 : Sağlık Kabinlerinde Sunulabilecek
-
-Hizmetler Listesi Ek-6 : Sağlık Kabinlerinde Sadece Acil Durumlarda
-
-Kullanılmak Üzere Bulundurulacak İlaçlar Listesi
-
-### DAĞITIM:
-
+DAĞITIM:
 Gereği: 81 İl Valiliği (İl Sağlık Müdürlüğü)

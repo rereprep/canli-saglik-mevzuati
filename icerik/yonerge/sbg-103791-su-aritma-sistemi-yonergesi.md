@@ -11,6 +11,7 @@ konu: "Hemodiyaliz çözeltilerinin seyreltilmesinde kullanılan suyun arıtılm
 tarih: "2009-04-17"
 sayi: "15873"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
@@ -147,7 +148,7 @@ c) Klor miktarı,
 
 **MADDE 11 –** (1) Hemodiyaliz çözelti seyreltilmesinde kullanılan suyun kimyasal ve bakteriyolojik kontrolünde Ek-1’de Avrupa Birliği Farmakopesinde bildirilen sınırlar göz önüne alınmalıdır.
 
-(2) RO su sistemi çıkış suyunun, kimyasal ve endotoksin kontrolü 6 ayda bir, Yönerge eki Ek-1 Tablo 2'de tavsiye edilen "Hemodiyaliz Çözeltilerinin Dilüsyonunda Kullanılan Su Monografinda" belirtilen yöntem ve cihazlarla yaptığını belgeleyen resmî yada özel laboratuvarlarda yapılmalıdır.
+(2) RO su sistemi çıkış suyunun, kimyasal ve endotoksin kontrolü 6 ayda bir, Yönerge eki Ek-1 Tablo 2'de tavsiye edilen "Hemodiyaliz Çözeltilerinin Dilüsyonunda Kullanılan Su Monografinda" belirtilen yöntem ve cihazlarla yaptığını belgeleyen resmî ya da özel laboratuvarlarda yapılmalıdır.
 
 (3) Bakteriyolojik kontroller 3 ayda bir, aynı il içerisinde, resmi yada özel ruhsatlı laboratuvarlarda yapılmalıdır. Ancak aynı ilde yapılamadığı durumlarda uygun soğuk zincir koşullarının sağlanması şartıyla başka ilde de yapılabilir. Bakteriyolojik kontrolün yapılabilmesi için sistemdeki kilit noktalara su örnekleme vanalarının yerleştirilmesi gerekir. Kimyasal analizler ayrı ilde de yaptırılabilir.
 

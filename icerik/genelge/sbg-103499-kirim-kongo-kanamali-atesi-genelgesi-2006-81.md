@@ -2,6 +2,7 @@
 id: "sbg-103499-kirim-kongo-kanamali-atesi-genelgesi-2006-81"
 baslik: "Kırım-Kongo Kanamalı Ateşi Genelgesi (2006/81)"
 tur: "genelge"
+tarih: "2006-07-14"
 sayi: "2006/81"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kırım-Kongo Kanamalı Ateşi (KKKA) vakalarının erken tanısı, tedavisi, sevk kriterleri ve sürveyansına ilişkin usulleri düzenler."
@@ -10,9 +11,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103499/kirim-kongo-kanamali-atesi-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-6.3.31. Kırım-Kongo Kanamalı Ateşi Genelgesi (2006/81)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
@@ -59,7 +59,7 @@ Diğer taraftan, KKKA ile ilgili hususlar Bilimsel Danışma Kurulunda da görü
   - Kenelerin hiçbir şekilde elle patlatılmaması ve öldürülmemesi,
   - Ayrıca, keneleri vücuttan uzaklaştırmak amacıyla, gazyağı ve kolonya gibi kimyasal maddeleri dökmek veya yanan sigarayı ve kibriti keneye değdirmek gibi yöntemlere başvurulmaması olduğu; bu sebeple de toplumun ve sağlık çalışanlarının eğitimlerine devam edilmesi yönünde kanaat hâsıl olmuştur.
 
-Keyfiyete ilişkin olarak bilgilerinizi, yukarıda belirtilen konular ile halkın ve sağlık çalışanlarının bilgilendirilmesi ve bilinçlendirilmesine yönelik çalışmaların Bakanlığımız tarafından gönderilen eğitim materyalleri çerçevesinde yapılmasının temini yanında, genelgemizin ilgili bütün kurum ve kuruluşlara da ulaştırılmasının sağlanması hususlarında
+Keyfiyete ilişkin olarak bilgilerinizi, yukarıda belirtilen konular ile halkın ve sağlık çalışanlarının bilgilendirilmesi ve bilinçlendirilmesine yönelik çalışmaların Bakanlığımız tarafından gönderilen eğitim materyalleri çerçevesinde yapılmasının temini yanında, genelgemizin ilgili bütün kurum ve kuruluşlara da ulaştırılmasının sağlanması hususlarında gereğini rica ederim.
 
 Prof. Dr. Necdet ÜNÜVAR
 Bakan a.

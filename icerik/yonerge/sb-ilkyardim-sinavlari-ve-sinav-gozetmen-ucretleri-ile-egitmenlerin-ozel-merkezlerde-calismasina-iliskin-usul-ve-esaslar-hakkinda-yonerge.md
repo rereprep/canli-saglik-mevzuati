@@ -9,9 +9,41 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 310-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 3.2.2. İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Özel Merkezlerde Çalışmasına İlişkin Usul ve Esaslar Hakkında Yönerge
+
+T.C.
+SAĞLIK BAKANLIĞI
+Acil Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı : 39942531/300
+Konu : İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Özel Merkezlerde Çalışmasına İlişkin Usul ve Esaslar Hakkında Yönerge
+
+### BAKANLIK MAKAMINA
+
+6514 Sayılı Kanunla değişiklik yapılan ve 15.01.2014 tarihinde yürürlüğe giren 3359 Sayılı Sağlık Hizmetleri Temel Kanunu, Ek Madde 11'e istinaden ilkyardım eğitimlerinde teorik ve uygulamalı sınavlar için katılımcılardan alınacak sınav ücreti ile sınavlarda görev alacak sınav gözetmenlerine ödenecek ücretler her yıl Sağlık Bakanlığınca belirlenir. 29.07.2015 tarih ve 29429 sayılı Resmi Gazete'de yayımlanan İlkyardım Yönetmeliği'ne dayanılarak hazırlanan "İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Özel Merkezlerde Çalışmasına İlişkin Usul ve Esaslar Hakkında Yönerge" metni ilişikte sunulmuştur.
+
+Anılan Yönerge'nin onaylanarak, yürürlüğe konulması hususunu takdir ve tensiplerinize arz ederim.
+
+Doç. Dr. Hikmet Selçuk GEDİK
+Genel Müdür
+
+EK: Yönerge Taslağı (4 Sayfa)
+
+Uygun Görüşle Arz Ederim
+Müsteşar Yardımcısı
+
+Uygun Görüşle Arz Ederim
+[?]
+Prof. Dr. Eyüp GÜMÜŞ
+Müsteşar
+
+OLUR
+[?]
+Dr. Mehmet MÜEZZİNOĞLU
+Bakan
 
 ### İLKYARDIM SINAVLARI VE SINAV GÖZETMEN ÜCRETLERİ İLE EĞİTMENLERİN ÖZEL MERKEZLERDE ÇALIŞMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNERGE
 

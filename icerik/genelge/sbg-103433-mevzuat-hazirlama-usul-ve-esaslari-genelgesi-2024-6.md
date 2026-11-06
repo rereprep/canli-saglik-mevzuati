@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103433/mevzuat-hazirlama-usul-ve-esasl
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI

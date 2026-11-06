@@ -9,11 +9,16 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 806-
 durum: "yürürlükte"
 ocr: true
 tarih: "2018-12-13"
-sayi: "1453"
+sayi: "97014916-319"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 7.2.4.Yurtdışı Sağlık Tesislerinde Personel Görevlendirilmesine Dair Usul ve Esaslar Hakkında Yönerge
+
+### Bakanlık Makamına sunuş yazısı (kitap s. 806)
+
+Sayı: 97014916-319. Bakanlığımızca insani yardım amaçlı hizmet vermek üzere Bangladeş'te kurulan Satkhira Hastanesi, Somali'de işletilen Mogadişu Somali Türkiye Recep Tayyip Erdoğan Eğitim Araştırma Hastanesi, Sudan'da işletilen Nyala Sudan Türkiye Eğitim Araştırma Hastanesi ve diğer ülkelerde açılacak hastanelerin ekteki yönergede belirtilen usul ve esaslar dahilinde işletilmesi arz edilmiştir. Uygun görüş ve OLUR tarihleri Aralık 2018'dir (gün okunaksız). İmza: Prof. Dr. Rahmi Kılıç, Genel Müdür; Prof. Dr. Muhammet Güven, Bakan Yardımcısı; Uzm. Dr. Fahrettin Koca, Bakan.
 
 ### YURT DIŞI SAĞLIK TESISLERINDE PERSONEL GÖREVLENDIRILMESINE DAIR USUL VE ESASLAR HAKKINDA YÖNERGE BİRİNCI BÖLEM Amne, Kapsara, Dayanak ve Tumunlar
 

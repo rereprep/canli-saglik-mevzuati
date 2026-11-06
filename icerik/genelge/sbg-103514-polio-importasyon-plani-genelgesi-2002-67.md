@@ -11,13 +11,14 @@ tarih: "2002-07-05"
 konu: "Poliomyelit importasyonunun önlenmesi ve Türkiye’nin poliomyelitten arındırılmış durumunun sürdürülmesi için ulusal faaliyet planını belirler."
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.16. Polio İmportasyon Planı Genelgesi (2002/67)
 
  VAHŞİ POLİOVİRÜS İMPORTASYONUNUN ENGELLENMESİ VE POLİOMYELİTTEN ARINDIRILMIŞ DURUMUN DEVAMI İÇİN ULUSAL FAALİYET PLANI
 
-Genişletilmiş Bağışıklama Programının temel ilkesi, hastalık riskinin en yüksek olduğu dönemden önce, çocukları aşı ile korunulabilir hastalıklara karşı bağışık kılarak, bu hastalıklara bağlı morbidite ve mortalite hızlarını düşürmek, böylece çocuk ölümleri ve sakatlıklarını azaltmaktır. Hastalık morbidite ve mortalite hızlarını düşürmek ve salgınları kontrol etmek amacıyla, Dünya'da hastalık kontrol programları başlatılmış ve Global Poliomyelit Eradikasyonu Programı böylece gündeme gelmiştir. 1988 yılında 41. Dünya Sağlık Asamblesi'nde, tüm dünyadan poliomyelitin eradikasyonu hedeflenmiştir. O zamandan bu yana belirgin gelişmeler olmuştur. Son yerli poliomyelit vakası, Amerika kıtasında 1991 yılında, Batı Pasifik bölgesinde 1997 yılında saptanmıştır. Türkiye'nin de dahil olduğu Avrupa Bölgesinin son yerli poliomyelit vakası 1998 yılında Ağrı ilinde saptanmıştır.Avrupa Bölgesi 21 Haziran 2002 tarihinde "polio'dan arındırılmış bölge " olarak belgelendirilmiştir.
+Genişletilmiş Bağışıklama Programının temel ilkesi, hastalık riskinin en yüksek olduğu dönemden önce, çocukları aşı ile korunulabilir hastalıklara karşı bağışık kılarak, bu hastalıklara bağlı morbidite ve mortalite hızlarını düşürmek, böylece çocuk ölümleri ve sakatlıklarını azaltmaktır. Hastalık morbidite ve mortalite hızlarını düşürmek ve salgınları kontrol etmek amacıyla, Dünya'da hastalık kontrol programları başlatılmış ve Global Poliomyelit Eradikasyonu Programı böylece gündeme gelmiştir. 1988 yılında 41. Dünya Sağlık Asamblesi'nde, tüm dünyadan poliomyelitin eradikasyonu hedeflenmiştir. O zamandan bu yana belirgin gelişmeler olmuştur. Son yerli poliomyelit vakası, Amerika kıtasında 1991 yılında, Batı Pasifik bölgesinde 1997 yılında saptanmıştır. Türkiye'nin de dahil olduğu Avrupa Bölgesinin son yerli poliomyelit vakası 1998 yılında Ağrı ilinde saptanmıştır. Avrupa Bölgesi 21 Haziran 2002 tarihinde "polio'dan arındırılmış bölge " olarak belgelendirilmiştir.
 
 Poliomyelitin eradikasyonuna ulaştıracak program stratejileri ise şöyle belirlenmiştir:
 
@@ -25,7 +26,7 @@ Poliomyelitin eradikasyonuna ulaştıracak program stratejileri ise şöyle beli
 
 üzerine çıkarılarak devam ettirilmesi,
 
-Türkiye'de 1989'da yürütülmeye başlanan Poliomyelit Eradikasyon Programı (PEP), hedefe ulaşma doğrultusunda sürekli bir gelişme göstermiştir. Türkiye'de son vahşi poliovirüs 26 Kasım 1998'de paralizisi başlayan bir vakadan izole edilmiştir. Ancak dünyadan poliomyelit tamamen eradike edilinceye kadar ülkemize de importasyon tehlikesi vardır. 2001 yılında Avrupa Bölgesinden Bulgaristan ve Gürcistan'da görülen Kuzey Hindistan kökenli importe vahşi poliovirüs izolasyonları tehlikenin devam ettiğinin kanıtıdır. Her iki ülkede de izole edilen virüsler 3 doz OPV ile aşıları tamamlanmamış çocuklarda tespit edilmiştir. Olası bir importasyonu engellemek amacıyla tüm bölgelerde ve yerleşim birimlerinde 0 yaş grubunda OPV3 aşılama oranlarında en az %90'a ulaşmak temel stratejidir. Bu aşı oranına ulaşamayan veya bu oranın devamlılığını sağlayamayan yerleşim birimlerinde yürütülecek destek aşılama aktiviteleri ile olası importasyona karşı önlem alınmış olacaktır. Importe bir poliomyelit vakası olması durumunda vakanın erken tespiti ve zamanında uygun müdahalelerle virüsün yayılması önlenebilir.
+Türkiye'de 1989'da yürütülmeye başlanan Poliomyelit Eradikasyon Programı (PEP), hedefe ulaşma doğrultusunda sürekli bir gelişme göstermiştir. Türkiye'de son vahşi poliovirüs 26 Kasım 1998'de paralizisi başlayan bir vakadan izole edilmiştir. Ancak dünyadan poliomyelit tamamen eradike edilinceye kadar ülkemize de importasyon tehlikesi vardır. 2001 yılında Avrupa Bölgesinden Bulgaristan ve Gürcistan'da görülen Kuzey Hindistan kökenli importe vahşi poliovirüs izolasyonları tehlikenin devam ettiğinin kanıtıdır. Her iki ülkede de izole edilen virüsler 3 doz OPV ile aşıları tamamlanmamış çocuklarda tespit edilmiştir. Olası bir importasyonu engellemek amacıyla tüm bölgelerde ve yerleşim birimlerinde 0 yaş grubunda OPV3 aşılama oranlarında en az %90'a ulaşmak temel stratejidir. Bu aşı oranına ulaşamayan veya bu oranın devamlılığını sağlayamayan yerleşim birimlerinde yürütülecek destek aşılama aktiviteleri ile olası importasyona karşı önlem alınmış olacaktır. İmporte bir poliomyelit vakası olması durumunda vakanın erken tespiti ve zamanında uygun müdahalelerle virüsün yayılması önlenebilir.
 
 Bu plan; Türkiye'nin poliomyelitden arındırılmış durumunu sürdürmek ve olası bir vahşi poliovirüs importasyonunun erken tespitine ve etkin aşılama cevabı ile kontrol altına alınmasına hazırlıklı olmak amacıyla hazırlanmıştır.
 
@@ -47,13 +48,13 @@ Vahşi virüs ile Türkiye'de karşılaşmış olan ve
 
 c-Aşı türevi poliovirüs (Vaccine-Derived Poliovirus(VDPV)) ve buna bağlı ortaya çıkan
 
-Moleküler özellikleri aşı virüsü ve vahşi virüsten farklı, vahşi virüs benzeri nörovirülans ve bulaştırıcılık özellikleri kazanmış virüslere bağlı ortaya çıkan vakalardır. Bu tür vakaların en önemli nedeni rutin aşı oranlarının düşüklüğüdür. Aşı virüsü kişiden kişiye yayılmakta, nörovirulansı ve bulaştırıcılık özelliği artmaktadır. Ekim 2000 tarihindeki Hispaniola salgınından sonra laboratuvarda üretilen poliovirüsler, genetik dizilim (sekanslama) yolu ile incelenmeye başlanmıştır. Genetik dizılim sonuçlarına göre Sabin aşı virüsünden %l'den az farklılık gösteren sonuçlar Sabin-like (Aşı virüsü) olarak, %1-%15 farklılık gösteren sonuçlar aşı türevi polio virüs (VDPV) olarak ve %15'den fazla farklılık gösteren virüsler de vahşi virüs olarak tanımlanmıştır. Aşı türevi poliovirüs, vahşi poliovirüse benzer özellikler gösterdiğinden saptanması durumunda yapılacak aktiviteler aynıdır. Aşı türevi virüslere bağlı ortaya çıkan salgınlar da OPV aşısının uygulanması ile kontrol
+Moleküler özellikleri aşı virüsü ve vahşi virüsten farklı, vahşi virüs benzeri nörovirülans ve bulaştırıcılık özellikleri kazanmış virüslere bağlı ortaya çıkan vakalardır. Bu tür vakaların en önemli nedeni rutin aşı oranlarının düşüklüğüdür. Aşı virüsü kişiden kişiye yayılmakta, nörovirulansı ve bulaştırıcılık özelliği artmaktadır. Ekim 2000 tarihindeki Hispaniola salgınından sonra laboratuvarda üretilen poliovirüsler, genetik dizilim (sekanslama) yolu ile incelenmeye başlanmıştır. Genetik dizilim sonuçlarına göre Sabin aşı virüsünden %1'den az farklılık gösteren sonuçlar Sabin-like (Aşı virüsü) olarak, %1-%15 farklılık gösteren sonuçlar aşı türevi polio virüs (VDPV) olarak ve %15'den fazla farklılık gösteren virüsler de vahşi virüs olarak tanımlanmıştır. Aşı türevi poliovirüs, vahşi poliovirüse benzer özellikler gösterdiğinden saptanması durumunda yapılacak aktiviteler aynıdır. Aşı türevi virüslere bağlı ortaya çıkan salgınlar da OPV aşısının uygulanması ile kontrol
 
 d-Sıcak AFP vakası (Sıcak vaka):
 
 • 15 yaş altındaki AFP vakalarında risk faktörlerinden en az birisinin bulunması;
 
-o Poliomyelit benzeri klinik tablosu (ateș, ani paralizi, asimetri, ekstremite tutulumu vs.)
+o Poliomyelit benzeri klinik tablosu (ateş, ani paralizi, asimetri, ekstremite tutulumu vs.)
 
 o 3 dozdan az OPV aşısı almış veya,
 
@@ -91,7 +92,9 @@ olduğu düşünülen bölgeler:
 
 - Göç alan ve nüfus hareketlerinin yoğun olduğu yöreler (tarım işçisi, göçerler,
 
-mülteci, kaçak giriş, sınır ticareti olan alanlar, liman vs giriş kapısı olan alanlar) f-Yüksek kaliteli AFP sürveyans sistemi göstergeleri:
+mülteci, kaçak giriş, sınır ticareti olan alanlar, liman vs giriş kapısı olan alanlar)
+
+f-Yüksek kaliteli AFP sürveyans sistemi göstergeleri:
 
 • Yılda, 15 yaş altındaki her 100.000 nüfus için poliomyelit dışı nedenlere bağlı en az 1
 

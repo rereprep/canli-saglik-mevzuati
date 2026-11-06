@@ -11,6 +11,7 @@ kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 472-473"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -45,7 +46,7 @@ Bakan
 ### T.C. SAĞLIK BAKANLIĞI
 #### Halk Sağlığı Genel Müdürlüğü
 
-**Sayı:** 8100TSH 011 0000  
+**Sayı:** B100TSH 011 0000  
 **Konu:** Aşı Sonrası İstenmeyen Etkiler (ASİE) Genelgesi  
 **Tarih:** 02/02/2023
 

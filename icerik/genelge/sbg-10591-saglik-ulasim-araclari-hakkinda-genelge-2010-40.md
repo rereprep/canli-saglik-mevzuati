@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10591/saglik-ulasim-araclari-hakkinda-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI – İdari ve Mali İşler Dairesi Başkanlığı

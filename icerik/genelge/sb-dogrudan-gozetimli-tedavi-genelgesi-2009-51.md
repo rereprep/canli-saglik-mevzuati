@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 697-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 6.3.41. Doğrudan Gözetimli Tedavi Genelgesi (2009/51)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -25,8 +24,8 @@ Konu : Doğrudan Gözetimli Tedavi
 ....................VALİLİĞİNE  
 (İl Sağlık Müdürlüğü)
 
-### GENELGE  
-2009/51
+### GENELGE
+**2009/51**
 
 İlgi: 2006/78 tarih ve 857 sayılı genelgemiz.
 

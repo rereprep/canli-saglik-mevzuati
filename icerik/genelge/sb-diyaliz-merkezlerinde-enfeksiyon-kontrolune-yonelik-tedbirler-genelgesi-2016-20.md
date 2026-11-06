@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 139-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 2.3.3. Diyaliz Merkezlerinde Enfeksiyon Kontrolüne Yönelik Tedbirler Genelgesi (2016/20)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -22,8 +21,8 @@ Sağlık Hizmetleri Genel Müdürlüğü
 Sayı : 56733164/  
 Konu : Diyaliz Merkezlerinde Enfeksiyon Kontrolüne Yönelik Tedbirler
 
-### GENELGE  
-2016/20
+### GENELGE
+**2016/20**
 
 Bilindiği üzere; 18.06.2010 tarihli ve 27615 sayılı Resmî Gazete'de yayımlanan Diyaliz Merkezleri Hakkında Yönetmelik hükümleri ile diyaliz merkezlerinin Yatırım İzni dışındaki açılış, kapanış, adres değişikliği, sahip değişikliği, cihaz artırımı, denetim ve personel değişikliği vb. gibi tüm iş ve işlemleri Sağlık Müdürlüklerine devredilmiştir.
 

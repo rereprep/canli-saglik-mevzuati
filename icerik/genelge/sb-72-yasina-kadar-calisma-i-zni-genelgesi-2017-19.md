@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1010
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -20,7 +21,7 @@ Sayı : 82040698/
 Konu : 72 yaşına kadar çalışma izni
 
 ### GENELGE
-2017/19
+**2017/19**
 
 Ülkemizde tabip ve uzman tabiplere olan ihtiyaç gözönüne alınarak hekimlerin 72 yaşına kadar Sağlık Bakanlığı ve bağlı kuruluşlarına ait sağlık kurum ve kuruluşlarında çalışmasına imkan sağlaması için, 3359 sayılı Sağlık Hizmetleri Temel Kanunu’na eklenen Ek 17 nci maddesinde "Sağlık Bakanlığı ve bağlı kuruluşlarına ait sağlık kurum ve kuruluşlarında görev yapan tabip ve uzman tabipler ile 24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Kanunu hükümlerine göre istihdam edilen aile hekimleri, her yıl Bakanlıkça uygun görülmek şartıyla yetmişiki yaşına kadar çalışabilir." hükmüne yer verilmiştir.
 

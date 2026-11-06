@@ -11,9 +11,54 @@ ocr: true
 tarih: ""
 sayi: ""
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 4.2.4. Sağlık Bakanlığı Bilgi Güvenliği Politikaları Yönergesi
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Sağlık Bilgi Sistemleri Genel Müdürlüğü
+
+Sayı: 98813770.709
+
+Konu: Bilgi Güvenliği Politikaları Yönergesi
+
+BAKANLIK MAKAMINA
+
+İlgi: Bakanlık Makamının 31.12.2015 tarihli ve 75730711.719.116 sayılı Oluru.
+
+İlgi Bakanlık Makamı Olurunda, 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 11 inci maddesi ile Genel Müdürlüğümüze verilen görevlerin bir gereği olarak hazırlanan Bilgi Güvenliği Politikaları Yönergesi onaylanmış ve yürürlüğe konulmuştur.
+
+Teknolojik gelişmeler, uygulamadan doğan ihtiyaçlar ve 694 sayılı Kanun Hükmünde Kararname ile değişen Bakanlık merkez ve taşra teşkilatının yeni yapısı dikkate alınarak güncellenen Bilgi Güvenliği Politikaları Yönergesi ekte bilgilerinize sunulmaktadır. Bu çerçevede güncellenen Yönerge'nin yürürlüğe konulması için gereğini takdir ve tensiplerinize arz ederim.
+
+[?] Mahir ÜLĞÜ
+
+Genel Müdür
+
+Ek: Yönerge (7 sayfa)
+
+Uygun görüşle arz ederim. [?] / 2018
+
+Dr. Şuayip BİRİNCİ
+
+Müsteşar Yardımcısı
+
+Uygun görüşle arz ederim. [?] / 2018
+
+Prof. Dr. Eyüp GÜMÜŞ
+
+Müsteşar
+
+OLUR [?] / 2018
+
+Dr. Ahmet DEMİRCAN
+
+Bakan
 
 ### SAĞLIK BAKANLIĞI BİLGİ GÜVENLİĞİ POLİTİKALARI YÖNERGESİ
 

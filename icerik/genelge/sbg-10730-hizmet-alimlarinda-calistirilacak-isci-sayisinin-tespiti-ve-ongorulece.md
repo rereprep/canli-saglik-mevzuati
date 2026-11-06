@@ -11,7 +11,9 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
+
 ### T.C. SAĞLIK BAKANLIĞI – Strateji Geliştirme Başkanlığı
 
 Sayı: B.10.0.SGB.0.81.00.05/10-06/10194  

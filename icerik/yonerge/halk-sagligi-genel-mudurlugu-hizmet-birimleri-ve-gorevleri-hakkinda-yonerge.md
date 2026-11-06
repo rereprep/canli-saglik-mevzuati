@@ -11,6 +11,7 @@ kaynak_pdf_sayfa: "335-352"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ HİZMET BİRİMLERİ VE GÖREVLERİ HAKKINDA YÖNERGE
@@ -29,7 +30,7 @@ Konu: Yönerge Değişikliği
 
 Genel Müdürlüğümüz bünyesinde yer alan Daire Başkanlıklarının görev, yetki ve sorumlulukları 02/10/2017 tarihli Makam Olur’u ile yürürlüğe giren *“Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönerge”* ile düzenlenmiştir.
 
-10/07/2018 tarihli ve 30474 sayılı Resmi Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi’nin 361 inci maddesinde Genel Müdürlüğümüze verilen görevlerin yürütülmesine esas olarak ve güncelleme ihtiyacına binaen Mezkur Yönerge’de değişiklik yapılmış olup bu kapsamda hazırlanan *“Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönergede Değişiklik Yapılmasına Dair Yönerge”* yürürlüğe konulması hususunu;
+10/07/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi’nin 361 inci maddesinde Genel Müdürlüğümüze verilen görevlerin yürütülmesine esas olarak ve güncelleme ihtiyacına binaen mezkûr Yönerge’de değişiklik yapılmış olup bu kapsamda hazırlanan *“Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönergede Değişiklik Yapılmasına Dair Yönerge”* yürürlüğe konulması hususunu;
 
 Tensiplerinize arz ederim.
 

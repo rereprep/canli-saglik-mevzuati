@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 168-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.12. Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi Genelgesi (2019/15)
@@ -19,6 +20,7 @@ duzeltildi: true
 Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 54567092-010.06.02
+Tarih: 22.07.2019
 Konu : Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi
 
 GENELGE

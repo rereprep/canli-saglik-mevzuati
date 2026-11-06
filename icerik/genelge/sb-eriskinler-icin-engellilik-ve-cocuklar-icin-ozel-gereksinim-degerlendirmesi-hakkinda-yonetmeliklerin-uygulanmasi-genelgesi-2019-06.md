@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 247-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 2.3.43. Erişkinler İçin Engellilik ve Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması Genelgesi (2019/06)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -22,8 +21,8 @@ Sağlık Hizmetleri Genel Müdürlüğü
 Sayı : 23642684  
 Konu : Erişkinler İçin Engellilik ve Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması
 
-### GENELGE  
-2019/06
+### GENELGE
+**2019/06**
 
 İlgi :  
 a) 30/3/2013 tarihli ve 28603 sayılı Resmî Gazete'de yayımlanan Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik  

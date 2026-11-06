@@ -86,7 +86,7 @@ class PdfOnbellek:
         if no < 1 or no > len(pdf.pages):
             return []
         sayfa = pdf.pages[no - 1]
-        if len((sayfa.extract_text() or "").strip()) < 80:
+        if len((sayfa.extract_text() or "").strip()) < 600:
             sonuc = self.ocr_satirlari(ad, no, sayfa)
             if sonuc is not None:
                 self.cache[key] = sonuc

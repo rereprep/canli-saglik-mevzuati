@@ -11,9 +11,8 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 163-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-### 2.3.11. Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Genelgesi (2022/3)
 
 T.C.  
 SAĞLIK BAKANLIĞI  
@@ -22,16 +21,16 @@ Sağlık Hizmetleri Genel Müdürlüğü
 Sayı : 67029623-199  
 Konu : Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri
 
-### GENELGE  
-2022/3
+### GENELGE
+**2022/3**
 
-Özel bakım ihtiyacı olan bireyler yaşam kalitesini doğrudan etkileyen ağız ve diş sağlığı hastalıkları açısından yüksek risk grubu içerisinde yer almaktadır. Ağız ve diş sağlığı hastalıklarının genel sağlık üzerine olumsuz etkileri olduğundan, bu bireylerin ağız ve diş sağlığının iyileştirilmesi ve var olan durumlarının korunması önemlidir.
+Özel bakım ihtiyacı olan bireyler yaşam kalitesini doğrudan etkileyen ağız ve sağlığı hastalıkları açısından yüksek risk grubu içerisinde yer almaktadır. Ağız ve diş sağlığı hastalıklarının genel sağlık üzerine olumsuz etkileri olduğundan, bu bireylerin ağız ve diş sağlığının iyileştirilmesi ve var olan durumlarının korunması önemlidir.
 
 Bilindiği üzere; engelli hastalara yönelik ağız ve diş sağlığı hizmetleri, engelli hastaların evde sağlık hizmetleri ile birlikte evde muayeneleri, ayaktan başvurularda poliklinik muayeneleri, hastanın genel sistemik durumu ve kooperasyonu uygun ise poliklinik şartlarında ağız ve diş sağlığı tedavileri, genel anestezi gereken durumlarda ihtiyaç olunan konsültasyon hizmetleri, genel anestezi öncesi tahlil ve tetkikleri, genel anestezi altında diş tedavileri ve tedavi sonrası yatış işlemlerini kapsamaktadır.
 
 Bakanlığımızca sağlık kurum ve kuruluşları tarafından engelli hastalara yönelik ağız ve diş sağlığı hizmetlerinin bütüncül bir yaklaşımla güncel ihtiyaç ve beklentilere uygun olarak sunulmasını temin etmek üzere birimlerde görev yapacak asgari personel standardı, birimlerin fiziki şartları, bu birimlerin kurulması ve işleyişi ile buralarda görev yapacak personelin eğitimlerine ilişkin düzenleme yapılması gerektiği değerlendirilmiştir.
 
-Bu kapsamda engelli hastalara yönelik ağız ve diş sağlığı hizmet birimleri; hizmetin içeriği, personel standardı ve fiziki gereklilikler bakımından, ekte usul ve esasları belirtilen engelli polikliniği, engelli ünitesi ve engelli diş tedavi merkezi olarak sınıflandırılmış olup poliklinik ve ünitenin ağız ve diş sağlığı hizmeti sunulan sağlık tesisleri bünyesinde; merkez ise Bakanlığımız planlamaları kapsamında uygun görülen yataklı sağlık tesisleri bünyesinde kurulmalıdır.
+Bu kapsamda engelli hastalara yönelik ağız ve diş sağlığı hizmet birimleri; hizmetin içeriği, personel standardı ve fiziki gereklilikler bakımından, ekte usul ve esasları belirtilen engelli polikliniği, engelli ünitesi ve engelli diş tedavi merkez olarak sınıflandırılmış olup poliklinik ve ünitenin ağız ve diş sağlığı hizmeti sunulan sağlık tesisleri bünyesinde; merkez ise Bakanlığımız planlamaları kapsamında uygun görülen yataklı sağlık tesisleri bünyesinde kurulmalıdır.
 
 Engelli hastalara ağız ve diş sağlığı hizmeti vermek üzere kurulmuş birimlerin bir yıl içerisinde Genelge hükümlerine uygun hale getirilmesi, sağlık tesisinin faaliyet izin belgesine eklenmek üzere İl Sağlık Müdürlüğünün uygun görüşünün Genel Müdürlüğümüze bildirilmesi ile birimlerin işleyişi ve engelli hastalara yönelik ağız ve diş sağlığı hizmetlerinin bu Genelge hükümlerine uygun olarak etkili bir şekilde Müdürlüklerince yürütülmesi hususlarında;
 
@@ -50,7 +49,7 @@ Sağlık Yatırımları Genel Müdürlüğüne
 
 ---
 
-### Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
+#### Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Usul ve Esasları
 
 **1) Engelli Ağız ve Diş Sağlığı Hizmet Birimleri:**
 

@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 274-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAGLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
@@ -20,9 +21,10 @@ Konu: Kan ve Kan Ürünleri Temini
 
 08.06.2007
 
-### GENELGE 2007/43 Kan ve kan ürünleri ile ilgili bütün faaliyetler toplum sağlığı açısından büyük önem
+### GENELGE
+**2007/43**
 
-taşımaktadır. Bu nedenle bakanlığımız bilimsel ve güncel gelişmelere uygun olarak ülkemizde kan ve kan ürünlerinin temini ve kullanımında yaşanan sorunlara çözüm getirmek için hazırlanan 5624 sayılı "Kan ve Kan Ürünleri" yasası 11.04.2007 tarihinde Resmî Gazete’de yayımlanarak yürürlüğe girmiş olup yeni yasa, "kan, kan bileşenleri ve ürünlerinin temininde kan bağışının karşılıksız ve gönüllü olması kan kan bileşenleri ve ürünlerinin alınmasında ve verilmesinde bağışçı ve alıcının sağlığının tehlikeye düşürülmemesi, tıbbi risklere karşı korunması ve transfüzyonun güvenle yapılması esasları ile, hizmet birimlerinin Bölge Kan Merkezleri, Kan Bağış Merkezleri ve Transfüzyon Merkezleri olarak yeniden düzenlenmesini" getirmektedir.
+Kan ve kan ürünleri ile ilgili bütün faaliyetler toplum sağlığı açısından büyük önem taşımaktadır. Bu nedenle bakanlığımız bilimsel ve güncel gelişmelere uygun olarak ülkemizde kan ve kan ürünlerinin temini ve kullanımında yaşanan sorunlara çözüm getirmek için hazırlanan 5624 sayılı "Kan ve Kan Ürünleri" yasası 11.04.2007 tarihinde Resmî Gazete’de yayımlanarak yürürlüğe girmiş olup yeni yasa, "kan, kan bileşenleri ve ürünlerinin temininde kan bağışının karşılıksız ve gönüllü olması kan kan bileşenleri ve ürünlerinin alınmasında ve verilmesinde bağışçı ve alıcının sağlığının tehlikeye düşürülmemesi, tıbbi risklere karşı korunması ve transfüzyonun güvenle yapılması esasları ile, hizmet birimlerinin Bölge Kan Merkezleri, Kan Bağış Merkezleri ve Transfüzyon Merkezleri olarak yeniden düzenlenmesini" getirmektedir.
 
 Bu çerçevede Türk Kızılayı "Güvenli Kan Temin Projesi" ile "Bölge Kan Merkezleri ve Kan Bağış Merkezleri" çalışmalarını hızlandırmış olup kan birimlerini güçlendirilmekte ve gönüllü kan bağışımı her geçen gün arttırmaktadır.
 

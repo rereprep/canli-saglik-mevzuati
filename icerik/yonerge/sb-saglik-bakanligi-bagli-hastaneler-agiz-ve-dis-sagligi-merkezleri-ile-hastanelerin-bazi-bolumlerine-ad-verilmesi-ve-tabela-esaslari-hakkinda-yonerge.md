@@ -9,9 +9,48 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 20-2
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.3. Sağlık Bakanlığı Bağlı Hastaneler, Ağız ve Diş Sağlığı Merkezleri ile Hastanelerin Bazı Bölümlerine Ad Verilmesi ve Tabela Esasları Hakkında Yönerge
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı: 54567092-010.04
+
+Konu: Sağlık Bakanlığına Bağlı Hastaneler, Ağız Ve Diş Sağlığı Merkezleri İle Hastanelerin Bazı Bölümlerine Ad Verilmesi Ve Tabela Esasları Hakkında Yönerge
+
+BAKANLIK MAKAMINA
+
+10/7/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 355 inci ve 508 inci maddesine dayanılarak hazırlanan "Sağlık Bakanlığına Bağlı Hastaneler, Ağız Ve Diş Sağlığı Merkezleri İle Hastanelerin Bazı Bölümlerine Ad Verilmesi Ve Tabela Esasları Hakkında Yönerge" ekte sunulmaktadır.
+
+Mezkûr Yönerge'nin onaylanarak yürürlüğe konulması hususunu;
+
+Takdir ve tensiplerinize arz ederim.
+
+Prof. Dr. Ahmet TEKİN
+
+Genel Müdür
+
+Ek: Yönerge Metni (6 sayfa)
+
+Uygun görüşle arz ederim. [?] / 2020
+
+Prof. Dr. Muhammet GÜVEN
+
+Bakan Yardımcısı
+
+OLUR [?] / 2020
+
+Dr. Fahrettin KOCA
+
+Bakan
 
 ### SAĞLIK BAKANLIĞINA BAĞLI HASTANELER, AĞIZ VE DİŞ SAĞLIĞI MERKEZLERİ İLE HASTANELERİN BAZI BÖLÜMLERİNE AD VERİLMESİ VE TABELA ESASLARI HAKKINDA YÖNERGE
 

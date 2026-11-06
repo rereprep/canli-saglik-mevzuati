@@ -13,9 +13,13 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Python: /Users/mithattemizer/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 (her zaman -I ile çalıştır; /tmp'deki .py dosyaları modülleri bozabiliyor)
 
 ## Kullanıcı kararları
+- Ajanlar veya arka plan işleri çalışırken turu KAPATMA (son yanıt verme); kapatınca işler yarım kalıyor. Her şey bitene kadar izlemeye devam et, ara durumu kısa notlarla bildir.
+- AJAN MODELİ (kullanıcı kararı, 2026-11-05): Alt ajanları spawn_agent ile model "workbuddy-ai/hy3" (3 ajan) ve "workbuddy-ai/hy4free" (3 ajan) seçerek başlat. WorkBuddy entegrasyon aracını (mcp__workbuddy__run_workbuddy_task) KULLANMA. Bir hy ajanı herhangi bir nedenle durursa (hata, kota, bağlantı) kalan işini diğer hy modeline ver (hy3 ↔ hy4free). Hem hy3 hem hy4free çalışmaz hale gelince luna ↔ Gemini Flash döngüsüne geç.
 - Siteyi düzenleyen: Mithat Temizer — yalnızca Hakkında sayfasında ve README'de.
 - İthaf her sayfanın alt bilgisinde: "Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla."
-- Ajanlar: Gemini 3.8 Flash (google-antigravity/gemini-3.8-flash) ve gpt-6-luna. Biri kotaya (429) takılırsa işi diğer modelle sürdür. Aynı anda en fazla 6 alt ajan.
+- Ajanlar: Gemini 3.8 Flash (google-antigravity/gemini-3.8-flash) ve gpt-6-luna. Her zaman 6 ajan çalıştır. Kotaya (429) takılan ajanın kalan işini hemen diğer modelle yeni ajana ver (luna → Gemini Flash, Gemini Flash → luna). Bağlantı (502/ENOTFOUND) hatasında aynı modelle yeniden başlat. Biten/hata veren ajanı kapat ki sınır dolmasın.
+- Kullanıcı: duran ajanın yerine önce "hy3" denenecek; spawn_agent hy3'ü tanımıyor (2026-11-05: "Unknown model hy3"), bu yüzden yukarıdaki eski usul geçerli. Yönetici döngüsü her yeni ajanda önce hy3'ü dener.
+- Gönderim anahtarı kalıcı: /Users/mithattemizer/Documents/Canlı Sağlık Mevzuatı/.anahtar/id_ed25519 (git config core.sshCommand ayarlı; düz `git push origin main` yeterli).
 
 ## Kaynaklar ve işleme hattı
 1. Kitaplar (kaynak klasörde, depoya girmez): mevzuat-kitabi.pdf (halk sağlığı, basılı s.+6=PDF), sbyonergevegenelge202520022025pdf.pdf (SB Yönergeler ve Genelgeler Kitabı 2025, basılı s.+14=PDF). Segmentler: kaynak-isleme/segmentler/*.json → araclar/kitaptan_cikar.py
@@ -33,6 +37,19 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Etkili ajan talimatı: her turda listedeki düzeltilmemiş ilk 5 dosyayı düzelt ve kaydet; bitince yeniden görevlendir.
 
 ## Bilinen eksikler / sonraki adımlar
+- 2026-11-06 durumu: Sayfa kontrolü (323 belge) ve genel OCR kontrolü (540 belge) TAMAMLANDI; tüm OCR'lı belgelerde kontrol_edildi: true var. Ajanlar birçok belgede uydurma giriş/madde/sayı buldu ve kaynaktaki metinle değiştirdi; okunamayan yerler [?].
+- Ajanlar zaman zaman künyedeki "id:" satırının ilk harfini siliyor ("d: ..."). Derleme öncesi ../.idkontrol.py ile kontrol et; site_uret.py artık id/tür yoksa dosya adından tamamlıyor.
+- İki site_uret.py aynı anda çalıştırılmamalı (_site klasörünü siliyor).
+- WorkBuddy (workbuddy-ai/hy3, hy4free) ajanları sık sık 429/502 verdi ve bazen "çalışıyor" görünüp takıldı; 20+ dk dosya değişmezse kapat ve işi luna/Gemini'ye ver.
+- mevzuat.gov.tr aktarımı tamamlandı (son tur 13 yeni metin; 66 kayıt mevzuat.gov.tr'de bulunamadı — bunlar Resmî Gazete ya da yalnızca künye olarak kaldı). Künyesi kalan kayıt: ~145.
+- ÖNEMLİ (2026-11-05): Bölüm başlığı yazılı olup gövdesi taranmış görüntü olan sayfalar (metin 80–600 karakter, büyük görüntü) OCR'dan kaçmıştı; bazı ajanlar bu kısımları UYDURMUŞTU (ör. 2025/6 Teftiş genelgesinde yanlış birim, sayı ve maddeler). 353 sayfa OCR'landı (ocr_toplu.py --sayfalar). Etkilenen 323 belgenin künyesinde `sayfa_kontrol` alanı var; ham OCR'ları kaynak-isleme/ocr-ek/<id>.txt. Ajanlar bu sayfaları görüntüyle karşılaştırıp düzeltiyor; bitince sayfa_kontrol silinip kontrol_edildi eklenir. kitaptan_cikar artık metni <600 karakter olan sayfalarda OCR varsa onu kullanıyor.
+- Ajan talimatlarında "eksik kısmı tamamla" denirken mutlaka "yalnızca görüntüde gördüğünü yaz, tahmin etme" vurgulanmalı.
+- 2026-11-05 akşam durumu:
+  - Künye kayıtları tamamlanıyor: araclar/mevzuat_gov_aktar.py (güncel metin; kaynak-isleme/mevzuat-gov/eslesme.json) ve araclar/resmi_gazete_aktar.py (ilk yayımlanan metin; segmentler/resmi-gazete.json). Tam metin 661 → 967. mevzuat.gov.tr erişim kesintisinde aktarım ~221/325'te durdu; erişim gelince eslesme.json'daki boş kayıtları silip yeniden çalıştır.
+  - saglik.gov.tr: tebliğ ve alt site sayfaları da izleniyor; sayfa içi genelge metinleri (pages_content) içeriğe alınıyor (saglik_gov_aktar.html_yaz).
+  - Resmî Gazete takibinde Gemini kullanılmıyor (kullanıcı kararı); depo ayarında "Allow GitHub Actions to create and approve pull requests" açıldı.
+  - OCR hızlı kontrolü sürüyor: künyede `kontrol_edildi: true` olanlar ikinci kez kontrol edildi (243/540; bu turda sonraki 5 genelge sayfası görüntüyle karşılaştırıldı). Kalan: `grep -l '^ocr: true' icerik/*/*.md | xargs grep -L '^kontrol_edildi: true'`.
+  - 2026-11-05 (hızlı kontrol, 7 genelge): tütün 2015/6, üreme sağlığı 2010/83, verem 2011/65, yargı kararı 2015, yenidoğan işitme 2014/27, K vitamini 2021/11, yetki devri 2024/5 kaynak kitap sayfalarıyla karşılaştırılıp düzeltildi; 7 dosyaya da `kontrol_edildi: true` eklendi. En yoğun düzeltmeler işitme tarama, K vitamini ve yetki devrinde (bozuk Türkçe karakter, kopuk kelime, `###` başlık, sayfa üst bilgisi/e-imza kalıntısı); yetki devrinde onay makamı kaynağa göre "İl Sağlık Müdürü" olarak düzeltildi, imza bloğu eklendi. Okunamayan sayı/genelge no ve ek URL'si `[?]` ile bırakıldı.
 - OCR düzeltmesi tamamlandı (2026-11-05). Yeni eklenen OCR'lı belgeler için aynı ajan akışını kullan.
 - Ajan raporlarındaki notlar: bazı yönergelerde onay tarihi kaynakta boş ("…/…/2019"); bu künyeler bilerek boş bırakıldı. Birim adları künyede bugünkü adlarla, metinde eski adlarla geçebilir.
 - Resmî Gazete takibi için depo Settings > Secrets'a GEMINI_API_KEY eklenebilir; otomatik PR için Actions > "Allow GitHub Actions to create pull requests" açılmalı.

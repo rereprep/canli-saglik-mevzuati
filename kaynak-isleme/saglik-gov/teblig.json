@@ -5,7 +5,8 @@
   "birim": "Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11302/uremeye-yardimci-tedavi-yontemleri-konusunda-egitim-verecek-merkezlerin-nitelikleri-tespiti-calisma-usul-ve-esaslari-ile-egitim-programi-ve-sertifika-verilmesine-dair-teblig.html",
   "tip": "html",
-  "dosya": "11302.html"
+  "dosya": "11302.html",
+  "ekler": []
  },
  {
   "trid": "11306",
@@ -13,7 +14,21 @@
   "birim": "İdari ve Mali İşler Daire Başkanlığı",
   "url": "https://www.saglik.gov.tr/TR-11306/ayniyat-islemlerinde-uyulmasi-gereken-usul-ve-esaslar.html",
   "tip": "html",
-  "dosya": "11306.html"
+  "dosya": "11306.html",
+  "ekler": [
+   {
+    "dosya": "11306-ek1.html",
+    "tip": "html",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1384/0/ayniyatislemlerihtm.htm",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11306-ek2.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1385/0/ayniyatislemlerieklerixls.xls",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11308",
@@ -21,7 +36,8 @@
   "birim": "İlaç ve Eczacılık Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11308/beseri-tibbi-urunlerin-fiyatlari-hakkinda-tebligin-bazi-maddelerinde-degisiklik-yapilmasina-dair-teblig.html",
   "tip": "html",
-  "dosya": "11308.html"
+  "dosya": "11308.html",
+  "ekler": []
  },
  {
   "trid": "11309",
@@ -29,7 +45,15 @@
   "birim": "İlaç ve Eczacılık Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11309/gida-maddelerinin-genel-etiketleme-ve-beslenme-yonunden-etiketleme-kurallari-tebligi.html",
   "tip": "html",
-  "dosya": "11309.html"
+  "dosya": "11309.html",
+  "ekler": [
+   {
+    "dosya": "11309-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1386/0/gida-maddelerinin-genel-etiketleme-ve-beslenme-yonunden-etiketleme-kurallari-tebligidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11310",
@@ -37,7 +61,15 @@
   "birim": "İlaç ve Eczacılık Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11310/ozel-tibbi-amacli-diyet-gidalar-tebligi.html",
   "tip": "html",
-  "dosya": "11310.html"
+  "dosya": "11310.html",
+  "ekler": [
+   {
+    "dosya": "11310-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1387/0/ozel-tibbi-amacli-diyet-gidalar-tebligidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11311",
@@ -45,7 +77,15 @@
   "birim": "İlaç ve Eczacılık Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11311/gida-maddelerinde-belirli-bulasanlarin-maksimum-seviyelerinin-belirlenmesi-hakkinda-teblig.html",
   "tip": "html",
-  "dosya": "11311.html"
+  "dosya": "11311.html",
+  "ekler": [
+   {
+    "dosya": "11311-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1388/0/gida-maddelerinde-belirli-bulasanlarin-maksimum-seviyelerinin-belirlenmesi-hakkinda-tebligdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11313",
@@ -53,7 +93,9 @@
   "birim": "İlaç ve Eczacılık Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11313/turk-gida-kodeksi-devam-formulleri.html",
   "tip": "html",
-  "dosya": "11313.html"
+  "dosya": "11313.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32639&MevzuatTur=9&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "11314",
@@ -61,7 +103,15 @@
   "birim": "İlaç ve Eczacılık Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11314/gida-maddelerindeki-bulasanlarin-maksimum-limitleri-hakkinda-teblig-200826.html",
   "tip": "html",
-  "dosya": "11314.html"
+  "dosya": "11314.html",
+  "ekler": [
+   {
+    "dosya": "11314-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1389/0/gida-maddelerindeki-bulasanlarin-maksimum-limitleri-hakkinda-tebligdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11315",
@@ -69,7 +119,15 @@
   "birim": "İlaç ve Eczacılık Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11315/turk-gida-kodeksi-mikrobiyolojik-kriterler-tebligi-20096---68.html",
   "tip": "html",
-  "dosya": "11315.html"
+  "dosya": "11315.html",
+  "ekler": [
+   {
+    "dosya": "11315-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1390/0/turk-gida-kodeksi-mikrobiyolojik-kriterler-tebligi-ve-degisiklik-tebligi-2009-6-ve-2009-68doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11317",
@@ -77,7 +135,15 @@
   "birim": "Tedavi Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11317/tibbi-cihaz-vucuda-yerlestirilebilir-aktif-tibbi-cihazlar-ve-vucut-disinda-kullanilan-tibbi-tani-cihazlari-konusunda-faaliyet-gosterecek-onaylanmis-kuruluslara-dair-teblig.html",
   "tip": "html",
-  "dosya": "11317.html"
+  "dosya": "11317.html",
+  "ekler": [
+   {
+    "dosya": "11317-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1391/0/tebligdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11319",
@@ -85,7 +151,9 @@
   "birim": "Tedavi Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11319/madde-bagimliligi-merkezlerinde-gorev-yapacak-personelin-egitimine-ve-sertifikalandirilmasina-dair-tebligi.html",
   "tip": "html",
-  "dosya": "11319.html"
+  "dosya": "11319.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10281&MevzuatTur=9&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "11320",
@@ -93,7 +161,15 @@
   "birim": "Tedavi Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11320/diyaliz-sertifikalarinin-resertifikasyonu-hakkinda-teblig.html",
   "tip": "html",
-  "dosya": "11320.html"
+  "dosya": "11320.html",
+  "ekler": [
+   {
+    "dosya": "11320-ek1.docx",
+    "tip": "docx",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1392/0/tebligdocx.docx",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11321",
@@ -101,7 +177,16 @@
   "birim": "Tedavi Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11321/yatakli-saglik-tesislerinde-acil-servis-hizmetlerinin-uygulama-usul-ve-esaslari-hakkinda-teblig.html",
   "tip": "html",
-  "dosya": "11321.html"
+  "dosya": "11321.html",
+  "resmi_url": "http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=9.5.13494&MevzuatIliski=0&sourceXmlSearch=yatakl%C4%B1%20sa",
+  "ekler": [
+   {
+    "dosya": "11321-ek1.html",
+    "tip": "html",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1393/0/20091016-16-1rar.rar",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11328",
@@ -109,7 +194,8 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11328/kaynak-ve-icme-sulari-ile-ilgili-teblig.html",
   "tip": "html",
-  "dosya": "11328.html"
+  "dosya": "11328.html",
+  "ekler": []
  },
  {
   "trid": "11330",
@@ -117,7 +203,9 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11330/kurum-tabipliklerinin-standardina-dair-teblig-ve-degisiklik-tebligi.html",
   "tip": "html",
-  "dosya": "11330.html"
+  "dosya": "11330.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6094&MevzuatTur=9&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "11331",
@@ -125,7 +213,9 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11331/evde-bakim-hizmetleri-sunumu-hakkinda-teblig.html",
   "tip": "html",
-  "dosya": "11331.html"
+  "dosya": "11331.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9424&MevzuatTur=9&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "11332",
@@ -133,7 +223,15 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11332/oyuncaklar-konusunda-faaliyet-gosterecek-onaylanmis-kuruluslara-dair-teblig.html",
   "tip": "html",
-  "dosya": "11332.html"
+  "dosya": "11332.html",
+  "ekler": [
+   {
+    "dosya": "11332-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1398/0/oyuncakteblig1doc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11333",
@@ -141,7 +239,15 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11333/oyuncaklar-hakkinda-yonetmelik-ile-ilgili-uyumlastirilmis-standardlara-dair-teblig-uyumlastirilmis-standardlar.html",
   "tip": "html",
-  "dosya": "11333.html"
+  "dosya": "11333.html",
+  "ekler": [
+   {
+    "dosya": "11333-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1399/0/oyuncaktebligdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11334",
@@ -149,7 +255,15 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11334/oyuncaklar-hakkinda-yonetmelik-ile-ilgili-uyumlastirilmisstandardlara-dair-tebligde-degisiklik-yapilmasina-dair-teblig.html",
   "tip": "html",
-  "dosya": "11334.html"
+  "dosya": "11334.html",
+  "ekler": [
+   {
+    "dosya": "11334-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1400/0/oyuncakdegisiklikdoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11335",
@@ -157,7 +271,15 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11335/oyuncak-ve-cocuk-bakim-esyalarindaki-phthalatlar-hakkinda-teblig.html",
   "tip": "html",
-  "dosya": "11335.html"
+  "dosya": "11335.html",
+  "ekler": [
+   {
+    "dosya": "11335-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1401/0/ftalat-tebligidoc.doc",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11336",
@@ -165,7 +287,9 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11336/kamu-kurum-ve-kuruluslarina-ait-yer-arac-bina-ve-tesislerde-tutun-urunu-tuketenlere-verilecek-idari-yaptirim-kararlarinin--uygulama-usul-ve-esaslari-hakkinda-teblig.html",
   "tip": "html",
-  "dosya": "11336.html"
+  "dosya": "11336.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12161&MevzuatTur=9&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "11337",
@@ -173,7 +297,9 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11337/elastomer-ve-kaucuktan-yapilmis-olan-biberon-basligi--ve-emziklerde-n--nitrosamin-ve-n--nitrosamine-donusebilen-maddelerin-miktari-ve-bu-maddelerin-belirlenmesi-hakkinda-teblig.html",
   "tip": "html",
-  "dosya": "11337.html"
+  "dosya": "11337.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18979&MevzuatTur=9&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "11338",
@@ -181,7 +307,9 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11338/peloidlerin-uretimi-ve-satisi-hakkinda-teblig.html",
   "tip": "html",
-  "dosya": "11338.html"
+  "dosya": "11338.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8215&MevzuatTur=9&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "11339",
@@ -189,7 +317,22 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11339/ambulans-ve-acil-bakim-teknikerleri-ile-acil-tip-teknisyenlerinin-calisma-usul-ve-esaslarina-dair-teblig.html",
   "tip": "html",
-  "dosya": "11339.html"
+  "dosya": "11339.html",
+  "resmi_url": "http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=9.5.12941&MevzuatIliski=0&sourceXmlSearch=ambulans",
+  "ekler": [
+   {
+    "dosya": "11339-ek1.html",
+    "tip": "html",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1402/0/ek-2pediatrikpdf.pdf",
+    "ustyazi": false
+   },
+   {
+    "dosya": "11339-ek2.html",
+    "tip": "html",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/1403/0/ek-2yetiskinpdf.pdf",
+    "ustyazi": false
+   }
+  ]
  },
  {
   "trid": "11342",
@@ -197,7 +340,9 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11342/kuvetli-asit-veya-baz-iceren-temizlik-urunlerinin-uretimine-ithalatina-ve-bildirim-esaslarina-dair-teblig.html",
   "tip": "html",
-  "dosya": "11342.html"
+  "dosya": "11342.html",
+  "resmi_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18983&MevzuatTur=9&MevzuatTertip=5",
+  "ekler": []
  },
  {
   "trid": "11343",
@@ -205,6 +350,14 @@
   "birim": "Temel Sağlık Hizmetleri Genel Müdürlüğü",
   "url": "https://www.saglik.gov.tr/TR-11343/tasinir-mal-yonetmeligi-genel-tebligi.html",
   "tip": "html",
-  "dosya": "11343.html"
+  "dosya": "11343.html",
+  "ekler": [
+   {
+    "dosya": "11343-ek1.doc",
+    "tip": "doc",
+    "url": "https://dosyasb.saglik.gov.tr/Eklenti/445/0/tebligdoc.doc",
+    "ustyazi": false
+   }
+  ]
  }
 ]

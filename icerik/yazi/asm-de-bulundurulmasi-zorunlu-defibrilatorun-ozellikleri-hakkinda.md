@@ -7,23 +7,25 @@ sayi: "99858683/010.06.01/55489"
 birim: "Türkiye Halk Sağlığı Kurumu Başkanlığı"
 konu: "Aile sağlığı merkezlerinde yeni alınacak defibrilatörlerin taşıması gereken asgari teknik özellikleri ve temin süresini belirler."
 etiketler: ["aile-hekimligi", "mevzuat"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 519-519"
+kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 519"
 kaynak_pdf_sayfa: "525"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## ASM'DE BULUNDURULMASI ZORUNLU DEFİBRİLATÖRÜN ÖZELLİKLERİ HAKKINDA
 
-T.C.
-SAĞLIK BAKANLIĞI
-Türkiye Halk Sağlığı Kurumu Başkanlığı
+T.C.  
+SAĞLIK BAKANLIĞI  
+Türkiye Halk Sağlığı Kurumu Başkanlığı  
 
-Sayı: 99858683/010.06.01/55489
-Konu: ASM'de Bulundurulması Zorunlu Defibrilatörün özellikleri
+**Sayı :** 99858683/010.06.01/55489  
+**Konu :** ASM'de Bulundurulması Zorunlu Defibrilatörün özellikleri  
 
-### ……………… VALİLİĞİNE (Halk Sağlık Müdürlüğü)
+### .................... VALİLİĞİNE  
+(Halk Sağlığı Müdürlüğü)
 
 25 Ocak 2013 tarihli ve 28539 sayılı Resmi Gazete'de yayımlanan "Aile Hekimliği Uygulama Yönetmeliği'nin "Aile sağlığı merkezinin teknik donanımı" başlıklı 24 üncü maddesi ile aile sağlığı merkezinde faal olarak bulundurulması zorunlu asgari tıbbi cihaz ve malzemeler düzenlenmiş olup "s)" bendi ile defibrilatör bulundurulması zorunlu asgari tıbbi cihazlar kapsamına alınmıştır. Aile hekimliği birimi gruplandırmasına göre A ve B grubunda yer alan aile sağlığı merkezlerinde hâlihazırda bulunan defibrilatörlerin kullanımına devam edilmesi, yeni alınacak defibrilatörlerin ise sahada uygulama birlikteliğinin sağlanması açısından aşağıdaki özellikleri taşıması gerekli görülmüştür.
 
@@ -39,11 +41,9 @@ Ayrıca yeni alınacak defibrilatörlerin sunulan sağlık hizmetlerinde aksamay
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Doç. Dr. Turan BUZGAN
-Bakan a.
-Kurum Başkanı
+Doç. Dr. Turan BUZGAN  
+Bakan a.  
+Kurum Başkanı  
 
-DAĞITIM:
-
-Gereği:
-81 İl Valiliğine
+### DAĞITIM:
+**Gereği:** 81 İl Valiliğine (Halk Sağlığı Müdürlüğü)

@@ -11,6 +11,7 @@ ocr: true
 tarih: "2010-01-19"
 sayi: "2202"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.13. Yataklı Sağlık Tesislerinde Yanık Tedavi Birimlerinin Kurulması ve İşleyişi Hakkında Yönerge

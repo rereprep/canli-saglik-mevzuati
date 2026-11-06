@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11059/istirahat-raporlari-2016-12.html
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### SAĞLIK BAKANLIĞI
@@ -38,4 +39,4 @@ Bakan
 
 ### DAĞITIM:
 
-Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü) Türkiye Kamu Hastaneleri Kurumuna Türkiye Halk Sağlığı Kurumuna Yükseköğretim Kuruluna Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Mahmut Esat Bozkurt Cad. Umut sok. No: 19 Kolej/ANKARA 
+Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü) Türkiye Kamu Hastaneleri Kurumuna Türkiye Halk Sağlığı Kurumuna Yükseköğretim Kuruluna Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Mahmut Esat Bozkurt Cad. Umut sok. No: 19 Kolej/ANKARA

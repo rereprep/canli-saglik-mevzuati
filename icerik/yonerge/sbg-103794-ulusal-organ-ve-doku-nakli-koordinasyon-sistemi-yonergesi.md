@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103794/ulusal-organ-ve-doku-nakli-koor
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.2.14. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi
@@ -262,7 +263,7 @@ k) Organ ve doku nakli koordinatör yardımcısına organ ve doku nakli ile ilgi
 
 (4) Organ ve doku nakli koordinatör yardımcısı, organ ve doku nakli koordinatörünün verdiği görevleri yapar ve organ ve doku nakli koordinatörünün yukarıda belirtilen görevleri yerine getirmesinde yardımcı olur. Bölge koordinasyon merkezlerinin görev ve sorumlulukları
 
-**Madde 12 –** (1) KM'ler bulundukları ilin Sağhk Müdürlüğüne ve UKM'ne bağlı olarak Bakanlığın belirleyeceği görevleri yaparlar. KM'den Il Sağhk Müdürünün görevlendireceği bir Il Sağlık Müdür Yardımcısı sorumludur. II Sağhk Müdürlüğü, BKM'ne uygun bir çalışma mekanı, şehirlerarası görüşmeye açık bir telefon, internet bağlantılı bilgisayar sistemi ve il içi ve il dışı görevlerde kullanılmak üzere araç sağlamak dahil olmak üzere, organ ve doku nakli ile ilgili hizmetin yürütülmesini kolaylaştıracak her türlü desteği vermekle yükümlüdür.
+**Madde 12 –** (1) KM'ler bulundukları ilin Sağhk Müdürlüğüne ve UKM'ne bağlı olarak Bakanlığın belirleyeceği görevleri yaparlar. KM'den İl Sağlık Müdürünün görevlendireceği bir İl Sağlık Müdür Yardımcısı sorumludur. İl Sağlık Müdürlüğü, BKM'ne uygun bir çalışma mekanı, şehirlerarası görüşmeye açık bir telefon, internet bağlantılı bilgisayar sistemi ve il içi ve il dışı görevlerde kullanılmak üzere araç sağlamak dahil olmak üzere, organ ve doku nakli ile ilgili hizmetin yürütülmesini kolaylaştıracak her türlü desteği vermekle yükümlüdür.
 
 (2) KM'nin görev ve sorumlulukları şunlardır:
 

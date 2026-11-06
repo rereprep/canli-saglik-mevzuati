@@ -2,6 +2,7 @@
 id: "sbg-103498-kirim-kongo-kanamali-atesi-genelgesi-2005-40"
 baslik: "Kırım-Kongo Kanamalı Ateşi Genelgesi (2005/40)"
 tur: "genelge"
+tarih: "2005-03-11"
 sayi: "2005/40"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kırım-Kongo Kanamalı Ateşi (KKKA) hastalığının epidemiyolojisi, korunma tedbirleri, vaka yönetimi ve bildirim usullerini düzenler."
@@ -10,9 +11,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103498/kirim-kongo-kanamali-atesi-gene
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
-
-6.3.30. Kırım-Kongo Kanamalı Ateşi Genelgesi (2005/40)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü

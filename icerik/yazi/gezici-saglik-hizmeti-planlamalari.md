@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "571-572"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## GEZİCİ SAĞLIK HİZMETİ PLANLAMALARI

@@ -9,8 +9,9 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103781/saglik-bakanligina-bagli-hastan
 durum: "yürürlükte"
 ocr: true
 tarih: "2020-09-02"
-sayi: "4145"
+sayi: "54567092-010.04"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü

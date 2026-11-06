@@ -10,22 +10,26 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 716-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.49. Yenidoğanlarda K Vitamini Uygulaması Genelgesi (2021/11)
 
-### T.C. SAĞLIK BAKANLIĞI – Halk Sağlığı Genel Müdürlüğü
+T.C.
+SAĞLIK BAKANLIĞI
+Halk Sağlığı Genel Müdürlüğü
 
-Sayı: 67414668-010.06.02
-Konu: Yenidoğanlarda K Vitamini Uygulaması
+Sayı : 67414668-010.06.02
+Konu : Yenidoğanlarda K Vitamini Uygulaması
 
-### GENELGE 2021/11
+GENELGE
+2021/11
 
-Yenidoğan sağlığında öncelikli konular olan; doğum öncesi bakımın nitelik ve nicelik olarak düzeltilmesi, her doğum için sağlıklı ve güvenli koşulların sağlanması, doğum sırasında ve erken yenidoğan döneminde optimal yaklaşımın sağlanması, yüksek riskli gebe ve yenidoğanın tanınması uygun bakım ve sevk zincirinin saglanması önem taşımaktadır.
+Yenidoğan sağlığında öncelikli konular olan; doğum öncesi bakımın nitelik ve nicelik olarak düzeltilmesi, her doğum için sağlıklı ve güvenli koşulların sağlanması, doğum sırasında ve erken yenidoğan döneminde optimal yaklaşımın sağlanması, yüksek riskli gebe ve yenidoğanın tanınması uygun bakım ve sevk zincirinin sağlanması önem taşımaktadır.
 
-Yenidoğan döneminde karşılaşılan sorunlardan biri olan Yenidoğanın Hemorajik Hastalığı, K vitamini eksikliği sonucu ortaya çıkan bir tablodur. Yenidoğan bebeklere doğum sonrası takibi yapılacak K vitamini, bu vitaminin eksikliğine bağlı kanamaları önleyecektir, Koruyucu saglık hizmetleri kapsamında, doğum sonrası tüm yenidoğanlara K vitamini uygulamasını sağlaması, periunelüı bilgilendicilmesi ve doğra uygulamalana sürläröimesi önem arz etmektedir
+Yenidoğan döneminde karşılaşılan sorunlardan biri olan Yenidoğanın Hemorajik Hastalığı, K vitamini eksikliği sonucu ortaya çıkan bir tablodur. Yenidoğan bebeklere doğumu takiben yapılacak K vitamini, bu vitaminin eksikliğine bağlı kanamaları önleyecektir. Koruyucu sağlık hizmetleri kapsamında, doğum sonrası tüm yenidoğanlara K vitamini uygulamasının sağlanması, personelin bilgilendirilmesi ve doğru uygulamaların sürdürülmesi önem arz etmektedir.
 
-Bu kapsamata yapılacak çalışmalarda aşağıtaki Insasaa roycı edilecektir.
+Bu kapsamda yapılacak çalışmalarda aşağıdaki hususlara riayet edilecektir.
 
 1. K vitamini uygulaması tüm yenidoğanlara doğumun ardından doğum salonunda yapılacaktır.
 
@@ -35,28 +39,31 @@ Bu kapsamata yapılacak çalışmalarda aşağıtaki Insasaa roycı edilecektir.
 
 4) Her bebek için ayrı ampul açılacaktır.
 
-5) K vitamini ışıktan etkilendiği için kullanımdan hemen önce enjektöre eklenmeli, önceden hazırlanıp bekletilmemelidir.
+5) K vitamini ışıktan etkilendiği için kullanımdan hemen önce enjektöre çekilmeli, önceden hazırlanıp bekletilmemelidir.
 
-6. K vitamini ampullerinin, görünüm bakımından benzer ampaller ide ilaç tepsisinde yan yana durması önlenecektir.
+6) K vitamini ampullerinin, görünüm bakımından benzer ampuller ile ilaç tepsisinde yan yana durması önlenecektir.
 
-7) K vıtamininin temıni ve sürekliligmin saglanmasi sorumiuiugu saghk karuhştanını yonetimin ledir.
+7) K vitamininin temini ve sürekliliğinin sağlanması sorumluluğu sağlık kuruluşlarının yönetimindedir.
 
-8) İl sağlık müdürlikleri sağlk kuruluşlarında sizckh K vitamini bulunma durumunu kontrol edecektir
+8) İl sağlık müdürlükleri sağlık kuruluşlarında sürekli K vitamini bulunma durumunu kontrol edecektir.
 
-9) Ailelerin uygulamayı reddetmesi durumunda Oncelikle bilgilendirme yapılacak, ailenın kararımı değiştirmenesi halinde chic yer alan form doldinılrak imzu л ліс haste dosyasında muhafiza edilecektir. Ayten fenun bir koysas silaye varilecek, hir kopyasi da tesni saa de il sadik madonn@ine iletilecektr
+9) Ailelerin uygulamayı reddetmesi durumunda öncelikle bilgilendirme yapılacak, ailenin kararını değiştirmemesi halinde ekte yer alan form doldurularak imza altına alınacak hasta dosyasında muhafaza edilecektir. Ayrıca formun bir kopyası aileye verilecek, bir kopyası da resmi yazı ile il sağlık müdürlüğüne iletilecektir.
 
-10) Aile tarafından uygulamamın reddedıldiği durundı hebekie sekel se da vilüm tropit estine konu, il sağhk modürlaga tarefiodan adli makamlam intikal ettirilecektir.
+10) Aile tarafından uygulamanın reddedildiği durumda bebekte sekel ya da ölüm tespit edilirse konu, il sağlık müdürlüğü tarafından adli makamlara intikal ettirilecektir.
 
--11) 18/03/2010 tarilı ve 2010/17 sayıh Genelge yürürükien kaklırılııştır.
+11) 18/03/2010 tarih ve 2010/17 sayılı Genelge yürürlükten kaldırılmıştır.
 
-Konu ile ilgili olarak doğum yapılan tüm sağlık kuruluşlarımın bilgilendirilmesi ve uygulamanım devamlıhığıın sağlanması için gerekli çalışmaların yürütulmesi hususlarında;
+Konu ile ilgili olarak doğum yapılan tüm sağlık kuruluşlarının bilgilendirilmesi ve uygulamanın devamlılığının sağlanması için gerekli çalışmaların yürütülmesi hususlarında;
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Doç DA Tolga TOLUNA
+Doç. Dr. Tolga TOLUNA
+Bakan a.
+Bakan Yardımcısı
 
-BaLan a (-
+EKLER:
 
-Bakan Yardinicisi EA Vila ni Diza ames Cheyn Big lca me ve Ral / Voi (2 molo)
+1- K Vitamini Uygulaması Ebeveyn Bilgilendirme ve Ret Formu (1 sayfa)
 
-### DAGITIN A PLANI
+DAĞITIM:
+A PLANI

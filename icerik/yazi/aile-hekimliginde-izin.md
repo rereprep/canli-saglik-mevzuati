@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "576-577"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## AİLE HEKİMLİĞİNDE İZİN

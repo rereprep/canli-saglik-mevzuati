@@ -11,35 +11,36 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 847-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-7.3.1. Uzaktan Hasta Değerlendirmesi (UHD) Genelgesi (2024/8)
+7.3.1 Uzaktan Hasta Değerlendirmesi (UHD) Genelgesi (2024/8)
 
 T.C.
 SAĞLIK BAKANLIĞI
 Kamu Hastaneleri Genel Müdürlüğü
 
-Sayı : E-95796091-010.06.01-244300438
+Sayı : 243806303
 Konu : Uzaktan Hasta Değerlendirmesi (UHD)
-
-17/05/2024
 
 GENELGE
 2024/8
 
-Sağlık hizmetine erişimin kolaylaştırılması, teknolojinin getirdiği imkânlardan azami düzeyde istifade edilmesi, sağlık tesislerindeki yoğunluğun azaltılması, kronik hastaların ve hareket kısıtlılığı bulunan vatandaşlarımızın evinde ve yerinde takibinin sağlanması amacıyla 10.02.2022 tarihli ve 31746 sayılı Resmî Gazete'de yayımlanan Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik hükümleri doğrultusunda Bakanlığımıza bağlı sağlık tesislerinde uzaktan hasta değerlendirmesi hizmeti sunulacaktır.
+Ülkemizde uzaktan sağlık hizmetinin geliştirilmesine ilişkin usul ve esasları düzenlemek üzere Sağlık Bakanlığı tarafından 10 Şubat 2022 tarih ve 31746 sayılı "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik" yayımlanmıştır. Bu Yönetmelik, uzaktan hasta değerlendirmesi yapan tüm sağlık tesislerini ve bu hizmeti ifa eden tüm sağlık meslek mensuplarını, uzaktan sağlık bilgi sistemi geliştiricilerini ve uzaktan sağlık hizmeti almak isteyen gerçek kişileri kapsar. Uzaktan sağlık hizmeti; Yönetmelik hükümlerine göre, faaliyet izni almış olan sağlık tesislerinde, sağlık meslek mensubunun, sağlık hizmeti talep eden kişiye uzaktan sağlık bilgi sistemi üzerinden sunduğu sağlık hizmetini ifade eder. Bu kapsamda Bakanlık tarafından geliştirilen veya Bakanlık tarafından tescil edilmek suretiyle uzaktan sağlık hizmeti sunumunda kullanılması onaylanan yazılı, sesli veya görüntülü iletişime imkân sağlayan güvenli yazılım sistemi olan uzaktan sağlık bilgi sistemi kullanılır.
 
-Bu kapsamda Bakanlığımıza bağlı ikinci ve üçüncü basamak sağlık tesislerinde yürütülecek iş ve işlemler aşağıda belirtilmiştir:
+Bakanlığımız hasta merkezli ve bütüncül bakış anlayışıyla hem bireyin hem de toplumun sağlığını en üst düzeyde korumayı, sağlık sorunlarına zamanında, uygun ve etkili çözümler üretmeyi ve hizmet kalitesini, verimliliği yüksek tutmayı gaye edinmiş ve sağlık hakkının korunmasını garanti altına almıştır. Bu minvalde, bireyler için uygun olması durumunda klinik ortam dışında hastaların evde/yerinde uygulanabilir hizmetlerle buluşturulması, mevcut tıbbi durumlarının stabil tutulmasını sağlamaya yönelik kronik tıbbi sorunlarının etkili bir şekilde yönetilmesi, mümkün olduğunca hastaneye nakil veya transfer gerektirmeyen, hasta yakınlarında iş gücü kaybını önleyici ve bakım yükünün azaltılmasına yardımcı maliyet etkin hizmet sunumunun geliştirilmesi hedeflenmektedir.
 
-### A) Hizmet Sunum Esasları:
+Hem Anayasa hem de 3359 sayılı Sağlık Hizmetleri Temel Kanunu ve diğer kanunlar ile Bakanlığımıza verilen görevler kapsamında, talebi olan bireylerin ihtiyacı olan koruyucu sağlık hizmetleri dâhil olmak üzere tıbbi bakım hizmetlerinin takip ve koordinasyonunu sağlamak amacıyla aşağıda belirtilen usul ve esaslar dâhilinde "Uzaktan Hasta Değerlendirme Sisteminin" Bakanlığımıza bağlı sağlık tesislerinde kullanımının sağlanması ile uzaktan hasta değerlendirmesinin yapılması uygun görülmüştür.
 
-1. Uzaktan sağlık hizmeti, Bakanlığımızca yetkilendirilen ve altyapısı uygun bulunan kamu sağlık tesislerinde, Uzaktan Sağlık Hizmet Sunumu Sistemi (UHDS) üzerinden görsel ve işitsel iletişim yoluyla sunulur.
+A) GENEL ESASLAR
 
-2. Hizmet sunumu; poliklinik muayenesi, kronik hastalık takibi, tahlil/tetkik sonuçlarının değerlendirilmesi, klinik danışmanlık ve hekimler arası telekonsültasyon süreçlerini kapsar.
+1. Uzaktan Hasta Değerlendirmesi (UHD) ile her yaş grubundan hastaya sağlık hizmeti sunulması amaçlanır.
 
-3. Uzaktan hasta değerlendirmesinde hastanın kimlik doğrulaması güvenli kimlik doğrulama yöntemleriyle e-Devlet veya e-Nabız üzerinden sağlanır.
+2. UHD, uzaktan görüntülü görüşme yapılmasına ihtiyacı olduğu belirlenen ve/veya Merkezi Hekim Randevu Sistemi (MHRS) aracılığıyla bu hizmeti talep eden, randevusu oluşturulan hastaya sunulur.
 
-4. Fiziksel muayene gerektiren acil durumlar ile girişimsel işlem ihtiyacı olan hallerde uzaktan değerlendirme yapılmaz, hasta en yakın sağlık kuruluşuna yönlendirilir veya acil sağlık hizmetlerine bildirilir.
+3. MHRS aracılığıyla randevu, hasta/hasta yakını tarafından veya hastayı takip eden hekim veya aile hekimi tarafından alınır.
+
+4. Bu hizmet ile hastalara tanı konulabilir, teşhis edilmiş hastalıkları kontrol edilebilir, tıbbi danışmanlık verilebilir, konsültasyon veya ikincil görüş talep edilebilir, kişinin tıbbî gözlem, izlem ve takibi ile değerlendirmesi yapılabilir, uzaktan sağlık hizmetinin elverdiği ölçüde muayene edilebilir. Gerekli durumlarda hekim tarafından kişiye bir sağlık kuruluşuna fiziken müracaat etmesi de önerilebilir.
 
 5. Hastalıkların uzaktan yönetimi ve takibi için kişinin kan şekeri ve kan basıncı gibi klinik parametreleri değerlendirilebilir, izlenebilir, tedavi ve ilaç yönetimi sağlanabilir.
 
@@ -82,4 +83,3 @@ Bakan
 
 DAĞITIM:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-

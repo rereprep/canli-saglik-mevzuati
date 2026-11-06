@@ -1,6 +1,6 @@
 ---
 id: "sbg-103808-saglik-bakanligi-4-b-sozlesmeli-personelininin-yeniden-hizmete-alinmas"
-baslik: "Sağlık Bakanlığı 4\\B Sözleşmeli Personelininin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine"
+baslik: "Sağlık Bakanlığı 4/B Sözleşmeli Personelinin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
@@ -9,6 +9,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 9.2.8. Sağlık Bakanlığı 4/B Sözleşmeli Personelininin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönerge

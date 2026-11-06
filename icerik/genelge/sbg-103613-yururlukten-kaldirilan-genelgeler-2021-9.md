@@ -10,6 +10,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103613/yururlukten-kaldirilan-genelgel
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 2.3.41. Yürürlükten Kaldırılan Genelgeler (2021/9)

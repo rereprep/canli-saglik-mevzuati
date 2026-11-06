@@ -10,6 +10,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 734-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 6.3.57. Yenidoğan Tarama Programı Genelgesi (2014/7)
@@ -182,8 +183,21 @@ Bilindiği üzere, Aralık 2006 tarihinden itibaren ülkemizde Ulusal Yenidoğan
 
 Söz konusu taramanı sağlıklı yürütülebilmesi için aşağıda yer alan hususlara azami dikkat edilmesi gerekmektedir: 1- SMA taraması için halihazıda tarama programında kullanılmakta olan numune kåğıtlarının revize edildiği bilgisi, yeni numune kağıtlarının kullanımu, topuk kanı örneklerinin alıu ve Yenidoğan Tarama Program: (NTP) web uygulamasına kaydedilmesi ile ilgili talimatlar 26.04.2022 tarih ve E-67414668-234.01.02-419 yazıyla iletilmiştir. Kontaminasyonun önlenmesi için topuk kamı örneklerinin talimatlara uygun olarak alınması ve söz konusu uygulamaya kaydedilmesi gerekmektedir. 2- SMA için analizlerin moleküler yöntemle yapılacağı ve tarama sonucu pozitif saptanan bebeklere tedavi başlanacağından; numune kağıdındaki ilgili bölümlerin eksiksiz, doğru ve okunaklı bir şekilde doldurulması, topuk kanı örneklerinin de aymı şekilde NTP web uygulamasına kaydedilmesi önem taşunaktadır. Buna bağlı olarak oluşacak herhangi bir sorun, hukuki sorumluluk doğuracaktır. 3- SMA tedavisinde hastalığın erken tanınması ve tedavinin erken başlanması hastalığın gidişatını belirleyeceğinden, SMA için analiz çalışması "İlk numune (0-2 Gün)" numunelerinde yapılacaktır. Bu nedenle yenidoğan yoğun bakın ünitelerinde tedavi görmekte olanlar dahil, tüm yenidoğanlardan "İlk nunune (0-2 Gün)" numunesinin alması ve NTP web uygulamasına kaydedilmesi gerekmektedir. 4- "Ilk: numune (0-2 Gün)" numunelerinin analizinde yeterli miktarda DNA'nın elde edilemediği durumlarda NTP web uygulamasma "Uygunsuz Numune" uyarisı verecektir. Bu durumda SMA analizi için bebekten, bağlı bulunduğu aile hekimliği birimince, mevcut numune kağıtları kullanılarak iki halkalık (gode) bir kan örneği (uygunsuza geribildirim numunesi) daha alınacak ve kan kuruduktan sonra kilitli poşete konularak gerekli işlemlerin tesis edilmesi için ilgili birime iletilecektir. 5- *Ilk numune (0-2 Gün)" numunelerinin analizleri esnasında SMA ile birlikte diğer testler için de numunenin "Uygunsuz Numune" olması durumunda, bebeğin bağlı bulunduğu aile hekimliği birimince bebekten "İkinci Numune" ile birlikte SMA analizi için iki halkalık (gode) bir topuk kanı örneği daha alımacaktır. Bu örneklerin ahımı esnasında mevcut numune kağıtları kullanılacaktır. 6- Bebekten "İlk: numune (0-2 Gün)" numunesinin alınmadığı durumlarda ise bebeğin bağhı bulunduğu aile hekimliği birimince "İll: Numune (3+Gün) numunesi" ile birlikte yukarıda belutildiği şekilde SMA analizi için bir kan örneği daha alınacaktır. 7- Tarama laboratuvarı tarafindan çalışılarak sonucu pozitif bulunan bebeklerde NTP web uygulaması "SMA Için Ilgili Kliniğine Sevk Ediniz" uyarısı verecektir.
 
-"SMA Için Ilgili Kliniğine Sevk Ediniz" uyarısı verilen bebekler ek 1'de yer alan hastanelere yönlendirilecektir. İlinizde ilgili merkezin bulunmaması halinde söz konusu bebekler, ek 1'de yer alan
+"SMA Için Ilgili Kliniğine Sevk Ediniz" uyarısı verilen bebekler ek 1'de yer alan hastanelere yönlendirilecektir. İlinizde ilgili merkezin bulunmaması halinde söz konusu bebekler, ek 1'de yer alan hastanelerden ilinize en yakın ya da ailenin tercih ettiği bir ildekine yönlendirilmelidir.
+Yönlendirme öncesi bağlı bulundukları aile hekimince yüz yüze görüşmeye davet edilen anne/babaya, ek 2'de iletilen "Bilgilendirme Broşürü" doğrultusunda gerekli bilgilendirme yapılacak, broşürde yer alan bilgilendirme sayfasının aileye verilecek, aile bilgilendirme beyanı doldurtularak imzalatılacak ve 5 yıl süreyle saklanacaktır. Aile hekimi randevu için ÇEKÜS birimi tarafından aileye ulaşılacağı bilgisini aileye iletecektir.
 
-### Bu belge, güvenli elektronik imza ile imzalanmuştur.
+10- SMA taraması kapsamında tarama laboratuvarı tarafından çalışılarak sonucu pozitif bulunan bebeklerin ivedilikle ilgili merkezlere yönlendirilmeleri gerektiğinden, yönlendirme öncesinde randevularının alınması gerekmektedir. Randevu işlemleri Müdürlüğünüz ÇEKÜS Birimi tarafından yürütülecek, ek 1'de yer alan hastanelerdeki ilgili kişiler ile iletişime geçilerek bebek için "Pediatrik Nöroloji Polikliniği" randevusu, ek 3'te yer alan akış şemasındaki işlem basamaklarına uyularak alınacaktır. Randevu uyarının hemen ardından alınacak, ilgili hastane tarafından da 3 (üç) iş günü içerisinde bebeğe randevu verilecektir.
 
-Belge Dogrulama Kodu: d387cbe3-bf0a-4664-8376-fa28e7fa4c98 Belge Dogrulama Adresi: https://www.tukiye.gov.tr/saglik-bakanligi-ebys Yenidoğan SMA Taraması (2014/7 sayılı Genelge’ye ilişkin Değişiklik-2)
+11- Tarama kapsamında pediatrik nöroloji uzmanlarına yönlendirilen bebeklere yönelik iş ve işlemler Sağlık Hizmetleri Genel Müdürlüğünce hazırlanan klinik kılavuza uygun olarak yürütülecektir. Pediatrik nöroloji uzmanlarınca bebeklerin tarama sonuçları NTP web uygulaması ve e-Nabız üzerinden görülecek ve bebeklerin klinik sonuçları NTP web uygulamasına girilecektir.
+
+12- SMA hastalığının taramasında, taranan diğer 5 hastalıkta olduğu gibi laboratuvarla uyumlu hale getirilen ve ek 4'te yer alan akış şeması doğrultusunda hareket edilecek, il düzeyinde başka bir düzenleme yapılmayacaktır.
+
+13- Müdürlüğünüz; program kapsamında taranan diğer 5 hastalıkta olduğu gibi, SMA hastalığının taramasında da NTP web uygulamasını günlük olarak takip etmek ve gereken iş ve işlemleri yürütmekle yükümlüdür.
+
+14- NTP web uygulamasının AHBS ile entegrasyonu tamamlandığından SMS uygulaması sonlandırılmış olup, aile hekimleri de uygulamayı günlük olarak takip etmek ve kendilerine kayıtlı bebekler için NTP kapsamında, sistemlerinde yer alan uyarılar doğrultusunda gereken iş ve işlemleri yürütmekle yükümlüdür.
+
+Tarama programının yukarıda bahsedilen çerçevede yürütülmesinin sağlanması için ilgililere tebliğini ve gereğini rica ederim.
+
+Doç. Dr. Tolga TOLUNAY
+Bakan a.
+Bakan Yardımcısı

@@ -7,6 +7,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10420/basbakanlik-kriz-yonetim-merkezi
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 konu: "Başbakanlık Kriz Yönetim Merkezinin teşkilatını, çalışma usullerini, görev ve sorumluluklarını düzenler."
 birim: "Bakanlar Kurulu"
 sayi: "96/8716"

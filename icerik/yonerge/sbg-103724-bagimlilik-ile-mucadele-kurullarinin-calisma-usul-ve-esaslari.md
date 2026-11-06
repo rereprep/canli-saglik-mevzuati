@@ -9,6 +9,7 @@ durum: "yürürlükte"
 ocr: true
 konu: "Bağımlılıkla Mücadele Kurulu, Teknik Kurul ve İl/İlçe Koordinasyon Kurullarının oluşumunu, görevlerini ve çalışma usullerini belirler."
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### BAĞIMLILIKLA MÜCADELE KURULLARININ ÇALIŞMA USUL VE ESASLARI

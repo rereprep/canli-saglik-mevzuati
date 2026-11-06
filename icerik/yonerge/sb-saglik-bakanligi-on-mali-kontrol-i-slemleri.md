@@ -11,9 +11,48 @@ ocr: true
 tarih: "2020-07-24"
 sayi: "356"
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi (Değişiklikler İşlenmiş Hâli)
+
+### Bakanlık Makamına sunuş yazısı
+
+T.C.
+
+SAĞLIK BAKANLIĞI
+
+Strateji Geliştirme Başkanlığı
+
+Sayı: 39434888-012.02/
+
+Konu: Yönerge
+
+BAKANLIK MAKAMINA
+
+Bilindiği üzere Bakanlığımız ön mali kontrol işlemleri, 5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, 5436 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun ile İç Kontrol ve Ön Mali Kontrole İlişkin Usul ve Esaslar kapsamında hazırlanan Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi kapsamında yürütülmektedir.
+
+İç Kontrol ve Ön Mali Kontrole İlişkin Usul ve Esaslarda 14.12.2022 tarihli ve 32043 sayılı Resmi Gazete'de bazı değişiklikler yapılmış olup bahsi geçen değişikliklere uyum sağlanması amacıyla Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesinin güncellenmesi ihtiyacı doğmuştur. Bu doğrultuda hazırlanan "Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesinde Değişiklik Yapılmasına Dair Yönerge" taslağının onaylanarak yürürlüğe konulması hususunu;
+
+Olurlarınıza arz ederim.
+
+[?]
+
+Uygun görüşle arz ederim. [?] / 2023
+
+Prof. Dr. Sabahattin AYDIN
+
+Bakan Yardımcısı
+
+OLUR [?] / 2023
+
+Dr. Fahrettin KOCA
+
+Bakan
+
+Ekler:
+
+1- Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesinde Değişiklik Yapılmasına Dair Yönerge
 
 ### SAĞLIK BAKANLIĞI ÖN MALİ KONTROL İŞLEMLERİ YÖNERGESİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNERGE
 

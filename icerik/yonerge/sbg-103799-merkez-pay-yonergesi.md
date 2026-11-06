@@ -8,6 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103799/merkez-pay-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.2.4. Merkez Pay Yönergesi
@@ -30,15 +31,15 @@ duzeltildi: true
 
 **MADDE 3 –** (1) Bu Yönergede geçen;
 
-a) Kanun: 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumlanı Ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Knnunu, C
+a) Kanun: 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunu,
 
 b) Bakanlık: Sağlık Bakanlığını,
 
 c) Bakan: Sağlık Bakanını,
 
-9) Merkez Teşkilatı: 663 sayılı Sağlık Bakanlığı ve Bağh Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname de belirlenen Bakanlığın merkez hizmet birimlerini.
+ç) Merkez Teşkilatı: 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede belirlenen Bakanlığın merkez hizmet birimlerini,
 
-d) Bağlı Kuruluş: Türkiye Kamu Hastaneleri Kurumu, Türkiye Halk Sağhğ Kurumunu ifade eder.
+d) Bağlı Kuruluş: Türkiye Kamu Hastaneleri Kurumu, Türkiye Halk Sağlığı Kurumunu ifade eder.
 
 ## İKİNCİ BÖLÜM
 

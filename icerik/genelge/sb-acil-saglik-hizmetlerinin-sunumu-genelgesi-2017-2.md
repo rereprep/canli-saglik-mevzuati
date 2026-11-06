@@ -11,6 +11,7 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 346-
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -20,13 +21,13 @@ Sayı : 39942531/
 Konu: Acil Sağlık Hizmetlerinin Sunumu
 
 ### GENELGE
-2017/2
+**2017/2**
 
 Acil sağlık hizmetlerinin adil, ulaşılabilir ve kesintisiz bir şekilde sürdürülmesi Bakanlığımızın öncelikli görevleri arasında yer almaktadır. Acil sağlık hizmetlerinin daha etkin yürütülmesi amacıyla Başbakanlık ve Bakanlığımızca çıkarılan ve halen yürürlükte olan ilgili mer’i mevzuatlara göre;
 
 26 Haziran 2008 tarih ve 26918 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren; "Acil Sağlık Hizmetinin Sunumu" hakkında 2008/13 sayılı Başbakanlık Genelgesinde; "...Doğru ve zamanında yapılan tıbbi müdahale hayat kurtarmakta, en küçük gecikme, telafisi mümkün olmayan olumsuz sonuçlar doğurabilmektedir. Acil tıbbi müdahale gerektiren durumlarda, hastanın uygun tedavisinin yapılabileceği sağlık kuruluşuna en hızlı şekilde ulaştırılması ve gereken müdahalenin zamanında yapılması hayati önem taşımaktadır. Bu sebeple, acil tıbbi müdahaleyi gerektiren durumlarda hastanın uygun bir sağlık kuruluşuna gecikmeksizin ulaştırılması ve hastanın getirildiği sağlık kuruluşunca da gereken acil müdahalelerin öncelikle ve ön şartsız yapılması insani bir görev olduğu gibi hukukun gereğidir..." ifadesi bulunmaktadır.
 
-Anılan genelgenin 5 inci maddesinde; "...Acil hastanın sevk edileceği sağlık kuruluşunun belirlenmesi ve nakil işlemleri komuta kontrol merkezinin yönetiminde ve koordinasyonunda yapılacaktır. Komuta kontrol merkezi, hastaya ait bilgileri alacak, bu bilgiler ışığında hastanın hangi sağlık kuruluşuna sevk edileceğine karar verecek, ilgili kuruluşun yetkilileriyle irtibata geçerek gerekli görüşmeleri yaptıktan sonra hastanın nakline engel bir durum yoksa sevk için ambulansa çıkış emri vererek naklin gerçekleşmesini sağlayacaktır. Gerektiğinde intikal süresinin kısaltmak amacıyla yukarıdaki işlemlerin bir kısmı hasta yola çıkarıldıktan sonra yapılabilecektir..." ifadesi bulunmaktadır.
+Anılan genelgenin 5 inci maddesinde; "...Acil hastanın sevk edileceği sağlık kuruluşunun belirlenmesi ve nakil işlemleri komuta kontrol merkezinin yönetiminde ve koordinasyonunda yapılacaktır. Komuta kontrol merkezi, hastaya ait bilgileri alacak, bu bilgiler ışığında hastanın hangi sağlık kuruluşuna sevk edileceğine karar verecek, ilgili kuruluşun yetkilileriyle irtibata geçerek gerekli görüşmeleri yaptıktan sonra hastanın nakline engel bir durum yoksa sevk için ambulansa çıkış emri vererek naklin gerçekleşmesini sağlayacaktır. Gerektiğinde intikal süresini kısaltmak amacıyla yukarıdaki işlemlerin bir kısmı hasta yola çıkarıldıktan sonra yapılabilecektir..." ifadesi bulunmaktadır.
 
 Aynı genelgenin 6 ıncı maddesinde; "...Bütün sağlık kuruluşları, komuta kontrol merkezinin çalışmalarında gerekli yardımı ve kolaylığı sağlamak, acil vakaya ait tıbbi bilgileri vermek ve komuta kontrol merkezinin nakille ilgili talimatlarına uymak ve sevk edilen hastayı kabul etmek zorundadır." ifadesi yer almaktadır.
 

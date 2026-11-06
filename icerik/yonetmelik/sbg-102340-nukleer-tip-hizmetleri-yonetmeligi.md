@@ -7,6 +7,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-102340/nukleer-tip-hizmetleri-yonetmel
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 tarih: "2023-04-25"
 konu: "Nükleer tıp hizmetlerinin planlanması, sınıflandırılması, sunumu, standartları ve denetlenmesine ilişkin usul ve esasları düzenler."
 ---

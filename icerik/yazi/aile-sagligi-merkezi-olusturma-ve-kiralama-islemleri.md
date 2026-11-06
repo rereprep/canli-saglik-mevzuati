@@ -12,6 +12,7 @@ kaynak_pdf_sayfa: "499-508"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## AİLE SAĞLIĞI MERKEZİ OLUŞTURMA VE KİRALAMA İŞLEMLERİ

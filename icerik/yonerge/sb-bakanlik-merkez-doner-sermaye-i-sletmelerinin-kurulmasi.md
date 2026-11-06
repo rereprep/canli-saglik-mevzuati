@@ -9,9 +9,38 @@ kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 1073
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 11.2.6. Bakanlık Merkez Döner Sermaye İşletmelerinin Kurulması ve İşletilmesi Hakkında Yönerge
+
+T.C.
+SAĞLIK BAKANLIĞI
+Strateji Geliştirme Başkanlığı
+
+Sayı : 43553240/010.04
+Konu : Bakanlık Merkez Döner Sermaye İşletmesinin Kurulması
+
+### BAKANLIK MAKAMINA
+
+Bakanlığımız Merkez Döner Sermaye İşletmesi ile işletme birimlerinin kurulmasına yönelik olarak hazırlanan ve ekte sunulan "Sağlık Bakanlığı Merkez Döner Sermaye İşletmesinin Kurulması ve İşletilmesi Hakkında Yönerge"nin onaylanarak yürürlüğe konulmasını,
+
+Tensiplerinize arz ederim.
+
+Mehmet ATASEVER
+Başkan
+
+Uygun görüşle arz ederim.
+[?]
+Prof. Dr. Eyüp GÜMÜŞ
+Müsteşar
+
+OLUR
+[?]
+Dr. Mehmet MÜEZZİNOĞLU
+Bakan
+
+EK: Sağlık Bakanlığı Merkez Döner Sermaye İşletmesinin Kurulması ve İşletilmesi Hakkında Yönerge
 
  MERKEZ DÖNER SERMAYE İŞLETMELERİNİN KURULMASI VE İŞLETİLMESİ HAKKINDA YÖNERGE
 

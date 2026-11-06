@@ -11,6 +11,7 @@ duzeltildi: true
 konu: "Düzenlemenin amacı ve kapsamı ile uygulama usul ve esaslarını belirler."
 tarih: ""
 sayi: ""
+kontrol_edildi: true
 ---
 
 ## SAĞLIK BAKANLIĞI BİLGİ GÜVENLİĞİ POLİTİKALARI YÖNERGESİ
@@ -3634,8 +3635,6 @@ iso-27001-bilgi-guvenligi-yonetim-sistemi.html
 px?RootFolder=http%3a%2f%2fweb%2eogm%2egov%2etr%2fbirimler%2fm
 
 erkez%2fbilgiislem%2fDokumanlar%2fBilgiGuvenligi&FolderCTID=0x0120003
-
-### [Barkod/OCR kalıntısı]
 
 13. http://bigb.meb.gov.tr
 

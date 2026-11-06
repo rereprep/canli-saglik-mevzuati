@@ -9,11 +9,13 @@ durum: "yürürlükte"
 ocr: true
 konu: "Sağlık Bakanlığı merkez, taşra ve yurt dışı teşkilatında Elektronik Belge Yönetim Sistemi, KEP, e-Otoban ve UETS kullanımına ilişkin usul ve esasları düzenler."
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## SAĞLIK BAKANLIĞI YENİ ELEKTRONİK BELGE YÖNETİM SİSTEMİ YÖNERGESİ
 
-## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak, Tanımlar, İlkeler ve Kurallar
+## BİRİNCİ BÖLÜM
+### Amaç, Kapsam, Dayanak, Tanımlar, İlkeler ve Kurallar
 
 #### Amaç
 

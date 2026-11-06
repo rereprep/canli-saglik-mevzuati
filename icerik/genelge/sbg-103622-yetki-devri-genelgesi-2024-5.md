@@ -10,6 +10,7 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 konu: "Bakanlık taşra teşkilatında taşınır devirlerine ilişkin parasal limitleri ve onay yetkisini belirler."
+kontrol_edildi: true
 ---
 
 ## 11.3. GENELGELER

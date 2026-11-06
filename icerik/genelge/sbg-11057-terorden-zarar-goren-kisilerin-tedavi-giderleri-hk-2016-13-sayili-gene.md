@@ -9,6 +9,8 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11057/terorden-zarar-goren-kisilerin-t
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+tarih: "2016-07-28"
+kontrol_edildi: true
 ---
 
 ### SAĞLIK BAKANLIĞI

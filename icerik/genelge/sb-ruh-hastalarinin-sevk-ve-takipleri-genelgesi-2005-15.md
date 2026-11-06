@@ -1,18 +1,47 @@
 ---
 id: "sb-ruh-hastalarinin-sevk-ve-takipleri-genelgesi-2005-15"
-baslik: "Ruh Hastalarının Sevk ve Takipleri Genelgesi (2005/15)"
+baslik: "Ruh Hastalarının Sevk ve Takipleri Genelgesi (2005/155)"
 tur: "genelge"
-sayi: "2005/15"
-birim: "Halk Sağlığı Genel Müdürlüğü"
-konu: "Ruh Hastalarının Sevk ve Takipleri Genelgesi (2005/15) uyarınca yürütülecek sağlık hizmetleri ve idari uygulamaları düzenler."
+tarih: "2005-10-13"
+sayi: "2005/155"
+birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "Ruh hastalarının sevk ve takiplerinde yapılacak işlemler, bölge hastaneleri ve psikiyatri kliniklerinin koordinasyonunu düzenler."
 etiketler: ["halk sağlığı", "ruh sağlığı", "hasta sevki"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 709-713"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
-6.3.47. Ruh Hastalarının Sevk ve Takipleri Genelgesi (2005/15)
+### T.C.
+### SAĞLIK BAKANLIĞI
+#### Temel Sağlık Hizmetleri Genel Müdürlüğü
+
+**Sayı :** B100TSH0140003-010.06  
+**Konu :** Ruh Hastalarının Sevk ve Takipleri  
+**Tarih :** 13.10.2005
+
+### GENELGE
+**2005/155**
+
+**İLGİ:**  
+a) 03.10.1991 tarihli ve 12175 sayılı Genelge,  
+b) 28.06.2004 tarihli ve 10719 sayılı Genelge.
+
+#### I- Ruh Sağlığı Hizmetlerinin Önemi:
+Ruhsal bozukluklar, genel sağlık hizmetleri çerçevesinde dünyada olduğu gibi Ülkemizde de önemli halk sağlığı sorunlarından biri olarak karşımıza çıkmaktadır. Ruhsal bozuklukların birey, aile ve toplum açısından problemlere neden olduğu, beraberinde yaşam kalitesini düşüren başkaca rahatsızlıkları içerdiği ve bu rahatsızlıkların somut olmayan, soyut kavramlar içerisinde yer aldığı görülmektedir. Bu durumlar ise, ruh sağlığının iyileştirilmesini ve iyileştirme yönünde verilen hizmetlerin verimliliğini ve sürdürülebilirliğini güçleştirmektedir.
+
+Ruh sağlığı; sosyal uyum ile içinde yaşanılan çevreye, sosyal yatırımlara ve ekonomik gelişmelere katkıda bulunan üretkenliğin, huzurun ve istikrarın vazgeçilmez bir parçasıdır. Ruh sağlığını teşvik edecek etkili planlar geliştirilmesi ve uygulanması, ruh sağlığı iyi ve üretken bir toplum inşa etmek için esastır.
+
+Bireysel anlamda ruh sağlığının iyi olması aynı zamanda, toplumsal ruh sağlığı ve yaşam tarzlarının yükselmesinde çok önemlidir. Ruh sağlığının korunması ve/veya tedavisinin teşvik edilmesi, bireyin yaşam kalitesini yükseltmekte ve bununla birlikte, ruh sağlığı sorunları olan insanlar ile toplum sağlığının ruhsal yönden de iyilik halinde olmasını temin etmektedir.
+
+Sosyal, psikolojik, biyolojik ve çevresel faktörler, insanların ruhsal yapıları üzerinde potansiyel risk oluşturmaktadır. Bu bağlamda, hassasiyetleri ve ihtiyaçları göz önüne alınarak bilhassa gençlere ve yaşlılara yönelik olarak, ruh sağlığının geliştirilmesi ve ruh sağlığının sorunlarının önlenmesi ve tedavi edilmesi ile ilgili faaliyetlere öncelik verilmelidir. Özellikle, çocukluk döneminde karşılaşılan ruhsal bozukluklar, yetişkin ruh sağlığı bozukluklarının önemli habercileridir. Bu yüzden, çocukların ve ergenlerin ruh sağlığını desteklemek, yetişkin ve yaşlılık döneminde bireyler, toplumlar ve sağlık sistemleri için uzun dönemde yararlar sağlayacak stratejik yatırımlar olarak görülmelidir.
+
+#### II- Ruh Sağlığı Hizmetlerinin Yürütülmesi ve Sevkler:
+Dünyanın pek çok ülkesinde, ruh sağlığı hizmetlerinin yürütülmesinde ve yaygın ruh sağlığı sorunlarına yardım konusunda, pratisyen hekimler ve birinci basamak sağlık çalışanları ilk ve temel kaynak olarak görülmektedir.
+
+Toplumdaki ruh sağlığı sorunları olan kişileri teşhis ve tedavi etmek yönünden pratisyen hekimler ve birinci basamak sağlık çalışanlarının kapasiteleri ve yeterliliklerinin geliştirilmesinde, gerekirse ikinci basamak ruh sağlığı hizmetleri ağının bir parçası gibi desteklenmeleri ve eğitimleri zorunludur.
 
 Bu arada, ruh sağlığı hizmetlerinin koruyucu sağlık hizmetleri kapsamında yürütülmesinin haricinde, ruhsal hastalıklarım tedavisi ve dolayısıyla, ruhsal yönden hasta olanların yahırılarak hastane ortamında iyileştirilmesinin önemi de büyüktür.
 

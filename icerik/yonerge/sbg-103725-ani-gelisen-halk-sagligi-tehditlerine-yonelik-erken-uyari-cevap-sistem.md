@@ -11,6 +11,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-103725/ani-gelisen-halk-sagligi-tehdit
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 **T.C.**  
