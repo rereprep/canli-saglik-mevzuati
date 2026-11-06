@@ -9,21 +9,286 @@ rg_sayi: "30479"
 birim: "Cumhurbaşkanlığı"
 konu: "Türkiye Sağlık Enstitüleri Başkanlığı (TÜSEB) ve Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK) teşkilat ve görevleri."
 etiketler: ["tuseb", "titck", "cumhurbaskanligi kararnamesi", "bagli kuruluslar"]
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/07/20180715-1.pdf"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4&MevzuatTur=19&MevzuatTertip=5"
 durum: "yürürlükte"
+not: "TİTCK bölümü (Kırkbeşinci Bölüm, md. 640-650) 28/3/2020 tarihli ve 31082 sayılı Resmî Gazete'de yayımlanan 57 sayılı CBK ile yürürlükten kaldırılmıştır; TÜSEB bölümü (Kırkyedinci Bölüm) yürürlüktedir."
 ---
 
-Resmî Gazete
+### BAKANLIKLARA BAĞLI, İLGİLİ, İLİŞKİLİ KURUM VE KURULUŞLAR İLE DİĞER KURUM VE KURULUŞLARIN TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ
 
-15 Temmuz 2018
+Cumhurbaşkanlığı Kararnamesinin Sayısı : 4 Yayımlandığı Resmî Gazetenin Tarihi – Sayısı : 15/7/2018 - 30479
 
-### Sayı : 30479 PAZAR YÜRÜTME VE İDARE BÖLÜMÜ
+### KIRKBEŞİNCİ BÖLÜM
 
-Kuruluşu : 7 Ekim 1920 İçindekiler 312. Sayfadadır.
+(Mülga başlık:RG-28/3/2020-31082-CK-57/1 md.)
 
-Sayfa : 2 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 3 Sayfa : 4 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 5 Sayfa : 6 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 7 Sayfa : 8 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 9 Sayfa : 10 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 11 Sayfa : 12 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 13 Sayfa : 14 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 15 Sayfa : 16 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 17 Sayfa : 18 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 19 Sayfa : 20 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 21 Sayfa : 22 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 23 Sayfa : 24 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 25 Sayfa : 26 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 27 Sayfa : 28 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 29 Sayfa : 30 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 31 Sayfa : 32 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 33 Sayfa : 34 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 35 Sayfa : 36 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 37 Sayfa : 38 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 39 Sayfa : 40 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 41 Sayfa : 42 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 43 Sayfa : 44 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 45 Sayfa : 46 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 47 Sayfa : 48 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 49 Sayfa : 50 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 51 Sayfa : 52 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 53 Sayfa : 54 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 55 Sayfa : 56 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 57 Sayfa : 58 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 59 Sayfa : 60 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 61 Sayfa : 62 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 63 Sayfa : 64 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 65 Sayfa : 66 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 67 Sayfa : 68 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 69 Sayfa : 70 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 71 Sayfa : 72 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 73 Sayfa : 74 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 75 Sayfa : 76 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 77 Sayfa : 78 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 79 Sayfa : 80 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 81 Sayfa : 82 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 83 Sayfa : 84 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 85 Sayfa : 86 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 87 Sayfa : 88 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 89 Sayfa : 90 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 91 Sayfa : 92 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 93 Sayfa : 94 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 95 Sayfa : 96 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 97 Sayfa : 98 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 99 Sayfa : 100 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 101 Sayfa : 102 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 103 Sayfa : 104 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 105 Sayfa : 106 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 107 Sayfa : 108 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 109 Sayfa : 110 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 111 Sayfa : 112 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 113 Sayfa : 114 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 115 Sayfa : 116 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 117 Sayfa : 118 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 119 Sayfa : 120 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 121 Sayfa : 122 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 123 Sayfa : 124 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 125 Sayfa : 126 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 127 Sayfa : 128 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 129 Sayfa : 130 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 131 Sayfa : 132 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 133 Sayfa : 134 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 135 Sayfa : 136 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 137 Sayfa : 138 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 139 Sayfa : 140 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 141 Sayfa : 142 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 143 Sayfa : 144 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 145 Sayfa : 146 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 147 Sayfa : 148 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 149 Sayfa : 150 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 151 Sayfa : 152 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 153 Sayfa : 154 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 155 Sayfa : 156 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 157 Sayfa : 158 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 159 Sayfa : 160 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 161 Sayfa : 162 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 163 Sayfa : 164 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 165 Sayfa : 166 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 167 Sayfa : 168 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 169 Sayfa : 170 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 171 Sayfa : 172 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 173 Sayfa : 174 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 175 Sayfa : 176 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 177 Sayfa : 178 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 179 Sayfa : 180 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 181 Sayfa : 182 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 183 Sayfa : 184 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 185 Sayfa : 186 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 187 Sayfa : 188 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 189 Sayfa : 190 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 191 Sayfa : 192 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 193 Sayfa : 194 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 195 Sayfa : 196 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 197 Sayfa : 198 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 199 Sayfa : 200 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 201 Sayfa : 202 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 203 Sayfa : 204 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 205 Sayfa : 206 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 207 Sayfa : 208 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 209 Sayfa : 210 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 211 Sayfa : 212 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 213 Sayfa : 214 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 215 Sayfa : 216 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 217 Sayfa : 218 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 219 Sayfa : 220 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 221 Sayfa : 222 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 223 Sayfa : 224 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 225 Sayfa : 226 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 227 Sayfa : 228 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 229 Sayfa : 230 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 231 Sayfa : 232 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 233 Sayfa : 234 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 235 Sayfa : 236 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 237 Sayfa : 238 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 239 Sayfa : 240 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 241 Sayfa : 242 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 243 Sayfa : 244 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 245 Sayfa : 246 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 247 Sayfa : 248 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 249 Sayfa : 250 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 251 Sayfa : 252 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 253 Sayfa : 254 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 255 Sayfa : 256 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 257 Sayfa : 258 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 259 Sayfa : 260 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 261 Sayfa : 262 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 263 Sayfa : 264 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 265 Sayfa : 266 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 267 Sayfa : 268 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 269 Sayfa : 270 RESMÎ GAZETE 15 Temmuz 2018 – Sayı : 30479 15 Temmuz 2018 – Sayı : 30479 RESMÎ GAZETE Sayfa : 271
+#### Amaç ve kapsam
 
-Recep Tayyip ERDOĞAN
+**MADDE 640 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
 
-### CUMHURBAŞKANI
+#### Tanımlar
+
+**MADDE 641 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Kuruluş
+
+**MADDE 642 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Görev, yetki ve sorumluluklar
+
+**MADDE 643 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Yürütme Kurulu ve Başkanlık
+
+**MADDE 644 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Hizmet birimleri
+
+**MADDE 645 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Kurum gelirleri
+
+**MADDE 646 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Fikri Haklar
+
+**MADDE 647 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Çalışma raporu
+
+**MADDE 648 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Sözleşmeli personel[193]
+
+**MADDE 649 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Uzman ve denetçi istihdamı
+
+**MADDE 649/A –** (Ek:RG-5/2/2019-30677-CK-30/34) (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Kurumda geçici süreli görevlendirme
+
+**MADDE 650 –** (Mülga:RG-28/3/2020-31082-CK-57/1 md.)
+
+#### Mevcut personel
+
+**GEÇİCİ MADDE 1 –** (Mülga:RG-5/2/2019-30677-CK-30/35)
+
+### KIRKYEDİNCİ BÖLÜM
+
+Türkiye Sağlık Enstitüleri Başkanlığı
+
+#### Amaç ve kapsam
+
+**MADDE 663 –** (1) Bu Bölüm; sağlık bilim ve teknolojileri alanında ülkeye ve insanlığa hizmet etmek amacıyla Türkiye’nin rekabet gücünü artırmak ve sürekli kılmak, kalkınma planı hedefleri ile Cumhurbaşkanının belirlediği öncelikleri de dikkate alarak ülkemizin ileri teknoloji ve inovasyon ihtiyacını karşılamak, yeni ürünlerin üretimini ve var olanların geliştirilmesini sağlamak, araştırmacılara bilimsel ortam temin etmek, kamu hukuku ve özel hukuk tüzel kişileri ile işbirliği yaparak bilimsel araştırmalar yapmak, yaptırmak, bu araştırmaları koordine etmek, teşvik etmek, Ar-Ge’lere katkı sağlamak, sağlık bilim ve teknoloji kültürü ile ekosistemlerin geliştirilmesinde öncülük yapmak, sağlık hizmetlerinde akreditasyon faaliyetlerini yürütmek üzere Türkiye Sağlık Enstitüleri Başkanlığının kurulması ile teşkilat ve görevleriyle ilgili usul ve esasları düzenler.
+
+#### Tanımlar
+
+**MADDE 664 –** (1) Bu Bölümün uygulanmasında;
+
+a) Ar-Ge: Sağlık bilimi ve teknolojileri alanındaki araştırma ve geliştirme faaliyetlerini,
+
+b) Bakan: Sağlık Bakanını,
+
+c) Bakanlık: Sağlık Bakanlığını,
+
+ç) Başkan: Türkiye Sağlık Enstitüleri Başkanını,
+
+d) TÜSEB: Türkiye Sağlık Enstitüleri Başkanlığını,
+
+e) Yönetim Kurulu: Türkiye Sağlık Enstitüleri Başkanlığı Yönetim Kurulunu,
+
+ifade eder.
+
+#### TÜSEB’in kuruluşu
+
+**MADDE 665 –** (1) Bu Bölümde verilen görevleri yerine getirmek amacıyla kamu tüzel kişiliğine, bilimsel ve idari özerkliğe sahip, özel bütçeli Türkiye Sağlık Enstitüleri Başkanlığı kurulmuştur. TÜSEB’in merkezi İstanbul’dadır. (Ek cümle:RG-13/9/2019-30887-C.K.-46/4 md.) Başkanlık, görev alanıyla ilgili olarak farklı illerde Yönetim Kurulu kararıyla enstitüler, araştırma merkezleri ve benzeri birimler açabilir; merkezin ve mevcut birimlerin yerini değiştirebilir.
+
+(2) TÜSEB’in ilgili olduğu bakanlık, Sağlık Bakanlığıdır.
+
+(3) TÜSEB, bu Bölümde düzenlenmeyen hususlarda özel hukuk hükümlerine tabidir.
+
+#### TÜSEB’in görevleri
+
+**MADDE 666 –** (1) TÜSEB’in görevleri şunlardır:
+
+a) Cumhurbaşkanının sağlık bilimi ve teknolojileri konusunda aldığı kararları uygulamak veya bu kararların uygulanmasında eşgüdüm sağlamak.
+
+b) Ar-Ge yapmak, Ar-Ge’lere malî ya da bilimsel destek sağlamak, bunları koordine etmek, teşvik etmek, izlemek, bu amaçla program ve projeler geliştirmek.
+
+c) Kamu kurum ve kuruluşları ile gerçek kişiler ve özel hukuk tüzel kişileri tarafından Ar-Ge’lerin yapılmasını veya yaptırılmasını sağlamak, bunları desteklemek, teşvik etmek, işbirliği yaparak ortak projeler yürütmek.
+
+ç) Sağlık bilimi ve teknolojilerindeki gelişme, buluş ve yeniliklerin sağlık hizmetlerinde kullanımına ve yaygınlaştırılmasına, toplum ve bireyin sağlık düzeyinin yükseltilmesine dönük Ar-Ge yapmak ve/veya yaptırmak, bu maksatla Ar-Ge merkezleri ve ihtiyaç duyulan diğer birimleri kurmak veya kurdurmak.
+
+d) Ar-Ge sonucu üretilen veya geliştirilen aşı, ilaç, tıbbi cihaz ve ürün ile teşhis ve tedaviye yönelik teknik ve yöntemlerin üretimini, tanıtımını, kullanılmasını ve bunlardan yararlanılmasını sağlamak, bu maksatla ilgili sektörlerle işbirliği ve ortaklıklar yapmak; elde edilen çıktıların ticari değere dönüştürülmesini ve bu alanlardaki girişimciliği desteklemek; Yönetim Kurulu tarafından belirlenecek usul ve esaslar çerçevesinde hibe niteliğinde ve/veya geri ödemeli destekler vermek ve ön ödemede bulunmak; Bakanın onayı üzerine bu amaçlarla yurt içinde ve/veya yurt dışında şirket kurmak ve/veya kurulmuş şirketlere ortak olmak, kurulmuş şirketlerde imtiyazlı pay sahibi olmak.
+
+e) Görev alanına giren hususlarda Bakanlık ve bağlı kuruluşları tarafından talep edilen işleri Yönetim Kurulu kararı ile yapmak veya yaptırmak.
+
+f) Bakanlık bağlı kuruluşları, yükseköğretim kurumları ve özel kesim ile işbirliği içerisinde sağlık hizmetlerinde kalite ve akreditasyon kurallarının belirlenmesinde Bakanlığa bilimsel katkı sağlamak, sağlık hizmetlerinin akreditasyonu hariç olmak üzere Türk Akreditasyon Kurumuna ilişkin Bölümün hükümleri saklı kalmak kaydıyla ulusal ve uluslararası düzeyde sağlık kuruluşlarını akredite etmek, uluslararası ve bölgesel akreditasyon birlikleri ve örgütleri ile diğer ülkelerin akreditasyon kuruluşlarıyla karşılıklı tanıma anlaşmaları yapmak.
+
+g) Teşhis ve tedavi standartlarının oluşturulmasına ve yeni tedavi yöntemlerinin geliştirilmesine katkıda bulunacak Ar-Ge yapmak veya yaptırmak.
+
+ğ) Sağlık bilimi ve teknolojilerindeki gelişmelerin uygulamaya aktarılması, Ar-Ge’nin özendirilmesi maksadıyla seminer, sempozyum, kurs, konferans ve benzeri etkinlikler ve sertifika ile değerlendirilecek eğitim ve öğretim programlarını düzenlemek ve uygulamak.
+
+h) Görev alanına giren faaliyetlerle ilgili danışmanlık hizmeti vermek ve görüş bildirmek.
+
+ı) Fikri mülkiyet haklarını koruyacak ve geliştirecek şekilde ulusal ve uluslararası literatür ve patentleri takip etmek, yeni patent başvuru alanlarını keşfetmek ve gerçekleştirmek, araştırmacılar adına bu süreçleri gerektiğinde karşılıksız olarak yürütmek, fikri haklar, lisans ve bilgi aktarımı amacıyla girişimlerde bulunmak, satın almak, satmak ve ortaklık yapmak.
+
+i) Uluslararası kurum ve kuruluşların sağlık bilim ve teknolojisi alanındaki gelişmelerle ilgili yayınlarını takip etmek, gerekli görülenleri tercüme ettirerek yayımlamak, görev ve faaliyet alanı ile ilgili yayınlar yapmak.
+
+j) Bilim insanlarının ve araştırmacıların yetiştirilmeleri ve geliştirilmeleri için imkânlar sağlamak; bu amaçla ödüller ve burslar vermek, öğrenim sırasında ve sonrasında üstün başarısıyla kendini gösteren gençleri izleyerek onların yetişme ve gelişmelerine yardım etmek.[197]
+
+k) Bu Bölüm ve ilgili diğer mevzuatla verilen görevleri yerine getirmek amacıyla teknopark, kuluçka merkezi, teknoloji merkezi, teknoloji transfer ofisleri, proje geliştirme ve bilgi aktarım merkezleri, bilim merkezi, bilim parkı ve benzerlerini kurmak ve bu amaçla faaliyet gösteren üniversiteleri desteklemek, destek programları oluşturmak, işbirliği ağları ve kümelenme faaliyetlerini desteklemek, proje pazarı, bilim fuarı, yarışma ve benzeri etkinlikleri düzenlemek ve desteklemek, ödül ve teşvik ikramiyesi vermek, Yönetim Kurulu tarafından belirlenecek usul ve esaslar çerçevesinde teminatlı veya teminat alınmaksızın hibe ve/veya kredi olarak sermaye desteği vermek ve ön ödemede bulunmak.
+
+(2) TÜSEB, görevleri kapsamında yurt içinde veya yurt dışında, kamu hukuku ve özel hukuk tüzel kişilerine ait sağlık kurumları, enstitüler, Ar-Ge merkezleri ve laboratuvarları, insan kaynağı, fiziki mekân ve altyapı, donanım, finansman dâhil her türlü kaynağı işbirliği ve/veya birlikte kullanım protokolü çerçevesinde kullanabilir veya kendisine ait kaynakları kullandırabilir.
+
+(3) Bakanlık ve bağlı kuruluşlarınca talep edilecek saha araştırmaları, Ar-Ge, yayın ve danışmanlık hizmetleri TÜSEB tarafından yerine getirilebilir.
+
+(4) TÜSEB’in enstitüleri, kamu kaynağı kullanılan projeler ile kamu kurum ve kuruluşlarının finanse ettiği projelere de başvurabilir.
+
+#### Organlar
+
+**MADDE 667 –** (1) TÜSEB’in organları şunlardır:
+
+a) Yönetim Kurulu.
+
+b) Başkanlık.
+
+#### Yönetim Kurulu
+
+**MADDE 668 –** (1) Yönetim Kurulu, Bakanın başkanlığında; Bakan Yardımcısı, Başkan, Bakan tarafından seçilecek iki üye, Yükseköğretim Kurulundan iki üye ile Başkanın seçeceği iki enstitü başkanı olmak üzere toplam dokuz üyeden oluşur. Seçilen üyelerin görev süresi iki yıldır. (Mülga cümle:RG-13/9/2019-30887-C.K.-46/6 md.) (…)[198]
+
+(2) Yönetim Kurulunun görev ve yetkileri şunlardır:
+
+a) Cumhurbaşkanı kararlarını dikkate alarak TÜSEB’in eylem planını belirlemek, faaliyet sonuçlarını izlemek, değerlendirmek ve beklenen performansın sağlanamadığı alanlar için gerekli önlemleri almak.
+
+b) TÜSEB’in yıllık faaliyet programı ile bütçe teklifini ve personel kadro normlarını karara bağlamak.
+
+c) Başkanın teklifi üzerine enstitülerin kurulmasına ilişkin karar almak.
+
+ç) Başkanlık projeleri dâhil, kamu kaynağı kullanılacak ve tutarı bir milyon Türk lirasının üzerindeki TÜSEB’in faaliyet alanı kapsamındaki Ar-Ge projelerine, bilim kurullarının görüşlerini de alarak izin vermek.
+
+d) Başkanlık tarafından yurt içinde ve/veya yurt dışında şirket kurulmasına ve kurulmuş şirketlere ortak olunmasına ilişkin yapılan teklifleri karara bağlamak.
+
+e) Bu Bölüm ve ilgili diğer mevzuat hükümleriyle Yönetim Kuruluna verilen diğer görevleri yürütmek.
+
+(3) İkinci fıkranın (ç) bendinde belirtilen tutar, Cumhurbaşkanınca beş katına kadar artırılabilir. Bu tutar, her takvim yılı başından geçerli olmak üzere o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılarak uygulanır.
+
+(4) Yönetim Kurulu, ayda bir defadan az olmamak üzere, en az yedi üye ile toplanır ve en az beş üyenin aynı yöndeki oyu ile karar alır.
+
+#### Başkanlık teşkilatı
+
+**MADDE 669 –** (1) Başkanlık; Başkan, Genel Sekreterlik ve Başkana bağlı olarak faaliyet gösteren enstitülerden oluşur.
+
+#### Başkanın görevleri
+
+**MADDE 670 –** (1) Başkanın görevleri şunlardır:
+
+a) Yönetim Kurulu kararlarını uygulamak.
+
+b) Başkanlığı yönetmek ve temsil etmek.
+
+c) Başkanlık personelini atamak.
+
+ç) Enstitü başkanlarının, enstitü bilim kurulunca kabul edilmiş bir milyon Türk lirasının altındaki Ar-Ge proje teklifleri hakkında karar vermek.
+
+d) TÜSEB’in yıllık faaliyet programını, bütçe teklifini, istihdam edilecek personelin kadro normlarını hazırlayarak Yönetim Kurulunun onayına sunmak, bunların uygulanmasını sağlamak, yıl sonu faaliyet raporunu hazırlamak.
+
+e) TÜSEB’in faaliyet alanıyla ilgili taşınmazların satın alınması, kiralanması, satılması, diğer ayni ve şahsi hakların tesis edilmesi ve bağış alınmasına karar vermek.
+
+f) TÜSEB bünyesinde elde edilen tüm fikrî ve sınai hakların bedelli veya bedelsiz olarak devredilmesini, lisans izninin verilmesini veya bu hakların konusu ürünlerin üretim ve satışının yapılmasını ve bu amaçla şirket kurulmasını Yönetim Kuruluna teklif etmek.
+
+g) Başkanlıkça verilen hizmetler karşılığında alınacak ücretlere ilişkin fiyat tarifelerinin enstitü başkanlarının önerisi üzerine belirlenmesini; telif, işlenme ücreti ve benzeri ödemelerin tutar veya üst limitlerinin tespit edilmesini Yönetim Kuruluna teklif etmek.
+
+ğ) TÜSEB’in görev alanı ile ilgili uluslararası veya bölgesel kuruluşlara üye olmasına ve TÜSEB’in bu kuruluşlar nezdinde temsil edilmesine karar vermek.
+
+h) Bu Bölüm ve ilgili diğer mevzuat hükümleriyle Başkana verilen diğer görevleri yürütmek.
+
+(2) Başkan yardımcıları, Başkanlığa verilen görevlerin yerine getirilmesinde Başkana yardımcı olur ve Başkan tarafından verilen görevleri yaparlar.
+
+#### Genel Sekreterlik
+
+**MADDE 671 –** (1) Genel Sekreterlik; TÜSEB’in idari, mali, bilgi sistemleri, hukuk ve diğer destek hizmetlerini yürütmek üzere kurulacak birimlerden oluşur. Bu birimler ilgili kurumların görüşü üzerine, Yönetim Kurulunun onayı ile Başkanlıkça çıkarılan yönetmelikle belirlenir.
+
+(2) Genel Sekreter, verilen görevlerin yerine getirilmesinden Başkana karşı sorumludur.
+
+#### Enstitüler
+
+**MADDE 672 –** (1) TÜSEB bünyesinde aşağıdaki enstitüler kurulmuştur:
+
+a) Türkiye Kanser Enstitüsü.
+
+b) Türkiye Biyoteknoloji Enstitüsü.
+
+c) Türkiye Anne, Çocuk ve Ergen Sağlığı Enstitüsü.
+
+ç) Türkiye Halk Sağlığı ve Kronik Hastalıklar Enstitüsü.
+
+d) Türkiye Geleneksel ve Tamamlayıcı Tıp Enstitüsü.
+
+e) Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsü.
+
+(2) Enstitüler bünyesinde, ihtiyaca göre bilim kurulları kurulur. Enstitüler ile bilim kurulu üyelerinin nitelikleri, sayıları, bunlara yapılacak ödemeler ile diğer hususlar, ilgili kurumların görüşü alınarak Yönetim Kurulunun onayı üzerine Başkanlıkça çıkarılan yönetmelikle düzenlenir.
+
+#### Türkiye Sağlık Vadisi
+
+**MADDE 672/A –** (Ek:RG-25/5/2024-32556-C.K.-160/1 md.)
+
+(1) Sağlık alanındaki eğitim, araştırma, geliştirme, biyoteknoloji ve bilişim kapasitesinin artırılması kapsamında; ilaç ve tıbbi teknolojiler alanında Ar-Ge, klinik araştırmalar ve üretim hazırlık aşamalarını içeren entegre bir sağlık sisteminin oluşturulması için gerekli faaliyetleri yürütmek, bünyesindeki prototip üretim alanları, büyük veri araştırmaları merkezi ile mükemmeliyet merkezlerinde girişimciler, araştırmacılar, akademisyenler başta olmak üzere sektör temsilcilerine hizmet sunmak ve bu amaçla Türkiye Sağlık Vadisi adıyla belirlenen alanı işletmek ve yönetmek üzere TÜSEB tarafından bir şirket kurulur.
+
+#### Personel
+
+**MADDE 673 –** (1) Başkanlık personeli, 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 28 inci maddesine göre çalıştırılır. Başkanlık personelinin birimlere dağılımını yapmaya Başkan yetkilidir.
+
+(2) (Ek:RG-13/9/2019-30887-C.K.-46/7 md.) TÜSEB'de, 375 sayılı Kanun Hükmünde Kararnamenin ek 26 ncı maddesine göre sözleşme ile yerli veya yabancı uzman istihdam edilebilir.
+
+#### Kurumlar arası görevlendirme
+
+**MADDE 674 –** (1) Kamu kurum ve kuruluşlarında, ilgili personel kanunlarına göre kadrolu olarak çalışanlar, 375 sayılı Kanun Hükmünde Kararnamenin ek 25 inci maddesine göre geçici olarak TÜSEB’de görevlendirilebilirler.
+
+(2) Bu madde kapsamında görevlendirileceklerin sayısı toplam kadro sayısının yarısını geçemez.
+
+#### Personel değerlendirmesi
+
+**MADDE 675 –** (1) Başkanlık kadrolarında çalıştırılanlar ve görevlendirilenler Ar-Ge, bilimsel faaliyetler ve uygulama gibi görev alanlarıyla ilgili yıllık periyotlarda performans değerlendirmesine tabi tutulur. (İptal cümle: Anayasa Mahkemesi’nin 9/11/2022 tarihli ve E: 2018/123, K: 2022/138 sayılı Kararı ile.) (…)
+
+#### Proje yönetimi
+
+**MADDE 676 –** (1) TÜSEB tarafından desteklenen araştırma ve geliştirme projeleri ile diğer projeler için tahsis edilen kaynaklardan Yönetim Kurulunun veya Başkanın uygun göreceği projelere ilişkin tutarlar, TÜSEB bütçesine gider kaydedilmek suretiyle enstitüler dâhil olmak üzere proje yürütücüsü olan kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerin hesaplarına aktarılır. Bu şekilde kaynak aktarılan proje yürütücüsünün merkezi yönetim ve sosyal güvenlik kurumları kapsamında yer alan kamu idareleri ve bu idarelerde görevli kişilerden olması hâlinde aktarılan tutarlar ilgili idarelerin bütçelerine gelir kaydedilmeksizin açılacak özel hesaplarda izlenir. Özel hesaplardan yapılacak harcamalar, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa göre denetlenir.
+
+(2) TÜSEB tarafından yürütülen dış destekli projelere ilişkin olarak tahsil edilen tutarlar, TÜSEB bütçesine gelir ve ödenek kaydedilir.
+
+(3) TÜSEB tarafından desteklenen projeler ile TÜSEB tarafından yürütülen dış destekli projeler için ön ödeme yapılabilir veya alınabilir.
+
+(4) TÜSEB’in görevlerini yerine getirebilmesi amacıyla desteklenen proje ve faaliyetler için öngörülen, yılları bütçe ödeneklerinin ilgili tertiplerinde yer alan ödenekten harcanmayan kısımlar ertesi yıl bütçesinin ilgili tertiplerine devren ödenek kaydedilir.
+
+(5) Bu maddenin birinci fıkrasına göre aktarılacak tutarların harcanması, muhasebeleştirilmesi ve bu madde kapsamında yapılacak ön ödemelere ilişkin usul ve esaslar, Hazine ve Maliye Bakanlığının görüşü doğrultusunda Başkanlık tarafından belirlenir.
+
+#### Gelirler
+
+**MADDE 677 –** (1) TÜSEB’in gelirleri şunlardır:
+
+a) Genel bütçeden yapılacak yardımlar.
+
+b) Faaliyet gelirleri.
+
+c) Taşınır ve taşınmazlardan elde edilecek gelirler.
+
+ç) Şirketlerin ve teknoparkların kârlarından elde edilen gelirler.
+
+d) Ulusal ve uluslararası Ar-Ge fonları ve işbirliklerinden elde edilen gelirler.
+
+e) Fikri haklardan elde edilen gelirler.
+
+f) Bağış ve vasiyetler.
+
+g) Müşavirlik hizmetlerinden elde edilecek gelirler.
+
+ğ) Gelirlerin nemaları ve diğer gelirler.
+
+(2) TÜSEB’in genel bütçeden elde ettiği gelirlerin en fazla yüzde yirmi beşi personel harcamalarına ayrılır.
+
+#### Bilgi isteme ve gizliliğe uyma
+
+**MADDE 678 –** (1) (İptal fıkra: Anayasa Mahkemesinin 9/11/2022 Tarihli ve E: 2018/123, K: 2022/138 Sayılı Kararı.)

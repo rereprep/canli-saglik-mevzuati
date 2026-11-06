@@ -161,7 +161,6 @@ Zararlı madde ve ürünleri ticari muhataplarına teslim edecek ara işletmecil
 
 Bu madde ve ürünlerin üretimi sırasında ortaya çıkabilecek tehlikeler konusunda önlemler almakla, idarenin zararlı madde ve ürünler için istediği bilgileri gerçeğe uygun olarak hazırlamak ve saklamakla, bu Yönetmeliğe bağlı olarak çıkarılacak tebliğleri izlemek ve uygulanmasını sağlamakla yükümlüdür.
 
-Yürütme ve İdare Bölümü Sayfa : 6
 
 ### DÖRDÜNCÜ BÖLÜM
 
@@ -197,7 +196,6 @@ Uyulması Gerekli Hususlar
 
 **Madde 18 –** 4.9.1988 tarih ve 19919 sayılı Resmi gazetede yayımlanan Su Kirliliği Kontrolü Yönetmeliği'ne göre kanalizasyona veya sulara atılması yasak olan maddelerin etiketlerinde bu durum açık olarak belirtilir.
 
-Yürütme ve İdare Bölümü Sayfa : 7
 
 Etiketlerde, ve kullanma talimatında, "zehirsizdir", "sağlığa zararsızdır", "talimata uygun kullanılırsa zararsızdır" gibi tehlikeye karşı kayıtsızlaştırıcı ifadeler kullanılamaz.
 
@@ -221,7 +219,6 @@ Etiketleme Şartları
 
 **Madde 20 –** Zararlı madde veya ürünlerinin etiketlerinin boyutları, ambalaj kaplarının hacimlerine göre, aşağıda verilmiştir.
 
-Yürütme ve İdare Bölümü Sayfa : 8
 
 a) 0,25 litreye kadar uygun görülecek büyüklükte.
 
@@ -245,7 +242,6 @@ Kullanma Talimatı
 
 **Madde 21 –** Kullanma talimatında zararlı madde veya ürünleriyle ilgili ola-
 
-Yürütme ve İdare Bölümü Sayfa : 9
 
 a) Dozaj kuralları ve dozajda, istenilen ve yeterli etki için gerekli miktarların gösterilmesi, özel durumlardaki kullanımda ve özel şartlar altında dozaj gerektiğinde, izin verilen miktarların belirtilmesi,
 
@@ -303,7 +299,6 @@ b) Ambalaj kabı, içine konulan maddeden etkilenmemeli, onun özelliklerini de�
 
 c) Sıvı halinde madde ve ürünlerin ambalajlanmasında, ısıl genleşmeler sonucu, patlama, yırtılma gibi istenmeyen durumların önüne geçilebilmesi için, kaplarda boş hacım bırakılmalıdır.
 
-Yürütme ve İdare Bölümü Sayfa : 11
 
 d) Hava yolu ile taşınacak her türlü ambalaj kabının hava basıncı değişimlerinin etkisiyle karşılaştığında dayanıklı olacak şekilde tasarlanması gerekir.
 
@@ -327,7 +322,6 @@ j) Üretici ithal ettiği veya ürettiği madde ve ürünün taşınmasından ka
 
 **Madde 29 –** Zararlı madde ve ürünleri; özellikleri, depolamaları ve diğer şekillerdeki iştigalleri sırasında arzedebilecekleri tehlikenin cinsine göre Ek-VIII'de
 
-Yürütme ve İdare Bölümü Sayfa : 12
 
 verilen sınıflara ayrılmıştır. Zararlı kimyasal madde ve ürünlerini üretenler, çevre ve insan sağlığına zarar vermeyecek şekilde depolama yapmakla yükümlüdür. Bu maddelerin kötü amaçlı veya sorumsuz kişilerin eline geçmemesi ve amaç dışında kullanılmaması için gerekli önlemler, işletme müdürü, serbest bölgelerde serbest bölge müdürleri tarafından alınır.
 
@@ -343,7 +337,6 @@ Ek-IV de verilen işaretlerden çok zehirli özelliği ile etiketlenmiş olan ma
 
 Akaryakıt istasyonlarında satılan madde ve ürünler için kilitli mekanlarda depolama şartı aranmaz.
 
-Yürütme ve İdare Bölümü Sayfa : 13
 
 ### ALTINCI BÖLÜM
 
@@ -371,7 +364,6 @@ Denetimler sırasında kurum, kuruluş ve işletmelerden elde edilen bilgi ve be
 
 **Madde 34 –** Piyasanın denetlenmesinde zararlı madde ve ürünlerin bileşimi, etiketi, kullanma talimatı ve bilgi formunda bu Yönetmelik ve eklerinde verilen kurallara uyulup uyulmadığı göz önünde bulundurulur.
 
-Yürütme ve İdare Bölümü Sayfa : 14
 
 Denetimi yapan, üreticiyi, ithalatçıyı veya piyasayı denetlemek amacı ile örnek alırken, örnek alma teknikleriyle ilgili Türk Standartları Enstitüsü tarafından belirlenen yöntemlere uyar.
 
@@ -401,7 +393,6 @@ Denetlemelerde yapılan araştırma ve test harcamalarını da zararlı kimyasal
 - Fışkırtılarak veya püstürtülerek kullanılan madde ve ürünler
 - Sıvı filtreler.
 
-Yürütme ve İdare Bölümü Sayfa : 15
 
 ### Asbest Kullanımı İle İlgili Kısıtlamalar
 
@@ -514,13 +505,9 @@ Komisyonun gerek görmesi halinde, çalışılan konu ile ilgili kurum ve kurulu
 
 **Madde 47 –** Bu Yönetmelik hükümlerine aykırı hareket edenler hakkında 2872 sayılı Çevre Kanununun 15 inci ve 16 ncı maddelerinde belirtilen makamlar ve 443 sayılı Çevre Bakanlığı'nın Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnameye göre Çevre Bakanlığı tarafından gerekli işlemler yapılır. Kanunun 20., 21., 22. ve 23 üncü maddelerinde belirtilen idari nitelikteki cezalar ise yine Kanunun 24 üncü maddesinde belirtilen yetkili makamlar tarafından verilir.
 
-Yürütme ve İdare Bölümü Sayfa : 16
 
-Yürütme ve İdare Bölümü Sayfa : 17
 
-Yürütme ve İdare Bölümü Sayfa : 18
 
-Yürütme ve İdare Bölümü Sayfa : 19
 
 ### Geçici Hükümler
 
@@ -558,4 +545,3 @@ Yürütme ve İdare Bölümü Sayfa : 19
 
 **EK - IX :** Ürünü Atıktan Ayıran Kriterler
 
-Yürütme ve İdare Bölümü Sayfa : 21
