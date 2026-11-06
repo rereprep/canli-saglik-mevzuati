@@ -1,7 +1,11 @@
 ---
 id: "hsgm-7-eleman-temininde-gucluk-cekilen-yerlerde-sozlesmeli-saglik-personeli-c"
 baslik: "Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması İle Bazı Kanun Ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun (4924)"
-tur: "khk"
+tur: "kanun"
+tarih: "2003-07-10"
+sayi: "4924"
+rg_tarih: "2003-07-24"
+rg_sayi: "25178"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Kanunlar/Eleman_Temininde_Gucluk_Cekilen_Yerlerde_Soz_SP_Calistirilmasi_Ile_Bazi_Kanun_Ve_HK_Degisiklik_Yapilmasi_Hk_Kanun_4924.pdf"

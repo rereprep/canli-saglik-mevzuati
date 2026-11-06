@@ -21,7 +21,7 @@ TUR = {"Genel Nitelikli Yazı ve Görüşler": "yazi", "Genelgeler": "genelge", 
 
 def tur_bul(x):
     t, b = TUR[x["category"]], x["title"]
-    if "Kanun Hükmünde Kararname" in b: return "khk"
+    if "Kanun Hükmünde Kararname" in b and not re.search(r"Hakkında Kanun\b", b): return "khk"
     if t == "tuzuk" and "Yönetmelik" in b: return "yonetmelik"
     if "İzlem Formu" in b: return "yazi"
     return t
