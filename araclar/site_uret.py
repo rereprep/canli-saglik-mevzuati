@@ -17,6 +17,7 @@ TUR_ADLARI = {
     "kanun": "Kanunlar",
     "cbk": "Cumhurbaşkanlığı Kararnameleri",
     "khk": "Kanun Hükmünde Kararnameler",
+    "bkk": "Bakanlar Kurulu Kararları",
     "tuzuk": "Tüzükler",
     "yonetmelik": "Yönetmelikler",
     "yonerge": "Yönergeler",
@@ -26,7 +27,7 @@ TUR_ADLARI = {
     "yazi": "Resmî Yazılar ve Talimatlar",
 }
 TUR_TEKIL = {
-    "kanun": "Kanun", "cbk": "Cumhurbaşkanlığı Kararnamesi", "khk": "Kanun Hükmünde Kararname",
+    "kanun": "Kanun", "cbk": "Cumhurbaşkanlığı Kararnamesi", "khk": "Kanun Hükmünde Kararname", "bkk": "Bakanlar Kurulu Kararı",
     "tuzuk": "Tüzük", "yonetmelik": "Yönetmelik", "yonerge": "Yönerge", "genelge": "Genelge",
     "teblig": "Tebliğ", "protokol": "Protokol", "yazi": "Resmî Yazı",
 }
