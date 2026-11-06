@@ -8,7 +8,7 @@ etiketler: ["hukuk", "sağlık yönetimi"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 909-916"
 durum: "yürürlükte"
 ocr: true
-tarih: "2024-07-17"
+tarih: "2024-07-16"
 sayi: "248902606"
 duzeltildi: true
 kontrol_edildi: true
