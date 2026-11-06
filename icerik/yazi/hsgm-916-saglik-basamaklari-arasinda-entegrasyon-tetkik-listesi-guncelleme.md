@@ -8,18 +8,12 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Saglik_Basamaklari_Arasinda_Entegrasyon_Tetkik_Listesi_Guncelleme.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
 
 HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
 
 BAŞKANLIĞI
-
-9.07.2025 17:33:41 E-99858683-045.01-281583757
-
-T.C.
 
 SAĞLIK BAKANLIĞI 281583757
 
@@ -54,13 +48,3 @@ Bakan a.
 Halk Sağlığı Genel Müdürü
 
 Ek: Tetkik Listesi ve SUT Kodları
-
-Dağıtım:
-
-Gereği: Bilgi:
-
-81 İl Valiliğine (İl Sağlık Müdürlüğü) A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Dr. Aslıhan KAHRAMAN KOÇAN
-
-Çankaya/Ankara 06800

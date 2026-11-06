@@ -8,24 +8,14 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/DHY_Atamasi_Ile_Aile_Hekimligi_Uzmanlarinin_Munhal_Aile_Hekimligi_Birimlerine_Yerlesmesi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
 
 BAŞKANLIĞI
 
-T.C.
+Sayı: E-99858683-045.03-268764539 19.02.2025
 
-SAĞLIK BAKANLIĞI 268764539
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı : E-99858683-045.03-268764539 19.02.2025
-
-Konu : DHY Ataması İle Aile Hekimliği
+Konu: DHY Ataması İle Aile Hekimliği
 
 Uzmanlarının Münhal Aile Hekimliği
 
@@ -49,12 +39,6 @@ DHY kurası ile yerleşen aile hekimliği uzmanının 2025/1 sayılı ve “Aile
 
 İşlemleri” konulu Genelge hükümleri kapsamında il içi aile hekimi yerleştirme işlemlerine başvurabileceği,
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Suzan GÜVENÇ
-
-Çankaya/Ankara 06800
-
-1/2
-
 DHY ataması sonrasında sözleşme imzalanmamış olan aile hekimliği biriminin il içi ve il dışı yerleştirme işlemlerinde ilan edilmeye devam edilmesi, bu aile hekimliği birimine daha önce atama yapılmış olan aile hekimliği uzmanının başka bir aile hekimliği birimine yerleşmesi, DHY süresini tamamlaması veya müstafi sayılması / memurluktan istifa etmesi durumunda tekrar DHY atamasına açılabileceği, hususunda;
 
 Bilgilerini ve gereğini arz / rica ederim.
@@ -70,9 +54,3 @@ Dağıtım:
 Gereği: Bilgi:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Yönetim Hizmetleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Suzan GÜVENÇ
-
-Çankaya/Ankara 06800
-
-2/2

@@ -6,7 +6,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Yonergeler/Saglik_Bakanliginca_Sunulan_Evde_Saglik_Hizmetlerinin_Uygulama_Usul_ve_Esaslari_Hakkinda_Yonerge.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 Sağlık Bakanlığınca Sunulan Evde Sağlık
@@ -372,8 +372,6 @@ EVDE SAĞLIK HİZMETİ BAŞVURU FORMU
 KİMLİK BİLGİLERİ İLETİŞİM
 
 BİLGİLERİ Adı :………………………………… Ev
-
-Tel:……….....Gsm:………….
 
 Soyadı :…………………………………. E-
 

@@ -8,9 +8,8 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/ASM_Icerisinde_Yer_Alan_EAHBlerin_Ortak_Gider_Odemeleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -19,9 +18,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-19831278-431.02.05.99-278897149 17.06.2025
 
-Konu : ASM İçerisinde Yer Alan EAHB'lerin
-
-Ortak Gider Ödemeleri
+Konu : ASM İçerisinde Yer Alan EAHB'lerin Ortak Gider Ödemeleri
 
 DAĞITIM YERLERİNE
 
@@ -54,15 +51,3 @@ Gereği: Bilgi:
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne
 
 Strateji Geliştirme Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Mürsel BATGA
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-1/2
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Mürsel BATGA
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-2/2

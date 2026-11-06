@@ -8,30 +8,20 @@ birim: "Birinci Basamak Sağlık Kuruluşları Planlama ve Organizasyon Dairesi 
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Kurumsal_Kimlik_Kilavuzuna_Gore_Yapilacak_Aile_Sagligi_Merkezleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM BİRİNCİ BASAMAK SAĞLIK KURULUŞLARI PLANLAMA VE
 
 ORGANİZASYON DAİRE BAŞKANLIĞI
 
-T.C.
+Sayı: E-58271140-602.99-286062481 23.08.2025
 
-SAĞLIK BAKANLIĞI 286062481
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı : E-58271140-602.99-286062481 23.08.2025
-
-Konu : Kurumsal Kimlik Kılavuzuna Göre
+Konu: Kurumsal Kimlik Kılavuzuna Göre
 
 Yapılacak Aile Sağlığı Merkezleri
 
 DAĞITIM YERLERİNE
 
-İlgi : 30.06.2025 tarihli ve E-58271140-431.99-280529365 sayılı yazımız.
+İlgi: 30.06.2025 tarihli ve E-58271140-431.99-280529365 sayılı yazımız.
 
 Bakanlığımız aile sağlığı merkezlerinin (ASM) asgari fiziki şartları ve teknik donanımına ilişkin usul ve esaslar “Aile Hekimliği Uygulama Yönetmeliği” ile belirlenmiştir.
 
@@ -55,12 +45,6 @@ ASM binalarına kurumsal kimlik uygulanmayacaktır. Ancak, deprem performans ana
 
 6) Yeni açılan tüm aile sağlığı merkezlerinde kurumsal kimlik uygulanacaktır.
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Sedat MOCAN
-
-Çankaya/Ankara 06430 Sağlık Memuru
-
-1/2
-
 7) Kurumsal kimliğe uygun hale getirilen aile sağlığı merkezleri listesi ve kurumsal kimliği en güzel şekilde yansıtacak şekilde içten ve dıştan çekilmiş en az ikişer adet fotoğraf (kurumsal kimlik öncesi ve sonrası)
 
 ile birlikte bir sonraki ayın beşine (5) kadar ekteki tabloya (excell formatında) uygun olarak hsgm.yatirim@saglik.gov.tr elektronik posta adresine ve resmi yazı ile Bakanlığımıza bildirilecektir.
@@ -80,9 +64,3 @@ Ek: Kurumsal Kimliğe Uygun Hale Getirilen ASM Tablosu
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Sedat MOCAN
-
-Çankaya/Ankara 06430 Sağlık Memuru
-
-2/2

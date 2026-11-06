@@ -8,7 +8,7 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Ust_Yazi_Antibiyotik_Kullanim_Surveyansi_2025_Yili_Ocak__Haziran_Donemi_Ulusal_Raporu.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 HSGM GENEL MÜDÜR YARDIMCILIĞI 3
@@ -69,13 +69,9 @@ Halk Sağlığı Genel Müdürlüğü
 
 Ürünler Daire Başkanlığına)
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Esen BATIR
-
 Çankaya/Ankara 06800 Hemşire
 
 1/2
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Esen BATIR
 
 Çankaya/Ankara 06800 Hemşire
 

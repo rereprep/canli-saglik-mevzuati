@@ -8,7 +8,7 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/SAHUdan_Mezun_Olacak_Hekimlerin_DHY_Durumlari.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,9 +19,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-19831278-422.99-273945737 24.04.2025
 
-Konu : SAHU'dan Mezun Olacak Hekimlerin
-
-DHY Durumları
+Konu : SAHU'dan Mezun Olacak Hekimlerin DHY Durumları
 
 DAĞITIM YERLERİNE
 
@@ -45,22 +43,8 @@ Bakan a.
 
 Halk Sağlığı Genel Müdürü
 
-Ek: SAHU Genel Yazı
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Mürsel BATGA
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-1/2
-
-Dağıtım:
+Ek: SAHU Genel Yazı Dağıtım:
 
 Gereği: Bilgi:
 
 81 İl Valiliğine (il Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğüne (Tescil Ve Denklik İşlemleri Dairesi Başkanlığı)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Mürsel BATGA
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-2/2

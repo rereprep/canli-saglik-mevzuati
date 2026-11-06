@@ -8,7 +8,7 @@ birim: "Göç Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Yabanci_Uyruklular_Poliklinigi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -37,17 +37,11 @@ Muayene Bilgi Yönetim Sistemi (MBYS) kullanıcı tanımları yapılacaktır.
 
 4) YUP’larda sağlık hizmeti, en az bir hekim ve hizmetin özelliğine uygun nitelikte sağlık personeli tarafından sunulacak, mümkün olduğunca sağlık personeli tercüme hizmeti ile desteklenecek ve bu birimlerde görev yapan personele Genel Müdürlüğümüz koordinasyonunda ihtiyaç duyulan eğitimler verilecektir.
 
-5) YUP’larda, çeşitli statülerde bulunan yabancılara birinci basamak koruyucu sağlık hizmetleri, ilk kademedeki teşhis, tedavi ve rehabilitasyon hizmetleri ile sağlığın geliştirilmesi ve teşvikine yönelik hizmetler
+5) YUP’larda, çeşitli statülerde bulunan yabancılara birinci basamak koruyucu sağlık hizmetleri, ilk kademedeki teşhis, tedavi ve rehabilitasyon hizmetleri ile sağlığın geliştirilmesi ve teşvikine yönelik hizmetler MBYS üzerinden sunulacaktır.
 
-MBYS üzerinden sunulacaktır.
+6) Hizmete ilişkin veriler (elektronik, poliklinik defter kayıtları dahil) Hızlı Takip Sistemi (HTS) üzerinden aylık periyodlarda Bakanlığımıza raporlanacaktır.
 
-6) Hizmete ilişkin veriler (elektronik, poliklinik defter kayıtları dahil) Hızlı Takip Sistemi (HTS)
-
-üzerinden aylık periyodlarda Bakanlığımıza raporlanacaktır.
-
-7) YUP'ların fiziki standartları 10/2/2005 tarihli ve 25723 sayılı Resmi Gazete’de yayımlanan “Kurum
-
-Tabipliklerinin Standardına Dair Tebliğ”e uygun olacak, imkanlar dahilinde basit görüntüleme ve laboratuvar hizmetleri verilecektir. Bu hizmetlerin verilemediği veya ileri tetkik ve tedavi gerektiren durumlarda yabancılar diğer sağlık kuruluşlarına yönlendirilecektir.
+7) YUP'ların fiziki standartları 10/2/2005 tarihli ve 25723 sayılı Resmi Gazete’de yayımlanan “Kurum Tabipliklerinin Standardına Dair Tebliğ”e uygun olacak, imkanlar dahilinde basit görüntüleme ve laboratuvar hizmetleri verilecektir. Bu hizmetlerin verilemediği veya ileri tetkik ve tedavi gerektiren durumlarda yabancılar diğer sağlık kuruluşlarına yönlendirilecektir.
 
 8) YUP’larda durum bildirir tek hekim ve evlilik öncesi sağlık raporları düzenlenecektir.
 
@@ -63,12 +57,6 @@ Bakan a.
 
 Halk Sağlığı Genel Müdürü
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Kattal Fatih AYDINER
-
-Çankaya/Ankara 06800 Doktor
-
-1/2
-
 Dağıtım:
 
 Gereği: Bilgi:
@@ -77,8 +65,4 @@ Gereği: Bilgi:
 
 Başkanlıkları)
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Kattal Fatih AYDINER
 
-Çankaya/Ankara 06800 Doktor
-
-2/2

@@ -8,9 +8,8 @@ birim: "Çocuk ve Ergen Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Hemoglobinopati_Tarama_Programi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -35,9 +34,7 @@ Genel Müdürlüğümüzce yapılan çalışmalar ve illerden alınan geri bildi
 
 • Erkek eş adayı için istem yapılırken kadın eş adayının T.C. kimlik numarası ve iletişim bilgilerini de kaydetmesi,
 
-• Tarama testine ait tüm sonuçları Aile Hekimliği Bilgi Sistemine (AHBS) girerek e-Nabız’a göndermesi gerekmektedir
-
-Tarama programının "Evlilik Öncesi Hemoglobinopati Tarama Programı Saha Rehberi" ve ilgili talimatlar doğrultusunda yürütülmesinin sağlanması hususunda;
+• Tarama testine ait tüm sonuçları Aile Hekimliği Bilgi Sistemine (AHBS) girerek e-Nabız’a göndermesi gerekmektedir Tarama programının "Evlilik Öncesi Hemoglobinopati Tarama Programı Saha Rehberi" ve ilgili talimatlar doğrultusunda yürütülmesinin sağlanması hususunda;
 
 Bilgilerinizi ve gereğini rica ederim.
 
@@ -49,16 +46,12 @@ Halk Sağlığı Genel Müdürü
 
 Ek:
 
-1 - EÖ-Hemoglobinopati Tarama Programı 2022 Yılı Yazısı
+1 -EÖ-Hemoglobinopati Tarama Programı 2022 Yılı Yazısı
 
-2 - EÖ-Hemoglobinopati Tarama Programı 2022 Yılı Yazısı Eki
+2 -EÖ-Hemoglobinopati Tarama Programı 2022 Yılı Yazısı Eki
 
-3 - EÖ-Hemoglobinopati Tarama Programı 2023 Yılı Yazısı
+3 -EÖ-Hemoglobinopati Tarama Programı 2023 Yılı Yazısı
 
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Didar Nazan TEZGÜL
-
-Çankaya/Ankara 06800 Tabip

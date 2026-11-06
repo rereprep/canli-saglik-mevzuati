@@ -8,7 +8,7 @@ birim: "Kronik Hastalıklar ve Yaşlı Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Turkiye_Kronik_Hava_Yolu_Hastaliklari_Onleme_ve_Kontrol_Programi_2025-2030.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -44,5 +44,3 @@ Dağıtım:
 81 İl Valiliğine
 
 (İl Sağlık Müdürlüğü)
-
-Sağlık Mahallesi A. Adnan Saygun Cad. N Blok 15 nolu Oda No55 Sihhiye 06800 Bilgi için: Güler GÜL YILDIZ

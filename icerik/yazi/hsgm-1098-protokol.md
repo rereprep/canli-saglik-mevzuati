@@ -8,9 +8,8 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Protokol.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -46,7 +45,3 @@ Dağıtım:
 81 İl Valiliğine
 
 (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Bilgi için: Ahmet CERAN
-
-/1Çankaya 06430 Araştırmacı

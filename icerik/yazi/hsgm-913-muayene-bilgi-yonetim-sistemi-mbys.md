@@ -8,20 +8,12 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/mbys.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
 
 HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
 
 BAŞKANLIĞI
-
-T.C.
-
-SAĞLIK BAKANLIĞI
-
-278168292
 
 Halk Sağlığı Genel Müdürlüğü
 
@@ -60,13 +52,3 @@ Bakan a.
 Halk Sağlığı Genel Müdürü
 
 Ek: Muayene Bilgi Yönetim Sistemi
-
-Dağıtım:
-
-Gereği: Bilgi:
-
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: İlhami AKKUŞ
-
-Çankaya/Ankara 06800 Uzman Yardımcısı

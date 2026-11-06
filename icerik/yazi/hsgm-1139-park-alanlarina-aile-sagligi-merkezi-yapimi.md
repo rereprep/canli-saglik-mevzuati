@@ -8,8 +8,9 @@ birim: "Birinci Basamak Sağlık Kuruluşları Planlama ve Organizasyon Dairesi 
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Park_Alanlarina_Aile_Sagligi_Merkezi_Yapimi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
+
 
 T.C.
 
@@ -19,9 +20,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-58271140-602.99-299861319 05.01.2026
 
-Konu : Park Alanlarına Aile Sağlığı
-
-Merkezi Yapımı
+Konu : Park Alanlarına Aile Sağlığı Merkezi Yapımı
 
 DAĞITIM YERLERİNE
 
@@ -37,31 +36,27 @@ Aile sağlığı merkezi ihtiyacı duyulan bölgelerdeki park alanlarına, mezk�
 
 Bu kapsamda;
 
-1) Mevzuata uygun park alanlarının ihtiyaç olan bölgeler de dikkate alınarak il sağlık müdürlüklerince belirlenmesi, 2) İl sağlık müdürlüğü tarafından tespit edilen park alanı içerisinde sağlık tesisi yapımı planlanan alanın sair mevzuat dikkate alınarak çizilen vaziyet planı ve vaziyet planına uygun olarak hazırlanan dosya ile birlikte yetkili idare veya Çevre, Şehircilik ve İklim Değişikliği Bakanlığından talep edilmesi, a) Müdürlüğünüzce ihtiyaç duyulan ve sağlık tesisi yapımı planlanan park alanları ile ilgili yetkili idareye başvurulmasının akabinde encümen kararının olumlu olması halinde sürecin 3’üncü ve devamı maddeler uyarınca yürütülmesi,
+1) Mevzuata uygun park alanlarının ihtiyaç olan bölgeler de dikkate alınarak il sağlık müdürlüklerince belirlenmesi,
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Sedat MOCAN
+2) İl sağlık müdürlüğü tarafından tespit edilen park alanı içerisinde sağlık tesisi yapımı planlanan alanın sair mevzuat dikkate alınarak çizilen vaziyet planı ve vaziyet planına uygun olarak hazırlanan dosya ile birlikte yetkili idare veya Çevre, Şehircilik ve İklim Değişikliği Bakanlığından talep edilmesi,
 
-Çankaya/Ankara 06430 Sağlık Memuru
+a) Müdürlüğünüzce ihtiyaç duyulan ve sağlık tesisi yapımı planlanan park alanları ile ilgili yetkili idareye başvurulmasının akabinde encümen kararının olumlu olması halinde sürecin 3’üncü ve devamı maddeler uyarınca yürütülmesi,
 
-1/2
+b) Müdürlüğünüzce ihtiyaç duyulan ve belediye ya da şahıs mülkiyeti bulunmayan, sağlık tesisi yapımı planlanan park alanları ile ilgili ise belediyeye başvurulmasının akabinde encümen kararının olumsuz olması yahut makul süre içerisinde başvuruya cevap verilmemesi halinde Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 03.12.2025 tarihli ve 296760550 sayılı görüş yazılarına istinaden Çevre, Şehircilik ve İklim
 
-b) Müdürlüğünüzce ihtiyaç duyulan ve belediye ya da şahıs mülkiyeti bulunmayan, sağlık tesisi yapımı planlanan park alanları ile ilgili ise belediyeye başvurulmasının akabinde encümen kararının olumsuz olması yahut makul süre içerisinde başvuruya cevap verilmemesi halinde Çevre, Şehircilik ve İklim Değişikliği
+Değişikliği Bakanlığı/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerine başvurularak ilgili alanın imar planındaki vasfıyla tescil işleminin yaptırılması, akabinde Hazineye tescil edilen taşınmazın Çevre, Şehircilik ve İklim Değişikliği Bakanlığı/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerince de tahsisinin yaptırılması,
 
-Bakanlığının 03.12.2025 tarihli ve 296760550 sayılı görüş yazılarına istinaden Çevre, Şehircilik ve İklim
+3) İşlemi tamamlanan park alanlarının yatırım programına alınmak üzere il sağlık müdürlükleri tarafından Halk Sağlığı Genel Müdürlüğüne bildirilmesi,
 
-Değişikliği Bakanlığı/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerine başvurularak ilgili alanın imar planındaki vasfıyla tescil işleminin yaptırılması, akabinde Hazineye tescil edilen taşınmazın Çevre, Şehircilik ve
+4) Halk Sağlığı Genel Müdürlüğü tarafından incelenerek uygun görüşle yatırım programına alınmak üzere Sağlık Yatırımları Genel Müdürlüğüne bildirilmesi,
 
-İklim Değişikliği Bakanlığı/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerince de tahsisinin yaptırılması, 3) İşlemi tamamlanan park alanlarının yatırım programına alınmak üzere il sağlık müdürlükleri tarafından
+5) Sağlık Yatırımları Genel Müdürlüğü tarafından yatırım programıyla ilişkilendirilmesi,
 
-Halk Sağlığı Genel Müdürlüğüne bildirilmesi,
+6) Müstakil aile sağlığı merkezleri, “Aile Sağlığı Merkezi Kurumsal Kimlik Kılavuzuna” göre tasarlanarak, il sağlık müdürlüğünce hazırlanan avan projelerin Sağlık Yatırımları Genel Müdürlüğüne onaylanmak üzere gönderilmesi,
 
-4) Halk Sağlığı Genel Müdürlüğü tarafından incelenerek uygun görüşle yatırım programına alınmak üzere
+7) Onaylanan avan projelere uygun il sağlık müdürlüğü tarafından uygulama projeleri hazırlanarak Bakanlıktan ayrıca onay alınmaksızın il sağlık müdürlüklerince onaylanarak yapım ihalesinin gerçekleştirilmesi,
 
-Sağlık Yatırımları Genel Müdürlüğüne bildirilmesi,
-
-5) Sağlık Yatırımları Genel Müdürlüğü tarafından yatırım programıyla ilişkilendirilmesi, 6) Müstakil aile sağlığı merkezleri, “Aile Sağlığı Merkezi Kurumsal Kimlik Kılavuzuna” göre tasarlanarak, il sağlık müdürlüğünce hazırlanan avan projelerin Sağlık Yatırımları Genel Müdürlüğüne onaylanmak üzere gönderilmesi, 7) Onaylanan avan projelere uygun il sağlık müdürlüğü tarafından uygulama projeleri hazırlanarak
-
-Bakanlıktan ayrıca onay alınmaksızın il sağlık müdürlüklerince onaylanarak yapım ihalesinin gerçekleştirilmesi, 8) İl sağlık müdürlüklerince, yapım ihalesi gerçekleştirilen sağlık tesisleri için yer teslimi yapılarak inşa sürecinin başlatılması, gerekmektedir.
+8) İl sağlık müdürlüklerince, yapım ihalesi gerçekleştirilen sağlık tesisleri için yer teslimi yapılarak inşa sürecinin başlatılması, gerekmektedir.
 
 Bahse konu park alanlarına aile sağlığı merkezi yapılmak üzere yukarıda belirtilen maddeler çerçevesinde iş ve işlemlerin yürütülmesi hususunda;
 
@@ -82,9 +77,3 @@ Gereği: Bilgi:
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Çevre, Şehircilik ve İklim Değişikliği Bakanlığına
 
 Sağlık Yatırımları Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Sedat MOCAN
-
-Çankaya/Ankara 06430 Sağlık Memuru
-
-2/2

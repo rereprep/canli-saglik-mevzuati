@@ -8,7 +8,7 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/ASM-AHB_Rehber_ve_Usul.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,10 +19,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-19831278-663.02-299342014 31.12.2025
 
-Konu : Konu: ASM-AHB Rehber ve Usul
-
-Esasları
-
+Konu: ASM-AHB Rehber ve Usul Esasları
 DAĞITIM YERLERİNE
 
 İlgi : 09.05.2025 tarihli ve E-23824201-679-275386024 sayılı yazı.
@@ -57,20 +54,9 @@ Ek:
 
 2 - ASM-AHB İzleme ve Değerlendirme Rehberi
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Yasemin GÜÇTAŞ
-
-Çankaya/Ankara 06430 Birim Sorumlusu
-
-1/2
-
 Dağıtım:
 
 Gereği: Bilgi:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü) A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Yasemin GÜÇTAŞ
-
-Çankaya/Ankara 06430 Birim Sorumlusu
-
-2/2

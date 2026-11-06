@@ -8,18 +8,12 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Hekimligi_Tarama_ve_Takip_Katsayisina_Iliskin_Yonerge_ve_HYP_Tarama_ve_Takip_Kilavuzu.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
-
-BAŞKANLIĞI
 
 T.C.
 
-SAĞLIK BAKANLIĞI 277724072
+SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
 
@@ -68,7 +62,3 @@ Gereği: Bilgi:
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne Hukuk Hizmetleri Genel Müdürlüğüne
 
 Strateji Geliştirme Başkanlığına Teftiş Kurulu Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Dr. Aslıhan KAHRAMAN KOÇAN
-
-Çankaya/Ankara 06800

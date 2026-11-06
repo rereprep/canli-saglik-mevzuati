@@ -8,7 +8,7 @@ birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Gebelikte_Agiz_Ve_Dis_Sagligi_Taramasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -25,9 +25,9 @@ DAĞITIM YERLERİNE
 
 Genel Müdürlüğümüzce 03-05 Şubat 2025 tarihlerinde ''Bebek ve Çocuk Ölümlerinin Önlenmesi ve
 
-Azaltılması'' konulu bir çalıştay düzenlenmiş olup çalıştay çıktıları Bilim Kurulunda müzakere edilmiştir. Yapılan değerlendirmelerde, gebelik döneminde ağız ve diş sağlığı yetersizliğinin anne ve bebek sağlığı üzerinde olumsuz etkiler doğurabileceği hususu ele alınmış ve 16- 20. gebelik haftaları arasında ağız ve diş sağlığı taraması başlatılmasının uygun olacağı sonucuna varılmıştır.
+Azaltılması'' konulu bir çalıştay düzenlenmiş olup çalıştay çıktıları Bilim Kurulunda müzakere edilmiştir. Yapılan değerlendirmelerde, gebelik döneminde ağız ve diş sağlığı yetersizliğinin anne ve bebek sağlığı üzerinde olumsuz etkiler doğurabileceği hususu ele alınmış ve 16-20. gebelik haftaları arasında ağız ve diş sağlığı taraması başlatılmasının uygun olacağı sonucuna varılmıştır.
 
-Bu kapsamda aile hekimlerimizin takip ettikleri 16- 20. haftalar arasındaki gebelere Merkezi Hekim
+Bu kapsamda aile hekimlerimizin takip ettikleri 16-20. haftalar arasındaki gebelere Merkezi Hekim
 
 Randevu Sisteminden (MHRS) diş hekimi randevusu oluşturabileceklerinin iliniz bünyesinde hizmet veren tüm aile hekimlerine duyurulması hususunda;
 
@@ -46,7 +46,3 @@ Gereği: Bilgi:
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne
 
 Sağlık Hizmetleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Emine YILDIRIM GÖZEL
-
-Çankaya/Ankara 06800 Hemşire

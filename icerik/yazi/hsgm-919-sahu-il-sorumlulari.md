@@ -8,18 +8,10 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/SAHU_Il_Sorumlulari.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
-HSGM AİLE HEKİMLİĞİ EĞİTİM VE İZLEME DAİRE BAŞKANLIĞI
-
-HSGM AİLE HEKİMLİĞİ HİZMETİÇİ EĞİTİMLERİ BİRİMİ
-
-5.08.2025 10:45:02 E-19831278-774.99-284196380
-
 T.C.
-
-284196380
 
 SAĞLIK BAKANLIĞI
 
@@ -46,7 +38,3 @@ Ek: sahu bilgi formu
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Yasemin SARIALTIN
-
-Çankaya/Ankara 06430 Büro Personeli

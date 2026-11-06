@@ -8,7 +8,7 @@ birim: "Ruh Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Genclerin_Ruh_Sagligini_Guclendirme_Calismalari_Psikolojik_Dayaniklilik_Sunumu.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,11 +19,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-23859870-279-307799253 15.03.2026
 
-Konu : Gençlerin Ruh Sağlığını Güçlendirme
-
-Çalışmaları (Psikolojik Dayanıklılık
-
-Sunumu)
+Konu : Gençlerin Ruh Sağlığını Güçlendirme Çalışmaları (Psikolojik Dayanıklılık Sunumu)
 
 DAĞITIM YERLERİNE
 
@@ -52,7 +48,3 @@ Gereği: Bilgi:
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Gençlik ve Spor Bakanlığına
 
 Yüksek Öğretim Kurulu Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Süreyya SAK
-
-Çankaya/Ankara 06800 Sosyolog

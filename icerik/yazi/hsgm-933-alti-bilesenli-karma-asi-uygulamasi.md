@@ -8,7 +8,7 @@ birim: "Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanl�
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Alti_Bilesenli_Karma_Asi_Uygulamasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -17,19 +17,15 @@ SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
 
-Sayı : E-21001706-131.02-271721134 19.03.2025
-
 Konu : Altı Bileşenli Karma Aşı Uygulaması
 
 DAĞITIM YERLERİNE
 
-Beş bileşenli karma aşı (DaBT-İPA-Hib) içeriğine, Hepatit-B aşısının eklenmesi ile geliştirilen altı bileşenli karma aşı (DaBT-İPA-Hib-Hep B), 28.11.2024 tarihli Bağışıklama Danışma Kurulu tavsiye kararı ve 18.12.2024 tarih ve E-21001706-131.02-262927041 sayılı Makam Onayı ile Genişletilmiş Bağışıklama Programı kapsamında Ulusal Çocukluk Dönemi Aşılama Takvimi’ne dahil edilmiştir. Altı bileşenli karma aşıya geçiş ile birlikte güncellenen Ulusal Çocukluk Dönemi Aşılama Takvimi Ek-1’de yer almaktadır.
-
 Bağışıklama Danışma Kurulu önerisi doğrultusunda, altı bileşenli karma aşı, beş bileşenli karma aşıda olduğu gibi 2. ayın sonunda, 4. ayın sonunda, 6. ayın sonunda ve 18. ayın sonunda olmak üzere 3+1 şemasıyla uygulanacaktır. Aşılamasına beş bileşenli karma aşı ile başlanan ve o tarihe kadar aşısı uygulanmış olan bebeklerin, geçiş tarihinden itibaren devam eden dozları kaldıkları yerden altı bileşenli karma aşı ile tamamlanacaktır.
 
-Beş bileşenli karma aşı uygulandığı dönemde Hepatit-B aşılaması doğumda, 1. ayda ve 6. ayda yapılmakta idi. Hepatit-B aşısının doğumdaki birinci doz uygulamasına aynı şekilde devam edilecektir. Altı bileşenli karma aşının içerisinde Hepatit-B aşısı olduğundan, Hepatit-B aşısının sonraki dozları altı bileşenli karma aşı içerisinde uygulanmış olacaktır. HBsAg negatif olan gebelerin bebekleri için güncellenen takvim uygulaması geçerlidir.
+Beş bileşenli karma aşı uygulandığı dönemde Hepatit-B aşılaması doğumda, 1. ayda ve 6. ayda yapılmakta idi. Hepatit-B aşısının doğumdaki birinci doz uygulamasına aynı şekilde devam edilecektir. Altı bileşenli karma aşının içerisinde Hepatit-B aşısı olduğundan, Hepatit-B aşısının sonraki dozları altı bileşenli karma aşı içerisinde uygulanmış olacaktır. HBs Ag negatif olan gebelerin bebekleri için güncellenen takvim uygulaması geçerlidir.
 
-HBsAg pozitif olduğu tespit edilen gebelerin bebeklerine ise doğumda Hepatit-B Immunglobulinin yanı sıra yapılan birinci dozu takiben, ikinci Hepatit-B dozu 1. ayın sonunda uygulanacaktır. Hepatit-B aşısının sonraki dozları, altı bileşenli karma aşının içerisinde Hepatit-B aşısı olduğundan altı bileşenli karma aşı içerisinde uygulanmış olacaktır.
+HBs Ag pozitif olduğu tespit edilen gebelerin bebeklerine ise doğumda Hepatit-B Immunglobulinin yanı sıra yapılan birinci dozu takiben, ikinci Hepatit-B dozu 1. ayın sonunda uygulanacaktır. Hepatit-B aşısının sonraki dozları, altı bileşenli karma aşının içerisinde Hepatit-B aşısı olduğundan altı bileşenli karma aşı içerisinde uygulanmış olacaktır.
 
 Ayrıca aşının değişim tarihi öncesinde, 1. ayda Hepatit-B aşısının ikinci dozunu almış olan bebeklere ayrı bir uygulama yapılmayacak olup aşılamaya kalındığı yerden güncellenen takvim çerçevesinde altı bileşenli karma aşı ile devam edilecektir.
 
@@ -44,12 +40,6 @@ Bilgilerini ve gereğini arz/rica ederim.
 Doç. Dr. Muhammed Emin DEMİRKOL
 
 Halk Sağlığı Genel Müdürü
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Seda ALPASLAN
-
-Çankaya/Ankara 06800 Ebe
-
-1/2
 
 Ek:
 
@@ -69,15 +59,9 @@ Halk Sağlığı Genel Müdürlüğü (Tüm Daire
 
 Başkanlıkları)
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Seda ALPASLAN
-
-Çankaya/Ankara 06800 Ebe
-
-2/2
-
 Giriş:
 
-14 Nisan 2025 tarihinden itibaren, ülkemizde çocukluk dönemi aşı takviminde kullanılan beş bileşenli karma aşı (DaBT-İPA-Hib) yerine altı bileşenli karma aşı (DaBT-İPA-Hib -HepB-
+14 Nisan 2025 tarihinden itibaren, ülkemizde çocukluk dönemi aşı takviminde kullanılan beş bileşenli karma aşı (Da BT-İPA-Hib) yerine altı bileşenli karma aşı (Da BT-İPA-Hib -Hep B-
 
 ) ( Difteri, Tetanoz, asellüler Boğmaca, inaktif Polio, Hemofilus İnfluenza tip b ve Hepatit B aşısı) uygulanmaya başlanacaktır. Altı bileşenli karma aşı, beş bileşenli karma aşının sağladığı korumaya ek olarak hepatit B’ye karşı da koruma sağlamaktadır ve böylece tek bir aşılama ile toplam altı hastalığa karşı ( Difteri, Tetanoz, Boğmaca, Çocuk felci, Hemofilus influenza tip b’nin neden olduğu invaziv hastalıklar, Hepatit B) korunma sağlanmaktadır.
 
@@ -259,7 +243,7 @@ O S K u K P ç K A içeği I EK DOZ I I II II G  T E d B : E E L ri E ş R ki
 
 Hep-A I II  Tdab: Erişkin Tetanos, difteri, asellüler boğmaca  Pnömokok
 
-DaBT-İPA RAPEL  Td: Erişkin Tetanos difteri  Grip
+Da BT-İPA RAPEL  Td: Erişkin Tetanos difteri  Grip
 
 Td RAPEL  Grip  Meningokok
 
@@ -269,4 +253,4 @@ Aşı Detayları için 65 YAŞ ve ÜZERİ  Suçiçeği
 
   B KP C A G : : K V o e n r j e u m ge A P ş n ıs ö ı mokok Aşısı   K H K e K p : - K A ı : z H am ep ık a , t K it ı z A a A m ş ı ı k s ç ı ık, Kabakulak Aşısı  Grip
 
- DaBT-İPA-Hib-HepB: Difteri, asellüler Boğmaca, Tetanos,  Td: Erişkin Tetonos difteri Aşısı inaktif Polio, Hemofilus influenza tip b, Hepatit B Aşısı  Rapel: Pekiştirme Doz Aşısı
+ Da BT-İPA-Hib-Hep B: Difteri, asellüler Boğmaca, Tetanos,  Td: Erişkin Tetonos difteri Aşısı inaktif Polio, Hemofilus influenza tip b, Hepatit B Aşısı  Rapel: Pekiştirme Doz Aşısı

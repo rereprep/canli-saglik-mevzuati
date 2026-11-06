@@ -8,7 +8,7 @@ birim: "Zoonotik ve Vektörel Hastalıklar Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/KKKA_Egitim_Calismalari_1.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -27,19 +27,9 @@ Kırım Kongo Kanamalı Ateşi (KKKA) başlıca kene tutunması veya keneyle tem
 
 1- KKKA halka yönelik eğitimler, 2023 ve/veya 2024 ve/veya 2025 yıllarında vaka görülen yerleşim birimleri (mahalle/köy gibi) ile 2026 yılında yeni vaka görülen yerleşim birimlerinde yapılacaktır. KKKA halk eğitimlerinde; okul, cami, köy odası ve kahvehane gibi mekanlar kullanılarak yüz yüze toplu eğitim şeklinde çalışmalar sürdürülecektir. Bu eğitimlerde Bakanlığımızca hazırlanan eğitim materyalleri kullanılacaktır.
 
-Eğitimde mutlaka el broşürü dağıtımı sağlanacak olup konunun önemi aktarılarak vatandaşların korunma önlemlerini almalarının teşvik edilmesini sağlanacaktır. Bu eğitimler 13 Temmuz 2026 tarihine kadar tamamlanacak ve kayıt altına alınan eğitim sonuçları 20 Temmuz 2026 tarihine kadar Ek-1’de gönderilen form ile bildirilecektir. İl Sağlık Müdürlükleri tarafından yapılacak değerlendirme sonucunda, ihtiyaç duyulan yerleşim birimlerinde bu eğitimler tekrarlanacaktır. Tekrarlanan eğitimlerle ilgili çalışma sonuçları ise her ayın sonunda aylık olarak Ek-2 ile bildirilecektir. Bu çalışmalarda Genel Müdürlüğümüz Zoonotik ve Vektörel Hastalıklar
+Eğitimde mutlaka el broşürü dağıtımı sağlanacak olup konunun önemi aktarılarak vatandaşların korunma önlemlerini almalarının teşvik edilmesini sağlanacaktır. Bu eğitimler 13 Temmuz 2026 tarihine kadar tamamlanacak ve kayıt altına alınan eğitim sonuçları 20 Temmuz 2026 tarihine kadar Ek-1’de gönderilen form ile bildirilecektir. İl Sağlık Müdürlükleri tarafından yapılacak değerlendirme sonucunda, ihtiyaç duyulan yerleşim birimlerinde bu eğitimler tekrarlanacaktır. Tekrarlanan eğitimlerle ilgili çalışma sonuçları ise her ayın sonunda aylık olarak Ek-2 ile bildirilecektir. Bu çalışmalarda Genel Müdürlüğümüz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı web sitesinde dokümanlar başlığı altında yer alan güncel afiş ve broşür gibi eğitim materyallerinin kullanılmasına dikkat edilecek, kırsal bölgelerde okul, cami, köy odası ve kahvehane gibi mekanlar ile köy meydanı, köyün giriş ve çıkış yerleri gibi dikkat çekici alanlara KKKA afişleri asılacak ve belirli aralıklarla kontrol edilecek yenilenmeleri sağlanacaktır. Bu materyaller İl Sağlık Müdürlüklerince bastırılacaktır.
 
-Daire Başkanlığı web sitesinde dokümanlar başlığı altında yer alan güncel afiş ve broşür gibi eğitim materyallerinin kullanılmasına dikkat edilecek, kırsal bölgelerde okul, cami, köy odası ve kahvehane gibi mekanlar ile köy meydanı, köyün giriş ve çıkış yerleri gibi dikkat çekici alanlara KKKA afişleri asılacak ve belirli aralıklarla kontrol edilecek yenilenmeleri sağlanacaktır. Bu materyaller İl Sağlık Müdürlüklerince bastırılacaktır.
-
-2- KKKA’ya dair eğitim çalışmaları Milli Eğitim Müdürlükleri ile işbirliği içerisinde okullarda da sürdürülecektir. Eğitimlerin düzenleneceği okullar, İl Sağlık Müdürlüğü tarafından yapılacak risk değerlendirmesine göre (halkın yaşam tarzı, çiftçilik ve hayvancılık ile uğraş, yerleşim yeri özellikleri ve vaka görülme durumu vb.) tespit edilecektir. Bu eğitimlerde hedef yaş grubuna göre eğitimciler tarafından Genel
-
-Müdürlüğümüz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı web sitesinde dokümanlar başlığı altında videolar seçeneğinde yer alan KKKA animasyon filminin veya KKKA filmlerinin gösterimi sağlanacaktır. Okul eğitim çalışmaları 13 Temmuz 2026 tarihine kadar tamamlanacak, çalışma sonuçları Ek-3 ile 20 Temmuz 2026 tarihine kadar gönderilecektir.
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Uzm. Dr. Selda ŞAHAN
-
-Çankaya/Ankara 06430 Birim Sorumlusu
-
-1/2
+2- KKKA’ya dair eğitim çalışmaları Milli Eğitim Müdürlükleri ile işbirliği içerisinde okullarda da sürdürülecektir. Eğitimlerin düzenleneceği okullar, İl Sağlık Müdürlüğü tarafından yapılacak risk değerlendirmesine göre (halkın yaşam tarzı, çiftçilik ve hayvancılık ile uğraş, yerleşim yeri özellikleri ve vaka görülme durumu vb.) tespit edilecektir. Bu eğitimlerde hedef yaş grubuna göre eğitimciler tarafından Genel Müdürlüğümüz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı web sitesinde dokümanlar başlığı altında videolar seçeneğinde yer alan KKKA animasyon filminin veya KKKA filmlerinin gösterimi sağlanacaktır. Okul eğitim çalışmaları 13 Temmuz 2026 tarihine kadar tamamlanacak, çalışma sonuçları Ek-3 ile 20 Temmuz 2026 tarihine kadar gönderilecektir.
 
 3- İl Sağlık Müdürlüğü tarafından yapılacak risk değerlendirmesine göre belirlenen yerleşim birimlerindeki muhtarlar ve din görevlileri de yüz yüze eğitilecektir. Bu 13 Temmuz 2026 tarihine kadar tamamlanacak olup, çalışma sonuçları Ek-4 ile 20 Temmuz 2026 tarihine kadar bildirilecektir.
 
@@ -61,9 +51,7 @@ Bakan a.
 
 Halk Sağlığı Genel Müdürü
 
-Ek: KKKA Eğitim Çalışmaları Tablosu 2026 (1-KKKA Toplu Halk Eğitimleri, 2-KKKA Tekrarlanan
-
-Toplu Halk Eğitimleri, 3-KKKA Okul Eğitimleri, 4-KKKA Din Görevlisi ve Muhtar Eğitimleri, 5-KKKA Sağlık Personeli Eğitimleri)
+Ek: KKKA Eğitim Çalışmaları Tablosu 2026 (1-KKKA Toplu Halk Eğitimleri, 2-KKKA Tekrarlanan Toplu Halk Eğitimleri, 3-KKKA Okul Eğitimleri, 4-KKKA Din Görevlisi ve Muhtar Eğitimleri, 5-KKKA Sağlık Personeli Eğitimleri)
 
 Dağıtım:
 
@@ -72,9 +60,3 @@ Gereği: Bilgi:
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne
 
 Sağlık Hizmetleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Uzm. Dr. Selda ŞAHAN
-
-Çankaya/Ankara 06430 Birim Sorumlusu
-
-2/2

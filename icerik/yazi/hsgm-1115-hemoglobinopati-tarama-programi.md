@@ -8,22 +8,15 @@ birim: "Toplum Sağlığı Hizmetleri ve Eğitim Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Hemoglobinopati_Tarama_Hizmeti_Talasemi_Analizi-870.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
-T.C.
-
-SAĞLIK BAKANLIĞI
-
+T.C. Sağlık Bakanlığı
 Halk Sağlığı Genel Müdürlüğü
 
+Sayı : E-32305452-117.70.50-278652623 12.06.2025
+
 Konu : Hemoglobinopati Tarama Hizmeti (Talasemi Analizi)-870
-
-Sayı : EE--3322330055445522-1-1171.70.50-52-7[8T6A52S6L2A3K] 12.06.2025
-
-Konu : : Hemoglobinopati Tarama Hizmeti
-
-(Talasemi Analizi)-870
 
 DAĞITIM YERLERİNE
 
@@ -35,13 +28,11 @@ Halk Sağlığı Referans Laboratuvarları Daire Başkanlığı, Halk Sağlığ�
 
 Bilindiği üzere, hemoglobinopatiler ülkemizde en sık karşılaşılan kalıtsal kan hastalıkları arasında yer almakta olup, bu kapsamda yürütülen ulusal tarama programıyla çiftlerin taşıyıcılık durumları belirlenmekte, bilgilendirme ve yönlendirmelerle kalıtsal hastalıkların önlenmesi amaçlanmaktadır.
 
-Hali hazırda 52 Halk Sağlığı Laboratuvarında söz konusu analizler yapılmakta olup bu analizlerin yapılmadığı diğer HSL’lerde de hemoglobinopati taramalarının ülke genelinde yaygınlaştırabilmesi amacıyla çalışmalar sürdürülmektedir.
+Hâlihazırda 52 Halk Sağlığı Laboratuvarında söz konusu analizler yapılmakta olup bu analizlerin yapılmadığı diğer HSL’lerde de hemoglobinopati taramalarının ülke genelinde yaygınlaştırılabilmesi amacıyla çalışmalar sürdürülmektedir.
 
 Bu çerçevede İlgi (a) yazımızda HSL bünyesinde bulunan hemoglobinopati tarama laboratuvarı hizmetlerinin aynen devam etmesi, diğer hemoglobinopati tanı merkezleri içinde yer alan laboratuvar çalışmalarının da biyokimya uzmanı olan illerimizde çalışan personel, cihaz ve ekipmanı ile birlikte halen yürütmekte oldukları iş ve işlemlerin 31.12.2014 tarihine kadar HSL’ye devredilme işlemlerinin yapılması gerektiği belirtilmiştir.
 
-İlgi (b) yazımızda da bu analizlerin yapılmadığı HSL’lerde de biyokimya uzmanı bulunan
-
-HSL’lerin laboratuvar altyapı gerekliliklerinin belirlenmesi, bu kapsamda alımların gerçekleştirilmesi ve ivedilikle analizlere başlanması istenmiştir.
+İlgi (b) yazımızda da bu analizlerin yapılmadığı HSL’lerde biyokimya uzmanı bulunan HSL’lerin laboratuvar altyapı gerekliliklerinin belirlenmesi, bu kapsamda alımların gerçekleştirilmesi ve ivedilikle analizlere başlanması istenmiştir.
 
 İlgide kayıtlı yazılarımız doğrultusunda, hemoglobinopati tarama hizmetlerinin Halk Sağlığı
 
@@ -61,4 +52,4 @@ Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-Sağlık Mahallesi A.Adnan Saygun Cad. No 55 B Blok. 06800 Bilgi için: Gülseren ERYAŞAR
+

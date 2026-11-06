@@ -8,22 +8,11 @@ birim: "Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanl�
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Ust_Yazi_9_-_11_Ay_Ek_Doz_Kizamik_Kizamikcik_Kabakulak_KKK_Asisi_Uygulamasipdf.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM AŞI İLE ÖNLENEBİLİR HASTALIKLAR VE BAĞIŞIKLAMA
-
-DAİRE BAŞKANLIĞI
-
-GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMLARI
-
-KOORDİNATÖRLÜĞÜ
-
 T.C.
 
 SAĞLIK BAKANLIĞI
-
-285237240
 
 Halk Sağlığı Genel Müdürlüğü
 
@@ -66,7 +55,5 @@ Halk Sağlığı Genel Müdürü
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Kat1 Bilgi için: Ayşe GÜMÜŞ
 
 Çankaya /ANKARA 06430 Şef

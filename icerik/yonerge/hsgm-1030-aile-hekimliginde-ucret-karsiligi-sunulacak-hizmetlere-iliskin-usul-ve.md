@@ -6,7 +6,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Usul_ve_Esaslar/Aile_Hekimliginde_Ucret_Karsiligi_Sunulacak_Hizmetlere_Iliskin_Usul_ve_Esaslar_-_Degisiklik_Islenmis_Metin.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 AİLE HEKİMLİĞİNDE ÜCRET KARŞILIĞI SUNULACAK HİZMETLERE İLİŞKİN

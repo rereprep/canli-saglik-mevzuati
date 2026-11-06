@@ -6,16 +6,11 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Legionella.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 MUCIYE HAL% THSK HAL K
 
 SAĞLICit ISOBATLI:APJ mal DAIRE
-
-BAŞICAN1-IĞ1
-
-11111Z121011151 I1I1 r11 16121.5M4511q11::1 171131 1O1t 1416 1111111
 
 TL.
 
@@ -70,8 +65,6 @@ Gereği: Bilgi:
 Mikrobiyoloji Referans Laboratuvarları
 
 Daire Başkanlığına -
-
-Adnan Saygun Cad. No:55 06100 Çankaya-ANKARA 0312 565 54 80
 
 Halk Sağlığı Laboratuvarları Daire Başkanlığı
 

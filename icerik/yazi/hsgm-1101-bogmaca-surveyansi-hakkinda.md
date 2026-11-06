@@ -8,7 +8,7 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Bogmaca_Surveyansi_Hakkinda.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -49,17 +49,11 @@ Bir kişide en az 2 hafta süren öksürüğe aşağıdakilerden en az birinin e
 
 • Öksürüğe neden olabilecek başka bir sorun (pnömoni, plörezi, sinüzit...) bulunmaması
 
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Kat1 Bilgi için: Dilşat YILDIRIM BİNGÜL
-
-Çankaya /ANKARA 06430 Doktor
-
-1/2
-
 Kesin vaka:
 
-• Nazofaringeal örneklerin kültürlerinden B.pertussis izolasyonu, veya
+• Nazofaringeal örneklerin kültürlerinden B. pertussis izolasyonu, veya
 
-• Olası vaka kriterleri ile birlikte nazofaringeal örnekte PCR ile B.pertussis geninin saptanması veya
+• Olası vaka kriterleri ile birlikte nazofaringeal örnekte PCR ile B. pertussis geninin saptanması veya
 
 • Bir kesin vaka ile epidemiyolojik bağlantısı olan olası vaka.
 
@@ -80,9 +74,3 @@ Ek: Boğmaca Vakaları
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğüne)
-
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Kat1 Bilgi için: Dilşat YILDIRIM BİNGÜL
-
-Çankaya /ANKARA 06430 Doktor
-
-2/2

@@ -8,16 +8,11 @@ birim: "Çevre Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Ust_Yazi_Ambalajli_Sular.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM ÇEVRE SAĞLIĞI DAİRE BAŞKANLIĞI
-
 SU GÜVENLİĞİ BİRİMİ
 
 T.C.
-
-280972719
 
 SAĞLIK BAKANLIĞI
 
@@ -51,11 +46,7 @@ Bu kapsamda;
 
 1. Ambalajlı sularla ilgili tüm bilgi ve belgelerin eksiksiz ve hatasız şekilde ambalajlı su sistemine (skweb.saglik.gov.tr) yüklenmeli, sistemdeki tüm bilgilerin güncel olmasına dikkat edilmelidir.
 
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Bilgi için: İsmail KOCAMANOĞLU
-
 /1Çankaya 06430 Çevre Sağ. Tekn.
-
-1/3
 
 2. Yapılan denetimlerde rutin olarak alınan numunelerde mikrobiyolojik analiz sonuçlarının değerlendirilmesiyle birlikte kimyasal parametrelerin de analiz sertifikası ile uyumluluğu kontrol edilmelidir.
 
@@ -77,15 +68,13 @@ Bakanlığa gönderilmesi (evrakların fiziki olarak gönderilmesine gerek yoktu
 
 -PGD kapsamında alınan numunelerin orijinal ambalajlı ve mühürlü şekilde usulüne uygun olarak alınması ve numune alma tutanağının alt bilgiler dahil eksiksiz ve hatasız doldurulmasına dikkat edilmesi,
 
--Numune alma kriterlerine uygun olarak alınan numunelerin laboratuvara soğuk zincirle, zamanında ve uygun koşullarda gönderilmesinin sağlanması, 8. İşletme tarafından mikrobiyolojik uygunsuzluklar haricinde analiz sonucuna itiraz edilebileceğinden şahit numunenin usulüne uygun olarak alınmasına azami hassasiyet gösterilmesi, ayrıca işletme veya işyeri yetkilisinin şahit numune açısından yediemin sıfatını taşıdığına ilişkin “şahit numune muhafaza edilmek üzere işletme/işyeri yetkilisine resmi olarak teslim edilmiş, teslim amacı dışında; numune üzerindeki mührün bozulması, numunenin satılması, başkasına verilmesi veya numunenin tahrip edilmesi gibi muhafaza amacıyla bağdaşmayan davranışlarda bulunulması halinde ilk analiz sonucuna göre işlemlerin yapılacağı ve muhafaza görevini aykırılık sebebi ile adli mercilere bildirimde bulunulacağı yönünde bilgilendirme yapılmış, şahit numunenin muhafızı ile ilgili hukuki ve cezai sorumluluğun işletme/satış yerine ait olduğu kabul edilmiştir.” ifadesinin Ek-1 ve Ek-2’de örneği sunulan tutanağa yazılarak gerekli bilgilendirmenin yapılmasına dikkat edilmelidir.
+-Numune alma kriterlerine uygun olarak alınan numunelerin laboratuvara soğuk zincirle, zamanında ve uygun koşullarda gönderilmesinin sağlanması,
+
+8. İşletme tarafından mikrobiyolojik uygunsuzluklar haricinde analiz sonucuna itiraz edilebileceğinden şahit numunenin usulüne uygun olarak alınmasına azami hassasiyet gösterilmesi, ayrıca işletme veya işyeri yetkilisinin şahit numune açısından yediemin sıfatını taşıdığına ilişkin “şahit numune muhafaza edilmek üzere işletme/işyeri yetkilisine resmi olarak teslim edilmiş, teslim amacı dışında; numune üzerindeki mührün bozulması, numunenin satılması, başkasına verilmesi veya numunenin tahrip edilmesi gibi muhafaza amacıyla bağdaşmayan davranışlarda bulunulması halinde ilk analiz sonucuna göre işlemlerin yapılacağı ve muhafaza görevini aykırılık sebebi ile adli mercilere bildirimde bulunulacağı yönünde bilgilendirme yapılmış, şahit numunenin muhafızı ile ilgili hukuki ve cezai sorumluluğun işletme/satış yerine ait olduğu kabul edilmiştir.” ifadesinin Ek-1 ve Ek-2’de örneği sunulan tutanağa yazılarak gerekli bilgilendirmenin yapılmasına dikkat edilmelidir.
 
 9. Bakanlık tarafından uygulanan idari para cezası olurlarının işletmeye tebliğ belgesi, ödeme dekontu veya süresi içinde ödeme yapılmadığı ile ilgili tüm belgeler en kısa sürede Bakanlığa gönderilmelidir.
 
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Bilgi için: İsmail KOCAMANOĞLU
-
 /1Çankaya 06430 Çevre Sağ. Tekn.
-
-2/3
 
 10. Mevzuat gereği su satış yerlerinin üç ayda bir denetlenmesi gerekmektedir. PGD numuneleri açısından önem arz eden satış yerleri bilgilerinin kontrol edilerek sistemde güncel tutulması, su satış yerleri ve nakil araçlarına yönelik Ambalajlı Su Satış Yerleri İle Ambalajlı Su Nakil Araçlarının Tabi Olacağı Usul Ve
 
@@ -115,8 +104,4 @@ Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Bilgi için: İsmail KOCAMANOĞLU
-
 /1Çankaya 06430 Çevre Sağ. Tekn.
-
-3/3

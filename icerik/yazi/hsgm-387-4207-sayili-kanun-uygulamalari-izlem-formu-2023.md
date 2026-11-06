@@ -6,7 +6,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "http://hsgm.saglik.gov.tr/depo/Mevzuat/Tebligler/4207_Sayili_Kanun_Kapsaminda_Uygulanan_Para_Cezalari_2023.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 4207 SAYILI KANUN UYGULAMALARI İZLEME FORMU
@@ -23,25 +23,15 @@ A2. İkamete mahsus konutlar hariç olmak üzere kamu ve özel hukuk kişilerine
 
 / Okul öncesi eğitim kurumları, özel eğitim ve öğretim kurumları dahil olmak üzere ilk ve orta öğrenim kurumları, dershaneler,
 
-Kamuya Ait Bina ve Toplu
+Kamuya Ait Bina ve Toplu kültür ve sosyal hizmet binalarının kapalı ve açık alanlarında / Spor, kültür, sanat, eğlence vs. faaliyetlerinin yapıldığı açık alanlar
 
-kültür ve sosyal hizmet binalarının kapalı ve açık alanlarında / Spor, kültür, sanat, eğlence vs. faaliyetlerinin yapıldığı açık alanlar
+Taşıma Araçlarında ve bunların seyir yerleri ile yaşlı bakım evleri, ruh ve sinir hastalıkları hastaneleri, cezaevleri, şehirlerarası ve uluslararası
 
-Taşıma Araçlarında
+Kamu Görevlileri, güzergahlarda yolcu taşıyan denizyolu araçlarının güvertelerinde tütün tüketimine mahsus ayrılmış alanlar dışında / otelcilik 617 TL
 
-ve bunların seyir yerleri ile yaşlı bakım evleri, ruh ve sinir hastalıkları hastaneleri, cezaevleri, şehirlerarası ve uluslararası
+Özel Hukuk Kişilerine Ait Bina hizmeti verilen işletmelerde, tütün ürünleri kullanan müşterilerin konaklamasına tahsis edilmiş odalar dışındaki kapalı alanlarda (5326 S.K. Md: 39)
 
-Kamu Görevlileri,
-
-güzergahlarda yolcu taşıyan denizyolu araçlarının güvertelerinde tütün tüketimine mahsus ayrılmış alanlar dışında / otelcilik 617 TL
-
-Özel Hukuk Kişilerine Ait Bina
-
-hizmeti verilen işletmelerde, tütün ürünleri kullanan müşterilerin konaklamasına tahsis edilmiş odalar dışındaki kapalı alanlarda (5326 S.K. Md: 39)
-
-ve Toplu Taşıma Araçlarında
-
-tütün ürünleri kullanan şahıs görüldü mü?
+ve Toplu Taşıma Araçlarında tütün ürünleri kullanan şahıs görüldü mü?
 
 Kolluk Birimi Yetkilileri
 
@@ -67,9 +57,9 @@ Yetkili Merci
 
 B1. Toplam alanın %10’unu geçmeyecek şekilde düzenleme yapılmış mı?
 
-YAŞLI BAKIM EVİ, Özel Hukuk Kişilerine Ait İse 8.540
+YAŞLI BAKIM EVİ, Özel Hukuk Kişilerine Ait İse
 
-CEZAEVİ VEYA RUH ve B2. Bu alanların koku ve duman geçişini önleyecek şekilde tecridi yapılmış mı? TL’den 42.858 TL’ye Kadar
+CEZAEVİ VEYA RUH ve B2. Bu alanların koku ve duman geçişini önleyecek şekilde tecridi yapılmış mı? 8.540 TL’den 42.858 TL’ye Kadar
 
 Özel Hukuk
 
@@ -85,9 +75,7 @@ Mahalli Mülki Amir
 
 B4. Duvarlarında tütün ürünleri kullanımının zararlarını anlatan sağlık uyarıları görülebilir
 
-ULUSLARARASI Kamuya Ait İse
-
-yerlere asılmış mı? Kamuya Ait İse
+ULUSLARARASI Kamuya Ait İse yerlere asılmış mı? Kamuya Ait İse
 
 GÜZERGÂHLARDA YOLCU Disiplin Hükümleri
 
@@ -129,9 +117,7 @@ D1. İdari yaptırım kararı uygulamak için yazılı olarak yetkilendirilmiş 
 
 D2. Kamu hizmet binalarında “sigara odası” uygulaması devam ediyor mu?
 
-E. KAHVEHANE, KAFETERYA, BİRAHANE, NARGİLE İÇİLEN MEKÂN, DERNEK VE VAKIFLARA AİT LOKAL GİBİ EĞLENCE HİZMETİ VERİLEN İŞLETMELER
-
-İLE LOKANTA VE RESTORANLAR İÇİN:
+E. KAHVEHANE, KAFETERYA, BİRAHANE, NARGİLE İÇİLEN MEKÂN, DERNEK VE VAKIFLARA AİT LOKAL GİBİ EĞLENCE HİZMETİ VERİLEN İŞLETMELER İLE LOKANTA VE RESTORANLAR İÇİN:
 
 Uygulanması Gereken İdari Cezai İşlem Uygulamaya Yetkili
 

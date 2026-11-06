@@ -1,35 +1,10 @@
 ---
-id: "hsgm-905-aile-sagligi-calisanlarinin-tarama-ve-takip-katsayisina-iliskin-surec"
-baslik: "Aile Sağlığı Çalışanlarının Tarama ve Takip Katsayısına İlişkin Süreç"
-tur: "yazi"
-tarih: "2025-08-12"
-sayi: "E-99858683-869-284752150"
-birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
-kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
-kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Sagligi_Calisanlarinin_Tarama_Ve_Takip_Katsayisina_Iliskin_Surec.pdf"
-durum: "yürürlükte"
-otomatik: true
----
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
-
-BAŞKANLIĞI
-
-T.C.
-
-SAĞLIK BAKANLIĞI 284752150
 
 Halk Sağlığı Genel Müdürlüğü
 
-ACELE
+Sayı: E-99858683-869-284752150 12.08.2025
 
-Sayı : E-99858683-869-284752150 12.08.2025
-
-Konu : Aile Sağlığı Çalışanlarının Tarama Ve
-
-Takip Katsayısına İlişkin Süreç
+Konu: Aile Sağlığı Çalışanlarının Tarama Ve Takip Katsayısına İlişkin Süreç
 
 DAĞITIM YERLERİNE
 
@@ -50,7 +25,3 @@ Dağıtım:
 Gereği: Bilgi:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Elif KETENCİ
-
-Çankaya/Ankara 06800 Büro Personeli

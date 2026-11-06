@@ -8,7 +8,7 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/hastanelerde_Enfeksiyon_Kontrol_Programi_Hazirlama_Rehberi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -50,7 +50,5 @@ Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
 
 Kamu Hastaneleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Esen BATIR
 
 Çankaya/Ankara 06800 Hemşire

@@ -8,20 +8,12 @@ birim: "Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/2026_Yili_Sigara_Birakma_Poliklinigi_Hizmetleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-T.C.
-
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-86696344-281.02-301889115 18.01.2026
 
-Konu : 2026 Yılı Sigara Bırakma Polikliniği
-
-Hizmetleri
+Konu : 2026 Yılı Sigara Bırakma Polikliniği Hizmetleri
 
 DAĞITIM YERLERİNE
 
@@ -43,12 +35,6 @@ Bu kapsamda, sigara bırakma polikliniklerine yönelik toplam 1 milyon başvuru 
 
  Yerel düzeyde yazılı, görsel ve dijital mecralar kullanılarak farkındalık ve bilgilendirme faaliyetlerinin planlanması ve yürütülmesi,
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Mustafa ÇABA
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-1/2
-
  Kamu kurumları, yerel yönetimler ve ilgili paydaşlarla iş birliği içinde başvuruları artırmaya yönelik çalışmaların güçlendirilmesi hususunda,
 
 Bilgilerini ve gereğini rica ederim.
@@ -64,9 +50,3 @@ Ek: 2025-2026 SBP MUAYENE TABLOSU
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Mustafa ÇABA
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-2/2

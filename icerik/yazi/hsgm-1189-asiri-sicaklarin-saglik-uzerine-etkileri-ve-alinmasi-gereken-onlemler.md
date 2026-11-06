@@ -8,7 +8,7 @@ birim: "Çevre Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Asiri_Sicaklar.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -21,11 +21,7 @@ ACELE
 
 Sayı : E-19020089-101-319483448 29.06.2026
 
-Konu : Aşırı Sıcakların Sağlık Üzerine Etkileri ve
-
-Alınması Gereken Önlemler Hakkında
-
-Güncelleme
+Konu : Aşırı Sıcakların Sağlık Üzerine Etkileri ve Alınması Gereken Önlemler Hakkında Güncelleme
 
 DAĞITIM YERLERİNE
 
@@ -35,9 +31,7 @@ b) 18.06.2026 tarihli ve E-19020089-101-318178558 sayılı yazımız.
 
 İklim değişikliğinin etkisiyle Dünya’da görülen aşırı hava olayları nedeniyle, özellikle yaz aylarında sıcak hava dalgalarının sıklığı, şiddeti ve süresi artış göstermektedir. Bu durum kalp-damar, beyin-damar, solunum sistemi ve böbrek hastalıkları gibi bulaşıcı olmayan (kronik) hastalığı bulunan bireyler, 65 yaş ve üzeri yaşlılar, beş yaşından küçük çocuklar, gebeler, emziren anneler, açık alanda çalışanlar ve tek başına yaşayıp bakıma ihtiyacı olan kişiler başta olmak üzere toplumun tüm kesimlerinin sağlığını olumsuz yönde etkileyebilmektedir. Yürütülen çalışmalar, halk sağlığını tehdit eden bu olayların sağlık üzerindeki etkileri, yerel iklim değişikliği stratejisi kapsamında, meteorolojik uyarılar düzenli izlendiği ve gerekli tedbirler önceden planlanarak zamanında uygulandığı takdirde büyük ölçüde önlenebilmektedir
 
-Dünya genelinde aşırı sıcakların olumsuz etkilerinin artması nedeniyle, İklim Değişikliği ve Sağlık Bilimsel
-
-Danışma Kurulumuz ile Kronik Hastalık Programları Danışma Kurullarımız tarafından yapılan yeniden değerlendirme neticesinde hazırlanan ekli dokümanlarda; aşırı sıcaklar ve sıcak hava dalgalarının halk sağlığı üzerindeki olumsuz etkilerinin önlenmesi, risk altındaki grupların korunması, il ve ilçe düzeyindeki sağlık kurum ve kuruluşlarının hazırlıklı olmalarının sağlanması ve kurumlar arası koordinasyonun güçlendirilmesine yönelik esaslar belirlenmiştir. Bu çerçevede;
+Dünya genelinde aşırı sıcakların olumsuz etkilerinin artması nedeniyle, İklim Değişikliği ve Sağlık Bilimsel Danışma Kurulumuz ile Kronik Hastalık Programları Danışma Kurullarımız tarafından yapılan yeniden değerlendirme neticesinde hazırlanan ekli dokümanlarda; aşırı sıcaklar ve sıcak hava dalgalarının halk sağlığı üzerindeki olumsuz etkilerinin önlenmesi, risk altındaki grupların korunması, il ve ilçe düzeyindeki sağlık kurum ve kuruluşlarının hazırlıklı olmalarının sağlanması ve kurumlar arası koordinasyonun güçlendirilmesine yönelik esaslar belirlenmiştir. Bu çerçevede;
 
 yazımız eklerinde yer alan dokümanlarda belirtilen hususların ilgili tüm sağlık kurum ve kuruluşlarına duyurulması, gerekli tedbirlerin eklerde belirtilen esaslar doğrultusunda eksiksiz uygulanması, halkın bilinçlendirilmesi ve uygulamaların titizlikle takip edilmesi gerekmektedir. Ayrıca daha önce yayınlanan ilgi (a) ve (b) yazılarımız yürürlükten kaldırılarak, mevcut yazı doğrultusunda yapılan çalışmalarla ilgili olarak hazırlanacak faaliyet raporunun 2026 yılı Ekim ayının ilk haftasına kadar Genel Müdürlüğümüze gönderilmesi hususunda;
 
@@ -53,13 +47,11 @@ Ek:
 
 1 - EK 1-Risk Grupları
 
-2 - EK 2-İl Valiliklerininin Koordinasyonunda Yürütülecek İş Ve İşlemler 3 - EK 3-Alınması Gereken Önlemler 4 - EK 4-Aşırı Sıcakların Sağlık Üzerine Etkileri
+2 - EK 2-İl Valiliklerininin Koordinasyonunda Yürütülecek İş Ve İşlemler
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Özge MIHCI
+3 - EK 3-Alınması Gereken Önlemler
 
-Çankaya/Ankara 06800 Uzman Tabip
-
-1/2
+4 - EK 4-Aşırı Sıcakların Sağlık Üzerine Etkileri
 
 5 - EK 5-Bağıl Nem - Sıcaklık (Hissedilen Sıcaklık) Tablosu
 
@@ -69,13 +61,9 @@ Dağıtım:
 
 Gereği: Bilgi:
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Özge MIHCI
-
-Çankaya/Ankara 06800 Uzman Tabip
-
-2/2
+A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
 
 EK-1
 
@@ -113,7 +101,9 @@ Aşırı sıcaklardan en çok etkilenen gruplar:
 
 - Üst katlarda, çatı katlarında veya yetersiz havalandırılan/yalıtımsız konutlarda yaşayanlar
 
-- Düşük sosyoekonomik düzeye sahip olup soğutma sistemine erişimi kısıtlı hanelerde yaşayanlar 2. Sıcak Hava-Sağlık Erken Uyarı Sistemi
+- Düşük sosyoekonomik düzeye sahip olup soğutma sistemine erişimi kısıtlı hanelerde yaşayanlar
+
+2. Sıcak Hava-Sağlık Erken Uyarı Sistemi
 
 Sıcak hava-sağlık eylem planlarının temel bileşeni, meteorolojik tahminlerin sağlık müdahalesine dönüştürüldüğü erken uyarı sistemidir. Bu doğrultuda:
 
@@ -123,9 +113,7 @@ Sıcak hava-sağlık eylem planlarının temel bileşeni, meteorolojik tahminler
 
 EK-2
 
-İL VALİLİKLERİNİNİN KOORDİNASYONUNDA YÜRÜTÜLECEK İŞ VE
-
-İŞLEMLER
+İL VALİLİKLERİNİNİN KOORDİNASYONUNDA YÜRÜTÜLECEK İŞ VE İŞLEMLER
 
 1. Kurumsal Koordinasyon
 
@@ -181,19 +169,13 @@ Aşırı sıcaklar, sıcaklık ve nem artışına bağlı olarak vücut ısısı
 
 A. Genel Korunma Tedbirleri
 
-- Günün en sıcak saatlerinde (şehirlere ve bölgeye göre değişmekle birlikte, Meteoroloji
-
-Genel Müdürlüğü tarafından aksi belirtilmedikçe, özellikle 10.00-16.00 saatleri arasında)
-
-mecbur kalınmadıkça dışarı çıkılmamalıdır.
+- Günün en sıcak saatlerinde (şehirlere ve bölgeye göre değişmekle birlikte, Meteoroloji Genel Müdürlüğü tarafından aksi belirtilmedikçe, özellikle 10.00-16.00 saatleri arasında) mecbur kalınmadıkça dışarı çıkılmamalıdır.
 
 - Dışarıda açık renkli, hafif, bol ve sıkı dokunmuş kumaşlardan yapılan giysiler tercih edilmeli; geniş kenarlı, hava delikli şapka ve güneşin zararlı ışınlarından koruyan güneş gözlüğü kullanılmalıdır.
 
 - Açık alanda çalışmak zorunda olanlar güneş altında korunmasız kalmamaya, aşırı hareketlerden kaçınmaya ve sık sık sulu gıdalar almaya özen göstermelidir.
 
-- Güneş ışınlarının dik geldiği saatlerde ((şehirlere ve bölgeye göre değişmekle birlikte,
-
-Meteoroloji Genel Müdürlüğü tarafından aksi belirtilmedikçe, özellikle 10.00-16.00 saatleri arasında) denize girilmemeli ve güneşlenilmemelidir. Dışarıya çıkarken, dermatoloji uzmanlarının bireye özel olarak önerdikleri güneşten koruyucu ürünler (en az 30 koruma faktörlü) kullanılmalı, şapka ve gözlük gibi koruyucu önlemler alınmalı, uzun süre kesintisiz güneşlenilmemelidir.
+- Güneş ışınlarının dik geldiği saatlerde ((şehirlere ve bölgeye göre değişmekle birlikte, Meteoroloji Genel Müdürlüğü tarafından aksi belirtilmedikçe, özellikle 10.00-16.00 saatleri arasında) denize girilmemeli ve güneşlenilmemelidir. Dışarıya çıkarken, dermatoloji uzmanlarının bireye özel olarak önerdikleri güneşten koruyucu ürünler (en az 30 koruma faktörlü) kullanılmalı, şapka ve gözlük gibi koruyucu önlemler alınmalı, uzun süre kesintisiz güneşlenilmemelidir.
 
 - Yoğun fiziksel aktivite için sabah ve akşam saatleri tercih edilmeli; her bir saatlik spor için en az 2-4 bardak sıvı alınmalı, ağır fiziksel aktivitelerden kaçınılmalıdır.
 
@@ -289,9 +271,7 @@ Sıcak ve nemli havalarda aşırı terlemeye bağlı deri tahrişidir; her yaşt
 
 f) Güneşin Geç Dönem Etkileri
 
-Güneş ışınlarının sağlık üzerinde önemli olumlu etkileri bulunmakla birlikte, uzun süreli maruziyet ciltte erken yaşlanma, gözde katarakt gelişimi, deri kanseri ve güneş lekeleri gibi olumsuz etkilere yol açabilir. Bu olumsuz etkilerden korunmak için “Genel Korunma
-
-Tedbirlerine” uyulmalıdır.
+Güneş ışınlarının sağlık üzerinde önemli olumlu etkileri bulunmakla birlikte, uzun süreli maruziyet ciltte erken yaşlanma, gözde katarakt gelişimi, deri kanseri ve güneş lekeleri gibi olumsuz etkilere yol açabilir. Bu olumsuz etkilerden korunmak için “Genel Korunma Tedbirlerine” uyulmalıdır.
 
 g) Sıcağa Bağlı Diğer Klinik Riskler
 
@@ -305,9 +285,7 @@ EK-5
 
 BAĞIL NEM - SICAKLIK (HİSSEDİLEN SICAKLIK) TABLOSU
 
-Aşağıdaki tablo, hava sıcaklığı ve bağıl nem değerlerine göre hissedilen sıcaklığı (ısı indeksini)
-
-göstermektedir.
+Aşağıdaki tablo, hava sıcaklığı ve bağıl nem değerlerine göre hissedilen sıcaklığı (ısı indeksini) göstermektedir.
 
 EK-6
 

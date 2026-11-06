@@ -8,7 +8,7 @@ birim: "Göç Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/SIHHAT_Projesi_Personel_Isleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -37,7 +37,7 @@ Akdedilen belirli süreli iş sözleşmesinin Günlük ve Haftalık Çalışma S
 
 Radyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanun Ek 1’inci maddesi hükümlerine uygun olmak kaydıyla Radyoloji Teknisyenlerinin Haftalık Çalışma Süresi 35 saattir.” hükümleri yer almaktadır.
 
-İstihdam edilen personelin yıllık izinlerine ilişkin hususlar, 4857 Sayılı İş Kanunu’nun 53 ve sair maddeleri ile 03.03.2004 tarih ve 25391 sayılı Resmi Gazete ’de yayımlanan Yıllık Ücretli İzin Yönetmeliği çerçevesinde değerlendirilmekte ve ilgili kanun maddeleri ve yönetmelik uyarınca yayımlanan “SIHHAT Projesi
+İstihdam edilen personelin yıllık izinlerine ilişkin hususlar, 4857 Sayılı İş Kanunu’nun 53 ve sair maddeleri ile 03.03.2004 tarih ve 25391 sayılı Resmî Gazete’de yayımlanan Yıllık Ücretli İzin Yönetmeliği çerçevesinde değerlendirilmekte ve ilgili kanun maddeleri ve yönetmelik uyarınca yayımlanan “SIHHAT Projesi
 
 İzin Prosedürü” doğrultusunda uygulanmaktadır. Personelin yıllık ücretli izin hakkedişleri, 4857 Sayılı İş Kanunu
 
@@ -50,12 +50,6 @@ Gazete ‘de yayımlanan Tasarruf Tedbirleri konulu genelgenin personel giderler
 -Personel çalışma saatlerinin hizmet gereklilikleri doğrultusunda, günde 11 saati aşmayacak şekilde, 06.04.2004 tarih ve 25425 sayılı Resmî Gazete ‘de yayımlanan İş Kanunu’na İlişkin Çalışma Süreleri
 
 Yönetmeliğinde yer alan hükümler dikkate alınarak belirlenmesi,
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Oğuz Sancar ŞAHİN
-
-Çankaya/Ankara 06800 Uzman
-
-1/5
 
 -Zorunlu haller dışında personel çalışma planının fazla çalışma ve nöbet ücreti oluşmayacak şekilde yapılması,
 
@@ -113,12 +107,6 @@ Antalya Valiliğine
 
 Aydın Valiliğine
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Oğuz Sancar ŞAHİN
-
-Çankaya/Ankara 06800 Uzman
-
-2/5
-
 (İl Sağlık Müdürlüğü)
 
 Balıkesir Valiliğine
@@ -137,7 +125,7 @@ Bingöl Valiliğine
 
 (İl Sağlık Müdürlüğü)
 
-BitlişValiliğine
+Bitlis Valiliğine
 
 (İl Sağlık Müdürlüğü)
 
@@ -221,12 +209,6 @@ Karaman Valiliğine
 
 Kastamonu Valiliğine
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Oğuz Sancar ŞAHİN
-
-Çankaya/Ankara 06800 Uzman
-
-3/5
-
 (İl Sağlık Müdürlüğü)
 
 Kayseri İl Sağlık Müdürlüğüne
@@ -239,7 +221,7 @@ Kırşehir Valiliğine
 
 (İl Sağlık Müdürlüğü)
 
-KilişValiliğine
+Kilis Valiliğine
 
 (İl Sağlık Müdürlüğü)
 
@@ -311,7 +293,7 @@ Siirt Valiliğine
 
 (İl Sağlık Müdürlüğü)
 
-SivaşValiliğine
+Sivas Valiliğine
 
 (İl Sağlık Müdürlüğü)
 
@@ -328,12 +310,6 @@ Tekirdag ̆Valiliğine
 (İl Sağlık Müdürlüğü)
 
 Tokat Valiliğine
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Oğuz Sancar ŞAHİN
-
-Çankaya/Ankara 06800 Uzman
-
-4/5
 
 (İl Sağlık Müdürlüğü)
 
@@ -356,9 +332,3 @@ Yalova Valiliğine
 Yozgat Valiliğine
 
 (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Oğuz Sancar ŞAHİN
-
-Çankaya/Ankara 06800 Uzman
-
-5/5

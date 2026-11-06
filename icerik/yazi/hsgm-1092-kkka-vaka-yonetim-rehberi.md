@@ -8,7 +8,7 @@ birim: "Zoonotik ve Vektörel Hastalıklar Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/KKKA_Vaka_Yonetim_Rehberi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -25,9 +25,7 @@ DAĞITIM YERLERİNE
 
 Kırım Kongo Kanamalı Ateşi (KKKA) başlıca kene tutunması veya keneyle temas sonucunda bulaşan bir zoonotik hastalıktır. Hastalığa yönelik yeteri kadar etkili, teyit edilmiş spesifik bir tedavi olmadığından korunma ve kontrol önlemlerinin alınması büyük önem arz etmektedir.
 
-Bu kapsamda hazırlanan KKKA Vaka Yönetim Rehberi ekte gönderilmekte olup ayrıca Halk Sağlığı
-
-Genel Müdürlüğü Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı web sayfasında da yayınlanmıştır.
+Bu kapsamda hazırlanan KKKA Vaka Yönetim Rehberi ekte gönderilmekte olup ayrıca Halk Sağlığı Genel Müdürlüğü Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı web sayfasında da yayınlanmıştır.
 
 KKKA hastalığına yönelik yürütülecek olan tanı, tedavi ve korunma önlemleri faaliyetlerinin söz konusu rehber doğrultusunda yapılması hususunda;
 
@@ -46,7 +44,3 @@ Dağıtım:
 81 İl Valiliğine
 
 (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Uzm. Dr. Selda ŞAHAN
-
-Çankaya/Ankara 06430 Birim Sorumlusu

@@ -6,16 +6,14 @@ birim: "Halk Sağlığı Referans Laboratuvarları Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Piyasa_Gozetimi-Denetimi_PGd_Numunelerinin_Mikrobiyoloji_Analizleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
--
 
 Tenni mux sAĞLIĞIKURL'All: İ-asaHALK
 
 SAĞLITA LABORATUVAR/ AR DAIRE
 
-a,asıckvılöı
+a, asıckvılöı
 
 21e4- ı sos '3 45055 943 0_0 'UV
 
@@ -23,7 +21,7 @@ IIUIIII
 
 Ü' ) T.C.
 
-- C Snk .±.4 • ,,51 00ş
+- C Snk.±.4 •, , 51 00ş
 
 TormalihatIbgıg. SAĞLIK BAKANLIĞI
 
@@ -31,9 +29,9 @@ TormalihatIbgıg. SAĞLIK BAKANLIĞI
 
 Türkiye Halk Sağlığı Kurumu
 
-Sayı : 626605021
+Sayı: 626605021
 
-Konu : Piyasa Gözetimi-Denetimi (PGD)
+Konu: Piyasa Gözetimi-Denetimi (PGD)
 
 numunelerinin mikrobiyolojik
 
@@ -75,13 +73,7 @@ Laboratuvarları ile Tüketici Güvenliği Laboratuvarları Daire Başkanlığı
 
 A.Ş. idi bilgi için: THSK Tüketici ve Çalışan Güvenliği Başkan Yardımcılığı
 
-Halk Sağlığı Laboratuvarları Daire Başkanlığı Tel: O 3I2 565 54 77 Fax: O 312 565 57 08
-
 Sağlık Mahallesi Adnan Saygun Cad. No: 55 Sıhhıye-ANKARA
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmısur.
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.0 adresinderı be9f55b84d0e-410e-97d6-ce304(7d7e8d kodu ile erişebilirsiniz.
 
 Bununla birlikte, PGD kapsamında laboratuvarlara gönderilen kaynak suları, içme suları ve doğal mineralli sularda; numune alma noktasının uzaklığı ve ulaşımdaki güçlüklerden dolayı, ilgi (c) yazı ekinde yer alan numune kabul lcriterlerinde verilen süre şartına zaman zaman uyulamadıgından sıkıntılar yaşandığı hususlar, tespit edilmiştir.
 
@@ -109,14 +101,8 @@ Gereği: Bilgi:
 
 (Halk Sağlığı Müdürlüğü)
 
-AŞ. tılı bilgi için: THSK Tüketici ve Çalışan Güvenliği Başkan Yardımcılığı
-
-Halk Sağlığı Laboratuvarlan Daire Başkanlığı Tel: O 312 565 54 77 Fax: O 312 565 57 08
-
-.
+AŞ. tılı bilgi için: THSK Tüketici ve Çalışan Güvenliği Başkan Yardımcılığı.
 
 Sağlık Mahallesi Adnan Saygun Cad. No: $5 Sıhhıye-ANKARA
 
-Bu belge 5070 saydı elektronik imza kanuna göre güvenli elektronik imza ıle imzalamnıstır.
-
-Evmlon elekıronik imzalı suretine lıttp://e-belge.saglik.govir adresinden be9f55b84d0e-410c-97d6-ce304f7d7c8d kodu ile erisebilirsiniz.
+Evmlon elekıronik imzalı suretine lıttp: //e-belge.saglik.govir adresinden be9f55b84d0e-410c-97d6-ce304f7d7c8d kodu ile erisebilirsiniz.

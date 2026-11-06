@@ -8,7 +8,7 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Yogun_Bakim_Unitelerinde_Antibiyotik_Kullanim_Surveyansi_Yapilmayan_Hastaneler.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,11 +19,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-13588366-771-307955709 12.03.2026
 
-Konu : Yoğun Bakım Ünitelerinde Antibiyotik
-
-Kullanım Sürveyansı Yapılmayan
-
-Hastaneler
+Konu : Yoğun Bakım Ünitelerinde Antibiyotik Kullanım Sürveyansı Yapılmayan Hastaneler
 
 DAĞITIM YERLERİNE
 
@@ -52,7 +48,3 @@ Gereği: Bilgi:
 Sağlık Hizmetleri Genel Müdürlüğüne
 
 Kamu Hastaneleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Esen BATIR
-
-Çankaya/Ankara 06800 Hemşire

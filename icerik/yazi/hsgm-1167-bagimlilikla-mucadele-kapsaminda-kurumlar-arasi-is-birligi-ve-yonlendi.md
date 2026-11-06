@@ -8,9 +8,8 @@ birim: "Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Bagimlilikla_Mucadele_Kapsaminda_Kurumlar_Arasi_Is_Birligi_ve_Yonlendirme_Surecleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -19,9 +18,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-86696344-289-307140378 09.03.2026
 
-Konu : Bağımlılıkla Mücadele Kapsamında
-
-Kurumlar Arası İş Birliği ve Yönlendirme
+Konu : Bağımlılıkla Mücadele Kapsamında Kurumlar Arası İş Birliği ve Yönlendirme
 
 Süreçleri
 
@@ -44,12 +41,6 @@ Doç. Dr. Muhammed Emin DEMİRKOL
 Bakan a.
 
 Halk Sağlığı Genel Müdürü
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Elif COŞKUN KEÇECİ
-
-Çankaya/Ankara 06800 Ebe
-
-1/2
 
 Dağıtım:
 
@@ -94,9 +85,3 @@ Türkiye İstatistik Kurumu Başkanlığına
 Ulaştırma ve Altyapı Bakanlığına
 
 Yükseköğretim Kurulu Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Elif COŞKUN KEÇECİ
-
-Çankaya/Ankara 06800 Ebe
-
-2/2

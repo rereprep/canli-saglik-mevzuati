@@ -8,9 +8,8 @@ birim: "Zoonotik ve Vektörel Hastalıklar Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Sitma_Hastaligi_ile_Mucadele.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -45,12 +44,6 @@ Konuya ilişkin bilgilerinizi ve yukarıda belirtilen çalışmaların büyük b
 
 Gereğini rica ederim.
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Gülser DOĞAN TÜRKÇELİK
-
-Çankaya/Ankara 06800 Birim Sorumlusu
-
-1/2
-
 Doç. Dr. Muhammed Emin DEMİRKOL
 
 Bakan a.
@@ -72,9 +65,3 @@ Halk Sağlığı Genel Müdürlüğü
 (Mikrobiyoloji Referans Laboratuvarı ve Biyolojik
 
 Ürünler Daire Başkanlığına)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Gülser DOĞAN TÜRKÇELİK
-
-Çankaya/Ankara 06800 Birim Sorumlusu
-
-2/2

@@ -1,31 +1,10 @@
 ---
-id: "hsgm-901-aile-hekimligi-ucretli-islem-gelirleri"
-baslik: "Aile Hekimliği Ücretli İşlem Gelirleri"
-tur: "yazi"
-tarih: "2025-08-24"
-sayi: "E-99858683-755.05-286071304"
-birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
-kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
-kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Hekimligi_Ucretli_Islem_Gelirleri.pdf"
-durum: "yürürlükte"
-otomatik: true
----
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
-
-BAŞKANLIĞI
-
-T.C.
-
-SAĞLIK BAKANLIĞI 286071304
 
 Halk Sağlığı Genel Müdürlüğü
 
-Sayı : E-99858683-755.05-286071304 24.08.2025
+Sayı: E-99858683-755.05-286071304 24.08.2025
 
-Konu : Aile Hekimliği Ücretli İşlem Gelirleri
+Konu: Aile Hekimliği Ücretli İşlem Gelirleri
 
 DAĞITIM YERLERİNE
 
@@ -37,9 +16,7 @@ DAĞITIM YERLERİNE
 
 3) Aile hekimleri ve aile sağlığı çalışanlarına ödemeler yapıldıktan sonra kalan tutarlar ilgi yazı gereğince aile sağlığı merkezlerinin kurumsal kimlik kılavuzu kapsamında, il sağlık müdürlüklerince yapılması gereken harcamalarında ve Bakanlığımız onayıyla kullanılacaktır.
 
-4) İl sağlık müdürlüğünce kurumsal kimlik kılavuzu kapsamında yapılacak olan harcama talepleri Halk
-
-Sağlığı Genel Müdürlüğünce incelenerek uygun görülmesi halinde, Strateji Geliştirme Başkanlığından analitik bütçe sistemi üzerinden TDMS’de hazırlanan raporlar doğrultusunda bütçe talebinde bulunularak yapılacaktır.
+4) İl sağlık müdürlüğünce kurumsal kimlik kılavuzu kapsamında yapılacak olan harcama talepleri Halk Sağlığı Genel Müdürlüğünce incelenerek uygun görülmesi halinde, Strateji Geliştirme Başkanlığından analitik bütçe sistemi üzerinden TDMS’de hazırlanan raporlar doğrultusunda bütçe talebinde bulunularak yapılacaktır.
 
 5) Tahsis edilen bütçe amacı dışında kullanılmayacaktır.
 
@@ -58,7 +35,3 @@ Gereği: Bilgi:
 Strateji Geliştirme Başkanlığına Hukuk Hizmetleri Genel Müdürlüğüne
 
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne Teftiş Kurulu Başkanlığına 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Dr. Sezi SAZLI
-
-Çankaya/Ankara 06800 Tabip

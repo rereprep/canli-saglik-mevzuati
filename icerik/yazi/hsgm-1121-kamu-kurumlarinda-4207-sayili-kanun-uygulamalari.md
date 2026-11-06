@@ -8,9 +8,8 @@ birim: "Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Kamu_Kurumlarinda_4207_Sayili_Kanun_Uygulamalari_1.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -56,7 +55,3 @@ Ek:
 1 - Kayıt Girişinde Dikkat Edilecek Hususlar
 
 2 - Dağıtım Listesi (81 Muhatap)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Hatice ÖNGÖÇMEN
-
-Çankaya/Ankara 06800 Sağlık Teknikeri

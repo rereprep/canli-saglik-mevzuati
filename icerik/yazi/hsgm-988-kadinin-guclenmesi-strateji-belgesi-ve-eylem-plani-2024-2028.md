@@ -8,7 +8,7 @@ birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Kadinin_Guclenmesi_Strateji_Belgesi_ve_Eylem_Plani.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,9 +19,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-57536863-770-253551562 12.09.2024
 
-Konu : Kadının Güçlenmesi Strateji Belgesi ve
-
-Eylem Planı (2024-2028)
+Konu : Kadının Güçlenmesi Strateji Belgesi ve Eylem Planı (2024-2028)
 
 DAĞITIM YERLERİNE
 
@@ -37,13 +35,9 @@ Savunma Bakanlığına (MSB) "erbaş ve erlere yönelik cinsel sağlık/üreme s
 
 Bu kapsamda;
 
-- Eğitimin, talep eden MSB bağlısı birlik/kurumlar bünyesinde yükümlü erbaş ve erlere askerlik süresi boyunca bir kez olmak üzere Üreme Sağlığı Eğitim Becerileri Eğitimine sahip sağlık personeli (hekim, ebe ve hemşire)
+- Eğitimin, talep eden MSB bağlısı birlik/kurumlar bünyesinde yükümlü erbaş ve erlere askerlik süresi boyunca bir kez olmak üzere Üreme Sağlığı Eğitim Becerileri Eğitimine sahip sağlık personeli (hekim, ebe ve hemşire) tarafından 45 dakikalık 1 (bir) ders saati olacak şekilde verilmesi,
 
-tarafından 45 dakikalık 1 (bir) ders saati olacak şekilde verilmesi,
-
-- Eğitim talep eden MSB bağlısı birlik/kurumlarla koordinasyon sağlanarak tasarruf tedbirleri kapsamında ilave maliyet doğurmayacak şekilde eğitim öncesinde eğitim verilecek yerin nitelikleri, zamanı ve eğitim alacak kişi sayısı ile ilgili planlamanın yapılması ve Müdürlüğünüz tarafından görevlendirilen Üreme Sağlığı Eğitim
-
-Becerileri Eğitimine sahip sağlık personelinin (hekim, ebe ve hemşire) MSB bağlısı birlik/kurumlar tarafından ulaşımının sağlanması hususunda;
+- Eğitim talep eden MSB bağlısı birlik/kurumlarla koordinasyon sağlanarak tasarruf tedbirleri kapsamında ilave maliyet doğurmayacak şekilde eğitim öncesinde eğitim verilecek yerin nitelikleri, zamanı ve eğitim alacak kişi sayısı ile ilgili planlamanın yapılması ve Müdürlüğünüz tarafından görevlendirilen Üreme Sağlığı Eğitim Becerileri Eğitimine sahip sağlık personelinin (hekim, ebe ve hemşire) MSB bağlısı birlik/kurumlar tarafından ulaşımının sağlanması hususunda;
 
 Bilgilerini ve gereğini arz ve rica ederim.
 
@@ -52,12 +46,6 @@ Doç. Dr. Muhammed Emin DEMİRKOL
 Bakan a.
 
 Genel Müdür
-
-Ön Cebeci Mahallesi Mahmut Esat Bozkurt Caddesi Umut Sokak No !9 Kolej Ek Bilgi için: Şeyma EMİRALİOĞLU
-
-Hizmet Binası 06430 Hemşire
-
-1/2
 
 Ek: Eğitim Sunumu
 
@@ -68,9 +56,3 @@ Gereği: Bilgi:
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Milli Savunma Bakanlığına (Askeri Sağlık Hizmetleri
 
 Genel Müdürlüğü)
-
-Ön Cebeci Mahallesi Mahmut Esat Bozkurt Caddesi Umut Sokak No !9 Kolej Ek Bilgi için: Şeyma EMİRALİOĞLU
-
-Hizmet Binası 06430 Hemşire
-
-2/2

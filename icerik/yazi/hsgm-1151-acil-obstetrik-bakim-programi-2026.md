@@ -8,16 +8,8 @@ birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Acil_Obstetrik_Bakim_Programi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-T.C.
-
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
-
-GÜNLÜDÜR
 
 Sayı : E-57536863-231.01.03-302097926 20.01.2026
 
@@ -33,13 +25,9 @@ Acil Obstetrik Bakım Programı kapsamındaki ilinizde yapılması gereken çal�
 
 Hazırlanan İl Eylem Planı, her yıl Şubat ayının son haftasına kadar Kadın ve Üreme Sağlığı Daire Başkanlığı’na gönderilecektir.
 
-İl Eylem Planı’nı gerçekleştirmek için ilde sağlık sektörü dışında hizmet veren diğer kamu kurum ve kuruluşlarıyla da işbirliği yapılması amacıyla yılda bir kez “Sektörler Arası İşbirliği Toplantısı” düzenlenerek Ek 2’deki formata uygun olarak “Aktivite Planı” hazırlanacaktır. Aktivite Planı da her yıl Şubat ayının son haftasına kadar Kadın ve Üreme Sağlığı
+İl Eylem Planı’nı gerçekleştirmek için ilde sağlık sektörü dışında hizmet veren diğer kamu kurum ve kuruluşlarıyla da işbirliği yapılması amacıyla yılda bir kez “Sektörler Arası İşbirliği Toplantısı” düzenlenerek Ek 2’deki formata uygun olarak “Aktivite Planı” hazırlanacaktır. Aktivite Planı da her yıl Şubat ayının son haftasına kadar Kadın ve Üreme Sağlığı Daire Başkanlığı'na gönderilecektir.
 
-Daire Başkanlığı'na gönderilecektir.
-
-Kamu Hastaneleri Genel Müdürlüğü ile ortak çalışma sonucunda Ek 3’de yer alan Acil Obstetrik Bakım Kuruluş
-
-Kriterleri doğrultusunda hazırlanan ve Ek 4’de yer alan Temel, Kapsamlı ve Perinatal Acil Obstetrik Bakım Kuruluşları ile birlikte varsa ilinizdeki üniversite hastanesi/hastaneleride dahil edilmek suretiyle “İl Acil Obstetrik Sevk Haritası” oluşturulacaktır. 31.01.2014 tarih ve E.5679.8973 sayılı “Anne Ölümlerinin Önlenmesi ASKOM Toplantı Gündemi” konulu yazımızda da belirtildiği üzere ilinizde acil obstetrik vaka sevkinin; belirlenen hastaneler doğrultusunda yapılması, obstetrik vaka sevkinden kaynaklanan problemlerin giderilmesi ve ilinize ait Acil Obstetrik Sevk Haritası’nın İl Sağlık
+Kamu Hastaneleri Genel Müdürlüğü ile ortak çalışma sonucunda Ek 3’de yer alan Acil Obstetrik Bakım Kuruluş Kriterleri doğrultusunda hazırlanan ve Ek 4’de yer alan Temel, Kapsamlı ve Perinatal Acil Obstetrik Bakım Kuruluşları ile birlikte varsa ilinizdeki üniversite hastanesi/hastaneleri de dahil edilmek suretiyle “İl Acil Obstetrik Sevk Haritası” oluşturulacaktır. 31.01.2014 tarih ve E.5679.8973 sayılı “Anne Ölümlerinin Önlenmesi ASKOM Toplantı Gündemi” konulu yazımızda da belirtildiği üzere ilinizde acil obstetrik vaka sevkinin; belirlenen hastaneler doğrultusunda yapılması, obstetrik vaka sevkinden kaynaklanan problemlerin giderilmesi ve ilinize ait Acil Obstetrik Sevk Haritası’nın İl Sağlık
 
 Müdürlüğü liderliğinde hazırlanarak uygulamaya konulması önem arz etmektedir. İl Acil Obstetrik Sevk Haritası da her yıl
 
@@ -51,15 +39,9 @@ Eğitimlere ait plan ve raporlar, yılda iki kez Haziran ve Aralık aylarının 
 
 Eğitim sonrası katılımcılara verilecek “Eğitim Belgesi” formatı Ek 7 ve Ek 8’de yer almaktadır.
 
-Acil Obstetrik Bakım Programı kapsamında yürütülen tüm bu çalışmaların eklerde bulunan formlarla takip edilerek düzenli olarak Kadın ve Üreme Sağlığı DaireBaşkanlığı'na gönderilmesi ve programın ilinizde titizlikle yürütülmesi hususunda;
+Acil Obstetrik Bakım Programı kapsamında yürütülen tüm bu çalışmaların eklerde bulunan formlarla takip edilerek düzenli olarak Kadın ve Üreme Sağlığı Daire Başkanlığı'na gönderilmesi ve programın ilinizde titizlikle yürütülmesi hususunda;
 
 Bilgilerinizi ve gereği için ilgililere emirlerinizi rica ederim.
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: İMMAHAN GÜNAYDIN
-
-Çankaya/Ankara 06800 Ebe
-
-1/2
 
 Prof. Dr. Muhammed ÖGÜN
 
@@ -90,9 +72,3 @@ Ek:
 Dağıtım:
 
 81 İL VALİLİĞİNE (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: İMMAHAN GÜNAYDIN
-
-Çankaya/Ankara 06800 Ebe
-
-2/2

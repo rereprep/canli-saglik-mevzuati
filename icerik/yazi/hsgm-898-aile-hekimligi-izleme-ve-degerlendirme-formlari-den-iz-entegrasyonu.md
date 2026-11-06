@@ -8,12 +8,8 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Hekimligi_Izleme_ve_Degerlendirme_Formlari_Den-Iz_Entegrasyonu.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM AİLE HEKİMLİĞİ EĞİTİM VE İZLEME DAİRE BAŞKANLIĞI
-
-HSGM İZLEME VE DEĞERLENDİRME BİRİMİ
 
 T.C.
 
@@ -54,7 +50,3 @@ Halk Sağlığı Genel Müdürü
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Yasemin GÜÇTAŞ
-
-Çankaya/Ankara 06430 Birim Sorumlusu

@@ -8,16 +8,12 @@ birim: "Toplum Sağlığı Hizmetleri ve Eğitim Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/SAHA_Saglik_Elcileri_Akademi_Egitimleri_1.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
 
 HSGM TOPLUM SAĞLIĞI HİZMETLERİ VE EĞİTİM DAİRE
 
 BAŞKANLIĞI
-
-T.C.
 
 SAĞLIK BAKANLIĞI 274801985
 
@@ -48,25 +44,3 @@ Doç. Dr. Muhammed Emin DEMİRKOL
 Bakan a.
 
 Halk Sağlığı Genel Müdürü
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Gülay TÜRKMEN
-
-Çankaya/Ankara 06800 Diyetisyen
-
-1/2
-
-Dağıtım:
-
-Gereği: Bilgi:
-
-81 İl Valiliğine Halk Sağlığı Genel Müdürlüğü Tüm Daire
-
-(İl Sağlık Müdürlüğü) Başkanlıkları ve Koordinatörlükler
-
-Sağlığın Geliştirilmesi Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Gülay TÜRKMEN
-
-Çankaya/Ankara 06800 Diyetisyen
-
-2/2

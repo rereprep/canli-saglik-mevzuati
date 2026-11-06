@@ -8,7 +8,7 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/SAHU_EASM_Muafiyet_Belgeleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,9 +19,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-19831278-422.99-255483153 07.10.2024
 
-Konu : SAHU Asistanları ile EASM'de Görev
-
-Yapan Asistanların Muafiyet Belgeleri
+Konu : SAHU Asistanları ile EASM'de Görev Yapan Asistanların Muafiyet Belgeleri
 
 DAĞITIM YERLERİNE
 
@@ -41,12 +39,6 @@ Doç. Dr. Muhammed Emin DEMİRKOL
 
 Bakan a.
 
-Halk Sağlığı Genel Müdürü
-
-Sağlık Mahallesi A.Adnan Saygun Caddesi No 55 Sıhhiye 06430 Bilgi için: Mürsel BATGA 1/2
-
-Dağıtım:
+Halk Sağlığı Genel Müdürü Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Sağlık Mahallesi A.Adnan Saygun Caddesi No 55 Sıhhiye 06430 Bilgi için: Mürsel BATGA 2/2

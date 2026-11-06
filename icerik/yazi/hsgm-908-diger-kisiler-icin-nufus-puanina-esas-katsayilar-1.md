@@ -8,24 +8,14 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Diger_Kisiler_Icin_Nufus_Puanina_Esas_Katsayilar-1.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
 
 BAŞKANLIĞI
 
-T.C.
+Sayı: E-99858683-045.01-266947377 29.01.2025
 
-SAĞLIK BAKANLIĞI 266947377
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı : E-99858683-045.01-266947377 29.01.2025
-
-Konu : Diğer Kişiler İçin Nüfus Puanına Esas
+Konu: Diğer Kişiler İçin Nüfus Puanına Esas
 
 Katsayılar
 
@@ -58,7 +48,3 @@ Gereği: Bilgi:
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne Teftiş Kurulu Başkanlığına
 
 Strateji Geliştirme Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Dr. Aslıhan KAHRAMAN KOÇAN
-
-Çankaya/Ankara 06800

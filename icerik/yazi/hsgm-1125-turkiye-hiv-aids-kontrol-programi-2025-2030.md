@@ -8,32 +8,18 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Turkiye_HIV_AIDS_Kontrol_Programi_2025-2030.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-T.C.
-
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-13588366-135.99-297667054 11.12.2025
 
-Konu : Türkiye HIV/AIDS Kontrol Programı
-
-(2025-2030)
-
-DAĞITIM YERLERİNE
+Konu : Türkiye HIV/AIDS Kontrol Programı (2025-2030)
 
 Ülkemizde, 1985 yılındaki ilk vaka bildiriminden bu yana bildirimi zorunlu hastalıklar listesinde yer alan ve sürveyansı yürütülen HIV/AIDS enfeksiyonu ile ilgili olarak günümüzde koruma, önleme ve tedavi seçeneklerine yönelik yeni bilimsel yaklaşımlar ortaya çıkmaktadır.
 
-Uluslararası hastalık ile mücadelede; Birleşmiş Milletler HIV/AIDS Ortak Programı (UNAIDS)
+Uluslararası hastalık ile mücadelede; Birleşmiş Milletler HIV/AIDS Ortak Programı (UNAIDS) kapsamında “AIDS epidemisinin 2030 yılına kadar halk sağlığı tehdidi olmaktan çıkarılması” küresel hedef olarak belirlenmiştir. Tüm ülkelerin bu küresel hedeflere ulaşıp diğer ülkeleri de destekleyebilmesi için multidisipliner bir yapı ile çalışması ve sağlık hizmeti yapılanmasına bu doğrultuda yön vermesi gerekmektedir.
 
-kapsamında “AIDS epidemisinin 2030 yılına kadar halk sağlığı tehdidi olmaktan çıkarılması” küresel hedef olarak belirlenmiştir. Tüm ülkelerin bu küresel hedeflere ulaşıp diğer ülkeleri de destekleyebilmesi için multidisipliner bir yapı ile çalışması ve sağlık hizmeti yapılanmasına bu doğrultuda yön vermesi gerekmektedir.
-
-Ülkemizdeki HIV/AIDS çalışmalarına yol haritası oluşturmak, HIV/AIDS yayılımı için risk oluşturan faktörlerle mücadele etmek amacıyla küresel hedeflerle uyumlu olarak hazırlanan “Türkiye HIV/AIDS Kontrol
-
-Programı (2025-2030)” Ek’te gönderilmekte olup ayrıca Halk Sağlığı Genel Müdürlüğü ve Bulaşıcı Hastalıklar ve Erken Uyarı Daire Başkanlığı web sayfalarında da yayımlanmıştır. HIV/AIDS konusundaki çalışmaların söz konusu kontrol programı doğrultusunda yürütülmesi hususunda;
+Ülkemizdeki HIV/AIDS çalışmalarına yol haritası oluşturmak, HIV/AIDS yayılımı için risk oluşturan faktörlerle mücadele etmek amacıyla küresel hedeflerle uyumlu olarak hazırlanan “Türkiye HIV/AIDS Kontrol Programı (2025-2030)” Ek’te gönderilmekte olup ayrıca Halk Sağlığı Genel Müdürlüğü ve Bulaşıcı Hastalıklar ve Erken Uyarı Daire Başkanlığı web sayfalarında da yayımlanmıştır. HIV/AIDS konusundaki çalışmaların söz konusu kontrol programı doğrultusunda yürütülmesi hususunda;
 
 Bilgilerini ve gereğini arz/rica ederim.
 
@@ -66,12 +52,6 @@ Gençlik ve Spor Bakanlığına
 Kültür ve Turizm Bakanlığına
 
 Milli Savunma Bakanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Nurcan ERSÖZ
-
-Çankaya/Ankara 06800 Hemşire
-
-1/2
 
 Milli Eğitim Bakanlığına
 
@@ -108,9 +88,3 @@ Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğüne
 Radyo ve Televizyon Üst Kurulu Başkanlığı
 
 Türkiye Yeşilay Cemiyetine
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Nurcan ERSÖZ
-
-Çankaya/Ankara 06800 Hemşire
-
-2/2

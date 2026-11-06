@@ -6,7 +6,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://havanikoru.saglik.gov.tr/depo/mevzuat/tebligler/4207_Sayili_Kanun_Kapsaminda_Uygulanan_Para_Cezalari_2026.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 4207 SAYILI KANUN UYGULAMALARI İZLEME FORMU
@@ -23,25 +23,15 @@ A2. İkamete mahsus konutlar hariç olmak üzere kamu ve özel hukuk kişilerine
 
 / Okul öncesi eğitim kurumları, özel eğitim ve öğretim kurumları dahil olmak üzere ilk ve orta öğrenim kurumları, dershaneler,
 
-Kamuya Ait Bina ve Toplu
+Kamuya Ait Bina ve Toplu kültür ve sosyal hizmet binalarının kapalı ve açık alanlarında / Spor, kültür, sanat, eğlence vs. faaliyetlerinin yapıldığı açık alanlar
 
-kültür ve sosyal hizmet binalarının kapalı ve açık alanlarında / Spor, kültür, sanat, eğlence vs. faaliyetlerinin yapıldığı açık alanlar
+Taşıma Araçlarında ve bunların seyir yerleri ile yaşlı bakım evleri, ruh ve sinir hastalıkları hastaneleri, cezaevleri, şehirlerarası ve uluslararası
 
-Taşıma Araçlarında
+Kamu Görevlileri, güzergahlarda yolcu taşıyan denizyolu araçlarının güvertelerinde tütün tüketimine mahsus ayrılmış alanlar dışında / otelcilik 1.764 TL
 
-ve bunların seyir yerleri ile yaşlı bakım evleri, ruh ve sinir hastalıkları hastaneleri, cezaevleri, şehirlerarası ve uluslararası
+Özel Hukuk Kişilerine Ait Bina hizmeti verilen işletmelerde, tütün ürünleri kullanan müşterilerin konaklamasına tahsis edilmiş odalar dışındaki kapalı alanlarda (5326 S.K. Md: 39)
 
-Kamu Görevlileri,
-
-güzergahlarda yolcu taşıyan denizyolu araçlarının güvertelerinde tütün tüketimine mahsus ayrılmış alanlar dışında / otelcilik 1.764 TL
-
-Özel Hukuk Kişilerine Ait Bina
-
-hizmeti verilen işletmelerde, tütün ürünleri kullanan müşterilerin konaklamasına tahsis edilmiş odalar dışındaki kapalı alanlarda (5326 S.K. Md: 39)
-
-ve Toplu Taşıma Araçlarında
-
-tütün ürünleri kullanan şahıs görüldü mü?
+ve Toplu Taşıma Araçlarında tütün ürünleri kullanan şahıs görüldü mü?
 
 Kolluk Birimi Yetkilileri
 
@@ -89,9 +79,7 @@ HASTANELERİ İLE B3. Tavan, kapı ve pencereleri dışında dört tarafında se
 
 B4. Duvarlarında tütün ürünleri kullanımının zararlarını anlatan sağlık uyarıları görülebilir
 
-ULUSLARARASI
-
-yerlere asılmış mı? Kamuya Ait İse Kamuya Ait İse
+ULUSLARARASI yerlere asılmış mı? Kamuya Ait İse Kamuya Ait İse
 
 GÜZERGÂHLARDA YOLCU
 
@@ -177,9 +165,7 @@ F6. Satış belgesi olmaksızın ve satış belgesinde belirtilen yerin dışın
 
 8/5-g) Mahalli Mülki Amir
 
-1.512.926 TL (toptan
-
-satıcılar)
+1.512.926 TL (toptan satıcılar)
 
 F7. 18 yaşını doldurmamış kişilere tütün ürünleri satışı yapılıyor mu? 6 Aydan 1 Yıla Kadar Hapis (TCK Md. 194) Cumhuriyet Savcılıkları
 

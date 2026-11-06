@@ -8,9 +8,8 @@ birim: "Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanl�
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Tetanos_Difteri_Aselluler_Bogmaca_Tdab_Asi_Uygulamasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -62,8 +61,6 @@ A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
 Halk Sağlığı Genel Müdürlüğü
 
 (Tüm Daire Başkanlıkları)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Kadriye MANAV
 
 Çankaya/Ankara 06800 Hemşire
 

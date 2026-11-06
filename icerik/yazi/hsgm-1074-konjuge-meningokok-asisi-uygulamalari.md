@@ -8,7 +8,7 @@ birim: "Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanl�
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Konjuge_Meningokok_Asisi_Uygulamalari.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -35,18 +35,6 @@ Halk Sağlığı Genel Müdür Yardımcısı
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği: 81 İl Sağlık Müdürlüğü
 
-81 İl Sağlık Müdürlüğü Halk Sağlığı Genel Müdürlüğüne
-
-(Mali İşler Ve Stok Yönetimi Daire Başkanlığı)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Göç Sağlığı Daire Başkanlığına)
-
-Göç İdaresi Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Halil YILDIZ
-
-Çankaya/Ankara 06800 Şef
+Bilgi: Halk Sağlığı Genel Müdürlüğüne (Mali İşler ve Stok Yönetimi Daire Başkanlığı); Halk Sağlığı Genel Müdürlüğüne (Göç Sağlığı Daire Başkanlığına); Göç İdaresi Başkanlığına

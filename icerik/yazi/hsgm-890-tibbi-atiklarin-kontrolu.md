@@ -6,7 +6,7 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/TIBBI_ATIK_USTYAZI.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -17,9 +17,7 @@ Türkiye Halk Sağlığı Kurumu
 
 Sayı : 19831278
 
-Konu : Tıbbi Atıkların Kontrolü
-
-………………..VALİLİĞİNE
+Konu : Tıbbi Atıkların Kontrolü ………………..VALİLİĞİNE
 
 (Halk Sağlığı Müdürlüğü)
 
@@ -53,8 +51,4 @@ Türkiye Halk Sağlığı Kurumu
 
 Aile Hekimliği İzleme ve Değerlendirme D.B.
 
-Prof. Dr. Nusret Fişek Cad. No: 41 Yenişehir/ANKARA Bilgi için: Yasemin GÜÇTAŞ
-
 Ebe
-
-www.thsk.gov.tr Tel : (312) 565 59 61

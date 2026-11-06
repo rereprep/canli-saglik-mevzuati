@@ -6,11 +6,8 @@ birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/300_Gunu_Asan_Gebelikler_ve_SAT.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-.
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,8 +21,6 @@ Konu : 300 Günü Aşan Gebelikler ve SAT
 Güncelleme
 
 DAĞITIM YERLERİNE
-
-İllerden son adet tarihi güncelleme ve 300 günü aşan gebeliklerin sonlandırılması taleplerinde artış gözlenmiştir. Bu konuların sonuçlandırılması Müdürlüğünüz Çocuk Ergen Kadın ve Üreme Sağlığı biriminde çalışan bir yetkilinin sorumluluğunda olacaktır. Sorumlu yetkili; ilgili tüm birimlere ulaşarak, oluşturulan işlem adımlarının titizlikle uygulanmasını sağlayarak 11 Aralık 2017 tarihe kadar seher.duman1@saglik.gov.tr e-posta adresine ekte yer alan İşlem Adımları bilgi notu kapsamında oluşturulan liste gönderilecektir.
 
 Uygulamada sırasında aile hekimlikleri ile ilgili konularda; Aile Hekimliği Uygulama Daire
 
@@ -49,7 +44,7 @@ Koordinasyon:
 
 Bilgi Sistemleri Genel Müdürlüğü
 
-İzleme Değerlendirme ve İstatistikDairesi Başkanlığı
+İzleme Değerlendirme ve İstatistik Dairesi Başkanlığı
 
 Aile Hekimliği Dairesi Başkanlığı
 
@@ -60,5 +55,3 @@ Gereği:
 81 İl Valiliği (İl Sağlık Müdürlüğü)
 
 Türkiye Halk sağlığı Genel Müdürlüğü Kadın ve Üreme Sağlığı Daire Başkanlığı
-
-Faks No:5656055 Unvan:TIBBİ TEKNOLOG

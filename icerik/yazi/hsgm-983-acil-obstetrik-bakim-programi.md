@@ -8,9 +8,8 @@ birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Acil_Obstetrik_Bakim_Programi_81_il_yazisi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -59,8 +58,6 @@ Bakan a.
 
 Halk Sağlığı Genel Müdürü
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: İMMAHAN GÜNAYDIN
-
 Çankaya/Ankara 06800 Ebe
 
 1/2
@@ -88,8 +85,6 @@ Ek:
 Dağıtım:
 
 81 İL VALİLİĞİNE (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: İMMAHAN GÜNAYDIN
 
 Çankaya/Ankara 06800 Ebe
 

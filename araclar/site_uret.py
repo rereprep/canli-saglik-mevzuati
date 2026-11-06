@@ -463,8 +463,8 @@ def sayfa(baslik, icerik, kok="", aciklama=""):
 <footer class="alt">
   <div class="kap">
     <p><strong>{SITE_ADI}</strong> — sağlıkla ilgili kanun, yönetmelik, yönerge, genelge ve Sağlık Bakanlığı yazışmalarını tek yerde toplar.</p>
-    <p class="ithaf"><em>Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla.</em></p>
     <p class="uyari">Bu site resmî bir kaynak değildir. Metinler derlenmiş kitaplardan ve resmî sitelerden aktarılmıştır; hukuki işlemlerde Resmî Gazete ve ilgili kurumun yayımladığı metin esas alınmalıdır.</p>
+    <p class="ithaf"><em>Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla.</em></p>
   </div>
 </footer>
 <script src="{kok}assets/ara.js" defer></script>

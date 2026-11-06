@@ -8,20 +8,15 @@ birim: "Çocuk ve Ergen Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Otizm_Tarama_ve_Takip_Modulunun_HYP_Kapsaminda_Kullanima_Acilmasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
-T.C.
-
-SAĞLIK BAKANLIĞI
-
+T.C. Sağlık Bakanlığı
 Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-96867468-702-291636641 16.10.2025
 
-Konu : Otizm Tarama ve Takip Modülünün HYP
-
-Kapsamında Kullanıma Açılması
+Konu : Otizm Tarama ve Takip Modülünün HYP Kapsamında Kullanıma Açılması
 
 DAĞITIM YERLERİNE
 
@@ -59,4 +54,4 @@ Ruh Sağlığı Daire Başkanlığı
 
 Kronik Hastalıklar ve Yaşlı Sağlığı Daire Başkanlığı
 
-Sağlık Mahallesi A. Adnan Saygun Cad. N Blok 15 nolu Oda No55 Sihhiye 06800 Bilgi için: Kamile AYDEMİR ERKEÇ
+

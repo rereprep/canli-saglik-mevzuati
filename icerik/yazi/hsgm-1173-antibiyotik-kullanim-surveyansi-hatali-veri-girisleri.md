@@ -8,7 +8,7 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Antibiyotik_Kullanim_Surveyansi_Hatali_Veri_Girisleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,9 +19,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-13588366-771-308226960 13.03.2026
 
-Konu : Antibiyotik Kullanım Sürveyansı Hatalı
-
-Veri Girişleri
+Konu : Antibiyotik Kullanım Sürveyansı Hatalı Veri Girişleri
 
 DAĞITIM YERLERİNE
 
@@ -46,7 +44,3 @@ Gereği: Bilgi:
 Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
 
 Kamu Hastaneleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Esen BATIR
-
-Çankaya/Ankara 06800 Hemşire

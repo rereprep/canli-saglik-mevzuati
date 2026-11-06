@@ -8,12 +8,8 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/SB-AHBS_Saglik_Bakanligi_Aile_Hekimligi_Bilgi_Sistemi_Uygulamasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
 
 BAŞKANLIĞI
 
@@ -42,12 +38,6 @@ Bakanlığımız 2024-2028 Stratejik Planı’nda “birinci basamak sağlık hi
 Önlemler” ile ilgili 31/01/2018 tarihli ve 2018/10 sayılı Kararı yayımlanmıştır.
 
 6698 sayılı Kanun’un 12 nci maddesinin birinci fıkrasında veri sorumlusunun, kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, kişisel verilere hukuka aykırı olarak erişilmesini önlemek ve kişisel verilerin muhafazasını sağlamak amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Elif KETENCİ
-
-Çankaya/Ankara 06800 Büro Personeli
-
-1/3
 
 tedbirleri alması zorunludur. Mezkûr Kanun’un 12’nci maddesinin ikinci fıkrası uyarınca veri sorumlusu, kişisel verilerin kendi adına başka bir gerçek veya tüzel kişi tarafından işlenmesi hâlinde, birinci fıkrada belirtilen tedbirlerin alınması hususunda bu kişilerle birlikte müştereken sorumludur.
 
@@ -80,15 +70,3 @@ Bakan Yardımcısı
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Elif KETENCİ
-
-Çankaya/Ankara 06800 Büro Personeli
-
-2/3
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Elif KETENCİ
-
-Çankaya/Ankara 06800 Büro Personeli
-
-3/3

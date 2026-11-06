@@ -6,18 +6,12 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/mesai_takibi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ
 
-HSGM AİLE HEKİMLİĞİ EĞİTİM VE İZLEME DAİRESİ BAŞKANLIĞI
-
-9.01.2015 14:20:00 2015.5734.14
-
-7285778
-
-T.C.
+HSGM AİLE HEKİMLİĞİ EĞİTİM VE İZLEME DAİRESİ BAŞKANLIĞI T.C.
 
 SAĞLIK BAKANLIĞI
 
@@ -25,9 +19,7 @@ Türkiye Halk Sağlığı Kurumu Başkanlığı
 
 Sayı: 19831278/
 
-Konu: Aile Hekimliği Birimleri
-
-Mesai Takibi
+Konu: Aile Hekimliği Birimleri Mesai Takibi
 
 ……………………………………. VALİLİĞİNE
 
@@ -52,5 +44,3 @@ EK: 1 adet form
 DAĞITIM: 81 İl Valiliği
 
 Aile Hekimliği İzleme ve Değerlendirme Daire Başkanlığı Ayrıntılı bilgi için: S. DALDAL
-
-Prof. Dr. Nusret Fişek Cad. No: 41 Yenişehir / ANKARA Tel: (312) 565 59 63

@@ -8,7 +8,7 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/BZBH_ICD-10_Tani_Kodlari_Listesinde_Guncelleme.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 HSGM GENEL MÜDÜR YARDIMCILIĞI 3
@@ -16,8 +16,6 @@ HSGM GENEL MÜDÜR YARDIMCILIĞI 3
 HSGM BULAŞICI HASTALIKLAR VE ERKEN UYARI DAİRE
 
 BAŞKANLIĞI
-
-9.07.2025 16:35:19 E-13588366-149-281539985
 
 T.C.
 
@@ -79,13 +77,9 @@ Başkanlığı
 
 -Zoonotik Ve Vektörel Hastalıklar Daire Başkanlığı
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Fatma ÇELİK
-
 Çankaya/Ankara 06800 Hemşire
 
 1/2
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Fatma ÇELİK
 
 Çankaya/Ankara 06800 Hemşire
 

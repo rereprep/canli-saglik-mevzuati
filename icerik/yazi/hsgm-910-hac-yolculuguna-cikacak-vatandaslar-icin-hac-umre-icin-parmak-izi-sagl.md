@@ -8,26 +8,14 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Hac_Yolculuguna_Cikacak_Vatandaslar_Icin_Hac_Umre_Icin_Parmak_Izi_Saglik_Raporu.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
 
 BAŞKANLIĞI
 
-T.C.
+Sayı: E-99858683-045.01-274097252 21.04.2025
 
-SAĞLIK BAKANLIĞI
-
-274097252
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı : E-99858683-045.01-274097252 21.04.2025
-
-Konu : Hac Yolculuğuna Çıkacak Vatandaşlar
+Konu: Hac Yolculuğuna Çıkacak Vatandaşlar
 
 İçin Hac/Umre İçin Parmak İzi Sağlık Raporu
 
@@ -66,7 +54,3 @@ Sağlık Hizmetleri Genel Müdürlüğüne
 Kamu Hastaneleri Genel Müdürlüğüne
 
 Diyanet İşleri Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Tuğba KANDEMİR
-
-Çankaya/Ankara 06800 Ebe

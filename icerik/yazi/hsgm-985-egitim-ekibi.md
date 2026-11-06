@@ -6,9 +6,8 @@ birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Egitim_Ekibi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -45,13 +44,7 @@ DAĞITIM:
 
 ________________________________________________________________________________________
 
-Türkiye Halk Sağlığı Kurumu Kadın ve Üreme Sağlığı Daire Başkanlığı İlkiz Sokak NO:4/3 Sıhhiye/Ankara
-
 B.ÖKSÜZ Tel: (312) 565 60 47 Faks:(312) 565 60 55
-
-.
-
-.
 
 Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 3c0802c2-f53d-4328-8a6b-cd65edafbf97 kodu ile erişebilirsiniz.
 

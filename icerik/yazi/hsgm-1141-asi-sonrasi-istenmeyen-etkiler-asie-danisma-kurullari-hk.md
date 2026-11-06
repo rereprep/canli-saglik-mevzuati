@@ -8,7 +8,7 @@ birim: "Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanl�
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Asi_Sonrasi_Istenmeyen_Etkiler__ASIE_Danisma_Kurullari_Hkpdf.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,9 +19,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-21001706-131.04-300713028 07.01.2026
 
-Konu : Aşı Sonrası İstenmeyen Etkiler ( ASİE)
-
-Danışma Kurulları Hk.
+Konu : Aşı Sonrası İstenmeyen Etkiler ( ASİE) Danışma Kurulları Hk.
 
 DAĞITIM YERLERİNE
 
@@ -40,7 +38,3 @@ Ek: İl ASİE İzlem Sorumlusu ve İl ASİE Danışma Kurul Üyeleri
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Kat1 Bilgi için: Sinem ŞAHİN
-
-Çankaya /ANKARA 06430 Ebe

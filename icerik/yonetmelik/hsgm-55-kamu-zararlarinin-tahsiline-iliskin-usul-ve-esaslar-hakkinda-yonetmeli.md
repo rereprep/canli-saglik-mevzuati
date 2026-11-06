@@ -6,10 +6,9 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.200611058.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
-5017
 
 KAMU ZARARLARININ TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA
 
@@ -25,9 +24,7 @@ Yayımlandığı Düsturun Tertibi : 5 Cilt: 46 S:
 
 
 
-15/6/2019 tarihli ve 30802 sayılı Resmî Gazete’de yayımlanan 14/6/2019 tarihli ve 1147 sayılı
-
-Cumhurbaşkanı Kararı uyarınca bu Yönetmelik Cumhurbaşkanlığı Yönetmeliği bölümüne eklenmiştir.
+15/6/2019 tarihli ve 30802 sayılı Resmî Gazete’de yayımlanan 14/6/2019 tarihli ve 1147 sayılı Cumhurbaşkanı Kararı uyarınca bu Yönetmelik Cumhurbaşkanlığı Yönetmeliği bölümüne eklenmiştir.
 
 
 
@@ -43,9 +40,7 @@ Kapsam
 
 MADDE 2- (1) Bu Yönetmelik, düzenleyici ve denetleyici kurumlar hariç olmak üzere, genel yönetim kapsamındaki kamu idarelerinde tespit edilen kamu zararlarından doğan alacakları kapsar.
 
-(2) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 1 inci maddesinin birinci fıkrası kapsamında bulunan kamu idarelerinde görevli memurların, kullanımlarındaki taşınır ve taşınmazların korunması ve her an hizmete hazır halde bulundurulması için gerekli tedbirleri almamaları nedeniyle Devlete verdikleri zararlar ile kamu hukukuna tabi görevlerle ilgili olarak kişilere verdikleri zararlar hakkında, 657 sayılı Kanunun 13 üncü maddesi uyarınca 27/6/1983 tarihli ve 83/6510 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Devlete ve Kişilere Memurlarca Verilen Zararların Nevi ve
-
-Miktarlarının Tespiti, Takibi, Amirlerinin Sorumlulukları, Yapılacak Diğer İşlemler Hakkında Yönetmelik hükümleri uygulanır.
+(2) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 1 inci maddesinin birinci fıkrası kapsamında bulunan kamu idarelerinde görevli memurların, kullanımlarındaki taşınır ve taşınmazların korunması ve her an hizmete hazır halde bulundurulması için gerekli tedbirleri almamaları nedeniyle Devlete verdikleri zararlar ile kamu hukukuna tabi görevlerle ilgili olarak kişilere verdikleri zararlar hakkında, 657 sayılı Kanunun 13 üncü maddesi uyarınca 27/6/1983 tarihli ve 83/6510 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Devlete ve Kişilere Memurlarca Verilen Zararların Nevi ve Miktarlarının Tespiti, Takibi, Amirlerinin Sorumlulukları, Yapılacak Diğer İşlemler Hakkında Yönetmelik hükümleri uygulanır.
 
 Dayanak
 
@@ -55,7 +50,8 @@ Tanımlar
 
 MADDE 4- (1) (Değişik:RG-15/6/2019-30802-C.K.-1147/1 md.) Bu Yönetmeliğin uygulanmasında;
 
-a) Hukuk birimi: Kamu idarelerinde hukuk hizmetlerini yürüten birimi, b) İlgili: Kendisine yersiz veya fazla ödeme yapılan gerçek ve/veya tüzel kişi ya da kişileri, 5018 c) Kamu kaynağı: Borçlanma suretiyle elde edilen imkanlar dahil kamuya ait gelirler, taşınır ve taşınmazlar, hesaplarda bulunan para, alacak ve haklar ile her türlü değerleri, ç) Kamu zararı: Kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasından doğan zararı, d) Kanun: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununu, e) Malvarlığı: Bir kişinin hukuki bütünlük teşkil etmek üzere sahip ve yükümlü olabileceği para ile ölçülebilen mal, hak ve borçlarının tamamını, f) Muhasebe birimi: Gelir ve alacakların tahsili, giderlerin ve borçların hak sahiplerine ödenmesi, para ve parayla ifade edilebilen değerler ile emanetlerin alınması, saklanması, ilgililere verilmesi, gönderilmesi ve diğer tüm malî işlemlerin kayıtlarının yapılması ve raporlanmasına ilişkin muhasebe hizmetlerinin yapıldığı birimi, g) Muhasebe yetkilisi: Muhasebe hizmetlerinin yürütülmesinden ve muhasebe biriminin yönetiminden sorumlu, usulüne göre atanmış sertifikalı yöneticiyi, ğ) Rayiç bedel: Bir mal, iş veya hizmetin temin edildiği yer ve tarihteki normal alım ve satım bedelini, h) Sorumlu: Kamu zararının oluşmasına sebep olan kamu görevlisini, ı) Takibe yetkili birim: Merkezde strateji geliştirme birimlerini, taşrada ise strateji geliştirme biriminin bağlı olduğu üst yöneticinin, alacağın takibi konusunda yetki verdiği birimleri, i) Üst yönetici: Bakanlıklarda kendilerine doğrudan bağlı hizmet birimleri bakımından bakanı, kendilerine bağlı hizmet birimleri bakımından bakan yardımcılarını, diğer kamu idarelerinde en üst yöneticiyi, il özel idarelerinde valiyi, belediyelerde belediye başkanını, ifade eder.
+a) Hukuk birimi: Kamu idarelerinde hukuk hizmetlerini yürüten birimi, b) İlgili: Kendisine yersiz veya fazla ödeme yapılan gerçek ve/veya tüzel kişi ya da kişileri,
+c) Kamu kaynağı: Borçlanma suretiyle elde edilen imkanlar dahil kamuya ait gelirler, taşınır ve taşınmazlar, hesaplarda bulunan para, alacak ve haklar ile her türlü değerleri, ç) Kamu zararı: Kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasından doğan zararı, d) Kanun: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununu, e) Malvarlığı: Bir kişinin hukuki bütünlük teşkil etmek üzere sahip ve yükümlü olabileceği para ile ölçülebilen mal, hak ve borçlarının tamamını, f) Muhasebe birimi: Gelir ve alacakların tahsili, giderlerin ve borçların hak sahiplerine ödenmesi, para ve parayla ifade edilebilen değerler ile emanetlerin alınması, saklanması, ilgililere verilmesi, gönderilmesi ve diğer tüm malî işlemlerin kayıtlarının yapılması ve raporlanmasına ilişkin muhasebe hizmetlerinin yapıldığı birimi, g) Muhasebe yetkilisi: Muhasebe hizmetlerinin yürütülmesinden ve muhasebe biriminin yönetiminden sorumlu, usulüne göre atanmış sertifikalı yöneticiyi, ğ) Rayiç bedel: Bir mal, iş veya hizmetin temin edildiği yer ve tarihteki normal alım ve satım bedelini, h) Sorumlu: Kamu zararının oluşmasına sebep olan kamu görevlisini, ı) Takibe yetkili birim: Merkezde strateji geliştirme birimlerini, taşrada ise strateji geliştirme biriminin bağlı olduğu üst yöneticinin, alacağın takibi konusunda yetki verdiği birimleri, i) Üst yönetici: Bakanlıklarda kendilerine doğrudan bağlı hizmet birimleri bakımından bakanı, kendilerine bağlı hizmet birimleri bakımından bakan yardımcılarını, diğer kamu idarelerinde en üst yöneticiyi, il özel idarelerinde valiyi, belediyelerde belediye başkanını, ifade eder.
 
 İKİNCİ BÖLÜM
 
@@ -71,7 +67,8 @@ Kamu zararının belirlenmesi
 
 MADDE 6- (1) Kamu zararının belirlenmesinde;
 
-a) Yapılan iş, alınan mal veya hizmet karşılığı olarak ilgili mevzuatında belirtilen ya da mevzuatında öngörülen karar, onay, sözleşme ve benzeri belgelerde belirlenen tutardan fazla ödeme yapılması, b) İlgili mevzuatında öngörülen haller dışında, iş yaptırılmadan, mal veya hizmet alınmadan önce ödeme yapılması, c) Transfer niteliğindeki giderlerde, fazla veya yersiz ödemede bulunulması, 5019 ç) İlgili mevzuatı gereğince görevlendirilen komisyon veya kişilerce rayiç bedelinden daha yüksek fiyatla iş yaptırılması, mal veya hizmet alınması, d) Kamu idarelerine ait malların kiraya verilmesi, tahsisi, yönetimi, kullanımı ve elden çıkarılması işlemlerinin mevzuata uygun bir şekilde yapılmaması, e) Görevlilere teslim edilen taşınırların zarara uğraması, f) İdare gelirlerinin tarh, tahakkuk veya tahsil işlemlerinin mevzuata uygun bir şekilde yapılmaması, g) Kamu idaresinin yükümlülüklerinin mevzuatına uygun bir şekilde yerine getirilmemesi nedeniyle kamu idaresine faiz, tazminat, gecikme zammı, para cezası gibi ek malî külfet getirilmesi, ğ) Mevzuatında öngörülmediği halde ödeme yapılması, esas alınır.
+a) Yapılan iş, alınan mal veya hizmet karşılığı olarak ilgili mevzuatında belirtilen ya da mevzuatında öngörülen karar, onay, sözleşme ve benzeri belgelerde belirlenen tutardan fazla ödeme yapılması, b) İlgili mevzuatında öngörülen haller dışında, iş yaptırılmadan, mal veya hizmet alınmadan önce ödeme yapılması, c) Transfer niteliğindeki giderlerde, fazla veya yersiz ödemede bulunulması,
+ç) İlgili mevzuatı gereğince görevlendirilen komisyon veya kişilerce rayiç bedelinden daha yüksek fiyatla iş yaptırılması, mal veya hizmet alınması, d) Kamu idarelerine ait malların kiraya verilmesi, tahsisi, yönetimi, kullanımı ve elden çıkarılması işlemlerinin mevzuata uygun bir şekilde yapılmaması, e) Görevlilere teslim edilen taşınırların zarara uğraması, f) İdare gelirlerinin tarh, tahakkuk veya tahsil işlemlerinin mevzuata uygun bir şekilde yapılmaması, g) Kamu idaresinin yükümlülüklerinin mevzuatına uygun bir şekilde yerine getirilmemesi nedeniyle kamu idaresine faiz, tazminat, gecikme zammı, para cezası gibi ek malî külfet getirilmesi, ğ) Mevzuatında öngörülmediği halde ödeme yapılması, esas alınır.
 
 Kamu zararının tespiti ve bildirilmesi
 
@@ -113,7 +110,6 @@ c) Sorumlu ve ilgililerin belirlenmesi.
 
 (6) Kontrol, denetim veya inceleme sonucunda tespit edilen zararın, yapılan değerlendirme sonucunda kamu zararı niteliği taşımamakla birlikte, tahsili gereken bir alacak olduğuna karar verilmesi halinde bu alacak genel hükümlere göre takip ve tahsil edilir.
 
-5019-1
 
 Kamu zararının Sayıştay tarafından tespiti
 
@@ -137,7 +133,6 @@ _______________
 
 (1) 15/6/2019 tarihli ve 30802 sayılı Resmi Gazete’de yayımlanan 1147 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle bu fıkrada yer alan “merkezde strateji geliştirme birimlerince taşrada ise” ibaresi yürürlükten kaldırılmıştır.
 
-5020
 
 (2) Sayıştayca düzenlenen sorgular ihbar kabul edilerek yaptırılan kontrol, denetim veya incelemenin değerlendirilmesi sonucunda kamu zararının oluştuğuna karar verilmesi durumunda da yukarıdaki fıkra hükmüne göre alacak takip dosyası açılır.
 
@@ -169,11 +164,8 @@ __________________
 
 (1) 15/6/2019 tarihli ve 30802 sayılı Resmi Gazete’de yayımlanan 1147 sayılı Cumhurbaşkanı Kararının 5 inci maddesiyle bu fıkrada yer alan “belirtilen sorumlular” ibaresi “belirtilenler” şeklinde değiştirilmiş, aynı fıkrada yer alan “adlî, idarî veya askerî” ibaresi yürürlükten kaldırılmıştır.
 
-5021
 
-b) Sorumlu ve/veya ilgililerin taksitlendirme taleplerini de içeren sulh başvuruları; genel bütçe kapsamındaki kamu idareleri ve özel bütçeli idarelerde, 26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli
-
-İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname hükümlerine göre, kapsamdaki diğer kamu idarelerinde ise özel mevzuatındaki hükümlere göre sonuçlandırılır.
+b) Sorumlu ve/veya ilgililerin taksitlendirme taleplerini de içeren sulh başvuruları; genel bütçe kapsamındaki kamu idareleri ve özel bütçeli idarelerde, 26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname hükümlerine göre, kapsamdaki diğer kamu idarelerinde ise özel mevzuatındaki hükümlere göre sonuçlandırılır.
 
 c) İtiraz ve sulh başvurularını değerlendirme işlemlerinin sekretarya hizmetlerini takibe yetkili birim yürütür.
 
@@ -213,7 +205,6 @@ MADDE 13- (1) Kamu zararından doğan alacaklar, sorumluları ve/veya ilgilileri
 
 (2) (Mülga:RG-15/6/2019-30802-C.K.-1147/8 md.)
 
-5022
 
 (3) (Değişik:RG-15/6/2019-30802-C.K.-1147/8 md.) Kamu zararından doğan alacağın ödenmesinin ilgili mevzuat çerçevesinde sulh yolu ile sağlanması halinde, sulh işleminin kesinleştiği tarihi izleyen ay başından itibaren sorumlunun ve/veya ilgilinin yazılı muvafakati ile aylığından kesilerek tahsil edilebilir. Rızaen ve defaten ödemede, sorumlunun ve/veya ilgilinin yazılı isteğiyle aylığından kesilerek tahsil edilebilir.
 
@@ -249,11 +240,8 @@ MADDE 16- (Değişik:RG-15/6/2019-30802-C.K.-1147/11 md.)
 
 (2) Taksitlendirme süresi azami beş yıl olup bu süre içerisinde asıl alacağın faiziyle birlikte tahsil edilmesi gerekir.
 
-5023
 
-(3) Genel bütçe kapsamındaki kamu idareleri ile özel bütçeli idarelerde taksitlendirme işlemleri, 659 sayılı Kanun
-
-Hükmünde Kararname hükümlerine, kapsamdaki diğer kamu idarelerinde ise ilgili mevzuat hükümlerine göre gerçekleştirilir.
+(3) Genel bütçe kapsamındaki kamu idareleri ile özel bütçeli idarelerde taksitlendirme işlemleri, 659 sayılı Kanun Hükmünde Kararname hükümlerine, kapsamdaki diğer kamu idarelerinde ise ilgili mevzuat hükümlerine göre gerçekleştirilir.
 
 (4) Sorumluların ve/veya ilgililerin yazılı taksitlendirme talebi üzerine, sorumlu ve/veya ilgili ile takibe yetkili birim arasında, taksitlendirmenin süresini, taksit sayısı ve tutarları ile ödeme zamanlarını belirleyen bir ödeme planı yapılır.
 
@@ -273,7 +261,9 @@ Kamu zararının oluştuğu tarih
 
 MADDE 17- (1) Kamu zararı;
 
-a) Vezne ve ambar açıkları ile diğer muhasebe yetkilisi mutemetlerinin açıklarında, açığın meydana geldiği tarihte, bu tarihin bilinmediği durumlarda olayın tespit edildiği tarihte, b) İş, mal veya hizmet karşılığı olarak ilgili mevzuatında belirlenen veya mevzuatında öngörülen karar, onay ya da sözleşmesinde belirlenen tutardan fazla yapılan ödemeler ile transfer niteliğindeki giderlerde yapılan yersiz ve fazla ödemelerde, ödemenin yapıldığı tarihte, c) Kayıtlı olsun veya olmasın, kamu idaresinin yönetim ve kullanımında olan ya da kullanıcılarına teslim edilen taşınırların kaybedilmesi, çalınması veya zarar görmesi hallerinde olayın meydana geldiği tarihte; bu tarihin bilinmediği durumlarda olayın tespit edildiği tarihte, ç) İş yaptırılmadan, mal veya hizmet alınmadan ya da mevzuatında öngörülmediği halde yapılan yersiz ödemelerde, ödemenin yapıldığı tarihte, 5024 d) İdare gelirlerinin tarh, tahakkuk ve tahsil işlemlerinin mevzuata uygun bir şekilde yapılmaması hallerinde, söz konusu işlemin zaman aşımına uğradığı tarihte, e) Hakedişlerden kesinti suretiyle yapılan gelir tahsilatının eksik yapılması hallerinde, tahsilat tutarının gelir kaydedilmesi gerektiği tarihte, oluşmuş kabul edilir.
+a) Vezne ve ambar açıkları ile diğer muhasebe yetkilisi mutemetlerinin açıklarında, açığın meydana geldiği tarihte, bu tarihin bilinmediği durumlarda olayın tespit edildiği tarihte, b) İş, mal veya hizmet karşılığı olarak ilgili mevzuatında belirlenen veya mevzuatında öngörülen karar, onay ya da sözleşmesinde belirlenen tutardan fazla yapılan ödemeler ile transfer niteliğindeki giderlerde yapılan yersiz ve fazla ödemelerde, ödemenin yapıldığı tarihte, c) Kayıtlı olsun veya olmasın, kamu idaresinin yönetim ve kullanımında olan ya da kullanıcılarına teslim edilen taşınırların kaybedilmesi, çalınması veya zarar görmesi hallerinde olayın meydana geldiği tarihte; bu tarihin bilinmediği durumlarda olayın tespit edildiği tarihte, ç) İş yaptırılmadan, mal veya hizmet alınmadan ya da mevzuatında öngörülmediği halde yapılan yersiz ödemelerde, ödemenin yapıldığı tarihte,
+d) İdare gelirlerinin tarh, tahakkuk ve tahsil işlemlerinin mevzuata uygun bir şekilde yapılmaması hallerinde, söz konusu işlemin zaman aşımına uğradığı tarihte,
+e) Hakedişlerden kesinti suretiyle yapılan gelir tahsilatının eksik yapılması hallerinde, tahsilat tutarının gelir kaydedilmesi gerektiği tarihte, oluşmuş kabul edilir.
 
 Kamu zararından doğan alacaklarda faiz
 
@@ -323,7 +313,6 @@ ______________
 
 (2) 15/6/2019 tarihli ve 30802 sayılı Resmi Gazete’de yayımlanan 1147 sayılı Cumhurbaşkanı Kararının 13 üncü maddesiyle bu fıkralarda yer alan “818” ibareleri “6098” şeklinde değiştirilmiştir.
 
-5025
 
 (2) Tahsili için yapılacak takibat giderlerinin asıl alacak tutarından fazla olacağının anlaşılması nedeniyle, dava ve icra takibine konu olmayan kamu zararına ilişkin alacaklardan merkezî yönetim bütçe kanununda gösterilen tutara kadar olanların kayıtlardan çıkarılmasına üst yöneticiler yetkilidir.
 
@@ -345,11 +334,8 @@ a) (Mülga:RG-15/6/2019-30802-C.K.-1147/15 md.)
 
 b) Alacağın takibinden sorumlu birim yöneticileri, mahkemeye veya icraya intikal ettirilen alacakların takibinin hangi aşamada olduğunu ilgili hukuk birimleri nezdinde izlemek, icra dairelerince tahsil edildiği bildirilen paraların muhasebe biriminin veznesine veya banka hesabına yatırılmasını ve sorumluların ve/veya ilgililerin borçlarına mahsubunu sağlamak zorundadırlar.
 
-5026
 
-c) (Değişik:RG-15/6/2019-30802-C.K.-1147/15 md.) Kamu idaresinin yönetim ve kullanımında bulunan taşınırların kaybolması, çalınması, eksilmesi veya zarar görmesine sebep olunması hallerinde 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliği ile 21/6/2010 tarihli ve 2010/616 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türk Silahlı Kuvvetleri, Millî İstihbarat Teşkilatı ve Emniyet Genel
-
-Müdürlüğü Taşınır Mal Yönetmeliği hükümlerine göre tespit edilen kamu zararlarından 2 nci maddenin ikinci fıkrası kapsamına girmeyenler bu Yönetmelik hükümlerine göre tahsil edilir.
+c) (Değişik:RG-15/6/2019-30802-C.K.-1147/15 md.) Kamu idaresinin yönetim ve kullanımında bulunan taşınırların kaybolması, çalınması, eksilmesi veya zarar görmesine sebep olunması hallerinde 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliği ile 21/6/2010 tarihli ve 2010/616 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türk Silahlı Kuvvetleri, Millî İstihbarat Teşkilatı ve Emniyet Genel Müdürlüğü Taşınır Mal Yönetmeliği hükümlerine göre tespit edilen kamu zararlarından 2 nci maddenin ikinci fıkrası kapsamına girmeyenler bu Yönetmelik hükümlerine göre tahsil edilir.
 
 ç) (Ek:RG-15/6/2019-30802-C.K.-1147/15 md.) Üst yöneticiler, bu Yönetmelik ile belirlenen yetkilerini sınırlarını açıkça belirlemek ve yazılı olmak suretiyle devredebilir.
 
@@ -381,17 +367,11 @@ ______________
 
 (1) 15/6/2019 tarihli ve 30802 sayılı Resmi Gazete’de yayımlanan 1147 sayılı Cumhurbaşkanı Kararının 17 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
-27/9/2006 TARİHLİ VE 2006/11058 SAYILI BAKANLAR KURULU KARARI İLE
-
-YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN
+27/9/2006 TARİHLİ VE 2006/11058 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN
 
 YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN TABLO
 
-Ek ve Değişiklik Getiren 2006/11058 Sayılı Bakanlar
-
-Yönetmeliği Yürürlüğe Kurulu Kararı ile Yürürlüğe
-
-Koyan Kararın Konulan Yönetmeliğin Yürürlüğe Giriş Tarihi
+Ek ve Değişiklik Getiren 2006/11058 Sayılı Bakanlar Kurulu Kararı ile Yürürlüğe Konulan Yönetmeliğin Yürürlüğe Giriş Tarihi
 
 Tarihi Sayısı Değişen Maddeleri
 

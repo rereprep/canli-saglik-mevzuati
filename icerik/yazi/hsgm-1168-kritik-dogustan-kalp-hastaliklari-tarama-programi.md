@@ -8,7 +8,7 @@ birim: "Çocuk ve Ergen Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Kritik_Dogustan_Kalp_Hastaliklari_Tarama_Programi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,9 +19,7 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-67414668-234.02-307518102 10.03.2026
 
-Konu : Kritik Doğuştan Kalp Hastalıkları Tarama
-
-Programı
+Konu : Kritik Doğuştan Kalp Hastalıkları Tarama Programı
 
 DAĞITIM YERLERİNE
 
@@ -29,9 +27,7 @@ DAĞITIM YERLERİNE
 
 Bu kapsamda, Bakanlığımızca 1 Temmuz 2026 tarihi itibarıyla ulusal düzeyde, doğum yapılan tüm kamu, özel ve üniversite sağlık kurumlarında Kritik Doğuştan Kalp Hastalıkları Tarama Programı'nın başlatılması planlanmaktadır.
 
-Söz konusu programın başlangıç tarihinden önce, kurumlarca taramada kullanılacak cihaz ve sarf malzemelerine ilişkin ihtiyaçların belirlenmesi; tarama uygulamalarında kullanılmak üzere uygun özellikte konsol tipi nabız oksimetre cihazı ile yenidoğan kullanımına uygun sensör/problara ilişkin ihtiyaçların tespit edilmesi ve bu ihtiyaçların teminine yönelik kurumların iş ve işlemleri ivedilikle başlatması; sürecin
-
-Müdürlüğünüzce takip edilerek gerekli koordinasyonun sağlanması hususunda;
+Söz konusu programın başlangıç tarihinden önce, kurumlarca taramada kullanılacak cihaz ve sarf malzemelerine ilişkin ihtiyaçların belirlenmesi; tarama uygulamalarında kullanılmak üzere uygun özellikte konsol tipi nabız oksimetre cihazı ile yenidoğan kullanımına uygun sensör/problara ilişkin ihtiyaçların tespit edilmesi ve bu ihtiyaçların teminine yönelik kurumların iş ve işlemleri ivedilikle başlatması; sürecin Müdürlüğünüzce takip edilerek gerekli koordinasyonun sağlanması hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 
@@ -44,7 +40,3 @@ Bakan Yardımcısı
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Emine ATALAN
-
-Çankaya/Ankara 06800 Büro Personeli

@@ -8,7 +8,7 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Ust_Yazi_Antimikrobiyal_Direnc_AMR_Farkindalik_Haftasi_Kapsaminda_Hazirlanan_Bulmaca_Kitabi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 HSGM GENEL MÜDÜR YARDIMCILIĞI 3
@@ -64,7 +64,5 @@ Halk Sağlığı Genel Müdürlüğü
 (Mikrobiyoloji Referans Laboratuvarı ve Biyolojik
 
 Ürünler Daire Başkanlığına)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Esen BATIR
 
 Çankaya/Ankara 06800 Hemşire

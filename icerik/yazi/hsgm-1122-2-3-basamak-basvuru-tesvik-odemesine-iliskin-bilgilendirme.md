@@ -8,9 +8,8 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Ust_Yazi_2._-_3._Basamak_Basvuru_Tesvik_Odemesine_Iliskin_Bilgilendirme.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -46,7 +45,3 @@ Dağıtım:
 Gereği: Bilgi:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Elif KETENCİ
-
-Çankaya/Ankara 06800 Büro Personeli

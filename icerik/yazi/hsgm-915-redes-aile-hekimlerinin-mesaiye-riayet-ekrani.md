@@ -8,18 +8,8 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/REDES_Aile_Hekimlerinin_Mesaiye_Riayet_Ekrani.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM AİLE HEKİMLİĞİ EĞİTİM VE İZLEME DAİRE BAŞKANLIĞI
-
-HSGM STRATEJİK YÖNETİM VE İSTATİSTİK KOORDİNATÖRLÜĞÜ
-
-T.C.
-
-283446727
-
-SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
 
@@ -44,11 +34,3 @@ Bilgilerinizi ve gereğini rica ederim.
 Doç. Dr. Muhammed Emin DEMİRKOL
 
 Halk Sağlığı Genel Müdürü
-
-Dağıtım:
-
-81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Süleyman DALDAL
-
-Çankaya/Ankara 06430 Sağlık Memuru

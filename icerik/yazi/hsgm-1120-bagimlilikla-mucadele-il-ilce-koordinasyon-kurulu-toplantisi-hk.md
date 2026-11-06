@@ -8,9 +8,8 @@ birim: "Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Bagimlilikla_Mucadele_Il_Ilce_Koordinasyon_Kurulu_Toplantisi_Hkpdf.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -53,12 +52,6 @@ Bakan a.
 
 Halk Sağlığı Genel Müdürü
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Meryem ERCAN
-
-Çankaya/Ankara 06800 Acil Tıp Teknisyeni
-
-1/2
-
 Ek:
 
 1 - Bağımlılıkla Mücadele Kurullarının Çalışma Usul ve Esasları 2 - Koordinasyon Toplantı Tutanağı
@@ -66,9 +59,3 @@ Ek:
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Meryem ERCAN
-
-Çankaya/Ankara 06800 Acil Tıp Teknisyeni
-
-2/2

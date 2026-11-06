@@ -8,8 +8,9 @@ birim: "Tüberküloz Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Verem_Tuberkuloz_Hastalarini_Bilgilendirme_Rehberinin_Yabanci_Dillerde_Basimi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
+
 
 T.C.
 
@@ -19,27 +20,15 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-60949272-934.99-299866057 31.12.2025
 
-Konu : “Verem (Tüberküloz) Hastalarını
-
-Bilgilendirme Rehberi”nin Yabancı
-
-Dillerde Basımı
+Konu : “Verem (Tüberküloz) Hastalarını Bilgilendirme Rehberi”nin Yabancı Dillerde Basımı
 
 DAĞITIM YERLERİNE
 
-Tüberküloz (TB) hastalığı konusunda hasta ve hasta yakınlarını bilgilendirmek ve Türkiye’de tüberküloz kontrol faaliyetlerinin gelişimine katkı sağlamak amacıyla Başkanlığımızca güncellenen “Verem (Tüberküloz)
+Tüberküloz (TB) hastalığı konusunda hasta ve hasta yakınlarını bilgilendirmek ve Türkiye’de tüberküloz kontrol faaliyetlerinin gelişimine katkı sağlamak amacıyla Başkanlığımızca güncellenen “Verem (Tüberküloz) Hastalarını Bilgilendirme Rehberi”nin DSÖ Türkiye Ülke Ofisi aracılığıyla Arapça, Farsça, Fransızca, İngilizce, Peştuca ve Rusça dillerinde çevirisi yaptırılmıştır.
 
-Hastalarını Bilgilendirme Rehberi”nin DSÖ Türkiye Ülke Ofisi aracılığıyla Arapça, Farsça, Fransızca, İngilizce,
+Söz konusu rehberler ve teknik şartname ekte gönderilmektedir. Ayrıca rehberlere Halk Sağlığı Genel Müdürlüğü, Tüberküloz Dairesi Başkanlığı internet sayfasındaki https://hsgm.saglik.gov.tr/tr/dokumanlar- tuberkuloz/rehberler.html adresinden de erişim sağlanabilmektedir.
 
-Peştuca ve Rusça dillerinde çevirisi yaptırılmıştır.
-
-Söz konusu rehberler ve teknik şartname ekte gönderilmektedir. Ayrıca rehberlere Halk Sağlığı Genel
-
-Müdürlüğü, Tüberküloz Dairesi Başkanlığı internet sayfasındaki https://hsgm.saglik.gov.tr/tr/dokumanlar- tuberkuloz/rehberler.html adresinden de erişim sağlanabilmektedir.
-
-İl Sağlık Müdürlükleri tarafından yıllık tüberküloz hasta sayıları dikkate alınarak, hastalara anladığı dildeki çevirisi verilmek üzere rehber basımının sağlanması; basımı yapılan rehberlerin Verem Savaşı
-
-Dispanserlerine, TB Referans Hastanelerine ve talep edilmesi durumunda TB hastası takip eden diğer sağlık kuruluşlarına gönderilmesi hususunda;
+İl Sağlık Müdürlükleri tarafından yıllık tüberküloz hasta sayıları dikkate alınarak, hastalara anladığı dildeki çevirisi verilmek üzere rehber basımının sağlanması; basımı yapılan rehberlerin Verem Savaşı Dispanserlerine, TB Referans Hastanelerine ve talep edilmesi durumunda TB hastası takip eden diğer sağlık kuruluşlarına gönderilmesi hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 
@@ -68,15 +57,3 @@ Ek:
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Şükran GÖNÜLLER
-
-Çankaya/Ankara 06000 Hemşire
-
-1/2
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Şükran GÖNÜLLER
-
-Çankaya/Ankara 06000 Hemşire
-
-2/2

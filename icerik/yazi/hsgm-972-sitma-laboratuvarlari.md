@@ -6,12 +6,8 @@ birim: "Halk Sağlığı Referans Laboratuvarları Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Sitma_Laboratuvarlari.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
--
-
-nı
 
 T.C.
 
@@ -21,17 +17,13 @@ SAGLIK BAKANLIĞ1
 
 Türkiye Halk Sağlığı Kurumu Başkanlığı
 
--
-
 Pıli~11•
 
-ü
+Sayı: B.10.I.HSK.027.00.00 o.2C.)122/__k o.ş
 
-Sayı : B.10.I.HSK.027.00.00 o.2C.)122/__k o.ş
+Konu: Silme Laboratuvarlan
 
-Konu : Silme Laboratuvarlan
-
-(cid:9) VALILIĞINE
+(cid: 9) VALILIĞINE
 
 (Halk Sağlığı Müdürlüğü)
 
@@ -73,11 +65,7 @@ DAĞITIM:
 
 (Halk Sağlığı Müdürlüğü)
 
-Halk Sağlığı Laboraruvarlan Daire Başkanlığı
-
-Sağlık ntab. Adnan Saygua Cı d. No:55 06100 Can bya-A akı ra
-
-Tek (0312)565 54 80 Faks: (0312)565 57 08
+Sağlık ntab. Adnan Saygua Cı d. No: 55 06100 Can bya-A akı ra
 
 _ 3_
 
@@ -93,15 +81,13 @@ THSk KALK saduğ: LASORALTUVARI.ARL
 
 DA1RE 8Aşıtı•NL141- T14511 HALK
 
-Sayı : B.10.1.11SK.0.27.00.00 sAĞLICT LOSORATUVARIAFtlaıdat
+Sayı: B.10.1.11SK.0.27.00.00 sAĞLICT LOSORATUVARIAFtlaıdat
 
 ZASKAtillel EVRAN atRimi
 
-Konu : Toplantı Kararları ınt.2012 - 10:03:47 •
+Konu: Toplantı Kararları ınt.2012 - 10: 03: 47 •
 
 11.10.1.H5K 0.27.00.00/050/39113
-
-00416770
 
 VALILIĞINE
 
@@ -129,7 +115,7 @@ DAĞIT1M:
 
 Ilılk tiatIŞ tülıtımeiarları Mke Başkanlıtı
 
-Sağlık Mak %dna Sıı,tın Oıd. ‘u:55 06100 (ıınkıı,ıı•Ankaıra
+Sağlık Mak %dna Sıı, tın Oıd. ‘u: 55 06100 (ıınkıı, ıı•Ankaıra
 
 İri: (02 I 2> 4511 23 92
 
@@ -167,12 +153,12 @@ tırik asit, kreatinin, kreatinin kinaz, HbAledan oluşması uygundur. HbAIC ana
 
 11)H omıon analizleri FSH, LH, Estradiol, progesteron, prolaktin. testesteron, PSA. folik asit, vitamin
 
---s^(cid:9) 1312, TSH, serbest T3, serbest T4, (3-HCO'den oluşmalıdır. Analiz spektrumuna D vitamini, insülin eklenmelidir.
+--s^(cid: 9) 1312, TSH, serbest T3, serbest T4, (3-HCO'den oluşmalıdır. Analiz spektrumuna D vitamini, insülin eklenmelidir.
 
 12)Hepatit-TORC grubunda anti HAV IgM, anti HAV IgG, HBs Ag, anti HBs, anti HCV, anti HIV, anti
 
 CMV IgM, anti CMV IgG, anti rubella IgM, anti rubella IgG, anti toksoplazına 104, anti tolcsoplazma
 
-IgG analizleri yer almalıdır. Ayrıca burucella aglütinasyon testi (Rose-Bengal), burucella tüp aglütinasyon testi, salmonella tüp aglütinasyon testi (Grubel-Widal), VDRL-RPR analizleri yapılmalıdır. Analizlere Inzamık IgM, kabakulak IgM testleri de eklenmelidir. .
+IgG analizleri yer almalıdır. Ayrıca burucella aglütinasyon testi (Rose-Bengal), burucella tüp aglütinasyon testi, salmonella tüp aglütinasyon testi (Grubel-Widal), VDRL-RPR analizleri yapılmalıdır. Analizlere Inzamık IgM, kabakulak IgM testleri de eklenmelidir..
 
 13)Milcrobiyolojik olarak idrar kültürü, boğaz kültürü, kulak kültürü, burun kültürü, balgam kültürü, balgam yayması, gaita kültürü, gaita milcroskopisi, vajen kültürü, kanal akıntı kültürü, üretral akımı yayması, yara kültürü, yara yayması, portör testi, antibiyograrn. gaitada gizli kan, oksiyur yumurtası (selofan bant yöntemi) analizlerinin yapılması gerekir.

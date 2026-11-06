@@ -8,7 +8,7 @@ birim: "Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Tutun_Kullanim_Durumunun_Sorgulanmasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -19,15 +19,11 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-86696344-010.07-308599354 17.03.2026
 
-Konu : Tütün Kullanım Durumunun
-
-Sorgulanması
+Konu : Tütün Kullanım Durumunun Sorgulanması
 
 DAĞITIM YERLERİNE
 
-Tütün ürünlerinin kullanımının azaltılması ve bırakılmasının teşvik edilmesi amacıyla, sağlık hizmeti sunumu sırasında bireylerin tütün kullanım durumunun düzenli olarak sorgulanması ve tütün ürünü kullanan kişilere bırakmaları yönünde bilgilendirme yapılması, 2024-2028 yıllarını kapsayan Tütün Kontrolü Strateji
-
-Belgesi ve Eylem Planı’nın önemli faaliyetlerinden biridir.
+Tütün ürünlerinin kullanımının azaltılması ve bırakılmasının teşvik edilmesi amacıyla, sağlık hizmeti sunumu sırasında bireylerin tütün kullanım durumunun düzenli olarak sorgulanması ve tütün ürünü kullanan kişilere bırakmaları yönünde bilgilendirme yapılması, 2024-2028 yıllarını kapsayan Tütün Kontrolü Strateji Belgesi ve Eylem Planı’nın önemli faaliyetlerinden biridir.
 
 Tütün kullanımının izlenmesine yönelik uygulamaların Bakanlığımıza bağlı hastaneler, üniversite hastaneleri ve özel hastaneler ile aile sağlığı merkezi gibi sağlık hizmet sunum alanlarını kapsayacak şekilde genişletilmesi amacıyla; sağlık kurum ve kuruluşlarında gerçekleştirilen her klinik başvuruda hastaların tütün ürünü kullanım durumunun 103 Muayene Bilgisi Kayıt Veri Seti kapsamında muayene kaydı sırasında sorgulanarak kayıt altına alınmasına yönelik uygulamanın 20.03.2026 tarihi itibarıyla hayata geçirilmesi planlanmaktadır.
 
@@ -43,12 +39,6 @@ Doç. Dr. Erdoğan ÖZ
 
 Halk Sağlığı Genel Müdürü V.
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Serkan BARSBAY
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-1/2
-
 Dağıtım:
 
 Gereği: Bilgi:
@@ -58,9 +48,3 @@ Gereği: Bilgi:
 Sağlık Hizmetleri Genel Müdürlüğüne
 
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Serkan BARSBAY
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-2/2

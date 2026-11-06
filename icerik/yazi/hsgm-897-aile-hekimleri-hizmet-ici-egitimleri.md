@@ -8,7 +8,7 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Ust_Yazi_Aile_Hekimligi_Hizmet_Ici_Egitimleri_2.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -52,5 +52,3 @@ Dağıtım:
 Halk Sağlığı Genel Müdürlüğü (Tüm Daire
 
 Başkanlıkları)
-
-Sağlık Mahallesi A.Adnan Saygun Caddesi No 55 Sıhhiye 06430 Bilgi için: Selahattin TAŞOĞLU

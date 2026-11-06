@@ -8,7 +8,7 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Indikator_Hastalik_Varliginda_HIV_Tani_Testi_Yapilmasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -39,7 +39,7 @@ HIV tanı testi (Anti-HIV 1/2±p24 antijen ELISA testi) uygulanacaktır.
 
 2) Belirlenen indikatör hastalık tanısı ilk tanının devamı niteliğindeyse yeni bir risk görülmedikçe tekrar HIV testi istenmesine gerek yoktur. Ancak belirlenen indikatör hastalık tanısı yeni tanı niteliğindeyse tekrar
 
-HIV test istenecektir.
+HIV testi istenecektir.
 
 3) HIV tanı testi uygulamaları, Ek-4’de yer alan “HIV Tanı Testi Algoritmaları” doğrultusunda her yeni tanı alan hasta için yapılacaktır.
 
@@ -48,12 +48,6 @@ HIV test istenecektir.
 Yönetmeliği’nde yer alan usul ve esaslara göre uygulama sağlanacak, tetkikler hastanın etik ve kanuni haklarına, hastanın mahremiyetine yüksek düzeyde özen gösterilerek, gizlilik ilkelerine uygun olacak şekilde çalışılacaktır.
 
 5) Ülke genelinde yürütülen HIV doğrulama testi uygulaması sürecinde herhangi bir değişiklik olmamakla birlikte sağlık kuruluşlarında uygulanan HIV tanı testi sonucu Ek-4’te yer alan algoritmaya göre değerlendirilmelidir.
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Nurcan ERSÖZ
-
-Çankaya/Ankara 06800 Hemşire
-
-1/2
 
 6) Tekrarlayan test reaktivitesi saptanması durumunda tanının kesinleştirilmesini sağlamak üzere kan örneği
 
@@ -104,9 +98,3 @@ Gereği: Bilgi:
 Kamu Hastaneleri Genel Müdürlüğüne
 
 Sağlık Hizmetleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Nurcan ERSÖZ
-
-Çankaya/Ankara 06800 Hemşire
-
-2/2

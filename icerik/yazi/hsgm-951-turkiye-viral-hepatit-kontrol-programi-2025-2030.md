@@ -8,9 +8,8 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Turkiye_Viral_Hepatit_Kontrol_Programi_2025-2030.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -56,7 +55,3 @@ Sağlığın Geliştirilmesi Genel Müdürlüğüne
 Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
 
 Yükseköğretim Kurulu Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Çiğdem BAYIR
-
-Çankaya/Ankara 06800 Ebe

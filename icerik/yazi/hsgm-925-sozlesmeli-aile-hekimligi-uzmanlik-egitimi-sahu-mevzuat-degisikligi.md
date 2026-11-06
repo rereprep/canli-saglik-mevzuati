@@ -8,7 +8,7 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Sozlesmeli_Aile_Hekimligi_Uzmanlik_Egitimi_SAHU_Mevzuat_Degisikligi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -16,8 +16,6 @@ T.C.
 SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
-
-Sayı : E-19831278-422.99-284858507 12.08.2025
 
 Konu : Sözleşmeli Aile Hekimliği Uzmanlık
 
@@ -47,12 +45,6 @@ Yukarıda yer alan mevzuat hükmü kapsamda aşağıdaki açıklamalar çerçeve
 
 3) SAHU kapsamındaki aile hekimleri eğitim kurumlarında geçirilen rotasyon süreleri ile sınırlı olmak üzere ilgili eğitim kurumunca döner sermaye ek ödemelerinden motivasyonunun artırılması amacıyla yapılan ödeme hariç olmak üzere sadece teşvik ödemesinden yararlanacak şekilde düzenleme yapılmıştır.
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Mürsel BATGA
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-1/2
-
 4) SAHU kapsamında eğitimine devam eden hekimlerden, eğitime başladıkları tarih itibariyle sözleşmeli aile hekimliğinde geçirdiği toplam süre 5 (beş) yıl ve üzeri olanlardan dilekçe ile eğitim kurumuna başvuruda bulunanlar, klinik rotasyon, tez ve ölçme değerlendirme süreçlerini tamamlamaları halinde uzmanlık eğitimi kurullarının da bu talebi uygun görmesi durumunda eğitim sürelerini 4(dört) yılda tamamlayabilecektir.
 
 5) SAHU uygulamasına ilişkin süreçler eğitim kurumu ile işbirliği içerisinde il sağlık müdürlüğünce takip ve koordine edilecektir.
@@ -76,9 +68,3 @@ Gereği: Bilgi:
 Yüksek Öğretim Kurulu Başkanlığına Kamu Hastaneleri Genel Müdürlüğüne
 
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Mürsel BATGA
-
-Çankaya/Ankara 06800 Sağlık Memuru
-
-2/2

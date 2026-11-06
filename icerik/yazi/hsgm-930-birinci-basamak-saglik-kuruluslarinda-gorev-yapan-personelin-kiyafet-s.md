@@ -8,22 +8,16 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/bbSK_Gorev_Yapan_Personelin_Kiyafet_StandartlariYazi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
 
 BAŞKANLIĞI
 
 T.C.
 
-SAĞLIK BAKANLIĞI 300941021
-
 Halk Sağlığı Genel Müdürlüğü
-
-Sayı : E-99858683-045.01-300941021 12.01.2026
 
 Konu : Birinci Basamak Sağlık Kuruluşlarında
 
@@ -32,10 +26,6 @@ Görev Yapan Personelin Kıyafet
 Standartları
 
 DAĞITIM YERLERİNE
-
-İlgi : a) 08.10.2025 tarihli ve E-67598610-060-290908431 sayılı yazı.
-
-b) 07.01.2026 tarihli ve E-87307621-409.99-300582494 sayılı yazı.
 
 27/08/2025 tarihli ve 32999 sayılı Resmî Gazete’de yayımlanan “Hizmet Kollarına Yönelik Mali ve Sosyal
 
@@ -62,12 +52,6 @@ Ocak 2026 tarihi itibarıyla ayni olarak sağlanması düzenlenmiştir.
 Sağlığın Geliştirilmesi Genel Müdürlüğü (SGGM) tarafından Bakanlığımızın tüm birimlerinde, taşra teşkilatlarında ve bağlı kurumlarında ortak bir dil, tutarlı bir görsel yapı ve kurumsal bütünlük oluşturması amacıyla kurum kimliğini oluşturan tüm tasarım öğelerinin kullanım biçimlerini açıklamak üzere Kurumsal
 
 Kimlik Kılavuzu yayımlanmış, ilgi (a) da kayıtlı yazı ile Kurumsal Kimlik Kılavuzu’nun 19’uncu Bölümünde
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Dr. Aslıhan KAHRAMAN KOÇAN
-
-Çankaya/Ankara 06800
-
-1/2
 
 yer alan esaslar çerçevesinde sağlık çalışanları kıyafetlerinin 01 Haziran 2026 tarihine kadar kurumsal kimlik kılavuzuna uyumunun sağlanması hususu İl Sağlık Müdürlüklerine bildirilmiştir.
 
@@ -108,12 +92,6 @@ Kamu Hastaneleri Genel Müdürlüğüne
 Sağlığın Geliştirilmesi Genel Müdürlüğüne
 
 Sağlık Hizmetleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Dr. Aslıhan KAHRAMAN KOÇAN
-
-Çankaya/Ankara 06800
-
-2/2
 
 T.C.
 
@@ -310,8 +288,6 @@ PERSONEL KIYAFET TEKNİK ŞARTNAMESİ
 SAĞLIĞI” yazısı olmalıdır.
 
 1.6. Arka boy ön boydan daha uzun ve ovaldir.
-
-1.7. Yelekte gümüş-gri renkli düz reflektif malzeme ve reflektif baskı kullanılacaktır. Sırtta birinci sınıf reflektif gümüş gri (#808080 RGB 128128128) transfer baskı ile Arial karakterinde 20 cm x 32 cm (dikey x yatay) alana sığdırılacak şekilde “HALK SAĞLIĞI” yazısı bulunacaktır. Roba üzerine yapılacak olan “Sağlık Bakanlığı” logosu 14 cm çapında olacaktır. Bu ölçüler Erkek-L beden baz alınarak yazılmıştır. Diğer bedenler için beden küçültme ve büyütmelere göre ölçü ayarlanarak hazırlanmalıdır.
 
 1.8. Kumaş özelliği en az %100 polyester olmalıdır. Doku şekli çözgülü örme 3x1 file olmalıdır.
 

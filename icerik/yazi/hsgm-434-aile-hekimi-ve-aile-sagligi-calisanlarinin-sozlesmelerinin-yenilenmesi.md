@@ -8,29 +8,19 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Hekimi_ve_Aile_Sagligi_Calisanlarinin_Sozlesmelerinin_Yenilenmesi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
-
-BAŞKANLIĞI
 
 T.C.
 
-SAĞLIK BAKANLIĞI 264201846
+SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-99858683-010.07-264201846 31.12.2024
 
-Konu : Aile Hekimi ve Aile Sağlığı
-
-Çalışanlarının Sözleşmelerinin
-
-Yenilenmesi
-
+Konu: Aile Hekimi ve Aile Sağlığı Çalışanlarının Sözleşmelerinin Yenilenmesi
 DAĞITIM YERLERİNE
 
 5258 sayılı Aile Hekimliği Kanunu’nun üçüncü maddesinde “Sağlığın geliştirilmesi, hastalıkların önlenmesi, takibi ve kontrolü ile koruyucu sağlık hizmetlerinin standartlara uygun olarak yerine getirilmemesi gibi Bakanlıkça belirlenen performans hedeflerine ulaşılamaması halinde sözleşmenin Bakanlıkça yenilenmemesine karar verilebilir.” hükmü mevcuttur. Bu hükme istinaden Aile Hekimliği Sözleşme ve Ödeme
@@ -53,15 +43,7 @@ Yenilemeye Esas Puan” hesaplamasına dahil edilecektir.
 
 4) Sözleşme döneminde EK-1’e göre hesaplanan Sözleşme Yenilemeye Esas Puan’ın, gösterge hedef puanı olan 70’e (yetmiş) eşit veya üzerinde olması halinde aile hekimi ve aile sağlığı çalışanının sözleşmesi yenilenecektir.
 
-5) Sözleşmeli aile hekimliği uzmanlık eğitimi rotasyonu, izin, rapor vb. nedenler ile görevi başında bulunulmayan sürelerin ayın tamamını kapsaması durumunda, ilgili aya ait puan değerlendirmeye alınmayacak
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Dr. Aslıhan KAHRAMAN KOÇAN
-
-Çankaya/Ankara 06800
-
-1/2
-
-ve toplama dâhil edilmeyecektir. Ayın herhangi bir gününde çalışılması halinde ise değerlendirmeye alınarak toplama dahil edilecektir.
+5) Sözleşmeli aile hekimliği uzmanlık eğitimi rotasyonu, izin, rapor vb. nedenler ile görevi başında bulunulmayan sürelerin ayın tamamını kapsaması durumunda, ilgili aya ait puan değerlendirmeye alınmayacak ve toplama dâhil edilmeyecektir. Ayın herhangi bir gününde çalışılması halinde ise değerlendirmeye alınarak toplama dahil edilecektir.
 
 6) Sözleşme süresi içerisinde zeyilname ile birim değiştirilmesi durumunda, mevcut sözleşme devam ettiğinden, önceki biriminden alınan puanlar ile mevcut biriminden alınan puanlar toplanır ve toplama dahil edilen ay sayısına bölünür. Elde edilen ortalama değer, “Sözleşme Yenilemeye Esas Puan” olarak dikkate alınır. Ay içerisindeki birim değişimlerinde, puanı yüksek olan aile hekimliği biriminden alınan puan, hesaplamaya dahil edilecektir.
 
@@ -85,8 +67,3 @@ Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğüne)
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Dr. Aslıhan KAHRAMAN KOÇAN
-
-Çankaya/Ankara 06800
-
-2/2

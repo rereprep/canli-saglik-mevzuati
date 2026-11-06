@@ -1,23 +1,6 @@
 ---
-id: "hsgm-995-son-3-ayinda-olan-gebelerin-takibi-hk"
-baslik: "Son 3 Ayında Olan Gebelerin Takibi Hk."
-tur: "yazi"
-tarih: "2025-08-25"
-sayi: "E-57536863-231.01.12-286185475"
-birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
-kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
-kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Son_3_Ayinda_Olan_Gebelerin_Takibi_Hk.pdf"
-durum: "yürürlükte"
-otomatik: true
----
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 2
-
-HSGM KADIN VE ÜREME SAĞLIĞI DAİRE BAŞKANLIĞI
 
 T.C.
-
-286185475
 
 SAĞLIK BAKANLIĞI
 
@@ -31,13 +14,7 @@ DAĞITIM YERLERİNE
 
 Bakanlığımızın temel hedeflerinden biri; gebelik dönemi ile doğum sürecinde anne bebek sağlığı açısından daha kaliteli, verimli, etkin ve güvenli sağlık hizmeti sunulmasıdır. Anne adaylarının ruhsal, fiziksel ve sosyal yönden doğuma ve doğum sonrası döneme bilinçli bir şekilde hazırlanması ve desteklenmesi çok önemlidir.
 
-Bakanlığımız tarafından “Doğal Olan Normal Doğum” temasıyla yürütülen “Normal Doğum Eylem
-
-Planı”; “E9: Her Gebeye Ebe Uygulaması” faaliyeti kapsamında ilinizde ilk gebeliği olup, gebeliğinin son 3(üç)
-
-ayında olan gebelerin ebeler tarafından aranması, takip edilmesi, normal doğumun anlatılması ve Bakanlığımızın
-
-Annelik Yolculuğu Mobil Uygulaması hakkında bilgi verilmesi hususlarında;
+Bakanlığımız tarafından “Doğal Olan Normal Doğum” temasıyla yürütülen “Normal Doğum Eylem Planı”; “E9: Her Gebeye Ebe Uygulaması” faaliyeti kapsamında ilinizde ilk gebeliği olup, gebeliğinin son 3(üç) ayında olan gebelerin ebeler tarafından aranması, takip edilmesi, normal doğumun anlatılması ve Bakanlığımızın Annelik Yolculuğu Mobil Uygulaması hakkında bilgi verilmesi hususlarında;
 
 Gereğini rica ederim.
 
@@ -52,7 +29,3 @@ Dağıtım:
 81 İl Valiliğine
 
 (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Zeynep BİRCAN
-
-Çankaya/Ankara 06800

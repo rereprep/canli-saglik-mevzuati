@@ -2,89 +2,48 @@
 id: "hsgm-979-hastanelerde-olum-belgesi-duzenlenmesi"
 baslik: "Hastanelerde Ölüm Belgesi Düzenlenmesi"
 tur: "yazi"
+tarih: "2014-01-14"
 birim: "Toplum Sağlığı Hizmetleri ve Eğitim Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Hastanelerde_Olum_Belgesi_Duzenlenmesi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
-TÜRKIYE HALK SAĞLIĞ KURUMU TOPLLT
+T.C.
 
-SAĞLIĞIWZMETIJERİ DAIRE BAŞKANLIĞI
+Sayı: 49654233/622.02
 
-14:1 .2014 07.56 49654 3 - 62 .02 E760
+Konu: Hastanelerde Ölüm Belgesi Düzenlenmesi
 
-T.C. 1111111111111111111119111111111111111 111
+Bazı halk sağlığı müdürlüklerinden yapılan geri bildirimlerde ölüm belgesi düzenlenmesi işlemlerinde ilgili mevzuatına uygun olmayacak şekilde farklı uygulamaların olduğu müşahede edilmiştir.
 
-SAĞLIK BAKANLIĞI
+Ölüm belgesi düzenlenmesi ile ilgili usul ve esasların yer aldığı 19/01/2013 tarih ve 28533 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiş olan “Mezarlık Yerlerinin İnşaası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik”in “Ölüm Belgesi Verilmesi” başlıklı on altıncı maddesinin birinci fıkrasında;
 
-Türkiye Halk Sağlığı Kurumu Başkanlığı
+“Ölüm resmî sağlık kurumlarında gerçekleşmiş veya cenaze resmî sağlık kurumuna getirilmiş ise ölüm belgesi sağlık kurumunca düzenlenir ve kurumun müdür veya baştabibi tarafından tasdik edilir.” hükmü yer almaktadır.
 
-T.C.Soğlık Bakanlığı
+Ayrıca Bakanlığımızın 26/12/2012 tarih ve 2012/5 sayılı Ölüm Bildirim Sistemi (OBS) Genelgesi'nin sistemin işleyişi ile ilgili açıklamaların yapıldığı birinci maddesinde ise;
 
-Tanş• IS Saşş
+“Ölüm, sağlık kurumlarında gerçekleşmiş ise ölümle ilgili bilgiler bu kurumdaki görevli hekim tarafından OBS'ye kaydedilir. Ölen kişi için düzenlenen ölüm belgesinin üç nüsha halinde çıktısı sistemden alınır ve imzalanır. İki nüshası ölenin yakınlarına verilir. Bir nüsha Halk Sağlığı Müdürlüğüne gönderilir.” ibaresi bulunmaktadır.
 
-Sayı : 49654233/622.02
+İlgili mevzuatında ölüm belgesi düzenleme işleminin hangi durumlarda kimlerin sorumluluğunda olduğu sarahaten belirtilmiş olduğundan ve hem örfi olarak hem de çevre sağlığı açısından önem arz eden bir husustaki farklı uygulamaların hizmetin aksamasına, belge düzenlenmesinde gecikmelere, vatandaş ile sağlık çalışanları arasında gerginliğe ve sağlık çalışanları arasında çalışma barışının bozulmasına sebebiyet vermemesi için;
 
-Konu : Hastanelerde ölüm Belgesi
+1) Acil veya yataklı servislerde gerçekleşmiş olmasına bakılmaksızın adli unsur içermeyen ölüm olaylarında ölüm belgesi düzenleme sorumluluğunun ölüm olayının gerçekleştiği hastanede görevli olan hekimlerde olduğu,
 
-Düzenlenmesi
+2) Şahsın hastaneye “ex duhul” olarak getirildiği, adli unsur içermeyen durumlarda da ölüm belgesinin, cenazenin getirildiği hastanede görevli hekimler tarafından düzenlenmesi gerektiği,
 
-Barı halk sağlığı müdürlüklerinden yapılan geri bildirimlerde ölüm belgesi düzenlenmesi işlemlerinde ilgili mevzuatına uygun olmayacak şekilde farklı uygulamaların olduğu müşahede edilmiştir.
+3) Hakkında düzenlenmiş ölüm belgesi olmaksızın hastane morguna kabul edilen mevta için, hastanede görevli hekimler tarafından belge düzenleneceği,
 
-Ölüm belgesi düzenlenmesi ile ilgili usul ve esaslann yer aldığı 19/01/2013 tarih ve 28533 sayılı Resmi Gazete'de yayunlanaralc yürürlüğe girmiş olan "Mezarlık Yerlerinin
+4) Hastanede ölüm belgesi düzenlenmesi işlemi için mesai içi ve mesai dışı ayrımına gidilmediği,
 
-Inşaası ile Cenaze Nakil ve Defın Işlemleri Hakkında Yönetmelikte Değişiklik Yapılmasına
-
-Dair Yönetmelik"in "ölüm Belgesi Verilmesi" başlıklı on altıncı maddesinin birinci filcrasında;
-
-" ölüm resmi sağlık kurumlarında gerçekleşmiş veya cenaze resmi sağlık kurumuna getirilmiş ise ölüm belgesi sağlık lcurumunca düzenlenir ve kurumun müdür veya baştabibi tarafından tasdik edilir." hükmü yer almaktadır.
-
-Aynca Bakanlığım= 26/12/2012 tarih ve 2012/5 sayılı ölüm Bildirim Sistemi (GBS)
-
-Genelgesi'nin sistemin işleyişi ile ilgili açıklamaların yapıldığı birinci maddesinde ise;
-
-" ölüm, sağlık kurumlarında gerçekleşmiş ise ölümle ilgili bilgileı; bu kurumdaki görevli hekim tarafindan OBS'ye kaydedilir. Ölen kişi için düzenlenen ölüm belgesinin üç nüsha halinde çıktısı sistemden alınır ve imzalanır. İki nüshası illenin yakınlarına verilir. Bir nüsha Halk Sağlığı Müdürlüğüne günderilir." ibaresi bulunmaktadır.
-
-İlgili mevnıatında ölüm belgesi düzenleme işleminin hangi durumlarda kimlerin sorumluluğunda olduğu sarahaten belirtilmiş olduğundan ve hem örli olarak hem de çevre sağlığı açısından önem arz eden bir husustalci farklı uygulamaların hizmetin aksamasına, belge düzenlenmesinde gecikmelere, vatandaş ile sağlık çalışanları arasında gerginliğe ve sağlık çalışanları arasında çalışma banşuun bozulmasına sebebiyet vermemesi için;
-
-1) Acil veya yataklı servislerde gerçekleşmiş olmasına bakılmaksızın adli unsur içermeyen ölüm olaylarında ölüm belgesi düzenleme sorumluluğunun ölüm olayının gerçekleştiği hastanede görevli olan hekimlerde olduğu, 2) Şahsın hastaneye "ex duhul" olarak getirildiği, adli unsur içermeyen durumlarda da ölüm belgesinin, cenazenin getirildiği hastanede görevli hekimler tarafından düzenlenmesi gerektiği, 3) Hakkında düzenlenmiş ölüm belgesi olmaksızın hastane morgıına kabul edilen mevta için, hastanede görevli hekimler tarafından belge düzenleneceği, 4) Hastanede ölüm belgesi düzenlenmesi işlemi için mesai içi ve mesai dışı aynmına gidilmediği,
-
-Toplum Sağlığı Hizmetleri Daire Başkanlığı Prof.Dr. Nusret Fişek Cad.No:41 Yenişehir/Ankara
-
-AŞ. tıll bilgi için: 0312 565 59 91
-
-•
-
-Evrakın elektronik imzah suretine htm://e-belge.saglik.gov.tr adresinden 3e37a062-6635-4818-bf29-d505dc048876 kodu ile erisebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
-Konulan= Kamu Hastaneleri Birliği Genel Sekreterliğinize bağlı sağlık kuruluşlarında çalışan ilgili personele bildirilmesi, ölüm belgesi düzenlenmesi iş ve işlemlerinin mezkiir mevzuat hükümleri doğrultusunda gerçekleştirilmesi için gerekli tedbirlerin alınması hususlarmda,
+Konularının Kamu Hastaneleri Birliği Genel Sekreterliğinize bağlı sağlık kuruluşlarında çalışan ilgili personele bildirilmesi, ölüm belgesi düzenlenmesi iş ve işlemlerinin mezkûr mevzuat hükümleri doğrultusunda gerçekleştirilmesi için gerekli tedbirlerin alınması hususlarında;
 
 Bilgilerini ve gereğini rica ederim.
 
-Hüseyin ÇELİK
-
-Bakan a.
-
-Müsteşar Yardımcısı
-
-DAĞİTİM:
+DAĞITIM:
 
 Gereği: Bilgi:
 
-8111 Valiliği 8111 Valiliği
+81 İl Valiliği (Kamu Hastaneleri Birliği Genel Sekreterliği) (Halk Sağlığı Müdürlüğü)
 
-(Kamu Hastaneleri Birliği Genel Sekreterliği) (İl Sağlık Müdürlüğü)
-
-(Halk Sağlığı Müdürlüğü)
-
-Toplum Sağlığı Hizmetleri Daire Başkanlığı Prof.Dr. Nusret Fişek Cad.No:41 Yenişehir/Ankara
-
-Aş tılı bilgi için: 0312 565 59 91
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.govir adresiııden 3e37a062-6635-4818-bf29-45051c048876 kodu ile erisebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalannustir.
+81 İl Valiliği (İl Sağlık Müdürlüğü)

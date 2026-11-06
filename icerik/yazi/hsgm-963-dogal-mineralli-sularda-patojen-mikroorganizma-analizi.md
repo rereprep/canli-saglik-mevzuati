@@ -6,20 +6,8 @@ birim: "Halk Sağlığı Referans Laboratuvarları Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Dogal_Mineralli_Sularda_Patojen_Mikroorganizma_Analizi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-zntxtvE HALK srıtunı KURL•311:- TIM HALK
-
-SAĞLIĞILABORAr.:~ARI DAM
-
-BAŞ)CAXLIĞI
-
-OSC `CI11-:, -2 2450” 022ş4.
-
-1111111111111111N,1,11111E Il II
-
-TL.
 
 SAĞLIK BAKANLIĞI
 
@@ -27,9 +15,7 @@ Türkiye Halk Sağlığı Kurumu
 
 Sayı : 62665021
 
-Konu : Doğal mineralli sularda patojen
-
-mikroorganizma analizi
+Konu : Doğal mineralli sularda patojen mikroorganizma analizi
 
 VALİLİĞNE
 
@@ -37,31 +23,15 @@ VALİLİĞNE
 
 ligi: 08/06/2015 tarihli ve 62665021/23248055/602.04.02/26257 sayılı yazımız.
 
-22/01/2015 tarihli ve 29244 sayılı Resmi Gazete'de yayımlanaralc yürürlüğe giren
-
-Halk Sağlığı Laboratuvarları ve Yetkilendirilmiş Laboratuvarların Çalışma Usul ve Esasları
-
-Hakkında Yönetmelik esas alınarak. L I ve L2 tipi Halk Sağlığı Laboratuvarlarının klinik dışı numwıelere yönelik analiz yetkileri yeniden belirlenmiş ve ilgi yazı ile 81 İl Valiliğine gönderilmişti.
+22/01/2015 tarihli ve 29244 sayılı Resmi Gazete'de yayımlanaralc yürürlüğe giren Halk Sağlığı Laboratuvarları ve Yetkilendirilmiş Laboratuvarların Çalışma Usul ve Esasları Hakkında Yönetmelik esas alınarak. L I ve L2 tipi Halk Sağlığı Laboratuvarlarının klinik dışı numwıelere yönelik analiz yetkileri yeniden belirlenmiş ve ilgi yazı ile 81 İl Valiliğine gönderilmişti.
 
 Söz konusu yazıda, içme-kullanma sularında denetim izlemesi mikrobiyolojik analiz yapma yetkisi alan L2 tipi Halk Sağlığı Laboratuvarlarına, kaynak suyu ve içme sularında piyasa gözetimi denetimine (PGD) esas numunelerde milcrobiyolojik analiz yapma yetkisi de verilmiştir.
 
-Bununla birlikte, Doğal Mineralli Sular Hakkında Yönetmelikle kontrol izlemesi analizleri, kaynak ve imlahaneden alınan numunelerde Yönetmeliğin 7. maddesinde belirtilen parametreler ile Ek-3'te yer alan parametreler yönünden. PGD amacıyla ambalajlı su satış yerlerinden alınan numunelerde ise kontrol izlemesi parametrelerine ilave olarak arsenik.
-
-flortir, bromat ve bromoforrn yönünden analiz yapılmaktadır.
+Bununla birlikte, Doğal Mineralli Sular Hakkında Yönetmelikle kontrol izlemesi analizleri, kaynak ve imlahaneden alınan numunelerde Yönetmeliğin 7. maddesinde belirtilen parametreler ile Ek-3'te yer alan parametreler yönünden. PGD amacıyla ambalajlı su satış yerlerinden alınan numunelerde ise kontrol izlemesi parametrelerine ilave olarak arsenik, flortir, bromat ve bromoforrn yönünden analiz yapılmaktadır.
 
 Bu itibarla. L2 tipi Halk Sağlığı Laboratuvarlarına parametrelerin özelliği ve cihaz kapasitesinden kaynaklı olarak; doğal mineralli sularda PGD ve kontrol izleme analizleri ile kaynak suyu ve içme sularında PGD'ye esas numunelerde kimyasal analizleri yapma yetkisi verilememiştir.
 
 Dolayısıyla, doğal mineralli su analizi yapan halk sağlığı laboratuvarları. Yönetmeliğin 7. maddesine göre incelenen parametrelerden "patojen mikroorganizma" parametresi ile ilgili olarak; bazı laboratuvarların bir etken, bazı laboratuvarların ise iki veya daha fazla sayıda etken yönünden inceleme yaptığı tespit edilmiştir. Hukuki açıdan herhangi bir olumsuzluga meydan verilmemesi için laboratuvarlarımızın aynı etkenleri çalışıp ortak analiz raporu tanzim etmesi büyük önem arz etmektedir.
-
-THSK Tüketici ve Çalışan Güvenliği Başkan Yardımcılığı
-
-Halk Sağlığı Laboratuvarlan Daire Başkanlığı Tel: O 312 565 54 77 Fax: O 312 565 57 08
-
-Sağlık Mahallesi Adnan Saygun Cad. No: 55 S ıhhıye-ANKARA
-
-Bu belge 5070 sayılı elektronik ımza kanuna göre güvenli elektronik imza ile inizalanmıstır.
-
-Evrakla elektronik imzalı suretine lutp://e-belge.saglik.govir adresinden b51f5M-bfE4-41108-68d3-40de91109e3fd kodu ile erisebilirsiniz.
 
 Bu itibarla. LI tipi Halk Sağlığı Laboratuvarları;
 
@@ -73,9 +43,7 @@ Pozitif Staphylococ ile Salmonella spp. olmak üzere en az 2 parametreyi çalı�
 
 L2 tipi Halk Sağlığı Laboratuvarları;
 
--Doğal mineralli sularda milcrobiyolojik analiz yapmak isteyen laboratuvarlar ise alt yapılarını oluşturarak Yönetmeliğin 7. maddesine göre tüm mikrobiyolojik parametrelere yönelik standart çalışma prosedürlerini hazırlamaları ve bağlı bulunduğu L I tipi Halk Sağlığı
-
-Laboratuvarına başvurmaları gerekmektedir. L1 tipi Halk Sağlığı Laboranıvarının yerinde yapacağı inceleme ve değerlendirme sonucunda Kurumumuzca analiz yapma yetkisi verilebilecektir.
+-Doğal mineralli sularda milcrobiyolojik analiz yapmak isteyen laboratuvarlar ise alt yapılarını oluşturarak Yönetmeliğin 7. maddesine göre tüm mikrobiyolojik parametrelere yönelik standart çalışma prosedürlerini hazırlamaları ve bağlı bulunduğu L I tipi Halk Sağlığı Laboratuvarına başvurmaları gerekmektedir. L1 tipi Halk Sağlığı Laboranıvarının yerinde yapacağı inceleme ve değerlendirme sonucunda Kurumumuzca analiz yapma yetkisi verilebilecektir.
 
 Bilgilerini ve gereğini rica ederim.
 
@@ -93,12 +61,3 @@ Gereği: Bilgi:
 
 (Halk Sağlığı Müdürlüğü)
 
-THSK Tüketici ve Çalışan Güvenliği Başkan Yardımcılığı
-
-Halk Sağlığı Laboratuvarları Daire Başkanlığı Tel: O 312 565 54 77 Fax: O 312 565 57 08
-
-Sağlık Mahallesi Adnan Saygun Cad. No: 55 Sıhtuye-ANKARA
-
-13u belge 5070 sayılı elektronik ima kanuna göre güvenli elektronik imza de imıalanmistır.
-
-Evrakm elektronik İlliZait suretine http:lle-belge.saglik.govtr adresinden b516ITI-bf84-0808-1,8d340de9M9e3fd kodu ile erişebilirsiniz.

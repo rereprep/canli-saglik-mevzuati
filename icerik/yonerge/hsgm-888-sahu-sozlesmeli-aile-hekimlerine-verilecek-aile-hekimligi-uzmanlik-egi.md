@@ -6,7 +6,7 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/birimler/aile-hekimligi-egitim-ve-izleme-db/Dokumanlar/Mevzuat/Sozlesmeli_AH_Verilecek_AH_Uzmanlik_Egitimi_Usul_ve_Esaslari.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 SÖZLEŞMELİ AİLE HEKİMLERİNE VERİLECEK AİLE HEKİMLİĞİ UZMANLIK

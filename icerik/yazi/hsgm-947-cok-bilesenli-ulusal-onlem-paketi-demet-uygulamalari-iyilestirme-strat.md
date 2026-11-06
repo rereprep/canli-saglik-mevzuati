@@ -8,7 +8,7 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Cok_Bilesenli_Ulusal_Onlem_Paketi_Demet_Uygulamalari_Iyilestirme_Stratejisi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 HSGM GENEL MÜDÜR YARDIMCILIĞI 3
@@ -37,8 +37,6 @@ DAĞITIM YERLERİNE
 
 Ulusal Önlem Paketi (Demet) Uygulamaları 2021 yılından itibaren ülkemizdeki tüm yataklı tedavi kurumlarında uygulanmaya başlanmıştır. Bu uygulamaların sürdürülebilirliği ve geliştirilmesini sağlamak için, yalnızca teknik anlamda değil; aynı zamanda sağlık çalışanlarının davranışları, kurum kültürü, liderlik ve sürekli eğitim gibi çok boyutlu yaklaşım içeren “Çok Bileşenli Ulusal Önlem Paketi (Demet) Uygulamaları İyileştirme Stratejisi”
 
-Enfeksiyon Önleme ve Kontrol Danışma Kurulu'nun katkılarıyla oluşturulmuştur. Bu çerçevede; sistem değişikliği, eğitim, gözlem-geri bildirim, görsel hatırlatıcılar ve güvenlik kültürünün birlikte ele alındığı bütüncül bir yapı önerilmektedir. Bu kapsamda Ek-1'de yer alan strateji dokümanı temel alınarak tüm yataklı tedavi kurumlarında önlem paketi uygulamalarının geliştirilmesi ve Ek-2''de yer alan posterlerin ilgili alanlarda görünür şekilde kullanılması gerekmektedir. İlgili dokümanlara https://hsgm.saglik.gov.tr/tr/dokumanlar- bulasicihastaliklar.html linkinden erişim sağlanabileceği hususunda;
-
 Bilgilerini ve gereğini rica ederim.
 
 Doç. Dr. Muhammed Emin DEMİRKOL
@@ -64,7 +62,5 @@ Sağlık Bilgi Sistemleri Genel Müdürlüğüne
 Sağlığın Geliştirilmesi Genel Müdürlüğüne
 
 Kamu Hastaneleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Esen BATIR
 
 Çankaya/Ankara 06800 Hemşire

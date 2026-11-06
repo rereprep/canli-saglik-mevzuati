@@ -8,9 +8,8 @@ birim: "Göç Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Gocmen_Sagligi_Merkezleri_Calisma_Usul_ve_Esaslari_Hakkinda.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -52,8 +51,6 @@ Sağlığı Yönetim Sistemine (HSYS) kaydedilir.
 9) Göçmen Sağlığı Merkezlerinde birim sorumlusu hekim olarak Sağlık Bakanlığı personeli görevlendirilir.
 
 Hekim sayısına bağlı olarak bir kaç merkezde görevlendirme yapılabilir.
-
-Sağlık Mahallesi A.Adnan Saygun Caddesi No 55 Sıhhiye 06430 Bilgi için: MESUT AYABAKAN 1/3 10) Göçmen Sağlığı Merkezlerinde, Türkiye' de mesleğini icra etmeye yetkili olan hekimler e-Rapor Sistemi üzerinden Genel Tıbbi Değerlendirme bölümü ile sınırlı olacak şekilde durum bildirir tek hekim sağlık raporu düzenleyebilir. Merkezlerde Türkiye' de mesleğini icra etmeye yetkili hekim bulunmadığı durumlarda tek hekim raporu birim sorumlusu hekim tarafından düzenlenir.
 
 Bilgilerini ve gereğini arz/rica ederim.
 
@@ -133,8 +130,6 @@ Isparta Valiliğine
 
 İzmir Valiliğine
 
-Sağlık Mahallesi A.Adnan Saygun Caddesi No 55 Sıhhiye 06430 Bilgi için: MESUT AYABAKAN 2/3 (İl Sağlık Müdürlüğü)
-
 Kahramanmaraş Valiliğine
 
 (İl Sağlık Müdürlüğü)
@@ -198,5 +193,3 @@ Samsun Valiliğine
 Yalova Valiliğine
 
 (İl Sağlık Müdürlüğü)
-
-Sağlık Mahallesi A.Adnan Saygun Caddesi No 55 Sıhhiye 06430 Bilgi için: MESUT AYABAKAN 3/3

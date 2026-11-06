@@ -8,7 +8,7 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Hekimligi_Uzmanlarinin_Gorevlendirmesi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -17,11 +17,9 @@ SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
 
-Sayı : E-99858683-045.03-327336305 03.09.2026
+Sayı: E-99858683-045.03-327336305 03.09.2026
 
-Konu : Aile Hekimliği Uzmanlarının
-
-Görevlendirmesi
+Konu: Aile Hekimliği Uzmanlarının Görevlendirmesi
 
 DAĞITIM YERLERİNE
 
@@ -42,7 +40,3 @@ Halk Sağlığı Genel Müdür V.
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Suzan GÜVENÇ
-
-Çankaya/Ankara 06800

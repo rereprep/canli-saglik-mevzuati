@@ -8,9 +8,8 @@ birim: "Çevre Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Havuz_Sularinin_Izlenmesi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -41,12 +40,6 @@ Teknoloji Bakanlığını ve teknoloji geliştirme bölgesi yönetici şirketi i
 
 Talî faaliyet konuları ruhsatta ayrıca belirtilir." hükümleri yer almaktadır.
 
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Bilgi için: Burcu AYDIN
-
-/1Çankaya 06430 Mühendis
-
-1/2
-
 Bu kapsamda öncelikle işyeri açma ve çalışma ruhsatı olmayan tesislerin bu işlemlerini tamamlaması veya faaliyet alanı olarak ruhsata yüzme havuzu faaliyetinin de tali faaliyet şeklinde işlenmesi yönünde ilgili yerel yönetime bildirim yapılması; ruhsat işlemleri tamamlandıktan sonra “Yüzme Havuzlarının Tabi Olacağı
 
 Sağlık Esasları Hakkında Yönetmelik” kapsamında gerekli izleme çalışmalarının yapılması gerekmektedir.
@@ -66,9 +59,3 @@ Halk Sağlığı Genel Müdürü
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Bilgi için: Burcu AYDIN
-
-/1Çankaya 06430 Mühendis
-
-2/2

@@ -6,24 +6,16 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/TRSM_ve_CIM_Izleme.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-.
 
 T.C.
 
 SAĞLIK BAKANLIĞI
 
-Halk Sağlığı Genel Müdürlüğü
+Halk Sağlığı Genel Müdürlüğü Sayı : E-19831278-661.01
 
-.
-
-Sayı : E-19831278-661.01
-
-Konu : TRSM ve ÇİM İzleme
-
-Değerlendirmesi
+Konu : TRSM ve ÇİM İzleme Değerlendirmesi
 
 DAĞITIM YERLERİNE
 
@@ -50,7 +42,3 @@ Ek: Yönetmelik
 Dağıtım:
 
 81 İl Valiliği (İl Sağlık Müdürlüğü)
-
-Sağlık Mahallesi Adnan Saygun 2 Caddesi No:55 Sıhhıye/Çankaya/ANKARA İzleme ve Değerlendirme ve İstatistik Daire Başkanlığı Tel: 0(312) 565 5955
-
-Telefon: 3125655807 Faks No: UZMAN HEMŞİRE

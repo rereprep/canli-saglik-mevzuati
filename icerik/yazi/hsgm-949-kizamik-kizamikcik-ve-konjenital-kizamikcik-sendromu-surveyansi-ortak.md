@@ -8,13 +8,8 @@ birim: "Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanl�
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Kizamik_Kizamikcik_ve_Konjenital_Kizamikcik_Sendromu_surveyansi_Ortak_E-posta_Hesabi_Hkpdf.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 3
-
-HSGM AŞI İLE ÖNLENEBİLİR HASTALIKLAR VE BAĞIŞIKLAMA
-
 DAİRE BAŞKANLIĞI
 
 T.C.
@@ -51,15 +46,21 @@ Bu kapsamda; Kızamık, Kızamıkçık ve Konjenital Kızamıkçık Sendromu Sü
 
 a) İller arası yapılan bildirimler
 
-b) Uluslararası Sağlık Tüzüğü (İHR) kapsamında yapılan bildirimler 2. Kızamık/Kızamıkçık ve Konjenital Kızamıkçık Sendromu Vakalarına ilişkin tüm yazışma ve bildirimler a) Kızamık/Kızamıkçık Kesin Vaka Cetvelleri b) Ön değerlendirme/bilgi notları
+b) Uluslararası Sağlık Tüzüğü (İHR) kapsamında yapılan bildirimler
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Serin Pınar ALCAN
+2. Kızamık/Kızamıkçık ve Konjenital Kızamıkçık Sendromu Vakalarına ilişkin tüm yazışma ve bildirimler
 
-Çankaya/Ankara 06800 Hemşire
+a) Kızamık/Kızamıkçık Kesin Vaka Cetvelleri
 
-1/3
+b) Ön değerlendirme/bilgi notları
 
-3. Olası kümelenme/vaka artışı durumlarına ilişkin bilgi notları ve saha değerlendirme çıktıları 4. Ulusal Viroloji Referans Laboratuvarı ve Bölge Halk Sağlığı Laboratuvarları tarafından bildirilen laboratuvar sonuçları ile bu sonuçlara ilişkin yazışmalar a) Seroloji ve PCR sonuçları b) Numune yetersizliği/tekrarı talepleri için kullanılmak üzere hsgm.kizamik@saglik.gov.tr adlı ortak e-posta adresi oluşturulmuştur. Söz konusu e-posta adresinin, ilinizde birinci, ikinci ve üçüncü basamak sağlık kuruluşlarında sürveyans faaliyetlerinde görev yapan ilgili personele duyurulması hususunda;
+3. Olası kümelenme/vaka artışı durumlarına ilişkin bilgi notları ve saha değerlendirme çıktıları
+
+4. Ulusal Viroloji Referans Laboratuvarı ve Bölge Halk Sağlığı Laboratuvarları tarafından bildirilen laboratuvar sonuçları ile bu sonuçlara ilişkin yazışmalar
+
+a) Seroloji ve PCR sonuçları
+
+b) Numune yetersizliği/tekrarı talepleri için kullanılmak üzere hsgm.kizamik@saglik.gov.tr adlı ortak e-posta adresi oluşturulmuştur. Söz konusu e-posta adresinin, ilinizde birinci, ikinci ve üçüncü basamak sağlık kuruluşlarında sürveyans faaliyetlerinde görev yapan ilgili personele duyurulması hususunda;
 
 Gereğini rica ederim.
 
@@ -133,12 +134,6 @@ Başkanlığına)
 
 Halk Sağlığı Genel Müdürlüğüne
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Serin Pınar ALCAN
-
-Çankaya/Ankara 06800 Hemşire
-
-2/3
-
 (Hukuk ve Mevzuat Daire Başkanlığı)
 
 Halk Sağlığı Genel Müdürlüğüne
@@ -200,9 +195,3 @@ Başkanlığına)
 Halk Sağlığı Genel Müdürlüğüne
 
 (Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Serin Pınar ALCAN
-
-Çankaya/Ankara 06800 Hemşire
-
-3/3

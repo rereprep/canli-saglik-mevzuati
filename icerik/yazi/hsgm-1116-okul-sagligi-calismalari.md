@@ -8,9 +8,8 @@ birim: "Sağlıklı Beslenme ve Hareketli Hayat Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Okul_sagligi_calismalari.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -35,15 +34,13 @@ Eylül ayında başlayan 2025-2026 eğitim öğretim yılı boyunca söz konusu 
 
 Müdürlükleri ile iş birliği içinde planlanması, yüz yüze eğitimin mümkün olmadığı durumlarda okuldadiyabet.meb.gov.tr adresindeki platformun kullanılması, tüm eğitimlerin HSYS
 
-Beslenme ve Fiziksel Aktivite Modülü / Eğitimler sekmesi üzerinden sisteme kaydedilmesi, 2. Millî Eğitim Bakanlığı’nın 2020/8 sayılı “Okul Kantinlerinde Satılacak Gıdalar ve Eğitim
+Beslenme ve Fiziksel Aktivite Modülü / Eğitimler sekmesi üzerinden sisteme kaydedilmesi,
 
-Kurumlarındaki Gıda İşletmelerinin Hijyen Yönünden Denetlenmesi Genelgesi” kapsamında yürütülen denetimlerde İl/İlçe Gıda İşletmeleri Denetim Ekiplerine öncelikle diyetisyenlerin görevlendirilmesi, 3. Okul çocuklarının değerlendirilmesi ve politika oluşturma süreçlerinde kullanılmak üzere yürütülen Sağlıkla İlgili Fiziksel Uygunluk Karnesi (FUK) programı kapsamında yapılacak ölçümlerin tüm öğrencilere uygulanması, ders öncesi egzersizlerin yapılması hususlarında planlama yapılırken İl
+2. Millî Eğitim Bakanlığı’nın 2020/8 sayılı “Okul Kantinlerinde Satılacak Gıdalar ve Eğitim
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Betül SAVAŞCI ÇİÇEK
+Kurumlarındaki Gıda İşletmelerinin Hijyen Yönünden Denetlenmesi Genelgesi” kapsamında yürütülen denetimlerde İl/İlçe Gıda İşletmeleri Denetim Ekiplerine öncelikle diyetisyenlerin görevlendirilmesi,
 
-Çankaya/Ankara 06800 Diyetisyen
-
-1/2
+3. Okul çocuklarının değerlendirilmesi ve politika oluşturma süreçlerinde kullanılmak üzere yürütülen Sağlıkla İlgili Fiziksel Uygunluk Karnesi (FUK) programı kapsamında yapılacak ölçümlerin tüm öğrencilere uygulanması, ders öncesi egzersizlerin yapılması hususlarında planlama yapılırken İl
 
 Millî Eğitim Müdürlükleri bünyesinde görev yapan İl Hareketli Yaşam ve Sportif Faaliyetler
 
@@ -68,9 +65,3 @@ Dağıtım:
 Gereği: Bilgi:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü) Milli Eğitim Bakanlığına (Destek Hizmetler Genel Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Betül SAVAŞCI ÇİÇEK
-
-Çankaya/Ankara 06800 Diyetisyen
-
-2/2

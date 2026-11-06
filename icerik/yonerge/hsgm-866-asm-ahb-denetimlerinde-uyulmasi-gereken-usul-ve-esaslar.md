@@ -6,7 +6,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Yayinlarimiz/Rehberler/Ek_ASM-%20AHB%20Denetimlerinde%20Uyulmasi%20Gereken%20Usul%20ve%20Esaslar%20.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 AİLE SAĞLIĞI MERKEZİ VE AİLE HEKİMLİĞİ BİRİMİ
@@ -94,5 +94,3 @@ Merkezi İzleme ve Değerlendirme Formu, EK-2 Aile Hekimliği Birimi İzleme ve
 Değerlendirme Formu ve EK-3 ASM ve AHB'nin Olağandışı Durum, İhbar ve
 
 Şikayetlerinde Kullanılacak Denetim Formu yürürlükten kaldırılmıştır.
-
-3

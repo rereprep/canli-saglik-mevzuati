@@ -8,22 +8,12 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Mobil_Saglik_Hizmetleri_Kirsal_Nufus_Calismasi_1.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-T.C.
-
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-49654233-449-297234300 12.12.2025
 
-Konu : Mobil Sağlık Hizmetleri Kırsal Nüfus
-
-Çalışması
-
-DAĞITIM YERLERİNE
+Konu : Mobil Sağlık Hizmetleri Kırsal Nüfus Çalışması
 
 Mobil sağlık hizmetleri, 12 Haziran 2017 tarihi itibariyle ülke genelinde sunulmaya başlanmıştır. 19 Ekim 2018 tarihinde 2018/24 sayılı “Mobil Sağlık Hizmetleri Genelgesi” yayımlanarak sahaya sunulmuştur.
 
@@ -62,15 +52,3 @@ Ek: Tablo (1 Sayfa)
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Çiğdem BAŞGÜL
-
-Çankaya/Ankara 06800 Doktor
-
-1/2
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Çiğdem BAŞGÜL
-
-Çankaya/Ankara 06800 Doktor
-
-2/2

@@ -8,16 +8,12 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Saglik_Raporlarinin_Gecerlilik_Sureleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
 
 HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
 
 BAŞKANLIĞI
-
-T.C.
 
 SAĞLIK BAKANLIĞI 301012465
 
@@ -44,13 +40,3 @@ Doç. Dr. Muhammed Emin DEMİRKOL
 Bakan a.
 
 Halk Sağlığı Genel Müdürü
-
-Dağıtım:
-
-Gereği: Bilgi:
-
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Elif KETENCİ
-
-Çankaya/Ankara 06800 Büro Personeli

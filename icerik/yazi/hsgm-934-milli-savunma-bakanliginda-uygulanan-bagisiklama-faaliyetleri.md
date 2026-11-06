@@ -8,9 +8,8 @@ birim: "Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanl�
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Milli_Savunma_Bakanliginda_Uygulanan_Bagisiklama_Faaliyetleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -45,14 +44,6 @@ Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Kadriye MANAV
-
 Çankaya/Ankara 06800 Hemşire
 
-1/2
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Kadriye MANAV
-
 Çankaya/Ankara 06800 Hemşire
-
-2/2

@@ -6,7 +6,7 @@ birim: "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Esnek_Mesai_SAHU.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -17,9 +17,7 @@ Türkiye Halk Sağlığı Kurumu Başkanlığı
 
 Sayı : 67350377/770
 
-Konu : Esnek Mesai
-
-………………………….VALİLİĞİNE
+Konu : Esnek Mesai ………………………….VALİLİĞİNE
 
 (Halk Sağlığı Müdürlüğü)
 
@@ -44,11 +42,3 @@ Dağıtım:
 Adana, Ankara, Antalya, Bursa, Edirne, İstanbul, İzmir, Karabük,
 
 Kocaeli, Konya, Rize, Sakarya, Samsun, Yozgat Valiliği
-
-Prof. Dr. Nusret FİŞEK Cad. No.41 N Blok Oda No:14 Yenişehir/SıhhiyeıANKARA
-
-Ayrıntılı bilgi için: MÜRSEL BATGA TEL: 312 565 58 50
-
-.
-
-.

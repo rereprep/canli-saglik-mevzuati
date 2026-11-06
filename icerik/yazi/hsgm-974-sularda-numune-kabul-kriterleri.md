@@ -6,7 +6,7 @@ birim: "Halk Sağlığı Referans Laboratuvarları Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Sularda_Numune_Kabul_Kriterleri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 TL.
@@ -17,15 +17,15 @@ T.Şıtye mos Sıığış
 
 a•uh Türkiye Halk Sağlığı Kurumu
 
-Sayı : 62665021
+Sayı: 62665021
 
-Konu : Sularda Numunc Kabul Kriterleri
+Konu: Sularda Numunc Kabul Kriterleri
 
 VALILIĞINE
 
 (Halk Sağlı-İ Müdürlüğü>
 
-Ilgi: 05:03 2015 tarihli e 62665021'23248055 I 16.01.W-12242 sayılı yazımı,.
+Ilgi: 05: 03 2015 tarihli e 62665021'23248055 I 16.01.W-12242 sayılı yazımı, .
 
 Halk sağlığı Laboratuvarlannda, sularda ruhsat, denetim izleme, kontrol izleme, piyasa gözetimı-denctimi ve diğer çalışmalar için numune kabul kriterleri hazırlanarak ilgi yazı ile 81 il
 
@@ -51,23 +51,21 @@ Gereği:
 
 (Halk Sağlığı Müdürlüğü)
 
-Halk Sağlığı Labontuvarları Daire Başkanlığı Adnan Satigun Cad, No:55 litillitı-Sıhhiye-Ç :İnkaya ANKARA
+Halk Sağlığı Labontuvarları Daire Başkanlığı Adnan Satigun Cad, No: 55 litillitı-Sıhhiye-Ç: İnkaya ANKARA
 
-Klinik Dışı Laboratuvar Hıammien Bınmı Halil ARSLAN ı03!2> 565 5477 F3x:ı0312i 565 5708 «Iş:
+Klinik Dışı Laboratuvar Hıammien Bınmı Halil ARSLAN ı03!2> 565 5477 F3x: ı0312i 565 5708 «Iş:
 
-hsl thsk.saglik.govir e-posta: halilarsleaLgsaglik.govır
-
-Evrakin elektronik ıtırelinv nitp .-belge saglik got- -11 aibeenden ne9N410--(402-4263-bt 'd.' e<ı,c7de.iI kukla: ıle env:Hirsınıte
+Evrakin elektronik ıtırelinv nitp.-belge saglik got- -11 aibeenden ne9N410--(402-4263-bt 'd.' e<ı, c7de.iI kukla: ıle env: Hirsınıte
 
 Bu belge 1/10 sa' il. elekleonik Mien knnunn gole £ınenli elektionik Ana ıle rnı2alannirsor
 
-KİNIYASAL ANALIZ İÇİN GÖNDERILEN . UNIDNELER
+KİNIYASAL ANALIZ İÇİN GÖNDERILEN. UNIDNELER
 
 Kullanılan kabın özellikleri
 
 ▪ N umm: kaplan suyun kimyasal yapısını degiştirmeyecek nitelikte. bu amaç için üretilmiş temiz plastik ı P?. PE. RUE> eya cam kaplarda olmalıdır kimşmal maddelerle steril edilmiş kaplarda gelen numuneler kabul edilmemelidir. Zarar görmüş kırık-çatlak ve sızılırma yapan numune kaplarında gelen numuneler kabul edilmenıelidir.
 
-si Orijinal ambalajında gönderilen niımunelerde: seri parti numarası. üretim i.e son kullanma tarihi bulunma> 3n su numuneleri ve've> a kapak buluntu:bi bozulmuş şişeler damacanalar kabul edilmemelidir
+si Orijinal ambalajında gönderilen niımunelerde: seri parti numarası. üretim i.e son kullanma tarihi bulunma> 3n su numuneleri ve've> a kapak buluntu: bi bozulmuş şişeler damacanalar kabul edilmemelidir
 
 • Nunıuneler istenen parametrelerin çalışılması için yeterli miktarda olmalıdır. ı klüşterinin görüşüne göre belirli parametrelerin çalışması icin numune alınabilinır.ı
 
@@ -75,45 +73,41 @@ Su Numunelerinin Saklanması %e Lasınması
 
 ilim su numunelen alındıktan sonra giirws ışınlarından korunarak saklannıalı e taşıma lıdır
 
-Numuneler tablo 2.,%e göre kabul edilmelidir.
+Numuneler tablo 2., %e göre kabul edilmelidir.
 
 Numune kabul e% rakları
 
 • Denetim izlemesi ıe kontrol izlemesi kapsamında gelen numunderde kod numarası bulunmalıdır
 
-Numuney e ait analiz talep form ve sem resmi yazı lutanakta. [Kilis amacı seistenilen analizleri ilgili yimennelik madde ses. ey a :tablo numarası, ökunabilir sekilde mutlaka belinılmelidir. Bunların herhangi bıriıinin belinilmedigi durumlarda numuneler kabul edilmemelidir.
+Numuney e ait analiz talep form ve sem resmi yazı lutanakta. [Kilis amacı seistenilen analizleri ilgili yimennelik madde ses. ey a: tablo numarası, ökunabilir sekilde mutlaka belinılmelidir. Bunların herhangi bıriıinin belinilmedigi durumlarda numuneler kabul edilmemelidir.
 
 Istisnai durumlar
 
 Aşağıda belirlenen dummlarda numuneler Numune Kabul Kriterlerinde verilen şartlar dışında da.
 
-raporda bu durumun beli:Inmesi şartı ile kabul edilebilir
+raporda bu durumun beli: Inmesi şartı ile kabul edilebilir
 
 Salgın se benzeri olağan üstü durumlarda.
 
-1- Bir kez daha numuney e UlaŞlisrlakı iddrıktıll ııbrna,acak durumlarda
+1- Bir kez daha numuney e UlaŞlisrlakı iddrıktıll ııbrna, acak durumlarda
 
 Net Laboratuvar, geçerli ve güncel kaynak göstermek ve buna iç prasedfiründe belirtmek kumlu ile yukarda belirtilen kuralları, ilave önlemler alabilir.
 
 I makul elelaronık ımsalı eurıume hap mbelge saglık goı ir adrmanden rıedkıd id--l9k3<05c7dhil kodu ıle crıWıdırsınıs
 
-Bu belge ık.(70 sı» ıle elektro:ilk ini.% kanuna gore gu‘enlı clektronık ma ıle ınwalanin/nı
+Bu belge ık.(70 sı» ıle elektro: ilk ini.% kanuna gore gu‘enlı clektronık ma ıle ınwalanin/nı
 
-C .0
+C.0
 
 MİKROBİYOLOJİK VE KIMYASAL ANALIZ IÇEN ALİNAN SU NUMUNELERİNİN
 
 LABORATUVAR KABUL KRITERLERI
 
-()nemli: Hazırlanan bu kriterler. laboratuvarlar arası farklı uygulamaları ortadan kaldırmak ve ıdusafuluslararası standart ve yaklaşımların ülke çapinda nygulanabilmesini ‘aglaırıak amacıyla haurlımmutır. Laboratuvar burada yer alan kriterleri esas alarak mutlaka. kendi i‘ prosoılarünfi oluşturmalı
-
-,rayrrılaınahdır.
+()nemli: Hazırlanan bu kriterler. laboratuvarlar arası farklı uygulamaları ortadan kaldırmak ve ıdusafuluslararası standart ve yaklaşımların ülke çapinda nygulanabilmesini ‘aglaırıak amacıyla haurlımmutır. Laboratuvar burada yer alan kriterleri esas alarak mutlaka. kendi i‘ prosoılarünfi oluşturmalı, rayrrılaınahdır.
 
 MİKROBİYOLOJİK ANALIZ KİN GÖNDERILEN NUMUNELER
 
-kullanılan kabın özellikleri. taşıma ve saklama ile ilgili kurallar
-
-.1 Tüm su çeşitleri için kullanılacak kaplar, bu amaç ıçin üretilmiş stern plastik PP. PEi veya steril cam kaplar olmalıdır. Numune kaplan sızdırmaz özellikle olmalı kırık-çatlak olmamalıdır.
+kullanılan kabın özellikleri. taşıma ve saklama ile ilgili kurallar.1 Tüm su çeşitleri için kullanılacak kaplar, bu amaç ıçin üretilmiş stern plastik PP. PEi veya steril cam kaplar olmalıdır. Numune kaplan sızdırmaz özellikle olmalı kırık-çatlak olmamalıdır.
 
 • Dezenfekte edilen I Klor. ozon. Ilidrojen peroksit vb., veya dezenfekte edildiğinden şüphe duyulan tüm su çeşitleri. sodyıum tiy kaplara alınmalıdır
 
@@ -125,9 +119,9 @@ Hemodiyaliz çoşelcilerınin endmokcin aranması için kullanılacak su nuntune
 
 • Numune konulan kapların t I Oluk kısmı boş bırakılmalıdır
 
-• Ambalajlanınış suların kullanıldığı sebillerden alınan sular. kaynak suyu ‘vsa doğal mineralli su olarak kabul edilir ir Tüm su ntımuneleri en kısa zamanda laboratuvara ulaşurılmalı Ye analize alınmalıdır. Bu süre numunenin alındığı saatten itibaren, numunenin kendi sıcaklığında muhafaza edilmesi halinde en fazla 6 saat. soğuk zincirde ı5,..3rC ise en fazla 24 saattir. Numunenin alındığı andan analize kadar. olması gereken en fazla süre. numune cinsi dikkate alınarak Tablo I 'de verilmiştir.
+• Ambalajlanınış suların kullanıldığı sebillerden alınan sular. kaynak suyu ‘vsa doğal mineralli su olarak kabul edilir ir Tüm su ntımuneleri en kısa zamanda laboratuvara ulaşurılmalı Ye analize alınmalıdır. Bu süre numunenin alındığı saatten itibaren, numunenin kendi sıcaklığında muhafaza edilmesi halinde en fazla 6 saat. soğuk zincirde ı5, ..3rC ise en fazla 24 saattir. Numunenin alındığı andan analize kadar. olması gereken en fazla süre. numune cinsi dikkate alınarak Tablo I 'de verilmiştir.
 
-• Tüm su nunıuneleri alındıktan sonra güneş ışınlarından korunarak ve birbirlerine bulaş olmasını engelleyecek önlemler alınarak soğuk zincirde ı 5:3i; Cıle saklanmalı Ye taşınnıalıdır. Bu şartların sağlanması için nurnune alımı ve taşlısmasından sorunda birim. gerekli önlemleri alarak numuneleri laboratuvara teslim etniell ve bu amaca uygun taşıma kaplan kullanılmalıdır.
+• Tüm su nunıuneleri alındıktan sonra güneş ışınlarından korunarak ve birbirlerine bulaş olmasını engelleyecek önlemler alınarak soğuk zincirde ı 5: 3i; Cıle saklanmalı Ye taşınnıalıdır. Bu şartların sağlanması için nurnune alımı ve taşlısmasından sorunda birim. gerekli önlemleri alarak numuneleri laboratuvara teslim etniell ve bu amaca uygun taşıma kaplan kullanılmalıdır.
 
 z Numunenin berlianui bır kısmı donmuş olmamalıdır.
 
@@ -149,9 +143,9 @@ z Dinli mevzuat kapsamında takibi yapılan numuneler hariç. müştcrinin u ğu
 
 Not Laboratuvar, geçerli ve güncel kaynak göstermek ve bunu iç prosed nde belirtmek koşulu ile yukarıda belirtilen kuralları, ilave önlemler olabilir.
 
-1:•ralan dekti, ı-hclge >3*.- ' odu de errıthddmnış
+1: •ralan dekti, ı-hclge >3*.- ' odu de errıthddmnış
 
-Ihı belge 11011.1 core yı • :k
+Ihı belge 11011.1 core yı •: k
 
 i ı
 
@@ -165,9 +159,7 @@ tn
 
 I iliifnili
 
-2 p.
-
-?C,
+2 p.?C,
 
 s ai
 
@@ -179,33 +171,23 @@ JV
 
 7. 2 E; -£
 
-ı
-
 ı ııvıiııı!cilı
 
 /tok
-
-e
 
 3.
 
 _r
 
-E
-
-c
-
 7.
 
-L:t k
+L: t k
 
 =
 
-- t. !.•
+- t.!.•
 
-7.
-
-;7
+7.; 7
 
 r•
 
@@ -215,8 +197,6 @@ r•
 
 7. r
 
-r
-
 7.
 
 StM
@@ -225,15 +205,11 @@ StM
 
 I ‘1101<.%
 
-I
-
 \141
 
 %II
 
-ı
-
-un,ı
+un, ı
 
 >II
 
@@ -243,25 +219,19 @@ IIı
 
 •I
 
-k
-
 'tl''
 
 1.1111
 
-J
-
 1,
 
-• -- 4 .
+• -- 4.
 
-ı
-
-- . T E.
+-. T E.
 
 7. =
 
-Z -= ?.
+Z -=?.
 
 1.
 
@@ -269,47 +239,37 @@ NUNIUNIF
 
 CINSI
 
-"E - ...•
+"E -...•
 
-4 r: T ri o ı / k 4L k! : g.: . -.. . rı - := a. ı• -T ‘- 5 4= T. . . • P i
+4 r: T ri o ı / k 4L k!: g.: . -... rı -: = a. ı• -T ‘- 5 4= T... • P i
 
 _
 
-- >_ s 7. :-S•
-
--
+- >_ s 7.: -S•
 
 4 -fr- -
 
 7.
 
--
-
 iı 4
-
-ı
 
 iİ
 
 Zİ
 
-{)" 11 ,e
+{)" 11, e
 
 t.1rııı
 
 voş/
 
-ı
-
 ı ijıiıiı.ıım
 
-i ııttI1`,1 I C M'10W
-
-ı
+i ııttI1`, 1 I C M'10W
 
 ş ıt>lıtıı
 
-i14:0.1"
+i14: 0.1"
 
 N OU11.01
 
@@ -317,19 +277,13 @@ N OU11.01
 
 •
 
-» »
-
-ı
-
-. ' S
+» ». ' S
 
 ' +
 
 ı 4 - Eı - 5
 
-- ,
-
-..›
+-, ..›
 
 > 1
 
@@ -339,7 +293,7 @@ N OU11.01
 
 ı - '
 
-- ı ,
+- ı,
 
 - - •
 
@@ -347,7 +301,7 @@ N OU11.01
 
 e - r-
 
-= . •
+=. •
 
 — — — J
 
@@ -355,39 +309,27 @@ e - r-
 
 - —/
 
--
+-.
 
-- .
+Z -..7: - T
 
-Z -
-
-. .7: - T
-
-r ..-
+r..-
 
 =
 
--.;
+-.; : e
 
-:e
+I....: .
 
-I .... :.
+7.. c.. 1Ş. r-.-: T
 
-7. . c .. 1Ş. r- .- : T
-
-4
-
-3 r• . ! : ,5 -. ı• • S 7 r. - " e " . ş = ı
+3 r•.!: , 5 -. ı• • S 7 r. - " e ". ş = ı
 
 -- Ş
 
 F. F., .
 
-z
-
 r—.
-
-7
 
 NI -
 
@@ -395,15 +337,9 @@ r.
 
 r-
 
-1
-
 • ıı
 
-s
-
 im%
-
-1
 
 •
 
@@ -413,11 +349,7 @@ II
 
 •ı
 
-ı
-
 ı.vi
-
-M
 
 \
 
@@ -425,11 +357,7 @@ M
 
 I%
 
-I
-
-1
-
-V .N
+V.N
 
 VI'
 
@@ -437,53 +365,29 @@ li
 
 1J.I
 
-M
-
 lQN111111114'
-
-I
-
-V
-
-N
 
 I >MI
 
-1
-
 •
 
-ğf 7t .7
-
-.; I,
+ğf 7t.7.; I,
 
 ş-
-
-4
 
 z.
 
 x.
 
-g
+a d, _
 
-r
+L L; .-
 
-a d
-
-,_
-
-L L
-
-;.-
-
-t :•,
-
-,
+t: •, ,
 
 =
 
-i = e er 1 e_ — a :
+i = e er 1 e_ — a:
 
 3 I
 
@@ -497,17 +401,7 @@ aas
 
 1 E.
 
-ı1 t.
-
-1
-
-ı
-
-,
-
-.
-
-.. --
+ı1 t., ... --
 
 L, , e _e- — ş
 
@@ -515,25 +409,13 @@ L, , e _e- — ş
 
 — ı ı
 
--
+----.—.- — i r
 
-----
-
-.—.- — i r
-
-r
-
-•.
-
-T
-
-:-. t .::
+•.: -. t.: :
 
 - tr — " — ş— g
 
-E, r — f.r - i i r , t t 4 2-, " ü :- . 2 Z .
-
-.. .0
+E, r — f.r - i i r, t t 4 2-, " ü: -. 2 Z....0
 
 L. r
 
@@ -541,61 +423,31 @@ il
 
 _
 
-a -
+a -, ., , , ., , . -
 
-, .
-
-, ,
-
-, . , , . -
-
-t _ : t ,,, 7.• t, :., r ,,
+t _: t, , , 7.• t, : ., r, ,
 
 — -‘ t
 
-' k I C `. . . - - -- > . x .. 7 ş
+' k I C `... - - -- >. x.. 7 ş
 
-— ert• •
-
-...
-
-1
-
-4
-
-...
+— ert• •......
 
 T, — _
 
 _
 
-r. , . g , r . . - . _ . , , , . . - ü ” 5 e , e r z - w a , ş .., = . t ı .
+r., . g, r.. -. _., , , .. - ü ” 5 e, e r z - w a, ş.., =. t ı.
 
 4 tNt — r
 
-e . =
+e. =
 
-ı .1
-
-7
-
-??.
-
-3
-
-ı
+ı.1??.
 
 rı:
 
-M
-
 ınitli 5
-
-t
-
-3
-
-n
 
 qn
 
@@ -625,8 +477,6 @@ S'
 
 Os' =
 
-r
-
 -t'
 
 s U
@@ -635,105 +485,61 @@ s U
 
 =
 
-iş
+iş._
 
-._
+r. rş
 
-r . rş
+r: : = r
 
-r : := r
+s -, s: -.-..e ur
 
-s -, s
+2, , .... C...
 
-:- .-. .e ur
+İ'.
 
-2 ,,...
-
-. C...
-
-İ'
-
-.
-
-t
-
-=
-
-.
+=.
 
 =-t
 
-". .. n.
+"... n.
 
 r T'
 
-> r1 .... ....
-
-:
+> r1........:
 
 ı ı =
 
-2
-
--
-
-r
-
 =
-
-S
 
 Z_
 
-_
-
-. --..
-
-:
+_. --..:
 
 ii
 
-- z
+- z.... X •
 
-t
+- - -..
 
-.. .. X •
+x, .5...3. = 3
 
-- - -
+z. z, 1,
 
-. .
-
-x , .5 ...3. = 3
-
-z. z , 1,
-
-g - 7 , - • -; ; . r ı. ,- •
+g - 7, - • -; ; . r ı., - •
 
 - - -
 
-Z ;..
+Z; ......, ....., : • -
 
-.... ,..
+- r.., -
 
-... ,
-
-8
-
-: • -
-
-- r.. , -
-
-3 : 2 S;: E-_- 3 E
+3: 2 S; : E-_- 3 E
 
 E. 5
 
 2 -
 
-İ. = . ....
-
-z
-
-;
+İ. =.....;
 
 S S
 

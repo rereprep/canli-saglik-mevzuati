@@ -8,18 +8,12 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Hekimligi_Birimine_Muracaat_Etmeyen_Nufus_Gruplari_2.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
-
-BAŞKANLIĞI
 
 T.C.
 
-SAĞLIK BAKANLIĞI 282671095
+SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
 
@@ -60,7 +54,3 @@ Gereği: Bilgi:
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne Teftiş Kurulu Başkanlığına
 
 Strateji Geliştirme Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Elif KETENCİ
-
-Çankaya/Ankara 06800 Büro Personeli

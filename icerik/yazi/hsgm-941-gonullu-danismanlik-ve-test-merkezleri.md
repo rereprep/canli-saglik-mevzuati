@@ -6,18 +6,13 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Ek_Gonullu_Danismanlik_Ustyazi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-.
-
 T.C.
 
 SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
-
-.
 
 Sayı :13588366-135.99
 
@@ -52,12 +47,6 @@ Bulaşıcı Hastalıklar Daire Başkanlığı
 Sağlık Mah. Adnan Saygun Cd., No:55, G Blok, Kat:1 06100, Çankaya/ANKARA
 
 Faks No: Fax: (0.312) 432 29 94 TABİP
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
-.
 
 GDTM Personel Kriterleri:
 
@@ -96,10 +85,6 @@ Bulaşıcı Hastalıklar Daire Başkanlığı
 Sağlık Mah. Adnan Saygun Cd., No:55, G Blok, Kat:1 06100, Çankaya/ANKARA
 
 Faks No: Fax: (0.312) 432 29 94 TABİP
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 T.C. SAĞLIK BAKANLIĞI (HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ) İLE
 
@@ -141,14 +126,6 @@ MADDE 6- Altı maddeden ibaret işbu Protokol, tarafların karşılıklı olarak
 
 Sağlık Bakanlığı …………….. Belediye Başkanlığı
 
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 İÇİNDEKİLER
 
 GEREKÇE .......................................................................... 2
@@ -170,10 +147,6 @@ GDTM PERSONELİNİN ÖZELLİKLERİ ...................... 17
 Danışmanın Nitelikleri, Görev ve Sorumlulukları ........ 17
 
 Danışmanlığın İşlevleri ................................................. 18 1
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 GÖNÜLLÜ DANIŞMANLIK VE TEST
 
@@ -202,12 +175,6 @@ gruplara; HIV/AIDS’ten korunma ve bulaşma yolları
 hakkında bilgi verilmesi, ücretsiz ve gizlilik esasları
 
 içerisinde HIV test hizmetinin sunulması, test öncesi ve
-
-2
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 sonrasında danışmanlık hizmetinin sunulması, tedavi için
 
@@ -243,12 +210,6 @@ yaklaşımlar nedeniyle de kişi çok daha büyük zarar
 
 görebilir.
 
-3
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 HIV enfeksiyonunun ifşası nedeniyle kişinin ailesinde,
 
 okulunda, yaşadığı toplulukta ya da çalıştığı işyerinde
@@ -282,12 +243,6 @@ HIV durumunu öğrenmenin avantajları ve dezavantajlarını
 kendilerince karşılaştırarak test yaptırmakta veya
 
 yaptırmamaktadır.
-
-4
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 Tanının konulmasının ardından kişilerin mahremiyeti,
 
@@ -325,12 +280,6 @@ yürütülmekte olup asgari yükümlülükler aşağıdaki gibi
 
 tanımlanmış olacaktır.
 
-5
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 Halk Sağlığı Genel Müdürlüğünün Yükümlülükleri
 
 1. Protokol kapsamındaki işlerin koordinasyonunun
@@ -365,12 +314,6 @@ koruyucu malzeme sağlanması hususunda
 
 girişimlerde bulunulması.
 
-6
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 Paydaş Kurumun Yükümlülükleri
 
 1. Danışmanlık ve test merkezinin açılması,
@@ -400,12 +343,6 @@ zamanlarda bulunduğu ilin ‘‘İl Sağlık Müdürlüğü
 6. Merkezlerde görev alacak personelin test öncesi ve
 
 test sonrası danışmanlık eğitiminin sağlanması,
-
-7
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 7. Hastalığın bulaşmasının önlenmesine yönelik
 
@@ -441,12 +378,6 @@ Merkezi ve yerel dinamiklerin işbirliğinde ortaya koyulan
 
 bu yapılar çok sektörlü yaklaşımı sağlayabilirse,
 
-8
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 yetiştirilmiş personelin doğru istihdamını, kalite
 
 güvencesini ve tıbbi hizmetlerinin doğru entegrasyonunu da
@@ -475,12 +406,6 @@ madde bağımlıları gibi tanımlanmış yüksek risk gruplarına
 
 şekilde, bilgilendirici ve yönlendirici materyaller vasıtasıyla söz konusu kişilere de hizmet sunmalıdır.
 
-9
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 Gönüllü danışmanlık ve test (GDT), iki etkinliğin, tek bir
 
 etkinlik olarak sunulmasıdır. İdeal olarak, GDT katı tanısal
@@ -508,12 +433,6 @@ diğer enfeksiyon hastalıkları gibi konuşulabilir bir hastalık olduğu toplu
 GDT uygulamaları, ayrıca “virüsün anneden çocuğa
 
 bulaşmasının engellenmesi programları”nın temel
-
-10
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 bileşenidir. Eğer kadınlar HIV ile ilgili kendi durumlarını
 
@@ -547,12 +466,6 @@ Test Öncesi Danışmanlık Hizmeti
 
  Sonuçların nasıl öğrenileceği konularını kapsar.
 
-11
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 Test öncesi danışmanlık, danışmanlara ve hizmet alıcılara,
 
 HIV testi yöntemini, olumlu ve olumsuz test sonuçlarının
@@ -583,12 +496,6 @@ konularında değerlendirme yapabilmelerini sağlamakta ve
 
 sonuçlarla başa çıkabilme yetilerini geliştirmektedir.
 
-12
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 Buna ek olarak, danışmanlar, kişisel HIV riski azaltma
 
 planlarına ve değişime yönelik gerçekçi ve kademeli
@@ -617,12 +524,6 @@ sağlık hizmeti sunucusuna hem de hizmet alıcısına test
 
 sonuçlarını anlamaya yönelik değerlendirme yapmasında
 
-13
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 yardımcı olmaktadır. Test sonuçları, hizmet alıcının sonucu
 
 hazmetmesi için mümkün olduğu kadar çabuk verilmelidir.
@@ -648,12 +549,6 @@ kontrol randevusu verilir, gerekli görülmez ise de
 dilediği zaman yeniden başvurabileceği hatırlatılır.
 
 Test sonuçları negatifse, hizmet alıcı, test yapılmadan üç ay önce ya da son üç ay içinde kendisini riske atacak davranışlarda bulunmuşsa sonuçların doğru olmayabileceği konusunda uyarılmalıdır. Hizmet alıcıya ileri bir tarihte kendisi için uygun bir zamanda yeniden test yapılmalıdır.
-
-14
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 Negatif test sonucunu açıklarken, danışman test
 
@@ -690,12 +585,6 @@ hizmet alıcının duygusal tepkilerini gidermeli,
 sorulan her türlü soruyu cevaplamalı, tedavi
 
 seçeneklerini görüşmeli (eğer varsa) ve hizmet
-
-15
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 alıcının virüsü başkalarına bulaştırmaması için ne
 
@@ -735,12 +624,6 @@ tamamının “Genel Sağlık Sigortası” kapsamında
 
 karşılanacağı hatırlatılmalıdır.
 
-16
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 Test sonuçları pozitif olan kadınlara virüsün anneden
 
 çocuğa bulaşmasının önlenmesiyle ilgili seçenekler
@@ -770,12 +653,6 @@ Danışmanın Nitelikleri, Görev ve Sorumlulukları
  Ketum/sır tutabilen
 
  Dürüst
-
-17
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
  Dikkatli/dinlemeyi bilen
 
@@ -808,12 +685,6 @@ onların yakınlarına yönelik olarak, yoğun problemlerle karşı
 karşıya kalanlara psikososyal destek sağlanması yoluyla
 
 uzman desteğini almaları için yönlendirme sağlanmalıdır.
-
-18
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 Yüksek riskli bireylere veya gruplara;
 
@@ -849,12 +720,6 @@ farkında olmayabilir. Bu nedenle riskli davranışları açığa
 
 yönelik olarak sunulmaktadır.
 
-19
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 HIV’in getirdiklerinin, başkasına bulaşmasının nasıl
 
 önlenebileceğinin, HIV pozitif kişilerin sorumlulukları
@@ -884,12 +749,6 @@ Daha derinlemesine ve detaylı bilgiler almak için
 (...hakkında bana daha fazla şey söyleyebilir misiniz?)
 
 şeklinde sebep keşfedici sorular sorulabilir.
-
-20
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
 
 Aktif Dinleme: Başvurana yardımda gerekli olan bilgilere
 
@@ -927,12 +786,6 @@ Duyguları Yansıtma: Başvuranın kendi duygularını
 
 anlamasına yardımcı olan, söylediği şeyleri açıklığa
 
-21
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
 kavuşturmaya yarayan sözcüklerdir. “Bana öyle geliyor ki;
 
 kocanın başka kadınlarla ilişkisi olduğundan şüpheleniyor
@@ -964,9 +817,3 @@ Uzlaşmaya varma: Görüşme süresince verilen kararların
 açıklığa kavuşturulması ve özetlenmesi için görüşmenin
 
 sonunda bir uzlaşmaya varılmalıdır.
-
-22
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden bf67b12d-a077-4e13-94b8-50ded2e22eae kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.

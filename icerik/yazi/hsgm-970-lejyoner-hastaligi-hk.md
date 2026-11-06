@@ -6,18 +6,8 @@ birim: "Halk Sağlığı Referans Laboratuvarları Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Lejyoner_Hastaligi_Hakkinda_1.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-- 3 -
-
-7:7-KIVE HX.K ŞABLIBIlmenrc- THSK HALK
-
-S.AĞLIĞI aBORATIXARLARI DAIRE BAŞKA:Nil&
-
-11-3 Ş.:56:,:••4,' 99 Ekığ
-
-LJ E ulu
 
 T.C.
 
@@ -27,9 +17,9 @@ SAĞLIK BAKANLIĞI
 
 <wıarıı, Türkiye Halk Sağlığı Kurumu
 
-Sayı : 62665021/090.99
+Sayı: 62665021/090.99
 
-Konu : Lejyoner Hastalığı Hk.
+Konu: Lejyoner Hastalığı Hk.
 
 VALİLIĞINE
 
@@ -55,25 +45,19 @@ Muğla Valiliği, Adana Valiliği, Bursa Valiliği,
 
 Kayseri Valiliği, Samsun Valiliği, Ankara Valiligi,
 
-Konya Valiliği, Diyarbakır Valiligi,Amalya Valiliği
+Konya Valiliği, Diyarbakır Valiligi, Amalya Valiliği
 
 Istanbul Valiliği, Erzurum Valiliği
 
-Adnan Saygun Cad. No:55 06100 Çankaya-ANICARA 0312 565 54 80
-
-Halk Sağlığı Laboratuvarları Daire Başkanlığı
+Adnan Saygun Cad. No: 55 06100 Çankaya-ANICARA 0312 565 54 80
 
 Evralun elektronik imzalı surenne htlpıne-belgesaglik.gov
 
-tv adresinden 0d60e68a-c1054d48-9 I d9-06243d54 I ece kodu ile erisebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ıle imzalanmıstır.
-
-:VSJUNT_ aux sAnuni 1145K a 1..Aszeı
+tv adresinden 0d60e68a-c1054d48-9 I d9-06243d54 I ece kodu ile erisebilirsiniz.: VSJUNT_ aux sAnuni 1145K a 1..Aszeı
 
 ~Nı STAII4C.AR DAIRE S AŞ KAYLIĞI
 
-09 «I 44416 14 45 14'S 466 , 13 .6,6 • E. 644
+09 «I 44416 14 45 14'S 466, 13.6, 6 • E. 644
 
 11 11111111101101 )10 11111111
 
@@ -87,9 +71,9 @@ Türkiye Halk Sağlığı Kurumu
 
 Kwurşo
 
-Sayı : 13588366/134.06
+Sayı: 13588366/134.06
 
-Konu : Lejyoner Hastalığı Kontrol Programı
+Konu: Lejyoner Hastalığı Kontrol Programı
 
 HALK SAĞLIĞI LABORATUVARLARI DAIRE BAŞKANLIĞINA
 
@@ -115,13 +99,7 @@ Hastaneler. Lejyoner hastalığı için risk grubuna giren bireylerin genel pop�
 
 Müdürlüğü (HSM) veya Toplum Sağlığı Merkezi (TSM) Çevre Sağlığı Birimi tarafından alınan su ömeklerinin, HSM aracılığı ile yetkilendirilmiş HSLIna gönderilmesi ve bütün
 
-Türkiye Halk Sağlığı Kurumu Bulaşıcı Hasıalıklar Daire Başkanlığı Sağlık Mah. Adnan Saygun Cad. No: 5$ 06100 Sıhhiyet ANKARA Tel: O 312 565 5488 Faks: O 312 432 2994
-
 Dr. Günseli Tuba Kabakcı
-
-Evrakın elektronik imzalı suretine hori(e-belgenaglik.govır adresinden Od60e68a-e1054d4B-91d9-06243d541eca kodu ile erisebilirsıniz.
-
-Bu belge 5070 saydı elektronik Iran kanuna göre güvenli elektronik imza ile imzulanmıstır.
 
 masraflannın konaklama birimlerince karşılanarak incelemenin yapılması gerekir.
 
@@ -145,10 +123,4 @@ Dr. Ayla AYDIN
 
 Daire Başkanı
 
-Türkiye Halk Sağlığı Kurumu Bulaşıcı Hastalıklar Daire Başkanlığı Sağlık Mah. Adnan Saygun Cad. No: 55 06100 Sihhiye/ ANKARA Tel: O 31 2 565 5488 Faks: O 312 432 2994
-
 Dr. Günseli Tuba Kabakcı
-
-Evrakın elektronik imzalı suretine bnp://e-belge.saglik.govir alresinden 0d60c68a-e I 054d48-91d9-06243d54 Icra kodu ile aisebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstın

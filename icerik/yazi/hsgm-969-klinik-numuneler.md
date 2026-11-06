@@ -6,20 +6,8 @@ birim: "Halk Sağlığı Referans Laboratuvarları Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Klinik_Numuneler.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
--
-
-ttliratz RALX SAĞLILIKLIttalL: MS>. HA:K
-
-SAC-LIbt IABORATIXARIARI DAVI Aste-1
-
-:C Iş :1.5 Ş-6e50.1 C.)099 iN?
-
-ili
-
-Elli Il
 
 T.C.
 
@@ -31,9 +19,9 @@ tı.nıryş Sağı9
 
 Kıı~ıtı Türkiye Halk Sağlığı Kurumu
 
-Sayı : 62665021/090.99
+Sayı: 62665021/090.99
 
-Konu : Klinik Numuneler
+Konu: Klinik Numuneler
 
 VALILİGİNE
 
@@ -57,10 +45,4 @@ Gereği: 81 İl Valiliğine
 
 (Halk Sağlığı Müdürlüğü)
 
-Adnan Saygun Cad. No:55 06100 Çankaya-ANKARA 0312 565 54 80
-
-Halk Sağlığı Laboranıvarları Daire Başkanlığı
-
-Evrakın elektronik imzalı suretine hıtp:ile-belge.saglik.govir adresinden cld835d-01ea492e-96d7-0ee49f5a7337 kodu ile erisebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile inızalanmısur.
+Adnan Saygun Cad. No: 55 06100 Çankaya-ANKARA 0312 565 54 80

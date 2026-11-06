@@ -8,20 +8,12 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_hekimligi_birimine_muracaat_etmeyen_nufus_gruplari-1.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
-
-BAŞKANLIĞI
-
-5.08.2025 15:20:35 E-99858683-045.01-284158696
 
 T.C.
 
-SAĞLIK BAKANLIĞI 284158696
+SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
 
@@ -66,7 +58,3 @@ Gereği: Bilgi:
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne Teftiş Kurulu Başkanlığına
 
 Strateji Geliştirme Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Dr. Aslıhan KAHRAMAN KOÇAN
-
-Çankaya/Ankara 06800

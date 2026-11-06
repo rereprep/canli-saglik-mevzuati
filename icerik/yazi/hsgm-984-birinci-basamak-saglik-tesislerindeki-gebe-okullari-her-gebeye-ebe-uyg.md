@@ -8,16 +8,9 @@ birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Birinci_Basamak_Saglik_Tesislerindeki_Gebe_Okullari_Her_Gebeye_Ebe_Uygulamasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 2
-
-HSGM KADIN VE ÜREME SAĞLIĞI DAİRE BAŞKANLIĞI
-
 T.C.
-
-264072072
 
 SAĞLIK BAKANLIĞI
 
@@ -59,8 +52,6 @@ Gereği: Bilgi:
 
 (İl Sağlık Müdürlüğü)
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Zeynep BİRCAN
-
 Çankaya/Ankara 06800
 
 1/2
@@ -68,8 +59,6 @@ Gereği: Bilgi:
 Kamu Hastaneleri Genel Müdürlüğüne
 
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Zeynep BİRCAN
 
 Çankaya/Ankara 06800
 

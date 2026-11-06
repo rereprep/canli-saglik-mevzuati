@@ -8,34 +8,20 @@ birim: "Çevre Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/icme-kullanma_Suyu_Izleme_Calismalari.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-T.C.
-
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-19020089-115.01.01-297844799 12.12.2025
 
 Konu : İçme-kullanma Suyu İzleme Çalışmaları
 
-DAĞITIM YERLERİNE
+Ülkemizde 1593 Sayılı Umumi Hıfzıssıhha Kanunu ve 1 Sayılı Cumhurbaşkanlığı Kararnamesi gereğince içme-kullanma suları, ambalajlı sular, yüzme suları, havuz suları ve kaplıca sularının kalitesine ilişkin çalışmalar Bakanlığımız sorumluluğunda yer almaktadır.
 
-Ülkemizde 1593 Sayılı Umumi Hıfzıssıhha Kanunu ve 1 Sayılı Cumhurbaşkanlığı Kararnamesi gereğince içme-kullanma suları, ambalajlı sular, yüzme suları, havuz suları ve kaplıca sularının kalitesine ilişkin çalışmalar
-
-Bakanlığımız sorumluluğunda yer almaktadır.
-
-Söz konusu sulara yönelik tüm çalışmalar Bakanlığımız csbs.saglik.gov.tr web adresinde faaliyet gösteren
-
-Çevre Sağlığı Bilgi Sistemi (ÇSBS) üzerinden takip edilmekte olup; sularla ilgili modüllerin tamamı 2025 yılı sonu itibarıyla aktif hale getirilecektir.
+Söz konusu sulara yönelik tüm çalışmalar Bakanlığımız csbs.saglik.gov.tr web adresinde faaliyet gösteren Çevre Sağlığı Bilgi Sistemi (ÇSBS) üzerinden takip edilmekte olup; sularla ilgili modüllerin tamamı 2025 yılı sonu itibarıyla aktif hale getirilecektir.
 
 ÇSBS üzerinden yapılan çalışmalarda hataların önlenmesi ve işlemlerin eksiksiz şekilde yürütülmesi açısından; tüm modüllere yönelik sahadaki değişikliklerin ivedilikle sisteme aktarılması, verilerin eksiksiz şekilde güncel tutulması ile gerekli bilgi ve belgelerin sisteme yüklenmesi büyük öneme sahiptir.
 
-Diğer tarafta, yerel yönetimler tarafından temin edilen ve dezenfekte edilerek tüketime sunulan içme- kullanma sularının kalitesine yönelik çalışmalar İnsani Tüketim Amaçlı Sular Hakkında Yönetmelik çerçevesinde
-
-Bakanlığımızca yürütülmekte olup bu suların sağlıklı ve güvenli olması; koruyucu sağlık hizmetlerinin önemli parametrelerinden biridir.
+Diğer tarafta, yerel yönetimler tarafından temin edilen ve dezenfekte edilerek tüketime sunulan içme-kullanma sularının kalitesine yönelik çalışmalar İnsani Tüketim Amaçlı Sular Hakkında Yönetmelik çerçevesinde Bakanlığımızca yürütülmekte olup bu suların sağlıklı ve güvenli olması; koruyucu sağlık hizmetlerinin önemli parametrelerinden biridir.
 
 Bu kapsamda içme-kullanma sularında tespit edilen uygunsuzluklarla ilgili düzeltici ve önleyici tedbirlerin ivedilikle alınması açısından; saha çalışmalarında tespit edilen uygunsuzluk durumları derhal ilgili yerel yönetimlere bildirilmelidir. Ayrıca her yerel yönetimin kendi sorumluluk alanındaki içme-kullanma suları analiz sonuçlarına erişim sağlaması için mahalli idare yöneticileri ve ilgili kurum-kuruluş yetkililerine ÇSBS konusunda bilgilendirme yapılarak sistemin kullanımı için yetkili personele kullanıcı tanımlanması gerekmektedir.
 
@@ -52,7 +38,3 @@ Halk Sağlığı Genel Müdürü
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah.Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad.No:9 Bilgi için: Burcu AYDIN
-
-/1Çankaya 06430 Mühendis

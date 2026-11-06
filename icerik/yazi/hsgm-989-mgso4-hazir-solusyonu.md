@@ -6,10 +6,8 @@ birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/MgSO4_Hazir_Solusyonu_81_il_yazisi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-.
 
 T.C.
 
@@ -29,11 +27,11 @@ Zehirlenmesi) bağlı olarak gelişen obstetrik komplikasyonlardır. Bu komplika
 
 Ülkemizde anne ölümlerinin 2016 yılında %10.7 preeklampsi kaynaklı olup, doğrudan anne ölümlerinin ikinci en sık nedenidir. Preeklampsi gelişen gebelerin ölüm nedenleri eklampsi, HELLP sendromu, akut böbrek yetmezliği, akciğer ödemi ve ablasyo plasentadır.
 
-Eklampsi preeklampsi olduğu bilinen bir hastada konvülzyon, koma veya her ikisinin ortaya çıkmasıdır. Eklampsinin önlenmesinde Magnezyumsülfat (MgSo4) etkinliği saptanmış, mutlaka uygulanması gereken bir ajandır. Yükleme dozu 4-6 gr idame dozu saatte 1-3 gramdır. Hali hazırda ülkemizde MgSO4 içeren ampüller solisyon içine konularak yükleme ve idame dozları hazırlanmakta ancak hazırlanma sırasında hastaneler arasında farklılıklar olmaktadır.
+Eklampsi preeklampsi olduğu bilinen bir hastada konvülzyon, koma veya her ikisinin ortaya çıkmasıdır. Eklampsinin önlenmesinde Magnezyum sülfat (MgSo4) etkinliği saptanmış, mutlaka uygulanması gereken bir ajandır. Yükleme dozu 4-6 gr idame dozu saatte 1-3 gramdır. Hali hazırda ülkemizde MgSO4 içeren ampüller solisyon içine konularak yükleme ve idame dozları hazırlanmakta ancak hazırlanma sırasında hastaneler arasında farklılıklar olmaktadır.
 
-Dünyada yaygın olarak MgSO4 hazır solüsyonlarının kullanıldığı bilinmektedir. Bu kapsamda Türkiye İlaç ve Tıbbi Cihaz Kurumu’nun 27.09.2017 tarih ve 24931227-000-2 sayılı yazısı ile Türk Tıpsan Magnezyum Sülfat 40G/1000Ml. IV İnfüzyon için Çözelti100 Ml ve
+Dünyada yaygın olarak MgSO4 hazır solüsyonlarının kullanıldığı bilinmektedir. Bu kapsamda Türkiye İlaç ve Tıbbi Cihaz Kurumu’nun 27.09.2017 tarih ve 24931227-000-2 sayılı yazısı ile Türk Tıpsan Magnezyum Sülfat 40G/1000Ml. IV İnfüzyon için Çözelti 100 Ml ve
 
-Türk Tıpsan Magnezyum Sülfat 4G/100Ml. IV İnfüzyon için Çözelti100 Ml solüsyonlarına ruhsat verildiği bildirilmiştir.
+Türk Tıpsan Magnezyum Sülfat 4G/100Ml. IV İnfüzyon için Çözelti 100 Ml solüsyonlarına ruhsat verildiği bildirilmiştir.
 
 Ülkemizde ruhsatlandırılmış standardize MgSO4 hazır solüsyonlarının kullanılması ve temini için il genelinde faaliyet gösteren tüm kadın hastalıkları ve doğum kliniği bulunan hastanelere, kadın hastalıkları ve doğum uzmanı hekimlerine bilgi verilmesi hususunu;
 
@@ -54,29 +52,3 @@ Gereği: Bilgi:
 81 İl Valiliği (İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğü
 
 Kamu Hastaneleri Genel Müdürlüğü
-
-Kadın ve Üreme Sağlığı Daire Başkanlığı Korkut Reis Mah. İlkiz Sok. No: 4/3
-
-Sıhıye/ ANKARA
-
-Faks No: Unvan:EBE
-
-immahan.gunaydin@thsk.gov.tr Tel: (0312) 565 60 40 Faks: (0312) 565 60 55
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 5a78ec56-ddc1-4d43-91da-a020b13e3d94 kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.
-
-.
-
-Kadın ve Üreme Sağlığı Daire Başkanlığı Korkut Reis Mah. İlkiz Sok. No: 4/3
-
-Sıhıye/ ANKARA
-
-Faks No: Unvan:EBE
-
-immahan.gunaydin@thsk.gov.tr Tel: (0312) 565 60 40 Faks: (0312) 565 60 55
-
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden 5a78ec56-ddc1-4d43-91da-a020b13e3d94 kodu ile erişebilirsiniz.
-
-Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıstır.

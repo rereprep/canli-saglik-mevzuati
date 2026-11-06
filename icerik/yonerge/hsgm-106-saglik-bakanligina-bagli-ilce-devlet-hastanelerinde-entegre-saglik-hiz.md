@@ -8,7 +8,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Yonergeler/SB_Bagli_Ilce_DH_Entegre_Saglik_Hizmeti_Sunulmasina_Iliskin_Usul_ve_Esaslar_Hakkinda_Yonerge.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -57,8 +57,6 @@ Eki : 1 Onay
 
 ilcehastane@googlegroups.com
 
-Tel:0 505 772 42 77
-
 DAĞITIM :
 
 Gereği :
@@ -78,8 +76,6 @@ Gereği :
 -Sosyal Güvenlik Kurumu Başkanlığına
 
 T.C.
-
-1
 
 SAĞLIK BAKANLIĞI
 
@@ -136,8 +132,6 @@ EKLER:
 1- Yönerge
 
 2- Liste
-
-2
 
 SAĞLIK BAKANLIĞINA BAĞLI ĠLÇE DEVLET HASTANELERĠNDE ENTEGRE
 
@@ -203,8 +197,6 @@ Madde 5- (1) Entegre sağlık hizmet modeli ile hizmet verecek hastaneler, coğr
 
 Genel Müdürlüğe devredilir. İlçe devlet hastanesinin statüsü gerektiğinde aynı usulle değiştirilebilir.
 
-4
-
 (2) E-I grubu ilçe devlet hastaneleri hariç olmak üzere, entegre sağlık hizmeti sunulan ilçe devlet hastanelerinin bulunduğu ilçe merkezlerindeki tüm aile hekimliği birimleri bu hastanelerin bünyesinde açılır ve faaliyet gösterir. Fiziki yetersizlik veya hastanenin konumu itibariyle hastaların sağlık hizmetine ulaşım güçlüğü bulunduğunun müdürlükçe belirlenmesi durumunda aile hekimliği birimleri ayrı binalarda faaliyet gösterebilir.
 
 (3) Fiziki şartların uygun olması kaydıyla toplum sağlığı merkezi ilçe devlet hastanesi bünyesinde hizmet verir.
@@ -234,8 +226,6 @@ Madde 7- (1) Entegre sağlık hizmeti sunulan ilçelerde, aile hekimi olmayan g�
 (2) E-I Grubu ilçe devlet hastanelerinin bulunduğu ilçe merkezlerindeki Bakanlığa ait mevcut sağlık birimlerinde görevli personel ilçe devlet hastanesine devredilir. İlçe merkezinde hizmet veren sağlık kuruluşlarındaki tüm personel ilgili mevzuatında belirlenmiş olan görev, yetki ve sorumlulukları çerçevesinde baştabipliğe bağlı olarak hizmet verir.
 
 (3) Entegre sağlık hizmet modeli uygulanan ilçelerde Bakanlıkça belirlenen nüfus kriterlerine uygun olarak ilave aile hekimliği pozisyonları açılır veya kapatılır.
-
-5
 
 ÜÇÜNCÜ BÖLÜM
 
@@ -277,8 +267,6 @@ Mali hususlar
 
 Madde 10- (1) E-II ve E-III grubu ilçe devlet hastanelerinde, koruyucu hizmetler ve ağız ve diş sağlığı hizmetleri için fatura tahakkuku yapılmaz. Aile hekimliği mevzuatında belirtilen giderler hariç olmak üzere her türlü mal ve hizmet alımları ve yapım işlerine ait giderler müdürlükçe karşılanır.
 
-6
-
 (2) Sınırlarının açıkça belirtilmesi, yazılı olması ve muhasebe yetkilisine bildirilmesi şartıyla harcama yetkilisince gerek görüldüğünde; E-II ve E-III grubu ilçe devlet hastanesi baştabibine yapılacak harcamalar için harcama yetkiliği devredilebilir. Ayrıca E-II ve E-III grubu ilçe devlet hastanesinde harcama yetkilisince gerçekleştirme görevlisi de görevlendirilebilir.
 
 (3) E-II ve E-III grubu ilçe devlet hastaneleri bünyesinde; aile hekimliği birimlerince kullanılan alanların kira bedelleri ilgili mevzuat doğrultusunda aile hekimlerinden tahsil edilerek ilgili müdürlüğün döner sermaye bütçesine gelir kaydedilir. Elektrik, su, yakıt (doğalgaz, fueloil, kömür v.b), internet iletişim, temizlik hizmetleri gibi hastane ile ortak kullanılan ve ayrılamayan giderler için aile hekimlerinin hizmet verdiği saatler ile kullanım metrekareleri gibi parametreler esas alınarak her aile hekimliği birimi için ayrı hesaplanır ve bulunacak tutar ilgili aile hekimince her ay müdürlüğün döner sermaye hesabına yatırılır.
@@ -317,8 +305,6 @@ GEÇĠCĠ MADDE 1- (1) Bu yönergenin yürürlüğe girdiği tarihte entegre sa�
 
 (4) Birinci fıkra hükmüne göre Genel Müdürlüğe devredilen ilçe devlet hastanelerinin tüm taşınırları (Genel Bütçe ve Döner Sermaye) ilgili müdürlüğe devredilir.
 
-7
-
 Yürürlük
 
 Madde 15- (1) Bu Yönerge Bakan onayı ile yürürlüğe girer.
@@ -328,8 +314,6 @@ Yürütme
 Madde 16- (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
 (28/09/2011 tarihli ve 39617 sayılı Makam Onayı ile yürürlüğe girmiştir.)
-
-8
 
 TEMEL SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE DEVREDİLEN EII - EIII GRUBU İLÇE DEVLET HASTANELERİ
 
@@ -408,8 +392,6 @@ KAHRAMANMARAŞ NURHAK İLÇE DEVLET
 74 375869 KAHRAMANMARAŞ EII 19
 
 HASTANESİ
-
-10
 
 75 709240 KARABÜK KARABÜK ESKİPAZAR İLÇE DEVLET HASTANESİ EIII 15 76 194271 KARAMAN KARAMAN SARIVELİLER İLÇE DEVLET HASTANESİ EII 15 77 203381 KARS KARS DİGOR İLÇE DEVLET HASTANESİ EII 10 78 196571 KASTAMONU KASTAMONU ABANA İLÇE DEVLET HASTANESİ EIII 10
 

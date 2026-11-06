@@ -8,12 +8,8 @@ birim: "Toplum Sağlığı Hizmetleri ve Eğitim Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/SHM_Personelinin_EKIP_Portala_Kayit_Edilmesi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM TOPLUM SAĞLIĞI HİZMETLERİ VE EĞİTİM DAİRE
 
 BAŞKANLIĞI
 
@@ -58,7 +54,3 @@ Ek: Entegre Kurumsal İşlem Platformu (Ekip) Sağlıklı Hayat Merkezi Kullanı
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: SELAHATTİN OKCU
-
-Çankaya/Ankara 06800 Sağlık Memuru

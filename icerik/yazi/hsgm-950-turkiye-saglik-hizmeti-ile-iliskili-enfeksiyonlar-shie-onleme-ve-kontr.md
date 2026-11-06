@@ -8,9 +8,8 @@ birim: "Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Turkiye_Saglik_Hizmeti_ile_Iliskili_Enfeksiyonlar_SHIE_Onleme_ve_Kontrol_Programi_2025-2029.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -60,7 +59,3 @@ Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
 Tıpta Uzmanlık Kurulu
 
 Yükseköğretim Kurulu Başkanlığına
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Giriş Kat Bilgi için: Esen BATIR
-
-Çankaya/Ankara 06800 Hemşire

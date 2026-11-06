@@ -8,24 +8,14 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Hizmet_Mekani_Gosterilemeden_Acilan__ASM-AHBlerin_olusturulmasi_veya_kapatilmasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-HSGM GENEL MÜDÜR YARDIMCILIĞI 4
-
-HSGM AİLE HEKİMLİĞİ UYGULAMA VE GELİSTİRME DAİRE
 
 BAŞKANLIĞI
 
-T.C.
+Sayı: E-99858683-045.01-276878597 31.05.2025
 
-SAĞLIK BAKANLIĞI 276878597
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı : E-99858683-045.01-276878597 31.05.2025
-
-Konu : Hizmet Mekanı Gösterilemeden Açılan
+Konu: Hizmet Mekanı Gösterilemeden Açılan
 
 ASM-AHB’lerin oluşturulması veya
 
@@ -40,12 +30,6 @@ Aile sağlığı merkezleri öncelikle Bakanlık, Kurum veya bağlı kuruluşlar
 Bu çerçevede Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği’nin “Aile hekimi ödeme esasları” başlıklı 18 inci maddesinin ikinci fıkrasının (c) bendinde yer alan “8) Yeni açılan ve müdürlükçe hizmet verilecek aile sağlığı merkezi mekânı gösterilemeyen birimler için aile sağlığı merkezi giderleri, on ay boyunca yukarıdaki kriterlere bağlı olmaksızın tavan ücretin % 100’ü olarak ödenir. Bu birimlerin açılmasını müteakiben ilk yerleştirme sonucunda boş kalması halinde müdürlüğün teklif ettiği ve Bakanlıkça uygun görülen yerler için giderleri döner sermaye bütçesinden karşılanmak üzere müdürlükçe kiralama, iç mekân tadilatı, tefrişat ve malzeme temini de dahil olmak üzere aile sağlığı merkezi oluşturulur.
 
 Ancak müdürlükçe, gerekçelendirmek ve Bakanlıkça onaylanmak kaydıyla yerleştirme işlemi beklenmeksizin, giderleri döner sermaye bütçesinden karşılanmak üzere aile sağlığı merkezi oluşturulabilir. Oluşturulan birime on aylık süre dolmadan aile hekimi yerleşmesi halinde on aylık sürenin sonuna kadar tavan ücretin % 50’si aile hekimine, kalan % 50’si ise müdürlük döner sermayesine ödenir.” hükmü çerçevesinde hizmet mekânı gösterilmeden aile sağlığı merkezi ve aile hekimliği birimleri açılmakta, yerleştirme işlemi yapılarak veya yapılmadan da oluşturulabilmektedir. Bu şekilde açılan aile sağlığı merkezlerinin oluşturulmasına ilişkin iş ve işlemler ise 03.06.2022 tarihli ve E-58271140-756.02- 708/166567865 sayılı yazı ile düzenlenmiştir. Bu kapsamda hizmet mekânı gösterilemeden açılan aile sağlığı merkezi ve aile hekimliği birimleri ile ilgili olarak Müdürlüğünüzce işlem tesis edilmesi gerekmektedir.
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Tuğba KANDEMİR
-
-Çankaya/Ankara 06800 Ebe
-
-1/2
 
 Hizmet planlamalarının etkinliği açısından;
 
@@ -66,9 +50,3 @@ Halk Sağlığı Genel Müdürü
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğüne)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Tuğba KANDEMİR
-
-Çankaya/Ankara 06800 Ebe
-
-2/2

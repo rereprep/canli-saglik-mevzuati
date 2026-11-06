@@ -8,7 +8,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Yayinlarimiz/Rehberler/Ilgi_Den-Iz%20Sisteminde%20Yapilmasi%20Gereken%20Teknik%20Duzenlemeler%20ve%20Mobil%20Uygulama%20Gelistirilmesi%20Hakkinda.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.

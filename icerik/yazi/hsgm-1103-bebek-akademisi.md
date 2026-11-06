@@ -8,7 +8,7 @@ birim: "Çocuk ve Ergen Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Bebek_Akademisi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -50,12 +50,6 @@ Doç. Dr. Muhammed Emin DEMİRKOL
 Bakan a.
 
 Halk Sağlığı Genel Müdürü
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Aylin YÜKSEL
-
-Çankaya/Ankara 06800 Ebe
-
-1/4
 
 Ek:
 
@@ -156,12 +150,6 @@ Samsun Valiliğine Edirne Valiliğine
 Sivas Valiliğine Elazığ Valiliğine
 
 (İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Aylin YÜKSEL
-
-Çankaya/Ankara 06800 Ebe
-
-2/4
 
 Şanlıurfa Valiliğine Erzincan Valiliğine
 
@@ -265,12 +253,6 @@ Siirt Valiliğine
 
 Sinop İl Sağlık Müdürlüğüne
 
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Aylin YÜKSEL
-
-Çankaya/Ankara 06800 Ebe
-
-3/4
-
 Şırnak Valiliğine
 
 (İl Sağlık Müdürlüğü)
@@ -294,9 +276,3 @@ Yalova Valiliğine
 Yozgat Valiliğine
 
 (İl Sağlık Müdürlüğü)
-
-Üniversiteler Mah. Dumlupınar Bulvarı Şehit Mehmet Bayraktar Cad. No:9 Kat 1 Bilgi için: Aylin YÜKSEL
-
-Çankaya/Ankara 06800 Ebe
-
-4/4

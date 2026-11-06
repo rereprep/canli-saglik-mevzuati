@@ -6,26 +6,12 @@ birim: "Halk Sağlığı Referans Laboratuvarları Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/HSL_Kilinik_Disi_Numune_Analiz_Yetkileri.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
--
-
-Il I 111111111W411111
-
-L.*. )
-
-SAĞLIK BAKA NLIĞ1
-
-11.~ şt" Soğliğ Türkiye Halk Sm2liğı Kurumu
-
-Kal")
 
 Sayı : 62665021
 
-Konu : Halk Sağlığı Laboratuvarlarının
-
-klinik dışı numune analiz etkileri
+Konu : Halk Sağlığı Laboratuvarlarının klinik dışı numune analiz etkileri
 
 VALILIĞINE
 
@@ -33,11 +19,7 @@ VALILIĞINE
 
 ligi: 08476'2015 Tarihli ve 62665021 -23248055 602.04.02.26257 sayılı yazımız.
 
-Bilindiği üzere. L I se L2 tipi Halk Sağlığı Laboratuvarlarının klinik dışı numunelere yönelik analiz ;etkileri belirlenerek ilgi yazı ile 8111 Valiliğine gönderilmişti.
-
-Ihtiyaçlar doğrultusunda laboratusarlarm klinik dışı numune.lere yönelik analiz yetkileri rev ize edilmiş olup yazı ekinde günderilmekıedir. 1.1 1.2 tipi Halk Sağlığı
-
-Laboratuvarlarının göre\ tannuları içinde yer alan analizleri yapmaları hususunda;
+Bilindiği üzere. L I se L2 tipi Halk Sağlığı Laboratuvarlarının klinik dışı numunelere yönelik analiz ;etkileri belirlenerek ilgi yazı ile 8111 Valiliğine gönderilmişti. Ihtiyaçlar doğrultusunda laboratusarlarm klinik dışı numune.lere yönelik analiz yetkileri rev ize edilmiş olup yazı ekinde günderilmekıedir. 1.1 1.2 tipi Halk Sağlığı Laboratuvarlarının göre\ tannuları içinde yer alan analizleri yapmaları hususunda;
 
 Bilgilerini ‘e gereğini rica ederim.
 
@@ -49,23 +31,7 @@ Kurum Başkanı
 
 EK: LI ve 1.2 tipi I laik Sağlığı Laboratuvarları analiz yetkileri (1 sayfa)
 
-81 Il Valiliğine
-
-()laik Sağlığı Müdürlüğü,
-
-tıisK Tüketici 'e Çalışan Gihenlitli Başkan Yardımcılığı
-
-Halk Sağlığı Laboratu‘arları Daire Başkanlığı Tel. O 312 565 54 77 Fax: O 312 565 57 08
-
-Slahalleğ Adnan Saşğun Caıl. No: 55 Sılıhış e-A \ K ARA
-
-E‘rakın eldnımıl. ıınzah mımnıc Mın cıfıelgı: saglık go% ur adrennılım Mm4ıIhnı3-dırmıla5a-auS4-8nı:Sıt3".tratı kodtj üe er nebılıtnıııı
-
-Bu belge 5070 ,:n,tı vıı:knımıl, ımza lıznıına eMc fm. en!! clömıııııı, ima k ımmialimısur
-
-HALK SAĞLIĞI LABORATUVARLARININ
-
-KLINIK DIŞI NUNIUNI: ANALIZ VETKİLERİ
+HALK SAĞLIĞI LABORATUVARLARININ KLINIK DIŞI NUNIUNI: ANALIZ VETKİLERİ
 
 LI TİPİ HALK SAĞ LIĞI LABORATUVARLARI:
 
@@ -119,6 +85,3 @@ i1 (eri (Kurum hıralindan yelkilendınimis laboratuy artar). -
 
 -Çalışma konularına yönelik Kurumun planlaması 'e izni dahilinde diger analizler (Kısmi analiz yetkileri vb.)
 
-E•mkınclekır .ıııdnı b3t4dool•dı.-ü-b5ıı...ı.ıx ı kodu de criwNiirmni,
-
-Bu h•Ige Sir( ¼ıı!şcktf. 4. cııSınınık ınığn ik ınvalzınıııNiır

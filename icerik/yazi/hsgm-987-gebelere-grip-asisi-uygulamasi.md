@@ -6,18 +6,13 @@ birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Gebelere_Grip_Asisi_Uygulamasi.pdf"
 durum: "yürürlükte"
-otomatik: true
+kontrol_edildi: true
 ---
-
-.
-
 T.C.
 
 SAĞLIK BAKANLIĞI
 
 Halk Sağlığı Genel Müdürlüğü
-
-.
 
 Sayı : E-57536863-234.99
 
@@ -54,12 +49,6 @@ Aksaray İl Sağlık Müdürlüğü
 Amasya İl Sağlık Müdürlüğü
 
 Ankara İl Sağlık Müdürlüğü
-
-Türkiye Halk sağlığı Genel Müdürlüğü Kadın ve Üreme Sağlığı Daire Başkanlığı Bilgi için: Seher DUMAN
-
-Telefon: Faks No: 5656055 TIBBİ TEKNOLOG
-
-.
 
 Antalya İl Sağlık Müdürlüğü
 
@@ -147,12 +136,6 @@ Kırşehir İl Sağlık Müdürlüğü
 
 Kilis İl Sağlık Müdürlüğü
 
-Türkiye Halk sağlığı Genel Müdürlüğü Kadın ve Üreme Sağlığı Daire Başkanlığı Bilgi için: Seher DUMAN
-
-Telefon: Faks No: 5656055 TIBBİ TEKNOLOG
-
-.
-
 Kocaeli İl Sağlık Müdürlüğü
 
 Konya İl Sağlık Müdürlüğü
@@ -214,13 +197,3 @@ Zonguldak İl Sağlık Müdürlüğü
 Karabük İl Sağlık Müdürlüğü
 
 Şırnak İl Sağlık Müdürlüğü
-
-Türkiye Halk sağlığı Genel Müdürlüğü Kadın ve Üreme Sağlığı Daire Başkanlığı Bilgi için: Seher DUMAN
-
-Telefon: Faks No: 5656055 TIBBİ TEKNOLOG
-
-.
-
-Türkiye Halk sağlığı Genel Müdürlüğü Kadın ve Üreme Sağlığı Daire Başkanlığı Bilgi için: Seher DUMAN
-
-Telefon: Faks No: 5656055 TIBBİ TEKNOLOG
