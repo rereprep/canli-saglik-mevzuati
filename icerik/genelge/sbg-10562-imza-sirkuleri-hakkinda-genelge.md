@@ -1,0 +1,113 @@
+---
+id: "sbg-10562-imza-sirkuleri-hakkinda-genelge"
+baslik: "İmza Sirküleri Hakkında Genelge"
+tur: "genelge"
+birim: "Yönetim Hizmetleri Genel Müdürlüğü"
+durum: "yürürlükte"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (dosyasb.saglik.gov.tr)"
+kaynak_url: "https://dosyasb.saglik.gov.tr/Eklenti/455/0/gimzasirkulerizip.zip"
+---
+
+### T.C.
+
+### SAĞLIK BAKANLIĞI
+
+İdari ve Mali İşler Dairesi Başkanlığı
+
+### ANKARA
+
+Sayı : B100İMİ0000012/
+
+Konu :İmza Sirküleri
+
+Genelge Tarihi : 25.02.1998
+
+Genelge Numarası : 753
+
+İLGİ : 11.03.1996 tarih ve 820 sayılı yazımız.
+
+832 sayılı Sayıştay Kanunu’nun 43 üncü maddesi hükmü gereğince Bakanlığımıza bağlı sağlık kurum ve kuruluşlarında görev yapan saymanlar ile saymanlıkların nevi, bulundukları mahaller, görev sahalarının hudut ve şümulü, saymanlıklara bağlı mutemetlikler, depo, ambar ve benzeri işyerlerinin açık adresleri, görev başındaki saymanların ad ve soyadları ile sicil numaraları, aylık, ücret ve derecelerinin her hesap yılı başından önce Sayıştay Başkanlığına bildirilmesi ve sorumluların imza sirkülerinin gönderilmesi gerekmektedir.
+
+Bu nedenle kurumunuz ayniyat saymanlığınca, ekte gönderilen formun her yılbaşından önce iki nüsha olarak kurum amirlerince tasdik edildikten sonra (en geç 01 ARALIK tarihine kadar) 1 inci nüshası Sayıştay Başkanlığına, 2 nci nüshası ise Bakanlığımız İdari ve Mali İşler Dairesi başkanlığına gönderilecektir. (Ek:1-2)
+
+Bakanlığımızın Sayıştay Başkanlığı nezdinde zor durumda bırakılmaması için ilgili personelin bu hususlara titizlikle riayet etmesi gerekmekte olup, aksi takdirde doğacak aksaklıklardan mer-i mevzuat hükümleri gereğince ilgili personel ile birlikte Kurum Amirleri de sorumlu tutulacaktır.
+
+Bilginizi ve gereğini rica ederim.
+
+Prof.Dr.Sedat ÜNAL
+
+Müsteşar
+
+EKİ : 2 adet form
+
+### DAĞITIM :
+
+A Planı
+
+### AYNİYAT SAYMANLIK VE HESAP BİLGİ FORMU
+
+### AYNİYAT SAYMANLIĞININ ADI :
+
+### SAYMANLIĞIN İLGİLİ VEYA BAĞLI OLDUĞU İDARE :
+
+(*) Bu kısma yazılacakların çok olması halinde bildirilecek adresler ayrı bir sayfaya yazılarak forma eklenecektir.
+
+#### B- Hesapla İlgili Bilgiler :
+
+Görev Başındaki Sayman
+
+(Tarih – İmza)
+
+Not : - Bu form görev başındaki sayman tarafından doldurularak en geç 31 Mart ........ tarihine kadar Sayıştay Başkanlığında olacak şekilde gönderilecektir.
+
+Forma görev başındaki saymanın ve sorumluların imza sirküleri eklenecektir.
+
+Kadrosu Sayman olmasa dahi Ayniyat Saymanı olarak görevlendirilenler de bu formu doldurulacaklardır.
+
+Formun doldurulmasında doğacak sorunlar için 0.312.310 22 00/402 No.lu telefondan Sayıştay Başkanlığı Genel Yazı İşleri Müdürü Muzaffer Tekel’den bilgi alınabilinecektir.
+
+SIRA NO | EBİM KODU | A- 832 Sayılı Sayıştay Kanununun 43 üncü Maddesine Göre Saymanlık ve Sayman Hakkında Bilgiler :
+
+1 |  | Saymanlığın
+
+ | 10 | Açık Adresi | 
+
+ | 11 | Bulunduğu il ve ilçe, Posta kodu | 
+
+ | 12 | Fax numarası | 
+
+ | 13 | Telefon kodu ve numarası | 
+
+ | 14 | Kuruluş tarihi | 
+
+ | 15 | Faaliyete başlama tarihi | 
+
+ | Önceki adı (isim değişikliği varsa) | 
+
+ | 17 | Bağlı olduğu Merkez Ayniyat Saymanlığı | 
+
+2 |  | Varsa Saymanlığa bağlı mutemetliklerle, depo, anbar gibi işyerlerinin açık adresleri* 1- 2- 3- 4- 5- 6- 7- 8- 9- 10-
+
+3 |  | Görev başında bulunan saymanın
+
+ | 20 | Adı ve Soyadı | 
+
+ | 21 | Sicil No. | 
+
+ | 27 | Kadro Görev Ünvanı | 
+
+ | 22 | Aylığa esas derece ve kademesi | 
+
+ | 23 | Bu saymanlıkta göreve başlama tarihi | 
+
+ | 26 | Kadrosunun dahil olduğu kurum | 
+
+4 | 24 | Saymanlıkta görevli personel sayısı | 
+
+5 |  | Sayıştaya en son hangi devre hesabının Verildiği ve veriliş tarihi | 
+
+6 |  | Sayıştaya kaç yıllık devreler halinde Hesabın verildiği |  | Bir Yıllık İki Yıllık Üç Yıllık Dört Yıllık Beş Yıllık
+
+7 |  | Son Devre hesabının Sayıştay denetime hazır olup olmadığı | 
+
+C- Sayman Tarafından İletilmesi Uygun Görülen Diğer Hususlar

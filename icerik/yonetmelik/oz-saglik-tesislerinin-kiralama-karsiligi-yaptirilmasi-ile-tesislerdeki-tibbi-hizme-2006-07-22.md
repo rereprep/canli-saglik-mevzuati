@@ -27,7 +27,7 @@ Başbakan
 
 ### A. GÜL A. ŞENER M. A. ŞAHİN B. ATALAY
 
-Dışişleri Bak. ve Başb . Yrd. Devlet Bak. ve Başb . Yrd. Devlet Bak. ve Başb . Yrd. Devlet Bakanı
+Dışişleri Bak. ve Başb. Yrd. Devlet Bak. ve Başb. Yrd. Devlet Bak. ve Başb. Yrd. Devlet Bakanı
 
 ### A. BABACAN M. AYDIN N. ÇUBUKÇU K. TÜZMEN
 
@@ -43,7 +43,7 @@ Milli Eğitim Bakanı Bayındırlık ve İskan Bakanı Sağlık Bakanı Ulaştı
 
 ### M. M. EKER M. BAŞESGİOĞLU A. COŞKUN
 
-Tarım ve Köyişleri Bakanı Çalışma ve Sos. Güv . Bakanı Sanayi ve Ticaret Bakanı
+Tarım ve Köyişleri Bakanı Çalışma ve Sos. Güv. Bakanı Sanayi ve Ticaret Bakanı
 
 ### M.H.GÜLER A. KOÇ O. PEPE
 
@@ -99,7 +99,7 @@ h) Ortak girişim: İhaleye katılmak üzere birden fazla gerçek kişi veya öz
 
 ı) Ön proje: Belli bir sağlık tesisinin kesin ihtiyaç programına göre gerekli zemin ve arazi araştırmaları yapılarak, bilgilerin hâlihazır haritalardan alındığı, varsa çevresel etki değerlendirme ve fizibilite raporları dâhil elde edilen verilere dayanılarak hazırlanan plan, kesit, görünüş ve profillerin belirtildiği bir veya birkaç çözümü içeren, bir sağlık tesisinin konsept ve temel tasarım unsurlarını ve ihtiyaç listesi ile mahal listesini de içeren projeyi,
 
-i) Sağlık tesisi: Entegre sağlık kampüsü , eğitim araştırma hastanesi, devlet hastanesi, özel dal hastanesi, gün hastanesi, sağlık ocağı, klinik otel, rehabilitasyon merkezi, kanser araştırma merkezi, aşı eğitim merkezi, aşı üretim merkezi, aşı araştırma–geliştirme merkezi, ana çocuk sağlığı ve aile planlaması merkezi, toplum sağlığı merkezi, organ ve doku bankası, bölgesel kan merkezi, kan ürünleri üretim tesisi, ağız ve diş sağlığı merkezi, tüm kara, hava ve deniz teçhizatları dâhil olmak üzere 112 acil servis komuta kontrol merkezi ile destek birimleri dâhil ilgili tesisin her türlü bölümleri ve bunlarla sınırlı olmamak kaydıyla, Bakanlığın yapmak ve yaptırmakla yükümlü olduğu ek binalar dâhil sağlıkla ilgili diğer tüm tesisleri,
+i) Sağlık tesisi: Entegre sağlık kampüsü, eğitim araştırma hastanesi, devlet hastanesi, özel dal hastanesi, gün hastanesi, sağlık ocağı, klinik otel, rehabilitasyon merkezi, kanser araştırma merkezi, aşı eğitim merkezi, aşı üretim merkezi, aşı araştırma–geliştirme merkezi, ana çocuk sağlığı ve aile planlaması merkezi, toplum sağlığı merkezi, organ ve doku bankası, bölgesel kan merkezi, kan ürünleri üretim tesisi, ağız ve diş sağlığı merkezi, tüm kara, hava ve deniz teçhizatları dâhil olmak üzere 112 acil servis komuta kontrol merkezi ile destek birimleri dâhil ilgili tesisin her türlü bölümleri ve bunlarla sınırlı olmamak kaydıyla, Bakanlığın yapmak ve yaptırmakla yükümlü olduğu ek binalar dâhil sağlıkla ilgili diğer tüm tesisleri,
 
 j) Sözleşme: Yapım ve yenileme işlemleri ile ilgili olarak idare ile yüklenici arasında özel hukuk hükümlerine göre yapılan, Hazineye ait taşınmazlar üzerinde yüklenici lehine bedelsiz olarak kırkdokuz yıla kadar bağımsız ve sürekli nitelikli üst hakkı tesis edilmek suretiyle bu taşınmazların devredilmesi hâlinde, üst hakkı sözleşmesine esas teşkil eden ve onun ayrılmaz bir parçası olan sözleşme ve eklerini,
 
@@ -107,7 +107,7 @@ k) Temel standartlar: Bakanlıkça belirlenecek olan, bir sağlık tesisinin pro
 
 l) Tıbbî hizmetler dışındaki alanlar: İhale dokümanında belirtilen şartlara uygun olarak, otopark, otel, banka şubesi, restoran, kafeterya, konferans ve kültür merkezi, internet ve iletişim merkezi, eczane, yaşlı bakım evi, kreş, personel servisi, taksi hizmetleri ve benzeri ulaştırma hizmetleri, zayıflama ve diyet merkezi gibi ön proje ile tanımlanacak olan, sağlık tesisi konsepti ile uyumlu alanları,
 
-m) Tıbbî hizmetler dışındaki hizmetler: Sözleşme hükümlerine göre, yüklenici tarafından üstlenilen tıbbî destek hizmetleri ile bilgi işlem, hasta danışmanlığı, sterilizasyon , çamaşırhane, temizlik, güvenlik, yemekhane, arşivleme ve benzeri hizmetleri; aydınlatma, asansör, ısıtma, soğutma, havalandırma, tıbbî gaz, su ve enerji temini, atık ve atık su uzaklaştırma hizmetleri de dâhil olmak üzere binaların tamiri, bakımı ve işletilmesi, park ve bahçe bakımı ve kara, hava, deniz ambulans hizmetleri ile morg ve gasilhane hizmetlerini,
+m) Tıbbî hizmetler dışındaki hizmetler: Sözleşme hükümlerine göre, yüklenici tarafından üstlenilen tıbbî destek hizmetleri ile bilgi işlem, hasta danışmanlığı, sterilizasyon, çamaşırhane, temizlik, güvenlik, yemekhane, arşivleme ve benzeri hizmetleri; aydınlatma, asansör, ısıtma, soğutma, havalandırma, tıbbî gaz, su ve enerji temini, atık ve atık su uzaklaştırma hizmetleri de dâhil olmak üzere binaların tamiri, bakımı ve işletilmesi, park ve bahçe bakımı ve kara, hava, deniz ambulans hizmetleri ile morg ve gasilhane hizmetlerini,
 
 n) Toplam sabit yatırım tutarı: Yüklenici tarafından sözleşme hükümlerine göre yapılacak olan yapım ve yenileme işleri ve varsa arsa/arazi maliyeti ile ilgili olarak sözleşmede belirtilen toplam tutarı,
 
@@ -145,7 +145,7 @@ c) İhaleler, merkeze aktarılan paylar da dâhil olmak üzere döner sermaye i�
 
 (4) Yenileme işlerinde yükleniciye herhangi bir kira bedeli ödenmez. Yenileme projelerinde yükleniciye bırakılan hizmet alanlarının bedelleri sözleşme hükümleri doğrultusunda hizmet bedeli olarak yükleniciye ödenir.
 
-(5) İdare, sağlık tesislerinin yaptırılması veya yenilenmesi ile ilgili olarak yüklenici ile imzalanacak sözleşme süresini, hazırlanan fizibilite raporunun sonucuna göre, ihale öncesinde belirler ve sözleşme süresini ihale dokümanında isteklilere duyurur. Sözleşme süresi yapım veya yenileme süreleri de dâhil olmak üzere, kırkdokuz yılı geçemez .
+(5) İdare, sağlık tesislerinin yaptırılması veya yenilenmesi ile ilgili olarak yüklenici ile imzalanacak sözleşme süresini, hazırlanan fizibilite raporunun sonucuna göre, ihale öncesinde belirler ve sözleşme süresini ihale dokümanında isteklilere duyurur. Sözleşme süresi yapım veya yenileme süreleri de dâhil olmak üzere, kırkdokuz yılı geçemez.
 
 (6) Bakanlık gerek görmesi hâlinde birden fazla sağlık tesisi yapım ve yenileme işini tek bir ihale ile yaptırabilir.
 
@@ -175,7 +175,7 @@ c) İhaleler, merkeze aktarılan paylar da dâhil olmak üzere döner sermaye i�
 
 #### İhale ilanı
 
-**MADDE 8 –** (1) Bu Yönetmelik çerçevesinde idare tarafından yaptırılmak istenen yapım veya yenileme işleri ve ön yeterlik ilanı, Resmî Gazetede, Türkiye çapında yayımlanan yüksek tirajlı iki gazetede ve internette , belirlenen ihale tarihinden en az doksan gün önce olmak üzere ve en az birer defa ilan yapılarak duyurulur.
+**MADDE 8 –** (1) Bu Yönetmelik çerçevesinde idare tarafından yaptırılmak istenen yapım veya yenileme işleri ve ön yeterlik ilanı, Resmî Gazetede, Türkiye çapında yayımlanan yüksek tirajlı iki gazetede ve internette, belirlenen ihale tarihinden en az doksan gün önce olmak üzere ve en az birer defa ilan yapılarak duyurulur.
 
 (2) İşin özelliğinin gerektirdiği durumlarda, yurtdışında yüksek tirajlı iki gazetede belirlenen ihale tarihinden en az doksan gün önce olmak üzere ve en az birer defa ilan yapılarak ihale duyurulur.
 
@@ -201,7 +201,7 @@ e) Konsorsiyumların teklif verip veremeyeceği.
 
 #### İsteklilerde aranılacak özellikler
 
-**MADDE 10 –** (1) Bu Yönetmelik kapsamında yapılacak ihalelere katılacak İsteklile rin veya ortak girişimi oluşturan gerçek veya tüzel kişilerden her birinin sağlam bir malî yapıya sahip olduklarını bağımsız denetim firmalarınca onaylanmış malî tabloları ile kanıtlamaları zorunludur. İsteklilerin sağlaması gereken referanslara, tecrübeye, malî ve teknik yeterliğe ilişkin hususlar Bakanlıkça belirlenir ve ihale ilanında ve ihale dokümanında duyurulur.
+**MADDE 10 –** (1) Bu Yönetmelik kapsamında yapılacak ihalelere katılacak İsteklilerin veya ortak girişimi oluşturan gerçek veya tüzel kişilerden her birinin sağlam bir malî yapıya sahip olduklarını bağımsız denetim firmalarınca onaylanmış malî tabloları ile kanıtlamaları zorunludur. İsteklilerin sağlaması gereken referanslara, tecrübeye, malî ve teknik yeterliğe ilişkin hususlar Bakanlıkça belirlenir ve ihale ilanında ve ihale dokümanında duyurulur.
 
 (2) İhaleye katılacak isteklilerden, ekonomik ve malî yeterlik ile meslekî ve teknik yeterliklerinin belirlenmesine ilişkin olarak aşağıda belirtilen bilgi ve belgeler istenebilir:
 
@@ -281,7 +281,7 @@ doğrudan veya dolaylı olarak veya alt yüklenici olarak ihalelere katılamazla
 
 #### Alt yükleniciler
 
-**MADDE 13 –** (1) İhale konusu işin özelliği nedeniyle ihtiyaç görülmesi hâlinde, ihale aşamasında isteklilerden alt yüklenicilere yaptırmayı düşündükleri işleri belirtmeleri, sözleşme imzalamadan önce de alt yüklenicilerin listesini idarenin onayına sunmaları istenebi lir. Ancak bu durumda, alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu yüklenicinin sorumluluğunu ortadan kaldırmaz.
+**MADDE 13 –** (1) İhale konusu işin özelliği nedeniyle ihtiyaç görülmesi hâlinde, ihale aşamasında isteklilerden alt yüklenicilere yaptırmayı düşündükleri işleri belirtmeleri, sözleşme imzalamadan önce de alt yüklenicilerin listesini idarenin onayına sunmaları istenebilir. Ancak bu durumda, alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu yüklenicinin sorumluluğunu ortadan kaldırmaz.
 
 #### İhale işlem dosyası
 
@@ -295,7 +295,7 @@ doğrudan veya dolaylı olarak veya alt yüklenici olarak ihalelere katılamazla
 
 (2) İhale dokümanlarında sağlık tesisinin mahiyetine göre konulacak özel ve teknik şartların yanında, genel olarak aşağıdaki hususlarında yer alması zorunludur:
 
-a) Yapılacak veya yenilenecek sağlık tesisinin adı, nev’i , niteliği, kapsamı ile yükleniciye bırakılacak olan tıbbî hizmetler dışındaki hizmet ve alanların kapsamı.
+a) Yapılacak veya yenilenecek sağlık tesisinin adı, nev’i, niteliği, kapsamı ile yükleniciye bırakılacak olan tıbbî hizmetler dışındaki hizmet ve alanların kapsamı.
 
 b) İhale usulü, ihale tarih ve saati ile tekliflerin nereye verileceği.
 
@@ -445,7 +445,7 @@ c) Öngörülen maliyeti beş milyon YTL’nin altında kalan yenileme veya onar
 
 (3) Belgelerin eksik olması veya belgelerde önemsiz bilgi eksikliği bulunması hâlinde, idarece belirlenen sürede isteklilerden bu eksik belge veya bilgilerin tamamlanması yazılı olarak istenir. Belirlenen sürede eksik belge veya bilgileri tamamlamayan istekliler değerlendirme dışı bırakılır.
 
-(4) İlk değerlendirme ve işlemler sonucunda belgeleri eksiksiz ve teklif mektubu usulüne uygun olan isteklilerin tekliflerinin ayrıntılı değerlendirilmesine geçilir . Bu aşamada, isteklilerin ihale konusu işi yapabilme kapasitelerini belirleyen yeterlik kriterlerine ve tekliflerin ihale dokümanında belirtilen şartlara uygun olup olmadığı incelenir. Uygun olmadığı belirlenen isteklilerin teklifleri değerlendirme dışı bırakılır.
+(4) İlk değerlendirme ve işlemler sonucunda belgeleri eksiksiz ve teklif mektubu usulüne uygun olan isteklilerin tekliflerinin ayrıntılı değerlendirilmesine geçilir. Bu aşamada, isteklilerin ihale konusu işi yapabilme kapasitelerini belirleyen yeterlik kriterlerine ve tekliflerin ihale dokümanında belirtilen şartlara uygun olup olmadığı incelenir. Uygun olmadığı belirlenen isteklilerin teklifleri değerlendirme dışı bırakılır.
 
 #### Bütün tekliflerin reddedilmesi ve ihalenin iptali
 
@@ -561,7 +561,7 @@ Maliye Bakanlığınca da uygun görülenler üzerinde, yüklenici lehine bedels
 
 (2) Sözleşmede belirtilen yer teslim tarihinden başlamak üzere, projelendirme ve yapım süresi dâhil yatırım süresi ve işletme süresi, sözleşme süresidir.
 
-(3) Entegre sağlık kampüsleri dışındaki sağlık tesisleri için projelendirme ve yapım süresi dört yılı geçemez .
+(3) Entegre sağlık kampüsleri dışındaki sağlık tesisleri için projelendirme ve yapım süresi dört yılı geçemez.
 
 #### Finansman ve garanti
 
@@ -673,7 +673,7 @@ Sözleşmenin Sona Ermesi
 
 (5) Feshedilen sözleşme konusu işlerin hesabı genel hükümlere göre yapılır ve yüklenicinin idare ile ilişkisi kesilir. Sözleşmenin feshine ait onay tarihinde işlerin mevcut durumu, idarece görevlendirilecek bir heyet tarafından yüklenici veya vekili ile birlikte tespit edilerek bir durum tespit tutanağı düzenlenir. Yüklenici veya vekili hazır bulunmadığı takdirde bu husus tutanakta belirtilir.
 
-(6) Sağlık tesisinin yapıldığı taşınmazın yükleniciye ait olduğu hâllerde sözleşmenin feshi durumunda Bakanlık; bu taşınmazı ve üzerindeki tesisleri, tesisatı, yükleniciye ait olan ihzaratı , diğer malzemeyi, makine, araç ve yedek parçaları, yüklenicinin razı olması hâlinde satın alabilir. Sıhhî tesisat, elektrik tesisatı, ısıtma, soğutma ve havalandırma sistemleri, çamaşır yıkama ve yemek pişirme tesisatı, hastane tesisatı ve benzeri tesisata ait ihzarat , yapılabilmesi mümkün olan her türlü inceleme ve denemesi yapıldıktan sonra montajlı ve her türlü yardımcı parçaları dâhil birim fiyatından, montaj bedeli çıkarılıp kalan montajsız fiyattan yüklenici kârı ve genel giderler düşüldükten sonra bulunan bedel üzerinden alınır. Ayrı bir birim fiyatı bulunmayan her türlü montaj malzemesi de piyasa rayiçleri dikkate alınarak yüklenici ile anlaşmaya varılacak fiyatlara göre değerlendirilip satın alınabilir. Bina, baraka şantiye ve benzeri tesisler, sözleşmenin feshedildiği yılda geçerli birim fiyat ve rayiçler ile değerlendirilerek bulunan bedel üzerinden; makine, araç ve yedek parçalar ise benzer piyasa değerleri dikkate alınarak tespit edilecek değer üzerinden; yıpranma, amortisman, işçilik ve malzeme nitelik farkları da dikkate alınarak devralınır.
+(6) Sağlık tesisinin yapıldığı taşınmazın yükleniciye ait olduğu hâllerde sözleşmenin feshi durumunda Bakanlık; bu taşınmazı ve üzerindeki tesisleri, tesisatı, yükleniciye ait olan ihzaratı, diğer malzemeyi, makine, araç ve yedek parçaları, yüklenicinin razı olması hâlinde satın alabilir. Sıhhî tesisat, elektrik tesisatı, ısıtma, soğutma ve havalandırma sistemleri, çamaşır yıkama ve yemek pişirme tesisatı, hastane tesisatı ve benzeri tesisata ait ihzarat, yapılabilmesi mümkün olan her türlü inceleme ve denemesi yapıldıktan sonra montajlı ve her türlü yardımcı parçaları dâhil birim fiyatından, montaj bedeli çıkarılıp kalan montajsız fiyattan yüklenici kârı ve genel giderler düşüldükten sonra bulunan bedel üzerinden alınır. Ayrı bir birim fiyatı bulunmayan her türlü montaj malzemesi de piyasa rayiçleri dikkate alınarak yüklenici ile anlaşmaya varılacak fiyatlara göre değerlendirilip satın alınabilir. Bina, baraka şantiye ve benzeri tesisler, sözleşmenin feshedildiği yılda geçerli birim fiyat ve rayiçler ile değerlendirilerek bulunan bedel üzerinden; makine, araç ve yedek parçalar ise benzer piyasa değerleri dikkate alınarak tespit edilecek değer üzerinden; yıpranma, amortisman, işçilik ve malzeme nitelik farkları da dikkate alınarak devralınır.
 
 #### Sözleşmenin tasfiyesi
 
@@ -681,7 +681,7 @@ Sözleşmenin Sona Ermesi
 
 (2) Tasfiye hâlinde, Hazinece yüklenici lehine üst hakkı tesis edilmek suretiyle taşınmaz devredilmiş ise, bu taşınmazın üzerinde bulunan yapı, tesis ve müştemilatın Hazineye geçmesi gereken kısımları hakkında yüklenici herhangi bir hak ve tazminat talebinde bulunamaz ve bunlar için yükleniciye herhangi bir bedel ödenmez.
 
-(3) Sağlık tesisinin yapıldığı taşınmazın yükleniciye ait olduğu sözleşmenin tasfiyesi hâlinde Bakanlık; bu taşınmazı ve üzerindeki tesisleri, tesisatı, yükleniciye ait olan ihzaratı , diğer malzemeyi, makine, araç ve yedek parçaları, yüklenicinin razı olması hâlinde satın alabilir. Sıhhî tesisat, elektrik tesisatı, ısıtma, soğutma ve havalandırma sistemleri, çamaşır yıkama ve yemek pişirme tesisatı, hastane tesisatı ve benzeri tesisata ait ihzarat , yapılabilmesi mümkün olan her türlü inceleme ve denemesi yapıldıktan sonra montajlı ve her türlü yardımcı parçaları dâhil birim fiyatından, montaj bedeli çıkarılıp kalan montajsız fiyattan yüklenici kârı ve genel giderler düşüldükten sonra bulunan bedel üzerinden alınır. Ayrı bir birim fiyatı bulunmayan her türlü montaj malzemesi de piyasa rayiçleri dikkate alınarak yüklenici ile anlaşmaya varılacak fiyatlara göre değerlendirilip satın alınabilir. Bina, baraka şantiye ve benzeri tesisler, sözleşmenin tasfiye edildiği yılda geçerli birim fiyat ve rayiçler ile değerlendirilerek bulunan bedel üzerinden; makine, araç ve yedek parçalar ise benzer piyasa değerleri dikkate alınarak tespit edilecek değer üzerinden; yıpranma, amortisman, işçilik ve malzeme nitelik farkları da dikkate alınarak devralınır.
+(3) Sağlık tesisinin yapıldığı taşınmazın yükleniciye ait olduğu sözleşmenin tasfiyesi hâlinde Bakanlık; bu taşınmazı ve üzerindeki tesisleri, tesisatı, yükleniciye ait olan ihzaratı, diğer malzemeyi, makine, araç ve yedek parçaları, yüklenicinin razı olması hâlinde satın alabilir. Sıhhî tesisat, elektrik tesisatı, ısıtma, soğutma ve havalandırma sistemleri, çamaşır yıkama ve yemek pişirme tesisatı, hastane tesisatı ve benzeri tesisata ait ihzarat, yapılabilmesi mümkün olan her türlü inceleme ve denemesi yapıldıktan sonra montajlı ve her türlü yardımcı parçaları dâhil birim fiyatından, montaj bedeli çıkarılıp kalan montajsız fiyattan yüklenici kârı ve genel giderler düşüldükten sonra bulunan bedel üzerinden alınır. Ayrı bir birim fiyatı bulunmayan her türlü montaj malzemesi de piyasa rayiçleri dikkate alınarak yüklenici ile anlaşmaya varılacak fiyatlara göre değerlendirilip satın alınabilir. Bina, baraka şantiye ve benzeri tesisler, sözleşmenin tasfiye edildiği yılda geçerli birim fiyat ve rayiçler ile değerlendirilerek bulunan bedel üzerinden; makine, araç ve yedek parçalar ise benzer piyasa değerleri dikkate alınarak tespit edilecek değer üzerinden; yıpranma, amortisman, işçilik ve malzeme nitelik farkları da dikkate alınarak devralınır.
 
 (4) Sözleşmenin tasfiyesi hâlinde evvelce alınmış bulunan kesin teminat mektubu iade edilir ve sözleşme konusu işlerin hesabı genel hükümlere göre yapılır.
 
@@ -691,7 +691,7 @@ Sözleşmenin Sona Ermesi
 
 #### Sözleşme süresi sonunda sağlık tesisinin Bakanlığa devri
 
-**MADDE 44 –** (1) Hazinece yüklenici lehine üst hakkı tesis edilmek suretiyle devredilen taşınmazlar ile üzerine inşa edilen sağlık tesisleri, üst hakkı sözleşmesi süresi sonunda her türlü takyidat , yükümlülük, şerh, borç, taahhütlerden ari olarak, normal aşınma ve yıpranma hariç olmak üzere, bakımlı, çalışır ve kullanılabilir durumda bedelsiz olarak Hazineye intikal eder. Sağlık tesisinin devir aşamasında sözleşmede yer alan şartları haiz olup olmadığı oluşturulacak bir devir-teslim komisyonunca tespit edilir. Bu komisyonun oluşturulması, çalışma usul ve esasları, komisyonca tespit edilen eksiklik ve hataların giderilmesi ve onarımların yapılması ile ilgili hükümler sözleşmede yer alır.
+**MADDE 44 –** (1) Hazinece yüklenici lehine üst hakkı tesis edilmek suretiyle devredilen taşınmazlar ile üzerine inşa edilen sağlık tesisleri, üst hakkı sözleşmesi süresi sonunda her türlü takyidat, yükümlülük, şerh, borç, taahhütlerden ari olarak, normal aşınma ve yıpranma hariç olmak üzere, bakımlı, çalışır ve kullanılabilir durumda bedelsiz olarak Hazineye intikal eder. Sağlık tesisinin devir aşamasında sözleşmede yer alan şartları haiz olup olmadığı oluşturulacak bir devir-teslim komisyonunca tespit edilir. Bu komisyonun oluşturulması, çalışma usul ve esasları, komisyonca tespit edilen eksiklik ve hataların giderilmesi ve onarımların yapılması ile ilgili hükümler sözleşmede yer alır.
 
 (2) Hazinece yüklenici lehine üst hakkı tesis edilmek suretiyle devredilen taşınmazlar ile ilgili üst hakkı sözleşmesinin sona ermesi hâlinde, Maliye Bakanlığınca yüklenici lehine tesis edilen üst hakkı tapudan terkin ettirilerek tapu kütüğündeki şerh, takyidat ve beyanlar kaldırılır.
 
@@ -721,7 +721,7 @@ c) Tıbbî hizmetler dışındaki hizmetleri yerine getirmek, tıbbî hizmetler 
 
 d) Hazinece yüklenici lehine üst hakkı tesis edilmek suretiyle taşınmaz devredilmesi hâlinde, üçüncü kişiler tarafından bu taşınmazda hak iddia edilmesi durumunda, durumu derhal Bakanlığa bildirmek,
 
-e) Sözleşme süresi sonunda sağlık tesisini her türlü borç ve taahhütlerden ari , bakımlı, çalışır ve kullanılabilir durumda Bakanlığa devretmek,
+e) Sözleşme süresi sonunda sağlık tesisini her türlü borç ve taahhütlerden ari, bakımlı, çalışır ve kullanılabilir durumda Bakanlığa devretmek,
 
 ile yükümlüdür.
 

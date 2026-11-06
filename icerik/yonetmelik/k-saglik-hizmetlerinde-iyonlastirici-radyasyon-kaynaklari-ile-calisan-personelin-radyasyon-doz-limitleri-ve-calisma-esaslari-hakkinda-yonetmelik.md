@@ -13,6 +13,156 @@ kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmem
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/07/20120705-8.htm"
 ---
 
-| 5 Temmuz 2012 PERŞEMBE | Resmî Gazete | Sayı : 28344 |
-| YÖNETMELİK |
-| Sa ğ l ı k Bakanl ığı ndan: SA Ğ LIK H İ ZMETLER İ NDE İ YONLA Ş TIRICI RADYASYON KAYNAKLARI İ LE Ç ALI Ş AN PERSONEL İ N RADYASYON DOZ L İ M İ TLER İ VE Ç ALI Ş MA ESASLARI HAKKINDA Y Ö NETMEL İ K B İ R İ NC İ B Ö L Ü M Ama ç , Kapsam, Dayanak ve Tan ı mlar Ama ç MADDE 1 – (1) Bu Y ö netmeli ğ in amac ı , sa ğ l ı k kurum ve kurulu ş lar ı nda radyasyon kayna ğı ile te ş his, tedavi veya ara ş t ı rman ı n yap ı ld ığı alanlarda ç al ış an t ü m personelin radyasyondan kaynaklanabilecek risklere kar şı radyasyon dozu limitlerini ve doz limitlerinin a şı lmamas ı i ç in al ı nmas ı gereken tedbirler ile a şı lmas ı durumunda al ı nacak tedbirler ve radyasyon kaynaklar ı ile ilgili ç al ış ma esaslar ı n ı belirleyerek ilgili personelin korunmas ı n ı sa ğ lamakt ı r. Kapsam MADDE 2 – (1) Bu Y ö netmelik, radyasyon kayna ğı ile te ş his, tedavi veya ara ş t ı rman ı n yap ı ld ığı kamu ve ö zel t ü m sa ğ l ı k kurum ve kurulu ş lar ı ile radyasyon kaynaklar ı yla ç al ış an personeli kapsar. Dayanak MADDE 3 – (1) Bu Y ö netmelik, 19/4/1937 tarihli ve 3153 say ı l ı Radyoloji, Radiyom ve Elektrikle Tedavi ve Di ğ er Fizyoterapi M ü esseseleri Hakk ı nda Kanunun Ek 1 inci maddesi ile 11/10/2011 tarihli ve 663 say ı l ı Sa ğ l ı k Bakanl ığı ve Ba ğ l ı Kurulu ş lar ı n ı n Te ş kilat ve G ö revleri Hakk ı nda Kanun H ü km ü nde Kararnamenin 40 ı nc ı maddesine dayan ı larak haz ı rlanm ış t ı r. Tan ı mlar MADDE 4 – (1) Bu Y ö netmelikte ge ç en; a) Bakanl ı k: Sa ğ l ı k Bakanl ığı n ı , b) Denetimli alanlar: Radyasyon g ö revlilerinin giri ş ve çı k ış lar ı n ı n ö zel denetime, ç al ış malar ı n ı n radyasyondan korunma bak ı m ı ndan ö zel kurallara ba ğ l ı oldu ğ u ve g ö revi gere ğ i radyasyon ile ç al ış an ki ş ilerin ard ışı k be ş y ı l ı n ortalama y ı ll ı k doz s ı n ı rlar ı n ı 3/10 ’ undan fazla radyasyon dozuna maruz kalabilecekleri alanlar ı , c) E ş de ğ er doz: Birimi Sievert (Sv) olup, radyasyonun t ü r ü ne ve enerjisine ba ğ l ı olarak doku veya organda so ğ urulmu ş dozun, radyasyon a ğı rl ı k fakt ö r ü ile ç arp ı lm ış halini, ç ) Etkin doz: Birimi Sievert (Sv) olup, insan v ü cudunda ışı nlanan b ü t ü n doku ve organlar i ç in hesaplanm ış e ş de ğ er dozun, her doku ve organ ı n doku a ğı rl ı k fakt ö rleri ile ç arp ı lmas ı sonucunda elde edilen dozlar ı n toplam ı n ı , d) G ö zetimli alanlar: Radyasyon g ö revlileri i ç in y ı ll ı k doz s ı n ı rlar ı n ı n 1/20'sinin a şı lma ihtimali olup, 3/10'unun a şı lmas ı beklenmeyen, ki ş isel doz ö l çü m ü n ü gerektirmeyen fakat ç evresel radyasyonun izlenmesini gerektiren alanlar ı , e) İ dare: B ü nyesinde t ı bbi ama ç l ı radyasyon uygulamas ı yap ı lan sa ğ l ı k kurum ve kurulu ş u idaresini, f) İ yonla ş t ı r ı c ı radyasyon: 100 nm ya da daha k ı sa dalga boyunda veya 3x10 15 Hertz ya da daha y ü ksek frekansta elektromanyetik dalga veya par ç ac ı k ş eklinde transfer edilen, do ğ rudan veya dolayl ı olarak iyon olu ş turma kapasitesine sahip enerjiyi, g) Kanun: 3153 say ı l ı Radyoloji, Radiyom ve Elektrikle Tedavi ve Di ğ er Fizyoterapi M ü esseseleri Hakk ı nda Kanunu, ğ ) Optimizasyon: En az radyasyon dozu ile en fazla t ı bbi faydan ı n elde edilmesini, h) Personel: Te ş his, tedavi veya ara ş t ı rman ı n yap ı ld ığı yerlerde radyasyon kaynaklar ı ile ç al ış an radyasyon g ö revlisini, ı ) Radyasyon g ö revlisi: Radyasyon kayna ğı ile y ü r ü t ü len faaliyetlerden dolay ı g ö revi gere ğ i, 24/3/2000 tarihli ve 23999 say ı l ı Resm î Gazete ’ de yay ı mlanan Radyasyon G ü venli ğ i Y ö netmeli ğ inde toplum ü yesi ki ş iler i ç in belirtilen doz s ı n ı rlar ı n ı n ü zerinde radyasyona maruz kalma olas ı l ığı olan ki ş iyi, i) Radyasyon G ü venli ğ i Komitesi: Sa ğ l ı k kurum ve kurulu ş lar ı nda n ü kleer t ı p, radyasyon onkolojisi, radyoterapi ve radyoloji birimlerinin her birinden en az bir radyasyon g ö revlisi ile, idare taraf ı ndan uygun g ö r ü len di ğ er personelin kat ı l ı m ı yla olu ş an ve radyasyon g ü venli ğ inin sa ğ lanmas ı na y ö nelik ç al ış malar ı y ü r ü ten birimi, j) Radyasyon kayna ğı : Te ş his, tedavi, ara ş t ı rma veya kalibrasyonda kullan ı lan ve radyasyon yayan t ı bbi cihazlar, radyofarmas ö tik veya radyoaktif kayna ğı , k) TAEK: T ü rkiye Atom Enerjisi Kurumunu, ifade eder. İ K İ NC İ B Ö L Ü M Radyasyon Kaynaklar ı ile Ç al ış ma Esaslar ı ve Radyasyon G ü venli ğ i Komitesi Radyasyon kaynaklar ı ile ç al ış ma esaslar ı MADDE 5 – (1) T ı bbi ama ç l ı iyonla ş t ı r ı c ı radyasyon kaynaklar ı n ı n al ı nmas ı , bulundurulmas ı ve kullan ı lmas ı 9/7/1982 tarihli ve 2690 say ı l ı T ü rkiye Atom Enerjisi Kurumu Kanunu ve 24/7/1985 tarihli ve 85/9727 say ı l ı Bakanlar Kurulu karar ı yla y ü r ü rl üğ e giren Radyasyon G ü venli ğ i T ü z üğü gere ğ ince TAEK taraf ı ndan verilen lisansa ba ğ l ı d ı r. (2) İ dare, t ı bbi ama ç l ı iyonla ş t ı r ı c ı radyasyon kaynaklar ı n ı n teslim al ı nmas ı , bulundurulmas ı , ç al ış t ı r ı lmas ı , kullan ı lmas ı ve radyoaktif madde kullan ı m ı ndan olu ş an at ı klar ı n bertaraf edilmesine ili ş kin idari ve teknik d ü zenlemeleri Radyasyon G ü venli ğ i Y ö netmeli ğ i ve 21/7/1994 tarihli ve 21997 say ı l ı Resm î Gazete ’ de yay ı mlanan T ı pta Tedavi Amac ı yla Kullan ı lan İ yonla ş t ı r ı c ı Radyasyon Kaynaklar ı n ı İç eren Tesislere Lisans Verme Y ö netmeli ğ i ile 2/9/2004 tarihli 25571 say ı l ı Resm î Gazete ’ de yay ı mlanan Radyoaktif Madde Kullan ı m ı ndan Olu ş an At ı klara İ li ş kin Y ö netmelik do ğ rultusunda yerine getirmekle y ü k ü ml ü d ü r. (3) T ı bbi ama ç l ı iyonla ş t ı r ı c ı radyasyon kaynaklar ı ancak radyasyonun zararl ı etkilerine kar şı l ı k elde edilecek faydan ı n ü st ü nl üğü varsa kullan ı l ı r. İ yonla ş t ı r ı c ı radyasyonla ilgili i ş lemi talep eden tabip ve i ş lemi ger ç ekle ş tiren tabip taraf ı ndan yap ı lacak i ş lem gerek ç elendirilir. Tan ı ve tedaviye y ö nelik i ş lemin tekrar ı na tabip karar verir. İş lem tekrar ı n ı n azalt ı lmas ı i ç in e ğ itim de dahil olmak ü zere her t ü rl ü tedbirin al ı nmas ı ilgili klini ğ in sorumlulu ğ undad ı r. (4) İ yonla ş t ı r ı c ı radyasyon kaynaklar ı n ı ilgili mevzuat ı na g ö re yetkili ki ş iler kullan ı r. (5) Tan ı sal ama ç l ı radyasyonla yap ı lacak i ş lemlerde, i ş lemin gerektirdi ğ i en az ışı nlaman ı n yap ı lmas ı esast ı r. Tedavi ama ç l ı n ü kleer t ı p ve radyoterapi i ş lemlerinde optimizasyonu sa ğ lamak ü zere i ş lemde g ö rev alan sa ğ l ı k fizik ç isinin de de ğ erlendirmesi al ı n ı r. Her radyasyon yayan cihaz veya uygulama i ç in lisans sahibinin sorumlulu ğ unda, ilgili birim ç al ış anlar ı ile birlikte en uygun ç al ış ma ş eklini tarif eden yaz ı l ı bir talimat haz ı rlan ı r ve ilgili t ü m ç al ış anlar bilgilendirilerek bu talimata uyulmas ı sa ğ lan ı r. Radyasyon G ü venli ğ i Komitesi MADDE 6 – (1) N ü kleer t ı p, radyasyon onkolojisi ve radyoloji uygulamalar ı n ı n en az ikisinin y ü r ü t ü ld üğü b ö l ü mleri i ç eren sa ğ l ı k kurum ve kurulu ş lar ı b ü nyesinde Radyasyon G ü venli ğ i Komitesi kurulur. Bu ş art ı n sa ğ lanamad ığı illerde bu komite il sa ğ l ı k m ü d ü rl üğü b ü nyesinde olu ş turulur. (2) Radyasyon G ü venli ğ i Komitesinin etkin ç al ış mas ı ndan, radyasyon g ü venli ğ i hususlar ı n ı n komiteye bildirilmesinden ve komite taraf ı ndan al ı nan kararlar ı n uygulanmas ı ndan idare sorumludur. Bu komitenin g ö revlerini y ü r ü tebilmesi i ç in gerekli olan fiziki ve idari her t ü rl ü imk â n idare taraf ı ndan sa ğ lan ı r. Komite ba ş kan ı , komitenin asil ü yeleri aras ı ndan iki y ı ll ığı na se ç imle belirlenir. Gerekti ğ inde Komite g ö revini etkin ve eksiksiz yerine getirmek ü zere y ı lda en az iki kez toplan ı r. Komite, al ı nan kararlar ı en ge ç be ş i ş g ü n ü i ç erisinde idareye bildirir. (3) Radyasyon G ü venli ğ i Komitesi, TAEK taraf ı ndan belirlenen ç al ış ma usul ve esaslar ı na g ö re; idari a çı dan sa ğ l ı k kurum ve kurulu ş lar ı nda ba ş tabibe, il sa ğ l ı k m ü d ü rl ü klerinde m ü d ü re ba ğ l ı olarak ç al ışı r. ÜÇÜ NC Ü B Ö L Ü M Radyasyon Doz Limitleri, Personel Ç al ış ma Esaslar ı ve Tedbirler ile Son H ü k ü mler Radyasyon doz limitleri MADDE 7 – (1) Bu Y ö netmeli ğ e uygun olarak radyasyon alanlar ı nda yap ı lan ç evresel radyasyon izlemesinin yan ı s ı ra Radyasyon G ü venli ğ i Y ö netmeli ğ i gere ğ ince ki ş isel dozimetre kullanmas ı zorunlu olan personel ki ş isel cep dozimetresi; bu personelden radyofarmas ö tik i ş aretlemede ve tedavi ama ç l ı radyon ü klid uygulamalar ı nda, radyoterapide manuel iridyum 192 uygulamalar ı nda g ö revli olanlar ile giri ş imsel floroskopik uygulamalarda ç al ış anlar ki ş isel cep dozimetresine ek olarak el bile ğ i veya y ü z ü k dozimetresi ta şı r. (2) Radyasyon kayna ğı ile ç al ış an personelin maruz kalaca ğı etkin doz, g ö z merce ğ i ve t ü m v ü cut i ç in ard ışı k be ş y ı l toplam ı nda 100 mSv ’ i, herhangi bir tek y ı lda 50 mSv ’ i ge ç emez. Bu kurala ayk ı r ı olmayacak ş ekilde ayr ı ca; a) Etkin dozun ayda 2 mSv ’ i, b) El ve ayaklar i ç in e ş de ğ er dozun ayl ı k 50 mSv ’ i, c) En yo ğ un radyasyona maruz kalan 1 cm 2 ’ lik alan referans olmak ü zere cilt i ç in e ş de ğ er dozun ayl ı k 50 mSv ’ i, ge ç mesi halinde bu seviyeler, inceleme d ü zeyi doz seviyeleri olarak de ğ erlendirilir. (3) 18 ya şı n ı doldurmam ış olanlar radyasyon kayna ğı ile ç al ışı lan i ş lerde g ö rev alamazlar. E ğ itim ama ç l ı olmak kayd ı yla, e ğ itimleri radyasyon kaynaklar ı n ı n kullan ı lmas ı n ı gerektiren 16-18 ya ş aras ı stajyer ve öğ renciler bu e ğ itimlerini sadece g ö zetimli alanlarda alabilir. Mesleki e ğ itimleri gere ğ i radyasyon kayna ğı ile ç al ış mas ı zorunlu 16-18 ya ş aras ı stajyer ve öğ renciler i ç in etkin doz, g ö z merce ğ i ve t ü m v ü cut i ç in y ı lda 6 mSv ’ i ge ç emez. Ayr ı ca bu kurala ayk ı r ı olmayacak ş ekilde; a) Etkin dozun ayl ı k 0.6 mSv ’ i, b) G ö z merce ğ i i ç in e ş de ğ er dozun ayl ı k 0.6 mSv ’ i, c) El, ayak veya deri i ç in e ş de ğ er dozun ayl ı k 15 mSv ’ i, ge ç mesi halinde bu seviyeler, inceleme d ü zeyi doz seviyeleri olarak de ğ erlendirilir. Personel ç al ış ma esaslar ı ve tedbirler MADDE 8 – (1) Radyasyon kayna ğı ile ç al ış an personel, 7 nci maddede belirtilen radyasyon doz limitleri ve Kanunun Ek 1 inci maddesinde ö ng ö r ü len s ü re d â hilinde ç al ış t ı r ı l ı r. Bu personel normal mesai d ışı nda icap n ö betine ç a ğ r ı lm ış ise icap n ö betinde bilfiil ç al ışı lan s ü re de haftal ı k ç al ış ma s ü resine d â hil edilir. İ dare, personelin sa ğ l ığı n ı korumak, doz a şı m ı na maruz kalmas ı n ı ö nlemek ve i ş g ü venli ğ ini sa ğ lamak i ç in i ş in niteli ğ ine uygun koruyucu giysi ve te ç hizat ı eksiksiz bulundurmak ve bu Y ö netmelik h ü k ü mlerini yerine getirmekle; personel de gerekli korunma tedbirlerine uymakla y ü k ü ml ü d ü r. (2) Radyasyon kayna ğı ile ç al ış t ı r ı lacak personelin, i ş e ba ş lat ı lmadan ö nceki t ı bbi muayeneleri ile i ş e ba ş lat ı ld ı ktan sonraki y ı ll ı k sa ğ l ı k kontrolleri Ek-1 ’ deki form do ğ rultusunda ilgili idare taraf ı ndan yapt ı r ı l ı r. Bu personelin ç al ış ma ş ekli, Kanun î s ü reyi a ş mamak kayd ı yla, hizmetin etkinlik ve s ü reklili ğ inin sa ğ lanmas ı bak ı m ı ndan vardiya veya n ö bet ş eklinde d ü zenlenebilir. (3) Hamilelik durumu ortaya çı kan personel, bu durumunu ilgili birim amirine derhal yaz ı l ı olarak bildirir. Hamile personelin y ı ll ı k doz limitleri, Radyasyon G ü venli ğ i Y ö netmeli ğ inde belirlenmi ş toplum i ç in doz limitlerini a ş amaz. Ç al ış ma ş artlar ı bilfiil denetimli alanlar ı kapsamayacak ş ekilde d ü zenlenir. (4) Emzirme d ö nemindeki personel, radyoiyodun solunmas ı veya sindirim yoluyla al ı nmas ı riski ta şı yan n ü kleer t ı p alan ı nda ve benzeri bula ş ma riski ta şı yan i ş lerde ç al ış t ı r ı lamaz. (5) Ki ş isel dozimetre ö l çü mlerinde doz limitlerinin a şı ld ığı n ı n tespit edilmesi halinde ö l çü m ü yapan kurulu ş en ge ç onbe ş g ü n i ç erisinde; aciliyet arz eden durumlarda ise derhal ilgili idareye bildirimde bulunur. (6) Ki ş isel dozimetre ö l çü mlerinde y ı ll ı k doz limitlerinin a şı ld ığı durumlarda Radyasyon G ü venli ğ i Komitesi, sorunun kayna ğı n ı inceleyip de ğ erlendirir, varsa eksiklik ve aksakl ı klar ı n d ü zeltilmesi i ç in ilgili idare ile birlikte gerekli tedbirleri al ı r. Eksiklik ve aksakl ı klar giderilinceye kadar doz limitini a ş an personel ilgili i ş te ç al ış t ı r ı lmaz, hatal ı radyasyon kayna ğı kullan ı lmaz. Bu personel y ı ll ı k sa ğ l ı k izni kullanmam ış ise ö ncelikle bu izin kulland ı r ı l ı r. Ayr ı ca sa ğ l ı k y ö n ü nden olumsuz bir durum ortaya çı kmas ı halinde, Radyasyon G ü venlik Komitesince onbe ş g ü nden az olmamak kayd ı yla sa ğ l ı k sorunu giderilene kadar verilecek izin s ü resi belirlenerek bu izin idarece kulland ı r ı l ı r. (7) Ki ş isel dozimetre ö l çü mlerinde 7 nci maddede belirtilen inceleme d ü zeyi doz seviyelerinin a şı lmas ı durumunda Radyasyon G ü venli ğ i Komitesi, sorunun kayna ğı n ı inceleyip de ğ erlendirir, varsa eksiklik ve aksakl ı klar ı n d ü zeltilmesi i ç in ilgili idare ile birlikte gerekli tedbirleri al ı r. Bu personelden y ı ll ı k doz limitlerini a ş ma ihtimali olanlar Radyasyon G ü venli ğ i Komitesince de ğ erlendirilerek alt ı nc ı f ı kraya g ö re i ş lem yap ı l ı r. (8) Ki ş isel dozimetre ö l çü mlerinde doz limitlerinin a şı lmas ı veya y ü ksek dozda radyasyona maruziyet şü phesi ta şı yan radyasyon kazas ı durumunda sa ğ l ı k personeli, Ek-1 ’ deki form do ğ rultusunda de ğ erlendirilir ve gerekli g ö r ü l ü rse bu konuda ileri tetkik ve tedavinin yap ı labilece ğ i sa ğ l ı k kurumuna sevk edilerek durumu idarece yak ı n takip edilir. (9) Radyasyon kayna ğı ile ç al ış an personelin, be ş y ı ll ı k etkin dozu toplamda 100 mSv ’ i a ş mas ı durumunda, bu personel radyasyon g ö revlisi olarak ç al ış t ı r ı lamaz. (10) Radyasyon g ö revlisi olmamakla birlikte radyasyon kayna ğı ile y ü r ü t ü len faaliyetlerden dolay ı y ı ll ı k 1 mSv etkin doz de ğ erinden fazla doza maruz kalma ihtimali Radyasyon G ü venli ğ i Komitesince belirlenen personele tedbir olarak ki ş isel dozimetre kulland ı r ı l ı r. (11) Radyasyon kayna ğı ile ç al ış an personelin sa ğ l ı k izni y ı l ı i ç erisinde kulland ı r ı l ı r. Y ü r ü rl ü kten kald ı r ı lan y ö netmelik MADDE 9 – (1) 6/10/2007 tarihli ve 26665 say ı l ı Resm î Gazete ’ de yay ı mlanan Kamu Sa ğ l ı k Hizmetlerinde İ yonla ş t ı r ı c ı Radyasyon Kaynaklar ı ile Ç al ış an Personelin Radyasyon Doz Limitleri Hakk ı nda Y ö netmelik y ü r ü rl ü kten kald ı r ı lm ış t ı r. Y ü r ü rl ü k MADDE 10 – (1) Bu Y ö netmelik yay ı m ı tarihinde y ü r ü rl üğ e girer. Y ü r ü tme MADDE 11 – (1) Bu Y ö netmelik h ü k ü mlerini Sa ğ l ı k Bakan ı y ü r ü t ü r. Y ö netmeli ğ in eklerini g ö rmek i ç in t ı klay ı n ı z |
+5 Temmuz 2012 PERŞEMBE
+
+Resmî Gazete
+
+Sayı : 28344
+
+### YÖNETMELİK
+
+Sağlık Bakanlığından:
+
+### SAĞLIK HİZMETLERİNDE İYONLAŞTIRICI RADYASYON KAYNAKLARI İLE ÇALIŞAN PERSONELİN RADYASYON DOZ LİMİTLERİ VE ÇALIŞMA
+
+### ESASLARI HAKKINDA YÖNETMELİK
+
+### BİRİNCİ BÖLÜM
+
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı, sağlık kurum ve kuruluşlarında radyasyon kaynağı ile teşhis, tedavi veya araştırmanın yapıldığı alanlarda çalışan tüm personelin radyasyondan kaynaklanabilecek risklere karşı radyasyon dozu limitlerini ve doz limitlerinin aşılmaması için alınması gereken tedbirler ile aşılması durumunda alınacak tedbirler ve radyasyon kaynakları ile ilgili çalışma esaslarını belirleyerek ilgili personelin korunmasını sağlamaktır.
+
+#### Kapsam
+
+**MADDE 2 –** (1) Bu Yönetmelik, radyasyon kaynağı ile teşhis, tedavi veya araştırmanın yapıldığı kamu ve özel tüm sağlık kurum ve kuruluşları ile radyasyon kaynaklarıyla çalışan personeli kapsar.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu Yönetmelik, 19/4/1937 tarihli ve 3153 sayılı Radyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanunun Ek 1 inci maddesi ile 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 ıncı maddesine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+
+**MADDE 4 –** (1) Bu Yönetmelikte geçen;
+
+a) Bakanlık: Sağlık Bakanlığını,
+
+b) Denetimli alanlar: Radyasyon görevlilerinin giriş ve çıkışlarının özel denetime, çalışmalarının radyasyondan korunma bakımından özel kurallara bağlı olduğu ve görevi gereği radyasyon ile çalışan kişilerin ardışık beş yılın ortalama yıllık doz sınırlarını 3/10’undan fazla radyasyon dozuna maruz kalabilecekleri alanları,
+
+c) Eşdeğer doz: Birimi Sievert (Sv) olup, radyasyonun türüne ve enerjisine bağlı olarak doku veya organda soğurulmuş dozun, radyasyon ağırlık faktörü ile çarpılmış halini,
+
+ç) Etkin doz: Birimi Sievert (Sv) olup, insan vücudunda ışınlanan bütün doku ve organlar için hesaplanmış eşdeğer dozun, her doku ve organın doku ağırlık faktörleri ile çarpılması sonucunda elde edilen dozların toplamını,
+
+d) Gözetimli alanlar: Radyasyon görevlileri için yıllık doz sınırlarının 1/20'sinin aşılma ihtimali olup, 3/10'unun aşılması beklenmeyen, kişisel doz ölçümünü gerektirmeyen fakat çevresel radyasyonun izlenmesini gerektiren alanları,
+
+e) İdare: Bünyesinde tıbbi amaçlı radyasyon uygulaması yapılan sağlık kurum ve kuruluşu idaresini,
+
+f) İyonlaştırıcı radyasyon: 100 nm ya da daha kısa dalga boyunda veya 3x1015 Hertz ya da daha yüksek frekansta elektromanyetik dalga veya parçacık şeklinde transfer edilen, doğrudan veya dolaylı olarak iyon oluşturma kapasitesine sahip enerjiyi,
+
+g) Kanun: 3153 sayılı Radyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanunu,
+
+ğ) Optimizasyon: En az radyasyon dozu ile en fazla tıbbi faydanın elde edilmesini,
+
+h) Personel: Teşhis, tedavi veya araştırmanın yapıldığı yerlerde radyasyon kaynakları ile çalışan radyasyon görevlisini,
+
+ı) Radyasyon görevlisi: Radyasyon kaynağı ile yürütülen faaliyetlerden dolayı görevi gereği, 24/3/2000 tarihli ve 23999 sayılı Resmî Gazete’de yayımlanan Radyasyon Güvenliği Yönetmeliğinde toplum üyesi kişiler için belirtilen doz sınırlarının üzerinde radyasyona maruz kalma olasılığı olan kişiyi,
+
+i) Radyasyon Güvenliği Komitesi: Sağlık kurum ve kuruluşlarında nükleer tıp, radyasyon onkolojisi, radyoterapi ve radyoloji birimlerinin her birinden en az bir radyasyon görevlisi ile, idare tarafından uygun görülen diğer personelin katılımıyla oluşan ve radyasyon güvenliğinin sağlanmasına yönelik çalışmaları yürüten birimi,
+
+j) Radyasyon kaynağı: Teşhis, tedavi, araştırma veya kalibrasyonda kullanılan ve radyasyon yayan tıbbi cihazlar, radyofarmasötik veya radyoaktif kaynağı,
+
+k) TAEK: Türkiye Atom Enerjisi Kurumunu,
+
+ifade eder.
+
+### İKİNCİ BÖLÜM
+
+Radyasyon Kaynakları ile Çalışma Esasları ve Radyasyon Güvenliği Komitesi
+
+#### Radyasyon kaynakları ile çalışma esasları
+
+**MADDE 5 –** (1) Tıbbi amaçlı iyonlaştırıcı radyasyon kaynaklarının alınması, bulundurulması ve kullanılması 9/7/1982 tarihli ve 2690 sayılı Türkiye Atom Enerjisi Kurumu Kanunu ve 24/7/1985 tarihli ve 85/9727 sayılı Bakanlar Kurulu kararıyla yürürlüğe giren Radyasyon Güvenliği Tüzüğü gereğince TAEK tarafından verilen lisansa bağlıdır.
+
+(2) İdare, tıbbi amaçlı iyonlaştırıcı radyasyon kaynaklarının teslim alınması, bulundurulması, çalıştırılması, kullanılması ve radyoaktif madde kullanımından oluşan atıkların bertaraf edilmesine ilişkin idari ve teknik düzenlemeleri Radyasyon Güvenliği Yönetmeliği ve 21/7/1994 tarihli ve 21997 sayılı Resmî Gazete’de yayımlanan Tıpta Tedavi Amacıyla Kullanılan İyonlaştırıcı Radyasyon Kaynaklarını İçeren Tesislere Lisans Verme Yönetmeliği ile 2/9/2004 tarihli 25571 sayılı Resmî Gazete’de yayımlanan Radyoaktif Madde Kullanımından Oluşan Atıklara İlişkin Yönetmelik doğrultusunda yerine getirmekle yükümlüdür.
+
+(3) Tıbbi amaçlı iyonlaştırıcı radyasyon kaynakları ancak radyasyonun zararlı etkilerine karşılık elde edilecek faydanın üstünlüğü varsa kullanılır. İyonlaştırıcı radyasyonla ilgili işlemi talep eden tabip ve işlemi gerçekleştiren tabip tarafından yapılacak işlem gerekçelendirilir. Tanı ve tedaviye yönelik işlemin tekrarına tabip karar verir. İşlem tekrarının azaltılması için eğitim de dahil olmak üzere her türlü tedbirin alınması ilgili kliniğin sorumluluğundadır.
+
+(4) İyonlaştırıcı radyasyon kaynaklarını ilgili mevzuatına göre yetkili kişiler kullanır.
+
+(5) Tanısal amaçlı radyasyonla yapılacak işlemlerde, işlemin gerektirdiği en az ışınlamanın yapılması esastır. Tedavi amaçlı nükleer tıp ve radyoterapi işlemlerinde optimizasyonu sağlamak üzere işlemde görev alan sağlık fizikçisinin de değerlendirmesi alınır. Her radyasyon yayan cihaz veya uygulama için lisans sahibinin sorumluluğunda, ilgili birim çalışanları ile birlikte en uygun çalışma şeklini tarif eden yazılı bir talimat hazırlanır ve ilgili tüm çalışanlar bilgilendirilerek bu talimata uyulması sağlanır.
+
+#### Radyasyon Güvenliği Komitesi
+
+**MADDE 6 –** (1) Nükleer tıp, radyasyon onkolojisi ve radyoloji uygulamalarının en az ikisinin yürütüldüğü bölümleri içeren sağlık kurum ve kuruluşları bünyesinde Radyasyon Güvenliği Komitesi kurulur. Bu şartın sağlanamadığı illerde bu komite il sağlık müdürlüğü bünyesinde oluşturulur.
+
+(2) Radyasyon Güvenliği Komitesinin etkin çalışmasından, radyasyon güvenliği hususlarının komiteye bildirilmesinden ve komite tarafından alınan kararların uygulanmasından idare sorumludur. Bu komitenin görevlerini yürütebilmesi için gerekli olan fiziki ve idari her türlü imkân idare tarafından sağlanır. Komite başkanı, komitenin asil üyeleri arasından iki yıllığına seçimle belirlenir. Gerektiğinde Komite görevini etkin ve eksiksiz yerine getirmek üzere yılda en az iki kez toplanır. Komite, alınan kararları en geç beş iş günü içerisinde idareye bildirir.
+
+(3) Radyasyon Güvenliği Komitesi, TAEK tarafından belirlenen çalışma usul ve esaslarına göre; idari açıdan sağlık kurum ve kuruluşlarında baştabibe, il sağlık müdürlüklerinde müdüre bağlı olarak çalışır.
+
+### ÜÇÜNCÜ BÖLÜM
+
+Radyasyon Doz Limitleri, Personel Çalışma Esasları ve Tedbirler ile Son Hükümler
+
+#### Radyasyon doz limitleri
+
+**MADDE 7 –** (1) Bu Yönetmeliğe uygun olarak radyasyon alanlarında yapılan çevresel radyasyon izlemesinin yanı sıra Radyasyon Güvenliği Yönetmeliği gereğince kişisel dozimetre kullanması zorunlu olan personel kişisel cep dozimetresi; bu personelden radyofarmasötik işaretlemede ve tedavi amaçlı radyonüklid uygulamalarında, radyoterapide manuel iridyum 192 uygulamalarında görevli olanlar ile girişimsel floroskopik uygulamalarda çalışanlar kişisel cep dozimetresine ek olarak el bileği veya yüzük dozimetresi taşır.
+
+(2) Radyasyon kaynağı ile çalışan personelin maruz kalacağı etkin doz, göz merceği ve tüm vücut için ardışık beş yıl toplamında 100 mSv’i, herhangi bir tek yılda 50 mSv’i geçemez. Bu kurala aykırı olmayacak şekilde ayrıca;
+
+a) Etkin dozun ayda 2 mSv’i,
+
+b) El ve ayaklar için eş değer dozun aylık 50 mSv’i,
+
+c) En yoğun radyasyona maruz kalan 1 cm2’lik alan referans olmak üzere cilt için eş değer dozun aylık 50 mSv’i,
+
+geçmesi halinde bu seviyeler, inceleme düzeyi doz seviyeleri olarak değerlendirilir.
+
+(3) 18 yaşını doldurmamış olanlar radyasyon kaynağı ile çalışılan işlerde görev alamazlar. Eğitim amaçlı olmak kaydıyla, eğitimleri radyasyon kaynaklarının kullanılmasını gerektiren 16-18 yaş arası stajyer ve öğrenciler bu eğitimlerini sadece gözetimli alanlarda alabilir. Mesleki eğitimleri gereği radyasyon kaynağı ile çalışması zorunlu 16-18 yaş arası stajyer ve öğrenciler için etkin doz, göz merceği ve tüm vücut için yılda 6 mSv’i geçemez. Ayrıca bu kurala aykırı olmayacak şekilde;
+
+a) Etkin dozun aylık 0.6 mSv’i,
+
+b) Göz merceği için eş değer dozun aylık 0.6 mSv’i,
+
+c) El, ayak veya deri için eşdeğer dozun aylık 15 mSv’i,
+
+geçmesi halinde bu seviyeler, inceleme düzeyi doz seviyeleri olarak değerlendirilir.
+
+#### Personel çalışma esasları ve tedbirler
+
+**MADDE 8 –** (1) Radyasyon kaynağı ile çalışan personel, 7 nci maddede belirtilen radyasyon doz limitleri ve Kanunun Ek 1 inci maddesinde öngörülen süre dâhilinde çalıştırılır. Bu personel normal mesai dışında icap nöbetine çağrılmış ise icap nöbetinde bilfiil çalışılan süre de haftalık çalışma süresine dâhil edilir. İdare, personelin sağlığını korumak, doz aşımına maruz kalmasını önlemek ve iş güvenliğini sağlamak için işin niteliğine uygun koruyucu giysi ve teçhizatı eksiksiz bulundurmak ve bu Yönetmelik hükümlerini yerine getirmekle; personel de gerekli korunma tedbirlerine uymakla yükümlüdür.
+
+(2) Radyasyon kaynağı ile çalıştırılacak personelin, işe başlatılmadan önceki tıbbi muayeneleri ile işe başlatıldıktan sonraki yıllık sağlık kontrolleri Ek-1’deki form doğrultusunda ilgili idare tarafından yaptırılır. Bu personelin çalışma şekli, Kanunî süreyi aşmamak kaydıyla, hizmetin etkinlik ve sürekliliğinin sağlanması bakımından vardiya veya nöbet şeklinde düzenlenebilir.
+
+(3) Hamilelik durumu ortaya çıkan personel, bu durumunu ilgili birim amirine derhal yazılı olarak bildirir. Hamile personelin yıllık doz limitleri, Radyasyon Güvenliği Yönetmeliğinde belirlenmiş toplum için doz limitlerini aşamaz. Çalışma şartları bilfiil denetimli alanları kapsamayacak şekilde düzenlenir.
+
+(4) Emzirme dönemindeki personel, radyoiyodun solunması veya sindirim yoluyla alınması riski taşıyan nükleer tıp alanında ve benzeri bulaşma riski taşıyan işlerde çalıştırılamaz.
+
+(5) Kişisel dozimetre ölçümlerinde doz limitlerinin aşıldığının tespit edilmesi halinde ölçümü yapan kuruluş en geç onbeş gün içerisinde; aciliyet arz eden durumlarda ise derhal ilgili idareye bildirimde bulunur.
+
+(6) Kişisel dozimetre ölçümlerinde yıllık doz limitlerinin aşıldığı durumlarda Radyasyon Güvenliği Komitesi, sorunun kaynağını inceleyip değerlendirir, varsa eksiklik ve aksaklıkların düzeltilmesi için ilgili idare ile birlikte gerekli tedbirleri alır. Eksiklik ve aksaklıklar giderilinceye kadar doz limitini aşan personel ilgili işte çalıştırılmaz, hatalı radyasyon kaynağı kullanılmaz. Bu personel yıllık sağlık izni kullanmamış ise öncelikle bu izin kullandırılır. Ayrıca sağlık yönünden olumsuz bir durum ortaya çıkması halinde, Radyasyon Güvenlik Komitesince onbeş günden az olmamak kaydıyla sağlık sorunu giderilene kadar verilecek izin süresi belirlenerek bu izin idarece kullandırılır.
+
+(7) Kişisel dozimetre ölçümlerinde 7 nci maddede belirtilen inceleme düzeyi doz seviyelerinin aşılması durumunda Radyasyon Güvenliği Komitesi, sorunun kaynağını inceleyip değerlendirir, varsa eksiklik ve aksaklıkların düzeltilmesi için ilgili idare ile birlikte gerekli tedbirleri alır. Bu personelden yıllık doz limitlerini aşma ihtimali olanlar Radyasyon Güvenliği Komitesince değerlendirilerek altıncı fıkraya göre işlem yapılır.
+
+(8) Kişisel dozimetre ölçümlerinde doz limitlerinin aşılması veya yüksek dozda radyasyona maruziyet şüphesi taşıyan radyasyon kazası durumunda sağlık personeli, Ek-1’deki form doğrultusunda değerlendirilir ve gerekli görülürse bu konuda ileri tetkik ve tedavinin yapılabileceği sağlık kurumuna sevk edilerek durumu idarece yakın takip edilir.
+
+(9) Radyasyon kaynağı ile çalışan personelin, beş yıllık etkin dozu toplamda 100 mSv’i aşması durumunda, bu personel radyasyon görevlisi olarak çalıştırılamaz.
+
+(10) Radyasyon görevlisi olmamakla birlikte radyasyon kaynağı ile yürütülen faaliyetlerden dolayı yıllık 1 mSv etkin doz değerinden fazla doza maruz kalma ihtimali Radyasyon Güvenliği Komitesince belirlenen personele tedbir olarak kişisel dozimetre kullandırılır.
+
+(11) Radyasyon kaynağı ile çalışan personelin sağlık izni yılı içerisinde kullandırılır.
+
+#### Yürürlükten kaldırılan yönetmelik
+
+**MADDE 9 –** (1) 6/10/2007 tarihli ve 26665 sayılı Resmî Gazete’de yayımlanan Kamu Sağlık Hizmetlerinde İyonlaştırıcı Radyasyon Kaynakları ile Çalışan Personelin Radyasyon Doz Limitleri Hakkında Yönetmelik yürürlükten kaldırılmıştır.
+
+#### Yürürlük
+
+**MADDE 10 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+#### Yürütme
+
+**MADDE 11 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+
+Yönetmeliğin eklerini görmek için tıklayınız

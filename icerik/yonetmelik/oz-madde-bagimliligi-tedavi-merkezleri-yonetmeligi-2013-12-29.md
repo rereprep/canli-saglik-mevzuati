@@ -10,6 +10,294 @@ kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmem
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/12/20131229-2.htm"
 ---
 
-| 29 Aralık 2013 PAZAR | Resmî Gazete | Sayı : 28866 |
-| YÖNETMELİK |
-| Sa ğ l ı k Bakanl ığı ndan: MADDE BA Ğ IMLILI Ğ I TEDAV İ MERKEZLER İ Y Ö NETMEL İĞİ B İ R İ NC İ B Ö L Ü M Ama ç , Kapsam, Dayanak ve Tan ı mlar Ama ç MADDE 1 – (1) Bu Y ö netmeli ğ in amac ı ; madde ba ğı ml ı lar ı n ı n ayakta veya yatarak t ı bbi ve psiko -sosyal tedavileri ile t ı bbi rehabilitasyonlar ı n ı n yap ı ld ığı merkezlerin a çı lmas ı , i ş leyi ş i, denetlenmesi ve kapat ı lmas ı ile merkezde ç al ış acak sa ğ l ı k personelinin tespiti ve sertifikaland ı r ı lmas ı na ili ş kin usul ve esaslar ı belirlemektir. Kapsam MADDE 2 – (1) Bu Y ö netmelik, kamu ve ö zel sa ğ l ı k kurum ve kurulu ş lar ı na ait yatakl ı sa ğ l ı k tesisleri b ü nyesinde a çı lan ayakta veya yatarak hizmet veren madde ba ğı ml ı l ığı tedavi merkezlerini ve buralarda g ö rev yapacak personeli kapsar. Dayanak MADDE 3 – (1) Bu Y ö netmelik 7/5/1987 tarihli ve 3359 say ı l ı Sa ğ l ı k Hizmetleri Temel Kanununun 3 ü nc ü maddesi ile 9 uncu maddesinin birinci f ı kras ı n ı n (c) bendi ve 11/10/2011 tarihli ve 663 say ı l ı Sa ğ l ı k Bakanl ığı ve Ba ğ l ı Kurulu ş lar ı n ı n Te ş kilat ve G ö revleri Hakk ı nda Kanun H ü km ü nde Kararnamenin 8 inci, 40 ı nc ı ve 47 nci maddelerine dayan ı larak haz ı rlanm ış t ı r. Tan ı mlar MADDE 4 – (1) Bu Y ö netmelikte ge ç en; a) Ayakta tedavi: Bakanl ı k ç a yetkilendirilmi ş ayakta tedavi merkezlerinde, eri ş kin ve ç ocuk-ergen hastalar ı n ayakta yap ı lan tedavi uygulamalar ı n ı , b) Ayakta tedavi merkezi: Madde ba ğı ml ı lar ı n ı n ayakta te ş his, t ı bbi ve psiko -sosyal tedavi ile t ı bbi rehabilitasyon hizmetlerinin yap ı ld ığı ruh sa ğ l ığı hastal ı klar ı uzman ı bulunan kamu ve ö zel yatakl ı sa ğ l ı k kurum ve kurulu ş lar ı b ü nyesinde kurulan Bakanl ı k ç a faaliyet izni verilmi ş madde ba ğı ml ı l ığı tedavi merkezlerini, c) Bakanl ı k: Sa ğ l ı k Bakanl ığı n ı , ç ) Detoksifikasyon tedavisi: V ü cudun, ba ğı ml ı l ı k yapan maddeden ar ı nd ı r ı lmas ı ve tedavi s ı ras ı nda v ü cudun bu maddelere olan ihtiyac ı sonucunda ortaya çı kan yoksunluk belirtilerinin giderilmesi i ç in uygulanan m ü dahale ve tedavi usullerini, d) E ğ itim merkezi: Madde ba ğı ml ı l ığı alan ı nda g ö rev yapacak ki ş ilere e ğ itim vermek ü zere Bakanl ı k ç a yetkilendirilmi ş yatakl ı tedavi merkezlerini, e) Genel M ü d ü rl ü k: Sa ğ l ı k Hizmetleri Genel M ü d ü rl üğü n ü , f) Komisyon: Madde Ba ğı ml ı l ığı Bilim Komisyonunu, g) Madde ba ğı ml ı l ığı : 12/6/1933 tarihli ve 2313 say ı l ı Uyu ş turucu Maddelerin Murakabesi Hakk ı nda Kanun h ü k ü mlerine tabi tutulan maddeleri ve kullan ı m ı ; bedensel, ruhsal ve sosyal problemlere sebebiyet veren maddelerin kullan ı m arzusunun durdurulamamas ı halini, ğ ) Merkez: Madde ba ğı ml ı l ığı tedavi merkezlerini, h) M ü d ü rl ü k: Bakanl ı k il sa ğ l ı k m ü d ü rl ü klerini, ı ) Psiko -sosyal tedavi: Hastan ı n remisyon s ü resini uzatmak, yeni psiko -sosyal beceriler kazanmas ı n ı ve topluma entegre olmas ı n ı sa ğ lamak, ya ş am ı n ı yap ı land ı rmas ı na ve ruhsal sorunlar ı n ı n çö z ü m ü ne yard ı mc ı olmak amac ı yla yap ı lan tedaviyi, i) T ı bbi rehabilitasyon : Yatakl ı ve ayakta hizmet veren merkezlerde yap ı lan detoksifikasyon sonras ı ayakta ve/veya yatarak, ila ç l ı ve/veya ila ç s ı z psiko -sosyal tedavileri i ç eren, ki ş inin sosyal a çı dan d ü zelmesini hedefleyen tedavi s ü recini, j) Yat ı r ı larak tedavi: Bakanl ı k ç a yetkilendirilmi ş yatakl ı tedavi merkezlerinde, eri ş kin ve ç ocuk-ergen hastalar ı n yat ı r ı larak yap ı lan tedavi uygulamalar ı n ı , k) Yatakl ı tedavi merkezi: Madde ba ğı ml ı lar ı n ı n ayakta ve yatarak te ş his, t ı bbi ve psiko -sosyal tedavi ve t ı bbi rehabilitasyon hizmetlerinin yap ı ld ığı kamu ve ö zel yatakl ı sa ğ l ı k kurum kurulu ş lar ı nda kurulan Bakanl ı k ç a faaliyet izni verilmi ş madde ba ğı ml ı l ığı tedavi merkezlerini, l) Yerine koyma tedavisi: Ki ş inin ba ğı ml ı oldu ğ u maddenin yerine ge ç en ve ba ğı ml ı oldu ğ u madde iste ğ ini engelleyerek, sosyal, fiziksel ve psikolojik zararlar ı azaltmak amac ı ile agonist ya da k ı smi agonist bir ila ç la yap ı lan tedaviyi, ifade eder. İ K İ NC İ B Ö L Ü M Madde Ba ğı ml ı l ığı Bilim Komisyonu Komisyonun te ş kili MADDE 5 – (1) Madde ba ğı ml ı l ığı alan ı nda g ö r üş vermek ü zere Bakanl ı k ç a, Madde Ba ğı ml ı l ığı Bilim Komisyonu te ş kil edilir. Komisyon, Genel M ü d ü r veya g ö revlendirece ğ i bir daire ba ş kan ı n ı n ba ş kanl ığı nda; a) T ü rkiye Halk Sa ğ l ığı Kurumu ve T ü rkiye Kamu Hastaneleri Kurumundan birer daire ba ş kan ı , b) T ü rkiye Kamu Hastaneleri Kurumuna ba ğ l ı e ğ itim ve ara ş t ı rma hastanelerinden ve t ı p fak ü ltelerinin ruh sa ğ l ığı ve hastal ı klar ı anabilim dal ı öğ retim ü yelerinden ruh sa ğ l ığı ve hastal ı klar ı uzman ı e ğ itim g ö revlisi veya öğ retim ü yesi ve ç ocuk ve ergen ruh sa ğ l ığı ve hastal ı klar ı uzman ı olmak ü zere toplam yedi ki ş i, c) T ı p fak ü ltelerinin t ı bbi farmakoloji anabilim dal ı ndan veya T ü rkiye Kamu Hastaneleri Kurumuna ba ğ l ı e ğ itim ve ara ş t ı rma hastanelerinden bir t ı bbi farmakoloji uzman ı , olmak ü zere toplam onbir ü yeden olu ş ur. (2) Komisyon ü yeleri iki y ı l s ü re ile g ö rev yaparlar. Yeni komisyon ü yeleri se ç ilinceye kadar mevcut ü yelerin g ö revi devam eder. Herhangi bir sebeple ü yeli ğ in bo ş almas ı halinde, kalan s ü reyi tamamlamak ü zere yeni ü ye se ç ilir. Ü yeli ğ e ayn ı usulle tekrar se ç ilmek m ü mk ü nd ü r. Se ç ilmi ş ü yelerden kabul edilebilir bir mazereti olmaks ı z ı n iki defa ü st ü ste veya bir ü yelik d ö neminde y ı ll ı k izin, hastal ı k ve mazeret izinleri hari ç toplam üç defa kat ı lmayan ü yenin komisyon ü yeli ğ i sona erer. Komisyonun ç al ış ma us û l ve esaslar ı MADDE 6 – (1) Komisyon; y ı lda en az iki defa olmak kayd ı yla, ihtiyaca ve Bakanl ığı n daveti ü zerine, Genel M ü d ü rl ü k taraf ı ndan ö nceden belirlenmi ş toplant ı g ü ndemine g ö re toplan ı r. Toplant ı daveti; toplant ı tarihi, yeri ve g ü ndemi ile birlikte en az yedi g ü n ö nce ü yelere yaz ı l ı ve/veya elektronik olarak bildirilir. Bakanl ı k gerekli hallerde, komisyonu ola ğ an toplant ı lar d ışı nda da toplant ı ya davet edebilir. (2) Komisyon, ü ye tam say ı s ı n ı n 2/3 ç o ğ unlu ğ u ile toplan ı r ve toplant ı ya kat ı lanlar ı n salt ç o ğ unlu ğ u ile karar al ı r. Oylarda e ş itlik olmas ı halinde, Ba ş kan ı n g ö r üşü n ü n oldu ğ u taraf ı n g ö r üşü kabul edilmi ş say ı l ı r. (3) Komisyon kararlar ı , karar defterine yaz ı l ı r ve toplant ı ya kat ı lan ü yelerce imzalan ı r. Karara muhalif olanlar, ş erh koymak suretiyle kararlar ı imza ederler. Muhalif g ö r üş gerek ç esinin karar alt ı nda veya ekinde belirtilmesi zorunludur. Bakanl ı k, gerekti ğ inde ulusal veya uluslararas ı alanda madde ba ğı ml ı l ığı tedavisinde uzman olan ki ş ileri veya uzmanl ı k kurulu ş lar ı n ı n temsilcilerini, bilimsel g ö r üş lerini almak ü zere Komisyona davet edebilir veya bunlardan yaz ı l ı g ö r üş isteyebilir. Komisyonun g ö revleri MADDE 7 – (1) Komisyonun g ö revleri ş unlard ı r: a) Madde ba ğı ml ı l ığı tedavisinin geli ş imini izleyerek, Bakanl ı k ç a belirlenecek ulusal stratejiler konusunda g ö r üş bildirmek. b) Madde ba ğı ml ı l ığı tedavi us û lleri ile ilgili tan ı ve tedavi protokollerini olu ş turmak ve gerekti ğ inde g ü ncellemesi konusunda g ö r üş bildirmek. c) Bakanl ığı n talebi ü zerine merkezlerin y ı ll ı k faaliyetlerini de ğ erlendirmek, gerekti ğ inde merkezleri yerinde incelemek ve al ı nmas ı gereken tedbirler konusunda g ö r üş bildirmek. ç ) Madde ba ğı ml ı l ığı konusunda e ğ itim verecek merkezleri ve e ğ itimin kapsam ı n ı belirlemek. d) Bakanl ı k ç a belirlenecek di ğ er konularda g ö r üş bildirmek. ÜÇÜ NC Ü B Ö L Ü M Yatakl ı ve Ayakta Tedavi Merkezlerinin Kurulmas ı Kurulma MADDE 8 – (1) Merkez, sadece kadrosunda ruh sa ğ l ığı ve hastal ı klar ı uzman ı bulunan yatakl ı tedavi kurum ve kurulu ş lar ı nda kurulabilir. (2) Merkez, Bakanl ı ktan izin al ı nmas ı kayd ı yla kurulabilir. (3) Bakanl ı k ç a verilen izin ü zerine, kamu ve ö zel hastaneler b ü nyesinde merkez kurmak ü zere gerekli d ü zenlemeler yap ı l ı r. Ö zel hastaneler merkez kurmaya ili ş kin t ü m d ü zenlemelerini 27/3/2002 tarihli ve 24708 say ı l ı Resm î Gazete ’ de yay ı mlanan Ö zel Hastaneler Y ö netmeli ğ i ç er ç evesinde yapar. (4) Ek-10 ’ da belirtilen uyu ş turucu madde testlerini yapacak veya yap ı lmas ı n ı sa ğ layabilecek kamu ve ö zel yatakl ı sa ğ l ı k kurum ve kurulu ş lar ı b ü nyesinde ayakta tedavi merkezi veya yatakl ı tedavi merkezleri olmak ü zere merkez kurulabilir. Planlama MADDE 9 – (1) Bakanl ı k gerekti ğ inde, ilin demografik yap ı s ı , madde ba ğı ml ı l ığı hastalar ı n ı n b ö lgesel da ğı l ı m ı gibi ö zellikleri dikkate alarak ü lke genelinde merkezler i ç in planlama yapabilir. Planlamaya ihtiya ç duyulmas ı halinde Bakanl ı k ç a duyuru yap ı l ı r. Ö n izin MADDE 10 – (1) Madde ba ğı ml ı l ığı tedavi merkezi a ç mak isteyen kurum ya da kurulu ş lar Bakanl ı ktan ö n izin al ı r. Bunun i ç in ek-6 ’ da yer alan dilek ç e ile m ü d ü rl üğ e ba ş vurulur. (2) Yap ı lan ba ş vuruyu de ğ erlendirmek ü zere m ü d ü rl ü k nezdinde bir de ğ erlendirme komisyonu olu ş turulur. İ l de ğ erlendirme komisyonu; m ü d ü r veya g ö revlendirece ğ i bir m ü d ü r yard ı mc ı s ı n ı n ba ş kanl ığı nda, ilgili ş ube m ü d ü r ü , ruh sa ğ l ığı ve hastal ı klar ı uzman ı ve bir teknik eleman olmak ü zere en az d ö rt ki ş iden olu ş ur. İ l de ğ erlendirme komisyonu ba ş vuru dilek ç esini ilin yap ı s ı , ihtiya ç lar ı , hasta potansiyeli gibi konularda de ğ erlendirir. İ l de ğ erlendirme komisyonu sonucu bir rapor halinde m ü d ü rl üğ e sunar. (3) İ l de ğ erlendirme komisyonu raporu ve m ü d ü rl üğü n uygun g ö r üşü ile ba ş vuru Bakanl ığ a iletilir. Bakanl ı k taraf ı ndan merkez a ç ma talebi bulunan il, ü lke genelinde yap ı lan planlama ve ilgili komisyonun raporuna g ö re de ğ erlendirme yaparak o ilde merkez a çı l ı p a çı lmayaca ğı na karar verir. Uygun g ö r ü len ba ş vurular i ç in Bakanl ı k ç a ö n izin verilir. Ba ş vuru ve faaliyet izni MADDE 11 – (1) Bakanl ı k ç a, b ü nyesinde merkez a çı lmas ı na ö n izin verilen kurum ve kurulu ş lar ek-7 ’ de yer alan belgeler ve ek-8 ’ de yer alan dilek ç e ile birlikte izin tarihinden itibaren üç ay i ç erisinde m ü d ü rl üğ e ba ş vurur, bu s ü re i ç erisinde ba ş vurmayanlar ı n izinleri iptal edilir. (2) Ba ş vuru dosyas ı n ı n; bu Y ö netmelik h ü k ü mlerine uygunlu ğ u m ü d ü rl ü k taraf ı ndan ö ncelikle dosya ü zerinde de ğ erlendirilir. (3) Ek-7 ’ de yer alan ba ş vuru dosyas ı tam olan merkezler, il de ğ erlendirme komisyonu taraf ı ndan personel, bina, t ı bb î donan ı m ve ara ç -gere ç ler ile bu Y ö netmeli ğ in ö ng ö rd üğü di ğ er hususlara uygunluk y ö n ü nden yerinde incelenir ve sonu ç lar ı bir rapor halinde m ü d ü rl üğ e sunulur. (4) Ek-7 ’ de yer alan ba ş vuru dosyas ı tam olan ve yerinde yap ı lan incelemede fiziki ko ş ullar ı uygun bulunan merkezler i ç in M ü d ü rl ü k ç e ek-9 ’ da yer alan madde ba ğı ml ı l ığı tedavi merkezi faaliyet izin belgesi d ü zenlenir ve Ö zel Hastaneler Y ö netmeli ğ i gere ğ ince ö zel hastane faaliyet izin belgelerinin m ü d ü rl ü k ç e d ü zenlenen ilgili b ö l ü m ü ne eklenir. Bu durumla ilgili Bakanl ığ a bilgi verilir. (5) Yerinde yap ı lan incelemede fiziki ko ş ullar ı uygun olmayan merkezlere, eksikliklerin giderilmesi i ç in üç aya kadar ek s ü re verilebilir. Bu s ü re sonunda eksikliklerini gidermeyen merkezlerin ba ş vurular ı gerek ç eleri belirtilmek suretiyle m ü d ü rl ü k ç e reddedilir. D Ö RD Ü NC Ü B Ö L Ü M Yatakl ı Tedavi Merkezlerinin Sahip Olmas ı Gereken Fiziki Ş artlar ve Personel Durumu Bina durumu MADDE 12 – (1) Merkez, madde ba ğı ml ı l ığı tedavisi i ç in ayr ı lm ış en az 10 yata ğ a sahip, ek-10 ’ da belirtilen uyu ş turucu madde testlerini yapabilecek laboratuvar ı b ü nyesinde bulunduran veya bu hizmeti sunan laboratuvarlardan hizmet alan kamu ve ö zel yatakl ı sa ğ l ı k kurum ve kurulu ş lar ı b ü nyesinde kurulur. (2) B ü nyesinde hem eri ş kin hem de ç ocuk-ergen tedavi hizmetinin verilece ğ i merkezlerde; ç ocuk-ergen servisi yeti ş kin servisinden tamamen izole, m ü mk ü nse farkl ı bir binada bulunur. Farkl ı bir binan ı n olmamas ı durumunda giri ş ve çı k ışı , bah ç esi, yemekhanesi ve benzeri alanlar ı tamamen yeti ş kin hastalardan izole olur. Hasta odalar ı MADDE 13 – (1) Yatakl ı tedavi merkezlerinde g ü venlik esast ı r. Merkezin bina, duvar, pencere ve kap ı lar ı ile i ç dizayn ı hastalar ı n g ü venli ğ ini sa ğ layacak ş ekilde yap ı l ı r. Genel hastane i ç inde a çı lacak merkezlerin, hastanenin di ğ er birimleri ile g ü venlik a çı s ı ndan giri ş çı k ış larda izolasyonu sa ğ lan ı r ve klinik giri ş kap ı s ı denetim alt ı nda tutulur. Hastalar ı n kendine ve ç evresine zarar verme ihtimali g ö z ö n ü ne al ı narak alt katlarda olmas ı tercih edilir. (2) G ü venlik a çı s ı ndan pencere ç er ç eveleri sa ğ lam malzemelerden ve a ğı r darbelere dayan ı kl ı olur. Pencere camlar ı k ı r ı lmaz ve d ış pencerelerinin k ı smi a çı lan emniyet tertibat ı bulunur. Hasta odalar ı n ı n pencerelerinde g ü venli ğ i sa ğ layacak ş ekilde ve esteti ğ e uygun ö zel ç elik kafesler yap ı l ı r. (3) Hasta oda kap ı lar ı d ış ar ı dan m ü dahale ile a çı labilir kilit sistemine sahip olur. Hasta odalar ı nda hastan ı n kendine zarar verme ihtimaline kar şı banyodaki ask ı l ı klar bel hizas ı alt ı nda tutulur veya otuz kilo ü st ü nde a ğı rl ığı ta şı yamaz ö zelli ğ i olur. (4) Banyoda k ı r ı lmaz ö zellikli ayna duvara g ö m ü l ü olur. Banyo ve tuvaletlerin kap ı lar ı d ış ar ı dan m ü dahale ile a çı labilir kilit sistemine sahip olur. (5) Engelli hastalar i ç in, hasta yatak say ı s ı otuz ve alt ı nda olan merkezlerde en az bir olmak kayd ı yla ve ilave her otuz hasta yata ğı na bir eklenmek suretiyle, ilgili mevzuata uygun nitelikte engelli hasta odas ı tesis edilir. (6) Tek yatakl ı hasta odalar ı en az dokuz metrekare, birden fazla yatakl ı odalarda yataklar ayr ı labilir olur ve hasta yata ğı ba şı na yedi metrekare alan olur. Ö zellikli bak ı m ve tedavi odas ı MADDE 14 – (1) Merkezlerde, detoksifikasyon tedavisinin yap ı ld ığı ve ortaya çı kabilecek komplikasyonlar ı n takibi i ç in ö zellikli bak ı m ve tedavi odas ı bulunmas ı gerekir. Merkezler asgari on yatakl ı a çı l ı r. Bunun iki yata ğı ö zellikli tedavi ve bak ı m yata ğı olarak ayr ı l ı r ve yatak en az 12 metrekare olur. Her 15 yata ğ a bir adet ö zellikli tedavi ve bak ı m yata ğı eklenir. Tedavi merkezi hastane binas ı b ü nyesinde yer al ı yor ise ö zellikli bak ı m ve tedavi odas ı olarak hastanenin yo ğ un bak ı m ü nitesi kullan ı l ı r. Bu yataklardan birisi gereken hallerde engellilerin de tedavi edilebilece ğ i ş ekilde d ü zenlenir. (2) Ö zellikli bak ı m ve tedavi odas ı nda, g ö revli sa ğ l ı k personelince hastalar ı n s ü rekli g ö zetim ve izlenmesine uygun nitelikte bir mek â n olu ş turulur ve 13 ü nc ü maddede yer alan g ü venlik tedbirleri sa ğ lan ı r. (3) Bu odalarda ek-3 ’ te say ı lan t ı bbi cihaz ve malzemeler bulundurulur. Bu ü nitenin, hasta ve ziyaret ç i alanlar ı ile do ğ rudan ba ğ lant ı s ı olamaz. Ö zellikli bak ı m ve tedavi odalar ı nda yatan hastalar, hem ş ire istasyonundan izlenebilecek ş ekilde, yataklar aras ı uygun bi ç imde ve ki ş i mahremiyetini sa ğ layacak ş ekilde ayr ı l ı r. Poliklinik ve g ö r üş me odas ı MADDE 15 – (1) Merkezlerde poliklinik muayene odas ı , yeterli ş ekilde ayd ı nlat ı lan ve havaland ı r ı lan, uzmanl ı k dal ı na uygun ara ç -gere ç ve donan ı ma haiz olur. (2) Merkezlerde asgari bir adet olmak ü zere psikolog ve sosyal ç al ış mac ı lar ı n hastalar ve aileleri ile g ö r üş mek ve test uygulamak ü zere kullanacaklar ı yeterli ş ekilde ayd ı nlat ı lan ve havaland ı r ı lan en az alt ı metrekare b ü y ü kl üğü nde hasta g ö r üş me odas ı olur. Ç ok ama ç l ı grup terapi alan ı MADDE 16 – (1) Merkezlerde grup terapileri i ç in, genel toplant ı ve e ğ itimlerin yap ı labilece ğ i en az 20 m ² b ü y ü kl üğü nde gerekli donan ı ma sahip, yeterli b ü y ü kl ü kte bir alan ayr ı l ı r. Yatak say ı s ı na ve u ğ ra şı n ı n ö zelli ğ ine g ö re birden fazla grup terapi alan ı ve u ğ ra ş terapi odas ı olu ş turulur. Di ğ er alanlar MADDE 17 – (1) Merkezlerde tedavi ekibinin kullanaca ğı , hasta de ğ erlendirece ğ i ve rutin toplant ı lar ı n ı yapacaklar ı toplant ı odas ı bulunur. (2) Bina i ç inde veya d ışı nda, hastalar ı n en az iki farkl ı dalda spor yapmas ı na imkan sa ğ layan teknik donan ı ma haiz spor alanlar ı ayr ı l ı r. (3) Merkezlerde hem hastalar ve hem de personel i ç in ayr ı ayr ı olmak ü zere yeterli say ı da erkek ve kad ı n tuvaleti ve banyosu bulunur. Tuvalet ve banyo kap ı lar ı n ı n d ış a do ğ ru a çı lmas ı zorunludur. Engelliler i ç in ilgili mevzuata uygun nitelikte, her merkezde asgari bir olmak kayd ı ile ilave her otuz yatak i ç in bir adet olmak ü zere ayr ı tuvalet ve banyo bulunur. Poliklinik kat ı nda en az bir adet engelli tuvaleti bulunur. (4) T ı bb î at ı klar ve çö pler i ç in 22/7/2005 tarihli ve 25883 say ı l ı Resm î Gazete ’ de yay ı mlanan T ı bb î At ı klar ı n Kontrol ü Y ö netmeli ğ i h ü k ü mlerine uygun olarak gerekli tedbirler al ı n ı r. (5) Merkezlerde ç al ış an b ü t ü n personel i ç in binan ı n durumuna ve personel say ı s ı na g ö re yeterli miktarda ç al ış ma odas ı , giyinme dolab ı , tuvalet ve lavabo bulunur. N ö bet tutan personel i ç in dinlenme yerleri ayr ı l ı r. (6) Hasta mahremiyeti dikkate al ı nmak ş art ı yla, merkezin t ü m alanlar ı n ı g ö zetleyebilecek ş ekilde g ü venlik kameralar ı yerle ş tirilir ve kamera g ö r ü nt ü leri s ü rekli takip edilir. Bu kay ı tlar 30 g ü n s ü re ile saklan ı r. (7) Merkezlerde ila ç lar ı n g ü venli ğ i sa ğ lan ı r. (8) Merkezlerde, emniyet g ö zetim zincirine uygun ş ekilde biyolojik materyal al ı n ı r ve uygun saklama alan ı olu ş turulur. (9) Yatakl ı tedavi merkezlerinde asgari olarak ek-2 ’ de belirtilen t ı bbi cihaz ve malzemeler bulundurulur. Personel durumu MADDE 18 – (1) Merkezlerde ilgili Tebli ğ e g ö re sertifikal ı personel ç al ış abilir. Ancak g ö revlendirilecek yeterli say ı da sertifikal ı personel bulunmad ığı takdirde ayn ı unvana sahip personel bu merkezlerde g ö revlendirilir. Bu durumda g ö revlendirilen personel a çı lacak ilk e ğ itime tabi tutulur. Merkezlerde asgari olarak, ek-4 ’ teki tabloda yer alan personel bulundurulur. (2) Merkezlerde, hastalar ı n ya ş grubuna ve meslek tercihlerine g ö re g ö revlendirilecek öğ retmen, u ğ ra ş terapisti yapabilecek spor e ğ itimcisi, sanat e ğ itimcisi ve benzeri e ğ iticiler ile tercihen tedavi g ö rm üş ve madde ba ğı ml ı l ığı konusunda e ğ itilmi ş eski madde kullan ı c ı lar ı ndan tedavi ekibi i ç inde yer almas ı nda yarar g ö r ü lecek bir ki ş i g ö rev al ı r. (3) T ü m merkezlerde yeterli say ı da memur ve/veya t ı bbi sekreter, destek ve g ü venlik personeli bulundurulur. Personelin g ö rev, yetki ve sorumluluklar ı MADDE 19 – (1) Hastalar ı n t ı bb î a çı dan izlenmesinden, tedavilerinin planlanmas ı ndan ve hastalara t ı bb î y ö nden faydal ı olacak idar î tedbirlerin belirlenmesinden, sorumlu olmak ü zere ruh sa ğ l ığı ve hastal ı klar ı uzman ı sorumlu uzman tabip olarak g ö rev yapar. Ç ocuk-ergen ba ğı ml ı l ı k tedavi servislerinden ç ocuk ergen ruh sa ğ l ığı uzman ı sorumludur. Ancak ç ocuk ergen ruh sa ğ l ığı ve hastal ı klar ı uzman ı bulunmamas ı durumunda ruh sa ğ l ığı ve hastal ı klar ı uzman ı ç ocuk-ergen servisinden sorumludur. (2) Her merkezde, tedavi protokol ü ne g ö re hastalara tedavi uygulamak, hastalar ı t ı bb î y ö nden izlemek, tedavi seanslar ı ile ilgili hastan ı n dosyas ı na g ö zlem notunu kaydetmek, Y ö netmeli ğ e uygun idar î ve t ı bb î tedbir ve ş artlar ı g ö zetmek, akut komplikasyonlarda ilk m ü dahaleyi yapmak ve hizmetin 24 saat boyunca devaml ı l ığı n ı sa ğ lamak ile g ö revli ruh sa ğ l ığı ve hastal ı klar ı uzman ı veya tabip bulunur. Tedavi protokolleri merkezdeki ruh sa ğ l ığı ve hastal ı klar ı uzman ı taraf ı ndan belirlenir. (3) Merkezlerde, hastalar ı n psikolojik sorunlar ı n ı n çö z ü mlenmesine yard ı m edecek, ç e ş itli psikolojik test ve ö l ç ekleri uygulayarak hastalar ı n sorunlar ı n ı n belirlenmesine, hastalara ileti ş im becerisi ve problem çö zme becerisi kazand ı rmaya yard ı mc ı olacak psikolog bulundurulur. (4) Merkezlerde, bireye ve aileye y ö nelik sosyal hizmet uygulamalar ı n ı y ü r ü tmekle g ö revli ve psiko -sosyal tedavi ekibinin bir par ç as ı olarak sosyal ç al ış mac ı bulundurulur. (5) Merkezlerde, hastan ı n her t ü rl ü t ı bb î bak ı m ı n ı sorumlu tabibin ve tabibin tedavi plan ı na g ö re yapmak, hastalara e ğ itim vermek, rutin hasta takiplerini yapmak ve tedavilere ili ş kin kay ı tlar ı tutmak ve ilgili mevzuat ile kendilerine verilen di ğ er g ö revleri yerine getirmek ü zere hem ş ire/sa ğ l ı k memuru bulundurulur. BE Şİ NC İ B Ö L Ü M Ayakta Tedavi Merkezlerinde Bulundurulmas ı Gereken B ö l ü mler Poliklinik ve g ö r üş me odas ı MADDE 20 – (1) Merkezlerde; poliklinik muayene odas ı , yeterli ş ekilde ayd ı nlat ı lan ve havaland ı r ı lan, uzmanl ı k dal ı na uygun ara ç , gere ç ve donan ı m bulundurulur. (2) Merkezlerde asgari bir adet olmak ü zere psikolog ve sosyal ç al ış mac ı lar ı n hastalar ve aileleri ile g ö r üş mek ve test uygulamak ü zere kullanacaklar ı yeterli ş ekilde ayd ı nlat ı lan ve havaland ı r ı lan en az alt ı metrekare b ü y ü kl üğü nde hasta g ö r üş me odas ı olur. Ç ok ama ç l ı grup terapi alan ı MADDE 21 – (1) Grup terapileri i ç in, genel toplant ı ve e ğ itimlerin yap ı labilece ğ i en az 10 m ² b ü y ü kl üğü nde gerekli donan ı ma sahip ve yeterli b ü y ü kl ü kte alan ayr ı l ı r. Personel durumu MADDE 22 – (1) Merkezlerde, bu konuda e ğ itim alm ış sertifikal ı personel ç al ışı r. Ancak g ö revlendirilecek yeterli say ı da sertifikal ı personel bulunmad ığı takdirde ayn ı unvandan personel bu merkezlerde g ö revlendirilir. Bu durumda g ö revlendirilen personel a çı lacak ilk e ğ itime tabi tutulur. Merkezlerde asgari olarak, ek-5 ’ teki tabloda yer alan personel bulundurulur. (2) Merkezlerde, hastalar ı n ya ş grubuna ve meslek tercihlerine g ö re g ö revlendirilecek öğ retmen, u ğ ra ş terapisti yapabilecek spor e ğ itimcisi, sanat e ğ itimcisi ve benzeri e ğ iticiler ile tercihen tedavi g ö rm üş ve madde ba ğı ml ı l ığı konusunda e ğ itilmi ş eski madde kullan ı c ı lar ı ndan tedavi ekibi i ç inde yer almas ı nda yarar g ö r ü lecek bir ki ş i g ö rev al ı r. (3) T ü m merkezlerde yeterli say ı da memur ve/veya t ı bbi sekreter, destek ve g ü venlik personeli bulundurulur. ALTINCI B Ö L Ü M Ç e ş itli ve Son H ü k ü mler E ğ itim verecek merkezlerin tespiti MADDE 23 – (1) Bu Y ö netmeli ğ e g ö re a çı lma izni alm ış olan e ğ itim ve ara ş t ı rma hastaneleri ve ü niversite hastaneleri b ü nyesindeki merkezlere Komisyonun g ö r üşü al ı narak Bakanl ı k ç a e ğ itim merkezi yetkisi verilir. Kay ı t ve bildirim MADDE 24 – (1) Merkezlere, muayene, te ş his ve tedavi amac ı yla ba ş vuran hastalar ile ilgili olarak yap ı lan t ı bb î ve idar î i ş lemlere ili ş kin kay ı tlar ı n ilgili mevzuata uygun olarak d ü zenli bir ş ekilde tutulmas ı zorunludur. (2) Merkezlerde hastalara ili ş kin olarak tutulan b ü t ü n kay ı tlar ı n gizlili ğ i esast ı r. Ancak merkezlerden istenilen bilgilerin, gizlilik prensibi g ö zetilmek suretiyle Bakanl ığ a g ö nderilmesi zorunludur. Merkezlerinin denetlenmesi ve yapt ı r ı mlar MADDE 25 – (1) Merkezler; Bakanl ı k ç a yap ı lacak olan ola ğ an ve ola ğ an d ışı denetimler hari ç , ek-11 ’ de yer alan madde ba ğı ml ı l ığı tedavi merkezleri denetleme formu esas al ı narak biri ruh sa ğ l ığı hastal ı klar ı uzman ı olmak kayd ı yla en az iki ki ş iden olu ş an denetim ekibince iki y ı lda bir kez m ü d ü rl ü k ç e denetlenir. (2) M ü d ü rl ü k denetim ekipleri taraf ı ndan yap ı lan denetimlerde tespit edilen eksiklikler ile orant ı l ı olarak merkezlere eksikliklerin giderilmesi i ç in alt ı aya kadar s ü re verilir. S ü re sonunda eksikliklerin tam olarak giderilemedi ğ i durumlarda m ü d ü rl ü k ç e üç aya kadar ek s ü re verilir. Bu durum hastanenin mesul m ü d ü r ü ne/ba ş hekimli ğ e yaz ı l ı olarak bildirilir. Belirlenen s ü reler zarf ı nda eksikliklerin giderilmesi zorunludur. M ü d ü rl ü k ç e yap ı lan i ş lemler, ayr ı ca rapor halinde Bakanl ığ a sunulur. (3) Ek-11 ’ de yer alan madde ba ğı ml ı l ığı tedavi merkezleri denetleme formuna g ö re yap ı lan denetim sonucunda, tespit edilen eksiklikler ile orant ı l ı olarak eksikliklerin giderilmesi i ç in m ü d ü rl ü k ç e bir ay ile alt ı ay aras ı s ü re verilir. Verilen s ü re sonunda gerekli d ü zenlemelerin yap ı lmad ığı , faaliyete esas kriterlerin kaybedildi ğ i ve/veya hastalar ı n tan ı , tedavi ve takibinin olumsuz etkilendi ğ inin tespit edildi ğ i durumlarda m ü d ü rl ü k taraf ı ndan rapor tutularak Bakanl ığ a g ö nderilir. Bakanl ı k, M ü d ü rl ü k ç e g ö nderilen raporu incelemek suretiyle faaliyet izninin iptal edilip edilmeyece ğ ine karar verir. (4) Faaliyet izinleri iptal edilen merkezlerde tedavi g ö ren hastalar, hastalar ı n tedavileri aksat ı lmaks ı z ı n m ü d ü rl ü k taraf ı ndan, sa ğ l ı k g ü vencelerine g ö re veya hastalar ı n talebi do ğ rultusunda di ğ er merkezlere nakledilir. (5) Merkezler, standart tedavi y ö ntem ve protokolleri d ışı ndaki hi ç bir tedavi ş eklini Bakanl ığı n izni olmadan uygulayamaz. Y ü r ü rl ü kten kald ı r ı lan y ö netmelik MADDE 26 – (1) 16/2/2004 tarihli ve 25375 say ı l ı Resm î Gazete ’ de yay ı mlanan Madde Ba ğı ml ı l ığı Tedavi Merkezleri Y ö netmeli ğ i y ü r ü rl ü kten kald ı r ı lm ış t ı r. Mevcut merkezlerin uyumu GE Çİ C İ MADDE 1 – (1) Bu Y ö netmeli ğ in y ü r ü rl üğ e girdi ğ i tarihten ö nce madde ba ğı ml ı l ığı tedavisi yapmakta olan merkezler, bu Y ö netmeli ğ in fiziki ve bina standartlar ı na ili ş kin h ü k ü mlerini be ş y ı l, di ğ er ş artlar ı n ı da iki y ı l i ç erisinde sa ğ lar. Uyum sa ğ lay ı ncaya kadar mevcut merkezler ek-1 ’ de belirtilen ila ç raporunu d ü zenleyebilir. Belirlenen s ü re sonunda bu Y ö netmeli ğ e uygun hale gelmeyen merkezlerin faaliyet izinleri Bakanl ı k ç a iptal edilir. Y ü r ü rl ü k MADDE 27 – (1) Bu Y ö netmelik yay ı m ı tarihinde y ü r ü rl üğ e girer. Y ü r ü tme MADDE 28 – (1) Bu Y ö netmelik h ü k ü mlerini Sa ğ l ı k Bakan ı y ü r ü t ü r. Y ö netmeli ğ in ekleri i ç in t ı klay ı n ı z |
+29 Aralık 2013 PAZAR
+
+Resmî Gazete
+
+Sayı : 28866
+
+### YÖNETMELİK
+
+Sağlık Bakanlığından:
+
+### MADDE BAĞIMLILIĞI TEDAVİ MERKEZLERİ YÖNETMELİĞİ
+
+### BİRİNCİ BÖLÜM
+
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı; madde bağımlılarının ayakta veya yatarak tıbbi ve psiko-sosyal tedavileri ile tıbbi rehabilitasyonlarının yapıldığı merkezlerin açılması, işleyişi, denetlenmesi ve kapatılması ile merkezde çalışacak sağlık personelinin tespiti ve sertifikalandırılmasına ilişkin usul ve esasları belirlemektir.
+
+#### Kapsam
+
+**MADDE 2 –** (1) Bu Yönetmelik, kamu ve özel sağlık kurum ve kuruluşlarına ait yataklı sağlık tesisleri bünyesinde açılan ayakta veya yatarak hizmet veren madde bağımlılığı tedavi merkezlerini ve buralarda görev yapacak personeli kapsar.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu Yönetmelik 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesi ile 9 uncu maddesinin birinci fıkrasının (c) bendi ve 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 8 inci, 40 ıncı ve 47 nci maddelerine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+
+**MADDE 4 –** (1) Bu Yönetmelikte geçen;
+
+a) Ayakta tedavi: Bakanlıkça yetkilendirilmiş ayakta tedavi merkezlerinde, erişkin ve çocuk-ergen hastaların ayakta yapılan tedavi uygulamalarını,
+
+b) Ayakta tedavi merkezi: Madde bağımlılarının ayakta teşhis, tıbbi ve psiko-sosyal tedavi ile tıbbi rehabilitasyon hizmetlerinin yapıldığı ruh sağlığı hastalıkları uzmanı bulunan kamu ve özel yataklı sağlık kurum ve kuruluşları bünyesinde kurulan Bakanlıkça faaliyet izni verilmiş madde bağımlılığı tedavi merkezlerini,
+
+c) Bakanlık: Sağlık Bakanlığını,
+
+ç) Detoksifikasyon tedavisi: Vücudun, bağımlılık yapan maddeden arındırılması ve tedavi sırasında vücudun bu maddelere olan ihtiyacı sonucunda ortaya çıkan yoksunluk belirtilerinin giderilmesi için uygulanan müdahale ve tedavi usullerini,
+
+d) Eğitim merkezi: Madde bağımlılığı alanında görev yapacak kişilere eğitim vermek üzere Bakanlıkça yetkilendirilmiş yataklı tedavi merkezlerini,
+
+e) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
+
+f) Komisyon: Madde Bağımlılığı Bilim Komisyonunu,
+
+g) Madde bağımlılığı: 12/6/1933 tarihli ve 2313 sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanun hükümlerine tabi tutulan maddeleri ve kullanımı; bedensel, ruhsal ve sosyal problemlere sebebiyet veren maddelerin kullanım arzusunun durdurulamaması halini,
+
+ğ) Merkez: Madde bağımlılığı tedavi merkezlerini,
+
+h) Müdürlük: Bakanlık il sağlık müdürlüklerini,
+
+ı) Psiko-sosyal tedavi: Hastanın remisyon süresini uzatmak, yeni psiko-sosyal beceriler kazanmasını ve topluma entegre olmasını sağlamak, yaşamını yapılandırmasına ve ruhsal sorunlarının çözümüne yardımcı olmak amacıyla yapılan tedaviyi,
+
+i) Tıbbi rehabilitasyon: Yataklı ve ayakta hizmet veren merkezlerde yapılan detoksifikasyon sonrası ayakta ve/veya yatarak, ilaçlı ve/veya ilaçsız psiko-sosyal tedavileri içeren, kişinin sosyal açıdan düzelmesini hedefleyen tedavi sürecini,
+
+j) Yatırılarak tedavi: Bakanlıkça yetkilendirilmiş yataklı tedavi merkezlerinde, erişkin ve çocuk-ergen hastaların yatırılarak yapılan tedavi uygulamalarını,
+
+k) Yataklı tedavi merkezi: Madde bağımlılarının ayakta ve yatarak teşhis, tıbbi ve psiko-sosyal tedavi ve tıbbi rehabilitasyon hizmetlerinin yapıldığı kamu ve özel yataklı sağlık kurum kuruluşlarında kurulan Bakanlıkça faaliyet izni verilmiş madde bağımlılığı tedavi merkezlerini,
+
+l) Yerine koyma tedavisi: Kişinin bağımlı olduğu maddenin yerine geçen ve bağımlı olduğu madde isteğini engelleyerek, sosyal, fiziksel ve psikolojik zararları azaltmak amacı ile agonist ya da kısmi agonist bir ilaçla yapılan tedaviyi,
+
+ifade eder.
+
+### İKİNCİ BÖLÜM
+
+Madde Bağımlılığı Bilim Komisyonu
+
+#### Komisyonun teşkili
+
+**MADDE 5 –** (1) Madde bağımlılığı alanında görüş vermek üzere Bakanlıkça, Madde Bağımlılığı Bilim Komisyonu teşkil edilir. Komisyon, Genel Müdür veya görevlendireceği bir daire başkanının başkanlığında;
+
+a) Türkiye Halk Sağlığı Kurumu ve Türkiye Kamu Hastaneleri Kurumundan birer daire başkanı,
+
+b) Türkiye Kamu Hastaneleri Kurumuna bağlı eğitim ve araştırma hastanelerinden ve tıp fakültelerinin ruh sağlığı ve hastalıkları anabilim dalı öğretim üyelerinden ruh sağlığı ve hastalıkları uzmanı eğitim görevlisi veya öğretim üyesi ve çocuk ve ergen ruh sağlığı ve hastalıkları uzmanı olmak üzere toplam yedi kişi,
+
+c) Tıp fakültelerinin tıbbi farmakoloji anabilim dalından veya Türkiye Kamu Hastaneleri Kurumuna bağlı eğitim ve araştırma hastanelerinden bir tıbbi farmakoloji uzmanı,
+
+olmak üzere toplam onbir üyeden oluşur.
+
+(2) Komisyon üyeleri iki yıl süre ile görev yaparlar. Yeni komisyon üyeleri seçilinceye kadar mevcut üyelerin görevi devam eder. Herhangi bir sebeple üyeliğin boşalması halinde, kalan süreyi tamamlamak üzere yeni üye seçilir. Üyeliğe aynı usulle tekrar seçilmek mümkündür. Seçilmiş üyelerden kabul edilebilir bir mazereti olmaksızın iki defa üst üste veya bir üyelik döneminde yıllık izin, hastalık ve mazeret izinleri hariç toplam üç defa katılmayan üyenin komisyon üyeliği sona erer.
+
+#### Komisyonun çalışma usûl ve esasları
+
+**MADDE 6 –** (1) Komisyon; yılda en az iki defa olmak kaydıyla, ihtiyaca ve Bakanlığın daveti üzerine, Genel Müdürlük tarafından önceden belirlenmiş toplantı gündemine göre toplanır. Toplantı daveti; toplantı tarihi, yeri ve gündemi ile birlikte en az yedi gün önce üyelere yazılı ve/veya elektronik olarak bildirilir. Bakanlık gerekli hallerde, komisyonu olağan toplantılar dışında da toplantıya davet edebilir.
+
+(2) Komisyon, üye tam sayısının 2/3 çoğunluğu ile toplanır ve toplantıya katılanların salt çoğunluğu ile karar alır. Oylarda eşitlik olması halinde, Başkanın görüşünün olduğu tarafın görüşü kabul edilmiş sayılır.
+
+(3) Komisyon kararları, karar defterine yazılır ve toplantıya katılan üyelerce imzalanır. Karara muhalif olanlar, şerh koymak suretiyle kararları imza ederler. Muhalif görüş gerekçesinin karar altında veya ekinde belirtilmesi zorunludur. Bakanlık, gerektiğinde ulusal veya uluslararası alanda madde bağımlılığı tedavisinde uzman olan kişileri veya uzmanlık kuruluşlarının temsilcilerini, bilimsel görüşlerini almak üzere Komisyona davet edebilir veya bunlardan yazılı görüş isteyebilir.
+
+#### Komisyonun görevleri
+
+**MADDE 7 –** (1) Komisyonun görevleri şunlardır:
+
+a) Madde bağımlılığı tedavisinin gelişimini izleyerek, Bakanlıkça belirlenecek ulusal stratejiler konusunda görüş bildirmek.
+
+b) Madde bağımlılığı tedavi usûlleri ile ilgili tanı ve tedavi protokollerini oluşturmak ve gerektiğinde güncellemesi konusunda görüş bildirmek.
+
+c) Bakanlığın talebi üzerine merkezlerin yıllık faaliyetlerini değerlendirmek, gerektiğinde merkezleri yerinde incelemek ve alınması gereken tedbirler konusunda görüş bildirmek.
+
+ç) Madde bağımlılığı konusunda eğitim verecek merkezleri ve eğitimin kapsamını belirlemek.
+
+d) Bakanlıkça belirlenecek diğer konularda görüş bildirmek.
+
+### ÜÇÜNCÜ BÖLÜM
+
+Yataklı ve Ayakta Tedavi Merkezlerinin Kurulması
+
+#### Kurulma
+
+**MADDE 8 –** (1) Merkez, sadece kadrosunda ruh sağlığı ve hastalıkları uzmanı bulunan yataklı tedavi kurum ve kuruluşlarında kurulabilir.
+
+(2) Merkez, Bakanlıktan izin alınması kaydıyla kurulabilir.
+
+(3) Bakanlıkça verilen izin üzerine, kamu ve özel hastaneler bünyesinde merkez kurmak üzere gerekli düzenlemeler yapılır. Özel hastaneler merkez kurmaya ilişkin tüm düzenlemelerini 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliği çerçevesinde yapar.
+
+(4) Ek-10’da belirtilen uyuşturucu madde testlerini yapacak veya yapılmasını sağlayabilecek kamu ve özel yataklı sağlık kurum ve kuruluşları bünyesinde ayakta tedavi merkezi veya yataklı tedavi merkezleri olmak üzere merkez kurulabilir.
+
+#### Planlama
+
+**MADDE 9 –** (1) Bakanlık gerektiğinde, ilin demografik yapısı, madde bağımlılığı hastalarının bölgesel dağılımı gibi özellikleri dikkate alarak ülke genelinde merkezler için planlama yapabilir. Planlamaya ihtiyaç duyulması halinde Bakanlıkça duyuru yapılır.
+
+#### Ön izin
+
+**MADDE 10 –** (1) Madde bağımlılığı tedavi merkezi açmak isteyen kurum ya da kuruluşlar Bakanlıktan ön izin alır. Bunun için ek-6’da yer alan dilekçe ile müdürlüğe başvurulur.
+
+(2) Yapılan başvuruyu değerlendirmek üzere müdürlük nezdinde bir değerlendirme komisyonu oluşturulur. İl değerlendirme komisyonu; müdür veya görevlendireceği bir müdür yardımcısının başkanlığında, ilgili şube müdürü, ruh sağlığı ve hastalıkları uzmanı ve bir teknik eleman olmak üzere en az dört kişiden oluşur. İl değerlendirme komisyonu başvuru dilekçesini ilin yapısı, ihtiyaçları, hasta potansiyeli gibi konularda değerlendirir. İl değerlendirme komisyonu sonucu bir rapor halinde müdürlüğe sunar.
+
+(3) İl değerlendirme komisyonu raporu ve müdürlüğün uygun görüşü ile başvuru Bakanlığa iletilir. Bakanlık tarafından merkez açma talebi bulunan il, ülke genelinde yapılan planlama ve ilgili komisyonun raporuna göre değerlendirme yaparak o ilde merkez açılıp açılmayacağına karar verir. Uygun görülen başvurular için Bakanlıkça ön izin verilir.
+
+#### Başvuru ve faaliyet izni
+
+**MADDE 11 –** (1) Bakanlıkça, bünyesinde merkez açılmasına ön izin verilen kurum ve kuruluşlar ek-7’de yer alan belgeler ve ek-8’de yer alan dilekçe ile birlikte izin tarihinden itibaren üç ay içerisinde müdürlüğe başvurur, bu süre içerisinde başvurmayanların izinleri iptal edilir.
+
+(2) Başvuru dosyasının; bu Yönetmelik hükümlerine uygunluğu müdürlük tarafından öncelikle dosya üzerinde değerlendirilir.
+
+(3) Ek-7’de yer alan başvuru dosyası tam olan merkezler, il değerlendirme komisyonu tarafından personel, bina, tıbbî donanım ve araç-gereçler ile bu Yönetmeliğin öngördüğü diğer hususlara uygunluk yönünden yerinde incelenir ve sonuçları bir rapor halinde müdürlüğe sunulur.
+
+(4) Ek-7’de yer alan başvuru dosyası tam olan ve yerinde yapılan incelemede fiziki koşulları uygun bulunan merkezler için Müdürlükçe ek-9’da yer alan madde bağımlılığı tedavi merkezi faaliyet izin belgesi düzenlenir ve Özel Hastaneler Yönetmeliği gereğince özel hastane faaliyet izin belgelerinin müdürlükçe düzenlenen ilgili bölümüne eklenir. Bu durumla ilgili Bakanlığa bilgi verilir.
+
+(5) Yerinde yapılan incelemede fiziki koşulları uygun olmayan merkezlere, eksikliklerin giderilmesi için üç aya kadar ek süre verilebilir. Bu süre sonunda eksikliklerini gidermeyen merkezlerin başvuruları gerekçeleri belirtilmek suretiyle müdürlükçe reddedilir.
+
+### DÖRDÜNCÜ BÖLÜM
+
+Yataklı Tedavi Merkezlerinin Sahip Olması Gereken Fiziki Şartlar ve
+
+Personel Durumu
+
+#### Bina durumu
+
+**MADDE 12 –** (1) Merkez, madde bağımlılığı tedavisi için ayrılmış en az 10 yatağa sahip, ek-10’da belirtilen uyuşturucu madde testlerini yapabilecek laboratuvarı bünyesinde bulunduran veya bu hizmeti sunan laboratuvarlardan hizmet alan kamu ve özel yataklı sağlık kurum ve kuruluşları bünyesinde kurulur.
+
+(2) Bünyesinde hem erişkin hem de çocuk-ergen tedavi hizmetinin verileceği merkezlerde; çocuk-ergen servisi yetişkin servisinden tamamen izole, mümkünse farklı bir binada bulunur. Farklı bir binanın olmaması durumunda giriş ve çıkışı, bahçesi, yemekhanesi ve benzeri alanları tamamen yetişkin hastalardan izole olur.
+
+#### Hasta odaları
+
+**MADDE 13 –** (1) Yataklı tedavi merkezlerinde güvenlik esastır. Merkezin bina, duvar, pencere ve kapıları ile iç dizaynı hastaların güvenliğini sağlayacak şekilde yapılır. Genel hastane içinde açılacak merkezlerin, hastanenin diğer birimleri ile güvenlik açısından giriş çıkışlarda izolasyonu sağlanır ve klinik giriş kapısı denetim altında tutulur. Hastaların kendine ve çevresine zarar verme ihtimali göz önüne alınarak alt katlarda olması tercih edilir.
+
+(2) Güvenlik açısından pencere çerçeveleri sağlam malzemelerden ve ağır darbelere dayanıklı olur. Pencere camları kırılmaz ve dış pencerelerinin kısmi açılan emniyet tertibatı bulunur. Hasta odalarının pencerelerinde güvenliği sağlayacak şekilde ve estetiğe uygun özel çelik kafesler yapılır.
+
+(3) Hasta oda kapıları dışarıdan müdahale ile açılabilir kilit sistemine sahip olur. Hasta odalarında hastanın kendine zarar verme ihtimaline karşı banyodaki askılıklar bel hizası altında tutulur veya otuz kilo üstünde ağırlığı taşıyamaz özelliği olur.
+
+(4) Banyoda kırılmaz özellikli ayna duvara gömülü olur. Banyo ve tuvaletlerin kapıları dışarıdan müdahale ile açılabilir kilit sistemine sahip olur.
+
+(5) Engelli hastalar için, hasta yatak sayısı otuz ve altında olan merkezlerde en az bir olmak kaydıyla ve ilave her otuz hasta yatağına bir eklenmek suretiyle, ilgili mevzuata uygun nitelikte engelli hasta odası tesis edilir.
+
+(6) Tek yataklı hasta odaları en az dokuz metrekare, birden fazla yataklı odalarda yataklar ayrılabilir olur ve hasta yatağı başına yedi metrekare alan olur.
+
+#### Özellikli bakım ve tedavi odası
+
+**MADDE 14 –** (1) Merkezlerde, detoksifikasyon tedavisinin yapıldığı ve ortaya çıkabilecek komplikasyonların takibi için özellikli bakım ve tedavi odası bulunması gerekir. Merkezler asgari on yataklı açılır. Bunun iki yatağı özellikli tedavi ve bakım yatağı olarak ayrılır ve yatak en az 12 metrekare olur. Her 15 yatağa bir adet özellikli tedavi ve bakım yatağı eklenir. Tedavi merkezi hastane binası bünyesinde yer alıyor ise özellikli bakım ve tedavi odası olarak hastanenin yoğun bakım ünitesi kullanılır. Bu yataklardan birisi gereken hallerde engellilerin de tedavi edilebileceği şekilde düzenlenir.
+
+(2) Özellikli bakım ve tedavi odasında, görevli sağlık personelince hastaların sürekli gözetim ve izlenmesine uygun nitelikte bir mekân oluşturulur ve 13 üncü maddede yer alan güvenlik tedbirleri sağlanır.
+
+(3) Bu odalarda ek-3’te sayılan tıbbi cihaz ve malzemeler bulundurulur. Bu ünitenin, hasta ve ziyaretçi alanları ile doğrudan bağlantısı olamaz. Özellikli bakım ve tedavi odalarında yatan hastalar, hemşire istasyonundan izlenebilecek şekilde, yataklar arası uygun biçimde ve kişi mahremiyetini sağlayacak şekilde ayrılır.
+
+#### Poliklinik ve görüşme odası
+
+**MADDE 15 –** (1) Merkezlerde poliklinik muayene odası, yeterli şekilde aydınlatılan ve havalandırılan, uzmanlık dalına uygun araç-gereç ve donanıma haiz olur.
+
+(2) Merkezlerde asgari bir adet olmak üzere psikolog ve sosyal çalışmacıların hastalar ve aileleri ile görüşmek ve test uygulamak üzere kullanacakları yeterli şekilde aydınlatılan ve havalandırılan en az altı metrekare büyüklüğünde hasta görüşme odası olur.
+
+#### Çok amaçlı grup terapi alanı
+
+**MADDE 16 –** (1) Merkezlerde grup terapileri için, genel toplantı ve eğitimlerin yapılabileceği en az 20 m² büyüklüğünde gerekli donanıma sahip, yeterli büyüklükte bir alan ayrılır. Yatak sayısına ve uğraşının özelliğine göre birden fazla grup terapi alanı ve uğraş terapi odası oluşturulur.
+
+#### Diğer alanlar
+
+**MADDE 17 –** (1) Merkezlerde tedavi ekibinin kullanacağı, hasta değerlendireceği ve rutin toplantılarını yapacakları toplantı odası bulunur.
+
+(2) Bina içinde veya dışında, hastaların en az iki farklı dalda spor yapmasına imkan sağlayan teknik donanıma haiz spor alanları ayrılır.
+
+(3) Merkezlerde hem hastalar ve hem de personel için ayrı ayrı olmak üzere yeterli sayıda erkek ve kadın tuvaleti ve banyosu bulunur. Tuvalet ve banyo kapılarının dışa doğru açılması zorunludur. Engelliler için ilgili mevzuata uygun nitelikte, her merkezde asgari bir olmak kaydı ile ilave her otuz yatak için bir adet olmak üzere ayrı tuvalet ve banyo bulunur. Poliklinik katında en az bir adet engelli tuvaleti bulunur.
+
+(4) Tıbbî atıklar ve çöpler için 22/7/2005 tarihli ve 25883 sayılı Resmî Gazete’de yayımlanan Tıbbî Atıkların Kontrolü Yönetmeliği hükümlerine uygun olarak gerekli tedbirler alınır.
+
+(5) Merkezlerde çalışan bütün personel için binanın durumuna ve personel sayısına göre yeterli miktarda çalışma odası, giyinme dolabı, tuvalet ve lavabo bulunur. Nöbet tutan personel için dinlenme yerleri ayrılır.
+
+(6) Hasta mahremiyeti dikkate alınmak şartıyla, merkezin tüm alanlarını gözetleyebilecek şekilde güvenlik kameraları yerleştirilir ve kamera görüntüleri sürekli takip edilir. Bu kayıtlar 30 gün süre ile saklanır.
+
+(7) Merkezlerde ilaçların güvenliği sağlanır.
+
+(8) Merkezlerde, emniyet gözetim zincirine uygun şekilde biyolojik materyal alınır ve uygun saklama alanı oluşturulur.
+
+(9) Yataklı tedavi merkezlerinde asgari olarak ek-2’de belirtilen tıbbi cihaz ve malzemeler bulundurulur.
+
+#### Personel durumu
+
+**MADDE 18 –** (1) Merkezlerde ilgili Tebliğe göre sertifikalı personel çalışabilir. Ancak görevlendirilecek yeterli sayıda sertifikalı personel bulunmadığı takdirde aynı unvana sahip personel bu merkezlerde görevlendirilir. Bu durumda görevlendirilen personel açılacak ilk eğitime tabi tutulur. Merkezlerde asgari olarak, ek-4’teki tabloda yer alan personel bulundurulur.
+
+(2) Merkezlerde, hastaların yaş grubuna ve meslek tercihlerine göre görevlendirilecek öğretmen, uğraş terapisti yapabilecek spor eğitimcisi, sanat eğitimcisi ve benzeri eğiticiler ile tercihen tedavi görmüş ve madde bağımlılığı konusunda eğitilmiş eski madde kullanıcılarından tedavi ekibi içinde yer almasında yarar görülecek bir kişi görev alır.
+
+(3) Tüm merkezlerde yeterli sayıda memur ve/veya tıbbi sekreter, destek ve güvenlik personeli bulundurulur.
+
+#### Personelin görev, yetki ve sorumlulukları
+
+**MADDE 19 –** (1) Hastaların tıbbî açıdan izlenmesinden, tedavilerinin planlanmasından ve hastalara tıbbî yönden faydalı olacak idarî tedbirlerin belirlenmesinden, sorumlu olmak üzere ruh sağlığı ve hastalıkları uzmanı sorumlu uzman tabip olarak görev yapar. Çocuk-ergen bağımlılık tedavi servislerinden çocuk ergen ruh sağlığı uzmanı sorumludur. Ancak çocuk ergen ruh sağlığı ve hastalıkları uzmanı bulunmaması durumunda ruh sağlığı ve hastalıkları uzmanı çocuk-ergen servisinden sorumludur.
+
+(2) Her merkezde, tedavi protokolüne göre hastalara tedavi uygulamak, hastaları tıbbî yönden izlemek, tedavi seansları ile ilgili hastanın dosyasına gözlem notunu kaydetmek, Yönetmeliğe uygun idarî ve tıbbî tedbir ve şartları gözetmek, akut komplikasyonlarda ilk müdahaleyi yapmak ve hizmetin 24 saat boyunca devamlılığını sağlamak ile görevli ruh sağlığı ve hastalıkları uzmanı veya tabip bulunur. Tedavi protokolleri merkezdeki ruh sağlığı ve hastalıkları uzmanı tarafından belirlenir.
+
+(3) Merkezlerde, hastaların psikolojik sorunlarının çözümlenmesine yardım edecek, çeşitli psikolojik test ve ölçekleri uygulayarak hastaların sorunlarının belirlenmesine, hastalara iletişim becerisi ve problem çözme becerisi kazandırmaya yardımcı olacak psikolog bulundurulur.
+
+(4) Merkezlerde, bireye ve aileye yönelik sosyal hizmet uygulamalarını yürütmekle görevli ve psiko-sosyal tedavi ekibinin bir parçası olarak sosyal çalışmacı bulundurulur.
+
+(5) Merkezlerde, hastanın her türlü tıbbî bakımını sorumlu tabibin ve tabibin tedavi planına göre yapmak, hastalara eğitim vermek, rutin hasta takiplerini yapmak ve tedavilere ilişkin kayıtları tutmak ve ilgili mevzuat ile kendilerine verilen diğer görevleri yerine getirmek üzere hemşire/sağlık memuru bulundurulur.
+
+### BEŞİNCİ BÖLÜM
+
+Ayakta Tedavi Merkezlerinde Bulundurulması Gereken Bölümler
+
+#### Poliklinik ve görüşme odası
+
+**MADDE 20 –** (1) Merkezlerde; poliklinik muayene odası, yeterli şekilde aydınlatılan ve havalandırılan, uzmanlık dalına uygun araç, gereç ve donanım bulundurulur.
+
+(2) Merkezlerde asgari bir adet olmak üzere psikolog ve sosyal çalışmacıların hastalar ve aileleri ile görüşmek ve test uygulamak üzere kullanacakları yeterli şekilde aydınlatılan ve havalandırılan en az altı metrekare büyüklüğünde hasta görüşme odası olur.
+
+#### Çok amaçlı grup terapi alanı
+
+**MADDE 21 –** (1) Grup terapileri için, genel toplantı ve eğitimlerin yapılabileceği en az 10 m² büyüklüğünde gerekli donanıma sahip ve yeterli büyüklükte alan ayrılır.
+
+#### Personel durumu
+
+**MADDE 22 –** (1) Merkezlerde, bu konuda eğitim almış sertifikalı personel çalışır. Ancak görevlendirilecek yeterli sayıda sertifikalı personel bulunmadığı takdirde aynı unvandan personel bu merkezlerde görevlendirilir. Bu durumda görevlendirilen personel açılacak ilk eğitime tabi tutulur. Merkezlerde asgari olarak, ek-5’teki tabloda yer alan personel bulundurulur.
+
+(2) Merkezlerde, hastaların yaş grubuna ve meslek tercihlerine göre görevlendirilecek öğretmen, uğraş terapisti yapabilecek spor eğitimcisi, sanat eğitimcisi ve benzeri eğiticiler ile tercihen tedavi görmüş ve madde bağımlılığı konusunda eğitilmiş eski madde kullanıcılarından tedavi ekibi içinde yer almasında yarar görülecek bir kişi görev alır.
+
+(3) Tüm merkezlerde yeterli sayıda memur ve/veya tıbbi sekreter, destek ve güvenlik personeli bulundurulur.
+
+### ALTINCI BÖLÜM
+
+Çeşitli ve Son Hükümler
+
+#### Eğitim verecek merkezlerin tespiti
+
+**MADDE 23 –** (1) Bu Yönetmeliğe göre açılma izni almış olan eğitim ve araştırma hastaneleri ve üniversite hastaneleri bünyesindeki merkezlere Komisyonun görüşü alınarak Bakanlıkça eğitim merkezi yetkisi verilir.
+
+#### Kayıt ve bildirim
+
+**MADDE 24 –** (1) Merkezlere, muayene, teşhis ve tedavi amacıyla başvuran hastalar ile ilgili olarak yapılan tıbbî ve idarî işlemlere ilişkin kayıtların ilgili mevzuata uygun olarak düzenli bir şekilde tutulması zorunludur.
+
+(2) Merkezlerde hastalara ilişkin olarak tutulan bütün kayıtların gizliliği esastır. Ancak merkezlerden istenilen bilgilerin, gizlilik prensibi gözetilmek suretiyle Bakanlığa gönderilmesi zorunludur.
+
+#### Merkezlerinin denetlenmesi ve yaptırımlar
+
+**MADDE 25 –** (1) Merkezler; Bakanlıkça yapılacak olan olağan ve olağan dışı denetimler hariç, ek-11’de yer alan madde bağımlılığı tedavi merkezleri denetleme formu esas alınarak biri ruh sağlığı hastalıkları uzmanı olmak kaydıyla en az iki kişiden oluşan denetim ekibince iki yılda bir kez müdürlükçe denetlenir.
+
+(2) Müdürlük denetim ekipleri tarafından yapılan denetimlerde tespit edilen eksiklikler ile orantılı olarak merkezlere eksikliklerin giderilmesi için altı aya kadar süre verilir. Süre sonunda eksikliklerin tam olarak giderilemediği durumlarda müdürlükçe üç aya kadar ek süre verilir. Bu durum hastanenin mesul müdürüne/başhekimliğe yazılı olarak bildirilir. Belirlenen süreler zarfında eksikliklerin giderilmesi zorunludur. Müdürlükçe yapılan işlemler, ayrıca rapor halinde Bakanlığa sunulur.
+
+(3) Ek-11’de yer alan madde bağımlılığı tedavi merkezleri denetleme formuna göre yapılan denetim sonucunda, tespit edilen eksiklikler ile orantılı olarak eksikliklerin giderilmesi için müdürlükçe bir ay ile altı ay arası süre verilir. Verilen süre sonunda gerekli düzenlemelerin yapılmadığı, faaliyete esas kriterlerin kaybedildiği ve/veya hastaların tanı, tedavi ve takibinin olumsuz etkilendiğinin tespit edildiği durumlarda müdürlük tarafından rapor tutularak Bakanlığa gönderilir. Bakanlık, Müdürlükçe gönderilen raporu incelemek suretiyle faaliyet izninin iptal edilip edilmeyeceğine karar verir.
+
+(4) Faaliyet izinleri iptal edilen merkezlerde tedavi gören hastalar, hastaların tedavileri aksatılmaksızın müdürlük tarafından, sağlık güvencelerine göre veya hastaların talebi doğrultusunda diğer merkezlere nakledilir.
+
+(5) Merkezler, standart tedavi yöntem ve protokolleri dışındaki hiçbir tedavi şeklini Bakanlığın izni olmadan uygulayamaz.
+
+#### Yürürlükten kaldırılan yönetmelik
+
+**MADDE 26 –** (1) 16/2/2004 tarihli ve 25375 sayılı Resmî Gazete’de yayımlanan Madde Bağımlılığı Tedavi Merkezleri Yönetmeliği yürürlükten kaldırılmıştır.
+
+#### Mevcut merkezlerin uyumu
+
+**GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce madde bağımlılığı tedavisi yapmakta olan merkezler, bu Yönetmeliğin fiziki ve bina standartlarına ilişkin hükümlerini beş yıl, diğer şartlarını da iki yıl içerisinde sağlar. Uyum sağlayıncaya kadar mevcut merkezler ek-1’de belirtilen ilaç raporunu düzenleyebilir. Belirlenen süre sonunda bu Yönetmeliğe uygun hale gelmeyen merkezlerin faaliyet izinleri Bakanlıkça iptal edilir.
+
+#### Yürürlük
+
+**MADDE 27 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+#### Yürütme
+
+**MADDE 28 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+
+Yönetmeliğin ekleri için tıklayınız

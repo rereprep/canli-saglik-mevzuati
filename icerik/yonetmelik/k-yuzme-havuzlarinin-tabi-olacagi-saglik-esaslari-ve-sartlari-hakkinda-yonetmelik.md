@@ -13,6 +13,238 @@ kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmem
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/03/20110306-3.htm"
 ---
 
-| 6 Mart 2011 PAZAR | Resmî Gazete | Sayı : 27866 |
-| YÖNETMELİK |
-| Sa ğ l ı k Bakanl ığı ndan: Y Ü ZME HAVUZLARININ TAB İ OLACA Ğ I SA Ğ LIK ESASLARI VE Ş ARTLARI HAKKINDA Y Ö NETMEL İ K B İ R İ NC İ B Ö L Ü M Ama ç , Kapsam, Dayanak ve Tan ı mlar Ama ç MADDE 1 − (1) Bu Y ö netmeli ğ in amac ı , y ü zme amac ı yla kullan ı lan a çı k ve kapal ı y ü zme havuzlar ı ile sular ı n ı n hijyenik ş artlara uygunlu ğ u, y ü zme havuzu suyunun kalite standartlar ı n ı n belirlenmesi, denetlenmesi ve izlenmesi ile ilgili usul ve esaslar ı d ü zenlemektir. Kapsam MADDE 2 − (1) Bu Y ö netmelik, y ü zme amac ı yla kullan ı lan a çı k ve kapal ı y ü zme havuzlar ı ile sular ı n ı n nitelikleri ile ilgili usul ve esaslar ı kapsar. (2) Sa ğ l ı k ama ç l ı kullan ı lan kapl ı ca ve mineralli su havuzlar ı ile ticari ama ç l ı olarak kullan ı lmayan havuzlar bu Y ö netmeli ğ in kapsam ı d ışı ndad ı r. Dayanak MADDE 3 − (1) Bu Y ö netmelik, 24/4/1930 tarihli ve 1593 say ı l ı Umumi H ı fz ı ss ı hha Kanununun 1 inci ve 2 nci maddeleri ile 13/12/1983 tarihli ve 181 say ı l ı Sa ğ l ı k Bakanl ığı n ı n Te ş kilat ve G ö revleri Hakk ı nda Kanun H ü km ü nde Kararnamenin 43 ü nc ü maddesine dayan ı larak haz ı rlanm ış t ı r. Tan ı mlar MADDE 4 − (1) Bu Y ö netmelikte ge ç en; a) Alkalinite: Suyun asitlik veya bazl ı k derecesinin ö l çü s ü n ü , b) Ba ğ l ı klor: Sudaki organik ve inorganik maddelerle reaksiyona girerek bile ş ik olu ş turmu ş kloru, c) Bakanl ı k: Sa ğ l ı k Bakanl ığı n ı , ç ) Devridaim s ü resi: Toplam havuz hacminin filtrasyon sisteminden bir kez ge ç mesi i ç in gerekli olan s ü reyi, d) Dezenfektan: İ nsanlarda hastal ı k yapma ö zelli ğ i olan bakteri, vir ü s ve mantar gibi mikroorganizmalar ı n sudan uzakla ş t ı r ı lmas ı veya yok edilmesi amac ı yla kullan ı lan organik ve inorganik kat ı , s ı v ı ve gaz maddeleri, e) Havuz suyu operat ö r ü : Y ü zme havuzlar ı nda kullan ı lan suyu kimyasal, fiziksel ve mikrobiyolojik y ö nden kullan ı ma haz ı rlayan ve bu konuda e ğ itim alm ış ki ş iyi, f) Havuz suyu kimyasallar ı : Havuz suyunun pH ’ sini ayarlamak, ask ı daki kat ı maddeleri çö kt ü rmek, k ü f, maya ve yosun gibi canl ı lar ı n olu ş umunu engellemek ve baz ı kimyasal parametreleri dengelemek amac ı yla kullan ı lan maddeleri, g) Kod no: Havuz suyundan al ı nan her bir numune i ç in kullan ı lacak numaray ı , ğ ) M ü d ü rl ü k: İ l Sa ğ l ı k M ü d ü rl üğü n ü , h) pH: Suyun asitlik veya bazl ı k derecesini tarif eden ö l çü birimini, ı ) Serbest klor: Suyu dezenfekte etmek amac ı yla kullan ı lan bile ş ik olu ş turmam ış kloru, i) Y ü zme havuzu: Y ü zme, serinleme, e ğ lenme veya spor ama ç l ı kullan ı lan; taban ı , duvarlar ı , ta ş ma kanallar ı , rezerv deposu su kalitesini etkilemeyen ve g ü venlik gereklerini yerine getiren uygun malzeme ile kaplanan ve bu Y ö netmelikte belirtilen niteliklere uygun su ile dolu olan, s ü rekli bir devridaim ak ışı olan ve halk ı n kullan ı m ı na a çı k yap ı lar ı , j) Y ü zme havuzu i ş leticisi: Y ü zme, serinleme, e ğ lenme veya spor ama ç l ı kullan ı lan y ü zme havuzlar ı n ı i ş letenleri, ifade eder. İ K İ NC İ B Ö L Ü M Havuz Suyunun Nitelikleri, Numune Alma ve Analiz S ı kl ığı Kimyasal, fiziksel ve mikrobiyolojik nitelikleri ve analiz s ı kl ığı MADDE 5 − (1) Y ü zme havuzu suyunun kimyasal nitelikleri Ek-1, fiziksel nitelikleri Ek-2 ve mikrobiyolojik nitelikleri de Ek-3 ’ te belirtilen de ğ erlere uygun olur. (2) Havuz suyunun nitelikleri Ek-1, Ek-2, Ek-3 ’ te belirtilen zaman aral ı klar ı nda M ü d ü rl ü k ç e, Ek-4 ’ te belirtilen zaman aral ı klar ı nda ise y ü zme havuzu i ş leticileri taraf ı ndan izlenir. (3) M ü d ü rl ü k taraf ı ndan yap ı lacak denetimlerde analiz sonu ç lar ı y ü zme havuzu i ş leticisi taraf ı ndan denet ç ilere ibraz edilir. (4) Y ü zme havuzunun a çı k oldu ğ u s ü re i ç erisinde y ü zme havuzu suyuna ait s ı cakl ı k, pH, serbest klor de ğ erleri ile suyun mikrobiyolojik ö zelliklerine ait en son analiz sonu ç lar ı kullan ı c ı lar ı n g ö rebilece ğ i bir panoda yaz ı yla veya elektronik olarak ilan edilir. Numune alma, ta şı ma ve analiz laboratuvarlar ı MADDE 6 − (1) Numuneler su ak ı m ı n ı n en d üşü k oldu ğ u veya kullan ı c ı lar ı n en yo ğ un oldu ğ u b ö lgeden y ü zme havuzu kenar ı n ı n yakla şı k 50 cm uza ğı ndan ve su y ü zeyinin 20 cm alt ı ndan al ı n ı r. (2) Numuneler, numune alma formu d ü zenlenerek al ı n ı r, her numune i ç in bir kod numaras ı verilir ve kod numaras ı numune alma formu ile numune ş i ş esinin ü zerine yaz ı l ı r. (3) Havuz suyundan al ı nan her bir numune i ç in iki ş er adet Ek-6 ’ da yer alan “ Havuz Suyu Numune Alma Formu ” d ü zenlenir ve formlardan biri numune ile birlikte laboratuvara verilir, di ğ eri ise numuneyi alan kurum veya kurulu ş ta kal ı r. (4) Mikrobiyolojik analizler i ç in en az 500 mililitre su numunesi, sodyum tiyos ü lfatl ı steril cam veya suyun niteli ğ ini de ğ i ş tirmeyen plastik ş i ş elere al ı n ı r. Mikrobiyolojik analizler i ç in al ı nan numuneler, g ü ne ş ışı nlar ı ndan korunarak (5 ± 3) ° C ’ de ı s ı y ı muhafaza edebilen ta şı ma kaplar ı ile en k ı sa zamanda laboratuvara g ö nderilir. Numunelerin al ı m ı ndan laboratuvara ula ş t ı r ı lmas ı aras ı ndaki s ü re on iki saati ge ç emez. (5) Kimyasal analizler i ç in en az 1000 ml su numunesi temiz cam veya suyun niteli ğ ini etkilemeyen plastik ş i ş elere al ı n ı r. Kimyasal analizler i ç in al ı nan numuneler, (5 ± 3) ° C ’ de ı s ı y ı muhafaza edebilen ta şı ma kaplar ı ile en k ı sa s ü rede laboratuvara g ö nderilir. Numunelerin al ı m ı ndan laboratuvara ula ş t ı r ı lmas ı aras ı ndaki s ü re 24 saati ge ç emez. (6) Havuz suyundan numune alma i ş i M ü d ü rl ü k taraf ı ndan veya numune alma konusunda akredite olmu ş ve Bakanl ı k ç a yetkilendirilmi ş kurum veya kurulu şç a yap ı l ı r. Ancak, bu durum Bakanl ı k ve M ü d ü rl üğü n denetim, izleme ve numune alma yetkisini ortadan kald ı rmaz. Analizler, a ş a ğı da belirtilen h ü k ü mler ç er ç evesinde, Bakanl ı k laboratuvarlar ı nda veya di ğ er kamu, kurum ve kurulu ş laboratuvarlar ı nda veya 7 nci maddede belirtilen ş artlar ı ta şı yan ve Bakanl ı k ç a yetkilendirmi ş ö zel laboratuvarlarda yapt ı r ı l ı r. a) Her t ü rl ü numune alma ve analiz ü cretleri y ü zme havuzu i ş leticisi taraf ı ndan ö denir. b) Laboratuvarlar, M ü d ü rl ü k ç e al ı nan su numunelerinin analiz sonu ç lar ı n ı raporlaman ı n yap ı ld ığı g ü n i ç inde e-posta, belgege ç er veya posta ile M ü d ü rl üğ e ve y ü zme havuzu i ş leticisine iletir. Y ü zme havuzu i ş leticisine g ö nderilen raporlar, denetim esnas ı nda denetim elemanlar ı na g ö sterilmek ü zere y ü zme havuzu i ş leticisi taraf ı ndan bir y ı l s ü reyle saklan ı r. Yetkilendirme MADDE 7 − (1) Laboratuvarlar, Bakanl ı k taraf ı ndan yap ı lacak yerinde denetimde; a) Deney ve Kalibrasyon Laboratuvarlar ı Akreditasyonu (ISO/IEC 17025) belgesi alm ış olmalar ı , b) Ek-1, Ek-2 ve Ek-3 ’ te belirtilen parametrelerde y ö ntem akreditasyonu belgesi alm ış olmalar ı , c) En az iki kimya, ç evre, su ü r ü nleri m ü hendisi veya kimyager ile iki biyolog veya mikrobiyoloji uzman ı n ı n tam zamanl ı istihdam edilmeleri, ç ) Mikrobiyolojik analizler i ç in al ı nan numunelerin, g ü ne ş ışı nlar ı ndan korunarak (5 ± 3) ° C de ı s ı y ı muhafaza edebilen ta şı ma kaplar ı ile en fazla 6 saat i ç inde laboratuvara ta şı nabilecek d ü zenlemeyi sa ğ lamalar ı , halinde Bakanl ı k ç a yetkilendirilir. ÜÇÜ NC Ü B Ö L Ü M Y ü zme Havuzu İş letilmesine Ait H ü k ü mler Y ü zme havuzunun i ş letilmesi MADDE 8 − (1) Y ü zme havuzunun teknik ö zellikleri ile y ü zme havuzu suyunun, s ı hhi kurallara uygun olmas ı esast ı r. Y ü zme havuzunun i ş letilmesinde a ş a ğı daki ş artlara uyulur: a) Y ü zme havuzu i ş leticisi, teknik i ş ler ve havuzun uygun ş ekilde i ş letilmesinden sorumlu kimya veya sa ğ l ı k e ğ itimi alm ış , en az lise mezunu bir ki ş i ve sertifikal ı bir cankurtaran istihdam etmek zorundad ı r. b) Y ü zme havuzunda ip, y ü zer duba, simit gibi can kurtarmaya mahsus malzemeler ile ilkyard ı m malzemeleri haz ı r bulundurulur. c) Kullan ı c ı lar ı n temiz mayolarla y ü zme havuzuna girmeleri sa ğ lan ı r. Tesisler, b ü t ü n kullan ı c ı lar ı n soyunma odalar ı i ç in ayr ı lan mekana girmeden ö nce ayak dezenfeksiyonu yapmalar ı n ı , soyunma odalar ı ndan y ü zme havuzuna ge ç i ş lerinden ö nce de du ş almalar ı n ı sa ğ layacak ş ekilde d ü zenlenir. ç ) Y ü zme havuzunda hayvanlar ı n insanlarla birlikte bulunmalar ı na hi ç bir ş ekilde izin verilmez. d) Tesis i ç erisinde riayet edilecek kurallar ile muhtemel tehlikelere kar şı ki ş ileri uyarmak amac ı ile haz ı rlanan uyar ı levhalar ı kolayca g ö r ü lebilecek ve okunabilecek uygun yerlerde bulundurulur. e) Y ü zme havuzu suyu y ı lda en az bir defa bo ş alt ı larak genel temizlik yap ı l ı r. f) Fiziki mekanlar daima temiz ve kuru tutularak kapanma saatinden sonra havuz dip temizli ğ i d â hil genel temizlik yap ı l ı r. g) Y ü zme havuzu ve fiziki mekanlar yeteri kadar ayd ı nlat ı lmal ı ve havaland ı r ı lmal ı d ı r. ğ ) Kapal ı y ü zme havuzu, soyunma ve giyinme yerleri de d â hil olmak ü zere k ış aylar ı nda ı s ı t ı l ı r. Ç ocuk y ü zme havuzu i ş letilmesi MADDE 9 − (1) Ç ocuk y ü zme havuzunun derinli ğ i 50 santimetreden fazla olamaz. (2) Ç ocuk havuzlar ı m ü stakil su haz ı rl ı k tesisine sahip olmal ı , ayda bir defa bo ş alt ı larak temizlenmeli ve dezenfekte edildikten sonra temiz su ile doldurularak yeniden i ş letmeye al ı n ı r. (3) Ç ocuk y ü zme havuzu b ü y ü klere ait y ü zme havuzundan ayr ı olur. D Ö RD Ü NC Ü B Ö L Ü M Muhtelif H ü k ü mler Fiziki mekanlar MADDE 10 − (1) Du ş yerleri, tuvaletler ve soyunma-giyinme yerleri, kad ı n ve erkek i ç in ayr ı d ü zenlenir. (2) Du ş yerleri du ş suyunun s ı cakl ığı ayarlanabilecek ş ekilde ve en az yirmi ki ş iye bir du ş d üş ecek ş ekilde d ü zenlenir. (3) Tuvaletler soyunma ve du ş yerlerine yak ı n konumda, en az yirmi ki ş iye bir tuvalet d üş ecek ş ekilde d ü zenlenir. Tuvalet ve lavabolarda bol ve temiz su, s ı v ı sabun, tuvalet k âğı d ı , k âğı t havlu ve çö p kovas ı bulundurulur. (4) Giri ş i ve yollar ı tamamen ayr ı tutulan seyirci yerleri, seyircilerin havuz k ı sm ı na girmelerini engelleyecek ş ekilde d ü zenlenir. Seyirci b ö l ü m ü nde seyircilerin ihtiyac ı n ı kar şı layacak kadar tuvalet, lavabo ve pisuar bulundurulur. G ü venlik tedbirleri MADDE 11 − (1) Y ü zme havuzunda kazalar ı n ö nlenmesi ve g ü venli ğ in sa ğ lanmas ı i ç in a ş a ğı da belirtilen kurallara uyulur: a) Y ü zme havuzu kazalara neden olmayacak ve kenar ı nda g ü venli y ü r ü mek i ç in yeterli alan bulunacak ş ekilde planlan ı r. Dalmak i ç in gerekli olan su derinli ğ i sa ğ lan ı r. Aksi takdirde her t ü rl ü dal ış a izin verilmez. b) Y ü zme havuzu ç evresindeki y ü r ü me alan ı , du ş yeri ve ç evresinin zemini d ü zg ü n ve kaymaya yol a ç mayan malzemeden yap ı l ı r. c) Y ü zme havuzunda bo ş altma mazgal ı kapal ı durumda bulundurulur. ç ) Havuz derinlikleri kullan ı c ı lar ı n g ö rebilece ğ i ş ekilde havuz kenar ı na en az 4 y ö nde yaz ı l ı r. d) Y ü zme havuzu kenar ı nda acil durumlarda kullan ı lmak ü zere telefon bulundurulur. Denetim MADDE 12 – (1) Y ü zme havuzu, havuz suyu ve havuz kimyasallar ı her ay M ü d ü rl ü k taraf ı ndan denetlenir. Bu denetimlerde; a) Havuz suyu haz ı rlanmas ı nda ve dezenfeksiyonunda kullan ı lan kimyasallar ı n Bakanl ı ktan ruhsatl ı olup olmad ığı , b) Havuz suyu kimyasallar ı i ç in bir depo ile yeterli ki ş isel koruyucu ekipman bulunup bulunmad ığı , c) Analiz kay ı t defterleri ve bu Y ö netmelik eklerine g ö re yap ı lan veya yapt ı r ı lan analiz sonu ç lar ı , kontrol edilir. (2) Bir takvim y ı l ı sonunda yap ı lan de ğ erlendirmede havuz ve havuz suyu kalitesinin bu Y ö netmelikte belirlenen ş artlara uygun olmas ı durumunda Ek-5 ’ te yer alan “ Temiz Havuz Sertifikas ı” M ü d ü rl ü k taraf ı ndan d ü zenlenir. Yap ı lacak denetimlerde havuz ve havuz suyu kalitesinin bu Y ö netmelikte belirlenen ş artlara uygun olmamas ı durumunda bu sertifika M ü d ü rl ü k ç e iptal edilir. Uygun çı kmayan havuz suyunun takibi MADDE 13 − (1) Y ü zme havuzu suyundan al ı nan numunenin mikrobiyolojik analiz sonucunun Ek-3 ’ te belirtilen niteliklere uygun çı kmamas ı halinde havuzun faaliyeti durdurulur. Y ü zme havuzu i ş leticisinin gerekli ş artlar ı sa ğ lamas ı ndan sonra yeniden al ı nan numunenin analiz sonu ç lar ı n ı n Ek-3 ’ te belirtilen niteliklere uygun çı kmas ı durumunda havuzun faaliyetine izin verilir. (2) Y ü zme havuzu suyundan al ı nan numunenin kimyasal analizi sonucunun Ek-1 ve Ek-2 ’ de belirtilen niteliklere uygun çı kmamas ı halinde, uygunsuzlu ğ un giderilmesi ve d ü zeltici ö nlemlerin al ı nmas ı i ç in i ş letici yaz ı l ı olarak uyar ı l ı r. Y ü zme havuzu i ş leticisinin gerekli ş artlar ı sa ğ lamas ı ndan sonra yeniden al ı nan numunenin analiz sonu ç lar ı n ı n Ek-1 ve Ek-2 ’ de belirtilen niteliklere uygun çı kmas ı durumunda i ş letmeye herhangi bir i ş lem yap ı lmaz. Ancak, analiz sonu ç lar ı n ı n uygun çı kmamas ı durumunda havuzun faaliyeti analiz sonucunun yukar ı da belirtilen nitelikleri sa ğ lay ı ncaya kadar durdurulur. Dezenfeksiyon ve havuz kimyasallar ı MADDE 14 − (1) Y ü zme havuzu ve suyunun dezenfeksiyonu i ş letici taraf ı nca yap ı l ı r veya yapt ı r ı l ı r. (2) Havuz suyunda Bakanl ı ktan ruhsatl ı dezenfektan ve havuz suyu kimyasallar ı kullan ı l ı r. (3) Stabilizat ö rl ü klor bile ş ikleri sadece a çı k y ü zme havuzlar ı nda kullan ı labilir. Havuz suyu operat ö rlerinin e ğ itimi MADDE 15 − (1) Y ü zme havuzu suyu haz ı rlamas ı ndan sorumlu havuz suyu operat ö rlerine y ö nelik e ğ itimler M ü d ü rl ü k ç e yetkilendirilen kamu, kurum ve kurulu ş lar ı ile ilgili meslek odalar ı nca d ü zenlenir. (2) E ğ itimler havuz suyunun haz ı rlanmas ı bak ı m ı ve i ş letilmesi, genel hijyen, su ile bula ş abilecek hastal ı klar, havuz suyunda kullan ı lan kimyasallar ı n insan ve ç evre sa ğ l ığı ü zerine etkileri ile ilkyard ı m konular ı n ı kapsar. BE Şİ NC İ B Ö L Ü M D ü zenleme Yetkisi ve M ü eyyideler D ü zenleme yetkisi MADDE 16 − (1) Bakanl ı k bu Y ö netmeli ğ in uygulanmas ı n ı sa ğ lamak ü zere her t ü rl ü alt d ü zenlemeyi yapmaya yetkilidir. M ü eyyideler MADDE 17 − (1) Bu Y ö netmelik h ü k ü mlerine ayk ı r ı hareket eden i ş letme sahipleri ve kullan ı c ı lar ı hakk ı nda, fiilin mahiyetine g ö re 24/4/1930 tarihli ve 1593 say ı l ı Umumi H ı fz ı ss ı hha Kanununa g ö re i ş lem yap ı l ı r. ALTINCI B Ö L Ü M Ge ç ici ve Son H ü k ü mler Mevcut havuzlara ili ş kin ge ç ici h ü k ü mler GE Çİ C İ MADDE 1 − Bu Y ö netmeli ğ in yay ı m ı tarihinden ö nce izin almak i ç in ba ş vurusu yap ı lm ış y ü zme havuzlar ı ile halen faaliyette olan y ü zme havuzlar ı fiziki ko ş ullar ı n ı bu Y ö netmeli ğ in yay ı m ı tarihinden itibaren bir y ı l i ç inde 8 inci maddenin (c) bendi ile 9 ve 10 uncu maddelere uygun hale getirir. Y ü r ü rl ü k MADDE 18 − (1) Bu Y ö netmelik yay ı m ı tarihinden bir ay sonra y ü r ü rl üğ e girer. Y ü r ü tme MADDE 19 − (1) Bu Y ö netmelik h ü k ü mlerini Sa ğ l ı k Bakan ı y ü r ü t ü r. Y ö netmeli ğ in eklerini g ö rmek i ç in t ı klay ı n ı z |
+6 Mart 2011 PAZAR
+
+Resmî Gazete
+
+Sayı : 27866
+
+### YÖNETMELİK
+
+Sağlık Bakanlığından:
+
+### YÜZME HAVUZLARININ TABİ OLACAĞI SAĞLIK ESASLARI
+
+### VE ŞARTLARI HAKKINDA YÖNETMELİK
+
+### BİRİNCİ BÖLÜM
+
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+Amaç
+
+MADDE 1 − (1) Bu Yönetmeliğin amacı, yüzme amacıyla kullanılan açık ve kapalı yüzme havuzları ile sularının hijyenik şartlara uygunluğu, yüzme havuzu suyunun kalite standartlarının belirlenmesi, denetlenmesi ve izlenmesi ile ilgili usul ve esasları düzenlemektir.
+
+Kapsam
+
+MADDE 2 − (1) Bu Yönetmelik, yüzme amacıyla kullanılan açık ve kapalı yüzme havuzları ile sularının nitelikleri ile ilgili usul ve esasları kapsar.
+
+(2) Sağlık amaçlı kullanılan kaplıca ve mineralli su havuzları ile ticari amaçlı olarak kullanılmayan havuzlar bu Yönetmeliğin kapsamı dışındadır.
+
+Dayanak
+
+MADDE 3 − (1) Bu Yönetmelik, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 1 inci ve 2 nci maddeleri ile 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesine dayanılarak hazırlanmıştır.
+
+Tanımlar
+
+MADDE 4 − (1) Bu Yönetmelikte geçen;
+
+a) Alkalinite: Suyun asitlik veya bazlık derecesinin ölçüsünü,
+
+b) Bağlı klor: Sudaki organik ve inorganik maddelerle reaksiyona girerek bileşik oluşturmuş kloru,
+
+c) Bakanlık: Sağlık Bakanlığını,
+
+ç) Devridaim süresi: Toplam havuz hacminin filtrasyon sisteminden bir kez geçmesi için gerekli olan süreyi,
+
+d) Dezenfektan: İnsanlarda hastalık yapma özelliği olan bakteri, virüs ve mantar gibi mikroorganizmaların sudan uzaklaştırılması veya yok edilmesi amacıyla kullanılan organik ve inorganik katı, sıvı ve gaz maddeleri,
+
+e) Havuz suyu operatörü: Yüzme havuzlarında kullanılan suyu kimyasal, fiziksel ve mikrobiyolojik yönden kullanıma hazırlayan ve bu konuda eğitim almış kişiyi,
+
+f) Havuz suyu kimyasalları: Havuz suyunun pH’sini ayarlamak, askıdaki katı maddeleri çöktürmek, küf, maya ve yosun gibi canlıların oluşumunu engellemek ve bazı kimyasal parametreleri dengelemek amacıyla kullanılan maddeleri,
+
+g) Kod no: Havuz suyundan alınan her bir numune için kullanılacak numarayı,
+
+ğ) Müdürlük: İl Sağlık Müdürlüğünü,
+
+h) pH: Suyun asitlik veya bazlık derecesini tarif eden ölçü birimini,
+
+ı) Serbest klor: Suyu dezenfekte etmek amacıyla kullanılan bileşik oluşturmamış kloru,
+
+i) Yüzme havuzu: Yüzme, serinleme, eğlenme veya spor amaçlı kullanılan; tabanı, duvarları, taşma kanalları, rezerv deposu su kalitesini etkilemeyen ve güvenlik gereklerini yerine getiren uygun malzeme ile kaplanan ve bu Yönetmelikte belirtilen niteliklere uygun su ile dolu olan, sürekli bir devridaim akışı olan ve halkın kullanımına açık yapıları,
+
+j) Yüzme havuzu işleticisi: Yüzme, serinleme, eğlenme veya spor amaçlı kullanılan yüzme havuzlarını işletenleri,
+
+ifade eder.
+
+### İKİNCİ BÖLÜM
+
+Havuz Suyunun Nitelikleri, Numune Alma ve Analiz Sıklığı
+
+Kimyasal, fiziksel ve mikrobiyolojik nitelikleri ve analiz sıklığı
+
+MADDE 5 − (1) Yüzme havuzu suyunun kimyasal nitelikleri Ek-1, fiziksel nitelikleri Ek-2 ve mikrobiyolojik nitelikleri de Ek-3’te belirtilen değerlere uygun olur.
+
+(2) Havuz suyunun nitelikleri Ek-1, Ek-2, Ek-3’te belirtilen zaman aralıklarında Müdürlükçe, Ek-4’te belirtilen zaman aralıklarında ise yüzme havuzu işleticileri tarafından izlenir.
+
+(3) Müdürlük tarafından yapılacak denetimlerde analiz sonuçları yüzme havuzu işleticisi tarafından denetçilere ibraz edilir.
+
+(4) Yüzme havuzunun açık olduğu süre içerisinde yüzme havuzu suyuna ait sıcaklık, pH, serbest klor değerleri ile suyun mikrobiyolojik özelliklerine ait en son analiz sonuçları kullanıcıların görebileceği bir panoda yazıyla veya elektronik olarak ilan edilir.
+
+Numune alma, taşıma ve analiz laboratuvarları
+
+MADDE 6 − (1) Numuneler su akımının en düşük olduğu veya kullanıcıların en yoğun olduğu bölgeden yüzme havuzu kenarının yaklaşık 50 cm uzağından ve su yüzeyinin 20 cm altından alınır.
+
+(2) Numuneler, numune alma formu düzenlenerek alınır, her numune için bir kod numarası verilir ve kod numarası numune alma formu ile numune şişesinin üzerine yazılır.
+
+(3) Havuz suyundan alınan her bir numune için ikişer adet Ek-6’da yer alan “Havuz Suyu Numune Alma Formu” düzenlenir ve formlardan biri numune ile birlikte laboratuvara verilir, diğeri ise numuneyi alan kurum veya kuruluşta kalır.
+
+(4) Mikrobiyolojik analizler için en az 500 mililitre su numunesi, sodyum tiyosülfatlı steril cam veya suyun niteliğini değiştirmeyen plastik şişelere alınır. Mikrobiyolojik analizler için alınan numuneler, güneş ışınlarından korunarak (5±3) °C’de ısıyı muhafaza edebilen taşıma kapları ile en kısa zamanda laboratuvara gönderilir. Numunelerin alımından laboratuvara ulaştırılması arasındaki süre on iki saati geçemez.
+
+(5) Kimyasal analizler için en az 1000 ml su numunesi temiz cam veya suyun niteliğini etkilemeyen plastik şişelere alınır. Kimyasal analizler için alınan numuneler, (5±3) °C’de ısıyı muhafaza edebilen taşıma kapları ile en kısa sürede laboratuvara gönderilir. Numunelerin alımından laboratuvara ulaştırılması arasındaki süre 24 saati geçemez.
+
+(6) Havuz suyundan numune alma işi Müdürlük tarafından veya numune alma konusunda akredite olmuş ve Bakanlıkça yetkilendirilmiş kurum veya kuruluşça yapılır. Ancak, bu durum Bakanlık ve Müdürlüğün denetim, izleme ve numune alma yetkisini ortadan kaldırmaz. Analizler, aşağıda belirtilen hükümler çerçevesinde, Bakanlık laboratuvarlarında veya diğer kamu, kurum ve kuruluş laboratuvarlarında veya 7 nci maddede belirtilen şartları taşıyan ve Bakanlıkça yetkilendirmiş özel laboratuvarlarda yaptırılır.
+
+a) Her türlü numune alma ve analiz ücretleri yüzme havuzu işleticisi tarafından ödenir.
+
+b) Laboratuvarlar, Müdürlükçe alınan su numunelerinin analiz sonuçlarını raporlamanın yapıldığı gün içinde e-posta, belgegeçer veya posta ile Müdürlüğe ve yüzme havuzu işleticisine iletir. Yüzme havuzu işleticisine gönderilen raporlar, denetim esnasında denetim elemanlarına gösterilmek üzere yüzme havuzu işleticisi tarafından bir yıl süreyle saklanır.
+
+Yetkilendirme
+
+MADDE 7 − (1) Laboratuvarlar, Bakanlık tarafından yapılacak yerinde denetimde;
+
+a) Deney ve Kalibrasyon Laboratuvarları Akreditasyonu (ISO/IEC 17025) belgesi almış olmaları,
+
+b) Ek-1, Ek-2 ve Ek-3’te belirtilen parametrelerde yöntem akreditasyonu belgesi almış olmaları,
+
+c) En az iki kimya, çevre, su ürünleri mühendisi veya kimyager ile iki biyolog veya mikrobiyoloji uzmanının tam zamanlı istihdam edilmeleri,
+
+ç) Mikrobiyolojik analizler için alınan numunelerin, güneş ışınlarından korunarak (5±3) °C de ısıyı muhafaza edebilen taşıma kapları ile en fazla 6 saat içinde laboratuvara taşınabilecek düzenlemeyi sağlamaları,
+
+halinde Bakanlıkça yetkilendirilir.
+
+### ÜÇÜNCÜ BÖLÜM
+
+Yüzme Havuzu İşletilmesine Ait Hükümler
+
+Yüzme havuzunun işletilmesi
+
+MADDE 8 − (1) Yüzme havuzunun teknik özellikleri ile yüzme havuzu suyunun, sıhhi kurallara uygun olması esastır. Yüzme havuzunun işletilmesinde aşağıdaki şartlara uyulur:
+
+a) Yüzme havuzu işleticisi, teknik işler ve havuzun uygun şekilde işletilmesinden sorumlu kimya veya sağlık eğitimi almış, en az lise mezunu bir kişi ve sertifikalı bir cankurtaran istihdam etmek zorundadır.
+
+b) Yüzme havuzunda ip, yüzer duba, simit gibi can kurtarmaya mahsus malzemeler ile ilkyardım malzemeleri hazır bulundurulur.
+
+c) Kullanıcıların temiz mayolarla yüzme havuzuna girmeleri sağlanır. Tesisler, bütün kullanıcıların soyunma odaları için ayrılan mekana girmeden önce ayak dezenfeksiyonu yapmalarını, soyunma odalarından yüzme havuzuna geçişlerinden önce de duş almalarını sağlayacak şekilde düzenlenir.
+
+ç) Yüzme havuzunda hayvanların insanlarla birlikte bulunmalarına hiçbir şekilde izin verilmez.
+
+d) Tesis içerisinde riayet edilecek kurallar ile muhtemel tehlikelere karşı kişileri uyarmak amacı ile hazırlanan uyarı levhaları kolayca görülebilecek ve okunabilecek uygun yerlerde bulundurulur.
+
+e) Yüzme havuzu suyu yılda en az bir defa boşaltılarak genel temizlik yapılır.
+
+f) Fiziki mekanlar daima temiz ve kuru tutularak kapanma saatinden sonra havuz dip temizliği dâhil genel temizlik yapılır.
+
+g) Yüzme havuzu ve fiziki mekanlar yeteri kadar aydınlatılmalı ve havalandırılmalıdır.
+
+ğ) Kapalı yüzme havuzu, soyunma ve giyinme yerleri de dâhil olmak üzere kış aylarında ısıtılır.
+
+Çocuk yüzme havuzu işletilmesi
+
+MADDE 9 − (1) Çocuk yüzme havuzunun derinliği 50 santimetreden fazla olamaz.
+
+(2) Çocuk havuzları müstakil su hazırlık tesisine sahip olmalı, ayda bir defa boşaltılarak temizlenmeli ve dezenfekte edildikten sonra temiz su ile doldurularak yeniden işletmeye alınır.
+
+(3) Çocuk yüzme havuzu büyüklere ait yüzme havuzundan ayrı olur.
+
+### DÖRDÜNCÜ BÖLÜM
+
+Muhtelif Hükümler
+
+Fiziki mekanlar
+
+MADDE 10 − (1) Duş yerleri, tuvaletler ve soyunma-giyinme yerleri, kadın ve erkek için ayrı düzenlenir.
+
+(2) Duş yerleri duş suyunun sıcaklığı ayarlanabilecek şekilde ve en az yirmi kişiye bir duş düşecek şekilde düzenlenir.
+
+(3) Tuvaletler soyunma ve duş yerlerine yakın konumda, en az yirmi kişiye bir tuvalet düşecek şekilde düzenlenir. Tuvalet ve lavabolarda bol ve temiz su, sıvı sabun, tuvalet kâğıdı, kâğıt havlu ve çöp kovası bulundurulur.
+
+(4) Girişi ve yolları tamamen ayrı tutulan seyirci yerleri, seyircilerin havuz kısmına girmelerini engelleyecek şekilde düzenlenir. Seyirci bölümünde seyircilerin ihtiyacını karşılayacak kadar tuvalet, lavabo ve pisuar bulundurulur.
+
+Güvenlik tedbirleri
+
+MADDE 11 − (1) Yüzme havuzunda kazaların önlenmesi ve güvenliğin sağlanması için aşağıda belirtilen kurallara uyulur:
+
+a) Yüzme havuzu kazalara neden olmayacak ve kenarında güvenli yürümek için yeterli alan bulunacak şekilde planlanır. Dalmak için gerekli olan su derinliği sağlanır. Aksi takdirde her türlü dalışa izin verilmez.
+
+b) Yüzme havuzu çevresindeki yürüme alanı, duş yeri ve çevresinin zemini düzgün ve kaymaya yol açmayan malzemeden yapılır.
+
+c) Yüzme havuzunda boşaltma mazgalı kapalı durumda bulundurulur.
+
+ç) Havuz derinlikleri kullanıcıların görebileceği şekilde havuz kenarına en az 4 yönde yazılır.
+
+d) Yüzme havuzu kenarında acil durumlarda kullanılmak üzere telefon bulundurulur.
+
+#### Denetim
+
+**MADDE 12 –** (1) Yüzme havuzu, havuz suyu ve havuz kimyasalları her ay Müdürlük tarafından denetlenir. Bu denetimlerde;
+
+a) Havuz suyu hazırlanmasında ve dezenfeksiyonunda kullanılan kimyasalların Bakanlıktan ruhsatlı olup olmadığı,
+
+b) Havuz suyu kimyasalları için bir depo ile yeterli kişisel koruyucu ekipman bulunup bulunmadığı,
+
+c) Analiz kayıt defterleri ve bu Yönetmelik eklerine göre yapılan veya yaptırılan analiz sonuçları,
+
+kontrol edilir.
+
+(2) Bir takvim yılı sonunda yapılan değerlendirmede havuz ve havuz suyu kalitesinin bu Yönetmelikte belirlenen şartlara uygun olması durumunda Ek-5’te yer alan “Temiz Havuz Sertifikası” Müdürlük tarafından düzenlenir. Yapılacak denetimlerde havuz ve havuz suyu kalitesinin bu Yönetmelikte belirlenen şartlara uygun olmaması durumunda bu sertifika Müdürlükçe iptal edilir.
+
+Uygun çıkmayan havuz suyunun takibi
+
+MADDE 13 − (1) Yüzme havuzu suyundan alınan numunenin mikrobiyolojik analiz sonucunun Ek-3’te belirtilen niteliklere uygun çıkmaması halinde havuzun faaliyeti durdurulur. Yüzme havuzu işleticisinin gerekli şartları sağlamasından sonra yeniden alınan numunenin analiz sonuçlarının Ek-3’te belirtilen niteliklere uygun çıkması durumunda havuzun faaliyetine izin verilir.
+
+(2) Yüzme havuzu suyundan alınan numunenin kimyasal analizi sonucunun Ek-1 ve Ek-2’de belirtilen niteliklere uygun çıkmaması halinde, uygunsuzluğun giderilmesi ve düzeltici önlemlerin alınması için işletici yazılı olarak uyarılır. Yüzme havuzu işleticisinin gerekli şartları sağlamasından sonra yeniden alınan numunenin analiz sonuçlarının Ek-1 ve Ek-2’de belirtilen niteliklere uygun çıkması durumunda işletmeye herhangi bir işlem yapılmaz. Ancak, analiz sonuçlarının uygun çıkmaması durumunda havuzun faaliyeti analiz sonucunun yukarıda belirtilen nitelikleri sağlayıncaya kadar durdurulur.
+
+Dezenfeksiyon ve havuz kimyasalları
+
+MADDE 14 − (1) Yüzme havuzu ve suyunun dezenfeksiyonu işletici tarafınca yapılır veya yaptırılır.
+
+(2) Havuz suyunda Bakanlıktan ruhsatlı dezenfektan ve havuz suyu kimyasalları kullanılır.
+
+(3) Stabilizatörlü klor bileşikleri sadece açık yüzme havuzlarında kullanılabilir.
+
+Havuz suyu operatörlerinin eğitimi
+
+MADDE 15 − (1) Yüzme havuzu suyu hazırlamasından sorumlu havuz suyu operatörlerine yönelik eğitimler Müdürlükçe yetkilendirilen kamu, kurum ve kuruluşları ile ilgili meslek odalarınca düzenlenir.
+
+(2) Eğitimler havuz suyunun hazırlanması bakımı ve işletilmesi, genel hijyen, su ile bulaşabilecek hastalıklar, havuz suyunda kullanılan kimyasalların insan ve çevre sağlığı üzerine etkileri ile ilkyardım konularını kapsar.
+
+### BEŞİNCİ BÖLÜM
+
+Düzenleme Yetkisi ve Müeyyideler
+
+Düzenleme yetkisi
+
+MADDE 16 − (1) Bakanlık bu Yönetmeliğin uygulanmasını sağlamak üzere her türlü alt düzenlemeyi yapmaya yetkilidir.
+
+Müeyyideler
+
+MADDE 17 − (1) Bu Yönetmelik hükümlerine aykırı hareket eden işletme sahipleri ve kullanıcıları hakkında, fiilin mahiyetine göre 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununa göre işlem yapılır.
+
+### ALTINCI BÖLÜM
+
+Geçici ve Son Hükümler
+
+Mevcut havuzlara ilişkin geçici hükümler
+
+GEÇİCİ MADDE 1 − Bu Yönetmeliğin yayımı tarihinden önce izin almak için başvurusu yapılmış yüzme havuzları ile halen faaliyette olan yüzme havuzları fiziki koşullarını bu Yönetmeliğin yayımı tarihinden itibaren bir yıl içinde 8 inci maddenin (c) bendi ile 9 ve 10 uncu maddelere uygun hale getirir.
+
+Yürürlük
+
+MADDE 18 − (1) Bu Yönetmelik yayımı tarihinden bir ay sonra yürürlüğe girer.
+
+Yürütme
+
+MADDE 19 − (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+
+Yönetmeliğin eklerini görmek için tıklayınız

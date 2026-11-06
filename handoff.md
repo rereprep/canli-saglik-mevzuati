@@ -37,6 +37,14 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Etkili ajan talimatı: her turda listedeki düzeltilmemiş ilk 5 dosyayı düzelt ve kaydet; bitince yeniden görevlendir.
 
 ## Bilinen eksikler / sonraki adımlar
+- 2026-11-06 öğle (yarım iş — buradan devam et):
+  - Künye tamamlama: ../arastirma/grup1-6.json kayıtlarına ajanlar resmî adres buldu (../arastirma/sonuc*.json, sonuc-rg.json). araclar/kaynaktan_aktar.py bu adreslerden metni alır (PDF → segmentler/kunye-kaynak.json, Word/HTML → doğrudan icerik). Atlanacaklar ../arastirma/atla.json. Taranmış PDF: kaynak-isleme/indirilen içinde `ocr_toplu.py --kaynak-dizin . kunye/*.pdf`, sonra `kitaptan_cikar.py --kaynak-dizin kaynak-isleme/indirilen kaynak-isleme/segmentler/kunye-kaynak.json`.
+  - Eski RG (1926–1999, fihrist yok): arşiv PDF'leri kaynak-isleme/indirilen/rg-arsiv/<sayı>.pdf, sayfa metinleri ../arastirma/arsiv/<sayı>.txt; ajanlar sınırları ../arastirma/arsiv/sinir1-3.json'a yazıyor. Sonra araclar/rg_arsiv_segment.py → segmentler/rg-arsiv.json → kitaptan_cikar.
+  - OCR kontrolü: ../arastirma/ocr-kontrol/liste.json ve liste2.json (sayfa PNG'leri) — ajanlar düzeltip duzeltildi/kontrol_edildi ekliyor.
+  - Resmî Gazete HTML'leri tek tablo hücresine sıkışıyordu ve harfler bölünüyordu: mevzuat_gov_aktar.html_md artık düzen tablolarını açıyor, satır içi etiketleri boşluksuz kaldırıyor. araclar/rg_yeniden.py bozuk olanları yeniden üretti (24 dosya).
+  - Çiftler: site_uret.ciftleri_birlestir (aynı tür+tarih+sayı ya da aynı başlık özü; tarih/sayı/yıl çelişmiyorsa; iki tam metinse metin benzerliği ≥0.8). Genelge no 2023/03 = 2023/3. Tarihler ISO'ya çevriliyor.
+  - Tarih/sayı: kaynak-isleme/zenginlestirme/otomatik-tarih-sayi.json (metinden düzenli ifadeyle; ../.tarihsayi.py) ve ajan-ts1-5.json (ajanlar; ../.tsdenetle.py ile denetlendi). elle-duzeltme.json elle başlık düzeltmeleri.
+  - Ajan modelleri bugün sık 429 verdi (hy3, hy4free, Gemini Flash kotası doldu); luna en kararlısıydı.
 - 2026-11-06 durumu: Sayfa kontrolü (323 belge) ve genel OCR kontrolü (540 belge) TAMAMLANDI; tüm OCR'lı belgelerde kontrol_edildi: true var. Ajanlar birçok belgede uydurma giriş/madde/sayı buldu ve kaynaktaki metinle değiştirdi; okunamayan yerler [?].
 - Ajanlar zaman zaman künyedeki "id:" satırının ilk harfini siliyor ("d: ..."). Derleme öncesi ../.idkontrol.py ile kontrol et; site_uret.py artık id/tür yoksa dosya adından tamamlıyor.
 - İki site_uret.py aynı anda çalıştırılmamalı (_site klasörünü siliyor).

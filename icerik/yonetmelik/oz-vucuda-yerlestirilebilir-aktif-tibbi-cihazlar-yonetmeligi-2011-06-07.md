@@ -10,6 +10,1054 @@ kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmem
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/06/20110607-2.htm"
 ---
 
-| 7 Haziran 2011 SALI | Resmî Gazete | Sayı : 27957 |
-| YÖNETMELİK |
-| Sağlık Bakanlığından: VÜCUDA YERLEŞTİRİLEBİLİR AKTİF TIBBİ CİHAZLAR YÖNETMELİĞİ BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar Amaç ve kapsam MADDE 1 – (1) Bu Yönetmeliğin amacı; vücuda yerleştirilebilir aktif tıbbi cihazların taşıması gereken temel gerekleri belirlemek ve bu cihazların kullanımı sırasında hastaların, uygulayıcıların, kullanıcıların ve üçüncü şahısların sağlık ve güvenliği açısından ortaya çıkabilecek tehlikelere karşı korunmalarını sağlamak amacıyla tasarımına, sınıflandırılmasına, üretimine, piyasaya arzına, hizmete sunulmasına ve denetlenmesine ilişkin usul ve esasları düzenlemektir. (2) Bu Yönetmelik; kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerin, vücuda yerleştirilebilir aktif tıbbi cihazların tasarımı, imalatı, piyasaya arzı, hizmete sunulması, kullanımı ve denetimi ile ilgili bütün faaliyetlerini kapsar. (3) Bir cihaz 19/1/2005 tarihli ve 25705 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği kapsamına giren bir tıbbi ürünün uygulanması amacıyla üretilmiş ise, anılan cihaz bu Yönetmelik kapsamında değerlendirilir. Bu durum, tıbbi ürüne Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği hükümlerinin uygulanmasını engellemez. (4) Cihaz, insan vücudu üzerindeki işlevine yardımcı olması amacıyla, bir madde ile entegre olarak kullanılıyorsa ve bu madde cihazdan bağımsız olarak kullanıldığında Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği kapsamında tıbbi ürün olarak kabul ediliyorsa, söz konusu cihaz bu Yönetmelik kapsamında değerlendirilir. (5) Cihaz, insan vücudu üzerindeki işlevine yardımcı olması amacıyla, bir madde ile entegre olarak kullanılıyorsa ve bu madde cihazdan bağımsız olarak kullanıldığında Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği kapsamında insan kanı veya plazmasından elde edilen bir tıbbi ürün (insan kanı türevi) olarak kabul ediliyor ise, söz konusu cihaz bu Yönetmelik kapsamında değerlendirilir. (6) Bu Yönetmelik; a) 19/1/2005 tarihli ve 25705 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği kapsamına giren tıbbi ürünlere, b) İnsan kanı türevleri hariç olmak üzere; insan kanı, kan ürünleri, insan kaynaklı plazma veya kan hücreleri ile insan hücresi, dokusu, nakil organları veya bunlardan imal edilen ürünlere, c) Cansız hayvan dokuları ve cansız hayvan dokularından imal edilen ürünleri içeren vücuda yerleştirilebilir aktif tıbbi cihazlar hariç olmak üzere, hayvan kökenli doku ve hücrelere uygulanmaz. (7) Bir ürünün Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği veya bu Yönetmelik kapsamında olup olmadığına karar verilirken ürünün aslî fonksiyonuna bakılır. (8) Bu Yönetmelik kapsamında uygunluk değerlendirmesine tabi tutulan cihazlar bakımından, 24/10/2007 tarihli ve 26680 sayılı Resmî Gazete’de yayımlanan Elektro Manyetik Uyumluluk Yönetmeliği hükümleri aranmaz. Dayanak MADDE 2 – (1) Bu Yönetmelik; 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanuna, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin birinci fıkrasının (k) bendi ile 9 uncu maddesinin birinci fıkrasının (c) bendine, 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar MADDE 3 – (1) Bu Yönetmelikte geçen; a) Aktif tıbbi cihaz: Yer çekiminin ya da insan vücudunun doğal olarak oluşturduğu enerji haricinde herhangi bir elektrik enerjisi veya güç kaynağıyla çalışan tıbbi cihazları, b) Bakanlık: Sağlık Bakanlığını, c) Hizmete sunmak: Bu Yönetmelik kapsamındaki bir cihazın, vücuda yerleştirilebilmesi için hazır hale getirilmesini, ç) Ismarlama üretilen cihaz: Toplu üretime tâbi olan ve tıbbi uygulayıcının isteklerine göre uyarlanan vücuda yerleştirilebilir aktif tıbbi cihazlar hariç olmak üzere; belirli tasarım özelliklerinin yer aldığı ve belirli bir hastada kullanılmak amacıyla, vasıflı tıbbi uygulayıcı tarafından düzenlenen reçeteye istinaden imal edilen vücuda yerleştirilebilir aktif tıbbi cihazı, d) İmalatçı: Bu Yönetmeliğe uygun olarak piyasada hazır bulunan vücuda yerleştirilebilir aktif tıbbi cihazları hastasına uygun hale getirip kullanıma hazırlayan kişiler hariç olmak üzere, bizzat kendisi veya kendisi adına üçüncü bir kişi tarafından yapılmış olmasına bakılmaksızın, vücuda yerleştirilebilir aktif tıbbi cihazı kendi adı altında piyasaya arz etmeden önce tasarlayan, imal eden, paketleyen ve etiketleyen gerçek veya tüzel kişiyi; ayrıca bir veya birden fazla hazır ürünü bir araya getiren, paketleyen, işleyen, tamamen yenileyen ve/veya etiketleyen ve/veya bunları kendi adı altında ve kullanım amacı doğrultusunda vücuda yerleştirilebilir aktif tıbbi cihaz olarak piyasaya arz eden gerçek veya tüzel kişiyi, e) Kanun: 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunu, f) Klinik araştırma amaçlı cihaz: Vasıflı tıbbi uygulayıcı veya klinik araştırma yapmaya yetkili kişi tarafından yeterli klinik ortamda insan üzerinde, Ek VII’nin (2.1) numaralı kısmına uygun olarak yapılacak klinik araştırmaya konu olan cihaz ya da cihazları, g) Klinik veri: Bir cihazın kullanımı sonucunda; 1) Söz konusu cihaza ilişkin klinik araştırmalardan veya 2) Bu cihaza denkliği gösterilebilen benzer bir cihaza ilişkin bilimsel literatürde yer alan klinik araştırmalardan veya diğer çalışmalardan ya da 3) Söz konusu cihaz veya bu cihaza denkliği gösterilebilen benzer bir cihaza ilişkin diğer klinik deneyimler ile ilgili yayımlanmış ve/veya yayımlanmamış raporlardan elde edilen güvenlik ve/veya performans bilgilerini, ğ) Komisyon: Avrupa Birliği Komisyonunu, h) Kullanım amacı: İmalatçı tarafından teknik dosyada ayrıntılı olarak ifade edilen ve vücuda yerleştirilebilir aktif tıbbi cihazın kullanım kılavuzunda, tanıtım materyalinde veya etiketinde belirtilen kullanım maksadını, ı) Piyasaya arz: Klinik araştırma amaçlı cihazlar hariç olmak üzere; yeni veya tamamen yenilenmiş bir cihazın imalat süreci tamamlandıktan sonra ilk defa dağıtım ve/veya kullanım amacıyla, bedelli veya bedelsiz olarak piyasada yer alması için yapılan faaliyeti, i) Tıbbi cihaz: İnsanda kullanıldıklarında aslî fonksiyonunu farmakolojik, immünolojik veya metabolik etkiler ile sağlamayan fakat fonksiyonunu yerine getirirken bu etkiler tarafından desteklenebilen ve insan üzerinde; 1) Hastalığın tanısı, önlenmesi, izlenmesi, tedavisi veya hafifletilmesi ya da 2) Yaralanma veya sakatlığın tanısı, izlenmesi, tedavisi, hafifletilmesi veya mağduriyetin giderilmesi ya da 3) Anatomik veya fizyolojik bir işlevin araştırılması, değiştirilmesi veya yerine başka bir şey konulması veyahut 4) Doğum kontrolü amacıyla kullanılmak üzere imal edilmiş, tek başına veya birlikte kullanılabilen, imalatçısı tarafından özellikle tanı ve/veya tedavi amaçlı kullanılmak üzere imal edilmiş ve tıbbi cihazın amaçlanan işlevini yerine getirebilmesi için gerekli olan yazılımlar da dahil, her türlü araç, alet, teçhizat, yazılım, aksesuar veya diğer malzemeleri, j) Vücuda yerleştirilebilir aktif tıbbi cihaz: Tamamı veya bir kısmı, tıbbi veya cerrahi bir müdahale ile insan vücuduna ya da doğal bir vücut girişine veya boşluğuna yerleştirilen ve yerleştirildiği yerde kalması gereken aktif tıbbi cihazları, k) Yetkili temsilci: İmalatçı tarafından açık olarak yetkilendirilmiş olan ve imalatçı adına bu Yönetmelikte yer alan yükümlülükleri yerine getirmek üzere hareket eden ve kurum ve kuruluşlar tarafından muhatap alınabilen, Türkiye’de yerleşik gerçek veya tüzel kişiyi, ifade eder. İKİNCİ BÖLÜM Piyasaya Arz ve Hizmete Sunum, Temel Gerekler, Serbest Dolaşım, Uyumlaştırılmış Standartlara Uygunluk ve Korumaya İlişkin Tedbirler Piyasaya arz ve hizmete sunum MADDE 4 – (1) Usulüne uygun tedarik edilmesi, vücuda yerleştirilmesi, kurulması, muhafaza edilmesi, bakımının yapılması ve amacına uygun olarak kullanımının sağlanabilmesi kaydıyla, bu Yönetmelik hükümlerini karşılayan cihazların piyasaya arzı ve/veya hizmete sunulması sağlanır. Temel gerekler MADDE 5 – (1) 3 üncü maddenin birinci fıkrasının (ç), (f) ve (j) bentlerinde tanımlanan cihazlar, kullanım amaçları da dikkate alınmak suretiyle, Ek I’de belirtilen temel gereklere uygun olmak zorundadır. (2) Bu Yönetmelik kapsamına giren cihazların 3/3/2009 tarihli ve 27158 sayılı Resmî Gazete’de yayımlanan Makina Emniyeti Yönetmeliği kapsamına da girdiği durumlarda, söz konusu Yönetmeliğin sağlık ve güvenliğe ilişkin spesifik temel gereklerinin de karşılanması gerekir. Serbest dolaşım MADDE 6 – (1) Bu Yönetmeliğin hükümlerine uygun olarak uygunluk değerlendirme işlemlerine tâbi tutulan ve CE işareti iliştirilen cihazların piyasaya arzı ve/veya hizmete sunulması engellenmez. (2) Aşağıda belirtilen cihazlara CE işareti iliştirilemez ve bu durumlar için herhangi bir engel konulmaz: a) 12 nci madde ile Ek VI’da belirtilen şartlara uygun olan klinik araştırma amaçlı cihazların, vasıflı tıbbi uygulayıcı veya klinik araştırma yapmaya yetkili kişi tarafından kullanılmasına, b) Ek VI’da belirtilen beyana sahip olmak koşuluyla bu Yönetmelik hükümlerine uygun olarak belirli bir hastanın kullanımına sunulan ısmarlama cihazların piyasaya arzına ve hizmete sunulmalarına. (3) Bu Yönetmelik hükümlerine uygun olmayan cihazların, Yönetmelik hükümlerine uygunluğu sağlanıncaya kadar piyasaya arz edilemeyeceğini ve hizmete sunulamayacağını açık bir şekilde gösteren bir işaret taşımaları kaydıyla, ticarî fuarlar ve sergilerde tanıtımı engellenemez. (4) Ek I’in (13), (14) ve (15) numaralı kısımlarında belirtilen ve imalatçı tarafından hastalara, kullanıcılara ve uygulayıcılara yönelik olarak vücuda yerleştirilebilir aktif tıbbi cihazla birlikte verilmesi gereken bilgiler, kullanım kılavuzları, etiket ve diğer açıklamalar söz konusu cihaz piyasaya arz edildiğinde Türkçe olmalıdır. Uyumlaştırılmış standartlara uygunluk MADDE 7 – (1) Avrupa Birliği tarafından yayımlanan uyumlaştırılmış standartlara uygun olarak imal edilen vücuda yerleştirilebilir aktif tıbbi cihazların, 5 inci maddede belirtilen temel gereklerin ilgili hükümlerini karşıladığı kabul edilir. (2) Uyumlaştırılmış standartlara uygunluk, özellikle tıbbi ürün içeren vücuda yerleştirilebilir aktif tıbbi cihazlarda kullanılan materyaller ile tıbbi ürünler arasındaki etkileşime ilişkin Avrupa Farmakopesi monograflarını da içerir. (3) Uyumlaştırılmış standartların temel gerekleri tam olarak karşılamadığının tespit edilmesi halinde, durum Bakanlığa bildirilir. Bakanlık, bu bilgileri Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona iletir. Korumaya ilişkin tedbirler MADDE 8 – (1) Bakanlık, kullanım amacına uygun olarak kurulan, kullanılan ve devamlılığı sağlanan, 3 üncü maddenin birinci fıkrasının (ç) ve (j) bentlerinde yer alan cihazların kullanımının hasta, kullanıcı, uygulayıcı veya üçüncü kişilerin sağlığı ve/veya güvenliği açısından tehlike oluşturduğunu tespit ettiğinde, bu cihazların piyasadan çekilmesini sağlamak, piyasaya arzını engellemek veya kısıtlamak, hizmete sunulmasını engellemek veya kısıtlamak için gereken bütün tedbirleri alır. Bununla ilgili gerekçeli kararını ve cihazla ilgili uygunsuzluğun aşağıdaki hususlardan kaynaklanıp kaynaklanmadığına ilişkin görüşünü Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir. a) 7 nci maddede belirtilen standartların vücuda yerleştirilebilir aktif tıbbi cihaz tarafından tamamen veya kısmen karşılanmaması durumunda 5 inci maddedeki temel gereklerin ihlali, b) Söz konusu standartların yanlış uygulanması, c) Standartların kendisinden kaynaklanan eksiklikler. (2) Bu Yönetmeliğe uygun olmayan bir cihaz CE işareti taşıdığında, Bakanlık, işareti iliştirenlere karşı gerekli tedbirleri alır ve Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bilgi verir. ÜÇÜNCÜ BÖLÜM Uyarı Sistemi, Uygunluk Değerlendirme İşlemleri ve İstisnai Durum Bildirimleri Uyarı sistemi MADDE 9 – (1) Bakanlık, vücuda yerleştirilebilir aktif tıbbi cihaza ilişkin bu Yönetmelik hükümleri çerçevesinde kendisine sunulan aşağıdaki bilgilerin kaydedilmesini, değerlendirilmesini ve gerekli tedbirlerin alınmasını sağlar. Bu bilgiler: a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan; 1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması, 2) Kullanım kılavuzu ve etiketteki yetersizlikler, b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler. (2) Birinci fıkrada belirtilen durumlar hakkında ilgili sağlık personeli ve/veya sağlık kuruluşu tarafından Bakanlığa derhâl bilgi verilir. Bakanlık, gerekli önlemlerin alınmasını sağlamak üzere, söz konusu olay hakkında imalatçıyı veya yetkili temsilcisini bilgilendirir. (3) Bakanlık, mümkün olması halinde imalatçı veya yetkili temsilci ile birlikte gerekli değerlendirmeleri yaptıktan sonra, 8 inci maddedeki hususlar saklı kalmak kaydıyla, bu maddenin birinci fıkrasında belirtilen olumsuz olaylar ile bunların yeniden ortaya çıkma ihtimalini en aza indirmek için alınmış veya alınması öngörülen tedbirler hakkında Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyonu ivedilikle bilgilendirir. Uygunluk değerlendirme işlemleri MADDE 10 – (1) Uygunluk değerlendirme işlemlerinde bu maddede belirtilen hususlar dikkate alınır. (2) Ismarlama üretilen cihazlar ve klinik araştırma amaçlı cihazlar hariç olmak üzere; imalatçı, vücuda yerleştirilebilir aktif tıbbi cihaza CE işaretini iliştirmek için: a) Ek II’de belirtilen tam kalite güvence sistemiyle ilgili uygunluk beyanı işlemini ya da b) Ek III’te belirtilen tip incelemesiyle birlikte; 1) Ek IV’te belirtilen doğrulama veya 2) Ek V’te belirtilen tip uygunluk beyanı işlemini takip eder. (3) İmalatçı ısmarlama üretilen cihazlar için her bir cihazı piyasaya arz etmeden önce Ek VI’daki beyanı düzenler. Ismarlama üretilen cihazlardan hizmete sunulanların bir listesini Bakanlığa verir. (4) Gerektiğinde, Ek III, IV ve VI’da öngörülen işlemler, imalatçının yetkili temsilcisi tarafından yerine getirilebilir. (5) İkinci, üçüncü ve dördüncü fıkralarda belirtilen işlemler ile ilgili kayıtlar ve yazışmalar Türkçe ve/veya onaylanmış kuruluşun kabul ettiği Avrupa Birliği resmî dillerinden birinde yapılır. (6) İmalatçı ve/veya onaylanmış kuruluş, vücuda yerleştirilebilir aktif tıbbi cihazın uygunluk değerlendirme işlemleri süresince, bu Yönetmeliğe uygun olarak üretimin ara aşamasında yapılan değerlendirme ve doğrulama sonuçlarını göz önünde bulundurur. (7) Uygunluk değerlendirme işleminde onaylanmış kuruluşun yer alması gerektiği durumlarda, imalatçı veya yetkili temsilcisi bu iş için onaylanmış kuruluşlardan birini seçer. (8) Onaylanmış kuruluş, seçilen işlem çerçevesinde uygunluğu onaylamak için gerekli olan her türlü bilgi ve belgeleri başvuru sahibinden ister. (9) Onaylanmış kuruluşlarca Ek II, III ve V’e uygun olarak alınan kararlar, en fazla 5 (beş) yıl süre ile geçerlidir. Ancak, onaylanmış kuruluş ile imalatçı arasında imzalanan sözleşmede belirlenen süre içerisinde yapılan müracaat üzerine, kararın geçerlilik süresi en fazla 5 (beş) yıllık dönemler halinde uzatılabilir. (10) Bakanlık, ikinci ve üçüncü fıkralarda belirtilen işlemlerin uygulanmadığı, fakat kullanıldığında sağlığın korunmasına yardımcı olacağı belirlenen münferit vücuda yerleştirilebilir aktif tıbbi cihazların ülke sınırları içinde piyasaya arzına ve hizmete sunulmasına gerekçeli bir talep üzerine izin verebilir. İstisnai durumlarla ilgili bildirimler MADDE 11 – (1) Bakanlık; a) Vücuda yerleştirilebilir aktif tıbbi cihazın veya grubunun uygunluğunun, 10 uncu madde hükümlerine istisna olarak, söz konusu maddede belirtilen yöntemlerden sadece birinin uygulanmasıyla sağlanması gerektiğinde, b) Vücuda yerleştirilebilir aktif tıbbi cihazın veya grubunun, 3 üncü maddenin birinci fıkrasının (a), (ç), (f) veya (i) bentlerinde yer alan tanımlardan herhangi birine girip girmediğine ilişkin bir karar almak gerektiğinde, konu ile ilgili talebini, gerekçeleriyle birlikte gerekli tedbirlerin alınması için Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir. DÖRDÜNCÜ BÖLÜM Klinik Araştırmalar, Kayıt Sistemi, Onaylanmış Kuruluş ve CE İşaretlemesi Klinik araştırmalar MADDE 12 – (1) İmalatçı veya yetkili temsilci, klinik araştırma amaçlı cihazlar için Ek VI’da belirtilen işlemleri gerçekleştirir ve yapılacak klinik araştırma hakkındaki gerekli bilgiyi bu ekte yer alan beyan ile birlikte Bakanlığa verir. (2) İmalatçı, ilgili Etik Kurulun onayı ile birlikte klinik araştırma talebini Bakanlığa bildirir. Bakanlık bildirim tarihinden 60 (altmış) gün sonra klinik araştırma talebini sonuçlandırır. (3) İlgili Etik Kurulun araştırma planına kendi gerekçesini eklemek suretiyle olumlu görüş vermesi halinde, Bakanlık 60 (altmış) günlük sürenin dolmasını beklemeden imalatçıya söz konusu klinik araştırmanın başlatılması için izin verebilir. (4) Bakanlık gerektiğinde, klinik araştırmalar bakımından halk sağlığını ve kamu yararını korumaya yönelik gerekli ve uygun tedbirleri alır. Bakanlık bir klinik araştırmayı reddettiğinde, durdurduğunda, geçici olarak askıya aldığında veya önemli bir değişiklik talep ettiğinde söz konusu kararı gerekçesi ile birlikte Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir. (5) İmalatçı veya yetkili temsilcisi, klinik araştırmanın sonucu ile ilgili olarak Bakanlığa bilgi verir. Klinik araştırmanın erken sonlandırılması halinde, gerekçesi de ayrıca bildirilir. Erken sonlandırmanın güvenlik gerekçesi ile yapıldığı durumlarda, Bakanlık söz konusu durumu Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir. Ek VII/2.3.7’de belirtilen rapor, Bakanlığa verilmek üzere imalatçı veya yetkili temsilcisi tarafından hazır bulundurulur. (6) Klinik araştırmalar Ek VII’ye uygun olarak yapılır. Kayıt sistemi MADDE 13 – (1) Bakanlık, bu maddede belirtilen esaslara göre piyasaya arz edilmiş olan vücuda yerleştirilebilir aktif tıbbi cihazları ve bu cihazların piyasaya arzından sorumlu kişilerin kayıtlarını tutar. (2) 10 uncu maddede belirtilen işlemlere uygun olarak vücuda yerleştirilebilir aktif tıbbi cihazı kendi adıyla piyasaya arz eden imalatçı, işletme ve bu cihazla ilgili gerekli bilgileri Bakanlığa bildirir. (3) Bakanlık, vücuda yerleştirilebilir aktif tıbbi cihazlar piyasaya arz edildiğinde, cihazların etiketi ve kullanım kılavuzu ile birlikte söz konusu cihazı tanımlayıcı bilgileri de talep eder. (4) Vücuda yerleştirilebilir aktif tıbbi cihazı kendi adıyla piyasaya arz eden imalatçı ülke sınırları dışında ise, yetkili temsilcisi Bakanlığa bildirilir. Yetkili temsilci, ülke sınırları içinde kayıtlı şirket adreslerini ve bu cihazlarla ilgili söz konusu bilgileri Bakanlığa bildirir. (5) Bakanlık, imalatçı veya yetkili temsilci tarafından vücuda yerleştirilebilir aktif tıbbi cihazlara ilişkin sunulan bilgileri, talep olması halinde Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir ve gerektiğinde Komisyondan bilgi ister. (6) Bu Yönetmelik ile ilgili düzenleyici veriler, yetkili kuruluşların bu Yönetmelik çerçevesindeki görevlerini yerine getirmelerini temin etmek için tıbbi cihaz veri bankasında saklanır. Veri bankası, aşağıda belirtilen unsurlardan oluşur: a) İmalatçıların, yetkili temsilcilerin ve vücuda yerleştirilebilir aktif tıbbi cihazların kayıtlarına ilişkin veriler, b) Ek II, III, IV ve V’de öngörülen yönteme uygun olarak verilen, değiştirilen, ekleme yapılan, askıya alınan, geri çekilen veya reddedilen belgeler ile ilgili veriler, c) 9 uncu maddede düzenlenen uyarı sistemiyle elde edilen veriler, ç) 12 nci maddede düzenlenen klinik araştırmalara ilişkin veriler. (7) Bakanlık, sağlık ve güvenliğin korunması ve/veya halk sağlığı gereklerinin gözetilmesi amacıyla, vücuda yerleştirilebilir aktif tıbbi cihazın veya grubunun piyasadan çekilmesi ya da piyasaya arzı ve hizmete sunulmasının yasaklanması, sınırlandırılması veya belirli şartlara tabi tutulması gerektiğinde gerekli bütün önlemleri alır. Bu durumda, gerekçeli kararını Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir. Onaylanmış kuruluş MADDE 14 – (1) 10 uncu maddede belirtilen görevleri ve kendilerine verilmiş özel görevleri yerine getirebilecek kuruluşlar Bakanlığa müracaat eder. Bakanlık, onaylanmış kuruluş adaylarını bu maddede belirtilen hususlar doğrultusunda değerlendirerek uygun bulunanları Komisyona bildirilmek üzere Dış Ticaret Müsteşarlığına iletir. Komisyon tarafından kimlik numarası verilmesinin ardından Bakanlığın onaylanmış kuruluş görevlendirmesine dair kararı Resmî Gazete’de yayımlanır ve onaylanmış kuruluş faaliyete başlar. (2) Onaylanmış kuruluşların belirlenmesinde, Ek VIII’de belirtilen şartlara uygunluk aranır. Bununla birlikte Kanun ve 17/1/2002 tarihli ve 24643 sayılı Resmî Gazete’de yayımlanan Uygunluk Değerlendirme Kuruluşları ile Onaylanmış Kuruluşlara Dair Yönetmelik hükümleri de uygulanır. Ayrıca, onaylanmış kuruluşlara ilişkin uyumlaştırılmış standartları karşılayan kuruluşların Ek VIII’deki şartları karşıladığı kabul edilir. (3) Talep halinde onaylanmış kuruluş, bütçe belgeleri de dâhil olmak üzere, Ek VIII’de öngörülen şartlara uygunluğun denetlenmesini sağlayacak bütün bilgi ve belgeleri Bakanlığa verir. (4) Bakanlık, onaylanmış kuruluşun ikinci fıkrada belirtilen şartlara uymadığını tespit ettiği takdirde; onaylamayı geçersiz kılar ve bu kararını Resmî Gazete’de yayımlar. Ayrıca Komisyona bildirilmek üzere Dış Ticaret Müsteşarlığına iletir. (5) Onaylanmış kuruluş ile imalatçı veya yetkili temsilci, Ek II, III, IV ve V’de yer alan değerlendirme ve doğrulama işlemlerinin tamamlanması için gereken süreyi ortaklaşa belirler. (6) Onaylanmış kuruluş düzenlediği, değişiklik yaptığı, ekleme yaptığı, askıya aldığı, iptal ettiği veya geri çektiği tüm belgeler hakkında Bakanlığa bilgi verir. Ayrıca bu hususlarda ve talep edilmesi halinde, düzenlediği belgeler hakkında, bu Yönetmelik kapsamında faaliyet gösteren diğer onaylanmış kuruluşlara bilgi verir. Onaylanmış kuruluş, ayrıca kendisinden talep edilen tüm ilave bilgileri sağlar. (7) Onaylanmış kuruluş, bu Yönetmeliğin ilgili hükümlerine imalatçı tarafından uyulmadığını veya belgenin sehven verilmiş olduğunu tespit ettiğinde; imalatçı tarafından düzeltici tedbirler alınıncaya ve ilgili gereklere uygunluk temin edilinceye kadar, verilen belgeyi, orantılılık ilkesini göz önünde bulundurarak askıya alır, iptal eder veya sınırlamalara tâbi tutar. Bu durumlarda veya Bakanlığın müdahalesinin gerekli görüldüğü hallerde, onaylanmış kuruluş Bakanlığa bilgi verir. Bakanlık, bu hususu Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir. CE işaretlemesi MADDE 15 – (1) CE işaretinin iliştirilmesinde, aşağıdaki hususlar dikkate alınır: a) Ismarlama üretilen cihazlar ve klinik araştırma amaçlı cihazlar dışında kalan bütün vücuda yerleştirilebilir aktif tıbbi cihazlar, 5 inci maddede belirtilen temel gereklere uygun oldukları takdirde, CE işaretini taşırlar. b) Ek IX’da belirtilen CE işareti, kolayca görülebilir, okunabilir ve silinmeyecek bir şekilde vücuda yerleştirilebilir aktif tıbbi cihaza, sterilliğini koruyan ambalajına, kullanım kılavuzuna ve satış ambalajı üzerine iliştirilir. c) Ek II, IV ve V’te belirtilen işlemlerin uygulanmasından sorumlu onaylanmış kuruluşun kimlik numarası da CE işaretiyle birlikte yer alır. ç) CE işaretinin anlamı veya şekli konusunda yanlış anlamaya yol açabilecek işaret veya ibare iliştirmek yasaktır. Başka bir işaret, ancak CE işaretinin görülmesini ve okunmasını engellemeyecek biçimde, vücuda yerleştirilebilir aktif tıbbi cihazın üzerine, ambalajının üzerine veya kullanım kılavuzuna konulabilir. (2) Ayrıca, CE işaretinin iliştirilmesi ve kullanılması konusunda, Kanun ile 17/1/2002 tarihli ve 24643 sayılı Resmî Gazete’de yayımlanan CE Uygunluk İşaretinin Ürüne İliştirilmesine ve Kullanılmasına Dair Yönetmelik hükümlerine de uyulması zorunludur. Usulsüz olarak iliştirilmiş CE işareti MADDE 16 – (1) CE işaretinin usulsüz olarak vücuda yerleştirilebilir aktif tıbbi cihaza iliştirilmiş olduğunun veya hiç iliştirilmediğinin tespit edilmesi halinde, 8 inci madde hükümleri saklı kalmak kaydıyla; imalatçı veya yetkili temsilcisi, Bakanlıkça belirlenen şartlar çerçevesinde ihlâle son vermek zorundadır. İhlâlin devamı halinde Bakanlık, vücuda yerleştirilebilir aktif tıbbi cihazın piyasaya arzını kısıtlayıcı veya yasaklayıcı gerekli bütün tedbirleri alarak, söz konusu cihazın piyasadan çekilmesini sağlar. (2) Bu Yönetmelik kapsamında olmadığı halde, bu Yönetmelik hükümlerine göre CE işareti iliştirilen ürünlere de birinci fıkra hükümleri uygulanır. BEŞİNCİ BÖLÜM Çeşitli Hükümler Ret veya sınırlama kararları MADDE 17 – (1) Bakanlıkça bu Yönetmeliğin uygulanması sırasında, a) Vücuda yerleştirilebilir aktif tıbbi cihazın piyasaya arzına, hizmete sunulmasına veya klinik araştırmalara yönelik ret veya sınırlayıcı nitelikte alınan kararlar, b) Vücuda yerleştirilebilir aktif tıbbi cihazların piyasadan çekilmesine ilişkin olarak alınan kararlar, gerekçeleri ile birlikte açıkça belirtilir. (2) Birinci fıkrada belirtilen bütün kararlar için, alınacak tedbirin aciliyet durumuna göre mümkün olması halinde imalatçı veya yetkili temsilci görüşünü önceden belirtme hakkına sahiptir. (3) Vücuda yerleştirilebilir aktif tıbbi cihaz(lar)a ilişkin ret veya sınırlama ya da piyasadan çekme iş ve işlemleri ile ilgili olarak ayrıca, Kanun ile 25/6/2007 tarihli ve 26563 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığınca Yapılacak Piyasa Gözetimi ve Denetiminin Usul ve Esasları Hakkında Yönetmelik hükümleri de uygulanır. Gizlilik MADDE 18 – (1) Bakanlık, onaylanmış kuruluş ve bu Yönetmeliğin uygulanmasına katılan bütün taraflar, görevlerini yerine getirirken temin ettikleri bütün bilgilerin gizliliğini sağlar. Ancak, Bakanlığın diğer ülke yetkili kuruluşları ve onaylanmış kuruluşlar ile karşılıklı bilgi paylaşımı ve uyarı sistemi kapsamındaki yükümlülükleri saklıdır. Ayrıca gizlilik mahiyetine haiz bu bilgiler, kamu sağlığının ve düzeninin gerektirdiği hallerde, adlî ve ilgili üst mercilerin talebi üzerine, Bakanlığa bilgi verilmek suretiyle açıklanabilir. (2) Aşağıdaki hususlar gizlilik kapsamında değerlendirilmez: a) 13 üncü maddeye göre vücuda yerleştirilebilir aktif tıbbi cihazların piyasaya arzından sorumlu kişilerin kayıt bilgileri, b) 9 uncu maddenin üçüncü fıkrasında belirtilen önlemlere uygun olarak imalatçı, yetkili temsilci veya dağıtıcı tarafından kullanıcılara gönderilen bilgiler, c) Düzenlenen, düzeltme yapılan, ekleme yapılan, askıya alınan veya iptal edilen sertifikalarda yer alan bilgiler. Danışma komisyonları MADDE 19 – (1) Bakanlık, vücuda yerleştirilebilir aktif tıbbi cihazlar ve standartlar konusunda, bünyesinde bulunan teknik düzenleme ve danışma komisyonları yetersiz kaldığında, yeni danışma komisyonları oluşturabilir. Danışma komisyonlarının oluşturulması, çalışma usul ve esasları ile görev, yetki ve sorumlulukları Bakanlıkça çıkarılacak Yönerge ile belirlenir. Diğer mevzuata uyum MADDE 20 – (1) Vücuda yerleştirilebilir aktif tıbbi cihaz, CE işaretinin iliştirilmesini öngören başka mevzuatın da konusuna giriyor ise, ilgili diğer mevzuat hükümlerine de uygun olmak zorundadır. (2) İlgili diğer mevzuatın bir veya daha fazlası, bir geçiş dönemi süresince imalatçıya uygulama konusunda seçme hakkı tanıyor ise CE işareti sadece, imalatçının uygulamayı seçtiği mevzuat hükümlerine uygunluğu gösterir. Bu durumda, hangi mevzuatın uygulandığı, vücuda yerleştirilebilir aktif tıbbi cihazla birlikte verilen belgelerde, uyarılarda, etiket veya kullanım kılavuzunda belirtilir. ALTINCI BÖLÜM Son Hükümler Kullanım güvenliği MADDE 21 – (1) Vücuda yerleştirilebilir aktif tıbbi cihazlar imalatçının öngördüğü kullanım amacı ve kullanım kılavuzunda belirtilen öneriler dikkate alınarak kullanılır. (2) Kurulum, kalite kontrol testleri, kalibrasyon veya bakım-onarım gerektiren vücuda yerleştirilebilir aktif tıbbi cihazlarda söz konusu işlemler imalatçının öngördüğü şekilde gerçekleştirilir. (3) Vücuda yerleştirilebilir aktif tıbbi cihazların güvenli kullanımını sağlamak için imalatçının öngördüğü hususlar dikkate alınarak gerekli eğitimler yapılır. Aykırı davranışlar hakkında uygulanacak hükümler MADDE 22 – (1) Bu Yönetmelik hükümlerine aykırı davranan ve faaliyet gösterenler hakkında Kanun, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu ve ilgili diğer mevzuat hükümleri uygulanır. Uyumlaştırılan Avrupa Birliği mevzuatı MADDE 23 – (1) Bu Yönetmelik, Avrupa Birliğinin vücuda yerleştirilebilir aktif tıbbi cihazlar ile ilgili mevzuatına uyum sağlanması amacıyla; a) 90/385/EEC sayılı Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Direktifine, b) 90/385/EEC sayılı Direktife değişiklik getiren 93/42/EEC sayılı Tıbbi Cihazlar Direktifine, c) 90/385/EEC sayılı Direktife değişiklik getiren 93/68/EEC sayılı CE İşaretlemesine İlişkin Direktife, ç) 90/385/EEC sayılı Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Direktifinde, 93/42/EEC sayılı Tıbbi Cihaz Direktifinde ve 98/8/EC sayılı Biyosidal Ürünlerin Piyasaya Arzına İlişkin Direktifte değişiklik yapılmasına dair 2007/47/EC sayılı Direktifine paralel olarak hazırlanmıştır. Atıflar MADDE 24 – (1) Daha önce diğer düzenlemelerde, 9/1/2007 tarihli ve 26398 sayılı Resmî Gazete’de yayımlanan Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğine yapılan atıflar, bu Yönetmeliğe yapılmış olarak kabul edilir. Yürürlükten kaldırılan yönetmelik MADDE 25 – (1) 9/1/2007 tarihli ve 26398 sayılı Resmî Gazete’de yayımlanan Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği yürürlükten kaldırılmıştır. Yürürlük MADDE 26 – (1) Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer. Yürütme MADDE 27 – (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür. EK I TEMEL GEREKLER I. GENEL GEREKLER 1) Vücuda yerleştirilebilir aktif tıbbi cihazlar, kullanım amaçlarına ve şartlarına uygun olarak vücuda yerleştirildiğinde hastaların klinik durumunu veya güvenliğini tehlikeye düşürmeyecek şekilde tasarlanmalı ve imal edilmelidir. Bu cihazlar, bunları vücuda yerleştiren uygulayıcılara veya diğer kişilere karşı herhangi bir risk oluşturmamalıdır. 2) Vücuda yerleştirilebilir aktif tıbbi cihaz, imalatçı tarafından öngörülen performansa ulaşmalı ve bu Yönetmeliğin 3 üncü maddesinin birinci fıkrasının (i) bendinde belirtilen fonksiyonların birine veya birden fazlasına uygun olabilecek bir tarzda tasarlanmalı ve imal edilmelidir. 3) Vücuda yerleştirilebilir aktif tıbbi cihazın imalatçı tarafından belirtilen kullanım süresince, normal koşullarda kullanımı sırasında ortaya çıkabilecek olumsuzluklar; söz konusu cihazın bu Ekin (1) ve (2) numaralı kısımlarında belirtilen özellikleri, performansı ve klinik şartları değiştirecek, hastanın, uygulayıcının ve üçüncü kişilerin sağlık ve güvenliğini bozacak nitelikte olmamalıdır. 4) Vücuda yerleştirilebilir aktif tıbbi cihazlar imalatçıdan temin edilen kullanım kılavuzunda verilen bilgilere (sıcaklık, nem gibi) uygun şekilde nakledildiğinde ve depolandığında öngörülen kullanım süresince özellikleri ve performansı olumsuz yönde etkilenmeyecek şekilde tasarlanmış, imal edilmiş ve paketlenmiş olmalıdır. 5) Vücuda yerleştirilebilir aktif tıbbi cihazın istenmeyen yan etkilerinin oluşturacağı risk, söz konusu cihazdan beklenen performanslarla kıyaslandığında, kabul edilebilir olmalıdır. 5a) Vücuda yerleştirilebilir aktif tıbbi cihazın temel gereklere uygunluğu, Ek VII’ye göre yapılan bir klinik değerlendirmeyi içermelidir. II. TASARIM VE YAPIM İLE İLGİLİ GEREKLER 6) İmalatçının vücuda yerleştirilebilir aktif tıbbi cihazların tasarım ve yapımında benimsediği çözümler, genel olarak kabul görmüş teknik yöntemleri içermeli ve güvenlik prensiplerine uygun olmalıdır. 7) Vücuda yerleştirilebilir aktif tıbbi cihazlar, şartları imalatçı tarafından belirlenmiş olan ulaşım, depolama ve dağıtım sırasında ve vücuda yerleştirildiklerinde paketlerinin açılacağı ana kadar steril kalmalarını sağlayacak ve tekrar kullanılmalarına imkan vermeyecek şekilde tasarlanıp imal edilmeli ve paketlenmelidirler. 8) Vücuda yerleştirilebilir aktif tıbbi cihazlar, aşağıda belirtilen hususları engelleyecek veya en aza indirgeyecek şekilde tasarlanıp imal edilmelidirler: - Boyutları da dâhil olmak üzere fiziksel özelliklerine bağlı hasar riski, - Enerji kaynaklarının kullanılması, özellikle elektriğin kullanıldığı durumlarda izolasyon, akım kaçağı ve vücuda yerleştirilebilir aktif tıbbi cihazın aşırı ısınması ile ilgili olan riskler, - Manyetik alanlar, harici elektriksel etkiler, elektrostatik deşarjlar, basınç veya basınç ve hızlanma değişiklikleri gibi makul bir şekilde önceden tahmin edilebilecek çevresel şartlarla ilgili riskler, - Özellikle defibrilatörler veya yüksek frekanslı cerrahi ekipman kullanılmasından kaynaklanan tıbbi tedavilerle ilişkili riskler, - Radyasyon güvenliği ve tıbbi ışınlamalara ilişkin düzenlemelere uygun olarak vücuda yerleştirilebilir aktif tıbbi cihazın içinde bulunan radyoaktif maddelerden gelecek iyonize radyasyonla ilişkili riskler, - Bakım ve kalibrasyonun mümkün olmadığı durumlarda ortaya çıkabilen riskler, bunlar: - Akım kaçağının aşırı artışı, - Kullanılan maddenin yaşlanması, - Vücuda yerleştirilebilir aktif tıbbi cihaz tarafından aşırı ısı oluşturulması, - Herhangi bir ölçüm veya kontrol mekanizmasının doğruluğunun azalması. 9) Vücuda yerleştirilebilir aktif tıbbi cihazlar özellikle aşağıdaki hususlar da dikkate alınarak "Genel Gerekler" bölümündeki özellikleri ve performansı sağlayacak şekilde tasarlanıp imal edilmelidir. - Özellikle toksisite yönü dikkate alınarak kullanılan maddenin seçimi, - Vücuda yerleştirilebilir aktif tıbbi cihazın kullanım alanı dikkate alındığında maddenin yüzeyi ile biyolojik dokular, hücreler ve vücut sıvıları arasındaki karşılıklı uyum, - Birlikte uygulanacak olan maddelerle vücuda yerleştirilebilir aktif tıbbi cihazın uyumu, - Özellikle emniyet yönünden bağlantıların kalitesi, - Enerji kaynağının güvenilirliği, - Eğer mümkünse sızıntıya yol açmaması, - Programlama ve kontrol sistemlerinin yazılım dâhil uygun çalışması; yazılım içeren veya kendisi bir tıbbi yazılım olan vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda bu yazılımlar, gelişim evreleri, risk yönetimi, geçerli kılma ve doğrulama ilkeleri dikkate alınarak, güncel teknolojiye uygun olmalıdır. 10) Tek başına kullanıldığında Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinde yer alan tıbbi ürün kapsamında değerlendirilen bir madde, vücuda yerleştirilebilir aktif tıbbi cihazın insan vücudu üzerindeki fonksiyonunu destekleyen tamamlayıcı bir parçası olarak kullanıldığında, bu maddenin güvenli, kaliteli ve yararlı olup olmadığı, söz konusu Yönetmelikte tanımlanan uygun metotlar ile kıyaslanmak suretiyle değerlendirilmelidir. Birinci paragrafta belirtilen maddelerle ilgili olarak; onaylanmış kuruluş, bu maddenin vücuda yerleştirilebilir aktif tıbbi cihazın bir parçası olarak kullanılmasının faydalı olup olmadığını değerlendirmek ve cihazın kullanım amacını dikkate almak suretiyle, söz konusu maddenin kaliteli ve güvenli olup olmadığına ve bu cihazda kullanılmasının ortaya çıkaracağı klinik fayda/risk profiline ilişkin olarak Bakanlığın veya Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) ilgili mevzuata uygun olarak vereceği bilimsel görüşe başvurur. Söz konusu bilimsel görüşte, imalat süreci ve bu maddenin vücuda yerleştirilebilir aktif tıbbi cihaza eklenmesinin sağlayacağı faydaya ilişkin onaylanmış kuruluş tarafından hazırlanan veriler dikkate alınır. Vücuda yerleştirilebilir aktif tıbbi cihaz, bütünün bir parçası olarak insan kanı türevi ihtiva ediyorsa, onaylanmış kuruluş, bu maddenin söz konusu cihazın parçası olarak kullanılmasının yararlı olup olmadığını değerlendirmek ve cihazın kullanım amacını dikkate almak suretiyle, bu türevin kaliteli ve güvenli olup olmadığına ve cihazda kullanılmasının ortaya çıkaracağı klinik fayda/risk profiline ilişkin olarak Avrupa Tıbbi Ürünler Değerlendirme Ajansından (EMEA) bilimsel görüş ister. Söz konusu bilimsel görüşte, imalat sürecini ve bu maddenin vücuda yerleştirilebilir aktif tıbbi cihazda kullanılmasının sağlayacağı faydaya ilişkin onaylanmış kuruluş tarafından hazırlanan veriler dikkate alınır. Vücuda yerleştirilebilir aktif tıbbi cihazda yer alan ve özellikle de imalat sürecine ilişkin tamamlayıcı maddeler üzerinde değişiklik yapıldığında, bu değişiklikler onaylanmış kuruluşa bildirilir. Onaylanmış kuruluş bu maddelerin kaliteli ve güvenli olma durumlarının korunduğunu teyit amacıyla, daha önce görüş aldığı Bakanlığa veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) tekrar başvurur. Görüş veren kurum, yapılan değişikliklerin vücuda yerleştirilebilir aktif tıbbi cihazdaki madde için daha önce hazırlanan fayda/risk profilini olumsuz etkilemediğini teyit etmek üzere, söz konusu maddenin bu cihaza eklenmesinin sağlayacağı faydaya ilişkin onaylanmış kuruluş tarafından hazırlanan verileri dikkate alır. Görüşü veren kurum, söz konusu tamamlayıcı maddenin vücuda yerleştirilebilir aktif tıbbi cihazda kullanılması halinde mevcut fayda/risk profilini etkileyebileceğine dair bilgiye ulaştığında, böyle bir etkinin olup olmadığı konusundaki görüşünü onaylanmış kuruluşa bildirir. Onaylanmış kuruluş, uygunluk değerlendirme sürecinin değerlendirilmesinde güncel bilimsel görüşü dikkate alır. 11) Vücuda yerleştirilebilir aktif tıbbi cihaz ile parçaları arasındaki bağlantıyla ilgili potansiyel bir riskin belirlenmesi halinde, gerekli ölçümlerin yapılabilmesi için, söz konusu cihaz ve eğer uygunsa parçalarının tanımlanmaları gerekir. 12) Vücuda yerleştirilebilir aktif tıbbi cihazlar, kendilerinin ve imalatçılarının açıkça tanımlanabilmelerini sağlayan özellikle cihaz tipi ve üretim yılını içeren bir kod taşımalıdır. Gerektiğinde cerrahi bir müdahale olmaksızın bu kod anlaşılabilmelidir. 13) Vücuda yerleştirilebilir aktif tıbbi cihaz veya aksesuarları, cihazın çalıştırılması veya ayarlama parametreleri için gerekli olan bilgileri görünür şekilde taşıyorsa, bu bilgiler kullanıcı ve hasta tarafından anlaşılır nitelikte olmalıdır. 14) Vücuda yerleştirilebilir aktif tıbbi cihaz, aşağıdaki bilgileri okunaklı ve silinmez şekilde taşımalıdır. Bu bilgiler varsa genel kabul görmüş sembollerle verilebilir. 14.1. Steril ambalaj üzerinde aşağıdaki bilgiler yer almalıdır: - Sterilizasyon yöntemi, - Paketlemenin tanınmasını sağlamak için bir işaret, - İmalatçının ismi ve adresi, - Vücuda yerleştirilebilir aktif tıbbi cihazın tanımı, - Klinik araştırma amaçlı cihaz ise "Klinik Araştırmaya Mahsustur" ibaresi, - Ismarlama üretilen cihaz ise "Ismarlama Üretilen Cihaz" ibaresi, - Vücuda yerleştirilebilir aktif tıbbi cihazın steril durumda olduğunu gösteren bir bilgi, - İmalat ayı ve yılı, - Vücuda yerleştirilebilir aktif tıbbi cihazın güvenli bir şekilde uygulanabileceği zaman limiti. 14.2. Satış ambalajında aşağıdaki bilgiler yer almalıdır: - İmalatçının ismi ve adresi; ithal vücuda yerleştirilebilir aktif tıbbi cihazlar için, ayrıca yetkili temsilcinin ve/veya ithalatçının adı veya ticari adı ve adresi, - Vücuda yerleştirilebilir aktif tıbbi cihazın tanımı, - Vücuda yerleştirilebilir aktif tıbbi cihazın kullanım amacı, - Kullanıma ilişkin özellikler, - Klinik araştırma amaçlı cihaz ise "Klinik Araştırmaya Mahsustur" ibaresi, - Ismarlama üretilen cihaz ise "Ismarlama Üretilen Cihaz" ibaresi, - Vücuda yerleştirilebilir aktif tıbbi cihazın steril durumda olduğunu gösteren bir bilgi, - İmalat ayı ve yılı, - Vücuda yerleştirilebilir aktif tıbbi cihazın güvenli bir şekilde uygulanabileceği zaman limiti, - Vücuda yerleştirilebilir aktif tıbbi cihazın taşıma ve depolama koşulları, - Vücuda yerleştirilebilir aktif tıbbi cihazın bir insan kanı türevi ihtiva etmesi durumunda bunu belirtir ibare. 15) Piyasaya arz edildiğinde her vücuda yerleştirilebilir aktif tıbbi cihaz, kullanımı ile ilgili aşağıda belirtilen özellikleri açıklayan bilgilerle donatılmış olmalıdır: - CE işaretinin iliştirilmesi izninin yılı, - Bu Ekin (14.1) ve (14.2) numaralı kısımlarında, sekizinci ve dokuzuncu cümleler hariç olmak üzere, belirtilen hususlar, - Bu Ekin (2) numaralı kısmında belirtilen performanslar ve istenmeyen tüm yan etkiler, - Hekimin uygun vücuda yerleştirilebilir aktif tıbbi cihazı, aksesuarlarını ve bilgisayar yazılımını seçmesini sağlayacak bilgiler, - Hekimin ve gerektiğinde hastanın, vücuda yerleştirilebilir aktif tıbbi cihazı, aksesuarlarını ve yazılımını doğru olarak kullanmasını sağlayacak gerekli talimatlar, bunun yanı sıra söz konusu cihazın yapısı, kapsamı, kontrol ve deneme zamanları ile mümkünse devamlılığı sağlayan önlemler hakkında bilgiler, - Mümkünse vücuda yerleştirilebilir aktif tıbbi cihazın uygulanması ile ilgili risklerden kaçınabilmeyi sağlayacak bilgiler, - Özel bir araştırma veya tedavi sırasında vücuda yerleştirilebilir aktif tıbbi cihazın, etraftaki diğer cihazlardan olumsuz yönde etkilenmesi halinde oluşabilecek risklerle ilgili bilgiler, - Steril ambalajın hasara uğraması durumunda gerekli talimatlar ve uygunsa yeniden sterilizasyon için uygun yöntemlerin ayrıntıları, - Temel gerekleri sağlayan vücuda yerleştirilebilir aktif tıbbi cihazların, uygunsa, sadece imalatçının sorumluluğu altında tekrar kullanılabilmesi için gerekli talimatlar. Kullanım kılavuzu, kontrendikasyonlar ve alınacak önlemler hakkında hekimin hastayı bilgilendirmesini sağlayacak ayrıntıları da içermelidir. Bu ayrıntılar özellikle aşağıdakileri kapsamalıdır: - Enerji kaynağının ömrü ile ilgili bilgiler, - Vücuda yerleştirilebilir aktif tıbbi cihazın performansında değişiklik olduğunda alınacak önlemler, - Manyetik alanlar, harici elektriksel etkiler, elektrostatik deşarjlar, basınç veya basınç değişiklikleri ve hızlanma gibi daha önceden tahmin edilebilecek çevresel etkilere maruz kalındığında alınacak önlemler, - Vücuda yerleştirilebilir aktif tıbbi cihaz kullanılarak hastaya uygulanacak tıbbi ürünlerle ilgili yeterli bilgi, - Kullanım kılavuzunun basım tarihi veya en son güncelleme bilgisi. 16) Vücuda yerleştirilebilir aktif tıbbi cihaz normal kullanım şartlarında bu Ekin genel gerekler bölümünde belirtilen özellikler ve performanslarla ilgili zorunluluklara uymalıdır. Ayrıca, istenmeyen veya yan etkilerin değerlendirilmesinde Ek VII ile uyumlu klinik veriler esas alınmalıdır. EK II AT UYGUNLUK BEYANI (Tam Kalite Güvence Sistemi) 1) İmalatçı, vücuda yerleştirilebilir aktif tıbbi cihazların tasarımı, imalatı ve nihaî kontrolleri için, bu Ekin (3) ve (4) numaralı kısmında belirtilen onaylanan kalite sisteminin uygulanmasını sağlar; ayrıca, gözetim ve denetim hususunda, bu Ekin (5) numaralı kısmında belirtilen işlemlere tâbidir. 2 ) AT Uygunluk Beyanı (EC Declaration of Conformity) bu Ekin (1) numaralı kısmında belirtilen zorunlulukları yerine getiren imalatçının, söz konusu ürünlerin bu Yönetmelik hükümlerine uygun olduğunu temin ve beyan ettiğini gösteren işlemdir. Buna göre imalatçı, bu Yönetmeliğin 15 inci maddesine uygun olarak CE işaretini iliştirir ve yazılı bir uygunluk beyanı hazırlar. İmalatçı tarafından muhafaza edilecek olan bu beyan, imal edilen tüm vücuda yerleştirilebilir aktif tıbbi cihazları içermeli ve söz konusu cihazlar ürün adı, ürün kodu veya diğer ibarelerle açıkça tanımlanmalıdır. CE işareti, sorumlu onaylanmış kuruluşun kimlik numarası ile birlikte yer alır. 3) Kalite sistemi: 3.1. İmalatçı, kalite sisteminin değerlendirilmesi için onaylanmış kuruluşa başvurur. Bu başvuru aşağıdaki hususları içerir: - İmalatı öngörülen ürün kategorisi için tüm uygun bilgiler, - Kalite sistemi hakkında belgeler, - İmalatçının, onaylanan kalite sisteminin gereklerini yerine getirme taahhüdü, - Onaylanan kalite sisteminin eksiksiz ve etkili olarak sürdürüleceğine dair imalatçı taahhüdü, - Ek VII’deki hükümler de dâhil olmak üzere, piyasaya arz sonrası gözetim ve denetim sisteminin oluşturulması ve bu sistemin güncel tutulmasına dair imalatçı taahhüdü. Bu taahhüt, imalatçının aşağıda belirtilen durumlardan bilgisi olduğu andan itibaren Bakanlığı derhal haberdar etme zorunluluğunu kapsar: a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan; 1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması, 2) Kullanım kılavuzu ve etiketteki yetersizlikler, b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler. 3.2. Kalite sistemi uygulaması; tasarımdan nihaî kontrole kadar bütün aşamalarda, ürünlerin bu Yönetmelik hükümlerine uygunluğunu garanti etmelidir. Kalite sistemi için imalatçı tarafından benimsenen bütün hükümler, gerekler ve öngörüler, sistematik ve düzenli olarak yazılı politika ve işlemler şeklinde belgelendirilmelidir. Bu kalite sistem belgelendirmesi, kalite planları, programları, el kitapları ve kayıtlar gibi kalite politikası ve işlemlerinin aynı şekilde yorumlanmasına imkân vermeli, ayrıca aşağıdaki hususların yanı sıra (c) bendinde belirtilen işlemlerden elde edilen belgeleri, verileri ve kayıtları bilhassa içermelidir. a) İmalatçının kalite hedefleri, b) İşletmenin organizasyon yapısı ve özellikle; - Vücuda yerleştirilebilir aktif tıbbi cihazın tasarım kalitesi ve imalatı konusunda yetkililerin ve çalışanların sorumlulukları, yetkileri ve kurumsal yapılanma, - Uygun olmayan cihazların kontrolü dâhil, vücuda yerleştirilebilir aktif tıbbi cihazların ve tasarımlarının istenen kalitede olması için kalite sisteminin etkin işleyişini kontrol etmeyi sağlayan metotlar, - Vücuda yerleştirilebilir aktif tıbbi cihazın veya parçalarının tasarımı, imalatı ve/veya nihai muayene ve test işlemleri üçüncü taraflarca yapılıyor ise, kalite sisteminin etkin işleyişinin ve özellikle de söz konusu üçüncü tarafa uygulanan kontrolün şeklinin ve kapsamının izlenmesine yönelik yöntemler; c) Vücuda yerleştirilebilir aktif tıbbi cihazların tasarımının izlenmesi ve doğrulanması işlemleri, bununla ilgili belgeleri ve özellikle aşağıdaki hususları; - Bu Yönetmeliğin 7 nci maddesinde belirtilen standartlar tümüyle uygulanmadığında, vücuda yerleştirilebilir aktif tıbbi cihazların temel gerekleri karşılaması için benimsenen çözümlerin tanımı ve uygulanacak standartları içeren tasarım özellikleri, - Vücuda yerleştirilebilir aktif tıbbi cihazların tasarımı esnasında kullanılacak olan sistematik ölçümler, işlemler ile tasarım kontrol ve doğrulama teknikleri, - Ek I/10’da bahsedilen ve vücuda yerleştirilebilir aktif tıbbi cihazın, bir bütünün parçası olarak insan kanı türevi veya bir maddeyi ihtiva edip etmediğini gösteren ifade ile söz konusu cihazın öngörülen amacı dikkate alınarak insan kanı türevi veya maddenin kullanışlılığının, kalitesinin ve güvenilirliğinin değerlendirilmesi için gereken test sonuçlarına ait veriler, - Klinik öncesi değerlendirme, - Ek VII’de belirtilen klinik değerlendirme, ç) İmalat aşamasındaki kontrol ve kalite güvencesi teknikleri; - Özellikle sterilizasyon ve satın alma konusunda kullanılacak süreçler, işlemler ve ilgili belgeler, - İmalatın her aşamasındaki çizimlerden, özelliklerden veya diğer ilgili belgelerden yararlanarak hazırlanan ve güncel tutulan, vücuda yerleştirilebilir aktif tıbbi cihaz tanımlama işlemleri, d) İmalat öncesinde, esnasında ve sonrasında yapılacak uygun test ve denemeler, bunların hangi sıklıkla yapılacağı, kullanılan test cihazları. 3.3. Bu Yönetmeliğin 16 ncı maddesinin hükümleri saklı kalmak kaydıyla onaylanmış kuruluş, kalite sisteminin bu Ekin (3.2) numaralı kısmında belirtilen gereklere uygun olup olmadığını saptamak için denetimini yapar. İlgili uyumlaştırılmış standartların uygulandığı kalite sistemlerinin, söz konusu gereklere uygun olduğu kabul edilir. Değerlendirme ekibinde en az bir üyenin, ilgili teknoloji hakkında değerlendirme deneyimi olmalıdır. Değerlendirme işlemi, imalat süreçlerinin denetimi için imalatçının, gerektiğinde imalatçının tedarikçisinin ve/veya yüklenicisinin yerinde denetimini içermelidir. Karar, denetim sonuçları ve açıklamalı değerlendirmeyle birlikte imalatçıya tebliğ edilir. 3.4. İmalatçı, kalite sistemine getirmeyi planladığı önemli değişikliklere ilişkin bütün tasarıları hakkında, kalite sistemini onaylayan onaylanmış kuruluşa bilgi verir. Onaylanmış kuruluş, teklif edilen değişiklikleri değerlendirir ve kalite sistemindeki bu değişikliklerin bu Ekin (3.2) numaralı kısmında belirtilen gereklere uyup uymadığını inceler ve kararını imalatçıya tebliğ eder. Bu karar, denetimin sonuçlarını ve açıklamalı değerlendirmeyi de kapsar. 4) Ürün tasarımının incelenmesi: 4.1. İmalatçı, bu Ekin (3) numaralı kısmında belirtilen gereklere ilaveten, bu Ekin (3.1) numaralı kısmına göre imalatını planladığı vücuda yerleştirilebilir aktif tıbbi cihazın tasarım dosyasının incelenmesi için başvuruda bulunur. 4.2. Başvuru, söz konusu ürünün tasarımını, imalatını ve performansını tanımlar, bu Yönetmeliğin gereklerine ve özellikle Ek II’nin (3.2) numaralı kısmının (c) ve (ç) bentlerine uygun olup olmadığını değerlendirmek için gerekli bilgileri içerir. Bu başvuru öncelikle şu hususları kapsar; - Uygulanan standartlar dâhil, tasarım özelliklerini, - Özellikle bu Yönetmeliğin 7 nci maddesinde öngörülen standartlar tamamıyla uygulanmadığı zaman imalatçı veya onun sorumluluğunda yürütülen uygun test sonuçlarını da içeren gerekli uygunluk kanıtını, - Vücuda yerleştirilebilir aktif tıbbi cihazla birlikte kullanıldığında biyoyararlanım etkisi olan ve Ek I’in (10) numaralı kısmında belirtilen maddenin cihazın bir parçası olarak kullanılıp kullanılmadığına dair bilgi ve yapılan denemelere ilişkin verileri, - Ek VII’de belirtilen klinik değerlendirmeyi, - Kullanım kılavuzu taslağını. 4.3. Onaylanmış kuruluş başvuruyu inceler ve vücuda yerleştirilebilir aktif tıbbi cihaz bu Yönetmelik hükümlerine uygun ise, başvuru sahibine AT Tasarım-İnceleme Sertifikası (EC Design-Examination Certificate) verir. Onaylanmış kuruluş, bu Yönetmeliğin gereklerine uygunluğun değerlendirilmesi amacıyla başvuru sürecinde ilave kanıtlar ve deneyler isteyebilir. Sertifika; inceleme sonuçlarını, geçerlilik şartlarını, onaylanan tasarımın tanımında gerekli verileri ve gerektiğinde vücuda yerleştirilebilir aktif tıbbi cihazın amacını da kapsar. Ek I/10’un ikinci paragrafında belirtilen vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda, onaylanmış kuruluş anılan bölümde bahsedilen durum hakkında bir karar almadan önce Bakanlığa veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) danışır. Bakanlık veya Avrupa Tıbbi Ürünler Değerlendirme Ajansı (EMEA) geçerli belgelerin kendisine teslim edildiği tarihten itibaren 210 (ikiyüzon) gün içinde görüş verir. Söz konusu bilimsel görüş, vücuda yerleştirilebilir aktif tıbbi cihazla ilgili belgelendirmede yer alır. Onaylanmış kuruluş, kararını verirken bilimsel görüşte ifade edilen hususları göz önünde bulundurur ve nihaî kararını Bakanlığa ve/veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) iletir. Ek I/10’un üçüncü paragrafında belirtilen vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda, cihaz ile ilgili belgelere Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) bilimsel görüşü de dâhil edilmelidir. Avrupa Tıbbi Ürünler Değerlendirme Ajansı (EMEA) bilimsel görüşünü, geçerli belgelerin kendisine teslim edildiği tarihten itibaren 210 (ikiyüzon) gün içinde verir. Onaylanmış kuruluş kararını verirken Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) görüşünü göz önünde bulundurur. Şayet, Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) bilimsel görüşü olumlu değil ise, onaylanmış kuruluş, sertifikayı vermeyebilir. Onaylanmış kuruluş nihai kararını Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) iletir. 4.4. Başvuru sahibi, onaylanan tasarımda yapılan bütün değişikliklerden, AT Tasarım İnceleme Sertifikasını veren onaylanmış kuruluşu bilgilendirir. Onaylanan tasarımda yapılan değişiklik, ürünün kullanımı için belirtilen şartlara veya bu Yönetmeliğin temel gereklerine uymayı etkiliyorsa, AT Tasarım İnceleme Sertifikasını veren onaylanmış kuruluşun tamamlayıcı ek bir onayı alınmalıdır. Bu ek onay, AT Tasarım İnceleme Sertifikasına ilave bir form şeklinde verilir. 5) Gözetim ve denetim: 5.1. Gözetim ve denetimin amacı, imalatçının onaylanan kalite sisteminin gereklerini tam olarak yerine getirmesini sağlamaktır. 5.2. İmalatçı, onaylanmış kuruluşu gerekli tüm denetimleri yapması için yetkilendirir ve ona gerekli bütün bilgileri temin eder. Bu bilgiler; - Kalite sistemine ilişkin belgeler, - Kalite sisteminin tasarımla ilgili bölümünde öngörülen analiz sonuçları, hesaplamalar, testler, klinik öncesi ve klinik değerlendirmeler, piyasaya arz sonrası klinik izleme planı ve sonuçları gibi veriler, - Kalite sisteminin imalatla ilgili bölümünde öngörülen muayene raporları, test verileri, kalibrasyon verileri ve ilgili personelin nitelikleri hakkındaki raporlar gibi veriler. 5.3. Onaylanmış kuruluş, imalatçının onaylanan kalite sistemine uymasını sağlamak amacıyla periyodik olarak denetim ve değerlendirme yapar, imalatçıya değerlendirme raporu verir. 5.4. Onaylanmış kuruluş, imalatçıya habersiz ziyaretler yapabilir ve denetim raporunu imalatçıya verir. 6) İdarî hükümler: 6.1. İmalatçı veya yetkili temsilcisi Bakanlığa ibraz etmek üzere, imal edilen son vücuda yerleştirilebilir aktif tıbbi cihazın imalat tarihinden itibaren en az 15 (onbeş) yıl süreyle aşağıdaki belgeleri saklar: - Uygunluk beyanı, - Bu Ekin (3.1) numaralı kısmında belirtilen kalite sistemi belgeleri ve özellikle (3.2) numaralı kısmın ikinci paragrafında yer alan belgeler, veriler ve kayıtlar, - Bu Ekin (3.4) numaralı kısmında belirtilen değişiklikler, - Bu Ekin (4.2) numaralı kısmında belirtilen belgeler, - Bu Ekin (3.4), (4.3), (5.3) ve (5.4) numaralı kısımlarında belirtilen onaylanmış kuruluş kararları ve raporları. 6.2. Onaylanmış kuruluş, diğer onaylanmış kuruluşlara ve Bakanlığa, talepleri halinde onaylanan, reddedilen ya da iptal edilen kalite sistemi başvuruları hakkında bütün bilgileri vermek zorundadır. 7) İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlara yönelik uygulama: İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlardan her bir partinin/lotun imalatı tamamlandığında, imalatçı, onaylanmış kuruluşu cihaz partisinin/lotunun piyasaya arzı konusunda bilgilendirir ve bunların piyasaya arzı ile ilgili olarak devlet laboratuvarı veya Bakanlıkça belirlenen başka bir laboratuvar tarafından Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği hükümlerine göre verilen resmî sertifikayı onaylanmış kuruluşa gönderir. EK III AT TİP İNCELEMESİ 1) AT tip incelemesi; üretimi temsil eden numunenin bu Yönetmelik hükümlerine uygunluğunun onaylanmış kuruluş tarafından belgelendirilmesi işlemidir. 2) AT tip incelemesi için imalatçı veya yetkili temsilcisi onaylanmış kuruluşa başvuru yapar. Başvuru şu hususları içerir: - İmalatçının adı ve adresi; başvuru yetkili temsilci tarafından yapılmışsa yetkili temsilcinin adı ve adresi, - Aynı tip için başka bir onaylanmış kuruluşa başvuru yapılmadığına dair yazılı beyan, - Bu Yönetmelik hükümlerinde “tip” olarak tanımlanan üretimi temsil eden numunenin uygunluk değerlendirmesi için bu Ekin (3) numaralı kısmında belirtilen belgeler. Başvuru sahibi onaylanmış kuruluşa vermek üzere bir tip hazırlar. Onaylanmış kuruluş gerekirse başka numuneler de isteyebilir. 3) Verilen belgeler; tasarım, imalat ve vücuda yerleştirilebilir aktif tıbbi cihaz performanslarının anlaşılmasını sağlamalı ve aşağıdaki hususları içermeli: - Planlanan değişiklikler de dâhil olmak üzere, tipin genel bir tanımını ve kullanım amacını, - Tasarım çizimleri, özellikle sterilizasyonla ilgili öngörülen imalat metotları ile bileşenler, alt gruplar ve devreleri gösteren ayrıntılı şema, - Vücuda yerleştirilebilir aktif tıbbi cihazın çalışması, çizim ve şemaların anlaşılması için gerekli tanım ve açıklamalar, - Bu Yönetmeliğin 7 nci maddesinde belirtilen standartlardan tam veya kısmen uygulananların bir listesi ile bu standartlar uygulanmadığında, bu Yönetmeliğin temel gereklerini karşılamak için benimsenen çözümlerin tanımı, - Tasarım hesaplamaları, risk analizleri, incelemeler, teknik testler gibi yapılan işlemlerin sonuçları, - Vücuda yerleştirilebilir aktif tıbbi cihazın kullanım amacı dikkate alınarak, Ek I/10’da belirtilen bir madde veya insan kanı türevinin bir bütünün parçası olarak cihazın yapısında yer alıp almadığına ilişkin beyan ile bu madde veya insan kanı türevinin güvenilirliği, kalitesi ve kullanışlılığını değerlendirmek için yapılan testlere ait veriler, - Klinik öncesi değerlendirme, - Ek VII’de belirtilen klinik değerlendirme, - Kullanım kılavuzu taslağı. 4) Onaylanmış Kuruluş: 4.1. İbraz edilen belgelerin, tipe uygunluğunu ve tipin de belgelere uygun olarak imal edilip edilmediğini, bu Yönetmeliğin 7 nci maddesinde belirtilen standartların uygulanabilir hükümlerine uyulup uyulmadığını inceler, değerlendirir ve değerlendirme sonuçlarını kaydeder. 4.2. Bu Yönetmeliğin 7 nci maddesinde belirtilen standartların uygulanmadığı vücuda yerleştirilebilir aktif tıbbi cihazlar için imalatçının tavsiye ettiği çözümlerin bu Yönetmeliğin temel gereklerini karşılayıp karşılamadığını doğrulamak amacıyla uygun muayene ve testleri yapar veya yaptırır. 4.3. İmalatçının halen yürürlükte olan ilgili standartları seçmesi halinde, bu standartların gerçekten uygulanıp uygulanmadığını değerlendirmek için gerekli muayene ve testleri yapar veya yaptırır. 4.4. Gerekli muayene ve testlerin uygulanacağı yeri başvuru sahibi ile birlikte belirler. 5) Onaylanmış kuruluş, bu Yönetmelik hükümlerini yerine getiren imalatçıya AT Tip-İnceleme Sertifikasını (EC Type-Examination Certificate) verir. Sertifika, imalatçının adı ve adresini, denetim sonuçlarını, geçerlilik şartlarını ve onaylanan tip tanımlanması için gerekli verileri içerir. Belgenin ilgili bölümleri sertifikaya eklenir ve bir kopyası onaylanmış kuruluş tarafından saklanır. Ek I/10’un ikinci paragrafında belirtilen vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda, onaylanmış kuruluş bu bölümde bahsedilen durum hakkında bir karar almadan önce Bakanlığa veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) danışır. Bakanlık veya Avrupa Tıbbi Ürünler Değerlendirme Ajansı (EMEA) bilimsel görüşünü, geçerli belgelerin kendisine teslim edildiği tarihten itibaren 210 (ikiyüzon) gün içinde verir. Söz konusu görüş, vücuda yerleştirilebilir aktif tıbbi cihazla ilgili belgelendirmede yer alır. Onaylanmış kuruluş, kararını verirken bilimsel görüşte ifade edilen hususları göz önünde bulundurur ve nihaî kararını Bakanlığa ve/veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) iletir. Ek I/10’un üçüncü paragrafında belirtilen vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda, cihaz ile ilgili belgelere Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) bilimsel görüşü de dâhil edilmelidir. Avrupa Tıbbi Ürünler Değerlendirme Ajansı (EMEA) bilimsel görüşünü, geçerli belgelerin kendisine teslim edildiği tarihten itibaren 210 (ikiyüzon) gün içinde verir. Onaylanmış kuruluş kararını verirken Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) bilimsel görüşünü göz önünde bulundurur. Şayet, Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) görüşü olumlu değil ise, onaylanmış kuruluş sertifikayı vermeyebilir. Onaylanmış kuruluş nihai kararını Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) iletir. 6) Başvuru sahibi onaylanan üründe yapılan bütün önemli değişiklikleri, AT Tip-İnceleme Sertifikası veren onaylanmış kuruluşa bildirmek zorundadır. Tasarım değişiklikleri bu Yönetmeliğin temel gereklerine uygunluğu veya ürünün kullanımı için belirtilen şartları etkiliyorsa, bu değişiklikler için AT Tip-İnceleme Sertifikasını veren onaylanmış kuruluştan ek onay alınmalıdır. Başvuru sahibi, gerektiğinde, ilk AT Tip-İnceleme Sertifikasına ilaveten ek onay alır. 7) İdarî Hükümler: 7.1. Onaylanmış kuruluş, diğer onaylanmış kuruluşlara ve Bakanlığa talepleri halinde, onaylanan, reddedilen ya da iptal edilen kalite sistemi başvuruları hakkında bütün bilgileri vermek zorundadır. 7.2. Diğer onaylanmış kuruluşlar AT Tip-İnceleme Sertifikaları ve/veya bunların eklerinden bir kopya alabilir. Sertifikanın ekleri, imalatçının bilgisi dâhilinde, gerekçeli talep üzerine diğer onaylanmış kuruluşlara verilir. 7.3. İmalatçı veya yetkili temsilcisi, imal edilen son vücuda yerleştirilebilir aktif tıbbi cihazın imalat tarihinden itibaren en az 15 (onbeş) yıl süreyle AT Tip-İnceleme Sertifikasının bir kopyasını ve diğer eklerini teknik dokümanlarla birlikte saklar. EK IV AT DOĞRULAMASI 1) AT doğrulaması; imalatçının veya yetkili temsilcisinin, bu Ekin (3) numaralı kısmında açıklanan işlemlere tâbi olan vücuda yerleştirilebilir aktif tıbbi cihazların AT Tip-İnceleme Sertifikasında tanımlanan tipe uyduğunu ve bunlarla ilgili Yönetmelik hükümlerine uygun olduğunu beyan ve garanti ettiği işlemdir. 2) İmalatçı veya yetkili temsilcisi, üretilen vücuda yerleştirilebilir aktif tıbbi cihazların bu Yönetmelik hükümlerine ve AT Tip-İnceleme Sertifikasında tanımlanan tipin bütün özelliklerine tamamen uygun olması için imalat yöntemiyle ilgili gerekli tedbirleri alır. İmalatçı veya yetkili temsilcisi, her vücuda yerleştirilebilir aktif tıbbi cihaza CE işareti iliştirir ve bir uygunluk beyanı düzenler. 3) İmalatçı, üretilen vücuda yerleştirilebilir aktif tıbbi cihazların bu Yönetmelik hükümlerine ve AT Tip-İnceleme Sertifikasında tanımlanan tipin tüm özelliklerine uygun olması için imalat yöntemi ile ilgili gerekli önlemleri alır. İmalata başlamadan önce imalat işlemlerini açıklayan belgeleri özellikle sterilizasyon yöntemini, tüm rutin işlemleri, homojen üretimi sağlamak için önceden kabul edilmiş hükümlere, AT Tip-İnceleme Sertifikasına ve bu Yönetmeliğin ilgili hükümlerine uygunluğu gösteren belgeleri de hazırlar. 4) İmalatçı, Ek VII’de belirtilen hükümler dâhil olmak üzere, piyasaya arz sonrası aşamada vücuda yerleştirilebilir aktif tıbbi cihazın gözetimi ve denetimi için bir sistem kurulmasından ve güncel tutulmasından sorumludur. Bu kapsamda imalatçının aşağıda belirtilen durumlardan bilgisi olduğu andan itibaren Bakanlığı haberdar etme yükümlülüğü bulunmaktadır. a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan; 1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması, 2) Kullanım kılavuzu ve etiketteki yetersizlikler, b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler. 5) Onaylanmış kuruluş, bu Ekin (6) numaralı kısmında belirtildiği gibi ürünlerin istatistiksel doğrulamasını yaparak, Yönetmeliğin öngördüğü gereklerin yerine getirilip getirilmediğini doğrulamak amacıyla uygun test ve incelemeleri gerçekleştirir. İmalatçı bu Ekin (3) numaralı kısmında yer alan kurallar doğrultusunda alınan önlemlerin etkinliğinin değerlendirilmesi ve gerektiğinde denetim için onaylanmış kuruluşa yetki verir. 6) İstatistik doğrulama: 6.1. İmalatçı, nihai ürünleri homojen parti/lot numaraları ile sunmalı ve imalat sürecinde imal edilen her bir partinin/lotun tek tip olmasını garanti etmek için gerekli önlemleri almalıdır. 6.2. Her partiden/lottan rastgele numune alınır. Bu numuneler, ayrı ayrı incelenir. Partinin/lotun kabul veya reddedildiğini tespit etmek amacıyla mümkün olduğunda, vücuda yerleştirilebilir aktif tıbbi cihazın AT Tip-İnceleme Sertifikasında tanımlanan tipe uygunluğunu doğrulamak için bu Yönetmeliğin 7 nci maddesinde öngörülen ilgili standartlarda tanımlanan uygun testler veya eşdeğer testler yapılır. 6.3. Vücuda yerleştirilebilir aktif tıbbi cihazın istatistiksel kontrolü, en son teknolojiye uygun olarak yüksek düzeyde güvenlik ve performans sağlayan işlevsel özellikli örnekleme şemalarına ihtiyaç duyan niteliklere ve/veya değişkenlere dayanılarak yapılır. Bu örnekleme şeması, söz konusu cihaz kategorisinin özel niteliği dikkate alınarak, Yönetmeliğin 7 nci maddesinde belirtilen ilgili standartlara göre oluşturulur. 6.4. Eğer parti/lot kabul edilirse, onaylanmış kuruluş her bir vücuda yerleştirilebilir aktif tıbbi cihazın üzerine kendi kimlik numarasını basar veya bastırır ve gerçekleştirilen testler ile ilgili yazılı uygunluk sertifikası düzenler. Kabul edilen partideki/lottaki uygun olmayan numuneler haricindeki tüm vücuda yerleştirilebilir aktif tıbbi cihazlar piyasaya arz edilebilir. Eğer bir parti/lot reddedilirse, onaylanmış kuruluş bu partinin/lotun piyasaya arzını engellemek için gerekli tedbirleri alır. Partinin/lotun sıklıkla reddedilmesi durumunda, onaylanmış kuruluş istatistiksel doğrulamaya ara verebilir. İmalatçı, onaylanmış kuruluşun sorumluluğu altında, imalat işlemleri sırasında onaylanmış kuruluşun kimlik numarasını basabilir. 6.5. İmalatçı veya yetkili temsilcisi, onaylanmış kuruluşun hazırladığı uygunluk belgelerini, yetkili kişilerin talebi üzerine verir. 7) İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlara ilişkin uygulama: İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlarda, her bir cihaz partisinin/lotunun imalatının tamamlanması söz konusu olduğunda, imalatçı, onaylanmış kuruluşu bu cihaz partisinin/lotunun piyasaya arzı konusunda bilgilendirir ve bunların piyasaya arzı ile ilgili olarak devlet laboratuvarı veya Bakanlıkça belirlenen bir başka laboratuvar tarafından Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği hükümlerine göre düzenlenen resmî sertifikayı onaylanmış kuruluşa gönderir. EK V AT TİP UYGUNLUK BEYANI (Üretim Kalite Güvencesi ) 1) İmalatçı, imalat için onaylanan kalite sistemini uygulayarak vücuda yerleştirilebilir aktif tıbbi cihazların nihaî kontrollerini bu Ekin (3) numaralı kısmında belirtildiği gibi yapar; ayrıca, bu Ekin (4) numaralı kısmında belirtilen gözetim ve denetime tâbidir. 2) Uygunluk beyanı; bu Ekin (1) numaralı kısmında belirtilen gerekleri yerine getiren imalatçının, söz konusu ürünlerinin AT Tip-İnceleme Sertifikasında belirtilen tipe ve bu Yönetmeliğin ilgili hükümlerine uygunluğunu garanti eden ve bildiren işlemdir. İmalatçı veya yetkili temsilcisi, bu Yönetmeliğin 10 uncu maddesine uygun olarak CE işaretini iliştirir ve yazılı bir uygunluk beyanı hazırlar. Bu beyan ürün adı, ürün kodu veya diğer ibarelerle açıkça tanımlanmış tüm vücuda yerleştirilebilir aktif tıbbi cihazları içerir ve imalatçı tarafından muhafaza edilir. CE işaretinin yanında, bu Ekte belirtilen görevleri yerine getiren onaylanmış kuruluşun kimlik numarası yer almalıdır. 3) Kalite sistemi: 3.1. İmalatçı, kalite sisteminin değerlendirilmesi için onaylanmış kuruluşa başvurur. Başvuru şunları içerir: - İmalatı öngörülen ürün kategorisi için tüm uygun bilgiler, - Kalite sistemi hakkında belgeler, - İmalatçının, onaylanan kalite sisteminin gereklerini yerine getirme taahhüdü, - Onaylanan kalite sisteminin eksiksiz ve etkili olarak sürdürüleceğine dair imalatçı taahhüdü, - Gerektiğinde, onaylanan tipe ilişkin teknik belge ve AT Tip-İnceleme Sertifikasının bir örneği, - Ek VII’deki hükümler de dâhil olmak üzere, piyasaya arz sonrası gözetim ve denetim sisteminin oluşturulması ve bu sistemin güncel tutulmasına dair imalatçı taahhüdü. Bu taahhüt, imalatçının aşağıda belirtilen durumlardan bilgisi olduğu andan itibaren Bakanlığı derhal haberdar etme zorunluluğunu kapsar: a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan; 1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması, 2) Kullanım kılavuzu ve etiketteki yetersizlikler, b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler. 3.2. Kalite sisteminin uygulanması, ürünlerin AT Tip-İnceleme Sertifikasında belirtilen tipe uygunluğunu sağlamalıdır. Kalite sistemi için imalatçı tarafından benimsenen bütün hükümler, gerekler ve öngörüler, sistematik ve düzenli olarak yazılı politika ve işlemler şeklinde belgelendirilmelidir. Bu kalite sistem belgelendirmesi, kalite planları, programları, el kitapları ve kayıtlar gibi kalite politikası ve işlemlerinin aynı şekilde yorumlanmasına imkân vermelidir. Bu belge, özellikle aşağıdaki tanımları içerir: a) İmalatçının kalite hedefleri, b) İşletmenin organizasyon yapısı ve özellikle; - Vücuda yerleştirilebilir aktif tıbbi cihazın imalatı konusunda yetkililerin ve çalışanların sorumlulukları, yetkileri ve kurumsal yapılanma, - Uygun olmayan vücuda yerleştirilebilir aktif tıbbi cihazların kontrolü dâhil, kalite sisteminin etkin işleyişini ve özellikle istenen kalitede ürün gerçekleştirilmesini izlemek için kullanılan metotlar, - Vücuda yerleştirilebilir aktif tıbbi cihazın veya parçalarının imalatı ve/veya nihai muayene ve testi üçüncü taraflarca yapılıyor ise, kalite sisteminin etkin işleyişinin izlenmesine yönelik yöntemler ve özellikle de üçüncü tarafa uygulanan kontrolün şekli ve kapsamını; c) İmalat aşamasında kontrol ve kalite güvencesi teknikleri ve özellikle; - Sterilizasyon ve satın alma konusunda uygulanacak işlemler, yöntemler ve ilgili belgeler, - İmalatın her aşamasındaki çizimlerden, özelliklerden veya diğer ilgili belgelerden yararlanarak hazırlanan ve güncel tutulan, vücuda yerleştirilebilir aktif tıbbi cihaz tanımlama işlemleri, ç) İmalat öncesinde, esnasında ve sonrasında yapılacak uygun test ve denemeler, bunların hangi sıklıkla yapılacağı, kullanılan test cihazları. 3.3. Onaylanmış kuruluş, bu Yönetmeliğin 16 ncı maddesi hükümleri saklı kalmak kaydıyla, kalite sisteminin bu Ekin (3.2) numaralı kısmında belirtilen gereklere uygun olup olmadığını saptamak için denetim yapar. İlgili uyumlaştırılmış standartların uygulandığı kalite sistemlerinin, söz konusu gereklere uygun olduğu kabul edilir. Değerlendirme ekibinde en az bir üyenin, ilgili teknoloji hakkında değerlendirme deneyimi olmalıdır. Değerlendirme işlemi, imalatçının yerinde denetimini de içerir. Karar, denetim sonuçları ve açıklamalı değerlendirmeyle birlikte imalatçıya tebliğ edilir. 3.4. İmalatçı, kalite sistemine getirmeyi planladığı önemli değişikliklere ilişkin bütün tasarıları hakkında, kalite sistemini onaylayan onaylanmış kuruluşa bilgi verir. Onaylanmış kuruluş, teklif edilen değişiklikleri değerlendirir ve kalite sistemindeki bu değişikliklerin bu Ekin (3.2) numaralı kısmında belirtilen gereklere uyup uymadığını inceler ve kararını imalatçıya tebliğ eder. Bu karar, denetimin sonuçlarını ve açıklamalı değerlendirmeyi de kapsar. 4) Gözetim ve denetim: 4.1. Gözetim ve denetimin amacı, imalatçının onaylanan kalite sisteminin gereklerini tam olarak yerine getirmesini sağlamaktır. 4.2. İmalatçı, onaylanmış kuruluşu gerekli tüm denetimleri yapması için yetkilendirir ve ona gerekli bütün bilgileri temin eder. Bu bilgiler; - Kalite sistemine ilişkin belgeler, - Teknik belgeler, - Kalite sisteminin imalatla ilgili bölümünde öngörülen muayene raporları, test verileri, kalibrasyon verileri ve ilgili personelin nitelikleri hakkındaki raporlar gibi veriler. 4.3. Onaylanmış kuruluş, imalatçının onaylanan kalite sistemine uymasını sağlamak amacıyla periyodik olarak denetim ve değerlendirme yapar, imalatçıya değerlendirme raporu verir. 4.4. Onaylanmış kuruluş, imalatçıya habersiz ziyaretler yapabilir ve denetim raporunu imalatçıya verir. 5) Onaylanmış kuruluş, verilen, reddedilen veya geri alınan kalite sistemi onaylarıyla ilgili gerekli bilgileri diğer onaylanmış kuruluşlara verir. 6) İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlara ilişkin uygulama: İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlarda, her bir cihaz partisinin/lotunun imalatının tamamlanması söz konusu olduğunda, imalatçı, onaylanmış kuruluşu bu cihaz partisinin/lotunun piyasaya arzı konusunda bilgilendirir ve bunların piyasaya arzı ile ilgili olarak devlet laboratuvarı veya Bakanlıkça belirlenen bir başka laboratuvar tarafından Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği hükümlerine göre düzenlenen resmî sertifikayı onaylanmış kuruluşa gönderir. EK VI ÖZEL AMAÇLI CİHAZLARA İLİŞKİN BEYAN 1) İmalatçı veya yetkili temsilcisi, ısmarlama üretilen cihazlar veya klinik araştırma amaçlı cihazlar için bu Ekin (2) numaralı kısmında belirtilen bilgileri içeren bir beyan hazırlar. 2) Bu beyan aşağıdaki bilgileri kapsar: 2.1. Ismarlama üretilen cihazlar için; - İmalatçının adı ve adresi, - Vücuda yerleştirilebilir aktif tıbbi cihazı tanımlayıcı bilgiler, - Hastanın adıyla birlikte, vücuda yerleştirilebilir aktif tıbbi cihazın belirli bir hasta tarafından kullanılacağını belirten beyan, - Reçeteyi yazan tabibin adı, gerektiğinde ilgili kliniğin adı, - Reçetede belirtilen vücuda yerleştirilebilir aktif tıbbi cihazın spesifik özellikleri, - Söz konusu vücuda yerleştirilebilir aktif tıbbi cihazın Ek I’de belirtilen temel gereklere uygunluğunu ve bu gerekleri tam olarak karşılamadığı durumlarda, bunları gerekçesiyle birlikte açıklayan bir beyan. 2.2. Ek VII’da belirtilen klinik araştırma amaçlı cihazlar için; - Cihazı tanımlayıcı bilgiler, - Klinik araştırma planı, - Araştırmacı broşürü, - Araştırmaya konu olanların sigorta kapsamında olduğuna dair teyit, - Bilgilendirilmiş gönüllü olur formu, - Ek I/10’da belirtilen bir madde veya insan kanı türevinin bir bütünün parçası olarak cihazın yapısında yer alıp almadığına ilişkin beyan, - İlgili etik kurulun görüşleri ve bu görüşlerle ilgili detaylı açıklamalar, - Araştırmadan sorumlu kurumun ve tıbbi uygulayıcının veya diğer yetkili personelin adı, - Araştırmaların yapıldığı yer, başlama tarihi ve planlanan süresi, - Cihazın, araştırmalar kapsamındaki konular dışında kalan temel gereklere uygunluğu ile hastanın güvenliği ve sağlığının korunması amacıyla alınan tüm tedbirleri belirten beyan. 3) İmalatçı aynı zamanda Bakanlığa gerektiğinde sunmak üzere: 3.1. Bu Yönetmeliğin gereklerini taşıdığına ilişkin değerlendirme yapılmasına imkân verecek şekilde, ısmarlama üretilen cihazların tasarımına, imalatına, beklenen performansı ile birlikte gerçek performansına ve imalat yer(ler)ine ilişkin belgeyi hazır bulundurur. İmalatçı, imalat yönteminin, bu kısmın birinci paragrafında belirtilen belgeye uygun vücuda yerleştirilebilir aktif tıbbi cihaz imal etmesini sağlayacak şekilde gerekli bütün tedbirleri alır. 3.2. Klinik araştırma amaçlı cihazlara ilişkin belgeler aşağıdaki bilgileri içermelidir: - Cihazın genel tanımı ve kullanım amacı, - Tasarım çizimleri, özellikle sterilizasyonla ilgili öngörülen imalat metotları ile bileşenler, alt gruplar ve devreleri gösteren ayrıntılı şema, - Cihazın çalışması, çizim ve şemaların anlaşılması için gerekli tanım ve açıklamalar, - Risk analizi sonuçları ve bu Yönetmeliğin 7 nci maddesinde belirtilen standartlardan tam veya kısmen uygulananların bir listesi ile bu standartlar uygulanmadığında, bu Yönetmeliğin temel gereklerini karşılamak için benimsenen çözümlerin tanımı, - Cihazın, Ek I/10’da bahsedilen, bir bütünün parçası olarak insan kanı türevi veya bir madde ihtiva ettiği durumlarda, cihazın belirtilen amacını dikkate alarak, bu çerçevede, insan kanı türevi veya maddenin kullanışlılığının, kalitesinin ve güvenilirliğinin tayin edilmesi için gereken test sonuçlarına ait veriler, - Uygulanan kontroller ve teknik testler ile tasarım hesaplamaları gibi sonuçlar. İmalatçı, imalat sürecinde bu kısmın birinci paragrafında ve bu Ekin 3.1 kısmında belirtilen belgeye uygun cihaz imal edilmesini sağlayacak gerekli bütün tedbirleri alır. İmalatçı bu tedbirlerin etkililiğinin değerlendirilmesini veya gerektiğinde denetimini kabul ve taahhüt eder. 4) Bu Ekte öngörülen bilgi ve belgeler son ürünün imalat tarihinden itibaren en az 15 (onbeş) yıl süreyle saklanır. 5) Ismarlama üretilen cihazlar için imalatçı, üretim sonrası aşamada cihazlardan elde edilen verilerin, Ek VII’de yer alan hükümler de dâhil olmak üzere, gözden geçirilmesi ve gerekli düzeltici faaliyetlerin uygulanmasından sorumludur. Bu kapsamda imalatçının aşağıda belirtilen durumlardan bilgisi olduğu andan itibaren Bakanlığı derhal haberdar etme yükümlülüğü de bulunmaktadır: a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan; 1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması, 2) Kullanım kılavuzu ve etiketteki yetersizlikler, b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler. EK VII KLİNİK DEĞERLENDİRME 1) Genel Hükümler: 1.1. Genel bir kural olarak, vücuda yerleştirilebilir aktif tıbbi cihazın normal kullanım koşulları altında, Ek I’in (1) ve (2) numaralı kısımlarında belirtilen performans ve özellikler bakımından gerekleri karşıladığına ilişkin teyit ve Ek I’in (5) numaralı kısmında belirtilen fayda-risk oranının kabul edilebilirliğine ve yan etkilere ilişkin değerlendirme, klinik verilere dayanmalıdır. Bu verilere ilişkin değerlendirme, bundan böyle “klinik değerlendirme” olarak anılacak olup gerektiğinde ilgili uyumlaştırılmış standartlar dikkate alınmak suretiyle, metodolojik olarak kabul edilebilir ve tanımlanmış olan ve aşağıdaki hususlardan birine dayanan bir prosedürü izlemelidir. 1.1.1. Söz konusu prosedür; - Kendisi ile ilgili veri bulunan vücuda yerleştirilebilir aktif tıbbi cihaz ile değerlendirmeye tabi tutulan vücuda yerleştirilebilir aktif tıbbi cihazın eşdeğer olması ve - Söz konusu verilerin, ilgili temel gereklerle tam bir uyum göstermesi halinde, vücuda yerleştirilebilir aktif tıbbi cihazın güvenliğine, performansına, tasarım özelliklerine ve kullanım amacına ilişkin olarak mevcut ilgili bilimsel literatürün kritik değerlendirilmesine dayanabilir. 1.1.2. Söz konusu prosedür, yapılan tüm klinik araştırmalardan elde edilen sonuçların kritik değerlendirmesine dayanabilir. 1.1.3. Söz konusu prosedür, (1.1.1) ve (1.1.2) numaralı kısımlarda belirtilen klinik verilerin birleştirilmesi ile yapılacak kritik değerlendirmeye dayanabilir. 1.2. Mevcut klinik verilere dayandığı tam olarak gerekçelendirilemeyen vücuda yerleştirilebilir aktif tıbbi cihazlar için klinik araştırma yapılır. 1.3. Klinik değerlendirme ve elde edilen sonuçlar belgelendirilir. Söz konusu belgelere ve/veya bunları tam olarak tanımlayan bilgilere, vücuda yerleştirilebilir aktif tıbbi cihazın teknik dosyasında yer verilir. 1.4. Klinik değerlendirme ve buna ilişkin belgeler, piyasaya arz sonrası gözetim ve denetimden elde edilen veriler doğrultusunda sürekli olarak güncellenmelidir. Vücuda yerleştirilebilir aktif tıbbi cihazın piyasaya arz sonrası gözetim ve denetim planı kapsamında, piyasaya arz sonrası klinik takibin gerekli görülmediği hallerde, bu durum tam olarak gerekçelendirilir ve belgelendirilir. 1.5. Klinik verilere dayalı olarak temel gereklere uygunluğun gösterilmesinin uygun olmadığı durumlarda, vücuda yerleştirilebilir aktif tıbbi cihaz ile vücudun etkileşim özellikleri, amaçlanan klinik performans ve imalatçının savları dikkate alınarak ve risk yönetimi çıktılarına dayanılarak uygun bir gerekçelendirme yapılır. Sadece performans değerlendirmesine, kıyas testine ve klinik öncesi değerlendirmeye dayanılarak vücuda yerleştirilebilir aktif tıbbi cihazın temel gereklere uygunluğu gösterilecek ise bu durumun tam olarak gerekçelendirilmesi gerekir. 1.6. Tüm veriler, açıklanmalarının gerekli olduğuna karar verilene kadar gizli kalmalıdır. 2) Klinik Araştırmalar: 2.1. Klinik araştırmanın amacı; - Vücuda yerleştirilebilir aktif tıbbi cihazın normal kullanım koşullarındaki performansının Ek I’in (2) numaralı kısmına göre uygunluğunun değerlendirilmesi, - Normal kullanım koşullarındaki istenmeyen herhangi bir yan etkiyi ve bu etkinin vücuda yerleştirilebilir aktif tıbbi cihazın amaçlanan performansıyla kıyaslandığında kabul edilebilir bir risk oluşturup oluşturmadığının değerlendirilmesidir. 2.2. Etik Değerlendirmeler; Klinik araştırmalar, 1964’te Finlandiya’nın Helsinki şehrinde yapılan 18 inci Dünya Tıp Asamblesinde kabul edilen ve son düzenlemeleri Dünya Tıp Asamblesinde yapılan, Helsinki Bildirgesine göre gerçekleştirilmelidir. İnsan sağlığını korumaya yönelik bütün tedbirlerin Helsinki Bildirgesi çerçevesinde uygulanması zorunludur. Bu Bildirge, ihtiyacın fark edildiği ve çalışmanın gerekçelendirildiği andan sonuçların yayınlanmasına kadar, klinik araştırmanın her aşamasını içerir. 2.3. Metotlar; 2.3.1. Klinik araştırmalar, güncelliğini koruyan bilimsel ve teknik bilgileri yansıtan bir plana göre uygulanmalı ve imalatçının vücuda yerleştirilebilir aktif tıbbi cihaza ilişkin iddialarını doğrulayıcı veya reddedici şekilde belirlenmelidir. Bu araştırmalar, sonuçların bilimsel geçerliliğini garantileyen yeterli sayıda gözlem içermelidir. 2.3.2. Araştırmaları gerçekleştirmek için kullanılan metotlar incelenen vücuda yerleştirilebilir aktif tıbbi cihaza uygun olmalıdır. 2.3.3. Klinik araştırmalar vücuda yerleştirilebilir aktif tıbbi cihazın normal koşullarda kullanımına benzer şartlarda yapılmalıdır. 2.3.4. Vücuda yerleştirilebilir aktif tıbbi cihazın performansı ve güvenilirliği ile ilgili olanlar da dâhil, uygun bütün özellikleri ve bunların hasta üzerindeki etkileri incelenmelidir. 2.3.5. Bütün ciddi olumsuz durumlar, eksiksiz olarak kaydedilmeli ve klinik araştırmanın yapıldığı ülkeye/ülkelere ve bu ülkenin/ülkelerin adıyla birlikte Bakanlığa derhal bildirilmelidir. 2.3.6. Araştırmalar, ilgili vasıflı tıbbi uygulayıcı veya yetkili kişi tarafından uygun bir ortamda yapılmalıdır. İlgili tıbbi uzman vücuda yerleştirilebilir aktif tıbbi cihaza ilişkin teknik verilere sahip olmalıdır. 2.3.7 . Yazılan rapor, klinik araştırma süresince toplanan bütün verilerin eleştirel bir değerlendirilmesini içermeli ve sorumlu ilgili tıbbi uzman tarafından imzalanmalıdır. EK VIII ONAYLANMIŞ KURULUŞUN ATANMASINA İLİŞKİN ASGARÎ ÖZELLİKLER 1) Onaylanmış kuruluşun yöneticisi ile değerlendirme ve doğrulama işlemini yürüten personeli, aynı zamanda denetimlerini yaptıkları vücuda yerleştirilebilir aktif tıbbi cihazları tasarlayan, imal eden, temin eden veya kurulumunu yapan kişiler ya da bu kişilerin yetkili temsilcileri olamazlar. Bu kişiler vücuda yerleştirilebilir aktif tıbbi cihazların tasarımına, yapımına, pazarlanmasına veya bakımına doğrudan katılmamalı veya bu faaliyetlerde görev alan tarafları temsil etmemelidir. Bu hususlar imalatçı ile kurum arasındaki teknik bilgi alışverişini engellemez. 2) Onaylanmış kuruluş ve ilgili personeli, vücuda yerleştirilebilir aktif tıbbi cihazlar alanında yeterli teknik bilgiye sahip olmalı, değerlendirme ve doğrulama işlemlerini meslekî etik kurallar içinde gerçekleştirmelidir. Özellikle doğrulama sonuçlarından çıkar sağlayacak kişi ve gruplardan gelen denetim sonuçlarını etkileyebilecek tüm baskılarından ve parasal yönlendirmelerden uzak olmalıdırlar. 3) Onaylanmış kuruluş Ek II, III, IV ve V’den birine göre kendisine verilen görevi yapmaya veya kendi sorumluluğu altında yaptırmaya yetkin olmalıdır. Onaylanmış kuruluş, değerlendirme ve doğrulama faaliyetlerinin gerektirdiği teknik ve idarî işlemleri yürütmesi için gerekli personel ve teknik imkânlara sahip olmalıdır. Doğrulamalar için gerekli olan ekipmanlar ulaşılabilir olmalıdır. 4) Onaylanmış kuruluşun denetimden sorumlu personeli: - Atandığı değerlendirme ve doğrulama işlemlerinin tamamını kapsayan meslekî eğitime, - Yaptığı denetim kuralları hakkında yeterli bilgiye ve denetim tecrübesine, - Yapmış olduğu denetimleri gösteren sertifikaları, kayıtları ve raporları düzenleme becerisine, sahip olmalıdır. 5) Onaylanmış kuruluş, tarafsızlığını garanti etmelidir. Ücretler, yapılan denetimlerin sayısına veya sonuçlarına bağlı olmamalıdır. 6) Onaylanmış kuruluş, kendisine verilen yetkilere istinaden yaptığı her türlü işlem ile ilgili olarak hukukî sorumluluğu üstlenmelidir. 7) Bu Yönetmelik hükümlerine göre, onaylanmış kuruluşun personeli, görevi sebebiyle öğrendiği her türlü bilgileri yetkili idarî ve adlî mercilerin talepleri olması hali dışında, meslekî sır olarak saklamalıdır. EK IX CE UYGUNLUK İŞARETİ CE uygunluk işareti, "CE" harflerinden oluşur. - Eğer işaret büyültülür veya küçültülür ise, yukarıdaki çizim içinde gösterilen oranlar değişmemelidir. - CE işareti harfleri, aynı tarz ve dikey boyutlarda olmalıdır. Dikey boyut, 5 (beş) milimetreden küçük olamaz. Bu minimal boyut, küçük boyutlu vücuda yerleştirilebilir aktif tıbbi cihazlar için zorunlu değildir. |
+7 Haziran 2011 SALI
+
+Resmî Gazete
+
+Sayı : 27957
+
+### YÖNETMELİK
+
+Sağlık Bakanlığından:
+
+### VÜCUDA YERLEŞTİRİLEBİLİR AKTİF TIBBİ CİHAZLAR YÖNETMELİĞİ
+
+### BİRİNCİ BÖLÜM
+
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç ve kapsam
+
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı; vücuda yerleştirilebilir aktif tıbbi cihazların taşıması gereken temel gerekleri belirlemek ve bu cihazların kullanımı sırasında hastaların, uygulayıcıların, kullanıcıların ve üçüncü şahısların sağlık ve güvenliği açısından ortaya çıkabilecek tehlikelere karşı korunmalarını sağlamak amacıyla tasarımına, sınıflandırılmasına, üretimine, piyasaya arzına, hizmete sunulmasına ve denetlenmesine ilişkin usul ve esasları düzenlemektir.
+
+(2) Bu Yönetmelik; kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerin, vücuda yerleştirilebilir aktif tıbbi cihazların tasarımı, imalatı, piyasaya arzı, hizmete sunulması, kullanımı ve denetimi ile ilgili bütün faaliyetlerini kapsar.
+
+(3) Bir cihaz 19/1/2005 tarihli ve 25705 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği kapsamına giren bir tıbbi ürünün uygulanması amacıyla üretilmiş ise, anılan cihaz bu Yönetmelik kapsamında değerlendirilir. Bu durum, tıbbi ürüne Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği hükümlerinin uygulanmasını engellemez.
+
+(4) Cihaz, insan vücudu üzerindeki işlevine yardımcı olması amacıyla, bir madde ile entegre olarak kullanılıyorsa ve bu madde cihazdan bağımsız olarak kullanıldığında Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği kapsamında tıbbi ürün olarak kabul ediliyorsa, söz konusu cihaz bu Yönetmelik kapsamında değerlendirilir.
+
+(5) Cihaz, insan vücudu üzerindeki işlevine yardımcı olması amacıyla, bir madde ile entegre olarak kullanılıyorsa ve bu madde cihazdan bağımsız olarak kullanıldığında Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği kapsamında insan kanı veya plazmasından elde edilen bir tıbbi ürün (insan kanı türevi) olarak kabul ediliyor ise, söz konusu cihaz bu Yönetmelik kapsamında değerlendirilir.
+
+(6) Bu Yönetmelik;
+
+a) 19/1/2005 tarihli ve 25705 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği kapsamına giren tıbbi ürünlere,
+
+b) İnsan kanı türevleri hariç olmak üzere; insan kanı, kan ürünleri, insan kaynaklı plazma veya kan hücreleri ile insan hücresi, dokusu, nakil organları veya bunlardan imal edilen ürünlere,
+
+c) Cansız hayvan dokuları ve cansız hayvan dokularından imal edilen ürünleri içeren vücuda yerleştirilebilir aktif tıbbi cihazlar hariç olmak üzere, hayvan kökenli doku ve hücrelere
+
+uygulanmaz.
+
+(7) Bir ürünün Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği veya bu Yönetmelik kapsamında olup olmadığına karar verilirken ürünün aslî fonksiyonuna bakılır.
+
+(8) Bu Yönetmelik kapsamında uygunluk değerlendirmesine tabi tutulan cihazlar bakımından, 24/10/2007 tarihli ve 26680 sayılı Resmî Gazete’de yayımlanan Elektro Manyetik Uyumluluk Yönetmeliği hükümleri aranmaz.
+
+#### Dayanak
+
+**MADDE 2 –** (1) Bu Yönetmelik; 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanuna, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin birinci fıkrasının (k) bendi ile 9 uncu maddesinin birinci fıkrasının (c) bendine, 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+
+**MADDE 3 –** (1) Bu Yönetmelikte geçen;
+
+a) Aktif tıbbi cihaz: Yer çekiminin ya da insan vücudunun doğal olarak oluşturduğu enerji haricinde herhangi bir elektrik enerjisi veya güç kaynağıyla çalışan tıbbi cihazları,
+
+b) Bakanlık: Sağlık Bakanlığını,
+
+c) Hizmete sunmak: Bu Yönetmelik kapsamındaki bir cihazın, vücuda yerleştirilebilmesi için hazır hale getirilmesini,
+
+ç) Ismarlama üretilen cihaz: Toplu üretime tâbi olan ve tıbbi uygulayıcının isteklerine göre uyarlanan vücuda yerleştirilebilir aktif tıbbi cihazlar hariç olmak üzere; belirli tasarım özelliklerinin yer aldığı ve belirli bir hastada kullanılmak amacıyla, vasıflı tıbbi uygulayıcı tarafından düzenlenen reçeteye istinaden imal edilen vücuda yerleştirilebilir aktif tıbbi cihazı,
+
+d) İmalatçı: Bu Yönetmeliğe uygun olarak piyasada hazır bulunan vücuda yerleştirilebilir aktif tıbbi cihazları hastasına uygun hale getirip kullanıma hazırlayan kişiler hariç olmak üzere, bizzat kendisi veya kendisi adına üçüncü bir kişi tarafından yapılmış olmasına bakılmaksızın, vücuda yerleştirilebilir aktif tıbbi cihazı kendi adı altında piyasaya arz etmeden önce tasarlayan, imal eden, paketleyen ve etiketleyen gerçek veya tüzel kişiyi; ayrıca bir veya birden fazla hazır ürünü bir araya getiren, paketleyen, işleyen, tamamen yenileyen ve/veya etiketleyen ve/veya bunları kendi adı altında ve kullanım amacı doğrultusunda vücuda yerleştirilebilir aktif tıbbi cihaz olarak piyasaya arz eden gerçek veya tüzel kişiyi,
+
+e) Kanun: 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunu,
+
+f) Klinik araştırma amaçlı cihaz: Vasıflı tıbbi uygulayıcı veya klinik araştırma yapmaya yetkili kişi tarafından yeterli klinik ortamda insan üzerinde, Ek VII’nin (2.1) numaralı kısmına uygun olarak yapılacak klinik araştırmaya konu olan cihaz ya da cihazları,
+
+g) Klinik veri: Bir cihazın kullanımı sonucunda;
+
+1) Söz konusu cihaza ilişkin klinik araştırmalardan veya
+
+2) Bu cihaza denkliği gösterilebilen benzer bir cihaza ilişkin bilimsel literatürde yer alan klinik araştırmalardan veya diğer çalışmalardan ya da
+
+3) Söz konusu cihaz veya bu cihaza denkliği gösterilebilen benzer bir cihaza ilişkin diğer klinik deneyimler ile ilgili yayımlanmış ve/veya yayımlanmamış raporlardan
+
+elde edilen güvenlik ve/veya performans bilgilerini,
+
+ğ) Komisyon: Avrupa Birliği Komisyonunu,
+
+h) Kullanım amacı: İmalatçı tarafından teknik dosyada ayrıntılı olarak ifade edilen ve vücuda yerleştirilebilir aktif tıbbi cihazın kullanım kılavuzunda, tanıtım materyalinde veya etiketinde belirtilen kullanım maksadını,
+
+ı) Piyasaya arz: Klinik araştırma amaçlı cihazlar hariç olmak üzere; yeni veya tamamen yenilenmiş bir cihazın imalat süreci tamamlandıktan sonra ilk defa dağıtım ve/veya kullanım amacıyla, bedelli veya bedelsiz olarak piyasada yer alması için yapılan faaliyeti,
+
+i) Tıbbi cihaz: İnsanda kullanıldıklarında aslî fonksiyonunu farmakolojik, immünolojik veya metabolik etkiler ile sağlamayan fakat fonksiyonunu yerine getirirken bu etkiler tarafından desteklenebilen ve insan üzerinde;
+
+1) Hastalığın tanısı, önlenmesi, izlenmesi, tedavisi veya hafifletilmesi ya da
+
+2) Yaralanma veya sakatlığın tanısı, izlenmesi, tedavisi, hafifletilmesi veya mağduriyetin giderilmesi ya da
+
+3) Anatomik veya fizyolojik bir işlevin araştırılması, değiştirilmesi veya yerine başka bir şey konulması veyahut
+
+4) Doğum kontrolü
+
+amacıyla kullanılmak üzere imal edilmiş, tek başına veya birlikte kullanılabilen, imalatçısı tarafından özellikle tanı ve/veya tedavi amaçlı kullanılmak üzere imal edilmiş ve tıbbi cihazın amaçlanan işlevini yerine getirebilmesi için gerekli olan yazılımlar da dahil, her türlü araç, alet, teçhizat, yazılım, aksesuar veya diğer malzemeleri,
+
+j) Vücuda yerleştirilebilir aktif tıbbi cihaz: Tamamı veya bir kısmı, tıbbi veya cerrahi bir müdahale ile insan vücuduna ya da doğal bir vücut girişine veya boşluğuna yerleştirilen ve yerleştirildiği yerde kalması gereken aktif tıbbi cihazları,
+
+k) Yetkili temsilci: İmalatçı tarafından açık olarak yetkilendirilmiş olan ve imalatçı adına bu Yönetmelikte yer alan yükümlülükleri yerine getirmek üzere hareket eden ve kurum ve kuruluşlar tarafından muhatap alınabilen, Türkiye’de yerleşik gerçek veya tüzel kişiyi,
+
+ifade eder.
+
+### İKİNCİ BÖLÜM
+
+Piyasaya Arz ve Hizmete Sunum, Temel Gerekler, Serbest Dolaşım,
+
+Uyumlaştırılmış Standartlara Uygunluk ve Korumaya İlişkin Tedbirler
+
+#### Piyasaya arz ve hizmete sunum
+
+**MADDE 4 –** (1) Usulüne uygun tedarik edilmesi, vücuda yerleştirilmesi, kurulması, muhafaza edilmesi, bakımının yapılması ve amacına uygun olarak kullanımının sağlanabilmesi kaydıyla, bu Yönetmelik hükümlerini karşılayan cihazların piyasaya arzı ve/veya hizmete sunulması sağlanır.
+
+#### Temel gerekler
+
+**MADDE 5 –** (1) 3 üncü maddenin birinci fıkrasının (ç), (f) ve (j) bentlerinde tanımlanan cihazlar, kullanım amaçları da dikkate alınmak suretiyle, Ek I’de belirtilen temel gereklere uygun olmak zorundadır.
+
+(2) Bu Yönetmelik kapsamına giren cihazların 3/3/2009 tarihli ve 27158 sayılı Resmî Gazete’de yayımlanan Makina Emniyeti Yönetmeliği kapsamına da girdiği durumlarda, söz konusu Yönetmeliğin sağlık ve güvenliğe ilişkin spesifik temel gereklerinin de karşılanması gerekir.
+
+#### Serbest dolaşım
+
+**MADDE 6 –** (1) Bu Yönetmeliğin hükümlerine uygun olarak uygunluk değerlendirme işlemlerine tâbi tutulan ve CE işareti iliştirilen cihazların piyasaya arzı ve/veya hizmete sunulması engellenmez.
+
+(2) Aşağıda belirtilen cihazlara CE işareti iliştirilemez ve bu durumlar için herhangi bir engel konulmaz:
+
+a) 12 nci madde ile Ek VI’da belirtilen şartlara uygun olan klinik araştırma amaçlı cihazların, vasıflı tıbbi uygulayıcı veya klinik araştırma yapmaya yetkili kişi tarafından kullanılmasına,
+
+b) Ek VI’da belirtilen beyana sahip olmak koşuluyla bu Yönetmelik hükümlerine uygun olarak belirli bir hastanın kullanımına sunulan ısmarlama cihazların piyasaya arzına ve hizmete sunulmalarına.
+
+(3) Bu Yönetmelik hükümlerine uygun olmayan cihazların, Yönetmelik hükümlerine uygunluğu sağlanıncaya kadar piyasaya arz edilemeyeceğini ve hizmete sunulamayacağını açık bir şekilde gösteren bir işaret taşımaları kaydıyla, ticarî fuarlar ve sergilerde tanıtımı engellenemez.
+
+(4) Ek I’in (13), (14) ve (15) numaralı kısımlarında belirtilen ve imalatçı tarafından hastalara, kullanıcılara ve uygulayıcılara yönelik olarak vücuda yerleştirilebilir aktif tıbbi cihazla birlikte verilmesi gereken bilgiler, kullanım kılavuzları, etiket ve diğer açıklamalar söz konusu cihaz piyasaya arz edildiğinde Türkçe olmalıdır.
+
+#### Uyumlaştırılmış standartlara uygunluk
+
+**MADDE 7 –** (1) Avrupa Birliği tarafından yayımlanan uyumlaştırılmış standartlara uygun olarak imal edilen vücuda yerleştirilebilir aktif tıbbi cihazların, 5 inci maddede belirtilen temel gereklerin ilgili hükümlerini karşıladığı kabul edilir.
+
+(2) Uyumlaştırılmış standartlara uygunluk, özellikle tıbbi ürün içeren vücuda yerleştirilebilir aktif tıbbi cihazlarda kullanılan materyaller ile tıbbi ürünler arasındaki etkileşime ilişkin Avrupa Farmakopesi monograflarını da içerir.
+
+(3) Uyumlaştırılmış standartların temel gerekleri tam olarak karşılamadığının tespit edilmesi halinde, durum Bakanlığa bildirilir. Bakanlık, bu bilgileri Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona iletir.
+
+#### Korumaya ilişkin tedbirler
+
+**MADDE 8 –** (1) Bakanlık, kullanım amacına uygun olarak kurulan, kullanılan ve devamlılığı sağlanan, 3 üncü maddenin birinci fıkrasının (ç) ve (j) bentlerinde yer alan cihazların kullanımının hasta, kullanıcı, uygulayıcı veya üçüncü kişilerin sağlığı ve/veya güvenliği açısından tehlike oluşturduğunu tespit ettiğinde, bu cihazların piyasadan çekilmesini sağlamak, piyasaya arzını engellemek veya kısıtlamak, hizmete sunulmasını engellemek veya kısıtlamak için gereken bütün tedbirleri alır. Bununla ilgili gerekçeli kararını ve cihazla ilgili uygunsuzluğun aşağıdaki hususlardan kaynaklanıp kaynaklanmadığına ilişkin görüşünü Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir.
+
+a) 7 nci maddede belirtilen standartların vücuda yerleştirilebilir aktif tıbbi cihaz tarafından tamamen veya kısmen karşılanmaması durumunda 5 inci maddedeki temel gereklerin ihlali,
+
+b) Söz konusu standartların yanlış uygulanması,
+
+c) Standartların kendisinden kaynaklanan eksiklikler.
+
+(2) Bu Yönetmeliğe uygun olmayan bir cihaz CE işareti taşıdığında, Bakanlık, işareti iliştirenlere karşı gerekli tedbirleri alır ve Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bilgi verir.
+
+### ÜÇÜNCÜ BÖLÜM
+
+Uyarı Sistemi, Uygunluk Değerlendirme İşlemleri ve İstisnai Durum Bildirimleri
+
+#### Uyarı sistemi
+
+**MADDE 9 –** (1) Bakanlık, vücuda yerleştirilebilir aktif tıbbi cihaza ilişkin bu Yönetmelik hükümleri çerçevesinde kendisine sunulan aşağıdaki bilgilerin kaydedilmesini, değerlendirilmesini ve gerekli tedbirlerin alınmasını sağlar. Bu bilgiler:
+
+a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan;
+
+1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması,
+
+2) Kullanım kılavuzu ve etiketteki yetersizlikler,
+
+b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler.
+
+(2) Birinci fıkrada belirtilen durumlar hakkında ilgili sağlık personeli ve/veya sağlık kuruluşu tarafından Bakanlığa derhâl bilgi verilir. Bakanlık, gerekli önlemlerin alınmasını sağlamak üzere, söz konusu olay hakkında imalatçıyı veya yetkili temsilcisini bilgilendirir.
+
+(3) Bakanlık, mümkün olması halinde imalatçı veya yetkili temsilci ile birlikte gerekli değerlendirmeleri yaptıktan sonra, 8 inci maddedeki hususlar saklı kalmak kaydıyla, bu maddenin birinci fıkrasında belirtilen olumsuz olaylar ile bunların yeniden ortaya çıkma ihtimalini en aza indirmek için alınmış veya alınması öngörülen tedbirler hakkında Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyonu ivedilikle bilgilendirir.
+
+#### Uygunluk değerlendirme işlemleri
+
+**MADDE 10 –** (1) Uygunluk değerlendirme işlemlerinde bu maddede belirtilen hususlar dikkate alınır.
+
+(2) Ismarlama üretilen cihazlar ve klinik araştırma amaçlı cihazlar hariç olmak üzere; imalatçı, vücuda yerleştirilebilir aktif tıbbi cihaza CE işaretini iliştirmek için:
+
+a) Ek II’de belirtilen tam kalite güvence sistemiyle ilgili uygunluk beyanı işlemini ya da
+
+b) Ek III’te belirtilen tip incelemesiyle birlikte;
+
+1) Ek IV’te belirtilen doğrulama veya
+
+2) Ek V’te belirtilen tip uygunluk beyanı işlemini takip eder.
+
+(3) İmalatçı ısmarlama üretilen cihazlar için her bir cihazı piyasaya arz etmeden önce Ek VI’daki beyanı düzenler. Ismarlama üretilen cihazlardan hizmete sunulanların bir listesini Bakanlığa verir.
+
+(4) Gerektiğinde, Ek III, IV ve VI’da öngörülen işlemler, imalatçının yetkili temsilcisi tarafından yerine getirilebilir.
+
+(5) İkinci, üçüncü ve dördüncü fıkralarda belirtilen işlemler ile ilgili kayıtlar ve yazışmalar Türkçe ve/veya onaylanmış kuruluşun kabul ettiği Avrupa Birliği resmî dillerinden birinde yapılır.
+
+(6) İmalatçı ve/veya onaylanmış kuruluş, vücuda yerleştirilebilir aktif tıbbi cihazın uygunluk değerlendirme işlemleri süresince, bu Yönetmeliğe uygun olarak üretimin ara aşamasında yapılan değerlendirme ve doğrulama sonuçlarını göz önünde bulundurur.
+
+(7) Uygunluk değerlendirme işleminde onaylanmış kuruluşun yer alması gerektiği durumlarda, imalatçı veya yetkili temsilcisi bu iş için onaylanmış kuruluşlardan birini seçer.
+
+(8) Onaylanmış kuruluş, seçilen işlem çerçevesinde uygunluğu onaylamak için gerekli olan her türlü bilgi ve belgeleri başvuru sahibinden ister.
+
+(9) Onaylanmış kuruluşlarca Ek II, III ve V’e uygun olarak alınan kararlar, en fazla 5 (beş) yıl süre ile geçerlidir. Ancak, onaylanmış kuruluş ile imalatçı arasında imzalanan sözleşmede belirlenen süre içerisinde yapılan müracaat üzerine, kararın geçerlilik süresi en fazla 5 (beş) yıllık dönemler halinde uzatılabilir.
+
+(10) Bakanlık, ikinci ve üçüncü fıkralarda belirtilen işlemlerin uygulanmadığı, fakat kullanıldığında sağlığın korunmasına yardımcı olacağı belirlenen münferit vücuda yerleştirilebilir aktif tıbbi cihazların ülke sınırları içinde piyasaya arzına ve hizmete sunulmasına gerekçeli bir talep üzerine izin verebilir.
+
+#### İstisnai durumlarla ilgili bildirimler
+
+**MADDE 11 –** (1) Bakanlık;
+
+a) Vücuda yerleştirilebilir aktif tıbbi cihazın veya grubunun uygunluğunun, 10 uncu madde hükümlerine istisna olarak, söz konusu maddede belirtilen yöntemlerden sadece birinin uygulanmasıyla sağlanması gerektiğinde,
+
+b) Vücuda yerleştirilebilir aktif tıbbi cihazın veya grubunun, 3 üncü maddenin birinci fıkrasının (a), (ç), (f) veya (i) bentlerinde yer alan tanımlardan herhangi birine girip girmediğine ilişkin bir karar almak gerektiğinde,
+
+konu ile ilgili talebini, gerekçeleriyle birlikte gerekli tedbirlerin alınması için Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir.
+
+### DÖRDÜNCÜ BÖLÜM
+
+Klinik Araştırmalar, Kayıt Sistemi, Onaylanmış Kuruluş ve CE İşaretlemesi
+
+#### Klinik araştırmalar
+
+**MADDE 12 –** (1) İmalatçı veya yetkili temsilci, klinik araştırma amaçlı cihazlar için Ek VI’da belirtilen işlemleri gerçekleştirir ve yapılacak klinik araştırma hakkındaki gerekli bilgiyi bu ekte yer alan beyan ile birlikte Bakanlığa verir.
+
+(2) İmalatçı, ilgili Etik Kurulun onayı ile birlikte klinik araştırma talebini Bakanlığa bildirir. Bakanlık bildirim tarihinden 60 (altmış) gün sonra klinik araştırma talebini sonuçlandırır.
+
+(3) İlgili Etik Kurulun araştırma planına kendi gerekçesini eklemek suretiyle olumlu görüş vermesi halinde, Bakanlık 60 (altmış) günlük sürenin dolmasını beklemeden imalatçıya söz konusu klinik araştırmanın başlatılması için izin verebilir.
+
+(4) Bakanlık gerektiğinde, klinik araştırmalar bakımından halk sağlığını ve kamu yararını korumaya yönelik gerekli ve uygun tedbirleri alır. Bakanlık bir klinik araştırmayı reddettiğinde, durdurduğunda, geçici olarak askıya aldığında veya önemli bir değişiklik talep ettiğinde söz konusu kararı gerekçesi ile birlikte Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir.
+
+(5) İmalatçı veya yetkili temsilcisi, klinik araştırmanın sonucu ile ilgili olarak Bakanlığa bilgi verir. Klinik araştırmanın erken sonlandırılması halinde, gerekçesi de ayrıca bildirilir. Erken sonlandırmanın güvenlik gerekçesi ile yapıldığı durumlarda, Bakanlık söz konusu durumu Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir. Ek VII/2.3.7’de belirtilen rapor, Bakanlığa verilmek üzere imalatçı veya yetkili temsilcisi tarafından hazır bulundurulur.
+
+(6) Klinik araştırmalar Ek VII’ye uygun olarak yapılır.
+
+#### Kayıt sistemi
+
+**MADDE 13 –** (1) Bakanlık, bu maddede belirtilen esaslara göre piyasaya arz edilmiş olan vücuda yerleştirilebilir aktif tıbbi cihazları ve bu cihazların piyasaya arzından sorumlu kişilerin kayıtlarını tutar.
+
+(2) 10 uncu maddede belirtilen işlemlere uygun olarak vücuda yerleştirilebilir aktif tıbbi cihazı kendi adıyla piyasaya arz eden imalatçı, işletme ve bu cihazla ilgili gerekli bilgileri Bakanlığa bildirir.
+
+(3) Bakanlık, vücuda yerleştirilebilir aktif tıbbi cihazlar piyasaya arz edildiğinde, cihazların etiketi ve kullanım kılavuzu ile birlikte söz konusu cihazı tanımlayıcı bilgileri de talep eder.
+
+(4) Vücuda yerleştirilebilir aktif tıbbi cihazı kendi adıyla piyasaya arz eden imalatçı ülke sınırları dışında ise, yetkili temsilcisi Bakanlığa bildirilir. Yetkili temsilci, ülke sınırları içinde kayıtlı şirket adreslerini ve bu cihazlarla ilgili söz konusu bilgileri Bakanlığa bildirir.
+
+(5) Bakanlık, imalatçı veya yetkili temsilci tarafından vücuda yerleştirilebilir aktif tıbbi cihazlara ilişkin sunulan bilgileri, talep olması halinde Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir ve gerektiğinde Komisyondan bilgi ister.
+
+(6) Bu Yönetmelik ile ilgili düzenleyici veriler, yetkili kuruluşların bu Yönetmelik çerçevesindeki görevlerini yerine getirmelerini temin etmek için tıbbi cihaz veri bankasında saklanır. Veri bankası, aşağıda belirtilen unsurlardan oluşur:
+
+a) İmalatçıların, yetkili temsilcilerin ve vücuda yerleştirilebilir aktif tıbbi cihazların kayıtlarına ilişkin veriler,
+
+b) Ek II, III, IV ve V’de öngörülen yönteme uygun olarak verilen, değiştirilen, ekleme yapılan, askıya alınan, geri çekilen veya reddedilen belgeler ile ilgili veriler,
+
+c) 9 uncu maddede düzenlenen uyarı sistemiyle elde edilen veriler,
+
+ç) 12 nci maddede düzenlenen klinik araştırmalara ilişkin veriler.
+
+(7) Bakanlık, sağlık ve güvenliğin korunması ve/veya halk sağlığı gereklerinin gözetilmesi amacıyla, vücuda yerleştirilebilir aktif tıbbi cihazın veya grubunun piyasadan çekilmesi ya da piyasaya arzı ve hizmete sunulmasının yasaklanması, sınırlandırılması veya belirli şartlara tabi tutulması gerektiğinde gerekli bütün önlemleri alır. Bu durumda, gerekçeli kararını Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir.
+
+#### Onaylanmış kuruluş
+
+**MADDE 14 –** (1) 10 uncu maddede belirtilen görevleri ve kendilerine verilmiş özel görevleri yerine getirebilecek kuruluşlar Bakanlığa müracaat eder. Bakanlık, onaylanmış kuruluş adaylarını bu maddede belirtilen hususlar doğrultusunda değerlendirerek uygun bulunanları Komisyona bildirilmek üzere Dış Ticaret Müsteşarlığına iletir. Komisyon tarafından kimlik numarası verilmesinin ardından Bakanlığın onaylanmış kuruluş görevlendirmesine dair kararı Resmî Gazete’de yayımlanır ve onaylanmış kuruluş faaliyete başlar.
+
+(2) Onaylanmış kuruluşların belirlenmesinde, Ek VIII’de belirtilen şartlara uygunluk aranır. Bununla birlikte Kanun ve 17/1/2002 tarihli ve 24643 sayılı Resmî Gazete’de yayımlanan Uygunluk Değerlendirme Kuruluşları ile Onaylanmış Kuruluşlara Dair Yönetmelik hükümleri de uygulanır. Ayrıca, onaylanmış kuruluşlara ilişkin uyumlaştırılmış standartları karşılayan kuruluşların Ek VIII’deki şartları karşıladığı kabul edilir.
+
+(3) Talep halinde onaylanmış kuruluş, bütçe belgeleri de dâhil olmak üzere, Ek VIII’de öngörülen şartlara uygunluğun denetlenmesini sağlayacak bütün bilgi ve belgeleri Bakanlığa verir.
+
+(4) Bakanlık, onaylanmış kuruluşun ikinci fıkrada belirtilen şartlara uymadığını tespit ettiği takdirde; onaylamayı geçersiz kılar ve bu kararını Resmî Gazete’de yayımlar. Ayrıca Komisyona bildirilmek üzere Dış Ticaret Müsteşarlığına iletir.
+
+(5) Onaylanmış kuruluş ile imalatçı veya yetkili temsilci, Ek II, III, IV ve V’de yer alan değerlendirme ve doğrulama işlemlerinin tamamlanması için gereken süreyi ortaklaşa belirler.
+
+(6) Onaylanmış kuruluş düzenlediği, değişiklik yaptığı, ekleme yaptığı, askıya aldığı, iptal ettiği veya geri çektiği tüm belgeler hakkında Bakanlığa bilgi verir. Ayrıca bu hususlarda ve talep edilmesi halinde, düzenlediği belgeler hakkında, bu Yönetmelik kapsamında faaliyet gösteren diğer onaylanmış kuruluşlara bilgi verir. Onaylanmış kuruluş, ayrıca kendisinden talep edilen tüm ilave bilgileri sağlar.
+
+(7) Onaylanmış kuruluş, bu Yönetmeliğin ilgili hükümlerine imalatçı tarafından uyulmadığını veya belgenin sehven verilmiş olduğunu tespit ettiğinde; imalatçı tarafından düzeltici tedbirler alınıncaya ve ilgili gereklere uygunluk temin edilinceye kadar, verilen belgeyi, orantılılık ilkesini göz önünde bulundurarak askıya alır, iptal eder veya sınırlamalara tâbi tutar. Bu durumlarda veya Bakanlığın müdahalesinin gerekli görüldüğü hallerde, onaylanmış kuruluş Bakanlığa bilgi verir. Bakanlık, bu hususu Dış Ticaret Müsteşarlığı aracılığıyla veya elektronik ortamda Komisyona bildirir.
+
+#### CE işaretlemesi
+
+**MADDE 15 –** (1) CE işaretinin iliştirilmesinde, aşağıdaki hususlar dikkate alınır:
+
+a) Ismarlama üretilen cihazlar ve klinik araştırma amaçlı cihazlar dışında kalan bütün vücuda yerleştirilebilir aktif tıbbi cihazlar, 5 inci maddede belirtilen temel gereklere uygun oldukları takdirde, CE işaretini taşırlar.
+
+b) Ek IX’da belirtilen CE işareti, kolayca görülebilir, okunabilir ve silinmeyecek bir şekilde vücuda yerleştirilebilir aktif tıbbi cihaza, sterilliğini koruyan ambalajına, kullanım kılavuzuna ve satış ambalajı üzerine iliştirilir.
+
+c) Ek II, IV ve V’te belirtilen işlemlerin uygulanmasından sorumlu onaylanmış kuruluşun kimlik numarası da CE işaretiyle birlikte yer alır.
+
+ç) CE işaretinin anlamı veya şekli konusunda yanlış anlamaya yol açabilecek işaret veya ibare iliştirmek yasaktır. Başka bir işaret, ancak CE işaretinin görülmesini ve okunmasını engellemeyecek biçimde, vücuda yerleştirilebilir aktif tıbbi cihazın üzerine, ambalajının üzerine veya kullanım kılavuzuna konulabilir.
+
+(2) Ayrıca, CE işaretinin iliştirilmesi ve kullanılması konusunda, Kanun ile 17/1/2002 tarihli ve 24643 sayılı Resmî Gazete’de yayımlanan CE Uygunluk İşaretinin Ürüne İliştirilmesine ve Kullanılmasına Dair Yönetmelik hükümlerine de uyulması zorunludur.
+
+#### Usulsüz olarak iliştirilmiş CE işareti
+
+**MADDE 16 –** (1) CE işaretinin usulsüz olarak vücuda yerleştirilebilir aktif tıbbi cihaza iliştirilmiş olduğunun veya hiç iliştirilmediğinin tespit edilmesi halinde, 8 inci madde hükümleri saklı kalmak kaydıyla; imalatçı veya yetkili temsilcisi, Bakanlıkça belirlenen şartlar çerçevesinde ihlâle son vermek zorundadır. İhlâlin devamı halinde Bakanlık, vücuda yerleştirilebilir aktif tıbbi cihazın piyasaya arzını kısıtlayıcı veya yasaklayıcı gerekli bütün tedbirleri alarak, söz konusu cihazın piyasadan çekilmesini sağlar.
+
+(2) Bu Yönetmelik kapsamında olmadığı halde, bu Yönetmelik hükümlerine göre CE işareti iliştirilen ürünlere de birinci fıkra hükümleri uygulanır.
+
+### BEŞİNCİ BÖLÜM
+
+Çeşitli Hükümler
+
+#### Ret veya sınırlama kararları
+
+**MADDE 17 –** (1) Bakanlıkça bu Yönetmeliğin uygulanması sırasında,
+
+a) Vücuda yerleştirilebilir aktif tıbbi cihazın piyasaya arzına, hizmete sunulmasına veya klinik araştırmalara yönelik ret veya sınırlayıcı nitelikte alınan kararlar,
+
+b) Vücuda yerleştirilebilir aktif tıbbi cihazların piyasadan çekilmesine ilişkin olarak alınan kararlar,
+
+gerekçeleri ile birlikte açıkça belirtilir.
+
+(2) Birinci fıkrada belirtilen bütün kararlar için, alınacak tedbirin aciliyet durumuna göre mümkün olması halinde imalatçı veya yetkili temsilci görüşünü önceden belirtme hakkına sahiptir.
+
+(3) Vücuda yerleştirilebilir aktif tıbbi cihaz(lar)a ilişkin ret veya sınırlama ya da piyasadan çekme iş ve işlemleri ile ilgili olarak ayrıca, Kanun ile 25/6/2007 tarihli ve 26563 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığınca Yapılacak Piyasa Gözetimi ve Denetiminin Usul ve Esasları Hakkında Yönetmelik hükümleri de uygulanır.
+
+#### Gizlilik
+
+**MADDE 18 –** (1) Bakanlık, onaylanmış kuruluş ve bu Yönetmeliğin uygulanmasına katılan bütün taraflar, görevlerini yerine getirirken temin ettikleri bütün bilgilerin gizliliğini sağlar. Ancak, Bakanlığın diğer ülke yetkili kuruluşları ve onaylanmış kuruluşlar ile karşılıklı bilgi paylaşımı ve uyarı sistemi kapsamındaki yükümlülükleri saklıdır. Ayrıca gizlilik mahiyetine haiz bu bilgiler, kamu sağlığının ve düzeninin gerektirdiği hallerde, adlî ve ilgili üst mercilerin talebi üzerine, Bakanlığa bilgi verilmek suretiyle açıklanabilir.
+
+(2) Aşağıdaki hususlar gizlilik kapsamında değerlendirilmez:
+
+a) 13 üncü maddeye göre vücuda yerleştirilebilir aktif tıbbi cihazların piyasaya arzından sorumlu kişilerin kayıt bilgileri,
+
+b) 9 uncu maddenin üçüncü fıkrasında belirtilen önlemlere uygun olarak imalatçı, yetkili temsilci veya dağıtıcı tarafından kullanıcılara gönderilen bilgiler,
+
+c) Düzenlenen, düzeltme yapılan, ekleme yapılan, askıya alınan veya iptal edilen sertifikalarda yer alan bilgiler.
+
+#### Danışma komisyonları
+
+**MADDE 19 –** (1) Bakanlık, vücuda yerleştirilebilir aktif tıbbi cihazlar ve standartlar konusunda, bünyesinde bulunan teknik düzenleme ve danışma komisyonları yetersiz kaldığında, yeni danışma komisyonları oluşturabilir. Danışma komisyonlarının oluşturulması, çalışma usul ve esasları ile görev, yetki ve sorumlulukları Bakanlıkça çıkarılacak Yönerge ile belirlenir.
+
+#### Diğer mevzuata uyum
+
+**MADDE 20 –** (1) Vücuda yerleştirilebilir aktif tıbbi cihaz, CE işaretinin iliştirilmesini öngören başka mevzuatın da konusuna giriyor ise, ilgili diğer mevzuat hükümlerine de uygun olmak zorundadır.
+
+(2) İlgili diğer mevzuatın bir veya daha fazlası, bir geçiş dönemi süresince imalatçıya uygulama konusunda seçme hakkı tanıyor ise CE işareti sadece, imalatçının uygulamayı seçtiği mevzuat hükümlerine uygunluğu gösterir. Bu durumda, hangi mevzuatın uygulandığı, vücuda yerleştirilebilir aktif tıbbi cihazla birlikte verilen belgelerde, uyarılarda, etiket veya kullanım kılavuzunda belirtilir.
+
+### ALTINCI BÖLÜM
+
+Son Hükümler
+
+#### Kullanım güvenliği
+
+**MADDE 21 –** (1) Vücuda yerleştirilebilir aktif tıbbi cihazlar imalatçının öngördüğü kullanım amacı ve kullanım kılavuzunda belirtilen öneriler dikkate alınarak kullanılır.
+
+(2) Kurulum, kalite kontrol testleri, kalibrasyon veya bakım-onarım gerektiren vücuda yerleştirilebilir aktif tıbbi cihazlarda söz konusu işlemler imalatçının öngördüğü şekilde gerçekleştirilir.
+
+(3) Vücuda yerleştirilebilir aktif tıbbi cihazların güvenli kullanımını sağlamak için imalatçının öngördüğü hususlar dikkate alınarak gerekli eğitimler yapılır.
+
+#### Aykırı davranışlar hakkında uygulanacak hükümler
+
+**MADDE 22 –** (1) Bu Yönetmelik hükümlerine aykırı davranan ve faaliyet gösterenler hakkında Kanun, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu ve ilgili diğer mevzuat hükümleri uygulanır.
+
+#### Uyumlaştırılan Avrupa Birliği mevzuatı
+
+**MADDE 23 –** (1) Bu Yönetmelik, Avrupa Birliğinin vücuda yerleştirilebilir aktif tıbbi cihazlar ile ilgili mevzuatına uyum sağlanması amacıyla;
+
+a) 90/385/EEC sayılı Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Direktifine,
+
+b) 90/385/EEC sayılı Direktife değişiklik getiren 93/42/EEC sayılı Tıbbi Cihazlar Direktifine,
+
+c) 90/385/EEC sayılı Direktife değişiklik getiren 93/68/EEC sayılı CE İşaretlemesine İlişkin Direktife,
+
+ç) 90/385/EEC sayılı Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Direktifinde, 93/42/EEC sayılı Tıbbi Cihaz Direktifinde ve 98/8/EC sayılı Biyosidal Ürünlerin Piyasaya Arzına İlişkin Direktifte değişiklik yapılmasına dair 2007/47/EC sayılı Direktifine
+
+paralel olarak hazırlanmıştır.
+
+#### Atıflar
+
+**MADDE 24 –** (1) Daha önce diğer düzenlemelerde, 9/1/2007 tarihli ve 26398 sayılı Resmî Gazete’de yayımlanan Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğine yapılan atıflar, bu Yönetmeliğe yapılmış olarak kabul edilir.
+
+#### Yürürlükten kaldırılan yönetmelik
+
+**MADDE 25 –** (1) 9/1/2007 tarihli ve 26398 sayılı Resmî Gazete’de yayımlanan Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği yürürlükten kaldırılmıştır.
+
+#### Yürürlük
+
+**MADDE 26 –** (1) Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.
+
+#### Yürütme
+
+**MADDE 27 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+
+### EK I
+
+### TEMEL GEREKLER
+
+### I. GENEL GEREKLER
+
+1) Vücuda yerleştirilebilir aktif tıbbi cihazlar, kullanım amaçlarına ve şartlarına uygun olarak vücuda yerleştirildiğinde hastaların klinik durumunu veya güvenliğini tehlikeye düşürmeyecek şekilde tasarlanmalı ve imal edilmelidir. Bu cihazlar, bunları vücuda yerleştiren uygulayıcılara veya diğer kişilere karşı herhangi bir risk oluşturmamalıdır.
+
+2) Vücuda yerleştirilebilir aktif tıbbi cihaz, imalatçı tarafından öngörülen performansa ulaşmalı ve bu Yönetmeliğin 3 üncü maddesinin birinci fıkrasının (i) bendinde belirtilen fonksiyonların birine veya birden fazlasına uygun olabilecek bir tarzda tasarlanmalı ve imal edilmelidir.
+
+3) Vücuda yerleştirilebilir aktif tıbbi cihazın imalatçı tarafından belirtilen kullanım süresince, normal koşullarda kullanımı sırasında ortaya çıkabilecek olumsuzluklar; söz konusu cihazın bu Ekin (1) ve (2) numaralı kısımlarında belirtilen özellikleri, performansı ve klinik şartları değiştirecek, hastanın, uygulayıcının ve üçüncü kişilerin sağlık ve güvenliğini bozacak nitelikte olmamalıdır.
+
+4) Vücuda yerleştirilebilir aktif tıbbi cihazlar imalatçıdan temin edilen kullanım kılavuzunda verilen bilgilere (sıcaklık, nem gibi) uygun şekilde nakledildiğinde ve depolandığında öngörülen kullanım süresince özellikleri ve performansı olumsuz yönde etkilenmeyecek şekilde tasarlanmış, imal edilmiş ve paketlenmiş olmalıdır.
+
+5) Vücuda yerleştirilebilir aktif tıbbi cihazın istenmeyen yan etkilerinin oluşturacağı risk, söz konusu cihazdan beklenen performanslarla kıyaslandığında, kabul edilebilir olmalıdır.
+
+5a) Vücuda yerleştirilebilir aktif tıbbi cihazın temel gereklere uygunluğu, Ek VII’ye göre yapılan bir klinik değerlendirmeyi içermelidir.
+
+### II. TASARIM VE YAPIM İLE İLGİLİ GEREKLER
+
+6) İmalatçının vücuda yerleştirilebilir aktif tıbbi cihazların tasarım ve yapımında benimsediği çözümler, genel olarak kabul görmüş teknik yöntemleri içermeli ve güvenlik prensiplerine uygun olmalıdır.
+
+7) Vücuda yerleştirilebilir aktif tıbbi cihazlar, şartları imalatçı tarafından belirlenmiş olan ulaşım, depolama ve dağıtım sırasında ve vücuda yerleştirildiklerinde paketlerinin açılacağı ana kadar steril kalmalarını sağlayacak ve tekrar kullanılmalarına imkan vermeyecek şekilde tasarlanıp imal edilmeli ve paketlenmelidirler.
+
+8) Vücuda yerleştirilebilir aktif tıbbi cihazlar, aşağıda belirtilen hususları engelleyecek veya en aza indirgeyecek şekilde tasarlanıp imal edilmelidirler:
+
+- Boyutları da dâhil olmak üzere fiziksel özelliklerine bağlı hasar riski,
+
+- Enerji kaynaklarının kullanılması, özellikle elektriğin kullanıldığı durumlarda izolasyon, akım kaçağı ve vücuda yerleştirilebilir aktif tıbbi cihazın aşırı ısınması ile ilgili olan riskler,
+
+- Manyetik alanlar, harici elektriksel etkiler, elektrostatik deşarjlar, basınç veya basınç ve hızlanma değişiklikleri gibi makul bir şekilde önceden tahmin edilebilecek çevresel şartlarla ilgili riskler,
+
+- Özellikle defibrilatörler veya yüksek frekanslı cerrahi ekipman kullanılmasından kaynaklanan tıbbi tedavilerle ilişkili riskler,
+
+- Radyasyon güvenliği ve tıbbi ışınlamalara ilişkin düzenlemelere uygun olarak vücuda yerleştirilebilir aktif tıbbi cihazın içinde bulunan radyoaktif maddelerden gelecek iyonize radyasyonla ilişkili riskler,
+
+- Bakım ve kalibrasyonun mümkün olmadığı durumlarda ortaya çıkabilen riskler, bunlar:
+
+- Akım kaçağının aşırı artışı,
+
+- Kullanılan maddenin yaşlanması,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihaz tarafından aşırı ısı oluşturulması,
+
+- Herhangi bir ölçüm veya kontrol mekanizmasının doğruluğunun azalması.
+
+9) Vücuda yerleştirilebilir aktif tıbbi cihazlar özellikle aşağıdaki hususlar da dikkate alınarak "Genel Gerekler" bölümündeki özellikleri ve performansı sağlayacak şekilde tasarlanıp imal edilmelidir.
+
+- Özellikle toksisite yönü dikkate alınarak kullanılan maddenin seçimi,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın kullanım alanı dikkate alındığında maddenin yüzeyi ile biyolojik dokular, hücreler ve vücut sıvıları arasındaki karşılıklı uyum,
+
+- Birlikte uygulanacak olan maddelerle vücuda yerleştirilebilir aktif tıbbi cihazın uyumu,
+
+- Özellikle emniyet yönünden bağlantıların kalitesi,
+
+- Enerji kaynağının güvenilirliği,
+
+- Eğer mümkünse sızıntıya yol açmaması,
+
+- Programlama ve kontrol sistemlerinin yazılım dâhil uygun çalışması; yazılım içeren veya kendisi bir tıbbi yazılım olan vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda bu yazılımlar, gelişim evreleri, risk yönetimi, geçerli kılma ve doğrulama ilkeleri dikkate alınarak, güncel teknolojiye uygun olmalıdır.
+
+10) Tek başına kullanıldığında Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinde yer alan tıbbi ürün kapsamında değerlendirilen bir madde, vücuda yerleştirilebilir aktif tıbbi cihazın insan vücudu üzerindeki fonksiyonunu destekleyen tamamlayıcı bir parçası olarak kullanıldığında, bu maddenin güvenli, kaliteli ve yararlı olup olmadığı, söz konusu Yönetmelikte tanımlanan uygun metotlar ile kıyaslanmak suretiyle değerlendirilmelidir.
+
+Birinci paragrafta belirtilen maddelerle ilgili olarak; onaylanmış kuruluş, bu maddenin vücuda yerleştirilebilir aktif tıbbi cihazın bir parçası olarak kullanılmasının faydalı olup olmadığını değerlendirmek ve cihazın kullanım amacını dikkate almak suretiyle, söz konusu maddenin kaliteli ve güvenli olup olmadığına ve bu cihazda kullanılmasının ortaya çıkaracağı klinik fayda/risk profiline ilişkin olarak Bakanlığın veya Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) ilgili mevzuata uygun olarak vereceği bilimsel görüşe başvurur. Söz konusu bilimsel görüşte, imalat süreci ve bu maddenin vücuda yerleştirilebilir aktif tıbbi cihaza eklenmesinin sağlayacağı faydaya ilişkin onaylanmış kuruluş tarafından hazırlanan veriler dikkate alınır.
+
+Vücuda yerleştirilebilir aktif tıbbi cihaz, bütünün bir parçası olarak insan kanı türevi ihtiva ediyorsa, onaylanmış kuruluş, bu maddenin söz konusu cihazın parçası olarak kullanılmasının yararlı olup olmadığını değerlendirmek ve cihazın kullanım amacını dikkate almak suretiyle, bu türevin kaliteli ve güvenli olup olmadığına ve cihazda kullanılmasının ortaya çıkaracağı klinik fayda/risk profiline ilişkin olarak Avrupa Tıbbi Ürünler Değerlendirme Ajansından (EMEA) bilimsel görüş ister. Söz konusu bilimsel görüşte, imalat sürecini ve bu maddenin vücuda yerleştirilebilir aktif tıbbi cihazda kullanılmasının sağlayacağı faydaya ilişkin onaylanmış kuruluş tarafından hazırlanan veriler dikkate alınır.
+
+Vücuda yerleştirilebilir aktif tıbbi cihazda yer alan ve özellikle de imalat sürecine ilişkin tamamlayıcı maddeler üzerinde değişiklik yapıldığında, bu değişiklikler onaylanmış kuruluşa bildirilir. Onaylanmış kuruluş bu maddelerin kaliteli ve güvenli olma durumlarının korunduğunu teyit amacıyla, daha önce görüş aldığı Bakanlığa veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) tekrar başvurur. Görüş veren kurum, yapılan değişikliklerin vücuda yerleştirilebilir aktif tıbbi cihazdaki madde için daha önce hazırlanan fayda/risk profilini olumsuz etkilemediğini teyit etmek üzere, söz konusu maddenin bu cihaza eklenmesinin sağlayacağı faydaya ilişkin onaylanmış kuruluş tarafından hazırlanan verileri dikkate alır.
+
+Görüşü veren kurum, söz konusu tamamlayıcı maddenin vücuda yerleştirilebilir aktif tıbbi cihazda kullanılması halinde mevcut fayda/risk profilini etkileyebileceğine dair bilgiye ulaştığında, böyle bir etkinin olup olmadığı konusundaki görüşünü onaylanmış kuruluşa bildirir. Onaylanmış kuruluş, uygunluk değerlendirme sürecinin değerlendirilmesinde güncel bilimsel görüşü dikkate alır.
+
+11) Vücuda yerleştirilebilir aktif tıbbi cihaz ile parçaları arasındaki bağlantıyla ilgili potansiyel bir riskin belirlenmesi halinde, gerekli ölçümlerin yapılabilmesi için, söz konusu cihaz ve eğer uygunsa parçalarının tanımlanmaları gerekir.
+
+12) Vücuda yerleştirilebilir aktif tıbbi cihazlar, kendilerinin ve imalatçılarının açıkça tanımlanabilmelerini sağlayan özellikle cihaz tipi ve üretim yılını içeren bir kod taşımalıdır. Gerektiğinde cerrahi bir müdahale olmaksızın bu kod anlaşılabilmelidir.
+
+13) Vücuda yerleştirilebilir aktif tıbbi cihaz veya aksesuarları, cihazın çalıştırılması veya ayarlama parametreleri için gerekli olan bilgileri görünür şekilde taşıyorsa, bu bilgiler kullanıcı ve hasta tarafından anlaşılır nitelikte olmalıdır.
+
+14) Vücuda yerleştirilebilir aktif tıbbi cihaz, aşağıdaki bilgileri okunaklı ve silinmez şekilde taşımalıdır. Bu bilgiler varsa genel kabul görmüş sembollerle verilebilir.
+
+14.1. Steril ambalaj üzerinde aşağıdaki bilgiler yer almalıdır:
+
+- Sterilizasyon yöntemi,
+
+- Paketlemenin tanınmasını sağlamak için bir işaret,
+
+- İmalatçının ismi ve adresi,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın tanımı,
+
+- Klinik araştırma amaçlı cihaz ise "Klinik Araştırmaya Mahsustur" ibaresi,
+
+- Ismarlama üretilen cihaz ise "Ismarlama Üretilen Cihaz" ibaresi,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın steril durumda olduğunu gösteren bir bilgi,
+
+- İmalat ayı ve yılı,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın güvenli bir şekilde uygulanabileceği zaman limiti.
+
+14.2. Satış ambalajında aşağıdaki bilgiler yer almalıdır:
+
+- İmalatçının ismi ve adresi; ithal vücuda yerleştirilebilir aktif tıbbi cihazlar için, ayrıca yetkili temsilcinin ve/veya ithalatçının adı veya ticari adı ve adresi,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın tanımı,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın kullanım amacı,
+
+- Kullanıma ilişkin özellikler,
+
+- Klinik araştırma amaçlı cihaz ise "Klinik Araştırmaya Mahsustur" ibaresi,
+
+- Ismarlama üretilen cihaz ise "Ismarlama Üretilen Cihaz" ibaresi,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın steril durumda olduğunu gösteren bir bilgi,
+
+- İmalat ayı ve yılı,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın güvenli bir şekilde uygulanabileceği zaman limiti,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın taşıma ve depolama koşulları,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın bir insan kanı türevi ihtiva etmesi durumunda bunu belirtir ibare.
+
+15) Piyasaya arz edildiğinde her vücuda yerleştirilebilir aktif tıbbi cihaz, kullanımı ile ilgili aşağıda belirtilen özellikleri açıklayan bilgilerle donatılmış olmalıdır:
+
+- CE işaretinin iliştirilmesi izninin yılı,
+
+- Bu Ekin (14.1) ve (14.2) numaralı kısımlarında, sekizinci ve dokuzuncu cümleler hariç olmak üzere, belirtilen hususlar,
+
+- Bu Ekin (2) numaralı kısmında belirtilen performanslar ve istenmeyen tüm yan etkiler,
+
+- Hekimin uygun vücuda yerleştirilebilir aktif tıbbi cihazı, aksesuarlarını ve bilgisayar yazılımını seçmesini sağlayacak bilgiler,
+
+- Hekimin ve gerektiğinde hastanın, vücuda yerleştirilebilir aktif tıbbi cihazı, aksesuarlarını ve yazılımını doğru olarak kullanmasını sağlayacak gerekli talimatlar, bunun yanı sıra söz konusu cihazın yapısı, kapsamı, kontrol ve deneme zamanları ile mümkünse devamlılığı sağlayan önlemler hakkında bilgiler,
+
+- Mümkünse vücuda yerleştirilebilir aktif tıbbi cihazın uygulanması ile ilgili risklerden kaçınabilmeyi sağlayacak bilgiler,
+
+- Özel bir araştırma veya tedavi sırasında vücuda yerleştirilebilir aktif tıbbi cihazın, etraftaki diğer cihazlardan olumsuz yönde etkilenmesi halinde oluşabilecek risklerle ilgili bilgiler,
+
+- Steril ambalajın hasara uğraması durumunda gerekli talimatlar ve uygunsa yeniden sterilizasyon için uygun yöntemlerin ayrıntıları,
+
+- Temel gerekleri sağlayan vücuda yerleştirilebilir aktif tıbbi cihazların, uygunsa, sadece imalatçının sorumluluğu altında tekrar kullanılabilmesi için gerekli talimatlar.
+
+Kullanım kılavuzu, kontrendikasyonlar ve alınacak önlemler hakkında hekimin hastayı bilgilendirmesini sağlayacak ayrıntıları da içermelidir. Bu ayrıntılar özellikle aşağıdakileri kapsamalıdır:
+
+- Enerji kaynağının ömrü ile ilgili bilgiler,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın performansında değişiklik olduğunda alınacak önlemler,
+
+- Manyetik alanlar, harici elektriksel etkiler, elektrostatik deşarjlar, basınç veya basınç değişiklikleri ve hızlanma gibi daha önceden tahmin edilebilecek çevresel etkilere maruz kalındığında alınacak önlemler,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihaz kullanılarak hastaya uygulanacak tıbbi ürünlerle ilgili yeterli bilgi,
+
+- Kullanım kılavuzunun basım tarihi veya en son güncelleme bilgisi.
+
+16) Vücuda yerleştirilebilir aktif tıbbi cihaz normal kullanım şartlarında bu Ekin genel gerekler bölümünde belirtilen özellikler ve performanslarla ilgili zorunluluklara uymalıdır. Ayrıca, istenmeyen veya yan etkilerin değerlendirilmesinde Ek VII ile uyumlu klinik veriler esas alınmalıdır.
+
+### EK II
+
+### AT UYGUNLUK BEYANI
+
+(Tam Kalite Güvence Sistemi)
+
+1) İmalatçı, vücuda yerleştirilebilir aktif tıbbi cihazların tasarımı, imalatı ve nihaî kontrolleri için, bu Ekin (3) ve (4) numaralı kısmında belirtilen onaylanan kalite sisteminin uygulanmasını sağlar; ayrıca, gözetim ve denetim hususunda, bu Ekin (5) numaralı kısmında belirtilen işlemlere tâbidir.
+
+2) AT Uygunluk Beyanı (EC Declaration of Conformity) bu Ekin (1) numaralı kısmında belirtilen zorunlulukları yerine getiren imalatçının, söz konusu ürünlerin bu Yönetmelik hükümlerine uygun olduğunu temin ve beyan ettiğini gösteren işlemdir.
+
+Buna göre imalatçı, bu Yönetmeliğin 15 inci maddesine uygun olarak CE işaretini iliştirir ve yazılı bir uygunluk beyanı hazırlar.
+
+İmalatçı tarafından muhafaza edilecek olan bu beyan, imal edilen tüm vücuda yerleştirilebilir aktif tıbbi cihazları içermeli ve söz konusu cihazlar ürün adı, ürün kodu veya diğer ibarelerle açıkça tanımlanmalıdır.
+
+CE işareti, sorumlu onaylanmış kuruluşun kimlik numarası ile birlikte yer alır.
+
+3) Kalite sistemi:
+
+3.1. İmalatçı, kalite sisteminin değerlendirilmesi için onaylanmış kuruluşa başvurur.
+
+Bu başvuru aşağıdaki hususları içerir:
+
+- İmalatı öngörülen ürün kategorisi için tüm uygun bilgiler,
+
+- Kalite sistemi hakkında belgeler,
+
+- İmalatçının, onaylanan kalite sisteminin gereklerini yerine getirme taahhüdü,
+
+- Onaylanan kalite sisteminin eksiksiz ve etkili olarak sürdürüleceğine dair imalatçı taahhüdü,
+
+- Ek VII’deki hükümler de dâhil olmak üzere, piyasaya arz sonrası gözetim ve denetim sisteminin oluşturulması ve bu sistemin güncel tutulmasına dair imalatçı taahhüdü. Bu taahhüt, imalatçının aşağıda belirtilen durumlardan bilgisi olduğu andan itibaren Bakanlığı derhal haberdar etme zorunluluğunu kapsar:
+
+a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan;
+
+1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması,
+
+2) Kullanım kılavuzu ve etiketteki yetersizlikler,
+
+b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler.
+
+3.2. Kalite sistemi uygulaması; tasarımdan nihaî kontrole kadar bütün aşamalarda, ürünlerin bu Yönetmelik hükümlerine uygunluğunu garanti etmelidir.
+
+Kalite sistemi için imalatçı tarafından benimsenen bütün hükümler, gerekler ve öngörüler, sistematik ve düzenli olarak yazılı politika ve işlemler şeklinde belgelendirilmelidir. Bu kalite sistem belgelendirmesi, kalite planları, programları, el kitapları ve kayıtlar gibi kalite politikası ve işlemlerinin aynı şekilde yorumlanmasına imkân vermeli, ayrıca aşağıdaki hususların yanı sıra (c) bendinde belirtilen işlemlerden elde edilen belgeleri, verileri ve kayıtları bilhassa içermelidir.
+
+a) İmalatçının kalite hedefleri,
+
+b) İşletmenin organizasyon yapısı ve özellikle;
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın tasarım kalitesi ve imalatı konusunda yetkililerin ve çalışanların sorumlulukları, yetkileri ve kurumsal yapılanma,
+
+- Uygun olmayan cihazların kontrolü dâhil, vücuda yerleştirilebilir aktif tıbbi cihazların ve tasarımlarının istenen kalitede olması için kalite sisteminin etkin işleyişini kontrol etmeyi sağlayan metotlar,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın veya parçalarının tasarımı, imalatı ve/veya nihai muayene ve test işlemleri üçüncü taraflarca yapılıyor ise, kalite sisteminin etkin işleyişinin ve özellikle de söz konusu üçüncü tarafa uygulanan kontrolün şeklinin ve kapsamının izlenmesine yönelik yöntemler;
+
+c) Vücuda yerleştirilebilir aktif tıbbi cihazların tasarımının izlenmesi ve doğrulanması işlemleri, bununla ilgili belgeleri ve özellikle aşağıdaki hususları;
+
+- Bu Yönetmeliğin 7 nci maddesinde belirtilen standartlar tümüyle uygulanmadığında, vücuda yerleştirilebilir aktif tıbbi cihazların temel gerekleri karşılaması için benimsenen çözümlerin tanımı ve uygulanacak standartları içeren tasarım özellikleri,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazların tasarımı esnasında kullanılacak olan sistematik ölçümler, işlemler ile tasarım kontrol ve doğrulama teknikleri,
+
+- Ek I/10’da bahsedilen ve vücuda yerleştirilebilir aktif tıbbi cihazın, bir bütünün parçası olarak insan kanı türevi veya bir maddeyi ihtiva edip etmediğini gösteren ifade ile söz konusu cihazın öngörülen amacı dikkate alınarak insan kanı türevi veya maddenin kullanışlılığının, kalitesinin ve güvenilirliğinin değerlendirilmesi için gereken test sonuçlarına ait veriler,
+
+- Klinik öncesi değerlendirme,
+
+- Ek VII’de belirtilen klinik değerlendirme,
+
+ç) İmalat aşamasındaki kontrol ve kalite güvencesi teknikleri;
+
+- Özellikle sterilizasyon ve satın alma konusunda kullanılacak süreçler, işlemler ve ilgili belgeler,
+
+- İmalatın her aşamasındaki çizimlerden, özelliklerden veya diğer ilgili belgelerden yararlanarak hazırlanan ve güncel tutulan, vücuda yerleştirilebilir aktif tıbbi cihaz tanımlama işlemleri,
+
+d) İmalat öncesinde, esnasında ve sonrasında yapılacak uygun test ve denemeler, bunların hangi sıklıkla yapılacağı, kullanılan test cihazları.
+
+3.3. Bu Yönetmeliğin 16 ncı maddesinin hükümleri saklı kalmak kaydıyla onaylanmış kuruluş, kalite sisteminin bu Ekin (3.2) numaralı kısmında belirtilen gereklere uygun olup olmadığını saptamak için denetimini yapar. İlgili uyumlaştırılmış standartların uygulandığı kalite sistemlerinin, söz konusu gereklere uygun olduğu kabul edilir.
+
+Değerlendirme ekibinde en az bir üyenin, ilgili teknoloji hakkında değerlendirme deneyimi olmalıdır. Değerlendirme işlemi, imalat süreçlerinin denetimi için imalatçının, gerektiğinde imalatçının tedarikçisinin ve/veya yüklenicisinin yerinde denetimini içermelidir.
+
+Karar, denetim sonuçları ve açıklamalı değerlendirmeyle birlikte imalatçıya tebliğ edilir.
+
+3.4. İmalatçı, kalite sistemine getirmeyi planladığı önemli değişikliklere ilişkin bütün tasarıları hakkında, kalite sistemini onaylayan onaylanmış kuruluşa bilgi verir. Onaylanmış kuruluş, teklif edilen değişiklikleri değerlendirir ve kalite sistemindeki bu değişikliklerin bu Ekin (3.2) numaralı kısmında belirtilen gereklere uyup uymadığını inceler ve kararını imalatçıya tebliğ eder. Bu karar, denetimin sonuçlarını ve açıklamalı değerlendirmeyi de kapsar.
+
+4) Ürün tasarımının incelenmesi:
+
+4.1. İmalatçı, bu Ekin (3) numaralı kısmında belirtilen gereklere ilaveten, bu Ekin (3.1) numaralı kısmına göre imalatını planladığı vücuda yerleştirilebilir aktif tıbbi cihazın tasarım dosyasının incelenmesi için başvuruda bulunur.
+
+4.2. Başvuru, söz konusu ürünün tasarımını, imalatını ve performansını tanımlar, bu Yönetmeliğin gereklerine ve özellikle Ek II’nin (3.2) numaralı kısmının (c) ve (ç) bentlerine uygun olup olmadığını değerlendirmek için gerekli bilgileri içerir.
+
+Bu başvuru öncelikle şu hususları kapsar;
+
+- Uygulanan standartlar dâhil, tasarım özelliklerini,
+
+- Özellikle bu Yönetmeliğin 7 nci maddesinde öngörülen standartlar tamamıyla uygulanmadığı zaman imalatçı veya onun sorumluluğunda yürütülen uygun test sonuçlarını da içeren gerekli uygunluk kanıtını,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazla birlikte kullanıldığında biyoyararlanım etkisi olan ve Ek I’in (10) numaralı kısmında belirtilen maddenin cihazın bir parçası olarak kullanılıp kullanılmadığına dair bilgi ve yapılan denemelere ilişkin verileri,
+
+- Ek VII’de belirtilen klinik değerlendirmeyi,
+
+- Kullanım kılavuzu taslağını.
+
+4.3. Onaylanmış kuruluş başvuruyu inceler ve vücuda yerleştirilebilir aktif tıbbi cihaz bu Yönetmelik hükümlerine uygun ise, başvuru sahibine AT Tasarım-İnceleme Sertifikası (EC Design-Examination Certificate) verir. Onaylanmış kuruluş, bu Yönetmeliğin gereklerine uygunluğun değerlendirilmesi amacıyla başvuru sürecinde ilave kanıtlar ve deneyler isteyebilir. Sertifika; inceleme sonuçlarını, geçerlilik şartlarını, onaylanan tasarımın tanımında gerekli verileri ve gerektiğinde vücuda yerleştirilebilir aktif tıbbi cihazın amacını da kapsar.
+
+Ek I/10’un ikinci paragrafında belirtilen vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda, onaylanmış kuruluş anılan bölümde bahsedilen durum hakkında bir karar almadan önce Bakanlığa veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) danışır. Bakanlık veya Avrupa Tıbbi Ürünler Değerlendirme Ajansı (EMEA) geçerli belgelerin kendisine teslim edildiği tarihten itibaren 210 (ikiyüzon) gün içinde görüş verir. Söz konusu bilimsel görüş, vücuda yerleştirilebilir aktif tıbbi cihazla ilgili belgelendirmede yer alır. Onaylanmış kuruluş, kararını verirken bilimsel görüşte ifade edilen hususları göz önünde bulundurur ve nihaî kararını Bakanlığa ve/veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) iletir.
+
+Ek I/10’un üçüncü paragrafında belirtilen vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda, cihaz ile ilgili belgelere Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) bilimsel görüşü de dâhil edilmelidir. Avrupa Tıbbi Ürünler Değerlendirme Ajansı (EMEA) bilimsel görüşünü, geçerli belgelerin kendisine teslim edildiği tarihten itibaren 210 (ikiyüzon) gün içinde verir. Onaylanmış kuruluş kararını verirken Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) görüşünü göz önünde bulundurur. Şayet, Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) bilimsel görüşü olumlu değil ise, onaylanmış kuruluş, sertifikayı vermeyebilir. Onaylanmış kuruluş nihai kararını Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) iletir.
+
+4.4. Başvuru sahibi, onaylanan tasarımda yapılan bütün değişikliklerden, AT Tasarım İnceleme Sertifikasını veren onaylanmış kuruluşu bilgilendirir. Onaylanan tasarımda yapılan değişiklik, ürünün kullanımı için belirtilen şartlara veya bu Yönetmeliğin temel gereklerine uymayı etkiliyorsa, AT Tasarım İnceleme Sertifikasını veren onaylanmış kuruluşun tamamlayıcı ek bir onayı alınmalıdır. Bu ek onay, AT Tasarım İnceleme Sertifikasına ilave bir form şeklinde verilir.
+
+5) Gözetim ve denetim:
+
+5.1. Gözetim ve denetimin amacı, imalatçının onaylanan kalite sisteminin gereklerini tam olarak yerine getirmesini sağlamaktır.
+
+5.2. İmalatçı, onaylanmış kuruluşu gerekli tüm denetimleri yapması için yetkilendirir ve ona gerekli bütün bilgileri temin eder. Bu bilgiler;
+
+- Kalite sistemine ilişkin belgeler,
+
+- Kalite sisteminin tasarımla ilgili bölümünde öngörülen analiz sonuçları, hesaplamalar, testler, klinik öncesi ve klinik değerlendirmeler, piyasaya arz sonrası klinik izleme planı ve sonuçları gibi veriler,
+
+- Kalite sisteminin imalatla ilgili bölümünde öngörülen muayene raporları, test verileri, kalibrasyon verileri ve ilgili personelin nitelikleri hakkındaki raporlar gibi veriler.
+
+5.3. Onaylanmış kuruluş, imalatçının onaylanan kalite sistemine uymasını sağlamak amacıyla periyodik olarak denetim ve değerlendirme yapar, imalatçıya değerlendirme raporu verir.
+
+5.4. Onaylanmış kuruluş, imalatçıya habersiz ziyaretler yapabilir ve denetim raporunu imalatçıya verir.
+
+6) İdarî hükümler:
+
+6.1. İmalatçı veya yetkili temsilcisi Bakanlığa ibraz etmek üzere, imal edilen son vücuda yerleştirilebilir aktif tıbbi cihazın imalat tarihinden itibaren en az 15 (onbeş) yıl süreyle aşağıdaki belgeleri saklar:
+
+- Uygunluk beyanı,
+
+- Bu Ekin (3.1) numaralı kısmında belirtilen kalite sistemi belgeleri ve özellikle (3.2) numaralı kısmın ikinci paragrafında yer alan belgeler, veriler ve kayıtlar,
+
+- Bu Ekin (3.4) numaralı kısmında belirtilen değişiklikler,
+
+- Bu Ekin (4.2) numaralı kısmında belirtilen belgeler,
+
+- Bu Ekin (3.4), (4.3), (5.3) ve (5.4) numaralı kısımlarında belirtilen onaylanmış kuruluş kararları ve raporları.
+
+6.2. Onaylanmış kuruluş, diğer onaylanmış kuruluşlara ve Bakanlığa, talepleri halinde onaylanan, reddedilen ya da iptal edilen kalite sistemi başvuruları hakkında bütün bilgileri vermek zorundadır.
+
+7) İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlara yönelik uygulama:
+
+İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlardan her bir partinin/lotun imalatı tamamlandığında, imalatçı, onaylanmış kuruluşu cihaz partisinin/lotunun piyasaya arzı konusunda bilgilendirir ve bunların piyasaya arzı ile ilgili olarak devlet laboratuvarı veya Bakanlıkça belirlenen başka bir laboratuvar tarafından Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği hükümlerine göre verilen resmî sertifikayı onaylanmış kuruluşa gönderir.
+
+### EK III
+
+### AT TİP İNCELEMESİ
+
+1) AT tip incelemesi; üretimi temsil eden numunenin bu Yönetmelik hükümlerine uygunluğunun onaylanmış kuruluş tarafından belgelendirilmesi işlemidir.
+
+2) AT tip incelemesi için imalatçı veya yetkili temsilcisi onaylanmış kuruluşa başvuru yapar.
+
+Başvuru şu hususları içerir:
+
+- İmalatçının adı ve adresi; başvuru yetkili temsilci tarafından yapılmışsa yetkili temsilcinin adı ve adresi,
+
+- Aynı tip için başka bir onaylanmış kuruluşa başvuru yapılmadığına dair yazılı beyan,
+
+- Bu Yönetmelik hükümlerinde “tip” olarak tanımlanan üretimi temsil eden numunenin uygunluk değerlendirmesi için bu Ekin (3) numaralı kısmında belirtilen belgeler.
+
+Başvuru sahibi onaylanmış kuruluşa vermek üzere bir tip hazırlar. Onaylanmış kuruluş gerekirse başka numuneler de isteyebilir.
+
+3) Verilen belgeler; tasarım, imalat ve vücuda yerleştirilebilir aktif tıbbi cihaz performanslarının anlaşılmasını sağlamalı ve aşağıdaki hususları içermeli:
+
+- Planlanan değişiklikler de dâhil olmak üzere, tipin genel bir tanımını ve kullanım amacını,
+
+- Tasarım çizimleri, özellikle sterilizasyonla ilgili öngörülen imalat metotları ile bileşenler, alt gruplar ve devreleri gösteren ayrıntılı şema,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın çalışması, çizim ve şemaların anlaşılması için gerekli tanım ve açıklamalar,
+
+- Bu Yönetmeliğin 7 nci maddesinde belirtilen standartlardan tam veya kısmen uygulananların bir listesi ile bu standartlar uygulanmadığında, bu Yönetmeliğin temel gereklerini karşılamak için benimsenen çözümlerin tanımı,
+
+- Tasarım hesaplamaları, risk analizleri, incelemeler, teknik testler gibi yapılan işlemlerin sonuçları,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın kullanım amacı dikkate alınarak, Ek I/10’da belirtilen bir madde veya insan kanı türevinin bir bütünün parçası olarak cihazın yapısında yer alıp almadığına ilişkin beyan ile bu madde veya insan kanı türevinin güvenilirliği, kalitesi ve kullanışlılığını değerlendirmek için yapılan testlere ait veriler,
+
+- Klinik öncesi değerlendirme,
+
+- Ek VII’de belirtilen klinik değerlendirme,
+
+- Kullanım kılavuzu taslağı.
+
+4) Onaylanmış Kuruluş:
+
+4.1. İbraz edilen belgelerin, tipe uygunluğunu ve tipin de belgelere uygun olarak imal edilip edilmediğini, bu Yönetmeliğin 7 nci maddesinde belirtilen standartların uygulanabilir hükümlerine uyulup uyulmadığını inceler, değerlendirir ve değerlendirme sonuçlarını kaydeder.
+
+4.2. Bu Yönetmeliğin 7 nci maddesinde belirtilen standartların uygulanmadığı vücuda yerleştirilebilir aktif tıbbi cihazlar için imalatçının tavsiye ettiği çözümlerin bu Yönetmeliğin temel gereklerini karşılayıp karşılamadığını doğrulamak amacıyla uygun muayene ve testleri yapar veya yaptırır.
+
+4.3. İmalatçının halen yürürlükte olan ilgili standartları seçmesi halinde, bu standartların gerçekten uygulanıp uygulanmadığını değerlendirmek için gerekli muayene ve testleri yapar veya yaptırır.
+
+4.4. Gerekli muayene ve testlerin uygulanacağı yeri başvuru sahibi ile birlikte belirler.
+
+5) Onaylanmış kuruluş, bu Yönetmelik hükümlerini yerine getiren imalatçıya AT Tip-İnceleme Sertifikasını (EC Type-Examination Certificate) verir. Sertifika, imalatçının adı ve adresini, denetim sonuçlarını, geçerlilik şartlarını ve onaylanan tip tanımlanması için gerekli verileri içerir.
+
+Belgenin ilgili bölümleri sertifikaya eklenir ve bir kopyası onaylanmış kuruluş tarafından saklanır.
+
+Ek I/10’un ikinci paragrafında belirtilen vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda, onaylanmış kuruluş bu bölümde bahsedilen durum hakkında bir karar almadan önce Bakanlığa veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) danışır. Bakanlık veya Avrupa Tıbbi Ürünler Değerlendirme Ajansı (EMEA) bilimsel görüşünü, geçerli belgelerin kendisine teslim edildiği tarihten itibaren 210 (ikiyüzon) gün içinde verir. Söz konusu görüş, vücuda yerleştirilebilir aktif tıbbi cihazla ilgili belgelendirmede yer alır. Onaylanmış kuruluş, kararını verirken bilimsel görüşte ifade edilen hususları göz önünde bulundurur ve nihaî kararını Bakanlığa ve/veya Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) iletir.
+
+Ek I/10’un üçüncü paragrafında belirtilen vücuda yerleştirilebilir aktif tıbbi cihazlar söz konusu olduğunda, cihaz ile ilgili belgelere Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) bilimsel görüşü de dâhil edilmelidir. Avrupa Tıbbi Ürünler Değerlendirme Ajansı (EMEA) bilimsel görüşünü, geçerli belgelerin kendisine teslim edildiği tarihten itibaren 210 (ikiyüzon) gün içinde verir. Onaylanmış kuruluş kararını verirken Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) bilimsel görüşünü göz önünde bulundurur. Şayet, Avrupa Tıbbi Ürünler Değerlendirme Ajansının (EMEA) görüşü olumlu değil ise, onaylanmış kuruluş sertifikayı vermeyebilir. Onaylanmış kuruluş nihai kararını Avrupa Tıbbi Ürünler Değerlendirme Ajansına (EMEA) iletir.
+
+6) Başvuru sahibi onaylanan üründe yapılan bütün önemli değişiklikleri, AT Tip-İnceleme Sertifikası veren onaylanmış kuruluşa bildirmek zorundadır.
+
+Tasarım değişiklikleri bu Yönetmeliğin temel gereklerine uygunluğu veya ürünün kullanımı için belirtilen şartları etkiliyorsa, bu değişiklikler için AT Tip-İnceleme Sertifikasını veren onaylanmış kuruluştan ek onay alınmalıdır. Başvuru sahibi, gerektiğinde, ilk AT Tip-İnceleme Sertifikasına ilaveten ek onay alır.
+
+7) İdarî Hükümler:
+
+7.1. Onaylanmış kuruluş, diğer onaylanmış kuruluşlara ve Bakanlığa talepleri halinde, onaylanan, reddedilen ya da iptal edilen kalite sistemi başvuruları hakkında bütün bilgileri vermek zorundadır.
+
+7.2. Diğer onaylanmış kuruluşlar AT Tip-İnceleme Sertifikaları ve/veya bunların eklerinden bir kopya alabilir. Sertifikanın ekleri, imalatçının bilgisi dâhilinde, gerekçeli talep üzerine diğer onaylanmış kuruluşlara verilir.
+
+7.3. İmalatçı veya yetkili temsilcisi, imal edilen son vücuda yerleştirilebilir aktif tıbbi cihazın imalat tarihinden itibaren en az 15 (onbeş) yıl süreyle AT Tip-İnceleme Sertifikasının bir kopyasını ve diğer eklerini teknik dokümanlarla birlikte saklar.
+
+### EK IV
+
+### AT DOĞRULAMASI
+
+1) AT doğrulaması; imalatçının veya yetkili temsilcisinin, bu Ekin (3) numaralı kısmında açıklanan işlemlere tâbi olan vücuda yerleştirilebilir aktif tıbbi cihazların AT Tip-İnceleme Sertifikasında tanımlanan tipe uyduğunu ve bunlarla ilgili Yönetmelik hükümlerine uygun olduğunu beyan ve garanti ettiği işlemdir.
+
+2) İmalatçı veya yetkili temsilcisi, üretilen vücuda yerleştirilebilir aktif tıbbi cihazların bu Yönetmelik hükümlerine ve AT Tip-İnceleme Sertifikasında tanımlanan tipin bütün özelliklerine tamamen uygun olması için imalat yöntemiyle ilgili gerekli tedbirleri alır. İmalatçı veya yetkili temsilcisi, her vücuda yerleştirilebilir aktif tıbbi cihaza CE işareti iliştirir ve bir uygunluk beyanı düzenler.
+
+3) İmalatçı, üretilen vücuda yerleştirilebilir aktif tıbbi cihazların bu Yönetmelik hükümlerine ve AT Tip-İnceleme Sertifikasında tanımlanan tipin tüm özelliklerine uygun olması için imalat yöntemi ile ilgili gerekli önlemleri alır. İmalata başlamadan önce imalat işlemlerini açıklayan belgeleri özellikle sterilizasyon yöntemini, tüm rutin işlemleri, homojen üretimi sağlamak için önceden kabul edilmiş hükümlere, AT Tip-İnceleme Sertifikasına ve bu Yönetmeliğin ilgili hükümlerine uygunluğu gösteren belgeleri de hazırlar.
+
+4) İmalatçı, Ek VII’de belirtilen hükümler dâhil olmak üzere, piyasaya arz sonrası aşamada vücuda yerleştirilebilir aktif tıbbi cihazın gözetimi ve denetimi için bir sistem kurulmasından ve güncel tutulmasından sorumludur. Bu kapsamda imalatçının aşağıda belirtilen durumlardan bilgisi olduğu andan itibaren Bakanlığı haberdar etme yükümlülüğü bulunmaktadır.
+
+a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan;
+
+1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması,
+
+2) Kullanım kılavuzu ve etiketteki yetersizlikler,
+
+b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler.
+
+5) Onaylanmış kuruluş, bu Ekin (6) numaralı kısmında belirtildiği gibi ürünlerin istatistiksel doğrulamasını yaparak, Yönetmeliğin öngördüğü gereklerin yerine getirilip getirilmediğini doğrulamak amacıyla uygun test ve incelemeleri gerçekleştirir. İmalatçı bu Ekin (3) numaralı kısmında yer alan kurallar doğrultusunda alınan önlemlerin etkinliğinin değerlendirilmesi ve gerektiğinde denetim için onaylanmış kuruluşa yetki verir.
+
+6) İstatistik doğrulama:
+
+6.1. İmalatçı, nihai ürünleri homojen parti/lot numaraları ile sunmalı ve imalat sürecinde imal edilen her bir partinin/lotun tek tip olmasını garanti etmek için gerekli önlemleri almalıdır.
+
+6.2. Her partiden/lottan rastgele numune alınır. Bu numuneler, ayrı ayrı incelenir. Partinin/lotun kabul veya reddedildiğini tespit etmek amacıyla mümkün olduğunda, vücuda yerleştirilebilir aktif tıbbi cihazın AT Tip-İnceleme Sertifikasında tanımlanan tipe uygunluğunu doğrulamak için bu Yönetmeliğin 7 nci maddesinde öngörülen ilgili standartlarda tanımlanan uygun testler veya eşdeğer testler yapılır.
+
+6.3. Vücuda yerleştirilebilir aktif tıbbi cihazın istatistiksel kontrolü, en son teknolojiye uygun olarak yüksek düzeyde güvenlik ve performans sağlayan işlevsel özellikli örnekleme şemalarına ihtiyaç duyan niteliklere ve/veya değişkenlere dayanılarak yapılır. Bu örnekleme şeması, söz konusu cihaz kategorisinin özel niteliği dikkate alınarak, Yönetmeliğin 7 nci maddesinde belirtilen ilgili standartlara göre oluşturulur.
+
+6.4. Eğer parti/lot kabul edilirse, onaylanmış kuruluş her bir vücuda yerleştirilebilir aktif tıbbi cihazın üzerine kendi kimlik numarasını basar veya bastırır ve gerçekleştirilen testler ile ilgili yazılı uygunluk sertifikası düzenler. Kabul edilen partideki/lottaki uygun olmayan numuneler haricindeki tüm vücuda yerleştirilebilir aktif tıbbi cihazlar piyasaya arz edilebilir.
+
+Eğer bir parti/lot reddedilirse, onaylanmış kuruluş bu partinin/lotun piyasaya arzını engellemek için gerekli tedbirleri alır. Partinin/lotun sıklıkla reddedilmesi durumunda, onaylanmış kuruluş istatistiksel doğrulamaya ara verebilir.
+
+İmalatçı, onaylanmış kuruluşun sorumluluğu altında, imalat işlemleri sırasında onaylanmış kuruluşun kimlik numarasını basabilir.
+
+6.5. İmalatçı veya yetkili temsilcisi, onaylanmış kuruluşun hazırladığı uygunluk belgelerini, yetkili kişilerin talebi üzerine verir.
+
+7) İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlara ilişkin uygulama:
+
+İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlarda, her bir cihaz partisinin/lotunun imalatının tamamlanması söz konusu olduğunda, imalatçı, onaylanmış kuruluşu bu cihaz partisinin/lotunun piyasaya arzı konusunda bilgilendirir ve bunların piyasaya arzı ile ilgili olarak devlet laboratuvarı veya Bakanlıkça belirlenen bir başka laboratuvar tarafından Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği hükümlerine göre düzenlenen resmî sertifikayı onaylanmış kuruluşa gönderir.
+
+### EK V
+
+### AT TİP UYGUNLUK BEYANI
+
+(Üretim Kalite Güvencesi )
+
+1) İmalatçı, imalat için onaylanan kalite sistemini uygulayarak vücuda yerleştirilebilir aktif tıbbi cihazların nihaî kontrollerini bu Ekin (3) numaralı kısmında belirtildiği gibi yapar; ayrıca, bu Ekin (4) numaralı kısmında belirtilen gözetim ve denetime tâbidir.
+
+2) Uygunluk beyanı; bu Ekin (1) numaralı kısmında belirtilen gerekleri yerine getiren imalatçının, söz konusu ürünlerinin AT Tip-İnceleme Sertifikasında belirtilen tipe ve bu Yönetmeliğin ilgili hükümlerine uygunluğunu garanti eden ve bildiren işlemdir.
+
+İmalatçı veya yetkili temsilcisi, bu Yönetmeliğin 10 uncu maddesine uygun olarak CE işaretini iliştirir ve yazılı bir uygunluk beyanı hazırlar. Bu beyan ürün adı, ürün kodu veya diğer ibarelerle açıkça tanımlanmış tüm vücuda yerleştirilebilir aktif tıbbi cihazları içerir ve imalatçı tarafından muhafaza edilir. CE işaretinin yanında, bu Ekte belirtilen görevleri yerine getiren onaylanmış kuruluşun kimlik numarası yer almalıdır.
+
+3) Kalite sistemi:
+
+3.1. İmalatçı, kalite sisteminin değerlendirilmesi için onaylanmış kuruluşa başvurur.
+
+Başvuru şunları içerir:
+
+- İmalatı öngörülen ürün kategorisi için tüm uygun bilgiler,
+
+- Kalite sistemi hakkında belgeler,
+
+- İmalatçının, onaylanan kalite sisteminin gereklerini yerine getirme taahhüdü,
+
+- Onaylanan kalite sisteminin eksiksiz ve etkili olarak sürdürüleceğine dair imalatçı taahhüdü,
+
+- Gerektiğinde, onaylanan tipe ilişkin teknik belge ve AT Tip-İnceleme Sertifikasının bir örneği,
+
+- Ek VII’deki hükümler de dâhil olmak üzere, piyasaya arz sonrası gözetim ve denetim sisteminin oluşturulması ve bu sistemin güncel tutulmasına dair imalatçı taahhüdü. Bu taahhüt, imalatçının aşağıda belirtilen durumlardan bilgisi olduğu andan itibaren Bakanlığı derhal haberdar etme zorunluluğunu kapsar:
+
+a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan;
+
+1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması,
+
+2) Kullanım kılavuzu ve etiketteki yetersizlikler,
+
+b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler.
+
+3.2. Kalite sisteminin uygulanması, ürünlerin AT Tip-İnceleme Sertifikasında belirtilen tipe uygunluğunu sağlamalıdır.
+
+Kalite sistemi için imalatçı tarafından benimsenen bütün hükümler, gerekler ve öngörüler, sistematik ve düzenli olarak yazılı politika ve işlemler şeklinde belgelendirilmelidir. Bu kalite sistem belgelendirmesi, kalite planları, programları, el kitapları ve kayıtlar gibi kalite politikası ve işlemlerinin aynı şekilde yorumlanmasına imkân vermelidir.
+
+Bu belge, özellikle aşağıdaki tanımları içerir:
+
+a) İmalatçının kalite hedefleri,
+
+b) İşletmenin organizasyon yapısı ve özellikle;
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın imalatı konusunda yetkililerin ve çalışanların sorumlulukları, yetkileri ve kurumsal yapılanma,
+
+- Uygun olmayan vücuda yerleştirilebilir aktif tıbbi cihazların kontrolü dâhil, kalite sisteminin etkin işleyişini ve özellikle istenen kalitede ürün gerçekleştirilmesini izlemek için kullanılan metotlar,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın veya parçalarının imalatı ve/veya nihai muayene ve testi üçüncü taraflarca yapılıyor ise, kalite sisteminin etkin işleyişinin izlenmesine yönelik yöntemler ve özellikle de üçüncü tarafa uygulanan kontrolün şekli ve kapsamını;
+
+c) İmalat aşamasında kontrol ve kalite güvencesi teknikleri ve özellikle;
+
+- Sterilizasyon ve satın alma konusunda uygulanacak işlemler, yöntemler ve ilgili belgeler,
+
+- İmalatın her aşamasındaki çizimlerden, özelliklerden veya diğer ilgili belgelerden yararlanarak hazırlanan ve güncel tutulan, vücuda yerleştirilebilir aktif tıbbi cihaz tanımlama işlemleri,
+
+ç) İmalat öncesinde, esnasında ve sonrasında yapılacak uygun test ve denemeler, bunların hangi sıklıkla yapılacağı, kullanılan test cihazları.
+
+3.3. Onaylanmış kuruluş, bu Yönetmeliğin 16 ncı maddesi hükümleri saklı kalmak kaydıyla, kalite sisteminin bu Ekin (3.2) numaralı kısmında belirtilen gereklere uygun olup olmadığını saptamak için denetim yapar. İlgili uyumlaştırılmış standartların uygulandığı kalite sistemlerinin, söz konusu gereklere uygun olduğu kabul edilir.
+
+Değerlendirme ekibinde en az bir üyenin, ilgili teknoloji hakkında değerlendirme deneyimi olmalıdır. Değerlendirme işlemi, imalatçının yerinde denetimini de içerir.
+
+Karar, denetim sonuçları ve açıklamalı değerlendirmeyle birlikte imalatçıya tebliğ edilir.
+
+3.4. İmalatçı, kalite sistemine getirmeyi planladığı önemli değişikliklere ilişkin bütün tasarıları hakkında, kalite sistemini onaylayan onaylanmış kuruluşa bilgi verir.
+
+Onaylanmış kuruluş, teklif edilen değişiklikleri değerlendirir ve kalite sistemindeki bu değişikliklerin bu Ekin (3.2) numaralı kısmında belirtilen gereklere uyup uymadığını inceler ve kararını imalatçıya tebliğ eder. Bu karar, denetimin sonuçlarını ve açıklamalı değerlendirmeyi de kapsar.
+
+4) Gözetim ve denetim:
+
+4.1. Gözetim ve denetimin amacı, imalatçının onaylanan kalite sisteminin gereklerini tam olarak yerine getirmesini sağlamaktır.
+
+4.2. İmalatçı, onaylanmış kuruluşu gerekli tüm denetimleri yapması için yetkilendirir ve ona gerekli bütün bilgileri temin eder. Bu bilgiler;
+
+- Kalite sistemine ilişkin belgeler,
+
+- Teknik belgeler,
+
+- Kalite sisteminin imalatla ilgili bölümünde öngörülen muayene raporları, test verileri, kalibrasyon verileri ve ilgili personelin nitelikleri hakkındaki raporlar gibi veriler.
+
+4.3. Onaylanmış kuruluş, imalatçının onaylanan kalite sistemine uymasını sağlamak amacıyla periyodik olarak denetim ve değerlendirme yapar, imalatçıya değerlendirme raporu verir.
+
+4.4. Onaylanmış kuruluş, imalatçıya habersiz ziyaretler yapabilir ve denetim raporunu imalatçıya verir.
+
+5) Onaylanmış kuruluş, verilen, reddedilen veya geri alınan kalite sistemi onaylarıyla ilgili gerekli bilgileri diğer onaylanmış kuruluşlara verir.
+
+6) İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlara ilişkin uygulama:
+
+İnsan kanı türevi ihtiva eden vücuda yerleştirilebilir aktif tıbbi cihazlarda, her bir cihaz partisinin/lotunun imalatının tamamlanması söz konusu olduğunda, imalatçı, onaylanmış kuruluşu bu cihaz partisinin/lotunun piyasaya arzı konusunda bilgilendirir ve bunların piyasaya arzı ile ilgili olarak devlet laboratuvarı veya Bakanlıkça belirlenen bir başka laboratuvar tarafından Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği hükümlerine göre düzenlenen resmî sertifikayı onaylanmış kuruluşa gönderir.
+
+### EK VI
+
+### ÖZEL AMAÇLI CİHAZLARA İLİŞKİN BEYAN
+
+1) İmalatçı veya yetkili temsilcisi, ısmarlama üretilen cihazlar veya klinik araştırma amaçlı cihazlar için bu Ekin (2) numaralı kısmında belirtilen bilgileri içeren bir beyan hazırlar.
+
+2) Bu beyan aşağıdaki bilgileri kapsar:
+
+2.1. Ismarlama üretilen cihazlar için;
+
+- İmalatçının adı ve adresi,
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazı tanımlayıcı bilgiler,
+
+- Hastanın adıyla birlikte, vücuda yerleştirilebilir aktif tıbbi cihazın belirli bir hasta tarafından kullanılacağını belirten beyan,
+
+- Reçeteyi yazan tabibin adı, gerektiğinde ilgili kliniğin adı,
+
+- Reçetede belirtilen vücuda yerleştirilebilir aktif tıbbi cihazın spesifik özellikleri,
+
+- Söz konusu vücuda yerleştirilebilir aktif tıbbi cihazın Ek I’de belirtilen temel gereklere uygunluğunu ve bu gerekleri tam olarak karşılamadığı durumlarda, bunları gerekçesiyle birlikte açıklayan bir beyan.
+
+2.2. Ek VII’da belirtilen klinik araştırma amaçlı cihazlar için;
+
+- Cihazı tanımlayıcı bilgiler,
+
+- Klinik araştırma planı,
+
+- Araştırmacı broşürü,
+
+- Araştırmaya konu olanların sigorta kapsamında olduğuna dair teyit,
+
+- Bilgilendirilmiş gönüllü olur formu,
+
+- Ek I/10’da belirtilen bir madde veya insan kanı türevinin bir bütünün parçası olarak cihazın yapısında yer alıp almadığına ilişkin beyan,
+
+- İlgili etik kurulun görüşleri ve bu görüşlerle ilgili detaylı açıklamalar,
+
+- Araştırmadan sorumlu kurumun ve tıbbi uygulayıcının veya diğer yetkili personelin adı,
+
+- Araştırmaların yapıldığı yer, başlama tarihi ve planlanan süresi,
+
+- Cihazın, araştırmalar kapsamındaki konular dışında kalan temel gereklere uygunluğu ile hastanın güvenliği ve sağlığının korunması amacıyla alınan tüm tedbirleri belirten beyan.
+
+3) İmalatçı aynı zamanda Bakanlığa gerektiğinde sunmak üzere:
+
+3.1. Bu Yönetmeliğin gereklerini taşıdığına ilişkin değerlendirme yapılmasına imkân verecek şekilde, ısmarlama üretilen cihazların tasarımına, imalatına, beklenen performansı ile birlikte gerçek performansına ve imalat yer(ler)ine ilişkin belgeyi hazır bulundurur.
+
+İmalatçı, imalat yönteminin, bu kısmın birinci paragrafında belirtilen belgeye uygun vücuda yerleştirilebilir aktif tıbbi cihaz imal etmesini sağlayacak şekilde gerekli bütün tedbirleri alır.
+
+3.2. Klinik araştırma amaçlı cihazlara ilişkin belgeler aşağıdaki bilgileri içermelidir:
+
+- Cihazın genel tanımı ve kullanım amacı,
+
+- Tasarım çizimleri, özellikle sterilizasyonla ilgili öngörülen imalat metotları ile bileşenler, alt gruplar ve devreleri gösteren ayrıntılı şema,
+
+- Cihazın çalışması, çizim ve şemaların anlaşılması için gerekli tanım ve açıklamalar,
+
+- Risk analizi sonuçları ve bu Yönetmeliğin 7 nci maddesinde belirtilen standartlardan tam veya kısmen uygulananların bir listesi ile bu standartlar uygulanmadığında, bu Yönetmeliğin temel gereklerini karşılamak için benimsenen çözümlerin tanımı,
+
+- Cihazın, Ek I/10’da bahsedilen, bir bütünün parçası olarak insan kanı türevi veya bir madde ihtiva ettiği durumlarda, cihazın belirtilen amacını dikkate alarak, bu çerçevede, insan kanı türevi veya maddenin kullanışlılığının, kalitesinin ve güvenilirliğinin tayin edilmesi için gereken test sonuçlarına ait veriler,
+
+- Uygulanan kontroller ve teknik testler ile tasarım hesaplamaları gibi sonuçlar.
+
+İmalatçı, imalat sürecinde bu kısmın birinci paragrafında ve bu Ekin 3.1 kısmında belirtilen belgeye uygun cihaz imal edilmesini sağlayacak gerekli bütün tedbirleri alır.
+
+İmalatçı bu tedbirlerin etkililiğinin değerlendirilmesini veya gerektiğinde denetimini kabul ve taahhüt eder.
+
+4) Bu Ekte öngörülen bilgi ve belgeler son ürünün imalat tarihinden itibaren en az 15 (onbeş) yıl süreyle saklanır.
+
+5) Ismarlama üretilen cihazlar için imalatçı, üretim sonrası aşamada cihazlardan elde edilen verilerin, Ek VII’de yer alan hükümler de dâhil olmak üzere, gözden geçirilmesi ve gerekli düzeltici faaliyetlerin uygulanmasından sorumludur. Bu kapsamda imalatçının aşağıda belirtilen durumlardan bilgisi olduğu andan itibaren Bakanlığı derhal haberdar etme yükümlülüğü de bulunmaktadır:
+
+a) Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan;
+
+1) Vücuda yerleştirilebilir aktif tıbbi cihazın özelliklerinin ve/veya performansının bozulması ya da sapması,
+
+2) Kullanım kılavuzu ve etiketteki yetersizlikler,
+
+b) Bu fıkranın (a) bendinde belirlenen nedenlerden dolayı aynı tip vücuda yerleştirilebilir aktif tıbbi cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, bu cihazların özelliğine ve performansına bağlı teknik ve tıbbi sebepler.
+
+### EK VII
+
+### KLİNİK DEĞERLENDİRME
+
+1) Genel Hükümler:
+
+1.1. Genel bir kural olarak, vücuda yerleştirilebilir aktif tıbbi cihazın normal kullanım koşulları altında, Ek I’in (1) ve (2) numaralı kısımlarında belirtilen performans ve özellikler bakımından gerekleri karşıladığına ilişkin teyit ve Ek I’in (5) numaralı kısmında belirtilen fayda-risk oranının kabul edilebilirliğine ve yan etkilere ilişkin değerlendirme, klinik verilere dayanmalıdır. Bu verilere ilişkin değerlendirme, bundan böyle “klinik değerlendirme” olarak anılacak olup gerektiğinde ilgili uyumlaştırılmış standartlar dikkate alınmak suretiyle, metodolojik olarak kabul edilebilir ve tanımlanmış olan ve aşağıdaki hususlardan birine dayanan bir prosedürü izlemelidir.
+
+1.1.1. Söz konusu prosedür;
+
+- Kendisi ile ilgili veri bulunan vücuda yerleştirilebilir aktif tıbbi cihaz ile değerlendirmeye tabi tutulan vücuda yerleştirilebilir aktif tıbbi cihazın eşdeğer olması ve
+
+- Söz konusu verilerin, ilgili temel gereklerle tam bir uyum göstermesi halinde, vücuda yerleştirilebilir aktif tıbbi cihazın güvenliğine, performansına, tasarım özelliklerine ve kullanım amacına ilişkin olarak mevcut ilgili bilimsel literatürün kritik değerlendirilmesine dayanabilir.
+
+1.1.2. Söz konusu prosedür, yapılan tüm klinik araştırmalardan elde edilen sonuçların kritik değerlendirmesine dayanabilir.
+
+1.1.3. Söz konusu prosedür, (1.1.1) ve (1.1.2) numaralı kısımlarda belirtilen klinik verilerin birleştirilmesi ile yapılacak kritik değerlendirmeye dayanabilir.
+
+1.2. Mevcut klinik verilere dayandığı tam olarak gerekçelendirilemeyen vücuda yerleştirilebilir aktif tıbbi cihazlar için klinik araştırma yapılır.
+
+1.3. Klinik değerlendirme ve elde edilen sonuçlar belgelendirilir. Söz konusu belgelere ve/veya bunları tam olarak tanımlayan bilgilere, vücuda yerleştirilebilir aktif tıbbi cihazın teknik dosyasında yer verilir.
+
+1.4. Klinik değerlendirme ve buna ilişkin belgeler, piyasaya arz sonrası gözetim ve denetimden elde edilen veriler doğrultusunda sürekli olarak güncellenmelidir. Vücuda yerleştirilebilir aktif tıbbi cihazın piyasaya arz sonrası gözetim ve denetim planı kapsamında, piyasaya arz sonrası klinik takibin gerekli görülmediği hallerde, bu durum tam olarak gerekçelendirilir ve belgelendirilir.
+
+1.5. Klinik verilere dayalı olarak temel gereklere uygunluğun gösterilmesinin uygun olmadığı durumlarda, vücuda yerleştirilebilir aktif tıbbi cihaz ile vücudun etkileşim özellikleri, amaçlanan klinik performans ve imalatçının savları dikkate alınarak ve risk yönetimi çıktılarına dayanılarak uygun bir gerekçelendirme yapılır. Sadece performans değerlendirmesine, kıyas testine ve klinik öncesi değerlendirmeye dayanılarak vücuda yerleştirilebilir aktif tıbbi cihazın temel gereklere uygunluğu gösterilecek ise bu durumun tam olarak gerekçelendirilmesi gerekir.
+
+1.6. Tüm veriler, açıklanmalarının gerekli olduğuna karar verilene kadar gizli kalmalıdır.
+
+2) Klinik Araştırmalar:
+
+2.1. Klinik araştırmanın amacı;
+
+- Vücuda yerleştirilebilir aktif tıbbi cihazın normal kullanım koşullarındaki performansının Ek I’in (2) numaralı kısmına göre uygunluğunun değerlendirilmesi,
+
+- Normal kullanım koşullarındaki istenmeyen herhangi bir yan etkiyi ve bu etkinin vücuda yerleştirilebilir aktif tıbbi cihazın amaçlanan performansıyla kıyaslandığında kabul edilebilir bir risk oluşturup oluşturmadığının değerlendirilmesidir.
+
+2.2. Etik Değerlendirmeler;
+
+Klinik araştırmalar, 1964’te Finlandiya’nın Helsinki şehrinde yapılan 18 inci Dünya Tıp Asamblesinde kabul edilen ve son düzenlemeleri Dünya Tıp Asamblesinde yapılan, Helsinki Bildirgesine göre gerçekleştirilmelidir. İnsan sağlığını korumaya yönelik bütün tedbirlerin Helsinki Bildirgesi çerçevesinde uygulanması zorunludur. Bu Bildirge, ihtiyacın fark edildiği ve çalışmanın gerekçelendirildiği andan sonuçların yayınlanmasına kadar, klinik araştırmanın her aşamasını içerir.
+
+2.3. Metotlar;
+
+2.3.1. Klinik araştırmalar, güncelliğini koruyan bilimsel ve teknik bilgileri yansıtan bir plana göre uygulanmalı ve imalatçının vücuda yerleştirilebilir aktif tıbbi cihaza ilişkin iddialarını doğrulayıcı veya reddedici şekilde belirlenmelidir. Bu araştırmalar, sonuçların bilimsel geçerliliğini garantileyen yeterli sayıda gözlem içermelidir.
+
+2.3.2. Araştırmaları gerçekleştirmek için kullanılan metotlar incelenen vücuda yerleştirilebilir aktif tıbbi cihaza uygun olmalıdır.
+
+2.3.3. Klinik araştırmalar vücuda yerleştirilebilir aktif tıbbi cihazın normal koşullarda kullanımına benzer şartlarda yapılmalıdır.
+
+2.3.4. Vücuda yerleştirilebilir aktif tıbbi cihazın performansı ve güvenilirliği ile ilgili olanlar da dâhil, uygun bütün özellikleri ve bunların hasta üzerindeki etkileri incelenmelidir.
+
+2.3.5. Bütün ciddi olumsuz durumlar, eksiksiz olarak kaydedilmeli ve klinik araştırmanın yapıldığı ülkeye/ülkelere ve bu ülkenin/ülkelerin adıyla birlikte Bakanlığa derhal bildirilmelidir.
+
+2.3.6. Araştırmalar, ilgili vasıflı tıbbi uygulayıcı veya yetkili kişi tarafından uygun bir ortamda yapılmalıdır.
+
+İlgili tıbbi uzman vücuda yerleştirilebilir aktif tıbbi cihaza ilişkin teknik verilere sahip olmalıdır.
+
+2.3.7. Yazılan rapor, klinik araştırma süresince toplanan bütün verilerin eleştirel bir değerlendirilmesini içermeli ve sorumlu ilgili tıbbi uzman tarafından imzalanmalıdır.
+
+### EK VIII
+
+### ONAYLANMIŞ KURULUŞUN ATANMASINA İLİŞKİN ASGARÎ ÖZELLİKLER
+
+1) Onaylanmış kuruluşun yöneticisi ile değerlendirme ve doğrulama işlemini yürüten personeli, aynı zamanda denetimlerini yaptıkları vücuda yerleştirilebilir aktif tıbbi cihazları tasarlayan, imal eden, temin eden veya kurulumunu yapan kişiler ya da bu kişilerin yetkili temsilcileri olamazlar. Bu kişiler vücuda yerleştirilebilir aktif tıbbi cihazların tasarımına, yapımına, pazarlanmasına veya bakımına doğrudan katılmamalı veya bu faaliyetlerde görev alan tarafları temsil etmemelidir. Bu hususlar imalatçı ile kurum arasındaki teknik bilgi alışverişini engellemez.
+
+2) Onaylanmış kuruluş ve ilgili personeli, vücuda yerleştirilebilir aktif tıbbi cihazlar alanında yeterli teknik bilgiye sahip olmalı, değerlendirme ve doğrulama işlemlerini meslekî etik kurallar içinde gerçekleştirmelidir. Özellikle doğrulama sonuçlarından çıkar sağlayacak kişi ve gruplardan gelen denetim sonuçlarını etkileyebilecek tüm baskılarından ve parasal yönlendirmelerden uzak olmalıdırlar.
+
+3) Onaylanmış kuruluş Ek II, III, IV ve V’den birine göre kendisine verilen görevi yapmaya veya kendi sorumluluğu altında yaptırmaya yetkin olmalıdır. Onaylanmış kuruluş, değerlendirme ve doğrulama faaliyetlerinin gerektirdiği teknik ve idarî işlemleri yürütmesi için gerekli personel ve teknik imkânlara sahip olmalıdır. Doğrulamalar için gerekli olan ekipmanlar ulaşılabilir olmalıdır.
+
+4) Onaylanmış kuruluşun denetimden sorumlu personeli:
+
+- Atandığı değerlendirme ve doğrulama işlemlerinin tamamını kapsayan meslekî eğitime,
+
+- Yaptığı denetim kuralları hakkında yeterli bilgiye ve denetim tecrübesine,
+
+- Yapmış olduğu denetimleri gösteren sertifikaları, kayıtları ve raporları düzenleme becerisine,
+
+sahip olmalıdır.
+
+5) Onaylanmış kuruluş, tarafsızlığını garanti etmelidir. Ücretler, yapılan denetimlerin sayısına veya sonuçlarına bağlı olmamalıdır.
+
+6) Onaylanmış kuruluş, kendisine verilen yetkilere istinaden yaptığı her türlü işlem ile ilgili olarak hukukî sorumluluğu üstlenmelidir.
+
+7) Bu Yönetmelik hükümlerine göre, onaylanmış kuruluşun personeli, görevi sebebiyle öğrendiği her türlü bilgileri yetkili idarî ve adlî mercilerin talepleri olması hali dışında, meslekî sır olarak saklamalıdır.
+
+### EK IX
+
+### CE UYGUNLUK İŞARETİ
+
+CE uygunluk işareti, "CE" harflerinden oluşur.
+
+- Eğer işaret büyültülür veya küçültülür ise, yukarıdaki çizim içinde gösterilen oranlar değişmemelidir.
+
+- CE işareti harfleri, aynı tarz ve dikey boyutlarda olmalıdır. Dikey boyut, 5 (beş) milimetreden küçük olamaz. Bu minimal boyut, küçük boyutlu vücuda yerleştirilebilir aktif tıbbi cihazlar için zorunlu değildir.

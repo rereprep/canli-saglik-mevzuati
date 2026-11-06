@@ -10,6 +10,590 @@ kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmem
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2015/01/20150122-7.htm"
 ---
 
-| 22 Ocak 2015 PERŞEMBE | Resmî Gazete | Sayı : 29244 |
-| YÖNETMELİK |
-| Sa ğ l ı k Bakanl ığı (T ü rkiye Halk Sa ğ l ığı Kurumu) ’ ndan: HALK SA Ğ LI Ğ I LABORATUVARLARI VE YETK İ LEND İ R İ LM İŞ LABORATUVARLARIN Ç ALI Ş MA USUL VE ESASLARI HAKKINDA Y Ö NETMEL İ K B İ R İ NC İ B Ö L Ü M Ama ç , Kapsam, Dayanak ve Tan ı mlar Ama ç MADDE 1 – (1) Bu Y ö netmeli ğ in amac ı ; halk sa ğ l ığı laboratuvarlar ı n ı n kurulu ş u, s ı n ı fland ı r ı lmas ı , g ö rev ve faaliyetlerinin d ü zenlenmesi, a çı lmas ı , yetkilendirilmesi ve denetlenmesi ile y ü zme havuz suyu analizi yapan kamu kurum ve kurulu ş lar ı , yerel y ö netimler ile ger ç ek ve t ü zel ki ş ilere ait laboratuvarlar ı n yetkilendirilmesi, ç al ış mas ı ve denetlenmesi ile ilgili usul ve esaslar ı belirlemektir. Kapsam MADDE 2 – (1) Bu Y ö netmelik; halk sa ğ l ığı alan ı nda faaliyet g ö steren klinik d ışı laboratuvarlar ı kapsar. (2) Halk sa ğ l ığı laboratuvarlar ı ; klinik laboratuvar ç al ış ma usul ve esaslar ı bak ı m ı ndan 9/10/2013 tarihli ve 28790 say ı l ı Resm î Gazete ’ de yay ı mlanan T ı bbi Laboratuvarlar Y ö netmeli ğ i h ü k ü mlerine, di ğ er hususlar bak ı m ı ndan bu Y ö netmelik h ü k ü mlerine tabidir. Dayanak MADDE 3 – (1) Bu Y ö netmelik; 11/10/2011 tarihli ve 663 say ı l ı Sa ğ l ı k Bakanl ığı ve Ba ğ l ı Kurulu ş lar ı n ı n Te ş kilat ve G ö revleri Hakk ı nda Kanun H ü km ü nde Kararname ’ nin 26 nc ı maddesi ile 40 ı nc ı maddesinin birinci f ı kras ı na, 7/5/1987 tarihli ve 3359 say ı l ı Sa ğ l ı k Hizmetleri Temel Kanunu ’ nun 9 uncu maddesinin (c) bendine ve 1593 say ı l ı Umumi H ı fz ı ss ı hha Kanunu ’ nun 2 nci maddesi ile 3 ü nc ü maddesinin birinci f ı kras ı n ı n on birinci bendine dayan ı larak haz ı rlanm ış t ı r. Tan ı mlar MADDE 4 – (1) Bu Y ö netmelikte ge ç en; a) Analiz yapma yetkisi: Kurum laboratuvarlar ı ve y ü zme havuzu suyu analizi yapmak isteyen kamu kurum ve kurulu ş lar ı , yerel y ö netimler ile ger ç ek ve t ü zel ki ş ilere ait laboratuvarlara verilen yetkiyi, b) Bakanl ı k: Sa ğ l ı k Bakanl ığı n ı , c) Ba ş kanl ı k: Halk Sa ğ l ığı Laboratuvarlar ı Daire Ba ş kanl ığı n ı , ç ) D ış kalite kontrol: Laboratuvarlar ı n analiz sonu ç lar ı n ı n g ü venilirli ğ ini tespit etmek veya y ü kseltmek amac ı yla, laboratuvar ı n d ışı ndaki bir kurum/kurulu ş taraf ı ndan d ü zenlenen, i ç eri ğ i veya konsantrasyonu bilinen ya da bilinmeyen numunelerle yap ı lan izleme ve de ğ erlendirme ç al ış mas ı n ı , d) Halk sa ğ l ığı laboratuvar ı : Halk sa ğ l ığı n ı n korunmas ı ve iyile ş tirilmesi kapsam ı nda birey ve toplum sa ğ l ığı n ı etkileyen ve etkileyebilecek etmenleri inceleyen ve g ö rev alan ı yla ilgili klinik ve klinik d ışı laboratuvar hizmetleri sunan Kurum laboratuvar ı n ı , e) İç kalite kontrol: Analiz s ü recinin kalitesini de ğ erlendirmek ve sonu ç lar ı n g ü venilirli ğ ini y ü kseltmek amac ı yla laboratuvar taraf ı ndan yap ı lan kalite kontrol ç al ış mas ı n ı , f) İ nceleme komisyonu: Laboratuvarlar ı n yetkilendirilmesi s ü recinde inceleme ve de ğ erlendirme yapan komisyonu, g) Klinik d ışı analiz: Halk sa ğ l ığı na y ö nelik klinik analizler d ışı ndaki analizleri, ğ ) Klinik laboratuvar: T ı bbi Laboratuvarlar Y ö netmeli ğ inde d ü zenlenen t ı bbi laboratuvar ı , h) Kurum: T ü rkiye Halk Sa ğ l ığı Kurumunu, ı ) Laboratuvar birimi: Halk sa ğ l ığı laboratuvar ı n ı n g ö revi kapsam ı ndaki ç al ış malar ı n yap ı ld ığı bir veya birden fazla laboratuvar grubunu, i) Laboratuvar sorumlusu: Halk sa ğ l ığı laboratuvar ı n ı n y ö netiminden sorumlu personeli, j) Yetkilendirilmi ş laboratuvar: Kamu kurum ve kurulu ş lar ı , yerel y ö netimler ile ger ç ek ve t ü zel ki ş ilere ait laboratuvarlara y ü zme havuz suyu analizlerinde Kurumca yetki verilen laboratuvar ı , k) M ü d ü rl ü k: Halk Sa ğ l ığı M ü d ü rl üğü n ü , ifade eder. İ K İ NC İ B Ö L Ü M Halk Sa ğ l ığı Laboratuvarlar ı n ı n Kurulu ş u, S ı n ı fland ı r ı lmas ı , Birimleri ve G ö revleri Kurulu ş u MADDE 5 – (1) Kurum taraf ı ndan her ilde bir halk sa ğ l ığı laboratuvar ı kurulur. Ancak, n ü fus b ü y ü kl üğü , ula şı m durumu, co ğ rafi durum ve mevsimlere g ö re n ü fus hareketlili ğ i g ö z ö n ü nde bulundurularak, ayn ı il s ı n ı rlar ı i ç inde birden fazla halk sa ğ l ığı laboratuvar ı veya ek hizmet binas ı kurulmas ı na izin verilebilir. (2) Halk sa ğ l ığı laboratuvar ı n ı n kurulmas ı i ç in, klinik ve klinik d ışı analizleri yapabilecek nitelikte asgari personel istihdam edilir. (3) Halk sa ğ l ığı laboratuvar ı nda i ş y ü k ü n ü kar şı layacak yeterli ve uygun cihaz ve ekipman bulunur, ayr ı ca 13 ü nc ü , 14 ü nc ü ve 15 inci maddelerdeki ş artlar sa ğ lan ı r. (4) Halk sa ğ l ığı laboratuvar ı gerekti ğ inde yirmi d ö rt saat hizmet esas ı na g ö re ç al ışı r. S ı n ı fland ı r ı lmas ı MADDE 6 – (1) Halk sa ğ l ığı laboratuvarlar ı hizmet tipine g ö re a ş a ğı daki ş ekilde s ı n ı fland ı r ı l ı r: a) L2 Hizmet Tipi Halk Sa ğ l ığı Laboratuvar ı : Kurumun planlamas ı ve izni dahilinde ilgili mevzuat ı kapsam ı nda Kurumca belirlenen klinik ve klinik d ışı analizleri ger ç ekle ş tiren laboratuvard ı r. b) L1 Hizmet Tipi Halk Sa ğ l ığı Laboratuvar ı : TS EN ISO/IEC 17025 standard ı na g ö re akredite olan, ilgili mevzuat ı kapsam ı nda Kurumca belirlenen klinik ve klinik d ışı analizleri ger ç ekle ş tiren ve b ö lgesindeki L2 hizmet tipi laboratuvarlara analiz, e ğ itim ve dan ış manl ı k hizmetleri sunan laboratuvard ı r. c) Test Baz ı nda Referans Yetkili Laboratuvar: Referans oldu ğ u parametrenin do ğ rulamas ı n ı yapan, gerekti ğ inde yeni y ö ntemlerin ge ç erli k ı l ı nmas ı n ı sa ğ layan ve bu kapsamda kurumca yetkilendirilen laboratuvard ı r. Test Baz ı nda Referans Yetkili Laboratuvar olabilme ö l çü tleri ve g ö revleri Kurumca belirlenir. Birimleri MADDE 7 – (1) Halk sa ğ l ığı laboratuvarlar ı asgari a ş a ğı daki laboratuvar birimlerinden olu ş ur ve ihtiya ç halinde M ü d ü rl üğü n teklifi ve Kurumun onay ı ile yeni laboratuvar birimleri a çı labilir. a) Klinik d ışı mikrobiyoloji laboratuvar birimi; Kurumun izni d â hilinde belirlenen klinik d ışı numunelerde mikrobiyolojik analizleri yapar. b) Kimyasal analiz laboratuvar birimi; Kurumun izni d â hilinde belirlenen klinik d ışı numunelerde fiziksel ve kimyasal analizleri yapar. G ö revleri MADDE 8 – (1) Halk sa ğ l ığı laboratuvarlar ı n ı n g ö revleri; a) 6 nc ı maddenin birinci f ı kras ı ndaki hizmet tipine g ö re belirtilen g ö revleri yapmak, b) Aile hekimli ğ i hizmetleri ve birinci basamak tan ı /tarama testleri kapsam ı nda tan ı ya yard ı mc ı test ve analizleri yapmak, c) Kan, idrar gibi v ü cut s ı v ı lar ı ile di ğ er klinik ö rneklerde mikrobiyolojik ve biyokimyasal analizleri yapmak, ç ) Klinik ve klinik d ışı ö rnekleri gerekti ğ inde kesin tan ı i ç in test baz ı nda referans yetkili laboratuvara g ö ndermek, d) Salg ı n veya olay ara ş t ı rmas ı amac ı yla aktif vaka bulma ç al ış malar ı dahil , M ü d ü rl ü k taraf ı ndan ilde endemik, epidemik ve/veya halk sa ğ l ığı problemi oldu ğ u belirlenen durumlar ı n ara ş t ı r ı lmas ı na kat ı lmak, salg ı n durumlar ı nda olaya maruz kalm ış birey, hayvan ve ç evresel numunelerin toplama i ş leminde gerekti ğ inde M ü d ü rl üğ e yard ı mc ı olmak, analizlerini yapmak, gereken numuneleri test baz ı nda referans yetkili laboratuvara g ö ndermek, e) Hizmet i ç i e ğ itim planlar ı haz ı rlamak, bu amaca y ö nelik e ğ itimleri yapmak ve yap ı lmas ı n ı sa ğ lamak, f) Halk sa ğ l ığı laboratuvar ı hizmetleri kapsam ı nda ulusal ve uluslararas ı geli ş meleri takip ederek ara ş t ı rma geli ş tirme faaliyetlerinde bulunmak, g) Yerel ve b ö lgesel ihtiya ç lar do ğ rultusunda tespit edilen analizleri yapmak, ğ ) Kurumca faaliyet alanlar ı ile ilgili verilecek di ğ er g ö revleri yapmak. ÜÇÜ NC Ü B Ö L Ü M Halk Sa ğ l ığı Laboratuvar ı n ı n A çı lmas ı , Hizmet Tipi De ğ i ş ikli ğ i, Kapsam Geni ş letme, Laboratuvar Binas ı , Yerle ş im Plan ı , Fiziki Ş artlar ı ve Laboratuvar G ü venli ğ i A çı lmas ı MADDE 9 – (1) Halk sa ğ l ığı laboratuvar ı ve/veya laboratuvar birimleri M ü d ü rl üğü n teklifi ve Kurumun onay ı ile a çı l ı r. (2) M ü d ü rl ü k, a çı lacak halk sa ğ l ığı laboratuvar ı n ı n ve/veya birimlerinin faaliyet plan ı , kapasitesi ve a çı lma gerek ç elerini i ç eren yaz ı ve Ek-1 ’ de belirtilen ba ş vuru dilek ç esi ile Kuruma m ü racaatta bulunur. M ü racaat uygun g ö r ü ld üğü takdirde M ü d ü rl ü k ç e ba ş vuru dosyas ı haz ı rlan ı r. (3) Ba ş vuru dosyas ı nda a ş a ğı daki belgeler yer al ı r: a) Laboratuvar tan ı t ı m bildirimi Ek-2, b) Ç al ış anlar ı n g ö rev yetki ve sorumluluklar ı listesi Ek-3, c) Cihaz ve ekipman listesi Ek-4, ç ) Parametre listesi Ek-5, d) Standart ç al ış ma prosed ü rleri , e) Laboratuvar ı n fiziki altyap ı ö zellikleri ve yerle ş im plan ı ile 1/100 ö l ç ekli krokisi, f) Laboratuvar ı n Ba ş kanl ı k ç a haz ı rlanan prototip rehbere uygunlu ğ unu g ö steren krokisi. (4) Haz ı rlanan ba ş vuru dosyas ı incelenmek ü zere Kuruma g ö nderilir. İ ncelenen dosyada eksiklik varsa M ü d ü rl üğ e iade edilir. Dosyada eksiklik bulunmamas ı halinde İ nceleme Komisyonuna g ö nderilir. (5) İ nceleme Komisyonu; Ba ş kanl ı ktan bir ve konusunda uzman iki teknik personel olmak ü zere en az üç ki ş iden olu ş ur. Gerekli g ö r ü lmesi halinde alan ı nda uzman ki ş ilerden de g ö r üş al ı nabilir. (6) İ nceleme Komisyonu, laboratuvar ı Ek-6 ’ ya g ö re teknik olarak yerinde inceler ve Ek-7 ’ deki İ nceleme Tutana ğı n ı tanzim eder. İ nceleme Komisyonu, raporunu be ş i ş g ü n ü i ç inde haz ı rlar ve Ba ş kanl ığ a sunar. Uygun bulunmas ı halinde Kurumca a çı lma izni verilir. Hizmet tipi de ğ i ş ikli ğ i MADDE 10 – (1) Numune say ı s ı ve analiz ç e ş itlili ğ i, personel say ı s ı , akreditasyonu, cihaz kapasitesi gibi y ö nlerden yeterli bulunan L2 hizmet tipi halk sa ğ l ığı laboratuvar ı , M ü d ü rl üğü n teklifi ve ü lke genelindeki planlama d â hilinde Kurumun onay ı ile L1 hizmet tipi halk sa ğ l ığı laboratuvar ı na d ö n üş t ü r ü lebilir. (2) Kurumca yap ı lan ü st ü ste iki denetimde ayn ı konuyla alakal ı olarak hizmetin gerekliliklerini kar şı lamad ığı tespit edilen L1 hizmet tipi halk sa ğ l ığı laboratuvar ı , L2 hizmet tipi halk sa ğ l ığı laboratuvar ı na d ö n üş t ü r ü lebilir. Kapsam geni ş letme MADDE 11 – (1) Laboratuvar sorumlusu, laboratuvar ı n klinik d ışı faaliyet kapsam ı n ı geni ş letmek i ç in M ü d ü rl üğ e ba ş vurur. M ü d ü rl ü k ç e, uygun bulunmas ı durumunda gerek ç eleriyle birlikte Kuruma m ü racaat edilir. (2) Gerek ç elerin uygun bulunmas ı durumunda m ü racaatta bulundu ğ u kapsam geni ş letmesine y ö nelik 9 uncu madde h ü k ü mleri uygulan ı r. Laboratuvar binas ı MADDE 12 – (1) Halk sa ğ l ığı laboratuvar ı ikamete mahsus binalarda a çı lamaz. (2) Halk sa ğ l ığı laboratuvar binas ı n ı n ba ş ka kurumlar veya birimler taraf ı ndan kullan ı lmamas ı esast ı r. Ancak, zorunlu durumlarda Kurumun izni d â hilinde, laboratuvarlar ı n kontroll ü ge ç i ş le ayr ı lmas ı ş art ı yla, bina ge ç ici olarak m üş tereken kullan ı labilir. Yerle ş im plan ı MADDE 13 – (1) Halk sa ğ l ığı laboratuvar ı nda binaya giri ş ten itibaren numune kabul, kay ı t, ofisler, teknik alanlar, depolar, asans ö rler gibi alanlar i ş ak ış y ö n ü ne g ö re d ü zenlenir ve y ö nlendirme yap ı l ı r. (2) Halk sa ğ l ığı laboratuvar ı yerle ş im plan ı ; teknik alanlar, ortak destek alanlar ı , laboratuvar destek alanlar ı ve ofis alanlar ı olmak ü zere d ö rt temel alandan olu ş ur. Bu alanlar; a) Teknik alanlar; laboratuvar ç al ış malar ı n ı n ger ç ekle ş tirilmesi i ç in gerekli donan ı m ve uygun ş artlar ı n sa ğ land ığı fiziksel, kimyasal ve mikrobiyolojik analiz a ş amalar ı n ı n y ü r ü t ü ld üğü alanlard ı r. b) Ortak destek alanlar ı ; numune alma/kabul birimi, raporland ı rma, ar ş iv, ge ç ici at ı k depolama alan ı , sarf malzeme deposu, kimyasal malzeme deposu ve laboratuvar ı n ortak ihtiyac ı olarak kullan ı lan benzer birimlerdir. c) Laboratuvar destek alanlar ı ; besiyeri haz ı rlama ve sterilizasyon, kirli dekontaminasyon, tart ı m/sol ü syon haz ı rlama odas ı ve laboratuvar ç al ış malar ı nda kullan ı lan di ğ er laboratuvar alanlar ı d ı r. ç ) Ofis alanlar ı ; sekretarya, idari b ü ro, y ö netici ve personel odalar ı , sosyal alanlar ve tuvaletler gibi alanlard ı r. Bu alanlar teknik alanlar ve laboratuvar destek alanlar ı n ı n i ç inde yer alamaz. Fiziki ş artlar MADDE 14 – (1) Klinik laboratuvarlar, T ı bbi Laboratuvarlar Y ö netmeli ğ indeki fiziki ş artlar ı yerine getirecek ş ekilde yap ı land ı r ı l ı r. Klinik d ışı laboratuvarlar ise s ı n ı flar ı na uygun olarak a ş a ğı daki fiziki ş artlar ı yerine getirecek ş ekilde yap ı land ı r ı l ı r. a) Klinik d ışı mikrobiyoloji ve kimyasal analiz laboratuvarlar ı , kapsam ı nda yer alan teknik alanlar ı n her biri en az 16 metrekare olur. Mikrobiyoloji ve kimyasal analiz ç al ış malar ı birle ş tirilemez ve ayn ı alanda ger ç ekle ş tirilemez. b) Destek alanlar ı en az bir numune kabul birimi, malzeme deposu, besiyeri haz ı rlama ve sterilizasyon odas ı i ç in uygun alandan olu ş ur. Bu alanlar ı n her biri en az 10 metrekare olur. Bu alanlar, laboratuvar ve laboratuvar teknik alan ı ile fonksiyonel bir b ü t ü nl ü k olu ş turacak ş ekilde d ü zenlenir. c) Ofis alanlar ı ; sekretarya, bekleme yeri, tuvaletler, personel odalar ı gibi b ö l ü mlerden olu ş ur. Ofis alanlar ı ndaki b ö l ü mler bir b ö lgede toplanabilir ve ortak kullan ı labilir. Ancak bu b ö l ü mler laboratuvar teknik alan ı n ı n i ç inde yer alamaz. ç ) Teknik alanlar ı n, laboratuvar destek alanlar ı n ı n ve numune alma/kabul biriminin zemin kaplamalar ı y ü zey boyunca eklentisiz, tek par ç a, kolay temizlenebilir yer kaplama malzemesi ile kaplan ı r. d) Enstr ü mental cihazlarla yap ı lan analizlerde numune haz ı rlama birimi ile cihaz ı n bulundu ğ u birim ayr ı planlan ı r. Ortama hava ve gaz veren cihazlar ile analizde kullan ı lan çö zeltiler ve haz ı rlanan numuneler a çı k ortamda bulunuyor ise uygun havaland ı rma sistemi bulunur. e) Laboratuvarda su ihtiyac ı n ı s ü rekli sa ğ layacak ş ebeke suyu ve s ı cak su tertibat ı bulunur. f) Kesintisiz g üç kayna ğı d ü zenekleri laboratuvar ç al ış mas ı na uygun bi ç imde yap ı land ı r ı l ı r. g) Su ve gaz iletim sistemleri, radyat ö rler, ayd ı nlatma sistemi ve ba ğ lant ı lar ı ile di ğ er servis noktalar ı kolayca temizlenebilir ve gerekti ğ inde dezenfekte edilebilir ö zellikte olur. ğ ) Laboratuvar ç al ış malar ı na ait at ı k y ö netimi de d â hil olmak ü zere ilgili t ü m standart ç al ış ma prosed ü rleri ve cihaz kullan ı m talimatlar ı kolay ula şı labilir bir yerde bulunur. h) Laboratuvar teknik alanlar ı n ı n kap ı lar ı , giri ş ve acil durumda çı k ış a engel olmayacak ş ekilde otomatik kayar kap ı veya d ış ar ı do ğ ru a çı labilen, i ç erinin g ö r ü lmesine imk â n sa ğ layan cam b ö lmeli ve kontroll ü ge ç i ş sistemine g ö re d ü zenlenir. ı ) Ayd ı nlatma, ı s ı tma, so ğ utma ve havaland ı rma sistemleri yap ı lacak analizlere uygun olmal ı ve do ğ rudan veya dolayl ı olarak analizleri etkilemez. Laboratuvar ç al ış ma ko ş ullar ı 22 ± 5 ° C ayarlanabilir olacak ş ekilde d ü zenlenir. i) Klinik laboratuvar birimleri ile klinik d ışı laboratuvar birimlerinin ç al ış ma alanlar ı ayr ı d ı r. Ortak kullan ı lmas ı gereken alanlar var ise i ş ak ışı n ı ve laboratuvar g ü venli ğ ini bozmayacak ş ekilde planlan ı r. j) Mikrobiyoloji laboratuvarlar ı nda kontaminasyonu ö nlemek amac ı yla ki ş isel koruyucu ekipman giyme b ö l ü m ü bulunur. Laboratuvar tek y ö nl ü i ş ak ış prensibine uygun olarak besiyeri haz ı rlama ve sterilizasyon b ö l ü m ü , ekim alan ı , ink ü basyon ve de ğ erlendirme alan ı , kirli malzemelerin dekontaminasyonu ve y ı kanmas ı na ili ş kin alan olmak ü zere birbirinden ayr ı alanlardan olu ş ur. k) Fiziki ş artlar engelli personel ve hasta ihtiya ç lar ı na g ö re d ü zenlenir. Laboratuvar g ü venli ğ i MADDE 15 – (1) Mikrobiyoloji laboratuvarlar ı n ı n fiziksel korunma d ü zeyi en az TS EN 12128 standard ı nda belirtilen “ fiziksel korunma d ü zeyi 2 ” ş artlar ı na uygun olur. Y ü ksek riskli patojenler i ç in ise en az “ fiziksel korunma d ü zeyi 3 ” standartlar ı na uygun olur. (2) Teknik alanlar ı n çı k ış taraf ı n ı n uygun bir yerinde laboratuvar ö nl üğü n ü n as ı laca ğı yer ve fotoselli el y ı kama lavabosu bulunur. (3) Teknik alanlarda veya koridorda acil bas ı n ç l ı du ş ve g ö z y ı kama du ş u bulunur. (4) Teknik ve destek alanlar ı g ö revli olmayan ki ş i ve ziyaret ç ilerin ge ç i ş ine izin vermeyecek ş ekilde d ü zenlenir. (5) Laboratuvar binas ı n ı n acil çı k ış merdiveni ve kap ı s ı bulunur. (6) Laboratuvarda ilk yard ı m i ç in gerekli ila ç ve malzemelerin bulundu ğ u ilk yard ı m dolab ı ve talimat ı yer al ı r. (7) Teknik alanlarda analiz risklerine uygun acil d ö k ü lme sa çı lma kiti bulunur. (8) Laboratuvarda ortaya çı kan at ı klar, ilgili mevzuata g ö re ayr ış t ı r ı l ı r, ta şı n ı r, ge ç ici depolan ı r ve bertaraf ı sa ğ lan ı r. (9) Laboratuvarda kullan ı lan yan ı c ı , yak ı c ı , bo ğ ucu ve patlay ı c ı gaz i ç eren gaz t ü pleri bina d ışı nda tekni ğ ine uygun olarak havaland ı r ı lmak ş art ı yla muhafaza edilir. Ancak, cihaz kurulum ş art ı gere ğ i cihazdan ayr ı bir noktada muhafaza edilemeyecek t ü pler, gerekli ö nlemlerin al ı nmas ı ve cihaz teknik servisinin onay ı ile teknik alan i ç inde bulundurulabilir. (10) Ç al ış an sa ğ l ığı ve i ş g ü venli ğ i i ç in yap ı lan i ş e uygun ki ş isel koruyucu ekipman temini ve kullan ı lmas ı sa ğ lan ı r. (11) Laboratuvarda kullan ı lacak yan ı c ı , yak ı c ı , bo ğ ucu ve patlay ı c ı kimyasal maddeler ve yedek yard ı mc ı malzemeler i ç in yap ı s ı na ve risk gruplar ı ile saklama ko ş ullar ı na g ö re ayr ı muhafaza edilmek ü zere yeterli havaland ı rmas ı bulunan depo ve/veya uygun d ü zenlenmi ş dolaplar bulunur. Kimyasal maddeler i ç in ü r ü n g ü venlik bilgi formlar ı nda belirtildi ğ i ş ekilde gerekli t ü m g ü venlik ö nlemleri al ı n ı r. Kimyasal maddelerin bulundu ğ u oda, dolap ve depolar kilitlenir ve anahtar ı sorumlu personelde olur. (12) Yap ı lan risk de ğ erlendirmesine g ö re uygun alanlara gaz ve/veya duman sens ö r ü tertibat ı kurulur. (13) Teknik alanlarda veya koridorda yang ı n s ö nd ü rme d ü zene ğ i bulunur. D Ö RD Ü NC Ü B Ö L Ü M Laboratuvar Personelinin Nitelikleri, G ö revlendirilmesi ve G ö revleri Laboratuvar sorumlusunun nitelikleri ve g ö revleri MADDE 16 – (1) Halk sa ğ l ığı laboratuvar sorumlusu, tercihen 26/4/2014 tarihli ve 28983 say ı l ı Resm î Gazete ’ de yay ı mlanan T ı pta ve Di ş Hekimli ğ inde Uzmanl ı k E ğ itimi Y ö netmeli ğ ine g ö re klinik mikrobiyoloji, klinik biyokimya, enfeksiyon hastal ı klar ı ve klinik mikrobiyoloji uzman ı veya tabip, veteriner hekim, kimya m ü hendisi, biyoteknoloji ve genetik m ü hendisi, g ı da m ü hendisi, ziraat fak ü ltesinin g ı da b ö l ü m ü mezunu ziraat m ü hendisi, ç evre m ü hendisi, kimyager ve biyologlardan tercihen laboratuvar ç al ış ma alan ı nda doktora/y ü ksek lisans e ğ itimi alm ış olanlar veya bu unvanl ı personelden en az iki y ı l laboratuvarda ç al ış m ış olanlar aras ı ndan g ö revlendirilir. (2) Laboratuvar sorumlusu, M ü d ü rl üğü n teklifi, Kurumun onay ı ile g ö revlendirilir, ayn ı usulle g ö revden al ı n ı r. (3) Laboratuvar sorumlusu ve birim sorumlusunun g ö revden ayr ı lmas ı veya ba ş lamas ı durumunda bu de ğ i ş iklik be ş i ş g ü n ü i ç inde Kuruma bildirilir. (4) Laboratuvar sorumlusu ayn ı zamanda T ı bbi Laboratuvarlar Y ö netmeli ğ i kapsam ı ndaki mesul m ü d ü rl ü k g ö revini y ü r ü t ü r. Laboratuvar sorumlusu ihtiya ç duyuldu ğ unda birim sorumlusu veya laboratuvar teknik personeli olarak da ç al ışı r. (5) Laboratuvar sorumlusunun g ö rev, yetki ve sorumluluklar ı : a) Laboratuvar ı n ç al ış malar ı n ı planlamak, organize etmek, izlemek, de ğ erlendirmek ve denetlemek, b) Laboratuvarda yap ı lan analizlerde kullan ı lacak cihaz ve malzemelerle ilgili teknik ş artnamelerin haz ı rlanmas ı n ı sa ğ lamak ve sat ı n alma s ü re ç lerine aktif olarak kat ı lacak teknik personeli belirlemek, c) Laboratuvar ç al ış anlar ı n ı n i ş g ü venli ğ i ile ilgili tedbirlerin al ı nmas ı n ı sa ğ lamak ve laboratuvar g ü venli ğ inin fiziki ş artlar ı d â hil, t ü m gereklerinin yerine getirilmesini sa ğ lamak, ç ) Her t ü rl ü laboratuvar at ı klar ı n ı n mevzuat ı na uygun olarak bertaraf ı i ç in gerekli tedbirleri almak, d) Laboratuvar ı n teknik yeterlili ğ inin sa ğ lanmas ı na, hizmet kalitesinin artt ı r ı lmas ı na ve geli ş tirilmesine y ö nelik faaliyetlerde bulunmak, e) Laboratuvardaki cihaz ve ekipmanlar ı n bak ı m, onar ı m, kalibrasyon ve performans testlerinin yap ı lmas ı n ı sa ğ lamak, f) Personelin mesleki becerilerini geli ş tirmek, teknolojik geli ş melerden haberdar olmalar ı ve laboratuvar hizmet standard ı n ı yerine getirmelerini sa ğ lamak ü zere y ı lda en az bir defa hizmet i ç i e ğ itim d ü zenlenmesini sa ğ lamak, g) Laboratuvar ç al ış malar ı nda ara ş t ı rma, geli ş tirme ve mevcut ç al ış malar ı n iyile ş tirilmesine destek verecek ulusal ve uluslararas ı i ş birli ğ i faaliyetlerinde bulunulmas ı n ı sa ğ lamak, ğ ) Kurumun ve M ü d ü rl üğü n verdi ğ i g ö rev alan ı ile ilgili di ğ er g ö revleri yapmak. Laboratuvar birim sorumlular ı n ı n nitelikleri ve g ö revleri MADDE 17 – (1) Birim sorumlular ı laboratuvar sorumlusu taraf ı ndan g ö revlendirilir. (2) Birim sorumlusu ihtiya ç duyuldu ğ unda laboratuvar teknik personeli olarak da ç al ışı r. (3) Klinik ve klinik d ışı analizler i ç in yeterli ve yetkili personel bulunmamas ı durumunda g ö revlendirme suretiyle birim sorumlusu ihtiyac ı giderilir. (4) Birim sorumlular ı n ı n nitelikleri a ş a ğı da belirtilmi ş tir: a) Klinik d ışı mikrobiyoloji laboratuvar ı birim sorumlusu olarak, tercihen T ı pta ve Di ş Hekimli ğ inde Uzmanl ı k E ğ itimi Y ö netmeli ğ ine g ö re t ı bbi mikrobiyoloji veya enfeksiyon hastal ı klar ı ve klinik mikrobiyoloji uzman ı olmak ü zere tabip, veteriner hekim, biyoteknoloji ve genetik m ü hendisi, g ı da m ü hendisi, ziraat fak ü ltesinin g ı da b ö l ü m ü mezunu ziraat m ü hendisi ve biyolog g ö revlendirilir. Bu personelden mikrobiyoloji alan ı nda y ü ksek lisans ve ü zeri akademik kariyer yapm ış personel tercih edilir. b) Kimyasal analiz laboratuvar ı birim sorumlusu; ö ncelikli olarak laboratuvar ı n ç al ış ma alan ı nda y ü ksek lisans ve ü zeri akademik kariyer yapm ış kimya m ü hendisi, kimyager, g ı da m ü hendisi, veteriner hekim, ziraat fak ü ltesinin g ı da b ö l ü m ü mezunu ziraat m ü hendisi, ç evre m ü hendisi olanlardan g ö revlendirilir. c) Numune kabul birim sorumlusu ile raporland ı rma birim sorumlusu (a) ve (b) bentlerinde belirtilen meslek gruplar ı aras ı ndan g ö revlendirilir, birlikte faaliyet g ö sterebilir ve sorumlular ı ayn ı olabilir. (5) Klinik d ışı mikrobiyoloji laboratuvar ı ve kimyasal analiz laboratuvar ı birim sorumlular ı a ş a ğı daki g ö revleri yerine getirir: a) Laboratuvar ı n g ö revi kapsam ı ndaki analizlerin standart ç al ış ma prosed ü rlerini laboratuvar personeli ile birlikte haz ı rlamak ve buna uygun ç al ışı lmas ı n ı sa ğ lamak. b) Biyolojik ve kimyasal g ü venlikle ilgili ö nlemlerin al ı nmas ı , g ü venli laboratuvar tekniklerinin uygulanmas ı , t ı bbi ve kimyasal at ı klar ı n g ü venli ayr ış t ı r ı lmas ı , ta şı nmas ı ve ge ç ici depolanmas ı dahil laboratuvar g ü venli ğ inin t ü m gereklerinin yerine getirilmesini sa ğ lamak. c) Laboratuvar personelinin g ö rev da ğı l ı m ı n ı yapmak. ç ) Analizlerin zaman ı nda yap ı lmas ı n ı , raporlanmas ı n ı sa ğ lamak ve onaylamak. d) Laboratuvarda yeni g ö reve ba ş layan personele uyum e ğ itimi vermek, gerekti ğ inde kurum i ç i ve d ışı personel ile halka y ö nelik e ğ itimlerde g ö rev almak. e) Laboratuvar cihaz ve sarf malzeme ihtiya ç lar ı n ı n belirlenmesi ve stoklar ı n takibinin sa ğ lanmas ı ile ilgili i ş lemleri yapmak. f) Birimiyle ilgili kalite y ö netimi faaliyetlerini y ü r ü tmek, y ü r ü t ü lmesini sa ğ lamak. g) G ö rev alan ı ile ilgili laboratuvar sorumlusu taraf ı ndan verilecek benzeri di ğ er g ö revleri yapmak. (6) Numune kabul birim sorumlusunun g ö revi; numunenin prosed ü rlere uygun kabul ü n ü ve sevkini sa ğ lamak, g ö rev alan ı ile ilgili laboratuvar sorumlusu taraf ı ndan verilecek benzeri di ğ er g ö revleri yapmakt ı r. (7) Raporland ı rma birim sorumlusunun g ö revi; laboratuvarlardan gelen analiz sonu ç lar ı na ait nihai raporlar ı n kontrol ü n ü yaparak laboratuvar sorumlusunun onay ı na sunulmas ı n ı sa ğ lamak, g ö rev alan ı ile ilgili laboratuvar sorumlusu taraf ı ndan verilecek benzeri di ğ er g ö revleri yapmakt ı r. Kalite y ö netim temsilcisinin nitelikleri ve g ö revleri MADDE 18 – (1) İ htiyaca g ö re laboratuvar b ü nyesinde kalite y ö netim birimi olu ş turulur. (2) Laboratuvar sorumlusunun teklifi ile M ü d ü rl ü k taraf ı ndan teknik veya sa ğ l ı k hizmetleri s ı n ı f ı ndan en az lisans mezunu ve kalite ile ilgili e ğ itimleri alm ış personel, kalite y ö netim temsilcisi olarak g ö revlendirilir. (3) Kalite y ö netim birimine yeterli say ı da personel g ö revlendirilir. Kalite temsilcisi ve kalite birimi personeli gerekti ğ inde laboratuvar teknik personeli olarak da g ö rev yapar. (4) E ğ itim alm ış personel bulunmamas ı durumunda, g ö revlendirilen personelin en k ı sa s ü rede gerekli e ğ itimleri almas ı sa ğ lan ı r. (5) Kalite y ö netim temsilcisi ayn ı zamanda kalite y ö netim birimi sorumlulu ğ unu da yerine getirir. (6) Kalite y ö netim temsilcisinin g ö rev, yetki ve sorumluluklar ı : a) Laboratuvar ı n tabi oldu ğ u kalite standartlar ı kapsam ı nda kalite ile ilgili ç al ış malar ı koordine etmek, dok ü manlar ı n haz ı rlanmas ı n ı , uygulanmas ı n ı , g ü ncelli ğ ini sa ğ lamak ve kalite sisteminin etkinli ğ ini izlemek ve s ü reklili ğ ini sa ğ lamak. b) İç tetkik plan ı n ı haz ı rlamak, laboratuvar sorumlusunun onay ı na sunmak, kalite ç al ış malar ı n ı denetlemek/denetlenmesini sa ğ lamak, olu ş an aksakl ı klar ı n giderilmesine yard ı mc ı olmak, uygunsuzluklar ı izlemek, giderilmesini ve takibini sa ğ lamak. c) Laboratuvar ı n d ış kalite kontrol ç al ış malar ı n ı koordine etmek, izlemek, gerekti ğ inde d ü zeltici ve ö nleyici faaliyetlerin yap ı lmas ı n ı sa ğ lamak. ç ) Laboratuvar ı n kalite y ö netim sistemi belgelerinin al ı nmas ı ve/veya yenilenmesine y ö nelik ç al ış malar ı y ü r ü tmek. d) Laboratuvar ı n ulusal ve uluslararas ı kurum ve kurulu ş larla y ü r ü tece ğ i kalite ç al ış malar ı n ı izlemek, gerekti ğ inde kat ı l ı m sa ğ lamak. e) Laboratuvar ı n performans kriterleri olu ş turulmas ı ve g ü ncellenmesi ç al ış malar ı na destek olmak. f) Laboratuvar ı n kalite ile ilgili proje, e ğ itim ve ara ş t ı rma ç al ış malar ı n ı takip etmek ve y ü r ü tmek, kay ı t i ş lemlerini yapmak veya yap ı lmas ı n ı sa ğ lamak. g) Kalite kay ı tlar ı n ı n saklanmas ı ve elden çı kar ı lmas ı na ili ş kin koordinasyonu sa ğ lamak. ğ ) Y ö netimin g ö zden ge ç irme toplant ı lar ı n ı n organizasyonunu ve raport ö rl üğü n ü kalite standartlar ı n ı n gereklerine uygun ş ekilde yapmak ve al ı nan kararlar ı n ger ç ekle ş tirilmesini takip etmek. h) D ü zeltici ve ö nleyici faaliyetlerin ger ç ekle ş tirilmesi i ç in koordinasyonu sa ğ lamak ve takip etmek. ı ) G ö rev alan ı ile ilgili laboratuvar sorumlusunun verdi ğ i di ğ er g ö revleri yapmak. Laboratuvar teknik personelinin nitelikleri ve g ö revleri MADDE 19 – (1) Laboratuvarda, tercihen T ı pta ve Di ş Hekimli ğ inde Uzmanl ı k E ğ itimi Y ö netmeli ğ ine g ö re mikrobiyoloji veya enfeksiyon hastal ı klar ı ve t ı bbi/klinik mikrobiyoloji uzman ı olmak ü zere, tabip, veteriner hekim, kimya m ü hendisi, biyoteknoloji ve genetik m ü hendisi, g ı da m ü hendisi, ziraat fak ü ltesinin g ı da b ö l ü m ü mezunu ziraat m ü hendisi, ç evre m ü hendisi, kimyager, biyolog ve t ı bbi biyolog gibi en az lisans mezunu yeterli say ı da personel bulundurulur. Bu personel a ş a ğı daki g ö revleri yerine getirir: a) Laboratuvar ı n i ş tan ı m ı i ç erisinde yer alan numunelerin analizlerini yapmak, sonu ç lar ı n ı de ğ erlendirmek, analiz sonu ç lar ı n ı zaman ı nda ve do ğ ru rapor etmek, kontrol etmek, imzalamak. b) Laboratuvar ortam ı ve cihaz/ ekipmanlar ı n kalite standartlar ı do ğ rultusunda takibini ve gerekli i ş lemlerini yapmak. c) Malzeme ihtiyac ı n ı belirleyerek birim sorumlusuna bildirmek. ç ) Laboratuvar g ü venli ğ i i ç in gerekli ö nlemleri almak, uymak, uyulmas ı n ı sa ğ lamak. d) Analizle ilgili t ü m ç al ış ma verilerini ve sonu ç lar ı n ı kay ı t alt ı na almak ve muhafaza etmek. e) Kalite sistem standartlar ı kapsam ı nda g ö rev alan ı ile ilgili ç al ış malar ı yapmak. f) G ö rev alan ı ile ilgili birim sorumlusunun verdi ğ i di ğ er g ö revleri yapmak. (2) Laboratuvarda, laboratuvar alan ı nda lise ve/veya ö n lisans e ğ itimi alm ış yeteri kadar personel g ö revlendirilir. Teknik personel a ş a ğı daki g ö revleri yerine getirir: a) Laboratuvar ı n g ö rev alan ı ile ilgili laboratuvar sorumlusu/birim sorumlusunun verdi ğ i g ö revleri yapmak. b) Laboratuvar ekipman , cihaz ve malzemelerini kullan ı ma haz ı r halde tutmak. c) Laboratuvara gelen numuneleri almak, analize haz ı rlamak ve muhafaza etmek, g ö rev kapsam ı ndaki analizleri yaz ı l ı d ü zenlemelere g ö re yapmak ve de ğ erlendirmek ü zere birim sorumlusuna sunmak. ç ) G ö rev alan ı yla ilgili olarak laboratuvar sorumlusu/birim sorumlusunun verece ğ i di ğ er g ö revleri yapmak. Laboratuvar idari i ş ler personelinin nitelikleri ve g ö revleri MADDE 20 – (1) Gerekti ğ inde idari i ş ler personeli olarak; elektrik m ü hendisi, elektronik m ü hendisi, makine m ü hendisi, biyomedikal m ü hendisi, istatistik, fizik m ü hendisi, bilgisayar m ü hendisi ve benzeri alanlardan veya bu alanlardan mezun olan tekniker, teknisyen ve veri haz ı rlama kontrol i ş letmeni ve yeterli say ı da personel g ö revlendirilir. (2) İ dari i ş ler personeli kendilerine verilen g ö revleri eksiksiz ve zaman ı nda yerine getirmekle sorumludur. BE Şİ NC İ B Ö L Ü M Analiz Metotlar ı ve Ö zellikleri, Analiz Raporlar ı , Analiz Ü cretleri, Kay ı tlar ı n Tutulmas ı ve Numunelerin Muhafazas ı Analiz metotlar ı ve ö zellikleri MADDE 21 – (1) Laboratuvarda ulusal ve/veya uluslararas ı ge ç erlili ğ i olan analiz metotlar ı kullan ı l ı r. (2) Ulusal/Uluslararas ı kabul g ö rm üş analiz metotlar ı d ışı nda bir metot kullan ı ld ığı nda metodun do ğ rulu ğ unu kan ı tlamak i ç in validasyon ç al ış malar ı yap ı l ı r ve dok ü mante edilir. (3) Ö zel istek numunelerinin analizi, talep edilmesi halinde farkl ı bir metoda g ö re yap ı labilir ve bu husus raporda a çı k bir ş ekilde belirtilir. (4) Mikrobiyoloji laboratuvar ı klinik d ışı ç al ış t ığı b ü t ü n parametrelerde, kimya laboratuvar ı ise ç al ışı lan analiz grubunu temsil edecek en az iki parametrede y ı lda en az bir kez d ış kalite kontrole kat ı l ı r. (5) D ış Kalite Kontrol sonucunda kantitatif analizlerde /z/ ≤ 2, kalitatif analizlerde ise ba ş ar ı l ı olmal ı d ı r. Analiz raporlar ı MADDE 22 – (1) Laboratuvar taraf ı ndan tanzim edilen analiz raporlar ı n ı n gizlili ğ i esast ı r. (2) Analiz raporlar ı n ı n haz ı rlanmas ı nda a ş a ğı daki hususlara dikkat edilir: a) Analiz sonu ç lar ı mevzuat ı na uygun ise mevzuat ı n ad ı ile birlikte “ Uygundur. ” ibaresi yaz ı l ı r. b) Analiz sonu ç lar ı mevzuat ı na uygun de ğ ilse mevzuat ı n ad ı ile birlikte “ Uygun de ğ ildir. ” ibaresi yaz ı l ı r. c) Kayna ğı bilinmeyen numuneler ile mevzuat ı ve/veya mevzuat limitleri belirli olmayan numunelerin analiz raporlar ı “ Yukar ı daki analiz sonu ç lar ı bulunmu ş tur. ” ş eklinde yaz ı l ı r. ç ) Kimyasal analizlerde metodun g ü venilir bir ş ekilde do ğ ru tespit edebilece ğ i en d üşü k ö l çü m miktar ı analiz raporunda belirtilir. Tayin s ı n ı r ı n ı n alt ı nda olan sonu ç lar “ Tayin s ı n ı r ı n ı n alt ı ndad ı r. ” ş eklinde yaz ı l ı r. d) Kantitatif mikrobiyolojik analizlerde herhangi bir ü reme olmad ığı durumlarda sonu ç lar metodun tespit limitine g ö re “ <10 ” , “ <3 ” ve benzeri ş ekilde ifade edilir. e) Mevzuatta bulunmamas ı istenen miktar ı n tamam ı n ı n analize al ı nd ığı kantitatif mikrobiyolojik analizlerde ise, bir ü reme g ö r ü lmedi ğ i durumlarda sonu ç “ 0 ” ş eklinde yaz ı l ı r. f) Kalitatif mikrobiyolojik analizlerde herhangi bir ü reme olmad ığı durumlarda sonu ç lar “ Tespit edilemedi. ” , ü reme g ö r ü l ü rse sonu ç “ Tespit edildi. ” ş eklinde yaz ı l ı r. g) Enstr ü mental cihazlarla yap ı lan analizlerde kullan ı lan metot ad ı , tayin s ı n ı r ı , mevzuat s ı n ı r ı , tarih ve benzeri bilgiler verilir. ğ ) Numunede ç al ışı lan analiz parametreleri raporda ayr ı ayr ı belirtilir. h) Analiz raporunda sayfa say ı s ı belirtilir ve raporun k ı smen kullan ı lamayaca ğı na dair uyar ı c ı ifade ve “ Analiz sonu ç lar ı yukar ı da belirtilen numune i ç in ge ç erlidir. ” ifadesi yer al ı r. ı ) Ö zel istek numune analiz raporlar ı n ı n son sayfas ı nda mutlaka “ Adli ve idari i ş lemlerde ve reklam ama ç l ı kullan ı lamaz. ” ifadesi yaz ı l ı r. i) Raporda mevzuat ı n gerektirdi ğ i durumlar veya m üş terinin talebi do ğ rultusunda laboratuvar ı n varsa ö l çü m belirsizli ğ i belirtilir. j) Su analiz sonu ç lar ı n ı n Kurumun Su Kalitesi Kontrol Sistemine girilmesi zorunludur. Analiz ü cretleri MADDE 23 – (1) Analiz ü cretleri Bakanl ı k taraf ı ndan belirlenir. Yetkilendirilmi ş laboratuvarlar analizlere ait belirlenen fiyat tarifesinin alt ı nda ü cret uygulayamaz. Kay ı tlar ı n tutulmas ı ve numunelerin muhafazas ı MADDE 24 – (1) Klinik d ışı laboratuvarlarda belge ve kay ı tlar hizmet kalite standard ı na g ö re yaz ı l ı ve/veya elektronik ortamda tutulur ve muhafaza edilir. (2) Raporlar ve kay ı tlar en az on y ı l, numuneler ise uygun ş artlarda sonu ç raporlan ı ncaya kadar muhafaza edilir. (3) Klinik laboratuvarlarda belge ve kay ı tlar ı n tutulmas ı ve muhafazas ı T ı bbi Laboratuvarlar Y ö netmeli ğ ine g ö re yap ı l ı r. (4) Laboratuvar analiz sonu ç lar ı ve Kurumca belirlenen di ğ er veriler Halk Sa ğ l ığı Laboratuvarlar ı Bilgi Sistemine aktar ı l ı r. ALTINCI B Ö L Ü M Yetkilendirme Ba ş vurusu, Analiz Yetki Belgesi Verilmesi, Analiz Yetki Belgesinin Yenilenmesi Yetkilendirme ba ş vurusu MADDE 25 – (1) Analiz yetkisi almak isteyen laboratuvarlar a ş a ğı daki belgelerle birlikte M ü d ü rl üğ e ba ş vurur: a) Ba ş vuru dilek ç esi Ek-1. b) Laboratuvar tan ı t ı m bildirimi Ek-2. c) Organizasyon ş emas ı . ç ) Laboratuvar sorumlusunun noter onayl ı imza sirk ü leri ve ç al ış anlar ı n g ö rev, yetki sorumluluklar ı listesi Ek-3. d) Cihaz ve ekipman listesi Ek-4. e) Parametre listesi Ek-5. f) Standart ç al ış ma prosed ü rleri . g) TS EN ISO/IEC 17025 “ Deney ve Kalibrasyon Laboratuvarlar ı n ı n Yeterli ğ i İç in Genel Ş artlar ” kapsam ı nda akreditasyon belgesi. ğ ) Havuz mahallinde analizi yap ı lan parametreler hari ç olmak ü zere ilgili mevzuatta belirtilen t ü m parametrelerde y ö ntem akreditasyonu belgesi. h) Faaliyet konusu i ç erisinde ç evre analizleri veya y ü zme havuz suyu analizi bulunan İş yeri A ç ma ve Ç al ış ma Ruhsat ı n ı n ilgili Kurum veya noter onayl ı sureti. ı ) Dosya inceleme ve analiz yetki belgesi ü cretine ait makbuz/banka dekontu . i) T ü zel ki ş ilere ait laboratuvarlar i ç in Ticari Sicil Gazetesinin ticaret odalar ı nca veya noterce onaylanm ış sureti ile faaliyet belgesinin asl ı . j) Al ı nan numunelerin g ü ne ş ışı nlar ı ndan korunarak (5 ± 3) o C ’ de ı s ı y ı muhafaza edebilen ta şı ma kaplar ı ile en fazla on iki saat i ç erisinde laboratuvara ta şı nmas ı n ı n sa ğ lanmas ı hakk ı nda taahh ü tname. k) Numune alma ve ta şı ma talimat ı . l) Numunelerin analizinde tam zamanl ı y ü zme havuz suyu analizinde ç al ış anlar ı n ve numune alma g ö revlisinin unvan ve pozisyonlar ı n ı g ö sterin firma taraf ı ndan onayl ı listesi. m) Ç al ış an personele ait Kurum veya noter onayl ı diploma fotokopisi. n) Ç al ış an personele ait SGK kay ı tlar ı . o) Ç al ış an personele ait belirsiz i ş s ö zle ş meleri. ö ) Cihaz ve ekipmana ait laboratuvar yerle ş im plan ı . p) Ticaret Sicil Gazetesi ve Ticaret Sicil Numaras ı , vergi levhas ı fotokopisi. r) T ü m parametrelere ait standart ç al ış ma prosed ü rleri . s) Metotlara ait validasyon raporlar ı . ş ) İ nceleme ekibinin ihtiya ç duydu ğ u ilave belgeler. (2) Ba ş vuru dosyas ı M ü d ü rl ü k taraf ı ndan incelenir. İ ncelenen dosya belgelerinde eksiklik bulunmas ı durumunda ba ş vurana bildirilir. Eksikliklerin tamamlanmas ı i ç in üç aya kadar s ü re verilir. Bu s ü re i ç erisinde eksiklikleri tamamlanmayan dosya ba ş vuru yap ı lmam ış say ı larak i ş lemden kald ı r ı l ı r. (3) Uygun g ö r ü lmesi durumunda Kuruma g ö nderilen dosya İ nceleme Komisyonuna g ö nderilir. Laboratuvar en ge ç üç ay i ç erisinde 9 uncu maddenin be ş inci ve alt ı nc ı f ı kras ı na g ö re yerinde incelenir. Ek-7 ’ deki inceleme tutana ğı tanzim edilir. Analiz yetki belgesi verilmesi MADDE 26 – (1) İ nceleme Komisyonu taraf ı ndan d ü zenlenen inceleme tutana ğı n ı n sonucuna g ö re laboratuvar ı n ş artlar ı Kurumca uygun g ö r ü l ü rse Ek-8 ’ deki Analiz Yetki Belgesi verilir. (2) İ nceleme Komisyonu taraf ı ndan eksiklik tespit edilmesi durumunda, eksikliklerin giderilmesi i ç in üç aydan fazla olmamak ü zere uygun s ü re verilir. Ba ş vuran taraf ı ndan eksikli ğ in giderildi ğ i beyan ı ü zerine İ nceleme Komisyonunca tekrar yerinde inceleme yap ı labilece ğ i gibi, dosya ü zerinden veya M ü d ü rl ü k ekiplerinin yerinde inceleme yapmas ı suretiyle dosya tekemm ü l ettirilerek analiz yetki belgesi verilir. (3) Yetkilendirilmi ş laboratuvarlar analiz sonu ç lar ı n ı 24 ü nc ü maddenin d ö rd ü nc ü f ı kras ı na uygun olarak M ü d ü rl üğ e bildirir. Analiz tekrar ı ve teyidi amac ı yla M ü d ü rl ü k ç e talep edilmesi halinde numuneyi ilgili birimlere g ö nderir. Analiz yetki belgesinin yenilenmesi MADDE 27 – (1) Analiz yetki belgesinde yer alan hususlar ı n de ğ i ş tirilmek istenilmesi, analiz yetki belgesinin kaybolmas ı veya tahrip olmas ı durumlar ı nda yeni analiz yetki belgesi d ü zenlenir. Kaybolma haricindeki yenileme taleplerinde eski analiz yetki belgesi Kuruma iade edilir. (2) Analiz yetki belgesinin ge ç erlilik s ü resi d ö rt y ı ld ı r. S ü re bitiminin en az onbe ş i ş g ü n ü ö ncesinde yenileme i ç in Kuruma m ü racaat edilir. (3) Belge yenileme ba ş vurusunda 25 inci maddenin ikinci ve üçü nc ü f ı kras ı ile 26 nc ı madde h ü k ü mleri uygulan ı r. (4) Ge ç erlilik s ü resinin bitimine kadar yenileme i ş lemleri tamamlanmam ış laboratuvarlar ı n analiz yetkisi ask ı ya al ı n ı r. Ge ç erlilik s ü resinin bitiminden sonra yap ı lan yenileme talepleri yeni m ü racaat olarak de ğ erlendirilir. YED İ NC İ B Ö L Ü M Denetim, Bildirimler ve Yapt ı r ı mlar Denetim MADDE 28 – (1) Ş ikayet ve ola ğ an ü st ü haller d ışı nda halk sa ğ l ığı laboratuvarlar ı Ek-9 ’ a g ö re, Kurumca planlanarak y ı lda en az bir defa; yetkilendirilmi ş laboratuvarlar ise, Ek-10 ’ a g ö re Kurum taraf ı ndan en az y ı lda bir defa ve m ü d ü rl ü k taraf ı ndan da en az alt ı ayda bir denetlenir. Denetimleri alan ı nda uzman, en az üç personelden olu ş an denetim ekibi taraf ı ndan ger ç ekle ş tirilir. (2) Denetim tutana ğı Ek-11 d ü zenlenir. (3) Denetim esnas ı nda gerekli g ö r ü len analizlerin uygulamal ı olarak yap ı lmas ı istenebilir. (4) M ü d ü rl ü k, gerekti ğ inde, yetkilendirilmi ş laboratuvarlar ı denetlemek amac ı yla numuneyi halk sa ğ l ığı laboratuvar ı ile paralel ç al ış t ı r ı r. İ tiraz durumunda ş ahit numunenin nihai analiz sonucu i ç in Kurumun belirledi ğ i test baz ı nda referans yetkili laboratuvara g ö nderilir. (5) Denetim tutana ğı en az iki n ü sha halinde d ü zenlenerek bir n ü shas ı laboratuvar sorumlusuna teslim edilir. (6) Denetim ile ilgili tespitler ve sonu ç lar rapor halinde Kuruma bildirilir. (7) Laboratuvar sorumlusu denetim ekibine her t ü rl ü bilgi ve belgeyi sunmak zorundad ı r. Bildirimler MADDE 29 – (1) Laboratuvar ı n kat ı ld ığı i ç ve d ış kalite kontrol sonu ç lar ı , laboratuvar personelinin de ğ i ş mesi ve laboratuvar ı n ta şı nmas ı gibi durumlar onbe ş g ü n i ç erisinde Kuruma bildirilir. İ dari yapt ı r ı mlar MADDE 30 – (1) Yetkilendirilmi ş Laboratuvarlardan, bu Y ö netmelik h ü k ü mlerine ayk ı r ı hareket edenler hakk ı nda, fiilleri 5237 say ı l ı T ü rk Ceza Kanunu kapsam ı nda ayr ı bir su ç te ş kil etmemesi durumunda 1593 say ı l ı Umumi H ı fz ı ss ı hha Kanununun 282 nci maddesi ç er ç evesinde i ş lem tesis edilir. (2) Denetim s ı ras ı nda bulunan uygunsuzluklar ve eksiklikler i ç in halk sa ğ l ığı laboratuvarlar ı i ç in Ek-9 ’ daki, yetkilendirilmi ş laboratuvarlar i ç in Ek-10 ’ daki idari yapt ı r ı mlar uygulan ı r. (3) Denetim sonunda analiz yetkisi iptal edilen laboratuvar bir y ı l yetki m ü racaat ı nda bulunamaz. SEK İ Z İ NC İ B Ö L Ü M Ç e ş itli ve Son H ü k ü mler Bilimsel dan ış ma komisyonu MADDE 31 – (1) Laboratuvar hizmetlerinin geli ş tirilmesi ve kalitesinin art ı r ı lmas ı amac ı yla gerekti ğ inde Kuruma bilimsel destek verilmesi amac ı yla bilimsel dan ış ma komisyonu olu ş turulabilir. Mevcut laboratuvarlar ı n uyumu GE Çİ C İ MADDE 1 – (1) Bu Y ö netmeli ğ in y ü r ü rl üğ e girmesinden ö nce faaliyet g ö steren halk sa ğ l ığı laboratuvarlar ı ile yetkilendirilmi ş laboratuvarlar, 1/3/2016 tarihine kadar bu Y ö netmelik h ü k ü mlerine uyum sa ğ lar. Uyum ge ç i ş s ü resi GE Çİ C İ MADDE 2 – (1) Kamu kurum ve kurulu ş lar ı , ü niversiteler ile yerel y ö netimler b ü nyesinde faaliyet g ö steren laboratuvarlar ı n, radyoaktivite hari ç olmak ü zere i ç me-kullanma sular ı nda kontrol izlemesi ve denetim izlemesi analiz yetkileri ile kapl ı ca sular ı nda t ü m analiz yetkileri 1/3/2016 tarihinde sona erer. Y ü r ü rl ü k MADDE 32 – (1) Bu Y ö netmelik yay ı m ı tarihinde y ü r ü rl üğ e girer. Y ü r ü tme MADDE 33 – (1) Bu Y ö netmelik h ü k ü mlerini Sa ğ l ı k Bakan ı y ü r ü t ü r. Ekler i ç in t ı klay ı n ı z |
+22 Ocak 2015 PERŞEMBE
+
+Resmî Gazete
+
+Sayı : 29244
+
+### YÖNETMELİK
+
+Sağlık Bakanlığı (Türkiye Halk Sağlığı Kurumu)’ndan:
+
+### HALK SAĞLIĞI LABORATUVARLARI VE YETKİLENDİRİLMİŞ
+
+### LABORATUVARLARIN ÇALIŞMA USUL VE ESASLARI
+
+### HAKKINDA YÖNETMELİK
+
+### BİRİNCİ BÖLÜM
+
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+#### Amaç
+
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı; halk sağlığı laboratuvarlarının kuruluşu, sınıflandırılması, görev ve faaliyetlerinin düzenlenmesi, açılması, yetkilendirilmesi ve denetlenmesi ile yüzme havuz suyu analizi yapan kamu kurum ve kuruluşları, yerel yönetimler ile gerçek ve tüzel kişilere ait laboratuvarların yetkilendirilmesi, çalışması ve denetlenmesi ile ilgili usul ve esasları belirlemektir.
+
+#### Kapsam
+
+**MADDE 2 –** (1) Bu Yönetmelik; halk sağlığı alanında faaliyet gösteren klinik dışı laboratuvarları kapsar.
+
+(2) Halk sağlığı laboratuvarları; klinik laboratuvar çalışma usul ve esasları bakımından 9/10/2013 tarihli ve 28790 sayılı Resmî Gazete’de yayımlanan Tıbbi Laboratuvarlar Yönetmeliği hükümlerine, diğer hususlar bakımından bu Yönetmelik hükümlerine tabidir.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu Yönetmelik; 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname’nin 26 ncı maddesi ile 40 ıncı maddesinin birinci fıkrasına, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanunu’nun 9 uncu maddesinin (c) bendine ve 1593 sayılı Umumi Hıfzıssıhha Kanunu’nun 2 nci maddesi ile 3 üncü maddesinin birinci fıkrasının on birinci bendine dayanılarak hazırlanmıştır.
+
+#### Tanımlar
+
+**MADDE 4 –** (1) Bu Yönetmelikte geçen;
+
+a) Analiz yapma yetkisi: Kurum laboratuvarları ve yüzme havuzu suyu analizi yapmak isteyen kamu kurum ve kuruluşları, yerel yönetimler ile gerçek ve tüzel kişilere ait laboratuvarlara verilen yetkiyi,
+
+b) Bakanlık: Sağlık Bakanlığını,
+
+c) Başkanlık: Halk Sağlığı Laboratuvarları Daire Başkanlığını,
+
+ç) Dış kalite kontrol: Laboratuvarların analiz sonuçlarının güvenilirliğini tespit etmek veya yükseltmek amacıyla, laboratuvarın dışındaki bir kurum/kuruluş tarafından düzenlenen, içeriği veya konsantrasyonu bilinen ya da bilinmeyen numunelerle yapılan izleme ve değerlendirme çalışmasını,
+
+d) Halk sağlığı laboratuvarı: Halk sağlığının korunması ve iyileştirilmesi kapsamında birey ve toplum sağlığını etkileyen ve etkileyebilecek etmenleri inceleyen ve görev alanıyla ilgili klinik ve klinik dışı laboratuvar hizmetleri sunan Kurum laboratuvarını,
+
+e) İç kalite kontrol: Analiz sürecinin kalitesini değerlendirmek ve sonuçların güvenilirliğini yükseltmek amacıyla laboratuvar tarafından yapılan kalite kontrol çalışmasını,
+
+f) İnceleme komisyonu: Laboratuvarların yetkilendirilmesi sürecinde inceleme ve değerlendirme yapan komisyonu,
+
+g) Klinik dışı analiz: Halk sağlığına yönelik klinik analizler dışındaki analizleri,
+
+ğ) Klinik laboratuvar: Tıbbi Laboratuvarlar Yönetmeliğinde düzenlenen tıbbi laboratuvarı,
+
+h) Kurum: Türkiye Halk Sağlığı Kurumunu,
+
+ı) Laboratuvar birimi: Halk sağlığı laboratuvarının görevi kapsamındaki çalışmaların yapıldığı bir veya birden fazla laboratuvar grubunu,
+
+i) Laboratuvar sorumlusu: Halk sağlığı laboratuvarının yönetiminden sorumlu personeli,
+
+j) Yetkilendirilmiş laboratuvar: Kamu kurum ve kuruluşları, yerel yönetimler ile gerçek ve tüzel kişilere ait laboratuvarlara yüzme havuz suyu analizlerinde Kurumca yetki verilen laboratuvarı,
+
+k) Müdürlük: Halk Sağlığı Müdürlüğünü,
+
+ifade eder.
+
+### İKİNCİ BÖLÜM
+
+Halk Sağlığı Laboratuvarlarının Kuruluşu, Sınıflandırılması, Birimleri ve Görevleri
+
+#### Kuruluşu
+
+**MADDE 5 –** (1) Kurum tarafından her ilde bir halk sağlığı laboratuvarı kurulur. Ancak, nüfus büyüklüğü, ulaşım durumu, coğrafi durum ve mevsimlere göre nüfus hareketliliği göz önünde bulundurularak, aynı il sınırları içinde birden fazla halk sağlığı laboratuvarı veya ek hizmet binası kurulmasına izin verilebilir.
+
+(2) Halk sağlığı laboratuvarının kurulması için, klinik ve klinik dışı analizleri yapabilecek nitelikte asgari personel istihdam edilir.
+
+(3) Halk sağlığı laboratuvarında iş yükünü karşılayacak yeterli ve uygun cihaz ve ekipman bulunur, ayrıca 13 üncü, 14 üncü ve 15 inci maddelerdeki şartlar sağlanır.
+
+(4) Halk sağlığı laboratuvarı gerektiğinde yirmi dört saat hizmet esasına göre çalışır.
+
+#### Sınıflandırılması
+
+**MADDE 6 –** (1) Halk sağlığı laboratuvarları hizmet tipine göre aşağıdaki şekilde sınıflandırılır:
+
+a) L2 Hizmet Tipi Halk Sağlığı Laboratuvarı: Kurumun planlaması ve izni dahilinde ilgili mevzuatı kapsamında Kurumca belirlenen klinik ve klinik dışı analizleri gerçekleştiren laboratuvardır.
+
+b) L1 Hizmet Tipi Halk Sağlığı Laboratuvarı: TS EN ISO/IEC 17025 standardına göre akredite olan, ilgili mevzuatı kapsamında Kurumca belirlenen klinik ve klinik dışı analizleri gerçekleştiren ve bölgesindeki L2 hizmet tipi laboratuvarlara analiz, eğitim ve danışmanlık hizmetleri sunan laboratuvardır.
+
+c) Test Bazında Referans Yetkili Laboratuvar: Referans olduğu parametrenin doğrulamasını yapan, gerektiğinde yeni yöntemlerin geçerli kılınmasını sağlayan ve bu kapsamda kurumca yetkilendirilen laboratuvardır. Test Bazında Referans Yetkili Laboratuvar olabilme ölçütleri ve görevleri Kurumca belirlenir.
+
+#### Birimleri
+
+**MADDE 7 –** (1) Halk sağlığı laboratuvarları asgari aşağıdaki laboratuvar birimlerinden oluşur ve ihtiyaç halinde Müdürlüğün teklifi ve Kurumun onayı ile yeni laboratuvar birimleri açılabilir.
+
+a) Klinik dışı mikrobiyoloji laboratuvar birimi; Kurumun izni dâhilinde belirlenen klinik dışı numunelerde mikrobiyolojik analizleri yapar.
+
+b) Kimyasal analiz laboratuvar birimi; Kurumun izni dâhilinde belirlenen klinik dışı numunelerde fiziksel ve kimyasal analizleri yapar.
+
+#### Görevleri
+
+**MADDE 8 –** (1) Halk sağlığı laboratuvarlarının görevleri;
+
+a) 6 ncı maddenin birinci fıkrasındaki hizmet tipine göre belirtilen görevleri yapmak,
+
+b) Aile hekimliği hizmetleri ve birinci basamak tanı/tarama testleri kapsamında tanıya yardımcı test ve analizleri yapmak,
+
+c) Kan, idrar gibi vücut sıvıları ile diğer klinik örneklerde mikrobiyolojik ve biyokimyasal analizleri yapmak,
+
+ç) Klinik ve klinik dışı örnekleri gerektiğinde kesin tanı için test bazında referans yetkili laboratuvara göndermek,
+
+d) Salgın veya olay araştırması amacıyla aktif vaka bulma çalışmaları dahil, Müdürlük tarafından ilde endemik, epidemik ve/veya halk sağlığı problemi olduğu belirlenen durumların araştırılmasına katılmak, salgın durumlarında olaya maruz kalmış birey, hayvan ve çevresel numunelerin toplama işleminde gerektiğinde Müdürlüğe yardımcı olmak, analizlerini yapmak, gereken numuneleri test bazında referans yetkili laboratuvara göndermek,
+
+e) Hizmet içi eğitim planları hazırlamak, bu amaca yönelik eğitimleri yapmak ve yapılmasını sağlamak,
+
+f) Halk sağlığı laboratuvarı hizmetleri kapsamında ulusal ve uluslararası gelişmeleri takip ederek araştırma geliştirme faaliyetlerinde bulunmak,
+
+g) Yerel ve bölgesel ihtiyaçlar doğrultusunda tespit edilen analizleri yapmak,
+
+ğ) Kurumca faaliyet alanları ile ilgili verilecek diğer görevleri yapmak.
+
+### ÜÇÜNCÜ BÖLÜM
+
+Halk Sağlığı Laboratuvarının Açılması, Hizmet Tipi Değişikliği, Kapsam Genişletme, Laboratuvar Binası, Yerleşim Planı, Fiziki Şartları ve Laboratuvar Güvenliği
+
+#### Açılması
+
+**MADDE 9 –** (1) Halk sağlığı laboratuvarı ve/veya laboratuvar birimleri Müdürlüğün teklifi ve Kurumun onayı ile açılır.
+
+(2) Müdürlük, açılacak halk sağlığı laboratuvarının ve/veya birimlerinin faaliyet planı, kapasitesi ve açılma gerekçelerini içeren yazı ve Ek-1’de belirtilen başvuru dilekçesi ile Kuruma müracaatta bulunur. Müracaat uygun görüldüğü takdirde Müdürlükçe başvuru dosyası hazırlanır.
+
+(3) Başvuru dosyasında aşağıdaki belgeler yer alır:
+
+a) Laboratuvar tanıtım bildirimi Ek-2,
+
+b) Çalışanların görev yetki ve sorumlulukları listesi Ek-3,
+
+c) Cihaz ve ekipman listesi Ek-4,
+
+ç) Parametre listesi Ek-5,
+
+d) Standart çalışma prosedürleri,
+
+e) Laboratuvarın fiziki altyapı özellikleri ve yerleşim planı ile 1/100 ölçekli krokisi,
+
+f) Laboratuvarın Başkanlıkça hazırlanan prototip rehbere uygunluğunu gösteren krokisi.
+
+(4) Hazırlanan başvuru dosyası incelenmek üzere Kuruma gönderilir. İncelenen dosyada eksiklik varsa Müdürlüğe iade edilir. Dosyada eksiklik bulunmaması halinde İnceleme Komisyonuna gönderilir.
+
+(5) İnceleme Komisyonu; Başkanlıktan bir ve konusunda uzman iki teknik personel olmak üzere en az üç kişiden oluşur. Gerekli görülmesi halinde alanında uzman kişilerden de görüş alınabilir.
+
+(6) İnceleme Komisyonu, laboratuvarı Ek-6’ya göre teknik olarak yerinde inceler ve Ek-7’deki İnceleme Tutanağını tanzim eder. İnceleme Komisyonu, raporunu beş iş günü içinde hazırlar ve Başkanlığa sunar. Uygun bulunması halinde Kurumca açılma izni verilir.
+
+#### Hizmet tipi değişikliği
+
+**MADDE 10 –** (1) Numune sayısı ve analiz çeşitliliği, personel sayısı, akreditasyonu, cihaz kapasitesi gibi yönlerden yeterli bulunan L2 hizmet tipi halk sağlığı laboratuvarı, Müdürlüğün teklifi ve ülke genelindeki planlama dâhilinde Kurumun onayı ile L1 hizmet tipi halk sağlığı laboratuvarına dönüştürülebilir.
+
+(2) Kurumca yapılan üst üste iki denetimde aynı konuyla alakalı olarak hizmetin gerekliliklerini karşılamadığı tespit edilen L1 hizmet tipi halk sağlığı laboratuvarı, L2 hizmet tipi halk sağlığı laboratuvarına dönüştürülebilir.
+
+#### Kapsam genişletme
+
+**MADDE 11 –** (1) Laboratuvar sorumlusu, laboratuvarın klinik dışı faaliyet kapsamını genişletmek için Müdürlüğe başvurur. Müdürlükçe, uygun bulunması durumunda gerekçeleriyle birlikte Kuruma müracaat edilir.
+
+(2) Gerekçelerin uygun bulunması durumunda müracaatta bulunduğu kapsam genişletmesine yönelik 9 uncu madde hükümleri uygulanır.
+
+#### Laboratuvar binası
+
+**MADDE 12 –** (1) Halk sağlığı laboratuvarı ikamete mahsus binalarda açılamaz.
+
+(2) Halk sağlığı laboratuvar binasının başka kurumlar veya birimler tarafından kullanılmaması esastır. Ancak, zorunlu durumlarda Kurumun izni dâhilinde, laboratuvarların kontrollü geçişle ayrılması şartıyla, bina geçici olarak müştereken kullanılabilir.
+
+#### Yerleşim planı
+
+**MADDE 13 –** (1) Halk sağlığı laboratuvarında binaya girişten itibaren numune kabul, kayıt, ofisler, teknik alanlar, depolar, asansörler gibi alanlar iş akış yönüne göre düzenlenir ve yönlendirme yapılır.
+
+(2) Halk sağlığı laboratuvarı yerleşim planı; teknik alanlar, ortak destek alanları, laboratuvar destek alanları ve ofis alanları olmak üzere dört temel alandan oluşur. Bu alanlar;
+
+a) Teknik alanlar; laboratuvar çalışmalarının gerçekleştirilmesi için gerekli donanım ve uygun şartların sağlandığı fiziksel, kimyasal ve mikrobiyolojik analiz aşamalarının yürütüldüğü alanlardır.
+
+b) Ortak destek alanları; numune alma/kabul birimi, raporlandırma, arşiv, geçici atık depolama alanı, sarf malzeme deposu, kimyasal malzeme deposu ve laboratuvarın ortak ihtiyacı olarak kullanılan benzer birimlerdir.
+
+c) Laboratuvar destek alanları; besiyeri hazırlama ve sterilizasyon, kirli dekontaminasyon, tartım/solüsyon hazırlama odası ve laboratuvar çalışmalarında kullanılan diğer laboratuvar alanlarıdır.
+
+ç) Ofis alanları; sekretarya, idari büro, yönetici ve personel odaları, sosyal alanlar ve tuvaletler gibi alanlardır. Bu alanlar teknik alanlar ve laboratuvar destek alanlarının içinde yer alamaz.
+
+#### Fiziki şartlar
+
+**MADDE 14 –** (1) Klinik laboratuvarlar, Tıbbi Laboratuvarlar Yönetmeliğindeki fiziki şartları yerine getirecek şekilde yapılandırılır. Klinik dışı laboratuvarlar ise sınıflarına uygun olarak aşağıdaki fiziki şartları yerine getirecek şekilde yapılandırılır.
+
+a) Klinik dışı mikrobiyoloji ve kimyasal analiz laboratuvarları, kapsamında yer alan teknik alanların her biri en az 16 metrekare olur. Mikrobiyoloji ve kimyasal analiz çalışmaları birleştirilemez ve aynı alanda gerçekleştirilemez.
+
+b) Destek alanları en az bir numune kabul birimi, malzeme deposu, besiyeri hazırlama ve sterilizasyon odası için uygun alandan oluşur. Bu alanların her biri en az 10 metrekare olur. Bu alanlar, laboratuvar ve laboratuvar teknik alanı ile fonksiyonel bir bütünlük oluşturacak şekilde düzenlenir.
+
+c) Ofis alanları; sekretarya, bekleme yeri, tuvaletler, personel odaları gibi bölümlerden oluşur. Ofis alanlarındaki bölümler bir bölgede toplanabilir ve ortak kullanılabilir. Ancak bu bölümler laboratuvar teknik alanının içinde yer alamaz.
+
+ç) Teknik alanların, laboratuvar destek alanlarının ve numune alma/kabul biriminin zemin kaplamaları yüzey boyunca eklentisiz, tek parça, kolay temizlenebilir yer kaplama malzemesi ile kaplanır.
+
+d) Enstrümental cihazlarla yapılan analizlerde numune hazırlama birimi ile cihazın bulunduğu birim ayrı planlanır. Ortama hava ve gaz veren cihazlar ile analizde kullanılan çözeltiler ve hazırlanan numuneler açık ortamda bulunuyor ise uygun havalandırma sistemi bulunur.
+
+e) Laboratuvarda su ihtiyacını sürekli sağlayacak şebeke suyu ve sıcak su tertibatı bulunur.
+
+f) Kesintisiz güç kaynağı düzenekleri laboratuvar çalışmasına uygun biçimde yapılandırılır.
+
+g) Su ve gaz iletim sistemleri, radyatörler, aydınlatma sistemi ve bağlantıları ile diğer servis noktaları kolayca temizlenebilir ve gerektiğinde dezenfekte edilebilir özellikte olur.
+
+ğ) Laboratuvar çalışmalarına ait atık yönetimi de dâhil olmak üzere ilgili tüm standart çalışma prosedürleri ve cihaz kullanım talimatları kolay ulaşılabilir bir yerde bulunur.
+
+h) Laboratuvar teknik alanlarının kapıları, giriş ve acil durumda çıkışa engel olmayacak şekilde otomatik kayar kapı veya dışarı doğru açılabilen, içerinin görülmesine imkân sağlayan cam bölmeli ve kontrollü geçiş sistemine göre düzenlenir.
+
+ı) Aydınlatma, ısıtma, soğutma ve havalandırma sistemleri yapılacak analizlere uygun olmalı ve doğrudan veya dolaylı olarak analizleri etkilemez. Laboratuvar çalışma koşulları 22±5°C ayarlanabilir olacak şekilde düzenlenir.
+
+i) Klinik laboratuvar birimleri ile klinik dışı laboratuvar birimlerinin çalışma alanları ayrıdır. Ortak kullanılması gereken alanlar var ise iş akışını ve laboratuvar güvenliğini bozmayacak şekilde planlanır.
+
+j) Mikrobiyoloji laboratuvarlarında kontaminasyonu önlemek amacıyla kişisel koruyucu ekipman giyme bölümü bulunur. Laboratuvar tek yönlü iş akış prensibine uygun olarak besiyeri hazırlama ve sterilizasyon bölümü, ekim alanı, inkübasyon ve değerlendirme alanı, kirli malzemelerin dekontaminasyonu ve yıkanmasına ilişkin alan olmak üzere birbirinden ayrı alanlardan oluşur.
+
+k) Fiziki şartlar engelli personel ve hasta ihtiyaçlarına göre düzenlenir.
+
+#### Laboratuvar güvenliği
+
+**MADDE 15 –** (1) Mikrobiyoloji laboratuvarlarının fiziksel korunma düzeyi en az TS EN 12128 standardında belirtilen “fiziksel korunma düzeyi 2” şartlarına uygun olur. Yüksek riskli patojenler için ise en az “fiziksel korunma düzeyi 3” standartlarına uygun olur.
+
+(2) Teknik alanların çıkış tarafının uygun bir yerinde laboratuvar önlüğünün asılacağı yer ve fotoselli el yıkama lavabosu bulunur.
+
+(3) Teknik alanlarda veya koridorda acil basınçlı duş ve göz yıkama duşu bulunur.
+
+(4) Teknik ve destek alanları görevli olmayan kişi ve ziyaretçilerin geçişine izin vermeyecek şekilde düzenlenir.
+
+(5) Laboratuvar binasının acil çıkış merdiveni ve kapısı bulunur.
+
+(6) Laboratuvarda ilk yardım için gerekli ilaç ve malzemelerin bulunduğu ilk yardım dolabı ve talimatı yer alır.
+
+(7) Teknik alanlarda analiz risklerine uygun acil dökülme saçılma kiti bulunur.
+
+(8) Laboratuvarda ortaya çıkan atıklar, ilgili mevzuata göre ayrıştırılır, taşınır, geçici depolanır ve bertarafı sağlanır.
+
+(9) Laboratuvarda kullanılan yanıcı, yakıcı, boğucu ve patlayıcı gaz içeren gaz tüpleri bina dışında tekniğine uygun olarak havalandırılmak şartıyla muhafaza edilir. Ancak, cihaz kurulum şartı gereği cihazdan ayrı bir noktada muhafaza edilemeyecek tüpler, gerekli önlemlerin alınması ve cihaz teknik servisinin onayı ile teknik alan içinde bulundurulabilir.
+
+(10) Çalışan sağlığı ve iş güvenliği için yapılan işe uygun kişisel koruyucu ekipman temini ve kullanılması sağlanır.
+
+(11) Laboratuvarda kullanılacak yanıcı, yakıcı, boğucu ve patlayıcı kimyasal maddeler ve yedek yardımcı malzemeler için yapısına ve risk grupları ile saklama koşullarına göre ayrı muhafaza edilmek üzere yeterli havalandırması bulunan depo ve/veya uygun düzenlenmiş dolaplar bulunur. Kimyasal maddeler için ürün güvenlik bilgi formlarında belirtildiği şekilde gerekli tüm güvenlik önlemleri alınır. Kimyasal maddelerin bulunduğu oda, dolap ve depolar kilitlenir ve anahtarı sorumlu personelde olur.
+
+(12) Yapılan risk değerlendirmesine göre uygun alanlara gaz ve/veya duman sensörü tertibatı kurulur.
+
+(13) Teknik alanlarda veya koridorda yangın söndürme düzeneği bulunur.
+
+### DÖRDÜNCÜ BÖLÜM
+
+Laboratuvar Personelinin Nitelikleri, Görevlendirilmesi ve Görevleri
+
+#### Laboratuvar sorumlusunun nitelikleri ve görevleri
+
+**MADDE 16 –** (1) Halk sağlığı laboratuvar sorumlusu, tercihen 26/4/2014 tarihli ve 28983 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğine göre klinik mikrobiyoloji, klinik biyokimya, enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanı veya tabip, veteriner hekim, kimya mühendisi, biyoteknoloji ve genetik mühendisi, gıda mühendisi, ziraat fakültesinin gıda bölümü mezunu ziraat mühendisi, çevre mühendisi, kimyager ve biyologlardan tercihen laboratuvar çalışma alanında doktora/yüksek lisans eğitimi almış olanlar veya bu unvanlı personelden en az iki yıl laboratuvarda çalışmış olanlar arasından görevlendirilir.
+
+(2) Laboratuvar sorumlusu, Müdürlüğün teklifi, Kurumun onayı ile görevlendirilir, aynı usulle görevden alınır.
+
+(3) Laboratuvar sorumlusu ve birim sorumlusunun görevden ayrılması veya başlaması durumunda bu değişiklik beş iş günü içinde Kuruma bildirilir.
+
+(4) Laboratuvar sorumlusu aynı zamanda Tıbbi Laboratuvarlar Yönetmeliği kapsamındaki mesul müdürlük görevini yürütür. Laboratuvar sorumlusu ihtiyaç duyulduğunda birim sorumlusu veya laboratuvar teknik personeli olarak da çalışır.
+
+(5) Laboratuvar sorumlusunun görev, yetki ve sorumlulukları:
+
+a) Laboratuvarın çalışmalarını planlamak, organize etmek, izlemek, değerlendirmek ve denetlemek,
+
+b) Laboratuvarda yapılan analizlerde kullanılacak cihaz ve malzemelerle ilgili teknik şartnamelerin hazırlanmasını sağlamak ve satın alma süreçlerine aktif olarak katılacak teknik personeli belirlemek,
+
+c) Laboratuvar çalışanlarının iş güvenliği ile ilgili tedbirlerin alınmasını sağlamak ve laboratuvar güvenliğinin fiziki şartları dâhil, tüm gereklerinin yerine getirilmesini sağlamak,
+
+ç) Her türlü laboratuvar atıklarının mevzuatına uygun olarak bertarafı için gerekli tedbirleri almak,
+
+d) Laboratuvarın teknik yeterliliğinin sağlanmasına, hizmet kalitesinin arttırılmasına ve geliştirilmesine yönelik faaliyetlerde bulunmak,
+
+e) Laboratuvardaki cihaz ve ekipmanların bakım, onarım, kalibrasyon ve performans testlerinin yapılmasını sağlamak,
+
+f) Personelin mesleki becerilerini geliştirmek, teknolojik gelişmelerden haberdar olmaları ve laboratuvar hizmet standardını yerine getirmelerini sağlamak üzere yılda en az bir defa hizmet içi eğitim düzenlenmesini sağlamak,
+
+g) Laboratuvar çalışmalarında araştırma, geliştirme ve mevcut çalışmaların iyileştirilmesine destek verecek ulusal ve uluslararası işbirliği faaliyetlerinde bulunulmasını sağlamak,
+
+ğ) Kurumun ve Müdürlüğün verdiği görev alanı ile ilgili diğer görevleri yapmak.
+
+#### Laboratuvar birim sorumlularının nitelikleri ve görevleri
+
+**MADDE 17 –** (1) Birim sorumluları laboratuvar sorumlusu tarafından görevlendirilir.
+
+(2) Birim sorumlusu ihtiyaç duyulduğunda laboratuvar teknik personeli olarak da çalışır.
+
+(3) Klinik ve klinik dışı analizler için yeterli ve yetkili personel bulunmaması durumunda görevlendirme suretiyle birim sorumlusu ihtiyacı giderilir.
+
+(4) Birim sorumlularının nitelikleri aşağıda belirtilmiştir:
+
+a) Klinik dışı mikrobiyoloji laboratuvarı birim sorumlusu olarak, tercihen Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğine göre tıbbi mikrobiyoloji veya enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanı olmak üzere tabip, veteriner hekim, biyoteknoloji ve genetik mühendisi, gıda mühendisi, ziraat fakültesinin gıda bölümü mezunu ziraat mühendisi ve biyolog görevlendirilir. Bu personelden mikrobiyoloji alanında yüksek lisans ve üzeri akademik kariyer yapmış personel tercih edilir.
+
+b) Kimyasal analiz laboratuvarı birim sorumlusu; öncelikli olarak laboratuvarın çalışma alanında yüksek lisans ve üzeri akademik kariyer yapmış kimya mühendisi, kimyager, gıda mühendisi, veteriner hekim, ziraat fakültesinin gıda bölümü mezunu ziraat mühendisi, çevre mühendisi olanlardan görevlendirilir.
+
+c) Numune kabul birim sorumlusu ile raporlandırma birim sorumlusu (a) ve (b) bentlerinde belirtilen meslek grupları arasından görevlendirilir, birlikte faaliyet gösterebilir ve sorumluları aynı olabilir.
+
+(5) Klinik dışı mikrobiyoloji laboratuvarı ve kimyasal analiz laboratuvarı birim sorumluları aşağıdaki görevleri yerine getirir:
+
+a) Laboratuvarın görevi kapsamındaki analizlerin standart çalışma prosedürlerini laboratuvar personeli ile birlikte hazırlamak ve buna uygun çalışılmasını sağlamak.
+
+b) Biyolojik ve kimyasal güvenlikle ilgili önlemlerin alınması, güvenli laboratuvar tekniklerinin uygulanması, tıbbi ve kimyasal atıkların güvenli ayrıştırılması, taşınması ve geçici depolanması dahil laboratuvar güvenliğinin tüm gereklerinin yerine getirilmesini sağlamak.
+
+c) Laboratuvar personelinin görev dağılımını yapmak.
+
+ç) Analizlerin zamanında yapılmasını, raporlanmasını sağlamak ve onaylamak.
+
+d) Laboratuvarda yeni göreve başlayan personele uyum eğitimi vermek, gerektiğinde kurum içi ve dışı personel ile halka yönelik eğitimlerde görev almak.
+
+e) Laboratuvar cihaz ve sarf malzeme ihtiyaçlarının belirlenmesi ve stokların takibinin sağlanması ile ilgili işlemleri yapmak.
+
+f) Birimiyle ilgili kalite yönetimi faaliyetlerini yürütmek, yürütülmesini sağlamak.
+
+g) Görev alanı ile ilgili laboratuvar sorumlusu tarafından verilecek benzeri diğer görevleri yapmak.
+
+(6) Numune kabul birim sorumlusunun görevi; numunenin prosedürlere uygun kabulünü ve sevkini sağlamak, görev alanı ile ilgili laboratuvar sorumlusu tarafından verilecek benzeri diğer görevleri yapmaktır.
+
+(7) Raporlandırma birim sorumlusunun görevi; laboratuvarlardan gelen analiz sonuçlarına ait nihai raporların kontrolünü yaparak laboratuvar sorumlusunun onayına sunulmasını sağlamak, görev alanı ile ilgili laboratuvar sorumlusu tarafından verilecek benzeri diğer görevleri yapmaktır.
+
+#### Kalite yönetim temsilcisinin nitelikleri ve görevleri
+
+**MADDE 18 –** (1) İhtiyaca göre laboratuvar bünyesinde kalite yönetim birimi oluşturulur.
+
+(2) Laboratuvar sorumlusunun teklifi ile Müdürlük tarafından teknik veya sağlık hizmetleri sınıfından en az lisans mezunu ve kalite ile ilgili eğitimleri almış personel, kalite yönetim temsilcisi olarak görevlendirilir.
+
+(3) Kalite yönetim birimine yeterli sayıda personel görevlendirilir. Kalite temsilcisi ve kalite birimi personeli gerektiğinde laboratuvar teknik personeli olarak da görev yapar.
+
+(4) Eğitim almış personel bulunmaması durumunda, görevlendirilen personelin en kısa sürede gerekli eğitimleri alması sağlanır.
+
+(5) Kalite yönetim temsilcisi aynı zamanda kalite yönetim birimi sorumluluğunu da yerine getirir.
+
+(6) Kalite yönetim temsilcisinin görev, yetki ve sorumlulukları:
+
+a) Laboratuvarın tabi olduğu kalite standartları kapsamında kalite ile ilgili çalışmaları koordine etmek, dokümanların hazırlanmasını, uygulanmasını, güncelliğini sağlamak ve kalite sisteminin etkinliğini izlemek ve sürekliliğini sağlamak.
+
+b) İç tetkik planını hazırlamak, laboratuvar sorumlusunun onayına sunmak, kalite çalışmalarını denetlemek/denetlenmesini sağlamak, oluşan aksaklıkların giderilmesine yardımcı olmak, uygunsuzlukları izlemek, giderilmesini ve takibini sağlamak.
+
+c) Laboratuvarın dış kalite kontrol çalışmalarını koordine etmek, izlemek, gerektiğinde düzeltici ve önleyici faaliyetlerin yapılmasını sağlamak.
+
+ç) Laboratuvarın kalite yönetim sistemi belgelerinin alınması ve/veya yenilenmesine yönelik çalışmaları yürütmek.
+
+d) Laboratuvarın ulusal ve uluslararası kurum ve kuruluşlarla yürüteceği kalite çalışmalarını izlemek, gerektiğinde katılım sağlamak.
+
+e) Laboratuvarın performans kriterleri oluşturulması ve güncellenmesi çalışmalarına destek olmak.
+
+f) Laboratuvarın kalite ile ilgili proje, eğitim ve araştırma çalışmalarını takip etmek ve yürütmek, kayıt işlemlerini yapmak veya yapılmasını sağlamak.
+
+g) Kalite kayıtlarının saklanması ve elden çıkarılmasına ilişkin koordinasyonu sağlamak.
+
+ğ) Yönetimin gözden geçirme toplantılarının organizasyonunu ve raportörlüğünü kalite standartlarının gereklerine uygun şekilde yapmak ve alınan kararların gerçekleştirilmesini takip etmek.
+
+h) Düzeltici ve önleyici faaliyetlerin gerçekleştirilmesi için koordinasyonu sağlamak ve takip etmek.
+
+ı) Görev alanı ile ilgili laboratuvar sorumlusunun verdiği diğer görevleri yapmak.
+
+#### Laboratuvar teknik personelinin nitelikleri ve görevleri
+
+**MADDE 19 –** (1) Laboratuvarda, tercihen Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğine göre mikrobiyoloji veya enfeksiyon hastalıkları ve tıbbi/klinik mikrobiyoloji uzmanı olmak üzere, tabip, veteriner hekim, kimya mühendisi, biyoteknoloji ve genetik mühendisi, gıda mühendisi, ziraat fakültesinin gıda bölümü mezunu ziraat mühendisi, çevre mühendisi, kimyager, biyolog ve tıbbi biyolog gibi en az lisans mezunu yeterli sayıda personel bulundurulur. Bu personel aşağıdaki görevleri yerine getirir:
+
+a) Laboratuvarın iş tanımı içerisinde yer alan numunelerin analizlerini yapmak, sonuçlarını değerlendirmek, analiz sonuçlarını zamanında ve doğru rapor etmek, kontrol etmek, imzalamak.
+
+b) Laboratuvar ortamı ve cihaz/ekipmanların kalite standartları doğrultusunda takibini ve gerekli işlemlerini yapmak.
+
+c) Malzeme ihtiyacını belirleyerek birim sorumlusuna bildirmek.
+
+ç) Laboratuvar güvenliği için gerekli önlemleri almak, uymak, uyulmasını sağlamak.
+
+d) Analizle ilgili tüm çalışma verilerini ve sonuçlarını kayıt altına almak ve muhafaza etmek.
+
+e) Kalite sistem standartları kapsamında görev alanı ile ilgili çalışmaları yapmak.
+
+f) Görev alanı ile ilgili birim sorumlusunun verdiği diğer görevleri yapmak.
+
+(2) Laboratuvarda, laboratuvar alanında lise ve/veya ön lisans eğitimi almış yeteri kadar personel görevlendirilir. Teknik personel aşağıdaki görevleri yerine getirir:
+
+a) Laboratuvarın görev alanı ile ilgili laboratuvar sorumlusu/birim sorumlusunun verdiği görevleri yapmak.
+
+b) Laboratuvar ekipman, cihaz ve malzemelerini kullanıma hazır halde tutmak.
+
+c) Laboratuvara gelen numuneleri almak, analize hazırlamak ve muhafaza etmek, görev kapsamındaki analizleri yazılı düzenlemelere göre yapmak ve değerlendirmek üzere birim sorumlusuna sunmak.
+
+ç) Görev alanıyla ilgili olarak laboratuvar sorumlusu/birim sorumlusunun vereceği diğer görevleri yapmak.
+
+#### Laboratuvar idari işler personelinin nitelikleri ve görevleri
+
+**MADDE 20 –** (1) Gerektiğinde idari işler personeli olarak; elektrik mühendisi, elektronik mühendisi, makine mühendisi, biyomedikal mühendisi, istatistik, fizik mühendisi, bilgisayar mühendisi ve benzeri alanlardan veya bu alanlardan mezun olan tekniker, teknisyen ve veri hazırlama kontrol işletmeni ve yeterli sayıda personel görevlendirilir.
+
+(2) İdari işler personeli kendilerine verilen görevleri eksiksiz ve zamanında yerine getirmekle sorumludur.
+
+### BEŞİNCİ BÖLÜM
+
+Analiz Metotları ve Özellikleri, Analiz Raporları, Analiz Ücretleri,
+
+Kayıtların Tutulması ve Numunelerin Muhafazası
+
+#### Analiz metotları ve özellikleri
+
+**MADDE 21 –** (1) Laboratuvarda ulusal ve/veya uluslararası geçerliliği olan analiz metotları kullanılır.
+
+(2) Ulusal/Uluslararası kabul görmüş analiz metotları dışında bir metot kullanıldığında metodun doğruluğunu kanıtlamak için validasyon çalışmaları yapılır ve dokümante edilir.
+
+(3) Özel istek numunelerinin analizi, talep edilmesi halinde farklı bir metoda göre yapılabilir ve bu husus raporda açık bir şekilde belirtilir.
+
+(4) Mikrobiyoloji laboratuvarı klinik dışı çalıştığı bütün parametrelerde, kimya laboratuvarı ise çalışılan analiz grubunu temsil edecek en az iki parametrede yılda en az bir kez dış kalite kontrole katılır.
+
+(5) Dış Kalite Kontrol sonucunda kantitatif analizlerde |z|≤2, kalitatif analizlerde ise başarılı olmalıdır.
+
+#### Analiz raporları
+
+**MADDE 22 –** (1) Laboratuvar tarafından tanzim edilen analiz raporlarının gizliliği esastır.
+
+(2) Analiz raporlarının hazırlanmasında aşağıdaki hususlara dikkat edilir:
+
+a) Analiz sonuçları mevzuatına uygun ise mevzuatın adı ile birlikte “Uygundur.” ibaresi yazılır.
+
+b) Analiz sonuçları mevzuatına uygun değilse mevzuatın adı ile birlikte “Uygun değildir.” ibaresi yazılır.
+
+c) Kaynağı bilinmeyen numuneler ile mevzuatı ve/veya mevzuat limitleri belirli olmayan numunelerin analiz raporları “Yukarıdaki analiz sonuçları bulunmuştur.” şeklinde yazılır.
+
+ç) Kimyasal analizlerde metodun güvenilir bir şekilde doğru tespit edebileceği en düşük ölçüm miktarı analiz raporunda belirtilir. Tayin sınırının altında olan sonuçlar “Tayin sınırının altındadır.” şeklinde yazılır.
+
+d) Kantitatif mikrobiyolojik analizlerde herhangi bir üreme olmadığı durumlarda sonuçlar metodun tespit limitine göre “<10”, “<3” ve benzeri şekilde ifade edilir.
+
+e) Mevzuatta bulunmaması istenen miktarın tamamının analize alındığı kantitatif mikrobiyolojik analizlerde ise, bir üreme görülmediği durumlarda sonuç “0” şeklinde yazılır.
+
+f) Kalitatif mikrobiyolojik analizlerde herhangi bir üreme olmadığı durumlarda sonuçlar “Tespit edilemedi.”, üreme görülürse sonuç “Tespit edildi.” şeklinde yazılır.
+
+g) Enstrümental cihazlarla yapılan analizlerde kullanılan metot adı, tayin sınırı, mevzuat sınırı, tarih ve benzeri bilgiler verilir.
+
+ğ) Numunede çalışılan analiz parametreleri raporda ayrı ayrı belirtilir.
+
+h) Analiz raporunda sayfa sayısı belirtilir ve raporun kısmen kullanılamayacağına dair uyarıcı ifade ve “Analiz sonuçları yukarıda belirtilen numune için geçerlidir.” ifadesi yer alır.
+
+ı) Özel istek numune analiz raporlarının son sayfasında mutlaka “Adli ve idari işlemlerde ve reklam amaçlı kullanılamaz.” ifadesi yazılır.
+
+i) Raporda mevzuatın gerektirdiği durumlar veya müşterinin talebi doğrultusunda laboratuvarın varsa ölçüm belirsizliği belirtilir.
+
+j) Su analiz sonuçlarının Kurumun Su Kalitesi Kontrol Sistemine girilmesi zorunludur.
+
+#### Analiz ücretleri
+
+**MADDE 23 –** (1) Analiz ücretleri Bakanlık tarafından belirlenir. Yetkilendirilmiş laboratuvarlar analizlere ait belirlenen fiyat tarifesinin altında ücret uygulayamaz.
+
+#### Kayıtların tutulması ve numunelerin muhafazası
+
+**MADDE 24 –** (1) Klinik dışı laboratuvarlarda belge ve kayıtlar hizmet kalite standardına göre yazılı ve/veya elektronik ortamda tutulur ve muhafaza edilir.
+
+(2) Raporlar ve kayıtlar en az on yıl, numuneler ise uygun şartlarda sonuç raporlanıncaya kadar muhafaza edilir.
+
+(3) Klinik laboratuvarlarda belge ve kayıtların tutulması ve muhafazası Tıbbi Laboratuvarlar Yönetmeliğine göre yapılır.
+
+(4) Laboratuvar analiz sonuçları ve Kurumca belirlenen diğer veriler Halk Sağlığı Laboratuvarları Bilgi Sistemine aktarılır.
+
+### ALTINCI BÖLÜM
+
+Yetkilendirme Başvurusu, Analiz Yetki Belgesi Verilmesi,
+
+Analiz Yetki Belgesinin Yenilenmesi
+
+#### Yetkilendirme başvurusu
+
+**MADDE 25 –** (1) Analiz yetkisi almak isteyen laboratuvarlar aşağıdaki belgelerle birlikte Müdürlüğe başvurur:
+
+a) Başvuru dilekçesi Ek-1.
+
+b) Laboratuvar tanıtım bildirimi Ek-2.
+
+c) Organizasyon şeması.
+
+ç) Laboratuvar sorumlusunun noter onaylı imza sirküleri ve çalışanların görev, yetki sorumlulukları listesi Ek-3.
+
+d) Cihaz ve ekipman listesi Ek-4.
+
+e) Parametre listesi Ek-5.
+
+f) Standart çalışma prosedürleri.
+
+g) TS EN ISO/IEC 17025 “Deney ve Kalibrasyon Laboratuvarlarının Yeterliği İçin Genel Şartlar” kapsamında akreditasyon belgesi.
+
+ğ) Havuz mahallinde analizi yapılan parametreler hariç olmak üzere ilgili mevzuatta belirtilen tüm parametrelerde yöntem akreditasyonu belgesi.
+
+h) Faaliyet konusu içerisinde çevre analizleri veya yüzme havuz suyu analizi bulunan İşyeri Açma ve Çalışma Ruhsatının ilgili Kurum veya noter onaylı sureti.
+
+ı) Dosya inceleme ve analiz yetki belgesi ücretine ait makbuz/banka dekontu.
+
+i) Tüzel kişilere ait laboratuvarlar için Ticari Sicil Gazetesinin ticaret odalarınca veya noterce onaylanmış sureti ile faaliyet belgesinin aslı.
+
+j) Alınan numunelerin güneş ışınlarından korunarak (5± 3)oC’de ısıyı muhafaza edebilen taşıma kapları ile en fazla on iki saat içerisinde laboratuvara taşınmasının sağlanması hakkında taahhütname.
+
+k) Numune alma ve taşıma talimatı.
+
+l) Numunelerin analizinde tam zamanlı yüzme havuz suyu analizinde çalışanların ve numune alma görevlisinin unvan ve pozisyonlarını gösterin firma tarafından onaylı listesi.
+
+m) Çalışan personele ait Kurum veya noter onaylı diploma fotokopisi.
+
+n) Çalışan personele ait SGK kayıtları.
+
+o) Çalışan personele ait belirsiz iş sözleşmeleri.
+
+ö) Cihaz ve ekipmana ait laboratuvar yerleşim planı.
+
+p) Ticaret Sicil Gazetesi ve Ticaret Sicil Numarası, vergi levhası fotokopisi.
+
+r) Tüm parametrelere ait standart çalışma prosedürleri.
+
+s) Metotlara ait validasyon raporları.
+
+ş) İnceleme ekibinin ihtiyaç duyduğu ilave belgeler.
+
+(2) Başvuru dosyası Müdürlük tarafından incelenir. İncelenen dosya belgelerinde eksiklik bulunması durumunda başvurana bildirilir. Eksikliklerin tamamlanması için üç aya kadar süre verilir. Bu süre içerisinde eksiklikleri tamamlanmayan dosya başvuru yapılmamış sayılarak işlemden kaldırılır.
+
+(3) Uygun görülmesi durumunda Kuruma gönderilen dosya İnceleme Komisyonuna gönderilir. Laboratuvar en geç üç ay içerisinde 9 uncu maddenin beşinci ve altıncı fıkrasına göre yerinde incelenir. Ek-7’deki inceleme tutanağı tanzim edilir.
+
+#### Analiz yetki belgesi verilmesi
+
+**MADDE 26 –** (1) İnceleme Komisyonu tarafından düzenlenen inceleme tutanağının sonucuna göre laboratuvarın şartları Kurumca uygun görülürse Ek-8’deki Analiz Yetki Belgesi verilir.
+
+(2) İnceleme Komisyonu tarafından eksiklik tespit edilmesi durumunda, eksikliklerin giderilmesi için üç aydan fazla olmamak üzere uygun süre verilir. Başvuran tarafından eksikliğin giderildiği beyanı üzerine İnceleme Komisyonunca tekrar yerinde inceleme yapılabileceği gibi, dosya üzerinden veya Müdürlük ekiplerinin yerinde inceleme yapması suretiyle dosya tekemmül ettirilerek analiz yetki belgesi verilir.
+
+(3) Yetkilendirilmiş laboratuvarlar analiz sonuçlarını 24 üncü maddenin dördüncü fıkrasına uygun olarak Müdürlüğe bildirir. Analiz tekrarı ve teyidi amacıyla Müdürlükçe talep edilmesi halinde numuneyi ilgili birimlere gönderir.
+
+#### Analiz yetki belgesinin yenilenmesi
+
+**MADDE 27 –** (1) Analiz yetki belgesinde yer alan hususların değiştirilmek istenilmesi, analiz yetki belgesinin kaybolması veya tahrip olması durumlarında yeni analiz yetki belgesi düzenlenir. Kaybolma haricindeki yenileme taleplerinde eski analiz yetki belgesi Kuruma iade edilir.
+
+(2) Analiz yetki belgesinin geçerlilik süresi dört yıldır. Süre bitiminin en az onbeş iş günü öncesinde yenileme için Kuruma müracaat edilir.
+
+(3) Belge yenileme başvurusunda 25 inci maddenin ikinci ve üçüncü fıkrası ile 26 ncı madde hükümleri uygulanır.
+
+(4) Geçerlilik süresinin bitimine kadar yenileme işlemleri tamamlanmamış laboratuvarların analiz yetkisi askıya alınır. Geçerlilik süresinin bitiminden sonra yapılan yenileme talepleri yeni müracaat olarak değerlendirilir.
+
+### YEDİNCİ BÖLÜM
+
+Denetim, Bildirimler ve Yaptırımlar
+
+#### Denetim
+
+**MADDE 28 –** (1) Şikayet ve olağanüstü haller dışında halk sağlığı laboratuvarları Ek-9’a göre, Kurumca planlanarak yılda en az bir defa; yetkilendirilmiş laboratuvarlar ise, Ek-10’a göre Kurum tarafından en az yılda bir defa ve müdürlük tarafından da en az altı ayda bir denetlenir. Denetimleri alanında uzman, en az üç personelden oluşan denetim ekibi tarafından gerçekleştirilir.
+
+(2) Denetim tutanağı Ek-11 düzenlenir.
+
+(3) Denetim esnasında gerekli görülen analizlerin uygulamalı olarak yapılması istenebilir.
+
+(4) Müdürlük, gerektiğinde, yetkilendirilmiş laboratuvarları denetlemek amacıyla numuneyi halk sağlığı laboratuvarı ile paralel çalıştırır. İtiraz durumunda şahit numunenin nihai analiz sonucu için Kurumun belirlediği test bazında referans yetkili laboratuvara gönderilir.
+
+(5) Denetim tutanağı en az iki nüsha halinde düzenlenerek bir nüshası laboratuvar sorumlusuna teslim edilir.
+
+(6) Denetim ile ilgili tespitler ve sonuçlar rapor halinde Kuruma bildirilir.
+
+(7) Laboratuvar sorumlusu denetim ekibine her türlü bilgi ve belgeyi sunmak zorundadır.
+
+#### Bildirimler
+
+**MADDE 29 –** (1) Laboratuvarın katıldığı iç ve dış kalite kontrol sonuçları, laboratuvar personelinin değişmesi ve laboratuvarın taşınması gibi durumlar onbeş gün içerisinde Kuruma bildirilir.
+
+#### İdari yaptırımlar
+
+**MADDE 30 –** (1) Yetkilendirilmiş Laboratuvarlardan, bu Yönetmelik hükümlerine aykırı hareket edenler hakkında, fiilleri 5237 sayılı Türk Ceza Kanunu kapsamında ayrı bir suç teşkil etmemesi durumunda 1593 sayılı Umumi Hıfzıssıhha Kanununun 282 nci maddesi çerçevesinde işlem tesis edilir.
+
+(2) Denetim sırasında bulunan uygunsuzluklar ve eksiklikler için halk sağlığı laboratuvarları için Ek-9’daki, yetkilendirilmiş laboratuvarlar için Ek-10’daki idari yaptırımlar uygulanır.
+
+(3) Denetim sonunda analiz yetkisi iptal edilen laboratuvar bir yıl yetki müracaatında bulunamaz.
+
+### SEKİZİNCİ BÖLÜM
+
+Çeşitli ve Son Hükümler
+
+#### Bilimsel danışma komisyonu
+
+**MADDE 31 –** (1) Laboratuvar hizmetlerinin geliştirilmesi ve kalitesinin artırılması amacıyla gerektiğinde Kuruma bilimsel destek verilmesi amacıyla bilimsel danışma komisyonu oluşturulabilir.
+
+#### Mevcut laboratuvarların uyumu
+
+**GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yürürlüğe girmesinden önce faaliyet gösteren halk sağlığı laboratuvarları ile yetkilendirilmiş laboratuvarlar, 1/3/2016 tarihine kadar bu Yönetmelik hükümlerine uyum sağlar.
+
+#### Uyum geçiş süresi
+
+**GEÇİCİ MADDE 2 –** (1) Kamu kurum ve kuruluşları, üniversiteler ile yerel yönetimler bünyesinde faaliyet gösteren laboratuvarların, radyoaktivite hariç olmak üzere içme-kullanma sularında kontrol izlemesi ve denetim izlemesi analiz yetkileri ile kaplıca sularında tüm analiz yetkileri 1/3/2016 tarihinde sona erer.
+
+#### Yürürlük
+
+**MADDE 32 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+#### Yürütme
+
+**MADDE 33 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+
+Ekler için tıklayınız

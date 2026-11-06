@@ -843,7 +843,7 @@ d) İmalatçı, en son teknolojik gelişmeler ışığında gerekli kontrol ve t
 
 2.1) İmalatçı, üretilen cihazların, bu Yönetmelik hükümlerine ve AT tip-inceleme sertifikasında tanımlanan tipin tüm özelliklerine tamamen uygun olarak üretilmesi için, üretim yöntemiyle ilgili gerekli tedbirleri alır. İmalatçı üretime başlamadan önce, üretim işlemlerini açıklayan belgeleri, özellikle sterilizasyon ve başlangıç maddelerinin uygunluğu başta olmak üzere, üretim işlemlerini ve gerekirse mevcut teknik normlara göre gerekli test işlemlerini tanımlamalıdır. Üretimin homojen olduğundan emin olmak, cihazların AT tip-inceleme sertifikasında belirtilen tipe ve bu Yönetmeliğin ilgili hükümlerine uygunluğunu sağlamak üzere, önceden oluşturulmuş tüm rutin işlemler uygulanmalıdır.
 
-2.2) Nihaî testin bu EK’in (6.3) numaralı kısmına göre yapılmasının uygun olmadığı durumlarda imalatçı, onaylanmış kuruluşun onayını alarak sürecin test edilmesi, izlenmesi ve kontrolüne yönelik yeterli yöntemleri belirler. Yukarıda belirtilen işlemlerle ilgili olarak E K-IV’ün (5) numaralı kısmı uygulanır.
+2.2) Nihaî testin bu EK’in (6.3) numaralı kısmına göre yapılmasının uygun olmadığı durumlarda imalatçı, onaylanmış kuruluşun onayını alarak sürecin test edilmesi, izlenmesi ve kontrolüne yönelik yeterli yöntemleri belirler. Yukarıda belirtilen işlemlerle ilgili olarak EK-IV’ün (5) numaralı kısmı uygulanır.
 
 3) İmalatçı, üretim sonrası aşamasında cihazlardan elde edilen tecrübeyi gözden geçirmek ve EK-III’ün (5) numaralı kısmında belirtilen gerekli düzeltici tedbirleri almak ve bildirimleri yapmak için gerekli vasıtaları uygulamak amacıyla düzenli bir sistem oluşturmalı ve güncelleştirmelidir.
 

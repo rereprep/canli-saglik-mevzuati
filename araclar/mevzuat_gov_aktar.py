@@ -132,12 +132,39 @@ MADDE = re.compile(r"^((?:GEÇİCİ |Geçici |EK |Ek |MÜKERRER )?(?:MADDE|Madde
 
 
 def temiz(s):
+    # Satır içi etiketler (Word'den aktarılmış sayfalarda harf harf bölünmüş <span>'ler) boşluk eklemeden kalkar
+    s = re.sub(r"(?i)</?(span|font|b|i|u|em|strong|o:p|a|sup|sub|small|st1:[a-z]+)(\s[^>]*)?>", "", s)
     s = html.unescape(re.sub(r"<[^>]+>", " ", s))
     return re.sub(r"\s+", " ", unicodedata.normalize("NFC", s)).strip()
 
 
+def duzen_tablolarini_ac(sayfa):
+    """İç içe tablolarda en içtekinden başlayarak sayfa düzeni için kullanılan tabloları
+    (uzun metin hücresi olan ya da içinde paragraf/tablo barındıran) açar; veri tabloları kalır."""
+    ic = re.compile(r"(?is)<table(?:(?!<table).)*?</table>")
+    for _ in range(50):
+        def ac(m):
+            t = m.group(0)
+            hucreler = re.findall(r"(?is)<t[dh][^>]*>(.*?)</t[dh]>", t)
+            uzun = any(len(temiz(h)) > 400 for h in hucreler)
+            if not (uzun or "\x00" in t):
+                return t.replace("<table", "<\x01table", 1).replace("</table>", "</\x01table>")
+            parcalar = []
+            for h in hucreler:
+                h = h.replace("<\x01table", "<table").replace("</\x01table>", "</table>")
+                parcalar.append(h if re.search(r"(?i)<(p|table|h\d)[ >]", h) else f"<p>{h}</p>")
+            return "\x00" + "".join(parcalar)
+
+        sayfa = ic.sub(ac, sayfa)
+        if not ic.search(sayfa):
+            break
+    return sayfa.replace("\x00", "").replace("<\x01table", "<table").replace("</\x01table>", "</table>")
+
+
 def html_md(sayfa):
     sayfa = re.sub(r"(?is)<(script|style|head)[^>]*>.*?</\1>", " ", sayfa)
+    sayfa = re.sub(r"(?s)<!--.*?-->", " ", sayfa)
+    sayfa = duzen_tablolarini_ac(sayfa)
     sayfa = re.sub(r"(?is)<a[^>]*href=\"#_ftn\d+\"[^>]*>.*?</a>", lambda m: "[" + re.sub(r"\D", "", temiz(m.group(0))) + "]", sayfa)
     bloklar = []
     for m in re.finditer(r"(?is)<table.*?</table>|<p[ >].*?</p>|<h\d[^>]*>.*?</h\d>", sayfa):

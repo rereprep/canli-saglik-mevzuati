@@ -68,10 +68,15 @@ def belgeleri_oku():
         for alan, deger in ek.get(veri["id"], {}).items():
             if deger and (not veri.get(alan) or alan in ("baslik", "konu", "etiketler")):
                 veri[alan] = deger
+        alanlari_duzelt(veri)
         veri["govde"] = govde
         veri["tam_metin"] = True
         tam.append(veri)
     belgeler = tekillestir(tam)
+    # Tam metni olan (ya da tam metne birleştirilmiş) kimlikler katalogda yeniden künye olarak görünmesin
+    bilinen = set(belgeler)
+    for b in belgeler.values():
+        bilinen.update(i for _, i in b.get("eski_kimlikler", []))
     for js in sorted((KOK / "kaynak-isleme" / "katalog").glob("*.json")):
         for k in json.loads(js.read_text(encoding="utf-8")):
             if k.get("tur") not in TUR_ADLARI or not k.get("baslik"):
@@ -80,6 +85,12 @@ def belgeleri_oku():
             k["etiketler"] = [t.replace("-", " ") for t in k.get("etiketler", []) if t]
             if not k.get("id"):
                 k["id"] = "k-" + sade(k["baslik"]).replace(" ", "-")[:90]
+            if k["id"] in bilinen or ek.get(k["id"], {}).get("gizle"):
+                continue
+            for alan, deger in ek.get(k["id"], {}).items():
+                if deger and (not k.get(alan) or alan in ("baslik", "konu", "etiketler")):
+                    k[alan] = deger
+            alanlari_duzelt(k)
             # Tam metni olan belgeyle aynıysa yalnızca eksik alanları tamamla
             es = esini_bul(belgeler, k)
             if es:
@@ -95,7 +106,126 @@ def belgeleri_oku():
             k.setdefault("durum", "yürürlükte")
             belgeler.setdefault(k["id"], k)
             _ES_DIZIN = None
-    return belgeler
+    return ciftleri_birlestir(belgeler)
+
+
+def tarih_iso(t):
+    t = str(t or "").strip()
+    m = re.fullmatch(r"(\d{1,2})\s*[./-]\s*(\d{1,2})\s*[./-]\s*(\d{4})", t)
+    if m and 1 <= int(m[2]) <= 12 and 1 <= int(m[1]) <= 31:
+        return f"{m[3]}-{int(m[2]):02d}-{int(m[1]):02d}"
+    return t
+
+
+def no_sade(s):
+    """2023/03 ile 2023/3 aynı numaradır."""
+    return re.sub(r"(?<=/)0+(?=\d)", "", re.sub(r"\s+", "", str(s or "")))
+
+
+def alanlari_duzelt(b):
+    for alan in ("tarih", "rg_tarih"):
+        if b.get(alan):
+            b[alan] = tarih_iso(b[alan])
+    if b.get("tarih", "").startswith("1905-"):  # hatalı dönüştürülmüş tablo değeri
+        b["tarih"] = ""
+    # Genelge numarası başlıkta yazılıysa sayı alanına taşı
+    if b.get("tur") == "genelge" and not b.get("sayi"):
+        m = re.search(r"\((\d{4})\s*/\s*(\d{1,3})\)", b.get("baslik", ""))
+        if m:
+            b["sayi"] = f"{m[1]}/{m[2]}"
+
+
+def baslik_ozu(b):
+    s = sade(re.sub(r"\(.*?\)", " ", b.get("baslik", "")))
+    s = re.sub(r"\b(yonergesi|yonerge|yonetmeligi|yonetmelik|genelgesi|genelge|tebligi|teblig|hakkinda|dair|iliskin"
+               r"|ile ilgili|uygulama|esaslari|usul ve esaslar)\b", " ", s)
+    return " ".join(s.split())
+
+
+def belge_yili(b):
+    for kaynak in (b.get("tarih", ""), no_sade(b.get("sayi", ""))):
+        m = re.match(r"((?:19|20)\d{2})(?:-|/|$)", kaynak)
+        if m:
+            return m[1]
+    m = re.search(r"\(((?:19|20)\d{2})(?:\s*/\s*\d+)?\)", b.get("baslik", ""))
+    return m[1] if m else ""
+
+
+def celisir(a, b):
+    """İki kayıt farklı belgeleri mi gösteriyor (tarih, sayı ya da yıl farklı)?"""
+    iso = lambda t: re.fullmatch(r"\d{4}-\d{2}-\d{2}", t or "")
+    if iso(a.get("tarih")) and iso(b.get("tarih")):
+        return a["tarih"] != b["tarih"]
+    sa, sb = no_sade(a.get("sayi")), no_sade(b.get("sayi"))
+    if sa and sb and sa != sb:
+        return True
+    ya, yb = belge_yili(a), belge_yili(b)
+    return bool(ya and yb and ya != yb)
+
+
+def metin_benzer(a, b):
+    import difflib
+    x, y = sade(a.get("govde", ""))[:4000], sade(b.get("govde", ""))[:4000]
+    if not x or not y:
+        return False
+    return difflib.SequenceMatcher(None, x, y).ratio() >= 0.8
+
+
+def birlestir(ana, diger):
+    # Daha eksiksiz başlığı koru (ör. kısaltma ve "Yönergesi" eki olan)
+    if len(diger.get("baslik", "")) > len(ana.get("baslik", "")) and sade(ana.get("baslik", "")) in sade(diger["baslik"]) \
+            and "degisik" not in sade(diger["baslik"]):
+        ana["baslik"] = diger["baslik"]
+    ana.setdefault("eski_kimlikler", []).append((diger["tur"], diger["id"]))
+    ana["eski_kimlikler"] += diger.get("eski_kimlikler", [])
+    for alan in ("tarih", "sayi", "rg_tarih", "rg_sayi", "birim", "konu", "etiketler", "kaynak_url"):
+        if diger.get(alan) and not ana.get(alan):
+            ana[alan] = diger[alan]
+    if diger.get("kaynak") and diger["kaynak"] != ana.get("kaynak") and diger["kaynak"] not in ana.get("diger_kaynaklar", []):
+        ana.setdefault("diger_kaynaklar", []).append(diger["kaynak"])
+
+
+def ciftleri_birlestir(belgeler):
+    """Aynı belgenin farklı adlarla girilmiş kopyalarını tek kayıtta toplar.
+    Aynı tür + aynı tarih + aynı sayı ya da aynı başlık özü (tarih/sayı çelişmiyorsa;
+    iki tam metin varsa metinler de benzer olmalı) aynı belge sayılır."""
+    tercih = lambda b: (b["tam_metin"], oncelik(b) if b["tam_metin"] else 0, len(b.get("baslik", "")))
+    gruplar = {}
+    for b in belgeler.values():
+        if b["tur"] == "yazi":
+            continue
+        anahtarlar = [("oz", b["tur"], baslik_ozu(b))]
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", b.get("tarih", "")) and len(no_sade(b.get("sayi"))) >= 3:
+            anahtarlar.append(("ts", b["tur"], b["tarih"], no_sade(b["sayi"]).split("-")[0]))
+        for k in anahtarlar:
+            gruplar.setdefault(k, []).append(b)
+    silinen = set()
+    for k, grup in gruplar.items():
+        grup = [b for b in grup if b["id"] not in silinen]
+        if len(grup) < 2:
+            continue
+        grup.sort(key=tercih, reverse=True)
+        kumeler = []
+        for b in grup:
+            for kume in kumeler:
+                bas = kume[0]
+                if k[0] == "ts":
+                    import difflib
+                    uygun = (difflib.SequenceMatcher(None, baslik_ozu(b), baslik_ozu(bas)).ratio() >= 0.6
+                             or (b["tam_metin"] and bas["tam_metin"] and metin_benzer(b, bas)))
+                else:
+                    uygun = (not any(celisir(b, u) for u in kume)
+                             and (not (b["tam_metin"] and bas["tam_metin"]) or metin_benzer(b, bas)))
+                if uygun:
+                    kume.append(b)
+                    break
+            else:
+                kumeler.append([b])
+        for kume in kumeler:
+            for diger in kume[1:]:
+                birlestir(kume[0], diger)
+                silinen.add(diger["id"])
+    return {i: b for i, b in belgeler.items() if i not in silinen}
 
 
 def baslik_anahtari(b):
@@ -122,17 +252,32 @@ def tekillestir(liste):
     for b in liste:
         gruplar.setdefault(baslik_anahtari(b), []).append(b)
     sonuc = {}
-    for grup in gruplar.values():
+    for anahtar, grup in gruplar.items():
         grup.sort(key=oncelik, reverse=True)
-        ana = grup[0]
-        for diger in grup[1:]:
-            ana.setdefault("eski_kimlikler", []).append((diger["tur"], diger["id"]))
-            for alan in ("tarih", "sayi", "rg_tarih", "rg_sayi", "birim", "konu", "etiketler", "kaynak_url"):
-                if diger.get(alan) and not ana.get(alan):
-                    ana[alan] = diger[alan]
-            if diger.get("kaynak") and diger["kaynak"] != ana.get("kaynak"):
-                ana.setdefault("diger_kaynaklar", []).append(diger["kaynak"])
-        sonuc[ana["id"]] = ana
+        kumeler = [[grup[0]]]
+        for b in grup[1:]:
+            if str(anahtar[1]).startswith("no:"):
+                # Aynı genelge numarası: başlık ya da metin de benzemeli (yanlış numara birleştirmesin)
+                import difflib
+                for kume in kumeler:
+                    if difflib.SequenceMatcher(None, baslik_ozu(b), baslik_ozu(kume[0])).ratio() >= 0.55 \
+                            or metin_benzer(b, kume[0]):
+                        kume.append(b)
+                        break
+                else:
+                    kumeler.append([b])
+            else:
+                kumeler[0].append(b)
+        for kume in kumeler:
+            ana = kume[0]
+            for diger in kume[1:]:
+                ana.setdefault("eski_kimlikler", []).append((diger["tur"], diger["id"]))
+                for alan in ("tarih", "sayi", "rg_tarih", "rg_sayi", "birim", "konu", "etiketler", "kaynak_url"):
+                    if diger.get(alan) and not ana.get(alan):
+                        ana[alan] = diger[alan]
+                if diger.get("kaynak") and diger["kaynak"] != ana.get("kaynak"):
+                    ana.setdefault("diger_kaynaklar", []).append(diger["kaynak"])
+            sonuc[ana["id"]] = ana
     return sonuc
 
 
