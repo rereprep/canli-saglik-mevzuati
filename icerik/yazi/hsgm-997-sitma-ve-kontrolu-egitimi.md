@@ -1,4 +1,15 @@
 ---
+id: "hsgm-997-sitma-ve-kontrolu-egitimi"
+baslik: "Sıtma ve Kontrolü Eğitimi"
+tur: "yazi"
+tarih: "2025-09-10"
+sayi: "E-10712557-774.04-287853184"
+birim: "Zoonotik ve Vektörel Hastalıklar Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Sitma_ve_Kontrolu_Egitimi.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 T.C.
 

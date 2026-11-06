@@ -29,9 +29,7 @@ HBs Ag pozitif olduğu tespit edilen gebelerin bebeklerine ise doğumda Hepatit-
 
 Ayrıca aşının değişim tarihi öncesinde, 1. ayda Hepatit-B aşısının ikinci dozunu almış olan bebeklere ayrı bir uygulama yapılmayacak olup aşılamaya kalındığı yerden güncellenen takvim çerçevesinde altı bileşenli karma aşı ile devam edilecektir.
 
-Sağlık personeli ve aşılanacak kişiler için bilgilendirme ve faydalanılacak “Sık Sorulan Sorular ve
-
-Cevapları Metni” hazırlanarak Ek-2’de sunulmuştur. Bu bilgilere Bakanlığımız www.asi.gov.tr adresinden de ulaşılabilmektedir.
+Sağlık personeli ve aşılanacak kişiler için bilgilendirme ve faydalanılacak “Sık Sorulan Sorular ve Cevapları Metni” hazırlanarak Ek-2’de sunulmuştur. Bu bilgilere Bakanlığımız www.asi.gov.tr adresinden de ulaşılabilmektedir.
 
 Konunun üniversiteler dahil kamu ve özel tüm sağlık kurum ve kuruluşlarına iletilmesi ve ilgili tüm sağlık personelinin bilgilendirilerek uygulamanın 14 Nisan 2025 tarihi itibariyle stoklarınızda ki beş bileşenli karma aşının tamamının kullanılmasını takiben başlatılması hususunda,
 
@@ -61,9 +59,7 @@ Başkanlıkları)
 
 Giriş:
 
-14 Nisan 2025 tarihinden itibaren, ülkemizde çocukluk dönemi aşı takviminde kullanılan beş bileşenli karma aşı (Da BT-İPA-Hib) yerine altı bileşenli karma aşı (Da BT-İPA-Hib -Hep B-
-
-) ( Difteri, Tetanoz, asellüler Boğmaca, inaktif Polio, Hemofilus İnfluenza tip b ve Hepatit B aşısı) uygulanmaya başlanacaktır. Altı bileşenli karma aşı, beş bileşenli karma aşının sağladığı korumaya ek olarak hepatit B’ye karşı da koruma sağlamaktadır ve böylece tek bir aşılama ile toplam altı hastalığa karşı ( Difteri, Tetanoz, Boğmaca, Çocuk felci, Hemofilus influenza tip b’nin neden olduğu invaziv hastalıklar, Hepatit B) korunma sağlanmaktadır.
+14 Nisan 2025 tarihinden itibaren, ülkemizde çocukluk dönemi aşı takviminde kullanılan beş bileşenli karma aşı (Da BT-İPA-Hib) yerine altı bileşenli karma aşı (Da BT-İPA-Hib-Hep B) (Difteri, Tetanoz, asellüler Boğmaca, inaktif Polio, Hemofilus İnfluenza tip b ve Hepatit B aşısı) uygulanmaya başlanacaktır. Altı bileşenli karma aşı, beş bileşenli karma aşının sağladığı korumaya ek olarak hepatit B’ye karşı da koruma sağlamaktadır ve böylece tek bir aşılama ile toplam altı hastalığa karşı ( Difteri, Tetanoz, Boğmaca, Çocuk felci, Hemofilus influenza tip b’nin neden olduğu invaziv hastalıklar, Hepatit B) korunma sağlanmaktadır.
 
 Bu geçiş, bir yandan bebeklerin temel aşı takvimini daha sade hale getirirken diğer yandan kullanıma hazır enjektör formu ile uygulamada kolaylık sağlamaktadır. Daha önce 2 kez enjeksiyon yapılarak uygulanan aşılar şimdi tek enjeksiyon ile uygulanmaktadır.
 
@@ -71,7 +67,7 @@ Bu bilgi notunda 6 bileşenli karma aşı ile ilgili temel bilgiler sunulmaktad�
 
 1. Altı bileşenli karma aşı hangi antijenleri içerir?
 
-Difteri, tetanoz, asellüler boğmaca, poliomyelit (çocuk felci) konjuge Hemofilus influenza tip b (Hib) ve hepatit B antijenlerini içeren inaktif bir aşıdır.Altı bileşenli karma aşı beş bileşenli karma aşıda var olanlara benzer miktarda Difteri, Tetanoz, Boğmaca ve Polio antijen dozlarını içerir, Hib antijeni ise beşli aşıya göre bir miktar artırılmıştır. Altı bileşenli karma aşıda tıpkı tekli doz Hepatit B aşısında olduğu gibi 10 mikrogram Hepatit B yüzey antijeni bulunmaktadır.
+Difteri, tetanoz, asellüler boğmaca, poliomyelit (çocuk felci) konjuge Hemofilus influenza tip b (Hib) ve hepatit B antijenlerini içeren inaktif bir aşıdır. Altı bileşenli karma aşı beş bileşenli karma aşıda var olanlara benzer miktarda Difteri, Tetanoz, Boğmaca ve Polio antijen dozlarını içerir, Hib antijeni ise beşli aşıya göre bir miktar artırılmıştır. Altı bileşenli karma aşıda tıpkı tekli doz Hepatit B aşısında olduğu gibi 10 mikrogram Hepatit B yüzey antijeni bulunmaktadır.
 
 Özetlemek gerekirse beş bileşenli karma aşı ile altı bileşenli karma aşı arasındaki fark artırılmış
 
@@ -89,7 +85,6 @@ Difteri, Corynebacterium diphtheriae bakterisinin toksin salgısı nedeniyle sol
 
 Tetanoz: Tetanoz, Clostridium tetani bakterisinin sporları tarafından üretilen güçlü bir toksin nedeniyle oluşan ciddi bir sinir sistemi enfeksiyonudur. Bakteri genellikle kirli yaralardan veya derideki açık kesiklerden vücuda girer. Tetanoz toksini sinir hücrelerine saldırarak, kasların şiddetli ve ağrılı şekilde kasılmasına (spazmlar) yol açar. Çene kaslarının kasılmasına bağlı olarak "trismus" veya "kilitlenmiş çene" olarak bilinen durum gelişebilir, bu da yutma ve solunumu güçleştirir. Tedavi edilmediğinde yüksek ölüm oranına sahiptir.
 
-1
 
 Boğmaca (Pertussis): Boğmaca, Bordetella pertussis bakterisinin neden olduğu, özellikle bebeklerde ciddi tıbbi sonuçlara yol açabilen bir solunum yolu enfeksiyonudur. Şiddetli öksürük ataklarıyla seyreden hastalık, bebeklerde apne, zatürre ve nadiren ölümle sonuçlanabilir.
 
@@ -113,15 +108,12 @@ Altı bileşenli karma aşı tamamen sıvı formdadır ve altı bileşen de kull
 
 Beş bileşenli karma aşıda olduğu gibi intramuskuler yolla (IM) uygulanmalıdır. Önerilen enjeksiyon bölgeleri 12. aya kadar uyluğun üst antero-lateral bölgesidir, daha ileri aylarda ise deltoid kasa uygulanmalıdır.
 
-2
 
 Uygulama öncesinde: homojen, beyazımsı, bulanık bir süspansiyon elde etmek için enjektör çalkalanmalıdır ve süspansiyon görsel olarak incelenmelidir.
 
 6. Altı bileşenli karma aşıya geçilmesi ile beraber aşılama takviminde hangi değişiklikler olmuştur?
 
-Altı bileşenli karma aşıya geçilmesi ile beraber takvimde Hepatit B aşı şemasında değişiklik olmuştur. Önceden doğumda ve bunu takiben 1. ve 6 aylarda tek bileşenli Hepatit B aşısı uygulanırken, 6 bileşenli karma aşıya geçilmesi ile birlikte sadece doğumda tekli Hepatit B aşısı uygulanacak ve Hepatit B’nin kalan dozları 6’lı karma aşının bileşeninde bulunan Hepatit
-
-B ile tamamlanacaktır. Annede Hepatit B taşıyıcılığı tespit edilmiş ise doğumda Hepatit B aşısı ile birlikte Hepatit B immunglobulin uygulanmalı ve 1.ayda tekli Hepatit B aşısı 2. Doz olarak uygulanmalıdır, sonrasında 6 bileşenli karma aşı uygulaması ile devam edilir.
+Altı bileşenli karma aşıya geçilmesi ile beraber takvimde Hepatit B aşı şemasında değişiklik olmuştur. Önceden doğumda ve bunu takiben 1. ve 6 aylarda tek bileşenli Hepatit B aşısı uygulanırken, 6 bileşenli karma aşıya geçilmesi ile birlikte sadece doğumda tekli Hepatit B aşısı uygulanacak ve Hepatit B’nin kalan dozları 6’lı karma aşının bileşeninde bulunan Hepatit B ile tamamlanacaktır. Annede Hepatit B taşıyıcılığı tespit edilmiş ise doğumda Hepatit B aşısı ile birlikte Hepatit B immunglobulin uygulanmalı ve 1.ayda tekli Hepatit B aşısı 2. Doz olarak uygulanmalıdır, sonrasında 6 bileşenli karma aşı uygulaması ile devam edilir.
 
 7. Beklenen yan etkileri:
 
@@ -153,7 +145,6 @@ Uygulamaya 14 Nisan 2025’te başlanacak olup 1,2 veya 3 doz beş bileşenli ka
 
 Örneğin 2. Ayında aşılanacak bir çocuk için uygulama altı bileşenli karma aşı ile başlatılıp devam ettirilecek ve 6.aydaki hepatit B dozu ayrıca uygulanmayacaktır.
 
-3
 
 4. ayda aşılanacak bir çocuk için daha önceden yapılan 2 doz (0, 1 aylar) Hepatit B aşısı ve 2.
 
@@ -183,7 +174,6 @@ Yeni uygulamaya sağlık sistemi ve ailelerin uyum sağlamasını kolaylaştırm
 
 Sağlık Bakanlığı aşı portalı www.asi.saglik.gov.tr adresine başvurulabilir.
 
-4
 
 Kaynaklar:
 
@@ -223,7 +213,6 @@ Bilgi Formu
 
 9. GBP Daimi Genelgesi (13.03.2009/7941 tarih ve 2009/17 sayılı)
 
-5
 
 Ulusal Çocukluk Dönemi Aşılama Takvimi (2025)
 

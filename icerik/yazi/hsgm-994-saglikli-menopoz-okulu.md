@@ -1,4 +1,15 @@
 ---
+id: "hsgm-994-saglikli-menopoz-okulu"
+baslik: "Sağlıklı Menopoz Okulu"
+tur: "yazi"
+tarih: "2026-01-05"
+sayi: "E-57536863-770-299937134"
+birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Saglikli_Menopoz_Okulu.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 T.C.
 

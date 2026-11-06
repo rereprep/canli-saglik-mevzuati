@@ -1,4 +1,15 @@
 ---
+id: "hsgm-902-aile-hekimliginde-ucret-karsiligi-sunulacak-hizmetler"
+baslik: "Aile Hekimliğinde Ücret Karşılığı Sunulacak Hizmetler"
+tur: "yazi"
+tarih: "2025-06-12"
+sayi: "E-43252159-659-278834618"
+birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Hekimliginde_Ucret_Karsiligi__Sunulacak_Hizmetler.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 Halk Sağlığı Genel Müdürlüğü
 

@@ -1,4 +1,15 @@
 ---
+id: "hsgm-904-aile-hekimliginde-akupunktur-ve-fitoterapi-uygulamalari-hakkinda"
+baslik: "Aile Hekimliğinde Akupunktur ve Fitoterapi Uygulamaları Hakkında"
+tur: "yazi"
+tarih: "2025-10-15"
+sayi: "E-99858683-010.06-291497957"
+birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Helkimliginde_Akupunktur_ve_Fitoterapi_Uygulamalari_Hakkinda.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 Halk Sağlığı Genel Müdürlüğü
 

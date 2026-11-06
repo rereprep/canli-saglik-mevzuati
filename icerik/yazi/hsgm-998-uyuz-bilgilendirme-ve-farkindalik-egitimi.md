@@ -1,4 +1,15 @@
 ---
+id: "hsgm-998-uyuz-bilgilendirme-ve-farkindalik-egitimi"
+baslik: "Uyuz Bilgilendirme ve Farkındalık Eğitimi"
+tur: "yazi"
+tarih: "2025-08-13"
+sayi: "E-10712557-136.03.99-285088293"
+birim: "Zoonotik ve Vektörel Hastalıklar Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Uyuz_Bilgilendirme_ve_Farkindalik_Egitimi.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 T.C.
 

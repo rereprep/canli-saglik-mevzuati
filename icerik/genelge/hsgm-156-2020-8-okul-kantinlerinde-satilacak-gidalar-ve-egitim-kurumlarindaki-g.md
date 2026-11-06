@@ -75,7 +75,6 @@ Bakanlığımıza bağlı resmî ve özel okul/kurumların bünyesinde faaliyet 
 
 Temel eğitim ve ortaöğretim yaş grubundaki çocuklarda kontrolsüz bir şekilde tüketilen enerji değeri yüksek, besin değeri düşük yiyecek ve içeceklerin yetersiz, dengesiz beslenmeye bağlı olarak şişmanlık (obezite), zayıflık, kemik/diş sağlığı bozuklukları, çeşitli vitamin ve mineral yetersizliklerine neden olduğu ve yetişkinlik döneminde görülen bazı kronik hastalıklara
 
-Bu evrak güvenli elektronik imza ile imzalanmıştır. https://evraksorgu.meb.gov.tr adresinden 03bc-1bf8-3606-9482-feec kodu ile teyit edilebilir.
 
 (kardiyovasküler hastalıklar, diyabet, bazı kanser türleri vb.) zemin oluşturduğu bilinmektedir. Bazı bulaşıcı hastalıklar ile gıda zehirlenmelerinin kaynağını gıda güvenilirliği kurallarına uyulmadan üretilen, satışa veya tüketime sunulan gıda maddeleri teşkil etmektedir.
 
@@ -127,7 +126,6 @@ c) Denetimler; İlçe İSG Bürosu yöneticisi koordinesinde, ilçe sınırları
 
 d) İlçe gıda işletmeleri denetim ekiplerince ilgili kılavuza göre denetim, bildirim, uygunsuzluk takip denetimleri gerçekleştirilir. Denetim sonunda düzenlenen raporlar 3 iş günü içerisinde ilçe denetim ekibi başkanı tarafından İlçe İSG Bürolarına teslim edilir.
 
-Bu evrak güvenli elektronik imza ile imzalanmıştır. https://evraksorgu.meb.gov.tr adresinden 03bc-1bf8-3606-9482-feec kodu ile teyit edilebilir.
 
 e) Denetim sürecinde belirlenen uygunsuzlukların ortadan kaldırılmaması hâlinde “Millî
 
@@ -175,7 +173,6 @@ Yönetmeliği Eğitimi”ne katılım sağlamaları,
 
 e) Okul/kurumların bünyesinde faaliyet gösteren gıda işletmelerinde çalışanların yaka kartı takması, f) Gıda işletmelerinin yetkilisi ve çalışanlarının, öğrenciye ve diğer personele karşı nezaket kurallarına uygun davranması, İlgi (ı)’de kayıtlı Yönetmelik'in 22’nci maddesi kapsamında yer alan uygunsuz davranışlar konusunda okul/kurum yönetimlerince gerekli izleme ve değerlendirmelerin
 
-Bu evrak güvenli elektronik imza ile imzalanmıştır. https://evraksorgu.meb.gov.tr adresinden 03bc-1bf8-3606-9482-feec kodu ile teyit edilebilir.
 
 yapılması,
 
@@ -195,7 +192,6 @@ a) Bakanlığımıza bağlı resmî ve özel okul/kurumların bünyesinde faaliy
 
 Sağlık Bakanlığı Bilim Kurulu önerileri doğrultusunda Sağlık Bakanlığınca belirlenir. Belirlenen tüm esaslar http://merkezisgb.meb.gov.tr/www/gida-isletmeleri-denetimi/dosya/40 sayfasında yayınlanır, gerekli hâllerde güncellenir. Satışa sunulacak tüm gıdaların İlgi (l)’de kayıtlı Yönetmelik'e ve Yönetmelik'e bağlı ikincil mevzuata uygun olması, b) Kriterleri karşılaması hâlinde satışına izin verilen hazır ambalajlı gıdalarda okul gıdası logosu bulunması, logo bulunmayan gıdaların satışının yapılmaması, c) Okul, pansiyon ve yurtlara yemek sağlayan gıda işletmeleri, yemek fabrikaları ve okul pansiyon yemekhanelerinde üretilen yemeklerin her çeşidinden alınan yeterli miktarda örneğin hijyenik ve tek kullanımlık kaplarda 72 saat uygun koşullarda (soğukta ya da dondurarak) zorunlu olarak muhafaza edilmesi, ç) Bakanlığımıza bağlı resmî ve özel okul/kurumların bünyesinde faaliyet gösteren kantin/kooperatif, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde satışa sunulacak olan gıdalar ile üretimde kullanılan ham maddeleri üreten gıda işletmelerinin Tarım ve Orman Bakanlığından işletme onay/kayıt numarasının bulunması, d) Gerekli izinleri alarak kantinde yemekhane hizmeti veren işletmeler hariç kantin/kooperatif, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde çiğ et vb. ürünlerinin hiçbir şekilde bulundurulmaması; hazır veya yarı hazır hâlde işlenmiş et ve et ürünlerinin ise soğuk zincir kırılmadan, uygun şartlarda muhafaza edilmesi, e) Çiğ olarak servis edilecek olan gıdaların (salata, meyve vb.) bol su ile iyice yıkanarak hazırlanması, hazırlandıktan sonra üzeri Tarım ve Orman Bakanlığı tarafından verilen işletme kayıt numarası bulunan gıda işletmelerinin ürettiği streç-film gibi ambalaj malzemeleri ile kapatılarak servise kadar buzdolabında muhafaza edilmesi, f) Servise sunulan gıdaların tüketimi için tercihen tek kullanımlık araç gereçlerin (bardak, tabak, çatal, kaşık vb.) kullanılması,
 
-Bu evrak güvenli elektronik imza ile imzalanmıştır. https://evraksorgu.meb.gov.tr adresinden 03bc-1bf8-3606-9482-feec kodu ile teyit edilebilir.
 
 g) Okul/kurumlarda kantin olarak faaliyet gösteren gıda işletmelerinin, ilgili mevzuatlara uygun olarak gerekli yetki ve izinleri (ruhsat, kayıt, faaliyet değişikliği vb.) almadan yemekhane faaliyeti gerçekleştirmemesi gerekmektedir.
 
@@ -227,4 +223,3 @@ A ve B Planı Sağlık Bakanlığı
 
 Tarım ve Orman Bakanlığı
 
-Bu evrak güvenli elektronik imza ile imzalanmıştır. https://evraksorgu.meb.gov.tr adresinden 03bc-1bf8-3606-9482-feec kodu ile teyit edilebilir.

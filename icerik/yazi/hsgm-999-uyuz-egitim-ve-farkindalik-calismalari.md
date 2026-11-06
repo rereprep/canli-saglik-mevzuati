@@ -1,4 +1,15 @@
 ---
+id: "hsgm-999-uyuz-egitim-ve-farkindalik-calismalari"
+baslik: "Uyuz Eğitim ve Farkındalık Çalışmaları"
+tur: "yazi"
+tarih: "2025-07-23"
+sayi: "E-10712557-136.99-282911257"
+birim: "Zoonotik ve Vektörel Hastalıklar Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Uyuz_Egitim_ve_Farkindalik_Calismalari.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 T.C.
 

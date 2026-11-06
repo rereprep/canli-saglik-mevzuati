@@ -10,7 +10,6 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Tuberkuloz
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -69,8 +68,6 @@ KILAVUZU
 
 ANKARA-2023
 
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
-
 İÇİNDEKİLER
 
 KISALTMALAR..................................................................................................................................... 3
@@ -94,10 +91,6 @@ Ek 1- Sağlık Bakanlığı ile Aile ve Sosyal Hizmetler Bakanlığı Arasında
 İmzalanan Protokol................................................................................................. 22
 
 Ek 2- Hasta Bilgilendirme ve Taahhüt Formu.......................................... 26
-
-Sayfa | 2
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
 
 KISALTMALAR
 
@@ -127,10 +120,6 @@ VSD Verem Savaşı Dispanseri
 
 YİD Yaygın İlaç Direnci Olan Tüberküloz
 
-Sayfa | 3
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
-
 TÜBERKÜLOZ HASTALARINA YÖNELİK ŞARTLI VE DÜZENLİ
 
 NAKDİ SOSYAL YARDIM KILAVUZU
@@ -145,17 +134,13 @@ Bu kılavuzun amacı, Sağlık Bakanlığı ile Aile ve Sosyal Hizmetler Bakanl�
 
 B. GENEL BİLGİLER
 
-1. Sağlık Bakanlığı’nda nakdi sosyal yardım programı kapsamındaki iş ve işlemleri yürütmek için https://hsys.saglik.gov.tr/Account/Login adresindeki Halk Sağlığı Yönetim Sistemi (HSYS)
-
-içindeki Ulusal Tüberküloz Sistemi (UTS)-Sosyal Yardım Modülü kullanılır.
+1. Sağlık Bakanlığı’nda nakdi sosyal yardım programı kapsamındaki iş ve işlemleri yürütmek için https://hsys.saglik.gov.tr/Account/Login adresindeki Halk Sağlığı Yönetim Sistemi (HSYS) içindeki Ulusal Tüberküloz Sistemi (UTS)-Sosyal Yardım Modülü kullanılır.
 
 2. Her ilde il sağlık müdürlüğü yetkilisi (il sağlık müdürü ya da il sağlık müdürü tarafından bir asıl ve bir yedek olarak belirlenecek başkan veya başkan yardımcısı), tüberküloz il koordinatörü, her verem savaşı dispanserinde (VSD) çalışan en az bir hekim ve en az bir sağlık çalışanı, il bilgi işlem yöneticisi (admin) tarafından UTS Sosyal Yardım Modülü için yetkilendirilir.
 
 3. Yetkilendirilmiş sağlık personeli, sisteme her gün giriş yaparak programın yönetilmesi, izlenmesi ve değerlendirilmesini elektronik sistem üzerinden yapar.
 
 4. Nakdi sosyal yardım talep eden hastanın bilgileri, en uç noktada bulunan yetkilendirilmiş
-
-Sayfa | 4
 
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu sağlık personeli (hekim/hemşire) tarafından sisteme kayıt edilir. Kaydedilen hastanın
 
@@ -183,17 +168,11 @@ Bir hasta için birden fazla DGT gözetmeni atanmışsa, her gözetmen, sorumlu 
 
 11. VSD yetkilisi, hastanın yardım alıp almadığına bakmaksızın Tablo 1’de gösterilen tedavi
 
-Sayfa | 5
-
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu sürelerinin bitmesine kadar tedavi sürecine ilişkin verileri güncel tutmalıdır.
 
 12. Nakdi sosyal yardımlarla ilgili işlemlerin kılavuza uygun olarak yürütülmesi İl Sağlık
 
 Müdürü’nün sorumluluğundadır.
-
-Sayfa | 6
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
 
 C. NAKDİ SOSYAL YARDIM SÜREÇLERİ
 
@@ -220,10 +199,6 @@ Yardım programından faydalanabilmek için;
 Uygulamaları
 
 Doğrudan Gözetimli Tedavi (DGT): Tüberküloz hastasının, tüm tedavi süresince, ilaçlarının her dozunu, denetleyen bir görevli ya da sorumlu bir kişinin gözetiminde içmesi ve bu durumun kaydedilmesi esasına dayanan bir tedavi şeklidir. Hastaya tedavi başlandığı anda DGT planlaması yapılmalıdır.
-
-Sayfa | 7
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
 
 Video DGT (VGT): Hastanın ilacını içerken bir sağlık çalışanına elektronik ortamda görüntülü bağlanması veya ilacını içtiği anı kaydedip video göndermesidir. DGT denetimlerinde göstermek amacıyla hastaya ait en az son 5 güne ait fotoğraf/video saklanmalıdır. Denetimlerde DGT formu incelenir gerekirse hastayla da görüşme yapılabilir.
 
@@ -253,8 +228,6 @@ DGT uygulaması)
 
 (e) Yukarıdaki maddeler dışında kalan durumlarda il sağlık müdürlüğü yetkilisinden onay alınması gerekmektedir.
 
-Sayfa | 8
-
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu 3. Nakdi Sosyal Yardım Programına Başvuru
 
 VSD’den nakdi sosyal yardım programına başvuru aşamaları şunlardır:
@@ -279,13 +252,9 @@ Hastalık Bilgileri alanında ICD-10 tanı kodu bilgisi, tanı tarihi ve tedavi 
 
 Modülü’nden otomatik olarak gelir. (İlgili verilerin gelip gelmediği doğruluğu mutlaka kontrol edilmelidir). Kontrolün yapıldığı tarih itibariyle tanı, tetkik ve tedaviye göre uygun tüberküloz hastalık türü kullanıcı tarafından seçilir. Kayıt yapıldıktan sonraki süreçte Tüberküloz
 
-Modülü’ndeki güncellemeler Sosyal Yardım Modülüne yansımayacağı için buradaki güncellemeler manuel olarak düzeltilir. Hastanın Tüberküloz Hasta İzleme Fişi (VSD-11)
-
-taranarak veya fotoğrafı çekilerek dosya yükleme alanına yüklenir. Tedavi başlama tarihi Sosyal
+Modülü’ndeki güncellemeler Sosyal Yardım Modülüne yansımayacağı için buradaki güncellemeler manuel olarak düzeltilir. Hastanın Tüberküloz Hasta İzleme Fişi (VSD-11) taranarak veya fotoğrafı çekilerek dosya yükleme alanına yüklenir. Tedavi başlama tarihi Sosyal
 
 Yardım Modülü, UTS’deki Tedavi sekmesi ve yüklenen VSD-11 formu ile aynı olmalıdır. VSD-11
-
-Sayfa | 9
 
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu formunda hastanın tedavisinde kullanılan ilaçlar, DGT gözetmeni ve DGT uygulama yeri yazılmalıdır. Eğer hastaya ayrıca İlave Bakım Yardımı başvurusu yapılmak isteniyorsa hastanın yaşadığı ortamın fotoğrafları ve tutanak da bu alana yüklenir.
 
@@ -311,8 +280,6 @@ Yardım Modülü’nden takip edebilir.
 
 Hastanede yatan tüberküloz hastalarının nakdi yardım başvurularında hastalar, öncelikle tedavilerini
 
-Sayfa | 10
-
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu yapan hekim tarafından nakdi yardım konusunda bilgilendirilir. Tedaviye ve DGT’ye uyum konusunda taahhütname imzalatılır. Hastanın hekimi tarafından imzalanmış, hastanın kimlik bilgileri, hastalık bilgileri (ICD-10 kodu tanımlanmış, tanı ve tedavi başlama tarihi, tedavi şeması), hastaneye yatış endikasyonunu içeren belge hazırlanır ve hastanın kaydının olduğu/ikamet ettiği yerleşim birimindeki VSD’ye iletilir (hasta/vasisi/kanuni temsilcisi ve/veya hastanın gerekli yasal izni alınarak; hasta yakını, resmi faks, resmi e-posta vb.).
 
 VSD, hastanın nakdi sosyal yardım başvurusunu, hastane beyanı üzerinden oluşturur (VSD, eksik bilgiler var ise ilgili hastane ile iletişim kurarak ilgili belgeleri tamamlar) ve başvuruya ait işlemler
@@ -331,10 +298,6 @@ Bu değerlendirmelerde aşağıdaki hususlara dikkat edilmelidir:
 
 - Engelli hastalar için; hasta yatağa bağımlı ise yatağa bağımlı olmasının sebebi tutanakta belirtilmeli, varsa belgesi alınmalıdır.
 
-Sayfa | 11
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
-
 - Fiziki yaşam koşullarının iyileştirilmesinin gerekip gerekmediği belirtilmelidir. Evin bulunduğu sokak, dış cephesi, odaları, pencereleri, mutfak eşyaları vb.nin fotoğrafları çekilmelidir (Fotoğrafların boyutu büyük olduğunda sisteme yüklenemeyebilir. Bu nedenle her fotoğraf ortalama 300 KB-400 KB olmalıdır)
 
 - Tüberküloz hastalarına, nakdi sosyal yardım ödemesine ek olarak tıbbi öz bakımlarını gideremedikleri, yatağa bağımlı olarak yaşamlarını sürdürdükleri ve fiziki yaşam koşullarının zaruri olarak iyileştirilmesi gerekliliği (Tüberküloz İl Koordinatörlüğü ve/veya VSD hekimi başkanlığındaki ekip tarafından oluşturulan sağlık biriminin ziyaretiyle değerlendirilecektir. Uygun görülmesi halinde, ziyaretle ilgili tutanak, hastanın yaşadığı mekânın-evin fotoğrafları, varsa diğer bilgi- belgelerle UTS Sosyal Yardım Modülüne yüklenmelidir. Tutulan tutanaklarda ilave yardım için görüş bildirilmelidir. Aksini düşünen personel gerekçeleriyle birlikte görüşlerini yazmalıdır.
@@ -347,8 +310,6 @@ Ev ziyaretleri için İl Sağlık Müdürlüğünden/İlçe Sağlık Müdürlü�
 
 Tüberküloz hastalarına nakdi sosyal yardımla ilgili olarak yapılacak değerlendirme ve ev ziyaretlerinde İl Sağlık Müdürlüğü ve SYDV karşılıklı olarak gerekli desteği sağlayacaktır. Bu amaçla vakıfla bir ön görüşme yapılarak hastaya yapılacak ziyaretle ilgili öneriler alınabilir. Tüberküloz hastalık türüne göre belirlenmiş yardım süresi tamamlandığında hastanın ilave bakım yardımı da nakdi sosyal yardımla birlikte sonlandırılır.
 
-Sayfa | 12
-
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu 5. Nakdi Sosyal Yardım Süreleri
 
 Program kapsamında tüberküloz hastalarına yapılacak nakdi sosyal yardımların süresi, devamı, tıbbi şartları ve sağlık mevzuatı ile ilgili diğer kriterler Sağlık Bakanlığı mevzuatı kapsamında değerlendirilerek karar verilmektedir. UTS Sosyal Yardım Modülü “Hasta Bilgileri” alanında hasta için uygun olan “Tüberküloz Hastalık Türü” seçilir ve yardım süresi görülür. Tüberküloz hastalık türü sisteme yüklenen evraklarla da doğrulanmalıdır. Tablo 1’de tüberküloz hastalık türüne göre yardım süresi belirtilmiştir.
@@ -357,17 +318,13 @@ Tablo 1. Tüberküloz Hastalık Türüne Göre Yardım Süresi
 
 Tüberküloz Hastalık Türü Yardım Süresi
 
-İlaca duyarlı tüberküloz (yeni, nüks, terkten dönen, 12 ay
-
-başarısızlıktan gelen olgular)
+İlaca duyarlı tüberküloz (yeni, nüks, terkten dönen, 12 ay başarısızlıktan gelen olgular)
 
 Birinci seçenek ilaçlara dirençli tüberküloz (izoniyazid 15 ay ve/veya pirazinamid dirençli)*
 
 Rifampisin direnci/çok ilaca dirençli/yaygın ilaç direnci Tedavi sonlandırma tarihi + 6 ay olan tüberküloz**
 
-Kemik/santral sinir sistemi/miliyer tüberküloz/ 18 ay
-
-silikotüberküloz
+Kemik/santral sinir sistemi/miliyer tüberküloz/ 18 ay silikotüberküloz
 
 İkinci seçenek ilaçlarla tedavi edilen tüberküloz** Tedavi sonlandırma tarihi + 6 ay
 
@@ -379,11 +336,7 @@ UTS’de hastanın tedavisi “tedavi tamamlama” ve “kür” olarak sonland�
 
 UTS’de bir hastanın Muayene Sonucu ekranında “tedavi sonucu” girildiğinde hatırlatma amaçlı tüberküloz il koordinatörü ile Sosyal yardım modülüne kayıt yapan kullanıcıya e-posta gönderilir.
 
-“Tedavi sonucu” girişi ile birlikte Sosyal Yardım Modülü sistemine de giriş yapılarak “Tedavi Durumu” alanında da Sosyal Yardım Modülü güncellemesi (“tedavi sonucu” verisine uygun olarak)
-
-yapılmalıdır.
-
-Sayfa | 13
+“Tedavi sonucu” girişi ile birlikte Sosyal Yardım Modülü sistemine de giriş yapılarak “Tedavi Durumu” alanında da Sosyal Yardım Modülü güncellemesi (“tedavi sonucu” verisine uygun olarak) yapılmalıdır.
 
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu (a) Birden Fazla Tüberküloz Hastalık Türüne Göre Yardım Süresinin Değerlendirilmesi
 
@@ -419,8 +372,6 @@ I. TANI kısmında; aşağıdaki tanılardan herhangi biri varsa yardım süresi
 
 - Tanı kısmında “A18: Organların tüberkülozu, diğer”, “A18.8: Tüberküloz, diğer tanımlanmış
 
-Sayfa | 14
-
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu organların” durumları var ise tüberküloz hastalık türüne etki edip etmediğinin belirlenebilmesi için hangi organın tutulduğu mutlaka belirtilmelidir.
 
 II. TETKİK kısmında; tanı tarihinden 3 ay öncesi ve 15 gün sonrası da dahil olmak üzere tedavi başlangıç tarihinden, yardım süresi bitişine kadar tüm tetkikler kontrol edilmelidir. UTS ve
@@ -445,10 +396,6 @@ VI. TEDAVİ BAŞLANGIÇ TARİHİ, tüberküloz hastasının tanısı konulduktan
 
 Dispansere gelmeden hastanede tüberküloz tedavisi başlanmış ise bu tarih “tedavi başlangıç tarihi” olarak kabul edilir. Bu durumda tanı tarihi tüberküloz tedavisi başlanan sağlık kurumundan alınmalıdır.
 
-Sayfa | 15
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
-
 VII. TEDAVİ TAMAMLAMA/KÜR İLAÇSIZ KONTROL DÖNEMİNDE, Tedavi tamamlama/kür tarihi girildikten sonra tüberküloz hastalık türüne göre belirlenen yardım süresi bitiş tarihine kadar olan süreç tedavi durumu: “tedavi tamamlama/kür, ilaçsız kontrol döneminde” olarak belirlenmiştir.
 
 İlaçsız kontrol dönemine geçmeden önce ve geçtikten sonra dikkat edilecek hususlar;
@@ -457,9 +404,7 @@ VII. TEDAVİ TAMAMLAMA/KÜR İLAÇSIZ KONTROL DÖNEMİNDE, Tedavi tamamlama/kür
 
 2. Yardım süresinin değişmesine yol açacak, “tüberküloz hastalık türü” değişip değişmediğini belirlemek için tanı/tetkik/tedavi şeması durumu kontrol edilmelidir.
 
-3.Yardım süresini kesebilecek; tedavi başarısızlığı, ölüm, yurt dışı nakil, tüberküloz değil vb.
-
-durumlarda da yardım alamaz.
+3.Yardım süresini kesebilecek; tedavi başarısızlığı, ölüm, yurt dışı nakil, tüberküloz değil vb. durumlarda da yardım alamaz.
 
 4.Yardımın durmasına sebep olabilecek olan, SYDV’nın sınırları dışına çıkılan ikametgah değişikliğinde yeni ikametgah bölgesindeki SYDV’ye süreci içinde başvuru olmazsa yardım durdurulur. Kılavuzun “kurum değişikliği” bölümü mutlaka incelenmelidir.
 
@@ -472,8 +417,6 @@ VIII. TEDAVİ TAMAMLAMA/KÜR İLAÇSIZ KONTROL DÖNEMİ BİTTİ, sosyal yardım 
 -Tıbbi amaçlı kontrol süreci; takip eden hekim tarafından, hastanın tıbbi durumu değerlendirilerek, tüberküloz tanı ve tedavi rehberleri esasınca sürdürülmektedir. Sosyal yardım kılavuzu tıbbi amaçlı kontrol süresini belirlememektedir.
 
 IX. İKAMETGÂH ADRESİ; hastanın yardım başvurusu yapabileceği yerdir. Yardım için ikametgâh adresinin bulunduğu yerdeki VSD ve sosyal yardım ve dayanışma vakfına başvuru yapılmalıdır.
-
-Sayfa | 16
 
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu 7. Nakdi Sosyal Yardımın İzlemi
 
@@ -502,10 +445,6 @@ Günü Tıbbi Gerekçe Olmadan Kullanmadı” olarak güncellenir.
 Tedavi durumu güncellenirken “Tüberküloz hastalık türü tespit edilirken Tanı, Tetkik ve Tedavi kısmında dikkat edilmesi gereken hususlar” başlığında yer alan konular da göz önünde bulundurulmalıdır.
 
 Tıbbi gerekçeler (ilaca bağlı yan etki vb.) nedeniyle sosyal yardım, ilaca ara verme süresi: 2 (iki) ay oluncaya kadar sosyal yardım almaya devam edebilir. Tıbbi gerekçe nedenleri, ilaca ara verme başlangıcında ve bitişinde, UTS’de ve Sosyal yardım modülünde hareket geçmişinde mutlaka kayıtlı olmalı, Sosyal Yardım Modülünde, güncellemeleri mutlaka yapılmalıdır. Güncelleme yapılırken VSD- 11 yeniden yüklenmelidir. Tıbbi gerekçeler nedeniyle tedaviye ara verilme süresi 2 (iki) aylık süre aşımına izin verilmeyecek şekilde izlenmelidir. Tedaviye 2 (iki) aydır başlanmamış olması durumunda, Sosyal Yardım Modülü tedavi durumu: “tedavi terk” olarak güncellenmelidir. UTS kayıtlarında “Takip dışı kalan / Tedavi Terk” durumu kayıt altına alınmalıdır. Her güncelleme sonrası kayıtlar, sırasıyla tüberküloz il koordinatörü ve il sağlık müdürlüğü yetkilisi tarafından onaylanmalıdır.
-
-Sayfa | 17
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
 
 Nakdi sosyal yardım alan hastalarda düzenli olarak DGT izleme ve değerlendirmesi yapılır. DGT izleme ve değerlendirme çalışmaları; VSD hekimi, tüberküloz il koordinatörü, ilçe sağlık müdürü ve/veya il sağlık müdürlüğü tarafından yapılır. Yapılan izleme ve değerlendirme çalışmalarında sorunla karşılaşılan her hasta için tutanak tutulmalıdır. İzleme değerlendirme çalışmaları tamamlandıktan sonra rapor haline getirilerek Bakanlık tarafından istenildiğinde gönderilmek üzere arşivlenmelidir.
 
@@ -545,8 +484,6 @@ Yurtdışı Nakil Yardım alamaz
 
 *2 ay üst üste yardım alamaz olarak ileti gittiğinde SYDV tarafından tekrar mütevelli heyetinin değerlendirmesi gerekmektedir.
 
-Sayfa | 18
-
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu 8. Tedavi Süresinin Değişmesi
 
 Tedavi süresinin değerlendirilmesinde Tüberküloz Tanı ve Tedavi Rehberi esas alınır. Nakdi yardım süresini etkileyen hususlar tedavi durumu ve tüberküloz hastalık türüdür. Tüberküloz hastalık türünün değişmediği, ancak standart tedavi süresinin uzadığı durumlarda (ilaç yan etkisi, ek hastalık vb.) yardım süresi değişmez, hastalık türüne uygun süre kadar yardım almaya devam eder.
@@ -581,8 +518,6 @@ Nakdi yardımı iki kez durdurulmuş tüberküloz hastaları bir kez daha ilaçl
 
 5. Yurtdışı Nakil
 
-Sayfa | 19
-
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu 11. İkamet Değişikliği- Dosyanın Nakli Sonrası Sosyal Yardım Modülünde Kurum
 
 Değişikliği
@@ -611,8 +546,6 @@ Değişikliği” seçeneğini seçer. Hareket geçmişinden ve resmi e-posta yo
 
 UTS üzerinden …/…/….. tarihinde (Z) VSD’si tarafından nakil alınmıştır. Sosyal Yardım Modülündeki
 
-Sayfa | 20
-
 Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu bilgileri değiştirilmiştir.” mesajını gönderir. Resmi telefonla da bilgi vermelidir.
 
 Nakil eden VSD’nin İl tüberküloz koordinatörü gerekli kontrollerini tamamlayarak Sosyal Yardım
@@ -621,9 +554,7 @@ Modülünde nakil işlemini devam ettirir. Resmi telefonla da bilgi vermelidir.
 
 İl Sağlık Müdürlüğü yetkilisi tüberküloz il koordinatöründen gelen nakil alındı bilgisi ve gerekli kontrolleri yaptıktan sonra Sosyal yardım modül ana sayfası üzerinde ilgili kişiye ait, işlemler kısmında kurum değişikliği bölümünde “İl” “ilçe” ve “VSD” kısmını seçer. Daha sonra “kaydet” yapar. Kurum değişikliği işlemleri yapılmış olur.
 
-Nakil işlemleri iki şekilden herhangi birisi ile gerçekleştiği anda sosyal yardım kurum değişikliği mutlaka yapılmalıdır. Daha sonra Sosyal Yardım Modülüne yeni VSD-11’i yükleyerek, ikamet bilgileri dahil verilerini günceller. Hasta yeni ikamet ettiği ilçenin vakfına yönlendirilir. Nakil işlemleri 3 (üç)
-
-iş günü içinde sonuçlandırılır.
+Nakil işlemleri iki şekilden herhangi birisi ile gerçekleştiği anda sosyal yardım kurum değişikliği mutlaka yapılmalıdır. Daha sonra Sosyal Yardım Modülüne yeni VSD-11’i yükleyerek, ikamet bilgileri dahil verilerini günceller. Hasta yeni ikamet ettiği ilçenin vakfına yönlendirilir. Nakil işlemleri 3 (üç) iş günü içinde sonuçlandırılır.
 
 12. Kurumsal E-Posta ve Yazılım Destek
 
@@ -635,33 +566,11 @@ Koordinatörü iline tahsis edilmiş il koordinatörlüğü e-postasını ve/vey
 
 Sosyal Yardım Modülü kullanıcıları, il/ilçe Sağlık Müdürlükleri tarafından yazılı olarak görevlendirilir. İl Sağlık Müdürlüğü il admini tarafından sosyal yardım modülünü kullanmak üzere yetkilendirilir.
 
-Sayfa | 21
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
-
 Ç. EKLER
 
 Ek 1- Sağlık Bakanlığı ile Aile ve Sosyal Hizmetler Bakanlığı Arasında İmzalanan
 
 Protokol
-
-Sayfa | 22
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
-
-Sayfa | 23
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
-
-Sayfa | 24
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
-
-P
-
-Sayfa | 25
-
-Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu
 
 Ek 2- Hasta Bilgilendirme ve Taahhüt Formu
 
@@ -669,9 +578,7 @@ TÜBERKÜLOZ HASTALARINA YÖNELİK ŞARTLI VE DÜZENLİ NAKDİ SOSYAL
 
 YARDIM PROGRAMI HASTA BİLGİLENDİRME VE TAAHHÜT FORMU
 
-Sağlık Bakanlığı ve Aile ve Sosyal Hizmetler Bakanlığı arasında yapılan protokol gereğince;
-
-ihtiyaç sahibi tüberküloz hastalarına tedavilerini düzenli devam ettirebilmeleri amacıyla şartlı ve düzenli nakdi sosyal yardım yapılmaktadır. Bu kapsamda hastalara tedavileri devam ederken ve tedavileri sonrası mevzuatta belirlenen süreler boyunca, Türkiye Cumhuriyeti vatandaşı olan, Verem Savaşı Dispanseri Biriminde Ulusal Tüberküloz Sistemine kayıtlı, Sağlık
+Sağlık Bakanlığı ve Aile ve Sosyal Hizmetler Bakanlığı arasında yapılan protokol gereğince; ihtiyaç sahibi tüberküloz hastalarına tedavilerini düzenli devam ettirebilmeleri amacıyla şartlı ve düzenli nakdi sosyal yardım yapılmaktadır. Bu kapsamda hastalara tedavileri devam ederken ve tedavileri sonrası mevzuatta belirlenen süreler boyunca, Türkiye Cumhuriyeti vatandaşı olan, Verem Savaşı Dispanseri Biriminde Ulusal Tüberküloz Sistemine kayıtlı, Sağlık
 
 Bakanlığınca tüberküloz hastaları için öngörülen ve Verem Savaşı Dispanseri hekiminin uygun gördüğü doğrudan gözetimli tedavi uygulamalarından birini kabul eden ve bu tedavi programına uyumlu olacağını taahhüt eden tüberküloz hastalarına nakdi yardım verilmektedir. Verem
 
@@ -700,5 +607,3 @@ VSD Hekiminin Adı Soyadı:
 İmza:
 
 NOT: Bu form nakdi sosyal yardıma başvuran hastalara 2 nüsha olarak imzalatılmalıdır. Birisi hastanın dosyasına konulmak üzere ilgili VSD personeli tarafından alınır. Diğer nüsha hasta ya da kanuni temsilcisine verilir.
-
-Sayfa | 26

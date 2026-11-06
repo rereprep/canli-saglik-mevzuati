@@ -1,4 +1,15 @@
 ---
+id: "hsgm-906-birinci-basamak-saglik-tesisleri-konum-verilerinin-guncellenmesi-hakki"
+baslik: "Birinci Basamak Sağlık Tesisleri Konum Verilerinin Güncellenmesi Hakkında"
+tur: "yazi"
+tarih: "2025-12-15"
+sayi: "E-99858683-719-297734916"
+birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Birinci_Basamak_Saglik_Tesisleri_Konum_Verilerinin_Guncellenmesi_Hakkinda.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 Halk Sağlığı Genel Müdürlüğü
 

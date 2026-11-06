@@ -1,4 +1,15 @@
 ---
+id: "hsgm-901-aile-hekimligi-ucretli-islem-gelirleri"
+baslik: "Aile Hekimliği Ücretli İşlem Gelirleri"
+tur: "yazi"
+tarih: "2025-08-24"
+sayi: "E-99858683-755.05-286071304"
+birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Aile_Hekimligi_Ucretli_Islem_Gelirleri.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 Halk Sağlığı Genel Müdürlüğü
 

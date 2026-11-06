@@ -1,4 +1,15 @@
 ---
+id: "hsgm-996-yuksek-riskli-gebeliklerin-takibi"
+baslik: "Yüksek Riskli Gebeliklerin Takibi"
+tur: "yazi"
+tarih: "2025-07-31"
+sayi: "E-57536863-231.01.01-283648076"
+birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Yuksek_Riskli_Gebeliklerin_Takibi.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 T.C.
 

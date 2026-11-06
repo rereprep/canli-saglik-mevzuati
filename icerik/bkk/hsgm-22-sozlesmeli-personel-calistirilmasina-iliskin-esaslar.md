@@ -9,6 +9,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
+
 SÖZLEŞMELİ PERSONEL ÇALIŞTIRILMASINA
 
 İLİŞKİN ESASLAR1
@@ -31,11 +32,8 @@ Madde 3-
 
 (Değişik: 6/1/1989-89/13691) Sözleşme ile çalıştırılacak personele ödenecek ücretlerin aylık brüt tutarı ile sağlanacak diğer parasal ve ayni menfaatlerin yıllık brüt tutarının on ikide birinin toplamı 3.757,34 TL’yi2 geçemez. Ancak, yurtdışı teşkilatında çalıştırılan personel ile Cumhurbaşkanlığı ve Devlet Senfoni
 
-Orkestralarında, Devlet Opera ve Balesinde ve Devlet Konservatuvarlarında si görevlendirilecek yabancı misafir şef, solist ve sanatçılar hakkında bu hüküm r e ai uygulanmaz. Bu fıkrada belirtilen 3.757,34 TL, görevin önemi ve özelliği ile D çalıştırılacak personelin niteliği dikkate alınarak Maliye Bakanlığı’nın görüşü a rı pl üzerine Başbakan’ın onayı ile artırılabilir. a s e (Ek:3/1/2008-2008/13055) Sözleşme ücretleri; helikopter makinisti ve uçuş H k teknisyeni pozisyonlarıyla uçuş ile ilgili bakım ve kontrolörlük ve yükseköğretim ü
-
-Y
-
-kurumlarının (Ek:5/1/2009-2009/14539) gemiadamı pozisyonları ile araştırma- e v geliştirme proje hizmetlerine ilişkin pozisyonlarda çalıştırılacaklar için ikinci fıkrada ş a a belirtilen tavan ücretin iki katını, pilot pozisyonlarında çalıştırılacaklar için ise üç M katını geçmemek kaydıyla belirlenebilir (Ek: 3/8/2005-2005/9245) Sözleşme ile çalıştırılacak personele sözleşme ücreti dışında herhangi bir ad altında ödeme yapılamaz ve sözleşmelere bu yolda hüküm konulamaz.
+Orkestralarında, Devlet Opera ve Balesinde ve Devlet Konservatuvarlarında görevlendirilecek yabancı misafir şef, solist ve sanatçılar hakkında bu hüküm uygulanmaz. Bu fıkrada belirtilen 3.757,34 TL, görevin önemi ve özelliği ile çalıştırılacak personelin niteliği dikkate alınarak Maliye Bakanlığı’nın görüşü üzerine Başbakan’ın onayı ile artırılabilir. (Ek:3/1/2008-2008/13055) Sözleşme ücretleri; helikopter makinisti ve uçuş teknisyeni pozisyonlarıyla uçuş ile ilgili bakım ve kontrolörlük ve yükseköğretim ü
+kurumlarının (Ek:5/1/2009-2009/14539) gemiadamı pozisyonları ile araştırma- geliştirme proje hizmetlerine ilişkin pozisyonlarda çalıştırılacaklar için ikinci fıkrada belirtilen tavan ücretin iki katını, pilot pozisyonlarında çalıştırılacaklar için ise üç katını geçmemek kaydıyla belirlenebilir (Ek: 3/8/2005-2005/9245) Sözleşme ile çalıştırılacak personele sözleşme ücreti dışında herhangi bir ad altında ödeme yapılamaz ve sözleşmelere bu yolda hüküm konulamaz.
 
 (Ek: 3/8/2005–2005/9245) Ancak, yurt dışında çalıştırılacak yabancı uyruklu personele bulundukları yerin gelenek, görenek ve yasal düzenlemeleri gereği ödenecek Noel, Nevruziye ve Ramazan ikramiyeleri, Diyanet İşleri Başkanlığı
 
@@ -68,19 +66,10 @@ Bu madde hükümlerine uyulmaması halinde 6183 sayılı Kanun uyarınca gerekli
 Madde 4- Personel, sözleşmelerinde belirtilen görev yeri dışında çalıştırılamaz.
 
 Görev yeri dışına geçici olarak gönderilenlerin gündelik ve yol giderleri, 6245 sayılı Harcırah Kanunu hükümlerinde saptanan süreyi ve 1 inci derece Devlet memurlarına ödenen harcırah miktarını aşmamak üzere sözleşmelerde belirtilir. (Ek:
+24/4/2007-2007/12061) Sözleşmeli personele geçici görev yolluğu dışında harcırah ödenemez.
 
-si
-
-24/4/2007-2007/12061) Sözleşmeli personele geçici görev yolluğu dışında harcırah r e ai ödenemez. D a rı pl
-
-Madde 5- (Değişik: 22/11/2010-2010/1169) Sözleşme süreleri mali yıl ile a s e sınırlıdır. H k ü
-
-Y
-
-Madde 6- İlgililer sözleşmelerinde belirtilen görev dışında başka bir işte e v çalıştırılamaz. ş a a
-
-M
-
+Madde 5- (Değişik: 22/11/2010-2010/1169) Sözleşme süreleri mali yıl ile sınırlıdır.
+Madde 6- İlgililer sözleşmelerinde belirtilen görev dışında başka bir işte çalıştırılamaz.
 Madde 7- (Değişik: 3/8/2005-2005/9245)
 
 Kamu kurum ve kuruluşlarının yurt dışı teşkilatlarında sözleşmeli olarak çalıştırılan yabancı uyruklu personel ile haftalık çalışma saati süresi 40 (kırk) saatin altında bulunan personel (Milli Eğitim Bakanlığında norm kadro sonucu ortaya çıkan öğretmen ihtiyacının kadrolu öğretmen istihdamıyla kapatılamaması hallerinde sözleşme ile çalıştırılacak öğretmenlerde 40 saat şartı aranmaz)2 hariç olmak üzere (Değişik: 22/11/2010-2010/1169) kurumunda fiilen, askerlik ve doğum dışında kesintisiz, en az 2 hizmet yılını tamamlayanlardan;
@@ -97,15 +86,9 @@ Bu tazminatın ödenmesinde; daha önce iş sonu tazminatı, ikramiye ve kıdem 
 
 Cumhuriyeti Emekli Sandığı Kanunu hükümleri uyarınca ödenecek ikramiye hesabında değerlendirilmez. Ölüm halinde, yukarıdaki fıkra uyarınca hesaplanacak tutar, ölenin kanuni mirasçılarına ödenir.
 
-Kamu kurum ve kuruluşlarının yurt dışı teşkilatlarında sözleşmeli olarak çalıştırılan yabancı uyruklu personelden; hizmetlerine gerek kalmaması veya yaş haddi nedenleriyle sözleşmesi fesh edilen veya yenilenmeyenler, yerel sosyal si güvenlik mevzuatına göre emeklilik, malûllük veya ölüm nedeniyle ayrılanların iş r e ai sonu tazminatı konusunda, yerel mevzuata uyulmasının zorunlu olmadığı D durumlarda, Dışişleri ve Maliye Bakanlıklarının uygun görüşleri alınmak koşulu ile a rı pl sözleşmelere hüküm konulabilir. Ancak bu yolla ödenecek iş sonu tazminatı tutarı a s e aralıksız olarak çalışılan her tam yıl için son aylık sözleşme ücretinin %50'sini H k geçemez. Bir yıldan artan süreler için de, tam yıl için hesaplanan miktardan o süreye ü
-
-Y
-
+Kamu kurum ve kuruluşlarının yurt dışı teşkilatlarında sözleşmeli olarak çalıştırılan yabancı uyruklu personelden; hizmetlerine gerek kalmaması veya yaş haddi nedenleriyle sözleşmesi fesh edilen veya yenilenmeyenler, yerel sosyal si güvenlik mevzuatına göre emeklilik, malûllük veya ölüm nedeniyle ayrılanların iş r e ai sonu tazminatı konusunda, yerel mevzuata uyulmasının zorunlu olmadığı D durumlarda, Dışişleri ve Maliye Bakanlıklarının uygun görüşleri alınmak koşulu ile sözleşmelere hüküm konulabilir. Ancak bu yolla ödenecek iş sonu tazminatı tutarı aralıksız olarak çalışılan her tam yıl için son aylık sözleşme ücretinin %50'sini geçemez. Bir yıldan artan süreler için de, tam yıl için hesaplanan miktardan o süreye ü
 isabet eden tutar kadar ödeme yapılır. e
-
-v
-
-Bu statüde çalışanların sözleşme koşullarına uymaması nedeniyle kurum ş a a tarafından, sözleşme esasları dışında herhangi bir nedenle çalışanlar tarafından, M sözleşmesinin feshedilmesi veya yenilenmemesi hallerinde, iş sonu tazminatı ödenmez.
+Bu statüde çalışanların sözleşme koşullarına uymaması nedeniyle kurum tarafından, sözleşme esasları dışında herhangi bir nedenle çalışanlar tarafından, M sözleşmesinin feshedilmesi veya yenilenmemesi hallerinde, iş sonu tazminatı ödenmez.
 
 İş sonu tazminatı ödemelerinde emsal belirleme hususları ile uygulamada ortaya çıkabilecek tereddütleri gidermeye Maliye Bakanlığı yetkilidir.
 
@@ -123,17 +106,11 @@ Sosyal Güvenlik Kurumunca ödenen geçici iş göremezlik ödeneği ilgilinin �
 
 (Ek: 3/8/2005-2005/9245) Sözleşmeli personele, bir yaşından küçük çocuklarını emzirmeleri için günde toplam bir buçuk saat süt izni verilir. Süt izninin kullanımında annenin saat seçimi hakkı vardır.
 
-(Ek: 11/9/1990-90/902) Sözleşmeli personele isteği üzerine; eşinin doğum yapması halinde iki gün, kendisinin veya çocuğunun evlenmesi, annesinin, babasının, eşinin, çocuğunun veya kardeşinin ölümü halinde ve her olay için üç gün ücretli mazeret izni verilir. si e (Ek: 24/4/2007-2007/12061) Hizmetleri sırasında radyoaktif ışınlarla çalışan ai r ve doğrudan radyasyona maruz kalan sözleşmeli personele ilgili mevzuatı uyarınca D ücretli sağlık izni verilir. a rı pl a s
+(Ek: 11/9/1990-90/902) Sözleşmeli personele isteği üzerine; eşinin doğum yapması halinde iki gün, kendisinin veya çocuğunun evlenmesi, annesinin, babasının, eşinin, çocuğunun veya kardeşinin ölümü halinde ve her olay için üç gün ücretli mazeret izni verilir. si e (Ek: 24/4/2007-2007/12061) Hizmetleri sırasında radyoaktif ışınlarla çalışan ai r ve doğrudan radyasyona maruz kalan sözleşmeli personele ilgili mevzuatı uyarınca D ücretli sağlık izni verilir. a s
 
 Madde 10- Resmi tabip raporu ile kanıtlanan hastalıklar için yılda 30 günü e
-
-H
-
 geçmemek üzere (Danıştay İdari Dava Daireleri Kurulunun 04/02/2010 tarih YD. k ü
-
-Y
-
-İtiraz No:2009/921 sayılı kararı ile yürütmesi durduruldu.) ücretli hastalık izni e v verilebilir. Hastalık sebebiyle, Sosyal Sigortalar Kurumunca ödenen geçici iş ş a göremezlik tazminatı ilgilinin ücretinden düşülür. M a
+İtiraz No:2009/921 sayılı kararı ile yürütmesi durduruldu.) ücretli hastalık izni verilebilir. Hastalık sebebiyle, Sosyal Sigortalar Kurumunca ödenen geçici iş ş a göremezlik tazminatı ilgilinin ücretinden düşülür. M a
 
 Madde 11- Ödemeler her ay başında peşin yapılır. (Değişik: 22/11/2010- 2010/1169) Ay sonundan önce ayrılmalarda, 5510 sayılı Kanun hükümlerine göre aylık bağlanması veya ölüm sebebiyle sözleşmenin sona ermesi halleri dışında, kalan günlere düşen ödemeler doğrudan geri alınır.
 
@@ -170,24 +147,10 @@ Ancak, tam gün çalışmayı gerektirmeyen durumlarda Maliye Bakanlığının o
 (Mülga:22/11/2010-2010/1169)
 
 (Ek: 3/2/1982-8/4250) Yurtdışındaki Enformasyon Merkezlerinde istihdam si edilen editörler için bu madde hükmü uygulanmaz. r e ai
-
-D
-
 Madde 14- (Değişik: 9/2/1979- 7/17150) a
-
-rı
-
-pl
-
 657 sayılı Kanunun değişik 4 üncü maddesinin (B) fıkrasına göre a s çalıştırılacak sözleşmeli personelin (...)3 sayısı, unvanı, nitelikleri, sözleşme ücreti ve H e k süreleri ilgili Bakanlığın önerisi ve Devlet Personel Başkanlığının olumlu görüşü ü
-
-Y
-
 üzerine Maliye Bakanlığınca saptanır. e
-
-v
-
-Bu saptamaya dayanılarak ilgili Bakanın onayı ile sözleşmeli personel ş a a çalıştırılabilir. M (Ek: 2/3/2009-2009/14799)Sözleşmeli personel pozisyonları merkezde toplam sayı olarak, taşrada ise il bazında tahsis edilir. Maliye Bakanlığınca vize edilen pozisyonlara ilişkin cetvellerin bir örneği ilgili kurumlar tarafından vize tarihinden itibaren bir ay içinde elektronik ortamda Devlet Personel Başkanlığına gönderilir.
+Bu saptamaya dayanılarak ilgili Bakanın onayı ile sözleşmeli personel çalıştırılabilir. M (Ek: 2/3/2009-2009/14799)Sözleşmeli personel pozisyonları merkezde toplam sayı olarak, taşrada ise il bazında tahsis edilir. Maliye Bakanlığınca vize edilen pozisyonlara ilişkin cetvellerin bir örneği ilgili kurumlar tarafından vize tarihinden itibaren bir ay içinde elektronik ortamda Devlet Personel Başkanlığına gönderilir.
 
 Madde 15- (Değişik: 22/11/2010-2010/1169) Esaslara Sözleşmeli Personel
 
@@ -214,17 +177,8 @@ Bu madde çerçevesinde yeniden istihdam edilecek personel ile yapılacak sözle
 (Ek: 22/11/2010-2010/1169) Sözleşmeli personelin, hizmet sözleşmesi esaslarına aykırı hareket etmesi nedeniyle kurumlarınca sözleşmesinin feshedilmesi veya sözleşme dönemi içinde sözleşmeyi tek taraflı feshetmesi halinde, fesih tarihinden itibaren bir yıl geçmedikçe kamu kurum ve kuruluşlarının sözleşmeli personel pozisyonlarında yeniden istihdam edilemez. e si r
 
 Sözleşmesini; ai
-
-D
-
 a) Kısmi zamanlı veya proje süresi ile sınırlı çalışanlardan, rı a b) Ek 4 üncü madde çerçevesinde unvan değişikliği yapanlardan, pl a c) Eş veya sağlık durumu nedeniyle yer değişikliği talebinde bulunmakla e s
-
-H
-
 beraber; geçiş yapacağı hizmet birimi bulunmaması, birim bulunmakla beraber o k ü birimde aynı unvan ve niteliği haiz boş pozisyon bulunmaması veya en az bir yıllık Y e fiili çalışma şartını karşılayamaması nedenlerinden herhangi birine bağlı olarak, Ek 3 v ş a üncü maddenin (b) veya (c) bendi hükmü kendilerine uygulanamayanlardan, a
-
-M
-
 tek taraflı feshedenler, bir yıllık süre şartına tabi tutulmadan yeniden istihdam edilebilirler.
 
 Üçüncü ve dördüncü fıkra kapsamındakilerin yeniden istihdam edilebilmeleri için ilk defa işe alınma prosedürüne riayet edilmesi zorunludur.
@@ -243,17 +197,11 @@ Sınav veya yerleştirme başvurularının incelenmesi, gerçekleştirilmesi, so
 
 Birinci fıkranın (c) bendi uyarınca yapılacak sınavlar ile uygulama sınavlarında1, personel işlerinden sorumlu birim yöneticisi hariç, komisyon üyelerinin öğrenim düzeyi adaylarda aranan öğrenim düzeyinden düşük olamaz. Söz konusu komisyonun başkan ve üyeleri, eşlerinin, üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımlarının katıldığı sınavlarda görev alamazlar.
 
-(Değişik: 2/3/2009-2009/14799) Kamu kurum ve kuruluşlarının yurtdışı teşkilatlarında istihdam edilecek personel, yabancı uyruklular ve yükseköğretim kurumlarının gemiadamı pozisyonları ile araştırma-geliştirme projelerinde proje si süreleri ile sınırlı olmak üzere istihdam edecekleri personel ile bu Esaslara ekli 1 r e ai sayılı cetvelde unvanları belirtilen sözleşmeli personel pozisyonları için sınav şartı D aranmaz a rı pl
+(Değişik: 2/3/2009-2009/14799) Kamu kurum ve kuruluşlarının yurtdışı teşkilatlarında istihdam edilecek personel, yabancı uyruklular ve yükseköğretim kurumlarının gemiadamı pozisyonları ile araştırma-geliştirme projelerinde proje si süreleri ile sınırlı olmak üzere istihdam edecekleri personel ile bu Esaslara ekli 1 r e ai sayılı cetvelde unvanları belirtilen sözleşmeli personel pozisyonları için sınav şartı D aranmaz
 
-Bu Esaslara ekli 2 sayılı cetvelde unvanları belirtilen sözleşmeli personel a s e pozisyonlarına alınacaklar sadece mesleki uygulamalı sınava tabi tutulur. Mesleki H k uygulamalı sınavlar da, ikinci, üçüncü ve dördüncü fıkrada belirtilen usule uygun ü
-
-Y
-
+Bu Esaslara ekli 2 sayılı cetvelde unvanları belirtilen sözleşmeli personel pozisyonlarına alınacaklar sadece mesleki uygulamalı sınava tabi tutulur. Mesleki uygulamalı sınavlar da, ikinci, üçüncü ve dördüncü fıkrada belirtilen usule uygun ü
 olarak ilan edilir ve gerçekleştirilir. e
-
-v
-
-3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 49 uncu maddesi ve bu ş a a maddeye yapılan atıflara istinaden istihdam edilecek sözleşmeli personelin hizmete M alınmasında bu madde hükümleri uygulanmaz.
+3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 49 uncu maddesi ve bu maddeye yapılan atıflara istinaden istihdam edilecek sözleşmeli personelin hizmete M alınmasında bu madde hükümleri uygulanmaz.
 
 Adli ve idari yargı ile ceza infaz kurumları ve tutukevlerinde bu Esaslar kapsamında çalıştırılmak üzere alınacak sözleşmeli personel 24/2/1983 tarihli ve 2802 sayılı Hakimler ve Savcılar Kanununun 114 üncü maddesindeki, Danıştay
 
@@ -288,22 +236,10 @@ b) Personelin eş durumuna bağlı kurum içi yer değişikliği talebi; vizeli 
 c) Sağlık sebebine bağlı kurum içi yer değişikliği talebi; mazeret süresince geçerli olmak üzere, personelin geçiş yapacağı hizmet biriminde aynı unvan ve niteliği haiz boş pozisyon bulunması, pozisyonunun bulunduğu ildeki Devlet ve üniversite hastanesinde kendisi, eşi ve çocukları ile mevzuat uyarınca bakmakla yükümlü olduğu ana ve babasının hastalığının tedavisinin mümkün olmadığına ilişkin sağlık kurulu raporunu kuruma ibraz etmesi halinde yerine getirilebilir. Sağlık mazeretinin sona ermesi durumunda, eski pozisyonun bulunduğu il sınırları içerisindeki aynı unvan ve niteliği haiz boş pozisyona yeniden atama yapılır.
 
 ç) Aynı unvan ve niteliği haiz boş pozisyon bulunması halinde, eşi şehit olan personelin kurum içi yer değişiklik talebi, bir defaya mahsus olmak üzere yerine getirilir. e si r d) (Ek:12/5/2011-2011/1802) Pozisyonunun bulunduğu yerde, kendisinin, ai
-
-D
-
 eşinin veya bakmakla yükümlü olduğu çocuklarının can güvenliğinin tehlikeye rı düştüğü adlî veya mülkî idarî makamlarca belgelendirilen personel ile eşi vefat eden a personelin kurum içi yer değişikliği talebi; geçiş yapacağı birimde aynı unvan ve a pl s niteliği haiz boş pozisyon bulunması kaydıyla kurumun hizmet gerekleri dikkate e
-
-H
-
 alınarak yerine getirilebilir.
-
-k
-
 e) (Ek:12/5/2011-2011/1802) Kamu idareleri adına vizeli boş pozisyonlara ü
-
-Y
-
-sözleşmeli personel alımı yapılmadan önce yılda bir kez, pozisyonun vizeli olduğu e v ilde en az üç yıl hizmet süresi bulunan personelin geçiş yapmak istediği birimde aynı ş a a unvan ve niteliği haiz boş pozisyona kurum içi yer değişikliği talebi, ilgili idarece M hizmet gereklerine göre belirlenecek usul ve esaslar çerçevesinde yerine getirilebilir.
+sözleşmeli personel alımı yapılmadan önce yılda bir kez, pozisyonun vizeli olduğu ilde en az üç yıl hizmet süresi bulunan personelin geçiş yapmak istediği birimde aynı unvan ve niteliği haiz boş pozisyona kurum içi yer değişikliği talebi, ilgili idarece M hizmet gereklerine göre belirlenecek usul ve esaslar çerçevesinde yerine getirilebilir.
 
 İdareler, il gruplarından oluşan görev bölgeleri ve bu bölgeler için en az üç yıldan başlamak üzere farklı hizmet süreleri belirleyebilir.
 
@@ -328,21 +264,8 @@ a) İşe alınma açısından gerekli olan niteliklerden herhangi birini taşım
 Personel; kendi isteği ile bir ay önceden haber vermek koşuluyla veya Ek 1 inci maddenin dördüncü fıkrasının (b) ve (c) bendi uyarınca sözleşmeyi tek taraflı feshedebilir.
 
 Hizmet sözleşmesi, ölüm ve 7 nci maddenin birinci fıkrasının (a) bendi kapsamında sayılan hallerde kendiliğinden sona erer.
-
-si
-
-e
-
-r
-
 (Ek:12/3/2012-2012/2964) ai
-
-D
-
-Ek Madde 7 ‒ Sözleşmeli personel alımı başvurularında adaylardan istenecek rı bilgi ve belgeler şunlardır: a pl a) Türkiye Cumhuriyeti kimlik numarası. Türkiye Cumhuriyeti kimlik a s numarası dışında adaylardan kimlik bilgilerine ilişkin olarak ayrıca bir bilgi veya H e belge istenmez. Ancak ilgili kamu kurum veya kuruluşu Türkiye Cumhuriyeti kimlik k ü numarası beyanının teyidi amacıyla adaydan Türkiye Cumhuriyeti kimlik Y e numarasının da yer aldığı nüfus cüzdanı aslını göstermesini talep edebilir. v ş b) Adres bildirimi, adli sicil ve askerlik durumlarına ilişkin olarak yazılı a a
-
-M
-
+Ek Madde 7 ‒ Sözleşmeli personel alımı başvurularında adaylardan istenecek rı bilgi ve belgeler şunlardır: a) Türkiye Cumhuriyeti kimlik numarası. Türkiye Cumhuriyeti kimlik a s numarası dışında adaylardan kimlik bilgilerine ilişkin olarak ayrıca bir bilgi veya H e belge istenmez. Ancak ilgili kamu kurum veya kuruluşu Türkiye Cumhuriyeti kimlik k ü numarası beyanının teyidi amacıyla adaydan Türkiye Cumhuriyeti kimlik Y e numarasının da yer aldığı nüfus cüzdanı aslını göstermesini talep edebilir. v ş b) Adres bildirimi, adli sicil ve askerlik durumlarına ilişkin olarak yazılı a a
 beyanları. Bu hususlarda adaylardan yazılı beyanları dışında bir belge talep edilmez.
 
 c) Sağlık durumlarına ilişkin olarak yazılı beyanları. Kamu kurum ve kuruluşları sözleşmeli personele verilecek görevin uygun yürütülmesi açısından zaruri görmeleri durumunda, personel ve insan kaynaklarına ilişkin mevzuatlarında açıkça belirtilmesi kaydıyla adaylardan sağlık durumlarına ilişkin rapor talep edebilirler.
@@ -376,23 +299,8 @@ fıkrasına göre vize edilen sözleşmeli personel pozisyonlarında istihdam ed
 657 sayılı Devlet Memurları Kanununun değişik 4 üncü maddesinin (B)
 
 fıkrasına göre, İrlanda, Portekiz ve Yunanistan’a ilişkin olarak vize edilen sözleşmeli personel pozisyonlarında istihdam edilenlerin sözleşme ücretlerinin, kazanılmış hak teşkil etmemek üzere 31/12/2003 tarihine kadar A.B.D. Doları olarak ödenmesine si e devam olunur. 1/1/2004 tarihinden itibaren, bu fıkra kapsamına giren sözleşmeli ai r
-
-D
-
-personelin sözleşme ücretlerinin A.B.D. Doları olarak ödenmesine son verilir ve rı 19/4/1999 tarihli ve 99/12791 sayılı Bakanlar Kurulu Kararının 1 inci maddesinde a pl belirtilen Euru kuru esas alınarak ödeme yapılır. Bu hususlar personelin yıllık s a e sözleşmelerine hüküm konulmak suretiyle ayrıca belirtilir. H k ü
-
-Y
-
+personelin sözleşme ücretlerinin A.B.D. Doları olarak ödenmesine son verilir ve rı 19/4/1999 tarihli ve 99/12791 sayılı Bakanlar Kurulu Kararının 1 inci maddesinde a pl belirtilen Euru kuru esas alınarak ödeme yapılır. Bu hususlar personelin yıllık s a e sözleşmelerine hüküm konulmak suretiyle ayrıca belirtilir. ü
 Geçici Madde 4- (Mülga: : 03/01/2008-2008/13055) e
-
-v
-
-a
-
-ş
-
-a
-
 Geçici Madde 5- (Ek: 24/4/2007-2007/12061) Bu Esasların yürürlüğe girdiği M tarihten önce doğum sebebiyle sözleşmesi feshedilenler; ayrıldıkları kurumlarında aynı unvanlı münhal pozisyon bulunması ve kurumun isteği hâlinde, öncelikle ayrıldığı görev yerinde, mezkur görev yerinde aynı unvanlı münhal pozisyon bulunmaması hâlinde ise ilgili kurumca diğer birimlerindeki aynı unvanlı münhal pozisyonda istihdam edilmek üzere, bu değişikliğin yürürlüğe girdiği tarihten itibaren en geç otuz gün içinde ayrıldıkları kurumlara yazılı müracaatta bulunmaları kaydıyla bir defaya mahsus olmak üzere işe alınabilirler. Bu madde hükümlerine göre öncelikli olarak işe almada ek 1 inci madde hükümleri uygulanır.
 
 Geçici Madde 6- (Ek: 11/6/2007-2007/12251) 4/4/2007 tarihli ve 5620 sayılı
@@ -416,49 +324,8 @@ Yerleştirme Merkezi Başkanlığı, toplam sayısı 60’ı 1 geçmemek kaydıy
 Kurulunca belirlenecek esaslara göre sözleşmeli personel alabilir.
 
 Ek Geçici Madde 1- (Mülga:1/2/1980-8/308)
-
-si
-
-e
-
-r
-
 Madde 17- Bu Esaslar yayımı tarihinde yürürlüğe girer. ai
-
-D
-
-rı
-
-a
-
 Madde 18 – Bu Esasları Bakanlar Kurulu yürütür. pl
-
-a
-
-s
-
-e
-
-H
-
-k
-
-ü
-
-Y
-
-e
-
-v
-
-ş
-
-a
-
-a
-
-M
-
 1 12/09/2011 tarihli ve 2011/2249 sayılı Bakanlar Kurulu Kararı ile değiştirilmiştir..
 
 1 SAYILI CETVEL (Ek: 11/6/2007-2007/12251)
@@ -494,47 +361,10 @@ UZMAN TABİP
 UZMAN (TIPTA VE DİŞ HEKİMLİĞİNDE UZMANLIK EĞİTİMİ
 
 YÖNETMELİĞİNE GÖRE) (Ek: 22/11/2010-2010/1169)
-
-si
-
-e
-
-ai
-
-r
-
-D
-
-rı
-
-pl
-
-a
-
-a
-
 2 SAYILI CETVEL (Ek: 11/6/2007-2007/12251) s
-
-e
-
-H
-
 SADECE MESLEKİ UYGULAMALI SINAV SONUCUNA
-
-k
-
 GÖRE HİZMETE ALINACAK SÖZLEŞMELİ ü
-
-Y
-
 PERSONEL POZİSYON UNVANLARI e
-
-v
-
-ş
-
-a
-
 DANS UZMANI M a
 
 DENİZ TRAFİK BAŞKILAVUZU
@@ -614,49 +444,12 @@ YAZMA ESER PATALOJİ UZMANI
 YAZMA ESER UZMANI
 
 YÖNETMEN
-
-si
-
-e
-
-r
-
-ai
-
-D
-
-rı
-
-pl
-
-a
-
 3 SAYILI CETVEL s a
-
-e
-
 YAZILI VE/VEYA SÖZLÜ SINAV SONUCUNA GÖRE HİZMETE H
 
 ALINACAK ü k
-
-Y
-
 SÖZLEŞMELİ PERSONEL POZİSYON UNVANLARI(Ek: 2/3/2009-
-
-e
-
-v
-
 2009/14799)
-
-ş
-
-a
-
-a
-
-M
-
 ARŞİV UZMANI
 
 ÇÖZÜMLEYİCİ
@@ -724,39 +517,22 @@ veya dengi yabancı dil bilgisine sahip olmak; KPDS
 (12/09/2011 tarihli ve denkliği bulunmayan ya da KPDS'de yer almayan 2011/2249 sayılı BKK ile diller için Basın-Yayın ve Enformasyon Genel eklenmiştir.) Müdürlüğünce yapılacak yabancı dil sınavında başarılı olmak.
 
 Yükseköğretim kurumlarının araştırma geliştirme e
-
-si
-
-r
-
 projelerinin gerektirdiği özel nitelik ve şartlara sahip ai
 
 BİLİMSEL PROJE UZMANI D
 
 olmak ve yükseköğretim kurumlarından en az lisans rı
-
-a
-
 düzeyinde mezun olmak. pl
-
-a
-
 Yükseköğretim kurumlarının lisans düzeyinde eğitim s
 
 BİOLOG e
 
 veren ilgili bölümlerinden mezun olmak. H
-
-k
-
 Yükseköğretim kurumlarının ilgili bölümlerinden mezun ü
 
 BÖLGE PLANCISI Y
 
 olmak. e
-
-v
-
 Proje hizmetleri, veri girişi, kayıt tutma ve benzeri büro a ş a
 
 BÜRO PERSONELİ hizmetlerini yerine getirmek üzere en az ortaöğretim M kurumlarından mezun olmak.
@@ -846,53 +622,23 @@ DİĞER TEKNİK HİZMET cetvelde yer almayan diğer unvanlarla ilgili
 PERSONELİ yükseköğretim kurumlarının ilgili bölümlerinden mezun olmak.
 
 DİSPEÇ Uçuş hareket uzmanı lisansına sahip olmak. si
-
-e
-
 DİŞ TABİBİ Diş hekimliği fakültesi mezunu olmak. r
-
-ai
-
 Yükseköğretim kurumlarının lisans düzeyinde eğitim D
 
 DİYETİSYEN
 
 veren ilgili bölümlerinden mezun olmak.
-
-rı
-
-a
-
 En az ortaöğretim mezunu olmak ve konusunda tecrübe a
-
-pl
-
 DİZGİ OPERATÖRÜ s
 
 sahibi olmak. e
-
-H
-
 En az sağlık meslek lisesi veya yükseköğretim k
 
 EBE ü
 
 kurumlarının ebelik bölümünden mezun olmak Y
-
-e
-
 ECZACI Eczacılık fakültesi mezunu olmak.
-
-ş
-
-v
-
-a
-
 Yükseköğretim kurumlarının en az lisans düzeyinde veya a
-
-M
-
 Otelcilik ve Turizm Meslek Lisesi ve dengi okul mezunu
 
 EĞİTİCİ
@@ -998,41 +744,19 @@ Yükseköğretim kurumlarının ilgili bölümlerinden mezun
 MUHABİR
 
 olmak. si
-
-e
-
 MÜBAŞİR En az ortaöğretim mezunu olmak. ai r
-
-D
-
-MÜEZZİN KAYYIM İlahiyat fakültesi, ilahiyat meslek yüksek okulu, ilahiyat rı (14/11/2011 tarihli ve 2011/2400 önlisans veya imam hatip lisesi veya lise mezunu olup a pl sayılı BKK ile değiştirilmiştir.) hafızlık belgesine sahip olmak. a s e
+MÜEZZİN KAYYIM İlahiyat fakültesi, ilahiyat meslek yüksek okulu, ilahiyat rı (14/11/2011 tarihli ve 2011/2400 önlisans veya imam hatip lisesi veya lise mezunu olup a pl sayılı BKK ile değiştirilmiştir.) hafızlık belgesine sahip olmak.
 
 Yükseköğretim kurumlarının ilgili bölümlerinden mezun H
 
 MÜHENDİS
 
 olmak. k
-
-ü
-
-Y
-
 Yükseköğretim kurumlarının en az lisans düzeyinde
-
-e
-
-v
-
 eğitim veren ilgili bölümlerinden mezun olmak ve en az
-
-ş
-
 MÜTERCİM-TERCÜMAN a
 
 B düzeyinde KPDS veya dengi yabancı dil bilgisine a
-
-M
-
 sahip olmak.
 
 En az lisans mezunu olmak, Talim ve Terbiye Kurulunun
@@ -1124,49 +848,20 @@ SOSYAL ÇALIŞMACI
 veren ilgili bölümlerinden mezun olmak.
 
 Yükseköğretim kurumlarının ilgili bölümlerinden mezun si
-
-e
-
 STÜDYO YÖNETMENİ olmak. r
-
-ai
-
 Yükseköğretim kurumlarının ilgili bölümlerinden mezun D
 
 ŞEHİR PLANCISI
 
 olmak. a
-
-rı
-
-pl
-
 TABİP Tıp fakültesi mezunu olmak. a
-
-s
-
-e
-
 Yükseköğretim kurumlarının en az lisans düzeyinde H
 
 eğitim veren bölümlerinden mezun olmak ve alanıyla k
 
 TASHİHÇİ ü
-
-Y
-
 ilgili literatürü takip edebilecek düzeyde yabancı dil
-
-e
-
 bilmek.
-
-ş
-
-v
-
-a
-
 En az önlisans düzeyinde mesleki teknik öğrenime sahip a
 
 TEKNİKER M
@@ -1254,41 +949,11 @@ ZABIT KÂTİBİ mezun olmak veya en az lise veya dengi okul mezunu olup, başvur
 B - YURTDIŞI TEŞKİLATINDA SÖZLEŞMELİ PERSONEL POZİSYON UNVANLARI
 
 İLE ASGARİ NİTELİKLERİ GÖSTERİR CETVEL
-
-si
-
-e
-
-r
-
-ai
-
-D
-
 UNVANI NİTELİĞİ
-
-rı
-
-pl
-
-a
-
 Aşçılık, şoförlük, bekçi-bahçıvanlık veya diğer yardımcı s a
-
-e
-
-DESTEK PERSONELİ hizmetlerde istihdam edilmek üzere gerekli tecrübe ve H k niteliğe sahip olmak. ü
-
-Y
-
+DESTEK PERSONELİ hizmetlerde istihdam edilmek üzere gerekli tecrübe ve niteliğe sahip olmak. ü
 En az ortaöğretim mezunu veya dengi yabancı öğretim e
-
-v
-
 kurumlarından mezun olmak. Yabancı uyruklular için, ş
-
-a
-
 SEKRETER Türkçe veya uluslar arası dillerden birisine vakıf olmak, M a
 
 TAKİPÇİ Türkiye Cumhuriyeti vatandaşı olması halinde ise bulunulan ülke dilini veya bu ülkelerde geçerli uluslar arası dillerden birisini bildiğini belgelemek.
@@ -1330,45 +995,3 @@ Türkçe veya uluslar arası dillerden birisine vakıf olmak,
 Türkiye Cumhuriyeti vatandaşı olması halinde ise bulunulan
 
 ülke dilini veya bu ülkelerde geçerli uluslar arası dillerden birisini bildiğini belgelemek.
-
-si
-
-e
-
-r
-
-ai
-
-D
-
-rı
-
-a
-
-pl
-
-a
-
-s
-
-e
-
-H
-
-k
-
-ü
-
-Y
-
-e
-
-v
-
-ş
-
-a
-
-a
-
-M

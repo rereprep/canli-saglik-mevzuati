@@ -511,25 +511,11 @@ Toplam
 
 Duyarlı (n,%) Dirençli (n,%)
 
-k
+Fenotipik
 
-i Duyarlı (n, %) 4309 (99,4) 25 (0,6) 4334
-
-p
-
-i
-
-t
-
-o
-
-n
+Duyarlı (n, %) 4309 (99,4) 25 (0,6) 4334
 
 Dirençli (n, %) 16 (3,3) 474 (96,7) 490
-
-e
-
-F
 
 Toplam 4325 499 4824
 
@@ -545,25 +531,11 @@ Toplam
 
 Duyarlı (n,%) Dirençli (n,%)
 
-k
+Fenotipik
 
-i Duyarlı (n, %) 3670 (99,7) 11 (0,3) 3681
-
-p
-
-i
-
-t
-
-o
-
-n
+Duyarlı (n, %) 3670 (99,7) 11 (0,3) 3681
 
 Dirençli (n, %) 143 (12,5) 1000 (87,5) 1143
-
-e
-
-F
 
 Toplam 3813 1011 4824
 
@@ -579,25 +551,11 @@ Toplam
 
 Duyarlı (n,%) Dirençli (n,%)
 
-k
+Fenotipik
 
-i Duyarlı (n, %) 299 (97,4) 8 (2,6) 307
-
-p
-
-i
-
-t
-
-o
-
-n
+Duyarlı (n, %) 299 (97,4) 8 (2,6) 307
 
 Dirençli (n, %) 3 (9) 30 (91) 33
-
-e
-
-F
 
 Toplam 302 38 340
 
@@ -613,25 +571,11 @@ Toplam
 
 Duyarlı (n,%) Dirençli (n,%)
 
-k
+Fenotipik
 
-i Duyarlı (n, %) 321 (99,4) 2 (0,6) 323
-
-p
-
-i
-
-t
-
-o
-
-n
+Duyarlı (n, %) 321 (99,4) 2 (0,6) 323
 
 Dirençli (n, %) 4 (23,5) 13 (76,5) 17
-
-e
-
-F
 
 Toplam 325 15 340
 
@@ -859,27 +803,7 @@ Laboratuvar Değerlendirme Aracı (LDA)
 
 TuLSA Faaliyetleri - Yerinde Değerlendirme
 
-M Ü L Ö B
-
-s a
-
-s e a t a s h
-
-s a
-
-s e e y ik t PERFORMANS GÖSTERGELERİ
-
-e
-
-m
-
-r id n e lr e T E V E N E M S IK R IY A H YORUM AÇIKLAMA
-
-u e ğ
-
-R Y e
-
-D
+BÖLÜM | Ruhsata esas | Yetkiye esas | PERFORMANS GÖSTERGELERİ | Değerlendirme | EVET | KISMEN | HAYIR | YORUM | AÇIKLAMA
 
 1. ORGANİZASYON ve YÖNETİM
 
@@ -1313,7 +1237,8 @@ değerlendirme
 
 Geri
 
-bildirimBi lgi
+bildirim
+Bilgi
 
 Eylem için bilgi… Eylem
 
@@ -1324,73 +1249,67 @@ Teşekkürler
 Sürveyans Ekibi
 
 •Halk Sağlığı Müdürlükleri, TB koor, VSD
-
 •AGHH; Melike Atasever, İsmail Ceyhan, Şeref Özkara
-
 •Ankara Bölge Lab; Tuğba Müderris
-
 •HÜTF; Dolunay Gülmez, Alpaslan Alp, Zeynep Sarıbaş
-
 •AÜTF; Devran Gerçeker
-
 •GÜTF; Birgül Kaçmaz, Gülendam Bozdayı
-
 •BÜTF; Özlem Kurt Azap
-
 •GATA; Özgul Kısa, Ali Albay
-
 •NEAH; Şenol Kurşun
-
 •At.EAH; Nevreste Çelikbilek
-
 •AEAH; Ufuk Önde
-
 •DEAH; Zeynep Dansuk
-
 •AÇHOHH; Hülya Oskovi
+•YGHH; Hatice Yazısız, Derya Cenger
+•SGHH; Mualla Partal
+•İst Bölge Lab; Nagihan Özlü
+•Taksim VSD; Engin Seber
+•İÜTF; Dilek Şatana
+•İÜCTF; Nuri Kiraz
+•DETAE; Kaya Köksalan
+•GATA Haydarpaşa; Mustafa Özyurt
+•ŞEEAH; Banu Bayraktar
+•OEAH; Elvin Dinç
+•Düzen Lab; Görkem Yaman
+•YÜTF; Çağatay Acuner
+•Acıbadem Lab; Işın Akyar
 
-•YGHH; Hatice Yazısız, Derya Cenger •DEÜTF; N.Esen, A.Özkütük
+•DEÜTF; N.Esen, A.Özkütük
+•EÜTF; Cengiz Çavuşoğlu
+•İzmir Bölge Lab; Zehra Ünal
+•SSGHH; Can Biçmen
+•AMÜTF; Murat Telli
+•CBÜTF; Nuri Özkütük
+•Manisa DH; Sema Paçacı
+•BÜTF; Eda Çalışkan
+•ÇÜTF; Fatih Köksal
+•MÜTF; Gönül Aslan
+•TÜTF; Şafak Özmen
+•KÜTF; Teoman Apan
 
 Rehber ekibi
 
-•SGHH; Mualla Partal •EÜTF; Cengiz Çavuşoğlu Mustafa ÖZYURT
-
-•İst Bölge Lab; Nagihan Özlü •İzmir Bölge Lab; Zehra Ünal Zeynep SARIBAŞ
-
-•Taksim VSD; Engin Seber •SSGHH; Can Biçmen Ali ALBAY
-
-Engin SEBER
-
-•İÜTF; Dilek Şatana •AMÜTF; Murat Telli Ahmet ARSLANTÜRK
-
-Dilek ŞATANA
-
-•İÜCTF; Nuri Kiraz •CBÜTF; Nuri Özkütük Gönül ASLAN
-
-•DETAE; Kaya Köksalan •Manisa DH; Sema Paçacı Orhan BAYLAN Hülya ŞİMŞEK
-
-•GATA Haydarpaşa; Mustafa Özyurt Gülnur TARHAN
-
-•BÜTF; Eda Çalışkan Can BİÇMEN
-
-•ŞEEAH; Banu Bayraktar S. Nilay UÇARMAN
-
-•ÇÜTF; Fatih Köksal İsmail CEYHAN
-
-•OEAH; Elvin Dinç
-
-•Düzen Lab; Görkem Yaman •MÜTF; Gönül Aslan Rıza DURMAZ
-
-•YÜTF; Çağatay Acuner •TÜTF; Şafak Özmen Nuran ESEN
-
-•Acıbadem Lab; Işın Akyar •KÜTF; Teoman Apan Özgül KISA
-
+Ali ALBAY
+Ahmet ARSLANTÜRK
+Gönül ASLAN
+Orhan BAYLAN
+Can BİÇMEN
+İsmail CEYHAN
+Rıza DURMAZ
+Nuran ESEN
+Özgül KISA
 Aydan ÖZKÜTÜK
-
 Nuri ÖZKÜTÜK
+Mustafa ÖZYURT
+Zeynep SARIBAŞ
+Engin SEBER
+Dilek ŞATANA
+Hülya ŞİMŞEK
+Gülnur TARHAN
+S. Nilay UÇARMAN
 
 LDA ekibi UTRL ekibi
-
 TEŞEKKÜRLER
 
 «Tüberküloz Eğitim Programı ve Materyali Hazırlama Çalıştayı» 5-9 Mayıs 2014

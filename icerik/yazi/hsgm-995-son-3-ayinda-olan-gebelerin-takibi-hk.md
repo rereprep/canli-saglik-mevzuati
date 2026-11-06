@@ -1,4 +1,15 @@
 ---
+id: "hsgm-995-son-3-ayinda-olan-gebelerin-takibi-hk"
+baslik: "Son 3 Ayında Olan Gebelerin Takibi Hk."
+tur: "yazi"
+tarih: "2025-08-25"
+sayi: "E-57536863-231.01.12-286185475"
+birim: "Kadın ve Üreme Sağlığı Dairesi Başkanlığı"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Son_3_Ayinda_Olan_Gebelerin_Takibi_Hk.pdf"
+durum: "yürürlükte"
+kontrol_edildi: true
+---
 
 T.C.
 
