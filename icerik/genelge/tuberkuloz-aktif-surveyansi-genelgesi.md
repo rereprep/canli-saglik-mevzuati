@@ -1,10 +1,10 @@
 ---
 id: "tuberkuloz-aktif-surveyansi-genelgesi"
-baslik: "Tüberküloz Aktif Sürveyansı Genelgesi"
+baslik: "Tüberküloz Aktif Sürveyansı Genelgesi (2014/31)"
 tur: "genelge"
 konu: "Tüberküloz hastalarının kamu ve özel sağlık kurumlarında aktif sürveyansla bildirilmesi, kaydedilmesi ve denetlenmesine ilişkin çalışma planı."
 tarih: "2014-10-31"
-sayi: "60949272-134"
+sayi: "2014/31"
 birim: "Türkiye Halk Sağlığı Kurumu Başkanlığı, Tüberküloz Daire Başkanlığı"
 etiketler: ["tuberkuloz", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 419-428"

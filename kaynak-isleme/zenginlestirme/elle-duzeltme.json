@@ -49,7 +49,9 @@
   "esi": "sbg-103790-saglik-teknolojileri-degerlendirme-yonergesi"
  },
  "sbg-103796-bakanlik-merkez-doner-sermaye-isletmelerinin-kurulmasi-ve-isletilmesi": {
-  "tercih": true
+  "tercih": true,
+  "baslik": "Sağlık Bakanlığı Merkez Döner Sermaye İşletmesinin Kurulması ve İşletilmesi Hakkında Yönerge",
+  "tarih": "2015-01-28"
  },
  "sbg-103467-bebek-olumleri-izleme-sistemi-genelgesi-2018-7": {
   "tercih": true
@@ -169,5 +171,29 @@
  },
  "sbg-11067-ishalli-hastaliklarin-kontrolu-genelgesi-2004-52": {
   "tarih": "2004-04-12"
+ },
+ "oz-gebe-okullari-ile-doguma-yonelik-hizmetlerin-usul-ve-esaslari-hakkinda-yonetmeli-2024-12-13": {
+  "baslik": "Gebe Okulları ile Doğuma Yönelik Hizmetlerin Usul ve Esasları Hakkında Yönetmelik",
+  "tarih": "2024-12-13"
+ },
+ "sbg-10428-dis-protez-laboratuarlari-yonetmeligi": {
+  "baslik": "Diş Protez Laboratuvarları Yönetmeliği",
+  "tarih": "2005-12-07"
+ },
+ "oz-mezarlik-yerlerinin-insaasi-ile-cenaze-nakil-ve-defin-islemleri-hakkinda-yonetme-2010-01-19": {
+  "baslik": "Mezarlık Yerlerinin İnşası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmelik",
+  "tarih": "2010-01-19"
+ },
+ "sbg-10418-saglik-bakanligi-trafik-hizmetleri-doner-sermaye-isletme-yonetmeligi": {
+  "baslik": "Sağlık Bakanlığı Trafik Hizmetleri Döner Sermaye İşletmesi Yönetmeliği",
+  "tarih": "1999-10-02"
+ },
+ "sbg-105145-saglik-bakanligi-ve-bagli-kuruluslari-imza-yetkileri-yonergesi-2024": {
+  "baslik": "Sağlık Bakanlığı ve Bağlı Kuruluşları İmza Yetkileri Yönergesi",
+  "tarih": "2024-07-17"
+ },
+ "sb-bakanlik-merkez-doner-sermaye-i-sletmelerinin-kurulmasi": {
+  "baslik": "Sağlık Bakanlığı Merkez Döner Sermaye İşletmesinin Kurulması ve İşletilmesi Hakkında Yönerge",
+  "tarih": "2015-01-28"
  }
 }

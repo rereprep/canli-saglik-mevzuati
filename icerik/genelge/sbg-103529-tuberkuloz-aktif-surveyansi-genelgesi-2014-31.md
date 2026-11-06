@@ -2,7 +2,7 @@
 id: "sbg-103529-tuberkuloz-aktif-surveyansi-genelgesi-2014-31"
 baslik: "Tüberküloz Aktif Sürveyansı Genelgesi (2014/31)"
 tur: "genelge"
-tarih: "2014-11-20"
+tarih: "2014-10-31"
 sayi: "2014/31"
 birim: "Türkiye Halk Sağlığı Kurumu"
 konu: "Tüberküloz eliminasyon fazında kayıtsız verem hastası kalmaması için tüm kamu/özel sağlık kuruluşlarında tüberküloz aktif sürveyansı uygulaması"
