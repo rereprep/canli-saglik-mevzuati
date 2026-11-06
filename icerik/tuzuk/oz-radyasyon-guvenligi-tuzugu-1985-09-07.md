@@ -138,7 +138,7 @@ B — Radyasyon kaynaklarına verilen lisanslar:
 
 1 — Tıpta kullanılan radyasyon kaynaklarına verilen lisanslar.
 
-2 — Sınai veya başka amaçlarla kullanılan radyasyon kaynaklarına verilen lisanslar.
+2 — Sınai veya başka, amaçlarla kullanılan radyasyon kaynaklarına verilen lisanslar.
 
 C — Radyasyon kaynaklarının kullanıldığı, depolandığı, imal edildiği, radyoaktif artıkların zararsız hale getirildiği ve benzeri yerlere verilen lisanslar.
 
@@ -146,7 +146,7 @@ Lisans başvurusu
 
 **Madde 9 –** Bu Tüzük hükümleri uyarınca lisans alması gereken kişi ve kuruluşlar, aşağıdaki bilgi ve belgeleri ekledikleri bir dilekçeyle Kuruma başvururlar:
 
-A — Yapacakları iş için yeterli bilgileri bulunduğunu kanıtlayan resmî belge.
+A — Yapacakları iş için yeterli bilgileri bulunduğunu kanıtlayan resmi belge.
 
 B — Kurumca verilen ve başvuran tarafından doldurulan lisans başvuru formu.
 
@@ -216,7 +216,7 @@ Kurum uzmanları, bu amaçla ilgili yer ve tesislere girmek, gerekli gördükler
 
 Denetim sırasında ilgililer, uzmanlara her türlü kolaylığı göstermekle yükümlüdürler.
 
-Yürütme ve İdare Bölümü Sayfa: 5 Denetim esasları
+Denetim esasları
 
 **Madde 19 –** Denetim, haberli veya habersiz olarak her zaman yapılabilir.
 
@@ -250,7 +250,7 @@ Radyoaktif yağışlar
 
 Radyasyon tesisleri plan ve projelerinin incelenmesi
 
-**Madde 24 –** Radyasyon kaynaklarının kullanılması, imal edilmesi, depolanması, radyoaktif artıkların zararsız hale getirilmesi ve benzeri amaçlarla kurulacak tesisler için yapı yapacak olanlar, plan ve projelerini ekledikleri bir dilekçeyle Kuruma başvurmak zorundadırlar. Plan ve projeler radyasyon güvenliği yönünden uygun bulunursa, durum bunların üzerinde belirtilir. Uygun bulunmazsa, yapılması gerekli değişiklikler ve alınması gerekli tedbirler bir raporla ilgiliye bildirilir. Yapı izni verilmesi sırasında Kurumun plan ve projelerin radyasyon güvenliği yönünden uygun olduğu yolundaki bildirimi aranır. Tesise, Kurumca lisans verilmesi aşamasında, plan ve projeye veya rapora uyulup uyulmadığı incelenir.
+**Madde 24 –** Radyasyon kaynaklarının kullanılması imal edilmesi, depolanması, radyoaktif artıkların zararsız hale getirilmesi ve benzeri amaçlarla kurulacak tesisler için yapı yapacak olanlar, plan ve projelerini ekledikleri bir dilekçeyle Kuruma başvurmak zorundadırlar. Plan ve projeler radyasyon güvenliği yönünden uygun bulunursa, durum bunların üzerinde belirtilir. Uygun bulunmazsa, yapılması gerekli değişiklikler ve alınması gerekli tedbirler bir raporla ilgiliye bildirilir. Yapı İzni verilmesi sırasında Kurumun plan ve projelerin radyasyon güvenliği yönünden uygun olduğu yolundaki bildirimi aranır. Tesise, Kurumca lisans verilmesi aşamasında, plan ve projeye veya rapora uyulup uyulmadığı incelenir.
 
 ### İKİNCİ BÖLÜM — Son Hükümler
 

@@ -39,13 +39,21 @@ Hastanesi bulunan kazalarda sağlık idareleri, müsait odaları bulunduğu takd
 
 Bu hizmetler :
 
-a) Doğum - ölüm ve hastalık istatistikleri tutmak, b) Ana ve çocuk sağlığını korumak, c) Halkın bulaşıcı hastalıklara karşı muafiyetini sağlayıcı aşılar yapmak ve bu hastalıklarla mücadele etmek, d) Verem, Sıtma, Frengi, Trahom, Ankilostomyaz vesaire gibi sosyal hastalıklarla mücadele etmek,
+a) Doğum - ölüm ve hastalık istatistikleri tutmak,
 
-e) Gıda maddelerinin ve içme sularının kontrolü, kanalizasyon çöplerinin imhası, haşerat ve kemirici hayvanlarla mücadele gibi alelûmum sanitasyon işlerini tedvir ve murakabe etmek, f) Mevcut imkân ve vasıtalardan faydalanmak suretiyle halkın sağlık bilgisini artırmaktır.
+b) Ana ve çocuk sağlığını korumak,
+
+c) Halkın bulaşıcı hastalıklara karşı muafiyetini sağlayıcı aşılar yapmak ve bu hastalıklarla mücadele etmek,
+
+d) Verem, Sıtma, Frengi, Trahom, Ankilostomyaz vesaire gibi sosyal hastalıklarla mücadele etmek,
+
+e) Gıda maddelerinin ve içme sularının kontrolü, kanalizasyon çöplerinin imhası, haşerat ve kemirici hayvanlarla mücadele gibi alelûmum sanitasyon işlerini tedvir ve murakabe etmek,
+
+f) Mevcut imkân ve vasıtalardan faydalanmak suretiyle halkın sağlık bilgisini artırmaktır.
 
 **Madde 5 –** Kaza sağlık idaresi bu çeşit hizmetlerin ifası için, elde mevcut tabip ve personelden - ihtisaslarını da nazarı dikkate alarak - istifade eder.
 
-Verem, Sıtma, Frengi, Trahom, Ankilostomyaz vesair hastalıklar bakımından önemli görülen bazı bölgelerde mütehassıs elemanlardan ekipler yapmak, sağlık istasyonları açmak suretiyle faaliyette bulunur. Bazı bölgelerde köyleri gruplara ayırarak her gurubun başına yetişmiş bir sağlık memuru ve maiyetine köy sağlık memurları, köy ebeleri, sıtma savaş memurları sağlık koruyucuları ve ilâçlayıcılarından ibaret yardımcılar vermek suretiyle işlerin daha iyi görülmesini temin eder.
+Verem, Sıtma, Frengi, Trahom, Ankilostomyaz vesair hastalıklar bakımından önemli görülen bazı bölgelerde mütehassıs elemanlardan ekipler yapmak, sağlık istasyonları açmak suretiyle faaliyette bulunur. Bazı bölgelerde köyleri gruplara ayırarak her gurupun başına yetişmiş bir sağlık memuru ve maiyetine köy sağlık memurları, köy ebeleri, sıtma savaş memurları sağlık koruyucuları ve ilâçlayıcılarından ibaret yardımcılar vermek suretiyle işlerin daha iyi görülmesini temin eder.
 
 **Madde 6 –** Kaza sağlık idaresi lüzum gördüğü takdirde, Verem, Sıtma, Frengi ve Trahom mücadelesine ait hususi kanun, nizamname ve talimatnamelerdeki hükümlerden de faydalanarak daha geniş mücadele faaliyetinde bulunabilir. Kaza sağlık idareleri, Sıhhat ve içtimai Muavenet Vekâletince verilecek emir ve talimat gereğince muayyen yerlerde muayyen maksatlar için yapılacak arama, tarama mücadele ve tedavi faaliyetlerini de tanzim ve idare etmekle mükelleftirler.
 
@@ -53,7 +61,7 @@ Verem, Sıtma, Frengi, Trahom, Ankilostomyaz vesair hastalıklar bakımından ö
 
 a) Bulundukları muhitin andemik bulaşıcı hastalıklarının epidemiolojik karakter ve hususiyetlerini gözönünde bulundurarak bu hastalıkların meydana çıkmasına takaddüm eden devrelerde bilhassa toplulukları ve halkı, çıkması melhuz hastalıklara karşı, koruyucu olarak aşılamak, keza aksatmaksızın rapel aşı tatbik etmek;
 
-b) ihbarı mecburi hastalıklardan birisi çıktığı haber alındığı veya böyle bir hastalık görüldüğü zaman mahallinde gerekli tetkikatı yapmak ve tertibatı almakla beraber vakit geçirmeden Sıhhat ve içtimai Muavenet Müdürünü haberdar etmek;
+b) İhbarı mecburi hastalıklardan birisi çıktığı haber alındığı veya böyle bir hastalık görüldüğü zaman mahallinde gerekli tetkikatı yapmak ve tertibatı almakla beraber vakit geçirmeden Sıhhat ve içtimai Muavenet Müdürünü haberdar etmek;
 
 c) Sâri hastalık ihbarında veya bu bakımdan şüpheli bir hasta görüldüğünde, lâboratuvar muayenelerinden de faydalanarak, yakın teşhis koymağa çalışmak, mümkün olmazsa vilâyetten mütehassıs istemek, sâri hastalık katî olarak teşhis edildiğinde filyasyonunu sirayet yollarını arıyarak bertaraf etmek, icabediyorsa haşere ve fare mücadelesi yapmak;
 
@@ -75,7 +83,9 @@ b) Sıtma nâkili sivrisineklerle meşgul olmak, bunların üremesine müsait he
 
 c) Mevcut mesken, ahır, samanlık, kümes gibi mahallerin sayılarıyle D. D. T. tatbikatına esas olacak yüz ölçülerini tesbit etmek;
 
-d) Kasaba ve köylerde sürfe mücadelesi için birinci ve ikinci himaye bölgelerini tesbit ve çalışmaları mevsimlere göre ayarlamak, belediyelerle işbirliği yaparak kanalizasyon, septik çukur ve diğer jitlere muvakkat veya kalıcı lavisit tatbik etmek, e) Kazanın lüzum görülen köylerinde kalıcı D. D. T. ve benzeri ensektisitler tatbik etmek ve lüzumunda tekrarlamak;
+d) Kasaba ve köylerde sürfe mücadelesi için birinci ve ikinci himaye bölgelerini tesbit ve çalışmaları mevsimlere göre ayarlamak, belediyelerle işbirliği yaparak kanalizasyon, septik çukur ve diğer jitlere muvakkat veya kalıcı lavisit tatbik etmek;
+
+e) Kazanın lüzum görülen köylerinde kalıcı D. D. T. ve benzeri ensektisitler tatbik etmek ve lüzumunda tekrarlamak;
 
 f) Çeltik ekilen yerlerde Çeltik Kanunu hükümlerine göre gerekli tedbirleri almak ve çeltik komisyonlarına kaza sağlık idaresinden bir tabibin iştirakini sağlamak.
 
@@ -91,9 +101,9 @@ d) Mücadeleyi gerektirecek kadar trahomlusu bulunan yerlerde, sağlık merkezin
 
 **Madde 11 –** Kaza sağlık idarelerinin frengi ile mücadele bakımından yapacakları işler şunlardır :
 
-a) Kaza dâhilinde bulunan ve muayene ile tesbit edilen frengilileri ve diğer zührevî hastalık musaplarını tedavi etmek:
+a) Kaza dâhilinde bulunan ve muayene ile tesbit edilen frengilileri ve diğer zührevî hastalık musaplarını tedavi etmek;
 
-b) Tedaviye gelen ve tedaviden çıkanların durumlarını takip etnek;
+b) Tedaviye gelen ve tedaviden çıkanların durumlarını takip etmek;
 
 c) Lüzum görülecek yerlerde sağlık merkezine bağlı frengi tedavi istasyonları açmak.
 
@@ -119,9 +129,7 @@ c) Doğan çocukların beden ve ruh bakımından sağlam olarak yetişmesine ça
 
 d) Mümkün olan yerlerde ana ve çocuklar için hususi fişler tutmak; mütaakip müracaatları fişler üzerine işlemek;
 
-e) Gebelere ve analara çocuk bakımı ve kendi sıhhatlerini koruma bakımından lüzumlu bilgileri vermek, icabında kurslar açarak diploma vermek; *II. Tedavi edici hekimlik hizmetleri*
-
-*a. Sağlık merkezlerine hasta kabulü*
+e) Gebelere ve analara çocuk bakımı ve kendi sıhhatlerini koruma bakımından lüzumlu bilgileri vermek, icabında kurslar açarak diploma vermek;
 
 ### II. Tedavi edici hekimlik hizmetleri
 
@@ -129,7 +137,9 @@ e) Gebelere ve analara çocuk bakımı ve kendi sıhhatlerini koruma bakımında
 
 **Madde 14 –** Kaza sağlık merkezlerine başta âcil vakalar olmak üzere her türlü doğumlar, ateşli hastalar, yaralı ve kazazedeler küçük müdahalelerle kısa zamanda iyileşmesi mümkün görülen hastalar yatırılır.
 
-Uzun müddet tedavisi gereken hastalarla, müstacel olmıyan ameliyatlar mutlak surette mütehassısın tedavisine ihtiyaç gösteren vakalar, açık tüberkülozlular, akıl hastaları sağlık merkezlerinde tecridi mümkün olmıyan sâri hastalık musapları, aceze ve mefluçlar bu yerlerde alıkonulamazlar. Bir hastahaneye şevki zaruri olduğu halde naklinde mahzur görülenler ilk tedavileri yapıldıktan ve seyahatlarına mâni durum zail olduktan sonra sevk olunurlar. *b. Poliklinik*
+Uzun müddet tedavisi gereken hastalarla, müstacel olmıyan ameliyatlar mutlak surette mütehassısın tedavisine ihtiyaç gösteren vakalar, açık tüberkülozlular, akıl hastaları sağlık merkezlerinde tecridi mümkün olmıyan sâri hastalık musapları, aceze ve mefluçlar bu yerlerde alıkonulamazlar. Bir hastahaneye şevki zaruri olduğu halde naklinde mahzur görülenler ilk tedavileri yapıldıktan ve seyahatlarına mâni durum zail olduktan sonra sevk olunurlar.
+
+*b. Poliklinik*
 
 **Madde 15 –** Sağlık merkezlerinde mesai günlerinde saat 9 dan 12 ye kadar poliklinik yapılır.
 
@@ -213,7 +223,7 @@ Tabiplerden gayri diğer personelin mesaisi, bulundukları yerin resmî mesai sa
 
 Tabipler, âcil vaka zuhurunda çağırıldıkları takdirde derhal vazifeye icabet etmekle mükelleftirler.
 
-**Madde 37 –** Baştabip, mesainin hitamında sağlık merkezinden ayrılacağı zaman kendisini ve diğer tabipleri lüzumunda çağırmak ve vâki olacak müracaatlara cevap vermek üzere hemşirelerden birini vazifelendirir.
+**Madde 57 –** Baştabip, mesainin hitamında sağlık merkezinden ayrılacağı zaman kendisini ve diğer tabipleri lüzumunda çağırmak ve vâki olacak müracaatlara cevap vermek üzere hemşirelerden birini vazifelendirir.
 
 **Madde 38 –** Hemşire ve ebelere, 6283 sayılı Hemşirelik Kanununa göre haftada 1,5 gün ve yılda bir ay izin verilir.
 
@@ -287,7 +297,7 @@ Muvakkat madde : Sağlık işleri eskisi gibi idare olunur.
 8 — İlâç varidat ve sarfiyat defteri — 58  
 9 — Masraf müfredat defteri — 1  
 10 — Kasa emanet defteri — 42  
-111 — Satınalma komisyonu karar defteri — [?]
+11 — Satınalma komisyonu karar defteri —
 12 — Teftiş defteri — 143  
 13 — Evlenme kayıt defteri — 29  
 14 — Poliklinik defteri — 41  
@@ -299,7 +309,7 @@ Muvakkat madde : Sağlık işleri eskisi gibi idare olunur.
 20 — Günlük vukuat ve yemek dağıtmaya mahsus defter — 115  
 21 — Seyrüsefer defteri — 165  
 22 — Muhallefat defteri — 46  
-23 — Bulaşıcı hastalıklar kayıt defteri — [?]
+23 — Bulaşıcı hastalıklar kayıt defteri —
 24 — Eczane yevmiye defteri — 89  
 25 — Eczane imal defteri — 90  
 26 — Otopsi defteri — 55
@@ -335,7 +345,7 @@ Muvakkat madde : Sağlık işleri eskisi gibi idare olunur.
 
 **Madde 1 –** Sağlık merkezlerinde bulunan taşıtlar:
 
-a) Merkezde veya köylerde bulunup acilen nakli icabeden ve başka bir vasıta ile nakli veya mahallinde tedavisi mümkün olmayan hastaların, gebeler veya tehlikeli durum arzeden yaralıların sağlık merkezine naklinde;
+a) Merkezde veya köylerde bulunup acilen nakli icabeden ve başka bir vasıta ile nakli veya mahallinde tedavisi mümkün olmıyan hastaların, gebeler veya tehlikeli durum arzeden yaralıların sağlık merkezine naklinde;
 
 b) Sağlık merkezlerinde ameliyat ve tedavisi mümkün olamıyan ve acil müdahaleyi icap ettiren vakalarla, gebelerin ve tehlikeli durumdaki yaralıların sağlık merkezi baştabipliğince tensip edilecek en yakın hastaneye sevkinde;
 

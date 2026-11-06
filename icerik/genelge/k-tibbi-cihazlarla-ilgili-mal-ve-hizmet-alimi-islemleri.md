@@ -11,6 +11,8 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (dosyamerkez.saglik.gov.tr)"
 kaynak_url: "https://dosyamerkez.saglik.gov.tr/Eklenti/40309/0/tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri-2021-1-sayili-genelgepdf.pdf"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## GENELGE 2021/1
@@ -399,6 +401,8 @@ Görevi:
 
 Tıbbi Cihaz Daimi Özel İhtisas Komisyonu
 
+EK-2
+
 ### TIBBİ CİHAZ BAŞVURU FORMU
 
 İletişim kurulacak yetkili personel bilgileri: Adı Soyadı, Tel, Faks, e-posta
@@ -499,9 +503,17 @@ Hastanenin yatak sayısı; bölüm/klinik yatak sayısı; yıllık acile dâhil 
 
 ### Sayfa 17 / 20
 
+**YILLIK BEKLENEN SARF MALZEMESİ GİDERİNİN CİHAZ BEDELİNE ORANI:** hesaplanarak yazılacaktır.
+
 **C) CİHAZI TALEP EDEN KURUM/KURULUŞUN SAĞLIK/TEKNİK PERSONEL SAYISI**
 
-Toplam uzman hekim sayısı: Talep edilen cihazın/sistemin kurulup çalıştırılacağı kurumdaki toplam personel durumu (sayısı) hakkında bilgi verilecektir. Uzman, asistan doktor, hemşire, sağlık teknikeri/teknisyeni, teknik eleman ve diğerleri sağlık ve teknik personel durumu belirtilir. Bölümdeki: Talep edilen cihazın/sistemin kurulup çalıştırılacağı bölümdeki/klinikteki/servisteki sağlık ve teknik personel durumu.
+**TOPLAM UZMAN HEKİM SAYISI:** Talep edilen cihazın/sistemin kurulup çalıştırılacağı kurumdaki toplam personel durumu (sayısı) hakkında bilgi verilecektir.
+
+**UZMAN, ASİSTAN DOKTOR, HEMŞİRE, SAĞLIK TEKNİKERİ/TEKNİSYENİ, TEKNİK ELEMAN VE DİĞERLERİ**
+
+**BÖLÜMDEKİ:** Talep edilen cihazın/sistemin kurulup çalıştırılacağı bölümdeki/klinikteki/servisteki sağlık ve teknik personel durumu.
+
+**UZMAN, ASİSTAN DOKTOR, HEMŞİRE, SAĞLIK TEKNİKERİ/TEKNİSYENİ, TEKNİK ELEMAN VE DİĞERLERİ**
 
 **D) TALEP EDİLEN CİHAZI KULLANACAK PERSONEL BİLGİLERİ**
 
@@ -561,7 +573,7 @@ Sağlık Hizmetleri Genel Müdürlüğü
 **Tıbbi Cihazlara İlişkin Yetki Grubu Listesi**
 
 **1- Akış, Ağırlık, Uzunluk, Hacim, Sıcaklık, Basınç, Devir, Kuvvet**  
-Temel SI birimleri veya yedek, çevrim ve akış (hava, sıvı, gaz) birimlerinden bir veya birkaçının ölçüldüğü biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+Temel SI birimleri veya devir, çevrim ve akış (hava, sıvı, gaz) birimlerinden bir veya birkaçının ölçüldüğü biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
 
 **2- Analiz Sistemleri**  
 Farklı kimyasal, fiziksel ve biyolojik reaksiyonların sonucuna göre tanı ve teşhise yönelik olarak analiz ve tayin amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
