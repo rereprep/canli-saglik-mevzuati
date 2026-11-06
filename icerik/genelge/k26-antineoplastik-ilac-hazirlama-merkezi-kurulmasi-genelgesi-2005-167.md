@@ -2,7 +2,7 @@
 id: "k26-antineoplastik-ilac-hazirlama-merkezi-kurulmasi-genelgesi-2005-167"
 baslik: "Antineoplastik İlaç Hazırlama Merkezi Kurulması Hakkında Genelge (2005/167)"
 tur: "genelge"
-tarih: "2005"
+tarih: "2005-11-09"
 sayi: "2005/167"
 birim: "Tedavi Hizmetleri Genel Müdürlüğü"
 konu: "Kemoterapi ilaçlarının güvenli hazırlanması için hastanelerde antineoplastik ilaç hazırlama merkezlerinin kurulmasını düzenler."

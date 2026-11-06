@@ -2,7 +2,7 @@
 id: "k26-tibbi-cihazlarin-planlanmasi-ve-teminine-iliskin-usul-ve-esaslar-genelgesi-2025-8"
 baslik: "Tıbbi Cihazların Planlanması ve Teminine İlişkin Usul ve Esaslar Genelgesi (2025/8)"
 tur: "genelge"
-tarih: "2025"
+tarih: "2025-09-04"
 sayi: "2025/8"
 birim: "Sağlık Bakanlığı"
 konu: "Bakanlığa bağlı sağlık tesislerinde tıbbi cihaz planlaması, temini ve cihaz başına planlama ölçütlerini düzenler; 2022/2 sayılı genelgeyi yürürlükten kaldırır."
