@@ -1,5 +1,18 @@
 ---
-
+id: "sb-kutanoz-leishmaniasis-genelgesi-2003-126"
+baslik: "Kutanöz Leishmaniasis Genelgesi (2003/126)"
+tur: "genelge"
+sayi: "2003/126"
+tarih: "2003-10-24"
+birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
+konu: "Kutanöz Leishmaniasis (şark çıbanı) olgularında tanı, tedavi yaklaşımı ve kontrol programı ilkelerini düzenler."
+etiketler: ["leishmaniasis", "şark çıbanı", "paraziter hastalıklar", "bulaşıcı hastalıklar"]
+kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 613-616"
+durum: "yürürlükte"
+ocr: true
+duzeltildi: true
+kontrol_edildi: true
+---
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
