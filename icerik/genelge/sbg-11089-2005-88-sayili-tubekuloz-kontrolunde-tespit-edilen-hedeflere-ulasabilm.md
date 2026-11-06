@@ -9,130 +9,52 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ---
 
-,,' "
+T. C.
+SAĞLIK BAKANLIĞI
+Verem Savaşı Daire Başkanlığı
 
---" '
+Sayı: B100VSD0000071-9710/5498                                      ANKARA
+Konu: İllerde Tüberküloz Kontrolü
 
-~ -'7
+GENELGE
+2005/88
 
-### T.C. SAGLlK BAKANllGI
+Dünya Sağlık Örgütü’nün hesaplamalarına göre Dünya’da her yıl 8 milyon kişi tüberküloza yakalanmakta ve 2 milyon kişi bu nedenle hayatını kaybetmektedir. Bu rakamlar hastalığın daha uzun yıllar Dünya için tehdit oluşturacağına işaret etmektedir.
 
-,
+Türkiye’de yıllık tüberküloz (TB) görülme sıklığı yüzbinde 25 civarında olup, bu rakam Dünya genelindeki yüzbinde 130 civarında olan TB insidansının altındadır. Bu veriye göre ülkemiz bu hastalığın orta sıklıkta görüldüğü ülkeler içinde yer almaktadır.
 
-Verem Savasi Daire Baskanligi "
+Yurdumuzda tüberkülozun durumunu belirleyen kriterleri incelediğimizde şunlar görülmektedir: Tedavi başarı oranı %78’den %83’e ulaşmıştır. Ancak bunun en az %85 seviyesine çıkarılması gerekmektedir. Bakteriyolojik muayene yapılan tüberkülozlu hasta oranı %35’den %67’ye yükselmiştir. Ancak bu oranın %85-90 gibi bir seviyeye ulaşması gerekmektedir. Primer ilaç direnci %3 civarındadır ve uzun süreli bir mücadele ile bu oranın da düşürülmesi gereklidir.
 
-' ' G ' ' : ,F~"f '' ,,I "
+Tüberküloz kontrolünde belirlenen hedeflere ulaşabilmek için:
 
-","."r;fQ~, , ~","..
+1- Her seviyede sağlık kuruluşunda hastalıkla mücadele konusunda duyarlı olunması, “Tüberküloz Kontrol Programı”na katkıda bulunulması ve toplumun bu konuda duyarlı hale getirilmesi ve bilinçlendirilmesi;
 
-,i; '.~a~)\)F F .' '
+2- Sağlık ocakları ve diğer “I. Basamak Sağlık Kuruluşları”na başvuranlar içinde semptomu olanların değerlendirilerek tüberküloz olabileceği düşünülenlerin kesin tanı amacıyla verem savaşı dispanserlerine veya göğüs hastalıkları hastanelerine gönderilmesi; bu birimlerden gelen neticelerin dikkatle takip edilmesi;
 
-Sayi: B100VSDOOOO071-9710/ 5li 3i ANKARA
+3- Sağlık ocaklarının bu hastaların tedavileri süresince, verem savaşı dispanserleri ile koordineli bir şekilde, hastaların takipleri ve ilaçlarını gözetim altında kullanmaları konusunda da azami derecede yardımcı olmaları;
 
-Konu: illerde Tüberküloz Kontrolü
+4- “Verem Savaşı Dispanserleri”nin temel görevleri olan tüberküloz tanısının (bakteriyolojik muayeneye dayandırarak) konulması, diğer sağlık kurumlarından bildirimi yapılan hastaların ikamet ettikleri yerlerin bulunarak kendilerinin ve yakın çevresindeki temaslıların araştırılması, tüberküloz tanısı alan hastaların tedavilerinin yakın kontrol altında yapılması, aile bireylerinin periyodik kontrollerinin gerçekleştirilmesi, tüberkülozlu hastaların tedavilerini aksatmalarının önlemek amacıyla “gözetim altında tedavi planlaması” yapılması, “sağlık ocakları ve hastaneler” ile işbirliği içinde çalışılması, hastalanma ihtimali yüksek olan kişilere koruyucu ilaç tedavisinin uygulanması;
 
-### GENELGE 2005/.18
+5- İhtiyacı olan veremli hastalara yardım yapabilecek; tüm sosyal dayanışma kuruluşları ile işbirliği yapılması;
 
-Dünya Saglik Örgütü'nün hesaplamalarina göre Dünya'da her yil 8 milyon kisi
+6- Her sağlık ünitesinde tespit edilen veremli hastaların bildirimi 1593 sayılı Umumi Hıfzıssıhha Kanununun 113-114-115-116 maddelerine göre zorunlu olup, bu bildirimlerin yapılmaması durumunda ilgililerin uyarılarak gerektiğinde bildirim yapmayanlar hakkında yasal işlem uygulanması;
 
-### tüberküloza yakalanmakta ve 2 milyon kisi bu nedenle hayatini kaybetmektedir. Bu rakamlar hastaligin daha uzun yillar Dünya için tehdit olusturacagina isaret
+7- İllerimizde İl Sağlık Müdürü, Bulaşıcı Hastalıklar Şube Müdürü, İl Tüberküloz Koordinatörü, varsa Göğüs Hastalıkları Hastanesi ve Üniversite temsilcilerinden oluşan bir kurulun her 3 ayda bir toplanarak tüberküloz mücadelesi için yürütülen hizmetlerin değerlendirmesi ve sonucun bir rapor ile Sağlık Bakanlığı’na bildirilmesi;
 
-/' etmektedir.
+8- Bölge Tüberküloz Laboratuvarı olan illerde bu laboratuvarların personel eksikliklerinin giderilerek çalışma kapasitesinin arttırılması;
 
-Türkiye'de yillik tüberküloz (TB) görülme sikligi yüzbinde 25 civarinda olup, bu
+9- Bu laboratuvarların olmadığı yerlerde illerdeki Hıfzıssıhha Laboratuvarları veya Halk Sağlığı Laboratuvarlarının tüberküloz kültürü yapabilecek duruma getirilmesi;
 
-rakam Dünya genelindeki yüzbinde 130 civarinda olan TB insidansinin altindadir. Bu
+10- Verem Savaşı Dispanserindeki personel sayısının görülen hizmeti aksatmayacak seviyede olmasının sağlanması;
 
-veriye göre ülkemiz bu hastaligin orta siklikta görüldügü ülkeler içinde yer almaktadir.
+11- Klinik ve bakteriyolojik durumları nedeniyle Göğüs Hastalıkları Hastanelerinde yatarak tedavisi gereken hastaların tedavilerinin yapılması konusunda gerekli titizliğin gösterilmesi gerekmektedir.
 
-Yurdumuzda tüberkülozun durumunu belirleyen kriterleri inceledigimizde'
+Bu hususlara azami derecede dikkat edilerek neticeden bilgi verilmesini önemle rica ederim.
 
-sunlar görülmektedir: Tedavi basari orani %78'den %83'e ulasmistir. Ancak bunun
+Uz. Dr. Cihanser EREL
+Müsteşar V.
 
-en az %85 seviyesine çikarilmasi gerekmektedir. Bakteriyolajik muayene yapilan
-
-tüberkülozlu hasta orani %35'den %67'ye yükselmistir. Ancak bu oranin %85-90 gibi
-
-bir seviyeye ulasmasi gerekmektedir. Primer ilaç direnci %3 civarindadir ve uzun
-
-süreli bir mücadele ile bu oranin da düsürülmesi gereklidir.
-
-### Tüberküloz kontrolünde belirlenen hedeflere ulasabilmek için:
-
-1- Her seviyede saglik kurulusunda hastalikla mücadele konusunda duyarli olunmasi, '-'
-
-"Tüberküloz Kontrol Programi"na katkida bulunulmasi ve toplumun bu konuda duyarli
-
-hale getirilmesi ve bilinçlendirilmesi;
-
-2- Saglik ocaklari ve diger "i. Basamak Saglik Kuruluslari"na basvuranlar içinde
-
-semptomu olanlarin degerlendirilerek tüberküloz olabilecegi düsünülenlerin kesin tani
-
-amaciyla verem savasi dispanserlerine veya gögüs hastaliklari hastanelerine
-
-gönderilmesi; bu birimlerden gelen neticelerin dikkatle takip edilmesi; i' '--V~ ,
-
-gerçeklestirilmesi, tüberkülozlu hastalarin tedavilerini aksatmalarinin önlemek
-
-amaciyla "gözetim altinda tedavi planlamasi" yapilmasi, "saglik ocaklari ve
-
-hastaneler" ile isbirligi içinde çalisilmasi, hastalanma ihtimali yüksek olan kisilere
-
-koruyucu ilaç tedavisinin uygulanmasi;
-
-5- ihtiyaci olan veremli hastalara yardim yapabilecek; tüm sosyal dayanisma
-
-kuruluslari ile isbirligi yapilmasi;
-
-6- Her saglik ünitesinde tespit edilen veremli hastalarin bildirimi 1593 sayili Umumi
-
-Hifzissihha Kanununun 113-114-115-116 maddelerine göre zorunlu olup, bu
-
-bildirimlerin yapilmamasi durumunda ilgililerin uyarilarak gerektiginde bildirim
-
-yapmayanlar hakkinda yasal islem uygulanmasi;
-
-7- illerimizde ii Saglik Müdürü, Bulasici Hastaliklar Sube Müdürü, ii Tüberküloz
-
-Koordinatörü, varsa Gögüs Hastaliklari Hastanesi ve Üniversite temsilcilerinden
-
-olusan bir kurulun her 3 ayda bir toplanarak tüberküloz mücadelesi için yürütülen
-
-hizmetlerin degerlendirmesi ve sonucun bir rapor ile Saglik Bakanligi'na bildirilmesi; v
-
-8- Bölge Tüberküloz Laboratuvari olan illerde bu laboratuvariarin personel
-
-eksikliklerinin giderilerek çalisma kapasitesinin arttirilmasi;
-
-9- Bu laboratuarlarin olmadigi yerlerde illerdeki Hifzissihha Laboratuvariari veya Halk
-
-10- Verem Savasi Dispanserindeki personel sayisinin görülen hizmeti aksatmayacak
-
-seviyede olmasinin saglanmasi;
-
-11- Klinik ve bakteriyalojik durumlari nedeniyle Gögüs Hastaliklari Hastanelerinde
-
-yatarak tedavisi gereken hastalarin tedavilerinin yapilmasi konusunda gerekli titizligin
-
-gösterilmesi gerekmektedir.
-
-Bu hususlara azami derecede dikkat edilerek neticeden bilgi verilmesini
-
-önemle rica ederim. ' /
-
-D.t,~~
-
-Uz.Dr.Cihanser EREL
-
-Müstesar V.
-
-### DAGITIM:
-
-APiani
+DAĞITIM:
+A Planı
 
 ---
-
-**Dipnotlar**
-
-<small>3- Saglik ocaklarinin bu hastalarin tedavileri süresince, verem savasi dispanserleri ile koordineli bir sekilde, hastalarin takipleri ve ilaçlarini gözetim altinda kullanmalari konusunda da azami derecede yardimci olmalari; 4- "Verem Savasi Dispanserleri"nin temel görevleri olan tüberküloz tanisinin (bakteriyolajik muayeneye dayandirarak) konulmasi, diger saglik kurumlarindan bildirimi yapilan hastalarin ikamet ettikleri yerlerin bulunarak kendilerinin ve yakin çevresindeki temaslilarin arastirilmasi, tüberküloz tanisi alan hastalarin tedavilerinin yakin kontrol altinda yapilmasi, aile bireylerinin periyodik kontrollerinin Sagligi Laboratuvarlarinin tüberküloz kültürü yapabilecek duruma getirilmesi; . ~ ,</small>

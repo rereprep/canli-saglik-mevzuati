@@ -9,44 +9,32 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ---
 
-T.C.
+T. C.
 
-SAGLlKBAKANllGI
+SAĞLIK BAKANLIĞI
 
-Verem Savasi Daire Baskanligi
+Verem Savaşı Daire Başkanlığı
 
-### ANKARA Sayi: B100VSDOOOOOO71-971015Lfö3
+ANKARA
 
-Konu :Personel görevlendirilmesi.
+20 Mayıs 2004
 
--
+Sayı : B100VSD00000071-9710/5469
 
-### < GENELGE
+Konu : Personel görevlendirilmesi
 
-2004/$-.j
+GENELGE
 
-Bilindigiüzere, Verem Savas i Dispanserleri bölgedeki verem hastaliginin '--" kontrolünden sorumlu olup, bölge halkina koruyucu ve tedavi edici hizmetleri
+2004/73
 
-düzenli olarak götürmek zorundadir. .
+Bilindiği üzere, Verem Savaşı Dispanserleri bölgedeki verem hastalığının kontrolünden sorumlu olup, bölge halkına koruyucu ve tedavi edici hizmetleri düzenli olarak götürmek zorundadır.
 
-Bu özel hizmetin yerine getirilmesi ve dispanserlerdeki saglik hizmetlerinin
+Bu özel hizmetin yerine getirilmesi ve dispanserlerdeki sağlık hizmetlerinin daha verimli yürütülebilmesi için buralarda görevli olan sağlık ve yardımcı sağlık personelinin belirli seviyede bilgi, deneyim ve tecrübe olması gerekmektedir.
 
-daha verimliyürütülebilmesi için buralarda görevli olan saglik ve yardimci saglik
+Bu nedenle, bu hizmetin aksamaması için dispanserlerde çalışan sağlık ve yardımcı sağlık personelinin, diğer sağlık kuruluşlarınıza tayin ve görevlendirmeleri yapılırken Daire Başkanlığımızın görüşünün alınması hususuna titizlikle uyulması gereğini önemle rica ederim.
 
-### personelinin belirliseviyede bilgi,deneyim ve tecrübe olmasi gerekmektedir.
+Uz. Dr. Cihanser EREL
 
-Bu nedenle, bu hizmetin aksamamasi için dispanserlerde çalisan saglik ve
-
-yardimci saglik personelinin, diger saglik kuruluslariniza tayin ve görevlendirmeleri
-
-yapilirken Daire Baskanligimizin görüsünün alinmasi hususuna titizlikleuyulmasi
-
-geregini önemle rica ederim. '--./
-
-...--
+Müsteşar V.
 
 ---
-
-**Dipnotlar**
-
-<small>UZ.Dr.~Rff -. Müstesar V.</small>
