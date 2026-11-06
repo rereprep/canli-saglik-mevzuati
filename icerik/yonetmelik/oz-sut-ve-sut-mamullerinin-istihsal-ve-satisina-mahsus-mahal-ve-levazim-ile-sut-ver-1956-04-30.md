@@ -9,6 +9,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/arsiv/9297.pdf"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur."
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+kontrol_edildi: true
 ---
 
 «Süt ve mamullerinin istihsal ve satışına mahsus mahal ve levazım ile süt veren hayvanların yaşadıkları ve sağıldıkları yerlerin sıhhi şartlarının tesbitine dair ilişik Talimatname» nın mer'iyete konulması, Sıhhat ve içtimai Muavenet Vekâletinin 7/1/1956 tarihli ve 152 sayılı yazısı üzerine, icra Vekilleri Heyetince 27/3/1956 tarihinde kararlaştırılmıştır 
@@ -17,13 +19,15 @@ REİSİCUMHUR C. BAYAR Başvekil Devlet Vekili Devlet Vekili Devlet Vekili Devle
 
 
 
+## Süt ve mamullerinin istihsal ve satışına mahsus mahal ve levazım ile süt veren hayvanların yaşadıkları ve sağıldıkları yerlerin sıhhi şartlarının tesbitine dair Talimatname
+
 ### Umumi hükümler 
 
 **Madde 1 –** Şehir ve kasabalarda sütlerin istihsal edildikleri yerler, süt toplama merkezleri, tereyağ, kaymak, yoğurt ve peynir imal yerlerinin işletmeye açılabilmesi için bina teşkilât ve tesisatında mahallî sıhhat, ziraat, veteriner ve diğer ilgili teşkilât tarafından yapılacak tetkikler sonunda çalışmasında bir mahzur olmadığı anlaşıldıktan sonra faaliyete geçmesine mahallî belediyesi tarafından müsaade verilir. 
 
 **Madde 2 –** Süt müstahsil ve satıcıları mahallî belediyelerden bu işle uğraşabileceğine dair müsaade almağa mecburdur 
 
-**Madde 8 –** Süt istihsal edilen ve mamulleri yapılan yerlerde bulaşıcı hastalıklardan birine musap veya portör olan veya halkın istikrah ve nefretini mucip bir cilt hastalığına duçar olan kimselerin çalışmaları yasaktır. 
+**Madde 3 –** Süt istihsal edilen ve mamulleri yapılan yerlerde bulaşıcı hastalıklardan birine musap veya portör olan veya halkın istikrah ve nefretini mucip bir cilt hastalığına duçar olan kimselerin çalışmaları yasaktır. 
 
  
 
@@ -39,13 +43,9 @@ REİSİCUMHUR C. BAYAR Başvekil Devlet Vekili Devlet Vekili Devlet Vekili Devle
 
 **Madde 9 –** Süt istihsal edilen ve mamulleri yapılan yerlerde gıda nizamnamesine uygun evsafta temiz su bulunması mecburidir. 
 
-**Madde 
+**Madde 10 –** Süt mamulleri yapılan yerlerin yakınlarına gübre ve süprüntü atılmaması ve bu gibi yerler ahır ve ağıllar gibi fena kokulu yerlerin yanlarında inşa edilmemelidir. 
 
-**Madde 10 –** ** — Süt mamulleri yapılan yerlerin yakınlarına gübre ve süprüntü atılmaması ve bu gibi yerler ahır ve ağıllar gibi fena kokulu yerlerin yanlarında inşa edilmemelidir. 
-
-**Madde 
-
-**Madde 11 –** ** — Sütlerin istihsali ve süt mamullerinin yapılması için evvelce açılmasına müsaade edilen mahallerin zamanla matlûp vasıf ve şartları kaybederek veya talimatname hükümlerine riayet etmiyerek istihsalât ve İmalâta elverişli yer olmaktan çıkmaları halinde verilen müsaade belediye tarafından geri alınır. Bu yerlerde çalışan kimselerin bilâhare bu gibi işleri yapmalarına engel teşkil edecek halleri zuhur ederse, bunlar hakkındaki müsaadename de aynı şekilde istirdat olunur. 
+**Madde 11 –** Sütlerin istihsali ve süt mamullerinin yapılması için evvelce açılmasına müsaade edilen mahallerin zamanla matlûp vasıf ve şartları kaybederek veya talimatname hükümlerine riayet etmiyerek istihsalât ve İmalâta elverişli yer olmaktan çıkmaları halinde verilen müsaade belediye tarafından geri alınır. Bu yerlerde çalışan kimselerin bilâhare bu gibi işleri yapmalarına engel teşkil edecek halleri zuhur ederse, bunlar hakkındaki müsaadename de aynı şekilde istirdat olunur. 
 
 
 
@@ -85,7 +85,9 @@ I - Ahır ve sağım yerlerinin duvarları senede en az bir defa badanalanmalıd
 
 
 
-### Süt toplama merkezleri 26 Sütlerin şehir hudutları dahilindeki müstehliklere arzından evvel muayyen merkezlerde toplanıp kontroldan geçirilmeleri mecburidir Bu toplama merkezleri şehir kenarında kurulmalıdır. 
+### Süt toplama merkezleri
+
+**Madde 26 –** Sütlerin şehir hudutları dahilindeki müstehliklere arzından evvel muayyen merkezlerde toplanıp kontroldan geçirilmeleri mecburidir. Bu toplama merkezleri şehir kenarında kurulmalıdır. 
 
 **Madde 27 –** Süt toplama depoları şu kısımları ihtiva eder: a) Sütün muayene ve kabul edileceği yer. b) Süte zarar vermiyecek bir maddeden yapılmış tank Veya buna benzer bir kab bulunan kısım (Sütün depolanacağı kısım) c) Satış kaplarına doldurma kısmı boru ile süt toplama yerindeki tankla birleştirilmiş bulunacaktır. 
 
@@ -223,9 +225,9 @@ I - Ahır ve sağım yerlerinin duvarları senede en az bir defa badanalanmalıd
 
 ### Yoğurt imal yerleri asgari aşağıdaki kısımları ihtiva etmelidir a) Yoğurt imali için gelen sütlerin toplama süzme ve pişirme yeri b) Yoğurt mayalama yeri c) Kirli kablann ve diğer eşyanın temizlenme yeri 
 
-**Madde 72 –** Süt pişirme yerinde hararet, odun veya. diğer duman yapan mahrukat ile temin ediliyorsa, baca dumanları iyi çekebilecek şekilde yapılmalı ve bu yerde havalandırma tertibatı bulunmalıdır azete) 
+**Madde 72 –** Süt pişirme yerinde hararet, odun veya. diğer duman yapan mahrukat ile temin ediliyorsa, baca dumanları iyi çekebilecek şekilde yapılmalı ve bu yerde havalandırma tertibatı bulunmalıdır. 
 
-**Madde 78 –** Sütler pişirme kazanlarına sık tülbentle süzülerek konulmalı ve pişirme esnasında Hususi bir paletli tertibat ile karıştırılmalı ve bu iş insan tarafından doğrudan doğruya yapılmamalıdır. 
+**Madde 73 –** Sütler pişirme kazanlarına sık tülbentle süzülerek konulmalı ve pişirme esnasında Hususi bir paletli tertibat ile karıştırılmalı ve bu iş insan tarafından doğrudan doğruya yapılmamalıdır. 
 
 **Madde 74 –** Yoğurt yapılacak sütler asgari 100 derecede yarım saat pişirilmeli ve mayalama sühunetinde mayalanmalıdır. 
 
@@ -233,7 +235,7 @@ I - Ahır ve sağım yerlerinin duvarları senede en az bir defa badanalanmalıd
 
 **Madde 76 –** Mayalama odaları ve diğer (kısımların zeminleri mozayık veya buna benzer maddelerden yıkama sularını kolayca akıtabilecek şekilde meyilli yapılmalıdır. 
 
-**Madde 77 –** >- Mayalama esnasında yoğurtlar üzerine örtülen bezlerin temiz bulundurulması mecburidir. 
+**Madde 77 –** Mayalama esnasında yoğurtlar üzerine örtülen bezlerin temiz bulundurulması mecburidir. 
 
 **Madde 78 –** Temizlik kısmında temizlik için lâzım olan tertibat bulunmalı ve kapların sularının süzülmelerini temin isin ızgaralı yerler bulunmalıdır. 
 
