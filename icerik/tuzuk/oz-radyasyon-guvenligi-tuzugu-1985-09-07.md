@@ -10,19 +10,23 @@ kaynak_url: "https://www.resmigazete.gov.tr/arsiv/18861.pdf"
 not: "Ek IV: Sağlıkla ilgili tüzükler."
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+kontrol_edildi: true
 ---
 
 ### RADYASYON GÜVENLİĞİ TÜZÜĞÜ
 
-BİRİNCİ KISIM Genel Hükümler
+### BİRİNCİ KISIM — Genel Hükümler
 
-BİRİNCİ BÖLÜM Kapsam, Terimler ve Kısaltmalar Kapsam
+### BİRİNCİ BÖLÜM — Kapsam, Terimler ve Kısaltmalar
 
-**Madde 1 –** İyonlaştırıcı radyasyon kaynaklarını bulunduran, kullanan, imal, ithal ve İhraç eden, alan, satan, taşıyan ve depolayan, resmi, özel kurum ve kuruluşlar ve gerçek kişilerce uyulması gereken kurallar bu Tüzükte gösterilmiştir. özgül aktivitesl gram başına 0.002 mikrocurie (kilogram basma 74 kilo Recquerel) den daha az olan radyoaktif maddeler bu Tüzüğün kapsamı dışındadır.
+Kapsam
+
+**Madde 1 –** İyonlaştırıcı radyasyon kaynaklarını bulunduran, kullanan, imal, ithal ve ihraç eden, alan, satan, taşıyan ve depolayan, resmi, özel kurum ve kuruluşlar ve gerçek kişilerce uyulması gereken kurallar bu Tüzükte gösterilmiştir. Özgül aktivitesi gram başına 0.002 mikrocurie (kilogram başına 74 kilo Becquerel) den daha az olan radyoaktif maddeler bu Tüzüğün kapsamı dışındadır.
 
 Terimler ve kısaltmalar
 
-**Madde 2 –** Bu Tüzükte geçen terimlerin ve kısaltmaların anlamları aşağıda belirtilmiştir :
+**Madde 2 –** Bu Tüzükte geçen terimlerin ve kısaltmaların anlamları aşağıda belirtilmiştir:
 
 A — İyonlaştırıcı radyasyonlar, maddesel ortamdan geçerken onunla etkileşerek iyon çiftleri oluşturabilen X ışını, gamma ışını gibi elektromanyetik ışınlarla, kinetik enerjileri olan yüklü parçacıklar, ağır iyonlar ve serbest nötronlar gibi tanecik karakterli ışınımlardır.
 
@@ -30,13 +34,13 @@ Ses dalgalarıyla, elektromanyetik spektrumun morötesi ve daha büyük dalga bo
 
 Bu Tüzükte İyonlaştırıcı radyasyon terimi yerine radyasyon sözcüğü kullanılmıştır.
 
-B — Radyoaktivite birimleri, Curie (Ci) ve Becquerel (Bq) dir :
+B — Radyoaktivite birimleri, Curie (Ci) ve Becquerel (Bq) dir:
 
-1 i— 1 Curie, saniyede 3,7xl010 parçalanma veren radyoaktif madde miktarıdır.
+1 — 1 Curie, saniyede 3,7 × 10¹⁰ parçalanma veren radyoaktif madde miktarıdır.
 
 2 — 1 Becquerel, saniyede bir parçalanma veren radyoaktif madde miktarıdır.
 
-1 Becquerel, 2,7xl0-n Curiedir.
+1 Becquerel, 2,7 × 10⁻¹¹ Curiedir.
 
 C — Rem (rem), radyasyon korunmasında kullanılan biyolojik eşdeğer doz birimi olup, soğurulan dozla kalite faktörünün çarpımına eşittir.
 
@@ -46,15 +50,19 @@ D — Radyasyon kaynağı, iyonlaştırıcı radyasyon yayınlayan radyoaktif ma
 
 E — Radyoaktif maddeler, bir veya birden çok iyonlaştırıcı radyasyon yayınlayarak çekirdekleri kendiliğinden bozunmaya uğrayan bir izotopu, alaşım, karışım, çözelti veya bileşik olarak içeren maddelerdir.
 
-F — Radyasyon yayıcı aygıtlar, bir veya birkaç tür iyonlaştıncı radyasyonu, belirli güvenlik önlemleri içerisinde ve denetim altında yaymak amacıyla yapılmış olan ve radyoaktif madde içeren aygıtlardır.
+F — Radyasyon yayıcı aygıtlar, bir veya birkaç tür iyonlaştırıcı radyasyonu, belirli güvenlik önlemleri içerisinde ve denetim altında yaymak amacıyla yapılmış olan ve radyoaktif madde içeren aygıtlardır.
 
 G — Radyasyon üretici aygıtlar, elektriksel, elektronik manyetik veya elektromekanik yöntemlerden biriyle yüklü parçacık veya ağır iyonları hızlandırarak belirli güvenlik önlemleri içerisinde ve denetim altında İyonlaştırıcı radyasyon üretmek üzere yapılmış röntgen makinaları, betatron, lineer akseleratör, siklotron ve nötron jeneratörü gibi aygıtlardır.
 
-H — özgül aktivite, bir radyoaktif maddenin 1 gramlık kütlesinin Curie veya 1 kilogramlık kütlesinin Mecquerel cinsinden ifade edilen aktivite yoğunluğudur.
+H — Özgül aktivite, bir radyoaktif maddenin 1 gramlık kütlesinin Curie veya 1 kilogramlık kütlesinin Mecquerel cinsinden ifade edilen aktivite yoğunluğudur.
 
-1 — Denetimli alanlar, radyasyon güvenliği bakımından giriş ve çıkışların özel denetime ve içerisindeki çalışmaların özel kuralları bağlı olduğu alanlardır.
+I — Denetimli alanlar, radyasyon güvenliği bakımından giriş ve çıkışların özel denetime ve içerisindeki çalışmaların özel kurallara bağlı olduğu alanlardır.
 
-J — Radyasyon alanları, içinde çalışan kişilerin iyonlaştırıcı radyasyonlara maruz kaldığı alanlardır. Bunlar maruz kalınan ışınlama düzeyine göre, 1. Yıllık ışınlamaların doz eşdeğer sınırlarının onda üçünü geçebileceği «çalışma durumu A alanları.» Yürütme ve İdare Bölümü Sayfa : 2 2 — Yıllık ışınlamaların doz eşdeğer sınırlarının onda üçünün aşılmasının hiç beklenmediği «çalışma durumu B alanları» olmak üzere ikiye ayrılır.
+J — Radyasyon alanları, içinde çalışan kişilerin iyonlaştırıcı radyasyonlara maruz kaldığı alanlardır. Bunlar maruz kalınan ışınlama düzeyine göre,
+
+1. Yıllık ışınlamaların doz eşdeğer sınırlarının onda üçünü geçebileceği «çalışma durumu A alanları»;
+
+2. Yıllık ışınlamaların doz eşdeğer sınırlarının onda üçünün aşılmasının hiç beklenmediği «çalışma durumu B alanları» olmak üzere ikiye ayrılır.
 
 K — Radyasyon görevlisi, sürekli olarak denetimli alanlarda veya radyasyon kaynaklarıyla çalışan kişidir.
 
@@ -68,29 +76,53 @@ N — Kurum, Türkiye Atom Enerjisi Kurumu anlamına gelir.
 
 Tüzükte kullanılan diğer terimlerin anlamları, Nükleer Tanımlar Yönetmeliğinde belirtilir.
 
-İKİNCİ BÖLÜM Görevler ve Yetkiler Hizmetlerin yürütülmesi
+### İKİNCİ BÖLÜM — Görevler ve Yetkiler
+
+Hizmetlerin yürütülmesi
 
 **Madde 3 –** Radyasyon güvenliğine ilişkin hizmetler, Radyasyon Sağlığı ve Güvenliği Dairesince yürütülür.
 
 Görevler ve yetkiler
 
-**Madde 4 –** Radyasyon Sağlığı ve Güvenliği Dairesinin görevleri şunlardır :
+**Madde 4 –** Radyasyon Sağlığı ve Güvenliği Dairesinin görevleri şunlardır:
 
-A — Radyasyon güvenliğine ilişkin ilke, mevzuat, standart ve tedbirleri belirlemek üzere çalışmalar yapmak ve bunların uygulanmalarım sağlamak, B — Radyasyon kaynaklarına ve bu kaynaklan bulunduran, kullanan, İmal, İthal ve ihraç eden, alan, satan, taşıyan ve depolayan resmi, özel kurum ve kuruluşlara ve gerçek kişilere lisans vermek, lisans koşullarına aykırı durumlarda lisanslarım geçici veya sürekli olarak iptal etmek, gerekirse, aygıt ve tesisin kapatılmasına karar vermek ve yasal kovuşturmaya geçilmesi için ilgili makamlara duyuruda bulunmak, C — Radyasyon kaynaklarının Ülkeye giriş, çıkış, transit geçiş ve taşınmalarına izin vermek, D — Bu Tüzük kapsamına giren işleri, radyasyon alanlarını, radyasyon güvenliği bakımından sınıflandırmak ve denetlemek, E — Radyasyon kaynaklarıyla çalışanları ve toplumu, radyasyon tehlikelerinden korumak amacıyla, gerekli tedbirleri almak, alınmasını sağlamak, F — Çevrenin radyoaktif artıklarla ve radyoaktif yağışlarla kirlenmesini engellemek amacıyla gerekli tedbirleri almak, alınmasını sağlamak, G — Radyasyon kazası halinde, alınması gerekli tedbirleri belirlemek ve uygulanmasını sağlamak, H — Radyasyon güvenliği için ilgili bakanlık ve kuruluşlarla işbirliği yapmak, 1 — Radyasyon güvenliği konusunda araştırma, eğitim ve yayınlar yapmak ve bu konularda, ilgili kuruluşlarla ortak çalışmalarda bulunmak.
+A — Radyasyon güvenliğine ilişkin ilke, mevzuat, standart ve tedbirleri belirlemek üzere çalışmalar yapmak ve bunların uygulanmalarını sağlamak,
 
-İKİNCİ KISIM Temel Standartlar, Lisans, İzin, Denetim
+B — Radyasyon kaynaklarına ve bu kaynakları bulunduran, kullanan, imal, ithal ve ihraç eden, alan, satan, taşıyan ve depolayan resmi, özel kurum ve kuruluşlara ve gerçek kişilere lisans vermek, lisans koşullarına aykırı durumlarda lisanslarını geçici veya sürekli olarak iptal etmek, gerekirse, aygıt ve tesisin kapatılmasına karar vermek ve yasal kovuşturmaya geçilmesi için ilgili makamlara duyuruda bulunmak,
 
-BİRİNCİ BÖLÜM Temel Standartlar Radyasyon güvenliği temel standartları
+C — Radyasyon kaynaklarının Ülkeye giriş, çıkış, transit geçiş ve taşınmalarına izin vermek,
 
-**Madde 5 –** Radyasyon güvenliğine ilişkin İlke ve tedbirler aşağıda belirtilen radyasyon korunması temel standartlarına göre düzenlenir :
+D — Bu Tüzük kapsamına giren işleri, radyasyon alanlarını, radyasyon güvenliği bakımından sınıflandırmak ve denetlemek,
 
-Yürütme ve İdara Bölümü Sayfa : 3 A — Görevi gereği, radyasyon kaynaklarıyla çalışan veya radyasyona maruz kalan kişilerin, iç ve dış radyasyon kaynaklarından bütün vücutlarının alacağı yıllık doz 5 remi geçmeyecektir B — Radyasyon görevli3i sayılmayan kişilerin ve toplumdaki diğer kişilerin maruz kalacakları iç ve dış radyasyonun dozları toplamı, bütün vücut için, yılda 0,5 remi geçmeyecektir.
+E — Radyasyon kaynaklarıyla çalışanları ve toplumu, radyasyon tehlikelerinden korumak amacıyla, gerekli tedbirleri almak, alınmasını sağlamak,
+
+F — Çevrenin radyoaktif artıklarla ve radyoaktif yağışlarla kirlenmesini engellemek amacıyla gerekli tedbirleri almak, alınmasını sağlamak,
+
+G — Radyasyon kazası halinde, alınması gerekli tedbirleri belirlemek ve uygulanmasını sağlamak,
+
+H — Radyasyon güvenliği için ilgili bakanlık ve kuruluşlarla işbirliği yapmak,
+
+I — Radyasyon güvenliği konusunda araştırma, eğitim ve yayınlar yapmak ve bu konularda, ilgili kuruluşlarla ortak çalışmalarda bulunmak.
+
+### İKİNCİ KISIM — Temel Standartlar, Lisans, İzin, Denetim
+
+### BİRİNCİ BÖLÜM — Temel Standartlar
+
+Radyasyon güvenliği temel standartları
+
+**Madde 5 –** Radyasyon güvenliğine ilişkin ilke ve tedbirler aşağıda belirtilen radyasyon korunması temel standartlarına göre düzenlenir:
+
+A — Görevi gereği, radyasyon kaynaklarıyla çalışan veya radyasyona maruz kalan kişilerin, iç ve dış radyasyon kaynaklarından bütün vücutlarının alacağı yıllık doz 5 remi geçmeyecektir.
+
+B — Radyasyon görevlisi sayılmayan kişilerin ve toplumdaki diğer kişilerin maruz kalacakları iç ve dış radyasyonun dozları toplamı, bütün vücut için, yılda 0,5 remi geçmeyecektir.
 
 Yaş sınırlaması
 
 **Madde 6 –** 18 yaşından küçükler, bu Tüzük kapsamına giren işlerde çalıştırılamazlar.
 
-İKINCI BÖLÜM Lisans Lisansa bağlı işler
+### İKİNCİ BÖLÜM — Lisans
+
+Lisansa bağlı işler
 
 **Madde 7 –** Bu Tüzük kapsamına giren radyasyon kaynaklarının bulundurulması, kullanılması, imal, ithal ve ihraç edilmesi, alınması, satılması, taşınması, depolanması ve radyasyon kaynaklarıyla çalışılabilmesi, Kurumca verilecek lisansa bağlıdır.
 
@@ -98,15 +130,25 @@ Bu işler, diğer bakanlık ve kuruluşlardan da izin, ruhsat veya belge alınma
 
 Lisans türleri
 
-**Madde 8 –** Lisans türleri, aşağıda gösterilmiştir :
+**Madde 8 –** Lisans türleri, aşağıda gösterilmiştir:
 
-A — Radyasyon kaynaklarını bulunduran, kullanan, imal, ithal ve ihraç eden, alan, satan, taşıyan ve depolayan kişilere verilen lisanslar, B — Radyasyon kaynaklarına verilen lisanslar, 1 — Tıpta kullanılan radyasyon kaynaklarına verilen lisanslar, 2 — Sınai veya başka, amaçlarla kullanılan radyasyon kaynaklarına verilen lisanslar, C — Radyasyon kaynaklarının kullanıldığı, depolandığı, imal edildiği, radyoaktif artıkların zararsız hale getirildiği ve benzeri yerlere verilen lisanslar.
+A — Radyasyon kaynaklarını bulunduran, kullanan, imal, ithal ve ihraç eden, alan, satan, taşıyan ve depolayan kişilere verilen lisanslar.
+
+B — Radyasyon kaynaklarına verilen lisanslar:
+
+1 — Tıpta kullanılan radyasyon kaynaklarına verilen lisanslar.
+
+2 — Sınai veya başka amaçlarla kullanılan radyasyon kaynaklarına verilen lisanslar.
+
+C — Radyasyon kaynaklarının kullanıldığı, depolandığı, imal edildiği, radyoaktif artıkların zararsız hale getirildiği ve benzeri yerlere verilen lisanslar.
 
 Lisans başvurusu
 
-**Madde 9 –** Bu Tüzük hükümleri uyarınca lisans alması gereken kişi ve kuruluşlar, aşağıdaki bilgi ve belgeleri ekledikleri bir dilekçeyle Kuruma başvururlar :
+**Madde 9 –** Bu Tüzük hükümleri uyarınca lisans alması gereken kişi ve kuruluşlar, aşağıdaki bilgi ve belgeleri ekledikleri bir dilekçeyle Kuruma başvururlar:
 
-A — Yapacakları iş için yeterli bilgileri bulunduğunu kanıtlayan resmi belge, B — Kurumca verilen ve başvuran tarafından doldurulan lisans başvuru formu.
+A — Yapacakları iş için yeterli bilgileri bulunduğunu kanıtlayan resmî belge.
+
+B — Kurumca verilen ve başvuran tarafından doldurulan lisans başvuru formu.
 
 Bunlar dışında, lisans türüne göre aranacak diğer özel koşullar ve istenecek belgeler, yönetmelikte gösterilir.
 
@@ -116,9 +158,9 @@ Başvurunun değerlendirilmesi
 
 Lisans süresi ve şartları
 
-**Madde 11 –** Lisans, türlerinin gerektirdiği özel tedbirlerinin yanı sıra, aşağıdaki genel şartlarla verilir :
+**Madde 11 –** Lisans, türlerinin gerektirdiği özel tedbirlerinin yanı sıra, aşağıdaki genel şartlarla verilir:
 
-A — Lisans, 5 yıl için geçerlidir. Sürenin bitiminde, 12 ncl madde hükümlerine göre yenilenebilir.
+A — Lisans, 5 yıl için geçerlidir. Sürenin bitiminde, 12 nci madde hükümlerine göre yenilenebilir.
 
 B — Lisansın özel koşullarında, Kurumun yazılı izniyle değişiklik yapılabilir.
 
@@ -126,7 +168,7 @@ C — Lisans devredilemez.
 
 D — 8 inci maddenin ve C bentlerine göre verilen ve kullanılmayacak olan lisansların sahipleri, iptali için kuruma başvurmak zorundadırlar.
 
-Yürütme ve İdare Bölümü Sayfa : 4 Radyasyon kaynaklarını kullananların işten ayrılmaları ve yerlerine alınanlar, bunları çalıştıranlarca Kuruma bildirilir.
+Radyasyon kaynaklarını kullananların işten ayrılmaları ve yerlerine alınanlar, bunları çalıştıranlarca Kuruma bildirilir.
 
 Lisansın yenilenmesi
 
@@ -136,7 +178,9 @@ Lisansın iptali
 
 **Madde 13 –** Kurum uzmanlarınca yapılan denetimler sırasında, lisans koşullarına veya radyasyon güvenliği mevzuatına uyulmadığı belirlenirse, bir rapor düzenlenir. Bu rapor, Radyasyon Sağlığı ve Güvenliği Dairesince değerlendirilir. Raporda belirlenen hususlar yerinde görülürse, eksikliklerin ve sakıncaların giderilmesi için bir süre belirlenerek lisansın geçici olarak iptaline karar verilir. Kurum Başkanlığınca onaylanan karar ilgiliye bildirilir. Verilen süre içinde öngörülen hususların giderilmesi halinde, İptal kararı kaldırılır.
 
-ÜÇÜNCÜ BÖLÜM İzin izne bağlı işler
+### ÜÇÜNCÜ BÖLÜM — İzin
+
+İzne bağlı işler
 
 **Madde 14 –** Radyasyon kaynaklarının taşınması, transit geçişi, ülkeye girişi ve çıkışı, Kurumun yazılı iznine bağlıdır. Bu Tüzük hükümleri uyarınca lisans verilmiş olması izin alma yükümlülüğünü ortadan kaldırmaz.
 
@@ -154,7 +198,7 @@ Radyasyon güvenliği esaslarına aykırı bir durum görülürse, iznin verilme
 
 Taşıma ve transit geçiş izninin koşulları
 
-**Madde 17 –** Taşıma ve transit geçiş izni, yönetmeliğinde belirlenecek özel koşulların yanı sıra, aşağıdaki genel koşullarla verilir :
+**Madde 17 –** Taşıma ve transit geçiş izni, yönetmeliğinde belirlenecek özel koşulların yanı sıra, aşağıdaki genel koşullarla verilir:
 
 A — Kurum uzmanlarınca bir yol belirlenmişse, taşıma bu yol üzerinden yapılacaktır.
 
@@ -162,7 +206,9 @@ B — Araca, radyasyon tehlikesi uyarı işaretleri konulacaktır.
 
 C — Taşıma veya geçiş sırasında meydana gelecek kazalar en hızlı haberleşme aracıyla Kuruma bildirilecek ve Kurum uzmanlarınca öngörülen önlemler derhal alınacaktır.
 
-DÖRDÜNCÜ BÖLÜM Denetim Denetime bağlı işler
+### DÖRDÜNCÜ BÖLÜM — Denetim
+
+Denetime bağlı işler
 
 **Madde 18 –** Çalışma alanları bakımından bu Tüzük kapsamına giren resmi, özel kurum ve kuruluşlar ve gerçek kişiler, Kurumun denetimine bağlıdır.
 
@@ -174,13 +220,15 @@ Yürütme ve İdare Bölümü Sayfa: 5 Denetim esasları
 
 **Madde 19 –** Denetim, haberli veya habersiz olarak her zaman yapılabilir.
 
-Denetim, radyasyon kaynaklarının bulundurulduğu yerlerin fiziksel yönden incelenmesini ve radyasyon düzeylerinin, radyoaktif madde miktarlarının (konsantrasyon) ölçülmesini, radyasyon kaynaklarının Ülkeye girişi, çıkığı, taşınması ve transit geçişi sırasında Tüzük ve yönetmelikte öngörülen esaslara uyulup uyulmadığının incelenmesini kapsar.
+Denetim, radyasyon kaynaklarının bulundurulduğu yerlerin fiziksel yönden incelenmesini ve radyasyon düzeylerinin, radyoaktif madde miktarlarının (konsantrasyon) ölçülmesini, radyasyon kaynaklarının Ülkeye girişi, çıkışı, taşınması ve transit geçişi sırasında Tüzük ve yönetmelikte öngörülen esaslara uyulup uyulmadığının incelenmesini kapsar.
 
 Denetimin ayrıntıları ve ilgililerin denetime ilişkin yükümlülükleri yönetmelikte gösterilir.
 
-ÜÇÜNCÜ KISIM Çeşitli ve Son Hükümler
+### ÜÇÜNCÜ KISIM — Çeşitli ve Son Hükümler
 
-BIRINCI BÖLÜM Çeşitli Hükümler Kayıt tutma yükümlülüğü
+### BİRİNCİ BÖLÜM — Çeşitli Hükümler
+
+Kayıt tutma yükümlülüğü
 
 **Madde 20 –** Çalışma alanları bakımından bu Tüzük kapsamına giren resmi, özel kurum ve kuruluşlar ve gerçek kişiler yönetmeliğinde öngörülen esaslara uygun olarak kayıt tutmakla yükümlüdürler.
 
@@ -192,23 +240,25 @@ Kurum uzmanlarınca, yerinde yapılan inceleme sonucunda, radyasyon güvenliği 
 
 Radyasyon kazaları
 
-**Madde 22 –** Bir radyasyon kazası halinde, lisans ve İzin koşulları gereğince alınması gerekli önlemler sorumlu ve görevlilerce derhal alınır ve durum en hızlı haberleşme aracıyla Kuruma bildirilir.
+**Madde 22 –** Bir radyasyon kazası halinde, lisans ve izin koşulları gereğince alınması gerekli önlemler sorumlu ve görevlilerce derhal alınır ve durum en hızlı haberleşme aracıyla Kuruma bildirilir.
 
-Kurum uzmanlarınca yerinde yapılan inceleme sonucunda, radyasyon güvenliği açısından öngörülen yönergelerin gereği, sözü edilenlerce, derhal yerine getirilir, Bu konularda, gerekirse, ilgili kuruluşların yardımı istenir, onlarla işbirliği yapılır.
+Kurum uzmanlarınca yerinde yapılan inceleme sonucunda, radyasyon güvenliği açısından öngörülen yönergelerin gereği, sözü edilenlerce derhal yerine getirilir. Bu konularda, gerekirse, ilgili kuruluşların yardımı istenir, onlarla işbirliği yapılır.
 
 Radyoaktif yağışlar
 
 **Madde 23 –** Radyoaktif yağışlara ilişkin ölçüm, kayıt ve değerlendirmelerin sonuçları gerektirirse, Kurum, ilgili bakanlık ve kuruluşlarla işbirliği yaparak toplumun ve çevrenin korunması için gerekli önlemlerin alınmasını sağlar.
 
-Radyasyon tesislert plan ve projelerinin incelenmesi
+Radyasyon tesisleri plan ve projelerinin incelenmesi
 
-**Madde 24 –** Radyasyon kaynaklarının kullanılması imal edilmesi, depolanması, radyoaktif artıkların zararsız hale getirilmesi ve benzeri amaçlarla kurulacak tesisler için yapı yapacak olanlar, plan ve projelerini ekledikleri bir dilekçeyle Kuruma başvurmak zorundadırlar. Plan ve projeler radyasyon güvenliği yönünden uygun bulunursa, durum, bunların üzerinde belirtilir. Uygun bulunmazsa, yapılması gerekil değişiklikler ve alınması gerekli tedbirler bir raporla ilgiliye bildirilir. Yapı İzni verilmesi sırasında Kurumun plan ve projelerin radyasyon güvenliği yönünden uygun olduğu yolundaki bildirimi aranır. Tesise, Kurumca lisans verilmesi aşamasında, plan ve projeye veya rapora uyulup uyulmadığı incelenir.
+**Madde 24 –** Radyasyon kaynaklarının kullanılması, imal edilmesi, depolanması, radyoaktif artıkların zararsız hale getirilmesi ve benzeri amaçlarla kurulacak tesisler için yapı yapacak olanlar, plan ve projelerini ekledikleri bir dilekçeyle Kuruma başvurmak zorundadırlar. Plan ve projeler radyasyon güvenliği yönünden uygun bulunursa, durum bunların üzerinde belirtilir. Uygun bulunmazsa, yapılması gerekli değişiklikler ve alınması gerekli tedbirler bir raporla ilgiliye bildirilir. Yapı izni verilmesi sırasında Kurumun plan ve projelerin radyasyon güvenliği yönünden uygun olduğu yolundaki bildirimi aranır. Tesise, Kurumca lisans verilmesi aşamasında, plan ve projeye veya rapora uyulup uyulmadığı incelenir.
 
-IKINCI BÖLÜM Son Hükümler Yönetmelikler
+### İKİNCİ BÖLÜM — Son Hükümler
+
+Yönetmelikler
 
 **Madde 25 –** Bu Tüzükte çıkarılması öngörülen yönetmelikler, Tüzüğün yayımından başlayarak 1 yıl içinde yürürlüğe konur.
 
-Yürütme ve Idare Bölümü Sayfa :6 Geçici Madde — Bu Tüzüğün yürürlüğe girmesinden önce verilmiş olan lisanslar, veriliş tarihlerinden başlayarak 5 yıl süreyle geçerlidir. Süresi dolmuş olan lisansların yenilenmesi için, Tüzüğün yürürlüğe girdiği tarihten bağlayarak 2 yıl içinde Kuruma başvurulması gerekir.
+Geçici Madde — Bu Tüzüğün yürürlüğe girmesinden önce verilmiş olan lisanslar, veriliş tarihlerinden başlayarak 5 yıl süreyle geçerlidir. Süresi dolmuş olan lisansların yenilenmesi için, Tüzüğün yürürlüğe girdiği tarihten başlayarak 2 yıl içinde Kuruma başvurulması gerekir.
 
 Yürürlük
 

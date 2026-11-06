@@ -13,6 +13,8 @@ kaynak: "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler i
 kaynak_url: "https://www.resmigazete.gov.tr/arsiv/21273.pdf"
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+kontrol_edildi: true
 ---
 
 ## Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun
@@ -40,7 +42,7 @@ Birinci fıkradaki miktarı Üç katına kadar artırmaya Bakanlar Kurulu yetkil
 
 ### Temel ilke ve esaslar
 
-**Madde 3 –** a) Bu Kanun kapsamına giren vatandaşlara bu Kanunun öngördüğü tedavi hizmetlerinden hiçbir ücret ve bedel ödemeksizin yararlanmaları amacıyla birer "Yeşil Kart" verilir.
+**Madde 3 –** a) Bu Kanun kapsamına giren vatandaşlara bu Kanunun öngördüğü tedavi hizmetlerinden hiçbir ücret ve bedel ödemeksizin yararlanmaları amacıyla birer “Yeşil Kart” verilir.
 
 b) Aylık gelir veya gelir payları artarak ikinci maddede belirtilen miktarın üzerine çıktığı anlaşılanların bu Kanunla öngörülen hakları sona erer ve kendilerine verilen Yeşil Kart geri alınır.
 

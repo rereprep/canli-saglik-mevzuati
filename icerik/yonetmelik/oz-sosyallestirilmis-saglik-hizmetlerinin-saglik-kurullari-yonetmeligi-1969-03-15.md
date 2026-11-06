@@ -70,3 +70,23 @@ Halkın bulaşıcı ve salgın hastalıklarla sosyal hastalıklara karşı sağl
 (4) Meyve, sebze, bitküer ve tohumların hastalıklan üe savaşta kullanılan bazı Uâçlardan meydana gelen zehirlenmelere karşı alınması faydalı görülen tedbirleri tespit eder. d. Sosyal Hizmet Faaliyetleri :
 
 (1) Fakirlere, felâketzedelere, korunmaya muhtaç çocuklara, yaşlılara, acezeye, sakatlara, sosyal hastalıklardan birine müptelâ olanlara yardım sağlama konularında, hayır kurum ve dernekleriyle işbirliği sağlar.
+
+(2) Toplum kalkınması hizmetleri için halk liderlerinin bulunmasını, bölgenin hususiyeti ve arzettiği imkânlar çerçevesinde, tarım, meyvecilik, hayvancılık, küçük el sanatları gibi işlerin gelişmesini sağlamak amacıyle ilgili kuruluşlarla bağlantı sağlar.
+
+e. Eğitim Hizmetleri:
+
+İnsan biyolojisi, hijen, ana ve çocuk sağlığı, beslenme, kazalardan korunma ve ilk yardım, akıl ve ruh sağlığı, çevre sağlığı, nüfus planlaması, bulaşıcı ve sosyal hastalıklarla savaş, sağlık hizmet ve müesseselerinden yararlanmak, sosyal hizmetler gibi konularda halkı aydınlatıcı ve onun hizmete katkısını sağlayıcı konferanslar, göze ve kulağa hitap eden her türlü demonstrasyon programını kapsıyan eğitim planlarının düzenlenmesi için, konularını tespit eder. Bu konudaki plan ve programların gerçekleşmesini sağlamak amacıyle resmî ve özel kuruluşlar ile işbirliği yapar.
+
+### TOPLANTILAR VE BÜRO HİZMETLERİ:
+
+**Madde 5 –** (1) Sağlık kurulları, normal olarak 3 ayda bir toplanırlar. Başkanın veya üye tam sayısının 3 te birinin göstereceği lüzum üzerine, olağanüstü toplantı yapılabilir.
+
+(2) Toplantılar, üye tam sayısının yarıdan bir fazlasiyle yapılır. Karar çoğunlukla verilir. Oyların eşitliği halinde, başkanın bulunduğu tarafın kararına uyulur.
+
+(3) Toplantı günü yeri ve saati, mahallî idare amirinin bilgisi altında, 10 gün önce ilgililere duyurulur.
+
+(4) Alınan kararlar, kurul dağılmadan kurul defterine kaydedilerek ilgililer tarafından imzalanır. Daha sonra, karar örnekleri ilçelerdeki kaymakamlıklara, il merkezinde vilâyet makamına ve kararla ilgili makam ve kuruluşlara gönderilir.
+
+**Madde 6 –** Bu Yönetmelik yayım tarihinden itibaren yürürlüğe girer.
+
+**Madde 7 –** Bu Yönetmeliği Sağlık ve Sosyal Yardım Bakanı yürütür.

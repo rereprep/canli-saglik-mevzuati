@@ -27,7 +27,7 @@ Sağlık Bakanlığına bağlı sağlık kuruluşlarının tıbbi cihaz, mal ve 
 
 **1.1.** Bu genelge kapsamında düzenlenen konular ile ilgili İl Sağlık Müdürlükleri bünyesinde ilgilerine göre gerekli uzman personellerin de bulunduğu en az 3 (üç) veya daha fazla tek sayıda üyeden müteşekkil “İl Tıbbi Cihaz Alımları Planlama Komisyonu” kurulacaktır.
 
-**1.2.** İlde bulunan sağlık kuruluşlarının bu genelge kapsamındaki talepleri öncelikli olarak mezkur komisyonca değerlendirilerek alınacak ve İl Sağlık Müdürlüğüne gerekçeleri ile birlikte rapor halinde sunulacaktır. İl Sağlık Müdürlüğü tarafından komisyon raporu değerlendirilerek bu genelgenin müteakip maddelerinde bahsi geçen iş ve işlemler yerine getirilir. İl Sağlık Müdürlüğü tarafından uygun görülen başvurular bilgi ve gereği için Sağlık Hizmetleri Genel Müdürlüğüne gönderilir, reddedilen başvurular ise gönderilmeyecektir. Kamu Hastaneleri Genel Müdürlüğü ile Halk Sağlığı Genel Müdürlüğü’nün görev ve görev alanında yer alan sağlık tesislerinin, tıbbi cihaz alımları ve tıbbi cihaz hizmet alımları İl Sağlık Müdürlüğü tarafından ilgili Genel Müdürlüğe gönderilecektir. Planlama kapsamındaki tıbbi cihaz alımları ve tıbbi cihaz hizmet alımları ilgili Genel Müdürlük aracılığıyla Sağlık Hizmetleri Genel Müdürlüğü’ne iletilecektir. Ayrıca Müdürlük bünyesindeki ilgili başkanlıklar, il genelinde görev alanları kapsamındaki planlamaya tabi cihazlara ait envanter kayıtlarını tutarlar.
+**1.2.** İlde bulunan sağlık kuruluşlarının bu genelge kapsamındaki talepleri öncelikli olarak mezkûr komisyonca değerlendirilerek alınacak ve İl Sağlık Müdürlüğüne gerekçeleri ile birlikte rapor halinde sunulacaktır. İl Sağlık Müdürlüğü tarafından komisyon raporu değerlendirilerek bu genelgenin müteakip maddelerinde bahsi geçen iş ve işlemler yerine getirilir. İl Sağlık Müdürlüğü tarafından uygun görülen başvurular bilgi ve gereği için Sağlık Hizmetleri Genel Müdürlüğüne gönderilir, reddedilen başvurular ise gönderilmeyecektir. Kamu Hastaneleri Genel Müdürlüğü ile Halk Sağlığı Genel Müdürlüğü’nün görev alanında yer alan sağlık tesislerinin tıbbi cihaz alımları ve tıbbi cihaz hizmet alımları İl Sağlık Müdürlüğü tarafından ilgili Genel Müdürlüğe gönderilecektir. Planlama kapsamındaki tıbbi cihaz alımları ve tıbbi cihaz hizmet alımları ilgili Genel Müdürlük aracılığıyla Sağlık Hizmetleri Genel Müdürlüğü’ne iletilecektir. Ayrıca Müdürlük bünyesindeki ilgili başkanlıklar, il genelinde görev alanları kapsamındaki planlamaya tabi cihazlara ait envanter kayıtlarını tutarlar.
 
 **1.3.** Komisyon karar verirken özel sağlık kurumlarının kapasitelerini de göz önünde bulunduracaktır. Komisyon eksiksiz olarak toplanıp komisyon kararları çoğunlukla alınacaktır. Kararlarda çekimser kalınamaz, karşı oy kullanan komisyon üyeleri gerekçesini karara yazmak ve imzalamak zorundadır. Komisyon üyeleri oy ve kararlarından sorumludur. Komisyonda görev yapacak personel tedarikinde alt maddelerdeki sıralamaya dikkat edilerek üye alınır. İlde bulunmaması halinde yakın illerden, il sağlık müdürlüklerinin “görevlendirme” talepleri ile temin edilecektir. Üyeler öncelik ve bulunma sırasına göre alt maddelerdeki kurumlarda çalışan uzmanlardan oluşacaktır;
 
@@ -79,7 +79,7 @@ Tıbbi Cihaz Yönetmeliği, Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yö
 
 **2.3.** Tıbbi Cihaz Yönetmelikleri uyarınca, herhangi bir cihazın Tıbbi Cihaz Yönetmelikleri kapsamında olup olmadığına, üretim veya kullanım amacı çerçevesinde üreticiler karar vermektedir. Eğer cihaz, üreticisi tarafından Tıbbi Cihaz Yönetmelikleri kapsamında belgelendirilmemiş ise (tıbbi cihazlar kapsamında değilse) ÜTS’ye kayıt veya bildirim işlemi yapılmamaktadır. Satın alma işlemlerinde, Tıbbi Cihaz Yönetmelikleri kapsamında olup olmadığı hakkında tereddüt oluşan cihazlar için üreticinin veya ithalatçının Türkiye İlaç ve Tıbbi Cihaz Kurumuna sunduğu teknik dosya ve resmi beyanı sonucunda alınan karar esas alınarak işlemler yürütülmelidir. Bu durumda ayrıca belge aranmayacaktır. Ancak, içerik ve özellikleri ile aynı olan iki cihaz hakkında çelişkili belge veya kayıtlar bulunması, cihazın bu yönetmelikler kapsamına girip girmediği ve tıbbi cihazların sınıfları konusunda tereddüde düşülmesi halinde ihale teklifinin değerlendirilmesi aşamasında cihaza ait üreticisi tarafından hazırlanan kullanım amacı, uygulama alanı, uygulama süresi, hedef kullanıcıları ve etki mekanizmasını açıklayan bilimsel verileri yüklenici adayı (istekli) Türkiye İlaç ve Tıbbi Cihaz Kurumuna intikal ettirerek görüş alınacaktır.
 
-**2.4.** İhale teklifinin değerlendirilmesi aşamalarında ilgili tıbbi cihazların www.titck.gov.tr adresinden Tıbbi Cihazlar Güvensiz Ürünler ve Gönüllü Geri Çekme Listelerinin takipleri yapılmalıdır. Kullanımları ve piyasaya arzları durdurulanların alımlarının yapılmamasına, sağlık kurumunca satın alındıktan sonra piyasaya arzları durdurulmuş cihaz miktarlarının ayrıntıları ile (kullanılan veya stokta bulunan vb.) bildirilmesine ve mevcut ürünlerin kullanılmaksızın muhafazasına dikkat edilmelidir. Tıbbi cihazların kullanımı sırasında ortaya çıkan cihaza bağlı olumsuz olayların (hasar, yaralanma, ölüm veya bunlara yol açabilecek muhtemel olaylar gibi ilgili Yönetmeliklerin “Uyarı Sistemi” başlığı altında sayılan durumlar) gecikmeksizin cihazın sağlayıcısına ve/veya üreticisi ve/veya ithalatçısına ÜTS’de kayıtlı ürün numarası, seri ve LOT numarası bilgilerini içerecek şekilde bildirilmesi ve güvenliğinden şüphe edilen ürünlerin sağlık kuruluşunda muhafaza edilmesi gerekmektedir. Ayrıca bu bildirim ÜTS sisteminde yer alan “Sağlık Kuruluşu Olumsuz Olay Rapor İşlemleri” sekmesi üzerinden veya http://www.titck.gov.tr adresinde yer alan “Sağlık Kuruluşları Olumsuz Olay Bildirim Formu” eksiksiz doldurularak tib cihazuyari@titck.gov.tr adresine gönderilmek suretiyle Türkiye İlaç ve Tıbbi Cihaz Kurumuna da iletilmelidir.
+**2.4.** İhale teklifinin değerlendirilmesi aşamalarında ilgili tıbbi cihazların www.titck.gov.tr adresinden Tıbbi Cihazlar Güvensiz Ürünler ve Gönüllü Geri Çekme Listelerinin takipleri yapılmalıdır. Kullanımları ve piyasaya arzları durdurulanların alımlarının yapılmamasına, sağlık kurumunca satın alındıktan sonra piyasaya arzları durdurulmuş cihaz miktarlarının ayrıntıları ile (kullanılan veya stokta bulunan vb.) bildirilmesine ve mevcut ürünlerin kullanılmaksızın muhafazasına dikkat edilmelidir. Tıbbi cihazların kullanımı sırasında ortaya çıkan cihaza bağlı olumsuz olayların (hasar, yaralanma, ölüm veya bunlara yol açabilecek muhtemel olaylar gibi ilgili Yönetmeliklerin “Uyarı Sistemi” başlığı altında sayılan durumlar) gecikmeksizin cihazın sağlayıcısına ve/veya üreticisi ve/veya ithalatçısına ÜTS’de kayıtlı ürün numarası, seri ve LOT numarası bilgilerini içerecek şekilde bildirilmesi ve güvenliğinden şüphe edilen ürünlerin sağlık kuruluşunda muhafaza edilmesi gerekmektedir. Ayrıca bu bildirim ÜTS sisteminde yer alan “Sağlık Kuruluşu Olumsuz Olay Rapor İşlemleri” sekmesi üzerinden veya http://www.titck.gov.tr adresinde yer alan “Sağlık Kuruluşları Olumsuz Olay Bildirim Formu” eksiksiz doldurularak tibbicihazuyari@titck.gov.tr adresine gönderilmek suretiyle Türkiye İlaç ve Tıbbi Cihaz Kurumuna da iletilmelidir.
 
 ### Sayfa 3 / 20
 
@@ -171,7 +171,7 @@ Söz konusu hizmet alımı ihalelerinde; hizmet alımı süresince tüm güncel 
 
 **3.4.13.** Yaklaşık maliyetin tespitinde ve ihalede teklif edilen teklif bedellerinin değerlendirilmesinde; SUT’da belirlenen fiyatların ve bu fiyatlardan döner sermaye işletmelerimizin hazine payı, SHÇEK payı ve merkez payı yatırdıklarının da dikkate alınması gerekmektedir.
 
-**3.4.14.** Yine teklif bedellerinin değerlendirilmesinde, tekliflerin KDV hariç olarak verilip, fatura edilirken KDV oranın eklendiğinin ve ödemelerin KDV dâhil tutar üzerinden kurumlarımızca yükleniciye ödendiğinin de dikkate alınması gerekmektedir.
+**3.4.14.** Yine teklif bedellerinin değerlendirilmesinde, tekliflerin KDV hariç olarak verilip, fatura edilirken KDV oranının eklendiğinin ve ödemelerin KDV dâhil tutar üzerinden kurumlarımızca yükleniciye ödendiğinin de dikkate alınması gerekmektedir.
 
 **3.4.15.** Radyografi, bilgisayarlı tomografi, mamografi, floroskopi gibi tetkik amacıyla iyonlaştırıcı radyasyon kaynağı kullanan cihazlar için kurulum aşamasında yürürlükteki mevzuata göre lisans işlemlerinin yüklenici tarafından yürütülmesini temin etmek için ihale dokümanına hüküm konulacaktır.
 
@@ -308,185 +308,218 @@ SHGM Daire Başkanlıkları
 
 ### Sayfa 12 / 20
 
-### CONIYET PREN T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
+
+Sağlık Hizmetleri Genel Müdürlüğü
 
 EK-1-A
 
-### TIBBİ CİHAZ ve TIBBİ HİZMET ALIMI İÇİN BAŞVURU FORMU KURUMA AİT BİLGİLER
+### TIBBİ CİHAZ ve TIBBİ HİZMET ALIMI İÇİN BAŞVURU FORMU
 
-İli 2 Ilçesi
+#### KURUMA AİT BİLGİLER
 
-Kurum Adı 4 Hastane Rolü
+| No | Bilgi |
+|---|---|
+| 1 | İli |
+| 2 | İlçesi |
+| 3 | Kurum Adı |
+| 4 | Hastane Rolü |
 
-### HİZMETE VEYA CİHAZA AİT BİLGİLER
+#### HİZMETE VEYA CİHAZA AİT BİLGİLER
 
-5 Hizmetin Alınacağı Yer (hastanede/dışarıda)
+5. Hizmetin Alınacağı Yer (hastanede/dışarıda)
 
-Cihaz/Hizmet Adı Adeti İşlem Sayısı
+| No | Cihaz/Hizmet Adı | Adedi | İşlem Sayısı |
+|---|---|---|---|
+| 6 | PET | | |
+| 7 | PET-CT | | |
+| 8 | MRI | | |
+| 9 | BT | | |
+| 10 | GAMMA KAMERA | | |
+| 11 | LİNEER HIZLANDIRICI | | |
+| 12 | USG | | |
+| 13 | FİZİK TEDAVİ | | |
+| 14 | ... | | |
+| 15 | ... | | |
 
-PET
+| No | Bilgi |
+|---|---|
+| 16 | İlgili Bölümdeki Uzman Sayısı |
+| 17 | İlgili Bölümdeki Teknik (fizik müh. vb.) Personel Sayısı |
+| 18 | İlgili Bölümdeki Yardımcı Sağlık Personeli Sayısı |
+| 19 | Hizmet Alımı ile Bölümde Çalıştırılacak Uzman Sayısı |
+| 20 | Hizmet Alımı ile Bölümde Çalıştırılacak Teknik Personel Sayısı |
+| 21 | Hizmet Alımı ile Bölümde Çalıştırılacak Yardımcı Sağlık Personeli Sayısı |
 
-### 7 PET-CT
+22–31. İlgili bölümdeki mevcut tıbbi cihazlar: PET, PET-CT, MRI, BT, GAMMA KAMERA, LİNEER HIZLANDIRICI, USG, FİZİK TEDAVİ, ..., ...
 
-8 MRI
+32. Hizmet Alımı İhalesinin Geçerlilik Süresi
 
-### 9 HİZMET ALIMI YAPILACAK TIBBİ CİHAZLARIN ADLARI: BT 10 GAMMA KAMERA 11 LİNEER HIZLANDIRICI
+33. İlde Benzer Hizmeti Veren Sağlık Kuruluşu Var mı? Hizmet Veren: ÜNİVERSİTE / KAMU / ÖZEL. Kurum sayısını ve verilen en kısa randevu süresini yazınız.
 
-12 USG
+#### KURUMUN HİZMET KAPASİTESİ
 
-### 13 FIZIK TEDAVI
+34. Aylık Toplam Muayene (Acil Dâhil) Sayısı:  
+35. Aylık Toplam Ameliyat Sayısı:  
+36. Cihazla İlgili Toplam Aylık Tahmini Hasta Sayısı:  
+37. İlgili Hizmet veya Cihaz Yokluğu Sebebi ile Aylık Sevk Edilen Hasta Sayısı:
 
-14 .... 15 16 İlgili Bölümdeki Uzman Sayısı 17 İlgili Bölümdeki Teknik (fizik Müh. vb.) Personel Sayısı 18 Ilgili Bölümdeki Yardımcı Sağlık Personeli Sayısı 19 Hizmet Alımı Ile Bölümde Çalıştırılacak Uzman Sayısı 20 Hizmet Alımı İle Bölümde Çalıştırılacak Teknik Personel Sayısı 21 22 PET 23 24 MRI
-
-### 25 İLGİLİ BÖLÜMDEKİ MEVCUT TIBBİ CİHAZLAR 26 GAMMA KAMERA 27 LINEER HIZLANDIRICI
-
-28 USG
-
-### 29 FİZİK TEDAVİ
-
-30 31
-
-### 32 HIZMET ALIMI İHALESİNİN GEÇERLİLİK SÜRESİ
-
-33 İlde Benzer Hizmeti Veren Sağlık Kuruluşu Var Mı? Hizmet Veren ÜNİVERSİTE KAMU ÖZEL
-
-Kurum Sayısını ve Verilen En Kısa Randevu Süresini Yazınız.
-
-### KURUMUN HIZMET KAPASİTESİ
-
-34 Aylık Toplam Muayene (Acil Dahil) Sayisi: 35 Aylık Toplam Ameliyat Sayısı: 36 Cihazla Ilgili Toplam Aylık Tahmini Hasta Sayısı: 37 İlgili Hizmet veya Cihaz Yokluğu Sebebi ile Aylık Sevk Edilen Hasta
-
-SayıSı
-
-### Formu Dolduran Personelin Onaylayan Yetkili Personelin
-
-Adı Soyadı: Adı Soyadı:
-
-Unvani: Unvani:
-
-Görevi: Görevi:
-
-Imza: Imza:
+| Formu Dolduran Personelin | Onaylayan Yetkili Personelin |
+|---|---|
+| Adı Soyadı: | Adı Soyadı: |
+| Ünvanı: | Ünvanı: |
+| Görevi: | Görevi: |
+| İmza: | İmza: |
 
 Tablo ile ilgili açıklamalar:
 
+* 5. Hizmet hastane içinde veya dışında olması durumuna göre doldurulacaktır.
+* 6–15. Alınması düşünülen tıbbi hizmet ya da tıbbi cihazın sayısı ve tahmini işlem sayısı yazılacaktır.
+* 22–31. Alınması düşünülen tıbbi hizmet ya da tıbbi cihazın hastanede benzeri var mı veya yapılıyor mu?
+
 ### Sayfa 13 / 20
 
-T.C.
+T.C. SAĞLIK BAKANLIĞI  
+Sağlık Hizmetleri Genel Müdürlüğü
 
-### SAGLIK BAKANLIĞI
-
-Sağlık Hizmetleri Genel Müdürlüğü EK-1-B
+EK-1-B
 
 ### GEREKÇE RAPORU:
 
-Gerekçeyi Düzenleyen Personelin; Adı Soyadı: Unvanı: Görevi: Imza: Sayfa 14 / 20
+Gerekçeyi Düzenleyen Personelin:
 
-### ANESI SAGLIS T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+Adı Soyadı:  
+Ünvanı:  
+Görevi:  
+İmza:
 
-EK-2
+### Sayfa 14 / 20
 
-T.C. İletişim kurulacak yetkili personel bilgileri
+### T.C. SAĞLIK BAKANLIĞI
 
-SAGLIK BAKANLIĞI Adı Soyadı
+Tıbbi Cihaz Daimi Özel İhtisas Komisyonu
 
-### TIBBİ CİHAZ DAİMİ ÖZEL İHTİSAS KOMİSYONU TIBBİ CİHAZ BAŞVURU FORMU
+### TIBBİ CİHAZ BAŞVURU FORMU
 
-Ilçesi İldeki Benzer Cihaz Sayısı İlçedeki Benzer Cihaz SayıSı İstenen Cihaz Ile Ilgili Hastaların Sevk Edildiği Merkez Cihazın Kurulacağı Kurum Cihazın Kurulacağı Bölüm/Klinik Hastanenin Yatak Sayısı Bölüm/Klinik Yatak Sayısı Yıllık Acil Dâhil Toplam Bölümdeki Yıllık Poliklinik Poliklinik Sayısı SayıSı Cihazın/Sistemin Adı: Cihazın/Sistemin Teknik Kapasitesi: Cihazın/Sistemin Tahmini Bedeli: Cihaz/Sistemin Tanımı: Cihaz/Sistemin MKYS Tanımı: Bu Cihaz Için Yıllık Test/Işlem Sayısı: Cihaz Için Altyapı Gerekiyor mu? Gerekiyorsa Hazır mı? Yok, Ise Nasıl Hazırlanacak? Teknik Şartnamedeki Garanti : Yedek Parça Talepler (Yıl Olarak) Kalibrasyon Bakım/Onarım Satın Almada Kullanılacak Kurum Geliri • Proje Mali Kaynak • Bölgesel Imkânlar • Genel Bütçe
+İletişim kurulacak yetkili personel bilgileri: Adı Soyadı, Tel, Faks, e-posta
 
-### Kredi • Diğer
+#### A) TALEP EDİLEN CİHAZI KULLANACAK KURUM VE BÖLGE BİLGİLERİ
 
-Cihaz Bedeline Oranı
+İli; İlçesi; İldeki Benzer Cihaz Sayısı; İlçedeki Benzer Cihaz Sayısı; İstenen Cihaz ile İlgili Hastaların Sevk Edildiği Merkez; Cihazın Kurulacağı Kurum; Cihazın Kurulacağı Bölüm/Klinik; Hastanenin Yatak Sayısı; Bölüm/Klinik Yatak Sayısı; Yıllık Acil Dâhil Toplam Poliklinik Sayısı; Bölümdeki Yıllık Poliklinik Sayısı.
 
-### HASTANEDEKI BOLÜMDEKI
+#### B) İSTENİLEN CİHAZA/SİSTEME AİT BİLGİLER
 
-Uzm. Uzm. Dev. Hast. Asistan : Özel Dal
+Cihazın/Sistemin Adı; Cihazın/Sistemin Teknik Kapasitesi; Cihazın/Sistemin Tahmini Bedeli; Cihaz/Sistemin Tanımı; Cihaz/Sistemin MKYS Tanımı; Bu Cihaz İçin Yıllık Test/İşlem Sayısı; Cihaz İçin Altyapı Gerekiyor mu? Gerekiyorsa Hazır mı? Yok ise Nasıl Hazırlanacak?
 
-### Asistan :
+**Teknik Şartnamedeki Talepler (Yıl Olarak):** Garanti; Yedek Parça; Kalibrasyon; Bakım/Onarım.
 
-Dr. Dr. Eğitim/Araștırma Hemșire Tip Fak
+**Satın Almada Kullanılacak Mali Kaynak:** Kurum Geliri; Proje; Bölgesel İmkânlar; Genel Bütçe; Kredi; Diğer. Yıllık Beklenen Sarf Malzemesi Giderinin Cihaz Bedeline Oranı.
 
-### Hemșire
+#### C) CİHAZI TALEP EDEN KURUM/KURULUŞUN SAĞLIK/TEKNİK PERSONEL SAYISI
 
-Sağlık Teknikeri/Teknisyeni: Sağlık Teknikeri/Teknisyeni: Sağlik Mer. Teknik Eleman: Teknik Eleman: Askeri Hast. Diğerleri Diğerleri Diger
+| Hastanedeki | Bölümdeki |
+|---|---|
+| Uzm. | Uzm. |
+| Asistan | Asistan |
+| Dr. | Dr. |
+| Hemşire | Hemşire |
+| Sağlık Teknikeri/Teknisyeni | Sağlık Teknikeri/Teknisyeni |
+| Teknik Eleman | Teknik Eleman |
+| Diğerleri | Diğerleri |
+
+Dev. Hast.; Özel Dal; Eğitim/Araştırma; Tıp Fak.; Sağlık Mer.; Askeri Hast.; Diğer.
 
 ### Sayfa 15 / 20
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü D) TALEP EDİLEN CİHAZI KULLANACAK PERSONEL BİLGİLERİ
+#### D) TALEP EDİLEN CİHAZI KULLANACAK PERSONEL BİLGİLERİ
 
-Adı Soyadı Mesleği / Unvanı Aldığı Diğer Eğitimler 1 2 3 4 5 6
+| Adı Soyadı | Mesleği / Unvanı | Aldığı Diğer Eğitimler |
+|---|---|---|
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
 
-### E) VARSA KURUMDA AYNI İŞİ GÖREN CİHAZA AİT BİLGİLER
+#### E) VARSA KURUMDA AYNI İŞİ GÖREN CİHAZA AİT BİLGİLER
 
-Performans/
+| Markası | Modeli/Yaşı | Performans/Verimlilik Durumu | Kullanıldığı Servis | Temin Şekli | Durumu |
+|---|---|---|---|---|---|
+| 1. | | | | | |
+| 2. | | | | | |
+| 3. | | | | | |
+| 4. | | | | | |
+| 5. | | | | | |
 
-Kullanıldığı Markası Modeli/Yașı Verimlilik Temin Şekli Durumu
+Satın Alınması Düşünülen Cihazın Var Olanlardan (İşletme, Bakım Onarım, Verimlilik, Performans, Kapasite, Teknoloji, Kalite, vb.) Farkı
 
-Servis
+#### F) GEREKÇE RAPORU
 
-Durumu 1. 2. Satın Alınması Düşünülen Cihazın Var Olanlardan (Işletme, Bakım Onarım, Verimlik, Performans, Kapasite, Teknoloji, Kalite, v.b.) Farkı
+Tıbbi Nedenler, Klinik Gerekçe, Hizmet Sunumu, Araştırma, Hasta Yoğunluğu vb. ne bağlı olarak ihtiyaç gerekçesi
 
-### F) GEREKÇE RAPORU
+| FORMU DOLDURAN UZMAN | BİR DİĞER UZMANLIĞI İLGİLENDİRİYOR İSE | ONAYLAYAN YETKİLİ PERSONEL |
+|---|---|---|
+| Adı Soyadı | Adı Soyadı | Adı Soyadı |
+| Görevi | Görevi | Görevi |
+| İmza | İmza | İmza |
 
-Tıbbi Nedenler, Klinik Gerekçe, Hizmet Sunumu, Araştırma, Hasta Yoğunluğu v.b. ne bağlı olarak ihtiyaç gerekçesi
+### Sayfa 16 / 20
 
-### BİR DİĞER UZMANLIĞI FORMU DOLDURAN UZMAN ONAYLAYAN YETKİLİ PERSONEL İLGİLENDİRİYOR İSE ADI SOYADI ADI SOYADI ADI SOYADI GÖREVİ GÖREVİ GÖREVİ IMZA IMZA İMZA Sayfa 16 / 20
+### TIBBİ CİHAZ DAİMİ ÖZEL İHTİSAS KOMİSYONU
 
-### * PAYETI TASE T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü TIBBİ CİHAZ DAİMİ ÖZEL İHTİSAS KOMİSYONU TIBBI CIHAZ BAŞVURU FORMU DOLDURMA KILAVUZU
+### TIBBİ CİHAZ BAŞVURU FORMU DOLDURMA KILAVUZU
 
-ILI: Cihazın tesis edileceği il adı. ILÇESI: Cihazın tesis edileceği ilçenin adı. cıhaz sayısı. toplam cihaz sayısı. sonrası cihazlar kurumlara dağıtım yapılacaksa ayrıca bu kurumların adları belirtilecektir).
+**A) TALEP EDİLEN CİHAZI KULLANACAK KURUM VE BÖLGE BİLGİLERİ**
 
-### HASTANENIN YATAK SAYISI BÖLÜM/KLİNİK YATAK SAYISI YILLIK ACİLE DÂHİL TOPLAM POLİKLİNİK SAYISI BOLÜMDEKI YILLIK POLIKLINIK SAYISI B) ISTENILEN CIHAZA/SISTEME AIT BILGILER:
+**İLİ:** Cihazın tesis edileceği il adı.  
+**İLÇESİ:** Cihazın tesis edileceği ilçenin adı.  
+**İLDEKİ BENZER CİHAZ SAYISI:** Teşhis ve tedavide benzer görevi yerine getiren ildeki toplam cihaz sayısı.  
+**İLÇEDEKİ BENZER CİHAZ SAYISI:** Teşhis ve tedavide benzer görevi yerine getiren ilçedeki toplam cihaz sayısı.  
+**İSTENEN CİHAZ İLE İLGİLİ HASTALARIN SEVK EDİLDİĞİ MERKEZ:** Sevk edilen hastaların sevki sırasında tercih edilen il ve ilçesi ile merkez adı yazılacaktır.  
+**CİHAZIN KURULACAĞI KURUM:** Kurum ve/veya kuruluşun tam adı (Merkezi toplu alım sonrası cihazlar kurumlara dağıtım yapılacaksa ayrıca bu kurumların adları belirtilecektir).  
+**CİHAZIN KURULACAĞI BÖLÜM/KLİNİK:** Kurum ve/veya kuruluştaki klinik veya servis.  
+Hastanenin yatak sayısı; bölüm/klinik yatak sayısı; yıllık acile dâhil toplam poliklinik sayısı; bölümdeki yıllık poliklinik sayısı.
 
-CIHAZIN/SISTEMIN ADI: Talep edilen cihaz veya sistemin tıbbi ve teknik olarak açık anlaşılır problu renkli doppler ultrasonografi cihazı). CİHAZIN/SİSTEMİN TAHMİNİ BEDELI: TL olarak. CIHAZ/SISTEMIN TANIMI: Cihazın yaptığı işle ilgili fonksiyonel açıklama. Taşınır depo kapsamında verilen malzeme tanım bilgisi. test veya ortalama işlem sayısı. GEREKİYORSA HAZIR MI ? Yukarıda belirtilen işlemler önceden yapılmışsa ya da yapımı sürüyorsa son durum açıklanacaktır. belirtilecektir(Orneğin hastane idaresince alt yapı işleri ayrıca yaptırılacak veya cihazı/sistemi kuracak fırma tarafından yapılacaktır).
+**B) İSTENİLEN CİHAZA/SİSTEME AİT BİLGİLER:**
 
-### TEKNIK ŞARTNAMEDEKI TALEPLER (YIL OLARAK)
+**CİHAZIN/SİSTEMİN ADI:** Talep edilen cihaz veya sistemin tıbbi ve teknik olarak açık anlaşılır adı.  
+**CİHAZIN/SİSTEMİN TEKNİK KAPASİTESİ:** Cihaz/Sistemin tıbbi ve teknik özelliğini tanımlayıcı ve kapasitesini açıklayıcı bilgi (Örneğin 500 mA tek masa, tek tüp röntgen cihazı veya 3 problu renkli doppler ultrasonografi cihazı).  
+**CİHAZIN/SİSTEMİN TAHMİNİ BEDELİ:** TL olarak.  
+**CİHAZ/SİSTEMİN TANIMI:** Cihazın yaptığı işle ilgili fonksiyonel açıklama.  
+**CİHAZ/SİSTEMİN MKYS TANIMI:** Cihazın ÇKYS/MKYS üzerinde Biyomedikal Dayanıklı Taşınır depo kapsamında verilen malzeme tanım bilgisi.  
+**BU CİHAZ İÇİN YILLIK TEST/İŞLEM SAYISI:** Talep edilen cihaz için mevcut veya planlanan test veya ortalama işlem sayısı.  
+**CİHAZ İÇİN ALTYAPI GEREKİYOR MU?** Eğer mevcut durumun dışında ayrıca inşaat, tadilat, tesisat, elektrik, su, kurşunlama vb. gibi iç ve dış işlemler gerekiyorsa bunlar belirtilecektir.  
+**GEREKİYORSA HAZIR MI?** Yukarıda belirtilen işlemler önceden yapılmışsa ya da yapımı sürüyorsa son durum açıklanacaktır.  
+**YOK İSE NASIL HAZIRLANACAK?** Eğer mevcut değilse bunun nasıl yapılacağı belirtilecektir (Örneğin hastane idaresince alt yapı işleri ayrıca yaptırılacak veya cihazı/sistemi kuracak firma tarafından yapılacaktır).
 
-GARANTI: Teknik şartname ile istenen garanti süresi. BAKIM/ONARIM: Bakım onarım konusunda istenen süre
+**TEKNİK ŞARTNAMEDEKİ TALEPLER (YIL OLARAK):** Garanti; kalibrasyon; yedek parça; bakım/onarım süreleri.
 
-### SATIN ALMADA KULLANILACAK MALİ KAYNAK
-
-• KURUM GELİRİ (Örneğin döner sermaye v.b.)
-
-PROJE (Orneğin araștırma/geliştirme v.b.)
-
-### GENEL BÜTÇE BÖLGESEL İMKÂNLAR
-
-KREDİ (Örneğin AB mali kredi v.b.)
-
-• DİĞER (Örneğin Hibe v.b.)
+**SATIN ALMADA KULLANILACAK MALİ KAYNAK:** Kurum geliri (örneğin döner sermaye vb.); proje (örneğin araştırma/geliştirme vb.); genel bütçe; bölgesel imkânlar; kredi (örneğin AB mali kredi vb.); diğer (örneğin hibe vb.).
 
 ### Sayfa 17 / 20
 
-### ÇATLITI ERENT T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+**C) CİHAZI TALEP EDEN KURUM/KURULUŞUN SAĞLIK/TEKNİK PERSONEL SAYISI**
 
-hesaplanarak yazılacaktır. toplam personel durumu (sayısı) hakkında bilgi verilecektir. ELEMAN ve DIGERLERI sağlık ve teknik personel durumu
+Toplam uzman hekim sayısı: Talep edilen cihazın/sistemin kurulup çalıştırılacağı kurumdaki toplam personel durumu (sayısı) hakkında bilgi verilecektir. Uzman, asistan doktor, hemşire, sağlık teknikeri/teknisyeni, teknik eleman ve diğerleri sağlık ve teknik personel durumu belirtilir. Bölümdeki: Talep edilen cihazın/sistemin kurulup çalıştırılacağı bölümdeki/klinikteki/servisteki sağlık ve teknik personel durumu.
 
-### UZMAN, ASİSTAN DOKTOR, HEMŞİRE, SAĞLIK TEKNİKERİ/TEKNİSYENİ, TEKNIK
+**D) TALEP EDİLEN CİHAZI KULLANACAK PERSONEL BİLGİLERİ**
 
-ELEMAN ve DİĞERLERİ
+Cihazı/sistemi kullanacak uzman hekim, hekim, teknik eleman (mühendis, tekniker, teknisyen), sağlık teknisyeni, hemşire vb. personelin isimleri, meslekleri, unvanları, görevleri ve ayrıca aldıkları diğer eğitimlerde verilen sertifikaların fotokopileri gönderilerek belirtilmelidir.
 
-### D) TALEP EDİLEN CİHAZI KULLANACAK PERSONEL BİLGİLERİ
+**E) VARSA KURUMDA AYNI İŞİ GÖREN CİHAZA AİT BİLGİLER**
 
-MARKASI: Cihazın markası
+Markası: Cihazın markası. Modeli/Yaşı: Cihazın modeli ve yıl olarak yaşı. Performans/Verimlilik Durumu: % olarak belirtilecektir. Kullanıldığı Servis: Kullanıldığı servis. Temin Şekli: Ne şekilde temin edildiği (satın alma, hibe, kiralama vb.). Durumu: Cihazın halen çalıştığı ya da arızalı olduğu.
 
-MODELI/YAŞI: Cihazın modeli ve yıl olarak yaşı
+Satın alınması düşünülen cihazın var olanlardan (işletme, bakım onarım, verimlilik, performans, kapasite, teknoloji, kalite vb.) farkı.
 
-PERFORMANS/VERİMLİLİK DURUMU: % olarak belirtilecektir.
+**F) GEREKÇE RAPORU**
 
-KULLANILDIĞI SERVİS: Kullanıldığı servis
+Mevcut cihazın/sistemin ihtiyacı karşılamadığı, iş kapasitesinin artırılması veya yeni bir ünite kurma gibi gerekçeler; ayrıntılı tıbbi ve teknik bilgiler de içerecek şekilde mutlaka ilgili dal uzmanı tarafından doldurulmalıdır. Bu alan yetersiz olduğunda ek yapılabilir.
 
-TEMIN ŞEKLI: Ne şekilde temin edildiği (satın alma, hibe, kiralama, v.b.)
+Tıbbi nedenler, klinik gerekçe, hizmet sunumu, araştırma, hasta yoğunluğu vb. ne bağlı olarak ihtiyaç gerekçesi:
 
-DURUMU: Cihazın halen çalıştığı ya da arızalı olduğu
-
-### ONARIM, VERİMLİK, PERFORMANS, KAPASİTE, TEKNOLOJİ, KALİTE, VB.) FARKI F) GEREKÇE RAPORU
-
-Mevcut cihazın/sitemin ihtiyacı karşılamadığı, iş kapasitesinin artırma veya yeni bir ünite kurma doldurulmalıdır. Bu alan yetersiz olduğunda ek yapılabilir.
-
-### YOĞUNLUĞU V.B. NE BAĞLI OLARAK İHTİYAÇ GEREKÇESI:
-
-cihazı kullanılacak bölüm/klinik yanı sıra radyoloji uzmanı) bu ilgili uzmanlık alanları birim sorumluları tarafından FORMU DOLDURAN UZMAN haneleri ile BİR DİĞER UZMANLIĞI İLGİLENDİRİYOR İSE hanelerinin özellikle doldurulması gerekmektedir. hıyerarşık yapıları göz önüne alınarak aşağıdaki adrese gönderilir.
+Notlar: Cihaz/Sistem, özelliği dolayısıyla bir diğer uzmanlık alanını ilgilendiriyorsa (örneğin ESWL cihazı içerdiği skopi cihazı nedeniyle üroloji uzmanının yanı sıra radyoloji uzmanı, renkli doppler USG cihazı kullanılacak bölüm/klinik yanı sıra radyoloji uzmanı) bu ilgili uzmanlık alanları birim sorumluları tarafından “Formu Dolduran Uzman” haneleri ile “Bir Diğer Uzmanlığı İlgilendiriyor İse” hanelerinin özellikle doldurulması gerekmektedir. Tıbbi cihaz izin talepleri, kurumlar tarafından gerekli düzenlemeler yapıldıktan sonra kurumların hiyerarşik yapıları göz önüne alınarak aşağıdaki adrese gönderilir.
 
 T.C. Sağlık Bakanlığı
 
@@ -494,22 +527,109 @@ Sağlık Hizmetleri Genel Müdürlüğü
 
 (Tıbbi Cihaz Daimi Özel İhtisas Komisyonu)
 
-Üniversiteler Mah. 6001 Cad. No:9 Kat 6 06800 Bilkent Çankaya/ ANKARA
+Üniversiteler Mah. 6001 Cad. No:9 Kat 6 06800 Bilkent Çankaya/ANKARA
 
-bilgilendirmelerden kurum yetkilileri sorumludur. yazışmalara ve gecikmelere meydan vermemek için hassas davranılmalıdır. Komisyona incelenmek üzere
+Gerektiğinde kurum ile hızlı iletişim sağlanması için cihaz talep eden kurumun telefon, faks ve özellikle aktif kullanılan e-posta iletişim adresleri başvuru formu sağ üst köşesinde belirtilmelidir.
+
+Formda belirtilen bilgilerin, gerçek durumu yansıtmasına dikkat edilecektir. Bu hususta yanlış bilgilendirmelerden kurum yetkilileri sorumludur.
+
+Formla birlikte gönderilmesi gereken tüm bilgiler/evraklar eksiksiz olmalıdır ve gereksiz yazışmalara ve gecikmelere meydan vermemek için hassas davranılmalıdır. Komisyona incelenmek üzere ulaştırılmayan evraklardan dolayı meydana gelecek gecikmelerden kurum yetkilileri sorumludur.
 
 ### Sayfa 18 / 20
 
 * * *
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
 
-EK-3 2010/11 sayılı Genelge İle Yürürlükten Kaldırılan Düzenlemeler Listesi Genelge Esaslar konulu yazı, Cihaz Hizmet Alımları" başlığı altında yer alan hükümleri. EK-4 Tıbbi Cihazlara İlişkin Yetki Grubu Listesi ölçüldüğü biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır. 2- Analiz Sistemleri Farklı kimyasal, fıziksel ve biyolojik reaksiyonların sonucuna göre tanı ve teşhise yönelik olarak analiz ve 3- Diyaliz Sistemleri Dolaşım sistemini in vitro olarak desteklemek amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır. 4- Elektro Cerrahi Sistemleri kesme (koterizasyon) ve dağlama (koagülasyon, mühürleme) amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır. 5- Elektro Terapi Sistemleri niteliğindeki taşınırlardır. 6- Fizyolojik Sinyal İzleme Sistemleri biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır. 7- Manyetik Rezonans Görüntüleme Sistemleri ve Bileşenleri biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır. 8- Ultrason-Doppler Görüntüleme Sistemleri 9- X-ışınlı Görüntüleme Sistemleri ve Bileşenleri Tanı ve teşhise yönelik olarak X ışını yayılımıyla görüntüleme amaçlı kullanılan veya bu görüntülerin taşınırlardır.
+Sağlık Hizmetleri Genel Müdürlüğü
+
+### EK-3
+
+**2010/11 sayılı Genelge ile Yürürlükten Kaldırılan Düzenlemeler Listesi**
+
+1) 22.08.2005 tarih ve 16383 sayılı Tıbbi Cihaz Daimi Özel İhtisas Komisyonu konulu 2005/129 nolu Genelge  
+2) 16.09.2005 tarih ve 17949 sayılı Sağlık Kurumlarının Kit Karşılığı Cihaz Edinme Uygulaması ile İlgili Esaslar konulu yazı,  
+3) 13.08.2007 tarih ve 17031 sayılı Tıbbi Cihaz Hizmet Alımları konulu 2007/74 nolu Genelge,  
+4) 01.05.2008 tarih ve 15318 sayılı Tıbbi Cihaz Hizmet Alımı İzni konulu 2008/35 nolu Genelge,  
+5) 01.05.2008 tarih ve 15167 sayılı Tıbbi Cihaz Satın Alma İşlemleri konulu 2008/36 nolu Genelge,  
+6) 14.03.2008 tarih ve 8201 sayılı Tıbbi Cihaz ve Ödenek Talebi konulu 2008/21 nolu Genelge,  
+7) 26.10.2009 tarih ve 40843 sayılı Tıbbi Cihaz Hizmet alımı konulu 2009/67 nolu Genelge,  
+8) Strateji Geliştirme Başkanlığının 05.06.2008 tarihli ve 2008/42 sıra nolu Genelgenin, “XIV-Tıbbi Cihaz Hizmet Alımları” başlığı altında yer alan hükümleri.
+
+### EK-4
+
+**Tıbbi Cihazlara İlişkin Yetki Grubu Listesi**
+
+**1- Akış, Ağırlık, Uzunluk, Hacim, Sıcaklık, Basınç, Devir, Kuvvet**  
+Temel SI birimleri veya yedek, çevrim ve akış (hava, sıvı, gaz) birimlerinden bir veya birkaçının ölçüldüğü biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**2- Analiz Sistemleri**  
+Farklı kimyasal, fiziksel ve biyolojik reaksiyonların sonucuna göre tanı ve teşhise yönelik olarak analiz ve tayin amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**3- Diyaliz Sistemleri**  
+Dolaşım sistemini in vitro olarak desteklemek amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**4- Elektro Cerrahi Sistemleri**  
+Radyo frekans, lazer, sıcaklık (yüksek ve düşük), ses şiddeti, yüksek devir gibi farklı güç kaynakları ile kesme (koterizasyon) ve dağlama (koagülasyon, mühürleme) amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**5- Elektro Terapi Sistemleri**  
+Elektrik akımı, manyetik alan, lazer, sıcaklık, optik, ses şiddeti gibi farklı güç kaynakları ile doku uyarımlarının sağlanması veya vücut içi patolojik numunenin fiziksel yada kimyasal yollarla parçalanması yoluyla tedavi ve rehabilitasyon amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**6- Fizyolojik Sinyal İzleme Sistemleri**  
+Fizyolojik sinyallerin ölçülmesi ve izlenmesi yoluyla tanı, teşhis veya tedavi amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**7- Manyetik Rezonans Görüntüleme Sistemleri ve Bileşenleri**  
+Manyetik alan vektörleri kullanılarak vücut içi görüntüleme yoluyla tanı veya tedavi amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**8- Ultrason-Doppler Görüntüleme Sistemleri**  
+Yüksek frekansta ses dalgaları ve yansımaları ile organ, yumuşak doku veya dolaşım sisteminin görüntülenmesi amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**9- X-ışınlı Görüntüleme Sistemleri ve Bileşenleri**  
+Tanı ve teşhise yönelik olarak X ışını yayılımıyla görüntüleme amaçlı kullanılan veya bu görüntülerin kılavuzluğunda girişimsel tanı veya tedavi yapılabilen biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
 
 ### Sayfa 19 / 20
 
-### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
 
-10-Sterilizasyon ve İnkübasyon Sistemleri 11-Tıbbi Gaz Sistemleri Farmakolojik etkileri ile dolaşım ve sinir sistemini etki altına almak, cerrahi aletler için sürücü mekanik dayanıklı ve tüketim niteliğindeki taşınırlardır. 12-Tıbbi İklimlendirme Sistemleri tüketim niteliğindeki taşınırlardır. 14-Mikroskobik Sistemler taşınırlardır. 15-Tıbbi Işık Sistemleri biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır. 16-Odyometrik Sistemler Işitme kayıplarının tanı veya tedavisinde kullanılan klinik alan ve biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır. 17-Solunum Sistemleri Solunumun desteklendiği veya vaporizasyon sonucunda elde edilen anestezik gazların inhalasyon 18-Endoskopik Görüntüleme Sistemleri 19-Radyoterapi Sistemleri ve Bileşenleri 20-Hasta Taşıma Sistemleri ve Bileşenleri Sağlık tesislerinde hastaların farklı lokasyonlara transfer edilmesi veya hastalara rehabilitasyon dayanıklı ve tüketim niteliğindeki taşınırlardır. 21-Metroloji Sistemleri ve Bileşenleri 22-Yazılım Sistemleri maddi olmayan duran varlıklardır.
+Sağlık Hizmetleri Genel Müdürlüğü
+
+**10-Sterilizasyon ve İnkübasyon Sistemleri**  
+Kontrollü hacim içi parametre (sıcaklık, basın, nem vs.) dağılımı temel prensibi ile farklı kaynak ve metotlar kullanılarak inkübasyon, dekontaminasyon, dezenfeksiyon, sterilizasyon veya muhafaza amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**11-Tıbbi Gaz Sistemleri**  
+Farmakolojik etkileri ile dolaşım ve sinir sistemini etki altına almak, cerrahi aletler için sürücü mekanik etkiyi sağlamak için belirli santral ve periferik dağıtım hatları veya taşınabilir basınçlı kaplar ile depolanan biyokimyasal ürünlerin üretilmesi, dağıtılması ve muhafazası amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**12-Tıbbi İklimlendirme Sistemleri**  
+Tanı, teşhis, tedavi, araştırma ve tıbbi iklimlendirme amaçlı olarak belirli ortam şartlarının sağlanması için kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlar ve özellikli klinik alanlardır.
+
+**13-Nükleer Tıp Görüntüleme Sistemleri ve Bileşenleri**  
+Radyofarmasotiklerin enjeksiyonu veya inhalasyonu sonucunda aktif kaynak olarak kullanılan hastadan yayılan ışınımın sayıldığı ve görüntülemenin sağlandığı ve aktivite ölçen biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**14-Mikroskobik Sistemler**  
+Farklı özelliklerdeki ve kombinasyonlardaki merceklerin kullanıldığı, görüntüleme ve operasyonel uygulamalarda net görüş sağlamak amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**15-Tıbbi Işık Sistemleri**  
+Girişimsel işlemler esnasında aydınlatma, dermatolojik tedavi süreçlerinde enerji aktarımı ile doku şekillendirmelerinde veya oftalmik değerlendirmelerde tanı, teşhis veya tedavi amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**16-Odyometrik Sistemler**  
+İşitme kayıplarının tanı veya tedavisinde kullanılan klinik alan ve biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**17-Solunum Sistemleri**  
+Solunumun desteklendiği veya vaporizasyon sonucunda elde edilen anestezik gazların inhalasyon uygulamalarında kullanıldığı biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**18-Endoskopik Görüntüleme Sistemleri**  
+Optik yöntemler kullanılarak vücut içi görüntülenmesi ve robotik veya manuel girişimsel müdahale yoluyla tanı ve tedavi amaçlı kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**19-Radyoterapi Sistemleri ve Bileşenleri**  
+Farklı güç kaynaklarından elde edilen çıktıların invaziv ve noninvaziv yollarla doku ve organlarda etkileşim sağlandığı biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**20-Hasta Taşıma Sistemleri ve Bileşenleri**  
+Sağlık tesislerinde hastaların farklı lokasyonlara transfer edilmesi veya hastalara rehabilitasyon süreçlerinde ortopedik destek sağlayan, metroloji faaliyeti kapsamında bulunmayan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**21-Metroloji Sistemleri ve Bileşenleri**  
+Sağlık tesislerinde biyomedikal metroloji ve biyomedikal teknik servis faaliyetlerinde kullanılan, hastalar ile teması bulunmayan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.
+
+**22-Yazılım Sistemleri**  
+Sağlık tesislerinde ofis işlemleri, iletişim sistemleri, süreç yönetimi, iletişim, tesis güvenliği, bilgi ve belge yönetimi gibi işletme yönetimi amaçlı veya biyomedikal dayanıklı taşınırlar ile birlikte kullanılan maddi olmayan duran varlıklardır.
 
 ### Sayfa 20 / 20
