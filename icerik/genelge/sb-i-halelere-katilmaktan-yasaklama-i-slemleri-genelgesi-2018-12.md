@@ -16,19 +16,17 @@ kontrol_edildi: true
 ### T.C. SAĞLIK BAKANLIĞI
 #### Strateji Geliştirme Başkanlığı
 
-**Sayı :** 64047795-010.06/
+**Sayı :** 933774658/09
 **Konu :** İhalelere Katılmaktan Yasaklama İşlemleri
 
 ### GENELGE
 **2018/12**
 
-4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu kapsamında ihalelere katılmaktan yasaklama işlemlerinde uyulacak usul ve esaslar şunlardır:
-
 İl Sağlık Müdürlükleri ile bağlı sağlık tesisleri ihtiyaç duydukları mal ve hizmet alımları ile yapım işleri ihalelerini 4734 sayılı Kamu İhale Kanunu, 4735 sayılı Kamu İhale Sözleşmeleri Kanunu ve bu Kanunlara dayanılarak çıkartılan ikincil mevzuat hükümleri doğrultusunda, satış ve kiralama işlemlerini ise 2886 sayılı Devlet İhale Kanunu ve bu Kanuna dayanılarak çıkartılan ikincil mevzuat hükümlerine göre yapmaktadır.
 
 4734, 4735 ve 2886 sayılı Kanunlar ve ikincil mevzuat hükümlerinde, ihale sürecinde ve/veya sözleşmenin uygulanması sırasında bazı fiil veya davranışlarda bulunmanın yasak olduğu ve bu yasak fiil veya davranışlarda bulunanlar hakkında nasıl bir işlem tesis edileceği belirtilmiştir.
 
-694 sayılı KHK ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat Ve Görevleri Hakkında Kanun Hükmünde Kararname'de değişiklik gidilerek Bakanlık ve bağlı kuruluşların merkez ve taşra teşkilatının yeniden yapılandırılması neticesinde Bakanlığımız taşra teşkilatında uygulama birliğinin sağlanması amacıyla ihalelere katılmaktan yasaklama işlemleri aşağıda belirtilen açıklamalar çerçevesinde yürütülecektir.
+694 sayılı KHK ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname’de değişiklik gidilerek Bakanlık ve bağlı kuruluşlarının merkez ve taşra teşkilatının yeniden yapılandırılması üzerine Bakanlığımız taşra teşkilatında uygulama birliğinin sağlanması amacıyla ihalelere katılmaktan yasaklama işlemleri aşağıda belirtilen açıklamalar çerçevesinde yürütülecektir.
 
 ### A- İHALELERE KATILMAKTAN YASAKLAMAYA İLİŞKİN HÜKÜMLER
 
@@ -38,161 +36,187 @@ a) 4734 sayılı Kanunun 17 nci maddesinde ihalelerde yasak fiil ve davranışla
 
 b) Kanunun 58 inci maddesinde üzerine ihale yapıldığı halde mücbir sebep halleri dışında usulüne göre sözleşme yapmayanlar hakkında ihalelere katılmaktan yasaklama kararı verileceği belirtilmiştir.
 
-c) Kanunun 59 uncu maddesinde, taahhüt tamamlandıktan ve kabul işlemi yapıldıktan sonra tespit edilmiş olsa dahi, ihale süresinde 17 nci maddede belirtilen yasak fiil veya davranışlarda bulunanlar hakkında ihalelere katılmaktan yasaklama kararı verileceği belirtilmiştir.
+c) Kanunun 59 uncu maddesinde, taahhüt tamamlandıktan ve kabul işlemi yapıldıktan sonra tespit edilmiş olsa dahi, ihale sürecinde 17 nci maddede belirtilen yasak fiil veya davranışlarda bulunanlar hakkında ihalelere katılmaktan yasaklama kararı verileceği belirtilmiştir.
 
-d) 4734 sayılı Kanunun 61 inci maddesinde, madde hükmünde belirtilen hususların aksine hareket edenler hakkında ihalelere katılmaktan yasaklama kararı verileceği 3- Çerçeve Anlaşma Inateteri Ve Ninferit Süaleyme Ahmlaro Ila İlgili Vasaklama
+d) 4734 sayılı Kanunun 61 inci maddesinde, madde hükmünde belirtilen hususların aksine hareket edenler hakkında ihalelere katılmaktan yasaklama kararı verileceği belirtilmiştir.
 
-b) 4734 sayılı Kanunun ek 2 nei maddesi uyarınca, Çerçeve Anlaşma Ihaleleri Lygulama Yonetmeliğinin 43 Öncü maddesine göre münferit strlaşteye davet edildiği halde ihale dokümanında belirtilen süre içerisinde münferit sälesene imzalamayan istekliye ihalekre katılmaktan yusaklama cezası verileceklar.
+**2- 4735 Sayılı Kamu İhale Sözleşmeleri Kanununda Yer Alan Yasaklama Hükümleri**
 
-s) ‹(a) ve (h) bentlerinde belimilen hususlar çerçeve anlașta ihaleleri we mimlerit sözłeşme alımlan ile ilgili öcel hususlar alup, 4734 ve 4735 sayıı Kanuntarda per alan ihalelere katılmaktan yasaklamaya dişkin tum hokümler bu alımlar için de uygulanacakta. + Doğrudan Tersin Almalarıda Yasaklama İylemleri
+a) Kanunun 16 ncı maddesinde, sözleşmenin zorunlu hallerde ihale yetkilisinin yazılı izni ile başkasına devredilebileceği, işin ve statü değişikliği gereği yapılan devirler hariç olmak üzere, bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde aynı yüklenici tarafından başka bir sözleşmenin devredilemeyeceği veya devir alınamayacağı, izinsiz devredilen veya devir alınan veya bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde devredilen veya devir alınan sözleşmelerin feshedileceği, devreden ve devir alanlar hakkında 20, 22 ve 26 ncı madde hükümlerinin uygulanacağı belirtilmektedir.
 
-Kamu İhale Genel Tebliğinin 28.).10. "Dogrudan Temin Usulünde Yasaklama Kararı" Başiki altinda;
+b) Kanunun 22 nci maddesinde, 19, 20 ve 21 inci maddelere göre sözleşmenin feshedilmesi halinde, yükleniciler hakkında 26 ncı madde hükümlerine göre işlem yapılacağı belirtilmektedir.
 
-"28.1.10.1. Doğrudın temin yoluyla yapılan alamlarda, Kanunun 58 inei maddesine güne ihalelere kahılmaktan yasaklama karam verilebilmesi mümkun değildir.
+c) Kanunun 25 inci maddesinde sözleşmenin uygulanması sırasında yasaklanan fiil ve davranışlar sayılmış ve 26 ncı maddesinde de bu yasak fiil ve davranışlarda bulunmuş olanlar hakkında ihalelere katılmaktan yasaklama kararı verileceği öngörülmüştür.
 
-38.1.10.2. Doğrudan teminin ihale usalü olmadığı dikkate alındığında, 4735 saysh Kanunun 25 inci maddesi ile sözleşerin uygulanması sırenda ortaya çıkan yasak fil veya davranışlar duzenlendiğinden; ayna Kanunun 26 naa maddesinde dengöräfen müeyyidelerin doğrudan kemin işir kygufemas mümkün bulunmamaktadr.
+d) Kanunun 29 uncu maddesinde; madde hükmünde belirtilen hususların aksine hareket edenler hakkında ihalelere katılmaktan yasaklama uygulanacağı öngörülmüş, Kanunun 30, 32, 33 ve 34 üncü maddelerinde ilgililerin sorumlulukları belirlenmiş ve aksine hareket edenler hakkında uygulanacak yaptırımlarla birlikte aynı Kanunun 27 nci maddesinin de uygulanacağı hükme bağlanmıştır.
 
-28.1.10.3. Bununla birlikte; doğrudan ternin usulüyle yapılan alımlarda ortaya kakan 4734 sayalı Kanunun 17 inci ve 4735 sayılı Kanunun 25 inci maddesinde belirtilen yasak fil veya davranışların Türk Ceza Kanununa göre saç teąkıl cimesi; bu fiil veya davranişlar için ecza sorumluluğuna dişkin hükümlerin uygulanmasma engel teskil etmex."
+**3- Çerçeve Anlaşma İhaleleri ve Münferit Sözleşme Alımları ile İlgili Yasaklama Hükümleri**
 
-getirde açiklamalara ver verilmiş olup, doğrudan temin alimtarında ba açaklamalara dikkat edilmesi gerekmektedir. 5- 2556 Sayıh Devlet İhale Kanuaundä Yer Alan Yasaklama Hükümleri
+a) Çerçeve Anlaşma İhaleleri Uygulama Yönetmeliğinin 41 inci maddesinde, çerçeve anlaşma imzalamaya davet edildiği halde mücbir sebep halleri dışında usulüne göre çerçeve anlaşma imzalamayanlar hakkında ihalelere katılmaktan yasaklama kararı verileceği belirtilmiştir.
 
-g) 2386 sayıla Kamumun 83 Oncü maddesinde ihale işlemlerinin hazırlanması, yürütmesi ve samıçlandırılması sırasındaki yasak olan fiil ve davranışar sıralanmış ve anılan Kanunun 84 üneü maddesinin birinci fikrasında bu yasak fiil ve davranışlarda Balunanlar hakkında ihalelere katılmaktan yasaklama karant verilereği düzenlenmiş olmakla birlikte Hazine Taşınmazlanının İdaresi Hakkında Yönetmelikte de bu hususa yer verilmiştir.
+b) 4734 sayılı Kanunun ek 2 nci maddesi uyarınca, Çerçeve Anlaşma İhaleleri Uygulama Yönetmeliğinin 43 üncü maddesine göre münferit sözleşmeye davet edildiği halde ihale dokümanında belirtilen süre içerisinde münferit sözleşme imzalamayan istekliye ihalelere katılmaktan yasaklama cezası verilecektir.
 
-b) Kamuman $4 ünsü madleinin Açilnen fikrasında ise, üzerine ihale yapaldig hakde usulüne göre sözleşene yapmayan istekliler ile sözleşme yapıldıktan sonra taahhüdünden vaxgeçen ve müdbir webeplar dişanda taahhüdünü sözleşme ve şartname hukümlerine uygun olarak yerine getirmeyen müteahhit veya müşteriker hakkında da ihalelere kalınisktan yusaklana karanı verileceği belirtilmiştir.
+c) (a) ve (b) bentlerinde belirtilen hususlar çerçeve anlaşma ihaleleri ve münferit sözleşme alımları ile ilgili özel hususlar olup, 4734 ve 4735 sayılı Kanunlarda yer alan ihalelere katılmaktan yasaklamaya ilişkin tüm hükümler bu alımlar için de uygulanacaktır.
 
-### B. VASAKLAMAYI GEREKTİRİR DURUMUN TESPITINDE DİKKAT EDILECEK HUSUSLAR
+**4- Doğrudan Temin Alımlarında Yasaklama İşlemleri**
 
-4734 sayıh Kanan 58 inci ve 1735 sayıla Kanunun 26 841 maddeleri ile 2886 sayılı Kananan B4 ünel maddelerinde, idarelerin ihalelere katılmaktan yasaklamayı gerektirir Mr durumla karalaşıkları takdirde, gereğinin yapılması için bu durumu. ilgili veya bağlı bulunulim Bakanlığa biktimekle yükümlü olduklan belirtilmiştir. Kamu itste Genel Tebliğinde yasaklamayı gerektirir durumlarla ilgili olarak idarelerin naal harcket cimeler gerektiği yününde açıklamalara yer verilmiştic. Bununla birlikte telafisi güç yaptırımlarla karşılaşılmaman için ayağıda belirtilen bususlam dikkat edilmesi gerekmektedir.
+Kamu İhale Genel Tebliğinin 28.1.10. “Doğrudan Temin Usulünde Yasaklama Kararı” başlığı altında;
 
-1. 4734 sayılı Kamuman 17 nei ve 4735 sayıh Karumum 25 inci maddelerí ile 2886 sayıs Kasumum 83 ünch maddesinde, ihalelerde ve söeleşmenin uygulaması sırasında yasak olanı fil veya davranışlar belirlenmiştir. Belirtilen bu yasak fil veyn davzamışlardan bazıları (Örmeğin; sabre belge duzenlemek, kullanmak veya banlara tegebbüs etmek) aym zamanda Tärk Coza Kamimena (TCK) gäre sup teşkil eden fil veya davranışlanhr.
+“28.1.10.1. Doğrudan temin yoluyla yapılan alımlarda, Kanunun 58 inci maddesine göre ihalelere katılmaktan yasaklama kararı verilebilmesi mümkün değildir.
 
-Ozellikle TCK ile de sap sıydan ve cezai müeyvidelere dayanan bir hususta işlem tesisiein, her türlüi şüpheden azak, kesin va kanıtlanabilir delillerin varlğıu gerektindiği, bu yünde ve menkte dell bulunmaksa salt süpheye dayalı tartışılabılir müphem delil ve indelere müsteniden işlem tesisinin hukuken uygun bulunsayacağı da tereddrsüzdar.
+28.1.10.2. Doğrudan teminin ihale usulü olmadığı dikkate alındığında, 4735 sayılı Kanunun 25 inci maddesi ile sözleşmenin uygulanması sırasında ortaya çıkan yasak fiil veya davranışlar düzenlendiğinden; aynı Kanunun 26 ncı maddesinde öngörülen müeyyidelerin doğrudan temin için uygulanması mümkün bulunmamaktadır.
 
-Bu sebeple, 4734 sayılı Kanunun 17 nei ve 4735 sayalı Kanunun 25 inci maMeleri ile 2856 sayalı Kanunun 83 lost maddelerinde yer alan yasak fil veya davranışlarin ilgili olarak yapılacak olan ihalelere katılmaktan yasaklama işlemlerinde yukarıda belirtilen açıklamalar da göz änünde bulunduralark gerekli azenin gösterilmesi gerekmektedir.
+28.1.10.3. Bununla birlikte; doğrudan temin usulüyle yapılan alımlarda ortaya çıkan 4734 sayılı Kanunun 17 nci ve 4735 sayılı Kanunun 25 inci maddesinde belirtilen yasak fiil veya davranışların Türk Ceza Kanununa göre suç teşkil etmesi; bu fiil veya davranışlar için ceza sorumluluğuna ilişkin hükümlerin uygulanmasına engel teşkil etmez.”
 
-4754 sayılı Kanunun 58 inci maddesi kapsamnda nazerine ihale yapıldığa halde müebir sebep halleri dışında usalüne güre stızkşe yamayanlar hakkeda verilerek ihalelere katılmaktan ysaklama karanı tespitlerinde, tebligatım tigili mevzuat hükumleri şerşavsaink yapılmasına dikkat edilecektir.
+şeklinde açıklamalara yer verilmiş olup, doğrudan temin alımlarında bu açıklamalara dikkat edilmesi gerekmektedir.
 
-#) Ihale Uzerinde kalan ve süaleşncyc davet cdlen isteklinin, 4734 sayıh Kansun 10 uncu maddesinin dördünel fikrasan (a), (b), (€), (d), (e) ve (g) bent(erinde sayalan durumlarda olmadığım tevsik eden belgelerin sunulmamla halinde yapılacak iştemler hususunda; Kamu İhale Genel Tebliğinin "17.6. Ihale üzerinde kalan İsteklilerin kanunun 10 uncu maddesinin dörduneü fikrasında sayılan durumlarda almadığına dair belgeieri sözleşmeden önce sunamaması" taşlığa altında yapılan açıklamalara dikkat edilmesi.„
+**5- 2886 Sayılı Devlet İhale Kanununda Yer Alan Yasaklama Hükümleri**
 
-b) 4734 sigalı Karunun 32 nei maddesinde, teklif geçerlilik süresinin ihals dokünanında belirtileceği ve ihtiyaç duyulması halinde bu sürenin isteklinin kabulü kaydışta en fazla ihale dokümamands belirtilen teklif geçerlilik stresi kadar uzatılabileceği belitilmektedir. Söeleşmey davetlerde teklif geçerlilik süresimin dolup dalmadığına, teklif geşetlihk süresínin uzantması yönünde idarenin talebinin istekti tarafindan kabui edilip edilmodiğine dikkat «dilmesi gerekmektedir.
+a) 2886 sayılı Kanunun 83 üncü maddesinde ihale işlemlerinin hazırlanması, yürütülmesi ve sonuçlandırılması sırasındaki yasak olan fiil ve davranışlar sıralanmış ve anılan Kanunun 84 üncü maddesinin birinci fıkrasında bu yasak fiil ve davranışlarda bulunanlar hakkında ihalelere katılmaktan yasaklama kararı verileceği düzenlenmiş olmakla birlikte Hazine Taşınmazlarının İdaresi Hakkında Yönetmelikte de bu hususa yer verilmiştir.
 
-3. 4735 sayıl Kanunun 25 Inci maddesinin (0) bendi kapsamunda Daerine ibale yagaldığı halde müebir sebep halleri dışnda tahhädünü ihale dekimara ve statejme hükümleri uyanınca yerine getirayen yüklenieiler hakkında verilecck ihalelere katılmaktan yasaklama karon tespitlerinde:
+b) Kanunun 84 üncü maddesinin üçüncü fıkrasında ise, üzerine ihale yapıldığı halde usulüne göre sözleşme yapmayan istekliler ile sözleşme yapıldıktan sonra taahhüdünden vazgeçen ve mücbir sebepler dışında taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmeyen müteahhit veya müşteriler hakkında da ihalelere katılmaktan yasaklama kararı verileceği belirtilmiştir.
 
-a) 4735 sayilı Kanunun 30 nei maddesinin (a) bendinde taahhüdün ihale deküman ve saleşme häkimlerine uygun olarak yerine getirmeyen veyn işi süresinde bitirmeyen ylkleniciye, gecikme eczas uygulanmak üzere idarenin on günden az olmamak üzere ihale dokümananda belirlının süreli ve nedenleri sęskea belirtilen ihtarın çekilmesi bu ihtara rağmen aym durumun devam etmesi halkerinds abaleşenin feshedilmesi gerektigi huküm altına ahırımasına rağmen söz komusu ihtarnare çekilmeden,
+### B- YASAKLAMAYI GEREKTİRİR DURUMUN TESPİTİNDE DİKKAT EDİLECEK HUSUSLAR
 
-b) Ihale dokünanında ve sözleşme hükümlerinde idarenin sipariși docrine mal teslim edileceği belirtilmesine ragmen siparişler, ihale dokümanunda belirtildigi şekilde verilmeden,
+4734 sayılı Kanunun 58 inci ve 4735 sayılı Kanunun 26 ncı maddeleri ile 2886 sayılı Kanunun 84 üncü maddelerinde, idarelerin ihalelere katılmaktan yasaklamayı gerektirir bir durumla karşılaştıkları takdirde, gereğinin yapılması için bu durumu ilgili veya bağlı bulunulan Bakanlığa bildirmekle yükümlü oldukları belirtilmiştir. Kamu İhale Genel Tebliğinde yasaklamayı gerektirir durumlarla ilgili olarak idarelerin nasıl hareket etmeleri gerektiği yönünde açıklamalara yer verilmiştir. Bununla birlikte telafisi güç yaptırımlarla karşılaşılmaması için aşağıda belirtilen hususlara dikkat edilmesi gerekmektedir.
 
-«) Taahhüdünü partname ve såeleşne hükumlerine güre yerine gelinnediğine dair herhangi bir tutanak, rapor gibi belgeler duzenlenmedan,
+**1.** 4734 sayılı Kanunun 17 nci ve 4735 sayılı Kanunun 25 inci maddeleri ile 2886 sayılı Kanunun 83 üncü maddesinde, ihalelerde ve sözleşmenin uygulanması sırasında yasak olan fiil veya davranışlar belirlenmiştir. Belirtilen bu yasak fiil veya davranışlardan bazıları (Örneğin; sahte belge düzenlemek, kullanmak veya bunlara teşebbüs etmek) aynı zamanda Türk Ceza Kanununa (TCK) göre suç teşkil eden fiil veya davranışlardır.
 
-dy Muayene ve kabul işlemleri ilgili yünetmelik hukümlerine uygun alarak
+Özellikle TCK ile de suç sayılan ve cezai müeyyidelere dayanan bir hususta işlem tesisinin, her türlü şüpheden uzak, kesin ve kanıtlanabilir delillerin varlığını gerektirdiği, bu yönde ve nitelikte delil bulunmaksızın salt şüpheye dayalı tartışılabilir müphem delil ve ifadelere müsteniden işlem tesisinin hukuken uygun bulunmayacağı da tereddütsüzdür.
 
-Vuklenkilerin sbalegmeleri, toahbdden ihale dekiman ve säzleşme hükümleri çerçevesinde yerine getirmediği gerekçesiyle, 4735 sayıh Kanunun 20 nei maddesine istinaden feshedilmekte ve yüklenici hakkında ihalelere katılmaktan yasaklama karanı. verilmesi için Bakanlığımıza bildirimde bulunalaradır.
+Bu sebeple, 4734 sayılı Kanunun 17 nci ve 4735 sayılı Kanunun 25 inci maddeleri ile 2886 sayılı Kanunun 83 üncü maddelerinde yer alan yasak fiil veya davranışlarla ilgili olarak yapılacak olan ihalelere katılmaktan yasaklama işlemlerinde yukarıda belirtilen açıklamalar da göz önünde bulundurularak gerekli özenin gösterilmesi gerekmektedir.
 
-4. Idareleree devam eden sözleşme kapsamında ynsaklamyn gerektirir bir dirsenla Karşaşılhğında, söeleşme fesbedilmaden yüklenici hakkinda ihalelere katilmaktan yasaklara karan verilmesi iğin Bakan/ağımıza bildirimde ballanulduğu görulmektedir
+**2.** 4734 sayılı Kanunun 58 inci maddesi kapsamında üzerine ihale yapıldığı halde mücbir sebep halleri dışında usulüne göre sözleşme yapmayanlar hakkında verilecek ihalelere katılmaktan yasaklama kararı tespitlerinde, tebligatın ilgili mevzuat hükümleri çerçevesinde yapılmasına dikkat edilecektir.
 
-Oysıki 4735 sayılı Kanamın 22 nei maddesinin son paragrafinda; "....19, 20 ve 21 inci maddelere göre sürlesmenin feshedinssi halinde yükleniçiler hakkanda 36 acı madde hükümlerine güre işlem yapahır..." şeklinde yer alan hükümden de anlaşılacağı üzere sözleşmenin feshedilmesi halinde yasaklama karanı serileseği açıkşa belirtilmektedir.
+a) İhale üzerinde kalan ve sözleşmeye davet edilen isteklinin, 4734 sayılı Kanunun 10 uncu maddesinin dördüncü fıkrasının (a), (b), (c), (d), (e) ve (g) bentlerinde sayılan durumlarda olmadığını tevsik eden belgelerin sunulmaması halinde yapılacak işlemler hususunda; Kamu İhale Genel Tebliğinin “17.6. İhale üzerinde kalan isteklilerin Kanunun 10 uncu maddesinin dördüncü fıkrasında sayılan durumlarda olmadığına dair belgeleri sözleşmeden önce sunamaması” başlığı altında yapılan açıklamalara dikkat edilmesi,
 
-Ba nedenle, devam eden sözleşme kapsamında yasaklamayı gerektirir bir dunatila karilaliğında, idareleree bu durum tespit edilerek sözleşme feshedildikten sera yuklenici hakkında ihalelere kasılmaktan, yasaklama kararı venlmesi için. Bakanlığınaza talepte bulamilması gerekmektedir.
+b) 4734 sayılı Kanunun 32 nci maddesinde, teklif geçerlilik süresinin ihale dokümanında belirtileceği ve ihtiyaç duyulması halinde bu sürenin isteklinin kabulü kaydıyla en fazla ihale dokümanında belirtilen teklif geçerlilik süresi kadar uzatılabileceği belirtilmektedir. Sözleşmeye davetlerde teklif geçerlilik süresinin dolup dolmadığına, teklif geçerlilik süresinin uzatılması yönünde idarenin talebinin istekli tarafından kabul edilip edilmediğine dikkat edilmesi gerekmektedir.
 
-5. Yüklenielnin İşçilerine karşı olan ytiklm lalaklerini yerine getirmemesi hali, 4735 sayıh Kanunum 20 inti maddesi kapsarda sözleşmenim deshi sebebi olarak kahul edilmeyeceği gibi 25 inci maddesi kapsarıla yasak fil ve davraną olarak da kabul edilmeyecektir
+**3.** 4735 sayılı Kanunun 25 inci maddesinin (f) bendi kapsamında üzerine ihale yapıldığı halde mücbir sebep halleri dışında taahhüdünü ihale dokümanı ve sözleşme hükümleri uyarınca yerine getirmeyen yükleniciler hakkında verilecek ihalelere katılmaktan yasaklama kararı tespitlerinde:
 
-Ansak, yüklenicinin işçilerine kurşı olan yikänidiğünü yerine getirmemesi nedenişte, steleşme kanusu taahhldün ihale dokümama ve säzleşme hükumleri doğraltusunda ycrine getirilmemesi veya işin süresi içerisinde bitirilmemesi durumlarında sözleşmede va Kasanda belirtilen şekilde stizleşmenin feshedilmesi balinde yasaklama karamı vygulanacaktır.
+a) 4735 sayılı Kanunun 20 nci maddesinin (a) bendinde taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmeyen veya işi süresinde bitirmeyen yükleniciye, gecikme cezası uygulanmak üzere idarenin on günden az olmamak üzere ihale dokümanında belirlenen süreli ve nedenleri açıkça belirtilen ihtarın çekilmesi, bu ihtara rağmen aynı durumun devam etmesi halinde sözleşmenin feshedilmesi gerektiği hüküm altına alınmasına rağmen söz konusu ihtarname çekilmeden,
 
-4. 2886 sayıh Kanun hükümleri uyansea verilecek olan ihalelere katılmaktan yasaklata kararı tespitlerinde;
+b) İhale dokümanında ve sözleşme hükümlerinde idarenin siparişi üzerine mal teslim edileceği belirtilmesine rağmen siparişler, ihale dokümanında belirtildiği şekilde verilmeden,
 
-2886 sayilı Karanun 37 nei maddesinde belirtilen hukümlere ve sûreye (15 gim) riayet edilmesi.
+c) Taahhüdünü şartname ve sözleşme hükümlerine göre yerine getirmediğine dair herhangi bir tutanak, rapor gibi belgeler düzenlenmeden,
 
-b) Sözleşme kapudıktan sonra Kamınun 63 üncå makles ade yazılı hükümler dışımda mütcahhit weyn müşterinin taahhüdünden vazgeçmesi veya taahhedanü, sartaame ve süalsame häkimleriee uygun olarak yerine getirmemesi durumunda, Kanarun 62 aci maddesi geregince idarece en az on gon süreli ve Bedenleri açikça belirtilen ibrann gekllmesi gerekmekiedir.
+d) Muayene ve kabul işlemleri ilgili yönetmelik hükümlerine uygun olarak yapılmadan,
 
-Aynen yasaklama işkemletinde Hazine Taşırırmazlarımım Maresi Hakkındı Yönetmelik hükumlerine de dikkat «dilmesi gerekmektedir.
+yüklenicilerin sözleşmeleri, taahhüdünü ihale dokümanı ve sözleşme hükümleri çerçevesinde yerine getirmediği gerekçesiyle, 4735 sayılı Kanunun 20 nci maddesine istinaden feshedilmekte ve yüklenici hakkında ihalelere katılmaktan yasaklama kararı verilmesi için Bakanlığımıza bildirimde bulunulmaktadır.
 
-### C-YASAKLAMAYI GEREKTIRIR DURUMLARIN IDARELERCE BILDİRİLMESÍ
+**4.** İdarelerce devam eden sözleşme kapsamında yasaklamayı gerektirir bir durumla karşılaşıldığında, sözleşme feshedilmeden yüklenici hakkında ihalelere katılmaktan yasaklama kararı verilmesi için Bakanlığımıza bildirimde bulunulduğu görülmektedir.
 
-1- Carkuriyet Savciliğma Bildirim
+Oysaki 4735 sayılı Kanunun 22 nci maddesinin son paragrafında; “…19, 20 ve 21 inci maddelere göre sözleşmenin feshedilmesi halinde yükleniciler hakkında 26 ncı madde hükümlerine göre işlem yapılır…” şeklinde yer alan hükümden de anlaşılacağı üzere sözleşmenin feshedilmesi halinde yasaklama kararı verileceği açıkça belirtilmektedir.
 
-4734 sayılı Komanun 59 uncu maddesinde; "Tanhhüt tamamlantıktan ve kabul işlemi yapıldıktan senta tespit edilmiş olsa dahi, 17 nci maddede belirtilen fil veya kastanşlardan Türk Čeza Kamana göre suç teşkil eden fiil veya davranışlarda balunan gerçek veya tizel kavg de e a sapi mek nere yetil Cumaiye ave Cera va doyu hind bilu ale. Eta.
+Bu nedenle, devam eden sözleşme kapsamında yasaklamayı gerektirir bir durumla karşılaşıldığında, idarelerce bu durum tespit edilerek sözleşme feshedildikten sonra yüklenici hakkında ihalelere katılmaktan yasaklama kararı verilmesi için Bakanlığımıza talepte bulunulması gerekmektedir.
 
-4715 sayıh Kamımın 27 nei maddeside, "Iş tarnamlandaktan ve kabul işlemi yapıldıktan sonra tespit edilmiş olsa dahi, 25 inci macklede belirtilen fiil vayn davranışlardan Tirk Ceza Kanununa göre suç teşkil kdes fäl veya daveserşlorda bulunan perçek veya sadl kişiler ike e işteki ortak veya vekilleri hakkında Türk Cexa Kanunu hükümlerine göre çean kevştarnası yapılmak txere yetkili Cumhuriyet Saveılığına sık duyansunda bulunufur..."
+**5.** Yüklenicinin işçilerine karşı olan yükümlülüklerini yerine getirmemesi hali, 4735 sayılı Kanunun 20 nci maddesi kapsamında sözleşmenin feshi sebebi olarak kabul edilmeyeceği gibi 25 inci madde kapsamında yasak fiil ve davranış olarak da kabul edilmeyecektir.
 
-Şeklinde belirtilen hükümler doğrultusunda idarekisa, Türk Çeza Kanumuma göre suç Bąkil oden fiil veya davranışlarda bulunduğu tespit edilen gerçck veya täzel kişiler ile o işkeki ortak veya vekilleri hakkında ilgili Cumhuriyet Saverlıklanna suç duyurusunda bulunulması gerekmektedir. 2- Yasaklama Taleplerinin Bakanleğamura Bildirimi
+Ancak, yüklenicinin işçilerine karşı olan yükümlülüğünü yerine getirmemesi nedeniyle, sözleşme konusu taahhüdün ihale dokümanı ve sözleşme hükümleri doğrultusunda yerine getirilmemesi veya işin süresi içerisinde bitirilmemesi durumlarında sözleşmede ve Kanunda belirtilen şekilde sözleşmenin feshedilmesi halinde yasaklama kararı uygulanacaktır.
 
-4734 sayılı Kanun 58 inci ve 4735 sayıh Kamaman 26 naa maddeleri ile 2886 sayth Kanaman 84 ünsüı maddelerinde; ihalelere katılmaktan yasaklama kararfarının, ihaleyi yapan idarelerin ilgili veya bağlı bulunduklar Bakamhıklar tarafından verileceği, aynca idarelerinı yasaklamayı gerektirir bir durumla karşılaştıklan takdirde gereğinin yapılmaśa için bu durumu ilgili veya bağlı bulundukları Bakanlığa iMlamekle yükümlü oldukları belirtilmektedir.
+**6.** 2886 sayılı Kanun hükümleri uyarınca verilecek olan ihalelere katılmaktan yasaklama kararı tespitlerinde:
 
-Anlan hükümler doğrultusunda Il Sağhk Müdürlükleri ve bağlı sağlk tesislerince yasaklamays gerektirir bir durum tespit edilmesi halinde, yasaklarna ile ilgili talepler İl Sağlık Müdürlükleri tarafindan:
+a) 2886 sayılı Kanunun 37 nci maddesinde belirtilen hükümlere ve süreye (15 gün) riayet edilmesi,
 
-a) [halenin 11 Saglik Modurlugtnce yapılması ve shelameye bağlanması halinde Strateji Geliştime Bagkarliğea,
+b) Sözleşme yapıldıktan sonra Kanunun 62 nci maddesinde yazılı hükümler dışında müteahhit veya müşterinin taahhüdünden vazgeçmesi veya taahhüdünü, şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi durumunda, Kanunun 62 nci maddesi gereğince idarece en az on gün süreli ve nedenleri açıkça belirtilen ihtarın çekilmesi gerekmektedir.
 
-b) halenin baglı sağlık tesisleri tarafından yapılması ve sözleşseye bağlanması halinde Kamu Hastaneleri Genel Itödirlogünc,
+c) Ayrıca yasaklama işlemlerinde Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik hükümlerine de dikkat edilmesi gerekmektedir.
 
-günderilssaktir. 3- Yasaklama Taleplerinin Zamanında Bildirilmesi
+### C- YASAKLAMAYI GEREKTİRİR DURUMLARIN İDARELERCE BİLDİRİLMESİ
 
-4734 sayılı Kanunun 58 inki ve 4735 sayıh Kamumun 26 net maddelerinde; ihalelere katılmaktan yasaklama kararlarının, yusak lamayı gerektiren fiil veya davransän tespit edildiği larihi izleyen en gep kırk beş gün içinde verileceği, verilen bu kararların Resmî Gazetede yayımlanmak lazere en geç on bea gan işinde günderileceği ve yayum tarihinde yümürluąe girecegi belartilmekledit.
+**1- Cumhuriyet Savcılığına Bildirim**
 
-Bu alze geçirildikten sonra yasaklama karan verilmesi mümkün olmadığından, kurumlarımız ihalelere katılmaktan yasaklamayı gerektirir bir durum tespit ettikleri takdirde gereğinin yapılmase için bu durumu ivedilikle Bakanlığınıza bildirmek zorundadırlar. 4- Yasaklama Taleplerinde Bakanlıümara Günderilmesi Gereken Bilzi Ve Reigeler
+4734 sayılı Kanunun 59 uncu maddesinde; “Taahhüt tamamlandıktan ve kabul işlemi yapıldıktan sonra tespit edilmiş olsa dahi, 17 nci maddede belirtilen fiil veya davranışlardan Türk Ceza Kanununa göre suç teşkil eden fiil veya davranışlarda bulunan gerçek veya tüzel kişiler ile o işteki ortak veya vekilleri hakkında Türk Ceza Kanunu hükümlerine göre ceza kovuşturması yapılmak üzere yetkili Cumhuriyet Savcılığına suç duyurusunda bulunulur...”
 
-halelere katılmaktan yasaklama karanı verebilmek için gerekli bilgi ve belgelerin zamanında ve cksiksiz olarak Bakanlığımıza göndeilmesi yasaklama kararlarmın gecikmeye neden olunmadan işleme konulmasını sağlamak açisndan čner arz cinsktedir.
+4735 sayılı Kanunun 27 nci maddesinde; “İş tamamlandıktan ve kabul işlemi yapıldıktan sonra tespit edilmiş olsa dahi, 25 inci maddede belirtilen fiil veya davranışlardan Türk Ceza Kanununa göre suç teşkil eden fiil veya davranışlarda bulunan gerçek veya tüzel kişiler ile o işteki ortak veya vekilleri hakkında Türk Ceza Kanunu hükümlerine göre ceza kovuşturması yapılmak üzere yetkili Cumhuriyet Savcılığına suç duyurusunda bulunulur...”
 
-Yasıklama bildirimlerinin Bakanlığınaca sağlıklı bir şekilde değerlendirilebilmesi için; yasaklara bildirimine ilişkin üst yazılarda, idarece tespit edilen yusak fiil veya davranışın 4734 sayıh Kanunun 17 nei ve 4735 sayth Kanunun 25 inci maddeleri ile 2886 sayıhı Kamunun 83 Uncü maklelsrinde belirtilen hangi yasak fiil veya davranış kapsamında değerlendirildiği net olamak belirtilmeli ve yasaklamayı gerektirir durumun ayrıntısıyla ve kronalojik sıralamaya tabi tutufarak açıklanmasa gerekmektedir.
+şeklinde belirtilen hükümler doğrultusunda idarelerce, Türk Ceza Kanununa göre suç teşkil eden fiil veya davranışlarda bulunduğu tespit edilen gerçek veya tüzel kişiler ile o işteki ortak veya vekilleri hakkında ilgili Cumhuriyet Savcılıklarına suç duyurusunda bulunulması gerekmektedir.
 
-Hu bağlamnda, yüsak fiil veya davranışın özelliğine glire haza belgeler değişiklik göstermekle birlikte, aşağda sayılan belgelerin kurumlarıma tarafından asıllan idarele saklanmak, Uzere bekkefseak olup, suretlerinin "asla gibidir" yapılarak zamanında ve eksiksir olarak gönderilmesi gerekmektedir.
+**2- Yasaklama Taleplerinin Bakanlığımıza Bildirimi**
 
-9) Batän yusakfama bildirimlerinde gönderilmesi gereken oriak belgeler
+4734 sayılı Kanunun 58 inci ve 4735 sayılı Kanunun 26 ncı maddeleri ile 2886 sayılı Kanunun 84 üncü maddelerinde; ihalelere katılmaktan yasaklama kararlarının, ihaleyi yapan idarelerin ilgili veya bağlı bulundukları Bakanlıklar tarafından verileceği, ayrıca idarelerin yasaklamayı gerektirir bir durumla karşılaştıkları takdirde gereğinin yapılması için bu durumu ilgili veya bağlı bulundukları Bakanlığa bildirmekle yükümlü oldukları belirtilmektedir.
 
-1- Kansa Ihale Gerel Tebliği ekinde yer alan "Inatcicre Kanılmaktan Yasaklama"
+Anılan hükümler doğrultusunda İl Sağlık Müdürlükleri ve bağlı sağlık tesislerince yasaklamayı gerektirir bir durum tespit edilmesi halinde, yasaklama ile ilgili talepler İl Sağlık Müdürlükleri tarafından:
 
-2- Isteklininyaklenicinin mevzuatı gereği kayshı olduğu ticaret ve/veya sanayi odası vaya ilgili meslek odasi belgesi
+a) İhalenin İl Sağlık Müdürlüğünce yapılması ve sözleşmeye bağlanması halinde Strateji Geliştirme Başkanlığına,
 
-3- Isteklinin/yuklenicinin tüzel kişi olması halinde, ilgisine göre tüzet kişiliğin ortakları, üyeleri veya kuruculan ile tazel kişiligin yönetimindeki görevlileri belirlen son durumu gösterir Ticarst Sicil Garstesi, ba bilgilerin tamamann bir Treatet Sicil Gazetesinde bulunmaması balinda, bu bilgilerin tümunü göstermek tlzere ilgili Ticarci Sicil Gazcteleri vaya bu hususları gösteren belgeler ile wael kişiliğin noter tasdikli imza sirküleri.
+b) İhalenin bağlı sağlık tesisleri tarafından yapılması ve sözleşmeye bağlanması halinde Kamu Hastaneleri Genel Müdürlüğüne,
 
-4 Isteklinin/ytiklenieinin sermaye hisse oranlarınu gösterit ticaret sicil gazetesi.
+gönderilecektir.
 
-5- Kamu ihale Cenel Tebliğinin 28.1.1.3 Kecü maddesinin (b) bendi başlığa altınla yupılan açıklamalar doğrultusunda tespit adilen ortaklar/ortakhklarla ilgili züm hilgi ve belgeler ( kimlik numarasi, vergi Bayt numaras), mevzuatı gereği kayıtla oluğa ticaret ve/veya sanayi ada veya ilgili meslek odası belgesi gibi).
+**3- Yasaklama Taleplerinin Zamanında Bildirilmesi**
 
-ø Teklif mektubu ile teklif mektubunu imzalayan kişinin teklif vermeye yetkili olduğunu gösteren irza beyunnamesi seya imza sirküleri, vekileten ihaleze katılma halinde iss; vekil adıma düxenlenmiş ihaleye katilmaya ilişkin noter onaylı vekåletname ile vekilin noter tasalikli imtan bayannaresi.
+4734 sayılı Kanunun 58 inci ve 4735 sayılı Kanunun 26 ncı maddelerinde; ihalelere katılmaktan yasaklama kararlarının, yasaklamayı gerektiren fiil veya davranışın tespit edildiği tarihi izleyen en geç kırk beş gün içinde verileceği, verilen bu kararların Resmî Gazetede yayımlanmak üzere en geç on beş gün içinde gönderileceği ve yayım tarihinde yürürlüğe gireceği belirtilmektedir.
 
-7- İsteklimin/yuklenicinin ortak girişim olması halinde iş ortaklığa boyärmamest.
+Bu süre geçirildikten sonra yasaklama kararı verilmesi mümkün olmadığından, kurumlarımız ihalelere katılmaktan yasaklamayı gerektirir bir durum tespit ettikleri takdirde gereğinin yapılması için bu durumu ivedilikle Bakanlığımıza bildirmek zorundadırlar.
 
-&- Ihale komisyon kararı.
+**4- Yasaklama Taleplerinde Bakanlığımıza Gönderilmesi Gereken Bilgi ve Belgeler**
 
-9- Keşici veyn kesin teminatın gelir kaydedilmesinin genektiği dunumlarda, teminarm gelir kaydedilmeai İçin ilgili saymamlığa yazıllan yazn.
+İhalelere katılmaktan yasaklama kararı verebilmek için gerekli bilgi ve belgelerin zamanında ve eksiksiz olarak Bakanlığımıza gönderilmesi yasaklama kararlarının gecikmeye neden olunmadan işleme konulmasını sağlamak açısından önem arz etmektedir.
 
-10- Idari Şartnienin tamamı.
+Yasaklama bildirimlerinin Bakanlığımızca sağlıklı bir şekilde değerlendirilebilmesi için; yasaklama bildirimine ilişkin üst yazılarda, idarece tespit edilen yasak fiil veya davranışın 4734 sayılı Kanunun 17 nci ve 4735 sayılı Kanunun 25 inci maddeleri ile 2886 sayılı Kanunun 83 üncü maddelerinde belirtilen hangi yasak fiil veya davranış kapsamında değerlendirildiği net olarak belirtilmeli ve yasaklamayı gerektirir durumun ayrıntısıyla ve kronolojik sıralamaya tabi tutularak açıklanması gerekmektedir.
 
-I1- Vasak: fiil veyn davramşın tespitine yönelik film bilgi ve belgeler.
+Bu bağlamda, yasak fiil veya davranışın özelliğine göre bazı belgeler değişiklik göstermekle birlikte, aşağıda sayılan belgelerin kurumlarımız tarafından asılları idarede saklanmak üzere bekletilerek, suretlerinin “aslı gibidir” yapılarak zamanında ve eksiksiz olarak gönderilmesi gerekmektedir.
 
-a) Sahte belge veya sahle teminat kullandıgımm tespitine dair bilgi ve belgeler,
+**a) Bütün yasaklama bildirimlerinde gönderilmesi gereken ortak belgeler**
 
-b) 4734 sayalı Kanunun 11 insi maddesine göre ihaleye katılamayucağı belirtildıği holde ihaleye katılmaktan delayı teklif edilen yasaklamalorda, gerşek veya Wzel kişinin ihaleye kallamayneoğanı gosterir bilgi ve belgeler.
+1- Kamu İhale Genel Tebliği ekinde yer alan “İhalelere Katılmaktan Yasaklama” formu.
 
-c) 4735 sayıh Kanumun 16 nei maddesine aykını olamak geleşenin devredildiğini gosterir bilgi ve belgeler.
+2- İsteklinin/yüklenicinin mevzuatı gereği kayıtlı olduğu ticaret ve/veya sanayi odası veya ilgili meslek odası belgesi.
 
-b) Sizlasme, münferit sizlesme veya çerçeve anlaşma imzalamaya gelmediği için ihalcktre katı(maktan yasaklama kararı bildirimlerinde (a) bendinde sayılan belgelere tave olarak
+3- İsteklinin/yüklenicinin tüzel kişi olması halinde, ilgisine göre tüzel kişiliğin ortakları, üyeleri veya kurucuları ile tüzel kişiliğin yönetimindeki görevlileri belirten son durumu gösterir Ticaret Sicil Gazetesi, bu bilgilerin tamamının bir Ticaret Sicil Gazetesinde bulunmaması halinde, bu bilgilerin tümünü göstermek üzere ilgili Ticaret Sicil Gazeteleri veya bu hususları gösteren belgeler ile tüzel kişiliğin noter tasdikli imza sirküleri.
 
-1- Kesinleşen ihale karan bildirim yazısı ile saleşme yapmays davet yazısa, ayrıa bu yazıların 4734 sagalı Kanunun 65 inti maddesinde belirtilen usullerde bildirim ve tebligatın yapıldığam gösterir bilgi ve belgeler.
+4- İsteklinin/yüklenicinin sermaye hisse oranlarını gösterir ticaret sicil gazetesi.
 
-2- Isteklinin yasal süre iperisinde sheleşme imenlamadığna kair tatalan tutanak.
+5- Kamu İhale Genel Tebliğinin 28.1.1.3 üncü maddesinin (b) bendi başlığı altında yapılan açıklamalar doğrultusunda tespit edilen ortaklar/ortaklıklarla ilgili tüm bilgi ve belgeler (T.C. kimlik numarası, vergi kayıt numarası, mevzuatı gereği kayıtlı olduğu ticaret ve/veya sanayi odası veya ilgili meslek odası belgesi gibi).
 
-3- Munferit stalegre ibolelerinde: çemeve in laşma ihalesi için verdiği techif mektubu, münferit delesme teklif vermeye davet yazası, münferit sözleste ihalesi için varilen teklif mektubu ve mümferit ihale kamiayen karar.
+6- Teklif mektubu ile teklif mektubunu imzalayan kişinin teklif vermeye yetkili olduğunu gösteren imza beyannamesi veya imza sirküleri, vekâleten ihaleye katılma halinde ise; vekil adına düzenlenmiş ihaleye katılmaya ilişkin noter onaylı vekâletname ile vekilin noter tasdikli imza beyannamesi.
 
-4) Taahhüdünü şartname ve sizleșme hükimleri çerçevesinde yerine getirmedigi veya işi süresinde bitirmediği için ihalelere katılmaktan yasaklama kararı Bildirimlerinde (a) bendinde sayılan belgelere ilave alarak;
+7- İsteklinin/yüklenicinin ortak girişim olması halinde iş ortaklığı beyannamesi.
 
-1. Yüklenici ile imzal anan säzleşmenin tomon
+8- İhale komisyon kararı.
 
-2- Teknik Şarinamenin tamame.
+9- Geçici veya kesin teminatın gelir kaydedilmesinin gerektiği durumlarda, teminatın gelir kaydedilmesi için ilgili saymanlığa yazılan yazı.
 
-3- Taahhuduno sarmame ve seleşme boktenleri persevesinde yerine getirmediğine veya bşi süresinde bitirmediğine dair (muayene ve kabul komisyonu tutanaklan, bildirimler, sipariş yazılan, durum kapit tatanaklan, firma dilekçeleri gibi) belgeler.
+10- İdari Şartnamenin tamamı.
 
-+ Yüklenicinin tashhtdünü ihale dokamanı ve sözleşme hükümlerine uygun olarak yerine getiremesi veya işi stresinde batirmemesi hacrine gönderilmesi gersken pn gündes az olmamak üzere ihale dokümanında belirlensu süreli ve nedenleri agakça belirtilen ihtarname ile bu iblamamenin yükleniciye verline uygun olarak tebligatımn yapıldığım gösterir bilgi ve belgeler.
+11- Yasak fiil veya davranışın tespitine yönelik tüm bilgi ve belgeler.
 
-S- Fesih karun ve ku kararın yükleniciye bildirikliğine doir belge.
+Örneğin;
 
-### D- DIGER HUSUSLAR
+a) Sahte belge veya sahte teminat kullanıldığının tespitine dair bilgi ve belgeler,
 
-1- Bu Genelgede, balelere katılmaktan yasaklama işlemleri ile ilgili olarak uygulamada reklıkla tereddide düşilen bazı hususlara yer verilmiş alup, yasaklamaya ilişkin İşlemlerde öncelikle ilgiti mevzuat doğrultusunda hareket odil mesi gerektigi umatulmamal «åır.
+b) 4734 sayılı Kanunun 11 inci maddesine göre ihaleye katılamayacağı belirtildiği halde ihaleye katılmaktan dolayı teklif edilen yasaklamalarda, gerçek veya tüzel kişinin ihaleye katılamayacağını gösterir bilgi ve belgeler,
 
-2- Bu Gerelgede yer alan düzenlemeleriaçaklamalar; 4734 sayıh Kamu İhale Kanani, 4735 sayılı Kamu İhale Sözleşmeicri Karanu, 2886 sayılı Devlet Ihale Kanunu hükümlerinde se bu Kanunlara dayarlarnk harmlanan ikincil mevzuatta yapılacak değişikliklere aykın hale gelmesi halinde gegersiz say facaktır.
+c) 4735 sayılı Kanunun 16 ncı maddesine aykırı olarak sözleşmenin devredildiğini gösterir bilgi ve belgeler.
 
-3- Strweji Geliştiene Başkanlığırım yayımladığı 05.06.2008 tarihli ve 20&/42 sayalı Genelgenin "VII- Ihalelere Katimaktan Yasaklama" balümü ile Mülga Türkiyę Kama Hastaneleri Kurumunun yayımladığı "Ihalelere Katılmaktım Yasaklama Işlemleri" kosala 22.03.2013 tarihli ve 2013/04 nolu Genelge yürürlukten kaldın laştır.
+b) Sözleşme, münferit sözleşme veya çerçeve anlaşma imzalamaya gelmediği için ihalelere katılmaktan yasaklama kararı bildirimlerinde (a) bendinde sayılan belgelere ilave olarak;
+
+1- Kesinleşen ihale kararının bildirim yazısı ile sözleşme yapmaya davet yazısı, ayrıca bu yazıların 4734 sayılı Kanunun 65 inci maddesinde belirtilen usullerde bildirim ve tebligatının yapıldığını gösterir bilgi ve belgeler.
+
+2- İsteklinin yasal süre içerisinde sözleşme imzalamadığına dair tutulan tutanak.
+
+3- Münferit sözleşme ihalelerinde: çerçeve anlaşma ihalesi için verdiği teklif mektubu, münferit sözleşme teklif vermeye davet yazısı, münferit sözleşme ihalesi için verilen teklif mektubu ve münferit ihale komisyon kararı.
+
+c) Taahhüdünü şartname ve sözleşme hükümleri çerçevesinde yerine getirmediği veya işi süresinde bitirmediği için ihalelere katılmaktan yasaklama kararı bildirimlerinde (a) bendinde sayılan belgelere ilave olarak;
+
+1- Yüklenici ile imzalanan sözleşmenin tamamı.
+
+2- Teknik Şartnamenin tamamı.
+
+3- Taahhüdünü şartname ve sözleşme hükümleri çerçevesinde yerine getirmediğine veya işi süresinde bitirmediğine dair (muayene ve kabul komisyonu tutanakları, bildirimler, sipariş yazıları, durum tespit tutanakları, firma dilekçeleri gibi) belgeler.
+
+4- Yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi veya işi süresinde bitirmemesi halinde gönderilmesi gereken on günden az olmamak üzere ihale dokümanında belirlenen süreli ve nedenleri açıkça belirtilen ihtarname ile bu ihtarnamenin yükleniciye verilme usulüne uygun olarak tebligatının yapıldığını gösterir bilgi ve belgeler.
+
+5- Fesih kararı ve bu kararın yükleniciye bildirildiğine dair belge.
+
+### D- DİĞER HUSUSLAR
+
+1- Bu Genelgede, ihalelere katılmaktan yasaklama işlemleri ile ilgili olarak uygulamada sıklıkla tereddüde düşülen bazı hususlara yer verilmiş olup, yasaklamaya ilişkin işlemlerde öncelikle ilgili mevzuat doğrultusunda hareket edilmesi gerektiği unutulmamalıdır.
+
+2- Bu Genelgede yer alan düzenlemeler/açıklamalar; 4734 sayılı Kamu İhale Kanunu, 4735 sayılı Kamu İhale Sözleşmeleri Kanunu, 2886 sayılı Devlet İhale Kanunu hükümlerinde ve bu Kanunlara dayanılarak hazırlanan ikincil mevzuatta yapılacak değişikliklere aykırı hale gelmesi halinde geçersiz sayılacaktır.
+
+3- Strateji Geliştirme Başkanlığının yayımladığı 05.06.2008 tarihli ve 2008/42 sayılı Genelgenin “VII- İhalelere Katılmaktan Yasaklama” bölümü ile Mülga Türkiye Kamu Hastaneleri Kurumunun yayımladığı “İhalelere Katılmaktan Yasaklama İşlemleri” konulu 22.03.2013 tarihli ve 2013/04 nolu Genelge yürürlükten kaldırılmıştır.
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
@@ -202,6 +226,12 @@ Bakan a.
 
 Müsteşar
 
-### DAGITIM
+### DAĞITIM
 
-81 Il Valiligi (iI Sağlık Midirlgo) B Plan
+Gereği
+
+81 İl Valiliği (İl Sağlık Müdürlüğü)
+
+Bilgi
+
+B Planı

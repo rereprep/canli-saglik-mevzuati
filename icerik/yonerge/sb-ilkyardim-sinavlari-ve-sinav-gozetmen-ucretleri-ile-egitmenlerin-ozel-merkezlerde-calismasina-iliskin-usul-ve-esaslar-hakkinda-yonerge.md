@@ -12,8 +12,6 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-3.2.2. İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Özel Merkezlerde Çalışmasına İlişkin Usul ve Esaslar Hakkında Yönerge
-
 T.C.
 SAĞLIK BAKANLIĞI
 Acil Sağlık Hizmetleri Genel Müdürlüğü
@@ -23,9 +21,10 @@ Konu : İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin 
 
 ### BAKANLIK MAKAMINA
 
-6514 Sayılı Kanunla değişiklik yapılan ve 15.01.2014 tarihinde yürürlüğe giren 3359 Sayılı Sağlık Hizmetleri Temel Kanunu, Ek Madde 11'e istinaden ilkyardım eğitimlerinde teorik ve uygulamalı sınavlar için katılımcılardan alınacak sınav ücreti ile sınavlarda görev alacak sınav gözetmenlerine ödenecek ücretler her yıl Sağlık Bakanlığınca belirlenir. 29.07.2015 tarih ve 29429 sayılı Resmi Gazete'de yayımlanan İlkyardım Yönetmeliği'ne dayanılarak hazırlanan "İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Özel Merkezlerde Çalışmasına İlişkin Usul ve Esaslar Hakkında Yönerge" metni ilişikte sunulmuştur.
+6514 Sayılı Kanunla değişiklik yapılarak 18.01.2014 tarihinde yürürlüğe giren 3359 Sayılı Sağlık Hizmetleri Temel Kanunu, Ek Madde 12'ye eklenen İlkyardım eğitimlerinde teorik ve uygulamalı sınavlar için katılımcılardan alınacak sınav ücreti ile sınavlarda görev alacak sınav gözetmenlerine ödenecek ücretler her yıl Sağlık Bakanlığınca belirlenir hükmü ile 29.07.2015 tarih ve 29429 Resmî Gazete'de yayımlanan İlkyardım Yönetmeliğine dayanılarak hazırlanan “İlkyardım Sınavları ve Sınav Gözetmen Ücretleri ile Eğitmenlerin Özel Merkezlerde Çalışmasına İlişkin Usul ve Esaslar Hakkında Yönerge” metni ilişikte sunulmuştur.
 
-Anılan Yönerge'nin onaylanarak, yürürlüğe konulması hususunu takdir ve tensiplerinize arz ederim.
+Anılan Yönerge'nin onaylanarak yürürlüğe konulması hususunu,
+Takdir ve tensiplerinize arz ederim.
 
 Doç. Dr. Hikmet Selçuk GEDİK
 Genel Müdür
@@ -33,6 +32,7 @@ Genel Müdür
 EK: Yönerge Taslağı (4 Sayfa)
 
 Uygun Görüşle Arz Ederim
+Tarkan ALKAN
 Müsteşar Yardımcısı
 
 Uygun Görüşle Arz Ederim
@@ -45,7 +45,7 @@ OLUR
 Dr. Mehmet MÜEZZİNOĞLU
 Bakan
 
-### İLKYARDIM SINAVLARI VE SINAV GÖZETMEN ÜCRETLERİ İLE EĞİTMENLERİN ÖZEL MERKEZLERDE ÇALIŞMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNERGE
+### İLKYARDIM SINAVLARI VE SINAV GÖZETMEN ÜCRETLERİ İLE EĞİTMENLERİN MERKEZLERDE ÇALIŞMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNERGE
 
 ## BİRİNCİ BÖLÜM
 
@@ -53,160 +53,208 @@ Bakan
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönergenin amacı, ilkyardım eğitim merkezleri ile İlkyardım eğitici egitimı merkezlerinin, teorik ve uygulamalı sınavlarda sınav gözetmen ekibinin oluşturulması, eğitmenlerin çalişma standardı ile sınav gözetmen ücretlerine ilişkin usul ve esasları belirlemektir. Kapsan
+**MADDE 1 –** (1) Bu Yönergenin amacı, ilkyardım eğitim merkezleri ile ilkyardım eğitici eğitim merkezlerinin, teorik ve uygulamalı sınavlarda sınav gözetmen ekibinin oluşturulması, eğitmenlerin çalışma standardı ile sınav gözetmen ücretlerine ilişkin usul ve esasları belirlemektir.
 
-**MADDE 2 –** (1) Bu Yönerge, ilkyardım eğitim merkezlerini ile ilkyardım eğitici eğitim merkezlerini, sınav gözetmen ekibinin olusturulmasıı eğitici eğitmenlerinin çalışma standardı İle sınuv gözetmen ücretlerinin belirlenmesine ilişkin usul ve esasları kapsar Dayanak
+#### Kapsam
 
-**MADDE 3 –** (1) Bu Yönerge, 3359 sayılı Sağlık Hizmetleri Temel Kanununun Ek 13 üncü maddesi ile 29/07/2015 tarihli ve 29429 sayılı Resmî Gazete’de yayımlanan İlkyardım Yönetmeliğine dayanılarak hazırlanmıştır.
+**MADDE 2 –** (1) Bu Yönerge, ilkyardım eğitim merkezleri ile ilkyardım eğitici eğitim merkezlerini, sınav gözetmen ekibinin oluşturulmasını, eğitici eğitmenlerinin çalışma standardı ile sınav gözetmen ücretlerinin belirlenmesine ilişkin usul ve esasları kapsar.
+
+#### Dayanak
+
+**MADDE 3 –** (1) Bu Yönerge, 3359 sayılı Sağlık Hizmetleri Temel Kanunu Ek Madde 13 ve 29/07/2015 tarihli ve 29429 sayılı Resmî Gazete'de yayımlanan İlkyardım Yönetmeliğine dayanılarak hazırlanmıştır.
 
 #### Tanımlar
 
-**MADDE 4 –** (1) Bu Yönergede geçen:
+**MADDE 4 –** (1) Bu Yönergede geçen;
 
-a) Bakanlık: Sağlık Bakanlığını.
+a) Bakanlık: Sağlık Bakanlığını,
 
 b) Genel Müdürlük: Acil Sağlık Hizmetleri Genel Müdürlüğünü,
 
-e) Merkez: İlkyardım Eğitim Merkezi ile İlkyardım Eğitici Egitim Merkezini,
+c) Merkez: İlkyardım Eğitim Merkezi ile İlkyardım Eğitici Eğitim Merkezini,
 
-d) Katılımeı; likyardımet Ve likyardı Eğitmeti olınak İçin egitim alan kışiyi,
+d) Katılımcı: İlkyardımcı ve İlkyardım Eğitmeni olmak için eğitim alan kişiyi,
 
 e) Müdürlük: İl Sağlık Müdürlüğünü,
 
-1) OED: Otomatik Ekstemal Defibrilanörü,
+f) OED: Otomatik Eksternal Defibrilatörü,
 
-g) Sınuv: İlkyantımcı ve Ilkyardun Eğitmeni teorik ve uygulama sınavıu, Ii) Sinav Gozetmeni; Genel Müdürtik ve/veya müdürlükte görev yapan yetki belgeli
+g) Sınav: İlkyardımcı ve İlkyardım Eğitmeni teorik ve uygulama sınavını,
 
-ilkyardı eğimeri ve/veya ilksardım egitici eğitmenini,
+h) Sınav Gözetmeni: Genel Müdürlük ve/veya müdürlükte görev yapan yetki belgeli ilkyardım eğitmeni ve/veya ilkyardım eğitici eğitmenini,
 
-i) Sınav Gözetmen Ekibi Yetki belgeli ilkyardım ve/veya ilkyardım eğitici
+i) Sınav Gözetmen Ekibi: Yetki belgeli ilkyardım ve/veya ilkyardım eğitici eğitmeninden oluşan iki kişilik ekibi,
 
-eğitmeninden oluşan iki kişilik ckibi. J) Yönetmelik: 29,07.2015 tarih ve 29429 Sayılı Resmi Gazete'de yayımianan
+j) Yönetmelik: 29.07.2015 tarih ve 29429 sayılı Resmî Gazete'de yayımlanan İlkyardım Yönetmeliğini,
 
-Ilkyardı Yönetmeliğın.
+ifade eder.
 
-Hade eder.
+## İKİNCİ BÖLÜM
 
-### IKINCI BOLUM
+İlkyardım eğitimi ve ilkyardım eğitici eğitimi sınav gözetmeni komisyonu ile sınav gözetmen ekibinde görev alacaklar
 
-İlkyardım eğitimi ve ilkyardım eğitici eğitimi sınav gözetmeni komisyonu ile sınav
+#### Sınav komisyonunun belirlenmesi
 
-### gözetmen ekibinde görev alacaklar
+**MADDE 5 –** (1) Sınav gözetmenlerini belirlemek üzere oluşturulan komisyonda, sağlık müdürü, acil sağlık hizmetlerinden sorumlu sağlık müdür yardımcısı, acil/afetlerde sağlık hizmetleri şube müdürü ile ilkyardım eğitmeni ve/veya ilkyardım eğitici eğitmeni yer alır.
 
-**MADDE 5 –** (1) Sınav gözetenlerini belirlemek tæere oluşturuian komisyonda, sağlık müdürü, acil sağlık hizmetlerinden sorumlu sağhk mudur yardımcısı, acil/ afetlerde sağlık hizmetleri şube müdürü ile ilkyardım eğitmeni ve/veya ilkyardım egitici egiteni yer alır. (215mav gözetmen ekibi; Genel Müdürlilk Ve/veya mildür|ükie görev yapan ilkyardım eğitmeni ve/veya ilkyardı eğrici eğitmenlerinden oluşur.
+(2) Sınav gözetmen ekibi; Genel Müdürlük ve/veya müdürlükte görev yapan ilkyardım eğitmeni ve/veya ilkyardım eğitici eğitmenlerinden oluşur.
 
-#### Sınavı yürütecek smav gözetmenlerinin görevlendirilmesi
+#### Sınavı yürütecek sınav gözetmenlerinin görevlendirilmesi
 
-**MADDE 6 –** 1)Smav gözetmen kibi bir yıllik olarak belirlenir.
+**MADDE 6 –** (1) Sınav gözetmen ekibi bir yıllık olarak belirlenir.
 
-(2)Sınıvlarda katılımer sayısının 20 kişiyi aşması halinde, her 10 katılımer ıçın 1tbirı gözetmen ilave edilir
+(2) Sınavlarda katılımcı sayısının 20 kişiyi aşması halinde, her 10 katılımcı için 1 (bir) gözetmen ilave edilir.
 
-(3)Smav gözetmen ekibi| sthav sastinden 30 dakika önce sınav salonunda hazır bultnur ve sınav senuçlanana kadar sınay salonundan ayrılamaz
+(3) Sınav gözetmen ekibi sınav saatinden 30 dakika önce sınav salonunda hazır bulunur ve sınav sonuçlanana kadar sınav salonundan ayrılamaz.
 
-4) Teorik sınav suastuda unav salonuna merkez eğitmenleri alımmaz,
+a) Teorik sınav sırasında sınav salonuna merkez eğitmenleri alınmaz.
 
-b) Uygulamalı sınavda katılımcıya (EK-la)'da yer alar uygulamalar yaptırılir.
+b) Uygulamalı sınavda, katılımcıya (EK-7a)'da yer alan uygulamalar yaptırılır.
 
-**MADDE 7 –** (1 Teorik ve uygulansalı stavlarda, eğitim konuları ve uygulama standartları ile Yönetmelik hükümlerine uymadığ tespit edilen gözetmenlere & yaltı i ay görev verilmez
+**MADDE 7 –** (1) Teorik ve uygulamalı sınavlarda, eğitim konuları ve uygulama standartları ile Yönetmelik hükümlerine uymadığı tespit edilen gözetmenlere 6 (altı) ay görev verilmez.
 
-### UÇUNCŨ BÔLÚM
+## ÜÇÜNCÜ BÖLÜM
 
-#### İlkyardım Egitimi ve İlkyardın Eğitici Eğitimi Sınavları
+İlkyardım Eğitimi ve İlkyardım Eğitici Eğitimi Sınavları
 
-**MADDE 8 –** (Ellkyarıı egitimi, llkyardım Eğitici Eğitimi ve İlkyardım Eğitici Eğitmeni Eğitimlerinde katlıme savısı asgari 5 (heş) azami 20kyirmi) kişidir.
+**MADDE 8 –** (1) İlkyardım eğitimi, İlkyardım Eğitici Eğitimi ve İlkyardım Eğitici Eğitmeni Eğitimlerinde katılımcı sayısı asgari 5 (beş), azami 20 (yirmi) kişidir.
 
-(2)Smavlar, mesai saati dişinda 17,00" den sonra ve hatta sonlari 119.00 - 18.00 saatleri atasında yapılır. ()Uygulama sınayı teorik aravı takiben aymı gün içinde yapılır. İlkyardı Eğitimi
+(2) Sınavlar, mesai saati dışında 17.00'den sonra ve hafta sonları 09.00-18.00 saatleri arasında yapılır.
 
-**MADDE 9 –** (I)llkyardım eğ timi 2 gün (16 saat) dür.
+(3) Uygulama sınavı teorik sınavı takiben aynı gün içinde yapılır.
 
-(2)Sıavlar, Müdürlükce toplu olarak yapılabilir. ()Müdürlükçe sınav tarihirın belirlenebilmesi için merkezler, eğitim bitiş tarihinden itibaren 30 gün içerisinde Müdürlüge başvuruda bulunurlar *) Ik sınavda başanısız olan katılımcının 2 sıava giriş süresi, sınava gırerek başarısız olduğunun açıklanchğı tarihten itibaren sonraki 30 gün içerisindedir.
+#### İlkyardım Eğitimi
 
-b) Ilinde 3 ve 3 den az ilkyardım eğitim merkezi bulunan illerde ve cografi şartlanın uygansuzlugu darumunda mildırlak uygun görüyd ile sauv süresini eğitim bitiş terihinden itibaren 60 güne çıkarilabilir.
+**MADDE 9 –** (1) İlkyardım eğitimi 2 gün (16 saat)'dir.
 
-(4)llkyardın eğitim sınav sareci;
+(2) Sınavlar, Müdürlükçe toplu olarak yapılabilir.
 
-a) Katılımcılar, mesul müdür veya merkez eğitmeni ile birlikte sınavdan 30 dakika önce salonda hazır bulunur
+(3) Müdürlükçe sınav tarihinin belirlenebilmesi için merkezler, eğitim bitiş tarihinden itibaren 30 gün içerisinde Müdürlüğe başvuruda bulunurlar.
 
-b) Teorik sınav usulüne uygan yapılır; verilen sinav süresinin scaunda katılıncılar teorik sınav değerlendirmesi gözetmen ekibi tarafindan yapılır.
+a) İlk sınavda başarısız olan katılımcının 2. sınava giriş süresi, sınava girerek başarısız olduğunun açıklandığı tarihten itibaren sonraki 30 gün içerisindedir.
 
-e) Teorik sınavdan 100 uzerinden 85 ve üstli puan alan katlımelar uygulamalı suava ahmlar,
+b) İlde 3 ve 3'ten az ilkyardım eğitim merkezi bulunan illerde ve coğrafi şartların uygunsuzluğu durumunda müdürlük uygun görüşü ile sınav süresini eğitim bitiş tarihinden itibaren 60 güne çıkarılabilir.
 
-d) Lygulama sınavı, EK-7a'ya göre gözetmen kontrolünde merker eğitmenlerine yaptinhr ve birlikte sonuçlandırılır:
+(4) İlkyardım eğitim sınav süreci;
 
-e) Uygulamalı sınavdan 100 üzerinden 85 ve üsti puan alan katılımcılar haşanl sayılr.
+a) Katılımcılar, mesul müdür veya merkez eğitmeni ile birlikte sınavdan 30 dakika önce salonda hazır bulunur.
 
-0) Sinav strasında, katılımcı ve merkez eğitmeninin sorulara Itirazlan görevli gözetmenler taralından değerlendirilir. Yanlış okduğu tespit edilen serular tutanakla kayıt altına ahnarak soru ipsal edilir, puanlama kalan sorular fizerinden yapılır ve müdärlage bildirilir İlkyardım Eğitici Eğitimi
+b) Teorik sınav usulüne uygun yapılır; verilen sınav süresinin sonunda katılımcıların teorik sınav değerlendirmesi gözetmen ekibi tarafından yapılır.
 
-**MADDE 10 –** (Tllkyardı eğitici egitimi stresi 5 gün (40aat) dir
+c) Teorik sınavdan 100 üzerinden 85 ve üstü puan alan katılımcılar uygulamalı sınava alınır.
 
-a) Uygulama smavı worik sınavı takiben aymı gün içerisinde yapılır.
+d) Uygulama sınavı, EK-7a'ya göre gözetmen kontrolünde merkez eğitmenlerine yaptırılır ve birlikte sonuçlandırılır.
 
-(2) lIkyardım eğitici eğitim sınav süreci:
+e) Uygulamalı sınavdan 100 üzerinden 85 ve üstü puan alan katılımcılar başarılı sayılır.
 
-a) Katılımeılar, mesul müdür veya merkez eğitmeni ile birlikte smavdan 30 dakika önce merkezin eğitim salonunda hazır bulanar
+f) Sınav sırasında, katılımcı ve merkez eğitmeninin sorulara itirazları görevli gözetmenler tarafından değerlendirilir. Yanlış olduğu tespit edilen sorular tutanakla kayıt altına alınarak soru iptal edilir, puanlama kalan sorular üzerinden yapılır ve müdürlüğe bildirilir.
 
-b) likyardım eğiticı eğinımı sınavı reerik va uygulamalı olarak ıki aşamada yapıtır
+#### İlkyardım Eğitici Eğitimi
 
-e) likyardan ve eğitim beceriler konularının teorik sınavları aynı anda yapılır dy Tecrik smav stresinin souunda katılımcıların teorik anav değerlerdirmesi gözetioen ekibi tarafndan yapilir
+**MADDE 10 –** (1) İlkyardım eğitici eğitimi süresi 5 gün (40 saat)'dir.
 
-e) Her ikl teorik stnavdan da ayn ayn 100 uzerinden 85 ve üstü puan alan kahılımeilar ilkyardım uygulamalan sınavına almıriar.
+a) Uygulama sınavı teorik sınavı takiben aynı gün içerisinde yapılır.
 
-f) Uygulama sınavı, EK-a'ya göre gözetmen kontrolünde merkez eğitenlerince septir ve birlikte sonuçlandırir.
+(2) İlkyardım eğitici eğitim sınav süreci:
 
-g) Ilkyarım uygulamaları sınavdan, geçerli puan alan katılımcılar eğitim becerileri sunumu (EK 7b) yönünden değerlendirilir. Uygulamal sınavda 100 üzerinden 85 ve üstä pum alan katılamelar başardı sayırlar D) Sınay sirasında, katılımcı ve merkez egitmeninin sorulara itirazlan gorevli gözetmenler tarafindan değerlendirilir. Yanlış olduğu tespit edilen sorular tutanakla kayıt altana alınarak soru iptal edilir, puanlems kalan sorular üzerinden yapılır ve müdürlüğe hildirilir. OED Egitimi
+a) Katılımcılar, mesul müdür veya merkez eğitmeni ile birlikte sınavdan 30 dakika önce merkezin eğitim salonunda hazır bulunur.
 
-**MADDE 11 –** (1) OED elitimi süresi #(dört) seuttird Temel Yasam Desteği +OED)
+b) İlkyardım eğitici eğitimi sınavı teorik ve uygulamalı olarak iki aşamada yapılır.
 
-a) OFD egitimci egitimi Müdurinkçe duzenlenir
+c) İlkyardım ve eğitim becerileri konularının teorik sınavları aynı anda yapılır.
 
-b) OED eğitımı, OED eğitmeni belgesine sahip tlkyardım oğitmeni ve/veya ilkyardım egities egitmenleri tarafindan verilir.
+d) Teorik sınav süresinin sonunda katılımcıların teorik sınav değerlendirmesi gözetmen ekibi tarafından yapılır.
 
-• Merkezler Müdürlükten OED eğilimi düzenleme yetki belgesi alarak DED eğitimi duzenleyebi ir
+e) Her iki teorik sınavdan da ayrı ayrı 100 üzerinden 85 ve üstü puan alan katılımcılar ilkyardım uygulamaları sınavına alınırlar.
 
-(2) DED kullanım belgesi alacak kişılerin en az lise mezunu olması zorunludur
+f) Uygulama sınavı, EK-7a'ya göre gözetmen kontrolünde merkez eğitmenlerince yaptırılır ve birlikte sonuçlandırılır.
+
+g) İlkyardım uygulamaları sınavından geçerli puan alan katılımcılar eğitim becerileri sunumu (EK-7b) yönünden değerlendirilir. Uygulamalı sınavda 100 üzerinden 85 ve üstü puan alan katılımcılar başarılı sayılırlar.
+
+h) Sınav sırasında, katılımcı ve merkez eğitmeninin sorulara itirazları görevli gözetmenler tarafından değerlendirilir. Yanlış olduğu tespit edilen sorular tutanakla kayıt altına alınarak soru iptal edilir, puanlama kalan sorular üzerinden yapılır ve müdürlüğe bildirilir.
+
+#### OED Eğitimi
+
+**MADDE 11 –** (1) OED eğitimi süresi 4 (dört) saattir (Temel Yaşam Desteği + OED).
+
+a) OED eğitmen eğitimi Müdürlükçe düzenlenir.
+
+b) OED eğitimi, OED eğitmeni belgesine sahip ilkyardım eğitmeni ve/veya ilkyardım eğitici eğitmenleri tarafından verilir.
+
+c) Merkezler Müdürlükten OED eğitimi düzenleme yetki belgesi alarak OED eğitimi düzenleyebilir.
+
+(2) OED kullanım belgesi alacak kişilerin en az lise mezunu olması zorunludur.
 
 ## DÖRDÜNCÜ BÖLÜM
 
-#### İlkyardım Egitmeni, fikyardım Eğlici Egitmeni ve Mesul Müdurun Calşma Esasları
+İlkyardım Eğitmeni, İlkyardım Eğitici Eğitmeni ve Mesul Müdürün Çalışma Esasları
 
-**MADDE 12 –** (1)llkşardim Eğıtmeni ve İlkyardım Eğitici Eğitmeni en fazla 4 (därt) merkezde çalişabilir. ()Eğitim merkezinde çalışmak için Müdürlüğe başvuran elitmenler dilekçelerinde diğer çalışuğı merkezleri beyan cinekle mükellefir. ()Kanlımeı sayına göce görev alan eğitmenler, eğitim süresince eğitim yetinden ayn lamazlar.
+**MADDE 12 –** (1) İlkyardım Eğitmeni ve İlkyardım Eğitici Eğitmeni en fazla 4 (dört) merkezde çalışabilir.
 
-**MADDE 13 –** (1) Mesul Müdür tek bir merkezde müdürlük yapabilir ve müdürlch yaptığı merkezde istetse eğitmenlik de yapabilir. Mesul müduri
+(2) Eğitim merkezinde çalışmak için Müdürlüğe başvuran eğitmenler dilekçelerinde diğer çalıştığı merkezleri beyan etmekle mükelleftir.
 
-a) Eğitim süresince eğitim merkezinde bulunmas zorundadır.
+(3) Katılımcı sayısına göre görev alan eğitmenler, eğitim süresince eğitim yerinden ayrılamazlar.
+
+**MADDE 13 –** (1) Mesul Müdür tek bir merkezde müdürlük yapabilir ve müdürlük yaptığı merkezde isterse eğitmenlik de yapabilir.
+
+Mesul müdür;
+
+a) Eğitim süresince eğitim merkezinde bulunmak zorundadır.
 
 b) Başka bir iş kolunda ve tam zamanlı çalışamaz.
 
-e) Denetimlerde merkerde bulunmak ve Denetim Ekibine yardımer olmakla mükelleftir. ()Kamu personeli olarak çalışan egitmenler mesui müduritk yapamaz
+c) Denetimlerde merkezde bulunmak ve Denetim Ekibine yardımcı olmakla mükelleftir.
+
+(2) Kamu personeli olarak çalışan eğitmenler mesul müdürlük yapamaz.
 
 ## BEŞİNCİ BÖLÜM
 
 #### Denetim
 
-**MADDE 14 –** (1)Merkez denetimleri İlkyardım Yönetmeliği EK-Ba ve EK -Sb'ye göte yapılr a) Yönetmeliğin usul ve esaslarının yürütülmesi üle içili denetim ferlek tutanak almayan hususlar, formların altıda yet alan genel değerlendirme kısmunda helitilerek tutanak
+**MADDE 14 –** (1) Merkez denetimleri İlkyardım Yönetmeliği EK-8a ve EK-8b'ye göre yapılır.
 
-6) Tutanak altına alıman cksikliklerin ve uygunsuzlukların giderilmesi çin merkezlere 15 (on bes) uun süre verilir; süre bitiminde eksikligin devam etmesi lulinde 3 (0¢) ayhk faaliyet
+a) Yönetmeliğin usul ve esaslarının yürütülmesi ile ilgili denetim formlarında yer almayan hususlar, formların altında yer alan genel değerlendirme kısmında belirtilerek tutanak altına alınır.
 
-(2)OED egitimim düzenlemeyeceklerini beyan eden merkezler Ek-f de yer alan DED (J)EK-5 de asgari malzeme listesindeki metronomdan 1 (bir) adet bulundurulmasi yeterlıdir.
+b) Tutanak altına alınan eksikliklerin ve uygunsuzlukların giderilmesi için merkezlere 15 (on beş) gün süre verilir; süre bitiminde eksikliğin devam etmesi halinde 3 (üç) aylık faaliyet durdurma cezası verilir.
 
-## ALTINCI BÖLÜM Eğitim ve Sınav Ücretleri
+(2) OED eğitimi düzenlemeyeceklerini beyan eden merkezler Ek-3'te yer alan OED eğitim setini bulundurmakla yükümlü değildir.
 
-#### Eğitim ücretlerinin belirlenmesi ve sinavda güzetmen olanlara ücret ödenmesi
+(3) EK-5'te asgari malzeme listesindeki metronomdan 1 (bir) adet bulundurulması yeterlidir.
 
-**MADDE 15 –** (1)0cret espit komisyonu; #) Müdürlükçe, Yönetmeliğin 25 Maddesi gereği her yım Orak ayı başından Şuba: ayt sobuna kadar toplanır. Dy Suresi içerisinde Deret Tespit, Komisyonu oluşturslamaz ise, bir onceki yı/ıa derati geçerlidir.
+## ALTINCI BÖLÜM
 
-**MADDE 16 –** (1)Sinav gözetmen kibi ücreti; ilkyardı eğitimi ile eğitici egitimi veren her kurtı ve kuruluş tarafindan, her bir katılme (çin hesaplanarak bulunan toplumu tutar ilgili Il Sağlık Müdürlugünur bağhı bulunduğu Dener Sermaye Saymanlığı hesabına yatırılir. Tahsil edilen tutarlar Döner Sermaye Saymankklannca. Doner Sermayeli faltimeler Bilice ve Muhasebe Yöntmeliginin 273 ineli maddesi uyanınca 336-Lager Çeşitli Borçlar Hesabına alacak kaydedilir.
+Eğitim ve Sınav Ücretleri
 
-a) Müdürdül, sınav gözetmen ekibinde yer alan kişilere yapıincak odemeleri gösteris Çeşitlı Ödemeler Bordrosu Ye Banka Listesine hazarlayarak Muhusebe Işlem Vişi (335 Diğer Çeşitli Borçlar Hesabına borç, gerekli yasal kesintiler yapıldıktan sonra kalamı 103 Nolu Hesaba alacak kaydedilir.) ekinde ilgili saymanlığa gönderir.
+#### Eğitim ücretlerinin belirlenmesi ve sınavda gözetmen olanlara ücret ödenmesi
 
-b) likyardım eğitimi anav gözcunen ekibi ücreti, atnav başına bir katılimer için an yüksck devlat memurunun brüt aylığınun % 3 dar.
+**MADDE 15 –** (1) Ücret tespit komisyonu;
 
-c) lİkyardım eğitimci eğitimi sınav gözetmen ekibi ilereti, umav başına lıtr katılımcı için en yüksek deviet memurımın brit aylığuar % 4 dür.
+a) Müdürlükçe, Yönetmeliğin 25. Maddesi gereği her yıl Ocak ayı başından Şubat ayı sonuna kadar toplanır.
 
-d) DED oğiimi sınav gözetmen cibi Dereti stnav başına bir katılımer için en yüksek devlet memurunun brüt ayhanm % l' dir. ()Sınav gözetmen ücrett ( en yüksek devlet memura göstergesi X memur irans katsayıst) X.%.... / formtifüne göre hesaplar. ()Müdürluk tarafindan, sınav gözetmenlerine yapılan ödeme listesinin bir örneği, 193 sayılı Gelir Vergisi Kanununda yer slan vergi marah dilimleri dikkate ahınarak bar bir gözetmenin kendi matrah dilimine güre dogru vergi oranlarını uygulanmasını sağlarmak üzere Delerdartk Muhasebe Müdürlügüne gonderilir.
+b) Süresi içerisinde Ücret Tespit Komisyonu oluşturulamaz ise, bir önceki yılın ücreti geçerlidir.
 
-### YEDINCİ BÖLÜM Son Hükümler
+**MADDE 16 –** (1) Sınav gözetmen ekibi ücreti; ilkyardım eğitimi ile eğitici eğitimi veren her kurum ve kuruluş tarafından, her bir katılımcı için hesaplanarak bulunan toplam tutar ilgili İl Sağlık Müdürlüğünün bağlı bulunduğu Döner Sermaye Saymanlığı hesabına yatırılır. Tahsil edilen tutarlar Döner Sermaye Saymanlıklarınca, Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliğinin 273 üncü maddesi uyarınca 336-Diğer Çeşitli Borçlar Hesabına alacak kaydedilir.
+
+a) Müdürlük, sınav gözetmen ekibinde yer alan kişilere yapılacak ödemeleri gösterir Çeşitli Ödemeler Bordrosu ve Banka Listesini hazırlayarak Muhasebe İşlem Fişi (336-Diğer Çeşitli Borçlar Hesabına borç, gerekli yasal kesintiler yapıldıktan sonra kalanı 103 Nolu Hesaba alacak kaydedilir.) ekinde ilgili saymanlığa gönderir.
+
+b) İlkyardım eğitimi sınav gözetmen ekibi ücreti, sınav başına bir katılımcı için en yüksek devlet memurunun brüt aylığının % 3'üdür.
+
+c) İlkyardım eğitici eğitimi sınav gözetmen ekibi ücreti, sınav başına bir katılımcı için en yüksek devlet memurunun brüt aylığının % 4'üdür.
+
+ d) OED eğitimi sınav gözetmen ekibi ücreti sınav başına bir katılımcı için en yüksek devlet memurunun brüt aylığının % 1'idir.
+
+(2) Sınav gözetmen ücreti [(en yüksek devlet memuru göstergesi X memur maaş katsayısı) X %... ] formülüne göre hesaplanır.
+
+(3) Müdürlük tarafından, sınav gözetmenlerine yapılan ödeme listesinin bir örneği, 193 sayılı Gelir Vergisi Kanununda yer alan vergi matrah dilimleri dikkate alınarak her bir gözetmenin vergi matrah dilimine göre doğru vergi oranlarının uygulanmasını sağlamak üzere Defterdarlık Muhasebe Müdürlüğüne gönderilir.
+
+## YEDİNCİ BÖLÜM
+
+Son Hükümler
 
 #### Yürürlük
 
-**MADDE 17 –** (1)Bu Yönerge Onay tarihinden itibaren yürürlüğe girer. Yürütmr MADDE 18g(1)Bu Yönerge hükülm/crini Sağlık Bakanı yürütür.
+**MADDE 17 –** (1) Bu Yönerge Onay tarihinden itibaren yürürlüğe girer.
+
+#### Yürütme
+
+**MADDE 18 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

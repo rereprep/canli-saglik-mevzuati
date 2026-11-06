@@ -13,11 +13,12 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.72. Aşırı Sıcaklarda Alınması Gereken Önlemler Genelgesi (2007/52)
 
-### T.C. SAĞLIK BAKANLIĞI – Temel Sağlık Hizmetleri Genel Müdürlüğü
+### T.C. SAĞLIK BAKANLIĞI
 
-14927 25.06.07 Sayı: B.10.0.TSH.0.10.00.02
+Temel Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı: B.10.0.TSH.0.10.00.02                              14927 25.06.07
 Konu: Aşırı Sıcaklar
 
 ### GENELGE
@@ -26,33 +27,33 @@ Konu: Aşırı Sıcaklar
 
 ### VALİLİĞİNE
 
-Hava sıcaklığında olabilecek artışın, nemdeki artışla birlikte daha fazla etkili olacağı, gerekli önlemler alınmadığı takdirde insan sağlığını olumsuz etkileyebileceği, bu dururnda özellikle dört yaşından küçük çocuklar, yalnız yaşayanlar, özürlüler, bakıma ihtiyacı olanlar, gebeler, 65 yaş ve üzeri yaşlılar, aşırı kilolular, açık alanda çahışanlar, kronik hastalığı olanlar (şeker hastalıgı, kalp-damar hastalıkları, beyin-damar hastalıkları, psikolojik bastalklar, kronik solunum sistemi hastalıkları, karaciğer hastalıkları, böbrek hastalıklan), sürekli ilaç (özellikle tansiyon düşürücü, idrar söktürücü, depresyon ve uyka ilaçları) kullananların, alkol ve madde bağunhılarıın etkilenebileceği bilinmektedir
+Hava sıcaklığında olabilecek artışın, nemdeki artışla birlikte daha fazla etkili olacağı, gerekli önlemler alınmadığı takdirde insan sağlığını olumsuz etkileyebileceği, bu durumda özellikle dört yaşından küçük çocuklar, yalnız yaşayanlar, özürlüler, bakıma ihtiyacı olanlar, gebeler, 65 yaş ve üzeri yaşlılar, aşırı kilolular, açık alanda çalışanlar, kronik hastalığı olanlar (şeker hastalığı, kalp-damar hastalıkları, beyin-damar hastalıkları, psikolojik hastalıklar, kronik solunum sistemi hastalıkları, karaciğer hastalıkları, böbrek hastalıkları), sürekli ilaç (özellikle tansiyon düşürücü, idrar söktürücü, depresyon ve uyku ilaçları) kullananların, alkol ve madde bağımlılarının etkilenebileceği bilinmektedir.
 
-2003/65 sayılı genelgemizde yaz mevsimi ile artan hava sıcaklı ve güneşin olumsı etkileriadan konuunak için alınması gereken tedbirlere ilişkin hususlara dıkkat çekilmiş olmakla birlikte bu kenu ile ilgili güntel olarak hazılanmış olan Aşırı Sıcaklarda Alınması Gereken Önlemler konulu
+2003/65 sayılı genelgemizde yaz mevsimi ile artan hava sıcaklığı ve güneşin olumsuz etkilerinden korunmak için alınması gereken tedbirlere ilişkin hususlara dikkat çekilmiş olmakla birlikte bu konu ile ilgili güncel olarak hazırlanmış olan Aşırı Sıcaklarda Alınması Gereken Önlemler konulu doküman yazımız ekinde gönderilmektedir.
 
-1-) Valiliğinizce konunun İl Hıfzıssıhha Kurulunda değeriendirilnesi ve iliniz scodinde gereken tüm tedbirlerin alınması, yazımız ekindeki dökümanlarda da bahsedildiği üzere, ilk etapta kronik hastakğı olanlar, açak alanda çalışanlar, özurluler ve hamileler çalışma şartlanı açisından ayrıco değerlendirilerek gerakirse kanumi şartlar çerçevesinde izinli sayılmalan;
+Bu doğrultuda;
 
-2-) Hissedilen sıcakle değerlerinin hesupfanmasııda Bakanlığımız web sayfasındaki bilgilerin kullanılabileseği, sıcaklık değerlerinin hayatıa genelini olumsuz etkilemesi durumunda ise diğer kamu görevlileri için de çalışma şartlanmn yeniden düzenlenmesi.
+1-) Valiliğinizce konunun İl Hıfzıssıhha Kurulunda değerlendirilmesi ve iliniz genelinde gereken tüm tedbirlerin alınması, yazımız ekindeki dokümanlarda da bahsedildiği üzere, ilk etapta kronik hastalığı olanlar, açık alanda çalışanlar, özürlüler ve hamileler çalışma şartları açısından ayrı değerlendirilerek gerekirse kanuni şartlar çerçevesinde izinli sayılmaları;
 
-3-) Aşırı sıcaklar nedeniyle oluşabilezek sağlık zorunlerına mildahale için iliniz genelindeki tüm sağlık tesislerinde gereken tedbirlerin aluması,
+2-) Hissedilen sıcaklık değerlerinin hesaplanmasında Bakanlığımız web sayfasındaki bilgilerin kullanılabileceği, sıcaklık değerlerinin hayatın genelini olumsuz etkilemesi durumunda ise diğer kamu görevlileri için de çalışma şartlarının yeniden düzenlenmesi,
 
-4-) Özellikle yukarıda yer verilen risk gruplanından kronik hastalığı bulunanlar ile yalnaz yayayan yaşidann ve bakıma ihtiyac: olanlana yaşadıkları mekända ziyoret cdlerek konuyla ilgili olarak bilgilendirilmeleri ve gerekli kontrollerin yapılması, danışma hattı olarak SABIM'in 184 numarale telefonanun kullamimasi,
+3-) Aşırı sıcaklar nedeniyle oluşabilecek sağlık sorunlarına müdahale için iliniz genelindeki tüm sağlık tesislerinde gereken tedbirlerin alınması,
 
-3-) Sıcak hava dalgası dönemlerinde hayatı olumsuz etkileyebilecek elektrik ve su kesintileriaia yaşanmaması için gerekli tedbirleria aharası,
+4-) Özellikle yukarıda yer verilen risk gruplarından kronik hastalığı bulunanlar ile yalnız yaşayan yaşlıların ve bakıma ihtiyacı olanların yaşadıkları mekânda ziyaret edilerek konuyla ilgili olarak bilgilendirilmeleri ve gerekli kontrollerin yapılması, danışma hattı olarak SABİM’in 184 numaralı telefonunun kullanılması,
 
-6-) Ekteki döküman çerçevesinde, iliniz genelinde bulunan basır-yayın organlanı (TV, Radyo, Gazete, va.) ile işbirliği içerisinde, konunun uzmanı kişiler tarafndan apara güneş vo acaltan korunma yollanna ilişkin eğitici, uyarter bilgiler verilmei amacayla eğitim programlan ve eğitici materyaller hanelanarak halkas bilinșkandirilmesi hususlarinda bilginizi ve gereğini önemle rica ederim
+5-) Sıcak hava dalgası dönemlerinde hayatı olumsuz etkileyebilecek elektrik ve su kesintilerinin yaşanmaması için gerekli tedbirlerin alınması,
 
-OR Bmingl
+6-) Ekteki doküman çerçevesinde, iliniz genelinde bulunan basın-yayın organları (TV, Radyo, Gazete, vs.) ile işbirliği içerisinde, konunun uzmanı kişiler tarafından aşırı güneş ve sıcaktan korunma yollarına ilişkin eğitici, uyarıcı bilgiler verilmesi amacıyla eğitim programları ve eğitici materyaller hazırlanarak halkın bilinçlendirilmesi hususlarında bilginizi ve gereğini önemle rica ederim.
 
-Umm. Dr. Orhaa F. GÜMRÜKÇÜOGLU
+Uzm. Dr. Orhan F. GÜMRÜKÇÜOĞLU
 
-Bakan a
+Bakan a.
 
 Müsteşar V.
 
 ### EKLER:
 
-EK-1 : Doküman (3 sayfa)
+EK-1: Doküman (3 sayfa)
 
 ### DAĞITIM:
 
@@ -60,106 +61,65 @@ EK-1 : Doküman (3 sayfa)
 
 ### AŞIRI SICAKLARDA ALINMASI GEREKEN ÖNLEMLER
 
-Aşırı sıcaklar çeşitli sağlik problemlerini de bemberinde getirmektedir. Sıcaklık vo num artşına bağlı olarak višcut tssı artmakta ve meteboliama bu yeni durura uyum saglamaya alışmaktadır. Normalde tedeme ile vücut 1515ı dengede tutulmaya çahşılır. Ancak aşını sıcaklarda sadece terleyerek vücut ısısı dengede tutulamaz. Yaşlılar, bebekler ve kronik hastalığı olanlarda terleme mekanizması ile vücut ısısuun dengede tutulması her zaman mümkün olmayabilir. Yine ortamdaki nem oram yüksekse terlere suretiyle vileut isisı yeterli düzeyde düşmeyebilir. Aynıca şişmanlık, herhangi bir hastalığa bağlı yüksek ateş, aşını sıvı kaybı (denidratasyon), kalp hastalığı, rul ve sinir hastalıği, alkol ve uyuşturucu madde kullamıru ile tedavi amaçhı bam ilaçlanın (tansiyon düşürüleüler, idrar söktürücüler vb.) kullanımu da sıcak havalarda terlemeyi etkileyen diğer faktörlerdendir. Bu gibi durumlarda yükselen vücut ısısı beyin ve diğer hayati organlarda hasara yol açabilir Aşin sicaklardan en çok etkilenen gruplar:
+Aşırı sıcaklar çeşitli sağlık problemlerini de beraberinde getirmektedir. Sıcaklık ve nem artışına bağlı olarak vücut ısısı artmakta ve metabolizma bu yeni duruma uyum sağlamaya çalışmaktadır. Normalde terleme ile vücut ısısı dengede tutulmaya çalışılır. Ancak aşırı sıcaklarda sadece terleyerek vücut ısısı dengede tutulamaz. Yaşlılar, bebekler ve kronik hastalığı olanlarda terleme mekanizması ile vücut ısısının dengede tutulması her zaman mümkün olmayabilir. Yine ortamdaki nem oranı yüksekse terleme suretiyle vücut ısısı yeterli düzeyde düşmeyebilir. Ayrıca şişmanlık, herhangi bir hastalığa bağlı yüksek ateş, aşırı sıvı kaybı (dehidratasyon), kalp hastalığı, ruh ve sinir hastalığı, alkol ve uyuşturucu madde kullanımı ile tedavi amaçlı bazı ilaçların (tansiyon düşürücüler, idrar söktürücüler vb.) kullanımı da sıcak havalarda terlemeyi etkileyen diğer faktörlerdendir. Bu gibi durumlarda yükselen vücut ısısı beyin ve diğer hayati organlarda hasara yol açabilir.
 
-• Dört yagından küçdk çocuklar,
+Aşırı sıcaklardan en çok etkilenen gruplar:
 
-• Yalnız yaşayan 65 yaş ve üzerindeki yaştiar,
+- Dört yaşından küçük çocuklar,
+- Yalnız yaşayan 65 yaş ve üzerindeki yaşlılar,
+- Bakıma ihtiyacı olanlar,
+- Hamileler,
+- Aşırı kilolular,
+- Açık alanda çalışanlar,
+- Kronik hastalığı (şeker hastalığı, kalp-damar hastalıkları, beyin-damar hastalıkları, psikolojik hastalıklar, kronik solunum sistemi hastalıkları, karaciğer hastalıkları, böbrek hastalıkları) olanlar,
+- Sürekli ilaç (özellikle tansiyon düşürücü, idrar söktürücü, depresyon ve uyku ilaçları) kullanan kişiler,
+- Sokak çocukları ve evsizlerdir.
 
-Bakima ihtiyacı olanlar,
-
-Hamileler,
-
-Asun kilolular,
-
-Açik alanda çalişanlar,
-
-• Kronik hastalıg (şeker bastalıgı, kalp-damar hastaliklan, beyin-damar hastalıklan,
-
-psikolojik hastalıklar, krosik solunum sistemi hastalıkları, karaciğer hastalıklan, bobrek
-
-bastalklan) olanlar
-
-• Sürekli ilaç (özellikle tansiyon düşürücü, idrar söktürüzn, depresyon ve uyku taçlan)
-
-kullanen kişiler,
-
-• Sokak çocuklan ve evsizlerdir.
-
-Özellikle kronik hastalığı bulanan ve yalnız yaşayan yaşlılar co çak risk taşıyan gruptur.
+Özellikle kronik hastalığı bulunan ve yalnız yaşayan yaşlılar en çok risk taşıyan gruptur.
 
 ### AŞIRI SICAKLARDAN KORUNMA TEDBİRLERİ
 
-A. Genel Korunma
+#### A. Genel Korunma
 
-• Gulnün en sıcak saatlerinde (10.00-16.00) mecbur kalınmadikça diyan çıkalmarahıdu.
+- Günün en sıcak saatlerinde (10.00-16.00) mecbur kalınmadıkça dışarı çıkılmamalıdır.
+- Dışarıda bulunulduğunda açık renkli, hafif, bol ve sıkı dokunmuş kumaşlardan yapılan giysiler tercih edilmeli; geniş kenarlı ve hava delikleri olan şapka giyilmeli ve güneşin zararlı ışınlarından koruyan güneş gözlüğü kullanılmalıdır.
+- Dışarıda çalışması gerekenler mümkün oldukça güneş altında korunmasız kalmamaya, aşırı hareketlerden kaçınmaya, sık sık tuz içeren sulu gıdalar almaya dikkat etmelidirler.
+- Güneş ışınlarının dik geldiği saatlerde (10.00-16.00) denize girilmemeli ve güneşlenilmemelidir. Bu saatlerin dışında denize girmek isteyenler güneşten koruyucu krem (en az 15 koruma faktörlü) kullanmalı, şapka ve gözlük gibi gerekli koruyucu önlemleri almalı ve uzun süre kesintisiz güneşlenmemelidir.
+- Yoğun fizik aktivite: Spor yapmak için sabah ve akşam saatleri tercih edilmeli, her bir saatlik spor için en az 2-4 bardak sıvı alınmalıdır. Ağır fizik aktivitelerden kaçınılmalıdır.
+- Risk altındaki yetişkinler ve yaşlılar, günde en az iki kez güneş veya sıcak çarpması yönünden izlenmelidir. Bebekler ise bu açıdan daha sık izlenmelidir.
+- Bebek, çocuk, engelliler ve hayvanlar kapalı ve park etmiş araçlarda kesinlikle bırakılmamalıdır. Araçların iç ısıları, klima olsa dahi park edildikten çok kısa süre sonra yükselmektedir. Araç terk edilirken herkesin dışarı çıktığından emin olunmalıdır.
+- Kapalı alanlar iyi havalandırılmalıdır.
+- Güneş gören pencereler perde vb. güneşliklerle gölgelendirilmelidir.
+- Vücut ısısının yükselmemesi için sık sık duş alınmalı; bunun mümkün olmadığı durumlarda ayaklar, eller, yüz ve ense soğuk suyla ıslatılmalı veya silinmelidir.
 
-• Dışanda bulunulduğunda açk reukli, hafif, bol ve sikı dokunmuş kumaşlardan yapılan giysiler
+#### B. Beslenme ve Sıvı Alımı
 
-tercih edilmeli, geniş kenarlı ve have delikleri olan şapka giyilmeli ve güneşin zararlı
-
-ışınlanından koruyan güneş gözlüğü kullanılmalıdu.
-
-• Dışanda çalışması gerekenler mümkün oldakça güneş altında konamasız kalmamaya, aşırı
-
-hareketlerden kaçınmaya, aık sık tuz içeren sulu gıdalar almaya dikkat etmelidirier.
-
-• Güneş şularının dik geldigi saatlerde (10.00-16.00) denize girilmemeli ve güneșleailmemclidir.
-
-Bu saatlerin dışında denize girmek isteyenler güneşten koruyucu krem (en az 15 korurna
-
-faktörlü) kullanmali, şapka ve gözlük gibi gerekli koruyucu önlemleri almalı ve uzun süre
-
-kesintisiz güneşlenmemelidir.
-
-• Yoğun fizik aktivite Spor yapmak için sabah ve akşam saatleri tercih edilmeli, her bir saatlik
-
-spor için en az. 2-4 bardek sıvı alınmalıdır. Ağu fizik aktivitelerden kaçıeılmalıdur.
-
-• Risk altındaki yetişkinler ve yaşhlar, günde en az ki kez güneş veya sıcak çarpması yönünden. izlenmelidir. Bebekler ise bu açıdan daha sik izlenmelidir,
-
-• Bebek, çocuk, engelliler ve hayvanlar kapalı ve park etmiş araçlarda kesinlikle bırakılmamalıdır. Araçların iş ısıları, klima olsa dahı park edıldıkten çok kısa süre sonra yükselmektedir. Araç terk edilirken herkesin dışanı çüztığından emin olunmalıdu.
-
-• Kapalı alanlar iyi havalandırılmalıdır.
-
-• Güneş gören pencereler perde vb. güneşliklerle gölgelendirilmelidir.
-
-• Vücut ısısının yükselmemesi için sık sık duş alunmalı; bunun mümkün olmadığı durumlarda ayaklar, eller, yuz ve ense soğuk suyla ıslatılmalı veya silinmelidir. B. Beslenme ve SIvI Alimi
-
-• Susuzluk hissi olmasa bile her gün en az 2-2.5 litre (12-14 su bardağı) sıvı tüketilınelidir.
-
-• Kahvaluda az yağlı peynirler, zeytin ve taze sebzeler bulunmalı, kafein içeren içecekler yerine de süt, meyve suyu, thlamar ve kuşbunu gibi bitki çayları tercih edilmclidir.
-
-• Yağlı besinlerin ve yağda kızartmaların tüketiminden kaçınılmalı; yerneklerde bitkisel sıvı yağlar kıllanılmalıdır. Yemekleri pişirirken kızartma ve kavurma yerine haşlama, ızgara, kendi suyunda veya az suda pişirme gibi sağlıklı pişinne yöntemleri uygulanmalıdır.
-
-• Vücut direncini artırmak ve vücudun yeterli miktarda vitamin ve mineral almasını sağlamak için bol miktarda sebze ve meyve tüketilmelidir.
-
-• Terleme ile artan sıv ve mineral kaybın önlenmesi için her zamankinden daha fazla miktarlarda sıvı alınmakdur.
-
-• Sıvı alımında su içmek esas olmakla beraber, su dışı sıvı alımında kahve, çay ve gazlı içecekler yerine süt, ayran ve meyve suyu gibi içecekler tercih edilmelidir. Eğer doktor tarafından sıvı alımu kasıtlanmış veya idrar söktürücü ilaç kullarılması söz konusu ise ilgili doktora başvurmak
-
-• Mide kramplarına neden olabileceği için çok soğuk ve buzlu içecekler tercih edilmemelidir.
-
-• Kafein, alkol ve fazla miktarda şeker içeren içecekler vücuttan daha fazla sıvı kaybına yol açtığı için takeulmemelidir.
-
-• Dişanda ve açıkta satılan yiyeceklerin, tüketiminden kaçılmalı, çabuk bozulma riski olan besin'er (et, yumurta, süt, balık vb.) açıkta bekletilmemeli, besinlerin hazırlanması ve pişirilmesi • aşamalarında hijyen kurallanna özen gösterilmelidir.
+- Susuzluk hissi olmasa bile her gün en az 2-2.5 litre (12-14 su bardağı) sıvı tüketilmelidir.
+- Kahvaltıda az yağlı peynirler, zeytin ve taze sebzeler bulunmalı, kafein içeren içecekler yerine de süt, meyve suyu, ıhlamur ve kuşburnu gibi bitki çayları tercih edilmelidir.
+- Yağlı besinlerin ve yağda kızartmaların tüketiminden kaçınılmalı; yemeklerde bitkisel sıvı yağlar kullanılmalıdır. Yemekleri pişirirken kızartma ve kavurma yerine haşlama, ızgara, kendi suyunda veya az suda pişirme gibi sağlıklı pişirme yöntemleri uygulanmalıdır.
+- Vücut direncini artırmak ve vücudun yeterli miktarda vitamin ve mineral almasını sağlamak için bol miktarda sebze ve meyve tüketilmelidir.
+- Terleme ile artan sıvı ve mineral kaybının önlenmesi için her zamankinden daha fazla miktarlarda sıvı alınmalıdır.
+- Sıvı alımında su içmek esas olmakla beraber, su dışı sıvı alımında kahve, çay ve gazlı içecekler yerine süt, ayran ve meyve suyu gibi içecekler tercih edilmelidir. Eğer doktor tarafından sıvı alımı kısıtlanmış veya idrar söktürücü ilaç kullanılması söz konusu ise ilgili doktora başvurmak gerekir.
+- Mide kramplarına neden olabileceği için çok soğuk ve buzlu içecekler tercih edilmemelidir.
+- Kafein, alkol ve fazla miktarda şeker içeren içecekler vücuttan daha fazla sıvı kaybına yol açtığı için tüketilmemelidir.
+- Dışarıda ve açıkta satılan yiyeceklerin tüketiminden kaçınılmalı, çabuk bozulma riski olan besinler (et, yumurta, süt, balık vb.) açıkta bekletilmemeli, besinlerin hazırlanması ve pişirilmesi aşamalarında hijyen kurallarına özen gösterilmelidir.
 
 ### AŞIRI SICAKLARIN SAĞLIK ÜZERİNE ETKİLERİ
 
-a) Güneş veya Sıcak Çarpması: Aşını sıcağa maruz kalma sonucu beden ısısını ayarlayan terleme mekanizmasıın bozulmasına bağh olarak vücut ıssımın düşürülememesi ile karakterize bir tablodur. Vücut isıst 10-15 dakika içerisinde 40-41°C tistüne çıkabilir. Güneş veya sıcak çarpması acil olarak tedavi edilmezse kalıcı hasara veya ölüme neden olabilir. Bilinç kaybandan once tedaviye başlanması durumunda iyileşme şansı oldukça yüksektir. Kişinin ateşi 39.4°C üzerindedir, deri kuru, kumuzı ve swakur, terleme yoktur, bulantı kusma, baş ağrısı, baş dönmesi, göz çukurlannın belirginleşmesi ve görme netliğinia bozulması ile komaya kadar gidebilen şuur bulanıklığı veya kaybı vardır.
+a) **Güneş veya Sıcak Çarpması:** Aşırı sıcağa maruz kalma sonucu beden ısısını ayarlayan terleme mekanizmasının bozulmasına bağlı olarak vücut ısısının düşürülememesi ile karakterize bir tablodur. Vücut ısısı 10-15 dakika içerisinde 40-41°C üstüne çıkabilir. Güneş veya sıcak çarpması acil olarak tedavi edilmezse kalıcı hasara veya ölüme neden olabilir. Bilinç kaybından önce tedaviye başlanması durumunda iyileşme şansı oldukça yüksektir. Kişinin ateşi 39.4°C üzerindedir, deri kuru, kırmızı ve sıcaktır, terleme yoktur, bulantı kusma, baş ağrısı, baş dönmesi, göz çukurlarının belirginleşmesi ve görme netliğinin bozulması ile komaya kadar gidebilen şuur bulanıklığı veya kaybı vardır.
 
-Ifk yardında, kişi hemen serin ve hava akır olan bir yere alınmalı, sıkı giysileri gerşetilmeli, soğuk su veya soğutucalarla (vartilator, klima vb.) soğutalmaya çalışılmalı, kesinlikle içmesi için sıvı verilmemeli ve en yakın sağlık kuruluşuna götürülmelidir. Gerekli durumlarda hava yolu açılmalı ve suni solunum yapılmalıdir.
+İlk yardımda, kişi hemen serin ve hava akımı olan bir yere alınmalı, sıkı giysileri gevşetilmeli, soğuk su veya soğutucularla (vantilatör, klima vb.) soğutulmaya çalışılmalı, kesinlikle içmesi için sıvı verilmemeli ve en yakın sağlık kuruluşuna götürülmelidir. Gerekli durumlarda hava yolu açılmalı ve suni solunum yapılmalıdır.
 
-b) Sıcak Bitkinliği: Uzun şüre aşın sıcağa maruz kalına ve yeterli miktarda sıvı almamaya bağlı su ve mineral kaybıyla meydana gelir. Daha sıklıkla yaşlılarda, yüksek tansiyonu olanlarda ve güneş altında çalışanlarda görülür. Aşını terleme, yorgunluk, halsizlik, bayılma hissi, nabız hızlanması, ateş yükselmesi belirtileriyle kendini gösterit. Deri soğuk ve nemlidir, nabız hızlı ve zayıftır, solunum huzlı ve yüzeysel, şuur açıktır. Güneş çarpmasının daha hafif şekli olup hayati tehlike yoktur.
+b) **Sıcak Bitkinliği:** Uzun süre aşırı sıcağa maruz kalma ve yeterli miktarda sıvı almamaya bağlı su ve mineral kaybıyla meydana gelir. Daha sıklıkla yaşlılarda, yüksek tansiyonu olanlarda ve güneş altında çalışanlarda görülür. Aşırı terleme, yorgunluk, halsizlik, bayılma hissi, nabız hızlanması, ateş yükselmesi belirtileriyle kendini gösterir. Deri soğuk ve nemlidir, nabız hızlı ve zayıftır, solunum hızlı ve yüzeysel, şuur açıktır. Güneş çarpmasının daha hafif şekli olup hayati tehlike yoktur.
 
-Ilyardım; uygun ve zamanında yapılırsa genel durum hızla düzelir. Serin bir yerde istirahata alınan hastanın giysileri gevşetilip, sut üstü yatıralarak bacakları yükseltilir. Islak havlu veya bezle serinletilmeye çalışılır. Bol miktarda sıvı verilir, özellikle de tuzlu ayran içirilir. Yaklaşık 1 saat içerisinde kişinin genel durumu dúzelmezse mutlaka sağlık kuruluşuna başvurulması
+İlk yardım; uygun ve zamanında yapılırsa genel durum hızla düzelir. Serin bir yerde istirahata alınan hastanın giysileri gevşetilip, sırt üstü yatırılarak bacakları yükseltilir. Islak havlu veya bezle serinletilmeye çalışılır. Bol miktarda sıvı verilir, özellikle de tuzlu ayran içirilir. Yaklaşık 1 saat içerisinde kişinin genel durumu düzelmezse mutlaka sağlık kuruluşuna başvurulması gerekir.
 
-c) Sıcak krampları: Aşıı aktivite sonucunda terlemeye bağlı olarak vücutta hızh bir su ve tuz kaybı meydana gelir. Düşük tuz seviyeleri kaslarda sıcak kramplarına neden olabilir. Sıcak krampları aynı zamanda sıcak bitkinliğinin belirtilerinden birisidir. Genellikle kanın, bacak ve kol kasl anının fiziksel aktivite sırasında ağrılı spazmlarıyla meydana gelir.
+c) **Sıcak krampları:** Aşırı aktivite sonucunda terlemeye bağlı olarak vücutta hızlı bir su ve tuz kaybı meydana gelir. Düşük tuz seviyeleri kaslarda sıcak kramplarına neden olabilir. Sıcak krampları aynı zamanda sıcak bitkinliğinin belirtilerinden birisidir. Genellikle kol, bacak ve kol kaslarının fiziksel aktivite sırasında ağrılı spazmlarıyla meydana gelir.
 
-Sıcak krampları için tıbbi tedaviye gerek yoktur, kişinin yapuğı aktivite durdurulmalı sakin ve serin bir yerde oturtulmalıdır, meyve suyu veya mineralli içecekler içirilmelidir. Kramp meydana geldikten sonra en az birkaç saat fiziksel aktivitede bulunulmamalı, bir saat içerisinde geçmezse en yakın sağlık kuruluşuna başvurulmalıdır.
+Sıcak krampları için tıbbi tedaviye gerek yoktur, kişinin yaptığı aktivite durdurulmalı sakin ve serin bir yerde oturtulmalıdır, meyve suyu veya mineralli içecekler içirilmelidir. Kramp meydana geldikten sonra en az birkaç saat fiziksel aktivitede bulunulmamalı, bir saat içerisinde geçmezse en yakın sağlık kuruluşuna başvurulmalıdır.
 
-d) Güneş Yanıkları: Deriye hasar vereceği için güneş yanıklarından kaçınılmalıdır. Uzun süreli gülneş ışığma maruz kalmakla meydana gelir. Deri kızarık, ağrılı ve aşın. derecede sıcaktır. Eğer etkilenen kişide ateş, bül (su toplanması) ve şiddetli ağrı varsa veya 1 yaşından küçükse en yakın sağlık kuruluşuna başvurulalıdır. Güneş yanığından korunmak için güneş ışığına maruz kalmaktan kaçınılmalı, güneş yanığı olan yerler soğuk su ile silinmeli, etkilenmiş bölgelere nemlendirici tıbbi losyon sürülmelidir. Yağ, salça, yoğurt ve diş macunu vb, maddeler kesinlikle sürülmemeli, büller patlatılmamalıdır.
+d) **Güneş Yanıkları:** Deriye hasar vereceği için güneş yanıklarından kaçınılmalıdır. Uzun süreli güneş ışığına maruz kalmakla meydana gelir. Deri kızarık, ağrılı ve aşırı derecede sıcaktır. Eğer etkilenen kişide ateş, bül (su toplanması) ve şiddetli ağrı varsa veya 1 yaşından küçükse en yakın sağlık kuruluşuna başvurulmalıdır. Güneş yanığından korunmak için güneş ışığına maruz kalmaktan kaçınılmalı, güneş yanığı olan yerler soğuk su ile silinmeli, etkilenmiş bölgelere nemlendirici tıbbi losyon sürülmelidir. Yağ, salça, yoğurt ve diş macunu vb. maddeler kesinlikle sürülmemeli, büller patlatılmamalıdır.
 
-e) Sıcak Döküntüsü (İsilik): Sıcak ve nemli havalarda aşın terlemeye bağlı olarak derinin tahrişidir. Her yaşta görülmekle birlikte sıklıkla bebeklerde görülür. Küçük kızarıkhklar şeklindedir. Sıklıkla boyun, göğüs, dirsek iç yüzü gibi kıvrun yerlerinde görülür. Kızank bölgeler kuru tutulmalı, daha serin ve daha az nemli ortam sağlanmalıdır.
+e) **Sıcak Döküntüsü (İsilik):** Sıcak ve nemli havalarda aşırı terlemeye bağlı olarak derinin tahrişidir. Her yaşta görülmekle birlikte sıklıkla bebeklerde görülür. Küçük kızarıklıklar şeklindedir. Sıklıkla boyun, göğüs, dirsek iç yüzü gibi kıvrım yerlerinde görülür. Kızarık bölgeler kuru tutulmalı, daha serin ve daha az nemli ortam sağlanmalıdır.
 
-1) Güneşin Geç Dönem Etkileri: Güneş ışınlarımın sağlık üzerine oldukça önemli olumlu etkileri mevcuttur. Uzun süre maruz kalındığında olumsuz etkiler de ortaya çıkabilir. Ciltte erken yaşlanma, gözde katarakt gelişimi, deri kanseri ve güneş lekelerinin ortaya çıkması bu olumsuz etkilerindendir.
+f) **Güneşin Geç Dönem Etkileri:** Güneş ışınlarının sağlık üzerine oldukça önemli olumlu etkileri mevcuttur. Uzun süre maruz kalındığında olumsuz etkiler de ortaya çıkabilir. Ciltte erken yaşlanma, gözde katarakt gelişimi, deri kanseri ve güneş lekelerinin ortaya çıkması bu olumsuz etkilerindendir.

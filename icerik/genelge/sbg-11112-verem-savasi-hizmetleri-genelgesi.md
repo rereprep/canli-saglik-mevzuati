@@ -11,259 +11,268 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI
 
-Verem Savaşı Dairesi Başkanlığı
+### T.C.
 
-Metet .
+### SAĞLIK BAKANLIĞI
+
+### VEREM SAVAŞI DAİRESİ BAŞKANLIĞI
 
 ### VEREM SAVAŞI HİZMETLERİ İLE İLGİLİ GENELGELER
 
+1980
 
-
-Verm Severa Dai Taske 25.7.1982 Vn.Diap.5i 5300-2220 Tii / Voraa pavogando
-
-1abiz1g2 VaL11151
-
-### ...sO
-
-U'cucãe bazarali dir pelildo uygulenan mi111 varei seves› pro'rau 11e Elbertillo: haatalık: ve enfeselyon prevelancaria vicdp piz biz ecelna pašlannaz olnasna rağmen con yallerdo tim hieretleri olunuz yănde ct1leveo cosyo-chonodi esrmler
-
-vändo etkilenstr. muun remnda vero? veren revasana da oluneuz tetov/rinin eh hro vo huruluglarda stancorcire cailana elnic1 vo ciÿer alenler varand bugUn ds nosval bir ELGis: cono
-
-‚ru notenlo/ '1902 yelenãa vezca povogina brcol1% verilno! horguco getimatted1x, OLEri 2/ mevcut 250 adet varc povo72 alopensori 11e glid hantal2):- lon hostanolorinin etinlih:leri ortralmattadir,
-
-Anook: dicdlozlu hastaların vo picholilezla đojzurar veren civara diapanerinò gilndarilnant bunucunca covlet heptero-
-
-tedr, Be babinden hoctonalero miracaar Lazine co CUrculer dilpe cre serptonulurınj diberiülorlu hantaların, tibberlüloz tobavicince i:lleriian standart refinlesle tedavioinin saglanes, dizenciz 11êg kullanma ve normal tecavicini talanlenzno gibi, neden-
-
-Ironil: Diberidlorlu biritindato Valenferle hor 721 vevdar golen ¡ula vora savésa dianocrine gongomes1 Salanindan bagl2:1 11 hrac1 20rur101r. Voren savags diopanserlert, guřla hastolıklar: hactancloririn pelt:1in1@ görevini yentı larınden hactancde yatard : codavd al gurel cnler düzenlenon formle bašla plduğu güğlo hastalıldori pastanelecino Bovliedi me lozun Kontrol altina alinabilmosi( heste- cilir .
-
-. .Ulkauzda eleri Bilceãe paglarnacina canun botanindan daran tecavilerinin Kaca devlet hertanolorine ntrecaat eden yutan(iylor)mzậm tUberiulor
-
-lu oludutzn bala olduğu veren gavaji dicpansorinc ginderflnes
-
-derinizi Face ederim
-
-hununu, co 12 gi 111ere !
-
-
-
-Ц2S0A ** A.
-
-TToC.
-
-### SAĞLIK VE SOSYAL YARDIM
-
-: - HAKANLIGI нэто Teftig Kurulu Bakanlığa 30/437961989 on : Dernekler c.
-
-### VEREM SAVAŞI DAİRE BAŞKANLIĞI
-
-akanlığıize bağli kurum va hurulugjațın bünyesınde çeşıtii cimlar altında kurulmış bulunan yardın dernekleri faaliyet göstermehtecir.
-
-Iyi niyotli, faaï soruniulutuna midriř ybneticiłer idaresın- čeki disiplinli derneklerin bu kurum ve kuruluşlara küçasennayecak yararlar sağladığı bilinon bir gerçektir,
-
-ancak: baza demelJerin ve yöneticilerin,
-
-1. Yardinca olduklari hirum ve kiruluglerin edıni, inânlarini ve bazı yetkilerini kullanarak; vatandagları derneğe yardım yapmaya 1cbar ettileri,
-
-2. Derneğin maddi imkânlarini, bazen de suç tegkil edecex gekilde amaç dışi hullandıkları, gösterig ve 1Wke uğruna savurganlik ve keyii harcamalar yaptıkları,
-
-3. Kurm ve kuruluşlarımızin yönetim ve tasarruflarina mudahadeye yeltendiklerl,
-
-: 4. Kantin ve çayocajı 1hdas ederel: bunlari 1glettikleri bazén de kiraya verdikleri, bunun için kurum ve kurulugların belli bir hag nin1 1ggal ettikler1,
-
-5. Kurum ve kuruluşların bir kısım personelini dernek iglering de veya dernege ait kazanç getiren terebblelerde galistiraral: onlarg nº11 görevlerinden uzatfaştirdıkları yapılan bagvurularcan, incelene ve sorgumalardan anlagilmiștir, in
-
-Vatandaşın hakli girayetlerine, resmi kurum ve luruluşlarn tibarınin zccelenmesino neden olan bu usul ve mevzuat diși uygulama .ara mani olunmasa 1pio r. : -
-
-a- Bu demekler maholli denetim elenanlarinca sik: cik ve etkin Siçinde denetlenecokt1r, v=
-
-b- Kutum ve kuruluglarin edı; imkan ve yetkilerl kullanılarak oreliikle polikliniklerde: vatandaglardan kesinlikle derneğe yardın ic termeyecektit.
-
-c- Kurum ve kuruluşlarda demnak. aâına veya dernek tarafından kirayu verilok Uzere kantin, çayocağı ve salre açilması için yer Sahe1s odilmeyecektir.
-
-‹- Kurun ve kuruluşlarda görevl1 personel; ‚mesai'saatleri içene minde demak işlerinde vaya domeğe gelix getirecek iglarde çalıștıriluyacaktir.
-
-e- Bu cernekler hurun ve huruluglarimazan binyesi dişinda faalle Yet gösterecekler, kurum ve turuluglarımız ile higir organik bağz ole mayacortir.
-
-f- Dernek ybneticilerinin, kurun vo Juruluçiaamizan içier ne ve ybnetimine mudahalesine asla micancha goșterilmevecaktir.
-
-Konunun titizlikle takibini, önceki dönonlcrûe yapilan bu kabil usulelz ve yolsuz uygulamalara asla izin-verilmcnecini, Xc sedilen derneklerin yaptırılaca; teftisleri golucurce duzenlencc raporleran birer nushasının da bakanlığınıza gönderilmealnin usu ittihaz edilmesini, bu genclge cerçevesinde vat olece): butun gelismelerden Bakanliğamarin aninda heberdan edilmccini ve geres no emirlerinizi bremle rica ederim.
-
-Prof. DI. Haya CHIÇTUGA:
-
-### EZSN
+---
 
 T.C.
 
-### SAĞLIK VE SOSYAL YARDIM
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
-B/1101 {2X- Verem Savasi Genel
+Verem Savaşı Dairesi
 
-Mustirluğu 20 .U.. . 200 VS.10.15.80. 9720/1765 Konu & Dernekler
+V.S. Disp. Şb. 5300-2220
 
-### n - VEREI SAVASI DIC ANER LAT JU DAH
+Konu: Verem savaşında ihbar [?]
 
-BLS -
+ANKARA
 
-Vardın derne)leri haldinda Valiliklcre göd si'en 30.5.1903 tarihli emrin breği yukariyc (ulari/. ;i"
+25.7.1982
 
-Dilginizi rica ederim.
+…… Valiliğe
 
-erdede:
+Ülkemizde başarılı bir şekilde uygulanan milli verem savaşı programı ile tüberküloz hastalığı ve enfeksiyon prevalansında [?] bir azalma sağlanmış olmasına rağmen son yıllarda bu tür hizmetleri olumsuz yönde etkileyen sosyo-ekonomik etkenler verem savaşını da olumsuz yönde etkilemiştir. Bunun yanında verem tedavilerinin ehil hekim ve kuruluşlarda standartlarına [?] ve diğer etmenler veremi bugün de sosyal bir sağlık sorunu olarak karşımıza çıkarmaktadır.
 
-DI. Cah_t DAg :O:
+Ülkemizde [?] yılında verem savaşına [?] verilmiş, halen mevcut 250 adet verem savaşı dispanseri ile göğüs hastalıkları hastanelerinin etkinlikleri artırılmaktadır.
 
-Daire Pasken. Y.
+Ancak tüberkülozlu hastaların ve şüphelilerin doğrudan verem savaşı dispanserlerine gönderilmemesi, bunun sonucu çevre hastanelerine ve eczanelere müracaat etmeleri; bu hastaların hastanelerin polikliniklerinde, tüberkülozlu hastaların, tüberküloz tedavisinde kullanılan standart rejimlerle tedavisinin sağlanması, düzensiz ilaç kullanma ve normal tedavisini tamamlamama gibi nedenlerle her yıl meydana gelen kronik tüberkülozlu hastaların tedavisi bakımından bağlı bulunduğu verem savaşı dispanserine gönderilmesini zaruri kılmaktadır.
 
-### IoOc SAGLIK Ve SOSYAL LANDIE BAKANLIĞI Veren Severı Dalre Bapkaniıts
+Verem savaşı dispanserleri, göğüs hastalıkları hastanelerinin poliklinik görevlilerinin yardımlarından hastanede yatarak tedavi gören hastalar için düzenlenen, formla bağlı olduğu göğüs hastalıkları hastanelerine gönderilmesi gerekli hastalıklar [?] bulunmaktadır. Tüberkülozun kontrol altına alınabilmesi, hastaların tedavilerinin kısa sürede sonuçlanmasını temin bakımından devlet hastanelerine müracaat eden vatandaşlarımızdan tüberkülozlu olduğu saptananların bağlı olduğu verem savaşı dispanserine gönderilmesi hususunda ilgililere emirlerinizi rica ederim.
 
-.SaybiFS.D1e8:5b. 3310/206 Konu Keste Takibi ANKARA
+---
+
+T.C.
+
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
+
+Teftiş Kurulu Başkanlığı
+
+Konu: Dernekler Hk.
+
+30/4/1983
+
+### VEREM SAVAŞI DAİRE BAŞKANLIĞI
+
+Bakanlığımıza bağlı kurum ve kuruluşların bünyesinde çeşitli isimler altında kurulmuş bulunan yardım dernekleri faaliyet göstermektedir.
+
+İyi niyetli, fiilî sorumluluğuna müdrik yöneticiler idaresindeki disiplinli derneklerin bu kurum ve kuruluşlara küçümsenmeyecek yararlar sağladığı bilinen bir gerçektir.
+
+Ancak bazı derneklerin ve yöneticilerin,
+
+1. Yardımcı oldukları kurum ve kuruluşların adını, imkânlarını ve bazı yetkilerini kullanarak vatandaşları derneğe yardım yapmaya icbar ettikleri,
+2. Derneğin maddi imkânlarını, bazen de suç teşkil edecek şekilde amaç dışı kullandıkları, gösteriş ve lüks uğruna savurganlık ve keyfî harcamalar yaptıkları,
+3. Kurum ve kuruluşlarımızın yönetim ve tasarruflarına müdahaleye yeltendikleri,
+4. Kantin ve çayocağı ihdas ederek bunları işlettikleri, bazen de kiraya verdikleri, bunun için kurum ve kuruluşların belli bir hacmini işgal ettikleri,
+5. Kurum ve kuruluşların bir kısım personelini dernek işlerinde veya derneğe ait kazanç getiren teşebbüslerde çalıştırarak onları asli görevlerinden uzaklaştırdıkları, yapılan başvurulardan, inceleme ve soruşturmalardan anlaşılmıştır.
+
+Vatandaşın haklı şikâyetlerine, resmî kurum ve kuruluşların itibarının zedelenmesine neden olan bu usul ve mevzuat dışı uygulamalara mani olunması için:
+
+a- Bu dernekler mahallî denetim elemanlarınca sık sık ve etkin biçimde denetlenecektir.
+
+b- Kurum ve kuruluşların adı, imkân ve yetkileri kullanılarak özellikle polikliniklerde vatandaşlardan kesinlikle derneğe yardım istenmeyecektir.
+
+c- Kurum ve kuruluşlarda dernek adına veya dernek tarafından kiraya verilmek üzere kantin, çayocağı ve saire açılması için yer tahsis edilmeyecektir.
+
+d- Kurum ve kuruluşlarda görevli personel, mesai saatleri içinde dernek işlerinde veya derneğe gelir getirecek işlerde çalıştırılmayacaktır.
+
+e- Bu dernekler kurum ve kuruluşlarımızın bünyesi dışında faaliyet gösterecekler, kurum ve kuruluşlarımız ile hiçbir organik bağı olmayacaktır.
+
+f- Dernek yöneticilerinin, kurum ve kuruluşlarımızın işlerine ve yönetimine müdahalesine asla müsamaha gösterilmeyecektir.
+
+Konunun titizlikle takibini, önceki dönemlerde yapılan bu kabil usulsüz ve yolsuz uygulamalara asla izin verilmemesini, bu sebeple derneklerin yaptırılacak teftişleri sonucunda düzenlenecek raporların birer nüshasının da Bakanlığımıza gönderilmesinin usul ittihaz edilmesini, bu genelge çerçevesinde vaki olacak bütün gelişmelerden Bakanlığımızın anında haberdar edilmesini ve gereğine emirlerinizi önemle rica ederim.
+
+Prof. Dr. Kaya ÇİÇTUGA
+
+---
+
+T.C.
+
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
+
+Verem Savaşı Genel Müdürlüğü
+
+V.S. İç. İş. Şb. 9720/1765
+
+Konu: Dernekler
+
+### VEREM SAVAŞI DİSPANSERLERİNE
+
+Yardım dernekleri hakkında Valiliklere gönderilen 30.5.1983 tarihli emrin örneği yukarıya çıkarılmıştır.
+
+Bilginizi rica ederim.
+
+Dr. Cahit Dağ [?]
+
+Daire Başkanı V.
+
+---
+
+T.C.
+
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
+
+Verem Savaşı Daire Başkanlığı
+
+Sayı: V.S. Disp. Şb. 3310/206
+
+Konu: Hasta Takibi
+
+ANKARA
 
 4.2.1985
 
-Sažlak ve Sosyal Yardım MudürlUFU
+### Sağlık ve Sosyal Yardım Müdürlüğü
 
-### İlinie ve Ilgelerinde mevcut Verem Savag; Dispanserlerinde
+İliniz ve ilçelerinde mevcut Verem Savaşı Dispanserlerinde hizmetin verimli bir şekilde yürütülmesini temin, hasta tedavi ve takibinin daha iyi bir şekilde yapılmasını sağlamak amacıyla dispanserlerde başta takip memuru olarak görev yapan fakat 13.3.1984 tarih ve 18488 sayılı mükerrer Resmî Gazete'de yayımlanarak yürürlüğe giren 84/8360 sayılı Bakanlar Kurulu Kararıyla kadro unvanları kaldırılarak hizmetli kadrosuna alınan hasta takip memurlarının eskiden olduğu gibi yine hasta takibi ile görevlendirilmeleri Bakanlık Makamının 1.2.1985 tarih ve 5398 sayılı onayı ile uygun görülmüştür.
 
-hizmetin verinli bir pekilde yurutulmesini temin, heste tedev. ve
-
-1 Г takibinin dabe 1y1 bir sekilde yapılmesin sağlemak amacıyle dispanserlerde basta takip memuru olarak cörev yapen fakat 13.3.1904 tarih ve 18488 sayılı mükerrer resmi gazetede уву yürürlüğe giren 84/8360 seyılı Bakanlar Kurulu Karerıyle kedro Unvenlari kaldırılerek hizmetli kadrosuna elınen heste takip memurlarınio eskiden olduğu gibi yine hasta takibi ile görevlendirilmeleri Bakenlık Makamının 1.2.1985 tarih ve 5398 вау onayı ile, чубп Börülalgtur.
-
-Gereğinin bune göre yapılmèsı hususunde 1lzililere emirlerinizi rice ederin.
+Gereğinin buna göre yapılması hususunda ilgililere emirlerinizi rica ederim.
 
 ### BAKAN ADINA
 
-Dr.. Ferit
+Dr. M. Ferit KOÇOĞLU
 
-Daire Beçkanl V.
+Daire Başkanı V.
 
-### ВАСІК КОКОНІ ХАОКИ . Verem Sevag Daire Bagkanlığz FAYY SYS_D10D.5b.5300/394 ANKARA
+T.C.
 
-KONU : Tüberkülozlular Hakkında 6 MART 1985
+SAĞLIK VE SOSYAL YARDIM
 
-### .. VALLLILIIE -
+BAKANLIĞI
 
-Seřlık ve Sodyel Yardın MudurlUŞU ;
+Verem Savaşı Daire Başkanlığı
 
-Erken teghia ve duzgun tedavi Verem Savaşınin temel ilkele-
+SAYI: V.S. Disp. Şb. 5300/394
 
-r1dir. Erken teghie, saflik personelinin IDC semptomlars hakkinda
+KONU: Tüberkülozlular Hakkında
 
-bilçil1 ve uyenık olmalar2 1le ve vereme yakalanma riski gok ylksel
+ANKARA
 
-elan grupların periodik olarak kontrol edilmeleri ile muakündur.
+6 MART 1985
 
-Verem hastalıčine yakalanma riski en yüksek olanlarza bagında has-
+…… VALİLİĞİNE
 
-telaran ov belki gelmektedir. Du nedenle bir verem hastasa buluncu-
+Sağlık ve Sosyal Yardım Müdürlüğü
 
-du ranan, bostann yakinlari, en oz bir y21 alreyle periodik olaral
+Erken teşhis ve düzgün tedavi Verem Savaşının temel ilkeleridir. Erken teşhis, sağlık personelinin TBC semptomları hakkında bilgili ve uyanık olmaları ile ve vereme yakalanma riski çok yüksek olan grupların periodik olarak kontrol edilmeleri ile mümkündür.
 
-muayene edilmelidir.
+Verem hastalığına yakalanma riski en yüksek olanların başında hastaların ev halkı gelmektedir. Bu nedenle bir verem hastası bulunduğu zaman, hastanın yakınları, en az bir yıl süreyle periodik olarak muayene edilmelidir.
 
-Duzgin tedavi, hastalaran kroniklesmesini ve bu muretle etrafi
+Düzgün tedavi, hastaların kronikleşmesini ve bu suretle etrafa dirençli basil saçmasını önlemek açısından hayati önemi haizdir.
 
-dirençli besil seçmesini önlemek açisindan bayati önemi haizdix.
+Hastaları ve çevrelerini kontrol altında tutmak ve disiplinli bir şekilde takiplerini yapmak amacıyla kurulmuş olan Verem Savaşı Dispanserlerinin, yukarıda belirtilen nedenlerle, diğer kuruluşlarda tesbit edilen TBC vak'alarından haberdar edilmeleri gerekmektedir.
 
-Hastalari ve çevrelerini kontrol altanda tutmak ve dieiplinli
+Zira serbest hekimlerin ve hastanelerin verem hastalarını disiplinli bir şekilde takip etme imkânları yoktur. Toplum sağlığını yakından ilgilendiren ve ancak sevk suretiyle kontrol altında tutulması mümkün olan bu hastalığın dispanserlere ihbarı yasayla da zorunlu kılınmıştır. (Umumi Hıfzıssıhha Kanunu Madde 113, 114, 115, 116) İhbar etmeleri şartıyla serbest çalışan hekimlerin ve diğer sağlık kuruluşlarının verem hastalarını tedavi edebilecekleri tabiidir.
 
-bir gekilde takiplerini yapmek amecıylą kurulmug olan Verem Savogı.
+İhbar mekanizmasının işleyişini kontrol amacıyla aşağıda belirtilen tedbirlerin alınmasına zaruret hasıl olmuştur.
 
-Dispanserlerinin, yukerida belirtilen nedenlerle, dižer kuruluglarda
+1- Serbest çalışan hekimler muayenehanelerinde tesbit ettikleri ve tedaviye aldıkları verem hastalarının adı, soyadı, ev veya iş adresini, kendilerine ait başlıklı reçete kağıtları ile tek tek veya ay sonlarında topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildireceklerdir.
 
-tesbit edilen TEC vek'alerinden haberdar edilmelert gerekmektedir.
+2- Özel-tüzel hastanelerin polikliniklerinde tesbit edilen verem hastalarının adı, soyadı, ev veya iş adresleri her ayın sonunda baştabipler tarafından topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildirilecektir.
 
-Zira serbest hekimlerin ve hostanelerin verem hastalarin disiplinli bir gekilde takip etme imkänlara yoktur. Toplun sağliğin yakından 1lgilendiren ve encek savegnak suretiyle kontro]. altinda tutulmasa / "lokun elan bu hastalařan dispanserlere: ihbari yasayle de sorunlu Kalanmigtar, (Umumi: Fıízaésihhe Kenunu Madde 113,114,115,216) ihbar etmeleri gartayle. serbest caligen hekimlerin ve dižer sačlak kuryluglarzngn veren bastalarins tederi edebilecekleri tabiidir.
+3- Eczaneler, ekte belirtilmiş ilaçları havi bir reçete geldiğinde, hastanın adını, soyadını, ev veya iş adresini ve reçeteyi yazan serbest hekimin veya reçetenin ait olduğu sağlık kuruluşunun adını bir listeye kaydederek ayın sonunda İl Sağlık ve Sosyal Yardım Müdürlüğüne göndereceklerdir.
 
-İhbar mekanizmesının igleyigini kontrol amacıyla agačada belirtilen tedbirlerin alınmesine zaruret basll olmustur.
+4- İl Sağlık ve Sosyal Yardım Müdürlüğü bulaşıcı hastalıklar şubesi ve eczacılık şubesi ilgilileri, gelen verem ihbarlarını ve eczanelerden gönderilen listeleri karşılaştıracaklar ve hastaları ilgili Verem Savaşı Dispanserlerine bildireceklerdir.
 
-1- Serbest çalagen hekinler muayenehanelerinde tesbit ettikderl ve, tedaviye aldıklari verem hastalaranın ada,soyadı,ev veya' ig adresini, kendilerine ait baglıklı regete kağıtlara ile tek tek veya ay sonlarında topluca İl Sağlık ve Sosyal Yardın Müdurlu[Une hilaireceklerdix.
+a) Eczaneden gelen listede yazılı hastaları bildirmemiş olan serbest hekimler ve baştabiplikler yazılı olarak uyarılacaklardır. Yazılı uyarıya rağmen hasta ihbarını ihmal edenler hakkında Hıfzıssıhha Kanununun ilgili maddeleri uyarınca yasal işlem yapılacaktır.
 
-### 8 Ä
+5- Hiç bildirimde bulunmayan eczanelerin sorumluları hakkında, listede belirtilen ilaçları sattıkları tesbit edildiği takdirde yasal işlem yapılacaktır.
 
-2- Özel-Turel hastanelerin polikliniklerinde teshit edilo; verem boșalarınin adi soyadı, ev veya ig adresleri:her ayın sonunde Bagtabibler tarafındań topluçę Il SečIik ve Sosyal Yarda-l Midur1ugune bild1211ecektix:
+Yukarıda belirtilen hususların ilinizde ve ilçelerindeki tüm serbest hekimlere, eczanelere ve özel-tüzel hastanelere yazılı olarak tebliğini rica eder, emirlerinizi beklerim.
 
-3 Eczaneler, okte balirtilus lloglara hari bir reçete . geldiğinde, bestenin adini, soyadana, ev veya 1g adresini ve reçote, 1 yazan serbest bekimin vera reçetenin ait olduğu mağlık kuruluçunun adını bir Listeye kaydederek ayın sonunde Il Sallik te Foryo] Xardım Musurlugune gänderecoklerdir.
+Prof. Dr. Yunus HÜFTÜ
 
-4- L1 Sağlık ve Sonyal Xerdım NudurlUgu bulagaca hastolak~ ler gubeal Ye coracilik pubeei 11g1l1leri, gelen veren Ibborlorinı ve eczanelerden gönderilen: listeleri kargilastiracąklar vo C hastalerı Ilgili Verem Savaşı Dispanserlerina hildirecoklerdir«
+BAKAN ADINA
 
-a) Eczahanedan gelen lisisde yusilz hastelara bildirmenip olan serbest hekimler ve baptabiblikler yarıla olarak kyarilach?:« t2r., Yazıl1 uyarıys reěmen-hasta ihbarzù ihmal edenlar hokkindo Hırzassıhba Kannunun 1lg1l1 maddeleri uyarance Jasal iglen yapı- Inceltir.
+MÜSTEŞAR
 
-: 5- Hig bildirimde bulunmayen eczahenelerin. sorumlulari hakkiada, Ilstede belir ilen Ilaçlaraisotfaklara teabit ed1l01Ki takdirde yasal iglen yapincektar,
+EK: 1 ilaç listesi
 
-Yukarada belirtilen inmelurın Îlinle ve figelezindeki tün serbest hekinlere cecganelvre va bzel-tuzel hastanelere yazilaelerak tebliğini rica ederim: enf erinis Pel mğ L
+REÇETEDE TEK BAŞINA BULUNSA BİLE, HASTANIN İHBARINI GEREKTİREN İLAÇLAR
 
-Prof Dr Yunus HÜFTU./
+1- İzoniazid (Nydrazid, Isovit ve benzerleri)
 
-### BAKAN ADINA MÜSTEŞAR
+2- Ethambutol (Embutol, Tambutol, Etibi ve benzerleri)
 
-Satim BK : 1 1lag 21etesi
+3- Paraaminosalisilik asit (PAS, Depas ve benzerleri)
 
-### REÇETEDE TEK BAÇINA BULUESA DILU HASTALIN IKCARILT GEREKTIREW HAÇLAR
+4- Morfozinamid (Piazoline)
 
-I-Izoniazid(Nydrazid, teovit ve benzerlari) ve
+5- Thiacetazon (Inhazon ve benzerleri)
 
-2-Ethanbutol (Lubutol, Laubutol; Et1b1 ve benzerleri) 787-
+6- Protionamid (Promid)
 
-3-Paraeninosalie1l1k asit (PAS, Depas ve benterleri)
+LİSTEDEKİ DİĞER İLAÇLARDAN HERHANGİ BİRİYLE REÇETEDE BİR ARADA BULUNDUĞUNDA İHBARI GEREKTİREN İLAÇLAR:
 
-4-Horphozinamid (Piezoline) amÉlS J. 5-Thicasetezon (Inhazon ve benzerleri) Yerem 6-Protionamid (Promid) in
+1- Streptomisin flakon
 
-### LISTEDEKİ DIĞER ILAGLARDAN HERMANGI BIRIYLE REÇIMWD • JEL BIRARADA BULUNDUGUDA¡ IHDARI GERERCIREN ILAÇLAR:
+2- Rifampisin
 
-tarletim
+T.C.
 
-1- Streptomiola flakon
+SAĞLIK VE SOSYAL YARDIM
 
-2-R1fampiein :211c unt arunialelr2 ¡let se zin Beg- T8 Os
+BAKANLIĞI
 
-F. C.
+Verem Savaşı Daire Başkanlığı
 
-### SAGLIK vE SOSYAL TARDIN BATANISI Verem Sevişı Daire Bagkanlığı
+Sayı: VS. Disp. Şb. 5300/801
 
-Scy1:VS.Disp.Sb.5300/B01
+Konu: Tüberküloz ihbarı
 
-### AHKARA
+ANKARA
 
-Konu: Tüberküloz ihbarn
+18.5.1986
 
-18$.1986
+…… VALİLİĞİNE
 
-### .VALILIC1
+Sağlık ve Sosyal Yardım Müdürlüğü
 
-Sağlık ye Sosyal Yerdım Hudurlu i:
+İlgi: 6.3.1985 tarih ve 5300/394 sayılı genelgemize ek.
 
-IIGI: 6.3/2985 tarih ve 5300/394 sayıli genelgemize ek.
+İlgi genelgemizde:
 
-İlgi Cenelgemizde:
+1) Serbest çalışan hekimler muayenehanelerinde tesbit ettikleri veya tedaviye aldıkları verem hastalarının adı, soyadı, ev ve iş adresini kendilerine ait başlıklı reçete kağıtları ile tek tek veya ay sonlarında topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildireceklerdir.
 
-1) Serbest çalışan herimler muayenehanelerinde tesbit ettikleri vęýe tedaviye eldıiları veren hastalarının Adı, Soyedı, Ev ve Ię - adiccini kendilerine ait başlıkli recete kačitları lle tek tek veyă ay sonlarinda topluca, Il Sağlik ve Sosyal Yardim Mudurlugune bildireceLlerdir.
+2) Özel, tüzel hastanelerin polikliniklerinde tesbit edilen hastaların adı soyadı, ev ve iş adresleri her ayın sonunda baştabipler tarafından topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildirilecektir.
 
-2)Özel, füzel dastanelerin Polikl1n1klerinde teebit edilen
+3) Eczaneler, Ek 1'de belirtilen verem ilaçları havi bir reçete geldiğinde hastanın adı soyadı, ev veya iş adresini ve reçeteyi yazan serbest hekimin veya reçetenin ait olduğu sağlık kuruluşunun adını bir listeye kaydederek ayın sonunda İl Sağlık ve Sosyal Yardım Müdürlüğüne göndereceklerdir.
 
-nastalerın Adı Soyadi, ev ve Iø edresleri her ayin sonunda Bagtablbler tarafından topluca İl Sağlık ve Sosyal Yardın Mudürlüčüne bildi-
+4) İl Sağlık ve Sosyal Yardım Müdürlüğü Bulaşıcı Hastalıklar Şubesi ve Eczacılık Şubesi gelen ihbarları, eczanelerden gönderilen listeleri karşılaştırarak ilgili Verem Savaşı Dispanserlerine bildireceklerdir.
 
-ecektir.
+a) Eczaneden gelen listede yazılı hastaları bildirmemiş olan serbest hekimler ve baştabiplikler yazılı olarak uyarılacaktır. Yazılı uyarıya rağmen hasta ihbarını ihmal edenler hakkında Umumi Hıfzıssıhha Kanununun 113, 114, 115, 116 maddeleri uyarınca yasal işlem yapılacaktır.
 
-, 3 czaneler Ek I'de belirtilen, Verem ilaçler; hari bir repete caldiğinde hasfann Adı Soyndijev veya jo adresini ve receteyi yazan serbert herimin veja regetenta ait oldužu saglik kurulugunun adını bir listere kufdeverek ayin sonunda ti sallıl ve Soșyal Yardım budurlu une gonderéceklerdir..
+5) Hiç bildirimde bulunmayan eczanelerin sorumluları hakkında Ek 1 listede belirtilen ilaçları sattıkları tesbit edildiği takdirde yasal işlem yapılacaktır, denilmiş ve bu hususlar iliniz ve ilçelerindeki tüm serbest hekimlere, eczanelere ve özel-tüzel hastanelere yazılı olarak tebliğ edilmesi istenmiş idi.
 
-4)11 Saflik ve Sosyal Yardin Nudurlu/u Bulogıoı bastalıklar rubeei ve Eczacilık qubesi gelen ihbarlari, eoganelerden gönderilen ileteleri karşılaşțirarak' ilgili Verem Savaşı Dispenserlerine bil- Gireceklerdir.
+Ancak bugüne kadar gelen sonuçların değerlendirilmesinde bu hususlara yeteri kadar dikkat edilmediği saptanmıştır. Verem Savaşında erken teşhis ve düzgün tedavi temel ilkedir. Toplum sağlığını yakından ilgilendiren ve ancak sevk suretiyle kontrol altında tutulması mümkün olan bu hastalığın ihbarları dispanserlere düzenli olarak yapılırsa veremliyi bulma ve takip etme daha kolay olacak ve Verem Savaşında başarı artacaktır. Serbest çalışan hekimlerin, resmî, özel-tüzel tüm hastaneler ve eczanelerin yukarıda belirtilen hususlara önemle riayet etmeleri gerekmektedir. Yine bugüne kadar bildirilen ihbarların bir çoğunda adresi açık yazılmadığından, adreslere gidilemediği ya da hastalar o adreslerde bulunamamıştır. Bu nedenle yukarıda belirtilen [?], ihbarlar aşağıdaki hususlara riayet edilmesi ve ayın sonunda bu listelerin İl Sağlık ve Sosyal Yardım Müdürlüklerine gönderilmesi şarttır.
 
-A) Eczaneden gelen listede yazilı hastaları bildirmenig olan serbest herinler ve baştabiplikler yazıli olarek uyarılacaktar.Yazılı urarzya ragmen baste ihbarını ihmal edenler hakkınds Umumi Hıfzisaihha T-nu.uıun 212,514,115, 116 neddelęr1 üyarınce yesuł lylem yegsonak.
+HASTANIN:
 
-. 5)Hiç bildirimde bulunayan eczęnelerin sorumlulara bcklındo Ek 1 Listede belirtilen ilaçları sattıkları tesbit eăildi[i takdird yasal iglem yapılzcckțir, denilmię ve bu hususlar iliniz ve ilgeleri deki tum serbest herinlere, eczanelere ve Özel-Dizel hastanelere yazılı olarak tebl1ž edilneai 1etennig 181.
+Adı Soyadı
 
-Ancak bugüne keder gelen sonuçlerın değerlenuirilnesiade bu bususlara yeteri kador dikkat edilmediği saptanmgtar. Verem Savaşa ibe- da erten toghio ve dürgun tedavi temel 1lkedir, Toplun sağliłani Je kından ilgilendiren ve ancak sevegwuk auretiyle kontrol altande tui erie masa rümdüa olso bu bastali/ın Ibbarlerz disponcerlere düsenli olc, yapilırso veremliyi bulna ve takip etmé daha kolay olacck ve Veren Savagında bagara ertecaktar. ple Serbest çaligon hekiulerin, Resni, Özel-Tüzel tum bactoneler krao eceanelerin yukarada belirtilen husualura bocnle ricjet etmeleri gerekuekteäiri Xine bugune kodar bildirilen ihberleran bir goğunda adreo] açık yoreIndı[ından, adreolere gidileneaig yuda hastaler o aůreule ok- bulunemaagtır. Du nedenle yukarida belirtilen birluleria, ibbarlar opoğida!i husualcra repiolihle rieyet edilmeni ve ayan sonunda' bu liotelerin Il Sağlak ve Sosyal Yordın Mudürlüklorino gönderilneai erin *0- parttar. De -
+Baba Adı
 
-### HASTANANE
+Doğum Yeri
 
-Ads Soyed7 Baba Adi Doğum Yeri Dogum Tarihi Ev adresl varsa Ig adresi Yakınının adresi (en oz 2 tane) LIĞI Ihbar sebebi
+Doğum Tarihi
 
-Bilindiği gibi Vak'e bulmada en etkin yöntemlerden biri de temaslı muoyeneleridir. Yukarıda bahai gegen Veremli, bastaloran i lı ımayenelerinin yapılabilmesi ve hastalcrın saglıklı epideniyo? değerlendirilmeleri igin il Sağlık Nüdurluğu dispansere ihbarin y sıre Ek 2 ve Ek 3'U doldurarak 1k1 ayda bir Soğlık ve Sosyal Yarć Bakanlıği Veren Sevapı Daire Bagkanlzčına gönderilecektiř,
+Ev adresi varsa İş adresi
 
-0/ 00
+Yakınının adresi (en az 2 tane)
+
+İhbar sebebi
+
+Bilindiği gibi vak'a bulmada en etkin yöntemlerden biri de temaslı muayeneleridir. Yukarıda bahsi geçen veremli hastaların temaslı muayenelerinin yapılabilmesi ve hastaların sağlıklı epidemiyolojik değerlendirilmeleri için İl Sağlık Müdürlüğü dispanserlere ihbarın yanı sıra Ek 2 ve Ek 3'ü doldurarak iki ayda bir Sağlık ve Sosyal Yardım Bakanlığı Verem Savaşı Daire Başkanlığına gönderilecektir.
+
+./...
 
 ### 63g
 
