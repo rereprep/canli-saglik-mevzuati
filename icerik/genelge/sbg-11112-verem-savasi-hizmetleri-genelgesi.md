@@ -11,76 +11,81 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
+T. C.
 
-### T.C.
+SAĞLIK BAKANLIĞI
 
-### SAĞLIK BAKANLIĞI
+VEREM SAVAŞI DAİRESİ BAŞKANLIĞI
 
-### VEREM SAVAŞI DAİRESİ BAŞKANLIĞI
+VEREM SAVAŞI HİZMETLERİ İLE İLGİLİ
 
-### VEREM SAVAŞI HİZMETLERİ İLE İLGİLİ GENELGELER
+GENELGELER
 
-1980
+1990
 
 ---
 
-T.C.
+T. C.
 
 SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
-Verem Savaşı Dairesi
+Verem Savaşı Daire Başkanlığı
 
-V.S. Disp. Şb. 5300-2220
+V.S. Dispanseri 5200-2223
 
-Konu: Verem savaşında ihbar [?]
+Konu: Verem savaşında ihbarlılığı
 
 ANKARA
 
-25.7.1982
+16.7.1982
 
-…… Valiliğe
+............... Valiliğe
 
-Ülkemizde başarılı bir şekilde uygulanan milli verem savaşı programı ile tüberküloz hastalığı ve enfeksiyon prevalansında [?] bir azalma sağlanmış olmasına rağmen son yıllarda bu tür hizmetleri olumsuz yönde etkileyen sosyo-ekonomik etkenler verem savaşını da olumsuz yönde etkilemiştir. Bunun yanında verem tedavilerinin ehil hekim ve kuruluşlarda standartlarına [?] ve diğer etmenler veremi bugün de sosyal bir sağlık sorunu olarak karşımıza çıkarmaktadır.
+Ülkemizde başarılı bir şekilde uygulanan milli verem savaşı programı ile tüberküloz hastalığı ve enfeksiyonun prevalansında önemli ölçüde bir azalma sağlanmış olmasına rağmen son yıllarda bütün hastanelerin olumsuz yönde etkilenmişlerdir. Bunun yanında verem teşkilatının etkin hizmet veremediği [?].
 
-Ülkemizde [?] yılında verem savaşına [?] verilmiş, halen mevcut 250 adet verem savaşı dispanseri ile göğüs hastalıkları hastanelerinin etkinlikleri artırılmaktadır.
+Bu nedenle, 1992 yılında verem savaşına verilen mevcut 250 adet verem savaşı dispanseri ile ilgili hizmetlerin etkinlikleri artırılmalıdır.
 
-Ancak tüberkülozlu hastaların ve şüphelilerin doğrudan verem savaşı dispanserlerine gönderilmemesi, bunun sonucu çevre hastanelerine ve eczanelere müracaat etmeleri; bu hastaların hastanelerin polikliniklerinde, tüberkülozlu hastaların, tüberküloz tedavisinde kullanılan standart rejimlerle tedavisinin sağlanması, düzensiz ilaç kullanma ve normal tedavisini tamamlamama gibi nedenlerle her yıl meydana gelen kronik tüberkülozlu hastaların tedavisi bakımından bağlı bulunduğu verem savaşı dispanserine gönderilmesini zaruri kılmaktadır.
-
-Verem savaşı dispanserleri, göğüs hastalıkları hastanelerinin poliklinik görevlilerinin yardımlarından hastanede yatarak tedavi gören hastalar için düzenlenen, formla bağlı olduğu göğüs hastalıkları hastanelerine gönderilmesi gerekli hastalıklar [?] bulunmaktadır. Tüberkülozun kontrol altına alınabilmesi, hastaların tedavilerinin kısa sürede sonuçlanmasını temin bakımından devlet hastanelerine müracaat eden vatandaşlarımızdan tüberkülozlu olduğu saptananların bağlı olduğu verem savaşı dispanserine gönderilmesi hususunda ilgililere emirlerinizi rica ederim.
+Ancak tüberkülozlu hastaların ve şüphelilerin doğrudan verem savaşı dispanserlerine gönderilmesi ve [?] hususunda [?].
 
 ---
 
-T.C.
+T. C.
 
 SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
-Teftiş Kurulu Başkanlığı
+Verem Savaşı Daire Başkanlığı
+
+30/Ağustos/1969
+
+Ref: [?] Kurulu Başkanlığı
 
 Konu: Dernekler Hk.
 
-30/4/1983
-
-### VEREM SAVAŞI DAİRE BAŞKANLIĞI
+VEREM SAVAŞI İLE İLGİLİ DERNEKLER
 
 Bakanlığımıza bağlı kurum ve kuruluşların bünyesinde çeşitli isimler altında kurulmuş bulunan yardım dernekleri faaliyet göstermektedir.
 
-İyi niyetli, fiilî sorumluluğuna müdrik yöneticiler idaresindeki disiplinli derneklerin bu kurum ve kuruluşlara küçümsenmeyecek yararlar sağladığı bilinen bir gerçektir.
+İyi niyetli, mali sorumluluğuna müdrik yöneticiler idaresindeki disiplinli derneklerin bu kurum ve kuruluşlara küçümsenmeyecek yararlar sağladığı bilinen bir gerçektir.
 
-Ancak bazı derneklerin ve yöneticilerin,
+Ancak bazı derneklerin ve yöneticilerinin;
 
 1. Yardımcı oldukları kurum ve kuruluşların adını, imkânlarını ve bazı yetkilerini kullanarak vatandaşları derneğe yardım yapmaya icbar ettikleri,
-2. Derneğin maddi imkânlarını, bazen de suç teşkil edecek şekilde amaç dışı kullandıkları, gösteriş ve lüks uğruna savurganlık ve keyfî harcamalar yaptıkları,
+
+2. Derneğin maddi imkânlarını, bazen de suç teşkil edecek şekilde amaç dışı kullandıkları, gösteriş ve lüks uğruna savurganlık ve keyfi harcamalar yaptıkları,
+
 3. Kurum ve kuruluşlarımızın yönetim ve tasarruflarına müdahaleye yeltendikleri,
+
 4. Kantin ve çayocağı ihdas ederek bunları işlettikleri, bazen de kiraya verdikleri, bunun için kurum ve kuruluşların belli bir hacmini işgal ettikleri,
-5. Kurum ve kuruluşların bir kısım personelini dernek işlerinde veya derneğe ait kazanç getiren teşebbüslerde çalıştırarak onları asli görevlerinden uzaklaştırdıkları, yapılan başvurulardan, inceleme ve soruşturmalardan anlaşılmıştır.
+
+5. Kurum ve kuruluşların bir kısım personelini dernek işlerinde veya derneğe ait kazanç getiren teşebbüslerde çalıştırarak onları asli görevlerinden uzaklaştırdıkları, yapılan başvuruların, inceleme ve soruşturmalardan anlaşılmıştır.
 
 Vatandaşın haklı şikâyetlerine, resmî kurum ve kuruluşların itibarının zedelenmesine neden olan bu usul ve mevzuat dışı uygulamalara mani olunması için:
 
-a- Bu dernekler mahallî denetim elemanlarınca sık sık ve etkin biçimde denetlenecektir.
+a- Bu dernekler mahallî denetim elemanlarınca sık sık ve etkin biçimde denetleneceklerdir.
 
-b- Kurum ve kuruluşların adı, imkân ve yetkileri kullanılarak özellikle polikliniklerde vatandaşlardan kesinlikle derneğe yardım istenmeyecektir.
+b- Kurum ve kuruluşların adı, imkân ve yetkileri kullanılarak, özellikle polikliniklerde vatandaşlardan kesinlikle derneğe yardım istenmeyecektir.
 
-c- Kurum ve kuruluşlarda dernek adına veya dernek tarafından kiraya verilmek üzere kantin, çayocağı ve saire açılması için yer tahsis edilmeyecektir.
+c- Kurum ve kuruluşlarda dernek, derneğin veya dernek tarafından kiraya verilmek üzere kantin, çayocağı ve başka amaçlı işler için yer tahsis edilmeyecektir.
 
 d- Kurum ve kuruluşlarda görevli personel, mesai saatleri içinde dernek işlerinde veya derneğe gelir getirecek işlerde çalıştırılmayacaktır.
 
@@ -88,41 +93,49 @@ e- Bu dernekler kurum ve kuruluşlarımızın bünyesi dışında faaliyet göst
 
 f- Dernek yöneticilerinin, kurum ve kuruluşlarımızın işlerine ve yönetimine müdahalesine asla müsamaha gösterilmeyecektir.
 
-Konunun titizlikle takibini, önceki dönemlerde yapılan bu kabil usulsüz ve yolsuz uygulamalara asla izin verilmemesini, bu sebeple derneklerin yaptırılacak teftişleri sonucunda düzenlenecek raporların birer nüshasının da Bakanlığımıza gönderilmesinin usul ittihaz edilmesini, bu genelge çerçevesinde vaki olacak bütün gelişmelerden Bakanlığımızın anında haberdar edilmesini ve gereğine emirlerinizi önemle rica ederim.
+Konunun titizlikle takibini, önceki dönemlerde yapılan bu kabil usulsüz ve yolsuz uygulamalara asla izin-verilmemesini, bu sebebden derneklerin yaptırılacak teftişleri sonucunda düzenlenecek raporların birer nüshasının da Bakanlığımıza gönderilmesinin temin ve ittihaz edilmesini, bu genelge çerçevesinde vaki olacak bütün gelişmelerden Bakanlığımızın anında haberdar edilmesini ve gereğine emirlerinizi önemle rica ederim.
 
-Prof. Dr. Kaya ÇİÇTUGA
+Prof. Dr. Kaya [?]
+
+Genel Müdür
 
 ---
 
-T.C.
+T. C.
 
 SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
 Verem Savaşı Genel Müdürlüğü
 
-V.S. İç. İş. Şb. 9720/1765
+V.S. İlt. İş. Şb. 9720/1765
 
 Konu: Dernekler
 
-### VEREM SAVAŞI DİSPANSERLERİNE
+ANKARA
 
-Yardım dernekleri hakkında Valiliklere gönderilen 30.5.1983 tarihli emrin örneği yukarıya çıkarılmıştır.
+30.10.1969
+
+VEREM SAVAŞI DİSPANSERLERİ BAŞHEKİMLERİNE
+
+Yardım dernekleri hakkında Valiliklere gönderilen 30.5.1969 tarihli emrin örneği yukarıya çıkarılmıştır.
 
 Bilginizi rica ederim.
 
-Dr. Cahit Dağ [?]
+BAKAN ADINA
+
+Dr. Cahit [?]
 
 Daire Başkanı V.
 
 ---
 
-T.C.
+T. C.
 
 SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
 Verem Savaşı Daire Başkanlığı
 
-Sayı: V.S. Disp. Şb. 3310/206
+Sayı: V.S.D.İlç.Şb. 3310/206
 
 Konu: Hasta Takibi
 
@@ -130,1058 +143,1026 @@ ANKARA
 
 4.2.1985
 
-### Sağlık ve Sosyal Yardım Müdürlüğü
+Sağlık ve Sosyal Yardım Müdürlüklerine
 
-İliniz ve ilçelerinde mevcut Verem Savaşı Dispanserlerinde hizmetin verimli bir şekilde yürütülmesini temin, hasta tedavi ve takibinin daha iyi bir şekilde yapılmasını sağlamak amacıyla dispanserlerde başta takip memuru olarak görev yapan fakat 13.3.1984 tarih ve 18488 sayılı mükerrer Resmî Gazete'de yayımlanarak yürürlüğe giren 84/8360 sayılı Bakanlar Kurulu Kararıyla kadro unvanları kaldırılarak hizmetli kadrosuna alınan hasta takip memurlarının eskiden olduğu gibi yine hasta takibi ile görevlendirilmeleri Bakanlık Makamının 1.2.1985 tarih ve 5398 sayılı onayı ile uygun görülmüştür.
+İllerinizde ve ilçelerinizde mevcut Verem Savaşı Dispanserlerinde hizmetin verimli bir şekilde yürütülmesini temin, hasta tedavi ve takibinin daha iyi bir şekilde yapılmasını sağlamak amacıyla dispanserlerde hasta takip memuru olarak görev yapan fakat 13.3.1984 tarih ve 18488 sayılı mükerrer Resmî Gazete'de yayımlanarak yürürlüğe giren 84/360 sayılı Bakanlar Kurulu Kararıyla kadro unvanları kaldırılarak hizmetli kadrosuna alınan hasta takip memurlarının eskiden olduğu gibi yine hasta takibi ile görevlendirilmeleri Bakanlık Makamının 1.2.1985 tarih ve 5398 sayılı onayı ile uygun görülmüştür.
 
 Gereğinin buna göre yapılması hususunda ilgililere emirlerinizi rica ederim.
 
-### BAKAN ADINA
+BAKAN ADINA
 
-Dr. M. Ferit KOÇOĞLU
+Dr. N. Ferit KOÇOĞLU
 
 Daire Başkanı V.
 
 T.C.
-
-SAĞLIK VE SOSYAL YARDIM
-
+SAĞLIK ve SOSYAL YARDIM
 BAKANLIĞI
-
 Verem Savaşı Daire Başkanlığı
 
-SAYI: V.S. Disp. Şb. 5300/394
+SAYI: VS.Disp.Şb.5300/394				ANKARA
+KONU: Tüberkülozlular Hakkında			6 MART 1985
 
-KONU: Tüberkülozlular Hakkında
-
-ANKARA
-
-6 MART 1985
-
-…… VALİLİĞİNE
+.............VALİLİĞİNE
 
 Sağlık ve Sosyal Yardım Müdürlüğü
 
-Erken teşhis ve düzgün tedavi Verem Savaşının temel ilkeleridir. Erken teşhis, sağlık personelinin TBC semptomları hakkında bilgili ve uyanık olmaları ile ve vereme yakalanma riski çok yüksek olan grupların periodik olarak kontrol edilmeleri ile mümkündür.
+Erken teşhis ve düzgün tedavi Verem Savaşının temel ilkeleridir. Erken teşhis, sağlık personelinin TBC semptomları hakkında bilgili ve uyanık olmaları ile ve vereme yakalanma riski çok yüksek olan grupların periyodik olarak kontrol edilmeleri ile mümkündür.
 
-Verem hastalığına yakalanma riski en yüksek olanların başında hastaların ev halkı gelmektedir. Bu nedenle bir verem hastası bulunduğu zaman, hastanın yakınları, en az bir yıl süreyle periodik olarak muayene edilmelidir.
+Verem hastalığına yakalanma riski en yüksek olanların başında hastaların ev halkı gelmektedir. Bu nedenle bir verem hastası bulunduğu zaman, hastanın yakınları, en az bir yıl süreyle periyodik olarak muayene edilmelidir.
 
 Düzgün tedavi, hastaların kronikleşmesini ve bu suretle etrafa dirençli basil saçmasını önlemek açısından hayati önemi haizdir.
 
 Hastaları ve çevrelerini kontrol altında tutmak ve disiplinli bir şekilde takiplerini yapmak amacıyla kurulmuş olan Verem Savaşı Dispanserlerinin, yukarıda belirtilen nedenlerle, diğer kuruluşlarda tesbit edilen TBC vak'alarından haberdar edilmeleri gerekmektedir.
 
-Zira serbest hekimlerin ve hastanelerin verem hastalarını disiplinli bir şekilde takip etme imkânları yoktur. Toplum sağlığını yakından ilgilendiren ve ancak sevk suretiyle kontrol altında tutulması mümkün olan bu hastalığın dispanserlere ihbarı yasayla da zorunlu kılınmıştır. (Umumi Hıfzıssıhha Kanunu Madde 113, 114, 115, 116) İhbar etmeleri şartıyla serbest çalışan hekimlerin ve diğer sağlık kuruluşlarının verem hastalarını tedavi edebilecekleri tabiidir.
+Zira serbest hekimlerin ve hastanelerin verem hastalarını disiplinli bir şekilde takip etme imkânları yoktur. Toplum sağlığını yakından ilgilendiren ve ancak sevgi ve sabırla kontrol altında tutulması mümkün olan bu hastalığın dispanserlere ihbarı da zorunlu kılınmıştır (Umumi Hıfzıssıhha Kanunu Madde 113, 114, 115, 116). İhbar etmeleri şartıyla serbest çalışan hekimlerin ve diğer sağlık kurumlarının verem hastalarını tedavi edebilecekleri tabiidir.
 
 İhbar mekanizmasının işleyişini kontrol amacıyla aşağıda belirtilen tedbirlerin alınmasına zaruret hasıl olmuştur.
 
-1- Serbest çalışan hekimler muayenehanelerinde tesbit ettikleri ve tedaviye aldıkları verem hastalarının adı, soyadı, ev veya iş adresini, kendilerine ait başlıklı reçete kağıtları ile tek tek veya ay sonlarında topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildireceklerdir.
+1- Serbest çalışan hekimler muayenehanelerinde tesbit ettikleri ve tedaviye aldıkları verem hastalarının adı, soyadı, ev veya iş adreslerini, kendilerine ait başlıklı reçete kâğıtları ile tek tek veya ay sonlarında topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildireceklerdir.
 
-2- Özel-tüzel hastanelerin polikliniklerinde tesbit edilen verem hastalarının adı, soyadı, ev veya iş adresleri her ayın sonunda baştabipler tarafından topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildirilecektir.
+2- Özel-Tüzel hastanelerin polikliniklerinde tesbit edilen verem hastalarının adı, soyadı, ev veya iş adresleri her ayın sonunda Baştabibler tarafından topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildirilecektir.
 
-3- Eczaneler, ekte belirtilmiş ilaçları havi bir reçete geldiğinde, hastanın adını, soyadını, ev veya iş adresini ve reçeteyi yazan serbest hekimin veya reçetenin ait olduğu sağlık kuruluşunun adını bir listeye kaydederek ayın sonunda İl Sağlık ve Sosyal Yardım Müdürlüğüne göndereceklerdir.
+3- Eczaneler, ekte belirtilmiş ilaçları havi bir reçete geldiğinde, hastanın adını, soyadını, ev veya iş adresini ve reçeteyi yazan serbest hekim veya reçetenin ait olduğu sağlık kuruluşunun adını bir listeye kaydederek ayın sonunda İl Sağlık ve Sosyal Yardım Müdürlüğüne göndereceklerdir.
 
 4- İl Sağlık ve Sosyal Yardım Müdürlüğü bulaşıcı hastalıklar şubesi ve eczacılık şubesi ilgilileri, gelen verem ihbarlarını ve eczanelerden gönderilen listeleri karşılaştıracaklar ve hastaları ilgili Verem Savaşı Dispanserlerine bildireceklerdir.
 
-a) Eczaneden gelen listede yazılı hastaları bildirmemiş olan serbest hekimler ve baştabiplikler yazılı olarak uyarılacaklardır. Yazılı uyarıya rağmen hasta ihbarını ihmal edenler hakkında Hıfzıssıhha Kanununun ilgili maddeleri uyarınca yasal işlem yapılacaktır.
+a) Eczaneden gelen listede yazılı hastaları bildirmemiş olan serbest hekimler ve baştabiblikler yazılı olarak uyarılacaklardır. Yazılı uyarıya rağmen hasta ihbarını ihmal edenler hakkında Umumi Hıfzıssıhha Kanununun ilgili maddeleri uyarınca yasal işlem yapılacaktır.
 
-5- Hiç bildirimde bulunmayan eczanelerin sorumluları hakkında, listede belirtilen ilaçları sattıkları tesbit edildiği takdirde yasal işlem yapılacaktır.
+5- Hiç bildirimde bulunmayan eczanelerin sorumluları hakkında, listede belirtilen ilaçları sattıkları takdirde yasal işlem yapılacaktır.
 
-Yukarıda belirtilen hususların ilinizde ve ilçelerindeki tüm serbest hekimlere, eczanelere ve özel-tüzel hastanelere yazılı olarak tebliğini rica eder, emirlerinizi beklerim.
+Yukarıda belirtilen hususların titizlikle ve ilgililerdeki tüm serbest hekimlere, eczanelere ve özel-tüzel hastanelere yazılı olarak tebliğini rica ederim.
 
-Prof. Dr. Yunus HÜFTÜ
-
-BAKAN ADINA
-
-MÜSTEŞAR
+BAKAN ADINA				Prof. Dr. Yunus NÜRT[?]
+						MÜSTEŞAR
 
 EK: 1 ilaç listesi
 
-REÇETEDE TEK BAŞINA BULUNSA BİLE, HASTANIN İHBARINI GEREKTİREN İLAÇLAR
+REÇETEDE TEK BAŞINA BULUNSA BİLE HASTANIN İHBARINI GEREKTİREN İLAÇLAR
 
-1- İzoniazid (Nydrazid, Isovit ve benzerleri)
-
-2- Ethambutol (Embutol, Tambutol, Etibi ve benzerleri)
-
-3- Paraaminosalisilik asit (PAS, Depas ve benzerleri)
-
+1- Izoniazid (Nydrazid, Tavit ve benzerleri)
+2- Ethambutol (Enbutol, Tambutol, Etibi ve benzerleri)
+3- Paramino salisilik asit (PAS, Depas ve benzerleri)
 4- Morfozinamid (Piazoline)
-
 5- Thiacetazon (Inhazon ve benzerleri)
+6- Protionamid (Pronid)
 
-6- Protionamid (Promid)
-
-LİSTEDEKİ DİĞER İLAÇLARDAN HERHANGİ BİRİYLE REÇETEDE BİR ARADA BULUNDUĞUNDA İHBARI GEREKTİREN İLAÇLAR:
+LİSTEDEKİ DİĞER İLAÇLARDAN HERHANGİ BİRİYLE REÇETEDE BİRLİKTE BULUNDUĞUNDA, İHBARI GEREKTİREN İLAÇLAR:
 
 1- Streptomisin flakon
-
 2- Rifampisin
 
 T.C.
-
-SAĞLIK VE SOSYAL YARDIM
-
+SAĞLIK ve SOSYAL YARDIM
 BAKANLIĞI
-
 Verem Savaşı Daire Başkanlığı
 
-Sayı: VS. Disp. Şb. 5300/801
+Sayı: VS.Disp.Şb.5300/301				ANKARA
+Konu: Tüberküloz ihbarı				18.6.1986
 
-Konu: Tüberküloz ihbarı
-
-ANKARA
-
-18.5.1986
-
-…… VALİLİĞİNE
+.............VALİLİĞİ
 
 Sağlık ve Sosyal Yardım Müdürlüğü
 
 İlgi: 6.3.1985 tarih ve 5300/394 sayılı genelgemize ek.
 
-İlgi genelgemizde:
+İlgi Genelgemizde;
 
-1) Serbest çalışan hekimler muayenehanelerinde tesbit ettikleri veya tedaviye aldıkları verem hastalarının adı, soyadı, ev ve iş adresini kendilerine ait başlıklı reçete kağıtları ile tek tek veya ay sonlarında topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildireceklerdir.
+1) Serbest çalışan hekimler muayenehanelerinde tesbit ettikleri veya tedaviye aldıkları verem hastalarının Adı, Soyadı, Ev ve İş adresini kendilerine ait başlıklı reçete kâğıtları ile tek tek veya ay sonlarında topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildireceklerdir.
 
-2) Özel, tüzel hastanelerin polikliniklerinde tesbit edilen hastaların adı soyadı, ev ve iş adresleri her ayın sonunda baştabipler tarafından topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildirilecektir.
+2) Özel, Tüzel hastanelerin polikliniklerinde tesbit edilen hastaların Adı Soyadı, ev ve iş adresleri her ayın sonunda Baştabibler tarafından topluca İl Sağlık ve Sosyal Yardım Müdürlüğüne bildirilecektir.
 
-3) Eczaneler, Ek 1'de belirtilen verem ilaçları havi bir reçete geldiğinde hastanın adı soyadı, ev veya iş adresini ve reçeteyi yazan serbest hekimin veya reçetenin ait olduğu sağlık kuruluşunun adını bir listeye kaydederek ayın sonunda İl Sağlık ve Sosyal Yardım Müdürlüğüne göndereceklerdir.
+3) Eczaneler, Ek 1'de belirtilen Verem ilaçları havi bir reçete geldiğinde hastanın Adı Soyadı, ev veya iş adresini ve reçeteyi yazan serbest hekim veya reçetenin ait olduğu sağlık kuruluşunun adını bir listeye kaydederek ayın sonunda İl Sağlık ve Sosyal Yardım Müdürlüğüne göndereceklerdir.
 
-4) İl Sağlık ve Sosyal Yardım Müdürlüğü Bulaşıcı Hastalıklar Şubesi ve Eczacılık Şubesi gelen ihbarları, eczanelerden gönderilen listeleri karşılaştırarak ilgili Verem Savaşı Dispanserlerine bildireceklerdir.
+4) İl Sağlık ve Sosyal Yardım Müdürlüğü Bulaşıcı hastalıklar şubesi ve Eczacılık şubesi gelen ihbarları, eczanelerden gönderilen listeleri karşılaştırarak ilgili Verem Savaşı Dispanserlerine bildireceklerdir.
 
-a) Eczaneden gelen listede yazılı hastaları bildirmemiş olan serbest hekimler ve baştabiplikler yazılı olarak uyarılacaktır. Yazılı uyarıya rağmen hasta ihbarını ihmal edenler hakkında Umumi Hıfzıssıhha Kanununun 113, 114, 115, 116 maddeleri uyarınca yasal işlem yapılacaktır.
+4-a) Eczaneden gelen listede yazılı hastaları bildirmemiş olan serbest hekimler ve baştabiblikler yazılı olarak uyarılacaklardır. Yazılı uyarıya rağmen hasta ihbarını ihmal edenler hakkında Umumi Hıfzıssıhha Kanununun ilgili maddeleri uyarınca yasal işlem yapılacaktır.
 
-5) Hiç bildirimde bulunmayan eczanelerin sorumluları hakkında Ek 1 listede belirtilen ilaçları sattıkları tesbit edildiği takdirde yasal işlem yapılacaktır, denilmiş ve bu hususlar iliniz ve ilçelerindeki tüm serbest hekimlere, eczanelere ve özel-tüzel hastanelere yazılı olarak tebliğ edilmesi istenmiş idi.
+5) Hiç bildirimde bulunmayan eczanelerin sorumluları hakkında Ek 1 listede belirtilen ilaçları sattıkları takdirde yasal işlem yapılacaktır, denilmiş ve bu hususların ilimiz ve ilçelerdeki tüm serbest hekimlere, eczanelere ve Özel-Tüzel hastanelere yazılı olarak tebliğ edilmesi istenmiş idi.
 
-Ancak bugüne kadar gelen sonuçların değerlendirilmesinde bu hususlara yeteri kadar dikkat edilmediği saptanmıştır. Verem Savaşında erken teşhis ve düzgün tedavi temel ilkedir. Toplum sağlığını yakından ilgilendiren ve ancak sevk suretiyle kontrol altında tutulması mümkün olan bu hastalığın ihbarları dispanserlere düzenli olarak yapılırsa veremliyi bulma ve takip etme daha kolay olacak ve Verem Savaşında başarı artacaktır. Serbest çalışan hekimlerin, resmî, özel-tüzel tüm hastaneler ve eczanelerin yukarıda belirtilen hususlara önemle riayet etmeleri gerekmektedir. Yine bugüne kadar bildirilen ihbarların bir çoğunda adresi açık yazılmadığından, adreslere gidilemediği ya da hastalar o adreslerde bulunamamıştır. Bu nedenle yukarıda belirtilen [?], ihbarlar aşağıdaki hususlara riayet edilmesi ve ayın sonunda bu listelerin İl Sağlık ve Sosyal Yardım Müdürlüklerine gönderilmesi şarttır.
+Ancak bugüne kadar gelen sonuçların değerlendirilmesinde bu hususlara yeteri kadar dikkat edilmediği saptanmıştır. Verem Savaşında erken teşhis ve düzgün tedavi temel ilkedir. Toplum sağlığını yakından ilgilendiren ve ancak sevgi ve sabırla kontrol altında tutulması mümkün olan bu hastalığın ihbarları dispanserlere düzenli olarak yapılırsa veremliyi bulma ve takip etme daha kolay olacak ve Verem Savaşında başarı artacaktır.
+
+Serbest çalışan hekimlerin, Resmî, Özel-Tüzel tüm hastanelerin ve eczanelerin yukarıda belirtilen hususlara öncelikle riayet etmeleri gerekmektedir.
+
+Yine bugüne kadar bildirilen ihbarların birçoğunda adresi açık yazılmadığından, eczanelere gidilememiş veya hastalar o adreslerde bulunamamıştır. Bu nedenle yukarıda belirtilen birimlerde ihbarlarda aşağıdaki hususlara kesinlikle riayet edilmesi ve ayın sonunda bu listelerin İl Sağlık ve Sosyal Yardım Müdürlüklerine gönderilmesi şarttır.
 
 HASTANIN:
 
 Adı Soyadı
-
 Baba Adı
-
 Doğum Yeri
-
 Doğum Tarihi
-
 Ev adresi varsa İş adresi
-
 Yakınının adresi (en az 2 tane)
-
 İhbar sebebi
 
-Bilindiği gibi vak'a bulmada en etkin yöntemlerden biri de temaslı muayeneleridir. Yukarıda bahsi geçen veremli hastaların temaslı muayenelerinin yapılabilmesi ve hastaların sağlıklı epidemiyolojik değerlendirilmeleri için İl Sağlık Müdürlüğü dispanserlere ihbarın yanı sıra Ek 2 ve Ek 3'ü doldurarak iki ayda bir Sağlık ve Sosyal Yardım Bakanlığı Verem Savaşı Daire Başkanlığına gönderilecektir.
+Bilindiği gibi Vak'a bulmada en etkin yöntemlerden biri de temel muayenelerdir. Yukarıda bahsi geçen Veremli hastaların bu muayenelerinin yapılabilmesi ve hastaların sağlıklı epidemiyolojik değerlendirmeleri için İl Sağlık Müdürlüğü dispanser ihbarının yanı sıra Ek 2 ve Ek 3'ü doldurarak iki ayda bir Sağlık ve Sosyal Yardım Bakanlığı Verem Savaşı Daire Başkanlığına gönderilecektir.
 
-./...
+Yukarıda açıklanan hususlar üzerinde önemle durulmasında illere emirlerinizi rica ederim.
 
-### 63g
+BAKAN ADINA
 
-¡utorida açikinas hususlar dizerinde inorile durlmasanca ililere enizleriniai cige ederina
+EK:
 
-### AI ADINA
+1- İlaç listesi ve formlar
 
-Lo 118g 11etoal ve écralar
+DAĞITIM:
 
-### DI ALLI OLCAY
+İl Valiliğine
 
-Müzesa vel. LI VArtAINIE:
+Dr. Adil Olcay  
+Müsteşar Vekili
 
-### EX&J REZETEDE TEK BAÇIYA BULANSA BILE, HASTANTE DIBARINI GEREXTIFEN ILAÇLAR:
+---
 
-1-İzoniazić (Nydrazid, Isovit ve benzerleri) 2-Et anbutc1 (Embutol, Tambutol, Etibi ve benzerleri) 3-ParaemincJalieilik asit (PAS, Bepea ve benzerleri) 4 Lorphozirunid (Piazol1ne) ' 5-Thiacetczon ( Inhazon V.S.) 6-Protionax1d ( Promia)
+## Ek: 1
 
-### LISTEDESİ DIGER İLAÇLARDAN SERHANGI BIRIYLE REJETEDE BARARADA FULUKUĞUDA IHBARI GEREKIIREN ILAÇIAR:
+### REÇETEDE TEK BAŞINA BULUNSA BİLE, HASTANIN İHBARINI GEREKTİREN İLAÇLAR:
 
-1-Streptonisin Ilakon, 2-Rifampisin Özel Majene! Özol Hastanelerden Devlet Icstaneleriöden Hastanın Bildirildigi TOPL Есз: nel aräon Kuruluş Ferlerion nelerden
+1- İzoniazid (Hydrazid, Isovit ve benzerleri)  
+2- Ethambutol (Embutol, Tembutol, Etibi ve benzerleri)  
+3- Paraminosalisilik asit (PAS, Bepas ve benzerleri)  
+4- Morphozinamid (Piazoline)  
+5- Thiacetazon (Inhazon V.S.)  
+6- Protionamid (Promid)
 
-### .İLI SAĞLIK VE SOSYAL YARDIN MIDÜRLOĞÜ
+### LİSTEDEKİ DİĞER İLAÇLARDAN HERHANGİ BİRİYLE REÇETEDE BİR ARADA BULUNDUĞUNDA İHBARI GEREKTİREN İLAÇLAR:
 
-Dasta soya. Ihbar edilen
+1- Streptomisin flakon  
+2- Rifampisin
 
-edilen gasta sayli Dispensere sapar Il sagilt Ma.ce
+---
 
-konuda dugünceler зара аліна ви Dispansere ihbar
+## Ek: 2
 
-EK 12 Ad1 ve Soyadl tuberkulozlu hasta listesi Pastania
+…… İLİ SAĞLIK VE SOSYAL YARDIM MÜDÜRLÜĞÜ
 
-/19.
+| Hastanın Bildirildiği Kuruluş | İhbar edilen hasta sayısı | İl sağlık Md.ce Dispansera ihbar edilen hasta sayısı | Dispansera ihbar yapılmamışsa bu konuda düşünülenler |
+|---|---|---|---|
+| Devlet Hastanelerinden |  |  |  |
+| Özel Hastanelerden |  |  |  |
+| Özel Muayenehanelerden |  |  |  |
+| Eczanelerden |  |  |  |
+| Diğer yerlerden |  |  |  |
+| TOPLAM |  |  |  |
 
-111 Sazlik ve Sosyal Yardia !dü: auz ja ba Dogus o% • arins Taribi
+Tarih ve Mühür
 
-ihba> ciroal. Dv adresi varsa ig
+---
 
-aaten
+……/……/19…… ve ……/……/19…… tarihleri arasında  
+……………… ili Sağlık ve Sosyal Yardım Müdürlüğüne ihbar edilen  
+tüberkülozlu hasta listesi
 
-blairen Dispanserıa auz Saykod111}1 Inza ve Miati
+| Sıra No. | Hastanın Adı ve Soyadı | Baba Adı | Doğum Yeri | Doğum Tarihi | Ev adresi varsa iş adresi | Bildiren Kuruluşun adı | Sevkedildiği Dispanserin adı |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
 
-### T. C. SAGLIK VE SOSYAL YARDIN BAKANLIGI
+İmza ve Mühür
 
-Verem Savaşı Daire DagLanlağı Fey::VS:D1ep.Qb.5300/ 600 ANC1L onu: Dispanser Çolişmalar: 17.6.1986.
+---
 
-### .VALILIGI
+T.C.  
+SAĞLIK ve SOSYAL YARDIM  
+BAKANLIĞI  
+Verem Savaşı Daire Başkanlığı
 
-Seklak ve . Sosyal Yardım MudürLuKt:
+Sayı: VS/Disp.Şb.5300/600  
+Konu: Dispanser Çalışmaları
 
-Verem Savaşı Dairesi Başkanlığınca, divpanserlerde Uzcrinde önemle durulunaz gereren ve ûitletli bir dioponscr hekimi ve personelince, yerine getirildiği takdirde, dispanserlerin Verem Soveşındaki baçarı. ve katkısını artıracck hususlar eşa"'da çıkarilunştar.
+ANKARA  
+17.6.1986
 
-Tüberküloz tedaviei, uzun sureli, kombine ve düzçün ilaç kullanne escsina dayenır,leteraiz ve duzensiz tedavi, hastalañan kroni!legmesine ve ilaglera direnç gelişmesinc yol apmaktadir, dalen ulkemizde toplunun Ba/liřanı buyük ölçüde tehdit eden ve Veren Savagandaki en biyuk problem, kronik hastalerůir, Bugunku etkin ileçlcflc hustaların șikayctleri kısa surege raybolmakte ve hastalar iyileştiklerini banmaktacirler. Vereule Savaş bir bakına, gikcyetleri seçen bu tür hastalara uzun pure ve dusenli 1lag kullandarma savașidir. bunun için de tedavi sorunluluğunu yuklenen dispanser hekini ve yanında calışan yaraınca sağlık görevlileri butün giç, bilki ve becerilerini ortayc koyarak hastalorın bu duruma celmelerıni önleseye peligcla, hastalara, hostalı- Éı ve tedavisi hakkında gerekli bilgi verilerek, hostalar ve gevresi "' eĞitilmeli, "İSBİRLIĞİ YARTAN LASTA" kavranı silinnelidir.
+…… VALİLİĞİ
 
-2-Tedcviyi uygul-yen doktor, hemgire ve yardınca personelin . instalora ilci ve gefkat göstermeleri gartter. 'ersine devraniglarl, hastalerın disponsere baglılığını ve güvenini zayıflctacağı fibi tedaviyi ihmal etuclerine. de yol açar. Neslek kusuru olarak tabul edilebijecek bu tur davrcnaglarden kaçınılarak, hasta teduvisi çok ‚yukın takıpje, kurallarına uygun olarak gözetim altında sürdürlilmeli ve haatalorın iybirl1ği mutloka saLlanmalıdır. Ekteli TABIO 4'de y2llara göre dispanporleriwiede 1ebirliEi yapmayen ve akibeti mechule ayrılenlorın miktarlerinın hig de az olmedığs vo dispanserlerinizde hastalaran gerek~ li perilde takip eûilnedi]i görülmektecir.
+Sağlık ve Sosyal Yardım Müdürlüğüne:
 
-3-лy 16indu 1te6 ver1lneei gereken hretnduran tumune 1lag veri2- = 2= r'mcsine uzamî gayret gösterilerck, ileg verilweyenlerin orana 55 den favl. .ise personelin bu konuda dikroti çekilmeli ve bu tür görev ihmali sac-" ye indirilsolidir. Ekteki ȚABIO 2'do görildüğü gibi dispanserlerde ilt duzonl1 verilen hasta yusúce1 en 191 1905 yalındo olung va en ez % 95 olmcel gerekirken % 58'de kelmiptar.
+Verem Savaşı Dairesi Başkanlığınca, dispanserlerde üzerinde önemle durulması gereken ve dikkatli bir dispanser hekimi ve personelince yerine getirildiği takdirde, dispanserlerin Verem Savaşındaki başarı ve katkısını artıracak hususlar aşağıda çıkarılmıştır.
 
-4-dastalar tedaviye alanırken, gerertilinde haberlegmeyi pağlur için haatcdan en az 2-3 câres alinmalidir.
+Tüberküloz tedavisi, uzun süreli, kombine ve düzgün ilaç kullanma esasına dayanır. Yetersiz ve düzensiz tedavi, hastalığın kronikleşmesine ve ilaçlara direnç gelişmesine yol açmaktadır. Halen ülkemizde toplum sağlığını büyük ölçüde tehdit eden ve Verem Savaşındaki en büyük problem, kronik hastalıklardır. Bugünkü etkin ilaçlarla hastaların şikâyetleri kısa sürede kaybolmakta ve hastalar iyileştiklerini sanmaktadırlar. Veremle Savaş bir bakıma, şikâyetleri geçen bu tür hastalara uzun süre ve düzenli ilaç kullandırma savaşıdır. Bunun için de tedavi sorumluluğunu yüklenen dispanser hekimi ve yanında çalışan yardımcı sağlık görevlileri bütün güç, bilgi ve becerilerini ortaya koyarak hastaların bu duruma gelmelerini önlemeye çalışmalı; hastalara hastalığı ve tedavisi hakkında gerekli bilgi verilerek hastalar ve çevresi eğitilmeli, “TÜBERKÜLOZ YALANCI HASTA” kavramı bilinmelidir.
 
-5-justeların tedavi baylangicinda en az 2-3 balgama alinarak, kesin tenı bolcam muayencoine dayclı yopıluclıdır.
+2- Tedaviyi uygulayan doktor, hemşire ve yardımcı personelin hastalara ilgi ve şefkat göstermeleri şarttır. Tersine davranışları, hastaların dispansere bağlılığını ve güvenini zayıflatacağı gibi tedaviyi ihmal etmelerine de yol açar. Meslek kusuru olarak kabul edilebilecek bu tür davranışlardan kaçınılarak hasta tedavisi çok yakın takipte, kurallarına uygun olarak gözetim altında sürdürülmeli ve hastaların işbirliği mutlaka sağlanmalıdır. Ekli TABLO 4'te yıllara göre dispanserlerimizde işbirliği yapmayan ve akibeti meçhule ayrılanların miktarlarının hiç de az olmadığı ve dispanserlerimizde hastaların gerekli şekilde takip edilmediği görülmektedir.
 
-G-Dusenli tedaviye rečmen, tedavinin 4,-6, aylcra sonunda hasti hala basil müsbetliğinin ceramı ve radyolojik düzelue görülseyen vak'ilar bakteriyolojik direng geliguesinin bir belirticidir. Ju nedenle he talaran bacil durumlerının jakandan toribi gerekir. Bagil nusbetliğin: devam ettiği hastaların balreßlerı antibiogrem tetkiki igin bölge tüb küloz laboratuvarına göncerilmçlidir. :
+Yılda düzenli ilâç verilebilen veremli hastaların bütününe ilâç verilmesine azami gayret gösterilerek, ilâç verilemeyenlerin oranı %5'den fazla ise personelin bu konuda dikkati çekilmeli ve bu tür görev ihmali azaltılmaya indirilmelidir. Nitekim TABLO 2'de görüldüğü gibi dispanserlerde düzenli verilen hasta yüzdesi en iyi 1965 yılında olmuş ve en az %95 olması gerekirken %58'de kalmıştır.
 
-7-Verem Sevapanzn cmaca tüberkuloz bagilinden erindirilmay bi: ortam veretacktır. Infeksiyonun yayılmceı açısından besil wusbetliřin önemi verdir. Virekt mikroskopice miobet hubtclerin ev içi tengelalar: de bulcgkanllk 20 crenınde, artadaglık şeklindeki yakan iligkilerde " 3,7 ve 1g arkadeșlažanda " 0,3 orenında septanmaştar.Yani: direkt ya. - ma belgedında basil miobot olen bir hasta ile pynı gata altanda yogayhişilerin (cile içi temaslılerımın) bestelığe yatalaona riske,bostanın . yakın arkadaçlerı ve ekrabclarına söre 5 micli,1g arkodoglarana göre : 50-60 misli fazladır. (PADLO I) Vu oran cösternektedir Li vaka bulücda özellikle hastaleran ev ici yakın teanslilcranın kontrolu önedlidir. Sadece kültür pusbet hostelerde bulegtırıcılak,direktaikroskopide muebet hostalcra orenlo pek önerli değildir. "ural olcra" bulunun her yi: , vakaya korşın en az 4-8 temanla nucyenesi yepalucuina özen gosterillac hastanın bütun toncolılarinan ibin ve adreslerinin hasta dosy band 1l nerek; hosta tonaolilerenın 3-6 cyda bir kontrol edilmeleri suülunaul.
+4-Hastalar tedaviye alınırken, gerektiğinde haberleşmeyi sağlamak için hastadan en az 2-3 adres alınmalıdır.
 
-8-füberkulozda VAKA" terimi cenellikle tübermloz basillerin: gevreye yayarak sallarlara kolaylıbla enfeksiyonu bulagtıran haptalar. tanımler. bu nedenlo veka bulma salıgmalorı özellıklě indeke vakayá
+5-Hastaların tedavi başlangıcında en az 2-3 balgam alınarak, kesin tanı balgam muayenesine dayalı yapılmalıdır.
 
-.yaymn nubbet bulunan valeler) yönelik olmalıůır. (direkt belgem
+6-Düzenli tedaviye rağmen, tedavinin 4.-6. ayları sonunda hastada hâlâ basil müsbetliğinin devamı ve radyolojik düzelme görülmeyen vak'alar bakteriyolojik direnç gelişmesinin bir belirtisidir. Bu nedenle hastaların basil durumlarının yakından takibi gerekir. Basil müsbetliğinin devam ettiği hastaların balgamları antibiyogram tetkiki için bölge tüberküloz laboratuvarına gönderilmelidir.
 
-g-Yaka bulande en önenli yöntem tuberkulozun sehptonlera kon sunde bilgili vo uyanık olmaktar. vunkü besilifer tuberkuloz vukclar:
+7-Verem Savaşının amacı, tüberküloz basilinden arındırılmış bir ortam yaratmaktır. İnfeksiyonun yayılması açısından basil müsbetliliğinin önemi vardır. Direkt mikroskopide müsbet hastaların ev içi temaslılarında da bulaşkanlık %20 civarında, arkadaşlık şeklindeki yakın ilişkilerde %3,7 ve iş arkadaşlığında %0,3 oranında saptanmıştır. Yani direkt yayma belgesinde basil müsbet olan bir hasta ile aynı çatı altında yaşayan kişilerin (aile içi temaslılarının) hastalığı yakalama riski, hastanın yakın arkadaşları ve akrabalarına göre 5 misli, iş arkadaşlarına göre 50-60 misli fazladır. (TABLO I) Bu oran göstermektedir ki vaka bulunduğunda özellikle hastaların ev içi yakın temaslılarının kontrolü önemlidir. Sadece kültür müsbet hastalarda bulaştırıcılık, direkt mikroskopide müsbet hastalara oranla pek önemli değildir. Genel olarak bulunan her vaka için en az 4-8 temaslı muayenesi yapılmasına özen gösterilerek, hastanın bütün temaslılarının isim ve adreslerinin hasta dosyasında bulunması; hasta temaslılarının 3-6 ayda bir kontrol edilmeleri sağlanmalıdır.
 
-_ez bir semptonu vardır, Okeuruk, Tuberkulozlu hastalar: % 85-90 nin cn yakınmalerı orasında % 70 oranındudır. 15 güncen daha uzun suredir di
+8-Tüberkülozda “VAKA” terimi genellikle tüberküloz basillerini çevreye yayarak salgınlara kolaylıkla enfeksiyonu bulaştıran hastalar olarak tanımlanır. Bu nedenle vaka bulma çalışmalarının özellikle indeks vakaya (direkt balgam yayma müsbet bulunan vakalar) yönelik olmalıdır.
 
-rür,kon ve banlı bal!ım tukurmo, özellikle asçım, yesan giderek artan
+9-Vaka bulmada en önemli yöntem tüberkülozun semptomlarını bilmek ve uyanık olmaktır. Çünkü basilifer tüberküloz vakalarının %85-90'ının en az bir semptomu vardır. Öksürük, tüberkülozlu hastaların yakınmaları arasında %70 oranındadır. 15 günden daha uzun süren öksürük, kanlı balgam tükürme, özellikle akşamları yükselen ateş, kilo kaybı, iştahsızlık şikâyetleri belirten hastalara göğüs filmi çekilerek, direkt balgam muayenesi ve tüberkülin testi yapılmalı, vaka bulunmalıdır.
 
-ateg yuksclncsi ve recoye dobru terleme ile uten dugmeai, cölus agrıs
+10-Dispanserlerde direkt mikroskopik muayeneye önem verilerek, ilkinde yapılan ferdi muayene sayısının en az 1/3'ü kadar direkt mikroskopi muayene yapılmasına çalışılmalıdır. Nitekim TABLO 3'de yıllara göre dispanserlerde yapılan bakteriyolojik tetkiklerin radyolojik tetkiklere oranla çok düşük oranda kaldığı ve dispanserlerde teşhislerin bakteriyolojik tanıya göre değil de çoğunlukla radyolojik tanıya dayalı olarak yapıldığı görülmektedir.
 
-zuyıflama, iptahorzlık pikryetleri bolirten hietalera cbüds filui gel
+11-Tüberkülozdan korunmaya önem verilmelidir. Taze infeksiyon almış olanların ilk 5 yılı içinde %20,5 oranında hastalık geliştiğinden bu grupta koruyucu tedavi uygulamaları zorunludur. Aşısız bireylerden tüberkülin reaksiyonu müsbet dönenlerin yakın çevreleri taranarak, kaynak vaka ile temasta bulunmuş olması muhtemel olanlar tespit edilmelidir. Teorik olarak, ay içinde tüberkülin reaksiyonu negatif her yeni hastaya karşılık en az 1-2 kişinin de ilaca başlanması gerekmektedir. Özellikle basil müsbet ve kaviteli vakaların çevrelerinde ilâçla korunması gereken en az 1-2 hasta bulunabilir. Bu konuda gereken çaba gösterilmelidir. Nitekim TABLO 5'de görüldüğü üzere dispanserlerde yapılan temaslı muayenelerinin yapılması gerekenin 1/2 veya daha az olduğu ve dispanserlerimizde bu işe gereken önemin verilmediği görülmektedir.
 
-derck, direkt bolcam muayeneni ve tüberkulin tepti yapılalı,vake bu
+12-Hastalar akıbeti meçhule ayrılırken, dosyaların iyice tetkik edilerek, hastadan 2-3 adres alınıp alınmadığı, bu adreslere gidilip gidilmediği incelenmeli, hastanın mümkün olduğu kadar dispansere dönmesi sağlanmalıdır.
 
-anan namten orn hy ye tot!e tam yerile
+13-Ambulatuvar tedavide işbirliği yapamayacağı belirlenen hastaların bir [?] belki menfiye dönünceye kadar yataklı tedavi kurumlarında tedavisi yoluna gidilmelidir.
 
-### 18 = 350
+14-Konu hastaların kendileri kadar halk sağlığını da ilgilendirdiğinden bütün gayretlere rağmen işbirliği sağlanamayan hastalar hakkında Umumi Hıfzıssıhha Kanununun ilgili maddeleri uyarınca yasal yollardan faydalanılmalıdır.
 
-10-Dispanserlerde direkt mikroskopik mucyeneye önem verilerek, i/ ipinde yapılan ferûi mucyene sayıcinın en ez 1/3'U kadar direkt mikkepi: nucycne yapılmasına calıpılnalıdır, Pkteki TABLO J'de yılları . vu :spanscrlerde yepılan bakteriyolojik tetkiklerin radiolojik tet-
+15-Diğer sağlık kuruluşları ile de işbirliği yapılarak, Veremden korunmayı BCG aşısı uygulamaları, daha önce gönderilen talimatlara uygun olarak yaygınlaştırılmalı, aşı talimatları aşı ocaklarında her an bulunabilecek şekilde el altında bulundurulmalıdır.
 
---cre pranla cok dușük oranda kaldığı ve dispanserlerãe teghiolerin : divriolojır tanye göre degıl de coğunlukla radiolojik tanıya dayalı rar yapilaña görülmekteâir,
+Sonuç olarak, Veremi kontrol altında tutmada dispanserlere büyük görev düşmektedir. Yukarıda 15 madde halinde belirtilen hususlarda gereken titizliğin gösterilmesini önemle rica ederim.
 
-L-LEsLa Korynara oncm verLeLiGir. taze enfekoıyon alnıg olancrés ilk 5 yir icinde % 20,5 orenında hastalık relig11ánden bu erupte mr vuco tedavi vyculanmceı corunludur, Aısız bireylerden tuberkulin : rei rucbete dön penlerin yakın çevreleri tarantrak, kaynak veke ile ta-
+ADANA
 
-enfeiycn olang olenlar tespit edilmelidir. Teorik olerak,ay açinde n turire alınen her yeni hastaya kargılık en us 2-2 kişinin de ilaçla
+Dr. Adil OLCAY
+Müsteşar vekili
 
-inaro ninacl goretir. Ozellikle basil nusbet ve kaviteli vakale-
+### TABLO 1
 
-: tes:laler aresınde 1lagla korummac1 cereten en a2 J-2 hacte, bulu-
+[?]
 
-SE:. Vu Fonudo sereten çaba gosterilmelidir. Ekteki TADLO S'de
+| Enfeksiyon kaynağının bakteriyolojik durumu | Direkt yayma (+) | Kültür (+) | Kültür (-) |
+|---|---:|---:|---:|
+| Hasta ile aynı çatı altında yaşayan hane halkı | 20,2% | 1,0% | 0,9% |
+| Yakın akraba ve arkadaşları | 3,7% | 0 | 0,5% |
+| İş yerindeki arkadaşları | 0,3% | 0 | 0 |
 
-im: căre dispanserlerde yipılon tencclı mvoyenelorinin yapılness
+### YILLARA GÖRE DİSPANSERLERDE İLACI DÜZENLİ VERİLEN HASTALARIN YÜZDELERİ - TABLO 2
 
-heri2 1/2 veya dche azı oldulu ve dispanserleriwizde bu 1ge sereker
+Dikey eksen: %; 0, 10, 20, 30, 40, 50, 60, 70. Yatay eksen: 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985.
 
-din verilmedid1 cozulmektedir.
+### YILLARA GÖRE DİSPANSERLERİMİZDE KAÇAK KONTROLE, AKIBETİ MEÇHULE VE İŞBİRLİĞİ YAPMAYANLARA AYRILANLAR İLE VEFAT EDENLER - TABLO 4
 
-r-nastclar akibeti meçhule ayrılarsen,dosyalürı iyice tetkik llorci testodan 2-3 edree alanıp alınnadaja, bu adreslero Eldilip gigelgi incelenmeli, hastenın nümkün oldugu kuder disponsere dömesi
+Dikey eksen: kişi; 0, 4.000, 8.000, 12.000, 16.000, 20.000, 24.000. Yatay eksen yılları: 1980, 1981, 1982, 1983, 1984, 1985.
 
-Ienegl101r.
+- Kaçak kontrol
+- İşbirliği yapmayan ve akıbeti meçhul
+- Vefat
 
-ab-Ambulatuvar tedavide ipbirlili yapanuyacakı belirlenen hasta- . rın hir claszsa balğan menfiye dönünceye tadar yataklı todavi kurun- . rande todevisi yoluna gidilmelidir.
+### YILLARA GÖRE DİSPANSERLERDE YAPILAN TEMASLI MUAYENELER VE KORUNMA AŞILAMALARI - TABLO 5
 
-14-ionu hogtaların kendileri kadar halk saglığını ủa ilgilendirtlinden bütün goyretlere rešuen igbirliği soglanamayan hastalar hak- "‚Ma Ununi Hafzassıhhe Kanununun ilgili meddeleri uyarınca yasal yol«' .ricr faydelanılmalıû1r.
+Grafik lejandı: Bulunan yeni vaka; yapılması gereken temaslı muayenesi; yapılan temaslı muayenesi; [?]; [?].
 
-15-Diler saflık kuruluslerı ile de 1ebirlici yapılerak, Verene mrfl toruyuvu BeG agısı uygulanaları, dcha once gönderilen talimatlara Aro plarek yaygınlaptırılmolı agı talimatlarl,aşı odesında her an .Habilecek şekilde el altında bulundurulmalıdiri
+T.C.
+SAĞLIK ve SOSYAL YARDIM BAKANLIĞI
+Verem Savaşı Daire Başkanlığı
 
-Sonuç olarak, Vereni kontrol altında tutuada disponserlere buyük r rey dupuoktedir. Yukarda 15 madde halinde belirtilen hususlerda gere-
+Sayı: VS.Disp.Şb.530n/1482[?]
+Konu: Bakteriyolojik
+      tetkikin önemi
 
-titizliğin gosterilmesini önemle rica ederim.
+ANKARA
+16.Aralık.1986
 
-### 3 ADINA
+.................. VALİLİĞİ
 
-Dr.Adil OLCAY
+Sağlık ve Sosyal Yardım Müdürlüklerine,
 
-¡.Uateçar vek121
+Verem Savaşı Dispanserlerinden gelen bilgilerin değerlendirilmesi sonucunda; Dispanserlerimizde her müracaat edene yaygın olarak mikrofilm veya standart film çekilmekte olduğu tüberküloz tanısının daha çok radyolojiye dayalı olarak konulduğu anlaşılmıştır. Radyoloji, akciğerlerde herhangi bir lezyon bulunup bulunmadığını göstermesi yönünden oldukça hassas olan fakat tüberkülozu diğer hastalıklardan ayırdetme veya hastalığın aktivitesine karar verme açısından bir fikir vermeyen bir tekniktir. Bu nedenle sadece radyolojiye dayalı tanılarda gerek uzmanlar, gerekse radyologlar büyük ölçüde hata yapabilmektedirler.
 
-elnI:
+Dünya Sağlık Örgütü Eksperler Komitesi raporunda tüberküloz vakasının, balgamında basil görülen hasta olarak tanımlamakta, balgamında basil görülmeyen, klinik ve radyolojik bulguları tüberküloz olan vakaları tüberküloz olarak değil, tüberküloz şüpheli olan vakalar olarak bildirmektedir.
 
-18/22 2% Enfeksiyon kayna/ının Direkt yayaı Kültur(+)
+Değişik ülkelerde yapılan araştırmalarla film okuma yanılgılarının % 25-39 gibi yüksek orana çıktığı, mikroskopistler arasında ise en fazla % 18 oranında [?] olduğu görülmüştür. Bu oran film okuyucuları arasındaki en düşük uyum oranından daha da düşüktür.
 
-kịztyr bakteriyolojık durumı
+Silezya'nın [?] bir çalışmasında, kültürle müsbet 535 hastanın 500'ünün (% 93,5) [?] mikroskopik muayeneyle tesbit etmenin mümkün olduğu bildirilmiştir. Buradan iki mikroskopik muayene hemen hemen bir kültür muayenesine eşittir sonucu çıkarılabilir.
 
-20,25 Hosta ile aynı pata altanda yagayan hane balka
+Bir başka çalışmada da, mikroskopiyle müsbet tüm olguların % 65'inin, kültürle müsbet tüm olguların da % 84'ünün iki muayenede tesbit edildikleri gösterilmiştir.
 
-7,0% 0.9% Yakan akraba
+Ülke şartları gözönünde bulundurularak, gerek yanılma payının daha düşük oluşu, gerekse Verem Savaşında öncelik verilmesi gereken basil müsbet vakaların tesbitine elvermesi nedeniyle, dispanser çalışmalarında mikroskopik muayeneye radyolojik muayeneden daha fazla önem verilmesi gerekmektedir. Zira radyolojik tetkiklerin güvenilirliği çok yüksek değildir. Bu konuda Japonya'da 1978'de yapılan bir çalışmanın sonuçları aşağıda verilmiştir.
 
-ve Arkadeglarl
+| Muayene Şekilleri | Tüberküloğun bütün şekilleri: muayene edilen kişi sayısı | % | Bulaştırıcı Pulmoner Tb.: hasta sayısı | % |
+|---|---:|---:|---:|---:|
+| [?] | 8360 | 100,0 | 1689 | 100,0 |
+| Mikrofilm muayenesi | 1336 | 16,0 | 200 | 12,3 |
+| [?] | 125 | 1,5 | 12 | 0,7 |
+| [?] | 475 | 5,7 | 89 | 5,3 |
+| Bir yerde ikamet edenler | 611 | 7,3 | 90 | 5,8 |
+| [?] | 124 | 1,5 | 9 | 0,5 |
+| Sağlık kontrolü | 221 | 2,5 | 30 | 1,8 |
+| [?] | 227 | 2,7 | 11 | 0,7 |
+| Semptomlular | 5915 | 70,7 | 1321 | 78,2 |
+| Diğerleri | 86 | 1,1 | 13 | 0,8 |
+| Bilinmeyen | 501 | 6,9 | 105 | 6,2 |
 
-3.7%
+Tablo 1 de görüldüğü gibi, mikrofilm taramaları ile tüberkülozun tüm şekillerinin sadece % 16 sı, [?] tüberküloz vakalarının ise sadece % 12,3 ü teşhis edilebilmiştir. Semptomluların muayenesi ile ise tüm tüberküloz vakalarının % 70,7 si, [?] tüberküloz vakalarının ise % 78,2 si teşhis edilebilmiştir. Yurdumuzda yapılan bir araştırmada da 13140 kişinin radyolojik incelemesinde 330 kişide (%2,5) şüpheli görüntüler saptanmış, bunun ancak 11 inde (%0,08) hastalık tanısı konulmuştur. Oysa ki kendiliğinden müracaat eden [pasif yöntemle vaka bulma] 529 kişinin incelenmesinde 233'ünün (%44) radyogramında patoloji saptanmış ve 71'inde (%13,4) tüberküloz bulunmuştur.
 
-0.5% Ie yerindeki arkodaglar;
+Semptomlulardaki muayenesinin nisbi vaka bulmada çok daha etkin ucuz olduğu 1984-1985 yılları arasında Verem Savaş Dispanserlerimizde yapılan ve 3 sayfalı tabloda gösterilen çalışmanın sonuçlarından da anlaşılabilir. Sonuçlara göre semptomluların muayenesi ile vaka bulma oranı % 69,6 iken, semptomlular dışında müracaat edenlerin mikrofilm tetkikleri sonucunda vaka bulma oranı % 11,4 de kalmaktadır.
 
-063%
+---
 
-### YILLARA GÖRE DISPANSERLERDE İLACI DÜZENLİ VERİLEN MASTALARIN YÜZDELERİ & TABLO 2 -
+T.C.
+SAĞLIK BAKANLIĞI
+Verem Savaşı Daire Başkanlığı
 
-]«zó+] F dyo
+DİSPANSERCE DOLDURULUP DAİRE BAŞKANLIĞINA
+GÖNDERİLECEK FORM
 
-### VILLARA GÖRE DISPANSERLERIMIZOE MAÇSIZ KONTROLE AKİBETİ MEÇHULE VE İŞBiRLIĞI KAPHAYANLARA AYRILANLAR ÎLE VEFAT EDENLER
+1- Dispanserinizde bakteriyolojik tetkik yöntemlerinden hangileri uygulanıyor?
 
-= TABLO f/E 80.000 (açsız kontrol ipbirliği yapmayan va Akibeti maçhul Vefat
+□ A- Sadece direkt mikroskopi
+□ B- Direkt yayma ve teksif+kültür
+□ C- Direkt veya teksif
+□ D- Teksif ve kültür
+□ E- Balgam muayenesi yapılmıyor.
 
-### ODAR DISPANSSALEnDE SAPILAN TORUMATA ALINARLAI
+II- Direkt yayma balgam muayenesi yapılıyorsa:
 
-F.0s
+A- 1985 yılında OCAK-HAZİRAN (6 aylık) aylarında toplam kaç lama bakıldı?
 
-### CALIK VO SOSYAL YARDIL DAKANLIÖI Veren Savaga Daire Bagkenlij ANKARA
+[________________]
 
-F1: VS.D18p.8b.5300/1482 16.Aralik.1986
+B- Bölge Tüberküloz Laboratuvarına gönderilen materyal sayısı aylık (son 3 ay dikkate alınacak: MAYIS-HAZİRAN-TEMMUZ ve yıllık (1985 yılına ait) ne kadardır?
 
-nu: Bakter1Folof1k
+Aylık: [________________]
+Yıllık: [________________]
 
-tetkikin öneuf
+III- Balgam muayenesi kim tarafından yapılıyor?
 
-### ..VALILIUI
+A- Laboratuvar teknisyeni-kadrolu □
+                         -kurssuz □
+B- Laboratuvar teknisyeni yardımcısı-kadrolu □
+   (hizmetli sınıfı)                       -kurssuz □
 
-Sa'lik ve Sosyel Yerdan Musur ucune:
+IV- Mikroskop varsa cinsi: - Monoküler □
+                           - binoküler □
 
-Terco Safagı Dispanscrlerinden gelen bilgilerin degerlendirilmesi sonucun- :,Dispanserlerizizde her muračaat edene yaygın olarak mikrofilm veya etandart ' il: çelilmel:te olduñu ve tuberkuloz tanisanan daha gok radyolofike dayali olarak trıldığl enlarilmiştır,Radyoloji,akoljexlerde herbangi bir lezyon bulunup bulunciltına pöstermesi yöninden oldurga hasans olan fakat tuberkulozu diger hasta- Hicraen ayirdetme veya hostalığın ektivitesine karar verme agreinden hiçde spesiı: ‹imayeh bir telniktir. Bu nedenle sadece radyolojiye dayali tanilarda gerek iperhuloz 'uzmanları,çozekee radyologlar buyurblgudo hata yapabilmektedirler. v'aca Dünya Sajlık Orgltu Eksperler Komitesi raporunda Tuberkuloz vakasanı,bal- :cında bacil girulen hrete olarak tearmlamakta balgenınde basil görulmeyen, klia1- i ve rcirolcjLo1 tuberküloza uyan vakaları tuberkuloz olarak değil, tuberkuloz Johec1 ›les 7calor olorak bildirmektedir, :
+V- Direkt yayma balgam muayenesi yapılmıyorsa nedenleri:
 
-Dešigil: Ulkelerde yapilan erastırmalarle film oluma yenilgilarının & 25-39 1b1 Tusek orania oldu u zikroskopietler arsaında ise en fazla % 18 oranında
+□ A- Mikroskop yok
+□ B- Bakteriyoloji laboratuvarı yok
+□ C- Balgam muayenesi yapmak için gerekli malzeme yok
+□ D- Balgam tetkikinin tanıdaki yeri önemli değil
+□ E- Balgam muayenesini isteyecek doktor yok.
+□ F- Diğer nedenler
 
--cruzluk oléuh görül-lgtür. Du eran f1ln okuyuoularz eraeındaki on diguk uyumcitlii oranindan daha de dugU'itUr. 1 9, 5 805 - SUvepuria VaLila: bir galipmada, kUlturle muebet 535 hastanın 500'Uali . (S 93,5) ikizer pikroskpit muayeneyle tesbit etmenin niltin olduju bildirilmie- †i". Buradan Iki mikroskopik mugyene hemen hemen bir kultir muayenesine egittir. conucu çatarilabilIre
+---
 
-Bir boşke galıpkada da, mikroskopiylo muebet tim olguların & 05'inin, Miltirlo müebot thh olgilern de &'84'Wnün 1ki muayenede tesbit edildikleri gösi0rilmigtir.
+T.C.
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
+Verem Savaşı Daire Başkanlığı
 
-Ulte gartları gö-salnde bulundurularak, gerek yanılma payının daha duguk oluçu, gerıkse Teren Sovagındo öncelik verilmesi gereken basil müebet vakaların tespitinc elicrmesi nedoniyle, dispanser golagmalarında mikroskopik muayenere: radvoioșil: nuayeneden dahe fazla önem verilmesi gerekmektedireZira radyolojik tetkik- :crin gürcnilirl1ğı gok Jülkeek degildir Bu konuda Japonys'da 2976 de ув bir calışmenın sonuçlara agařıda verilmigtir.
+SAYI: V.S.Saha Hzm.Şb.Md.5320
+KONU: Mikrofilm Taramaları.
 
-. 052 02 -
+ANKARA
+12 Ocak 1987
 
-сиреткил0%иг DUTUD GaU1I1fer PuluoDer IL'
+İllerde bulunan muhtelif fabrika ve işyerlerinden Başbakanlığa ve Toplu İş Sözleşmeleri, 1475 sayılı İş Kanunu ile İşçi Sağlığı ve İş Güvenliği Tüzükleri gereğince genel mikrofilm taraması yapılması hususunda talepler gelmekte;
 
-### Qck:iller:
+Bugün Dünya'da ve Ülkemizde yapılan araştırmalar genel mikrofilm taramalarının verem hastalığının erken teşhisinde hiçbir bir katkısı olmayan, verimsiz ve pahalı bir metod olduğunu göstermiştir. Verem belirtileri olanlarda toplum taramalarına göre daha fazla etkili (direkt balgam muayenesi, teksif, kültür, akciğer grafisi ve akciğer tomografisi vb.) yapılması çok daha etkili, verimli ve ucuz bir yoldur. Bakanlığımızda da aynı görüştedir.
 
-Luayene Şekilleri
+Bundan böyle genel mikrofilm taraması yerine veremin erken teşhisinde belirtilen metodlar kullanılacaktır.
 
-### Luayene eohlen
+1- a) Verem belirtileri (15 günden fazla öksürük, balgam çıkarma, kan tükürme, ateş, iştahsızlık, zayıflama, yan ağrısı, halsizlik) olanlar.
+   b) Verem hastalarıyla teması olanlar (aynı evde veremli) olanlar, en yakın verem savaşı dispanserine sevk edilerek gerekli tetkikler dispanserler tarafından yapılacaktır.
+   c) Ayrıca işyerinde işyeri hekimi tarafından 6 aylık periyodlarla yukarıda belirtilen a ve b şıkları doğrultusunda gerekli sorgulamaları yapılarak bu özelliklere şüpheli bulunanlar dispanserlere sevk edileceklerdir.
+2- İlk işe girenlere en yakın Verem Savaşı Dispanserinde, mikrofilme çekilir.
+3- Risk Grupları denilen; Cezaevi, Huzurevi, Genel ev, Kreş, Yurt, Sağlık Kurumları, Askeri birlik ve toplu işyerlerinde peryodik olarak yılda bir defa; Gezici Verem Tarama Ekipleri tarafından mikrofilm çalışması yapılacaktır.
+4- Gezici Röntgen Verem Tarama Ekipleri yukarıdaki risk gruplarını ilave Dispanser ve Gözde(?) esnaf grupları tarafından bulunan temaslıları ve tüberkülin olanları mikrofilm taraması uygulayacaklardır.
 
-Haste sayza
+İlimizde bulunan 50 [?] [?] işyerlerinden bu esaslar dahilinde [?] başvurularını [?] yapmış, en yakın Verem Savaşı Dispanseri Gezici Röntgen Verem Tarama Ekibi veya BCG Kampanyası Grup Hekimleri ile temas edenleri konusunda ilgililerin uyarılmasını önemle rica ederiz.
 
-### k161 00/181
+BAKAN ADINA
 
-op 1 am 8360 200,0 1688 200,0 ükrofilm nuayenesi oglanı 1336 16,0 200 kulc giri8. 125 De' giras ir yerde ikonet ederler 1 erler1 Eslık controla 30 cacoli torancca 21 emptomlular 1321 70,2 inerleri 88 13 0,8
+DAĞITIM:
+- 67 İl Valiliği
+- Verem Savaşı Dispanserleri
+- Gezici Röntgen Verem Tarama Ekibi Başkanlıkları
+- BCG Kampanyası Grup Başkanlıkları
 
-105 6,2 ilinmeyen
+Dr. Abdurrahman [?]
+Müsteşar Yardımcısı
 
-Tablo 1 de corulduju pibi, mikrofiln tarznalara ile tuberkulocun tun gekillerinin sadece : 16 gı bocil1fer akciger tüberkalozu vakalaridpt2r ova da 13240 P262nan reayolo)1h 1ncolezesinde 330 h1g1do (2,5) melt gorüntuler saptanuig, bunun pucck 11 inac(%0,08J hastalık tanzalrn- ฿12r. Оуви h1 kencil1[1nden mürnocat cûen(padıf yontemle vaka bulne)525 ›inin incclennosirůe 233'unün(244) raůyogrznında patoloji saptennę ve 'inde (213,4) tuberküloz bulunugtur.
+---
 
-Scuptonlu(ferdi) mucyencsioin otti1 vaka bulmada gok daba etkin ucuz olduku 1984-1985 yılları prusınco verea sovng dispanserleridizde ›lan ve 3 sayfaduki tabloda costerilcn saligaolcran sonuglcrindan du logılabiliz du soncarra göre scnptodlulcrın nuaycneni dle vaka bulua deri onu nen Fen buna dani taartan wikiof tet-
+T.C.
+SAĞLIK BAKANLIĞI
+Verem Savaşı Daire Başkanlığı
 
-### vak'a bulua orana & 11, 4 de bolmaltour.
+Sayı: V/S/Sek.Hzm.Şb/5320
+Konu: BCG Aşılama Çalışmaları
 
-.8 .0
+ANKARA
+[?]/1989
 
-### DİSPAISERCE DOLDUROLUP DAI BAŞKAILIĞIHA GÜNDERILSCEK FORU
+.................. VALİLİĞİ
+(Sağlık Müdürlüğü)
 
-1- Dispanserinizdo bakteriyolojik tatkik yöntenlerinden hangileri uygulanıror?
+Ülkemizde kapsamlı BCG aşısı uygulamaları 1953 yılında kampanya biçiminde başlatılmış ve kısa sürede nüfusun % 65'i bağışık hale getirilerek tüberkülozun yaygınlığı hızla düşürülmüştür. Tek bir BCG aşısının kişiyi yaşamı boyunca veremden koruyacağının anlaşıldığı yıllarda, temel sağlık hizmeti veren kuruluşlarımız ve sağlık personelinin yetersizlikleri, yıllarca BCG aşılamalarının kampanya biçiminde sürdürülmesine neden olmuştur. Zamanla BCG aşısının maksimal koruyuculuk süresinin 5 yıl olduğunun anlaşılması, 20 yaşına kadar 5 yıl aralıklarla 4 kez olmak üzere her yıl 5 milyondan fazla çocuk ve gencin aşılanması gerektiği, sağlık kuruluşları ve personelinin nitelik ve nicelik yönünden geliştirilmesi, aşılama çalışmalarının sağlık kuruluşlarına entegrasyonu zorunluluğunu doğurmuştur.
 
-jA- Sadece direkt mikroskopi _E- Direkt Jayne ve tekeifkültür
+Bu nedenle BCG kampanyası aşı grupları ve verem savaşı dispanserleri yanında sağlık ocakları, ACSAP merkezleri ve doğum evlerinin bünyesinde görev almaları 1981 yılında kararlaştırılmıştır. Her sağlık kuruluşundan en az 2 sağlık personelinin uygulamalı BCG ve PPD kursuna alınarak ve konuyla ilgili pek çok genelge yayınlanarak bu amaca gerçekleştirilmesine çalışılmış ancak son 8 yıldır tüm çabalara karşın Verem Savaş Dairesine bağlı olanlar dışındaki sağlık kuruluşlarının BCG aşılamalarındaki payı ortalama % 10 dolayında kalmıştır.
 
--C Direkt voye tekelt TI TokoLI Te KUBUr D E- Balgam muayeneni yapılmıyor.
+Her yıl Ülkemizde yapılan verem aşısının 2,5 milyon dozun altında kalması, aşılanması gerekenlerin ancak % 45'ine ulaşıldığını göstermektedir. Oysa etkili bir aşılama hedef nüfusun % 70-80'inin bağışıklanması ile mümkündür. Bu hedefe ulaşmak için tüm önle-
 
-Dire:t yayma balgam muayenesi yapılıyorsa:
+İl kuruluşlarının BCG uygulanmasına tam olarak katılması gerekmektedir. Bunu gerçekleştirmek için 1 Ocak 1990'dan itibaren,
 
-A- 1905 y111nde OCAX- HAZIRAN (6 ayl1i) avlerında toplan Leg lama
+1- Tüm il ve ilçe merkezlerinde BCG aşılaması sağlık ocakları tarafından yapılacaktır.
 
-bak11d17 F
+2- İl ve ilçe merkezlerindeki BCG aşılamalarına BCG aşı grupları ve verem savaş dispanserleri kesinlikle katılmayacaktır.
 
-B- Bölce Tüberküloz Laboratuvarına gönderilen matoryel sayıaı aylı/: (son 3 ay
+3- İl ve ilçe merkezlerindeki aşılama için gerekli aşı, enjektör vb. ihtiyaçlar Sağlık Müdürlükleri tarafından diğer illerde olduğu gibi Temel Sağlık Hizmetleri Genel Müdürlüğünden temin edilerek ilgili kuruluşlara dağıtılacaktır. Aşılama programları da sağlık müdürlüklerinin koordinasyon ve denetiminde olacaktır.
 
-dil:ate alinacaksAYIS-HAZIRAN-TENUZ vo y1112k (1905 j1line ait) no
+4- Sağlık müdürlükleri, aşılamada görev alacak personelin eğitimini verem savaş dispanserlerinde ve BCG aşı gruplarında gerçekleştirecektir.
 
-kadordir?
+5- BCG aşı grupları, verem savaş dispanserleri ile işbirliği yaparak sadece köylerde aşılama yapacaktır. Bu kuruluşların aşılama için gerekli aşı, enjektör vb. ihtiyaçları eskiden olduğu gibi Verem Savaş Daire Başkanlığı tarafından karşılanacaktır.
 
-Aº11k:
+6- Sağlık ocaklarının BCG aşılama çalışmaları Form 013 ile diğer aşılar ile birlikte Temel Sağlık Hizmetleri Genel Müdürlüğüne yollanacak, BCG aşı grupları ve verem savaş dispanserlerinin uygulamaları ise eskiden olduğu gibi doğrudan Verem Savaş Daire Başkanlığına bildirilecektir.
 
-Yillak:
+7- BCG aşılamasına ilişkin gönderilen tüm genelge ve emirler yürürlükten kaldırılmıştır.
 
-III- Balgem muayenori kim tarafından yapılıyor?
+8- Konuyla ilgili teklif ayrıntısı önümüzdeki günlerde gönderilecektir.
 
-A- Leboratuvar tek:nisyeni:-Kurolu
+Bilginizi ve ilgililere emirlerinizi rica ederim.
 
--turesuz L
+DAİMİ GENELGE
 
-B Laboratuvar-teknisyoni yardımalnı:-Kurelu
+BAKAN ADINA
 
-(hiemotl1 Banarx)
+DAĞITIM
 
-### « KUBDUE
+Gereği
+1. 71 İl Valiliği
+2. BCG Grup Başkanlıkları
 
-Ti- Mikroskop vursa cinsi: - Monokülor
+Dr. Ergun ÖZDEMİR
+Müsteşar
 
-- binoküler :- Dire!t yayma balgam mayanesi yapılmıyorsa nodenleri:
+---
 
--h- :ikroskop yo):
+T.C. SAĞLIK BAKANLIĞI
+Verem Savaşı Daire Başkanlığı
 
--» Belteriyoloji' laborant2 yok
+Sayı: Verem.Sb.Md.Sb/5320/1234
+Konu: BCG Aşılama Çalışmaları
+ANKARA.
 
--'C delcan muayeneoi rapmal: 1pin gorolli malcone yok . D Bılgım tetkikinin tanıdaki yori öhomli doğil
+ANKARA
+27.12.1989
 
--E Salcan muayenesini inteyecel: doktor j'oke T- Dëer nedenler
+............. VALİLİĞİ
+(Sağlık Müdürlüğü)
 
-### T.C. SAGLIK VE SOSYAL YANIN BAKANLIĞI Veren Savaşa Duire Daşkaulığı ATKARA
+İlgi: 13 Kasım 1989 tarih, Verem Savaş Daire Başkanlığı Saha Hıfz.Sb/5320-1010 sayılı genelge.
 
-12 DCok 198} SAYI: V.S.Saha Hzm.@b.1d.5320 KON; Likrof1lo Tarasaler.
+İlgi'de kayıtlı Genelgeyle BCG aşısının il ve ilçe merkezlerinde Sağlık Ocakları, köylerde ise Verem Savaş Dispanserleri ve BCG aşı grupları tarafından uygulanacağı bildirilmişti.
 
-Ilinizde bulunaa muhtelif fabrika ve 1eyerlerinder BagLanligauze Tople Iş Sözlegueleri, 1475 sayılı 10 fanunu ile Iggì Veflı8a ve 1p Quvenliei Tuzd: 1leri bürülcrek Genel microflle turenstı yapılngeı hunusunda talepler gelmek:
+BCG aşı uygulamaları aşağıda verilen açıklamalar doğrultusunda yürütülecektir;
 
-Bugun Dünya'da ve Ülkesizle yapılan araptırnular senel mikrofila tarari rinın verem büstolabonan erken tephisizde bigbir önemi olmayan, verlaciz ve I pahala bir metod oldugunu göstermiştir. Veres belirtini olanlarle temaslılara ileri tellik (direkt bulguu mayencui, tektif, kültur, ukc1žer Erafie1 ve ukclče tonoprotici ve blyle) ‚yapilausı çok caba etk1l1, veriali ve ucuž bir yoldur. bagkanlıgızz'du aynı gorüpdedir.
+1- Tüm yerleşim merkezlerinde BCG aşısı 5-6 yıl aralıklarla erginlik çağına kadar her çocuğa 4 kez uygulanacaktır.
 
-Dundon böyle senel mikrofiln tarimaca yerine verenin erken teghiuinde s Exda belirtilen' wctodlar kullanalacaktar.
+Aşının yapılması gereken yaşlar ve dönemler:
 
-7- o) Voren belirtileri (15 glinden fazla öksUrük, balgam çalara, kan tUru gece terlemosi, atec,161abo2z21k,205flusa, gan ažrick f1kayot1) olanlar.
+1. BCG için 0 yaş
+2. "     " 6-7 " (ilkokul 1. sınıf)
+3. "     " 11-12 " (ilkokul 5. sınıf)
+4. "     " 17-18 " (lise 3. sınıf) olarak belirlenmiştir.
 
-b)Veron hastalurzyln temacla(ailecinde vercal1) olanlar, eu yukın vere. savaps diopanserine zevk edilerek gerokli tetkikler diupanserleriadede Ucrete. сіати упріосок.
+Herhangi bir nedenle yukarıda verilen yaşlarda aşının yapılması mümkün olamayanlarda, bu yaşı izleyen yıllarda mutlaka aşı yapılması gerekir.
 
-c) yrncu lgyerindo igyeri hekiei tarafından. 6 sylak peryodlarla Jur belirtilen e ve b faklari doğrultumuoda gerekli sorapturnular yapilarak bu eu , Cah121nde giplel1 vulvanlar Diapansere sevk ed1lecoktir.
+2- BCG aşılamasında en iyi yöntem ilk veya revaksinasyon için Tüberkülin PPD yapılması ve PPD sonucu değerlendirildikten sonra aşılanmasıdır. Ancak uygulamaya hız kazandırmak ve dağıtımı sağlamak amacıyla EK: 1'deki Tablo 1'e göre aşılama yapılacaktır.
 
-2- 11: 100 Cironlire eu yukta Veres buvay) Diupanotriade, bikratilo (UL1. tır. 3 Hisk Grupları denilen; Cozuevi, Huzurevi, Genelevi, Kreg, Yurt, Suflik Iu. luglura, Askeri Birlıi ve Tozlu igyerlerinde peryodie olarak yıldu birdefa Gezi Montgên Veren Tarece Expleri torafırdan cikrofilo çolsponsi yapilacaktir.
+3- PPD kontrolü yapılanların PPD sonuçlarının değerlendirilmesinde ve sonuçta yapılacak işlemlerin belirlenmesinde EK: 1'deki Tablo 2 kullanılacaktır.
 
-4- Gezíci töniger Verea Torame Enpleri yukurdad rink gruplårınu 1lûve: Dispanser vo Guzici așı preplara tarafından bulunan temaslilara ve tuberkulin olanlara mikrofilu taranasi nygulayacnilardir.
+4- Aşı dozu 0-1 yaşın altında yarım doz (0.05 ml), 1 yaşın üstünde tam doz (0.1 ml) dür.
 
-Tinizde bulunan 50 kigi Unerinte fesi calastaran igyerlerinin bil ecasle dahilindo Crérdan dogruyo inșkorla/reza corncaat etmeyip en ymin Veren Tan Dispanseri Gezici Röntgen Veres Tarasu Et1ti veya BO Киа Grup Buykuula lamyla temasa geçmlori kozucvada 1lcililerin uyarılzacını ónsale rica ederir
+5- BCG aşısı en omuz deltoid kasın üzerine, deri içine yapılır. (DERİ ALTINA KESİNLİKLE YAPILMAZ). PPD testi ise sol ön kolun 2/3 üst, dış kısmına deri içine yapılır. BCG aşısı ve PPD testi için aynı tip 1 ml'lik özel enjektörler kullanılır.
 
-### DAKAN ADINA DACITIH
+6- BCG aşısı,
+- Tüberküloz geçirmekte olanlara
+- İmmün yetmezliği olanlara
+- Kortizon ve immünosupresif kullananlara
+- Ağır malnütrisyonlu çocuklara
+- Kızamık, kızamıkçık gibi ateşli ve döküntülü hastalık geçirmekte olanlara
+- Karaciğer, böbrek hastalığı gibi ağır hastalığı olanlara yapılmamalıdır.
 
--67 11 Val12181
+7- PPD testinin değerlendirilmesi 72 saat sonra endürasyon çapının ölçülmesi ile yapılır (kızarıklık önemli değildir).
 
-- Veren Suvaga Dispanorderi De .Abdurrahman KOÇH
+8- BCG aşısı sonrası komplikasyon görülenler mutlaka Verem Savaş Dispanserine sevk edilmeli ve izlenmelidir.
 
--Gez1c1 Kontron Veren Taraso fidp Juqkanlallurz Müsteger Yarduucie!
+9- Ülkemizde uygulanan BCG aşısı esas olarak Bakanlığımız Refik Saydam Hıfzıssıhha Merkezi Başkanlığında üretilmekte olup, bu aşıya ait prospektüs EK 2'de verilmiştir. Aşı miktarının yetersiz olması nedeniyle yurtdışından aşı ithal edildiğinde ithal aşıya ait prospektüs ayrıca gönderilecektir.
 
--UCG Kopyasa Grup lopknlaar
+Gereğini ve ilgililere emirlerinizi rica ederim.
 
-### ВАЙІК ВАКАНТАІ.
+DAİMİ GENELGE
 
-Veren Saraşa Daire Bagkanlıži
+BAKAN ADINA
 
-### ANKARA
+EKLER: 1- Tablolar
+       2- Aşı Prospektüsü
 
-Ser=:.Y/S1588s.H1ap.5b/5320
+DAĞITIM
 
-/1989 Ko:1: .304. Ag21ana. Çol1pmalar2
+1- 71 İl Valiliği
+2- BCG Grup Başkanlıkları
 
-Entegrasyonu
+Dr. Ergun ÖZDEMİR
+Müsteşar
 
-•o. VALILIGI
+---
 
-### • (Sagl2k Mudur1ULU)
+Tablo 1
 
-Ulkemlede kapsamle BOG ag1e2 uygulanaler2 1953 Fil1ada kampanya biçiminde, baglatılmig. ve kisa surede nufusun % 65'1 bežıpz hle getirilerek tuberkUlozun yaygınlığı hizla dugürllmilet!r, rok bir BCG agreının kigiyi yapamo boyunca verenden koruvnccřrnn sanildzği yıllarda, temel sažlık hizmeti veren kurulupiSF: ve FeZlk personelinin petereielikleri, yıllarca BOG açılai
+| Yaş Grubu | BCG Skarı | İl ve İlçe Merkezlerinde | Köylerde |
+|---|---|---|---|
+| >1 |  | Direkt | Direkt |
+| 1-5 |  | PPD Kontrolüyle | Direkt |
+| 6-7 | Var | Direkt | Direkt |
+| 6-7 | Yok | PPD Kontrolüyle | Direkt |
+| 11-12 | 2 skarlı | Direkt | Direkt |
+| 11-12 | 0-1 skarlı | PPD kontrolüyle | Direkt |
+| 17-18 | 3 skarlı | Direkt | Direkt |
+| 17-18 | 0-2 skarlı | PPD kontrolüyle | Direkt |
 
-s'ırın kumpna biçiminde nürdurulnesine noden olmuptur. Zamană . , D00 agısınin makeimal koruyuouluk eüresiain 5 yıl olduğunun inln;ılngrı, 20 yaçına kedar 5 Jıl araliklarle 4 kez olmak Uzere her T21 5 milyondan ferla goouk ye genoin agllanmas2 sereli, Boč- lik kurulurlar re personelinin altelik ve nicelik yönunden ge- . Mance:, egılana çelipnalarının eaflik huruluglarina entegrasyenu corapunu dogumștur,
+Tablo 2
 
-Pu nédenle BOG kampanyasi ag1 grupları ve veren savap diapanterleri yanında saglik ovaklari, AÇSAP merkezleri ve dočun evterinir bařıpıklanada görev almaları 1981 pılında kararlaptırılmıę- +1r. Jer onžiik kurulugunden on az 2 sağlık personelinin ygulanak 11 300 re ItD kureuna alinarak ve konuyla 11e1l1 pek gok genelge yarınlanarar bu amag gergekleętirilmeye palışılmıę anoak son 8 yıle dır tun çabalara kargın Verem Savag Dairesine bagla olanlar dıgın- And Aat hunduelarn 100
+| PPD Endurasyon Çapı | Eski BCG Skarı Olmayanlar | Eski BCG Skarı Olanlar |
+|---|---|---|
+| 0-5 mm | Aşılanacak | Aşılanacak |
+| 6-9 mm | Bir ay sonra PPD testi tekrarlanacak, yine 10 mm'den az bulunursa aşılanacak | Aşılanacak |
+| 10-19 mm | Ailesiyle birlikte tetkik edilecek, hasta bulunmazlarsa 0-12 yaşta olanlar İLAÇLA KORUMAYA alınacaktır. | Bir şey yapılmayacaktır. |
+| 20 mm ↑ | Ailesiyle birlikte tetkik edilecek, hasta bulunmazlarsa 0-12 yaşta olanlar İLAÇLA KORUMAYA alınacaktır. |  |
 
-aglamalarindaki payı ortalane % 10 colnyında kelmıptır.
+---
 
-Mer 7ıl Ulkemizde yapılan verem agısının 2,5 milyon dozun altında kelmsi, açılennaaı gerekenlerın ancak % 45'ine ulagıldığım cürtormektedit. Oyee etkil1 bir apilana hedef nulusun & 70-80'1- ":n hažıgiklanmasi 1le mumkUndur. Bu bodefe ulapmak 1ç1n tun au-
+REFİK SAYDAM HIFZISSIHHA MERKEZİ BAŞKANLIĞI
+BCG AŞISI VE TÜBERKÜLİN ÜRETİM ÜNİTESİ
+KURU BCG İÇİN PROSPEKTÜS
+(Yalnız deri içi kullanılır)
 
-025 Lik kuluplarının D0G uygulanasıne tam Alarak katılına gerek - nettedir, Buru gerçeklegtirmek 1pin 1 Opak 1990 dan 1t1baren,
+BCG (Bacillus Calmette—Guerin) aşısı; Tüberküloza karşı bağışıklık için kullanılan bir aşıdır. Tam bir bağışıklık vermemekle beraber tüberküloz enfeksiyonuna karşı duyarlılığı azaltır.
 
-' 2- TUia I1 ve, 21çe merkezlerinde 800 agılanası néflik qi s ları tarafindan Japilaoaktır,
+Kuru aşılar Seed-lot 1173 P 2 suşunun kültürlerinden hazırlanır ve Sodium Glutamat ihtiva eden bir sulandırıcı içinde bulundurulur, ampullere doldurulur ve dondurularak kurutulur. Ampuller vakum altında kapatılır.
+Aşılar D.S.Ö.'nün tavsiyelerine uygun olarak üretilir ve kontrol edilir.
 
-2- 11 re 11ge nerkezlerindeki 30G agilenalarios 300 eg1 grupları ve verem saraş dispanserleri kesinlikle katılmayeceki:
+Hazırlanması:
 
-.3. 11 re 1lge merkezlerindeki agilans 1çin gerekli agz; enjektör vb. ihtiyaçlar Sažlık qudlrlukleri tarafınden diñer rr lorda Alduğu Elbi Temel Sažlık Hiemetieri Genel Mudurluğunden , ' min edilerek 11gil1 kuruluşlara değitzlsoektir. Apilama progren. ları da saflık midlrluklerinin koordinsepen ve denetiminde oler tiro
+Ampulün boyun kısmı dibinden törpülenir, ampulün açılması sırasında toz halindeki aşının dışarı saçılmasını önlemek için törpülenen kısmın etrafına plastik koruyucu sarılır, ampulün boyun kısmı kırılır ve toz halindeki aşının tamamının ampul içinde kalması sağlanır. Sulandırma ampulleri 10-20-50 dozluk aşı ampulleri için sırası ile 1-2-5 ml. dir. Sulandırma ampulü açılır. (Dilüe solüsyon 1-3). Steril ve kuru 2-5 ml'lik uzun iğne ile kuru aşı ampulünün içine aktarılır. İğne ile bir iki defa karıştırılarak homojen sağlanır. BCG aşılamalarında kullanılan şırınga ve iğneler dikkatle yıkanır ve ısıtılarak sterilize edilir. Yıkama ve sterilizasyon için deterjanlar ve dezenfektanlar kullanılmaz. Aşı hazırlandıktan sonra mümkün olduğu kadar çabuk kullanılacak, 4 saatin sonunda kalan aşı miktarı atılacaktır.
 
-4- Sağlik nldurlukleri, 'egilanada görev alecek personeli»: elitimini verem saray dispanserlerinde ve 300 ag2 gruplarinda : peklogtirepektir.
+Aşılama: Yeni doğanlar normal bir ağırlığa (3 Kg.) ulaşıncaya kadar aşılanmamalıdır. Yeni doğanlar ve 8 haftalık olanlar direkt aşılanabilirler, daha büyük yaştakiler Tüberkülin testleri negatif ise aşılanmalıdırlar.
+Enjeksiyonlar, eğitim görmüş sağlık personeli tarafından yapılmalıdır.
+Doz: 0,1 ml. ve deri içidir. Bu doz minimum 100.000 canlı jerm ihtiva eder.
+Bu doz 1 yaşından küçük çocuklar için yarım doz, 0,05 ml. olarak kullanılabilir.
+Aşı, sızdırmayan 0,01 ml.'lik bölümlere derecelendirilmiş ve verilecek dozun okunması kolay bir enjektörle yapılır. (25 G veya 26 G X 10 mm.)
+Deri temiz ve kuru olmalıdır. Temizliğinde alkol ve deterjandan kaçınılmalıdır.
+Enjeksiyon derinin üst tabakasının içine yavaşça yapılmalıdır. Çok derine yapılan enjeksiyon abse şeklinde reaksiyonu artırır.
 
-5- ACG agl Eruplari, Yeren savag dispanserleri 1le lobis уараах sadece köylerde agılana уврв. Bu kuruluşların ar: na için serekli Bez, enjektbr vb.ihtiyapları eskiden olduğu di' Verem Savag Daire Bagkanlığı tarafından karşılansoaktır.
+Lokal reaksiyonlar:
 
-6- Sağlık ocaklarinin BOG aşilana paligmalari form 013 1] diğer açılar ile birlikte Temel Sağlık Hizmetleri Genel Mudurl! ne Jollanacak, 300 aps gruplari re verem savas dispanserlerini: v7gulanaları lee eskiden olduğu gibi doğrudan Verem Savag Dair: Başkanlığına bildirileoektir.
+Yeni doğan çocuklarda aşılamadan 4-6 hafta sonra enjeksiyon sahasında 6-8 mm. çapında ortası kabuklu veya kabuksuz bir nodül görülür. Revaksinasyonlardan sonra enjeksiyonu müteakip ilk haftada lokal reaksiyonlar görülebilir. Enjeksiyon sahasında 4-10 mm. çapında bir infiltrasyon olabilir. Bazı vakalarda papül kabuklaşır veya ciltten benzer bir kabuk teşekkül edebilir. Bazılarında infiltrasyonun merkezinde seropülan bir sızıntı şekillenir.
+Böyle reaksiyonlar normal karşılanmalıdır. Lokal reaksiyonlar 2-4 ay sonra kaybolur, yerinde güç ayırt edilebilen aşı yeri kalır.
 
-7- BCG așilamasina 111gkin gönderilen tum genelge ve emi. ler yurürlukten kalderılmstzr.
+Saklanması: BCG Aşısı kısa bir zaman içinde gün ve güneş ışığından etkilenir. Kuru aşı potensini tedrici olarak kaybeder. Soğukta saklanırsa (+2, +8) aşı tamamıyla dayanıklıdır. Bununla beraber 37 C'de muhafaza edilirse birkaç hafta içinde potensinden önemli derecede kaybeder.
+Kuru aşı devamlı olarak soğukta (+2, +8) saklanmalı ve gün, güneş ışığından korunmalıdır. Kullanma tarihine kadar bu şartlara dikkat edilmelidir.
 
-8- Konuyla 1lzil1 tekaik ayrıntı balmledeki gunlerde günderilecektir.
+T.C.
+SAĞLIK BAKANLIĞI
+Verem Savaşı Daire Başkanlığı
 
-Bilginizi ve ilgililere emirlerinizi risa ederine
+Saha Hizm. Şb/235
+Hastanelere Malzeme Dağıtımı
 
-### DAIMI GENELGE HAKAN ADINA DAĞITIM Dr. ERGUN ÖZDEMIR
+ANKARA
+24.MART.1990
 
-GereřL
+BAŞHEKİMLİĞİ
 
-Mustegar
+Göğüs Hastalıkları Hastaneleri ile Devlet Hastanelerine bağlı Verem Pavyonları ilaç, film vb. ihtiyaçlarının temini için Verem Savaşı Dairesi Başkanlığına başvurmaktadırlar.
 
-2. 71 11 Va111181
+Bilinildiği gibi Hastaneler, Tedavi Hizmetleri Genel Müdürlüğüne bağlı olup ihtiyaçları için gerekli ödenek bu Genel Müdürlüğün bütçesine konulmaktadır. Göğüs Hastanelerinin ve Pavyonların tüberküloz hastalarının tanı ve tedavisinde kullandıkları malzemelerin aynıları Verem Savaşı Dispanserleri için Verem Savaşı Daire Başkanlığı tarafından ihale edilmektedir. Bu yüzden Tedavi Hizmetleri Genel Müdürlüğü aynı malzemeler için ayrıca ihale yapmak yerine, 1987 yılına kadar bir miktar ödeneği Verem Savaşı Dairesi bütçesine aktarmış, böylece Daire Başkanlığı tarafından Hastane ve Pavyonların ihtiyaçları karşılanmıştır. Son üç yıldır ödenek aktarımı nedeniyle aktarma yapılmamış, bu nedenle Göğüs Hastanelerinin ve Pavyonların ihtiyaçlarının karşılanmasında sıkıntılar olmuştur.
 
-2. ICG Orup Bagkaalıkları
+Verem Savaşı Daire Başkanlığı önceki yıllarda olduğu gibi bütçe imkanları ölçüsünde yataklı kurumlarda tedavi edilen “tüberküloz hastalarının” tanı ve tedavisinde kullanılan malzemeleri temin etmeye çalışacaktır. Tüberküloz dışı hastaların film başta olmak üzere diğer ihtiyaçlarının karşılanması kesinlikle söz konusu değildir. İhtiyaçların karşılanmasında rasyonel ve objektif bir dağıtım sağlanması ve güvenilir istatistiklerin elde edilmesi için örneği Ek 1'de sunulan ve yeniden düzenlenmiş olan “Hastaneden Taburcu Raporu”nun bir nüshasının her hasta için doldurularak Verem Savaşı Daire Başkanlığına yollanması gerekmektedir. Bu formun doldurulmasına ilişkin hususları açıklayan Yönergenin ilgili bölümü Ek 2'de verilmiştir.
 
-### SAGLIK BAKANLIĞI Verem Savaçı Daire Loşkanlığı
+Bilgi ve gereğini rica ederim.
 
-.Sube.M1am. Sb/5320/1234 ¡tuke Çalzgmalar1
+DAİMİ GENELGE
 
-27.02.15-5
+BAKAN ADINA                                      Dr. Ergün ÖZDEMİR
+                                                Müsteşar
 
-### ••• VALILIGI (Sağlık LUdUrlLğU)
+EKLER: 1- “Hastaneden Taburcu Raporu” Örneği
+       2- Arşiv ve İstatistik Yönergesi
 
-İLGI: 13 Kesım 1989 torih, Verem Şevag Daire BagkauliÈ1 . Sata Hisn. Şb/5320-1010 sayıla genelge. SICI' de kayitlı Genelgeyle BCC agisınin 11 ve 1lçe perke? nic Coğlık Ocaklarıy köylerde ise Veren Savap Dispanserkori ve F20 Cmpiari tarafindan qygulanacaği bildirilmigti. BCG agı vygulamaları aşağıda verılen açıklamalar doğr-tu oirdurlecekt1F: 1 1- Tün yerlegim merkezlerinde BOG apısı 5-6 yıl erulıllclo ing kader her ppouga 4 kez uygulannoaktir. Agının yapilması gereken yaglar ve dönemler
+DAĞITIM
 
-### • 6-7 (11kokul 2.92011) 21-12 "1 (17kokul 5.01011)
+1- Göğüs Hastalıkları Hastaneleri
+2- Verem Pavyonları
 
-"17-18 (11se 3. sinif) olarak belirlenmiş: f'erhanei bir pedenle yukurida verilen yaglarda aginin yepavnda, bu yagı izleyen yıllarda mutlaka agı yapalmaaı- gereż- 2- POG agılamasında en iyi yönten 1lk veya revakginćsyor. ncosi PPD yapılması ve PPD sonucu degerlendirildikten solru mp lannasıdır. Ancak uygulamaya bız kezandırmuk ve durà fılmak anacıyla EK' 1 deki tablo l'e göre agalema papale- 3- PPD kontrolu yapılanların PPD sonuçlerının deGerlendiri}. e ve copușto yapalaoak 1glenlerin belirlenneniade IV' 1 deki tut] inacaktar. 4- Apa čozu 0-2 yagin altında yurim doz (0.05 m]), : T2'
+## HASTANEDEN TABURCU RAPORU (Form 16)
 
--e tan doz (0.1 ml) dur.
+| Soyadı | Adı | Baba Adı | Protokol No | Hasta Defteri No |
+|---|---|---|---|---|
+|  |  |  |  |  |
+| Doğum Tarihi | Yaşı | Cinsiyeti | Medeni Hali | Mesleği | Rapor No |
+|  |  | E □  K □ |  |  |  |
+| Tüberkülin Testi | Tarih | Doz | Çap | BCG Aşısı |  |
+|  |  |  |  | Yok □ · 1 kez □ · 2 kez □ · 3+ kez □ |  |
 
--20
+Aerosil:
 
-5- BCG apio1 erl omuz deltoid kasin Uzeline, der1 1cin, pılır. (DERİ ALTINA KAÇIRILMALIDIR), PPD testi 1ве sol 8n kr.l, 2/3 Ust, dıg kismına der1 1çine yapılır, BCG apies ve PF[ tect1 1¿ aynı tip 1 ml' l1k özel enjektörler kullanılır.
+Gönderen Dispanseri: ____________________
 
-6- BCG 8§191,
+### Bakteriyolojik Muayene
 
-### Tüberküloz geçirmekte olanlere Imnin Jetmezl1ğ1 olenlara
+| Girişte | Tarih | D | P | K | İ | HM | MP | SM | EMB |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  |  |
+| Çıkışta | Tarih | D | P | K | İ | HM | MP | SM | EMB |
+|  |  |  |  |  |  |  |  |  |  |
 
-Kortizon ve imnücogupresif kullananlara
+### Kendi Tanı Kodları
 
-### - AgIr malnütrisyonlu gocuklara
+|  | Kodlar | Kodların saptandığı tarih | Radyolojik inceleme |
+|---|---|---|---|
+| Girişte |  |  |  |
+| Çıkışta |  |  |  |
 
-Kızamık; kızamıkçik Bibi etegli ve döküntUlU hastal :
+Yayılımı: ____________________             Apikal: ____________________
 
-geçirmekte olanlara
+### Hastanede Gördüğü Tedavi (Olgu Olarak)
 
-Kareciğer, böbrek hastalığı gibi ağır hastalığı ol,
+Yatıştaki Kilosu: 20 kg ↓ □   50 kg ↑ □
 
-yapilmamalidir.
+| INH | RMP | PZA | SM | EMB |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
-7- PPD testinin değerlendirilnesi 72 saat arara endur, çapının ölgulmei 1le apılır. (kızarıklık önemli değildir).
+### Dispanserde Devam Edeceği Tedavi
 
-8- BOG agisı sonrası komplikacyon görülenler mutlaka i Savag Dispanserine sevk edilmeli ve izlenmelidir.
+İlçe Dispanseri: ____________________
 
-9- Ulkemizde uygulanan PCG agıo1 ebes olarak Bakanlığ: Ref1k Saydam Hıfzıssıhhe Merkezi Bagkanlığınde Uretilmekte cluj b; _ ait prespektle Ek 2' de verilmiștir, Agi miktarinin yetersie olna. nedeniyle purtàięıbden agi ithal edildifinde ithal agıya ait prosi ayrice gönderilecektir.
+Tarih: ____________________                         İmza: ____________________
 
-cerežimi ro iletitiero entrlériate1 fos odor1 DAtLt GENEIGE BAKAN ADINA DI. Ergun ÖZDEK
+Dr. ________________________________                 İmza __________________ Uzman
 
-Mustogar EKLER: 1- Tablolar
+## Hastaneye Sevk Raporu (Form 17)
 
-2- Ag1 ProapektUsll
+İleri tetkik ve tanı, tedavi ve diğer amaçlarla dispanser tarafından göğüs hastalıkları hastanelerine, göğüs pavyonlarına ya da tüberküloz yatağı olan diğer hastanelere sevk edilen hastalar için bu form kullanılır. Sevklerin hastanın ikamet yerinde bağlı olduğu dispanser (bölge dispanseri) tarafından yapılması gerekir. Bu durumda diğer formların doldurulması sırasında belirtilen açıklamalara uygun olarak formun bütün bölümleri eksiksiz doldurulur. Form iki nüsha olarak düzenlenir. Bir nüshası hastanın Tüberkülozlu Hasta İzleme Fişi ile birlikte dispanserde saklanır. Diğer nüsha bir üst yazı ile hastanın kendisine verilir.
 
-### DAĞITIM
+Formun dispanserde gördüğü tedavi bölümü doldurulurken hastanın kilosu mutlaka belirtilmeli ve ilaç alım günlerine alınan ilaç miktarı doz olarak değil, o ilacın alındığı gün sayısı olarak gösterilmelidir.
 
-1- 71 Il Val1l1ğ! 2- DOG Ozup Pegkanlikları
+Hastaların bir kısmı bölge dispanserine uğramadan büyük kentlere gelerek oradaki dispanserlerden sevk isteminde bulunurlar. Bu durumda o dispanserde yapılan tetkiklerin forma yazılması ile yetinilir, ancak form iki yerine üç nüsha olarak düzenlenir. Biri üst yazı ekinde hastaya verilir. İkincisi hastanın bağlı olduğu dispansere gönderilir, üçüncüsü ise sevk yapan dispanserde özel bir dosyada saklanır.
 
-Tablo 1 Y8ợ BC G
+## Hastaneden Taburcu Raporu (Form 18)
 
-Il ve Ilge Grubu Skarz Köylerde
+Bu form hastanın sevk edildiği hastaneden taburcu olduğu sırasında dört nüsha olarak düzenlenir. Bir nüshası hastanede dosyası içinde saklanır. İkincisi hastanın kendisine verilir. Üçüncü nüsha hastanın ikamet yerinin bağlı olduğu dispansere postalanır. Dördüncü nüsha ise doğrudan Bakanlık Verem Savaşı Daire Başkanlığına gönderilir. Dördüncü nüsha Daire Başkanlığında bilgisayara girilerek hastalara yapılacak ilaç, film ve malzeme tahsisinde kullanılacaktır.
 
-Merkezlerinde
+---
 
-Direkt
+T.C.
+SAĞLIK BAKANLIĞI
+Verem Savaşı Daire Başkanlığı
 
-Direkt 1 = 5
+SAYI: Y.S.Saha Hizm.Şb/5320-474
+KONU: BCG Aşılama Çalışmaları Entegrasyonu
 
-PPD Kontroluyla
+ANKARA
+19.6.1990
 
-Direkt 6 7 Var Direkt
+VALİLİK
+(Sağlık Müdürlüğü)
 
-Direkt
+İLGİ: 13 Kasım 1989 tarih, Verem Savaşı Daire Başkanlığı, Y.S.Saha Hizm.Şb/5320-1010 sayılı genelge.
 
-Yok . PPD Kontroluyla
+İLGİ'de kayıtlı Genelgeyle, BCG aşısının İl ve İlçe Merkezlerinde, sağlık ocakları, köylerde ise verem savaş dispanserleri ve BCG aşı grupları tarafından uygulanacağı bildirilmişti.
 
-Direkt 11~12 2 skarlı
+Bu Genelge ile verem savaşı dispanserlerinin il ve ilçe merkezlerinde BCG aşılama çalışmalarının durdurulma nedeni, il ve ilçe merkezlerinde sağlık ocaklarının BCG aşı uygulamasına entegrasyonunun motive edilmesidir. Bu doğrultuda yapılan 6 aylık uygulama sonucu, bu amacın büyük ölçüde gerçekleştirildiği görülmektedir. Bu nedenle sağlık ocakları yanında verem savaşı dispanserlerinin de il ve ilçe merkezlerinde yeniden BCG aşılaması yapması kararlaştırılmıştır.
 
-Direkt '
+1 Temmuz 1990 dan itibaren;
 
-Direkt
+1- Tüm il ve ilçe merkezlerinde BCG aşılaması sağlık ocakları ve verem savaş dispanserleri tarafından yapılacaktır.
 
-O-1 skerlı
+2- İl ve ilçe merkezlerindeki BCG aşılamalarına verem savaşı grupları (BCG aşı grupları) kesinlikle katılmayacaktır.
 
-PPD kontroluyla
+3- İl ve ilçe merkezlerindeki aşılama için gerekli aşı, enjektör v.b. ihtiyaçlar sağlık müdürlükleri tarafından diğer aşılarda olduğu gibi Temel Sağlık Hizmetleri Genel Müdürlüğünden temin edilerek ilgili kuruluşlara dağıtılacaktır. Aşılama programları da sağlık müdürlüklerinin koordinasyon ve denetiminde olacaktır.
 
-Direkt 27 -18 3 akarlı
+4- Sağlık müdürlükleri, aşılarında görev alacak personel eğitimini verem savaşı dispanserlerinde gerçekleştirecektir.
 
-Direkt Direkt
+5- Verem savaşı grupları (BCG aşı grupları), sağlık müdürlükleri ile işbirliği yaparak sadece köylerde aşılama yapacaklardır. Bu grupların aşılama için gerekli aşı, enjektör v.b. ihtiyaçları eskiden olduğu gibi Verem Savaşı Daire Başkanlığı tarafından karşılanacaktır.
 
-0-2' økarlı
+6- Sağlık ocakları ve verem savaşı dispanserlerinin BCG aşılama çalışmaları, Form 013 ile diğer aşılar ile birlikte Temel Sağlık Hizmetleri Genel Müdürlüğüne yollanacak, verem savaşı grupları uygulamaları ise eskiden olduğu gibi doğrudan Verem Savaşı Daire Başkanlığına bildirilecektir.
 
-PPD kontroluyle
+Verem savaşı dispanserleri BCG aşı çalışmalarını sağlık müdürlüklerine bildirdikleri gibi ayrıca Verem Savaşı Daire Başkanlığına gönderdikleri Aylık Çalışma Raporunda (Form 21) da göstereceklerdir.
 
-Direkt
+İlgi'de kayıtlı Genelge yürürlükten kaldırılmıştır.
 
-Tablo 2 PPD : Eskl Endurasyon Eaki
+Bilginizi ve ilgililere emirlerinizi rica ederim.
 
-BOG 'Skar! Çapi BCG Skarı
+DAİMİ GENELGE
 
-Olmayanler
+BAKAN ADINA
 
-Olanler 5 mm Agaranacak
+Prof. Dr. Ferhan ÖZMEN
+Müsteşar V.
 
-Agılanacek
+DAĞITIM
 
-### Bir ay sonra PPD teati tekrar-
+Gereği:
+1- 71 İl Valiliği
+2- Verem Savaşı Grupları
 
-9 mm lanecak, Jine 10 on den az bulu-
+T.C.
+SAĞLIK BAKANLIĞI
+Verem Savaşı Daire Başkanlığı
 
-Agilanacak
+Sayı: V.S.Saha Hizm.Şb/3220-473
+Konu: Protokollar
 
-. purss agılanacak
+ANKARA
+19.6.1990
 
-### • Allesiyle birlikté tetkik edile-
+............... VALİLİĞE
+(Sağlık Müdürlüğü)
 
-:0 - 19 mm cek, basta bulunmazlarsa 0-12 yaş-
+Ülke düzeyinde verem savaşı çalışmalarını etkinleştirmek ve kurumlararası işbirliğini sağlamak amacıyla
 
-Bir gey yapıl-
+1- Bakanlığımız ile Çalışma ve Sosyal Güvenlik Bakanlığı arasında 12.3.1984 ve 6.6.1984 tarihlerinde iki protokol,
 
-ta olanler İLAÇIA KORUMAYA alınacaktir. mayacak¿i;
+2- Bakanlığımız ile Milli Savunma Bakanlığı arasında ise,
+   2.a. 31.3.1982 tarihinde
+   2.b. 26.12.1983 tarihinde (Ek-A Protokol)
+   2.c. 20.8.1987 tarihinde (Ek-B Protokol) olmak üzere
+3 protokol imzalanmıştır.
 
-Allesiyle birlikte tetkik edilecer, basta bulunmazlarsa 20 mn Y
+Yukarıda sayılan 5 protokolün suretleri Ek' de verilmiştir.
 
-0-12 yagta olaalar İLAÇLA KORUMAYA alınaoakfIr.
+Verem Savaşı çalışmalarına etkinlik kazandırmak amacıyla söz konusu protokolların dikkatle incelenerek titizlikle uygulanması ve uygulamada görülen aksaklıklar ile değişiklik önerilerinin Bakanlığımız Verem Savaşı Daire Başkanlığına bildirilmesi gerekmektedir.
 
-### RETİK SAYDAM HIFZISSIHHA MERKEZİ BAŞKANLIĞI BCG AŞİLI VE TUBERKÜLİN ORETİM ÜNİTEBİ KURU BCG IÇİN PROSPEKTÜS
+Bilgi ve gereğini arz ve rica ederim.
 
-(Yalnız deri Icl kullanılır) BCG (Bacillus Calmette--Guerin) aşısı; Tüberküloza karşı bağışıklık Için kullanılon ci. bir aşıdır. Tam bir bağışıklık vermemekle beraber tüberkülaz enfekelycnuna karşı dav nıkitlığı arttırır. Kuru Aşılar Seed--lot 1173 P 2 suşunun kültürlerinden hazırlanır ve Sodlum Glutam. Ihtiva eden bir sulandırcı Icinde sulandırılır, ampullere doldurulur va dondurularak ki rutulur, Ampuller vakum altında kapatılır. Aşılar D.S.O. nün tavslyelerine uygun olarak üretilir ve kontroi edllir. Hazırlanmasi : Ampulun boyun kısmı dibinden törpülenir, ampulün açılması sırasında toz halindeki os nın dışanı saçılmasını önlemek Için törpülenen kısmın etrafına plastik koruyucu sıkıç earılır, ampulün boyun kısmı kırılır ve toz halindeki aşının tamamının ampul İçinde kc ması sağlanır. Sulandırma ampulleri 10-20-50 dozluk așı ampulleri loln eirası Ile 1-2 % 5 ml. dir, Sulandırma ampulü açılır, (Dilue saton 1-3), Sterli va kuru 2-5 ml, lik uzun !: lğne lle küru aşı ampulünün Içine aktarılır, İğne lle bir Ikl defa karıştırılarak homojen' sağlanır. BCG şılamalarında kullanılan şırınga ve lğneler dikkatle yıkanır ve ışıtıla. sterilize edılir. Yıkama ve sterilizasyon Icin deterjanlar ve dezenfektanlar kullanılmaz. Aşı hazırlandıktan sonra mümkün olduğu kadar çobuk kullanılacak, 4 saatin sanur kalan oșı miktarı atılacaktır. Aşılama ı Yeni doğanlar normol bir ağırlığa (3 Kg.) ulaşıncaya kadar vęrlanmamalıdıri:. Yenl doßöhlar ve 8 hoftalık olanlar direkt aşılanabilrler, daha büyük yaştakiler Tübr. külin testlerl negatif Ise aşılanmalıdırlar. Enjekslyonlar, eğitim görmüş sağlık parsonell tarafından yapılmalıdır, Doz: 0,1 ml. vo derl-Icidir. Bu doz minimum 100.000 canlı ferm Ihtiva eder. Bu doz 1: yaşından küçük cocuklar laln yarım doz, 0.05 ml, olarak kullanılabilir. Aşı, sızdirmayan 0.01 ml, lik bölümlerle derecelendirilmiş ve verllecek dozun okunmas: elverişll bir enjektörle yapılır. (25 G veya 28 G X 10 mm.) Derl temiz ve kuru almalıdır. Temizliğinde alkol ve deterjandan kağınılmalıdır, Enjekelyon derinin üst tabakasının Iç/ne yavagog Yapılmalıdır. Çok derine yapılan enleks yon abse sekillenme riskini artırır. Lokal reaksiyonlar : Yeni doğan cocuklarda açılanmadan 4-6 hafla sonra enjekslyon sahasında 6-8 mm. cc pında ortası kabulklu veya kabuksuz bir nodöl görülür, Revaksinasycnlardan sonra cjekslyonu müteakip lik haftada lokal reakslyonlar görülebilir. Enjeksiyon sahasınd: 4-10 mm. capında bir infiltrasyon olabilir. Bazı vak'alarda papül kabuksuzdur veya çiçen benzer bir kabuk teşekkül edebillr. Bazende Infiltrasyonun markezinde seroprulen bir ¿ zıntı şekillenir. Böyle reaksiyonlar normal karşılanmalıdır. Lokal reakslyonlar 2-4 ay sonra kaybolur • yerinde güc ayırt edilebilen ağı yeri kalır. Saklanmaşı: BCG Aşısı kısa bir zaman Içinde gün ve güneş ışığından etkllenir. Kuru c potensini tedrici olarak kaybeder. Soğukla saklanırsa (+2,+8) aşı tamamiyle dayanıklıd Bununla beraber 37 C'dc muhafaza edilirce birkac hafta Icinde potensinden önemli derec. de koyboder. Kuru aşı devamlı olarak soğukla (+2, +8) saklanmalı vo gün, güneş ışığından korunmalıd.
+DAİMİ GENELGE
 
-kullanma tarihine kadar bu şartlara dikkat edlirelidir.
+BAKAN ADINA
 
-### BAĞLIK BAKANLIĞİ Verem Savaşı Dolre Başkanlığı
+Prof. Dr. Ferhan ÖZMEN
+Müsteşar V.
 
-: SAhA. HAMASD/ 235 :: Hastanelere Lalseme ANKARA Daditimi 24.MART. 2990
+EKLER: 4 Protokol
 
-### •• BAŞHEYİULİĞ1
+DAĞITIM
 
-Göğle Hastaliklara Hastaneler: Ile Devlet Kastanelerine bačl1 Veren Pevyonlari 1lag, f1lm vb.ibi: aglerznin temini 1çin Veren Savagı Deiresi Bagkanlağına bagvurnaktadırler.
+| Gereği | Bilgi |
+|---|---|
+| 1- 71 İl Valiliği | 1- Milli Savunma Bakanlığı |
+| 2- Verem Savaşı Grupları | 2- Çalışma ve Sosyal Güvenlik Bakanlığı |
 
-Bilindiği gibi Hestapeler, Tedavi Hizmetleri Genel Nüdürlüğüne bağlı olup ihtiyaçları için gerekli ödenek bu Genel küdurlüžün bütçesine konulmaktadir, Göğus Hastenelerinin ve Pavyon- Jaren tuperkulog hastalarinın tenı ve tedavisinde kullandikları malzemelerin aynilara Veren Savag Dispanserleri igin Veren Savagı Daire Bagkanlığ2 taralınden Ihale edilmektedir. Bu yuzden Tedavi Hizmetleri Genel Nudurluğu ayna nelzemeler Igin ayrica ihale yapmük yerine, 1987 yılına kadar bir miktar ödeneğı Verem Savagz Dairesi butgemine aktarmie, böylece Daire Barkonlıği tarefindan Hastane ve Pavyonların ihtiyegler; kergılanmaętar, Son Up yıldir bdenek sikıntasi nedeniyle aktarme yapılanamig bu nedenle Odğls Hastanelerinin ve Pavyonların ihtiyaglarınln karşilanmaainda sikintiler olmuștur.
+PROTOKOL
 
-### PAROM
+Anayasanın 56 ncı maddesinde, insan ve madde girdilerde tasarruf ve verimi artırarak, işbirliğini gerçekleştirmek amacıyla sağlık kuruluşlarını tek elden planlayıp hizmet vermesini düzenlemek Devletin görevleri arasında sayılmıştır. Aynı zamanda Anayasanın aynı maddesinde Devletin bu görevini kamu ve özel kesimlerdeki sağlık ve sosyal kurumlarından yararlanarak onları denetleyerek yerine getireceği ifade edilmiştir. Bu amir hüküm doğrultusunda Sağlık ve Sosyal Yardım Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığı arasında sağlık kuruluşlarına ilişkin aşağıdaki esaslar çerçevesinde bir işbirliği yapılması kararlaştırılmıştır.
 
-Verem Saveęı Daire Bagkanlzğı önoeki yıllarde olduğu gibi butçe imkanlara blguslnde yataklı kurunlarda tedavi edilen " tuberkülog hastalarının" teni ve tedavisinde kullanilen malzeneleri temin etmeye gellęaoaktar. fuberkuloz diga hastalaran film bayta olmak Uzere diğer ihtiyaçlarının kargalanmasa kesinlikle söz konusu değildir. İhtiyaçların kerşılanmasanda rasyonel ve objektif bir değstam saglanmas2 ve güvenilir istatistiklerin elde edilmesi gin örneği Ei I'de sunulan ve yeniden duzenlenmig
+A- SAĞLIK VE SOSYAL YARDIM BAKANLIĞININ SAĞLAYACAĞI HİZMETLER:
 
-### 35
+1- Sağlık ve Sosyal Yardım Bakanlığının sağlık evi, sağlık Merkezi ve ocakları, ana çocuk sağlığı ve aile planlaması merkez ve şubeleri ile dispanserleri ve verem savaş dispanserlerinde verilen her türlü sağlık hizmetlerinden Sosyal Sigortalar Kurumuna bağlı işçiler ile bakmakla yükümlü bulundukları kimseler ücretsiz olarak yararlanabileceklerdir.
 
-olan " Hastaneden Taburcu Raporu " nun bir nushasının her hastr için doldurularak Veren Sevagi Daire Bagkanlığıns yollanması &:rs mektedir, Bu formun doldurulmasına iligkin hususları açıklayen Yönergenin 1lg1l1 bölunu IK 2' de verilmigtir,
+Hastanelere sevki gereken hasta işçi veya bakmakla yükümlü oldukları kimseler o yörede Sosyal Sigortalar Hastanesinin bulunmaması halinde sağlık ocağı veya Sosyal Sigortalar Kurumu dispanser hekimi tarafından en yakın Devlet Hastanesine sevkedileceklerdir.
 
-### Bilgi ve geregini rica ederim. DAIMI _GENDIGE
+2- Devlet hastanelerine sevkedilen işçi veya bakmakla yükümlü oldukları kimselerin teşhis ve tedavilerine ilişkin işlemlerde kendi mevzuat hükümleri uygulanır. Bu hüküm uzun süre tedaviyi gerektiren rehabilitasyon ve benzeri tedaviler için de geçerlidir.
 
-BAKAN ADINA Dr. Ergun ÖZDEMIR
+B- ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞININ SAĞLAYACAĞI HİZMETLER:
 
-MUsteger
+Devlet hastanesi olmayıp S.S.K. hastanelerinin bulunduğu yerlerin hangisinde, S.S.K. hastanelerinden, işçi olmayan vatandaşların istifade edeceği konusu bu S.S.K. hastanelerinin imkanları ve o yer nüfusunun ihtiyaçları gözönünde bulundurularak Çalışma ve Sosyal Güvenlik ve Sağlık ve Sosyal Yardım Bakanlıkları tarafından ayrıca tesbit olunacaktır.
 
-• EKLER: 1- "Hastaneden Taburcu
+Bu tesbit Çalışma ve Sosyal Güvenlik ve Sağlık ve Sosyal Yardım Bakanlıkları Müsteşarlarının başkanlığındaki bir kurul tarafından yapılacaktır.
 
-Raporu" Örneği
+C- MÜŞTEREK HİZMETLER:
 
-2 = Argiv ve Istatistik
+1- Bakanlıkların aynı yerde mevcut hastaneleri arasında teknik ve personel imkanları bakımından birbirlerini tamamlayıcı ve destekleyici işbirliği iki hastane başhekimlerine sağlanır.
 
-Yönergesi
+2- Aynı il veya ilçe merkezinde olmak kaydıyla gerek sağlık kuruluşlarının oluşturulabilmesi ve gerekse o il veya ilçenin aynı anda aynı dalda uzman hekim boşluğu olmaması için uzmanların yıllık izinlerinden kullandırılması başhekimlere temas edilerek tesbit edilir ve uygulanır.
 
-### DAGITIM
+Bu protokol Sağlık ve Sosyal Yardım Bakanı ve Çalışma ve Sosyal Güvenlik Bakanınca imzalandıktan sonra yürürlüğe girer. 12.3.1984
 
-1- Orğua Hastalıkları Kasteneler1 2- Verem Pavyonlari
+Mehmet AYDIN  
+Sağlık ve Sosyal Yardım Bakanı
 
-### HLETAMEDEE TABURCU RAFORU
+Mustafa KALEMLİ  
+Çalışma ve Sosyal Güvenlik Bakanı
 
-(Fora 16
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI İLE ÇALIŞMA VE
+SOSYAL GÜVENLİK BAKANLIĞI ARASINDA İMZALANAN
+12.3.1984 TARİHLİ İŞBİRLİĞİ PROTOKOLÜNE EK PROTOKOL
 
-Baba Ads Protokol Eo Barte' Defteri i Dokum Tarihi degs Cimiye t8 ' Badeni Mali Roelo81
+AMAÇ:
 
-Bapor Eo
+Ülke düzeyinde verem savaşı çalışmalarını etkinleştirmek ve disipline etmek için sağlık kurum ve kuruluşları arasında işbirliğini arttırmak, ekstrapulmoner tüberkülozlu hastaları Verem Savaşı dispanserlerinin denetimi altına almak,
 
-### * D
+A- SAĞLIK VE SOSYAL YARDIM BAKANLIĞINA AİT YÜKÜMLÜLÜKLER
 
-liberkillin Tee&1 ECO Adreni I
+1- Sosyal Sigortalar Kurumuna ait dispanser ve hastanelere başvuran anlaşmalı hekimleri tarafından tüberküloz şüphesi ile sevkedilen ve takipli işçilerle bakmakla yükümlü oldukları kimselerin tetkik ve tedavileri en yakın verem savaşı dispanserlerinde yapılır.
 
-DOR Cap Bker Yek
+2- Sigortalı işçilerle bakmakla yükümlü oldukları kimselerin korunmaya alınması gerekenleri Verem Savaşı dispanserlerinde takibe alınır.
 
-• dres
+3- Sağlık ve Sosyal Yardım Bakanlığına ait verem savaşı dispanserlerinde görevli hekimler, SSK'nın talebi halinde, imza sirküleri gönderir.
 
-a Sker
+4- İşyeri hekimlerinin işyerlerinde periyodik olarak (3-6 ay bir) yapacakları semptom soruşturmalarında şüpheli bulunan sigortalı işçiler, en yakın verem savaşı dispanserlerinde muayene ve tetkik edilir.
 
-3 + Skar Gönderen Diepenneri
+5- SSYD. verem savaşı dispanserlerine Kurum hekimlerince sevk edilen, sigortalı işçilerle bakmakla yükümlü oldukları kimselerden vizite kağıdı talep edilmez. Kimlik tesbiti bakımından sağlık karneleri gösterilmesi yeterlidir.
 
-BsktertyolojLk Kunyene
+B- ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞINA AİT YÜKÜMLÜLÜKLER
 
-C k
+6- SSK hastaneleri, dispanserleri ve anlaşmalı hekimleri SSK'ya ait verem dispanserlerinin bulunmadığı yerlerde şüphe ettikleri veya TBC tanısı koydukları kimseleri ilgili Verem Savaşı dispanserlerine gönderir.
 
-•IID D І КИР 8М БИВ Tarik К І НИКИ Р ОМ МИ
+7- SSK'ya ait sanatoryum ve/veya göğüs hastalıkları hastanelerinde yatan tüberküloz hastalarına taburcu olurken hangi dispanserlere başvurmaları gerektiği ikaz edilir ve düzenlenecek çıkış raporlarından biri verilir. Çıkış raporunun bir kopyası da ilgili Verem Savaşı dispanserine gönderilir.
 
-Louin Tenz Kodlerz
+8- SSK'na ait Verem Savaşı dispanserlerinde yapılan muayene ve tetkik sonucu TBC teşhis edilerek tedavisine karar verilenlerle korumaya alınması gerekenlere, dispanser hekimi bir defada bir aylık; ayakta tedavisi mümkün olan TBC dışı akciğer hastalığı olanlara ise SSK'ca öngörülen miktarda ilaç yazmaya yetkili kılınır ve SSK'ca verilecek reçeteye yazılan ilaçlar, dispanser başhekimince tasdikli olmak üzere SSK ocakları ve SSK anlaşmalı eczanelerince karşılanır.
 
-### 01718t6 G & B te
+9- Ayakta tedaviye alınan akciğer verem hastalarına S.S.Y.B. Verem Savaşı dispanseri hekimleri lüzumu halinde Kuruma ait C-2010-9 ve C-2010-10 bronş istirahat belgeleri ile bir defada en çok 10 güne kadar olmak üzere istirahat verebilir. Lüzumu halinde bunu bir defa tekrarlayabilir.
 
-Kodlar Kodlar dler2n Kodlaran
+ORTAK HÜKÜMLER
 
-### de Satandasa Te Terih
+10- Bu protokol imza tarihinde yürürlüğe girer.
 
--Fikleae Agaklene
+Sağlık ve Sosyal Yardım Bakanı Adına
+İMZA
+Dr. Ertuğrul ACER
 
-Kontenedo ObrduSU Toda 1 (Otla Olarak ) Cautanin Kilosu BIC* APZ ENCE 2o kr 50 kg T D + G24282
+6.6.1984
 
-Diepercordo De on Edecogi Teda 1 Vadededa Diepander ! TarIh
+Çalışma ve Sosyal Güvenlik Bakanı Adına
+İMZA
+Kutlu SAVAS
+Müsteşar
 
-Хова • • VARE: ·& & 37
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI İLE MİLLİ SAVUNMA BAKANLIĞI ARASINDA VEREM SAVAŞI İLE İLGİLİ İŞBİRLİĞİ
 
-### Hastanere Serk Rapory (Ferm 27)
+Sağlık ve Sosyal Yardım Bakanlığı ile Milli Savunma Bakanlığı arasında verem savaşında işbirliğini sağlamak üzere aşağıdaki protokol düzenlenmiştir.
 
-Ileri tetkik ve tani, tedari vé diger amaglarla diapar: tarafından göžls hastalıklari hastenelerine, BöžUs pavyonlarane je de tUberkuloz yatáğı olan diger hastenelere sevk edilen hast.. lar 1çin bu form kullanilir. Sevklerin hastenza Ikamet perinio bağlı oldugu diepsnser (bölge dispanseri) tarafından yapıleseı gerekir, Bu durunda diger formların doldurulanez siresands bell;. tilen açıklanalera uygun olarak formun butUn bUllaleri eksiksiz doldurulur, Form 1k1 olsha olarak duzenlenir, Bir nusheai haste nın TuberkUloslu Heste Izleme Pigi lle birlikte diepanserde ea! lanir. Diğer nüsha bir Unt yesz 1le bastanzn kendleine verilir.
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞINA AİT YÜKÜMLÜLÜKLER
 
-Formun dispanserde görduğU tedavi DUllall doldurulurken hastanin [ilosu mutlaka belirtilmeli ve Ileg sutunlarine alinar 1lag miktarı dos olarak değ1l, o lleoin alindiği gun sayrea olc. rak gösterilmelidir.
+Madde-1 Sağlık ve Sosyal Yardım Bakanlığı, Türk Silahlı Kuvvetleri Er Eğitim Birliklerince BCG aşısı olmayanlara tüberkülin testi yaparak menfi bulunanlara BCG aşısı tatbik eder.
 
-Hastalaran bix kismi bUlge dispanserine ugramadan bUy!!' kentlere gelerek oradaki dispanserlerden sevk isteminde bulunar: dır, Eu durunda o dispanserde yapilan totkiklerin forna fazılma 1le yetinllir; anoak form iki yerine Ug nusha olarak dusenler. Biri let yezı ekinde hastaye ver1llz, 1kinole1 bestenın bağli ( duğu dispansere gönderil1I, Uçunolel lee serk yepan dispansert. ögel bir donyada saklanir.
+Madde-2 Er Eğitim Birliklerinde önceden BCG ile aşılanmış olanlara revaksinasyon BCG aşısı tatbik ederek veremden korunmalarını sağlar.
 
-### Hastaneden Taburcu Raporu (Form 18)
+Madde-3 Er Eğitim Birliklerinde röntgenle verem taramaları yaparak, taramada bulunan şüpheli ve hastaları tesbit edip tedavilerinin sağlanması için ilgili mercilere bildirir.
 
-Bu form hastanin sevk edildigi hasteneden taburen edil: sirasınde dört nüsha olarak duzenlenir. Bir alshsei hastenede ¿: yaaz lginde nuklanir, Ikinoiel hastanın kendisine verilir. Uçur. hastanın ikamet yerinin bağla oldugu dispansere postalanir.Dör! nüsha ise doğrudan Pakanlık Verem Saraşa Daire Başkanlığına gör lir. Dörduncu nüsha Deire Başkenlağınde bilgisayara girilerek r taneye yapıleosk ileç film ve malzeme tabeleinde kullanılaoakt:
+Madde-4 Askeri Hastanelerde yatarak tedavisini tamamlayan erlerin ayaktan tedavilerinin devamını sağlamak amacıyla bağlı bulundukları Verem Savaş Dispanserlerine gerekli talimatı verir.
 
-### SAĞLIK BAKANLIÖI
+Madde-5 Daha önceden yerleri, süreleri ve eğitim dönemleri belirlenmiş olan Er Eğitim Merkezlerinde hangi verem savaş ekibinin görevlendirildiğinin bir çizelge halinde M.S.B.'lığına bildirir.
 
-Verem Savaşı Deire Bagkanlığı CAYI: Y.S. Sạhe H1&D. Sp/5320174 ANKARA YON: BOO Agilara GElignelera 29.6.2990
+MİLLİ SAVUNMA BAKANLIĞINA AİT YÜKÜMLÜLÜKLER
 
-Entegrasyonu
+Madde-6 Türk Silahlı Kuvvetleri Er Eğitim Merkezlerinin isim, yer ve eğitim dönemlerini bir çizelge halinde Sağlık ve Sosyal Yardım Bakanlığına bildirir.
 
-### "•PrOvo... n. TATÍLINI : (SeĞIaL NudurLE!)
+Madde-7 Er Eğitim Merkez Komutanlıkları, birliklerinde, verem taraması yapmak üzere Sağlık ve Sosyal Yardım Bakanlığınca görevlendirilen verem savaş ekipleri ile temas kurarak, eğitim süresi içinde bütün erlerin taramadan geçirilmelerini takip ve temin eder. Ayrıca her eğitim dönemi sonunda bütün erlerin verem taramasından geçirildiğini, taramadan geçmeyenlerin bulunduğunu, hasta olanların kimlikleri ile sevkedildikleri Askeri Hastane Baştabipliklerini kapsayan bir raporu bağlı bulundukları [?] Komutanlığına ve S.S.B.'na bildirir.
 
-IIGI: 23 Kasın 1989 tarih, Veren Savagz Delro Bagkenliži V.S«Saba Hizm §b/5320-1010 say1l1 genelge.
+Madde-8 Milli Savunma Bakanlığı'na bağlı sağlık kuruluşlarında Sağlık ve Sosyal Yardım Bakanlığı'nda verem tedavisi için uygulanan standart tedavi rejimleri aynen tatbik edilir.
 
-IIGÌ'| de kayitl1 Genelgeyle, BCO agielnen I1 ve 1lçe Merkez. lerindo. Bağlik (faklari, köylerde lee veren saveg dispanserleri Vo ICG agl gruplarz tarafindan uygulansoaği bildirilmigti.
+Madde-9 Tedavi altına alınan tüberkülozlu hastalar Askeri Hastanelere taburcu edilirken en az bir hafta süreyle bağlı bulundukları askerlik şubesi adreslerine değil, ikametgah adreslerinin bulunduğu en yakın Verem Savaş Dispanserine As. Hastane Baştabipliklerince bildirilerek tedavinin aksamadan devamı sağlanır. (Verem Savaş Dispanserleri listesi [?] dir.)
 
-Bu Genelge 1le verem saragi dispenserlerinin 1l ve 1lge ne: rezlerinde BCG egilema galignelarinin durdurulma peden1, 11 ve 1lgo no) terlerinde sAğlık soaklarının BOG agı uygulamasına entograsyonunun mitive edilmesidir. Bu doğrultude apılon 6 eylık uygulana sczuou, bu sacın büyuk blçüde gergeklegtırıldıği görülmaktedir. Bu nedenle sažlıl cuklari Janinda verem paragi dispanserlerinin de il ve 1lge merkezleri yeniden BCG eğılemesa yapması kararlagtırılmıştir.
+Madde-10 Er Eğitim Birliklerinde dağıtım yapılmadan önce erlerin veremli olup olmadığı mutlaka tesbit edilir. Bu konudaki yazı ve [?] erlerin dosyasına konur.
 
-### Tennuz 1990 den 1t1baren:
+Madde-11 Milli Savunma Bakanlığı Er Eğitim Birlikleri dışında kitle taramaları için özel ekip istenmemesi hususunda Askeri Birliklere [?] talimatı verirler.
 
-1- Tür 1l ve 11ge nerkezlerinde BCG agzlanasl sağlik ooakları ve verem savag diapenserleri tarafınden yapalsoaktir.
+Madde-12 Askerlik Şubelerinden doğrudan kıtalara gönderilen yükümlü (yoklama kaçağı, bakaya, saklı dahil) sevkinden önce bulundukları bölgedeki Verem Savaş Dispanserine gönderilerek verem taramasından geçirilmesi sağlanır.
 
-2- I1 ve 1lçe merkezlerindeki BCG aşilamalarına verem savagi gruplari (BCG epı gruplerı) kesinl1kle katılmayscaktir,
+ORTAK HÜKÜMLER
 
-Il ve 1lge merkezlerindeki agzlana 1gin gerekla sç1, enjektör veb. ihtiyaçlar sağlak müdurlukleri tarafından diğer agalarde olduğu gibi Temel Sağlık Hizmetleri Genel Müdurluğunden temin edilerek ilgil1 kuruluglaro dağıtılacaktzr Agılana pregranlarz da seğiąk nudurdüklerinin koordinsayon ve denetiminde olacaktır.
-
-### 39 -2-
-
-A- Saflik mudurlukleri, apzlanuda görer alacak pernenel eĞitimini veren unvag dispanserlerinče gerceklegtirecektir.
-
-3- Yoren suvarz Eruplara (UCG ng1 eruplara) PatlIk nUd! lori ile løbirliEi yaparak sadooe köylerde nęalwa yapacaktır. Bu dugların suzlena Için gerekii agı, enjektör vab. ihtiyaçlerı oakid olduže gibi Veren Savașı Dairo Bapkanlıkı tarafından kargılanaeairi
-
-6- Saflik ocaklars ve veren savag d1spanserlerinin JCG lama çalișmalari Lor 013 1lo d1Ber ariler Ilo birlikte Temel Bošl Hizmetlorı Genel Müdilelučuno yollanacak, verem savagı grupları цуг ları ise onkiden elduv cibi dečrudan Veren Savagı Daire Başkanlii bildirilecektir.
-
-Verem esTIgı dispanserleri ECG ag1 çalipmalarını sažl1 düellklerine bildirdikleri sibi avrien Verem Saveşı Daire Bagkanliš önderdikJeri Aylık Talıgna Raporu( ferm 21) de da göstereceklerd:
-
-Pe LIGI' do kayitlx Genolge yururlukten kaldırılmistir.
-
-Bilginizi ve ileililere emirlerinizi ries ederin.
-
-### DALND, GENELGE
-
-Feleg Üren
-
-### BAKAN ADINA
-
-Prgi, DriFerhan OZLEy
-
-Mustegar V.
-
-### DAĞITIM
-
-GoZetiL 1- 71 12 VB312181 2- Voren Cevagz Crupiar1
-
-d oC
-
-### BAĞLIK BAKANLIĞI
-
-Verem Sevaga Deire Bagkenlz81 Say1: 75. Saha H1em.8b/3220-475 ANKARA Konu: Protekol1er 19,6.2990
-
-### VALİLİĞİ
-
-(SefLIK "NUAUrIUEU)
-
-Ulke disayinde veren sararı galipmelerınz etkinlestirmak vo kurumlararesi 1gbirlifini raflanak amaczyle;
-
-1- Bakenliğımıs 1le Çalıena ve Sesyal Ouvenlik Bakanlařı uresinda 12.3.2984 vo d.6.1984'tor1blertide 1L1 protekot,
-
-P- Bekanližimas:1le M1111 Savunce BakeniLÈ2 eresinda 18e,
-
-### 2.7i 31.9.2982 terihindo
-
-2.20:26.22.1983 ter1binde (3%-A Protoke1)
-
-2.30 20.B.1987 tarihinde. (Ek-B Protokol) elmak Uzere } protokol Incelenmiptaro
-
-Jukarido perzlan 5 protokolun suretlor/ Ik' do vorilmio. Tiz.
-
-Vezen Baragı galzemalarina etkinlik kazandırmak anaciyla röz leneu přetokollerın dikkatle 1noelenerek titızlikle uyruląnmaai re uygulunada strulen aksaklıklar 1le. dežipiklik tnerilerinin Bekan- Išımir Veren Savags Dalre Bapkenlığına bildirilnesi Bereknektedir.
-
-BElgi ve gereĞini erE To rica ederim.
-
-### DALI GENELGE
-
-realun Dura HOCAN ADINA Prof, Dr. Ferhan ÖZMEN
-
-Musteger Vo EKLER: 4 Protoko2
-
-### MAČATE.
-
-Derth1: BIlel: I-7: I1 VAl121Ğ1 1- 11111 Sorunma Bakanlz8› I-Yerta Suraşı Gruplari 2- falipne ve Sooyul OUvenliL
-
-Pakan1z8z
-
-### 41 PROTOKOL
-
-Anzyaerarcin-56 no1 maddesinde, insan ve madde fikirde tesarruf ve verini artırarak, igbirližini parokleptá Tek anaoufla
-
-sağlik kuruluglarırı tek elden planlayıp hizmet vermesini düzenlcnek
-
-Devletin görevleri arasında sayılmiştır, ynı zananda Anayesamızın
-
-aynı maddesinde Devletin bu görevini kamu ve özel kenimlerdeki sağlır
-
-ve sesyal kurumlarından yararlanarak onlari denetleyerek yerine get-~ peği ifade edilmiptir. Bu onir buklin doğrulturunda Sažlik ve SoayaJ Yardım Bakanlıšı 1le Çalıpoa ve Sosyal Glvenlik Dakanlıžı aracında ; sažlık kuruluglarıne iliękin agağıdaki esaslar‹' çergevesinde bir 1pbirliği yapılması kararlaștırılmıştır,
-
-### A- SAĞLIK VE SOSYAL YARDIM BAKANLIĞININ SAĞLAYACAĞI HİZMETLER:
-
-1-Sağlık ve Seayal Yerdım Bakanlığının sağlık evi, sağlık Rerkes1 re cosklari; ana (rouk saglié1 ve alle planlamasi merkez re gubeleri ile dispanserleri ve verem'savag dispanserlerinde verilen her türlU sağlık hizmetlerinden Sonyal Sıgortalar Kurune bağlı 1gciler 1le bakmakla pütunlu bulundukları kimgéler toretaiz olarak yara anabileceklerdir
-
-Fastanelere serki gereken hasta 1goi veya bakmakla yükünli: oldukları kimseler e pirede Sosyal Sigortalar hastanesinin bulmim-rra1 halinde sažlık coağı reys Sosyal Sigortalar Kurmu dispanseri beki mi tarafından en yakın Devlet Hastanesine sevkedileceklerdir,
-
-2- Devlet' hastanelerine sevkedilen 1g01 veyg bekmakla yükünl!! eldukları kimselerin teghin ve tedavilerine iligkin iglemlerde kendi movzuat buklaleri uygulanır. Bu hukum uzun øure tedaviyl gerektiren rehabilitasyon ve benzeri tedaviler için de geçerlidir.
-
-### B~ ÇALIŞMA VE SOFYAL GUVENLİK BAKANLIĞININ SAÖLAYACAĞI HI ZITLER:
-
-. Devlet hobtaneni olmayıp S.S.K.hastanelerinin bulunduğu yerlerin hangieinde, S.S.l hastanelerinden, 1gc1 olmayan vatandagların intifade edeceği konusu bu S.S.K.histanelerinip imkanlari ve o yer nufusunun ihtiyaçları rozonunde bulundurülarak falięna ve Sovyel Cuvenlik ve Sağiık ve Sosyal Yardın Bakanlıkları tarafından ayrıoa tesbit' olunaraktır.
-
-### 801 2 100
-
-Bu tesbit Çeligna ve Sosyal CUvenlik ve Sağlik ve Sesyal intim Bakanlıkları Miletegerlerının Dagkanlığıadati bit kavul tereo wwdor yapilaçaktir.
-
-### C- MÜŞTEREK HİZMETLER:
-
-1- Bakanlikların synı yerde mevcut hastanelerí arasında teksik ve personal inkanlari bakımindan birbirlerini tamamlayiel ve dea- .cileylei Igbirliği 1ki hastene baghekimlerinee sağlanir.
-
-2- Aynı 1l veya 11ge merkezinde olmak kaydıyle gerek sağlık iwullurının oluşturulabilmesi ve gerekse e 1l veya ilçenin syni anda :201 dalda vzmon bekin bopluğu olmonaeı 1çin vemanlerın yillık izin- ¡cr-nín kullandırilmanı baghekimlerco temas ofilerek tesbit edilir "ø Halair,
-
-Ju pretokol Saklik ve Sosyal Yardım Bakanı ve Çalıgnu ve Senyal CUrenlik Hakaninou 1nzalendaktan sonra yUrurluge Kirer,12,}.198‹
-
-'Mehmet AYDIN Mustafa KALEMLI
-
-S3l1 ve Sosyal Yardım Çalışma ve Sosyal Güvenlik
-
-Bakanı Bakanı
-
-43
-
-### SAĞLIK VE SOSYAL YARDIN BAKANLIĞI İLE ÇALIŞLA VE SOSYAL GUVENLİK BAKANLIĞI ARAS INDA İNZALANAN 12.3.1984 TARİHLİ İŞBİRLIĞİ PROTOKOLUNA EK PROTOKOL AMAÇ:
-
-Ulke duzerinde veren sevagz galipmelarinz etkinlegtirmek v d1e1pline etnek 1gin sağlık hurum ve kuruluglari aresinde 1ợbirl1§1 arttırmak, ekolčer tuberkulozlu hastalara Verem Savegı dispanserlei nin denetimi altina almake
-
-### A- SAĞLIR VE SOSYAL YARDIK BAKANLIĞINA AİT YÜKUMLULUKLER
-
-1- Sesyal Sigortaler Kurumuna ait dispanser ve hastaneler : anlagmalz bekimleri tarafından tuberkuloz şüphesi 1le sevkedilen sı tala igoilerle bakmakla yukümll oldukları kimselerin tetkik ve tedr leri en yakın veren sávagı dlspanserlerinde yapalar.
-
-2- Sigortalı Igo1lerle bakmakle yukimlu oldukları kinseleri ilaçle korinnaya alınması gerekenler Varem Sivanı dispanserlerinde ruma ve takibe alınir.
-
-J- Sağlik ve Sesyal Yardın Bakanlığı'na ait verem savaşı dispanserlerinde görerli hekimler, SSK'nın talebi halinde, inza sir küleri gönderir.
-
-4- İşyeri hekimlerinin isyerlerinde periodik olarak (3-6 ay bir) yapaoskları semptom soruşturmalarında eUpheli bulunan sigörtal ipeiler, en yakın verem savagı dispanserlerinde muayene ve tetkik edilire
-
-5- SSYD, verem savegı dispanserlerine Kurun kokimlerinoe se: edilen, sigortalı ipeilerin beknekle yukünlu oldugu kimselerden viz te koßıda talep edilnez. Kimlik tesbiti bakımınden sağlık karneleri
-
-gösterilmeni yeterlidir.
-
-### B° ÇALIŞUA VE SOSYAL GUVENLİK BARANLIĞINA AİZ YÜKÜLLULUELER
-
-6- SSK bastaneleri, d'apanserleri ve anlagnali hekimleri SSK'ya ait verem dispanserlerinin bulunmadığą yerlerde güphe ettikleri veya IBO tanıaı koydukları kimseleri ılgili veren sıvagı dispanserlerine gönderir.
-
-7- SSK' de ait sanetoryun ve/veya göğüs hastaliklari hastanelerindo yatan tuberkuloz hastalarina taburou olurlerken, hapei diapansere bagvurmaleri gerektiği 1xah edilir ve duzenlenecek çakię raporlaribdan biri verilir. (akle raporunun bir kopyası da 1le1l1 verem sivayı dispanserine gönderilir.
-
-8- SSIB'na ait verem savag; dispanserlerinde yapilan muayene ve tetkik mrnuou; TEC teghis edilerek tédavisine karar verilenlerle korumaya alınması gerekenlere dispanser'bekimi bir defada bir aylık, ayakts tedavisi mumkun olan TEC dıgi akoičer hastalığı olanlara ise SSK'noa öngörülen miktarde 1leg yazmaya yetkili kılınır ve SSK'nca verilecek reçeteye yazilan ilaglar, dispanser bighekinince tastikini muteakip SSK eczaneleri ve SSK anlagneli eczenelerince kargılenir.
-
-9- Äyakta tedaviye alipan sigortali verem hactelarina SSYB. Veren Bavagi dispanseri hekimleri luzumu balinde Kuruma ait C-2010-g ve C- 2010-10 broek istirahat belgeleri 11e' 61r "defada en gok 10 gune kadar olmak Uzere istirahat verebilir, Luzumu halinde bunu bir def tekrarlayabilir.
-
-### ORTẠK HỰCUMLER
-
-10-Du protokol imza tarihinde yürurluğe girer
-
-6.6.2984
-
-Çeligme ve Sosyal GUvenlik Seğlak ve Sosyal Yardım Bakana
-
-Bakana Adıne
-
-Adına IMZA
-
-IMZA Kutlu SAVAS
-
-Dro Irtuğrl AlCOR
-
-MiA+OCRY
-
-### SAĞLIK VE SOSYAL YARDIN BAKANLIĞI İLE LILLI SAVUNLA BAKANLIĞI ARASIDA VEREM SAVAȘI İLE İICİLI İŞBİRLIĞİ
-
-Sağlık ve Sosyal Yerdım Bakanlığı ile Mil11 Savunma Bakar-
-
-liğı arasında verer savagında lobirližidi sağlarak Uzere agačıdaki pro.
-
-tokol düzenlenmigtir.
-
-### SAĞLIK VE SOSYAL YARDIN BAKANLIĞINA AİT YÜKUIGULURLER
-
-Madde-l Sağlık ve fosyal Yardın Bakanlığı, TUrk Silahlı Kuvvetleri E:
-
-Eğitim Birl1klerinće BCG akarı olmayanlara tuberkülin test1 yaparak ter-
-
-11 bulunanlara BCG ag1e1 tatbik eder. Kadde-2 Er Eğitim Birliklerinde önceden BOG ile egilanmig olanlars re".
-
-sinagyon BCG agası tatbik ederek vereme karçı korunalarını sačlar. Madde-3 Er Eğitin Birliklerinde röntgenle veren taramaları yaparak, ta- 'remade bulunan güpheli ve bastalari terbit edip tedarilerinin sağlamiel 1gin 1lg1l1 mercilere bildirir. Nadde-4 Askeri Hastanelerde yatarak tedavisini tamamlayan erlerin ayal ton tedavilerinin dpvamını sağlamak amacıyla bağlı bulundukları Veren Savag Diepahserler:ne gerekli talinatı verir. Madde-5 Daha önceden yerleri, süreleri ve eĞitin dönemleri belirlenni? olan Er Eğitim Merkezlerinde hangi vercm savaş ekibinin görevlendiril diğinin bir çizelge balinde M.S.B.1lgina bildirir.
-
-### MİLLİ SAVUNMA BAKANLIĞINA AİT YUKUNIULUKLER
-
-Nadde-6 Türk S1lablı Kuvvetleri Er Eğitim Merkezlerinin 181m, yer, re alrı leri ile eğitim dönemleriui bir çizelge halinde Sağlık ve Sosyal Yardim Bakanlığınu bildirir, Maddo-7 Er Eğitin Merkezi Komutanlıklarl; birliklerinde, veren tarana: Jonmak Uzere, Sağlık ve Scøyal Yurdım Bakanlığınca görovlendirilen ve: savag ekipleri ile temas kurarak, eğitin sUresi içinde butun erlerin ranadan geçirilneleríni takip ve temin eder, Ayrına her eğitim döneni ronunda bütün erlerin veren taramasından geçirildiğini, taranaden geg memig er bulunmadığını, hasta olanların kimlikleri ile sevkedilaiLlei Askeri Hantane Baştabipliklerini kopsayan bir raporu bağlı bulundukle Melik kanale fla p e n 1x-a - 1.
-
-Ladde-8 Lill1 Savunma Bakanlzğa'na baglı seğlzk kuruluşlarında Saš] Te Sosyal Xerdım Bakaalıžın'oe verem tedariai 1çin uygularan standa tedavi rejimleri aynen tatbik edilir. Madde-? Tedavi altına alınan tüberkülozlu bastalar Askcri Kastanele taburou edilmeden en az bir hafta evvel bağla, bulundukleri askerlik ai adreslerine doğil, ikamatgeb adreslerinin bulunduğu en yakın Ver Savag Dispanserine As Hastane Bagtabipliklerince bildirilerek tedav nin aksamadan devamı saglenir, (Verem Savag Dispanserleri lieteai e. dir. Ladde-10 Er EĞitim Birliklerinde dağitım yapılmadan önce erlerin ve 1lięiği ölmadığı nutlek nurette teobit edilirs Bu kanudaki yaz ve i ' Im er'in desaine kopuri L'adde-ll Mi1l1 Savunne Bükanlığı Er Eğitim Birlikleri dıgında Kitle taramalari Igin örel akip intenmemesi bususunda Askeri Birliklere de 11 talimats verdirir. Nadde-12 Askerlik Şubelerinden değrudan kıtalara gönderilen yukUmlu] (Yoklama kaçağı, bakaye, saklı dahil) sovkinden önce bulundukları bö] icli Verem Savag Dispanserine gönderilerek varen tıranasinden gegiri #i saglanir.
-
-### ORTAK HÜKUMLER
-
-lcide-13 Bu pretekol inze tarihinden itibaren yürürlüğe girer.
+Madde-13 Bu protokol imza tarihinden itibaren yürürlüğe girer.
 
 31.3.1982
 
-### MILLİ SAVUNMA BAKANLIĞI SAĞLIK VE SOSYAL YARDIM BAKA!
+MİLLİ SAVUNMA BAKANLIĞI
+İmza
+Nurhan AYDINALP
+Top. Tuğgeneral
+M.S.B. Sağ. ve Vet. D. Bşk.
 
-imza inze
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
+İmza
+Dr. Ertuğrul ACER
+Müsteşar Vekili
 
-Hurhan AYDINALP Dr. Ertuğrul AKER
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI İLE MİLLİ SAVUNMA BAKANLIĞI ARASINDA 31.3.1982 TARİHLİ VEREM SAVAŞI İLE İLGİLİ İŞBİRLİĞİ PROTOKOLU
 
-Top. Tuggeneral Müateger Vekil1
+EK- A PROTOKOL
 
-".S.B. Sağ. re Vet. D. Bgk.
+Sağlık ve Sosyal Yardım Bakanlığı ile Milli Savunma Bakanlığı arasında verem savaşında işbirliğini sağlamak üzere aşağıdaki protokol düzenlenmiştir.
 
-47
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞINA AİT YÜKÜMLÜLÜKLER
 
-### SAĞLIK, VE SOSYAL YARDIL BAKAHLIĞI İLE MİLLÍ SAVUNIA BAKANLIĞI ARASINDA 31.3.1982 TARİHLİ VEREN SAVAȘI İLE İLGİLİ İŞDİRLİĞİ PROTOKOLU EK~ A PROTOKOL
+Madde 1: Sağlık ve Sosyal Yardım Bakanlığı, Türk Silahlı Kuvvetleri dönemli er eğitim birliklerinde BCG aşısı olmayanlara tüberkülin testi yaparak menfi (10 mm den az) bulunanlara BCG aşısı tatbik eder. PPD 10 ve daha yüksek olanlara mikrofilm çekilir.
 
-Sağlık ve Sosyal Yardim Bakanlığı 1le M1111 Savunna Bakenlığ:
+Madde 2: Dönemli er eğitim birliklerinde önceden BCG ile aşılanmış olanlara PPD uygulanarak;
 
-arasında veren savașında lębirliğini sağlamak Uzere agağıdaki protokol.
+a) Negatiflere (6 mm.den az) revaksinasyon yapılır.
+b) Solunum sistemi semptomu bulunanlar PPD (-) (6 mm.den az) olsa bile ve PPD (+) lerden 20 mm ve daha yüksek reaksiyonlulara mikrofilm çekilir.
 
-düzenlenmiştir
+Madde 3: Dönemli er eğitim birliklerinde Madde 1 ve Madde 2'de belirtilen seçilmiş gruplarda mikrofilm tetkikleri yapılarak şüpheli bulunanların ileri tetkikleri en yakın Verem Savaş dispanserleri ve/veya askeri hastanelerde yapılarak hasta bulunanların tedavilerinin sağlanması için ilgili mercilere bildirilir.
 
-### SAĞLIK VE SOSYAL YARDIL BAKANLIĞINA AIT YUKUMLULUKLER*
+Madde 4: Askeri hastanelerden yatarak tedavisini tamamlayan erlerin ayaktan tedavilerinin devamını sağlamak amacıyla bağlı bulundukları Verem Savaş dispanserlerine gerekli talimatı verir.
 
-**Madde 1 –** Sağlik ve Sosyal Yardım Bakanlıği, Türk Silahla'Kuvvetlerf
+Madde 5: Daha önceden yerleri, süreleri ve eğitim dönemleri belirlenmiş olan er eğitim merkezlerinde hangi verem savaşı ekibinin görevlendirildiğini bir çizelge halinde Milli Savunma Bakanlığına bildirir.
 
-écemi er eğitim birliklerinde BCG skarı olmayenlara tuberkUlin testi
+MİLLİ SAVUNMA BAKANLIĞINA AİT YÜKÜMLÜLÜKLER
 
-yapařak menfi (10 mm den az) bulunanlara'BCG ag181 tatbik eder PFD
+Madde 6: Türk Silahlı Kuvvetleri er eğitim birliklerinin isim, yer ve eğitim dönemlerini bir çizelge halinde Sağlık ve Sosyal Yardım Bakanlığına bildirir.
 
-10 ve daha yüksek olanlara mikrofilm çeker:
+Madde 7: Er Eğitim Birliği Komutanlıkları, birliklerinde verem taraması yapmak üzere Sağlık ve Sosyal Yardım Bakanlığınca görevlendirilen verem savaşı ekipleri ile temas kurarak eğitim süresi içinde bütün erlerin protokolde belirtilen biçimlerde taramadan geçirilmelerini takip ve temin eder. Er eğitim birliklerinde uygulanacak verem taramasının eğitim dönemlerinin ilk ayları olan MART-TEMMUZ ve KASIM ayları içinde [?] planlanarak, tüberküloz şüphelilerinin en kısa zamanda [?] sevk edilip, tarama sonuçlarının 6 ay içinde EK-B formu ile [?] birliğinde bağlı bulunduğu Kuvvet Sağlık Daire Başkanlığı ve Milli Savunma Bakanlığına gönderir.
 
-**Madde 2 –** Acemi or eğitin birliklerinde Eneden B00 1le agilanmıg olan-
+Madde 8: Milli Savunma Bakanlığına bağlı sağlık kuruluşlarında Sağlık ve Sosyal Yardım Bakanlığı'na verem tedavisi için uygulanan standart tedavi rejimleri aynen tatbik edilir. Ayrıca Er Eğitim Komutanlıklarının [?] mikrofilm cihazı mevcut olduğunda bu cihazlarla mikrofilm taraması [?] Sağlık ve Sosyal Yardım Bakanlığı mikrofilm ekipleri işbirliği ile [?] yapılır.
 
-lara PPD uygulanarak:
+Madde 9: Tedavi altına alınan tüberkülozlu hastalar askeri hastanelerden taburcu edilirken hastane baştabipliğince EK-C formlar [?] eklenerek hastaların ikametgah adreslerinin bulunduğu en yakın verem savaş dispanserlerine hastanenin bağlı olduğu Kuvvet Sağlık Dairesi Başkanlığına ve Milli Savunma Bakanlığına birer kopya gönderilir.
 
-e) Negatiflere (6 mm.den az) revakainaeyon yapalir,
+Madde 10: Er eğitim birliklerinde dağıtım yapılmadan önce erlerin veremli olup olmadığı mutlaka tesbit edilir ve sonuç dosyalarına işlenir.
 
-b) Solunun sistemi semptomu bulunanlar PFD (-) ( 6 mm.dan az) olae bile ve PPD (+) lerden 20 mm ve daha yuksek reaksiyonlulare mikro- 11ln gek1l1r. ! Hadde 3: Aceni er oğitin birliklerinde Nadde 1 ve Madde 2'dé belirtilen seçilmig gruplarda mikrofilm tetkikleri yapılarak süpheli bulunanlarıa ileri tetkikleri en jakın veren davag dispanserlerinde veya søkeri hadtanelerde yapılarak hasta bulunanların tedavilerinin sağlanması için ilgili meroilere bildirilir,
+Madde 11: Milli Savunma Bakanlığı, Er Eğitim Birlikleri dışında kıt'a taramaları için özel ekip istenmemesi hususunda askeri birliklere gerekli talimatı verir.
 
-**Madde 4 –** Askeri hastanelerden yaterak tedavisini tamanlayan erlerin ayaktan tedavilerinin devamını sağlanak amacıyla bağlı bulunduklaśı veren savag dispanserlerine gerekli telimati verir.
+ORTAK HÜKÜMLER
 
-**Madde 5 –** Daha önceden yerleri süreleri ve eğitim dönemleri belirlenmig olan er eğitin merkezlerinde hangi veren savaşı ekibinin görevlendiril= diğini bir çizelge halinde Mill1 Savunma Bakanlığina bildirir,
+Madde 12: Bu protokol imza tarihinden itibaren yürürlüğe girer.
 
-m 2-
+MİLLİ SAVUNMA BAKANLIĞI
 
-### MİLLİ SAVUNSA BAKÄNLIĞÍNA ATT YUTÜLLULUKLER
+İmza
 
-Laüde 6: Turk Silahli Kuvvetlert er é}ltim birliklerinin 1eím, Je z'releri" ile'eặitim dönemlerini; bir fizelge halinde Sağlik ve Sc Yardim Bakanliğina bildirir,
+İsmail ÖZDEMİR
 
-**Madde 7 –** Er EĞitim Birl1ğ1 Komutanlıklarl, birliklerinde Veren Ec yaşmak Uzere Sağlık ve Sosyal Yardım Dękanlıčinca görevlendırıler davag2 ekipleri 1le temas kurarak eğitin duresi iginde butun erle protokolda bolirtilen segimlerle taramadan geçirilmelerini takip temin eder, ir éğitim; birliklerinde uygulanacak verem taramasınıt 11c vöoemlerinin 11k aylar plen MART-TELUZ ve KASIM aylara 1gin‹ pimebı planlararak, tuberkuloz güphelllerinin en kisa zemanda ha ye revk edilip, 'tarama sonuýlaranı o ay içinde EK-B formu 1le eg: birlidinin bužlı bulunduğu Kuvret Sağlık Daire Bagkanlzči ve Mil Savurma Balauligana gönderire Wcdě 6: M1124 Sevurme Bakanlıžina bažl2 sažlik kuruluglarında St ve Sooyal Yordım Dakanlıžehoa Veren tedaviet Igin hygulanan stan( Lodovi rejinleri aynen tatbik ed1?1r, lyr1oa Er IĚ1tim Komutanlil du mikrofilm oibazi vevout oldugunde bu oihazlarla mikrofllm tarı Selık ve Sonyel Yardio, DokenlÄ mikrofilm ekiplori 1ebirl181 1 M1722%
+Kd. Alb.
 
-ar tüberkuiozlu hastaler ackeri haste! Madde: 9: Tedari altina alinan ten tabercu edilirlerken hastene bagtabipl1žinoe EK-C formlar. tal edilerek hastaların ikametgah adreslerinin bulunduğu en yakin Ve: careşa dispanserlerine hastanenin bağlI olduğu Kuvvet Sağlık Dal: Anl:izha ve Nill1 Savunma Dakapliğiba birer kopya gönder1l1Fe tadde 10r Er eğitin birliklerinde dažitun yapılmadan önce erleri! verecle 1l1pizi. olmadila mutlak curette tespit edilir ve sonuç d tarına 1glenir..
+M.S.B. Sağ. ve Vet. D. Bşk.
 
-### 49
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
-Madde:11: M1121; Seruane Bakahlığ2, sr ef1tin Dirllklerl dspında kitl: teranalorz Için özel ekip 1stonmenesi busuruada eskeri birliklere gerekL1 telinatz, verdiriy
+İmza
 
-### ORTAK: HUKUMLER
+Dr. Erdoğan AKAR
 
-Laddo 12: Bu protokol Ipse tarihinden 1t1berea MricIUte Etre8p
+Müsteşar V.
 
-### MILLA SAVULMIA ALKANLIĞI SAĞLIK VE SOF I SARDIM BAKANLIĞI 1mza LAZA
+26.12.1983
 
-KatLE ÖZDEtR DI ErtUĞraI AKER
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI İLE MİLLİ SAVUNMA BAKANLIĞI ARASINDA 31.3.1982 TARİHLİ VE 26.12.1983 TARİHLİ VEREM SAVAŞI İLE İLGİLİ İŞBİRLİĞİ PROTOKOLÜ
 
-metega бо
+Ek- B PROTOKOL
 
-M.S B SAŽ TE VetoD. EFK. 86 202963:
+Sağlık ve Sosyal Yardım Bakanlığı ile Milli Savunma Bakanlığı arasında işbirliğini sağlamak üzere aşağıdaki protokol düzenlenmiştir.
 
-50 .
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞINA AİT YÜKÜMLÜLÜKLER
 
-### SAĞLI VE SCSYL YARDIK SEMIĞI İLE LILLİ SAVUNIA TALANLIĞI ARASIDA 31.3.1982 TARİHLİ VE 26.12.1983. TARIFLI VERAM SAVAȘI ILE TIGILI IŞDİRLIĞİ PROTOXOLU. EG- I PROZOIDZ
+Madde 1: Son yoklamaya tabi yükümlülerin Verem Savaşı Dispanserlerinde, son yoklama öncesi tüberküloz hastalığı yönünden her türlü tetkik ve kontrolünü yapar.
 
-Sağlık re Scayal Yerdın Sakanlıkı 1le inll1 Savunna Bakenlığı arasınde ipbirliğini seğlanak lzere eşačadaki protokol duzenlenmiştir.
+Son yoklamaya gelen yükümlülerden;
 
-### SAĞLIK VI SOSYAL YADIL BAKANLIĞINA AID : YthiNUWeR
+a) Eski BCG aşısı olmayanlara tüberkülin testi yapılarak tüberkülin testi menfi (10 mm.den az) bulunanlara BCG aşısı tatbik ederek, tüberkülin endürasyonu 10 mm. ve daha yüksek bulunanlara Verem Savaşı Dispanserlerinde mikrofilm ve ileri tetkiklerin yapılmasını,
 
-Lodde 1: Son yoklanaya tabi yukirlülerin Veren Savegı Dispanserlerinde, sen yoklara Öncesi tüberküloz hestalıšı yönünden her türlu tetkik vo постголиді уареї,
+b) Eski BCG aşısı olanlardan tüberkülin endürasyonu 20 mm. ve daha yüksek bulunanlara Verem Savaşı Dispanserlerinde mikrofilm ve ileri tetkiklerin yapılmasını,
 
-Sın yoklanaye gelen yürlnlulerden:
+c) Eski BCG aşısı olanlardan tüberkülin endürasyonu menfi (6 mm.den az) bulunanlardan, solunum sistemi ile ilgili (1 aydır non spesifik tedaviye rağmen geçmeyen öksürük, balgam tükürme, kanlı balgam çıkarma, ateş, gece terlemesi, kilo kaybı, vb.) semptomları olanların mikrofilm dahil her türlü ileri tetkiklerinin yapılmasını,
 
-a) Dakı BOG ekerı kinayanlara tüberkülin testi yapilarak tüberkü. Itn teat1 menf1 (.20 am,den es) bulunanlara BOG agiei tatbik ederek, ti berkilin onduraayozu 10 mo, ve duba yüksek bulunanlara Veren Savagı Diepanserlerinde mikrofiln ve ileri tetkiklérin yapılmasını,
+d) Eski BCG aşısı olanlardan tüberkülin endürasyonu menfi (6 mm. ve daha az), semptomsuz adaylara revaksinasyon yapılmasını,
 
-b) Dșk1 BOG'alari «leniardan tUberkUl{n _epdUracyonu 20 an. vo de) yüksek bulunanların Verem Savegı Dispanserlerinde mikrofilm Te iléri tı diklerinir yapılmasin2r
+e) Tüberkülin testi yapma ve okuma imkanının kısıtlı olduğu garnizonlarda er sayısına bakılarak 2 sene olanlara direkt BCG aşısı yapılmasını,
 
-o) Iski BCQ ekerı olanlardan tüberkulır enduzasyonu menfi ( 6 mun, den eu) bulunanlerden, solunum sistend 11e 116111 (2 aydir non spesifik tedaviye rešmen geçmeyeni skauruk, balgam tucurme, kanli bal. ran fikarba, atcy, gece terlemosi, kilo kaybo, ve.) semptomlara olanlara nitrofila dahil her türlu ileri tetkiklerinin yapılmasını,
+f) Semptomsuz adaylarda 1 ve 2 aşı olanlara PPD uygulanarak "G" şeklinde belirtildiği şekilde BCG aşısı yapılmasını, "C" çıktığında [?] gibi semptomlu olanların ise ileri tetkiklerinin yapılmasını,
 
-d) Eski BCQ ekera plerlerden tUberkülin endurasyonu nenf1 ( 6 m ve daha az), gemptorsuz edéylere reveksipasyon yapilmaelni,
+g) Son yoklamaya tabi yükümlülerin Verem Savaşı Dispanserlerinde, tüberküloz hastalığı yönünden incelenmesi esnasında yükümlülere yayılmalara meydan vermemek ve Verem Savaşı Dispanserlerinin rutin işlerini aksatmamak amacıyla askere sevk sırasında da bölgesindeki Askerlik Şubesi Başkanlıkları ile temasa geçerek sevke tabi yükümlülerin sevk tarihinden bir ay önce Verem Savaşı Dispanserlerine müracaatlarının sağlanmasında her türlü hazırlığı ve gerekli kolaylığı sağlar.
 
-:akaninin kieitl olduğu par
+Madde 2: Askerlik Şubelerine son yoklama için çağrılan yükümlülerin muayenede 1 de belirtilen tetkik ve kontrol süresinde ileri tetkik gerektiren (mikrofilm, standart film, balgam tetkiki v.s.) şüpheli adaylara ileri tetkiklerini yapar, kaydını alır, kodlar, hasta şüphelilerin Askerlik Şubesince askeri hastanelere sevkini izler, askeri hastanelere askere alınmayan (güçlüğe ayrılma, sevk tehiri vb.) durumlarda bu tür hasta veya hasta şüphelilerin takip ve tedavisini sağlar.
 
-e) Tuberkülin testi, yapma re vauma larda pinr sayıeıns bakılarak 2 sterı olanlara darekt BOG agıaı yapılmi 1102,
+Madde 3: Askerlik Şubelerine son yoklama için çağrılan yükümlülerin Verem Savaşı Dispanserlerinde tüberküloz yönünden sağlam veya hasta olduğuna mutlaka bir sağlık raporu hazırlanarak, bu raporun Askerlik Şubelerine gönderilmesini sağlar.
 
-1) Semptumoue oduylorde 1 ve 2 skar? olanlara PZD Nygulanarak "j" pakkında belirtzld1฿: pekilde ICG, uyio. yupzdnagad, "c" pıkkandn taču cibi semptomlu clonlerın tsc flerd tetkiklerinin yapalmasanı,
+Madde 4: Askerlik Şubelerinden doğrudan Acemi Er Eğitim Merkez ve Birliklerine sevk edilen veya dispanser kontrolünden geçmeden Acemi Er Eğitim Birliklerine sevk edilen yükümlülerle (yoklama kaçağı, bakaya, saklı vb. başka sebeplerle dahil) Acemi Er Eğitim Birliklerinde, kontrolden geçmediği kıt'a tabibince saptanan erlerin verem hastalığı bakımından incelenmesi için 1982-1983 yıllarında gönderilen genelgelerle yerleri belirtilen Gezici Röntgen Verem Tarama Ekipleri tarafından veya en yakın Verem Savaşı Dispanserlerinde ileri tetkiklerinin yapılmasını sağlar.
 
-### 51
+Madde 5: Askeri hastanelerde yatarak tedavisini tamamlayan erlerin terhislerinde ayaktan tedavilerini sağlamak amacıyla ikametgah adreslerine göre bağlı bulundukları Verem Savaşı Dispanserlerince takibini sağlar.
 
-tuberki ł baklase tanle unlanan Yeren aras pimer era,
+Madde 6: Mevcut Verem Savaşı Dispanserlerinin yerini gösteren liste ve daha önceden yerleri, süreleri ve eğitim dönemleri belirlenmiş olan Er Eğitim Merkezlerinde hangi verem savaş ekibinin görevlendirildiğini Milli Savunma Bakanlığına bildirir.
 
-oaoso2oda Täılnalera neydan vermemek ve Veren Savagı Dispanserlerinin rutin 1glerini akeatmanak anncıyla askere sevk sırasınåa da bölgesindeki Askerlik Şubesi Bagkanlıklnr2 ile temasa geçerek sevke tabi Jükunlulerin sevk taribinden bir ay brce Verem Savaşı Dispanserlerine mUracaatlarinin sağlanmasinda ber türlu bazzrlzži ve gerčkit kolaylıkı saklar.
+Madde 7: Acemi Er Eğitim Birliklerinde tetkik ve kontrol esasları madde 1 de belirtilen esaslar içinde yapılır. Dispanserlerin ve Gezici Röntgen Verem [?]
 
-**Madde 2 –** Askerlik Şubelerine son yeklana için pağırılan yukümlulerin mai de 1 de belirtilen tetkik ve kontrolu sırasında ileri tetkik gerektiren (mikrof1ln, standart film, balgan tetkiki V.6.) gUpholi adayların 1leri tetkiklerini yapar, kaydını alır, kodler, basta güphelilerin Askerlik Şubesinoe askeri hastanelere sevkini izler, sekeri hastahanelerce askere alınmayan ( çurüğe ayrılma, sevk tehiri vb.) durumlarda bu tlir hasta ve- Ja baste gupbelilerin talip ve todarieini pagler. kadde 3: Askerlik Şubelerine son yoklana 1çin çeğırılan yükumlulerin Verem Savaşı Dispanserlerinde tüberküloz yünunden sağlam veya hasta olsu mutlake bir bežlik raporu hazırlenarak, bu raporun Askerlik fubelerine gönderilmesini sagler. Hadde 4: Askerlik Şubelerinden doğrudan Aceni Er Eğitim Herkez ve Birliklerine sevk edilen veya dispanser kontrolünden germeden Acemt Er Eğitim Bırlıklerine sevk edilen yukümlulerle (yoklama kaçağı, bakaya, saklı vę bașka sebeplerle dahil) noemi Er Iğitim Birliklerinde, kontrolden géçtediğ1 kit'a tabibinre saptanen erlerin veren bastaliğı bakımınden inceler mesi 1çin 1982-1983 yillarinda
+MİLLİ SAVUNMA BAKANLIĞINA AİT YÜKÜMLÜLÜKLER
 
-gönderilen genelgelerle yerleri belirti-. len Gez1o1 Röntgen Veren Tarana Eklpler1 tarafından veya en Jakın Veren Savagi Dispanserlerinoe 1leri, tetkiklerinin yspılmasını sačler, Maddo 5: Askeri bastanelerde yatarak tedavisini tabanlayan arlerin terhislerinde ayaktan tedarilerini saglamak anacıyla ikametgah adroslerine göre bağlı bulundukları Verem Savaşı Dispanserleripce takibini soğlar,
+Madde 8: Milli Savunma Bakanlığı Askerlik Şubelerinin isim, yer ve hangi [?] bölgelerine hizmet verdiğini gösteren çizelgeleri Sağlık ve Sosyal Yardım Bakanlığına gönderir.
 
-**Madde 6 –** Mevcut Verem Savaşı Dipsoserlerinin yerini gösteren liste ve daha booeden yerleri, alreleri ve oğitin dönemleri belirlenmiø olan Er ' Eğitin Merkezlerinde hangi verem savaę ekibinin görevlendirildığini Mill: Savunma Bakanlığına bildirir. Wadde 7: Avemi Er Eğitim Birliklerínde tetkik ve kontrol esasları madde 1 de belirtilen esaslar içinde yapılır. Dispanserlerin ve Gezici löptgen
+Madde 9: Acemi Er Eğitim Merkez Komutanlıkları ile Eğitim Birlik Komutanlıklarının isim, yer ve eğitim süreleri ile eğitim dönemlerini bir çizelgede Sağlık ve Sosyal Yardım Bakanlığına gönderir.
 
-### ILLI SAVULA BAZATIĞINA AÎT TURUILULUKER
+Madde 10: Askerlik Şubelerince, son yoklamaya çağrılan yükümlülerin [?] bölgedeki Verem Savaşı Dispanserlerinde muayeneden geçirilmesini sağlamak amacıyla sevk tarihinden bir ay önce bölge Verem Savaşı Dispanserleri ile irtibata geçirilmesi ve koordinasyonun sağlanması için her türlü tedbir ve hazırlığı yapar.
 
-o 8: H1ll1 Savunce Intanlığı Askerlik Şubelerinin 18im, yer ve han cogin yerlerine hizmet verdiğini gösteren çizelgeleri Sağlık ve Sos. raio Bakarlağana görderír; 'iddo 9: Acemi Er Dftim lierkez Tomutaalikları 1le Fğitim Bir11k Kamut‹ Gerınan isio yer ve eğitim süreleri 1le eğitin dönemlerini bir çize. Zitde Sežlał Yo Sąszol Yardın Bekenliğina gönderir, såe 10: Ackerlik jubelerınce, son yoklamaya çağrılan yukümlülerin tu Akn bölgedeki Veric Savcen Dispanserlerinde muayeneden gegirilmesini
+Madde 11: Er Eğitim Merkez ve Birlik Komutanlıkları, Birliklerinde son yoklama esnasında verem taramasından geçmemiş erleri tespit ederek, bunların verem taramasını yaptırmak üzere Sağlık ve Sosyal Yardım Bakanlığınca görevlendirilen Verem Savaşı ekipleriyle temas kurar, eğitim süresi başlangıcında bu erlerin Sağlık ve Sosyal Yardım Bakanlığının belirttiği esaslar içinde taramalarını takip ve temin eder. Ayrıca, Er Eğitim Birliklerinde uygulanacak verem taramasının eğitim dönemlerinin ilk aylarında yapılmasını planlayarak, tüberküloz şüphelilerinin en kısa zamanda [?] sevk edilip tarama sonuçlarını o ay içinde EK: B formu ile Eğitim Birliğinin bağlı bulunduğu Kuvvet Sağlık Daire Başkanlığı ile Milli Savunma Bakanlığı Sağlık ve Veteriner Dairesi Başkanlığına gönderir.
 
--sălamal amaciyla sévk taribifen bir ay Unco bölge Verem Savaşı Dispa ser1 lle irtibata geșirilnesi ve doordineayonun sağlanması 1gin her tu ill tedbir Te baczritéz yapar. ligâde 11: Er Egitin L'erkez vo Birlik Komutanlaklori, Birliklerinde son votlona esnasinda varen toracagindan geçmemig erleri tespit ederck, bur ¿erin veren taramaşını yaptırmak Uzere Sağlık ve Sosyal Yardın Bakanlı ce görevlendirilen Veren Savagı ükipleriyle. temas kurar, eğitim aüreni baglangioinda bu erlerin Seflık ve Souyal Yerdım Dakanličının belirtti : sesler 1giude terapalarin tekip ve tenin eder. Ayrioa, Ir Eğitin Bir ILlerinde uygulańacak veren'taramasının ofitim dönemlerinin ilk aylar : yapılmagını pimnleyarak, tüberkUloz guphelilerinin en kısa zumanda
+Madde 12: Milli Savunma Bakanlığına bağlı sağlık kuruluşlarında Sağlık ve Sosyal Yardım Bakanlığınca verem tedavisi için uygulanan standart tedavi rejimleri aynen tatbik edilir. Ayrıca Er Eğitim Merkez ve Birlik Komutanlıklarında mikrofilm cihazı mevcut olduğunda, bu cihazlarla [?] taramaları Sağlık ve Sosyal Yardım Bakanlığı mikrofilm ekipleri ile [?] içinde yapılır.
 
--neye sevk edilip terena sonuçlarini o ay 1çinde IK: B formu ile Eğit irličinin bağlı ¡bulunduğu Lavvet Sağlık Daire Bagkanlığı 1le Mill1 Sa runma Bakaniığı Sašlik, re Veteriner Dairesi bagkanlığıne gönderir. adde 22: milli Savunma Bakanlığıne bağlı seğlık kuruluşlarınde Sağlık : Sosyal lerdın bazanliğınie verem tedavisi 1çin uygulanan standart t "1 rejinleri ayre: tatbik edilir, Ayrıca Br Eğitin Herkez ve Birlik mutanliklarande mikruílin :cihazi novçut olduğunde, bu cihazlarle mik
+Madde 13: Tedavi altına alınan tüberkülozlu hastalar askeri hastanelerde [?] taburcu edilirken hastane baştabipliğince EK: C formlar tanzim edilerek hastaların ikametgah adreslerinin bulunduğu en yakın Verem Savaşı [?] dispanserlerine, hastanenin bağlı bulunduğu Kuvvet Sağlık-Daire Başkanlığı ve Milli Savunma Bakanlığı Sağlık ve Veteriner Dairesi Başkanlığına gönderilir.
 
-m taramcları Sažlık ve Soryal Yardım Bekanlığı mikrofilm ekipleriy]
+Madde 14: Er Eğitim merkez ve Birliklerinde dağıtım yapılmadan önce, gerek son yoklama esnasında, gerek askeri hastane ve gerekse Acemi Er Eğitim Birliğinde iken yapılan verem taramasından sonra erlerin, veremliliği olmadığı, mutlak surette tespit edilir ve sonuç kıt'a sahibi [?]larına işlenir.
 
-irli[i iginde Jepalr,
+Madde 15: Milli Savunma Bakanlığı herhangi bir nedenle verem taramasından geçmeden Eğitim Merkez ve Birliklerine sevk edilenlerin dışında, kıt'a taramaları için özel ekip istenmemesi hususunda ilgili yerlere gerekli talimatı verir.
 
-Je 13: Tedavi Altin: alinan tuberkülozlu hastalar askeri burtanele:
+ORTAK HÜKÜMLER
 
-tuturcu edilisken hustauc bestabipliğínce Cl: C formlar tanzin edi
+Madde 16: Bu protokol imza tarihinden itibaren yürürlüğe girer.
 
-reztalarah ikaretmuh adreslerinin bulunduğu en yakan Veren Savaş:
+MİLLİ SAVUNMA BAKANLIĞI
 
-neerlerine, hratucenir bežla bulunduğu kuvvet sağlık-Daire bugkat
+İsmail ÇETİN
 
-su Ve Ml11 Savunno Fakanlıkz Saflak vo Veteriner Dairesi Iugkonl
+Tbp. Kd. Alb.
 
-aro gunderá di.
+M.S.B. Sağ. ve Vet. D. Bşk.
 
-### -4-
+İmza
 
-l¡adde 14- Er Eßitin merkez ve Birliklerinde dakitin yepılmadan önce; .gerek son yoklana esnasında, gerek askeri hastane ve gerekse Acemi Er Eğitim Birlišinde iken yapılan verem taramasından sonra erlerin, verco? 1l1giği olmadiği, mutlak surette tespit edilir ve sonuç kat'a pahoi c yalarina 1glenir.
+SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
-**Madde 15 –** Milli Savunma Bakanlığı herhangi bir nedenle veren taranasi! dan geçmeden Eğitin M'erkez ve Birliklerine sevk edilenlerin digında , kitle taramaları 1çin özel ekip istenmemesi hususunda 1lgill yerlere gerekli talimatı verir.
+Dr. Tandoğan TOKGÖZ
 
-### ORTAK HÜKÜMLER
+Müsteşar
 
-**Madde 16 –** Bu protokol imza tarihinden itibaren yürürlüğe girer.
-
-### MİLLİ SAVUNMA BAKANLIĞI
-
-### SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
-
-İsmail ÇETİN Dr. Aydoğan TOKGÖZ Tep. Kd Alb. MUstegar ".S.B.SaË.ve Vet.D. Bgk. 1mza
-
-imza
+İmza
