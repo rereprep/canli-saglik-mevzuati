@@ -518,21 +518,7 @@ A L T I N CI K I S IM Yapı İşlerinde Kullanılan Makina ve Teçhizatta Alına
 
 13 — Hareket sırasında alabora olmaması için kova sapı kenarında kilitli mandal kullanılacaktır.
 
-G E N E Ticaret Bakanlığından :
-
-Dışticaret İşlerine Dair Sirküler Anlaşmalar : 74/29 1974/75 dönemi Türkiye - S. S. C. B. Ticaret Protokoluna ek «A» listesinin 16 sıra numarasında kayıtlı 31.02.40 gümrük tarife ve istatistik pozisyonlu Amonyum sülfat için $ 2.335.000.— ve aynı listenin 17 sıra numarasında kayıtlı 31.03.33, 31.05.10,90 gümrük tarife ve istatistik pozis-
-
-I L Â N Tarsus 2. Asliye H u k uk Hâkimliğinden:
-
-1973/962 Davacı T. Genel Sigorta vekili Avukat Mehmet Zaloğlu tarafından davalı özdemir Şenay aleyhine açılan alacak davasının yapılan duruşma sında:
-
-Davalı adına çıkarılan davetiyede gösterilen adreste bulunmadığından bilâ ikmal İade edilmiş olup C. Savcılığınca yaptırılan tahkikatta da adresinin tespit edilemediğinden mahkemece Resmi Gazete'de ilânına duruşmanın 8/10/1974 günü saat 9.00 a talikine karar verilmiştir.
-
-Mezkûr gün ve saatte mahkemeye gelmediğiniz bir vekille kendi nizi temsil ettirmediğiniz takdirde davetiye yerine kaim olmak üzere ilân olunur. 12013 • —.
-
-Ankara Birinci Sulh Ceza Hâkimliğinden:
-
-E. N o: 1974/562 K. No : 1974/988 Tehlikeli vasıta kullanmak suçundan sanık Mehmet Kösel hakkında Mahkememizce verilen 15/7/1974 tarih ve aynı sayılı gıyabi hükmün adı geçenin adresinin bulunamaması sebebiyle tebliğ edilememiştir. Sanığın işbu ilân tarihinden itibaren b ir ay zarfında hükme karşı kanun yollarına başvurmadığı takdirde gıyabi hükmün ken- Gazete) 12 E Y L ÜL 1 9 74 14 — Gırgır vinci çalıştıran işçiye güvenlik kemeri, lâstik eldiven ve lâstik ayakkabı gibi uygun kişisel koruyucu araçlar verilecektir.
+14 — Gırgır vinci çalıştıran işçiye güvenlik kemeri, lâstik eldiven ve lâstik ayakkabı gibi uygun kişisel koruyucu araçlar verilecektir.
 
 15 — Gırgır vincin tabanda durduğu alanın ön yüzünde p a r m a klık (bariyer) şeklinde b ir kapısı bulunacak, diğer tarafları ise en az 90 santimetre yüksekliğinde b ir korkulukla çevrilmiş olacaktır.
 
@@ -551,9 +537,3 @@ Y E D İ N Cİ K I S IM Çeşitli Hükümler
 **Madde 140 –** 25 Ağustos 1971 günlü ve 1475 sayılı İş K a n u n u n un 74 üncü maddesine dayanılarak düzenlenen ve Danıştayca incelenen bu Tüzük hükümleri, Resmî Gazete ile yayımı gününde yürürlüğe girer.
 
 **Madde 141 –** Bu Tüzük hükümlerini Bakanlar K u r u lu yürütür.
-
-E L GGEE yonlu Üçlü süper fosfat, yalnız kompoze gübreler için $ 2.750.000.— lık ek kontenjan tahsis edilmiştir.
-
-D Ü Z E L T MEM E 31/8/1974 tarihli ve 14992 sayılı Resmî Gazete'de yayımlanan 7/8706 sayılı Bakanlar Kurulu Kararına ek kararın 5 inci maddesindeki «Sonucunda» kelimesi, «Konusunda» şeklinde düzeltilmiştir.
-
-N L AARR disine tebliğ edilerek kesinleşmiş sayılacağı ilân tebliğ yerine k a im olmak üzere ilânen tebliğ olunur. 12001 E. N o: 1974/621 K. N o: 1974/942 Tehlikeli vasıta kullanmak suçundan sanık Mehmet Yerlikaya hakkında Mahkememizce verilen 5/7/1974 tarih ve aynı sayılı gıyabi hükmün adı geçenin adresinin bulunamaması sebebiyle tebliğ edilememiştir. Sanığın işbu ilân tarihinden itibaren b ir ay zarfında hükme karşı kanun yollarına başvurmadığı takdirde gıyabi hükmün kendisine tebliğ edilerek kesinleşmiş sayılacağı ilân tebliğ yerine k a im olmak üzere ilânen tebliğ olunur. 12002 E. N o: 1974/436 K. N o: 1974/970 Söz atma suçundan sanık Cengiz Cavcav hakkında Mahkememizce verilen 10/7/1974 tarih ve aynı sayılı gıyabi hükmün adı geçenin adresinin bulunamaması sebebiyle tebliğ edilememiştir. Sanığın işbu ilân tarihinden itibaren b ir ay zarfında hükme karşı kanun yollarına başvurmadığı takdirde gıyabî hükmün kendisine tebliğ edilerek kesinleşmiş sayılacağı ilân tebliğ yerine k a im olmak üzere ilânen tebliğ olunur. UQ03

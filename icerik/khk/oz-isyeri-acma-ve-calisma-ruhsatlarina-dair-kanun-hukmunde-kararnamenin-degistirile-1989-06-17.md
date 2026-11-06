@@ -11,29 +11,47 @@ kaynak_url: "https://www.resmigazete.gov.tr/arsiv/20198.pdf"
 not: "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler."
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+kontrol_edildi: true
 ---
 
-İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun Kanun No. 3572 Kabul Tarihi : 14.6.1989
+İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun
 
-**Madde 1 –** Bu Kanunun amacı, sanayi, tarım ve diğer işyerleri ile her türlü işletmelere, işyeri açma ve çalışma ruhsatlarının verilmesi işlerinin basitleştirilmesi ve kolaylaştırılmışıdır.
+Kanun No. 3572　　　　　　　　　　　　　　　　　　　　　　　　 Kabul Tarihi : 14.6.1989
+
+**Madde 1 –** Bu Kanunun amacı, sanayi, tarım ve diğer işyerleri ile her türlü işletmelere, işyeri açma ve çalışma ruhsatlarının verilmesi işlerinin basitleştirilmesi ve kolaylaştırılmasıdır.
 
 **Madde 2 –** Bu Kanun hükümleri;
 
-a) 1593 sayılı Umumi Hıfzıssıhha Kanununun 268-275 inci maddeleri kapsamına giren 1 inci sınıf gayrisıhhi müesseselere, b) Nerede açılırsa açılsın, yakıcı, parlayıcı, patlayıcı ve tehlikeli maddelerle çalışılan işlerle oksijen L PG dolum ve depoları, bunlara ait dağıtım merkezleri, perakende satış yerleri, taşocakları, akaryakıt istasyonları ve benzeri yerlere, c) 2634 sayılı Turizmi Teşvik Kanunu kapsamına giren turizm işletmelerine, d) 2559 sayılı Polis Vazife ve Selahiyet Kanununun 7 nci maddesi ile aynı Kanuna 3233 sayılı Kanunla eklenen ek 8 inci madde kapsamına giren yerlere, Uygulanmaz.
+a) 1593 sayılı Umumi Hıfzıssıhha Kanununun 268-275 inci maddeleri kapsamına giren 1 inci sınıf gayrisıhhi müesseselere,
 
-**Madde 3 –** İşyeri Açma ve Çalışma Ruhsatını vermeye aşağıdaki merciler yetkilidir :
+b) Nerede açılırsa açılsın, yakıcı, parlayıcı, patlayıcı ve tehlikeli maddelerle çalışılan işlerle oksijen LPG dolum ve depoları, bunlara ait dağıtım merkezleri, perakende satış yerleri, taşocakları, akaryakıt istasyonları ve benzeri yerlere,
+
+c) 2634 sayılı Turizmi Teşvik Kanunu kapsamına giren turizm işletmelerine,
+
+d) 2559 sayılı Polis Vazife ve Selahiyet Kanununun 7 nci maddesi ile aynı Kanuna 3233 sayılı Kanunla eklenen ek 8 inci madde kapsamına giren yerlere,
+
+Uygulanmaz.
+
+**Madde 3 –** İşyeri Açma ve Çalışma Ruhsatını vermeye aşağıdaki merciler yetkilidir:
 
 a) Belediye hudutları ve mücavir alan dışında kalan tüm işyerleri ve işletmelere valilikler ve kaymakamlıklar.
 
 b) Belediye hudutları ile mücavir alan içinde kalan tüm işyerleri ve işletmelere belediyeler.
 
-Yasama Bölümü Sayfa : 1 Resmî Gazete Kodu : 170689 Resmî Gazete Fihristi 64. Sayfadadır.
+c) Belediye hudutları ve mücavir alan içinde kalan işyeri ve işletmelerden büyükşehir belediyesi olan yerlerde:
 
-c) Belediye hudutları ve mücavir alan içinde kalan işyeri ve işletmelerden büyükşehir belediyesi olan yerlerde; ca) 2 nci ve 3 üncü sınır gayrisıhhi müesseseler için büyükşehir belediye başkanlığı, cb) Sıhhi ve sair işletmeler için ise büyükşehir belediyesi içinde kalan diğer belediye başkanlıktan.
+ca) 2 nci ve 3 üncü sınıf gayrisıhhi müesseseler için büyükşehir belediye başkanlığı,
+
+cb) Sıhhi ve sair işletmeler için ise büyükşehir belediyesi içinde kalan diğer belediye başkanlıkları.
 
 **Madde 4 –** 3 üncü maddede belirtilen merciler, iznin verilmesi için yapılacak beyan ve incelemelerde aşağıda öngörülen genel kriterlere göre düzenlenecek yönetmeliği esas alırlar.
 
-a) İnsan sağlığına zarar vermemek, b) Çevre kirliliğine yol açmamak, c) Yangın, patlama, genel güvenlik, iş güvenliği, işçi sağlığı, trafik ve karayolları, imar, kat mülkiyeti ve doğanın korunması ile ilgili düzenlemelere aykırı davranmamak.
+a) İnsan sağlığına zarar vermemek,
+
+b) Çevre kirliliğine yol açmamak,
+
+c) Yangın, patlama, genel güvenlik, iş güvenliği, işçi sağlığı, trafik ve karayolları, imar, kat mülkiyeti ve doğanın korunması ile ilgili düzenlemelere aykırı davranmamak.
 
 **Madde 5 –** İşyeri veya işletme açmak isteyen; işin özelliğine göre 4 üncü maddede belirtilen yönetmelikte öngörülen kriterlere uygun olarak işyerini düzenledikten sonra başvuru formunu doldurarak 3 üncü maddede belirtilen mercie ibraz ederler.
 
@@ -47,9 +65,7 @@ Beyana göre tanzim edilen ruhsat müktesep hak doğurmaz.
 
 Ruhsat verilmesini takiben yapılacak kontrol ve denetimlerde, 4 üncü maddede belirtilen yönetmelikte öngörülen kriterlere aykırı beyan ve durumun tespiti halinde; verilmiş olan ruhsat, ilgili mevzuattaki hükümler çerçevesinde yetkili merci veya mülkî idare amirince iptal edilerek işyeri kapatılır ve ilgililer hakkında ayrıca işlem yapılır.
 
-İşyerlerinde işyeri açma ve çalışma ruhsatı ile maliye vergi levhası ve fiyat tarifesi dışında herhangi bir levha aşılamaz.
-
-Yasama Bölümü Sayfa : 2
+İşyerlerinde işyeri açma ve çalışma ruhsatı ile maliye vergi levhası ve fiyat tarifesi dışında herhangi bir levha asılamaz.
 
 **Geçici Madde 1 –** Bu Kanunun yürürlüğe girdiği tarihten önce işyeri açmak için ilgili mercie başvurmuş olanlardan isteyenler, bu Kanun hükümlerinden yararlanabilirler.
 
@@ -59,16 +75,4 @@ Yasama Bölümü Sayfa : 2
 
 **Madde 8 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-16/6/1989 18.1.1984 Tarihli ve 2972 Sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanuna Bir Ek Madde Eklenmesi Hakkında Kanun Kanun No. 3573 Kabul Tarihi : 14.6.1989
-
-**MADDE 1 –** 18.1.1984 tarihli ve 2972 sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi hakkında kanuna aşağıdaki ek madde eklenmiştir.
-
-**Ek Madde 1 –** Seçmen kütüğünde kaydı ve sandık listesinde oy kullanma yeterliliği bulunduğu halde, mahalli idareler genel ve ara seçimlerine meşru mazeretleri olmaksızın katılmayanlar ilçe seçim kurulu başkanı tarafından otuzbin lira para cezasıyla cezalandırılır. Bu karar kesindir.
-
-Yürürlük
-
-**MADDE 2 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
-
-Yürütme
-
-**MADDE 3 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür, 16/6/1989
+16/6/1989

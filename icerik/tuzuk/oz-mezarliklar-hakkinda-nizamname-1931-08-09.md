@@ -10,9 +10,15 @@ kaynak_url: "https://www.resmigazete.gov.tr/arsiv/1868.pdf"
 not: "Ek IV: Sağlıkla ilgili tüzükler."
 durum: "yürürlükte"
 ocr: true
+duzeltildi: true
+kontrol_edildi: true
 ---
 
-Belediye Mezarlıkları Nizamnamesi F a s ı l: 1 Mezarlıklar hakkında umumî hükümler
+# Belediye Mezarlıkları Nizamnamesi
+
+### Fasıl: 1
+
+*Mezarlıklar hakkında umumî hükümler*
 
 **Madde 1 –** Belediyeye devrolunan mezarlıklar iki kısımdır:
 
@@ -22,29 +28,19 @@ Bu vakıf mezarlıklara ait ne kadar mevkuf varidat ve akarat ve tenmiyesi meşr
 
 Bu varidat ve akarat ve nukut müstakil olmayıpta diğer vakıflar ile memzuç ise evkaftan belediyeye devrolunan sular hakkında 12 ağustos 1928 tarihli nizamnamedeki usul dairesinde evkafça hisse ayrılır ve belediyeye verilir.
 
-### C.
+2 - Metrûk ve sahipsiz mezarlıklar. Bu mezarlıklar dahi belediyeye intikal etmiştir.
 
-G a z e te Teşrinievvel 1336
-
-### TOS 1931
-
-### S A Y I: 1 8 68
-
-### ZAR
-
-R N A ME 2 - Metrûk ve sahipsiz mezarlıklar. Bu mezarlıklar dahi belediyeye intikal etmiştir.
-
-**Madde 2 –** Belediyeye devrolunmıyan fakat murakabesi ve ölü gömülmesi için ruhsat verilmesi belediyeye ait olan mezarlıklar üç kısımdır.
+**Madde 2 –** Belediyeye devrolunmayan fakat murakabesi ve ölü gömülmesi için ruhsat verilmesi belediyeye ait olan mezarlıklar üç kısımdır.
 
 1 - Tapu ile tasarruf olunan mezarlıklar.
 
 2 - Şahıslara ve ailelere ait hususî vakıf mezarlıklar.
 
-3- Cami harimlerindeki mezarlıklar. (Evkafa ait olan bu mezarlıklar bahçelerden başka bir şekilde kullanılamaz, ve başka maksatlar için kullanılmasına ruhsat verilemez.) Birinci ve ikinci maddelerde mezkûr mezarlıklar başka maksatlarda kullanılmak istenildiği vakit sahiplerinin belediyeye müracaat edip ruhsat almaları ve ruhsat aldıktan sonra belediyenin göstereceği şartlar altında kabirleri nakletmeleri mecburidir.
+3 - Cami harimlerindeki mezarlıklar. (Evkafa ait olan bu mezarlıklar bahçelerden başka bir şekilde kullanılamaz, ve başka maksatlar için kullanılmasına ruhsat verilemez.) Birinci ve ikinci maddelerde mezkûr mezarlıklar başka maksatlarda kullanılmak istenildiği vakit sahiplerinin belediyeye müracaat edip ruhsat almaları ve ruhsat aldıktan sonra belediyenin göstereceği şartlar altında kabirleri nakletmeleri mecburidir.
 
 Mezarlıkların başka maksatlar için ne zamandan itibaren kullanılabileceği sıhhiye memurları tarafından yapılacak tetkikat neticesinde verilecek rapora göre belediyece tayin olunur.
 
-**Madde 3 –** Belediyeye devrolanan mezarlıklar ile mezarlıklara vakfedilmiş binalar, akarlar, varidatlar, tenmiyesi meşrut akçeler hakkında belediyeler ile evkaf arasında bu nizamnamenin neşri tarihinden itibaren üç ay zarfında müştereken üç defter yapılır. Biri belediyede diğeri evkafta kalır, üçüncüsü tapuya verilir.
+**Madde 3 –** Belediyeye devrolunan mezarlıklar ile mezarlıklara vakfedilmiş binalar, akarlar, varidatlar, tenmiyesi meşrut akçeler hakkında belediyeler ile evkaf arasında bu nizamnamenin neşri tarihinden itibaren üç ay zarfında müştereken üç defter yapılır. Biri belediyede diğeri evkafta kalır, üçüncüsü tapuya verilir.
 
 Belediye reisinin tahriren müracaatı ve en büyük mülkiye memurunun havalesi üzerine tapu idaresi belediye namına gayri menkuller için tapu verir.
 
@@ -54,7 +50,7 @@ Belediye reisinin tahriren müracaatı ve en büyük mülkiye memurunun havalesi
 
 2 - Arsa haline konulmuş olan mezarlıklar 14 nisan 1930 tarihine kadar satılmamış ise belediyeye devrolunurlar.
 
-Sayıfa : 748 (Resmî 3 - Arsa haline konulmuş olan mezarlıklar üzerine bina yapılmış ise bina ve binaya merbutiyeti zarurî ve tabiî olan arsalar evkafa aittir.
+3 - Arsa haline konulmuş olan mezarlıklar üzerine bina yapılmış ise bina ve binaya merbutiyeti zarurî ve tabiî olan arsalar evkafa aittir.
 
 **Madde 5 –** Belediyece tesbit olunan umumî mezarlıktan başka yerlere ölü gömülmesi yasaktır.
 
@@ -62,9 +58,11 @@ Umumî Hıfzıssıhha Kanununun 211 ve 218 inci maddelerine göre yapılacak mua
 
 **Madde 6 –** Belediyelere devrolunan mezarlar ve mezarlıklardan tarihî kıymeti haiz olanlar Muhafazai Abidat Nizamnamesi mucibince muamele görür.
 
-Bu mezarlarda kalmış olan kemikler, alâkadarlaıı tarafından istenilirse onlara verilir. Alâkadarı yoksa belediye tarafından umumî mezarlıklara nakl ile muhafaza olunur.
+Bu mezarlarda kalmış olan kemikler, alâkadarları tarafından istenilirse onlara verilir. Alâkadarı yoksa belediye tarafından umumî mezarlıklara nakl ile muhafaza olunur.
 
-Fasıl: 2 Belediye mezarlıklarının tesis, tanzim ve tezyini
+### Fasıl: 2
+
+*Belediye mezarlıklarının tesis, tanzim ve tezyini*
 
 **Madde 7 –** Kanunen muayyen olan on sene müddet zarfında belediyeler ihtiyaca göre bir veya müteaddit mezarlık tesis ederek idare edeceklerdir.
 
@@ -96,21 +94,23 @@ E: Mezarlıklarda daimî surette bulunması lâzımgelen memurlar ve müstahdeml
 
 F: Mezarlar, mezarlıklardaki adacıklar içinde ve muntazam hatlar üzerinde sıralanacak ve mezarların müteselsil bir sıra numarası olacaktır.
 
-Gazete) 11 AĞUSTOS 1931 G: Mezarlık içerisinde açılacak en geniş yol ölü araba ve kamyonlarının serbestçe girip manevra yapmasına müsait olacak genişlikte bulunacaktır.
+G: Mezarlık içerisinde açılacak en geniş yol ölü araba ve kamyonlarının serbestçe girip manevra yapmasına müsait olacak genişlikte bulunacaktır.
 
 H: Mezarlığı şehre bağlıyan yol daima iyi bir halde muhafaza edilecektir.
 
-**Madde 12 –** Mezarlık dahilinde en geniş yolun ve ikinci derecede yolların iki tarafı agaçlanacaktır.
+**Madde 12 –** Mezarlık dahilinde en geniş yolun ve ikinci derecede yolların iki tarafı ağaçlanacaktır.
 
-IVadde 13 — Mezarlıklar, güneşin girmesine ve havanın ceryanına mâni olmayacak tarzda, servi gibi, mümkün mertebe yaz ve kış yeşil duran ve dalları yayvan olmıyan ağaçlarla ve mümkün olan yerlerde çiçeklerle tezyin edilecektir.
+**Madde 13 –** Mezarlıklar, güneşin girmesine ve havanın ceryanına mâni olmayacak tarzda, servi gibi, mümkün mertebe yaz ve kış yeşil duran ve dalları yayvan olmıyan ağaçlarla ve mümkün olan yerlerde çiçeklerle tezyin edilecektir.
 
 **Madde 14 –** Mümkün olan yerlerde mezarlık içerisine kadar borularla su getirilip çeşme yapılır. Mümkün olmıyan yerlerde mezarlıktan 100 metre uzakta kuyu açılarak su getirilir. Mezarlıklar içinde kuyu açılamaz.
 
-**Madde 15 –** Mezarlığın dahili daima temiz tutulacak, ottan, süprüntüden hali bulundurulacak ve yollan, parmaklıkları iyi halde muhafaza edilecektir. Mezar taşlarının kirlenmesine ve yosun tutmasına meydan bırakılmıyacaktır.
+**Madde 15 –** Mezarlığın dahili daima temiz tutulacak, ottan, süprüntüden hali bulundurulacak ve yolları, parmaklıkları iyi halde muhafaza edilecektir. Mezar taşlarının kirlenmesine ve yosun tutmasına meydan bırakılmıyacaktır.
 
-Fasıl: 3 Mezarlıkların inzibatı
+### Fasıl: 3
 
-**Madde 16 –** Mezarlıklar hakkındaki yasakların başlıcaları şulardır:
+*Mezarlıkların inzibatı*
+
+**Madde 16 –** Mezarlıklar hakkındaki yasakların başlıcaları şunlardır:
 
 A - Mezarları çeviren duvar, parmaklık, örgü, çerçeve ve saire gibi mânilere çıkmak ve tırmanmak, B - Mezarların üstüne çıkmak veya oturmak, her ne suretle olursa olsun bunları tahrip etmek, çiçek, fidan, ağaç veya herhangi bir nebatı koparmak veya sökmek, mezarlar üzerine konmuş eşya ve işaretleri kaldırmak; yerlerini değiştirmek, C - Mevcut yollar haricinde gezinmek, her ne suretle olunsa olsun ziyaretçilerin huzur ve sükûnunu ihlâl etmek, Ç - Mezarlıklara her ne suretle olursa olsun zarar vermek ve ölülere karşı hürmetsizlik gösterecek hareketlerde bulunmak, ( Bu gibi hareketlerde bulunanlar mezarlıktan çıkarılır.)
 
@@ -120,7 +120,9 @@ A - Mezarları çeviren duvar, parmaklık, örgü, çerçeve ve saire gibi mâni
 
 **Madde 19 –** Güneş battıktan sonra mezarlıklara hariçten kimse giremez ve vazifedarlar bile misafir kabul edemez.
 
-Fasıl: 4 Mezarlar
+### Fasıl: 4
+
+*Mezarlar*
 
 **Madde 20 –** Umumî mezarlıklar dahilindeki mezarlar üç sınıfa ayrılır:
 
@@ -134,19 +136,21 @@ Bu gibi mahallerin sahipleri ayrılan kısmın etrafını muntazam surette çevi
 
 B - İkinci sınıf mezarlar: Şahsa mahsus metfenlerdir.
 
-Bunlar belediyece tayin olunacak bir bedel mukabilinde daimî surette temin olunmuş mahallerdir. Sahipleri mezarın 9 AĞUSTOS 1931 (Resmî etrafında parmaklık yapmak, taş dikmek lahit yaptırmak hakkına malik olurlar. Bu gibi mahallerin eb'adı ( 3X1,50 ) = 4,50 metre murabbaıdır.
+Bunlar belediyece tayin olunacak bir bedel mukabilinde daimî surette temin olunmuş mahallerdir. Sahipleri mezarın etrafında parmaklık yapmak, taş dikmek lahit yaptırmak hakkına malik olurlar. Bu gibi mahallerin eb'adı ( 3X1,50 ) = 4,50 metre murabbaıdır.
 
 Her Belediye Meclisi satılacak birinci ve ikinci sınıf mezarlara ait bedeller hakkında bir tarife tanzim edecektir.
 
-C - Üçüncü sınıf mezarlar: Bu mezatlar paıasızdır ve mezarlıktaki adacıklar içerisinde evvelce tayin edilen muntazam bir sıra dahilinde birbirini takip eder ve ölüler sıra ile gömülür.
+C - Üçüncü sınıf mezarlar: Bu mezarlar parasızdır ve mezarlıktaki adacıklar içerisinde evvelce tayin edilen muntazam bir sıra dahilinde birbirini takip eder ve ölüler sıra ile gömülür.
 
 **Madde 21 –** Birinci sınıf mezarlar mezarlıkta en geniş yol üzerinde, ikinci sınıf mezarlar ikinci derecede yollar, üçüncü sınıf mezarlar da bunların haricindeki yollar üzerinde bulunur.
 
 **Madde 22 –** Üçüncü sınıf mezarlardaki cesetlerin kemik ve bakiyesi toprağın tabiatına göre sıhhiye memurlarının verecekleri raporlara istinat etmek ve beş seneden az olmamak üzere Belediye Meclisince tesbit edilecek bir müddet geçtikten sonra sureti mahsusada hazırlanan umumî bir mahalle nakil ve defnolunarak boş kalan mezara sıra geldiği zaman yeniden cenaze gömülebilir.
 
-Fasıl: 5 Mezarların tanzim, teçhiz ne tezyini
+### Fasıl: 5
 
-**Madde 23 –** Bir mezarın uzunluğu iki metre, eni seksen santimetre derinliği en az bir buçuk metre ve yedi yaşına kadar olan çocuklara mahsus olan mezarlar aynı ada içersinde bir metre uzunluğunda ve elli santimetre eninde olacaktır. İki mezarın yan yana aralığı ve baş ve ayak taraflarından birbirine mesafesi küçük ve muntazam bir yol teşkil etmek üzere 50 santimetredir.
+*Mezarların tanzim, teçhiz ve tezyini*
+
+**Madde 23 –** Bir mezarın uzunluğu iki metre, eni seksen santimetre derinliği en az bir buçuk metre ve yedi yaşına kadar olan çocuklara mahsus olan mezarlar aynı ada içerisinde bir metre uzunluğunda ve elli santimetre eninde olacaktır. İki mezarın yan yana aralığı ve baş ve ayak taraflarından birbirine mesafesi küçük ve muntazam bir yol teşkil etmek üzere 50 santimetredir.
 
 **Madde 24 –** Mezarlık dahilinde mezar sahipleri tarafından yapılacak lâhit, duvar parmaklık taştan ve saireden tezyinat ve tesisat ve her türlü inşaat belediyenin müsaade ve kontrolü altında cereyan edecek ve belediyece verilecek müsaade haricinde inşaat menedilecektir.
 
@@ -154,17 +158,19 @@ Fasıl: 5 Mezarların tanzim, teçhiz ne tezyini
 
 **Madde 26 –** Birinci ve ikinci sınıf mezar sahipleri sahip oldukları arazi sınırları haricinde merdiven, basamak veya bunlara benzer şeyler yapamazlar.
 
-Fasıl: 6 Gömme
+### Fasıl: 6
+
+*Gömme*
 
 **Madde 27 –** Ölülerin yıkattırılması, kefenlenmesi, mezarlığa kadar nakli ve gömülmesi Belediye Kanununun 15 inci maddesinin 5 inci fıkrası mucibince belediyeye aittir. Bu hususta lâzımgelen tesisat belediyelerce vücude getirilecektir.
 
 **Madde 28 –** Mezarlıklara sabahleyin saat sekizden akşam gün batıncaya kadar ölü gömülebilir. Mücbir sebepler olmadıkça bu kaideden inhiraf edilemez. Mücbir sebebin tayini belediye reisine aittir.
 
-**Madde 29 –** Umumî Hıfzıssıhha Kanunu hükümlerince salahiyettar kılınmış olan memurlar tarafından verilmiş gömme Gazete) Sayıfa •• 719 ruhsatiyesi alınmadıkça, mezarlığa ölü kabul edilemez ve gömülemez.
+**Madde 29 –** Umumî Hıfzıssıhha Kanunu hükümlerince salahiyettar kılınmış olan memurlar tarafından verilmiş gömme ruhsatiyesi alınmadıkça, mezarlığa ölü kabul edilemez ve gömülemez.
 
-**Madde 30 –** Tıbbı adliden ve sair resmî dairelerden gelen hüviyeti meçhul cesetle le ceset aksamının gömülmesinde dahi 29 uncu madde hükmü caridir.
+**Madde 30 –** Tıbbı adliden ve sair resmî dairelerden gelen hüviyeti meçhul cesetlerle ceset aksamının gömülmesinde dahi 29 uncu madde hükmü caridir.
 
-Madde 31 Her mezarlıkta oraya gömülen ölülerin kendilerinin ve babalarının isimlerini, şöhretlerini, yaşlarını ve ikamet ettikleri mahalleri ve vefat tarihlerini, mahallerini, sebeplerini ve hangi numaralı mezara gömüldüklerini gösterir bir defter tutulacak ve mezar numarası, gömme ruhsatiyesi de bu deftere yazılacaktır.
+**Madde 31 –** Her mezarlıkta oraya gömülen ölülerin kendilerinin ve babalarının isimlerini, şöhretlerini, yaşlarını ve ikamet ettikleri mahalleri ve vefat tarihlerini, mahallerini, sebeplerini ve hangi numaralı mezara gömüldüklerini gösterir bir defter tutulacak ve mezar numarası, gömme ruhsatiyesi de bu deftere yazılacaktır.
 
 **Madde 32 –** Ölülerin belediyece yıkanması ve kefenlenmesi ve mezarlığa kadar götürülmesi, mezar açılması ve kapanması için icap eden ücret tarifesi belediye meclisleri tarafından tanzim edilecektir. Cenaze sahipleri tabutunu ve kefenini verdikleri halde belediyece alınacak ücretlerden bunların bedelleri tenzil edilir.
 
@@ -176,18 +182,24 @@ Madde 31 Her mezarlıkta oraya gömülen ölülerin kendilerinin ve babalarını
 
 **Madde 36 –** Sahipli mezarlar üzerine taştan ve saireden tezyinat ve tesisat yapılması gömüldükten en az üç ay sonra olabilir.
 
-Fasıl: 7 Ziyaret
+### Fasıl: 7
 
-**Madde 37 –** Mezarlığa hangi gün ve saatlerde ziyaretçilerin kabul edileceği mahallî âdetlere göıe oranın belediyesi tarafından tayin ve ilân olunur. Bu ilânın mezarlık kapısı dışına asılması mecburidir.
+*Ziyaret*
 
-**Madde 38 –** Mezarlığı ziyaret edenlerin bu mevkiin ciheti tahsisi ile mütenasip bir hürmet ve nezaketle hareket etmeleri mecburidir. Münasebetsiz hareketlerde bulunanlar ve belediyelerce mezarlıklar kakkında tayin olunacak tenbihnamelere riayet etmiyenler derhal mezarlıktan çıkarılmakla beraber haklarında ahkâmı cezaiye tatbik olunur.
+**Madde 37 –** Mezarlığa hangi gün ve saatlerde ziyaretçilerin kabul edileceği mahallî âdetlere göre oranın belediyesi tarafından tayin ve ilân olunur. Bu ilânın mezarlık kapısı dışına asılması mecburidir.
 
-Fasıl: 8 Mezarlık, memur ve müstahdemleri
+**Madde 38 –** Mezarlığı ziyaret edenlerin bu mevkiin ciheti tahsisi ile mütenasip bir hürmet ve nezaketle hareket etmeleri mecburidir. Münasebetsiz hareketlerde bulunanlar ve belediyelerce mezarlıklar hakkında tayin olunacak tenbihnamelere riayet etmiyenler derhal mezarlıktan çıkarılmakla beraber haklarında ahkâmı cezaiye tatbik olunur.
+
+### Fasıl: 8
+
+*Mezarlık memur ve müstahdemleri*
 
 **Madde 39 –** Mezarlık idaresinin kadrosu ihtiyaca göre belediyelerce tanzim olunur ve her memur ve müstahdemin vazife ve salâhiyeti belediyelerce bir talimatname ile tayin kılınır.
 
 **Madde 40 –** Alelûmum mezarlar müstahdemininin gerek ölü sahiplerinden ve mezar inşa edecek müteahhitlerden vazifelerine teallûk eden hizmetler için her ne suretle olursa olsun bir bahşiş talep etmeleri kat'iyen memnudur.
 
-Madde 41 Şûrayı Devletçe görülmüş olan bu nizamname neşri tarihinden muteberdir.
+**Madde 41 –** Şûrayı Devletçe görülmüş olan bu nizamname neşri tarihinden muteberdir.
 
-**Madde 42 –** Bu nizamnamenin hükümlerinin icrsına Dahiliye ve Sıhhat ve İçtimaî Muavenet Vekilleri memurdur, 1/7/1931
+**Madde 42 –** Bu nizamnamenin hükümlerinin icrasına Dahiliye ve Sıhhat ve İçtimaî Muavenet Vekilleri memurdur.
+
+1/7/1931
