@@ -37,7 +37,10 @@ def on_bilgi_ayir(metin):
     metin = unicodedata.normalize("NFC", metin)
     if not metin.startswith("---\n"):
         return {}, metin
-    son = metin.index("\n---\n", 4)
+    son = metin.find("\n---\n", 4)
+    if son < 0:  # bozuk künye (kapanış çizgisi yok): yayını durdurma, künyesiz işle
+        print("UYARI: künye kapanışı yok", metin[4:120].splitlines()[:1], file=sys.stderr)
+        return {}, metin[4:]
     veri = {}
     for satir in metin[4:son].splitlines():
         if ":" in satir:
