@@ -38,7 +38,11 @@ For the control of vectors and pests of public health importance, Sixth edition,
 
 ### DAĞITIM:
 
-Gereği : Bilgi: 81 İl Valiliğine Türkiye Odalar ve Borsalar Birliği (İl Sağlık Müdürlüğü)
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+Bilgi:
+Türkiye Odalar ve Borsalar Birliği
 
 ---
 

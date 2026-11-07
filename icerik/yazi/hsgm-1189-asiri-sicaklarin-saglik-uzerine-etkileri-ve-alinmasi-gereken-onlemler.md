@@ -59,10 +59,10 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
-
+Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
+Bilgi:
 A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
 
 EK-1

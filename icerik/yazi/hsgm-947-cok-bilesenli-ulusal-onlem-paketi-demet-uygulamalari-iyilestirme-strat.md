@@ -51,16 +51,14 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğüne
-
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğüne
 Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
-
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
 Sağlığın Geliştirilmesi Genel Müdürlüğüne
-
 Kamu Hastaneleri Genel Müdürlüğüne
 
 Çankaya/Ankara 06800 Hemşire

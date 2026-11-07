@@ -36,8 +36,8 @@ Genel Müdür V.
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
 
-81 İl Valiliği Türkiye Odalar ve Borsalar Birliği Başkanlığı
-
-(İl Sağlık Müdürlüğü)
+Bilgi:
+Türkiye Odalar ve Borsalar Birliği Başkanlığı

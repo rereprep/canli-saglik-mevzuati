@@ -55,10 +55,12 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğüne)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğüne) Hazine ve Maliye Bakanlığına
-
-Sağlık Bilgi Sistemleri Genel Müdürlüğüne Hukuk Hizmetleri Genel Müdürlüğüne
-
-Strateji Geliştirme Başkanlığına Teftiş Kurulu Başkanlığına
+Bilgi:
+Hazine ve Maliye Bakanlığına
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
+Hukuk Hizmetleri Genel Müdürlüğüne
+Strateji Geliştirme Başkanlığına
+Teftiş Kurulu Başkanlığına

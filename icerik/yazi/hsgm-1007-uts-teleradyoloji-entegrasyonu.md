@@ -39,17 +39,12 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Bilgi Sistemleri Genel Müdürlüğüne (Telesağlık Ve Uygulama Geliştirme Daire
-
-Başkanlığı)
-
-Web Uygulaması İl Yöneticisi Kayıt Elemanı Teknisyen Hekim Bilişim Temsilcisi
-
-Çekim Odası
-
-İstem
+Bilgi:
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne (Telesağlık Ve Uygulama Geliştirme Daire Başkanlığı)
+Web Uygulaması İl Yöneticisi Kayıt Elemanı Teknisyen Hekim Bilişim Temsilcisi Çekim Odası İstem
 
 İstem Kabul X X X X
 

@@ -48,10 +48,10 @@ Genel Müdür
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğüne
-
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğüne
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
 Kamu Hastaneleri Genel Müdürlüğüne

@@ -61,17 +61,13 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Halk Sağlığı Genel Müdürlüğüne
-
--Aşı İle Önlenebilir Hastalıklar ve Bağışıklama Daire
-
-Başkanlığı
-
--Mikrobiyoloji Referans Laboratuvarı Ve Biyolojik
-
-Ürünler Daire Başkanlığı
+Bilgi:
+Halk Sağlığı Genel Müdürlüğüne
+Aşı İle Önlenebilir Hastalıklar ve Bağışıklama Daire Başkanlığı
+Mikrobiyoloji Referans Laboratuvarı Ve Biyolojik Ürünler Daire Başkanlığı
 
 -Tüberküloz Daire Başkanlığı
 

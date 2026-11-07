@@ -40,6 +40,8 @@ Bilgilerini ve konunun iliniz dâhilindeki Bakanlığımıza bağlı tüm sağl�
 
 ### DAĞITIM:
 
-Gereği: Bilgi :
+Gereği:
+81 İl Valiliğine
 
--81 İl Valiliğine - Teftiş Kurulu Başkanlığına
+Bilgi:
+Teftiş Kurulu Başkanlığına

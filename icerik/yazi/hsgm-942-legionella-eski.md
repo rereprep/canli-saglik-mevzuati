@@ -56,16 +56,12 @@ EK: Laboratuvar ve il dağılım Listesi (1 Sayfa)
 
 DAĞIT1M:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine
 
-81 İl Valiliğine Bulaşıcı Hastalıklar Kontrol Programları
-
-(Halk Sağlığı Müdürlüğü) Başkan Yardımcılığına
-
-Mikrobiyoloji Referans Laboratuvarları
-
-Daire Başkanlığına -
-
+Bilgi:
+Bulaşıcı Hastalıklar Kontrol Programları (Halk Sağlığı Müdürlüğü)
+Başkan Yardımcılığına Mikrobiyoloji Referans Laboratuvarları Daire Başkanlığına
 Halk Sağlığı Laboratuvarları Daire Başkanlığı
 
 Legionella Analizi Yapma Yetkisi Alan Halk Sağlığı Laboratuvarları m1-1 İstanbul-2 Istanbul-3 Ankara Antalya Bursa Diyarbakır Erzurum Kayseri Muğla İzmir Samsun

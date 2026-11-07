@@ -46,6 +46,12 @@ Prof. Dr. Necdet ÜNÜVAR Bakan a. Müsteşar
 
 ### DAĞITIM :
 
-Gereği: Bilgi: 81 İl Valiliğine Teftiş Kurulu Başkanlığına Hukuk Müşavirliğine Personel Genel Müdürlüğüne
+Gereği:
+81 İl Valiliğine
+
+Bilgi:
+Teftiş Kurulu Başkanlığına
+Hukuk Müşavirliğine
+Personel Genel Müdürlüğüne
 
 Atatürk Bulvarı No:65/5 06410 Sıhhiye/ANKARA Telefon: (0 312) 435 58 68/113 Faks: (0 312) 432 29 56 e-posta: aile@saglik.gov.tr Elektronik Ağ: www.saglik.gov.tr

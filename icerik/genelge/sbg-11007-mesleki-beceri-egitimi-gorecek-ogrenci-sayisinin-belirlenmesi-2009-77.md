@@ -48,8 +48,9 @@ Müsteşar
 
 ### DAĞITIM:
 
-Gereği: Bilgi:
+Gereği:
+A Planı
 
-A Planı Milli Eğitim Bakanlığı
-
+Bilgi:
+Milli Eğitim Bakanlığı
 Maliye Bakanlığı

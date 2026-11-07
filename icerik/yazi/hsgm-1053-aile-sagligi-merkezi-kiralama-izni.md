@@ -51,6 +51,8 @@ Ek: Cumhurbaşkanlığı ASM Kiralama İzin Yazısı (2 Sayfa)
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Strateji Geliştirme Başkanlığına
+Bilgi:
+Strateji Geliştirme Başkanlığına

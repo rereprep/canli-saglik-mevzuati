@@ -47,8 +47,9 @@ EK:
 
 DAĞITIM:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
 
-81 İl Valiliği (İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğü
-
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğü
 Kamu Hastaneleri Genel Müdürlüğü

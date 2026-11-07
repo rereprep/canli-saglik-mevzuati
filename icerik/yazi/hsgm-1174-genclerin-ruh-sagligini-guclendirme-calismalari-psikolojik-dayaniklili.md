@@ -43,8 +43,9 @@ Ek: Psikolojik Dayanıklılık Sunumu-2026
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Gençlik ve Spor Bakanlığına
-
+Bilgi:
+Gençlik ve Spor Bakanlığına
 Yüksek Öğretim Kurulu Başkanlığına

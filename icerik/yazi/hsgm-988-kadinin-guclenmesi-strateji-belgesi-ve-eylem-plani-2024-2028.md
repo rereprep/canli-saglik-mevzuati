@@ -51,8 +51,8 @@ Ek: Eğitim Sunumu
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Milli Savunma Bakanlığına (Askeri Sağlık Hizmetleri
-
-Genel Müdürlüğü)
+Bilgi:
+Milli Savunma Bakanlığına (Askeri Sağlık Hizmetleri Genel Müdürlüğü)

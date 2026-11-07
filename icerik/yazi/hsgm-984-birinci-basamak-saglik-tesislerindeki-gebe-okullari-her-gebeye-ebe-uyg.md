@@ -46,17 +46,13 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine Sağlığın Geliştirilmesi Genel Müdürlüğüne
+Bilgi:
+Sağlığın Geliştirilmesi Genel Müdürlüğüne
 
-(İl Sağlık Müdürlüğü)
-
-Çankaya/Ankara 06800
-
-1/2
-
-Kamu Hastaneleri Genel Müdürlüğüne
+Çankaya/Ankara 06800 1/2 Kamu Hastaneleri Genel Müdürlüğüne
 
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
 

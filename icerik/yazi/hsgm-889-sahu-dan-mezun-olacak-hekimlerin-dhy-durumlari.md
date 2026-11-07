@@ -45,6 +45,8 @@ Halk Sağlığı Genel Müdürü
 
 Ek: SAHU Genel Yazı Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (il Sağlık Müdürlüğü)
 
-81 İl Valiliğine (il Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğüne (Tescil Ve Denklik İşlemleri Dairesi Başkanlığı)
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğüne (Tescil Ve Denklik İşlemleri Dairesi Başkanlığı)

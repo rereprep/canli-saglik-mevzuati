@@ -43,10 +43,10 @@ Bakan
 
 ### DAĞITIM :
 
-Gereği: Bilgi :
+Gereği:
+81 İl Valiliğine
 
-- 81 İl Valiliği’ne - Teftiş Kurulu Başkanlığı’na
-
-- Hukuk Müşavirliği’ne
-
-- Strateji Geliştirme Başkanlığı’na
+Bilgi:
+Teftiş Kurulu Başkanlığı’na
+Hukuk Müşavirliği’ne
+Strateji Geliştirme Başkanlığı’na

@@ -37,10 +37,10 @@ Ek: Hatalı Veri Girişi Tespit Edilen Hastaneler, Branşlar ve Antibiyotikler
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğüne
-
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğüne
 Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
-
 Kamu Hastaneleri Genel Müdürlüğüne

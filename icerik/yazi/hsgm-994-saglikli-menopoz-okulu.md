@@ -57,10 +57,10 @@ Ek: Sağlık Bakanlığı Dosya Transfer Linki
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne
-
+Bilgi:
+Kamu Hastaneleri Genel Müdürlüğüne
 Sağlığın Geliştirilmesi Genel Müdürlüğüne
-
 Sağlık Hizmetleri Genel Müdürlüğüne

@@ -91,10 +91,10 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Yükseköğretim Kurulu Başkanlığına
-
+Bilgi:
+Yükseköğretim Kurulu Başkanlığına
 Kamu Hastaneleri Genel Müdürlüğüne
-
 Sağlık Hizmetleri Genel Müdürlüğüne

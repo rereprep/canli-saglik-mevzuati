@@ -56,7 +56,9 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
+Bilgi:
+A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
 

@@ -32,10 +32,10 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
 
-81 İl Valiliği Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
-(İl Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğüne
-
+Bilgi:
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
+Kamu Hastaneleri Genel Müdürlüğüne
 Sağlık Hizmetleri Genel Müdürlüğüne

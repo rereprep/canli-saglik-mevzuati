@@ -51,16 +51,13 @@ Haziran 2025
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Türkiye İlaç Ve Tıbbi Cihaz Kurumu
-
-Sağlık Hizmetleri Genel Müdürlüğü
-
+Bilgi:
+Türkiye İlaç Ve Tıbbi Cihaz Kurumu Sağlık Hizmetleri Genel Müdürlüğü
 Sağlığın Geliştirilmesi Genel Müdürlüğü
-
 Kamu Hastaneler Genel Müdürlüğü
-
 Sağlık Bilgi Sistemleri Genel Müdürlüğü
 
 Halk Sağlığı Genel Müdürlüğü

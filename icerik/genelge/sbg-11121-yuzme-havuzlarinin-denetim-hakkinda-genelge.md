@@ -84,13 +84,16 @@ Genel Müdür V.
 
 ### DAĞITIM:
 
-Gereği: Bilgi: 81 İl Valiliğine Kültür ve Turizm Bakanlığına
+Gereği:
+81 İl Valiliğine
 
+Bilgi:
+Kültür ve Turizm Bakanlığına
 Milli Eğitim Bakanlığına
-
 Türkiye Odalar ve Borsalar Birliği Başkanlığına
+Ulusal Havuz Enstitüsü Derneği Başkanlığına
 
-Ulusal Havuz Enstitüsü Derneği Başkanlığına Ek: 3 sayfa …./…./2008 Hukuk Müşaviri H. ġEN
+Ek: 3 sayfa …./…./2008 Hukuk Müşaviri H. ġEN
 
 ### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü EK-1
 

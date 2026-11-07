@@ -95,11 +95,11 @@ Kurum Başkan Yardımcısı
 
 DAĞITIM:
 
-Gereği: Bilgi:
+Gereği:
+81 Il Valiliğine
 
-81 Il Valiliğine Çevre Sağlığı Daire Başkanlığına
-
-(Halk Sağlığı Müdürlüğü)
+Bilgi:
+Çevre Sağlığı Daire Başkanlığına (Halk Sağlığı Müdürlüğü)
 
 AŞ. tılı bilgi için: THSK Tüketici ve Çalışan Güvenliği Başkan Yardımcılığı.
 

@@ -44,10 +44,11 @@ Ek: 3 sayfa
 
 ### DAĞITIM:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine
 
-81 İl Valiliğine Kültür ve Turizm Bakanlığına Milli Eğitim Bakanlığına
-
+Bilgi:
+Kültür ve Turizm Bakanlığına
+Milli Eğitim Bakanlığına
 Türkiye Odalar ve Borsalar Birliği Başkanlığına
-
 Ulusal Havuz Enstitüsü Derneği Başkanlığına

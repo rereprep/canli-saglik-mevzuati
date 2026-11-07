@@ -41,10 +41,10 @@ Ek: Yoğun Bakım Ünitelerinde Antibiyotik Kullanım Sürveyansı Yapılmayan H
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
-
+Bilgi:
+Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
 Sağlık Hizmetleri Genel Müdürlüğüne
-
 Kamu Hastaneleri Genel Müdürlüğüne

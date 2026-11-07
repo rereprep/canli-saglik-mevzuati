@@ -55,15 +55,17 @@ Müsteşar V.
 
 ### DAĞITIM:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine
 
-81 İl Valiliğine Refik Saydam Hıfzıssıhha Merkezi Başkanlığına
-
+Bilgi:
+Refik Saydam Hıfzıssıhha Merkezi Başkanlığına
 Performans Yönetimi ve Kalite Geliştirme Daire Başkanlığına
-
 Yükseköğretim Kurulu Başkanlığına
+Sağlık Bakanlığı
+Tedavi Hizmetleri Genel Müdürlüğü
 
-Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğü İrtibat: Hemşire R. GÜNEY
+İrtibat: Hemşire R. GÜNEY
 
 Hemşirelik Hizmetleri Daire Başkanlığı Tel: 0.312. 585 1489
 

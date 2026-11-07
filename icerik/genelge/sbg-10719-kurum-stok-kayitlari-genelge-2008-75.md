@@ -48,17 +48,14 @@ Bakan.a.
 
 ### DAĞITIM
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine
 
-81 İl Valiliğine Teftiş Kurulu Başkanlığına
-
+Bilgi:
+Teftiş Kurulu Başkanlığına
 Hukuk Müşavirliğine
-
 Tedavi Hizmetleri Genel Müdürlüğüne
-
-Temel Sağlık Hizmetleri Genel Müdürlüğüne
-
-.../.../2008 Şube Müd. :A.GAZİ
+Temel Sağlık Hizmetleri Genel Müdürlüğüne .../.../2008 Şube Müd. :A.GAZİ
 
 .../.../2008 Daire Bşk. :N. TEZCAN
 

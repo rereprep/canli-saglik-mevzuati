@@ -55,9 +55,9 @@ Kurum Başkan Yardımcısı
 
 DAGITIM:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine
 
-81 İl Valiliğine Çevre Sağlığı Daire Başkanlığına
-
-(Halk Sağlığı Müdürlüğü)
+Bilgi:
+Çevre Sağlığı Daire Başkanlığına (Halk Sağlığı Müdürlüğü)
 

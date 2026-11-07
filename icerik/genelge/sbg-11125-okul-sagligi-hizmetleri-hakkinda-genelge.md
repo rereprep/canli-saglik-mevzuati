@@ -66,10 +66,10 @@ Müsteşar
 
 ### DAĞITIM:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine Milli Eğitim Bakanlığına
-
-(İl Sağlık Müdürlüğü) Adalet Bakanlığına
-
+Bilgi:
+Milli Eğitim Bakanlığına
+Adalet Bakanlığına
 Tarım ve Köyişleri Bakanlığına

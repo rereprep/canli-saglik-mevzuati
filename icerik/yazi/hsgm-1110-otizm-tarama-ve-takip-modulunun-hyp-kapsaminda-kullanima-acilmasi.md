@@ -40,16 +40,14 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
 
-81 İl Valiliği (İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğü
-
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğü
 Sağlık Bilgi Sistemleri Genel Müdürlüğü
-
 Aile Hekimliği Eğitim ve İzleme Daire Başkanlığı
-
 Aile Hekimliği Uygulama ve Geliştirme Daire Başkanlığı
-
 Ruh Sağlığı Daire Başkanlığı
 
 Kronik Hastalıklar ve Yaşlı Sağlığı Daire Başkanlığı

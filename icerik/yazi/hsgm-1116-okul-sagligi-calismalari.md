@@ -62,6 +62,8 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Milli Eğitim Bakanlığına (Destek Hizmetler Genel Müdürlüğü)
+Bilgi:
+Milli Eğitim Bakanlığına (Destek Hizmetler Genel Müdürlüğü)

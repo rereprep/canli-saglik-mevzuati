@@ -45,10 +45,11 @@ Bakan Yardımcısı
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Teftiş Kurulu Başkanlığına
-
-Sağlık Bilgi Sistemleri Genel Müdürlüğüne Hukuk Hizmetleri Genel Müdürlüğüne
-
+Bilgi:
+Teftiş Kurulu Başkanlığına
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
+Hukuk Hizmetleri Genel Müdürlüğüne
 Strateji Geliştirme Başkanlığına

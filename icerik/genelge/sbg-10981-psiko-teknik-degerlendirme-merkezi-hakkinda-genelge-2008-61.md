@@ -63,6 +63,9 @@ Ek : 2 sayfa liste
 
 #### Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliği
 
-81 İl Valiliği Ulaştırma Bakanlığı Kara Ulaştırması Genel Müdürlüğü
+Bilgi:
+Ulaştırma Bakanlığı
+Kara Ulaştırması Genel Müdürlüğü

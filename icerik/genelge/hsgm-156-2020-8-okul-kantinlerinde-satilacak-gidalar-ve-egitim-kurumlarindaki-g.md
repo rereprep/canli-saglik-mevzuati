@@ -217,9 +217,10 @@ Bakan
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+A ve B Planı
 
-A ve B Planı Sağlık Bakanlığı
-
+Bilgi:
+Sağlık Bakanlığı
 Tarım ve Orman Bakanlığı
 

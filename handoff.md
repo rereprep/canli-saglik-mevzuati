@@ -38,6 +38,11 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## Bilinen eksikler / sonraki adımlar
 
+### 2026-11-07 — Gereği/Bilgi iki sütun düzeltmesi
+- Kaynak PDF'te yan yana duran "Gereği:" ve "Bilgi:" sütunları aktarımda tek satıra karışmıştı ("Gereği: Bilgi: 81 İl Valiliğine ... A PLANI ...").
+- ../.gerbil.py (önizleme; --yaz ile uygular): 100 belgede ayrı "Gereği:" ve "Bilgi:" bloklarına ayrıldı, Bilgi kurumları satır satır. Kalıba uymayan 20 belge değiştirilmedi.
+- site_uret.md_html ardışık Gereği/Bilgi bloklarını div.iki-sutun içinde yan yana gösterir (stil.css; dar ekranda alt alta). Paragraf başı girintisi: .metin > p:not([class]), p.madde.
+
 ### 2026-11-07 — Metin hizalama kuralı (commit b5f93f6)
 - site_uret.py: hizalar() + satirlara_bol(); md_html, duz_bloklar (Word/PDF) aynı kuralı kullanır. CSS: site/assets/stil.css (.h-orta, .h-sol, .h-sag, .sayi-satir, .imza).
 - Kural: kurum başlığı (T.C., ... Bakanlığı/Müdürlüğü) ve kısa büyük harfli satırlar ortada; Sayı/Konu/İlgi/Ek/Dağıtım/Gereği/Bilgi solda; Sayı satırındaki tarih sağda; tek başına tarih sağda; "arz/rica ederim" kapanışından sonraki kısa satırlar imza bloğu (sağda, kendi içinde ortalı); gövde iki yana yaslı. Sayı+Konu aynı satırdaysa ve imza ad+unvan tek satırdaysa bölünür.

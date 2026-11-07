@@ -51,16 +51,14 @@ Halk Sağlığı Genel Müdür V.
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Hukuk ve Mevzuat Daire Başkanlığına
-
+Bilgi:
+Hukuk ve Mevzuat Daire Başkanlığına
 Acil Sağlık Hizmetleri Genel Müdürlüğüne
-
 Hukuk Hizmetleri Genel Müdürlüğüne
-
 Kamu Hastaneleri Genel Müdürlüğüne
-
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
 
 Sağlık Hizmetleri Genel Müdürlüğüne

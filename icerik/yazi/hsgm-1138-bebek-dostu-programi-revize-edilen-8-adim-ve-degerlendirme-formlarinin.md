@@ -72,16 +72,12 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Halk Sağlığı Genel Müdürlüğü (Aile Hekimliği Eğitim ve İzleme Daire Başkanlığına)
-
-Halk Sağlığı Genel Müdürlüğüne
-
-(Aile Hekimliği Uygulama ve Geliştirme Daire
-
-Başkanlığı)
-
+Bilgi:
+Halk Sağlığı Genel Müdürlüğü (Aile Hekimliği Eğitim ve İzleme Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğüne (Aile Hekimliği Uygulama ve Geliştirme Daire Başkanlığı)
 Halk Sağlığı Genel Müdürlüğü
 
 (Birinci Basamak Sağlık Kuruluşları Planlama ve

@@ -333,14 +333,11 @@ Ek–5 / A – B : Yeni Açılacak Kurum Ödenek Talep Formları
 
 ### DAĞITIM
 
-Gereği : Bilgi:
+Gereği:
+A Planı
 
-A Planı T.B.M.M. Başkanlığı
-
-Yüksek Öğretim Kurumu Başbakanlık
-
-Sayıştay Başkanlığı
-
+Bilgi:
+T.B.M.M. Başkanlığı
+Yüksek Öğretim Kurumu Başbakanlık Sayıştay Başkanlığı
 Milli Savunma Bakanlığı
-
 Kamu İhale Kurumu

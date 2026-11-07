@@ -86,10 +86,11 @@ Bakan
 
 Dağıtım:
 
-Gereği Bilgi :
+Gereği:
+81 İl Valiliğine
 
-81 İl Valiliğine Teftiş Kurulu Başkanlığına
-
+Bilgi:
+Teftiş Kurulu Başkanlığına
 Hukuk Müşavirliğine
 
 ### EK- 1

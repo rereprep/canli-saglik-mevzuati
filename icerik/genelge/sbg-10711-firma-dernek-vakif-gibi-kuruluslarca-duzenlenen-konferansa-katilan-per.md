@@ -40,8 +40,9 @@ Müsteşar
 
 ### DAĞITIM :
 
-Gereği : Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
--81 İl Valiliğine (İl Sağlık Müdürlüğü) - Teftiş Kurulu Başkanlığına
-
-- Hukuk Müşavirliğine
+Bilgi:
+Teftiş Kurulu Başkanlığına
+Hukuk Müşavirliğine

@@ -41,10 +41,11 @@ Ek: Diğer Kişiler İçin Nüfus Puanına Esas Katsayılar (1 sayfa)
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğüne)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğüne) Hukuk Hizmetleri Genel Müdürlüğüne
-
-Sağlık Bilgi Sistemleri Genel Müdürlüğüne Teftiş Kurulu Başkanlığına
-
+Bilgi:
+Hukuk Hizmetleri Genel Müdürlüğüne
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
+Teftiş Kurulu Başkanlığına
 Strateji Geliştirme Başkanlığına

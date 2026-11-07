@@ -42,12 +42,12 @@ Ek: Gebe Okulu Eğitim Müfredatı (3 Sayfa)
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine Kamu Hastaneleri Genel Müdürlüğüne
-
-(İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğüne
-
+Bilgi:
+Kamu Hastaneleri Genel Müdürlüğüne
+Sağlık Hizmetleri Genel Müdürlüğüne
 Sağlığın Geliştirilmesi Genel Müdürlüğüne
 
 Çankaya/Ankara 06800

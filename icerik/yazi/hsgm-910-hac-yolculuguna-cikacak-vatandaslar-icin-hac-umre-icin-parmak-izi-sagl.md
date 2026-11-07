@@ -45,12 +45,11 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğüne)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğüne) Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
+Bilgi:
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
 Sağlık Hizmetleri Genel Müdürlüğüne
-
 Kamu Hastaneleri Genel Müdürlüğüne
-
 Diyanet İşleri Başkanlığına

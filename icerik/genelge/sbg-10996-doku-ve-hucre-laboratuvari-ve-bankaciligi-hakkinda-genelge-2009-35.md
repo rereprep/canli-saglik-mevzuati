@@ -49,10 +49,10 @@ Müsteşar
 
 #### Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliği
 
-81 İl Valiliği 1) Sanayi ve Ticaret Bakanlığı
-
+Bilgi:
+1) Sanayi ve Ticaret Bakanlığı
 2) Yüksek Öğretim Kurulu
-
 3) Başbakanlık Gümrük Müsteşarlığı

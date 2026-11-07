@@ -51,10 +51,10 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğüne
-
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğüne
 Kamu Hastaneleri Genel Müdürlüğüne
-
 Yükseköğretim Kurulu Başkanlığına

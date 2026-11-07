@@ -52,16 +52,11 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine Halk Sağlığı Genel Müdürlüğü
-
-(İl Sağlık Müdürlüğü) (Halk Sağlığı Referans Laboratuvarları Daire
-
-Başkanlığına)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Mikrobiyoloji Referans Laboratuvarı ve Biyolojik
+Bilgi:
+Halk Sağlığı Genel Müdürlüğü (Halk Sağlığı Referans Laboratuvarları Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğü (Mikrobiyoloji Referans Laboratuvarı ve Biyolojik
 
 Ürünler Daire Başkanlığına)

@@ -82,4 +82,13 @@ Müsteşar
 
 DAĞITIM:
 
-Gereği: Bilgi: 81 Il Valiligine Adalet Bakanlığına (di Sağlık Müdürluğü) Denetim Hizmetleri Başkanlığına YÖK Başkanlığına Maliye Bakanlığına Türkiye Kamu Hastaneleri Kurumu Başkanlığına Sosyal Güvenlik Kurumu Başkanlığına
+Gereği:
+81 Il Valiligine (di Sağlık Müdürluğü)
+
+Bilgi:
+Adalet Bakanlığına
+Denetim Hizmetleri Başkanlığına
+YÖK Başkanlığına
+Maliye Bakanlığına
+Türkiye Kamu Hastaneleri Kurumu Başkanlığına
+Sosyal Güvenlik Kurumu Başkanlığına

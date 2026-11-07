@@ -50,12 +50,8 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
-
-81 İl Valiliğine 81 İl Tarım ve Orman Müdürlüğüne
-
-(Belediyelere Dağıtımı Valiliklerce
-
-Gerçekleştirilecektir)
-
+Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+Bilgi:
+81 İl Tarım ve Orman Müdürlüğüne (Belediyelere Dağıtımı Valiliklerce Gerçekleştirilecektir) 81 İl Valiliğine

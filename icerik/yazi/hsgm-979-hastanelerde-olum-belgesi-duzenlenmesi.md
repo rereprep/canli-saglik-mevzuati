@@ -42,8 +42,9 @@ Bilgilerini ve gereğini rica ederim.
 
 DAĞITIM:
 
-Gereği: Bilgi:
-
-81 İl Valiliği (Kamu Hastaneleri Birliği Genel Sekreterliği) (Halk Sağlığı Müdürlüğü)
-
+Gereği:
 81 İl Valiliği (İl Sağlık Müdürlüğü)
+
+Bilgi:
+(Kamu Hastaneleri Birliği Genel Sekreterliği) (Halk Sağlığı Müdürlüğü)
+81 İl Valiliği

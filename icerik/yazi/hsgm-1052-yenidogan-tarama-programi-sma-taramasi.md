@@ -55,6 +55,8 @@ Ek: SMA Yeni Akış Şeması
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine Mikrobiyoloji Referans Laboratuvarı Ve Biyolojik (İl Sağlık Müdürlüğü) Ürünler Daire Başkanlığına
+Bilgi:
+Mikrobiyoloji Referans Laboratuvarı Ve Biyolojik Ürünler Daire Başkanlığına

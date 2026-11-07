@@ -54,8 +54,8 @@ Ek: Onay Yazısı
 
 DAĞITIM:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine Çevre Sağlığı Dairesi Başkanlığına
-
-(İl Sağlık Müdürlüğü)
+Bilgi:
+Çevre Sağlığı Dairesi Başkanlığına

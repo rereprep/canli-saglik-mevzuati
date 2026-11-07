@@ -34,14 +34,12 @@ Genel Müdür
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğüne
-
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğüne
 Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
-
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
 Kamu Hastaneleri Genel Müdürlüğüne
-
 Halk Sağlığı Genel Müdürlüğü (Mikrobiyoloji Referans Laboratuvarı ve Biyolojik Ürünler Daire Başkanlığına)

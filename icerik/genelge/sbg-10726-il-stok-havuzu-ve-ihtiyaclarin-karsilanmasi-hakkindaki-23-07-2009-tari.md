@@ -111,12 +111,11 @@ altında olan kurumlar listesi ( 7 Sayfa)
 
 ### DAĞITIM:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine
 
-81 İl Valiliğine Teftiş Kurulu Başkanlığına
-
+Bilgi:
+Teftiş Kurulu Başkanlığına
 İç Denetim Birimi Başkanlığına
-
 Tedavi Hizmetleri Genel Müdürlüğüne
-
 Temel Sağlık Hizmetleri Genel Müdürlüğüne

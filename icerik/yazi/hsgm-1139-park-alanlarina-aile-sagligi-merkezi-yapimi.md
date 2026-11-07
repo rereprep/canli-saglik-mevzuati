@@ -72,8 +72,9 @@ Ek: Çevre Şehircilik ve İklim Değişikliği Bakanlığı Görüş Yazısı
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Çevre, Şehircilik ve İklim Değişikliği Bakanlığına
-
+Bilgi:
+Çevre, Şehircilik ve İklim Değişikliği Bakanlığına
 Sağlık Yatırımları Genel Müdürlüğüne

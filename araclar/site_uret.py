@@ -488,6 +488,9 @@ def md_html(govde):
     # ardışık imza paragraflarını tek blokta topla
     html_metin = "\n".join(parcalar)
     html_metin = re.sub(r'((?:<p class="h-imza">.*?</p>\n?)+)', lambda m: '<div class="imza">' + m.group(1).replace(' class="h-imza"', '') + '</div>\n', html_metin)
+    # Gereği / Bilgi bloklarını PDF'teki gibi yan yana göster
+    html_metin = re.sub(r'(<p class="h-sol">(?:<strong>)?(?:Gereği|GEREĞİ)\s*:.*?</p>)\n(<p class="h-sol">(?:<strong>)?(?:Bilgi|BİLGİ)\s*:.*?</p>)',
+                        r'<div class="iki-sutun">\1\n\2</div>', html_metin)
     return html_metin
 
 

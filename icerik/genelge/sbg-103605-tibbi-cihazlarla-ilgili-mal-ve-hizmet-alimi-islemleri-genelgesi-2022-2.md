@@ -304,12 +304,14 @@ Ek-1/ A-B : Tıbbi Cihaz ve Tıbbi Hizmet Alımi Için Başvuru Formu Ek-2 : Tı
 
 ### DAGITIM
 
-Gereği : Bilgi: 81 Il Valiliği (Il Sağlık Müdürlüğü) Cumhurbaşkanhğı Yükseköğretim Kurulu Başkanlığı Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı
+Gereği:
+81 Il Valiliği (Il Sağlık Müdürlüğü)
 
+Bilgi:
+Cumhurbaşkanhğı Yükseköğretim Kurulu Başkanlığı
+Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı
 T.B.M.M. Başkanlığı
-
 Sayıştay Başkanlığı
-
 Kamu Ihale Kurumu Başkanlığı
 
 ### A Plan

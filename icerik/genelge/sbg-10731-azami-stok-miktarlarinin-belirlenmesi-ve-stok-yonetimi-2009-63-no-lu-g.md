@@ -88,15 +88,16 @@ Bilgilerinizi ve konunun iliniz dâhilindeki Bakanlığımıza bağlı tüm dön
 
 ### DAĞITIM:
 
-Gereği: Bilgi: 81 İl Valiliğine Teftiş Kurulu Başkanlığına
+Gereği:
+81 İl Valiliğine
 
+Bilgi:
+Teftiş Kurulu Başkanlığına
 İç Denetim Birimi Başkanlığına
-
 Tedavi Hizmetleri Genel Müdürlüğüne
+Temel Sağlık Hizmetleri Genel Müdürlüğüne
 
-Temel Sağlık Hizmetleri Genel Müdürlüğüne Ek.-1 Tüketim Malzemeleri Tablosu.(2 sayfa)
-
-2/2
+Ek.-1 Tüketim Malzemeleri Tablosu.(2 sayfa) 2/2
 
 ### TÜKETİM MALZEMELERİ STOK KODLARI STOK KALEMLERİ 150 İLK MADDE VE MALZEME HESABI
 

@@ -128,14 +128,13 @@ Değerlendirme Merkezleri Isim Listesi (Ek-6)
 
 ### ### DAĞITIM:
 
-Gereği: Bilgi: 81 İl Valiliği (II Sağlık Müdürlüğü) Kamu Hastaneleri Genel Müdürlüğü
+Gereği:
+81 İl Valiliği (II Sağlık Müdürlüğü)
 
+Bilgi:
+Kamu Hastaneleri Genel Müdürlüğü
 Halk Sağlığı Genel Müdürlüğü
-
-Yükseköğretim Kurumu
-
-Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü
-
+Yükseköğretim Kurumu Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü
 Sağlık Hizmetleri Genel Müdürlüğü Daire
 
 Başkanlıkları Sağlık Hizmetleri Genel Müdürlüğü Üniversiteler Mah. Dumlupınar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97

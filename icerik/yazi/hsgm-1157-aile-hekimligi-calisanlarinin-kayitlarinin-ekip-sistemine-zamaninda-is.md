@@ -37,6 +37,9 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Sağlık Bilgi Sistemleri Genel Müdürlüğüne Yönetim Hizmetleri Genel Müdürlüğüne
+Bilgi:
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
+Yönetim Hizmetleri Genel Müdürlüğüne

@@ -43,8 +43,8 @@ Halk Sağlığı Genel Müdür V.
 
 Dağıtım:
 
-Gereği: Bilgi:
-
+Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
+Bilgi:
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne

@@ -83,14 +83,13 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Strateji Geliştirme Başkanlığına
-
+Bilgi:
+Strateji Geliştirme Başkanlığına
 Kamu Hastaneleri Genel Müdürlüğüne
-
 Sağlığın Geliştirilmesi Genel Müdürlüğüne
-
 Sağlık Hizmetleri Genel Müdürlüğüne
 
 T.C.

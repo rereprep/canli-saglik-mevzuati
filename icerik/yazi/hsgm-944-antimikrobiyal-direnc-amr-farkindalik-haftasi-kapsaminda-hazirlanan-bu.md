@@ -49,16 +49,14 @@ Ek: Antimikrobiyal Direnç Farkındalık Bulmaca Kitabı
 
 Dağıtım:
 
-Gereği: Bilgi:
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
-
+Bilgi:
+Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına
 Sağlık Hizmetleri Genel Müdürlüğüne
-
 Kamu Hastaneleri Genel Müdürlüğüne
-
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
 Halk Sağlığı Genel Müdürlüğü
 
 (Mikrobiyoloji Referans Laboratuvarı ve Biyolojik
