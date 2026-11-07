@@ -1,0 +1,67 @@
+---
+id: "rg-2025-09-06-saglik-meslek-mensuplari-ile-saglik-hizmetlerinde-calisan-diger-meslek-mensuplar"
+baslik: "Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelikte Değişiklik Yapılması Hakkında Yönetmelik (06.09.2025)"
+tur: "yonetmelik"
+tarih: "2025-09-06"
+rg_tarih: "2025-09-06"
+rg_sayi: "33009"
+birim: "Sağlık Bakanlığı"
+konu: "2025 tarihli değişiklik metni (Resmî Gazete 06.09.2025, sayı 33009)."
+kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-106430/x.html"
+durum: "yürürlükte"
+---
+
+SAĞLIK MESLEK MENSUPLARI İLE SAĞLIK HİZMETLERİNDE ÇALIŞAN DİĞER MESLEK MENSUPLARININ İŞ VE GÖREV TANIMLARINA DAİR YÖNETMELİKTE DEĞİŞİKLİK YAPILMASI HAKKINDA YÖNETMELİK
+
+MADDE 1- 22/5/2014 tarihli ve 29007 sayılı Resmî Gazete’de yayımlanan Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmeliğin Ek-1/B’sinde yer alan “Anestezi teknisyeni/teknikeri” başlıklı bölümün (h) ve (ı) bentleri aşağıdaki şekilde yeniden düzenlenmiştir.
+“h) Anesteziyoloji ve reanimasyon uzmanı tabibin gözetimi ve sorumluluğunda; hastanın havayolu açıklığının sağlanması ile uygun enteral ve parenteral girişimlerle ilaç uygulama dahil anestezi işlemlerinin güvenli bir şekilde başlatılması, sürdürülmesi ve sonlandırılması için gerekenleri yapar.
+ı) Acil durumlarda yalnızca resüsitasyon amacıyla ilgili tabip sorumluluğunda hastanın havayolu açıklığını sağlar; anestezi amacıyla yapılan sedasyon uygulamaları dışında parenteral girişimleri yapar, hastaya gerekli ilaç ve sıvıları uygun enteral veya parenteral yol ile uygular.”
+
+MADDE 2- Aynı Yönetmeliğin Ek-1/B’sinde yer alan “Diş protez teknikeri” başlıklı bölümü başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+“Diş protez teknisyeni/teknikeri
+a) Protez iş ve işlemlerinde kullanılacak olan cihazların ve araçların kullanım öncesi kontrollerini yapar, düzenli aralıklar ile kalibrasyonlarının yapılmasını sağlar.
+b) Diş hekimince alınan ölçüye göre hastaya özel modelini hazırlar.
+c) Diş hekimince alınan ölçüler ile verilen talimatlara göre protezleri, ortodontik apareyleri, porselen işlemlerini ve protezlerin tamirini yapar.
+ç) Protez iş ve işlemlerinde kullanılan araç ve gereçlerin temizlik ve dezenfeksiyonunu yapar, cihazların günlük bakımını sağlar.
+d) Hekim tarafından alınan ölçünün ve hekim tarafından yapılan provanın ağız dışı işlemleri takibini yapar.”
+
+MADDE 3- Aynı Yönetmeliğin Ek-1/B’sinde yer alan “Mamografi teknikeri”, “Hemşire yardımcısı” ve “Ebe yardımcısı” başlıklı bölümleri yürürlükten kaldırılmıştır.
+
+MADDE 4- Aynı Yönetmeliğin Ek-1/B’sinde yer alan “Sağlık bakım teknisyeni” başlıklı bölümünün (c), (e), (f) ve (g) bentlerinde yer alan “Sağlık meslek” ibareleri “İlgili sağlık meslek” şeklinde değiştirilmiş ve aynı bölüme aşağıdaki bentler eklenmiştir.
+“j) Hastanın yatağını yapar, hasta odasının düzeninin ve temizliğinin yapılmasını sağlar.
+k) Hastanın kişisel bakım ve temizliği ile ilgili gereksinimlerinin karşılanmasına yardım eder.
+l) Hasta güvenliğinin sağlanmasına yardım eder.
+m) Yakını olmayan veya desteğe ihtiyaç duyan hastalara, İdarenin uygun görmesi halinde refakat eder.
+n) Yatak yarasını önlemeye yönelik koruyucu işlemlere yardım eder.
+o) Ölüm sonrası yapılması gereken bakımlara uygulanmasında yardım eder.
+ö) Yataktan kalkamayan veya kalkması uygun görülmeyen hastanın boşaltımına yardımcı olur.
+p) Hastanın idrar torbasını boşaltır veya değiştirir.
+r) İlgili sağlık meslek mensubunun talimatıyla hastadan steril olmayan idrar örneği ve dışkı örneği alır.
+s) Enfeksiyon hastalıklarından korunmak için enfeksiyon etkenleri ve bulaşma yollarını ayırt ederek enfeksiyon kontrol önlemlerini alır.
+ş) Tarama programlarının yürütülmesinde sağlık meslek mensubuna yardım eder.
+t) İdarenin ve eczacının uygun gördüğü ilaçları eczaneden teslim alarak birimlere ulaştırır ve yetkili sağlık personeline teslim eder.
+u) İlgili sağlık meslek mensubunun gözetimi altında ve yönlendirmesi ile bakım ve destek hizmetlerine yardımcı olur.”
+
+MADDE 5- Aynı Yönetmeliğin Ek-1/B’sine aşağıdaki bölüm eklenmiştir.
+“Nükleer tıp teknikeri
+a) Çekim öncesi Gama Kamera, SPECT, SPECT/BT, PET/BT, PET/MR, kemik dansitometre gibi nükleer tıp görüntüleme cihazlarının günlük kalite kontrol testlerini yapar.
+b) Gama kamerada enerji piki kontrolünü yapar.
+c) Doz kalibratörünün günlük kalite kontrolünü yapar.
+ç) Radyonüklid jeneratörlerinin [Teknesyum-99m (Tc-99m), Galyum-68 (Ga-68) vb.] süzümünü ve süzülen aktivitenin doz kalibratöründe ölçümünü yapar.
+d) Tanı ve tedavi amaçlı radyofarmasötikleri hazırlar, bağlanma verimlerini ölçer.
+e) Radyasyon dedektörleri ve alan monitörlerinin fiziksel ve işlevsel kontrollerini yapar.
+f) Çekim öncesi ve çekime hazırlık aşamasında yapılacak işlemler hakkında hastayı bilgilendirir ve hasta güvenliği ilkelerine uygun hareket eder.
+g) Nükleer tıp uzmanı gözetiminde hastaya radyofarmasötik enjeksiyonu yapar.
+ğ) Hastayı çekime hazırlar.
+h) Hastaya gama kamera, SPECT, SPECT/BT, PET/BT, PET/MR, kemik dansitometre gibi cihazlarla görüntüleme yapar.
+ı) Çekim bitiminde görüntüleri işler ve nükleer tıp uzmanının raporlamasına hazır hale getirir.
+i) Radyoaktif atıkları, atık yönetim mevzuatına ve radyasyon güvenliği kriterlerine uygun şekilde kaynağında ayrıştırır, muhafaza eder, denetler ve kayıtlarını tutar.
+j) Radyasyon güvenliği mevzuatına uygun çalışır, kişisel dozimetre kullanır ve kayıtlarını tutar.
+k) Cihazların rutin bakım, kalibrasyon ve performans kontrollerine katılır, uygunsuzluk durumlarını yetkili kişilere bildirir.
+l) Hekim talimatıyla çekim sonrası süreç hakkında hastaya bilgi verir, hastayı yönlendirir; raporun hazır olma süresine ilişkin bilgilendirme yapar.
+m) Nükleer tıp teknikeri, radyasyon güvenliği ve kalite kontrol süreçlerinde sağlık fizikçisi tarafından belirlenen plan ve talimatlar doğrultusunda günlük uygulamaları yerine getirir.”
+
+MADDE 6- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+MADDE 7- Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
