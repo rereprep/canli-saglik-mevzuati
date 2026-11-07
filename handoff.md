@@ -38,6 +38,10 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## Bilinen eksikler / sonraki adımlar
 
+### 2026-11-07 — Metin hizalama kuralı (commit b5f93f6)
+- site_uret.py: hizalar() + satirlara_bol(); md_html, duz_bloklar (Word/PDF) aynı kuralı kullanır. CSS: site/assets/stil.css (.h-orta, .h-sol, .h-sag, .sayi-satir, .imza).
+- Kural: kurum başlığı (T.C., ... Bakanlığı/Müdürlüğü) ve kısa büyük harfli satırlar ortada; Sayı/Konu/İlgi/Ek/Dağıtım/Gereği/Bilgi solda; Sayı satırındaki tarih sağda; tek başına tarih sağda; "arz/rica ederim" kapanışından sonraki kısa satırlar imza bloğu (sağda, kendi içinde ortalı); gövde iki yana yaslı. Sayı+Konu aynı satırdaysa ve imza ad+unvan tek satırdaysa bölünür.
+
 ### 2026-11-07 — 2000 öncesi değişiklik kanunları/KHK'lar (commit a26db9d)
 - Yöntem: ../.eski1.py (plan: ../arastirma/rg-deg/eski-plan.json, 156 kayıt) → ../.eski2.py (RG arşiv PDF'leri ../arastirma/rg-arsiv-eski/, "Kanun No"/"KHK/N" araması; 80/156 bulundu) → ../.eski3.py (icerik/<tur>/degistiren-*.md, ocr: true) → ../.eskiduz.py (başlık/gövde temizliği, RG tarihi sayfa başlığından).
 - khk-458 (yalnız içindekilerde geçiyordu), khk-574, kanun-3321 silindi. kanun-243 RG tarihi okunamadığı için boş.
