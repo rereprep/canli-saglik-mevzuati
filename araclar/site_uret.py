@@ -761,6 +761,7 @@ def word_uret(b, hedef):
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
             p.add_run(metin[0] + " ").bold = True
             p.add_run(metin[1])
+            p.paragraph_format.first_line_indent = Pt(28)
         elif tip == "dipnot":
             p = d.add_paragraph()
             r = p.add_run(metin)
@@ -778,6 +779,7 @@ def word_uret(b, hedef):
         else:
             p = d.add_paragraph(metin)
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            p.paragraph_format.first_line_indent = Pt(28)
     p = d.add_paragraph()
     r = p.add_run(f"Bu belge {SITE_ADI} sitesinden alınmıştır. Resmî metin için Resmî Gazete ve ilgili kurum yayını esas alınmalıdır.")
     r.italic = True
@@ -824,16 +826,17 @@ def pdf_uret(b, hedef):
     from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle, HRFlowable
 
     f = font_kaydet()
-    govde = ParagraphStyle("g", fontName=f, fontSize=10.5, leading=14, alignment=TA_JUSTIFY, spaceAfter=5)
-    baslik = ParagraphStyle("b", parent=govde, fontName=f + "-Kalin", fontSize=13, leading=17, alignment=TA_CENTER, spaceAfter=10)
-    ara = ParagraphStyle("a", parent=govde, fontName=f + "-Kalin", alignment=TA_CENTER, spaceBefore=6)
-    alt = ParagraphStyle("h4", parent=govde, fontName=f + "-Kalin", spaceAfter=1, spaceBefore=4)
-    dip = ParagraphStyle("d", parent=govde, fontSize=8, leading=10, textColor=colors.HexColor("#444444"))
-    kucuk = ParagraphStyle("k", parent=govde, fontSize=8.5, leading=11, alignment=0)
-    solst = ParagraphStyle("sol", parent=govde, alignment=0, spaceAfter=1)
-    ortast = ParagraphStyle("orta", parent=govde, alignment=TA_CENTER, spaceAfter=1)
-    sagst = ParagraphStyle("sag", parent=govde, alignment=2, spaceAfter=1)
-    imzast = ParagraphStyle("imza", parent=govde, alignment=TA_CENTER, leftIndent=9 * cm, spaceAfter=0)
+    duz = ParagraphStyle("g0", fontName=f, fontSize=10.5, leading=14, alignment=TA_JUSTIFY, spaceAfter=5)
+    govde = ParagraphStyle("g", parent=duz, firstLineIndent=28)
+    baslik = ParagraphStyle("b", parent=duz, fontName=f + "-Kalin", fontSize=13, leading=17, alignment=TA_CENTER, spaceAfter=10)
+    ara = ParagraphStyle("a", parent=duz, fontName=f + "-Kalin", alignment=TA_CENTER, spaceBefore=6)
+    alt = ParagraphStyle("h4", parent=duz, fontName=f + "-Kalin", spaceAfter=1, spaceBefore=4)
+    dip = ParagraphStyle("d", parent=duz, fontSize=8, leading=10, textColor=colors.HexColor("#444444"))
+    kucuk = ParagraphStyle("k", parent=duz, fontSize=8.5, leading=11, alignment=0)
+    solst = ParagraphStyle("sol", parent=duz, alignment=0, spaceAfter=1)
+    ortast = ParagraphStyle("orta", parent=duz, alignment=TA_CENTER, spaceAfter=1)
+    sagst = ParagraphStyle("sag", parent=duz, alignment=2, spaceAfter=1)
+    imzast = ParagraphStyle("imza", parent=duz, alignment=TA_CENTER, leftIndent=9 * cm, spaceAfter=0)
 
     def x(s):
         return html.escape(s, quote=False)
