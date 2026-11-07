@@ -56,6 +56,9 @@ table.liste th[aria-sort=descending]::after{content:" ▼";font-size:.75em}
 .metin .sayi-satir{display:flex;justify-content:space-between;gap:16px}
 .metin .imza{width:fit-content;max-width:60%;margin:22px 0 18px auto;text-align:center}
 .metin .imza p{margin:0}
+.metin .onay{width:fit-content;max-width:60%;margin:22px auto 18px 0;text-align:center}
+.metin .olur{width:fit-content;max-width:60%;margin:22px auto 18px;text-align:center}
+.metin .onay p,.metin .olur p{margin:0}
 .metin .iki-sutun{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:9px}
 .metin .iki-sutun p{margin:0}
 @media (max-width:640px){.metin .iki-sutun{grid-template-columns:1fr;gap:9px}}

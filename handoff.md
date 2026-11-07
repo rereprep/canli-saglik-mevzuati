@@ -38,6 +38,10 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## Bilinen eksikler / sonraki adımlar
 
+### 2026-11-07 — Olur yazılarında imza blokları
+- hizalar(): "Uygun görüşle arz (ve teklif) ederim" ile başlayan blok → onay (solda, kendi içinde ortalı); "OLUR/O L U R/Olur" satırı içeren blok → olur (ortada). Ardından gelen en çok 3 satırlık kısa bloklar (tarih, ad, unvan) aynı gruba katılır. Yazıyı yazanın imzası imza (sağda) olarak kalır. CSS .onay/.olur; Word ve PDF'te de ayrı hizalama.
+- Stil dosyası bağlantısına içerik özetli sürüm eki (stil.css?v=...) eklendi; stil değişince tarayıcı önbelleği yenilenir.
+
 ### 2026-11-07 — Yapışık başlık düzeltmesi
 - hsgm-1029 Sağlıklı Hayat Merkezleri Yönergesi PDF'e göre elle düzenlendi (bölüm başlıkları ##/###, madde başlıkları **koyu**, fıkra/bentler ayrı paragraf, "ifade eder." ayrıldı).
 - site_uret.bloklari_duzenle(): başlık satırına yapışık metni ayırır (290 belge, 763 blok etkileniyordu), MADDE'den hemen önceki ###/#### başlığı koyu madde başlığına çevirir, "# " → "## ". md_html ve duz_bloklar (Word/PDF) kullanır.

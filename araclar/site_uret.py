@@ -11,6 +11,8 @@ from pathlib import Path
 
 KOK = Path(__file__).resolve().parent.parent
 CIKTI = KOK / "_site"
+import hashlib as _hl
+STIL_SURUM = _hl.md5((KOK / "site" / "assets" / "stil.css").read_bytes()).hexdigest()[:8]
 SITE_ADI = "Canlı Sağlık Mevzuatı"
 
 TUR_ADLARI = {
@@ -420,7 +422,13 @@ def hizalar(bloklar):
         t = " ".join(satirlar)
         kisa = all(len(s) <= 75 for s in satirlar) and len(satirlar) <= 6
         h = None
-        if durum == "dagitim" and all(len(x) <= 120 for x in satirlar):
+        if kisa and re.match(r"(?i)^uygun görüşle (arz|arz ve teklif) ederim", satirlar[0]):
+            h = "onay"
+        elif kisa and any(re.fullmatch(r"O\s?L\s?U\s?R|Olur", x) for x in satirlar):
+            h = "olur"
+        elif durum in ("onay", "olur") and kisa and len(satirlar) <= 3 and len(t) <= 90 and not _SOL.match(t):
+            h = durum
+        elif durum == "dagitim" and all(len(x) <= 120 for x in satirlar):
             h = "sol"
         elif _SOL.match(t):
             h = "sol"
@@ -440,6 +448,10 @@ def hizalar(bloklar):
             if j >= 0 and sonuc[j] is None and len(_duz(bloklar[j])) <= 50 and not _KAPANIS.search(_duz(bloklar[j])):
                 sonuc[j] = "imza"
         if h != "sol" and durum == "dagitim":
+            durum = None
+        if h in ("onay", "olur"):
+            durum = h; sonuc.append(h); continue
+        if durum in ("onay", "olur"):
             durum = None
         if h is None:
             if len(t) > 120:
@@ -543,7 +555,8 @@ def md_html(govde):
         parcalar.append(f"<p{sinif}>" + "<br>".join(satir_html) + "</p>")
     # ardışık imza paragraflarını tek blokta topla
     html_metin = "\n".join(parcalar)
-    html_metin = re.sub(r'((?:<p class="h-imza">.*?</p>\n?)+)', lambda m: '<div class="imza">' + m.group(1).replace(' class="h-imza"', '') + '</div>\n', html_metin)
+    for sinif in ("imza", "onay", "olur"):
+        html_metin = re.sub(r'((?:<p class="h-%s">.*?</p>\n?)+)' % sinif, lambda m, c=sinif: f'<div class="{c}">' + m.group(1).replace(f' class="h-{c}"', '') + '</div>\n', html_metin)
     # Gereği / Bilgi bloklarını PDF'teki gibi yan yana göster
     html_metin = re.sub(r'(<p class="h-sol">(?:<strong>)?(?:Gereği|GEREĞİ)\s*:.*?</p>)\n(<p class="h-sol">(?:<strong>)?(?:Bilgi|BİLGİ)\s*:.*?</p>)',
                         r'<div class="iki-sutun">\1\n\2</div>', html_metin)
@@ -610,7 +623,7 @@ def sayfa(baslik, icerik, kok="", aciklama=""):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(baslik)} | {SITE_ADI}</title>
 <meta name="description" content="{e(aciklama or 'Sağlık mevzuatı: kanun, yönetmelik, yönerge, genelge ve Sağlık Bakanlığı yazışmaları')}">
-<link rel="stylesheet" href="{kok}assets/stil.css">
+<link rel="stylesheet" href="{kok}assets/stil.css?v={STIL_SURUM}">
 <link rel="icon" href="{kok}assets/simge.svg" type="image/svg+xml">
 </head>
 <body>
@@ -833,8 +846,8 @@ def word_uret(b, hedef):
             p.paragraph_format.space_after = Pt(0)
         elif tip.startswith("p-"):
             p = d.add_paragraph(metin)
-            p.alignment = {"p-orta": WD_ALIGN_PARAGRAPH.CENTER, "p-sag": WD_ALIGN_PARAGRAPH.RIGHT, "p-imza": WD_ALIGN_PARAGRAPH.RIGHT}.get(tip, WD_ALIGN_PARAGRAPH.LEFT)
-            p.paragraph_format.space_after = Pt(0) if tip in ("p-sol", "p-imza", "p-orta") else p.paragraph_format.space_after
+            p.alignment = {"p-orta": WD_ALIGN_PARAGRAPH.CENTER, "p-sag": WD_ALIGN_PARAGRAPH.RIGHT, "p-imza": WD_ALIGN_PARAGRAPH.RIGHT, "p-olur": WD_ALIGN_PARAGRAPH.CENTER}.get(tip, WD_ALIGN_PARAGRAPH.LEFT)
+            p.paragraph_format.space_after = Pt(0) if tip in ("p-sol", "p-imza", "p-orta", "p-onay", "p-olur") else p.paragraph_format.space_after
         else:
             p = d.add_paragraph()
             word_ekle(p, metin)
@@ -902,6 +915,8 @@ def pdf_uret(b, hedef):
     ortast = ParagraphStyle("orta", parent=duz, alignment=TA_CENTER, spaceAfter=1)
     sagst = ParagraphStyle("sag", parent=duz, alignment=2, spaceAfter=1)
     imzast = ParagraphStyle("imza", parent=duz, alignment=TA_CENTER, leftIndent=9 * cm, spaceAfter=0)
+    onayst = ParagraphStyle("onay", parent=duz, alignment=TA_CENTER, rightIndent=9 * cm, spaceAfter=0)
+    olurst = ParagraphStyle("olur", parent=duz, alignment=TA_CENTER, spaceAfter=0)
 
     def x(s):
         return html.escape(s, quote=False)
@@ -914,7 +929,8 @@ def pdf_uret(b, hedef):
     akis += [t, Spacer(1, 10)]
     onceki = None
     for tip, metin in duz_bloklar(b["govde"]):
-        if (tip == "p-imza") != (onceki == "p-imza") and onceki is not None:
+        IMZALAR = ("p-imza", "p-onay", "p-olur")
+        if onceki is not None and (tip in IMZALAR or onceki in IMZALAR) and tip != onceki:
             akis.append(Spacer(1, 12))
         onceki = tip
         if tip == "hr":
@@ -932,7 +948,7 @@ def pdf_uret(b, hedef):
             st.setStyle(TableStyle([("LEFTPADDING", (0, 0), (-1, -1), 0), ("RIGHTPADDING", (0, 0), (-1, -1), 0), ("TOPPADDING", (0, 0), (-1, -1), 0), ("BOTTOMPADDING", (0, 0), (-1, -1), 0)]))
             akis.append(st)
         elif tip.startswith("p-"):
-            akis.append(Paragraph(x(metin), {"p-orta": ortast, "p-sag": sagst, "p-imza": imzast}.get(tip, solst)))
+            akis.append(Paragraph(x(metin), {"p-orta": ortast, "p-sag": sagst, "p-imza": imzast, "p-onay": onayst, "p-olur": olurst}.get(tip, solst)))
         else:
             akis.append(Paragraph(pdf_bicim(metin), govde))
 
