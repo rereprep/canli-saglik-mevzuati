@@ -88,7 +88,7 @@ iv) Yerinde yapılmış taramalar hemen takip eden günde Verem Savaş Dispanser
 
 Bilgilerinizi ve Genelge hükümlerinin titizlikle uygulanması hususunda gereğini önemle rica ederim.
 
-Prof. Dr. Necdet ÜNÜVAR
+**Prof. Dr.** Necdet ÜNÜVAR
 
 Bakan a.
 

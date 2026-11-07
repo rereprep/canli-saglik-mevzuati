@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.10. Yabancı Uyruklu Asistanlara Yapılacak Ek Ödeme Hakkında Genelge (2014/03)
+**7.3.10. Yabancı Uyruklu Asistanlara Yapılacak Ek Ödeme Hakkında** Genelge (2014/03)
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -24,14 +24,14 @@ TÜRKİYE KAMU HASTANELERİ KURUMU
 Sayı : 49022165-010.99 /
 Konu : Yabancı Uyruklu Asistanlara Yapılacak Ödeme Hakkında
 
-GENELGE
-2014/03
+**GENELGE**
+**2014/03**
 
 İlgi : 06/07/2005 tarihli ve B.10.0.APK.0.00.00.00/4218 (3899) sayılı 2005/105 No'lu Genelge.
 
 Bilindiği üzere, 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun'un 3 üncü maddesinde Bakanlığın, eğitim ve araştırma hastanelerinde uzmanlık eğitimi yapmakta olan yabancı uyruklu asistanlara döner sermaye gelirlerinden 500 YTL'ye kadar ödeme yapılması hususunda döner sermaye işletmelerine yetki vermeye mezun olduğu hüküm altına alınmış ve ilgide kayıtlı Genelge ile söz konusu Kanun hükmüne istinaden ayrıntılı açıklamalara yer verilmiş idi.
 
-Diğer taraftan, 02/01/2014 tarihli ve 6514 sayılı "Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun" 18/01/2014 tarih ve 28886 sayılı Resmî Gazete'de yayımlanarak 18/01/2014 tarihinden itibaren yürürlüğe giren mezkur Kanunun 25 inci maddesi ile 1219 sayılı Kanunun ek 14 üncü maddesine "Tıpta ve diş tabipliğinde yabancı uyruklu kontenjanında uzmanlık eğitimi yapmakta olanlara, ilgili kurumun döner sermayesinden, döner sermayesi bulunmayan kurumlarda kurum bütçesinden, vakıf üniversitelerinde ise kendi bütçelerinden (13.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda ödeme yapılır. Bu ödemeden damga vergisi dışında herhangi bir kesinti yapılmaz." hükmü eklenmiştir. Ayrıca, anılan Kanunun 37 nci maddesi ile 209 sayılı Kanunun 3 üncü maddesinin üçüncü fıkrasının (ı) bendi yürürlükten kaldırılmıştır.
+Diğer taraftan, 02/01/2014 tarihli ve 6514 sayılı "Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun" 18/01/2014 tarih ve 28886 sayılı Resmî Gazete'de yayımlanarak 18/01/2014 tarihinden itibaren yürürlüğe giren mezkur Kanunun 25 inci maddesi ile 1219 sayılı Kanunun ek 14 üncü maddesine "Tıpta ve diş tabipliğinde yabancı uyruklu kontenjanında uzmanlık eğitimi yapmakta olanlara, ilgili kurumun döner sermayesinden, döner sermayesi bulunmayan kurumlarda kurum bütçesinden, vakıf üniversitelerinde ise kendi bütçelerinden <i>(13.000)</i> gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda ödeme yapılır. Bu ödemeden damga vergisi dışında herhangi bir kesinti yapılmaz." hükmü eklenmiştir. Ayrıca, anılan Kanunun 37 nci maddesi ile 209 sayılı Kanunun 3 üncü maddesinin üçüncü fıkrasının (ı) bendi yürürlükten kaldırılmıştır.
 
 Bu çerçevede, 18/01/2014 tarihinden itibaren Kurumumuza bağlı eğitim ve araştırma hastanelerinde görev yapan yabancı uyruklu asistanlara (13.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda ödeme yapılması gerekmekte olup, bu tutardan damga vergisi dışında herhangi bir kesinti yapılmayacaktır.
 

@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.36. Verem Savaşı Hizmetleri Genelgesi (2011/65)
+**6.3.36. Verem Savaşı Hizmetleri Genelgesi (2011/65)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 Verem Savaşı Dairesi Başkanlığı
@@ -44,7 +44,7 @@ Başta verem savaşı dispanserleri olmak üzere; birinci, ikinci ve üçüncü 
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN  
+**Prof. Dr. Nihat TOSUN**  
 Bakan a.  
 Müsteşar
 

@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.6. Gebe Okulu, Gebe Bilgilendirme Sınıfı, Doğuma Hazırlık ve Danışmanlık Merkezleri Genelgesi (2018/23)
+**2.3.6. Gebe Okulu, Gebe Bilgilendirme Sınıfı, Doğuma Hazırlık ve** Danışmanlık Merkezleri Genelgesi (2018/23)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü

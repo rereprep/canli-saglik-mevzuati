@@ -18,7 +18,7 @@ SAĞLIK BAKANLIĞI
 TÜRKİYE KAMU HASTANELERİ KURUMU
 İzleme, Ölçme ve Değerlendirme Başkan Yardımcılığı
 
-31 OCAK 2014
+**31 OCAK 2014**
 
 Sayı : 49022165-010.99 / 5451.19059
 Konu : Yabancı Uyruklu Asistanlara Yapılacak Ödeme Hakkında
@@ -59,5 +59,5 @@ Bilgilerinizi ve konunun Birliğinize bağlı tüm üçüncü basamak sağlık t
 Prof. Dr. Ali İhsan DOKUCU
 Kurum Başkanı
 
-DAĞITIM:
+**DAĞITIM:**
 88 Kamu Hastaneleri Birliğine

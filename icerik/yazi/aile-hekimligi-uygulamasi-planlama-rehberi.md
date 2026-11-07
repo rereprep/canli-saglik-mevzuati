@@ -46,7 +46,7 @@ Formlar
 
 Dağıtım:
 
-Gereği:
+**Gereği:**
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
 (Rehberin tamamına aşağıdaki adresten ulaşabilirsiniz)

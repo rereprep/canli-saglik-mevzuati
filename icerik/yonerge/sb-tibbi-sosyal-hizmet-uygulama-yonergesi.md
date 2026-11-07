@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.12. Tıbbi Sosyal Hizmet Uygulama Yönergesi
+**2.2.12. Tıbbi Sosyal Hizmet Uygulama Yönergesi**
 
 ### Bakanlık Makamına sunuş yazısı (kitap s. 97)
 
@@ -38,9 +38,9 @@ a) Bakanlık: Sağlık Bakanlığını,
 
 b) Bakan: Sağlık Bakanını
 
-c) Genel Müdürlük: Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğünü
+c) **Genel Müdürlük:** Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğünü
 
-ç) Genel Müdür: Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürünü
+ç) **Genel Müdür:** Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürünü
 
 d) Komisyon: Tıbbi Sosyal Hizmetler Bilimsel Danışma Komisyonunu
 
@@ -48,9 +48,9 @@ e) Şube: Tıbbi Sosyal Hizmetler Şubesini
 
 f) Müdürlük: Il Sağhık Müdürlüklerini
 
-g) Tıbbi sosyal hizmet: Ayakta ya da yatarak tedavi gören hastaların tıbbi tedaviden etkili bir şekilde yararlanması, sosyal sağlığının korunması ve geliştirilmesi, tedavi sürecinde hastanın ailesi ve çevresi ile ilişkilerinin düzenlenmesi, tedavi sürecini etkileyen psiko-sosyal ve sosyo-ekonomik sorunlarının zamanında çözümlenerek sosyal işlevselliğini yeniden kazanması amacıyla yürütülen
+g) **Tıbbi sosyal hizmet:** Ayakta ya da yatarak tedavi gören hastaların tıbbi tedaviden etkili bir şekilde yararlanması, sosyal sağlığının korunması ve geliştirilmesi, tedavi sürecinde hastanın ailesi ve çevresi ile ilişkilerinin düzenlenmesi, tedavi sürecini etkileyen psiko-sosyal ve sosyo-ekonomik sorunlarının zamanında çözümlenerek sosyal işlevselliğini yeniden kazanması amacıyla yürütülen
 
-g) Sosyal hizmet müdahalesi: Bireyle, grupla, aileyle, toplumla sosyal hizmet ve sosyal hizmet araştırması yöntemlerinin kullanıldığı ve başvuru, inceleme, müdahale, değerlendirme, uygulama, sonuçlandırma ve izleme aşamalarının gerçekleştirildiği uıbbi sosyal hizmet uygulamasını,
+g) **Sosyal hizmet müdahalesi:** Bireyle, grupla, aileyle, toplumla sosyal hizmet ve sosyal hizmet araştırması yöntemlerinin kullanıldığı ve başvuru, inceleme, müdahale, değerlendirme, uygulama, sonuçlandırma ve izleme aşamalarının gerçekleştirildiği uıbbi sosyal hizmet uygulamasını,
 
 h) Birim: Tıbbi sosyal hizmet uygulamalarının yürütüldüğü, ikinci ve üçüncü basamak sağlık kurum ve kuruluşları bünyesindeki sosyal hizmet birimini,
 
@@ -58,7 +58,7 @@ h) Birim: Tıbbi sosyal hizmet uygulamalarının yürütüldüğü, ikinci ve ü
 
 ## İKİNCİ BÖLÜM
 
-Tıbbi Sosyal Hizmetler Bilimsel Danışma Komisyonunun Teşkili, Görevleri,
+**Tıbbi Sosyal Hizmetler Bilimsel Danışma Komisyonunun Teşkili, Görevleri,**
 
 ### Çalışma Usul ve Esasları
 
@@ -138,7 +138,7 @@ g) Bu Yönerge kapsamında Bakanlıkça verilecek diğer görevleri yerine getir
 
 ## DÖRDÜNCÜ BÖLÜM
 
-Sosyal Hizmet Birimlerinin Teşkili, Çalışma Usul ve Esasları ile Birim Çalışanlarının
+**Sosyal Hizmet Birimlerinin Teşkili, Çalışma Usul ve Esasları ile Birim Çalışanlarının**
 
 #### Görev ve Sorumlulukları Sosyal hizmet birimi
 

@@ -21,8 +21,8 @@ T.C.
 SAĞLIK BAKANLIĞI
 Türkiye Halk Sağlığı Kurumu Başkanlığı
 
-Sayı: 99858683/
-Konu: Aile Hekimliği Birimlerinin Gruplandırma İşlemleri
+**Sayı**: 99858683/
+**Konu**: Aile Hekimliği Birimlerinin Gruplandırma İşlemleri
 
 ### ……………… VALİLİĞİNE (Halk Sağlığı Müdürlüğü)
 
@@ -40,7 +40,7 @@ Aile Hekimliği Ödeme ve Sözleşme Yönetmeliği'nin 16 ncı maddesinin birinc
 
 a) Talep edilen grup kriterlerinin sağlandığı ancak asgari fiziki şartlar ve teknik donanım şartlarında eksiklik bulunduğunun tespit edilmesi halinde, asgari fiziki ve teknik şartların eksikliği tutanak altına alınacak ve eksikliğin giderilmesi için 10 gün süre verilecektir. 10 gün süre sonunda asgari fiziki şartlar ve teknik donanım eksikliklerinin giderildiğinin tespit edilmesi halinde, gruplandırma şartlarını taşıyan aile hekimliği birimleri gruplandırılacaktır. Eksik tamamlanmadı ise ilgili mevzuat hükümleri çerçevesince işlem tesis edilecek olup gruplandırma işlemine son verilecektir.
 
-b) Asgari fiziki şartlar ve teknik donanım şartlarının sağlandığı ancak talep edilen grup kriterlerinde eksiklik bulunduğunun tespit edilmesi halinde, eksiklik tutanak altına alınacaktır. Değerlendirme sırasında aile hekimince 10 güne kadar eksikliğin tamamlanacağının taahhüt edilmesi halinde, taahhüt edilen süre sonrasında yapılacak değerlendirme sonucu grup şartlarını taşıyan aile hekimliği birimleri gruplandırılacaktır. Bununla birlikte değerlendirme sırasında aile hekimliği biriminin başka bir grubun kriterlerini taşıdığının tespit edilmesi halinde, ilgili aile hekiminin yazılı talebi doğrultusunda şartlarını taşıdığı grup üzerinden değerlendirme yapılabilecek veya değerlendirme işlemine son verilecektir.
+b) <i>Asgari</i> fiziki şartlar ve teknik donanım şartlarının sağlandığı ancak talep edilen grup kriterlerinde eksiklik bulunduğunun tespit edilmesi halinde, eksiklik tutanak altına alınacaktır. Değerlendirme sırasında aile hekimince 10 güne kadar eksikliğin tamamlanacağının taahhüt edilmesi halinde, taahhüt edilen süre sonrasında yapılacak değerlendirme sonucu grup şartlarını taşıyan aile hekimliği birimleri gruplandırılacaktır. Bununla birlikte değerlendirme sırasında aile hekimliği biriminin başka bir grubun kriterlerini taşıdığının tespit edilmesi halinde, ilgili aile hekiminin yazılı talebi doğrultusunda şartlarını taşıdığı grup üzerinden değerlendirme yapılabilecek veya değerlendirme işlemine son verilecektir.
 
 c) Hem asgari fiziki ve teknik donanım şartları hem de gruplandırma kriterlerinde eksiklik bulunduğunun tespit edilmesi halinde, asgari fiziki ve teknik şartları ile gruplandırma kriterlerindeki eksiklik tutanak altına alınacaktır. Asgari fiziki ve teknik şartlarındaki eksikliğin giderilmesi için 10 gün süre verilecektir. 10 gün süre sonunda asgari fiziki şartlar ve teknik donanım eksikliklerinin giderildiğinin tespit edilmesi halinde, gruplandırma şartlarını da taşıyan aile hekimliği birimleri gruplandırılacaktır. Eksikliğin tamamlanmaması veya gruplandırma kriterlerinde eksikliğin bulunması halinde gruplandırma işlemine son verilecek ve ilgili mevzuat hükümleri çerçevesince işlem tesis edilecektir.
 
@@ -82,7 +82,7 @@ Bilgilerinizi ve gereğini rica ederim.
 
 Prof. Dr. İrfan ŞENCAN
 Bakan a.
-Kurum Başkanı
+**Kurum** Başkanı
 
 Ek:
 
@@ -215,7 +215,7 @@ d) Çalıştırılan personelin kullanacağı izinler ve çalışma planındaki 
 Not: Personel çalıştırılması ile ilgili herhangi bir süre kesintisi olması (yeni personel, izin vb.) durumunda gruplandırma kriterlerinin devamı bakımından aile hekimine 1 yılda toplamda 14 (ondört) güne kadar süre tanınabilir. Bu sürenin uzaması halinde hizmetin devamlılığı için başka bir personel çalıştırılmalıdır. Söz konusu personel aynı aile sağlığı merkezindeki tek aile hekimliği birimiyle veya birden fazla aile hekimliği birimiyle sözleşme imzalamış olsa dahi bu süre 1 yılda toplamda 14 (ondört) günü geçemez.
 
 Yukarıdaki bilgiler tarafımdan doldurulmuştur ve doğrudur. Eksik/yanlış verdiğim bilgilerden sorumlu olacağımı beyan ederim.
-Aile Hekimi (Ad- Soyad): İmza:
+**Aile Hekimi** (Ad- Soyad): İmza:
 
 | S.n. | Kriterler | Grup |
 | --- | --- | --- |

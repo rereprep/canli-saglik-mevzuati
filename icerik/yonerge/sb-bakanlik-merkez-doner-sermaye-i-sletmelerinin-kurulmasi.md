@@ -35,7 +35,7 @@ Uygun görüşle arz ederim.
 Prof. Dr. Eyüp GÜMÜŞ
 Müsteşar
 
-OLUR
+**OLUR**
 [?]
 Dr. Mehmet MÜEZZİNOĞLU
 Bakan
@@ -156,4 +156,4 @@ MADDE: 11- (1) Rakanlk Merkez Döner Sermaye Isletmesine 1.000 TL. nominal sam a
 
 **MADDE 13 –** (1) Bu yenerge bükünderni Balan yleütis.
 
-Geçiei Madde 1- Bu yünergede belirtilen işletme bliçesi onaylamncaya kadar iş ve Alemler meven uygulamalar dogrohusında gapılucaktr
+**Geçiei Madde** 1- Bu yünergede belirtilen işletme bliçesi onaylamncaya kadar iş ve Alemler meven uygulamalar dogrohusında gapılucaktr

@@ -14,12 +14,12 @@ ocr: true
 duzeltildi: true
 ---
 
-CUMHURBAŞKANLIĞI KARARNAMESİ
+**CUMHURBAŞKANLIĞI KARARNAMESİ**
 
-BAZI CUMHURBAŞKANLIĞI KARARNAMELERİNDE DEĞİŞİKLİK
-YAPILMASI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ
+**BAZI CUMHURBAŞKANLIĞI KARARNAMELERİNDE DEĞİŞİKLİK**
+**YAPILMASI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ**
 
-Kararname Numarası: 164
+**Kararname Numarası: 164**
 
 **MADDE 1-** 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 377 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 
@@ -59,6 +59,6 @@ MADDE 511/A- (1) Kurum, görev alanı kapsamında ihtiyaç duyduğu bilimsel vey
 
 3 Ekim 2024
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 
 CUMHURBAŞKANI

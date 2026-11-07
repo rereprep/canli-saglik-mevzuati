@@ -33,7 +33,7 @@ Söz konusu maddelerin tıbbi erişimlerine imkân sağlanırken bu maddelerin s
 
 - Renkli Reçete Sisteminde, hekimler oluşturdukları reçeteleri 5070 sayılı elektronik İmza Kanunu ile yapılan düzenleme kapsamında ıslak imzaya eşdeğer hukuki geçerliliği olan e-imza prosedürü ile imzalayacaklardır.
 - Eczacılar elektronik reçete numarası ile düzenlenen elektronik reçeteye sistem üzerinden ulaşabilecektir. Reçete sisteme kaydedildikten sonra ilaçların hastaya verilmesi gerekmektedir.
-- Renkli Reçete Sisteminde uyuşturucu ve psikotrop madde ve müstahzarların bir reçeteye yazılacak maksimum miktarları otomatik olarak belirlenmiştir.
+- **Renkli Reçete** Sisteminde uyuşturucu ve psikotrop madde ve müstahzarların bir reçeteye yazılacak maksimum miktarları otomatik olarak belirlenmiştir.
 - Bu sistem sadece hastane dışına çıkan yani serbest eczanelerce karşılanacak uyuşturucu ve psikotrop madde ve müstahzarları için kullanılacaktır.
 - İl Sağlık Müdürlükleri sistemin sağladığı istatistiksel veriler ile denetim yapacaklardır.
 - İlaç kullanım raporları hekimler veya eczacılar tarafından sisteme girilecektir.

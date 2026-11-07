@@ -13,17 +13,17 @@ ocr: true
 duzeltildi: true
 ---
 
-Karar Sayısı: 477
+**Karar Sayısı: 477**
 
 Ekli “Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik”in yürürlüğe konulmasına karar verilmiştir.
 
 18 Aralık 2018
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI
 
-YATAKLI TEDAVİ KURUMLARI İŞLETME
-YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**YATAKLI TEDAVİ KURUMLARI İŞLETME**
+**YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliğinin 89 uncu maddesinin birinci fıkrasına aşağıdaki cümle eklenmiştir.
 

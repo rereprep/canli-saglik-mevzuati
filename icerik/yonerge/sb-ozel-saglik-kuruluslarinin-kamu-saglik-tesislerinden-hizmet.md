@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.2.6. Özel Sağlık Kuruluşlarının Kamu Sağlık Tesislerinden Hizmet Alımına İlişkin Yönerge
+**7.2.6. Özel Sağlık Kuruluşlarının Kamu Sağlık Tesislerinden** Hizmet Alımına İlişkin Yönerge
 
 ### ÖZEL SAĞLIK KURULUŞLARININ KAMU SAĞLIK TESİSLERİNDEN HİZMET ALIMINA İLİŞKİN YÖNERGE
 

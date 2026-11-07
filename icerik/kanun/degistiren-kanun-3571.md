@@ -55,17 +55,17 @@ Ancak kooperatiflerin gelirlerinin Gelir Vergisi Kanununun 94 üncü maddesine g
 
 6. Her türlü alkol ve alkollü içkiler ile tütün ve tütün mamullerine ait ilan ve reklâm giderlerinin % 50'si (Bakanlar Kurulu, bu oranı <% 100'e kadar artırmaya, sıfıra kadar indirmeye yetkilidir).
 
-Y»t»ma »Mumu Sayï» ' I
+**Y»t»ma »Mumu Sayï» ' I**
 
 **MADDE 9 –** 31.12.1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 94 Onca maddesinin (A) fıkrasının 6 numaralı bendine aşağıdaki (c) alt bendi eklenmiş, 9 numaralı bendinin birinci paragrafında yer alan parantez içi hüküm aşağıdaki şekilde değiştirilmiş, 10 numaralı bendinde yer alan "mevduat faizlerinden" ibaresinden sonra ve 11 numaralı bendinin sonuna gelmek üzere sırasıyla aşağıdaki parantez içi hükümler eklenmiştir.
 
-c) Kooperatiflere ait gayrimenkullerin kiralanması karşılığında bunlara yapılan kira Ödemelerinden, (Tam mükellef kurumlara ödenenler dahil) (Tam mükellef kurumlara ödenenler dahil) (Tam mükellef kurumlara ödenenler dahil)
+**c) Kooperatiflere ait gayrimenkullerin kiralanması karşılığında bunlara yapılan kira** Ödemelerinden, (Tam mükellef kurumlara ödenenler dahil) (Tam mükellef kurumlara ödenenler dahil) (Tam mükellef kurumlara ödenenler dahil)
 
-DÖRDÜNCÜ BÖLÜM 3065 Sayılı Katma Değer Vergisi Kanununda Yapılan Değişiklik
+**DÖRDÜNCÜ BÖLÜM** 3065 Sayılı Katma Değer Vergisi Kanununda Yapılan Değişiklik
 
 **MADDE 10 –** 25.10.1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 3336 sayılı Kanunla değişik geçici 5 inci maddesinin 1 inci fıkrasında yer alan "6 yıl süreyle" ibaresi "10 yıl süreyle" olarak değiştirilmiştir.
 
-BEŞİNCİ BÖLÜM 3074 Sayılı Akaryakıt Tüketim Vergisi Kanununda Yapılan Değişiklikler
+**BEŞİNCİ BÖLÜM** 3074 Sayılı Akaryakıt Tüketim Vergisi Kanununda Yapılan Değişiklikler
 
 **MADDE 11 –** 7.11.1984 tarihli ve 3074 sayılı Akaryakıt Tüketim Vergisi Kanununun 3 üncü maddesine aşağıdaki fıkra eklenmiştir.
 
@@ -73,7 +73,7 @@ Rafineri şirketleri için verginin matrahı, kendi tüketimleri için kullandı
 
 **MADDE 12 –** 7.11.1984 tarihli ve 3074 sayılı Akaryakıt Tüketim Vergisi Kanununun 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
-Nispet:
+**Nispet:**
 
 **Madde 4 –** Verginin nispeti;
 
@@ -89,7 +89,7 @@ Gerçek veya tüzelkişiler tarafından ithal edilen hampetrolün Türkiye'deki 
 
 **MADDE 14 –** 7.11.1984 tarihli ve 3074 sayılı Akaryakıt Tüketim Vergisi Kanununun 6 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 
-Vergi Hasılatının Dağılımı :
+**<i>Vergi Hasılatının Dağılımı :</i>**
 
 **Madde 6 –** Vergi dairelerine yatırılan akaryakıt tüketim vergisi hasılatı aşağıdaki nispetlere göre ayrılarak, tahsil edildiği ayı takip eden bir ay içinde, Maliye ve Gümrük Bakanlığınca belirlenecek esaslar dahilinde ilgili hesaplara yatırılır.
 
@@ -109,7 +109,7 @@ c) Akaryakıt fiyatlarında istikrarın sağlanması amacı ile Enerji ve Tabii 
 
 Bu Fona yatırılacak paralarla buradan yapılacak ödemelerin şekli ve esasları Bakanlar Kurulu Kararı ile tespit edilir.
 
-Y E D I N CI B Ö L ÜM Kaldırılan Kanun Hükümleri
+**Y E D I N CI B Ö L ÜM** Kaldırılan Kanun Hükümleri
 
 **MADDE 16 –** a) 2.3.1984 tarih ve 298S sayılı Kanunun 2 nci maddesinin ikinci fıkrasının (b) bendi;
 
@@ -131,12 +131,12 @@ Yukarıdaki hükümlerden faydalanarak taksitlerini ödemekte olan mükellefleri
 
 Bu maddenin uygulanmasına ait usul ve esaslar Maliye ve Gümrük Bakanlığınca belirlenir.
 
-Yürürlük
+**<i>Yürürlük</i>**
 
 **MADDE 17 –** Bu Kanunun;
 
 a) 3, 5 ve 8 inci maddeleri, 1.1.1989 tarihinden geçerli olmak üzere yayımı tarihinde, b) II, 12, 13 ve 14 üncü maddeleri, yayımını takip eden aybaşında, c) Diğer maddeleri yayımı tarihinde, Yürürlüğe girer.
 
-Yürütme
+**<i>Yürütme</i>**
 
 **MADDE 18 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

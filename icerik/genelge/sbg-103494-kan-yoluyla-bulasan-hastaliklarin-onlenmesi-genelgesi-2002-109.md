@@ -15,21 +15,21 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.23. Kan Yoluyla Bulaşan Hastalıkların Önlenmesi Genelgesi (2002/109)
+**6.3.23. Kan Yoluyla Bulaşan Hastalıkların Önlenmesi Genelgesi** (2002/109)
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : B100TSH0110000 / 15559
-Konu : Kan Yoluyla Bulaşan Hastalıkların Önlenmesi
+**Konu : Kan** Yoluyla Bulaşan Hastalıkların Önlenmesi
 
 16.10.2002
 
 ... VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
-GENELGE
+**GENELGE**
 2002/109
 
 Ülkemizde erkek berberlerinde, kadın kuaförlerinde ve manikür-pedikür salonlarındaki yanlış ve bilinçsiz uygulamalar kan yolu ile bulaşan (Hepatit B, Hepatit C, HIV/AIDS enfeksiyonu, ...) bir takım hastalıkların kişiden kişiye bulaşmasına, dolayısıyla bu hastalıkların yayılmasına ve kontrolünün zorlaşmasına neden olmaktadır.
@@ -54,9 +54,9 @@ Kan yoluyla bulaşan hastalıkların kontrol altına alınması, kişiden kişiy
 
 Konunun önemi dolayısıyla, bu tür yerlerde çalışan personelin kan yolu ile bulaşan hastalıklar ve bu tür hastalıklardan korunma konusunda eğitilmesi, bu tür yerlere giden müşterilerin bilinçlendirilmesi ve bu tür yerlerin periyodik olarak mevzuata uygun şekilde denetlenmesi hususunda gereken hassasiyetin gösterilmesini rica ederim.
 
-Doç. Dr. Sefer AYCAN
+**Doç. Dr. Sefer** AYCAN
 Bakan a.
-Müsteşar
+**Müsteşar**
 
 DAĞITIM:
 A Planı

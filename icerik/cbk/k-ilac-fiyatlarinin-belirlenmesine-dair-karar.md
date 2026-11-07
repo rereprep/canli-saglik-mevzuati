@@ -16,11 +16,11 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-Karar Sayısı : 2017/9901
+**Karar Sayısı : 2017/9901**
 
 Ekli “Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına Dair Karar”ın yürürlüğe konulması; Sağlık Bakanlığının 25/1/2017 tarihli ve 230 sayılı yazısı üzerine, Bakanlar Kurulu’nca 6/2/2017 tarihinde kararlaştırılmıştır.
 
-Recep Tayyip ERDOĞAN  
+**Recep Tayyip ERDOĞAN**  
 CUMHURBAŞKANI
 
 Binali YILDIRIM  

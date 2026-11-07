@@ -268,17 +268,17 @@ f) Radyasyon acil durumlarında kullanılacaklar da dâhil olmak üzere faaliyet
 
 g) Radyasyon ölçümleri için uygun cihazların temin edilmesini sağlamak.
 
-ğ) (Ek:RG-16/12/2025-33109) Bu Yönetmelikte ve iç hizmet işleyişinde tanımlanmış alt yapı ve hizmet kalite standartlarının korunmasını ve sürdürülmesini sağlamak.
+ğ) **(Ek:RG-16/12/2025-33109)** Bu Yönetmelikte ve iç hizmet işleyişinde tanımlanmış alt yapı ve hizmet kalite standartlarının korunmasını ve sürdürülmesini sağlamak.
 
-h) (Ek:RG-16/12/2025-33109) Bu Yönetmeliğe ve ilgili diğer mevzuata ve merkezin iç işleyişi konusunda hazırlanıp çalışanlara duyurulan düzenlemelere uyulmasını sağlamak ve bunun için gerekli iç denetimleri yürütmek.
+h) **(Ek:RG-16/12/2025-33109)** Bu Yönetmeliğe ve ilgili diğer mevzuata ve merkezin iç işleyişi konusunda hazırlanıp çalışanlara duyurulan düzenlemelere uyulmasını sağlamak ve bunun için gerekli iç denetimleri yürütmek.
 
-ı) (Ek:RG-16/12/2025-33109) Ruhsat/faaliyet izin belgesine esas yerinde inceleme ve değerlendirmeler ile denetimler sırasında yetkililere gereken bilgi ve belgeleri sunmak.
+ı) **(Ek:RG-16/12/2025-33109)** Ruhsat/faaliyet izin belgesine esas yerinde inceleme ve değerlendirmeler ile denetimler sırasında yetkililere gereken bilgi ve belgeleri sunmak.
 
-i) (Ek:RG-16/12/2025-33109) Merkez çalışanlarının iş sağlığı ve güvenliği kapsamında bulaşıcı hastalıklar yönünden gerekli görülen tetkiklerini ve muayenelerini, yılda en az bir defa yaptırmak.
+i) **(Ek:RG-16/12/2025-33109)** Merkez çalışanlarının iş sağlığı ve güvenliği kapsamında bulaşıcı hastalıklar yönünden gerekli görülen tetkiklerini ve muayenelerini, yılda en az bir defa yaptırmak.
 
-j) (Ek:RG-16/12/2025-33109) Mesleğini serbest olarak icra etme yetkisine sahip nükleer tıp uzmanları tarafından açılan merkezin ortaklık yapısında meydana gelen değişiklikleri on beş iş günü içinde Müdürlüğe bildirmek.
+j) **(Ek:RG-16/12/2025-33109)** Mesleğini serbest olarak icra etme yetkisine sahip nükleer tıp uzmanları tarafından açılan merkezin ortaklık yapısında meydana gelen değişiklikleri on beş iş günü içinde Müdürlüğe bildirmek.
 
-k) (Ek:RG-16/12/2025-33109) Sağlık kuruluşunun faaliyet sahası ile ilgili diğer mevzuatta belirtilen ve kendisi tarafından yürütülmesi öngörülen görevleri yerine getirmek.
+k) **(Ek:RG-16/12/2025-33109)** Sağlık kuruluşunun faaliyet sahası ile ilgili diğer mevzuatta belirtilen ve kendisi tarafından yürütülmesi öngörülen görevleri yerine getirmek.
 
 l) (Ek:RG-16/12/2025-33109) Sağlık kuruluşunun ruhsat alındıktan sonraki faaliyeti ile ilgili her türlü idari işlemleri yürütmek.
 
@@ -374,7 +374,7 @@ b) Merkezde bulunması zorunlu personelin herhangi bir sebeple görevinden ayrı
 
 c) Ruhsat/faaliyet izin belgesinin değiştirilmesini gerekli kılan tadilat durumlarında merkezin faaliyeti en fazla (Değişik ibare:RG-16/12/2025-33109) bir yıla kadar (Değişik ibare:RG-16/12/2025-33109) askıya alınabilir. (Değişik ibare:RG-16/12/2025-33109) Bu sürenin sonunda faaliyete başlanılmaması halinde merkezin ruhsat/faaliyet izin belgesi Bakanlıkça iptal edilir.
 
-(2) (Ek:RG-16/12/2025-33109) Hizmeti geçici olarak kısmen veya tamamen durdurulduğu halde faaliyetine devam eden merkezin faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti iki kat süreyle durdurulmasına rağmen faaliyetine devam eden merkezin ruhsatı/faaliyet izin belgesi Bakanlıkça iptal edilir. Ancak merkezin birden fazla birim ile hizmet sunması durumunda sadece ilgili birim ruhsat/faaliyet izin belgesinden çıkarılarak ruhsat/faaliyet izin belgesi yenilenir. Mesleğini serbest olarak icra etme yetkisine sahip nükleer tıp uzmanı tarafından açılan merkezin iptal edilen ruhsatı yeniden düzenlenemez. Yeniden ruhsat düzenlenmesi Bakanlıkça yapılan planlamaya uygun olmak şartıyla ön izne tabidir. Adına düzenlenmiş ruhsatı bu madde kapsamında iptal edilen merkez adına bir yıl geçmeden yeni bir ön izin veya ruhsat düzenlenemez.
+(2) **(Ek:RG-16/12/2025-33109)** Hizmeti geçici olarak kısmen veya tamamen durdurulduğu halde faaliyetine devam eden merkezin faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti iki kat süreyle durdurulmasına rağmen faaliyetine devam eden merkezin ruhsatı/faaliyet izin belgesi Bakanlıkça iptal edilir. Ancak merkezin birden fazla birim ile hizmet sunması durumunda sadece ilgili birim ruhsat/faaliyet izin belgesinden çıkarılarak ruhsat/faaliyet izin belgesi yenilenir. Mesleğini serbest olarak icra etme yetkisine sahip nükleer tıp uzmanı tarafından açılan merkezin iptal edilen ruhsatı yeniden düzenlenemez. Yeniden ruhsat düzenlenmesi Bakanlıkça yapılan planlamaya uygun olmak şartıyla ön izne tabidir. Adına düzenlenmiş ruhsatı bu madde kapsamında iptal edilen merkez adına bir yıl geçmeden yeni bir ön izin veya ruhsat düzenlenemez.
 
 (3) Bu Yönetmelik kapsamında yasak olan fiil ve davranışlar ile yaptırımlar aşağıda belirtilmiştir:
 
@@ -388,7 +388,7 @@ c) Merkezde yer alan cihazlar ve radyasyon kaynakları, yetkisi olmayan kişiler
 
 d) Bu Yönetmelikte müeyyide öngörülmemekle birlikte fiilin niteliğine göre ilgili diğer mevzuatta belirlenen idarî ve cezaî müeyyideler uygulanır.
 
-e) (Ek:RG-16/12/2025-33109) Nükleer tıp uzmanı, tıp diplomasının veya uzmanlık belgesinin kendisine verdiği yetkiler haricinde mesleğini yürütemez. Sertifika, yüksek lisans veya doktora belgesine dayanılarak bir başka tıp dalının görev alanına giren işlerin uzmanı olunduğu ilan edilerek meslek yürütülemez ve bu tür belgeler mesleğin icrasında uzmanlık belgesi olarak kullanılamaz.
+e) **(Ek:RG-16/12/2025-33109)** Nükleer tıp uzmanı, tıp diplomasının veya uzmanlık belgesinin kendisine verdiği yetkiler haricinde mesleğini yürütemez. Sertifika, yüksek lisans veya doktora belgesine dayanılarak bir başka tıp dalının görev alanına giren işlerin uzmanı olunduğu ilan edilerek meslek yürütülemez ve bu tür belgeler mesleğin icrasında uzmanlık belgesi olarak kullanılamaz.
 
 f) (Ek:RG-16/12/2025-33109) Nükleer tıp uzmanı dışındaki sağlık meslek mensupları, ilk yardım ve acil tıbbi müdahaleler hariç olmak üzere hangi surette olursa olsun nükleer tıp uzmanı yetkisini kullanamaz.
 
@@ -410,7 +410,7 @@ g) Özel sağlık kuruluşları bünyesinde veya mesleğini serbest olarak icra 
 
 (2) Merkez, tıbbi görüntüleme ve tedavi kalitesini izlemeye yönelik program oluşturur ve buna ilişkin kayıtları tutar.
 
-(3) (Değişik:RG-16/12/2025-33109) Bakanlıkça yapılacak çekim kalitesine ilişkin değerlendirmelerde EK-9’da yer alan Nükleer Tıp Hizmetleri Çekim Raporlama ve İnceleme Değerlendirme Formu kullanılır. 60 puan ve altı sonuçlar kritik kalite ihlali sayılır, derhal düzeltici ve iyileştirici faaliyet başlatılır. En geç bir ay içinde yeniden değerlendirme yapılır.
+(3) **(Değişik:RG-16/12/2025-33109)** Bakanlıkça yapılacak çekim kalitesine ilişkin değerlendirmelerde EK-9’da yer alan Nükleer Tıp Hizmetleri Çekim Raporlama ve İnceleme Değerlendirme Formu kullanılır. 60 puan ve altı sonuçlar kritik kalite ihlali sayılır, derhal düzeltici ve iyileştirici faaliyet başlatılır. En geç bir ay içinde yeniden değerlendirme yapılır.
 
 (4) Merkez, tetkik tekrarını engellemek ve tetkik sonuçlarının güvenilirliğini sağlamak amacıyla kalite yönetim sistemi kapsamında gerekli önlemleri almak zorundadır.
 
@@ -470,17 +470,17 @@ g) Özel sağlık kuruluşları bünyesinde veya mesleğini serbest olarak icra 
 
 **MADDE 21 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür. Ekleri için tıklayınız.
 
-Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+**Yönetmeliğin Yayımlandığı Resmî Gazete’nin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**
 
 25/4/2023 32171
 
-Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî
+**Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî**
 
-Gazetelerin
+**Gazetelerin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**
 
 1. 16/12/2025 33109
 

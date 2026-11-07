@@ -33,7 +33,7 @@ Bilgilerinizi ve uygulamaların ekteki rehbere uygun olarak yürütülmesi gerek
 
 Prof. Dr. Eyüp GÜMÜŞ
 
-Müsteşar
+**Müsteşar**
 
 EK: Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi (27 s.)
 

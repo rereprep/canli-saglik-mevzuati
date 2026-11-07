@@ -14,7 +14,7 @@ kontrol_edildi: true
 ---
 
 
-2.3.39. Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi Genelgesi (2010/44)
+**2.3.39. Total Parenteral Nütrisyon İçin Güvenli Uygulamalar** Rehberi Genelgesi (2010/44)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Tedavi Hizmetleri Genel Müdürlüğü

@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 ### KARARNAME
 
-Karar Sayısı: 7/8602
+**Karar Sayısı: 7/8602**
 
 Çalışma ve Sağlık ve Sosyal Yardım Bakanlıklarınca hazırlanmış ve Danıştay'ca incelenmiş bulunan ilişik «Yapı İşlerinde İşçi Sağlığı ve İş Güvenliği Tüzüğü»nün yürürlüğe konulması; Bakanlar Kurulunca 2/7/1974 tarihinde kararlaştırılmıştır.
 

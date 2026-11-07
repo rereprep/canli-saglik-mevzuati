@@ -15,13 +15,13 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Halk Sağlığı Genel Müdürlüğü
 
 Sayı : 19831278/
 Konu : İzleme ve Değerlendirme Sonrası Yapılacak İş ve İşlemler
 
-KOCAELİ VALİLİĞİNE
+**KOCAELİ** VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
 İlgi : 14.06.018 tarihli ve 34059705-663.09-E.300 sayılı yazınız.
@@ -32,9 +32,9 @@ Bilindiği üzere 25/05/2018 tarihli ve 30431 sayılı Toplum Sağlığı Merkez
 
 (2) Nüfusu 30.000 ve üzerinde olan ilçeler ile ilçe devlet hastanesi bulunan yerlerde toplum sağlığı merkezi kurulmaz.
 
-(3) Toplum sağlığı merkezinin kurulmadığı ilçelerde bu Yönetmelik ile öngörülen hizmetler ilçe sağlık müdürlüğü, ilçe sağlık müdürlüğünün de kurulmadığı yerlerde ise ilçe devlet hastanesi tarafından yürütülür.
+(3) <i>Toplum</i> sağlığı merkezinin kurulmadığı ilçelerde bu Yönetmelik ile öngörülen hizmetler ilçe sağlık müdürlüğü, ilçe sağlık müdürlüğünün de kurulmadığı yerlerde ise ilçe devlet hastanesi tarafından yürütülür.
 
-(6) Toplum sağlığı merkezinin bulunduğu yerlerde, ilçe sağlık müdürlüğüne ait hizmetler TSM tarafından yerine getirilir.” hükmü yer almaktadır.
+(6) <i>Toplum</i> sağlığı merkezinin bulunduğu yerlerde, ilçe sağlık müdürlüğüne ait hizmetler TSM tarafından yerine getirilir.” hükmü yer almaktadır.
 
 Bu kapsamda toplum sağlığı merkezinin kurulmadığı ilçelerde mezkur yönetmelik ile öngörülen hizmetler ilçe sağlık müdürlükleri tarafından yürütülecektir. İlçe sağlık müdürlükleri ve bağlı birimlerinde yürütülen halk sağlığı hizmetlerinin yerinde izleme ve değerlendirmesinin yapılarak rapor düzenlenmesi esastır. Düzenlenen raporun Müdürlükçe onaylanması sonrasında tespit edilen eksiklikler ve/veya iyi uygulamaların Müdürlüğün ilgili başkanlıklarına/birimlerine gereğinin yapılmasını teminen tebliğ edilmesi hususunda,
 

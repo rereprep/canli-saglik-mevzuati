@@ -15,7 +15,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.11. Kot Giysilere Uygulanan Püskürtme İşleminde Kum Kullanımının Yasaklanması Genelgesi (2009/24)
+**6.3.11. Kot Giysilere Uygulanan Püskürtme İşleminde Kum** Kullanımının Yasaklanması Genelgesi (2009/24)
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -26,10 +26,10 @@ Konu : Kot Giysilere Uygulanan Püskürtme İşleminde Kum Kullanımının Yasak
 
 27.03.2009
 
-GENELGE
+**GENELGE**
 2009/24
 
-Son yıllarda ülkemizde yapılan bazı tıbbi araştırma ve istatistikler, kot kumlama işinde çalışanlarda Silikozis hastalığının görülme sıklığında artış olduğunu göstermektedir. Basın yoluyla da sıkça gündeme gelen bu sağlık sorunu Bakanlığımız tarafından uzun süredir bütün detayları ile incelenmektedir. Bu şartlarda, hastalığın mümkün olduğunca erken teşhis ve tedavisi, aynı ortam veya benzer koşullarda çalışanların tespiti ve gerekli önlemlerin zaman geçmeden alınması amacıyla Bakanlığımızca 2008/62 sayılı Genelge (24.09.2008/29184) yayımlanmıştı.
+Son yıllarda ülkemizde yapılan bazı tıbbi araştırma ve istatistikler, kot kumlama işinde çalışanlarda Silikozis hastalığının görülme sıklığında artış olduğunu göstermektedir. Basın yoluyla da sıkça gündeme gelen bu sağlık sorunu Bakanlığımız tarafından uzun süredir bütün detayları ile incelenmektedir. Bu şartlarda, hastalığın mümkün olduğunca erken teşhis ve tedavisi, aynı ortam veya benzer koşullarda çalışanların tespiti ve gerekli önlemlerin zaman geçmeden alınması amacıyla Bakanlığımızca 2008/62 sayılı Genelge <i>(24.09.2008/29184)</i> yayımlanmıştı.
 
 Silikozis hastalığından korunmanın tek geçerli ve etkili yolu kişi ve çevre maruziyetinin engellenmesidir. Pek çok işkolunda hastalık riski bulunmasına karşılık, kumun püskürtme yöntemi ile kullanılması hastalık riskini oldukça artırmaktadır.
 
@@ -39,9 +39,9 @@ Bu çalışmalar neticesinde, bilim kurulu kararı, uluslararası sözleşmeler 
 
 Bilgilerinizi ve gereğini arz/rica ederim.
 
-Dr. Nihat TOSUN
+**Dr. Nihat TOSUN**
 Bakan a.
-Müsteşar
+**Müsteşar**
 
 DAĞITIM:
 

@@ -606,33 +606,33 @@ Melamin formaldehit reçineleri 1 mol melamin ile 3 moldan çok olmamak koşulu 
 2.41 Selüloz
 2.42 Kaolin
 2.43 İşlenmemiş ağaç talaşı
-2.44 Pamuk elyafı
-2.45 Kireç
-2.5 Pigmentler ve boyar maddeler
-2.501 Alüminyum
-2.502 Alüminyum hidrat
-2.503 Potasyum ve/veya alüminyum silikat
+**2.44 Pamuk elyafı**
+**2.45 Kireç**
+**2.5 Pigmentler ve boyar maddeler**
+**2.501 Alüminyum**
+**2.502 Alüminyum hidrat**
+**2.503 Potasyum ve/veya alüminyum silikat**
 2.504 Alüminyum mono-, di-, tri-stearatlar
 2.505 Baryum sülfat
 2.506 Bentonit
 2.507 Dimetil, oktadesil amonyum iyonu ile geliştirilmiş bentonit
 2.508 Yanmış amber
-2.509 Kalsiyum karbonat
-2.510 Kalsiyum silikat
-2.511 Kalsiyum sülfat
-2.512 Karbon karası
-2.513 Kobalt oksit - alüminyum oksit
-2.514 Diatome toprağı
-2.515 Demir oksitleri
+**2.509 Kalsiyum karbonat**
+**2.510 Kalsiyum silikat**
+**2.511 Kalsiyum sülfat**
+**2.512 Karbon karası**
+**2.513 Kobalt oksit - alüminyum oksit**
+**2.514 Diatome toprağı**
+**2.515 Demir oksitleri**
 2.516 Magnezyum oksit
-2.517 Magnezyum silikat (talk)
+**2.517 Magnezyum silikat (talk)**
 2.518 Siena toprağı
-2.519 Silis
+**2.519 Silis**
 2.520 Titan dioksit
 2.521 Titan dioksit - magnezyum silikat
 2.522 Baryum sülfat - titan dioksit
-2.523 Çinko karbonat
-2.524 Çinko oksit
+**2.523 Çinko karbonat**
+**2.524 Çinko oksit**
 2.525 Boya kataloğumuza giren plastik boyalar
 
 3. Ekstrakte edilebilme sınırları
@@ -640,24 +640,24 @@ Melamin formaldehit reçineleri 1 mol melamin ile 3 moldan çok olmamak koşulu 
 Melamin formaldehit dökümler ve üre formaldehit dökümler
 
 a) Damıtık su
-b) Ağırlıkça % 3 asetik asit
+**b) Ağırlıkça %** 3 asetik asit
 c) Hacımca % 10 sulu etanol ile 80°C'de ekstrakte edilince 100 mm²'ye ya da 1 ml'ye 3 mikrogramdan daha fazla formaldehit çözünmemelidir.
 
 4. Yukarda belirtilen koşullara uyan melamin ve üre formaldehit dökümler aşağıdaki gıda maddeleriyle temasta kullanılabilirler:
 
 4.1 Yağlı gıda maddeleri
 4.2 Kuru ve katı gıda maddeleri
-4.3 Süt ürünleri (peynir, yoğurt, ayran vb.)
-4.4 Et, balık
-4.5 Sebze, meyva
-4.6 Şeker ve şekerli gıda maddeleri
+**4.3 Süt ürünleri (peynir, yoğurt, ayran vb.)**
+**4.4 Et, balık**
+**4.5 Sebze, meyva**
+**4.6 Şeker ve şekerli gıda maddeleri**
 4.7 Su ve meyva suları
 
 ### F — DOYMAMIŞ POLİESTER REÇİNELERİ
 
 Doymamış poliester reçinelerinin gıda maddeleriyle temasta kullanılmalarında, kullanım amacına ve aşağıdaki koşullara uyduğu durumlarda bir sakınca yoktur.
 
-1. Açıklama
+**1. Açıklama**
 
 Poliester reçineleri 1.1'deki asitlerin bir ya da daha fazlasıyla 1.2'deki alkollerin bir ya da fazlasının kondansasyonu ve bunu izleyerek 1.3'teki maddelerin bir ya da fazlasıyla kopolimerizasyonundan oluşur.
 
@@ -1231,7 +1231,7 @@ Metal, kâğıt, karton veya çeşitli plastiklere aşağıdaki koşullar uyarı
 2.0302 Dibutil sebatat
 2.0303 Dioktil sebatat
 2.0304 Gliseril monostearat
-2.0305 Lanolin
+2**.0305** Lanolin
 2.0306 Beyaz mineral yağ
 2.0307 Hurma yağı
 

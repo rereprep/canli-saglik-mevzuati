@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-Çevre Sağlığı Memurları Yönetmeliği
+**Çevre Sağlığı Memurları Yönetmeliği**
 
 I — Sağlık kolejlerinin çevre sağlığı bölümünden diplomalı (Çevre Sağlığı Memurları) nın görev alacağı yerler şuralardır:
 

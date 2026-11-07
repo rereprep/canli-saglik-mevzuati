@@ -15,7 +15,7 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Acil Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 39942531/900
@@ -170,8 +170,8 @@ Buna göre Genelge yayımı tarihinden itibaren Afetlerde Sağlık Hizmetleri Ş
 18. Tatbikat kampına katılacak diğer kurumlarla görüşülmesi, ortak program hazırlanması, resmi yazıların yazılması (İl Afet ve Acil Durum Müdürlüğü, Emniyet, İtfaiye vb.),
 
 T.C.
-SAĞLIK BAKANLIĞI
-Acil Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Acil Sağlık Hizmetleri Genel Müdürlüğü**
 
 ## 19.
 Tatbikat kampının il UMKE personeline resmi olarak duyurulması (e-mail, telefon, resmi yazı),
@@ -248,8 +248,8 @@ Tatbikat kamp alanından araçlar ile Afet Deposuna/Toplanma Merkezine intikal e
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Acil Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Acil Sağlık Hizmetleri Genel Müdürlüğü**
 
 ## 43.
 Tatbikat kampında kullanılan tüm genel kullanım malzemelerinin tutanakla Afet deposuna teslim edilmesi ve malzemelerin katılımcı tüm personel ile afet deposuna yerleştirilmesi (lojistik ve ulaştırma sorumlusu gözetiminde)
@@ -286,7 +286,7 @@ Bakanlığımızca veya Müdürlükçe gerçekleştirilen acil durum, olağan d�
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Acil Sağlık Hizmetleri Genel Müdürlüğü
 
 hastane sistemleri kurulmaktadır. Bu seyyar hastanelerde 24 saat esasına göre hizmet verilmekte olup, görev yapan UMKE personeline 657 sayılı Devlet Memurları Kanununun Ek-33. Maddesinde belirtilen nöbet ücreti ödenecektir.
@@ -324,7 +324,7 @@ Mobil Komuta Araçlarının bakım ve kullanım işlemleri Afetlerde Sağlık Hi
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Acil Sağlık Hizmetleri Genel Müdürlüğü
 
 ## 4.
@@ -350,7 +350,7 @@ UMKE Aracını kullanan personel tarafından araç her hareket ettirildiğinde K
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ
+**Prof. Dr.** Eyüp GÜMÜŞ
 Bakan a.
 Müsteşar
 [İmza]

@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-9.2.5.Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge
+**9.2.5.Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer** Değiştirmesine İlişkin Yönerge
 
 ### Bakanlık Makamına sunuş yazısı
 
@@ -28,7 +28,7 @@ Sayı: 82040698/
 
 Konu: Yönerge
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 371 inci maddesi ile 3359 sayılı Sağlık Hizmetleri Temel Kanunu'na dayanılarak hazırlanan "Sağlık Bakanlığı Sağlık Personelinin İl İçi Yer Değiştirmesine İlişkin Yönerge"nin yürürlüğe konulmasını tensiplerinize arz ederim.
 

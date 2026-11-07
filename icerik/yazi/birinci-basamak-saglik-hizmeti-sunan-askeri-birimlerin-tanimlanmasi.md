@@ -39,7 +39,7 @@ e-imzalıdır.
 Uzm. Dr. Bekir KESKİNKILIÇ  
 Genel Müdür Yardımcısı  
 
-OLUR  
+**OLUR**  
 …/…/2018  
 
 e-imzalıdır.  

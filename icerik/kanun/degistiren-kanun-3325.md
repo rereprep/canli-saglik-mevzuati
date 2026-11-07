@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No: 3325 Kabul tarihi: 17/1/1938
+**<i>Kanun No: 3325 Kabul tarihi: 17/1/1938</i>**
 
 **Madde 1 –** Mukavelenameleri mucibince imtiyazlı şirketlerle müte ahhidlerden teftiş mukabili alınan mebaliğin bütçe haricinde sarfı ve kadroda gösteril meksizin bu kabil şirket ve müteahhidler nezdinde komiser veya fen memuru istihdamı caiz değildir. Ancak yeni akdolunan mukavelât dolayısile bir malî sene zarfında işe başlayan şirket ve müteahhidlerden teftiş mukabili alınacak mebaliğ bir taraftan varidat bütçesindeki tertibi mahsusuna irad kayıd diğer taraftan bu mebaliği tecavüz etmemek üzere İcra Vekilleri Heyetince tasdik olunacak kadro dairesinde komiser veya fen memuru bittayin ücretleri mensub oldukları daire bütçesinin müstahdemini daime tertiblerinc tahsisat olarak ilâve ve tesviye olunur. Bunlardan müteakib mali sene bütçesinin tanziminden evvel tayin olunanların o sene kadrolarına ve bütçenin tanziminden sonra tayin olunanların ikinci müteakib sene kadrolarına ithali mecburidir. azete ) Sayıfa: 9301
 

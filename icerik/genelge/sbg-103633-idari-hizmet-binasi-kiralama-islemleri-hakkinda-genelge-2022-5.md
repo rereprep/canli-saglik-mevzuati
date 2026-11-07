@@ -14,7 +14,7 @@ kontrol_edildi: true
 ---
 
 
-9.3.4. İdari Hizmet Binası Kiralama İşlemleri Hakkında Genelge (2022/5)
+**9.3.4. İdari Hizmet Binası Kiralama İşlemleri Hakkında Genelge** (2022/5)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Yönetim Hizmetleri Genel Müdürlüğü
@@ -48,7 +48,7 @@ Diğer taraftan; hizmet binalarının kiralanmasına ilişkin usul ve esaslar 47
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI
-Yönetim Hizmetleri Genel Müdürlüğü
+**Yönetim Hizmetleri Genel Müdürlüğü**
 
 Sayı : E-49635782-010.06/  
 Konu : İdari Hizmet Binası Kiralama İşlemleri

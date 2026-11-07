@@ -11,7 +11,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi (Değişiklikler İşlenmiş Hâli)
+**11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi** (Değişiklikler İşlenmiş Hâli)
 
 ### SAĞLIK BAKANLIĞI ÖN MALİ KONTROL İŞLEMLERİ YÖNERGESİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNERGE
 

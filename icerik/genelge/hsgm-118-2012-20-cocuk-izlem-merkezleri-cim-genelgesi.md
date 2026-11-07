@@ -13,13 +13,13 @@ duzeltildi: true
 
 4 Ekim 2012 PERŞEMBE                         Resmî Gazete                         Sayı: 28431
 
-GENELGE
+**GENELGE**
 
 Başbakanlıktan:
 Konu : Çocuk İzlem Merkezi (ÇİM)
 
-GENELGE
-2012/20
+**GENELGE**
+**2012/20**
 
 Geleceğimizin teminatı olan çocuklarımızın her türlü tehlikeden korunarak bedensel ve ruhsal açıdan sağlıklı, eğitimli ve topluma yararlı bireyler olarak sosyal hayatta yerlerini almaları, Hükümetimizin temel hedefleri arasında bulunmaktadır.
 

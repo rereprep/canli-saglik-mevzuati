@@ -58,7 +58,7 @@ Bakan
 
 ## BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç**, Kapsam, Dayanak ve Tanımlar
 
 ### Amaç
 

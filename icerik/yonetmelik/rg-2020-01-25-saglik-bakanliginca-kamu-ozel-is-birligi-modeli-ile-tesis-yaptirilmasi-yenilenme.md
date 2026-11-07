@@ -13,7 +13,7 @@ ocr: true
 duzeltildi: true
 ---
 
-YÖNETMELİK
+**YÖNETMELİK**
 
 Karar Sayısı: 2049
 
@@ -68,7 +68,7 @@ b) 4 üncü maddesi 15/4/2015 tarihinden itibaren uygulanmak üzere yayımı tar
 c) Diğer maddeleri yayımı tarihinde,
 yürürlüğe girer.
 
-MADDE 10- Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+**MADDE 10-** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
 “Ek-3
 
@@ -186,7 +186,7 @@ ifade eder.”
 
 ## “Ek-4
 
-KULLANIM BEDELİ TABAN VE TAVANININ BELİRLENMESİ
+**KULLANIM BEDELİ TABAN VE TAVANININ BELİRLENMESİ**
 
 ### Kullanım Bedeli Tabanı:
 

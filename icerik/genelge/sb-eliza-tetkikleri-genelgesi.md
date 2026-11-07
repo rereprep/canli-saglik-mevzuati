@@ -19,7 +19,7 @@ SAĞLIK BAKANLIĞI
 Tedavi Hizmetleri Genel Müdürlüğü
 
 Th. B100THG0100004/3120/ ANKARA 15.01.1992  
-Konu : Eliza tetkikleri hk.
+**Konu :** Eliza tetkikleri hk.
 
 TEMEL SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE
 
@@ -38,7 +38,7 @@ SAĞLIK BAKANLIĞI
 Tedavi Hizmetleri Genel Müdürlüğü
 
 Th. B100THG0100004-3120/3045  
-ANKARA  
+**ANKARA**  
 9.1.1992  
 Konu : Eliza tetkikleri hk.
 
@@ -68,7 +68,7 @@ BAKAN
 ### DAĞITIM:  
 19 İl Valiliklerine  
 Ek'li listedeki Devlet Hast. Baştabibliklerine (İvediliğinden)  
-Merkez Daireler-Şubeler
+**Merkez** Daireler-Şubeler
 
 ### PİLOT BÖLGE OLARAK UYGULANACAK İLLER  
 Adana İli ve İlçeleri Devlet Hastaneleri Baştabibliklerine  
@@ -88,5 +88,5 @@ Samsun " " " "
 Ordu " " " "  
 Giresun " " " "  
 Trabzon " " " "  
-Rize " " " "  
+**Rize** " " " "  
 Artvin " " " "

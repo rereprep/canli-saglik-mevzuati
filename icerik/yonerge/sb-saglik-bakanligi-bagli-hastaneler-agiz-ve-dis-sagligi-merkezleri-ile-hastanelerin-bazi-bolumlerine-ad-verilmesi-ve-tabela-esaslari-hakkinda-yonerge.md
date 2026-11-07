@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.3. Sağlık Bakanlığı Bağlı Hastaneler, Ağız ve Diş Sağlığı Merkezleri ile Hastanelerin Bazı Bölümlerine Ad Verilmesi ve Tabela Esasları Hakkında Yönerge
+**2.2.3. Sağlık Bakanlığı Bağlı Hastaneler, Ağız ve Diş Sağlığı** Merkezleri ile Hastanelerin Bazı Bölümlerine Ad Verilmesi ve Tabela Esasları Hakkında Yönerge
 
 ### Bakanlık Makamına sunuş yazısı
 
@@ -26,7 +26,7 @@ Sayı: 54567092-010.04
 
 Konu: Sağlık Bakanlığına Bağlı Hastaneler, Ağız Ve Diş Sağlığı Merkezleri İle Hastanelerin Bazı Bölümlerine Ad Verilmesi Ve Tabela Esasları Hakkında Yönerge
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 10/7/2018 tarihli ve 30474 sayılı Resmi Gazete'de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 355 inci ve 508 inci maddesine dayanılarak hazırlanan "Sağlık Bakanlığına Bağlı Hastaneler, Ağız Ve Diş Sağlığı Merkezleri İle Hastanelerin Bazı Bölümlerine Ad Verilmesi Ve Tabela Esasları Hakkında Yönerge" ekte sunulmaktadır.
 
@@ -80,7 +80,7 @@ d) Hastane: Bakanlıkça ruhsatlandırılmış, ayaktan ve yatarak hasta muayene
 
 e) HSGM: Halk Sağlığı Genel Müdürlüğünü,
 
-1) KHGM: Kamu Hastaneleri Genel Müdürlüğünü,
+1) **KHGM: Kamu** Hastaneleri Genel Müdürlüğünü,
 
 g) Müdürlük: İl Sağlık Müdürlüğünü,
 
@@ -228,7 +228,7 @@ Evrakın elektronik imzal: suretine http://e-belge.saglik.gov.tr adresinden bc3d
 
 d) Totem: Yerleştirilecek alanın durumu göz önünde bulundurulur ve en az 50 (elli) metreden görülecek büyüklükte, Sağlık Bakanlığı Kurumsal Kimlik Kılavuzu'na uygun olarak hazırlanır. Totemlerde, bu Yönergenin 4 üncü maddesinin birinci fıkrasının tüm bentleri kullanıhr.
 
-e) Bina Içi Yönlendirme Tabelaları: Sağlık tesisinin bölümlerinin bulunabilmesi amacıyla, binalarda giriş ve katlarda, sabit veya taşınabilir bir mesnet üzerine yerleştirilmiş; gidilecek yeri yönlendiren ve sağlık tesisi içinde ziyareti kolaylaştıracak, kat bilgisi ve/veya yön göstergesi ile birim adlarının yer aldığı tabelalardır. Bina içi yönlendirme tabelaları, poliklinik, klinik, doktor odası, toplantı salonu, laboratuvar, görüntüleme birimleri ve benzeri bölümlere yön verecek şekilde Sağlık Bakanlığı Kurumsal Kimlik Kılavuzu'na uygun olarak yerleştirilir. Yön ve yer gösterici tabelalar aynı levha üzerinde birlikte kullanılabilir. Bu durumda, yön okları tabelanın sağ tarafına, kat numaraları ise tabelanın sol kısmına konulur.
+e) **Bina Içi** Yönlendirme Tabelaları: Sağlık tesisinin bölümlerinin bulunabilmesi amacıyla, binalarda giriş ve katlarda, sabit veya taşınabilir bir mesnet üzerine yerleştirilmiş; gidilecek yeri yönlendiren ve sağlık tesisi içinde ziyareti kolaylaştıracak, kat bilgisi ve/veya yön göstergesi ile birim adlarının yer aldığı tabelalardır. Bina içi yönlendirme tabelaları, poliklinik, klinik, doktor odası, toplantı salonu, laboratuvar, görüntüleme birimleri ve benzeri bölümlere yön verecek şekilde Sağlık Bakanlığı Kurumsal Kimlik Kılavuzu'na uygun olarak yerleştirilir. Yön ve yer gösterici tabelalar aynı levha üzerinde birlikte kullanılabilir. Bu durumda, yön okları tabelanın sağ tarafına, kat numaraları ise tabelanın sol kısmına konulur.
 
 f) Bina Dışı Yönlendirme Tabelaları: Sağlık tesisinin kolayca bulunabilmelerine yardımcı olmak amacıyla faaliyet gösterilen binanın bulunduğu cadde veya sokak girişlerine yönlendirme tabelaları ilgili mevzuata göre konulabilir. Sağlık tesisinin ana yollardan uzak olması nedeniyle konulabilecek yönlendirme tabelaları, bulunduğu güzergåhtaki diğer yol ve yön tabela ölçülerine uygun olarak açık ve uzaktan görünür şekilde kullanılır. Mavi zemin üzerinde beyaz yazı ile bu Yönergenin 4 üncü maddesinin birinci fıkrasının (c), varsa (ç) ile (d)
 
@@ -240,7 +240,7 @@ g) Bina Içi Tabelalar: Sağlık tesisinde bulunan idari odalar, hasta odaları,
 
 **MADDE 9 –** (1) Bu Yönerge ile, 16.05.2018 tarihli ve 2787 sayılı makam onayı ile yürürlüğe konulan Sağlık Bakanlığına Bağlı Hastaneler, Ağız Ve Diş Sağlığı Merkezleri Ile Hastanelerin Bazı Bölümlerine Ad Verilmesine Ve Tabela Esasları Hakkında Yönerge yürürlükten kaldırılmıştır.
 
-GEÇICI MADDE 1- (1) Bu Yönergenin yürürlüğe girdiği tarihten önce yapılmış tabelalar, bu Yönergenin yürürlüğe girdiği tarihten itibaren en geç iki yıl içerisinde bu Yönerge hükümlerine uygun håle getirilir. Iki yıl içerisinde, bakım ve onarım planı varsa, tabelalar, bu bakım ve onarımla birlikte bu Yönerge hükümlerine uygun håle getirilir.
+**GEÇICI MADDE** 1- (1) Bu Yönergenin yürürlüğe girdiği tarihten önce yapılmış tabelalar, bu Yönergenin yürürlüğe girdiği tarihten itibaren en geç iki yıl içerisinde bu Yönerge hükümlerine uygun håle getirilir. Iki yıl içerisinde, bakım ve onarım planı varsa, tabelalar, bu bakım ve onarımla birlikte bu Yönerge hükümlerine uygun håle getirilir.
 
 #### Yürürlük
 

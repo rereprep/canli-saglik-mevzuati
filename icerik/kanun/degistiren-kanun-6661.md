@@ -15,7 +15,7 @@ duzeltildi: true
 
 KANUN NO. 6661
 
-Kabul Tarihi: 14/1/2016
+**Kabul Tarihi: 14/1/2016**
 
 MADDE 1- 21/6/1927 tarihli ve 1111 sayılı Askerlik Kanununun ek 1 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrası yürürlükten kaldırılmıştır.
 “Otuma veya çalışma iznine sahip olarak işçi, işveren sıfatıyla veya bir meslek ya da sanatı icra ederek, yurt içinde geçirilen süreler hariç olmak üzere, toplam en az üç yıl süre ile fiilen yabancı ülkelerde bulunan bu Kanun ile 1076 sayılı Yedek Subaylar ve Yedek Askeri Memurlar Kanununa tabi yükümlüler, 38 yaşını tamamladıkları yılın sonuna kadar durumlarını ispata yarayan belgelerle birlikte bağlı bulundukları Türk konsoloslukları aracılığı ile askerlik şubelerine başvurmaları ve 1.000 avro veya karşılığı kadar yönetmelikte belirtilecek yabancı ülke parasını, başvuru tarihinde defaten ödemeleri hâlinde muvazzaf askerlik hizmetini yerine getirmiş sayılırlar.”
@@ -62,11 +62,11 @@ MADDE 9- 5490 sayılı Kanunun 7 nci maddesinin birinci fıkrasına aşağıdaki
 “h) Biyometrik verisi.”
 “(a), (g), (ğ) ve (h) bentlerinde belirtilen kayıtlar sadece elektronik ortamda tutulur.”
 
-MADDE 10- 5490 sayılı Kanunun 11 inci maddesinin birinci fıkrasında yer alan “nüfus cüzdanı” ibaresi “kimlik kartı” ve “nüfus cüzdanlarını” ibaresi “kimlik kartlarını”; 18 inci maddesinin birinci fıkrasında yer alan “nüfus cüzdanlarını” ibaresi “kimlik kartlarını” ve dördüncü fıkrasında yer alan “nüfus cüzdanı” ibaresi “kimlik kartı” şeklinde değiştirilmiştir.
+**MADDE 10-** 5490 sayılı Kanunun 11 inci maddesinin birinci fıkrasında yer alan “nüfus cüzdanı” ibaresi “kimlik kartı” ve “nüfus cüzdanlarını” ibaresi “kimlik kartlarını”; 18 inci maddesinin birinci fıkrasında yer alan “nüfus cüzdanlarını” ibaresi “kimlik kartlarını” ve dördüncü fıkrasında yer alan “nüfus cüzdanı” ibaresi “kimlik kartı” şeklinde değiştirilmiştir.
 
-MADDE 11- 5490 sayılı Kanunun Beşinci Kısım başlığı “Kimlik Kartı, Uluslararası Aile Cüzdanı ve Mavi Kart” şeklinde değiştirilmiştir.
+**MADDE 11-** 5490 sayılı Kanunun Beşinci Kısım başlığı “Kimlik Kartı, Uluslararası Aile Cüzdanı ve Mavi Kart” şeklinde değiştirilmiştir.
 
-MADDE 12- 5490 sayılı Kanunun 41 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 12-** 5490 sayılı Kanunun 41 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 41- (1) Kimlik kartında yer alacak bilgiler ile kartın tasarımı, temini, basımı, dağıtım ve teslim yöntemi ile üretim ve kişiselleştirilmesinde kullanılacak sistemi belirlemeye Bakanlık yetkilidir.
 
 (2) Kimlik kartında yer alacak biyometrik verinin türü, niteliği ve alınma yaşı Bakanlıkça belirlenir.
@@ -95,30 +95,30 @@ MADDE 12- 5490 sayılı Kanunun 41 inci maddesi aşağıdaki şekilde değiştir
 
 (14) Kimlik kartı bedellerinin Hazine veznelerine yatırılmasına ilişkin usul ve esaslar Bakanlık ve Maliye Bakanlığınca müştereken belirlenir.”
 
-MADDE 13- 5490 sayılı Kanunun 42 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 13-** 5490 sayılı Kanunun 42 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Talep belgesi
 
 MADDE 42- (1) Kimlik kartı ve uluslararası aile cüzdanlarının verilebilmesi için şekli ve kapsamı Bakanlıkça belirlenen ve bastırılan talep belgeleri kullanılır. Doğum tutanaklarına dayanılarak kimlik kartı düzenlemesinde talep belgesi aranmaz.
 
 (2) Talep belgelerini uygulamaya koymaya veya uygulamadan kaldırmaya ve bunların saklama sürelerini belirlemeye Bakanlık yetkilidir.”
 
-MADDE 14- 5490 sayılı Kanunun 68 inci maddesinin birinci fıkrasının (b) ve (c) bentleri aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrasının (a), (b) ve (c) bentleri yürürlükten kaldırılmıştır.
+**MADDE 14-** 5490 sayılı Kanunun 68 inci maddesinin birinci fıkrasının (b) ve (c) bentleri aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrasının (a), (b) ve (c) bentleri yürürlükten kaldırılmıştır.
 “b) Evlenme olayını bildirme yükümlülüğünü süresi içinde yerine getirmeyenlere yurt içinde nüfus müdürlüklerince, yurt dışında ise dış temsilciliklerce 50 Türk lirası idarî para cezası verilir.
 c) Adres değişikliğini bildirme yükümlülüğünü süresi içinde yerine getirmeyenlere 50 Türk lirası, gerçeğe aykırı beyanda bulunanlara 1000 Türk lirası idarî para cezası, yurt içinde mülki idare amirlerince, yurt dışında ise dış temsilciliklerce verilir.”
 
-MADDE 15- 5490 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 15-** 5490 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “Atıflar
 
 EK MADDE 1- (1) Diğer mevzuatta “nüfus cüzdanı”, “hüviyet cüzdanı”, “nüfus hüviyet cüzdanı”, “hüviyet varakası”, “nüfus kağıdı” ibarelerine yapılan atıflar “Türkiye Cumhuriyeti kimlik kartı”na yapılmış sayılır.”
 
-MADDE 16- 5490 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 16-** 5490 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 6- (1) Nüfus cüzdanlarının düzenlenmesi ve dağıtılması 31/12/2016 tarihine kadar aşağıdaki usul ve esaslara göre yapılır:
 a) Nüfus cüzdanları, Bakanlıkça tespit edilen şekil, ebat ve örneğe uygun olarak Maliye Bakanlığınca bastırılır ve nüfus müdürlüklerinin ihtiyaçlarını karşılamak üzere muhasebe yetkililerine, dış temsilciliklerin ihtiyaçlarını karşılamak üzere Dışişleri Bakanlığına gönderilir.
 b) Muhasebe yetkilisince nüfus müdürlüklerinin ihtiyacı göz önünde tutularak, kadın ve erkek nüfus cüzdanlarının her biri için en fazla üçer bin adedi, bedeli sonradan ödenmek üzere, müteakiben üçer bin adetlik partiler hâlinde peşin para karşılığında verilir. Doğum bildirimlerinin kanuni süresi içinde yapılması hâlinde düzenlenecek nüfus cüzdanlarından değerli kâğıt bedeli alınmaz. Hatalı yazım nedeniyle iade edilen nüfus cüzdanları değerli kâğıt bedelinden düşülür.
 c) Nüfus cüzdanı, yurt içinde ilçe nüfus müdürlüklerince ve yurt dışında dış temsilciliklerce kişilerin kendilerine, ergin olmayanların veli, vasi veya resmî vekillik belgesi ibraz edenler ile bu Kanunun 17 nci maddesinde belirtilen, beyanla yükümlü kişilere Bakanlıkça tespit edilecek usuller çerçevesinde verilir.
 ç) Genel Müdürlük ile başkonsolosluklar, nüfus cüzdanı bedeli açısından 2489 sayılı Kanun hükümlerine tabi değildir.”
 
-MADDE 17- 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 17-** 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 68- (1) Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında haklarında uzun vadeli sigorta kolları hükümleri uygulanan sigortalıları çalıştıran işverenlerce;
 a) 2015 yılının aynı ayına ilişkin Kuruma verilen aylık prim ve hizmet belgelerinde prime esas günlük kazancı 85 TL ve altında bildirilen sigortalıların toplam prim ödeme gün sayısını geçmemek üzere, 2016 yılında cari aya ilişkin verilen aylık prim ve hizmet belgelerinde bildirilen sigortalılara ilişkin toplam prim ödeme gün sayısının,
 b) 2016 yılı içinde ilk defa bu Kanun kapsamına alınan işyerlerinden bildirilen sigortalılara ilişkin toplam prim ödeme gün sayısının,

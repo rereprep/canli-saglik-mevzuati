@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No . 4206 Kabul Tarihi: 7.11.1996
+**Kanun No . 4206 Kabul Tarihi: 7.11.1996**
 
 **MADDE 1 –** 375 sayılı Kanun Hükmünde Kararnamenin değişik 28 inci maddesinin (A) fıkrası aşağıdaki şekilde değiştirilmiştir.
 

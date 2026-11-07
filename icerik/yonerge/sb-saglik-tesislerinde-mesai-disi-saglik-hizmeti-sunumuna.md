@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.2.10. Sağlık Tesislerinde Mesai Dışı Sağlık Hizmeti Sunumuna Yönelik Usul ve Esaslar
+**7.2.10. Sağlık Tesislerinde Mesai Dışı Sağlık Hizmeti Sunumuna** Yönelik Usul ve Esaslar
 
 ### Amaç, kapsam, dayanak ve mesai dışı çalışma (kitap s. 841)
 
@@ -48,13 +48,13 @@ g) Mesai dıșı çalışma sadece sağlık hizmeti sunumu için planlanır.
 
 d) Mesai dışı çalışacak personel gönüllülük esasına göre ve talebi doğrultusunda belirlenir. Tabip ve diğer personelin çalışma gün ve sürelerine ilişkin takvimin oluşturulmasında ilgili personel ile işbirliği içerisinde karar verilir.
 
-Mesai dışı çalışma yapılamayacak birimler ile çalışmalar
+**Mesai dışı çalışma yapılamayacak birimler ile çalışmalar**
 
 MADDE- 6 (1) Hizmetin kesintisiz sürdürüldüğü acil servis, diyaliz ve yoğun bakım gibi birimlerde mesai dışı çalışma uygulamasına gidilmeyecektir.
 
 (2) Mesai kaydırması veya vardiya şeklinde yapılan çalışmalar mesai dışı çalışma olarak değerlendirilemeyecektir.
 
-Mesai dışı poliklinik hizmetleri planlama esasları
+**Mesai dışı poliklinik hizmetleri planlama esasları**
 
 MADDE- 7 (1) Mesai dışı poliklinik hizmeti planlaması yapılabilmesi için;
 
@@ -62,7 +62,7 @@ a) Ilgili branşın mesai içi poliklinik doluluk oranları / MHRS bekleyen tale
 
 b) Mesai saatleri dışında branşlara göre acil servise başvuru sayıları gözetilmelidir.
 
-Mesai dışı ameliyathane hizmetleri planlama esasları
+**Mesai dışı ameliyathane hizmetleri planlama esasları**
 
 MADDE- 8 (1) Mesai dışı ameliyathane hizmetleri planlaması yapılabilmesi için;
 
@@ -74,7 +74,7 @@ c) Mesai saatleri içinde planlanıp başlanan ameliyatların mesai içinde biti
 
 ç) Ameliyathanelerin mesai dışı çalışma ihtiyacında hafta tatilleri ile diğer resmi tatil günleri öncelikli olmak üzere mesai dışı zamanlar kullanılacaktır.
 
-Mesai dışı görüntüleme hizmetleri planlama esasları
+**Mesai dışı görüntüleme hizmetleri planlama esasları**
 
 MADDE- 9 (1) Mesai dışı görüntüleme hizmeti planlaması yapılabilmesi için;
 

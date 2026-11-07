@@ -14,19 +14,19 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.30. Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri Genelgesi (2022/2)
+**2.3.30. Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri** Genelgesi (2022/2)
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 83913885
 Konu : Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri
 
 22/03/2022
 
-GENELGE
-2022/2
+**GENELGE**
+**2022/2**
 
 Sağlık Bakanlığına bağlı sağlık kuruluşlarının tıbbi cihaz, mal ve hizmet alımı, kit veya sarf karşılığı cihaz kullanma uygulaması ile kamu sağlık tesislerinin tıbbi cihaz tahsisine ilişkin karşılaşılan sorunların giderilmesi ve uygulama birliğinin sağlanması amacıyla tıbbi cihazlarla ilgili mal ve hizmet alımı işlemlerine ilişkin usul ve esaslar aşağıda belirtilmiştir:
 
@@ -234,7 +234,7 @@ SE
 
 4.9. Kit karşılığı cihaz kullanma alımı yapılabilmesi için cihazların yerleştirileceği kuruluşlarda sorumlu olarak Biyokimya veya Mikrobiyoloji Uzmanı, Biyokimya veya Mikrobiyoloji doktorası yapan personel belirlenecek, ilgili personelin olmadığı kuruluşlarda Il Sağlık Müdürlüğünce, yukanda belirtilen personelden bulunan sağlık kuruluşlarından sorumlu personel görevlendirilecektir. Sarf karşılığı cihaz kullanımı için ilgili uzman doktor kurumda yok
 
-Sağhık Hizmetleri Genel Müdürlüğü 5. TIBBİ CİHAZ DAİMİ ÖZEL İHTİSAS KOMİSYONU (TCDÖİK) İZNİ:
+**Sağhık Hizmetleri Genel Müdürlüğü** 5. TIBBİ CİHAZ DAİMİ ÖZEL İHTİSAS KOMİSYONU (TCDÖİK) İZNİ:
 
 5.1. Sağlık tesislerinde kullanılacak tıbbi cihazlann satın almasına ilişkin esasları belirlemek ve bu hususta yatırım iznini kararlaştırmak amacıyla, Başbakanlık Makamının 05.10.1993 tarih ve 5107 sayıli onayı ile "Tıbbi Cihaz Daimi Özel İhtisas Komisyonu" (TCDÖIK) Bakanlığımız koordinatörlüğünde yürütülmektedir. Bu kapsamda, Sağlık Bakanlığı, Yükseköğretim Kurulu (YÖK) Başkanlığı ve Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı temsilcilerinin katılımıyla birer aylık dönemler halinde toplanarak çalışmalarını sürdürecektir.
 

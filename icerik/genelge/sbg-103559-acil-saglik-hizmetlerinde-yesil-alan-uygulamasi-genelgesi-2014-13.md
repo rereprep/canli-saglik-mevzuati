@@ -14,11 +14,11 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 23642684/010.06.02 - 5409.13
-Konu : Acil Sağlık Hizmetlerinde Yeşil Alan Uygulaması
+**Konu** : Acil Sağlık Hizmetlerinde Yeşil Alan Uygulaması
 Tarih: 26.03.2014
 
 ### GENELGE
@@ -36,9 +36,9 @@ Acil servislere başvuran tüm hastaların ilk müracaatta acil hasta olarak de�
 
 İlgi sayılı Genelgenin yürürlükten kaldırıldığı ile uygulamanın yukarıda vurgulanan esaslara uygun olarak yürütülmesi gerektiğinin, ilgili tüm sağlık kurum ve kuruluşlarına tebliğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 Bakan a.
-Müsteşar
+**Müsteşar**
 
 **DAĞITIM:**
 **Gereği:**

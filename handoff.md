@@ -38,6 +38,11 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## Bilinen eksikler / sonraki adımlar
 
+### 2026-11-07 — Koyu/italik biçim aktarımı
+- İşaretler: koyu **...**, italik <i>...</i> (tek * dipnotlarda kullanıldığı için italik etiketle). site_uret: satir_ici, bicim_parcala/word_ekle/pdf_bicim; PDF için Liberation Serif (normal/kalın/italik/kalın italik) — yayinla.yml fonts-liberation kurar.
+- Taranmamış: araclar/bicim_aktar.py (--indir → ../arastirma/bicim-kaynak/, --uygula [--yaz]). Kaynak HTML (b/strong/i/em, satır içi stil ve <style> sınıfları), PDF (yazı tipi adı), DOCX. Metin yeniden aktarılmaz; biçimli parçalar boşluktan bağımsız, kelime sınırında, sırayla eşleşirse işaretlenir. 1.105 belge, ~30.000 işaret. Kaynağın %60'tan fazlası biçimliyse belge atlanır (35).
+- Taranmış: araclar/bicim_tarama.py + goruntu_bicim.py (macOS Vision kelime kutuları /tmp/ocrkutu ← /tmp/ocrkutu.swift; koyu: inceltme sonrası kalan mürekkep oranı ≥1.4× sayfa medyanı; italik: eğim testi). Kitap ofsetleri: HSG 2025 +6, Mevzuat 2022 +6, SB Yönerge-Genelge 2025 ve 2026 +14. Önbellek ../arastirma/bicim-tarama/. Katı kural (uygula kati=True): koyu yalnız satır başında, ≤100 karakter, noktalı cümleyse ≤60, ardından küçük harf gelmiyorsa; italik satır başında ya da "(" ile başlıyorsa. 527 belge, 2.924 işaret. 42 belgenin kaynağı yok.
+
 ### 2026-11-07 — Gereği/Bilgi iki sütun düzeltmesi
 - Kalan 26 belge kaynak PDF'lerden düzeltildi: ../.gbindir.py (PDF indirme → ../arastirma/gb-pdf/), ../.gbsutun.py (pdfplumber kelime konumlarıyla sütun ayırma, sayfa geçişli), ../.gbyaz.py (eski karışık blokları silip Gereği/Bilgi bloklarını yazar; EL sözlüğünde elle düzeltilen 9 belge). "Dağıtım:" ile "Gereği:" arasına boş satır eklendi. Artık karışık "Gereği: Bilgi:" satırı kalmadı; 163 sayfada iki sütun.
 - Kaynak PDF'te yan yana duran "Gereği:" ve "Bilgi:" sütunları aktarımda tek satıra karışmıştı ("Gereği: Bilgi: 81 İl Valiliğine ... A PLANI ...").

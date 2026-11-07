@@ -17,7 +17,7 @@ Sağlık ve Sosyal Yardım Bakanlığından:
 
 ### Sağlık Hizmetlerinin Sosyalleştirildiği İl ve Bölgelerde Sağlık Ocağı ve Sağlık Evi Lojmanlarının Tahsis, Yönetim ve Kira Yönetmeliği
 
-Kapsam:
+**<i>Kapsam:</i>**
 
 **Madde 1 –** Sağlık Hizmetlerinin Sosyalleştirildiği ve nüfusu 6000 den az olan yerleşim yerleri içindeki Sağlık Ocağı ve Sağlık Evi Lojmanları 16/1/1961 gün ve 224 sayılı Kanunun 10. ncu maddesine dayanılarak Maliye Bakanlığı ile Sağlık ve Sosyal Yardım Bakanlığı tarafından müştereken hazırlanan bu yönetmelik hükümlerine göre yönetilir.
 

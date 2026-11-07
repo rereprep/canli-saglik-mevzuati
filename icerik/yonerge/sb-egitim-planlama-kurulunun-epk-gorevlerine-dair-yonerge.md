@@ -12,10 +12,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.1. Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönerge
+**2.2.1. Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönerge**
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : E-15260714/010.04

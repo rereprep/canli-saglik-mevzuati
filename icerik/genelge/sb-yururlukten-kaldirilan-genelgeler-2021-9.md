@@ -14,10 +14,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.40. Yürürlükten Kaldırılan Genelgeler (2021/9)
+**2.3.40. Yürürlükten Kaldırılan Genelgeler (2021/9)**
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 23642684
@@ -26,7 +26,7 @@ Konu : Yürürlükten kaldırılan Genelgeler
 81 İL VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
-GENELGE
+**GENELGE**
 (2021/9)
 
 İlgi :

@@ -13,14 +13,14 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 56733164/
 Konu : Diyaliz Merkezlerinde Enfeksiyon Kontrolüne Yönelik Tedbirler-2
 
 GENELGE
-2017/07
+**2017/07**
 
 Bilindiği üzere; Hepatit C virüsü (HCV) tüm dünyada yaygın olarak görülen, kronik karaciğer hastalığına sebep olan bir enfeksiyon etkenidir. HCV'nin en sık görüldüğü popülasyon arasında hemodiyaliz hastaları yer almaktadır.
 

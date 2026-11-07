@@ -25,7 +25,7 @@ kontrol_edildi: true
 
 Doğumdan itibaren bebeklik, çocukluk ve ergenlik dönemi boyunca geçen sürede sağlık hizmetlerine erişilebilirlik, sağlık hizmetlerinden faydalanma, bu hizmetlerin kalitesi ve hizmet sunumunda aynı ölçütlere uyulması, bebek ve çocuk ölümlerini önlemenin yanı sıra, bebeklerin sağlıklı gelişimlerini sağlamada ve sağlıklı bir toplum yapılanmasında son derece önemlidir. Bu amaçla bebeklikten ergenliğe standart bir hizmetin sunumu için Bakanlığımızca Bebek, Çocuk, Ergen İzlem Protokolleri geliştirilmiştir.
 
-Bebek, Çocuk, Ergen İzlem Protokolleri; bebeğe doğum sonrası bakımla başlayan, bebek ve çocuğun büyümesi ve gelişimindeki önemli basamaklarda en uygun yaklaşımı sağlayacak olan hizmetlerin verilmesinde kullanılır. İzlem dönemine uygun olarak tüm bebek, çocuk ve ergenlerin değerlendirilmesi, varsa sorunların tespiti, soruna yaklaşım, rutin uygulamalar gibi konuları içeren izlemler ile sağlık sorunlarının yarattığı diğer olumsuzlukların zamanında giderilmesine yönelik bütüncül bir yaklaşım sağlanır.
+**Bebek, Çocuk,** Ergen İzlem Protokolleri; bebeğe doğum sonrası bakımla başlayan, bebek ve çocuğun büyümesi ve gelişimindeki önemli basamaklarda en uygun yaklaşımı sağlayacak olan hizmetlerin verilmesinde kullanılır. İzlem dönemine uygun olarak tüm bebek, çocuk ve ergenlerin değerlendirilmesi, varsa sorunların tespiti, soruna yaklaşım, rutin uygulamalar gibi konuları içeren izlemler ile sağlık sorunlarının yarattığı diğer olumsuzlukların zamanında giderilmesine yönelik bütüncül bir yaklaşım sağlanır.
 
 Bu kapsamda yapılacak çalışmalarda aşağıdaki hususlara riayet edilecektir.
 

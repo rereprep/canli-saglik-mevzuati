@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.6. Tedarik Paylaşım Platformu Genelgesi (2018/18)
+**7.3.6. Tedarik Paylaşım Platformu Genelgesi (2018/18)**
 
 T.C.
 SAĞLIK BAKANLIĞI

@@ -15,16 +15,16 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 16304150-
 
 Konu : Özel ve Üniversite Hastanelerin TİG
-       Sistemine Veri Göndermesi hk.
+       **Sistemine Veri Göndermesi hk.**
 
-GENELGE
-2013/10
+**GENELGE**
+**2013/10**
 
 ................................. VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
@@ -47,8 +47,8 @@ Elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden Belge Num.:1
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Söz konusu klinik kodlama eğitimini almış personeli bulunmayan özel ve üniversite hastanelerine yönelik klinik kodlama eğitimi düzenlenmesi de planlanmaktadır. Eğitime katılacak olan personel bilgilerinin panel.tig.saglik.gov.tr, hastane yöneticileri tarafından doldurularak 28.06.2013 tarihi mesai bitimine kadar bildirim yapmaları gerekmektedir. Hastane yöneticilerine ait şifrelerin temini için ekte yer alan ve www.tig.saglik.gov.tr adresinden ulaşılabilecek Hastane TİG Yönetici Formunu doldurarak mail ile tigteknikdestek@saglik.gov.tr yollamaları gerekmektedir.
 
@@ -56,26 +56,26 @@ Tüm ilgili hastanelerin bu çerçevede gerekli önlemleri alarak zamanında Tİ
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 Bakan a.
-Müsteşar
+**Müsteşar**
 
-EKLER:
+**EKLER:**
 1- TİG Hastane Yönetici Bilgi Formu
 
 Belgenin Aslı Elektronik İmzalıdır
 [imza]
 23.06.2013
-Hakan YÜCESOY
+**Hakan YÜCESOY**
 Şef
 
-DAĞITIM:
+**DAĞITIM:**
 
-Gereği:
+**Gereği:**
 1- 81 İl Valiliği (İl Sağlık Müdürlüğü)
 2- Yüksek Öğretim Kurulu Başkanlığı
 
-Teşhis İlişkili Gruplar Daire Başkanlığı
+**Teşhis İlişkili Gruplar Daire Başkanlığı**
 Adres: Mithatpaşa Cad. No:3 B Blok 4.Kat No:9 Sıhhiye / ANKARA
 Tel: 0 (312) 458 50 11-13-14-15-16-17
 Faks: 0 (312) 435 16 79                         E-posta: tig@saglik.gov.tr   web: www.tig.saglik.gov.tr

@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.49. Genetik Veri Paylaşımı Genelgesi (2021/14)
+**2.3.49. Genetik Veri Paylaşımı Genelgesi (2021/14)**
 
 ### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 

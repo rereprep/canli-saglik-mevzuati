@@ -12,11 +12,11 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.2. Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergede Değişiklik Yapılmasına Dair Yönerge
+**2.2.2. Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergede** Değişiklik Yapılmasına Dair Yönerge
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : E-15260714/010.04
 Konu : Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönergede Değişiklik Yapılmasına Dair

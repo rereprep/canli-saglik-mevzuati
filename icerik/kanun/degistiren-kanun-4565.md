@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No. 4565 Kabul Tarihi: 19.4.2000
+**Kanun No. 4565 Kabul Tarihi: 19.4.2000**
 
 **MADDE 1 –** 29.7.1998 tarihli ve 4375 sayılı Türk Silâhlı Kuvvetleri İç Hizmet Kanunu, Devlet Memurları Kanunu ve Türkiye Cumhuriyeti Emekli Sandığı Kanununda Değişiklik Yapılmasına Dair Kanunun 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 

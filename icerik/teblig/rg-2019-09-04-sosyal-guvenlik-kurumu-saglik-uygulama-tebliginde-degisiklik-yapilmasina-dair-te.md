@@ -15,7 +15,7 @@ duzeltildi: true
 
 # TEBLİĞ
 
-Sosyal Güvenlik Kurumu Başkanlığından:
+**Sosyal Güvenlik Kurumu Başkanlığından:**
 
 **SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
@@ -264,16 +264,16 @@ a) Birinci, ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilm
 b) Maddeye aşağıdaki fıkra eklenmiştir.
 “(5) Gabapentin etken maddeli ilaçların üçüncü basamak sağlık kurumlarında düzenlenen en az bir nöroloji uzman hekiminin yer aldığı 1 yıl süreli sağlık kurulu raporuna istinaden nöroloji uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır.”
 
-MADDE 29- Aynı Tebliğin 4.2.27.Ç numaralı maddesinin ikinci fıkrasında yer alan “Eczanemizde Yoktur,” ibaresi yürürlükten kaldırılmıştır.
+**MADDE 29- Aynı** Tebliğin 4.2.27.Ç numaralı maddesinin ikinci fıkrasında yer alan “Eczanemizde Yoktur,” ibaresi yürürlükten kaldırılmıştır.
 
-MADDE 30- Aynı Tebliğin 4.2.30.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 30- Aynı** Tebliğin 4.2.30.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin başlığında yer alan “sildenafil,” ibaresinden sonra gelmek üzere “riociguat, seleksipag,” ibaresi eklenmiştir.
 b) Beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(5) Seleksipag yalnızca; endotelin reseptör antagonisti (ERA) ve/veya fosfodiesteraz Tip 5 (PDE-5) inhibitörü ile tedavinin yetersiz olduğu hastalarda kombinasyon tedavisi şeklinde kullanılması halinde (İloprost trometamol (inhaler formu) ile birlikte kullanımı hariç olmak üzere) bedelleri Kurumca karşılanır.”
 c) Yedinci fıkrasına yer alan “Sildenafil” ibaresinden sonra gelmek üzere “, riociguat” ibaresi eklenmiştir.
 ç) Aynı maddeye aşağıdaki fıkra eklenmiştir.
 “(8) İloprost trometamol (inhaler formu) ve seleksipag kombine kullanılamaz.”
-MADDE 31- Aynı Tebliğin 4.2.33 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 31-** Aynı Tebliğin 4.2.33 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
 “4.2.33- Göz hastalıklarında ilaç kullanım ilkeleri
 (1) Anti-VEGF ilaçlar (bevacizumab/ranibizumab/aflibersept), deksametazon intravitreal implant veya verteporfin etkin maddelerini içeren ilaçlar üçüncü basamak sağlık kurumlarında uygulanması ve reçete edilmesi halinde bedelleri Kurumca karşılanır.
 a) Başlangıç tedavilerinde; yükleme dozları açısından bevacizumab etkin maddeli ilaç için göz hastalıkları uzman hekimi tarafından 1 ay süreli tek hekim raporu ile günlük tedavi kapsamında diğer etkin maddeli ilaçlar içinse 3 göz hastalıkları uzman hekiminin yer aldığı 3 ay süreli sağlık kurulu raporuna istinaden göz hastalıkları uzman hekimlerince uygulanması ve aşağıda yer alan kurallar çerçevesinde reçete edilmesi ve ayakta tedaviler kapsamında ilaçların aylık olarak temini halinde bedelleri Kurumca karşılanır.
@@ -297,13 +297,13 @@ c) OKT’de merkezi fovea kalınlığının 250 mikron ve üzerinde olması.
 (12) Anti-VEGF ilaçlarla yükleme dozu sonrası, anti-VEGF ilaçların idame tedavisi sırasında ve anti-VEGF ilaç kullanımının kontrendike olduğu durumların herhangi birinde deksametazon intravitreal implant etkin maddeli ilacın kullanılması halinde bedelleri Kurumca karşılanır. Retinal ven tıkanıklığı ve diyabetik maküla ödemi tanılarında önceden deksametazon implant ile tedavi edilmiş, cevap alınmış ve ilaç kullanımına ara verilmiş hastalarda, hastalığın yeniden aktivasyonu ile tekrar ilaç gereksinimi durumunda son ilaçlanma tarihine bakılmaksızın aynı etkin maddeli ilaç ile tedaviye devam edilir.
 (13) Anti-VEGF ilaçların kullanımının kontrendike olduğu durumlar; son 3 ay içinde geçirilmiş miyokard enfarktüsü veya serebro vasküler olay ve benzeri vasküler patolojilerdir. Kontrendikasyon oluşturan gerekçe hekim tarafından sağlık kurulu raporunda mutlaka belirtilir.”
 
-MADDE 32- Aynı Tebliğin 4.2.33.A numaralı maddesinin birinci fıkrasında yer alan “olduğu durumlarda” ibaresinden sonra gelmek üzere “hekim tarafından gerekçeli görüldüğü takdirde” ibaresi eklenmiştir.
+**MADDE 32-** Aynı Tebliğin 4.2.33.A numaralı maddesinin birinci fıkrasında yer alan “olduğu durumlarda” ibaresinden sonra gelmek üzere “hekim tarafından gerekçeli görüldüğü takdirde” ibaresi eklenmiştir.
 
-MADDE 33- Aynı Tebliğin 4.2.33.B numaralı maddesinin ikinci fıkrasının birinci cümlesinde yer alan “2” ibaresi “4” olarak değiştirilmiş ve ikinci cümlesinde yer alan “cevap alınması durumunda” ibaresinden sonra gelmek üzere “veya glokomun eşlik ettiği hastalarda” ibaresi eklenmiştir.
+**MADDE 33-** Aynı Tebliğin 4.2.33.B numaralı maddesinin ikinci fıkrasının birinci cümlesinde yer alan “2” ibaresi “4” olarak değiştirilmiş ve ikinci cümlesinde yer alan “cevap alınması durumunda” ibaresinden sonra gelmek üzere “veya glokomun eşlik ettiği hastalarda” ibaresi eklenmiştir.
 
-MADDE 34- Aynı Tebliğin 4.2.33.C numaralı maddesinin birinci fıkrasında yer alan “olduğu durumlarda” ibaresinden sonra gelmek üzere “hekim tarafından gerekçeli görüldüğü takdirde” ibaresi eklenmiştir.
+**MADDE 34-** Aynı Tebliğin 4.2.33.C numaralı maddesinin birinci fıkrasında yer alan “olduğu durumlarda” ibaresinden sonra gelmek üzere “hekim tarafından gerekçeli görüldüğü takdirde” ibaresi eklenmiştir.
 
-MADDE 35- Aynı Tebliğin 4.2.34 numaralı maddesinin üçüncü fıkrasının (b) bendi yürürlükten kaldırılmıştır.
+**MADDE 35- Aynı** Tebliğin 4.2.34 numaralı maddesinin üçüncü fıkrasının (b) bendi yürürlükten kaldırılmıştır.
 
 MADDE 36- Aynı Tebliğin 4.2.35.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
@@ -312,26 +312,26 @@ a) Birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
 b) Maddeye aşağıdaki fıkra eklenmiştir.
 “(5) Kapsaisin etken maddesini mono olarak krem formunda içeren ürünlerin yalnızca açık deri lezyonlarının iyileşmesinde sonra herpes zoster enfeksiyonlarına eşlik veya takip eden nevraljinin (postherpetik nevralji) veya ağrılı diyabetik periferik polinöropatinin semptomatik tedavisinde; nöroloji, beyin cerrahisi, fiziksel tıp ve rehabilitasyon, anestezi ve reanimasyon, immünoloji, cilt hastalıkları, romatoloji, ortopedi ve travmatoloji, geriatri veya endokrinoloji ve metabolizma hastalıkları uzman hekimi tarafından veya bu uzman hekimlerden birinin düzenlediği uzman hekim raporuna dayanılarak tüm hekimlerce reçete edilmesi halinde bedelleri Kurumca karşılanır. Artrit, osteoartrit, kaş ve eklemlerin semptomatik tedavisinde reçete edilmesi halinde bedelleri Kurumca karşılanmaz.”
 
-MADDE 37- Aynı Tebliğin 4.2.35.B numaralı maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 37-** Aynı Tebliğin 4.2.35.B numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(2) Pregabalin etken maddeli ilaçların mono veya sabit doz kombinasyonlarının, üçüncü basamak sağlık kurumlarında düzenlenen romatoloji, ortopedi ve travmatoloji, fizik tedavi ve rehabilitasyon veya algoloji uzman hekimlerinden en az birinin yer aldığı en fazla 3 ay süreli sağlık kurulu raporuna istinaden bu hekimlerce reçete edilmesi halinde bedelleri Kurumca karşılanır.”
 
-MADDE 38- Aynı Tebliğin 4.2.49.A numaralı maddesinin birinci fıkrasında yer alan “4 ay süreli” ibaresinden sonra gelmek üzere “Kurumca belirlenen üçüncü basamak resmi sağlık kurumlarından” ibaresi, “İlaç Kullanım Onayı” ibaresinden sonra gelmek üzere “Kurumca belirlenen üçüncü basamak resmi sağlık kurumlarında” ibaresi eklenmiştir.
+**MADDE 38-** Aynı Tebliğin 4.2.49.A numaralı maddesinin birinci fıkrasında yer alan “4 ay süreli” ibaresinden sonra gelmek üzere “Kurumca belirlenen üçüncü basamak resmi sağlık kurumlarından” ibaresi, “İlaç Kullanım Onayı” ibaresinden sonra gelmek üzere “Kurumca belirlenen üçüncü basamak resmi sağlık kurumlarında” ibaresi eklenmiştir.
 
-MADDE 39- Aynı Tebliğin 4.2.49.B numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 39-** Aynı Tebliğin 4.2.49.B numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Birinci fıkrasının (a) bendinde yer alan “tanısı konmuş ve” ibaresinden sonra gelmek üzere “Kurumca belirlenen” ibaresi eklenmiştir.
 b) İkinci fıkrasında yer alan “İlaç Kullanım Onayı” ibaresinden sonra gelmek üzere “Kurumca belirlenen üçüncü basamak resmi sağlık kurumlarında” ibaresi eklenmiştir.
 c) Dördüncü fıkrasında yer alan “İlaç Kullanım Onayı” ve ibaresinden sonra gelmek üzere “Kurumca belirlenen üçüncü basamak resmi sağlık kurumlarında” ibaresi eklenmiştir.
 
-MADDE 40- Aynı Tebliğin 4.2.53 numaralı maddesinin birinci fıkrasında yer alan “çocuk endokrinolojisi” ibaresi “endokrinoloji” şeklinde değiştirilmiştir.
+**MADDE 40-** Aynı Tebliğin 4.2.53 numaralı maddesinin birinci fıkrasında yer alan “çocuk endokrinolojisi” ibaresi “endokrinoloji” şeklinde değiştirilmiştir.
 
-MADDE 41- Aynı Tebliğin 4.2 numaralı maddesine aşağıdaki madde eklenmiştir.
+**MADDE 41- Aynı** Tebliğin 4.2 numaralı maddesine aşağıdaki madde eklenmiştir.
 “4.2.58- Pimekrolimus ve takrolimus (topikal formları) kullanım ilkeleri
 (1) Ayakta tedavilerde aynı reçetede 2 kutuya kadar tüm hekimlerce, 2 kutu üzeri kullanım gereken hallerde dermatoloji uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır. Dermatoloji uzman hekimlerince düzenlenen 1 yıl süreli rapora istinaden aynı reçetede 10 kutuya kadar tüm hekimlerce, 10 kutu üzeri kullanım gereken hallerde dermatoloji uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır.”
 
-MADDE 42- Aynı Tebliğin 4.3 numaralı maddesinin üçüncü fıkrasına aşağıdaki cümle eklenmiştir.
+**MADDE 42-** Aynı Tebliğin 4.3 numaralı maddesinin üçüncü fıkrasına aşağıdaki cümle eklenmiştir.
 “EK-4/C Listesinde yer almayan ilaçların EK-4/C Listesine alınmasına yönelik başvuruların (eşdeğer ilaç uygulaması kapsamında yapılan eşdeğer ilaç kaydı başvuruları hariç olmak üzere) Kurumca değerlendirmeye alınabilmesi için; üçüncü basamak resmi sağlık kurumunda düzenlenmiş sağlık kurulu raporu ile üçüncü basamak resmi sağlık kurumunda düzenlenmiş reçetenin Kuruma ibraz edilmesi gerekmektedir.”
 
-MADDE 43- Aynı Tebliğin 4.4.1 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 43-** Aynı Tebliğin 4.4.1 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
 “4.4.1- Uygulanacak indirim oranları
 (1) Depocuya satış fiyatı 6,15 (altı virgül on beş) TL ve altında olan ilaçlar için kamu kurum iskontosu uygulanmaz (özel iskontolar saklı kalmak kaydıyla).
 (2) Depocuya satış fiyatı 6,15 (altı virgül on beş) TL’nin (dahil) üzerinde olan ilaçlara kamu kurum iskontosu olarak %10 veya %11 baz iskonto uygulanır (özel iskontolar saklı kalmak kaydıyla).

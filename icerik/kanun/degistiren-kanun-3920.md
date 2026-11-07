@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No : 3920 Kabul Tarihi : 2.12.1993
+**Kanun No : 3920 Kabul Tarihi : 2.12.1993**
 
 **MADDE 1 –** 375 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 

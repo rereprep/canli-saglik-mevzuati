@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.33. Tularemi Genelgesi (2005/61)
+**6.3.33. Tularemi Genelgesi (2005/61)**
 
 T.C.
 

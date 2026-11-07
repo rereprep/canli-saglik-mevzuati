@@ -16,9 +16,9 @@ kontrol_edildi: true
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Türkiye Halk Sağlığı Kurumu Başkanlığı
+**Türkiye Halk Sağlığı Kurumu Başkanlığı**
 
-Sayı: B.10.1.HSK.0.20.00.00/320
+**Sayı:** B.10.1.HSK.0.20.00.00/320
 
 Tarih: 20.03.2013
 

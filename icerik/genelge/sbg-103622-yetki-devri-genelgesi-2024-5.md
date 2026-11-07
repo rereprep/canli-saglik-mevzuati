@@ -15,7 +15,7 @@ kontrol_edildi: true
 
 ## 11.3. GENELGELER
 
-11.3.1. Yetki Devri Genelgesi (2024/5)
+**11.3.1. Yetki Devri Genelgesi (2024/5)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 
@@ -57,7 +57,7 @@ Bilgilerini ve gereğini rica ederim.
 
 Dr. Fahrettin KOCA
 
-Bakan
+**Bakan**
 
 ### Dağıtım
 

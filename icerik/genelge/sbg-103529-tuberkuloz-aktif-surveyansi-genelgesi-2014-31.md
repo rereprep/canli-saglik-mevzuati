@@ -15,10 +15,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.35. Tüberküloz Aktif Sürveyansı Genelgesi (2014/31)
+**6.3.35. Tüberküloz Aktif Sürveyansı Genelgesi (2014/31)**
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Türkiye Halk Sağlığı Kurumu Başkanlığı
 
 Sayı : 60949272-134 - 2014.5422.3/328 - 00006325983
@@ -54,4 +54,4 @@ Gereği:
 
 Bilgi:
 Sağlık Hizmetleri Genel Müdürlüğü
-Türkiye Kamu Hastaneleri Kurumu
+**Türkiye Kamu** Hastaneleri Kurumu

@@ -83,11 +83,11 @@ a) Spor Federasyonları Başkanlıkları b) Tesisler Dairesi Başkanlığı c) S
 
 a) Personel ve Eğitim Dairesi Başkanlığı b) İdari ve Mali İşler Dairesi Başkanlığı c) Dış İlişkiler Dairesi Başkanlığı d) Savunma Uzmanlığı Bağlı Birimler :
 
-Spor-Toto-Loto Teşkilat Müdürlüğü Genel Müdürlük Teşkilatı Ek - 1 sayılı cetvelde gösterilmiştir.
+**Spor-Toto-Loto Teşkilat Müdürlüğü** Genel Müdürlük Teşkilatı Ek - 1 sayılı cetvelde gösterilmiştir.
 
 **MADDE 11 –** 3289 sayılı Kanunun 8 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 
-Sürekli kurullar
+**Sürekli kurullar**
 
 **Madde 8 –** Gençlik ve Spor Genel Müdürlüğünün sürekli kurulları şunlardır :
 
@@ -101,13 +101,13 @@ Merkez Ceza Kurulu, Genel Müdürlük Ceza Kurulunun kanunda belirtilmeyen üyel
 
 **MADDE 12 –** 3289 sayılı Kanunun 13 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
-Bütçe ve mali hükümler
+**Bütçe ve mali hükümler**
 
 **Madde 13 –** Özel Bütçeler bu Kanunun 14 üncü maddesindeki esaslar ve Genel Müdürlük direktifleriyle illerin ihtiyaçları gözönünde tutularak il müdürlüklerince valiler tarafından Ekim ayı başında Genel Müdürlüğe gönderilir. Bu bütçeler Genel Müdürlükçe incelendikten sonra Genel Müdürün onayı ile yürürlüğe girer, bölüm maddeleri arasında yapılacak aktarmalar valinin onayı ile, bölümler arasında yapılacak aktarma ise Genel Müdürün onayı ile yapılır.
 
 **MADDE 13 –** 3289 sayılı Kanunun 19 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 
-Federasyon başkanlarının seçimi ve kurullarının teşkili
+**Federasyon başkanlarının seçimi ve kurullarının teşkili**
 
 **Madde 19 –** Federasyon başkanları seçimle göreve gelirler ve bu görev fahridir.
 
@@ -115,13 +115,13 @@ Federasyon başkanlarının seçimi, kurullarının teşkili, çalışmaları, g
 
 **MADDE 14 –** 3289 sayılı Kanunun 23 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
-Sporcuların sigortalanması
+**Sporcuların sigortalanması**
 
 **Madde 23 –** Millî takımlara seçilen sporcular ile bu takımların teknik kadrolarında yer alanlar, müsabaka öncesi yapılan kamp çalışmalarının başlangıcından, müsabaka sonrası ikametgâhına ulaşıncaya kadar, Millî Takım listesinde yer alan diğer görevliler ise müsabakaya gidiş tarihlerinden, ikametgâhlarına varış tarihine kadar geçen sure içerisinde her türlü kaza, hastalık ve sakatlanmalara karşı özel sigorta sistemine göre Genel Müdürlükçe sigortalanır.
 
 Sigortalanma esas ve usulleri yönetmelikle düzenlenir.
 
-Yasama Bölümü Sayla . 4 23 Mart 1991 — Sayı : 20823 RESMİ GAZETE Sayfa : 5
+**Yasama Bölümü Sayla .** 4 23 Mart 1991 — Sayı : 20823 RESMİ GAZETE Sayfa : 5
 
 **MADDE 15 –** 3289 sayılı Kanunun 31 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 

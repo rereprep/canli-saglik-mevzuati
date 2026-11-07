@@ -16,14 +16,14 @@ kontrol_edildi: true
 ---
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Türkiye Halk Sağlığı Kurumu
+**SAĞLIK BAKANLIĞI**  
+**Türkiye Halk Sağlığı Kurumu**
 
 Sayı : 99858683/431.03.01  
 Konu : Gezici Sağlık Hizmeti
 
 ### ....... VALİLİĞİNE  
-(Halk Sağlığı Müdürlüğü)
+**(Halk Sağlığı Müdürlüğü)**
 
 Aile hekimliği uygulaması kapsamında sağlık hizmetine ulaşımın zor olduğu belde, köy, mezra, uzak mahalleler ve benzeri yerleşim yerlerine gezici sağlık hizmeti planlanarak aile hekimi ve aile sağlığı elemanlarınca sağlık hizmeti sunulması sağlanmakta olup, bu hizmete ilişkin planlamalar ve ödemeler Aile Hekimliği Uygulama Yönetmeliği ve Aile Hekimliği Ödeme ve Sözleşme Yönetmeliği'nin hükümleri çerçevesinde yapılmaktadır. Sahada uygulama birliğini sağlamak amacıyla ekte yer alan usul ve esaslar belirlenmiş olup, gezici sağlık hizmetlerinin planlanması ve ödemelerin hesaplanması ile ilgili olarak söz konusu usul ve esaslara riayet edilmesi hususunda;
 

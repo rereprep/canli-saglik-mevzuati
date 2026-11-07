@@ -64,7 +64,7 @@ Trişinellozis, esas olarak enfekte domuz etlerinin çiğ veya az pişmiş olara
 
 Bu hayvanlara ait etleri ya da et ürünlerini çiğ veya az pişmiş olarak yeme alışkanlığı olan toplumlarda her zaman epidemilerin olabileceği aşikârdır. Nitekim, değişik bilimsel kaynaklar bir çok trişinellozis epidemisini bildirmiştir.
 
-Trichinella, konak zinciri domuz-domuz-domuz şeklinde olan bir parazit olarak bilinmekle birlikte, hayvanlar arasındaki leş yeme, birbirini yeme veya hayvanlara enfekte etlerin çiğ olarak verilmesi sonucu parazitler diğer hayvanları da enfekte edebilmektedir. İnsanlar da hatalı beslenme alışkanlıkları yüzünden bu zincirdeki yerlerini almaktadırlar.
+**Trichinella**, konak zinciri domuz-domuz-domuz şeklinde olan bir parazit olarak bilinmekle birlikte, hayvanlar arasındaki leş yeme, birbirini yeme veya hayvanlara enfekte etlerin çiğ olarak verilmesi sonucu parazitler diğer hayvanları da enfekte edebilmektedir. İnsanlar da hatalı beslenme alışkanlıkları yüzünden bu zincirdeki yerlerini almaktadırlar.
 
 İnsanlar tarafından çiğ veya az pişmiş etlerle alınan kist içindeki Trichinella, kistin midede erimesi sonucu açığa çıkar. İnce bağırsaklara geçen larvalar 36 saat içinde erişkin hale gelir ve çiftleşerek larva doğurmaya başlar; her dişi yaklaşık olarak 4-16 hafta boyunca hareketli 1500 civarında larva doğurur. Doğan larvalar ince bağırsak mukozasına saldırır; ayrıca, bağırsaklardaki lenf veya mezenterik venüller vasıtasıyla kana geçer ve tüm vücuda yayılır. Larvalar, çiğneme kasları, dil, diyafram, boyun, kaburga kasları, biseps ve gastroknemius kasları, kalp kası ve gırtlaktaki çizgili kaslara yerleşerek kistleşir. Bu kistler, 6-8 ay sonra kalsifikasyona uğrar; kalsifikasyon genellikle 1 yılda tamamlanır. Larvalar kasların dışında beyin dokusuna da yerleşebilir.
 
@@ -253,7 +253,7 @@ Etlerin dondurulma dereceleri -15 °C’yi geçtikçe de bekletme süreleri azal
 ## Trişinellozis Vaka Bildirim Çizelgesi
 
 T.C.  
-SAĞLIK BAKANLIĞI  
+**SAĞLIK** BAKANLIĞI  
 Temel Sağlık Hizmetleri Genel Müdürlüğü                                      ……/……/200…
 
 # TRİŞİNELLOZİS VAKA BİLDİRİM ÇİZELGESİ

@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.3. Uzmanlık Öğrencilerinin Uzmanlık Tezi ve Bilimsel Çalışmaları Genelgesi (2023/2)
+**7.3.3. Uzmanlık Öğrencilerinin Uzmanlık Tezi ve Bilimsel** Çalışmaları Genelgesi (2023/2)
 
 T.C.
 SAĞLIK BAKANLIĞI

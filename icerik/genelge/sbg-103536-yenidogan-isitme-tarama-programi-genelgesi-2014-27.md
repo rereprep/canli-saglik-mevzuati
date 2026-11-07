@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.58. Yenidoğan İşitme Tarama Programı Genelgesi (2014/27)
+**6.3.58. Yenidoğan İşitme Tarama Programı Genelgesi (2014/27)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 Türkiye Halk Sağlığı Kurumu

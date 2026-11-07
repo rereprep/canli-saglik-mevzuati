@@ -469,7 +469,7 @@ NOT 2: Halihazırda faaliyette olan aile sağlığı merkezleri, bina şartları
 | Kesin kayıtlı nüfusun bir yıl içinde muayene oranı | ………. |
 | ServiksCa/kolon Ca/meme Ca hedef nüfusları | ………/………/…….. |
 
-(NOT: Yukarıdaki bilgilerin doldurulması zorunludur.)
+**(NOT: Yukarıdaki bilgilerin doldurulması zorunludur.)**
 
 1. Muayene odasının girişinde bulunan tabela, tabela yönetmeliğine uygun mu?
 

@@ -13,7 +13,7 @@ ocr: true
 duzeltildi: true
 ---
 
-YÖNETMELİK
+**YÖNETMELİK**
 
 Karar Sayısı: 3327
 
@@ -24,7 +24,7 @@ Ekli “İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Deği
 Recep Tayyip ERDOĞAN
 CUMHURBAŞKANI
 
-İŞYERİ AÇMA VE ÇALIŞMA RUHSATLARINA İLİŞKİN YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞYERİ AÇMA VE ÇALIŞMA RUHSATLARINA İLİŞKİN YÖNETMELİKTE** DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
 
 MADDE 1- 14/7/2005 tarihli ve 2005/9207 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmeliğin ek 3 üncü maddesinin sonuna aşağıdaki fıkra eklenmiştir.
 

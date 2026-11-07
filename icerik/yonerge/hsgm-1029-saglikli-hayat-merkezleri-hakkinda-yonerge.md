@@ -147,7 +147,7 @@ h) Sağlıklı hayat merkezleri Bakanlıkça çıkarılan kurumsal kimlik kılav
 ### Hizmet türleri
 **MADDE 10-** (1) Sağlıklı hayat merkezlerinde aşağıda sayılan hizmetler verilir:
 
-a) Beslenme ve diyetetik hizmetleri.
+a) **Beslenme ve diyetetik hizmetleri**.
 
 b) Çocuk ve ergen sağlığı hizmetleri.
 

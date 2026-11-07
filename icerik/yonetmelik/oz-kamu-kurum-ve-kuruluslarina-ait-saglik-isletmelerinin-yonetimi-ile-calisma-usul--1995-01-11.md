@@ -19,52 +19,52 @@ kontrol_edildi: true
 
 Ekli “Kamu Kurum ve Kuruluşlarına Ait Sağlık İşletmelerinin Yönetimi ile Çalışma Usul ve Esasları Hakkında Yönetmelik”in yürürlüğe konulması; Sağlık Bakanlığı’nın 19/10/1994 tarihli ve 2937 sayılı yazısı üzerine, 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesine göre, Bakanlar Kurulu’nca 29/11/1994 tarihinde kararlaştırılmıştır.
 
-Süleyman DEMİREL  
+**Süleyman DEMİREL**  
 CUMHURBAŞKANI
 
-Prof. Dr. Tansu ÇİLLER  
-Başbakan
+**Prof. Dr. Tansu ÇİLLER**  
+**Başbakan**
 
-M. KARAYALÇIN — Devlet Bakanı ve Başb. Yrd.  
+**M. KARAYALÇIN** — Devlet Bakanı ve Başb. Yrd.  
 N. CEVHERİ — Devlet Bakanı  
 Y. AKTUNA — Devlet Bakanı  
 A. Ş. EREK — Devlet Bakanı
 
-M. GÜLCEGÜN — Devlet Bakanı  
+**M. GÜLCEGÜN** — Devlet Bakanı  
 B. S. DAÇE — Devlet Bakanı  
 Ö. ALPAGO — Devlet Bakanı  
 A. E. KRATLIOĞLU — Devlet Bakanı
 
-N. KURT — Devlet Bakanı  
-H. ÇULHAOĞLU — Devlet Bakanı V.  
+**N. KURT** — Devlet Bakanı  
+**H. ÇULHAOĞLU** — Devlet Bakanı V.  
 A. A. DOĞAN — Devlet Bakanı  
 A. ATAÇ — Devlet Bakanı
 
-S. SÜMER — Devlet Bakanı  
+**S. SÜMER** — Devlet Bakanı  
 A. GÖKDEMİR — Devlet Bakanı  
 Ş. ERDEM — Devlet Bakanı  
-M. MOĞULTAY — Adalet Bakanı
+**M. MOĞULTAY** — Adalet Bakanı
 
-M. GÖLHAN — Milli Savunma Bakanı  
+**M. GÖLHAN** — Milli Savunma Bakanı  
 N. MENTEŞE — İçişleri Bakanı  
 M. KARAYALÇIN — Dışişleri Bakanı V.  
 İ. ATTİLA — Maliye Bakanı
 
-N. AYAZ — Milli Eğitim Bakanı  
+**N. AYAZ** — Milli Eğitim Bakanı  
 H. ÇULHAOĞLU — Bayındırlık ve İskan Bakanı  
-D. BARAN — Sağlık Bakanı
+**D. BARAN** — Sağlık Bakanı
 
-M. KÖSTEPEN — Ulaştırma Bakanı  
-R. ŞAHİN — Tarım ve Köyişleri Bakanı  
-N. MATKAP — Çalışma ve Sosyal Güvenlik Bakanı
+**M. KÖSTEPEN** — Ulaştırma Bakanı  
+**R. ŞAHİN** — Tarım ve Köyişleri Bakanı  
+**N. MATKAP** — Çalışma ve Sosyal Güvenlik Bakanı
 
-M. DÖNEN — Sanayi ve Ticaret Bakanı  
-V. ATASOY — Enerji ve Tabii Kaynaklar Bakanı  
-T. SAVAŞ — Kültür Bakanı
+**M. DÖNEN** — Sanayi ve Ticaret Bakanı  
+**V. ATASOY** — Enerji ve Tabii Kaynaklar Bakanı  
+**T. SAVAŞ** — Kültür Bakanı
 
-Ş. ULUSOY — Turizm Bakanı  
-H. EKİNCİ — Orman Bakanı  
-R. AKÇALI — Çevre Bakanı
+**Ş. ULUSOY** — Turizm Bakanı  
+**H. EKİNCİ** — Orman Bakanı  
+**R. AKÇALI** — Çevre Bakanı
 
 # Kamu Kurum ve Kuruluşlarına Ait Sağlık İşletmelerinin Yönetimi İle Çalışma Usul ve Esasları Hakkında Yönetmelik
 

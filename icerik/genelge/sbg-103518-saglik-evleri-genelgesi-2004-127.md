@@ -14,9 +14,9 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.10. Sağlık Evleri Genelgesi (2004/127)
+**6.3.10. Sağlık Evleri Genelgesi (2004/127)**
 
-Sayı: B100TSH0130001
+**Sayı**: B100TSH0130001
 Konu: Sağlık evleri
 
 19.10.2004

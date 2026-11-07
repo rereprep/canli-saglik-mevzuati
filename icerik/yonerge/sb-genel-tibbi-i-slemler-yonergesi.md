@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.2.2. Genel Tıbbi İşlemler Yönergesi
+**7.2.2. Genel Tıbbi İşlemler Yönergesi**
 
 ### GENEL TIBBİ İŞLEMLER YÖNERGESİ
 

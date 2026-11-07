@@ -14,11 +14,11 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.11. Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9)
+**7.3.11. Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9)**
 
 T.C.
-SAĞLIK BAKANLIĞI
-TÜRKİYE KAMU HASTANELERİ KURUMU
+**SAĞLIK BAKANLIĞI**
+**TÜRKİYE KAMU HASTANELERİ KURUMU**
 TKHK - TKHK HUKUK MÜŞAVİRLİĞİ
 01.07.2013 - 16:54:56 - 89432283/641/6156
 01586109
@@ -27,11 +27,11 @@ Sayı : 80981279-010.06/
 Konu : Stok Yönetimi ve Taşınır Mal Uygulamaları
 
 ........ VALİLİĞİNE
-(İl Sağlık Müdürlüğü)
+**(İl Sağlık Müdürlüğü)**
 .. KAMU HASTANELERİ BİRLİĞİNE
-(Genel Sekreterlik)
+**(Genel Sekreterlik)**
 
-GENELGE 2013/9
+**GENELGE** 2013/9
 
 Bakanlığımızın yürütmekte olduğu Sağlıkta Dönüşüm Programı ile halkımıza daha iyi bir sağlık hizmeti sunumu amaçlanmış olup bu amaca yönelik çalışmalar kesintisiz olarak devam etmektedir. Sağlık hizmeti sunumunun sağlanmasında ihtiyaç duyulan kaynakların yeterince ve zamanında karşılanması, yüksek maliyetli sağlık hizmeti girdilerine karşılık, kıt kaynakların ekonomik, etkin ve verimli kullanılması hayati önemi haizdir.
 
@@ -39,21 +39,21 @@ Bu doğrultuda Bakanlığımızca 2009 yılından bu yana yayımlanan genelgeler
 
 Diğer taraftan 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname doğrultusunda devam eden süreçte Kamu Hastaneleri Birlikleri (bundan sonra Birlik olarak ifade edilecektir) kurularak faaliyetlerine başlamışlardır. Bu doğrultuda daha önce yayımlanan Genelgeler ile başlatılan uygulamaların Bakanlık Teşkilatının yeni yetki ve görev dağılımları ve yürürlüğe konulan yeni mevzuat çerçevesinde Birlik ölçeğinde yorumlanması ve işbu genelge ile yeniden düzenlenmesi ihtiyacı doğmuştur.
 
-1-STOK YÖNETİMİ UYGULAMALARI
+**1-STOK YÖNETİMİ UYGULAMALARI**
 
 1.1. Stok Kontrol Süreci ile İlgili Kavramlar
 
 Kamu Hastaneleri Birliklerinde, stok yönetiminin bir bileşeni olan stok kontrol süreci çerçevesinde uygulama birliğini sağlamak ve terim karmaşasını engellemek adına bazı kavramlara aşağıda yer verilmiştir.
 
-Birlik Stok Havuzu: Birliğe bağlı sağlık tesislerinin ambarlarında bulunan ve gerekli hallerde ortak kullanıma sunulan İlaç, Tıbbi Sarf, Kırtasiye, Tıbbi Cihaz, Demirbaş vb. mal ve malzemeler birlik stok havuzu olarak değerlendirilecektir. Birliğe bağlı sağlık tesisleri arasında ayrım olmaksızın bu mal ve malzemeler (öncelikle acil ihtiyaç ve kapasite fazlası durumlarında olmak üzere) ortak kullanılacaktır. Birlik Stok Havuzunun yönetimi, dağılımı ve kullanımı, ilgili mevzuat ve bu genelge hükümlerine aykırı olmamak üzere, kaynak israfına yol açmadan Genel Sekreterlikçe belirlenecektir.
+**Birlik Stok Havuzu:** Birliğe bağlı sağlık tesislerinin ambarlarında bulunan ve gerekli hallerde ortak kullanıma sunulan İlaç, Tıbbi Sarf, Kırtasiye, Tıbbi Cihaz, Demirbaş vb. mal ve malzemeler birlik stok havuzu olarak değerlendirilecektir. Birliğe bağlı sağlık tesisleri arasında ayrım olmaksızın bu mal ve malzemeler (öncelikle acil ihtiyaç ve kapasite fazlası durumlarında olmak üzere) ortak kullanılacaktır. Birlik Stok Havuzunun yönetimi, dağılımı ve kullanımı, ilgili mevzuat ve bu genelge hükümlerine aykırı olmamak üzere, kaynak israfına yol açmadan Genel Sekreterlikçe belirlenecektir.
 
-Fiili Stok Düzeyi: Stok yönetim performansı değerlendirilmek istenen Birlik, birliğe bağlı herhangi bir sağlık tesisi veya sağlık tesisinin herhangi bir ambarında (Or: A Sağlık Tesisi İlaç Ambarı gibi) bulunan fiili stok miktarını gün cinsinden gösteren değerdir. İncelemenin yapıldığı andaki fiili stok tutarının, günlük ortalama tüketim tutarına bölümü ile hesaplanır.
+**Fiili Stok Düzeyi:** Stok yönetim performansı değerlendirilmek istenen Birlik, birliğe bağlı herhangi bir sağlık tesisi veya sağlık tesisinin herhangi bir ambarında (Or: A Sağlık Tesisi İlaç Ambarı gibi) bulunan fiili stok miktarını gün cinsinden gösteren değerdir. İncelemenin yapıldığı andaki fiili stok tutarının, günlük ortalama tüketim tutarına bölümü ile hesaplanır.
 
-Günlük Ortalama Talep Hızı: İlgili ambardan belirli bir sürede tüketime verilen toplam birim miktarın günlük ortalamasıdır. Örneğin A ilacı için 12 adet/gün' dür.
+**Günlük Ortalama Talep Hızı:** İlgili ambardan belirli bir sürede tüketime verilen toplam birim miktarın günlük ortalamasıdır. Örneğin A ilacı için 12 adet/gün' dür.
 
-Azami Stok Miktarı: Tüketime dönük mal ve malzemeler için Kurumumuzca belirlenerek sağlık tesislerimizde bulundurulmasına izin verilen üst sınır stok miktarıdır.
+**Azami Stok Miktarı:** Tüketime dönük mal ve malzemeler için Kurumumuzca belirlenerek sağlık tesislerimizde bulundurulmasına izin verilen üst sınır stok miktarıdır.
 
-Stok Fazlası Miktar: İlgili malzeme için Azami Stok Miktarını aşan stok miktarıdır. Stok Fazlası Miktar = Fiili Stok Miktarı - Azami Stok Miktarı formülü ile hesaplanarak bulunur. Stok fazlası malzemeler öncelikle Birliğe bağlı diğer sağlık tesislerine devredilerek tüketilmelidir.
+**Stok Fazlası Miktar:** İlgili malzeme için Azami Stok Miktarını aşan stok miktarıdır. Stok Fazlası Miktar = Fiili Stok Miktarı - Azami Stok Miktarı formülü ile hesaplanarak bulunur. Stok fazlası malzemeler öncelikle Birliğe bağlı diğer sağlık tesislerine devredilerek tüketilmelidir.
 
 İhtiyaç Fazlası Miktar: İhtiyaca dönük olarak temin edildiği halde, çeşitli nedenlerle sağlık tesisinde ihtiyaç duyulmayan veya ihtiyacı aşan miktarda bulunan, elden çıkarılmadığı takdirde atıl kalan veya tesisin elinde kullanılamaz hale gelerek kamu zararına yol açacağı öngörülen ve Malzeme Kaynakları Yönetim Sistemi (MKYS) ekranlarında ilgili alana kayıt edilerek bildirimi yapılacak mal ve malzemelere ilişkin miktarları gösteren değerdir. İhtiyaç fazlası malzemeler de stok fazlası malzemeler gibi öncelikle birliğe bağlı diğer sağlık tesislerine devredilerek tüketilmelidir. 1.2. Azami Stok Miktarının Belirlenmesi
 
@@ -95,9 +95,9 @@ Stok Yönetim biriminde çalışan personeller bunların haricinde Genel Sekrete
 
 Sayı : 80981279-010.06/ Konu: Stok Yönetimi ve Taşınır
 
-Mal Uygulamaları
+**Mal** Uygulamaları
 
-1.4. Stok Yönetimi Hedeflerine Uygun İhale Dokümanlarının Oluşturulması
+**1.4. Stok Yönetimi Hedeflerine Uygun İhale Dokümanlarının Oluşturulması**
 
 Stok yönetimi kapsamında getirilen düzenlemelere uygun olarak hareket etmenin en önemli unsuru; ihtiyaç tespitinin gerçekçi yapılarak zamanında ve ilgili mevzuat doğrultusunda uygun satın almaların yapılmasıdır. Başka bir ifadeyle ihtiyacın uygun zamanda ve uygun koşullarda karşılanmasıdır. Bu bağlamda stok yönetimine katkı sağlayan en uygun (idareye alım yapma yükümlülüğü getirmemesi ve münferit alım sözleşmeleri ile peyderpey alım yapmaya imkån verdiği için) alım yöntemi olarak mevcut mevzuat hükümlerine göre Çerçeve Anlaşma İhaleleri öne çıkmaktadır.
 
@@ -107,7 +107,7 @@ Birlikler ve bağlı sağlık tesislerince ihaleye çıkılacak miktar belirleni
 
 Bu analizler sonucunda ihaleye çıkılacak miktarlar belirlenmeli ve stok yönetimi kapsamında yapılan düzenlemelere uygun olarak ihale dokümanlarının ilgili bölümleri (malın teslim alma şekil ve şartları ile teslim programı bölümleri) hazırlanarak ihalelere çıkılmalıdır.
 
- 2. IHTİYAÇ TESPİT VE PLANLAMA İŞLEMLERİ
+ 2. **IHTİYAÇ TESPİT VE PLANLAMA İŞLEMLERİ**
 
 Stok Yönetim Birimi ve İhtiyaç Tespit Komisyonları
 
@@ -187,7 +187,7 @@ g) Birliğe bağlı sağlık tesislerinden gelen talepler en geç 2 (iki) iş g�
 
 h) Söz konusu taşınırların devrinde gerekli kolaylık sağlanacak, muhtelif gerekçelerle devirlerin gerçekleştirilmesinden imtina edilmeyecektir.
 
-Aynı Kamu Hastaneler Birliğine Bağlı Sağlık Tesisleri Arasında Gerçekleştirilecek Malzeme Devirleri
+**Aynı Kamu Hastaneler** Birliğine Bağlı Sağlık Tesisleri Arasında Gerçekleştirilecek Malzeme Devirleri
 
 a) Birliğe bağlı sağlık tesisleri arasında yapılacak her türlü malzeme devirleri "İhtiyaç Fazlası " devirler hariç bedelli devir olarak gerçekleştirilecektir.
 
@@ -205,7 +205,7 @@ a) Farklı Birlikler bünyesindeki sağlık tesisleri arasında stok fazlası de
 
 b) Yapılacak bedelli ve bedelsiz devirler için devreden ve devir alan Genel Sekreterlikler arasında bir kereye mahsus olmak üzere gerçekleştirilecek ilk devirle birlikte taşınır devrine ilişkin protokol düzenlenecektir. (Kurumumuzca yayımlanan 08.11.2012 tarih ve 1973 sayılı "Üst Yöneticilik Yetkisi Verilmesi" konulu makam onayında belirtilen limitlere kadar harcama yetkisi Genel Sekreter'de bu limitlerin üzerinde kalanlar için
 
-Bakanlığımıza Bağlı Diğer Kurum ve Kuruluşlara Yapılacak Malzeme Devirleri Bakanlığımıza bağlı diğer kurum ve kuruluşlara malzeme devirleri imzalanacak protokoller çerçevesinde yapılacak olup MKYS üzerinde "Devir-Kurum Dışı Malzeme Çakışı" işlemi ile kaydedilecektir. 3.5. Diğer Kamu İdarelerine Yapılacak Malzeme Devirleri Taşınır Mal Yönetmeliği hükümleri çerçevesinde diğer kamu idarelerine yapılacak devir işlemleri MKYS üzerinde "Devir-Kurum Dışı Malzeme Çıkışı" işlemi ile kaydedilecektir.
+**Bakanlığımıza Bağlı Diğer Kurum ve Kuruluşlara Yapılacak Malzeme** Devirleri Bakanlığımıza bağlı diğer kurum ve kuruluşlara malzeme devirleri imzalanacak protokoller çerçevesinde yapılacak olup MKYS üzerinde "Devir-Kurum Dışı Malzeme Çakışı" işlemi ile kaydedilecektir. 3.5. Diğer Kamu İdarelerine Yapılacak Malzeme Devirleri Taşınır Mal Yönetmeliği hükümleri çerçevesinde diğer kamu idarelerine yapılacak devir işlemleri MKYS üzerinde "Devir-Kurum Dışı Malzeme Çıkışı" işlemi ile kaydedilecektir.
 
  4. STOK YÖNETİMİNE İLİŞKİN DIGER HUSUSLAR
 
@@ -225,13 +225,13 @@ k) Başta tüketim işlemleri olmak üzere her türlü taşınır giriş ve çı
 
 1) Ilaç ve tıbbi sarf kalemleri başta olmak üzere tüm mal alımlarında MKYS fiyat sorgulamaları düzenli olarak yapılarak, idare için yaklaşık maliyet tespitine ilişkin veriler sürekli güncel tutulacaktır. Bunu sağlamak üzere Genel Sekreterlik bünyesinde Mali Hizmetler Başkanının uygun göreceği kişi veya kişilerce Fiyat Analiz Çalışmalarıi yapılacaktır.
 
- TAŞINIR KAYIT İŞLEMLERİ
+ **TAŞINIR KAYIT İŞLEMLERİ**
 
 Yönergenin 34 üncü maddesinin 1 inci fikrasında: “Kamu Hastaneleri Birlikleri bünyesinde bulunan sağlık tesislerinin her türlü mal ve hizmet alımı ihaleleri ile yapım işi ihaleleri ve bunlara ilişkin muayene kabul ve kontrol işlemleri Genel Sekreterlik tarafından yürütülür." hükmü ile ve aynı maddenin 4 üncü fikrasında: "Genel Sekreter tarafından uygun görülmesi halinde muayene kabul işlemleri ile kontrol işlemleri ilgili sağlık tesisince de yürütülebilir." hükmüne yer verilmiştir. Bu doğrultuda; Sayı : 80981279-010.06/ Konu: Stok Yönetimi ve Taşınır
 
-Mal Uygulamaları
+**Mal** Uygulamaları
 
-a) Genel Sekreterlikçe Alımı ve Muayene Kabulü Yapılan Malların Taşınır Kayıt İşlemleri
+a) **Genel Sekreterlikçe Alımı ve Muayene Kabulü Yapılan Malların Taşınır Kayıt** İşlemleri
 
 Birliğe bağlı sağlık tesislerince talep edilen ve Genel Sekreterlikçe alımı ile muayene ve kabulü yapılan malların taşınır işlemleri, Genel Sekreterlikte taşınır kayıt işlemlerinden sorumlu bir veya birden fazla taşınır kayıt ve kontrol yetkilisi tarafından yapılır. Daha sonra malı talep eden sağlık tesisine Devir-Birlik Sağlık Tesisine Devir hareket türü ile çıkış kaydedilir. İlgili Sağlık Tesisindeki Taşınır Kayıt ve Kontrol Yetkililerince de Devir-Birlik Stok Havuzundan Devir Al hareket türü ile alınarak giriş kaydedilir.
 
@@ -249,9 +249,9 @@ Genel Sekreterlikçe alımı yapılan ve muayene kabul işlemleri sağlık tesis
 
 Sayı : 80981279-010.06/ Konu: Stok Yönetimi ve Taşınır
 
-Mal Uygulamaları
+**Mal** Uygulamaları
 
-Sağlık Tesislerince Alımı Yapılan Malların Taşınır Kayıt İşlemleri
+**Sağlık Tesislerince Alımı Yapılan Malların Taşınır Kayıt İşlemleri**
 
 Sağlık tesislerince alımı ve muayene kabul işlemleri yapılan malların taşınır işlemleri sağlık tesisince ilgili mevzuat çerçevesinde yürütülür.
 
@@ -267,7 +267,7 @@ d) Taşınırların devri, imha ve hurdaya ayrılması, satışı veya terkin i�
 
 Sayı : 80981279-010.06/ Konu: Stok Yönetimi ve Taşınır Mal Uygulamaları
 
-7. YÜRÜRLÜKTEN KALDIRMA:
+7. **YÜRÜRLÜKTEN KALDIRMA:**
 
 Bu genelgenin yayımı tarihi itibarı ile aşağıda belirtilen genelgeler ve bu genelgelere istinaden yayımlanan genel yazılar yürürlükten kaldırılmıştır.
 

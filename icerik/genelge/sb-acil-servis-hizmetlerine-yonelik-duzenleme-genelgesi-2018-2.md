@@ -15,7 +15,7 @@ kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 54567092
 Konu : Acil Servis Hizmetlerine Yönelik Düzenleme
@@ -25,7 +25,7 @@ DAĞITIM YERLERİNE
 ### GENELGE
 **2018/2**
 
-Acil servis hizmetlerinde bazı özellikli ve yoğun hastanelerimizin yaşadığı sorunları ve sebeplerini çözmek üzere, acil sağlık hizmetleri tebliği değişiklik çalışmaları tamamlanmış ve yayınlanma aşamasındadır. Bu aşamada hasta yoğunluğunu azaltmak ve hasta memnuniyetini artırmak için ekli listede bulunan hastanelerin aşağıdaki hususlarda ivedilikle çalışmalar yapması gerekmektedir.
+<i>Acil</i> servis hizmetlerinde bazı özellikli ve yoğun hastanelerimizin yaşadığı sorunları ve sebeplerini çözmek üzere, acil sağlık hizmetleri tebliği değişiklik çalışmaları tamamlanmış ve yayınlanma aşamasındadır. Bu aşamada hasta yoğunluğunu azaltmak ve hasta memnuniyetini artırmak için ekli listede bulunan hastanelerin aşağıdaki hususlarda ivedilikle çalışmalar yapması gerekmektedir.
 
 1. Hastanelerde standart poliklinik hizmetlerinde "Mesai Kaydırma veya Vardiya Branş Polikliniği Uygulaması" yapılması,
 
@@ -62,7 +62,7 @@ b. İlgili acil servislerde araç giriş çıkış ve otopark imkânlarının ge
 Yukarıda sayılan düzenlemelerin ivedilikle yapılarak yeşil, sarı, kırmızı ve mesai kaydırma poliklinikleri günlük hasta sayısı ve ortalama bekleme sürelerinin Bakanlık tarafından tam ve zamanında takibinin yapılabilmesini teminen, il sağlık müdürlüklerine verilerin günlük gönderilmesi ve ilgili il sağlık müdürlükleri ve sağlık tesisi yöneticilerinin uygulamaları yerinde bizzat takiplerinin sağlanması hususunda gereğini rica ederim.
 
 Dr. Ahmet DEMİRCAN
-Bakan
+**Bakan**
 
 ### DAĞITIM:
 İlgili İl Valiliklerine (İl Sağlık Müdürlüğü)

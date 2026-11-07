@@ -17,7 +17,7 @@ kontrol_edildi: true
 ## NÜFUS VE COĞRAFİ YAPISI NEDENİYLE KAYITLI NÜFUSUN ZORUNLU OLARAK DÜŞÜK OLDUĞU YERLER-2
 
 T.C.  
-SAĞLIK BAKANLIĞI  
+**SAĞLIK** BAKANLIĞI  
 Türkiye Halk Sağlığı Kurumu Başkanlığı  
 
 Sayı : 23248055  

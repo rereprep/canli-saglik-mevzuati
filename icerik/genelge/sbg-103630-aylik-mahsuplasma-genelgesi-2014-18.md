@@ -14,11 +14,11 @@ kontrol_edildi: true
 konu: "Döner sermaye ek ödemelerinde aylık mahsuplaşma işlemlerini düzenler."
 ---
 
-9.3.13. Aylık Mahsuplaşma Genelgesi (2014/18)
+**9.3.13. Aylık Mahsuplaşma Genelgesi (2014/18)**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI
-Müsteşarlık
+**Müsteşarlık**
 
 Sayı : 39608046-2014.4820.6982 / 30.04.2014  
 Konu : Aylık Mahsuplaşma

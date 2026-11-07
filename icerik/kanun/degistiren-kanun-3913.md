@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No. 3913 Kabul Tarihi : 8.7.1993
+**Kanun No. 3913 Kabul Tarihi : 8.7.1993**
 
 **MADDE 1 –** 2709 Saydı Türkiye Cumhuriyeti Anayasasının 133 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
@@ -27,9 +27,9 @@ Devletçe kamu tüzelkişiliği olarak kurulan tek radyo ve televizyon kurumu il
 
 9/7/1993 * TBMM Kararı Sosyal Sigortalar Kurumu ile SİSATEV Arasında Tetkik Hizmetleri Sağlanmasına vc Gayrimenkul Kiralanmasına İlişkin Olarak İlgili Yönetmelik Hükümlerinin İhlali Suretiyle Sözleşmeler Yaptığı İddiasıyla Çalışma ve Sosyal Güvenlik Eski Bakam İmren Aykut Hakkında Kurulan (9/15) Esas Numaralı Meclis Soruşturması Komisyonuna Üye Seçimine İlişkin Karar No.: 235 Karar Tarihi : 5.5.1993 Sosyal Sigortalar Kurumu ile SİSATEV arasında tetkik hizmetleri sağlanmasına ve gayrimenkul kiralanmasına ilişkin olarak ilgili yönetmelik hükümlerinin ihlali suretiyle sözleşmeler yaptığı iddiasıyla Çalışma ve Sosyal Güvenlik eski Bakanı İmren Aykut hakkında kurulan (9/15) Esas Numaralı Meclis Soruşturması Komisyonunun üyeliklerine, Genel Kurulun 5.5. 1993 tarihli 99 uncu Birleşiminde yapılan seçim sonucunda, aşağıda adları ve seçim bölgeleri yazılı milletvekilleri seçilmişlerdir.
 
-YÜRÜTME VE İDARE BÖLÜMÜ Yönetmelik Gazi Üniversitesinden :
+**YÜRÜTME VE İDARE BÖLÜMÜ** Yönetmelik Gazi Üniversitesinden :
 
-Gazi Üniversitesi Eğitim-öğretim ve Sınav Yönetmeliği Amaç ve Kapsam
+**Gazi Üniversitesi Eğitim-öğretim ve Sınav Yönetmeliği** Amaç ve Kapsam
 
 **Madde 1 –** Bu Yönetmeliğin amacı Gazi Üniversitesi'ne bağlı Fakülte ve Yüksekokulların kayıt, eğitim-öğretim ve sınavlarında uyulacak esasları tesbit etmektir.
 
@@ -129,19 +129,19 @@ Derslerle İlgili İntibaklar
 
 **Madde 17 –** Öğretim programlarında yetkili organlarca yapılacak değişiklikler sonucunda; öğrenciye kayıt sırasında tamamlamakla sorumlu tutulduğu öğretim programının toplam akademik yükünden daha ağır bir yük verilemeyeceği gibi, öğrencinin sözkonusu toplam akademik yükten daha az bir yükle diploma alması mümkün olamaz.
 
-Yürütme ve İdare Bölümü Sayfa: 4 Öğretim programlarında değişiklikler sonucunda programa yeni konan veya programdan çıkartılan öğretim faaliyetlerinin öğrencinin kayıt esnasında sorumlu tutulduğu öğretim programındaki öğretim faaliyetlerine göre akademik eşdeğerlikleri Fakülte ve Yüksekokul kurulunca belirlenerek yeni programlara intibakı yapılır.
+**Yürütme ve İdare** Bölümü Sayfa: 4 Öğretim programlarında değişiklikler sonucunda programa yeni konan veya programdan çıkartılan öğretim faaliyetlerinin öğrencinin kayıt esnasında sorumlu tutulduğu öğretim programındaki öğretim faaliyetlerine göre akademik eşdeğerlikleri Fakülte ve Yüksekokul kurulunca belirlenerek yeni programlara intibakı yapılır.
 
 **Madde 18 –** Yatay veya dikey geçişle Fakülte veya Yüksekokulun herhangi bir yarıyıl veya yılından öğrenime devam ettirilen öğrenci, bu yarıyıl veya yılın öğrencilerinin kayıt esnasında sorumlu tutuldukları öğretim programından sorumlu tutulur ve öğrencinin programa intibakı 17 nci Maddede belirtilen esasa göre yapılır.
 
-Devam Mecburiyeti
+**Devam Mecburiyeti**
 
 **Madde 19 –** Öğrencilerin teorik derslere en az yüzde yetmiş, uygulamalara en az yüzde seksen oranında devamları zorunludur. Derslere ve öteki öğretim faaliyetlerine devam durumu öğretim elemanı tarafından tesbit edilir. Devamsızlık nedeniyle ders tekrarına kalmamış olmak koşuluyla, uygulamalı dersler hariç, ders tekrarına kalan öğrencinin devam zorunluluğu ilgili yönetim kurulu kararıyla kaldırılabilir. Sağlık raporu devam yükümlülüğünü kaldırmaz.
 
-Danışmanın Görevlendirilmesi
+**Danışmanın Görevlendirilmesi**
 
 **Madde 20 –** Öğrencilere, eğitim-öğretim konularında karşılaşacakları problemlerin çözümünde yardımcı olmak üzere, öğretim yarıyılı/yılı başlamadan önce bölüm başkanlıklarının önerisi dikkate alınarak Fakülte/Yüksekokul yönetim kurullarınca ilgili bölümün öğretim elemanları arasından danışmanlar görevlendirilir. Danışmanların görevlerine ilişkin ilkeler Fakülte ve Yüksekokul kurullarınca ayrıca belirlenir.
 
-Sınavlar
+**Sınavlar**
 
 **Madde 21 –** Sınavlar; ara sınavları, dönem sonu (yarıyıl/yıl sonu) sınavları, mazeret ve bütünleme sınavlarıdır.
 
@@ -151,7 +151,7 @@ Dönem sonu sınavı sonucunda başarısız olan öğrenciye bütünleme sınav 
 
 Bütünleme sınavı sonucunda da başarısız olan öğrenci; derse kayıt, devam, ara sınav ve uygulama şartlarını yerine getirerek dersi tekrar eder ve her ders tekrarı için dönem sonu ve bütünleme sınavları olmak üzere iki sınav hakkı daha elde eder.
 
-Sınav Şartı
+**Sınav Şartı**
 
 **Madde 22 –** öğrenci başaramadığı bir dersi en çok iki kez tekrar edebilir. Böylece, bir dersin sınavına en çok altı kez girebilir. Bu sınav haklarını kullandığı halde herhangi bir dersi başaramayan öğrencinin kurumu ile ilişiği kesilir.
 
@@ -189,7 +189,7 @@ Sınav Notuna İtiraz
 
 **Madde 27 –** Öğrenci, sınav sonuçlarına maddi hata sebebiyle itirazını, sınav sonuçlarının ilanından itibaren yazılı olarak bir hafta içinde Dekanlığa veya Müdürlüğe yapabilir. İtiraz, ilgili Bölüm Başkanı veya Dönem Koordinatörü tarafından tetkik edilir. Sonuç, ilgili yönetim kurulunda değerlendirilir. İtirazın tetkik ve değerlendirilmesinin, itirazın yapıldığı tarihten itibaren 15 gün içinde sonuçlandırılması zorunludur.
 
-Yürütme ve İdare Bölümü Sayfa : 6 Başarı Notu ve Katkı Puanı
+**Yürütme ve İdare Bölümü Sayfa : 6** Başarı Notu ve Katkı Puanı
 
 **Madde 28 –** Fakülte ve Yüksekokullarda sınavlar yüz (100) tam puan üzerinden değerlendirilir. Fakülte veya Yüksekokul kurulunun en az üçte iki çoğunluğunun kararı ile harfli değerlendirme sistemi uygulanabilir. Bu durumda; bu yönetmeliğin puanla ilgili maddelerine paralellik ile geçiş ve intibak esasları ilgili Fakülte/Yüksekokul kurulunun kararlaştıracağı ve Senato'nun onaylayacağı bir yönerge ile sağlanır.
 
@@ -201,27 +201,27 @@ Başarı notu; Tıp, Dişhekimliği, Fen-Edebiyat, Mühendislik-Mimarlık, Eğit
 
 Tıp Fakültesi dışında, bir dersten başarılı olabilmek için o dersin yarıyıl/yıl sonu veya bütünleme sınavında; Dişhekimliği, İktisadi ve tdari Bilimler ve iletişim Fakültelerinde en az 60 puan, öteki öğretim kurumlarında en az 50 puan alınması zorunludur.
 
-Başarı notunun belirlenmesinde yarıyıl/yıl içi değerlendirmelerin katkı payı (ağırlığı);
+**Başarı notunun belirlenmesinde yarıyıl/yıl içi değerlendirmelerin katkı payı (ağırlığı);**
 
-Tıp Fakültesinde % 60, Dişhekimliği, Mühendislik-Mimarlık Fakülteleri ile Beden Eğitimi ve Spor Yüksekokullarında % 50, Fen-Edebiyat Fakültesi ve Eğitim Fakülteleri ile Sağlık Hizmetleri Meslek Yüksekokullarında % 40, öteki eğitim-öğretim kurumlarında 30'dur.
+**Tıp Fakültesinde % 60, Dişhekimliği, Mühendislik-Mimarlık Fakülteleri ile Beden Eğitimi ve** Spor Yüksekokullarında % 50, Fen-Edebiyat Fakültesi ve Eğitim Fakülteleri ile Sağlık Hizmetleri Meslek Yüksekokullarında % 40, öteki eğitim-öğretim kurumlarında 30'dur.
 
 2547 sayılı Kanunun 5/ı maddesinde belirtilen zorunlu derslerin değerlendirilmesinde de yukarıdaki esaslar uygulanır.
 
-Öğrenime Ara Verme
+**Öğrenime Ara Verme**
 
 **Madde 29 –** Öğrencilere, belgeleyecekleri önemli ve haklı nedenleri bulunması veya eğitim-öğretimlerine katkıda bulunacak yurtdışı burs, staj ve araştırma imkânları doğması halinde Fakülte veya Yüksekokul yönetim kurulu karan ile, lisans eğitim-öğretimi süresince toplam bir yıla kadar izin verilebilir. Bu tür izin süresi azami kanunî öğretim süresine eklenir. Ancak, bu tür izinler ile ilgili başvuruların kayıt yenileme süresi sonuna kadar yapılması gerekir.
 
-Yatay Geçişler
+**Yatay Geçişler**
 
 **Madde 30 –** Gazi Üniversitesi'ne bağlı öğretim kurumlarına, gerek bu üniversiteye bağlı öğretim kurumlarından, gerek başka Üniversitelerden yapılacak geçişler, yürürlükteki "Yükseköğretim Kurumları Arasında Önlisans ve Lisans Düzeyinde Yatay Geçiş Esaslarına İlişkin Yönetmelik" ve Yükseköğretim Kurulu ilkeleri uyarınca düzenlenir.
 
 Adı geçen yönetmelik hükümlerinin uygulanabilmesi için ha- Fakülte ve Yüksekokulun yönetim kurulu tarafından belirlenecek kontenjan, ders yılının başlamasından en geç bir ay önce Rektörlüğe bildirilir.
 
-Dikey Geçişler
+**Dikey Geçişler**
 
 **Madde 31 –** Eğitim ve Meslek Yüksekokulları mezunlarının lisans programına kabulleri, kayıtlarının hangi yarıyıla yapılacağı ve intibak programları, mevzuata ilişkin yönetmeliklerin hükümlerine göre ilgili yönetim kurulu kararıyla yapılır ve Rektörlüğün onayına sunulur.
 
-Diplomalar
+**Diplomalar**
 
 **Madde 32 –** Fakülte ve Yüksekokullar tarafından verilecek diplomalar önlisans, lisans (Dişhekimliği Fakültesinde Dişhekimliği yüksek lisans diploması, Tıp Fakültesinde tıp doktora Yürütme ve İdare Bölümü Sayfa : 7 diploması), her düzey için farklı, fakat Gazi Üniversitesi'nin bütün öğretim kurumlarında müşterek olmak üzere düzenlenir.
 
@@ -253,13 +253,13 @@ Tebligat-Adres Bildirme
 
 **Madde 36 –** Her türlü tebligat, öğrencinin yükseköğretim kurumuna kayıt esnasında bildirdiği adrese yazılı olarak yapılmak ve ilgili yükseköğretim kurumunda ilan edilmek suretiyle tamamlanmış sayılır.
 
-Yürütme ve İdare Bölümü Sayfa : 8 Yükseköğretim kurumuna kayıt olurken bildirdikleri adresi değiştirdikleri halde bunu mensubu bulundukları kurumlara kaydettirmemiş bulunan veya yanlış veya eksik adres vermiş olan öğrenciler yükseköğretim kuvumunda mevcut adreslerine tebligatın yapılmış olması halinde, kendilerine tebligat yapılmadığım iddia edemezler.
+**Yürütme ve İdare Bölümü Sayfa : 8** Yükseköğretim kurumuna kayıt olurken bildirdikleri adresi değiştirdikleri halde bunu mensubu bulundukları kurumlara kaydettirmemiş bulunan veya yanlış veya eksik adres vermiş olan öğrenciler yükseköğretim kuvumunda mevcut adreslerine tebligatın yapılmış olması halinde, kendilerine tebligat yapılmadığım iddia edemezler.
 
-Yönerge Hazırlanması
+**Yönerge Hazırlanması**
 
 **Madde 37 –** Fakülte ve Yüksekokullar, eğitim ve öğretimle ilgili yönergelerini kendi yetkili kurullarında karara bağlayarak eğitim-öğretim ve sınav yönetmeliğinin yürürlüğe girmesini takibeden en geç bir ay içinde Üniversite Senatosu'nun onayına sunarlar.
 
-Yürürlükten Kaldırılan Yönetmelik
+**Yürürlükten Kaldırılan Yönetmelik**
 
 **Madde 38 –** 27/1/1989 tarih ve 20062 sayılı Resmi Gazete'de yayınlanmış olan Gazi Üniversitesi Eğitim-öğretim ve Sınav Yönetmeliği ve değişiklikleri 1993-1994 Eğitim-öğretim yılı başından itibaren yürürlükten kaldırılmıştır.
 
@@ -269,10 +269,10 @@ Yürürlükten Kaldırılan Yönetmelik
 
 Birinci paragrafta sözü edilen konularda; 1993-1994 eğitim-öğretim yılı başı itibariyle öğrenimlerini sürdürmekte olan öğrenciler hakkında yürürlükten kaldırılan yönetmeliğin ilgili hükümleri uygulanır.
 
-Yürürlük
+**Yürürlük**
 
 **Madde 40 –** Bu Yönetmelik 1993-1994 Eğitim-öğretim yılı başından itibaren yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
 **Madde 41 –** Bu Yönetmelik hükümlerini Gazi Üniversitesi Rektörü yürütür.

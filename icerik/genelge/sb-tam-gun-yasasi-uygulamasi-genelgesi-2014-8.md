@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.23. Tam Gün Yasası Uygulaması Genelgesi (2014/8)
+**2.3.23. Tam Gün Yasası Uygulaması Genelgesi (2014/8)**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -25,7 +25,7 @@ Konu : Tam Gün Yasası Uygulaması
 
 05/03/2014
 
-GENELGE
+**GENELGE**
 2014/8
 
 02/01/2014 tarihli ve 6514 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun 18/01/2014 tarihli ve 28886 sayılı Resmî Gazetede yayımlanarak yürürlüğe girmiştir. 6514 sayılı Kanun ile 657 sayılı Devlet Memurları Kanununun 28 inci maddesi, 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun Ek 27 nci maddesi, 2547 sayılı Yükseköğretim Kanununun 36 ncı maddesi ile 2955 sayılı Gülhane Askeri Tıp Akademisi Kanununun 32 nci maddesinde değişiklik yapılmıştır.
@@ -73,7 +73,7 @@ Prof. Dr. Nihat TOSUN
 Bakan a.
 Müsteşar
 
-DAĞITIM:
+**DAĞITIM**:
 Gereği :
 1) Milli Savunma Bakanlığı
 2) Çalışma ve Sosyal Güvenlik Bakanlığı

@@ -245,7 +245,7 @@ Tüp içindeki tesirli maddenin net ağırlığı yarıdan aşağı düştüğü
 
 Duvar veya sütrenin taban kenarları bina veya tanktan en az 1 metrelik uzaklıktan başlar.
 
-Duvar yerine toprak set kullanılması halinde setlerin üstleri en az 1 metre genişliğinde olacak ve kenarlarının meyli normal şev meylinden fazla olmıyacaktır.
+**Duvar yerine toprak set kullanılması halinde setlerin üstleri en az** 1 metre genişliğinde olacak ve kenarlarının meyli normal şev meylinden fazla olmıyacaktır.
 
 Toprakla dolu setler galvanizli saç veya yanmaz diğer uygun bir malzeme ile iksa edilmiş olacak, kalınlığı aşağıdan yukarı azalacak şekilde toprakla doldurulacak ve sütrenin üst noktada genişliği en az 1 metre olacaktır. Duvarların taştan yapıldığı hallerde en az 75 santimetre kalınlıkta ve çimento harçlı olarak inşa edilmiş olacak, betonarme duvar inşaası halinde ise, kalınlık tabanda 25 santimetre ve üst noktada 10 santimetreden az olmıyacaktır. Giriş kapılan ve geçitler, işçileri; patlama basıncı veya alevlerden koruyacak şekilde, uygun yanmaz siperlerle veya patlama duvarları ile teçhiz edilmiş olacaktır.
 
@@ -268,7 +268,7 @@ Bu gibi maddeler- binanın güvenlik alanları dışında bu işe ayrı mış be
 
 İşçilerin birinci fıkrada belirtilen hususlarda yeterli bilgilere ve b bilgileri uygulama yeteneğine sahip oldukları, işveren veya işyeri sorum lusu tarafından saptanmadan işe başlatılması, çalıştırılması veya başk bir işe verilmesi yasaktır.
 
-DÖRDÜNCÜ BÖLÜM Depolamada alınacak Güvenlik Tedbirleri
+**DÖRDÜNCÜ BÖLÜM** Depolamada alınacak Güvenlik Tedbirleri
 
 **Madde 74 –** Bu bölümde geçen:
 
@@ -361,7 +361,7 @@ b) Seri numarası,
 c) Doldurulacak gazın cinsi,
 d) Boş ve dolu ağırlığı ve hacmi,
 e) En çok doldurma basıncı,
-f) İmal tarihi.
+**f) İmal tarihi.**
 
 İmalâtçı firma, gaz tüpleri ile birlikte kontrol veya garanti belgesini de alıcıya vermek zorundadır.
 

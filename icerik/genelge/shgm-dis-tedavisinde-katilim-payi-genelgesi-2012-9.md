@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Tedavi Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Tedavi Hizmetleri Genel Müdürlüğü**
 
 Sayı : B.10.0.THG.0.83.00.03-010.06
 Konu : Diş tedavisinde katılım payı
@@ -28,9 +28,9 @@ Uygulama Tebliği ve Mevzuatı Şubesi
 23 Ocak 2012 09:23:37 /3240
 13222925
 
-VALİLİĞİNE
+**VALİLİĞİNE**
 
-GENELGE
+**GENELGE**
 2012/9
 
 Diş tedavileri ve özellikle protez işlemleri hastaların sağlık hizmet sunucusuna birden fazla gelmesini gerektiren tedaviler olup, bahse konu tedavilere ilişkin 5510 Sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu’nun 68 inci maddesi uyarınca %10 ila %20 oranında katılım payının sağlık hizmet sunucusunca hastadan tahsil edilmesi gerekmektedir. Bakanlığımıza ulaşan başvurulardan bahse konu katılım payının tedavinin hangi aşamasında tahsil edilmesi gerektiği ile ilgili tereddütler yaşandığı anlaşılmaktadır. Uygulamada birliğin sağlanması ve standart ödeme modelinin geliştirilebilmesi bakımından genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerden katılım payının; hizmet kaydının yapılmasını müteakip fatura kayıt işleminden sonra tahsil edilmesi uygun mütalaa edilmiştir.
@@ -44,13 +44,13 @@ Prof. Dr. Nihat TOSUN
 Bakan a.
 Müsteşar
 
-DAĞITIM:
+**DAĞITIM:**
 
-Gereği:
+**Gereği:**
 81 İl Valiliğine
 (İl Sağlık Müdürlüğü)
 
-Bilgi için:
+**Bilgi için:**
 Sosyal Güvenlik Kurumu Başkanlığına
 
 Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğü Rüzgarlı Cad. Plevne Sk. No:7 Kat: 2. Dai.7 Ulus/ANKARA

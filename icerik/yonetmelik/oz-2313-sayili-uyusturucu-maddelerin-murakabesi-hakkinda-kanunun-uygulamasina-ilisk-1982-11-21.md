@@ -21,7 +21,7 @@ Adalet Bakanlığından :
 
 GENEL HÜKÜMLER
 
-Amaç ve kapsam:
+**<i>Amaç ve kapsam:</i>**
 
 **Madde 1 –** 2313 sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanunun 21. maddesine göre çıkarılan bu Yönetmelik; kanun kapsamında olup da imali, ithali, ihracı, satılması, devri, bulundurulması, kullanılması, tedariki suç teşkil eden uyuşturucu madde ve müstahzarlardan gerek analiz için, gerekse hükmün kesinleşmesine kadar saklanmak üzere örnek alınması, tahlil için gönderilmesi, uyuşturucu maddenin zaptı ve imhası, uyuşturucu madde örneğinin hükmün kesinleşmesine kadar saklanması, imhada hazır bulunacak heyetin kuruluşu, imhanın ne şekilde yapılacağı ve teslim usulü ile ilgili hususları düzenler.
 
@@ -29,13 +29,13 @@ Amaç ve kapsam:
 
 UYUŞTURUCU MADDE VE MÜSTAHZARLAR İLE SUÇ EŞYASININ ZAPTI
 
-Zapta yetkili olanlar:
+**<i>Zapta yetkili olanlar:</i>**
 
 **Madde 2 –** Zabıta ile görevlerini ifa sırasında veya görevleri gereği olarak;
 
 Gümrük ve Tekel memurları, Sağlık ve Sosyal Yardım Bakanlığı müfettiş ve müdürleri, hükümet tabipleri, sağlık ocağı tabipleri, hudut ve sahiller sağlık teşkilâtı memurları 1. maddede belirtilen uyuşturucu madde ve müstahzarlar ile suç eşyasını zapta yetkilidirler.
 
-Tutanak düzenleme :
+**<i>Tutanak düzenleme :</i>**
 
 **Madde 3 –** Uyuşturucu madde ve müstahzarlar ile suç eşyası zaptedildiğinde bir tutanak düzenlenir. Tutanakla birlikte bu madde ve eşyalar Cumhuriyet Savcılığına teslim edilir.
 
@@ -64,7 +64,7 @@ Uyuşturucu madde ve müstahzarlar ile suç eşyası bozulmayacak, değiştirilm
 
 **Madde 5 –** Hazırlık soruşturması veya son soruşturma sırasında örnek alınmasına karar verilmesi üzerine, Cumhuriyet Savcısı veya yardımcısı ile bunlar tarafından gerekli görüldüğü takdirde o yer zabıta teşkilatından konu ile ilgili bir görevli ve varsa Adli Tıp Kurumu veya polis narkotik laboratuvarı uzmanı hazır bulundurulur.
 
-Uyuşturucu maddeden örnek alınması:
+**<i>Uyuşturucu maddeden örnek alınması:</i>**
 
 **Madde 6 –** Uyuşturucu maddeden örnek alınması sırasında suç eşyasının ambalajı hazır bulunanlar tarafından düzenlenen bir tutanakla açılır ve net ağırlığı tespit edilerek 3. maddeye göre düzenlenen tutanakla uyuşturucu madde, müstahzar ve suç eşyasının karşılaştırılması yapılır.
 
@@ -82,7 +82,7 @@ Zaptedilen madde yukarıda belirtilen miktarlarda ayrı ayrı numune almaya yete
 
 Alınan numunelerin polis narkotik laboratuvarı veya Adli Tıp Kurumuna ya da her ikisine birlikte gönderilmesine hazırlık tahkikatı sırasında Cumhuriyet savcılığınca, son soruşturma sırasında mahkemece karar verilir.
 
-Jandarma Genel Komutanlığına gönderilecek örnek:
+**<i>Jandarma Genel Komutanlığına gönderilecek örnek:</i>**
 
 **Madde 7 –** Önemli uyuşturucu madde kaçakçılığı olaylarında uluslararası TEK Sözleşmesi uyarınca menşeinin tayin edilmesi amacıyla bilimsel araştırma ve analize tabi tutulmak üzere, ele geçen beş yüz gramdan fazla uyuşturucu maddelerden:
 
@@ -102,7 +102,7 @@ Laboratuvarlara gönderilecek koliler için Cumhuriyet Savcılığı istem yazı
 
 İstem yazıları ile koli kapama tutanağının kalan suretleri ve ayrıca teslim konusunda düzenlenecek tutanak Cumhuriyet Savcılığında bulunan evraka eklenir.
 
-Laboratuvarlara gönderilecek kolilerin kapanması:
+**<i>Laboratuvarlara gönderilecek kolilerin kapanması:</i>**
 
 **Madde 9 –** Tahlil ve araştırma için gönderilecek örnekler fiziksel özelliklerine uygun naylon, bez torba, şişe, kavanoz veya madeni kutu gibi temiz bir ambalaj içine konur.
 
@@ -122,11 +122,11 @@ Kolinin üzerine, gideceği yer adresi ile gönderen Cumhuriyet Savcılığı ve
 
 UYUŞTURUCU MADDE VE NUMUNELERİN MUHAFAZASI
 
-Muhafaza yeri:
+**<i>Muhafaza yeri:</i>**
 
 **Madde 11 –** Uyuşturucu madde ve müstahzarlar ile suç eşyası, hazırlık tahkikatı sırasında örnek alınacaksa bu işlemden sonra, aksi takdirde hemen suç eşyası emanet dairesine teslim edilir ve suç eşyası emanet dairesinde muhafaza edilir.
 
-Numune alındıktan sonra yapılacak işlem:
+**<i>Numune alındıktan sonra yapılacak işlem:</i>**
 
 **Madde 12 –** Numune alındıktan sonra geri kalan uyuşturucu madde ve müstahzarlar ile diğer suç eşyaları ve emanet dairesinde saklanması gereken örnek, bu Yönetmeliğin 9 uncu maddesinde belirtilen şekilde birlikte ambalajlanır.
 
@@ -140,7 +140,7 @@ Zaptolunan emanet eşyasına mahsus makbuz beş nüsha olarak tanzim edilir.
 
 İki nüshası soruşturma evrakına bağlanır, iki nüshası eşya ile birlikte emanet memurluğuna verilir ve diğer nüsha Cumhuriyet Savcılığında özel kartonuna konur.
 
-Müsaderesine karar verilen maddeler:
+**<i>Müsaderesine karar verilen maddeler:</i>**
 
 **Madde 13 –** Mahkemeler, soruşturma ve kovuşturma sırasında uyuşturucu madde ve müstahzarların müsaderesine ilişkin olarak verdikleri kararın iki örneğini dosyadaki emanet makbuzu ile birlikte hemen Cumhuriyet Savcılığına tevdi ederler.
 
@@ -164,7 +164,7 @@ Uyuşturucu madde ve müstahzarlar dışında kalıp müsaderesine karar verilen
 
 ### UYUŞTURUCU MADDE, MÜSTAHZARLAR VE DİĞER SUÇ EŞYALARININ GÖNDERİLMESİ
 
-Cumhuriyet Savcılığının sorumluluğu:
+**<i>Cumhuriyet Savcılığının sorumluluğu:</i>**
 
 **Madde 15 –** Uyuşturucu madde, müstahzar ve diğer suç eşyalarının, kurye veya posta işletmesi ile gönderilmesine hazırlık tahkikatı sırasında Cumhuriyet Savcılığınca, son tahkikat sırasında mahkemece karar verilir ve bu işlemler, Cumhuriyet Savcısı veya yardımcısının nezaretinde yapılır.
 
@@ -176,7 +176,7 @@ Kolilerin kuryeye teslimi üzerine tutanak tanzim edilir. Tutanağın bir sureti
 
 Kolilerin gönderilmesi sırasında kuryenin korunması için gerekli önlemler Cumhuriyet Savcılığının istemi üzerine mahalli zabıta teşkilâtınca sağlanır.
 
-Posta işletmesiyle gönderme:
+<i>Posta</i> işletmesiyle gönderme:
 
 **Madde 17 –** Posta işletmesiyle göndermelerde bu Yönetmelik ile posta kolileri rehberinin ilgili hükümleri uygulanır.
 
@@ -184,7 +184,7 @@ Posta işletmesiyle gönderme:
 
 ### İMHA HEYETİNİN KURULUŞ, GÖREV VE ÇALIŞMA USULLERİ
 
-İmha heyeti:
+**<i>İmha heyeti:</i>**
 
 **Madde 18 –** İmha heyeti, valinin görevlendireceği yetkilinin başkanlığında;
 
@@ -197,7 +197,7 @@ c) Varsa Toprak Mahsulleri Ofisinin görevlendireceği bir yetkili.
 
 İmha işleminde ayrıca, başkan tarafından görevlendirilecek yeteri kadar memur bulundurulur.
 
-İmha heyetinin görevleri:
+**<i>İmha heyetinin görevleri:</i>**
 
 **Madde 19 –** İmha heyetinin görevleri şunlardır:
 
@@ -210,7 +210,7 @@ d) İmhanın usulüne uygun olarak gerçekleştirilmesini temin etmek.
 
 **Madde 20 –** İmha için gönderilen koli, teslim alındığında iki nüsha tesellüm tutanağı düzenlenir. Tutanağın biri kuryeye verilir, ikincisi açılan dosyaya eklenir.
 
-Valilikçe yapılacak işlemler:
+**<i>Valilikçe yapılacak işlemler:</i>**
 
 **Madde 21 –** Kolinin valiliğe teslimi üzerine, vali en geç üç gün içinde imha heyetini toplar. İmha heyeti, uyuşturucu madde ve müstahzarın nereden geldiğini, kolinin durumunu bir tutanakla belirler.
 
@@ -218,7 +218,7 @@ Kolinin açılması ve imha:
 
 **Madde 22 –** Heyet huzurunda koli açılır. Uyuşturucu madde ve müstahzarın miktarı ve nitelikleri tesbit edildikten sonra imha işlemi yapılır ve durum bir tutanakla tesbit edilir. Tutanağın bir nüshası dosyasına konmak üzere mahalli Cumhuriyet Savcılığına gönderilir.
 
-İmha işlemine nezaret:
+**<i>İmha işlemine nezaret:</i>**
 
 **Madde 23 –** İmha işlemi Cumhuriyet Savcısı veya yardımcısının nezaretinde yapılır.
 
@@ -228,13 +228,13 @@ Savcılığın nezaret görevini yerine getirebilmesi için kolinin açılacağ�
 
 ÇEŞİTLİ HÜKÜMLER
 
-Laboratuvarlarda saklanacak örnek:
+**<i>Laboratuvarlarda saklanacak örnek:</i>**
 
 **Madde 24 –** Laboratuvarlara inceleme için yollanan numunelerden laboratuvarların yetkili birimlerince sarfedilen miktardan arta kalan örnekler, bu yerlerde çelik dolap veya kasalarda saklanır.
 
 Arta kalan örneklerin saklanma süreleri ve imhasına ilişkin hususlar, laboratuvarın bağlı bulunduğu kuruluş tarafından çıkarılacak yönerge ile tesbit edilir.
 
-Laboratuvarlarca verilecek raporlar arasında farklılık:
+**<i>Laboratuvarlarca verilecek raporlar arasında farklılık:</i>**
 
 **Madde 25 –** Laboratuvarlarca düzenlenen raporlar arasında farklılık bulunduğu takdirde Jandarma Genel Komutanlığına bağlı narkotik analiz laboratuvarının konuya ilişkin görüşü alınır.
 
@@ -250,7 +250,7 @@ Yürürlük:
 
 **Madde 26 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-Yürütme:
+**<i>Yürütme:</i>**
 
 **Madde 27 –** Bu Yönetmelik hükümlerini Adalet, İçişleri, Sağlık ve Sosyal Yardım Bakanlıkları yürütür.
 

@@ -15,13 +15,13 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.68. Kamu Kurum ve Kuruluşlarında Şeker ve Tuz Kullanımı ile İlgili Düzenleme Genelgesi (2014/4)
+**6.3.68. Kamu Kurum ve Kuruluşlarında Şeker ve Tuz Kullanımı ile** İlgili Düzenleme Genelgesi (2014/4)
 
 T.C.
 SAĞLIK BAKANLIĞI
 Türkiye Halk Sağlığı Kurumu Başkanlığı
 
-Sayı : 92148377/322 - 2014.5776.79 / 326 - 00007230756
+**Sayı :** 92148377/322 - 2014.5776.79 / 326 - 00007230756
 Konu : Kamu Kurum ve Kuruluşlarında Şeker ve Tuz Kullanımı ile İlgili Düzenleme
 
 30.12.2014

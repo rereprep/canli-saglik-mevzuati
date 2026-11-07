@@ -15,7 +15,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.6. Mesai Saatleri Harici İşyeri Hekimliği Genelgesi (2014/1)
+**6.3.6. Mesai Saatleri Harici İşyeri Hekimliği Genelgesi (2014/1)**
 
 T.C.
 SAĞLIK BAKANLIĞI

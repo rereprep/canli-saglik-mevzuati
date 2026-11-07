@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.2.4.Yurtdışı Sağlık Tesislerinde Personel Görevlendirilmesine Dair Usul ve Esaslar Hakkında Yönerge
+**7.2.4.Yurtdışı Sağlık Tesislerinde Personel Görevlendirilmesine** Dair Usul ve Esaslar Hakkında Yönerge
 
 ### Bakanlık Makamına sunuş yazısı (kitap s. 806)
 

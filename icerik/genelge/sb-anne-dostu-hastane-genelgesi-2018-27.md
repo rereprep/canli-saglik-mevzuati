@@ -16,8 +16,8 @@ kontrol_edildi: true
 ### T.C. SAĞLIK BAKANLIĞI
 Halk Sağlığı Genel Müdürlüğü
 
-Sayı : 57536863/010.06.02
-Konu : Anne Dostu Hastane
+**Sayı** : 57536863/010.06.02
+**Konu :** Anne Dostu Hastane
 
 ### GENELGE
 2018/27

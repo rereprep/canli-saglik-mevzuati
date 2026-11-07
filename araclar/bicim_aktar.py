@@ -230,7 +230,11 @@ def isaretli_mi(b, bas, son):
     return b[p0:bas].count("**") % 2 == 1
 
 
-def uygula(b, kosular):
+SATIR_BASI = re.compile(r"[\s\-•–]*(?:[a-zçğıöşü]\)|[A-ZÇĞİÖŞÜ]\)|\d+(?:\.\d+)*[.)\-]?|\(\d+\))?\s*")
+
+
+def uygula(b, kosular, kati=False):
+    """kati: taranmış kaynaklar için yalnız satır başındaki koyu/italik ile parantezli italik notlar kabul edilir."""
     sik, konum = sikistir(b)
     imler = []  # (bas, son, koyu, italik)
     imlec = 0; bulunan = 0
@@ -257,6 +261,15 @@ def uygula(b, kosular):
         if k and (isaretli_mi(b, bas, son) or "**" in b[bas:son]): k = False
         p0 = b.rfind("\n\n", 0, bas) + 1
         if "<i>" in b[bas:son] or "</i>" in b[bas:son] or b[p0:bas].count("<i>") > b[p0:bas].count("</i>"): i = False
+        if kati:
+            onek = re.sub(r"\*\*|</?i>", "", b[satir_bas:bas])
+            basta = bool(SATIR_BASI.fullmatch(onek))
+            if not basta: k = False
+            duz = re.sub(r"\*\*|</?i>", "", b[bas:son]).strip()
+            if k and (len(duz) > 100 or (duz.endswith(".") and len(duz) > 60)): k = False
+            sonra = re.sub(r"^(\*\*|</?i>|\s)+", "", b[son:son + 12])
+            if k and sonra[:1].islower(): k = False
+            if i and not (basta or b[bas] == "("): i = False
         if not (k or i): continue
         imler.append((bas, son, k, i)); bulunan += 1
     if not imler: return b, 0

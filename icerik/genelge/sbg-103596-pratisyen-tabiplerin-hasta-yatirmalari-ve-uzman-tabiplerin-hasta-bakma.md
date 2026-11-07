@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.42. Pratisyen Tabiplerin Hasta Yatırmaları ve Uzman Tabiplerin Hasta Bakma Yaş Sınırı Genelgesi (2018/30)
+**2.3.42. Pratisyen Tabiplerin Hasta Yatırmaları ve Uzman** Tabiplerin Hasta Bakma Yaş Sınırı Genelgesi (2018/30)
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI

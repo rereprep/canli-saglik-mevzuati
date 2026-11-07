@@ -14,7 +14,7 @@ konu: "Sağlık Bakanlığı personelinin mal bildiriminde bulunma usul ve esasl
 kontrol_edildi: true
 ---
 
-9.3.7. Mal Bildirimleri Konulu Genelge (2018/20)
+**9.3.7. Mal Bildirimleri Konulu Genelge (2018/20)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 Yönetim Hizmetleri Genel Müdürlüğü
@@ -23,15 +23,15 @@ Sayı : 82040698/
 Tarih: 09.07.2018
 Konu : Mal Bildirimleri
 
-GENELGE
-2018/20
+**GENELGE**
+**2018/20**
 
 Bilindiği üzere gerçeğe aykırı mal bildiriminde bulunan, haksız mal edinen veya haksız edinilen malı kaçıran veya gizleyenlere 3628 sayılı Kanunda belirtilen ceza hükümler, süresi içinde mal bildiriminde bulunmayanlara ise 657 sayılı Kanunun disiplin hükümleri uygulanmaktadır.
 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu ile bu Kanunun uygulanmasına ilişkin usul ve esasları düzenleyen ve 10/08/1990 tarihli ve 90/748 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Mal Bildiriminde Bulunulması Hakkında Yönetmeliğin öngördüğü işlemlerin yerine getirilmesi, uygulamada yaşanan sıkıntıların giderilmesi ve personelin mağduriyetinin önlenmesi amacına yönelik hususlar aşağıda belirtilmiştir.
 
-A) MAL BİLDİRİMİNDE BULUNULMASINDA UYULMASI GEREKEN USUL VE ESASLAR
+A) **MAL BİLDİRİMİNDE BULUNULMASINDA UYULMASI GEREKEN USUL** VE ESASLAR
 
-1. Mal bildiriminde bulunacak kamu görevlileri
+1. **Mal bildiriminde bulunacak kamu görevlileri**
 Bakanlığımız merkez ve taşra teşkilatında aylık, ücret ve ödenek almak suretiyle kamu hizmeti gören memurlar ve işçi niteliği taşımayan diğer kamu görevlilerinden;
 a) 657 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (A) bendine göre istihdam edilen memurların,
 b) 657 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (B) bendine göre istihdam edilen sözleşmeli personelin,
@@ -40,7 +40,7 @@ c) 4924 sayılı Kanuna tabi sözleşmeli personelin,
 d) 663 sayılı KHK'nin Ek-2 sayılı cetvelinde belirtilen pozisyonlarda sözleşmeli statüde görev yapan personelin,
 mal bildiriminde bulunması gerekmektedir.
 
-2. Mal Bildiriminin Konusu
+2. **Mal Bildiriminin Konusu**
 Mal Bildiriminde Bulunulması Hakkında Yönetmeliğin 8 inci maddesi hükmü çerçevesinde 3628 sayılı Kanun kapsamına giren kamu görevlilerinin kendilerine, eşlerine ve velayetleri altındaki çocuklarına ait bulunan;
 a) Taşınmaz malları (arsa ve yapı kooperatif hisseleri dahil),
 b) Kendilerine aylık ödenenler, net aylık tutarının beş katından fazla; aylık ödenmeyenler ise genel idare hizmetleri sınıfında birinci derecenin birinci kademesindeki şube müdürüne ödenen net aylığın beş katından fazla değer ve tutarındaki;
@@ -60,7 +60,7 @@ b) Kendilerine aylık ödenenler, net aylık tutarının beş katından fazla; a
 
 Mal bildirimine konu teşkil etmektedir. Mallar, mal bildirimi tarihindeki değerleri esas alınmak suretiyle beyan edilecektir. Mal bildirimlerinde (b) bendinde belirtilen mal, hak, alacak, borç ve gelirlerin ayrı ayrı toplam değerleri gösterilecektir. Mal bildiriminde bulunmakla yükümlü personel, eşinin 3628 sayılı Kanun kapsamında olması halinde, her birinin ayrı ayrı mal bildiriminde bulunması ve eşlerden her birinin, eşi ile velayeti altındaki çocuklarına ait malları da ayrıca bildirecektir.
 
-3. Mal Bildiriminin Verilme Zamanı Mal bildirimlerinin;
+3. **Mal Bildiriminin Verilme Zamanı** Mal bildirimlerinin;
 
 a) 3628 sayılı Kanun kapsamında bir göreve ilk defa veya yeniden atanmada, atamaya esas belgelerle birlikte,
 
@@ -68,9 +68,9 @@ b) Görevin sona ermesi halinde, görevden ayrılma tarihini izleyen bir ay içi
 
 ç) Mal varlığıda önemli bir değişiklik olduğunda bir ay içinde (Ek Mal Bildirimi), verilmesi zorunludur. Sonu (0) ve (5) ile biten yılların en geç Şubat ayı sonuna kadar mal bildirimlerinin yenilenmesi zorunludur. Mal bildiriminde bulunmakla yükümlü personelin eşleri, velayeti altındaki çocukları ve kendilerinin şahsi mal varlıklarında önemli bir değişiklik olduğunda, değişikliği izleyen bir ay içinde yeni edindikleri mal, hak, gelir, alacak ve borçlara münhasır olmak üzere ek mal bildirimi vermeleri zorunludur.
 
-4. Birden Fazla Mal Bildirimi Asli görevleri ile beraber ikinci bir görevi yürütenler sadece asli görevlerinden dolayı tek mal bildirimi verecekler.
+4. **Birden Fazla Mal Bildirimi** Asli görevleri ile beraber ikinci bir görevi yürütenler sadece asli görevlerinden dolayı tek mal bildirimi verecekler.
 
-5. Mal Bildiriminin Doldurulması Ilgililerce, Mal Bildiriminde Bulunulması Hakkında Yönetmeliğin ekinde yer alan "Mal Bildirim Formu" düzenlenmek suretiyle mal bildirimi verilecektir Mal bildiriminde yer alan "Edinme Tarihi" mutlaka gün, ay ve yıl olarak, "Taşınmaz Mal Bilgileri" bölümünde yer alan adres bilgilerinde ada ve parsel numaraları mutlaka belirtilecektir. Ek mal bildirimlerinde, sadece ek mal bildirimi verilmesini gerektiren bilgiler beyan edilecektir.
+5. **Mal Bildiriminin Doldurulması** Ilgililerce, Mal Bildiriminde Bulunulması Hakkında Yönetmeliğin ekinde yer alan "Mal Bildirim Formu" düzenlenmek suretiyle mal bildirimi verilecektir Mal bildiriminde yer alan "Edinme Tarihi" mutlaka gün, ay ve yıl olarak, "Taşınmaz Mal Bilgileri" bölümünde yer alan adres bilgilerinde ada ve parsel numaraları mutlaka belirtilecektir. Ek mal bildirimlerinde, sadece ek mal bildirimi verilmesini gerektiren bilgiler beyan edilecektir.
 
 ### T.C. SAĞLIK BAKANLIĞI Yönetim Hizmetleri Genel Müdürlüğü
 
@@ -84,7 +84,7 @@ Bildirimler, üzerinde adı, soyadı ve kurum sicil numarası yazılı kapalı b
 
 ### BİLDİRİMİN YAPILACAĞI BİRİMLERCE DİKKAT EDİLMESİ GEREKEN HUSUSLAR
 
-1) Mal bildirimlerinin muhafaza edilmesi
+1) **Mal bildirimlerinin muhafaza edilmesi**
 
 Bakanlık merkez teşkilatı personelinin mal bildirimleri, Yönetim Hizmetleri Genel Müdürlüğünce, taşra teşkilatı personelinin mal bildirimleri ise İl Saglık Müdürtuklerince muhafaza edilecek ve mal bildirimleri ile ilgili iş ve işlemler bu birimlerce yürütülecektir.
 
@@ -92,7 +92,7 @@ Bakanlık merkez teşkilatı personelinin mal bildirimleri, Yönetim Hizmetleri 
 
 3628 sayılı Kanun ve Mal Bildiriminde Bulunulması Hakkında Yönetmelik hükümleri doğrultusunda Il Sağlık Müdürluklerinde mal birimine ilişkin iş ve işlemleri yürütmek üzere özlük işlerinin yürütüldüğü birim bünyesinde alt birim oluşturulacaktır.
 
-3) Yazılı ihtarda bulunma
+3) **Yazılı ihtarda bulunma**
 
 Belirlenen durum ve sürelerde mal bildiriminde bulunmayanlara, bildirimin verileceği mercilerce Tebligat Kanunu hükümlerine göre yazılı olarak ihtarda bulunulacaktır. Ihtarın kendisine tebliğinden itibaren bir ay içinde bildirimde bulunmayanlar hakkında gerekli işlemler yapılmak üzere yetkili Cumhuriyet Başsavehğına suç duyurusunda bulunulacaktır.
 
@@ -124,15 +124,15 @@ Mal bildirimlerinin içeriği hakkında soruşturma ve kovuşturmaya yetkili mer
 
 Mal bildirimlerin gizliliği mutlaka temin edilecck, bu amaçla; oluşturulacak birimde görevlendirilecek personelin seçimine dikkat edilerek gerekli tedbirler alınacaktır.
 
-7) Bilgi Verme Zorunluluğu
+7) **Bilgi Verme Zorunluluğu**
 
 3628 sayılı Kanunun 20 nci maddesiyle bu Kanuna göre takip, soruşturma ve kovuşturmaya yetkili kişiler veya ilgili mevzuatında belirtilen merciler tarafından istenilen bilgilerin gecikmeksizin ve eksiksiz bir şekilde verilmesi sağlanacaktır.
 
-8) Gerçeğe Aykırı Açıklama
+8) **Gerçeğe Aykırı Açıklama**
 
 Mal bildiriminin muhtevası hakkında 3628 sayılı Kanunun 9 uncu maddesinde belirtilen mal bildirimlerinin gizliliğine ilişkin hususlara aykını davrananlara ilgili mercilerce arılan Kanunun 11 inci maddesinde belirtilen ceza hükümler uygulanacaktır.
 
-9) Mal Bildirimlerinin Karşılaştırılması
+9) **Mal Bildirimlerinin Karşılaştırılması**
 
 Mal varlıklannda meydana gelen önemli bir değişiklik sonucu verecekleri ek bildirimleri, daha önceki bildirimlerle karşılaştırılacakur. Yapılacak karşılaştırma sonucunda gerşeğe aykırı bildirimde bulunduklanı veya haksız mal edindikleri, kaçırdıklanı veya
 
@@ -144,7 +144,7 @@ Mal bildirim beyannamelerinin süresi içinde verilip verilmedıği, bildirimde 
 
 TC Sagke Dekarac Sayı : 82040698/ Konu : Mal Bildirimleri
 
-10) Görevlerinden Ayrılan Personelin Özlük Dosyaları
+10) **Görevlerinden Ayrılan Personelin Özlük Dosyaları**
 
 Kurum içinde iller arası yer değiştirenler ile başka kurumlara naklen atanan personelin özlük dosyaları (kişiye ait sicil raporlanı ile mal bildirim beyannamelerini ihtiva eden) ilgilinin yeni atandığı Il'e veya yeni kurumuna personelin adı, soyadı, kurum sicil no'su, T.C. kimlik numarası ve hangi yıllara ait olduğunu belirtir bir dizi pusulası ile birlikte gönderilecektir. Özlük dosyalarım yeni görev yerlerine gönderilmesinden eski görev yaptığı birim sorumlu olacaktır.
 

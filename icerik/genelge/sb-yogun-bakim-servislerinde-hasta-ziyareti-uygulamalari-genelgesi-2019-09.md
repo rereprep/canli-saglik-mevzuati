@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.35. Yoğun Bakım Servislerinde Hasta Ziyareti Uygulamaları Genelgesi (2019/09)
+**2.3.35. Yoğun Bakım Servislerinde Hasta Ziyareti Uygulamaları** Genelgesi (2019/09)
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -25,7 +25,7 @@ Konu : Yoğun Bakım Servislerinde Hasta Ziyareti Uygulamaları
 
 25/04/2019
 
-GENELGE
+**GENELGE**
 2019/09
 
 Yataklı sağlık tesisleri bünyesinde faaliyet gösteren yoğun bakım servislerinde hizmetler 20.07.2011 tarih ve 28000 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren "Yataklı Sağlık Tesislerinde Yoğun Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ" ile belirlenmiş olan usul ve esaslara göre sunulmaktadır.

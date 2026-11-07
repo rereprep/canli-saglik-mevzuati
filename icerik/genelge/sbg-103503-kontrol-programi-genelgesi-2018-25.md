@@ -15,14 +15,14 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.70. Kontrol Programı Genelgesi (2018/25)
+**6.3.70. Kontrol Programı Genelgesi (2018/25)**
 
 T.C.
 SAĞLIK BAKANLIĞI
 Halk Sağlığı Genel Müdürlüğü
 
 Sayı : 96867468-045.99
-Konu : Kontrol Programı
+**Konu : Kontrol** Programı
 
 GENELGE
 2018/25

@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 95966346-010.06 - 238542190
 Konu : Soybağının Tespiti Testi
@@ -139,13 +139,13 @@ Sağlık Hizmetleri Genel Müdürlüğü Daire
 
 Başkanlıkları Sağlık Hizmetleri Genel Müdürlüğü Üniversiteler Mah. Dumlupınar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
 
-EK-1
+**EK-1**
 
 ### KİMLİK TESPIT FORMU-1 T.C. ILÇE ADI- İÇİŞLERİ BAKANLIĞI KÖDU
 
 NV Nüfus re Vatandaşlık İşleri Genel Müdürluğü YILI
 
-Kimlik: Tespit Formu-1 SIRA NO
+**Kimlik: Tespit Formu-1** SIRA NO
 
 Saklıdan müftus kütüklerine tescilinin vapulabilmesi için 5901 sayılı Türk Varandaşlığı Karınınau Ek 1 inci maddesi uyarınca zjağıda açic kintik bilgileri yazıı kişi üle aramızdå hisımlık bağı bulurup bülunmadığıa dair "sosbağvu, tespiti testi" yapılmasm arz ederim. ./.201,
 
@@ -185,13 +185,13 @@ Tarik
 
 * Form iki nüska düzenlenecektir. Bir mishan nüfus müdürlüğünde dosyasında muhafaza edilecektir. Sağlık Hizmetleri Genel Müdürlüğüi Üniversiteler Mah. Dumlupınar Bulv. 6001. Cad. No:9 Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı Kat:5 Çankaya/Ankara E-posta: shgm.tthdb@saglik.gov.tr Tel: 0 (312) 585 25 97
 
-EK-2
+**EK-2**
 
 ### KİMLİK TESPIT FORMU-2 T.C. ILÇE ADI- İÇİŞLERİ BAKANLIĞI KODU
 
 NV Nüfus ve Vatandașlık İşleri Genel Müdürlüğü YILI
 
-Kimlik Tespit Formu -2 SIRA NO
+**Kimlik Tespit Formu** -2 SIRA NO
 
 5490 sayıh Nüfu: Hizmetleri Kanununur 15'inci maddesini dördüncü fikrası uyannca sözlü doğum bildiriminde bulunduğum çocuğumun resmi kurumlarca düzenlermiş doğum belgesi ve sağlık kuraluşlarında doğuma ilişkin berkangi bir kayıt bulunmadığından, aile kütüklerine tescilinin yapılabilmesi için ajağıća açık kimlak bilgıleri yazılı çocuk ile aramazzda "sestažuva, tespiti testi" yapılmasıı arz ederin..... .201.-
 
@@ -207,7 +207,7 @@ beyan ederim.
 
 ### BU BOLUM WW.NUFUS NUDURLUGUNCE DOLDURULACAKTIR
 
-Talep Eden İlçe Nüfus Müdürluğu Gönderilen Sağlık Kuruluşu
+**Talep Eden** İlçe Nüfus Müdürluğu Gönderilen Sağlık Kuruluşu
 
 ### FORMU ONAYLAVAN KIŞI
 

@@ -18,7 +18,7 @@ SAĞLIK BAKANLIĞI
 Tedavi Hizmetleri Genel Müdürlüğü
 
 Sayı : B.10.0.THG.0.10.00.02.010-06-12602  
-25.03.2010  
+**25.03.2010**  
 Konu : Özel hasta odaları ücretleri
 
 DOSYA

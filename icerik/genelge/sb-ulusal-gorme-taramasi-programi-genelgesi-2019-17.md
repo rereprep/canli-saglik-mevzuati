@@ -23,7 +23,7 @@ Halk Sağlığı Genel Müdürlüğü
 Sayı : 67414668-
 Konu : Ulusal Görme Taraması Programı
 
-GENELGE
+**GENELGE**
 2019/17
 
 Ülkemizde çocukluk çağında sık görülen sağlık sorunlarının erken tanınması ve gerekli tedavilerinin sağlanabilmesi amacıyla çeşitli tarama programları yürütülmektedir. Yenidoğan, okul öncesi ve okul çağı çocuklarda sık görülen görme kusurlarına yönelik tarama programı da bu programlar arasına dahil edilmiştir.

@@ -22,7 +22,7 @@ SAĞLIK BAKANLIĞI
 
 Kamu Hastaneleri Genel Müdürlüğü
 
-Sayı: 31057145-1/A/2018
+**Sayı**: 31057145-1/A/2018
 
 Konu: Sağlık Bakanlığına Bağlı Sağlık Tesislerinin Verimliliğinin Yerinde Değerlendirilmesi Hakkında Yönerge
 
@@ -54,7 +54,7 @@ Dr. Ahmet DEMİRCAN
 
 Bakan
 
-Ekler:
+**Ekler:**
 
 1- Yönerge Taslağı (5 sayfa)
 

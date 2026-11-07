@@ -14,10 +14,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.54. Kök Hücre Çalışmaları Genelgesi (2006/51)
+**2.3.54. Kök Hücre Çalışmaları Genelgesi (2006/51)**
 
 ### T.C. SAĞLIK BAKANLIĞI
-Tedavi Hizmetleri Genel Müdürlüğü
+**Tedavi Hizmetleri Genel Müdürlüğü**
 
 Sayı : B.10.0.THG.0.14.00.03- / 8647
 Tarih: 01.05.2006
@@ -26,7 +26,7 @@ Konu : Kök Hücre Çalışmaları
 ....................VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
-GENELGE
+**GENELGE**
 2006 / 51
 
 Kök hücre nakli özellikle hematolojik, onkolojik hastalıklarda bir tedavi yöntemi olarak uzun yıllardır kullanılmaktadır. Son yıllarda farklı hastalıklarda da tedavi amaçlı kök hücre kullanımı gündeme gelmiştir. Dünyada ve ülkemizde kök hücre nakli ile tedavi konusunda halen yoğun araştırmalar yapılmakta olup, konu ile ilgili haberler basın ve yayın organlarında sıklıkla yer almaktadır. Bazı hastalıkların tedavisinde ümit verici bir yöntem olarak değerlendirilmesine karşın, henüz kök hücre nakli yapılan hasta sayısı çok azdır ve uygulamanın başarısı veya uzun vadede tedavinin hastada meydana getirebileceği yan etkiler konusunda yeterli bilgi mevcut değildir.

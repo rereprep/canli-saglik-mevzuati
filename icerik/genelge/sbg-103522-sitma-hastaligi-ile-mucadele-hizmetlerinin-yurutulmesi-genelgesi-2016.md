@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.27. Sıtma Hastalığı ile Mücadele Hizmetlerinin Yürütülmesi Genelgesi (2016/2)
+**6.3.27. Sıtma Hastalığı ile Mücadele Hizmetlerinin Yürütülmesi** Genelgesi (2016/2)
 
 T.C.
 
@@ -103,7 +103,7 @@ k) Sıtma çalışmalarında görevli işçilerin özlük ve personel kayıtlar�
 
 1) Ek-6 daki "Vektör Kontrolü Malzeme Formu" aylık olarak takip eden ayın en geç 5 ine kadar doldurularak Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığına gönderilecektir. Vektör kontrolü malzeme formunun ilde vektör mücadelesini planlayan ve uygulayan personel tarafından doldurulması esastır.
 
-Sayı : 10712557-136 Konu: Sıtma Hastalığı Ile Mücadele
+**Sayı** : 10712557-136 Konu: Sıtma Hastalığı Ile Mücadele
 
 Hizmetlerinin Yürütülmesi
 
@@ -115,7 +115,7 @@ Bakan a.
 
 Müsteşar'
 
-EKLER:
+**EKLER:**
 
 Ek -1- Sitma Bilgilendirme Formu Ek -2- Aylık Sıtma Çalışmaları Ek -3- Halk Sağlığı Laboratuvarı Aylık Formu Ek -4- Sıtma Epidemiyolojik Inceleme Formu Ek -5- Sıtma Tedavi Ilacı Stok Durumu Ek -6- Vektör Kontrol Malzeme Formu
 

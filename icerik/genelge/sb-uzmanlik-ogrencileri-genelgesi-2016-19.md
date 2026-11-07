@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.61. Uzmanlık Öğrencileri Genelgesi (2016/19)
+**2.3.61. Uzmanlık Öğrencileri Genelgesi (2016/19)**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -23,8 +23,8 @@ Sağlık Hizmetleri Genel Müdürlüğü
 Sayı : 54567092-
 Konu : Uzmanlık Öğrencileri
 
-GENELGE
-2016/19
+**GENELGE**
+**2016/19**
 
 İlgi: a) Sağlık Eğitimi Genel Müdürlüğü'nün 19/12/2007 tarihli ve 7551 sayılı 2007/109 Nolu Genelgesi.
 b) Tedavi Hizmetleri Genel Müdürlüğü'nün 22/03/2011 tarihli ve 12894 sayılı 2011/19 Nolu Genelgesi.

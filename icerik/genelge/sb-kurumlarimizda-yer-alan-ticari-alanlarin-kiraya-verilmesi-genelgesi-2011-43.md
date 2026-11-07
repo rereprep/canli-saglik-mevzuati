@@ -16,7 +16,7 @@ kontrol_edildi: true
 6.3.10. Kurumlarımızda Yer Alan Ticari Alanların Kiraya Verilmesi Genelgesi (2011/43)
 
 ### T.C. SAĞLIK BAKANLIĞI
-Strateji Geliştirme Başkanlığı
+**Strateji Geliştirme Başkanlığı**
 
 Sayı : B.10.0.SGB.0.84.00.01/10-06-
 Konu : Kurumlarımızda yer alan ticari alanların kiraya verilmesi.
@@ -105,7 +105,7 @@ gönderilmeyecek döner sermayeli işletmelerimizin yetkililerince kesinleştiri
 
 a) Aile hekimlerine yapılacak kiralama işlemlerinde, bu genelgenin D.Kiralama
 
-Ihaleferi ve Kiro Sares! başhığı altında yapılan açıklamalar da dikkate alınarak
+<i>Ihaleferi</i> ve Kiro Sares! başhığı altında yapılan açıklamalar da dikkate alınarak
 
 Hazine Taşınmazlarımın İdaresi Hakkında Yönetmelik hukümleri uygulanacaktır.
 
@@ -153,4 +153,4 @@ Müsteşar
 
 ### DAGITIM
 
-Gereği Bilgi Için A Plan Maliye Bakanlığ' na
+**Gereği** Bilgi Için A Plan Maliye Bakanlığ' na

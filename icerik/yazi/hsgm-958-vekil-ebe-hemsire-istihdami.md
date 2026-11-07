@@ -12,7 +12,7 @@ duzeltildi: true
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK** BAKANLIĞI
 
 Türkiye Halk Sağlığı Kurumu
 
@@ -46,7 +46,7 @@ b) Diploma aslı ve onaylı örneği, diploma düzenlenmemiş olması halinde us
 
 c) Görevini devamlı yapmasına engel olacak akıl hastalığı bulunmadığını gösterir, başvuru tarihinden en fazla 1 ay önce alınmış, tek hekim raporu,
 
-d) Mal Bildirim Beyannamesi, (doldurularak kapalı zarf içinde teslim edilecektir)
+d) **Mal Bildirim** Beyannamesi, (doldurularak kapalı zarf içinde teslim edilecektir)
 
 e) Varsa KPSS sonuç belgesi
 
@@ -128,7 +128,7 @@ Bilgilerinizi ve gereğini rica ederim.
 
 Prof. Dr. İrfan ŞENCAN  
 Bakan a.  
-Kurum Başkanı
+**Kurum** Başkanı
 
 **Ek:** Vekil Ebe/Hemşire Personele Uygulanacak Ceza Puanı Cetveli
 

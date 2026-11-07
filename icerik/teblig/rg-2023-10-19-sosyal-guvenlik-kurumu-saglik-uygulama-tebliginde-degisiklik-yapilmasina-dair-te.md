@@ -18,7 +18,7 @@ Tebliğ
 Sosyal Güvenlik Kurumu Başkanlığından:
 
 SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE
-DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 4.2.1 numaralı maddesinin başlığında yer alan “risankizumab” ibaresinden sonra gelmek üzere “, upadacitinib, apremilast” ibaresi eklenmiştir.
 
@@ -163,7 +163,7 @@ oooo) Liposomal doksorubisin;
 3) Düşük CD4 sayılarına (<200 CD4 lenfosit/mm3) ve yaygın mukokütanöz veya viseral hastalığa sahip hastalarda AIDS ilişkili Kaposi sarkomunun (KS) tedavisinde; birinci basamak sistemik kemoterapi olarak veya hastalığı vinblastin, bleomisin ve standart doksorubisin (veya diğer antrasiklin) ajanlarından en az ikisinden oluşan önceki kombinasyon sistemik kemoterapi ile progresyon göstermiş AIDS-KS hastalarında veya bu tedaviye toleranssız hastalarda ikinci basamak kemoterapi olarak kullanılabilir.
 4) Tıbbi onkoloji uzman hekimi veya hematoloji uzmanı hekimince düzenlenen rapora istinaden bu hekimce reçete edilmesi halinde Kurumca bedelleri karşılanır.”
 
-MADDE 10- Aynı Tebliğin 4.2.24.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 10-** Aynı Tebliğin 4.2.24.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 
 a) Üçüncü fıkrasında yer alan “Mepolizumab” ibaresinden sonra gelmek üzere “ve benralizumab” ibaresi eklenmiş ve aynı fıkranın (a) bendinin (1) ve (2) numaralı alt bentleri aşağıdaki şekilde değiştirilmiştir.
 
@@ -176,7 +176,7 @@ c) Aynı maddeye aşağıdaki fıkra eklenmiştir.
 
 “(10) Flutikazonfuroat 200 mcg + umeklidinyum + vilanterol etken maddelerini sabit dozda içeren ürünler; flutikazonfuroat 100 mcg + umeklidinyum + vilanterol veya uzun etkili beta-2 agonist ve yüksek doz inhale kortikosteroid kombinasyonu ile yeterince kontrol edilemeyen ve önceki yıl bir veya daha fazla astım alevlenmesi yaşayan erişkin hastaların idame tedavisinde göğüs hastalıkları veya alerji uzman hekimleri tarafından reçete edilir. Bu uzman hekimler tarafından düzenlenen uzman hekim raporu mevcut ise tedavinin devamı için diğer hekimlerce de reçete edilmesi halinde bedelleri Kurumca karşılanır.”
 
-MADDE 11- Aynı Tebliğin 4.2.25 numaralı maddesinin birinci fıkrasında yer alan “nöroloji, beyin cerrahisi, çocuk sağlığı ve hastalıkları veya fizik tedavi ve rehabilitasyon” ibaresi “nöroloji veya beyin cerrahisi” şeklinde değiştirilmiştir.
+**MADDE 11-** Aynı Tebliğin 4.2.25 numaralı maddesinin birinci fıkrasında yer alan “nöroloji, beyin cerrahisi, çocuk sağlığı ve hastalıkları veya fizik tedavi ve rehabilitasyon” ibaresi “nöroloji veya beyin cerrahisi” şeklinde değiştirilmiştir.
 
 MADDE 12- Aynı Tebliğin 4.2.27.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 
@@ -253,21 +253,21 @@ MADDE 17- Aynı Tebliğ eki “Sistemik Antimikrobik ve Diğer İlaçların Reç
 |---|---|---|
 | 32 | Vitamin B6 (Parenteral mono formda piridoksin hidroklorür) | Yalnızca B6 vitamini eksikliği bulunan hastalarda, idiopatik sideroblastik anemi durumlarında veya izoniazid kaynaklı periferik nörit durumlarında uzman hekimlerce reçete edilmesi halinde Kurumca bedelleri karşılanır. |
 
-MADDE 18- Aynı Tebliğ eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) ile Verilebilecek İlaçlar Listesi (EK-4/F)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 18-** Aynı Tebliğ eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) ile Verilebilecek İlaçlar Listesi (EK-4/F)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin “6” numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
 “6. Desmopressin yalnızca;
 a) Primer enurezis nokturna tedavisinde ve santral diabetes insipidus tedavisinde uzman hekimlerce raporsuz reçete edilmesi halinde.
 b) Test dozuna olumlu yanıt veren hafif hemofili A ve von Willebrand hastalığı (Tip 2B’li ve Tip 3’lü olanlar hariç) olan hastaların küçük cerrahi müdahalelerinde kanamanın kontrolü ve profilaksisinde hematoloji uzman hekimlerince düzenlenen rapora istinaden hematoloji veya iç hastalıkları veya çocuk sağlığı ve hastalıkları uzman hekimlerince reçetelenmesi halinde Kurumca bedelleri karşılanır.”
 b) Listenin “75” numaralı maddesinde yer alan “1 ay” ibaresi “3 ay” şeklinde değiştirilmiştir.
-MADDE 19- Aynı Tebliğ eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)”ne aşağıdaki madde eklenmiştir.
+**MADDE 19-** Aynı Tebliğ eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)”ne aşağıdaki madde eklenmiştir.
 “86. Levotiroksin sodyum parenteral formu: Hipotirodi komasının (miksödem koma) acil tedavisinde yatan hastalarda endokrinoloji uzman hekimlerince reçete edilmesi halinde Kurumca bedelleri karşılanır.”
-MADDE 20- Bu Tebliğin:
+**MADDE 20-** Bu Tebliğin:
 a) 14 üncü maddesi 24/7/2023 tarihinden geçerli olmak üzere yayımı tarihinde,
 b) 1 ila 13 üncü maddeleri ile 16 ila 19 uncu maddeleri yayımı tarihinden 5 iş günü sonra,
 c) 15 inci maddesinde düzenlenen ekli listede; listeye giriş tarihi, aktifleşme tarihi veya pasiflenme tarihi bulunan ilaçlar belirtilen tarihlerde, listeye giriş tarihi, aktifleşme tarihi veya pasiflenme tarihi bulunmayan ilaçlar yayımları tarihlerinde; ilaç isminin yanında veya listeye giriş tarihinde (*) işareti bulunan ilaçlar yayım tarihinden 5 iş günü sonra,
 ç) Diğer hükümleri yayımı tarihinde,
 yürürlüğe girer.
-MADDE 21- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 21-** Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 
 | Karne No | Güvenli Barkodu | İlaç Adı | Eski Barkodları | Eşdeğer İlaç Grubu | Terapötik Referans Grubu | Listeye Giriş Tarihi | Aktifleşme Tarihi | Pasifleşme Tarihi | Uygulama İndirim Oranlarına Kısa Dönem | Depocuya Satış Fiyatı 72,94 TL ve üzeri ise | Depocuya Satış Fiyatı 48,42-72,93 TL (dahil) | Depocuya Satış Fiyatı 25,30 TL (dahil)-48,41 TL (dahil) | Depocuya Satış Fiyatı 25,29 TL ve altında ise | Özel İskonto | Eczacı İskonto Oranı |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|

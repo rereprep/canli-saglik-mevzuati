@@ -55,7 +55,7 @@ EK-2 Rapor taslağı (4 sayfa)
 
 
 
-Ek-1
+**Ek-1**
 
 ### TÜBERKÜLOZ AKTİF SÜRVEYANSI ÇALIŞMA PLANI
 
@@ -76,15 +76,15 @@ Sağlık hizmetine ulaşma imkânı olan fakat hizmet almak için başvurmayan h
 
 Ülkemizde kayıt eksikliği açısından asıl önemli grubun sağlık kurum ya da kuruluşlarında tanı aldığı halde bildirim yapılmadığı için VSD'ye kaydı yapılmayan hastalar olduğu düşünüldüğünden, tanı konulan bütün TB hastalarının bildirimini sağlayan bir sistemin kurulmasının ve böylece olgu artışı olup olmadığını gözlemlemenin gerektiği düşünülmüştür.
 
-Aktif Sürveyans:
+**Aktif Sürveyans:**
 
 Bildirim yapmakla yükümlü kişi veya birimlerin rapor etmesini beklemeksizin, yetkili birimlerce de düzenli olarak verilerin toplanmasıdır. Aktif sürveyans sistemi içerisinde belirlenen zaman dilimlerinde, görevli sağlık personelinin sağlık kurumlarına giderek verileri tarayıp hastalık ile ilgili bilgileri toplaması anlamına gelmektedir.
 
-Aktif Sürveyansın Amacı:
+**Aktif Sürveyansın Amacı:**
 
 Amaç, kamu/özel tüm sağlık kurum ve kuruluşlarında tanı konulan ve/veya tedavisine başlanan tüm TB olgularının bildirimini sağlamak, bu uygulamayı geliştirerek sürdürmek, denetlemek ve bunun sonucunda kayıtsız tüberküloz hastası kalmamasını sağlamaktır.
 
-Hukuki dayanak:
+**Hukuki dayanak:**
 
 Ülkemizde bildirimi zorunlu olan hastalıklar içinde tüberküloz da yer almaktadır. 1930 yılında yayımlanmış olan 1593 sayılı Umumi Hıfzıssıhha Kanunu'nun 113 üncü maddesi ile verem hastalığının bildirimi zorunlu kılınmıştır. 26537 sayılı Resmî Gazete'de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği'nin 10 uncu maddesi gereğince tüberküloz (TB) hastalığının bildirimi zorunludur. Bakanlığımızca 2004 yılında yayınlanan Bulaşıcı Hastalıkların Ihbarı ve Bildirim Sistemi Yönergesi"ne göre de tüberküloz A Grubu bildirimi zorunlu hastalıkların arasında yer almaktadır. Tüberküloz tanısı koyan ve/veya tedavi başlayan her hekim, Bildirimi Zorunlu Hastalıklar Fişi'ni (Form 014) doldurarak hasta kimlik ve adres bilgilerini
 
@@ -94,7 +94,7 @@ bulunduğu ilin halk sağlığı müdürlüğüne bildirmekle yükümlüdür. 22
 
 ### AKTİF SÜRVEYANS KAPSAMINDA YAPILACAK ÇALIŞMALAR
 
-Planlama
+**Planlama**
 
 • Halk sağlığı müdürlüğü bünyesinde, ilgili müdür yardımcısı, bulaşıcı hastalık kontrol programları ile ilgili şube müdürü, tüberküloz il koordinatörü ve diğer ilgili personel ile birlikte ildeki kamuya ait ve özel hangi hastanelerin ve laboratuvarların aktif sürveyans yapacakları tüberküloz tanı ve tedavi hizmeti veren hastane ve laboratuvarlar belirlenir. Bu kurumlar aktif sürveyans programına dâhil edilir.
 
@@ -262,11 +262,11 @@ Aktif sürveyans çalışmaları il düzeyinde düzenli olarak değerlendirilir 
 
 
 
-Ek-2
+**Ek-2**
 
 ### AKTİF SÜRVEYANS ÇALIŞMA RAPORU TASLAĞI
 
-Rapor Bölümleri:
+**Rapor Bölümleri:**
 
 1. İlde bulunan tüm sağlık kurum ve kuruluşlarının (Kamu-Özel Hastaneler, Üniversiteler, Mikrobiyoloji/ Patoloji Laboratuvarları, vb.) listesi ve bunların aktif sürveyans kapsamına alınıp alınmadığı (Tablo 1).
 

@@ -36,23 +36,23 @@ kontrol_edildi: true
 
 a) Bakanlık: Sağlık Bakanlığı'nı,
 
-b) Bakan: Sağlık Bakanı'nı,
+b) **Bakan**: Sağlık Bakanı'nı,
 
 c) Müdürlük: İl Sağlık Müdürlüğü'nü,
 
 ç) Pozisyon: İlgili mevzuatı uyarınca vize edilen ve bir sözleşmeli personelin istihdamına imkân veren görev unvanına ait pozisyonu,
 
-d) Hizmet Grubu: Sağlık Bakanlığı Atama ve Nakil Yönetmeliği çerçevesinde personel dağılım cetveli doluluk oranına göre belirlenen il gruplarını,
+d) **Hizmet Grubu**: Sağlık Bakanlığı Atama ve Nakil Yönetmeliği çerçevesinde personel dağılım cetveli doluluk oranına göre belirlenen il gruplarını,
 
 e) Sağlık Komisyonu: Sağlık Bakanlığı Atama ve Nakil Yönetmeliği'ne göre sağlık mazeretlerini inceleyen Komisyonu,
 
-f) Personel: 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesine göre çalışan sözleşmeli personeli,
+f) **Personel**: 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesine göre çalışan sözleşmeli personeli,
 
 g) İl Komisyonu: İl Sağlık Müdürlükleri bünyesinde bu Yönergede belirtilen iş ve işlemleri yürütmek üzere Valilik onayıyla kurulan 4/B Sözleşmeli Personel Komisyonu'nu,
 
 ifade eder.
 
-9.2.7.Sağlık Bakanlığı 4\B Sözleşmeli Personelininin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönerge
+**9.2.7.Sağlık Bakanlığı 4\B Sözleşmeli Personelininin Yeniden** Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönerge
 
 h) İKYS: Çekirdek kaynak yönetim sisteminin insan kaynakları
 
@@ -72,13 +72,13 @@ Sağlık Bakanlığı Atama ve Nakil Yönetmeliğine göre Bakanlık tarafından
 
 istihdamında güçlük çekilen uzman tabip ve tabip unvanlarındaki personeli,
 
-k) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Standart:
+k) **(Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Standart:**
 
 26/10/1994 tarihli ve 22093 sayılı Resmî Gazete'de yayımlanan, Sağlık Bakanlığı
 
 Taşra Teşkilatı Yatak ve Kadro Standartları Yönetmeliğinde belirlenen standartları,
 
-1) (Ek bent: 23/10/2009 tarihli ve 198958 sayıh Bakan Onayı) Hizmet bölgesi:
+1) **(Ek bent: 23/10/2009 tarihli ve 198958 sayıh Bakan Onayı) Hizmet bölgesi:**
 
 İllerin sosyo-ekonomik gelişmişlik seviyesine göre belirlenen bölgeleri,
 
@@ -106,7 +106,7 @@ b) Doğum sebebiyle hizmet sözleşmesi feshedilenlerin, ücretli doğum izninin
 
 **Madde 6 –** (Değişik madde: 23/03/2010 tarihli ve 96201 sayıh Bakan Onayı)
 
-(1) (Değişik ibare: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı) Aynı unvan ve hizmet niteliklerine sahip pozisyonda çalışan personelin il içi veya aynı hizmet bölgesindeki il'ler arası karşılıklı yer degişikligi:
+(1) **(Değişik ibare: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı)** Aynı unvan ve hizmet niteliklerine sahip pozisyonda çalışan personelin il içi veya aynı hizmet bölgesindeki il'ler arası karşılıklı yer degişikligi:
 
 a) Pozisyonlarının vizeli oldugu il'de fiilen en az bir yıl çalışmış olmalan,
 
@@ -224,7 +224,7 @@ c) Eşinin şehit olması nedenıyle görev yeri değişıklıği talebinde bulu
 
 (3) (Ek fikra: 23/10/2009 tarihli ve 198958 sayıh Bakan Onayı)
 
-(Değişik ibare: 23/03/2010 tarihli ve 96201 sayıh Bakan Onayı) Il'ler arası ølmak üzere; karşılıklı yer değişikliği, eş durumu, sağlık mazereti veya eşinin şchit olması nedeniyle görev yeri değiştirilenler, sigortalılık işlemleri ve hizmet sözleşmesi yapılması amacıyla yeni görev yerine müracaat etmek üzere ayın 14 ancü günu mesai bitimine kadar beş işgülnü izinli sayıhır. Bu personelin eski görev yerleri ile ilişikleri, ayın 14 üncu günü mesai bitimi itibariyle sona crer. Sözleşmeli personel hizmet sözleşmesi imzalayarak ayın 15 inci günü yeni yerinde göreve başlatılır.
+**(Değişik ibare: 23/03/2010 tarihli ve 96201 sayıh Bakan Onayı)** Il'ler arası ølmak üzere; karşılıklı yer değişikliği, eş durumu, sağlık mazereti veya eşinin şchit olması nedeniyle görev yeri değiştirilenler, sigortalılık işlemleri ve hizmet sözleşmesi yapılması amacıyla yeni görev yerine müracaat etmek üzere ayın 14 ancü günu mesai bitimine kadar beş işgülnü izinli sayıhır. Bu personelin eski görev yerleri ile ilişikleri, ayın 14 üncu günü mesai bitimi itibariyle sona crer. Sözleşmeli personel hizmet sözleşmesi imzalayarak ayın 15 inci günü yeni yerinde göreve başlatılır.
 
 #### Il Komisyonu Teşekkülü ve Görevleri
 

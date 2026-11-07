@@ -16,7 +16,7 @@ ocr: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 95966346 -
 Konu: Kamu Kurum ve Kuruluşları Laboratuvarlarından Biyolojik Materyallerin Temini Protokolü Hakkındaki Usul Ve Esasları Belirten Genelge

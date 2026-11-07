@@ -26,7 +26,7 @@ kontrol_edildi: true
 
 Bu çerçevede tespit ve incelemeler aşağıdaki usul ve esaslara göre yürütülecektir:
 
-1) Bildirim kriterleri;
+1) **Bildirim kriterleri;**
 
 Bildirim ve incelemesi yapılacak vakalar:
 
@@ -72,7 +72,7 @@ h) Ayrica (kamer adilen il turafindan, beka dte tidugu ve OBS de yer ainala trap
 
 i) Sahnda tespit extien pennatal ve nenek dilumderinin OBS'de olup elmadınun komrolu He Nufus ve Varundustk Isleri Genel Mudurlugünce bildirilurek OBS'de raporlanan vakalann legal ve incelemeleri i bebek olüimleri izleme sorumlusa tarshmdan takip eöileccktir, OB5'de olmayar vakılar, ISM istatistik ve hilgi işlem birimune hildirilscek olup, sisteme kaydinın yapaniruei bu hirimce sn glunorakbr
 
-4) Inceleme; Perinatal ve bebek ölümlerinin incelemesi olenin gergekleştigi il tarufndun yaralasakti. Ancak haşka hir al'e tedavisi açin sevk edilen ve volda Ojerek, göndertten kurusua ex duhul olarak gelen olu dogum ve bebek @lamlerinde bilirim ve incelemeler ikamet edilen il tamifndan унімакт Sitemıt kontrolir ve yüruttimesinden ISM sorumludur. Her ilde Bebek Ölümled Inselene Kurulu oluşturalscak, ve bu kurul aşagidaki uyelerden oluşacaktır, (N) I6 ve izeri illerde; I sağlik mudüru veya halk sağlığı hizmetlerinden sorumle haskan başk mo liganda: #) Çocuk, ergen, kadan ve theme sağdiğı hizmetlerinden sorumlu hinas sırumlusu, by Sıstem gırışleri kontrol ederek onaylayacak plan ISM bunyesiride yetkilendirilmiş bir hekım e) Kamu hastaneleri hizmetlerinden soramin Işkanken bir kışi (fereihen varsa frastane hizmetler birini sonimiast)
+4) **Inceleme;** Perinatal ve bebek ölümlerinin incelemesi olenin gergekleştigi il tarufndun yaralasakti. Ancak haşka hir al'e tedavisi açin sevk edilen ve volda Ojerek, göndertten kurusua ex duhul olarak gelen olu dogum ve bebek @lamlerinde bilirim ve incelemeler ikamet edilen il tamifndan унімакт Sitemıt kontrolir ve yüruttimesinden ISM sorumludur. Her ilde Bebek Ölümled Inselene Kurulu oluşturalscak, ve bu kurul aşagidaki uyelerden oluşacaktır, (N) I6 ve izeri illerde; I sağlik mudüru veya halk sağlığı hizmetlerinden sorumle haskan başk mo liganda: #) Çocuk, ergen, kadan ve theme sağdiğı hizmetlerinden sorumlu hinas sırumlusu, by Sıstem gırışleri kontrol ederek onaylayacak plan ISM bunyesiride yetkilendirilmiş bir hekım e) Kamu hastaneleri hizmetlerinden soramin Işkanken bir kışi (fereihen varsa frastane hizmetler birini sonimiast)
 
 ç) Sağlık hizmetlerinden sorumlu buşkanhktan bir kişi (leteiban üzel teşhiş tedavi merkezleri ya do beel yanukis birimi sacumlusu) dı Acil sağhi hizmetlerinden sorumlu hękenlıhtan bir kişt ttertten sati saghk hizmederi (arisi & muTaso)
 
@@ -84,7 +84,7 @@ g) Halk sağlıgı hizmetleri buşkardg lalene, degerlendime ve istannk farıni 
 
 h) Kadıi hastaliklar ve dogum versani
 
-1) Aile sağlığa merkezinde güvev yapan 1 alle hekimundan olaşturulacukne.
+1) <i>Aile</i> sağlığa merkezinde güvev yapan 1 alle hekimundan olaşturulacukne.
 
 1) Gerek gordiktiğn haferde Kunil Başkum İbtlyve Juyulan uzmandk dallanıntan lekinleri ve ISM Binmierni davet edebilir Jy Gerek gorkługo hallerde Kurdl, inceiemesini yapağt vaka de ilgıli olun mehk personelint davet edehilir. %) Ide üniversie varsa ilgıli anabilim dallarıdan kunim saglanardir
 

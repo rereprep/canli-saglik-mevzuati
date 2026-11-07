@@ -13,10 +13,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.9. Kurumlarımızda Yer Alan Ticari Alanların Kiraya Verilmesi Genelgesi (2011/43)
+**6.3.9. Kurumlarımızda Yer Alan Ticari Alanların Kiraya Verilmesi** Genelgesi (2011/43)
 
 T.C. SAĞLIK BAKANLIĞI
-Strateji Geliştirme Başkanlığı
+**Strateji Geliştirme Başkanlığı**
 
 Sayı: B.10.0.SGB.0.84.00.01/10-06-[?]
 Konu: Kurumlarımızda yer alan ticari alanların kiraya verilmesi.
@@ -24,7 +24,7 @@ Konu: Kurumlarımızda yer alan ticari alanların kiraya verilmesi.
 [?] VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
-GENELGE
+**GENELGE**
 2011/43
 
 Bilindiği üzere 6225 sayılı “Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun”un 2’nci maddesi ile 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 3’üncü maddesinin birinci fıkrasına (h) bendinden sonra 209 sayılı Kanuna eklenen (ı) bendinde; Bakanlık sağlık kurum ve kuruluşlarının “31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 70’inci maddesinde belirtilen mal ve hakları kiralanması...” hükmüne yer verilerek mal ve hakların kiralanmasından elde edilecek gelirlerin işletme döner sermayesine gelir kaydedebilmesinin yolu açılmıştır.
@@ -97,5 +97,5 @@ Müsteşar
 
 **DAĞITIM**
 
-Gereği: İl Sağlık Müdürlüklerine
+**Gereği**: İl Sağlık Müdürlüklerine
 Bilgi için: Maliye Bakanlığına

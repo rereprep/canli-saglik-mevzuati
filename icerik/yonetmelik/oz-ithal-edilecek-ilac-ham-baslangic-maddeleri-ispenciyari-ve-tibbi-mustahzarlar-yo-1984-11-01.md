@@ -79,7 +79,7 @@ a) İlâcın, ismi ve dozaj şekli, b) Seri numarası, c) İmâl ve son kullanma
 
 **Madde 10 –** Bakanlık her türlü ilaç başlangıç maddesinin ve ilacın beyan edilen kalitesinin kontrolü için üretim yerlerinden, dağıtım ve satışının yapıldığı depolandığı yerlerden numune alma ve kontrol etmede yetkilidir.
 
-Yürütme ve İdare Bölümü Sayfa : 21 Spesifikasyonlara uygun bulunmayan maddenin ilaç üretiminde kullanılmasına izin verilmez. Şayet üretim yapılmış ise o seri ile üretilmiş ilaç serilerinin satışı menedilir.
+**Yürütme ve İdare Bölümü Sayfa : 21** Spesifikasyonlara uygun bulunmayan maddenin ilaç üretiminde kullanılmasına izin verilmez. Şayet üretim yapılmış ise o seri ile üretilmiş ilaç serilerinin satışı menedilir.
 
 Kanuni takibat yapılır. İthal edilen ilaçların kontrol amacı ile alınan numunelerinin analizinde standart dışı bulunanlar hakkında da kanuni işlem yapılır.
 

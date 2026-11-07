@@ -15,7 +15,7 @@ kontrol_edildi: true
 
 ### SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı: 23642684
 
@@ -35,8 +35,8 @@ Bilgilerini ve keyfiyetin ilgililere tebliği ile istirahat raporlarının bu Ge
 
 Prof. Dr. Recep AKDAĞ
 
-Bakan
+**Bakan**
 
 ### DAĞITIM:
 
-Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü) Türkiye Kamu Hastaneleri Kurumuna Türkiye Halk Sağlığı Kurumuna Yükseköğretim Kuruluna Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Mahmut Esat Bozkurt Cad. Umut sok. No: 19 Kolej/ANKARA
+**Gereği:** 81 İl Valiliğine (İl Sağlık Müdürlüğü) Türkiye Kamu Hastaneleri Kurumuna Türkiye Halk Sağlığı Kurumuna Yükseköğretim Kuruluna Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Mahmut Esat Bozkurt Cad. Umut sok. No: 19 Kolej/ANKARA

@@ -11,11 +11,11 @@ duzeltildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Türkiye Halk Sağlığı Kurumu
+**SAĞLIK BAKANLIĞI**
+**Türkiye Halk Sağlığı Kurumu**
 
-Sayı : 67350377
-Konu : Hizmet İçi Eğitimler
+**Sayı** : 67350377
+**Konu** : Hizmet İçi Eğitimler
 
 ................................ VALİLİĞİNE
 

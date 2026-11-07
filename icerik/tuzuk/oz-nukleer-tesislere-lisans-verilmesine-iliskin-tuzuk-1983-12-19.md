@@ -14,21 +14,21 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-Karar Sayısı: 83/7405
+**Karar Sayısı**: 83/7405
 
 5/12/1974 tarihli ve 7/9141 sayılı Kararnameye ektir.
 
 Ekli «Nükleer Tesislere Lisans Verilmesine İlişkin Tüzük»'ün yürürlüğe konulması; 2690 sayılı Atom Enerjisi Kurumu Kanununun 4 üncü maddesine göre, Bakanlar Kurulunca 18/11/1983 tarihinde kararlaştırılmıştır.
 
-Kenan EVREN Cumhurbaşkanı
+**Kenan EVREN** Cumhurbaşkanı
 
-B. ULUSU Başbakan Z. BAYKARA Prof Dr. 1. ÖZTRAK Prof. Dr İ OZTRAK Prof. Dr. M. N. ÖZDAŞ Devlet Bak. - Başbakan Yrd. Devlet Bakanı Devlet Bakan V Devlet Bakanı
+**B. ULUSU** Başbakan Z. BAYKARA Prof Dr. 1. ÖZTRAK Prof. Dr İ OZTRAK Prof. Dr. M. N. ÖZDAŞ Devlet Bak. - Başbakan Yrd. Devlet Bakanı Devlet Bakan V Devlet Bakanı
 
-S. R. PASİN K. AKDOĞAN 0. H. BAYÜLKEN S. ÇETİNER Devlet Bakanı Adalet Bakanı Millî savunma Bakanı İçişleri Bakanı Ü. H. BAYÜLKEN A B. KAFAOĞLU H. SAĞLAM Dr. T. ÖNALP Dışişleri Bakanı V Maliye Bakanı Milli Eğitim Bakanı Bayındırlık Bakanı M. TURGUT Prof Dr K KILIÇTURGAY Prof. Dr. C. T. SADIKLAR Prof. Dr. M. AYSAN Ticaret Bakanı V Sağ ve Sos. Yardım Bakanı Gümrük ve Tekel Bakanı Ulaştırma Bakanı Prof. Dr. S. ÖZBEK Prof. Dr. T. ECENER M.TURGUT F. İLKEL Tarım ve Orman Bakanı Çalışma Bakanı Sanayi ve Teknoloji Bakanı Enerji ve Tabiî Kay. Bakanı Yürütme ve İdare Bölümü Sayfa : 1 Resmî Gazete Kodu : 191283 Resmî Gazete Fihristi 64. Sayfadadır.
+**S. R. PASİN** K. AKDOĞAN 0. H. BAYÜLKEN S. ÇETİNER Devlet Bakanı Adalet Bakanı Millî savunma Bakanı İçişleri Bakanı Ü. H. BAYÜLKEN A B. KAFAOĞLU H. SAĞLAM Dr. T. ÖNALP Dışişleri Bakanı V Maliye Bakanı Milli Eğitim Bakanı Bayındırlık Bakanı M. TURGUT Prof Dr K KILIÇTURGAY Prof. Dr. C. T. SADIKLAR Prof. Dr. M. AYSAN Ticaret Bakanı V Sağ ve Sos. Yardım Bakanı Gümrük ve Tekel Bakanı Ulaştırma Bakanı Prof. Dr. S. ÖZBEK Prof. Dr. T. ECENER M.TURGUT F. İLKEL Tarım ve Orman Bakanı Çalışma Bakanı Sanayi ve Teknoloji Bakanı Enerji ve Tabiî Kay. Bakanı Yürütme ve İdare Bölümü Sayfa : 1 Resmî Gazete Kodu : 191283 Resmî Gazete Fihristi 64. Sayfadadır.
 
-I. EVLİYAOĞLU Prof. Dr. A. SAMSUNLU M. R. GÜNEY V. OZGÛL Kültür ve Turizm Bakanı imar ve İskân Bakanı Köy İşleri ve Koop. Bakanı Gençlik ve Spor Bakanı
+**I. EVLİYAOĞLU** Prof. Dr. A. SAMSUNLU M. R. GÜNEY V. OZGÛL Kültür ve Turizm Bakanı imar ve İskân Bakanı Köy İşleri ve Koop. Bakanı Gençlik ve Spor Bakanı
 
-S. ŞİDE Sosyal Güvenlik Bakanı Nükleer Tesislere Lisans Verilmesine İlişkin Tüzük
+**S. ŞİDE** Sosyal Güvenlik Bakanı Nükleer Tesislere Lisans Verilmesine İlişkin Tüzük
 
 ## BİRİNCİ KISIM Genel Hükümler
 
@@ -156,7 +156,7 @@ Sınırlı Çalışma İzninin Koşulları:
 
 1 — Sınırlı çalışma izni, bu konudaki olumlu bildirimden başlayarak oniki ay içinde inşaata başlanmaması halinde geçerliliğini kaybeder.
 
-Ancak, bu süre, haklı nedenlerle uzatılabilir.
+**Ancak, bu süre, haklı nedenlerle uzatılabilir.**
 
 2 — Sürdürülecek olan güvenlik analizi değerlendirilmesinin tamamlanmasına kadar, kurucu, gerekli görülen inceleme ve araştırmaları yapmak ya da yaptırmakla yükümlüdür.
 
@@ -172,11 +172,11 @@ Ancak, bu süre, haklı nedenlerle uzatılabilir.
 
 **Madde 20 –** Kurum Başkanı, inşaat lisansı değerlendirme raporunu, bu konuda 19 uncu madde uyarınca Başkan Yardımcısı tarafından düzenlenen raporla birlikte Komisyonun ilk toplantısına götürür. Komisyon, bu raporu yeterli bulmazsa, yeniden incelenmek üzere, Kurum Başkanlığına geri gönderebilir; gerektiğinde çağıracağı uzmanların görüşünü alır; kararını verir. Son güvenlik analizi raporuna eklenmesi istenilen konuları da içeren karar, Kurum Başkanlığınca, kurucuya bildirilir.
 
-Olumlu bildirim, inşaat lisansı adını taşır.
+**Olumlu bildirim, inşaat lisansı adını taşır.**
 
 İnşaat lisansı, kurucuya, nükleer reaktör tesisinin tüm yapılarının yapımına ve sistemlerinin montajına başlama yetkisi verir.
 
-İnşaat Lisansının Koşulları :
+**İnşaat Lisansının Koşulları :**
 
 **Madde 21 –** İnşaat lisansı, yerin ve tesisin özelliğinin gerektirdiği özel koşulların yanı sıra, aşağıdaki genel koşullarla verilir :
 

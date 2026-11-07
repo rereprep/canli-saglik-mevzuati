@@ -376,8 +376,8 @@ b) İhtiyaç fazlası devirler ise sadece bedelsiz olarak gerçekleştirilecekti
 
 (5) Devir işlemlerinde kayıt doğruluğu esastır. Taşınır kodu, barkod, edinim yılı, miat ve tanımı gibi bilgiler eksiksiz ve doğru biçimde girilir.
 
-DÖRDÜNCÜ BÖLÜM
-Taşınır Kayıt İşlemleri
+**DÖRDÜNCÜ BÖLÜM**
+**Taşınır Kayıt İşlemleri**
 
 **Genel esaslar**
 
@@ -435,8 +435,8 @@ b) Yenisi ise “Miat Uzatımı Giriş” işlem türüyle kaydedilir.
 
 **MADDE 22-** (1) Hurdaya ayırma ve imha işlemleri, Taşınır Mal Yönetmeliğinin 28 inci maddesi hükümlerine göre yürütülür.
 
-BEŞİNCİ BÖLÜM
-Stok Yönetimi
+**BEŞİNCİ BÖLÜM**
+**Stok Yönetimi**
 
 **Genel esaslar**
 

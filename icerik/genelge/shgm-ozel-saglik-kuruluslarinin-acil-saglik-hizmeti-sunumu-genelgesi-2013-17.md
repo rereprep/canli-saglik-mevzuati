@@ -15,15 +15,15 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 23642684/010.06/ 2013.5369.30875                         10.09.2013
 Konu : Özel Sağlık Kuruluşlarının Acil Sağlık Hizmeti Sunumu Hk.
 
 ....................... VALİLİĞİNE
 
-GENELGE
+**GENELGE**
 
 2013/17
 
@@ -37,11 +37,11 @@ Acil sağlık hizmetlerinin aksaklığa meydan vermeyecek şekilde, hızlı ve e
 
 Bilgilerinizi ve uygulamanın anılan Tebliğler ile yukarıda vurgulanan esaslara uygun olarak yürütülmesi gerektiğinin, özel sağlık hizmet sunucularına tebliğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 Bakan a.
 Müsteşar
 
-DAĞITIM:
+**DAĞITIM:**
 
 Gereği:
 81 İl Valiliğine

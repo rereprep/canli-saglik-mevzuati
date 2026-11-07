@@ -100,7 +100,7 @@ ifade eder.
 #### Komisyonun kurulması ve görevleri
 **MADDE 6 –** (1) Bu usul ve esaslar kapsamında yer alan sağlık tesislerinde görevlendirilecek personelin belirlenmesi için "Yurtdışı Sağlık Tesisleri Görev Talep Değerlendirme Komisyonu" kurulur.
 
-(2) Komisyon, KHGM Acil Sağlık Hizmetleri ve Yurtdışı Sağlık Birimleri Dairesi Başkanı, KHGM Döner Sermaye ve Bütçe Dairesi Başkanı ile YHGM ve ABDİGM tarafından belirlenecek birer Daire Başkanı olmak üzere toplam beş kişiden teşkil olunur. Komisyona KHGM Acil Sağlık Hizmetleri ve Yurtdışı Sağlık Birimleri Dairesi Başkanlığından sorumlu Genel Müdür Yardımcısı başkanlık eder.
+(2) **Komisyon, KHGM Acil** Sağlık Hizmetleri ve Yurtdışı Sağlık Birimleri Dairesi Başkanı, KHGM Döner Sermaye ve Bütçe Dairesi Başkanı ile YHGM ve ABDİGM tarafından belirlenecek birer Daire Başkanı olmak üzere toplam beş kişiden teşkil olunur. Komisyona KHGM Acil Sağlık Hizmetleri ve Yurtdışı Sağlık Birimleri Dairesi Başkanlığından sorumlu Genel Müdür Yardımcısı başkanlık eder.
 
 (3) Komisyonun sekretaryası KHGM Acil Sağlık Hizmetleri ve Yurtdışı Sağlık Birimleri Dairesi Başkanlığı tarafından yürütülür.
 

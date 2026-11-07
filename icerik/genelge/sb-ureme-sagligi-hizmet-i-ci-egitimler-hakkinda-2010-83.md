@@ -33,7 +33,7 @@ GENELGE
 
 Bilindiği üzere anne ve bebekler sağlık hizmetleri açısından risk altında bulunan ve öncelik tanınması gereken iki önemli grubu oluşturmaktadır. Ana çocuk sağlığı hizmetlerinin temel izleme göstergeleri olan anne ölüm oranı ve bebek ölüm hızı, sağlanan olumlu gelişmelere rağmen gelişmiş ülkelerin düzeyine çekilememiştir.
 
-Anne ölüm oranı, perinatal, bebek ölüm hızlarının düşürülmesi, maternal morbiditenin azaltılması amacıyla rutin hizmetler ülke genelinde sürdürülmekte olup öncelikli müdahale alanlarına yönelik programlar yürütülmektedir. Kahire'de 1994 yılında yapılan Uluslararası Nüfus ve Kalkınma Konferansı sonrasında ülkemizin de resmen kabul ettiği ülke eylem planları uyarınca, sağlık kuruluşlarında nitelikli ve bütüncül yaklaşımla üreme sağlığı hizmetlerine evrensel erişimin sağlanmasını hedeflemiştir.
+<i>Anne</i> ölüm oranı, perinatal, bebek ölüm hızlarının düşürülmesi, maternal morbiditenin azaltılması amacıyla rutin hizmetler ülke genelinde sürdürülmekte olup öncelikli müdahale alanlarına yönelik programlar yürütülmektedir. Kahire'de 1994 yılında yapılan Uluslararası Nüfus ve Kalkınma Konferansı sonrasında ülkemizin de resmen kabul ettiği ülke eylem planları uyarınca, sağlık kuruluşlarında nitelikli ve bütüncül yaklaşımla üreme sağlığı hizmetlerine evrensel erişimin sağlanmasını hedeflemiştir.
 
 Dünya Sağlık Örgütü'nün 2008 yılı raporu Alma-Ata deklarasyonunu tekrar gündeme getirerek eşitsizliklerin giderilmesinde, hizmet sunumunun iyileştirilmesinde başta eğitim olmak üzere tüm ilkelerin gözden geçirilmesi gerektiğini vurgulamıştır.
 

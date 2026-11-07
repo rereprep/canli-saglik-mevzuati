@@ -14,16 +14,16 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.59. Tıbbi Labaratuvarlarda Numune Saklama Süreleri, Gözetimli Hizmet Labaratuvarları Kapsamındaki Testler Genelgesi (2014/4)
+**2.3.59. Tıbbi Labaratuvarlarda Numune Saklama Süreleri,** Gözetimli Hizmet Labaratuvarları Kapsamındaki Testler Genelgesi (2014/4)
 
 T.C.
 SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 95966346 -
 Konu : Tıbbi Laboratuvarlarda Numune Saklama Süreleri, Gözetimli Hizmet Laboratuvarları Kapsamındaki Testler
 
-GENELGE
+**GENELGE**
 2014/4
 
 Tıbbi Laboratuvarlar Yönetmeliği 09.10.2013 tarih ve 28790 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiştir.

@@ -14,10 +14,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.16. Zorunlu Kan Temini Genelgesi (2009/37)
+**2.3.16. Zorunlu Kan Temini Genelgesi (2009/37)**
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Tedavi Hizmetleri Genel Müdürlüğü
 
 Sayı : B.10.0.THG.0.15.00.01 / 213.090.07*24726
@@ -25,7 +25,7 @@ Konu : Zorunlu Kan Temini
 
 18.06.2009
 
-GENELGE
+**GENELGE**
 2009/37
 
 İlgi : 12.05.2009 Tarih 18951 sayılı yazımız.
@@ -42,4 +42,4 @@ Gereğini bilgilerinize önemle rica ederim.
 
 Prof. Dr. Nihat TOSUN
 Bakan a.
-Müsteşar
+**Müsteşar**

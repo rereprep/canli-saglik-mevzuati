@@ -32,7 +32,7 @@ Bundan böyle, hasta hakları uygulamaları HBBS üzerinden aşağıdaki düzenl
 
 İl Sağlık Müdürluğu bünyesinde; hasta hakları uygulamalarını il genelinde koordine etmek, denetlemek, hasta hakları kurullarının kurulması ve çalışması ile internet tabanlı hasta başvuru bildirim sisteminin çalışmasını sağlamak amacıyla hasta hakları il koordinatörlüğü kurulur. İl koordinatörlüğü, yeteri kadar sağlık ve genel idare sınıfi personelden oluşur.
 
-İl koordinatörü:
+**İl koordinatörü:**
 
 Hekim, sosyal hizmet uzmanı ya da psikolog öncelikli olmak üzere lisans mezunları arasından İl Sağlık Müdürünün teklifi, Valiliğin uygun görüşü ve Bakanlığın onayı ile belirlenir. Görevine aynı usulle son verilir. Görevini İl Sağlık Müdürüne bağlı olarak yürütür.
 
@@ -60,11 +60,11 @@ g) Kurul kararlarının özetini, başvuru tarihi, başvuru konusu, karar tarihi
 
 ### 2) HASTA HAKLARI KURULU :
 
-Kurulun yeri ve sayısı:
+**Kurulun yeri ve sayısı:**
 
 Başvuru sayısı ve sağlık kuruluşlarını fiziki konumlarına göre II Sağlık Müdürlüğü bünyesinde uygun görülen yerlerde birden fazla kurul oluşturulabilir. Bu durumda kurul isimleri sayı ile ifade edilir.
 
-Başkan ve üyeler:
+**Başkan ve üyeler:**
 
 Kurul; başkan, sendika işyeri temsilcisi, kurum temsilcisi, dernek temsilcisi ve vatandaştan oluşur.
 
@@ -116,7 +116,7 @@ f) Son altı ay içerisinde ikiden fazla hak iblali kararı verilen sağlık mes
 
 g) Kurul kararına, tebliğ veya e-posta gönderim tarihinden itibaren 10 gün içerisinde itiraz edilebilir. İtiraz kurulda ikinci kez görüşülerek nihai karara bağlanır. Süresi içerisinde itiraz edilmeyen başvurular değerlendirilmeye alınmaz. Son itiraz mercii hasta hakları kuruludur.
 
-Sekretarya Hizmetleri:
+**Sekretarya Hizmetleri:**
 
 Kurulun bulunduğu yerlerde, il koordinatörlüğüne bağlı yeterli sayıda personel görevlendirilir. Bu personel il koordinatörünün talimatı doğrultusunda kurulun iş ve işlemlerini yerütür.
 
@@ -230,11 +230,11 @@ Işlem sonucunda, şikayet süreci devam ederse; sağlık tesisi yöneticisi/ask
 
 Hasta iletişim birimine veya il koordinatörlüğüne tıbbi hata olarak ulaşan başvurular, kamu kurumu olması halinde sağhık tesisi yöneticiliğine/başhekimliğine; özel sağlık tesisi ise İl Sağlık Müdürlüğüne gönderilir ve durumdan başvurana bilgi verilir.
 
-Görüş- Öneri Başvuruları:
+**Görüş- Öneri Başvuruları:**
 
 Görüş ve öneri başvuruları, sağlık tesisi yöneticisi/askeri hastane başhekimi/mesul müdürü veya yetki devrettiği yönetici imzasıyla klinik/birimin sorumlularına gönderilir. Görüş ve öneriye ilişkin klinik/birim veya sağlık kuruluşunun cevabi bilgileri ve yapılan işlem hasta iletişim birimleri tarafından hasta başvuru bildirim sistemine kaydedilir.
 
-Teşekkür Başvuruları:
+**Teşekkür Başvuruları:**
 
 Hasta ve yakınları memnuniyetlerini, internet ortamında veya hasta iletişim birimine kimlik bilgileriyle buşvurarak sağlık tesislerine bildirebilirler. Teşekkür bildirimleri hasta başvuru bildirim sistemine kaydedilır.
 

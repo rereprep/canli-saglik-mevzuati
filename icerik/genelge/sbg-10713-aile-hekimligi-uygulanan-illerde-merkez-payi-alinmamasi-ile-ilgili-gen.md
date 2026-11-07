@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 T.C.
 SAĞLIK BAKANLIĞI
-Strateji Geliştirme Başkanlığı
+**Strateji Geliştirme Başkanlığı**
 
 Sayı : B.10.0.SGB.0.81.00.02/ 4670 13 Haz 2008
 Konu: Aile Hekimliği uygulanan illerde
@@ -25,8 +25,8 @@ Merkez payı alınmaması.
 ....................VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
-GENELGE
-2008/44
+**GENELGE**
+**2008/44**
 
 İlgi: a) 14/04/2006 tarihli ve 2496(2486) sayılı 2006/44 Nolu Genelge.
 b) 01.06.2007 tarihli ve 5574(6603) sayılı 2007/41 Nolu Genelge.
@@ -46,7 +46,7 @@ DAĞITIM:
 Gereği:
 -81 İl Valiliği
 
-Bilgi :
+**Bilgi :**
 - Teftiş Kurulu Başkanlığı
 - Hukuk Müşavirliği
 - Temel Sağlık Hizmetleri Genel Müdürlüğü

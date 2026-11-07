@@ -19,9 +19,9 @@ kontrol_edildi: true
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-Temel Sağlık Hizmetleri Genel Müdürlüğü
+**Temel Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı: B. 10. 0.TSH.0.20.00.01
 
@@ -47,17 +47,17 @@ EK: Yetkilendirilmiş Aile Hekimliği Sözleşme Belgesi (1 Sayfa)
 
 ### DAĞITIM
 
-Gereği:
+**Gereği:**
 
 - 81 İl Valiliğine
 - İdari ve Mali İşler Dairesi Başkanlığına
 
-Bilgi:
+**Bilgi:**
 
 - Teftiş Kurulu Başkanlığına
 - Hukuk Müşavirliğine
 
-Aile Hekimliği Daire Başkanlığı Uygulama Şubesi, Mithatpaşa Cad E-Blok No: 3 Sıhhiye/ANKARA. Tlf: (0 312) 585 14 29. Faks: 432 26 65. E-posta adresi: aile@saglik.gov.tr
+**Aile Hekimliği Daire Başkanlığı Uygulama Şubesi**, Mithatpaşa Cad E-Blok No: 3 Sıhhiye/ANKARA. Tlf: (0 312) 585 14 29. Faks: 432 26 65. E-posta adresi: aile@saglik.gov.tr
 
 ### YETKİLENDİRİLMİŞ AİLE HEKİMLİĞİ SÖZLEŞME BELGESİ
 

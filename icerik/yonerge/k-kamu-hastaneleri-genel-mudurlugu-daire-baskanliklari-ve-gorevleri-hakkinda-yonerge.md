@@ -62,39 +62,39 @@ d) Sağlık tesisi: Bakanlığa bağlı ikinci ve üçüncü basamak sağlık hi
 
 **MADDE 5 –** (1) Genel Müdürlüğün daire başkanlıkları şunlardır:
 
-a) Acil Sağlık Hizmetleri ve Yurt Dışı Sağlık Birimleri Daire Başkanlığı,
+a) **Acil Sağlık Hizmetleri ve Yurt Dışı Sağlık Birimleri Daire Başkanlığı**,
 
-b) Biyomedikal Mühendislik Hizmetleri Daire Başkanlığı,
+b) **Biyomedikal Mühendislik Hizmetleri Daire Başkanlığı**,
 
-c) Döner Sermaye Bütçe ve Muhasebe İşlemleri Daire Başkanlığı,
+c) **Döner Sermaye Bütçe ve Muhasebe İşlemleri Daire Başkanlığı**,
 
-ç) Ek Ödeme Daire Başkanlığı,
+ç) **Ek Ödeme Daire Başkanlığı**,
 
-d) Finansal Analiz ve Faturalandırma Daire Başkanlığı,
+d) **Finansal Analiz ve Faturalandırma Daire Başkanlığı**,
 
-e) Hasta, Çalışan Hakları ve Güvenliği Daire Başkanlığı,
+e) **Hasta, Çalışan Hakları ve Güvenliği Daire Başkanlığı**,
 
-f) Hukuk ve Mevzuat Daire Başkanlığı,
+f) **Hukuk ve Mevzuat Daire Başkanlığı**,
 
 g) İdari Hizmetler ve İletişim Yönetimi Daire Başkanlığı,
 
-ğ) İnsan Gücü Planlama Daire Başkanlığı,
+ğ) **İnsan Gücü Planlama Daire Başkanlığı**,
 
 h) İstatistik, Analiz, Raporlama ve Stratejik Yönetim Daire Başkanlığı,
 
-l) Sağlık Bakım, Hasta Hizmetleri ve Eğitim Daire Başkanlığı,
+l) **Sağlık Bakım, Hasta Hizmetleri ve Eğitim Daire Başkanlığı**,
 
-i) Sağlık Hizmetleri Daire Başkanlığı,
+i) **Sağlık Hizmetleri Daire Başkanlığı**,
 
 j) Sağlık Tesisleri Değerlendirme ve Geliştirme Daire Başkanlığı,
 
-k) Şehir Hastaneleri Koordinasyon Daire Başkanlığı,
+k) **Şehir Hastaneleri Koordinasyon Daire Başkanlığı**,
 
-l) Tedarik Planlama, Stok ve Lojistik Yönetimi Daire Başkanlığı,
+l) **Tedarik Planlama, Stok ve Lojistik Yönetimi Daire Başkanlığı**,
 
 m) Tedarik Yöntemleri ve Satın Alma Daire Başkanlığı,
 
-n) Tıbbi Cihaz ve Tıbbi Hizmet Alımları Planlama Daire Başkanlığı.
+n) **Tıbbi Cihaz ve Tıbbi Hizmet Alımları Planlama Daire Başkanlığı**.
 
 #### Acil Sağlık Hizmetleri ve Yurt Dışı Sağlık Birimleri Daire Başkanlığı
 

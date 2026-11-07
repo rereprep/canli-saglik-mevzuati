@@ -15,7 +15,7 @@ kontrol_edildi: true
 ---
 
 T.C.  
-SAĞLIK BAKANLIĞI  
+**SAĞLIK BAKANLIĞI**  
 Tedavi Hizmetleri Genel Müdürlüğü
 
 Th. B100THG0100004/3120/ ANKARA 15.01.1992  
@@ -34,7 +34,7 @@ EKİ: 2 sayfa
 ---
 
 T.C.  
-SAĞLIK BAKANLIĞI  
+**SAĞLIK BAKANLIĞI**  
 Tedavi Hizmetleri Genel Müdürlüğü
 
 Th. B100THG0100004-3120/3045  
@@ -68,11 +68,11 @@ BAKAN
 ### DAĞITIM:  
 19 İl Valiliklerine  
 Ek'li listedeki Devlet Hast. Baştabibliklerine (İvediliğinden)  
-Merkez Daireler-Şubeler
+**Merkez** Daireler-Şubeler
 
 ### PİLOT BÖLGE OLARAK UYGULANACAK İLLER  
 Adana İli ve İlçeleri Devlet Hastaneleri Baştabibliklerine  
-İçel " " " "  
+**İçel** " " " "  
 Antalya " " " "  
 Muğla " " " "  
 Aydın " " " "  
@@ -88,5 +88,5 @@ Samsun " " " "
 Ordu " " " "  
 Giresun " " " "  
 Trabzon " " " "  
-Rize " " " "  
+**Rize** " " " "  
 Artvin " " " "

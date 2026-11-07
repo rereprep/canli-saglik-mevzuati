@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.71. Su Kesintisinde Alınacak Tedbirler Genelgesi (2007/67)
+**6.3.71. Su Kesintisinde Alınacak Tedbirler Genelgesi (2007/67)**
 
 **T.C. Sağlık Bakanlığı**
 Temel Sağlık Hizmetleri Genel Müdürlüğü
@@ -105,5 +105,5 @@ Bakan a.
 Müsteşar V.
 
 **Dağıtım:**
-Gereği: 81 İl Valiliğine.
+**Gereği**: 81 İl Valiliğine.
 Bilgi: Başbakanlık, Adalet Bakanlığı, Bayındırlık ve İskân Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, Çevre ve Orman Bakanlığı, Dışişleri Bakanlığı, Enerji ve Tabii Kaynaklar Bakanlığı, İçişleri Bakanlığı, Kültür ve Turizm Bakanlığı, Maliye Bakanlığı, Millî Eğitim Bakanlığı, Millî Savunma Bakanlığı, Sanayi ve Ticaret Bakanlığı, Tarım ve Köy İşleri Bakanlığı, Ulaştırma Bakanlığı.

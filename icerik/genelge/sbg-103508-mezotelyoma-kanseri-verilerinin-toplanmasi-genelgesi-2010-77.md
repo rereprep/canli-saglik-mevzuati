@@ -15,18 +15,18 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.46. Mezotelyoma Kanseri Verilerinin Toplanması Genelgesi (2010/77)
+**6.3.46. Mezotelyoma Kanseri Verilerinin Toplanması Genelgesi** (2010/77)
 
 T.C.
-SAĞLIK BAKANLIĞI
-Kanserle Savaş Dairesi Başkanlığı
+**SAĞLIK BAKANLIĞI**
+**Kanserle Savaş Dairesi Başkanlığı**
 
 Sayı : B.10.0.KSD.0.00.00.07-445.042 / 2916 - 8474085
 Konu : Mezotelyoma Kanseri Verilerinin Toplanması
 
 26 Ekim 2010
 
-GENELGE
+**GENELGE**
 2010/77
 
 Ülkemizde son otuz yıldır çevresel nedenli kanserler dikkati çekmektedir. Anadolu'nun neredeyse tamamına yakın bir alanında yaygın olarak asbestli bölgeler ve bunun neden olduğu sağlık sorunları ile karşılaşmak mümkündür. Özellikle asbest ve zeolitin neden olduğu mezotelyoma önemli bir halk sağlığı sorunu olarak çözüm beklemektedir.

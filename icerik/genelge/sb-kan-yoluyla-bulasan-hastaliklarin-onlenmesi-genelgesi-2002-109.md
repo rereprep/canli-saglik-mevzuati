@@ -20,7 +20,7 @@ kontrol_edildi: true
 
 Tarih: 16.10.2002
 
-Konu: Kan Yoluyla Bulaşan Hastalıkların Önlenmesi
+**Konu: Kan** Yoluyla Bulaşan Hastalıkların Önlenmesi
 
 ### ... VALİLİĞİNE (Halk Sağlığı Müdürlüğü)
 
@@ -73,11 +73,11 @@ bu tür hizmet veren yerlerde çalışan personelin konu ile ilgili olarak bilgi
 
 Konunun önemi dolayısıyla, bu tür yerlerde çalışan personelin kan yolu ile bulaşan hastalıklar ve bu tür hastalıklardan korunma konusunda eğitilmesi, bu tür yerlere giden müşterilerin bilinçlendirilmesi ve bu tür yerlerin periyodik olarak mevzuata uygun şekilde denetlenmesi hususunda gereken hassasiyetin gösterilmesini rica ederim.
 
-Doç. Dr. Sefer AYCAN
+**Doç. Dr. Sefer** AYCAN
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM
 

@@ -36,11 +36,11 @@ Denetimli serbestlik vakalarımın yoğun olduğu illerde bu vakaların iş ve i
 
 Arındırma merkezlerinde aynı zamanda denetimli serbestlik tedavi hizmeti verilebilir.
 
-Personel Durumu:
+**Personel Durumu:**
 
 Denetimli serbestlik tedavi hizmetlerinde, ruh sağlığı ve hastalıkları uzmanı veya anılan uzman hekim sorumluluğunda diğer hekimler, psikolog/sosyal çalışmacı, hemşire/sağlık memuru, sekreter ve güvenlik personeli görev yapar.
 
-Fiziki Şartlar:
+**Fiziki Şartlar:**
 
 1. Denetimli Serbestlik Polikliniği:
 
@@ -62,9 +62,9 @@ Bakanlığımızın tıbbi laboratuvarlar ile ilgili güncel mevzuatı doğrultu
 
 Kayıt, yazışma ve arşiv için gerekli alt yapı sağlık tesisi yönetimince oluşturulur ve gerekli güvenlik tedbirleri sağlanır.
 
-Tedavi ve Denetimli Serbestlik Tedbiri Verilen Kişiler Hakkında Sağlık Tesislerince Yapılacak Işlemler:
+**Tedavi ve Denetimli Serbestlik Tedbiri Verilen Kişiler Hakkında Sağlık** Tesislerince Yapılacak Işlemler:
 
-A) Genel Hükümler:
+A) **Genel Hükümler:**
 
 Denetimli Serbestlik Müdürlüğüne, Ek:1 resmi yazı ilişiğinde Ek: 2 ve/veya Ek: 4 nihai raporları gönderilir. Tahlil sonuçları ve takip belgeleri gönderilmez.
 
@@ -84,7 +84,7 @@ Denetimli serbestlik müdürlüğüne rapor gönderilerek işlemleri tamamlanmı
 
 ### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürläğü
 
-C) Klinik Değerlendirme, İzlem, Kişiye Bilgi Verme ve Raporlama:
+C) **Klinik Değerlendirme, İzlem, Kişiye Bilgi Verme ve Raporlama:**
 
 1) Sevk evrakının geçerlilik süresi beş iş günüdür. Hasta beş iş günd bitimi sonrasında geldiği takdirde, tedaviye alınır.
 
@@ -126,11 +126,11 @@ Hastaya, tedavi süreciyle ilgili bilgi verir. Oluşturulan tedavi programımı 
 
 • Program süresince, tedavi önerilerine uymasıma rağmen bağımlılık bulgu ve belirtileri gösteren hasta hakkında Ek: 4-c bağımlılık merkezine sevkinin sağlanmasının uygun olduğunu bildirir tıbbi kanaat raporu düzenlenir. Denetimli serbestlik tedavi hizmetinin yatakh arındırma merkezinde verilmesi halinde, Ek: 10-a tıbbi kanaat raporu düzenlenerek hastanın tedavisine arındırma merkezinde devam edilir.
 
-D) Tibbi Laboratuvar İşlemleri:
+D) **Tibbi Laboratuvar İşlemleri:**
 
 Klinik muayene ve değerlendirmelerde gerekli görülecek uyuşturucu veyn uyarıcı madde analizine yönelik iş ve işlemler, Bakanlığımızın laboratuvar ile ilgili güncel mevzuatı uyarınca yapılır.
 
-Erişkin ve Çocuk-Ergen Yataklı Arındırma Merkezlerinde Denetimli Serbestlik Tedavi Hizmeti:
+**Erişkin ve Çocuk-Ergen Yataklı Arındırma Merkezlerinde Denetimli Serbestlik** Tedavi Hizmeti:
 
 Hakkında denetimli serbestlik kapsamında ileri tedavi görmesi gerektiğine karar verilen hastaların tedavisi yataklı olarak hizmet veren erişkin ve çocuk-ergen arindırma merkezlerinde yapılır.
 
@@ -176,7 +176,7 @@ Denetimli Serbestlik Müdürluğüne Ek:1 resmi yazı ilişiğinde, ilk muayened
 
 Arındırma merkezinde, denetimli serbestlik tedavi hizmetinin verilmesi halinde, hakkında ileri tedavi görmesi gerektiğine karar verilmiş hastanın tedavisine merkezde devam edilir ve Ek: 10 rapor düzenlenir. Tedavi sonunda Ek: 9 nihai rapor düzenlenir. Raporlar Ek: 1 resmi yazı ilişiğinde Denetimli Serbestlik Müdürluğüne gönderilir.
 
-Denetimli Serbestlik Sürecindeki Kişilerin Kontrol Değerlendirmesi:
+**Denetimli Serbestlik Sürecindeki Kişilerin Kontrol Değerlendirmesi:**
 
 • Denetimli serbestlik tedavi programı tamamlanan ya da sadece denetimli
 
@@ -212,7 +212,7 @@ Bakan Yardımcisı
 
 ### DAGITIM
 
-Gereği Bilgi
+**Gereği** Bilgi
 
 - Kamu Hastaneleri Genel Müdürlüğüne - Adalet Bakanlığma
 

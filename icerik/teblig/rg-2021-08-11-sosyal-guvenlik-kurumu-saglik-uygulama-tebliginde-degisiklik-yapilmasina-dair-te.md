@@ -13,11 +13,11 @@ ocr: true
 duzeltildi: true
 ---
 
-TEBLİĞ
+**TEBLİĞ**
 
 Sosyal Güvenlik Kurumu Başkanlığından:
 
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE** DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.7.1 numaralı maddesinin birinci fıkrasında yer alan “Belçika,” ibaresinden sonra gelmek üzere “Çekya,” ibaresi eklenmiştir.
 
@@ -100,7 +100,7 @@ MADDE 8- Aynı Tebliğin 4.2 numaralı maddesine aşağıdaki madde eklenmiştir
 MADDE 9- Aynı Tebliğin 4.4.1 numaralı maddesinin üçüncü fıkrasına aşağıdaki cümle eklenmiştir.
 “Ancak, SUT eki EK-4/A listesinde bulunmaktayken Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu Detaylı İlaç Fiyat Listesinde yayımlanan; referans ürün, eşdeğer ürün, fiyat korumalı ürün statülerinde veya referans durumlarında ortaya çıkabilecek değişiklikler vb. nedenlerle kamu fiyatında artışa yol açabilecek her türlü değişiklik için indirim oranlarına ilişkin güncelleme talepleri ilgili komisyon marifetiyle Kurum tarafından değerlendirilir.”
 
-MADDE 10- Aynı Tebliğ eki “Hizmet Başı İşlem Puan Listesi (EK-2/B)” nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 10-** Aynı Tebliğ eki “Hizmet Başı İşlem Puan Listesi (EK-2/B)” nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “607891” SUT kodlu işlem satırı yürürlükten kaldırılmıştır.
 b) Listede yer alan “621040” SUT kodlu işlem satırından sonra gelmek üzere aşağıdaki satır eklenmiştir.
 
@@ -129,24 +129,24 @@ f) Listede yer alan “L114220” SUT kodlu işlem satırından sonra gelmek üz
 | L114221 | Heparin -Düşük moleküler ağırlıklı (LMWH) (Plazma) |  | 19,38 |
 | L114222 | Heparin-Fraksiyone olmayan (UFH) (Plazma) |  | 19,38 |
 
-MADDE 11- Aynı Tebliğ eki “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)” nde yer alan “İNVİTRO FERTİLİZASYON İŞLEMLERİ” başlığından sonra gelmek üzere aşağıdaki satır eklenmiştir.
+**MADDE 11-** Aynı Tebliğ eki “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)” nde yer alan “İNVİTRO FERTİLİZASYON İŞLEMLERİ” başlığından sonra gelmek üzere aşağıdaki satır eklenmiştir.
 
 | P621043 | Sağlam çocuk doğmasına yönelik invitro fertilizasyon (IVF) | SUT 2.4.4.1-3 maddesine bakınız. | B | * | 5.771,33 |
 
-MADDE 12- Aynı Tebliğin EK-2’sine Ek-1’de yer alan “Preimplantasyon Genetik Tanı (PGT) ile Invitro Fertilizasyon (IVF) Yapılacak Kalıtsal Hastalıklar Listesi (EK-2/K)” eklenmiştir.
+**MADDE 12-** Aynı Tebliğin EK-2’sine Ek-1’de yer alan “Preimplantasyon Genetik Tanı (PGT) ile Invitro Fertilizasyon (IVF) Yapılacak Kalıtsal Hastalıklar Listesi (EK-2/K)” eklenmiştir.
 
-MADDE 13- Aynı Tebliğ eki “Kalp Damar Cerrahisi Branşına Ait Tıbbi Malzemeler Listesi (EK-3/I)” nde yer alan “KV4020” SUT kodlu tıbbi malzeme satırı yürürlükten kaldırılmıştır.
+**MADDE 13-** Aynı Tebliğ eki “Kalp Damar Cerrahisi Branşına Ait Tıbbi Malzemeler Listesi (EK-3/I)” nde yer alan “KV4020” SUT kodlu tıbbi malzeme satırı yürürlükten kaldırılmıştır.
 
-MADDE 14- Aynı Tebliğ eki;
+**MADDE 14-** Aynı Tebliğ eki;
 a) “Bedeli Ödenecek İlaçlar Listesi (EK-4/A)” Ek-2’deki şekilde,
 b) “Hastalığa Özel (Doğuştan Metabolik Hastalıklar, Kistik Fibrozis ve İnek Sütü Alerjisi) Diyet Ürünleri ile Tıbbi Mamalar Listesi (EK-4/B)” Ek-3’deki şekilde,
 değiştirilmiştir.
 
-MADDE 15- Aynı Tebliğ eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)” nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 15-** Aynı Tebliğ eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)” nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin 4.8. numaralı alt maddesine “4.8.6. Evolokumab *” satırı eklenmiştir.
 b) Listenin 7.2.1. numaralı alt maddesine “7.2.1.6. Epidermal büyüme faktörü (topikal formu)*” satırı eklenmiştir.
 
-MADDE 16- Bu Tebliğin;
+**MADDE 16- Bu** Tebliğin;
 a) 1 inci maddesi 19/4/2021 tarihinden geçerli olmak üzere yayımı tarihinde,
 b) 2 nci maddesi 1/6/2021 tarihinden geçerli olmak üzere yayımı tarihinde,
 c) 5 inci maddesinin (f) bendi 1/7/2021 tarihinden geçerli olmak üzere yayımı tarihinde,
@@ -156,7 +156,7 @@ e) 5 inci maddesinin (a), (b), (c), (ç), (d), (e), (g) bentleri ile 6 ncı, 8 i
 f) Diğer hükümleri yayımı tarihinde,
 yürürlüğe girer.
 
-MADDE 17- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 17- Bu** Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 
 “Ek-1
 

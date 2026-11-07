@@ -49,7 +49,7 @@ a) "Beyaz Kod" uygulaması sorumlu başhekim yardımcısı vasıtasıyla yakınd
 b) Görevli müdahale ekiplerinin olay yerine en kısa zamanda ulaşması sağlanacaktır.
 c) Gerçekleşen olayların analizi yapılarak, ilgili sağlık kurumuna özgü tedbirler artırılacaktır.
 
-2) Çalışan Hakları ve Güvenliği Birimi;
+2) **Çalışan Hakları ve Güvenliği Birimi;**
 Hastane ile ağız ve diş sağlığı merkezlerinde bir başhekim yardımcısının doğrudan takip edeceği "Çalışan Hakları ve Güvenliği Birimleri" kurulacaktır. Bağlı birimlerdeki çalışan hakları ve güvenliğine ilişkin iş ve işlemlerini yürütmek üzere halk sağlığı müdürlükleri ile il sağlık müdürlüklerinde de bir müdür yardımcısının doğrudan takibinde aynı birimler kurulacaktır.
 a) Bu birim tüm sağlık çalışanlarının kolay ulaşabileceği bir yerde olacaktır. Gerekli ekipman (dış hatta açık telefon, faks, internet bağlantılı bilgisayar ve uygun görüşme ortamı) temin edilecektir.
 b) Birimde tercihen sosyal hizmet uzmanı, psikolog veya halkla ilişkiler uzmanı sekretarya olarak görevlendirilecek ve yeterli sayıda personel bulundurulacaktır.
@@ -73,13 +73,13 @@ a) Hasta ve hasta yakınlarının ilk olarak nereye müracaat edecekleri, hangi 
 b) Vatandaş; şiddete uğrayan sağlık personelinin hizmet vermekten çekilme hakkının bulunduğu, böyle bir durumda hizmet alma sürecinin aksayabileceği konusunda bilgilendirilecektir.
 c) Vatandaş, sağlık çalışanına yönelik şiddet uygulayanların mutlaka yargılanacağı ve cezalandırılacağı konusunda (pano/afiş/broşürler gibi vasıtalarla) bilgilendirilecektir.
 
-6) Hizmetten çekilme;
+6) **Hizmetten çekilme;**
 Sağlık çalışanları, sağlık hizmeti sunumu esnasında şiddete uğraması halinde, acil verilmesi gereken hizmetler hariç olmak üzere hizmetten çekilme talebinde bulunabilir.
 a) Hizmetten çekilme talebi, kurum tarafından belirlenen yöneticiye sözlü veya yazılı olarak bildirilecektir.
 b) Bildirim üzerine yetkili yönetici, olayı derhal değerlendirerek hizmetten çekilme talebinin uygun olup olmadığı hakkında gecikmeksizin karar verecektir.
 c) Yetkili yönetici, hizmetten çekilme talebini uygun bulduğu takdirde hastanın sağlık hizmeti almasına ve tedavisinin devamına yönelik tedbirleri güvenlik tedbirleriyle birlikte alacaktır. Bu kapsamda ilgili hastanın sağlık hizmetini devam ettirecek yeni sağlık çalışanını belirleyecek, kurum içerisinde bunun mümkün olmaması halinde hastanın hizmet alabileceği başka bir sağlık kurumuna sevkini ve hizmet alımını sağlayacaktır. Bu süreç sırasında hastanın tedavisinin aksatılmamasına itina edilecektir.
 
-7) Bildirim süreci ve hukuki yardım;
+7) **Bildirim süreci ve hukuki yardım;**
 Sağlık çalışanlarına yönelik şiddet olaylarını takip etmek üzere "Bakanlık Beyaz Kod Birimi" kurulmuş, 24 saat hizmet verecek "113" numaralı telefon ve "www.beyazkod.saglik.gov.tr" internet sayfası oluşturulmuştur.
 a) Kamu ve özel tüm sağlık kurum ve kuruluşlarında gerçekleşen şiddet olayları, yöneticiler tarafından derhal "113" numaralı telefonla Bakanlık Beyaz Kod Birimine bildirilecek, eş zamanlı olarak ilgili kurumun hukuk birimine ve adli mercilere intikal ettirilecektir. Kamu görevlilerine karşı işlenen şiddet olaylarının takibi şikâyete bağlı olmadığından, ilgili personelin şikâyetinin olup olmadığına bakılmaksızın yöneticiler olayı mutlaka adli mercilere intikal ettirecektir. Özel sağlık kuruluşları da adli bildirim konusunda gerekli hassasiyeti gösterecektir.
 b) Şiddete uğrayan sağlık çalışanı tarafından da "113" numaralı telefona doğrudan bildirim yapılabilecektir.
@@ -95,7 +95,7 @@ c) SABİM'e yapılan sağlık çalışanları hakkındaki şikâyetler, başvuru
 Genelgenin İlinizde bulunan tüm kamu, üniversite ve özel sağlık kurum ve kuruluşlarına duyurulması ve uygulanmasının teminini, ayrıca Bakanlığımızca çalışan güvenliğine ilişkin olarak yapılacak yeni düzenlemelerin titizlikle takibini önemle rica ederim.
 
 Prof. Dr. Recep AKDAĞ  
-Bakan
+**Bakan**
 
 **DAĞITIM:**  
 A Planı

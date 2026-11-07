@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-11.3.3. Kamu Zararı Genelgesi (2021/6)
+**11.3.3. Kamu Zararı Genelgesi (2021/6)**
 
 ### T.C. SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 

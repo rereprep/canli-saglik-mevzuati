@@ -18,7 +18,7 @@ kontrol_edildi: true
 ## GENELGE 2021/1
 
 **T.C. SAĞLIK BAKANLIĞI**  
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı: 83913885  
 Konu: Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri
@@ -169,7 +169,7 @@ Söz konusu hizmet alımı ihalelerinde; hizmet alımı süresince tüm güncel 
 
 **3.4.11.** Hizmet satın alımı, 4734 sayılı Kamu İhale Kanunu hükümleri çerçevesinde yapılacaktır.
 
-**3.4.12.** Tıbbi cihaz hizmet alımında yükleniciye, SUT’da belirlenen fiyatları geçmemek üzere cihazın özelliğine göre çekim, tetkik, tahlil veya test gibi her işlem başına (ihalede oluşan) bir bedelin ödenmesi ve ihale dokümanlarına ödemelerin bu yönde yapılacağına dair hükümlerin konulması gerekmektedir.
+**3.4.12.** Tıbbi cihaz hizmet alımında yükleniciye, SUT’da belirlenen fiyatları geçmemek üzere cihazın özelliğine göre çekim, tetkik, tahlil veya test gibi her işlem başına <i>(ihalede oluşan)</i> bir bedelin ödenmesi ve ihale dokümanlarına ödemelerin bu yönde yapılacağına dair hükümlerin konulması gerekmektedir.
 
 **3.4.13.** Yaklaşık maliyetin tespitinde ve ihalede teklif edilen teklif bedellerinin değerlendirilmesinde; SUT’da belirlenen fiyatların ve bu fiyatlardan döner sermaye işletmelerimizin hazine payı, SHÇEK payı ve merkez payı yatırdıklarının da dikkate alınması gerekmektedir.
 
@@ -312,9 +312,9 @@ SHGM Daire Başkanlıkları
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
-EK-1-A
+**EK-1-A**
 
 ### TIBBİ CİHAZ ve TIBBİ HİZMET ALIMI İÇİN BAŞVURU FORMU
 
@@ -382,7 +382,7 @@ Tablo ile ilgili açıklamalar:
 ### Sayfa 13 / 20
 
 T.C. SAĞLIK BAKANLIĞI  
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 EK-1-B
 
@@ -401,7 +401,7 @@ Görevi:
 
 Tıbbi Cihaz Daimi Özel İhtisas Komisyonu
 
-EK-2
+**EK-2**
 
 ### TIBBİ CİHAZ BAŞVURU FORMU
 
@@ -535,7 +535,7 @@ Notlar: Cihaz/Sistem, özelliği dolayısıyla bir diğer uzmanlık alanını il
 
 T.C. Sağlık Bakanlığı
 
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 (Tıbbi Cihaz Daimi Özel İhtisas Komisyonu)
 
@@ -553,7 +553,7 @@ Formla birlikte gönderilmesi gereken tüm bilgiler/evraklar eksiksiz olmalıdı
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 ### EK-3
 
@@ -603,7 +603,7 @@ Tanı ve teşhise yönelik olarak X ışını yayılımıyla görüntüleme ama�
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 **10-Sterilizasyon ve İnkübasyon Sistemleri**  
 Kontrollü hacim içi parametre (sıcaklık, basın, nem vs.) dağılımı temel prensibi ile farklı kaynak ve metotlar kullanılarak inkübasyon, dekontaminasyon, dezenfeksiyon, sterilizasyon veya muhafaza amacıyla kullanılan biyomedikal dayanıklı ve tüketim niteliğindeki taşınırlardır.

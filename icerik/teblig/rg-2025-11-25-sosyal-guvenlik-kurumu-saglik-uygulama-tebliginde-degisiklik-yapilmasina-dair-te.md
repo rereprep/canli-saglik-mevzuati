@@ -15,9 +15,9 @@ duzeltildi: true
 
 TEBLİĞ
 
-Sosyal Güvenlik Kurumu Başkanlığından:
+**Sosyal Güvenlik Kurumu Başkanlığından:**
 
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE**
 DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 2.2.1.B-3 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
@@ -74,7 +74,7 @@ g) Fıkraya aşağıdaki bentler eklenmiştir.
 2) Üçüncü kür sonunda en az minör yanıt, altıncı kür sonunda ve devam eden her 6 kür sonunda ise en az kısmi yanıt olduğunun belirtildiği, hematoloji veya tıbbi onkoloji uzman hekiminin yer aldığı, en fazla 3 ay süreli sağlık kurulu raporuna istinaden hematoloji veya tıbbi onkoloji uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır.
 3) İksazomib, karfilzomib, daratumumab, isatuksimab, elranatamab, selinexor ve pomalidomid etkin maddeli ilaçların özel hükümleri dışında birbirleri ile kombine olarak kullanılması halinde bedelleri Kurumca karşılanmaz.
 4) Daratumumab direnci olan hastalarda isatuksimab, isatuksimab direnci olan hastalarda daratumumabın kullanılması halinde bedelleri Kurumca karşılanmaz.
-vvv) Fedratinib;
+**vvv) Fedratinib;**
 1) Primer miyelofibrosis, post polistemik miyelofibrosis veya esansiyel trombositemi sonrası ikincil miyelofibrosis tanılı hastalarda splenomegaliye bağlı semptomların tedavisinde aşağıdaki koşulların tümünü taşıyan yetişkin hastalarda ilaca başlanır.
 a) Semptomatik masif splenomegali bulunan.
 b) DIPPS plus skorlama sistemine göre orta veya yüksek risk grubu olan.
@@ -91,12 +91,12 @@ MADDE 8- Aynı Tebliğin 4.2.27.A.1 numaralı maddesinin dördüncü fıkrasın�
 2) Kazanılmış (edinsel) koagülasyon bozukluklarında (K vitaminini yetersizliği, karaciğer yetmezliği gibi) oluşan kanamalarda ilgili kanama yeri belirtilmek koşulu ile uzman hekimlerce yatan hastalarda acil durumlarda veya ayaktan acil müracaatlarda rapor şartı aranmaksızın hastaya en fazla bir günlük dozda ilaç reçete edilmesi halinde bedelleri Kurumca karşılanır. Kullanılan ünitenin bir günlük doz olduğu hekim tarafından reçete/tabela üzerinde belirtilir. Bir günden uzun sürecek tedavilerin hematoloji uzman hekimlerince düzenlenecek rapor ile, hematoloji uzman hekiminin bulunmadığı sağlık hizmeti sunucularında ise ilgili uzman hekim tarafından kanamanın devam ettiğini bildirir günlük kullanım dozunun belirtildiği en fazla üç gün süreli ve en az bir dahiliye ve/veya çocuk sağlığı hastalıkları uzmanının yer aldığı sağlık kurulu raporu düzenlenmek suretiyle tedaviye devam edilmesi halinde bedelleri Kurumca karşılanır. Tedavinin devam etmesi durumunda hematoloji uzman hekiminin bulunduğu hastaneye sevk edilir.”
 MADDE 9- Aynı Tebliğin 4.2.30.A numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(10) Bosentan etkin maddesini 32 mg dozunda içeren ilaçlar pulmoner arteriyel hipertansiyonda; yukarıdaki fıkralarda belirtilen koşulları sağlayan 30 kg altı pediatrik hastalar veya kilo sınırı aranmaksızın yutma güçlüğü olan (yoğun bakımda tedavi gören veya entübe veya ağızdan beslenemeyen veya nazogastrik beslenme zorunluluğu olan) erişkin hastalarda raporda belirtilmesi koşulu ile reçetelenmesi halinde bedeli Kurumca karşılanır.”
-MADDE 10- Aynı Tebliğin 4.2.32 numaralı maddesinin altıncı fıkrasında yer alan “yalnızca” ibaresinden sonra gelmek üzere “girişimsel radyoloji işlemini yapan” ibaresi eklenmiştir.
-MADDE 11- Aynı Tebliğin 4.2.38 numaralı maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 10-** Aynı Tebliğin 4.2.32 numaralı maddesinin altıncı fıkrasında yer alan “yalnızca” ibaresinden sonra gelmek üzere “girişimsel radyoloji işlemini yapan” ibaresi eklenmiştir.
+**MADDE 11-** Aynı Tebliğin 4.2.38 numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(8) Empagliflozin (sodyum-glukoz ko-transporter 2 (SGLT2) inhibitörü) ve linagliptin (DPP-4 antagonisti) kombine preparatları; metformin ve/veya sülfonilüre ve empagliflozin veya linagliptin ile birlikte kullanılmış olmasına rağmen yeterli glisemik kontrol sağlanamamış hastalarda, endokrinoloji uzman hekimleri ile iç hastalıkları uzman hekimlerince veya bu hekimlere düzenlenen uzman hekim raporu ile tüm hekimlerce reçete edilebilir. Linagliptin ve empagliflozin kombinasyonu, diğer DPP-4 antagonisti, SGLT2 inhibitörleri ve GLP-1 analogları ile birlikte kullanılması halinde bedelleri Kurumca karşılanmaz.”
-MADDE 12- Aynı Tebliğin 4.2.43 numaralı maddesinin ikinci fıkrasının (a) bendine aşağıdaki cümle eklenmiştir.
+**MADDE 12-** Aynı Tebliğin 4.2.43 numaralı maddesinin ikinci fıkrasının (a) bendine aşağıdaki cümle eklenmiştir.
 “Bosentan etkin maddesini 32 mg dozunda içeren ilaçlar ise bu durumları karşılayan ve yutma güçlüğü çeken (yoğun bakımda tedavi gören veya entübe veya ağızdan beslenemeyen veya nazogastrik beslenme zorunluluğu olan) erişkin hastalarda raporda belirtilmesi koşulu ile reçetelenmesi halinde bedeli Kurumca karşılanır.”
-MADDE 13- Aynı Tebliğin 4.2.73 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 13-** Aynı Tebliğin 4.2.73 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
 “4.2.73 - “Elexacaftor/Tezacaftor/Ivacaftor and Ivacaftor” kullanım ilkeleri
 (1) Başlangıç kriterleri:
 1) Kistik fibrozis tanısı alan:
@@ -116,20 +116,20 @@ Sonraki devam raporlarında başlangıca göre tedaviden fayda sağlandığını
 (3) Daha önce KFTR Modülatörü kullanan hastalarda “Elexacaftor/ Tezacaftor /Ivacaftor and Ivacaftor” kullanım kriterleri: Daha önce KFTR Modülatörü (ivacaftor, tezacaftor, lumacaftor ve elexacaftor’un tek başına veya kombinasyon formları) başlanan, 24 aylık ve üzeri hastalarda düzenlenecek ilk raporda kullanılmakta olduğu KFTR Modülatörüne başlangıç tarihinin ve başlangıç kriterlerine uygun olduğunun test sonuçlarının tarihleriyle birlikte raporda yer alması gerekmektedir. Bu hastalarda devam raporunda tedaviden fayda sağlandığının belirtilmesi koşuluyla tedaviye devam edilir. Elexacaftor/ Tezacaftor /Ivacaftor and Ivacaftor tedavisine başlama tarihinden önceki son 6 ay ve daha uzun süre KFTR Modülatörü tedavisine ara veren hastalarda başlangıç kriterleri aranır.
 (4) Sonlandırma kriterleri: Devam kriterlerinden hiçbirini sağlamayan hastalarda tedavi sonlandırılır. Tedaviye 6 aydan fazla süre ile ara veren hastalarda başlangıç kriterleri aranır.
 (5) Rapor ve reçeteleme koşulları: Üçüncü basamak resmi sağlık hizmeti sunucularında en az bir göğüs hastalıkları uzman hekiminin yer aldığı 6 ay süreli sağlık kurulu raporu istinaden göğüs hastalıkları uzman hekimlerince reçete edilmesi halinde Kurumca karşılanır.”
-MADDE 14- Aynı Tebliğin 4.4.2 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 14-** Aynı Tebliğin 4.4.2 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
 “4.4.2 - İç Referans Fiyatlandırma Uygulaması
 (1) İç referans fiyatlandırma uygulaması kapsamında; eşdeğer grup uygulaması, aynı etkin maddeyi aynı dozda içeren benzer dozaj formundaki ilaçların aynı eşdeğer grupta değerlendirilmesi esasına dayanır, bu gruplarda yer alan ilaçlar eczanede ikame edilebilir. Ayrıca Kurum, akılcı ilaç kullanımı çerçevesinde Sağlık Bakanlığının da yer aldığı komisyonlar ile hastaların tedaviye erişiminde zorluk oluşturmayacağı belirlenen ilaçlar için gruplar oluşturabilir, bu gruplarda bulunan ilaçlar eczanede ikame edilmez.
 (2) İç referans fiyatlandırma uygulaması kapsamında yer alan ilaçlara ait ödemelerde, ilaçların %1 pazar payına sahip olması hususu gözetilerek grubun en ucuz ilaç bedelinin %6 fazlasına kadar dikkate alınır.
 a) Bu kapsamda belirlenen gruplarda; SUT’un 4.4.1 maddesinde belirtilen kamu kurum iskontoları ile hesaplanan kamu fiyatı üzerinden gruptaki ilaçların ortak en küçük birimi başına düşen “indirimli birim bedeller” karşılaştırılarak en ucuz birim bedel bulunur. Bulunan en ucuz birim bedele %6 ilave edilerek o gruptaki ilaç için ödenebilecek azami birim bedel bulunur. Bu şekilde bulunan ödenebilecek azami birim bedel esas alınarak, gruptaki her bir ilacın ambalaj formuna göre o ilaca özgü kutu bedeli hesaplanır ve ortaya çıkan bu kutu fiyatı, aynı ilacın kamu fiyatı ile karşılaştırılır. Kamu fiyatının, azami birim bedelden yola çıkarılarak hesaplanan kutu fiyatının altı kısım ödemez.
 b) Hastalar ve eczaneler tarafından ulaşılabilir olması amacıyla azami birim bedelin hesaplanmasına esas olan en ucuz ilacın belirlenmesinde Kurum tarafından tespit edilebilen son 5 aylık verinin en az 1 ayında grup içinde %1 pazar payına sahip olması hususu gözetilir. Söz konusu süre ve pazar payının her bir ilaç grubu için ayrı ayrı yeniden belirlenmesine ve bunlara ilişkin tereddütlerin giderilmesinde “Sağlık Hizmetleri Fiyatlandırma Komisyonu” yetkilidir.”
-MADDE 15- Aynı Tebliğ eki “Hizmet Başına İşlem Puan Listesi (EK-2/B)”nde yer alan “620300” ve “620462” SUT kodlu işlem satırları aşağıdaki şekilde değiştirilmiştir.
+**MADDE 15-** Aynı Tebliğ eki “Hizmet Başına İşlem Puan Listesi (EK-2/B)”nde yer alan “620300” ve “620462” SUT kodlu işlem satırları aşağıdaki şekilde değiştirilmiştir.
 
 | SUT Kodu | İşlem | Açıklama | Bedel |
 |---|---|---|---:|
 | 620300 | Perinoplasti | 0-18 yaş aralığındaki hastalarda sadece S38.0 genital travma nedeniyle primer onarım ihtiyacında faturalandırılır. Biri çocuk cerrahisi ve/veya çocuk üroloji uzmanı olmak üzere kadın hastalıkları ve doğum ve/veya plastik cerrahi ve/veya çocuk endokrinolojisi ve/veya çocuk ürolojisi uzmanlarından oluşan sağlık kurulu raporu ile tıbbi gerekçe belirtilmelidir.\n18 yaş ve üzerindekiler hastalarda sadece N81.9 kadın genital organ prolapsus cerrahisi vakalarında ve doğum sonrası epizyotomi ve/veya kesi iyileşme bozukluklarında faturalandırılır. En az biri kadın hastalıkları ve doğum uzmanı olmak üzere, cerrahi branşlardan oluşan sağlık kurulu raporu ile tıbbi gerekçe belirtilmelidir. | 1.264,59 |
 | 620462 | Labioplasti | 0-18 yaş aralığındaki hastalarda uygulanır, sadece “E25.0 Konjenital Adrenogenital bozukluklar, enzim eksiklikleriyle birlikte olan” ve “E27.4 Adrenokortikal yetmezlik, diğer ve tanımlanmamış” tanılarında faturalandırılır. Biri çocuk cerrahisi ve/veya çocuk üroloji uzmanı olmak üzere kadın hastalıkları ve doğum ve/veya plastik cerrahi ve/veya çocuk endokrinolojisi ve/veya çocuk ürolojisi uzmanlarından oluşan sağlık kurulu raporu ile tıbbi gerekçe belirtilmelidir. Üçüncü basamak sağlık hizmeti sunucuları tarafından yapılması halinde faturalandırılır. | 4.211,14 |
 
-MADDE 16- Aynı Tebliğ eki “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 16-** Aynı Tebliğ eki “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “P620300” ve “P620462” SUT kodlu işlem satırları aşağıdaki şekilde değiştirilmiştir.
 
 | SUT Kodu | İşlem | Açıklama | Grup | Bedel |
@@ -144,9 +144,9 @@ b) Listeye “P920000” SUT kodlu işlemden sonra gelmek üzere aşağıdaki ba
 |  | EVDE SAĞLIK HİZMETLERİ |  |  |
 | P920010 | Evde sağlık hizmetleri | Sağlık Bakanlığına bağlı sağlık hizmeti sunucularınca yapılması halinde faturalandırılır. Muayene, tetkik, tahlil, işlemler dahildir. SUT’un 2.1.1.A ve 2.2.1.B-3 maddesine bakınız. | 801,01 |
 
-MADDE 17- Aynı Tebliğ eki “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi (EK-3/A)”nda yer alan “OR4505” SUT kodlu tıbbi malzeme satırı yürürlükten kaldırılmıştır.
-MADDE 18- Aynı Tebliğ eki “Bedeli Ödenecek İlaçlar Listesi (EK-4/A)” Ek-1’deki şekilde değiştirilmiştir.
-MADDE 19- Aynı Tebliğ eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 17- Aynı** Tebliğ eki “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi (EK-3/A)”nda yer alan “OR4505” SUT kodlu tıbbi malzeme satırı yürürlükten kaldırılmıştır.
+**MADDE 18-** Aynı Tebliğ eki “Bedeli Ödenecek İlaçlar Listesi (EK-4/A)” Ek-1’deki şekilde değiştirilmiştir.
+**MADDE 19-** Aynı Tebliğ eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin 2 numaralı maddesine aşağıdaki alt madde eklenmiştir.
 “2.34. İsatuskimab*”
 b) Listenin 8.2.2 numaralı maddesine aşağıdaki ibare eklenmiştir.
@@ -160,7 +160,7 @@ d) Listenin 14.2 numaralı maddesine “Z20.6” ibaresi, “B24” satırından
 |---|---|
 | Z20.6 | İnsan immünyetmezlik virüsü [HIV]’ne temas ve maruz kalma |
 
-MADDE 20- Aynı Tebliğ eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi (EK-4/E)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 20-** Aynı Tebliğ eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi (EK-4/E)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin 10-ANTİFUNGAL ANTİBİYOTİKLER başlığı altında yer alan 21 numaralı satırı aşağıdaki şekilde değiştirilmiştir.
 
 “
@@ -170,7 +170,7 @@ b) Listenin 11- ANTİVİRAL İLAÇLAR başlığı altında yer alan “A) HIV/AI
 
 | 23 | Dolutegravir + lamivudin | (1) İntegráz inhibitörü sınıfına veya lamivudine karşı bilinen veya şüphelenilen direnci olmayan, yetişkinlerde ve en az 40 kg ağırlığında 12 yaşından büyük adolesanlarda İnsan İmmün Yetmezlik Virüsü tip 1 (HIV-1) enfeksiyonunun tedavisinde enfeksiyon hastalıkları ve klinik mikrobiyoloji uzman hekimlerince düzenlenecek sağlık raporuna istinaden enfeksiyon hastalıkları ve klinik mikrobiyoloji uzman hekimlerince, bunların bulunmadığı yerlerde reçetenin açıklama bölümünde bu durumun belirtilmesi koşuluyla iç hastalıkları uzman hekimlerince, bunların bulunmadığı yerlerde reçetenin açıklama bölümünde bu durumun belirtilmesi koşuluyla iç hastalıkları uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır. |
 
-MADDE 21- Aynı Tebliğ eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) ile Verilebilecek İlaçlar Listesi (EK-4/F)” nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 21-** Aynı Tebliğ eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) ile Verilebilecek İlaçlar Listesi (EK-4/F)” nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin 39.1 numaralı maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “39.2. Paliperidonun 6 aylık depo parenteral formları (Aralıksız en az 4 ay süreyle paliperidonun 1 aylık depo parenteral formunun 100 mg veya 150 mg dozlarda kullanımı veya en az bir kere 3 aylık depo parenteral formunun 350 mg veya 525 mg dozlarda kullanımı sonrası klinik olarak stabil olan hastalarda bu durumun belirtildiği psikiyatri uzman hekiminin bulunduğu 1 yıl süreli sağlık kurulu raporuna dayanılarak yalnızca psikiyatri uzman hekimlerince reçete edilmesi halinde bedeli Kurumca karşılanır. İlacın dozu, ilaç geçişleri, kullanım süreleri ve idame koşulları Sağlık Bakanlığınca onaylı Kısa Ürün Bilgisinde belirtilen pozolojisi doğrultusunda yapılmalıdır. 6 aylık depo parenteral form ile stabil olan hastalarda tedaviye altı aylık depo parenteral formla devam edilir. Bu tedaviye devam edemeyen hastalarda ise gerekçesinin belirtildiği psikiyatri uzman hekiminin bulunduğu 1 yıl süreli sağlık kurulu raporuna dayanılarak bir aylık veya üç aylık depo parenteral formuna yeniden geçilebilir.”
 b) Listenin 45 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
@@ -178,13 +178,13 @@ b) Listenin 45 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
 c) Listeye aşağıdaki madde eklenmiştir.
 “88. Torasemid 200 mg; 10-40 mg dozlarda kullanılmasına rağmen volüm yükünün veya ödemin devam ettiği, eGFR <30 ml/dk ağır böbrek yetersizliği olan hastalarda, bu durumların belirtildiği nefroloji uzman hekimi tarafından düzenlenen 1 yıl süreli uzman hekim raporuna istinaden nefroloji ve iç hastalıkları uzman hekimleri tarafından reçete edilmesi halinde bedeli Kurumca karşılanır.”
 
-MADDE 22- Aynı Tebliğ eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)” nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 22-** Aynı Tebliğ eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)” nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin 27.1 numaralı maddesinde yer alan “reanimasyon” ibaresinden sonra gelmek üzere “, girişimsel radyoloji” ibaresi eklenmiştir.
 b) Listenin 27.4 numaralı maddesinde yer alan “24 saat içinde yüksek riskli perkütan koroner girişim yapılması planlanan akut koroner sendrom hastalarında uygulanacak perkütan girişim sırasında” ibaresi “akut koroner sendrom hastalarında perkütan koroner girişim sırasında,” şeklinde değiştirilmiştir.
 c) Listeye aşağıdaki madde eklenmiştir.
 “89. 18F-Florokolin: Yalnızca hiperparatiroidi hastalarında son 6 ay içerisinde yapılan boyun USG normal ya da şüpheli ve paratiroid sintigrafisi, dual faz (Tc-99m MIBI) negatif olması halinde paratiroid adenomu tespiti ve lokalizasyonu için üçüncü basamak sağlık hizmeti sunucularında nükleer tıp uzman hekimi raporuna istinaden yine bu uzman hekimler tarafından reçete edilmesi halinde bedeli Kurumca karşılanır.”
 
-MADDE 23- Bu Tebliğin;
+**MADDE 23-** Bu Tebliğin;
 a) 1 inci, 13 üncü, 15 inci ve 16 ncı maddeleri yayımı tarihinden 10 iş günü sonra,
 b) 2 ilâ 12 nci maddeleri, 17 nci maddesi ve 19 ilâ 22 nci maddeleri yayımı tarihinden 5 iş günü sonra,
 c) 14 üncü maddesi yayım tarihinden 1 iş günü sonra,

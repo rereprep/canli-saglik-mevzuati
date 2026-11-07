@@ -13,7 +13,7 @@ ocr: true
 duzeltildi: true
 ---
 
-YÖNETMELİK
+**YÖNETMELİK**
 
 Karar Sayısı: 3739
 
@@ -24,8 +24,8 @@ Ekli “Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapı
 Recep Tayyip ERDOĞAN
 CUMHURBAŞKANI
 
-YATAKLI TEDAVİ KURUMLARI İŞLETME YÖNETMELİĞİNDE
-DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**YATAKLI TEDAVİ KURUMLARI İŞLETME YÖNETMELİĞİNDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliğinin 141 inci maddesi yürürlükten kaldırılmıştır.
 

@@ -110,7 +110,7 @@ p) Uluslararası Saglık Tuzugu (UST 2005): Uluslararası trafik ve ticarete ger
 
 ## İKİNCİ BÖLÜM
 
-Erken Uyarı ve Cevap Sistemi,
+**Erken Uyarı ve Cevap Sistemi,**
 
 ### İzleme ve Degerlendirme ve Uyarı Düzeyleri
 
@@ -252,7 +252,7 @@ h) Il düzeyinde veri ve bilgi kaynaklarını belirleyerek olay bazlı sürveyan
 
 1) Günlük değerlendirme toplantıları yapar
 
-i) Il Sağlık Müdürlüğü dışında diğer kurumlarda belirlenen odak kişiler listesini oluşturur, günceller, yılda en az bir kez odak kişilerle yıllık değerlendirme toplantısı yapar.
+i) **Il Sağlık** Müdürlüğü dışında diğer kurumlarda belirlenen odak kişiler listesini oluşturur, günceller, yılda en az bir kez odak kişilerle yıllık değerlendirme toplantısı yapar.
 
 j) Halk sağlığı acillerine yönelik halk eğitimleri ve hizmet içi eğitimleri yürütür.
 

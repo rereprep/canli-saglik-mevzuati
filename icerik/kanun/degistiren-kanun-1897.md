@@ -13,11 +13,11 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No: 1897 Kabul Tarihi: 15/5/1975
+<i>Kanun No: 1897 Kabul Tarihi: 15/5/1975</i>
 
 **MADDE 1 –** 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 1327 sayılı Kanun ve Kanun Hükmünde Kararnamelerle değişik 1, 41, 45, 61, 65, 66, 71, 73, 74, 76, 89, 92, 99, 105, 129, 132, 141, 147, 158, 159, 164, 175, 178, 180, 196, 197, 224, 225, 226, 227, 231, (1327- 74 Ek - 2) maddeler aynen, 4, 28, 33, 36, 43, 59, 68, 77, 83, 86, 87, 93, 146, (1327 - 71 Ek Madde) maddeler aşağıdaki şekilde değiştirilerek kabul edilmiştir.
 
-Kapsam:
+<i>Kapsam:</i>
 
 **Madde 1 –** Bu Kanun, Genel ve Katma Bütçeli Kurumlar, İl Özel İdareleri, Belediyeler, İl Özel İdareleri ve Belediyelerin kurdukları bir­ likler ile bunlara bağlı döner sermayeli kuruluşlarda, kanunlarla kuru­ lan fonlarda, kefalet sandıklarında veya Beden Terbiyesi Bölge Müdür­ lüklerinde çalışan memurlar hakkında uygulanır.
 
@@ -25,31 +25,31 @@ Sözleşmeli ve geçici personel hakkında bu Kanunda belirtilen özel hükümle
 
 Anayasa Mahkemesi üye ve yedek üyeleri ile raportörleri; hâkim­ lik ve savcılık mesleklerinde veya bu mesleklerden sayılan görevlerde bulunanlar, Danıştay ve Sayıştay meslek mensupları ve Sayıştay Savcı ve yardımcıları; üniversitelerin, İktisadî ve Ticarî İlimler akademileri­ nin, Devlet Mühendislik ve Mimarlık Akademilerinin, Devlet Güzel Sa­ natlar Akademilerinin, Türkiye ve Orta - Doğu Âmme İdaresi Enstitü­ sünün öğretim üye ve yardımcıları; Cumhurbaşkanlığı Senfoni Orkest­ rası üyeleri, Genelkurmay Mehteran Bölüğü sanatkârları, Devlet Tiyat­ rosu ile Devlet Opera ve Balesi ve Belediye Opera ve tiyatroları ile şehir ve belediye konşervatuvar ve orkestralarının sanatkâr memurları, uz­ man memurları, uygulatıcı uzman memurları ve stajiyerleri; Spor - Toto Teşkilâtında çalışan personel( subay, astsubay, uzman çavuş ve uzman jandarmalar özel kanunları hükümlerine tabidir.
 
-İstihdam şekilleri:
+<i>İstihdam şekilleri:</i>
 
 **Madde 4 –** Kamu hizmetleri; memurlar, sözleşmeli personel, geçici personel ve işçiler eüyle gördürülür.
 
-A) Memur:
+<i>A) Memur:</i>
 
 Mevcut kuruluş biçimine bakılmaksızın, Devlet ve diğer kamu tüzel kişiliklerince genel idare esaslarına göre yürütülen asli ve sürekli kamu hizmetlerini ifa ile görevlendirilenler, bu Kanunun uygulanma­ sında memur saydır.
 
 Yukarıdaki tanımlananlar dışındaki kurumlarda genel politika tes­ piti, araştırma, planlama, programlama, yönetim ve denetim gibi işlerde görevli ve yetkili olanlar da memur sayılır.
 
-B) Sözleşmeli personel:
+<i>B) Sözleşmeli personel:</i>
 
 Kalkınma planı, yıllık program ve iş programlarında yer alan önemli projelerin hazırlanması, gerçekleştirilmesi, işletilmesi ve işlerliği için şart olan, zarurî ve istisnaî hallere münhasır olmak üzere özel bir meslek bilgisine ve ihtisasına ihtiyaç gösteren geçici işlerde, kurumun teklifi üzerine Devlet Personel Dairesi ve Maliye Bakanlığının görüşleri alınarak Bakanlar Kurulunca geçici olarak sözleşme ile çalıştırılmasına karar verilen ve işçi sayılmayan kamu hizmeti görevlileridir. (36 nci maddenin II - Teknik hizmetler sınıfında belirtilen görevlerde yukarı­ daki fıkra uyarınca çalıştırılanlar için, işin geçici şartı aranmaz. ) Bunlara ödenebilecek ücretlerin üst sınırlan Bakanlar Kurulunca kararlaştınlır.
 
 Ancak, yabancı uyrukluların; tarihî belge ve eski harflerle yazılmış arşiv kayıtlarını değerlendirenlerin mütercimlerin; tercümanların; dava adedinin azlığı nedeni ile kadrolu avukat istihdamının gerekli olmadığı yerlerde avukatların, bu Kanunun 196 nci maddesi uyarınca tespit edi­ len mahrumiyet yerlerinde, kadrolu istihdamın mümkün olamadığı hal­ lerde, Bakanlar Kurulunca tespit edilecek esas ve şartlarla tabip veya uzman tabiplerin; Adü Tıp Müessesesi uzmanlarının; Devlet Konservatuvarları sanatçı öğretim üyelerinin; istanbul Belediyesi Konservatuvarı sanatçılarının; Millî Savunma Bakanlığı ile Jandarma Genel Komutan­ lığı ve dış kuruluşlarda belirti bazı hizmetlerde çalıştırılacak personelin de zorunlu hallerde sözleşme ile istihdamları caizdir.
 
-C) Geçici personel:
+<i>C) Geçici personel:</i>
 
 Bir yıldan az süreü veya mevsimlik hizmet olduğuna Devlet Per­ sonel Dairesinin ve Maüye Bakanlığının görüşlerine dayanılarak Bakan­ lar Kurulunca karar verilen görevlerde ve belirtilen ücret ve adet şuur­ ları içinde sözleşme ile çalıştmlan ve işçi sayılmayan kimselerdir.
 
-D) İşçiler: (A), (B) ve (C) fıkralarında belirtilenler dışında kalan kişilerdir.
+**<i>D) İşçiler:</i>** (A), (B) ve (C) fıkralarında belirtilenler dışında kalan kişilerdir.
 
 Bunlar hakkında bu Kanun hükümleri uygulanmaz.
 
-Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı:
+<i>Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı:</i>
 
 **Madde 28 –** Memurlar Türk Ticaret Kanununa göre (Tacir) veya (Esnaf) sayılmalarım gerektirecek bir faaliyette bulunamaz, ticaret ve sanayi müesseselerinde görev alamaz, ticarî mümessil veya ticari vekil veya kollektif şirketlerde ortak veya komandit şirkette komandite ortak olamazlar. (Görevü oldukları kurumlar m iştiraklerinde kurumlarım temsilen alacakları görevler hariç).
 
@@ -59,7 +59,7 @@ N kurulları üyelikleri görevleri ve özel kanunlarda belirtilen görevler bu 
 
 Eşlerı, reşit olmayan veya mahcur olan çocukları, yasaklanan faa­ liyetlerde bulunan memurlar bu durumu 15 gun içinde bağlı oldukları kuruma bildirmekle yükümlüdürler.
 
-Kadroların tespiti:
+<i>Kadroların tespiti:</i>
 
 **Madde 33 –** Kadrosuz memur çalıştırılamaz.
 
@@ -69,7 +69,7 @@ Genel ve Katma Bütçeli kuruluşlarla bunlara bağlı döner sermayeli kuruluş
 
 Yukarıdaki fıkrada sözü edilen kadroların kaldınlması veya bu kadrolarda yapılacak değişiklikler de aynı usule tabidir.
 
-Tesis edilen sınıflar:
+<i>Tesis edilen sınıflar:</i>
 
 **Madde 36 –** Bu Kanuna tabi kurumlarda çalıştırılan memurların sınıfları aşağıda gösterilmiştir.
 

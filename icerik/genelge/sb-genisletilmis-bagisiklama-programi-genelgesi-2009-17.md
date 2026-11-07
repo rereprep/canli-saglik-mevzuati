@@ -282,19 +282,19 @@ Hep B 1. dozunun ilk 72 saat içinde uygulanması Hepatit B Kontrol Programını
 
 Forn 013 takip eden ayın ilk haftası içinde Sağlık Müdürlugune ulaştırılır. Sağlık Müdürlüğüne gelen formlar kontrolleri yapılarak, en geç ayı 20'sine kadar Temel Sağlık Istatistikleri Modülü (TSIM) programına girilir ve en geç ay sonunda Bakanlıkta olacak şekilde tek bir form halinde Bakanlığa ulaştırılır.
 
-• Form 013B: Özel aşılardan içeriğinde; DaBT-IPA-Hib, KKK, KPA ve Hepatit-B antijenlerini bulunduran aşıların bildirimi için kullanılır. Bu uygulamayı yapan kişi ve
+• **Form 013B:** Özel aşılardan içeriğinde; DaBT-IPA-Hib, KKK, KPA ve Hepatit-B antijenlerini bulunduran aşıların bildirimi için kullanılır. Bu uygulamayı yapan kişi ve
 
 ayrıntılı liste aylık olarak bağlı olduğu Başkanlığı/TSM/Sağlık Müdürlüği yoluyla ilgili Sağlık Ocağı/Aile Hekimine ulaştırılır ve Form 012A/B'ye aktarılır. Ayrıca saha gezilerinde tespit edilen özel aşılar da kayıt altınu alınmalıdır. Ozel aşılar tarihleri belirtilerek kırmızı renkli bir kalemle ilgili formlara kaydedilir. Ay sonunda bu aşılar Sağlık Ocağw/Aile Hekimi tarafindan Form 012A/B'den Form 013B'ye aktarılır. Burada temel amaç: yapılan aşının bildirim sistemine bir kez girilmesini sağlayarak mükerrer bildirimi engellemektir.
 
 Form 013B, takip eden ayın ilk haftası içinde Sağlık Müdürlüğüne gönderilir. Sağlık Mudürlüğüne gelen formlar kontrolleri yapılarak, en geç ayı 20'sine kadar TSIM programına girilir ve en geç ay sonunda Bakanlıkta olacak şekilde tek bir form halinde Bakanlığa ulaştınılı.
 
-• Bölge Dışı Aşı Bildirim Formu: Kişinin bağlı olduğu Sağlık Ocağ/Aile Hekimi dışında başka bir sağlık kurumu tarafindan aşılanması durumunda ilgili Sağlık Ocağına/Aile Hekimine bildirimde kullanılacaktır.
+• **Bölge Dışı Aşı Bildirim** Formu: Kişinin bağlı olduğu Sağlık Ocağ/Aile Hekimi dışında başka bir sağlık kurumu tarafindan aşılanması durumunda ilgili Sağlık Ocağına/Aile Hekimine bildirimde kullanılacaktır.
 
 • Form 004 (Kişisel Sağlık Fişi): Her aşt sansından sonra Form 012A ve B aşı kayıt formlarına kaydedilen aşılar, tarihi gün-ay-yıl olarak belirtilecek şekilde bu forma aktarılır.
 
 • Form 005 (Gebe- Lohusa Izleme Fişi): Gebelere yapılan ve Form 012B'ye kaydedilen Td aşılan, tarihi gün-ay-yıl olarak belirtilecek şekilde Form 005°c de kaydedilmelidir.
 
-• 15-49 Yay Kadın Izlem Fişi: 15-49 yaş kadınlara ve gebelere yapılan ve Form 012B ye kaydedilen Td aşıları, tarihi gün-ay-yıl olarak belirtilecek şekilde bu forma da kaydedilmelidir.
+• **15-49 Yay Kadın Izlem Fişi:** 15-49 yaş kadınlara ve gebelere yapılan ve Form 012B ye kaydedilen Td aşıları, tarihi gün-ay-yıl olarak belirtilecek şekilde bu forma da kaydedilmelidir.
 
 • Form 006 (Bebek ve Çocuk İzleme Fişi): Her aşi scansindan sonra For DIZA ya kaydedilen aşılar, tarıhi gün-ay-yıl olarak belırtilecck şekilde bu forma aktorlır.
 
@@ -322,7 +322,7 @@ kaydedilir ve yapılan aşılar gün-ay-yıl şeklinde tarihi belirtilerek aşı
 
 • Aykık GBP Sürveyans Formu: Bu formun temel amacı GBP kapsamındaki hastahklarla ilgili aşılanma durumu verilerini ayrıntılı olarak toplamak ve sahadaki așı otkinliğini izlemektir. Bu nedenle vakaların aşılanma durumları iyi araştırılmalı ve bilinmiyor sütununda vaka kalmamasına özen gösterilmelidir. Ay sonunda Form 016'ya (Bildirimi Zorunlu Hastalıklar Tespit Fişi) göre tespit edilen GBP kapsamındaki hastalıklar (tüberküloz hariç) bu forma aktarılır ve aym ilk haftası içinde Sağlık Müdürluğüne gönderilir. Gelen formlar Sağlık Müdürlüğünde toplanarak tek bir form haline getirilir ve takip eden ayın en geç 20'sine kadar TSIM programına girilir ve ay sonuna kadar Sağlık Bakanlığına ulaştınıhr. Bu formda yer alan GBP hastalıklanna ait sayılar ile Form 017 erdeki sayılar aym olmalıdır.
 
-• Ayı İzlem Çizelgeleri: Her Sağlık Ocağıda/TSM'de, bölgesindeki aşılama hızlarını izlemek için, her bir antijene özel çizelgeler hazırlanmalı, aylık olarak işlenmeli ve aşılama hızlarımın yıl içindeki seyri ve hedefe ulaşma düzeyi bu çizelgeler ile izlenmelidir.
+• **Ayı İzlem Çizelgeleri:** Her Sağlık Ocağıda/TSM'de, bölgesindeki aşılama hızlarını izlemek için, her bir antijene özel çizelgeler hazırlanmalı, aylık olarak işlenmeli ve aşılama hızlarımın yıl içindeki seyri ve hedefe ulaşma düzeyi bu çizelgeler ile izlenmelidir.
 
 ### D-) AŞI KONTRENDIKASYONLARI:
 
@@ -452,7 +452,7 @@ Aşı öncesi genel durumu iyi, sağlıklı çocukların ateşinin ölçülmesin
 
 Aşı üretim teknolojisinde gelişmeler ve üretilen aşıların dayanıklılıklarının arttırılması dolayısıyla aşı şişesi kullanım sürelerinde degişiklikler olmaktadır. Kural olarak çok dozlu ambalajlarda açılan her aşı şişesinin üzerine açılış tarihi ve saati mutlaka yazılmalıdır. GBP' de yer alan aşıların kullanım süreleri şöyledir:
 
-• Çok Dozlu Liyofilize Olmayan Aşılar: OPA, DT, Td ve Hep B aşıları aşağıdaki şartlara da uymak kaydı ile toplam süre 4 haftayı geçmemek üzere açıldıktan sonra birbirini izleyen 3 aşı seansında kullanılabilir.
+• **Çok Dozlu Liyofilize Olmayan Aşılar:** OPA, DT, Td ve Hep B aşıları aşağıdaki şartlara da uymak kaydı ile toplam süre 4 haftayı geçmemek üzere açıldıktan sonra birbirini izleyen 3 aşı seansında kullanılabilir.
 
 1. Son kullanma tarihi geçmemiş olmalı,
 
@@ -472,7 +472,7 @@ saat içinde, o Çok dozlu Kızamık ve Kızamıkçık aşısı sulandınidıkta
 
 karanlıkta korunmak şartıyla 4 saat içinde kullanılmalıdır.
 
-• Tek Dozlu Liyofilize Aşılar: o Tek dozlu Hib ve KKK aşısı sulandırıldıktan sonra hemen kullamılmalıdır.
+• **Tek Dozlu** Liyofilize Aşılar: o Tek dozlu Hib ve KKK aşısı sulandırıldıktan sonra hemen kullamılmalıdır.
 
 • Tek Dozlu Kombine Aşılar: o Difteri, aselüler Boğmaca, Tetanoz, Inaktif Polio, Hemofilus influenza tip b içeren
 
@@ -534,7 +534,7 @@ bekletilmeden uygulanmalıdır. o Aşılama işlemi sonrası enjektör ve iğnes
 
 Aşı uygulama teknikleri şeması Ek-Z'de verilmiştir.
 
-a) BCG aşısı uygulaması:
+a) **BCG aşısı uygulaması:**
 
 1. Sol kol açık ve düz tutulur.
 
@@ -546,7 +546,7 @@ a) BCG aşısı uygulaması:
 
 5. BCG aşısı 0 yașta 0,05 ml, 1 yaş üzerinde 0,1 ml uygulanır.
 
-b) PPD ile Tüberkülin Cilt Testi (TCT) uygulaması:
+b) **PPD ile Tüberkülin Cilt Testi (TCT) uygulaması:**
 
 1. Sol ön kolun 2/3 üst kısmında iç veya dış yuzune, cilt içine yapılır.
 
@@ -582,7 +582,7 @@ c) DaBT-IPA-Hib/DT/Td/Hep B/Hib/ KPA ays uygulaması:
 
 4. Hep B aşısı 10 yaşa kadar 0,5 ml. 10 yaş ve üzerinde 1 ml uygulamır.
 
-d) KKK/Kızamık/Kızamıkçık ayısı uygulaması:
+d) **KKK/Kızamık/Kızamıkçık ayısı uygulaması:**
 
 1. Kolun üst kısmına, deltoid kasa uyan bölgeye yapılır.
 
@@ -602,7 +602,7 @@ e) OPA :
 
 ### H-) AȘI LOJİSTIĞİ
 
-1) Aşıların Sevkiyatı
+1) **Aşıların Sevkiyatı**
 
 GBP için gerekli aşı ve malzemeler sevk dönemlerinde ve düzenli aralıklarla dağıtılırlar. Aşağıda yer alan tabloda aşı depolaması yapılan ve kullanılan merkezlere ne kadar süre için aşı sevkiyatı yapılması gerektiği belirtilmektedir.
 
@@ -692,7 +692,7 @@ Açılan flakon doz sayIsı Açılmamış Flakonda Zayi Nedenleri Açılmış Fl
 
 Soğuk zincirde kırılma vs.
 
-Maksimum Stok:
+**Maksimum Stok:**
 
 Maksimum stok, yeni bir sevkiyat devresinin başında depoda bulunması gereken miktardaki ași ve malzemeleri ifade eder.
 
@@ -830,7 +830,7 @@ Ap Uygulanacak Yerin Özelikleri:
 
 Aşılama çalışmaları için bir oda "aşı odası" olarak belirlenir. Aşı odasında el yıkama ünitesi olmalıdır. Sağlık çalışanı aşılama işlemi öncesinde ve kirli malzeme ya da kanla temas durumunda ellerini yıkamalıdır. Odada kullanılmış iğneleri elinden bırakmadan ve etrafta dolaşmadan güvenli atık kutusuna atabileceği şekilde planlama yapılmalıdır. Çalışma ortamına her seferinde bir çocuk ve bir ebeveyn alınmalı, oda yeterince sessiz olmalıdır. Sağlık çalışanı çocuk ile iğneler ve diğer keskin malzeme arasında durmalıdı. Aşıyı uyguladıktan sonra aşılama ile ilgili olarak gerekli kayıtları tutmalıdır. Sahada aşı uygulaması yapılırken aşı kabı ve aşılar doğrudan güneş ışığına, yağmur ya da toza maruz kalmamalıdır. Aşılama istasyonu olarak kadın ve çocuklara kolay ulaşılan bir ortam belirlenmelidir.
 
-Enjektör Güvenli Atık Kutusu Kullanılmasında Dikkat Edilecek Hususlar:
+**Enjektör Güvenli Atık** Kutusu Kullanılmasında Dikkat Edilecek Hususlar:
 
 o Aşı uygulanan her yerde Enjektör Güvenli Atık Kutusu bulundurulmalıdır.
 
@@ -1050,7 +1050,7 @@ ASI'lerin saptanması ve bildirimi sağlık personeli, aileler ve toplumun diğe
 
 Aşı yapan personel, aileler ve toplumun diğer üyelerini aşılama sonrası ne tür reaksıyonlar görülebileceği ve hangi durumlarda bebek/çocuklarını bir sağlık kuruluşuna getirmeleri gerektiği konularında bilgilendirmelidir.
 
-ASIE Izleme Sistemi kapsamında bildirilmesi gereken istenmeyen etkiler
+**ASIE Izleme Sistemi kapsamında bildirilmesi gereken istenmeyen etkiler**
 
 ASIE Izleme Sistemine dahil olan ve Aşi Sonrası Istenmeyen Etki Bildirim ve Inceleme Formu (Ek-4) doldurularak bildirimi yapılacak olan ASIE ler Ek-5'de gösterilmiştir.
 
@@ -1170,9 +1170,9 @@ lesspit ediliyor mu?
 
 ### Hayır
 
-Evet
+**Evet**
 
-Yüksek Riskil Cenk doğum sayis
+**Yüksek Riskil** Cenk doğum sayis
 
 tadar gebe faepi: Hay w Sag ik personel
 
@@ -1186,11 +1186,11 @@ var ma? * yerdıraryla yacılen
 
 DüŞük Riskli Düsük Riskli Yüksok Riskli
 
-2. Temiz Doğum
+2. **Temiz Doğum**
 
 Temiz doğum aktivitelerini yaygınlaştırmak.
 
-3. Izlem
+3. **Izlem**
 
 Gebe izlemleri ile gebe tespit hızımın %80°e ve gebe başina izlem sayısının 4'e ulaşmasını saglamak.
 

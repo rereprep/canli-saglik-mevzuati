@@ -33,7 +33,7 @@ Bu maddenin yürürlüğe girdiği tarihten önce sağlık sebebiyle haklarında
 Bu madde hükümlerinden yararlananlar temel askerlik eğitimi süresince çalıştıkları iş yeri, kurum ve kuruluşlar tarafından aylıksız veya ücretsiz izinli sayılırlar.
 Bu uygulama kapsamında tahsil edilen tutarlar genel bütçeye gelir kaydedilmek üzere Hazine ve Maliye Bakanlığı merkez muhasebe birimi hesabına yatırılır. Yatırılan bu tutarlar karşılığı Savunma Sanayii Destekleme Fonuna aktarılmak üzere Hazine ve Maliye Bakanlığı bütçesine ödenek eklemeye Cumhurbaşkanı yetkilidir.
 Bu madde hükümlerinden yararlanan yükümlüler hakkında saklı, yoklama kaçağı ve bakayadan dolayı idari ve adli soruşturma ve kovuşturma yapılmaz, başlatılmış olanlar sona erdirilir ve bu suçlara ilişkin kesinleşmiş idari para cezaları tahsil edilmez.
-Bedelin ödenmesi ve uygulamaya ilişkin usul ve esaslar Milli Savunma Bakanlığınca belirlenir.” hükmü eklenmiştir.
+<i>Bedelin</i> ödenmesi ve uygulamaya ilişkin usul ve esaslar Milli Savunma Bakanlığınca belirlenir.” hükmü eklenmiştir.
 
 Bu kanunla getirilen düzenlemeden kimlerin ve hangi şartlar ile yararlanacağı, yararlanan kişilerden hâlihazırda herhangi bir Kanuna tabi olarak çalışanların, tabi oldukları kanun ayırımı yapılmaksızın temel askerlik eğitimi süresince çalıştıkları iş yeri, kurum ve kuruluşlar tarafından aylıksız veya ücretsiz izinli sayılacağı hüküm altına alınmıştır.
 5258 sayılı Aile Hekimliği Kanununa göre sözleşmeli aile hekimi ve aile sağlığı elemanı olarak görev yapmaktayken mezkur kanun kapsamında askerlik hizmetini yerine getirmek isteyenler ile ilgili olarak aşağıdaki usul ve esaslar uygulanacaktır;

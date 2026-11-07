@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No. 2236 Kabul Tarihi: 22/5/1979
+**Kanun No.** 2236 Kabul Tarihi: 22/5/1979
 
 **MADDE 1 –** 2313 sayılı Uyuşturucu Maddelerin Murakabesi hakkındaki Ka­ nunun 3, 23 ve 28 inci maddeleri aşağıdaki şekilde değiştirilmiştir.
 

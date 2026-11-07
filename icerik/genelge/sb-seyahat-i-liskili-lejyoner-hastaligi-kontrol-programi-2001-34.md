@@ -67,7 +67,7 @@ Lejyoner hastalığındaki belirgin klinik özellik pnömonidir. Etkene maruz ka
 1. *Legionella* cinsi bakterilerin doğal ortamı (nehirler, göller, termal sular, çamurlar ve kaynak suları).
 2. Bakterilerin üreyerek yüksek konsantrasyonlara çıkmasını sağlayacak genişletme faktörlerinin bulunması. Doğal ortamda az sayıda bulunan bu bakteriler, binaların su sistemlerinde uygun alan ve faktörleri bulduğunda hızla çoğalırlar. Bu faktörler ve alanlar:
    - air-condition sistemi soğutma kuleleri,
-   - ısıları yaklaşık 45°C olan sıcak su tankları,
+   - <i>ısıları</i> yaklaşık 45°C olan sıcak su tankları,
    - su yumuşatma tankları,
    - duş başlıkları ve sıcak su muslukları,
    - su tesisatında yaygın şekilde bulunabilen biyofilm katmanları,
@@ -172,7 +172,7 @@ Seyahat İlişkili Lejyoner Hastalığı kapsamında, yapılacak olan laboratuva
 
 **Vaka Sürveyansında Laboratuvar Hizmetleri:** Vakaların genellikle hastanelerde tespiti mümkün olacağından, her il Devlet Hastanesi ve Araştırma Hastaneleri teşhiste gerekli olan laboratuvar kitlerini kendi döner sermayeleri kapsamında temin edeceklerdir. Ayrıca bunun temin edilememesi durumunda vaka teşhisi için Bölge Hıfzıssıhha Enstitüleri kullanılacaktır. Bölge Hıfzıssıhha Enstitüleri de laboratuvar kitlerini kendi döner sermayeleri kapsamında temin edeceklerdir. Vakaların teşhisi ve tedavileri de sahip oldukları sosyal güvenlik sistemi kapsamında karşılanacaktır.
 
-Vakaların teşhisi için hastanelerde bulundurulması gereken test LEGIONELLA ANTİJEN KART TEST OLARAK IMMUNOCHROMATOGRAPHIC TEST'tir. Bu test yaklaşık 15 dakika içinde sonuç vermektedir.
+**Vakaların teşhisi için hastanelerde bulundurulması gereken test LEGIONELLA** ANTİJEN KART TEST OLARAK IMMUNOCHROMATOGRAPHIC TEST'tir. Bu test yaklaşık 15 dakika içinde sonuç vermektedir.
 
 Vaka sürveyansında doğrulayıcı analizler için referans merkezi, Ankara Refik Saydam Hıfzıssıhha Merkezi Başkanlığı Ulusal Legionella Referans Laboratuvarıdır. Bu laboratuvara gönderilecek numuneler İl Sağlık Müdürlüğü kanalı ile gönderilecek ve ücret ödenmeyecektir.
 

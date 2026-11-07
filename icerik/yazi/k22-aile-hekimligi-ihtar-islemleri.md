@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 T.C.
 SAĞLIK BAKANLIĞI
-Halk Sağlığı Genel Müdürlüğü
+<i>Halk</i> Sağlığı Genel Müdürlüğü
 
 Sayı : 43252159
 Konu: Aile Hekimliği İhtar İşlemleri

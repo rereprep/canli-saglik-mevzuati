@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-3.2.4. İl Ambulans Servisi Çalışma Yönergesi
+**3.2.4. İl Ambulans Servisi Çalışma Yönergesi**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -35,9 +35,9 @@ Bu doğrultuda İl ambulans servisi başhekimliği, komuta kontrol merkezi ve ac
 
 Bilgilerinizi ve bundan sonra ilgili tüm kurum ve kuruluşlarla yürütülecek hizmetlerin bu Yönerge hükümleri doğrultusunda yerine getirilmesi hususunda gereğini rica ederim.
 
-EKLER: Yönerge (25 Sayfa)
+**EKLER:** Yönerge (25 Sayfa)
 
-DAĞITIM: 81 il Valiliğine
+**DAĞITIM:** 81 il Valiliğine
 
 ### İL AMBULANS SERVİSİ ÇALIŞMA YÖNERGESİ
 
@@ -149,7 +149,7 @@ Mesai saatleri dışında, komuta kontrol merkezi danışman hekimlerinin, çağ
 
 b) Başhekim ve ilgili Başhekim Yardımcısının olmadığı durumlarda nöbeti stresince komuta kontrol merkezi ve istasyonlardaki işleyişin kurallara uygun ve aksatılmadan yürütülmesınden sorumludur. Başhekun ve ilgıli başhekı yardımcısınun yetkılerine saluptu.
 
-Komuta Kontrol Merkez ve ıstasyonlarda görev yapan nöbetçı personelın karşılaştıklanı idari, teknik ve adli sorunlarına çözüm bulur, gerektiğinde üst amirlerini sırasıyla bilgilendirir.
+**Komuta Kontrol** Merkez ve ıstasyonlarda görev yapan nöbetçı personelın karşılaştıklanı idari, teknik ve adli sorunlarına çözüm bulur, gerektiğinde üst amirlerini sırasıyla bilgilendirir.
 
 Hastaneler arası koordınasyon ve acil hasta sevk sistemıni denetler, gerektığınde müdahale eder. Acil Sağlık Hizmetleri Koordinasyon Komisyonu (ASKOM) da alınan kararları uygulanmasını sağlar.
 
@@ -159,7 +159,7 @@ Başhekim ve ilgili başhekim yardımcısı tarafindan görevlendirildiğinde di
 
 Acıl sağlık hızmetlerinın gelıştırilmesı ıçin Başhekımce verilen dığer görevlerı yapar.
 
-Komuta Kontrol Merkezi Hekimi Madde 8. Komuta Kontrol Merkezinde işleyişin 24 saat kesintisiz sürdürülmesi için nöbet sistemi ile çalışırlar.
+**Komuta Kontrol** Merkezi Hekimi Madde 8. Komuta Kontrol Merkezinde işleyişin 24 saat kesintisiz sürdürülmesi için nöbet sistemi ile çalışırlar.
 
 a) Komuta Kontrol Merkezine gelen ve çağnı karşılayıcı personelce kendisine yönlendirilen acil çağrıları Acil Sağlık Hizmetleri Yönetmeliği'nin 19. maddesine göre degerlendirir Olayim tipi se oluş sekti hakında bilei alr. Bu bilgilerin kayır atrena alınmamı sağlar. Hasta ve olay ile ilgili adres, telefon, kimlik bilgisi ve gerekirse hasta ve yaralı sayısı,
 
@@ -217,7 +217,7 @@ o) (B) tipi istasyonlarda istasyon sorumlu hekimi, aym zamanda entegre sağlık 
 
 a) Istasyon Sağlık Personelinin nöbet listelerini ve yıllık izinlerini düzenler ve İstasyon Sorumlu Hekimine onaya sunar.
 
-b) Istasyon Sorumlu Sağlık Personeli, istasyon sağlık personelleri arasında iletişimi dizenler.
+b) **Istasyon Sorumlu** Sağlık Personeli, istasyon sağlık personelleri arasında iletişimi dizenler.
 
 c) Istasyon sağlık personelinin yıllık izinlerini, Acil Sağlık Hizmetleri Şubesi ve Il Ambulans Servisi Başhekimliği tarafından yapılan görevlendirmeleri düzenleyip İstasyon Sorumlu Hekim'inin onayına sunar.
 

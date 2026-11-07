@@ -33,7 +33,7 @@ Veteriner hekim odaları tüzelkişiliğe sahip kamu kurumu niteliğinde meslek 
 
 Kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde asli ve sürekli görevlerde çalışanlar ve herhangi bir sebeple meslek ve sanatı ile uğraşmayanlardan isteyenler veteriner hekim odalarına üye kayıt olabilirler. özel kanunlarında meslek kuruluşlarına üye olamayacaklarına dair hüküm bulunanlar, mesleki hak, yetki, sorumluluk ve disiplin bakımından bu Kanun hükümlerine tabidirler.
 
-Yaşama Bölümü Sayfa : 12
+**Yaşama Bölümü Sayfa : 12**
 
 **MADDE 4 –** 9.3.1954 tarih ve 6343 sayılı Kanunun 19 uncu maddesinin son bendi aşağıdaki şekilde değiştirilmiştir.
 
@@ -69,7 +69,7 @@ Oda umumi, heyetinin seçimle ilgili toplantısına oda üyelerinin katılmalar�
 
 Oda idare heyeti; odanın iki yıllık faaliyetlerine ait rapor ile bilançosunu ve yeni döneme ait bütçe taslağım hazırlayıp murakıp raporları ile birlikte umumi heyete sunar ve bu evrakın birer örneğini de 1 ay içinde merkez konseyine gönderir.
 
-YAŞAÖA BÖlümü Sayfa : 13
+**YAŞAÖA BÖlümü Sayfa : 13**
 
 **MADDE 11 –** 9.3.1954 tarih ve 6343 sayılı Kanunun 35 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 
@@ -105,7 +105,7 @@ Bu bildirimle birlikte Merkez Konseyi, kararı münasip yollarla ilan eder ve ta
 
 Merkez Konseyi asli ve yedek üyeleri, Büyük Kongrece seçilmiş Yüksek Haysiyet Divanı ve Murakabe Heyeti asli ve yedek üyeleri ile veteriner hekim odaları başkanlarından oluşur.
 
-Yaşama Bölümü Sayfa: 14 I. •!• • „ ' I , , i . ,, • 1 .. I aBBgBBBİ
+**Yaşama Bölümü Sayfa: 14** I. •!• • „ ' I , , i . ,, • 1 .. I aBBgBBBİ
 
 **MADDE 18 –** 9.3.1954 tarih ve 6343 sayılı Kanunun 60 ıncı maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiş ve maddeye bir fıkra eklenmiştir.
 
@@ -129,7 +129,7 @@ Görevlerine son verilen organ üyelerinin Kanunda yazılı ceza sorumlulukları
 
 Türk Devletinin varlık ve bağımsızlığının, ülkenin ve milletin bölünmez bütünlüğünün, toplumun huzurunun korunması ve Devletin Anayasada belirtilen temel niteliklerini tehdit edici faaliyetlerin önlenmesi bakımından gecikmesinde sakınca bulunan hallerde valiler, seçilmiş birlik organlarını geçici olarak görevden uzaklaştırabilirler.
 
-Yaşama Bölümü Sayfa : 15 Görevden uzaklaştırma kararı, dayanakları ile birlikte üç gün İçinde birinci fıkrada sözü edilen mahkemeye bildirilir. Mahkeme, görevden uzaklaştırma kararının yerinde olup olmadığını dosya üzerinde inceleyerek bu konudaki kesin kararım en geç on gün içinde verir. Görevden uzaklaştırmanın yerinde olduğuna mahkemece karar verilmesi halinde üçüncü fıkra hükümleri uygulanır.
+**Yaşama Bölümü Sayfa : 15** Görevden uzaklaştırma kararı, dayanakları ile birlikte üç gün İçinde birinci fıkrada sözü edilen mahkemeye bildirilir. Mahkeme, görevden uzaklaştırma kararının yerinde olup olmadığını dosya üzerinde inceleyerek bu konudaki kesin kararım en geç on gün içinde verir. Görevden uzaklaştırmanın yerinde olduğuna mahkemece karar verilmesi halinde üçüncü fıkra hükümleri uygulanır.
 
 Göreve son verme ve görevden uzaklaştırma hükümleri oda umumi heyeti ve Büyük Kongre hakkında uygulanmaz.
 
@@ -151,7 +151,7 @@ Dörtyüz kişiden fazla üyesi bulunan odalarda ve birlik seçimlerinde her dö
 
 Seçim süresinin sonunda seçim sonuçlan tutanakla tespit edilip, seçim sandık kurulu başkan ve üyeleri tarafından imzalanır. Tutanakların bir örneği seçim yerinde asılmak suretiyle geçici sonuçlan ilan edilir. Kullanılan oylar ve diğer belgeler tutanağın bir örneği ile birlikte üç ay süre ile saklanmak üzere ilçe seçim kurulu başkanlığına tevdi edilir.
 
-Yaşama Bölümü Sayfa : 16 Seçimin devamı sırasında yapılan işlemler ile tutanakların düzenlenmesinden itibaren iki gün İçinde seçim sonuçlarına yapılacak itirazlar, hakim tarafından aynı gün incelenir ve kesin olarak karara bağlanır. İtiraz süresinin geçmesi ve itirazların karara bağlanmasından hemen sonra hakim, yukarıdaki hükümlere göre kesin sonuçlan ilan eder ve ilgili veteriner hekim odasına ve Türk Veteriner Hekimleri Birliğine bildirir.
+**Yaşama Bölümü Sayfa : 16** Seçimin devamı sırasında yapılan işlemler ile tutanakların düzenlenmesinden itibaren iki gün İçinde seçim sonuçlarına yapılacak itirazlar, hakim tarafından aynı gün incelenir ve kesin olarak karara bağlanır. İtiraz süresinin geçmesi ve itirazların karara bağlanmasından hemen sonra hakim, yukarıdaki hükümlere göre kesin sonuçlan ilan eder ve ilgili veteriner hekim odasına ve Türk Veteriner Hekimleri Birliğine bildirir.
 
 Oy verme işlemi, gizli oy açık tasnif esaslarına göre yapılır. Listede adı yazılı bulunmayan veteriner hekim oy kullanamaz. Oylar, oy verenin kimliğinin Veteriner Hekim Odaları, Türk Veteriner Hekimleri Birliği veya resmi kuruluşça verilen belge ile ispat edilmesinden ve listedeki isminin karşısındaki yerin imzalanmasından sonra kullanılır. Oylar, üzerinde ilçe seçim kurulu mühürü bulunan ve oy verme sırasında sandık kurulu başkanı tarafından her seçim için ayrı ayrı verilecek kâğıtlara yazılmak ve mühürlü zarflara konulmak suretiyle kullanılır. Bunların dışındaki kâğıtlara yazılan veya mühürsüz zarflara konulan oylar geçersiz sayılır.
 

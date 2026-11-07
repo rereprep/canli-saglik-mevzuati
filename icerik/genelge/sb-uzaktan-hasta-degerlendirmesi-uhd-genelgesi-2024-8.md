@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.1 Uzaktan Hasta Değerlendirmesi (UHD) Genelgesi (2024/8)
+**7.3.1 Uzaktan Hasta Değerlendirmesi (UHD) Genelgesi (2024/8)**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -23,8 +23,8 @@ Kamu Hastaneleri Genel Müdürlüğü
 Sayı : 243806303
 Konu : Uzaktan Hasta Değerlendirmesi (UHD)
 
-GENELGE
-2024/8
+**GENELGE**
+**2024/**8
 
 Ülkemizde uzaktan sağlık hizmetinin geliştirilmesine ilişkin usul ve esasları düzenlemek üzere Sağlık Bakanlığı tarafından 10 Şubat 2022 tarih ve 31746 sayılı "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik" yayımlanmıştır. Bu Yönetmelik, uzaktan hasta değerlendirmesi yapan tüm sağlık tesislerini ve bu hizmeti ifa eden tüm sağlık meslek mensuplarını, uzaktan sağlık bilgi sistemi geliştiricilerini ve uzaktan sağlık hizmeti almak isteyen gerçek kişileri kapsar. Uzaktan sağlık hizmeti; Yönetmelik hükümlerine göre, faaliyet izni almış olan sağlık tesislerinde, sağlık meslek mensubunun, sağlık hizmeti talep eden kişiye uzaktan sağlık bilgi sistemi üzerinden sunduğu sağlık hizmetini ifade eder. Bu kapsamda Bakanlık tarafından geliştirilen veya Bakanlık tarafından tescil edilmek suretiyle uzaktan sağlık hizmeti sunumunda kullanılması onaylanan yazılı, sesli veya görüntülü iletişime imkân sağlayan güvenli yazılım sistemi olan uzaktan sağlık bilgi sistemi kullanılır.
 
@@ -32,7 +32,7 @@ Bakanlığımız hasta merkezli ve bütüncül bakış anlayışıyla hem bireyi
 
 Hem Anayasa hem de 3359 sayılı Sağlık Hizmetleri Temel Kanunu ve diğer kanunlar ile Bakanlığımıza verilen görevler kapsamında, talebi olan bireylerin ihtiyacı olan koruyucu sağlık hizmetleri dâhil olmak üzere tıbbi bakım hizmetlerinin takip ve koordinasyonunu sağlamak amacıyla aşağıda belirtilen usul ve esaslar dâhilinde "Uzaktan Hasta Değerlendirme Sisteminin" Bakanlığımıza bağlı sağlık tesislerinde kullanımının sağlanması ile uzaktan hasta değerlendirmesinin yapılması uygun görülmüştür.
 
-A) GENEL ESASLAR
+A) **GENEL ESASLAR**
 
 1. Uzaktan Hasta Değerlendirmesi (UHD) ile her yaş grubundan hastaya sağlık hizmeti sunulması amaçlanır.
 

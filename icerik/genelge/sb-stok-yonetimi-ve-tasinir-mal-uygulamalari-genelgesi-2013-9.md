@@ -14,11 +14,11 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.12. Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9)
+**7.3.12. Stok Yönetimi ve Taşınır Mal Uygulamaları Genelgesi (2013/9)**
 
 T.C.
-SAĞLIK BAKANLIĞI
-TÜRKİYE KAMU HASTANELERİ KURUMU
+**SAĞLIK BAKANLIĞI**
+**TÜRKİYE KAMU HASTANELERİ KURUMU**
 
 Sayı : 80981279-010.06 / 015519
 Konu : Stok Yönetimi ve Taşınır Mal Uygulamaları
@@ -28,7 +28,7 @@ Konu : Stok Yönetimi ve Taşınır Mal Uygulamaları
 ....... VALİLİĞİNE (İl Sağlık Müdürlüğü)
 ....... KAMU HASTANELERİ BİRLİĞİNE (Genel Sekreterlik)
 
-GENELGE
+**GENELGE**
 2013/9
 
 Bakanlığımızın yürütmekte olduğu Sağlıkta Dönüşüm Programı ile halkımıza daha iyi bir sağlık hizmeti sunumu amaçlanmış olup bu amaca yönelik çalışmalar kesintisiz olarak devam etmektedir. Sağlık hizmeti sunumunun sağlanmasında ihtiyaç duyulan kaynakların yeterince ve zamanında karşılanması, yüksek maliyetli sağlık hizmeti girdilerine karşılık, kıt kaynakların ekonomik, etkin ve verimli kullanılması hayati önemi haizdir. Bu doğrultuda Bakanlığımızca 2009 yılından bu yana yayımlanan genelgeler ile stok yönetimi ve taşınır mal uygulamalarına yönelik birtakım düzenlemeler yapılarak, Bakanlığımıza bağlı kurum ve kuruluşlarda "Azami Stok Miktarı Uygulaması" başlatılmış ve stok fazlası ve ihtiyaç fazlası ürünlerin ihtiyacı olan kurumlara devredilmesi zorunlu hale getirilmişti. Diğer taraftan 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname doğrultusunda devam eden süreçte Kamu Hastaneleri Birlikleri (bundan sonra Birlik olarak ifade edilecektir) kurularak faaliyetlerine başlamışlardır. Bu doğrultuda daha önce yayımlanan Genelgeler ile başlatılan uygulamaların Bakanlık Teşkilatının yeni yetki ve görev dağılımları ve yürürlüğe konulan yeni mevzuat çerçevesinde Birlik ölçeğinde yorumlanması ve işbu genelge ile yeniden düzenlenmesi ihtiyacı doğmuştur.
@@ -39,15 +39,15 @@ Bakanlığımızın yürütmekte olduğu Sağlıkta Dönüşüm Programı ile ha
 
 Kamu Hastaneleri Birliklerinde, stok yönetiminin bir bileşeni olan stok kontrol süreci çerçevesinde uygulama birliğini sağlamak ve terim karmaşasını engellemek adına bazı kavramlara aşağıda yer verilmiştir:
 
-a) Birlik Stok Havuzu: Birliğe bağlı sağlık tesislerinin ambarlarında bulunan ve gerekli hallerde ortak kullanıma sunulan İlaç, Tıbbi Sarf, Kırtasiye, Tıbbi Cihaz, Demirbaş vb. mal ve malzemeler birlik stok havuzu olarak değerlendirilecektir. Birliğe bağlı sağlık tesisleri arasında ayrım olmaksızın bu mal ve malzemeler (öncelikle acil ihtiyaç ve kapasite fazlası durumlarında olmak üzere) ortak kullanılacaktır. Birlik Stok Havuzunun yönetimi, dağılımı ve kullanımı, ilgili mevzuat ve bu genelge hükümlerine aykırı olmamak üzere, kaynak israfına yol açmadan Genel Sekreterlikçe belirlenecektir.
+a) **Birlik Stok Havuzu:** Birliğe bağlı sağlık tesislerinin ambarlarında bulunan ve gerekli hallerde ortak kullanıma sunulan İlaç, Tıbbi Sarf, Kırtasiye, Tıbbi Cihaz, Demirbaş vb. mal ve malzemeler birlik stok havuzu olarak değerlendirilecektir. Birliğe bağlı sağlık tesisleri arasında ayrım olmaksızın bu mal ve malzemeler (öncelikle acil ihtiyaç ve kapasite fazlası durumlarında olmak üzere) ortak kullanılacaktır. Birlik Stok Havuzunun yönetimi, dağılımı ve kullanımı, ilgili mevzuat ve bu genelge hükümlerine aykırı olmamak üzere, kaynak israfına yol açmadan Genel Sekreterlikçe belirlenecektir.
 
 b) Fiili Stok Düzeyi: Stok yönetim performansı değerlendirilmek istenen Birlik, birliğe bağlı herhangi bir sağlık tesisi veya sağlık tesisinin herhangi bir ambarında (Ör: A Sağlık Tesisi İlaç Ambarı gibi) bulunan fiili stok miktarını gün cinsinden gösteren değerdir. İncelemenin yapıldığı andaki fiili stok tutarının, günlük ortalama tüketim tutarına bölümü ile hesaplanır.
 
-c) Günlük Ortalama Talep Hızı: İlgili ambardan belirli bir sürede tüketime verilen toplam birim miktarın günlük ortalamasıdır. Örneğin A ilacı için 12 adet/gün'dür.
+c) **Günlük Ortalama Talep Hızı:** İlgili ambardan belirli bir sürede tüketime verilen toplam birim miktarın günlük ortalamasıdır. Örneğin A ilacı için 12 adet/gün'dür.
 
 d) Azami Stok Miktarı: Tüketime dönük mal ve malzemeler için Kurumumuzca belirlenerek sağlık tesislerimizde bulundurulmasına izin verilen üst sınır stok miktarıdır.
 
-e) Stok Fazlası Miktar: İlgili malzeme için Azami Stok Miktarını aşan stok miktardır. Stok Fazlası Miktar = Fiili Stok Miktarı - Azami Stok Miktarı formülü ile hesaplanarak bulunur. Stok fazlası malzemeler öncelikle Birliğe bağlı diğer sağlık tesislerine devredilerek tüketilmelidir.
+e) **Stok Fazlası Miktar:** İlgili malzeme için Azami Stok Miktarını aşan stok miktardır. Stok Fazlası Miktar = Fiili Stok Miktarı - Azami Stok Miktarı formülü ile hesaplanarak bulunur. Stok fazlası malzemeler öncelikle Birliğe bağlı diğer sağlık tesislerine devredilerek tüketilmelidir.
 
 f) İhtiyaç Fazlası Miktar: İhtiyaca dönük olarak temin edildiği halde, çeşitli nedenlerle sağlık tesisinde ihtiyaç duyulmayan veya ihtiyacı aşan miktarda bulunan, elden çıkarılmadığı takdirde atıl kalan veya tesisin elinde kullanılamaz hale gelerek kamu zararına yol açacağı öngörülen ve Malzeme Kaynakları Yönetim Sistemi (MKYS) ekranlarında ilgili alana kayıt edilerek bildirimi yapılacak mal ve malzemelere ilişkin miktarları gösteren değerdir. İhtiyaç fazlası malzemeler de stok fazlası malzemeler gibi öncelikle birliğe bağlı diğer sağlık tesislerine devredilerek tüketilmelidir.
 
@@ -67,7 +67,7 @@ f) Farmasötik eşdeğer kabul edilen jenerik ilaçlara bağlı ticari müstahza
 
 #### 1.2. Teşkilatlanma ve Görev Dağılımı
 
-Türkiye Kamu Hastaneleri Kurumu Taşra Teşkilatı Çalışma Usul ve Esasları Hakkında Yönerge hükümleri çerçevesinde Genel Sekreterlik bünyesindeki Tıbbi Hizmetler ve Mali Hizmetler Başkanlıklarına; "Birlik genelinde tüketime yönelik ihtiyaçların hizmet sunumu için hazır bulundurulabilmesi amacıyla etkin stok yönetimini yürütmek, stok kayıtlarının Kurumca belirlenen şekilde güncel tutulmasını sağlamak" ve "Taşınır mal mevzuatına ilişkin iş ve işlemleri yürütmek" görevleri verilmiştir. Mezkûr Yönergenin 19 uncu maddesinde ise İdari ve Mali Hizmetler Müdürünün görevleri sıralanmış ve bu görevler arasında; "Sağlık tesisinin tüketime yönelik ihtiyaçlarının hizmet sunumu için hazır bulundurulması amacıyla etkin stok yönetimini sağlamak, taşınır mal mevzuatına göre stok kayıtlarının ilgili sistemlerden günlük düzenli olarak takibini yapmak ve verilerin güncel tutulmasını sağlamak" görevi de yer almıştır. Anılan hükümler doğrultusunda;
+**Türkiye Kamu** Hastaneleri Kurumu Taşra Teşkilatı Çalışma Usul ve Esasları Hakkında Yönerge hükümleri çerçevesinde Genel Sekreterlik bünyesindeki Tıbbi Hizmetler ve Mali Hizmetler Başkanlıklarına; "Birlik genelinde tüketime yönelik ihtiyaçların hizmet sunumu için hazır bulundurulabilmesi amacıyla etkin stok yönetimini yürütmek, stok kayıtlarının Kurumca belirlenen şekilde güncel tutulmasını sağlamak" ve "Taşınır mal mevzuatına ilişkin iş ve işlemleri yürütmek" görevleri verilmiştir. Mezkûr Yönergenin 19 uncu maddesinde ise İdari ve Mali Hizmetler Müdürünün görevleri sıralanmış ve bu görevler arasında; "Sağlık tesisinin tüketime yönelik ihtiyaçlarının hizmet sunumu için hazır bulundurulması amacıyla etkin stok yönetimini sağlamak, taşınır mal mevzuatına göre stok kayıtlarının ilgili sistemlerden günlük düzenli olarak takibini yapmak ve verilerin güncel tutulmasını sağlamak" görevi de yer almıştır. Anılan hükümler doğrultusunda;
 
 Taşınır mal mevzuatına ilişkin iş ve işlemlerin yoğunluğu, sürekliliği, yönetim dönemine ilişkin hesap verme sorumluluğu gibi hususlar dikkate alınarak Birlik genelinde Stok Yönetim Uygulamalarının etkin, verimli bir biçimde yürütülmesini sağlamak üzere Genel Sekreterlikler bünyesinde **Stok Yönetim Birimleri** kurulacaktır.
 
@@ -126,7 +126,7 @@ b) İhtiyaçlar bir önceki yıl ve geçmiş yıllar içindeki tüketimler, hizm
 
 Stok yönetim birimince;
 - İhtiyaç talebinde bulunan sağlık tesisinin geçmiş tüketim verileri,
-- Mevcut Birlik stoku,
+- **Mevcut Birlik stoku,**
 - Devam eden sözleşmeler kapsamında alınabilecek mallar,
 - Hizmet kapasitesindeki artış ve azalışlar,
 - Geri ödeme kuralları,
@@ -255,5 +255,5 @@ Bilgilerinizi ve gereğini rica ederim.
 
 Prof. Dr. Nihat TOSUN
 Bakan a.
-Müsteşar
+**Müsteşar**
 

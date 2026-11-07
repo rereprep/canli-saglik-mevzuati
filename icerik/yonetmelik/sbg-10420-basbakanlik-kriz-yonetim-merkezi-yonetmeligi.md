@@ -16,7 +16,7 @@ tarih: "1996-09-30"
 
 ## BAŞBAKANLIK KRİZ YÖNETİM MERKEZİ YÖNETMELİĞİ
 
-Bakanlar Kurulu Kararının Tarihi :30/9/1996 No: 96/8716 Dayandığı Kanunun Tarihi : [?] No: Yayımlandığı R.Gazetenin Tarihi : 9/1/1997 No: 22872 Yayımlandığı Düsturun Tertibi : 5, Cildi: 26, Sayfa: [?]
+**Bakanlar Kurulu Kararının Tarihi :30/9/1996 No: 96/8716** Dayandığı Kanunun Tarihi : [?] No: Yayımlandığı R.Gazetenin Tarihi : 9/1/1997 No: 22872 Yayımlandığı Düsturun Tertibi : 5, Cildi: 26, Sayfa: [?]
 
 #### Amaç
 
@@ -36,7 +36,7 @@ sağlamaktır.
 
 **Madde 3 –** Bu Yönetmeliğin uygulanmasından Başbakan veya görevlendireceği bir Devlet Bakanı; hizmetlerin yürütülmesinden Genelkurmay Başkanı, Bakanlar, Milli Güvenlik Kurulu Genel Sekreteri ile kamu kurum ve kuruluşların en üst düzey yöneticileri sorumludur.
 
-(Değişik: 4/7/2002-2002/4518 K.) Aşağıda belirtilen bakanlık ve kurumlardan;
+**(Değişik: 4/7/2002-2002/4518 K.)** Aşağıda belirtilen bakanlık ve kurumlardan;
 
 a) Milli Güvenlik Kurulu Genel Sekreterliği; Bu Yönetmelik esaslarına göre kurulan Başbakanlık Kriz Yönetim Merkezi’nin devamlı faal halde tutulmasından, sistem içerisinde yer alan birimlerin bilgilendirilmesinden ve Yönetmeliğin 5 inci maddesinin (a) ve (b) bentlerinde belirtilen kriz hallerine ait faaliyetleri Başbakan adına koordine etmekten,
 
@@ -58,7 +58,7 @@ b) Kriz hali; Devletin ve milletin bölünmez bütünlüğü ile milli hedef ve 
 
 c) Başbakanlık Kriz Yönetim Merkezi; Krizle ilgili hususları çözümlemek ve krizi sona erdirmek üzere Başbakanlık sorumluluğunda Milli Güvenlik Kurulu Genel Sekreterliği bünyesinde teşkil edilen merkezi,
 
-d) (Ek: 4/7/2002-2002/4518 K.) Türkiye Acil Durum Yönetimi Genel Müdürlüğü; 3056 sayılı Kanunun 7 nci maddesinin (e) bendi ile kurulan Genel Müdürlüğü,
+d) **(Ek: 4/7/2002-2002/4518 K.)** Türkiye Acil Durum Yönetimi Genel Müdürlüğü; 3056 sayılı Kanunun 7 nci maddesinin (e) bendi ile kurulan Genel Müdürlüğü,
 
 e) Bölge Kriz Yönetim Merkezi; Muhtemel veya mevcut kriz bölgesinde, merkezden görevlendirilen elemanlarca tesis edilen ve Başbakanlık Kriz Yönetim Merkezi ile, ilgili kriz merkezlerine bağlı olarak kurulan merkez veya merkezleri,
 
@@ -68,7 +68,7 @@ g) Olağanüstü Hal; Tabii afet, tehlikeli salgın hastalıkları veya ağır e
 
 h) Seferberlik; Devletin tüm güç ve kaynaklarının, başta askeri güç olmak üzere savaşın ihtiyaçlarını karşılayacak şekilde hazırlanması, toplanması, tertiplenmesi ve kullanılmasına ilişkin bütün faaliyetlerin uygulandığı, hak ve hürriyetlerin kanunlarla kısmen veya tamamen sınırlandırılması halini, ____________
 
-(1)Bu bendin eklenmesi ile takip eden bentler teselsül ettirilmiştir.
+<i>(1)Bu bendin eklenmesi ile takip eden bentler teselsül ettirilmiştir.</i>
 
 ı) Seferberlik Hali; Seferberlik faaliyetinin başlatıldığı gün ve saatten, kaldırıldığı güne kadar devam eden durumu,
 
@@ -86,25 +86,25 @@ ifade eder.
 
 **Madde 5 –** Kriz yönetimini gerektiren haller şunlardır: a)Yurt dışında; Türkiye’nin toprak bütünlüğüne, egemenlik haklarına, milli hedef ve menfaatlerine yönelik tehdit emarelerinin belirmesi ve gelişme göstermesi, b)Yurt içinde; Anayasa ile kurulan hür demokrasi düzenini, temel hak ve hürriyetlerini ortadan kaldırmaya yönelik yaygın şiddet hareketlerine ait ciddi belirtilerin ortaya çıkması veya şiddet olayları nedeniyle kamu düzeninin bozulması;
 
-(1) Terör olayları,
+**(1) Terör olayları,**
 
-(2) Kanunsuz grev, lokavt ve işi bırakma eylemleri,
+**(2) Kanunsuz grev, lokavt ve işi bırakma eylemleri,**
 
 (3) Etnik yapı, din ve mezhep farklılıklarından kaynaklanan olaylar;
 
-c) Tabi afetler;
+**c) Tabi afetler;**
 
-(1) Deprem,
+**(1) Deprem,**
 
-(2) Sel baskını,
+**(2) Sel baskını,**
 
-(3) Çığ düşmesi,
+**(3) Çığ düşmesi,**
 
-(4) (Değişik: 4/7/2002-2002/4518 K.) Toprak kayması ve kaya düşmesi,
+(4) **(Değişik: 4/7/2002-2002/4518 K.)** Toprak kayması ve kaya düşmesi,
 
-(5) (Ek: 4/7/2002-2002/4518 K.) Büyük ölçekteki kazalar ( Kara, deniz ve havada meydana gelen),
+(5) **(Ek: 4/7/2002-2002/4518 K.)** Büyük ölçekteki kazalar ( Kara, deniz ve havada meydana gelen),
 
-(6) (Ek: 4/7/2002-2002/4518 K.) Diğer meteorolojik afetler.
+(6) **(Ek: 4/7/2002-2002/4518 K.)** Diğer meteorolojik afetler.
 
 d) İltica ve büyük nüfus hareketleri,
 
@@ -118,7 +118,7 @@ f) Büyük yangınlar,
 
 (3) Gemi yangınları,
 
-g) (Değişik: 4/7/2002-2002/4518 K.) Nükleer ve kimyasal madde kazaları,”
+g) **(Değişik: 4/7/2002-2002/4518 K.)** Nükleer ve kimyasal madde kazaları,”
 
 h)Ağır ekonomik bunalımlar,
 
@@ -130,11 +130,11 @@ h)Ağır ekonomik bunalımlar,
 
 a) Müessir bir kriz yönetimi için; kriz durumlarının zamanında teşhisi, kriz durumlarında takip edilecek usullerin önceden tesbiti, işler olarak muhafazası ve kriz tedbirlerinin gecikmeden uygulamaya konması esastır. Kriz Yönetimi, bir kriz durumunun teşhisinden başlayarak, gerekli yönlendirici kararların alınmasına, uygulanmasına, takip ve kontrolüne kadar uzanan bir seri faaliyetlerin manzumesidir. Kriz hallerinde yönetim ve birimlerin aralarındaki ilişkileri gösteren yapı, EK-A şemada olduğu gibidir.
 
-b) (Değişik ilk cümle: 4/7/2002-2002/4518 K.) Başbakanlık Kriz Yönetim Merkezi; kriz emarelerinin belirmesi ve başlaması ile birlikte ilgili organlardan birinin (MGK, Bakanlar Kurulu, ilgili Bakanlar, MGK Genel Sekreteri ve Başbakanlık Müsteşarı) teklifi ve Başbakan’ ın direktifi ile faaliyete geçer. Ancak, Başbakanlık Kriz Yönetim Merkezi Sekretaryası, bu yönetmeliğin yayınlanmasını müteakip Milli Güvenlik Kurulu Genel Sekreterliği Topyekün Savunma Hizmetleri Başkanı başkanlığında çekirdek olarak Milli Güvenlik kurulu Genel Sekreterliği nezdinde kurulur ve çalıştırılır. Başbakanlık Kriz Yönetim Merkezi faaliyete geçirildiğinde personeli tamamlanır.
+b) **(Değişik ilk cümle: 4/7/2002-2002/4518 K.)** Başbakanlık Kriz Yönetim Merkezi; kriz emarelerinin belirmesi ve başlaması ile birlikte ilgili organlardan birinin (MGK, Bakanlar Kurulu, ilgili Bakanlar, MGK Genel Sekreteri ve Başbakanlık Müsteşarı) teklifi ve Başbakan’ ın direktifi ile faaliyete geçer. Ancak, Başbakanlık Kriz Yönetim Merkezi Sekretaryası, bu yönetmeliğin yayınlanmasını müteakip Milli Güvenlik Kurulu Genel Sekreterliği Topyekün Savunma Hizmetleri Başkanı başkanlığında çekirdek olarak Milli Güvenlik kurulu Genel Sekreterliği nezdinde kurulur ve çalıştırılır. Başbakanlık Kriz Yönetim Merkezi faaliyete geçirildiğinde personeli tamamlanır.
 
 c) Başbakanlık Kriz Yönetim Merkezi başlangıçta krizin şiddeti, ihtiyaç duyulan tedbirlerin özellikleri ve merkezin faaliyete geçme maksadının gizlilik derecesi dikkate alınarak, EK-B, C ve D'de (+) olarak işaretlenen kurum ve kuruluşlardan Başbakan tarafından seçilen bir kaçı ile faaliyete geçirilebilir. Bunlar çekirdek kadro olarak mütalaa edilir.
 
-(1) Bu fıkrada geçen “Milli Güvenlik Kurulu Genel Sekreterliği Bilgi Toplama, Araştırma ve Değerlendirme Başkanı” ibaresi, Bakanlar Kurulunun 29/4/2002 tarihli ve 2002/4099 sayılı Kararı ile, “Milli Güvenlik Kurulu Genel Sekreterliği Topyekün Savunma Sivil Hizmetleri Başkanı” olarak değiştirilmiş ve metne işlenmiştir.
+<i>(1) Bu fıkrada geçen “Milli Güvenlik Kurulu Genel Sekreterliği Bilgi Toplama,</i> Araştırma ve Değerlendirme Başkanı” ibaresi, Bakanlar Kurulunun 29/4/2002 tarihli ve 2002/4099 sayılı Kararı ile, “Milli Güvenlik Kurulu Genel Sekreterliği Topyekün Savunma Sivil Hizmetleri Başkanı” olarak değiştirilmiş ve metne işlenmiştir.
 
 d) Kriz önlenemediği veya giderek tırmanma eğilimi gösterdiği hallerde, durumun gelişmesine göre Olağanüstü Hal, Sıkıyönetim, Seferberlik ve Savaş Hal ilan edilmesi Kriz Koordinasyon Kurulu'nca yasalara uygun yöntemlerle ilgili mercilere önerilir. Bu hallerin ilan edilmesine kadar geçen sürede olaylar önlenememiş ise, Başbakanlık Kriz Yönetim Merkezi ve Kriz Merkezleri, harekat merkezleri haline dönüşür. Olağanüstü Hal, Sıkıyönetim, Seferberlik ve Savaş Halleri ilan edilen durumlarda ise Kriz Merkezleri, Başbakan tarafından aksi emredilmediği takdirde, ilgili mevzuatta belirtilen Koordinasyon Kurulu'na ve/veya Hükümet Harekat Merkezi'ne alt yapı oluşturur. Kriz ve/veya Harekat bu kurullarca aynı mahalden sevk ve idare edilir.
 
@@ -196,7 +196,7 @@ b) Kriz Değerlendirme ve Takip Kurulu'nun görevleri: Kriz Değerlendirme ve Ta
 
 **Madde 10 –** Sekreteryanın oluşumu, görevleri ve çalışma düzeni aşağıda gösterilmiştir.
 
-a) Sekreteryanın Oluşumu: Sekretarya bu maksatla görevlendirilecek bir Başbakanlık Müsteşar Yardımcısının başkanlığında krizin cinsine göre EK–D'deki yetkililerden oluşur.
+**a) Sekreteryanın Oluşumu:** Sekretarya bu maksatla görevlendirilecek bir Başbakanlık Müsteşar Yardımcısının başkanlığında krizin cinsine göre EK–D'deki yetkililerden oluşur.
 
 Sekreterya, bu Yönetmeliğin yayınlanması ile birlikte Milli Güvenlik Kurulu Genel Sekreterliği nezdinde çekirdek olarak kurulur, faaliyetlerini yürütür ve krizin başlaması ile birlikte personeli tamamlanır. Seferberlik ve Savaş Hali ilan edildiğinde ilgili mevzuatta belirtilen personeli tamamlanarak ve ilgili Bakanlık, kurum ve kuruluşların personeli çağrılarak Hükümet Harekat Merkezi Sekreteryası'na dönüştürülür.
 
@@ -204,7 +204,7 @@ Sekreteryanın çekirdek kadrosu ve personeli Milli Güvenlik Kurulu Genel Sekre
 
 Sekreteryada Başbakanlık Merkez Teşkilatı (Türkiye Acil Durum Yönetimi Genel Müdürlüğü)’ndan, Genelkurmay Başkanlığı, bakanlıklar, Milli Güvenlik Kurulu Genel Sekreterliği ve diğer kurum ve kuruluşlardan, kurumun görev özelliklerini iyi bilen, güvenirliği tam, kendi alanında başarılı uzman personel görevlendirilir.
 
-b) Sekreteryanın görevleri şunlardır,
+**b) Sekreteryanın görevleri şunlardır,**
 
 (1) Normal durumlarda çekirdek kadro ile yapacağı görevler,
 
@@ -218,7 +218,7 @@ b) Sekreteryanın görevleri şunlardır,
 
 (e) Mevcut kriz merkezlerinin durumunu inceler. Başbakan'a sonuç raporu halinde bildirir.
 
-(2) Kriz Durumundaki Görevleri:
+**(2) Kriz Durumundaki Görevleri:**
 
 (a) İç ve dış kaynaklardan gelen krizle ilgili bilgileri toplar, gerekenleri ilgili makamlara iletir veya Kriz Değerlendirme ve Takip Kurulu'na sunar.
 
@@ -250,11 +250,11 @@ Hazine ve Dış Ticaret Müsteşarlıkları, Merkez Bankası, TRT, Basın-Yayın
 
 (4) Kriz Koordinasyon Kurulu'nun olayların gelişmesini anında izleyebilmesi için, kapalı devre görüntülü sistemleri tesis edilir. _____ ________
 
-(1) Bu fıkrada geçen “Başbakanlık Merkez Teşkilatından” ibaresi, 4/7/2002 tarihli
+<i>(1) Bu fıkrada geçen “Başbakanlık Merkez Teşkilatından” ibaresi, 4/7/2002 tarihli</i>
 
-ve 2002/4518 tarihli Yönetmelikle “Başbakanlık Merkez Teşkilatı (Türkiye Acil
+<i>ve 2002/4518 tarihli Yönetmelikle “Başbakanlık Merkez Teşkilatı (Türkiye Acil</i>
 
-Durum Yönetimi Genel Müdürlüğü)’ndan” olarak değiştirilmiş ve metne işlenmiştir.
+<i>Durum Yönetimi Genel Müdürlüğü)’ndan” olarak değiştirilmiş ve metne işlenmiştir.</i>
 
 (5) Elde ettiği kayıtları istatistiki olarak derleyecek ve bunların değerlendirilmesini "Kriz Tahmini" şeklinde yapabilecek "Uzman" bilgi işlem sistemleri temin edilir.
 
@@ -262,11 +262,11 @@ Durum Yönetimi Genel Müdürlüğü)’ndan” olarak değiştirilmiş ve metne
 
 (7) Kriz dönemlerinde, Kriz Koordinasyon Kurulu tarafından belirlenmiş yetkililer dışında basına ve kamuoyuna bilgi verilmez. Yapılacak açıklamalar için ne gibi işlemlerin uygulanacağı önceden belirlenir.
 
-Kriz Merkezleri ve görevleri:
+**Kriz Merkezleri ve görevleri:**
 
 **Madde 11 –** Kriz Merkezleri Genelkurmay Başkanlığı, bakanlıklar, ilgili kurum ve kuruluşlar ile krizin meydana geldiği il ve ilçelerden en üst düzey yöneticilerin başkanlığında kurulur. İl ve ilçelerde var ise ilgili kuruluş amirleri de Kriz Merkezi'ne dahil edilir.
 
-Kriz Merkezleri'nin görevleri şunlardır;
+**Kriz Merkezleri'nin görevleri şunlardır;**
 
 (1) Krizle ilgili durumları izler ve değerlendirir, değerlendirme sonuçlarına göre kararlar alır ve uygular,
 
@@ -344,13 +344,13 @@ EK-D
 
 ### 30/9/1996 TARİH VE 96/8716 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE
 
-Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Kararnamenin
+**Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Kararnamenin**
 
 ### Farklı Tarihte
 
 Yürürlüğe Yürürlüğe
 
-Tarihi Numarası Giren Giriş Tarihi
+**Tarihi Numarası** Giren Giriş Tarihi
 
 ### Maddeler
 

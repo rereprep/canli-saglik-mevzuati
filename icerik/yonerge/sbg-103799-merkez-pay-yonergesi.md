@@ -11,7 +11,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-11.2.4. Merkez Pay Yönergesi
+**11.2.4. Merkez Pay Yönergesi**
 
 
 

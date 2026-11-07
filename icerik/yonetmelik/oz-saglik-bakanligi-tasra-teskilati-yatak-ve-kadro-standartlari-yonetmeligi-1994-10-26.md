@@ -13,9 +13,9 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-Sağlık Bakanlığından:
+**Sağlık Bakanlığından:**
 
-Sağlık Bakanlığı Taşra Teşkilatı Yatak ve Kadro Standartları Yönetmeliği
+**Sağlık Bakanlığı Taşra Teşkilatı Yatak ve Kadro** Standartları Yönetmeliği
 
 ### BİRİNCİ KISIM
 

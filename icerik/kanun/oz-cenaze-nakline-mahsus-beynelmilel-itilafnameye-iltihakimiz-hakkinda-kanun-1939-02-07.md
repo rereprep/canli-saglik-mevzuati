@@ -17,8 +17,8 @@ kontrol_edildi: true
 
 **Cenaze nakline mahsus beynelmilel itilâfnameye iltihakımız hakkında kanun**
 
-**Kanun No: 3584**  
-**Kabul tarihi: 26/1/1939**
+**<i>Kanun No: 3584**</i>  
+<i>**Kabul tarihi: 26/1/1939</i>**
 
 **Madde 1 –** 10 şubat 1937 tarihinde Berlinde tanzim edilip Türkiye Cumhuriyeti ve alâkalı diğer Hükümetler murahhasları tarafından imza edilmiş olan ölülerin nakli hakkındaki beynelmilel itilâfname kabul ve tasdik edilmiştir.
 
@@ -26,7 +26,7 @@ kontrol_edildi: true
 
 **Madde 3 –** Bu kanunun hükümlerini yapmaya İcra Vekilleri Heyeti memurdur.
 
-30/1/1939
+**30/1/1939**
 
 ### Ölülerin nakline dair Beynelmilel İtilâfname
 

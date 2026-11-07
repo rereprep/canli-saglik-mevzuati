@@ -17,7 +17,7 @@ kontrol_edildi: true
 6.3.34. Tularemi Genelgesi (2005/61)
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK** BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : B100TSH0110002 / 5600
@@ -50,7 +50,7 @@ Prof. Dr. Necdet ÜNÜVAR
 Bakan a.
 Müsteşar
 
-DAĞITIM:
+**DAĞITIM:**
 81 İl Valiliğine
 
 

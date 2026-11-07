@@ -210,7 +210,7 @@ REÇETEDE TEK BAŞINA BULUNSA BİLE HASTANIN İHBARINI GEREKTİREN İLAÇLAR
 LİSTEDEKİ DİĞER İLAÇLARDAN HERHANGİ BİRİYLE REÇETEDE BİRLİKTE BULUNDUĞUNDA, İHBARI GEREKTİREN İLAÇLAR:
 
 1- Streptomisin flakon
-2- Rifampisin
+**2- Rifampisin**
 
 T.C.
 SAĞLIK ve SOSYAL YARDIM
@@ -396,7 +396,7 @@ Dikey eksen: kişi; 0, 4.000, 8.000, 12.000, 16.000, 20.000, 24.000. Yatay eksen
 
 - Kaçak kontrol
 - İşbirliği yapmayan ve akıbeti meçhul
-- Vefat
+- **Vefat**
 
 ### YILLARA GÖRE DİSPANSERLERDE YAPILAN TEMASLI MUAYENELER VE KORUNMA AŞILAMALARI - TABLO 5
 
@@ -700,7 +700,7 @@ Ampulün boyun kısmı dibinden törpülenir, ampulün açılması sırasında t
 Aşılama: Yeni doğanlar normal bir ağırlığa (3 Kg.) ulaşıncaya kadar aşılanmamalıdır. Yeni doğanlar ve 8 haftalık olanlar direkt aşılanabilirler, daha büyük yaştakiler Tüberkülin testleri negatif ise aşılanmalıdırlar.
 Enjeksiyonlar, eğitim görmüş sağlık personeli tarafından yapılmalıdır.
 Doz: 0,1 ml. ve deri içidir. Bu doz minimum 100.000 canlı jerm ihtiva eder.
-Bu doz 1 yaşından küçük çocuklar için yarım doz, 0,05 ml. olarak kullanılabilir.
+**Bu doz** 1 yaşından küçük çocuklar için yarım doz, 0,05 ml. olarak kullanılabilir.
 Aşı, sızdırmayan 0,01 ml.'lik bölümlere derecelendirilmiş ve verilecek dozun okunması kolay bir enjektörle yapılır. (25 G veya 26 G X 10 mm.)
 Deri temiz ve kuru olmalıdır. Temizliğinde alkol ve deterjandan kaçınılmalıdır.
 Enjeksiyon derinin üst tabakasının içine yavaşça yapılmalıdır. Çok derine yapılan enjeksiyon abse şeklinde reaksiyonu artırır.

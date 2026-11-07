@@ -15,7 +15,7 @@ kontrol_edildi: true
 
 ### SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 T.C. Sağlık Bakanlığı
 
@@ -41,11 +41,11 @@ Bu itibarla, ülkemizde meydana gelen terör eyleminden zarar gören kişilerin 
 
 Gereğini önemle rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ
+**Prof. Dr. Eyüp GÜMÜŞ**
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM:
 

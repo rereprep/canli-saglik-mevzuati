@@ -17,7 +17,7 @@ TEBLİĞ
 
 Sosyal Güvenlik Kurumu Başkanlığından:
 
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE**
 DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 4.1. numaralı maddesinin ikinci fıkrasında yer alan “yetkilendirilen hekimlerce” ibaresinden sonra gelmek üzere “veya aile hekimliği uzman hekimlerince” ibaresi eklenmiştir.
@@ -87,7 +87,7 @@ c) (aa) bendinin (2) numaralı alt bendinde yer alan “Evre IB” ibaresinden s
 1) Daha önce en az 1-3 sıra multiple myelom tedavisini uygun dozda ve yeterli sürede kullanmış ve önceki tedavilerle Proteazom İnhibitörüne (PI) dirençli olmayan (önceki PI ile en az kısmi yanıt elde edilmiş ve en son PI maruziyetinin üzerinden en az 6 ay geçmiş olan) relaps/refrakter multiple myelom tanılı yetişkin hastaların tedavisinde bortezomib ve deksametazon ile kombine olarak progresyona kadar kullanılması halinde bedelleri Kurumca karşılanır.
 2) 3 üncü kür sonunda en az minör yanıt, 6 ncı kür sonunda ve devam eden her 6 kür sonunda ise en az kısmi yanıt olduğunun belirtildiği, hematoloji veya tıbbi onkoloji uzman hekiminin yer aldığı, en fazla 3 ay süreli sağlık kurulu raporuna istinaden hematoloji veya tıbbi onkoloji uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır.
 
-uuu) Elranatamab;
+**uuu) Elranatamab;**
 1) Daha önce bir immünomodülatör ajan, bir proteazom inhibitörü ve bir anti-CD38 antikoru dahil olmak üzere en az dört sıra tedaviyi uygun dozda ve yeterli sürede kullanmış ve son tedavisi sırasında progresyon görülmüş olan, relaps veya refrakter multipl miyelomu bulunan erişkin hastaların tedavisinde monoterapi olarak progresyona kadar kullanılması halinde bedelleri Kurumca karşılanır.
 2) 3 üncü kür sonunda en az minör yanıt, 6 ncı kür sonunda ve devam eden her 6 kür sonunda ise en az kısmi yanıt olduğunun belirtildiği, hematoloji veya tıbbi onkoloji uzman hekiminin yer aldığı, en fazla 3 ay süreli sağlık kurulu raporuna istinaden hematoloji veya tıbbi onkoloji uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır.”
 
@@ -101,38 +101,38 @@ b) 4.2.15.D-1 numaralı alt maddesinin ikinci fıkrasında yer alan “6 ay” i
 c) 4.2.15.D-2 numaralı alt maddesinin üçüncü fıkrasında yer alan “6 ay” ibaresi “1 yıl” şeklinde değiştirilmiş, üçüncü fıkrasına aşağıdaki cümle eklenmiştir.
 “İlk iki rapor süresi (toplam 24 ay) sonunda, sonraki raporlar kardiyoloji, iç hastalıkları, göğüs hastalıkları, kalp damar cerrahisi ve nöroloji uzman hekimlerince düzenlenen uzman hekim raporuna istinaden bu hekimlerce ve aile hekimlerince reçete edilmesi halinde bedeli ödenir.”
 
-MADDE 11- Aynı Tebliğin 4.2.16 numaralı maddesinin altıncı fıkrasına birinci cümleden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
+**MADDE 11-** Aynı Tebliğin 4.2.16 numaralı maddesinin altıncı fıkrasına birinci cümleden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
 “İkinci ve daha sonraki raporlar bu uzman hekimler veya aile hekimliği uzman hekimleri tarafından düzenlenebilir.”
 
-MADDE 12- Aynı Tebliğin 4.2.17.A numaralı maddesinin sekizinci fıkrasında yer alan “Üniversite veya eğitim ve araştırma hastanelerinde” ibaresi “Üçüncü basamak resmi sağlık hizmeti sunucularında” şeklinde değiştirilmiştir.
+**MADDE 12-** Aynı Tebliğin 4.2.17.A numaralı maddesinin sekizinci fıkrasında yer alan “Üniversite veya eğitim ve araştırma hastanelerinde” ibaresi “Üçüncü basamak resmi sağlık hizmeti sunucularında” şeklinde değiştirilmiştir.
 
-MADDE 13- Aynı Tebliğin 4.2.24.C numaralı maddesinin birinci fıkrasında yer alan “veya KBB” ibaresi “, aile hekimliği veya kulak burun boğaz” şeklinde değiştirilmiştir.
+**MADDE 13-** Aynı Tebliğin 4.2.24.C numaralı maddesinin birinci fıkrasında yer alan “veya KBB” ibaresi “, aile hekimliği veya kulak burun boğaz” şeklinde değiştirilmiştir.
 
-MADDE 14- Aynı Tebliğin 4.2.27.A.1 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 14-** Aynı Tebliğin 4.2.27.A.1 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Birinci fıkrasının (a) bendinde yer alan “6 ay” ibaresi “6 aya kadar” şeklinde ve (b) bendinde yer alan “3 gün” ibaresi “3 güne kadar” şeklinde değiştirilmiştir.
 b) Üçüncü fıkrasının (b) bendinde yer alan “3 ay” ibaresi “3 aya kadar” şeklinde değiştirilmiştir.
 c) Beşinci fıkrasının (b) bendinde yer alan “6 ay” ibaresi “6 aya kadar” şeklinde değiştirilmiştir.
 ç) Altıncı fıkrasının birinci cümlesinde yer alan “6 ay” ibaresi “6 aya kadar” şeklinde ve (b) bendinin (1) numaralı alt bendinde yer alan “koşuluyla” ibaresinden sonra gelen “6 ay” ibaresi “6 aya kadar” şeklinde değiştirilmiştir.
 d) Yedinci fıkrasının (b) bendinde yer alan “Von Willebrand” ibaresi “Tüm Von Willebrand” şeklinde ve aynı bentte yer alan “3 gün” ibaresi “3 güne kadar” şeklinde değiştirilmiştir.
 
-MADDE 15- Aynı Tebliğin 4.2.28.A-1 numaralı maddesinin dördüncü fıkrasında yer alan “nöroloji” ibaresinden sonra gelmek üzere “veya iç hastalıkları” ibaresi ile aynı fıkraya aşağıdaki cümle eklenmiştir.
+**MADDE 15-** Aynı Tebliğin 4.2.28.A-1 numaralı maddesinin dördüncü fıkrasında yer alan “nöroloji” ibaresinden sonra gelmek üzere “veya iç hastalıkları” ibaresi ile aynı fıkraya aşağıdaki cümle eklenmiştir.
 “Tedavinin devamında ilk rapor süresi (24 ay) sonunda devam raporlarının aile hekimliği uzman hekimlerince de düzenlenmesi halinde bedelleri Kurumca karşılanır.”
 
-MADDE 16- Aynı Tebliğin 4.2.33 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 16-** Aynı Tebliğin 4.2.33 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Birinci fıkrasında yer alan “ilaçlar (bevacizumab/ranibizumab/aflibersept),” ibaresi “ilaçlardan bevacizumab etkin maddeli ilaçlar; ikinci basamak sağlık kurumlarında, Anti-VEGF ilaçlardan ranibizumab ve aflibersept,” şeklinde değiştirilmiştir.
 
 
 b) 4.2.33.D numaralı alt maddesinin birinci fıkrası aşağıdaki şekilde ve ikinci fıkrasında yer alan “6 ay” ibaresi “1 yıl” şeklinde değiştirilmiş, aynı fıkraya aşağıdaki cümle eklenmiştir.
 “(1) Siklosporin içeren immünsüpresif göz damlaları, göz hastalıkları uzman hekimi tarafından düzenlenen bir yıl süreli uzman hekim raporuna dayanılarak göz hastalıkları uzman hekimlerince reçete edilebilir.”
 “Aile hekimlerince raporsuz olarak bir yıl süre ile her reçetede aya en fazla bir kutu olacak şekilde reçete edilmesi halinde Kurumca bedelleri karşılanır.”
-MADDE 17- Aynı Tebliğin 4.2.36 numaralı maddesinin ikinci fıkrasında yer alan “üniversite ve eğitim-araştırma hastanelerinde” ibaresi “üçüncü basamak resmi sağlık hizmeti sunucularında” şeklinde değiştirilmiştir.
-MADDE 18- Aynı Tebliğin 4.2.37.A numaralı maddesinin birinci fıkrasında yer alan “eğitim ve araştırma ile üniversite hastanelerinde” ibaresi “üçüncü basamak resmi sağlık hizmeti sunucularında” şeklinde değiştirilmiştir.
-MADDE 19- Aynı Tebliğin 4.2.38 numaralı maddesinin üçüncü fıkrasının (b) bendine aşağıdaki cümle eklenmiştir.
+**MADDE 17-** Aynı Tebliğin 4.2.36 numaralı maddesinin ikinci fıkrasında yer alan “üniversite ve eğitim-araştırma hastanelerinde” ibaresi “üçüncü basamak resmi sağlık hizmeti sunucularında” şeklinde değiştirilmiştir.
+**MADDE 18-** Aynı Tebliğin 4.2.37.A numaralı maddesinin birinci fıkrasında yer alan “eğitim ve araştırma ile üniversite hastanelerinde” ibaresi “üçüncü basamak resmi sağlık hizmeti sunucularında” şeklinde değiştirilmiştir.
+**MADDE 19-** Aynı Tebliğin 4.2.38 numaralı maddesinin üçüncü fıkrasının (b) bendine aşağıdaki cümle eklenmiştir.
 “İlk rapordan (24 ay) sonraki sağlık kurulu raporlarında iç hastalıkları uzman hekimlerinin yer alması halinde de bedelleri Kurumca karşılanır.”
-MADDE 20- Aynı Tebliğin 4.2.41 numaralı maddesinin birinci fıkrasında yer alan “çocuk sağlığı ve hastalıkları” ibaresinden sonra gelmek üzere “veya anestezi ve reanimasyon” ibaresi eklenmiştir.
-MADDE 21- Aynı Tebliğin 4.2.46.A numaralı maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 20-** Aynı Tebliğin 4.2.41 numaralı maddesinin birinci fıkrasında yer alan “çocuk sağlığı ve hastalıkları” ibaresinden sonra gelmek üzere “veya anestezi ve reanimasyon” ibaresi eklenmiştir.
+**MADDE 21-** Aynı Tebliğin 4.2.46.A numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(5) Üst solunum yolu açıklığını etkileyebilecek baş-boyun tümörü olan, trakeostomili ile takip edilen, ilacın başlandığı tarihte yoğun bakımda izlenilen hastalarda Forced Vital Kapasitesi (FVC) ve karbonmonoksit difüzyon kapasitesi (DLCO) değerleri aranmaz.”
-MADDE 22- Aynı Tebliğin 4.2.70 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 22-** Aynı Tebliğin 4.2.70 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin başlığı aşağıdaki şekilde değiştirilmiş ve başlığın altına aşağıdaki alt başlık eklenmiştir.
 “4.2.70- Tafamidis ve tafamidis meglumin kullanım ilkeleri”
 “4.2.70.A- Transiretin amiloidoz kardiyomiyopati (ATTR-KM) tedavisinde kullanım ilkeleri”
@@ -142,8 +142,8 @@ c) Maddeye aşağıdaki alt madde eklenmiştir.
 (1) TTR geni mutasyonu gösterilen ve klinik olarak semptomatik olan ve nöropati varlığının desteklendiği (sinir iletim testi veya R-R interval analizi veya sempatik deri yanıtı veya kantitatif duyu testleri veya deri biyopsisi (ince/küçük lif yoğunluğu değerlendirilmesi) veya korneal konfokal mikroskopi yöntemlerinden en az biri ile tespit edilmiş) Evre 1 semptomatik polinöropati (desteksiz dışında yürüyebilen) tanısı konulan yetişkin hastalarda periferik nörolojik bozukluğun ilerlemesini yavaşlatmak üzere transtiretin amiloidoz tedavisi için tafamidis meglumin başlanabilir.
 (2) 3 ay sonra yapılan değerlendirmede klinik olarak hastalık evresinin değişmediğinin (hastanın ev dışında desteksiz yürümeye devam ettiği) raporda belirtilmesi halinde 6 aylık idame rapor ile tedaviye devam edilebilir. Rapor süresinin sonunda tedavinin devamı için yapılan değerlendirmede hastalık evresinin değişmediği (hastanın ev dışında desteksiz yürümeye devam ettiği) yeni düzenlenecek her raporda belirtilmelidir. Tedavi, hastalığın Evre 2’ye geçmesi (yürüme için desteğe ihtiyaç duyulması) halinde sonlandırılır.
 (3) Üçüncü basamak resmi sağlık hizmeti sunucularında yukarıdaki durumların belirtildiği üç nöroloji uzman hekiminin bulunduğu sağlık kurulu raporuna dayanılarak nöroloji uzman hekimleri tarafından reçete edilmesi halinde bedeli Kurumca karşılanır.”
-MADDE 23- Aynı Tebliğ eki “Bedeli Ödenecek İlaçlar Listesi (EK-4/A)” Ek-1’deki şekilde değiştirilmiştir.
-MADDE 24- Aynı Tebliğ eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)”inde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 23-** Aynı Tebliğ eki “Bedeli Ödenecek İlaçlar Listesi (EK-4/A)” Ek-1’deki şekilde değiştirilmiştir.
+**MADDE 24-** Aynı Tebliğ eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)”inde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin “2” numaralı maddesine aşağıdaki alt maddeler eklenmiştir.
 “2.27. Selin eksor*
 2.28. Darolutamid*
@@ -170,7 +170,7 @@ d) Listenin 11 numaralı maddesine aşağıdaki alt maddeler eklenmiştir.
 11.7.1. Melatonin**”
 
 
-MADDE 25- Aynı Tebliğ eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi (EK-4/E)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 25-** Aynı Tebliğ eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi (EK-4/E)”nde aşağıdaki düzenlemeler yapılmıştır.
 
 a) Listenin “1-BETALAKTAM ANTİBİYOTİKLER” başlığı altında yer alan “B) Sefalosporinler” alt başlığının “2. Kuşak Sefalosporinler” alt başlığının 1 numaralı satırı aşağıdaki şekilde değiştirilmiştir.
 
@@ -197,7 +197,7 @@ d) Listenin “13- DİĞERLERİ” başlıklı maddesinin 17 numaralı satırı 
 | 17 | Eritromisin+İsotretinoin / Eritromisin+Tretinoin / Eritromisin+ Benzoilperoksit (Topik formları dahil)/Klindamisin+Benzoilperoksit | Sadece cilt hastalıkları uzman hekimlerince veya aile hekimlerince ara verilmemeksizin sadece 3 aylık süre içinde reçetelenmesi halinde bedeli Kurumca karşılanır. |
 |---|---|---|
 
-MADDE 26- Aynı Tebliğ eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) İle Verilebilecek İlaçlar Listesi (EK-4/F)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 26-** Aynı Tebliğ eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) İle Verilebilecek İlaçlar Listesi (EK-4/F)”nde aşağıdaki düzenlemeler yapılmıştır.
 
 a) Listenin 51 numaralı maddesine aşağıdaki cümle eklenmiştir.
 
@@ -207,7 +207,7 @@ b) Listeye aşağıdaki madde eklenmiştir.
 
 “87. Melatonin; yalnızca uyku hijyeni önlemlerinin yetersiz olduğu Otizm Spektrum Bozukluğu ve/veya Smith-Magenis sendromu olan 2-18 yaş arası çocuk ve ergenlerde gecikmiş uyku başlangıcı huzursuzluğun tedavisinde üç ay süreli çocuk ve ergen ruh sağlığı ve hastalıkları uzman hekim raporu ile tüm uzman hekimler tarafından reçete edilmesi halinde bedelleri Kurumca karşılanır.”
 
-MADDE 27- Aynı Tebliğ eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 27-** Aynı Tebliğ eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)”nde aşağıdaki düzenlemeler yapılmıştır.
 
 a) Listenin “27” numaralı maddesinde yer alan “abiksimab,” ibaresi yürürlükten kaldırılmıştır.
 
@@ -217,7 +217,7 @@ c) Listenin “27” numaralı maddesine aşağıdaki alt madde eklenmiştir.
 
 “27.4. Abiksimab; 24 saat içinde yüksek riskli perkütan koroner girişim yapılması planlanan akut koroner sendrom hastalarında uygulanacak perkütan girişim sırasında anjiyografik olarak intrakoroner trombüs yükü fazla ve/veya no-reflow fenomeninin tespit edildiği hastalarda kardiyoloji veya kalp damar cerrahisi uzman hekimleri tarafından reçete/tableta edilebilir.”
 
-MADDE 28- Bu Tebliğin;
+**MADDE 28-** Bu Tebliğin;
 
 a) 1 ila 22 nci maddeleri, 24 ila 27 nci maddeleri yayımı tarihinden 5 iş günü sonra,
 
@@ -227,7 +227,7 @@ c) Diğer hükümleri yayımı tarihinde,
 
 yürürlüğe girer.
 
-MADDE 29- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 29-** Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 
 | Kamu No | Güncel Barkod | İlaç Adı | Eski Barkodlar | Eşdeğer İlaç Grubu | Terapötik Referans Grubu | Listeye Giriş Tarihi | Aktiflenme Tarihi | Pasiflenme Tarihi | Uygulanan İndirim Oranlarına Esas Durumu | Depocuya Satış Fiyatı 57,43 TL, 112,59 TL ve üzeri ise | Depocuya Satış Fiyatı (KDV Hariç)-57,43 TL (dahil)-112,58 TL (dahil) arasında ise | Depocuya Satış Fiyatı 39,05 TL (dahil)-57,42 TL (dahil) arasında ise | Depocuya Satış Fiyatı 39,04 TL ve altında ise | Özel İskonto | Eczacı İskonto Oranı |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|

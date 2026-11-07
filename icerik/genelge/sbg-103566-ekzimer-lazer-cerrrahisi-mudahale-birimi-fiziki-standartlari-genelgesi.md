@@ -13,8 +13,8 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 54567092/010. 2014.5407.340
 Konu : Ekzimer Lazer Cerrahisi Müdahale birimi fiziki standartları
@@ -24,7 +24,7 @@ Konu : Ekzimer Lazer Cerrahisi Müdahale birimi fiziki standartları
 ............ VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
-GENELGE
+**GENELGE**
 2014/17
 
 Bilindiği üzere 09.03.2000 tarih ve 23988 sayılı Yönetmelik aynı isimli "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik" in yürürlüğe girmesi ile yürürlükten kaldırılmıştır. Mezkûr Yönetmeliğin yürürlükten kaldırılması ile 16.03.2002 tarih ve 24697 sayılı "Eksimer Laser Cerrahisi Uygulanacak Cerrahi Müdahale Birimleri Hakkında Tebliğ" de yürürlükte kaldırılmıştır.
@@ -39,11 +39,11 @@ a) Ekzimer lazer ameliyat odası: Lokal anestezi altında cerrahi müdahale uygu
 
 Ekzimer lazer cihazı ile odanın duvarları arasında en az 1 metrelik mesafe bulunmalı ve rahat dolaşım alanı kalacak şekilde asgari 20 metrekare yüz ölçüme sahip olmalıdır.
 
-b) Yıkanma bölümü: Ekzimer lazer ameliyat odasına/yarı steril alana geçiş sağlanabilen ve müdahale öncesi gerekli kişisel sterilizasyon işleminin gerçekleştirildiği akar suyu bulunan bölümdür.
+b) **Yıkanma bölümü:** Ekzimer lazer ameliyat odasına/yarı steril alana geçiş sağlanabilen ve müdahale öncesi gerekli kişisel sterilizasyon işleminin gerçekleştirildiği akar suyu bulunan bölümdür.
 
-c) Hazırlık ve gözlem odası: Cerrahi uygulama öncesi ve sonrası hastanın bir süre dinlenebileceği odadır. En az 6 metrekare yüz ölçüme sahip olmalı ve bir adet hasta yatağı veya gerektiğinde 180 derece yatabilir konumda bir koltuk ile tekerlekli sandalye bulunmalıdır.
+c) **Hazırlık ve gözlem odası:** Cerrahi uygulama öncesi ve sonrası hastanın bir süre dinlenebileceği odadır. En az 6 metrekare yüz ölçüme sahip olmalı ve bir adet hasta yatağı veya gerektiğinde 180 derece yatabilir konumda bir koltuk ile tekerlekli sandalye bulunmalıdır.
 
-d) Yarı steril alan: Ameliyat odası ve yıkanma bölümünün bağlantılı olduğu, tabanı antistatik malzeme ile döşeli alandır. Yıkanma alanı bu bölümde bulunabilir.
+d) **Yarı steril alan:** Ameliyat odası ve yıkanma bölümünün bağlantılı olduğu, tabanı antistatik malzeme ile döşeli alandır. Yıkanma alanı bu bölümde bulunabilir.
 
 Ekzimer lazer ameliyat odasının genel ameliyathane içerisinde bulunması halinde sadece 20 metrekare ameliyat odasının bulunması yeterlidir.
 
@@ -71,9 +71,9 @@ Söz konusu sağlık kuruluşları bünyesinde açılacak ekzimer lazer cerrahi 
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 Bakan a.
-Müsteşar
+**Müsteşar**
 
 EK-1: Ekzimer Lazer Cerrahisi İçin Bulundurulması Gerekli Asgari Malzemeler Listesi (1 sayfa)
 

@@ -11,7 +11,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-11.2.3. Sağlık Bakanlığında Döner Sermaye Muhasebe Hizmetlerinin Yürütülmesine İlişkin Yönerge
+**11.2.3. Sağlık Bakanlığında Döner Sermaye Muhasebe** Hizmetlerinin Yürütülmesine İlişkin Yönerge
 
 ### SAĞLIK BAKANLIĞINDA DÖNER SERMAYE MUHASEBE HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN YÖNERGE
 
@@ -21,7 +21,7 @@ kontrol_edildi: true
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönergenin amacı, Bakanlık merkez ve taşra teşkilatı döner sermaye muhasebe hizmetlerinin yürütülmesine ilişkin usul ve esasları belirlemektir. #### Kapsam
+**<i>MADDE</i> 1 –** (1) Bu Yönergenin amacı, Bakanlık merkez ve taşra teşkilatı döner sermaye muhasebe hizmetlerinin yürütülmesine ilişkin usul ve esasları belirlemektir. #### Kapsam
 
 **MADDE 2 –** (1) Bu Yönerge, Sağlık Bakanlığına bağlı döner sermaye işletmelerinin muhasebe hizmetlerini kapsar.
 
@@ -533,7 +533,7 @@ MADDE 22 (1) İlgili mevzuatında belirtilen döner sermaye gelirlerinin tahakku
 
 **MADDE 31 –** (1) Bu Yönerge 01/04/2019 arihiede yürürlüge girer.
 
-Yürütme
+**Yürütme**
 
 MADDE: 32 - (1) Hazine ve Maliye Hakanliğran görüşü alnarak hazarlaran bu Yonerge bikamlerien Basan yurutur.
 

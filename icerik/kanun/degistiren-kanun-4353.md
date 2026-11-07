@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No: 4353 Kabul tarihi: 8/1/1943
+**<i>Kanun No: 4353 Kabul tarihi: 8/1/1943</i>**
 
 BİRİNCİ KISIM Teşkilât, vazife ve mesuliyet Birinci bölüm (Merkez ve vilâyetler teşkilâtı ve vazifeleri Teşkilât:
 
@@ -45,7 +45,7 @@ F) Müşavirliğe hağlı merkez ve vilâyetler teşkilâtının faaliyetlerini 
 
 Vazifeleriyle mükelleftir.
 
-Vilâyetler deki vazifeler:
+**<i>Vilâyetler deki vazifeler:</i>**
 
 **Madde 3 –** Vilâyet Muhakemat Müdürleri:
 
@@ -55,29 +55,29 @@ D) Vilâyete bağlı kazalardaki işleri senede en az bir defa teftiş etmek vey
 
 Vazifeleriyle mükelleftir.
 
-Bölge Muhakemat Müdürleri:
+**<i>Bölge Muhakemat Müdürleri:</i>**
 
 **Madde 4 –** Dâva ve icra işleri bir Muhakemat Müdürlüğü tesisini icabetıtirecek kadar fazla olmayan bir kaç vilâyete ait işler bu vilâyetlerden birinde teşkil olunacak bölge Muhakemat Müdürlüğüne bağlanabilir.
 
 Bölge Muhakemat Müdürleri 3 üncü maddede ve bu kanunun diğer maddelerinde yazılı vazifeleri görmekle mükelleftir.
 
-Vazifelerin ayrılması: [Madde 5 — Hukuk müşavirleriyle merkez Muhakemat Müdürü, müşavir avukat Ve avukatlar, yardımcı ve namzet avukatlar merkezde Sayta- _4_?78 (Resmî G Başhukuk müşavirliğine, vilâyetlerde Muhakemat Müdürlüklerine ve teşkilât olmıyan yerlerde defterdarlıklara, kaza Hazine avukatları, Malmüdürlüklerine bağlıdırlar.
+**<i>Vazifelerin ayrılması:</i>** [Madde 5 — Hukuk müşavirleriyle merkez Muhakemat Müdürü, müşavir avukat Ve avukatlar, yardımcı ve namzet avukatlar merkezde Sayta- _4_?78 (Resmî G Başhukuk müşavirliğine, vilâyetlerde Muhakemat Müdürlüklerine ve teşkilât olmıyan yerlerde defterdarlıklara, kaza Hazine avukatları, Malmüdürlüklerine bağlıdırlar.
 
-İkinci bölüm Tâyin, terfi ve mezuniyet Merkez memurlarının tâyin usulleri:
+**İkinci bölüm** Tâyin, terfi ve mezuniyet Merkez memurlarının tâyin usulleri:
 
 **Madde 6 –** Merkez teşkilâtı kadrolarında yazılı .memuriyetlerden Başhukuk müşaviri ve Muhakemat Umum Müdürü, Maliye Vekilinin teklifi te hukuk müşavirleriyle Merkez Muhakemat Müdürü, ve birinci sınıf müşavir avukatlar Başhukuk müşavirinin inhası ve vekâletin teklifi üzerine kararname ile, diğerleri Raşhu/kuk müşavirinin inhası ile doğrudan doğruya vekâletçe tâyin 'olunurlar. Başhukuk müşaviriyle Merkez Muhakemat. Müdürünün, hukuk müşavirlerinin ve müşavir avukatların tâyin ve terfilerinde 3656 numaralı kanunun altıncı maddesi hükümleri tatbik olunur.
 
-Vilâyet memurlarının tâyin usulleri:
+**<i>Vilâyet memurlarının tâyin usulleri:</i>**
 
 **Madde 7 –** Vilâyetler teşkilât kadrolarında yazılı memuriyetlerden birinci sınıf Muhakemat Müdürleri Başhukuk müşavirinin inhası ve vekâletin teklifi üzerine kararname ile ve diğer Muhakemat Müdürleriyle muavinleri, müşavir avukat ve Hazine avukatları ve yardımcı avukatlar Başhukuk müşavirinin inhasiyle vekâletçe tâyin olunur.
 
 Muhakemat müdürleriyle müşalvir avukatların tâyin ve terfileri 3656 numaralı kanunun 6 nci maddesi hükümlerine talbidir.
 
-Hazine avukat namzetliğine alınma şartları :
+<i>Hazine avukat namzetliğine</i> alınma şartları :
 
 **Madde 8 –** Hazine avukat namzetleri Türk Hukuk Fakültesi veya mektebi mezunları veya yabancı bir memleket hukuk fakültesinden, yahut Siyasal Bilgiler Okulundan mezun olup ta noksan kalan derslerden Hukuk Fakültesinde imtihan vererek tasdikname almış olanlar arasında müsabaka ile seçilirler. Bu maksatla her sene Hazine avukat namzetliğine alınacakların sayısı ve imtihan şartları ilân ve açılacak müsabakalarda muvaffak olanlar Hazine avukat namzetliğine tâyin olunur.
 
-Hazine yardımcı avukatlığına tâyin şartları :
+<i>Hazine yardımcı avukatlığına</i> tâyin şartları :
 
 **Madde 9 –** İki yıl namzetlikte çalışanlar avukatlık imtihanlarına girmeğe mecburdurlar.
 
@@ -87,7 +87,7 @@ Usulü dairesinde tevsik olunan mazeretleri sebebiyle imtihana girmiyenlerin nam
 
 Bu müddet geçtiği halde mazeretleri devam edenler başka vazifelere naklolunur. İmtihanda muvaffak olaeııyanlarm altı ay daha vazifelerine devam etmelerine müsaade olunalbilir. Bu müddetin hitamında yapılacak ikinci imtihanda dahi muvaffak olamıyanların namzetlik kayıtları silinir. Bu madde mucibince namzetlik kayıtları silinenlerin başka vazifelerde istihdamları caizdir.
 
-Yardımcı avukatlar :
+**<i>Yardımcı avukatlar :</i>**
 
 **Madde 10 –** İki yıl namzetlikte çalıştıktan sonra Avukatlık Kanununa tevfikan Adliye Vekâletince yapılacak imtihanlarda muvaffak olanlar derece sırası itibariyle münhal Hazine yardımcı avukatlıklarına terfi ettirilir ve terfi edenlere kadro maaşları tam olarak verilir.
 
@@ -95,23 +95,23 @@ Derece sırası itibariyle münhal Hazine yardımcı avukatlığına terfi ettir
 
 Hazine avukat namzetlerinin imtihan zamanları Maliye ve Adliye Vekillikleri arasında kararlaştırılır.
 
-Mecburi hizmet:
+**<i>Mecburi hizmet:</i>**
 
 **Madde 11 –** Avukatlık stajını Hazine avukat namzetliğinde geçirmiş olanlar namzetlikte geçen müddet hariç olmak üzere dort yıl hizmet etmeğe mecburdurlar.
 
 Ruhsatnameler ancak mecburi hizmetin ikmalinden sonra verilir.
 
-İki senede terfi :
+**<i>İki senede terfi :</i>**
 
 **Madde 12 –** Yardımcı avukatlık, Hazine avukatlığı ve müşavir avukatlık ayrı sınıflardır. Meslekî bilgi ve muvaffakiyet gösterenlerin Gazete) 18 k\\UNUSANİ 1943 her sınıfta bir defaya mahsus olmak üzere iki senede terfileri caizdir.
 
 Terfi edenlere kadro maaşları tam olarak verilir.
 
-Avukatların izinleri :
+**<i>Avukatların izinleri :</i>**
 
 **Madde 13 –** Avukat adedi birden fazla olan yerlerde Hazine avukatları mahkemelerin umumî tatili devam ettiği müddetçe izinli savılırlar. ıBu hukum, muşaıvirlerle «müşavir aıvukat, yardımcı ve namzet avukatlara ve Muhakemat Müdürlerine şâmil değildir. Mezuniyetin tatbik olunacağı yerleri ve bu yerlerde tatil zamanında mühim ve acele işlerin nasıl görüleceği ive hangi avukatların nöbetçi kalacakları vekillikçe tâyin olunur. Umumî tatilden faydalanamıyan avukata senede bir ay izin verilir. Hastalık sebebiyle verilecek izinlerle diğer memurların izinleri Memurin Kanununun umumî hükümlerine tabidir.
 
-Üçüncü bölüm İnzibati cezalar :
+**Üçüncü bölüm** İnzibati cezalar :
 
 **Madde 14 –** Hazine avukat namzetleriyle yardımcı avukatlar ve Hazine avukatları hakkında Memurin Kanununda yazılı inzibati cezalardan herhangi biri, Memurin Kanunundaki tertibe bakılmaksızın, tatbik olunabilir. Lüzum ve zaruret halinde vazifelerine de son verilebilir.
 
@@ -119,17 +119,17 @@ Bu hüküm, Iburo hizmetlerinde çalıştırılanlar hakkında Ibu hizmetlerde b
 
 Diğer memurlarla müşavirler, müşavir avukatlar ve «muhakemat müdürleri hakkında Memurin Kanununun inzibati cezalara ait umumî hükümleri tatbik olunur.
 
-Cezaların tatbik şekli :
+**<i>Cezaların tatbik şekli :</i>**
 
 **Madde 15 –** Avukat namzetleriyle yardımcı avukatlar ve avukatlar hakkındaki inzibati cezalar Başhukuk müşaviri ve Muhakemat Umum Müdürünün reisliği altında hukuk müşavirleri ve Merkez Muhakemat Müdürü ile bir müşavir avukattan teşkil, olunacak komisyon kararı üzerine vekillikçe tatbik olunur. Bu kararlar katî olup ıkazai hiç bir murakabeye tabi değildir.
 
 Vazifelerine son verilenlerin Hazine avukatlığından başka Devlet hizmet ve memuriyetlerinde kullanılmaları caizdir.
 
-Memurin Muhakemat Kanununun tatbiki:
+**<i>Memurin Muhakemat Kanununun tatbiki:</i>**
 
 **Madde 16 –** Vazifelerine mütaallik suçlardan dolayı maaşlı ve ücretli avukatlar hakkında Memurin Muhakemat Kanunu tatbik olunur.
 
-Yasaklar:
+**<i>Yasaklar:</i>**
 
 **Madde 17 –** İstifa suretiyle veya cezalı olarak vazifelerinden ayrılan hukuk müşavirleriyle müşavir avukat, avukat ve yardımcı avukatlar ve Muhakemat Müdürleri vazifelerinden ayrıldıkları tarihten itibaren bir yıl geçmedikçe Devlet idareleri (Hususi İdareler ve belediyeler dâhil) ve sermayesinin en az yarısı Devlete ait müessese ve teşekküller aleyhine dâva kabul ve iş takip etmekten ve rey vermekten ve istişare kabul etmekten memnudurlar. Dâva kabjl edenlerle ortak da olamazlar.
 
@@ -143,7 +143,7 @@ Hukuk müşavirleriyle müşavir avukatlar ve muhakemat müdürleri dahi bu sal�
 
 Hazine avukatı bulunmıyan yerlerdeki dâva ve icra işlerinde bu daireler âmirleri tarafından temsil olunur.
 
-Temsil salâhiyetinin kullanılması tarzı:
+**<i>Temsil salâhiyetinin kullanılması tarzı:</i>**
 
 **Madde 19 –** Dâva ve icra işlerinde temsil salâhiyetini haiz bulunanların bir listesi merkezde Muhakemat Umum Müdürlüğünce ve vilâyetlerle kazalarda muhakemat müdürleri ve olmıyan yerlerde defterdar 18 KÂNUNUSANİ 1943 (Resmî ve malmüdürleri tarafından o yerin Cumhuriyet Müddeiumumisine verilir. Bu listelerin birer nüshası müddeiumumililklerce mahkemelere ve icra dairelerine gönderilir.
 
@@ -153,14 +153,14 @@ Listelerde isimleri yazılı olanlar ve bütün müşavir avukatlar ve Devlet da
 
 Başhukuk müşavirliği ve Muhakemat Umum Müdürlüğü teşkilât kadrolarına dâhi] olanlardan Devlet dairelerini kaza mercilerinde avukat sıfatiyle temsil edenler hakkında Avukatlık Kanununun hükümleri dairesinde disiplin takibatı icrası, vazife gördükleri yerin barosuna aittir.
 
-Temsil salâhiyetinin şümulü:
+**<i>Temsil salâhiyetinin şümulü:</i>**
 
 **Madde 20 –** Merkez teşkilâtında temsil salâhiyetini haiz bulunanların bu salâhiyetleri merkez ve vilâyetlerle mülhakata ait bütün dâva ve icra takiplerine şamil, vilâyetlerdeki muhakemat müdürleriyle müşavir avukat, avukat ve yardımcı avukatların salâhiyetleri vilâyet merkez ve mülhakatına ve kaza avukatlarının salâhiyetleri yalnız kaza ve teşkilât olan nahiyelerdeki işlere münhasırdır. Temsil salâhiyeti mahdut olanlara diğer vilâyet ve kazalardaki işlerin takip ve müdafaasına memur edilmeleri halinde vekillikçe ayrıca selâhiyetname verilir. Bu salâhiyetnamelerin mahkeme ve icra dairelerine verilmesi mecburidir. Ankara'dan başka diğer vilâyet ve kaza avukatlarının Temyiz Mahkemesi ve Devlet Şûrası nezdinde temsil salâhiyetini kullanabilmeleri vekillikçe kendilerine ayrıca salâhiyet verilmiş olmasına bağlıdır.
 
-Devlet dairelerinin daire âmirleri veya serbest avukatlar tarafından temsili:
+<i>Devlet dairelerinin daire âmirleri</i> veya serbest avukatlar tarafından temsili:
 
 **Madde 21 –** Hazine avukatı bulunmıyan yerlerde daire âmirleri temsil salâhiyetlerini, sıfatlarını söylemek ve icabında hüviyetlerini tevsik etmek suretiyle kullanırlar. Devlet dairelerinin serbest bir avukat tarafından temsili Avukatlık Kanunu ile Hukuk Usulü Muhakemeleri Kanununun umumî hükümlerine tabidir.
 
-İdari dâvalarda temsil:
+**<i>İdari dâvalarda temsil:</i>**
 
 **Madde 22 –** İdarî dâvaların açılması, idareler aleyhine açılan bu nevi dâvaların takip ve müdafaası daire âmirlerine veya bu dairelerin bağlı bulundukları vekâletler hukuk müşavirlerine ait olup Devlet Şûrasındaki duruşmalarda bu daireler kendi âmirleri veya hukuk müşavirleri tarafından temsil olunur. Hazineyi ilgilendiren işlerde bu vazife

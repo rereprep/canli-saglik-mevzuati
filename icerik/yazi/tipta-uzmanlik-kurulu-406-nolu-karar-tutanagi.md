@@ -19,11 +19,11 @@ kontrol_edildi: true
 
 TIPTA UZMANLIK KURULU KARAR TUTANAĞI
 
-Toplantı Tarihi: 02 – 03 / 01 / 2014
+**Toplantı Tarihi**: 02 – 03 / 01 / 2014
 
-Toplantı No: 53
+**Toplantı No**: 53
 
-Karar No: 406
+**Karar No**: 406
 
 ### KARAR
 

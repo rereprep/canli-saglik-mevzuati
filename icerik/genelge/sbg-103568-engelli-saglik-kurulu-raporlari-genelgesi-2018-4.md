@@ -13,21 +13,21 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.45. Engelli Sağlık Kurulu Raporları Genelgesi (2018/4)
+**2.3.45. Engelli Sağlık Kurulu Raporları Genelgesi (2018/4)**
 
 SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - SOSYAL GÜVENLİK UYGULAMALARI DAİRESİ BAŞKANLIĞI
 16/02/2018 14:27 - 23642684 - 010.99 - E.99-306
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
-00063047878
+**00063047878**
 
 Sayı : 23642684/
 Konu : Engelli Sağlık Kurulu Raporları
 
-GENELGE
+**GENELGE**
 2018/4
 
 Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik'in Özürlü sağlık kurulu raporunun geçerlilik süresi başlıklı 13'üncü maddesinde
@@ -49,8 +49,8 @@ b) Yeni bir engel durumunun ortaya çıkması veya mevcut engellilik durumunda b
 c) Kurumların ilgili mevzuatları gereğince, gerekçesi belirtilerek yazılı kontrol muayenesi talebinde bulunulması durumunda sağlık kuruluşunca yeniden rapor düzenlenmesi,
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 23642684/
 Konu : Engelli Sağlık Kurulu Raporları
@@ -67,4 +67,4 @@ Prof. Dr. Eyüp GÜMÜŞ
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**

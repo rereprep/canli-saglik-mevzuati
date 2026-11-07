@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-9.2.4. Sözleşmeli Yönetici Performans Değerlendirme Yönergesi
+**9.2.4. Sözleşmeli Yönetici Performans Değerlendirme Yönergesi**
 
 ### SÖZLEŞMELİ YÖNETİCİ PERFORMANS DEGERLENDİRME YÖNERGESİ
 
@@ -190,4 +190,4 @@ c) Müdür yardımcıları, müdür için oluşturulmuş olan performans göster
 
 ### EKLER:
 
-Ek-1 Performans Gösterge Tablosu Ek-2 Yetkinlik Bazlı Performans Degerlendirme Formu Ek-3 İtiraz Başvuru Formu
+**Ek-1 Performans Gösterge Tablosu** Ek-2 Yetkinlik Bazlı Performans Degerlendirme Formu Ek-3 İtiraz Başvuru Formu

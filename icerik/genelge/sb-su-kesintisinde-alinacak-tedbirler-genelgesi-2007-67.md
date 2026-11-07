@@ -125,7 +125,7 @@ B- Yerel Yönetimlerce Alınması Gereken Tedbirler
 
 23. İlgili belediye personelinin hijyen ve dezenfeksiyonla ilgili bilgi açıkları varsa il sağlık teşkilatı ile işbirliği yapılarak eğitimleri sağlanmalıdır.
 
-C- Halkımızın Dikkat Etmesi Gereken Hususlar
+**C- Halkımızın Dikkat Etmesi Gereken Hususlar**
 
 1. Bina ve konutlarda kullanılan su depolarından temizliği yapılmamış olanlar hemen, daha sonra da belirli periyotlarla (kesinti olduğu dönemlerde 3 ayda bir, diğer dönemlerde 6 ayda bir) temizlenmeli ve bakımları yapılarak dezenfeksiyonu sağlanmalıdır.
 

@@ -22,7 +22,7 @@ Sayı: B100TSH0100012
 
 Konu: Yönerge
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 Bakanlığımız ile Çalışma ve Sosyal Güvenlik Bakanlığı tarafından hazırlanan İşyeri Hekimlerinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik 27/11/2010 tarihli ve 27768 sayılı Resmi Gazete'de yayımlanarak yürürlüğe girmiştir.
 
@@ -35,12 +35,12 @@ Bu kapsamda, toplum sağlığı merkezleri bünyesinde işyeri hekimliği hizmet
 Takdir ve tensiplerinize arz ederim.
 
 Dr. Seraceddin ÇOM
-Genel Müdür V.
+**Genel Müdür** V.
 
 Uygun görüşle arz ederim.
 …/…/2011
-Prof. Dr. Nihat TOSUN
-Müsteşar
+**Prof. Dr.** Nihat TOSUN
+**Müsteşar**
 
 OLUR
 …/…/2011
@@ -161,7 +161,7 @@ görevlendirilmesi zorunludur.
 
 a) Elliden az işçi çalıştıran işyeri işverenlerinin, kurumsal olarak talep edecekleri işyeri hekimliği hizmetleri kapsamında Ağır ve Tehlikeli İşler Yönetmeliğinde belirtilen ağır ve tehlikeli işlerde çalışan işçilerin işe giriş ve periyodik sağlık muayenelerini, Ek-2'de yer alan form örneğine göre yapar,
 
-b) Sorumlu hekimin verdiği diğer görevleri yapar.
+b) **Sorumlu hekimin verdiği diğer görevleri yapar.**
 
 (2) İşyeri hekimleri Bakanlık veya müdürlükçe öngörülen eğitimlere alınabilir. Bu durumda ilgili TSM tarafından, hekimin hizmet verdiği işyerlerine geçici yetkilendirme ile işyeri hekimi görevlendirmesi yapılır.
 
@@ -291,7 +291,7 @@ Adı Soyadı :
 
 T.C Kimlik No :
 
-Sicil No :
+**Sicil No :**
 
 Tarih ve İmza
 
@@ -305,7 +305,7 @@ Adı Soyadı :
 
 T.C Kimlik No :
 
-Sicil No :
+**Sicil No :**
 
 Tarih ve İmza
 
@@ -428,22 +428,22 @@ Tarih ve İmza
 | d) Psikolojik testler | |
 | e) Diğer | |
 
-KANAAT VE SONUÇ:
+**KANAAT VE SONUÇ:**
 
 1- ……………………………… işinde/işyerinde bedenen çalışmaya elverişlidir.
 
 2- Raporda işaret edilen arızalar tedavi edilmek koşuluyla elverişlidir.
 
-İMZA
+**İMZA**
 
-Adı ve Soyadı
-Diploma Tarih ve No:
-Diploma Tescil Tarih ve No:
-İşyeri Hekimliği Belgesi Tarih ve No:
+**Adı ve Soyadı**
+**Diploma Tarih ve No:**
+**Diploma Tescil Tarih ve No:**
+**İşyeri Hekimliği Belgesi Tarih ve No:**
 
 ### EK 3 TSM ADINA İL SAĞLIK MÜDÜRLÜĞÜ İLE İŞYERİ ARASINDA YAPILAN HİZMET SÖZLEŞMESİ
 
-TSM:
+**TSM:**
 Adı:
 Yetki Belgesi Tarih ve No:
 Adresi:
@@ -454,7 +454,7 @@ SGK/Bölge Müdürlüğü Sicil No:
 Vergi Dairesi/Sicil No:
 İşyerine verilecek işyeri hekimliği hizmet süresi:
 
-Görevlendirilen işyeri hekiminin:
+**Görevlendirilen işyeri hekiminin:**
 Adı ve Soyadı:
 T.C. Kimlik No:
 SGK Sicil No:
@@ -465,7 +465,7 @@ Uzmanlık alanı:
 İSG hizmeti vereceği süre:
 E-posta:
 
-Hizmet verilecek işyerinin:
+**Hizmet verilecek işyerinin:**
 Unvanı:
 Adresi:
 Tel No.:
@@ -479,11 +479,11 @@ Tehlike sınıfı:
 
 İş bu sözleşme İşyeri Hekimlerinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik hükümlerine uyulmak üzere müştereken imzalanmıştır.
 
-Tarih
+**Tarih**
 
-TSM adına
-İl Sağlık Müdürü
-İmza
+**TSM adına**
+**İl Sağlık Müdürü**
+**İmza**
 
 İşveren
 İmza
@@ -641,7 +641,7 @@ TSM adına
 Tarih
 …/…/20…
 İŞYERİ HEKİMİ
-KAŞE-İMZA
+**KAŞE-İMZA**
 
 ### EK 7 İŞYERİ SAĞLIK KAYIT DOSYASI İÇERİĞİ
 
@@ -718,7 +718,7 @@ KAŞE-İMZA
 | 20 | Meslek Hastalığı Tanısı veya Şüphesi Tarihi : — Meslek Hastalığı Tanısı veya Şüphesi ile Sevk Edilenin Çıktığı Bölüm İş : — Meslek Hastalığı Tanısı veya Şüphesi Türü : — Meslek Hastalığının Saptanma Şekli : Periyodik Muayene İle / Üst Kurum Sevki İle / Meslek Hast. Hast. / Diğer |
 | 21 | Düzenlenme Tarihi : …/…/…… — İşveren ve Vekilinin Adı Soyadı : — İmzası : — e-posta Adresi : |
 
-NOT: 1, 3, 5 ve 7 inci bölümler hem kaza, hem de meslek hastalığı bildirimi durumunda, 2 ve 6 ıncı bölümler sadece kaza bildirimi durumunda, 4 üncü bölüm ise sadece meslek hastalığı bildirimi durumunda doldurulacaktır.
+**NOT: 1, 3,** 5 ve 7 inci bölümler hem kaza, hem de meslek hastalığı bildirimi durumunda, 2 ve 6 ıncı bölümler sadece kaza bildirimi durumunda, 4 üncü bölüm ise sadece meslek hastalığı bildirimi durumunda doldurulacaktır.
 
 ### EK 9 İŞYERİ ZİYARET RAPOR FORMU
 

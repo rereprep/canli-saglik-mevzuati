@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.11. Kompozit Doku Nakli Merkezleri Yönergesi
+**2.2.11. Kompozit Doku Nakli Merkezleri Yönergesi**
 
 ### Kompozit Doku Nakli Merkezleri Yönergesi
 
@@ -40,7 +40,7 @@ kontrol_edildi: true
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) Doku tipleme laboratuarı: Verici adayı ile alıcıların doku tiplemelerini yapabilecek donanım ve personele sahip, Bakanlıkça açılma izni verilmiş/ruhsatlandırılmış laboratuvarları,
+b) **Doku tipleme laboratuarı:** Verici adayı ile alıcıların doku tiplemelerini yapabilecek donanım ve personele sahip, Bakanlıkça açılma izni verilmiş/ruhsatlandırılmış laboratuvarları,
 
 c) Donör: Beyin ölümünün gerçekleştiği yetkili kurulca tespit edilmiş ya da bir tabip tarafından kalp atımının durduğunun ve ölü olarak kabul edildiğinin tespitinden itibaren geçen ilk 3 saatlik süre içerisindeki kadavrayı,
 
@@ -54,7 +54,7 @@ f) Komisyon: Bu Yönerge çerçevesinde faaliyet gösterecek olan Kompozit Doku 
 
 g) Konsey: Kompozit Doku Nakli Konseyini,
 
-ğ) Kompozit doku nakli: Vücut bütünlüğünü bozan ve fonksiyon kaybına yol açacak şekilde kompozit doku kaybı olan hastalara form ve fonksiyon restorasyonu amacı ile yapılan ve yaşam kalitesini artırmak amacıyla uygulanan kompozit doku nakli ameliyesini,
+ğ) **Kompozit doku nakli:** Vücut bütünlüğünü bozan ve fonksiyon kaybına yol açacak şekilde kompozit doku kaybı olan hastalara form ve fonksiyon restorasyonu amacı ile yapılan ve yaşam kalitesini artırmak amacıyla uygulanan kompozit doku nakli ameliyesini,
 
 h) Merkez: Bu Yönerge kapsamına giren nakillerin uygulandığı tıbbi tedavi merkezlerini,
 
@@ -62,13 +62,13 @@ h) Merkez: Bu Yönerge kapsamına giren nakillerin uygulandığı tıbbi tedavi 
 
 i) Organ ve doku kaynağı merkezi: Beyin ölümü tespit edebilecek donanım ve personele sahip merkezleri,
 
-j) Ulusal Koordinasyon Kurulu (UKK): Ulusal Organ ve Doku Nakli Koordinasyon Kurulunu,
+j) **Ulusal Koordinasyon Kurulu (UKK):** Ulusal Organ ve Doku Nakli Koordinasyon Kurulunu,
 
-k) Vaskülarize Kompozit Doku: Tipik olarak ektoderm ya da mezodermden köken almış; deri, yağ dokusu, kas, sinir, lenf nodu, kemik ve kıkırdaktan en az ikisinin kombinasyonunu içeren ve nakledildiği alıcıda damar anastomozlan ile yaşatılan dokuları,
+k) **Vaskülarize Kompozit Doku:** Tipik olarak ektoderm ya da mezodermden köken almış; deri, yağ dokusu, kas, sinir, lenf nodu, kemik ve kıkırdaktan en az ikisinin kombinasyonunu içeren ve nakledildiği alıcıda damar anastomozlan ile yaşatılan dokuları,
 
 ## İKİNCİ BÖLÜM
 
-Kompozit Doku Nakli Bilimsel Danışma Komisyonu ve Kompozit Doku Nakli Konseyi
+**Kompozit Doku Nakli Bilimsel Danışma Komisyonu ve Kompozit Doku Nakli Konseyi**
 
 #### Komisyonun teşkili
 
@@ -134,7 +134,7 @@ g) Tip etiği uzmanı.
 
 ## ÜÇÜNCÜ BÖLÜM
 
-Merkezin Kuruluşu, Nakil Türleri, Personel Durumu ve Tıbbi Donanım
+**Merkezin Kuruluşu, Nakil Türleri, Personel Durumu ve Tıbbi Donanım**
 
 #### Kuruluş
 

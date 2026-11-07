@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-Yenidoğan SMA Taraması (2014/7 sayılı Genelge'ye ilişkin Değişiklik-2)
+**Yenidoğan SMA Taraması (2014/7 sayılı Genelge'ye ilişkin Değişiklik-2)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 Halk Sağlığı Genel Müdürlüğü
@@ -61,14 +61,14 @@ Doç. Dr. Tolga TOLUNAY
 Bakan a.  
 Bakan Yardımcısı
 
-EKLER:
+**EKLER:**
 
 1- Sevk Merkezleri ve İletişim Bilgileri Listesi (Dosya)  
 2- SMA Bilgilendirme Broşürü (2 sayfa)  
 3- SMA Pozitif Tarama Sonucu İdari Akış Şeması (2 sayfa)  
 4- NTP SMA Taraması Akış Şeması (1 sayfa)
 
-DAĞITIM:
+**DAĞITIM:**
 
 Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)  
 Bilgi: Türkiye İlaç ve Tıbbi Cihaz Kurumuna, Kamu Hastaneleri Genel Müdürlüğüne, Sağlık Bilgi Sistemleri Genel Müdürlüğüne, Sağlık Hizmetleri Genel Müdürlüğüne, Yönetim Hizmetleri Genel Müdürlüğüne

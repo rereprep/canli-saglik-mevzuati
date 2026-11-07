@@ -158,7 +158,7 @@ b) Sağlık tesisinin fiziki yapısı ile idari ve teknik kapasitesi doğrultusu
 
 c) Araştırma bütce formu, sağlık tesisi bütçe formu ve sağlık tesisi sözleşmesi,
 
-g) Amaç, kapsam, yöntem gibi çalışma basamaklarımın yer aldığı Türkçe protokol özeti,
+g) **Amaç**, kapsam, yöntem gibi çalışma basamaklarımın yer aldığı Türkçe protokol özeti,
 
 d) TITCK izni veya SHGM'nin görev alanına giren konularda SHOM'nin izni,
 
@@ -248,7 +248,7 @@ gibi yasal kesintiler düşülerek safi tutar belirlenir.
 
 **MADDE 18 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
-EK-1: (Değişik: 20.03.2024 tarihli ve 239758327 sayıl Bakan Oluru) ÇALIŞMA
+**EK-1: (Değişik: 20.03.2024 tarihli ve 239758327 sayıl Bakan** Oluru) ÇALIŞMA
 
 ### TÜRLERİNE GÖRE HİZMET VEREN PERSONEL ARASINDA PAY DAĞITIM ORANLARI (%85)*
 

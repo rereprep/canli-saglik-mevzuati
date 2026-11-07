@@ -18,7 +18,7 @@ kontrol_edildi: true
 
 T.C.
 SAĞLIK BAKANLIĞI
-Türkiye Halk Sağlığı Kurumu Başkanlığı
+**Türkiye Halk** Sağlığı Kurumu Başkanlığı
 
 Sayı: 19831278
 Konu: Birim Değerlendirme Formları

@@ -16,7 +16,7 @@ T.C.
 SAĞLIK BAKANLIĞI
 Acil Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : 54567092/9648
+**Sayı** : 54567092/9648
 Konu : Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslarda Değişiklik Yapılması
 
 ### BAKANLIK MAKAMINA
@@ -141,7 +141,7 @@ b) Yanık tedavisi ve kanser tedavisi (radyoterapi, kemoterapi, radyoizotop teda
 
 a) (Değişiklik: 04/11/2015-9648) Ayaktan teşhis ve/veya tedavi için Ek-1’deki geçici korunan hasta sevk formu 2 nüsha doldurularak sevk yapılır. Bu kapsamda yapılan sevklerin geçerlilik süresi 5 (beş) iş günüdür.
 
-b) Acil haller, yoğun bakım, yanık gibi ağır vaka olarak kabul edilen durumlar için Ek-1’deki geçici korunan hasta sevk formu doldurularak 112 Komuta Kontrol Merkezi koordinasyonunda sevk yapılır.
+b) <i>Acil</i> haller, yoğun bakım, yanık gibi ağır vaka olarak kabul edilen durumlar için Ek-1’deki geçici korunan hasta sevk formu doldurularak 112 Komuta Kontrol Merkezi koordinasyonunda sevk yapılır.
 
 (5) Geçici korunanların ikamet adresinin bulunduğu ilde tedavilerinin yapılamaması halinde, hasta tedavisinin yapılacağı uygun olan ve öncelikle en yakın ilden başlamak üzere diğer illerdeki sağlık kuruluşlarına sevkler 112 Komuta Kontrol Merkezi koordinasyonunda yapılır. Ayakta teşhis ve/veya tedavi için sevk edilecek geçici korunanlar, 112 Komuta Kontrol Merkezi koordinasyonunda sevk usulüne tabi değildir.
 

@@ -14,7 +14,7 @@ tarih: "2024-03-08"
 kontrol_edildi: true
 ---
 
-9.3.1. Merkez Teşkilatı Konut Tahsisi Genelgesi (2024/3)
+**9.3.1. Merkez Teşkilatı Konut Tahsisi Genelgesi (2024/3)**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI

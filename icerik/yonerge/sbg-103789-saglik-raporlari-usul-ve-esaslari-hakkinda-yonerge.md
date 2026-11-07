@@ -11,13 +11,13 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.6.Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
+**2.2.6.Sağlık Raporları Usul ve Esasları Hakkında Yönerge** 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
 
 ### SAĞLIK RAPORLARI USUL VE ESASLARI HAKKINDA YÖNERGE
 
 ## BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -159,7 +159,7 @@ e) Terör, kaza, maluliyet raporları hariç olmak üzere 3 (üç) aydan kısa s
 
 ## ALTINCI BÖLÜM
 
-Emniyet Teşkilatına Ahnacak Öğrenciler ve Memurlar Hakkında Düzenlenecek
+**Emniyet Teşkilatına Ahnacak Öğrenciler ve Memurlar Hakkında Düzenlenecek**
 
 ### Sağlık Kurulu Raporu
 
@@ -323,7 +323,7 @@ hususları aşağıda yer alan hükümlere uygun biçimde belirtilir.
 
 ## DOKUZUNCU BÖLÜM
 
-Silah Bulundurma veya Taşıma Ruhsatı Alacak Kişilere Verilecek Sağlık Kurulu
+**Silah Bulundurma veya Taşıma Ruhsatı Alacak Kişilere Verilecek Sağlık Kurulu**
 
 ### Raporu
 

@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.20. Öğretim Üyesi Tabiplerin Muayenehane Açma Başvuruları Hakkında Genelge (2023/8)
+**2.3.20. Öğretim Üyesi Tabiplerin Muayenehane Açma Başvuruları** Hakkında Genelge (2023/8)
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI

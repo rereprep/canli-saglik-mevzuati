@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.44. Erişkinler İçin Engellilik ve Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması Genelgesi (2019/06)
+**2.3.44. Erişkinler İçin Engellilik ve Çocuklar İçin Özel** Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması Genelgesi (2019/06)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü
@@ -70,7 +70,7 @@ Erişkin sağlık kurulunun teşkili ve çalışma usulü ilgi (b)'de kayıtlı 
 
 3) İkinci basamak sağlık kurum ve kuruluşlarında başhekim veya başhekimin görevlendireceği uzman hekim bir başhekim yardımcısı/uzman hekim; üçüncü basamak sağlık kurum ve kuruluşlarında başhekim veya başhekimin görevlendireceği uzman hekim bir başhekim yardımcısı/program yöneticisi/eğitim görevlisi/ana bilim dalı başkanı, kurul başkanı olabilir.
 
-II- Raporların Düzenlenmesi
+**II- Raporların Düzenlenmesi**
 
 Erişkinler için engellilik sağlık kurulu raporu ve çocuklar için özel gereksinim raporu (ÇÖZGER) ile terör, kaza ve yaralanmaya bağlı durum bildirir sağlık kurulu raporları ilgi (b) ve ilgi (c)'de kayıtlı Yönetmeliklerin 8 inci, 9 uncu ve 10 uncu maddelerine göre düzenlenir.
 
@@ -88,7 +88,7 @@ Erişkinler için engellilik sağlık kurulu raporu ve çocuklar için özel ger
 
 7) Çocuklar için özel gereksinim raporu (ÇÖZGER) düzenlenmesi sürecinde, Ek-1'de yer alan ÇÖZGER Danışım Formu, konsültasyon (danışım) amacıyla kullanılır.
 
-III- Raporların Geçerlilik Süresi ve Raporlara İtiraz
+**III- Raporların Geçerlilik Süresi ve Raporlara İtiraz**
 
 Raporların geçerlilik süresi ve raporlara itiraz hususu, ilgi (b) ve ilgi (c)'de kayıtlı Yönetmeliklerin 11 inci ve 12 nci maddelerinde düzenlenmiştir.
 
@@ -106,7 +106,7 @@ Raporların geçerlilik süresi ve raporlara itiraz hususu, ilgi (b) ve ilgi (c)
 
 7) İkinci rapora itirazın devamı hâlinde de, itiraz en fazla 30 gün içerisinde yapılabilir.
 
-IV- Diğer Hususlar
+**IV- Diğer Hususlar**
 
 1) Rapor vermeye yetkili sağlık kurum ve kuruluşlarında, kurul odasında her bir kurul üyesi için internete bağlı e-Rapor Sistemine HBYS üzerinden entegrasyonu tamamlanmış müstakil birer bilgisayar hazırlanır. Sağlık kurulu raporları Sağlık Bakanlığı e-Rapor Sistemi üzerinden hazırlanır. İmzalar, güvenli elektronik imza yöntemiyle atılacağı için, yoksa her kurul hekiminin güvenli elektronik imzası temin edilir ve elektronik imza işlemine hazır şekilde bulundurulur.
 

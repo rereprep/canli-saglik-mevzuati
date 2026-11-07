@@ -19,9 +19,9 @@ kontrol_edildi: true
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-Halk Sağlığı Genel Müdürlüğü
+**Halk Sağlığı Genel Müdürlüğü**
 
 Sayı: 19831278/
 

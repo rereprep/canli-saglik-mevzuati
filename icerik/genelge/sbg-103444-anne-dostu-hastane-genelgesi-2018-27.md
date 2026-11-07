@@ -17,8 +17,8 @@ kontrol_edildi: true
 ### T.C. SAĞLIK BAKANLIĞI
 Halk Sağlığı Genel Müdürlüğü
 
-Sayı : 57536863/010.06.02
-Konu : Anne Dostu Hastane
+**Sayı** : 57536863/010.06.02
+**Konu** : Anne Dostu Hastane
 
 ### GENELGE
 2018/27
@@ -27,7 +27,7 @@ Konu : Anne Dostu Hastane
 
 T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Kadın ve Üreme Sağlığı Dairesi Başkanlığı tarafından yukarıda bahsi geçen hedefler doğrultusunda Anne Dostu Hastane Programı geliştirilmiş ve belirli standartları karşılayan hastanelere "Anne Dostu Hastane" unvanı verilmesine ve sertifikalandırılmasına başlanmıştır.
 
-Anne Dostu Hastane Programı'nın uygulanmasına yönelik ulusal kriterler şunlardır:
+**Anne Dostu Hastane Programı'nın uygulanmasına yönelik ulusal kriterler şunlardır:**
 
 1. Güvenli ve kaliteli gebelik izlemi ve doğum hizmeti almak bütün anne adaylarının hakkıdır.
 2. Gebelik dönemi, travay, doğum ve doğum sonrası süreçlerde gerekli danışmanlık hizmetleri sunulmalıdır.
@@ -66,7 +66,7 @@ Bu kriterler doğrultusunda anne dostu hastane sertifikası almak isteyen hastan
 3.2. Aday hastanenin bağlı olduğu il sağlık müdürlüğü personeli değerlendirme ekibinde görev alamaz.
 3.3. Değerlendirme Ekip Sorumlusu; Koordinatör il sağlık müdürlüğü tarafından belirlenir. Mutlaka kadın hastalıkları ve doğum uzmanı olmalıdır. Ekip sorumlusu; değerlendirme görev paylaşımı, formların tam ve eksiksiz doldurulması ile değerlendirme sonunda ekiple birlikte hesaplamaların, "Değerlendirme Raporu ve Önerileri Formu"nun hazırlanmasından sorumludur.
 3.4. Değerlendirme ekip sekretaryası; Koordinatör il sağlık müdürlüğü tarafından belirlenir. Değerlendirmede kullanılan formların hazırlanması ve değerlendirme dosyasının, "Değerlendirme Raporu ve Önerileri Formu"nun ilgili birimlere gönderilmesinden sorumludur.
-3.5. Kadın Hastalıkları ve Doğum Uzmanı Hekimler; Doğum Ünitesi Standartlarını Değerlendirme ve İzleme Formu (Form 2), Anne Dostu Hastane Gözleme Dayalı Değerlendirme Formu (Form 5) ile Sağlık Personeli Görüşme Formu'nun (Form 4) (kadın hastalıkları ve doğum uzmanları ve başhekim yardımcısı ile yapılan görüşmelerde) doldurulmasından sorumludur.
+**3.5. Kadın** Hastalıkları ve Doğum Uzmanı Hekimler; Doğum Ünitesi Standartlarını Değerlendirme ve İzleme Formu (Form 2), Anne Dostu Hastane Gözleme Dayalı Değerlendirme Formu (Form 5) ile Sağlık Personeli Görüşme Formu'nun (Form 4) (kadın hastalıkları ve doğum uzmanları ve başhekim yardımcısı ile yapılan görüşmelerde) doldurulmasından sorumludur.
 3.6. Doktor/ebe/hemşireler; Hastanede Sunulan Hizmetlere Dair Anne Görüşleri Formu (Form 3) ve Sağlık Personeli Görüşme Formu'nun (Form 4) (ebe/hemşireler ile yapılan görüşmelerde) doldurulmasından sorumludur.
 3.7. Diğer Ekip Üyeleri; kadın hastalıkları ve doğum uzmanı ile birlikte Doğum Ünitesi Standartlarını Değerlendirme ve İzleme Formu (Form 2), Anne Dostu Hastane Gözleme Dayalı Değerlendirme Formu'nun (Form 5) doldurulmasından sorumludur.
 3.8. Tüm ekip üyeleri belirtilen sorumluluklara ek olarak formların doldurulması sonrasında hep birlikte Anne Dostu Hastane Değerlendirme Formu'na (Form 6) diğer formların aktarılarak puan hesaplamasının yapılmasından sorumludur.
@@ -76,7 +76,7 @@ Bu kriterler doğrultusunda anne dostu hastane sertifikası almak isteyen hastan
 4.1. Değerlendirme sırasında kullanılacak doküman "Anne Dostu Hastane Değerlendirmeci Rehberi"dir. Rehber doğrultusunda formlar doldurularak puanlanır.
 4.2. Doğum Ünitesi Standartları Değerlendirme ve İzleme Formu (Form 2) doldurulur, puanlanır. Formdan en az 70 puan ve üzeri alınması gereklidir.
 4.3. Hastanede Sunulan Hizmetlere Dair Anne Görüşleri Formu (Form 3) açıklamalar doğrultusunda doldurulur ve özetlenir. Formdaki toplam cevaplardan en az % 70 ve üzeri alması gereklidir.
-4.4. Sağlık Personeli Görüşme Formu (Form 4) açıklamalar doğrultusunda doldurulur ve özetlenir. Formdaki toplam cevaplardan en az % 70 ve üzeri alması gereklidir.
+**4.4. Sağlık** Personeli Görüşme Formu (Form 4) açıklamalar doğrultusunda doldurulur ve özetlenir. Formdaki toplam cevaplardan en az % 70 ve üzeri alması gereklidir.
 4.5. Anne Dostu Hastane Gözleme Dayalı Değerlendirme Formu (Form 5) doldurulur.
 4.6. Değerlendirme ekibi tarafından doldurulan formlar Anne Dostu Hastane Değerlendirme Formu'na (Form 6) aktarılarak puanlanır. Hastanenin bu formdaki her bölümden 10 puan üzerinden en az 7 puan alması ve toplamda en az 70 puan alması gereklidir.
 4.7. Değerlendirmede kullanılan formlarda geçen zorunlu kriterlerin %100'ünün karşılanması gereklidir.
@@ -105,7 +105,7 @@ Gereğini ve ilgililere emirlerinizi önemle rica ederim.
 
 Prof. Dr. Emine ALP MEŞE
 Bakan a.
-Bakan Yardımcısı
+**Bakan** Yardımcısı
 
 ### EKLER:
 1. Anne Dostu Hastane Katılımcı Rehberi

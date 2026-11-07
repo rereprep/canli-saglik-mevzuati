@@ -38,7 +38,7 @@ Uygulamanın titizlikle takibi ile genelgeye aykırı hareket eden personel hakk
 Bilgilerinizi ve gereğini rica ederim.
 
 **Prof. Dr. Nihat TOSUN**  
-Bakan a.  
+**Bakan a.**  
 Müsteşar
 
 **Dağıtım**  

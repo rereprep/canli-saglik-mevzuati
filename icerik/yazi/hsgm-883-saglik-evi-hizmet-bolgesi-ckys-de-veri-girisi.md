@@ -11,8 +11,8 @@ duzeltildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Türkiye Halk Sağlığı Kurumu
+**SAĞLIK BAKANLIĞI**
+**Türkiye Halk Sağlığı Kurumu**
 
 Sayı : 58271140/605.01
 Konu : Sağlık Evi Hizmet Bölgesi
@@ -50,10 +50,10 @@ Gereği:
 # EKRAN
 
 CÜMELER ARASI ORTAK VERİLER BİLGİ SİSTEMİ
-Sorgula  Engelle  Kayıt  Alan  Yardım  Pencere
+**Sorgula  Engelle  Kayıt  Alan  Yardım  Pencere**
 [?]NLİĞİ BİRİM BİLGİLERİ
 
-Kuruma Özgü Bilgiler | Faaliyetler | Yan Birimler | Kurum Sorgulama | Bina Bilgileri | Servis Seviyeleri
+**Kuruma Özgü Bilgiler** | Faaliyetler | Yan Birimler | Kurum Sorgulama | Bina Bilgileri | Servis Seviyeleri
 
 Bu buton sorgu ba[?]
 butonudur Bir kere [?]
@@ -81,16 +81,16 @@ SAĞLIK EVİ
 UZÖREN SAĞLIK EVİ
 UZÖREN UŞAK
 
-Faaliyet Durumu: 0  FAAL
+**Faaliyet Durumu**: 0  FAAL
 Açılış Trh./No.: 23/07/2009  9073
 
-Bağlı Olduğu Birim
+**Bağlı Olduğu Birim**
 Sicil Bakımından ..: 732682  UŞAK HALK SAĞLIĞI MÜDÜRLÜĞÜ
 Dön. Ser. Saymanlığı 14500 UŞAK SAĞLIK KURUMLARI DÖNER SERMAY[?]
 
 Ekrana ilimizdeki faal olan ilk s[?]
 geldiğinde Hizmet verdiği Nüf[?]
-karşısındaki KÖYLER butonuna [?]
+**karşısındaki KÖYLER butonuna** [?]
 
 # EKRAN
 
@@ -151,13 +151,13 @@ Bul: 32%
 
 Sağlık hizmet bölgesindeki tü[?]
 işaretlendikten sonra çarpı ([?])
-kapatınız.
+**kapatınız.**
 
-Her bir sağlık evi hizmet verd[?]
-F10 veya kayıt ikonuna basara[?]
+**Her bir sağlık evi hizmet verd**[?]
+**F10 veya kayıt ikonuna basara**[?]
 
 Faaliyet Durumu: 0 — FAAL
 Açılış Trh./No.: 23/07/2009 — 9073
-Kapatılma Trh./No.:
+**Kapatılma Trh./No.**:
 
-Tamam İptal Bul
+**Tamam** İptal Bul

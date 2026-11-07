@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.6. Sağlık Raporları Usul ve Esasları Hakkında Yönerge 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
+**2.2.6. Sağlık Raporları Usul ve Esasları Hakkında Yönerge** 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
 
 ### Bakanlık Makamına sunuş yazısı (kitap s. 39)
 
@@ -82,7 +82,7 @@ t) Yükümlü: Yoklama ve sevke tabi er ile yoklama ve sevke tabi yedek subay ad
 
 ### İKİNCI BÖLÜM
 
-Başvuru Esasları
+**Başvuru Esasları**
 
 #### Kimlik tespiti
 
@@ -240,7 +240,7 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflar.
 
 (5) Uzman hekim/hekimlerce sürücü/sürücü adayının özel tertibatlı araç kullanmasına karar verilmesi halinde hangi sınıf sürücü belgesi alabileceği ve kod tablosunda belirtilen kodlar yazılmadan "Komisyona sevk" kutucuğu işaretlenerek il/ilçe sağlık müdürlüğü bünyesinde kurulan komisyona gönderilir. (20/10/2020/4959 Yürürlük: 20/10/2020) Komisyona sevk edilen kişiler en geç 30 (otuz) gün içinde komisyona başvurmak zorundadır.
 
-(6) "Sürücü olamaz" kutucuğu işaretlenip sürücü olamaz kararı verilen raporlar, il/ilçe sağlık müdürlüğündeki komisyona sevk edilemez. Bu karara kişilerin itirazı halinde Yönerge' nin 38'inci maddesi Sürücü/Sürücü Adayı Raporlarına İtiraz başlığına göre işlem tesis edilir.
+(6) <i>"Sürücü</i> olamaz" kutucuğu işaretlenip sürücü olamaz kararı verilen raporlar, il/ilçe sağlık müdürlüğündeki komisyona sevk edilemez. Bu karara kişilerin itirazı halinde Yönerge' nin 38'inci maddesi Sürücü/Sürücü Adayı Raporlarına İtiraz başlığına göre işlem tesis edilir.
 
 (7) Üçüncü kısım birden fazla uzman hekim tarafindan doldurulacaksa ortak kullanılır. Birden fazla uzman hekim tarafindan rapor düzenlendiğinde her uzman hekim, kendi uzmanlık alanına göre sürücü/sürücü adayının sürücü belgesi alıp alamayacağını raporda belirtir.
 
@@ -328,7 +328,7 @@ hususları aşağıda yer alan hükümlere uygun biçimde belirtilir.
 
 ## DOKUZUNCU BÖLÜM
 
-Silah Bulundurma veya Taşıma Ruhsatı Alacak Kişilere Verilecek Sağlık Kurulu
+**Silah Bulundurma veya Taşıma Ruhsatı Alacak Kişilere Verilecek Sağlık Kurulu**
 
 #### Yivli silah ruhsatı almak isteyenlerin muayenelerine ilişkin genel esaslar
 
@@ -464,7 +464,7 @@ d) Aile hekimliği sözleşmesi imzalayan aile hekimliği uzmanı ve diğer uzma
 
 ## ONİKİNCİ BÖLÜM
 
-Raporlara itiraz
+**Raporlara itiraz**
 
 #### Sağak kurulu raporlarına itiraz işlemlerı
 
@@ -586,7 +586,7 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 ## ONÜÇÜNCÜ BÖLÜM
 
-Ortak ve Son Hükümler
+**Ortak ve Son Hükümler**
 
 #### Ortak hükümler
 

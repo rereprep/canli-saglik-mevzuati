@@ -15,7 +15,7 @@ kontrol_edildi: true
 
 ### SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı: 54567092
 
@@ -29,7 +29,7 @@ b) Tedavi Hizmetleri Genel Müdürlüğü'nün 22/03/2011 tarihli ve 12894 sayı
 
 c) Sağlık Eğitimi Genel Müdürlüğü'nün 15/04/2011 tarihli ve 5662 sayılı 2011/33 Nolu Genelgesi.
 
-ç) Sağlık Hizmetleri Genel Müdürlüğü'nün 08/05/2014 tarihli ve 54567092/485 sayılı 81 Valiliğe dağıtımlı yazısı
+ç) **Sağlık Hizmetleri Genel Müdürlüğü**'nün 08/05/2014 tarihli ve 54567092/485 sayılı 81 Valiliğe dağıtımlı yazısı
 
 Bilindiği üzere uzmanlık öğrencilerinin hakları ile görev ve yetkileri 26.04.2014 tarihli ve 28983 sayılı Resmî Gazete’de yayımlanarak yürürlüğe girmiş bulunan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği ve ilgide kayıtlı Bakanlığımız Genelgeleri ile belirlenmiştir. Sağlık hizmetlerine önemli katkı sağlayan uzmanlık öğrencilerinin eğitimlerinin daha etkili ve verimli yürütülmesinin sağlanması, hasta ve çalışan güvenliğinin korunması amacıyla, uzmanlık öğrencilerinin kurumlardaki çalışma usul ve esaslarına ilişkin olarak Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği hükümlerine ve aşağıdaki hususlara riayet edilmesi gerekmektedir.
 
@@ -59,7 +59,7 @@ Prof. Dr. Recep AKDAĞ
 
 ### DAĞITIM
 
-Gereği:
+**Gereği:**
 
 - 81 İl Valiliği (İl Sağlık Müdürlüğü)
 

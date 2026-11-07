@@ -15,7 +15,7 @@ kontrol_edildi: true
 ---
 
 
-11.3.7. Kamu İdarelerine Bağlı Sağlık Kurum ve Kuruluşlarının Birbirlerinden Yapacakları Mal ve Hizmet Alımları Genelgesi (2018/01)
+**11.3.7. Kamu İdarelerine Bağlı Sağlık Kurum ve Kuruluşlarının** Birbirlerinden Yapacakları Mal ve Hizmet Alımları Genelgesi (2018/01)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Strateji Geliştirme Başkanlığı
@@ -32,7 +32,7 @@ Anılan hükmün uygulamasını sağlamak üzere Maliye Bakanlığı'nca Bakanl�
 
 Öte yandan 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 1 inci maddesi ile Bakanlığımıza döner sermaye işletmeleri kurulabilmesi ve döner sermaye işletmelerinin kurulması ve işletilmesine dair usûl ve esasların Bakanlığımızca belirlenmesine, 3 üncü maddesi ile de bu Kanuna tâbi döner sermayeli işletmelerin gerekli gördükleri hallerde ihtiyaç duydukları mal ve hizmetleri belirleyecekleri fiyat üzerinden, birbirlerinden temin edebilmelerine imkân tanınmıştır.
 
-694 sayılı KHK ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'de değişikliğe gidilerek Bakanlık ve bağlı kuruluşlarının merkez ve taşra teşkilatı yeniden yapılandırılmıştır. Bu çerçevede 03.10.2017 tarihli ve E.99-855 sayılı genel yazımız ile İl Sağlık Müdürlüklerinde, Sağlık Müdürlüğü İşletme Birimi ve bağlı sağlık tesisleri işletme birimlerinden müteşekkil (Bundan sonra işletme birimi olarak ifade edilecektir.) İl Sağlık Müdürlüğü Döner Sermaye İşletmesi kurulmasına dair usul ve esaslar belirlenmiştir.
+694 sayılı KHK ile 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'de değişikliğe gidilerek Bakanlık ve bağlı kuruluşlarının merkez ve taşra teşkilatı yeniden yapılandırılmıştır. Bu çerçevede 03.10.2017 tarihli ve E.99-855 sayılı genel yazımız ile İl Sağlık Müdürlüklerinde, Sağlık Müdürlüğü İşletme Birimi ve bağlı sağlık tesisleri işletme birimlerinden müteşekkil <i>(Bundan</i> sonra işletme birimi olarak ifade edilecektir.) İl Sağlık Müdürlüğü Döner Sermaye İşletmesi kurulmasına dair usul ve esaslar belirlenmiştir.
 
 Bu yeni yapılanma doğrultusunda;
 
@@ -112,7 +112,7 @@ Strateji Geliştirme Başkanlığı bedelinin üzerine sadece kanuni kesintiler 
 
 3. Fiyatlandırma aşağıdaki şekilde yapılacaktır.
 
-a) Mal alımlarinda; İlgili tarifeleri ile fiyatları belirlenmiş olanların bedeli; tarifesindeki fiyat esas alınarak belirlenecek ve bu fiyat üzerinden faturalandırılacaktır.
+a) **Mal alımlarinda;** İlgili tarifeleri ile fiyatları belirlenmiş olanların bedeli; tarifesindeki fiyat esas alınarak belirlenecek ve bu fiyat üzerinden faturalandırılacaktır.
 
 2) Tarifelerinde fiyatı bulunmayan ve amortismana tabi olmayan malların bedeli; maliyetinin üzerine %10 ilave edilerek belirlenecek ve bu fiyat üzerinden faturalandırılacaktır. tarafından Taşınır Mal Yönetmeliği esaslarıma göre belirlenecektir.
 
@@ -150,7 +150,7 @@ Meteyar Ekler: 1- Protokol Taslağı (1 Adet-2 sayfa) 2- Muhasebeleştirme Örne
 
 ### DAĞITIM
 
-Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+**Gereği:** 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
 Bilgi: B Planı (İI Saglık Mudorlugu) B Planı
 

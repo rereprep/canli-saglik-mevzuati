@@ -39,7 +39,7 @@ Bakan Yardımcısı
 
 Dağıtım:
 
-Gereği:
+**Gereği:**
 81 İl Valiliği (İl Sağlık Müdürlüğü)
 
 Halk Sağlığı Genel Müdürlüğü

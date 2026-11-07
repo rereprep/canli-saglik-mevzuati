@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 İspirtolu İçkilerin Vasıflariyle Bira Fabrika ve İmlâhanelerinin Kontrol ve Muayeneleri hakkında Nizamname
 
-BÎRÎNCİ FASİL Nizamnamenin Şümulü
+**BÎRÎNCİ FASİL** Nizamnamenin Şümulü
 
 **Madde 1 –** İspirtolu içkilerin vasıflarıyla bira fabrika ve imlâhanelerinin sıhhî ve teknik bakımdan haiz olması lâzım gelen vasıflar ve bira fabrika ve imlâhanelerinin kontrol ve muayenelerine ait işlemler bu Nizamnamede gösterilmiştir.
 
@@ -78,7 +78,7 @@ j) Biralar, dayanıklılığı temin için pastörize edilmiş olacak ve pastör
 
 **Madde 14 –** Biranın ve bu nizamname mevzuuna giren diğer ispirtolu içkilerin, sıhhi vasıfları ve kullanıldıkları kabların haiz olması lâzımgelen şartlan hakkında (Gıda maddelerinin ve umumi sağlığı ilgilenriden eşya ve levazımın hususi vasıflarını gösteren Nizamname) hükümleri tatbik olunur
 
-ÜÇÜNCÜ FASIL
+**ÜÇÜNCÜ FASIL**
 
 ### Bira fabrika ve imalâthanelerinin teknik ve sıhhî bakımdan haiz olması lâzımgelen vasıfları ile bunların kontrol ve muayenelerine ait hükümler
 

@@ -39,7 +39,7 @@ Bu hususlara azami derecede dikkat edilerek neticeden bilgi verilmesini önemle 
 
 Uz. Dr. Cihanser EREL
 
-Müsteşar V.
+**Müsteşar** V.
 
 ### DAĞITIM:
 

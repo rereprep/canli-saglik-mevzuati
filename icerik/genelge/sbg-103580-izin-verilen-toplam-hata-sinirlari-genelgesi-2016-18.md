@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.52. İzin Verilen Toplam Hata Sınırları Genelgesi (2016/18)
+**2.3.52. İzin Verilen Toplam Hata Sınırları Genelgesi (2016/18)**
 
 ### T.C. SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - SAĞLIK BAKANLIĞI - TIBBİ LABORATUVAR HİZMETLERİ DAİRE BAŞKANLIĞI
 

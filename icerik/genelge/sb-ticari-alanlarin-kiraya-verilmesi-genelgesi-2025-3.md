@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.13. Ticari Alanların Kiraya Verilmesi Genelgesi (2025/3)
+**7.3.13. Ticari Alanların Kiraya Verilmesi Genelgesi (2025/3)**
 
 T.C.
 SAĞLIK BAKANLIĞI

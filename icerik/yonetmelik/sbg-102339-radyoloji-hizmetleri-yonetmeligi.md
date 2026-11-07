@@ -146,37 +146,37 @@ e) Ultrasonografi ve doppler cihaz odasında hasta mahremiyetini sağlayacak şe
 
 **MADDE 7 –** (1) (Değişik:RG-22/5/2024-32553) Radyoloji hizmetlerinin, kaliteli ve verimli şekilde sunulması, sağlık insan gücü ve nitelikleri ile teknoloji yoğunluklu radyoloji merkezi cihazlarının ülke düzeyinde dengeli dağılımının sağlanması, kaynak israfı ve atıl kapasiteye yol açılmaması amacıyla bu Yönetmelik kapsamında faaliyetine ihtiyaç duyulan radyoloji merkezleri Bakanlıkça planlanır ve faaliyetlerini yürütür.
 
-(2) (Değişik:RG-25/4/2023-32171) Bakanlığa ait sağlık kuruluşları hariç olmak üzere merkez açılmadan önce Bakanlıktan ön izin alınması şarttır. Ön izin başvurusu, özel hastanelerde ve tıp merkezlerinde mesul müdür ve özel hukuk tüzel kişilerinde, tüzel kişiliği temsile yetkili olanlar tarafından yapılır.
+(2) **(Değişik:RG-25/4/2023-32171)** Bakanlığa ait sağlık kuruluşları hariç olmak üzere merkez açılmadan önce Bakanlıktan ön izin alınması şarttır. Ön izin başvurusu, özel hastanelerde ve tıp merkezlerinde mesul müdür ve özel hukuk tüzel kişilerinde, tüzel kişiliği temsile yetkili olanlar tarafından yapılır.
 
 (3) Ön izin başvurusu, Bakanlıkça planlama kapsamında sonuçlandırılarak uygun görülenlere EK-1’de yer alan ön izin belgesi verilir.
 
 (4) Ön izin belgesi, alındığı tarihten itibaren bir yıl içerisinde ruhsat veya faaliyet izin belgesi alınmaması hâlinde iptal edilir. Ön izin belgesi, ruhsat veya faaliyet izin belgesi yerine geçmez ve devredilemez.
 
-(5) (Değişik:RG-25/4/2023-32171) Bakanlıktan ön izin belgesi alınmadan NDK’ye yetkilendirme başvurusu yapılamaz.
+(5) **(Değişik:RG-25/4/2023-32171)** Bakanlıktan ön izin belgesi alınmadan NDK’ye yetkilendirme başvurusu yapılamaz.
 
 #### Başvuru, ruhsat veya faaliyet izin belgesi
 
 **MADDE 8 –** (1) Radyoloji merkezleri, Bakanlıkça düzenlenen ruhsat/faaliyet izin belgesi ile açılır.
 
-(2) (Değişik:RG-25/4/2023-32171) Mesul müdür tarafından, ruhsat veya faaliyet izin belgesi düzenlenmesi talebiyle EK-2’de yer alan başvuru formu ve EK-3’te yer alan belgeler ile Müdürlüğe başvurulur.
+(2) **(Değişik:RG-25/4/2023-32171)** Mesul müdür tarafından, ruhsat veya faaliyet izin belgesi düzenlenmesi talebiyle EK-2’de yer alan başvuru formu ve EK-3’te yer alan belgeler ile Müdürlüğe başvurulur.
 
-(3) (Değişik:RG-25/4/2023-32171) Dosyada eksiklik veya uygunsuzluk olmaması halinde, Müdürlük tarafından oluşturulan ekip tarafından EK-13’te yer alan Yerinde İnceleme ve Değerlendirme Formu kullanılarak yerinde inceleme yapılır. İnceleme ve değerlendirmede eksiklik bulunmaması halinde, inceleme ve değerlendirme raporu ve başvuru dosyası Bakanlığa gönderilir.
+(3) **(Değişik:RG-25/4/2023-32171)** Dosyada eksiklik veya uygunsuzluk olmaması halinde, Müdürlük tarafından oluşturulan ekip tarafından EK-13’te yer alan Yerinde İnceleme ve Değerlendirme Formu kullanılarak yerinde inceleme yapılır. İnceleme ve değerlendirmede eksiklik bulunmaması halinde, inceleme ve değerlendirme raporu ve başvuru dosyası Bakanlığa gönderilir.
 
-(4) (Değişik:RG-22/5/2024-32553) Bakanlıkça incelenen ruhsat veya faaliyet izin belgesi başvuru dosyasının uygun bulunması halinde, merkez adına EK-4a’da yer alan radyoloji merkezi ruhsat/faaliyet izin belgesi, EK-4b’de yer alan merkez sorumlusu belgesi düzenlenir ve Müdürlüğe gönderilir. Mesleğini serbest olarak icra eden radyoloji uzmanı tarafından açılan merkezler için EK- 5’te yer alan mesul müdür belgesi Müdürlükçe düzenlenir.
+(4) **(Değişik:RG-22/5/2024-32553)** Bakanlıkça incelenen ruhsat veya faaliyet izin belgesi başvuru dosyasının uygun bulunması halinde, merkez adına EK-4a’da yer alan radyoloji merkezi ruhsat/faaliyet izin belgesi, EK-4b’de yer alan merkez sorumlusu belgesi düzenlenir ve Müdürlüğe gönderilir. Mesleğini serbest olarak icra eden radyoloji uzmanı tarafından açılan merkezler için EK- 5’te yer alan mesul müdür belgesi Müdürlükçe düzenlenir.
 
-(5) (Değişik:RG-25/4/2023-32171) Radyoloji hizmeti, gözetimli radyoloji birimi kapsamında yürütülecekse mesul müdür tarafından EK-8’de yer alan gözetimli radyoloji birimi izin belgesi başvuru formu doldurularak Müdürlüğe başvuru yapılır. Müdürlük tarafından oluşturulan ekip tarafından EK- 13’te yer alan Yerinde İnceleme ve Değerlendirme Formu kullanılarak yerinde inceleme yapılır. Başvurunun uygun bulunması halinde Müdürlükçe EK-9’da yer alan gözetimli radyoloji birimi izin belgesi düzenlenir.
+(5) **(Değişik:RG-25/4/2023-32171)** Radyoloji hizmeti, gözetimli radyoloji birimi kapsamında yürütülecekse mesul müdür tarafından EK-8’de yer alan gözetimli radyoloji birimi izin belgesi başvuru formu doldurularak Müdürlüğe başvuru yapılır. Müdürlük tarafından oluşturulan ekip tarafından EK- 13’te yer alan Yerinde İnceleme ve Değerlendirme Formu kullanılarak yerinde inceleme yapılır. Başvurunun uygun bulunması halinde Müdürlükçe EK-9’da yer alan gözetimli radyoloji birimi izin belgesi düzenlenir.
 
-(6) (Değişik:RG-25/4/2023-32171) Radyoloji merkezi dışındaki üniteler için mesul müdür tarafından EK-6’da yer alan ünite izin belgesi başvuru formu ile Müdürlüğe başvuru yapılır. Müdürlük tarafından oluşturulan ekip tarafından EK-13’te yer alan Yerinde İnceleme ve Değerlendirme Formu kullanılarak yerinde inceleme yapılır. Başvurunun uygun bulunması halinde Müdürlükçe EK-7’de yer alan ünite izin belgesi düzenlenir.
+(6) **(Değişik:RG-25/4/2023-32171)** Radyoloji merkezi dışındaki üniteler için mesul müdür tarafından EK-6’da yer alan ünite izin belgesi başvuru formu ile Müdürlüğe başvuru yapılır. Müdürlük tarafından oluşturulan ekip tarafından EK-13’te yer alan Yerinde İnceleme ve Değerlendirme Formu kullanılarak yerinde inceleme yapılır. Başvurunun uygun bulunması halinde Müdürlükçe EK-7’de yer alan ünite izin belgesi düzenlenir.
 
 (7) (Ek:RG-22/5/2024-32553) Birinci basamak kamu sağlık hizmet sunucularında kullanılan röntgen ve mamografi cihazları ile işyerlerinde çalışanların sağlık gözetimine yönelik; ortak sağlık ve güvenlik birimleri, işyeri sağlık ve güvenlik birimleri ve çalışan sağlığı merkezleri tarafından kullanılan röntgen cihazları Müdürlüğe bildirilir. Bu cihazlar Müdürlükçe Bakanlık veri tabanına kaydedilir.
 
 (8) Radyoloji merkezi, ünite ve gözetimli radyoloji birimi bünyesinde kurulu olan cihazın ismi, markası, üretim yılı ve seri numarası ruhsata, faaliyet izin belgesine ve izin belgesine işlenir.
 
-(9) (Değişik:RG-25/4/2023-32171) Düzenlenen belgelerin bir örneği ve başvuru dosyası Müdürlük tarafından muhafaza edilir. Ruhsat, faaliyet izin belgesi ve izin belgesi ile mesul müdür belgesi aslı mesul müdüre imza karşılığında teslim edilir.
+(9) **(Değişik:RG-25/4/2023-32171)** Düzenlenen belgelerin bir örneği ve başvuru dosyası Müdürlük tarafından muhafaza edilir. Ruhsat, faaliyet izin belgesi ve izin belgesi ile mesul müdür belgesi aslı mesul müdüre imza karşılığında teslim edilir.
 
 (10) Ruhsatın, faaliyet izin belgesinin veya izin belgesinin tanzim edilmesinden itibaren bir yıl içinde fiilen faaliyete geçmeyen merkezin ruhsatı, faaliyet izin belgesi veya izin belgesi iptal edilir.
 
-(11) (Değişik:RG-25/4/2023-32171) Sağlık kurum ve kuruluşu bünyesinde, birden fazla radyoloji merkezi bulunması durumunda; her bir radyoloji merkezi için yeri ve konumu belirtilecek şekilde mesul müdür tarafından ayrı ayrı başvuru yapılır. Bakanlıkça sağlık kurum ve kuruluşuna, her bir radyoloji merkezi için ayrı ayrı faaliyet izin belgesi düzenlenir ve radyoloji merkezinin yeri ve konumu belirtilir.
+(11) **(Değişik:RG-25/4/2023-32171)** Sağlık kurum ve kuruluşu bünyesinde, birden fazla radyoloji merkezi bulunması durumunda; her bir radyoloji merkezi için yeri ve konumu belirtilecek şekilde mesul müdür tarafından ayrı ayrı başvuru yapılır. Bakanlıkça sağlık kurum ve kuruluşuna, her bir radyoloji merkezi için ayrı ayrı faaliyet izin belgesi düzenlenir ve radyoloji merkezinin yeri ve konumu belirtilir.
 
 #### Ruhsat, faaliyet izin belgesi ve izin belgesi yenileme
 
@@ -184,11 +184,11 @@ e) Ultrasonografi ve doppler cihaz odasında hasta mahremiyetini sağlayacak şe
 
 (1) Birim eklenmesi, taşınma, mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkezin birleşme veya devri, mekânsal tasarım değişikliği, birim çıkarılması, adres değişikliği, merkez adı değişikliği veya merkez sahipliği değişikliği hallerinde ruhsat, faaliyet izin belgesi ve izin belgesi yenilenir.
 
-(2) (Ek cümle:RG-16/12/2025-33109) Mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkezler, Bakanlıkça belirlenen planlama kriterlerine uygun olmak kaydıyla yalnızca bulunduğu il içinde taşınabilir. Birim eklenmesi, mekânsal tasarım değişikliği veya mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkezin il içi veya il dışına taşınma durumlarında Bakanlıktan izin alınması zorunludur. Bakanlıkça izin verilmesi halinde, EK-2’ye uygun olarak ruhsat veya faaliyet izin belgesi başvuru formu ve EK-3’te yer alan ilgili belgelerle birlikte Müdürlüğe başvuru yapılır. Müdürlükçe oluşturulacak inceleme ve değerlendirme ekibi tarafından EK-13’e göre ruhsata, faaliyet izin belgesine veya izin belgesine esas yerinde inceleme ve değerlendirme yapılır. İnceleme ve değerlendirme formu ve başvuru dosyası en geç bir ay içinde Bakanlığa gönderilir. Başvurunun uygun bulunması halinde ruhsat veya faaliyet izin belgesi yenilenir.
+(2) **(Ek cümle:RG-16/12/2025-33109)** Mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkezler, Bakanlıkça belirlenen planlama kriterlerine uygun olmak kaydıyla yalnızca bulunduğu il içinde taşınabilir. Birim eklenmesi, mekânsal tasarım değişikliği veya mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkezin il içi veya il dışına taşınma durumlarında Bakanlıktan izin alınması zorunludur. Bakanlıkça izin verilmesi halinde, EK-2’ye uygun olarak ruhsat veya faaliyet izin belgesi başvuru formu ve EK-3’te yer alan ilgili belgelerle birlikte Müdürlüğe başvuru yapılır. Müdürlükçe oluşturulacak inceleme ve değerlendirme ekibi tarafından EK-13’e göre ruhsata, faaliyet izin belgesine veya izin belgesine esas yerinde inceleme ve değerlendirme yapılır. İnceleme ve değerlendirme formu ve başvuru dosyası en geç bir ay içinde Bakanlığa gönderilir. Başvurunun uygun bulunması halinde ruhsat veya faaliyet izin belgesi yenilenir.
 
 (3) Mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanları tarafından açılan merkezlerin taşınmalarında, Bakanlıkça uygun görülmesi ve izin verilmesi kaydıyla, taşınma işlemlerinin iki yıl içinde tamamlanması zorunludur. Bu süre içerisinde merkez, faaliyetine mevcut kapasitesi ile devam edebilir veya faaliyetini askıya alabilir ve Müdürlüğe tebligat adresi bildirerek kuruluş binasını boşaltabilir.
 
-(4) (Değişik cümle:RG-16/12/2025-33109) Mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkez Bakanlıkça belirlenen planlama kriterlerine uygun olmak kaydıyla yalnızca aynı il içerisinde bulunan tıp merkezi, özel hastane veya radyoloji uzmanı tarafından açılan bir başka merkez ile birleşebilir. Birleşen merkezin ruhsatı iptal edilerek birleştiği sağlık kuruluşuna ait varsa ruhsat/faaliyet izin belgesine eklenir yoksa yeni ruhsat/faaliyet izin belgesi düzenlenir. Birleşen merkez ruhsatı ayrılamaz.
+(4) **(Değişik cümle:RG-16/12/2025-33109)** Mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkez Bakanlıkça belirlenen planlama kriterlerine uygun olmak kaydıyla yalnızca aynı il içerisinde bulunan tıp merkezi, özel hastane veya radyoloji uzmanı tarafından açılan bir başka merkez ile birleşebilir. Birleşen merkezin ruhsatı iptal edilerek birleştiği sağlık kuruluşuna ait varsa ruhsat/faaliyet izin belgesine eklenir yoksa yeni ruhsat/faaliyet izin belgesi düzenlenir. Birleşen merkez ruhsatı ayrılamaz.
 
 (5) Mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkezlerin birleşme veya devrinde; birleşme veya devir sözleşmesi imzalanmadan önce Bakanlıktan izin alınması zorunludur. Bakanlıkça uygun görülmesi halinde EK-2’ye uygun olarak ruhsat başvuru formu ve EK-3’te yer alan ilgili belgelerle birlikte Müdürlüğe başvuru yapılır. Müdürlük tarafından dosyada eksiklik bulunmaması halinde başvuru dosyası en geç bir ay içerisinde Bakanlığa gönderilir. Başvurunun uygun bulunması halinde ruhsat yenilenir. Bu fıkra kapsamında devredilen merkezin incelenmesi ve değerlendirilmesi sırasında tespit edilen eksiklik ve uygunsuzluklardan dolayı devralan, devredenin sorumluluklarını da almış sayılır.
 
@@ -202,15 +202,15 @@ e) Ultrasonografi ve doppler cihaz odasında hasta mahremiyetini sağlayacak şe
 
 **MADDE 10 –** (1) Radyoloji merkezlerinde, ünitelerde ve gözetimli radyoloji birimlerinde, Bakanlıkça kabul edilmiş ulusal ve uluslararası standartlara uygun yöntemler kullanılarak çalışılması esastır.
 
-(2) (Değişik:RG-25/4/2023-32171) Radyoloji hizmetlerinin yürütülmesinde ulusal veya uluslararası yöntem bulunmadığında veya bu hizmetlerin yeni teknoloji ürünü radyasyon kaynaklarıyla yürütülmesi durumunda radyasyon uygulamalarına yönelik gerekçelendirilmesi yapılan, radyasyon güvenliği açısından NDK’den uygun görüş alınan ve bilimsel geçerliliği Bakanlıkça uygun görülen yöntemler kullanılır.
+(2) **(Değişik:RG-25/4/2023-32171)** Radyoloji hizmetlerinin yürütülmesinde ulusal veya uluslararası yöntem bulunmadığında veya bu hizmetlerin yeni teknoloji ürünü radyasyon kaynaklarıyla yürütülmesi durumunda radyasyon uygulamalarına yönelik gerekçelendirilmesi yapılan, radyasyon güvenliği açısından NDK’den uygun görüş alınan ve bilimsel geçerliliği Bakanlıkça uygun görülen yöntemler kullanılır.
 
-(3) (Değişik:RG-25/4/2023-32171) Radyasyondan korunmanın ve radyasyon güvenliğinin teminine ilişkin NDK tarafından yayımlanan mevzuat kapsamında radyasyon uygulamaları yürütülür, NDK tarafından uygun bulunan radyasyondan korunma programının uygulanması sağlanır.
+(3) **(Değişik:RG-25/4/2023-32171)** Radyasyondan korunmanın ve radyasyon güvenliğinin teminine ilişkin NDK tarafından yayımlanan mevzuat kapsamında radyasyon uygulamaları yürütülür, NDK tarafından uygun bulunan radyasyondan korunma programının uygulanması sağlanır.
 
 (4) Radyoloji merkezlerinde ruhsata ve faaliyet izin belgesine, ünite ve gözetimli radyoloji biriminde izin belgesine esas tıbbi cihaz envanteri ve her bir cihaz için cihaz yönetim dosyası bulundurulur.
 
-(5) (Değişik:RG-25/4/2023-32171) Radyoloji hizmetlerine ait sonuç raporlarında; raporu düzenleyen radyoloji uzmanının bilgileri, tarih ve istem saati, çekim saati, çekim süresi ile rapor düzenlenen tetkikler için rapor onay saati bulunur. İyonlaştırıcı radyasyon kaynakları ile yapılan işlemlerde ayrıca her bir radyolojik işlemin gerekçelendirmesi, kV ve mA değerlerini içeren iyonlaştırıcı radyasyon kaynağı bilgileri, tekrarlı çekim var ise nedeni de raporda yer alır.
+(5) **(Değişik:RG-25/4/2023-32171)** Radyoloji hizmetlerine ait sonuç raporlarında; raporu düzenleyen radyoloji uzmanının bilgileri, tarih ve istem saati, çekim saati, çekim süresi ile rapor düzenlenen tetkikler için rapor onay saati bulunur. İyonlaştırıcı radyasyon kaynakları ile yapılan işlemlerde ayrıca her bir radyolojik işlemin gerekçelendirmesi, kV ve mA değerlerini içeren iyonlaştırıcı radyasyon kaynağı bilgileri, tekrarlı çekim var ise nedeni de raporda yer alır.
 
-(6) (Değişik:RG-25/4/2023-32171) Adlî vakalara ve adlî raporlara ait kayıtların gizliliği ve güvenliği açısından, vakayı takip eden tabip haricinde vaka hakkında veri girişi veya adlî raporu tanzim eden tabibin onayından sonra raporda değişiklik yapılamaması için gerekli tedbirler alınır. Adlî vaka kayıtlarına, mesul müdür veya yetkilendirdiği kişiler ile merkez sorumlusu erişebilir. Adlî kayıt veya raporların resmî mercilerden istenmesi halinde, yeni çıktı alınarak suret olduğu belirtilir ve tasdiklenir. Bu raporlar ile ilgili sorumluluk, merkez sorumlusu ve mesul müdüre aittir.
+(6) **(Değişik:RG-25/4/2023-32171)** Adlî vakalara ve adlî raporlara ait kayıtların gizliliği ve güvenliği açısından, vakayı takip eden tabip haricinde vaka hakkında veri girişi veya adlî raporu tanzim eden tabibin onayından sonra raporda değişiklik yapılamaması için gerekli tedbirler alınır. Adlî vaka kayıtlarına, mesul müdür veya yetkilendirdiği kişiler ile merkez sorumlusu erişebilir. Adlî kayıt veya raporların resmî mercilerden istenmesi halinde, yeni çıktı alınarak suret olduğu belirtilir ve tasdiklenir. Bu raporlar ile ilgili sorumluluk, merkez sorumlusu ve mesul müdüre aittir.
 
 (7) Radyoloji merkezlerinde, ünitelerde ve gözetimli radyoloji birimlerinde bulunan cihazlar, radyoloji alanında eğitim alması gereken sağlık meslek mensuplarını yetiştirme amacıyla da kullanılabilir.
 
@@ -220,7 +220,7 @@ e) Ultrasonografi ve doppler cihaz odasında hasta mahremiyetini sağlayacak şe
 
 **MADDE 11 –** (1) (Değişik:RG-22/5/2024-32553) Ruhsat veya faaliyet izin belgesi düzenlenen radyoloji merkezlerinde merkez sorumlusu olarak radyoloji uzmanı görev alır.
 
-(2) (Değişik:RG-16/12/2025-33109) Radyoloji merkezinde merkez sorumlusu olarak çalışan radyoloji uzmanı tam zamanlı olarak görev yapar. Merkez sorumlusu, mesai saatleri dışında aynı ilde olmak şartıyla bir başka merkezde daha merkez sorumlusu görevi üstlenmeden çalışabilir. Merkez sorumlusu dışındaki radyoloji uzmanları aynı ilde olmak şartıyla en fazla iki merkezde çalışabilir.
+(2) **(Değişik:RG-16/12/2025-33109)** Radyoloji merkezinde merkez sorumlusu olarak çalışan radyoloji uzmanı tam zamanlı olarak görev yapar. Merkez sorumlusu, mesai saatleri dışında aynı ilde olmak şartıyla bir başka merkezde daha merkez sorumlusu görevi üstlenmeden çalışabilir. Merkez sorumlusu dışındaki radyoloji uzmanları aynı ilde olmak şartıyla en fazla iki merkezde çalışabilir.
 
 (3) (Mülga:RG-16/12/2025-33109)
 
@@ -250,7 +250,7 @@ e) Ultrasonografi ve doppler cihaz odasında hasta mahremiyetini sağlayacak şe
 
 (16) İyonlaştırıcı radyasyon kaynağı içermeyen cihazlar ile çalışacak personelin çalışma şekli hizmetin etkinlik ve sürekliliğinin sağlanması bakımından vardiya veya nöbet şeklinde düzenlenebilir.
 
-(17) (Ek:RG-25/4/2023-32171) EK-11’de yer alan Radyolojik Görüntüleme ve Raporlama Hizmeti Tescil Belgesi alan kuruluşlarda çalışacak radyoloji uzmanı en fazla iki radyolojik görüntüleme ve/veya raporlama hizmeti sunulan kuruluşta çalışabilir.
+(17) **(Ek:RG-25/4/2023-32171)** EK-11’de yer alan Radyolojik Görüntüleme ve Raporlama Hizmeti Tescil Belgesi alan kuruluşlarda çalışacak radyoloji uzmanı en fazla iki radyolojik görüntüleme ve/veya raporlama hizmeti sunulan kuruluşta çalışabilir.
 
 #### Personelin görev ve sorumlulukları
 
@@ -326,7 +326,7 @@ j) Kontrollü alanlarda radyasyonla çalışanların maruz kaldıkları dozları
 
 (7) Radyoloji merkezlerinde, ünitelerde ve gözetimli radyoloji birimlerinde mobil röntgen veya skopi gibi hareketli cihazların kullanılacağı radyasyon uygulamaları, tıbbi görüntüleme teknisyeni/teknikeri tarafından yürütülür.
 
-(8) (Değişik:RG-16/12/2025-33109) Merkezde görev yapan sağlık çalışanları, hizmetlerine uygun önlük veya üniforma giymek zorundadır. Tüm personel, yakasında adını, soyadını, mesleğini ve unvanını belirten, mesul müdürlükçe onaylanmış fotoğraflı bir kimlik kartı taşımakla yükümlüdür. Kimlik kartlarında, Bakanlığın elektronik sistemleriyle uyumlu karekod bulunması zorunludur.
+(8) **(Değişik:RG-16/12/2025-33109)** Merkezde görev yapan sağlık çalışanları, hizmetlerine uygun önlük veya üniforma giymek zorundadır. Tüm personel, yakasında adını, soyadını, mesleğini ve unvanını belirten, mesul müdürlükçe onaylanmış fotoğraflı bir kimlik kartı taşımakla yükümlüdür. Kimlik kartlarında, Bakanlığın elektronik sistemleriyle uyumlu karekod bulunması zorunludur.
 
 #### Radyasyon doz sınırları
 
@@ -342,7 +342,7 @@ j) Kontrollü alanlarda radyasyonla çalışanların maruz kaldıkları dozları
 
 (5) (Mülga:RG-16/12/2025-33109)
 
-(6) (Değişik ibare:RG-16/12/2025-33109) Radyasyon doz sınırları ile ilgili hususlarda NDK tarafından yapılan düzenlemeler esas alınır.
+(6) **(Değişik ibare:RG-16/12/2025-33109)** Radyasyon doz sınırları ile ilgili hususlarda NDK tarafından yapılan düzenlemeler esas alınır.
 
 (7) Kişisel dozimetri hizmeti, bu hizmeti vermek üzere NDK tarafından yetkilendirilen kuruluşlardan alınır.
 
@@ -352,7 +352,7 @@ j) Kontrollü alanlarda radyasyonla çalışanların maruz kaldıkları dozları
 
 (10) Kişisel dozimetre sonuçlarında aylık (Değişik ibare:RG-16/12/2025-33109) NDK tarafından belirlenen radyasyon doz sınırlarının aşılması durumunda merkez sorumlusu ve radyasyondan korunma sorumlusu sorunun kaynağını inceleyip değerlendirir, varsa eksiklik ve aksaklıkların düzeltilmesi için gerekli tedbirleri alır ve NDK mevzuatı kapsamında işlem yapılır.
 
-(11) (Ek:RG-16/12/2025-33109) Hamilelik şüphesi olan, hamile veya emziren personelin çalışma koşulları; embriyonun, fetüsün veya emzirilen çocuğun radyasyondan korunmasını sağlayacak ve halk için belirlenen doz sınırlarına uyulacak şekilde yeniden düzenlenir. Çalışma koşulları hamilelik şüphesi olan ve hamile personel için hamileliğinin geri kalan süresinde radyasyon alanlarında çalışmayacak şekilde, emzirme döneminde olan personel için radyoaktif kirlilik riski bulunan radyasyon alanlarında çalışmayacak şekilde düzenlenir.
+(11) **(Ek:RG-16/12/2025-33109)** Hamilelik şüphesi olan, hamile veya emziren personelin çalışma koşulları; embriyonun, fetüsün veya emzirilen çocuğun radyasyondan korunmasını sağlayacak ve halk için belirlenen doz sınırlarına uyulacak şekilde yeniden düzenlenir. Çalışma koşulları hamilelik şüphesi olan ve hamile personel için hamileliğinin geri kalan süresinde radyasyon alanlarında çalışmayacak şekilde, emzirme döneminde olan personel için radyoaktif kirlilik riski bulunan radyasyon alanlarında çalışmayacak şekilde düzenlenir.
 
 ## DÖRDÜNCÜ BÖLÜM Denetim ve Yaptırım ile Yasaklar
 
@@ -384,7 +384,7 @@ c) Ruhsatın, faaliyet izin belgesinin veya izin belgesinin değiştirilmesini g
 
 ç) Doğal afet, genel salgın hastalık, kısmi veya genel seferberlik ilanı gibi mücbir durumlarda merkezin faaliyeti Bakanlıkça en fazla beş yıl süreyle askıya alınabilir. Askı süresi sonunda faaliyete geçmeyen merkezin ruhsat/faaliyet izin belgesi iptal edilir.
 
-(2) (Değişik birinci ve ikinci cümle:RG-16/12/2025-33109) Hizmeti geçici olarak kısmen veya tamamen durdurulduğu halde faaliyetine devam eden merkezin faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti iki kat süreyle durdurulmasına rağmen faaliyetine devam eden merkezin ruhsatı/faaliyet izin belgesi Bakanlıkça iptal edilir. Faaliyeti altı ay süreyle durdurulan merkezin faaliyetine devam ettiğinin tespiti halinde ise ruhsat/faaliyet izin belgesi iptal edilir. Ancak merkezin birden fazla birim ile hizmet sunması durumunda sadece ilgili birim ruhsat/faaliyet izin belgesinden çıkarılarak merkezin ruhsat/faaliyet izin belgesi yenilenir. Ruhsatı iptal edilen mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılmış radyoloji merkezine yeniden ruhsat düzenlenmesi Bakanlıkça yapılan planlamaya uygun olmak şartıyla ön izne tabidir. Ruhsatı bu madde kapsamında iptal edilen merkez adına bir yıl geçmeden yeni bir ön izin veya ruhsat düzenlenemez.
+(2) **(Değişik birinci ve ikinci cümle:RG-16/12/2025-33109)** Hizmeti geçici olarak kısmen veya tamamen durdurulduğu halde faaliyetine devam eden merkezin faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti iki kat süreyle durdurulmasına rağmen faaliyetine devam eden merkezin ruhsatı/faaliyet izin belgesi Bakanlıkça iptal edilir. Faaliyeti altı ay süreyle durdurulan merkezin faaliyetine devam ettiğinin tespiti halinde ise ruhsat/faaliyet izin belgesi iptal edilir. Ancak merkezin birden fazla birim ile hizmet sunması durumunda sadece ilgili birim ruhsat/faaliyet izin belgesinden çıkarılarak merkezin ruhsat/faaliyet izin belgesi yenilenir. Ruhsatı iptal edilen mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılmış radyoloji merkezine yeniden ruhsat düzenlenmesi Bakanlıkça yapılan planlamaya uygun olmak şartıyla ön izne tabidir. Ruhsatı bu madde kapsamında iptal edilen merkez adına bir yıl geçmeden yeni bir ön izin veya ruhsat düzenlenemez.
 
 (3) Merkez sorumlusunun kesintisiz 30 günü geçen izin veya hastalık halinde yeni bir merkez sorumlusu görevlendirilir. Merkez sorumlusu izin veya hastalık halinde, bir yılda 30 günü geçmemek şartıyla uzaktan erişim sağlaması halinde elektronik imza ile tetkik sonuçlarını raporlayabilir ve onaylayabilir. Ancak, bu süre içerisinde merkez sorumlusunun uzaktan raporlama veya onaylama yapamayacak durumda olması veya merkez sorumlusuna vekalet edecek radyoloji uzmanı bulunmaması halinde, Müdürlükten izin almak kaydıyla, radyoloji merkezinin faaliyeti en fazla iki ay geçici olarak durdurulabilir. Faaliyetin sürdürülmek istenmesi halinde, en fazla iki ay süreyle aynı il içerisinden radyoloji uzmanı görevlendirerek faaliyetine devam edebilir.
 
@@ -420,7 +420,7 @@ f) Radyoloji merkezlerinde ve ünitelerde tanıtım ve bilgilendirme konusunda i
 
 (2) Radyoloji merkezleri, üniteler ve gözetimli radyoloji birimleri çekim kalitesini izlemeye yönelik program oluşturur ve buna ilişkin kayıtları tutar.
 
-(3) (Değişik:RG-16/12/2025-33109) Bakanlıkça yapılacak çekim kalitesine ilişkin değerlendirmelerde EK-15’te yer alan radyoloji raporlama ve çekim kalitesi değerlendirme inceleme formu kullanılır. 60 puan ve altı sonuçlar kritik kalite ihlali sayılır, derhal düzeltici ve iyileştirici faaliyet başlatılır. En geç 1 ay içerisinde yeniden değerlendirme yapılır.
+(3) **(Değişik:RG-16/12/2025-33109)** Bakanlıkça yapılacak çekim kalitesine ilişkin değerlendirmelerde EK-15’te yer alan radyoloji raporlama ve çekim kalitesi değerlendirme inceleme formu kullanılır. 60 puan ve altı sonuçlar kritik kalite ihlali sayılır, derhal düzeltici ve iyileştirici faaliyet başlatılır. En geç 1 ay içerisinde yeniden değerlendirme yapılır.
 
 (4) Radyoloji merkezleri, üniteler ve gözetimli radyoloji birimleri, tetkik tekrarını engellemek ve tetkik sonuçlarının güvenilirliğini sağlamak amacıyla Bakanlıkça belirlenen kriterler ve kalite yönetim sistemi kapsamında gerekli önlemleri almak zorundadır.
 
@@ -432,13 +432,13 @@ f) Radyoloji merkezlerinde ve ünitelerde tanıtım ve bilgilendirme konusunda i
 
 (3) 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanunu hükümlerine uygun elektronik imza ile imzalanmış tıbbi kayıtlar, resmi kayıt olarak kabul edilir ve ilgili mevzuata göre yedekleme ve arşivlemesi yapılır.
 
-(4) (Değişik:RG-25/4/2023-32171) Faaliyeti sona eren veya sonlandırılan radyoloji merkezleri, yazılı ve/veya elektronik kayıtlarını, radyoloji görüntülerini, radyoloji raporlarını, defterlerini ve diğer belgelerini saklanmak üzere Müdürlüğe devreder.
+(4) **(Değişik:RG-25/4/2023-32171)** Faaliyeti sona eren veya sonlandırılan radyoloji merkezleri, yazılı ve/veya elektronik kayıtlarını, radyoloji görüntülerini, radyoloji raporlarını, defterlerini ve diğer belgelerini saklanmak üzere Müdürlüğe devreder.
 
 (5) Radyoloji merkezleri, üniteler ve gözetimli radyoloji birimleri tarafından kayıt altına alınan kişisel sağlık verileri, ilgili mevzuata uygun bir şekilde işlenir ve Bakanlık tarafından kurulan kayıt ve bildirim sistemine aktarılır.
 
 (6) Bakanlıkça yapılacak diğer iş ve işlemlere esas olmak üzere, istenilen bilgi ve belgelerin Bakanlığa gönderilmesi zorunludur.
 
-(7) (Değişik:RG-25/4/2023-32171) Radyoloji merkezleri, üniteler ve gözetimli radyoloji birimlerinde; kalite uygunluk, kalite kontrol değerlendirme sonuçları, bakım onarım faaliyetlerine ait raporlar, izleme ve ölçüm cihazlarının kayıtları en az 10 yıl; radyasyon kaynaklarına ve radyoaktif atıklara ilişkin kayıtlar en az 20 yıl; iyonlaştırıcı radyasyon kaynakları ile çalışanların tıbbi gözetim ve kişisel dozlarına ilişkin belge ve kayıtlar ise radyasyona maruz kalmayı gerektiren işin sona ermesinden sonra 30 yıldan az olmamak kaydıyla korunur ve saklanır. Radyasyonla çalışanın görevi bırakması ve başka yerde çalışmaya başlaması durumunda doz kayıtlarının bir kopyası çalışana teslim edilir.
+(7) **(Değişik:RG-25/4/2023-32171)** Radyoloji merkezleri, üniteler ve gözetimli radyoloji birimlerinde; kalite uygunluk, kalite kontrol değerlendirme sonuçları, bakım onarım faaliyetlerine ait raporlar, izleme ve ölçüm cihazlarının kayıtları en az 10 yıl; radyasyon kaynaklarına ve radyoaktif atıklara ilişkin kayıtlar en az 20 yıl; iyonlaştırıcı radyasyon kaynakları ile çalışanların tıbbi gözetim ve kişisel dozlarına ilişkin belge ve kayıtlar ise radyasyona maruz kalmayı gerektiren işin sona ermesinden sonra 30 yıldan az olmamak kaydıyla korunur ve saklanır. Radyasyonla çalışanın görevi bırakması ve başka yerde çalışmaya başlaması durumunda doz kayıtlarının bir kopyası çalışana teslim edilir.
 
 (8) Radyoloji merkezleri, üniteler ve gözetimli radyoloji birimlerinde yapılan işlemler için merkez/ünite/birim sorumlusu tarafından hazırlanan uygulama formlarında, uygulanan radyoopak madde/radyoaktif madde ve uygulama dozu, çekim protokolü ve saati ile diğer tıbbi bilgiler kayıt altına alınır.
 
@@ -460,7 +460,7 @@ f) Radyoloji merkezlerinde ve ünitelerde tanıtım ve bilgilendirme konusunda i
 
 (8) Radyolojik görüntüleme ve raporlama hizmetini hizmet alımı yoluyla gerçekleştiren radyoloji merkezi hastadan tetkik için ayrıca bir ücret talep edemez.
 
-(9) (Değişik:RG-25/4/2023-32171) Radyolojik görüntüleme ve raporlama hizmetinin hizmet alımı yoluyla sunulması halinde, hizmeti alan ve veren kamu sağlık kurum ve kuruluşları, özel sağlık kuruluşları ve gerçek veya tüzel kişiler görüntüleme hizmetinin kalitesinden, raporlamasından ve görüntülemeye ilişkin her türlü verinin gizliliğinden, güvenliğinden, bütünlüğünden müştereken sorumludur.
+(9) **(Değişik:RG-25/4/2023-32171)** Radyolojik görüntüleme ve raporlama hizmetinin hizmet alımı yoluyla sunulması halinde, hizmeti alan ve veren kamu sağlık kurum ve kuruluşları, özel sağlık kuruluşları ve gerçek veya tüzel kişiler görüntüleme hizmetinin kalitesinden, raporlamasından ve görüntülemeye ilişkin her türlü verinin gizliliğinden, güvenliğinden, bütünlüğünden müştereken sorumludur.
 
 ## ALTINCI BÖLÜM Çeşitli ve Son Hükümler
 
@@ -494,20 +494,20 @@ f) Radyoloji merkezlerinde ve ünitelerde tanıtım ve bilgilendirme konusunda i
 
 **MADDE 23 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür. ______
 
-(1) 25/4/2023 tarihli ve 32171 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin dördüncü bölüm başlığı “Denetim, Yasaklar ve Yaptırımlar” iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.
+<i>(1) 25/4/2023 tarihli ve 32171 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin</i> dördüncü bölüm başlığı “Denetim, Yasaklar ve Yaptırımlar” iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.
 
-(2) 22/5/2024 tarihli ve 32553 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 8 inci maddesine altıncı fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
+<i>(2) 22/5/2024 tarihli ve 32553 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 8</i> inci maddesine altıncı fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 
-(3) 22/5/2024 tarihli ve 32553 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 11 inci maddesine dördüncü fıkradan sonra gelmek üzere fıkralar eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir. Ekleri için tıklayınız.
+<i>(3) 22/5/2024 tarihli ve 32553 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 11</i> inci maddesine dördüncü fıkradan sonra gelmek üzere fıkralar eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir. Ekleri için tıklayınız.
 
-Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+**Yönetmeliğin Yayımlandığı Resmî Gazete’nin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**
 
 26/4/2022 31821
 
-Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî
+**Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî**
 
-Gazetelerin
+**Gazetelerin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**

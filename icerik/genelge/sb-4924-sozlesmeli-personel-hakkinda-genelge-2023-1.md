@@ -75,6 +75,6 @@ Sözleşmeli Personel ile imzalanacak Sağlık Bakanlığı Sözleşmeli Sağlı
 Bilgilerinizi ve bu çerçevede gereğini rica ederim.
 
 Dr. Fahrettin KOCA
-Bakan
+**Bakan**
 
 Dağıtım : 81 İl Valiliğine (İl Sağlık Müdürlüğü)

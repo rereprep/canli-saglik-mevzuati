@@ -126,7 +126,7 @@ e) Gönderilen ürünlerin miadı uzun olacağından ve talepler azami stok uygu
 
 f) Piyasa gözetim, denetim ve vijilans süreçleri devir alan illere aittir.
 
-5. Ödenek Aktarım İşlemleri Aşağıda sıralanan işlemler Sağlık Bakanlığı Merkez Teşkilatı ilgili birimleri tarafından
+5. **Ödenek Aktarım İşlemleri** Aşağıda sıralanan işlemler Sağlık Bakanlığı Merkez Teşkilatı ilgili birimleri tarafından
 
 a) TPP kapsamında bedelsiz olarak gerçekleşen devir işlemlerinde devir eden illere ait toplam KDV dahil devir tutarları, ay sonunda hesaplanarak takip eden ay içerisinde ilgili Daire Başkanlığı tarafından aktarım yapacak olan diğer Daire Başkanlıklarına bildirilir.
 

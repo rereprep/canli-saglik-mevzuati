@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-Yönetmelikler
+**Yönetmelikler**
 
 Karar Sayısı: 8/3767
 
@@ -21,9 +21,9 @@ Ekteki «Bazı Sağlık Personeline Devlet Hizmeti Yükümlülüğü Uygulanmas�
 
 Kenan EVREN — Orgeneral, Devlet Başkanı
 
-B. ULUSU — Başbakan
+**B. ULUSU** — Başbakan
 
-Z. BAYKARA — Devlet Bak. - Başbakan Yrd.
+**Z. BAYKARA** — Devlet Bak. - Başbakan Yrd.
 
 T. ÖZAL — Devlet Bak. - Başbakan Yrd.
 
@@ -31,37 +31,37 @@ Prof. Dr. I. ÖZTRAK — Devlet Bakanı
 
 M. ÖZGÜNEŞ — Devlet Bakanı
 
-Prof. Dr. M. N. ÖZDAŞ — Devlet Bakanı
+**Prof. Dr. M. N. ÖZDAŞ** — Devlet Bakanı
 
 C. MENTEŞ — Adalet Bakanı
 
 O. H. BAYÜLKEN — Millî Savunma Bakanı
 
-S. ÇETİNER — İçişleri Bakanı
+**S. ÇETİNER** — İçişleri Bakanı
 
-I. TÜRKMEN — Dışişleri Bakanı
+**I. TÜRKMEN** — Dışişleri Bakanı
 
-K. ERDEM — Maliye Bakanı
+**K. ERDEM** — Maliye Bakanı
 
-H. SAĞLAM — Millî Eğitim Bakanı
+**H. SAĞLAM** — Millî Eğitim Bakanı
 
-Dr. T. ÖNALP — Bayındırlık Bakanı
+**Dr. T. ÖNALP** — Bayındırlık Bakanı
 
-K. CANTÜRK — Ticaret Bakanı
+**K. CANTÜRK** — Ticaret Bakanı
 
-Prof. Dr. N. AYANOĞLU — Sağ. ve Sos. Yardım Bakanı
+**Prof. Dr. N. AYANOĞLU** — Sağ. ve Sos. Yardım Bakanı
 
 R. SATURALP — Gümrük ve Tekel Bakanı
 
-N. ÖZGÜR — Ulaştırma Bakanı
+**N. ÖZGÜR** — Ulaştırma Bakanı
 
-Prof. Dr. S. ÖZBEK — Tarım ve Orman Bakanı
+**Prof. Dr. S. ÖZBEK** — Tarım ve Orman Bakanı
 
-Prof. Dr. T. ESENER — Çalışma Bakanı
+**Prof. Dr. T. ESENER** — Çalışma Bakanı
 
-Ş. KOCATOPÇU — Sanayi ve Teknoloji Bakanı
+**Ş. KOCATOPÇU** — Sanayi ve Teknoloji Bakanı
 
-S. BİNGÖL — Enerji ve Tabiî Kay. Bakanı
+**S. BİNGÖL** — Enerji ve Tabiî Kay. Bakanı
 
 I. EVLİYAOĞLU — Turizm ve Tanıtma Bakanı
 

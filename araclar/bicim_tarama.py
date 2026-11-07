@@ -132,7 +132,7 @@ def main():
             toplam = sum(len(t) for t, _, _ in kos)
             if toplam > 0.6 * max(1, len(b)):
                 r.update(durum="çok fazla biçim, atlandı"); continue
-            yeni, n = B.uygula(b, kos)
+            yeni, n = B.uygula(b, kos, kati=True)
             r.update(durum="ok", kosu=len(kos), eslesen=n)
             if a.goster:
                 print("##", md.stem, r.get("yontem"), "koşu", len(kos), "eşleşen", n)

@@ -20,9 +20,9 @@ SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 23642684/010.99  
-Konu : Sağlık Raporlarının Düzenlenmesi Hk.
+**Konu** : Sağlık Raporlarının Düzenlenmesi Hk.
 
-GENELGE  
+**GENELGE**  
 2014/29
 
 İlgi: 30.05.2011 tarih ve 23874 (2011/39) sayılı Genelge.
@@ -31,7 +31,7 @@ Bakanlığımıza yapılan başvurulardan; sağlık kurum ve kuruluşlarımızda
 
 Raporların Düzenlenmesi, Tasdiki ve Rapor Formatına İlişkin Açıklamalar:
 
-1. Türkiye Kamu Hastaneleri Kurumuna bağlı hastaneler, üniversite hastaneleri, diğer kamu kurumlarına ait sağlık kurum ve kuruluşları ile Bakanlığımızca ruhsatlandırılmış özel hastaneler, özel tıp merkezleri ve birinci basamak sağlık hizmet sunucuları;
+1. **Türkiye Kamu Hastaneleri** Kurumuna bağlı hastaneler, üniversite hastaneleri, diğer kamu kurumlarına ait sağlık kurum ve kuruluşları ile Bakanlığımızca ruhsatlandırılmış özel hastaneler, özel tıp merkezleri ve birinci basamak sağlık hizmet sunucuları;
 
 a) İlaç Kullanım Raporunu (Ek-1)'de yer alan rapor formatına,
 
@@ -105,11 +105,11 @@ Uygulamanın Yataklı Tedavi Kurumları İşletme Yönetmeliği Sağlık Kurulla
 
 Gereğini önemle arz ve rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ  
+**Prof. Dr. Eyüp GÜMÜŞ**  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
-Ekler:  
+**Ekler:**  
 1. İlaç Kullanım Rapor Formatı  
 2. Tıbbi Malzeme Rapor Formatı  
 3. Durum Bildirir Rapor Formatı  
@@ -117,15 +117,15 @@ Ekler:
 5. Birinci Basamakta Düzenlenecek Durum Bildirir Tek Hekim Rapor Formatı  
 6. Kişiye Ait Sağlık Bilgileri Formu
 
-DAĞITIM:  
-Gereği:  
+**DAĞITIM:**  
+**Gereği:**  
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
 Bilgi için:  
 Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığına  
 Türkiye Kamu Hastaneleri Kurumu Başkanlığına  
 Türkiye Halk Sağlığı Kurumu Başkanlığına  
-Maliye Bakanlığına (Bütçe ve Mali Kontrol Genel Müdürlüğü)  
+**Maliye** Bakanlığına (Bütçe ve Mali Kontrol Genel Müdürlüğü)  
 Sosyal Güvenlik Kurumu Başkanlığına  
 Türk Eczacılar Birliğine
 

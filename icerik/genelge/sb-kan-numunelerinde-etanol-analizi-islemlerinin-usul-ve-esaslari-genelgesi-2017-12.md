@@ -35,11 +35,11 @@ kontrol_edildi: true
 
 2.1.1.1. Numune Alımı: Etanol analizi için kan numunesi elde edilir. Bunun için;
 
-2.11.2. Kimlik Kontrolü: Kan alınacak kişinin kimlik kontrolü; fotoğraflı kimlik incelemesi
+**2.11.2. Kimlik Kontrolü:** Kan alınacak kişinin kimlik kontrolü; fotoğraflı kimlik incelemesi
 
 ve kendisinin (bilinci kapalı ise vasisinin/ yakınının/ tanıyan) beyam ile yapılır.
 
-2.1.1.3. Numune Alma: Kan numunesi alınırken Ek-l. etanol enalizi kan numunesi alma ve
+**2.1.1.3. Numune Alma:** Kan numunesi alınırken Ek-l. etanol enalizi kan numunesi alma ve
 
 teslim tutanağı formunun doldurulması zorunludur.
 

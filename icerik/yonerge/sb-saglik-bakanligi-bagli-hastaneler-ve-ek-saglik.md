@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.2.8. Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge
+**7.2.8. Sağlık Bakanlığı Bağlı Hastaneler ve Ek Sağlık Tesislerinin** Açılması ve İşleyişi ile Hizmet Birleştirmesi Yapılması Hakkında Yönerge
 
 ### Bakanlık Makamına sunuş yazısı
 
@@ -152,7 +152,7 @@ Ek Tesis Açılması ve Kriterler, Başvuru Usulü ve Gerekli Belgeler, Başvuru
 
 ### Değerlendirilmesi, On izin ve Açılş Onayı Verilmesi
 
-Ek sağlık tesisi açılması
+**Ek sağlık tesisi açılması**
 
 MADDE &- (1) Bakanlığa ait sağlık tesişleri, kiralama, satın alma, bağış, diğer kamu kurumlarından geçici veya kalıcı olarak tahsis yoluyla edindikleri binalarda hizmet verebilirler. Ek sağlık tesisleri, ilgili baştabipliğin talebi, müdürlüğon uygun göruşu ve valiliğin teklifi uzerina, Bakanlık onayı ile açılır.
 
@@ -264,7 +264,7 @@ Hizmetin Kapsamı ve Calişma Usul ve Esasları, Personel Görevlendirilmesi ve 
 
 ## BEŞİNCİ BÖLÜM
 
-Acil hizmetler, Cerrahi Müdahale ve Girişimsel İşlemler, Ağız ve Diş Sağlığı Hizmetleri,
+**Acil hizmetler**, Cerrahi Müdahale ve Girişimsel İşlemler, Ağız ve Diş Sağlığı Hizmetleri,
 
 ### Sağlık Kurulu Raporu ve Hasta Yatış İşlemleri
 
@@ -364,7 +364,7 @@ g) Otomasyon sistemleri, Sosyal Güvenlik: Kurumu bilgi işlem sistemine bildiri
 
 Meveut ek sağlık tesislerin durumu
 
-GEÇICI MADDE 1- (1) Bu Yönergenin yürürlük tarihinden once fualiyette olan ek sağlık tesisleri verimlilikleri bakımından, bağlı bulunduğu sağlık tesisinin sabip olduğu hizmet rolü, yıllık çalışmaları, gelir-gider yönünden döner sermayeye sağladığı katkı, ışletme giderlerinin maliyeti, uzman tabip, tabip, yardımcı sağlık ve diğer personel mevcudu, bünyesinde 24 saat esasına dayalı olarak acil sağlık hizmet sunumunun gerekip gerekmediği ve benzeri göstergelar çerçevesinde, bu Yönergenin 12 nei maddesi uyarınca oluşturulan komisyon marifetiyle değerlendirilir. Değerlendirme sonucunda hizmete devamında yarar görülmeyen ek sağlık tesislerinin faaliyeti Bakanlık onayı ile sonlandırılır. Kiralama ve benzeri durumlara bağlı olarak sözleşmesi devam eden ve feshi halinde hukuki sonuç doğurabilecek konumdaki ek sağlık tesisleri, sözleşme sürelerinin bitimine kadar faliyetine devam eder.
+**GEÇICI MADDE** 1- (1) Bu Yönergenin yürürlük tarihinden once fualiyette olan ek sağlık tesisleri verimlilikleri bakımından, bağlı bulunduğu sağlık tesisinin sabip olduğu hizmet rolü, yıllık çalışmaları, gelir-gider yönünden döner sermayeye sağladığı katkı, ışletme giderlerinin maliyeti, uzman tabip, tabip, yardımcı sağlık ve diğer personel mevcudu, bünyesinde 24 saat esasına dayalı olarak acil sağlık hizmet sunumunun gerekip gerekmediği ve benzeri göstergelar çerçevesinde, bu Yönergenin 12 nei maddesi uyarınca oluşturulan komisyon marifetiyle değerlendirilir. Değerlendirme sonucunda hizmete devamında yarar görülmeyen ek sağlık tesislerinin faaliyeti Bakanlık onayı ile sonlandırılır. Kiralama ve benzeri durumlara bağlı olarak sözleşmesi devam eden ve feshi halinde hukuki sonuç doğurabilecek konumdaki ek sağlık tesisleri, sözleşme sürelerinin bitimine kadar faliyetine devam eder.
 
 ## SEKİZİNCİ BÖLÜM Son Hükümler
 

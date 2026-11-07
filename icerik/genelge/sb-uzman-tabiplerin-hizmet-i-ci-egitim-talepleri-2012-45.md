@@ -14,11 +14,11 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.14. Uzman Tabiplerin Hizmet İçi Eğitim Talepleri Genelgesi (2012/45)
+**7.3.14. Uzman Tabiplerin Hizmet İçi Eğitim Talepleri Genelgesi (2012/45)**
 
 T.C.
-SAĞLIK BAKANLIĞI
-TÜRKİYE KAMU HASTANELERİ KURUMU
+**SAĞLIK BAKANLIĞI**
+**TÜRKİYE KAMU HASTANELERİ KURUMU**
 İnsan Kaynakları Başkan Yardımcılığı
 
 Sayı : B.10.1.TKH.0.25.00.00-774.99/84845

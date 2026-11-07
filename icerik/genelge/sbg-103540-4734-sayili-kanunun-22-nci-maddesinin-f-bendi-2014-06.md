@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.8. 4734 Sayılı Kanunun 22'nci Maddesinin (f) Bendi (2014/06)
+**7.3.8. 4734 Sayılı Kanunun 22'nci Maddesinin** (f) Bendi (2014/06)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Türkiye Kamu Hastaneleri Kurumu  

@@ -15,7 +15,7 @@ duzeltildi: true
 
 TEBLİĞ
 
-Sosyal Güvenlik Kurumu Başkanlığından:
+**Sosyal Güvenlik Kurumu Başkanlığından:**
 
 SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
 
@@ -36,7 +36,7 @@ d) 4.2.1.C numaralı maddesine aşağıdaki maddeler eklenmiştir.
 a) Siklosporin, metotreksat veya fototerapi gibi geleneksel sistemik tedavilere yanıt vermeyen veya bu tedavileri tolere edemeyen ya da bu tür tedavilerin kontrendike olduğu hastalarda bu durumlar ile Psöriazis Alan Şiddet İndeksi (PASI) değeri sağlık kurulu raporunda belirtilerek tedaviye başlanılması halinde bedelleri Kurumca karşılanır.
 b) 16 haftalık ilaç kullanım süresi sonunda başlangıç PASI değerine göre en az %75 iyileşme olduğunun yeni düzenlenecek raporda belirtilmesi halinde tedaviye devam edilir. Başlangıç PASI değerine göre %75 iyileşme sağlanamaması tedaviye yanıtsızlık olarak değerlendirilerek ilaç kullanımı sonlandırılır.
 c) Üniversite hastaneleri veya eğitim ve araştırma hastanelerinde dermatoloji uzman hekiminin yer aldığı başlangıçta 4 ay süreli, sonrasında 6’şar ay süreli sağlık kurulu raporuna dayanılarak dermatoloji uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır. Raporda PASI değeri belirtilir. Tedaviye cevap alınmış ve ilaca devam edilecek ise bu durum her yeni düzenlenecek raporda belirtilmelidir.
-4.2.1.C-12- Risankizumab
+**4.2.1.C-12- Risankizumab**
 (1) Orta veya şiddetli plak psöriazisli erişkin hastalarda;
 a) Siklosporin, metotreksat veya fototerapi gibi geleneksel sistemik tedavilere yanıt vermeyen veya bu tedavileri tolere edemeyen ya da bu tür tedavilerin kontrendike olduğu hastalarda bu durumlar ile Psöriazis Alan Şiddet İndeksi (PASI) değeri sağlık kurulu raporunda belirtilerek tedaviye başlanılması halinde bedelleri Kurumca karşılanır.
 b) 16 haftalık ilaç kullanım süresi sonunda başlangıç PASI değerine göre en az %75 iyileşme olduğunun yeni düzenlenecek raporda belirtilmesi halinde tedaviye devam edilir. Başlangıç PASI değerine göre %75 iyileşme sağlanamaması tedaviye yanıtsızlık olarak değerlendirilerek ilaç kullanımı sonlandırılır.
@@ -55,8 +55,8 @@ b) Şiddetli obezite (ideal ağırlığının %225 üzerinde olması), kontrol e
 (4) Serum IGF1 düzeyi +2 SD üzerine çıktığında tedaviye ara verilir. Serum IGF1 düzeyi +2 SD altına düştüğünde tedaviye yukarıdaki koşullarda yeniden başlanabilir. Solunum yolu enfeksiyonlarında iyileşme sağlanıncaya kadar tedavi başlanmaz.
 (5) Kontrol edilemeyen diyabet, tedavi edilemeyen obstrüktif uyku apnesi, aktif kanser, aktif psikoz, progresyon gösteren skolyoz durumlarında tedavi kesilir.
 (6) Epifiz hatları kapandığında tedavi sonlandırılır.
-4.2.6.A-5- Çocuklarda kronik böbrek yetmezliği (KBY) ile ilişkili büyüme bozukluklarında;
-(1) KBY evresi evre III, IV, V olan veya 6 aydan fazla süredir diyalizde olan, epifiz hatları açık olan, paratiroid hormonu 500 pikogram(pg)/ml altında olan çocuk hastalarda; malnütrisyonu, metabolik asidozu, sıvı elektrolit dengesizliği, anemisi olmaması ve aşağıdaki koşulların sağlanması durumunda büyüme hormonu tedavisine başlanması halinde bedelleri Kurumca karşılanır:
+**4.2.6.A-5- Çocuklarda kronik böbrek yetmezliği (KBY) ile ilişkili büyüme bozukluklarında;**
+(1) **KBY evresi evre** III, IV, V olan veya 6 aydan fazla süredir diyalizde olan, epifiz hatları açık olan, paratiroid hormonu 500 pikogram(pg)/ml altında olan çocuk hastalarda; malnütrisyonu, metabolik asidozu, sıvı elektrolit dengesizliği, anemisi olmaması ve aşağıdaki koşulların sağlanması durumunda büyüme hormonu tedavisine başlanması halinde bedelleri Kurumca karşılanır:
 a) Persistan büyüme geriliği olması (boyun yaş ve cinsiyete göre 3 persentilin altında (-2 SD altında) ve yıllık büyüme hızının 25 persentilin altında olması) veya
 b) Böbrek naklinden 1 yıl sonra steroid tedavisi almaksızın spontan büyümenin olmaması (boyun yaş ve cinsiyete göre 3 persentilin altında (-2 SD altında) ve yıllık büyüme hızının 25 persentilin altında olması) veya
 c) Nefropatik sistinozise bağlı KBY hastası çocuklarda boyun yaş ve cinsiyete göre 3 persentilin altında (-2 SD altında) ve yıllık büyüme hızının 25 persentilin altında olması halinde büyüme hormonu tedavisine başlanabilir.
@@ -123,7 +123,7 @@ b) 4.2.24.B numaralı maddesinin ikinci fıkrasının (a) bendinde yer alan “i
 MADDE 9- Aynı Tebliğin 4.2.30.A numaralı maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “c) Sildenafil etkin maddeli ilaçlardan Sağlık Bakanlığınca onaylı endikasyonunda 1-17 yaş pulmoner arteriyel hipertansiyon endikasyonu bulunan ilaçlar için 7 yaş altı hastalarda klinik efor kapasitesi koşulu aranmaz.”
 
-MADDE 10- Aynı Tebliğin 4.4.2 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 10- Aynı** Tebliğin 4.4.2 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
 
 “4.4.2 - Eşdeğer ilaç uygulaması
 (1) Eşdeğer ilaç uygulaması, sınırlandırılmış bir terapötik eşdeğerlik olarak, aynı ya da benzer endikasyon için kullanılabilecek etken madde/ maddenin içeren ürünlerin benzer dozaj formları arasında fiyat karşılaştırması esasına dayanır. Kurum, bu kapsamda eşdeğer grup ve/veya terapötik referans grup oluşturabilir. Ancak yalnızca aynı eşdeğer grup yer alan ilaçlar eczanede ikame edilebilir.
@@ -131,9 +131,9 @@ MADDE 10- Aynı Tebliğin 4.4.2 numaralı maddesi aşağıdaki şekilde değişt
 a) Bu esaslara göre belirlenen gruplarda; SUT’un 4.4.1 maddesinde belirtilen şekilde hesaplanan kamu fiyatı üzerinden gruba dahil ilaçların ortak en küçük birim başına düşen “indirimli birim bedelleri” karşılaştırılarak o grup için geçerli en ucuz birim bedel bulunur. Bulunan en ucuz birim bedele %5 ilave edilerek o gruptaki ilaçlar için ödenebilecek azami birim bedel bulunur. Bu şekilde bulunan ödenebilecek azami birim bedel esas alınarak, gruptaki her bir ilacın ambalaj formuna göre o ilaca özgü kutu bedeli hesaplanır ve ortaya çıkan bu kutu fiyatı, aynı ilacın kamu fiyatı ile karşılaştırılır. Kamu fiyatının, azami birim bedelden yola çıkılarak hesaplanan kutu fiyatını aşan kısmı ödenmez.
 b) Eczaneler tarafından ulaşılabilir olması amacıyla en ucuz olarak belirlenen ürünlerin, Kurum tarafından tespit edilebilen son 5 aylık verinin en az 1 ayında grup içinde %1 pazar payına sahip olması gözetilir. Söz konusu süre ve pazar payının her bir ilaç grubundaki ilaç sayısı dikkate alınarak yeniden belirlenmesinde ve bunlara ilişkin tereddütlerin giderilmesinde “Sağlık Hizmetleri Fiyatlandırma Komisyonu” yetkilidir.”
 
-MADDE 11- Aynı Tebliğin eki “Bedeli Ödenecek İlaçlar Listesi (EK-4/A)” Ek’teki şekilde değiştirilmiştir.
+**MADDE 11-** Aynı Tebliğin eki “Bedeli Ödenecek İlaçlar Listesi (EK-4/A)” Ek’teki şekilde değiştirilmiştir.
 
-MADDE 12- Aynı Tebliğin eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 12- Aynı** Tebliğin eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin “3” numaralı maddesine aşağıdaki alt madde eklenmiştir.
 “3.2.1. Büyüme hormonu *(Yalnızca kronik böbrek yetmezliği ile ilişkili büyüme bozuklukları tanısında muaftır.) (SUT’un 4.2.6.A-5 numaralı maddesinde yer alan ilkelerle göre)”
 b) Listenin “6.3” numaralı maddesine aşağıdaki alt madde eklenmiştir.
@@ -152,16 +152,16 @@ e) Listenin “15” numaralı maddesine aşağıdaki alt madde eklenmiştir.
 
 15.2.1.1. Büyüme hormonu *(Yalnızca Prader-Willi Sendromu (PWS) tanısında muaftır.) (SUT’un 4.2.6.A-4 numaralı maddesinde yer alan ilkelerle göre)”
 
-MADDE 13- Aynı Tebliğin eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi (EK-4/E)”nde yer alan “13- DİĞERLERİ” başlığı altındaki “30” numaralı maddesi yürürlükten kaldırılmıştır.
+**MADDE 13-** Aynı Tebliğin eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi (EK-4/E)”nde yer alan “13- DİĞERLERİ” başlığı altındaki “30” numaralı maddesi yürürlükten kaldırılmıştır.
 
-MADDE 14- Aynı Tebliğin eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) ile Verilebilecek İlaçlar Listesi (EK-4/F)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 14- Aynı** Tebliğin eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) ile Verilebilecek İlaçlar Listesi (EK-4/F)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin “45” numaralı maddesinde yer alan “nöroloji,” ibaresinden sonra gelmek üzere “fizik tedavi ve rehabilitasyon,” ibaresi eklenmiştir.
 b) Listenin “67” numaralı maddesine aşağıdaki cümle eklenmiştir.
 “1 yıl içinde toplam 4 enjeksiyondan fazla kullanılması durumunda yalnızca immünoloji ve alerji uzman hekimlerince rapor düzenlenerek immünoloji ve alerji uzman hekimlerince reçete edilebilir.”
 c) Listeye aşağıdaki madde eklenmiştir.
 “84. Sodyum fenilbütirat; karbamilsfosfat sentetaz, ornitin transkarbamilaz veya argininosüksinat sentetaz eksikliklerinin içeren üre siklusu bozukluklarının kronik tedavisinde ek tedavi olarak veya yenidoğan başlangıçlı tüm hastaların (yaşamın ilk 28 günü içinde ortaya çıkan tam enzim eksiklikleri) tedavisinde veya hiperamonyemik ensefalopati öyküsü olan geç başlangıçlı hastaların (yaşamın ilk ayından sonra ortaya çıkan kısmi enzim eksiklikleri) tedavisinde; çocuk metabolizma veya çocuk endokrin ve metabolizma uzman hekimleri tarafından düzenlenen 6 ay süreli uzman hekim raporuna dayanılarak çocuk metabolizma veya çocuk endokrin ve metabolizma uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır.”
 
-MADDE 15- Aynı Tebliğin eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 15- Aynı** Tebliğin eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin “55” numaralı maddesine aşağıdaki alt madde eklenmiştir.
 “Diğer endikasyonlarında reçete edilmesi halinde bedelleri Kurumca karşılanmaz.”
 b) Listenin “62” numaralı maddesine aşağıdaki alt madde eklenmiştir.
@@ -169,13 +169,13 @@ b) Listenin “62” numaralı maddesine aşağıdaki alt madde eklenmiştir.
 c) Listeye aşağıdaki madde eklenmiştir.
 “79. Karbetosin: Uterus atonisi nedeniyle postpartum hemorajinin önlenmesinde artmış kanama riski olan (postpartum kanama hikayesi, çoğul gebelik, plasenta previa, ablasyon plasenta, koryoamniyonit, büyük myoma uterin (6 ≥ eşit cm), intrapartum IM/IV magnezyum kullanımı, makrozomik bebek doğumu, 40 yaş üstü ilk doğumu olan, 4 ve üzeri doğumu olan, polihidroamnios veya hemoglobin değeri 9 g/dl altında olan) hastalarda kadın hastalıkları ve doğum uzmanları tarafından her hastaya yalnızca 1 kutu kullanılması halinde bedelleri Kurumca karşılanır.”
 
-MADDE 16- Bu Tebliğin;
+**MADDE 16- Bu** Tebliğin;
 a) 7 nci maddesi 1/8/2021 tarihinden geçerli olmak üzere yayımı tarihinde,
 b) 1 ila 6 ncı, 8 inci, 9 uncu, 12 ila 15 inci maddeleri yayımı tarihinden 5 iş günü sonra,
 c) Diğer hükümleri yayımı tarihinde,
 yürürlüğe girer.
 
-MADDE 17- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 17- Bu** Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 
 | Kanun No | Global Barkod | Ürün Adı | İlaç Barkodu | Kayıtlı Ürün Grubu | Referans Fiyat Grubu | Liste Giriş Tarihi | Aktüelleştirme Tarihi | Pasifleştirme Tarihi | Orijinal / Jenerik / Yerli Yabancı | Depo/eczacı satış fiyatı (KDV hariç) | Depo/eczacı satış fiyatı (KDV dahil) | Depo/eczacı satış fiyatı + iskonto | Depo/eczacı satış fiyatı altındaki iskonto | Özel iskonto |
 |---|---|---|---|---|---|---|---|---|---|---:|---:|---:|---:|---:|

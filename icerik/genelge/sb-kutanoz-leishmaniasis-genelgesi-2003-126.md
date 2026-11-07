@@ -16,7 +16,7 @@ kontrol_edildi: true
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-SAYI : B100TSH0110002
+**SAYI : B100TSH0110002**
 KONU : Kutanöz Leishmaniasis
 24.10.2003        16130
 
@@ -40,7 +40,7 @@ EK: Kutanöz Leishmaniasis Olgularında Tanı ve Tedavide Yaklaşım (3 sf.)
 Prof. Dr. Recep AKDAĞ
 Sağlık Bakanı
 
-DAĞITIM:
+**DAĞITIM:**
 A Plânı
 
 DAİMİ GENELGE
@@ -76,7 +76,7 @@ Yukarıdaki klinik ve laboratuvar araştırmalarla etken gösterilerek kesin tan
 
 Etkenin doğrudan gösterilemediği olgularda, tek başına histopatolojik bulgulara dayanılarak tanı ve tedaviye gidilmesi sakıncalıdır. Parazitolojik doğrulamanın yapılamadığı olguların, bir dermatoloji kliniğinde yeniden değerlendirilmesi uygundur.
 
-3. Tanısı Parazitolojik Olarak Doğrulanmış Olgularda Tedavi Yaklaşımı
+3. **Tanısı Parazitolojik Olarak Doğrulanmış Olgularda Tedavi Yaklaşımı**
 
 Tanısı parazitolojik olarak doğrulanmış bütün olgular tedaviye alınmalıdır. Ancak baş boyun bölgesi dışında, çapı 1 cm’den küçük ve tek olan lezyonlar, gelişiminin belli aralıklarla takip edilmesi kaydıyla tedavisiz bırakılabilirler.
 
@@ -97,9 +97,9 @@ Gebe ya da emzirenlerde antimon tedavisinin güvenirliği ile ilgili yeterli bir
 - Yara iyileşmesini geciktiren kronik (Diabetes mellitus gibi) veya immun yetmezlikle seyreden hastalığı olan ya da immun supresif tedavi alan olgular,
 - Multiple lezyonlu (Ondan fazla) olgular.
 
-4. Tedavi Uygulamaları
+4. **Tedavi Uygulamaları**
 
-4.1. Sistemik Tedavi
+4.**1. Sistemik Tedavi**
 
 Beş değerlikli antimon (Sbᵛ), 10-20 mg/kg/gün (tek dozda uygulanır) 12-15 gün süreyle parenteral olarak uygulanır.
 

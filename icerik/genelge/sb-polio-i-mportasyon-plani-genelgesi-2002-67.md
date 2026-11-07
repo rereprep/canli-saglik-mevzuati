@@ -24,7 +24,7 @@ Konu: Polio İmportasyon Planı Genelgesi
 
 05.07.2002 / 6191
 
-GENELGE 2002/67
+**GENELGE** 2002/67
 
 Hastalık morbidite ve mortalite hızlarını düşürmek ve salgınları kontrol etmek amacıyla, Dünya'da hastalık kontrol programları başlatılmış ve Global Poliomyelit Eradikasyonu Programı böylece gündeme gelmiştir. 1988 yılında 41. Dünya Sağlık Asamblesinde, tüm dünyadan poliomyelitin eradikasyonu hedeflenmiştir. O zamandan bu yana belirgin gelişmeler olmuştur. Türkiye'nin de dahil olduğu Dünya Sağlık Örgütü Avrupa Bölgesi'nin vahşi virüse bağlı son yerli poliomyelit vakası 1998 yılında saptanmıştır. Avrupa Bölgesi 21 Haziran 2002 tarihinde "polio'dan arındırılmış bölge" olarak belgelendirilmiştir.
 
@@ -36,8 +36,8 @@ Yürütülecek çalışmaların ekteki plana göre düzenlenmesi hususunda gere�
 
 Eki: İmportasyon planı (9 sayfa)
 
-Doç. Dr. Osman DURMUŞ
-Bakan
+**Doç. Dr. Osman DURMUŞ**
+**Bakan**
 
 DAĞITIM
 A PLANI
@@ -132,7 +132,7 @@ Tüm iller 2002 yılı sonuna kadar yüksek kaliteli AFP sürveyans sistemi gös
 
 ### YAPILACAK AKTİVİTELER
 
-1. SICAK VAKA DURUMU:
+1. **SICAK VAKA DURUMU:**
 
 Tanım:
 
@@ -164,7 +164,7 @@ Sıcak vaka ile ilgili bildirim TSHGM tarafından en kısa sürede DSÖ'ne de il
 
 Tanım: Bu vakalar herhangi bir yaşta belirlenen ve poliovirüs izole edilen ama henüz intratipik ayrımı tamamlanmamış sıcak AFP vakalarıdır.
 
-Yapılacak Aktiviteler:
+**Yapılacak Aktiviteler:**
 
 TSHGM ve Laboratuvarlar:
 
@@ -183,7 +183,7 @@ TSHGM ve Laboratuvarlar:
 - Güçlendirilmiş aktif sürveyans çalışmaları intratipik ayrım ile vahşi virüs olmadığı gösterilene kadar sürdürülecektir.
 - Risk altındaki popülasyon ve vakanın bulunduğu bölgenin çevresini de kapsayan alanın aşı oranları TSHGM ile hızla gözden geçirilecek ve gerekli olan bölgelerde belirlenen yaş grubundaki çocuklara mop-up stratejisi ile ev ev gezilerek aşılama çalışması yürütülecektir.
 
-3. VAHŞİ VİRÜS İZOLASYONU DURUMU:
+3. **VAHŞİ VİRÜS İZOLASYONU DURUMU:**
 
 Tanım: Olası poliomyelit vakasından (paralitik veya non paralitik) intratipik inceleme ile vahşi virüs olduğunun gösterilmesi durumudur. Aşı türevi poliovirüs, vahşi poliovirüse benzer özellikler gösterdiğinden saptanması durumunda yapılacak aktiviteler aynıdır.
 
@@ -215,7 +215,7 @@ Laboratuvarda polio virüslerin kontrolü ve yok edilmesi (containment) Ulusal f
 
 Kapsamlı bir araştırmadan sonra, vakalar importe ve yerli olarak sınıflandırılacaktır. Eğer genetik inceleme verileri virüsün başka bir ülkede dolaşan virüs olduğunu gösterirse virüs importe olarak kabul edilecektir. Eğer genetik inceleme verileri virüsün ilk kez saptanan bir genotip veya ülkede daha önce de varolan virüs olduğunu gösterirse, bunun tersini ispatlayacak inandırıcı epidemiyolojik kanıt ve bölgede yüksek kaliteli AFP sürveyansı olmadıkça virüs yerli olarak kabul [?]
 
-Yapılacak Aktiviteler:
+**Yapılacak Aktiviteler:**
 
 3.a ULUSAL DÜZEYDEKİ AKTİVİTELER
 

@@ -14,11 +14,11 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Kamu Hastaneleri Genel Müdürlüğü
 
 Sayı : 80981279
-Konu : Tedarik Paylaşım Platformu.
+**Konu** : Tedarik Paylaşım Platformu.
 
 ### GENELGE
 ### 2018/18
@@ -96,7 +96,7 @@ Bilgilerinizi ve gereğini önemle rica ederim.
 
 Prof. Dr. Eyüp GÜMÜŞ
 Bakan a.
-Müsteşar
+**Müsteşar**
 
 **Dağıtım:**
 **Gereği:**

@@ -15,14 +15,14 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı : B.10.0.SHG.0.20.00.00-010-06-02/17999             03/04/2012
+**Sayı** : B.10.0.SHG.0.20.00.00-010-06-02/17999             03/04/2012
 Konu : 2006/79 sayılı Genelgemiz.
 
 …………………………………… VALİLİĞİNE
-(GENELGE)
+**(GENELGE)**
 2012/32
 
 İlgi: 07.07.2006 tarihli ve B.10.0.THG.0.16.00.02-211.99-01(314-1) 13134 sayılı (2006/79) Genelgemiz.
@@ -34,13 +34,13 @@ Prof. Dr. Nihat TOSUN
 Bakan a.
 Müsteşar
 
-DAĞITIM:
+**DAĞITIM:**
 
-Gereği:
+**Gereği:**
 81 İl Valiliğine
 (İl Sağlık Müdürlüğü)
 
-Bilgi:
+**Bilgi:**
 Denetim Hizmetleri Başkanlığına
 Türkiye Kamu Hastaneleri Kurumu Başkanlığına
 

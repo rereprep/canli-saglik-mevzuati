@@ -86,7 +86,7 @@ dahil edilmez.
 
 Bir yıl içinde incelenen yerleşim birimi (ilçe, il, bölge, ülke) sınırları içerisinde bulunan sağlık kurumlarının toplam hasta yatağı sayısının birimin nüfusuna bölünmesi ile elde edilir. Belli sayıda (genellikle 10,000) kişiye düşen hasta yatak sayısını ifade eder. Planlama yapmak gibi diğer amaçlar yanında yerleşim birimleri arasında kıyaslama yapmak amacıyla da kullanılır.
 
-10,000 Kişiye Düşen Hasta Yatak Sayısı = İncelenen yerleşim birimi sınırları içindeki toplam hasta yatağı sayısı / İncelenen yerleşim birimi toplam nüfusu x 10,000
+**10,000 Kişiye Düşen Hasta** Yatak Sayısı = İncelenen yerleşim birimi sınırları içindeki toplam hasta yatağı sayısı / İncelenen yerleşim birimi toplam nüfusu x 10,000
 
 Örnek: 674,387 nüfuslu bir ildeki toplam hasta yatağı sayısı 1,625 dir. Bu ilde 10,000 kişiye düşen hasta yatağı sayısı;
 
@@ -130,24 +130,24 @@ Yatılan Gün Sayısı / (Taburcu + Ölen)
 
 Bir yılda hastane polikliniğine başvuran hastaların ne kadarının yatırılarak tedavi edildiğini gösterir.
 
-Yatan Hasta X 100 / Poliklinik
+**Yatan Hasta** X 100 / Poliklinik
 
 #### J) YATAK DEVİR HIZI
 
 Bir yatağın yılda kaç hasta tarafından kullanıldığını gösterir.
 
-Yatan Hasta / Hasta Yatağı
+**Yatan Hasta** / Hasta Yatağı
 
 #### K) DEVİR ARALIĞI (GÜN)
 
 Bir hasta yatağının kaç gün boş kaldığını gösterir.
 
-Hasta Yatağı X Süre - Yatılan Gün Sayısı / (Taburcu + Ölen)
+**Hasta Yatağı** X Süre - Yatılan Gün Sayısı / (Taburcu + Ölen)
 
 #### L - YATAK DOLULUK ORANI:
 
 Belirli bir zaman dilimi içerisinde hasta yataklarının ne oranda hasta tarafından kullanıldığını gösterir hesaplama formülü
 
-Yatak Doluluk Oranı = Yatılan Gün Sayısı X 100 / 3 ay (90 - 92 gün) veya 1 yıl (365 gün) X hasta yatak sayısı
+**Yatak Doluluk Oranı =** Yatılan Gün Sayısı X 100 / 3 ay (90 - 92 gün) veya 1 yıl (365 gün) X hasta yatak sayısı
 
 Hasta yataklarının yeterli kullanılıp kullanılmadığını gösterir

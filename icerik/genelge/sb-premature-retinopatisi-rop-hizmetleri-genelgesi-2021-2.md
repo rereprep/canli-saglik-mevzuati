@@ -21,7 +21,7 @@ Sayı : E-54567092-010.03
 Konu : Prematüre Retinopatisi (ROP) Hizmetleri
 
 ### GENELGE  
-2021/2
+**2021/**2
 
 Prematüre retinopatisi (ROP), prematürelerde görülen retina damarlarının gelişimsel bozukluğuna bağlı olarak gelişen bir göz hastalığıdır. Gebelik haftası, düşük doğum ağırlığı, uygulanan oksijen tedavisinin süresi ve konsantrasyonunun ROP için en iyi bilinen risk faktörü olmasının yanı sıra, prematüre bebeğin ek hastalıklarının, uygulanan tedavilerin ve girişimsel işlemlerin de ROP gelişiminde rol oynadığı düşünülmektedir.
 
@@ -30,8 +30,8 @@ ROP sıklığı ülkelerin gelişmişlik düzeyleri ve yenidoğan yoğun bakım 
 Bu kapsamda, ülkemizde sunulacak ROP hizmetine ilişkin usul ve esaslar aşağıda düzenlenmiştir.
 
 #### 1. Tanımlar
-1.1. ROP tanı merkezi: 32 haftadan küçük ve 1500 gr altı doğan tüm bebekler ile 32 haftadan büyük ve 1500 gr üstü doğmasına rağmen kardiyopulmoner destek tedavisi uygulanmış veya bebeği takip eden uzman hekimin ROP gelişimi açısından riskli gördüğü prematüre bebeklerin doğumdan sonraki 4-6 hafta içinde ROP tarama muayenesinin yapıldığı merkezleri,  
-1.2. ROP tanı ve tedavi merkezi: ROP tanı merkezi faaliyetlerine ilave olarak ROP tanısı alanların tedavilerinin de yapıldığı merkezleri,  
+1.1. **ROP tanı merkezi:** 32 haftadan küçük ve 1500 gr altı doğan tüm bebekler ile 32 haftadan büyük ve 1500 gr üstü doğmasına rağmen kardiyopulmoner destek tedavisi uygulanmış veya bebeği takip eden uzman hekimin ROP gelişimi açısından riskli gördüğü prematüre bebeklerin doğumdan sonraki 4-6 hafta içinde ROP tarama muayenesinin yapıldığı merkezleri,  
+1.2. **ROP tanı ve tedavi merkezi:** ROP tanı merkezi faaliyetlerine ilave olarak ROP tanısı alanların tedavilerinin de yapıldığı merkezleri,  
 ifade eder.
 
 #### 2. ROP hizmetlerine ilişkin genel esaslar

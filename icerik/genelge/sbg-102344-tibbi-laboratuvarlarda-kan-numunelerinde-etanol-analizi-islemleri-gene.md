@@ -24,8 +24,8 @@ Konu : Kan Numunelerinde Etanol Analizi İşlemlerinin Usul ve Esasları
 
 11/07/2017
 
-GENELGE
-2017/12
+**GENELGE**
+**2017/12**
 
 09/10/2013 tarihli ve 28790 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiş bulunan Tıbbi Laboratuvarlar Yönetmeliğinin "Tıbbi laboratuvarların çalışma esasları" başlıklı 12 nci maddesinin 14 üncü fıkrasında, "Yasadışı ve kötüye kullanılan ilaç ve maddelerin analizini yapan tıbbi laboratuvarlar ile alkol ve madde bağımlılığı tedavi merkezlerindeki tıbbi laboratuvarların çalışma usul ve esasları Bakanlıkça belirlenir." hükmü yer almaktadır. Anılan hüküm gereğince; tıbbi laboratuvarlarda kan numunelerinde etanol analizi işlemleri için ekteki usul ve esaslar belirlenmiş olup uygulamanın bu hükümler doğrultusunda yürütülmesi gerekmektedir.
 
@@ -33,13 +33,13 @@ Bilgilerini ve uygulamanın iş bu Genelge esaslarına göre yürütülmesini ö
 
 Prof. Dr. Eyüp GÜMÜŞ
 Bakan a.
-Müsteşar
+**Müsteşar**
 
 EK:
 Kan Numunelerinde Etanol Analizi İşlemlerinin Usul ve Esasları (3 sayfa)
 
 DAĞITIM:
-Gereği İçin:
+**Gereği İçin:**
 81 İl Valiliği (İl Sağlık Müdürlüğü)
 Türkiye Halk Sağlığı Kurumu
 Türkiye Kamu Hastaneleri Kurumu
@@ -75,7 +75,7 @@ T.C. İçişleri Bakanlığı Emniyet Genel Müdürlüğü
 2.1.1.5. **Numune Alım Yeri:** Hastadan standart teknikle venöz/arteriel kan alınır. Hastaya intravenöz yolla mayi verilmesi gereken durumlarda kanın, mayi verilmeyen damar yolundan (diğer koldan) veya uygulama öncesinde alınması gereklidir.
 2.1.1.6. **Numune Sayısı ve Kabı:** İki ayrı steril vakumlu tüpe kan numunesi alınır (test numunesi ve şahit numune). Test numunesi, yöntem prensibine uygun olarak antikoagülanlı veya antikoagülansız kan tüplerine alınır. Şahit numuneler ise koruyucu içeren (tercihen sodyum fluorid ve EDTA) tüplere alınır ve tam kan olarak saklanır. Numuneler alındıktan sonra tüpler yavaşça en az 5-6 kez alt üst edilerek karıştırılır.
 2.1.2. **Numune Kabul:** Numune kabul biriminde numune, kabul/ret kriterlerine göre değerlendirilerek laboratuvar kabul işlemi yapılır.
-2.1.3. **Numune İşleme:** Test numunesi (serum, plazma veya tam kan); testin çalışma prensiplerine uygun şekilde analize kadar primer veya sekonder kapalı tüplerde saklanır. Eğer numunenin analizi 4 saat içinde yapılamayacak ise, numune analize kadar +4 °C'de tüp kapağı açılmadan primer veya sekonder tüpte, en fazla 14 gün süreyle saklanır.
+**2.1.3. Numune İşleme:** Test numunesi (serum, plazma veya tam kan); testin çalışma prensiplerine uygun şekilde analize kadar primer veya sekonder kapalı tüplerde saklanır. Eğer numunenin analizi 4 saat içinde yapılamayacak ise, numune analize kadar +4 °C'de tüp kapağı açılmadan primer veya sekonder tüpte, en fazla 14 gün süreyle saklanır.
 2.1.4. **Numune Transferi:** Numune transferleri için soğuk zincir uygulaması geçerlidir ve transfer kilitli çanta/kap/kutu ile yapılır.
 
 #### 2.2. Analitik Evre

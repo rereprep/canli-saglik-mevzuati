@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Karar Sayısı : KHK/560 Gıdaların üretimi, tüketimi ve denetlenmesi konularında düzenlemeler yapılması;
+**Karar Sayısı : KHK/560** Gıdaların üretimi, tüketimi ve denetlenmesi konularında düzenlemeler yapılması;
 
 8/6/1995 tarihli ve 4113 sayılı Kanunun verdiği yetkiye dayanılarak, Bakanlar Kurulu'nca 24/6/1995 tarihinde kararlaştırılmıştır.
 
@@ -23,9 +23,9 @@ BİRİNCİ BÖLÜM Genel H ü k ü m l er Amaç
 
 Kapsam Hadde 2-Bu Kanun Rüknünde Kararname, gıda maddelerinin hijyenik ve uygun kalitede üretimine, tasnifine, işlenmesine, katkı ve yardımcı maddelerine.
 
-Yürütme ve İdare Bölümü Sayfa : 3 ambalajlama, etiketleme, depolama, nakil, satış ve denetim usulleri i le yetki, görev ve sorumluluklara dair hususları kapsar. Bu Kanun Hükmünde Kararnamede hüküm bulunmayan hallerde genel hükümler uygulanır.
+**Yürütme ve İdare Bölümü** Sayfa : 3 ambalajlama, etiketleme, depolama, nakil, satış ve denetim usulleri i le yetki, görev ve sorumluluklara dair hususları kapsar. Bu Kanun Hükmünde Kararnamede hüküm bulunmayan hallerde genel hükümler uygulanır.
 
-Tanımlar
+**Tanımlar**
 
 **Madde 3 –** Bu Kanun Hükmün de Kararnamede geçen;
 
@@ -85,11 +85,11 @@ Yürütme ve İdare Bölümü Sayfa : 9 Düzenlenen hükümler
 
 24/4/1930 tarihli ve 1593 s a y ı lı Umumi Hıfzıssıhha Kanunu'nun 3 üncü maddesinin birinci f ı k r a s ı n ın 6 numaralı bendindeki "Gıdalar ile" ibaresi, 20 ncı maddesinin birinci fıkrasının, 8 numaralı bendi ile 170, 171 ve 172 inci maddeleri yürürlükten k a l d ı r ı l m ı ş t ı r. 24/4/1930 tarihli ve 1593 s a y ı lı Kanunun Sekizinci Bab'ının bu Kanun Hükmündeki Kararname i le getirilen hükümlerine a y k ı r ı l ık gösteren hükümler yürürlükten kaldırılmıştır ve diğer kanunların bu Kanun Hükmünde Kararnameye aykırı hükümleri uygulanmaz.
 
-3/4/1930 t a r i h li ve 15B0 s a y ı lı Belediye Kanunu'nun 15 inci maddesinin 28 inci fıkrasındaki "yiyeceği, içeceği ve",61 inci fıkrasındaki "ve hususi teşebbüs tarafından kurulan aynı mahiyetteki tesisleri sağlık ve teknik bakımlardan murakabe etmek" ibareleri ile 77 nci fıkrası yürürlükten kaldırılmış ve 13 üncü fıkrasının başına "Gıda maddeleri üreten i ş y e r l e ri hariç" ibaresi eklenmiştir.
+**3/4/1930 t a r i h li ve 15B0 s a y ı lı Belediye Kanunu'nun 15 inci maddesinin** 28 inci fıkrasındaki "yiyeceği, içeceği ve",61 inci fıkrasındaki "ve hususi teşebbüs tarafından kurulan aynı mahiyetteki tesisleri sağlık ve teknik bakımlardan murakabe etmek" ibareleri ile 77 nci fıkrası yürürlükten kaldırılmış ve 13 üncü fıkrasının başına "Gıda maddeleri üreten i ş y e r l e ri hariç" ibaresi eklenmiştir.
 
-8/6/1942 t a r i h li ve 4250 s a y ı lı İ s p i r to ve ispirtolu İçkiler İnhisarı Kanunu'nun 1 inci maddesinin 4 üncü f ı k r a sı ile 12, 13, 29, 30, 31 ve 34 üncü maddeleri yürürlükten kaldırılmıştır.
+**8/6/1942 t a r i h li ve 4250 s a y ı lı İ s p i r to ve ispirtolu İçkiler İnhisarı** Kanunu'nun 1 inci maddesinin 4 üncü f ı k r a sı ile 12, 13, 29, 30, 31 ve 34 üncü maddeleri yürürlükten kaldırılmıştır.
 
-10/6/1930 t a r i h li ve 1705 s a y ı lı Ticarette Tağşişin Men'i, İhracatın Murakabesi ve Korunması Hakkında Kanun'un 1 inci maddesinin başına "Gıda maddeleri hariç olmak üzere" ibaresi eklenmiştir.
+**10/6/1930 t a r i h li ve 1705 s a y ı lı Ticarette Tağşişin Men'i, İhracatın** Murakabesi ve Korunması Hakkında Kanun'un 1 inci maddesinin başına "Gıda maddeleri hariç olmak üzere" ibaresi eklenmiştir.
 
 İ4/6/1989 t a r i h li ve 3572 s a y ı lı kanunun 2 nci maddesinin birinci fıkrasına aşağıdaki bend eklenmiştir. "e) 1 i n c i, 2 nci ve 3 üncü s ı n ıf gıda maddesi üreten gayri sıhhi müesseselere".
 
@@ -97,35 +97,35 @@ Yürütme ve İdare Bölümü Sayfa : 9 Düzenlenen hükümler
 
 **Geçici Madde 1 –** Halen faaliyet gösteren gıda maddeleri üreten i ş y e r l e ri ile gıda maddeleri s a t ış yerleri ve bu i ş y e r l e r i n de istihdam edilen personel bu Kanun Hükmünde Kararnamede belirtilen yönetmeliklerin yayımı tarihinden itibaren bir y ıl i ç i n de durum ve faaliyetlerini Sağlık Bakanlığı ile Tarım ve Köyişleri Bakanlığı' nca belirlenecek usul ve esaslar çerçevesinde bu Kanun Hükmünde Kararname hükümlerine uydurmak zorundadır.
 
-Yürütme ve İdare Bölümü Sayfa : 10 Yürürlük
+**Yürütme ve İdare Bölümü Sayfa : 10** Yürürlük
 
 **Madde 22 –** Bu Kan Yürütme
 
 **Madde 23 –** Bu Kan Prof. Dr. Tansu ÇİLLER Başbakan
 
-H. ÇETİN Devlet Bakanı ve Başb. Yrd.
+**H. ÇETİN** Devlet Bakanı ve Başb. Yrd.
 
-B. S. DAÇE Devlet Bakanı
+**B. S. DAÇE** Devlet Bakanı
 
-A. HACALOĞLU Devlet Bakanı
+**A. HACALOĞLU** Devlet Bakanı
 
-A. GÖKDEMİR Devlet Bakanı
+**A. GÖKDEMİR** Devlet Bakanı
 
-N. MENTEŞE İçişleri Bakanı
+**N. MENTEŞE** İçişleri Bakanı
 
-N. AYAZ Milli Eğitim Bakanı
+**N. AYAZ** Milli Eğitim Bakanı
 
-A. Ş. EREK Ulaştırma Bakanı
+**A. Ş. EREK** Ulaştırma Bakanı
 
 H.AKYOL Sanayi ve Ticaret Bakanı t. GÜRPINAR Turizm Bakanı Ba Karar Sayısı ; 95 Ekli listede adları beli leri Bakanlığı'nın 22/5/199 26/5/1995 tarihinde kararla Prof. Dr. Tansu ÇİLLER Başbakan
 
 H. ÇETİN Devlet Bak. ve Başb.Yrd.
 
-O. KUMBARACIBAŞI Devlet Bakanı
+**O. KUMBARACIBAŞI** Devlet Bakanı
 
-N. KURT Devlet Bakanı
+**N. KURT** Devlet Bakanı
 
-Z. HALİS Devlet Bakanı
+**Z. HALİS** Devlet Bakanı
 
 N. AYAZ Milli Savunma Bakam V.
 

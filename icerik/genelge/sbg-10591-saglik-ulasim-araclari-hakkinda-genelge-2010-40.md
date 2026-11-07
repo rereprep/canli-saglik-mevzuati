@@ -15,7 +15,7 @@ kontrol_edildi: true
 
 ### T.C. SAĞLIK BAKANLIĞI – İdari ve Mali İşler Dairesi Başkanlığı
 
-Sayı: B.10.0.İMİ.0.00.00.07/  
+**Sayı**: B.10.0.İMİ.0.00.00.07/  
 Konu: Sağlık Ulaşım Araçları
 
 ### GENELGE 2010/40

@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.7. Akut İnmeli Hastalara Verilecek Sağlık Hizmetleri Hakkında Yönerge
+**2.2.7. Akut İnmeli Hastalara Verilecek Sağlık Hizmetleri Hakkında** Yönerge
 
 ### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -96,7 +96,7 @@ k) 112 KKM: Valiliklere bağlı ortak çağrı merkezi veya 112 İl Ambulans Ser
 
 ## İKİNCİ BÖLÜM
 
-Genel Şartlar, Birimlerin Özellikleri, Nörogirişim Uygulamaları, Sevk Esasları,
+**Genel Şartlar, Birimlerin Özellikleri, Nörogirişim Uygulamaları, Sevk Esasları,**
 
 ### Kayıtların Tutulması, İzleme ve Değerlendirme
 
@@ -244,7 +244,7 @@ c) Sertifika ve/veya eğitim belgeleri,
 
 Mevcut inme birimleri
 
-GEÇİCİ MADDE 1- (1) Bu Yönergede belirtilen hususların hâlihazırda inme birimi olarak belirlenmiş tesislere bu yönergedeki şartlara uyum sağlanması için bir kereye mahsus 1 (bir) yıl süre verilir.
+**GEÇİCİ MADDE** 1- (1) Bu Yönergede belirtilen hususların hâlihazırda inme birimi olarak belirlenmiş tesislere bu yönergedeki şartlara uyum sağlanması için bir kereye mahsus 1 (bir) yıl süre verilir.
 
 #### Yürürlük
 

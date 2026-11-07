@@ -17,15 +17,15 @@ kontrol_edildi: true
 6.3.4. Yetki Devri Genelgesi (2010/9)
 
 T.C.
-SAĞLIK BAKANLIĞI
-Temel Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Temel Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı : B.10.0.TSH.027.00.02-170.09- 5323
-Konu : Yetki Devri
+**Sayı** : B.10.0.TSH.027.00.02-170.09- 5323
+**Konu : Yetki Devri**
 
-24 Şubat 2010
+**24 Şubat 2010**
 
-GENELGE
+**GENELGE**
 2010/9
 
 Karayolları Trafik Kanununun değişik 48 inci maddesinin beşinci fıkrası ile 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesine dayanılarak hazırlanan ve 14.09.2004 tarihli ve 25583 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren Sürücü Davranışlarını Geliştirme Eğitimi (SÜDGE) Yönetmeliğine istinaden İl Sağlık Müdürlüklerimizde SÜDGE eğitim birimleri açılmıştır.
@@ -66,7 +66,7 @@ Müsteşar
 
 EK: Sertifika örneği
 
-DAĞITIM
+**DAĞITIM**
 Gereği :
 81 İl Valiliğine
 

@@ -32,14 +32,14 @@ Bu kapsamda diyaliz merkezleri, hasta kimlik ve diyaliz bilgileri ile programda 
 
 Gereğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM:
 
-Gereği: 81 İl Valiliği
+**Gereği:** 81 İl Valiliği
 
 Bilgi: İdari Mali İşler Daire Başkanlığı

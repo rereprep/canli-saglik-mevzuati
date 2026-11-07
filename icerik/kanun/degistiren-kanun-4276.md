@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No . 4276 Kabul Tarihi: 18.6,1997
+**Kanun No . 4276 Kabul Tarihi: 18.6,1997**
 
 **MADDE 1 –** 9.3.1954 tarihli ve 6343 sayılı Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile Odalarının Teşekkül Tarzına ve Göreceği İşlere Dair Kanunun 14 uncu maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir Türk Veteriner Hekimleri Birliği ve veteriner hekim odaları, kuruluş amaçlan dışında faaliyette bulunamazlar.
 
@@ -75,11 +75,11 @@ Ziraat Odaları Birliği, kuruluş amaçlan dışında faaliyette bulunamaz.
 
 **MADDE 14 –** 7.6.1985 tarihli ve 3224 sayılı Türk Diş Hekimleri Birliği Kanununun 3 üncü maddesinin ikinci fikrası aşağıdaki şekilde değiştirilmiştir.
 
-Odalar, kuruluş amaçlan dışında faaliyette bulunamazlar
+**Odalar, kuruluş amaçlan dışında faaliyette bulunamazlar**
 
 **MADDE 15 –** 3224 sayılı Kanunun 19 uncu maddesinin dördüncü fikrası aşağıdaki şekilde değiştirilmiştir.
 
-Birlik, kuruluş amaçlan dışında faaliyette bulunamaz.
+**Birlik, kuruluş amaçlan dışında faaliyette bulunamaz.**
 
 **MADDE 16 –** 3224 sayılı Kanunun 35 inci maddesinin ikmcı fikrası aşağıdaki şekilde değiştirilmiştir. Aynca aynı maddenin altıncı ve yedinci fikralan altıncı fikra olarak aşağıdaki şekilde değiştirilmiştir Amaçlan dışında faaliyet gösteren odalar ve Birliğin sorumlu organlannın görevlerine son verilmesine ve yerlenne yemlerinin seçilmesine, Sağlık Bakanlığının veya bulunduklan yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç uç ay içinde sonuçlandırılır Ancak, mülî güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, odalar ile Birlik, vali tarafından faaliyetten men edilebilir. Faaliyetten men karan, yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, kararını kırksekiz saat içinde açıklar; aksı halde, bu idari karar kendiliğinden yürürlükten kalkar.
 
@@ -93,7 +93,7 @@ Amaçlan dışında faaliyet gösteren oda ve Birliğin sorumlu organlarının g
 
 Ancak, millî güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, Türk Eczacıları Birliği ve eczacı odaları, vali tarafından faaliyetten men edilebilir. Faaliyetten men karan, yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, kararını kırksekiz saat içerisinde açıklar; aksı halde, bu idarî karar kendiliğinden yürürlükten kalkar.
 
-MADDE 1 9- 8.3.1950 tarihli ve 5590 sayılı Ticaret ve Sanayi Odaları, Ticaret Odaları, Sanayi Odaları, Deniz Ticaret Odaları, Ticaret Borsaları ve Türkiye Ticaret, Sanayi, Deniz Ticaret Odaları ve Ticaret Borsaları Birliği Kanununun Ek 6 nci maddesinin birinci ve ikinci fikraları aşağıdaki şekilde değiştirilmiştir. Ayrıca aynı maddenin altıncı ve yedinci fikraları altıncı fikra olarak aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 9-** 8.3.1950 tarihli ve 5590 sayılı Ticaret ve Sanayi Odaları, Ticaret Odaları, Sanayi Odaları, Deniz Ticaret Odaları, Ticaret Borsaları ve Türkiye Ticaret, Sanayi, Deniz Ticaret Odaları ve Ticaret Borsaları Birliği Kanununun Ek 6 nci maddesinin birinci ve ikinci fikraları aşağıdaki şekilde değiştirilmiştir. Ayrıca aynı maddenin altıncı ve yedinci fikraları altıncı fikra olarak aşağıdaki şekilde değiştirilmiştir.
 
 Odalar, borsalar ve Birlik, kuruluş amaçlan dışında faaliyette bulunamazlar.
 
@@ -111,7 +111,7 @@ Ancak, millî güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devam
 
 **MADDE 22 –** 1.6.1989 tarihli ve 3568 sayılı Serbest Muhasebecilik, Serbest Muhasebeci Malî Müşavirlik ve Yeminli Malî Müşavirlik Kanununun 14 üncü maddesinin son fıkrası aşağıdaki şekilde değiştirilmiştir.
 
-Odalar, kuruluş amaçlan dışında faaliyette bulunamazlar.
+**Odalar, kuruluş amaçlan dışında faaliyette bulunamazlar.**
 
 **MADDE 23 –** 3568 sayılı Kanunun 15 inci maddesinin beşinci ve onuncu fikraları aşağıdaki şekilde değiştirilmiştir.
 
@@ -133,6 +133,6 @@ Birlik ve organları, kuruluş amaçları dışında faaliyette bulunamazlar.
 
 Amaçlan dışında faaliyet gösteren Türkiye Noterler Birliğinin merkezdeki sorumlu organları ile noter odalanntn başkan ve yönetim kurullannın görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Adalet Bakanlığının veya bulunduklan yer Cumhunyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule gore yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır Ancak, millî güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa,. Birliğin merkezindeki organları ile odalann başkan ve yönetim kurulları vali tarafından faaliyetten men edilebilir. Faaliyetten men karan, yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, karannı kırksekiz saat içinde açıklar; aksı halde, bu idarî karar kendiliğinden yürürlükten kalkar.
 
-MADDE 2 8 -Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 2 8 -**Bu Kanun yayımı tarihinde yürürlüğe girer.
 
 **MADDE 29 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

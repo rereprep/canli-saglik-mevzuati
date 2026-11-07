@@ -15,7 +15,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.8. Aile Hekimliği Formları Genelgesi (2010/48)
+**6.3.8. Aile Hekimliği Formları Genelgesi (2010/48)**
 
 T.C.
 SAĞLIK BAKANLIĞI

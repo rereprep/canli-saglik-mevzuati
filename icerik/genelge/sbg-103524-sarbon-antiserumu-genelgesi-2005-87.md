@@ -14,14 +14,14 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.32. Şarbon Antiserumu Genelgesi (2005/87)
+**6.3.32. Şarbon Antiserumu Genelgesi (2005/87)**
 
 **T.C. Sağlık Bakanlığı**
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 Sayı: B100TSH0110002
 Konu: Şarbon Antiserumu
 Tarih: 26.05.2005
-7615
+**7615**
 
 ## Genelge (2005/87)
 
@@ -65,4 +65,4 @@ Müsteşar
 
 **Olur**
 Prof. Dr. Recep AKDAĞ
-Bakan
+**Bakan**

@@ -13,11 +13,11 @@ tarih: "23.03.2015"
 kontrol_edildi: true
 ---
 
-2.3.23. Sünnet İşlemi Genelgesi
+**2.3.23. Sünnet İşlemi Genelgesi**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 54567092/045/  
 Konu : Sünnet İşlemi  

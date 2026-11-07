@@ -48,7 +48,7 @@ Bu kapsamda yapılacak çalışmalarda aşağıdaki hususlara riayet edilecektir
 
 9) Ailelerin uygulamayı reddetmesi durumunda öncelikle bilgilendirme yapılacak, ailenin kararını değiştirmemesi halinde ekte yer alan form doldurularak imza altına alınarak hasta dosyasında muhafaza edilecektir. Ayrıca formun bir kopyası aileye verilecek, bir kopyası da resmi yazı ile il sağlık müdürlüğüne iletilecektir.
 
-10) Aile tarafından uygulamanın reddedildiği durumda bebekte sekel ya da ölüm tespit edilirse konu, il sağlık müdürlüğü tarafından adli makamlara intikal ettirilecektir.
+10) <i>Aile</i> tarafından uygulamanın reddedildiği durumda bebekte sekel ya da ölüm tespit edilirse konu, il sağlık müdürlüğü tarafından adli makamlara intikal ettirilecektir.
 
 11) 18/03/2010 tarih ve 2010/17 sayılı Genelge yürürlükten kaldırılmıştır.
 

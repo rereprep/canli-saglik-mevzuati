@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.9. Göz Bankası ve Kornea Nakli Merkezleri Yönergesi
+**2.2.9. Göz Bankası ve Kornea Nakli Merkezleri Yönergesi**
 
 ### GÖZ BANKASI VE KORNEA NAKLİ MERKEZLERİ YÖNERGESİ
 

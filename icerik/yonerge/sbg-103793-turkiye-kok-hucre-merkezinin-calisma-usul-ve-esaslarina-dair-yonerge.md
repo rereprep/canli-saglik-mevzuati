@@ -11,7 +11,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge
+**2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına** Dair Yönerge
 
 ### SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - MEVZUAT İŞLERİ DAİRE BAŞKANLIĞI SAĞLIK BAKANLIĞI 10/12/2020 11 04 • 54567092-010.04-5974 Sağlık Hizmetleri Genel Müdürlüğü
 

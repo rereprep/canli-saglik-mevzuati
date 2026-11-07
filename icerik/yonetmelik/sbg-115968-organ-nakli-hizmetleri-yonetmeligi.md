@@ -158,7 +158,7 @@ d) Bu Yönetmelikte yer alan ve Bakanlıkça verilecek diğer görevleri yerine 
 
 ## ÜÇÜNCÜ BÖLÜM
 
-Beyin Ölümü ve Organ Bağışı, Organ Dağıtım Hizmetleri ve Esasları, Ulusal Koordinasyon
+**Beyin Ölümü ve Organ Bağışı, Organ Dağıtım Hizmetleri ve Esasları, Ulusal Koordinasyon**
 
 ### Merkezi ve Bölge Koordinasyon Merkezleri
 
@@ -172,11 +172,11 @@ Beyin Ölümü ve Organ Bağışı, Organ Dağıtım Hizmetleri ve Esasları, Ul
 
 (4) İlgili hastanede organ ve doku nakli koordinatörü bulunmaması durumunda başhekimlik tarafından Bölge Koordinasyon Merkezine bildirim yapılır. Bu durumda ilgili bildirim ve kayıt işlemlerinden Bölge Koordinasyon Merkezi sorumludur.
 
-(5) (Değişik:RG-26/9/2025-33029) Beyin ölümü teşhisi konulan vakalarda ölen kişinin organ bağışçısı olmaması ve organ bağışlanmasına ilişkin aile veya yasal vasi onayı olmaması durumunda uygulanan organ koruma protokollerine son verilir. Ölen kişinin organ bağışçısı olması veya aile veya yasal vasi tarafından organ bağışında bulunulması durumunda ise organın bekleyen hastaya nakledilmesine kadar geçen süre içerisinde, verici bakımı için ihtiyaç duyulan organ koruma protokolleri devam ettirilir.
+(5) **(Değişik:RG-26/9/2025-33029)** Beyin ölümü teşhisi konulan vakalarda ölen kişinin organ bağışçısı olmaması ve organ bağışlanmasına ilişkin aile veya yasal vasi onayı olmaması durumunda uygulanan organ koruma protokollerine son verilir. Ölen kişinin organ bağışçısı olması veya aile veya yasal vasi tarafından organ bağışında bulunulması durumunda ise organın bekleyen hastaya nakledilmesine kadar geçen süre içerisinde, verici bakımı için ihtiyaç duyulan organ koruma protokolleri devam ettirilir.
 
 (6) Beyin ölümü teşhisi konulurken konsültasyon ihtiyacı olması durumunda başka hastanelerden ihtiyaç duyulan bütün branşlardan konsültasyon hizmeti alınabilir. Beyin ölümü teşhisi sırasında işlemlerin hızlı ve verimli gerçekleştirilmesi için müdürlük, konsültasyon hizmetleri dahil bütün tedbirleri almakla yükümlüdür.
 
-(7) (Ek:RG-26/9/2025-33029) Ölüden organ bağışına yönelik işlemler Kanunda yer alan usul ve esaslara göre yapılır. Bakanlık elektronik ortamda yapılan bağış beyanlarını kayıt altında tutar ve 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununa uygun olarak saklar. Organ bağışına ilişkin elektronik ortamda yapılan işlemlerde aşağıdaki kurallar uygulanır:
+(7) **(Ek:RG-26/9/2025-33029)** Ölüden organ bağışına yönelik işlemler Kanunda yer alan usul ve esaslara göre yapılır. Bakanlık elektronik ortamda yapılan bağış beyanlarını kayıt altında tutar ve 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununa uygun olarak saklar. Organ bağışına ilişkin elektronik ortamda yapılan işlemlerde aşağıdaki kurallar uygulanır:
 
 a) Kişilerin elektronik ortamda yapacağı organ bağışına ilişkin işlemler, e-Devlet Kapısı üzerindeki organ bağışı uygulaması veya e-Nabız Sistemi üzerinden gerçekleştirilir.
 
@@ -188,9 +188,9 @@ c) Elektronik ortamda yapılan organ bağışına yönelik işlemler, iki aşama
 
 d) Bağışçı, organ bağışına ilişkin beyanını bu fıkrada belirlenen usule tabi olarak değiştirebilir.
 
-(8) (Ek:RG-26/9/2025-33029) Kişi; eşi, reşit çocukları, ana veya babası veya kardeşlerinden birini, bunlar yoksa herhangi bir yakınını organ bağışı ile ilgili iradesini ölümünden sonra ortaya koymak üzere belirleyebilir veya bu kişileri sıralayabilir. Belirlenen kişinin iradesinin ölünün diğer yakınlarının hilafına olması halinde belirlenen kişinin iradesi esas alınır.
+(8) **(Ek:RG-26/9/2025-33029)** Kişi; eşi, reşit çocukları, ana veya babası veya kardeşlerinden birini, bunlar yoksa herhangi bir yakınını organ bağışı ile ilgili iradesini ölümünden sonra ortaya koymak üzere belirleyebilir veya bu kişileri sıralayabilir. Belirlenen kişinin iradesinin ölünün diğer yakınlarının hilafına olması halinde belirlenen kişinin iradesi esas alınır.
 
-(9) (Ek:RG-26/9/2025-33029) Kişinin organ bağışı ile ilgili herhangi bir beyanının olmadığı hallerde, sırasıyla ölüm anında yanında bulunan eşi, reşit çocukları, ana veya babası veya kardeşlerinden birisinin, bunlar yoksa yanında bulunan herhangi bir yakınının muvafakatiyle ölüden organ veya doku alınır.
+(9) **(Ek:RG-26/9/2025-33029)** Kişinin organ bağışı ile ilgili herhangi bir beyanının olmadığı hallerde, sırasıyla ölüm anında yanında bulunan eşi, reşit çocukları, ana veya babası veya kardeşlerinden birisinin, bunlar yoksa yanında bulunan herhangi bir yakınının muvafakatiyle ölüden organ veya doku alınır.
 
 (10) (Ek:RG-26/9/2025-33029) Organları başkasına nakledilen bağışçıların eş ve birinci derece yakınlarına, organ nakline ihtiyaçları olması halinde acil hastalardan sonra gelmek üzere öncelik verilir.
 
@@ -256,7 +256,7 @@ c) Sertifikalı koordinatörün bulunamaması hallerinde öngörülen sayının 
 
 ## DÖRDÜNCÜ BÖLÜM
 
-Canlı Vericiden Organ Bağışı ve Nakli, Organ Nakli Değerlendirme Etik Komisyonu ve
+**Canlı Vericiden Organ Bağışı ve Nakli, Organ Nakli Değerlendirme Etik Komisyonu ve**
 
 ### Ulusal Organ Nakli Etik Kurulunun Yapısı, Görevleri ve Çalışma Usul ve Esasları ile Canlı Verici Hakları Koruyucusu
 
@@ -404,7 +404,7 @@ c) Organ ve doku nakli koordinatörlüğü konusunda yüksek lisans yapmış ser
 
 ## BEŞİNCİ BÖLÜM
 
-Organ Nakli Merkezlerinin Planlanması ve Ruhsatlandırma, Faaliyet, Fiziki Mekân,
+**Organ Nakli Merkezlerinin Planlanması ve Ruhsatlandırma, Faaliyet, Fiziki Mekân,**
 
 ### Tıbbi Cihaz ve Personel Standartları
 
@@ -714,7 +714,7 @@ h) Bakanlık tarafından organ ve doku nakli konusunda düzenlenecek her türlü
 
 ## YEDİNCİ BÖLÜM
 
-Nakil Sayıları ve Diğer Hükümler, Organ Nakli Merkezlerinin Denetimi, İzlenmesi ve
+**Nakil Sayıları ve Diğer Hükümler, Organ Nakli Merkezlerinin Denetimi, İzlenmesi ve**
 
 ### Değerlendirilmesi, Yasaklar ve Müeyyideler ile Merkezlerin Yükümlülükleri
 
@@ -884,7 +884,7 @@ d) Pankreas nakli ve kalp-akciğer nakli faaliyetlerinde;
 
 #### Uyum zorunluluğu
 
-**GEÇİCİ MADDE 1 –** (Danıştay Onuncu Dairesinin 20/3/2025 tarihli ve E.:2023/399 sayılı kararı ile yürütmesi durdurulan madde: (1) Bu Yönetmeliğin yayımı tarihinden önce 36 ncı madde ile yürürlükten kaldırılan Organ ve Doku Nakli Hizmetleri Yönetmeliği kapsamında faaliyette bulunmaya devam edenler, bu Yönetmeliğin yayımı tarihinden itibaren 6 ay içerisinde bu Yönetmelik hükümlerine uyum sağlamak zorundadırlar. Aksi halde bunlar faaliyetten men edilirler.)
+**GEÇİCİ MADDE 1 –** (Danıştay Onuncu Dairesinin 20/3/2025 tarihli ve E.:2023/399 sayılı kararı ile yürütmesi durdurulan madde: <i>(1) Bu Yönetmeliğin yayımı tarihinden önce 36 ncı madde ile</i> yürürlükten kaldırılan Organ ve Doku Nakli Hizmetleri Yönetmeliği kapsamında faaliyette bulunmaya devam edenler, bu Yönetmeliğin yayımı tarihinden itibaren 6 ay içerisinde bu Yönetmelik hükümlerine uyum sağlamak zorundadırlar. Aksi halde bunlar faaliyetten men edilirler.)
 
 #### Ulusal organ nakli ve bağışı koordinasyon sistemi uygulama rehberinin yayınlanması
 
@@ -902,17 +902,17 @@ d) Pankreas nakli ve kalp-akciğer nakli faaliyetlerinde;
 
 **MADDE 38 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür. Ekleri için tıklayınız.
 
-Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+**Yönetmeliğin Yayımlandığı Resmî Gazete’nin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**
 
 9/12/2022 32038
 
-Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî
+**Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî**
 
-Gazetelerin
+**Gazetelerin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**
 
 1. 26/9/2025 33029 2.
 

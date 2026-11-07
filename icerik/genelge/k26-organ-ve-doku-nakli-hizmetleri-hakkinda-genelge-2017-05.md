@@ -76,7 +76,7 @@ Prof. Dr. Eyüp GÜMÜŞ
 Bakan a.
 Müsteşar
 
-DAĞITIM:
+**DAĞITIM:**
 
 Gereği:
 1) 81 İl Valiliği

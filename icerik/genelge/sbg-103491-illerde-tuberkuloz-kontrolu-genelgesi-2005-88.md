@@ -15,13 +15,13 @@ kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
-Verem Savaşı Daire Başkanlığı
+**Verem Savaşı Daire Başkanlığı**
 
 Sayı : B100VSD0000071-9710/5498
 Konu : İllerde Tüberküloz Kontrolü
 
 26.05.2005
-ANKARA
+**ANKARA**
 
 ### GENELGE
 2005/88
@@ -60,9 +60,9 @@ Tüberküloz kontrolünde belirlenen hedeflere ulaşabilmek için:
 
 Bu hususlara azami derecede dikkat edilerek neticeden bilgi verilmesini önemle rica ederim.
 
-Uz. Dr. Cihanser EREL
+**Uz. Dr. Cihanser EREL**
 Bakan a.
-Müsteşar V.
+**Müsteşar** V.
 
 ### DAĞITIM:
 A Planı

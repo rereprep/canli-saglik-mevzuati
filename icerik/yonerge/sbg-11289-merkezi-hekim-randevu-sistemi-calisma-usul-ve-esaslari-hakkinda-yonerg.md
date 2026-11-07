@@ -147,7 +147,7 @@ g) EK-2'de yer alan esaslara göre MHRS kapsamında yürütülecek iş ve işlem
 
 **MADDE 15 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
-EK-1 1- HBYS ve AHBS ile MHRS entegrasyonu, Tablo l'de yer alan MHRS web servislérinin kullanımına göre belirlenir. İşlem No. Web Servis Metot işlem adı
+**EK-1** 1- HBYS ve AHBS ile MHRS entegrasyonu, Tablo l'de yer alan MHRS web servislérinin kullanımına göre belirlenir. İşlem No. Web Servis Metot işlem adı
 
 KurumKlinikEkleme Poliklinik İşlemleri KurumKlinikSilme
 
@@ -161,9 +161,9 @@ c) MHRS'nin gereksiz yük altında kalmaması adına HBYS ve AHBS'lerin MHRS ile
 
 ### EK-2
 
-1. Hekim Çalışma Cetveli: Bir hekimin mesaisindeki tüm programını ihtiva eden bilgilerin MHRS' ye tanımlanması işlemidir.
+1. **Hekim Çalışma Cetveli:** Bir hekimin mesaisindeki tüm programını ihtiva eden bilgilerin MHRS' ye tanımlanması işlemidir.
 
-2. Hekim Çalışma Cetvelinin Sisteme Tanımlanmasına İlişkin Esaslar
+2. **Hekim Çalışma Cetvelinin Sisteme Tanımlanmasına İlişkin Esaslar**
 
 2.1. Randevu cetveli, sağlık tesislerinde poliklinik muayene sayısının en az %80'ini, birinci basamak sağlık tesislerinde ve AS'lerde ise en az %50'sini karşılayacak şekilde oluşturulur.
 
@@ -195,7 +195,7 @@ b) Hekimin bağlı olduğú birimden veya kurumdan ilişiğinin kesilmesi,
 
 c) Diğer mücbir sebepler (acil vaka, acil ameliyat, hastalık izni, yakın vefatı, öngörülemeyen hastane dışı görevlendirmeler, kaza veya kurumlarınca kabul edilebilir diğer mazeret vb.) ile iptal edilebilir.
 
-4. Randevu Ahınmış Hekim Çalışma Cetvelleri 4.1. Hekimin mazereti nedeniyle hekim çalışma cetvelinin iptali durumunda;
+4. **Randevu Ahınmış Hekim Çalışma Cetvelleri** 4.1. Hekimin mazereti nedeniyle hekim çalışma cetvelinin iptali durumunda;
 
 a) Randevu saatine 72 saatten daha fazla bir süre var ise hekim çalışma cetveli sistem üzerinden otomatik olarak kapatılır ve ilgili hastalar bilgilendirilir.
 

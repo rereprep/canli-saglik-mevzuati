@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 T.C.
 SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ
 ÖZELLİKLİ SAĞLIK HİZMETLERİ DAİRESİ
@@ -56,8 +56,8 @@ Tel: 0312 585 1517/2612
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 7-	Obezite cerrahisi uygulamalarının yukarıda vurgulanan usul ve esaslara uygun olarak yürütülmesinden sağlık müdürlükleri ve ilgili kamu sağlık tesisleri yöneticileri sorumlu ve yetkilidir. Aynı şekilde üniversitelere ve özel sektöre ait sağlık tesislerinin yöneticileri/mesul müdürleri ile uygulamayı yapan sağlık tesislerinde görevli cerrahi ekipler hizmetlerin, bu Genelge hükümlere uygun olarak sunulmasından birinci derecede ve müteselsilen sorumludur.
 

@@ -14,18 +14,18 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 54567092
 Konu : Acil Servis Hizmetlerine Yönelik Düzenleme
 
-GENELGE
-2018/2
+**GENELGE**
+**2018/2**
 
 DAĞITIM YERLERİNE
 
-Acil servis hizmetlerinde bazı özellikli ve yoğun hastanelerimizin yaşadığı sorunları ve sebeplerini çözmek üzere, acil sağlık hizmetleri tebliği değişiklik çalışmaları tamamlanmış ve yayınlanma aşamasındadır. Bu aşamada hasta yoğunluğunu azaltmak ve hasta memnuniyetini artırmak için ekli listede bulunan hastanelerin aşağıdaki hususlarda ivedilikle çalışmalar yapması gerekmektedir.
+<i>Acil</i> servis hizmetlerinde bazı özellikli ve yoğun hastanelerimizin yaşadığı sorunları ve sebeplerini çözmek üzere, acil sağlık hizmetleri tebliği değişiklik çalışmaları tamamlanmış ve yayınlanma aşamasındadır. Bu aşamada hasta yoğunluğunu azaltmak ve hasta memnuniyetini artırmak için ekli listede bulunan hastanelerin aşağıdaki hususlarda ivedilikle çalışmalar yapması gerekmektedir.
 
 1. Hastanelerde standart poliklinik hizmetlerinde "Mesai Kaydırma veya Vardiya Branş Polikliniği Uygulaması" yapılması,
 a. Acil servise başvuran hastalara sağlık personeli ile etkin triaj yapılarak, sarı alan muayenesi gerekmeyen hastalardan öncelikle acil servis yeşil alanında muayene olması gerekenlere "Yeşil Alan 1" kodu verilerek, acil serviste genel tabip muayene polikliniklerinde bakılmasının sağlanması,
@@ -50,10 +50,10 @@ b. İlgili acil servislerde araç giriş çıkış ve otopark imkânlarının ge
 Yukarda sayılan düzenlemelerin ivedilikle yapılarak yeşil, sarı, kırmızı ve mesai kaydırma poliklinikleri günlük hasta sayısı ve ortalama bekleme sürelerinin Bakanlık tarafından tam ve zamanında takibinin yapılabilmesini teminen, il sağlık müdürlüklerine verilen günlük gönderilmesi ve ilgili il sağlık müdürlükleri ve sağlık tesisi yöneticilerinin uygulamaları yerinde bizzat takiplerinin sağlanması hususunda gereğini rica ederim.
 
 Dr. Ahmet DEMİRCAN
-Bakan
+**Bakan**
 
-DAĞITIM
+**DAĞITIM**
 İlgili İl Valiliklerine (İl Sağlık Müdürlüğü)
 
-EKLER:
+**EKLER:**
 Ek-1 Hastane Listesi

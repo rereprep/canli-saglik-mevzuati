@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**  
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 23642684/  
 Konu : Engelli Sağlık Kurulu Raporları
@@ -52,4 +52,4 @@ Gereğini rica ederim.
 
 Prof. Dr. Eyüp GÜMÜŞ  
 Bakan a.  
-Müsteşar
+**Müsteşar**

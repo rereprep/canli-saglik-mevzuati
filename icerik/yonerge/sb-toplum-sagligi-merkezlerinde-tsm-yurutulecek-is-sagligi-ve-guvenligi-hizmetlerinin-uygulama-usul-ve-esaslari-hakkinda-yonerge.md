@@ -60,7 +60,7 @@ h) Sorumiu Modür: Yetkilendirilmiş TSM Birimi'nin iş ve işlemlerinden ilgili
 
 ### İKİNCİ BOLÜM
 
-Müdürlük ve TSM'lerin İSG Alanındaki Görev, Yetki ve Sorumlulukları
+**Müdürlük ve TSM'lerin İSG Alanındaki Görev, Yetki ve Sorumlulukları**
 
 #### ISG hizmetlerinin planlanması ve uygulanması
 
@@ -200,7 +200,7 @@ MADDE &- (I) TSM soumlu hekimi ayrı zaranda Yetk.llendirllmiş TSM Biriminde il
 
 (2) Iserierinin, italk saglag agisnutan tehdit oluşturmast halinde her torlg tedbirin alımane: sağlammesı MüdürlügEn sonumiolu@endadır.
 
-GEÇICI MADDE I- (8) layen diğer sağlık personeli olurak görevlendirilecek kişilerde 01/01/2015 tarihine kadar Diğer Sağlık Personeli Belgesine sahip olma şar aranmaz, ancak bu kişilerin 01/01/2016 tarihine kadar söz konusu belgeye sahip olması zorunludur. 01/01/2015 tarihinden sonra görevlendirileceklerde ise bu belgeye sahip olma
+**GEÇICI MADDE** I- (8) layen diğer sağlık personeli olurak görevlendirilecek kişilerde 01/01/2015 tarihine kadar Diğer Sağlık Personeli Belgesine sahip olma şar aranmaz, ancak bu kişilerin 01/01/2016 tarihine kadar söz konusu belgeye sahip olması zorunludur. 01/01/2015 tarihinden sonra görevlendirileceklerde ise bu belgeye sahip olma
 
 (2)- 6331 sayılı Iş Sağhğı ve Güvenliği Kanununun 38 inci maddesinin birinci fikrasının (a) bendinin bir ve ikinci kasımlarında belirtilen işyerlerinde, iş sağkığı ve güvenliği yönünden özellikli rapor niteliğinde olan işe giriş ve periyodik sağlık muayeneleri, kanun gereği işyeri hekimi istihdamı zorunluluğunun başladığı tarihe kadar, kamu sağlık hizmeti sunucuları tarafindan düzenlenir.
 

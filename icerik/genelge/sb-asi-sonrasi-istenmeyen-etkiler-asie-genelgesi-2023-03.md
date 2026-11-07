@@ -85,7 +85,7 @@ Bununla birlikte; aşılama sonrası gelişen istenmeyen etkiler, ebeveynleri ç
 
 Ülkemizde kullanılan aşalar dahil tüm beşeri tıbbi ürünlerin farmakovijilans faaliyetlerinden ulusal otorite olan Türkiye Ilaç ve Tıbbi Cihaz Kurumu (TITCK) esas sorumludur. Bu Daimi Genelge, GBP kapsamında uygulanan aşılar ve erişkinlere Genel Müdürlügümüzce önerilerek takip edilen aşılar (özel aşılar dahil) sonrası gelişen istenmeyen etkilerin sürveyansıı yürütmek üzere hazırlanmıştır. Ayrıca, rutin uygulamaya çeşitli nedenlerle eklenebilecek diğer aşılar sonrası gelişen istenmeyen etkilerin izlemi de bu Daimi Genelge kapsamma alınacaktır.
 
-Aşı Sonrası İstenmeyen Etki (ASİE): Aşı uygulanan bir kişide, aşı sonrası ortaya çıkan, bilinen aşı yan etkisi ya da aşıya bağlı olduğu düşünülen herhangi bir istenmeyen tıbbi
+**Aşı Sonrası İstenmeyen Etki (ASİE):** Aşı uygulanan bir kişide, aşı sonrası ortaya çıkan, bilinen aşı yan etkisi ya da aşıya bağlı olduğu düşünülen herhangi bir istenmeyen tıbbi
 
 ASİE izleme sisteminin temel amacı; aşılama hizmetinin kalitesini iyileştirmek ve aşılamamın kabul edilebilirliğini arttırmaktır. Bu amaca ulaşmada uygulanacak stratejiler:
 
@@ -109,7 +109,7 @@ sağlamak olarak belirlenmiştir.
 
 ASI'ler bazı vakalarda aşının kendisine, bazılarında ise aşının uygulanması sırasındaki hatalara bağılı olabileceği gibi, așı ya da uygulama ile ilgisiz de olabilir. Bir vaka bildirildiğinde aşağıdaki gibi sınıflandırılabilir:
 
-1. Tutarlı Nedensel İlişki Kurulabilen
+1. **Tutarlı Nedensel** İlişki Kurulabilen
 
 a. Aşıyla ilişkili reaksiyon
 
@@ -129,7 +129,7 @@ Aşılar yıllardır bulaşıcı hastalıkları önlemek için kullamılmakta ve
 
 GBP kapsamında yer alan aşıların karşılaşılması olası istenmeyen etkileri ve yaklaşım ónerileri Tablo 1 ve Tablo 2 de özetlenmiștir. Tablo 1. Sak Görülen, Hafif Yan Etkiler ve Yaklaşım Onerileri
 
-Lokal reaksiyon® 38 °C"yi gocen
+**Lokal reaksiyon®** 38 °C"yi gocen
 
 (nürı, sişlik, Huzursuzluk, kırgahk ve sistemik belirtiler*
 
@@ -283,7 +283,7 @@ Kişi ya da gruplar, aşı ya da içeriği ile ilgisiz olarak sadece enjeksiyona
 
 Tüm ba etkiler aşıya değil enjeksiyona bağıdır. Bazı durumlarda (özellikle okul aşılamalarında) bayılan bir kişinin görüntüsü "toplu simülasyona" (toplu korku ve bayılma) neden olabilir. Aşılama hakkında açık ve anlaşılır bir bilgilendirme, sakin ve güvenli bir uygulama anksiyeteyi, dolayısıyla da bu tip olayların görülme ihtimalini azaltacaktır.
 
-2. Rastlantisal
+2. **Rastlantisal**
 
 Genellikle, aşı sonrası ortaya çıkan tüm istenmeyen ubbi oluyların aşı ya da program hatasına hağhı olduğu düşünülse de; bu olayların bir kısmı tamamen rastlantısal olabilir.
 

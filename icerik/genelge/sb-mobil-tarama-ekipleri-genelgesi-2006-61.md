@@ -13,13 +13,13 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-ACELE  
+**ACELE**  
 22 Mayıs 2006  
-ANKARA
+**ANKARA**
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Verem Savaşı Dairesi Başkanlığı
+**SAĞLIK BAKANLIĞI**  
+**Verem Savaşı** Dairesi Başkanlığı
 
 SAYI : B.10.0.VSD.0.00.00.06-010.06.02- 756  
 KONU : Mobil Tarama Ekipleri
@@ -74,7 +74,7 @@ Bilgilerinizi ve Genelge hükümlerinin titizlikle uygulanması hususunda gereğ
 
 Prof. Dr. Necdet ÜNÜVAR  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM:  
 A Planı

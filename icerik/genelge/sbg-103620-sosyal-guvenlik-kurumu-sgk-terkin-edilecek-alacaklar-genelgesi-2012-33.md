@@ -14,7 +14,7 @@ kontrol_edildi: true
 ---
 
 
-11.3.9. Sosyal Güvenlik Kurumu (SGK) Terkin Edilecek Alacaklar Genelgesi (2012/33)
+**11.3.9. Sosyal Güvenlik Kurumu (SGK) Terkin Edilecek Alacaklar** Genelgesi (2012/33)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Müsteşarlık

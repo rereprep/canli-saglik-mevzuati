@@ -64,7 +64,7 @@ e) Bakanlık Merkez teşkilatı ile Bağlı kuruluşların eğitim, araştırma 
 
 f) Bakanlık merkez ve taşra teşkilatı ile Bakanlığa bağlı kuruluşlar ile taşra teşkilatı, kendi imkânlarıyla karşılayamadıkları ihtiyaçlarını, gerekçeli teklif yazısı ile Bakanlık Strateji Geliştirme Başkanlığına bildirirler. İhtiyaçların karşılanmasına karar vermeye ve kaynak aktarımı yapmaya Bakan yetkilidir.
 
-g) Döner Sermaye Merkez Muhasebe Birimi hesabına aktarılan % 6’ya kadar olan tutarlardan bu birimce Hazine payı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu payı ayrılmaz. Merkeze aktarılan bu tutarlardan ihtiyacı bulunan sağlık kurum ve kuruluşlarına sermayelerine mahsuben veya yardım olarak gönderilebilir. Kurum veya kuruluşlara merkez payından yapılan yardımlardan, kurum veya kuruluşlar tarafından ayrıca Hazine payı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu payı ayrılmaz. Döner Sermaye Merkez Muhasebe Biriminin yılsonu nakit mevcudu aynı amaçla kullanılmak üzere ertesi yıla devredilir."
+g) **Döner Sermaye Merkez Muhasebe** Birimi hesabına aktarılan % 6’ya kadar olan tutarlardan bu birimce Hazine payı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu payı ayrılmaz. Merkeze aktarılan bu tutarlardan ihtiyacı bulunan sağlık kurum ve kuruluşlarına sermayelerine mahsuben veya yardım olarak gönderilebilir. Kurum veya kuruluşlara merkez payından yapılan yardımlardan, kurum veya kuruluşlar tarafından ayrıca Hazine payı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu payı ayrılmaz. Döner Sermaye Merkez Muhasebe Biriminin yılsonu nakit mevcudu aynı amaçla kullanılmak üzere ertesi yıla devredilir."
 
 ## ÜÇÜNCÜ BÖLÜM
 

@@ -76,7 +76,7 @@ A PLANI
 
 - OHSAD Başkanlığına
 
-*Açıklama: Genelge ve ekleri (Ek-1 ve Ek-2) T.C. Sağlık Bakanlığı (saglik.gov.tr) web sayfasına konulmuştur.
+<i>*Açıklama: Genelge</i> ve ekleri (Ek-1 ve Ek-2) T.C. Sağlık Bakanlığı (saglik.gov.tr) web sayfasına konulmuştur.
 
 ## SAĞLIK HİZMET BÖLGELERİ ORGANİZASYON ŞEMASININ GÜNCELLENMESİ (2016)
 

@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.8. Palyatif Bakım Hizmetleri Uygulama Usul ve Esasları Hakkında Yönerge
+**2.2.8. Palyatif Bakım Hizmetleri Uygulama Usul ve Esasları Hakkında** Yönerge
 
 ### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 

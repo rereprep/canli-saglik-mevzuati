@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-8.3.1. Mevzuat Hazırlama Usul ve Esasları Genelgesi (2024/6)
+**8.3.1. Mevzuat Hazırlama Usul ve Esasları Genelgesi (2024/6)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Hukuk Hizmetleri Genel Müdürlüğü

@@ -53,7 +53,7 @@ Doç. Dr. Fatih KARA
 Bakan a.
 Genel Müdür
 
-DAĞITIM
+**DAĞITIM**
 Gereği
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

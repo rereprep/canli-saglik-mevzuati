@@ -15,7 +15,7 @@ kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
-Verem Savaşı Dairesi Başkanlığı
+**Verem Savaşı Dairesi Başkanlığı**
 
 Sayı : B.10.0.VSD.0.00.00.07-427
 Konu: Tüberkülozlu Hastalarda HIV Tanı Testi Yapılması
@@ -52,7 +52,7 @@ Bilgilerinizi ve gereğinin yapılmasını önemle rica ederim.
 
 Prof. Dr. Nihat TOSUN
 Bakan a.
-Müsteşar
+**Müsteşar**
 
 ### EKLER:
 1- Hekimlere Yönelik Bilgilendirme Notu (1sf.)
@@ -63,5 +63,5 @@ b) D-86-B Taşıyıcılar İçin Kişisel Bilgi Formu
 5- Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi, Standart Tanı, Sürveyans ve Laboratuvar Rehberi (CD)
 
 ### DAĞITIM:
-Gereği:
+**Gereği**:
 81 İl Valiliği

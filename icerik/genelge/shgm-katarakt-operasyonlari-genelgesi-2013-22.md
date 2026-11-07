@@ -15,17 +15,17 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 23824201 / 2013.5363.39075
-28.11.2013
+<i>28.11.2013</i>
 
 Konu : Katarakt Operasyonları
 
-VALİLİĞİNE
+**VALİLİĞİNE**
 
-GENELGE
+**GENELGE**
 2013/22
 
 Son zamanlarda Bakanlığımıza gelen çok sayıda şikayetler ile bu konuda yapılan inceleme ve denetimler sonucunda katarakt operasyonlarına yönelik düzenleme yapılması gereği hasıl olmuştur.

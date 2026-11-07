@@ -131,10 +131,10 @@ Bu süre İçinde boşaltmayanlar hakkında da 8 i n ci madde hükmüne göre i�
 
 **GEÇİCİ MADDE 4 –** 1984 yılına mahsus k i ra birim b e d e l l e r i, komisyonca 1.5.1984 tarihine kadar tespit edilerek, takvim y ı lı başlangıcına bağlı kalmaksızın, 1.7.1934 tarihinden itibaren uygulanır.
 
-YasamaB ölümüS ayfa : 15 Yürürlük
+**YasamaB ölümüS ayfa :** 15 Yürürlük
 
 **MADDE 13 –** Bu Kanunun 5 inci maddesinin altıncı fıkrası hükmü ile 6 6 ncı maddesi bükümleri 1.7.1964 tarihinde, diğer hükümleri yayımı t a r ihinde yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
 **MADDE 14 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

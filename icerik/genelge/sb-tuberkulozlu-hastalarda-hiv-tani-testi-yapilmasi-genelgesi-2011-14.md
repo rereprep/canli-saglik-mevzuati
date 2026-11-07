@@ -17,15 +17,15 @@ kontrol_edildi: true
 6.3.38. Tüberkülozlu Hastalarda HIV Tanı Testi Yapılması Genelgesi (2011/14)
 
 T.C.
-SAĞLIK BAKANLIĞI
-Verem Savaşı Dairesi Başkanlığı
+**SAĞLIK BAKANLIĞI**
+**Verem Savaşı Dairesi Başkanlığı**
 
 Sayı : B.10.0.VSD.0.00.00.07 / 427
 Konu : Tüberkülozlu Hastalarda HIV Tanı Testi Yapılması
 
 09/03/2011
 
-GENELGE
+**GENELGE**
 2011/14
 
 Dünya Sağlık Örgütü verilerine göre tüberküloz (TB), HIV pozitif kişilerde en sık görülen fırsatçı enfeksiyonlardan biridir ve HIV ile enfekte kişilerde ölümlerin başlıca nedenleri arasında yer almaktadır. Ülkemizde de tüberkülozlu hastaların HIV enfeksiyonu açısından erken tespiti, her iki hastalığın tanı, tedavi ve takibinin bütüncül yaklaşımla yürütülmesi açısından büyük önem arz etmektedir.
@@ -52,7 +52,7 @@ Prof. Dr. Nihat TOSUN
 Bakan a.
 Müsteşar
 
-EKLER:
+**EKLER:**
 1- Hekimlere Yönelik Bilgilendirme Notu (1 sf.)
 2- Bilgilendirilmiş Onam Formu (1 sf.)
 3- Doğrulama Merkezleri Listesi (1 sf.)
@@ -62,7 +62,7 @@ EKLER:
 
 DAĞITIM:
 
-Gereği:
+**Gereği**:
 81 İl Valiliğine
 
 

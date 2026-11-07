@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-11.3.8. Taşra Teşkilatı İşleyişi Genelgesi (2017/18)
+**11.3.8. Taşra Teşkilatı İşleyişi Genelgesi (2017/18)**
 
 T.C.
 SAĞLIK BAKANLIĞI

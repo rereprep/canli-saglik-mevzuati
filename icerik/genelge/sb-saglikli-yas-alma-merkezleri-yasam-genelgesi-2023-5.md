@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.2. Sağlıklı Yaş Alma Merkezleri (YAŞAM) Genelgesi (2023/5)
+**7.3.2. Sağlıklı Yaş Alma Merkezleri (YAŞAM) Genelgesi (2023/5)**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -23,8 +23,8 @@ Kamu Hastaneleri Genel Müdürlüğü
 Sayı : 95796091/010.06.01
 Konu : Sağlıklı Yaş Alma Merkezleri (YAŞAM)
 
-GENELGE
-2023/5
+**GENELGE**
+**2023/**5
 
 Ülkemizde doğumda beklenen yaşam süresinin artması ile 65 yaş üstü bireylerin toplam nüfus içindeki oranı da yükselmektedir. Tüm dünyada 80 yaş ve üzerindeki kişilerin sayısının 2020 ile 2050 yılları arasında üç katına çıkarak 426 milyona ulaşması beklenmektedir. Ülkemizde ise, yaşlı nüfusunun 2,66 kat artacağı ön görülürken, yaşlı nüfus içinde 80 yaş ve üstü bireylerin oranında da 1,53 kat artış olması beklenmektedir. Demografik değişimlerin ortaya çıkardığı biyolojik yaşlanma ile birlikte bireylerde fiziksel ve zihinsel kapasitede kademeli bir azalma, artan kronik hastalık riski görülebilmekte ve tüm bu değişimlerin etkisinin sağlık ve sosyal açılardan yakından izlenmesi gerekmektedir.
 

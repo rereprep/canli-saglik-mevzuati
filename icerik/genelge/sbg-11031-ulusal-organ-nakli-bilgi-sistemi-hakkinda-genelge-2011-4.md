@@ -38,14 +38,14 @@ Bu amaçla, nakil merkezlerinin 07.02.2011 tarihine kadar organ bekleyen tüm ha
 
 Gereğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM:
 
-Gereği: 81 İl Valiliği
+**Gereği:** 81 İl Valiliği
 
 Bilgi: İdari Mali İşler Daire Başkanlığı

@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.34. Trişinelloz Genelgesi (2004/28)
+**6.3.34. Trişinelloz Genelgesi (2004/28)**
 
 ## Genelge yazısı (05.03.2004)
 
@@ -40,7 +40,7 @@ Bakan a. — Müsteşar
 
 ## Ek-1. Trişinellozis Vakalarında Yaklaşım
 
- TRİŞİNELLOZİS VAKALARINDA YAKLAŞIM
+ **TRİŞİNELLOZİS VAKALARINDA YAKLAŞIM**
 
 1. Giriş
 
@@ -50,13 +50,13 @@ Bu hastalıklardan birisi de ülkemizde bu zamana kadar bir epidemisi görülmey
 
 Trişinellozis (Trichinellosis) -hastalık aynı zamanda Trişinozis (Trichinosis) olarak da bilinir- Trichinella spiralis, T. nativa, T. pseudospiralis, T. britovi, T. nelsoni, T. papuae, T. murrelli ve T. zimbabwensis gibi nematod larvalarının neden olduğu gıda kaynaklı zoonoz bir parazit enfeksiyonudur. Larvalarının kaslara yerleşmesinden dolayı Trichinella türleri "doku nematodları" olarak adlandırılmaktadır.
 
-2. Bulaşma ve Epidemiyoloji
+2. **Bulaşma ve Epidemiyoloji**
 
 Trişinellozis, esas olarak enfekte domuz etlerinin çiğ veya az pişmiş olarak tüketilmesi ile olmaktadır; ancak, ayı, at, köpek, tilki vb. hayvanların Trichinella larvaları ile enfekte etlerinin çiğ veya az pişmiş olarak yenmesi sonucu da bir bulaşma söz konusudur.
 
 Bu hayvanlara ait etleri ya da et ürünlerini çiğ veya az pişmiş olarak yeme alışkanlığı olan toplumlarda her zaman epidemilerin olabileceği aşikârdır. Nitekim, değişik bilimsel kaynaklar birçok trişinellozis epidemisini bildirmiştir.
 
-Trichinella, konak zinciri domuz-domuz-domuz şeklinde olan bir parazit olarak bilinmekle birlikte, hayvanlar arasındaki leş yeme, birbirini yeme veya hayvanlara enfekte etlerin çiğ olarak verilmesi sonucu parazitler diğer hayvanları da enfekte edebilmektedir. İnsanlar da hatalı beslenme alışkanlıkları yüzünden bu zincirdeki yerlerini almaktadırlar.
+<i>Trichinella,</i> konak zinciri domuz-domuz-domuz şeklinde olan bir parazit olarak bilinmekle birlikte, hayvanlar arasındaki leş yeme, birbirini yeme veya hayvanlara enfekte etlerin çiğ olarak verilmesi sonucu parazitler diğer hayvanları da enfekte edebilmektedir. İnsanlar da hatalı beslenme alışkanlıkları yüzünden bu zincirdeki yerlerini almaktadırlar.
 
 İnsanlar tarafından çiğ veya az pişmiş etlerle alınan kist içindeki Trichinella, kistin midede erimesi sonucu açığa çıkar. İnce bağırsaklara geçen larvalar 36 saat içinde erişkin hale gelir ve çiftleşerek larva doğurmaya başlar; her dişi yaklaşık olarak 4-16 hafta boyunca hareketli 1500 civarında larva doğurur. Doğan larvalar ince bağırsak mukozasına saldırır; ayrıca, bağırsaklardaki lenf veya mezenterik venüller vasıtasıyla kana geçer ve tüm vücuda yayılır. Larvalar, çiğneme kasları, dil, diyafram, boyun, kaburga kasları, biseps ve gastroknemius kasları, kalp kası ve gırtlaktaki çizgili kaslara yerleşerek kistleşir. Bu kistler, 6-8 ay sonra kalsifikasyona uğrar; kalsifikasyon genellikle 1 yılda tamamlanır. Larvalar kasların dışında beyin dokusuna da yerleşebilir.
 
@@ -66,7 +66,7 @@ Trişinelloziste insandan insana bulaşma olmamaktadır; ancak, transplâsental 
 
 Trişinellozis enfeksiyonunun parsiyel immünite ile sonuçlandığı bildirilmektedir.
 
-Trichinella türlerinin patojeniteleri, dünyadaki dağılımları ve diğer özellikleri bakımından bazı farklılıkları bulunmakta olup, bunlarla ilgili bilgiler Tablo 1’de verilmiştir.
+<i>Trichinella</i> türlerinin patojeniteleri, dünyadaki dağılımları ve diğer özellikleri bakımından bazı farklılıkları bulunmakta olup, bunlarla ilgili bilgiler Tablo 1’de verilmiştir.
 
 **Tablo 1. Trichinella türlerine ait bazı özellikler**
 
@@ -89,7 +89,7 @@ Hastalığın kuluçka süresi genel olarak 5-45 gün olarak bilinmektedir; anca
 
 Hastalık, larvaların sindirim sistemindeki faaliyetleri, kaslara göçü, penetrasyonu ve ankiste olmasına bağlı olarak değişik klinik seyirler gösterdiğinden, klinik bulguları üç grupta sınıflandırmak mümkündür.
 
-3.1. Gastrointestinal bulgular: Çiğ veya az pişmiş Trichinella larvaları ile
+3.1. **Gastrointestinal bulgular:** Çiğ veya az pişmiş Trichinella larvaları ile
 
 enfekte etlerin yenmesinden sonra 1-2 gün içinde ateş, ishal, karın ağrısı,
 
@@ -109,7 +109,7 @@ kadar çıkabilir ve 3 hafta kadar devam edebilir), kas ağrısı, kaslarda
 
 hassasiyet, yüzde ve göz çevresinde ödem, gözde kızarıklık/kanama,
 
-şiddetli halsizlik, döküntü, nefes almada, yutmada ve çiğnemede güçlük,
+<i>şiddetli halsizlik,</i> döküntü, nefes almada, yutmada ve çiğnemede güçlük,
 
 öksürük, terleme, tırnak yataklarında ve retinada kanama şeklinde
 
@@ -163,7 +163,7 @@ biri ile doğrulanmış vaka,
 
 5.3.2. Hastalığa ait belirtilerin görüldüğü ve hastanın yediği etlerde
 
-Trichinella larvalarının belirlendiği vaka,
+<i>Trichinella</i> larvalarının belirlendiği vaka,
 
 5.3.3. Hastalığa ait belirtilerin görüldüğü ve aynı kaynaktan şüpheli
 
@@ -193,7 +193,7 @@ Epidemiyolojik ilişki Pozitif 5.3.2. Pozitif
 
 Şekil 1. Trişinellozis Vakalarında Tanı Yaklaşımı
 
-6. Tedavi
+6. **Tedavi**
 
 Trişinellozis tedavi edilebilen gıda kaynaklı zoonoz bir parazitozdur. Ancak, hastalık genelde kaslara yerleştikten sonra tanındığından, bu durumlarda daha çok destek tedavisi ön plâna çıkmaktadır. Genel durumu iyi olmayan hastaların tedavileri yatırılarak sürdürülmelidir. Tedavide antihelmintik olarak benzimidazol grubu ilâçlar kullanılmaktadır; bunlar, tiyabendazol, mebendazol ve albendazoldür. Klinik değerlendirmeler yapıldıktan sonra söz konusu ilâçlar, trişinellozisin değişik safhalarında kullanılabilirler. Endikasyonu uygun görülürse, kontrollü olarak, glukokortikoidler de kullanılabilmektedir. Her üç ilâç da gebelikteki kullanımları açısından güvenlik düzeyi "C" olan ilâçlardır. 6.1. Mebendazol
 
@@ -263,7 +263,7 @@ Genel olarak prednizolon 30-60 mg/gün miktarında endikasyonu uygun görülürs
 
 Orta ve daha düşük düzeydeki enfeksiyonlarda da gerektiğinde steroid kullanılabilir. Ateş olduğunda ve allerjik bulgular azaldığında steroid verilmesi durdurulmalıdır. Ancak steroid tedavisinin bağırsaklardaki Trichinella’ların atılımını engellediğinin de ifade edildiği unutulmamalıdır.
 
-7. Korunma ve Kontrol
+7. **Korunma ve Kontrol**
 
 Her enfeksiyon hastalığında olduğu gibi trişinelloziste de esas olan korunma olup, basit bazı önlemlerin alınması ve birtakım alışkanlıklara son verilmesi ile korunma sağlanmaktadır. Etlerin çiğ veya az pişmiş olarak yenmesi sonucunda trişinellozis haricinde başka hastalıkların da bulaşabileceği unutulmamalıdır. Ayrıca, değişik ülkelerde görülen epidemiler ve yapılan deneysel çalışmalar hastalığın sadece domuzlar veya yukarıda adı geçen hayvanlarda değil, herbivor (ot yiyen) birçok hayvanda da görülebileceğini göstermektedir. Trişinellozisten korunma önlemlerinin başlıcaları şunlardır:
 

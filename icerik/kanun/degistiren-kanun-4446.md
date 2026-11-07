@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No. 4446 Kabul Tarihi: 13.8.1999
+**Kanun No. 4446 Kabul Tarihi: 13.8.1999**
 
 **MADDE 1 –** Türkiye Cumhuriyeti Anayasasının 47 nci maddesinin kenar başlığı, "E. Devletleştirme ve özelleştirme" şeklinde değiştirilmiş ve bu maddeye ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
 
@@ -31,17 +31,17 @@ Danıştay, davaları görmek, Başbakan ve Bakanlar Kurulunca gönderilen kanun
 
 **MADDE 4 –** Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına sunulması halinde 1 inci maddesi ayrı, 2 ve 3 üncü maddeleri birlikte ayrı oylanır.
 
-YÜRÜTME VE İDARE BÖLÜMÜ Bakanlar Kurulu Kararı Karar Sayısı: 99/13202 Ekli "Banka Kredilerinin Niteliklerine Uygun Olarak Muhasebeleştirilmesi, Değer­ lendirilmesi ve Kredi Karşılıkları Hakkında Kararda Değişiklik Yapılmasına Dair Karar"ın yürürlüğe konulması; Devlet Bakanlığı'nın 29/7/1999 tarihli ve 54512 sayılı yazısı üzerine, 4389 sayılı Bankalar Kanunu'nun 11 inci maddesinin (12) numaralı fıkrası ile geçici 1 inci maddesinin (c) fıkrasına göre, Bakanlar Kurulu'nca 30/7/1999 tarihinde kararlaştırılmıştır.
+**YÜRÜTME VE İDARE BÖLÜMÜ** Bakanlar Kurulu Kararı Karar Sayısı: 99/13202 Ekli "Banka Kredilerinin Niteliklerine Uygun Olarak Muhasebeleştirilmesi, Değer­ lendirilmesi ve Kredi Karşılıkları Hakkında Kararda Değişiklik Yapılmasına Dair Karar"ın yürürlüğe konulması; Devlet Bakanlığı'nın 29/7/1999 tarihli ve 54512 sayılı yazısı üzerine, 4389 sayılı Bankalar Kanunu'nun 11 inci maddesinin (12) numaralı fıkrası ile geçici 1 inci maddesinin (c) fıkrasına göre, Bakanlar Kurulu'nca 30/7/1999 tarihinde kararlaştırılmıştır.
 
 Süleyman DEMİREL
 
 CUMHURBAŞKANI Bülent ECEVİT Başbakan
 
-D, BAHÇELİ H. H. ÖZKAN M. C. ERSÜMER R. ÖNAL Devlet Bak. ve Başb. Yrd. Devlet Bak. ve Başb. Yrd. Enerji ve Tabii Kay. Bak. ve Başb. Yrd. Devlet Bakam Prof. Dr. T. TOSKAY M. KEÇECİLER Prof. Dr. Ş. S. GÜREL S. SOMUNCUOĞLU Devlet Bakanı Devlet Bakanı Devlet Bakanı Devlet Bakanı Y. YALOVA M. YILMAZ Prof. Dr. R. MİRZAOĞLU R. K. YÜCELEN Devlet Bakanı Devlet Bakanı Devlet Bakanı Devlet Bakam H. GEMİCİ Prof. Dr. Ş. ÜŞENMEZ E. S. GAYDALI F. ÜNLÜ Devlet Bakam Devlet Bakanı Devlet Bakam Devlet Bakanı Prof. Dr. R. MİRZAOĞLU M. A. İRTEMÇELİK Prof. Dr. H. S. TÜRK S. ÇAKMAKOĞLU Devlet Bakanı V. Devlet Bakam Adalet Bakanı Millî Savunma Bakanı
+**D, BAHÇELİ H. H. ÖZKAN M. C. ERSÜMER R. ÖNAL** Devlet Bak. ve Başb. Yrd. Devlet Bak. ve Başb. Yrd. Enerji ve Tabii Kay. Bak. ve Başb. Yrd. Devlet Bakam Prof. Dr. T. TOSKAY M. KEÇECİLER Prof. Dr. Ş. S. GÜREL S. SOMUNCUOĞLU Devlet Bakanı Devlet Bakanı Devlet Bakanı Devlet Bakanı Y. YALOVA M. YILMAZ Prof. Dr. R. MİRZAOĞLU R. K. YÜCELEN Devlet Bakanı Devlet Bakanı Devlet Bakanı Devlet Bakam H. GEMİCİ Prof. Dr. Ş. ÜŞENMEZ E. S. GAYDALI F. ÜNLÜ Devlet Bakam Devlet Bakanı Devlet Bakam Devlet Bakanı Prof. Dr. R. MİRZAOĞLU M. A. İRTEMÇELİK Prof. Dr. H. S. TÜRK S. ÇAKMAKOĞLU Devlet Bakanı V. Devlet Bakam Adalet Bakanı Millî Savunma Bakanı
 
-S. TANTAN H. H. ÖZKAN S. ORAL M. BOSTANCIOĞLU İçişleri Bakanı Dışişleri Bakanı V. Maliye Bakam Millî Eğitim Bakam K. AYDIN Doç. Dr. O. DURMUŞ Prof. Dr. T. TOSKAY Prof. Dr. H. Y. GÖKALP Bayındırlık ve İskân Bakanı Sağlık Bakanı Ulaştırma Bakanı V. Tarım ve Köyişleri Bakam
+**S. TANTAN H. H. ÖZKAN S. ORAL M. BOSTANCIOĞLU** İçişleri Bakanı Dışişleri Bakanı V. Maliye Bakam Millî Eğitim Bakam K. AYDIN Doç. Dr. O. DURMUŞ Prof. Dr. T. TOSKAY Prof. Dr. H. Y. GÖKALP Bayındırlık ve İskân Bakanı Sağlık Bakanı Ulaştırma Bakanı V. Tarım ve Köyişleri Bakam
 
-Y. OKUYAN A. K. TANRIKULU M. İ. TALAY Çalışma ve Sos. Güv. Bakam Sanayi ve Ticaret Bakam Kültür Bakanı E. MUMCU Prof. Dr. N. ÇAĞAN F. AYTEKİN Turizm Bakanı Orman Bakanı Çevre Bakam Yürütme ve İdare Bölümü Sayfa: 1 Sayfa : 18 RESMÎ GAZETE 14 Ağustos 1999 - Sayı: 23786
+**Y. OKUYAN A. K. TANRIKULU M. İ. TALAY** Çalışma ve Sos. Güv. Bakam Sanayi ve Ticaret Bakam Kültür Bakanı E. MUMCU Prof. Dr. N. ÇAĞAN F. AYTEKİN Turizm Bakanı Orman Bakanı Çevre Bakam Yürütme ve İdare Bölümü Sayfa: 1 Sayfa : 18 RESMÎ GAZETE 14 Ağustos 1999 - Sayı: 23786
 
 ### BANKA KREDİLERİNİN NİTELİKLERİNE UYGUN OLARAK
 

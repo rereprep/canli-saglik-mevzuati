@@ -48,7 +48,7 @@ Müsteşar
 Ek:
 Ek-1 İzin Verilen Toplam Hata Hedeflerine Göre Kısa Rehber
 
-Dağıtım:
+**Dağıtım:**
 81 İl Valiliği (İl Sağlık Müdürlüğü)
 Türkiye Halk Sağlığı Kurumu
 Türkiye Kamu Hastaneleri Kurumu
@@ -64,9 +64,9 @@ Günümüzde tıbbi laboratuvarlar ulusal ve uluslararası standartlar gereği, 
 
 **MADDE 27 –** (1) Tıbbi laboratuvar, Bakanlıkça belirlenen kalite standartlarını sağlamak üzere kalite yönetim sistemi kurar.
 
-(2) Tıbbi laboratuvar, rapor edilen testler için uygun bir iç kalite kontrol, test doğrulama ve/veya geçerli kılma programı uygular ve buna ilişkin kayıtları tutar.
+(2) <i>Tıbbi laboratuvar, rapor edilen testler için</i> uygun bir iç kalite kontrol, test doğrulama ve/veya geçerli kılma programı uygular ve buna ilişkin kayıtları tutar.
 
-(3) Tıbbi laboratuvar Bakanlığın belirlediği testler için dış kalite değerlendirme programlarına katılır ve sonuçlarını kayıt altına alır. Dış kalite değerlendirme programlarına katılım belgelendirilir.
+(3) <i>Tıbbi laboratuvar Bakanlığın belirlediği testler için</i> dış kalite değerlendirme programlarına katılır ve sonuçlarını kayıt altına alır. Dış kalite değerlendirme programlarına katılım belgelendirilir.
 
 Kalite kontrol işlemleriyle amaçlanan, belirlenen analitik kalite hedeflerine ulaşılmasıdır. Analitik kalite hedefleri daha çok İzin Verilen Toplam Hata (Allowable Total Error, TAH) olarak ifade edilmektedir. İzin verilen toplam hata, analitin klinik önemine ve klinik deneyimlere, analitin biyolojik değişkenliğine, ulaşılan analitik yetkinliğe veya analitik hataların düzeyine göre belirlenebilir. Testin klinik yararını ortadan kaldırmayacak boyuttaki hatalar izin verilebilir toplam hata içine girebilir.
 

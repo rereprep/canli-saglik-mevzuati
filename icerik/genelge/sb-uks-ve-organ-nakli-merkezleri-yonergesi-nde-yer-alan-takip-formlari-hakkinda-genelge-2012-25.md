@@ -14,18 +14,18 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.28. UKS ve Organ Nakli Merkezleri Yönergesi'nde Yer Alan Takip Formları Hakkında Genelge (2012/25)
+**2.3.28. UKS ve Organ Nakli Merkezleri Yönergesi'nde Yer Alan** Takip Formları Hakkında Genelge (2012/25)
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı : B.10.0.SHG.0.10.00.00 / 9889
-Konu : UKS ve Organ Nakli Merkezleri Yönergesi'nde Yer Alan Takip Formları Hakkında
+**Sayı** : B.10.0.SHG.0.10.00.00 / 9889
+**Konu** : UKS ve Organ Nakli Merkezleri Yönergesi'nde Yer Alan Takip Formları Hakkında
 
 05.06.2012
 
-GENELGE
+**GENELGE**
 2012/25
 
 Makamın 28.05.2008 tarih ve 19735 sayılı Onayları ile yürürlüğe giren Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi ile organ ve doku nakli hizmetleri ile ilgili merkezlerin ve bu merkezlerde görevli personelin görev ve sorumluluklarına ilişkin usul ve esaslar, Makamın 13.02.2012 tarih ve 6157 sayılı Onayları ile yürürlüğe giren Organ Nakli Merkezleri Yönergesi ile de karaciğer, böbrek, akciğer, kalp, kalp-akciğer nakli yapan merkezlerin taşıması gereken şartlar ile çalışmalarına dair usul ve esaslar belirlenmiştir. İlgili Yönergelerin ekinde yer alan ve aşağıda isimleri verilen formların takibi TODS (Türkiye Organ ve Doku Bilgi Sistemi) üzerinden yapılmaktadır. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi'nde yer alan Ek:5 Formları (Organ Bilgi Formu) ve Ek:6 Formları (Alıcı İzlem Formları) dışında, aşağıda isimleri listelenen formların TODS'a kayıtlarının yapılması gerekmektedir.
@@ -41,7 +41,7 @@ Gereğini bilgilerinize rica ederim.
 - Akciğer Nakilleri Hasta Takip Formu
 - Organ Nakli Merkezlerinin Bildirim Formu
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 Bakan a.
-Müsteşar
+**Müsteşar**
 

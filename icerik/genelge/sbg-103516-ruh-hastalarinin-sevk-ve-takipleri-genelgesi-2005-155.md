@@ -14,13 +14,13 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.47. Ruh Hastalarının Sevk ve Takipleri Genelgesi (2005/155)
+**6.3.47. Ruh Hastalarının Sevk ve Takipleri Genelgesi (2005/155)**
 
 Sayı : B100TSH0140003-010.06 Konu: Ruh Hastalarının Sevk ve Takipleri
 
 13.10.2005
 
- GENELGE 2005/155
+ **GENELGE** 2005/155
 
 İLGİ: a) 03.10.1991 tarihli ve 12175 sayılı Genelge,
 
@@ -34,7 +34,7 @@ Bireysel anlamda ruh sağlığının iyi olması aynı zamanda, toplumsal ruh sa
 
 Sosyal, psikolojik, biyolojik ve çevresel faktörler, insanların ruhsal yapıları üzerinde potansiyel risk oluşturmaktadır. Bu bağlamda, hassasiyetleri ve ihtiyaçları göz önüne alınarak bilhassa gençlere ve yaşlılara yönelik olarak, ruh sağlığının geliştirilmesi ve ruh sağlığının sorunlarının önlenmesi ve tedavi edilmesi ile ilgili faaliyetlere öncelik verilmelidir. Özellikle, çocukluk döneminde karşılaşılan ruhsal bozukluklar, yetişkin ruh sağlığı bozukluklarının önemli habercileridir. Bu yüzden, çocukların ve ergenlerin ruh sağlığını desteklemek, yetişkin ve yaşlılık döneminde bireyler, toplumlar ve sağlık sistemleri için uzun dönemde yararlar sağlayacak stratejik yatırımlar olarak görülmelidir.
 
-II- Ruh Sağlığı Hizmetlerinin Yürütülmesi ve Sevkler: Dünyanın pek çok ülkesinde, ruh sağlığı hizmetlerinin yürütülmesinde ve yaygın ruh sağlığı sorunlarına yardım konusunda, pratisyen hekimler ve birinci basamak sağlık çalışanları ilk ve temel kaynak olarak görülmektedir.
+**II- Ruh Sağlığı Hizmetlerinin Yürütülmesi ve Sevkler:** Dünyanın pek çok ülkesinde, ruh sağlığı hizmetlerinin yürütülmesinde ve yaygın ruh sağlığı sorunlarına yardım konusunda, pratisyen hekimler ve birinci basamak sağlık çalışanları ilk ve temel kaynak olarak görülmektedir.
 
 Toplumdaki ruh sağlığı sorunları olan kişileri teşhis ve tedavi etmek yönünden pratisyen hekimler ve birinci basamak sağlık çalışanlarının kapasiteleri ve yeterliliklerinin geliştirilmesinde, gerekirse ikinci basamak ruh sağlığı hizmetleri ağının bir parçası gibi desteklenmeleri ve eğitimleri zorunludur.
 
@@ -68,7 +68,7 @@ Bu cümleden olarak;
 
 12) Formlarda tanı kodu olarak ICD-10 kodlama sistemi kapsamında "mental bozukluklar" başlığı adı altındaki kodlar ile "kasten kendine zarar verme" ana kodu kullanılacaktır. Sevk zinciri dahilinde hekimlerce belirlenen tanının karşılığı olan tali kodlar, (RS 40) ve (RS 50) düzenlenirken söz konusu tali kodu içeren ana kod başlıkları altında toplanarak formlara aktarılacaktır. Bu bağlamda kullanılacak olan liste, EK-2'de yer almaktadır.
 
-III- Ruh Sağlığı Bozuk Olan Şahıslarla Ilgili Olarak Dikkate Alınması Gereken Mevzuat: Yukarıda bahsedilen ve ruh hastalarının sevklerinde uyulması gereken usůl haricinde, uygulamada hasta sevki, tedavisi, sağlık kurumundan taburcu edilmesi ve görevlilerin hastalarla ilgili bazı sorumlulukları gibi hususlarda tereddüt veya herhangi bir problem ile karşılaşılmaması bakımından bilinmesi gereken ilgili diğer mevzuat hükümlerine aşağıda yer verilmiştir:
+**III- Ruh Sağlığı Bozuk Olan Şahıslarla Ilgili Olarak Dikkate Alınması Gereken** Mevzuat: Yukarıda bahsedilen ve ruh hastalarının sevklerinde uyulması gereken usůl haricinde, uygulamada hasta sevki, tedavisi, sağlık kurumundan taburcu edilmesi ve görevlilerin hastalarla ilgili bazı sorumlulukları gibi hususlarda tereddüt veya herhangi bir problem ile karşılaşılmaması bakımından bilinmesi gereken ilgili diğer mevzuat hükümlerine aşağıda yer verilmiştir:
 
 1) 22.11.2001 kabul tarihli ve 4721 sayılı Türk Medeni Kanunu: Bu Kanun'un 405 inci maddesinde, "Akıl hastalığı veya akıl zayıflığı sebebiyle işlerini göremeyen veya korunması ve bakımı için kendisine sürekli yardım gereken ya da başkalarının güvenliğini tehlikeye sokan her erginin kısıtlanacağı (vesayet altına alınacağı); görevlerini yaparlarken vesayet altına alınmayı gerekli kılan bir durumun varlığını öğrenen idari makamların, bu durumu hemen yetkili vesayet makamına bildirmek zorunda oldukları" hükme bağlanmıştır.
 
@@ -104,7 +104,7 @@ Ruhsal Problemi Olan Hastaların Sevklerinin Kolluk Kuvvetleri Yardımıyla Ger�
 
 Buna göre, ruhsal bozukluğu olan ve başkalarına saldırma ihtimali bulunan hastaların sevklerinde, polis teşkilatının yetkili olduğu yerlerde polis; jandarma teşkilatının yetki sahasında olan yerlerde jandarma desteği, sevk iş ve işlemlerinden sorumlu olmamaları ve sadece hastaya ve sevk sırasında görevli olan sağlık personeline refakat etmeleri şartıyla alınabilir.
 
-IV- Hastaların Sevkleri Sırasında Görevli Olanlara Harcırah Ödenmesi: Bölge hastanelerine ruhsal bozukluğu olan hastaların sevk işlemlerinde görevlendirilecek olan personelin (polis, jandarma, sağlık memuru gibi) yolluk ve yevmiyelerinin, 6245 sayılı Harcırah Kanun hükümlerine göre hizmetin tahakkuk ettiği kurumun bütçesinden ve (15.01.30.62.07.2.1.1.03.3.1.01) program kodundan ödenmesi gerekmektedir.
+**IV- Hastaların Sevkleri Sırasında Görevli Olanlara Harcırah Ödenmesi:** Bölge hastanelerine ruhsal bozukluğu olan hastaların sevk işlemlerinde görevlendirilecek olan personelin (polis, jandarma, sağlık memuru gibi) yolluk ve yevmiyelerinin, 6245 sayılı Harcırah Kanun hükümlerine göre hizmetin tahakkuk ettiği kurumun bütçesinden ve (15.01.30.62.07.2.1.1.03.3.1.01) program kodundan ödenmesi gerekmektedir.
 
 V- a) Bakanlığımıza gönderilen RS form verilerinde dönemsel olarak bütünlüğün sağlanabilmesi amacıyla, 2005 yılı ikinci yarısında illerden gönderilecek olan (RS 40) ve (RS 50) verilerinin yeni ve eski form şeklinde birlikte gönderilmesi, 01/01/2006 tarihinden itibaren de yeni
 
@@ -118,7 +118,7 @@ Prof. Dr. Necdet ÜNÜVAR
 
 Bakan a.
 
-Müsteşar EK-1 Bölgelendirme Listesi (1 sayfa) EK-2 ICD 10 Kodları (4 sayfa) EK-3 RS Formları Hakkında Açıklamalar (3 sayfa) EK-4 RS Formları (10, 20, 30, 40, 50) (5 sayfa)
+**Müsteşar** EK-1 Bölgelendirme Listesi (1 sayfa) EK-2 ICD 10 Kodları (4 sayfa) EK-3 RS Formları Hakkında Açıklamalar (3 sayfa) EK-4 RS Formları (10, 20, 30, 40, 50) (5 sayfa)
 
 DAĞITIM:
 

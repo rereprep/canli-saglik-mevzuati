@@ -13,7 +13,7 @@ kontrol_edildi: true
 
 ## 11.2. YÖNERGELER
 
-11.2.1. Taşıt Edinilmesine İlişkin Esas ve Usuller (Değişiklik İşlenmiş Hâli)
+**11.2.1. Taşıt Edinilmesine İlişkin Esas ve Usuller (Değişiklik** İşlenmiş Hâli)
 
 #### Genel hükümler
 

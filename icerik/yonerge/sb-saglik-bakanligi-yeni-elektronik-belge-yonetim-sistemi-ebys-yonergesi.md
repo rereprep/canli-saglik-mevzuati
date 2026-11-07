@@ -18,7 +18,7 @@ kontrol_edildi: true
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
 Sağlık Bilgi Sistemleri Genel Müdürlüğü
 

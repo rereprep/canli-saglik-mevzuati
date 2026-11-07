@@ -52,7 +52,7 @@ Mezkûr Onay çerçevesinde; taşra teşkilatı genelindeki hizmetlerin bütünl
 
 10) Mülga kurumların taşra teşkilatındaki tüm personelinin nakil işlemleri Sağlık Bilgi Sistemleri Genel Müdürlüğü tarafından ÇKYS üzerinden gerçekleştirilmiştir. İl Sağlık Müdürlükleri mevcut durum itibari ile "Atama" ana menüsü altındaki "Raporlar\Standart Çalışan Raporları\ Çalışan Personel Listesi" ekranından toplu personel listelerini alacaklardır. Ayrıca kişi bazlı olarak ilgili ekranlardan personelin son durumu hakkında gerekli bilgiler alınabilecektir. Personel hareketleri ile ilgili tespit edilen sorunlar "www.yazilimdestek.saglik.gov.tr" adresinde bulunan web uygulaması aracılığı ile ÇKYS kullanıcıları tarafından Sağlık Bilgi Sistemleri Genel Müdürlüğüne bildirilecektir.
 
-11) EBYS'deki belge işleyişi; yapılandırma süreci tamamlanıncaya kadar İl Sağlık Müdürlüğü tarafından aşağıdaki açıklamalar çerçevesinde sağlanacaktır;
+11) **EBYS**'deki belge işleyişi; yapılandırma süreci tamamlanıncaya kadar İl Sağlık Müdürlüğü tarafından aşağıdaki açıklamalar çerçevesinde sağlanacaktır;
 
 a) Mülga kurumların taşra teşkilatları, İl Sağlık Müdürlüğüne devir olduğundan gelen ve giden belge işleyişi İl Sağlık Müdürlüğü evrak birimi tarafından yapılacaktır. İhtiyaç halinde, hizmet birimlerinin mekânsal durumlarına bağlı olarak, mülga kurumların devir olan Kamu Hastane Birlikleri Genel Sekreterliği ve Halk Sağlığı Müdürlüğü hizmet binalarında, İl Sağlık Müdürlüğü adına gelen belge kabul ve kayıt işlemi yapılabilecektir. EBYS'de, İl Sağlık Müdürlüğü adına gelen belge kayıt yetkisi, İl Sağlık Müdürlüğü EBYS sorumlusunca tanımlanacaktır.
 

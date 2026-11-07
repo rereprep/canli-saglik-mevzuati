@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-3.2.1. Sağlık Bakanlığı Afet ve Acil Durum Yönetim Merkezi Yönergesi
+**3.2.1. Sağlık Bakanlığı Afet ve Acil Durum Yönetim Merkezi** Yönergesi
 
 ### Bakanlık Makamına sunuş yazısı
 

@@ -14,7 +14,7 @@ kontrol_edildi: true
 konu: "Tabip ve uzman tabiplerin 72 yaşına kadar çalışmasına ilişkin usul ve esasları düzenler."
 ---
 
-9.3.10. 72 Yaşına Kadar Çalışma İzni Genelgesi (2017/19)
+**9.3.10. 72 Yaşına Kadar Çalışma İzni Genelgesi (2017/19)**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI

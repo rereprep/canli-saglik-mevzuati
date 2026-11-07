@@ -13,10 +13,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.57. Yenidoğan Tarama Programı Genelgesi (2014/7)
+**6.3.57. Yenidoğan Tarama Programı Genelgesi (2014/7)**
 
 ### T.C. SAĞLIK BAKANLIĞI
-Türkiye Halk Sağlığı Kurumu
+**Türkiye Halk** Sağlığı Kurumu
 
 **Sayı :** 67414668-  
 **Konu :** Yenidoğan Tarama Programı
@@ -81,13 +81,13 @@ Yenidoğan Tarama Programı'nın sağlıklı şekilde yürütülmesi için yukar
 
 Prof. Dr. Nihat TOSUN  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
-1. Akış Şemaları (3 sayfa)  
+1. **Akış Şemaları** (3 sayfa)  
 2. Sevk formları (3 sayfa)  
 3. Pediatrik Endokrinoloji Uzmanları Danışman Listesi (5 sayfa)  
 4. Pediatrik Beslenme ve Metabolizma Klinikleri (1 sayfa)  
-5. Ulusal Yenidoğan Tarama Programı Yazılımı Kullanım Kılavuzu (19 sayfa)
+5. **Ulusal Yenidoğan** Tarama Programı Yazılımı Kullanım Kılavuzu (19 sayfa)
 
 DAĞITIM:
 

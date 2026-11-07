@@ -17,7 +17,7 @@ kontrol_edildi: true
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı: 56733164/201/010.06/35715
 
@@ -29,7 +29,7 @@ Konu: Organ Nakli Merkezleri 2013 Yılı Planlaması
 
 Makamın 13.02.2012 tarihli ve 6157 sayılı Onayları ile yürürlüğe giren Organ Nakli Merkezleri Yönergesi hükümleri gereği Organ Nakli Merkezlerinin 2013 Yılı Planlaması 2012/46 sayılı Genelge ile Bakanlık internet sitesinde ilan edilmişti. Ancak 30.11.2012 tarihli ve 28483 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Sağlık Hizmetleri Lisans Yönetmeliğinin yayımlanması ile 2012/46 sayılı Genelge'nin geçerliliği kalmamıştır.
 
-Sağlık Hizmetleri Lisans Yönetmeliği 5 inci maddesi 1 inci fıkrası ve 6 ıncı maddesi 1 inci fıkrası gereğince Lisansların belirlenmesi ve ilanı kapsamında yeni düzenleme yapılması gerekmiştir. Bu bağlamda;
+**Sağlık Hizmetleri Lisans Yönetmeliği** 5 inci maddesi 1 inci fıkrası ve 6 ıncı maddesi 1 inci fıkrası gereğince Lisansların belirlenmesi ve ilanı kapsamında yeni düzenleme yapılması gerekmiştir. Bu bağlamda;
 
 A sınıfında; o ildeki devlete ait üniversite hastaneleri, eğitim ve araştırma hastaneleri ve devlet hastaneleri,
 
@@ -81,12 +81,12 @@ süre bitimine kadar Organ Nakli Merkezleri Yönergesindeki gerekli yeterlilikle
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM:
 
-Gereği: 81 İl Valiliği
+**Gereği:** 81 İl Valiliği

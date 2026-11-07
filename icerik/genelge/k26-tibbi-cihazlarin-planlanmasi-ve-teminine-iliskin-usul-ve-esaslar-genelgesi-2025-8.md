@@ -18,7 +18,7 @@ T.C.
 SAĞLIK BAKANLIĞI
 Hukuk Hizmetleri Genel Müdürlüğü
 
-Sayı : E-1-0451265-010.06-
+**Sayı** : E-1-0451265-010.06-
 Konu : Tıbbi Cihazların Planlanması ve
         Teminine İlişkin Usul ve Esaslar
 

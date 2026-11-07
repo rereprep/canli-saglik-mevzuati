@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.12. Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi Genelgesi (2019/15)
+**2.3.12. Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi** Genelgesi (2019/15)
 
 ### T.C. SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
@@ -24,7 +24,7 @@ Tarih: 22.07.2019
 Konu : Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi
 
 GENELGE
-2019/ 15
+**2019/ 15**
 
 İlgi : 22/05/2017 tarih ve 64047795 – 010.06.01 – E.01-212 sayılı Genelge (2017/8)
 

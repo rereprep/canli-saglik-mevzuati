@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**  
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 23642684  
 Konu : Erişkinler İçin Engellilik ve Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmeliklerin Uygulanması

@@ -18,10 +18,10 @@ kontrol_edildi: true
 ## AİLE SAĞLIĞI MERKEZLERİNİN ASGARİ FİZİKİ ŞARTLARI VE TEKNİK DONANIMI İLE BAKIMI VE ONARIMI
 
 T.C.
-SAĞLIK BAKANLIĞI
-Halk Sağlığı Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Halk Sağlığı** Genel Müdürlüğü
 
-Sayı: E-58271140-807.01
+**Sayı**: E-58271140-807.01
 Konu: Aile Sağlığı Merkezlerinin Asgari Fiziki Şartları ve Teknik Donanımı ile Bakımı ve Onarımı
 
 ### DAĞITIM YERLERİNE
@@ -68,7 +68,7 @@ Halk Sağlığı Genel Müdürü
 
 Ekler:
 1- İl Sağlık Müdürlüğü Tarafından Yapılacak Olan Bakım ve Onarımlar (1 Sayfa)
-2- Kiracı (Aile Hekimi) Tarafından Karşılanacak Giderler (1 Sayfa)
+2- **Kiracı (Aile** Hekimi) Tarafından Karşılanacak Giderler (1 Sayfa)
 
 Dağıtım:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)

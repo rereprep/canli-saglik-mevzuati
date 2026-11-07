@@ -40,7 +40,7 @@ Bulaşıcı hastalıkların ihbar ve bildirimi konusunda sağlık bilgi sistemle
 
 4) Sağlık kurum ve kuruluşlarında kullanılan hastane bilgi yönetim sistemi ve aile hekimliği bilgi sistemi gibi yazılım programlarında, bulaşıcı hastalık bildirim ekranına (Form-014 - Bildirimi Zorunlu Bulaşıcı Hastalıklar Bildirim Formu (Ek-1)) hastanın kimlik bilgileri, kayıtlı ikamet adresi bilgisi, hastalığa ait bilgilerden hastalık adı ve hastalık kodu te bildirim yapan kurum ve kişi bilgilerinin tam olarak gelmesi sağlanacaktır. Bildirimi zorunlu bulaşıcı hastahık tanısı koyan her hekim tarafından, hastalığın bildiriminin yapılması
 
-5) Aile hekimleri tarafından yazılım programında bulunan bulaşıcı hastalık bildirim ekranında yer alan bilgiler doldurulacak ve Sağlık Bilgi Sistemlerine günlük olarak gönderilecektir.
+5) <i>Aile</i> hekimleri tarafından yazılım programında bulunan bulaşıcı hastalık bildirim ekranında yer alan bilgiler doldurulacak ve Sağlık Bilgi Sistemlerine günlük olarak gönderilecektir.
 
 6) Diğer sağlık kurum kuruluşlannda görev yapmakta olan hekimler tarafından ise yazılım programında bulunan bulaşıcı hastalık bildirim ekranında yer alan bilgiler doldurulacak, sonrasında Form-014 çıktısı alacaktır. Bu Form-014’lere ait çiktılar sağlık kurum ve kuruluşları tarafından, sağlık kurumunun bulunduğu ilçedeki Toplum Sağlığı Merkezine (TSM) günlük olarak gönderilecektir. Ayrıca bu sağlık kurum ve kuruluşlanı günlük olarak Sağhk Bilgi Sistemlerine veri gönderimine de devam edeceklerdir.
 
@@ -124,7 +124,7 @@ Bu Genelge'nin ekleri ile birlikte tüm sağlık kurum ve kuruluşlarna tebliği
 
 Bilgilerini ve geregini rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ
+**Prof. Dr.** Eyüp GÜMÜŞ
 Bakan a.
 Müsteşar
 

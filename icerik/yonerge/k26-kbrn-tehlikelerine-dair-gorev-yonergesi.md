@@ -15,42 +15,42 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Acil Sağlık Hizmetleri Genel Müdürlüğü 
-Sayı : 39942531/010.04 
-Konu : Sağlık Bakanlığı Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönergesi
+**SAĞLIK BAKANLIĞI**
+**Acil Sağlık Hizmetleri** Genel Müdürlüğü 
+**Sayı :** 39942531/010.04 
+**Konu :** Sağlık Bakanlığı Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönergesi
 
-BAKANLIK MAKAMINA Ülkemizde kimyasal, biyolojik, radyolojik, nükleer tehdit ve tehlikelere karşı alınacak önlemler ile yapılacak hizmetlerin yürütülebilmesi için Başbakanlık Afet ve Acil Durum Yönetimi Başkanlığı tarafından hazırlanan 03.05.2012 gün ve 28281 sayılı Resmi Gazetede yayımlanan "Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönetmeliği" ile ilgili bakanlık, kurum ve kuruluşların Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönergesi'ni hazırlaması istenmiştir.
+**BAKANLIK MAKAMINA** Ülkemizde kimyasal, biyolojik, radyolojik, nükleer tehdit ve tehlikelere karşı alınacak önlemler ile yapılacak hizmetlerin yürütülebilmesi için Başbakanlık Afet ve Acil Durum Yönetimi Başkanlığı tarafından hazırlanan 03.05.2012 gün ve 28281 sayılı Resmi Gazetede yayımlanan "Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönetmeliği" ile ilgili bakanlık, kurum ve kuruluşların Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönergesi'ni hazırlaması istenmiştir.
 Bakanlığımızca ‘’Sağlık Bakanlığı Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönergesi” hazırlanarak ekte sunulmuştur.
 Ekli Yönergenin onaylanarak yürürlüğe konulması hususunu tensiplerinize arz ederim.
 I
 
-EKLER: 1-KBRN Yönergesi (15 sayfa)  T.C.
+**EKLER:** 1-KBRN Yönergesi (15 sayfa)  T.C.
 SAĞLIK BAKANLIĞI Acil Sağlık Hizmetleri Genel Müdürlüğü
 
-SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARININ KİMYASAL, BİYOLOJİK, RADYOLOJİK VE NÜKLEER TEHLİKELERE DAİR GÖREV YÖNERGESİ
+**SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARININ KİMYASAL, BİYOLOJİK,** RADYOLOJİK VE NÜKLEER TEHLİKELERE DAİR GÖREV YÖNERGESİ
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Amaç, Kapsam, Hukuki 
-Dayanak ve 
-Tanımlar 
-Amaç
+**Amaç, Kapsam, Hukuki** 
+**Dayanak ve** 
+**Tanımlar** 
+**Amaç**
 
-MADDE 1- (1) Bu Yönergenin amacı; ülke sınırları içinde veya dışında meydana gelip ülkeyi etkileyebilecek olan kimyasal, biyolojik, radyolojik ve nükleer tehdit ile tehlikelere karşı halkın sağlığının ve çevrenin korunması, can ve mal kaybının en aza indirilmesi için gerekli tedbirlerin alınması amacıyla; Bakanlık ve bağlı kuruluşlar merkez ve taşra teşkilatının tehlike öncesi, tehlike sırası ve sonrasına ilişkin sunulacak sağlık hizmetleri konusunda gerekli hazırlıkları yapmasını, tüm sağlık ekiplerinin hazırlık ve müdahalede yeterli olmasını sağlamak amacıyla ilgili görev ve sorumluluklarını belirlemektir.
-Kapsam
+**MADDE 1- (1)** Bu Yönergenin amacı; ülke sınırları içinde veya dışında meydana gelip ülkeyi etkileyebilecek olan kimyasal, biyolojik, radyolojik ve nükleer tehdit ile tehlikelere karşı halkın sağlığının ve çevrenin korunması, can ve mal kaybının en aza indirilmesi için gerekli tedbirlerin alınması amacıyla; Bakanlık ve bağlı kuruluşlar merkez ve taşra teşkilatının tehlike öncesi, tehlike sırası ve sonrasına ilişkin sunulacak sağlık hizmetleri konusunda gerekli hazırlıkları yapmasını, tüm sağlık ekiplerinin hazırlık ve müdahalede yeterli olmasını sağlamak amacıyla ilgili görev ve sorumluluklarını belirlemektir.
+**Kapsam**
 
-MADDE 2- (1) Bu Yönerge; kimyasal, biyolojik, radyolojik ve nükleer tehdit ve tehlikelere karşı
+**MADDE 2- (1)** Bu Yönerge; kimyasal, biyolojik, radyolojik ve nükleer tehdit ve tehlikelere karşı
 Bakanlık ve bağlı kuruluşlar merkez ve taşra teşkilatı tarafından alınacak tedbirler ve yapılacak hizmetleri kapsar.
-Dayanak
+**Dayanak**
 
-MADDE 3- (1) Bu Yönerge, 663 sayılı
+**MADDE** 3- (1) Bu Yönerge, 663 sayılı
 
 Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri
 Hakkında Kanun Hükmünde Kararnamenin 40 inci maddesine ve Başbakanlık Afet ve Acil Durumu Yönetimi Başkanlığının 03/05/2012 tarihli ve 28281 sayılı Resmi Gazetede yayımlanan Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikelere Dair Görev Yönetmeliğinin 12 nci maddesine dayanılarak hazırlanmıştır.
-Tanımlar ve kısaltmalar
+**Tanımlar ve kısaltmalar**
 
-MADDE 4- (1) Bu yönergede geçen;
+**MADDE 4-** (1) Bu yönergede geçen;
 
 a) AF AD: Başbakanlık Afet ve Acil Durum Yönetimi Başkanlığını, 
 
@@ -102,7 +102,7 @@ u) TSM: Toplum Sağlığı Merkezini,
 
 ü) Türkiye afet müdahale planı: Başbakanlık AF AD koordinatörlüğünde hazırlanan Türkiye’de yaşanabilecek her tür ve ölçekte, afet ve acil durumlara müdahalede görev alacak, bakanlık, kurum ve kuruluşlar, özel kuruluşlar, STKTar ve gerçek kişileri kapsayan planı, ifade eder.
 
-İKİNCİ BÖLÜM Genel Esaslar, Görev, Yetki ve Sorumluluklar
+**İKİNCİ BÖLÜM Genel Esaslar, Görev, Yetki ve** Sorumluluklar
 
 MADDE 5- (1) Bakanlığımız adına KBRN tehdit ve olaylarına bağlı acil, afet ile olağan dışı durum çalışmaları merkez teşkilatımızda ASHGM tarafından yürütülür.
 (2) Bakanlık merkez ve taşra teşkilatı ile Bakanlık bağlı kuruluşları bu Yönergede kendilerine verilen görevleri yerine getirmekten ayrı ayrı sorumludur.
@@ -123,9 +123,9 @@ Arındırma yapılmamış kişilerin kullandıkları araç, donanımlar alıkonu
 (10) Sağlık kurumlan her türlü arındırma işlemlerinin yapılması konusunda (kişi, araç, donanım vb.)
 ilgili kolluk birimine gerekli başvuruları yaparak, gerekli güvenlik önlemlerinin alınmasını temin ederler.
 Gerektiğinde (KBRN ajanlarından etkilenmiş ancak arındırmaya direnen, yaptırmak istemeyen kişiler için) arındırma işlemlerinin kolaylaştırılması için kolluk güçlerinin gerekli önlem ve tedbirleri almasını sağlarlar.
-Görev, Yetki ve Sorumluluklar
+**Görev, Yetki ve Sorumluluklar**
 
-MADDE 6- (1) Acil Sağlık Hizmetleri Genel Müdürlüğü;
+**MADDE** 6- (1) Acil Sağlık Hizmetleri Genel Müdürlüğü;
 
 a) KBRN tehdit ve tehlikelerini değerlendirerek, İlin ilk müdahale ekiplerinin göreve sevk edilmesini il sağlık müdürleri üzerinden koordine eder.
 
@@ -269,47 +269,47 @@ Görev yoluk iaşe ve ibateleri için İl Sağlık Müdürlükleri yetkilendiril
 
 a) İllerde KBRN ajanlarıyla etkilenimde alınacak tedbirler ve müdahaleler konusunda yetkili olup, iş ve işlemlerin koordinatörlüğünü yürütür.
 
-ÜÇÜNCÜ BÖLÜM KBRN Eğitimleri ve Tatbikatlar, Koordinasyon, Personel ve Raporlar Eğitici eğitimleri
+**ÜÇÜNCÜ BÖLÜM KBRN Eğitimleri ve Tatbikatlar, Koordinasyon, Personel ve Raporlar** Eğitici eğitimleri
 
-MADDE 7- KBRN eğitici eğitimleri Genel Müdürlükçe verilir.
+**MADDE 7-** KBRN eğitici eğitimleri Genel Müdürlükçe verilir.
 Eğitim 5 (beş) gün sürer.
 Katılımcı sayısı en az 15 en fazla 30 kişi olmalıdır.
 Eğitimde Genel Müdürlükçe hazırlanan standart eğitim içeriği kullanılır.
 İçeriğin değişmesi gerektiğinde bu işlem Bakanlıkça oluşturulacak bir komisyon tarafından yapılır. 3 yılda bir günlük yenileme eğitimi yapılır.
-Uygulayıcı eğitimleri
+**Uygulayıcı eğitimleri**
 
-MADDE 8- KBRN uygulayıcı eğitimleri İl Sağlık Müdürlüğü Afetlerde Sağlık Hizmetleri Şubesi/Acil ve Afetlerde Sağlık Hizmetleri Şubesi (şube bünyesindeki afet biriminden) tarafından verilir.
+**MADDE 8-** KBRN uygulayıcı eğitimleri İl Sağlık Müdürlüğü Afetlerde Sağlık Hizmetleri Şubesi/Acil ve Afetlerde Sağlık Hizmetleri Şubesi (şube bünyesindeki afet biriminden) tarafından verilir.
 Eğitim 3 (üç) gün sürer.
 Katılımcı sayısı en az 10 en fazla 30 kişi olmalıdır.
 Eğitimde Genel Müdürlükçe hazırlanan standart eğitim içeriği kullanılır.
 İçeriğin değişmesi gerektiğinde bu işlem Bakanlıkça oluşturulacak bir komisyon tarafından yapılır.
-Personel eğitimi ve tatbikatlar
+**Personel eğitimi ve tatbikatlar**
 
-MADDE 9- (1) İlgili kurum ve kuruluşlar personelin eğitimi (ASHGM’nce sağlanan standart eğitim modülü) için KBRN tatbikatları düzenler, bu alanda düzenlenen tatbikatlara katılım sağlar.
+**MADDE 9- (1)** İlgili kurum ve kuruluşlar personelin eğitimi (ASHGM’nce sağlanan standart eğitim modülü) için KBRN tatbikatları düzenler, bu alanda düzenlenen tatbikatlara katılım sağlar.
 Bu tatbikat ve sonuç raporlarından ASHGM’yi haberdar eder.
 (2) Kurumların irtibat kişileri, mesleki konumları ve iletişim numaraları ile internet bağlantıları belirtilmeli, ayrıntılı olarak önceden görevlendirilmeleri ve yetkilendirilmeleri sağlanır.
 (3) Ulusal veya uluslararası KBRN eğitimleri ASHGM tarafından koordine edilir.
 Kurumların kendi eğitimlerini ve eğitim alanları ASHGM’ye veya KBRN bilim/danışma kuruluna bildirmesi gerekir.
 (4) Bu eğitimleri alan kişiler, daha sonra görev aldıkları diğer kurumlarda da öncelikle aynı görevlerde görevlendirilir.
-Genel koordinasyon
+**Genel koordinasyon**
 
-MADDE 10- (1) Ülkede meydana gelen tüm KBRN olayları ile ilgili olarak genel koordinasyon
+**MADDE 10-** (1) Ülkede meydana gelen tüm KBRN olayları ile ilgili olarak genel koordinasyon
 ASHGM’ce sağlanır.
-Olay yeri koordinasyonu
+**Olay yeri koordinasyonu**
 
-MADDE 11- KBRN tehdit ve tehlikesinde olay yeri yönetimi ve koordinasyonu; kimyasal olaylarda
+**MADDE 11-** KBRN tehdit ve tehlikesinde olay yeri yönetimi ve koordinasyonu; kimyasal olaylarda
 Çevre ve Şehircilik Bakanlığı ekipleri, biyolojik olaylarda Bakanlık ekipleri, nükleer ve radyolojik olaylarda ise TAEK Başkanlığınca yürütülür.
 TAEK yetkilisinin olmadığı il ve bölgelerde il valiliği tarafından görevlendirilecek bir mülki amir tarafından olay yeri yönetimi yapılır.
 Genel Koordinasyon AF AD tarafından yürütülür.
-Personel görevlendirme
+**Personel görevlendirme**
 
-MADDE 12- (1) Olası bir KBRN tehdit ve tehlikesi durumunda SAKOM’da SAKOM personeli, İl
+**MADDE 12- (1)** Olası bir KBRN tehdit ve tehlikesi durumunda SAKOM’da SAKOM personeli, İl
 SAKOM’da İL SAKOM personeli hizmet verecek şekilde planlanır.
 İl’e gerektiğinde diğer kamu ve özel kurum ve kuruluşlarından personel sağlanır.
 (2) Olası bir KBRN tehdit ve tehlikesine göre, “Türkiye Afet Müdahale Planı”nda belirtilen esaslar çerçevesinde ilgili birimlerin personelinden yeteri kadar görevlendirme yapılır.
-Raporlar
+**Raporlar**
 
-MADDE 13- (1) Herhangi bir KBRN tehdit ve tehlikesi durumunda, SAKOM’un etkin bir şekilde görev yapmasını sağlayacak bilgi, haber ve istihbaratın zamanında ve yeterli ölçüde alınarak, Başbakanlık ve/veya Bakanlıklar Afet ve Acil Durum
+**MADDE 13- (1)** Herhangi bir KBRN tehdit ve tehlikesi durumunda, SAKOM’un etkin bir şekilde görev yapmasını sağlayacak bilgi, haber ve istihbaratın zamanında ve yeterli ölçüde alınarak, Başbakanlık ve/veya Bakanlıklar Afet ve Acil Durum
 Yönetim Merkezine ve İl SAKOM’a akışı sağlanır.
 (2) KBRN olayları ile ilgili gönderilecek raporlar şunlardır:
 
@@ -324,36 +324,36 @@ Sonuç Raporları, ülkenin ve il’in genel durumunu yansıtacak şekilde, İl 
 
 DÖRDÜNCÜ BÖLÜM Çeşitli ve Son Hükümler Araç, gereç ve teçhizat
 
-MADDE 14- (1) Bakanlıkça belirlenecek ve yayınlanacak olan ‘’KBRN hizmetlerinde kullanılacak araç, gereç ve malzeme listesi” esas alınarak, ihtiyaç sahibi kurum ve kuruluşlarca kendi bütçelerinden sağlanan mali kaynaklarından temin edilir.
+**MADDE 14- (1)** Bakanlıkça belirlenecek ve yayınlanacak olan ‘’KBRN hizmetlerinde kullanılacak araç, gereç ve malzeme listesi” esas alınarak, ihtiyaç sahibi kurum ve kuruluşlarca kendi bütçelerinden sağlanan mali kaynaklarından temin edilir.
 (2) İlgili kurumlarca ihtiyaç duyulan özel görev ekipman ve malzemeleri, Bakanlık onayı alınarak belirlenir ve miadlı malzemeler lüzumu kadar temin edilir.
 (3) Kurum ve kuruluşlar ilgili mevzuat gereği, görev alanları itibariyle hizmet koşullarına uygun gerekli araç, gereç ve teçhizatı her an hizmete hazır bir şekilde bulundurur.
 Hizmetin sunumu sırasında kurumun imkân ve kapasitesini aşan olaylarda ihtiyaç duyulan araç, gereç ve teçhizat Bakanlık kanalıyla temin edilir.
 (4) Kurum ve kuruluşlar gereksinim duyulan araç-gereç ve teçhizatı, Bakanlığa bildirir ve merkezi planlama sonrasında onay verilen miktardaki malzemenin alimini gerçekleştirir.
-Bütçe
+**Bütçe**
 
-MADDE 15- (1) Kurum ve kuruluşlar, bu Yönergede kendilerine verilen görevlerle ilgili ihtiyaç duydukları harcamalar için bütçelerine gerekli ödeneği koymakla sorumludur.
+**MADDE** 15- (1) Kurum ve kuruluşlar, bu Yönergede kendilerine verilen görevlerle ilgili ihtiyaç duydukları harcamalar için bütçelerine gerekli ödeneği koymakla sorumludur.
 (2) KBRN tehlikesi içeren acil durumlarda, ihtiyaç duyulacak malzemelerin alımı ve yapılacak harcamalar 06/03/2011 tarihli ve 27866 sayılı Resmî Gazete’de yayımlanan Afet ve Acil Durum Harcamaları
 Yönetmeliği’nde belirtilen usul ve esaslara göre yapılır.
-KBRN numunesi taşıma
+**KBRN numunesi taşıma**
 
 MADDE 16- Biyolojik tehlike durumunda; tehlikenin kaynağını oluşturan maddelerin tespit ve teşhisi için İl Sağlık Müdürlüğü ekiplerince numuneler alınarak bu ekiplerce yeterli korunma önlemleri alınır ve uygun taşıma koşulları altında laboratuvarlara sevk edilmesi sağlanır.
-Ölülere (cesetler) müdahale
+**Ölülere (cesetler) müdahale**
 
-MADDE 17. (1) Ölülerin(cesetler) ılık alanda arındırma işlemi yapıldıktan sonra ölüm kararı, soğuk alanda sağlık ekiplerinde görev yapan doktorlar tarafından verilir.
+**MADDE 17. (1)** Ölülerin(cesetler) ılık alanda arındırma işlemi yapıldıktan sonra ölüm kararı, soğuk alanda sağlık ekiplerinde görev yapan doktorlar tarafından verilir.
 (2) Otopsi, arındırma işlemi yapıldıktan sonra Adli tabiplik görevlileri tarafından C tipi kıyafet giyerek adli tabip tarafından yapılır.
 Cumhuriyet Savcısı da aynı şekilde önlemlerle otopside bulunabilir.
 Cesetler karbon esaslı ceset torbasında gömülme alanına görevli kurum tarafından götürülür.
-Denetim
+**Denetim**
 
-MADDE 18- (1) Bu Yönerge gereğince yapılacak iş ve işlemlerin yerine getirilip getirilmediği merkezde ASHGM’ce, taşrada İl Sağlık Müdürlüklerince kurulan bir ekip tarafından denetlenir.
-Yürürlük
+**MADDE 18-** (1) Bu Yönerge gereğince yapılacak iş ve işlemlerin yerine getirilip getirilmediği merkezde ASHGM’ce, taşrada İl Sağlık Müdürlüklerince kurulan bir ekip tarafından denetlenir.
+**Yürürlük**
 
-MADDE 19- Bu Yönerge yayımı tarihinden itibaren yürürlüğe girer.
-Yürütme
+**MADDE** 19- Bu Yönerge yayımı tarihinden itibaren yürürlüğe girer.
+**Yürütme**
 
-MADDE 20- Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
-TARİH VE SAYISI : NÜKLEER VE RADYOLOJİK TEHLİKE DURUM RAPORU
-1.
-AMAÇ: Ülkenin herhangi bir yerinde meydana gelen tehlikeli durum hakkında ilgili makamları bilgilendirmektir.
-2.
-GÖNDEREN MAKAM:
+**MADDE 20-** Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
+**TARİH VE SAYISI :** NÜKLEER VE RADYOLOJİK TEHLİKE DURUM RAPORU
+**1.**
+**AMAÇ:** Ülkenin herhangi bir yerinde meydana gelen tehlikeli durum hakkında ilgili makamları bilgilendirmektir.
+**2.**
+**GÖNDEREN MAKAM:**

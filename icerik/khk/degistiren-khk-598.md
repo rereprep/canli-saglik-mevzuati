@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Karar Sayısı: KHK/598 Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunda değişiklik yapılması: 4484 sayılı Kanunla değişik 27/8/1999 tarihli ve 4452 sayılı Kanunun verdiği yetkiye dayanılarak, Bakanlar Kurulu'nca 23/3/2000 tarihinde kararlaştırılmıştır.
+**Karar Sayısı: KHK/598** Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunda değişiklik yapılması: 4484 sayılı Kanunla değişik 27/8/1999 tarihli ve 4452 sayılı Kanunun verdiği yetkiye dayanılarak, Bakanlar Kurulu'nca 23/3/2000 tarihinde kararlaştırılmıştır.
 
 **Madde 1 –** 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunun ek 10 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve maddeye birinci fıkradan sonra gelmek üzere aşağıdaki fıkralar eklenmiştir. "Orman Bakanlığınca, bilim ve fen bakımından orman olarak muhafazasında hiçbir yarar görülmeyen ve tarım alanına dönüştürülmesi de mümkün olmayan orman sınırlan dışına çıkarılmış ve çıkarılacak alanlar, genel hayatı etkileyen doğal afet yerlerinde afete maruz kalan kamu kurum ve kuruluşları ile diğer afetzedelerin iskanlarını temin için Bayındırlık ve İskan Bakanlığına devredilebilir. Devredilen bu yerler üzerinde 2924 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanun hükümlerine göre hak sahibi statüsünde kişiler bulunması halinde bu hak sahiplerine ait yerler. Bayındırlık ve İskan Bakanlığınca bedeli Afetler Fonundan karşılanmak üzere kamulaştınlabilir.
 
@@ -27,7 +27,7 @@ Birinci fıkraya göre Bayındırlık ve İskan Bakanlığına devredilecek alan
 
 **Madde 3 –** 7269 sayılı Kanunun geçici 19 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 
-Yürütme ve İdare Bölümü Sayfa : 3 Sayfa : 4 RESMÎ GAZETE 23 Mayıs 2000 - Sayı: 24057 "Geçici Madde 19- 17 Ağustos ve 12 Kasım 1999 tarihlerinde vuku bulan depremlerin yol açtığı hasarların giderilmesi amacıyla Dünya Bankasından sağlanacak olan dış kredi ve hibelerle finanse edilecek geçici 13 ve 14 üncü maddeler kapsamındaki tüm işler Başbakanlık tarafından koordine edilir ve Başbakanlıkça görevlendirilen bir kurum veya kuruluş tarafından yürütülür."
+**Yürütme ve İdare Bölümü Sayfa :** 3 Sayfa : 4 RESMÎ GAZETE 23 Mayıs 2000 - Sayı: 24057 "Geçici Madde 19- 17 Ağustos ve 12 Kasım 1999 tarihlerinde vuku bulan depremlerin yol açtığı hasarların giderilmesi amacıyla Dünya Bankasından sağlanacak olan dış kredi ve hibelerle finanse edilecek geçici 13 ve 14 üncü maddeler kapsamındaki tüm işler Başbakanlık tarafından koordine edilir ve Başbakanlıkça görevlendirilen bir kurum veya kuruluş tarafından yürütülür."
 
 **Madde 4 –** 7269 sayılı Kanuna aşağıdaki geçici madde eklenmiştir. "Geçici Madde 22- 17 Ağustos ve 12 Kasım 1999 tarihlerinde vuku bulan depremler nedeniyle hak sahiplerinin kesin iskanlarının sağlanması için yeni yerleşim alanlarında yapılacak kalıcı konutların, alan içi ve alan dışı alt yapı tesislerini oluşturacak karayolu, demiryolu, su, elektrik, doğalgaz ve kanalizasyon tesisleri için gerekli olan alanların kamulaştırılması ve irtifak hakkı tesisi Bayındırlık ve İskan Bakanlığınca bu Kanunun ilgili hükümlerine göre ve bedeli Afetler Fonundan karşılanmak üzere öncelikle yapılır."
 

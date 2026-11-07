@@ -32,11 +32,11 @@ Tarih: 16/03/2016
 
 İllerde görev yapan avukatlar, Bakanlık Hukuk Müşâvirliğinin taşra teşkilatındaki çalışanlarıdır. İş ve işlemlerin yürütülmesinde, yazışma ve iş ilişkilerinde buna uygun davranılacaktır.
 
-3) Avukatlara tâlimat verme
+3) **Avukatlara tâlimat verme**
 
 659 sayılı KHK hükümleri saklı kalmak kaydıyla il sağlık müdürlüğünde görev yapan avukatlara, vâli ve il sağlık müdürü dışında tâlimat verilmeyecek ve başka herhangi bir yönetim birimi ve yönetici ile bağlılık ilişkisi kurulmayacaktır.
 
-4) Sorumlu avukat
+4) **Sorumlu avukat**
 
 Birden fazla avukatın görev yaptığı illerde avukatlardan birisi, il sağlık müdürünün teklifi ve Bakanlık I. Hukuk Müşâvirinin onayı ile sorumlu avukat olarak belirlenecektir.
 
@@ -74,7 +74,7 @@ e) İşlemin tesis edildiği yer ile dâvânın açıldığı yerin farklı ille
 
 f) Bakanlığımız aleyhine açılmakla birlikte, doğrudan il sağlık müdürlüklerine tebliğ olunan her türlü dâvâ, tâkip ve sâir hukûkî evrak yukarıdaki görev ve yetki kuralına uygun olarak ilgili mercie intikal ettirilecektir.
 
-7) Avukat bulunmayan iller
+7) **Avukat bulunmayan iller**
 
 Bir ilde avukat bulunmaması hâlinde, o ildeki dâvâ veya tâkipler, Hukuk Müşâvirliğince merkezden tâkip edilebileceği gibi, o ile avukat ataması yapılıncaya kadar bir başka il avukatlık hizmetleri birimi de Hukuk Müşâvirliğince görevli kılınabilir.
 

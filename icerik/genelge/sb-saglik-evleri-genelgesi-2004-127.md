@@ -15,7 +15,7 @@ kontrol_edildi: true
 
 T.C.  
 SAĞLIK BAKANLIĞI  
-Temel Sağlık Hizmetleri Genel Müdürlüğü
+**Temel Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : B100TSH0130001  
 ANKARA  

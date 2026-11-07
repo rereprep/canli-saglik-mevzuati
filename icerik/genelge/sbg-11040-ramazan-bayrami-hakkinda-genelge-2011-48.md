@@ -46,4 +46,4 @@ Ek: 1 liste
 
 ### DAĞITIM:
 
-Gereği: 81 İl Valiliğine
+**Gereği:** 81 İl Valiliğine

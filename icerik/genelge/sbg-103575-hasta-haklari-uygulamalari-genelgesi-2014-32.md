@@ -13,18 +13,18 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.11. Hasta Hakları Uygulamaları Genelgesi (2014/32)
+**2.3.11. Hasta Hakları Uygulamaları Genelgesi (2014/32)**
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - HASTA HAKLARI VE TIBBİ SOSYAL HİZMETLER DAİRE BAŞKANLIĞI
 06.11.2014 17:56 - 2014.5371.1165 / 419
 00006121732
 
-Sayı : 64047795
-Konu : Hasta Hakları Uygulamaları
+**Sayı** : 64047795
+**Konu** : Hasta Hakları Uygulamaları
 
 GENELGE
 2014/32
@@ -54,7 +54,7 @@ b) HBBS'nin işleyişini ve kurul kararlarının uygulanmasını takip eder. HBB
 c) Kurulun toplanması, üye görevlendirilmesi ve üyeliğin sona ermesi gibi kurulun çalışmasına ilişkin işlemleri yürütür.
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
 d) Birden fazla kurul oluşturulması halinde sağlık kuruluşlarının bağlı olacağı kurul ile değişiklik taleplerini değerlendirir.
@@ -67,11 +67,11 @@ g) Kurul kararlarının özetini, başvuru tarihi, başvuru konusu, karar tarihi
 
 ### 2) HASTA HAKLARI KURULU :
 
-Kurulun yeri ve sayısı:
+**Kurulun yeri ve sayısı:**
 
 Başvuru sayısı ve sağlık kuruluşlarının fiziki konumlarına göre İl Sağlık Müdürlüğü bünyesinde uygun görülen yerlerde birden fazla kurul oluşturulabilir. Bu durumda kurul isimleri sayı ile ifade edilir.
 
-Başkan ve üyeler:
+**Başkan ve üyeler:**
 
 Kurul; başkan, sendika işyeri temsileisi, kurum temsilcisi, dernek temsilcisi ve vatandaștan oluşur.
 
@@ -97,7 +97,7 @@ Kurulda görev almak isteyen dernekler İl Sağlık Müdürlüğüne başvurur. 
 
 T.C.
 SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Kurula temsilci gönderecek kurumlar her kurul için bir asil bir yedek olmak üzere yasal süreler içinde görev yapacak daimi iki temsilci ismi bildirir. Asil üyelerin mazereti sebebiyle toplantıya katılamaması halinde yerlerine yedek üyeler katılır.
 
@@ -107,7 +107,7 @@ a) Beyanına göre kendisi ve birinci derece yakınlarının, görev yaptığı 
 
 b) Kamu haklarını kullanmaktan kısıtlı olmamak.
 
-Üyeliğin sona ermesi:
+**Üyeliğin sona ermesi:**
 
 Sivil toplum temsilcisi ve sendika temsilcisi olan üyelerin görev süresi takvim yılıdır. Diğer komisyon üyelerinin görev süresi iki yıldır. Süresi dolan üyeler tekrar görevlendirilebilir.
 
@@ -131,7 +131,7 @@ f) Son altı ay içerisinde ikiden fazla hak ihlali kararı verilen sağlık mes
 
 g) Kurul kararına, tebliğ veya e-posta gönderim tarihinden itibaren 10 gün içerisinde itiraz edilebilir. İtiraz kurulda ikinci kez görüşülerek nihai karara bağlanır. Süresi içerisinde itiraz edilmeyen başvurular değerlendirilmeye alınmaz. Son itiraz mercii hasta hakları kuruludur.
 
-Sekretarya Hizmetleri:
+**Sekretarya Hizmetleri:**
 
 Kurulun bulunduğu yerlerde, il koordinatörlüğüne bağlı yeterli sayıda personel görevlendirilir. Bu personel il koordinatörünün talimatı doğrultusunda kurulun iş ve işlemlerini
 
@@ -148,8 +148,8 @@ d) Kurul kararını gerekçesiyle birlikte HBBS'ye kaydeder. Kararın yer aldı�
 e) Sekretaryaya yapılan hasta haklarına ilişkin başvuruları HBBS'ye kaydeder.
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 1) Görev yaptığı kurula bağlanması uygun görülen sağlık tesisini HBBS üzerinde kurulla ilişkilendirir. Gereği halinde ilgili sağlık tesisinin başka bir kurula bağlanması için il koordinatörüne aktarım talebinde bulunur.
 
@@ -184,7 +184,7 @@ c) Hasta hakları konusunda eğitimi olmayan kişiler hasta iletişim birim soru
 Hasta iletişim birimi sorumlusu, il koordinatörlüğü tarafından planlanan 8 saat teorik ve 8 saat uygulamalı aşağıdaki eğitimlere tabi tutulur:
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
 1- Hasta odaklı hizmet anlayışı eğitimi(hasta hekim iletişimi, Bakanlık uygulamaları, hasta hakları mevzuatı).
@@ -215,7 +215,7 @@ g) Kurumundaki eğitim programlarını hazırlar, organize eder ve yürütür.
 
 h) Görevi ile ilgili mevzuatı takip eder ve değişiklikleri duyurur.
 
-Hasta Iletişim Birim personeli ve görevi:
+**Hasta Iletişim Birim personeli ve görevi:**
 
 Hasta iletişim birimlerinde, hasta iletişim birim sorumlusuna bağlı bilgisayar kullanmayı bilen, yeterli sayıda personel görevlendirilir.
 
@@ -235,7 +235,7 @@ Hasta veya yakını tarafından hasta iletişim birimine doğrudan başvuru yap�
 
 Sağlık müdürlüğüne yapılan başvurulardan HBBS'de bulunan sağlık kuruluşlarına ilişkin olanlar hasta hakları koordinatörlüğünce sisteme kaydedilerek süreç başlatılır.
 
-Şikâyet ve sorun çözme başvuruları:
+**Şikâyet ve sorun çözme başvuruları:**
 
 Hasta iletişim birimine ulaşan başvurular, değerlendirildikten sonra varsa ilgilinin mağduriyeti giderilerek ve başvuru sahibine gerekli açıklama yapılarak yerinde çözümlenmeye çalışılır. Yapılan işlem, HBBS ye kaydedilir.
 
@@ -243,11 +243,11 @@ Hasta iletişim birimine ulaşan başvurular, değerlendirildikten sonra varsa i
 
 Hasta iletişim birimine veya il koordinatörlüğüne tıbbi hata olarak ulaşan başvurular, kamu kurumu olması halinde sağlık tesisi yöneticiliğine/başhekimliğine; özel sağlık tesisi ise İl Sağlık Müdürlüğüne gönderilir ve durumdan başvurana bilgi verilir.
 
-Görüş- Öneri Başvuruları:
+**Görüş- Öneri Başvuruları:**
 
 Görüş ve öneri başvuruları, sağlık tesisi yöneticisi/askeri hastane başhekimi/mesul müdürü veya yetki devrettiği yönetici imzasıyla klinik/birimin sorumlularına gönderilir. Görüş ve öneriye ilişkin klinik/birim veya sağlık kuruluşunun cevabi bilgileri ve yapılan işlem hasta iletişim birimleri tarafından hasta başvuru bildirim sistemine kaydedilir.
 
-Teşekkür Başvuruları:
+**Teşekkür Başvuruları:**
 
 Hasta ve yakınları memnuniyetlerini, internet ortamında veya hasta iletişim birimine kimlik bilgileriyle başvurarak sağlık tesislerine bildirebilirler. Teşekkür bildirimleri hasta başvuru bildirim sistemine kaydedilir.
 
@@ -266,8 +266,8 @@ e) Sağlık tesisleri, kurul kararlarının gereğini yerine getirir ve yapılan
 1) Kurul kararı kendisine bildirilen ilgili kurum veya kuruluşun yöneticisi/askeri hastane başhekimi/mesul müdürü gerekli işlemlerin yapılmamasından veya gecikmesinden doğacak adli ve idari sonuclardan sorumludur.
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Hasta hakları uygulamalarının ve Hasta Başvuru Bildirim Sisteminin herhangi bir aksamaya mahal verilmeden tüm sağlık tesislerimizde multidisipliner bir şekilde uygulanması hususunda gereğini rica ederim.
 

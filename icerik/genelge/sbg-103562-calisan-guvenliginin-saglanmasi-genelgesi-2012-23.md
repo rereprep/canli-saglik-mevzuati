@@ -14,17 +14,17 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.15. Çalışan Güvenliğinin Sağlanması Genelgesi (2012/23)
+**2.2.15. Çalışan Güvenliğinin Sağlanması Genelgesi (2012/23)**
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B.10.0.SHG.0.21.00.00 /951.99 /6665
-14/05/2012
+**Sayı** : B.10.0.SHG.0.21.00.00 /951.99 /6665
+**14/05/2012**
 Konu : Çalışan güvenliğinin sağlanması
 
-GENELGE
+**GENELGE**
 2012/23
 
 Sağlık çalışanlarımızın güvenli ortamlarda ve yüksek motivasyonla çalışmasının sağlanması Sağlıkta Dönüşüm Programımızın temel hedeflerindendir. Bakanlığımızca bu çerçevede, sağlık çalışanlarının güvenliğine yönelik aşağıdaki düzenlemeler yapılarak kurumlarımız talimatlandırılmıştır.
@@ -63,7 +63,7 @@ b) Görevli müdahale ekiplerinin olay yerine en kısa zamanda ulaşması sağla
 
 c) Gerçekleşen olayların analizi yapılarak, ilgili sağlık kurumuna özgü tedbirler artırılacaktır.
 
-2) Çalışan Hakları ve Güvenliği Birimi;
+2) **Çalışan Hakları ve Güvenliği Birimi;**
 
 Hastane ile ağız ve diş sağlığı merkezlerinde bir başhekim yardımcısının doğrudan takip edeceği "Çalışan Hakları ve Güvenliği Birimleri" kurulacaktır. Bağh birimlerdeki çalışan hakları ve güvenliğine ilişkin iş ve işlemlerini yürütmek üzere halk sağlığı müdürlükleri ile il sağlık müdürlüklerinde de bir müdür yardımcısının doğrudan takibinde aynı birimler kurulacaktır.
 
@@ -79,7 +79,7 @@ d) Birim, çalışan hakları ve güvenliğine yönelik uygulamaları yakından 
 
 a) Sağlık kurumları şiddet bakımından risk değerlendirmelerini yeniden yapacak ve riskin yüksek olduğu bölümlerde hizmet süreçleri yeniden gözden geçirilecek ve ilgili bölümdeki sağlık çalışanı sayısı yeterli hale getirilecektir. Fiziki alanlar nitelik ve iyi çalışma şartları açısından gerekirse yeniden düzenlenecektir.
 
-b) Acil servis, yoğun bakım ve ameliyathane gibi şiddet riskinin yüksek olduğu bölümlerin bekleme alanlarında gerekirse sayıları artırılarak yeterli güvenlik elemanı bulundurulacaktır.
+b) <i>Acil</i> servis, yoğun bakım ve ameliyathane gibi şiddet riskinin yüksek olduğu bölümlerin bekleme alanlarında gerekirse sayıları artırılarak yeterli güvenlik elemanı bulundurulacaktır.
 
 c) Hasta mahremiyeti dikkate ahımak şartıyla, kurumların tüm alanlarını gözetleyebilecek şekilde güvenlik kameraları yerleştirilecek ve kamera görüntüleri sürekli takip edilecektir. durumlara ve kişilere bu konuda eğitilmiş özel güvenlik elemanları anında müdahale edecektir.
 
@@ -87,11 +87,11 @@ d) Iletişim becerileri ve sorunlu hasta/hasta yakınlarını tanıma-çatışma
 
 e) Fiziki mekanlar 24 saat boyunca yeterli düzeyde aydınlatılacak ve havalandırılacaktır.
 
-1) Personelin alternatif çıkış yolları oluşturulacaktır.
+1) **Personelin alternatif çıkış yolları oluşturulacaktır.**
 
 4) Çalşanların eğitimi;
 
-a) Başta güvenlik görevlileri, 112 ve acil çalışanları olmak üzere çalışanlara iletişim becerileri, öfke kontrolü ve özellikle öfkeli hasta ve hasta yakınıyla iletişim konularında eğitim verilecektir.
+a) **Başta güvenlik görevlileri,** 112 ve acil çalışanları olmak üzere çalışanlara iletişim becerileri, öfke kontrolü ve özellikle öfkeli hasta ve hasta yakınıyla iletişim konularında eğitim verilecektir.
 
 b) Sağlık çalışanlarına şiddet davranışına karşı tedbir alma eğitimleri verilecektir.
 
@@ -111,7 +111,7 @@ b) Bildirim üzerine yetkili yönetici, olayı derhal değerlendirerek hizmetten
 
 c) Yetkili yönetici, hizmetten çekilme talebini uygun bulduğu takdirde hastanın sağlık hizmeti almasına ve tedavisinin devamına yönelik tedbirleri güvenlik tedbirleriyle birlikte alacaktır. Bu kapsamda ilgili hastanın sağlık hizmetini devam ettirecek yeni sağlık çalışanını belirleyecek. kurum içerisinde bunun mümkün olmaması halinde hastanın hizmet alabileceği başka bir sağlık kurumuna sevkini ve hizmet alımını sağlayacaktır. Bu süreç sırasında hastanın tedavisinin
 
-7) Bildirim süreci ve hukuki yardım;
+7) **Bildirim süreci ve hukuki yardım;**
 
 Sağlık çalışanlarına yönelik şiddet olaylarını takip etmek üzere "Bakanlık Beyaz Kod Birimi"
 
@@ -136,17 +136,17 @@ b) Il sağlık müdürü konuyla doğrudan sorumlu bir sağlık müdür yardımc
 e) SABIM'e yapılan sağlık çalışanları hakkındaki şikayetler, başvuruların ancak % 4 ünü oluşturmaktadır. SABİM'e ve hasta hakları birimine yapılan sağlık çalışanlanı hakkındaki şikåyetler, öncelikle SABIM'den sorumlu il sağlık müdür yardımeısı ve hasta haklarından sorumlu başhekim yardımcısı tarafından ön değerlendirmeye tabi tutulacak, genel ve
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
 soyut nitelikte olan, şikayet sahibinin adı ve adresi belli olmayan veya personelin kusuru bulunmadığı açıkça görülen ihbar ve şikayetler değerlendirmeye alınmayacaktır.
 
 Genelgenin İlinizde bulunan tüm kamu, üniversite ve özel sağlık kurum ve kuruluşlarına duyurulması ve uygulanmasının teminini, ayrıca Bakanlığımızca çalışan güvenliğine ilişkin olarak yapılacak yeni düzenlemelerin titizlikle takibini önemle rica ederim.
 
-Prof. Dr. Recep AKDAĞ
+**Prof. Dr. Recep AKDAĞ**
 
-Bakan
+**Bakan**
 
-DAGITIM
+**DAGITIM**
 
 A Planı

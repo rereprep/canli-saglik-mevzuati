@@ -23,7 +23,7 @@ Konu : Anne Ölümleri Veri Sistemi
 05 NİSAN 2007
 
 ### GENELGE
-2007/27
+**2007/27**
 
 VALİLİĞİNE
 
@@ -63,11 +63,11 @@ Bu çerçevede oluşturulan yeni Anne Ölümleri Veri Sistemi kapsamında:
 
 13. Sağlık Grup Başkanlıkları, ildeki tüm kamu veya özel sağlık kuruluşları (poliklinikler, tıp merkezleri, özel hastaneler, devlet hastaneleri, üniversite hastaneleri vb.), 112 Hizmet Birimlerince bildirilen ölümler İl Anne Ölümleri Tespit ve Önleme Biriminde değerlendirilecektir.
 
-14. İl Anne Ölümleri Tespit ve Önleme Birimi ildeki tüm ölüm bildirimlerinin toplanması, birbirleri ile karşılaştırılması, hastane ölümleri için ilgili hastane araştırmasının yapılarak "Anne Ölümü Sağlık Kurumu Kayıt İnceleme Formu" (Ek.5)'nun doldurulması, eğer ölüm evde gerçekleşmiş veya hastane araştırmasında tatminkar sonuca ulaşılamamış ise adrese gidilerek "Anne Ölümü Soru Kağıdı" (Ek.4) (sözel otopsi) ile eksik bilgilerin tamamlanmasını sağlayacaktır.
+**14. İl** Anne Ölümleri Tespit ve Önleme Birimi ildeki tüm ölüm bildirimlerinin toplanması, birbirleri ile karşılaştırılması, hastane ölümleri için ilgili hastane araştırmasının yapılarak "Anne Ölümü Sağlık Kurumu Kayıt İnceleme Formu" (Ek.5)'nun doldurulması, eğer ölüm evde gerçekleşmiş veya hastane araştırmasında tatminkar sonuca ulaşılamamış ise adrese gidilerek "Anne Ölümü Soru Kağıdı" (Ek.4) (sözel otopsi) ile eksik bilgilerin tamamlanmasını sağlayacaktır.
 
 15. Toplanan ölümler ile ilgili olarak her ay İl İnceleme Komisyonu toplanacak, ilde o ay meydana gelen anne ölümlerini içerisine alan gebelik, doğum, doğum sonrası 42 günlük süreçte meydana gelen tüm kadın ölümleri, ölüm nedenleri belirlenmek üzere görüşülecektir. Komisyon üyeleri tarafından imza altına alınan "İl Anne Ölümleri Komisyon Raporu" ile birlikte meydana gelen ölümlere ait "Anne Ölümü Sağlık Kurumu Kayıt İnceleme Formu", "Anne Ölümü Soru Kağıdı" (sözel otopsi), "Anne Ölümü İl Bildirim Formu" her anne ölümüne bir kod numarası verilmiş olarak (Bkz. Ek.1) ve hasta dosyalarının sureti, aylık hastane ziyaret tutanakları ile birlikte takip eden her ayın 15'ine kadar Sağlık Bakanlığı AÇSAP Genel Müdürlüğüne gönderilecektir.
 
-16. Sağlık Bakanlığı Anne Ölümleri Ön İnceleme Komisyonunda, her ay illerden gelen anne ölümlerini içerisine alan gebelik, doğum, doğum sonrası 42 günlük süreçte meydana gelen tüm kadın ölümleri ismi gizli kalmak koşulu ile kod numarası ile değerlendirilecek, nedenlerine ve üç gecikme modeline göre gebeliğe bağlı ölümler ile anne ölümleri sınıflandırılacaktır. Nedenleri tam olarak belirlenemeyen ölümler, hastane, hekim ve anne adı gizli kalmak üzere kod numarası ile Merkez İnceleme Komisyonunda üç ayda bir görüşülecektir.
+**16. Sağlık** Bakanlığı Anne Ölümleri Ön İnceleme Komisyonunda, her ay illerden gelen anne ölümlerini içerisine alan gebelik, doğum, doğum sonrası 42 günlük süreçte meydana gelen tüm kadın ölümleri ismi gizli kalmak koşulu ile kod numarası ile değerlendirilecek, nedenlerine ve üç gecikme modeline göre gebeliğe bağlı ölümler ile anne ölümleri sınıflandırılacaktır. Nedenleri tam olarak belirlenemeyen ölümler, hastane, hekim ve anne adı gizli kalmak üzere kod numarası ile Merkez İnceleme Komisyonunda üç ayda bir görüşülecektir.
 
 17. İl Sağlık Müdürlüğünde toplanan veriler her ay Temel Sağlık İstatistik Modülünde (TSİM) yer alan "Anne Ölümü İl Bildirim Formu"na kaydedilecektir.
 

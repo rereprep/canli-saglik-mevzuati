@@ -17,9 +17,9 @@ kontrol_edildi: true
 
 ## GÖÇMEN SAĞLIĞI MERKEZİ İZLEME VE DEĞERLENDİRME FORMU VE REHBERİ
 
-T.C.  
-SAĞLIK BAKANLIĞI  
-Halk Sağlığı Genel Müdürlüğü  
+**T.C.**  
+**SAĞLIK BAKANLIĞI**  
+**Halk Sağlığı Genel Müdürlüğü**  
 
 **Sayı :** 19831278/060.08  
 **Konu :** Göçmen Sağlığı Merkezi (GSM) İzleme ve Değerlendirme Formu ve Rehberi  

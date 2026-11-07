@@ -21,8 +21,8 @@ T.C.
 SAĞLIK BAKANLIĞI
 Halk Sağlığı Genel Müdürlüğü
 
-Sayı: E-58271140-756.02
-Konu: Aile Sağlığı Merkezi Oluşturma ve Kiralama İşlemleri
+**Sayı**: E-58271140-756.02
+**Konu**: Aile Sağlığı Merkezi Oluşturma ve Kiralama İşlemleri
 
 ### DAĞITIM YERLERİNE
 
@@ -162,9 +162,9 @@ Ortak alanları bulunan kiralananlarda ortak giderlere katılım payı kiracı t
 
 **MADDE 5 –** Bu sözleşme şartlarının uygulanmasında doğabilecek anlaşmazlıkların çözümünde ……………………… İli Mahkeme ve İcra Daireleri yetkili olacaktır.
 
-*(İDARECE İLAVE EDİLECEK DİĞER HUSUSLAR - VAR İSE)
+***(İDARECE İLAVE EDİLECEK DİĞER HUSUSLAR -** VAR İSE)
 
-TARAFLAR
+**TARAFLAR**
 
 | KİRACI | KİRALAYAN |
 | --- | --- |
@@ -272,7 +272,7 @@ Ortak alanları bulunan kiralananlarda ortak giderlere katılım payı kiracı t
 
 * (İDARECE İLAVE EDİLECEK DİĞER HUSUSLAR - VAR İSE)
 
-TARAFLAR
+**TARAFLAR**
 
 | KİRALAYAN | ALT KİRACI |
 | --- | --- |

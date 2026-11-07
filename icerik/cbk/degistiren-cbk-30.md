@@ -14,11 +14,11 @@ ocr: true
 duzeltildi: true
 ---
 
-CUMHURBAŞKANLIĞI KARARNAMESİ
+**CUMHURBAŞKANLIĞI KARARNAMESİ**
 
-BAKANLIKLARA BAĞLI, İLGİLİ, İLİŞKİLİ KURUM VE KURULUŞLAR İLE DİĞER KURUM VE KURULUŞLARIN TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ İLE GENEL KADRO VE USULÜ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİNDE DEĞİŞİKLİK YAPILMASINA DAİR CUMHURBAŞKANLIĞI KARARNAMESİ
+**BAKANLIKLARA BAĞLI, İLGİLİ, İLİŞKİLİ KURUM VE KURULUŞLAR İLE** DİĞER KURUM VE KURULUŞLARIN TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ İLE GENEL KADRO VE USULÜ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİNDE DEĞİŞİKLİK YAPILMASINA DAİR CUMHURBAŞKANLIĞI KARARNAMESİ
 
-Kararname Numarası: 30
+**Kararname Numarası: 30**
 
 MADDE 1- 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 133 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 
@@ -61,15 +61,15 @@ MADDE 9- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 389 uncu maddesinin biri
 
 “(1) Yönetim Kurulu beş üyeden oluşur. Yönetim Kurulu üyeleri Genel Kurul tarafından atanır.”
 
-MADDE 10- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 443 üncü ve 444 üncü maddeleri yürürlükten kaldırılmıştır.
+**MADDE 10-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 443 üncü ve 444 üncü maddeleri yürürlükten kaldırılmıştır.
 
-MADDE 11- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 445 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 445 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 “MADDE 445- (1) Genel Müdürlükte, 375 sayılı Kanun Hükmünde Kararnamenin ek 26 ncı maddesine göre sözleşmeli personel istihdam edilebilir. Bu madde kapsamında istihdam edilen personel, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (c) bendine tabidir.”
 
-MADDE 12- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 449 uncu maddesinin birinci fıkrasına “Teşkilat Başkanı,” ibaresinden sonra gelmek üzere “iki” ibaresi eklenmiştir.
+**MADDE 12-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 449 uncu maddesinin birinci fıkrasına “Teşkilat Başkanı,” ibaresinden sonra gelmek üzere “iki” ibaresi eklenmiştir.
 
-MADDE 13- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 451 inci maddesinin birinci fıkrasına aşağıdaki bent ile aynı maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 13-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 451 inci maddesinin birinci fıkrasına aşağıdaki bent ile aynı maddeye aşağıdaki fıkra eklenmiştir.
 
 “k) Teşkilat Başkanlığınca yapılacak her türlü duyuru ile reklamların konusunu ve bedelini belirlemek.
 (2) Yönetim Kurulunun teşekkülüne ilişkin usul ve esaslar Gençlik ve Spor Bakanlığınca çıkarılan yönetmelikle belirlenir.”
@@ -78,24 +78,24 @@ MADDE 14- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 463 üncü maddesine a�
 
 “(2) Hukuk Müşavirliğince takip edilerek sonuçlandırılan dava ve icra işleri sonucunda mahkemeler ve icra müdürlüklerince Teşkilat Başkanlığı lehine hükmolunup tahsil edilen vekâlet ücreti, Hukuk Müşavirliğinde görev yapan avukatlar, hukuk müşavirleri ve Hukuk Birimi Amiri arasında eşit olarak dağıtılır. Ödenecek vekâlet ücretinin tutarı, Gençlik ve Spor Bakanlığı Hukuk Hizmetleri Genel Müdürlüğünde görev yapan avukatlar için öngörülen üst sınırı aşamaz.”
 
-MADDE 15- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 468 inci maddesinin ikinci fıkrasına aşağıdaki bent eklenmiştir.
+**MADDE 15-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 468 inci maddesinin ikinci fıkrasına aşağıdaki bent eklenmiştir.
 
 “f) Teşkilat Başkanlığına ait taşınır malların kaydı, muhafazası ve kullanımı ile taşınır yönetim sorumlularının belirlenmesi ve taşınırların kamu kurum ve kuruluşlarına bedelsiz devri ile tahsisine ilişkin usul ve esaslar.”
 
-MADDE 16- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 478 inci maddesinin birinci fıkrasına “arşivlenerek korunmasını sağlamak,” ibaresinden sonra gelmek üzere “toplu değerleme faaliyetlerini düzenlemek ve yürütmek,” ibaresi eklenmiştir.
+**MADDE 16-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 478 inci maddesinin birinci fıkrasına “arşivlenerek korunmasını sağlamak,” ibaresinden sonra gelmek üzere “toplu değerleme faaliyetlerini düzenlemek ve yürütmek,” ibaresi eklenmiştir.
 
-MADDE 17- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 480 inci maddesinin birinci fıkrasına (ğ) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve sonraki bent buna göre teselsül ettirilmiştir.
+**MADDE 17-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 480 inci maddesinin birinci fıkrasına (ğ) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve sonraki bent buna göre teselsül ettirilmiştir.
 
 “h) Taşınmazların toplu değerleme yöntemleriyle değerini belirlemek, değer bilgi merkezini kurmak, yönetmek ve değer haritalarının üretilmesi ile güncel tutulmasını sağlamak.”
 
-MADDE 18- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 481 inci maddesinin üçüncü fıkrasında yer alan “merkez ve taşra” ibaresi “merkez, taşra ve yurtdışı” şeklinde değiştirilmiştir.
+**MADDE 18-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 481 inci maddesinin üçüncü fıkrasında yer alan “merkez ve taşra” ibaresi “merkez, taşra ve yurtdışı” şeklinde değiştirilmiştir.
 
-MADDE 19- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 483 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş, ikinci fıkrasının (d) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve sonraki bentler buna göre teselsül ettirilmiştir.
+**MADDE 19-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 483 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş, ikinci fıkrasının (d) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve sonraki bentler buna göre teselsül ettirilmiştir.
 
 “(1) Genel Müdürlük; merkez, taşra ve yurtdışı teşkilatından oluşur.”
 “e) Taşınmaz Değerleme Dairesi Başkanlığı.”
 
-MADDE 20- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 484 üncü maddesinin birinci fıkrasına (d) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve sonraki bentler buna göre teselsül ettirilmiş, aynı fıkranın mevcut (h) bendinin (2) numaralı alt bendine “yürütmek” ibaresinden sonra gelmek üzere “, değer bilgi merkezi ve değer haritalarının üretilmesiyle ilgili ihtiyaç duyulan bilişim sistemi alt yapısını kurmak ve işler halde tutmak” ibaresi eklenmiştir.
+**MADDE 20-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 484 üncü maddesinin birinci fıkrasına (d) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve sonraki bentler buna göre teselsül ettirilmiş, aynı fıkranın mevcut (h) bendinin (2) numaralı alt bendine “yürütmek” ibaresinden sonra gelmek üzere “, değer bilgi merkezi ve değer haritalarının üretilmesiyle ilgili ihtiyaç duyulan bilişim sistemi alt yapısını kurmak ve işler halde tutmak” ibaresi eklenmiştir.
 
 “e) Taşınmaz Değerleme Dairesi Başkanlığı:
 1) Taşınmazların toplu değerleme yöntemleriyle değerini belirlemek, değer bilgi merkezini kurmak, yönetmek ve değer haritalarının üretilmesi ile güncel tutulmasını sağlamak.
@@ -105,27 +105,27 @@ MADDE 20- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 484 üncü maddesinin b
 5) Taşınmaz değerleme ve toplu değerleme alanlarıyla ilgili ihtiyaç analizleri ile uluslararası gelişmeler ve iyi uygulamaların takibini yapmak.
 6) Bu bent ile verilen görev ve yetkilerin yürütülmesine ilişkin usul ve esasları belirlemek.”
 
-MADDE 21- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 485 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 21-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 485 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 “Yurtdışı teşkilatı
 MADDE 485- (1) Genel Müdürlük, yurtdışında bulunan Türk vatandaşları ile yabancı uyruklu gerçek ve tüzel kişilerin ülkemizde bulunan taşınmazlara ilişkin tapu ve kadastro işlemlerini bulundukları ülkeden yapabilmelerini sağlamak amacıyla gerekli gördüğü ülkelerde yurtdışı teşkilatı kurmaya yetkilidir.
 (2) Tapu sicili ve kadastro işlemlerinin yurtdışında yürütülmesine ilişkin usul ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.”
 
-MADDE 22- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 487 nci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 22-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 487 nci maddesine aşağıdaki fıkra eklenmiştir.
 
 “(7) Genel Müdürlük, görev ve yetkileri kapsamında yurtdışında faaliyette bulunmak amacıyla Cumhurbaşkanı kararı doğrultusunda şirket kurabilir, yerli ve yabancı gerçek ve tüzel kişilerle ortaklık yapabilir.”
 
-MADDE 23- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 488 inci maddesinin üçüncü fıkrasına “Tapu müdürlükleri” ibaresinden sonra gelmek üzere “ve yurtdışı teşkilatı” ibaresi eklenmiştir.
+**MADDE 23-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 488 inci maddesinin üçüncü fıkrasına “Tapu müdürlükleri” ibaresinden sonra gelmek üzere “ve yurtdışı teşkilatı” ibaresi eklenmiştir.
 
-MADDE 24- 4 sayılı Cumhurbaşkanlığı Kararnamesinin Otuzdördüncü Bölümüne ekli (I) sayılı Tarife Cetvelinin 1.9 sıra numaralı satırı aşağıdaki şekilde değiştirilmiştir.
+**MADDE 24-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin Otuzdördüncü Bölümüne ekli (I) sayılı Tarife Cetvelinin 1.9 sıra numaralı satırı aşağıdaki şekilde değiştirilmiştir.
 
 |  | 1.9 | Yetki alanı dışında yapılacak tapu işlemlerinde, yetki verilen tapu müdürlüğünün yöresel katsayısı esas alınarak işlem için belirlenen döner sermaye hizmet bedelinin iki katı; yurtdışından tapu işlemi yapılması halinde, yurtdışı yöresel katsayısı esas alınarak işlem için belirlenen döner sermaye hizmet bedelinin dört katı tahsil edilir. | , |
 
-MADDE 25- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 512 nci maddesinin birinci fıkrasının (e) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 25-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 512 nci maddesinin birinci fıkrasının (e) bendi aşağıdaki şekilde değiştirilmiştir.
 
 “e) Kurs, seminer, eğitim, araştırma, yayın, danışmanlık ve benzeri hizmetler ile kayıt, izin, ruhsatlandırma ve sertifikasyona ilişkin tüm iş, işlem ve belgelendirmelerden elde edilen gelirler.”
 
-MADDE 26- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 518 inci maddesinin başlığı “Uzman ve müfettiş istihdamı” şeklinde ve birinci fıkrasında yer alan “sağlık denetçileri ve denetçi yardımcıları” ibaresi “müfettiş ve müfettiş yardımcıları” şeklinde değiştirilmiştir.
+**MADDE 26-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 518 inci maddesinin başlığı “Uzman ve müfettiş istihdamı” şeklinde ve birinci fıkrasında yer alan “sağlık denetçileri ve denetçi yardımcıları” ibaresi “müfettiş ve müfettiş yardımcıları” şeklinde değiştirilmiştir.
 
 MADDE 27- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 561 inci maddesinin üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve sonraki fıkralar buna göre teselsül ettirilmiştir.
 
@@ -299,11 +299,11 @@ c) Ülkemiz tabii kaynaklar potansiyelinin ortaya çıkartılması ve bunların 
 ç) Ulusal Maden Kaynak ve Rezerv Raporlama Komisyonunun sekretarya hizmetlerini yürütmek, Türkiye Yerbilimleri Veri ve Karot Bilgi Bankası ve Yerbilimleri Maden ve Metalürji Profesyonelleri Birliği ile koordinasyonu sağlamak.
 d) Genel Müdür tarafından verilen diğer görevleri yapmak.”
 
-MADDE 44- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 773 üncü maddesinin başlığı “Teftiş Kurulu Başkanlığı” şeklinde, birinci fıkrasında yer alan “Denetim Hizmetleri” ibaresi “Teftiş Kurulu” şeklinde, aynı fıkranın (a) bendinde yer alan “denetim” ibaresi “teftiş” şeklinde, (b) bendinde yer alan “Denetçilerin” ibaresi “Müfettişlerin”, “denetim” ibaresi “teftiş” şeklinde ve ikinci fıkrasında yer alan “Denetime” ibaresi “Teftişe” şeklinde, “denetçileri” ibaresi “müfettişleri” şeklinde değiştirilmiştir.
+**MADDE 44-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 773 üncü maddesinin başlığı “Teftiş Kurulu Başkanlığı” şeklinde, birinci fıkrasında yer alan “Denetim Hizmetleri” ibaresi “Teftiş Kurulu” şeklinde, aynı fıkranın (a) bendinde yer alan “denetim” ibaresi “teftiş” şeklinde, (b) bendinde yer alan “Denetçilerin” ibaresi “Müfettişlerin”, “denetim” ibaresi “teftiş” şeklinde ve ikinci fıkrasında yer alan “Denetime” ibaresi “Teftişe” şeklinde, “denetçileri” ibaresi “müfettişleri” şeklinde değiştirilmiştir.
 
-MADDE 45- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 782 nci maddesinin ikinci fıkrasında yer alan “Maden ve Petrol İşleri Denetçisi ve Maden ve Petrol İşleri Denetçi Yardımcısı” ibaresi “müfettiş ve müfettiş yardımcısı” şeklinde değiştirilmiştir.
+**MADDE 45-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 782 nci maddesinin ikinci fıkrasında yer alan “Maden ve Petrol İşleri Denetçisi ve Maden ve Petrol İşleri Denetçi Yardımcısı” ibaresi “müfettiş ve müfettiş yardımcısı” şeklinde değiştirilmiştir.
 
-MADDE 46- Ekli listede yer alan kadrolar ihdas edilerek 2 sayılı Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki cetvellerin ilgili bölümlerine eklenmiştir.
+**MADDE 46-** Ekli listede yer alan kadrolar ihdas edilerek 2 sayılı Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki cetvellerin ilgili bölümlerine eklenmiştir.
 
 GEÇİCİ MADDE 1- 2 sayılı Cumhurbaşkanlığı Kararnamesinin eki (I) sayılı Cetvelin;
 a) MADEN VE PETROL İŞLERİ GENEL MÜDÜRLÜĞÜ bölümünde yer alan “Denetim Hizmetleri Başkanı” unvanlı kadro “Teftiş Kurulu Başkanı” şeklinde, “Maden ve Petrol İşleri Denetçisi” unvanlı kadrolar “Müfettiş” şeklinde, “Maden ve Petrol İşleri Denetçi Yardımcısı” unvanlı kadrolar “Müfettiş Yardımcısı” şeklinde,
@@ -313,13 +313,13 @@ c) TÜRKİYE HUDUT VE SAHİLLER SAĞLIK GENEL MÜDÜRLÜĞÜ bölümünde yer al
 değiştirilmiştir.
 Bu maddenin yürürlüğe girdiği tarihte Türkiye İlaç ve Tıbbî Cihaz Kurumunda “Sağlık Başdenetçisi”, “Sağlık Denetçisi” ve “Sağlık Denetçi Yardımcısı” kadrolarında bulunanlar, kadro dereceleriyle durumlarına uygun “Başmüfettiş”, “Müfettiş” ve “Müfettiş Yardımcısı” kadrolarına başkaca bir işleme gerek kalmaksızın atanmış sayılır. Bunların “Sağlık Başdenetçisi”, “Sağlık Denetçisi” ve “Sağlık Denetçi Yardımcısı” kadrolarında geçirdikleri süreler, “Başmüfettiş”, “Müfettiş” ve “Müfettiş Yardımcısı” kadrolarında geçmiş sayılır.
 
-MADDE 47- Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer.
+**MADDE 47-** Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer.
 
-MADDE 48- Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür.
+**MADDE 48-** Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür.
 
 4 Şubat 2019
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI
 
 LİSTE
@@ -334,7 +334,7 @@ TEŞKİLATI : MERKEZ
 | GİH | Şube Müdürü | 1 | 3 |
 | TOPLAM |  |  | 4 |
 
-KURUMU : TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ
+**KURUMU** : TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ
 TEŞKİLATI : MERKEZ
 
 | İHDAS EDİLEN KADROLARIN |  |  |  |

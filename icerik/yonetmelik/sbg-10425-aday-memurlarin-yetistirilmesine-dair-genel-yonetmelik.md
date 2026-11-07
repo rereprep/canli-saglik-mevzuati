@@ -20,11 +20,11 @@ Karar Sayısı: 83/6061
 
 Devlet Personel Dairesince hazırlanan ve Sayıştay tarafından incelenmiş olan «Aday Memurların Yetiştirilmelerine İlişkin Yönetmelik»in yürürlüğe konulması; adı geçen Daire Başkanlığının 26/1/1983 tarihli ve 024-3/00018 sayılı yazısı üzerine, 657 sayılı Devlet Memurları Kanununun değişik 55 inci maddesine göre, Bakanlar Kurulunca 21/2/1983 tarihinde kararlaştırılmıştır.
 
-Kenan EVREN
-Cumhurbaşkanı
+**Kenan EVREN**
+**Cumhurbaşkanı**
 
-B. ULUSU
-Başbakan
+**B. ULUSU**
+**Başbakan**
 
 | | | | |
 |---|---|---|---|
@@ -35,8 +35,8 @@ Başbakan
 | Prof. Dr. S. ÖZBEK<br>Tarım ve Orman Bakanı | Prof. Dr. T. ESENER<br>Çalışma Bakanı | M. TURGUT<br>Sanayi ve Teknoloji Bakanı | F. İLKEL<br>Enerji ve Tabii Kay. Bakanı |
 | İ. EVLİYAOĞLU<br>Kültür ve Turizm Bakanı | Prof. Dr. A. SAMSUNLU<br>İmar ve İskân Bakanı | M. R. GÜNEY<br>Köy İşleri ve Koop. Bakanı | V. ÖZGÜL<br>Gençlik ve Spor Bakanı |
 
-S. ŞİDE
-Sosyal Güvenlik Bakanı
+**S. ŞİDE**
+**Sosyal Güvenlik Bakanı**
 
 ### Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik
 
@@ -45,11 +45,11 @@ Sosyal Güvenlik Bakanı
 
 **Amaç:**
 
-Madde 1 — Bu yönetmelik; 657 sayılı Devlet Memurları Kanununun 2670 sayılı Kanunla değişik 55 inci maddesine dayanılarak; aday memurların yetiştirilmesi için uygulanacak eğitim programlarını, eğitim sürelerini, eğitimlerde uygulanacak sınavları, sınav değerlendirme esaslarını ve ilgili diğer hususları belirlemek amacıyla düzenlenmiştir.
+**Madde** 1 — Bu yönetmelik; 657 sayılı Devlet Memurları Kanununun 2670 sayılı Kanunla değişik 55 inci maddesine dayanılarak; aday memurların yetiştirilmesi için uygulanacak eğitim programlarını, eğitim sürelerini, eğitimlerde uygulanacak sınavları, sınav değerlendirme esaslarını ve ilgili diğer hususları belirlemek amacıyla düzenlenmiştir.
 
 **Kapsam:**
 
-Madde 2 — Bu yönetmelik hükümleri;
+**Madde** 2 — Bu yönetmelik hükümleri;
 
 a. 657 sayılı Devlet Memurları Kanunu,
 
@@ -125,7 +125,7 @@ d. Staj ile ilgili ilkeler;
 
 Eğitim konuları:
 
-Madde 5 — Aday memurların eğitim konuları aşağıda gösterilmiştir;
+**Madde** 5 — Aday memurların eğitim konuları aşağıda gösterilmiştir;
 
 a. Temel Eğitim konuları;
 
@@ -203,7 +203,7 @@ c. Staj Dönemi Konuları; ilgili kurum veya kuruluşlarca belirlenir.
 
 Eğitim programları:
 
-Madde 6 — Eğitim programlarını hazırlayacak kurum veya kuruluşlar aşağıda belirtilmiştir.
+**Madde** 6 — Eğitim programlarını hazırlayacak kurum veya kuruluşlar aşağıda belirtilmiştir.
 
 a. Temel Eğitim programları;
 
@@ -231,23 +231,23 @@ d. Staj Programları, kurum veya kuruluşlarca hazırlanır.
 
 Programların dağıtımı:
 
-Madde 7 — Altıncı maddede belirtilen kurul tarafından hazırlanan temel eğitim programları ilgili kurum veya kuruluşca Başbakanlık Devlet Personel Dairesinden temin edilir.
+**Madde** 7 — Altıncı maddede belirtilen kurul tarafından hazırlanan temel eğitim programları ilgili kurum veya kuruluşca Başbakanlık Devlet Personel Dairesinden temin edilir.
 
 Hazırlayıcı Eğitim ve Staj programları ilgili kurum veya kuruluşlarca dağıtılır.
 
 Eğitim yaptırması:
 
-Madde 8 — Temel Eğitim, Başbakanlık Devlet Personel Dairesi tarafından belirlenen programlar çerçevesinde, Hazırlayıcı Eğitim ve Stajlar kurum veya kuruluşlarınca hazırlanan programlar çerçevesinde Eğitim ve Sınav Yürütme Komisyonlarınca yaptırılır.
+**Madde** 8 — Temel Eğitim, Başbakanlık Devlet Personel Dairesi tarafından belirlenen programlar çerçevesinde, Hazırlayıcı Eğitim ve Stajlar kurum veya kuruluşlarınca hazırlanan programlar çerçevesinde Eğitim ve Sınav Yürütme Komisyonlarınca yaptırılır.
 
 Her kurum veya kuruluş hazırlayıcı eğitim ve staj programlarını, bu eğitimlerin başlangıç ve bitim tarihlerini, yerini, eğitime katılacakların sayısını, eğitimlerin başlamasıyla birlikte Başbakanlık Devlet Personel Dairesine bildirirler.
 
 ÜÇÜNCÜ KISIM
 
-Sınavlara İlişkin Esaslar
+**Sınavlara** İlişkin Esaslar
 
-Sınav sorularının hazırlanması:
+**Sınav sorularının hazırlanması:**
 
-Madde 9 — Sınav soruları aşağıda belirtilen şekilde hazırlanır;
+**Madde** 9 — Sınav soruları aşağıda belirtilen şekilde hazırlanır;
 
 a. Temel Eğitim; Bu eğitim sonunda yapılacak sınavlarda sorulacak sorular 18 nci maddede belirtilen kurul tarafından, soruların eğitime tabi tutulacak aday memurlara önceden verileceği dikkate alınarak, 5 inci maddede tesbit edilen konuları kapsayacak ve eğitim programlarında her konu için tesbit edilecek zamanlarla orantılı olacak şekilde en az 100 adet hazırlanır.
 
@@ -255,7 +255,7 @@ Kurum ve kuruluşlar bu eğitimle ilgili sınav sorularını eğitim programlar�
 
 b. Hazırlayıcı eğitim ve stajlarla ilgili sınav soruları ilgili kurum veya kuruluşlarca hazırlanır.
 
-Sınavlar:
+**Sınavlar:**
 
 Madde 10 — Sınavlar; test, uzun cevaplı veya uygulamalı şekilde yapılır. Bunlardan biri veya birkaçı da uygulanabilir.
 
@@ -273,7 +273,7 @@ Temel Eğitim sınavları:
 
 Madde 11 — Bu eğitimin sonunda yapılacak sınavlarda 10 ncu madde esasları uygulanır. Ancak sınav soruları, Temel Eğitim Kurulunca belirlenen sorular arasından konuların eğitim programındaki ağırlıkları dikkate alınarak, her konu için ayrı ayrı olmak üzere kura usulü ile adayların huzurunda tesbit edilir.
 
-Değerlendirme:
+**<i>Değerlendirme:</i>**
 
 Madde 12 — Eğitimler aşağıdaki şekilde değerlendirilir.
 
@@ -289,7 +289,7 @@ Staja katılanlar staj değerlendirme belgesi ile değerlendirilirler.
 
 Kurum ve kuruluşlar bu dönemdeki aday memurlarını yazılı veya uygulamalı sınava tabi tutarak değerlendirebilirler, bu takdirde değerlendirme bu maddenin (a) fıkrası esaslarına göre yapılır. Staj değerlendirme belgesi (EK - 1) de gösterilmiştir.
 
-Sınav sonuçlarının bildirilmesi:
+<i>Sınav</i> sonuçlarının bildirilmesi:
 
 Madde 13 — Sınav sonuçları sınavların yapıldığı günü takiben iki gün içinde ilan edilir. Ayrıca sonuçlar başarısız adaylara yazılı olarak tebliğ edilir.
 
@@ -299,13 +299,13 @@ Madde 14 — Aday memurlar yazılı sınav sonuçlarına itiraz edebilirler. İt
 
 Sınavlara itiraz edenlerin itirazları neticelendirilinceye kadar aday memurlar müteakip eğitime devam ettirilirler.
 
-Sınavlara katılmama hali:
+**<i>Sınavlara katılmama hali:</i>**
 
 Madde 15 — Sağlık sebepleri dışında sınavlara katılmayanlar başarısız sayılır. Sağlık sebebiyle sınava katılmayanların sınavları adaylık süresi içinde uygun bir zamanda yapılır.
 
 Soruların açılması ve yazdırılmasından veya dağıtılmasından sonra sınav salonuna gelenler sınava katılmamış sayılır ve başarısız olarak değerlendirilirler.
 
-Sınavların geçersiz sayılacakları:
+<i>Sınavların</i> geçersiz sayılacakları:
 
 Madde 16 — Adaylar aşağıdaki durumlarda sınavlarda başarısız sayılırlar;
 
@@ -330,9 +330,9 @@ Yukarıda sayılan hususlara sebep olanlar hakkında kanuni işlem yapılır.
 DÖRDÜNCÜ KISIM
 
 Eğitim ve Sınavlarla İlgili İşlemleri
-Yürütecek Kurullar ve Görevleri
+**<i>Yürütecek Kurullar ve Görevleri</i>**
 
-Temel Eğitim Kurulu:
+**<i>Temel Eğitim Kurulu:</i>**
 
 Madde 18 — Temel Eğitimle ilgili programların ve sınav sorularının hazırlanması maksadıyla Başbakanlık Devlet Personel Dairesi Başkanlığında bir Temel Eğitim Kurulu kurulur.
 
@@ -340,7 +340,7 @@ Bu Kurul; Başbakanlık Devlet Personel Dairesi Genel Sekreterinin Başkanlığ�
 
 Kurul, kurul başkanının çağrısı üzerine toplanır. Kurulla ilgili kurum veya kuruluşlardan da temsilciler çağrılabilir.
 
-Temel Eğitim Kurulunun görevleri:
+**<i>Temel Eğitim Kurulunun görevleri:</i>**
 
 Madde 19 — Kurul aşağıdaki görevleri yerine getirir;
 
@@ -490,7 +490,7 @@ Madde 33 — Kurum ve kuruluşlar bu genel yönetmelikte belirtilen esaslara ayk
 
 Madde 34 — Kurum ve kuruluşların özel yönetmeliklerinde yer alan ve bu yönetmelik hükümlerine aykırı olan aday memurların yetiştirilmelerine ilişkin hükümleri yürürlükten kaldırılmıştır.
 
-Geçici Madde 1 — Bu yönetmeliğin yürürlüğe girdiği tarihte önce aday memur olarak görevde bulunanlar hakkında kurum ve kuruluşların özel yönetmeliklerinde yer alan aday memurların yetiştirilmesine ilişkin hükümlerin uygulanmasına devam olunur.
+**Geçici Madde** 1 — Bu yönetmeliğin yürürlüğe girdiği tarihte önce aday memur olarak görevde bulunanlar hakkında kurum ve kuruluşların özel yönetmeliklerinde yer alan aday memurların yetiştirilmesine ilişkin hükümlerin uygulanmasına devam olunur.
 
 Geçici Madde 2 — Bu Yönetmelik Başbakanlık Devlet Personel Dairesi Başkanlığınca tertip edilerek sınava girerek sınavı kazanan ve aday memur olarak atananlara uygulanır. Ancak, kurum veya kuruluşlar ihtiyaç duydukları takdirde merkezi sınav yapılmadan önce aday memur olarak atananlarında bu yönetmelik esaslarına göre yapılacak eğitimlere iştirak ettirebilirler.
 
@@ -500,7 +500,7 @@ Madde 35 — Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer.
 
 *Yürütme :*
 
-Madde 36 — Bu Yönetmeliği Bakanlar Kurulu yürütür.
+**Madde** 36 — Bu Yönetmeliği Bakanlar Kurulu yürütür.
 
 **EK — I**
 
@@ -508,7 +508,7 @@ Madde 36 — Bu Yönetmeliği Bakanlar Kurulu yürütür.
 
 **STAJ DEĞERLENDİRME BELGESİ**
 
-FOTOĞRAF
+**FOTOĞRAF**
 
 **1. ADAY MEMURUN KİMLİĞİ**
 
@@ -583,15 +583,15 @@ d. Mesleki bilgiye ait niteliklerin hangi kriterlerden oluşacağı ilgili kurum
 
 **AMİRLERİN KİMLİĞİ**
 
-ADI VE SOYADI : .................................................................
+**ADI VE SOYADI** : .................................................................
 
-UNVANI : ........................................................................
+**UNVANI** : ........................................................................
 
-KURUMU : .........................................................................
+**KURUMU** : .........................................................................
 
 DOLDURULUŞ TARİHİ : ............................................................
 
-İMZA VE MÜHÜR : ................................................................
+**İMZA VE MÜHÜR** : ................................................................
 
 I. Amir'in Toplam Notu ..........................................................
 
@@ -599,12 +599,12 @@ II. Amir'in Toplam Notu ........................................................
 
 (I ve II Amir Toplam Notlarının)
 
-Aritmetik ortalaması
+**Aritmetik ortalaması**
 
-STAJ NOTU
+**STAJ NOTU**
 
-TASDİK OLUNUR
+**TASDİK OLUNUR**
 
-Tasdik Eden Yetkili Amirin
+**Tasdik Eden Yetkili Amirin**
 
-KİMLİĞİ
+**KİMLİĞİ**

@@ -71,7 +71,7 @@ Askerlik hizmetinde geçirilen süreler kademe ilerlemesi ve derece yükselmesin
 
 **GEÇİCİ MADDE 2 –** Halen görevde bulunan hakim ve savaların evvelce hakim adaylığında geçen iki yıldan fazla süreleri, geçmişe yönelik bir hak doğurmamak kaydıyla kadro şartı aranmaksızın değerlendirilerek derece ve kademeleri tesbit edilir.
 
-Yürütme ve İdare Bölümü Sayfa : 3 GEÇÎCİ M A D DE 3. — Hakim ve Savcı adayları eğitim merkezi tesisleri, alınan tam adaylara hizmet verebilecek şekilde ikmal edilinceye kadar, 7 nci maddeye göre atanmış olan adayların eğitim merkezine kabulleri, eğitim merkezinin kapasitesi gözönünde tutularak Adalet Bakanlığınca tesbit edilecek esaslar dairesinde yapılır.
+**Yürütme ve İdare Bölümü Sayfa : 3** GEÇÎCİ M A D DE 3. — Hakim ve Savcı adayları eğitim merkezi tesisleri, alınan tam adaylara hizmet verebilecek şekilde ikmal edilinceye kadar, 7 nci maddeye göre atanmış olan adayların eğitim merkezine kabulleri, eğitim merkezinin kapasitesi gözönünde tutularak Adalet Bakanlığınca tesbit edilecek esaslar dairesinde yapılır.
 
 **MADDE 14 –** Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.
 

@@ -14,11 +14,11 @@ ocr: true
 duzeltildi: true
 ---
 
-CUMHURBAŞKANLIĞI TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI
-KARARNAMESİNDE DEĞİŞİKLİK YAPILMASINA DAİR
-CUMHURBAŞKANLIĞI KARARNAMESİ
+**CUMHURBAŞKANLIĞI TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI**
+**KARARNAMESİNDE DEĞİŞİKLİK YAPILMASINA DAİR**
+**CUMHURBAŞKANLIĞI KARARNAMESİ**
 
-Kararname Numarası: 28
+**Kararname Numarası: 28**
 
 MADDE 1- 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 232 nci maddesinin ikinci fıkrasının birinci cümlesinde yer alan “Hukuk ve” ibaresi yürürlükten kaldırılmıştır.
 
@@ -38,5 +38,5 @@ MADDE 5- Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yür�
 
 17 Ocak 2019
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI

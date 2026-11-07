@@ -13,13 +13,13 @@ duzeltildi: true
 
 13 Nisan 2019 CUMARTESİ                         Resmî Gazete                         Sayı : 30744
 
-GENELGE
+**GENELGE**
 
 Cumhurbaşkanlığından:
 Konu: Küresel Grip Salgını (Pandemi)
 
 GENELGE
-2019/5
+**2019/5**
 
 İnfluenza virüslerinin yol açtığı bir solunum yolu hastalığı olan, özellikle sonbahar ve kış aylarında görülen ve mevsimsel olarak seyreden influenza (grip) zaman zaman pek çok kişinin ölümüyle sonuçlanan salgınlara neden olurken zaman zaman da küresel çapta görülen ve pandemi olarak adlandırılan salgınlara yol açabilmektedir.
 
@@ -40,5 +40,5 @@ Bilgilerini ve gereğini rica ederim.
 
 12 Nisan 2019
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI

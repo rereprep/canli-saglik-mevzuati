@@ -21,7 +21,7 @@ Tedavi Hizmetleri Genel Müdürlüğü
 Sayı : Th. II-Şb.Md. 5590-5687
 Konu : Acquired Immune Deficiency Syndrome (Akkiz İmmun Yetersizlik Sendromu)
 
-ANKARA, 16 Ağustos 1983
+**ANKARA**, 16 Ağustos 1983
 
 VALİLİĞİNE
 

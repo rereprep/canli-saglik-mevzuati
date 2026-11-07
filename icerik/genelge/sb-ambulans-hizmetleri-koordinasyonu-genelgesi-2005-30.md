@@ -40,7 +40,7 @@ Ayrıca 12.06.2004 tarih ve 25490 sayılı Resmi Gazetede yayımlanarak yürürl
 Bilgilerinizi ve gereğini rica ederim.
 
 Prof. Dr. Recep AKDAĞ  
-Bakan
+**Bakan**
 
 **DAĞITIM:**  
 81 İl Valiliğine

@@ -112,7 +112,7 @@ a) **Güneş veya Sıcak Çarpması:** Aşırı sıcağa maruz kalma sonucu bede
 
 b) **Sıcak Bitkinliği:** Uzun süre aşırı sıcağa maruz kalma ve yeterli miktarda sıvı almamaya bağlı su ve mineral kaybıyla meydana gelir. Daha sıklıkla yaşlılarda, yüksek tansiyonu olanlarda ve güneş altında çalışanlarda görülür. Aşırı terleme, yorgunluk, halsizlik, bayılma hissi, nabız hızlanması, ateş yükselmesi belirtileriyle kendini gösterir. Deri soğuk ve nemlidir, nabız hızlı ve zayıftır, solunum hızlı ve yüzeysel, şuur açıktır. Güneş çarpmasının daha hafif şekli olup hayati tehlike yoktur.
 
-İlk yardım; uygun ve zamanında yapılırsa genel durum hızla düzelir. Serin bir yerde istirahata alınan hastanın giysileri gevşetilip, sırt üstü yatırılarak bacakları yükseltilir. Islak havlu veya bezle serinletilmeye çalışılır. Bol miktarda sıvı verilir, özellikle de tuzlu ayran içirilir. Yaklaşık 1 saat içerisinde kişinin genel durumu düzelmezse mutlaka sağlık kuruluşuna başvurulması gerekir.
+<i>İlk yardım;</i> uygun ve zamanında yapılırsa genel durum hızla düzelir. Serin bir yerde istirahata alınan hastanın giysileri gevşetilip, sırt üstü yatırılarak bacakları yükseltilir. Islak havlu veya bezle serinletilmeye çalışılır. Bol miktarda sıvı verilir, özellikle de tuzlu ayran içirilir. Yaklaşık 1 saat içerisinde kişinin genel durumu düzelmezse mutlaka sağlık kuruluşuna başvurulması gerekir.
 
 c) **Sıcak krampları:** Aşırı aktivite sonucunda terlemeye bağlı olarak vücutta hızlı bir su ve tuz kaybı meydana gelir. Düşük tuz seviyeleri kaslarda sıcak kramplarına neden olabilir. Sıcak krampları aynı zamanda sıcak bitkinliğinin belirtilerinden birisidir. Genellikle kol, bacak ve kol kaslarının fiziksel aktivite sırasında ağrılı spazmlarıyla meydana gelir.
 

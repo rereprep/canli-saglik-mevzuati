@@ -36,7 +36,7 @@ Bakanlığımızca "Sağlıkta Dönüşüm Projesi Kapsamında Yapılacak Sağl�
 51 - 100 yatak: [?]
 101 - 200 yatak: [?]
 201 - 400 yatak: 9
-401 - 600 yatak: [?]
+**401** - 600 yatak: [?]
 601 - 900 yatak: 13
 901 - ve üzeri yatak: 16
 
@@ -58,7 +58,7 @@ Bakanlığımızca "Sağlıkta Dönüşüm Projesi Kapsamında Yapılacak Sağl�
 
 min 150 cm. min 150 cma rin 150 cm•
 
-350 350 5- Koroner yoğun balaı ünitesi anjiyo mahaline yakın bir yerde çözülecek, içerisinde wc mahali düşünülecektirtir. ś- Aksi belirtilmediği sürece yenidoğan yoğun balam yatak sayısı yarısı kadar anne oteli için yatal planlanacaktır. Ayrıca bu birim; duş, tuvalet ve soyunma mahalleri, mutfak, çamaşır yıkama mahallerin içerecektir.
+**350 350** 5- Koroner yoğun balaı ünitesi anjiyo mahaline yakın bir yerde çözülecek, içerisinde wc mahali düşünülecektirtir. ś- Aksi belirtilmediği sürece yenidoğan yoğun balam yatak sayısı yarısı kadar anne oteli için yatal planlanacaktır. Ayrıca bu birim; duş, tuvalet ve soyunma mahalleri, mutfak, çamaşır yıkama mahallerin içerecektir.
 
 ### R00000 N0000 509006 Bu çizim fikir vetmek amaçlı olup, standartlarımıza uymak koşulu ›ı tasanım serbesttir
 

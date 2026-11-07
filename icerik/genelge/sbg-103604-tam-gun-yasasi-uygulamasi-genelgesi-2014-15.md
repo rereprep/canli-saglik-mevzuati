@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.26. Tam Gün Yasası Uygulaması Genelgesi (2014/15)
+**2.3.26. Tam Gün Yasası Uygulaması Genelgesi (2014/15)**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI

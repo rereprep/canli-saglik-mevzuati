@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 Hayvan Sağlık Memurları Mektebi ve bu memurların vazife ve selâhiyetleri hakkında- Nizamname
 
-BİRİNCİ FASIL Mektebler
+**<i>BİRİNCİ FASIL</i>** Mektebler
 
 BİRİNCİ KISIM Teşkilât ve tedrisat
 
@@ -182,7 +182,7 @@ Serom ve aşı istihzaratına ait fennî kayıtların tanzimi, fennî alât ve e
 
 **Madde 47 –** Kadavralardan istifade müesseselerinde talimat hükümlerine göre başlı başlarına çalışırlar.
 
-(III) Hayvan ıslah ve teksir işlerindeki vazifeler
+**(III)** Hayvan ıslah ve teksir işlerindeki vazifeler
 
 **Madde 48 –** Kurs gören hayvan sağlık memurları veterinerin direktifi dairesinde sun'î tohumlama ve nezareti altında tabiî tohumlama işlerinde sifat istasyonlarında çalışırlar.
 
@@ -198,7 +198,7 @@ A) Veteriner tarafından damızlık derecelerine tasnif edilen aygır, kısrak v
 
 
 
-ÜÇÜNCÜ FASIL Umumî ve usulî hükümler
+**<i>ÜÇÜNCÜ FASIL</i>** Umumî ve usulî hükümler
 
 **Madde 53 –** Hayvan sağlık memurları her ne maksatla olursa olsun münferit veya müçtemi hayvanlar için menşe şahadetnamesi ve sağlık raporu gibi vesikalar veremezler.
 

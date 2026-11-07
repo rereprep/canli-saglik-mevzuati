@@ -15,18 +15,18 @@ kontrol_edildi: true
 
 T.C.
 SAĞLIK BAKANLIĞI
-Strateji Geliştirme Başkanlığı
+**Strateji Geliştirme Başkanlığı**
 
 Sayı : B.10.0.SGB.0.84.00.01/10-06-11143
 Konu : Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti
 
-19/10/2011
+**19/10/2011**
 
 ............ VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
-GENELGE
-2011/56
+**GENELGE**
+**2011/56**
 
 İlgi: 01.03.2010 tarihli ve 2010/11 Sıra Nolu Genelge.
 
@@ -67,7 +67,7 @@ Sistemine entegre bir şekilde geliştirilmiş olup, kurumlarımız kendilerine 
 
 girilecek ve girilen veriler doğrultusunda modül hesaplama yapacaktır.
 
-3. Idareler tarafından modüle girilen verileri de içerecek şekilde modülden çıktı
+3. <i>Idareler</i> tarafından modüle girilen verileri de içerecek şekilde modülden çıktı
 
 alınacaktır.
 
@@ -95,17 +95,17 @@ hesaplamalar yapılabilecektir.
 
 Say: :B.10.0.SGB.0.84.00.01/10-06-11143 19/10/2011 Konu: Tibbi Cihaz Hizmet ve Tibbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti B. Maliyet Bileşenleri Kurumun veya ihtiyacın özelliğine göre değişebilmekle beraber, MR ve BT hizmet ahımlarının maliyet bileşenleri genel olarak aşağıdaki ana başlıklardan oluşmaktadır.
 
-1. Hizmetin sunulacağı cihaz veya cihazların kullanım bedeli; 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunun Geçici 19 uncu maddesinde yapılar değişiklikle, ileri teknoloji ürünü yüksek maliyetli tıbbi cihaz teminlerinde yedi (7) yıla kadar gelecek yıllara yaygın yüklenme yapmak mümkün hale gelmiştir. Kurumlarımızın yedi (7) yıla kadar gelecek yıllara yaygın yüklenme yapma zorunlulukları bulunmamaktadır. Ancak kurumlarımızca belirlenen hizmet alım süresine bakılmaksızın ihale kapsamında talep edilecek cıhazın/cihazların piyasa değeri 7'ye (yediye) bölünerek yılhk kullanım bedeli belirlenecektir. Belırlenen yıllık kulanım bedeli, kurumlarımızca belirlenen hizmet alım süresi de esas alınarak yaklaşık maliyet tespitinde dikkate alınacaktır. Kurumlarımız cihaz/cihazların piyasa değerini fiyat araştırması yaparak belirleyeceklerdir. Ancak belirlenecek bu bedel modülde Bakanhkça belirtilen cihaz/cihazların bedelini aşmayacaktır.
+1. **Hizmetin sunulacağı cihaz veya cihazların kullanım bedeli;** 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunun Geçici 19 uncu maddesinde yapılar değişiklikle, ileri teknoloji ürünü yüksek maliyetli tıbbi cihaz teminlerinde yedi (7) yıla kadar gelecek yıllara yaygın yüklenme yapmak mümkün hale gelmiştir. Kurumlarımızın yedi (7) yıla kadar gelecek yıllara yaygın yüklenme yapma zorunlulukları bulunmamaktadır. Ancak kurumlarımızca belirlenen hizmet alım süresine bakılmaksızın ihale kapsamında talep edilecek cıhazın/cihazların piyasa değeri 7'ye (yediye) bölünerek yılhk kullanım bedeli belirlenecektir. Belırlenen yıllık kulanım bedeli, kurumlarımızca belirlenen hizmet alım süresi de esas alınarak yaklaşık maliyet tespitinde dikkate alınacaktır. Kurumlarımız cihaz/cihazların piyasa değerini fiyat araştırması yaparak belirleyeceklerdir. Ancak belirlenecek bu bedel modülde Bakanhkça belirtilen cihaz/cihazların bedelini aşmayacaktır.
 
-2. Hizmetin sunulacağı cihaz veya cihazların kurulum maliyeti; Cihazların kuruma kurulması halinde; taşınması, montaj yerinin hazırlanması, tefrişi, gerekiyorsa havalandırmanın yapılması, gerekli izinlerin veya ruhsatların alınması için yapılan harcamalar kısacası kurulum maliyetleri yükleniciler tarafından karşılanmaktadır. Idarece yapılacak fiyat araştırmaları neticesinde tespit edilen kurulum maliyetleri yaklaşık maliyet tespitinde dikkate alınacaktır. Ancak idarece belirlenecek kurulum maliyet bedeli cihaz başına 50.000-TL.'sını geçmeyecektir. Ilgi genelgede belirtildiği üzere kurum dışında kurulu olan cihazlardan hizmet satın alınacak ise kurulum maliyetlerinin dikkate alınmaması gerekmektedir.
+2. **Hizmetin sunulacağı cihaz veya cihazların kurulum maliyeti;** Cihazların kuruma kurulması halinde; taşınması, montaj yerinin hazırlanması, tefrişi, gerekiyorsa havalandırmanın yapılması, gerekli izinlerin veya ruhsatların alınması için yapılan harcamalar kısacası kurulum maliyetleri yükleniciler tarafından karşılanmaktadır. Idarece yapılacak fiyat araştırmaları neticesinde tespit edilen kurulum maliyetleri yaklaşık maliyet tespitinde dikkate alınacaktır. Ancak idarece belirlenecek kurulum maliyet bedeli cihaz başına 50.000-TL.'sını geçmeyecektir. Ilgi genelgede belirtildiği üzere kurum dışında kurulu olan cihazlardan hizmet satın alınacak ise kurulum maliyetlerinin dikkate alınmaması gerekmektedir.
 
-3. Hizmetin sunulacağı cihaz veya cihazların finansman maliyeti; Hizmet alımında firma tarafından sağlanacak olan cihaz/cihazların temin edilebilmesi için firma tarafından katlanılan alternatif maliyetler finansman maliyeti olarak yaklaşık maliyet Kurumlarımız, güncel kanuni faiz oranını (01.01.2011 tarihinden itibaren yıllık %9) geçmeyecek şekilde belirleyecekleri yıllık bir oran üzerinden hizmet alımının toplam süresini de dikkate alarak tespit edecekleri finansman maliyetini yaklaşık maliyet tespitinde dikkate alacaklardır. Güncel kanuni faiz oranına; "www.muhasebat.gov.tr" adresi "Mevzuat-Tebliğ- Parasal Sınırlar ve Oranlar Hakkında Genel Tebliği" bölümünde yer alan "Tablo V- Kanuni Faiz ve Temerrüt Faiz Oranları"ndan ulaşılması mümkündür.
+3. **Hizmetin sunulacağı cihaz veya cihazların finansman maliyeti;** Hizmet alımında firma tarafından sağlanacak olan cihaz/cihazların temin edilebilmesi için firma tarafından katlanılan alternatif maliyetler finansman maliyeti olarak yaklaşık maliyet Kurumlarımız, güncel kanuni faiz oranını (01.01.2011 tarihinden itibaren yıllık %9) geçmeyecek şekilde belirleyecekleri yıllık bir oran üzerinden hizmet alımının toplam süresini de dikkate alarak tespit edecekleri finansman maliyetini yaklaşık maliyet tespitinde dikkate alacaklardır. Güncel kanuni faiz oranına; "www.muhasebat.gov.tr" adresi "Mevzuat-Tebliğ- Parasal Sınırlar ve Oranlar Hakkında Genel Tebliği" bölümünde yer alan "Tablo V- Kanuni Faiz ve Temerrüt Faiz Oranları"ndan ulaşılması mümkündür.
 
 Sayı :B.10.0.SGB.0.84.00.01/10-06-11143 19/10/2011 Konu: Tibbi Cihaz Hizmet ve Tibbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti Finansman maliyeti aşağıdaki formüle göre tespit edilecektir. AFM - {A x [I +(B/12)" x (B/12)} / {[+(B/12))" - 1}
 
 TFM = (AFM x n) - A
 
-Formülde;
+**Formülde;**
 
 Cihaz/Cihazlann Piyasa Değerini(TL),
 
@@ -119,11 +119,11 @@ AFM- Aylık Finansman Maliyetini,
 
 TFM= Toplam Finansman Maliyetini,
 
-4. Hizmetin sunulacağı cihaz veya cihazların bakım-onarım maliyeti; Hizmetin süresine ve hizmetin alım miktarına göre idarece yapılacak fiyat araştırması sonucunda belirlenecek olan yıllık bakım-onarım (yedek parça dâhil) maliyeti, yaklaşık maliyet tespitinde dikkate alınacaktır. BT hizmet alımlarında, tüp bedeli işletim maliyeti içerisinde ayrıca hesap edileceğinden cihaz/cihazların piyasa değerinin %5'ni geçmeyecek şekilde yılhk bakım-onarım (yedek parça dâhil) maliyeti belirlenebilecektir. MR hizmet alımlarında ise soğutucu gaz ihtiyacı bakım onarım maliyeti kapsamında değerlendirilerek cihaz/cihazların piyasa değerinin %'sini geçmeyecek şekilde belirlenebilecektir. Ancak MR sistemlerinde bulunmadığından bu oran %5'i geçmeyecek şekilde belirlenecektir.
+4. **Hizmetin sunulacağı cihaz veya cihazların bakım-onarım maliyeti;** Hizmetin süresine ve hizmetin alım miktarına göre idarece yapılacak fiyat araştırması sonucunda belirlenecek olan yıllık bakım-onarım (yedek parça dâhil) maliyeti, yaklaşık maliyet tespitinde dikkate alınacaktır. BT hizmet alımlarında, tüp bedeli işletim maliyeti içerisinde ayrıca hesap edileceğinden cihaz/cihazların piyasa değerinin %5'ni geçmeyecek şekilde yılhk bakım-onarım (yedek parça dâhil) maliyeti belirlenebilecektir. MR hizmet alımlarında ise soğutucu gaz ihtiyacı bakım onarım maliyeti kapsamında değerlendirilerek cihaz/cihazların piyasa değerinin %'sini geçmeyecek şekilde belirlenebilecektir. Ancak MR sistemlerinde bulunmadığından bu oran %5'i geçmeyecek şekilde belirlenecektir.
 
-5. İşletim Maliyetleri: Hizmetin sunulacağı cihaz/cihazların işletimi ile çekim için ihtiyaç duyulabilecek film, cd, kırtasiye, tıbbi sarf vb. malzeme giderleri ve diğer giderlerden oluşan işletim maliyeti; alınacak hizmetin miktarına bağlı olarak aşağıda belirtilen işletim maliyet unsurlanı çerçevesinde idarece belirlenerek yaklaşık maliyet tespitinde dikkate alınacaktır. Ilgide kayıthı genelge gereği, kuruma kurulan tıbbi cihazın/cihazların işletilmesi için gerekli olan elektrik ve su hastane tarafından karşılanacağından bu giderler yaklaşık maliyet tespitinde dikkate alınmayacaktır. Işletim Maliyetleri;
+5. **İşletim Maliyetleri:** Hizmetin sunulacağı cihaz/cihazların işletimi ile çekim için ihtiyaç duyulabilecek film, cd, kırtasiye, tıbbi sarf vb. malzeme giderleri ve diğer giderlerden oluşan işletim maliyeti; alınacak hizmetin miktarına bağlı olarak aşağıda belirtilen işletim maliyet unsurlanı çerçevesinde idarece belirlenerek yaklaşık maliyet tespitinde dikkate alınacaktır. Ilgide kayıthı genelge gereği, kuruma kurulan tıbbi cihazın/cihazların işletilmesi için gerekli olan elektrik ve su hastane tarafından karşılanacağından bu giderler yaklaşık maliyet tespitinde dikkate alınmayacaktır. Işletim Maliyetleri;
 
-a) BT Tüp Maliyeti; Çekim miktarı ve hizmet alım süresi de göz önünde
+a) **BT Tüp Maliyeti;** Çekim miktarı ve hizmet alım süresi de göz önünde
 
 bulundurularak değişmesi öngörülen tüp sayısına bağhı olarak BT tüp maliyeti
 
@@ -139,17 +139,17 @@ Sayı :B.10.0.SGB.0.84.00.01/10-06-11143 19/10/2011 Konu:Tibbi Cihaz Hizmet ve T
 
 b) Film Maliyeti; MR ve BT çekimlerinin dijital ortamda takip edilip, saklandığı ve tamamının CD'ye veya filme basılmadığı sistemlerde film maliyeti önemli ölçüde düşmektedir. Bu nedenle toplam çekim içerisinde basılacak film ådeti esas alınarak film maliyeti hesaplanacaktır. Bir filmin maliyeti, MKYS'de yer alan fiyatlarda esas alınarak yapılacak fıyat araştırmaları çerçevesinde idarece belirlenecektir. Toplam film adedi; MR hizmet alımlarında çekim başına ortalama 3 (üç) adet, BT hizmet ahımlarında ise çekim başına ortalama 2 (iki) adet basıldığından hareketle hesaplama yapılacaktır. PACS sistemi ile birlikte işletilecek hizmet alımlarında toplam çekimlerin filme basılma oranı toplam çekim sayısının %20'sini geçmeyecektir. PACS sistemi kurmak isteyen kurumlarımız bu sistemi görüntüleme hizmet alımı kapsamında firmalardan temin etmeyecek olup kendileri temin edeceklerdir.
 
-e) Tıbbi Sarf Malzeme ve Kırtasiye Maliyeti; Bir çekimde ihtiyaç duyulacak olan enjektör, eldiven, CD, zarf, film dosyası gibi kullanılacak sarf malzemelerin maliyet hesabında, bir çekim için 1,00-TL'yi geçmeyecek şekilde MKYS yer alan fiyatların ortalama değeri esas alnarak idarece belirlenecek maliyet kullanılacaktır. Orneğin çekim başına 0,85-TL. gibi.
+e) **Tıbbi Sarf Malzeme ve Kırtasiye Maliyeti;** Bir çekimde ihtiyaç duyulacak olan enjektör, eldiven, CD, zarf, film dosyası gibi kullanılacak sarf malzemelerin maliyet hesabında, bir çekim için 1,00-TL'yi geçmeyecek şekilde MKYS yer alan fiyatların ortalama değeri esas alnarak idarece belirlenecek maliyet kullanılacaktır. Orneğin çekim başına 0,85-TL. gibi.
 
-d) Taşıma Maliyeti; Ilgi genelgede belirtildiği üzere kurum dışında kurulu olan cihazlardan hizmet satın alındığı durumlarda, hastane ile firmanın görüntüleme merkezi arasında hasta taşımasının firma tarafından gerçekleştirilmesi isteniyorsa buna ilişkin maliyetler taşıma maliyeti içerisinde değerlendirilecek ve yaklaşık maliyet hesabında dikkate alınacaktır.
+d) **Taşıma Maliyeti;** Ilgi genelgede belirtildiği üzere kurum dışında kurulu olan cihazlardan hizmet satın alındığı durumlarda, hastane ile firmanın görüntüleme merkezi arasında hasta taşımasının firma tarafından gerçekleştirilmesi isteniyorsa buna ilişkin maliyetler taşıma maliyeti içerisinde değerlendirilecek ve yaklaşık maliyet hesabında dikkate alınacaktır.
 
 6. Hizmet verilmesi için istekliden istenecek ve ihale dokümanında nitelikleri ve sayısı belirtilen personel maliyeti; Bahse konu hizmet alımlarında mesaisinin tamamımı idarede geçirecek olan, niteliği ve sayısı ihale dokümanında ayrıntılı olarak belirtilen personele yükleniciler tarafından ödenecek ücretler noktasında idarelerce genelde ihale dokümanında bir ücret öngörülmemekle birlikte; bu kişilerin brüt asgari ücretin altında olmamak üzere yükleniciye bir maliyetinin olduğu düşünülerek ihale dokümanında belirtilen niteliğe, sayıya ve hizmetin
 
 Sayı :B.10.0.SGB.0.84.00.01/10-06-11143 19/10/2011 Konu: Tibbi Cihaz Hizmet ve Tibbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti süresine güre belirlenecek olan personel maliyeti yaklaşık maliyet tespitinde dikkate alınacaktır. ihale dokümanında bir düzenleme yapılmayacaktır. Ihtiyaç duyulabilecek diğer personel (temizlik, güvenlik, sağlık personeli vb.) diğer hizmet ahımları kapsamında çalıştırılan personel veya kurum personeli arasından idarece karşılanacaktır. Raporlama dâhil hizmet ahımı yapılacak ise, raporlama yapacak personelin niteliklerine yönelik ihale dokümanında düzenleme yapılabilecektir. raporlama yapacak personelin maliyeti raporlama maliyetinin içinde yer aldığından bu personele ait ayrıca bir maliyet hesaplanmayacaktır. Kurumun mevcut personel sayısı, mesai dışı çalışma, izinler vb. hususlar dikkate alınarak hizmet sunumunun kesintisiz yürütülmesi için cihaz başına azami 4 (dört) teknisyen ve 3 (üç) sekreter çalıştırılacağı öngörülebilecektir. Hizmet alımı kapsamında birden fazla cihazın kurulması veya MR ile BT hizmet alımının birlikte yapılması durumlarında personel sayısının cihaz başına değil hizmet gereklerine uygun şekilde gerçekçi belirlenmesi gerektiği unutulmamalıdır. Teknisyen maliyeti; ihale dokümanında istenilen nitelikler dikkate alınarak idarece bir maliyet belirlenecektir. Idarece belirlenecek olan bu maliyet, 4 yıllık sağlık bilimleri lisansiyeri mezunu olup, birinci derecenin dördüncü kademesinde (1/4) yer alan kamu personelinin brüt maaşı ile 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesi uyarınca yapılacak olan ek ödeme brüt tutarı toplamından fazla Sekreter maliyeti; ihale dokümanında istenilen nitelikler dikkate alınarak idarece bir maliyet belirlenecektir. Idarece belirlenecek olan bu maliyet, hizmet alımları kapsamında çalıştırılan kişilere öngörülecek ücretler hakkında Bakanlığımızca yayımlanan genelgeler çerçevesinde "Tıbbi Sekreterlik ve Tıbbi Dokümantasyon" mezunu olanlar için öngörülebilecek brüt asgari ücret üzerinden hesaplanan işverene maliyetinden fazla olmayacaktır. Teknisyen ve sekreter maliyeti; brüt asgari ücret üzerinden hesaplanan bir işçinin işverene maliyetinden az belirlenmeyecektir.
 
-7. Raporlama Maliyeti: Hizmet ahımı kapsamında çekimlere ilişkin raporlama hizmeti alınacaksa, raporlama maliyeti yaklaşık maliyet tespitinde dikkate alınacaktır. Idarece fiyat araştırması yapılarak raporlama birim maliyeti belirlenecek ve belirlenecek birim maliyet üzerinden çekimlerin bir kısmının hastanenin personeli tarafından bir kısmının ise firma personeli tarafından raporlanabileceği hususları da dikkate alınarak toplam raporlama maliyeti tespit edilecektir. Idarece tespit edilecek raporlama birim maliyeti, Sağlık Uygulama Tebliği'nde (SUT) yer alan konsültasyon ışlem bedelini aşmayacaktır.
+7. **Raporlama Maliyeti:** Hizmet ahımı kapsamında çekimlere ilişkin raporlama hizmeti alınacaksa, raporlama maliyeti yaklaşık maliyet tespitinde dikkate alınacaktır. Idarece fiyat araştırması yapılarak raporlama birim maliyeti belirlenecek ve belirlenecek birim maliyet üzerinden çekimlerin bir kısmının hastanenin personeli tarafından bir kısmının ise firma personeli tarafından raporlanabileceği hususları da dikkate alınarak toplam raporlama maliyeti tespit edilecektir. Idarece tespit edilecek raporlama birim maliyeti, Sağlık Uygulama Tebliği'nde (SUT) yer alan konsültasyon ışlem bedelini aşmayacaktır.
 
-8. Sözleşme giderleri ve genel giderler; Ihaleye katılan istekliler ile sözleşme imzalayan yüklenicilerin ihaleye katılım ve sözleşme imzalayabilmesi için çeşitli giderler (Geçici teminat ve kesin teminat maliyeti, ihale ve sözleşmeye ilişkin danga
+8. **Sözleşme giderleri ve genel giderler;** Ihaleye katılan istekliler ile sözleşme imzalayan yüklenicilerin ihaleye katılım ve sözleşme imzalayabilmesi için çeşitli giderler (Geçici teminat ve kesin teminat maliyeti, ihale ve sözleşmeye ilişkin danga
 
 Say1 :B.10.0.SGB.0.84.00.01/10-06-11143 19/10/2011 Konu:Tibbi Cihaz Hizmet ve Tibbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti
 
@@ -161,7 +161,7 @@ gerçektir. Bu çerçevede kar hariç belirlenecek olan toplam tutarın %3'u ora
 
 sözleşme giderleri ve genel giderler yaklaşık maliyet tespitinde dikkate alınacaktır.
 
-9. Firma karı; Sözleşme ve genel giderler ile finansman maliyeti dähil edilmeden
+9. **Firma karı;** Sözleşme ve genel giderler ile finansman maliyeti dähil edilmeden
 
 bulunacak toplam tutarın %10"u geçmeyecek şekilde idarece firma kar oranı
 
@@ -191,12 +191,12 @@ Bakan a.
 
 Müsteşar
 
-DAĞITIM:
+**DAĞITIM:**
 
-Gereği:
+**Gereği:**
 81 İl Valiliği (İl Sağlık Müdürlüğü)
 
-Bilgi:
+**Bilgi:**
 Teftiş Kurulu Başkanlığına
 İç Denetim Birimi Başkanlığına
 Tedavi Hizmetleri Genel Müdürlüğüne
@@ -204,7 +204,7 @@ Tedavi Hizmetleri Genel Müdürlüğüne
 Kamu Hastaneleri Genel Müdürlüğünce ilgili sistem güncellenmiş olup yapılan yaklaşık maliyet hesaplamalarında güncellenmiş modül kullanılacaktır.
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Kamu Hastaneleri Genel Müdürlüğü
 
 Sayı : E-36385208-949-226519750

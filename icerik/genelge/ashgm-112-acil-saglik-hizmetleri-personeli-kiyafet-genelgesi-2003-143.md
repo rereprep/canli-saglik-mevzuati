@@ -22,7 +22,7 @@ SAYI : B100TSH01600000
 KONU: 112 Acil Sağlık Hizmetleri
 Personeli Kıyafet Genelgesi
 
-17.12.03. 19466
+**17.12.03. 19466**
 
 ………………………… VALİLİĞİNE
 (İl Sağlık Müdürlüğü)

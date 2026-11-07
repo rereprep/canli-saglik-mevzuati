@@ -19,7 +19,7 @@ SAĞLIK BAKANLIĞI
 Verem Savaşı Dairesi Başkanlığı
 
 Sayı : B.10.0.VSD.0.00.00.00.410/857  
-ANKARA  
+**ANKARA**  
 Konu : Doğrudan Gözetimli Tedavi uygulaması
 
 ....................VALİLİĞİNE  

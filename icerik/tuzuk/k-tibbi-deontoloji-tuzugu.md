@@ -16,7 +16,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-Tıbbi Deontoloji Nizamnamesi
+**Tıbbi Deontoloji Nizamnamesi**
 
 **Madde 1 –** Tabip ve diş tabiplerinin, deontoloji bakımından riayetle mükellef oldukları kaide ve esaslar bu Nizamnamede gösterilmiştir.
 

@@ -18,8 +18,8 @@ kontrol_edildi: true
 ## AİLE SAĞLIĞI MERKEZLERİNDE ASPİRATÖR CİHAZININ BULUNDURULMASI HAKKINDA
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Türkiye Halk Sağlığı Kurumu Başkanlığı  
+**SAĞLIK BAKANLIĞI**  
+**Türkiye Halk Sağlığı Kurumu** Başkanlığı  
 
 **Sayı :** 99858683/045  
 **Konu :** Aspiratör Cihazı Hk.  

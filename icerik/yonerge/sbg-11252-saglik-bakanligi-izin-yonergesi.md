@@ -15,7 +15,7 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 İZİN YÖNERGESİ
 1995
 
@@ -23,9 +23,9 @@ T.C.
 SAĞLIK BAKANLIĞI
 Personel Genel Müdürlüğü
 
-SAYI: B.100.PER-01-300-21/00100 — 09/01/1995
+**SAYI:** B.100.PER-01-300-21/00100 — 09/01/1995
 
-KONU: İzin Yönergesi
+**KONU:** İzin Yönergesi
 
 BAKANLIK MAKAMINA
 
@@ -188,13 +188,13 @@ Veya yetki devrettiği kurum amirlerince verilecektir.
 
 **Madde 22 –** 657 sayılı Devlet Memurları Kanunu’nun 102, 103 ve 104 ncü maddelerine istinaden kullanılacak yıllık ve mazeret izinlerinin verilmesi işlemlerinde;
 
-A) Merkez Teşkilatında:
+**A) Merkez Teşkilatında:**
 
 Birim amirleri ile birimlerde görevli tüm personele ait bu izinlerin verilmesine ilişkin müsaade onayları görev yaptıkları birimlerce alınacaktır.
 
 Birim amirleri ve yardımcılarının kullandıkları izinlerle ilgili ayrılış ve başlayış tarihleri Personel Genel Müdürlüğü’ne bildirilecek, diğer personelin ise görev yaptıkları birimde kendilerine ait ‘’Kişisel İzin Fişlerinde‘’ (Ek-2) kayıt ve takibi yapılacaktır.
 
-B) Taşra Teşkilatında :
+**B) Taşra Teşkilatında :**
 
 Atama ve yükselmeleri ile her türlü özlük hakları Bakanlığımızca ifa edilen Sağlık ve Yardımcı Sağlık Personeli dâhil, 5442 sayılı İl İdaresi Kanunu’na tabi olarak illerde görev yapan tüm personelin anılan izinlerle ilgili ayrılış ve başlayış tarihlerine ilişkin bilgiler Bakanlığa gönderilmeyerek İl Sağlık Müdürlüklerindeki ‘’Kişisel İzin Fişlerinde‘’ kayıt ve takibi yapılacaktır.
 
@@ -212,7 +212,7 @@ a) Birim amirleri dahil üst yönetimin izinleri yıllık izinleri vermeye yetki
 
 b) Birimlerde görevli tüm personelin izinleri birim amirlerince,
 
-B) Taşra teşkilatında;
+**B) Taşra teşkilatında;**
 
 Valiler tarafından verilecektir.
 
@@ -230,7 +230,7 @@ Valiler tarafından verilecektir.
 
 **Madde 27 –** Bu Yönerge kapsamında görev yapan personele 657 sayılı Kanun’un 104 ncü Maddesine göre aşağıda belirtilen hususlar dahilinde mazeret izni verilir.
 
-A) Amirin takdirine bağlı olmaksızın verilmesi gereken mazeret izinleri:
+**A) Amirin takdirine bağlı olmaksızın verilmesi gereken mazeret izinleri:**
 
 1- Kadın memura doğum yapmasından önce doktor raporu üzerine üç hafta (21 gün), doğum yaptığı tarihten itibaren ise altı hafta (42 gün) müddetle izin verilir. Bu süreden sonra da bu sürenin bitimiyle başlayacak altı aylık süre esas alınmak kaydıyla günde bir buçuk saat süt izni verilir.
 
@@ -240,7 +240,7 @@ Doğum sonu verilecek altı haftalık izinlerin başlangıcı olarak doğum tari
 
 3- Yine memurun isteği üzerine, kendisinin veya çocuğunun evlenmesi, annesinin, babasının, eşinin, çocuğunun veya kardeşinin ölümü halinde 5 gün izin verilir.
 
-B) Amirin takdiri ile verilen mazeret izinleri:
+**B) Amirin takdiri ile verilen mazeret izinleri:**
 
 1- Yukarıda belirtilen hallerden başka bir yıl içinde toptan veya parça parça olarak mazeretleri sebebiyle memura 10 gün izin verilebilir.
 
@@ -282,11 +282,11 @@ Aynı hastalık sebebiyle bir yıl veya daha fazla bir süre arayla veya ayrı, 
 
 Memurların hastalık raporları, Devlet memurları Tedavi Yardımı ve Cenaze Giderleri Yönetmeliği uyarınca kendilerini tedavi eden hekim veya Resmi Sağlık Kurullarınca düzenlenir.
 
-I- Sağlık Kurulu Raporlarına Göre Verilecek Hastalık İzinleri:
+**I- Sağlık Kurulu Raporlarına Göre Verilecek Hastalık İzinleri:**
 
 Memurlara hastalıkları halinde resmi sağlık kurullarınca verilecek raporlarda 657 sayılı Kanun’un 105 nci maddesindeki süreler dikkate alınarak lüzum gördükleri süre kadar hastalık izni verilmesine lüzum gösterebilirler.
 
-II- Tek Hekim Raporlarına Göre Verilecek Hastalık İzinleri:
+**II- Tek Hekim Raporlarına Göre Verilecek Hastalık İzinleri:**
 
 Memurların Hastalık Raporlarını Verecek Hekim ve Resmi Sağlık Kurulları hakkında Yönetmelik uyarınca tek hekimler kısım kısım veya bütün olarak en çok 20 güne kadar haslık izni verilmesine lüzum gösterilebilir.
 
@@ -302,13 +302,13 @@ b) Ulaşım şartlarının elverişsizliğinin mahalli mülki amirlikten alınan
 
 c) Kurumun veya İl Sağlık Müdürlüğünün belirleyeceği Sağlık Kurulu’nca onaylanması gerekmektedir.
 
-III- Sağlık Memuru, Hemşire ve Ebelerden Alınan Raporlara İstinaden Verilecek Hastalık İzinleri :
+**III- Sağlık Memuru, Hemşire ve Ebelerden Alınan Raporlara İstinaden** Verilecek Hastalık İzinleri :
 
 Resmi ve Özel Hekim bulunmaması ve hastanın tıbbi sebepler veya ulaşım şartlarının elverişsizliği yüzünden hekim veya sağlık kurulu olan bir yere gönderilmemesi halinde, sağlık memuru, hemşire ve ebeler memurun hasta olduğunu ve bir hekim tarafından muayene edilmesinde zaruret bulunduğunu gösteren hastalık belgesi düzenleyerek 7 güne kadar hastalık izni verilmesine lüzum gösterebilirler.
 
 Bu gerekçe ile düzenlenen hastalık belgelerinin geçerli olabilmesi için İl Sağlık Müdürlüğünce veya belirleyeceği bir Hekim tarafından onaylanması zorunludur.
 
-IV- Yurt Dışında Alınan Raporlara İstinaden Verilecek Hastalık İzinleri:
+**IV- Yurt Dışında Alınan Raporlara İstinaden Verilecek Hastalık İzinleri:**
 
 Yurt dışında görevli memurlar ile, geçici görev veya bilgi ve görgüsünü artırmak, staj yapmak gibi sebeplerle yurt dışına gönderilen memurlar ve yıllık izinlerini yurt dışında kullanırken hastalanan memurların hastalık raporları Büyükelçi veya elçi tarafından tespit edilerek Dış İşleri Bakanlığına bildirilmiş olan hekim ve hastanelerce mahalli mevzuata göre düzenlenir.
 
@@ -316,7 +316,7 @@ Yukarıda belirtilen nedenlerle yurt dışında bulunan personelin almış oldu�
 
 Raporların yalnızca Türkçe tercümelerinin yabancı dildeki asıllarına uygun olduğunun misyon şefince onaylattırılması, raporun o ülke mevzuatına uygun olduğu anlamına gelmeyeceğinden bu hususa titizlikle riayet edilecektir.
 
-V- Acil Vakalarda Alınan Raporlara İstinaden Verilecek Hastalık İzinleri:
+**V- Acil Vakalarda Alınan Raporlara İstinaden Verilecek Hastalık İzinleri:**
 
 Acil Vakalarda düzenlenen hastalık raporları uyarınca hastalık izni verilebilmesi için raporda Vakanın acil olduğunun belirtilmiş olması şarttır. Aksi takdirde hasta memur, hastalık izni kullanıyor sayılmakla beraber en kısa zamanda Devlet Memurları Tedavi Yardım ve Cenaze Giderleri Yönetmeliğinin ilgili maddelerine göre muayeneye sevk edilerek hakkında bu muayene sonucuna göre işlem yapılır.
 
@@ -362,11 +362,11 @@ Yıllık izinlerini kullanırken hastalanan memurlar hastalık izinlerini bulund
 
 **Madde 36 –** Bu izinlerin verilmesi ile ilgili işlemlerde;
 
-A) Merkez Teşkilatında:
+**A) Merkez Teşkilatında:**
 
 Birimlerce hastalık iznini çevrilen hastalık raporları 657 sayılı Devlet Memurları Kanunu’nun 105 nci maddesi gereği takibi yapılmak üzere Personel Genel Müdürlüğü’ne gönderilecektir.
 
-B) Taşra teşkilatında:
+**B) Taşra teşkilatında:**
 
 Hekimler hariç olmak üzere, atama ve yükselmeleri ile her türlü özlük hakları Bakanlığımızca ifa edilen sağlık personeli dahil, 5442 sayılı İller İdaresi Kanunu’na tabi olarak illerde görev yapan tüm personelin hastalık raporları hastalık iznine dönüştürüldükten sonra İl Sağlık Müdürlüklerindeki ‘’Kişisel İzin ve Rapor Fişlerine‘’ işlenip kişisel özlük dosyalarında muhafaza edilecektir.
 
@@ -388,7 +388,7 @@ Devlet Memurunun bakmaya mecbur olduğu veya memur refakat etmediği takdirde ha
 
 Söz konusu hallerin devam etmesi sebebiyle aylıksız izin süresinin uzatılması veya yeniden 1 defaya mahsus aynı şartlarla 1 katı kadar uzatılabilir.
 
-b) Doğum Sonrası Aylıksız İzinler:
+**b) Doğum Sonrası Aylıksız İzinler:**
 
 Doğum yapan Devlet memurlarına en çok altı aya kadar aylıksız izin verilebilir. Bu sürenin tamamı bir defada verilebileceği gibi istek üzerine bir aydan az olmamak kaydıyla daha az bir süre ile de verilebilir.
 
@@ -408,7 +408,7 @@ Bu hükme göre;
 
 3- Eş durumu nedeniyle aylıksız izin kullanacak olanlar, bu haklarını bölüm bölüm kullanabilirler.
 
-d) Askerlik için verilecek aylıksız izinler:
+**d) Askerlik için verilecek aylıksız izinler:**
 
 Muvazzaf askerliğe ayrılan memurlar askerlik süresince görev yeri saklı kalarak aylıksız izinli sayılırlar.
 
@@ -466,7 +466,7 @@ b) Dış burslara dayanılarak gönderilenlere,
 
 İki yıla kadar ayrılma müsaadesi verilebilir. Gerekirse bu süre en çok bir kat uzatılabilir.
 
-Bu Hükmün Uygulanmasında;
+**Bu Hükmün Uygulanmasında;**
 
 1- Memurun yurt dışında çalışma yapacağı kuruluştan gerekli kabul belgesini (Akseptans) sağlaması,
 

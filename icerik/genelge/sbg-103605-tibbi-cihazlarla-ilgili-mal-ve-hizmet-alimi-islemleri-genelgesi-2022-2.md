@@ -15,16 +15,16 @@ kontrol_edildi: true
 2.3.30. Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri Genelgesi (2022/2)
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 83913885
 Konu : Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri
 
 22/03/2022
 
-GENELGE
-2022/2
+**GENELGE**
+**2022/2**
 
 Bakanlığımıza bağlı sağlık tesisleri, üniversite hastaneleri ve özel sağlık kuruluşlarında tıbbi cihazların planlanması, temini, kullanımı, hizmet alımları ve envanter yönetiminde kaynakların etkin, verimli ve kamu yararına uygun kullanılması amacıyla aşağıdaki usul ve esaslar belirlenmiştir:
 
@@ -168,7 +168,7 @@ Söz konusu hizmet alımı ihalelerinde; hizmet alımı süresince tüm güncel 
 
 3.4.11.Hizmet saun alımı, 4734 sayıh Kamu Ihale Kanunu hükümleri çerçevesinde yapılacaktır.
 
-3.4.12. Tıbbi cihaz hizmet alımında yükleniciye, SUT'da belirlenen fiyatları geçmemek üzere cihazın özelligine göre çekim, tetkik, tahlil veya test gibi her işlem başına (ihalede oluşan) bir bedelin ödenmesi ve ihale dokümanlarına ödemelerin bu yönde yapılacağına dair hükümlerin konulması gerekmektedir.
+3.4.12. Tıbbi cihaz hizmet alımında yükleniciye, SUT'da belirlenen fiyatları geçmemek üzere cihazın özelligine göre çekim, tetkik, tahlil veya test gibi her işlem başına <i>(ihalede oluşan)</i> bir bedelin ödenmesi ve ihale dokümanlarına ödemelerin bu yönde yapılacağına dair hükümlerin konulması gerekmektedir.
 
 3.4.13. Yaklaşık maliyetin tespitinde ve ihalede teklif edilen teklif bedellerinin degerlendirilmesinde; SUT'da belirlenen fiyatların ve bu fiyatlardan döner sermaye işletmelerimizin hazine payı, SHÇEK payı ve merkez payı yatırdıklarının da dikkate alınması gerekmektedir.
 
@@ -232,7 +232,7 @@ SE
 
 4.9. Kit karşılığı cihaz kullanma alımı yapılabilmesi için cihazların yerleştirileceği kuruluşlarda sorumlu olarak Biyokimya veya Mikrobiyoloji Uzmanı, Biyokimya veya Mikrobiyoloji doktorası yapan personel belirlenecek, ilgili personelin olmadığı kuruluşlarda Il Sağlık Müdürlüğünce, yukanda belirtilen personelden bulunan sağlık kuruluşlarından sorumlu personel görevlendirilecektir. Sarf karşılığı cihaz kullanımı için ilgili uzman doktor kurumda yok
 
-Sağhık Hizmetleri Genel Müdürlüğü 5. TIBBİ CİHAZ DAİMİ ÖZEL İHTİSAS KOMİSYONU (TCDÖİK) İZNİ:
+**Sağhık Hizmetleri Genel Müdürlüğü** 5. TIBBİ CİHAZ DAİMİ ÖZEL İHTİSAS KOMİSYONU (TCDÖİK) İZNİ:
 
 5.1. Sağlık tesislerinde kullanılacak tıbbi cihazlann satın almasına ilişkin esasları belirlemek ve bu hususta yatırım iznini kararlaştırmak amacıyla, Başbakanlık Makamının 05.10.1993 tarih ve 5107 sayıli onayı ile "Tıbbi Cihaz Daimi Özel İhtisas Komisyonu" (TCDÖIK) Bakanlığımız koordinatörlüğünde yürütülmektedir. Bu kapsamda, Sağlık Bakanlığı, Yükseköğretim Kurulu (YÖK) Başkanlığı ve Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı temsilcilerinin katılımıyla birer aylık dönemler halinde toplanarak çalışmalarını sürdürecektir.
 

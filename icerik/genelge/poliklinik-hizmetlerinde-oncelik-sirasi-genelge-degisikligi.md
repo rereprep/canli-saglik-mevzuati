@@ -32,7 +32,7 @@ Bilindiği üzere, sağlık kurum ve kuruluşlarında özellikle poliklinik hizm
 
 Türkiye Cumhuriyeti Anayasası'nın "Kanun önünde eşitlik" başlıklı 10 uncu maddesinde; "Herkes, dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin kanun önünde eşittir.
 
-Kadınlar ve erkekler eşit haklara sahiptir. Devlet, bu eşitliğin yaşama geçmesini sağlamakla yükümlüdür. Bu maksatla alınacak tedbirler eşitlik ilkesine aykırı olarak yorumlanamaz.
+<i>Kadınlar</i> ve erkekler eşit haklara sahiptir. Devlet, bu eşitliğin yaşama geçmesini sağlamakla yükümlüdür. Bu maksatla alınacak tedbirler eşitlik ilkesine aykırı olarak yorumlanamaz.
 
 Çocuklar, yaşlılar, özürlüler, harp ve vazife şehitlerinin dul ve yetimleri ile malul ve gaziler için alınacak tedbirler eşitlik ilkesine aykırı sayılmaz..." hükmü gereği;
 

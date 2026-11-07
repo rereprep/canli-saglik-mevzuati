@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.5. Sağlık Teknolojileri Değerlendirme Yönergesi
+**2.2.5. Sağlık Teknolojileri Değerlendirme Yönergesi**
 
 ### Bakanlık Makamına sunuş yazısı (kitap s. 33)
 

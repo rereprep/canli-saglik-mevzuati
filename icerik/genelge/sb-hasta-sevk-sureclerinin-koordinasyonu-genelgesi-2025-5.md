@@ -52,7 +52,7 @@ Yukarıda belirtilen hususlar çerçevesinde gerekli tedbirlerin alınması, uyg
 Bilgilerini ve gereğini rica ederim.
 
 Prof. Dr. Kemal MEMİŞOĞLU  
-Bakan
+**Bakan**
 
 ### DAĞITIM:
 **Gereği:**  

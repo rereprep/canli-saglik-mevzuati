@@ -13,19 +13,19 @@ ocr: true
 duzeltildi: true
 ---
 
-YÖNETMELİK
+**YÖNETMELİK**
 
-Karar Sayısı: 1003
+**Karar Sayısı: 1003**
 
 Ekli “İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik”in yürürlüğe konulmasına, 1593 sayılı Umumi Hıfzıssıhha Kanunu, 2559 sayılı Polis Vazife ve Salahiyet Kanunu, 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, 4562 sayılı Organize Sanayi Bölgeleri Kanunu, 5216 sayılı Büyükşehir Belediyesi Kanunu, 5302 sayılı İl Özel İdaresi Kanunu ile 5393 sayılı Belediye Kanunu hükümleri gereğince karar verilmiştir.
 
 18 Nisan 2019
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI
 
-İŞYERİ AÇMA VE ÇALIŞMA RUHSATLARINA İLİŞKİN YÖNETMELİKTE
-DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞYERİ AÇMA VE ÇALIŞMA RUHSATLARINA İLİŞKİN YÖNETMELİKTE**
+**DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 14/7/2005 tarihli ve 2005/9207 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmeliğin 45 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 

@@ -15,7 +15,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.56. Doğum Öncesi Bakım, Doğum Sonu Bakım Yönetim Rehberleri Genelgesi (2014/9)
+**6.3.56. Doğum Öncesi Bakım, Doğum Sonu Bakım Yönetim** Rehberleri Genelgesi (2014/9)
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -26,12 +26,12 @@ Konu : Doğum Öncesi Bakım, Doğum Sonu Bakım Yönetim Rehberleri
 
 11.03.2014
 
-GENELGE
+**GENELGE**
 2014/9
 
 Gebelik süresince, doğum sırasında ve sonrasında sağlık hizmetlerinin erişilebilirliği, sağlık hizmetlerinden etkin faydalanma, bu hizmetlerin kalitesinin artırılması ve hizmet sunan sağlık kurumları arasında etkili sevk sisteminin bulunması anne ve yenidoğan ölümlerini önlemede önemlidir. Anne ölümlerinin önlenmesine yönelik ulusal planlarımızda; doğum öncesi, doğum sırası ve doğum sonrası bakım hizmetlerinin niteliğinin artırılması hedeflenmiştir.
 
-Doğum öncesi bakım, doğum sonrası bakım hizmetlerinde niteliğin artırılması, standartlar sağlanması amacı ile 2008/13 sayılı genelge ile uygulamaya konulan Doğum Öncesi Bakım Yönetim Rehberi ve 2008/80 sayılı genelge ile uygulamaya konulan Doğum Sonu Bakım Yönetim Rehberinin ulusal ve uluslararası güncel literatür bilgileri ışığında Bilim Komisyonları tarafından gözden geçirilerek ikinci revizyonları gerçekleştirilmiştir.
+<i>Doğum</i> öncesi bakım, doğum sonrası bakım hizmetlerinde niteliğin artırılması, standartlar sağlanması amacı ile 2008/13 sayılı genelge ile uygulamaya konulan Doğum Öncesi Bakım Yönetim Rehberi ve 2008/80 sayılı genelge ile uygulamaya konulan Doğum Sonu Bakım Yönetim Rehberinin ulusal ve uluslararası güncel literatür bilgileri ışığında Bilim Komisyonları tarafından gözden geçirilerek ikinci revizyonları gerçekleştirilmiştir.
 
 Anne ve bebek sağlığını korumak ve anne ölümlerini en aza indirmek için Doğum Öncesi Bakım Yönetim Rehberine göre izlenen her gebenin doğumunun hastanede gerçekleştirilmesi, doğum sonrası komplikasyon gelişmeyen vakalar için normal doğumdan sonra en az 24 saat, sezaryen ile doğumdan sonra ise en az 48 saat lohusa ve yeni doğanın hastanede izlenmesi sağlanmalıdır. Lohusanın izlemi doğum sonu ilk 24-48 saatte hastanede, taburcu olduktan sonra doğum sonu 42. güne kadar sağlık kuruluşunda veya evde gerçekleştirilmelidir.
 

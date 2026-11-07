@@ -70,8 +70,8 @@ Kamu Hastaneleri Birliklerine
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-TÜRKİYE KAMU HASTANELERİ KURUMU
+**SAĞLIK BAKANLIĞI**
+**TÜRKİYE KAMU HASTANELERİ KURUMU**
 HİZMET İÇİ EĞİTİM BAŞVURU FORMU
 
 | Kişi Tarafından Doldurulacaktır | |

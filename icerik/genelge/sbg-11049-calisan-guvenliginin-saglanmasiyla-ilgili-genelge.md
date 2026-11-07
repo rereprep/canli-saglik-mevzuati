@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 ### T.C. SAĞLIK BAKANLIĞI – Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı: B.10.0.SHG.0.21.00.00/951.99/6665  
+**Sayı**: B.10.0.SHG.0.21.00.00/951.99/6665  
 Konu: Çalışan güvenliğinin sağlanması  
 Tarih: 14/05/2012
 
@@ -58,7 +58,7 @@ b) Görevli müdahale ekiplerinin olay yerine en kısa zamanda ulaşması sağla
 
 c) Gerçekleşen olayların analizi yapılarak, ilgili sağlık kurumuna özgü tedbirler artırılacaktır.
 
-2) Çalışan Hakları ve Güvenliği Birimi;
+2) **Çalışan Hakları ve Güvenliği Birimi;**
 
 Hastane ile ağız ve diş sağlığı merkezlerinde bir başhekim yardımcısının doğrudan takip edeceği "Çalışan Hakları ve Güvenliği Birimleri" kurulacaktır. Bağlı birimlerdeki çalışan hakları ve güvenliğine ilişkin iş ve işlemlerini yürütmek üzere halk sağlığı müdürlükleri ile il sağlık müdürlüklerinde de bir müdür yardımcısının doğrudan takibinde aynı birimler kurulacaktır.
 
@@ -108,7 +108,7 @@ b) Bildirim üzerine yetkili yönetici, olayı derhal değerlendirerek hizmetten
 
 c) Yetkili yönetici, hizmetten çekilme talebini uygun bulduğu takdirde hastanın sağlık hizmeti almasına ve tedavisinin devamına yönelik tedbirleri güvenlik tedbirleriyle birlikte alacaktır. Bu kapsamda ilgili hastanın sağlık hizmetini devam ettirecek yeni sağlık çalışanını belirleyecek, kurum içerisinde bunun mümkün olmaması halinde hastanın hizmet alabileceği başka bir sağlık kurumuna sevkini ve hizmet alımını sağlayacaktır. Bu süreç sırasında hastanın tedavisinin aksatılmamasına itina edilecektir.
 
-7) Bildirim süreci ve hukuki yardım;
+7) **Bildirim süreci ve hukuki yardım;**
 
 Sağlık çalışanlarına yönelik şiddet olaylarını takip etmek üzere "Bakanlık Beyaz Kod Birimi" kurulmuş, 24 saat hizmet verecek "113" numaralı telefon ve "www.beyazkod.saglik.gov.tr" internet sayfası oluşturulmuştur.
 
@@ -132,8 +132,8 @@ c) SABİM'e yapılan sağlık çalışanları hakkındaki şikayetler, başvurul
 
 Genelgenin İlinizde bulunan tüm kamu, üniversite ve özel sağlık kurum ve kuruluşlarına duyurulması ve uygulanmasının teminini, ayrıca Bakanlığımızca çalışan güvenliğine ilişkin olarak yapılacak yeni düzenlemelerin titizlikle takibini önemle rica ederim.
 
-Prof. Dr. Recep AKDAĞ  
-Bakan
+**Prof. Dr. Recep AKDAĞ**  
+**Bakan**
 
 ### DAĞITIM:
 

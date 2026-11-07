@@ -37,35 +37,35 @@ Karar Sayısı : KHK/444 383 sayılı Başbakanlık Özel Çevre Koruma Kurumu B
 
 **Madde 10 –** Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.
 
-Turgut ÖZAL Cumhurbaşkanı A. Mesut YILMAZ Başbakan
+**Turgut ÖZAL** Cumhurbaşkanı A. Mesut YILMAZ Başbakan
 
-E. PAKDEMİRI.1 F. KURT M R. TAŞAR 1. AYKUT Devlet Bakanı ve Başb. Yrd. Devlet Bakanı Devlet Bakanı Devlet Bakanı
+**E. PAKDEMİRI**.1 F. KURT M R. TAŞAR 1. AYKUT Devlet Bakanı ve Başb. Yrd. Devlet Bakanı Devlet Bakanı Devlet Bakanı
 
-M. V. DİNÇERI.ER K. İNAN İ. AKÜZÜM C. TUNCER Devlet Bakam Devlet Bakanı Devlet Bakam Devlet Bakam
+**M. V. DİNÇERI.ER K. İNAN İ. AKÜZÜM C. TUNCER** Devlet Bakam Devlet Bakanı Devlet Bakam Devlet Bakam
 
-S. ARAS E. KOÇAK M. ÇEVİK E. C. GÜLPINAR Devlet Bakanı Devlet Bakanı Devlet Bakam Devlet Bakanı
+**S. ARAS E. KOÇAK M. ÇEVİK E. C. GÜLPINAR** Devlet Bakanı Devlet Bakanı Devlet Bakam Devlet Bakanı
 
-B. SÖNMEZ A. T. ÖZDEMIR Ş. ŞEKER H B. DOĞU Devlet Bakanı Devlet Bakanı Adalet Bakanı Milli Savunma Bakam M. KALEMLİ 1. S. GtRAY A. KAHVECİ A AKYOL ' İçişleri Bakanı Dışişleri Bakanı Maliye ve Gümnik Bakanı Milli Eğitim Bakanı 11. ÖRÜÇ Y. ERYlLMAZ İ. ÖZDEMİR Bayındırlık ve İskan Bakanı Sağlık Bakanı Ulaştırma Bakanı
+**B. SÖNMEZ A. T. ÖZDEMIR Ş. ŞEKER H B. DOĞU** Devlet Bakanı Devlet Bakanı Adalet Bakanı Milli Savunma Bakam M. KALEMLİ 1. S. GtRAY A. KAHVECİ A AKYOL ' İçişleri Bakanı Dışişleri Bakanı Maliye ve Gümnik Bakanı Milli Eğitim Bakanı 11. ÖRÜÇ Y. ERYlLMAZ İ. ÖZDEMİR Bayındırlık ve İskan Bakanı Sağlık Bakanı Ulaştırma Bakanı
 
-1. TUNCAY M.EMİROĞLU R. K. YÜCELEN Tarım Orman ve KöyişTeri Bakanı Çalışma ve Sosyal Güvenlik Bakanı Sanayi ve Ticaret Bakanı
+1. **TUNCAY M.EMİROĞLU R. K. YÜCELEN** Tarım Orman ve KöyişTeri Bakanı Çalışma ve Sosyal Güvenlik Bakanı Sanayi ve Ticaret Bakanı
 
-M. ARICI G. MARAŞ B. AKARCALI Enerji ve Tabii Kaynaklar Bakanı Kııltur Bakanı Tunzm Bakanı Yürütme ve İdare Bölümü Sayfa : 19 Bakanlar Kurulu Kararı Karar Sayısı : 91/2039 İtalya Hükümetinin talebi üzerine, 29 Aralık 1936 tarihinde Roma'da imzalanan Türkiye Cumhuriyeti ile İtalya Krallığı Arasında Ticaret ve Seyrisefain Anlaşması'nın 1, 2, 3, 4 ve 5 inci maddelerinin yürürlükten kaldırılması ve mezkur Anlaşmaya ek protokol ile 24 Ocak 1952 tarihinde Ankara'da imzalanan Türkiye ile İtalya arasında Ticaret ve Ödeme anlaşmalarının sona erdirilmesi; 31/5/1963 tarihli ve 244 sayılı Kanunun 3 üncü maddesine göre, Bakanlar Kurulu'nca 7/8/1991 tarihinde kararlaştırılmıştır.
+**M. ARICI G. MARAŞ B. AKARCALI** Enerji ve Tabii Kaynaklar Bakanı Kııltur Bakanı Tunzm Bakanı Yürütme ve İdare Bölümü Sayfa : 19 Bakanlar Kurulu Kararı Karar Sayısı : 91/2039 İtalya Hükümetinin talebi üzerine, 29 Aralık 1936 tarihinde Roma'da imzalanan Türkiye Cumhuriyeti ile İtalya Krallığı Arasında Ticaret ve Seyrisefain Anlaşması'nın 1, 2, 3, 4 ve 5 inci maddelerinin yürürlükten kaldırılması ve mezkur Anlaşmaya ek protokol ile 24 Ocak 1952 tarihinde Ankara'da imzalanan Türkiye ile İtalya arasında Ticaret ve Ödeme anlaşmalarının sona erdirilmesi; 31/5/1963 tarihli ve 244 sayılı Kanunun 3 üncü maddesine göre, Bakanlar Kurulu'nca 7/8/1991 tarihinde kararlaştırılmıştır.
 
-Turgut OZAL Cumhurbaşkanı A. Mesut YILMAZ Başbakan
+**Turgut OZAL** Cumhurbaşkanı A. Mesut YILMAZ Başbakan
 
-E. PAKDEMİRLİ F. KURT M. R. TAŞAR I AYKUT Devlet Bakanı ve Başb. Yrd. Devlet Bakanı Devlet Bakam Devlet Bakanı M. V. DlNÇERLER K. İNAN İ. AKUZÜM C. TUNCER Devlet Bakanı Devlet Bakanı Devlet Bakanı Devlet Bakanı
+**E. PAKDEMİRLİ F. KURT M. R. TAŞAR I AYKUT** Devlet Bakanı ve Başb. Yrd. Devlet Bakanı Devlet Bakam Devlet Bakanı M. V. DlNÇERLER K. İNAN İ. AKUZÜM C. TUNCER Devlet Bakanı Devlet Bakanı Devlet Bakanı Devlet Bakanı
 
-S. ARAS E KOÇAK M ÇEVİK E. C. GÜLPINAR Devlet Bakanı Devlet Bakanı Devlet Bakam Devlet Bakanı
+**S. ARAS E KOÇAK M ÇEVİK E. C. GÜLPINAR** Devlet Bakanı Devlet Bakanı Devlet Bakam Devlet Bakanı
 
-B SÖNMEZ A. T. ÖZDEMIR Ş. ŞEKER H. B. DOĞU Devlet Bakanı Devlet Bakanı Adalet Bakanı Milli Savunma Bakanı
+**B SÖNMEZ A. T. ÖZDEMIR Ş. ŞEKER H. B. DOĞU** Devlet Bakanı Devlet Bakanı Adalet Bakanı Milli Savunma Bakanı
 
-M. KALEMLİ 1 S. GİRAY A. KAHVECİ A. AKYOL İçişleri Bakanı Dışişleri Bakanı Maliye ve Gümrük Bakanı Milli Eğitim Bakanı
+**M. KALEMLİ** 1 S. GİRAY A. KAHVECİ A. AKYOL İçişleri Bakanı Dışişleri Bakanı Maliye ve Gümrük Bakanı Milli Eğitim Bakanı
 
-II. ORUÇ Y. ERYILMAZ İ. ÖZDEMİR Bayındırlık ve Iskan Bakanı Sağlık Bakanı Ulaştırma Bakanı
+**II. ORUÇ** Y. ERYILMAZ İ. ÖZDEMİR Bayındırlık ve Iskan Bakanı Sağlık Bakanı Ulaştırma Bakanı
 
-1. TUNCAY M EMÎROĞLU R. K. YÜCELEN Tarım Orman ve Köyişleri Bakanı Çalışma ve Sosyal Güvenlik Bakanı Sanayi ve Ticaret Bakanı
+1. **TUNCAY M EMÎROĞLU R. K. YÜCELEN** Tarım Orman ve Köyişleri Bakanı Çalışma ve Sosyal Güvenlik Bakanı Sanayi ve Ticaret Bakanı
 
-M ARICI G. MARAŞ B, AKARCALI Enerji ve Tabii Kaynaklar Bakanı Kültür Bakanı Turizm Bakanı Yürütme ve İdare Bölümü Sayfa : 20 Atama Kararları Devlet Bakanı ve Başbakan Yardımcılığından :
+**M ARICI G. MARAŞ B, AKARCALI** Enerji ve Tabii Kaynaklar Bakanı Kültür Bakanı Turizm Bakanı Yürütme ve İdare Bölümü Sayfa : 20 Atama Kararları Devlet Bakanı ve Başbakan Yardımcılığından :
 
 Karar Sayısı : 91/38244 1 — 1 inci derece kadrolu ve + 2900 ek göstergeli Başbakanlık Hazine ve Dışticaret Müsteşarlığı, Müsteşar Yardımcılığına, Müsteşarlık Müşaviri Yaşar YAZICIOĞLU'nun;
 

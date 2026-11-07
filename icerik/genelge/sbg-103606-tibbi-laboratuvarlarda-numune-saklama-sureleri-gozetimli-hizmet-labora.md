@@ -18,7 +18,7 @@ kontrol_edildi: true
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 95966346-010-06 / 7234  
 21.02.2014  

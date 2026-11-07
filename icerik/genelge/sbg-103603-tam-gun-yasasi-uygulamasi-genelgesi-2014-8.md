@@ -13,7 +13,7 @@ tarih: "05.03.2014"
 kontrol_edildi: true
 ---
 
-2.3.25. Tam Gün Yasası Uygulaması Genelgesi (2014/8)
+**2.3.25. Tam Gün Yasası Uygulaması Genelgesi (2014/8)**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI

@@ -13,13 +13,13 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-Sağlık ve Sosyal Yardım Bakanlığından:
+**Sağlık ve** Sosyal Yardım Bakanlığından:
 
-İçme ve Kullanma Sularının Dezenfeksiyonuna ait Yönetmelik
+**İçme ve Kullanma Sularının Dezenfeksiyonuna ait** Yönetmelik
 
 1593 sayılı Umumî Hıfzıssıhha Kanunu gereğince Sağlık ve Sosyal Yardım Bakanlığı tarafından hazırlanmıştır.
 
-**I - KAPSAM :**
+**<i>I - KAPSAM :</i>**
 
 1 — İşbu Yönetmelik «Arıtma tesisleri» vasıtasıyla temin, isale ve tevzi olunan içme ve kullanma sularının dezenfeksiyonuna aittir.
 
@@ -70,11 +70,11 @@ Asgarî temas süresi (Dakika cinsinden)
 
 12 — Kolera, tifo ve diğer barsak enfeksiyonları epidemileri veya tehlikesi hallerinde ayrıca boru şebekesinin uç noktalarında dahi 0.05-0.10 ppm serbest 1.0-2.0 ppm bağlı bakiye bulundurulacak şekilde klorlama yapılacaktır.
 
-**III - KLORLAMA METODU :**
+**<i>III - KLORLAMA METODU :</i>**
 
 13 — Temas süresi ve bakiye klor limitlerinin tahkiki kayıt ve şartıyla, klor ve bileşikleriyle dezenfeksiyon, suyun kimyasal ve bakteriyolojik özellikleri, bunların tahavvülü, içme suyu tesislerinin vüsat ve mahiyeti dikkate alınarak en az koku ve tad verecek ve ekonomi ve işletme yönünden en elverişli olacak klorlama metoduyla yapılacaktır.
 
-**IV - KLORLAMANIN KONTROLÜ :**
+**<i>IV - KLORLAMANIN KONTROLÜ :</i>**
 
 14 — Derpiş olunan temas süreleri sonunda uygun klor bakiyelerinin elde edilip edilmediği hususu ekte verilen standart metotlarla, sürekli olarak kontrol edilecek ve klor dozu bu ölçme neticelerine göre ayarlanacaktır. Bakiye tespiti asgarî günde bir defa olmak üzere işletme şartlarının her değişiminde yapılacaktır.
 
@@ -88,7 +88,7 @@ Ayrıca dezenfekte olunan su ve ameliye için kullanılan klor veya klorlu bile�
 
 17 — Dezenfeksiyon işletmeleri mahallî sağlık teşkilâtı tarafından senede asgarî 2 defa kontrol edilecektir. Teftiş neticesi tanzim olunacak rapor gereği için belediye başkanlığına verilecek, bir surette Sağlık ve Sosyal Yardım Bakanlığına gönderilecektir.
 
-**V - KLORLAMA EKİPMANI :**
+**<i>V - KLORLAMA EKİPMANI :</i>**
 
 18 — Klor ve bileşikleriyle dezenfeksiyonda kullanılacak cihazlar, su tesislerinin hususiyetlerine, mahallî imkân ve şartlara ve aşağıda verilen kriterlere uygun olarak seçilecektir.
 
@@ -128,7 +128,7 @@ Nüfusu 50.000 nin altında olan şehir ve kasabalarda yedek ünite bulundurmak 
 
 33 — Gaz klorla dezenfeksiyon halinde klor kaçakları olup olmadığının tespiti için mahallerinde amonyak eriyiği bulundurulacaktır.
 
-VI — KLORLAMA EKİPMANININ YERLEŞTİRİLMESİ:
+<i>VI — KLORLAMA EKİPMANININ YERLEŞTİRİLMESİ:</i>
 
 34 — Klor kaplarının depolandığı ve klor cihazlarının bulunduğu mahaller tercihan zemin seviyesinin üstünde ve yangına mukavim malzemeden inşa edilmiş olacak ve iyi bir şekilde havalandırılabilecek tertibatı ihtiva edecektir. Uygun bir havalandırma tesisatı tavan seviyesinden temiz havayı alacak ve döşeme seviyesinden tahliye yapacaktır.
 
@@ -201,7 +201,7 @@ c) Hasta kendinde değil ve nefes alma zahiren durmuş ise suni teneffüse baş 
 
 d) Hasta kendini kaybetmemişse sıcak meşrubat verilmesi faydalıdır. Boğaz ve burun tahrişatına karşı da, aşağıda verilen formüle göre hazırlatılmış antiklor, hasta ferahlayıncaya kadar her 15 dakikada bir çorba kaşığı dozunda verilecektir.
 
-Dünya Sağlık Teşkilâtı tarafından tavsiye olunan antiklor formülü
+<i>Dünya Sağlık Teşkilâtı tarafından tavsiye olunan antiklor formülü</i>
 
 Antiklor (2 litre)
 
@@ -239,7 +239,7 @@ Geçici madde 1 — Belediyesi olan ve nüfusu son sayımına göre 3.000 nin ü
 
 ### a) Klor bakiyesi ölçümü için standart metotlar
 
-Ortotolidinle yapılan kolorimetrik ölçmeler:
+<i>Ortotolidinle yapılan kolorimetrik ölçmeler:</i>
 
 Ortotolidin kullanılarak yapılan 3 ölçme metodu aşağıda verilmiştir:
 
@@ -263,7 +263,7 @@ III — ORTOTOLİDİN «FLASH» METODU:
 
 Bu metot «serbest bakiye» klor tespiti için kalitatif ve çok kaba olarak kantitatif bir metoddur.
 
-Standart ortotolidin (OT) metodu: (*)
+<i>Standart ortotolidin (OT) metodu: (*)</i>
 
 Reaktifler
 
@@ -273,11 +273,11 @@ Ortotolidin
 
 Permanan klor standartları.
 
-1 — Asit bakır sülfat eriyiği:
+<i>1 — Asit bakır sülfat eriyiği:</i>
 
 1,5 bakır sülfat damıtık suda çözülür 1 ml. derişik asit sülfürik ilâve edilerek hacim 100 ml. ye iblâğ olunur.
 
-2 — Asit potasyum bikromat eriyiği:
+<i>2 — Asit potasyum bikromat eriyiği:</i>
 
 0.25 potasyum bikromat damıtık suda çözülür. 1 ml. derişik asit sülfürik ilâve edilerek 1000 ml. ye iblâğ olunur.
 
@@ -289,7 +289,7 @@ Hidroklorik asit ve damıtık su ile iyice yıkanmış bir Nessler tüpüne numu
 
 Renk kıyaslamasında kullanılacak renk standartları (Bakır sülfat ve potasyum bikromat) muayyen bir sıvı yüksekliği gösterdikleri takdirde doğru sonuç verirler. Aşağıdaki tablodaki miktarlar bu itibarla sıvı yüksekliğinin 300—6 mm. olması halinde caridir. Ancak, tecrübe B.S.S. 612 Nessler tüpü tip 1 kullanıldığında (Sıvı yüksekliği 134—6 mm) yapılan hatanın çok cüz’i olduğunu göstermiştir. Dolayısıyla bu tip tüplerin kullanılması tavsiye edilir.
 
-Bakiye klor tespiti için ortotolidin testinde permanan renk standartları
+<i>Bakiye klor tespiti için ortotolidin testinde permanan renk standartları</i>
 
 | Klor ppm | Bakır sülfat ml. | Potasyum dikromat ml. |
 |---:|---:|---:|
@@ -319,13 +319,13 @@ Bakiye klor tespiti için ortotolidin testinde permanan renk standartları
 
 ## ORTOTOLİDİN - ARSENİT (OTA) METODU (x)
 
-ALETLER:
+<i>ALETLER:</i>
 
 a - Renk karşılaştırma aleti (Komparatör)
 
 b - French square şişeleri
 
-REAKTİFLER:
+<i>REAKTİFLER:</i>
 
 α - Orto Tolidin Çözeltisi:
 
@@ -339,7 +339,7 @@ c - 0,5 molar ana (Stok) fosfat tampon çözeltisi:
 
 Susuz disodyum hidrojen fosfat (Na₂ HPO₄) 110° C de bir gece bekletilerek kurutulur ve desikatörde saklanır. 22,86 gr. disodyum dihidrojen fosfat ve 46,16 gr. susuz potasyum dihidrojen fosfat (K H₂ PO₄) bir litre damıtık suda çözülür. Birkaç gün bekletilir ve kullanılmadan evvel süzülür.
 
-d - 0,1 molar tampon fosfat standart çözeltisi:
+<i>d - 0,1 molar tampon fosfat standart çözeltisi:</i>
 
 (c) de bahsi geçen ana tampon çözeltisinden alınan 200 ml damıtık su ile bir litreye seyreltilir. Bu çözeltinin pH sı 6,45 dir.
 
@@ -351,7 +351,7 @@ f - Seyreltik kromat - bikromat çözeltisi:
 
 (e) de bahsedilen derişik kromat - bikromat çözeltisinden alınan 100 ml; 0,1 molar tampon fosfat çözeltisi ile bir litreye seyreltilerek elde edilir. Bu çözeltinin rengi 1mg/l klor standart çözeltisinin ortotolidinle verdiği renge eşittir.
 
-g - 0,1 - 1,0 mg/l lik klor standart çözeltileri:
+<i>g - 0,1 - 1,0 mg/l lik klor standart çözeltileri:</i>
 
 Aşağıda verilen hacimlerde alınan seyreltik kromat - bikromat çözeltisi 0,1 molar tampon fosfat çözeltisi ile 100 ml lik joje veya aynı çap ve uzunlukta olan tüplerde 100 ml ye seyreltilerek hazırlanır.
 
@@ -380,7 +380,7 @@ h) 1,0 - 10,0 mg/l lik klor standart çözeltileri:
 
 Aşağıda verilen hacimlerde alınan derişik kromat - bikromat çözeltisi 0,1 molar tampon fosfat çözeltisi ile 100 ml. lik balon jojeye veya aynı çap ve uzunlukta olan tüplerde 100 ml.ye seyreltilerek hazırlanır.
 
-(x) İçme suları TS. 266 standardından alınmıştır.
+<i>(x) İçme suları TS. 266 standardından alınmıştır.</i>
 
 | Klor Mg./l | Kromat - Bikromat Derişik çözeltisi Ml. |
 |---:|---:|
@@ -398,7 +398,7 @@ Aşağıda verilen hacimlerde alınan derişik kromat - bikromat çözeltisi 0,1
 
 (Bu standart çözeltilere 25 ilâ 30 cm. yükseklikten bakılmalıdır)
 
-Deneyin yapılışı:
+<i>Deneyin yapılışı:</i>
 
 Üç French Square Şişesine A, B ve OT işaretli etiketler yapıştırılır.
 
@@ -408,7 +408,7 @@ A şişesine belirli miktarda numune 0,5 ml, orto tol idin ve süratle 0,5 ml. a
 
 Bu deneyde A, B ve OT şişelerine konulan numune miktarları birbirlerine eşit olmalıdır.
 
-Hesaplama:
+<i>Hesaplama:</i>
 
 A, B ve OT değerleri aşağıdaki şekilde değerlendirilir:
 
@@ -418,7 +418,7 @@ A, B ve OT değerleri aşağıdaki şekilde değerlendirilir:
 | Serbest Klor (Free available chlorine) | A - B₁ |
 | Bileşik Klor (Combined available chlorine) | Toplam bakiye klor - Serbest klor |
 
-Ortotolidin «Flash» metodu: (*)
+<i>Ortotolidin «Flash» metodu: (*)</i>
 
 Reaktif
 
@@ -430,4 +430,4 @@ Bir Nessler tübüne 100 ml. su numunesi konur 1 ml. ortotolidin çözeltisi kat
 
 Not: Standart renk kıyaslama suları yerine muhtelif firmalarca imal edilmiş olan renk kıyaslama levhaları kullanılabilir. Bu halde cihazın özel kullanma usulüne uyulmalıdır.
 
-(*) «Approved methods for the physical and chemical examination of water» 1960 3 üncü baskıdan alınmıştır.
+<i>(*) «Approved methods for the physical and chemical examination</i> of water» 1960 3 üncü baskıdan alınmıştır.

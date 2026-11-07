@@ -15,7 +15,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.64. Üreme Sağlığı Hizmet İçi Eğitimler Hakkında Genelgesi (2010/83)
+**6.3.64. Üreme Sağlığı Hizmet İçi Eğitimler Hakkında Genelgesi** (2010/83)
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -29,7 +29,7 @@ Konu : Üreme Sağlığı Hizmet İçi Eğitimler Hk.
 VALİLİĞİNE
 
 GENELGE
-2010/83
+**2010/83**
 
 Bilindiği üzere anne ve bebekler sağlık hizmetleri açısından risk altında bulunan ve öncelik tanınması gereken iki önemli grubu oluşturmaktadır. Ana çocuk sağlığı hizmetlerinin temel izleme göstergeleri olan anne ölüm oranı ve bebek ölüm hızı, sağlanan olumlu gelişmelere rağmen gelişmiş ülkelerin düzeyine çekilememiştir.
 

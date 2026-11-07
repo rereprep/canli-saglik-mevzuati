@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No . 4208 Kabul Tarihi: 13.11.1996
+**Kanun No . 4208 Kabul Tarihi: 13.11.1996**
 
 ### BİRİNCİ KISIM
 
@@ -23,7 +23,7 @@ BİRİNCİ BÖLÜM Amaç, Kapsam ve Tanımlar Amaç ve Kapsam
 
 **MADDE 1 –** Bu Kanunun amacı, karapara aklanmasının önlenmesi konusunda uygulanacak esasları belirlemektir.
 
-Tanımlar
+**<i>Tanımlar</i>**
 
 **MADDE 2 –** Bu Kanunda geçen;
 
@@ -39,7 +39,7 @@ Görevlendirilecek Maliye Müfettişleri, Hesap Uzmanları, Bankalar Yeminli Mur
 
 Başkanlığın talebi üzerine görevlendirilecek Maliye Müfettişleri, Hesap Uzmanları, Bankalar Yeminli Murakipları, Gelirler Kontrolörleri, Hazine Kontrolörleri ve Sermaye Piyasası Kurulu Uzmanları görevlendirme konusuna giren hususlarda bilgi ve belge istemeye, araştırma ve inceleme yapmaya, uygulamayı takip ve denetlemeye, bu maksatla her turlu evrakın tetkikine yetkilidir.
 
-Malî Suçlarla Mücadele Koordinasyon Kurulunun Görev ve Yetkileri
+**<i>Malî Suçlarla Mücadele Koordinasyon Kurulunun Görev ve Yetkileri</i>**
 
 **MADDE 4 –** Koordinasyon Kurulu; Maliye Müsteşarının başkanlığında, Maliye Teftiş Kurulu, Maliye Hesap Uzmanları Kurulu, Malî Suçlan Araştırma Kurulu, Hazine Müsteşarlığı Bankalar Yeminli Murakipları Kurulu, Hazine Kontrolörleri Kurulu ve Sermaye Piyasası Kurulu Başkanları ile Gelirler Genel Müdürü, Banka ve Kambiyo Genel Müdürü, Adalet Bakanlığı Kanunlar Genel Müdürü, Dışişleri Bakanlığı Ortadoğu, Afrika ve Uluslararası Siyasi Kuruluşlar Genel Müdürü ve İçişleri Bakanlığı Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanından meydana gelir Koordinasyon Kuruluna gerektiğinde Başhukuk Müsavin ve Muhakemat Genel Müdürü, Gümrük Müsteşarlığı Teftiş Kurulu Başkam, İçişleri Bakanlığı Kaçakçılık İstihbarat Harekat ve Bilgi Toplama Dairesi Başkanı ile Başbakanlık, Sağlık Bakanlığı ve T C. Merkez Bankasından en az genel müdür düzeyinde birer temsilci üye sıfatıyla katılmak üzere davet olunur. Kurul, gerek duyduğunda diğer kamu kurum ve kuruluşlarından da temsilci çağırabilir.
 
@@ -47,7 +47,7 @@ Malî Suçlarla Mücadele Koordinasyon Kurulunun Görev ve Yetkileri
 
 Kurul ve diğer yetkililerce kendilerinden bilgi ve belge istenilen gerçek ve tüzel kişiler, savunma hakkına ilişkin hükümler saklı kalmak kaydıyla, özel kanunlarda yazılı hükümleri ileri sürerek bilgi ve belge vermekten ımtına edemezler.
 
-Sır Saklama Yükümlülüğü
+**<i>Sır Saklama Yükümlülüğü</i>**
 
 **MADDE 6 –** Aşağıda yazılı kimseler, görevlen dolayısıyla kişilerin ve bu kişilerle ilgili kimselerin şahıslarına, muamele ve hesap durumlarına, işlerine, işletmelerine, servetlerine veya mesleklerine ilişkin olarak öğrendikleri sırlan veya gizli kalması lazım gelen diğer hususları ifşa edemezler ve kendilerinin veya üçüncü şahısların yararına kullanamazlar.
 
@@ -65,19 +65,19 @@ Bu suçların tüzel kişilik bünyesinde işlenmesi halinde, üçüncü Akranı
 
 Karapara aklama suçunun, usul veya füruu veya karı-koca veya kardeşlerinden biri tarafından karaparanın kaynaklandığı suçlan gizlemek amacıyla işlenmesi halinde bu ceza, yansından üçte ikisine kadar indirilir.
 
-Zamanaşımı
+**<i>Zamanaşımı</i>**
 
 **MADDE 8 –** Karapara aklama suçlarının kovuşturulmasında zamanaşımı suresi on yıldır Dava açılması zamanaşımını keser.
 
-Tedbir Konulması
+**<i>Tedbir Konulması</i>**
 
 **MADDE 9 –** Karaparanın aklanmasına yönelik ciddî emarelerin varlığı halinde, bankalar ve banka dışı malî kurumlar ile diğer gerçek ve tüzel kişiler nezdindeki kiralık kasa mevcutları da dahil olmak üzere hak ve alacakların dondurulmasına, tasarruf yetkisinin tamamen veya kısmen kaldırılmasına, mal, kıymetli evrak, nakit ve diğer değerlerin zaptına, bunların bir tevdi mahalline yatırılmasına ve hak ve alacaklar üzerinde diğer tedbirlerin konulmasına hazırlık tahkikatı sırasında sulh ceza hâkimi; yargılama sırasında ise mahkeme tarafından karar verilebilir.
 
 Tedbire ilişkin talepler, evrak üzerinden yapılacak inceleme sonucu derhal ve nihayet 24 saat içerisinde sonuçlandırılır.
 
-Yasama BölümüS ayfa : 6 Gecikmesinde salanca görülen hallerde cumhuriyet savcıları da hak ve alacakların dondurulmasına karar verebilir. Cumhuriyet savcılığı bu karan en geç 24 saat içinde sulh ceza hâkimine bildirir. Hâkim en geç 24 saat içinde onaylanıp onaylanmamasına karar verir, onaylanmama halinde, cumhuriyet savcılığının kararı hükümsüz kalır.
+**Yasama BölümüS ayfa : 6** Gecikmesinde salanca görülen hallerde cumhuriyet savcıları da hak ve alacakların dondurulmasına karar verebilir. Cumhuriyet savcılığı bu karan en geç 24 saat içinde sulh ceza hâkimine bildirir. Hâkim en geç 24 saat içinde onaylanıp onaylanmamasına karar verir, onaylanmama halinde, cumhuriyet savcılığının kararı hükümsüz kalır.
 
-Kontrollü Teslimatın Şartları
+**<i>Kontrollü Teslimatın Şartları</i>**
 
 **MADDE 10 –** Kontrollü teslimatın uygulanabilmesi için;
 
@@ -87,7 +87,7 @@ a) Kontrollü teslimat kapsamına giren kaçakçılık faaliyetinin çok ciddî 
 
 Zorunludur.
 
-Kontrollü Teslimat Kararı ve Usulleri
+**<i>Kontrollü Teslimat Kararı ve Usulleri</i>**
 
 **MADDE 11 –** Kontrollü teslimata, 10 uncu maddede belirtilen şartların varlığı halinde, Ankara Devlet Güvenlik Mahkemesi Cumhuriyet Başsavcılığı tarafından karar verilir İzleme ve gözleme işleminin tehlikeye düşmesi veya kontrollü teslimat uygulamasına devam edilmesi halinde, delillerin kaybolması veya sanıkların elden kaçırılma ihtimalinin ortaya çıkması durumunda, karar gerekmeksizin kontrollü teslimat uygulamasına derhal son verilir.
 
@@ -111,7 +111,7 @@ Görevlendirmelerde otuz günden kısa süreler için kist hesaplama yapılır.
 
 Bu ödemeler damga vergisi hariç hiçbir vergi ve kesintiye tabi tutulmaz.
 
-Yönetmelikler
+**<i>Yönetmelikler</i>**
 
 **MADDE 15 –** Bu Kanunun uygulanmasına ilişkin olarak bilgi verme, kimlik tespiti, araştırma ve inceleme yöntemleri, şüpheli işlemler, aklamaya konu menfaat ve değerlerin belirlenmesine dair gerekli düzenlemelerin yapılması; Koordinasyon Kurulunun yönetim, toplanma ve çalışma esas ve usulleri, toplantı ve karar nisabına ilişkin hususlar. Bakanlar Kurulunca bu Kanunun yayım tarihini izleyen altı ay içinde çıkarılacak yönetmeliklerle düzenlenir Kontrollü teslimat uygulama esas ve usulleri, Adalet ve Maliye Bakanlıkları ile Hazine ve Gümrük Müsteşarlıklarının bağlı olduğu Bakanlıkların görüşleri alınarak İçişleri Bakanlığınca çıkarılacak bir yönetmelikte gösterilir. Bu yönetmelik çerçevesinde yapılacak kontrollü teslimat işlemleri İçişleri Bakanlığınca yürütülür.
 
@@ -123,7 +123,7 @@ BİRİNCİ BÖLÜM 2313 Sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kan
 
 **MADDE 16 –** 2313 sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 
-Uyuşturucu ve Psikotrop Madde Üretim ve Dağıtımının Önlenmesi
+**<i>Uyuşturucu ve Psikotrop Madde Üretim ve Dağıtımının Önlenmesi</i>**
 
 **EK MADDE 1 –** 1988 tarihli Uyuşturucu ve Psikotrop Maddelerin Kaçakçılığına Karşı Birleşmiş Milletler Sözleşmesine Ek I ve II Numaralı Tablolar ile bu Tabloların değişikliklerinde yer alan maddelerin imali, ithali ve ihracı, nakli, bulundurulması, alımı ve satımı Sağlık Bakanlığının iznine bağlıdır.
 
@@ -143,7 +143,7 @@ f) Malî Suçlan Araştırma Kurulu Başkanlığı
 
 **MADDE 19 –** 178 sayılı Kanun Hükmünde Kararnamenin 2.7.1993tarihli ve 484 sayılı Kanun Hükmünde Kararname ile mülga 14 üncü maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
 
-Mali Suçları Araştırma Kurulunun Görevleri
+**<i>Mali Suçları Araştırma Kurulunun Görevleri</i>**
 
 **Madde 14 –** Malî Suçlan Araştırma Kurulu, Karaparanın Aklanmasının Önlenmesi Hakkında Kanunun 3 üncü maddesinde sayılan görevler ile çeşitli kanunlarla kendisine verilen görevleri yerine getirir.
 

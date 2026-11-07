@@ -52,7 +52,7 @@ g) İşletme Birimi Yöneticisi: İşletme biriminin en üst yöneticisini,
 
 h) Kanun: 209 Sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunu,
 
-ı) Merkez Pay: 209 Sayılı Kanunun 5 inci maddesi gereğince muhasebe biriminin hesabına aktarılan tutarı,
+ı) **Merkez Pay:** 209 Sayılı Kanunun 5 inci maddesi gereğince muhasebe biriminin hesabına aktarılan tutarı,
 
 i) Muhasebe Birimi: Maliye Bakanlığı Sağlık Kurumları Merkez Döner Sermaye Saymanlık Müdürlüğünü,
 
@@ -74,7 +74,7 @@ Bakanlık Merkez Döner Sermaye İşletmesi ile İşletme Birimlerinin Kurulmas�
 
 ## ÜÇÜNCÜ BÖLÜM
 
-Bakanlık Merkez Döner Sermaye İşletmesi ile İşletme Birimlerinin Gelir ve Giderleri ile Bütçe ve Muhasebe İşlemleri
+**Bakanlık Merkez Döner** Sermaye İşletmesi ile İşletme Birimlerinin Gelir ve Giderleri ile Bütçe ve Muhasebe İşlemleri
 
 #### Bakanlık Merkez Döner Sermaye İşletmesi ile işletme birimlerinin gelirleri
 

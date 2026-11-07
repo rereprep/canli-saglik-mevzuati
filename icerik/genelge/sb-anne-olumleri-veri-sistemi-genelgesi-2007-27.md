@@ -56,7 +56,7 @@ Bu cercevede olusturulan yeni Anne Olumleri Veri Sistemi kapsaminda:
 
 12. Il Program Sorumlusu ayda bår kez, ilde mevcut doğum hizmeti veren tüm ikinci ve üçüncü basamak sağlık kuruluşlarımı ziyaret edecek, kadın hastalıkları ve doğum kliniği, doğumhane, ameliyathane, acil servis (Anne olumu gerçekleşmiş başka uzmanlık dalı  servisleri de sorgulanarak) kayıtlarını inceleyerek o kuruluştaki 12-50 yaş anne ölümlerini içerisine alan gebelik, doğum, doğum sonrası 42 günlük süreşte meydana gelen tüm kadın ölümlerini tespit edip, kayıt altına alarak, ölüm olsun ya da olmasın kurulış başbekimi ile birlikte tutanak tutarak iman altina alacakar
 
-Ölümlerin Değerlendirilmesi:
+**Ölümlerin Değerlendirilmesi:**
 
 13, Sağlık Grup Başkanlıklan, ildeki tüm kamu veya özel sağlık kuruluşları (poliklinikler, tıp merkezleri, özel hastaneler, devlet hastaneleri, üniversite hastaneleri vb.), 112 Hizmet Birimlerince bildirilen ölümler Il Anne Ölümleri Tespit ve Onleme Biriminde değerlendirilecektir.
 

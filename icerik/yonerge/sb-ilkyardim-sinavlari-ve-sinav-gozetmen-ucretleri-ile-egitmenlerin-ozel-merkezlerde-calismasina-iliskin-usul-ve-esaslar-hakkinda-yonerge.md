@@ -249,7 +249,7 @@ c) İlkyardım eğitici eğitimi sınav gözetmen ekibi ücreti, sınav başına
 
 ## YEDİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 

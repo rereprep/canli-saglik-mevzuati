@@ -17,7 +17,7 @@ SAĞLIK
 RAPORLARINA
 İLİŞKİN
 USUL VE ESASLAR Nisan 2017
-İÇİNDEKİLER GİRİŞ ........................................................................................................................... 5
+**İÇİNDEKİLER** GİRİŞ ........................................................................................................................... 5
 1. AMAÇ: .................................................................................................................... 6
 2. KAPSAM: ............................................................................................................... 6
 3. DAYANAK: ............................................................................................................ 6
@@ -45,7 +45,7 @@ USUL VE ESASLAR Nisan 2017
 8. GENEL HÜKÜMLER ........................................................................................... 25
 9. YÜRÜRLÜKTEN KALDIRILAN MEVZUAT .................................................... 26
 10. YÜRÜRLÜK ....................................................................................................... 26
-İÇİNDEKİLER EKLER:
+**İÇİNDEKİLER** EKLER:
 1- Kimlik Tespiti Hakkında Duyuru ...............................................................................27
 2- İstirahat Rapor Formatı ..............................................................................................29
 3- İlaç Kullanım Rapor Formatı .....................................................................................30
@@ -66,47 +66,47 @@ USUL VE ESASLAR Nisan 2017
 18- TSK, J.G.K, S.G.K Sağlık Raporları için Kontrol Formu .........................................54
 19- MSB, J.G.K, S.G.K Sağlık Kurulu Rapor Algoritması .............................................55
 20- Bölge Hakem Hastaneler Listesi ................................................................................58 HBYS : Hastane Bilgi Yönetim Sistemi ÖTV : Özel Tüketim Vergisi TSK : Türk Silahlı Kuvvetleri J.Gn.K.lığı : Jandarma Genel Komutanlığı S.G.K.lığı : Sahil Güvenlik Komutanlığı SYY : Türk Silahlı Kuvvetleri Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliği SMY : Türk Silahlı Kuvvetleri Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Personelinin Sağlık Muayene Yönergesi ETSŞY : Emniyet Teşkilatı Sağlık Şartları Yönetmeliği AHBS : Aile Hekimliği Bilgi Sistemi FTR : Fizik Tedavi ve Rehabilitasyon
-KISALTMALAR GİRİŞ Sağlıklı yaşam hakkı Anayasamız ile teminat altına alınmış, vazgeçilemez ve devredilemez temel insan haklarından biridir. Her vatandaşımızın sağlık hizmetlerinden gereksinim duyduğu yerde ve ölçüde yararlanması, geniş bir coğrafi alana sahip olan ülkemizde yöresel dengesizliklerin giderilmesi, halkımızın sağlık düzeyinin bilinmesi ve yükseltilmesi temel amaçlarımızdandır. Bu doğrultuda zorunluluktan dolayı ihtiyaç duyulan sağlık raporlarının düzenlenme aşamasında ve sonrasında yaşanan sorunların tespiti ve çözüm yollarının sağlanarak vatandaş memnuniyetinin artırılması amaçlanmıştır.
+**KISALTMALAR** GİRİŞ Sağlıklı yaşam hakkı Anayasamız ile teminat altına alınmış, vazgeçilemez ve devredilemez temel insan haklarından biridir. Her vatandaşımızın sağlık hizmetlerinden gereksinim duyduğu yerde ve ölçüde yararlanması, geniş bir coğrafi alana sahip olan ülkemizde yöresel dengesizliklerin giderilmesi, halkımızın sağlık düzeyinin bilinmesi ve yükseltilmesi temel amaçlarımızdandır. Bu doğrultuda zorunluluktan dolayı ihtiyaç duyulan sağlık raporlarının düzenlenme aşamasında ve sonrasında yaşanan sorunların tespiti ve çözüm yollarının sağlanarak vatandaş memnuniyetinin artırılması amaçlanmıştır.
 Türkiye’de evlilik, işe giriş, maluliyet, askere elverişlilik, engellik tespiti, okula kayıt, silah ruhsatı, spor lisansı, sürücü raporları gibi birçok konuda farklı amaçla sağlık raporları düzenlenmektedir. Bunların yanı sıra kişilerin hastalanmaları halinde düzenlenen istirahat raporları ile ilaç ve tıbbi malzemenin temini gibi konularda da sağlık raporu düzenlenmesi gerekmektedir.
 Kişilerin belirli haklardan yararlanabilmesi için zorunlu olan sağlık raporları, sağlık hizmet sunumunun en önemli hizmetlerinden biri haline gelmiştir.
 Birçok konuda farklı amaçla sağlık raporu olması hekimler ve diğer sağlık çalışanları için bu raporlar ile ilgili diğer kurumların mevzuatını takip etme gerekliliğini de beraberinde getirmiştir. Ayrıca değişen şartlarla birlikte mer’i mevzuatın yeterince açıklığa kavuşturulmaması hizmeti talep edenler ile hizmeti sunanlar açısından sorunlara neden olmuştur.
 Bu nedenle uygulamada birliğin sağlanabilmesi için e-rapor uygulamaları ve askeri hastanelerin devri de göz önünde bulundurularak sağlık kurulu raporu, istirahat raporu ve birinci basamak sağlık hizmet sunucularınca düzenlenecek tek hekim raporlarına yönelik usul ve esasların belirlenmesine ihtiyaç duyulmuştur.
 Ulusal sağlık politikalarının ana hedefi sağlıklı bireylerden oluşan sağlıklı bir topluma ulaşmaktır. Sağlıklı topluma ulaşmak için de sektörler arası işbirliğini kuvvetlendiren politikaların geliştirilmesine ihtiyaç vardır. Bu konuda ilgili kurum ve kuruluşların görüşleri alınarak Sağlık Raporlarına İlişkin Usul ve Esaslar hazırlanmıştır.
-1. AMAÇ:
+**1. AMAÇ:**
 1.1- Sağlık raporlarının ne şekilde hangi sağlık hizmet sunucularında düzenleneceğinin açıklanması, rapor formatlarının belirlenmesi ve sağlık raporlarına itiraz süreçlerinin tanımlanmasıdır.
-2. KAPSAM:
+**2. KAPSAM:**
 2.1- Resmi ve özel tüm sağlık hizmet sunucularını ile özel hukuk tüzelkişilerini ve gerçek kişileri kapsamaktadır.
-3. DAYANAK:
+**3. DAYANAK:**
 3.1- 3359 sayılı “Sağlık Hizmetleri Temel Kanunu”, 663 sayılı “Sağlık Bakanlığı ve Bağlı Kuruluşların Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname” ve “Yataklı Tedavi Kurumları İşletme Yönetmeliği” hükümleri çerçevesinde düzenlenmiştir.
-4. BAŞVURU VE KİMLİK TESPİTİ:
+**4. BAŞVURU VE KİMLİK TESPİTİ:**
 4.1- Kimlik tespitinin başvuru esnasında ve sonraki tüm süreçlerde hizmeti sunan personel (kayıt görevlisi, hekim, sağlık personeli vb.) tarafından yapılması zorunludur. Personel, kimlik tespitinde
 08.07.2011 tarih ve 29851 sayılı duyuruda yer alan hükümlere (Ek-1) azami özen gösterecektir.
 4.2- Sağlık kurulu raporu için ilk başvuruda sağlık kurulu sekretaryası tarafından kişinin bilgisayara entegre kamera ile fotoğrafı çekilerek Hastane Bilgi Yönetim Sistemine (HBYS) aktarılacaktır. Muayene, numune verme ve radyolojik görüntüleme aşamalarında başvuran kişilerin sistemde yer alan dijital fotoğrafı yardımıyla kimlik doğrulama işlemi yapılacaktır.
 4.3- Sağlık kurulu raporları dışında kalan raporlarda entegre kamera yardımıyla fotoğraf çekilmesi zorunlu değildir.
 4.4- Öğrenciler e-Devlet kapısını kullanarak aldıkları belgeler ile resmi, özel kurum ve kuruluşlara başvuru yapabilmektedirler. E-Devlet kapısını kullanarak alınan bu belgeler sağlık hizmet sunucularında kimlik tespiti ve sağlık raporlarında öğrencilik işlemlerine esas işlemlerde kabul edilecektir. Ancak bu belgeler e-Devlet kapısı internet sitesi üzerinde bulunan belge doğrulama sekmesinden, belge sahibinin
 T.C. kimlik numarası ve belge üzerindeki barkod numarası girilerek doğrulanacaktır.
-5. RAPORLARIN DÜZENLENMESİ, TASDİKİ VE RAPOR FORMATINA İLİŞKİN AÇIKLAMALAR:
-5.1- Özel Düzenleme Bulunan Raporlar:
-5.1.1- İstirahat ve İş Göremezlik Raporları:
-5.1.1.1- Memur ve diğer kamu görevlilerine istirahat raporu işlemlerinde; tüm sağlık hizmet sunucuları tarafından, Sosyal Güvenlik Kurumu “İş Göremezlik Uygulaması (e-Rapor Sistemi)” kullanılacaktır. Sistemden rapor provizyonu alınmasını takiben yapılan muayene ve tetkikler sonucunda, tıbben istirahati lüzumlu görülenlere, ilgili mevzuatla belirlenen usul ve esaslara uygun olarak, anılan sistem üzerinden istirahat raporu düzenlenecektir. Sistem üzerinden raporu tanzim eden hekim/hekimler
+**5. RAPORLARIN DÜZENLENMESİ, TASDİKİ VE RAPOR FORMATINA İLİŞKİN** AÇIKLAMALAR:
+**5.1- Özel Düzenleme Bulunan Raporlar:**
+**5.1.1- İstirahat ve İş Göremezlik Raporları:**
+**5.1.1.1-** Memur ve diğer kamu görevlilerine istirahat raporu işlemlerinde; tüm sağlık hizmet sunucuları tarafından, Sosyal Güvenlik Kurumu “İş Göremezlik Uygulaması (e-Rapor Sistemi)” kullanılacaktır. Sistemden rapor provizyonu alınmasını takiben yapılan muayene ve tetkikler sonucunda, tıbben istirahati lüzumlu görülenlere, ilgili mevzuatla belirlenen usul ve esaslara uygun olarak, anılan sistem üzerinden istirahat raporu düzenlenecektir. Sistem üzerinden raporu tanzim eden hekim/hekimler
 tarafından rapor onaylanacaktır. Sistemden rapor düzenlenebileceğine dair ön izin alınamaması durumunda, başvuran kişi bilgilendirilerek hastanelerde hastane başhekimliğine, birinci basamak sağlık kuruluşlarında ise en yakın veya ilgilinin seçeceği hastanenin başhekimliğine yönlendirilir. Kişinin muayenesi ve lüzumu halinde istirahat raporu düzenlenmesi işlemleri, başhekimin koordinasyonunda yapılır.
-5.1.1.2- Sistem üzerinden düzenlenen istirahat raporlarının kamu kurumlarınca elektronik ortamda görüntülenmesi sağlanana kadar sistemden alınan rapor çıktısı hekim/hekimler tarafından kaşelenip ıslak imza ile imzalanacak ve istenilmesi halinde hastaya verilecektir Hastanelerde bu çıktıya hastanenin barkodu yapıştırılacaktır. Başhekimlik mührü ve onayı aranmayacaktır.
-5.1.1.3- İş göremezlik (e-Rapor) sisteminde hata nedeniyle rapor düzenlenemediği durumlarda Ek-2 İstirahat Rapor Formatı’na uygun şekilde manuel rapor düzenlenebilecektir. Hastanelerde bu çıktıya hastanenin barkodu yapıştırılacaktır. Başhekimlik mührü ve onayı aranmayacaktır.
-5.1.1.4- Kurum hekimleri İş Göremezlik Uygulamasına (e-Rapor Sistemi) dâhil olana kadar Ek-2 İstirahat Rapor Formatı’na uygun şekilde manuel rapor düzenleyebilecektir.
-5.1.1.5- Devlet memurlarına düzenlenecek istirahat raporları için 29.10.2011 tarih ve 28099 sayılı Resmi Gazete’ de yayımlanan Devlet Memurlarına Verilecek Hastalık Raporlan İle Hastalık ve Refakat İznine İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümlerine uyulacaktır.
-5.1.1.6- İş Göremezlik Belgesi (raporu), Sosyal Güvenlik Kurumu Başkanlığınca belirtilen usul, esas ve formata göre düzenlenecektir.
-5.1.1.7- İstirahat Raporlarının usule ve fenne uygun düzenlenmesi konusunda gerekli hassasiyet gösterilecektir. Aksi halde ilgilileri adli ve idari yönden sorumlu kılacağı gibi ilgililer hakkında somut olaya göre terör ve suç örgütlerine yardım ve suça iştirak fiili de oluşabilecektir.
-5.1.1.8- İstirahat raporları muayenenin bir parçası olup ayrıca kişilerden rapor ücreti adı altında herhangi bir ücret talep edilemez.
-5.1.2- Engelli Sağlık Kurulu Raporları:
-5.1.2.1- Engelli Sağlık Raporları Engellilik Ölçütü, Sınıflandırması ve Engellilere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik hükümlerine göre düzenlenecektir.
-5.1.2.2- 01.01.2016 tarihinde yürürlüğe giren Sürücü Adayları ve Sürücülerde Aranacak Sağlık Şartları İle Muayenelerine Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik hükümlerine göre özel tertibatlı motorlu araç kullanılması gereken durumlarda özel tertibat kodunu ve sürücü belgesi sınıfını belirleme yetkisi il sağlık müdürlüğü bünyesinde oluşturulan komisyona verilmiştir.
+**5.1.1.2-** Sistem üzerinden düzenlenen istirahat raporlarının kamu kurumlarınca elektronik ortamda görüntülenmesi sağlanana kadar sistemden alınan rapor çıktısı hekim/hekimler tarafından kaşelenip ıslak imza ile imzalanacak ve istenilmesi halinde hastaya verilecektir Hastanelerde bu çıktıya hastanenin barkodu yapıştırılacaktır. Başhekimlik mührü ve onayı aranmayacaktır.
+**5.1.1.3-** İş göremezlik (e-Rapor) sisteminde hata nedeniyle rapor düzenlenemediği durumlarda Ek-2 İstirahat Rapor Formatı’na uygun şekilde manuel rapor düzenlenebilecektir. Hastanelerde bu çıktıya hastanenin barkodu yapıştırılacaktır. Başhekimlik mührü ve onayı aranmayacaktır.
+**5.1.1.4-** Kurum hekimleri İş Göremezlik Uygulamasına (e-Rapor Sistemi) dâhil olana kadar Ek-2 İstirahat Rapor Formatı’na uygun şekilde manuel rapor düzenleyebilecektir.
+**5.1.1.5-** Devlet memurlarına düzenlenecek istirahat raporları için 29.10.2011 tarih ve 28099 sayılı Resmi Gazete’ de yayımlanan Devlet Memurlarına Verilecek Hastalık Raporlan İle Hastalık ve Refakat İznine İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümlerine uyulacaktır.
+**5.1.1.6-** İş Göremezlik Belgesi (raporu), Sosyal Güvenlik Kurumu Başkanlığınca belirtilen usul, esas ve formata göre düzenlenecektir.
+**5.1.1.7-** İstirahat Raporlarının usule ve fenne uygun düzenlenmesi konusunda gerekli hassasiyet gösterilecektir. Aksi halde ilgilileri adli ve idari yönden sorumlu kılacağı gibi ilgililer hakkında somut olaya göre terör ve suç örgütlerine yardım ve suça iştirak fiili de oluşabilecektir.
+**5.1.1.8-** İstirahat raporları muayenenin bir parçası olup ayrıca kişilerden rapor ücreti adı altında herhangi bir ücret talep edilemez.
+**5.1.2- Engelli Sağlık Kurulu Raporları:**
+**5.1.2.1-** Engelli Sağlık Raporları Engellilik Ölçütü, Sınıflandırması ve Engellilere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik hükümlerine göre düzenlenecektir.
+**5.1.2.2-** 01.01.2016 tarihinde yürürlüğe giren Sürücü Adayları ve Sürücülerde Aranacak Sağlık Şartları İle Muayenelerine Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik hükümlerine göre özel tertibatlı motorlu araç kullanılması gereken durumlarda özel tertibat kodunu ve sürücü belgesi sınıfını belirleme yetkisi il sağlık müdürlüğü bünyesinde oluşturulan komisyona verilmiştir.
 Bu sebeple ÖTV indirimine esas işlemlerde kişi adına düzenlenmiş Engelli Sağlık Kurulu Raporu, sürücü belgesinde veya Sürücü Adayı/Sürücü Sağlık Raporunda (IV. Kısım) belirtilen tertibat kodları birlikte değerlendirilmelidir.
 01.01.2016 tarihinden önce H Sınıfı Sürücü Belgesi sahibi olan kişiler, Sürücü Adayları ve Sürücülerde Aranacak Sağlık Şartları İle Muayenelerine Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik hükümlerine göre yeni Sürücü Adayları ve Sürücü Sağlık Raporu düzenlenmesi amacı ile sağlık hizmet sunucularına yönlendirilecektir.
-5.1.2.3.- ÖTV indirimli araç alımına yönelik Engelli Sağlık Kurulu Raporlarında şu hususlara dikkat edilecektir.
+**5.1.2.3.-** ÖTV indirimli araç alımına yönelik Engelli Sağlık Kurulu Raporlarında şu hususlara dikkat edilecektir.
 a) Ortopedik engellilerde sadece “özel tertibatlı araç kullanması gereklidir.” veya “özel tertibatlı araç kullanmasına ihtiyaç yoktur” ibarelerinden biri ve engellilik oranı yazılacaktır. Kişinin sürücü belge sınıfı veya özel tertibat kodu kesinlikle yazılmayacaktır.
 b) Engelli raporlarına sürücü olunup olunamayacağına dair bir hüküm yazılmayacaktır.
 c) Raporun Zihinsel, Ruhsal, Davranışsal Bozukluklar bölümünde engelli puanı verilen kişilerde konulan tanılara açıklama olarak “vasi tayininin gerekip gerekmediği” ayrıca belirtilecektir.
-5.1.3- Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı Personelinin Sağlık Raporları:
+**5.1.3- Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı** Personelinin Sağlık Raporları:
 a) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personeli, öğrencileri ve bunların adayları ile askerlik yükümlülerinin görevlerine uyarlık bakımından sağlık yeteneklerini tespit etmek amacıyla yapılacak muayene ve düzenlenecek sağlık raporları “Türk Silahlı Kuvvetleri (TSK), Jandarma Genel Komutanlığı (J.Gn.K.lığı) ve Sahil Güvenlik Komutanlığı (S.G.K.lığı) Sağlık Yeteneği Yönetmeliği (SYY) ve Türk Silahlı Kuvvetleri Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Personelinin Sağlık Muayene Yönergesi’nde (SMY) yer alan usul ve esaslara göre düzenlenecektir.
 b) 669 sayılı Kanun Hükmünde Kararname ile Askeri Hastaneler Bakanlığımıza devredilmiş olup sağlık yeteneklerini tespit etmek amacıyla askeri hastaneler tarafından düzenlenen sağlık raporları devir sonrasında Bakanlığımızca yayımlanmış Türk Silahlı Kuvvetleri Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde (Ek- 11 ) yer alan Bakanlığımıza bağlı sağlık hizmet sunucuları tarafından düzenlenecektir. Ancak uçucu sağlık raporları ile denizaltıcı ve dalgıç sağlık raporları sadece Uçucu, Denizaltıcı ve Dalgıç Sınıfı Raporları Vermeye Yetkili Hastaneler Listesi’nde (Ek-12) yer alan hastaneler tarafından düzenlenebilecektir. İnternet ortamında listelerde yapılan değişikliklerin duyurulmasından itibaren güncel listeler esas alınacaktır.
 5.1.3.1- Sevk İşlemleri:
@@ -127,7 +127,7 @@ e) Sağlık teşkillerinde, yapılan tüm işlemler ile laboratuvar tetkik sonu�
 f) Sağlık kurul muayene fişinde; rapor yazan uzman tabipler yazdıkları raporun altına, laboratuvar uzman tabipler raporlarda yalnız kendi bölümlerinin altına, kurul üyesi olmadığı halde rapor yazan bölümlerin uzman tabipleri ise raporların en alt hanesinde yazılı olan isimlerinin üzerine imza atarlar.
 g) Sağlık kurul muayene fişine, sağlık kurulunda verilen son karar yazılır.
 h) Sağlık kurulunda alınan kararlar üyelerin oy çokluğu ile kabul edilir. Sağlık kurul toplantısında verilen karara katılmayan üyeler olduğu takdirde oylama yapılarak çoğunluğun kararı kabul edilir. Oylar eşitse sağlık kurulu başkanının lehinde oy kullandığı karar kabul edilir. Alınan karara katılmayan üyeler şerh yazmak zorundadırlar. Şerhler muayene fişine kırmızı renkli mürekkepli kalemle yazılır, altı imzalanır.
-5.1.3.3- Sağlık Rapor İşlemleri:
+**5.1.3.3- Sağlık Rapor İşlemleri:**
 5.1.3.3.1- Genel Hükümler:
 a) Düzenlenecek sağlık raporlarında Ek-15 Sağlık Kurul Rapor Formatı (Türk Silahlı Kuvvetleri Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı) kullanılacaktır. Sağlık Kurul Raporu mutlaka arkalı-önlü tek sayfada olacak, iki ayrı sayfada yer almayacaktır.
 b) Personel/öğrenci adaylarına düzenlenen sağlık kurulu raporlarının en kısa sürede (en geç 3 (üç) iş günü) düzenlenerek kişiye tebliğ edilmesi esastır. Bu nedenle raporun uygun bir bölümüne teslim tarihi, adı-soyadı yazılarak teslim alan ve teslim eden tarafından imzalanacaktır. Teslim tarihi tebliğ/tebellüğ tarihinin başlangıcı olarak kabul edilecektir.
@@ -169,38 +169,38 @@ b) Sağlık kuruluşları kendilerine ulaşan rapor teyit belgelerine, en geç, 
 c) Sağlık Kurulu Raporu Kararı Bildirim Belgesi askerlik şubesine ulaşmadan asıl raporu onaylanarak gelenlerin rapor teyitlerinin asıl raporun onaylı tıpkıçekimi rapor teyit yazısına eklenerek talep edilmesi halinde, söz konusu rapor teyit belgelerine sağlık kuruluşları b) fıkrasına uygun olarak cevap verirler.
 5.1.3.3.6- Atamaya Esas Raporlar:
 a) Personel, kendisi, eşi ve bakmakla yükümlü olduğu aile fertlerinden birisi (bakmakla yükümlü olduğu çocukları ile bakmakla yükümlü olduğu ve aynı çatı altında yaşayan anne, baba veya yargı kararıyla vasi tayin edilmesi kaydıyla kardeşi) için alacağı “Hayati önemi haizdir, tedaviden yararlanır” “... sürede takip ve kontrolü gereklidir.” “İlgili uzman ve/veya sağlık merkezinin bulunduğu yerde ikameti uygundur.” ibareli ve ilgili hastalığın tedavi edileceği sağlık hizmet sunucuları ile iklim, yer ve tedavi koşullarını öngören sağlık kurulu raporları 09/12/2016 tarihli ve MSY 33-3 TSK, J.Gn.K.lığı, S.G.Klığı Personelinin Sağlık Muayene Yönergesi 4’üncü Bölüm 4’üncü maddesine göre düzenlenir.
-5.1.3.3.7- Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı Personeline Verilecek Spordan/ Eğitimden Muafiyet Raporları:
+**5.1.3.3.7- Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı** Personeline Verilecek Spordan/ Eğitimden Muafiyet Raporları:
 a) TSK, J.Gn.K.lığı ve S.G.K.lığı personeline “Uzun Koşu, Yürüyüş ve Sportif Faaliyetlerden Muafiyeti Uygundur”, “Sportif Faaliyetlerden ve Yaya İntikali Görevlerinden Muafiyeti Uygundur”, “Ağır Sportif ve Eğitim Faaliyetlerden Muafiyeti Uygundur” gibi genel anlam ifade eden raporlar verilemez. Bu durumda olan personele, öncelikle istirahat raporu verilecek veya SYY kapsamında kesin işlem yapılacaktır. Bunun tıbbi ve idari bakımlardan mümkün olmadığı durumlarda verilecek spor veya eğitim istirahati raporlarında; hangi tür sporlardan ne kadar süre ile muaf tutulacağı ve görev yeri şartlarına göre hangi tür eğitimlerden ne kadar süre ile muaf tutulacağı açık olarak belirtilir. Bu tür raporlardan 10 güne kadar (10 gün dâhil) olanlar tek tabip, 10 günden uzun süreli olanlar ise yetkili sağlık kuruluşu sağlık kurulları tarafından verilir.
-5.1.4- Emniyet Teşkilatına Alınacak Öğrenciler ve Memurlar Hakkında Düzenlenecek Sağlık Kurulu Raporu:
-5.1.4.1- Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre, Polis Okulu öğrenci adayları ve Emniyet Teşkilatına ataması yapılacak memur adayları için düzenlenecektir.
-5.1.4.2- Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre içeriği belirlenmiş olan “Emniyet Teşkilatına Alınacak Öğrenciler ve Memurlar Hakkında Düzenlenecek Sağlık Kurulu Raporu” formu, raporu talep eden birim tarafından onaylanmış şekilde, adayla birlikte sağlık kuruluşuna gönderilir.
+**5.1.4- Emniyet Teşkilatına Alınacak Öğrenciler ve Memurlar Hakkında Düzenlenecek** Sağlık Kurulu Raporu:
+**5.1.4.1-** Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre, Polis Okulu öğrenci adayları ve Emniyet Teşkilatına ataması yapılacak memur adayları için düzenlenecektir.
+**5.1.4.2-** Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre içeriği belirlenmiş olan “Emniyet Teşkilatına Alınacak Öğrenciler ve Memurlar Hakkında Düzenlenecek Sağlık Kurulu Raporu” formu, raporu talep eden birim tarafından onaylanmış şekilde, adayla birlikte sağlık kuruluşuna gönderilir.
 Bu form dışında başka bir form üzerine rapor düzenlenmeyecektir.
-5.1.4.3- Bütün branşlar için ayrılmış olan muayene bölümleri eksiksiz doldurulur, laboratuvar yöntemi, görüntüleme yöntemi, fonksiyon tespit yöntemi ve uygun görülen diğer değerlendirme yöntemlerinin ve fizik muayenenin sonuçları doldurulduktan sonra, patolojik bir durum tespit edilmeyenler için “SAĞLAM” yazılacak, patolojik bir durum tespit edilenler için teşhisler ile birlikte Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre belirlenen dilimler yazılarak, kaşelenecek ve imzalanacaktır.
-5.1.4.4- Raporun sonundaki teşhis hanesine, tespit edilen teşhisler ile birlikte hastalığın-sakatlığın ağırlığına ve derecesine uygun olan Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre belirlenen dilimler yazılacaktır. Bir hastalık tespit edilmediyse ”SAĞLAM” yazılacaktır.
-5.1.4.5- Raporun karar hanesine, rapor talebine cevaben uygun görülen karar açıkça yazılacak ve raporun sağlık kurulu bölümü ilgili uzman doktorlarca kaşelenecek ve imzalanacaktır. Raporda; klinik durum, teşhis, dilim ve karar arasında çelişki olmayacaktır.
-5.1.4.6- Rapor üzerindeki bütün düzeltmelerde ve karalamalarda, düzeltmeyi yapan ilgili uzman doktorun kaşe ve imzası ile düzeltme tarihi bulunacaktır.
-5.1.5- Emniyet Teşkilatı Sağlık Şartları Yönetmelik’ine Göre Düzenlenen Son Durum ve Dilim Belirtir Sağlık Kurulu Raporu:
-5.1.5.1- Emniyet Teşkilatı Sağlık Şartları Yönetmeliği (ETSŞY) hükümlerine göre, Polis Okulu öğrenci adayları-öğrencileri ve Emniyet Teşkilatına ataması yapılacak olan memur adayları ile Emniyet Teşkilatında çalışmakta olan bütün hizmet sınıflarına ait personel için düzenlenecektir.
-5.1.5.2- Hakkında rapor düzenlenmesi istenilen kişi, kurumun resmi yazısı ile hastane sağlık kurullarına müracaat eder. Kurum sevki olmayanlar hakkında dilim belirtir sağlık kurulu raporu düzenlenmeyecektir. Emniyet Teşkilatında çalışan personelin, dilim belirtir rapor haricindeki diğer rapor taleplerinde kurum sevki aranmayacaktır.
-5.1.5.3- Emniyet Teşkilatı Sağlık Şartları Yönetmeliği kapsamında düzenlenen sağlık raporlarına esas muayeneyi yapan ilgili uzman doktor, rapora konu olan patolojik durumları, fonksiyon kayıplarını ve sekelleri tespit ederken, gerekli laboratuvar, görüntüleme ve fonksiyon tespit yöntemleri ile uygun gördüğü diğer değerlendirme yöntemlerinden yararlanacaktır.
+**5.1.4.3-** Bütün branşlar için ayrılmış olan muayene bölümleri eksiksiz doldurulur, laboratuvar yöntemi, görüntüleme yöntemi, fonksiyon tespit yöntemi ve uygun görülen diğer değerlendirme yöntemlerinin ve fizik muayenenin sonuçları doldurulduktan sonra, patolojik bir durum tespit edilmeyenler için “SAĞLAM” yazılacak, patolojik bir durum tespit edilenler için teşhisler ile birlikte Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre belirlenen dilimler yazılarak, kaşelenecek ve imzalanacaktır.
+**5.1.4.4-** Raporun sonundaki teşhis hanesine, tespit edilen teşhisler ile birlikte hastalığın-sakatlığın ağırlığına ve derecesine uygun olan Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre belirlenen dilimler yazılacaktır. Bir hastalık tespit edilmediyse ”SAĞLAM” yazılacaktır.
+**5.1.4.5-** Raporun karar hanesine, rapor talebine cevaben uygun görülen karar açıkça yazılacak ve raporun sağlık kurulu bölümü ilgili uzman doktorlarca kaşelenecek ve imzalanacaktır. Raporda; klinik durum, teşhis, dilim ve karar arasında çelişki olmayacaktır.
+**5.1.4.6-** Rapor üzerindeki bütün düzeltmelerde ve karalamalarda, düzeltmeyi yapan ilgili uzman doktorun kaşe ve imzası ile düzeltme tarihi bulunacaktır.
+**5.1.5- Emniyet Teşkilatı Sağlık Şartları Yönetmelik’ine Göre Düzenlenen Son Durum ve** Dilim Belirtir Sağlık Kurulu Raporu:
+**5.1.5.1-** Emniyet Teşkilatı Sağlık Şartları Yönetmeliği (ETSŞY) hükümlerine göre, Polis Okulu öğrenci adayları-öğrencileri ve Emniyet Teşkilatına ataması yapılacak olan memur adayları ile Emniyet Teşkilatında çalışmakta olan bütün hizmet sınıflarına ait personel için düzenlenecektir.
+**5.1.5.2-** Hakkında rapor düzenlenmesi istenilen kişi, kurumun resmi yazısı ile hastane sağlık kurullarına müracaat eder. Kurum sevki olmayanlar hakkında dilim belirtir sağlık kurulu raporu düzenlenmeyecektir. Emniyet Teşkilatında çalışan personelin, dilim belirtir rapor haricindeki diğer rapor taleplerinde kurum sevki aranmayacaktır.
+**5.1.5.3-** Emniyet Teşkilatı Sağlık Şartları Yönetmeliği kapsamında düzenlenen sağlık raporlarına esas muayeneyi yapan ilgili uzman doktor, rapora konu olan patolojik durumları, fonksiyon kayıplarını ve sekelleri tespit ederken, gerekli laboratuvar, görüntüleme ve fonksiyon tespit yöntemleri ile uygun gördüğü diğer değerlendirme yöntemlerinden yararlanacaktır.
 Ayrıca yapılan bu işlemlerin ve fiziki muayenenin ayrıntılı sonuçları ile hastalığın-sakatlığın esas arazı, neden olduğu fonksiyon kayıpları, kalıcı sekelleri, tedavi planı, takip ve kontrol sıklığı ve hastayı tanımlayacak diğer ayrıntılar raporda belirtilecektir.
-5.1.5.4- Kişi ile ilgili tespit edilen teşhisler ile bu teşhislere ve hastalığın/sakatlığın ağırlığına veya derecesine uygun olan, Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre belirlenen dilimler raporda belirtilecektir.
-5.1.5.5- Rapor talebine cevaben uygun görülen karar açıkça yazılacaktır. Klinik durum-teşhis- dilim ve karar arasında çelişki bulunmayacaktır.
-5.1.5.6- Son Durum ve Dilim Belirtir Sağlık Kurulu Raporlarında fenne uygunluk ile birlikte usule uygunlukta büyük önem arz etmektedir. Bu raporlar Sağlık Kurulu Raporunda bulunması gereken
+**5.1.5.4-** Kişi ile ilgili tespit edilen teşhisler ile bu teşhislere ve hastalığın/sakatlığın ağırlığına veya derecesine uygun olan, Emniyet Teşkilatı Sağlık Şartları Yönetmeliği hükümlerine göre belirlenen dilimler raporda belirtilecektir.
+**5.1.5.5-** Rapor talebine cevaben uygun görülen karar açıkça yazılacaktır. Klinik durum-teşhis- dilim ve karar arasında çelişki bulunmayacaktır.
+**5.1.5.6-** Son Durum ve Dilim Belirtir Sağlık Kurulu Raporlarında fenne uygunluk ile birlikte usule uygunlukta büyük önem arz etmektedir. Bu raporlar Sağlık Kurulu Raporunda bulunması gereken
 usul kriterlerini eksiksiz olarak içerecektir ve Ek-5’te yer alan Durum Bildirir Sağlık Kurulu Raporu Formatı’na uygun şekilde düzenlenecektir.
-5.1.5.7- Rapor üzerindeki bütün düzeltmelerde ve karalamalarda, düzeltmeyi yapan ilgili uzman doktorun kaşe ve imzası ile düzeltme tarihi bulunacaktır.
-5.1.6- Sürücü ve Sürücü Adayları Sağlık Raporları:
-5.1.6.1- Sağlık raporu; Bakanlığımıza ve üniversitelere bağlı sağlık tesisleri, aile sağlığı merkezleri ve Bakanlığımızca ruhsatlandırılmış özel sağlık kuruluşlarında (özel hastane, özel tıp merkezi, özel poliklinik ve özel muayenehane) çalışan hekim/uzman hekimlerince düzenlenebilecektir. Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığınca verilen eğitim sonrasında sürücü belgesi alacak personelin sağlık raporları kendi kurum hekimliklerince düzenlenebilir.
-5.1.6.2- Sürücü belgesi sınıfları aşağıdaki şekilde yeniden gruplandırılmıştır;
+**5.1.5.7-** Rapor üzerindeki bütün düzeltmelerde ve karalamalarda, düzeltmeyi yapan ilgili uzman doktorun kaşe ve imzası ile düzeltme tarihi bulunacaktır.
+**5.1.6- Sürücü ve Sürücü Adayları Sağlık Raporları:**
+**5.1.6.1-** Sağlık raporu; Bakanlığımıza ve üniversitelere bağlı sağlık tesisleri, aile sağlığı merkezleri ve Bakanlığımızca ruhsatlandırılmış özel sağlık kuruluşlarında (özel hastane, özel tıp merkezi, özel poliklinik ve özel muayenehane) çalışan hekim/uzman hekimlerince düzenlenebilecektir. Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığınca verilen eğitim sonrasında sürücü belgesi alacak personelin sağlık raporları kendi kurum hekimliklerince düzenlenebilir.
+**5.1.6.2-** Sürücü belgesi sınıfları aşağıdaki şekilde yeniden gruplandırılmıştır;
 a) Birinci grup: M, A1, A2, A, B1, B, BE ve F sınıfları,
 b) İkinci grup: C1, C1E, C, CE, D1, D1E, D, DE ve G sınıfları.
-5.1.6.3- Sağlık raporu şablonu Bakanlığımız ve İçişleri Bakanlığı Emniyet Genel Müdürlüğü tarafından ortaklaşa olarak düzenlenerek yayımlanmıştır. Ek-8 Sağlık Rapor Formatı’na uygun olarak tanzim edilecektir.
-5.1.6.4- I. Kısım:
+**5.1.6.3-** Sağlık raporu şablonu Bakanlığımız ve İçişleri Bakanlığı Emniyet Genel Müdürlüğü tarafından ortaklaşa olarak düzenlenerek yayımlanmıştır. Ek-8 Sağlık Rapor Formatı’na uygun olarak tanzim edilecektir.
+**5.1.6.4- I. Kısım:**
 Sürücü/sürücü adayının kimlik bilgilerinin ve fotoğrafının olduğu kısımdır. Kimlik tespiti ilk müracaat edilen hekim tarafından yapılarak mutlak surette sağlık raporu üzerindeki fotoğraf hekim tarafından kaşelenip imzalanacaktır.
 5.1.6.5- II. Kısım:
 a) Sağlık tesisleri, aile sağlığı merkezleri veya özel sağlık kuruluşlarında görevli pratisyen/aile hekimi tarafından doldurulacak kısımdır.
 b) Hekimler tarafından raporda yer alan sürücü belgesi sınıf ve grupları kesinlikle belirtilmeyecektir.
-c) “Sürücü olabilir” kutucuğu işaretlenmiş ise karar kısmının doldurulması zorunlu değildir.
+c) <i>“Sürücü olabilir”</i> kutucuğu işaretlenmiş ise karar kısmının doldurulması zorunlu değildir.
 d) Pratisyen hekim/aile hekimi tarafından kod tablosunda belirtilen kod numaralarından yalnızca gözlük (01.01), gözlük veya kontakt lensle (01.06) kod numaraları kullanılabilir.
 5.1.6.6- III. Kısım:
 a) Sağlık tesisleri/özel sağlık kuruluşlarında görevli ilgili uzman hekim/uzman hekimler tarafından doldurulacak kısımdır.
@@ -218,62 +218,62 @@ b) İl sağlık müdür yardımcısı veya görevlendireceği il sağlık müdü
 Komisyon sürücü/sürücü adayının özel tertibat olmaksızın araç kullanabileceğine veya sürücü olamayacağına karar verebilir. Komisyon aracın tadil edilmesini müteakip sürücünün aracı kullanıp kullanamadığını kontrol edebilir.
 c) Komisyon tarafından kişinin özel tertibat olmaksızın araç kullanabileceğine karar verilmesi halinde rapora “özel tertibat olmadan araç kullanabilir.” ibaresi yazılır, hangi sınıf sürücü belgesi alabileceği belirtilerek rapor tanzim edilir.
 d) Komisyonda kararlar oy çokluğu ile alınır.
-5.1.6.8- Sürücü ve araçlara ilişkin kod tablosu İçişleri Bakanlığı, Sağlık Bakanlığı ve Bilim Sanayi ve Teknoloji Bakanlığınca belirlenmiş olup Ek-9’ da yer almaktadır. 1’den 100’e kadar olan kod numaraları Avrupa Birliği Mevzuatındaki şekliyle, 100 ve üzerindeki kod numaraları ise sadece ülkemizde kullanılacak yerel kod numaralarıdır.
-5.1.6.9- Sürücü/sürücü adayı Ek-10’da yer alan beyan formunu dolduracaktır. Pratisyen hekim/aile hekimi tarafından beyan formu incelenerek beyan formunda belirtilen durumlara sahip olmayan sürücü/ sürücü adayının muayenesini yaparak muayene bulgusuna göre sağlık raporunun II. Kısmını doldurup sağlık raporunu tanzim ederek kişiye teslim edecektir.
-5.1.6.10- Sürücünün /sürücü adayının ilk muayenesi genel muayene yapmaya yönelik tıbbi donanım ve araç-gereçleri bulunduran uzman hekimler tarafından da yapılabilecektir. Bu nedenle raporların
+**5.1.6.8-** Sürücü ve araçlara ilişkin kod tablosu İçişleri Bakanlığı, Sağlık Bakanlığı ve Bilim Sanayi ve Teknoloji Bakanlığınca belirlenmiş olup Ek-9’ da yer almaktadır. 1’den 100’e kadar olan kod numaraları Avrupa Birliği Mevzuatındaki şekliyle, 100 ve üzerindeki kod numaraları ise sadece ülkemizde kullanılacak yerel kod numaralarıdır.
+**5.1.6.9-** Sürücü/sürücü adayı Ek-10’da yer alan beyan formunu dolduracaktır. Pratisyen hekim/aile hekimi tarafından beyan formu incelenerek beyan formunda belirtilen durumlara sahip olmayan sürücü/ sürücü adayının muayenesini yaparak muayene bulgusuna göre sağlık raporunun II. Kısmını doldurup sağlık raporunu tanzim ederek kişiye teslim edecektir.
+**5.1.6.10-** Sürücünün /sürücü adayının ilk muayenesi genel muayene yapmaya yönelik tıbbi donanım ve araç-gereçleri bulunduran uzman hekimler tarafından da yapılabilecektir. Bu nedenle raporların
 II. Kısmı veya sadece III. Kısmı doldurularak düzenlenen raporlarda pratisyen hekim/aile hekimi (aile hekimliği uzmanı dâhil) imzasının bulunması şartı aranmayacaktır.
-5.1.6.11- 2918 sayılı Karayolları Trafik Kanunu’nun 45’inci maddesi kapsamında il sağlık müdürlüğüne sevk edilen sürücünün muayene ve değerlendirmesi 5’li heyet tarafından yapılarak sağlık kurulu raporu tanzim edilmekte idi. Mezkûr Kanun hükmünde değişiklik yapılması nedeniyle bu şekilde sevk edilen kişi adına 5’li heyet raporu düzenlenmeyecek olup sürücüde meydana gelen bedensel değişikliğin ortopedik olması halinde ortopedi ve travmatoloji uzmanının, diğer durumların tespitinde ise ilgili diğer uzman hekim/hekimlerin bulunduğu hastaneye sevk edilir. İlgili uzman hekim/hekimler tarafından yapılacak muayene ve değerlendirme sonucunda sağlık raporunun III. Kısmı doldurularak, sürücü belgesi alıp alamayacağı ve varsa kısıtların kod tablosundaki kod numaraları yazılacaktır.
-5.1.6.12- Sürücü belgesine sahip herhangi bir kişinin sağlık muayeneleri esnasında sürücü belgesinin geçici süreyle geri alınmasını gerektiren ve bildirim yükümlüğü olan durumlarda kişiye ait kimlik bilgileri ve hastalığın tanısı hekimin görevli olduğu kurum/özel sağlık kuruluşu tarafından Emniyet Genel Müdürlüğüne/İl Emniyet Müdürlüğüne bildirilecektir.
-5.1.6.13- Sağlık raporunda kişinin durumuna özgü daha kısa sürelerde kontrol muayenesi öngörülmemişse düzenlenen sağlık raporu düzenlendiği tarihinden itibaren iki (2) yıl süreyle geçerlidir.
-5.1.6.14- Yönetmelik’in 5’inci maddesinin birinci fıkrasında “Sürücü/sürücü adayının motorlu bir aracı kullanmak için gerekli olan yeterli görme keskinliğine sahip olduklarından emin olunması için uygun değerlendirilme yapılır. Kişilerin görme keskinliğinin yetersiz olduğuna ve/veya göze ait bir hastalığa dair bir şüphe söz konusu olduğunda, uzman hekim tarafından muayene edilir.” hükmü yer almaktadır.
+**5.1.6.11-** 2918 sayılı Karayolları Trafik Kanunu’nun 45’inci maddesi kapsamında il sağlık müdürlüğüne sevk edilen sürücünün muayene ve değerlendirmesi 5’li heyet tarafından yapılarak sağlık kurulu raporu tanzim edilmekte idi. Mezkûr Kanun hükmünde değişiklik yapılması nedeniyle bu şekilde sevk edilen kişi adına 5’li heyet raporu düzenlenmeyecek olup sürücüde meydana gelen bedensel değişikliğin ortopedik olması halinde ortopedi ve travmatoloji uzmanının, diğer durumların tespitinde ise ilgili diğer uzman hekim/hekimlerin bulunduğu hastaneye sevk edilir. İlgili uzman hekim/hekimler tarafından yapılacak muayene ve değerlendirme sonucunda sağlık raporunun III. Kısmı doldurularak, sürücü belgesi alıp alamayacağı ve varsa kısıtların kod tablosundaki kod numaraları yazılacaktır.
+**5.1.6.12-** Sürücü belgesine sahip herhangi bir kişinin sağlık muayeneleri esnasında sürücü belgesinin geçici süreyle geri alınmasını gerektiren ve bildirim yükümlüğü olan durumlarda kişiye ait kimlik bilgileri ve hastalığın tanısı hekimin görevli olduğu kurum/özel sağlık kuruluşu tarafından Emniyet Genel Müdürlüğüne/İl Emniyet Müdürlüğüne bildirilecektir.
+**5.1.6.13-** Sağlık raporunda kişinin durumuna özgü daha kısa sürelerde kontrol muayenesi öngörülmemişse düzenlenen sağlık raporu düzenlendiği tarihinden itibaren iki (2) yıl süreyle geçerlidir.
+**5.1.6.14-** Yönetmelik’in 5’inci maddesinin birinci fıkrasında “Sürücü/sürücü adayının motorlu bir aracı kullanmak için gerekli olan yeterli görme keskinliğine sahip olduklarından emin olunması için uygun değerlendirilme yapılır. Kişilerin görme keskinliğinin yetersiz olduğuna ve/veya göze ait bir hastalığa dair bir şüphe söz konusu olduğunda, uzman hekim tarafından muayene edilir.” hükmü yer almaktadır.
 Sürücü/sürücü adaylarından iki gözü de gören ve beyan formunda belirtilen renk körlüğü, gece körlüğü (tavukkarası), göz kapağında düşme, çift görme veya şaşılık, blefarospazm, katarakt, afaki veya progresif göz hastalığı bulunmayan kişilerin pratisyen hekim/aile hekimi tarafından görme keskinliği yönünden mezkûr hüküm kapsamında muayenesi yapılır. Göz muayenesinde gözlükle görme keskinliğinin sağlanması halinde “gözlük kullanmak kaydıyla” sürücü belgesi alabileceğine dair sağlık raporu düzenlenir. Pratisyen hekim/aile hekimi tarafından kod tablosunda belirtilen kod numaralarından yalnızca gözlük (01.01), gözlük veya kontakt lensle (01.06) kod numaraları kullanılabilir. Mezkûr hüküm kapsamında görme keskinliğine karar verilememesi veya yukarıda belirtilen durum/durumların olması halinde sürücü/sürücü adayı, göz muayenesi yönünden değerlendirilmek üzere göz hastalıkları uzmanına sevk edilir.
-5.1.6.15- Sürücü Adayı ve Sürücü Sağlık Raporları sadece sürücü belgesi alınabilmesi amacıyla kullanılır.
-5.1.7- Özel Güvenlik Görevlisi Adayları İçin Verilecek Sağlık Kurulu Raporu:
-5.1.7.1- 07.10.2004 tarihli ve 25606 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un Uygulanmasına İlişkin Yönetmelik’in Sağlık Şartları başlıklı 18’inci maddesine göre düzenlenecektir.
-5.1.7.2- Psikiyatri, Nöroloji, Göz ve Kulak Burun Boğaz muayeneleri bulunmak şartı ile ilgili sağlık kurulunca uygun görülecek diğer branş muayenelerini içerecektir.
-5.1.7.3- Karar olarak “Özel Güvenlik Görevlisi OLUR-OLAMAZ” yazılacak ve muayenesi bulunan her branş tarafından kaşelenerek imzalanacaktır.
-5.1.7.4- Bu raporlar Ek-5’te yer alan Durum Bildirir Sağlık Kurulu Rapor formatına uygun şekilde düzenlenecektir.
-5.1.8- Silahlı Özel Güvenlik Görevlisi Adayları İçin Verilecek Sağlık Kurulu Raporu:
-5.1.8.1- 07.10.2004 tarihli ve 25606 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un Uygulanmasına İlişkin Yönetmelik’in 24’üncü maddesine göre düzenlenecektir.
-5.1.8.2- Psikiyatri, Nöroloji, Göz, Kulak Burun Boğaz, Ortopedi ve Dahiliye muayeneleri bulunmak şartı ile ilgili sağlık kurulunca uygun görülecek diğer branş muayenelerini içerecektir.
-5.1.8.3- Karar olarak “Silahlı Özel Güvenlik Görevlisi OLUR-OLAMAZ” yazılacak ve muayenesi bulunan her branş tarafından kaşelenerek imzalanacaktır.
-5.1.8.4- Bu raporlar Ek-5’te yer alan Durum Bildirir Sağlık Kurulu Raporu formatına uygun şekilde düzenlenecektir.
-5.1.9- Silah Bulundurma veya Taşıma Ruhsatı Alacak Kişilere Verilecek Sağlık Kurulu Raporu:
-5.1.9.1- Psikiyatri, Nöroloji, Göz, Kulak Burun Boğaz, Ortopedi ve Dahiliye muayeneleri bulunmak şartı ile ilgili sağlık kurulunca uygun görülecek diğer branş muayenelerini içerecektir.
-5.1.9.2- Karar olarak “Silah Bulundurmasında veya Taşımasında Sağlık Yönünden Sakınca YOKTUR-VARDIR” yazılacak ve muayenesi bulunan her branş tarafından kaşelenerek imzalanacaktır.
-5.1.9.3- Bu raporlar Ek-5’te yer alan Durum Bildirir Sağlık Kurulu Raporu formatına uygun şekilde düzenlenecektir.
-5.1.10- Nakdi Tazminat Tahakkukuna Esas Sağlık Kurulu Raporu:
-5.1.10.1- 18.01.1993 tarihli ve 21469 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Yönetmelik’in 7’nci maddesi hükümlerine göre düzenlenecektir.
-5.1.10.2- Kişiler görev yaptıkları kurumdan alacakları sevk evrakı ile sağlık hizmet sunucularına başvuracaktır. Sevkte kişinin Nakdi Tazminat Tahakkukuna Esas Sağlık Kurulu Raporu için gönderildiği mutlaka belirtilecektir.
-5.1.10.3- Raporda;
+**5.1.6.15-** Sürücü Adayı ve Sürücü Sağlık Raporları sadece sürücü belgesi alınabilmesi amacıyla kullanılır.
+**5.1.7- Özel Güvenlik Görevlisi Adayları İçin Verilecek Sağlık Kurulu Raporu:**
+**5.1.7.1-** 07.10.2004 tarihli ve 25606 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un Uygulanmasına İlişkin Yönetmelik’in Sağlık Şartları başlıklı 18’inci maddesine göre düzenlenecektir.
+**5.1.7.2-** Psikiyatri, Nöroloji, Göz ve Kulak Burun Boğaz muayeneleri bulunmak şartı ile ilgili sağlık kurulunca uygun görülecek diğer branş muayenelerini içerecektir.
+**5.1.7.3-** Karar olarak “Özel Güvenlik Görevlisi OLUR-OLAMAZ” yazılacak ve muayenesi bulunan her branş tarafından kaşelenerek imzalanacaktır.
+**5.1.7.4-** Bu raporlar Ek-5’te yer alan Durum Bildirir Sağlık Kurulu Rapor formatına uygun şekilde düzenlenecektir.
+**5.1.8- Silahlı Özel Güvenlik Görevlisi Adayları İçin Verilecek Sağlık Kurulu Raporu:**
+**5.1.8.1-** 07.10.2004 tarihli ve 25606 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un Uygulanmasına İlişkin Yönetmelik’in 24’üncü maddesine göre düzenlenecektir.
+**5.1.8.2-** Psikiyatri, Nöroloji, Göz, Kulak Burun Boğaz, Ortopedi ve Dahiliye muayeneleri bulunmak şartı ile ilgili sağlık kurulunca uygun görülecek diğer branş muayenelerini içerecektir.
+**5.1.8.3-** Karar olarak “Silahlı Özel Güvenlik Görevlisi OLUR-OLAMAZ” yazılacak ve muayenesi bulunan her branş tarafından kaşelenerek imzalanacaktır.
+**5.1.8.4-** Bu raporlar Ek-5’te yer alan Durum Bildirir Sağlık Kurulu Raporu formatına uygun şekilde düzenlenecektir.
+**5.1.9- Silah Bulundurma veya Taşıma Ruhsatı Alacak Kişilere Verilecek Sağlık Kurulu Raporu:**
+**5.1.9.1-** Psikiyatri, Nöroloji, Göz, Kulak Burun Boğaz, Ortopedi ve Dahiliye muayeneleri bulunmak şartı ile ilgili sağlık kurulunca uygun görülecek diğer branş muayenelerini içerecektir.
+**5.1.9.2-** Karar olarak “Silah Bulundurmasında veya Taşımasında Sağlık Yönünden Sakınca YOKTUR-VARDIR” yazılacak ve muayenesi bulunan her branş tarafından kaşelenerek imzalanacaktır.
+**5.1.9.3-** Bu raporlar Ek-5’te yer alan Durum Bildirir Sağlık Kurulu Raporu formatına uygun şekilde düzenlenecektir.
+**5.1.10- Nakdi Tazminat Tahakkukuna Esas Sağlık Kurulu Raporu:**
+**5.1.10.1-** 18.01.1993 tarihli ve 21469 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Yönetmelik’in 7’nci maddesi hükümlerine göre düzenlenecektir.
+**5.1.10.2-** Kişiler görev yaptıkları kurumdan alacakları sevk evrakı ile sağlık hizmet sunucularına başvuracaktır. Sevkte kişinin Nakdi Tazminat Tahakkukuna Esas Sağlık Kurulu Raporu için gönderildiği mutlaka belirtilecektir.
+**5.1.10.3-** Raporda;
 a) Basit tıbbi müdahale ile giderilebilecek ölçüde hafif nitelikte olması veya olmaması,
 b) Vücutta kemik kırılmasına neden olması ve kırığın kişinin hayat fonksiyonlarına etkisinin hafif, orta veya ağır derecede olduğu,
 c) Kişinin yaşamını tehlikeye sokacak derecede olup olmadığı,
 d) Araz bırakıp bırakmadığı, aşağıda yer alan hükümlere uygun biçimde belirtilecektir.
-5.1.10.3.1- Raporda basit tıbbi müdahale ile giderilebilecek ölçüde hafif nitelikte olduğunun belirtilmesi halinde başkaca bir hüküm yazılmayacaktır.
-5.1.10.3.2- Raporda basit tıbbi müdahale ile giderilebilecek ölçüde hafif nitelikte olmadığının belirtilmesi halinde kemik kırığının olup olmadığı (kırık var ise derecesi) yaşamını tehlikeye sokup sokmadığı ve araz bırakıp bırakmadığı ayrıca belirtilecektir.
-5.1.10.3.3- Kemik kırığının olduğunun belirtildiği hallerde (kırığın derecesi belirtilecek)
+**5.1.10.3.1-** Raporda basit tıbbi müdahale ile giderilebilecek ölçüde hafif nitelikte olduğunun belirtilmesi halinde başkaca bir hüküm yazılmayacaktır.
+**5.1.10.3.2-** Raporda basit tıbbi müdahale ile giderilebilecek ölçüde hafif nitelikte olmadığının belirtilmesi halinde kemik kırığının olup olmadığı (kırık var ise derecesi) yaşamını tehlikeye sokup sokmadığı ve araz bırakıp bırakmadığı ayrıca belirtilecektir.
+**5.1.10.3.3-** Kemik kırığının olduğunun belirtildiği hallerde (kırığın derecesi belirtilecek)
 2.1.10.3’üncü maddenin (a) bendinde yer alan hükmün belirtilmesi gerekmez. Ancak yaşamını tehlikeye sokup sokmadığı ve araz bırakıp bırakmadığı belirtilmelidir.
-5.1.10.3.4- Bu raporlar Ek-5’te yer alan Durum Bildirir Sağlık Kurulu Raporu formatına uygun şekilde düzenlenecektir.
-5.1.11- Adli Raporlar:
-5.1.11.1- Adli Rapor formatı ve adli raporların tanziminde Bakanlığımızca yayımlanan 2005/143 sayılı Adli Tabiplik Hizmetlerinin Yürütülmesi konulu Genelge’de belirtilen esas ve formatlara uyulacaktır.
+**5.1.10.3.4-** Bu raporlar Ek-5’te yer alan Durum Bildirir Sağlık Kurulu Raporu formatına uygun şekilde düzenlenecektir.
+**5.1.11- Adli Raporlar:**
+**5.1.11.1-** Adli Rapor formatı ve adli raporların tanziminde Bakanlığımızca yayımlanan 2005/143 sayılı Adli Tabiplik Hizmetlerinin Yürütülmesi konulu Genelge’de belirtilen esas ve formatlara uyulacaktır.
 Bu Genelge’nin güncellenmesi halinde uygulama yeni hükümlere göre yürütülecektir.
-5.2- Özel Düzenleme Bulunmayan Raporlar:
-5.2.1- Usul ve Esaslar’ın 2.1- Özel Düzenleme Bulunan Raporlar başlığı altında özel rapor formatı belirtilen durumlar dışında tüm raporların düzenlenmesinde şu kriterlere uyulacaktır.
+**5.2- Özel Düzenleme Bulunmayan Raporlar:**
+**5.2.1-** Usul ve Esaslar’ın 2.1- Özel Düzenleme Bulunan Raporlar başlığı altında özel rapor formatı belirtilen durumlar dışında tüm raporların düzenlenmesinde şu kriterlere uyulacaktır.
 Türkiye Kamu Hastaneleri Kurumuna bağlı hastaneler, üniversite hastaneleri, diğer kamu kurumlarına ait sağlık kurum ve kuruluşları ile Bakanlığımızca ruhsatlandırılmış özel hastaneler, özel tıp merkezleri ve birinci basamak sağlık hizmet sunucuları;
 a) İstirahat Raporlarını Ek-2’de yer alan rapor formatına,
 b) İlaç Kullanım Raporlarını Ek-3’te yer alan rapor formatına,
 c) Tıbbi Malzeme Raporlarını Ek-4’te yer alan rapor formatına,
 d) Durum Bildirir Sağlık Kurulu Raporlarını Ek-5’te yer alan rapor formatına,
 e) Durum Bildirir Tek Hekim Sağlık Raporlarını Ek-6’da yer alan rapor formatına, uygun olarak düzenleyecektir.
-5.2.2- Ek-6’da yer alan “Durum Bildirir Tek Hekim Sağlık Raporu’nun” birinci basamak sağlık hizmet sunucularında düzenlenmesinde aşağıdaki hükümler geçerlidir.
-5.2.2.1- Durum Bildirir Tek Hekim Sağlık Raporu almak için birinci basamak sağlık hizmet sunucularına müracaat edecek kişiler, öncelikle aile sağlığı merkezlerinden ve toplum sağlığı merkezlerinden veya www.thsk.gov.tr adresinden Ek-7’de yer alan, “Kişisel Sağlık Bilgi Formunu” temin edecektir.
+**5.2.2-** Ek-6’da yer alan “Durum Bildirir Tek Hekim Sağlık Raporu’nun” birinci basamak sağlık hizmet sunucularında düzenlenmesinde aşağıdaki hükümler geçerlidir.
+**5.2.2.1-** Durum Bildirir Tek Hekim Sağlık Raporu almak için birinci basamak sağlık hizmet sunucularına müracaat edecek kişiler, öncelikle aile sağlığı merkezlerinden ve toplum sağlığı merkezlerinden veya www.thsk.gov.tr adresinden Ek-7’de yer alan, “Kişisel Sağlık Bilgi Formunu” temin edecektir.
 Başvuru sahibinin bu formda sağlık durumuna (hastalık, şikâyet, aile öyküsü vb.) ilişkin bilgilerin yer aldığı alanları doldurup imzalaması gerekmektedir. Başvuru sahibi 18 yaş altında ise form, velileri veya yasal temsilcileri tarafından imzalanacaktır. Birinci basamak sağlık kuruluşlarına imzalanmış “Kişisel Sağlık Bilgi Formu” ile başvurmayan kişilerin muayeneleri yapılmayacak, rapor düzenlenmeyecektir.
-5.2.2.2- “Kişisel Sağlık Bilgi Formu” aile hekimleri tarafından aile hekimliği biriminde muhafaza edilecektir.
-5.2.3.- Sağlık Bakanlığına bağlı birinci basamak sağlık hizmet sunucularında düzenlenen raporlar için kişilerden ücret talep edilmeyecektir.
-5.2.4- Birinci basamak sağlık hizmet sunucuları tarafından düzenlenen tek hekim raporları, Aile Hekimliği Bilgi Sistemi (AHBS) üzerinden rapor verilme nedenine uygun şekilde elektronik olarak düzenlenecektir.
-5.2.5- Aile hekimliği sözleşmesi imzalayan aile hekimliği uzmanı ve diğer uzman hekimler aldıkları eğitim dâhilinde ilaç ve tıbbi malzeme kullanım raporları düzenleyebilecektir. Bu hususta Halk Sağlığı Müdürlüklerince gerekli tedbirler alınacaktır.
-6. ÖZEL SAĞLIK HİZMET SUNUCULARINDA SAĞLIK RAPORU DÜZENLENMESİ:
+**5.2.2.2-** “Kişisel Sağlık Bilgi Formu” aile hekimleri tarafından aile hekimliği biriminde muhafaza edilecektir.
+**5.2.3.-** Sağlık Bakanlığına bağlı birinci basamak sağlık hizmet sunucularında düzenlenen raporlar için kişilerden ücret talep edilmeyecektir.
+**5.2.4-** Birinci basamak sağlık hizmet sunucuları tarafından düzenlenen tek hekim raporları, Aile Hekimliği Bilgi Sistemi (AHBS) üzerinden rapor verilme nedenine uygun şekilde elektronik olarak düzenlenecektir.
+**5.2.5-** Aile hekimliği sözleşmesi imzalayan aile hekimliği uzmanı ve diğer uzman hekimler aldıkları eğitim dâhilinde ilaç ve tıbbi malzeme kullanım raporları düzenleyebilecektir. Bu hususta Halk Sağlığı Müdürlüklerince gerekli tedbirler alınacaktır.
+**6. ÖZEL SAĞLIK HİZMET SUNUCULARINDA SAĞLIK RAPORU DÜZENLENMESİ:**
 6.1- Özel sağlık hizmet sunucuları tedavi ettiği hastaların; istirahat/iş göremezlik raporlarını, tedavilerinde kullanılan ilaç, tıbbi cihaz ve malzeme kullanımına yönelik sağlık raporları ile sürücü/sürücü adayı sağlık raporlarını düzenleyebileceklerdir.
 6.2- Usulüne uygun olarak teşekkül ettirilmiş olsa bile özel sağlık hizmet sunucuları; engelli sağlık kurulu raporu, vergi muafiyeti raporu, yurt dışı tedavi raporu, maluliyet raporu, özel tertibatlı araç ithali amacıyla alınan raporlar gibi özellikli durum bildirir raporları veremezler.
 6.3- Özel sağlık hizmet sunucularında sağlık kurulu en az üç ayrı dal uzmanının (uzman hekim olması halinde mesul müdür dâhil olmak üzere) katılımı ile teşekkül ettirilir. Bu şekilde teşekkül ettirilen sağlık kurulunda verilecek sağlık kurulu raporları kurula katılan uzman hekimlerin uzmanlık dalları ile sınırlı olup diğer branşlar için sağlık kurulu raporu verilmesi mümkün değildir.
@@ -282,54 +282,54 @@ Başvuru sahibinin bu formda sağlık durumuna (hastalık, şikâyet, aile öyk�
 Kurul kararına katılmayan üye/üyeler rapora şerh ekleyerek imzalarlar.
 6.6- Sağlık kurulu muayeneleri, ilgili uzmanlık dallarına ait polikliniklerde yapılır. Laboratuvar tetkik sonuçları ve filmleri forma eklenir. Sağlık kurulu raporları 2 (iki) nüsha olarak düzenlenir ve bir nüshası raporu veren kurumda muhafaza edilir.
 6.7- Özel sağlık hizmet sunucuları tarafından verilecek sağlık raporları eklerde yer alan rapor formatlarına uygun olarak düzenlenecektir.
-7. RAPORLARA İTİRAZ:
-7.1- Sağlık Kurulu Raporlarına İtiraz İşlemleri:
-7.1.1- Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi, raporu isteyen kurum veyahut rapor neticesinde ortaya çıkan hukuki durumdan etkilenen kişiler/kurumlar tarafından itiraz edilebilir. İlgililer itiraz dilekçesi ve sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ilin il sağlık müdürlüğüne başvurur.
+**7. RAPORLARA İTİRAZ:**
+**7.1- Sağlık Kurulu Raporlarına İtiraz İşlemleri:**
+**7.1.1-** Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi, raporu isteyen kurum veyahut rapor neticesinde ortaya çıkan hukuki durumdan etkilenen kişiler/kurumlar tarafından itiraz edilebilir. İlgililer itiraz dilekçesi ve sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ilin il sağlık müdürlüğüne başvurur.
 İl sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirilmesini doğrudan yapabilir. Askerlik yükümlülüğüne tabi olanların itiraz müracaatları 7.4- Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Personelinin Sağlık Raporlarına İtiraz bölümündeki usul ve esaslara göre yürütülür.
-7.1.2- İl sağlık müdürlüğünce, sağlık raporu alacak kişi Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alan Bakanlığımıza bağlı aynı veya üst basamaktaki en yakın sağlık hizmet sunucusuna gönderilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir.
-7.1.3- İlk sağlık kurulu raporu ile itiraz sonrasında tayin edilen hakem hastanece düzenlenen ikinci sağlık raporu arasında çelişki olması halinde, kişi ilk rapor için itirazda bulunulan ilin il sağlık müdürlüğü tarafından Yataklı Tedavi Kurumları İşletme Yönetmelik’inin 29’uncu maddesi gereği Bakanlığımızca belirlenmiş Bölge Hakem Hastaneler Listesi’nde (Ek-20) yer alan ilgili branş/branşların bulunduğu en yakın hastanelerden birine sevk edilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir.
+**7.1.2-** İl sağlık müdürlüğünce, sağlık raporu alacak kişi Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alan Bakanlığımıza bağlı aynı veya üst basamaktaki en yakın sağlık hizmet sunucusuna gönderilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir.
+**7.1.3-** İlk sağlık kurulu raporu ile itiraz sonrasında tayin edilen hakem hastanece düzenlenen ikinci sağlık raporu arasında çelişki olması halinde, kişi ilk rapor için itirazda bulunulan ilin il sağlık müdürlüğü tarafından Yataklı Tedavi Kurumları İşletme Yönetmelik’inin 29’uncu maddesi gereği Bakanlığımızca belirlenmiş Bölge Hakem Hastaneler Listesi’nde (Ek-20) yer alan ilgili branş/branşların bulunduğu en yakın hastanelerden birine sevk edilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir.
 İl sağlık müdürlüğü tarafından Bölge Hakem Hastaneler Listesi’nden hakem hastane belirlenirken ikinci raporu düzenleyen hastaneye göre itiraza konu kararın verildiği branş/branşların var ise eğitim kliniği düzeyinde olması tercih sebebidir.
-7.1.4- İtiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alıyor ise kişi listede yer alan aynı veya üst basamaktaki Bakanlığımıza bağlı diğer en yakın hastaneye sevk edilir. Rapor bölge hakem Hastanelerinden biri tarafından düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir. Sağlık raporları arasında çelişki olması halinde, en yakın farklı bir bölge hakem hastaneye, sağlık kurulu raporu tanzim edilmesi amacıyla yine il sağlık müdürlüğü kanalıyla kişi gönderilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir
-7.1.5- Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafından raporu tanzim eden sağlık hizmet sunucusuna, rapor iade edilir. İlgili sağlık hizmet sunucusu sağlık kurulu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez.
-7.2- Devlet Memurlarına Düzenlenen Tek Hekim Veya Sağlık Kurulu İstirahat Raporlarına İtiraz İşlemleri:
-7.2.1- İstirahat raporlarının fenne aykırı olduğu konusunda tereddüt bulunması hâlinde, memur hastalık izni kullanıyor sayılmakla birlikte, bağlı bulunduğu kurumca doğrudan Bakanlığımızca belirlenen
+**7.1.4-** İtiraza konu sağlık kurulu raporunu ilk düzenleyen hastane aynı zamanda Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alıyor ise kişi listede yer alan aynı veya üst basamaktaki Bakanlığımıza bağlı diğer en yakın hastaneye sevk edilir. Rapor bölge hakem Hastanelerinden biri tarafından düzenlenmiş ise kişi diğer en yakın bölge hakem hastanelerinden birine sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir. Sağlık raporları arasında çelişki olması halinde, en yakın farklı bir bölge hakem hastaneye, sağlık kurulu raporu tanzim edilmesi amacıyla yine il sağlık müdürlüğü kanalıyla kişi gönderilir. Bölge hakem hastanenin sağlık kurulunca verilen karar kesindir
+**7.1.5-** Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafından raporu tanzim eden sağlık hizmet sunucusuna, rapor iade edilir. İlgili sağlık hizmet sunucusu sağlık kurulu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez.
+**7.2- Devlet Memurlarına Düzenlenen Tek Hekim Veya Sağlık Kurulu İstirahat Raporlarına** İtiraz İşlemleri:
+**7.2.1-** İstirahat raporlarının fenne aykırı olduğu konusunda tereddüt bulunması hâlinde, memur hastalık izni kullanıyor sayılmakla birlikte, bağlı bulunduğu kurumca doğrudan Bakanlığımızca belirlenen
 Engelli Sağlık Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alan sağlık hizmet sunucularından memurun bulunduğu yere en yakın aynı veya üst basamaktaki Bakanlığımıza bağlı bir hastaneye sevk edilir ve sonucuna göre işlem yapılır.
-7.2.2- İtiraza konu istirahat raporunu ilk düzenleyen hastane aynı zamanda Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alıyor ise kişi listede yer alan aynı veya üst basamaktaki Bakanlığımıza bağlı diğer en yakın hastaneye sevk edilir.
-7.2.3- Devlet memurlarına düzenlenen istirahat raporlarına yönelik yapılan itirazlar sevkin yapıldığı hakem hastanenin sağlık kurulunca değerlendirilir. Hakem hastane sağlık kurulları bu nitelikteki başvuruları öncelikle sonuçlandırır.
-7.2.4- Hakem hastanenin sağlık kurul kararı kesindir. Bu karara itiraz edilemez.
-7.2.5- Hakem hastaneye sevk edilen kişi sevk yazısı ile birlikte ilgili hastaneye doğrudan müracaat edecektir.
-7.2.6- Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafından raporu tanzim eden sağlık hizmet sunucusuna, rapor iade edilir. İlgili sağlık hizmet sunucusu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez.
-7.3- Sürücü Raporlarına İtiraz:
-7.3.1- Raporlara; adına rapor düzenlenen kişi, raporu isteyen kurum veyahut rapor neticesinde ortaya çıkan hukuki durumdan etkilenen kurumlar tarafından itiraz edilebilir. Rapora itiraz, raporun verildiği ilin il sağlık müdürlüğüne yapılır.
-7.3.2- Aile hekimleri sürücülüğe engel hali tespit edilen veya hakkında karar verilemeyen sürücü/ sürücü adayını ilgili uzman tabip/tabiplere gönderebilir. Aile hekimlerinin bu kararına itiraz edilemez.
-7.3.3- Raporun III. Kısmında raporun olumsuz olmasına neden olan uzman hekim/hekimlerin kararlarına itiraz, raporun düzenlendiği ilin il sağlık müdürlüğüne yapılır. İl sağlık müdürlüğü kişiyi, en yakın ilgili branş/branşlarda üçer uzmanın bulunduğu Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alan Bakanlığımıza bağlı aynı veya üst basamaktaki sağlık hizmet sunucusuna sevk eder.
-7.3.4- İtiraza konu sürücü raporunu ilk düzenleyen hastane aynı zamanda Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alıyor ise kişi listede yer alan aynı veya üst basamaktaki diğer en yakın hastaneye sevk edilir.
-7.3.5- Kişinin veya kurumun sevk sonucu düzenlenen rapora da itirazının olması durumunda;
+**7.2.2-** İtiraza konu istirahat raporunu ilk düzenleyen hastane aynı zamanda Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alıyor ise kişi listede yer alan aynı veya üst basamaktaki Bakanlığımıza bağlı diğer en yakın hastaneye sevk edilir.
+**7.2.3-** Devlet memurlarına düzenlenen istirahat raporlarına yönelik yapılan itirazlar sevkin yapıldığı hakem hastanenin sağlık kurulunca değerlendirilir. Hakem hastane sağlık kurulları bu nitelikteki başvuruları öncelikle sonuçlandırır.
+**7.2.4-** Hakem hastanenin sağlık kurul kararı kesindir. Bu karara itiraz edilemez.
+**7.2.5-** Hakem hastaneye sevk edilen kişi sevk yazısı ile birlikte ilgili hastaneye doğrudan müracaat edecektir.
+**7.2.6-** Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafından raporu tanzim eden sağlık hizmet sunucusuna, rapor iade edilir. İlgili sağlık hizmet sunucusu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez.
+**7.3- Sürücü Raporlarına İtiraz:**
+**7.3.1-** Raporlara; adına rapor düzenlenen kişi, raporu isteyen kurum veyahut rapor neticesinde ortaya çıkan hukuki durumdan etkilenen kurumlar tarafından itiraz edilebilir. Rapora itiraz, raporun verildiği ilin il sağlık müdürlüğüne yapılır.
+**7.3.2-** Aile hekimleri sürücülüğe engel hali tespit edilen veya hakkında karar verilemeyen sürücü/ sürücü adayını ilgili uzman tabip/tabiplere gönderebilir. Aile hekimlerinin bu kararına itiraz edilemez.
+**7.3.3-** Raporun III. Kısmında raporun olumsuz olmasına neden olan uzman hekim/hekimlerin kararlarına itiraz, raporun düzenlendiği ilin il sağlık müdürlüğüne yapılır. İl sağlık müdürlüğü kişiyi, en yakın ilgili branş/branşlarda üçer uzmanın bulunduğu Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alan Bakanlığımıza bağlı aynı veya üst basamaktaki sağlık hizmet sunucusuna sevk eder.
+**7.3.4-** İtiraza konu sürücü raporunu ilk düzenleyen hastane aynı zamanda Engelli Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları Listesi’nde yer alıyor ise kişi listede yer alan aynı veya üst basamaktaki diğer en yakın hastaneye sevk edilir.
+**7.3.5-** Kişinin veya kurumun sevk sonucu düzenlenen rapora da itirazının olması durumunda;
 Yataklı Tedavi Kurumları İşletme Yönetmelik’inin 29’uncu maddesi gereği bölge bazlı belirlenmiş Ek- 20’de yer alan, itiraza konu ilgili branş/branşların eğitim kliniğinin bulunduğu en yakın hastanelerden birine, il sağlık müdürlüğü kanalıyla gönderilir. Bölge hakem hastanesince verilen karar kesin olup kişinin bu karara itiraz hakkı yoktur.
-7.3.6- Özel tertibatlı motorlu araç kullanması gerekli görülen kişiler için özel tertibat kod numarası ile hangi sınıf sürücü belgesinin alınabileceğine karar veren il/ilçe sağlık müdürlüğü bünyesinde
+**7.3.6-** Özel tertibatlı motorlu araç kullanması gerekli görülen kişiler için özel tertibat kod numarası ile hangi sınıf sürücü belgesinin alınabileceğine karar veren il/ilçe sağlık müdürlüğü bünyesinde
 oluşturulan komisyon kararlarına (Rapor IV. Kısım) itirazlar için; en yakın il sağlık müdürlüğüne kişi sevk edilir. Sevk edilen il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararı ile ilk komisyon kararı aynı yönde ise karar kesinleşir.
-7.3.7- Kararlar arası çelişki olması ve itiraz bulunması halinde;
+**7.3.7-** Kararlar arası çelişki olması ve itiraz bulunması halinde;
 Marmara Bölgesinde .................................İstanbul İl Sağlık Müdürlüğü, Ege Bölgesinde ..........................................İzmir İl Sağlık Müdürlüğü, İç Anadolu Bölgesinde ..............................Ankara İl Sağlık Müdürlüğü, Akdeniz Bölgesinde ..................................Antalya İl Sağlık Müdürlüğü, Karadeniz Bölgesinde................................Samsun İl Sağlık Müdürlüğü, Güneydoğu Anadolu Bölgesinde ..............Gaziantep İl Sağlık Müdürlüğü, Doğu Anadolu Bölgesinde ........................Malatya İl Sağlık Müdürlüğü, hakem olarak tayin edilmiştir. Hakem tayin edilmiş il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararları kesindir, itiraz edilemez. Bölge hakem il sağlık müdürlüklerine sevkler son komisyon kararının verildiği ilin il sağlık müdürlüğünce yapılır.
-7.3.8- Hakem tayin edilen il sağlık müdürlükleri bünyesinde oluşturulan komisyonun ilk başvuru yapılan komisyon olması ve bu komisyon kararına itiraz edilmesi halinde, kişi öncelikle en yakın il sağlık müdürlüğüne sevk edilir. Sevk edilen il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararı ile ilk komisyon kararı aynı yönde ise karar kesinleşir. Kararlar arası çelişki olması ve itiraz bulunması halinde kişi diğer bölgedeki hakem olarak belirlenmiş il sağlık müdürlüğüne gönderilir. Hakem tayin edilmiş il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararları kesindir, itiraz edilemez.
-7.3.9- Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafından raporu tanzim eden sağlık hizmet sunucusuna, rapor iade edilir. İlgili sağlık hizmet sunucusu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez.
-7.4- Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı Personelinin Sağlık Raporlarına İtiraz:
+**7.3.8-** Hakem tayin edilen il sağlık müdürlükleri bünyesinde oluşturulan komisyonun ilk başvuru yapılan komisyon olması ve bu komisyon kararına itiraz edilmesi halinde, kişi öncelikle en yakın il sağlık müdürlüğüne sevk edilir. Sevk edilen il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararı ile ilk komisyon kararı aynı yönde ise karar kesinleşir. Kararlar arası çelişki olması ve itiraz bulunması halinde kişi diğer bölgedeki hakem olarak belirlenmiş il sağlık müdürlüğüne gönderilir. Hakem tayin edilmiş il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararları kesindir, itiraz edilemez.
+**7.3.9-** Yazım hataları, imza eksikliği, doldurulması gereken alanların doldurulmaması, kişi bilgilerinin hatalı olması gibi (karar hükmü hariç) eksikliklerin veya usul hatalarının bulunduğu durumlarda, raporu talep eden kişi veya kurum tarafından raporu tanzim eden sağlık hizmet sunucusuna, rapor iade edilir. İlgili sağlık hizmet sunucusu, rapor iadesinin nedenlerini (karar hükmü hariç) değerlendirir, bir yanlışlık yapıldığını tespit ederse gereken düzeltmeyi yapar. Bu durumlar rapora itiraza ilişkin başvuru sayısına dâhil edilmez.
+**7.4- Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı** Personelinin Sağlık Raporlarına İtiraz:
 a) Raporlara itirazlar 7.1- Sağlık Kurulu Raporlarına İtiraz İşlemleri bölümünde belirtilen usul ve esaslara göre yürütülecektir. Ancak yükümlülerin (silahaltındaki erbaş ve erler ile yedek subaylar dahil) “Askerliğe elverişli değildir.” personel ve öğrencilerin (adaylar hariç) “….. görev yapamaz.” ve “Öğrenciliğe devam edemez” kararı bulunan sağlık kurulu raporlarına onay/inceleme makamlarınca (SMY’nin 3’üncü bölümünde belirtilen) işlem yapılmadan itiraz edilemez.
 b) Askerlik yükümlülüğüne tabi (yoklama ve sevk dönemindeki yükümlüler, silahaltındaki erbaş ve erler ile yedek subaylar dâhil) olanlar hakkında verilen “Askerliğe Elverişlidir”, “Ertesi Yıla Bırakma”, “Sevk Tehiri” ve “Askerliğe Elverişli Değildir” kararlı raporlara yapılacak itirazlar askerlik şubelerine, “İstirahat” veya “Hava Değişimi” kararlı raporlara yapılacak itirazlar ise ilgili sağlık kuruluşuna sevki yapan askerlik şubesi ise askerlik şubesine, birlik komutanlığı/kurum amirliği ise birlik komutanlığı/kurum amirliğine yapılır. Doğrudan il sağlık müdürlüklerine yapılan itirazlara herhangi bir işlem yapılmaz.
 c) Askerlik yükümlülüğüne tabi olanlar hakkında aile hekimleri veya tek tabipler tarafından verilen
-“Askerliğe Elverişlidir” veya “10 güne kadar (dâhil) “istirahat” kararlı raporlara itiraz halinde, sağlık kuruluşuna sevki yapan askerlik şubeleri veya birlik komutanlıkları/kurum amirliklerince, yükümlüler sağlık kurulu raporu aldırılmak üzere en yakın “Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları”na sevk edilir.
+<i>“Askerliğe Elverişlidir”</i> veya “10 güne kadar (dâhil) “istirahat” kararlı raporlara itiraz halinde, sağlık kuruluşuna sevki yapan askerlik şubeleri veya birlik komutanlıkları/kurum amirliklerince, yükümlüler sağlık kurulu raporu aldırılmak üzere en yakın “Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Kurulu Raporu Vermeye Yetkili Sağlık Kuruluşları”na sevk edilir.
 d) Sevk edildikleri hastane sağlık kurullarınca haklarında verilen “Askerliğe Elverişlidir” “Ertesi Yıla Bırakma”, “Sevk Tehiri”, “Askerliğe Elverişli Değildir” ve “10 günden fazla süreli “İstirahat/Hava Değişimi” raporlarına yükümlülerin itirazları veya rapor kararlarındaki tanı ve karar uyumsuzluğu nedeniyle kontrol muayenesi başlatılmasının gerekmesi halinde; askerlik şubeleri veya birlik komutanlıkları/kurum amirliklerince yükümlülerin dilekçeleri alınarak, itiraz edilen/tanı ve karar uyumsuzluğu bulunan rapor/ raporların tasdikli bir/birer örneği ile birlikte hakem muayenesi için sevk edileceği hastanenin bildirilmesi itiraz edilen raporu (tanı ve karar uyumsuzluğu nedeniyle kontrol muayenesi başlatılması gereken raporlarda ise ilk raporu) tanzim eden hastanenin bulunduğu yerdeki il sağlık müdürlüğünden talep edilir.
 İl sağlık müdürlüklerince belirlenen hakem hastane talepte bulunan makama bildirilir ve hakem hastaneye kişinin sevki talebi yapan makamlarca yerine getirilir.
 e) Rapora itiraz eden kişi, kontrol muayenesi işlemlerinin hangi aşamasında olursa olsun itirazından vazgeçerse, itirazını yaptığı makama veya muayene emrini veren makama dilekçe ile başvurur. Kontrol muayenesini yaptıran makam bu dilekçe ile kontrol muayenesi işlemini sonlandırabilir.
-7.4.2- Uçucu ve Dalgıç/Denizaltıcı Sınıfı Sağlık Kurulu Raporlarına İtiraz:
-7.4.2.1- Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi veyahut raporu isteyen kurum tarafından itiraz edilebilir. İlgililer itiraz dilekçesi ve ilk sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ilin il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirilmesini doğrudan yapabilir.
-7.4.2.2- Uçucu sağlık raporları ile dalgıç/denizaltıcı sağlık kurulu raporlarına yapılan itirazlarda, Gülhane Eğitim ve Araştırma Hastanesi ile Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesi hakem hastane olarak yetkilendirilmiştir.
-7.4.2.3- Hakem hastaneler (Gülhane Eğitim ve Araştırma Hastanesi ile Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesi) dışında Uçucu, Denizaltıcı ve Dalgıç Sınıfı Raporları Vermeye Yetkili Hastaneler Listesi’nde yer alan sağlık hizmet sunucularında düzenlenen raporlara itiraz halinde; Gülhane Eğitim ve Araştırma Hastanesi veya Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesine kişi sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir.
-7.4.2.4- Sağlık raporları arasında çelişki olması halinde ilk itirazda sevkin yapılmadığı Gülhane Eğitim ve Araştırma Hastanesi veya Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesinden birine kişi yeniden il sağlık müdürlüğü aracılığı ile sevk edilir. Bu hastanenin sağlık kurulunun verdiği karar kesindir ve bu karara itiraz edilemez.
-7.4.2.5- Gülhane Eğitim ve Araştırma Hastanesi veya Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesinden biri tarafından tanzim edilmiş raporlara itiraz halinde; öncelikle bu hastaneler dışında Uçucu, Denizaltıcı ve Dalgıç Sınıfı Raporları Vermeye Yetkili Hastaneler Listesi’nde yer alan en yakın sağlık hizmet sunucularından birine kişi sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir.
+**7.4.2- Uçucu ve Dalgıç/Denizaltıcı Sınıfı Sağlık Kurulu Raporlarına İtiraz:**
+**7.4.2.1-** Raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi veyahut raporu isteyen kurum tarafından itiraz edilebilir. İlgililer itiraz dilekçesi ve ilk sağlık raporunun tasdikli bir örneği ile birlikte, itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmet sunucusunun bulunduğu ilin il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirilmesini doğrudan yapabilir.
+**7.4.2.2-** Uçucu sağlık raporları ile dalgıç/denizaltıcı sağlık kurulu raporlarına yapılan itirazlarda, Gülhane Eğitim ve Araştırma Hastanesi ile Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesi hakem hastane olarak yetkilendirilmiştir.
+**7.4.2.3-** Hakem hastaneler (Gülhane Eğitim ve Araştırma Hastanesi ile Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesi) dışında Uçucu, Denizaltıcı ve Dalgıç Sınıfı Raporları Vermeye Yetkili Hastaneler Listesi’nde yer alan sağlık hizmet sunucularında düzenlenen raporlara itiraz halinde; Gülhane Eğitim ve Araştırma Hastanesi veya Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesine kişi sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir.
+**7.4.2.4-** Sağlık raporları arasında çelişki olması halinde ilk itirazda sevkin yapılmadığı Gülhane Eğitim ve Araştırma Hastanesi veya Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesinden birine kişi yeniden il sağlık müdürlüğü aracılığı ile sevk edilir. Bu hastanenin sağlık kurulunun verdiği karar kesindir ve bu karara itiraz edilemez.
+**7.4.2.5-** Gülhane Eğitim ve Araştırma Hastanesi veya Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesinden biri tarafından tanzim edilmiş raporlara itiraz halinde; öncelikle bu hastaneler dışında Uçucu, Denizaltıcı ve Dalgıç Sınıfı Raporları Vermeye Yetkili Hastaneler Listesi’nde yer alan en yakın sağlık hizmet sunucularından birine kişi sevk edilir. İtiraz edilen sağlık raporu ile itiraz üzerine verilen sağlık raporundaki kararlar aynı yönde ise sağlık raporu kesinleşir.
 Ancak sağlık raporları arasında çelişki olması halinde; ilk rapor Gülhane Eğitim ve Araştırma Hastanesinde düzenlenmiş ise Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesi, Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesinde düzenlenmiş ise Gülhane Eğitim ve Araştırma Hastanesi hakem hastane olarak belirlenir. Hakem hastane olarak belirlenen bu hastanelerin sağlık kurulunca verilen karar kesindir ve bu karara itiraz edilemez.
-7.5- Engelli Sağlık Kurulu Raporlarına İtiraz:
-7.5.1- Engelli Sağlık Raporlarına itiraz halinde; Engellilik Ölçütü, Sınıflandırması ve Engellilere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik’ in 10 uncu “Özürlü sağlık kurulu raporuna itiraz” maddesine göre işlem tesis edilir.
-8. GENEL HÜKÜMLER
+**7.5- Engelli Sağlık Kurulu Raporlarına İtiraz:**
+**7.5.1-** Engelli Sağlık Raporlarına itiraz halinde; Engellilik Ölçütü, Sınıflandırması ve Engellilere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik’ in 10 uncu “Özürlü sağlık kurulu raporuna itiraz” maddesine göre işlem tesis edilir.
+**8. GENEL HÜKÜMLER**
 8.1- Başvuru sahibi tarafından beyan edilmeyen ya da hekimin fiziki muayenesi sırasında belirti ve bulgusuna rastlanmayan çeşitli hastalık ve rahatsızlıkların saptanması için ileri laboratuvar, görüntüleme tetkiklerinin yapılması gerekli değildir. Muayene tarihinde başvuru sahiplerinin haricen sağlam bulunmaları, tam sağlıklı olduklarını göstermez ve raporun düzenlenmesi sonrasında saptanabilecek hastalık ve rahatsızlıkların raporun düzenlendiği tarihte ortaya çıktığının kanıtı sayılamaz. Ayrıca, kişilerin beyan ettiği ya da fizik muayene ile saptanan hastalık veya rahatsızlıkların ileri tetkik ve tedavi gerektirmesi durumunda kişiler ilgili sağlık kurum/kuruluşlarına yönlendirilir.
 8.2- Elektronik olarak düzenlen raporlar, elektronik imza çalışmaları tamamlanıncaya kadar bir çıktısı alınarak düzenleyen hekim/hekimlerin ıslak imza ve kaşesinden sonra arşivlenecek ve istenilmesi halinde (istisnalar hariç) kişiye verilecektir.
 8.3- Fotoğraf bölümünün yer almadığı rapor formatlarında, raporun tedavi edilen kişiye ait olup olmadığının tespiti amacıyla “T.C Kimlik Numarası” hanesi yer almakta olup, ayrıca hastanın fotoğrafının bulunmasına gerek yoktur.
@@ -339,7 +339,7 @@ Ancak sağlık raporları arasında çelişki olması halinde; ilk rapor Gülhan
 8.7- Devlet memurlarına ve kamu görevlilerine sağlık hizmet sunucularında yatarak tedavilerinden sonra “İş Göremezlik Uygulaması (e-rapor)” üzerinden düzenlenen istirahat raporlarında Personel Bilgi Sistemlerine girildiğinde gün boşluğu ya da gün atlaması gibi sorunlar yaşanmaması için; personelin tedavi merkezinden taburcu edildiği tarihin ‘‘hastanede yatış’’ olarak kabul edilmesi ve sisteme işlenirken de taburcu tarihinden sonraki ilk iş günü göreve başlaması gerekmektedir. Sistem kayıtlarına da taburcu edildiği günün ertesi iş günü işe başlama kaydı yapılacaktır.
 8.8- Düzenlenen istirahat raporlarında takvim günü esastır. Takvim günü saat 00.00’dan 23.59’a kadar olan süreyi kapsar. Kişiye mesai sonrası (Örneğin: saat 20.00) dahi rapor verilmiş ise raporun birinci günü raporun tanzim edildiği gün saat 23.59’da sona erer.
 8.9- Sağlık hizmet sunucularınca formatlarda yer alan durumlar dışında mühür ve başhekim onayı aranmayacak, başkaca bir rapor formatı kullanılmayacaktır. Başhekim onay ve mühür işlemleri dışında kalan uygulamalara (kayıt, arşivleme, vb.) aynen devam edilecektir.
-8.10- Tüm sağlık hizmet sunucuları eklerde yer verilen rapor formatlarının içerik ve şekil şartlarına aynen uymak zorundadır. Rapor formatlarında istenilen bilgiler eksiksiz doldurulacaktır.
+**8.10-** Tüm sağlık hizmet sunucuları eklerde yer verilen rapor formatlarının içerik ve şekil şartlarına aynen uymak zorundadır. Rapor formatlarında istenilen bilgiler eksiksiz doldurulacaktır.
 9. YÜRÜRLÜKTEN KALDIRILAN MEVZUAT
 a) 07.05.2004 tarih ve 2004/67 sayılı Genelge.
 b) 26.09.2014 tarihli 2014/29 sayılı Genelge
@@ -351,15 +351,15 @@ g) 22.07.2016 tarih 2016/12 sayılı Genelge.
 h) 08.01.2016 tarih ve E.09 sayılı Duyuru.
 i) 25.10.2016 tarih E.2452 sayılı Duyuru.
 yürürlükten kaldırılmıştır.
-10. YÜRÜRLÜK
-10.1- Sağlık Raporlarına İlişkin Usul ve Esaslar yayımlandığı gün yürürlüğe girer.
-EK-1 Kimlik Tespiti Hakkında Duyuru
+**10. YÜRÜRLÜK**
+**10.1-** Sağlık Raporlarına İlişkin Usul ve Esaslar yayımlandığı gün yürürlüğe girer.
+**EK-1 Kimlik Tespiti Hakkında Duyuru**
 EK-1 Kimlik Tespiti Hakkında Duyuru
 EK-2 İstirahat Rapor Formatı
 EK- 2
 EK-2 Sağlık Bakanlığı Hastane/Kurum ……………. HASTANESİ BAŞHEKİMLİĞİ/ Birimleri için Amblemi ……………..MESUL MÜDÜRLÜĞÜ/ Bakanlık …….İLİ …….TOPLUM SAĞLIĞI MERKEZİ …. AİLE Amblemi
 HEKİMLİĞİ BİRİMİ
-İSTİRAHAT RAPORU BAŞVURU SAHİBİNİN:
+**İSTİRAHAT RAPORU** BAŞVURU SAHİBİNİN:
 Adı-Soyadı: T.C. Kimlik No:
 Baba Adı : Muayene Tarihi ve Saati:
 Doğum Tarihi: Poliklinik/Servis:
@@ -379,7 +379,7 @@ EK-3 İlaç Kullanım Raporu
 EK- 3
 EK-3 Sağlık Hastane ……………. HASTANESİ BAŞHEKİMLİĞİ/ Bakanlığı Amblemi/Kurum ……………..MESUL MÜDÜRLÜĞÜ/ Birimleri için Amblemi Bakanlık ……. İLİ ….TOPLUM SAĞLIĞI MERKEZİ…..AİLE HEKİMLİĞİ Amblemi
 BİRİMİ
-İLAÇ KULLANIM RAPORU BAŞVURU SAHİBİNİN:
+**İLAÇ KULLANIM RAPORU** BAŞVURU SAHİBİNİN:
 Adı-Soyadı: T.C. Kimlik No:
 Baba Adı: Muayene Tarihi:
 Doğum Tarihi: Poliklinik:
@@ -398,7 +398,7 @@ EK-4 Tıbbi Malzeme Raporu Formatı
 EK- 4
 EK-4 Sağlık Bakanlığı Hastane ……………. HASTANESİ BAŞHEKİMLİĞİ/ Birimleri için Amblemi/Kurum ……………..MESUL MÜDÜRLÜĞÜ/ Bakanlık Amblemi …….İLİ …….TOPLUM SAĞLIĞI MERKEZİ …. AİLE Amblemi
 HEKİMLİĞİ BİRİMİ
-TIBBİ MALZEME RAPORU BAŞVURU SAHİBİNİN:
+**TIBBİ MALZEME RAPORU** BAŞVURU SAHİBİNİN:
 Adı-Soyadı: T.C. Kimlik No:
 Baba Adı: Muayene Tarihi:
 Doğum Tarihi: Poliklinik:
@@ -413,7 +413,7 @@ Hastanın yukarıda belirtilen hastalığı ile ilgili sıralanan malzemeyi …�
 * Hekim sayısı tıbbi malzemenin niteliğine göre belirlenecek olup, hekim imza adedi daha az veya fazla olabilir. ( Tek hekimle düzenlenecek raporlarda bir hekimin kaşe ve imzası yeterli kabul edilecektir.)
 EK-5 -Durum Bildirir Sağlık Kurul Rapor Formatı
 EK-5 EK-5 Sağlık Bakanlığı ……………. HASTANESİ BAŞHEKİMLİĞİ/ Hastane/Kurum Hastaneleri için Amblemi ……………..MESUL MÜDÜRLÜĞÜ Bakanlık Amblemi
-DURUM BİLDİRİR SAĞLIK KURULU RAPORU BAŞVURU SAHİBİNİN:
+**DURUM BİLDİRİR SAĞLIK KURULU RAPORU** BAŞVURU SAHİBİNİN:
 Adı-Soyadı: T.C. Kimlik No:
 Baba Adı : Muayene Tarihi Saati:
 Doğum Tarihi Poliklinik/Servis:
@@ -429,7 +429,7 @@ KARAR:
 *Hekim sayısı durum bildirir raporun niteliğine göre belirlenecek olup, hekim imza adedi daha az veya fazla olabilir.
 EK-6 Durum Bildirir Tek HekimE RKa-p6o r u Formatı
 EK- 6 ……………. HASTANESİ BAŞHEKİMLİĞİ/ …………..……………..MESUL MÜDÜRLÜĞÜ/ Sağlık Bakanlığı Kurum Amblemi …….İLİ …….TOPLUM SAĞLIĞI MERKEZİ/ Amblemi ……………………. AİLE HEKİMLİĞİ BİRİMİ
-DURUM BİLDİRİR TEK HEKİM SAĞLIK RAPORU VERİLME NEDENİ:
+**DURUM BİLDİRİR TEK HEKİM SAĞLIK RAPORU** VERİLME NEDENİ:
   
 SPOR LİSANSI YİVSİZ AV TÜFEĞİ AKLİ MELEKE  KURUM VE KURULUŞLARA (Okul, Yurt vb. ) VERİLMEK ÜZERE BAŞVURU SAHİBİNİN:
 Adı ve Soyadı: T.C. Kimlik Numarası:
@@ -446,36 +446,36 @@ KARAR :
 HEKİM-KAŞE-İMZA
 EK-7 Kişiye Ait Sağlık Bilgi Formu
 EK-7
-DURUM BİLDİRİR TEK HEKİM RAPORU İÇİN
-KİŞİYE AİT SAĞLIK BİLGİ FORMU Tarih : __ __ /__ __ / __ __ __ __ RAPOR İSTEK NEDENİ:
+**DURUM BİLDİRİR TEK HEKİM RAPORU İÇİN**
+**KİŞİYE AİT SAĞLIK BİLGİ FORMU** Tarih : __ __ /__ __ / __ __ __ __ RAPOR İSTEK NEDENİ:
 □ □ □ □ SPOR LİSANSI YİVSİZ AV TÜFEĞİ AKLİ MELEKE KURUM VE KURULUŞLARA (Okul, Yurt vb. ) VERİLMEK ÜZERE Bu form kişinin kendisi/yasal temsilcisi,18 yaş altında ise velisi/yasal temsilcisitarafından doldurularak imzalanacaktır.
 Gözlük kullanıyorsanız muayeneye gözlük ile gelmeniz gerekmektedir.
 Genel Bilgiler Adı Soyadı: _______________ / _________________ T.C. Kimlik : ____________________________________ □ □ Medeni Durumu: Evli Bekar Boy: __ __ Kilo: __ __ Doğum Tarihi: ____ /____ /_____ □ □ □ □ Öğrenim Durumu: ilk-orta-lise yüksek okul ve üzeri okur yazar okur yazar değil Mesleği : _____________ Öğrenci ise Okulu-Sınıfı: _____________ Kan Grubu: __ __Telefon No: _____________ Ades:_______________________________________________________________________________________________________________________ _______________________________________________________________________________ Aile bireylerinin/yakın akrabalarının sağlık durum bilgileri Var / Açıklayınız: Yok Alerji Kas, eklem, tendon hastalıkları 50 yaşından önce ani/nedeni belirlenemeyen ölüm Kalp hastalığı nedeniyle ani ölüm Uzun süreli enfeksiyon hastalıkları (verem, brucella, mantar, hepatitvb.) Kronik hastalık- Kanser (kalp-damar, böbrek hastalığı, tansiyon,şeker hastalığı, guatr, astım, KOAH vb.) Ruhsal hastalık Başvuru sahibinin sağlık durum bilgileri Evet/Açıklama Hayır Duyu organları Göz: Görme kusuru, gece körlüğü, şaşılık, göz tansiyonu, çift görme, renk körlüğü vb.
 Kulak: İşitme güçlüğü, kaybı, kulak ağrısı, akıntı, çınlama vb.
-Kalp-damar sistemi / Kan hastalıkları Kalp/kapak hastalıkları, kalp yetmezliği, ritim bozukluğu vb. hastalıklar Egzersiz, spor yaparken herhangi bir şikayet: göğüste rahatsızlık, ağrı, sıkışma, baskı hissi, çarpıntı, dudaklarda morarma, baş dönmesi, bayılma vb.
+**Kalp-damar sistemi / Kan hastalıkları** Kalp/kapak hastalıkları, kalp yetmezliği, ritim bozukluğu vb. hastalıklar Egzersiz, spor yaparken herhangi bir şikayet: göğüste rahatsızlık, ağrı, sıkışma, baskı hissi, çarpıntı, dudaklarda morarma, baş dönmesi, bayılma vb.
 Çabuk yorulma, bayılma Kan basıncı (tansiyon) düşüklüğü/yüksekliği Anemi (kansızlık), hemofili vb. hastalıklar Yaralanma ve kesiklerde (uzun süren) kanama, sık burun kanaması vb.
-Solunum sistemi Astım, KOAH vb. hastalıklar Nefes darlığı, öksürük, balgam çıkarma vb.
-Sindirim Sistemi ve Metabolizma Çölyak, ülser, bağırsak hastalıkları vb.
+**Solunum sistemi** Astım, KOAH vb. hastalıklar Nefes darlığı, öksürük, balgam çıkarma vb.
+**Sindirim Sistemi ve Metabolizma** Çölyak, ülser, bağırsak hastalıkları vb.
 Karın ağrısı, ishal, kabızlık… Düzenli olarak alınan gıda takviyesi, uygulanan diyet Kas-İskelet Sistemi Kas, eklem, tendon ve romatizmal hastalıkları Kas güçsüzlüğü, kramp, ağrı, hareket kısıtlılığı
-EK-7 Kişiye Ait Sağlık Bilgi Formu
+**EK-7** Kişiye Ait Sağlık Bilgi Formu
 EK-7 Evet/Açıklama Hayır Sinir Sistemi Felç, sara (epilepsi), bunamavb. hastalıklar Ellerde titreme, vücudun herhangi bir yerinde uyuşma karıncalanma, güç-his kaybı vb.
 Sık ve şiddetli baş ağrısı, baş dönmesi, titreme, denge kaybı Enfeksiyon Hastalıkları Uzun süreli enfeksiyon hastalıkları: Verem,cüzzam,brucella,mantar,hepatit(A-B-C..)vb.
 Sık geçirilen enfeksiyon hastalıkları: Bademcik, kulak, idrar yolu iltihabı vb.
 Bağırsak paraziti: solucan, kurt, şerit vb.
-Hormonaldurum Şeker, guatr vb. hastalıklar Sık idrar, çok su içme, ellerde titreme vb.
-Genito- üriner sistem Kronik böbrek yetmezliği, nefrit, taş ve kistik hastalıklar vb.
+**Hormonaldurum** Şeker, guatr vb. hastalıklar Sık idrar, çok su içme, ellerde titreme vb.
+**Genito- üriner sistem** Kronik böbrek yetmezliği, nefrit, taş ve kistik hastalıklar vb.
 Sık idrara çıkma, idrar yaparken yanma, akıntı vb.
 İnmemiş testis (7 yaş altı çocuklar için) Ruh sağlığı Otizm, dikkat bozukluğu, hiperaktivite, depresyon, şizofreni vb. hastalıklar Diğer Düzenli olarak alınan ilaç- tedavi Gıda, ilaç, böcek vb. alerji öyküsü Spor/trafik/ev kazası öyküsü Ameliyat öyküsü Karaciğer, böbrek vb. organ yetmezliği, diyaliz Varsa kanser tanısı Vücutta şişlik (koltuk altında, kasıklarda, boyunda), morluk Son zamanlarda aşırı kilo kaybı, iştahsızlık Diş ve diş eti sorunu (çürük vb.) Çabuk sinirlenme Uyku apnesi, yoğun gün boyu uyuklama vb. uyku problemleri Sigara, alkol, çay, kahve vb. alışkanlıklar Kullanılan cihazlar, protezler: Gözlük/lens, işitme cihazı, ortez, protez (kalça-diz) vb.
 İşitme, görme, ortopedik, zihinsel, ruhsal engellilik durumu Bu bölümü “Spor Lisansı İçin Sağlık Raporu” almak isteyenler dolduracaktır:
 Spor Dalı: _________Spor Kulübü: __________En Son Muayene Tarihi / Kurum Adı: ________ /_______________ Yukarıdaki bilgiler tarafımdan doldurulmuştur ve doğrudur.Eksik/yanlış verdiğim bilgilerden dolayı sağlığım ile ilgili gelişebilecek problemlerin sorumluluğu bana aittir.
-Başvuru Sahibinin/Yasal Temsilcisinin 18 yaş altında ise velisinin/Yasal temsilcisinin Adı Soyadı : ________/________ Adı-soyadı: ________/________ İmza : İmza :
+**Başvuru Sahibinin/Yasal Temsilcisinin 18 yaş altında ise velisinin/Yasal temsilcisinin** Adı Soyadı : ________/________ Adı-soyadı: ________/________ İmza : İmza :
 Sağlık durumunuzun değerlendirilmesi sonucu gerek duyulursa bazı tetkikler istenebilir veya ilgili branşlardan doktorların muayenesi için hastaneye gönderilebilirsiniz.
-Not: Bu form, sağlık raporlarının düzenlenmesine ilişkin genel beyan formu olup yaşa ve cinsiyete özel durumları kapsayacak şekilde hazırlanmıştır. Formda yer alan kişisel ve sağlık bilgilerinizin gizliliği ve mahremiyeti esas olup kayıt altına alınan bu bilgiler, ilgili mev- zuatla izin verilen haller dışında veya kişilerin açıkça rızası olmaksızın, kurum, kuruluş ve üçüncü kişilerle paylaşılmayacaktır.
+**Not:** Bu form, sağlık raporlarının düzenlenmesine ilişkin genel beyan formu olup yaşa ve cinsiyete özel durumları kapsayacak şekilde hazırlanmıştır. Formda yer alan kişisel ve sağlık bilgilerinizin gizliliği ve mahremiyeti esas olup kayıt altına alınan bu bilgiler, ilgili mev- zuatla izin verilen haller dışında veya kişilerin açıkça rızası olmaksızın, kurum, kuruluş ve üçüncü kişilerle paylaşılmayacaktır.
 EK-8 Sürücü Adayları ve Sürücüler için Sağlık Raporu Formatı
 EK-8
-SÜRÜCÜ ADAYLARI VE SÜRÜCÜLER İÇİN
+**SÜRÜCÜ ADAYLARI VE SÜRÜCÜLER İÇİN**
 SAĞLIK RAPORU
-BAŞVURU SAHİBİNİN
+**BAŞVURU SAHİBİNİN**
 T.C. Kimlik No : ..……..……………………………………………………… Adı ve Soyadı : ..……..……………………………………………………… Fotoğraf I Hekim Kaşe/imza Baba Adı : ..……..……………………………………………………… Doğum Tarihi : ..……..……………………………………………………… Kan Grubu : ..……..……………………………………………………… Hekim Tarafından Yapılan Muayene RAPORU DÜZENLEYEN SAĞLIK KURULUŞU:
 RAPOR TARİH VE NO : ……………………………………………………………………………………………… Karayolları Trafik Kanunu’nun 41 inci maddesine dayanılarak hazırlanan “Sürücü Adayları ve Sürücülerde Aranacak Sağlık Şartları İle Muayenelerine Dair Yönetmelik”te belirtilen hususlara uygun olarak muayenesi yapılmış olup;
 KARAR: Sürücü olur II …………………………………………………………………………… Uzman hekim muayenesi gerekir ………………………………...…………………………...………….… ……… ……………………………………uzman hekim/ hekimlerce muayene edilmesi, sevke neden olan uzmanlık muayenesi hariç sürücü belgesi alabileceğine karar verilmiştir. Hekim/Uzman Hekim Adı Soyadı Kaşe-İmza
@@ -484,9 +484,9 @@ KISITLAMA KODLARI ……………………………………………………�
 RAPOR TARİH VE NO : …..
 Karayolları Trafik Kanunu’nun 41 inci maddesine dayanılarak hazırlanan “Sürücü Adayları ve Sürücülerde Aranacak Sağlık Şartları İle Muayenelerine Dair Yönetmelik”te belirtilen hususlara uygun olarak muayenesi yapılmış olup;
 TANI/BULGU: …………………………………………………………… Sağlık Durumuna Göre ………………………………………………………………................ 1.Grup Sürücü Olur ………………………………………………………………................
-2.Grup Sürücü Olur ………………………………………………………………................
+**2.Grup Sürücü** Olur ………………………………………………………………................
 ………………………………………………………………................
-Komisyona Sevk KARAR: …………………………………………………...………….
+**Komisyona Sevk** KARAR: …………………………………………………...………….
 ………………………………………………………................
 …………………...…………………………….karar verilmiştir. Sürücü Olamaz III Uzman Hekim Adı Soyadı Kaşe-İmza Not: Kararın birden fazla branş uzmanlarınca verilmesi halinde yukardaki boş alanda her bir hekimin kaşesi ve imzası bulunacaktır.
 VARSA SÜRÜCÜ :
@@ -502,11 +502,11 @@ RALAMALKIÇA
 EK-8 Komisyon Tarafından Verilen Karar KOMİSYONUN KURULDUĞU İL/İLÇE ………………………………………………………………………… KARAR TARİH VE NO ………………………………………………………………………… ALABİLECEĞİ SÜRÜCÜ BELGESİ SINIFI ………………………………………………………………………… SINIRLI KULLANIM KODLARI ………………………………………………………………………… ……………………………………………………… ………………………………………………………………………… ………………………………………………………………………… ……………………………………………………… ………………………………………………………………………… ……………………………………………………… ………………………………………………………………………… ………………………………………………………………………… ……………………………………………………… ………………………………………………………………………… IV KARAR:
 BAŞKAN ÜYE ÜYE
 ÜYE ÜYE ÜYE
-RAPORUN DÜZENLENMESİNE DAİR AÇIKLAMALAR I. Kısım: Sürücü/sürücü adayının kimlik bilgilerinin ve fotoğrafının olduğu kısımdır. Kimlik tespiti ilk müracat edilen hekim tarafından yapılacak ve mutlak surette sağlık raporu üzerindeki fotoğraf hekim tarafından kaşelenip imzalanacaktır.
-II. Kısım: Hekimler tarafından raporda yer alan II. Kısımda sürücü belgesi sınıf ve grupları kesinlikle belirtilmeyecektir.
+**RAPORUN DÜZENLENMESİNE DAİR AÇIKLAMALAR** I. Kısım: Sürücü/sürücü adayının kimlik bilgilerinin ve fotoğrafının olduğu kısımdır. Kimlik tespiti ilk müracat edilen hekim tarafından yapılacak ve mutlak surette sağlık raporu üzerindeki fotoğraf hekim tarafından kaşelenip imzalanacaktır.
+**II. Kısım:** Hekimler tarafından raporda yer alan II. Kısımda sürücü belgesi sınıf ve grupları kesinlikle belirtilmeyecektir.
 II. Kısımda “sürücü olabilir” kutucuğu işaretlenmiş ise karar kısmının doldurulması zorunlu değildir.
 Kod tablosundan yalnızca gözlük (01.01), lens (01.02) veya gözlük/kontakt lensle (01.06) kod numaraları kullanılabilir.
-III.Kısım: Sağlık tesisleri/özel sağlık kuruluşlarında görevli ilgili uzman hekim/ hekimler tarafından doldurulacak kısımdır.
+**III**.Kısım: Sağlık tesisleri/özel sağlık kuruluşlarında görevli ilgili uzman hekim/ hekimler tarafından doldurulacak kısımdır.
 III. Kısımda yer alan kutucuklardan sadece bir tanesi işaretlenecektir. Sürücü belgesi sınıfları kesinlikle belirtilmeyecektir. ("B" -"E" - "A2" sınıfı sürücü olur veya "B,B1,D1,F,M" gibi) III. kısımda herhangi bir sağlık sorunu bulunmayan kişiler için “2. Grup sürücü olur” kutucuğu işaretlenmelidir. 2. Gruptaki sınıflar
 1. Grup sınıfları kapsamaktadır. Sağlık sorunu bulunanlar için "1.Grup sürücü olur" kutucuğu işaretlenmeli ve kod tablosundan ilgili kısıt kodları raporda belirtilmelidir.
 Sürücü olamaz kutucuğu işaretlenip sürücü olamaz kararı verilen raporlar, İl/İlçe sağlık müdürlüğündeki komisyona sevk edilemez.
@@ -514,13 +514,13 @@ III. kısım birden fazla uzman hekim tarafından doldurulacaksa ortak kullanıl
 Birden fazla uzman hekim tarafından rapor düzenlendiğinde her uzman kendi uzmanlık alanına göre sürücü/sürücü adayının sürücü belgesi alıp alamayacağını raporda belirtilir.
 III. Kısımda uzman hekimler, sadece kod tablosundaki "Tabipler tarafından kullanıcaklar kodlar" başlığı altında yer alan kodları kullanabilir. Kod Tablosundaki Komisyon tarafından kullanılabilecek kodları kullanamazlar. (Örneğin: 10.02. Otomatik Vites vb.) Göz Hastalıkları Uzman hekimleri monoküler bozukluğu bulunan kişil e r i ç i n 42.01,42.03,42.05,42.06 kodlarını kullanarak sürücü sağlık raporu düzenleyebilirler. Bu kişilerin komisyona sevki zorunlu değildir.
 Kontrol süreleri kod tablosuna uygun olarak belirtilir. Belirli süreler için öngörülmüş olan kontrol muayeneleri ilgili uzman hekim/hekimler tarafından yapılır ve karar raporun III. kısmında sürücü kısıtları kısmına yazılır.
-IV.Kısım: Sürücü Adayları ve Sürücülerde Aranacak Sağlık Şartları İle Muayenelerine Dair Yönetmeliğin 4'üncü maddesinin sekizinci fıkrasına istinaden oluşturulacak komisyon tarafından doldurulacaktır.
+**IV.Kısım:** Sürücü Adayları ve Sürücülerde Aranacak Sağlık Şartları İle Muayenelerine Dair Yönetmeliğin 4'üncü maddesinin sekizinci fıkrasına istinaden oluşturulacak komisyon tarafından doldurulacaktır.
 Komisyon tarafından düzenlenen raporlarda sürücü/sürücü adayının sağlık durumuna göre engelli A veya B sınıfı alacağı belirtilir ve özel tertibata ilişkin kodlar ile ve diğer kısıt kodları belirtilerek rapor tanzim edilir. Sadece sağlık şartlarından dolayı otomatik vitesli araç kullaması gereken durumlarda komisyon tarafından karar verilecektir. (Otomatik vitesli araç özel tertibat statüsünde değerlendirelecektir.) Komisyon özel tertibat olmaksızın araç kullanılabileceğine veya sürücü olunamayacağına karar verebilir.
 Sürücünün /sürücü adayının ilk muayenesi genel muayene yapmaya yönelik tıbbi donanım ve araç-gereçleri bulunduran uzman hekimler tarafından da yapılabilecek olup raporların II. Kısmı veya sadece III. Kısmı doldurularak düzenlenen raporlarda pratisyen hekim/aile hekimi (aile hekimliği uzmanı dahil) imzasının bulunması şartı aranmayacaktır.
 Raporda kişinin daha kısa sürelerde kontrol muayenesi öngörülmemişse bu rapor düzenlendiği tarihten itibaren iki (2) yıl süreyle geçerlidir.
-EK-9 Sürücü ve Sürücü Adaylarına İlişkin Kod Tablosu
+**EK-9** Sürücü ve Sürücü Adaylarına İlişkin Kod Tablosu
 EK-9 SÜRÜCÜ/SÜRÜCÜ ADAYI VE ARAÇLARA İLİŞKİN KOD TABLOSU (01/01/2016)
-a) TABİPLER TARAFINDAN KULLANILACAK KODLAR
+**a) TABİPLER TARAFINDAN KULLANILACAK KODLAR**
 01. Görüşün düzeltilmesi ve/veya korunması
 01.01. Gözlük
 01.02. Kontakt Lens(ler)
@@ -549,8 +549,8 @@ a) TABİPLER TARAFINDAN KULLANILACAK KODLAR
 67. Otoyollarda araç kullanamaz
 68. Araç cinsine bakılmaksızın 0,20 promil üzerinde alkollü araç kullanamaz
 69. EN 50436’ya uygun olarak alkol kilidi donanımına sahip araçların kullanımıyla sınırlıdır. Son kullanım tarihinin gösterimi opsiyoneldir (örneğin “69” veya “69(01.01.2016)”)
-70. ... tarafından verilen ... No.lu belge değişimi (üçüncü bir ülke durumunda AB/BM ayrımına olanak sağlayan işaret; örneğin “70.0123456789.NL”) (Açıklama: Başka bir ülke tarafından verilen belgenin üçüncü bir ülke tarafından değiştirilmesinde ilgili ülkenin işareti ve belgenin numarası yazılır)
-71. ... No.lu belge yedeği (üçüncü bir ülke durumunda AB/BM ayrımına olanak sağlayan işaret; örneğin “71.987654321.HR”) (Açıklama: Başka bir ülke tarafından verilen belgenin üçüncü bir ülke tarafından verilen belgenin yenilenmesi sırasında ilgili ülkenin işareti ve belgenin numarası yazılır)
+70. ... tarafından verilen ... No.lu belge değişimi (üçüncü bir ülke durumunda AB/BM ayrımına olanak sağlayan işaret; örneğin “70.0123456789.NL”) <i>(Açıklama: Başka bir ülke tarafından verilen belgenin üçüncü bir ülke tarafından değiştirilmesinde ilgili ülkenin işareti ve belgenin numarası yazılır)</i>
+71. ... No.lu belge yedeği (üçüncü bir ülke durumunda AB/BM ayrımına olanak sağlayan işaret; örneğin “71.987654321.HR”) <i>(Açıklama: Başka bir</i> ülke tarafından verilen belgenin üçüncü bir ülke tarafından verilen belgenin yenilenmesi sırasında ilgili ülkenin işareti ve belgenin numarası yazılır)
 73. Sadece dört tekerlekli araçları kullanabilir.
 79. Motosiklet/Motorlu bisiklet kullanımına ilişkin sınırlandırmalar ile BE sınıfı sürücü belgesine ilişkin düzenlemeler
 79.01. Sadece sepetli veya sepetsiz iki tekerlekli araçları kullanabilir.
@@ -562,7 +562,7 @@ a) TABİPLER TARAFINDAN KULLANILACAK KODLAR
 80. “24” yaşını doldurmadan A sınıfı sürücü belgesiyle kullanılabilecek iki tekerlekli araçları kullanamaz.
 81. “21” yaşını doldurmadan A sınıfı sürücü belgesiyle gücü 15 kilovatı aşan üç tekerlekli motosikletleri kullanamaz.
 95. 2003/59/EC No.lu Direktif’in belirttiği profesyonel yeterlik şartını ... tarihine kadar sağlayan sürücüler.
-96. B sınıfı sürücü belgesiyle 4.250 kg’a kadar olan otomobil ve kamyonet cinsi birleşik araçları da kullanabilir. (Açıklama: Belge sahibi, ilgili tip onayı yönetmeliklerine aykırı olmamak ve 29/5/2013 tarihli ve 28661 sayılı Resmî Gazete’de yayımlanan Milli Eğitim Bakanlığı Özel Motorlu Taşıt Sürücüleri Kursu Yönetmeliğinde belirtilen; eğitimi tamamlamak ya da yetenek ve davranış sınavını geçmiş olmak kaydıyla azami yüklü ağırlığı 4.250 kilograma kadar olan birleşik araçları kullanabilir.)
+96. B sınıfı sürücü belgesiyle 4.250 kg’a kadar olan otomobil ve kamyonet cinsi birleşik araçları da kullanabilir. <i>(Açıklama: Belge sahibi, ilgili tip</i> onayı yönetmeliklerine aykırı olmamak ve 29/5/2013 tarihli ve 28661 sayılı Resmî Gazete’de yayımlanan Milli Eğitim Bakanlığı Özel Motorlu Taşıt Sürücüleri Kursu Yönetmeliğinde belirtilen; eğitimi tamamlamak ya da yetenek ve davranış sınavını geçmiş olmak kaydıyla azami yüklü ağırlığı 4.250 kilograma kadar olan birleşik araçları kullanabilir.)
 97. 3821/85 (2) (AET) No.lu Konsey Tüzüğü’nün yetki alanına giren C1 sınıfı araçları kullanmaya yetkili değildir
 EK-9 Sürücü ve Sürücü Adaylarına İlişkin Kod Tablosu c. MİLLİ EĞİTİM BAKANLIĞINCA KULLANILACAK KODLAR
 104. Sürücü kursunda otomatik vitesli araçla eğitime ve sınava katılarak sertifika alanlar sürücü belge sınıfına uygun sadece otomatik vitesli araçları kullanabilir.
@@ -574,7 +574,7 @@ EK-9 Sürücü ve Sürücü Adaylarına İlişkin Kod Tablosu c. MİLLİ EĞİT�
 105.05 Finişer
 105.06 Forklift
 105.07 Greyder
-105.08 Mobil Rıhtım Vinci
+<i>105.08 Mobil Rıhtım Vinci</i>
 105.09 Silindir
 105.10 Vinç (Lastik tekerlekli)
 105.11 Loder (Yükleyici)
@@ -584,10 +584,10 @@ EK-9 Sürücü ve Sürücü Adaylarına İlişkin Kod Tablosu c. MİLLİ EĞİT�
 105.15 İş Kamyonu
 105.16 İş Makinesi (Yükleyici)
 105.17 Terminal Traktör
-105.18 Serdümen
-105.19 Konteyner Saha Köprü Vinci
-105.20 Konteyner Rıhtım Köprü Vinci
-105.21 Konteyner Dorse Vinci
+<i>105.18 Serdümen</i>
+<i>105.19 Konteyner Saha Köprü Vinci</i>
+<i>105.20 Konteyner Rıhtım Köprü Vinci</i>
+<i>105.21 Konteyner Dorse Vinci</i>
 105.22 Dolu Konteyner Makinesi
 105.23 Boş Konteyner Makinesi
 105.24 Akaryakıt İkmal Makinesi
@@ -602,13 +602,13 @@ EK-9 Sürücü ve Sürücü Adaylarına İlişkin Kod Tablosu c. MİLLİ EĞİT�
 105.33 Mıcır Serici
 105.34 Asfalt Serme Makinesi
 105.35 Manlift
-105.36 Kaldırma Taşıma Vinci
+<i>105.36 Kaldırma Taşıma Vinci</i>
 105.37 Rotatif Kamyon(Kar savurucu)
 105.38 Seyyar Parcar Boşaltma, Temizleme ve Yükleme Makinesi
 105.39 Bezelye Hasat Makinesi
-105.40 Transmikser
-d) SÜRÜCÜ ADAYLARI VE SÜRÜCÜLERDE ARANACAK SAĞLIK ŞARTLARI İLE MUAYENELERİNE DAİR YÖNETMELİĞİN 4’ÜNCÜ MADDESİNİN SEKİZİNCİ FIKRASI KAPSAMINDA OLUŞTURULAN
-KOMİSYON TARAFINDAN KULLANILACAK KODLAR
+<i>105.40 Transmikser</i>
+**d) SÜRÜCÜ ADAYLARI VE SÜRÜCÜLERDE ARANACAK SAĞLIK ŞARTLARI İLE MUAYENELERİNE** DAİR YÖNETMELİĞİN 4’ÜNCÜ MADDESİNİN SEKİZİNCİ FIKRASI KAPSAMINDA OLUŞTURULAN
+**KOMİSYON TARAFINDAN KULLANILACAK KODLAR**
 10. Modifiye vites
 10.02 Otomatik vites
 10.04 Uyarlanmış vites kolu

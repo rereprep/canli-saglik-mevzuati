@@ -102,12 +102,12 @@ Mobil sağlık hizmetlerinin bu Genelge hükümlerine uygun olarak etkin bir şe
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Emine ALP MEŞE  
+**Prof. Dr. Emine ALP MEŞE**  
 Bakan a.  
 Bakan Yardımcısı
 
 **Ek:**  
-1- Mobil Sağlık Formu  
+1- **Mobil Sağlık** Formu  
 2- Mobil Sağlık Çantasında Bulunması Gereken Tıbbi Cihaz, Araç, Gereç Listesi
 
 **Dağıtım**  

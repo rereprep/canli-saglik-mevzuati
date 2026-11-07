@@ -14,7 +14,7 @@ kontrol_edildi: true
 
 T.C.
 SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 56733164/
 Konu : Diyaliz Merkezlerinde Enfeksiyon Kontrolüne Yönelik Tedbirler

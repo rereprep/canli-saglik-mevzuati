@@ -15,10 +15,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-3.3.5. Ambulans Hizmetleri Koordinasyonu Genelgesi (2005/30)
+**3.3.5. Ambulans Hizmetleri Koordinasyonu Genelgesi (2005/30)**
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : B100TSH0160001 / 2389
@@ -26,7 +26,7 @@ Konu : Ambulans Hizmetleri Koordinasyonu
 
 22.02.2005
 
-GENELGE
+**GENELGE**
 2005/30
 
 VALİLİĞİNE
@@ -45,7 +45,7 @@ Ayrıca 12.06.2004 tarih ve 25490 sayılı Resmî Gazete'de yayımlanarak yürü
 Bilgilerinizi ve gereğini rica ederim.
 
 Prof. Dr. Recep AKDAĞ
-Bakan
+**Bakan**
 
 DAĞITIM:
 81 İl Valiliğine

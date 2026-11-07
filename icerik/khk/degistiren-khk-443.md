@@ -35,7 +35,7 @@ Teşkilat
 
 Bakanlık merkez teşkilatı (EK-1) sayılı cetvelde gösterilmiştir.
 
-Yürütme ve İdare Bölümü Sayfa : 2
+**Yürütme ve İdare Bölümü Sayfa : 2**
 
 BİRİNCİ BÖLÜM Bakanlık Makamı Bakan
 
@@ -77,7 +77,7 @@ a) Çevrenin korunması ile ilgili hedef, ilke ve amaçlar ile kısa, orta ve uz
 
 a) Çevresel etki değerlendirmesiyle ilgili çalışmaları yapmak ve yaptırmak, b) Ülkenin çevre önceliklerini tespit etmek, c) Kırsal ve kentsel alanda ilgili Bakanlığın koordinasyonu ile arazi kullanım kararlarına uygun olarak tespit edilen alanlarda uygulanacak koruma ve kullanma esaslarını belirlemek, d) Çevre düzeni planlarını yapmak veya yaptırmak ve bu planların uygulanmasını sağlamak, e) Çevre envanterini ve çevre durum raporlarını hazırlamak, f) Bakanlıkça verilecek diğer görevleri yapmak.
 
-Yürütme ve İdare Bölümü Sayfa : 4 Dış İlişkiler Dairesi Başkanlığı
+**Yürütme ve İdare Bölümü Sayfa : 4** Dış İlişkiler Dairesi Başkanlığı
 
 **Madde 12 –** Dış İlişkiler Dairesi Başkanlığının görevleri şunlardır:
 
@@ -95,7 +95,7 @@ a) Çevre problemlerinin finansman yönünden çözümünü sağlamak üzere Haz
 
 a) Çevre ile ilgili konularda plan ve programların hazırlanmasında, uygulanmasında ve halkın eğitilmesinde Milli Eğitim Bakanlığı ile bilimsel ve gönüllü kuruluşlarla işbirliği yapmak, b) Yaygın ve örgün eğitim programlarında çevre konularının yeralması için Milli Eğitim Bakanlığı ile ortak çalışmalar yürütmek, c) Çevre eğitiminde kullanılacak film, video, slayt ve benzeri eğitim malzeme ve araçlarının hazırlanması konusunda çalışmalar yapmak, d) Kamu kurum ve kuruluşlarıyla, üniversitelerin faaliyet ve araştırma programlarına çevre unsurlarını katmak için ortak çalışmalar yapmak, e) Gerektiğinde ilgili kuruluşlarla işbirliği yapmak, bilgi, belge ve eğiticilerin mübadelesinin sağlanması çalışmalarını yürütmek, f) Ülkemizin tabii çevre değerlerini ortaya çıkarmak ve tanıtmak amacıyla gerekli çalışmaları yapmak, gerektiğinde ilgili kuruluşlarla İşbirliğini sağlamak, g) Çevre eğitimi konusunda uluslararası kuruluşların program, proje ve faaliyetlerini izlemek, çevre ile ilgili her türlü bilgi ve belgeyi toplamak, dokümantasyon hizmetlerini yürütmek, bunları bir sistem içinde ve bilgi bankası oluşturacak şekilde değerlendirmek, yayımlamak, h) Uluslararası ve kurumlararası enformasyon hizmetleriyle Bakanlıkça verilecek diğer hizmetleri yürütmek.
 
-Yürütme ve İdare Bölümü Sayfa : 5
+**Yürütme ve İdare Bölümü Sayfa :** 5
 
 ÜÇÜNCÜ BÖLÜM Danışma ve Denetim Birimleri Danışma ve Denelim Birimleri
 
@@ -155,11 +155,11 @@ a) Bakanlık için gerekli araç, gereç ve malzemenin temini ile ilgili hizmetl
 
 Yürütme ve İdare Bölümü Sayfa : 7 b) İhtiyaç duyulan bina ve arazinin kiralanma, satın alma işlemlerini yürütmek, c) Bakanlığın mali işlerle ilgili hizmetlerini yürütmek, d) Temizlik, aydınlatma, ısıtma, bakım-onarım ve taşıma hizmetlerini yapmak, e) Sosyal tesislerin kurulması ve yönetimi ile ilgili hizmetleri düzenlemek ve yürütmek, f) Bakanlık personelinin ve ailelerinin sağlık hizmetlerinden yararlanmalarını sağlamak, g) Bakanlığa gelen yazı ve mesajlardan gerekenlerin bakarı veya müsteşara sunulmasını sağlamak, h) Verilecek direktif ve emirleri ilgililere duyurmak ve işlemlerini takip etmek, bakanlığın iç ve dış protokol hizmetlerini yürütmek, ı) Süreli evrakın zamanında işleme konulmasını sağlamak, j) Bakanlığı ilgilendiren toplantı, brifing ve görüşmeleri düzenlemek, bunlara ait önemli not ve tutanakları tutmak ve yaymak, k) Genel evrak, arşiv ve haber merkezinin hizmet ve faaliyetlerini düzenlemek ve yürütmek, l) Bakanlıkça verilecek diğer görevleri yapmak.
 
-Savunma Sekreterliği
+**Savunma Sekreterliği**
 
 **Madde 24 –** Savunma Sekreterliği özel kanununda ve diğer kanunlarda gösterilen görevleri yerine getirir.
 
-Özel Kalem Müdürlüğü
+**Özel Kalem Müdürlüğü**
 
 **Madde 25 –** Özel Kalem Müdürlüğü'nün görevleri şunlardır :
 
@@ -169,11 +169,11 @@ BEŞİNCİ BÖLÜM Sürekli Kurullar Sürekli Kurullar
 
 **Madde 26 –** Çevre Bakanlığının sürekli kurulları şunlardır :
 
-a) Yüksek Çevre Kurulu.
+**a) Yüksek** Çevre Kurulu.
 
 b) Çevre Şurası, c) Mahalli Çevre Kurulları.
 
-Yüksek Çevre Kurulu
+**Yüksek Çevre Kurulu**
 
 **Madde 27 –** Çevre Bakanının Başkanlığında, Çevre Bakanlığı Müsteşarı, Yükseköğretim Kurulu Başkanı, Devlet Planlama Teşkilatı ile Milli Savunma, İçişleri, Dışişleri, Maliye ve Gümrük, Milli Eğitim, Bayındırlık ve İskan, Sağlık, Ulaştırma, Tarım ve Köyişleri, Çalışma ve Sosyal Güvenlik, Sanayi ve Ticaret, Enerji ve Tabii Kaynaklar, Kültür, Turizm, Orman Bakanlıkları Müsteşarları, Diyanet İşleri, Türkiye Bilimsel ve Teknik Araştırma Kurumu ve Türkiye Atom Enerjisi Kurumu Başkanları ile üniversitelerin çevre ile ilgili çeşitli dallarından Yükseköğretim Kurulunca seçilecek iki öğretim üyesi, Türkiye Ticaret, Sanayi, Deniz Ticaret Odaları ve Ticaret Borsaları Birliği ve Türkiye Ziraat Odaları Birliği Başkanlarından olaşan, Yüksek Çevre ve Kurulu kurulmuştur.
 
@@ -207,7 +207,7 @@ Mahalli Çevre Kurulunun Görevi
 
 a) Bakanlığın kararları çerçevesinde çevre kirliliğinin önlenmesi ve çevrenin iyileştirilmesi için gerekli kararları almak, bu konu ile ilgili uygulama programlarını il düzeyinde hazırlamak ve uygulanmasını sağlamak, b) Çeşitli bakanlık ve kuruluşların il düzeyindeki faaliyetlerini izlemek, yönlendirmek ve bu konuda gerekli koordinasyonu sağlamak, c) İlde kurulan tesis ve işletmelerin çevre kirliliği açısından yapılan denetlemelerine ait raporları incelemek, değerlendirmek ve gerekli önlemleri almak, d) Çevre kirliliğini önleyici tedbirleri ihtiva eden eğitici faaliyetler düzenlemek, e) Yüksek Çevre Kurulunca çevre kirliliğine yol açan ve faaliyet kolları itibariyle gruplandınlan işletmelerin derecelerini; işletmelerin kapasitelerini, arıtma tesislerinin bulunup bulunmadığını, çevreye verdiği zararın ölçüsünü, cirolarını ve tesisin bulunduğu yerin ekolojik, ekonomik, teknik, teknolojik ve benzeri özelliklerini dikkate alarak belirlemek, 0 İl düzeyinde çevre sorunlarını belirleyip çözüm teklifleriyle birlikte Bakanlığa bildirmek.
 
-Yürütme ve İdare Bölümü Sayfa : 9
+**Yürütme ve İdare Bölümü Sayfa : 9**
 
 ÜÇÜNCÜ KISIM Taşra Teşkilatı ile Bağlı Kuruluşlar Taşra Teşkilatı
 
@@ -249,7 +249,7 @@ Kadrolar
 
 **Madde 39 –** Kadroların tesbit, ihdas, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümlerine göre düzenlenir.
 
-Yürütme ve İdare Bölümü Sayfa : 10 İntikal Eden Görev ve Yetkiler
+**Yürütme ve İdare Bölümü Sayfa : 10** İntikal Eden Görev ve Yetkiler
 
 **Madde 40 –** Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten önce çeşitli mevzuatla, Çevreden sorumlu Devlet Bakanı ve Devlet Bakanlığına, Çevre Müsteşarı ve Çevre Müsteşarlığına verilen görev, yetki, sorumluluk, hak ve vecibeler Çevre Bakanı ve Bakanlığına intikal eder. Çeşitli mevzuatla 389 sayılı Kanun Hükmünde Kararnameye yapılmış olan atıflar, bu Kanun Hükmünde Kararnamenin ilgili hükümlerine yapılmış sayılır.
 
@@ -279,7 +279,7 @@ Düzenleme sebebiyle kadroları iptal edilen personel yeni bir göreve atanınca
 
 **Geçici Madde 5 –** 2872 sayılı Çevre Kanunu ile Çevre Müsteşarlığının yönetimine verilmiş olan Çevre Kirliliğini Önleme Fonu 1991 yılı bütçe ödenekleri, bütçedeki ödeneklerinin tahakkuka bağlanması yetkisi ve mevcut personeli, demirbaş ve taşıtları ile her türlü hak ve vecibeleri başka bir işleme gerek olmaksızın Çevre Bakanlığına devredilmiş sayılır.
 
-Yürütme ve İdare Bölümü Sayfa : 11
+**Yürütme ve İdare Bölümü Sayfa : 11**
 
 **Geçici Madde 6 –** Bakanlık merkez ve taşra teşkilatı bu Kanun Hükmünde Kararnamede belirtilen esaslara göre yeniden düzenleninceye kadar görev ve hizmetler, mevcut personel eliyle yürütülür.
 

@@ -17,17 +17,17 @@ kontrol_edildi: true
 
 T.C.
 SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı : 95966346-
-Konu : Tıbbi Laboratuvarlarda Numune Saklama Süreleri, Gözetimli Hizmet Laboratuvarları Kapsamındaki Testler
+**Sayı : 95966346-**
+**Konu :** Tıbbi Laboratuvarlarda Numune Saklama Süreleri, Gözetimli Hizmet Laboratuvarları Kapsamındaki Testler
 
-GENELGE
+**GENELGE**
 2014/4
 
 Tıbbi Laboratuvarlar Yönetmeliği 09.10.2013 tarih ve 28790 sayılı Resmî Gazete'de yayımlanarak yürürlüğe girmiştir.
 
-İlgili Yönetmeliğin "Tıbbi laboratuvarların çalışma esasları" başlıklı 12 nci maddesinde "(7) Raporlanan tıbbi laboratuvar testlerine ilişkin numunelerin saklanması ile ilgili hususlar Bakanlıkça belirlenir." hükmü ile "Tıbbi laboratuvarların görevleri" başlıklı 11 inci maddesinde "(4) Kamu sahipliğindeki kurum/kuruluşlarda, ruhsatlı tıbbi laboratuvarlarına bağlı aynı uzmanlık dalındaki birim sorumlusunun sorumluluğunda olmak kaydıyla, Bakanlıkça gözetimli hizmet laboratuvarı kurulmasına izin verilebilir. Gözetimli hizmet laboratuvarlarında Bakanlıkça belirlenen testler çalışılır." hükümleri sevk olunmuş olup aşağıda belirtilen şekilde uygulama tesis edilmesi gerekmektedir.
+İlgili Yönetmeliğin "Tıbbi laboratuvarların çalışma esasları" başlıklı 12 nci maddesinde "<i>(7) Raporlanan tıbbi laboratuvar testlerine ilişkin numunelerin saklanması ile ilgili hususlar</i> Bakanlıkça belirlenir." hükmü ile "Tıbbi laboratuvarların görevleri" başlıklı 11 inci maddesinde "(4) Kamu sahipliğindeki kurum/kuruluşlarda, ruhsatlı tıbbi laboratuvarlarına bağlı aynı uzmanlık dalındaki birim sorumlusunun sorumluluğunda olmak kaydıyla, Bakanlıkça gözetimli hizmet laboratuvarı kurulmasına izin verilebilir. Gözetimli hizmet laboratuvarlarında Bakanlıkça belirlenen testler çalışılır." hükümleri sevk olunmuş olup aşağıda belirtilen şekilde uygulama tesis edilmesi gerekmektedir.
 
 1. Gaita ve idrar hariç tüm vücut sıvılarına ilişkin numunelerin sonuç raporlandıktan sonra en az 24 saat uygun koşullarda saklanması esastır. Ancak, belirlenen süre içerisinde sonuç değerleri değişebilecek test numunelerinin saklama süresine, ilgili laboratuvar uzmanı tarafından karar verilecektir.
 
@@ -43,7 +43,7 @@ Müsteşar
 
 DAĞITIM:
 
-Gereği:
+**Gereği:**
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 Türkiye Kamu Hastaneleri Kurumu
 Türkiye Halk Sağlığı Kurumu

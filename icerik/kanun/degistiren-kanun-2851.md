@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No. 2851 Kabul Tarihi • 16.6.1983
+**Kanun No. 2851 Kabul Tarihi • 16.6.1983**
 
 **MADDE 1 –** 6245 sayılı Harcırah Kanununun 10 uncu maddesinin 2 numa­ ralı bendi aşağıdaki şekilde değiştirilmiştir.
 

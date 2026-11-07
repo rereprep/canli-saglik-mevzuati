@@ -40,7 +40,7 @@ Müsteşar
 
 EK: KKKA'de Vaka Yönetimi ve İzolasyon Önlemleri (7 sf.)
 
-DAĞITIM :
+**DAĞITIM :**
 A Plânı
 
 DAİMİ GENELGE

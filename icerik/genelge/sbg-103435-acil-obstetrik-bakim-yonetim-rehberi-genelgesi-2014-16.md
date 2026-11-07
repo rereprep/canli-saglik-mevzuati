@@ -15,7 +15,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.62. Acil Obstetrik Bakım Yönetim Rehberi Genelgesi (2014/16)
+**6.3.62. Acil Obstetrik Bakım Yönetim Rehberi Genelgesi (2014/16)**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -26,7 +26,7 @@ Konu : Acil Obstetrik Bakım Yönetim Rehberi
 
 15.04.2014
 
-GENELGE
+**GENELGE**
 2014/16
 
 Gebelik ve doğum doğal bir süreç olmakla birlikte tüm gebeliklerin %5-20'sinde potansiyel olarak hayatı tehdit eden ve profesyonel müdahale gerektiren bir komplikasyon gelişebilmekte ve majör obstetrik bir girişime gerek duyulmaktadır. Gebelik, doğum ve doğum sonu dönemde gelişen komplikasyonların çoğu önceden tahmin edilemez ve önlenemez olmakla birlikte etkin bir tedavi ile anne mortalite ve morbiditesi önemli ölçüde azaltılabilmektedir.

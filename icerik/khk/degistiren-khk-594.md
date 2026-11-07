@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Karar Sayısı: KHK/594 Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununda ve 190 sayılı Kanun Hükmünde Kararname eki cetvellerde değişiklik yapılması; 4484 sayılı Kanunla değişik 27/8/1999 tarihli ve 4452 sayılı Kanunun verdiği yetkiye dayanılarak, Bakanlar Kurulu'nca 21/1/2000 tarihinde kararlaştırılmıştır.
+**Karar Sayısı: KHK/594** Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununda ve 190 sayılı Kanun Hükmünde Kararname eki cetvellerde değişiklik yapılması; 4484 sayılı Kanunla değişik 27/8/1999 tarihli ve 4452 sayılı Kanunun verdiği yetkiye dayanılarak, Bakanlar Kurulu'nca 21/1/2000 tarihinde kararlaştırılmıştır.
 
 **Madde 2 –** 2828 sayılı Kanunun 4 üncü maddesine aşağıdaki bent eklenmiştir. "m) Doğal afetlerde ulusal ve uluslararası sosyal hizmet kurum ve kuruluşlarıyla birlikte hareket edilmesi ve acil kurtarma ve yardım çalışmalarının etkili şekilde yürütülmesi amacıyla gerekli her türlü tertip ve tedbir alınır."
 
@@ -73,9 +73,9 @@ TEŞKİLATI : TAŞRA Serbest Sınıfı Unvanı Derecesi Kadro Adedi GİH İlçe 
 
 **Madde 10 –** Bu Kanun Hükmünde Kararname hükümlerini Bülent ECEVIT Başbakan
 
-D BAHÇELİ H H. ÖZKAN M C. ERSUMER Devlet Bak. ve Başb Yrd Devlet Bak. ve Başb Yrd Enerji ve Tabii Kay Bak. ve B Pıof. Dr. T TOSKAY M. KEÇECİLER Prof. Dr. Ş. S GÜREL Devlet Bakanı Devlet Bakanı Devlet Bakanı E S GAYDALI M. YILMAZ Prof. Dr. R. MIRZAOĞLU Devlet Bakanı V. Devlet Bakanı Devlet Bakanı H. H. ÖZKAN Prof. Dr Ş. ÜŞENMEZ E. S. GAYDALI Devlet Batanı V. Devlet Bakanı Devlet Bakanı Prof. Dr. A ÇAY M A. IRTEMÇEL1K Prof. Dr H S TÜRK Devlet Bakanı Devlet Bakanı Adalet Bakanı
+**D BAHÇELİ** H H. ÖZKAN M C. ERSUMER Devlet Bak. ve Başb Yrd Devlet Bak. ve Başb Yrd Enerji ve Tabii Kay Bak. ve B Pıof. Dr. T TOSKAY M. KEÇECİLER Prof. Dr. Ş. S GÜREL Devlet Bakanı Devlet Bakanı Devlet Bakanı E S GAYDALI M. YILMAZ Prof. Dr. R. MIRZAOĞLU Devlet Bakanı V. Devlet Bakanı Devlet Bakanı H. H. ÖZKAN Prof. Dr Ş. ÜŞENMEZ E. S. GAYDALI Devlet Batanı V. Devlet Bakanı Devlet Bakanı Prof. Dr. A ÇAY M A. IRTEMÇEL1K Prof. Dr H S TÜRK Devlet Bakanı Devlet Bakanı Adalet Bakanı
 
-S TANTAN I CEM S. ORAL [çişten Bakanı Dışişleri Bakanı Maliye Bakanı K. AYDIN Doç. Dr. O. DURMUŞ Prof Dr E. ÖKSÜZ Bayındırlık ve iskân Bakanı Sağlık Bakanı Ulaştırma Bakanı
+**S TANTAN** I CEM S. ORAL [çişten Bakanı Dışişleri Bakanı Maliye Bakanı K. AYDIN Doç. Dr. O. DURMUŞ Prof Dr E. ÖKSÜZ Bayındırlık ve iskân Bakanı Sağlık Bakanı Ulaştırma Bakanı
 
 M. C. ERSUMER A. K. TANRIKULU Çalışma ve Sos. Guv. Bakanı V. Sanayi ve Ticaret Bakanı E. MUMCU Prof. Dr. N. ÇAĞAN Turizm Bakanı Orman Bakanı Yürütme ve ,idare Bölümü Sayfa . 4 7 Mart 2000- Sayı: 24002
 

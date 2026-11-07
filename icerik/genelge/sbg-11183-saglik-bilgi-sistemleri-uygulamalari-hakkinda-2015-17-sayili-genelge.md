@@ -15,13 +15,13 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Bilgi Sistemleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Bilgi Sistemleri Genel Müdürlüğü**
 
 Sayı : 75730711
 Konu: Sağlık Bilgi Sistemleri Uygulamaları
 
-GENELGE
+**GENELGE**
 2015/17
 
 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 11 inci maddesi uyarınca, sağlık alanında kullanılan bilişim sistemleri ve iletişim teknolojileri ile ilgili ülke çapında politika, strateji ve standartları belirlemek, sağlık bilişimi ve teknolojisi alanında çalışacak kamu ve özel hukuk tüzel kişileri ile gerçek kişilerin uyacakları kuralları belirlemek, uygulamak, gerektiğinde bunların yazılım ve ürünlerinin uygunluğuna karar vermek görevleri Sağlık Bilgi Sistemleri Genel Müdürlüğü'ne verilmiştir. Bu kapsamda sağlık bilişimi alanında faaliyet gösteren tedarikçiler ile tüm kamu ve özel sağlık kurum ve kuruluşlarının uyması gereken kurallar ve sağlık bilişimi konusunda izlenmesi gereken yol haritası aşağıda açıklanmıştır.
@@ -38,7 +38,7 @@ c) Entegrasyon: Herhangi bir SBYS ya da cihazın, yüksek kalitede ve etkinlikte
 
 d) Entegre Edilebilir Cihaz: Entegrasyon sağlamak için gerekli her türlü yazılımı üzerinde barındıran, entegrasyon dokümanı olan, gerektiğinde cihaz tedarikçisi tarafından entegrasyon hizmet ve/veya desteğinin sağlanabildiği, yukarıda tarifi yapılmış her türlü cihazı,
 
-f) Genel Müdürlük: Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
+**f) Genel Müdürlük:** Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
 
 g) Görüntü: VTYS terminolojisinde VIEW olarak da bilinen, gerektiğinde birden çok VTYS tablosunu kendi aralarındaki ilişkileri kullanarak birleştirebilen, genellikle başkaları tarafından verinin daha anlamlı şekilde görülebilmesini sağlayan VTYS nesnesini,
 
@@ -52,23 +52,23 @@ i) KTS: Kayıt Tescil Sistemini,
 
 j) PACS: Görüntü Arşivleme ve İletişim Sistemlerini (Picture Archiving and Communication Systems),
 
-k) Sağlık Tesisi: Tüm kamu ve özel sağlık kurum ve kuruluşlarını,
+**k) Sağlık Tesisi:** Tüm kamu ve özel sağlık kurum ve kuruluşlarını,
 
 l) SBYS (Sağlık Bilgi Yönetim Sistemi): Sağlık tesisleri tarafından klinik, idari ya da yönetimsel amaçlarla kullanılan, gerektiğinde diğer bilgi yönetim sistemleri ile veri alış verişi yapabilen yazılım sistem ya da alt sistemlerini,
 
-m) SBYS Bayisi: SBYS üreticisinden SBYS'sini temin eden ve SBYS üreticisi tarafından yetkilendirilen, idare ile sözleşme yapan yükleniciyi,
+**m) SBYS Bayisi:** SBYS üreticisinden SBYS'sini temin eden ve SBYS üreticisi tarafından yetkilendirilen, idare ile sözleşme yapan yükleniciyi,
 
-n) SBYS Tedarikçisi: Sağlık tesisinde çalışan SBYS'lerden bir ya da birden fazlasının ya da tamamının bakım destek hizmetini sözleşme karşılığı sağlayan yükleniciyi,
+**n) SBYS Tedarikçisi:** Sağlık tesisinde çalışan SBYS'lerden bir ya da birden fazlasının ya da tamamının bakım destek hizmetini sözleşme karşılığı sağlayan yükleniciyi,
 
-o) SBYS Üreticisi: SBYS yazılımını üreten kuruluş/firmayı,
+**o) SBYS Üreticisi:** SBYS yazılımını üreten kuruluş/firmayı,
 
-ö) SBYS Üretici Yetkilisi: SBYS üreticisinin imzaya yetkili temsilcisini,
+**ö) SBYS Üretici Yetkilisi:** SBYS üreticisinin imzaya yetkili temsilcisini,
 
 p) TTS: Teletıp ve Teleradyoloji Sistemini,
 
 r) VEM: Genel Müdürlük tarafından hazırlanan ve gerektiğinde güncellenen, herhangi bir HBYS'nin minimum içeriğini tanımlayan Minimum Veri Modelini,
 
-s) VEM Görüntüsü: HBYS tedarikçisi tarafından VEM'e uygun olarak hazırlanan ve güncellenen, tanımı yukarıda yapılan görüntüyü,
+**s) VEM Görüntüsü:** HBYS tedarikçisi tarafından VEM'e uygun olarak hazırlanan ve güncellenen, tanımı yukarıda yapılan görüntüyü,
 
 ş) VTYS: İlişkisel Veri Tabanı Yönetim Sistemini (RDBMS-Relational Database Management System)
 
@@ -216,14 +216,14 @@ Genel Müdürlüğe ibraz etmeleri gerekmektedir. Anılan tarihlere kadar bu bel
 
 Bilgilerini ve gereğini rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ  
+**Prof. Dr. Eyüp GÜMÜŞ**  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
-Dağıtım:  
-Gereği:  
+**Dağıtım:**  
+**Gereği:**  
 - 81 İl Valiliği  
 - KTS'de kayıtlı SBYS tedarikçileri  
 
-Bilgi:  
+**Bilgi:**  
 - Merkez Birimleri ve Bağlı Kuruluşlar

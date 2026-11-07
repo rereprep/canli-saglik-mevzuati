@@ -26,9 +26,9 @@ Birinci basamak sağlık hizmetlerinde kullanılmak üzere inşa edilecek olan E
 Yeni hizmet binalarının planlanması, ihtiyaç listelerinin hazırlanması ve projelendirilmesinin söz konusu rehber doğrultusunda yürütülmesi hususunda;
 Bilginizi ve gereğini rica ederim.
 
-Prof. Dr. Seçil ÖZKAN
+**Prof. Dr. Seçil ÖZKAN**
 Bakan a.
-Kurum Başkanı
+**Kurum** Başkanı
 
 DAĞITIM:
 Gereği :

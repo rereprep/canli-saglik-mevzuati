@@ -14,14 +14,14 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Türkiye Kamu Hastaneleri Kurumu
+**SAĞLIK BAKANLIĞI**
+**Türkiye Kamu Hastaneleri Kurumu**
 
 Sayı : B.10.1.TKH.0.28.0000-756.02/2953
 Konu : Ticari Alanların Kiraya Verilmesi.
 
 GENELGE
-2012/49
+**2012/49**
 
 Bilindiği üzere, mülkiyeti Hazineye ait /Hazine ile hisseli/ üst yapı Hazineye ait ya da zemini Hazineye ait olup, Sağlık Bakanlığına tahsisli olan yerler ile Sağlık Bakanlığınca kiralanmış ve kira bedelleri merkezi yönetim bütçesinden karşılanan hastane ve birinci basamak sağlık kurumlarındaki ticari amaçla kullanılması mümkün olan bölümlerinin (söz konusu taşınmazların Aile Hekimlerine kiralanması dâhil olmak üzere) Sağlık Bakanlığı tarafından Döner Sermaye İşletmeleri eliyle işlettirilmesine ilişkin Maliye Bakanlığı ile Bakanlığımız arasında 15/06/2011 tarihinde protokol imzalanmıştır. Bu protokol kapsamında yapılması gereken iş ve işlemler, 2011/43 sıra nolu Genelge ile tüm sağlık tesislerimize duyurulmuştur.
 

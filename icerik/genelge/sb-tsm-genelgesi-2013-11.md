@@ -28,8 +28,8 @@ Konu : TSM'lerde İş Sağlığı ve Güvenliği Hizmetleri
 
 14/05/2013
 
-GENELGE
-2013/11
+**GENELGE**
+**2013/11**
 
 Sağlık Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığından:
 

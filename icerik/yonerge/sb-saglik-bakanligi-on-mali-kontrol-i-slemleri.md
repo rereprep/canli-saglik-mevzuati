@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi (Değişiklikler İşlenmiş Hâli)
+**11.2.2. Sağlık Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi** (Değişiklikler İşlenmiş Hâli)
 
 ### Bakanlık Makamına sunuş yazısı
 
@@ -42,7 +42,7 @@ Uygun görüşle arz ederim. [?] / 2023
 
 Prof. Dr. Sabahattin AYDIN
 
-Bakan Yardımcısı
+**Bakan** Yardımcısı
 
 OLUR [?] / 2023
 
@@ -332,7 +332,7 @@ Başkanlığa ödenek gönderme belgesi yerine ödenek gönderme belgeleri ismal
 
 (2) Kontrol işlemi sonucunda söz konusu listeler, Üst Yoneticiye onaylatalmak taere ilgili birime gönderilir. Ust Yönetici tarafindan onaylama işlemi, Cumhurbaşkanleğınca belirlenen usul ve esaslar perçevesinde yerine getirilir.
 
-(Değişik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 suyıh Bakan Onaya)
+**(Değişik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 suyıh Bakan Onaya)**
 
 #### Sezleșmeli personel sayı ve sözleşmeleri
 
@@ -364,9 +364,9 @@ Başkanlığa ödenek gönderme belgesi yerine ödenek gönderme belgeleri ismal
 
 **Madde 21 –** (1) On mali kontrol sonucunda uygun görüş verilmediği halde harcama yetkilileri tarafından gerçekleştirilen işlemler, harcama yetkililerince Başkanlığa yazılı olarak bildirilir. Başkanlıkça bu tür işlemlerin kayıtlanı tutulur ve aylık dönemler itibariyle Da Yöneticiye bildirilir. Süz komasu kayıtlar iç ve d denetim strasında denetçilere de sunulur.
 
-Kontrol süresi
+**Kontrol süresi**
 
-Madde 23. (1) Başkanlık, kontrol ve uygun görüş işlemlerini bu Yönergede belirlenen süreler içinde sonuçlandırır. Yönergede belirtilen strelerin başlangiç tarihinin belirlenmesinde, Başkanlık evrak giriş kayıt tarihini iæleyen iş günü esas alınır. Başkanlak talebi ve Üst Yöneticinin onayn üzerine bu süreler bir katma kadar artınabilir.
+**Madde 23.** (1) Başkanlık, kontrol ve uygun görüş işlemlerini bu Yönergede belirlenen süreler içinde sonuçlandırır. Yönergede belirtilen strelerin başlangiç tarihinin belirlenmesinde, Başkanlık evrak giriş kayıt tarihini iæleyen iş günü esas alınır. Başkanlak talebi ve Üst Yöneticinin onayn üzerine bu süreler bir katma kadar artınabilir.
 
 #### Tereddütlerin giderilmesi
 

@@ -46,7 +46,7 @@ Tel: 0 (312) 458 50 22 Faks: 0 (312) 435 16 79
 
 ### SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü TC. Sağlık Bakanlığı
+**Sağlık Hizmetleri Genel Müdürlüğü** TC. Sağlık Bakanlığı
 
 Genel Müdürlüge Sayı : 23642684/ Konu : Türk Silahlı Kuvvetleri Sağlık Yeteneği
 
@@ -66,11 +66,11 @@ Bilgilerini ve keyfiyetin ilgililere tebliği ile sağlık yeteneklerini tespit 
 
 Gereğini önemle rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ
+**Prof. Dr. Eyüp GÜMÜŞ**
 
 Bakan a.
 
-Müsteşar EK: EK-1 Uçucu ve Dalgıç Raporları Vermeye Yetkili Hastaneler Listesi
+**Müsteşar** EK: EK-1 Uçucu ve Dalgıç Raporları Vermeye Yetkili Hastaneler Listesi
 
 EK-2 Sağlık Kurul Raporu ( Türk Silahlı Kuvvetleri)
 
@@ -90,7 +90,7 @@ EK-1
 
 ### UÇUCU UÇUCU UÇUCU SINIFI SINIFI UÇUCU Ve DALGIÇ SINIFI RAPORLARI VERMEYE YETKİLİ SAĞLIK KURULUŞLARI LİSTESİ
 
-SAĞLIK TESİSİNİN MEVCUT İSMİ Muğla Marmaris Devlet Hastanesi Nedip S.B. İzmir Katip Çelebi Ünv. Atatürk E.A.H
+**SAĞLIK TESİSİNİN** MEVCUT İSMİ Muğla Marmaris Devlet Hastanesi Nedip S.B. İzmir Katip Çelebi Ünv. Atatürk E.A.H
 
 Eskişehir Yunus Emre Devlet Hastanesi 2
 

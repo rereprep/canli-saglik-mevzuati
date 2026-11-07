@@ -14,17 +14,17 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.26. Seyahat Sigortası Olan Turistlerden Trafik Kazalarında İlave Ücret Alınabilmesi Hakkında Genelge (2013/9)
+**2.3.26. Seyahat Sigortası Olan Turistlerden Trafik Kazalarında** İlave Ücret Alınabilmesi Hakkında Genelge (2013/9)
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 54567092-010-06 / 7935
 Konu : Seyahat Sigortası Olan Turistlerden Trafik Kazalarında İlave Ücret Alınabilmesi
 
-GENELGE
-2013/9
+**GENELGE**
+<i>2013/9</i>
 
 İlgi: a) 15/09/2011 tarihli ve 2011/50 sayılı Genelge.
 b) Sosyal Güvenlik Kurumu Başkanlığı Genel Sağlık Sigortası Genel Müdürlüğünün 20/02/2013 tarih ve 3.738.384 sayılı yazısı.

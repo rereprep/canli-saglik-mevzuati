@@ -167,10 +167,10 @@ Bu kapsamda; 2006/61 sayılı Genelge yürürlükten kaldırılmıştır. Mobil 
 Bilgilerini ve gereğini rica ederim.
 
 Prof. Dr. Kemal MEMİŞOĞLU  
-Bakan
+**Bakan**
 
 Ek:
-1- Araç Giydirme Örneği (1 sayfa)
+1- **Araç Giydirme Örneği** (1 sayfa)
 2- Arşivlenecek Dijital Raporlar (7 sayfa)
 3- İş Akış Şeması
 
@@ -550,9 +550,9 @@ Tüberküloz İl Koordinatörü　　　 Halk Sağlığı Hizmetleri Başkan Yrd
 - MTE Sorumluluk Bölgesine İntikal
 - MTE Tarama Faaliyeti
   - Yapılamadı → Tutanak →
-    - Tutanağın Sisteme Yüklenmesi
+    - **Tutanağın Sisteme Yüklenmesi**
     - MTE bağlı olduğu İl Sağlık Müdürlüğüne gönderir → Tarama yapılamayan kurumun İl Sağlık Müdürlüğüne resmi yazı → Tarama yapılamayan kurumun bulunduğu ilin sağlık müdürlüğü Valiliğe ve Kuruma Resmi Yazı
-  - Tarama Yapıldı → MTE Tarafından Tarama Verilerinin Sisteme girilmesi (5 İş Günü) → Elektronik Sistem deki tarama programına şüpheli kişi eklenebilmesi için MTE’nin Tarama Verilerini girmesi zorunluluktur
+  - **Tarama Yapıldı** → MTE Tarafından Tarama Verilerinin Sisteme girilmesi (5 İş Günü) → Elektronik Sistem deki tarama programına şüpheli kişi eklenebilmesi için MTE’nin Tarama Verilerini girmesi zorunluluktur
     - Tarama ile ilgili film ve dokümanların Tarama Yapılan ilin TB İl Koordinatörüne teslimi → TB İl Koordinatörü Filmleri değerlendirerek hekimlere filmlerin teslim edilmesi
     - Filmlerin Değerlendirilmesi (5 İş Günü) → Film değerlendirme süresi, MTE sisteme tarama verisini girdikten sonra başlar
     - Tarama Sonucu Sisteme Girilir → Tarama sonucu ve şüpheli kişilerin sisteme girişleri filmleri değerlendiren hekim tarafından yapılır. → Yıllık tarama programında değerlendirmeyi yapacak kurum olarak belirlenmiş VSD’nin hekimi sisteme giriş yapar.

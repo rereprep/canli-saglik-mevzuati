@@ -13,12 +13,12 @@ ocr: true
 duzeltildi: true
 ---
 
-TEBLİĞ
+**TEBLİĞ**
 
-Sosyal Güvenlik Kurumu Başkanlığından:
+**Sosyal Güvenlik Kurumu Başkanlığından:**
 
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE
-DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 4.2.14.C numaralı maddesinin üçüncü fıkrasında aşağıdaki düzenlemeler yapılmıştır.
 a) (b) bendi yürürlükten kaldırılmıştır.
@@ -33,7 +33,7 @@ e) Aynı fıkraya aşağıdaki bentler eklenmiştir.
 “(ççç) Palbosiklib;
 1) Östrojen Reseptörü en az %10 pozitif ve İnsan Epidermal Büyüme Faktörü Reseptörü 2 (HER-2) negatif, postmenopozal nüks/metastatik meme kanseri olan hastalarda en az bir tıbbi onkoloji uzman hekiminin yer aldığı en fazla 6 ay süreli sağlık kurulu raporuna istinaden tıbbi onkoloji uzman hekimleri tarafından reçete edilmesi halinde aşağıda yer alan kriterler çerçevesinde bedelleri Kurumca karşılanır.
 a) Nüks/metastatik meme kanseri için daha önce hiçbir endokrin tedavi almamış veya adjuvan tedavinin tamamlanmasından 12 ay sonra nüks/metastaz gelişmiş hastalarda letrozol ile kombine olarak kullanılması halinde Kurumca bedelleri karşılanır.
-b) Nüks/metastatik meme kanseri tedavisi için birinci sıra aromataz inhibitörü tedavisini 6 aydan daha uzun süre kullandıktan sonra klinik ve/veya radyolojik hastalık progresyonu varlığında fulvestrant ile kombine olarak kullanılması halinde bedelleri Kurumca karşılanır. Daha önce fulvestrant tedavisi almış veya adjuvan aromataz inhibitörü tedavisinin ilk 12 ayı içinde relaps yapan veya metastatik hastalık için bir sıradan daha fazla aromataz inhibitörü almış hastalarda kullanılması halinde bedelleri Kurumca karşılanmaz.
+b) **Nüks/metastatik meme kanseri tedavisi için birinci sıra aromataz inhibitörü tedavisini** 6 aydan daha uzun süre kullandıktan sonra klinik ve/veya radyolojik hastalık progresyonu varlığında fulvestrant ile kombine olarak kullanılması halinde bedelleri Kurumca karşılanır. Daha önce fulvestrant tedavisi almış veya adjuvan aromataz inhibitörü tedavisinin ilk 12 ayı içinde relaps yapan veya metastatik hastalık için bir sıradan daha fazla aromataz inhibitörü almış hastalarda kullanılması halinde bedelleri Kurumca karşılanmaz.
 c) Adjuvan aromataz inhibitörü tedavisi devam ederken (en az 12 ay almış olmak şartıyla) ya da bu tedavi tamamlandıktan sonraki 12 ay içinde nüks/metastaz görülen hastalarda fulvestrant ile kombine olarak kullanılması halinde bedelleri Kurumca karşılanır. Daha önce fulvestrant tedavisi almış veya adjuvan aromataz inhibitörü tedavisinin ilk 12 ayı içinde relaps yapan veya metastatik hastalık için bir sıradan daha fazla aromataz inhibitörü almış hastalarda kullanılması halinde bedelleri Kurumca karşılanmaz.
 ç) Rapor süresinin sonunda tedavinin devamı için düzenlenecek yeni raporda hastalıkta progresyon olmadığı belirtilmelidir.
 (ddd) Ribosiklib;
@@ -79,14 +79,14 @@ a) Yüksek hastalık aktivitesi gösteren relaps ve remisyonlarla seyreden MS ha
 2) Birbirini takip eden MRG’lerde lezyon yükünde (yeni T2 lezyon, aktif lezyon veya mevcut lezyonda büyüme) artış,
 3) Doğrulanmış (6 ay içinde geri dönüşümsüz) EDSS ölçeğinde en az 0,5 puan artışı.
 b) EDSS 7 ve altında olan, relaps ve remisyonlarla seyreden güncel Multipl Skleroz (MS) tanı kriterlerini karşılayan hastalarda üçüncü basamak sağlık hizmeti sunucularında nöroloji uzman hekimi tarafından düzenlenen en fazla 1 yıl süreli raporda bu durumun belirtilmesi ve nöroloji uzman hekimleri tarafından reçete edilmesi halinde bedelleri Kurumca karşılanır.
-c) Alemtuzumab tedavisi başlanmasından itibaren 5 (beş) yıllık süre zarfında beta interferon, glatiramer asetat, teriflunomid, dimetil fumarat, fingolimod, okrelizumab, kladribin veya natalizumab etken maddelerini içeren ilaçlardan herhangi birinin kullanımı Sağlık Bakanlığından hasta bazında alınacak endikasyon dışı ilaç kullanım onayı ile mümkündür.
+c) **Alemtuzumab tedavisi başlanmasından itibaren** 5 (beş) yıllık süre zarfında beta interferon, glatiramer asetat, teriflunomid, dimetil fumarat, fingolimod, okrelizumab, kladribin veya natalizumab etken maddelerini içeren ilaçlardan herhangi birinin kullanımı Sağlık Bakanlığından hasta bazında alınacak endikasyon dışı ilaç kullanım onayı ile mümkündür.
 (9) Fampiridin;
-a) Güncel Multipl Skleroz (MS) tanı kriterlerini karşılayan EDSS 4 ve üzeri olan hastalarda, üçüncü basamak sağlık hizmeti sunucularında nöroloji uzman hekimi tarafından düzenlenen en fazla 1 yıl süreli raporda bu durumun belirtilmesi koşulu ile nöroloji uzman hekimleri tarafından reçete edilmesi halinde bedelleri Kurumca karşılanır.
+a) **Güncel Multipl Skleroz (MS) tanı kriterlerini karşılayan EDSS** 4 ve üzeri olan hastalarda, üçüncü basamak sağlık hizmeti sunucularında nöroloji uzman hekimi tarafından düzenlenen en fazla 1 yıl süreli raporda bu durumun belirtilmesi koşulu ile nöroloji uzman hekimleri tarafından reçete edilmesi halinde bedelleri Kurumca karşılanır.
 b) Güncel Multipl Skleroz (MS) tanı kriterlerini karşılayan EDSS skoru 7 ve üzerinde olan hastalarda tedavi sonlandırılır.”
 
 MADDE 3- Aynı Tebliğin 4.2 numaralı maddesine aşağıdaki maddeler eklenmiştir.
 “4.2.59- Belinostat kullanım ilkeleri
-(1) Relaps Refrakter Periferik T Hücreli Lenfoma hastalarında tedavi olarak kullanımı uygundur. Üçüncü basamak sağlık kurumlarında düzenlenen en az bir hematoloji veya hematoloji-onkoloji uzmanının yer aldığı 3 (üç) ay süreli sağlık kurulu raporuna dayanılarak ilgili uzman hekimlerce reçete edilmesi halinde bedelleri Kurumca karşılanır.
+(1) **Relaps Refrakter** Periferik T Hücreli Lenfoma hastalarında tedavi olarak kullanımı uygundur. Üçüncü basamak sağlık kurumlarında düzenlenen en az bir hematoloji veya hematoloji-onkoloji uzmanının yer aldığı 3 (üç) ay süreli sağlık kurulu raporuna dayanılarak ilgili uzman hekimlerce reçete edilmesi halinde bedelleri Kurumca karşılanır.
 4.2.60- Sodyum benzoate kullanım ilkeleri
 (1) Üre döngüsü enzim bozukluklarının tedavisinde aşağıda belirtilen enzimlerden en az biri eksik olan hastalarda kullanılması halinde,
 a) CPS 1 (Karbamoil fosfat sentetaz tip 1)
@@ -166,8 +166,8 @@ değiştirilmiştir.
 MADDE 7- Aynı Tebliğ eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listenin “2” numaralı maddesine aşağıdaki alt maddeler eklenmiştir.
 “2.17. Ribosiklib*
-2.18. Palbosiklib*
-2.19. Midostaurin*
+2.18. **Palbosiklib***
+2.19. **Midostaurin***
 2.20. Daratumumab**”
 b) Listenin “8.1.7” numaralı maddesine aşağıdaki alt madde eklenmiştir.
 “8.1.7.1. Belinostat”
@@ -193,7 +193,7 @@ d) 6 ncı maddesinin (c) bendinde düzenlenen ekli listede;
 e) Diğer maddeleri yayımı tarihinden 5 iş günü sonra,
 yürürlüğe girer.
 
-MADDE 10- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 10-** Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 
 | Kamu No | Güncel Barkod | Ürün Adı | Eski Barkodlar | Eşdeğer (Benzer) Ürün Grubu | Referans Fiyat Grubu | Listeye Giriş Tarihi | Aktiflenme Tarihi | Pasiflenme Tarihi | Orijinal / Jenerik / Yerli / Yerli Üretim | Depocuya Satış Fiyatı (9,85 TL ve üzeri ise) | Depocuya Satış Fiyatı 13,18 TL (dahil) ile 14,84 TL (dahil) ise | Depocuya Satış Fiyatı 6,89 TL (dahil) ile 13,17 TL (dahil) ise | Depocuya Satış Fiyatı 6,88 TL ve altında ise | Özel İskonto |
 |---|---|---|---|---|---|---|---|---|---|---:|---:|---:|---:|---:|

@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.38. Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi Genelgesi (2010/44)
+**2.3.38. Total Parenteral Nütrisyon İçin Güvenli Uygulamalar** Rehberi Genelgesi (2010/44)
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -24,8 +24,8 @@ Tedavi Hizmetleri Genel Müdürlüğü
 Sayı : B.10.0.THG.0.12.00.03 -216.99/24718
 Konu: Total Parenteral Nütrisyon İçin Güvenli Uygulamalar Rehberi
 
-GENELGE
-(2010/44)
+**GENELGE**
+**(2010/44)**
 
 Bakanlık Makamının 16/05/2007 tarihli ve 7716 sayılı onayı ile yürürlüğe konulmuş olan "Hastane Enfeksiyonları Bilimsel Danışma Kurulu'nun Teşkili, Görevleri ile Çalışma Usul ve Esasları Hakkında Yönerge" gereğince, 25/09/2009 tarihli 20441 sayılı Bakan Oluru ile oluşturulan Hastane Enfeksiyonları Bilimsel Danışma Kurulu'nun 28 Mayıs 2010 tarihli toplantısında alınan karara göre;
 

@@ -22,7 +22,7 @@ Tarih: 26.03.2014
 
 ### GENELGE 2014/13
 
-İlgi: 27.01.2012 tarihli ve 3931 (2012/10) sayılı Genelge.
+İlgi: 27.01.2012 tarihli ve 3931 <i>(2012/10)</i> sayılı Genelge.
 
 Bilindiği üzere, 21.01.2012 tarih ve 28180 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Sağlık Uygulama Tebliği'nde (SUT) Değişiklik Yapılmasına Dair Tebliğ ile acil servislerde yeşil alan uygulaması kapsamında değerlendirilecek sağlık hizmetleri için katılım payı alınacağı hükme bağlanmıştır. Bu kapsamda 520.021 Kodu ile tanımlanan "Yeşil Alan Muayenesi" uygulamasında birliğinin sağlanması bakımından uyulması gerekli esasların neler olduğu hususu 2012/10 sayılı Genelgemiz ile açıklanmıştır.
 

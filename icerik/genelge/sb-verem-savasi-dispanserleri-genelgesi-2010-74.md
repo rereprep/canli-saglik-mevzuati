@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 6.3.39. Verem Savaşı Dispanserleri Genelgesi (2010/74)
 
-FAX TEYİDİ
+**FAX TEYİDİ**
 
 T.C.
 SAĞLIK BAKANLIĞI

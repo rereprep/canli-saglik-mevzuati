@@ -77,7 +77,7 @@ Merkez teşkilatı, bağlı kuruluşlar ve taşra teşkilatları Bilişim Koordi
 
 Kurulun sekreterya hizmetlerini Sağlık Bilgi Sistemleri Genel Müdürlüğü yürütür.
 
-Alt Kurul
+**Alt Kurul**
 
 Bilişim Koordinasyon Kuruluna danışmanlık ve destek vermek üzere konusuna göre, Sağlık Bilgi Sistemleri Genel Müdürünün teklifi ve Müsteşar'ın onayı ile "Alt Kurul" teşkil edilir.
 

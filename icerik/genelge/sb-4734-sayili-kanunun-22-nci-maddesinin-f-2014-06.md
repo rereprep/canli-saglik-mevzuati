@@ -21,7 +21,7 @@ Mali Hizmetler Kurum Başkan Yardımcılığı
 Sayı : 36385208/010.06/
 Konu : 4734 sayılı Kanun’un 22 nci Maddesinin (f) Bendi.
 
-KAMU HASTANELERİ BİRLİĞİ
+**KAMU HASTANELERİ BİRLİĞİ**
 GENEL SEKRETERLİĞİNE
 
 ### GENELGE

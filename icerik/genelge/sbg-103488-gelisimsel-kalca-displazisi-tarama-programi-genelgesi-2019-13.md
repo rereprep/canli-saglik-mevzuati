@@ -16,8 +16,8 @@ kontrol_edildi: true
 ### T.C. SAĞLIK BAKANLIĞI
 Halk Sağlığı Genel Müdürlüğü
 
-Sayı : 67414668-
-Konu : Gelişimsel Kalça Displazisi Tarama Programı
+**Sayı** : 67414668-
+**Konu** : Gelişimsel Kalça Displazisi Tarama Programı
 
 ### GENELGE
 2019/13

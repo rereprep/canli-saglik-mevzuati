@@ -62,13 +62,13 @@ Bu Yönerge, 09/01/2007 tarihli ve 26398 sayılı Resmi Gazetede yayımlanan; T�
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) Genel Müdürlük: Tedavi Hizmetleri Genel Müdürlüğünü,
+b) **Genel Müdürlük:** Tedavi Hizmetleri Genel Müdürlüğünü,
 
-c) Daire Başkanlığı: Biyomedikal Mühendislik Hizmetleri Daire Başkanlığını,
+c) **Daire Başkanlığı:** Biyomedikal Mühendislik Hizmetleri Daire Başkanlığını,
 
 ç) Komisyon: Genel Müdürlük bünyesinde tıbbi cihazlar için oluşturulan Tıbbi Cihazlar Bilimsel ve Teknik Danışma Komisyonunu,
 
-d) Tıbbi Cihazlar: Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin 4 üncü maddesinde tanımlanan aktif tıbbi cihaz ve vücuda yerleştirilebilir aktif tıbbi cihazı, Tıbbi Cihaz Yönetmeliğinin 4 üncü maddesinde tanımlanan ısmarlama üretilen cihaz, klinik araştırma cihazı ve tıbbi cihazı ve Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğinin 4 üncü maddesinde tanımlanan in vitro tıbbi tanı cihazını,
+d) **Tıbbi Cihazlar:** Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin 4 üncü maddesinde tanımlanan aktif tıbbi cihaz ve vücuda yerleştirilebilir aktif tıbbi cihazı, Tıbbi Cihaz Yönetmeliğinin 4 üncü maddesinde tanımlanan ısmarlama üretilen cihaz, klinik araştırma cihazı ve tıbbi cihazı ve Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğinin 4 üncü maddesinde tanımlanan in vitro tıbbi tanı cihazını,
 
 e) Yönetmelikler: Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği, Tıbbi Cihaz Yönetmeliği ve Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğini,
 

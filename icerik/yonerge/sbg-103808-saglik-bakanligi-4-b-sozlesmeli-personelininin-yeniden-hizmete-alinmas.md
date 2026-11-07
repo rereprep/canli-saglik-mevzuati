@@ -24,13 +24,13 @@ i) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Kadrolu persone
 
 personel hariç kadrolu sağlık ve yardımcı sağlık hizmetleri sınıfı personelini,
 
-j) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Stratejik personel:
+j) **(Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Stratejik personel:**
 
 Sağlık Bakanlığı Atama ve Nakil Yönetmeliğine göre Bakanlık tarafından
 
 istihdamında güçlük çekilen uzman tabip ve tabip unvanlarındaki personeli,
 
-k) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Standart:
+k) **(Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Standart:**
 
 26/10/1994 tarihli ve 22093 sayılı Resmî Gazete'de yayımlanan, Sağlık Bakanlığı
 
@@ -64,7 +64,7 @@ b) Doğum sebebiyle hizmet sözleşmesi feshedilenlerin, ücretli doğum izninin
 
 **Madde 6 –** (Değişik madde: 23/03/2010 tarihli ve 96201 sayılı Bakan Onayı)
 
-(1) (Değişik ibare: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı) Aynı unvan ve hizmet niteliklerine sahip pozisyonda çalışan personelin il içi veya aynı hizmet bölgesindeki iller arası karşılıklı yer değişikliği;
+(1) **(Değişik ibare: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı)** Aynı unvan ve hizmet niteliklerine sahip pozisyonda çalışan personelin il içi veya aynı hizmet bölgesindeki iller arası karşılıklı yer değişikliği;
 
 a) Pozisyonlarının vizeli olduğu il'de fiilen en az bir yıl çalışmış olmaları,
 
@@ -102,7 +102,7 @@ c) Kamu personeli olan eşınin, kurum içı görev yeri değişikliği mümkün
 
 (5) Kadrolu personelin, sözleşmeli eşin görev yaptığı il'e nakil talebinde bulunabilmesi için o il'de standardın uygun olması şarttır. Kadrolu eşin, standardın uygun olmaması nedeniyle sözleşmeli eşin bulunduğu il'e atanamadığının, sözleşmeli personelin eş durumu nedeniyle yer değişikliği başvurularının alındığı tarıhler arasında belgelendirılmesı halinde sözleşmeli personel, kadrolu eşın görev yaptığı il'e yer değışıklıği talebinde
 
-(6) (Değişik fıkra: 21/09/2011 tarihli ve 263826 sayılı Bakan Onayı) Bu madde kapsamında en son yapılan eş durumu kurası için boş pozisyon ilan edilmemiş olması veya en son yapılan kura sonucu sözleşmeli personelin kadrolu çalışan eşinin bulunduğu il'e yerleştirilememesi durumunda, bir sonraki eş durumu kurası için boş sözleşmeli personel pozisyonlarının ilan edileceği tarihe kadar başvuruda bulunması ya da sözleşmeli personelin, pozisyonunun vizeli olduğu il'de fiilen en az bir yıl çalışmamış olması nedeniyle bu madde hükümlerinden yararlandırılamaması hallerinde kadrolu personel, sözleşmeli eşin görev yaptığı il'e standardın uygun olması kaydıyla atanır.
+(6) **(Değişik fıkra: 21/09/2011 tarihli ve 263826 sayılı Bakan Onayı)** Bu madde kapsamında en son yapılan eş durumu kurası için boş pozisyon ilan edilmemiş olması veya en son yapılan kura sonucu sözleşmeli personelin kadrolu çalışan eşinin bulunduğu il'e yerleştirilememesi durumunda, bir sonraki eş durumu kurası için boş sözleşmeli personel pozisyonlarının ilan edileceği tarihe kadar başvuruda bulunması ya da sözleşmeli personelin, pozisyonunun vizeli olduğu il'de fiilen en az bir yıl çalışmamış olması nedeniyle bu madde hükümlerinden yararlandırılamaması hallerinde kadrolu personel, sözleşmeli eşin görev yaptığı il'e standardın uygun olması kaydıyla atanır.
 
 (7) Kadrolu personelin eşinin, diğer kamu kurum veya kuruluşlarında 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesine göre sözleşmeli personel olarak çalışması halinde ise kadrolu personel, eşinin görev yaptığı il'e standardın uygun olması kaydıyla
 
@@ -122,7 +122,7 @@ c) Kamu personeli olan eşınin, kurum içı görev yeri değişikliği mümkün
 
 (2) Personel; sağlık kurulu raporunda yer alan teşhis ve uygulanacak tedavi imkånları dikkate alınarak Sağhk Komisyonu tarafından, söz konusu tedavinin yapılabileceği sağlık kurum veya kuruluşunun bulunduğu bir il'in aynı unvan ve niteliğe sahip boş pozisyonunda sözleşme yapılarak çalıştırılabılır.
 
-(3) Sağlık Komisyonu, gerekli durumlarda bu raporların başka eğitim ve araştırma hastanelerinin sağlık kurullarınca da usule ve fenne uygunluğunun tespit edilmiş olma şartını
+(3) **Sağlık Komisyonu**, gerekli durumlarda bu raporların başka eğitim ve araştırma hastanelerinin sağlık kurullarınca da usule ve fenne uygunluğunun tespit edilmiş olma şartını
 
 #### Mazereti sona eren personel
 
@@ -130,7 +130,7 @@ c) Kamu personeli olan eşınin, kurum içı görev yeri değişikliği mümkün
 
 (2) Mazereti sona eren personelden;
 
-a) (Değişik birinci cümle: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Eş durumu mazereti sona eren sözleşmeli personel, bulunduğu il D veya C hizmet grubunda ise veya mazereti, eşinin ölümü veya emekli olması nedeniyle sona ermiş ise talebi veya Bakanlıkça ihtiyaç duyulması halinde yerinde bırakılır. Aksi halde personel, D veya C hizmet grubunda aynı unvan ve niteliğe sahip boş pozisyon bulunan bir il'de sözleşme yapılarak çalıştırılır.
+a) **(Değişik birinci cümle: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)** Eş durumu mazereti sona eren sözleşmeli personel, bulunduğu il D veya C hizmet grubunda ise veya mazereti, eşinin ölümü veya emekli olması nedeniyle sona ermiş ise talebi veya Bakanlıkça ihtiyaç duyulması halinde yerinde bırakılır. Aksi halde personel, D veya C hizmet grubunda aynı unvan ve niteliğe sahip boş pozisyon bulunan bir il'de sözleşme yapılarak çalıştırılır.
 
 b) Sağlık mazereti sona erenler ise, sağlık mazereti nedenıyle yer değişikliği gerçekleştirmeden önce pozisyonunun bulunduğu il sınırları içerisindeki aynı unvan ve niteliğe sahip boş pozisyonda, sözleşme yapılarak çalıştırılır. Bu ilde boş pozisyon bulunamaması halinde personel, boş pozisyon bulununcaya kadar sağlık mazereti nedeniyle çalıştığı ılde görevine devam eder.
 
@@ -152,11 +152,11 @@ b) Sağlık mazereti sona erenler ise, sağlık mazereti nedenıyle yer değişi
 
 a) Eş durumu nedeniyle görev yeri değişikliği talebinde bulunanlardan;
 
-1) (Değişik bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) PBS başvuru formu 2) (Değişik bent: 23/10/2009 tarihli ve 198958 sayıdı Bakan Onayı) Vukuatlı nufus kayıt örneğının aslı,
+1) **(Değişik bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)** PBS başvuru formu 2) (Değişik bent: 23/10/2009 tarihli ve 198958 sayıdı Bakan Onayı) Vukuatlı nufus kayıt örneğının aslı,
 
 3) Eşinin kamu personeli olduğunu ve kurum içi görev yeri değişikliği mümkün olmayan veya mevzuatı uyarınca zorunlu yer değiştirmeye tabi tutulan bir görevde bulunduğunu belirten, son bir ay içerisinde eşinin çalıştığı kurumun personel biriminden alınmış atamaya yetkili amir veya yetki devri yapılan makamca imzalanmış belgenin ashı,
 
-4) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Eşi Sağlık Bakanlığı taşra teşkilatında stratejik, kadrolu, 4924 sayılı Kanun'a göre sözleşmeli veya 657 sayılı Kanun'un 4/B maddesine göre sözleşmeli personel olarak çalışanlardan eşinin kimlik bilgisini, görev yaptığı ili, statüsünü ve unvanını gösterir ilgili II Sağlık Müdürlüğu'nden son bir ay içerisinde alınmış onaylı belgenin aslı,
+4) **(Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)** Eşi Sağlık Bakanlığı taşra teşkilatında stratejik, kadrolu, 4924 sayılı Kanun'a göre sözleşmeli veya 657 sayılı Kanun'un 4/B maddesine göre sözleşmeli personel olarak çalışanlardan eşinin kimlik bilgisini, görev yaptığı ili, statüsünü ve unvanını gösterir ilgili II Sağlık Müdürlüğu'nden son bir ay içerisinde alınmış onaylı belgenin aslı,
 
 b) Sağlık mazereti nedeniyle görev yeri değişikliği talebinde bulunanlardan;
 
@@ -174,7 +174,7 @@ c) Eşinin şehit olması nedeniyle görev yeri değişikliği talebinde bulunan
 
 (2) Bu durumda olanlar, 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesine tabi Bakanlığa ait sözleşmeli personel pozisyonlarına bir yıl geçmedikçe yeniden atanamazlar. Bu sürenin sonunda yeniden hizmete alınma, 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin ek 3 üncü maddesi hükümlerine tabidir.
 
-(3) (Ek fikra: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)
+(3) **(Ek fikra: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)**
 
 (Değişik ibare: 23/03/2010 tarihli ve 96201 sayılı Bakan Onayı) Il'ler arası olmak üzere: karsılıklı ver değisikliği, eş durumu, sağlık mazereti veya eşinin şehit olması nedeniyle görev yeri değiştirilenler, sigortalılık işlemleri ve hizmet sözleşmesi yapılması amacıyla yeni görev yerine müracaat etmek üzere ayın 14 üncü günü mesai bitimine kadar beş işgünü izinli sayılır. Bu personelin eski görev yerleri ile ilişikleri, ayın 14 üncü günü mesai bitimi itibariyle sona erer. Sözleşmeli personel hizmet sözleşmesi imzalayarak ayın 15 inci günü yeni yerinde göreve başlatılır.
 

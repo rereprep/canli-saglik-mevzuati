@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.36. Kalp Merkezi Hizmetleri Genelgesi (2019/14)
+**2.3.36. Kalp Merkezi Hizmetleri Genelgesi (2019/14)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 
@@ -93,7 +93,7 @@ hastalara en doğru tedavinin uygulanması için ortak konsey oluşturulur. Kalp
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-T.C. SAĞLIK BAKANLIGI Sağlık Hizmetleri Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIGI** Sağlık Hizmetleri Genel Müdürlüğü
 
 ### GENEL MUDURLUGU SAĞLIK HIZMETLERI
 

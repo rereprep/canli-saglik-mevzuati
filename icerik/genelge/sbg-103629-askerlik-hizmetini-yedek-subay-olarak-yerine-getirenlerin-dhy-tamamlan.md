@@ -13,7 +13,7 @@ kontrol_edildi: true
 ---
 
 
-9.3.9. Askerlik Hizmetini Yedek Subay Olarak Yerine Getirenlerin DHY Tamamlanmış Sayılmasına İlişkin Usul ve Esaslar
+**9.3.9. Askerlik Hizmetini Yedek Subay Olarak Yerine Getirenlerin** DHY Tamamlanmış Sayılmasına İlişkin Usul ve Esaslar
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Yönetim Hizmetleri Genel Müdürlüğü
@@ -32,7 +32,7 @@ Genel Müdür [?]
 **Ek:** (3 sayfa)
 
 Uygun Görüşle Arz Ederim
-22.01/2018 [?]
+**22.01/2018** [?]
 Müsteşar Yardımcısı
 
 **OLUR**

@@ -23,7 +23,7 @@ Konu : Mevzuat Hazırlama Usul ve Esasları
 27.05.2024
 
 ### GENELGE
-2024/6
+**2024/6**
 
 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararnamenin "Hukuk birimlerinin görevleri" başlıklı 4 üncü maddesinin birinci fıkrasında, hukuk birimlerinin idarelerde muhakemat hizmetleri ile hukuk danışmanlığına ilişkin iş ve işlemleri yürütmekle görevli ve sorumlu oldukları belirtilmiş, aynı maddenin üçüncü fıkrasının (a) bendinde, "idare hizmetleriyle ilgili olarak diğer kamu kurum ve kuruluşları tarafından hazırlanan mevzuat taslaklarını ve idare birimleri tarafından hazırlanan mevzuat taslaklarını inceleyip hukuki mütalâasını bildirmek" hukuk birimlerinin hukuk danışmanlığı kapsamındaki görevleri arasında sayılmıştır.
 

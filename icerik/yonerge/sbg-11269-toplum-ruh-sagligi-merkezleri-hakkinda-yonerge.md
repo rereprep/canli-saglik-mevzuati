@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Tedavi Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Tedavi Hizmetleri Genel Müdürlüğü**
 
 Sayı: B.10.0.THG.0.10.00.15/251-99
 
@@ -45,20 +45,20 @@ GEREĞİ:
 A Planı
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK** BAKANLIĞI
 Tedavi Hizmetleri Genel Müdürlüğü
 
 Sayı: B.10.0.THG.0.10.00.15/251-99
 
 Konu: Toplum Ruh Sağlığı Merkezleri Hakkında Yönerge
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 Ülkemizde ağır ruhsal bozukluğu olan hastalara, toplum temelli ruh sağlığı modeli çerçevesinde, psikososyal destek hizmetleri verilmesi, takip ve tedavilerinin gerektiğinde, evde sağlık hizmetleri uygulamasına entegre bir şekilde yaşadıkları ortamda sunulabilmesi için, Sağlık Bakanlığına ait yataklı sağlık tesislerine bağlı olarak faaliyet göstermek üzere ruh sağlığı merkezlerinin kurulması, işleyişi, asgari fiziki şartları ile bulundurulması gereken araç, gereç ve personel standardının ve ilgili personelin görev, yetki ve sorumlulukları ile uygulamanın denetimine ilişkin usul ve esasların belirlenerek hizmetin etkin ve ulaşılabilir bir şekilde sunulmasını sağlamak amacıyla hazırlanan "TOPLUM RUH SAĞLIĞI MERKEZLERİ HAKKINDA YÖNERGE" nin onaylanarak yürürlüğe konulması hususunu emir ve tensiplerinize arz ederim.
 
 Ek-1: Yönerge Taslağı (12 sayfa)
 
-Prof. Dr. İrfan ŞENCAN
+<i>Prof.</i> Dr. İrfan ŞENCAN
 Genel Müdür V.
 
 Uygun görüşle arz ederim.
@@ -66,7 +66,7 @@ Uygun görüşle arz ederim.
 Prof. Dr. Nihat TOSUN
 Müsteşar
 
-OLUR
+**OLUR**
 …/…/2011
 Prof. Dr. Recep AKDAĞ
 Bakan

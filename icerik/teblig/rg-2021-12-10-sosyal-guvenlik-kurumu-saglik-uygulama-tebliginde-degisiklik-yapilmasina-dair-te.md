@@ -15,7 +15,7 @@ duzeltildi: true
 
 ## TEBLİĞ
 
-Sosyal Güvenlik Kurumu Başkanlığından:
+**Sosyal Güvenlik Kurumu Başkanlığından:**
 
 **SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 

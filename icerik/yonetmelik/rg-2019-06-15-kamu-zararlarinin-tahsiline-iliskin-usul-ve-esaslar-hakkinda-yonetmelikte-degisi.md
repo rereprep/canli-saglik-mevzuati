@@ -122,7 +122,7 @@ MADDE 10- Aynı Yönetmeliğin 15 inci maddesinin ikinci ve üçüncü fıkralar
 “(2) Sayıştay ilâmları için takibe yetkili birim tarafından, mahkeme ilâmları için ise kamu idaresini temsile yetkili hukuk birimi tarafından; tapu, vergi dairesi, trafik şubesi gibi tescile tabi varlıkların kayıtlarını tutan dairelerden, sosyal güvenlik kurumları, banka ve diğer ilgili yerlerden, sorumluların ve ilgililerin gelir ve malvarlığı araştırması yapılır. Takibe yetkili birimler tarafından yapılan araştırmada, hacze kabil malvarlığının söz konusu olması halinde alacak takip dosyası tamamlanır ve icra takibatı yapılmak üzere kamu idaresini temsile yetkili hukuk birimine gönderilir. Takibe yetkili birimlerce malvarlığı araştırmasının yapılamadığı hallerde veya hukuk birimlerince gerekli görülmesi halinde kamu zararlarının takip ve tahsili için her zaman malvarlığı araştırması yapılabilir. Hukuk birimlerince, takip edilen davalar sonrası kamu zararının tahsiline ilişkin alınan kararların icrası aşamasında da ihtiyaç duyulması halinde malvarlığı araştırması yapılabilir.
 (3) Araştırma sonucunda sorumlu ve/veya ilgililere ait malvarlığı tespit edilememesi halinde 21 inci madde hükümlerine göre işlem yapılır.”
 
-MADDE 11- Aynı Yönetmeliğin 16 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11-** Aynı Yönetmeliğin 16 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 
 “​​MADDE 16- (1) Kamu zararından doğan alacaklar, sorumluların ve/veya ilgililerin talebi üzerine kamu idaresince taksitlendirilebilir.
 (2) Taksitlendirme süresi azami beş yıl olup bu süre içerisinde asıl alacağın faiziyle birlikte tahsil edilmesi gerekir.
@@ -131,14 +131,14 @@ MADDE 11- Aynı Yönetmeliğin 16 ncı maddesi aşağıdaki şekilde değiştiri
 (5) Sorumlular ve/veya ilgililer, taksitlendirme taleplerine ilişkin yetkili makamın onayı alınıncaya kadar dilekçede belirtilen ilk taksit miktarını hemen, takip eden taksitleri de düzenli olarak, faiziyle birlikte muhasebe birimine ödeyebilir. Yetkili makamdan alınan taksitlendirme onayında kararlaştırılan taksit miktarı ödenen taksit miktarından fazla olduğu takdirde, onayda belirtilen ilk taksit tarihinden itibaren geçen taksit sürelerine ait toplam fark peşin olarak tahsil edilir.
 (6) Taksitlerden birinin, ödeme planına ve “borç senedi ve kefaletname”ye uygun olarak vadesinde ve faiziyle birlikte tamamen ödenmemesi halinde alacağın tamamı muaccel olur. Söz konusu alacak, muaccel olduğu tarihten itibaren 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre belirlenen gecikme zammı oranında hesaplanan faizi ile birlikte genel hükümlere göre takip ve tahsil edilir.”
 
-MADDE 12- Aynı Yönetmeliğin 18 inci maddesinin ikinci fıkrasında yer alan “, adlî, idarî ve askerî” ibaresi “ve” şeklinde değiştirilmiş, dördüncü fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
+**MADDE 12-** Aynı Yönetmeliğin 18 inci maddesinin ikinci fıkrasında yer alan “, adlî, idarî ve askerî” ibaresi “ve” şeklinde değiştirilmiş, dördüncü fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
 
 “(5) Taksitlendirilen alacaklara, anlaşma tarihindeki faiz oranı uygulanır. Kamu zararının oluştuğu tarihten anlaşma tarihine kadar olan faiz ayrıca hesaplanır. Ödeme planında anapara ile hesaplanan faiz ayrı ayrı gösterilir. Taksitlerin ödenmesinde sadece anaparaya anlaşma tarihinden ödeme tarihine kadar geçen süre için faiz hesaplanır.
 (6) Kamu zararından doğan alacaklara uygulanacak faiz konusunda aksine bir hüküm bulunmayan hallerde 4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun hükümleri uygulanır.”
 
-MADDE 13- Aynı Yönetmeliğin 20 nci maddesinin birinci ve ikinci fıkralarında yer alan “818” ibareleri “6098” şeklinde değiştirilmiştir.
+**MADDE 13-** Aynı Yönetmeliğin 20 nci maddesinin birinci ve ikinci fıkralarında yer alan “818” ibareleri “6098” şeklinde değiştirilmiştir.
 
-MADDE 14- Aynı Yönetmeliğin 21 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 14-** Aynı Yönetmeliğin 21 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 “​​MADDE 21- (1) Zorunlu veya mücbir sebeplerle takip ve tahsil imkânı kalmayan, dava ve icra takibine konu olmayan kamu zararından doğan alacaklardan merkezi yönetim bütçe kanununda gösterilen tutara kadar olanların kayıtlardan çıkarılmasına üst yöneticiler yetkilidir.
 (2) Tahsili için yapılacak takibat giderlerinin asıl alacak tutarından fazla olacağının anlaşılması nedeniyle, dava ve icra takibine konu olmayan kamu zararına ilişkin alacaklardan merkezi yönetim bütçe kanununda gösterilen tutara kadar olanların kayıtlardan çıkarılmasına üst yöneticiler yetkilidir.
@@ -146,20 +146,20 @@ MADDE 14- Aynı Yönetmeliğin 21 inci maddesi aşağıdaki şekilde değiştiri
 (4) Takibe yetkili birimce, alacağın takibinden vazgeçildiğine dair onay muhasebe birimine gönderilerek alacağın muhasebe kayıtlarından çıkarılması sağlanır.
 (5) Alacağın tahsili için açılan davada kamu idaresi aleyhine karar verildiği ve Yargıtay tarafından da onanmak suretiyle hüküm kesinleştiği veya kamu idaresi için bir yarar görülmediğinden temyizden yetkili merciin onayı alınarak vazgeçildiği hallerde, Yargıtay ilâmı veya temyizden vazgeçme onayı ile buna ilişkin aleyhteki mahkeme kararı, hukuk birimince takibe yetkili birime gönderilir. Bu birimlerce de söz konusu belgelerin onaylı birer örnekleri ilgili muhasebe birimine intikal ettirilerek alacağın kayıtlardan çıkarılması sağlanır.”
 
-MADDE 15- Aynı Yönetmeliğin 22 nci maddesinin birinci fıkrasının (a) bendi yürürlükten kaldırılmış, (c) bendi aşağıdaki şekilde değiştirilmiş ve (c) bendinden sonra gelmek üzere aşağıdaki bentler eklenmiştir.
+**MADDE 15-** Aynı Yönetmeliğin 22 nci maddesinin birinci fıkrasının (a) bendi yürürlükten kaldırılmış, (c) bendi aşağıdaki şekilde değiştirilmiş ve (c) bendinden sonra gelmek üzere aşağıdaki bentler eklenmiştir.
 
 “(c) Kamu idaresinin yönetim ve kullanımında bulunan taşınırların kaybolması, çalınması, eksilmesi veya zarar görmesine sebep olunması hallerinde 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliği ile 21/6/2010 tarihli ve 2010/616 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türk Silahlı Kuvvetleri, Millî İstihbarat Teşkilatı ve Emniyet Genel Müdürlüğü Taşınır Mal Yönetmeliği hükümlerine göre tespit edilen kamu zararlarından 2 nci maddenin ikinci fıkrası kapsamına girmeyenler bu Yönetmelik hükümlerine göre tahsil edilir.”
 
 “ç) Üst yöneticiler, bu Yönetmelik ile belirlenen yetkilerini sınırlarını açıkça belirlemek ve yazılı olmak suretiyle devredebilir.
 d) Muhasebe birimince tahsil edilen tutarlar ilgili ayın sonuna kadar takibe yetkili birime bildirilir.”
 
-MADDE 16- Aynı Yönetmeliğin 23 üncü maddesi yürürlükten kaldırılmıştır.
+**MADDE 16-** Aynı Yönetmeliğin 23 üncü maddesi yürürlükten kaldırılmıştır.
 
 MADDE 17- Aynı Yönetmeliğin 25 inci maddesinin birinci fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
-MADDE 18- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+**MADDE 18-** Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-MADDE 19- Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.
+**MADDE 19-** Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.
 
 Ek-1: Değerlendirme Formu
 

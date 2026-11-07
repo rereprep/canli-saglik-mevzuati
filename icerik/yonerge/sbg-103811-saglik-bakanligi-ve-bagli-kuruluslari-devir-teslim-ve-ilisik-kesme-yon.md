@@ -11,7 +11,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-9.2.7. Sağlık Bakanlığı ve Bağlı Kuruluşları Devir-Teslim ve İlişik Kesme Yönergesi
+**9.2.7. Sağlık Bakanlığı ve Bağlı Kuruluşları Devir-Teslim ve İlişik** Kesme Yönergesi
 
 ### SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARI DEVİR-TESLİM VE İLİŞİK KESME YÖNERGESİ
 
@@ -85,7 +85,7 @@ c) Geçici görev durumunda, görev süresi 6 ayın üzerinde ise 15 günü aşm
 
 ## ÜÇÜNCÜ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 

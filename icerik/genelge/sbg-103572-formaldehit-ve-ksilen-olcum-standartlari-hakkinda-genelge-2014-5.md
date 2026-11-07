@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.55. Formaldehit ve Ksilen Ölçüm Standartları Hakkında Genelge (2014/5)
+**2.3.55. Formaldehit ve Ksilen Ölçüm Standartları Hakkında** Genelge (2014/5)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü

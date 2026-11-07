@@ -13,9 +13,9 @@ ocr: true
 duzeltildi: true
 ---
 
-Sosyal Güvenlik Kurumu Başkanlığından:
+**Sosyal Güvenlik Kurumu Başkanlığından:**
 
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE**
 DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.9.3 numaralı maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
@@ -34,9 +34,9 @@ MADDE 4- Aynı Tebliğe 2.4.4.M numaralı maddesinden sonra gelmek üzere aşağ
 “2.4.4.N – Epidermolizis Bülloza
 (1) Epidermolizis bülloza tanılı hastalara yara bakım hizmetlerinin ödenebilmesi için üçüncü basamak sağlık hizmeti sunucuları tarafından, deri ve zührevi hastalıkları uzman hekimi, plastik, rekonstrüktif ve estetik cerrahi uzman hekimi ile genel cerrahi veya çocuk cerrahisi uzman hekimlerinin yer aldığı sağlık kurulu raporu düzenlenmesi gerekmektedir. Sağlık kurulu raporu 1 (bir) yıl geçerlidir. Bu hastaların tedavisi, yatan hastalar için Sağlık Bakanlığı’na bağlı sağlık hizmeti sunucuları ve üniversite hastaneleri tarafından sağlanacaktır. Epidermolizis bülloza hastalarının ayakta tedavisi ise sadece Evde Sağlık Hizmeti Birimlerince faturalandırılabilir. Epidermolizis bülloza tanılı hastaların yatarak veya ayakta tedavileri kapsamındaki yara bakım hizmetleri SUT EK-2/B Listesinde yer alan “530533” kodlu “Epidermolizis bülloza hastalığında yara bakımı hizmetleri” işlemi üzerinden faturalandırılır. Bu grup hastalara yara bakımı hizmetlerinde kullanılan malzemeler işlem puanına dahil olup sağlık hizmeti sunucularınca ayrıca faturalandırılmaz ve şahıs ödemesi kapsamında da herhangi bir ödeme yapılmaz. Ancak bu kapsamda tedavi gören hastalara kullanılan malzemelerin sağlık hizmeti sunucuları tarafından temin edilmeyerek hastaya reçete karşılığı dışarıdan temin ettirilmesi durumunda fatura tutarı ilgili hastaya ödenerek sağlık hizmeti sunucusuna yapılacak ödemeden düşülür.”
 
-MADDE 5- Aynı Tebliğin 3.1.1 numaralı maddesinin beşinci fıkrasının son cümlesi yürürlükten kaldırılmıştır.
+**MADDE 5- Aynı** Tebliğin 3.1.1 numaralı maddesinin beşinci fıkrasının son cümlesi yürürlükten kaldırılmıştır.
 
-MADDE 6- Aynı Tebliğin 3.1.2 numaralı maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 6- Aynı** Tebliğin 3.1.2 numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(19) Ayakta tedavide kullanılan tıbbi malzemelere ait fatura bedelleri malzemenin sözleşmeli satış merkezleri veya eczanelerden temin edilmesi halinde Kurumca karşılanır.”
 
 MADDE 7- Aynı Tebliğin 3.3.1 numaralı maddesinin üçüncü fıkrası yürürlükten kaldırılmıştır.
@@ -55,7 +55,7 @@ b) 18 yaş üzeri erişkinlerde tek taraflı işitme cihazı için; işitme kayb
 c) 18 yaş üzeri erişkinlerde bilateral işitme cihazı için; bilateral kalıcı işitme kaybı bulunduğu bu fıkranın (b) bendinde belirtilen yöntemlerden biri ile test edilerek belirlenmeli. Daha önce tek kulakta en az 6 ay süre ile işitme cihazı kullanıldığı ve işitme cihazı kullanımının sonucunda elde edilen eşikler sonucunda hastanın işitme cihazından yarar gördüğü (konuşmayı ayırt etme skorunda cihazlı ve cihazsız ölçümlerde artış sağlaması) resmi sağlık kurumlarınca düzenlenen sağlık kurulu raporunda belirtilmelidir.
 ç) Daha önce bilateral işitme cihazı kullanan hastaların bilateral cihaz yenileme işlemleri için; bu fıkranın (c) bendinde yer alan hükümler aranmayacak olup bilateral kalıcı işitme kaybı, bu fıkranın (b) bendinde belirtilen yöntemlerden biri ile test edilerek resmi sağlık kurumlarınca düzenlenen sağlık kurulu raporunda belirtilmelidir.”
 
-MADDE 10- Aynı Tebliğin 4.2.1 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 10-** Aynı Tebliğin 4.2.1 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin başlığı aşağıdaki şekilde değiştirilmiştir.
 “4.2.1 – Leflunomid, altın preparatları, Anti-TNF ilaçlar, rituksimab (romatoid artritte), abatasept, ustekinumab, tofacitinib, kanakinumab, tosilizumab ve vedolizumab kullanım ilkeleri”
 b) 4.2.1.C numaralı maddenin başlığı aşağıdaki şekilde değiştirilmiştir.
@@ -72,7 +72,7 @@ MADDE 12-Aynı Tebliğin 4.2.14.C numaralı maddesinin üçüncü fıkrasına a�
 “ı) Nivolumab; Sağlık Bakanlığından hasta bazında alınan onaya dayanılarak: renal cell ca ve hodgkin lenfoma tanılarında tıbbi onkoloji uzmanı veya hematoloji uzmanı hekiminin yer aldığı 6 ay süreli sağlık kurulu raporuna dayanılarak tıbbi onkoloji ile hematoloji uzman hekimlerince reçete edilir.
 ii) Mifamurtide; Yaşları 2-30 arasında değişen çocuk, ergen ve genç yetişkinlerde; makroskopik olarak tam rezeke edilmiş, metastatik olmayan, yüksek evreli osteosarkom tedavisinde, çoklu ajan kemoterapi ile kombine olarak, tıbbi/pediatrik onkoloji hekimlerinden birinin yer aldığı 1 yıl süreli sağlık kurulu raporuna istinaden tıbbi/pediatrik onkoloji uzmanlarınca reçete edilebilir. Raporda makroskopik olarak tam rezeke edilmiş, metastatik olmadığı belirtilir. 48(Kırksekiz) infüzyon kullanımı sonucunda tedavi kesilir.”
 
-MADDE 13- Aynı Tebliğin 4.2.47 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 13-** Aynı Tebliğin 4.2.47 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin başlığı aşağıdaki şekilde değiştirilmiştir.
 “4.2.47 – Konjenital generalize lipodistrofi ve konjenital leptin eksikliği tanılarında metreleptin kullanım ilkeleri;”
 b) 4.2.47 numaralı maddenin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -86,13 +86,13 @@ MADDE 14- Aynı Tebliğin 4.2.48 numaralı maddesi başlığı ile birlikte aşa
 “4.2.48 – Kolik asit kullanım ilkeleri
 (1) 3 beta hidroksi steroid dehidrojenaz eksikliği tanılı ve Zellweger spektrum bozukluğu tanılı hastalarda; üçüncü basamak sağlık kurumlarında çocuk endokroloji, çocuk metabolizma hastalıkları, erişkin endokroloji ve metabolizma uzmanı, gastroenteroloji uzmanı hekimlerinden en az birinin yer aldığı 3 ay süreli sağlık kurulu raporuna dayanılarak bu uzman hekimlerce reçetelenir.”
 
-MADDE 15- Aynı Tebliğin 4.4.1 numaralı maddesinin birinci fıkrası yürürlükten kaldırılmıştır.
+**MADDE 15-** Aynı Tebliğin 4.4.1 numaralı maddesinin birinci fıkrası yürürlükten kaldırılmıştır.
 
-MADDE 16- Aynı Tebliğin 4.6 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 16-** Aynı Tebliğin 4.6 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Üçüncü fıkrasında yer alan “ünite” ibaresi “ISBT (International Society of Blood Transfusion) 128 kan bankod” şeklinde değiştirilmiştir.
 b) Dördüncü fıkrasında yer alan “Tüm kan bileşenlerinin” ibaresinden sonra gelmek üzere “ISBT (International Society of Blood Transfusion) 128 kan bankod numaraları ile birlikte” ibaresi eklenmiştir.
 
-MADDE 17- Aynı Tebliğin 5.2.3 numaralı maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 17-** Aynı Tebliğin 5.2.3 numaralı maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “5.2.4 Sözleşmeli satış merkezi/merkez ve eczaneler tarafından ayakta tedavide kullanılan tıbbi malzemelere ait faturaların düzenlenmesi
 (1) Sözleşmeli Satış Merkezleri ve Eczaneler, hem kendi sistemleri üzerinden Kurum adına basılı olarak (üçer nüshalı), hem de Medula-Satış Merkezleri Provizyon Sisteminden elektronik olarak; Kurum sağlık yardımlarından yararlandırılan kişilerin tümünü kapsayan tek bir fatura düzenleyeceklerdir.
 (2) Ancak;
@@ -105,14 +105,14 @@ e) Özürlü sağlık kurulu raporu varsa, reçeteyi yazan hekim veya hastane Ba
 bulunması gerekmektedir.
 f) İş kazası, meslek hastalığı, trafik kazası ve adli vaka reçetelerine ait faturaların her hasta için manuel olarak ayrı ayrı düzenlenmesi ve faturaların tamamının incelenmesi gerekmektedir.”
 
-MADDE 18- Aynı Tebliğin 5.3.2.D numaralı maddesinin birinci fıkrasının (i) bendi yürürlükten kaldırılmıştır.
+**MADDE 18-** Aynı Tebliğin 5.3.2.D numaralı maddesinin birinci fıkrasının (i) bendi yürürlükten kaldırılmıştır.
 
-MADDE 19- Aynı Tebliğin 5.3.3 numaralı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 19-** Aynı Tebliğin 5.3.3 numaralı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “5.3.3 - Sözleşmeli satış merkezleri, eczane ve optisyenlik müesseseleri için fatura eki belgeler
 (1) Sözleşmeli satış merkezleri, eczane ve optisyenlik müesseseleri için SUT’ta ve Kurumun yapacağı sözleşmelerde belirtilen belgeler faturaya eklenecektir.
 (2) SUT’un 5.2.2, 5.2.3 ve 5.2.4 numaralı maddelerinde ayrı fatura edileceği belirtilen reçeteler ayrı ayrı tasnif edilmiş olmalıdır.”
 
-MADDE 20- Aynı Tebliğ eki Ayaktan Başvurularda Ödeme Listesi (EK-2/A)’nde yer alan “51592” kodlu Çocuk İmmünolojisi ve Alerji Hastalıkları branşından sonra gelmek üzere aşağıdaki işlem satırları eklenmiştir.
+**MADDE 20-** Aynı Tebliğ eki Ayaktan Başvurularda Ödeme Listesi (EK-2/A)’nde yer alan “51592” kodlu Çocuk İmmünolojisi ve Alerji Hastalıkları branşından sonra gelmek üzere aşağıdaki işlem satırları eklenmiştir.
 
 | Kod | Branş | Değer 1 | Değer 2 | Değer 3 | Değer 4 | Değer 5 | Değer 6 | Değer 7 | Değer 8 | Değer 9 | Değer 10 | Değer 11 | Değer 12 | Değer 13 | Değer 14 | Değer 15 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -122,7 +122,7 @@ MADDE 20- Aynı Tebliğ eki Ayaktan Başvurularda Ödeme Listesi (EK-2/A)’nde 
 | 1595 | Çocuk İmmünolojisi | 51 | 51 | 51 | 51 | 42 | 44 | 29 | 31 | 25 | 24 | 23 | 23 | 24 | 23 | 29 |
 | 1598 | Çocuk Alerjisi | 51 | 51 | 51 | 51 | 42 | 44 | 29 | 31 | 25 | 24 | 23 | 23 | 24 | 23 | 29 |
 
-MADDE 21- Aynı Tebliğ eki Hizmet Başı İşlem Puan Listesi (EK-2/B)’nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 21-** Aynı Tebliğ eki Hizmet Başı İşlem Puan Listesi (EK-2/B)’nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “530533” SUT kodlu satırı aşağıdaki şekilde değiştirilmiştir.
 
 | Sıra | SUT kodu | İşlem adı | Açıklama | Puan |
@@ -185,7 +185,7 @@ h) Listede yer alan “705360” SUT kodlu işlem satırı aşağıdaki şekilde
 |---|---|---|---|---|
 | 3392 | 705360 | Aferez granülosit süspansiyonu | Aferez işlemi dahil. 704820 ile birlikte faturalandırılmaz. | 150,08 |
 
-MADDE 22- Aynı Tebliğ eki Tanıya Dayalı İşlem Puan Listesi (EK-2/C)’nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 22-** Aynı Tebliğ eki Tanıya Dayalı İşlem Puan Listesi (EK-2/C)’nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “P614040” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
 
 | Sıra | SUT kodu | İşlem adı | Açıklama | Sınıf | İşaret | Puan |
@@ -216,13 +216,13 @@ d) Listede yer alan “P619927” SUT kodlu işlem satırı aşağıdaki şekild
 |---|---|---|---|---|---|---|
 | 2081 | P619927 | Normal vajinal ilk doğum (Çoğul gebelik) | Servikal prostaglandinler hariç, epizyotomi dahil. Ömür boyu bir kez faturalandırılabilir. | D | * | 1.138,80 |
 
-MADDE 23- Aynı Tebliğ eki Diş Tedavileri Puan Listesi (EK-2/Ç)’nde yer alan “402190” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**MADDE 23-** Aynı Tebliğ eki Diş Tedavileri Puan Listesi (EK-2/Ç)’nde yer alan “402190” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
 
 | Sıra | SUT kodu | İşlem adı | Açıklama | Puan |
 |---|---|---|---|---|
 | 37 | 402190 | Cam iyonomer dolgu | Lokal anestezi ücreti dahil. Aynı diş için 180 günden önce faturalandırılmaz. Aynı seansta aynı diş için 402130 kodlu işlem ile birlikte faturalandırılmaz. Sadece süt dişlerinde faturalandırılır. | 35,41 |
 
-MADDE 24- Aynı Tebliğ eki “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi (EK-3/A)”nda aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 24-** Aynı Tebliğ eki “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi (EK-3/A)”nda aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “OR4240” SUT kodlu tıbbi malzeme satırı yürürlükten kaldırılmıştır.
 b) Listede yer alan “OR3290” SUT kodlu tıbbi malzemenin fiyatı aşağıdaki şekilde yeniden belirlenmiştir.
 

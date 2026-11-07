@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.13. Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet Birimleri Yönergesi (2022/3)
+**2.3.13. Engelli Hastalara Yönelik Ağız ve Diş Sağlığı Hizmet** Birimleri Yönergesi (2022/3)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü

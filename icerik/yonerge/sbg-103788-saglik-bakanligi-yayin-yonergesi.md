@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-02.06.2014 tarih ve 6404779/2014.5403.6 sayılı Makam Oluru ile yürürlüğe konulan
+02.06.2014 **tarih ve** 6404779/2014.5403.6 sayılı Makam Oluru ile yürürlüğe konulan
 
 ### SAĞLIK BAKANLIĞI YAYIN YÖNERGESİ
 

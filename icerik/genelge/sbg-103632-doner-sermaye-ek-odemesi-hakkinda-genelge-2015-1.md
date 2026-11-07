@@ -14,7 +14,7 @@ kontrol_edildi: true
 ---
 
 
-9.3.12. Döner Sermaye Ek Ödemesi Hakkında Genelge (2015/1)
+**9.3.12. Döner Sermaye Ek Ödemesi Hakkında Genelge (2015/1)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Yönetim Hizmetleri Genel Müdürlüğü
@@ -36,7 +36,7 @@ Bu itibarla, mezkur Yönetmeliğin:
 
 1) "Tanımlar" başlıklı 4 üncü maddesinin birinci fıkrasının (b) bendinde "Bilimsel çalışma destek puanı; İl Sağlık Müdürlüğü ve bağlı birimlerinde, Türkiye Halk Sağlığı Kurumuna bağlı merkez laboratuvarları, Halk Sağlığı Müdürlükleri ile bağlı birimlerinde ve Analiz ve Kontrol Laboratuvarında görev yapan personele Ek-5 sayılı tabloda yer alan bilimsel çalışmaları belgelemesi ve ilgili kurumlar tarafından oluşturulan komisyon tarafından onaylanması halinde onayı takip eden 2 ay süreyle verilen ve aynı listede yer alan bilimsel çalışmalara karşılık gelen puanı ifade eder." şeklinde tanımlanmıştır. Bu hükme göre İl Sağlık Müdürlüğü bünyesinde en az üç kişiden oluşan bir komisyon kurulması ve bu kapsamda İl Sağlık Müdürlüğü ve bağlı birimlerinde görev yapan personelin belgelenmiş bilimsel çalışmalarının bu komisyonca onaylanmasını müteakiben Mezkur Yönetmeliğin Ek-5 sayılı tablosunda yapılan bilimsel çalışmaya karşılık gelen puanın, komisyon onayını takip eden 2 ay süre ile verilmesi gerekmektedir.
 
-9.3.12. Döner Sermaye Ek Ödemesi Hakkında Genelge (2015/1)
+9.3.12. **Döner Sermaye Ek** Ödemesi Hakkında Genelge (2015/1)
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI

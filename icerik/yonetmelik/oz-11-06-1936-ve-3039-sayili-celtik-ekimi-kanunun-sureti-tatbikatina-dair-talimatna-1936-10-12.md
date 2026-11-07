@@ -218,7 +218,7 @@ Mehmed Çeltik
 
 ### Örnek II
 
-Tebliğname: Tarih / No
+**<i>Tebliğname: Tarih</i>** / No
 
 [köyünden] [oğlu] Mehmet Çeltiğe
 

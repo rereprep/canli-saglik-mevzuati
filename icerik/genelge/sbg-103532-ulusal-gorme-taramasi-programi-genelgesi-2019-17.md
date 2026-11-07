@@ -13,9 +13,9 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.52. Ulusal Görme Taraması Programı Genelgesi (2019/17)
+**6.3.52. Ulusal Görme Taraması Programı Genelgesi (2019/17)**
 
-Sayı: 67414668-[?]
+**Sayı**: 67414668-[?]
 
 Konu: Ulusal Görme Taraması Programı
 
@@ -59,7 +59,7 @@ c) Vakaların uygun yönetimi için sağlık kuruluşları arasında koordinasyo
 
 a) Taramadan sevk edilen bebek ve çocukların tetkik ve gereğinde tedavileri planlanacaktır.
 
-b) Sonucundan aile hekimine bilgi verilecektir.
+b) **Sonucundan aile hekimine bilgi verilecektir.**
 
 Görme taraması programının tüm sağlık kuruluşlarında yukarıda belirtilen şekilde uygulanmasının sağlanması ve program çalışmalarının hassasiyetle yürütülmesi hususlarında;
 
@@ -71,6 +71,6 @@ Bakan a.
 
 Bakan Yardımcısı
 
-DAGITIM:
+**DAGITIM:**
 
 A Planı

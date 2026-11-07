@@ -17,19 +17,19 @@ kontrol_edildi: true
 
 6.3.38. Verem Savaşı Dispanserleri Genelgesi (2010/74)
 
-FAX TEYİDİ
+**FAX TEYİDİ**
 
 T.C.
-SAĞLIK BAKANLIĞI
-Verem Savaşı Dairesi Başkanlığı
+**SAĞLIK BAKANLIĞI**
+**Verem Savaşı Dairesi Başkanlığı**
 
 Sayı : B.10.0.VSD.0.00.00.06 -010/06 - 8395305
 Konu : Verem Savaşı Dispanserleri
 
 20.10.2010
 
-GENELGE
-2010/74
+**GENELGE**
+**2010/74**
 
 ..... VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
@@ -42,9 +42,9 @@ Bu kapsamda, verem savaşı dispanserlerinin açılması, kapanması, yer deği�
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 Bakan a.
-Müsteşar
+**Müsteşar**
 
 DAĞITIM:
 

@@ -43,5 +43,5 @@ Yükseköğretim Kurulu Başkanlığına (YÖK)
 **Bilgi:**  
 Hukuk Hizmetleri Genel Müdürlüğüne  
 Kamu Hastaneleri Genel Müdürlüğüne  
-Acil Sağlık Hizmetleri Genel Müdürlüğüne  
+**Acil Sağlık** Hizmetleri Genel Müdürlüğüne  
 Halk Sağlığı Genel Müdürlüğüne

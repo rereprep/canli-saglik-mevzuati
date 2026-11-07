@@ -56,17 +56,17 @@ Genel Müdür V.
 
 **MADDE 3 –** (1) Bu Yönergede geçen;
 
-a) Ham su: Diyaliz kliniğine hariçten temin edilen şebeke veya artezyen suyunu,
+a) **Ham su:** Diyaliz kliniğine hariçten temin edilen şebeke veya artezyen suyunu,
 
-b) Saf su (Revers Osmos Su): Standart hemodiyaliz sırasında konsantre hemodiyaliz çözeltilerinin seyreltilmesinde kullanılan arıtılmış suyu,
+b) **Saf su (Revers Osmos Su):** Standart hemodiyaliz sırasında konsantre hemodiyaliz çözeltilerinin seyreltilmesinde kullanılan arıtılmış suyu,
 
-c) Ultra saf diyaliz sıvısı: Hemofiltrasyon veya hemodiyafiltrasyon sırasında kullanılan diyalizat veya yerine koyma sıvısını,
+c) **Ultra saf diyaliz sıvısı:** Hemofiltrasyon veya hemodiyafiltrasyon sırasında kullanılan diyalizat veya yerine koyma sıvısını,
 
 ç) Konsantre hemodiyaliz çözeltisi: Glikozlu veya glikozsuz olarak elektrolit içeren, seyreltildiğinde kan plazmasına yakın diyaliz sıvısı (diyalizat) elde etmek üzere formüle edilen konsantre çözeltileri,
 
-d) Diyaliz sıvısı ( Diyalizat) : Saf su ile seyreltilmiş konsantre hemodiyaliz çözeltilerini
+d) **Diyaliz sıvısı (** Diyalizat) : Saf su ile seyreltilmiş konsantre hemodiyaliz çözeltilerini
 
-e) Bakteriyolojik analizler: Mikrobiyal kontaminasyon ve bakteriyel endotoksin testlerini,
+e) **Bakteriyolojik analizler:** Mikrobiyal kontaminasyon ve bakteriyel endotoksin testlerini,
 
 ifade eder.
 

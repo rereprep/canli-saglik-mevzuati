@@ -39,7 +39,7 @@ b) İldeki Demir ve D vitamini preparatlarının stok durumunu Ocak-Temmuz aylar
 
 c) Öngörülemeyen sebeplerle Bakanlıkça stok ikmali sağlanamadığı durumlarda Demir ve D vitamini preparatları döner sermaye gibi yerel kaynaklarla temin edilecektir.
 
-ç) Aile hekimlerinin eğitim ve malzeme ihtiyaçlarını belirleyecek ve karşılayacaktır.
+ç) <i>Aile</i> hekimlerinin eğitim ve malzeme ihtiyaçlarını belirleyecek ve karşılayacaktır.
 
 d) Program göstergelerini sistem üzerinden ve iş başında izleyecek, değerlendirecek ve uygulayıcılara geri bildirim verecektir.
 

@@ -11,7 +11,7 @@ duzeltildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Türkiye Halk Sağlığı Kurumu
 
 Sayı : 23776858/157.99

@@ -76,7 +76,7 @@ Bilgilerinizi ve gereğini önemle rica ederim.
 
 Prof. Dr. Nihat TOSUN  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM:
 **Gereği:**  

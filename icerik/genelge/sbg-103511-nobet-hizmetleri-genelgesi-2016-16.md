@@ -15,7 +15,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.1. Nöbet Hizmetleri Genelgesi (2016/16)
+**6.3.1. Nöbet Hizmetleri Genelgesi (2016/16)**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -54,7 +54,7 @@ c) İlgili kurumlar yukarıdaki hükümler çerçevesinde belirledikleri nöbet 
 
 Bilgilerini ve gereğini rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ
+**Prof. Dr. Eyüp GÜMÜŞ**
 Bakan a.
 Müsteşar
 

@@ -16,8 +16,8 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Teftiş Kurulu Başkanlığı
+**SAĞLIK BAKANLIĞI**
+**Teftiş Kurulu Başkanlığı**
 
 Sayı : 226734301
 Konu : Bakanlık Müfettişleri ve Faaliyetleri
@@ -35,7 +35,7 @@ Yine, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı
 
 "(1) Teftiş Kurulu Başkanlığı, Bakanın emri veya onayı üzerine aşağıdaki görevleri yapar:
 a) Denetime ilişkin yöntem ve teknikleri geliştirmek, denetim alanındaki standart ve ilkelerin oluşturulmasını sağlamak, denetim rehberleri hazırlamak, denetimlerin etkinliğini ve verimliliğini artırıcı tedbirler almak,
-b) Bakanlık teşkilatı ile gerektiğinde bağlı ve ilgili kuruluşların ve bunların denetimi altındaki kurum ve kuruluşların iş ve işlemleri hakkında teftiş, denetim, inceleme ve soruşturma yapmak," düzenlemesine yer verilmiştir.
+b) <i>Bakanlık teşkilatı</i> ile gerektiğinde bağlı ve ilgili kuruluşların ve bunların denetimi altındaki kurum ve kuruluşların iş ve işlemleri hakkında teftiş, denetim, inceleme ve soruşturma yapmak," düzenlemesine yer verilmiştir.
 
 Ayrıca, 28.04.2021 tarihli ve 31468 sayılı Resmî Gazete'de yayımlanan Sağlık Bakanlığı Teftiş Kurulu Tüzüğünün:
 
@@ -47,7 +47,7 @@ a) Görevlilerin görevlerini gecikmeksizin yapmalarını sağlamak için gereke
 b) Görevlilere görevleri süresince konumlarına uygun bir çalışma yeri sağlamak ve gerekli diğer önlemleri almak,
 c) Görevlilerin görevlendirildikleri konularda bilgi işlem sistemleri, raporlama araçları, internet, intranet ve benzeri ağlar ile veri tabanlarına erişimini sağlamak, elektronik, manyetik ve benzeri her türlü elektronik bilgi iletişim araç ve gereçlerindeki bilgi ve kayıtları ilk talebinde görevliye göstermek ve incelemesine yardımda bulunmak,
 ç) Görevlilerin talebi üzerine, gizli de olsa teftiş, denetim, inceleme, soruşturma ve ön inceleme ile ilgili her türlü bilgi, kayıt, dosya, defter ve belgeleri vermek, para ve para hükmündeki evrak ve ayniyatı ilk talep halinde göstermek, bunların sayılmasına ve incelenmesine yardımcı olmak,
-zorundadırlar.
+<i>zorundadırlar.</i>
 
 (2) Teftiş, denetim, inceleme, soruşturma ve ön inceleme yapılan birim, kuruluş ve kurumlardaki personelin izinleri, zorunlu haller dışında görevlilerin talebi üzerine durdurulabilir. İzne ayrılmış olan personel de görevlilerin isteği üzerine göreve çağrılabilir." düzenlemeleri yer almaktadır.
 

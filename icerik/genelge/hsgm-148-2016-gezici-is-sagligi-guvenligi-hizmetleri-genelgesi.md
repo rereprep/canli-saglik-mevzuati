@@ -11,8 +11,8 @@ duzeltildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 54567092/
 Konu : Gezici İSG Hizmetleri
@@ -139,7 +139,7 @@ b) Donanım standartları ve teknik özellikleri: Endüstriyel tarama işitme te
 Sessiz kabin ve odyometrelerin kalibrasyonu, cihazın yetkili servisleri tarafından yapılıp raporlanmalıdır. Kalibrasyon işlemi uluslararası standartlar ile belirlenen kriterlere ve üretici tarafından belirlenen kriterlere göre yapılmalıdır. Odyometrelerin altı ayda bir, sessiz kabinlerin ise yılda bir defa kalibrasyonu yapılmalıdır. Ekipmana, kullanım sıklığına göre günlük veya haftalık olarak teknik ve hijyenik bakım yapılmalıdır.
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
 c) İşitme tarama testinin yapılacağı odanın standartları:
@@ -187,7 +187,7 @@ Motor no:
 Tescil tarihi:
 Tescil sıra no:
 
-Sahibi (Sahipleri)
+**Sahibi (Sahipleri)**
 Adı ve Soyadı:
 
 Yapılacak Tetkikler
@@ -195,7 +195,7 @@ Yapılacak Tetkikler
 2.
 3.
 
-Araçta Bulunan Tıbbi Cihaz Listesi:
+**Araçta Bulunan Tıbbi** Cihaz Listesi:
 
 | | Cinsi | Modeli | Miktarı |
 |---|---|---|---|
@@ -216,13 +216,13 @@ T.C.
 İl Sağlık Müdürlüğü
 
 Belge no:
-Belge tarihi:
+**Belge tarihi:**
 
 ÇALIŞMA BELGESİ
 
 Fotoğraf
 
-Sağlık Meslek Mensubunun
+**Sağlık Meslek Mensubunun**
 Adı ve Soyadı:
 Unvanı:
 Mezun olduğu okul/fakülte:

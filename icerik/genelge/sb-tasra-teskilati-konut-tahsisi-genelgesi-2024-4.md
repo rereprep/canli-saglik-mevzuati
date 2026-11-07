@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-9.3.2. Taşra Teşkilatı Konut Tahsisi Genelgesi (2024/4)
+**9.3.2. Taşra Teşkilatı Konut Tahsisi Genelgesi (2024/4)**
 
 T.C.
 SAĞLIK BAKANLIĞI

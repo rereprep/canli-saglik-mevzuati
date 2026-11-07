@@ -20,13 +20,13 @@ kontrol_edildi: true
 
 ### Kapsam ve Deyimler
 
-Kapsam:
+**<i>Kapsam:</i>**
 
 **Madde 1 –** Çalışma mevzuatının uygulanmasında müfettişlerce Devlet adına yapılacak izleme, denetleme ve teftişin ilkeleri, teftiş hizmetinin örgütlenmesine ilişkin kurallar, işyerlerinde tutulacak teftiş defterlerinin biçimi, ne yolda doldurulacağı ve bununla ilgili işlemler, müfettiş ve müfettiş yardımcılarının görev, yetki ve nitelikleriyle işe alınmaları ve çalışma yöntemleri bu Tüzükte gösterilmiştir.
 
 Askeri işyerleriyle yurt güvenliği için gerekli maddeler üretilen işyerlerinin denetim ve teftişi kendi tüzüğüne göre yürütülür.
 
-Deyimler:
+**<i>Deyimler:</i>**
 
 **Madde 2 –** Bu Tüzükte geçen;
 
@@ -34,7 +34,7 @@ A) «Bakanlık» sözcüğü, Çalışma Bakanlığı, B) «Çalışma mevzuatı
 
 ### İKİNCİ BÖLÜM
 
-Kuruluş ve örgüt:
+<i>Kuruluş</i> ve örgüt:
 
 **Madde 3 –** İş teftiş hizmetleri Çalışma Bakanlığı İş Teftiş Kurulunca yürütülür.
 
@@ -58,13 +58,13 @@ Tıp doktoru ve maden mühendislerinin giriş sınavları, başvuranların sayı
 
 Sınavda başarı gösterenler başarı derecelerine göre boş müfettiş yardımcılığı kadrolarına atanırlar. Derece eşitliğinde sınav programında yer alan yabancı dil bilgisi üstün olanlara öncelik verilir.
 
-Müfettiş yardımcılarının çalışmaları:
+**<i>Müfettiş yardımcılarının çalışmaları:</i>**
 
 **Madde 5 –** Müfettiş yardımcılığına atananlar, bir müfettişin yanında göreve başlarlar.
 
 Yardımcılar tek başlarına teftişe yetkili değildirler. Ancak, iki yıl olumlu sicil alanlara, yanında çalıştıkları müfettişlerle grup başkanı ve İş Teftiş Kurulu Başkanının olumlu görüşleri üzerine Bakanca teftiş yetkisi verilebilir.
 
-Müfettişliğe atanma :
+**<i>Müfettişliğe atanma :</i>**
 
 **Madde 6 –** Müfettişliğe, yönetmeliğine göre yapılacak müfettişlik yeterlik sınavını başaran müfettiş yardımcıları atanır.
 
@@ -74,7 +74,7 @@ A) Müfettiş yardımcılığı görevinde eylemli olarak en az üç yıl çalı
 
 Müfettişlerin herhangi bir nedenle başka bir göreve atanmalarında Teftiş Kurulu Başkanının görüşü alınır.
 
-Sınav Kurulu:
+**<i>Sınav Kurulu:</i>**
 
 **Madde 7 –** Müfettiş yardımcılığına giriş ve müfettişlik yeterlik sınavlarım yapacak olan sınav kurulu; müsteşar veya müsteşar yardımcısının başkanlığında, İş Teftiş Kurulu Başkanı ve Bakanın seçeceği üç iş müfettişinden oluşur.
 
@@ -86,7 +86,7 @@ Müfettişlik ve yardımcılıktan alınma :
 
 Ancak, yeniden, 4 üncü maddenin C bendinde belirtilen raporu alanlar tekrar müfettişliğe atanabilirler.
 
-Yeniden müfettişliğe alınma :
+**<i>Yeniden müfettişliğe alınma :</i>**
 
 **Madde 9 –** 8 inci maddede öngörülen nedenler dışında, Bakanlık, bağlı ya da ilgili kuruluşlarında bir göreve atanan müfettişler, Kurula yeniden alınabilirler.
 
@@ -96,7 +96,7 @@ Bu hüküm, müfettiş yardımcıları hakkında uygulanmaz.
 
 ### Teftişin işlevi, görevler, yetkiler ve sorumluluklar
 
-Teftişin işlevi:
+**<i>Teftişin işlevi:</i>**
 
 **Madde 10 –** Teftişin işlevi;
 
@@ -108,7 +108,7 @@ Kurul Başkanının görev ve yetkileri :
 
 A) İş Teftiş Kurulunun çalışmalarını düzenlemek, gözlemek, denetlemek ve değerlendirmek, B) Grup başkanlarının, kendilerine verilecek ilkelere göre hazırlayacakları teftiş programlarını incelemek, Bakanlık makamının onayına sunmak, uygulanmasını sağlamak ve sonuçları hakkında yıllık raporlar hazırlamak, C) Müfettişlerin çalışacakları iş teftişi gruplarım belirlemek, D) Teftiş raporlarını incelemek, varsa, eksikliklerini tamamlatmak, yanlışlıklarını düzelttirmek, E) Teftiş, raporlarının sonuçlarına göre çalışma hayatının düzenlenmesi, işçilerin refahının artırılması, sağlık ve güvenliklerinin korunması konularında alınacak önlemleri saptamak ve bu konularda Bakanlığa önerilerde bulunmak, F) İşyeri teftiş fişlerinin tutulmasını sağlamak, G) İş teftişiyle ilgili istatistik bilgileri derlemek, H) Uluslararası Çalışma Örgütüne her yıl gönderilecek genel raporun iş teftişine ilişkin bölümünü hazırlamak ve Araştırma Kuruluna göndermek, I) Müfettiş yardımcılığına alınacakların sayısını meslek dallarına göre belirleyip Bakanlık makamının onayına sunmak.
 
-Grup başkanlarının görev ve yetkileri:
+**<i>Grup başkanlarının görev ve yetkileri:</i>**
 
 **Madde 12 –** iş müfettişleri grup başkanları, işlerin düzenli ve etkili biçimde yürütülmesinden sorumludurlar. Görev ve yetkileri şunlardır:
 
@@ -116,19 +116,19 @@ A) Verilecek ilkelere göre yıllık teftiş programlarını hazırlamak ve İş
 
 B) Teftiş programının uygulanmasını sağlamak, C) Teftiş programlarına göre müfettişleri görevlendirmek, valilik ya da bölge çalışma müdürlüklerince grup başkanlarına bildirilen İşçi yakınması, yetki saptanması, grev oylaması, kurma izni, İşletme belgesi vb. teftiş işleriyle bağdaşabilen işleri müfettişlere iletmek ve izleyerek sonuçlandırılmasını sağlamak, D) Teftiş raporlarını incelemek, varsa, eksikliklerini tamamlatmak, yanlışlıklarını düzelttirmek, müfettiş ve yardımcılarının çalışmalarını izlemek, denetlemek, E) Gerektiğinde müfettişlerin görev ve yetkilerine giren işleri yapmak, F) İş Teftiş Kurulu Başkanlığınca verilen diğer işleri yapmak, G) İşyeri teftiş fişlerinin tutulmasını sağlamak, H) Müfettişlerce düzenlenen raporların bir örneğini, gerektiğinde görüşüyle birlikte, değerlendirilmek üzere İş Teftiş Kurulu Başkanlığına göndermek, I) 13 üncü maddenin F bendi gereğince, müfettişlerce hazırlanan aylık çalışma çizelgelerinin bir örneğini Kurul Başkanlığına göndermek.
 
-Müfettişlerin görevleri :
+**<i>Müfettişlerin görevleri :</i>**
 
 **Madde 13 –** Müfettişlerin görevleri, şunlardır :
 
 A) İş Teftiş Kurulu Başkanı veya grup başkanınca kendilerine verilen işleri yapmak, B) Çalışmalarının sonuçlarını rapora bağlayarak grup başkanına vermek, C) Görevli oldukları yerlerde, programlarında bulunmayan, fakat işçi sağlığı ve iş güvenliği yönünden kesin ve ciddi zorunluluk bulunan durumlarda, kendiliklerinden ve derhal işe el koyarak gereğini yapmak ve durumu grup başkanına bildirmek, D) Mevzuatta gördükleri boşluk ve aksaklıkların giderilmesi için önerilerde bulunmak, E) tş Teftiş Kurulu Başkanlığınca düzenlenen anketleri yürütmek ve istenen istatistik bilgileri derlemek, F) Teftiş programı gereğince yapacağı işlerin yer ve gününü belirleyen aylık çalışma çizelgesini hazırlayarak iki örneğini grup başkanına vermek, G) Yasalarla verilen diğer görevleri yapmak.
 
-Müfettişlere yaptırılacak diğer hizmetler :
+**<i>Müfettişlere yaptırılacak diğer hizmetler :</i>**
 
 **Madde 14 –** Yasalarla Çalışma Bakanlığına, çalışma hayatıyla ilgili olarak valiliklere ve bölge çalışma müdürlüklerine verilen görevlerden, teftiş hizmetiyle bağdaşabilir nitelikte olanlar, müfettişlere yaptırılabilir. Bu konudaki istem Bakanlıkça İş Teftiş Kuruluna, valiliklerce grup başkanına, bölge çalışma müdürlerince iş müfettişleri grup başkanlarına, grup bulunmayan yerlerde, varsa, görevli müfettişe bildirilir.
 
 Müfettişlere, yasalarda ve bu Tüzükte belirtilenler dışında görev verilemez.
 
-Müfettişlerin yetkileri :
+**<i>Müfettişlerin yetkileri :</i>**
 
 **Madde 15 –** Müfettişlerin yetkileri şunlardır :
 
@@ -144,7 +144,7 @@ Müfettişler, teftişle görevlendirildikleri işyerlerinde aldıkları emirde 
 
 Müfettişler, teftiş sırasında, mevzuatla saptanan kuralların yerindeliğini, işçi, işveren veya bunların meslek kuruluşları ilgilileriyle tartışamazlar.
 
-Teftiş programlarının hazırlanış ilkeleri :
+**<i>Teftiş programlarının hazırlanış ilkeleri :</i>**
 
 **Madde 17 –** İşyerlerinin teftişi, teftiş programlarına göre yapılır. Teftiş programları, işin yürütümüyle işçi sağlığı ve iş güvenliği teftişleri için ayrı ayrı düzenlenir.
 
@@ -170,11 +170,11 @@ A) İşyerlerinin yapım ve üretim koşulları, teknikleri ve sırlarıyla tica
 
 **Madde 20 –** Müfettişler, görevlerini yaparlarken İşin gidişini ve işyerinin işleyişini, inceledikleri konunun niteliği bakımından zorunluluk bulunmadıkça, aksatmamak, durdurmamak, güçleştirmemekle yükümlüdürler.
 
-Müfettişlerin teftiş edemeyecekleri işyerleri:
+**<i>Müfettişlerin teftiş edemeyecekleri işyerleri:</i>**
 
 **Madde 21 –** Müfettişler, eşlerine, üçüncü dereceye kadar (bu derece dahil) kan ve sihri hısımlanna ait veya bunların yönetimleri altındaki ya da kendilerinin veya bunların ortağı bulundukları işyerlerinde teftiş yapamazlar.
 
-Teftiş raporlart:
+**<i>Teftiş raporlart:</i>**
 
 **Madde 22 –** Her teftiş sonucu bir rapora bağlanır. Raporların kapsam, tür ve biçimleri yönetmelikte belirtilir.
 
@@ -192,7 +192,7 @@ Müfettiş raporlarıma gereğinin bölge çalışma müdürlüklerince geciktir
 
 ### Teftiş Defteriyle İlgili İşlemler
 
-Teftiş defteri:
+**<i>Teftiş defteri:</i>**
 
 **Madde 23 –** İşverenler, işyerleriyle işin niteliği ve yürütümü bakımından işyerine bağlı bulunan yerlerde teftiş sonuçlarının yazılması için birer teftiş defteri bulundurmakla yükümlüdürler.
 
@@ -204,7 +204,7 @@ Teftiş defterlerinin yenilenmesi halinde eski defterler iş müfettişlerince k
 
 İşyerinin devri halinde, eski işveren, saklama süresi sona ermemiş defterlerle işlem görmekte olan teftiş defteri ve bunlarla ilgili bütün yazışmaları yeni işverene vermek ve yeni işveren de söz konusu defter ve yazıları istemek, almak ve işyerinde bulundurmakla yükümlüdür.
 
-Teftiş defterinin kullanılması :
+**<i>Teftiş defterinin kullanılması :</i>**
 
 **Madde 24 –** Teftişlerde saptanan eksiklik ve aksaklıklar ilgili mevzuat hükümleri belirtilerek, müfettişlerce, teftiş defterine yazılır. Bir önceki teftişte saptanıp da daha sonraki teftişte tamamlanmadığı anlaşılan hususlar da ayrıca belirtilir.
 
@@ -234,7 +234,7 @@ Teftiş defterinin sayfaları birbirini izleyecek biçimde ara vermeden kullanı
 
 İşverenler, işveren vekilleri, işçiler ve diğer ilgililer, iş müfettişlerinin görevlerini yapabilmeleri için gerekli kolaylığı göstermek ve bu yoldaki istemlerini geciktirmeksizin yerine getirmekle yükümlüdürler.
 
-Güvenlik kuvvetlerinin yardımı :
+**<i>Güvenlik kuvvetlerinin yardımı :</i>**
 
 **Madde 26 –** Görevlerinin yapılmasına zorluk çıkartılması, engel olunması gibi durumlarda, müfettişler, en yakın güvenlik makam veya memurlarından yardım isterler.
 
@@ -242,7 +242,7 @@ Güvenlik makam' ve memurları, bu durumda İş Kanununun 95 inci maddesi uyarı
 
 Bu yükümlülükler, sokulmadıkları işyerlerine girmelerini veya istenilen belgeleri (görmelerini sağlamak gibi hususları ve bu Tüzüğün 15 inci maddesinin F bendinde yazılı halleri kapsar.
 
-Müfettişlerin çalışma alanları:
+**<i>Müfettişlerin çalışma alanları:</i>**
 
 **Madde 27 –** İş teftiş grupları, bölge çalışma müdürlüklerinin bulunduğu il merkezlerinden gerekli görülenlerde kurulur. Bunların görev alanları bölge müdürlüklerinin görev alanlarıdır. Grup bulunmayan bölge çalışma müdürlükleri içinde yer alan illerdeki iş teftiş hizmetlerinin hangi gruplarca yürütüleceği Bakanlıkça saptanır.
 
@@ -258,7 +258,7 @@ Bütün sınıflarda üç yıllık hizmet görmüş olanlar hakkında yukarıdak
 
 Bir bölgede çalışamayacak durumda oldukları sağlık kurulu raporuyla saptananlar, diğer memurluklara atanırlar.
 
-Kimlik belgesi :
+**<i>Kimlik belgesi :</i>**
 
 **Madde 28 –** Müfettişlere, Bakanca imzalanmış kimlik belgesi verilir. Özlük hakları ve yazışmalar :
 
@@ -278,11 +278,11 @@ Mühür:
 
 **Geçici Madde 3 –** Bu Tüzüğün yürürlüğe girmesini izleyen iki yıl için 5 inci maddenin ikinci fıkrasındaki iki yıllık süre bir yıl olarak uygulanabilir.
 
-Yürürlük:
+**<i>Yürürlük:</i>**
 
 **Madde 31 –** 25/8/1971 günlü ve 1475 sayılı İş Kanununun 88, 89, 90, 92, 93, 94 ve 95 inci maddeleriyle 5690 sayılı Sanayi ve Ticarette İş Teftişi Hakkındaki 81 numaralı Milletlerarası Çalışma Sözleşmesinin onanmasına dair Kanuna dayanılarak hazırlanmış ve Danıştay’ca incelenmiş olan bu Tüzük hükümleri Resmî Gazete’yle yayımı gününde yürürlüğe girer.
 
-Yürütme:
+**<i>Yürütme:</i>**
 
 **Madde 32 –** Bu Tüzük hükümlerini Bakanlar Kurulu yürütür.
 

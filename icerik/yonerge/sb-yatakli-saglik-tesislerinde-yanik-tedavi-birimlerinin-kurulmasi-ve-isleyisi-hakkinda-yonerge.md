@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.13. Yataklı Sağlık Tesislerinde Yanık Tedavi Birimlerinin Kurulması ve İşleyişi Hakkında Yönerge
+**2.2.13. Yataklı Sağlık Tesislerinde Yanık Tedavi Birimlerinin** Kurulması ve İşleyişi Hakkında Yönerge
 
 ### YATAKLI SAĞLIK TESİSLERİNDE YANIK TEDAVİ BİRİMLERİNİN KURULMASI VE İŞLEYİŞİ HAKKINDA YÖNERGE
 
@@ -122,7 +122,7 @@ C- Steril olmayan alan: Yanık tedavi merkezinde hasta kabul ve kayıt işlemler
 
 (4) Yanık ünitesi ve yanık odasında görevli sorumlu tabip bu birimdeki görevinin yanı sira branşı ile alakalı poliklinik, klinik, ameliyat ve nöbet hizmetlerini de yürütebilir. Diğer sağlık personeli ihtiyaca göre baştabip tarafindan kurumun diğer birimlerinde de çalıştırılabilir ve nöbet hizmetlerine dahil edilebilir.
 
-(Ek fıkra:23/02/2011-8601) (5) Yanık tedavi merkezlerindeki nöbet hizmetleri, bu birime rotasyona gelen ilgili dalda uzmanlık eğitimi görenlerle bir bütün olarak 24 saat esasına göre planlanır ve yürütülür.
+**(Ek fıkra:23/02/2011-8601)** (5) Yanık tedavi merkezlerindeki nöbet hizmetleri, bu birime rotasyona gelen ilgili dalda uzmanlık eğitimi görenlerle bir bütün olarak 24 saat esasına göre planlanır ve yürütülür.
 
 #### Sorumlu uzman tabibin görev yetki ve sorumlulukları
 

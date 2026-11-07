@@ -25,7 +25,7 @@ Konu : Tütün Kontrolü Uygulamaları
 
 27/01/2015
 
-GENELGE
+**GENELGE**
 2015/6
 
 Tütün kullanımı, birçok sağlık sorununa yol açan, önlenebilir hastalık ve ölüm sebepleri arasında en önde gelen risk faktörüdür. Maruz kalanların normal yaşam süresini kısaltarak erken ölümüne yol açan tütün ürünü kullanımı, halen dünya genelinde her 10 ölümden bir tanesinin sebebidir. Tütün mamulleri, kullanan kişinin sağlığına ve bütçesine zarar verdiği gibi çevresindeki kişilerin de olumsuz etkilenmesine sebep olmaktadır.
@@ -65,7 +65,7 @@ Bu kapsamda:
 hususlarında bilgilerini ve gereğini rica ederim.
 
 Dr. Mehmet MÜEZZİNOĞLU
-Bakan
+**Bakan**
 
 DAĞITIM:
 

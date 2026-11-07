@@ -17,8 +17,8 @@ kontrol_edildi: true
 ACELE GÜNLÜDÜR
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Tedavi Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**  
+**Tedavi Hizmetleri Genel Müdürlüğü**
 
 Sayı : B.10.0.THG.0.16.00.02-010.06 /10571  
 28.03.2008  

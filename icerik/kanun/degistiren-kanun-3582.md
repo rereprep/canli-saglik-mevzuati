@@ -31,7 +31,7 @@ Birinci fıkranın (b) bendinde belirtilen payların bütçe yılı içinde öde
 
 **MADDE 5 –** 29.5.1986 tarihli ve 3294 sayılı Kanuna aşağıdaki madde eklenmiştir.
 
-Tahsil şekli ve müeyyide
+**<i>Tahsil şekli ve müeyyide</i>**
 
 **Ek Madde 1 –** 4 üncü maddenin (a), (c), (d), (e), (0. (g) bendlerinde sayılan fon gelirleri ile 8 inci maddede yazılı vakıf gelirleri kamu alacağı mahiyetinde olup, bu Kanunda yazılı süre içinde ödenmeyen gerek 4 üncü maddenin (a), (c), (d), (f) ve (g) bendlerindeki fon gelirlerinin, gerekse 8 inci maddenin (b) bendinde yazılı vakıf gelirlerinin tahsili için Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu Kurulu Başkanlığınca veya ilgili vakıflarca 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun Hükümlerine göre işlem yapılır.
 

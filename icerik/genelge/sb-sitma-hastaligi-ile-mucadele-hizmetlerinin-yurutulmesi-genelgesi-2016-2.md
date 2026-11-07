@@ -20,10 +20,10 @@ T.C.
 SAĞLIK BAKANLIĞI
 Türkiye Halk Sağlığı Kurumu Başkanlığı
 
-Sayı : 10712557-136 /
+**Sayı** : 10712557-136 /
 Konu : Sıtma Hastalığı ile Mücadele Hizmetlerinin Yürütülmesi
 
-GENELGE
+**GENELGE**
 2016/2
 
 Bilindiği üzere ülkemizde sıtma hizmetleri, 7402 sayılı Sıtmanın İmhası Hakkında Kanun, 1593 sayılı Umumi Hıfzıssıhha Kanunu ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname çerçevesinde yürütülmektedir.
@@ -112,7 +112,7 @@ Prof. Dr. Eyüp GÜMÜŞ
 Bakan a.
 Müsteşar
 
-EKLER:
+**EKLER:**
 Ek -1- Sıtma Bilgilendirme Formu
 Ek -2- Aylık Sıtma Çalışmaları
 Ek -3- Halk Sağlığı Laboratuvarı Aylık Formu

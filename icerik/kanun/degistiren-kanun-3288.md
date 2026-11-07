@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No. 3288 Kabul Tarihi: 15.5.1986
+**Kanun No. 3288 Kabul Tarihi: 15.5.1986**
 
 **MADDE 1 –** 1380 sayılı Su Ürünleri Kanununun 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 

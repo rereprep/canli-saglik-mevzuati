@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.15. Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti Genelgesi (2011/56)
+**7.3.15. Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık** Maliyet Tespiti Genelgesi (2011/56)
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -23,13 +23,13 @@ Strateji Geliştirme Başkanlığı
 Sayı : B.10.0.SGB.0.84.00.01/10-06-11143
 Konu : Tıbbi Cihaz Hizmet ve Tıbbi Hizmet Alımlarında Yaklaşık Maliyet Tespiti
 
-19/10/2011
+**19/10/2011**
 
 ............ VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
-GENELGE
-2011/56
+**GENELGE**
+**2011/56**
 
 İlgi: 01.03.2010 tarihli ve 2010/11 Sıra Nolu Genelge.
 
@@ -90,7 +90,7 @@ AFM = [A × (1 + (B/12))^n × (B/12)] / [(1 + (B/12))^n - 1]
 
 TFM = (AFM × n) - A
 
-Formülde:
+**Formülde:**
 - A: Cihaz/Cihazların Piyasa Değerini (TL),
 - B: İdarenin Belirleyeceği ve Güncel Kanuni Faiz Oranını Geçmeyen Yıllık Oranı (%),
 - n: Toplam Hizmet Süresini (Ay),
@@ -177,7 +177,7 @@ Tedavi Hizmetleri Genel Müdürlüğüne
 Kamu Hastaneleri Genel Müdürlüğünce ilgili sistem güncellenmiş olup yapılan yaklaşık maliyet hesaplamalarında güncellenmiş modül kullanılacaktır.
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Kamu Hastaneleri Genel Müdürlüğü
 
 Sayı : E-36385208-949-226519750

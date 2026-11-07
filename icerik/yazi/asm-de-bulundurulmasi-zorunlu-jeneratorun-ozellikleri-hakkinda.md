@@ -18,8 +18,8 @@ kontrol_edildi: true
 ## ASM'DE BULUNDURULMASI ZORUNLU JENERATÖRÜN ÖZELLİKLERİ HAKKINDA
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Halk Sağlığı Genel Müdürlüğü  
+**SAĞLIK BAKANLIĞI**  
+**Halk Sağlığı Genel Müdürlüğü**  
 
 **Sayı :** 19831278/045.01  
 **Konu :** Jeneratör ve Kesintisiz Güç Kaynağı  

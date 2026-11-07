@@ -14,10 +14,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.1. Soybağının Tespiti Testi Genelgesi (2024/2)
+**2.3.1. Soybağının Tespiti Testi Genelgesi (2024/2)**
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 95966346 -
@@ -34,23 +34,23 @@ Ancak aile kütüklerine tescil işlemlerinin yapılması sürecinde, kimlik tes
 
 Bu itibarla; Soybağının Tespiti Testi yapılarak tıbbi rapor düzenlenmek üzere ilçe nüfus müdürlüklerine müracaat eden talep sahiplerinin, nüfus müdürlüğünce kimlik tespiti yapılarak düzenlenecek "Kimlik Tespit Formu 1-2 (Ek-1) (Ek-2)" ile kamu sağlık kurum/kuruluşuna başvurmalarından itibaren izlenilecek işlem adımları ve dikkat edilmesi gereken genel usul ve esaslar aşağıda belirtilmektedir.
 
-1- Tanımlar:
+**1- Tanımlar:**
 
 1.1- Soybağının Tespiti Testi: Talep sahiplerinin tanımlanmasında ve diğer bireylerden ayırt edilmesinde etkin olan özelliklerin tespit edilmesi amacıyla yapılan testi,
 
-1.2- Kimlik Tespit Formu 1: 18 (on sekiz) yaş üstü kişilerde saklı nüfus için kullanılacak formu (Ek-1),
+**1.2- Kimlik Tespit Formu** 1: 18 (on sekiz) yaş üstü kişilerde saklı nüfus için kullanılacak formu (Ek-1),
 
-1.3- Kimlik Tespit Formu 2: 18 (on sekiz) yaş altı kişilerde sözlü beyanda kullanılacak formu (Ek-2),
+**1.3- Kimlik Tespit Formu** 2: 18 (on sekiz) yaş altı kişilerde sözlü beyanda kullanılacak formu (Ek-2),
 
-1.4- Moleküler Genetik Raporu Formu: Genetik hastalıklar değerlendirme merkezleri tarafından ilgili nüfus müdürlüğüne gönderilecek sonuç rapor formunu (Ek-3),
+**1.4- Moleküler Genetik Raporu Formu:** Genetik hastalıklar değerlendirme merkezleri tarafından ilgili nüfus müdürlüğüne gönderilecek sonuç rapor formunu (Ek-3),
 
-1.5- Numune Gözetim Zinciri Formu: Numunenin kaybolmaması için, numuneyi alan kişinin, numuneyi laboratuvarda ve genetik hastalıklar değerlendirme merkezinde teslim alan kişilerin imzası bulunan formu (Ek-4),
+**1.5- Numune** Gözetim Zinciri Formu: Numunenin kaybolmaması için, numuneyi alan kişinin, numuneyi laboratuvarda ve genetik hastalıklar değerlendirme merkezinde teslim alan kişilerin imzası bulunan formu (Ek-4),
 
-1.6- Ödeme Makbuzu: Soybağının Tespiti Testi yapılması için, talep sahipleri tarafından numunenin alınacağı hastanenin döner sermayesine yatırdığını gösterir belgeyi,
+**1.6- Ödeme Makbuzu:** Soybağının Tespiti Testi yapılması için, talep sahipleri tarafından numunenin alınacağı hastanenin döner sermayesine yatırdığını gösterir belgeyi,
 
 1.7- Saklı Nüfus: On sekiz yaşını tamamlayıncaya kadar herhangi bir nedenle aile kütüğüne kayıt edilmemiş olan ve yabancı bir devletle vatandaşlık bağı bulunmayan kişileri,
 
-1.8- Şahit Numune: Test tekrarı yapılmasının gerekli olduğu hallerde veya test sonuçlarına yönelik herhangi bir itiraz olması durumunda kullanılmak üzere genetik hastalıklar değerlendirme merkezleri tarafından 6 ay süre ile saklanan numuneyi,
+**1.8- Şahit Numune:** Test tekrarı yapılmasının gerekli olduğu hallerde veya test sonuçlarına yönelik herhangi bir itiraz olması durumunda kullanılmak üzere genetik hastalıklar değerlendirme merkezleri tarafından 6 ay süre ile saklanan numuneyi,
 
 ifade eder.
 

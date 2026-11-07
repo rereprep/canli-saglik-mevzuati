@@ -15,7 +15,7 @@ kontrol_edildi: true
 
 ### SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ
 
-Sayı: 83913885
+**Sayı**: 83913885
 
 Konu: Replantasyon Uygulamaları
 

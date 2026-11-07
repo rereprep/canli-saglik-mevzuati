@@ -13,7 +13,7 @@ ocr: true
 duzeltildi: true
 ---
 
-YÖNETMELİK
+**YÖNETMELİK**
 
 Karar Sayısı: 2048
 

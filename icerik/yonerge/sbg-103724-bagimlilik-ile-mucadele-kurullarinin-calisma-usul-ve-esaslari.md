@@ -274,7 +274,7 @@ Ek-1) BMİKK Üye Tablosu
 
 Fuat OKTAY
 
-Cumhurbaşkanı Yardımcısı (BMYK Başkanı)
+**Cumhurbaşkanı Yardımcısı** (BMYK Başkanı)
 
 | | | |
 | --- | --- | --- |

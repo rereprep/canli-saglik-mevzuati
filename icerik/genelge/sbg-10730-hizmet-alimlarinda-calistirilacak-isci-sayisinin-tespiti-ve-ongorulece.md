@@ -38,7 +38,7 @@ Sonuç olarak yemek hizmetleri alımları kapsamında çalıştırılacak olan p
 
 2. İlgi genelgede öncelikle mevcut sözleşme hükümlerinin uygulanmasına sözleşme bitimine kadar devam edilmesi gerektiği vurgulanarak, sadece birim fiyat teklif alınarak yapılan hizmet alımlarında işçilerin kendiliğinden veya herhangi bir sebeple ayrılması durumunda, işçi sayısı fazla olan kurumların ayrılan işçinin yerine yeni işçi istihdam etmesinin yüklenicilerden istenmeyeceği hususu belirtilmiştir. Bu düzenleme temel esas olmakla beraber, birim fiyat teklif alınarak sözleşme imzalanan hizmet alımları kapsamında çalıştırılan kritik personelin (Ayrılan personelin sunmuş olduğu hizmetin, hizmet alımı kapsamında çalışan diğer personeller tarafından sunulamaması ve bu nedenle
 
-hizmetin aksaması durumlarında, ayrılan personel kritik personel olarak değerlendirilebilecektir. Bilgisayar Mühendisi, Sistem Sorumlusu, Aşçıbaşı gibi) ayrılması durumunda hizmette aksamalara meydan verilmemesi için bu personelin yerine aynı niteliklere haiz yeni personelin istihdam edilmesi yükleniciden istenebilir.
+<i>hizmetin</i> aksaması durumlarında, ayrılan personel kritik personel olarak değerlendirilebilecektir. Bilgisayar Mühendisi, Sistem Sorumlusu, Aşçıbaşı gibi) ayrılması durumunda hizmette aksamalara meydan verilmemesi için bu personelin yerine aynı niteliklere haiz yeni personelin istihdam edilmesi yükleniciden istenebilir.
 
 3. İlgi genelgede hizmet alımları kapsamında çalıştırılabilecek işçi sayısının tespiti ile getirilen düzenlemelerin Sağlık Müdürlükleri ile Bölge Hıfzıssıhha Enstitüsü Müdürlüklerini kapsamadığı belirtilmiş, ancak Sağlık Müdürlükleri ile Bölge Hıfzıssıhha Enstitüsü Müdürlüklerinin hizmet genişlemesi, hizmet aksaması gibi zorunlu haller dışında hizmet alımı yöntemiyle çalıştırdıkları mevcut işçi sayısını artırmayacakları vurgulanmıştı.
 
@@ -66,7 +66,7 @@ Bilgilerinizi ve konunun iliniz dâhilindeki Bakanlığımıza bağlı tüm dön
 
 Prof. Dr. Nihat TOSUN [?]  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
 ### EKLER:
 
@@ -76,7 +76,7 @@ Müsteşar
 
 Gereği: A Planı
 
-Bilgi: Kamu İhale Kurumu Başkanlığına
+**Bilgi:** Kamu İhale Kurumu Başkanlığına
 
 ### PERSONEL ÇALIŞTIRILMASINA DAYALI HİZMET ALIMLARI ÜCRET TABLOSU - 2
 

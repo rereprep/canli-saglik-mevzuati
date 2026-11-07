@@ -51,4 +51,4 @@ Müsteşar Yardımcısı
 
 EK: Yetkilendirilmiş Aile Hekimliği Sözleşme Belgesi
 
-Aile Hekimliği Daire Başkanlığı Uygulama Şubesi, Mithatpaşa Cad E-Blok No: 3 Sıhhiye/ANKARA. Tlf: (0 312) 585 14 29. Faks: 432 26 65. E-posta adresi: aile@saglik.gov.tr
+**Aile Hekimliği Daire Başkanlığı Uygulama Şubesi**, Mithatpaşa Cad E-Blok No: 3 Sıhhiye/ANKARA. Tlf: (0 312) 585 14 29. Faks: 432 26 65. E-posta adresi: aile@saglik.gov.tr

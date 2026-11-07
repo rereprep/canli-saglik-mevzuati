@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Denetim Hizmetleri Başkanlığı
+**Denetim Hizmetleri Başkanlığı**
 
 Sayı: 55753567/663.99/
 
@@ -34,13 +34,13 @@ a) Uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin durdurulması cezala
 
 b) Memurluktan çıkarma cezasında altı ay içinde disiplin kovuşturmasına,
 
-Başlanmadığı takdirde disiplin cezası verme yetkisi zamanaşımına uğrar.
+<i>Başlanmadığı takdirde disiplin</i> cezası verme yetkisi zamanaşımına uğrar.
 
-Disiplin cezasını gerektiren fiil ve hallerin işlendiği tarihten itibaren nihayet iki yıl içinde disiplin cezası verilmediği takdirde ceza verme yetkisi zamanaşımına uğrar." düzenlemesine yer verilerek soruşturmaya başlanma ve disiplin cezası vermeye ilişkin zamanaşımı süreleri belirlenmiştir.
+<i>Disiplin</i> cezasını gerektiren fiil ve hallerin işlendiği tarihten itibaren nihayet iki yıl içinde disiplin cezası verilmediği takdirde ceza verme yetkisi zamanaşımına uğrar." düzenlemesine yer verilerek soruşturmaya başlanma ve disiplin cezası vermeye ilişkin zamanaşımı süreleri belirlenmiştir.
 
 Öte yandan, 17/09/1982 tarihli ve 8/5336 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Disiplin Kurulları ve Disiplin Amirleri Hakkında Yönetmeliğin "Disiplin Amirlerinin Sorumlulukları" başlıklı 19 uncu maddesinin ikinci fıkrasının (a) bendinde ise;
 
-"Memurların uyarma, kınama, aylıktan kesme, kademe ilerlemesinin durdurulması ve memurluktan çıkarma cezalarından biriyle cezalandırılması gereken disipline aykırı davranışlarını öğrendikleri tarihten itibaren kanunen belli süreler içinde disiplin soruşturmasını başlatarak; gerekli cezayı uygulayarak, disiplin cezası verme yetkisinin zamanaşımına uğramasını önlemek […] zorundadırlar" denilerek, disiplin amirlerinin Kanunda belirtilen süreler içerisinde soruşturmaya başlanmasını sağlamak ve ceza verme yetkisinin zamanaşımına uğramasını önleyecek tedbirleri almakla yükümlü oldukları açıkça hüküm altına alınmıştır.
+<i>"Memurların</i> uyarma, kınama, aylıktan kesme, kademe ilerlemesinin durdurulması ve memurluktan çıkarma cezalarından biriyle cezalandırılması gereken disipline aykırı davranışlarını öğrendikleri tarihten itibaren kanunen belli süreler içinde disiplin soruşturmasını başlatarak; gerekli cezayı uygulayarak, disiplin cezası verme yetkisinin zamanaşımına uğramasını önlemek […] zorundadırlar" denilerek, disiplin amirlerinin Kanunda belirtilen süreler içerisinde soruşturmaya başlanmasını sağlamak ve ceza verme yetkisinin zamanaşımına uğramasını önleyecek tedbirleri almakla yükümlü oldukları açıkça hüküm altına alınmıştır.
 
 Bu itibarla;
 

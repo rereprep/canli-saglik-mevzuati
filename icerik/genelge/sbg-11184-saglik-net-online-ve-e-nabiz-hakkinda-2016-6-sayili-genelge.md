@@ -15,13 +15,13 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Bilgi Sistemleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Bilgi Sistemleri Genel Müdürlüğü**
 
 Sayı : 67189002
 Konu : Sağlık.Net Online ve e-Nabız
 
-GENELGE
+**GENELGE**
 2016/6
 
 Bilindiği gibi Anayasamızın 56 ncı maddesi "Devlet, herkesin hayatını, beden ve ruh sağlığı içinde sürdürmesini sağlamak; insan ve madde gücünde tasarruf ve verimi artırarak, işbirliğini gerçekleştirmek amacıyla sağlık kuruluşlarını tek elden planlayıp hizmet vermesini düzenler. Devlet, bu görevini kamu ve özel kesimlerdeki sağlık ve sosyal kurumlarından yararlanarak, onları denetleyerek yerine getirir." hükmünü âmirdir.
@@ -74,9 +74,9 @@ Gerekmektedir.
 
 Yukarıda geçen gerekliliklerin sağlık hizmeti sunan tüm kamu ve özel sağlık kuruluşları ile sağlık mesleği mensuplarına duyurulması hususunda bilgilerini ve gereğini önemle rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ  
+**Prof. Dr. Eyüp GÜMÜŞ**  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
 Dağıtım:  
 Gereği:  

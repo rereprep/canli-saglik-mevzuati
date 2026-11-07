@@ -34,9 +34,9 @@ Halk Sağlığı Genel Müdürü
 Uygun görüşle arz ederim.  
 .../.../2023  
 Doç. Dr. Tolga TOLUNAY  
-Bakan Yardımcısı
+**Bakan Yardımcısı**
 
-OLUR  
+**OLUR**  
 .../.../2023  
 Dr. Fahrettin KOCA  
 Bakan
@@ -64,7 +64,7 @@ Aşı sonrası istenmeyen etkilerin il ve ülke düzeyinde izlenebilmesi için s
 Genelgenin çoğaltılarak tüm sağlık kurum ve kuruluşlarına (özel sağlık kuruluşları ve muayenehaneler dahil) imza karşılığı tebliğini, il düzeyinde yapılan uygulamaların Genelgeye uygun olarak yürütülmesi ve yeni Genelge doğrultusunda personelin bilgilendirilmesini hedefleyen hizmet içi eğitim programları düzenlenmesi hususlarında gereğini önemle rica ederim.
 
 Dr. Fahrettin KOCA  
-Bakan
+**Bakan**
 
 **EK:** Daimi Genelge (11 sayfa)  
 **DAĞITIM:**  

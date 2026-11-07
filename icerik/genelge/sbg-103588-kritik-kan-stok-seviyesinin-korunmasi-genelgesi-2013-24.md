@@ -12,14 +12,14 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.16. Kritik Kan Stok Seviyesinin Korunması Genelgesi (2013/24)
+**2.3.16. Kritik Kan Stok Seviyesinin Korunması Genelgesi (2013/24)**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 74831629/210/2013.5363.42803  
-Konu : Kritik Kan Stok Seviyesinin Korunması
+**Konu** : Kritik Kan Stok Seviyesinin Korunması
 
 ### GENELGE
 ### 2013/24
@@ -34,15 +34,15 @@ Transfüzyon merkezlerinin, kan ve kan bileşenlerine ihtiyaç halinde hızlı b
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN  
+**Prof. Dr. Nihat TOSUN**  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM:
 
-Gereği:  
+**Gereği:**  
 Türkiye Kamu Hastaneleri Kurumuna  
 81 İl Valiliğine
 
-Bilgi:  
+**Bilgi:**  
 Türk Kızılayı Kan Hizmetleri Genel Müdürlüğüne

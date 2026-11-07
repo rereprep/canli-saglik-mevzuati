@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.50. Kan ve Kan Ürünleri Temini Genelgesi (2007/43)
+**2.3.50. Kan ve Kan Ürünleri Temini Genelgesi (2007/43)**
 
 ### T.C. Sağlık Bakanlığı, Tedavi Hizmetleri Genel Müdürlüğü
 

@@ -13,7 +13,7 @@ tarih: "14.07.2016"
 kontrol_edildi: true
 ---
 
-2.3.38. Replantasyon Uygulamaları Genelgesi (2016/9)
+**2.3.38. Replantasyon Uygulamaları Genelgesi (2016/9)**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI

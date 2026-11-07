@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Karar Sayısı : KHK/524 Ceza İnfaz Kurumları ile Tutukevlerinin Kuruluş ve İdaresinin yeniden düzenlenmesi;
+**Karar Sayısı : KHK/524** Ceza İnfaz Kurumları ile Tutukevlerinin Kuruluş ve İdaresinin yeniden düzenlenmesi;
 
 24/6/1993 tarih ve 3911 sayılı Kanunun verdiği yetkiye dayanılarak Bakanlar Kurulu'nca 10/9/1993 tarihinde kararlaştırılmıştır.
 
@@ -69,7 +69,7 @@ Cumhuriyet Başsavcıları, kurumlar ve personel üzerinde denetim ve gözetim y
 
 Kurum personelinin görevden doğan suçlarından dolayı haklarında bulundukları yer Cumhuriyet başsavcılığınca doğrudan ve genel hükümlere göre soruşturma ve kovuşturma yapılır.
 
-Yürütme ve İdare Bölümü Sayfa : 2 Kurum görevlilerinin çalışma gün, saat ve şekilleri Bakanlıkça düzenlenir.
+**Yürütme ve İdare Bölümü Sayfa : 2** Kurum görevlilerinin çalışma gün, saat ve şekilleri Bakanlıkça düzenlenir.
 
 İnfaz ve koruma başmemur ve memurları görev sırasında Bakanlıkça belirlenen ve sağlanan kıyafetleri giyerler.
 
@@ -117,7 +117,7 @@ Adaylar eğitim merkezinde geçirdikleri sürelere göre mecburi hizmetle yükü
 
 **Madde 5 –** İşletmeler ve İşyurtları Kurumu: Tüzel kişiliğe sahip, faaliyetlerinde özerk, sorumluluğu sermayesi ile sınırlı, bu Kanun Hükmündeki Kararnamedeki hükümler saklı kalmak üzere özel hukuk hükümlerine tabi bir kuruluştur. İşletmeler ve İşyurtları Kurumu hükümlü ve tutukluların tretman amacına yönelik olarak çalışmalarını sağlamak; ticari gaye ile mal ve hizmet üretmek ve pazarlamak üzere işletmeler ve işyurtları kurar.
 
-Yürütme ve İdare Bölümü Sayfa : 3 İşletmeler ve İşyurtları Kurumunun organları, İşletmeler ve İşyurtları Yüksek Kurulu ve Genel Müdürlüktür.
+**Yürütme ve İdare Bölümü Sayfa : 3** İşletmeler ve İşyurtları Kurumunun organları, İşletmeler ve İşyurtları Yüksek Kurulu ve Genel Müdürlüktür.
 
 İşletmeler ve İşyurtları Yüksek Kurulu: Bakanlık Müsteşarının başkanlığında bu konuda görevlendirilen müsteşar yardımcısı, Ceza İnfaz Kurumları ve Tutukevleri Genel Müdürü, İşletmeler ve İşyurtları Genel Müdürü, İdari ve Mali İşler Dairesi Başkanı, Teknik İşler Dairesi Başkanı, yılı içinde en yüksek kârlılığı sağlamış olan işletme müdürü, kamu veya özel sektörde çalışan bir maliyeci ve bir ekonomistten oluşur. Bakan, gerekli gördüğünde bu Kurula başkanlık eder.
 
@@ -157,7 +157,7 @@ a) Genel bütçeden ayrılan ödenek ve sermaye katılım payları, b) 2548 say�
 
 Yukarıdaki fıkranın (b) bendine göre tahsil edilen harçlar ile (c) bendine göre tahsil edilen yargı harçları ve (d) ve (e) bendlerine göre alınan ücretler İşletmeler ve İşyurtları Kurumunun Ankara'da milli bir bankada açılacak hesabına aktarılmak üzere, günlük olarak bulundukları mahaldeki bu bankanın şubesine yatırılır. (b) ve (c) bendinde yazılı olanlar makbuz karşılığı tahsil edilir. (f) ve (i) bendlerine göre elde edilen gelirler tahsilatı takiben ikinci fıkrada belirtilen hesaba yatırılır.
 
-Yürütme ve İdare Bölümü Sayfa : 5 (a) bendinde yazılı sermaye katılım payları yukarıda bahsi geçen hesaba yatırılır.
+**Yürütme ve İdare Bölümü Sayfa : 5** (a) bendinde yazılı sermaye katılım payları yukarıda bahsi geçen hesaba yatırılır.
 
 İşletmeler ve İşyurtları Kurumu bütçesinden, Bakanlıkça belirlenen miktar ve esaslar dahilinde, Bakanlık merkez ve taşra teşkilatı ile bağlı kuruluşların her türlü ihtiyaçlarını karşılamak üzere harcama yapılabilir.
 
@@ -175,7 +175,7 @@ Kurum personeli kendilerinin isteği, İşletmeler ve İşyurtları Yüksek Kuru
 
 İşletme ve işyurdu müdürlerinin kararıyla, işletme ve işyurtlarında çalışma saatleri dışında veya tatil günlerinde fazla çalışma yapılabilir. Fazla çalışma yapan personel ve işçilere Bütçe Kanunlarında belirlenen miktarlarda fazla çalışma ücreti ödenir.
 
-İşletmeler ve İşyurtları Yüksek Kurulunun onayı ile, işletme ve işyurtlarında görevli personel, işçi ve hükümlülere; işletme ve işyurtlarının senelik bilançolarında tahakkuk edecek kârdan bunun yüzdeyirmibeşini aşmamak ve ilgilinin ele geçen yıllık net ücretinin yüzde ellisini geçmemek üzere her sene Bütçe Kanunlarında gösterilen memur maaş katsayısının taban olarak (5.000), tavan olarak (10.000) rakamı ile çarpımından elde edilecek tutar arasında, çalıştıkları süre ile yaptıkları işin özellik ve güçlüğüne göre belirlenecek oranlarla kâr payı ödenir.
+İşletmeler ve İşyurtları Yüksek Kurulunun onayı ile, işletme ve işyurtlarında görevli personel, işçi ve hükümlülere; işletme ve işyurtlarının senelik bilançolarında tahakkuk edecek kârdan bunun yüzdeyirmibeşini aşmamak ve ilgilinin ele geçen yıllık net ücretinin yüzde ellisini geçmemek üzere her sene Bütçe Kanunlarında gösterilen memur maaş katsayısının taban olarak <i>(5.000), tavan</i> olarak <i>(10.000)</i> rakamı ile çarpımından elde edilecek tutar arasında, çalıştıkları süre ile yaptıkları işin özellik ve güçlüğüne göre belirlenecek oranlarla kâr payı ödenir.
 
 Ödemeler, çalışmayı takip eden bütçe yılında ve bir defada yapılır.
 
@@ -193,7 +193,7 @@ Yönetmelik, Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihden itiba
 
 Düzenlenecek yönetmelik yürürlüğe girinceye kadar, kurumlar ve işyurtlarına ait mevcut yönetmelik ve talimatnamelerin uygulanmasına devam olunur.
 
-Yürütme ve İdare Bölümü Sayfa : 6 Ceza İnfaz Kurumları İle Tevkifevlerinin Yönetimine ve Cezaların İnfazına Dair Tüzüğün bu Kanun Hükmünde Kararnameye aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+**Yürütme ve İdare Bölümü Sayfa : 6** Ceza İnfaz Kurumları İle Tevkifevlerinin Yönetimine ve Cezaların İnfazına Dair Tüzüğün bu Kanun Hükmünde Kararnameye aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 
 Kaldırılan Hükümler
 

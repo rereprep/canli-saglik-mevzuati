@@ -15,7 +15,7 @@ kontrol_edildi: true
 
 ### SAĞLIK BAKANLIĞI
 
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı: 23642684
 
@@ -29,11 +29,11 @@ Bilindiği üzere, 08.02.2002 tarih ve 24665 sayılı Resmî Gazete'de yayımlan
 
 Son zamanlarda başta FETÖ/PDY olmak üzere halkımızın can ve mal güvenliğini ve demokrasiyi hedef alan her türlü terör faaliyetinden dolayı, gaziler ve şehit dul ve yetimleri tarafından hastanelere yapılan sağlık kurulu raporu başvurularında ücret alınmaması ve gerekli kolaylığının sağlanması hususlarında azami hassasiyet gösterilmesini önemle rica
 
-Prof. Dr. Eyüp GÜMÜŞ
+**Prof. Dr. Eyüp GÜMÜŞ**
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM
 

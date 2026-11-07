@@ -132,7 +132,7 @@ TSK Sağlık ve GATA Komutanı
 
 ### EKLER
 
-EK-1: (TSK'da Birinci Basamak Sağlık Hizmeti ve Yetkilendirilmiş Aile Hekimliği Hizmeti Verecek Birimleri İçeren Sağlık Teşkili Türleri) EK-2: (TSK'da Birinci Basamak Sağlık Hizmeti ve Yetkilendirilmiş Aile Hekimliği Hizmeti Verecek Teşkillerin Listesi)
+**EK-1**: (TSK'da Birinci Basamak Sağlık Hizmeti ve Yetkilendirilmiş Aile Hekimliği Hizmeti Verecek Birimleri İçeren Sağlık Teşkili Türleri) EK-2: (TSK'da Birinci Basamak Sağlık Hizmeti ve Yetkilendirilmiş Aile Hekimliği Hizmeti Verecek Teşkillerin Listesi)
 
 EK-1
 

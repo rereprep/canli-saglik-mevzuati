@@ -13,18 +13,18 @@ ocr: true
 duzeltildi: true
 ---
 
-YÖNETMELİK
+**YÖNETMELİK**
 
-Karar Sayısı: 7036
+**Karar Sayısı: 7036**
 
 Ekli “Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik”in yürürlüğe konulmasına, 5258 sayılı Aile Hekimliği Kanununun 8 inci maddesinin ikinci fıkrası gereğince karar verilmiştir.
 
 4 Nisan 2023
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI
 
-AİLE HEKİMLİĞİ SÖZLEŞME VE ÖDEME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**AİLE HEKİMLİĞİ SÖZLEŞME VE ÖDEME YÖNETMELİĞİNDE** DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
 
 MADDE 1- 29/6/2021 tarihli ve 4198 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinin 19 uncu maddesinin beşinci fıkrasına “taban ödeme” ibaresinden sonra gelmek üzere “ve teşvik ek ödemesi” ibaresi eklenmiştir.
 

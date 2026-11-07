@@ -20,15 +20,15 @@ Sayı : 67414668-
 Konu : Bebek Ölümleri İzleme Sistemi
 
 ### GENELGE
-2018/7
+**2018/7**
 
 Ülkemizde uygulamakta olduğumuz Sağlıkta Dönüşüm Programı kapsamında yürüttüğümüz programlar sonucunda gerek anne gerekse bebek ölümlerinde önceki yıllarla kıyaslanamayacak ölçüde büyük başarılar elde edilmiş, bebek ölüm hızı binde 10'un altına düşürülmüştür. Bu rakamları daha aşağı seviyelere düşürebilmek için her bir bebek ölümünü izleyerek nedenini ortaya çıkarmak ve aynı nedenlerle oluşabilecek ölümleri önlemek amacıyla kayıt ve bildirim sistemi uygulamaya konulmuş olup ülkemizde gerçekleşen perinatal ve bebek ölümlerinin tespiti ve incelemeleri bu kapsamda yapılmaktadır.
 
 Bu çerçevede tespit ve incelemeler aşağıdaki usul ve esaslara göre yürütülecektir.
 
-1) Bildirim kriterleri;
+1) **Bildirim kriterleri;**
 
-Bildirim ve incelemesi yapılacak vakalar;
+<i>Bildirim</i> ve incelemesi yapılacak vakalar;
 
 a) "22 hafta ve lizeri veya 500 gram ve üzeri" "ölu doğumlar".
 
@@ -36,11 +36,11 @@ b) Gebelik süresi ve doğum ağırlığından bağımsız olarak canlı doğup 
 
 e) Kurul kararıyla gerçekleştirilen gebelik tahliyelerinden, (b) ve (c) bendinde belirtilen kriterlerde olan vakalar,
 
-Bildirimi Ölüm Bildirim Sistemi (ÖBS) mevzuatı kapsamında yapılacak, ancak incelenmeyecek vakalar:
+**<i>Bildirimi</i>** Ölüm Bildirim Sistemi (ÖBS) mevzuatı kapsamında yapılacak, ancak incelenmeyecek vakalar:
 
 a) 1-4 yaş çocuk ölümleri (365-1825 gün)
 
-2) Bildirim şekli;
+2) **Bildirim şekli;**
 
 Bildirimler ölümün gerçekleştiği il tarafından yapılacaktır. Bildirimler Ölüm Bildirim Sistemi (OBS) mevzuatı çerçevesinde ölümün gerçekleştiği 3 (üç) iş günü içinde ilgili sağlık kuruluşunca ÖBS ye girilecek ayrıca aynı süre içinde Ek-1 de yer alan Perinatal ve Bebek Olümleri Bilgi Formu ile de il sağhk müdürlüğüne (ISM) gönderilecektir.
 
@@ -74,7 +74,7 @@ h) Aynıca ikamet edilen il tarafından, başka ilde öldüğü ve ÖBS de yer a
 
 i) Sahada tespit edilen perinatal ve bebek ölümlerinin OBS'de olup olmadığının kontrolü ile Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünce bildirilerek ÖBS'de raporlanan vakaların tespit ve incelemeleri il bebek ölümleri izleme sorumlusu tarafından takip edilecektir. OBS'de olmayan vakalar, ISM istatistik ve bilgi işlem birimine bildirilecek olup, sisteme kaydının yaptırılması bu birimce sağlanacaktır.
 
-4) Inceleme; Perinatal ve bebek ölümlerinin incelemesi ölümün gerçekleştiği il tarafından yapılacaktır. Ancak başka bir il'e tedavisi için sevk edilen ve yolda ölerek, gönderilen kuruma ex duhul olarak gelen ölü doğum ve bebek ölümlerinde bildirim ve incelemeler ikamet edilen il tarafından yapılacaktır. Sistemin kontrolü ve yürütülmesinden ISM sorumludur. Her ilde Bebek Ölümleri Inceleme Kurulu oluşturulacak ve bu kurul aşağıdaki üyelerden oluşacaktır; İl sağlık müdürü veya halk sağlığı hizmetlerinden sorumlu başkan başkanlığında;
+4) **Inceleme;** Perinatal ve bebek ölümlerinin incelemesi ölümün gerçekleştiği il tarafından yapılacaktır. Ancak başka bir il'e tedavisi için sevk edilen ve yolda ölerek, gönderilen kuruma ex duhul olarak gelen ölü doğum ve bebek ölümlerinde bildirim ve incelemeler ikamet edilen il tarafından yapılacaktır. Sistemin kontrolü ve yürütülmesinden ISM sorumludur. Her ilde Bebek Ölümleri Inceleme Kurulu oluşturulacak ve bu kurul aşağıdaki üyelerden oluşacaktır; İl sağlık müdürü veya halk sağlığı hizmetlerinden sorumlu başkan başkanlığında;
 
 a) Çocuk, ergen, kadın ve üreme sağlığı hizmetlerinden sorumlu birim sorumlusu,
 
@@ -104,7 +104,7 @@ k) Ilde üniversite varsa ilgili anabilim dallarından katılım sağlanabilir.
 
 
 
-B) 12-15 illerinde;
+B) **<i>12-15 illerinde;</i>**
 
 İl sağlık müdürü veya halk sağlığı hizmetlerinden sorumlu başkan veya görevlendireceğı başkan yardımcısı başkanlığında; (A) bendinde sayılan Kurul üyeleri ile toplanır. İhtiyaç duyulan hallerde birden fazla Bebek Ölümleri Inceleme Kurulu kurulabilir.
 
@@ -174,7 +174,7 @@ Müsteşar
 
 ### EKLER:
 
-1- Perinatal ve Bebek Ölümleri Bilgi Formu (2 sayfa)
+1- **Perinatal ve** Bebek Ölümleri Bilgi Formu (2 sayfa)
 
 2- Doldurma Kılavuzu (3 sayfa)
 3- Bebek Ölümleri İnceleme Kurulu Çalışma Formu (7 sayfa)
@@ -187,4 +187,4 @@ Müsteşar
 
 ### DAĞITIM:
 
-Gereği: A Planı
+**Gereği:** A Planı

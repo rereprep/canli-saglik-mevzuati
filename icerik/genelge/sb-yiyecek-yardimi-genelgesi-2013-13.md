@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-3.3.4. Yiyecek Yardımı Genelgesi (2013/13)
+**3.3.4. Yiyecek Yardımı Genelgesi (2013/13)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 Acil Sağlık Hizmetleri Genel Müdürlüğü

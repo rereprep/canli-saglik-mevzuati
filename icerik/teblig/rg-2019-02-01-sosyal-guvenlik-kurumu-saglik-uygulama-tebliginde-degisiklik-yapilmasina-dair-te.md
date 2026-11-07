@@ -13,12 +13,12 @@ ocr: true
 duzeltildi: true
 ---
 
-TEBLİĞ
+**TEBLİĞ**
 
-Sosyal Güvenlik Kurumu Başkanlığından:
+**Sosyal Güvenlik Kurumu Başkanlığından:**
 
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE
-DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 **MADDE 1-** 24/3/2013 tarihli ve 28597 sayılı Resmî Gazetede yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği’nin 2.2 numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(22) SUT eki EK-2/C-1 Listesinde yer alan işlemlerin SUT eki EK-2/A-1 Listesinde U kodu ile yer alan üniversite hastanelerince yapılması halinde işlem puanlarına Listede belirtilen oranlar ilave edilerek faturalandırılır. Bu Listede yer alan işlemlerin SUT eki EK-2/A-1 Listesinde U kodu ile yer alan üniversite hastanelerince yapılması halinde “2.2.2.B- Tanıya dayalı işlem üzerinden ödeme yöntemi” başlıklı maddenin beşinci fıkrasında yer alan hüküm uygulanmaz.”
@@ -77,7 +77,7 @@ b) “Leishmania braziliensis”, “leishmania guyanensis” veya “leishmania
 4.2.56- Large Neutral Amino Acids (LNNA) etken maddesini içeren beslenme ürünlerinin kullanım ilkeleri
 (1) 8 yaş ve üzerinde, diyete uyum gösteremeyen ve tıbbi mama kullanamayan klasik fenilketonüri hastalığında, çocuk metabolizma hastalıkları veya çocuk endokrinolojisi ve metabolizma hastalıkları uzman hekimi tarafından düzenlenen uzman hekim raporuna dayanılarak bu hekimlerce veya çocuk sağlığı ve hastalıkları uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır.
 
-4.2.57- Dupilumab kullanım ilkeleri
+**4.2.57- Dupilumab kullanım ilkeleri**
 (1) Dupilumab yalnızca; sistemik siklosporin ve kortikosteroidlere dirençli ya da ciddi yan etki nedeniyle bu ilaçların kontrendike olduğu orta ve şiddetli atopik dermatitli yetişkin hastalarda üçüncü basamak sağlık kurumlarında, en az üç deri ve zührevi hastalıkları uzman hekiminin yer aldığı (dört) ay süreli sağlık kurulu raporuna dayanılarak başlanacak başlamak sağlık kurumlarında deri ve zührevi hastalıkları uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır. Tedaviye 600 mg yükleme dozu ile başlanır ve yükleme dozunu takip eden ikinci haftadan itibaren iki haftada bir 300 mg olarak devam edilir. 16 haftalık tedavi sonunda herhangi bir iyileşme görülmez ise tedaviye son verilir.”
 
 **MADDE 10-** Aynı Tebliğin eki “Ayakta Tedavilerde Ödeme Listesi (EK-2/A)” nde yer alan “A1” sütunu Ek-1’deki şekilde değiştirilmiştir.
@@ -306,7 +306,7 @@ c) Listede yer alan “KV1404” SUT kodlu tıbbi malzemenin ödeme kural ve/vey
 | KV4020 | PERKÜTAN EKZOVENÖZ REKONSTRÜKSİYON SİSTEMİ (KATETER DAHİL) | 3.358 |
 | (1) Ana femoral ven veya yüzeyel femoral ven veya popliteal ven veya safenofemoral bileşkede 4 saniye ve üzeri yetmezlik saptandığı durumlarda Kurumca bedeli karşılanır. |  |  |
 
-MADDE 19- Aynı Tebliğ eki “Kulak Burun Boğaz Branşına Ait Tıbbi Malzemeler Listesi (EK-3/J)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 19-** Aynı Tebliğ eki “Kulak Burun Boğaz Branşına Ait Tıbbi Malzemeler Listesi (EK-3/J)”nde aşağıdaki düzenlemeler yapılmıştır.
 
 a) Listede yer alan “KB1019” SUT kodlu satır yürürlükten kaldırılmış ve “KB1019” SUT kodundan sonra gelmek üzere aşağıdaki SUT kodlu tıbbi malzeme fiyatı ile birlikte eklenmiştir.
 
@@ -320,9 +320,9 @@ b) Listede yer alan “KB1020” SUT kodlu satır aşağıdaki şekilde değişt
 |---|---|---:|
 | KB1020 | KOKLEAR İMPLANT (Cerrahi ile yerleştirilen iç parça) | 18000,00 |
 
-MADDE 20- Aynı Tebliğ eki “Yurt dışı İlaç Fiyat Listesi (EK-4/C)” Ek-3’deki şekilde değiştirilmiştir.
+**MADDE 20-** Aynı Tebliğ eki “Yurt dışı İlaç Fiyat Listesi (EK-4/C)” Ek-3’deki şekilde değiştirilmiştir.
 
-MADDE 21- Aynı Tebliğ eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 21-** Aynı Tebliğ eki “Hasta Katılım Payından Muaf İlaçlar Listesi (EK-4/D)”nde aşağıdaki düzenlemeler yapılmıştır.
 
 a) Listede yer alan “13. Cilt hastalıkları” başlıklı maddesine aşağıdaki maddeler eklenmiştir.
 
@@ -338,7 +338,7 @@ c) Listede yer alan “15.4.1” numaralı maddeye aşağıdaki alt madde eklenm
 
 “15.4.1.4. LNNA (Large Neutral Amino Acids) (Sadece E70.0 ICD kodu kullanılarak klasik fenilketonüri tanısında muaftır)”
 
-MADDE 22- Bu Tebliğin;
+**MADDE 22-** Bu Tebliğin;
 a) 1 inci ve 2 nci maddeleri 5/7/2018 tarihinden geçerli olmak üzere yayımı tarihinde,
 b) 18 inci maddesi 15/1/2019 tarihinden geçerli olmak üzere yayımı tarihinde,
 c) 7 ilâ 9 uncu maddeleri ve 20 nci maddesinin “Fiyat Değişiklik Tarihi” veya “Listeye Giriş Tarihi” sütununda (*) işareti bulunan ilaçlar ile 21 inci maddesi yayımı tarihinden 5 iş günü sonra,
@@ -348,7 +348,7 @@ d) 20 nci maddesinde düzenlenen ekli listede;
 2) “Fiyat değişiklik tarihi” ve “Listeye giriş tarihi” bulunmayan ilaçlar yayımı tarihinde,
 e) Diğer hükümleri yayımı tarihinden 10 gün sonra yürürlüğe girer.
 
-MADDE 23- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 23-** Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 
 | KODU | UZMANLIK DALLARI | A1 |
 |---:|---|:---:|
@@ -506,7 +506,7 @@ TANIYA DAYALI ORTODONTİK TEDAVİ KONTROL FORMU
 | Rapor Tanısı | ☐ Sınıf I Sabit Ortodontik Tedaviye İhtiyacı Olan Hasta<br>☐ Sınıf II Sabit Ortodontik Tedaviye İhtiyacı Olan Hasta<br>☐ Sınıf III Sabit Ortodontik Tedaviye İhtiyacı Olan Hasta<br>☐ Ortognatik Cerrahide Ortodontik Tedaviye İhtiyacı Olan Hasta |
 | Radyolojik Görüntüleme | Panoramik film　☐　Sefalometrik film　☐　Diğer …………… |
 
-SABİT ORTODONTİK TEDAVİNİN PEKİŞTİRME AŞAMASI
+**SABİT ORTODONTİK TEDAVİNİN PEKİŞTİRME AŞAMASI**
 
 | Tanı veya Tedavi Uygulaması | Fotoğraf Adet (En az) | Açıklamalar | Kontrol |
 |---|---:|---|---|
@@ -517,12 +517,12 @@ SABİT ORTODONTİK TEDAVİNİN PEKİŞTİRME AŞAMASI
 
 … / …. / 20..
 
-KONTROL
+**KONTROL**
 
 Formdaki işlemlerin yapıldığı görülmüştür.
 Kontrolü Yapan Diş Hekiminin Adı-Soyadı, Kaşesi, İmzası
 
-TANIYA DAYALI ORTODONTİK TEDAVİ KONTROL FORMU
+**TANIYA DAYALI ORTODONTİK TEDAVİ KONTROL FORMU**
 
 | SAĞLIK HİZMETİ SUNUCUSUNUN ADI | MUAYENE TARİHİ |
 |---|---|
@@ -533,7 +533,7 @@ TANIYA DAYALI ORTODONTİK TEDAVİ KONTROL FORMU
 | Rapor Tanısı | ☐ Erken Ortodontik Tedaviye İhtiyacı Olan Hasta |
 | Radyolojik Görüntüleme | Panoramik film　☐　Sefalometrik film　☐　Diğer …………… |
 
-ERKEN ORTODONTİK TEDAVİ BAŞLANGIÇ AŞAMASI
+**ERKEN ORTODONTİK TEDAVİ BAŞLANGIÇ AŞAMASI**
 
 | Tanı veya Tedavi Uygulaması | Fotoğraf Adet (En az) | Açıklamalar | Kontrol |
 |---|---:|---|---|
@@ -544,12 +544,12 @@ ERKEN ORTODONTİK TEDAVİ BAŞLANGIÇ AŞAMASI
 
 … / …. / 20..
 
-KONTROL
+**KONTROL**
 
 Formdaki işlemlerin yapıldığı görülmüştür.
 Kontrolü Yapan Diş Hekiminin Adı-Soyadı, Kaşesi, İmzası
 
-TANIYA DAYALI ORTODONTİK TEDAVİ KONTROL FORMU
+**TANIYA DAYALI ORTODONTİK TEDAVİ KONTROL FORMU**
 
 | SAĞLIK HİZMETİ SUNUCUSUNUN ADI | MUAYENE TARİHİ |
 |---|---|
@@ -560,7 +560,7 @@ TANIYA DAYALI ORTODONTİK TEDAVİ KONTROL FORMU
 | Rapor Tanısı | ☐ Erken Ortodontik Tedaviye İhtiyacı Olan Hasta |
 | Radyolojik Görüntüleme | Panoramik film　☐　Sefalometrik film　☐　Diğer …………… |
 
-ERKEN ORTODONTİK TEDAVİ BİTİŞ AŞAMASI
+**ERKEN ORTODONTİK TEDAVİ BİTİŞ AŞAMASI**
 
 | Tanı veya Tedavi Uygulaması | Fotoğraf Adet (En az) | Açıklamalar | Kontrol |
 |---|---:|---|---|
@@ -570,7 +570,7 @@ ERKEN ORTODONTİK TEDAVİ BİTİŞ AŞAMASI
 
 … / …. / 20..
 
-KONTROL
+**KONTROL**
 
 Formdaki işlemlerin yapıldığı görülmüştür.
 Kontrolü Yapan Diş Hekiminin Adı-Soyadı, Kaşesi, İmzası
@@ -594,14 +594,14 @@ Ortodontik tedavilerin faturalandırılması tanıya dayalı olarak yapılacakt�
 ➢ Ortognatik Cerrahide Ortodontik Tedavinin Tedavi Aşaması
 ➢ Ortognatik Cerrahide Ortodontik Tedavinin Pekiştirme Aşaması
 
-ERKEN ORTODONTİK TEDAVİ;
+**ERKEN ORTODONTİK TEDAVİ;**
 
 Erken Ortodontik Tedavi Başlangıç Aşaması
 Erken Ortodontik Tedavi Bitiş Aşaması
 
 Hasta sağlık hizmet sunucularında ilk defa ortodontik tedaviye alınırken; SUT eki EK-2/Ç Listesindeki “7.1 Tanıya dayalı ortodontik tedaviler” esas alınarak erken ortodontik tedavi aşamasına göre erken ortodontik tedavi başlangıç aşaması, erken ortodontik tedavi bitiş aşaması olarak sisteme işlenir.
 
-Erken Ortodontik Tedavi: Kısa süreli ortodontik tedavi tek çeneyi ilgilendiren aparey yapımı, iki çeneyi ilgilendiren aparey (Aktivatör), dil paravanası ve ağız dışı aygıtlar (Headgear-yüz arkı, chine cap-çenelik) gibi koruyucu/önleyici veya büyümeyi yönlendirici ağız içi ve ağız dışı aygıt ile yapılan her türlü ortodontik uygulamalar, model yapımı-analizi, fotoğraflar-analizleri, tüm görüntüleme yöntemleri-analizleri ve diğer teşhis yöntemlerini içerir. Hasta için Kurum tarafından yapılacak olan ödeme; ortodontik tedavinin kontrol formunda istenilen işlemlerin yapılmış olması ve fotoğrafla belgelenmesi halinde yapılır. Belgeleme işlemi her tedavi için kontrol formunda açıklanmış olup, Erken Ortodontik Tedavi Başlangıç Aşaması: Hastanın ortodontik tedavi planlamasının yapılarak, tedaviye ve tedavi mekaniklerinin uygulanmaya başlandığının gösterilmesi ve belgelenmesidir. Erken Ortodontik Tedavi Bitiş Aşaması: Uygulanan mekanikler sonrasında tedavinin tamamlanmasının gösterilmesi ve belgelenmesidir. Erken ortodontik tedavi başlangıç aşaması ile erken ortodontik tedavi bitiş aşaması arasında en az 3 ay bulunması gerekir.
+**Erken Ortodontik Tedavi:** Kısa süreli ortodontik tedavi tek çeneyi ilgilendiren aparey yapımı, iki çeneyi ilgilendiren aparey (Aktivatör), dil paravanası ve ağız dışı aygıtlar (Headgear-yüz arkı, chine cap-çenelik) gibi koruyucu/önleyici veya büyümeyi yönlendirici ağız içi ve ağız dışı aygıt ile yapılan her türlü ortodontik uygulamalar, model yapımı-analizi, fotoğraflar-analizleri, tüm görüntüleme yöntemleri-analizleri ve diğer teşhis yöntemlerini içerir. Hasta için Kurum tarafından yapılacak olan ödeme; ortodontik tedavinin kontrol formunda istenilen işlemlerin yapılmış olması ve fotoğrafla belgelenmesi halinde yapılır. Belgeleme işlemi her tedavi için kontrol formunda açıklanmış olup, Erken Ortodontik Tedavi Başlangıç Aşaması: Hastanın ortodontik tedavi planlamasının yapılarak, tedaviye ve tedavi mekaniklerinin uygulanmaya başlandığının gösterilmesi ve belgelenmesidir. Erken Ortodontik Tedavi Bitiş Aşaması: Uygulanan mekanikler sonrasında tedavinin tamamlanmasının gösterilmesi ve belgelenmesidir. Erken ortodontik tedavi başlangıç aşaması ile erken ortodontik tedavi bitiş aşaması arasında en az 3 ay bulunması gerekir.
 
 SABİT ORTODONTİK TEDAVİ;
 

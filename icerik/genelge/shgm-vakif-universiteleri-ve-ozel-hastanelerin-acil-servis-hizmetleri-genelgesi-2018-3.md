@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - HUKUK VE MEVZUAT DAİRESİ BAŞKANLIĞI
 07/02/2018 20:24 - 54567092 - 010.060.02 - E.02-798
@@ -28,8 +28,8 @@ Konu : Vakıf Üniversiteleri Hastaneleri ile
 Özel Hastanelerin Acil Servis Hizmetlerine
 Yönelik Düzenleme
 
-GENELGE
-2018/ 3
+**GENELGE**
+**2018/** 3
 
 DAĞITIM YERLERİNE
 
@@ -47,10 +47,10 @@ Faks: 0 (312) 585 15 66
 --- Sayfa 2 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
-aylık olarak düzenlenir ve Müdürlükçe onaylanır.” hükmü gereğince özel hastane acil servislerinde nöbetçi hekim bulma koşulları da kolaylaştırılmış olup düzenlemenin takibi zorunlu tutulmuştur.
+<i>aylık olarak düzenlenir</i> ve Müdürlükçe onaylanır.” hükmü gereğince özel hastane acil servislerinde nöbetçi hekim bulma koşulları da kolaylaştırılmış olup düzenlemenin takibi zorunlu tutulmuştur.
 
 16 Ekim 2009 tarih ve 27378 sayılı Resmi Gazete’de yayımlanan “Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ”in Kapsam başlıklı MADDE 2’de yer alan “(1) Bu Tebliğ, Sağlık Bakanlığına, üniversitelere, belediyelere ve diğer kamu kuruluşlarına ait, bünyesinde acil sağlık hizmeti verilen tüm yataklı sağlık tesisleri ile buralarda görev yapan personeli kapsar. (2) Özel sağlık tesisleri, 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliğinin acil servislere ilişkin hükümleri saklı kalmak kaydıyla bu Tebliğ hükümlerine tabidir” hükmü gereğince bu tebliğ hükümlerine tüm vakıf üniversite hastaneleri ve özel hastanelerin de uyması zorunludur.
 
@@ -72,8 +72,8 @@ Faks: 0 (312) 585 15 66
 --- Sayfa 3 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Bu genelge ve ilgili mevzuat hükümlerine uyumun müdürlüklerce denetlenmesi ve uymayan vakıf üniversite hastaneleri ile özel hastanelere ilgili mevzuatına göre gerekli yaptırımların ivedilikle uygulanmasının sağlanması ve uygulamanın yakından takip edilerek gerekli tüm önlemlerin alınması hususlarını önemle rica ederim.
 
@@ -81,7 +81,7 @@ Bu genelge ve ilgili mevzuat hükümlerine uyumun müdürlüklerce denetlenmesi 
 Dr. Ahmet DEMİRCAN
 Bakan
 
-DAĞITIM
+**DAĞITIM**
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 Yüksek Öğretim Kurulu Başkanlığına
 Sosyal Güvenlik Kurumu Başkanlığına

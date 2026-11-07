@@ -16,13 +16,13 @@ kontrol_edildi: true
 
 T.C.
 SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı : 54567092-
+**Sayı** : 54567092-
 Konu : Hasta mahremiyetine saygı gösterilmesi
 
-GENELGE
-2016/10
+**GENELGE**
+**2016/10**
 
 Bilindiği üzere hasta mahremiyeti, hastanın sağlığı ile ilgili bilgilerin gizliliği ile birlikte bedensel ve manevi değerlerinin de mahremiyetini ve korunmasını güvence altına almayı gerekli kılar. Hasta mahremiyeti uluslararası sözleşmeler ve evrensel hukuk normları ile güvence altına alınmış ve bizim hukukumuzda da başta Anayasamız olmak üzere, birçok mevzuat ile söz konusu mahremiyetin sağlanmasına yönelik düzenlemeler yapılmıştır.
 
@@ -51,14 +51,14 @@ Hususlarında gereğinin yapılmasını, hasta mahremiyetine saygı ilkesini ihl
 Prof. Dr. Recep AKDAĞ
 Bakan
 
-DAĞITIM
+**DAĞITIM**
 
-Gereği:
+**Gereği:**
 - 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 - Kamu Hastaneleri Birliği Genel Sekreterliklerine (İvediliğinden)
 - Yükseköğretim Kurulu Başkanlığına
 
-Bilgi:
+**Bilgi:**
 - Türkiye Kamu Hastaneleri Kurumuna
 - Türkiye Halk Sağlığı Kurumuna
 - Acil Sağlık Hizmetleri Genel Müdürlüğüne

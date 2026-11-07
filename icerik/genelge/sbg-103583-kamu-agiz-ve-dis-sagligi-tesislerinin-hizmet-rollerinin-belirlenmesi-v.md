@@ -14,7 +14,7 @@ tarih: "05.04.2024"
 kontrol_edildi: true
 ---
 
-2.3.12. Kamu Ağız ve Diş Sağlığı Tesislerinin Hizmet Rollerinin Belirlenmesi ve Planlanmasına İlişkin Usul ve Esaslar Genelgesi (2024/7)
+**2.3.12. Kamu Ağız ve Diş Sağlığı Tesislerinin Hizmet Rollerinin** Belirlenmesi ve Planlanmasına İlişkin Usul ve Esaslar Genelgesi (2024/7)
 
 ### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -36,4 +36,4 @@ Gereğini rica ederim.
 
 Dr. Fahrettin KOCA
 
-Bakan Ek: Usul ve Esaslar (4 Sayfa)
+**Bakan** Ek: Usul ve Esaslar (4 Sayfa)

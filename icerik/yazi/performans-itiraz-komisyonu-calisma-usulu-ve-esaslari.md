@@ -18,8 +18,8 @@ kontrol_edildi: true
 ## PERFORMANS İTİRAZ KOMİSYONU ÇALIŞMA USULÜ VE ESASLARI
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Halk Sağlığı Genel Müdürlüğü  
+**SAĞLIK BAKANLIĞI**  
+**Halk Sağlığı Genel Müdürlüğü**  
 
 **Sayı :** 19831278/045.01  
 **Konu :** Performans İtiraz Komisyonu Usulü ve Esasları  

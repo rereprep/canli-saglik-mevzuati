@@ -17,8 +17,8 @@ TEBLİĞ
 
 Sosyal Güvenlik Kurumu Başkanlığından:
 
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE
-DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 2.4.3-B maddesinde yer alan “Şubat” ibaresi “Mart” şeklinde değiştirilmiştir.
 
@@ -54,7 +54,7 @@ MADDE 7- Aynı Tebliğin 4.2.1.C-7 numaralı maddesine aşağıdaki fıkra eklen
 “(3) Periyodik ateş sendromlarından TRAPS (Tümör nekroz edici faktör reseptör 1 ile ilişkili periyodik ateş sendromları), HIDS (Hiperimmünglobulin D Sendromu) / MKD (Mevalonat Kinaz eksikliği) tanısında kanakinumab kullanımı:
 a) Genetik olarak kanıtlanmış patojenik mutasyon ile tanı almış TRAPS (Tümör nekroz edici faktör reseptör 1 ile ilişkili periyodik ateş sendromları), HIDS (Hiperimmünglobulin D Sendromu) / MKD (mevalonat kinaz eksikliği) hastalarında anakinra ile tedaviye başlanır.
 b) Anakinra ile 3 aylık tedavi sonrasında veya anakinra tedavisine yanıtsız veya anakinraya yan etki gelişen hastalarda (ilacı kullanamayacağına dair ciddi yan etki gelişiminin ilgili branş hekimleri tarafından doğrulanmış ve belgelenmiş konsültasyon notunun tarih ve branşının eklenerek) kanakinumab tedavisine başlanır. Kanakinumab tedavisinden yanıt alınan hastalarda anılan dozda veya doz azaltılarak veya doz aralığı açılarak tedaviye devam edilebilir.
-c) En fazla 1 yıl süreli en az bir romatoloji uzman hekiminin yer aldığı üçüncü basamak resmi sağlık hizmeti sunucularında düzenlenen sağlık kurulu raporuna dayanılarak üçüncü basamak resmi sağlık hizmeti sunucularında romatoloji uzman hekimlerince reçete edilir.
+c) **En fazla** 1 yıl süreli en az bir romatoloji uzman hekiminin yer aldığı üçüncü basamak resmi sağlık hizmeti sunucularında düzenlenen sağlık kurulu raporuna dayanılarak üçüncü basamak resmi sağlık hizmeti sunucularında romatoloji uzman hekimlerince reçete edilir.
 ç) Tedavide yukarıdaki koşulların sağlandığı durumlarda her iki ilaç için de ayrıca Sağlık Bakanlığı endikasyon dışı onay belgesinin alınması halinde bedelleri Kurumca ödenir.”
 
 MADDE 8- Aynı Tebliğin 4.2.1.C-8 numaralı maddesinin ikinci fıkrasında yer alan “Ülseratif kolit hastalığında,” ibaresinden sonra gelmek üzere “sistemik kortikosteroidler ve 6-MP veya AZA ile uygun dozlarda ve en az 8 haftalık sürede yapılan konvansiyonel tedaviye yetersiz yanıt veren veya tolere edemeyen veya bu terapiler için tıbbi kontrendikasyonu olan veya” ibaresi eklenmiş ve aynı fıkrada yer alan “kurumlarında bu durumun belirtildiği gastroenteroloji uzman hekimi veya genel cerrahi uzmanı tarafından düzenlenecek 6 ay süreli uzman hekim raporuna dayanılarak, bu uzman hekimler ve iç hastalıkları uzman hekimlerince reçete edilir.” ibaresi “hizmeti sunucularında bu durumun belirtildiği 4 ay süreli en az biri gastroenteroloji veya genel cerrahi uzman hekimi olmak üzere sağlık kurulu raporuna istinaden tedaviye başlanır. Yanıt alınması halinde bu durumun belirtildiği yine bu hekimlerce düzenlenecek 6 ay süreli sağlık kurulu raporuyla tedaviye devam edilir. Sağlık kurulu raporuna dayanılarak, bu uzman hekimler ve iç hastalıkları uzman hekimlerince reçete düzenlenmesi halinde bedelleri Kurumca karşılanır.” şeklinde değiştirilmiştir.
@@ -66,17 +66,17 @@ a) Siklosporin, metotreksat veya fototerapi gibi geleneksel sistemik tedavilere 
 b) 16 haftalık ilaç kullanım süresi sonunda başlangıç PASI değerine göre en az %75 iyileşme olduğunun yeni düzenlenecek raporda belirtilmesi halinde tedaviye devam edilir. Başlangıç PASI değerine göre %75 iyileşme sağlanamaması tedaviye yanıtsızlık olarak değerlendirilerek ilaç kullanımı sonlandırılır.
 c) Üniversite hastaneleri veya eğitim ve araştırma hastanelerinde dermatoloji uzman hekiminin yer aldığı başlangıçta 4 ay süreli, sonrasında 6’şar ay süreli sağlık kurulu raporuna dayanılarak dermatoloji uzman hekimlerince reçete edilmesi halinde bedelleri Kurumca karşılanır. Raporda PASI değeri belirtilir. Tedaviye cevap alınmış ve ilaca devam edilecek ise bu durum her yeni düzenlenecek raporda belirtilmelidir.”
 
-MADDE 10- Aynı Tebliğin 4.2.2 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 10-** Aynı Tebliğin 4.2.2 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) İkinci fıkrasında yer alan “brekspiprazol” ibaresinden sonra gelmek üzere “,”, “lurasidon” ibaresi eklenmiştir.
 b) Sekizinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(8) Lamotrijinin bipolar bozukluk endikasyonunda psikiyatri uzman hekimleri tarafından veya bu hekimlerce düzenlenen uzman hekim raporuna dayanılarak tüm hekimlerce reçete edilebilir.”
 c) Maddeye aşağıdaki fıkra eklenmiştir.
 “(9) Antidepresanlar ve antipsikotikler için düzenlenecek uzman hekim raporunda ilacın kullanılacağı süre belirtilir.”
 
-MADDE 11- Aynı Tebliğin 4.2.7 numaralı maddesinin birinci fıkrasına ikinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
+**MADDE 11-** Aynı Tebliğin 4.2.7 numaralı maddesinin birinci fıkrasına ikinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
 “Düşük molekül ağırlıklı heparinlerin 1 yıldan daha uzun sürede kullanımı gerektiğinde; onkoloji, hematoloji, kalp damar cerrahisi, kardiyoloji, göğüs hastalıkları veya nöroloji uzman hekimlerinden herhangi birinin bulunduğu sağlık kurulu raporuna istinaden tüm hekimlerce reçete edilmesi halinde bedelleri Kurumca karşılanır.”
 
-MADDE 12- Aynı Tebliğin 4.2.12.B numaralı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 12-** Aynı Tebliğin 4.2.12.B numaralı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “4.2.12.B - Spesifik olmayan/gamma/polivalan immünglobulinler
 4.2.12.B-1-Spesifik olmayan/gamma/polivalan immünglobulinler (Uygulama yolu İntravenöz veya İntramüsküler olan immünglobulinler)
 (1) Aşağıda yer alan endikasyonlar için;
@@ -85,10 +85,10 @@ b) Profilaktik antibiyotiklerin başarısız veya kontrendike olduğu Kronik Len
 c) Kanama riski yüksek olan veya cerrahi müdahale öncesi trombosit sayısının hızla yükseltilmesi gereken İmmün Trombositopeni (İTP) olgularında 1 yıl süre ile hematoloji uzman hekimi tarafından,
 …"
 
-MADDE 13- Aynı Tebliğin 4.2.13 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 13-** Aynı Tebliğin 4.2.13 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddeye aşağıdaki fıkra eklenmiştir.
 “(3) Akut Hepatit B tedavisi
-Akut hepatit B nedeniyle izlenen hastalarda ciddi akut HBV kliniği ve laboratuvar bulguları olan (INR ≥ 1,5 veya PT normalin üst sınırından 4 saniyeden daha uzun olanlar ve sarılık dönemi > 4 hafta olanlar) hastalarda 4 hafta arayla iki kere HBsAg negatifliği elde edilene kadar Sağlık Bakanlığınca onaylı endikasyonu bulunan antiviral ilaçların bedeli Kurumca karşılanır.”
+**Akut hepatit** B nedeniyle izlenen hastalarda ciddi akut HBV kliniği ve laboratuvar bulguları olan (INR ≥ 1,5 veya PT normalin üst sınırından 4 saniyeden daha uzun olanlar ve sarılık dönemi > 4 hafta olanlar) hastalarda 4 hafta arayla iki kere HBsAg negatifliği elde edilene kadar Sağlık Bakanlığınca onaylı endikasyonu bulunan antiviral ilaçların bedeli Kurumca karşılanır.”
 b) 4.2.13.1 numaralı alt maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(1) İlk tedaviye başlamak için;
 a) HBV DNA seviyesi 10.000 (10⁴) kopya/ml (2.000 IU/ml) veya üzerinde olan hastalarda, bu durumun belirtildiği rapor ve ek tetkik sonuçlarına göre;
@@ -100,9 +100,9 @@ c) 4.2.13.1 numaralı alt maddesinin birinci fıkrasına aşağıdaki cümle ekl
 “‘Kronik Hepatit B’ye bağlı karaciğer sirozu tanısı için, biyopsi kanıtı olmayan hastalarda, trombosit sayısının 150.000/mm³’ün altında veya protrombin zamanının 3 saniye ve/veya üzerinde olması koşulu aranır.’”
 ç) 4.2.13.1.4 numaralı alt maddesinin ikinci fıkrasında yer alan “Biyopsi için” ibaresi “Tedaviye başlamak için biyopsi yapılması gereken hastalardan; biyopsi için” şeklinde değiştirilmiş ve “gebelikte tanı alarak tedavisi başlananların tedavisinin devamında,” ibaresi eklenmiştir.
 
-MADDE 14- Aynı Tebliğin 4.2.14.B numaralı maddesinin ikinci fıkrasında yer alan “en az bir hematoloji veya tıbbi onkoloji uzman hekiminin yer aldığı en fazla 6 ay süreli sağlık kurulu raporuna dayanılarak hematoloji, tıbbi onkoloji,” ibaresi “hematoloji, tıbbi onkoloji, enfeksiyon, radyasyon onkolojisi, göğüs hastalıkları, üroloji, kadın hastalıkları ve doğum uzman hekimlerinden birinin yer aldığı 6 ay süreli sağlık kurulu raporuna dayanılarak hematoloji, tıbbi onkoloji, enfeksiyon, radyasyon onkolojisi, göğüs hastalıkları, üroloji, kadın hastalıkları ve doğum,” şeklinde değiştirilmiştir.
+**MADDE 14-** Aynı Tebliğin 4.2.14.B numaralı maddesinin ikinci fıkrasında yer alan “en az bir hematoloji veya tıbbi onkoloji uzman hekiminin yer aldığı en fazla 6 ay süreli sağlık kurulu raporuna dayanılarak hematoloji, tıbbi onkoloji,” ibaresi “hematoloji, tıbbi onkoloji, enfeksiyon, radyasyon onkolojisi, göğüs hastalıkları, üroloji, kadın hastalıkları ve doğum uzman hekimlerinden birinin yer aldığı 6 ay süreli sağlık kurulu raporuna dayanılarak hematoloji, tıbbi onkoloji, enfeksiyon, radyasyon onkolojisi, göğüs hastalıkları, üroloji, kadın hastalıkları ve doğum,” şeklinde değiştirilmiştir.
 
-MADDE 15- Aynı Tebliğin 4.2.14.C numaralı maddesinin üçüncü fıkrasında aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 15-** Aynı Tebliğin 4.2.14.C numaralı maddesinin üçüncü fıkrasında aşağıdaki düzenlemeler yapılmıştır.
 a) (tt) bendinin (1) ve (2) numaralı alt bentlerinde yer alan “FISH testi ile akredite laboratuvarda doğrulanmış” ibareleri “standardize FISH veya RT-PCR veya yeni nesil dizileme yöntemleri ile tespit edilen rearranjman/fuzyon varlığı veya immünhistokimyasal olarak saptanan” şeklinde değiştirilmiştir.
 b) (vv) bendi aşağıdaki şekilde değiştirilmiştir.
 “(vv) İbrutinib;
@@ -129,7 +129,7 @@ f) (mmm) bendi aşağıdaki şekilde değiştirilmiştir.
 2) Rekürren (tekrarlayan) over kanseri idame tedavisinde; platin içeren tedavinin tamamlanmasından sonra en az 6 ay geçmiş ve relaps gelişen platin duyarlı, BRCA1/2-mutasyonu (germ hattı ve/veya somatik, akreditasyon aşamasında bir laboratuvarda çalışılmış olmalıdır.) yüksek gradlı seröz epitelyal over, fallop tüpü veya primer peritoneal kanser hastası olan hastalarda; nüks nedeniyle uygulanan platin temelli kemoterapiye tam veya kısmi yanıt verilen ikinci basamak sonrası ECOG performans durumu 0-1 olan yetişkin hastaların idame tedavisinde monoterapi olarak kullanılması halinde Kurumca bedelleri karşılanır. Tedaviye son platin dozundan sonra en geç 8 hafta içinde başlanmalıdır. Hastalık ilerlemesine veya tolere edilemeyen toksisite gelişinceye kadar kullanılabilir.
 3) Germline patojenik veya patojenik benzeri BRCA 1 veya 2 mutasyonu olan triple negatif yüksek riskli (Neoadjuvan tedavi sonrası patolojik rezidüel hastalığı olanlar veya primer cerrahisi olmuş ve patolojik olarak tümör çapı 2 cm üstünde ya da lenf nodu pozitif olan adjuvan tedavisini almış hastalar) erken evre meme kanserinde lokal tedaviler ve antrasiklin ve/veya taksan içeren adjuvan/neoadjuvan kemoterapi tamamlandıktan sonra monoterapi halinde en fazla 1 yıl süreyle kullanılması halinde bedeli Kurumca karşılanır. Lokal ve (neo)adjuvan tedaviyi tamamladıktan sonraki en geç 12 hafta içinde olaparib başlanmalıdır. Erken evre dönemde PARP inhibitörü kullanan hastalarda metastatik dönemde PARP inhibitörü kullanılmaz.”
 
-MADDE 16- Aynı Tebliğin 4.2.15.F numaralı maddesinde yer alan “I” ibaresi “2” şeklinde değiştirilmiştir.
+**MADDE 16-** Aynı Tebliğin 4.2.15.F numaralı maddesinde yer alan “I” ibaresi “2” şeklinde değiştirilmiştir.
 
 MADDE 17- Aynı Tebliğin 4.2.16 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
 “4.2.16 - Doğuştan metabolik hastalıklar, Gıda allerjileri ile Çölyak Hastalığı
@@ -155,9 +155,9 @@ tutar ödenir.
 (8) Yukarıda belirtilen hastalıklarda kullanılan ürünler; EK-4/B Listesinde belirtilmiş olup bu listede yer almayan ürün bedelleri Kurumca karşılanmaz.
 (9) Üçüncü ve altıncı fıkralarda belirtilen ödemeye ilişkin izlenecek yöntem Kurum tarafından ayrıca duyurulur.”
 
-MADDE 18- Aynı Tebliğin 4.2.25 numaralı maddesinin üçüncü ve beşinci fıkralarında yer alan “üçüncü basamak resmi” ibareleri “ikinci veya üçüncü basamak” şeklinde değiştirilmiştir.
+**MADDE 18-** Aynı Tebliğin 4.2.25 numaralı maddesinin üçüncü ve beşinci fıkralarında yer alan “üçüncü basamak resmi” ibareleri “ikinci veya üçüncü basamak” şeklinde değiştirilmiştir.
 
-MADDE 19- Aynı Tebliğin 4.2.27.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 19-** Aynı Tebliğin 4.2.27.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Birinci fıkrasına ikinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
 “Faktör kullanımı için hastaya düzenlenecek ilk rapor üçüncü basamak resmi sağlık hizmeti sunucularında düzenlenmelidir.”
 b) Üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.

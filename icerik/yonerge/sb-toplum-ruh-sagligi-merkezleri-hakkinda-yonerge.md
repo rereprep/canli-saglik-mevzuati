@@ -51,7 +51,7 @@ m) Toplum ruh sağlığı eğitim merkezi: Kadrosu tamamlanmış, toplum ruh sa�
 
 ## İKİNCİ BÖLÜM
 
-Merkez Kurulması ve Tescil Işlemleri, Fiziki Koşullar, Araç ve Gereç Asgari Standardı,
+**Merkez Kurulması ve Tescil Işlemleri, Fiziki Koşullar, Araç ve Gereç Asgari Standardı,**
 
 ### Ulaşım Aracı Tahsisi
 
@@ -63,7 +63,7 @@ Merkez Kurulması ve Tescil Işlemleri, Fiziki Koşullar, Araç ve Gereç Asgari
 
 (5) Universite rektörlüklerin talebi üzerine, bu Yönergede belirlenen şartları taşımak ve
 
-Fiziki koşullar, araç ve gereç asgari standardı.
+**Fiziki koşullar, araç ve gereç asgari standardı.**
 
 **Madde 6 –** (1) Merkez: tercihen en az 300 m2 büyüklüğündeki müstakil, toplu taşıma araçlarıyla kolay ulaşılabilir, merkezi yerlerde bulunan binalarda açılır. Çok katlı binalarda; zemin veya birinci katlarda veya bu katlardan en az birinin birlikte kullanıldığı katlarda birbiriyle bağlantılı olarak açılabilir. Yine çoklu katlarda binanın tamamının sağlık amaçhı kullanılması durumunda üst katlarda da açılabilir. Bina yangın önlemleri bakımından ilgili mevzuata uygun olmalıdır. Merkez bünyesinde bulunması gereken alanlar ile fiziki ve donanım asgari şartları şunlardır:
 
@@ -193,7 +193,7 @@ e) Merkez, kendisine bağlı bölgedeki ağır ruhsal bozukluğu olan hasta veya
 
 ## BEŞİNCİ BÖLÜM
 
-Merkezin Çalışma Esasları, Hasta Hakları,
+**Merkezin Çalışma Esasları, Hasta Hakları,**
 
 ### Hizmetin Sonlandırılması ve Eğitim
 

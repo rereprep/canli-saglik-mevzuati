@@ -14,12 +14,12 @@ ocr: true
 duzeltildi: true
 ---
 
-CUMHURBAŞKANLIĞI KARARNAMESİ
+**CUMHURBAŞKANLIĞI KARARNAMESİ**
 
-BAZI CUMHURBAŞKANLIĞI KARARNAMELERİNDE DEĞİŞİKLİK
-YAPILMASINA DAİR CUMHURBAŞKANLIĞI KARARNAMESİ
+**BAZI CUMHURBAŞKANLIĞI KARARNAMELERİNDE DEĞİŞİKLİK**
+**YAPILMASINA DAİR CUMHURBAŞKANLIĞI KARARNAMESİ**
 
-Kararname Numarası: 57
+**Kararname Numarası: 57**
 
 MADDE 1- 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Kırkbeşinci Bölümünün başlığı ile bu Bölümde yer alan 640 ıncı, 641 inci, 642 nci, 643 üncü, 644 üncü, 645 inci, 646 ncı, 647 nci, 648 inci, 649 uncu, 649/A ve 650 nci maddeleri yürürlükten kaldırılmıştır.
 
@@ -47,7 +47,7 @@ ifade eder.”
 MADDE 5- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 681 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 “Kurumun görev ve yetkileri
-MADDE 681- (1) Kurumun görev ve yetkileri şunlardır:
+**MADDE 681-** (1) Kurumun görev ve yetkileri şunlardır:
 a) Enerji, maden, iyonlaştırıcı radyasyon, parçacık hızlandırıcıları, nükleer teknoloji, bor, nadir toprak elementleri ve diğer elementlerle ilgili inovasyon ihtiyacını karşılamak, araştırmacılara bilimsel ortam temin etmek, yeni ürünlerin üretimini ve var olanların geliştirilmesini sağlamak, kamu ve özel hukuk kişileri ile işbirliği yaparak bilimsel araştırmalara katkıda bulunmak.
 b) Ar-Ge faaliyetlerini yapmak, yaptırmak, özendirmek, desteklemek, koordine etmek, izlemek ve bu amaçla program ve projeler geliştirmek.
 c) Ar-Ge faaliyetlerinin ülke yararına kullanılmasında izlenecek ulusal politika ve strateji önerilerini hazırlayıp Bakana sunmak.
@@ -84,7 +84,7 @@ c) Bor Araştırma Enstitüsü, Nadir Toprak Elementleri Araştırma Enstitüsü
 MADDE 7- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 683 üncü maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 “Yürütme Kurulu
-MADDE 683- (1) Yürütme Kurulu biri başkan olmak üzere beş üyeden oluşur. Yürütme Kurulu, Kurumun en üst karar organıdır. Yürütme Kurulunun Başkanı Kurumun da başkanıdır.
+**MADDE 683-** (1) Yürütme Kurulu biri başkan olmak üzere beş üyeden oluşur. Yürütme Kurulu, Kurumun en üst karar organıdır. Yürütme Kurulunun Başkanı Kurumun da başkanıdır.
 (2) Yürütme Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten Yürütme Kurulu üyeleri yeniden atanabilirler.
 (3) Yürütme Kurulunun olağan toplantılarına üst üste dört defa veya bir takvim yılı içinde toplam on defa mazeretsiz olarak katılmayan üyelerin üyelikleri düşer.
 (4) Yürütme Kurulu, Başkanın daveti üzerine ayda iki defadan az olmamak üzere üye tamsayısının salt çoğunluğu ile toplanır ve kararlarını üye tamsayısının salt çoğunluğu ile alır.
@@ -138,7 +138,7 @@ o) Bu Bölüm ve ilgili diğer mevzuat hükümleriyle kendisine verilen işleri 
 
 MADDE 9- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 685 inci maddesi yürürlükten kaldırılmıştır.
 
-MADDE 10- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 686 ncı maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 10-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 686 ncı maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 “Kurum gelirleri
 MADDE 686- (1) Kurumun gelirleri şunlardır:
@@ -156,23 +156,23 @@ h) Diğer gelirler.
 (2) Birinci fıkranın (c) bendinde belirtilen oran Bakan onayı ile % 0,1 ila % 1 aralığında belirlenebilir. Bakan (c) bendinde belirtilen oranı geçmemek üzere kurum bazında parasal limit olarak da belirleme yapabilir.
 (3) Bu gelirlerden hesap yılı sonuna kadar harcanmayanlar bir sonraki yıla aktarılır.”
 
-MADDE 11- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 687 nci maddesinde yer alan “Enstitü” ibareleri “Kurum” şeklinde, “Enstitüde” ibareleri “Kurumda” şeklinde, “Enstitüye” ibaresi “Kuruma” şeklinde değiştirilmiş, maddenin üçüncü fıkrasında yer alan “göre” ibaresinden sonra gelmek üzere “verilir.” ibaresi eklenmiş, maddenin beşinci fıkrasında yer alan “bağlı veya ilgili” ibaresi ise “bağlı, ilgili veya ilişkili” şeklinde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 11-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 687 nci maddesinde yer alan “Enstitü” ibareleri “Kurum” şeklinde, “Enstitüde” ibareleri “Kurumda” şeklinde, “Enstitüye” ibaresi “Kuruma” şeklinde değiştirilmiş, maddenin üçüncü fıkrasında yer alan “göre” ibaresinden sonra gelmek üzere “verilir.” ibaresi eklenmiş, maddenin beşinci fıkrasında yer alan “bağlı veya ilgili” ibaresi ise “bağlı, ilgili veya ilişkili” şeklinde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
 
 “(6) Kurumda, 375 sayılı Kanun Hükmünde Kararnamenin ek 24 üncü maddesine göre TENMAK Denetçisi ve TENMAK Denetçi Yardımcısı istihdam edilebilir.”
 
 MADDE 12- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 688 inci maddesi yürürlükten kaldırılmıştır.
 
-MADDE 13- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 689 uncu maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 13-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 689 uncu maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 “Bilgi isteme ve gizliliğe uyma
-MADDE 689- (1) Kurum, araştırma ve inceleme konuları için gerekli bilgi, belge ve numuneleri kamu kurum ve kuruluşlarından istemeye yetkilidir. Kendilerinden bilgi istenen kamu kurum ve kuruluşları, söz konusu isteğe cevap vermek ve gereken kolaylığı göstermekle yükümlüdürler. Kurum personeli gizlilik taşıyan bilgileri açıklayamaz, kendilerinin veya başkalarının menfaatine kullanamaz.”
+**MADDE 689-** (1) Kurum, araştırma ve inceleme konuları için gerekli bilgi, belge ve numuneleri kamu kurum ve kuruluşlarından istemeye yetkilidir. Kendilerinden bilgi istenen kamu kurum ve kuruluşları, söz konusu isteğe cevap vermek ve gereken kolaylığı göstermekle yükümlüdürler. Kurum personeli gizlilik taşıyan bilgileri açıklayamaz, kendilerinin veya başkalarının menfaatine kullanamaz.”
 
-MADDE 14- 4 sayılı Cumhurbaşkanlığı Kararnamesinin 690 ıncı maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 14-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin 690 ıncı maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 “Kapatılan kurumlar ve atıflar
 MADDE 690- (1) Türkiye Atom Enerjisi Kurumu, Ulusal Bor Araştırma Enstitüsü ve Nadir Toprak Elementleri Araştırma Enstitüsü başka bir işleme gerek kalmaksızın kapatılmıştır. Kapatılan Türkiye Atom Enerjisi Kurumuna, Ulusal Bor Araştırma Enstitüsüne ve Nadir Toprak Elementleri Araştırma Enstitüsüne mevzuatta yapılan atıflar Türkiye Enerji, Nükleer ve Maden Araştırma Kurumuna yapılmış sayılır.”
 
-MADDE 15- 4 sayılı Cumhurbaşkanlığı Kararnamesinin Kırksekizinci Bölümüne aşağıdaki geçici madde eklenmiştir.
+**MADDE 15-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin Kırksekizinci Bölümüne aşağıdaki geçici madde eklenmiştir.
 
 “Geçiş hükümleri
 GEÇİCİ MADDE 1- (1) Kapatılan Türkiye Atom Enerjisi Kurumunda, Ulusal Bor Araştırma Enstitüsünde ve Nadir Toprak Elementleri Araştırma Enstitüsünde Kurum Başkanının atandığı tarih itibarıyla pozisyonu saklı tutulanlar, iş sözleşmesi askıda bulunanlar veya aylıksız izinde olanlar da dâhil görev yapan tüm personel, mevcut statü, kadro veya pozisyonlarıyla birlikte herhangi bir işleme gerek kalmaksızın TENMAK’a devredilmiş, bu personele ilişkin bu kadro ve pozisyonlar 2 sayılı Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki cetvellerinin TENMAK’a ait ilgili bölümlerine eklenmiş, bu kapsamdaki memur kadrolarından herhangi bir şekilde boşalanlar, hiçbir işleme gerek kalmaksızın iptal edilmiş ve aynı Cumhurbaşkanlığı Kararnamesinin eki cetvellerin TENMAK’a ait ilgili bölümlerinden çıkarılmış sayılır.
@@ -187,26 +187,26 @@ GEÇİCİ MADDE 1- (1) Kapatılan Türkiye Atom Enerjisi Kurumunda, Ulusal Bor A
 (10) Kurum Başkanının Bakan tarafından görevlendirilmesi durumunda, Yönetim Kuruluna ait atama ve düzenleyici işlemlere ilişkin görev ve yetkiler Bakan tarafından, diğer yetkiler Kurum Başkanı tarafından kullanılabilir. Bu durumda, Kurum Başkanının atanması beklenmeksizin bu madde hükümleri uygulanır.
 (11) Bu maddenin uygulanması ile ilgili ortaya çıkabilecek tereddütleri gidermeye Bakan yetkilidir.”
 
-MADDE 16- 4 sayılı Cumhurbaşkanlığı Kararnamesinin Ellinci Bölümünün başlığı ile 754 üncü, 755 inci, 756 ncı, 757 nci, 758 inci, 759 uncu, 760 ıncı, 761 inci ve 762 nci maddeleri yürürlükten kaldırılmıştır.
+**MADDE 16-** 4 sayılı Cumhurbaşkanlığı Kararnamesinin Ellinci Bölümünün başlığı ile 754 üncü, 755 inci, 756 ncı, 757 nci, 758 inci, 759 uncu, 760 ıncı, 761 inci ve 762 nci maddeleri yürürlükten kaldırılmıştır.
 
-MADDE 17- 2 sayılı Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki (I), (IV) ve (V) sayılı cetvellerin Türkiye Atom Enerjisi Kurumu, Ulusal Bor Araştırma Enstitüsü ve Nadir Toprak Elementleri Araştırma Enstitüsü bölümleri personelin Kuruma devredildiği tarihte yürürlükten kaldırılmıştır.
+**MADDE 17-** 2 sayılı Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinin eki (I), (IV) ve (V) sayılı cetvellerin Türkiye Atom Enerjisi Kurumu, Ulusal Bor Araştırma Enstitüsü ve Nadir Toprak Elementleri Araştırma Enstitüsü bölümleri personelin Kuruma devredildiği tarihte yürürlükten kaldırılmıştır.
 
-MADDE 18- 3 sayılı Üst Kademe Kamu Yöneticileri ile Kamu Kurum ve Kuruluşlarında Atama Usullerine Dair Cumhurbaşkanlığı Kararnamesinin;
+**MADDE 18-** 3 sayılı Üst Kademe Kamu Yöneticileri ile Kamu Kurum ve Kuruluşlarında Atama Usullerine Dair Cumhurbaşkanlığı Kararnamesinin;
 
 a) Eki (I) sayılı Cetvelde yer alan “ULUSAL BOR ARAŞTIRMA ENSTİTÜSÜ BAŞKANI”, “NADİR TOPRAK ELEMENTLERİ ARAŞTIRMA ENSTİTÜSÜ BAŞKANI” ve “TÜRKİYE ATOM ENERJİSİ KURUMU BAŞKANI” satırları yürürlükten kaldırılmış, aynı Cetvele “TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU BAŞKANI” ve “TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU BAŞKAN YARDIMCILARI” satırları eklenmiştir.
 
 b) Eki (II) sayılı Cetvelde yer alan “TÜRKİYE ATOM ENERJİSİ KURUMU BAŞKAN YARDIMCILARI” ve “TÜRKİYE ATOM ENERJİSİ KURUMU YÜRÜTME KURULU ÜYELERİ” satırları yürürlükten kaldırılmış, aynı Cetvele “TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU YÜRÜTME KURULU ÜYELERİ” satırı eklenmiştir.
 
-MADDE 19- 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (II) sayılı Cetvelin “B) ÖZEL BÜTÇELİ DİĞER İDARELER” bölümünde yer alan “26) Ulusal Bor Araştırma Enstitüsü”, “27) Türkiye Atom Enerjisi Kurumu” ve “48) Nadir Toprak Elementleri Araştırma Enstitüsü” satırları yürürlükten kaldırılmış ve aynı Bölüme aşağıdaki satır eklenmiştir.
+**MADDE 19-** 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (II) sayılı Cetvelin “B) ÖZEL BÜTÇELİ DİĞER İDARELER” bölümünde yer alan “26) Ulusal Bor Araştırma Enstitüsü”, “27) Türkiye Atom Enerjisi Kurumu” ve “48) Nadir Toprak Elementleri Araştırma Enstitüsü” satırları yürürlükten kaldırılmış ve aynı Bölüme aşağıdaki satır eklenmiştir.
 
 “53) Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu”
 
-MADDE 20- Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer.
+**MADDE 20-** Bu Cumhurbaşkanlığı Kararnamesi yayımı tarihinde yürürlüğe girer.
 
-MADDE 21- Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür.
+**MADDE 21-** Bu Cumhurbaşkanlığı Kararnamesi hükümlerini Cumhurbaşkanı yürütür.
 
 27 Mart 2020
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 
 CUMHURBAŞKANI

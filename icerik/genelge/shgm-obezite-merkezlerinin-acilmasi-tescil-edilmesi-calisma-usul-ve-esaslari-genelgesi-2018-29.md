@@ -77,7 +77,7 @@ Bilgi:
 Halk Sağlığı Genel Müdürlüğü
 Kamu Hastaneleri Genel Müdürlüğü
 
-EK-1
+**EK-1**
 OBEZİTE MERKEZLERİ PROGRAM İŞLEYİŞİ
 
 Programın işleyişinde süreler hasta uyumlarına göre planlanacak olup hastanın geçerli bir mazereti olmadığı sürece tanımlanan sürelere uyulur. Programa kolay uyum sağlayan istekli hastalarda aktiviteler atlanmamak kaydı ile daha kısa sürede tamamlanabilir. Modül hedeflerine ulaşamayan hastalar için ilgili modül süresi iki katına kadar uzatılabilir.
@@ -147,7 +147,7 @@ Hedef kiloyu koruma ve çevre değişimi (Modül 6)
 6.4. Modül sonunda hedef kilo bütün verilecek kilodan az ise programın tekrarı ve yeniden hedef kilo tespiti ve tekrar kilo vermeye başlama zamanlaması burada planlanmalıdır,
 6.5. Amaç, hastanın öğrenmiş olduğu bilgileri çevresine yayarak çevresel bir değişim ve farkındalık oluşturmasını sağlamaktır.
 
-EK-2
+**EK-2**
 OBEZİTE MERKEZLERİ BAŞVURU FORMU
 
 | OBEZİTE MERKEZLERİ BAŞVURU FORMU |

@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-10.2.1. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi
+**10.2.1. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik** Eğitimi Yönergesi
 
 ### Bakanlık Makamına sunuş yazısı
 
@@ -200,7 +200,7 @@ Egitici Personelin Niteliği ve Eğitici Temini
 
 ## BEŞİNCİ BÖLÜM
 
-Eğitimin Yapılacağı Yer ve Süresi
+**Eğitimin Yapılacağı Yer ve Süresi**
 
 #### Eğitimin yapılacağı yer
 
@@ -242,9 +242,9 @@ Belge doğrulama kodu: 903EC2AF-57DC-4862-A455-20DD2EF136C1 Belge doğrulama adr
 
 ## YEDİNCİ BÖLÜM
 
-Eğitim Komisyonunun ve Eğiticilerin Görev, Yetki ve Sorumlulukları
+**Eğitim Komisyonunun ve Eğiticilerin Görev, Yetki ve Sorumlulukları**
 
-Eğitim komisyonunun görev, yetki ve sorumlulukları
+**Eğitim komisyonunun görev, yetki ve sorumlulukları**
 
 ### •Bu belze, güvenli elekt c imza de enzalanmașar
 

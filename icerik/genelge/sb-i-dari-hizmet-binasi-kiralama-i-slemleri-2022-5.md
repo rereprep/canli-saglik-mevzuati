@@ -22,7 +22,7 @@ kontrol_edildi: true
 ### GENELGE
 **2022/5**
 
-2021/14 sayılı Tasarruf Genelgesi kapsamında merkez teşkilatça Cumhurbaşkanlığı izni alınmaksızın taşra teşkilatınca hizmet binası ve taşınmaz kiralama işlemleri yapılamaz.
+**2021/14 sayılı Tasarruf Genelgesi kapsamında merkez teşkilatça** Cumhurbaşkanlığı izni alınmaksızın taşra teşkilatınca hizmet binası ve taşınmaz kiralama işlemleri yapılamaz.
 
 Bilindiği üzere Cumhurbaşkanlığı Teşkilatı Hakkında 1 Nolu Cumhurbaşkanlığı Kararnamesinin 156'ncı maddesinde Sağlık Bakanlığı Yönetim Hizmetleri Genel Müdürlüğünün görevleri düzenlenmiş ve bu görevleri arasında "5018 sayılı Kanun hükümleri çerçevesinde, kiralama ve satın alma işlemlerini yürütmek, temizlik, güvenlik, aydınlatma, ısıtma, onarım, taşıma ve benzeri hizmetleri yapmak veya yaptırmak" yer almaktadır.
 

@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.16. Kemik İliği Nakli Merkezleri ve Kemik İliği Nakli Doku Bilgi İşlem Merkezleri Yönergesi
+**2.2.16. Kemik İliği Nakli Merkezleri ve Kemik İliği Nakli Doku Bilgi** İşlem Merkezleri Yönergesi
 
 ### Kemik İliği Nakli Merkezleri ve Kemik İliği Nakli Doku Bilgi İşlem Merkezleri Yönergesi
 

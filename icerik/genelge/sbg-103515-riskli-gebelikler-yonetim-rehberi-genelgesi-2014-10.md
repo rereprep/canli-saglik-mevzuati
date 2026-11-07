@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.63. Riskli Gebelikler Yönetim Rehberi Genelgesi (2014/10)
+**6.3.63. Riskli Gebelikler Yönetim Rehberi Genelgesi (2014/10)**
 
 Sayı: 57536863/231.01.06
 

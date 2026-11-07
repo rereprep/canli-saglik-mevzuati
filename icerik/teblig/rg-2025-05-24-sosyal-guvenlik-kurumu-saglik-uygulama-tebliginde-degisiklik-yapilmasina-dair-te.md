@@ -15,10 +15,10 @@ duzeltildi: true
 
 TEBLİĞ
 
-Sosyal Güvenlik Kurumu Başkanlığından:
+**Sosyal Güvenlik Kurumu Başkanlığından:**
 
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE
-DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 2.2 numaralı maddesinin altıncı fıkrasının üçüncü cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelik” kapsamında Kurumla sözleşmeli özel sağlık hizmeti sunucuları bünyesinde hizmet veren evde bakım birimleri tarafından SUT ve eki listelerde yer alan usul ve esaslar dahilinde düzenlenen reçete bedelleri Kurumca karşılanır.”
@@ -87,10 +87,10 @@ MADDE 8- Aynı Tebliğ eki “Tanıya Dayalı İşlem Puan Listesi (EK-2/C)” n
 
 MADDE 9- Aynı Tebliğ eki “Bedeli Ödenecek İlaçlar Listesi (EK-4/A)” Ek-2’deki şekilde değiştirilmiştir.
 
-MADDE 10- Aynı Tebliğ eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)” ne aşağıdaki madde eklenmiştir.
+**MADDE 10-** Aynı Tebliğ eki “Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (EK-4/G)” ne aşağıdaki madde eklenmiştir.
 “88. Kontrast maddeler”
 
-MADDE 11- Bu Tebliğin;
+**MADDE 11-** Bu Tebliğin;
 a) 5 inci maddesi 5/4/2025 tarihinden geçerli olmak üzere yayımı tarihinde,
 b) 2 nci ve 3 üncü maddeleri 17/4/2025 tarihinden geçerli olmak üzere yayımı tarihinde,
 c) 4 üncü maddesi 1/5/2025 tarihinden geçerli olmak üzere yayımı tarihinde,
@@ -100,7 +100,7 @@ e) 10 uncu maddesi 11/6/2025 tarihinde,
 f) Diğer hükümleri yayımı tarihinde,
 yürürlüğe girer.
 
-MADDE 12- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 12-** Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 
 ## Ek-1
 

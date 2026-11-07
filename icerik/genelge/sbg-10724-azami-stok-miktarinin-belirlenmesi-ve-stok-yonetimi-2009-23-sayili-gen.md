@@ -40,9 +40,9 @@ Bu doğrultuda kamu kaynaklarının etkili, ekonomik, verimli ve hukuka uygun bi
 
 Diğer taraftan Ülkemizdeki sağlık hizmeti sunumu ağırlıklı olarak Bakanlığımıza bağlı sağlık kurum ve kuruluşlarınca ifa edilmektedir. Söz konusu kurum ve kuruluşlarımız döner sermayeli işletme niteliğinde olup, tabi olduğu mevzuat çerçevesinde kar amacı gözetmeden genel işletmecilik esasları doğrultusunda yönetilmektedirler. Sağlık kurumlarının sınırlı olan mali kaynaklarını etkin ve verimli kullanabilmelerinde sağlıklı bir stok yönetimi de ayrı bir önem arz etmektedir. Bu kapsamda ihtiyaçların kullanıldıkça karşılanması ile kaynak ihtiyacının dönemsel bazda azaltılıp ödemelerin daha geniş bir zamana yayılması suretiyle finansman açısından sürdürülebilir yapının oluşturulması önemli ölçüde sağlanabilecektir.
 
-İlgi (a, b ve c) sayılı Genelgelerimiz ile bu hususlara ilişkin bilgilendirme ve genel düzenlemeler daha önce talimatlandırılmış olup, ilgi (a) Genelgemiz ile Bakanlığımıza bağlı kurum ve kuruluşların stok kayıtlarında yer alıp dönemsel anlamda tespit edilen ihtiyaç fazlası taşınırların (ilaç, tıbbi malzeme, sarf malzemesi, demirbaş vb.) MALZEME KAYNAKLARI YÖNETİM SİSTEMİ (MKYS) üzerinde çalıştırılmaya başlanılan İHTİYAÇ FAZLASI TAŞINIR MODÜLÜ (Kurum ve kuruluşlarımızın çeşitli nedenlerden dolayı hiç kullanmayacakları veya miadı dolma, bozulma, yıpranma riski bulunan taşınırların ihtiyaç duyan kurum ve kuruluşların bilgi ve istifadesine sunmak amacıyla kullandıkları MKYS modülü) 'ne girişinin yapılması ve ihtiyaç duyulan diğer birimlerimizce de bu modül üzerinden malzeme takibinin yapılması istenmiştir.
+İlgi (a, b ve c) sayılı Genelgelerimiz ile bu hususlara ilişkin bilgilendirme ve genel düzenlemeler daha önce talimatlandırılmış olup, ilgi (a) Genelgemiz ile Bakanlığımıza bağlı kurum ve kuruluşların stok kayıtlarında yer alıp dönemsel anlamda tespit edilen ihtiyaç fazlası taşınırların <i>(ilaç, tıbbi</i> malzeme, sarf malzemesi, demirbaş vb.) MALZEME KAYNAKLARI YÖNETİM SİSTEMİ (MKYS) üzerinde çalıştırılmaya başlanılan İHTİYAÇ FAZLASI TAŞINIR MODÜLÜ <i>(Kurum</i> ve kuruluşlarımızın çeşitli nedenlerden dolayı hiç kullanmayacakları veya miadı dolma, bozulma, yıpranma riski bulunan taşınırların ihtiyaç duyan kurum ve kuruluşların bilgi ve istifadesine sunmak amacıyla kullandıkları MKYS modülü) 'ne girişinin yapılması ve ihtiyaç duyulan diğer birimlerimizce de bu modül üzerinden malzeme takibinin yapılması istenmiştir.
 
-Yine bu kapsamda Bakanlığımız Tedavi Hizmetleri Genel Müdürlüğü tarafından "İhtiyaç Fazlası Taşınırların Girişi" konulu (09.07.2008 tarih ve 25860 sayılı) yazı ile de aynı husus kurumlarımıza tekrar hatırlatılarak stoklarda bulunan ihtiyaç fazlası ilaç, sarf malzemesi ve tıbbi malzemelerin ilgili birimlerden temin edilmesi, bu kalemlerde kesinlikle alım yapılmaması, aksine hareket eden kurum yetkililerinin tespit edilmesi halinde sorumlu tutulacağı ve yapılacak denetimlerde kullanılmak üzere ihaleye çıkılırken MKYS modülünün incelendiğinin ve alınacak olan söz konusu ilaç ve tıbbi malzemelerin bu listelerde yer almadığının tutanakla belirlenmesi talimatlandırılmıştır.
+**Yine bu kapsamda Bakanlığımız Tedavi Hizmetleri Genel Müdürlüğü tarafından** "İhtiyaç Fazlası Taşınırların Girişi" konulu (09.07.2008 tarih ve 25860 sayılı) yazı ile de aynı husus kurumlarımıza tekrar hatırlatılarak stoklarda bulunan ihtiyaç fazlası ilaç, sarf malzemesi ve tıbbi malzemelerin ilgili birimlerden temin edilmesi, bu kalemlerde kesinlikle alım yapılmaması, aksine hareket eden kurum yetkililerinin tespit edilmesi halinde sorumlu tutulacağı ve yapılacak denetimlerde kullanılmak üzere ihaleye çıkılırken MKYS modülünün incelendiğinin ve alınacak olan söz konusu ilaç ve tıbbi malzemelerin bu listelerde yer almadığının tutanakla belirlenmesi talimatlandırılmıştır.
 
 Diğer taraftan "Finansal Yönetim ve Stok Kullanımı" konulu 27.02.2009 tarihli ve (B.10.0.SGB.0.81.00.03-842.99) 2030 sayılı yazımızda ise, Bakanlığımıza bağlı kurum ve kuruluşlarca, kaynakların etkin ve verimli bir şekilde kullanılması amacıyla hizmet sunumuna esas ihtiyaç duyulan her mal ve malzeme için asgari ve azami stok miktarlarını belirlemesi istenilmiş olup;
 
@@ -54,17 +54,17 @@ Buna göre Bakanlığımıza bağlı Hastaneler ve Ağız ve Diş Sağlığı Me
 
 3- Tıbbi malzeme ve ilaç teminleri eskiden olduğu gibi yıllık ihtiyaç miktarları dikkate alınarak ihale edilecektir. Ancak teslim süreleri; depoda bulundurabilecek mal ve malzemelerin her biri için ASM'nı (4 aylık ihtiyaç miktarını) geçmeyecek şekilde, kullanım durumuna göre belli periyotlarda belirlenecektir.
 
-Bu doğrultuda ihale edilen mal ve malzemelerin sipariş, teslim ve faturalama takvimi tıbbi malzeme ve ilaçların kullanım özelliğine uygun olarak peyderpey düzenlenecektir. Ancak sipariş maliyetleri ve ürün özellikleri peyderpey teslime uygun olmayan ürünler toplu olarak teslim alınabilir. (Teslim sürelerinin fazla olmasının idarelerin dönemsel borç ödeme yükünü azaltacağı unutulmamalıdır.)
+Bu doğrultuda ihale edilen mal ve malzemelerin sipariş, teslim ve faturalama takvimi tıbbi malzeme ve ilaçların kullanım özelliğine uygun olarak peyderpey düzenlenecektir. Ancak sipariş maliyetleri ve ürün özellikleri peyderpey teslime uygun olmayan ürünler toplu olarak teslim alınabilir. <i>(Teslim sürelerinin fazla olmasının idarelerin dönemsel</i> borç ödeme yükünü azaltacağı unutulmamalıdır.)
 
 Örneğin: A Hastanesi yıllık 12.000 adet ihtiyaç duyduğu bir tıbbi sarf malzemesini veya ilacı, bir yıl için ihale ederek tek bir ihale ile satın alabilir. Ancak teslimatları kurum için yukarıda belirlendiği üzere ASM'nın altında kalacak şekilde idari şartnamede (peyderpey teslim alma şeklinde) belirterek düzenleyebilir.
 
 4- Her bir tıbbi malzeme ve ilaç için belirlenecek olan yıllık tüketim miktarı, MKYS modülü üzerinde kullanımda olan "MKYS referans verileri "Stok Düzeyi Ayarları" alanına en geç 15 Mayıs 2009 tarihine kadar girilecektir. Kurumlarımızca Stok Düzeyi ayarlarına girilen bu yıllık ihtiyaç miktarlarının 1/3'ü azami stok miktarı olarak program tarafından otomatik olarak belirlenecek ve azami stok miktarının üzerinde bulunan tıbbi malzeme ve ilaç stokları MKYS "STOK FAZLASI TAŞINIR MODÜLÜ"nde diğer kurumların bilgisine açılacaktır.
 
-(STOK FAZLASI TAŞINIR MODÜLÜ: Kurumlarımızın stoklarında dört aylık
+**(STOK FAZLASI TAŞINIR MODÜLÜ:** Kurumlarımızın stoklarında dört aylık
 
-ihtiyaçlarının üzerinde bulunan tüketime yönelik tıbbi malzeme ve ilaçları, diğer kurum ve
+<i>ihtiyaçlarının üzerinde bulunan tüketime yönelik tıbbi malzeme</i> ve ilaçları, diğer kurum ve
 
-kuruluşlarımızın bilgi ve istifadesine sunmak amacıyla kullanılacak MKYS modülüdür.)
+<i>kuruluşlarımızın bilgi</i> ve istifadesine sunmak amacıyla kullanılacak MKYS modülüdür.)
 
 Örneğin: A hastanesinin stoklarında 675 kutu mevcut olan bir ilacın tespit edilen yıllık tüketim miktarı 1.800 kutu ise kurum bu miktarı (1.800'ü) "Stok Düzeyi Ayarları" alanına girecektir. Bu bilginin girilmesiyle modül otomatik olarak kurumun ASM'nı 1.800/3=600 kutu olarak belirleyecek ve 600 kutunun fazlası olan 75 kutuyu STOK FAZLASI TAŞINIR MODÜLÜ" aracılığı ile diğer kurum ve kuruluşların bilgi ve istifadesine sunacaktır.
 
@@ -88,17 +88,17 @@ Bunun dışında; Kurumların "STOK FAZLASI TAŞINIR MODÜLÜ" aracılığıyla 
 
 12- İklim ve güvenlik şartları gibi nedenlerle ulaşım zorluğu yaşanabilecek kurumlarda belirlenecek azami 4 (dört) aylık stok miktarının üzerinde, tıbbi malzeme ve ilaç bulundurmalarının zorunlu olması durumunda gerekçeleriyle birlikte Bakanlığımızdan izin alınacaktır.
 
-13- Kurumlarımızın 2009 yılı tıbbi malzeme ve ilaç ihtiyaçları kapsamında daha önce ihale edilip sözleşmeye bağlanan ve/veya ihale ilanına çıkılmış olan satın alma işlemlerinde (teslim alma takvimi vb. hususlarda) ilgili ihale dokümanında öngörülen şartlar dâhilinde işlem tesis edilecektir. Ancak yapılan/yapılacak olan sözleşmelerde mümkün olduğu durumlarda 4735 sayılı Kamu İhale Sözleşmeleri Kanunu'nun ilgili hükümlerine dayanarak bu genelgeye uygun değişiklikler yapılacaktır. Ayrıca birim fiyat üzerinden yapılan ihalelerde % 20'ye kadar eksiltme hususunun da uygulanabileceği unutulmamalıdır.
+13- Kurumlarımızın 2009 yılı tıbbi malzeme ve ilaç ihtiyaçları kapsamında daha önce ihale edilip sözleşmeye bağlanan ve/veya ihale ilanına çıkılmış olan satın alma işlemlerinde <i>(teslim</i> alma takvimi vb. hususlarda) ilgili ihale dokümanında öngörülen şartlar dâhilinde işlem tesis edilecektir. Ancak yapılan/yapılacak olan sözleşmelerde mümkün olduğu durumlarda 4735 sayılı Kamu İhale Sözleşmeleri Kanunu'nun ilgili hükümlerine dayanarak bu genelgeye uygun değişiklikler yapılacaktır. Ayrıca birim fiyat üzerinden yapılan ihalelerde % 20'ye kadar eksiltme hususunun da uygulanabileceği unutulmamalıdır.
 
-14- Birinci basamak sağlık kuruluşlarımızca "Sağlık Müdürlüklerinde Stok Yönetimi" konulu 03.11.2008 tarih, 9620 sayılı ve 2008/68 sıra nolu Genelge hükümlerine göre hareket edilmeye devam edilecektir.
+**14- Birinci basamak sağlık kuruluşlarımızca** "Sağlık Müdürlüklerinde Stok Yönetimi" konulu 03.11.2008 tarih, 9620 sayılı ve 2008/68 sıra nolu Genelge hükümlerine göre hareket edilmeye devam edilecektir.
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof.** Dr. Nihat TOSUN
 
 Bakan a.
 
-Müsteşar V.
+**Müsteşar** V.
 
 ### DAĞITIM:
 

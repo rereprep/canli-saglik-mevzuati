@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-9.2.2. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi
+**9.2.2. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi**
 
 ### SAĞLIK BAKANLIĞI SOSYAL TESİSLER İŞLETME YÖNERGESİ
 

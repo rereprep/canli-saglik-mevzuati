@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.
-BAŞBAKANLIK
-Afet ve Acil Durum Yönetimi Başkanlığı
+**BAŞBAKANLIK**
+**Afet ve Acil Durum Yönetimi Başkanlığı**
 
 Sayı : 34202324-010.06.02- 21628
 Konu : Geçici Koruma Altındaki Yabancılara İlişkin Sağlık Hizmetlerinin Yürütülmesi
@@ -24,7 +24,7 @@ Konu : Geçici Koruma Altındaki Yabancılara İlişkin Sağlık Hizmetlerinin Y
 
 Başbakan Yardımcılığından:
 
-GENELGE
+**GENELGE**
 2015/8
 
 Suriye Arap Cumhuriyeti’nde yaşanan iç karışıklık neticesinde, 29 Nisan 2011 tarihinde Hatay’ın Yayladağı İlçesi’nden Türkiye’ye girişler başlamış olup giriş yapan yabancıların barınma ve beslenme gibi temel ihtiyaçlarının karşılanması amacı başta olmak üzere AFAD koordinasyonunda pek çok kurum, kuruluş ve sivil toplum kuruluşunun işbirliği ile Suriye’den ülkemize yönelik nüfus hareketlerine ilişkin faaliyetler yürütülmektedir.
@@ -72,7 +72,7 @@ Yukarıda belirtilen hükümler çerçevesinde geçici koruma altındaki yabanc�
 Genelgenin uygulanmasına ilişkin olarak gerekli hassasiyetin gösterilmesi hususunda gereğini rica ederim.
 
 Prof. Dr. Numan KURTULMUŞ
-Başbakan Yardımcısı
+**Başbakan Yardımcısı**
 
 EK: Dağıtım Listesi
 

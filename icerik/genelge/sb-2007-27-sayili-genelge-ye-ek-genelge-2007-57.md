@@ -15,7 +15,7 @@ kontrol_edildi: true
 ---
 
 ### T.C. SAĞLIK BAKANLIĞI
-Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
+**Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü**
 
 Sayı : B100AÇS0120000-010.06-01 / 12853
 Konu : 2007/27 sayılı Genelgeye Ek Genelge

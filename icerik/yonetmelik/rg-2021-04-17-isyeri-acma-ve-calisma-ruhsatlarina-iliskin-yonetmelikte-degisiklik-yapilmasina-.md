@@ -13,19 +13,19 @@ ocr: true
 duzeltildi: true
 ---
 
-YÖNETMELİK
+**YÖNETMELİK**
 
-Karar Sayısı: 3835
+**Karar Sayısı: 3835**
 
 Ekli “İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik”in yürürlüğe konulmasına, 1593 sayılı Umumi Hıfzıssıhha Kanunu, 1608 sayılı Umuru Belediyeye Müteallik Ahkâmı Cezaiye Hakkında 16 Nisan 1340 Tarih ve 486 Numaralı Kanunun Bazı Maddelerini Muaddil Kanun, 2559 sayılı Polis Vazife ve Salahiyet Kanunu, 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, 4562 sayılı Organize Sanayi Bölgeleri Kanunu, 5216 sayılı Büyükşehir Belediyesi Kanunu, 5302 sayılı İl Özel İdaresi Kanunu ile 5393 sayılı Belediye Kanunu hükümleri gereğince karar verilmiştir.
 
 16 Nisan 2021
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 
 CUMHURBAŞKANI
 
-İŞYERİ AÇMA VE ÇALIŞMA RUHSATLARINA İLİŞKİN YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞYERİ AÇMA VE ÇALIŞMA RUHSATLARINA İLİŞKİN YÖNETMELİKTE** DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
 
 MADDE 1- 14/7/2005 tarihli ve 2005/9207 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (a), (c), (d) ve (e) bentleri aşağıdaki şekilde değiştirilmiş ve aynı fıkraya (u) bendinden sonra gelmek üzere aşağıdaki bentler eklenmiştir.
 
@@ -73,6 +73,6 @@ MADDE 9- Aynı Yönetmeliğin eki (EK-2)’de yer alan “GAYRİSIHHÎ MÜESSESE
 
 “1.2.2- Tamamı aynı yetkili idare sınırları içinde olmak kaydıyla, müstakil olarak kurulan araç şarj istasyonu adresinden başka yerlerde bulunan ve istasyon tarafından uzaktan veya yerinde yönetilebilen ve yetkili idarenin uygun göreceği yerlerde bulunan araç şarj üniteleri, araç şarj istasyonu için düzenlenen ruhsatta belirtilerek istasyon ve tüm üniteler için tek ruhsat düzenlenir.”
 
-MADDE 10- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+**MADDE 10-** Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-MADDE 11- Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.
+**MADDE 11-** Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.

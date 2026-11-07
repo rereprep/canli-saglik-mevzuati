@@ -117,30 +117,30 @@ O L U R
 
 ## EK. 1 - a
 
-(Ön yüz)
+**(Ön yüz)**
 
 ### T.C. SAĞLIK BAKANLIĞI MERKEZ TEŞKİLATI
 
-ADI :
+**ADI** :
 
-SOYADI :
+**SOYADI :**
 
-GÖREVİ :
+**GÖREVİ :**
 
 SİCİL NO :
 
 Fotoğraf
 Soğuk Mühür
 
-İDARİ VE MALİ İŞLER DAİRESİ BAŞKANLIĞI
+**İDARİ VE MALİ İŞLER DAİRESİ BAŞKANLIĞI**
 
-(Arka yüz)
+**(Arka yüz)**
 
 ### KART SAHİBİNİN
 
 DOĞUM YERİ / TARİHİ :
 
-BABA ADI :             ANA ADI :
+**BABA** ADI :             ANA ADI :
 
 İLİ :                        İLÇE :
 
@@ -156,42 +156,42 @@ KAN GRUBU :            ONAY            KART NO:
 
 NOT: Hazırlanacak kimlik kartları (boy 8,5 cm- en 5,5 cm )
 
-Türk Bayrağı ; Kırmızı zemin üzerine beyaz ay yıldız,
+**Türk Bayrağı ;** Kırmızı zemin üzerine beyaz ay yıldız,
 
-Sağlık Bakanlığı Logosu ;
+**Sağlık Bakanlığı Logosu ;**
 
 Türkiye Cumhuriyeti kısaltması; (T. C) Sağlık Bakanlığı ismi turkuaz zemin üzerine siyah yazı (ariel 10 punto ),
 
 Kurum İsmi ; Turkuaz zemin üzerine beyaz yazı. (ariel 8 punto ),
 
-Personelin adı, soyadı bölümleri: Beyaz zemin üzerine siyah-yazı ve çizgiler. (ariel 10 punto ),
+**Personelin adı, soyadı bölümleri:** Beyaz zemin üzerine siyah-yazı ve çizgiler. <i>(ariel</i> 10 punto ),
 
-Görevi bölümü: Beyaz zemin üzerine siyah-yazı ve çizgiler. (ariel 11 punto ),
+**Görevi bölümü:** Beyaz zemin üzerine siyah-yazı ve çizgiler. (ariel 11 punto ),
 
-Sicil No bölümü: Beyaz zemin üzerine siyah-yazı ve çizgiler. (ariel 9 punto ),
+**Sicil No bölümü:** Beyaz zemin üzerine siyah-yazı ve çizgiler. <i>(ariel</i> 9 punto ),
 
-Arka yüzünde; Fon niteliğinde açık renk çizgilerden oluşan Sağlık Bakanlığı amblemi, olacak şekilde düzenlenir.
+**Arka yüzünde;** Fon niteliğinde açık renk çizgilerden oluşan Sağlık Bakanlığı amblemi, olacak şekilde düzenlenir.
 
 ## EK. 1 - b
 
-(Ön yüz)
+**(Ön yüz)**
 
 ### T.C. SAĞLIK BAKANLIĞI ANKARA İL SAĞLIK MÜDÜRLÜĞÜ
 
-ADI :
+**ADI** :
 
 SOYADI :
 
-GÖREVİ :
+**GÖREVİ :**
 
 SİCİL NO :
 
 Fotoğraf
 Soğuk Mühür
 
-ANKARA EĞİTİM ARAŞTIRMA HAST.BAŞTABİBLİĞİ
+**ANKARA EĞİTİM ARAŞTIRMA HAST.BAŞTABİBLİĞİ**
 
-(Arka yüz)
+**(Arka yüz)**
 
 ### KART SAHİBİNİN
 
@@ -237,9 +237,9 @@ Arka yüzünde; Fon niteliğinde açık renk çizgilerden oluşan Sağlık Bakan
 
 …../GENEL MÜDÜRLÜĞÜ / BAŞKANLIĞI
 
-ADI :
+**ADI** :
 
-SOYADI :
+**SOYADI :**
 
 GÖREVİ :
 
@@ -248,15 +248,15 @@ SİCİL NO :
 Fotoğraf
 Soğuk Mühür
 
-İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI
+**İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI**
 
-(Arka yüz)
+**(Arka yüz)**
 
 ### KART SAHİBİNİN
 
 DOĞUM YERİ / TARİHİ :
 
-BABA ADI :             ANA ADI :
+**BABA** ADI :             ANA ADI :
 
 İLİ :                        İLÇE :
 
@@ -272,21 +272,21 @@ KAN GRUBU :            ONAY            KART NO:
 
 NOT: Hazırlanacak kimlik kartları (boy 8,5 cm- en 5,5 cm )
 
-Türk Bayrağı ; Kırmızı zemin üzerine beyaz ay yıldız,
+**Türk Bayrağı ;** Kırmızı zemin üzerine beyaz ay yıldız,
 
-Sağlık Bakanlığı Logosu ;
+**Sağlık Bakanlığı Logosu ;**
 
-Türkiye Cumhuriyeti kısaltması; (T. C) Sağlık Bakanlığı ismi turkuaz zemin üzerine siyah yazı (ariel 10 punto ),
+**Türkiye Cumhuriyeti kısaltması;** (T. C) Sağlık Bakanlığı ismi turkuaz zemin üzerine siyah yazı (ariel 10 punto ),
 
-Kurum İsmi ; Turkuaz zemin üzerine beyaz yazı. (ariel 8 punto ),
+**Kurum İsmi ;** Turkuaz zemin üzerine beyaz yazı. <i>(ariel</i> 8 punto ),
 
-Personelin adı, soyadı bölümleri: Beyaz zemin üzerine siyah-yazı ve çizgiler. (ariel 10 punto) ,
+**Personelin adı, soyadı bölümleri:** Beyaz zemin üzerine siyah-yazı ve çizgiler. <i>(ariel</i> 10 punto) ,
 
-Görevi bölümü: Beyaz zemin üzerine siyah-yazı ve çizgiler. (ariel 11 punto) ,
+**Görevi bölümü:** Beyaz zemin üzerine siyah-yazı ve çizgiler. <i>(ariel</i> 11 punto) ,
 
-Sicil No bölümü: Beyaz zemin üzerine siyah-yazı ve çizgiler. (ariel 9 punto) ,
+**Sicil No bölümü:** Beyaz zemin üzerine siyah-yazı ve çizgiler. (ariel 9 punto) ,
 
-Arka yüzünde; Fon niteliğinde açık renk çizgilerden oluşan Sağlık Bakanlığı amblemi, olacak şekilde düzenlenir.
+**Arka yüzünde;** Fon niteliğinde açık renk çizgilerden oluşan Sağlık Bakanlığı amblemi, olacak şekilde düzenlenir.
 
 ## AÇIKLAMA
 

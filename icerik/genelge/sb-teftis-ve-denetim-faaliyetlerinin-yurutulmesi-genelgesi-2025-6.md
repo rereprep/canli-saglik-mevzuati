@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-10.3.1. Teftiş ve Denetim Faaliyetlerinin Yürütülmesi Genelgesi (2025/6)
+**10.3.1. Teftiş ve Denetim Faaliyetlerinin Yürütülmesi Genelgesi** (2025/6)
 
 T.C.
 SAĞLIK BAKANLIĞI

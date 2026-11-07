@@ -12,11 +12,11 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.37. Mükemmeliyet Merkezleri Hakkında Genelge (2019/08)
+**2.3.37. Mükemmeliyet Merkezleri Hakkında Genelge (2019/08)**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 80118214 - 010.06 -  
 Konu : Mükemmeliyet Merkezleri Hakkında

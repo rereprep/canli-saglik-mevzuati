@@ -13,7 +13,7 @@ tarih: "06.12.2022"
 kontrol_edildi: true
 ---
 
-2.3.21. Kronik Yara Bakım Hizmetleri Genelgesi (2022/8)
+**2.3.21. Kronik Yara Bakım Hizmetleri Genelgesi (2022/8)**
 
 ### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -47,21 +47,21 @@ a) Bakan: Sağlık Bakanını,
 
 b) Bakanlık: Sağlık Bakanlığını,
 
-c) Bilimsel komisyon: Kronik yara bakım hizmetlerinin planlanması, geliştirilmesi ve ülke genelinde etkin bir şekilde sunulması amacıyla Bakanlıkça oluşturulan Kronik Yara Bakım Hizmetleri Bilimsel Komisyonunu,
+c) **Bilimsel komisyon:** Kronik yara bakım hizmetlerinin planlanması, geliştirilmesi ve ülke genelinde etkin bir şekilde sunulması amacıyla Bakanlıkça oluşturulan Kronik Yara Bakım Hizmetleri Bilimsel Komisyonunu,
 
-ç) Birinci basamak kronik yara bakımı: Sadece cilt (dermis ve epidermis) ve cilt altının etkilendiği, yağ ve derin dokuların etkilenmediği yaraların tedavisi için sunulan hizmeti,
+ç) **Birinci basamak kronik yara bakımı:** Sadece cilt (dermis ve epidermis) ve cilt altının etkilendiği, yağ ve derin dokuların etkilenmediği yaraların tedavisi için sunulan hizmeti,
 
-d) Genel müdür: Sağlık Hizmetleri Genel Müdürünü,
+d) **Genel müdür:** Sağlık Hizmetleri Genel Müdürünü,
 
 e) İkinci basamak kronik yara bakımı: Yumuşak dokuların etkilendiği, basit cerrahi girişimler (debridman, apse drenajı, minör amputasyonlar) ile enfeksiyon ve nekrozun kontrol edilmesini takiben yine basit cerrahi işlemlerle veya medikal olarak kapanabilecek yaraların takip ve tedavisinin yapıldığı hizmeti,
 
-f) Kronik yara: Altta yatan birtakım problemlerden dolayı iyileşmesi geciken, normal iyileşme safhalarını göstermeyen çoğu zaman iyileşmek için uzun süre gerektiren, standart tedaviye iyi yanıt vermeyen yarayı,
+f) **Kronik yara:** Altta yatan birtakım problemlerden dolayı iyileşmesi geciken, normal iyileşme safhalarını göstermeyen çoğu zaman iyileşmek için uzun süre gerektiren, standart tedaviye iyi yanıt vermeyen yarayı,
 
-g) Kronik yara bakım ünitesi: Bakanlıkça tescil edilen ve kronik yara bakım alanlarında sunulan tedavilerle iyileşmeyen yaralar dahil olmak üzere bu Genelge kapsamında tanımlanan yaraların tümüne ve eşlik eden hastalıkların basit cerrahi müdahalelere izin vermediği hastaların tedavi edildiği üniteyi,
+g) **Kronik yara bakım ünitesi:** Bakanlıkça tescil edilen ve kronik yara bakım alanlarında sunulan tedavilerle iyileşmeyen yaralar dahil olmak üzere bu Genelge kapsamında tanımlanan yaraların tümüne ve eşlik eden hastalıkların basit cerrahi müdahalelere izin vermediği hastaların tedavi edildiği üniteyi,
 
 ğ) Müdürlük: İl Sağlık Müdürlüğünü,
 
-h) Sorumlu tabip: Kronik yara bakım ünitesinde hizmetin koordinasyonu ve organizasyonundan, bir bütün olarak planlanıp yürütülmesinden ve ekibinde görevli tüm personelden ilgili sağlık tesisi yönetimine karşı sorumlu olan genel cerrahi uzmanı, ortopedi ve travmatoloji uzmanı, plastik, rekonstrüktif ve estetik cerrahi uzmanı veya çocuk cerrahisi uzmanları arasından görevlendirilen tabibi,
+h) **Sorumlu tabip:** Kronik yara bakım ünitesinde hizmetin koordinasyonu ve organizasyonundan, bir bütün olarak planlanıp yürütülmesinden ve ekibinde görevli tüm personelden ilgili sağlık tesisi yönetimine karşı sorumlu olan genel cerrahi uzmanı, ortopedi ve travmatoloji uzmanı, plastik, rekonstrüktif ve estetik cerrahi uzmanı veya çocuk cerrahisi uzmanları arasından görevlendirilen tabibi,
 
 ifade eder.
 

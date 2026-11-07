@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-11.2.4. Merkez Pay Yönergesi
+**11.2.4. Merkez Pay Yönergesi**
 
 ### Bakanlık Makamına sunuş yazısı
 
@@ -26,7 +26,7 @@ Sayı: 15722819/840-
 
 Konu: Merkez Pay Yönergesi
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesine istinaden sağlık hizmetlerinin iyileştirilmesi, kaliteli ve verimli hizmet sunumunun teşvik edilmesi, sağlık kurum ve kuruluşlarının kendi imkânlarıyla karşılayamadıkları ihtiyaçların giderilmesi, eğitim, araştırma ve geliştirme faaliyetlerinin desteklenmesi maksadıyla hazırlanan ve Maliye Bakanlığı'nın 18/01/2013 tarih 390/521 sayılı yazısı ile uygun görülen "Sağlık Bakanlığı İle Bağlı Kuruluşlarına Bağlı Döner Sermaye İşletmelerinden Merkeze Aktarılan Tutarın Dağılım Ve Sarfına Dair Yönerge"nin onaylanarak yürürlüğe konulması hususunu,
 
@@ -44,11 +44,11 @@ Uygun görüşle arz ederim. [?]
 
 Prof. Dr. Nihat TOSUN
 
-Müsteşar
+**Müsteşar**
 
 OLUR [?]
 
-Dr. Mehmet MÜEZZİNOĞLU
+**Dr. Mehmet MÜEZZİNOĞLU**
 
 Bakan
 

@@ -15,9 +15,9 @@ duzeltildi: true
 
 TEBLİĞ
 
-Sosyal Güvenlik Kurumu Başkanlığından:
+**Sosyal Güvenlik Kurumu Başkanlığından:**
 
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE**
 DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.4.3.A numaralı maddesine aşağıdaki fıkralar eklenmiştir.
@@ -67,7 +67,7 @@ MADDE 8- Aynı Tebliğin 2.4.4.İ-2 numaralı maddesinin birinci fıkrasında ye
 MADDE 9- Aynı Tebliğin 3.1.2 numaralı maddesinin on birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(11) SUT eki EK-3/C-2 ve EK-3/C-3 listelerinde yer alan tıbbi malzemelerin garanti süresi dışında oluşan bakım/onarım masraflarının ayrı ayrı toplamı veya bir defada oluşacak bakım onarım masrafı, SUT’ta belirtilen istisnalar hariç, tıbbi malzeme bedelinin %75’ini geçemez. Kurumca iade alınan cihazların bakım onarım işlemlerinde ise bu maddede belirtilen cihazların garanti süresi dışında oluşan bakım/onarım masraflarının ayrı ayrı toplamı cihaz bedelinin %75’ini geçemez hükmü dikkate alınmayacak olup, Kurumca iade alınan cihazlarda bir defada oluşacak bakım onarım masrafı (Akü ve batarya tutarı bakım onarım bedelinin hesaplanmasında dikkate alınmaz.) cihaz bedelinin %75’ini geçemez.”
 
-MADDE 10- Aynı Tebliğin 3.3.6 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 10-** Aynı Tebliğin 3.3.6 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Birinci fıkrasının (a) bendinde yer alan “BPAP,” ibaresi yürürlükten kaldırılmıştır.
 b) 3.3.6.A-1 numaralı alt maddesinin başlığı ile ikinci, üçüncü, altıncı ve dokuzuncu fıkraları aşağıdaki şekilde değiştirilmiştir.
 “3.3.6.A-1- Uykuda solunum bozukluğu hastalıklarında NİMV cihazları verilme ilkeleri”
@@ -83,8 +83,8 @@ c) 3.3.6.A-2 numaralı alt maddesinin birinci fıkrasında yer alan “ve BPAP-S
 b) Korpulmonale varlığında; PaO2’de 55-59 mmHg veya SaO2 ≤ %89 ile birlikte EKG’de “P Pulmonale” bulgusu olması veya hematokrit >%55 veya konjestif kalp yetmezliği olması halinde,”
 “(6) Taşınabilir komponentli olan oksijen tedavisi cihazları; istirahat halinde PaO2 (Parsiyel Oksijen Basıncı) > 55 mmHg veya SaO2 (Oksijen Saturasyonu) > %88 olmasına karşın egzersiz durumunda veya iş sırasında desatüre (PaO2 ≤ 55 mmHg veya SaO2 ≤ %88) olması (egzersiz ile %4’den fazla desatüre olan) ve bu durumunu gösterir istirahat ve efor kan gazı sonuçlarının sağlık kurulu raporunda belirtilmesi ve/veya rapor ekinde belgelendirilmesi halinde, yatalak olmayan ve aktif iş yaşamını sürdüren veya öğrenci olan mobilize hastalarda (Sağlık kurulu raporunda bu durum ayrıca belirtilmelidir.) bedeli Kurumca karşılanır. Ancak, istirahatte PaO2 ≤ 55 mmHg veya SaO2 ≤ %88 olan hastalar için efor kan gazı sonuçları istenmeyecektir.”
 
-MADDE 11- Aynı Tebliğin 3.3.10 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
-a) Birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11-** Aynı Tebliğin 3.3.10 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+a) **Birinci fıkrasının** (a) bendi aşağıdaki şekilde değiştirilmiştir.
 “a) Eğitim kliniği olan üçüncü basamak resmi sağlık hizmeti sunucularında genel cerrahi, gastroenteroloji, nöroloji ve psikiyatri kliniklerince oluşturulacak konsey kararınca ve bu 4 (dört) branştan hekimin birlikte bulunduğu sağlık kurulu raporuna istinaden Kurumca bedeli karşılanır.”
 b) Maddeye aşağıdaki fıkra eklenmiştir.
 “(2) Sakral sinir stimülatörlerinin üriner inkontinansta kullanımı:
@@ -104,11 +104,11 @@ b) Ürodinamik olarak
 2) Refraktör idiopatik aşırı aktif mesane; antimuskarinik ve intradetrüsör botulinum toksin enjeksiyonu tedavisine cevap vermeyen ve en az 2 (iki) yıldır izlemde olan hastalarda uygulanabilir.
 3) Ağrılı mesane sendromu (interstisyel sistit); bu tanıyı aldıktan sonra en az 2 (iki) yıl geçmiş ve yapılan tüm oral ve intravezikal tedavilere cevap vermeyen hastalara uygulanabilir.”
 
-MADDE 12- Aynı Tebliğ eki “Ayaktan Başvurularda Ödeme Listesi (EK-2/A)”nde yer alan “3199” branş kodlu satırdan sonra gelmek üzere aşağıdaki satır eklenmiştir.
+**MADDE 12-** Aynı Tebliğ eki “Ayaktan Başvurularda Ödeme Listesi (EK-2/A)”nde yer alan “3199” branş kodlu satırdan sonra gelmek üzere aşağıdaki satır eklenmiştir.
 
 | 1301 | Klinik Nörofizyoloji (Nöroloji) | 168 | 168 | 168 | 168 | 168 | 168 | 88 | 88 | 88 | 85 | 85 | 85 | 85 | 85 |
 
-MADDE 13- Aynı Tebliğ eki “Ayaktan Başvurularda İlave Olarak Faturalandırılacak İşlemler Listesi (EK-2/A-2)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 13- Aynı** Tebliğ eki “Ayaktan Başvurularda İlave Olarak Faturalandırılacak İşlemler Listesi (EK-2/A-2)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listeye “8000841” SUT kodlu işlem satırından sonra gelmek üzere aşağıdaki satır eklenmiştir.
 
 | 800843 | Kardiyak Amiloidoz Sintigrafisi (99mTc-PYP, DPD veya HMDP ile) |
@@ -128,7 +128,7 @@ c) Listeye “801410” SUT kodlu işlem satırından sonra gelmek üzere aşağ
 
 d) Listede yer alan “L107610” SUT kodlu işlem satırı yürürlükten kaldırılmıştır.
 
-MADDE 14- Aynı Tebliğ eki “Hizmet Başı İşlem Puan Listesi (EK-2/B)”nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 14-** Aynı Tebliğ eki “Hizmet Başı İşlem Puan Listesi (EK-2/B)”nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listeye “520030” SUT kodlu işlem satırından sonra gelmek üzere aşağıdaki satır eklenmiştir.
 
 | SUT Kodu | İşlem Adı | Açıklama | Puan |

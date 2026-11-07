@@ -96,7 +96,7 @@ c) Kamu görevlisine karşı görevi nedeniyle işlenen suçlar, şikâyete tabi
 
 4) 113 Beyaz Kod Çağrı Merkezi
 
-a) Hukuk Müşavirliği bünyesinde faaliyet gösteren Beyaz Kod çağrı merkezi, 7 gün 24 saat esasına göre hizmet verecektir. Bu kapsamda;
+a) **Hukuk** Müşavirliği bünyesinde faaliyet gösteren Beyaz Kod çağrı merkezi, 7 gün 24 saat esasına göre hizmet verecektir. Bu kapsamda;
 
 aa) Alo 113 Beyaz Kod telefon hattına gelen çağrıları karşılar.
 

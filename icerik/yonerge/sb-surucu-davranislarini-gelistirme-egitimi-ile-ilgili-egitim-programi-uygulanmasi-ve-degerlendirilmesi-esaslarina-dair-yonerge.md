@@ -18,7 +18,7 @@ kontrol_edildi: true
 
 ### Birinci bölüm (kitap s. 478)
 
-04.03.2005 tarihli ve 3201 sayılı.
+**04.03.2005 tarihli ve 3201 sayılı**.
 
 **Madde 1 – Amaç:** Yönergenin amacı, Sürücü Davranışlarını Geliştirme Eğitimi Yönetmeliği hükümleri doğrultusunda eğitime tabi tutulan sürücülere eğitim programı sonunda yapılacak değerlendirmeler ile ilgili usul ve esasları düzenlemektir.
 

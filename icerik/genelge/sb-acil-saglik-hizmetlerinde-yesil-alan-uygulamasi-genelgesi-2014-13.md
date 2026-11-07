@@ -36,9 +36,9 @@ Acil servislere başvuran tüm hastaların ilk müracaatta acil hasta olarak de�
 
 İlgi sayılı Genelgenin yürürlükten kaldırıldığı ile uygulamanın yukarıda vurgulanan esaslara uygun olarak yürütülmesi gerektiğinin, ilgili tüm sağlık kurum ve kuruluşlarına tebliğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN  
+**Prof. Dr. Nihat TOSUN**  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
 **DAĞITIM:**  
 **Gereği:**  

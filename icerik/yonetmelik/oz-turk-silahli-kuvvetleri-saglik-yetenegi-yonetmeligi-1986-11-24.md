@@ -39,7 +39,7 @@ Türk Silahlı Kuvvetleri Sağlık Yeteneği Yönetmeliği
 
 2) General, amiral, üstsubay, subay, yedek subay ve astsubayların sağlık yeteneklerine göre yapılacak sınıfında bırakma, yeniden sınıflandırma, sağlık sebebiyle Silahlı Kuvvetlerden ayırma ve askerlikten çıkarma işlemlerine esas teşkil eden 1 ve 2 numaralı Sınıflandırma Çizelgeleri.
 
-3) Türk Silahlı Kuvvetleri Sağlık Raporu örneği.
+3) **Türk** Silahlı Kuvvetleri Sağlık Raporu örneği.
 
 4) Sağlık Kurulu Muayene Tisi örneği.
 
@@ -173,7 +173,7 @@ l) Kulaklarda işitme kuvveti tam olmalıdır. v (II) Kulak uğultusu, çınlama
 
 Devamlı olarak ve özellikle eğitim ve öğrenim başlangıcında şoförlüğe ayrılmış erlerin kendilerine verilmiş göreve karşı olan tavır hareketleri, amirleri ve kıta tabipleri tarafından gayet dikkatli ve yakından tetkik ve takip neticesi yetersizlik gösterenler şoförlük görevinden uzaklaştırılırlar. Beden ve ruh yeteneklerinde en küçük bir şüpheyi uyandıranlar, izleyenler tarafından bir anketle uzman tabibe gönderilirler.
 
-15) Komando : Tam sağlam olanlardan; kas ve iskelet sistemi iyi gelişmiş bulunanlar, çevik olanlar, yargılama ve kavrama yeteneği süratli bulunanlar, refleksleri kuvvetli olanlar, görme dereceleri düzeltmesiz tam olanlar arasından ve sağlık kurulundan geçirilmek kaydiyle seçilirler.
+15) **Komando :** Tam sağlam olanlardan; kas ve iskelet sistemi iyi gelişmiş bulunanlar, çevik olanlar, yargılama ve kavrama yeteneği süratli bulunanlar, refleksleri kuvvetli olanlar, görme dereceleri düzeltmesiz tam olanlar arasından ve sağlık kurulundan geçirilmek kaydiyle seçilirler.
 
 16) Paraşütçü : Piyade sınıfı sağlık niteliklerine sahip olanlardan:
 
@@ -245,7 +245,7 @@ Türk Silahlı Kuvvetleri Askeri Okullarına alınacak öğrenci adayları tam s
 
 Erkeklerde En Az Boy Kızlarda En Az Boy Yaş (Santimetre) (Santimetre) 11 134 Cm. (Dahil) 130 Cm. (Dahil) 12 139 Cm. " 136 Cm. " 13 144 Cm. " 140 Cm. " 14 151 Cm. " 145 Cm.
 
-15 156 Cm. " 150 Cm. " 16 160 Cm. " 154 Cm. " 17 165 Cm. " 156 Cm. '' 18 166 Cm. " 157 Cm. " 19 167 Cm. " 158 Cm. " 20 168 Cm. " 159 Cm. " 2) Ağırlık : Herhangi bir hastalığa bağlı olmamak şartıyla boy ölçüsünün santimetre olarak son iki rakamı ele alınarak bu rakamlardan beş Kg. kadar (5 dahil) fazlalığı, onbeş Kg. kadar (15 dahil) noksanlığı bulunanlar okullara kabul edilirler.
+**15 156** Cm. " 150 Cm. " 16 160 Cm. " 154 Cm. " 17 165 Cm. " 156 Cm. '' 18 166 Cm. " 157 Cm. " 19 167 Cm. " 158 Cm. " 20 168 Cm. " 159 Cm. " 2) Ağırlık : Herhangi bir hastalığa bağlı olmamak şartıyla boy ölçüsünün santimetre olarak son iki rakamı ele alınarak bu rakamlardan beş Kg. kadar (5 dahil) fazlalığı, onbeş Kg. kadar (15 dahil) noksanlığı bulunanlar okullara kabul edilirler.
 
 Kara. Deniz ve Hava Harp Okulları hariç, üniversite fakültelerine ya da yüksek okullara alınacak askeri öğrenci adaylarında düzeltme ile her iki gözde görmeler ayrı ayrı tam olmak şartıyla 2 diyoptriye kadar miyopi ve hipermetropi (2 dahil), yüksek çapı 2 diyoptriyi geçmeyen veya iki ekseni arasında kırılma farkı 2 diyoptriyi geçmeyen astigmatizmalar bu okullara girmeğe engel değildir.
 
@@ -703,14 +703,14 @@ Balık adamlarla kurbağa adamların her türlü sağlık kurulu muayeneleri İs
 
 Personelin seçilmeleri, yetenekleri ve eğitimlerinin diğer özellikleri yürürlükte olan yönergelere göre uygulanır.
 
-Dalgıçlığa kabul edilecek bütün adaylarda aranacak sağlık nitelikleri:
+**Dalgıçlığa kabul edilecek bütün adaylarda aranacak sağlık nitelikleri:**
 
 1) Geçirdiği Hastalıklar: Aşağıdaki hastalıklardan herhangi birini geçirmiş olan adaylar dalgıç olamazlar.
 
-A - Tüberküloz, astımbronşial, kronik akciğer hastalıkları,
+**A - Tüberküloz, astımbronşial, kronik akciğer hastalıkları,**
 B - Kronik veya tekrarlayan sinüzit, dış kulak yolunun kronik hastalıkları, orta kulağın kronik ve akut hastalıkları,
-C - Kronik ve tekrarlayan ortopedik hastalıklar,
-D - Kronik veya tekrarlayan mide, barsak hastalıkları,
+**C - Kronik ve tekrarlayan ortopedik hastalıklar,**
+**D - Kronik veya tekrarlayan mide, barsak hastalıkları,**
 E - Kronik alkolizm,
 F - Tedavi görmüş olan veya devam eden aktif sifiliz.
 

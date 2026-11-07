@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.41. Yürürlükten Kaldırılan Genelgeler (2021/9)
+**2.3.41. Yürürlükten Kaldırılan Genelgeler (2021/9)**
 
 ### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 

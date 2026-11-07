@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına Dair Yönerge
+**2.2.4. Türkiye Kök Hücre Merkezinin Çalışma Usul ve Esaslarına** Dair Yönerge
 
 ### Bakanlık Makamına sunuş yazısı (kitap s. 27)
 

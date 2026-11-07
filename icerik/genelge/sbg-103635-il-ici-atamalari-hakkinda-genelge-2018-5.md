@@ -13,7 +13,7 @@ konu: "İl içi atamalarda personelin görev yerlerinin belirlenmesine ilişkin 
 kontrol_edildi: true
 ---
 
-9.3.8. İl İçi Atamaları Hakkında Genelge (2018/5)
+**9.3.8. İl İçi Atamaları Hakkında Genelge (2018/5)**
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI

@@ -14,11 +14,11 @@ konu: "Sağlık Bakanlığı taşra teşkilatı personelinin kamu konutlarından
 kontrol_edildi: true
 ---
 
-9.3.2. Taşra Teşkilatı Konut Tahsisi Genelgesi (2024/4)
+**9.3.2. Taşra Teşkilatı Konut Tahsisi Genelgesi (2024/4)**
 
 T.C.
-SAĞLIK BAKANLIĞI
-Yönetim Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Yönetim Hizmetleri Genel Müdürlüğü**
 
 Sayı : 57955685-010.06 /
 Konu : Taşra Teşkilatı Konut Tahsisi

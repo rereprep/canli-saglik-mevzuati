@@ -14,7 +14,7 @@ kontrol_edildi: true
 ---
 
 
-11.3.6. Ödenek İşlemleri Hakkında Genelge (2018/15)
+**11.3.6. Ödenek İşlemleri Hakkında Genelge (2018/15)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Strateji Geliştirme Başkanlığı

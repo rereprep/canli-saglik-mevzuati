@@ -15,7 +15,7 @@ kontrol_edildi: true
 ---
 
 T.C.  
-SAĞLIK BAKANLIĞI  
+**SAĞLIK BAKANLIĞI**  
 Halk Sağlığı Genel Müdürlüğü
 
 Sayı : 57536863  

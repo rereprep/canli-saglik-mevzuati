@@ -15,12 +15,12 @@ kontrol_edildi: true
 
 T.C.
 SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 54567092/
 Konu: Vakıf Üniversiteleri ile Özel Hastanelerin İşbirliğine İlişkin Usul ve Esaslar
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 3359 sayılı Sağlık Hizmetleri Temel Kanunu’na 6745 sayılı Kanunla eklenen Ek 15 inci madde uyarınca, tıp ve/veya diş hekimliği fakültesi bulunan ancak sağlık uygulama ve araştırma merkezi bulunmayan veya sağlık uygulama ve araştırma merkezinde yeterli kapasite ve eğitim altyapısı bulunmayan vakıf üniversitelerinin özel hastanelerle yapacağı işbirliğine ilişkin usul ve esasları belirlemek amacıyla Yükseköğretim Kurulu’nun da görüşü alınarak “Vakıf Üniversiteleri İle Özel Hastanelerin İşbirliğine İlişkin Usul Ve Esaslar” hazırlanmış olup ilişikte sunulmuştur.
 Bilgilerinizi ve mezkûr usul ve esasların onaylanarak yürürlüğe konulması hususunu takdir ve tensiplerinize arz ederim.
@@ -31,7 +31,7 @@ Genel Müdür
 Uygun Görüşle Arz Ederim
 [?]/[?]/2017
 Uzm. Dr. İsmail DEMİRTAŞ
-Müsteşar Yardımcısı
+**Müsteşar** Yardımcısı
 
 Uygun Görüşle Arz Ederim
 [?]/[?]/2017
@@ -58,25 +58,25 @@ MEVZUAT İŞLERİ DAİRE BAŞKANLIĞI
 [Çizgili barkod]
 00045522851
 
-VAKIF ÜNİVERSİTELERİ İLE ÖZEL HASTANELERİN İŞBİRLİĞİ
-USUL VE ESASLARI
+**VAKIF ÜNİVERSİTELERİ İLE ÖZEL HASTANELERİN İŞBİRLİĞİ**
+**USUL VE ESASLARI**
 
-BİRİNCİ BÖLÜM
-Amaç, Kapsam, Dayanak ve Tanımlar
+**BİRİNCİ BÖLÜM**
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
-Amaç
+**Amaç**
 MADDE 1
 (1) Bu Usul ve Esasların amacı, bünyesinde tıp ve/veya diş hekimliği fakültesi olan vakıf üniversitelerinden sağlık uygulama ve araştırma merkezi bulunmayanlar ile sağlık uygulama ve araştırma merkezinde yeterli kapasite ve eğitim altyapısı olmayanların özel hastanelerle işbirliğine dair usul ve esasların belirlenmesidir.
 
-Kapsam
+**Kapsam**
 MADDE 2
 (1) Bu Usul ve Esaslar, özel hastaneler ile vakıf üniversitelerinin işbirliği yapılan birimlerini ve bu birimlerde görev yapan personeli kapsar.
 
-Dayanak
+**Dayanak**
 MADDE 3
 (1) Bu Usul ve Esaslar,7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun Ek 15 inci maddesine dayanılarak hazırlanmıştır.
 
-Tanımlar
+**Tanımlar**
 MADDE4 –
 (1) Bu Usul ve Esaslarda geçen;
 a) Bakanlık: Sağlık Bakanlığını,
@@ -98,20 +98,20 @@ MADDE 5 –
 (2) İşbirliği yapılan hastane, üniversite için sağlık uygulama ve araştırma merkezi kabul edilir.
 (3) İşbirliği yapılan hastane, öğretim üyelerinin faaliyetleri ve üniversitenin eğitim ve araştırma işlevleri dışında 27/3/2002 tarihli ve 24708 sayılı Özel Hastaneler Yönetmeliği hükümlerine tabidir.
 
-İşbirliği yapılamayan veya işbirliğinin iptalini gerektiren durumlar
+**İşbirliği yapılamayan veya işbirliğinin iptalini gerektiren durumlar**
 MADDE 6 –
 (1) Yeterli kapasite ve eğitim alt yapısına sahip sağlık uygulama ve araştırma merkezi bulunan üniversiteler ile özel hastaneler bu Usul ve Esaslar kapsamında işbirliği yapamazlar.
 (2) İşbirliği esnasında, üniversite tarafından yeterli kapasite ve eğitim alt yapısını sağlayan bir sağlık uygulama ve araştırma merkezi açılması ve faaliyete geçmesi halinde veya mevcut merkezin kapasitesinin yeterli hale getirilmesi durumunda bu kapasiteye göre faaliyete geçtiği tarihten itibaren işbirliği protokolü bir ay içerisinde Bakanlıkça iptal edilir.
 (3) Bir hastane birden fazla üniversite ile işbirliği yapamaz.
 
-İşbirliği protokolünün icrası ve sona ermesi
+**İşbirliği protokolünün icrası ve sona ermesi**
 MADDE 7 –
 (1) Bu Usul ve Esaslara uygun olarak hazırlanan işbirliği protokolü, ilgili üniversite ve özel hastanenin yetkili makamları tarafından imzalanarak YÖK’ün ve Bakanlığın onayıyla uygulamaya konulur. Protokolde değişiklik yapılması ve yeni hüküm ilavesi de aynı usule göre yapılır.
 (2) İşbirliği protokolünün onaylanmasından itibaren en geç altı ay içerisinde fiilen işbirliğine başlanır. Bu süre içerisinde fiilen işbirliğine başlanmaması halinde protokol feshedilmiş sayılır. İşbirliğinin fiilen başlama tarihi bir tutanak ile tespit edilerek Bakanlığa ve YÖK’e bildirilir.
 (3) İşbirliği protokolünün süresi beş yıldır. Taraflar sürenin bitiminden en az bir yıl önce protokolün sona ereceğini karşı tarafa yazılı olarak bildirmediği takdirde protokol aynı süreyle kendiliğinden uzamış sayılır.
 (4) Taraflar iki yıl önceden bildirimde bulunmak ve devam eden eğitimlerle ilgili gerekli önlemleri almak kaydıyla, protokolde belirtilen sürelerin bitimini beklemeksizin ve herhangi bir sebep göstermeksizin protokolü süresinden önce sona erdirebilir.
 
-Hastanenin kapasitesi ve standartları
+**Hastanenin kapasitesi ve standartları**
 MADDE 8-
 (1)İşbirliği yapılacak hastanenin aşağıda belirtilen şartları taşıması gereklidir.
 a) Hastanenin kapasite ve eğitim alt yapısının yeterli kabul edilebilmesi için, yılda en az 60 öğrenci alan bir tıp fakültesine ve çekirdek eğitim müfredatına uygun bir eğitime imkân verecek şekilde sağlık hizmeti veren iç hastalıkları, çocuk sağlığı ve hastalıkları, genel cerrahi, kadın hastalıkları ve doğum dallarında en az 80, diğer uzmanlık dallarında 90, yoğun bakımlarda 30 olmak üzere en az 200 yataklı bir hastane olması gereklidir.
@@ -126,7 +126,7 @@ e) Üniversiteden görevlendirilecek doçent ve profesör unvanlı öğretim üy
 (4) Tıp ve/veya diş hekimliği fakültelerinin lisans öğrencileri ile uzmanlık öğrencileri, eğitimlerinin gereği sayılan her türlü uygulamayı protokol yapılan hastanede yapma hakkına sahiptir. Hastane bu amaçla eğitim ve öğrencilik faaliyetlerinin yürütülebilmesi için gerekli olan ders araç ve gereçlerini temin etmek ve öğrencilere staj ve uygulama imkânları ile diğer eğitim şartlarını sağlamakla mükelleftir.
 (5) YÖK tarafından oluşturulacak denetleme komisyonu, işbirliği yapılan hastaneyi her eğitim ve öğretim yılı içinde en az bir kez bu usul ve esaslarda belirtilen şartlar açısından denetler. Denetleme esnasında Bakanlık tarafından görevlendirilen bir temsilci de bulunur. Ertesi yılın öğrenci kontenjanları onaylanırken YÖK tarafından bu rapor esas alınır. Bu denetim sonucu hazırlanan raporun bir örneği Bakanlığa gönderilir.
 
-Eğitim hizmetleri
+**Eğitim hizmetleri**
 MADDE 9-
 (1)İşbirliği kapsamındaki hastanelerde lisans ve uzmanlık eğitimleri, fakülte dekanının yetki ve sorumluluğundadır. Dekan, eğitim ve araştırma hizmetlerinin en verimli şekilde ve aksamadan yürütülmesi için ilgili mevzuatı çerçevesinde her türlü tedbiri alır. Klinik eğitimleri planlar, izleme ve değerlendirmesini yapar.
 (2) Dekan ve hastane mesul müdürü, eğitim, araştırma ve sağlık hizmetlerini aksatmayacak şekilde işbirliği içinde çalışarak gerekli tedbirleri alır.
@@ -137,29 +137,29 @@ MADDE 9-
 (7) Uzmanlık öğrencileri uzmanlık eğitimi uygulamasından sayılmayan işlerde görevlendirilemez.
 (8) Uzmanlık öğrencisi, uzmanlık eğitimi mevzuatına göre eğitici olanların gözetim ve denetiminde araştırma ve eğitim çalışmalarında ve sağlık hizmeti sunumunda görev alır, meslekî, deontolojik ve etik kurallara uyar.
 
-Öğretim elemanları
+**Öğretim elemanları**
 MADDE 10-
 (1) İşbirliği kapsamında hastanede fiilen görev yapacak olan üniversite öğretim elemanları, ilgili dekan ve hastane mesul müdürünün talebi üzerine rektör tarafından görevlendirilir.
 (2) İşbirliği çerçevesinde görevlendirilmiş öğretim elemanları, uzmanlık dallarının gerektirdiği sağlık hizmetlerini sunar, bilimsel görüş, proje, araştırma ve benzeri hizmetler ile mezuniyet öncesi ve sonrası eğitim ve öğretim yaparlar.
 
-ÜÇÜNCÜ BÖLÜM
-Çeşitli ve Son Hükümler
+**ÜÇÜNCÜ BÖLÜM**
+**Çeşitli ve Son Hükümler**
 
-Disiplin ve özlük işlemleri
-MADDE 11-
+**Disiplin ve özlük işlemleri**
+**MADDE 11-**
 (1) İşbirliği yapılan hastanede görevlendirilen üniversite personelinin disiplin ve özlük işlemleri üniversitenin ilgili mevzuatına göre yürütülür.
 (2) Öğrenciler, eğitim ve öğretime yönelik mevzuat hükümleri ile birlikte hastanenin tabi olduğu mevzuat hükümlerine de uymak zorundadır.
 (3) İşbirliği yapılan hastanede sağlık hizmeti sunan üniversite öğretim üyelerinin üniversite ödenekleri dâhil, kadrosuna/sözleşmesine bağlı ödemeleri üniversite tarafından ödenir.
 (4) Öğretim üyelerince yürütülen sağlık hizmetlerinin karşılığı olan ve hastane idaresi ile üniversite arasında kararlaştırılan ücretler hastane tarafından, öğretim üyelerine ödenmek üzere, üniversitenin hesabına aktarılır. Öğretim üyeleri ile özel hastane arasında bu işbirliği kapsamında hizmet akdine dayanan parasal ilişki kurulması yasaktır.
 
-Mevcut protokollerin durumu
+**Mevcut protokollerin durumu**
 GEÇİCİ MADDE 1 –
 (1) 7/9/2016 tarihinden önce vakıf yükseköğretim kurumlarıyla özel hastaneler arasında yapılmış olup uygulanmakta olan protokoller, protokollerde belirlenen sürelerin sonuna kadar mevcut hak ve yükümlülükleri ile geçerlidir.
 
-Yürürlük
+**Yürürlük**
 MADDE 12 –
 (1) YÖK’ün görüşü alınarak hazırlanan bu Usul ve Esaslar Bakan Onayı ile yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 MADDE 13 –
 (1) Bu Usul ve Esasları Sağlık Bakanı yürütür.

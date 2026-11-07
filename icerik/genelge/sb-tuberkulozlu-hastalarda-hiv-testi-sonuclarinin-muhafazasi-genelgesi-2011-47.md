@@ -17,7 +17,7 @@ kontrol_edildi: true
 6.3.22. Tüberkülozlu Hastalarda HIV Testi Sonuçlarının Muhafazası Genelgesi (2011/47)
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Verem Savaşı Dairesi Başkanlığı
 
 Sayı : B.10.0.VSD.0.00.00.07-427 / 2592
@@ -25,7 +25,7 @@ Konu : Tüberkülozlu Hastalarda HIV Testi Sonuçlarının Muhafazası
 
 22 Temmuz 2011
 
-GENELGE
+**GENELGE**
 2011/47
 
 Tüberkülozlu hastalarda tüberküloz-HIV birlikteliğinin olup olmadığını saptayarak, hasta için en uygun tedavi rejiminin belirlenmesi ve iki hastalık arasındaki etkileşmenin en aza indirgenmesini sağlamak amacıyla 04.03.2011 tarihli ve 2011/14 sayılı "Tüberkülozlu Hastalarda HIV Tanı Testi Yapılması" konulu genelge ile 01.03.2011 tarihinden itibaren tüm sağlık kurum ve kuruluşlarında tüberküloz tanısı alan hastalara HIV-ELISA tanı testi yapılması istenmişti.
@@ -38,12 +38,12 @@ Yapılan değerlendirmeler sonucunda verem savaşı dispanserlerinde hasta dosya
 
 Konunun ilgili birimlere iletilmesi ve çalışmaların titizlikle sürdürülmesi hususunda bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 Bakan a.
-Müsteşar
+**Müsteşar**
 
 DAĞITIM:
 
-Gereği:
+**Gereği**:
 81 İl Valiliği
 

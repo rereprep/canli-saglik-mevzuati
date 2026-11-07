@@ -17,7 +17,7 @@ kontrol_edildi: true
 ## COĞRAFİ YAPISI NEDENİYLE KAYITLI NÜFUSUN ZORUNLU OLARAK DÜŞÜK OLDUĞU YERLER-1
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı: B.10.0.TSH.0.20.00.01/35571
@@ -45,7 +45,7 @@ Dr. Seraceddin ÇOM
 Genel Müdür V.
 
 Uygun görüşle arz ederim.  
-.../.../2011  
+**.../.../2011**  
 Doç. Dr. Turan BUZGAN  
 Müsteşar Yardımcısı
 

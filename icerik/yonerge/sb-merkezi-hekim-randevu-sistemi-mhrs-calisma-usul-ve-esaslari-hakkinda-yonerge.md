@@ -49,13 +49,13 @@ OLUR
 
 Dr. Ahmet DEMİRCAN
 
-Bakan
+**Bakan**
 
 ### MERKEZİ HEKİM RANDEVU SİSTEMİ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE
 
 ## BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -81,7 +81,7 @@ d) Hekim çalışma cetveli: Bir hekimin çalışma zamanının tamamını ihtiv
 
 e) HSGM: Halk Sağlığı Genel Müdürlüğünü,
 
-f) KHGM: Kamu Hastaneleri Genel Müdürlüğünü,
+f) **KHGM: Kamu** Hastaneleri Genel Müdürlüğünü,
 
 g) MHRS: Merkezi Hekim Randevu Sistemini,
 
@@ -95,7 +95,7 @@ ifade eder.
 
 ## İKİNCİ BÖLÜM
 
-MHRS Hizmetlerinin Merkezi Koordinasyonu
+**MHRS Hizmetlerinin Merkezi Koordinasyonu**
 
 #### Görev ve sorumluluklar
 
@@ -129,7 +129,7 @@ c) Birinci basamak sağlık tesisleri ile ASM’lerde MHRS işleyişinde tespit 
 
 ## ÜÇÜNCÜ BÖLÜM
 
-MHRS Hizmetlerinin Yürütülmesi
+**MHRS Hizmetlerinin Yürütülmesi**
 
 #### İlde koordinasyon
 

@@ -15,7 +15,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-3.3.1. Acil Sağlık Hizmetlerinin Sunumu Genelgesi (2017/2)
+**3.3.1. Acil Sağlık Hizmetlerinin Sunumu Genelgesi (2017/2)**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -26,8 +26,8 @@ Konu : Acil Sağlık Hizmetlerinin Sunumu
 
 14/12/2017
 
-GENELGE
-2017/2
+**GENELGE**
+**2017/2**
 
 Acil sağlık hizmetlerinin adil, ulaşılabilir ve kesintisiz bir şekilde sürdürülmesi Bakanlığımızın öncelikli görevleri arasında yer almaktadır. Acil sağlık hizmetlerinin daha etkin yürütülmesi amacıyla Başbakanlık ve Bakanlığımızca çıkarılan ve halen yürürlükte olan ilgili mer'i mevzuatlara göre;
 

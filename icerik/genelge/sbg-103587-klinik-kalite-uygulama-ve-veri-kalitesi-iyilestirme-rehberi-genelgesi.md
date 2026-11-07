@@ -13,7 +13,7 @@ tarih: "22.07.2019"
 kontrol_edildi: true
 ---
 
-2.2.14. Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi Genelgesi (2019/15)
+**2.2.14. Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme** Rehberi Genelgesi (2019/15)
 
 ### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü
 

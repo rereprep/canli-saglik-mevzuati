@@ -17,7 +17,7 @@ T.C.
 SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
-SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ -
+**SAĞLIK HİZMETLERİ** GENEL MÜDÜRLÜĞÜ -
 MEVZUAT İŞLERİ DAİRESİ BAŞKANLIĞI
 19/06/2020 16:22 - 54567092-010.04-2812
 [ Barkod ]
@@ -88,12 +88,12 @@ ifade eder.
 **Daire başkanlıkları**
 
 **MADDE 4 –** (1) Genel Müdürlüğün daire başkanlıkları şunlardır:
-a) Ağız ve Diş Sağlığı Dairesi Başkanlığı,
-b) Araştırma, Geliştirme ve Sağlık Teknolojileri Değerlendirme Dairesi Başkanlığı,
-c) Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Dairesi Başkanlığı,
-ç) Denetim ve Değerlendirme Dairesi Başkanlığı.
-d) Doku, Organ Nakli ve Diyaliz Hizmetleri Dairesi Başkanlığı,
-e) Eğitim ve Sertifikasyon Dairesi Başkanlığı,
+a) **Ağız ve Diş Sağlığı Dairesi Başkanlığı**,
+b) **Araştırma, Geliştirme ve Sağlık Teknolojileri Değerlendirme Dairesi Başkanlığı**,
+c) **Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Dairesi Başkanlığı**,
+ç) **Denetim ve Değerlendirme Dairesi Başkanlığı**.
+d) **Doku, Organ Nakli ve Diyaliz Hizmetleri Dairesi Başkanlığı**,
+e) **Eğitim ve Sertifikasyon Dairesi Başkanlığı**,
 f) Geleneksel, Tamamlayıcı ve Fonksiyonel Tıp Uygulamaları Dairesi Başkanlığı,
 g) Hasta Hakları ve Tıbbi Sosyal Hizmetler Dairesi Başkanlığı,
 ğ) İdari ve Mali İşler Dairesi Başkanlığı,
@@ -220,16 +220,16 @@ f) Düzenlenecek ruhsat belgesi, ön izin belgesi, faaliyet izin belgesi, mesul 
 g) İç kontrol iş ve işlemlerini yürütmek,
 ğ) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Kamu Sağlık Tesisleri Ruhsatlandırma Dairesi Başkanlığı
-MADDE 14 - (1) Kamu sağlık tesisleri ruhsatlandırma dairesi başkanlığının görevleri şunlardır:
+**Kamu Sağlık Tesisleri Ruhsatlandırma Dairesi Başkanlığı**
+**MADDE 14 -** (1) Kamu sağlık tesisleri ruhsatlandırma dairesi başkanlığının görevleri şunlardır:
 a) Bakanlığa bağlı sağlık tesislerinin ruhsat ve faaliyet izin işlemlerini yürütmek,
 b) Devlet üniversitelerine bağlı sağlık tesislerinin ön izin, ruhsat ve faaliyet izin işlemlerini yürütmek,
 c) Belediyeler, Organize Sanayi Bölgeleri (OSB) ile diğer kamu kurum ve kuruluşlarına ait sağlık tesislerinin ön izin, ruhsat ve faaliyet izin işlemlerini yürütmek,
 ç) Bakanlığa bağlı hastanelere ve hastanelerin bazı bölümlerine ad verilmesi ile tabela standartlarına ilişkin usul ve esasları düzenlemek ve bunlara ilişkin iş ve işlemleri yürütmek.
 d) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Kan ve Kan Ürünleri Dairesi Başkanlığı
-MADDE 15 - (1) Kan ve kan ürünleri dairesi başkanlığının görevleri şunlardır:
+**Kan ve Kan Ürünleri Dairesi Başkanlığı**
+**MADDE 15 -** (1) Kan ve kan ürünleri dairesi başkanlığının görevleri şunlardır:
 a) Ülkenin kan ve kan ürünleri ihtiyacı için gerekli çalışmaları koordine etmek,
 b) Kan hizmetlerini planlamak, kan hizmet birimlerinin ve terapötik aferez merkezlerine ilişkin ruhsat işlemlerini yürütmek, bunların standartlarını belirlemek, faaliyetlerini izlemek, veri toplanmasını sağlamak ve analizini yapmak,
 c) Kan Bankacılığı ve Transfüzyon Tıbbı Eğitim Merkezlerinin ve Terapötik Aferez Eğitim Merkezlerinin yetkilendirilmesi işlemlerini yürütmek ve/veya yürütülmesini sağlamak,
@@ -239,8 +239,8 @@ e) Türkiye Kök Hücre Koordinasyon Merkezinin (TÜRKÖK’ün) planlama ve dü
 f) Kalıtsal kan hastalıkları ve bunlarla ilgili merkezlere ait iş ve işlemleri yürütmek,
 g) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Mevzuat İşleri Dairesi Başkanlığı
-MADDE 16 - (1) Mevzuat işleri daire başkanlığının görevleri şunlardır:
+**Mevzuat İşleri Dairesi Başkanlığı**
+**MADDE 16 -** (1) Mevzuat işleri daire başkanlığının görevleri şunlardır:
 a) Tüm mevzuat çalışmalarının koordinasyonu, geliştirilmesi ve yayınlanması hizmetlerini yürütmek,
 b) Diğer daire başkanlıklarının görev alanına giren konularda görüş oluşturulmasına katkı vermek,
 
@@ -250,8 +250,8 @@ d) Genel müdürlüğü ilgilendiren tüm yargı süreçlerine ilişkin hizmetle
 e) Soru önergelerinin koordinasyon hizmetlerini yürütmek,
 f) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Otizm, Zihinsel Özel Gereksinimler ve Nadir Hastalıklar Dairesi Başkanlığı
-MADDE 17 - (1) Otizm, zihinsel özel gereksinimler ve nadir hastalıklar dairesi başkanlığının görevleri şunlardır:
+**Otizm, Zihinsel Özel Gereksinimler ve Nadir Hastalıklar Dairesi Başkanlığı**
+**MADDE 17 -** (1) Otizm, zihinsel özel gereksinimler ve nadir hastalıklar dairesi başkanlığının görevleri şunlardır:
 a) Otizm, zihinsel özel gereksinimler ve nadir hastalıklarla ilgili farkındalık çalışmaları yapmak, tarama çalışmaları konusunda alt yapı oluşturmak,
 b) Otizm, zihinsel özel gereksinimler ve nadir hastalıkları olan bireylerin sağlık sisteminde yaşadığı sorunları tespit etmek ve bu sorunlarla ilgili çözümler üretmek,
 c) Otizm, zihinsel özel gereksinimler ve nadir hastalıklarla ilgili hizmet standartlarını belirlemek ve bu standartları geliştirmek,
@@ -264,8 +264,8 @@ g) Otizm, zihinsel özel gereksinimler ve nadir hastalıklarla ilgili ulusal kay
 h) Otizm, zihinsel özel gereksinimler ve nadir hastalıklarla ilgili kurulacak enstitü, mükemmeliyet merkezi gibi ileri hizmet birimleri konusunda çalışmalar yapmak,
 ı) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Özel Hastaneler Dairesi Başkanlığı
-MADDE 18 - (1) Özel hastaneler dairesi başkanlığının görevleri şunlardır:
+**Özel Hastaneler Dairesi Başkanlığı**
+**MADDE 18 -** (1) Özel hastaneler dairesi başkanlığının görevleri şunlardır:
 a) Gerçek kişilere ve özel hukuk tüzel kişilerine ait özel hastanelerin ön izin ve ruhsat işlemlerini yürütmek, gerektiğinde ruhsat askıya alma ve iptal işlemlerini yapmak,
 b) Gerçek kişilere ve özel hukuk tüzel kişilerine ait hastanelerin faaliyet işlemlerini yürütmek, gerektiğinde faaliyet izin belgelerini askıya almak,
 c) Özel hastanelerin tabip ve uzman tabip kadro işlemlerini yürütmek,
@@ -273,8 +273,8 @@ c) Özel hastanelerin tabip ve uzman tabip kadro işlemlerini yürütmek,
 d) Özel hastanelerin tıbbi hizmet birimi, cihaz ilave/iptali, isim, adres, sahiplik/unvan değişiklikleri, yatak artırma/azaltma, kuruluş devri, birleşme, taşınma işlemlerini yürütmek,
 e) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Sağlık Hizmetleri Planlama Dairesi Başkanlığı
-MADDE 19 - (1) Sağlık hizmetleri planlama dairesi başkanlığının görevleri şunlardır:
+**Sağlık Hizmetleri Planlama Dairesi Başkanlığı**
+**MADDE 19 -** (1) Sağlık hizmetleri planlama dairesi başkanlığının görevleri şunlardır:
 a) Bölge ve coğrafi dağılımlı hizmet sunum planlama ve düzenleme hizmetlerini yürütmek.
 b) Mevcut sağlık tesislerinin dağılımını izlemek, yeni yatırım taleplerini değerlendirmek, planlama çalışmalarının sekretaryasını yürütmek.
 
@@ -287,16 +287,16 @@ g) Özellikli planlama gerektiren sağlık hizmetlerine ait ünite ve merkezleri
 ğ) Özellikli sağlık hizmeti sunan kurum ve kuruluşlarda inceleme yapmak ve uygulama düzeyini belirlemek,
 h) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Sağlık İnsan Gücü Planlama Dairesi Başkanlığı
-MADDE 20 - (1) Sağlık insan gücü planlama dairesi başkanlığının görevleri şunlardır:
+**Sağlık İnsan Gücü Planlama Dairesi Başkanlığı**
+**MADDE 20 -** (1) Sağlık insan gücü planlama dairesi başkanlığının görevleri şunlardır:
 a) Sağlık insan gücü ile ilgili durum analizi ve projeksiyonlar yapmak, kısa, orta ve uzun vadeli sağlık insan gücü ihtiyacını belirlemeye yönelik plan oluşturmak ve çalışmalar yapmak,
 b) Mevcut sağlık insan gücünün kurumsal, sektörler ve branşlar itibariyle dağılımını izlemek,
 c) Sağlık insan gücü alanında belirlenen ihtiyaca uygun personel yetiştirilmesi için ilgili kurum ve kuruluşlar ile işbirliği yapmak ve koordinasyonu sağlamak,
 ç) Sağlık kurum ve kuruluşlarının sağlık insan gücü ihtiyacının karşılanmasına yönelik çalışmaları yürütmek,
 d) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Sağlık İstatistikleri Dairesi Başkanlığı
-MADDE 21 - (1) Sağlık istatistikleri dairesi başkanlığının görevleri şunlardır:
+**Sağlık İstatistikleri Dairesi Başkanlığı**
+**MADDE 21 -** (1) Sağlık istatistikleri dairesi başkanlığının görevleri şunlardır:
 a) Sağlık kurum ve kuruluşlarında kişisel verilerin korunmasına ve veri mahremiyetinin sağlanmasına yönelik düzenleme yapmak,
 b) Verilerin zamanında ve doğru bir şekilde temin edilmesini sağlamak,
 c) Kamu ve özel sağlık kurum ve kuruluşlarından ihtiyaç duyulan her türlü veriyi toplamak ve toplanması için gerekli işlemleri yapmak,
@@ -304,17 +304,17 @@ c) Kamu ve özel sağlık kurum ve kuruluşlarından ihtiyaç duyulan her türl�
 d) Toplanan verileri istatistiksel metotları kullanarak projeksiyon yapmak, planlamalar oluşturup güncellemek, uygulanabilirliğini test etmek,
 e) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Sağlık Meslekleri Dairesi Başkanlığı
-MADDE 22 - (1) Sağlık meslekleri dairesi başkanlığının görevleri şunlardır:
+**Sağlık Meslekleri Dairesi Başkanlığı**
+**MADDE 22 -** (1) Sağlık meslekleri dairesi başkanlığının görevleri şunlardır:
 a) Sağlık mesleklerini tanımlamak, standartlarını belirlemek, sağlık meslek mensuplarının görev analizlerini yapmak veya yaptırmak,
 b) Sağlık alanında faaliyet gösteren dernek ve vakıfların taleplerine yönelik görüş oluşturmak,
 c) Yeni kurulan tabip odalarının kuruluşunu onaylamak, tabip odalarına üye tabiplerin üye listesinin güncellenmesi işlemlerini yürütmek,
 ç) Sağlık Meslekleri Kurulunun sekretarya işlemlerini yürütmek,
 d) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Sağlık Turizmi Dairesi Başkanlığı
+**Sağlık Turizmi Dairesi Başkanlığı**
 
-MADDE 23 - (1) Sağlık turizmi dairesi başkanlığının görevleri şunlardır:
+**MADDE 23 -** (1) Sağlık turizmi dairesi başkanlığının görevleri şunlardır:
 a) Sağlık turizmi ve turistin sağlığı ile ilgili hizmetleri planlamak, düzenlemek ve bu hizmeti verecek kurum ve kuruluşlara gerekli izinleri vermek, gerektiğinde verilen izinleri askıya alma ya da geri alma işlemlerini yürütmek,
 b) Sağlık turizmi ile ilgili iş ve işlemleri, ilgili kurum ve kuruluşlarla koordineli olarak yürütmek,
 c) Yurt dışından ülkemize tedavi amaçlı gelecek hastaların sağlık turizmi açısından kabul kriterlerini oluşturmak ve bu hastaların talep ve şikâyetlerini incelemek,
@@ -323,8 +323,8 @@ d) Sağlık alanında ikili işbirliği kapsamında ülkemize gelen ve tedavisi 
 e) Uluslararası Sağlık Hizmetleri Anonim Şirketi (USHAŞ) ile koordinasyonu sağlamak,
 f) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Sağlıkta Kalite, Akreditasyon ve Çalışan Hakları Dairesi Başkanlığı
-MADDE 24 - (1) Sağlıkta kalite, akreditasyon ve çalışan hakları dairesi başkanlığının görevleri şunlardır:
+**Sağlıkta Kalite, Akreditasyon ve Çalışan Hakları Dairesi Başkanlığı**
+**MADDE 24 -** (1) Sağlıkta kalite, akreditasyon ve çalışan hakları dairesi başkanlığının görevleri şunlardır:
 a) Kamu, üniversite ve özel kişilere ait sağlık kurum ve kuruluşlarında hasta ve çalışan güvenliği, çalışan memnuniyeti, verimlilik ve klinik etkililik hususlarını esas alan kalite standartlarını belirlemek, bu standartların sağlık kurum ve kuruluşlarında uygulanmasını izlemek ve periyodik olarak değerlendirmek,
 b) Klinik kalite göstergeleri geliştirmek, klinik kalite verilerini izlemek, analiz etmek, raporlamak ve ilgili birimlere geri bildirimlerde bulunmak,
 c) Sağlıkta kalite standartlarına ilişkin uygulama rehberleri oluşturmak,
@@ -334,8 +334,8 @@ e) Ulusal ve uluslararası akreditasyon kurum ve kuruluşları ile işbirliği y
 f) Sağlıkta kalite standartlarına yönelik değerlendirici kapasitesi oluşturmak ve sertifikasyon programları düzenlemek,
 g) Genel Müdürlükçe verilen diğer görevleri yerine getirmek.
 
-Sosyal Güvenlik Uygulamaları Dairesi Başkanlığı
-MADDE 25 - (1) Sosyal güvenlik uygulamaları dairesi başkanlığı görevleri şunlardır:
+**Sosyal Güvenlik Uygulamaları Dairesi Başkanlığı**
+**MADDE 25 -** (1) Sosyal güvenlik uygulamaları dairesi başkanlığı görevleri şunlardır:
 a) Teşhis ve tedavi yöntemlerini maliyet/etkililik ve maliyet/fayda yönünden değerlendirmek,
 b) Sağlık hizmetlerinin ücret tarifelerini belirlemek veya tasdik etmek,
 b) Geri ödeme sistemleri konusunda çalışmalar yapmak,
@@ -347,8 +347,8 @@ f) Sosyal Güvenlik Kurumu mevzuatınca Bakanlığımızca yürütülmesi gereke
 
 g) Genel Müdürlükçe verilen diğer görevleri yerine getirmek.
 
-Tescil ve Denklik İşlemleri Dairesi Başkanlığı
-MADDE 26 - (1) Tescil ve denklik işlemleri dairesi başkanlığının görevleri şunlardır:
+**Tescil ve Denklik İşlemleri Dairesi Başkanlığı**
+**MADDE 26 -** (1) Tescil ve denklik işlemleri dairesi başkanlığının görevleri şunlardır:
 a) Sağlık mesleklerinde uzmanlık belgesi almaya hak kazananların belgelerini düzenlemek ve tescili ile ilgili iş ve işlemlerini yürütmek,
 b) Türkiye ve yurt dışındaki eğitim kurumlarından mezun olan sağlık meslek mensuplarının diploma tescil ve iptaline ilişkin iş ve işlemlerini yürütmek,
 c) Yabancı uyruklu sağlık meslek mensuplarından ilgili kurumlarca diploma denkliği onaylananların tescil iş ve işlemlerini yürütmek,
@@ -356,8 +356,8 @@ c) Yabancı uyruklu sağlık meslek mensuplarından ilgili kurumlarca diploma de
 d) Sağlık mesleklerinde uzmanlık eğitimlerini yurt dışında yapmış olanların denklik işlemlerini yürütmek,
 e) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı
-MADDE 27 - (1) Tetkik ve teşhis hizmetleri dairesi başkanlığının görevleri şunlardır:
+**Tetkik ve Teşhis Hizmetleri Dairesi Başkanlığı**
+**MADDE 27 -** (1) Tetkik ve teşhis hizmetleri dairesi başkanlığının görevleri şunlardır:
 a) Özel müstakil tıbbi laboratuvarları planlamak, kamuya ve özel sağlık tesislerine ait tıbbi tanı ve doku tipleme laboratuvarlarını ruhsatlandırmak, faaliyetlerini izlemek, kalite kontrol sistemlerini uygulamalarını sağlamak ve sonuçlarını değerlendirmek,
 b) Laboratuvar disiplinlerine göre testlerin sınıflandırılmasına dair çalışma yapmak,
 c) Laboratuvarların standardize edilen yöntemleri uygulamalarına ve laboratuvarlar arası karşılaştırmalı testlerle doğru tanı koyma uygulamasına ilişkin çalışma yürütmek,
@@ -367,8 +367,8 @@ e) Tıbbi görüntüleme hizmetleri verilen ünite ve merkezlerini ruhsatlandır
 f) Tıbbi laboratuvar ve görüntüleme hizmetleri dışında kalan tetkik ve teşhis hizmetleri ile ilgili düzenleme yapmak,
 g) Genel Müdür tarafından verilen diğer görevleri yapmak.
 
-Tıp ve Uzmanlık Eğitimi Dairesi Başkanlığı
-MADDE 28 - (1) Tıp ve uzmanlık eğitimi dairesi başkanlığının görevleri şunlardır:
+**Tıp ve Uzmanlık Eğitimi Dairesi Başkanlığı**
+**MADDE 28 -** (1) Tıp ve uzmanlık eğitimi dairesi başkanlığının görevleri şunlardır:
 a) Tıp eğitimi standartları ve çekirdek müfredatı planlama ve düzenleme hizmetlerini yürütmek,
 b) Uzmanlık eğitimi, uzmanlık öğrencisi ve eğitim görevlilerinin izlenmesine ilişkin hizmetlerin yürütülmesini sağlamak,
 c) Tıpta Uzmanlık Kurulu ve Eczacılıkta Uzmanlık Kurulu sekretarya işlemlerini yürütmek,
@@ -383,16 +383,16 @@ g) Uzmanlık eğitimi standartları ile çekirdek müfredatı belirlenmesine ve 
 
 ÜÇÜNCÜ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
-Yürürlükten Kaldırılan Yönerge
+**Yürürlükten Kaldırılan Yönerge**
 
-MADDE 29- (1) 10/01/2020 tarihli ve 244 sayılı Makam Oluru ile yürürlüğe giren Sağlık Hizmetleri Genel Müdürlüğü Daire Başkanlıklarının Görevlerine Dair Yönerge yürürlükten kaldırılmıştır.
+**MADDE 29-** (1) 10/01/2020 tarihli ve 244 sayılı Makam Oluru ile yürürlüğe giren Sağlık Hizmetleri Genel Müdürlüğü Daire Başkanlıklarının Görevlerine Dair Yönerge yürürlükten kaldırılmıştır.
 
-Yürürlük
+**Yürürlük**
 
-MADDE 30- (1) Bu Yönerge Bakan onayı ile yürürlüğe girer.
+**MADDE 30-** (1) Bu Yönerge Bakan onayı ile yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 31- (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
+**MADDE 31-** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

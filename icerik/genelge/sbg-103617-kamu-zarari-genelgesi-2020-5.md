@@ -14,7 +14,7 @@ kontrol_edildi: true
 ---
 
 
-11.3.2. Kamu Zararı Genelgesi (2020/5)
+**11.3.2. Kamu Zararı Genelgesi (2020/5)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Strateji Geliştirme Başkanlığı

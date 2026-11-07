@@ -11,7 +11,7 @@ duzeltildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Türkiye Halk Sağlığı Kurumu
 
 SAYI : 21001706/                                      .../.../2016
@@ -37,13 +37,13 @@ Geçişin Doğrulanması için kurumumuzca belirlenecek bir tarih aralığında,
 Sürecin hızlı, hatasız ve eksiksiz olarak yürütülmesi hususunda;
 Gereğini rica ederim.
 
-Doç. Dr. Fazilet DUYGU
+**Doç. Dr. Fazilet DUYGU**
 Bakan a.
-Kurum Başkan Yardımcısı
+**Kurum Başkan Yardımcısı**
 
 Ekler:
 1)Saha Çalışması Formları (3 Sayfa)
-2)Form Uygulama Talimatları (3 sayfa)
+**2)Form Uygulama** Talimatları (3 sayfa)
 
 Dağıtım:
 -81 İl Valiliğine
@@ -71,7 +71,7 @@ Form 1: Bağımsız İzlem Veri Toplama Örnek Formu
 | 10 |  |  |  |  |  |  |  |  |  |  |
 | İzlemlenen TOPLAM DEPO SAYISI # |  |  |  |  |  |  |  |  |  |  |
 
-*İmha yöntemi kodları: (1): Otoklav (2): Kaynatma (3): Fırında yakma (4): Flakonların açılıp dökülmesi (5): Gömme (6): Açıkta yakma (7): Diğer (Bakanlığa gönderildi ise)
+*İmha yöntemi kodları: (1): Otoklav (2): Kaynatma (3): Fırında yakma (4): Flakonların açılıp dökülmesi (5): Gömme (6): Açıkta yakma (7): Diğer <i>(Bakanlığa gönderildi</i> ise)
 
 **Alınan tedbirler için önlem kodları: (1): tOPA soğuk zincirden çıkarılmış, çekilmiş (2): Tekrar eğitim gündemde (3): Daha yüksek seviyedeki kişilerin bilgisi dahilinde (4): Diğer (lütfen belirtin)
 
@@ -88,7 +88,7 @@ Tablo 1: BAĞIMSIZ İZLEM en alt seviyedeki aşı depolarında (uygulama yerleri
 
 *İzlenen soğuk hava depolarının yüzdesini ifade eder
 
-**İmha yöntemi kodları: (1): Otoklav (2): Kaynatma (3): Fırında yakma (4): Flakonların açılıp dökülmesi (5): Gömme (6): Açıkta yakma (7): Diğer (Bakanlığa gönderildi ise)
+**İmha yöntemi kodları: (1): Otoklav (2): Kaynatma (3): Fırında yakma (4): Flakonların açılıp dökülmesi (5): Gömme (6): Açıkta yakma (7): Diğer <i>(Bakanlığa gönderildi</i> ise)
 
 Tablo 2: Alınan önlemler (En alt dağıtım seviyesine kadar, uygulama noktaları haricinde) Eğer tOPA soğuk zincirde veya dışında bulunursa veya etiketlenmemiş şekilde dışında bulunursa
 

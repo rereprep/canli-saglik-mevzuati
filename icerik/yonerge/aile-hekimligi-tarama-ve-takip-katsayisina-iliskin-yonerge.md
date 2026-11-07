@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-30.06.2021 tarihli ve 1091 sayılı Yönerge
+**30.06.2021 tarihli ve 1091 sayılı Yönerge**
 
 ### AİLE HEKİMLİĞİ TARAMA VE TAKİP KATSAYISINA İLİŞKİN YÖNERGE ( 01.11.2024 tarihli ve 258422006 sayılı Bakan Onayı ile değişikliğe gidilmiştir.)
 

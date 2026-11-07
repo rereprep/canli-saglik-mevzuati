@@ -34,7 +34,7 @@ Kurum Başkanı V.
 Uygun görüşle arz ederim.  
 .../.../2014  
 Prof. Dr. Nihat TOSUN  
-Müsteşar  
+**Müsteşar**  
 
 **OLUR**  
 .../.../2014  

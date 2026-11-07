@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.4. Hastane Yatak Sayısı ve Tanımlar Genelgesi (2008/65)
+**2.3.4. Hastane Yatak Sayısı ve Tanımlar Genelgesi (2008/65)**
 
 ### T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
@@ -110,7 +110,7 @@ Taburcu + Ölen
 
 Bir yılda hastane polikliniğine başvuran hastaların ne kadarının yatırılarak tedavi edildiğini gösterir.
 
-Yatan Hasta × 100
+**Yatan Hasta** × 100
 
 Poliklinik başvurusu
 
@@ -118,15 +118,15 @@ Poliklinik başvurusu
 
 Bir yatağın yılda kaç hasta tarafından kullanıldığını gösterir.
 
-Yatan Hasta
+**Yatan Hasta**
 
-Hasta Yatağı
+**Hasta Yatağı**
 
 ### K) DEVİR ARALIĞI (GÜN)
 
 Bir hasta yatağının kaç gün boş kaldığını gösterir.
 
-Hasta Yatağı X Süre- Yatılan Gün Savısı
+**Hasta Yatağı** X Süre- Yatılan Gün Savısı
 
 (Taburcu + Ölen)
 
@@ -134,7 +134,7 @@ Hasta Yatağı X Süre- Yatılan Gün Savısı
 
 Belirli bir zaman dilimi içerisinde hasta yataklarının ne oranda hasta tarafından kullanıldığını gösterir hesaplama formulu
 
-Yatılan Gün Sayisı X 100
+**Yatılan Gün Sayisı** X 100
 
 Yatak Doluluk Oranı -
 

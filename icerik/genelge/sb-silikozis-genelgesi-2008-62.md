@@ -23,10 +23,10 @@ Temel Sağlık Hizmetleri Genel Müdürlüğü
 Sayı : B10.0.TSH.0.10.00.06.
 Konu : Silikozis
 
-24.09.2008 / 29184
+**24.09.2008 / 29184**
 
-GENELGE
-2008/62
+**GENELGE**
+**2008/62**
 
 Bilindiği gibi Silikozis, pnömokonyozlar başlığı altında toplanan akciğer hastalıklarındandır. Hastalık mesleki akciğer hastalıkları arasında hızlı seyreden ve ölümcül olanlarından birisi olup koruyucu tedbirlerle önlenebilir. Silikozis solunabilir büyüklükteki (0,5-5 µm çaplı) silis partiküllerinin inhalasyonuyla oluşur ve çoğunlukla radyografiyle saptanabilir. Silikanın yüksek derecede fibrozis yapıcı etkisinin çeşitli açıklamaları yapılmışsa da hangi mekanizma ile akciğerlerde granülomlar ve fibrozis oluşturduğu kesin olarak bilinmemektedir.
 

@@ -16,22 +16,22 @@ kontrol_edildi: true
 
 DİJİTAL PATOLOJİ VE TELEPATOLOJİ UYGULAMALARI HAKKINDA YÖNERGE
 
-BİRİNCİ BÖLÜM
-Başlangıç Hükümleri
+**BİRİNCİ BÖLÜM**
+**Başlangıç Hükümleri**
 
-Amaç
+**Amaç**
 
 MADDE 1- (1) Bu Yönergenin amacı; tıbbi patoloji laboratuvarlarında dijital patoloji ve telepatoloji uygulamalarının, hasta güvenliği, tanısal güvenilirlik, biyolojik materyal, lam, blok, dijital görüntü ve rapor izlenebilirliği, kişisel sağlık verilerinin korunması, bilgi güvenliği, kalite güvencesi, validasyon, yetkilendirme, güvenli uzaktan erişim, telekonsültasyon, dijital arşivleme, iş sürekliliği ve denetim esasları çerçevesinde yürütülmesine ilişkin usul ve esasları belirlemektir.
 
-Kapsam
+**Kapsam**
 
 MADDE 2- (1) Bu Yönerge; Sağlık Bakanlığına, üniversitelere, kamu kurum ve kuruluşlarına, özel hukuk tüzel kişilerine ve gerçek kişilere ait tıbbi patoloji laboratuvarları ile bu laboratuvarlarda dijital patoloji ve telepatoloji uygulamalarının yürütülmesinde görev alan patoloji uzmanlarını, patoloji uzmanlık öğrencilerini, teknik, idari, kalite ve bilişim personelini, süreç kapsamında yetkilendirilen kullanıcıları ve SBYS hizmeti sağlayıcılarını kapsar.
 
-Dayanak
+**Dayanak**
 
 MADDE 3- (1) Bu Yönerge, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddelerine, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanuna, 19/3/1927 tarihli ve 992 sayılı Seriri Taharriyat ve Tahlilat Yapılan ve Masli Teamüller Aranılan Umuma Mahsus Bakteriyoloji ve Kimya Laboratuvarları Kanununa, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununa, 24/10/2025 tarihli ve 33057 sayılı Resmî Gazete’de yayımlanan Tıbbi Laboratuvar Hizmetleri ve İleri Teknoloji Tıbbi Laboratuvar Uygulamaları Hakkında Yönetmeliğe, 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan Sağlık Bilgi Yönetim Sistemleri Hakkında Yönetmeliğe ve 10/2/2022 tarihli ve 31746 sayılı Resmî Gazete’de yayımlanan Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
 
-Tanımlar ve kısaltmalar
+**Tanımlar ve kısaltmalar**
 
 MADDE 4- (1) Bu Yönergede adı geçen;
 
@@ -85,10 +85,10 @@ t) Yapay zekâ destekli analiz: Dijital lam görüntüleri veya ilişkili verile
 
 ifade eder.
 
-İKİNCİ BÖLÜM
-Genel Esaslar, Personel Yetki ve Sorumlulukları
+**İKİNCİ BÖLÜM**
+**Genel Esaslar, Personel Yetki ve Sorumlulukları**
 
-Genel esaslar
+**Genel esaslar**
 
 MADDE 5- (1) Dijital patoloji uygulamaları, tıbbi patoloji hizmetlerinden ayrı bir hizmet modeli oluşturmayacak şekilde tanısal süreçleri tamamlayıcı bir uygulama olarak yürütülür. Dijital patoloji sistemi, laboratuvar iş yükü, görüntü üretim kapasitesi, görüntü erişim hızı, raporlama süreçleri ve sistem sürekliliği dikkate alınarak hizmetin aksamasına yol açmayacak şekilde planlanır, işletilir ve izlenir.
 
@@ -120,7 +120,7 @@ MADDE 5- (1) Dijital patoloji uygulamaları, tıbbi patoloji hizmetlerinden ayr�
 
 (15) Yapay zekâ destekli analizler, görüntü işleme algoritmaları ve karar destek sistemleri, yalnızca ilgili mevzuata uygunluğu, kullanım amacı, teknik yeterliliği, validasyonu ve kullanıcı yetkilendirmesi sağlanmış ve kayıt altına alınmış dijital patoloji altyapılarında, patoloji uzmanının değerlendirmesini destekleyici araç olarak kullanılabilir. Nihai tanısal değerlendirme ve rapor onay sorumluluğu patoloji uzmanına aittir.
 
-Personel yetki ve sorumlulukları
+**Personel yetki ve sorumlulukları**
 
 MADDE 6- (1) Dijital patoloji ve telepatoloji uygulamalarında görev alacak personelin görev, yetki ve sorumlulukları mesleki yetki alanı, hizmet gereği, kullanıcı rolü ve erişim düzeyi dikkate alınarak tıbbi patoloji laboratuvarı birim sorumlusu tarafından belirlenir.
 
@@ -148,10 +148,10 @@ MADDE 6- (1) Dijital patoloji ve telepatoloji uygulamalarında görev alacak per
 
 (13) Dijital patoloji ve telepatoloji süreçlerinde görev alan tüm personel, kişisel sağlık verilerinin korunması, hasta mahremiyeti, bilgi güvenliği, mesleki gizlilik, yetki sınırları, kayıt güvenliği ve sır saklama yükümlülüklerine uymakla yükümlüdür.
 
-ÜÇÜNCÜ BÖLÜM
-Dijital Patoloji Sistemleri ve Teknik Gereksinimler
+**ÜÇÜNCÜ BÖLÜM**
+**Dijital Patoloji Sistemleri ve Teknik Gereksinimler**
 
-Donanım gereksinimleri
+**Donanım gereksinimleri**
 
 MADDE 7- (1) Dijital patoloji uygulamalarında kullanılacak donanım altyapısı, sağlık tesisinin patoloji hizmet kapasitesi, yıllık vaka sayısı, tıbbi patoloji laboratuvarı iş yükü, örnek çeşitliliği, dijitalleşme hedefi, telepatoloji ihtiyacı, görüntü arşivleme planı, teknik destek kapasitesi ve iş sürekliliği gereklilikleri dikkate alınarak belirlenir.
 
@@ -393,7 +393,7 @@ e) Eğitim, araştırma veya bilimsel sunum amacıyla kullanılacak konsey gör�
 
 ### Kalite yönetimi
 
-MADDE 15- (1) Dijital patoloji ve telepatoloji süreçleri, preanalitik, analitik ve postanalitik aşamaları kapsayacak şekilde kalite yönetim sistemi içinde tanımlanır. Biyolojik materyal kabul, makroskopi, doku takip, kesit alma, boyama, lam tarama, görüntü yönetimi, raporlama, telekonsültasyon, arşivleme ve veri güvenliği süreçleri için süreç haritaları oluşturulur.
+**MADDE 15-** (1) Dijital patoloji ve telepatoloji süreçleri, preanalitik, analitik ve postanalitik aşamaları kapsayacak şekilde kalite yönetim sistemi içinde tanımlanır. Biyolojik materyal kabul, makroskopi, doku takip, kesit alma, boyama, lam tarama, görüntü yönetimi, raporlama, telekonsültasyon, arşivleme ve veri güvenliği süreçleri için süreç haritaları oluşturulur.
 
 (2) Dijital patoloji ve telepatoloji iş akışına ilişkin standart çalışma prosedürleri hazırlanır, güncel tutulur, ilgili personele erişilebilir hale getirilir ve belirlenen aralıklarla gözden geçirilir. Standart çalışma prosedürlerinde sorumlu birim, işlem sırası, kayıt alanları, kritik kontrol noktaları ve yedek iş akışı belirtilir.
 
@@ -433,7 +433,7 @@ c) Minör uygunsuzluklar, tanısal sonucu ve hasta güvenliğini doğrudan etkil
 
 ### Validasyon, verifikasyon ve klinik kullanıma geçiş
 
-MADDE 16- (1) Dijital patoloji ve telepatoloji sistemlerinde validasyon ve verifikasyon süreçlerine, hedeflenmiş doğrulama, yeniden validasyon, kullanıcı yeterliliği ve klinik kullanıma geçiş kararına ilişkin kayıtlar Ek-5 Validasyon, Verifikasyon ve Klinik Kullanıma Geçiş Kayıt Formu kapsamında tutulur.
+**MADDE 16-** (1) Dijital patoloji ve telepatoloji sistemlerinde validasyon ve verifikasyon süreçlerine, hedeflenmiş doğrulama, yeniden validasyon, kullanıcı yeterliliği ve klinik kullanıma geçiş kararına ilişkin kayıtlar Ek-5 Validasyon, Verifikasyon ve Klinik Kullanıma Geçiş Kayıt Formu kapsamında tutulur.
 
 (2) Validasyon çalışması, dijital lam görüntüsü sisteminin klinik kullanımda birlikte çalışan bileşenlerini kapsayacak şekilde tasarlanır.
 
@@ -463,7 +463,7 @@ MADDE 16- (1) Dijital patoloji ve telepatoloji sistemlerinde validasyon ve verif
 
 ### Kişisel verilerin korunması ve bilgi güvenliği
 
-MADDE 17- (1) Kişisel verilerin işlenmesi, korunması ve paylaşılmasında 6698 sayılı Kanun, 21/6/2019 tarihli ve 30808 sayılı Resmî Gazete’de yayımlanan Kişisel Sağlık Verileri Hakkında Yönetmelik ve Sağlık Bilgi Yönetim Sistemleri Hakkında Yönetmelik hükümleri uygulanır. Bilgi güvenliği tedbirleri, 6/7/2019 tarihli ve 30823 sayılı Resmî Gazete’de yayımlanan 2019/12 sayılı Bilgi ve İletişim Güvenliği Tedbirleri Genelgesi, Kişisel Verileri Koruma Kurulunun özel nitelikli kişisel veriler için belirlediği yeterli önlemler ve Bakanlığın güncel bilgi güvenliği düzenlemeleri doğrultusunda alınır.
+**MADDE 17-** (1) Kişisel verilerin işlenmesi, korunması ve paylaşılmasında 6698 sayılı Kanun, 21/6/2019 tarihli ve 30808 sayılı Resmî Gazete’de yayımlanan Kişisel Sağlık Verileri Hakkında Yönetmelik ve Sağlık Bilgi Yönetim Sistemleri Hakkında Yönetmelik hükümleri uygulanır. Bilgi güvenliği tedbirleri, 6/7/2019 tarihli ve 30823 sayılı Resmî Gazete’de yayımlanan 2019/12 sayılı Bilgi ve İletişim Güvenliği Tedbirleri Genelgesi, Kişisel Verileri Koruma Kurulunun özel nitelikli kişisel veriler için belirlediği yeterli önlemler ve Bakanlığın güncel bilgi güvenliği düzenlemeleri doğrultusunda alınır.
 
 (2) Kişisel sağlık verilerinin saklanması ve yedeklenmesi ile olay ve iz kayıtlarının oluşturulması, saklanması ve korunması, Sağlık Bilgi Yönetim Sistemleri Hakkında Yönetmelik ve Bakanlıkça belirlenen standartlara uygun olarak yürütülür. Saklama ortamları ve yurt içinde muhafazaya ilişkin şartlar aynı Yönetmeliğe göre belirlenir.
 
@@ -477,7 +477,7 @@ MADDE 17- (1) Kişisel verilerin işlenmesi, korunması ve paylaşılmasında 66
 
 ### Risk yönetimi ve acil durum esasları
 
-MADDE 18- (1) Dijital patoloji ve telepatoloji uygulamaları klinik kullanıma alınmadan önce risk değerlendirmesi yapılır.
+**MADDE 18-** (1) Dijital patoloji ve telepatoloji uygulamaları klinik kullanıma alınmadan önce risk değerlendirmesi yapılır.
 
 (2) Sağlık tesisi, dijital patoloji sisteminde hizmet kesintisine yol açabilecek donanım, yazılım, ağ altyapısı, depolama, görüntü yönetimi, DPLİS entegrasyonu, uzaktan erişim, telekonsültasyon, veri güvenliği, siber olay ve hizmet sağlayıcı kaynaklı riskleri belirler. Bu risklere yönelik iş sürekliliği planı oluşturulur.
 

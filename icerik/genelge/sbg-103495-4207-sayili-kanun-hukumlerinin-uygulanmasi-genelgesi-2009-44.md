@@ -15,16 +15,16 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.45. 4207 Sayılı Kanun Hükümlerinin Uygulanması Genelgesi (2009/44)
+**6.3.45. 4207 Sayılı Kanun Hükümlerinin Uygulanması Genelgesi** (2009/44)
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : B.10.0.TSH.027.01/
 Konu : 4207 sayılı Kanun Hükümlerinin Uygulanması
 
-GENELGE
+**GENELGE**
 2009/44
 
 Tütün kullanımı, çok yaygın bir bağımlılık çeşidi olmasının yanı sıra, tütün ve dumanında bulunan maddelerin insan sağlığı üzerine yaptığı olumsuz etkiler nedeniyle dünyanın ve ülkemizin en önemli ve önlenebilir halk sağlığı sorunlarından biridir.

@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.15. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi
+**2.2.15. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi** Yönergesi
 
 ### ULUSAL ORGAN VE DOKU NAKLİ KOORDİNASYON SİSTEMİ YÖNERGESİ
 

@@ -13,18 +13,18 @@ ocr: true
 duzeltildi: true
 ---
 
-YÖNETMELİK
+**YÖNETMELİK**
 
-Karar Sayısı: 1026
+**Karar Sayısı: 1026**
 
 Ekli “Memurlara Yapılacak Giyecek Yardımı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik”in yürürlüğe konulmasına, 657 sayılı Devlet Memurları Kanununun 2 nci ve 211 inci maddeleri gereğince karar verilmiştir.
 
 2 Mayıs 2019
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI
 
-MEMURLARA YAPILACAK GİYECEK YARDIMI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MEMURLARA YAPILACAK GİYECEK YARDIMI YÖNETMELİĞİNDE** DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
 
 MADDE 1- 14/9/1991 tarihli ve 91/2268 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Memurlara Yapılacak Giyecek Yardımı Yönetmeliğine ekli “DİP NOT”un (A) bölümünün (3) numaralı sırasının birinci fıkrasındaki “özel harekat” ibaresinden sonra gelmek üzere “takviye hazır kuvvet” ibaresi eklenmiştir.
 

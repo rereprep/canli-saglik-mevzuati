@@ -134,7 +134,7 @@ rafarı ile bayuruları hafinde, soruşturma sathasında Cumhuriyet savcısını
 
 3.1.5. Yakalama, Gözaltra Alma ve ffade Alma Yöneteliğrode belirtilen hallerde yakalanan kişinin gözaltına ahınacak olması veya zor kullamılarak yakalanması durumunda tabipçe yapılması öngörülen sağlık kontrolü, Cumhuriyet saveısı ile emrindeki adli kolluk görevlilerinin talebiyle
 
-Muayene yapmaya ve rapor tanzimine yetkili kişiler
+**Muayene yapmaya ve rapor tanzimine yetkili kişiler**
 
 3.1.6. Adli vakaların muayenesi ve rapor tanzimi işlemi, mutlaka tabiplik yapma yetkisine sahip kişilerce ve muayeneyi yapanın çalışığı kurumun bu işa uygun bir mekänanda yapılacaktır.
 
@@ -158,25 +158,25 @@ Tabibin bilirkişi olarak davete icap zorunluluğu, ilk değerlendirme ve sevk d
 
 3.1.1I. Adli vakanın şevki durumunda, bu Genelgenin Adli Raporlanın Düzenlenmesi başlıkh bölümundeki şevkle ilgili hususlara uyulacaktır.
 
-Adli vakalarda tıbbi gerekliliklerle yapılması gerekli muayene ve tedaviler
+**Adli vakalarda tıbbi gerekliliklerle yapılması gerekli muayene ve tedaviler**
 
 3.1.12. Adli vakalarda, kişinin sağlık durumunun gerekliliklerine göre, kişinin hayatim ve sağlığım korumaya yönelik olarak, Cumhuriyet savcısı veya håkim karan aranmaksızın tıbbi muayene ve tedavi amaçlı müdahaleler yapılabilir. Ancak, bu muayene ve müdahaleler arasında. suç delillerinin kaybolmamasına özen gösterilecektir.
 
 ### 3.2. ADLİ VAKALARIN MUAYENESİ
 
-Kimlik Tespiti
+**Kimlik Tespiti**
 
 3.2.1. Muayene edilmek üzere getirilen kişinin resmi evrakta belirtilen kişi olup olmadığına dikkat edilecek; kişinin kimliği konusunda şüpheye düşülmesi halinde durum derhal Cumhuriyet başsavaılığına bildirilecektir. Kişinin kimliğinin kontrolünde, yasal olarak geçerli bir kimlik belgesi ibrazı esastır. Boyle bir belge ibraz dilememesi halinde, durum raporda belirtilecek ve tibbi kimlik bilgileri yazılacakur.
 
-Muayene edilenin bilgilendirilmesi
+**Muayene edilenin bilgilendirilmesi**
 
 3.2.2. Muayene edilenin, tabip tarafindan muayene ve yapılacak işlemler konusunda bilgilendirilmesi esastır. Ilgilinin, buna rağmen muayene yapılmasına ve vücudundan örnek alınmasına rıza göstermemesi halinde, bu durum tutanakla tespit edilerek ilgili adli makama bildirilecek ve gerekli tedbirlerin alınması istenecektir.
 
-Kişilerin sağlığına zarar vermeme
+**Kişilerin sağlığına zarar vermeme**
 
 3.2.3. Adli vakalarda muayeneye getirilen kişinin ferinde beden nuayenesi yapılabilmesi ya da vücudundan kan veya benzeri biyolojik örneklerle saç, tırnak veya tükrik gibi ömeklerin alınabilmesi için mudahalenin, kişinin sağlığına açıkça ve öngörulebilir zarar verme tehlikesinin bulunmamasına dikkat edilecektir.
 
-Muayenede dikkat edilecek hususlar ve muayene koşulları
+**Muayenede dikkat edilecek hususlar ve muayene koşulları**
 
 3.24. Adli vakalanın muayenesi ve muayene koşullan ile ilgili olarak uyulacak hususlar
 
@@ -280,7 +280,7 @@ Olam olayının adli yünu olduğu veya bir bulaşicı hastahk sonucu maydana ge
 
 ### MUHTELİF HUSUSLAR
 
-Adli tabiplik hizmetleri ile ilgili mevzuat derlemesi
+**Adli tabiplik hizmetleri ile ilgili mevzuat derlemesi**
 
 5.1. Bu Genelge ile adli tabiplik hizmetlerinin sunumunda uyulacak genel ilkelerin ortaya konulması amaçlanmıştır. Yol gösterici olması düşüncesiyle, adli tabiplik hizmetleriyle doğrudan ilgili bir mevzuat derlemesi Ek 3de gönderilmektedir.
 
@@ -288,7 +288,7 @@ Sağlık mesleği mensuplarının suçu bildirme mecburiyeti
 
 5.2. TCK'da (Madde 280) saglik: meslegi mensuplari (tabipler, diş tabipleri, cezaci, ebe, herşire ve sağlık hizmeti veren diğer kişiler), görevlerini yapuğı sırada bir suçun işlandiği yününde bir belirti ile karşılaşmaları durumunda, bunu yetkili makamlara gecikmeksizin bildirmekle yükümlü kalınmıştır. Bu nedenle tabipler, adli vaka olarak değerlendirilebilecck yaralanma ve benzeri durumlan, ihbaren adli makamlara bildirmek ve adli makamlarca gerekli görulurse bu Genelge hükümlerine göre işlem yapmak durumundadır.
 
-Bilirkişi tabiplerin mahkemeye çağrılması
+**Bilirkişi tabiplerin mahkemeye çağrılması**
 
 5.3. CMK ya göre (Madde 214) tabipler, muayene ettikleri ve rapor düzenledikleri adli vakalar hususunda açıklamada bulunmak üzere mahkemeye çağrılabilir. Bu durumda ilgili tabibin görüş bildirmek uzere mahkemeye gitmesine baglı bulunduğu sağlık kuruluşunun idaresince müsaade edilecektir.
 
@@ -304,7 +304,7 @@ Ilinizdeki adli tip hizmetlerinin, bu Genelgede belirtilen hususlar dikkate alma
 
 Prof. Dr. Recep AKDAĞ
 
-Bakan
+**Bakan**
 
 ### EKLER:
 
@@ -316,6 +316,6 @@ Bakan
 
 ### DAĞITIM:
 
-Gereği: 81 İl Valiliği * * * * *
+**Gereği:** 81 İl Valiliği * * * * *
 
 

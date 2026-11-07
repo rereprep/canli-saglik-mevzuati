@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.24. Tam Gün Yasası Uygulaması Genelgesi (2014/15)
+**2.3.24. Tam Gün Yasası Uygulaması Genelgesi (2014/15)**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -25,8 +25,8 @@ Konu : Tam Gün Yasası Uygulaması
 
 16.04.2014
 
-GENELGE
-2014/15
+**GENELGE**
+**2014/15**
 
 İlgi : 06/03/2014 tarih ve 9428 sayılı (2014/8 no'lu Genelge) yazımız.
 

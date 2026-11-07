@@ -78,7 +78,7 @@ Bu nedenden dolayı, veri bütünlüğünü sağlamak için yeni formlarda topla
 
 Sağlık Müdürlüklerince bu şekilde toplanan form/sistem varsa; 01/11/2011 tarihinden itibaren bu form/sistemlerden, yeni formlarda toplanan veriler çıkartılmalıdır.
 
-Yeni formlarımız Sağlık-Net sistemi ile uyumludur. Yeni formlarımızdaki tüm bilgilerin Sağlık-Net sisteminden alınabilmesi için Ulusal Sağlık Veri Sözlüğüne (USVS ) formlarımızdaki tüm veriler eklenmiş olup, veri topladığımız tüm sağlık kurum/kuruluşları için formlardaki bütün bilgiler Sağlık-Net sisteminden alındığında; TSİM modülündeki yeni formlarımıza sağlık kurum/kuruluşları veri girişi yapmayacak, veriler Sağlık-Net sisteminden otomatik olarak alınarak yeni formlarımıza aktarılacak ve yeni formlarımız işleyişine bu şekilde devam edecektir.
+**Yeni formlarımız Sağlık-Net sistemi ile uyumludur.** Yeni formlarımızdaki tüm bilgilerin Sağlık-Net sisteminden alınabilmesi için Ulusal Sağlık Veri Sözlüğüne (USVS ) formlarımızdaki tüm veriler eklenmiş olup, veri topladığımız tüm sağlık kurum/kuruluşları için formlardaki bütün bilgiler Sağlık-Net sisteminden alındığında; TSİM modülündeki yeni formlarımıza sağlık kurum/kuruluşları veri girişi yapmayacak, veriler Sağlık-Net sisteminden otomatik olarak alınarak yeni formlarımıza aktarılacak ve yeni formlarımız işleyişine bu şekilde devam edecektir.
 
 Verilere il onayı verilmesi, başta onayı veren ilgili şube olmak üzere Sağlık Müdürlüklerinin sorumluluğundadır.
 
@@ -92,7 +92,7 @@ Bilgilerinizi, iş bu Genelgenin yeni formlara veri girecek İlinizdeki tüm sa�
 
 Prof. Dr. Nihat TOSUN  
 Bakan a.  
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM:
 

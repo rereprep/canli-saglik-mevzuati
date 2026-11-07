@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-9.2.4. Sözleşmeli Yönetici Performans Değerlendirme Yönergesi
+**9.2.4. Sözleşmeli Yönetici Performans Değerlendirme Yönergesi**
 
 T.C.
 SAĞLIK BAKANLIĞI
@@ -23,7 +23,7 @@ Sayı: 82040698/
 
 Konu: Yönerge
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnameye dayanılarak hazırlanan "Sözleşmeli Yönetici Performans Değerlendirme Yönergesi'nin" yürürlüğe konulmasını tensiplerinize arz ederim.
 
@@ -243,10 +243,10 @@ c) Müdür yardımcıları, müdür için oluşturulmuş olan performans göster
 
 **MADDE 17 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
-EKLER:
+**EKLER:**
 
-Ek-1 Performans Gösterge Tablosu
+**Ek-1 Performans Gösterge Tablosu**
 
-Ek-2 Yetkinlik Bazlı Performans Değerlendirme Formu
+**Ek-2 Yetkinlik Bazlı Performans Değerlendirme Formu**
 
-Ek-3 İtiraz Başvuru Formu
+**Ek-3 İtiraz Başvuru Formu**

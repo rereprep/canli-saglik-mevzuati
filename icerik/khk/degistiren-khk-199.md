@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Karar Sayısı: KHK/199 657 Sayılı Devlet Memurları Kanununda değişiklik yapılması; 24/4/1984 tarihli ve 2999 sayılı Kanunun verdiği yetkiye dayanılarak Bakanlar Kurulu'nca 4/5/1984 tarihinde kararlaştırılmıştır.
+**Karar Sayısı: KHK/199** 657 Sayılı Devlet Memurları Kanununda değişiklik yapılması; 24/4/1984 tarihli ve 2999 sayılı Kanunun verdiği yetkiye dayanılarak Bakanlar Kurulu'nca 4/5/1984 tarihinde kararlaştırılmıştır.
 
 **Madde l –** 657 sayılı Devlet Memurları Kanununun 68 nci maddesinin (B) bendi aşağıdaki şekilde değiştirilmiştir.. «B) Eğitim ve öğretim hizmetleri sımfı hariç, sınıfların 1, 2, 3 ve 4 ncü derecelerindeki kadrolarına, derece yükselmesindeki süre kaydı aranmaksızın, atanmasındaki usule göre daha aşağıdaki derecelerden atama yapılabilir.
 

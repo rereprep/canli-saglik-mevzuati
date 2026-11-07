@@ -40,19 +40,19 @@ Bakan
 
 Ek: Bağlı ve Ek Sağlık Tesisleri ile Bölgesel Başhekimlikler Hakkında Yönerge ve Ekleri
 
-BAĞLI VE EK SAĞLIK TESİSLERİ İLE BÖLGESEL BAŞHEKİMLİKLER
-HAKKINDA YÖNERGE
+**BAĞLI VE EK SAĞLIK TESİSLERİ İLE BÖLGESEL BAŞHEKİMLİKLER**
+**HAKKINDA YÖNERGE**
 
-BİRİNCİ BÖLÜM
-Başlangıç Hükümleri
+**BİRİNCİ BÖLÜM**
+**Başlangıç Hükümleri**
 
-Amaç
+**Amaç**
 MADDE 1- (1) Bu Yönergenin amacı, Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesisleri tarafından sunulan poliklinik hizmetleri, günübirlik sağlık hizmetleri ve yataklı tedavi hizmetlerine erişimin artırılması amacıyla açılan bağlı ve ek sağlık tesisleri ile sağlık hizmetinin daha verimli ve etkin sunumunu sağlamak üzere kurulan bölgesel başhekimliklerin hizmet standartları ile çalışma usul ve esaslarını düzenlemektir.
 
-Kapsam
+**Kapsam**
 MADDE 2- (1) Bu Yönerge Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerini kapsar.
 
-Dayanak
+**Dayanak**
 MADDE 3- (1) Bu Yönerge; 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 362 nci maddesinin birinci fıkrasının (a) bendi ile 508 inci maddesine, 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu kararı ile yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliğine ve 6/8/2024 tarihli ve 32624 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Ek Ödeme Yönetmeliğine dayanılarak hazırlanmıştır.
 
 Tanımlar
@@ -76,9 +76,9 @@ l) İkinci basamak sağlık tesisi: İlgili mevzuatında tanımlanan ayaktan vey
 l) SBYS: Sağlık hizmeti sunucuları tarafından klinik, idari ya da yönetimsel amaçlarla kullanılan, gerektiğinde diğer bilgi yönetim sistemleri ile veri alışverişi yapabilen ve Sağlık Bilgi Yönetim Sistemleri olarak adlandırılan yazılımları,
 ifade eder.
 
-İKİNCİ BÖLÜM
-Bağlı Sağlık Tesisi Statüsü Verilmesi ile İdari ve Mali İşleyişe İlişkin Genel Esaslar
-Bağlı sağlık tesisi statüsü verilmesi
+**İKİNCİ BÖLÜM**
+**Bağlı Sağlık Tesisi Statüsü Verilmesi ile İdari ve Mali İşleyişe İlişkin Genel Esaslar**
+**Bağlı sağlık tesisi statüsü verilmesi**
 MADDE 5- (1) Kuruluş aşamasında olan veya faal durumdaki sağlık tesisleri, aynı ilin mülki idare sınırları içinde hizmet kapasitesi ve mali durumu uygun bir sağlık tesisine bağlanabilir. Bir sağlık tesisinin başka bir sağlık tesisine bağlanması Genel Müdürlük oluru ile gerçekleştirilir. Bağlı sağlık tesisi mali bakımdan bağlı, idari bakımdan ise müstakildir.
 (2) Üçüncü basamak sağlık tesislerine bağlanan ancak eğitim statüsü olmayan sağlık tesisleri, Bakanlıkça tescil edilmiş olan mevcut hizmet rolüne uygun olarak faaliyet gösterir.
 (3) Mali bağlanmanın sonuçları yıllık olarak müdürlük tarafından değerlendirilir. Bu değerlendirme neticesinde bağlı ve bağlanılan sağlık tesislerinin mali, stok, personel ve hizmet sunumu durumları dikkate alınarak hazırlanan analiz raporu ile birlikte bağlılığın devamına ilişkin görüş ve kanaatleri Genel Müdürlüğe gönderilir.
@@ -91,7 +91,7 @@ MADDE 6- (1) Bağlı sağlık tesisinin idaresinden bağlı sağlık tesisi baş
 (4) Kuruluş aşamasındaki bağlı sağlık tesisinin personel, donanım, tıbbi cihaz ve benzeri ihtiyaçları ve bu ihtiyaçların giderilmesine yönelik planlamalar Bakanlıkça görevlendirilen kurucu başhekim tarafından yapılır.
 (5) Bağlı ve bağlanılan sağlık tesislerinin başhekimlikleri birbirleriyle doğrudan yazışma yapabilir.
 
-Mali hususlara ilişkin genel esaslar
+**Mali hususlara ilişkin genel esaslar**
 MADDE 7- (1) Bağlı sağlık tesisinin muhasebe kayıt sistemi ve tüm mali sistemleri, bağlanılan sağlık tesisinin tek düzen muhasebe sistemi ile birleştirilir, bağlanılan sağlık tesisinin mali kurum kodu ve banka hesap numarası kullanılır. Mali konulardaki tüm iş ve işlemler bu kod ve banka hesabı üzerinden yürütülür. Bağlı sağlık tesisi bağlanılan sağlık tesisinin hizmet rolü ve statüsü üzerinden fatura tahakkuk ettirir. Bağlanılan sağlık tesisinin otomasyon sistemine entegrasyonu ile MEDULA bildirimi bu duruma uygun olarak yapılır.
 (2) Bağlı sağlık tesisinin her türlü mal ve hizmet alımları ile yapım işleri bağlanılan sağlık tesisi başhekimliği tarafından yürütülür.
 (3) Bakanlık tarafından gönderilen ödenekler, mali bakımdan bağlanılan sağlık tesisi başhekimliğine tahsis edilir.
@@ -104,45 +104,45 @@ a) Bağlı sağlık tesisi personeline, bağlanılan sağlık tesisi için ek ö
 b) Üçüncü basamak sağlık tesisine bağlı olarak faaliyet gösteren bağlı sağlık tesisinde görev yapan hekim ve uzman hekimlerin ek ödemesi, bir kliniğe bağlı olmayan hekim ve uzman hekimler için öngörülen usul ve esaslar çerçevesinde hesaplanır. Enfeksiyon hastalıkları ve klinik mikrobiyoloji, tıbbi biyokimya ve tıbbi mikrobiyoloji uzmanlarının ek ödemeleri Sağlık Bakanlığı Ek Ödeme Yönetmeliğinde yer alan personel dağılım cetveline ilişkin hüküm kapsamında, bağlı sağlık tesisi ve bağlanılan sağlık tesisi için ayrı ayrı değerlendirilir.
 c) Bağlı sağlık tesisi ile bağlanılan sağlık tesisi arasında yapılan personel görevlendirmelerinde ilgili personele görevlendirildiği sağlık tesisinin statüsü üzerinden, görev süresi ve hizmete katkısı oranında ek ödeme yapılır. Tabiplerin yapacakları genel tıbbi işlemler görevlendirildikleri sağlık tesisinin puan hesaplamasına dahil edilir.
 
-ÜÇÜNCÜ BÖLÜM
-Ek Sağlık Tesisi Açılma Kriterleri, Ön İzin ve Açılış Onayı
-Semt polikliniği açılması için gerekli kriterler
+**ÜÇÜNCÜ BÖLÜM**
+**Ek Sağlık Tesisi Açılma Kriterleri, Ön İzin ve Açılış Onayı**
+**Semt polikliniği açılması için gerekli kriterler**
 MADDE 9- (1) Semt polikliniği açılması için gerekli kriterler şunlardır:
 a) Semt poliklinikleri, trafik yoğunluğu, hizmete erişimde uzaklık, toplu taşıma sorunları ve benzeri sebeplere bağlı olarak ana hizmet binasının bulunduğu kampüse ulaşım güçlüğü bulunan yerleşim merkezlerinde veya ana hizmet binasının fiziki şartlarının talebi karşılamakta yetersiz kaldığı durumlarda planlanır.
 b) Semt polikliniği planlanan mahalde ikinci ve üçüncü basamak sağlık hizmeti sunabilen Bakanlığa ait faal bir sağlık tesisinin bulunmaması esastır. Yapımı devam eden sağlık tesisi bulunması halinde ise inceleme ve değerlendirme komisyonu tarafından sağlık tesisinin fiziki gerçekleşmesi ve muhtemel açılış tarihine ilişkin rapor da göz önüne alınarak başhekimlikçe semt polikliniği açılma ihtiyacı değerlendirilir.
 c) Sağlık tesisinin mevcut uzman hekim kadro ve sayısının semt polikliniğinde hizmet verebilecek yeterlilikte olması zorunludur. Semt polikliniği açılabilmesi için ilave kadro verilmez.
 
-Ek hizmet binası açılması için gerekli kriterler
-MADDE 10- (1) Ek hizmet binası açılması için gerekli kriterler şunlardır:
+**Ek hizmet binası açılması için gerekli kriterler**
+**MADDE 10-** (1) Ek hizmet binası açılması için gerekli kriterler şunlardır:
 a) Sağlık tesisi ana binasında hizmet genişlemesine ihtiyaç duyulması halinde ek hizmet binası açılabilir.
 b) Ek hizmet binasının sağlık tesisinin bulunduğu kampüs alanı içinde açılması esastır. Ancak ek hizmet binası, kampüs alanı içinde fiziki imkânın yeterli olmaması halinde ilin mülki sınırları içinde olmak kaydıyla kampüs dışında da açılabilir.
 c) Ek hizmet binasında günübirlik, ayaktan veya yatarak tanı ve tedavi hizmetleri sunulur. Kampüs içinde bulunan ek hizmet binalarında acil, ameliyathane, yoğun bakım, poliklinik ve özellikli hizmet alanları ortak olarak bir hastane binasında veya ayrı bir binada planlanabilir.
 
-Başvuru usulü, ön izin ve açılış onayı
-MADDE 11- (1) Yatırım programına girmiş olanlar hariç ek sağlık tesislerine ait talepler başhekimlikçe Ek-1 form doldurularak müdürlüğe yapılır.
+**Başvuru usulü, ön izin ve açılış onayı**
+**MADDE 11-** (1) Yatırım programına girmiş olanlar hariç ek sağlık tesislerine ait talepler başhekimlikçe Ek-1 form doldurularak müdürlüğe yapılır.
 (2) Müdürlüğe intikal eden başvurular, İnceleme ve Değerlendirme Komisyonu tarafından ilgili kriterlere uygun olarak yerinde inceleme yapılmak suretiyle değerlendirilir ve Ek-2’de yer alan rapor düzenlenir. Raporun olumlu olması halinde, başvuru formu ve rapor Bakanlığa gönderilir. Uygun görülmeyen başvurular Bakanlığa gönderilmez ve gerekçesi belirtilerek ilgili başhekimliğe iade edilir.
 (3) Bakanlığa gönderilen başvurular, Genel Müdürlükçe değerlendirilir. Bu değerlendirme sonucu noksanlık bulunması halinde başvuru müdürlüğe iade edilir. Noksanlığı bulunmayan başvurular Merkez Komisyon tarafından değerlendirilir. Gerekli hallerde Bakanlığın ilgili diğer birimlerinden veya ilgili sağlık tesisinden temsilciler Merkez Komisyona davet edilebilir.
 (4) Uygunluk kararı verilen ek sağlık tesisi için Genel Müdürlükçe ön izin verilir. Ön izin sonrası açılış için gerekli işlemler tamamlanarak hizmete hazır hale getirilen ek sağlık tesisine Kamu Sağlık Tesisleri Ruhsatlandırma Yönetmeliği hükümleri çerçevesinde açılış onayı verilir. Açılış onayı verilmeyen ek sağlık tesisinde sağlık hizmeti verilemez.
 
 DÖRDÜNCÜ BÖLÜM
-Ek Sağlık Tesislerinde Sunulacak Hizmetler ile Çalışma Usul ve Esasları
-Ek sağlık tesislerinde sunulacak hizmetin kapsamı
-MADDE 12- (1) Semt poliklinikleri, poliklinik hizmeti vermek üzere yapılandırılır. Semt polikliniğinin bağlı olduğu sağlık tesisi başhekimi tarafından ihtiyaçlar doğrultusunda belirlenen ve müdürlükçe de uygun görülen uzmanlık dallarında ayaktan muayene, tetkik, tahlil, teşhis ve tedavi hizmetleri verilir. İhtiyaç duyulması halinde ilgili çalışma alanında pratisyen hekim de görevlendirilebilir. Başhekimin uygun görmesi halinde mesai dışı poliklinik hizmeti verilebilir.
+**Ek Sağlık Tesislerinde Sunulacak Hizmetler ile Çalışma Usul ve Esasları**
+**Ek sağlık tesislerinde sunulacak hizmetin kapsamı**
+**MADDE 12-** (1) Semt poliklinikleri, poliklinik hizmeti vermek üzere yapılandırılır. Semt polikliniğinin bağlı olduğu sağlık tesisi başhekimi tarafından ihtiyaçlar doğrultusunda belirlenen ve müdürlükçe de uygun görülen uzmanlık dallarında ayaktan muayene, tetkik, tahlil, teşhis ve tedavi hizmetleri verilir. İhtiyaç duyulması halinde ilgili çalışma alanında pratisyen hekim de görevlendirilebilir. Başhekimin uygun görmesi halinde mesai dışı poliklinik hizmeti verilebilir.
 (2) Ek hizmet binalarında ayaktan veya yataklı tedavi gereken muayene, teşhis, tedavi, diyaliz, kemoterapi, radyoterapi, girişimsel, cerrahi ve benzeri işlemler ile rehabilitasyon ve ameliyat hizmetleri verilebilir. İhtiyaç duyulması halinde ilgili çalışma alanında pratisyen hekim de görevlendirilebilir.
 
-Ek sağlık tesislerinin çalışma düzeni ve personel görevlendirilmesi
-MADDE 13- (1) Ek sağlık tesisleri idari ve mali bakımdan ilgili başhekimliğe bağlı olarak faaliyet gösterir. Ek sağlık tesisinin sevk ve idaresini başhekimin görevlendireceği bir başhekim yardımcısı veya sorumlu hekim yürütür. Başhekim yardımcısı veya sorumlu hekim, personelin izin, nöbet ve çalışma programını planlar ve başhekimin oluru ile uygular.
+**Ek sağlık tesislerinin çalışma düzeni ve personel görevlendirilmesi**
+**MADDE 13-** (1) Ek sağlık tesisleri idari ve mali bakımdan ilgili başhekimliğe bağlı olarak faaliyet gösterir. Ek sağlık tesisinin sevk ve idaresini başhekimin görevlendireceği bir başhekim yardımcısı veya sorumlu hekim yürütür. Başhekim yardımcısı veya sorumlu hekim, personelin izin, nöbet ve çalışma programını planlar ve başhekimin oluru ile uygular.
 (2) Ek sağlık tesisinde başhekim tarafından tıbbi, idari ve teknik hizmetler ile döner sermaye ve taşınır mal hizmetleri için yeterli sayı ve nitelikte personel görevlendirmesi yapılır.
 (3) Ek sağlık tesisinde görevli personel, ilgili mevzuatta yer alan görev, yetki ve sorumlulukları çerçevesinde görev yapar.
 
 Çalışma usul ve esasları
-MADDE 14- (1) Üçüncü basamak sağlık tesislerine bağlı olarak açılan ek sağlık tesislerinde muayene, teşhis ve tedavi hizmetleri, ilgili klinik idari sorumlularının sevk ve idaresinde yürütülür.
+**MADDE 14-** (1) Üçüncü basamak sağlık tesislerine bağlı olarak açılan ek sağlık tesislerinde muayene, teşhis ve tedavi hizmetleri, ilgili klinik idari sorumlularının sevk ve idaresinde yürütülür.
 (2) Tıbbi hizmet birimlerinde hizmetlerin düzenli, verimli ve aksatılmadan sunulması klinik idari sorumlusunun yetkisindedir.
 (3) Ek sağlık tesislerinde, kliniklerin çalışma usul ve esasları, idari sorumlunun görüşü alınarak başhekim yardımcısının veya sorumlu hekimin teklifi üzerine başhekimlikçe belirlenir.
 (4) Müdürlükler, semt polikliniklerine ait hizmet verilerini, personel durumu ve mali değerlendirme raporunu yıl sonunda Genel Müdürlüğe bildirir.
 
-Kayıt ve arşiv
-MADDE 15- (1) Ek sağlık tesislerine muayene, teşhis ve tedavi amacıyla başvuran hastalar ile ilgili olarak yapılan tıbbî işlemlere ilişkin kayıtların ilgili mevzuata uygun olarak düzenli bir şekilde tutulması zorunludur. Bu kayıtlar Bakanlık veri tabanlarına bağlı oldukları sağlık tesisinin verilerine
+**Kayıt ve arşiv**
+**MADDE 15-** (1) Ek sağlık tesislerine muayene, teşhis ve tedavi amacıyla başvuran hastalar ile ilgili olarak yapılan tıbbî işlemlere ilişkin kayıtların ilgili mevzuata uygun olarak düzenli bir şekilde tutulması zorunludur. Bu kayıtlar Bakanlık veri tabanlarına bağlı oldukları sağlık tesisinin verilerine
 
 eklenerek ya da Bakanlık tarafından talep edildiğinde bağlı oldukları sağlık tesisi verisinden ayrılarak gönderilir.
 

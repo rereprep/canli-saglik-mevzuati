@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.21. Sünnet İşlemi Genelgesi
+**2.3.21. Sünnet İşlemi Genelgesi**
 
 T.C.
 SAĞLIK BAKANLIĞI

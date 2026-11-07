@@ -38,7 +38,7 @@ Müsteşar
 OLUR
 …/…/2016
 Prof. Dr. Recep AKDAĞ
-Bakan
+**Bakan**
 
 Ek: Yönerge (4 Sayfa)
 

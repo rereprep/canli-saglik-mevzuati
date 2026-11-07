@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-9.2.8. Sağlık Bakanlığı 4\B Sözleşmeli Personelininin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönergede Değişiklik Yapılması
+**9.2.8. Sağlık Bakanlığı 4\B Sözleşmeli Personelininin Yeniden** Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönergede Değişiklik Yapılması
 
 ### Bakanlık Makamına sunuş yazısı (2021)
 
@@ -26,7 +26,7 @@ Sayı: 49635782/
 
 Konu: Yönerge
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 "Sağlık Bakanlığı 4/B Sözleşmeli Personelinin Yeniden Hizmete Alınması ve Kurum İçi Yer Değişikliğine Dair Yönergede Değişiklik Yapılmasına İlişkin Yönergenin" yürürlüğe konulmasını tensiplerinize arz ederim.
 

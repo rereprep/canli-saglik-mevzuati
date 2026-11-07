@@ -34,7 +34,7 @@ Genel Müdür
 Uygun Görüşle Arz Ederim.  
 .../.../2019  
 Prof. Dr. Muhammet GÜVEN  
-Bakan Yardımcısı
+**Bakan** Yardımcısı
 
 OLUR  
 .../.../2019  

@@ -193,13 +193,13 @@ Aylık programların tatbikından alınan neticeler, mütaakıp ayın faaliyet r
 
 **Madde 28 –** Kaza sağlık idaresine mensup tabipler mesai saatleri haricinde çalışmak kaydiyle muayenehane ve ecza dolabı açabilirler.
 
-a) Baştabibin vazife ve salâhiyetleri :
+**<i>a) Baştabibin vazife ve salâhiyetleri :</i>**
 
 **Madde 29 –** Kaza sağlık idaresi baştabibi, vazife taksiminde kendisine düşen meslekî vazifeyi bilfiil ifa etmekle beraber sağlık merkezinde yapılacak muayene ve tedavilerden, hasta yatırım ve bakımından, sağlık merkezinin her türlü idari, malî ve teknik muamelâtından re'sen mesuldür. Koruyucu hekimlik hizmetlerinin düzenli bir şekilde yürütülmesinden, arama, tarama ve köy gezilerinin muntazam bir şekilde cereyanından, tabiplerin, sıhhi, idari ve teknik personelin muntazam devamından ve vazifeleri başında bulunmalarından sorumludur.
 
 Meslekî bilgi ve ihtisas sebebiyle bilfiil iştirak etmesi gereken işlerde veya köylerin teftiş ve tetkikına çıktığında mesai arkadaşlarından birisini tevkil eder.
 
-b) Diğer tabip ve personelin vazifeleri :
+**<i>b) Diğer tabip ve personelin vazifeleri :</i>**
 
 **Madde 30 –** Kaza sağlık idaresinde vazife gören belediye tabipleri, belediyelere mütaallik sıhhi hizmetler başta olmak üzere sağlık idaresinin göstereceği hizmetleri de ifa ederler. Belediye ebeleri, mesailerini sağlık merkezlerinde yaparlar. Gündüzleri hariçten vâki davetlere sağlık merkezi baştabibinin müsaadesiyle giderler. Belediye ebeleri gece nöbetlerine girmezler.
 
@@ -233,7 +233,7 @@ Müstahdemlere senede 15 günden fazla izin verilmez.
 
 **Madde 39 –** Resmî bayram ve tatillerde sağlık merkezlerinde nöbetçi tabip, hemşire ve müstahdem bulundurulması mecburidir.
 
-c) Motorlu taşıtlar :
+**<i>c) Motorlu taşıtlar :</i>**
 
 **Madde 40 –** Sıhhat ve İçtimai Muavenet Vekâletinin muhtelif teşekküllerine ait olup kaza emrine verilmiş bilûmum motorlu vasıtalar, kaza sağlık idaresince tanzim edilecek programa göre kullanılır.
 
@@ -247,7 +247,7 @@ c) Motorlu taşıtlar :
 
 **Madde 45 –** Motorlu taşıtların hususi hizmetlerde kullanılması yasaktır.
 
-d) Tıbbi ve sıhhi malzeme temini ve sarfı :
+**<i>d) Tıbbi ve sıhhi malzeme temini ve sarfı :</i>**
 
 **Madde 46 –** Sağlık merkezlerinin, iaşe, ibate, tenvir, teshin masrafları ve tedavi maksadiyle sarfedilen ilâç ve malzeme giderleri sağlık merkezlerine gönderilen ödeneklerden temin olunur.
 
@@ -259,11 +259,11 @@ Muayyen bir hizmetin görülmesi için lüzumlu malzeme, alet ve ilâçlar o hiz
 
 **Madde 47 –** Sağlık merkezlerinde ve kaza sağlık idaresinde vazife görecek tabip ve personelin gömlekleri, ziyaretçi hemşirelerin üniformaları, müstahdemlerin iş elbiseleri, seyyar hizmet görenlerin palto, yağmurluk, çizme, çanta gibi eşyaları kaza sağlık idaresince temin olunur. Bu gibi eşyanın miatları Ayniyat Talimatnamesine göre hesaplanır.
 
-e) Tabip ve memurların yollukları :
+**<i>e) Tabip ve memurların yollukları :</i>**
 
 **Madde 48 –** Kaza sağlık idaresince vazife gören tabip, memur ve müstahdemlerin seyahat masrafları ve köy gezilerine ait yollukları 6245 sayılı kanun hükümleri dairesinde verilir.
 
-f) Defterler, kayıtlar, cetveller :
+**<i>f) Defterler, kayıtlar, cetveller :</i>**
 
 **Madde 49 –** Kaza sağlık idaresiyle sağlık merkezlerinde tutulacak defterler, kayıtlar ve tanzim edilecek cetveller bu Talimatnameye ekli (1) numaralı listede gösterilmiştir.
 

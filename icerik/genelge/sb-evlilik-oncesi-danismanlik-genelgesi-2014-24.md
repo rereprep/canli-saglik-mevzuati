@@ -24,7 +24,7 @@ Konu: Evlilik Öncesi Danışmanlık
 ### GENELGE
 **2014/24**
 
-Aile; toplumun temeli ve çekirdeğidir. Sağlıklı nesillerin yetiştirildiği bir ocak, sevgi, saygı, sadakat ve güven ortamının tesis edildiği bir müessese, karşılıklı hak ve ödevlere sahip bireylerin oluşturduğu bir yuvadır. Sağlıklı nesiller bu yuvalarda yetişir. Aile ne kadar sağlam ve sağlıklı temellere oturur ise, toplum da o nispette sağlam ve sağlıklı olur. Evlilik toplumun sağlıklı idamesinde çok önemli bir kurumdur ve kanunlarla korunmuştur.
+<i>Aile</i>; toplumun temeli ve çekirdeğidir. Sağlıklı nesillerin yetiştirildiği bir ocak, sevgi, saygı, sadakat ve güven ortamının tesis edildiği bir müessese, karşılıklı hak ve ödevlere sahip bireylerin oluşturduğu bir yuvadır. Sağlıklı nesiller bu yuvalarda yetişir. Aile ne kadar sağlam ve sağlıklı temellere oturur ise, toplum da o nispette sağlam ve sağlıklı olur. Evlilik toplumun sağlıklı idamesinde çok önemli bir kurumdur ve kanunlarla korunmuştur.
 
 Bilindiği üzere, 4721 sayılı Türk Medeni Kanunu'nun 136 ncı ve 1593 Sayılı Umumi Hıfzıssıhha Kanunu'nun 122 nci maddeleri gereğince evlenecek kişilerin evlenmeye engel hastalıklarının bulunmadığı hususunda sağlık raporu almaları mecburidir.
 
@@ -44,7 +44,7 @@ Bu itibarla;
 
 Daimi Genelge'nin ekleri ile birlikte tüm sağlık kurum ve kuruluşlarına tebliğini ve il düzeyinde yapılacak uygulamaların Genelgeye uygun olarak yürütülmesi hususunda; gereğini önemle rica ederim.
 
-Prof. Dr. Eyüp GÜMÜŞ  
+**Prof. Dr.** Eyüp GÜMÜŞ  
 Bakan a.  
 Müsteşar
 

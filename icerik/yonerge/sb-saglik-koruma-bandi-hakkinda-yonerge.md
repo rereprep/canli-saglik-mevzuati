@@ -67,11 +67,11 @@ yetkilisinin yetkili idare gorevlendirılmesi halende yetkili kareye EK-3 Sağl�
 
 Yetkili Idare ve/veya mürasaat/lesds sahibinin EK-3 de önerilen soglck koruna bandina yazsh itim halinde Genel Möllalik tarafindan itinuz incelenir ve 20 (yirmi) iş günii içinde karara baglanar.
 
-Yürürlük
+**Yürürlük**
 
 Madde 6 Bu Yönerge, Bakan Onayımı müteakip yürürloge girer.
 
-Yürütme
+**Yürütme**
 
 Madde 7 Bu yönergenin hükümleri, Bakan adına Temel Sağlık Hizmetleri Genel Müdürü tarafindan yürütülür.
 

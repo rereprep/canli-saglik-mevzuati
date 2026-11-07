@@ -275,7 +275,7 @@ Misafir ve Ziyaretçilere Refakat Etmekle Görevlendirilenlerin Masrafı
 
 **Madde 51 –** Devletin misafiri veya ziyaretçisi olarak yahut başka bir resmi görevle Türkiye'ye gelen yabancılara refakat etmekle görevlendirilen memurlara, memuriyet ve asli sıfatları ne olursa olsun ilgili makamlarca verilecek görev emirle­ rinde belirtilen refakat şekil ve vaziyetine göre tanzim edilecek müfredatlı hesap pusulasına istinaden yol, ikamet, yemek, içmek ve teferruatı için yaptıkları masraf ödenerek başkaca harcırah verilmez. Ancak, misafir ve ziyaretçilere katılmak veya bunları karşılamak üzere başka mahalle gidenler ile bunlardan ayrıldıktan sonra asıl memuriyet mahalline dönenlere gidiş ve dönüşleri için bu Kanuna göre müstehak ol­ dukları yol masrafı ve gündelik verilir.
 
-Yasama BöIümü Sayfa: 9 Sayfa: 10 RESMİ GAZETE 15 Aralık 1981 — Sayı: 17545
+**Yasama BöIümü Sayfa: 9** Sayfa: 10 RESMİ GAZETE 15 Aralık 1981 — Sayı: 17545
 
 **MADDE 26 –** Aynı Kanunun 52 nci maddesi aşağıdaki şekilde değiştiril­ miştir.
 

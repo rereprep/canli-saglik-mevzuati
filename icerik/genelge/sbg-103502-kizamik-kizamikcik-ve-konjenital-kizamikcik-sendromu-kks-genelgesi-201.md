@@ -46,11 +46,11 @@ Türkiye'de kızamık sürveyansının eliminasyon hedefine ulaşıldığının 
 
 Kızamık/Kızamıkçık/KKS sürveyansı konusunda temel başvuru kaynağı olan bu Daimi Genelge her düzeyde tamıtılmalı, özel sektör dahil tüm sağlık çalışanlarının uygulamadaki değişıklikleri yakından izlemeleri sağlanmalıdır. Ekte gönderilen Kızamık Sürveyansı Daimi Genelgesinin tüm sağhk kuruluşlarına (Tip Fakülteleri, Hastaneler, Özel Sağlık Kuruluşları ve Muayenehaneler dâhil) ve birinci basamak sağlık personeline imza karşılığı tebliğini ve il düzeyinde yapılacak uygulamaların Genelgeye uygun olarak yürütülmesi hususunda gereğini
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 
 Bakan a.
 
-Müsteşar Ek: Daimi Genelge
+**Müsteşar** Ek: Daimi Genelge
 
 ### DAGITIM: A PLANI
 
@@ -66,15 +66,15 @@ Bu durumun sağlanması ve belgelenmesinde sürveyans çalışmaları en önemli
 
 Kızamık hastalık yükünü küresel düzeyde azaltmak amacı ile 1989 yılında Dünya Sağlık Asamblesi'nde ve 1990 yılında Dünya Çocuk Zirvesi'nde bazı hedefler belirlenmiş ve aşılama dedei mişti: Daha sora Dunya Saglik Orgur (950) Artupa Bilgesi ade 200 yl somuna öncesi döneme göre kızamık mortalitesinin %95, kadar kızamık ve kızamıkçığın eliminasyonu ve konjenital kızamıkçık sendromunun (KKS) önlenmesi hedeflenmiştir. DSÖ Kızamık ve Kızamıkçık Eliminasyonu ve KKS Kontrolü Temel Göstergeleri;
 
-1. Aşılama Hızı: Hedef: Kızamık/kızamıkçık içeren aşının birinci ve ikinci dozunda en az %95 kapsayıcılığa
+1. **Aşılama Hızı:** Hedef: Kızamık/kızamıkçık içeren aşının birinci ve ikinci dozunda en az %95 kapsayıcılığa
 
-2. Salgın Büyüklüğü: Hedef: Salgınların en az %80'i 10'dan az kesin kızamık ya da kızamıkçık vakası içermelidir.
+2. **Salgın Büyüklüğü:** Hedef: Salgınların en az %80'i 10'dan az kesin kızamık ya da kızamıkçık vakası içermelidir.
 
-3. Kızamık/Kızamıkçık Insidans Hızı: Hedef: Yılda, kızamık/kızamıkçık isidansının 1.000.000'da 1'den daha az olmasıdır (importe vaka hariç, importe vaka ile ilişkili vaka dahil).
+3. **Kızamık/Kızamıkçık Insidans Hızı:** Hedef: Yılda, kızamık/kızamıkçık isidansının 1.000.000'da 1'den daha az olmasıdır (importe vaka hariç, importe vaka ile ilişkili vaka dahil).
 
-4. Yerli Kızamık/Kızamıkçık Virüslerinin Dolaşımı: Ulkeler, tüm salgın zincirleri için kızamık/kızamıkçık virüsü tiplendirmesini yaparak ülkede yerli virüs dolaşımı bulunmadığını göstermek zorundadır. Hedef: En az 12 ay süre ile yerli kızamık/kızamıkçık virüsünün dolaşımda olmamasıdır.
+**4. Yerli Kızamık/Kızamıkçık Virüslerinin Dolaşımı:** Ulkeler, tüm salgın zincirleri için kızamık/kızamıkçık virüsü tiplendirmesini yaparak ülkede yerli virüs dolaşımı bulunmadığını göstermek zorundadır. Hedef: En az 12 ay süre ile yerli kızamık/kızamıkçık virüsünün dolaşımda olmamasıdır.
 
-5. Konjenital Kızamıkçık Sendromu Insidans Hızı: Hedef: KKS görülme hızının yılda, 100.000 canlı doğumda l'den daha az olmasıdır.
+5. **Konjenital Kızamıkçık Sendromu Insidans Hızı:** Hedef: KKS görülme hızının yılda, 100.000 canlı doğumda l'den daha az olmasıdır.
 
 Kızamık ve kızamıkçığın eliminasyonu, yerli virüs dolaşımının durması olarak tanımlanmaktadır. Kızamık ya da kızamıkçık insidansı yılda 1/100.000'in altında olan ülkelerin tüm vakaları ya laboratuvarla doğrulanmış ya da laboratuvarla doğrulanmış bir vakayla epidemiyolojik olarak ilişkili olmalıdır. Eliminasyon durumunda, importe vakalar olabilir ancak, ımportasyonu takıben müdahale olmasa dahi virüsün dolaşımı sınırlı sayıdaki bulaş sonrası doğal olarak sonlanir.
 
@@ -98,7 +98,7 @@ e. Kızamık ve kızamıkçık aşılamasının yararları ve aşı sonrası ist
 
 halkın ve sağlık çalışanlarının bilgilendirilmelerinin sağlanmasıdır.
 
-Türkiye'de Kızamık ve Kızamıkçığın Eliminasyonu ve Konjenital Kızamıkçık Sendromunun Önlenmesi Programı Yukarıda sayılan hedef ve stratejiler doğrultusunda, ülkemizde de 2002 yılından bu yana Kızamık Eliminasyon Programı ve 2006 yılından bu yana da Kızamıkçığın Eliminasyonu ve Konjenital Kızamıkçık Sendromunun Onlenmesi Programı yürütülmektedir. Program hedeflerimiz;
+**Türkiye'de Kızamık ve Kızamıkçığın Eliminasyonu ve Konjenital Kızamıkçık Sendromunun** Önlenmesi Programı Yukarıda sayılan hedef ve stratejiler doğrultusunda, ülkemizde de 2002 yılından bu yana Kızamık Eliminasyon Programı ve 2006 yılından bu yana da Kızamıkçığın Eliminasyonu ve Konjenital Kızamıkçık Sendromunun Onlenmesi Programı yürütülmektedir. Program hedeflerimiz;
 
 • Kızamık, kızamıkçık ve konjenital kızamıkçık sendromunu önlemek,
 
@@ -144,7 +144,7 @@ Türkiye'de Kızamık ve Kızamıkçığın Eliminasyonu ve Konjenital Kızamık
 
 ### 1. SÜRVEYANS
 
-1.1. Kızamık, Kızamıkçık ve KKS Sürveyansının Amaçları:
+**1.1. Kızamık, Kızamıkçık ve KKS Sürveyansının Amaçları:**
 
 , koruyucu halk sağlığı çalışmalarının planlanması, uygulanması ve değerlendirilmesi için; sağlık sorununa özgü düzenli veri toplanması, analizi ve yorumlanması ve ilgili taraflara geri bildirim verilmesidir. Sürveyans, 'eylem için bilgi' olarak da tanımlanabilir. Bilgiye, yani veriye dayanmayan hastalık kontrol ve önleme programlarının başarısız olma ihtimali yüksektir.
 
@@ -196,7 +196,7 @@ Kızamık ve kızamıkçık enfeksiyonları arasında birçok benzerlik bulunmas
 
 ### 2. KIZAMIK HASTALIĞI
 
-2.1. Kızamık Hastalığının Patogenezi ve Kliniği
+**2.1. Kızamık Hastalığının Patogenezi ve Kliniği**
 
 Kızamık virüsü paramiksovirüs ailesinden bir RNA virüsüdür. Ortam ısısında, yüzeylerde ve nesneler üzerinde en fazla iki saat yaşayabilir iken, solunan havada ise 30 dk enfektif kalabilir. Isıya çok duyarlı olup 56°C'de 30 dk sonra inaktive olur, ancak donmaya karşı dirençli olup -70 °C'de yıllarca yaşayabilir. %l'lik sodyum hipoklorit, %70'lik alkol çözeltisi, ultraviyole, asidik (pH<5) ve alkali (pH>10) ortamlara ve ışığa son derece duyarlıdır.
 
@@ -258,7 +258,7 @@ Kızamık isidansının düşük olduğu ülkelerde, kızamığın klinik tanıs
 
 Birincil bağışıklık yanıtı sırasında, kızamığa özgü IgM ve IgG antikorları oluşmakta olup döküntülerin başlamasından itibaren birkaç gün içerisinde duyarl ELISA yöntemiyle serumda saptanabilir. Döküntülerin ortaya çıkmasından itibaren kızamık vakalarının %70'inde ilk 2 gün, %90'ında ise 3-5 gün içerisinde IgM antikoru pozitifliği saptanır. IgM antikorları 7-10 içinde pik yaptıktan sonra düşmeye başlar, 6-8 haftanın sonunda ise artık nadiren saptanabilir. IgG antikor düzeyleri ise 3. haftada pik yaparak enfeksiyondan sonra uzun süre bulunmaya devam eder. Yanıt sırasında, serum ve sekretuvar IgA antikorları da oluşmaktadır. Şekil 2. Akut Kızamık Enfeksiyonunda Bağışıklık Yanıtı Oluşma Süreci.
 
-Virüs nazofarinkste saptanabilir.
+**Virüs nazofarinkste saptanabilir.**
 
 ### Virüs kanda saptanabilir.
 
@@ -268,7 +268,7 @@ CD8
 
 T hức. IgG
 
-CD4/ Ig M
+**CD4/** Ig M
 
 Thộc.
 
@@ -278,7 +278,7 @@ Thộc.
 
 Günler
 
-Enfeksiyon Döküntünün başlaması
+**Enfeksiyon** Döküntünün başlaması
 
 Kızamık virüsü klinik örneklerden (nazofarengeal sürüntü, idrar, periferik kandaki mononükleer hücreler) döküntülerin başlamasından itibaren ilk 5 güne kadar izole edilebilir, PCR ile de 7 güne kadar (ve bazen sonrasında da) saptanabilir.
 
@@ -290,7 +290,7 @@ Yeni aşılanmış bir kişide, spesifik IgM antikorunun pozitif saptanmış olm
 
 ### 3. KIZAMIKÇIK HASTALIĞI
 
-3.1. Kızamıkçık Hastalığının Patogenezi ve Kliniği
+**3.1. Kızamıkçık Hastalığının Patogenezi ve Kliniği**
 
 Kızamıkçık, Togavirus ailesinden bir RNA virüsü olan kızamıkçık virüsünün neden olduğu akut makülopapüler döküntüyle seyreden bir hastalıktır; ancak kızamıkçık virüsüyle oluşan bu enfeksiyon sıklıkla kayda değer herhangi bir belirti ya da semptom olmadan seyreder. İnsan bilinen tek konakçı olduğundan hastalığın eliminasyonu mümkündür.
 
@@ -322,7 +322,7 @@ Semptomlar genellikle hafiftir; başlıca semptomlar lenfadenopati ve makulopap�
 
 Artralji ve artrit kızamıkçık geçiren erişkinler arasında yaygın olarak izlenmekte olup kronikleşebildiği de bilinmektedir. Daha az yaygın olan komplikasyonlar ise ölümcül olabilen trombositopeni ve ensefalittir (6000 vakada 1). İlerleyici kızamıkçık panensefaliti olarak bilinen nadir görülen geç bir kızamıkçık komplikasyonu da bulunmaktadır. Şekil 3. Kızamıkçık Hastalığının Klinik Ozelliklerinin Hastalığın Günlerine Göre Görülme
 
-Hastalığın günleri (kızamıkçık)
+**Hastalığın günleri (kızamıkçık)**
 
 40ºC 1 2 3 6 7 8 9 10
 
@@ -330,19 +330,19 @@ Hastalığın günleri (kızamıkçık)
 
 38°C
 
-Ates
+**Ates**
 
-Döküntü
+**Döküntü**
 
-Lenfadenopati
+**Lenfadenopati**
 
-Halsizlik (erişkinlerde)
+**Halsizlik (erişkinlerde)**
 
 Halsizlik (çocuklarda
 
-Konjunktivit
+**Konjunktivit**
 
-Nezle belirtileri 3.2. Kızamıkçık Hastalığının Tanısı
+**Nezle belirtileri** 3.2. Kızamıkçık Hastalığının Tanısı
 
 Bazı enfeksiyonlar belirtileri ve bulguları yönünden kızamıkçıkla benzerlik gösterebilmektedir. Bununla birlikte; enfekte kişilerin yaklaşık %50'sinde, hastalık belirtisiz olabilir ya da çok az belirti gösterebilir. Bu nedenle, tanının doğrulanması için laboratuvar değerlendirmesi çok önem taşımaktadır. Doğal enfeksiyon sırasında; döküntünün başlamasından itibaren 3-4 gün içerisinde IgM antikorları, bir hafta içerisinde ise IgG antikorları saptanabilir. Aşılamayı takiben, IgM ve IgG antikorlarının görülmesi doğal enfeksiyona göre hem daha geç, hem de daha düşük düzeyde olmaktadır. Kızamıkçığa özgü IgM antikoru, genellikle hastalığın sona ermesinden 2 ay sonrasına kadar saptanabilmekte ve bazı kişilerde doğal enfeksiyon, aşılama ve yeniden enfeksiyon sonrası 6-7 aya kadar da azalarak devam edebilmektedir.
 
@@ -354,17 +354,17 @@ IgM antikorlarıyla çapraz reaksiyona girebilen antikorlar (örn; Ebstein Barr 
 
 ### Virüs nazofarinkste saptanabilir.
 
-Virüs kanda saptanabilir.
+**Virüs kanda saptanabilir.**
 
-Döküntü
+**Döküntü**
 
 ### IgG
 
 4 5 6 7 89 10 11
 
-Haftalar
+**Haftalar**
 
-Enfeksiyon Döküntünün başlaması Gebelikte Kızamıkçık Enfeksiyonu
+**Enfeksiyon Döküntünün başlaması** Gebelikte Kızamıkçık Enfeksiyonu
 
 Sürveyans amacıyla, yalnız IgM testi yeterli olmakla birlikte; klinik vaka yönetimi için mutlaka IgG antikorunda belirgin artışın gösterilmesi gereklidir. Hastalık belirtilerinin ya da bilinen bir kızamıkçık benzeri bir enfeksiyonla temas öyküsünün bulunmadığı durumlarda, IgM pozitifliğinin pozitif tahmini değeri düşük olduğundan dikkatle değerlendirilmesi gerekir. Bu durumda, avidite testi, kızamıkçık immünoblot, virüs tespiti ya da izolasyonu gibi ek yöntemlere
 
@@ -372,13 +372,13 @@ Kızamıkçık enfeksiyonun maruziyeti bilinen gebe kadınlar, kızamıkçığa 
 
 Tablo 3. Kızamık ve Kızamıkçık Hastalıklarında Ayırıcı Tanı*.
 
-Eritema Roseola Hastalık Kızamık Kızamıkçık Infeksiyozum İnfantum
+**Eritema** Roseola Hastalık Kızamık Kızamıkçık Infeksiyozum İnfantum
 
 (5. Hastahk) (6. Hastahk) Etken Kızamik Kızamıkçık Parvovirus B19 Herpes virus 6
 
 ### virüsü virüsü
 
-Inkübasyon Dönemi (gün) 7-18 12-23 4-14 5-15 Ates Evet Evet Evet Evet Döküntü Evet Evet Evet Evet Döküntünün Özelliği
+**Inkübasyon Dönemi (gün)** 7-18 12-23 4-14 5-15 Ates Evet Evet Evet Evet Döküntü Evet Evet Evet Evet Döküntünün Özelliği
 
 Makülopapüler Makülopapüler Makülopapüler Makülopapüler Döküntünün Yayılımı Baş-vücut Baş-vücut Baş-vücut Göğüs-karın Döküntünün Süresi 4-7 gün 4-7 gün 5-10 gün Saatler-Günler Konjunktivit Evet Hayır Hayır Hayır Öksürük Evet Hayır Hayır Hayır Burun Akıntisı Evet Hayır Evet Hayır Retroauriküler LAP Hayır Evet Hayır Evet Gebelikte Enfeksiyonla
 
@@ -410,7 +410,7 @@ Konjenital kızamıkçık infeksiyonu olan bebeklerde, doğumda ya da hemen sonr
 
 ### 5. KIZAMIK, KIZAMIKÇIK ve KKS SÜRVEYANSI: VAKA TANIMLARI ve SINIFLAMALAR
 
-5.1. Kızamık Vaka Tanımları ve Sınıflamaları Kızamık için Klinik Tanımlama
+5.1. **Kızamık** Vaka Tanımları ve Sınıflamaları Kızamık için Klinik Tanımlama
 
 38°C'den yüksek ateş ve
 
@@ -460,7 +460,7 @@ Eliminasyon programının hedeflerine uygun olarak sürveyansta duyarlılığı 
 
 ### Şekil 5. Ulusal Kızamık/Kızamıkçık Sürveyansı Akış Şeması
 
-Sağlık Ocağı/Aile Hekimi Hastaneler/Özel Sağlık Kuruluşları
+**Sağlık Ocağı/Aile Hekimi** Hastaneler/Özel Sağlık Kuruluşları
 
 Vaka Bildirim ve Lab Istek ve Sonuç Fon pu doldur
 
@@ -506,21 +506,21 @@ Izolasyon için omek iste ve gonder Sağlık Bakanlığı
 
 7. 24 saat içinde topladığınız örnekleri ve doldurduğunuz formları TSM/Sağlık Grup Başkanlığına gönderiniz, sağlayınız (Detaylı bilgi için bkz. Ek 4).
 
-1. Vakanın sıcak vaka olup olmadığını değerlendiriniz. Sıcak vaka ise vakadan derhal serum, idrar ve nazofarengeal sürüntü alınmalıdır. Örnek nakli 24 saat içerisinde gerçekleşmelidir.
+1. **Vakanın sıcak vaka olup olmadığını değerlendiriniz.** Sıcak vaka ise vakadan derhal serum, idrar ve nazofarengeal sürüntü alınmalıdır. Örnek nakli 24 saat içerisinde gerçekleşmelidir.
 
 2. TSM/Sağlık Grup Başkanlığını bilgilendiriniz': Sağlık ocaklars/aile hekimlikleri TSM/ Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapar. Hastaneler ise ya doğrudan, ya da varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim
 
 3. Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formunu (Ek 1) doldurunuz: Bu form sürveyans verisinin temelini oluşturmaktadır. Hastayla ilk karşılaşan sağlık personeli tarafından eksiksiz olarak doldurularak TSM/Sağlık Grup Başkanlığına gönderilmelidir. Laboratuvar kayıtlarının tutulabilmesi ve sonuçların bildirilebilmesi için gereklidir.
 
-4. Kızamık/Kızamıkçık Vaka İnceleme Formunu (Ek 2) doldurunuz: Hastayla ilk karşılaşan sağlık personeli tarafından tanımlayıcı ve klinik bilgiler kısmı eksiksiz olarak doldurularak TSM/Sağlık Grup Başkanlığına gönderilmelidir. Gerektiğinde (örneğin aşı durumu) yazılı kayıtlara başvurulmalıdır.
+4. **Kızamık/Kızamıkçık Vaka İnceleme Formunu (Ek** 2) doldurunuz: Hastayla ilk karşılaşan sağlık personeli tarafından tanımlayıcı ve klinik bilgiler kısmı eksiksiz olarak doldurularak TSM/Sağlık Grup Başkanlığına gönderilmelidir. Gerektiğinde (örneğin aşı durumu) yazılı kayıtlara başvurulmalıdır.
 
-5. Laboratuvar tanısı için kan (serum) örneği alınız: Kan (serum) örneği tüm şüpheli ve olası vakalardan alınmalıdır. Serum örneği vaka ile ilk karşılaşıldığında alınmalıdır. Ancak IgM antikoru pozitifliği bir ay boyunca saptanabileceği için geç saptanan vakalardan döküntü başlangıcından itibaren ilk 28 gün içerisinde serum örneği alınabilir. Vakaların bir kısmında IgM antikoru oluşması döküntüden sonraki ilk 3 gün içerisinde saptanamayabilir. Bu nedenle ilk 3 gün içerisinde serum örneği alımmış ancak IgM antikoru negatif veya ara değer olarak saptanmış vakalardan ikinci serum örneği alınmalıdır. Daha detaylı bilgi için Ek 3'e bakınız.
+5. **Laboratuvar tanısı için kan (serum) örneği alınız: Kan** (serum) örneği tüm şüpheli ve olası vakalardan alınmalıdır. Serum örneği vaka ile ilk karşılaşıldığında alınmalıdır. Ancak IgM antikoru pozitifliği bir ay boyunca saptanabileceği için geç saptanan vakalardan döküntü başlangıcından itibaren ilk 28 gün içerisinde serum örneği alınabilir. Vakaların bir kısmında IgM antikoru oluşması döküntüden sonraki ilk 3 gün içerisinde saptanamayabilir. Bu nedenle ilk 3 gün içerisinde serum örneği alımmış ancak IgM antikoru negatif veya ara değer olarak saptanmış vakalardan ikinci serum örneği alınmalıdır. Daha detaylı bilgi için Ek 3'e bakınız.
 
 6. Sıcak vaka ise ek olarak virüs izolasyonu için nazofarengeal sürüntü ve idrar örneği alınız: Gönderilen kan (serum) örneğinde IgM antikorunun pozitif çıkması durumunda alınmalıdır. Bu örnekler sıcak vaka ile ilk karşılaşmada alınmalıdır. Nazofarengeal sürüntü döküntünün başlangıcından itibaren ilk 4 günde, idrar örneği ise ilk 7 gün içerisinde alınabilir. Bu süreden sonra virüs atılımı çok azalmakta ya da durmaktadır. 7.24 saat içerisinde topladığınız örnekleri ve doldurduğunuz formları TSM/Sağlık Grup Başkanlığına gönderiniz: Orneklerin uygun koşullarda gönderilmesine dikkat edilmelidir. Daha detaylı bilgi için Ek 3'e bakınız.
 
 8. Hastanın izolasyonu konusunda aileyi bilgilendiriniz, hastane ortamında ise izolasyonunu sağlayınız: Hastalar, hastaneye yatışarını gerektiren ek bir durum yoksa evlerinde izole edilmeli, hane halkı dışındakilerle teması sınırlı tutulmalıdır. Daha detaylı bilgi için Ek 4'e bakınız. Tüm temashılar en uzun inkübasyon süresince izlenerek belirtilerin başlaması durumunda örnek alınmalıdır.
 
-9. Bilgiyi Form 016'ya (Ek 5), 017A'ya (Ek 6) ve GBP Sürveyans Formuna (Ek 7) ekleyiniz: ' İl Sağlık Müdürlüğü, sağlık ocağaile hekimliği ya da TSM/Sağlık Grup Başkanlığı dışındaki bir kaynaktan (hastane, özel klinik, okul vb) şüpheli kızamık vakası ihbarı aldığında, vakit geçirmeden ilgili Sağlık Grup Başkanlığım/TSM'yi bilgilendirmelidir. Sağlık Grup Başkanlığı/TSM derhal vakayı incelemeli, eğer bildiren kişilerce yapılmamışsa, vaka formları doldurulmalı ve uygun örnekler toplanarak tüm formlar ve örnekler Sağlık Müdürlüğüne gönderilmelidir. 6.2. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında TSM/Sağlık Grup Başkanlıkları Tarafından Yapılması Gerekenler:
+9. **Bilgiyi Form 016'ya (Ek** 5), 017A'ya (Ek 6) ve GBP Sürveyans Formuna (Ek 7) ekleyiniz: ' İl Sağlık Müdürlüğü, sağlık ocağaile hekimliği ya da TSM/Sağlık Grup Başkanlığı dışındaki bir kaynaktan (hastane, özel klinik, okul vb) şüpheli kızamık vakası ihbarı aldığında, vakit geçirmeden ilgili Sağlık Grup Başkanlığım/TSM'yi bilgilendirmelidir. Sağlık Grup Başkanlığı/TSM derhal vakayı incelemeli, eğer bildiren kişilerce yapılmamışsa, vaka formları doldurulmalı ve uygun örnekler toplanarak tüm formlar ve örnekler Sağlık Müdürlüğüne gönderilmelidir. 6.2. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında TSM/Sağlık Grup Başkanlıkları Tarafından Yapılması Gerekenler:
 
 1. Sağlık kurumlarından gönderilen formları değerlendirerek vaka cetveli (Ek 8) hazırlayınız ve Vaka Inceleme Formunda eksik kalan bilgileri tamamlayınız.
 
@@ -534,7 +534,7 @@ Izolasyon için omek iste ve gonder Sağlık Bakanlığı
 
 1. Sağlık kurumlarından gönderilen formları değerlendirerek vaka cetveli hazırlayınız ve Vaka İnceleme Formunda eksik kalan bilgileri tamamlayınız: Sağlık ocaklar/aile hekimlikleri tarafından gönderilen vaka bildirim ve laboratuvar istek ve sonuç formlarından yararlanarak vaka cetveli (Ek 8) oluşturulmalıdır. Bu cetvel TSM/Sağlık Grup Başkanlıkları tarafından bölgelerinin izlenmesinde kullanılması gereken temel formdur. Bu cetvel ayda iki kez Sağlık Müdürlüğüne gönderilmelidir. Vaka saptanmaması durumunda da ayda iki kez "vaka saptanmamıştır" ibaresi eklenerek gönderilmelidir. Tüm vaka inceleme formları, eksik kalan bilgiler tamamlandıktan sonra, son sınıflamaları yapılmak üzere Sağlık Müdürlüğüne gönderilmelidir.
 
-2. Kümelenme olup olmadığını derhal sahada inceleme yaparak saptayınız: Kümelenme salgın anlamı taşıyabilir; bu nedenle inceleme ivedilikle yapılmalıdır. Seyahat hikayesi, gebelik durumu, aşılanma durumu, klinik ve demografik bilgilerini almak için her şüpheli vaka ve ailesi ile görüşülmeli, olası enfeksiyon kaynağı (olası kızamık ya da kızamıkçık vakaları ile temas, endemik bölgeye seyahat vb.) tanımlanmaya çalışılmalı, vakanın temas ettiği kişiler, varsa okulu, işyeri taranmalı ve orada bulunan kışilerin aşılanma durumu kontrol edilmelidir. Bölgenin aşılanma durumu değerlendirilir. Şüpheli/olası vaka ile temas beklenmeden ilk 72 saat içerisinde aşı ve ilk 6 gün içerisinde immünglobulin' uygulanması eden herkesin aşılanma durumları kayıtlardan (Form 12A/B vb) sorgulanarak örnek sonucu sağlanmalıdır
+2. **Kümelenme olup olmadığını derhal sahada inceleme yaparak saptayınız:** Kümelenme salgın anlamı taşıyabilir; bu nedenle inceleme ivedilikle yapılmalıdır. Seyahat hikayesi, gebelik durumu, aşılanma durumu, klinik ve demografik bilgilerini almak için her şüpheli vaka ve ailesi ile görüşülmeli, olası enfeksiyon kaynağı (olası kızamık ya da kızamıkçık vakaları ile temas, endemik bölgeye seyahat vb.) tanımlanmaya çalışılmalı, vakanın temas ettiği kişiler, varsa okulu, işyeri taranmalı ve orada bulunan kışilerin aşılanma durumu kontrol edilmelidir. Bölgenin aşılanma durumu değerlendirilir. Şüpheli/olası vaka ile temas beklenmeden ilk 72 saat içerisinde aşı ve ilk 6 gün içerisinde immünglobulin' uygulanması eden herkesin aşılanma durumları kayıtlardan (Form 12A/B vb) sorgulanarak örnek sonucu sağlanmalıdır
 
 3. Kümelenme varsa salgın incelemesi başlatınız: Her yeni saptanan şüpheli vaka için Vaka Bildirim ve Laboratuvar Istek ve Sonuç Formu (Ek 1) ve Vaka Inceleme Formu (Ek
 
@@ -558,11 +558,11 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 6. BHM'den gelen sonuçları bildirimi yapan sağlık personeline ve hastanın yaşadığı bölgedeki TSM/Sağlık Grup Başkanlığına bildiriniz.
 
-1. Sıcak vaka saptanması durumunda, derhal Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'nı arayınız:
+1. **Sıcak vaka saptanması durumunda, derhal Sağlık Bakanlığı Bulaşıcı Hastalıklar ve** Salgın Kontrolü Daire Başkanlığı'nı arayınız:
 
-2. Salgın incelemesi başlatınız: (Detaylı bilgi için bkz. 10. Bölüm"Kızamık/Kızamıkçık Salgınlarına Yaklaşım").
+2. **Salgın incelemesi başlatınız:** (Detaylı bilgi için bkz. 10. Bölüm"Kızamık/Kızamıkçık Salgınlarına Yaklaşım").
 
-3. Gelen örnekleri Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu (Ek 1) ile birlikte Bölge Hıfzıssıhha Müdürlüğü'ne (BHM) gönderiniz: Ornekler ilin bağlı bulunduğu BHM'ye (Ek 9) gönderilmelidir. Ornekler haftada iki kez BHM'ye gönderilecek şekilde planlama yapılmalıdır. Orneklerin nasıl gönderileceği konusunda daha detaylı bilgi için Ek 3'e bakınız.
+3. **Gelen örnekleri Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu (Ek** 1) ile birlikte Bölge Hıfzıssıhha Müdürlüğü'ne (BHM) gönderiniz: Ornekler ilin bağlı bulunduğu BHM'ye (Ek 9) gönderilmelidir. Ornekler haftada iki kez BHM'ye gönderilecek şekilde planlama yapılmalıdır. Orneklerin nasıl gönderileceği konusunda daha detaylı bilgi için Ek 3'e bakınız.
 
 4. Kızamık/Kızamıkçık Vaka İnceleme Formunu laboratuvar sonucu geldiğinde tamamlayıp son sınıflamayı yaptıktan sonra Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na göndermek üzere Sağlık Müdürlüğü'nde dosyalayınız: Laboratuvar sonuçları çıktıktan sonra Vaka Inceleme Formuna işlenmelidir Son vaka sınıflaması yapılarak Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmek üzere Bulaşıcı Hastalıklar Şubesinde dosyalanmalıdır.
 
@@ -584,7 +584,7 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 1. Gelen örneği kızamık ve kızamıkçığa özgü IgM ve gerektiğinde IgG antikorları yönünden incelemeye ahınız: BHM'ler, kendilerine ulaşan örnekleri haftada iki kez inceleyecek şekilde planlama yapmalıdır. Sıcak vaka ise örnekler hemen incelenmelidir.
 
-2. Döküntünün başlangıcından sonra ilk 3 gün içerisinde alınmış serum örneğinde IgM antikoru negatif olarak saptanmış ise 2. serum örneğini isteyiniz: İl Sağlık Müdürlüğü bilgilendirilerek 2. serum örneği alınmalıdır.
+2. **Döküntünün başlangıcından sonra ilk** 3 gün içerisinde alınmış serum örneğinde IgM antikoru negatif olarak saptanmış ise 2. serum örneğini isteyiniz: İl Sağlık Müdürlüğü bilgilendirilerek 2. serum örneği alınmalıdır.
 
 3. Sıcak vakayla karşılaşıldığında alınan nazofarengeal sürüntü ve idrar örneklerini ön işlemden geçirildikten sonra uygun şartlar altında RSHMB'ye gönderiniz: BHM'ler tarafından kendilerine ulaşan idrar örnekleri ön işlemden geçirildikten sonra uygun soğuk zincir koşullarında RSHMB'ye gönderilmelidir. Orneklerin nasıl gönderileceği konusunda daha detaylı bilgi için Ek 3'e bakınız.
 
@@ -592,9 +592,9 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 5. İncelemeye alınan tüm vakaları BHM Haftalık Laboratuvar Bildirim Formuna (Ek
 
-11) işleyerek her hafta RSHMB'ye gönderiniz: Pozitif çıkan vakalar derhal RSHMB'ye, oradan da Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na bildirilmelidir.
+**11) işleyerek her hafta RSHMB'ye gönderiniz:** Pozitif çıkan vakalar derhal RSHMB'ye, oradan da Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na bildirilmelidir.
 
-6. Ayın sonunda, incelenen örneklere ilişkin sonuçları uygun elektronik ortamda RSHMB'ye gönderiniz: Her ayın ilk haftasında elektronik form gönderilmiş olmalıdır. Not: Her ayın sonunda, RSHMB tarafından, incelenen örnek sonuçlarına ilişkin veriler BM'lerden gönderilen örneklere ilişkin verilerle birleştirilerek oluşturulan BHM Laboratuar Cetveli uygun elektronik ortamda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir. Her ayın ilk haftasında elektronik form gönderilmiş * İdrar örneği, 1500 devirde 10 dakika boyunca santrifüj edildikten sonra süpernatantı atılacak, pelletin üzerine viral transport besiyeri (5-10 cc) eklenerek gönderilecektir. 6.5. Vaka Sınıflaması Laboratuvar incelemesi sonucu dikkate alınarak son vaka sınıflaması yapıldıktan sonra Vaka Inceleme Formunun (Ek 2) alt kısmındaki 'Son vaka sınıflaması' kısmı tam olarak doldurularak form Sağlık Müdürlüğü tarafından Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilecektir. Son sınıflama Şekil 6'ya göre yapılacaktır (Bkz: Olası Kızamık/Kızamıkçık Vakaları için Sıniflandırma Şeması, sf:25)
+6. **Ayın sonunda, incelenen örneklere ilişkin sonuçları uygun elektronik ortamda** RSHMB'ye gönderiniz: Her ayın ilk haftasında elektronik form gönderilmiş olmalıdır. Not: Her ayın sonunda, RSHMB tarafından, incelenen örnek sonuçlarına ilişkin veriler BM'lerden gönderilen örneklere ilişkin verilerle birleştirilerek oluşturulan BHM Laboratuar Cetveli uygun elektronik ortamda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir. Her ayın ilk haftasında elektronik form gönderilmiş * İdrar örneği, 1500 devirde 10 dakika boyunca santrifüj edildikten sonra süpernatantı atılacak, pelletin üzerine viral transport besiyeri (5-10 cc) eklenerek gönderilecektir. 6.5. Vaka Sınıflaması Laboratuvar incelemesi sonucu dikkate alınarak son vaka sınıflaması yapıldıktan sonra Vaka Inceleme Formunun (Ek 2) alt kısmındaki 'Son vaka sınıflaması' kısmı tam olarak doldurularak form Sağlık Müdürlüğü tarafından Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilecektir. Son sınıflama Şekil 6'ya göre yapılacaktır (Bkz: Olası Kızamık/Kızamıkçık Vakaları için Sıniflandırma Şeması, sf:25)
 
 - Olası (Klinik) Vaka
 
@@ -608,9 +608,9 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 • İmporte Vaka: Döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık için 7-18, kızamıkçık için 12-23 gün) yurt dışında bulunma öyküsü olan ve pidemiyolojik ve/veya virolojik olarak da yabancı kaynaklı enfeksiyona ilişkin kanıtlarla desteklenen vakadır.
 
-• Importe Vakayla İlişkili Vaka: Importe vakayla pidemiyolojik ve/veya virolojik ilişkisi bulunan vakadır. İmporte vakayla ilişkili tüm vakalar yerli vaka olarak kabul edilir.
+• **Importe Vakayla İlişkili Vaka:** Importe vakayla pidemiyolojik ve/veya virolojik ilişkisi bulunan vakadır. İmporte vakayla ilişkili tüm vakalar yerli vaka olarak kabul edilir.
 
-• Importasyonla Ilişkili Olmayan Vaka: Importasyonun veya importe vakayla ilişkinin kanıtlanamadığı veya enfeksiyon kaynağı bilinmeyen sporadik vakadır. Yerli vaka olarak kabul edilir. 6.5.1. Aşılanma Öyküsü Durumunda Yaklaşım
+• **Importasyonla Ilişkili Olmayan Vaka:** Importasyonun veya importe vakayla ilişkinin kanıtlanamadığı veya enfeksiyon kaynağı bilinmeyen sporadik vakadır. Yerli vaka olarak kabul edilir. 6.5.1. Aşılanma Öyküsü Durumunda Yaklaşım
 
 • Kızamık ve/veya kızamıkçık aşısı uygulanmış olan kişilerde, aşılamadan sonra IgM saptanması beklenir. Serolojik yöntemler doğal enfeksiyon ve aşılama ile ortaya çıkan bağışıklık yanıtını ayıramaz; bu nedenle, sadece virüsün izolasyonu ve genetik tipledirilmesi ile doğal enfeksiyon ve aşı ile oluşan IgM yanıtı ayırt edilebilir.
 
@@ -624,7 +624,7 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 ### Şekil 6. Olası Kızamık veya Kızamıkçık Vakaları1 için Sınıflandırma Şeması
 
-Laboratuvar ve Laboratuvar Laboratuvarla Son siniflandırma
+**Laboratuvar ve** Laboratuvar Laboratuvarla Son siniflandırma
 
 pidemiyolojik incelemesi sonucu? doğrulanmış vakayla
 
@@ -636,19 +636,19 @@ Kızamık veya doğrulanmiş
 
 kızamıkçık pozitif kızamık/kızamıkçık
 
-Supheli vakal Kızamık veya Kızamık veya
+**Supheli vakal** Kızamık veya Kızamık veya
 
-kızamıkçık klinik Negatif 3 kızamıkçık değil
+**kızamıkçık klinik** Negatif 3 kızamıkçık değil
 
 uyumlu belirti ve tanımaması lle
 
-bulguları olan Epidemiyolojik
+**bulguları olan** Epidemiyolojik
 
 kigi Ara Değer 4 Evet ilişkili kızamık
 
-veya kızamıkçık
+**veya kızamıkçık**
 
-Klinik örnek Hayır Klinik (olası)
+**Klinik örnek** Hayır Klinik (olası)
 
 alinamadı veya kızamık veya
 
@@ -710,7 +710,7 @@ d) Hane ve mahalle halkı döküntülü ve/veya ateşli başka vaka görüldüğ
 
 geçirmeden sağlık kuruluşuna başvurmaları konusunda uyarılmalıdır. (Detaylı bilgi için bkz. 10. Bölüm"Kızamık/Kızamıkçık Salgınlarına Yaklaşım").
 
-2. Saptanan vakaları inceleyiniz:
+2. **Saptanan vakaları inceleyiniz:**
 
 ### kızamık/kızamikçık virüsünü kimden/nereden almış
 
@@ -742,15 +742,15 @@ ii) 1-5 yaş aşısızlar ve ilköğretim çağında olup 2 dozdan az aşılı o
 
 iii) Gerektiğinde diğer yaş grupları için de seçici bağışıklama çalışmaları
 
-yürütülmelidir. 1 yaş altına kızamık, 1 yaş ve üzerine ise KKK aşısı uygulanacaktır. Kızamık içeren iki aşı arasında bırakılması gereken süre en az 4 haftadır. 1 yaş altında aşı uygulanmış olan bebeklere, 1 yaşını doldurduklarında iki aşı arasında bırakılması gereken en az süre göz önüne alınarak tekrar aşı uygulanacaktır. Bu çocuklar, ilköğretim 1. sınıfa geldiklerinde tekrar aşılanacaktır.
+<i>yürütülmelidir.</i> 1 yaş altına kızamık, 1 yaş ve üzerine ise KKK aşısı uygulanacaktır. Kızamık içeren iki aşı arasında bırakılması gereken süre en az 4 haftadır. 1 yaş altında aşı uygulanmış olan bebeklere, 1 yaşını doldurduklarında iki aşı arasında bırakılması gereken en az süre göz önüne alınarak tekrar aşı uygulanacaktır. Bu çocuklar, ilköğretim 1. sınıfa geldiklerinde tekrar aşılanacaktır.
 
 c) Vakalar komplikasyonlar yönünden izlenmeli ve gerekli tedavinin uygulanması
 
 sağlanmalıdır.
 
-4. Virüs izolasyonu için nazofarengeal sürüntü ve idrar örneği alarak Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu (Ek 1) ile birlikte Sağlık Müdürlüğüne gönderiniz:
+4. **Virüs izolasyonu için nazofarengeal sürüntü ve idrar örneği alarak Vaka Bildirim ve** Laboratuvar İstek ve Sonuç Formu (Ek 1) ile birlikte Sağlık Müdürlüğüne gönderiniz:
 
-5. Bilgiyi Form 016'ya (Ek 5), Form 017A'ya (Ek 5) ve GBP Sürveyans Formuna (Ek 5) ekleyiniz:
+5. **Bilgiyi Form 016'ya (Ek** 5), Form 017A'ya (Ek 5) ve GBP Sürveyans Formuna (Ek 5) ekleyiniz:
 
 6. Vaka cetvelini Sağlık Müdürlüğüne olası salgın sona erene kadar haftada bir kez gönderiniz.
 
@@ -760,7 +760,7 @@ B. Sağlık Müdürlüğü Tarafından Yapılması Gerekenler:
 
 2. Gelen örnekleri Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu (Ek 1) ile birlikte Bölge Hıfzıssıhha Müdürlüğüne (BHM) gönderiniz: Ornekler ilin bağlı bulunduğu BHM'ye (Ek 9) gönderilmelidir. Ornekler sıcak vaka olduğu için derhal BHM'ye gönderilecek şekilde planlama yapılmalıdır. Orneklerin nasıl gönderileceğ konusunda daha detaylı bilgi için Ek 3'e bakınız
 
-3. Vaka Inceleme Formunu Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na fakslayınız.
+3. **Vaka Inceleme Formunu Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü** Daire Başkanlığı'na fakslayınız.
 
 4. İl içindeki tüm sağlık ocağı/aile hekimliklerini ve resmi/özel tüm sağlık kuruluşlarını bilgilendiriniz ve bildirilmeyen vaka olup olmadığını araştırınız: Bu bilgilendirme, çevrede gerekli aşılama önlemlerinin alınması ve bildirimi yapılmamış vakaların saptanması açısından önemlidir. Uygulamaları izleyiniz. Not: Salgınlarda, vakalara müdahale eden sağlık personelinin de önemli bir risk grubu olduğu ve aşılanmalarının gerektiği unutulmamalıdır.
 
@@ -792,11 +792,11 @@ B. Sağlık Müdürlüğü Tarafından Yapılması Gerekenler:
 
 7. Form 017 C (Ek 13) ile de bildirim yapınız.
 
-1. TSM/Sağlık Grup Başkanlığını bilgilendiriniz: Sağlık ocakları/aile hekimlikleri TSM/ Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine, hastaneler ise ya doğrudan ya da varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapmalıdır.
+1. **TSM/Sağlık Grup Başkanlığını bilgilendiriniz:** Sağlık ocakları/aile hekimlikleri TSM/ Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine, hastaneler ise ya doğrudan ya da varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapmalıdır.
 
 2. KKS Vaka İnceleme Formunu (Ek 12) doldurunuz: Tam ve doğru olarak doldurulmalıdır. Gerektiğinde (annenin gebelik takibi) yazılı kayıtlara başvurulmalıdır. pidemiyolojik ilişki ile ilgili bilgi, vaka sınıflaması için gereklidir. Laboratuvar sonucu çıktıktan sonra Sağlık Müdürlüğü tarafından son vaka sınıflaması yapılarak bu forma işlenmelidir. Doğrulanmış vakaların formları Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir.
 
-3. Laboratuvar tanısı için kan (serum) örneği alınız (Ek 3), Şüpheli KKS vakalarında, IgM serolojisi için alınacak tek serum örneği yeterlidir. Ancak, klinik olarak uyumlu olmasına rağmen kızamıkçığa özgü IgM sonucu negatif olarak saptanmışsa,
+3. **Laboratuvar tanısı için kan (serum) örneği alınız (Ek** 3), Şüpheli KKS vakalarında, IgM serolojisi için alınacak tek serum örneği yeterlidir. Ancak, klinik olarak uyumlu olmasına rağmen kızamıkçığa özgü IgM sonucu negatif olarak saptanmışsa,
 
 a. 6 aydan küçük bebeklerde, kızamıkçığa özgü IgM ve IgG serolojisini
 
@@ -808,13 +808,13 @@ b. 6 aydan büyük bebeklerde, birkaç ay sonra kızamıkçığa özgü IgG sero
 
 Daha detaylı bilgi için Ek 3'e bakınız.
 
-4. Virüs izolasyonu için idrar örneği alınız: Daha detaylı bilgi için Ek 3'e bakınız.
+4. **Virüs izolasyonu için idrar örneği alınız:** Daha detaylı bilgi için Ek 3'e bakınız.
 
-5. 24 saat içerisinde topladığınız örnekleri ve doldurduğunuz formları İl Sağlık Müdürlüğüne gönderiniz: Orneklerin uygun koşullarda gönderilmesine dikkat edilmelidir. Daha detaylı bilgi için Ek 3'e bakınız.
+5. **24 saat içerisinde topladığınız örnekleri ve doldurduğunuz formları İl Sağlık** Müdürlüğüne gönderiniz: Orneklerin uygun koşullarda gönderilmesine dikkat edilmelidir. Daha detaylı bilgi için Ek 3'e bakınız.
 
 6. Hastanın izolasyonu konusunda aileyi bilgilendiriniz, hastane ortamında ise izolasyonu sağlayınız: İzolasyon önlemlerine çok dikkat edilmelidir. Sadece kızamıkçığa karşı bağışık olan kişiler ile temas etmelidir. Duyarlı gebe kadınlarla temas etmemesine dikkat edilmelidir. KKS'li bebekler yaşamlarının ilk yılında kızamıkçığı bulaştırabilirler. Uygun laboratuvar yöntemleriyle negatif oldukları gösterilene kadar önlemlere devam edilmelidir. Daha detaylı bilgi için Ek 4'e bakınız.
 
-7. Form 017 C (Ek 13) ile de bildirim yapınız.
+7. **Form 017** C (Ek 13) ile de bildirim yapınız.
 
 Şekil 7. Konjenital Kızamıkçık Sendromu Vaka Sınıflandırma Şeması
 
@@ -930,7 +930,7 @@ sayıSı) Kızamıkçık içeren aşı Hanede benzer vaka var mı? Çevrede benz
 
 Uygun Araştırma: Her şüpheli kızamık/kızamıkçık vakası için sorgulanması gerekli en az değişkenin (yaş, cinsiyet, döküntünün başlama tarihi, örnek alınma tarihi, aşılı olma durumu, seyahat öyküsü) sorgulanmış olmasıdır. , Bunlara ek olarak; her bir şüpheli vaka için pidemiyolojik ilişki araştırması da yürütülmüş olmalıdır. Uygun Serum Örneği: Döküntü başlangıcından sonraki 28 gün içinde alınmış, hemolize edilmeden ayrılmış, soğuk zincire uygun olarak saklanmış ve gönderilmiş serum örneğidir. Indeks vaka: Bir salgındaki ilk vakadır. Sekonder (ikincil) vakalar: Indeks vakadan sonra görülen ve onunla pidemiyolojik ilişkisi olan ve indeks vaka tarafından enfekte edilmiş vakalardır. Epidemiyolojik İlişki: Bir başka kızamık vakası ile temas. Bu temas direkt yüz yüze karşılaşma olabileceği gibi, aynı ortamda bulunma (bölgede oturma, bölgeye ziyaret ya da aynı okula gitme, ortak kullanılan eşyalar, vb) olarak da tanımlanabilir. Sporadik Vaka: Birbiriyle pidemiyolojik ilişkisi olmayan ve tek görülen vakalardır. İmporte Kızamık Virüsü: Kaynağı Türkiye dışından olan kızamık virüsüdür. Bu tür virüsler Türkiye dışında kızamıkla karşılaşmış vakalardan ya da onların Türkiye'de enfekte ettiği kişilerden izole edilecektir. Yerli Kızamık Virüsü: Bir ülkede kızamığın endemik olduğu dönemde dolaşan kızamık virüsüdür. Türkiye'de bugüne kadar izole edilen kızamık virüslerinin D4 ve D6 tipi olduğu saptanmiştır. Bulaş Zinciri/Salgın: Inkübasyon periyodunu göz önüne alınarak aralarında yeterli zamansal, pidemiyolojik ve/veya viral tiplendirme açısından ilişki bulunan iki ya da daha fazla konfirme vaka bulunmasıdır. İmporte Vaka: döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık için 7- 18, kızamıkçık için 12-23 gün) yurt dışında bulunma öyküsü olan ve pidemiyolojik ve/veya virolojik olarak da yabancı kaynaklı enfeksiyona ilişkin kanıtlarla desteklenen vakadır. Yerli Vaka: Importasyonun veya importe vakayla ilişkinin kanıtlanamadığı veya enfeksiyon kaynağı bilinmeyen sporadik vakadır. İmporte Vakayla İlişkili Vaka: İmporte vakayla epidemiyolojik ve/veya virolojik ilişkisi bulunan vakadır. Sıcak Vaka: Kesin vaka ile temas öyküsü olan veya döküntünün başlamasından önceki 3 hafta içerisinde seyahat öyküsü olan veya aşısız veya yaşına göre eksik aşılı olan veya kümelenme gösteren olası kızamık/kızamıkçık vaka tanımına uyan vakadır. İmporte Vakaların Orantısı: Epidemiyolojik araștirma sonucunda importe olarak sınıflandırılan kızamık ya da kızamıkçık vaka sayısının toplam vaka sayısına bölünmesiyle elde edilir. Eliminasyon fazında importe vakaların orantısı artar.
 
-Kızamık/Kızamıkçık İnsidans Hızı: Tanımlanmış bir coğrafi bölgede, bir yılda görülen yeni kızamık veya kızamıkçık vakalarının (importe vakalar hariç, importe vakayla ilişki vakalar dahil) aynı coğrafi bölgedeki toplam nüfusa bölünmesidir. Milyonda olarak ifade edilir. KKS İnsidans Hızı: Tanımlanmış bir coğrafi bölgede, bir yılda görülen yeni KKS vakalarını (importe vakalar hariç) aynı coğrafi bölgedeki canlı doğum sayısına bölünmesidir. Yüzbinde olarak ifade edilir. Salgının/Kümelenmenin Büyüklüğü: Epidemiyolojik ve/veya genetik olarak ilişkili tüm bulaş zincirini kapsayan vaka sayısını gösterir. Eliminasyon fazına yaklaşan ve başaran ülkelerde salgınların en az % 80'inde 10'dan az vaka bulunmalıdır. Aşılı Vakaların Orantısı: Aşının etkililiği ile ilişkili sorunların saptanmasına yardımcı olabilir. Bu gösterge salgın sonrasında aşı etkililiğini hesaplamak için de kullanılabilir. Yaş Gruplarına Göre İnsidans Hızı: Hastalığın pidemiyolojisindeki değişiklikleri değerlendirmek için hesaplanır. Yaş gruplarına özel insidans hızı ile, toplumdaki duyarlılık profili ve yaş gruplarına özel aşı kapsayıcılığı yorumlanabilir. Endemik Bulaşın Tekrar Başlaması: Bulaş zincirinin pidemiyolojik ve laboratuvarla doğrulanmış virüsle 12 ay ya da daha uzun süre boyunca kesintisiz olarak devam etmesi durumudur. Ulusal Referans Laboratuvarı: DSO'nün yıllık yeterlilik testinden geçen, DSO tarafından valide edilmiş yöntemler kullanan ve DSO sürveyans ağı üyesi laboratuvardır. Ulkemizde, halen, RSHMB ve Bölge Hıfzıssıhha laboratuvarları referans laboratuvarı olarak kabul edilmiş 6.3.15. Genişletilmiş Bağışıklama Programı Genelgesi (2009/17)
+**Kızamık/Kızamıkçık İnsidans Hızı:** Tanımlanmış bir coğrafi bölgede, bir yılda görülen yeni kızamık veya kızamıkçık vakalarının (importe vakalar hariç, importe vakayla ilişki vakalar dahil) aynı coğrafi bölgedeki toplam nüfusa bölünmesidir. Milyonda olarak ifade edilir. KKS İnsidans Hızı: Tanımlanmış bir coğrafi bölgede, bir yılda görülen yeni KKS vakalarını (importe vakalar hariç) aynı coğrafi bölgedeki canlı doğum sayısına bölünmesidir. Yüzbinde olarak ifade edilir. Salgının/Kümelenmenin Büyüklüğü: Epidemiyolojik ve/veya genetik olarak ilişkili tüm bulaş zincirini kapsayan vaka sayısını gösterir. Eliminasyon fazına yaklaşan ve başaran ülkelerde salgınların en az % 80'inde 10'dan az vaka bulunmalıdır. Aşılı Vakaların Orantısı: Aşının etkililiği ile ilişkili sorunların saptanmasına yardımcı olabilir. Bu gösterge salgın sonrasında aşı etkililiğini hesaplamak için de kullanılabilir. Yaş Gruplarına Göre İnsidans Hızı: Hastalığın pidemiyolojisindeki değişiklikleri değerlendirmek için hesaplanır. Yaş gruplarına özel insidans hızı ile, toplumdaki duyarlılık profili ve yaş gruplarına özel aşı kapsayıcılığı yorumlanabilir. Endemik Bulaşın Tekrar Başlaması: Bulaş zincirinin pidemiyolojik ve laboratuvarla doğrulanmış virüsle 12 ay ya da daha uzun süre boyunca kesintisiz olarak devam etmesi durumudur. Ulusal Referans Laboratuvarı: DSO'nün yıllık yeterlilik testinden geçen, DSO tarafından valide edilmiş yöntemler kullanan ve DSO sürveyans ağı üyesi laboratuvardır. Ulkemizde, halen, RSHMB ve Bölge Hıfzıssıhha laboratuvarları referans laboratuvarı olarak kabul edilmiş 6.3.15. Genişletilmiş Bağışıklama Programı Genelgesi (2009/17)
 
 ### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -954,7 +954,7 @@ GBP çalışmalarında temel başvuru kaynağı olan bu Daimi Genelge her düzey
 
 Prof. Dr. Recep AKDAĞ
 
-Bakan EK: Daimi Genelge
+**Bakan** EK: Daimi Genelge
 
 ### DAĞITIM:
 

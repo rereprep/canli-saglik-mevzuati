@@ -11,7 +11,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.2.14. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi Yönergesi
+**2.2.14. Ulusal Organ ve Doku Nakli Koordinasyon Sistemi** Yönergesi
 
 ## İKİNCİ BÖLÜM Kadavra Vericiden Organ ve Doku Dağıtım İlkeleri
 

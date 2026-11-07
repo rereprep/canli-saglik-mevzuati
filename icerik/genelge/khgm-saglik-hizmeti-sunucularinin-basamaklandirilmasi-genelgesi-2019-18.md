@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ - HUKUK VE MEVZUAT DAİRESİ BAŞKANLIĞI
 11/11/2019 21:20 - 54567092 - 010.06.01 - 6528
@@ -25,7 +25,7 @@ Barkod: 00105599470
 Sayı : 54567092/045/
 Konu : Sağlık Hizmeti Sunucularının Basamaklandırılması
 
-GENELGE
+**GENELGE**
 2019/18
 
 İlgi: 31/05/2019 tarihli ve 3274 sayılı (2019/10) Genelge
@@ -104,7 +104,7 @@ Bu genelgede belirtilen yukarıdaki basamaklarda yer almamakla birlikte Bakanlı
 Bilgilerini ve uygulamanın bu genelge ile belirlenen basamaklandırma doğrultusunda yürütülmesi hususunu önemle rica ederim.
 
 Dr. Fahrettin KOCA
-Bakan
+**Bakan**
 
 **EK:**
 Ek-1 Üçüncü Basamak Sağlık Kurumlarının Alt Grup Koşul Ve Standartları, İzleme Ve Değerlendirme Kriterleri (3 sayfa)

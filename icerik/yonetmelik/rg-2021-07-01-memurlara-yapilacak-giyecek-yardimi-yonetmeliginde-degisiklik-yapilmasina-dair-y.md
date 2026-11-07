@@ -13,19 +13,19 @@ ocr: true
 duzeltildi: true
 ---
 
-YÖNETMELİK
+**YÖNETMELİK**
 
-Karar Sayısı: 4210
+**Karar Sayısı: 4210**
 
 Ekli “Memurlara Yapılacak Giyecek Yardımı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik”in yürürlüğe konulmasına, 657 sayılı Devlet Memurları Kanununun 2 nci ve 211 inci maddeleri gereğince karar verilmiştir.
 
-30 Haziran 2021
+**30 Haziran** 2021
 
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI
 
-MEMURLARA YAPILACAK GİYECEK YARDIMI YÖNETMELİĞİNDE
-DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MEMURLARA YAPILACAK GİYECEK YARDIMI YÖNETMELİĞİNDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 14/9/1991 tarihli ve 91/2268 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Memurlara Yapılacak Giyecek Yardımı Yönetmeliğinin 4 üncü maddesinin üçüncü fıkrasında yer alan “taşıyanlarla çarşı ve mahalle bekçilerine” ibaresi “taşıyanlara” şeklinde değiştirilmiştir.
 

@@ -16,7 +16,7 @@ kontrol_edildi: true
 2013/2 sayılı Genelgenin 4. Maddesinde "Ödenek Talebine İlişkin Esaslar"ın (ç) maddesinde geçen bütçe tertibi güncellenmiş olup 54.167.489.337-0014.0067-01-03.09 olarak kullanılmaktadır.
 
 T.C.
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 64047795/23642684/010-06 / 165
@@ -42,11 +42,11 @@ a- Adli olaya taraf olan ve adli makamlarca sağlık durumlarının belirlenmesi
 b- Herhangi bir nedenle genel sağlık sigortasından faydalanmayan kişilerin bahse konu giderleri Bakanlığımızca karşılanacaktır.
 c- Sağlık Uygulama Tebliği'nde yer almayan ancak Bakanlığımız ve üniversite hastanelerinde adli tıbba yönelik yapılan işlemler ilgi (e) Genelge'de belirtilen usul ve esaslar çerçevesinde yürütülecektir.
 
-2- HAKKINDA TEDAVİ VE DENETİMLİ SERBESTLİK TEDBİRİNE HÜKMEDİLEN KİŞİLERİN TEDAVİ GİDERLERİ:
+2- **HAKKINDA TEDAVİ VE DENETİMLİ SERBESTLİK TEDBİRİNE** HÜKMEDİLEN KİŞİLERİN TEDAVİ GİDERLERİ:
 
 Mahkemelerce 5271 sayılı Ceza Muhakemeleri Kanunu'nun 109 uncu maddesi gereğince hakkında adli kontrol kararı verilen kimselerin sağlık durumlarının belirlenmesi amacıyla resmi sağlık kurumlarında yaptırılan muayene, tetkik ve tedavi bedelleri ile uyuşturucu veya uyarıcı madde kullanan kişiler hakkında verilen tedavi ve denetimli serbestlik tedbirine ilişkin kararın yerine getirilmesi sırasındaki tedavi bedelleri Bakanlığımızca karşılanacaktır.
 
- 3-TUTUKLU VE HÜKÜMLÜLERİN TEDAVİ GİDERLERİ:
+ **3-TUTUKLU VE HÜKÜMLÜLERİN TEDAVİ GİDERLERİ:**
 
 Ceza infaz kurumları ve tutukevlerince Bakanlığımıza bağlı hastanelere ve Bakanlığımız hastanelerince üniversite hastanelerine (vakıf üniversiteleri hariç) sevk edilen tutuklu ve hükümlülerin;
 
@@ -56,7 +56,7 @@ b- Ayakta tedavide tıbbi muayene, kontrol, tetkik, diş protezi ve tedavilerine
 
 c- Hükümlünün estetik amaçlı tedavi giderleri kendisi tarafından karşılanacaktır.
 
- 4- ÖDENEK TALEBINE ILIŞKİN ESASLAR:
+ 4- **ÖDENEK TALEBINE ILIŞKİN ESASLAR:**
 
 1 inci maddenin b fikrası, 2 nci madde ile 3 üncü maddenin a ve b fikralarında sayılanlara resmi sağlık hizmet sunucuları tarafından sağlanan sağlık hizmeti giderlerine ilişkin talepler;
 
@@ -74,18 +74,18 @@ ağlık Bakanlığı
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
-Ptof. Dr. Nihat TOSUN
+**Ptof. Dr. Nihat TOSUN**
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**
 
-DAĞITIM:
+**DAĞITIM:**
 
-Gereği:
+**Gereği:**
 81 Il Valiligine (di Sağlık Müdürluğü)
 
-Bilgi:
+**Bilgi:**
 Adalet Bakanlığına
 Denetim Hizmetleri Başkanlığına
 YÖK Başkanlığına

@@ -14,11 +14,11 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.29. Ulusal Organ Nakli Bilgi Sistemi Genelgesi (2011/4)
+**2.3.29. Ulusal Organ Nakli Bilgi Sistemi Genelgesi (2011/4)**
 
 T.C.
-SAĞLIK BAKANLIĞI
-Tedavi Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Tedavi Hizmetleri Genel Müdürlüğü**
 
 Sayı : B-10-0-THG-0-06-00-02-708 / 3507
 Konu : Ulusal Organ Nakli Bilgi Sistemi
@@ -48,11 +48,11 @@ Gereğini önemle rica ederim.
 
 Prof. Dr. Nihat TOSUN
 Bakan a.
-Müsteşar
+**Müsteşar**
 
-DAĞITIM:
+**DAĞITIM:**
 
-Gereği:
+**Gereği:**
 81 İl Valiliği
 Bilgi:
 İdari Mali İşler Daire Başkanlığı

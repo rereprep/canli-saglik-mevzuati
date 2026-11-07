@@ -14,7 +14,7 @@ kontrol_edildi: true
 ---
 
 
-9.3.3. 4924 Sözleşmeli Personel Hakkında Genelge (2023/1)
+**9.3.3. 4924 Sözleşmeli Personel Hakkında Genelge (2023/1)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Yönetim Hizmetleri Genel Müdürlüğü
@@ -78,7 +78,7 @@ Sözleşmeli Personel ile imzalanacak Sağlık Bakanlığı Sözleşmeli Sağlı
 Bilgilerinizi ve bu çerçevede gereğini rica ederim.
 
 Dr. Fahrettin KOCA  
-Bakan
+**Bakan**
 
 Dağıtım :  
 81 İl Valiliğine (İl Sağlık Müdürlüğü)

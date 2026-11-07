@@ -25,7 +25,7 @@ VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
 ### GENELGE
-2007/47
+<i>2007/47</i>
 
 Acil hastalık ve yaralanma, trafik kazası gibi insan hayatını doğrudan tehdit eden bir çok olayda, acil tıbbi yardımın yerinde ve en kısa sürede başlatılması, hasta ya da yaralının uygun ekipman ve personel yardımıyla tedavi kurumlarına taşınması, tedavi kurumlarında bekletilmeden gereken müdahalenin yapılması, hayat kurtarma zincirinin vazgeçilmez halkalarıdır.
 

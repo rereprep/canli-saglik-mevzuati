@@ -19,7 +19,7 @@ kontrol_edildi: true
 
 T.C.  
 SAĞLIK BAKANLIĞI  
-Türkiye Halk Sağlığı Kurumu Başkanlığı  
+**Türkiye Halk Sağlığı** Kurumu Başkanlığı  
 
 **Sayı :** 19831278/  
 **Konu :** Denetimler Hak.  
@@ -47,7 +47,7 @@ Bilindiği üzere aile sağlığı merkezine, aile hekimlerine ve aile sağlığ
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Seçil ÖZKAN  
+**Prof. Dr.** Seçil ÖZKAN  
 Bakan a.  
 Kurum Başkanı  
 

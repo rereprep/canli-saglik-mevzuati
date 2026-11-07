@@ -13,7 +13,7 @@ konu: "Diş protez laboratuvarlarında bulundurulması gereken araç ve gereçle
 birim: "Sağlık Bakanlığı"
 ---
 
-31 Aralık 2011 Resmî Gazete
+**31 Aralık 2011** Resmî Gazete
 
 ### CUMARTESİ YÖNETMELİK
 
@@ -159,19 +159,19 @@ h) Ortodontik pens.
 
 ı) Punto kaynak cihazı.
 
-MADDE 2 ‒ Aynı Yönetmeliğin 5 inci maddesine aşağıdaki bent eklenmiştir.
+**MADDE 2 ‒** Aynı Yönetmeliğin 5 inci maddesine aşağıdaki bent eklenmiştir.
 
 “h) Diş protez teknisyenliği meslek hastalığına sebebiyet verebilecek olan alçı, tesviye, akril hazırlama gibi işlemlerin yapıldığı çalışma alanlarında, ortama kimyasal madde/toz yayılımını engelleyen akril hazırlama kabini, maske, eldiven gibi araç ve gereçler kullanılır ya da bu işlemlerin yapıldığı alanın genel ortamdan ayrı bağımsız bir havalandırma şartı oluşturulur.”
 
-MADDE 3 ‒ Aynı Yönetmeliğin 10 uncu maddesinin ikinci fıkrasının (h) bendi aşağıdaki şekilde değiştirilmiş ve aynı fıkraya aşağıdaki bent eklenmiştir.
+**MADDE 3 ‒** Aynı Yönetmeliğin 10 uncu maddesinin ikinci fıkrasının (h) bendi aşağıdaki şekilde değiştirilmiş ve aynı fıkraya aşağıdaki bent eklenmiştir.
 
 “h) Mesul müdür dahil tüm çalışanlar için 16/6/2004 tarihli ve 25494 sayılı Resmî Gazete’de yayımlanan Ağır ve Tehlikeli İşler Yönetmeliğin ekinde yer alan Ek-II’deki Ağır ve Tehlikeli İşlerde Çalışacaklara Ait İşe Giriş/Periyodik Muayene Formu.”
 
 “k) Mesul müdür dâhil tüm çalışanların, iki yılda bir, radyoloji uzmanı tarafından raporlanmış büyük boy akciğer filmleri.”
 
-MADDE 4 ‒ Aynı Yönetmeliğin 11 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 4 ‒** Aynı Yönetmeliğin 11 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 
-“MADDE 11 ‒ 10 uncu maddeye göre yapılan başvuru; bu Yönetmelik hükümlerine uygun olup olmadığı il denetim ekibince öncelikle dosya üzerinden değerlendirilir. Uygun görülmesi halinde açılacak laboratuvar yerinde incelenir. Gerekli şartları taşıması halinde laboratuvara, valilikçe tek nüsha halinde düzenlenen ve bir örneği Ek-2’de yer alan Diş Protez Laboratuvarı Ruhsat Belgesi verilir.
+**“MADDE 11 ‒** 10 uncu maddeye göre yapılan başvuru; bu Yönetmelik hükümlerine uygun olup olmadığı il denetim ekibince öncelikle dosya üzerinden değerlendirilir. Uygun görülmesi halinde açılacak laboratuvar yerinde incelenir. Gerekli şartları taşıması halinde laboratuvara, valilikçe tek nüsha halinde düzenlenen ve bir örneği Ek-2’de yer alan Diş Protez Laboratuvarı Ruhsat Belgesi verilir.
 
 Müdürlükçe düzenlenen her bir ruhsatın “aslı gibidir” onaylı bir örneği Bakanlığa gönderilir.
 
@@ -193,9 +193,9 @@ O ilde ruhsat alan laboratuvarların kayıtları müdürlükçe tutulur.”
 
 f) Laboratuvarlarda protez yapımında kullanılan metallerin insan sağlığına zararlı alaşımlar içermediğinin ve TS EN İSO 22674 sayılı Standarda uygunluğunun tespiti amacıyla denetim yapılan laboratuvarlardan rastgele seçilecek protez metallerinin Bakanlıkça belirlenecek usul ve esaslar doğrultusunda metalürjik testlerinin yaptırılmasını sağlamak ile sonuçlarından Bakanlığa bilgi vermek.”
 
-MADDE 6 ‒ Aynı Yönetmeliğe aşağıdaki ek madde eklenmiştir.
+**MADDE 6 ‒** Aynı Yönetmeliğe aşağıdaki ek madde eklenmiştir.
 
-“Yardımcı personel çalıştırılması
+**“Yardımcı personel çalıştırılması**
 
 EK **MADDE 1 –** Diş protez laboratuvarlarında diş protez teknisyenlerine aşağıda belirlenen işlerde yardımcı olmak üzere Sağlık ve Millî Eğitim Bakanlıkları arasında düzenlenecek Diş Protez Laboratuvarlarında Çalışan Yardımcı Personelin Sertifika Eğitimi İş Birliği Protokolü kapsamında verilecek eğitim sonunda düzenlenecek sertifikaya sahip personel çalıştırılabilir.
 
@@ -273,13 +273,13 @@ k) İskelet modelajı.
 
 l) İskelet tesviyesi.”
 
-MADDE 7 ‒ Aynı Yönetmeliğin ekinde yer alan Ek-2, Ek-4, Ek-7 ve Ek-8 ekteki şekilde değiştirilmiş ve aynı Yönetmeliğe ekte yer alan Ek-10 eklenmiştir.
+**MADDE 7 ‒** Aynı Yönetmeliğin ekinde yer alan Ek-2, Ek-4, Ek-7 ve Ek-8 ekteki şekilde değiştirilmiş ve aynı Yönetmeliğe ekte yer alan Ek-10 eklenmiştir.
 
-MADDE 8 ‒ Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+**MADDE 8 ‒** Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-MADDE 9 ‒ Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+**MADDE 9 ‒** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ek:2
+**Ek:2**
 
 ### T.C. . . . . . . . . . . . . VALİLİĞİ ....................... İL SAĞLIK MÜDÜRLÜĞÜ ÖZEL . . . . (Bu Kısma Laboratuvarın Adı Yazılacak) . . . . Diş PROTEZ LABORATUVARI RUHSAT BELGESİ
 
@@ -291,7 +291,7 @@ No:
 
 ### SAĞLIK MÜDÜRÜ VALİ
 
-Ek:4 Belge No: Tarih:...../......./.........
+**Ek:4** Belge No: Tarih:...../......./.........
 
 ### . . . . . . . . . . . . . . . . . . . . . . . . . . . . Diş PROTEZ LABORATUVARI PERSONEL ÇALIşMA BELGESİ ADI, SOYADI : UNVANI GÖREVİ : BABA ADI :
 
@@ -303,15 +303,15 @@ DOĞUM YERİ / TARİHİ ( Ay -gün) :
 
 ### Fakültesi Okulu Lisesi
 
-Mezuniyet Tarihi : Diploma No :
+**Mezuniyet Tarihi :** Diploma No :
 
 ### SAĞLIK BAKANLIĞI Diş PROTEZ TEKNİSYENLİĞİ MESLEK BELGESİNİN
 
-Tescil Tarih / No : Kütük Sayfa No :
+**Tescil Tarih / No :** Kütük Sayfa No :
 
 ### GÖREV YAPACAĞI LABORATUVARIN
 
-ADI :
+**ADI :**
 
 ### ADRESİ :
 
@@ -319,9 +319,9 @@ Yukarıda açık kimliği yazılı olan Diş Hekiminin / Diş Protez Teknisyenin
 
 Bu belge ..... /...... / ....... tarihli ve ......... sayılı Resmî Gazete'de yayımlanan Diş Protez Laboratuvarları Yönetmeliği hükümlerine göre düzenlenmiştir.
 
-Düzenleyen Onaylayan
+**Düzenleyen Onaylayan**
 
-Mesul Müdür Sağlık Müdürlüğü
+**Mesul Müdür Sağlık Müdürlüğü**
 
 İmza ve Tarih İmza ve Tarih Ek :7
 

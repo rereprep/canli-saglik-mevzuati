@@ -15,7 +15,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-4.3.1. Teletıp ve Teleradyoloji Sistemi Genelgesi (2019/16)
+**4.3.1. Teletıp ve Teleradyoloji Sistemi Genelgesi (2019/16)**
 
 T.C.
 SAĞLIK BAKANLIĞI

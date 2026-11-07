@@ -14,10 +14,10 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.48. Konaklama Tesisleri Bünyesinde Sunulacak Sağlık Hizmetleri Genelgesi (2013/18)
+**2.3.48. Konaklama Tesisleri Bünyesinde Sunulacak Sağlık** Hizmetleri Genelgesi (2013/18)
 
 ### T.C. SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 Sayı : 54567092/010.06/ 32724
 Tarih: 26.09.2013
@@ -26,7 +26,7 @@ Konu : Konaklama Tesisleri Bünyesinde Sunulacak Sağlık Hizmetleri
 ..................... VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
-GENELGE
+**GENELGE**
 2013/18
 
 Özel Hastaneler Yönetmeliğinin Ek 10 uncu maddesi ile Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin Ek 2 nci maddesi ve Diyaliz Merkezleri Hakkında Yönetmeliğin Ek 1 inci maddesinde "Konaklama tesislerinde sunulacak sağlık hizmetleri" ile ilgili düzenleme yapılmıştır.
@@ -34,12 +34,12 @@ Kültür ve Turizm Bakanlığından belgeli konaklama tesislerinde sunulacak sa�
 
 A. Bu Genelgede geçen;
 a) Bakanlık: Sağlık Bakanlığını,
-b) Konaklama tesisi: Kültür ve Turizm Bakanlığından işletme veya yatırım belgesi almış tesisleri,
+b) **Konaklama tesisi:** Kültür ve Turizm Bakanlığından işletme veya yatırım belgesi almış tesisleri,
 c) Müdürlük: İl Sağlık Müdürlüğünü,
-d) Özel sağlık kuruluşu: Sağlık hizmeti sunmak üzere Sağlık Bakanlığınca veya müdürlükçe ruhsatlandırılmış özel sağlık kuruluşlarını,
-e) Sağlık ünitesi: Konaklama tesisinde konaklayan kişilerin ani gelişen sağlık problemlerinde ve acil durumlarda müdahale, muayene ve sevk işlemlerinin düzenlenmesi amacıyla konaklama tesislerinde kurulan birimleri,
+d) **Özel sağlık kuruluşu:** Sağlık hizmeti sunmak üzere Sağlık Bakanlığınca veya müdürlükçe ruhsatlandırılmış özel sağlık kuruluşlarını,
+e) **Sağlık ünitesi:** Konaklama tesisinde konaklayan kişilerin ani gelişen sağlık problemlerinde ve acil durumlarda müdahale, muayene ve sevk işlemlerinin düzenlenmesi amacıyla konaklama tesislerinde kurulan birimleri,
 f) Turizm yatırım belgesi: Konaklama tesisi açmak için ilk müracaatta Kültür ve Turizm Bakanlığınca yatırımcıya verilen belgeyi,
-g) Turizm işletme belgesi: Konaklama tesisi işletmek için Kültür ve Turizm Bakanlığınca yatırımcıya verilen belgeyi,
+g) **Turizm işletme belgesi:** Konaklama tesisi işletmek için Kültür ve Turizm Bakanlığınca yatırımcıya verilen belgeyi,
 h) Yönetmelik: Özel Hastaneler Yönetmeliği ile Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliği ve Diyaliz Merkezleri Hakkında Yönetmeliği,
 ifade eder.
 
@@ -75,7 +75,7 @@ e) Sağlık ünitesinde tam zamanlı çalışacak en az bir sağlık personelini
 
 9) Sağlık üniteleri, işleyiş ve denetleme açısından bağlı olduğu sağlık kuruluşlarının sorumluluğundadırlar.
 
-Konaklama tesisinde açılacak sağlık birimleri başvuru ve işleyişi
+**Konaklama tesisinde açılacak sağlık birimleri başvuru ve işleyişi**
 
 1) Kültür ve Turizm Bakanlığından belgeli konaklama tesislerinde sadece akut tedavisi tamamlanmış konaklama tesisinde konaklayan kişilere yönelik olmak kaydıyla fizik tedavi ve rehabilitasyon veya obeziteyle mücadele, diyabet, diyaliz ve ayaktan kanser tedavisi gören hastalara yönelik koruyucu ve destekleyici nitelikte birimler planlama kapsamında kurulabilir. Konaklama tesisinin bulunduğu ildeki özel sağlık kuruluşları kendi kadro ve kapasitesini kullanmak kaydıyla planlamadan istisna olarak konaklama tesislerinde bu birimleri açılabilir.
 
@@ -149,7 +149,7 @@ Prof. Dr. Nihat TOSUN
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**
 
 ### EKLER
 

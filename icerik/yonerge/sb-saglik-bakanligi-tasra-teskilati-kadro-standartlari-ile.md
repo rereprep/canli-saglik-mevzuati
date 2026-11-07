@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-9.2.6.Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile Çalışma Usul ve Esaslarına Dair Yönerge
+**9.2.6.Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile** Çalışma Usul ve Esaslarına Dair Yönerge
 
 ### Bakanlık Makamına sunuş yazısı
 
@@ -28,7 +28,7 @@ Sayı: 39608046/
 
 Konu: Yönerge
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 04/01/2012 tarihli ve 28163 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğine dayanılarak hazırlanan "Sağlık Bakanlığı Taşra Teşkilatı Kadro Standartları ile Çalışma Usul ve Esaslarına Dair Yönerge"nin yürürlüğe konulmasını tensiplerinize arz ederim.
 
@@ -84,9 +84,9 @@ h) Il grubu: Sağlık Bakanlığı Taşra Teşkilatı Idari ve Hizmet Birimleri 
 
 ### İKİNCI BOLUM
 
-Temel Esaslar
+**Temel Esaslar**
 
-Temel esaslar
+**Temel esaslar**
 
 MADDE 4. (1) Bakanlıle tapra teşkilats aşağidaki temel ilkeler çerqavesinde hizmetlerini yürütürler.
 
@@ -106,7 +106,7 @@ e) Mudurlugun ve ilçe sağlık müdürlüğünün her kademesindeki yöneticile
 
 ## ÜÇÜNCÜ BÖLÜM
 
-Taşra Teşkilatı Hizmet Birimleri
+**Taşra Teşkilatı Hizmet Birimleri**
 
 #### Taşra teşkilatı
 
@@ -192,7 +192,7 @@ b) Müdür, başkan ve başkan yardımcılarınca verilen diğer görevleri yapa
 
 ### BEŞİNCI BÖLÜM
 
-Hastaneler Hastanclerin teşkilatı MADDE 13. (1) Hastaneler, hastane başhekimi tarafindan yönetilir. Hastane in adeti entelde nan başhekimine bağlı olarak idari ve mali hizmetler, sağlık bakım hizmetleri ile destek ve kalite hizmetleri müdürlükleri kurulur. Bakanlık tarafindan, hastanelerin büyüklükleri dikkate alınarak belirlenen hallerde, yönetim görevleri tek kişiye verilebilir veya hastanedeki müdürlüklerin sayısı dörde kadar artırılabilir; bu durumda görev dağılımları yeniden belirlenir. Hastanelerin yatak sayısı, rolleri, kapasitesi ve hizmet alanı esas alınarak müdür, müdür yardımcısı ve başhekim yardımeısı standartları Ek-S'te gösterilmiştir.
+**Hastaneler** Hastanclerin teşkilatı MADDE 13. (1) Hastaneler, hastane başhekimi tarafindan yönetilir. Hastane in adeti entelde nan başhekimine bağlı olarak idari ve mali hizmetler, sağlık bakım hizmetleri ile destek ve kalite hizmetleri müdürlükleri kurulur. Bakanlık tarafindan, hastanelerin büyüklükleri dikkate alınarak belirlenen hallerde, yönetim görevleri tek kişiye verilebilir veya hastanedeki müdürlüklerin sayısı dörde kadar artırılabilir; bu durumda görev dağılımları yeniden belirlenir. Hastanelerin yatak sayısı, rolleri, kapasitesi ve hizmet alanı esas alınarak müdür, müdür yardımcısı ve başhekim yardımeısı standartları Ek-S'te gösterilmiştir.
 
 #### Başhekimin görevleri
 
@@ -318,7 +318,7 @@ m) Hasta ve çalışan konforu ile çevre korumaya yönelik tedbirleri almak ve 
 
 n) Başhekim tarafindan verilen diğer görevleri yapmak.
 
-Destek ve kalite hizmetleri müdürü
+**Destek ve kalite hizmetleri müdürü**
 
 MADDE 17 (1) Destek ve kalite hizmetleri; temel olarak sağlık tesislerinde sağlık hizmeti sunan personelin hizmetlerini kolaylaştırmak amacıyla sunulan, genel evrak, arşiv, atık hizmetleri, temizlik, mutfak, güvenlik ve afet planlaması, teknik destek ve sağlık tesisinin türüne uygun olarak yürütülen hizmetlerin bütünüdür.
 
@@ -346,7 +346,7 @@ e) Başhekim tarafından verilen diğer görevleri yapmak.
 
 ### ALTINCI BOLÚM
 
-Toplum Sağlığı Merkezi ve Halk Sağlığı Laboratuvarı
+**Toplum Sağlığı Merkezi ve Halk Sağlığı Laboratuvarı**
 
 #### Toplum sağlığı merkezleri
 
@@ -438,7 +438,7 @@ c) Başhekimlikçe verilen dığer görevleri yapmak.
 
 Kadro fazlası personel
 
-GEÇICI MADDE 1- (1) Bu Yönerge ile belirlenen standartlann üstünde veya belirlenen kadro/unvan/branş dışında çalışan personele ait kadrolar korunur ve bunların herhangi bir nedenle boşalması halinde yerlerine atama yapılmaz.
+**GEÇICI MADDE** 1- (1) Bu Yönerge ile belirlenen standartlann üstünde veya belirlenen kadro/unvan/branş dışında çalışan personele ait kadrolar korunur ve bunların herhangi bir nedenle boşalması halinde yerlerine atama yapılmaz.
 
 (2) Ilgili mevzuatı uyarınca zorunlu yer değiştirmeye tabi tutulan kamu görevlisi olan personelin eşinin atanması, şube müdürlerinin mazeret atanması ile Yargı Mercilerince verilen kararların uygulanması durumlarında standart kadro sayılanı dikkate alınmaz.
 

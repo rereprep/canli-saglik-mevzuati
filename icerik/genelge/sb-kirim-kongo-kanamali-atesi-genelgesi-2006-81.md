@@ -67,5 +67,5 @@ Prof. Dr. Necdet ÜNÜVAR
 Bakan a.
 Müsteşar
 
-DAĞITIM:
+**DAĞITIM:**
 81 İl Valiliğine

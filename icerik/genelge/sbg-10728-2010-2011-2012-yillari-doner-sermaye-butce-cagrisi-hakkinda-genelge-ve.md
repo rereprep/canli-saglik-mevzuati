@@ -29,7 +29,7 @@ Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliğinin 4 üncü madd
 
 İşletmelerimiz bütçe taslaklarını hazırlarken; Devlet Planlama Teşkilatı Müsteşarlığınca yayımlanan Orta Vadeli Programda (2010-2012) belirlenen makroekonomik politika ve hedeflere, Bakanlığımız Sağlıkta Dönüşüm Programına, kurum hedeflerinin de açıkça belirlendiği sürdürülebilir bir finans programına uygun, beraberinde mali disiplinin de sağlandığı bir bütçe taslağı hazırlamaya özen gösterilmeli ve bu çalışmada afakî bütçe rakamları yazmaktan ve buna ilişkin metin hazırlamaktan kaçınılmalıdır.
 
-Bütçenin Hazırlanmasında ve Uygulanmasında Dikkat Edilecek Hususlar:
+**Bütçenin Hazırlanmasında ve Uygulanmasında Dikkat Edilecek Hususlar:**
 
 1-Bilindiği gibi bütçe hazırlığı ve yılı içindeki bütçe hareketleri www.saglik.gov.tr-web uygulamaları- Döner Sermaye Bütçe linki üzerinden elektronik ortamda yürütülmekte olup, bu dönemde de yılı bütçe işlemleri sistem üzerinden uygulanmaya devam edilecektir.
 

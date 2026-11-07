@@ -15,14 +15,14 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı: 75000571-020
-Konu: Sağlık Turizmi Bölge Koordinatörlüğü Sistemi
+**Sayı:** 75000571-020
+**Konu: Sağlık Turizmi** Bölge Koordinatörlüğü Sistemi
 
-GENELGE
-2017/2
+**GENELGE**
+**2017/2**
 
 Sağlık turizmi, hastaların sağlık hizmeti almak amacıyla başka bir ülkeye gerçekleştirdiği seyahat olarak adlandırılmakta olup dünyada hızla gelişmiş ve hizmet ihracatı kapsamında değerlendirilerek, ülke ekonomileri açısından katma değeri en yüksek sektörlerden birisi haline gelmiştir.
 
@@ -40,14 +40,14 @@ Prof. Dr. Eyüp GÜMÜŞ
 Bakan a.  
 Müsteşar
 
-EK: Sağlık Turizmi Bölge Koordinatörlükleri ve Bağlı İller
+**EK: Sağlık** Turizmi Bölge Koordinatörlükleri ve Bağlı İller
 
-DAĞITIM:  
-Gereği:  
+**DAĞITIM:**  
+**Gereği:**  
 - 81 İl Valiliğine (İl Sağlık Müdürlüğü)  
 - Yükseköğretim Kurulu Başkanlığına  
 
-Bilgi:  
+**Bilgi:**  
 - Türkiye Kamu Hastaneleri Kurumuna
 
 ---
@@ -73,7 +73,7 @@ Bilgi:
 | | | | | | | Kırıkkale | Artvin |
 | | | | | | | | Gümüşhane |
 
-Sağlık Hizmetleri Genel Müdürlüğü  
+**Sağlık Hizmetleri Genel** Müdürlüğü  
 Bilgi için: Uzm. Dr. Hüsrev DİKTAŞ  
 Mithatpaşa Cad. No:3 Sıhhiye/Ankara  
 Tel: +90 (312) 585 25 82-83

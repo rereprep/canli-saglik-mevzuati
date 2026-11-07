@@ -15,11 +15,11 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Tedavi Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Tedavi Hizmetleri Genel Müdürlüğü**
 
-SAYI : B100THG0120000/
-KONU: Antineoplastik İlaç Hazırlama Merkezi Kurulması
+**SAYI :** B100THG0120000/
+**KONU:** Antineoplastik İlaç Hazırlama Merkezi Kurulması
 
 ……………………….VALİLİĞİNE
 

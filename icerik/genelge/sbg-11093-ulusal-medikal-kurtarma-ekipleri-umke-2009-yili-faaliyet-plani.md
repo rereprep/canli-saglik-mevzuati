@@ -30,7 +30,7 @@ Afetlere hazırlıklı olmak amacıyla kurulan ve acil ve olağandışı durumla
 
 İlinizde UMKE ekiplerinin yapacağı faaliyetlerde 2009 yılı faaliyet planına göre hareket edilmesi, UMKE personeline gerekli kolaylığın sağlanması, planda yer almayan ancak yapılması önem arz eden faaliyetler için Bakanlığımıza en az 15 gün önceden bildirilmek suretiyle olur alınması durumunda ilgili faaliyetin yapılabileceği, gerçekleştirilen faaliyetlerle ilgili raporun en geç faaliyeti takip eden hafta içerisinde Bakanlığımız Temel Sağlık Hizmetleri Genel Müdürlüğü Acil ve Afetlerde Sağlık Hizmetleri Daire Başkanlığı' na gönderilmesi hususunda bilgilerinizi ve gereğini rica ederim.
 
-(L~1( ~rlJL
+<i>(L~1( ~rlJL</i>
 
 Dr:'~~eddın QöM
 
@@ -402,7 +402,7 @@ Temel Ve İleri Yaşam Desteği (Teorik) Eğitimi
 
 ### BURDUR SIRA BAŞLANGIÇ KATILIMCI ADI YAPILACAĞI YER BİTİŞ TARİHİ SÜRESİ NO TARİHİ SAYISI
 
-A Genel Afet Bilgisi Modülü
+**A Genel Afet Bilgisi Modülü**
 
 ### Kar ve Dağ Kurtarma/Çığ Eğitimi ISPARTA/DAVRAZ 30.01.2009 01.02.2009 3 Gün 26
 
@@ -420,7 +420,7 @@ UMKE Eğitim Salonu 27.02.2009 27.02.2009 6 SAAT 26
 
 Afetle İlgili Ulusal ve Uluslararası Kuruluşlar
 
-B Psiko Sosyal Durumlar Eğitimi Modülü
+**B Psiko Sosyal Durumlar Eğitimi Modülü**
 
 Sahada Etik Davranış Ve Kültürel Özellikler Eğitimi,
 
@@ -432,7 +432,7 @@ Afet Ortamında Ekip Çalışması ve Yönetimi
 
 ### Liderlik Ve Motivasyon Eğitimi UMKE Eğitim Salonu 24.04.2009 24.04.2009 6 SAAT 26
 
-C Afet ve Odd Müdahale Eğitimi Modülü
+**C Afet ve Odd Müdahale Eğitimi Modülü**
 
 ### Batı Anadolu Ve Akdeniz Tatbikatı Eskişehir 08.05.2009 10.05.2009 3 Gün 25 Göller Bölgesi Tatbikatı Konya/ Beyşehir 27.06.2009 29.06.2009 3 Gün 25
 
@@ -448,7 +448,7 @@ Afetlerde Sağlık Yönetimi, Çevre Sağ.Hizm.
 
 Hizmetler Hizmetleri
 
-D Tıbbi Müdahale Bilgisi Modülü
+**D Tıbbi Müdahale Bilgisi Modülü**
 
 ### Medikal Çanta Eğitimi, İlkyardım Eğitimi UMKE Eğitim Salonu 31.07.2009 31.07.2009 8 SAAT 26
 
@@ -466,7 +466,7 @@ Alternatif Ateller İle Hasta/ Yaralı Sabitlenmesi,
 
 Triaj Eğitimi, Crush Sendromu Eğitimi
 
-E Tatbikat Eğitimleri Modülü
+**E Tatbikat Eğitimleri Modülü**
 
 Temel Kampçılık, Afet Ve Olağan Dışı Durumlarda Kamp Alanı ve Tatbikat
 
@@ -478,7 +478,7 @@ Afet Ve Olağandışı Durum Tatbikat Eğitimi Belirlenecektir.
 
 ### Haberleşme Teknikleri UMKE Eğitim Salonu 20.11.2009 20.11.2009 6 SAAT 26
 
-F Geliştirme Eğitimleri Modülü
+**F Geliştirme Eğitimleri Modülü**
 
 6 KBRN Atakları Ve Endüstriyel Kazalar Eğitimi UMKE Eğitim Salonu 15.12.2009 15.12.2009 6 SAAT 26
 

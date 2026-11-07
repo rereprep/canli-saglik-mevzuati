@@ -18,8 +18,8 @@ kontrol_edildi: true
 ## SAĞLIKLI HAYAT MERKEZİ İZLEME VE DEĞERLENDİRME FORMU VE REHBERİ
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Halk Sağlığı Genel Müdürlüğü  
+**SAĞLIK BAKANLIĞI**  
+**Halk Sağlığı Genel Müdürlüğü**  
 
 **Sayı :** 19831278/060.08  
 **Konu :** Sağlıklı Hayat Merkezleri (SHM) İzleme ve Değerlendirme Formu ve Rehberi  
@@ -58,13 +58,13 @@ Genel Müdür
 
 ### SAĞLIKLI HAYAT MERKEZİ İZLEME VE DEĞERLENDİRME FORMU
 
-T.C. SAĞLIK BAKANLIĞI, HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ
+**T.C. SAĞLIK BAKANLIĞI**, HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ
 
-Sağlıklı Hayat Merkezi Adı: ........
+**Sağlıklı Hayat Merkezi Adı**: ........
 
-ÇKYS Kodu: ........
+**ÇKYS Kodu**: ........
 
-Tarih: ......./......./...........
+**Tarih**: ......./......./...........
 
 (Formun tamamına aşağıdaki adresten ulaşabilirsiniz) https://hsgm.saglik.gov.tr/tr/dokumanlar-1/formlar.html
 

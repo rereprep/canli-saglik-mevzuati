@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.34. Kalp Krizi Geçiren Vakaların Yönetimi Genelgesi (2021/3)
+**2.3.34. Kalp Krizi Geçiren Vakaların Yönetimi Genelgesi (2021/3)**
 
 ### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -30,7 +30,7 @@ Prof. Dr. Sabahattin AYDIN
 Bakan a.  
 Bakan Yardımcısı
 
-Dağıtım:
+**Dağıtım:**
 
 **Gereği:** Yükseköğretim Kurulu Başkanlığına; 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
@@ -56,7 +56,7 @@ I. Genel Esaslar
 
 8) Her il, kendi il sınırları içerisindeki kalp krizi geçiren vakaların tedavi algoritmasını ve sağlık tesislerinin rollerini içeren il planını oluşturur ve Bakanlığa sunar.
 
-II. Kalp Krizi Tedavisinde Reperfüzyon Stratejisi Için Temel Esaslar
+**II. Kalp Krizi Tedavisinde Reperfüzyon Stratejisi Için Temel Esaslar**
 
 1) İlk tıbbi temas sonrası ulusal ve uluslararası kılavuzlara uygun süre içerisinde p-PKG uygulaması mümkün değil ise veya kontrendikasyon yoksa aynı kılavuzlara göre belirtilen süre içerisinde fibrinolitik tedavi uygulanır.
 
@@ -66,7 +66,7 @@ b) Bakanlıkça tescillenmiş kalp merkezi olmayan sağlık tesislerinde fibrino
 
 3) P-PKG yapabilen Bakanlıkça tescillenmiş kalp merkezleri yedi gün yirmi dört saat esasına göre hizmet verir.
 
-III. Kalp Krizi Geçiren Vakaya Müdahale Basamakları
+**III. Kalp Krizi Geçiren Vakaya Müdahale Basamakları**
 
 1) Kalp krizi geçiren vakaya müdahale basamakları üçe ayrılır:
 
@@ -86,7 +86,7 @@ c) Üçüncü aşama: EKG'de ST-segment yükselmeli kalp krizi düşünüldüğ�
 
 3- Hastanın bulunduğu yerden ulusal ve uluslararası kılavuzlarda belirtilen sürenin içerisinde işlemin yapılabileceği kalp merkezinin bulunduğu sağlık tesisine ulaşılamayacak yerlerde veya kardiyoloji uzmanı olmayan sağlık tesislerinde iç hastalıkları, yoğun bakım ve acil tıp uzmanları tarafından da fibrinolitik tedavi uygulanır.
 
-IV. Kalp Merkezlerinin Acil İcap Nöbeti Hizmetleri
+**IV. Kalp Merkezlerinin Acil İcap Nöbeti Hizmetleri**
 
 1) Il sağlık müdürlükleri, acil hallerdeki kalp sağlığı uygulamalarının sağlık hizmet bölgesi hizmet sunum anlayışı içerisinde yürütülmesini sağlamak üzere Bakanlıkça tescillenmiş kalp merkezi bulunan sağlık tesisleri için aylık p-PKG icap nöbet çizelgelerini hazırlamak ve imza karşılığı ilgili sağlık tesislerinin yönetimlerine tebliğ etmekle yükümlüdür. Nöbet çizelgelerinin bir sureti 112 Acil Çağrı Merkezine bildirilir.
 

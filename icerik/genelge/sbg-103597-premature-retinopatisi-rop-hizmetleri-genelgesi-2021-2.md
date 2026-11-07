@@ -12,7 +12,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.35. Prematüre Retinopatisi (ROP) Hizmetleri Genelgesi (2021/2)
+**2.3.35. Prematüre Retinopatisi (ROP) Hizmetleri Genelgesi** (2021/2)
 
 ### T.C.
 ### SAĞLIK BAKANLIĞI
@@ -32,9 +32,9 @@ Bu kapsamda, ülkemizde sunulacak ROP hizmetine ilişkin usul ve esaslar aşağ�
 
 ### 1. Tanımlar
 
-1.1. ROP tanı merkezi: 32 haftadan küçük ve 1500 gr altı doğan tüm bebekler ile 32 haftadan büyük ve 1500 gr üstü doğmasına rağmen kardiyopulmoner destek tedavisi uygulanmış veya bebeği takip eden uzman hekimin ROP gelişimi açısından riskli gördüğü prematüre bebeklerin doğumdan sonraki 4-6 hafta içinde ROP tarama muayenesinin yapıldığı merkezleri,
+1.1. **ROP tanı merkezi:** 32 haftadan küçük ve 1500 gr altı doğan tüm bebekler ile 32 haftadan büyük ve 1500 gr üstü doğmasına rağmen kardiyopulmoner destek tedavisi uygulanmış veya bebeği takip eden uzman hekimin ROP gelişimi açısından riskli gördüğü prematüre bebeklerin doğumdan sonraki 4-6 hafta içinde ROP tarama muayenesinin yapıldığı merkezleri,
 
-1.2. ROP tanı ve tedavi merkezi: ROP tanı merkezi faaliyetlerine ilave olarak ROP tanısı alanların tedavilerinin de yapıldığı merkezleri,
+1.2. **ROP tanı ve tedavi merkezi:** ROP tanı merkezi faaliyetlerine ilave olarak ROP tanısı alanların tedavilerinin de yapıldığı merkezleri,
 
 ifade eder.
 

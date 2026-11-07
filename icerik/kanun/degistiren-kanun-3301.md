@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No. 3301 Kabul Tarihi : 4.6.1986
+**Kanun No. 3301 Kabul Tarihi :** 4.6.1986
 
 **MADDE 1 –** 9.8.1983 tarihli ve 2872 sayılı Kanunun 18 inci maddesinin (a), (b), (c), (d) fıkraları aşağıdaki şekilde değiştirilmiştir.
 

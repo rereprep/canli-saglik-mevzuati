@@ -13,7 +13,7 @@ kontrol_edildi: true
 
 ## 10.2. YÖNERGELER
 
-10.2.1. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi
+**10.2.1. Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik** Eğitimi Yönergesi
 
 ## İKİNCİ BÖLÜM Muhakkiklik Eğitiminin Esasları
 
@@ -89,7 +89,7 @@ d) Katılımcıların profilleri dikkate alınarak, eğitim programlarının iç
 
 ## BEŞİNCİ BÖLÜM
 
-Eğitimin Yapılacağı Yer ve Süresi
+**Eğitimin Yapılacağı Yer ve Süresi**
 
 #### Eğitimin yapılacağı yer
 
@@ -125,7 +125,7 @@ Eğitimin Yapılacağı Yer ve Süresi
 
 ## YEDİNCİ BÖLÜM
 
-Eğitim Komisyonunun ve Eğiticilerin Görev, Yetki ve Sorumlulukları
+**Eğitim Komisyonunun ve Eğiticilerin Görev, Yetki ve Sorumlulukları**
 
 #### Eğitim komisyonunun görev, yetki ve sorumlulukları
 

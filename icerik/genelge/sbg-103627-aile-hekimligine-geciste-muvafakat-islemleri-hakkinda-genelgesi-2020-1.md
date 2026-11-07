@@ -14,7 +14,7 @@ kontrol_edildi: true
 ---
 
 
-9.3.6. Aile Hekimliğine Geçişte Muvafakat İşlemleri Hakkında Genelgesi (2020/1)
+**9.3.6. Aile Hekimliğine Geçişte Muvafakat İşlemleri Hakkında** Genelgesi (2020/1)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Yönetim Hizmetleri Genel Müdürlüğü

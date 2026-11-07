@@ -11,7 +11,7 @@ duzeltildi: true
 ---
 
 T.C. SAĞLIK BAKANLIĞI
-Türkiye Halk Sağlığı Kurumu
+**Türkiye Halk Sağlığı Kurumu**
 
 TÜRKİYE HALK SAĞLIĞI KURUMU - TSHK BİRİNCİ BASAMAK SAĞLIK KURULUŞLARI PLANLAMA VE ORGANİZASYON DAİRE BAŞKANLIĞI
 28.03.2016 11:19 - 58271140 - 756.02 - E.539
@@ -60,7 +60,7 @@ Bilgilerini ve gereğini rica ederim.
 
 Prof. Dr. İrfan ŞENCAN
 Bakan a.
-Kurum Başkanı
+**Kurum Başkanı**
 
 Dağıtım:
 81 İl Valiliğine

@@ -13,9 +13,9 @@ ocr: true
 duzeltildi: true
 ---
 
-Kanun No. 6655
+**Kanun No. 6655**
 
-Kabul Tarihi: 25/12/2015
+**Kabul Tarihi: 25/12/2015**
 
 MADDE 1- 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 29 uncu maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “z) 17/4/1957 tarihli ve 6948 sayılı Sanayi Sicili Kanununa göre sanayi sicil belgesini haiz sanayi işletmelerince münhasıran imalat sanayinde kullanılmak üzere alınan makine ve teçhizatın finansmanı için bu işletmeler tarafından kullanılan krediler dolayısıyla lehe alınan paralar (Bu bendin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.).”

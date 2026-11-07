@@ -13,12 +13,12 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.7. TSM Genelgesi (2013/11)
+**6.3.7. TSM Genelgesi (2013/11)**
 
 ## Genelge yazısı
 
 T.C. Sağlık Bakanlığı — Türkiye Halk Sağlığı Kurumu Başkanlığı
-Sayı: 90611027/[?]
+**Sayı**: 90611027/[?]
 Konu: Genelge
 09.07.2013
 

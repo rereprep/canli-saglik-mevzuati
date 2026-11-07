@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.17. Transfüzyon Komitesi Çalışma Esasları ve Görevleri Hakkında Genelge (2004/66)
+**2.3.17. Transfüzyon Komitesi Çalışma Esasları ve Görevleri** Hakkında Genelge (2004/66)
 
 Transfüzyon Komitesi Çalışma Esasları ve Görevleri Hakkındaki Genelge
 
@@ -25,7 +25,7 @@ Tedavi Hizmetleri Genel Müdürlüğü
 SAYI : B100THG0100004/5190
 KONU : Transfüzyon Komitesi
 
-07.05.2004 / 7456
+07.05.2004 **/ 7456**
 
 ......VALİLİĞİNE
 
@@ -44,11 +44,11 @@ Halk sağlığı yönünden yukarıda belirtilen hususların tatbik ve takibinde
 
 Gereğini rica ederim.
 
-Prof. Dr. Necdet ÜNÜVAR
+**Prof. Dr. Necdet ÜNÜVAR**
 Bakan a.
 Müsteşar
 
-EKLER:
+**EKLER:**
 EK 1: Transfüzyon Komitesi Kuruluş Amaçları
 EK 2: Çalışma Esasları ve Görevleri
 

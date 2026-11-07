@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ocr: true
 ---
 
-Kanun No. 4078 Kabul Tarihi: 23.2.1995
+**Kanun No. 4078 Kabul Tarihi: 23.2.1995**
 
 **MADDE 1 –** 6643 sayılı Kanunun 8 inci maddesinin değişik ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 
@@ -77,7 +77,7 @@ c) Bağışlar, yardımlar, yayın gelirleri ve sosyal faaliyetlerden elde edile
 
 Odalar, aidatları Türk Eczacıları Birliği Merkez Heyetince seri ve sıra numaralı olarak basünlan makbuzlar ile tahsil ederler.
 
-Yasama Balama Sayfa .- 13 Sayfa : 14 RESMİ GAZETE 8 Mart 1995 — Sayı: 22221 Bir odadan diğer bir odaya nakil halinde, giriş aidatı ve yıllık aidat yeniden alınmaz.
+**Yasama Balama Sayfa .- 13** Sayfa : 14 RESMİ GAZETE 8 Mart 1995 — Sayı: 22221 Bir odadan diğer bir odaya nakil halinde, giriş aidatı ve yıllık aidat yeniden alınmaz.
 
 Aidatlarını zamanında ödemeyen üyeler, vecibelerini yerine getirinceye kadar oda hiz­ metlerinden faydalanamazlar.
 

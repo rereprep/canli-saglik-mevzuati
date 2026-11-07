@@ -16,7 +16,7 @@ kontrol_edildi: true
 ### T.C. SAĞLIK BAKANLIĞI
 Acil Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : 39947351-010.06-02/
+**Sayı :** 39947351-010.06-02/
 Konu : 112 Acil Çağrı Merkezleri
 
 ### GENELGE
@@ -52,7 +52,7 @@ Yönetmeliğin 6. madde a) fıkrasında "...Kurumların görev alanına giren ac
 
 1. 112 Acil Çağrı Merkezine geçiş yapan ya da bir takvim çerçevesinde geçiş yapılacak olan illerde, Sağlık Bakanlığımıza bağlı Sağlık Komuta Merkezlerinin gerekli olan işlevlerinin sürdürülebilmesi amacı ile:
 
-a) Acil Sağlık Hizmet sunumunda 112 Çağrı Kayıt ve Operasyon Yönetim Sistemi (ÇKOS) yazılımı kullanılan Bakanlığımız Sağlık Komuta Merkezlerinin (İL-SAKOM) işlevlerinin (yoğun bakım yer teyidi, hastaneler arası koordinasyon, acil vakalara danışmanlık, istasyon ekiplerine danışmanlık, illerin ve hasta yakınlarının bilgilendirilmesi, özellikli araç görevlendirilmesi, veri kayıtlarının takibi, personel takibi, organ nakli koordinasyonu, araç ve malzeme takipleri, iller arası nakiller vb.) sürdürülebilirliği sağlanacaktır.
+a) **<i>Acil</i>** Sağlık Hizmet sunumunda 112 Çağrı Kayıt ve Operasyon Yönetim Sistemi (ÇKOS) yazılımı kullanılan Bakanlığımız Sağlık Komuta Merkezlerinin (İL-SAKOM) işlevlerinin (yoğun bakım yer teyidi, hastaneler arası koordinasyon, acil vakalara danışmanlık, istasyon ekiplerine danışmanlık, illerin ve hasta yakınlarının bilgilendirilmesi, özellikli araç görevlendirilmesi, veri kayıtlarının takibi, personel takibi, organ nakli koordinasyonu, araç ve malzeme takipleri, iller arası nakiller vb.) sürdürülebilirliği sağlanacaktır.
 
 b) Tüm İllerimizde Sağlık Komuta Merkezlerinde kullanılan pilot numaraları, faks, DATA, telsiz gibi iletişim hatlarının iptal edilmeden ve devri yapılmadan, açık ve çalışır durumda bulundurulması sağlanacaktır. İllerde metroethernet, PRI, SDH, R/L gibi hatlar ile de iletişim alt yapısı güçlendirilecektir.
 
@@ -86,7 +86,7 @@ Prof. Dr. Eyüp GÜMÜŞ
 Bakan a.
 Müsteşar
 
-Ek: 112 AÇM Tablosu
+**Ek: 112 AÇM** Tablosu
 
 ### DAĞITIM:
 81 İl Valiliği

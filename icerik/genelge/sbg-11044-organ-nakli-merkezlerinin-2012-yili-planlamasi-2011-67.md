@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 ### T.C. SAĞLIK BAKANLIĞI – Tedavi Hizmetleri Genel Müdürlüğü
 
-Sayı: B.10.0.THG.0.14.00.03.020 – 74  
+**Sayı**: B.10.0.THG.0.14.00.03.020 – 74  
 Konu: Organ Nakli Merkezleri 2012 Yılı Planlaması  
 Tarih: 02 Ocak 2012
 

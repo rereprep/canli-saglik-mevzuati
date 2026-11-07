@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-7.3.11. Sağlık Personelinin Öğle Yemek Tatili Genelgesi (2014/1)
+**7.3.11. Sağlık Personelinin Öğle Yemek Tatili Genelgesi (2014/1)**
 
 T.C.
 SAĞLIK BAKANLIĞI

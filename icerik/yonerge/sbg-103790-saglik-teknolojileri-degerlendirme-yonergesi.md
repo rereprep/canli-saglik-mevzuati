@@ -20,7 +20,7 @@ Sayı: 54567092/010.04
 
 Konu: Sağlık Teknolojileri Değerlendirme Yönergesi
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 Sağlık teknolojisi değerlendirme sürecini ve basamaklarını tanımlamak amacıyla, “Sağlık Teknolojisi Değerlendirme Yönergesi” hazırlanmıştır.
 

@@ -13,7 +13,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-2.3.27. Hukuki İşlem Ehliyetine İlişkin Rapor Düzenleme Yetkisi Genelgesi (2014/11)
+**2.3.27. Hukuki İşlem Ehliyetine İlişkin Rapor Düzenleme Yetkisi** Genelgesi (2014/11)
 
 ### T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 

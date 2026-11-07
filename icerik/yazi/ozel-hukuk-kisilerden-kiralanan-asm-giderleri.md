@@ -18,8 +18,8 @@ kontrol_edildi: true
 ## ÖZEL HUKUK KİŞİLERDEN KİRALANAN ASM GİDERLERİ
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Halk Sağlığı Genel Müdürlüğü  
+**SAĞLIK BAKANLIĞI**  
+**Halk Sağlığı Genel Müdürlüğü**  
 
 **Sayı :** 19831278/045.03  
 **Konu :** Görüş  

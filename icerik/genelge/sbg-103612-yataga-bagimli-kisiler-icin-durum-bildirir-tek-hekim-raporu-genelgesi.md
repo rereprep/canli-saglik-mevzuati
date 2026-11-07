@@ -15,7 +15,7 @@ kontrol_edildi: true
 ---
 
 
-2.3.40. Yatağa Bağımlı Kişiler İçin Durum Bildirir Tek Hekim Raporu Genelgesi (2023/4)
+**2.3.40. Yatağa Bağımlı Kişiler İçin Durum Bildirir Tek Hekim** Raporu Genelgesi (2023/4)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü

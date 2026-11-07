@@ -14,7 +14,7 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-9.2.1. Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge
+**9.2.1. Sağlık Bakanlığı Sağlık Hizmetleri ve Yardımcı Sağlık** Hizmetleri Sınıfı Harici Personelin Atama ve Yer Değiştirme Usul ve Esaslarına İlişkin Yönerge
 
 ### Bakanlık Makamına sunuş yazısı
 

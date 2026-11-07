@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.  
-SAĞLIK BAKANLIĞI  
-Verem Savaşı Dairesi Başkanlığı
+**SAĞLIK BAKANLIĞI**  
+**Verem Savaşı Dairesi Başkanlığı**
 
 Sayı : B.10.0.VSD.0.00.00.06-010/3696  
 Konu : Doğrudan Gözetimli Tedavi

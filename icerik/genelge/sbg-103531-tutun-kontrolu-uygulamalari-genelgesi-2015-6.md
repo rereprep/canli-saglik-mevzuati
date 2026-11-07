@@ -13,13 +13,13 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-6.3.44. Tütün Kontrolü Uygulamaları Genelgesi (2015/6)
+**6.3.44. Tütün Kontrolü Uygulamaları Genelgesi (2015/6)**
 
 Sayı: 86696344/010.06
 
 Konu: Tütün Kontrolü Uygulamaları
 
-GENELGE 2015/6
+**GENELGE** 2015/6
 
 Tütün kullanımı, birçok sağlık sorununa yol açan, önlenebilir hastalık ve ölüm sebepleri arasında en önde gelen risk faktörüdür. Maruz kalanların normal yaşam süresini kısaltarak erken ölümüne yol açan tütün ürünü kullanımı, halen dünya genelinde her 10 ölümden bir tanesinin sebebidir. Tütün mamulleri, kullanan kişinin sağlığına ve bütçesine zarar verdiği gibi çevresindeki kişilerin de olumsuz etkilenmesine sebep olmaktadır.
 
@@ -59,9 +59,9 @@ Hususlarında bilgilerini ve gereğini rica ederim.
 
 Dr. Mehmet MÜEZZİNOĞLU
 
-Bakan
+**Bakan**
 
-DAĞITIM:
+**DAĞITIM:**
 
 Gereği
 

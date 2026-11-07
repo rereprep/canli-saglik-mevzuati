@@ -15,8 +15,8 @@ kontrol_edildi: true
 ---
 
 T.C.
-SAĞLIK BAKANLIĞI
-Sağlık Hizmetleri Genel Müdürlüğü
+**SAĞLIK BAKANLIĞI**
+**Sağlık Hizmetleri Genel Müdürlüğü**
 
 SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ
 KAMU, ORGAN, DOKU NAKLİ HİZMETLERİ
@@ -27,8 +27,8 @@ DAİRESİ BAŞKANLIĞI
 Sayı : 54567092
 Konu : Kök Hücre Çalışmaları
 
-GENELGE
-2018/10
+**GENELGE**
+**2018/10**
 
 İlgi : 1/5/2006 tarihli ve 8647 (2006/51) sayılı Genelge.
 
@@ -75,14 +75,14 @@ Bilkent yerleşkesi , Çankaya/Ankara
 Ayrıntılı bilgi için irtibat: H.ACAR
 Tel: 0 (312) 585 1502
 
-DOKU VE HÜCRELERİN KULLANILDIĞI
+**DOKU VE HÜCRELERİN KULLANILDIĞI**
 KLİNİK ARAŞTIRMA VE KLİNİK DENEMELER REHBERİ
 
-Amaç
+**Amaç**
 
 Bu rehber rutin tıbbi uygulama aşamasına gelmemiş olan doku, hücre ve bunlara dayalı ürünlerin uygulamaları hakkındaki bilimsel ve teknolojik gelişmelerin ülkemizde ihtiyacı olan hastaların yararına kullanılabilmesi, araştırma-geliştirme sonucu yeni endüstriyel ürünlerin ortaya çıkabilmesi için gerekli klinik denemelerin ilgili mevzuata uygun olarak yol göstermesi amacıyla Sağlık Bakanlığı tarafından hazırlanmıştır.
 
-Kapsam
+**Kapsam**
 
 1.
 Bu rehber, insan doku, hücreleri ve bunlara dayalı ürünlerin kullanıldığı klinik deneme ve klinik araştırma başvurusu yapmayı düşünenlere, başvuru yapanlara ve çalışmaları yürütmekte olanlara yol göstermek amacına sahip olduğu gibi Bakanlık tarafından bu başvuruların değerlendirilmesi ve yürütülmesi aşamalarında da bir kontrol listesi işlevi görmektedir. Bu rehber, hiç bir mevzuatın yerine geçmeyeceği gibi mevzuatın kısmi veya tam yorumu olarak da anlaşılmamalıdır. Gerekli doğru bilgiye erişmek ve mevzuata uygun davranmak başvuru sahibinin sorumluluğundadır.
@@ -93,7 +93,7 @@ Dünyada ve Türkiye’de yaygın rutin uygulamaya geçmemiş insan doku, hücre
 3.
 Bu rehber insan doku, hücreleri ve bunlara dayalı ürünlerin kullanıldığı klinik araştırma ve klinik denemeler ile ilgili mevzuat hükümlerinin açıklamasını içermektedir. Rehberde yer almayan durumlarda ilgili mevzuat hükümlerinin uygulanması esastır.
 
-Genel Esaslar
+**Genel Esaslar**
 
 İnsan doku, hücreleri ve bunlara dayalı ürünlerin kullanıldığı uygulamalar genel olarak standart tedaviler ve deneysel çalışmalar olmak üzere iki ana grupta sınıflandırılabilirler.
 
@@ -135,7 +135,7 @@ g) Klinik araştırmanın mahiyet ve sonuçları hakkında yeterli bilgilendirme
 
 durumunda müsaade edilen uygulamalardır.
 
-Gereklilikler
+**Gereklilikler**
 
 1.
 Bu rehber Bakanlığın bir taahhütü olarak algılanmamalıdır. Bilimsel Danışma kurulunun görev ve esaslarını belirlemez. Bu rehber değişmez kurallar dizisi değildir ve hastaya sunulan hizmetlerin hukuki standartlarını oluşturmaz. Bakanlık tarafından her başvuru bilimsel ve etik kriterler açısından ve kendi özel koşulları içerisinde değerlendirilir.
