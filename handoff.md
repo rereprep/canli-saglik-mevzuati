@@ -38,6 +38,10 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## Bilinen eksikler / sonraki adımlar
 
+### 2026-11-08 — Bölüm başlıkları ve değişiklik mevzuatının ayıklanması
+- site_uret.bloklari_duzenle: "BİRİNCİ BÖLÜM Başlangıç Hükümleri" → ## BİRİNCİ BÖLÜM + ### Başlangıç Hükümleri (BOLUM_TEK); "**ADI BİRİNCİ BÖLÜM … Amaç MADDE 1-**" yığınları ve satır ortasındaki "**… MADDE n –**" yeni paragrafa ayrılır (BOLUM_GOMULU, _ad_baslik_bol); "**Kapsam MADDE 2 –**" → başlık + etiket (GEÇİCİ/EK hariç). CSS: .metin h2 + h3 boşluksuz.
+- Kullanıcı isteğiyle yalnız 657 DMK, TCK, CMK, 5216 ve 5393'ü değiştiren 88 kanun/KHK siteden çıkarıldı → yedek/cikarilan-degisiklikler/<tür>/ (BENIOKU.md, liste.md; sitede yayımlanmaz). Bu beş kanunun yanında sitedeki başka mevzuatı da değiştiren 63 belge bırakıldı. Ana kanunlar sitede. Geri eklemek: dosyayı icerik/<tür>/ altına taşı. Sınıflandırma: degisiklik-baglari.json (ada göre) + bağı olmayanlarda madde metnindeki "N sayılı" atıfları.
+
 ### 2026-11-07 — Satır sonlarından bölünmüş paragraflar
 - araclar/paragraf_onar.py: aday = noktalama ile bitmeyen düz paragraf + ardından gelen düz paragraf (etiket, liste maddesi, büyük harfli/ad listesi, tablo/rakam satırları hariç). Karar: kaynağın paragraf yapısı (HTML/DOCX paragrafları; PDF metin katmanı ya da taranmış sayfada Vision satır konumları: girinti, kısa satır, dikey boşluk). Kaynakta bulunamazsa yalnız küçük harfle devam eden ve liste maddesi olmayanlar birleştirilir.
 - Sonuç: 266 belge; kaynağa göre 818, kurala göre 1.851 birleştirme; kaynakta ayrı görülen 3.903 yer bırakıldı. "d-)", "ae)", "A5." gibi liste maddeleri sonradan yeniden ayrıldı (104). Metin değişmedi, yalnız satır sonları.
