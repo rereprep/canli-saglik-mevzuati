@@ -68,7 +68,6 @@ Ek:
 
 Dağıtım:
 
-
 Gereği:
 Adana Valiliğine
 (İl Sağlık Müdürlüğü)
@@ -101,6 +100,8 @@ Isparta Valiliğine
 İstanbul Valiliğine
 (İl Sağlık Müdürlüğü)
 İzmir Valiliğine
+(İl Sağlık Müdürlüğü)
+Kahramanmaraş Valiliğine
 (İl Sağlık Müdürlüğü)
 Kayseri Valiliğine
 (İl Sağlık Müdürlüğü)
@@ -140,5 +141,3 @@ Avrupa Birliği Ve Dış İlişkiler Genel Müdürlüğüne
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
 Hukuk Hizmetleri Genel Müdürlüğüne
 Sağlığın Geliştirilmesi Genel Müdürlüğüne
-
-Kahramanmaraş Valiliğine

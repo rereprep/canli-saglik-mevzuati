@@ -33,7 +33,6 @@ Ek: Teknik Şartname (İlçe SM / TSM ve Bağlı Birimleri)
 
 Dağıtım:
 
-
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

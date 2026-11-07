@@ -43,7 +43,6 @@ Ek 3: ASM'de bulundurulması zorunlu asgari ilaç listesi
 
 DAĞITIM:
 
-
 Gereği:
 81 İl Valiliğine
 

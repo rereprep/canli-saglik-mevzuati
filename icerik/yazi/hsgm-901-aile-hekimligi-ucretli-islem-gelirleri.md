@@ -41,7 +41,6 @@ Bakan Yardımcısı
 
 Dağıtım:
 
-
 Gereği:
 Strateji Geliştirme Başkanlığına
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne

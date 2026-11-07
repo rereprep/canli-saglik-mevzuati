@@ -63,7 +63,6 @@ Ek:
 
 Dağıtım:
 
-
 Gereği:
 Adana Valiliğine
 (İl Sağlık Müdürlüğü)
@@ -107,6 +106,8 @@ Mardin Valiliğine
 Samsun Valiliğine
 (İl Sağlık Müdürlüğü)
 Sivas Valiliğine
+(İl Sağlık Müdürlüğü)
+Şanlıurfa Valiliğine
 (İl Sağlık Müdürlüğü)
 Tekirdağ Valiliğine
 (İl Sağlık Müdürlüğü)
@@ -161,6 +162,8 @@ Edirne Valiliğine
 (İl Sağlık Müdürlüğü)
 Elazığ Valiliğine
 (İl Sağlık Müdürlüğü)
+Erzincan Valiliğine
+(İl Sağlık Müdürlüğü)
 Eskişehir Valiliğine
 (İl Sağlık Müdürlüğü)
 Giresun Valiliğine
@@ -210,39 +213,15 @@ Sakarya Valiliğine
 Siirt Valiliğine
 (İl Sağlık Müdürlüğü)
 Sinop İl Sağlık Müdürlüğüne
-Tokat Valiliğine
-(İl Sağlık Müdürlüğü)
-Tunceli Valiliğine
-(İl Sağlık Müdürlüğü)
-Uşak Valiliğine
-(İl Sağlık Müdürlüğü)
-Yalova Valiliğine
-(İl Sağlık Müdürlüğü)
-Yozgat Valiliğine
-(İl Sağlık Müdürlüğü)
-
-Şanlıurfa Valiliğine Erzincan Valiliğine
-
 Şırnak Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Tokat Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Tunceli Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Uşak Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Yalova Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Yozgat Valiliğine
-
 (İl Sağlık Müdürlüğü)

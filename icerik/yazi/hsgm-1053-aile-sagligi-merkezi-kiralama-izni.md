@@ -51,7 +51,6 @@ Ek: Cumhurbaşkanlığı ASM Kiralama İzin Yazısı (2 Sayfa)
 
 Dağıtım:
 
-
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

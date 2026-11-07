@@ -83,7 +83,6 @@ Sağlık Hizmetleri Genel Müdürü
 
 Dağıtım:
 
-
 Gereği:
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne
 (Halk Sağlığı Bilişimi Daire Başkanlığı)

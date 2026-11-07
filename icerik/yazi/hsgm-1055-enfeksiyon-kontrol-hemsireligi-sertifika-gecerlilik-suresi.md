@@ -45,7 +45,6 @@ Ek: Enfeksiyon Kontrol Hemşireliği Sertifikalı Eğitim Standartları
 
 Dağıtım:
 
-
 Gereği:
 81 İl Sağlık Müdürlüğü
 

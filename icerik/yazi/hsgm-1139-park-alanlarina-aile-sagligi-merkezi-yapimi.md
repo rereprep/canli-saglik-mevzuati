@@ -72,7 +72,6 @@ Ek: Çevre Şehircilik ve İklim Değişikliği Bakanlığı Görüş Yazısı
 
 Dağıtım:
 
-
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

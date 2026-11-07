@@ -45,7 +45,6 @@ Bakan Yardımcısı
 
 Dağıtım:
 
-
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

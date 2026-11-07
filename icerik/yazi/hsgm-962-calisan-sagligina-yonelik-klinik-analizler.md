@@ -39,7 +39,6 @@ Kurum Başkanı
 
 DAĞITIM:
 
-
 Gereği:
 81 İl Valiliğine
 (Halk Sağlığı Müdürlüğü)

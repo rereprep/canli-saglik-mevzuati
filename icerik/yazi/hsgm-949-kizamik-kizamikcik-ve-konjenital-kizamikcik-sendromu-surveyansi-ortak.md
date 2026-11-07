@@ -72,7 +72,6 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 Halk Sağlığı Genel Müdürlüğü
@@ -104,6 +103,8 @@ Halk Sağlığı Genel Müdürlüğü
 Halk Sağlığı Genel Müdürlüğü
 (Halk Sağlığı Referans Laboratuvarları Daire Başkanlığına)
 Halk Sağlığı Genel Müdürlüğüne
+(Hukuk ve Mevzuat Daire Başkanlığı)
+Halk Sağlığı Genel Müdürlüğüne
 (İdari İşler Daire Başkanlığı)
 Halk Sağlığı Genel Müdürlüğü
 (Kadın ve Üreme Sağlığı Daire Başkanlığına)
@@ -128,5 +129,3 @@ Halk Sağlığı Genel Müdürlüğü
 (Tütün ve Madde Bağımlılığı ile Mücadele Daire Başkanlığına)
 Halk Sağlığı Genel Müdürlüğüne
 (Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı)
-
-(Hukuk ve Mevzuat Daire Başkanlığı)

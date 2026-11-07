@@ -57,7 +57,6 @@ Ek: Sağlık Bakanlığı Dosya Transfer Linki
 
 Dağıtım:
 
-
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

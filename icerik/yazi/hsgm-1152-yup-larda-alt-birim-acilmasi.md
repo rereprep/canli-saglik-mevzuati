@@ -31,7 +31,6 @@ Halk Sağlığı Genel Müdür Yardımcısı V.
 
 Dağıtım:
 
-
 Gereği:
 Halk Sağlığı Genel Müdürlüğü
 (Birinci Basamak Sağlık Kuruluşları Planlama ve Organizasyon Daire Başkanlığı)

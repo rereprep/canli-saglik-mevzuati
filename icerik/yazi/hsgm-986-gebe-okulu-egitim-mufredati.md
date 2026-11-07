@@ -42,7 +42,6 @@ Ek: Gebe Okulu Eğitim Müfredatı (3 Sayfa)
 
 Dağıtım:
 
-
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

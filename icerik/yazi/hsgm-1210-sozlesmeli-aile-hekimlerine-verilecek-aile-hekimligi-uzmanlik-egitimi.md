@@ -43,7 +43,6 @@ Ek:
 
 Dağıtım:
 
-
 Gereği:
 Yükseköğretim Kurulu Başkanlığına
 Sağlık Hizmetleri Genel Müdürlüğüne

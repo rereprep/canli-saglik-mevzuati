@@ -44,7 +44,6 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-
 Gereği:
 Adli Tıp Kurumu Başkanlığına
 Adalet Bakanlığına
