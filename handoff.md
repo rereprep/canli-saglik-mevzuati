@@ -38,6 +38,10 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## Bilinen eksikler / sonraki adımlar
 
+### 2026-11-07 — Yapışık başlık düzeltmesi
+- hsgm-1029 Sağlıklı Hayat Merkezleri Yönergesi PDF'e göre elle düzenlendi (bölüm başlıkları ##/###, madde başlıkları **koyu**, fıkra/bentler ayrı paragraf, "ifade eder." ayrıldı).
+- site_uret.bloklari_duzenle(): başlık satırına yapışık metni ayırır (290 belge, 763 blok etkileniyordu), MADDE'den hemen önceki ###/#### başlığı koyu madde başlığına çevirir, "# " → "## ". md_html ve duz_bloklar (Word/PDF) kullanır.
+
 ### 2026-11-07 — Koyu/italik biçim aktarımı
 - İşaretler: koyu **...**, italik <i>...</i> (tek * dipnotlarda kullanıldığı için italik etiketle). site_uret: satir_ici, bicim_parcala/word_ekle/pdf_bicim; PDF için Liberation Serif (normal/kalın/italik/kalın italik) — yayinla.yml fonts-liberation kurar.
 - Taranmamış: araclar/bicim_aktar.py (--indir → ../arastirma/bicim-kaynak/, --uygula [--yaz]). Kaynak HTML (b/strong/i/em, satır içi stil ve <style> sınıfları), PDF (yazı tipi adı), DOCX. Metin yeniden aktarılmaz; biçimli parçalar boşluktan bağımsız, kelime sınırında, sırayla eşleşirse işaretlenir. 1.105 belge, ~30.000 işaret. Kaynağın %60'tan fazlası biçimliyse belge atlanır (35).

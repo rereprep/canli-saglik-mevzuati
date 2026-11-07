@@ -487,9 +487,29 @@ def satirlara_bol(blok, hz):
         return yeni
     return satirlar
 
+
+def bloklari_duzenle(govde):
+    """Başlık satırına yapışık metni ayırır; MADDE'den hemen önceki kısa başlığı koyu madde başlığı yapar; '# ' -> '## '."""
+    out = []
+    for blok in re.split(r"\n{2,}", govde.strip()):
+        satirlar = blok.strip().split("\n")
+        if len(satirlar) > 1 and re.match(r"^#{1,4} ", satirlar[0].strip()):
+            out.extend(x.strip() for x in satirlar if x.strip())
+        else:
+            out.append(blok.strip())
+    for j, b in enumerate(out):
+        if re.match(r"^# ", b):
+            out[j] = "#" + b
+    for j, b in enumerate(out[:-1]):
+        m = re.match(r"^#{3,4} (.{1,90})$", b)
+        if m and re.match(r"^\*\*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)", out[j + 1]) and not re.search(r"BÖLÜM|KISIM", m.group(1)):
+            out[j] = "**" + m.group(1).strip().strip("*") + "**"
+    return "\n\n".join(out)
+
+
 def md_html(govde):
     parcalar, sayac = [], 0
-    bloklar = [b.strip() for b in re.split(r"\n{2,}", govde.strip()) if b.strip()]
+    bloklar = [b.strip() for b in re.split(r"\n{2,}", bloklari_duzenle(govde)) if b.strip()]
     hiza = hizalar(bloklar)
     for blok, hz in zip(bloklar, hiza):
         if blok == "---":
@@ -533,7 +553,7 @@ def md_html(govde):
 def duz_bloklar(govde):
     """Word/PDF üretimi için (tip, metin) listesi."""
     govde = XML_DISI.sub("", govde)
-    bloklar = [b.strip() for b in re.split(r"\n{2,}", govde.strip()) if b.strip()]
+    bloklar = [b.strip() for b in re.split(r"\n{2,}", bloklari_duzenle(govde)) if b.strip()]
     for blok, hz in zip(bloklar, hizalar(bloklar)):
         if hz:
             for s in satirlara_bol(blok, hz):
