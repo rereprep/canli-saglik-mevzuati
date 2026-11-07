@@ -500,8 +500,27 @@ def satirlara_bol(blok, hz):
     return satirlar
 
 
+_SIRA = r"(?:BİRİNCİ|İKİNCİ|ÜÇÜNCÜ|DÖRDÜNCÜ|BEŞİNCİ|ALTINCI|YEDİNCİ|SEKİZİNCİ|DOKUZUNCU|ONUNCU|ON\s?BİRİNCİ|ON\s?İKİNCİ|ON\s?ÜÇÜNCÜ|ON\s?DÖRDÜNCÜ|ON\s?BEŞİNCİ|ON\s?ALTINCI|ON\s?YEDİNCİ|ON\s?SEKİZİNCİ|ON\s?DOKUZUNCU|YİRMİNCİ)"
+BOLUM_TEK = re.compile(r"^(#{1,4} |\*\*)?\s*(" + _SIRA + r"\s+(?:BÖLÜM|KISIM|KİTAP|BAP|FASIL))\s*(?:\*\*)?\s*[-–:.]?\s*(\S.*?)(?:\*\*)?$")
+
+
+BOLUM_GOMULU = re.compile(r"\*\*([^*]*?)\s*\b(" + _SIRA + r"\s+(?:BÖLÜM|KISIM))\s+([^*]+?)\s+((?:GEÇİCİ |EK )?(?:MADDE|Madde)\s*\d+[/A-Za-z]*\s*[-–—:]?)\*\*\s*(.*)$", re.S)
+_BAG = {"ve", "ile", "veya", "ya", "da", "de", "için", "ilişkin", "dair", "ait", "hakkında", "göre", "olan", "bazı", "diğer", "çeşitli", "son"}
+
+
+def _ad_baslik_bol(ad):
+    """'Başlangıç Hükümleri Amaç' -> ('Başlangıç Hükümleri', 'Amaç'); madde başlığı son büyük harfli sözcükten başlar."""
+    w = ad.split()
+    for i in range(len(w) - 1, 0, -1):
+        if (w[i][:1].isupper() and all(x[:1].islower() or x.lower() in _BAG or not x[:1].isalpha() for x in w[i + 1:])
+                and w[i - 1].lower() not in ("ve", "ile", "veya")):
+            return " ".join(w[:i]), " ".join(w[i:])
+    return None
+
 def bloklari_duzenle(govde):
     """Başlık satırına yapışık metni ayırır; MADDE'den hemen önceki kısa başlığı koyu madde başlığı yapar; '# ' -> '## '."""
+    # tek paragrafa yığılmış maddeler: satır ortasındaki "**… MADDE n –**" ve "**… BÖLÜM …**" yeni paragraf başlatır
+    govde = re.sub(r"(?<=\S) +\*\*(?=[^*\n]{0,160}?(?:\b(?:MADDE|Madde)\s*\d+[/A-Za-z]*\s*[-–—:]?|" + _SIRA + r"\s+(?:BÖLÜM|KISIM)\b[^*\n]*)\*\*)", "\n\n**", govde)
     out = []
     for blok in re.split(r"\n{2,}", govde.strip()):
         satirlar = blok.strip().split("\n")
@@ -512,6 +531,51 @@ def bloklari_duzenle(govde):
     for j, b in enumerate(out):
         if re.match(r"^# ", b):
             out[j] = "#" + b
+    # "BİRİNCİ BÖLÜM Başlangıç Hükümleri" -> bölüm numarası ve adı ayrı satırlarda (mevzuat.gov.tr düzeni)
+    ayrik = []
+    for b in out:
+        m = BOLUM_TEK.match(b) if "\n" not in b else None
+        if m and not re.search(r"\b(MADDE|Madde)\s*\d", m.group(3)) and len(m.group(3)) <= 250:
+            ayrik += ["## " + m.group(2), "### " + m.group(3).strip().strip("*").strip()]
+        else:
+            ayrik.append(b)
+    out = ayrik
+    # "**ADI YÖNETMELİĞİ BİRİNCİ BÖLÜM Başlangıç Hükümleri Amaç MADDE 1-** metin" -> ayrı satırlar
+    ayrik = []
+    for b in out:
+        kalan = b
+        while True:
+            m = BOLUM_GOMULU.search(kalan) if "\n" not in kalan else None
+            if not m:
+                ayrik.append(kalan); break
+            once = kalan[:m.start()].strip()
+            if once: ayrik.append(once)
+            if m.group(1).strip(): ayrik.append("## " + m.group(1).strip())
+            ayrik.append("## " + m.group(2))
+            iki = _ad_baslik_bol(m.group(3))
+            if iki:
+                ayrik += ["### " + iki[0], "**" + iki[1] + "**"]
+            else:
+                ayrik.append("### " + m.group(3).strip())
+            kalan = "**" + m.group(4).strip() + "** " + m.group(5).strip()
+    out = ayrik
+    # tek başına kalan "GEÇİCİ" / "EK" sözcüğü sonraki MADDE etiketine katılır
+    ayrik = []
+    for b in out:
+        if ayrik and re.fullmatch(r"(?:\*\*)?(GEÇİCİ|Geçici|EK|Ek)(?:\*\*)?", ayrik[-1].strip()) and re.match(r"^\*\*(MADDE|Madde)\s*\d", b):
+            ayrik[-1] = "**" + re.sub(r"\*", "", ayrik[-1]).strip() + " " + b[2:]
+        else:
+            ayrik.append(b)
+    out = ayrik
+    # "**Kapsam MADDE 2 –** metin" -> "**Kapsam**" + "**MADDE 2 –** metin"
+    ayrik = []
+    for b in out:
+        m = re.match(r"^\*\*([A-ZÇĞİÖŞÜ][^*\n]{1,80}?)\s+((?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)\s*\d+[/A-Za-z]*\s*[-–—:]?)\*\*(.*)$", b, re.S)
+        if m and not re.search(r"(BÖLÜM|KISIM)", m.group(1)) and not re.fullmatch(r"(GEÇİCİ|Geçici|EK|Ek|MÜKERRER|Mükerrer)", m.group(1).strip()):
+            ayrik += ["**" + m.group(1).strip() + "**", "**" + m.group(2) + "**" + m.group(3)]
+        else:
+            ayrik.append(b)
+    out = ayrik
     # Konu'nun ayrı paragrafa düşmüş devam satırı ve İlgi'nin b), c) … maddeleri kendi bloğuna katılır
     birlesik = []
     for b in out:

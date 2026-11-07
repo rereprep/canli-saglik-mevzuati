@@ -97,3 +97,4 @@ table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 .metin .kunye{display:grid;grid-template-columns:3.6em .9em 1fr}
 .metin .kunye .dg{min-width:0}
 .metin .kunye-duz{display:block}
+.metin h2 + h3{margin-top:0}

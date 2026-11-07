@@ -13,7 +13,13 @@ kaynak_url: "https://ozvatandh.saglik.gov.tr/TR-990819/hekim-secme-yonergesi.htm
 
 Sağlık hizmeti sunumunda poliklinik hizmetlerinin hastaların hekimini seçmesine ve değiştirmesine imkân verecek şekilde düzenlenmesi hakkında yönerge
 
-BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak, Tanımlar ve İlkeler Amaç Madde 1 – (1) Bu Yönergenin amacı; hastaların sağlık hizmeti alacağı veya almakta olduğu hekimi serbestçe seçmesine, değiştirmesine, sağlık kurumlarındaki hekimlerin buna uygun poliklinik hizmeti vermesine yönelik tedbirlerin alınmasına ve bu amaçla gerekli hizmet, fizik ve personel altyapısının oluşturulmasına ilişkin usul ve esasları belirlemektir.
+## BİRİNCİ BÖLÜM
+
+### Amaç, Kapsam, Dayanak, Tanımlar ve İlkeler
+
+**Amaç**
+
+**Madde 1 –** (1) Bu Yönergenin amacı; hastaların sağlık hizmeti alacağı veya almakta olduğu hekimi serbestçe seçmesine, değiştirmesine, sağlık kurumlarındaki hekimlerin buna uygun poliklinik hizmeti vermesine yönelik tedbirlerin alınmasına ve bu amaçla gerekli hizmet, fizik ve personel altyapısının oluşturulmasına ilişkin usul ve esasları belirlemektir.
 
 Kapsam Madde 2 – (1) Bu Yönerge, Sağlık Bakanlığı’na bağlı birinci basamak sağlık kuruluşları ile ilçe hastaneleri, genel hastaneler, özel dal hastaneleri, eğitim ve araştırma hastaneleri ve ağız ve diş sağlığı merkezlerini kapsar. Dayanak Madde 3 - (1) Bu Yönerge; 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin (d) bendi, 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Yataklı Tedavi Kurumları İşletme Yönetmeliğinin değişik 8 inci maddesi, 1/8/1998 tarihli ve 23420 sayılı Hasta Hakları Yönetmeliğinin 9 uncu maddesi hükümleri göz önünde bulundurularak 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesine dayanılarak hazırlanmıştır.
 
