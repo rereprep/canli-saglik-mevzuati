@@ -360,9 +360,9 @@ def satir_ici(s):
 _TARIH = r"\d{1,2}[./]\d{1,2}[./]\d{4}"
 _SOL = re.compile(r"^(Sayı|SAYI|Konu|KONU|İlgi|İLGİ|İlgi\s*\(?[a-zA-Z]\)?|Eki?|EKİ?|Ekler|EKLER|Ek\s*-?\s*\d+|EK\s*-?\s*\d+|Dağıtım|DAĞITIM|Gereği|GEREĞİ|Bilgi|BİLGİ)\s*[:：]")
 _DAGITIM = re.compile(r"^(Dağıtım|DAĞITIM|Gereği|GEREĞİ|Bilgi|BİLGİ)\s*[:：]?\s*$|^(Dağıtım|DAĞITIM)\s*[:：]")
-_KAPANIS = re.compile(r"(ederim|ederiz|olunur|rica ederim|arz ederim)\s*[.,]?\s*$", re.I)
+_KAPANIS = re.compile(r"((arz|rica|arz\s*/\s*rica|rica\s*/\s*arz|arz ve rica)\s+(ederim|ederiz)|(arz|rica) olunur|saygılarımla)", re.I)
 _KURUM = re.compile(r"^(T\.\s?C\.?|.{0,70}(BAKANLIĞI|Bakanlığı|MÜDÜRLÜĞÜ|Müdürlüğü|BAŞKANLIĞI|Başkanlığı|VALİLİĞİ|Valiliği|KURUMU|Kurumu|Hastanesi|HASTANESİ|Rektörlüğü|REKTÖRLÜĞÜ))$")
-_UNVAN = re.compile(r"^((Prof\.|Doç\.|Dr\.|Uzm\.|Op\.|Av\.|Ecz\.).{0,50}|Bakan( a\.| V\.)?|Bakan Yardımcısı|Vali( a\.| V\.)?|.{0,45}(Genel Müdür|Başkan|Müdür|Müsteşar|Sekreter|Daire Başkanı)( V\.| a\.| Yardımcısı)?)$")
+_UNVAN = re.compile(r"^((Prof\.|Doç\.|Dr\.|Uzm\.|Op\.|Av\.|Ecz\.).{0,50}|Bakan( a\.?| V\.)?|Bakan Yard\w+|Vali( a\.?| V\.)?|.{0,45}(Genel Müdür|Başkan|Müdür|Müsteşar|Sekreter|Daire Başkanı)( V\.| a\.| Yardımcısı)?)$")
 
 
 def _duz(s):
@@ -410,10 +410,10 @@ def hizalar(bloklar):
                 uzun_goruldu = True
             if durum == "imza":
                 durum = None
-        if h is None and _KAPANIS.search(t):
+        if h is None and _KAPANIS.search(t[-45:]):
             durum = "imza"
-        elif h == "imza":
-            durum = "imza"
+        elif h == "imza" and durum == "imza":
+            pass
         elif durum == "imza" and h not in ("imza",):
             durum = "dagitim" if durum == "dagitim" else None
         sonuc.append(h)
