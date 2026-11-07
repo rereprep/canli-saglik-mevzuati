@@ -47,6 +47,10 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-81 İl Sağlık Müdürlüğü Sağlık Bilgi Sistemleri Genel Müdürlüğüne (Halk Sağlığı Bilişimi Daire Başkanlığı)
+Gereği:
+81 İl Sağlık Müdürlüğü
+
+Bilgi:
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
+(Halk Sağlığı Bilişimi Daire Başkanlığı)

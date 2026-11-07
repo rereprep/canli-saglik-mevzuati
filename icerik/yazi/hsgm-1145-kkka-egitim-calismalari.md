@@ -55,6 +55,7 @@ Ek: KKKA Eğitim Çalışmaları Tablosu 2026 (1-KKKA Toplu Halk Eğitimleri, 2-
 
 Dağıtım:
 
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

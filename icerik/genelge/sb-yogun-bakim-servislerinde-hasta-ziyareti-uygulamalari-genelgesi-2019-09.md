@@ -85,6 +85,7 @@ Bakan a.
 Bakan Yardımcısı
 
 DAĞITIM:
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlükleri)
 Yükseköğretim Kurulu Başkanlığına

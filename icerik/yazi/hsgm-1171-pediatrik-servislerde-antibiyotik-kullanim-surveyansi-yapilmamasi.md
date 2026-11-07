@@ -39,6 +39,7 @@ Ek: Pediatrik Servislerde AKS Veri Girişi Yapılan Hastaneler Listesi
 
 Dağıtım:
 
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

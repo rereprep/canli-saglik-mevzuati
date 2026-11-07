@@ -48,9 +48,13 @@ Ek: Sosyal Yardım Kılavuzu (25 sayfa)
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-SBSGM, Halk Sağlığı Bilişimi Dairesi Başkanlığı Aile ve Sosyal Hizmetler Bakanlığına 81 İl Valiliğine, İl Sağlık Müdürlüğü
+Gereği:
+SBSGM, Halk Sağlığı Bilişimi Dairesi Başkanlığı
+81 İl Valiliğine, İl Sağlık Müdürlüğü
+
+Bilgi:
+Aile ve Sosyal Hizmetler Bakanlığına
 
 T.C.
 

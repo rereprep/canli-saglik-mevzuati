@@ -77,6 +77,7 @@ Bakan a.
 Müsteşar
 
 DAĞITIM:
+
 Gereği:
 1) 81 İl Valiliği
 2) Türkiye Kamu Hastaneleri Kurumu Başkanlığı

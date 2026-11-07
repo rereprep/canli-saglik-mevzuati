@@ -52,8 +52,11 @@ Bakan a.
 Genel Müdür
 
 DAĞITIM
-Gereği:  Bilgi:
-81 İl Valiliği (İl Sağlık Müdürlüğü)  Yönetim Hizmetleri Genel Müdürlüğü
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
+
+Bilgi:
+Yönetim Hizmetleri Genel Müdürlüğü
 
 Aile Hekimliği Daire Başkanlığı
 Adres: Sağlık Mahallesi A. Adnan Saygun 2 Caddesi No: 55 06100 Sıhhiye/Ankara

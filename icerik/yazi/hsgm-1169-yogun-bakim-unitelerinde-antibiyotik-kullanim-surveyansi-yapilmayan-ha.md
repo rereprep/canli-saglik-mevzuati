@@ -41,6 +41,7 @@ Ek: Yoğun Bakım Ünitelerinde Antibiyotik Kullanım Sürveyansı Yapılmayan H
 
 Dağıtım:
 
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

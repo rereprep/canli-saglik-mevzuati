@@ -58,8 +58,12 @@ Sağlık Bakanı
 Ek: Aile Sağlığı Merkezi Kurumsal Kimlik Kılavuzu
 
 Dağıtım:
-Gereği:                                      Bilgi:
-81 İl Valiliği (İl Sağlık Müdürlüğü)        B Planı (Merkez Teşkilat)
+
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
+
+Bilgi:
+B Planı (Merkez Teşkilat)
 
 Birinci Basamak Sağlık Kuruluşları Planlama ve Organizasyon Daire Başkanlığı
 

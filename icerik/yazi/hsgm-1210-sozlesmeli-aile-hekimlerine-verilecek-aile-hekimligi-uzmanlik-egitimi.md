@@ -43,12 +43,13 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-Yükseköğretim Kurulu Başkanlığına Strateji Geliştirme Başkanlığına
-
-Sağlık Hizmetleri Genel Müdürlüğüne Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
+Gereği:
+Yükseköğretim Kurulu Başkanlığına
+Sağlık Hizmetleri Genel Müdürlüğüne
 Kamu Hastaneleri Genel Müdürlüğüne
-
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+Bilgi:
+Strateji Geliştirme Başkanlığına
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne

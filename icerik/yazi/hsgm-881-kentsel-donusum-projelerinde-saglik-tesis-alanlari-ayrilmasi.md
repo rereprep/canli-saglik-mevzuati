@@ -32,8 +32,11 @@ Bakan a.
 Kurum Başkanı
 
 DAĞITIM
-Gereği:                                      Bilgi:
-81 İl Valiliğine (Halk Sağlığı Müdürlüğü)    81 İl Valiliğine (İl Sağlık Müdürlüğü)
+Gereği:
+81 İl Valiliğine (Halk Sağlığı Müdürlüğü)
+
+Bilgi:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
 Birinci Basamak Sağlık Kuruluşları Planlama ve Organizasyon Daire Başkanlığı          Bilgi için: S.YILMAZ
 Telefon: 0312 565 59 22  Belgegeçer:0312 565 59 24  e-posta:birincibasamak@saglik.gov.tr

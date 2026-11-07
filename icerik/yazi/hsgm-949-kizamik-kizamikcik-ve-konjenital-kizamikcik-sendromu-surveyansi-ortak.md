@@ -72,126 +72,61 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-81 İl Valiliğine (İl Sağlık Müdürlüğü) Halk Sağlığı Genel Müdürlüğü
-
-Halk Sağlığı Genel Müdürlüğü (Aile Hekimliği Eğitim ve İzleme Daire Başkanlığına)
-
-(Mikrobiyoloji Referans Laboratuvarı ve Biyolojik Halk Sağlığı Genel Müdürlüğüne
-
-Ürünler Daire Başkanlığına) (Aile Hekimliği Uygulama ve Geliştirme Daire
-
-Başkanlığı)
-
-Halk Sağlığı Genel Müdürlüğüne
-
-(Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Daire
-
-Başkanlığı)
-
+Gereği:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 Halk Sağlığı Genel Müdürlüğü
+(Mikrobiyoloji Referans Laboratuvarı ve Biyolojik Ürünler Daire Başkanlığına)
 
-(Birinci Basamak Sağlık Kuruluşları Planlama ve
-
-Organizasyon Daire Başkanlığı)
-
-Halk Sağlığı Genel Müdürlüğüne
-
-(Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi
-
-Başkanlığına)
-
+Bilgi:
 Halk Sağlığı Genel Müdürlüğü
-
+(Aile Hekimliği Eğitim ve İzleme Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğüne
+(Aile Hekimliği Uygulama ve Geliştirme Daire Başkanlığı)
+Halk Sağlığı Genel Müdürlüğüne
+(Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Daire Başkanlığı)
+Halk Sağlığı Genel Müdürlüğü
+(Birinci Basamak Sağlık Kuruluşları Planlama ve Organizasyon Daire Başkanlığı)
+Halk Sağlığı Genel Müdürlüğüne
+(Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığına)
+Halk Sağlığı Genel Müdürlüğü
 (Bütçe ve Projeler Daire Başkanlığına)
-
 Halk Sağlığı Genel Müdürlüğü
-
 (Çalışan Sağlığı Daire Başkanlığına)
-
 Halk Sağlığı Genel Müdürlüğüne
-
 (Çevre Sağlığı Daire Başkanlığı)
-
 Halk Sağlığı Genel Müdürlüğü
-
 (Çocuk ve Ergen Sağlığı Daire Başkanlığına)
-
 Halk Sağlığı Genel Müdürlüğü)
-
 (Halk Sağlığı Genel Müdürlük Bürosu)
-
 Halk Sağlığı Genel Müdürlüğü
-
 (Göç Sağlığı Daire Başkanlığına)
-
 Halk Sağlığı Genel Müdürlüğü
-
-(Halk Sağlığı Referans Laboratuvarları Daire
-
-Başkanlığına)
-
+(Halk Sağlığı Referans Laboratuvarları Daire Başkanlığına)
 Halk Sağlığı Genel Müdürlüğüne
+(İdari İşler Daire Başkanlığı)
+Halk Sağlığı Genel Müdürlüğü
+(Kadın ve Üreme Sağlığı Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğü
+(Kalite Koordinatörlüğü)
+Halk Sağlığı Genel Müdürlüğü
+(Kanser Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğü
+(Kronik Hastalıklar ve Yaşlı Sağlığı Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğüne
+(Mali İşler ve Stok Yönetimi Daire Başkanlığı)
+Halk Sağlığı Genel Müdürlüğüne (Medya ve Bilişim Koordinatörlüğü)
+Halk Sağlığı Genel Müdürlüğü
+(Ruh Sağlığı Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğüne
+(Sağlıklı Beslenme ve Hareketli Hayat Daire Başkanlığı)
+Halk Sağlığı Genel Müdürlüğü
+(Toplum Sağlığı Hizmetleri ve Eğitim Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğü
+(Tüberküloz Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğü
+(Tütün ve Madde Bağımlılığı ile Mücadele Daire Başkanlığına)
+Halk Sağlığı Genel Müdürlüğüne
+(Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı)
 
 (Hukuk ve Mevzuat Daire Başkanlığı)
-
-Halk Sağlığı Genel Müdürlüğüne
-
-(İdari İşler Daire Başkanlığı)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Kadın ve Üreme Sağlığı Daire Başkanlığına)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Kalite Koordinatörlüğü)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Kanser Daire Başkanlığına)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Kronik Hastalıklar ve Yaşlı Sağlığı Daire
-
-Başkanlığına)
-
-Halk Sağlığı Genel Müdürlüğüne
-
-(Mali İşler ve Stok Yönetimi Daire Başkanlığı)
-
-Halk Sağlığı Genel Müdürlüğüne (Medya ve Bilişim
-
-Koordinatörlüğü)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Ruh Sağlığı Daire Başkanlığına)
-
-Halk Sağlığı Genel Müdürlüğüne
-
-(Sağlıklı Beslenme ve Hareketli Hayat Daire
-
-Başkanlığı)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Toplum Sağlığı Hizmetleri ve Eğitim Daire
-
-Başkanlığına)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Tüberküloz Daire Başkanlığına)
-
-Halk Sağlığı Genel Müdürlüğü
-
-(Tütün ve Madde Bağımlılığı ile Mücadele Daire
-
-Başkanlığına)
-
-Halk Sağlığı Genel Müdürlüğüne
-
-(Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı)

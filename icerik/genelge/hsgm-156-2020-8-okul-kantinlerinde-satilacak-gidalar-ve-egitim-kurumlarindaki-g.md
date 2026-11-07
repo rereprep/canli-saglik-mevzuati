@@ -217,6 +217,7 @@ Bakan
 
 Dağıtım:
 
+
 Gereği:
 A ve B Planı
 

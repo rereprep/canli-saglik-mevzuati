@@ -41,6 +41,7 @@ Bakan a.
 Müsteşar
 
 DAĞITIM:
+
 Gereği:
 Türkiye Kamu Hastaneleri Kurumuna
 81 İl Valiliğine

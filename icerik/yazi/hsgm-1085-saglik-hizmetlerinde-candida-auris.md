@@ -27,15 +27,14 @@ Bakan a.
 Genel Müdür
 Ek: Sağlık Hizmetlerinde Candida auris (Rehber)
 Dağıtım:
-Gereği: Bilgi:
-81 İl Sağlık Müdürlüğü Sağlık Hizmetleri Genel Müdürlüğüne
 
+Gereği:
+81 İl Sağlık Müdürlüğü
+
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğüne
 Sağlığın Geliştirilmesi Genel Müdürlüğüne
-
 Kamu Hastaneleri Genel Müdürlüğüne
-
 Türkiye İlaç Ve Tıbbi Cihaz Kurumu Başkanlığına
-
 Halk Sağlığı Genel Müdürlüğüne
-
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne

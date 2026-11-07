@@ -31,10 +31,10 @@ Halk Sağlığı Genel Müdür Yardımcısı V.
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-Halk Sağlığı Genel Müdürlüğü 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+Gereği:
+Halk Sağlığı Genel Müdürlüğü
+(Birinci Basamak Sağlık Kuruluşları Planlama ve Organizasyon Daire Başkanlığı)
 
-(Birinci Basamak Sağlık Kuruluşları Planlama ve
-
-Organizasyon Daire Başkanlığı)
+Bilgi:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)

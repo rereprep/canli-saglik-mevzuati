@@ -68,8 +68,11 @@ Ek 1 : Celp Dönemi Takvimi ( 1 Adet )
 
 ### DAĞITIM :
 
-Gereği : Bilgi : Valilikler Milli Savunma Bakanlığı
+Gereği:
+Valilikler
 
+Bilgi:
+Milli Savunma Bakanlığı
 İçişleri Bakanlığı
 
 ### YEDEK SUBAY CELP DÖNEMLERİ TAKVİMİ CELP DÖNEMİ GÖREVİYLE İLİŞİĞİNİN ASKERLİK ŞUBESİNDEN KESİLECEĞİ TARİH SEVK TARİHİ ŞUBAT CELBİ 30 OCAK 31 OCAK NİSAN CELBİ 30 MART 31 MART HAZİRAN CELBİ 30 MAYIS 31 MAYIS AĞUSTAS CELBİ 30 TEMMUZ 31 TEMMUZ EKİM CELBİ 29 EYLÜL 30 EYLÜL ARALIK CELBİ 29 KASIM 30 KASIM

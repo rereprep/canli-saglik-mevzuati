@@ -41,8 +41,12 @@ Bakan Yardımcısı
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-Strateji Geliştirme Başkanlığına Hukuk Hizmetleri Genel Müdürlüğüne
+Gereği:
+Strateji Geliştirme Başkanlığına
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
+81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-Sağlık Bilgi Sistemleri Genel Müdürlüğüne Teftiş Kurulu Başkanlığına 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+Bilgi:
+Hukuk Hizmetleri Genel Müdürlüğüne
+Teftiş Kurulu Başkanlığına

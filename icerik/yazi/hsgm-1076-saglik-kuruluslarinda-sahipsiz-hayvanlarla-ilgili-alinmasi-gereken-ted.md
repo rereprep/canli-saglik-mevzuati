@@ -50,6 +50,7 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

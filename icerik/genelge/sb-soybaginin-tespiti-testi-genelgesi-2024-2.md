@@ -115,6 +115,7 @@ EKLER:
 6. Bakanlığımızca Yetkilendirilmiş Genetik Hastalıklar Değerlendirme Merkezleri İsim Listesi (Ek-6)
 
 DAĞITIM:
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

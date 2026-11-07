@@ -69,6 +69,7 @@ Ekler:
 5- Kayıtların Tutulması ve Saklama Standardı
 
 Dağıtım:
+
 Gereği:
 81 İl Valiliği (İl Sağlık Müdürlüğü)
 

@@ -68,128 +68,77 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-Adana Valiliğine Kamu Hastaneleri Genel Müdürlüğüne
-
-(İl Sağlık Müdürlüğü) Sağlık Hizmetleri Genel Müdürlüğüne
-
-Adıyaman Valiliğine Avrupa Birliği Ve Dış İlişkiler Genel Müdürlüğüne (İl Sağlık Müdürlüğü) Sağlık Bilgi Sistemleri Genel Müdürlüğüne
-
-Ankara Valiliğine Hukuk Hizmetleri Genel Müdürlüğüne
-
-(İl Sağlık Müdürlüğü) Sağlığın Geliştirilmesi Genel Müdürlüğüne
-
+Gereği:
+Adana Valiliğine
+(İl Sağlık Müdürlüğü)
+Adıyaman Valiliğine
+(İl Sağlık Müdürlüğü)
+Ankara Valiliğine
+(İl Sağlık Müdürlüğü)
 Batman Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Burdur Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Bursa Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Denizli Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Diyarbakır Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Düzce Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Elazığ Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Eskişehir Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Gaziantep Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Hatay Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 Isparta Valiliğine
-
 (İl Sağlık Müdürlüğü)
-
 İstanbul Valiliğine
-
+(İl Sağlık Müdürlüğü)
+İzmir Valiliğine
+(İl Sağlık Müdürlüğü)
+Kayseri Valiliğine
+(İl Sağlık Müdürlüğü)
+Kilis Valiliğine
+(İl Sağlık Müdürlüğü)
+Kocaeli Valiliğine
+(İl Sağlık Müdürlüğü)
+Konya Valiliğine
+(İl Sağlık Müdürlüğü)
+Malatya Valiliğine
+(İl Sağlık Müdürlüğü)
+Manisa Valiliğine
+(İl Sağlık Müdürlüğü)
+Mardin Valiliğine
+(İl Sağlık Müdürlüğü)
+Mersin Valiliğine
+(İl Sağlık Müdürlüğü)
+Muğla Valiliğine
+(İl Sağlık Müdürlüğü)
+Nevşehir Valiliğine
+(İl Sağlık Müdürlüğü)
+Osmaniye Valiliğine
+(İl Sağlık Müdürlüğü)
+Sakarya Valiliğine
+(İl Sağlık Müdürlüğü)
+Samsun Valiliğine
+(İl Sağlık Müdürlüğü)
+Şanlıurfa Valiliğine
+(İl Sağlık Müdürlüğü)
+Yalova Valiliğine
 (İl Sağlık Müdürlüğü)
 
-İzmir Valiliğine
+Bilgi:
+Kamu Hastaneleri Genel Müdürlüğüne
+Sağlık Hizmetleri Genel Müdürlüğüne
+Avrupa Birliği Ve Dış İlişkiler Genel Müdürlüğüne
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
+Hukuk Hizmetleri Genel Müdürlüğüne
+Sağlığın Geliştirilmesi Genel Müdürlüğüne
 
 Kahramanmaraş Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Kayseri Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Kilis Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Kocaeli Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Konya Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Malatya Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Manisa Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Mardin Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Mersin Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Muğla Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Nevşehir Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Osmaniye Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Sakarya Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Samsun Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Şanlıurfa Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Yalova Valiliğine
-
-(İl Sağlık Müdürlüğü)

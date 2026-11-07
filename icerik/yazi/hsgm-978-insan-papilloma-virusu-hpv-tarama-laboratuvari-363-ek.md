@@ -29,12 +29,12 @@ Bilgilerini ve gereğini rica ederim.
 
 DAĞITIM:
 
-Gereği: Bilgi:
 
-Aydın, Denizli ve Muğla Valiliğine (İl Sağlık Müdürlüğü)
+Gereği:
+Aydın, Denizli ve Muğla Valiliğine
+(İl Sağlık Müdürlüğü)
 
+Bilgi:
 78 İl Valiliğine (İl Sağlık Müdürlüğü)
-
 HSGM Kanser Daire Başkanlığına
-
-HSGM Mikrobiyoloji Referans Lab. ve Biyolojik Ürünler Daire Başkanlığına
+HSGM Mikrobiyoloji Referans Lab.ve Biyolojik Ürünler Daire Başkanlığına

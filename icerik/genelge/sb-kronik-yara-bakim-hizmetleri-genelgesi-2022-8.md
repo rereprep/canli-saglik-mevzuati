@@ -39,6 +39,7 @@ Bakan Yardımcısı
 Ek: Kronik Yara Bakım Hizmetlerine İlişkin Usul ve Esaslar (8 sayfa)
 
 Dağıtım:
+
 Gereği:
 81 İl Valiliği (İl Sağlık Müdürlüğü)
 

@@ -39,11 +39,13 @@ Kurum Başkanı
 
 DAĞITIM:
 
-Gereği: Bilgi:
 
-8 I İl Valiliğine Çalışan Sağlığı Daire Başkanlığına
-
+Gereği:
+81 İl Valiliğine
 (Halk Sağlığı Müdürlüğü)
+
+Bilgi:
+Çalışan Sağlığı Daire Başkanlığına
 
 Sağlık Mahallesi Adnan Saygwı Cad. o: $5 Sılıhıye-AKARA
 

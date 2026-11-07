@@ -51,9 +51,12 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-Valilikler Sağlık Hizmetleri Genel Müdürlüğüne
+Gereği:
+Valilikler
+
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğüne
 
 Çankaya/Ankara 06800 Hemşire
 

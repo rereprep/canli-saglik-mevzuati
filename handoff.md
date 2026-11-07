@@ -39,6 +39,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 ## Bilinen eksikler / sonraki adımlar
 
 ### 2026-11-07 — Gereği/Bilgi iki sütun düzeltmesi
+- Kalan 26 belge kaynak PDF'lerden düzeltildi: ../.gbindir.py (PDF indirme → ../arastirma/gb-pdf/), ../.gbsutun.py (pdfplumber kelime konumlarıyla sütun ayırma, sayfa geçişli), ../.gbyaz.py (eski karışık blokları silip Gereği/Bilgi bloklarını yazar; EL sözlüğünde elle düzeltilen 9 belge). "Dağıtım:" ile "Gereği:" arasına boş satır eklendi. Artık karışık "Gereği: Bilgi:" satırı kalmadı; 163 sayfada iki sütun.
 - Kaynak PDF'te yan yana duran "Gereği:" ve "Bilgi:" sütunları aktarımda tek satıra karışmıştı ("Gereği: Bilgi: 81 İl Valiliğine ... A PLANI ...").
 - ../.gerbil.py (önizleme; --yaz ile uygular): 100 belgede ayrı "Gereği:" ve "Bilgi:" bloklarına ayrıldı, Bilgi kurumları satır satır. Kalıba uymayan 20 belge değiştirilmedi.
 - site_uret.md_html ardışık Gereği/Bilgi bloklarını div.iki-sutun içinde yan yana gösterir (stil.css; dar ekranda alt alta). Paragraf başı girintisi: .metin > p:not([class]), p.madde.

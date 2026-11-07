@@ -61,6 +61,7 @@ EKLER:
 5- Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi, Standart Tanı, Sürveyans ve Laboratuvar Rehberi (CD)
 
 DAĞITIM:
+
 Gereği:
 81 İl Valiliğine
 

@@ -45,8 +45,10 @@ Ek: Enfeksiyon Kontrol Hemşireliği Sertifikalı Eğitim Standartları
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-81 İl Sağlık Müdürlüğü Sağlık Hizmetleri Genel Müdürlüğü
+Gereği:
+81 İl Sağlık Müdürlüğü
 
+Bilgi:
+Sağlık Hizmetleri Genel Müdürlüğü
 Kamu Hastaneleri Genel Müdürlüğü

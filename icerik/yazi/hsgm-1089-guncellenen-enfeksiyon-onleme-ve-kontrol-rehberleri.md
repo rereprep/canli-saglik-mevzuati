@@ -43,12 +43,12 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-81 İl Sağlık Müdürlüğü Sağlığın Geliştirilmesi Genel Müdürlüğüne
+Gereği:
+81 İl Sağlık Müdürlüğü
 
+Bilgi:
+Sağlığın Geliştirilmesi Genel Müdürlüğüne
 Kamu Hastaneleri Genel Müdürlüğüne
-
 Sağlık Hizmetleri Genel Müdürlüğüne
-
 Sağlık Bilgi Sistemleri Genel Müdür Yardımcılığı

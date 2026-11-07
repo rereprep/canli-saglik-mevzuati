@@ -165,6 +165,7 @@ Bakan a.
 Müsteşar
 
 DAĞITIM:
+
 Gereği:
 81 İl Valiliği (İl Sağlık Müdürlüğü)
 
@@ -203,6 +204,7 @@ Genel Müdür Yardımcısı
 Ek: İlgi Genelge (8 Sayfa)
 
 Dağıtım:
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

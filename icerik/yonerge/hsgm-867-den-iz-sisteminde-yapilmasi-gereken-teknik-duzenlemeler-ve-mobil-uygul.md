@@ -83,16 +83,17 @@ Sağlık Hizmetleri Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
+
+Gereği:
+Sağlık Bilgi Sistemleri Genel Müdürlüğüne
+(Halk Sağlığı Bilişimi Daire Başkanlığı)
+
+Bilgi:
+Acil Sağlık Hizmetleri Genel Müdürlüğüne
+(112 Acil Sağlık Hizmetleri Daire Başkanlığı)
+Halk Sağlığı Genel Müdürlüğüne
+(Aile Hekimliği Eğitim ve İzleme Daire Başkanlığı)
 
 T.C. Sağlık Bakanlığı Üniversiteler Mahallesi Şehit Mehmet Bayraktar Caddesi No: Bilgi için: Resul YILDIZ 3 Çankaya/ANKARA 06800 Sağlık Uzmanı https://shgmdenetimdb.saglik.gov.tr/ 2/3
-
-Sağlık Bilgi Sistemleri Genel Müdürlüğüne (Halk Acil Sağlık Hizmetleri Genel Müdürlüğüne (112 Acil
-
-Sağlığı Bilişimi Daire Başkanlığı) Sağlık Hizmetleri Daire Başkanlığı)
-
-Halk Sağlığı Genel Müdürlüğüne (Aile Hekimliği
-
-Eğitim ve İzleme Daire Başkanlığı)
 
 T.C. Sağlık Bakanlığı Üniversiteler Mahallesi Şehit Mehmet Bayraktar Caddesi No: Bilgi için: Resul YILDIZ 3 Çankaya/ANKARA 06800 Sağlık Uzmanı https://shgmdenetimdb.saglik.gov.tr/ 3/3

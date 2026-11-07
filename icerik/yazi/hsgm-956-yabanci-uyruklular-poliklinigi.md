@@ -59,10 +59,9 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-81 İl Sağlık Müdürlüğü Halk Sağlığı Genel Müdürlüğü (Tüm Daire
+Gereği:
+81 İl Sağlık Müdürlüğü
 
-Başkanlıkları)
-
-
+Bilgi:
+Halk Sağlığı Genel Müdürlüğü (Tüm Daire Başkanlıkları)

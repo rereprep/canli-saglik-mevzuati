@@ -70,6 +70,7 @@ Hakan YÜCESOY
 Şef
 
 DAĞITIM:
+
 Gereği:
 1- 81 İl Valiliği (İl Sağlık Müdürlüğü)
 2- Yüksek Öğretim Kurulu Başkanlığı

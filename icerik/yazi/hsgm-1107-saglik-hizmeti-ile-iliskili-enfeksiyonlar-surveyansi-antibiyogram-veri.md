@@ -34,6 +34,7 @@ Genel Müdür
 
 Dağıtım:
 
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

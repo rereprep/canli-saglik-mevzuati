@@ -44,44 +44,28 @@ Halk Sağlığı Genel Müdürü
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-Adli Tıp Kurumu Başkanlığına 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
+Gereği:
+Adli Tıp Kurumu Başkanlığına
 Adalet Bakanlığına
-
 Aile Ve Sosyal Hizmetler Bakanlığına
-
 İçişleri Bakanlığına
-
 Milli Eğitim Bakanlığına
-
 Gençlik ve Spor Bakanlığına
-
 Türkiye Yeşilay Cemiyetine
-
 Dışişleri Bakanlığına
-
 Çevre, Şehircilik ve İklim Değişikliği Bakanlığına
-
 Çalışma ve Sosyal Güvenlik Bakanlığına
-
 Diyanet İşleri Başkanlığına
-
 Hazine ve Maliye Bakanlığına
-
 İletişim Başkanlığına
-
 Kültür ve Turizm Bakanlığına
-
 Radyo ve Televizyon Üst Kurulu Başkanlığına
-
 Tarım ve Orman Bakanlığına
-
 Ticaret Bakanlığına
-
 Türkiye İstatistik Kurumu Başkanlığına
-
 Ulaştırma ve Altyapı Bakanlığına
-
 Yükseköğretim Kurulu Başkanlığına
+
+Bilgi:
+81 İl Valiliğine (İl Sağlık Müdürlüğü)

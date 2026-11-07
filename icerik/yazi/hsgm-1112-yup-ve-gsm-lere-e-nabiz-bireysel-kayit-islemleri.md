@@ -38,6 +38,7 @@ Ek: E-Nabız İş Kuralları
 
 Dağıtım:
 
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

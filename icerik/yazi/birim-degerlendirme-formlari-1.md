@@ -47,6 +47,7 @@ EKLER:
 9. Entegre İlçe Hastanesi İzleme ve Değerlendirme Formu (15 sayfa)
 
 DAĞITIM:
+
 Gereği:
 81 İl Valiliğine (Halk Sağlığı Müdürlüğü)
 

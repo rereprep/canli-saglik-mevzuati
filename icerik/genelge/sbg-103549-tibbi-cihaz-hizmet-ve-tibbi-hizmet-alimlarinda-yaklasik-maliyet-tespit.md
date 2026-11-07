@@ -193,10 +193,13 @@ Müsteşar
 
 DAĞITIM:
 
-Gereği: Bilgi: 81 Il Valiliği (İl Sağlık Müdürlüğü) Teftiş Kurulu Başkanlığına
 
-Iç Denetim Birimi Başkanlığına
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
 
+Bilgi:
+Teftiş Kurulu Başkanlığına
+İç Denetim Birimi Başkanlığına
 Tedavi Hizmetleri Genel Müdürlüğüne
 
 Kamu Hastaneleri Genel Müdürlüğünce ilgili sistem güncellenmiş olup yapılan yaklaşık maliyet hesaplamalarında güncellenmiş modül kullanılacaktır.
@@ -229,6 +232,7 @@ Genel Müdür Yardımcısı
 Ek: İlgi Genelge (8 Sayfa)
 
 Dağıtım:
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

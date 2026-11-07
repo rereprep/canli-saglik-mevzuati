@@ -37,6 +37,7 @@ Ek: Halk Sağlığı Laboratuvarlarının Acil ve Olağanüstü Durumlarda Numun
 
 Dağıtım:
 
+
 Gereği:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)

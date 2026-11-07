@@ -36,5 +36,9 @@ Doç. Dr. Muhammed Emin DEMİRKOL
 Bakan a.
 Halk Sağlığı Genel Müdürü
 Dağıtım:
-Gereği: Bilgi:
-81 İl Sağlık Müdürlüğü 81 İl Valiliği
+
+Gereği:
+81 İl Sağlık Müdürlüğü
+
+Bilgi:
+81 İl Valiliği

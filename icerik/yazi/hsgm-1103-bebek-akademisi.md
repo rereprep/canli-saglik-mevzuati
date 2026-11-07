@@ -63,195 +63,165 @@ Ek:
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-Adana Valiliğine Adıyaman Valiliğine
+Gereği:
+Adana Valiliğine
+(İl Sağlık Müdürlüğü)
+Ağrı Valiliğine
+(İl Sağlık Müdürlüğü)
+Ankara Valiliğine
+(İl Sağlık Müdürlüğü)
+Antalya Valiliğine
+(İl Sağlık Müdürlüğü)
+Aydın Valiliğine
+(İl Sağlık Müdürlüğü)
+Balıkesir Valiliğine
+(İl Sağlık Müdürlüğü)
+Bursa Valiliğine
+(İl Sağlık Müdürlüğü)
+Erzurum Valiliğine
+(İl Sağlık Müdürlüğü)
+Gaziantep Valiliğine
+(İl Sağlık Müdürlüğü)
+Hatay Valiliğine
+(İl Sağlık Müdürlüğü)
+İstanbul Valiliğine
+(İl Sağlık Müdürlüğü)
+İzmir Valiliğine
+(İl Sağlık Müdürlüğü)
+Kastamonu Valiliğine
+(İl Sağlık Müdürlüğü)
+Kayseri İl Sağlık Müdürlüğüne
+Kırıkkale Valiliğine
+(İl Sağlık Müdürlüğü)
+Kocaeli Valiliğine
+(İl Sağlık Müdürlüğü)
+Konya Valiliğine
+(İl Sağlık Müdürlüğü)
+Malatya Valiliğine
+(İl Sağlık Müdürlüğü)
+Manisa Valiliğine
+(İl Sağlık Müdürlüğü)
+Mardin Valiliğine
+(İl Sağlık Müdürlüğü)
+Samsun Valiliğine
+(İl Sağlık Müdürlüğü)
+Sivas Valiliğine
+(İl Sağlık Müdürlüğü)
+Tekirdağ Valiliğine
+(İl Sağlık Müdürlüğü)
+Trabzon Valiliğine
+(İl Sağlık Müdürlüğü)
+Van Valiliğine
+(İl Sağlık Müdürlüğü)
+Zonguldak Valiliğine
+(İl Sağlık Müdürlüğü)
 
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Ağrı Valiliğine Afyonkarahisar Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Ankara Valiliğine Aksaray Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Antalya Valiliğine Amasya Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Aydın Valiliğine Ardahan Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Balıkesir Valiliğine Artvin Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Bursa Valiliğine Bartın Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Erzurum Valiliğine Batman Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Gaziantep Valiliğine Bayburt Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Hatay Valiliğine Bilecik Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-İstanbul Valiliğine Bingöl Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-İzmir Valiliğine Bitlis Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Kastamonu Valiliğine Bolu Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Kayseri İl Sağlık Müdürlüğüne Burdur İl Sağlık Müdürlüğüne
-
-Kırıkkale Valiliğine Çanakkale Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Kocaeli Valiliğine Çankırı Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Konya Valiliğine Çorum Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Malatya Valiliğine Denizli Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Manisa Valiliğine Diyarbakır Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Mardin Valiliğine Düzce Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Samsun Valiliğine Edirne Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Sivas Valiliğine Elazığ Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
+Bilgi:
+Adıyaman Valiliğine
+(İl Sağlık Müdürlüğü)
+Afyonkarahisar Valiliğine
+(İl Sağlık Müdürlüğü)
+Aksaray Valiliğine
+(İl Sağlık Müdürlüğü)
+Amasya Valiliğine
+(İl Sağlık Müdürlüğü)
+Ardahan Valiliğine
+(İl Sağlık Müdürlüğü)
+Artvin Valiliğine
+(İl Sağlık Müdürlüğü)
+Bartın Valiliğine
+(İl Sağlık Müdürlüğü)
+Batman Valiliğine
+(İl Sağlık Müdürlüğü)
+Bayburt Valiliğine
+(İl Sağlık Müdürlüğü)
+Bilecik Valiliğine
+(İl Sağlık Müdürlüğü)
+Bingöl Valiliğine
+(İl Sağlık Müdürlüğü)
+Bitlis Valiliğine
+(İl Sağlık Müdürlüğü)
+Bolu Valiliğine
+(İl Sağlık Müdürlüğü)
+Burdur İl Sağlık Müdürlüğüne
+Çanakkale Valiliğine
+(İl Sağlık Müdürlüğü)
+Çankırı Valiliğine
+(İl Sağlık Müdürlüğü)
+Çorum Valiliğine
+(İl Sağlık Müdürlüğü)
+Denizli Valiliğine
+(İl Sağlık Müdürlüğü)
+Diyarbakır Valiliğine
+(İl Sağlık Müdürlüğü)
+Düzce Valiliğine
+(İl Sağlık Müdürlüğü)
+Edirne Valiliğine
+(İl Sağlık Müdürlüğü)
+Elazığ Valiliğine
+(İl Sağlık Müdürlüğü)
+Eskişehir Valiliğine
+(İl Sağlık Müdürlüğü)
+Giresun Valiliğine
+(İl Sağlık Müdürlüğü)
+Gümüşhane Valiliğine
+(İl Sağlık Müdürlüğü)
+Hakkari Valiliğine
+(İl Sağlık Müdürlüğü)
+Iğdır Valiliğine
+(İl Sağlık Müdürlüğü)
+Isparta Valiliğine
+(İl Sağlık Müdürlüğü)
+Kahramanmaraş Valiliğine
+(İl Sağlık Müdürlüğü)
+Karabük Valiliğine
+(İl Sağlık Müdürlüğü)
+Karaman Valiliğine
+(İl Sağlık Müdürlüğü)
+Kars Valiliğine
+(İl Sağlık Müdürlüğü)
+Kırklareli Valiliğine
+(İl Sağlık Müdürlüğü)
+Kırşehir Valiliğine
+(İl Sağlık Müdürlüğü)
+Kilis Valiliğine
+(İl Sağlık Müdürlüğü)
+Kütahya Valiliğine
+(İl Sağlık Müdürlüğü)
+Mersin Valiliğine
+(İl Sağlık Müdürlüğü)
+Muğla Valiliğine
+(İl Sağlık Müdürlüğü)
+Muş Valiliğine
+(İl Sağlık Müdürlüğü)
+Nevşehir Valiliğine
+(İl Sağlık Müdürlüğü)
+Niğde Valiliğine
+(İl Sağlık Müdürlüğü)
+Ordu Valiliğine
+(İl Sağlık Müdürlüğü)
+Osmaniye Valiliğine
+(İl Sağlık Müdürlüğü)
+Rize Valiliğine
+(İl Sağlık Müdürlüğü)
+Sakarya Valiliğine
+(İl Sağlık Müdürlüğü)
+Siirt Valiliğine
+(İl Sağlık Müdürlüğü)
+Sinop İl Sağlık Müdürlüğüne
+Tokat Valiliğine
+(İl Sağlık Müdürlüğü)
+Tunceli Valiliğine
+(İl Sağlık Müdürlüğü)
+Uşak Valiliğine
+(İl Sağlık Müdürlüğü)
+Yalova Valiliğine
+(İl Sağlık Müdürlüğü)
+Yozgat Valiliğine
+(İl Sağlık Müdürlüğü)
 
 Şanlıurfa Valiliğine Erzincan Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Tekirdağ Valiliğine Eskişehir Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Trabzon Valiliğine Giresun Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Van Valiliğine Gümüşhane Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Zonguldak Valiliğine Hakkari Valiliğine
-
-(İl Sağlık Müdürlüğü) (İl Sağlık Müdürlüğü)
-
-Iğdır Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Isparta Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Kahramanmaraş Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Karabük Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Karaman Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Kars Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Kırklareli Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Kırşehir Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Kilis Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Kütahya Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Mersin Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Muğla Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Muş Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Nevşehir Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Niğde Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Ordu Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Osmaniye Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Rize Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Sakarya Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Siirt Valiliğine
-
-(İl Sağlık Müdürlüğü)
-
-Sinop İl Sağlık Müdürlüğüne
 
 Şırnak Valiliğine
 

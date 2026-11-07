@@ -41,6 +41,7 @@ Ek: Diğer Kişiler İçin Nüfus Puanına Esas Katsayılar
 
 Dağıtım:
 
+
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

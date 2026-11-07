@@ -46,12 +46,11 @@ Genel Müdür
 
 Dağıtım:
 
-Gereği: Bilgi:
 
-81 İL VALİLİĞİNE (İl Sağlık Müdürlüğü) SAĞLIK BİLGİ SİSTEMLERİ GENEL
+Gereği:
+81 İL VALİLİĞİNE (İl Sağlık Müdürlüğü)
 
-MÜDÜRLÜĞÜNE
-
+Bilgi:
+SAĞLIK BİLGİ SİSTEMLERİ GENEL MÜDÜRLÜĞÜNE
 (Halk Sağlığı Bilişimi Dairesi Başkanlığı)
-
 (E-nabız Koordinatörlüğü)

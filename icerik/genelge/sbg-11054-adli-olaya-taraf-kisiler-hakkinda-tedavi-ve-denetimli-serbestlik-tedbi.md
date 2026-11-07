@@ -101,7 +101,17 @@ Müsteşar
 
 ### DAGITIM:
 
-Gereği: Bilgi: 8ıİ! Valiliğine Adalet Bakanlığına (İ! Sağlık Müdürlüğü) Denetim Hizmetleri Başkanlığına YÖK Başkanlığına Maliye Bakanlığına Türkiye Kamu Hastaneleri Kurumu Başkanlığına Sosyal Güvenlik Kurumu Başkanlığına
+Gereği:
+81 İl Valiliğine
+(İl Sağlık Müdürlüğü)
+YÖK Başkanlığına
+Türkiye Kamu Hastaneleri Kurumu Başkanlığına
+
+Bilgi:
+Adalet Bakanlığına
+Denetim Hizmetleri Başkanlığına
+Maliye Bakanlığına
+Sosyal Güvenlik Kurumu Başkanlığına
 
 ---
 

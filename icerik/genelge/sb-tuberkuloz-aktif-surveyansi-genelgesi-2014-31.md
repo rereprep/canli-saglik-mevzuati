@@ -45,6 +45,7 @@ Ek-1 Çalışma Planı (5 sayfa)
 Ek-2 Rapor taslağı (4 sayfa)
 
 DAĞITIM:
+
 Gereği:
 81 İl Valiliğine (Halk Sağlığı Müdürlüğü)
 Bilgi:
