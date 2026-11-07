@@ -32,9 +32,7 @@ b) Alt kullanıcı: Bakanlık merkez ve taşra teşkilatı ile Bakanlık bağlı
 
 teşkilat yapılanması bünyesinde çalışan, Gizlilik Taahhütnamesini imzalayarak Kimlik
 
-Paylaşımı Sistemine erişimi mümkün olan ve Kimlik Paylaşımı Sistemini son kullanıcıların
-
-erişimine açmak ile görevli ve yetkili olan kullanıcıyı,
+Paylaşımı Sistemine erişimi mümkün olan ve Kimlik Paylaşımı Sistemini son kullanıcıların erişimine açmak ile görevli ve yetkili olan kullanıcıyı,
 
 c) Bakanlık: T.C. Sağlık Bakanlığını,
 
@@ -42,9 +40,7 @@ c) Bakanlık: T.C. Sağlık Bakanlığını,
 
 d) IP adresi: Belirli bir ağa bağlı cihazların birbirini tanımak, birbirleriyle iletişim kurmak ve
 
-veri alışverişinde bulunmak için kullandıkları İnternet Protokolü standartlarına göre verilen
-
-adresi,
+veri alışverişinde bulunmak için kullandıkları İnternet Protokolü standartlarına göre verilen adresi,
 
 e) İdari kullanıcı: Bakanlık nezdinde Kimlik Paylaşımı Sistemi ile ilgili iş ve işlemleri
 

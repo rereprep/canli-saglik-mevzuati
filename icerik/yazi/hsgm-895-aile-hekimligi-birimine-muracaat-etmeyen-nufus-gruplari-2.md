@@ -31,9 +31,7 @@ bendinin birinci alt bendinde “<i>Ancak son on iki ayda birime müracaat etmey
 
 Bu kapsamda Bakanlık Makamının 21/07/2025 tarihli ve E-99858683-020-282666627 sayılı Onayı ile;
 
-Hastalık Yönetim Platformu Tarama ve Takip Kılavuzunda kişilere yönelik yılda bir defadan daha çok hizmet sunumu gerektiren sağlık hizmetleri için belirlenen hizmet sunum sıklık sürelerinin, birime başvurmayan nüfus gruplarının puan hesaplanmasına esas alınması uygun görülmüştür. Bu gruptaki kişilerin müracaat durumu için
-
-Kılavuzda belirlenen süreler, bunun dışındaki kişiler için ise son on iki ayda birime müracaat durumu dikkate alınacaktır.
+Hastalık Yönetim Platformu Tarama ve Takip Kılavuzunda kişilere yönelik yılda bir defadan daha çok hizmet sunumu gerektiren sağlık hizmetleri için belirlenen hizmet sunum sıklık sürelerinin, birime başvurmayan nüfus gruplarının puan hesaplanmasına esas alınması uygun görülmüştür. Bu gruptaki kişilerin müracaat durumu için Kılavuzda belirlenen süreler, bunun dışındaki kişiler için ise son on iki ayda birime müracaat durumu dikkate alınacaktır.
 
 Mezkûr düzenlemelerin aile hekimliği çalışanlarına duyurulması ve konuya ilişkin iş ve işlemlerin söz konusu düzenlemelere uygun şekilde yürütülmesi konusunda gerekli hassasiyetin gösterilmesi hususunda;
 

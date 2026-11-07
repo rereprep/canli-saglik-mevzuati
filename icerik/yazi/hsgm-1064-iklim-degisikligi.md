@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 Sayı : E-19020089-101-262631060 17.12.2024
 
 Konu : İklim Değişikliği
@@ -28,9 +29,7 @@ Bakanlığımız ve DSÖ iş birliğinde hazırlanmış olan Türkiye Sağlık v
 
 Bu risklere karşı yaşlılar, bebek ve çocuklar, hamileler, lohusalar, engelli bireyler, kronik hastalığı olanlar, açık havada çalışanlar ve evsizler daha kırılgandır. Diğer taraftan bu risklere maruziyet sebebi ile sağlık sistemleri yükünde artış ve sağlık tesisleri işleyişinin etkilenmesi de söz konusu olabilecektir.
 
-İklim değişikliğine uyumun sağlanması ve dirençli sağlık sistemlerinin varlığı iklim değişikliğinin ortaya çıkaracağı olumsuz sağlık etkilerini bertaraf etme ve başa çıkabilme kabiliyetini artıracaktır. Ülkemiz iklim değişikliğine uyum konusunda ulusal stratejilerini ve 12. Kalkınma Planı hedeflerini belirlemiştir. Bu kapsamda
-
-İklim Değişikliğine Uyum Stratejisi ve Eylem Planı (2024-2030) Çevre Şehircilik ve İklim Değişikliği Bakanlığı tarafından yayınlanmıştır. Söz konusu eylem planında “Halk Sağlığı” başlığında Bakanlığımıza da atfedilen görevler yer almıştır.
+İklim değişikliğine uyumun sağlanması ve dirençli sağlık sistemlerinin varlığı iklim değişikliğinin ortaya çıkaracağı olumsuz sağlık etkilerini bertaraf etme ve başa çıkabilme kabiliyetini artıracaktır. Ülkemiz iklim değişikliğine uyum konusunda ulusal stratejilerini ve 12. Kalkınma Planı hedeflerini belirlemiştir. Bu kapsamda İklim Değişikliğine Uyum Stratejisi ve Eylem Planı (2024-2030) Çevre Şehircilik ve İklim Değişikliği Bakanlığı tarafından yayınlanmıştır. Söz konusu eylem planında “Halk Sağlığı” başlığında Bakanlığımıza da atfedilen görevler yer almıştır.
 
 Diğer taraftan Sağlık Bakanlığı Stratejik Planında (2024-2028) “İklim değişikliğinin sağlık üzerine olan etkisinin belirlenmesi ve azaltılması için kurumsal kapasite güçlendirilerek kurumlar arası iş birliğinin artırılması” Hedef 2.7 Çevresel tehlikelerin ve iklim değişikliğinin sağlık üzerindeki olumsuz etkilerini azaltmak için çevre sağlığı hizmetlerinin kapasitesini artırmak başlığı altında belirlenen stratejilerdendir.
 

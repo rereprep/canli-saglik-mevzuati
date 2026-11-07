@@ -83,29 +83,15 @@ Sayt : 67414668 Konu : Yenidogan Tatama Program
 
 20 Sonucu şüpheli çıkan bebeklerin sevk islerert yupulirken ekte yer olan ve her
 
-hastakd Be ayrı hueudanmuy olan sevk formlari ve Yenidugan Taramu Program Web
-
-uygulamasında yer alan laboratuar sonucune içeren çaku kallamaimalıdı
+hastakd Be ayrı hueudanmuy olan sevk formlari ve Yenidugan Taramu Program Web uygulamasında yer alan laboratuar sonucune içeren çaku kallamaimalıdı
 
 21 Turuma sonucundu hastalk yönunden şüpheli çakan bebekler, aksi salinur
 
-ölmadığı sürese ekie gonderilen revize akış şemaları nyannca yünlendirilneli, sanuçlur
+ölmadığı sürese ekie gonderilen revize akış şemaları nyannca yünlendirilneli, sanuçlur web uygulamasındaki klinik turu girişine yine ekte gonderilen "Ulusal Yenidağan Tarama
 
-web uygulamasındaki klinik turu girişine yine ekte gonderilen "Ulusal Yenidağan Tarama
+Programı Yaslime Kullanım Kalayaan"nda belirtildiği biçimde kaydedilmelidic. Bu aştım di gecikmelere yol açılın utsa lçin lum kodları muraka beltrienen zeman dilımlerı içerisinde girilmelidir Tam kodu olarak, "Tuluma sürecinde" segldiginde en geç, 3 ay içensinde hebeğın kesin lamısı sisteme glufnelidir.
 
-Programı Yaslime Kullanım Kalayaan"nda belirtildiği biçimde kaydedilmelidic. Bu
-
-aştım di gecikmelere yol açılın utsa lçin lum kodları muraka beltrienen zeman dilımlerı
-
-içerisinde girilmelidir Tam kodu olarak, "Tuluma sürecinde" segldiginde en geç, 3 ay
-
-içensinde hebeğın kesin lamısı sisteme glufnelidir.
-
-Yenidoğun Taramu Programı nın sağlıkh gekikde yarümülmesi kęur yukarıda
-
-belirilen hastalara dikkat edilerek genelge ve eklerim tüm sağilk kuruluşlarna (resitti ve
-
-ozel) duyurulinası hususunda bilgilerinizi ve gereğini rica ederim.
+Yenidoğun Taramu Programı nın sağlıkh gekikde yarümülmesi kęur yukarıda belirilen hastalara dikkat edilerek genelge ve eklerim tüm sağilk kuruluşlarna (resitti ve ozel) duyurulinası hususunda bilgilerinizi ve gereğini rica ederim.
 
 Prof. Pr. Niha TOSUN
 

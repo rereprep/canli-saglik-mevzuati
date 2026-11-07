@@ -95,9 +95,7 @@ c) Mali İşler Şube Müdürlüğü
 
 a) Ulusal kalkınma strateji ve politikaları, yıllık program ve hükümet programı çerçevesinde
 
-Bakanlığın orta ve uzun vadeli strateji ve politikalarını belirlemek, amaçlarını oluşturmak
-
-üzere gerekli çalışmaları yapmak,
+Bakanlığın orta ve uzun vadeli strateji ve politikalarını belirlemek, amaçlarını oluşturmak üzere gerekli çalışmaları yapmak,
 
 b) Bakanlığın görev alanına giren konularda performans ve kalite ölçütleri geliştirmek ve bu
 
@@ -109,9 +107,7 @@ toplamak, analiz etmek ve yorumlamak,
 
 d) Bakanlığın görev alanına giren konularda, hizmetleri etkileyecek dış faktörleri incelemek,
 
-kurum içi kapasite araştırması yapmak, hizmetlerin etkililiğini ve tatmin düzeyini analiz
-
-etmek ve genel araştırmalar yapmak,
+kurum içi kapasite araştırması yapmak, hizmetlerin etkililiğini ve tatmin düzeyini analiz etmek ve genel araştırmalar yapmak,
 
 e) Yönetim bilgi sistemlerine ilişkin hizmetleri yerine getirmek,
 
@@ -121,15 +117,11 @@ sonuçlarının konsolide edilmesi çalışmalarını yürütmek,
 
 g) İzleyen iki yılın bütçe tahminlerini de içeren idare bütçesini, stratejik plan ve yıllık
 
-performans programına uygun olarak hazırlamak ve idare faaliyetlerinin bunlara
-
-uygunluğunu izlemek ve değerlendirmek,
+performans programına uygun olarak hazırlamak ve idare faaliyetlerinin bunlara uygunluğunu izlemek ve değerlendirmek,
 
 h) Mevzuatı uyarınca belirlenecek bütçe ilke ve esasları çerçevesinde, ayrıntılı harcama
 
-programı hazırlamak ve hizmet gereksinimleri dikkate alınarak ödeneğin ilgili birimlere
-
-gönderilmesini sağlamak,
+programı hazırlamak ve hizmet gereksinimleri dikkate alınarak ödeneğin ilgili birimlere gönderilmesini sağlamak,
 
 i) Bütçe kayıtlarını tutmak, bütçe uygulama sonuçlarına ilişkin verileri toplamak,
 
@@ -163,9 +155,7 @@ p) Ön malî kontrol faaliyetini yürütmek,
 
 q) İç kontrol sisteminin kurulması, standartlarının uygulanması ve geliştirilmesi konularında
 
-çalışmalar yapmak; üst yönetimin iç denetime yönelik işlevinin etkililiğini ve verimliliğini
-
-artırmak için gerekli hazırlıkları yapmak,
+çalışmalar yapmak; üst yönetimin iç denetime yönelik işlevinin etkililiğini ve verimliliğini artırmak için gerekli hazırlıkları yapmak,
 
 r) Başkanlığın idari, mali ve destek hizmetlerini yürütmek,
 
@@ -179,17 +169,13 @@ t) Bakan ve üst yönetici tarafından verilecek diğer görevleri yapmak.
 
 1. Ulusal kalkınma strateji ve politikaları, yıllık program ve hükümet programı çerçevesinde
 
-Bakanlığın orta ve uzun vadeli strateji ve politikalarının, vizyon, misyon, stratejik amaç
-
-ve hedeflerinin belirlenmesi ve revizyon için gerekli çalışmaları yapmak,
+Bakanlığın orta ve uzun vadeli strateji ve politikalarının, vizyon, misyon, stratejik amaç ve hedeflerinin belirlenmesi ve revizyon için gerekli çalışmaları yapmak,
 
 2. Bakanlığın stratejik planlama çalışmalarına yönelik bir hazırlık programı oluşturmak,
 
 3. Bakanlığın stratejik planlama sürecinde ihtiyaç duyulacak eğitim ve danışmanlık
 
-hizmetlerini vermek veya verilmesini sağlamak ve stratejik planlama çalışmalarını
-
-koordine etmek,
+hizmetlerini vermek veya verilmesini sağlamak ve stratejik planlama çalışmalarını koordine etmek,
 
 4. Stratejik planın uygulama sonuçlarını periyodik olarak izlemek, değerlendirmek ve
 
@@ -223,15 +209,11 @@ ihtiyaçlarını koordine etmek,
 
 1. İzleyen iki yılın bütçe tahminlerini de içeren idare bütçesini ve yıllık performans
 
-programını, stratejik plana uygun olarak hazırlamak ve geçmiş yıl performans
-
-göstergeleri ve bütçe gerçekleşmelerini izlemek ve değerlendirmek.
+programını, stratejik plana uygun olarak hazırlamak ve geçmiş yıl performans göstergeleri ve bütçe gerçekleşmelerini izlemek ve değerlendirmek.
 
 2. Mevzuatı uyarınca belirlenecek bütçe ilke ve esasları çerçevesinde, ayrıntılı harcama
 
-programı hazırlamak ve hizmet gereksinimleri dikkate alınarak ödeneğin ilgili birimlere
-
-gönderilmesini sağlamak.
+programı hazırlamak ve hizmet gereksinimleri dikkate alınarak ödeneğin ilgili birimlere gönderilmesini sağlamak.
 
 3. Bütçe kayıtlarını tutmak, bütçe uygulama sonuçlarına ilişkin verileri toplamak,
 
@@ -239,9 +221,7 @@ değerlendirmek ve bütçe kesin hesabı ile mali istatistikleri hazırlamak.
 
 4. Bakanlık bütçesinin ilk altı aylık uygulama sonuçları, ikinci altı aya ilişkin beklentiler ve
 
-hedefler ile faaliyetlerini kapsayan mali durumu temmuz ayı içinde kamuoyuna
-
-açıklamak.
+hedefler ile faaliyetlerini kapsayan mali durumu temmuz ayı içinde kamuoyuna açıklamak.
 
 5. Bakanlık birimlerinin birim performans programını hazırlama çalışmalarını koordine
 
@@ -287,11 +267,7 @@ izlemek ve yıllık yatırım değerlendirme raporunu hazırlamak,
 
 4. Güneydoğu Anadolu Projesi Eylem Planı ile Doğu ve Güneydoğu Anadolu Bölgesine
 
-yönelik sosyo-ekonomik ve kültürel yapının iyileştirilmesi konularında Bakanlıkça
-
-yapılan yatırımları ve birimlerin yapmış oldukları çalışmaları raporlamak ve ilgili
-
-birimlere iletmek
+yönelik sosyo-ekonomik ve kültürel yapının iyileştirilmesi konularında Bakanlıkça yapılan yatırımları ve birimlerin yapmış oldukları çalışmaları raporlamak ve ilgili birimlere iletmek
 
 5. Sağlık harcamalarına ilişkin verileri raporlamak,
 
@@ -315,9 +291,7 @@ karara bağlamak,
 
 1. Bakanlığa bağlı kurumların merkeze aktardıkları merkez pay tutarlarından oluşan
 
-ödeneğin ilgili mevzuat dâhilinde dağıtımını planlamak ve tahsis etmek, sermaye
-
-tahsisini gerçekleştirmek,
+ödeneğin ilgili mevzuat dâhilinde dağıtımını planlamak ve tahsis etmek, sermaye tahsisini gerçekleştirmek,
 
 2. Bakanlığa bağlı sağlık kurum ve kuruluşlarınca Sosyal Güvenlik Kurumu mensuplarına
 
@@ -325,9 +299,7 @@ sunulan hizmetin karşılığı olan ödeneklerin planlama ve tahsisini yapmak,
 
 3. Yeşil Kart tedavi giderleri kapsamında; Bakanlık kurum ve kuruluşları, üniversiteler,
 
-eczaneler ve optik müesseselerinin tahakkuk takibi ve ödenek tahsis işlemlerini
-
-yürütmek,
+eczaneler ve optik müesseselerinin tahakkuk takibi ve ödenek tahsis işlemlerini yürütmek,
 
 4. 209 sayılı Kanun’un 5 nci maddesine istinaden döner sermayeli işletmeler arasında
 
@@ -337,25 +309,15 @@ yapılan borç veya karşılıksız kaynak aktarımı işlemlerini yürütmek.
 
 1. Döner sermaye kaynaklarının etkili ve verimli kullanılmasını sağlamak için, döner
 
-sermaye mevzuatı, ihale mevzuatı ve ilgili mevzuat çerçevesinde Bakanlığımıza bağlı
-
-döner sermayeli işletmelerin alımları ile ilgili düzenlemeler yapmak,
+sermaye mevzuatı, ihale mevzuatı ve ilgili mevzuat çerçevesinde Bakanlığımıza bağlı döner sermayeli işletmelerin alımları ile ilgili düzenlemeler yapmak,
 
 2. Döner sermayeli işletmelerin alımları ile ilgili olarak gerektiğinde, döner sermaye
 
-mevzuatı ve ihale mevzuatında değişikliklerin yapılmasını sağlamak, diğer kamu kurum
-
-ve kuruluşlarınca veya Bakanlık merkez birimlerince bu doğrultuda yapılacak çalışmalara
-
-katkıda bulunmak, görüş bildirmek,
+mevzuatı ve ihale mevzuatında değişikliklerin yapılmasını sağlamak, diğer kamu kurum ve kuruluşlarınca veya Bakanlık merkez birimlerince bu doğrultuda yapılacak çalışmalara katkıda bulunmak, görüş bildirmek,
 
 3. Döner sermayeli kaynaklı yapılan alımlarla ilgili olarak Bakanlık merkez birimlerince
 
-yapılacak olan genel düzenlemeler ile işletmelerce tereddüde düşülen hususlarda, döner
-
-sermaye mevzuatı, ihale mevzuatı ve ilgili mevzuat çerçevesinde talep olması halinde
-
-görüş bildirmek,
+yapılacak olan genel düzenlemeler ile işletmelerce tereddüde düşülen hususlarda, döner sermaye mevzuatı, ihale mevzuatı ve ilgili mevzuat çerçevesinde talep olması halinde görüş bildirmek,
 
 4. Döner sermayeli işletmelerin döner sermaye kaynaklarından gerçekleştirdiği ihalelere
 
@@ -363,9 +325,7 @@ ilişkin, ihalelerden yasaklanma işlemlerini yürütmek,
 
 5. Döner sermayeli işletmelerin 4734 sayılı Kamu İhale Kanunun 62 nci maddesinin “ı”
 
-bendi uyarınca kurumlarımızdan gelen izin taleplerini değerlendirmek ve gerekli
-
-işlemleri yapmak.
+bendi uyarınca kurumlarımızdan gelen izin taleplerini değerlendirmek ve gerekli işlemleri yapmak.
 
 **d) Muhasebe Sistemi Şube Müdürlüğü**
 
@@ -407,21 +367,13 @@ giren kısmı ile ilgili olarak görüş taleplerini cevaplandırmak.
 
 1. Bakanlığın gelir, gider, varlık ve yükümlülüklerine ilişkin malî karar ve işlemlerinin;
 
-Bakanlığın bütçesi, bütçe tertibi, kullanılabilir ödenek tutarı, harcama programı,
-
-finansman programı, merkezi yönetim bütçe kanunu ve diğer malî mevzuat hükümlerine
-
-uygunluğu ve kaynakların etkili, ekonomik ve verimli bir şekilde kullanılması
-
-yönlerinden kontrolünü yapmak.
+Bakanlığın bütçesi, bütçe tertibi, kullanılabilir ödenek tutarı, harcama programı, finansman programı, merkezi yönetim bütçe kanunu ve diğer malî mevzuat hükümlerine uygunluğu ve kaynakların etkili, ekonomik ve verimli bir şekilde kullanılması yönlerinden kontrolünü yapmak.
 
 **a) İç Kontrol Şube Müdürlüğü**
 
 1. Bakanlığın ve Başkanlığın görev alanına giren konularda iç kontrol standartları
 
-oluşturmak, iç kontrol standartlarının uygulanması, geliştirilmesi ve güncellemelerle ilgili
-
-tüm çalışmaları yapmak,
+oluşturmak, iç kontrol standartlarının uygulanması, geliştirilmesi ve güncellemelerle ilgili tüm çalışmaları yapmak,
 
 2. Başkanlığın İç Kontrol çalışmaları kapsamında ortaya çıkan riskleriyle ilgili olarak
 
@@ -435,9 +387,7 @@ izlemek ve raporlamak
 
 2. İç Kontrol Standartları Uyum Eylem Planının izlenmesi ve değerlendirilmesine yönelik
 
-performans göstergeleri oluşturma çalışmalarını yürütmek, kontrol noktaları belirleme
-
-çalışmalarına katkıda bulunmak,
+performans göstergeleri oluşturma çalışmalarını yürütmek, kontrol noktaları belirleme çalışmalarına katkıda bulunmak,
 
 3. İç Kontrol İzleme ve Değerlendirme Kurulu’nun sekretarya hizmetlerini yapmak
 

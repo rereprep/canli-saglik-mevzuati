@@ -51,9 +51,7 @@ VE
 
 ### Klinik Kalite Ölçme ve Değerlendirme Rehberleri Klinik Kalite Uygulama ve Veri Kalitesi İyileştirme Rehberi Nisan 2017 © Yazarlar –Sağlık Hizmetleri Genel Müdürlüğü Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı
 
-Bu kitabın her türlü yayın hakkı T.C. Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü’ne aittir. Genel Müdürlüğün yazılı izni olmadan, tanıtım amaçlı toplam bir sayfayı geçmeyecek alıntılar hariç olmak üzere, hiçbir şekilde kitabın tümü veya bir kısmı herhangi bir
-
-ortamda yayımlanamaz ve çoğaltılamaz.
+Bu kitabın her türlü yayın hakkı T.C. Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü’ne aittir. Genel Müdürlüğün yazılı izni olmadan, tanıtım amaçlı toplam bir sayfayı geçmeyecek alıntılar hariç olmak üzere, hiçbir şekilde kitabın tümü veya bir kısmı herhangi bir ortamda yayımlanamaz ve çoğaltılamaz.
 
 İletişim: T. C. Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürlüğü Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı Mahmut Esat Bozkurt Caddesi No: 19 1. kat Kolej / Ankara Tel: 0312 458 50 26 Faks: 0312 435 16 79 web: www.klinikkalite.saglik.gov.tr e-posta: klinikkalite@saglik.gov.tr
 
@@ -207,9 +205,7 @@ b) Sağlık olgusu bazında izlenen tüm klinik kalite göstergeleri ile ilgili 
 
 c) Klinik kalite göstergeleri ile ilgili Bakanlık tarafından gönderilen geri bildirim raporlarını
 
-(Klinik Kalite Karar Destek Sistemi-K3DS) ve HBYS’den elde edilen sonuçları karşılaştırarak
-
-gösterge bazında analizler yapmak.
+(Klinik Kalite Karar Destek Sistemi-K3DS) ve HBYS’den elde edilen sonuçları karşılaştırarak gösterge bazında analizler yapmak.
 
 d) Gösterge bazında hedeflere ulaşma düzeyini değerlendirmek, hedefe ulaşmak için gerekli faaliyetleri planlamak.
 
@@ -239,7 +235,7 @@ I.2. Sağlık Olgularına Yönelik Standart ve Göstergeler Klinik kalite kapsam
 
 - Prostat Kanseri
 
-- Diş İmplantı Her sağlık olgusu için ilgili uzman ve akademisyenlerden oluşan Klinik Kalite Çalışma Grupları oluşturulmaktadır. Söz konusu gruplarla düzenli aralıklarla toplantılar yapılarak sağlık olgularına ait standart ve göstergeler belirlenmektedir. Klinik kalite uygulamalarında belirtilen tarihten itibaren 11 sağlık olgusuna ait 182 adet gösterge belirlenmiştir (Tablo 1). Ayrıca 11 sağlık olgusuna ait 10 adet Klinik Kalite Ölçme ve Değerlendirme Rehberi (Diz ve Kalça Protezi tek rehber olarak) hazırlanmıştır. Bu rehberler Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı web sayfasında yayınlanmıştır. 
+- Diş İmplantı Her sağlık olgusu için ilgili uzman ve akademisyenlerden oluşan Klinik Kalite Çalışma Grupları oluşturulmaktadır. Söz konusu gruplarla düzenli aralıklarla toplantılar yapılarak sağlık olgularına ait standart ve göstergeler belirlenmektedir. Klinik kalite uygulamalarında belirtilen tarihten itibaren 11 sağlık olgusuna ait 182 adet gösterge belirlenmiştir (Tablo 1). Ayrıca 11 sağlık olgusuna ait 10 adet Klinik Kalite Ölçme ve Değerlendirme Rehberi (Diz ve Kalça Protezi tek rehber olarak) hazırlanmıştır. Bu rehberler Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı web sayfasında yayınlanmıştır.
 
 Tablo 1: Sağlık Olguları Standart ve Gösterge Sayıları
 
@@ -344,15 +340,15 @@ Yerinde Denetim:
 
 - Yerinde denetim sırasında en az aşağıdaki personel süreçte yer alır:
 
-  - Kuruluş yönetiminden bir kişi
+- Kuruluş yönetiminden bir kişi
 
-  - Kalite direktörü
+- Kalite direktörü
 
-  - USS veri sorumlusu
+- USS veri sorumlusu
 
-  - Otomasyon firmasından sorumlu bir kişi
+- Otomasyon firmasından sorumlu bir kişi
 
-  - İlgili her bir sağlık olgusunu temsilen kuruluşta görevli bir hekim
+- İlgili her bir sağlık olgusunu temsilen kuruluşta görevli bir hekim
 
 - Her gösterge tek tek hesaplama yöntemlerine göre HBYS ve E-Nabız verileri ile karşılaştırılarak doğruluğu tespit edilir.
 
@@ -380,11 +376,11 @@ USS Veri Sorumlusunun Görevleri:
 
 - Klinik kalite göstergelerine ilişkin;
 
-  - Doğru işlem kodlarının kullanılmasını sağlamak
+- Doğru işlem kodlarının kullanılmasını sağlamak
 
-  - Doğru tanı kodlarının kullanılmasını sağlamak
+- Doğru tanı kodlarının kullanılmasını sağlamak
 
-  - Doğru hesaplama yönteminin kullanılmasını sağlamak
+- Doğru hesaplama yönteminin kullanılmasını sağlamak
 
 - Klinik kalite iyileştirme komitesine veri kalitesi ile ilgili sonuçları raporlamak.
 

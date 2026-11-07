@@ -25,9 +25,7 @@ DAĞITIM YERLERİNE
 
 Bakanlığımız aile sağlığı merkezlerinin (ASM) asgari fiziki şartları ve teknik donanımına ilişkin usul ve esaslar “Aile Hekimliği Uygulama Yönetmeliği” ile belirlenmiştir.
 
-Mezkûr yönetmeliğin 22 nci maddesinin dokuzuncu fıkrasında “Aile sağlığı merkezlerinin iç ve dış standartları Bakanlıkça belirlenecek kurumsal kimlik kılavuzlarına uygun olmak zorundadır.” hükmü yer almaktadır. Bu doğrultuda Bakanlıkça, aile sağlığı merkezlerinin mimari tasarımları, kullanılacak malzeme ve renkler ile ortak alanlarda kullanılacak tefriş unsurlarını belirleyecek şekilde “Aile Sağlığı Merkezi Kurumsal
-
-Kimlik Kılavuzu” hazırlanmış olup ASM ’lerin bu kılavuza uygun hale getirilmesi için ilgi yazı ile Müdürlüğünüz talimatlandırılmıştır.
+Mezkûr yönetmeliğin 22 nci maddesinin dokuzuncu fıkrasında “Aile sağlığı merkezlerinin iç ve dış standartları Bakanlıkça belirlenecek kurumsal kimlik kılavuzlarına uygun olmak zorundadır.” hükmü yer almaktadır. Bu doğrultuda Bakanlıkça, aile sağlığı merkezlerinin mimari tasarımları, kullanılacak malzeme ve renkler ile ortak alanlarda kullanılacak tefriş unsurlarını belirleyecek şekilde “Aile Sağlığı Merkezi Kurumsal Kimlik Kılavuzu” hazırlanmış olup ASM ’lerin bu kılavuza uygun hale getirilmesi için ilgi yazı ile Müdürlüğünüz talimatlandırılmıştır.
 
 Bu talimat doğrultusunda illerinizde hizmet veren aile sağlığı merkezlerinin kurumsal kimliğe uygun hale getirilmesini teminen aşağıdaki hususlar çerçevesinde gerekli çalışmalar yapılacaktır.
 
@@ -39,9 +37,7 @@ Bu talimat doğrultusunda illerinizde hizmet veren aile sağlığı merkezlerini
 
 4) Genel bakım onarım ihtiyacı bulunan tesislerde bakım onarım yapılırken kurumsal kimlik kılavuzu uygulanacaktır. Ancak mevcut aile sağlığı merkezi binalarında kullanım ömrünü tamamlamamış maliyeti yüksek olan tüm imalatlar (cephe, çatı, kapı, pencere doğramaları, döşeme kaplamaları, tavan imalatları) kamu zararı meydana getirmemek üzere mevcudu korunarak sadece boyama işlemlerinin yapılması suretiyle kurumsal kimliğe uygun görünümde olması sağlanacaktır.
 
-5) Yıkım kararı olan, hızlı tarama testi sonucu yeterli bulunmayan ve detaylı performans analizi istenilen
-
-ASM binalarına kurumsal kimlik uygulanmayacaktır. Ancak, deprem performans analiz sonucunda güçlendirme kararı çıkan tesislere güçlendirme yapılırken kurumsal kimlik kılavuzuna uygun olarak yapılacaktır.
+5) Yıkım kararı olan, hızlı tarama testi sonucu yeterli bulunmayan ve detaylı performans analizi istenilen ASM binalarına kurumsal kimlik uygulanmayacaktır. Ancak, deprem performans analiz sonucunda güçlendirme kararı çıkan tesislere güçlendirme yapılırken kurumsal kimlik kılavuzuna uygun olarak yapılacaktır.
 
 6) Yeni açılan tüm aile sağlığı merkezlerinde kurumsal kimlik uygulanacaktır.
 

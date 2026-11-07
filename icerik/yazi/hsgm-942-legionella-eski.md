@@ -8,6 +8,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Legionella
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 MUCIYE HAL% THSK HAL K
 
 SAĞLICit ISOBATLI:APJ mal DAIRE
@@ -28,19 +29,9 @@ VALILIĞINE
 
 (Halk Sağlığı Müdürlüğü)
 
-Bilindiği üzere, 13/05/2015 tarihli ve 29354 sayılı Resmi Gazete'de yayımlanan
+Bilindiği üzere, 13/05/2015 tarihli ve 29354 sayılı Resmi Gazete'de yayımlanan Lejyoner Hastalığı Kontrol Usul ve Esasları Hakkında Yönetmelikte Lejyoner hastalığına karşı hazırlıklı olmak, hastalıktan korunmak ve hastalıkla mücadele etmek için alınması gereken tedbirler ile hastalığın bildirimine ilişkin usul ve esaslar düzenlenmiştir.
 
-Lejyoner Hastalığı Kontrol Usul ve Esasları Hakkında Yönetmelikte Lejyoner hastalığına karşı hazırlıklı olmak, hastalıktan korunmak ve hastalıkla mücadele etmek için alınması gereken tedbirler ile hastalığın bildirimine ilişkin usul ve esaslar düzenlenmiştir.
-
-"Lejyoner Hastalığı Kontrol Programı" çerçevesinde, gerekli alt yapıyı oluşturan ve
-
-Legionella analizi yapmak için bu konuda eğitimlerini tamamlamış olan 18 Halk Sağlığı
-
-Laboratuvarının analiz yapması planlanmış olup bu kapsamda, Halk Sağlığı Laboratuvarları
-
-Daire Başkanlığının 28/01/2015 tarihli ve 62665021/090.99/77 sayılı yazısı çerçevesinde,
-
-Mikrobiyoloji Referans Laboratuvarları Daire Başkanlığınca, Dış Kalite Değerlendirme (DKD) programı kapsamında hazırlanan numuneler belirlenen Halk Sağlığı Laboratuvarlarma gönderi Im iştir.
+"Lejyoner Hastalığı Kontrol Programı" çerçevesinde, gerekli alt yapıyı oluşturan ve Legionella analizi yapmak için bu konuda eğitimlerini tamamlamış olan 18 Halk Sağlığı Laboratuvarının analiz yapması planlanmış olup bu kapsamda, Halk Sağlığı Laboratuvarları Daire Başkanlığının 28/01/2015 tarihli ve 62665021/090.99/77 sayılı yazısı çerçevesinde, Mikrobiyoloji Referans Laboratuvarları Daire Başkanlığınca, Dış Kalite Değerlendirme (DKD) programı kapsamında hazırlanan numuneler belirlenen Halk Sağlığı Laboratuvarlarma gönderi Im iştir.
 
 Bu kapsamda, DKD programında yeterli bulunarak. Legionella analiz yapma yetkisi alan Halk Sağlığı Laboratuvarları ve yapılan planlama doğrultusunda bu laboratuvarlara numune gönderecek olan illerin dağılımı ekte tablo halinde verilmiştir. Programa katılıp legionella analizi yapma yetkisi alamayan laboratuvarlar ise eksikliklerini tamamlayarak DKD programına tekrar alınacaktır. Bu laboratuvarların da başarılı olmaları durumunda yetkilendirileceği ve il dağılımının tekrar düzenleneceği hususunda;
 

@@ -27,11 +27,7 @@ DAĞITIM YERLERİNE
 
 b) Milli Savunma Bakanlığı Askeri Sağlık Hizmetleri Genel Müdürlüğü’nün 27.08.2024 tarihli ve E-90984958-602.05-3865643 sayılı yazısı.
 
-Cumhurbaşkanlığı İdari İşler Başkanlığı tarafından Aile ve Sosyal Hizmetler Bakanlığı koordinesinde yürütülen; ülkemizde kadınların ekonomik ve sosyal yaşama katılımlarının güçlendirilmesi, başta eğitim, sağlık ve istihdam olmak üzere hayatın tüm alanlarında hak, fırsat ve imkanlardan tam olarak faydalanmaları ile her alanda ve düzeyde temsillerinin artırılması amacıyla "Kadının Güçlendirilmesi Strateji Belgesi ve Eylem
-
-Planı"nın (2024-2028) hazırlanarak uygulamaya konulduğu ve buna yönelik çalışmalarla ilgili olarak Milli
-
-Savunma Bakanlığına (MSB) "erbaş ve erlere yönelik cinsel sağlık/üreme sağlığı ve üreme hakları konularında eğitim" görevi verilmiştir. Söz konusu eğitim için ilgi (a)’da kayıtlı yazı ile Genel Müdürlüğümüzden talep edilen ve ilgi (b)’de kayıtlı yazı ile Genel Müdürlüğümüzce hazırlanan ve MSB tarafından erbaş ve erlere yönelik cinsel sağlık/üreme sağlığı ve üreme hakları eğitimi için uygun görülen ve Ek’te yer alan eğitim sunumu kullanılacaktır.
+Cumhurbaşkanlığı İdari İşler Başkanlığı tarafından Aile ve Sosyal Hizmetler Bakanlığı koordinesinde yürütülen; ülkemizde kadınların ekonomik ve sosyal yaşama katılımlarının güçlendirilmesi, başta eğitim, sağlık ve istihdam olmak üzere hayatın tüm alanlarında hak, fırsat ve imkanlardan tam olarak faydalanmaları ile her alanda ve düzeyde temsillerinin artırılması amacıyla "Kadının Güçlendirilmesi Strateji Belgesi ve Eylem Planı"nın (2024-2028) hazırlanarak uygulamaya konulduğu ve buna yönelik çalışmalarla ilgili olarak Milli Savunma Bakanlığına (MSB) "erbaş ve erlere yönelik cinsel sağlık/üreme sağlığı ve üreme hakları konularında eğitim" görevi verilmiştir. Söz konusu eğitim için ilgi (a)’da kayıtlı yazı ile Genel Müdürlüğümüzden talep edilen ve ilgi (b)’de kayıtlı yazı ile Genel Müdürlüğümüzce hazırlanan ve MSB tarafından erbaş ve erlere yönelik cinsel sağlık/üreme sağlığı ve üreme hakları eğitimi için uygun görülen ve Ek’te yer alan eğitim sunumu kullanılacaktır.
 
 Bu kapsamda;
 

@@ -483,7 +483,6 @@ g) Faaliyet alanıyla ilgili izleme ve değerlendirme faaliyeti yapmak, ilgili b
 
 g) Göçmenlere verilecek sağlık hizmetlerinin nicelik ve niteliğinin behrlenmesi ile güncellenmesi faaliyetlerini, ilgili birimlerle birlikte yürütmek.
 
-
 ### 360
 
 h) Göç sağlığı hizmetlerinin geliştirilmesi için araştırmalar yapmak, projeler üretmek, uygulamak ve göç sağlığı ile ilişkili ulusal ve uluslararası programların sahada uygulanmasını ilgili birimlerle iş birliği içerisinde sağlamak, yürütülen programlara katkı ve/veya katılım sağlamak.
@@ -523,7 +522,6 @@ h) Görev alanı ile ilgili şikåyet ve talepleri değerlendirmek.
 i) Aile Hekimliği Uygulama Yönetmeliğinde yer verilen eğitimleri yapmak ve/veya aile hekimlerinin ve aile sağlığı çalışanlarının bu eğitimlere katılmasını sağlamak.
 
 j) Birinci basamak sağlık hizmetleri alanında yapılacak olan araştırma taleplerini değerlendirmek.
-
 
 ### 361
 
@@ -577,7 +575,6 @@ f) Kanser Erken Teşhis ve Tarama Eğitim Merkezlerinin (KETEM) planlanması ye 
 
 ### 3
 
-
 ### 362
 
 g) Il kanser danışma komisyonunu oluşturmak, sekretaryasını yürütmek, komisyonda belirtilen sorunların çözümünü sağlamak ve çözülmeyen sorunları Başkanlığa bildirmek.
@@ -617,8 +614,6 @@ g) Toplumun her kesiminin yeterli ve dengeli beslenme konusunda bilinçlenmesini
 h) Bakanlıkça belirlenen beslenme ve diyet danışmanlığı hizmetlerine ait hizmet kalite standartları, kriterleri ve performans standartlarının uygulanmasını sağlamak.
 
 1) Toplu beslenme hizmeti sunulan yerlerde (okul, yurt, hastane, kreş, bakımęvi, čezaevi vb.) besinlerin satın alınmasından servisine kadar geçen her aşamada sağlıklı beslenmenin
-
-
 
 ### 363
 
@@ -752,7 +747,6 @@ g) Ani gelişen halk sağlığı tehditlerini ortadan kaldırmaya ve/veya azaltm
 
 ### 7 BEKTAS
 
-
 ### 366
 
 h) Faaliyet alanlarıyla ilgili hizmet içi eğitim programı hazırlamak ya da hazırlanmasını sağlamak, bu eğitimlerin gerçekleştirilmesini sağlamak.
@@ -798,7 +792,6 @@ n) Tüberküloz kontrolüne yönelik yürütülen çalışmalarda; ilgili birim,
 o) Il Sağlık Müdürü tarafindan verilen benzeri görevleri yapmak.
 
 ### 8
-
 
 ### 367
 
@@ -854,7 +847,6 @@ SĄS
 
 ### 9
 
-
 ### 368
 
 b) Çalışanların sağlığının korunması ve çalışan sağlığı hizmetlerinin iyileştirilmesi amacıyla, gerekli araştırma ve geliştirme çalışmalarımı ilgili kurum ve kuruluşlarla iş birliği içinde yürütmek, projeler geliştirerek uygulamak
@@ -909,7 +901,6 @@ h) Il Sağlık Müdürü tarafından verilen benzeri görevleri yapmak.
 
 ### 10
 
-
 ### 369
 
 ### B) KAMU HASTANELERİ BAŞKANLIĞI HİZMET BİRİMLERİ
@@ -951,8 +942,6 @@ k) Faaliyet alanlarıyla ilgili eğitim programı hazırlayarak uygulamak ya da 
 a) Ihtiyaç duyulan veriler için gerekli formları istatistiki veri toplama mantığına uygun şekilde birimlerle koordineli olarak hazırlamak, elde edilen verileri analiz etmek ve değerlendirmek.
 
 ### 11
-
-
 
 ### 370
 
@@ -1010,7 +999,6 @@ g) Mali kaynakların etkin, etkili ve verimli kullanılmasını sağlamak için 
 
 ### 12
 
-
 g) Sağlık tesislerinde tedarik planlama süreçlerine ilişkin düzenlemelere uyulmasını sağlamak ve gerekli tedbirleri almak.
 
 h) Faaliyet alanlarıyla ilgili eğitim programı hazırlayarak uygulamak ya da uygulatmak, görev alanıyla ilgili araştırmalar yapmak, konu hakkında sempozyum, panel, çalıştay, seminer vs. etkinlikleri düzenlemek ve düzenlenen ulusal ve uluslararası etkinliklere katkı ve/veya katılım sağlamak.
@@ -1063,7 +1051,6 @@ a) Sağlık kurum ve kuruluşlarında, hasta ve refakatçilerine yönelik hizmet
 
 13 bdulltachr BEKTAS
 
-
 ### 372
 
 b) Sağlık bakım ve hasta hizmetleri bünyesinde çalışan personelin kaynak ihtiyaçlarımı belirlemek ve ilgili işlemleri koordinasyon içinde yürütmek.
@@ -1110,7 +1097,6 @@ h) Organ ve doku nakli, kan ve kan ürünleri, diyaliz, üremeye yardımcı teda
 
 ### 14
 
-
 ### 373
 
 i) Organ Nakli Etik Kurulunun iş ve işlemlerinin yürütülmesi, Organ ve Doku Nakil Koordinatörlerinin yapacağı faaliyetlerin planlanması, denetlenmesi ve yürütülmesi işlemlerini ypmak.
@@ -1144,7 +1130,6 @@ a) Il genelinde kamu ve özel hukuk tüzel kişileri ile gerçek kişilere ait s
 b) Sağlıkta tanıtım ve bilgilendirme faaliyetlerini düzenli olarak izlemek, mevzuata aykırı tanıtım ve bilgilendirme yapıldığı tespit edilen kişi, kurum ve kuruluşlar hakkında gerekli yaptırımları uygulamak ve uygulanmasını sağlamak,
 
 c) Ilgili mevzuat gereğince tüm sağlık kurum ve kuruluşlarında çalışan hekim ve sağlık personeline verilen meslekten men cezalarını uygulamak.
-
 
 ### 374
 
@@ -1187,7 +1172,6 @@ e) Il Sağlık Müdürü tarafindan verilen diğer görevleri yapmak
 a) Sağlık meslek mensuplarının mevzuatlarla belirlenen görev, yetki, sorumluk ve sınırlılıkları kapsamında çahışmalarımı sağlamak,
 
 b) Bakanlığın planlamalarına uygun olarak sağhk meslek mensuplarının it düzcyinde mikro planlamalarını yapmak,
-
 
 ### 375
 
@@ -1239,7 +1223,6 @@ e) Hizmet amacına yönelik organizasyon ile mal ve hizmet alımları ile ilgili
 
 ›au kagit BEK TA
 
-
 ### 376
 
 g) Faaliyet alanlarıyla ilgili eğitim programı hazırlayarak uygulamak ya da uygulatmak, görev alanıyla ilgili araştırmalar yapmak, konu hakkında sempozyum, panel, çalıştay, seminer vs. etkinlikleri düzenlemek ve düzenlenen ulusal ve uluslararası etkinliklere katkı ve/veya katılım sağlamak.
@@ -1283,7 +1266,6 @@ c) Il genelinde kamu ve özel hukuk tüzel kişileri ile gerçek kişilere ait s
 d) İl Sağlık Müdürü tarafindan verilen benzeri görevleri yapmak.
 
 ### 18
-
 
 ### 377
 
@@ -1333,7 +1315,6 @@ isdalkadır BEKTAS
 
 ### 19
 
-
 ### 378
 
 ğ) Görev alanı ile ilgili veri toplamak, analiz ve raporlama çalışmalarını yapmak ve/veya yaptırmak.
@@ -1375,7 +1356,6 @@ d) Il Sağlık Müdürü tarafindan verilen benzeri görevleri yapmak.
 a) Sağlık ve yardımcı sağlık hizmetleri sınıfinda görev yapmakta personelin asli memurluğa atanma, ücretsiz izin, hizmet birleştirme ve borçlanma ile hizmet puanı iş ve işlemlerini yürütmek.
 
 b) Tabip ve uzman tabiplerin Devlet hizmet yükümlülüğü takip ve tamamlama iş ve e) Sağlık personelinin emeklilik ve fili hizmet iş ve işlemlerini yürütmeki Wa 4 2- eç a işlemlerini yürütmek
-
 
 ### J17
 
@@ -1437,7 +1417,6 @@ a) Disiplin ile ilgili işlemlerin mevzuata uygun şekilde, zamanında yapılmas
 
 b) Personel hakkında; 657 sayılı Devlet Memurları Kanununun disiplin hukuku hükümlerini, tåbi oldukları mevzuatta yer alan (4924 sayılı Kanun, 5258 sayılı Kanun ve 663 sayılı Sağhk Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamede öngörülen) ihtar puanlarını ve sürekli işçi olarak istihdam edilenler hakkında Belirsiz Süreli İş Sözleşmesinde düzenlenen cezaları uygulamaya ilişkin iş ve işlemleri yürütmek.
 
-
 ### 380
 
 c) Haklarında Türk Ceza Kanunu uyarınca tahkikat yürütülen personele ilişkin işlemleri koordine etmek.
@@ -1496,7 +1475,6 @@ h) Daire tabipliği, iş sağlığı ve güvenliği ile ilgili iş ve işlemleri
 
 1) Faaliyet alanlarıyla ilgili eğitim programı hazırlayarak uygulamak ya daz uyulamak görev alanıyla ilgili araştırmalar yapmak, konu hakkında sempozyum, panel, çaliştay, seminer
 
-
 ### J01
 
 vs. etkinlikleri düzenlemek ve düzenlenen ulusal ve uluslararası etkinliklere katkı ve/veya katılım sağlamak.
@@ -1548,7 +1526,6 @@ a) Yatırım programına teklif edilen projeler için arsa temin etmek ve söz k
 b) Bakanlığın ihtiyaç duyduğu taşınmazların kamulaştırma işlemlerini yürütmëk
 
 ### • BEKTAS 23
-
 
 ### 382
 
@@ -1602,7 +1579,6 @@ d) 663 sayılı Kanun Hükmünde Kararname'nin 54 üncü maddesi kapsamındaki p
 
 e) Hukuki işlemlerle ilgili olarak yazışmalarda bulunmak. vs. etkinlikler düzenlemek ve düzenlenen ulusal ve uluslararası etkinhiklere kaü, vel/yeyă olçe 1) Faaliyet alanlarıyla ilgili eğitim programı hazırlayarak uygulamak ya da uygulatmak, görev alanıyla ilgili araştırmalar yapmak, konu hakkında sempozyum, panel, çalıştay, seminer katılım sağlamak.
 
-
 ### 383
 
 g) İl Sağlık Müdürü tarafından verilen benzeri görevleri yapmak.
@@ -1650,8 +1626,6 @@ d) Birden fazla kurul oluşturulması halinde sağlık kuruluşlarının bağlı
 e) Hasta hakları uygulamalarını il genelinde koordine etmek, bu konuda danışmalık yapmak, gereği halinde uygulamaları yerinde denetlemek ve hasta hakları ihlaline sebep olabilecek hususları yerinde incelemek.
 
 f) Kurul kararlarının özetini, başvuru tarihi, başvuru konusu, karar tarihi ve sayısı ile sağlık tesisi ismi belirtilerek kişi isimleri isimlerine yer vermeden il sağlık müdürlüğünün internet sayfasında duyurulmasını sağlamak. görev alanya let ilanaşuyhala yapmak, konu hak kand sempozyum, pane y da tay, seminer .
-
-
 
 ### 384
 
@@ -1705,7 +1679,6 @@ c) Görev alanıyla ilgili veri toplamak, analiz ve raporlama çalışmalarını
 
 26
 
-
 ### 385
 
 d) Faaliyet alanlarıyla ilgili eğitim programı hazırlayarak uygulamak ya da uygulatmak, görev alanıyla ilgili araştırmalar yapmak,
@@ -1726,9 +1699,7 @@ Toplum Sağlığı Birimi ile Göç Sağlığı Birimi altında tanımlanan iş 
 
 ### 14. HASTANE HIZMETLERI BIRIMI 15. İSTATİSTİK, ANALİZ VE RAPORLAMA BİRİMİ
 
-Istatistik, Analiz ve Raporlama Birimi ile Finansal Analiz ve Faturalandırma Birimi altında
-
-tanımlanan iş ve işlemleri yapar.
+Istatistik, Analiz ve Raporlama Birimi ile Finansal Analiz ve Faturalandırma Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 16. TEDARİK PLANLAMA, STOK VE LOJISTIK YÖNETİMİ BİRİMİ 17. ŞEHİR HASTANELERİ BİRİMİ 18. VERİMLİLİK VE KALİTE YÖNETİM BİRİMİ 19. SAĞLIK BAKIM VE HASTA HİZMETLERİ BİRİMİ 20. ECZACILIK BİRİMİ 21. TIBBİ CIHAZ VE BİYOMEDİKAL BİRİMİ 22. SAGLIK HİZMETLERİ BİRİMİ 23. KAMU SAGLIK TESİSLERİ BİRİMİ 24. SAGLIK HIZMETLERI İZLEME, DEĞERLENDİRME VE DENETİMİ BİRİMİ 25. OZEL HASTANELER BİRİMİ 26. ÖZEL AYAKTAN TANI VE TEDAVİ MERKEZLERİ BİRİMİ 27. SAĞLIK MESLEKLERI BİRİMİ 28. EGİTİM VE TESCİL BİRİMİ 29. ACİL SAGLIK HİZMETLERİ BİRİMİ 30. AFETLERDE SAĞLIK HIZMETLERI BİRİMİ 31. SAKOM BİRİMİ 32. SAGLIK PERSONELI ATAMA BİRİMİ 33. DIĞER PERSONEL ATAMA BİRİMİ 34. SAGLIK PERSONELI ÖZLÜK İŞLERİ BİRİMİ 35. DİGER PERSONEL ÖZLÜK İŞLERİ BİRİMİ 36. DİSİPLIN İŞLEMLER BİRİMİ 37. EĞİTİM HİZMETLERİ BİRİMİ 38. IDARI HİZMETLER BİRİMİ 39. MALİ HİZMETLER BİRİMİ 40. YATIRIMLAR BİRİMI 41. SAĞLIK BİLGİ SİSTEMLERİ BİRİMİ 42. HUKUK VE MUHAKEMAT BİRİMİ 43. HASTA HAKLARI İL KOORDİNATÖRLÜĞÜ 44. SİVİL SAVUNMA VE SEFERBERLİK HİZMETLERİ BİRİMİ 45. DONER SERMAYE MUHASEBE HIZMETLERI BIRIMI 46. IL KALITE KOORDİNATÖRLÜĞÜ 47. İNCELEME VE SORUŞTURMA BİRİMİ 48. MESLEKİ SORUMLULUK KURULU İL KOORDİNATÖRLÜĞÜ 49.AĞIZ VE DİŞ SAĞLIĞI HİZMETLERİ BİRİMİ 388
 
@@ -1738,15 +1709,11 @@ Toplum Sağlığı Birimi ile Göç Sağlığı Birimi altında tanımlanan iş 
 
 ### 3. İZLEME, DEĞERLENDIRME VE İSTATİSTİK BİRİMİ 4. BULAŞICI OLMAYAN HASTALIKLAR BİRİMİ
 
-Bulaşıcı Olmayan Hastalıklar Birimi ile Ruh Sağlığı Birimi altında tanımlanan iş ve işlemleri
-
-уараг.
+Bulaşıcı Olmayan Hastalıklar Birimi ile Ruh Sağlığı Birimi altında tanımlanan iş ve işlemleri уараг.
 
 ### 5. SAGLIKLI BESLENME VE HAREKETLI HAYAT BİRİMİ 6. TÜTÜN VE DİĞER BAĞIMLILIK YAPICI MADDELERLE MÜCADELE BİRİMİ 7. ÇOCUK, ERGEN, KADIN VE ÜREME SAĞLIĞI BİRİMİ
 
-Çocuk, Ergen, Kadın ve Üreme Sağlığı Birimi ile Kanser Birimi altında tanımlanan iş ve
-
-işlemleri yapar.
+Çocuk, Ergen, Kadın ve Üreme Sağlığı Birimi ile Kanser Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 8. BULAŞICI HASTALIKLAR BİRİMİ
 
@@ -1762,9 +1729,7 @@ Hastane Hizmetleri Birimi ile Şehir Hastaneleri Birimi altında tanımlanan iş
 
 ### 12. İSTATİSTİK, ANALIZ VE RAPORLAMA BİRİMİ
 
-Istatistik, Analiz ve Raporlama Birimi ile Finansal Analiz ve Faturalandırma Birimi altında
-
-tanımlanan iş ve işlemleri yapar.
+Istatistik, Analiz ve Raporlama Birimi ile Finansal Analiz ve Faturalandırma Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 13. TEDARİK PLANLAMA, STOK VE LOJISTIK YÖNETIMI BİRİMİ 14. VERİMLİLİK VE KALITE YÖNETIM BİRİMİ 15. SAGLIK BAKIM VE HASTA HİZMETLERİ BİRİMİ 16. ECZACILIK BIRIMI 17. TIBBİ CİHAZ VE BİYOMEDİKAL BİRİMI 18. SAGLIK HİZMETLERİ BİRİMİ
 
@@ -1792,15 +1757,11 @@ Hayat Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 5. ÇOCUK, ERGEN, KADIN VE ÜREME SAĞLIĞI BİRİMİ
 
-Çocuk, Ergen, Kadın ve Üreme Sağlığı Birimi ile Kanser Birimi altında tanımlanan iş ve
-
-işlemleri yapar.
+Çocuk, Ergen, Kadın ve Üreme Sağlığı Birimi ile Kanser Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 6. BULAŞICI HASTALIKLAR BİRİMİ
 
-Bulaşıcı Hastalıklar Birimi, Aşı Programları Birimi ile Tüberküloz Birimi altında tanımlanan iş
-
-ve işlemleri yapar.
+Bulaşıcı Hastalıklar Birimi, Aşı Programları Birimi ile Tüberküloz Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 7. ÇEVRE SAGLIGI BIRİMI
 
@@ -1828,21 +1789,15 @@ Sağlık Hizmetleri Birimi ile Sağlık Meslekleri Birimi altında tanımlanan i
 
 ### 14. KAMU SAĞLIK TESİSLERİ BİRİMİ 15. SAGLIK HİZMETLERİ İZLEME, DEĞERLENDİRME VE DENETİMİ BİRİMI 16. ÖZEL HASTANELER BİRİMİ
 
-Özel Hastaneler Birimi ile Özel Ayaktan Tanı ve Tedavi Merkezleri Birimi altında tanımlanan
-
-iş ve işlemleri yapar.
+Özel Hastaneler Birimi ile Özel Ayaktan Tanı ve Tedavi Merkezleri Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 17. ACİL SAĞLIK HİZMETLERİ BİRİMİ 18. AFETLERDE SAĞLIK HİZMETLERİ BİRİMİ 19. SAKOM BİRİMİ 20. ATAMA BİRİMİ
 
-Sağlık Personeli Atama Birimi ile Diğer Personel Atama Birimi altında tanımlanan iş ve
-
-işlemleri yapar.
+Sağlık Personeli Atama Birimi ile Diğer Personel Atama Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 21. ÖZLÜK İŞLERİ BİRİMİ
 
-Sağlık Personeli Özlük Birimi ile Diğer Personel Özlük Birimi altında tanımlanan iş ve
-
-işlemleri yapar.
+Sağlık Personeli Özlük Birimi ile Diğer Personel Özlük Birimi altında tanımlanan iş ve işlemleri yapar.
 
 22. DISIPLIN İŞLEMLERİ BİRİMI Yaparin Işlemleri Birini ile Inceleme ve Soruştuma Birimi altında tanımlanan iş ve işlemleri U oCk-
 
@@ -1858,23 +1813,17 @@ Idari Hizmetler Birimi ile Yatırımlar Birimi altında tanımlanan iş ve işle
 
 ### 25. MALİ HİZMETLER BİRİMİ 26. SAGLIK BİLGİ SİSTEMLERİ BİRİMİ 27. HUKUK VE MUHAKEMAT BİRİMİ 28. HASTA HAKLARI İL KOORDİNATÖRLİĞÜ 29. SIVIL SAVUNMA VE SEFERBERLIK HİZMETLERİ BİRİMİ 30. DÖNER SERMAYE MUHASEBE HİZMETLERİ BİRİMİ 31. İL KALİTE KOORDİNATÖRLÜĞÜ 32. MESLEKİ SORUMLULUK KURULU İL KOORDİNATÖRLÜĞÜ 33. AGIZ VE DİŞ SAĞLIĞI HİZMETLERİ BİRİMİ V) 17- GRUBU ILLERDE KURULACAK BİRİMLER 1. AILE HEKİMLİGİ BİRİMİ 2. TOPLUM SAGLIGI BİRİMI
 
-Toplum Sağlığı Birimi, Göç Sağlığı Birimi ile izleme, Değerlendirme ve İstatistik Birimi
-
-altında tanımlanan iş ve işlemleri yapar.
+Toplum Sağlığı Birimi, Göç Sağlığı Birimi ile izleme, Değerlendirme ve İstatistik Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 3. BULAŞICI OLMAYAN HASTALIKLAR BİRİMİ
 
 Bulaşıcı Olmayan Hastalıklar Birimi, Ruh Sağlığı Birimi, Sağlıklı Beslenme ve Hareketli Hayat
 
-Birimi, Çocuk, Ergen, Kadın Ve Üreme Sağlığı Birimi ile Kanser Birimi altında tanımlanan iş ve
-
-ışlemleri yapar.
+Birimi, Çocuk, Ergen, Kadın Ve Üreme Sağlığı Birimi ile Kanser Birimi altında tanımlanan iş ve ışlemleri yapar.
 
 ### 4. BULAŞICI HASTALIKLAR BİRİMİ
 
-Bulaşıcı Hastalıklar Birimi, Aşı Programlanı Birimi ile Tüberküloz Birimi altında tanımlanan iş
-
-ve işlemleri yapar.
+Bulaşıcı Hastalıklar Birimi, Aşı Programlanı Birimi ile Tüberküloz Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 5. ÇEVRE SAGLIGI BİRİMİ
 
@@ -1894,9 +1843,7 @@ Planlama, Stok Ve Lojistik Yönetimi Birimi altında tanımlanan iş ve işlemle
 
 ### 8. VERİMLILİK VE KALİTE YÖNETIM BİRİMİ
 
-Verimlilik ve Kalite Yönetim Birimi ile Sağlık Bakım ve Hasta Hizmetleri Birimi altında
-
-tanımlanan iş ve işlemleri yapar.
+Verimlilik ve Kalite Yönetim Birimi ile Sağlık Bakım ve Hasta Hizmetleri Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 9. TIBBI CIHAZ VE ECZACILIK BİRİMÌ
 
@@ -1910,15 +1857,11 @@ Tanı ve Tedavi Merkezleri Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 11. SAGLIK HİZMETLERİ IZLEME, DEĞERLENDIRME VE DENETİMİ BİRİMİ 12. KAMU SAGLIK TESİSLERI BIRIMI 13. ACIL ve AFETLERDE SAGLIK HIZMETLERI BİRİMİ
 
-Acil Sağlık Hizmetleri Birimi, Afetlerde Sağlık Hizmetleri Birimi ile Sakom Birimi altında
-
-tanımlanan iş ve işlemleri yapar.
+Acil Sağlık Hizmetleri Birimi, Afetlerde Sağlık Hizmetleri Birimi ile Sakom Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 14. ATAMA BIRİMI
 
-Sağlık Personeli Atama Birimi ile Diğer Personel Atama Birimi altında tanımlanan iş ve
-
-işlemleri yapar.
+Sağlık Personeli Atama Birimi ile Diğer Personel Atama Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 15. ÖZLÜK IŞLERI BİRİMİ
 
@@ -1928,9 +1871,7 @@ Hizmetleri Birimi altında tanımlanan iş ve işlemleri yapar.
 
 ### 16. DISİPLIN İŞLEMLERİ BİRİMİ
 
-Disiplin işlemleri Birimi ile Inceleme ve Sorușturma Birimi altında tanımlanan iş ve işici
-
-yapr.
+Disiplin işlemleri Birimi ile Inceleme ve Sorușturma Birimi altında tanımlanan iş ve işici yapr.
 
 ### 17. İDARİ HIZMETLER BİRİMİ BENZL HEY
 
@@ -2065,7 +2006,6 @@ Bekçi YHS Berber YHS Hizmetli YHS 60 50 40 35 30 25 20 15 10 Teknisyen Yardımc
 
 (2) Tekniker/Teknisyen standardı, tabloda bellrtilmeyen diğer teknike nisyen b nı için de kul NOT: A) Sürekli İşçi İl Sağlık Müdürlüğü standardı; Il Ambulans Servisi Başh Sağlık Hizmetleri İstasyonlarını kapsamaktadır.
 
-
 ### 395
 
 ### B) İLÇE SAĞLIK MÜDÜRLÜĞÜ PERSONELİN KADRO UNVANI VE NİTELIĞİ SINIFI A1 A2 A3 A4 AS
@@ -2087,7 +2027,6 @@ Uzman Tabip (Aile Hekimliği) SHS Uzman Tabip (Halk SeğB) SHS Tabip (3) SHS 26 
 (9) Sağlıki Hayat Merkezi (SHM) varsa her SHM için bu standartlara 3 eklenir.
 
 (10) Entegre B2 tipi Acil Sağik Hizmetleri İstasyonu olması durumunda kulanır. NOT: A) ilçe TÜiK nüfusu 750.001 de daha büyük ilçeler A1, 500.001 ile 750.000 arasında olan geler A2, 350.001 ile 500.000 arasinda olan liçeler A3, 275.001 àe 350.000 arasinda olan ilçeler A4, 200.001 ile 275.000 arasinda olan ilpeler AS, 150.001 ile 200.000 arasinda olan Ilçeler B1, 100.001 ile 150.000 arasinda olen ilçeler B2, 75.001 ile 100.000 arasinda olan ilçeler B3, 50.001 ile 75.000 arasinda olan Epeler B4, 30.001 ile 50.000 arasinda olan ilçeler B$ grubu olarak tanimlanmiştır.
-
 
 ### 396
 

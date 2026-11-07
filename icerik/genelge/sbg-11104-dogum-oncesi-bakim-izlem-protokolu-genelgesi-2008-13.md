@@ -76,9 +76,7 @@ Sosyal güvencesi
 
 Kronik sistemik hastalıklar
 
-(Diabetes Mellitus, hipertansiyon, kardiyovasküler hastalıklar,
-
-kr.böbrek hastalığı, epilepsi, tiroid hastalıkları vb.)
+(Diabetes Mellitus, hipertansiyon, kardiyovasküler hastalıklar, kr.böbrek hastalığı, epilepsi, tiroid hastalıkları vb.)
 
 Geçirilmiş veya tedavisi sürmekte olan enfeksiyon hastalıkları
 
@@ -106,9 +104,7 @@ Geçirilmiş jinekolojik operasyonlar
 
 Aile öyküsü
 
-(Diabetes mellitus, tekraralayan fetal anomaliler, çift
-
-yumurta ikizi vb.)
+(Diabetes mellitus, tekraralayan fetal anomaliler, çift yumurta ikizi vb.)
 
 Sürekli kullanmak zorunda olduğu ilaçlar
 
@@ -128,9 +124,7 @@ Yaşayan çocuk sayısı
 
 Son gebeliğin sonlanma tarihi-yeri
 
-Gebenin her gebeliği ile ilgili öyküsünün ve gebelik sonucunun
-
-aşağıdakilere göre irdelenmesi;
+Gebenin her gebeliği ile ilgili öyküsünün ve gebelik sonucunun aşağıdakilere göre irdelenmesi;
 
 Doğumların kim tarafından nerede yapıldığı
 
@@ -184,13 +178,9 @@ Mevcut gebelik öyküsünü alınız.
 
 Son Adet Tarihi (Son adetin ilk günü)
 
-Son adet tarihine (SAT) göre tahmini doğum tarihi Nagele
+Son adet tarihine (SAT) göre tahmini doğum tarihi Nagele kanununa göre hesaplanır: Tahmini Doğum Tarihi = SAT -3 ay + 7 gün
 
-kanununa göre hesaplanır: Tahmini Doğum Tarihi = SAT -3 ay + 7 gün
-
-Adetleri düzenli olmayan hastalarda gebelik haftasının SAT ile uyumlu
-
-olmayabileceği unutulmamalıdır.
+Adetleri düzenli olmayan hastalarda gebelik haftasının SAT ile uyumlu olmayabileceği unutulmamalıdır.
 
 Bilinmiyorsa; İlk gebelik testi tarihi
 
@@ -222,9 +212,7 @@ Kan Basıncını ölçünüz ( Sistolik kan basıncının 140, diastolik kan bas
 
 Ciddi anemi bulgularını kontrol ediniz
 
-El tırnakları, konjunktiva, ağız mukozasında solukluk,
-
-nefes almakta güçlük, 30’un üzerinde solunum sayısı
+El tırnakları, konjunktiva, ağız mukozasında solukluk, nefes almakta güçlük, 30’un üzerinde solunum sayısı
 
 Hastalığı gösteren diğer tehlike işaretlerini kontrol ediniz
 
@@ -584,11 +572,7 @@ Risk değerlendirme formunu kullanarak, gebenin kuruluştaki izlenebilirliğini 
 
 İzlem fişinin bir örneğini gebeye veriniz.
 
-Gebe başka bir sağlık kuruluşuna başvurduğunda
-
-tüm gebelik süreci hakkında bilgi edinilmesi sağlanır
-
-ve acil obstetrik yaklaşımlar da buna göre planlanır.
+Gebe başka bir sağlık kuruluşuna başvurduğunda tüm gebelik süreci hakkında bilgi edinilmesi sağlanır ve acil obstetrik yaklaşımlar da buna göre planlanır.
 
 Bir sonraki izlem tarihini 30-32. hafta olarak belirleyerek randevu kartına yazınız.
 
@@ -604,9 +588,7 @@ Bu muayenenin yapıldığı sağlık kuruluşunun telefon numarası, ilgili sağ
 
 #### Kişisel bilgilerini alınız
 
-İkinci izlemin ardından herhangi bir değişiklik olup olmadığını
-
-sorgulayınız.
+İkinci izlemin ardından herhangi bir değişiklik olup olmadığını sorgulayınız.
 
 #### Tıbbi öykü alınız
 

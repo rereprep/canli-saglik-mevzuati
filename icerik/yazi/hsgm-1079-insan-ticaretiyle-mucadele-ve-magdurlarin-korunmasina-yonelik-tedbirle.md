@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -28,9 +29,7 @@ DAĞITIM YERLERİNE
 
 İlgi : 05.02.2025 tarihli ve 267737922 sayılı yazı.
 
-İlgi yazıda, İçişleri Bakanlığı Göç İdaresi Başkanlığı tarafından yürütülen İnsan Ticaretiyle Mücadele ve
-
-Mağdurları Korumaya yönelik ulusal rehberlik mekanizmalarında etkinliğin ve sürekliliğin sağlanmasında kurum ve kuruluşlar arasındaki iş birliği ve koordinasyonun önemi vurgulanmıştır.
+İlgi yazıda, İçişleri Bakanlığı Göç İdaresi Başkanlığı tarafından yürütülen İnsan Ticaretiyle Mücadele ve Mağdurları Korumaya yönelik ulusal rehberlik mekanizmalarında etkinliğin ve sürekliliğin sağlanmasında kurum ve kuruluşlar arasındaki iş birliği ve koordinasyonun önemi vurgulanmıştır.
 
 Bu kapsamda, ekte yer alan İnsan Ticaretiyle Mücadele ve Mağdurların Korunmasına ilişkin kamu personeline yönelik bilgilendirme ve kitapçığın ilinizdeki sağlık kuruluşlarında çalışan sağlık ve sağlık dışı personellerin bilgilendirilmesi hususunda,
 

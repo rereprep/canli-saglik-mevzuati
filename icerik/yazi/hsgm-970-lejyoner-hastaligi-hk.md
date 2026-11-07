@@ -81,11 +81,7 @@ ilgi: 29/07/2016 tarihli ve 62665021-045.99-282 sayılı yazı.
 
 Ilgide yer alan yazı incelenmiş olup bu konuya ilişkin görüşlerimiz aşağıda yer almaktadır.
 
-Lejyoner hastalığının global anlamda kontrol altına alınmasında ulusal ve uluslararası düzeyde uygulanan kontrol programlarının başarılı olması önemlidir. Ülkemizde de Lejyoner hastalığının sürveyansı ve kontrolüne yönelik çalışmalar "Lejyoner Hastalığı Kontrol Usul ve
-
-Esasları Hakkında Yönetmelik (13.05.2015- 29354)" ile düzenlenmiş olup sistemin kanıta dayalı işlemesi esas alınmaktadır. Bu kapsamda. 20 6 yılında yayımlanan "Lejyoner Hastalığı
-
-Kontrol Programı Rehberi"nde belirtildiği üzere Lejyoner hastalığı sürveyansı, yaka sürveyansı ve çevresel sürveyans olmak üzere iki bölümde yapılmaktadır.
+Lejyoner hastalığının global anlamda kontrol altına alınmasında ulusal ve uluslararası düzeyde uygulanan kontrol programlarının başarılı olması önemlidir. Ülkemizde de Lejyoner hastalığının sürveyansı ve kontrolüne yönelik çalışmalar "Lejyoner Hastalığı Kontrol Usul ve Esasları Hakkında Yönetmelik (13.05.2015- 29354)" ile düzenlenmiş olup sistemin kanıta dayalı işlemesi esas alınmaktadır. Bu kapsamda. 20 6 yılında yayımlanan "Lejyoner Hastalığı Kontrol Programı Rehberi"nde belirtildiği üzere Lejyoner hastalığı sürveyansı, yaka sürveyansı ve çevresel sürveyans olmak üzere iki bölümde yapılmaktadır.
 
 Çevresel sürveyans yaka sürveyansına esas olup vakaların ve salgınların kaynağının araştırılması için epidemiyolojik amaçlarla yapılır. Çevresel sürveyansın amacı, vakanın etkilenmiş olabileceği kaynağı bulmak ve bu kaynaktan başka vakaların meydana gelmesini önlemektir. •
 
@@ -95,9 +91,7 @@ Toplum kaynaklı Lejyoner hastalıgında yaka bildirimi sonrasında; bildirime e
 
 tarafından <i>Legionella</i> yönünden incelenmesi gereklidir.
 
-Hastaneler. Lejyoner hastalığı için risk grubuna giren bireylerin genel popülasyona göre daha yoğun olduğu yerler olduğu için hastalık oluştuğunda sıklıkla ağır seyreder ve mortalitesi yüksektir. Ek hastalık yükü yarattığı, hastanede yatış süresini uzattığı ve ekonomik kayıplara neden olduğu için hastane kaynak!! Lejyoner hastalığının kontrolünde etkin bir önleme programı yürütülmelidir. Bu amaçlar için hastanelerde su sistemi yönetimi ve aktif yaka araştırması yapılmalıdır. Yönetmelik ve Rehberde de belirtildiği üzere hastanelerde su sistemi yönetimi için belirlenen aralıklarla su sistemleri izlenmeli ve suda <i>Legionella</i> analizi yapılmalıdır. yaka ile ilişkili konaklama biriminden ve hastane su sistemlerinden Halk Sağlığı
-
-Müdürlüğü (HSM) veya Toplum Sağlığı Merkezi (TSM) Çevre Sağlığı Birimi tarafından alınan su ömeklerinin, HSM aracılığı ile yetkilendirilmiş HSLIna gönderilmesi ve bütün
+Hastaneler. Lejyoner hastalığı için risk grubuna giren bireylerin genel popülasyona göre daha yoğun olduğu yerler olduğu için hastalık oluştuğunda sıklıkla ağır seyreder ve mortalitesi yüksektir. Ek hastalık yükü yarattığı, hastanede yatış süresini uzattığı ve ekonomik kayıplara neden olduğu için hastane kaynak!! Lejyoner hastalığının kontrolünde etkin bir önleme programı yürütülmelidir. Bu amaçlar için hastanelerde su sistemi yönetimi ve aktif yaka araştırması yapılmalıdır. Yönetmelik ve Rehberde de belirtildiği üzere hastanelerde su sistemi yönetimi için belirlenen aralıklarla su sistemleri izlenmeli ve suda <i>Legionella</i> analizi yapılmalıdır. yaka ile ilişkili konaklama biriminden ve hastane su sistemlerinden Halk Sağlığı Müdürlüğü (HSM) veya Toplum Sağlığı Merkezi (TSM) Çevre Sağlığı Birimi tarafından alınan su ömeklerinin, HSM aracılığı ile yetkilendirilmiş HSLIna gönderilmesi ve bütün
 
 Dr. Günseli Tuba Kabakcı
 
@@ -105,13 +99,7 @@ masraflannın konaklama birimlerince karşılanarak incelemenin yapılması gere
 
 yaka ile ilişkili konaklama birimleri ve hastane su sistemlerinde suda Legionella analizi hususunda Kurum tarafından yetkilendirilmiş laboratuvarların görev alması esastır. Bu kapsamda şu an için Lejyoner hastalığının sürveyansı ve kontrolünde, geçerli tanı kapasitesine sahip Kurum tarafından yetkilendirilen, <i>"Legionella</i> Bölge Laboratuvar!" olarak hizmet veren
 
-Halk Sağlığı Laboratuvarları şunlardır: İstanbul 1-2-3 No.lu HSL, Bursa HSL, Izmir HSL,
-
-Muğla HSL, Afyonkarahisar HSL, Antalya HSL, Adana HSL, Ankara HSL, Kayseri HSL,
-
-Konya HSL, Samsun HSL, Erzurum HSL, Van HSL, Diyarbakır HSL'dır. Su örneklerinin incelenmesinde herhangi bir aksama veya sorun olduğu takdirde örnekler ulusal referans merkez olan Türkiye Halk Sağlığı Kurumu, Mikrobiyoloji Referans Laboratuvarlan Daire
-
-Başkanlığı, Ulusal Solunum Yolu Patojenleri Referans Laboratuvarı'nda incelenir.
+Halk Sağlığı Laboratuvarları şunlardır: İstanbul 1-2-3 No.lu HSL, Bursa HSL, Izmir HSL, Muğla HSL, Afyonkarahisar HSL, Antalya HSL, Adana HSL, Ankara HSL, Kayseri HSL, Konya HSL, Samsun HSL, Erzurum HSL, Van HSL, Diyarbakır HSL'dır. Su örneklerinin incelenmesinde herhangi bir aksama veya sorun olduğu takdirde örnekler ulusal referans merkez olan Türkiye Halk Sağlığı Kurumu, Mikrobiyoloji Referans Laboratuvarlan Daire Başkanlığı, Ulusal Solunum Yolu Patojenleri Referans Laboratuvarı'nda incelenir.
 
 Hastane dışındaki konaklama birimlerinin (otel, motel, alışveriş merkezi, fabrikalar vb) yaka ihbarı olmaksızın yılda iki kere kendi imkanları ile suda <i>Legionella</i> araştırması yaptırrnalan
 

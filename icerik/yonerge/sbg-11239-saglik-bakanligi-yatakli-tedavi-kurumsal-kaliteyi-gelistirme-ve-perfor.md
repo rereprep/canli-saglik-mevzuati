@@ -58,9 +58,7 @@ ifade eder.
 
 #### Katsayılar
 
-**Madde 5 –** Poliklinik Hizmetleri Katsayısı
-
-a-Eğitim ve Araştırma Hastanelerinin dışındaki kurumlar.
+**Madde 5 –** Poliklinik Hizmetleri Katsayısı a-Eğitim ve Araştırma Hastanelerinin dışındaki kurumlar.
 
 Poliklinik Hizmetleri Katsayısı; poliklinik hizmetlerinde aktif kullanılan oda sayısı (Ağız ve Diş Sağlığı Merkezlerinde oda sayısı hesaplamada kullanılmaz) ile aktif kullanılan diş üniti sayısı toplamının, poliklinik hizmeti yapması gereken tabip sayısına bölünmesi sonucu bulunur. Poliklinik hizmeti yapması gereken tabip sayısı; Anestezi, Laboratuar, Acil Servis/Poliklinik ve İdari hizmetleri yürüten tabipler ile Yoğun Bakım, Yenidoğan, Yanık, Diyaliz, Kanser Erken Teşhis Tarama ve Eğitim Merkezi gibi tıbbi bölümlerde sürekli çalışan tabipler ve Temel Tıp Bilimleri Uzmanları dışındaki Tabiplerin toplamıdır.
 
@@ -116,7 +114,7 @@ Kurum performans katsayısı = (Kurum kalite kriterleri katsayısı + Poliklinik
 
 #### Diğer Hususlar
 
-**Madde 11 –** 
+**Madde 11 –**
 
 a-Yönerge ile ilgili yapılan işlemler,kararlar, tutanaklar ve raporlar amaca uygun onaylı bir defterde kurum amirince kayıt altına alınır.
 
@@ -132,7 +130,7 @@ f- Hasta ve hasta yakınları memnuniyet anketleri dönem içinde uygulanarak d�
 
 #### Geçici Madde
 
-**Madde 11 –** 
+**Madde 11 –**
 
 2005 yılının 1 inci ve 2 inci dönemi için kurum performans katsayısı (1) olarak kabul edilir. Ancak, kurumlar 1 inci dönem yönerge esaslarını uygular. 1 inci dönem sonunda hesaplanan Kurum Performans Katsayısı, 2 inci dönem için Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık kurumlarında görevli personele döner sermaye gelirlerinden ek ödeme yapılmasına dair yönerge esasınca yapılacak ek ödemeye esas teşkil etmez.
 

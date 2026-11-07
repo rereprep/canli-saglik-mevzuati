@@ -12,7 +12,6 @@ konu: "Mevcut ve yeni yapılacak sağlık tesislerinde uyulması gereken asgari 
 kontrol_edildi: true
 ---
 
-
 ## 5.3. GENELGELER
 
 ### 5.3.1. Mevcut ve Yeni Yapılacak Sağlık Tesislerinde Uyulması Gereken Asgari Teknik Standartlar Genelgesi
@@ -218,9 +217,7 @@ Hasta Yatak Odası Duş Teknesi Duş Oturağı
 
 • Duş mahaline açıhr kapanır şekilde duş oturağı yapılacaktır.
 
-Lavabolar ayaksız ve Hilton lavabo tipinde ön tarafı arkaya doğru yuvarlak şekilde palanarak
-
-yapılacaktır. mix bataryalı ve batarya açma kapama kolu ince, uzun, çubuk şeklinde olacaktır.
+Lavabolar ayaksız ve Hilton lavabo tipinde ön tarafı arkaya doğru yuvarlak şekilde palanarak yapılacaktır. mix bataryalı ve batarya açma kapama kolu ince, uzun, çubuk şeklinde olacaktır.
 
 • Hilton lavabo üstü ahşap çerçeve üzerine ayna ve ayna yanlarında hastaların özel eşyalarını
 
@@ -248,41 +245,27 @@ IESNA LM-79 Electrical and Photometric Measurements
 
 • IESNA LM-80 Lifetime o IESNA RP-16 Nomenclature/Definitions for Illuminating Engineers o ASNI C82.XX1 Power Supply o 50x50 SMD(Surface Mounted Diode) 3 Chip IP66 standartlarna sahip ve akım korumahı o Kullanılacak LED şerit yukarıdaki standartlardan en az birini sağlamalıdır. o CE ve ROHS normlari o Işi yapacak firmanın TSE Hizmet Yeterlilik Belgesi o PSB ye dizilmiş dizgi LED olacaktır. o Metre başına en az 30 adet LED kullanacaktır: o Dış Cephe LED'I Epoksilenmiş veya güneş ışığına dayamkı akrilik kaplanmış veya LED
 
-şeridin üstünü boydan boya kapatacak U şeklinde kırımızı Plexiglass cam ile kapatılmış o Proje aşamasında, şartnamede belirtilen Is değerini sağlayacak şekilde kullamlan ledlerin
+şeridin üstünü boydan boya kapatacak U şeklinde kırımızı Plexiglass cam ile kapatılmış o Proje aşamasında, şartnamede belirtilen Is değerini sağlayacak şekilde kullamlan ledlerin amperaj değerine göre LED sürücü IP 67 SMPS kullanılacaktı (her harf için ayrı ayrı) en az 2 yıl garantili. Neon için; o CE ve ROHS normlari o Işi yapacak firmanın TSE Hizmet Yeterlilik Belgesi olacaktır. oHer bir metre neon için minimum 1200 V gerilim paylaşımı olacak şekilde neon trafoları projelendirilecektir. o Cam çap kalınlığı 15 mm olacaktır. o Harflerin derinlik ölçülerine göre yükseltme aparatları olacaktır. > Tüm hastanelerde ortak özellik olarak: o Yazıın ilk harfleri büyük harflerden oluşacaktır. o Yazı karakter tipi "Cooper Italik" olacaktır. o Harfin oluşturulacağı malzeme 2 mm veya 3 ım Alüminyumdan yapılacaktır. o Harf derinliği 180 cm için (10 cm), 220 cm için( 15 cm), 360 cm için (20 cm) olacaktır. o Tabelalarda gündüz ve gece görünümünde parlak kırmızı bir renk görünümü olacak şekilde
 
-amperaj değerine göre LED sürücü IP 67 SMPS kullanılacaktı (her harf için ayrı ayrı) en
-
-az 2 yıl garantili. Neon için; o CE ve ROHS normlari o Işi yapacak firmanın TSE Hizmet Yeterlilik Belgesi olacaktır. oHer bir metre neon için minimum 1200 V gerilim paylaşımı olacak şekilde neon trafoları projelendirilecektir. o Cam çap kalınlığı 15 mm olacaktır. o Harflerin derinlik ölçülerine göre yükseltme aparatları olacaktır. > Tüm hastanelerde ortak özellik olarak: o Yazıın ilk harfleri büyük harflerden oluşacaktır. o Yazı karakter tipi "Cooper Italik" olacaktır. o Harfin oluşturulacağı malzeme 2 mm veya 3 ım Alüminyumdan yapılacaktır. o Harf derinliği 180 cm için (10 cm), 220 cm için( 15 cm), 360 cm için (20 cm) olacaktır. o Tabelalarda gündüz ve gece görünümünde parlak kırmızı bir renk görünümü olacak şekilde
-
-tasarım yapılacaktır. o Oluşturulacak tabelanın ışık ölçüm değeri 1 metrekarelik alanda minimum 130 Is değerini
-
-sağlamahıdır. o Led veya neon, harflerin 180 cm için(10 cm),220 cm için (15 cm),360 cm için (20 cm) lik harf
-
-derinliği olan kısmma monte edilecektir. Led olması durumunda 2 sıra şeklinde olmalıdır. o Neon harflerde ters kutu uygulanacaktır.
+tasarım yapılacaktır. o Oluşturulacak tabelanın ışık ölçüm değeri 1 metrekarelik alanda minimum 130 Is değerini sağlamahıdır. o Led veya neon, harflerin 180 cm için(10 cm),220 cm için (15 cm),360 cm için (20 cm) lik harf derinliği olan kısmma monte edilecektir. Led olması durumunda 2 sıra şeklinde olmalıdır. o Neon harflerde ters kutu uygulanacaktır.
 
 200 yatak ve üzeri hastanelerde;
 
 • Harf yüksekliği 360 cm olacaktır.
 
-o Kurulacak kaidede kullanılacak çelik profil 80x80mm boyutlarında ve 3mm et kahınlığında
-
-olacaktır.
+o Kurulacak kaidede kullanılacak çelik profil 80x80mm boyutlarında ve 3mm et kahınlığında olacaktır.
 
 100-200 yatak hastanelerde:
 
 • Harf yüksekliği 220 cm olacaktır.
 
-o Kurulacak kaidede kullanılacak çelik profil 60x60mm boyutlarında ve 3mm et kahınlığında
-
-olacaktır.
+o Kurulacak kaidede kullanılacak çelik profil 60x60mm boyutlarında ve 3mm et kahınlığında olacaktır.
 
 100 yatak altındaki hastane ve diğer binalarda;
 
 o Harf yüksekliği 180 cm olacaktır.
 
-o Kurulacak kaidede kullanılacak çelik profil 40x40mm boyutlarında ve 3mm et kalınhğında
-
-olacaktır.
+o Kurulacak kaidede kullanılacak çelik profil 40x40mm boyutlarında ve 3mm et kalınhğında olacaktır.
 
 ### Deprem Bölgeleri
 
@@ -332,25 +315,17 @@ PVC ile kaplanacaktır.
 
 **Madde 20 –** 200 yatak kapasitesinden büyük Madde 20 - 20.000 m° ve üstü kapalı alana en az 20.000 m° kapalı alana sahip, bulunduğu sahip, bulunduğu bölgede doğal gaz olan ayrıca bölgede dogal gaz bulunan ya da yakın zamanda ısı merkezi mahalli müsait olan tüm yenı (1-3 yıl) gelme durumu olan, ayrica isı merkezi hastane projelerinde kojenerasyon, mahali müsait olan tün yeni hastane projelerinde trijenerasyon sisteminin gerekli mekanik ve ve inşaatlarında kojenerasyon, trijenerasyon elektrik altyapisı tasarlanacaktır. Ayrica sıstemı uygulanacaktır. sistemin proje kurgusu yapılmayacaktır
 
-Hastanenin devreye alınmasına müteakip
-
-enerji(elektrik-doğalgaz) tüketim değerleri
+Hastanenin devreye alınmasına müteakip enerji(elektrik-doğalgaz) tüketim değerleri
 
 hastane idaresi tarafindan yeterli süre (1-3 yıl)
 
 takip edilmesi veya ettirilmesi sonucunda
 
-amortisman süreleri dikkate alınarak sistemin
-
-gerekli olduğuna Bakanlıkça karar verilmesi
-
-halinde yürürlükteki Kamu Hastaneleri Genel
+amortisman süreleri dikkate alınarak sistemin gerekli olduğuna Bakanlıkça karar verilmesi halinde yürürlükteki Kamu Hastaneleri Genel
 
 Müdürlüğü bakım-onanım ve tadılat işleri
 
-Genelgesi hükümler doğrultusunda
-
-projelendırılecek ve uygulanacaktır.
+Genelgesi hükümler doğrultusunda projelendırılecek ve uygulanacaktır.
 
 ### GENEL GENEL
 
@@ -358,13 +333,7 @@ projelendırılecek ve uygulanacaktır.
 
 kaplaması yapılacaktır (Om: Ameliyathane
 
-Salonları, X-ray görüntüleme alanları, yoğun
-
-bakımlar, CPR ve duğer tam sterıl alanların
-
-zeminlerinde). Ayrica zemin kaplamasi
-
-uygulamasına geçilmeden önce ürünün TS EN
+Salonları, X-ray görüntüleme alanları, yoğun bakımlar, CPR ve duğer tam sterıl alanların zeminlerinde). Ayrica zemin kaplamasi uygulamasına geçilmeden önce ürünün TS EN
 
 ISO 23997 ye göre Birim Alan Kütle Tayin
 

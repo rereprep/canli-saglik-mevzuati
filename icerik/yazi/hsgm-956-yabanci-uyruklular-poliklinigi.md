@@ -25,15 +25,11 @@ DAĞITIM YERLERİNE
 
 Ülkemizde çeşitli statülerde bulunan yabancılara başta koruyucu hizmetler olmak üzere Bakanlığımızca sağlık hizmetleri planlanmakta ve sunulmaktadır. Bu hizmetlerin etkin ve verimli olarak sunulmasını teminen aşağıdaki hususları riayet edilecektir.
 
-1) İl Göç İdaresi Müdürlüğü ile iş birliği halinde ilçe sağlık müdürlüğü veya toplum sağlığı merkezi bağlı birimi olarak bu merkezlerde veya uygun görülecek mekanlarda ildeki yabancı nüfus dikkate alınarak her ilde en az 1 (bir) “Yabancı Uyruklular Polikliniği” (YUP) açılacaktır. Ayrıca yabancı nüfusun 1000 (bin) ve üzeri yoğunlukta olduğu ve göçmen sağlığı merkezinin bulunmadığı ilçelerde de ilave “Yabancı Uyruklular
-
-Polikliniği” açılacaktır.
+1) İl Göç İdaresi Müdürlüğü ile iş birliği halinde ilçe sağlık müdürlüğü veya toplum sağlığı merkezi bağlı birimi olarak bu merkezlerde veya uygun görülecek mekanlarda ildeki yabancı nüfus dikkate alınarak her ilde en az 1 (bir) “Yabancı Uyruklular Polikliniği” (YUP) açılacaktır. Ayrıca yabancı nüfusun 1000 (bin) ve üzeri yoğunlukta olduğu ve göçmen sağlığı merkezinin bulunmadığı ilçelerde de ilave “Yabancı Uyruklular Polikliniği” açılacaktır.
 
 2) YUP’lar, il sağlık müdürlüklerinin teklifi ve Bakanlığımızın onayı ile açılacaktır.
 
-3) Halk Sağlığı Yönetim Sistemi (HSYS) il adminleri tarafından YUP’larda görev yapacak personele
-
-Muayene Bilgi Yönetim Sistemi (MBYS) kullanıcı tanımları yapılacaktır.
+3) Halk Sağlığı Yönetim Sistemi (HSYS) il adminleri tarafından YUP’larda görev yapacak personele Muayene Bilgi Yönetim Sistemi (MBYS) kullanıcı tanımları yapılacaktır.
 
 4) YUP’larda sağlık hizmeti, en az bir hekim ve hizmetin özelliğine uygun nitelikte sağlık personeli tarafından sunulacak, mümkün olduğunca sağlık personeli tercüme hizmeti ile desteklenecek ve bu birimlerde görev yapan personele Genel Müdürlüğümüz koordinasyonunda ihtiyaç duyulan eğitimler verilecektir.
 

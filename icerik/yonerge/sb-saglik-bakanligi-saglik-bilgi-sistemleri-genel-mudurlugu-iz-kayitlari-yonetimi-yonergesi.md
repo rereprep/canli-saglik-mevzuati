@@ -74,25 +74,17 @@ sistemleri üzerinde işlenen tüm kaynaklanı,
 
 e) Bilgi işleme: Veri ve bilgilerin manuel veya bir otomasyon sisteminin parçası
 
-olarak elde edilmesi, kaydedilmesi, depolanması, muhafazası, değiştirilmesi,
-
-yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir håle
-
-getirilmesi, saflandırlması ya da kullamlmasının engellenmesi gibi veri ve
+olarak elde edilmesi, kaydedilmesi, depolanması, muhafazası, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir håle getirilmesi, saflandırlması ya da kullamlmasının engellenmesi gibi veri ve
 
 bilgiler üzerinde gerçekleştirilen her türlu işlemi,
 
 d) Bilgi sistemleri: Bilginin toplanması, işlenmesi, saklanması, dağitımı ve
 
-kullanımına yönelik insan kaynağı, operasyonel faaliyetler ve süreçler ile bunlarla
-
-etkileşim içinde bulunan bilgi teknolojilerini,
+kullanımına yönelik insan kaynağı, operasyonel faaliyetler ve süreçler ile bunlarla etkileşim içinde bulunan bilgi teknolojilerini,
 
 e) Bilgi teknolojileri: Herhangi bir biçimdeki verinin, girişinin yapılması, saklanması,
 
-İşlenmesi, iletilmesi ve çıktılarımın alınması için kullamılan donamım, yazılım,
-
-iletişim altyapısı ve ilgili diğer teknolojileri,
+İşlenmesi, iletilmesi ve çıktılarımın alınması için kullamılan donamım, yazılım, iletişim altyapısı ve ilgili diğer teknolojileri,
 
 f) Genel Müdürlük: Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdürlüğünü,
 
@@ -100,9 +92,7 @@ g) Genel Müdür: Sağlık Bakanlığı Sağlık Bilgi Sistemleri Genel Müdür�
 
 h) İşletim güvenliği verisi: Bilgi teknolojileri tarafindan donamım, yazılım veya
 
-cihazların desteklediği yetenekler çerçevesinde bilgi sistemleri iş sürekliliği, sistem
-
-işletim güvenliği ve hata ayıklama gibi maksatlarla üretilen verileri,
+cihazların desteklediği yetenekler çerçevesinde bilgi sistemleri iş sürekliliği, sistem işletim güvenliği ve hata ayıklama gibi maksatlarla üretilen verileri,
 
 i) Kişisel veri: Kimliği belirli veya belirlenebilir gerşek kişiye ilişkin her türlu veriyi,
 
@@ -124,13 +114,7 @@ m) Veri: Bilginin işlenmemiş halini,
 
 n) Veri işleme: Verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri
 
-olarak elde edilmesi, kaydedilmesi, depolanması,
-
-yeniden düzenlenmesi, açıklanması, aktarılması,
-
-edilebilir håle getirilmesi, sınıflandırılması ya da
-
-sanın engellenmesi gibi veri ve bilgiler üzerinde gergekleştirilen her ifade eder.
+olarak elde edilmesi, kaydedilmesi, depolanması, yeniden düzenlenmesi, açıklanması, aktarılması, edilebilir håle getirilmesi, sınıflandırılması ya da sanın engellenmesi gibi veri ve bilgiler üzerinde gergekleştirilen her ifade eder.
 
 ## İKİNCİ BÖLÜM Iz Kayıtları Oluşturma Esasları ve Saklama Süreleri
 

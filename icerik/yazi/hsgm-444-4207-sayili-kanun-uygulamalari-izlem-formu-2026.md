@@ -99,9 +99,7 @@ B5. Kapısında tütün ürünü kullanımına mahsus alan olduğunu belirtir uy
 
 **24.440 TL’den 122.660 TL**’ye Özel Hukuk
 
-C1. Toplam seyir alanının %50’sini geçmeyecek şekilde düzenleme yapılmış mı? Kadar İdari Para Cezası Kişilerine Ait İse
-
-Tütün ürünlerinin kullanılması (4207 S.K. Md: 5/2) Mahalli Mülki Amir için ayrılmış alanlar var ise:
+C1. Toplam seyir alanının %50’sini geçmeyecek şekilde düzenleme yapılmış mı? Kadar İdari Para Cezası Kişilerine Ait İse Tütün ürünlerinin kullanılması (4207 S.K. Md: 5/2) Mahalli Mülki Amir için ayrılmış alanlar var ise:
 
 C2. Ortamda bulunan diğer kişilerin etkilenmesini önleyecek şekilde düzenleme yapılmış mı?
 

@@ -8,6 +8,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Ek_Gonullu
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -26,21 +27,13 @@ Merkezleri
 
 HIV/AIDS hastalığının yayılımının önlenmesi hedefiyle toplumda ve yüksek riskli davranışta bulunan gruplarda korunma ve önleme çalışmalarına öncelik verilmesi, HIV ile yaşayan kişilere yönelik ayrımcılık ve damgalanmanın önlenmesi, şüpheli teması olan kişilerin HIV/AIDS hastalığı, bulaşma, korunma yolları konusunda bilgilendirilmesi ve doğru yönlendirilmeleri, HIV ile yaşayan kişilerin tedaviye kolay ve kesintisiz biçimde ulaşmasının sağlanması için çalışmalar yürütülmekte ve yeni çalışmalar planlanmaktadır.
 
-Ülkemizde yürütülmekte olan HIV/AIDS Kontrol Programı çerçevesinde, toplumda ve riskli gruplarda HIV yayılımını önlemek ve riskli grupların HIV/AIDS konusunda tanı ve tedaviye yönelik hizmetlerden faydalanma oranlarını artırmak amacıyla belediyeler başta olmak üzere ilgili paydaş kurum ve kuruluşlarla Bakanlığımız (Halk Sağlığı Genel
-
-Müdürlüğü) arasında imzalanan ve Ek-1’de yer alan işbirliği protokolü doğrultusunda
-
-Gönüllü Danışmanlık ve Test Merkezleri (GDTM) oluşturulmakta olup Ek-1’de yer alan
-
-GDTM Kılavuzu’nda belirtilen hususlar çerçevesinde hizmet sunulmaktadır.
+Ülkemizde yürütülmekte olan HIV/AIDS Kontrol Programı çerçevesinde, toplumda ve riskli gruplarda HIV yayılımını önlemek ve riskli grupların HIV/AIDS konusunda tanı ve tedaviye yönelik hizmetlerden faydalanma oranlarını artırmak amacıyla belediyeler başta olmak üzere ilgili paydaş kurum ve kuruluşlarla Bakanlığımız (Halk Sağlığı Genel Müdürlüğü) arasında imzalanan ve Ek-1’de yer alan işbirliği protokolü doğrultusunda Gönüllü Danışmanlık ve Test Merkezleri (GDTM) oluşturulmakta olup Ek-1’de yer alan GDTM Kılavuzu’nda belirtilen hususlar çerçevesinde hizmet sunulmaktadır.
 
 Bu merkezlerde temel olarak; HIV/AIDS’den korunma ve bulaş yolları hakkında bilgi verilmesi, ücretsiz ve gizlilik esasları içerisinde test hizmetinin sunulması, test öncesi ve sonrasında danışmanlık hizmeti verilmesi, tedavi için doğru merkezlere yönlendirme faaliyetleri yürütülmektedir. Mesai sonrası erişim olanağı da olabilecek bu merkezlerin risk altındaki kişilerin damgalanma endişesi taşımadan başvuru yapmalarına ve kişilerin erişimine kolaylık sağlayacağı bilinmektedir.
 
 Bu merkezlerin sayılarının artırılması temel stratejilerimiz arasında yer almakta olup bu merkezlerin yaygınlaştırılması ile ülke genelinde talep eden her bireyin danışmanlık ve test hizmeti almalarının kolaylaştırılması, gerek vatandaşlarımız gerekse göçmen ve sığınmacı gruplara yönelik bilgilendirme ve farkındalık çalışmalarının yürütülmesi amaçlanmaktadır.
 
-GDTM’lerin açılmasında ve işleyişinde, ilgili kamu kurumları, sivil toplum örgütleri ve belediyeler başta olmak üzere çok paydaşlı ve bütüncül bir yaklaşım esastır. Bu kapsamda
-
-GDTM’lerin işleyişi, Ek-2’de yer alan örnek protokoldeki asgari yükümlülükler çerçevesinde yürütülmekte olup personel ve fizik mekan kriteleri aşağıda tanımlanmaktadır:
+GDTM’lerin açılmasında ve işleyişinde, ilgili kamu kurumları, sivil toplum örgütleri ve belediyeler başta olmak üzere çok paydaşlı ve bütüncül bir yaklaşım esastır. Bu kapsamda GDTM’lerin işleyişi, Ek-2’de yer alan örnek protokoldeki asgari yükümlülükler çerçevesinde yürütülmekte olup personel ve fizik mekan kriteleri aşağıda tanımlanmaktadır:
 
 Bulaşıcı Hastalıklar Daire Başkanlığı
 
@@ -128,9 +121,7 @@ MADDE 2- Bu Protokolün konusu, Genel Müdürlük ile Belediye arasında HIV/AID
 
 **Protokolün süresi**
 
-MADDE 5- İşbu Protokol 31/12/2020 tarihine kadar geçerli olup, taraflarca sürenin bitiminden evvel
-
-Protokolün sona erdirileceğine ilişkin beyanda bulunulmaması durumunda birer yıllık periyotlar halinde uzamış sayılır.
+MADDE 5- İşbu Protokol 31/12/2020 tarihine kadar geçerli olup, taraflarca sürenin bitiminden evvel Protokolün sona erdirileceğine ilişkin beyanda bulunulmaması durumunda birer yıllık periyotlar halinde uzamış sayılır.
 
 **Yürürlük**
 
@@ -168,129 +159,25 @@ Danışmanlığın İşlevleri .................................................
 
 HIV enfeksiyonu, ilk defa ortaya çıktığı 1980’li yıllardan bu yana, tüm dünyada yayılmaya devam etmektedir. Hastalığın tedavisinde önemli gelişmeler kaydedilmiş olup enfeksiyonun erken tanısı, uygun tedavisi ve takibi koşullarında kronik bir hastalık gibi seyredebilmektedir.
 
-Virüsün güncel ilişkilerle bulaşmadığının, yalnızca belirli
+Virüsün güncel ilişkilerle bulaşmadığının, yalnızca belirli gruplara özgü olmadığının ve basit önlemlere uyulması halinde bulaşmasının engellenebildiğinin anlaşılmış olmasına rağmen, halen süregelen yanlış inanışlar ve bilgi eksikliği yüzünden hastalıkla savaşımda ciddi engellerle karşılaşılmaktadır.
 
-gruplara özgü olmadığının ve basit önlemlere uyulması
-
-halinde bulaşmasının engellenebildiğinin anlaşılmış
-
-olmasına rağmen, halen süregelen yanlış inanışlar ve bilgi
-
-eksikliği yüzünden hastalıkla savaşımda ciddi engellerle
-
-karşılaşılmaktadır.
-
-HIV/AIDS enfeksiyonu açısından hassas ve önemli
-
-gruplara; HIV/AIDS’ten korunma ve bulaşma yolları
-
-hakkında bilgi verilmesi, ücretsiz ve gizlilik esasları
-
-içerisinde HIV test hizmetinin sunulması, test öncesi ve
-
-sonrasında danışmanlık hizmetinin sunulması, tedavi için
-
-tedavi merkezlerine yönlendirme yapılabilmesi amacıyla
-
-Gönüllü Danışmanlık ve Test Merkezleri (GDTM)
+HIV/AIDS enfeksiyonu açısından hassas ve önemli gruplara; HIV/AIDS’ten korunma ve bulaşma yolları hakkında bilgi verilmesi, ücretsiz ve gizlilik esasları içerisinde HIV test hizmetinin sunulması, test öncesi ve sonrasında danışmanlık hizmetinin sunulması, tedavi için tedavi merkezlerine yönlendirme yapılabilmesi amacıyla Gönüllü Danışmanlık ve Test Merkezleri (GDTM)
 
 oluşturulmaktadır.
 
-Bu merkezler, HIV enfeksiyonunun konuşulabilir bir
+Bu merkezler, HIV enfeksiyonunun konuşulabilir bir hastalık olduğunu ve aynı zamanda kişinin HIV enfeksiyonu ile ilgili riskli davranışlarının da konuşulabilir olduğunu anlatmalıdır.
 
-hastalık olduğunu ve aynı zamanda kişinin HIV
+HIV tanısını almak, kişilerin HIV/AIDS hakkında bilgisinin yetersizliği nedeniyle ölümcül bir hastalığa yakalandığını düşünmesinden dolayı son derece travmatik bir hal alabilmektedir. İlk tanı sürecinde kişinin bu travmayı yaşarken aynı zamanda ayrımcı ve damgalama üzerine kurulan bir yaklaşımla karşılaşması kişiyi tedaviyi reddetmeye kadar götürebilir. Aslında sadece HIV enfeksiyonu nedeniyle değil, yaşanan bu olumsuz yaklaşımlar nedeniyle de kişi çok daha büyük zarar görebilir.
 
-enfeksiyonu ile ilgili riskli davranışlarının da konuşulabilir olduğunu anlatmalıdır.
+HIV enfeksiyonunun ifşası nedeniyle kişinin ailesinde, okulunda, yaşadığı toplulukta ya da çalıştığı işyerinde damgalanmasına ve ayrımcılığa uğramasına neden olan unsurların, özellikle HIV’in bulaşma yollarının insanlar tarafından iyi bilinmemesi ve HIV/AIDS’in yüksek derecede ölümcül bir “hastalık” etkeni olarak tanımlanması gibi faktörlere dayandığını söylemek mümkündür.
 
-HIV tanısını almak, kişilerin HIV/AIDS hakkında bilgisinin
+HIV enfeksiyonu için insan grupları değil davranış biçimleri risktir. HIV taşıyan insanlara karşı ayrımcılık uygulandığı sürece HIV testi için insanlar gönüllü olmayacaklardır. Bu durum insanların farkında olmadan diğer insanlara HIV bulaştırması anlamına gelir. İnsanlar HIV durumlarını özgürce açıklamaları yönünde desteklenmedikçe HIV ile ilgili yanlış anlaşılma ve cehalet nedeniyle HIV pozitif birey sayısı ve toplumdaki yayılımı artacaktır. Çünkü toplumda bulunan HIV=AIDS=Ölüm ön kabulüne karşılık, kişiler HIV durumunu öğrenmenin avantajları ve dezavantajlarını kendilerince karşılaştırarak test yaptırmakta veya yaptırmamaktadır.
 
-yetersizliği nedeniyle ölümcül bir hastalığa yakalandığını
+Tanının konulmasının ardından kişilerin mahremiyeti, sonuçlarının gizliliği ve verilerin anonimliği hakkında da kişileri iyi bilgilendirmek, danışmanlık hizmetleri kapsamında danışanların endişelerini gidermede en temel yöntem olarak yerini korumaktadır.
 
-düşünmesinden dolayı son derece travmatik bir hal
+Tüm dünyada çok sektörlü, çok boyutlu ve esnek yaklaşım tercih edilmektedir. Kişilerin kendilerini daha rahat hissederek gelecekleri hizmet sunum noktaları planlamak gerekmektedir. Ayrıca kamu dışında mesai sonrası erişim olanağı olan merkezlerin, risk altındaki kişilerin başvurularında kolaylık sağlayacağı bilinmektedir.
 
-alabilmektedir. İlk tanı sürecinde kişinin bu travmayı
-
-yaşarken aynı zamanda ayrımcı ve damgalama üzerine
-
-kurulan bir yaklaşımla karşılaşması kişiyi tedaviyi
-
-reddetmeye kadar götürebilir. Aslında sadece HIV
-
-enfeksiyonu nedeniyle değil, yaşanan bu olumsuz
-
-yaklaşımlar nedeniyle de kişi çok daha büyük zarar
-
-görebilir.
-
-HIV enfeksiyonunun ifşası nedeniyle kişinin ailesinde,
-
-okulunda, yaşadığı toplulukta ya da çalıştığı işyerinde
-
-damgalanmasına ve ayrımcılığa uğramasına neden olan
-
-unsurların, özellikle HIV’in bulaşma yollarının insanlar
-
-tarafından iyi bilinmemesi ve HIV/AIDS’in yüksek
-
-derecede ölümcül bir “hastalık” etkeni olarak tanımlanması
-
-gibi faktörlere dayandığını söylemek mümkündür.
-
-HIV enfeksiyonu için insan grupları değil davranış biçimleri
-
-risktir. HIV taşıyan insanlara karşı ayrımcılık uygulandığı
-
-sürece HIV testi için insanlar gönüllü olmayacaklardır. Bu
-
-durum insanların farkında olmadan diğer insanlara HIV
-
-bulaştırması anlamına gelir. İnsanlar HIV durumlarını
-
-özgürce açıklamaları yönünde desteklenmedikçe HIV ile
-
-ilgili yanlış anlaşılma ve cehalet nedeniyle HIV pozitif birey sayısı ve toplumdaki yayılımı artacaktır. Çünkü toplumda bulunan HIV=AIDS=Ölüm ön kabulüne karşılık, kişiler
-
-HIV durumunu öğrenmenin avantajları ve dezavantajlarını
-
-kendilerince karşılaştırarak test yaptırmakta veya
-
-yaptırmamaktadır.
-
-Tanının konulmasının ardından kişilerin mahremiyeti,
-
-sonuçlarının gizliliği ve verilerin anonimliği hakkında da
-
-kişileri iyi bilgilendirmek, danışmanlık hizmetleri
-
-kapsamında danışanların endişelerini gidermede en temel
-
-yöntem olarak yerini korumaktadır.
-
-Tüm dünyada çok sektörlü, çok boyutlu ve esnek yaklaşım
-
-tercih edilmektedir. Kişilerin kendilerini daha rahat
-
-hissederek gelecekleri hizmet sunum noktaları planlamak
-
-gerekmektedir. Ayrıca kamu dışında mesai sonrası erişim
-
-olanağı olan merkezlerin, risk altındaki kişilerin
-
-başvurularında kolaylık sağlayacağı bilinmektedir.
-
-GDTM’lerin işleyiş ve kapsamında, ilgili kamu kurumları,
-
-sivil toplum örgütleri ve belediyeler başta olmak üzere
-
-bütüncül yaklaşım esastır. Bu kapsamda GDTM’lerin
-
-işleyişi ilgili paydaş kurum ile Halk Sağlığı Genel
-
-Müdürlüğü arasında yapılacak protokol çerçevesinde
-
-yürütülmekte olup asgari yükümlülükler aşağıdaki gibi
-
-tanımlanmış olacaktır.
+GDTM’lerin işleyiş ve kapsamında, ilgili kamu kurumları, sivil toplum örgütleri ve belediyeler başta olmak üzere bütüncül yaklaşım esastır. Bu kapsamda GDTM’lerin işleyişi ilgili paydaş kurum ile Halk Sağlığı Genel Müdürlüğü arasında yapılacak protokol çerçevesinde yürütülmekte olup asgari yükümlülükler aşağıdaki gibi tanımlanmış olacaktır.
 
 **Halk Sağlığı Genel Müdürlüğünün Yükümlülükleri**
 
@@ -304,9 +191,7 @@ testlerin temin edilmesi,
 
 3. Anonim test sonucu pozitif tespit edilen kişilerin
 
-yönlendirileceği merkezlerin ve hekimlerin
-
-belirlenmesi,
+yönlendirileceği merkezlerin ve hekimlerin belirlenmesi,
 
 4. Testlerin yapılması ve pozitif saptanan kişilerin nasıl
 
@@ -322,9 +207,7 @@ eğitimine destek verilmesi,
 
 7. Hastalık etkeninin bulaşmasının önlenmesine yönelik
 
-koruyucu malzeme sağlanması hususunda
-
-girişimlerde bulunulması.
+koruyucu malzeme sağlanması hususunda girişimlerde bulunulması.
 
 **Paydaş Kurumun Yükümlülükleri**
 
@@ -336,9 +219,7 @@ Genel Müdürlük ile birlikte tespit edilmesi,
 
 3. Test hizmeti sonrasında pozitif tespit edilen
 
-hastaların belirlenen algoritma kapsamında
-
-yönlendirilmesi,
+hastaların belirlenen algoritma kapsamında yönlendirilmesi,
 
 4. Test yaptıran kişilerin bilgilerinin mahremiyet
 
@@ -368,85 +249,23 @@ materyallerinin hazırlanması.
 
 **GENEL ÖZELLİKLERİ**
 
-Gönüllü danışmanlık ve test merkezleri, HIV/AIDS
+Gönüllü danışmanlık ve test merkezleri, HIV/AIDS konusunda danışmanlık hizmetinin sağlanmasının yanı sıra anonim testlerin yapılabileceği merkezlerdir.
 
-konusunda danışmanlık hizmetinin sağlanmasının yanı sıra
+HIV/AIDS’in yanı sıra HIV/AIDS için de risk oluşturabilen cinsel yolla bulaşan diğer enfeksiyonlar hakkında danışmanlık, güvenli cinsellik ve aile planlaması konularında da hizmetler verilebilmektedir.
 
-anonim testlerin yapılabileceği merkezlerdir.
+Bu merkezlerde doğru iletişim metotları ve mahremiyet prensiplerine bağlı kalınarak hizmet verilmektedir.
 
-HIV/AIDS’in yanı sıra HIV/AIDS için de risk oluşturabilen
+Merkezi ve yerel dinamiklerin işbirliğinde ortaya koyulan bu yapılar çok sektörlü yaklaşımı sağlayabilirse, yetiştirilmiş personelin doğru istihdamını, kalite güvencesini ve tıbbi hizmetlerinin doğru entegrasyonunu da gerçekleştirebilecektir.
 
-cinsel yolla bulaşan diğer enfeksiyonlar hakkında
+GDTM’ler belirli standartlar gözetilerek bölgenin nüfus, sosyokültürel özellikleri göz önüne alınarak tercihen hali hazırda farklı konseptlerde hizmetler verilen yerlerde açılmalıdır. Verilecek hizmetin anonimliği ve danışanların mahremiyetleri noktasında gerekli önlemler elbet alınacaktır. Ancak gönüllü danışmanlık ve test hizmeti vermek üzere hususi olarak açılmış bir tesisin yanı sıra hali hazırda hizmet verilen merkezlere danışanların daha rahat girip çıkması sağlanabilir.
 
-danışmanlık, güvenli cinsellik ve aile planlaması
+Merkezler seks çalışanları, transseksüeller, eşcinseller ve madde bağımlıları gibi tanımlanmış yüksek risk gruplarına özel olarak yoğunlaşmamalı, toplumun geneline seslenecek şekilde, bilgilendirici ve yönlendirici materyaller vasıtasıyla söz konusu kişilere de hizmet sunmalıdır.
 
-konularında da hizmetler verilebilmektedir.
+Gönüllü danışmanlık ve test (GDT), iki etkinliğin, tek bir etkinlik olarak sunulmasıdır. İdeal olarak, GDT katı tanısal amaçlar yerine koruyuculuk ve HIV sağlık hizmetlerine kolay erişimi sağlamak için kullanılmalıdır. GDT için altın standartlar, test öncesi danışmanlık ve test sonrası danışmanlık olmak üzere iki unsurdur. Hizmet alıcılara risklerini (davranışlarının kendilerine ve başkalarına getireceği riskler) anlama ve algılamada yardımcı olmak ve riski azaltmayı sağlamak, GDT danışmanlığının ayrılmaz bileşenleridir.
 
-Bu merkezlerde doğru iletişim metotları ve mahremiyet
+GDT hizmetleri iyi uygulandığı zaman, HIV/AIDS’in de diğer enfeksiyon hastalıkları gibi konuşulabilir bir hastalık olduğu toplumda daha iyi anlaşılacaktır. Toplumun farkındalığının artması bu hizmetlerden faydalanma imkanını arttıracak, böylece hastalığın yayılımının azalmasına katkı sağlayacaktır.
 
-prensiplerine bağlı kalınarak hizmet verilmektedir.
-
-Merkezi ve yerel dinamiklerin işbirliğinde ortaya koyulan
-
-bu yapılar çok sektörlü yaklaşımı sağlayabilirse,
-
-yetiştirilmiş personelin doğru istihdamını, kalite
-
-güvencesini ve tıbbi hizmetlerinin doğru entegrasyonunu da
-
-gerçekleştirebilecektir.
-
-GDTM’ler belirli standartlar gözetilerek bölgenin nüfus,
-
-sosyokültürel özellikleri göz önüne alınarak tercihen hali
-
-hazırda farklı konseptlerde hizmetler verilen yerlerde
-
-açılmalıdır. Verilecek hizmetin anonimliği ve danışanların
-
-mahremiyetleri noktasında gerekli önlemler elbet
-
-alınacaktır. Ancak gönüllü danışmanlık ve test hizmeti
-
-vermek üzere hususi olarak açılmış bir tesisin yanı sıra hali hazırda hizmet verilen merkezlere danışanların daha rahat girip çıkması sağlanabilir.
-
-Merkezler seks çalışanları, transseksüeller, eşcinseller ve
-
-madde bağımlıları gibi tanımlanmış yüksek risk gruplarına
-
-özel olarak yoğunlaşmamalı, toplumun geneline seslenecek
-
-şekilde, bilgilendirici ve yönlendirici materyaller vasıtasıyla söz konusu kişilere de hizmet sunmalıdır.
-
-Gönüllü danışmanlık ve test (GDT), iki etkinliğin, tek bir
-
-etkinlik olarak sunulmasıdır. İdeal olarak, GDT katı tanısal
-
-amaçlar yerine koruyuculuk ve HIV sağlık hizmetlerine
-
-kolay erişimi sağlamak için kullanılmalıdır. GDT için altın
-
-standartlar, test öncesi danışmanlık ve test sonrası
-
-danışmanlık olmak üzere iki unsurdur. Hizmet alıcılara
-
-risklerini (davranışlarının kendilerine ve başkalarına
-
-getireceği riskler) anlama ve algılamada yardımcı olmak ve
-
-riski azaltmayı sağlamak, GDT danışmanlığının ayrılmaz
-
-bileşenleridir.
-
-GDT hizmetleri iyi uygulandığı zaman, HIV/AIDS’in de
-
-diğer enfeksiyon hastalıkları gibi konuşulabilir bir hastalık olduğu toplumda daha iyi anlaşılacaktır. Toplumun farkındalığının artması bu hizmetlerden faydalanma imkanını arttıracak, böylece hastalığın yayılımının azalmasına katkı sağlayacaktır.
-
-GDT uygulamaları, ayrıca “virüsün anneden çocuğa
-
-bulaşmasının engellenmesi programları”nın temel
-
-bileşenidir. Eğer kadınlar HIV ile ilgili kendi durumlarını
+GDT uygulamaları, ayrıca “virüsün anneden çocuğa bulaşmasının engellenmesi programları”nın temel bileşenidir. Eğer kadınlar HIV ile ilgili kendi durumlarını
 
 bilmiyorlarsa, bu tür programların uygulanması mümkün
 
@@ -478,67 +297,19 @@ kapsamaktadır.
 
  Sonuçların nasıl öğrenileceği konularını kapsar.
 
-Test öncesi danışmanlık, danışmanlara ve hizmet alıcılara,
+Test öncesi danışmanlık, danışmanlara ve hizmet alıcılara, HIV testi yöntemini, olumlu ve olumsuz test sonuçlarının anlamlarını, hizmet alıcıların muhtemel risklerini, riski azaltmanın yollarını ve kişilerin test sonuçlarını öğrenmeleri ve olası davranış şekilleri üzerinde konuşmaları için olanak sağlamaktadır.
 
-HIV testi yöntemini, olumlu ve olumsuz test sonuçlarının
+HIV danışmanlığının anahtar noktaları, başvuran merkezli ve yargılamayan bir yaklaşımla, HIV enfeksiyonu riskini artırabilecek davranışların tamamını ve riski azaltma yollarını tartışmaktır. Test öncesi danışmanlık, sosyal anlamda kabul edilemez veya rahatsız edici tartışmalara yol açabilecek çeşitli davranışların hizmet alıcı tarafından kabul edilmesine odaklanmamalıdır.
 
-anlamlarını, hizmet alıcıların muhtemel risklerini, riski
+Test öncesi danışmanlığı ve eğitimi, hem sağlık hizmeti sunucusunun hem de hizmet alıcısının HIV/AIDS’in anlaşılması, test edilmesi, bulaşma ve önleme yolları konularında değerlendirme yapabilmelerini sağlamakta ve sonuçlarla başa çıkabilme yetilerini geliştirmektedir.
 
-azaltmanın yollarını ve kişilerin test sonuçlarını öğrenmeleri ve olası davranış şekilleri üzerinde konuşmaları için olanak sağlamaktadır.
+Buna ek olarak, danışmanlar, kişisel HIV riski azaltma planlarına ve değişime yönelik gerçekçi ve kademeli aşamalara odaklanarak hizmet alıcılarla çalışma girişiminde bulunmalıdırlar. HIV testi yapılmadan önce, hizmet alıcının farkında olması gereken unsur; eğer sonuç pozitif ise, sosyal bir damgalama taşıyacak bir hastalığa sahip olacağıdır. Bazı ortamlarda, HIV taşıyan kişiler evlerinden atılmakta, işlerinden kovulmakta, toplumda kurban olarak ilan edilmekte ve fiziksel olarak saldırıya uğramaktadırlar.
 
-HIV danışmanlığının anahtar noktaları, başvuran merkezli
-
-ve yargılamayan bir yaklaşımla, HIV enfeksiyonu riskini
-
-artırabilecek davranışların tamamını ve riski azaltma
-
-yollarını tartışmaktır. Test öncesi danışmanlık, sosyal
-
-anlamda kabul edilemez veya rahatsız edici tartışmalara yol
-
-açabilecek çeşitli davranışların hizmet alıcı tarafından kabul edilmesine odaklanmamalıdır.
-
-Test öncesi danışmanlığı ve eğitimi, hem sağlık hizmeti
-
-sunucusunun hem de hizmet alıcısının HIV/AIDS’in
-
-anlaşılması, test edilmesi, bulaşma ve önleme yolları
-
-konularında değerlendirme yapabilmelerini sağlamakta ve
-
-sonuçlarla başa çıkabilme yetilerini geliştirmektedir.
-
-Buna ek olarak, danışmanlar, kişisel HIV riski azaltma
-
-planlarına ve değişime yönelik gerçekçi ve kademeli
-
-aşamalara odaklanarak hizmet alıcılarla çalışma girişiminde
-
-bulunmalıdırlar. HIV testi yapılmadan önce, hizmet alıcının
-
-farkında olması gereken unsur; eğer sonuç pozitif ise, sosyal bir damgalama taşıyacak bir hastalığa sahip olacağıdır. Bazı ortamlarda, HIV taşıyan kişiler evlerinden atılmakta, işlerinden kovulmakta, toplumda kurban olarak ilan edilmekte ve fiziksel olarak saldırıya uğramaktadırlar.
-
-Hizmet alıcıların test yaptırmaya karar vermeden önce
-
-bütün bu olası problemleri hesaba katması, hazırlanması ve
-
-bilgilendirilmesi gerekmektedir.
+Hizmet alıcıların test yaptırmaya karar vermeden önce bütün bu olası problemleri hesaba katması, hazırlanması ve bilgilendirilmesi gerekmektedir.
 
 **Test Sonrası Danışmanlık Hizmeti**
 
-HIV antikoru test edilen bütün bireyler, kendilerine test
-
-sonuçlarının verilmesiyle birlikte, test sonrası danışmanlık
-
-ve eğitim hizmeti almak durumundadırlar. Bu hizmet, hem
-
-sağlık hizmeti sunucusuna hem de hizmet alıcısına test
-
-sonuçlarını anlamaya yönelik değerlendirme yapmasında
-
-yardımcı olmaktadır. Test sonuçları, hizmet alıcının sonucu
-
-hazmetmesi için mümkün olduğu kadar çabuk verilmelidir.
+HIV antikoru test edilen bütün bireyler, kendilerine test sonuçlarının verilmesiyle birlikte, test sonrası danışmanlık ve eğitim hizmeti almak durumundadırlar. Bu hizmet, hem sağlık hizmeti sunucusuna hem de hizmet alıcısına test sonuçlarını anlamaya yönelik değerlendirme yapmasında yardımcı olmaktadır. Test sonuçları, hizmet alıcının sonucu hazmetmesi için mümkün olduğu kadar çabuk verilmelidir.
 
 Test sonrası danışmanlık hizmeti sırasında:
 
@@ -562,13 +333,7 @@ dilediği zaman yeniden başvurabileceği hatırlatılır.
 
 Test sonuçları negatifse, hizmet alıcı, test yapılmadan üç ay önce ya da son üç ay içinde kendisini riske atacak davranışlarda bulunmuşsa sonuçların doğru olmayabileceği konusunda uyarılmalıdır. Hizmet alıcıya ileri bir tarihte kendisi için uygun bir zamanda yeniden test yapılmalıdır.
 
-Negatif test sonucunu açıklarken, danışman test
-
-sonuçlarının ne anlama geldiğini, her türlü soruyu, hizmet
-
-alıcının duygusal tepkisini ve HIV negatif olarak kalmanın
-
-stratejilerini belirtmek durumundadır.
+Negatif test sonucunu açıklarken, danışman test sonuçlarının ne anlama geldiğini, her türlü soruyu, hizmet alıcının duygusal tepkisini ve HIV negatif olarak kalmanın stratejilerini belirtmek durumundadır.
 
  Test sonucu pozitif ise, testin bir ön tarama olduğu
 
@@ -596,61 +361,23 @@ hizmet alıcının duygusal tepkilerini gidermeli,
 
 sorulan her türlü soruyu cevaplamalı, tedavi
 
-seçeneklerini görüşmeli (eğer varsa) ve hizmet
+seçeneklerini görüşmeli (eğer varsa) ve hizmet alıcının virüsü başkalarına bulaştırmaması için ne yapması gerektiğini anlatmalıdır.
 
-alıcının virüsü başkalarına bulaştırmaması için ne
+HIV pozitif olan hizmet alıcılarının, sağlık hizmetlerine sevki karşılıklı rıza çerçevesinde sağlanmalıdır.
 
-yapması gerektiğini anlatmalıdır.
+Hastalığın belirtilerine değinmeli, HIV’in cinsel eşlere geçebileceğini açıklamalı ve test sonucu pozitif çıktıktan sonraki durumlara dikkat çekilmelidir.
 
-HIV pozitif olan hizmet alıcılarının, sağlık
+Hastalığın toplumdaki yayılımıyla mücadele etmek için, bulaşmanın söz konusu olabileceği, cinsel partneri gibi ilgili kişiler de merkeze davet edilmelidir.
 
-hizmetlerine sevki karşılıklı rıza çerçevesinde
+Kişiyi yönlendirirken hekimini seçebileceğinin üzerinde durulmalı, enfeksiyon hastalıkları uzmanının bulunduğu her klinikte HIV/AIDS tanı tedavi hizmetlerinin yürütülebileceği bilgisi verilmelidir. İlave testler ve tedavi masraflarının tamamının “Genel Sağlık Sigortası” kapsamında karşılanacağı hatırlatılmalıdır.
 
-sağlanmalıdır.
-
-Hastalığın belirtilerine değinmeli, HIV’in cinsel
-
-eşlere geçebileceğini açıklamalı ve test sonucu pozitif
-
-çıktıktan sonraki durumlara dikkat çekilmelidir.
-
-Hastalığın toplumdaki yayılımıyla mücadele etmek
-
-için, bulaşmanın söz konusu olabileceği, cinsel
-
-partneri gibi ilgili kişiler de merkeze davet
-
-edilmelidir.
-
-Kişiyi yönlendirirken hekimini seçebileceğinin
-
-üzerinde durulmalı, enfeksiyon hastalıkları
-
-uzmanının bulunduğu her klinikte HIV/AIDS tanı
-
-tedavi hizmetlerinin yürütülebileceği bilgisi
-
-verilmelidir. İlave testler ve tedavi masraflarının
-
-tamamının “Genel Sağlık Sigortası” kapsamında
-
-karşılanacağı hatırlatılmalıdır.
-
-Test sonuçları pozitif olan kadınlara virüsün anneden
-
-çocuğa bulaşmasının önlenmesiyle ilgili seçenekler
-
-hakkında da danışmanlık verilmelidir.
+Test sonuçları pozitif olan kadınlara virüsün anneden çocuğa bulaşmasının önlenmesiyle ilgili seçenekler hakkında da danışmanlık verilmelidir.
 
 **GDTM PERSONELİNİN ÖZELLİKLERİ**
 
-GDTM’lerde çalışacak personelin seçimi, işleyişi, hizmetin
+GDTM’lerde çalışacak personelin seçimi, işleyişi, hizmetin özellikleri göz önüne alındığında büyük önem taşımaktadır.
 
-özellikleri göz önüne alındığında büyük önem taşımaktadır.
-
-Bu merkezlerde çalışacak personel sayı ve nitelik açısından
-
-farklılık gösterebilir ancak ilgili personelden birisi sağlık çalışanı olmak üzere her biri danışmanlık donanımına sahip en az iki kişiden oluşmalıdır.
+Bu merkezlerde çalışacak personel sayı ve nitelik açısından farklılık gösterebilir ancak ilgili personelden birisi sağlık çalışanı olmak üzere her biri danışmanlık donanımına sahip en az iki kişiden oluşmalıdır.
 
 **Danışmanın Nitelikleri, Görev ve Sorumlulukları**
 
@@ -718,25 +445,11 @@ olmak hedeflenmelidir.
 
 Danışmanlığın koruyuculuk işlevi:
 
-Birincil Korunma: HIV riski altında ancak pozitifliği
+Birincil Korunma: HIV riski altında ancak pozitifliği bilinmeyenlere yönelik olarak sunulmaktadır. Bu kişilerin bir kısmı riskli davranışlarının farkındayken bir kısmı da farkında olmayabilir. Bu nedenle riskli davranışları açığa çıkarma ve tartışma üzerinde durulur.
 
-bilinmeyenlere yönelik olarak sunulmaktadır. Bu kişilerin
+İkincil Korunma: HIV pozitif olduğu bilinen kişilere yönelik olarak sunulmaktadır.
 
-bir kısmı riskli davranışlarının farkındayken bir kısmı da
-
-farkında olmayabilir. Bu nedenle riskli davranışları açığa
-
-çıkarma ve tartışma üzerinde durulur.
-
-İkincil Korunma: HIV pozitif olduğu bilinen kişilere
-
-yönelik olarak sunulmaktadır.
-
-HIV’in getirdiklerinin, başkasına bulaşmasının nasıl
-
-önlenebileceğinin, HIV pozitif kişilerin sorumlulukları
-
-kapsamı üzerinde durulur.
+HIV’in getirdiklerinin, başkasına bulaşmasının nasıl önlenebileceğinin, HIV pozitif kişilerin sorumlulukları kapsamı üzerinde durulur.
 
 **Bu niteliklere sahip bir danışmanın özellikleri aşağıda**
 
@@ -744,17 +457,11 @@ kapsamı üzerinde durulur.
 
 Etkili Soru Sorma: Başvuranın sağlığı ile ilgili gerçekleri ve fikirleri ortaya çıkartmak amacıyla sorular sorulmalıdır.
 
-Hızlı bir biçimde gerçek ve duygusal olmayan bilgileri bir
-
-araya getirmek için kapalı uçlu sorular (evet/hayır)
+Hızlı bir biçimde gerçek ve duygusal olmayan bilgileri bir araya getirmek için kapalı uçlu sorular (evet/hayır)
 
 kullanılmalıdır.
 
-“HIV enfeksiyonu hakkında neler biliyorsunuz?’’ veya “ Bu
-
-enfeksiyonun nasıl bulaşabileceğini düşünüyorsunuz?” gibi
-
-açık uçlu sorular fikirleri ve detaylı bilgileri ortaya çıkarmak açısından önemlidir.
+“HIV enfeksiyonu hakkında neler biliyorsunuz?’’ veya “ Bu enfeksiyonun nasıl bulaşabileceğini düşünüyorsunuz?” gibi açık uçlu sorular fikirleri ve detaylı bilgileri ortaya çıkarmak açısından önemlidir.
 
 Daha derinlemesine ve detaylı bilgiler almak için
 
@@ -762,43 +469,17 @@ Daha derinlemesine ve detaylı bilgiler almak için
 
 şeklinde sebep keşfedici sorular sorulabilir.
 
-Aktif Dinleme: Başvurana yardımda gerekli olan bilgilere
-
-ulaşabilmek amacıyla aktif bir şekilde dinleme
-
-gerekmektedir. Bu teknik, sözcükler kullanılmadan
-
-hastanızın ihtiyacıyla ilgilenmenizle bağlantılıdır.
+Aktif Dinleme: Başvurana yardımda gerekli olan bilgilere ulaşabilmek amacıyla aktif bir şekilde dinleme gerekmektedir. Bu teknik, sözcükler kullanılmadan hastanızın ihtiyacıyla ilgilenmenizle bağlantılıdır.
 
 Sessizliğe başvurarak iletişim başlatabilirsiniz.
 
-Hastanızla göz teması kurarak, öne doğru eğilerek, ara sıra
+Hastanızla göz teması kurarak, öne doğru eğilerek, ara sıra ‘‘evet”, “hım”, “lütfen devam edin” gibi sözcükler kullanarak onu dinlediğinizi belli edebilirsiniz. Bunlar hem saygı işaretleri olup hem de ilgi gösterildiğini fark eden kişinin kendisini iyi hissetmesini ve konuşmayı sürdürmesini sağlar.
 
-‘‘evet”, “hım”, “lütfen devam edin” gibi sözcükler
+Başka Şekilde İfade Etme, Özetleme ve Açıklama: Bu teknik, başvuranın size söylediklerini tekrar etmenizi, sentezlemenizi veya başka deyişle özetlemenizi sağlar.
 
-kullanarak onu dinlediğinizi belli edebilirsiniz. Bunlar hem
+Başvuranın söylediklerine açıklık getirmenize yardımcı olur ve kendisinin dinlendiğini hissetmesi konusunda destekler.
 
-saygı işaretleri olup hem de ilgi gösterildiğini fark eden
-
-kişinin kendisini iyi hissetmesini ve konuşmayı
-
-sürdürmesini sağlar.
-
-Başka Şekilde İfade Etme, Özetleme ve Açıklama: Bu
-
-teknik, başvuranın size söylediklerini tekrar etmenizi,
-
-sentezlemenizi veya başka deyişle özetlemenizi sağlar.
-
-Başvuranın söylediklerine açıklık getirmenize yardımcı olur
-
-ve kendisinin dinlendiğini hissetmesi konusunda destekler.
-
-Duyguları Yansıtma: Başvuranın kendi duygularını
-
-anlamasına yardımcı olan, söylediği şeyleri açıklığa
-
-kavuşturmaya yarayan sözcüklerdir. “Bana öyle geliyor ki;
+Duyguları Yansıtma: Başvuranın kendi duygularını anlamasına yardımcı olan, söylediği şeyleri açıklığa kavuşturmaya yarayan sözcüklerdir. “Bana öyle geliyor ki;
 
 kocanın başka kadınlarla ilişkisi olduğundan şüpheleniyor
 

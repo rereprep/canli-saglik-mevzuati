@@ -117,9 +117,7 @@ Sicil Amirleri Yönetmeliği
 
 4 Daire Tabipliği (İdari ve Mali işler Dai. Başkanlığı)
 
-a Daire Baştabibi Daire Başkanı Müsteşar Yrd. Müsteşar
-
-b Diğer Personel Daire Baştabibi Daire Başkanı Müsteşar Yrd.
+a Daire Baştabibi Daire Başkanı Müsteşar Yrd. Müsteşar b Diğer Personel Daire Baştabibi Daire Başkanı Müsteşar Yrd.
 
 ### H SAVUNMA SEKRETERLİĞİ
 

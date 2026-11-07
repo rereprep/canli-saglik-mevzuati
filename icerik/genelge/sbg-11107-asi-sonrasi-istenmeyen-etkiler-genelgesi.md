@@ -324,11 +324,7 @@ d. ASĐE vakası bildirildiğinde vakit kaybetmeden araştırma başlatır. Đl 
 
 ### Vaka Sınıflaması
 
-Kesin /Kuvvetle olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve
-
-diğer hastalık, ilaç/madde kullanımının olmadığı ASĐE Olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve
-
-diğer hastalık, ilaç/madde kullanımı ile açıklanamayan ASĐE Zayıf olası Aşının uygulanmasından uygun süre sonra ortaya çıkan
+Kesin /Kuvvetle olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve diğer hastalık, ilaç/madde kullanımının olmadığı ASĐE Olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve diğer hastalık, ilaç/madde kullanımı ile açıklanamayan ASĐE Zayıf olası Aşının uygulanmasından uygun süre sonra ortaya çıkan
 
 ancak aynı zamanda diğer hastalık veya ilaç/madde kullanımı
 

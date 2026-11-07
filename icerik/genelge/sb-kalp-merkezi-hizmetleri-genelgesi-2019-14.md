@@ -58,8 +58,6 @@ Bakan
 
 2.1. Kalp merkezinde kalp ve damar cerrahisi kliniği, kardiyoloji kliniği, anjiyografi cihazı kurulu kateter laboratuvarı, Bakanlıkça tescil edilmiş ikinci seviye en az dört yataklı koroner yoğun bakım servisi, üçüncü seviye en az beş yataklı (dört yatak+ bir izolasyon odası) kalp ve damar cerrahisi yoğun bakım servisi ve iki adet kalp damar cerrahisi ameliyat salonu bulunur. Ancak bu genelgenin yayınlanmasından önce hizmet veren merkezlerde en az bir kalp
 
-
-
 T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
 ### SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜ
@@ -84,9 +82,7 @@ göre ilde yeni bir kalp merkezi kurulumuna ihtiyaç olmalıdır.
 
 2.7.2. Yeni kalp merkezi açılması için ildeki mevcut diğer bir kalp merkezlerinin yılhk
 
-en az 250 açık kalp cerrahisi, 2.500 tanı ve tedavi amaçlı anjiyografi işlemini aşmış
-
-olması gerekmektedir. Kardiyoloji uzman hekimi başına yıllık 75 den fazla PCI
+en az 250 açık kalp cerrahisi, 2.500 tanı ve tedavi amaçlı anjiyografi işlemini aşmış olması gerekmektedir. Kardiyoloji uzman hekimi başına yıllık 75 den fazla PCI
 
 yapılan kalp merkezlerinde yıllık 100'den az açık kalp cerrahisi ameliyatı
 
@@ -99,8 +95,6 @@ T.C. SAĞLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 ### GENEL MUDURLUGO SAGLIK HIZMETLER
 
 hastalara en doğru tedavinin uygulanması için ortak konsey oluşturulur. Kalp Konseyinin Çalişma Prensipleri: 2.8.1. Konsey en az 2 kardiyoloji uzmanı ve 1 kalp damar cerrahisi uzmanından oluşur. Hastanede görevli kardiyoloji ve kalp damar cerrahi uzmanlarının tamamı konseyin doğal üyesidir. 2.8.2. Konsey üyeleri dönüşümlü olarak konseye başkanlık yapar. Konseyin çalışma programı Başhekimliğe bildirilir. 2.8.3. Acil girişim gerektiren hastalar hariç, sol ana koroner ya da proksimal sol anterior dessendan arter (LAD) lezyonunu içeren üç damar hastalığı olup revaskülarizasyon gerektiği düşünülen tüm hastaların anjiyografi sonucu konsey tarafindan değerlendirilir. Ayrıca yapılacak tüm invaziv kalp kapağı işlemleri konsey tarafından değerlendirilir. 2.8.4. Günlük yapılan anjiyografiler sonucu ameliyat kararı alınan hastaların tedavisi o günün konsültan hekimi veya konsültan hekimin bağlı olduğu klinik tarafından yapılır. Ancak hastanın hekim seçme özgürlüğü ayrıca dikkate alınır. 2.8.5. Tüm kararlar elektronik kayıt sisteminde kayıt altına alınır. İstendiğinde yapılan işlemlerle ilgili raporlar alınabilmelidir. 2.8.6. Konsey odası hastane yönetimi tarafindan tahsis edilmiş ve içinde hastaların koroner anjiyografilerini izlemeye uygun gerekli araç ve gereçler ile donatılır. 2.9. Kamu hastaneleri bünyesinde yeni açılacak kalp merkezleri için koordinatör hastane belirlenmesi ile ilgili iş ve işlemler; 2.9.1. Bünyesinde yeni kalp merkezi kurulacak kamu hastaneleri için Bakanlıkça koordinatör hastane belirlenir. 2.9.2. Koordinatör hastane desteği ile kalp merkezi kurulacak hastanelerde, kalp damar cerrahisi ve kardiyoloji kliniklerinin sorumluları, koordinatör hastanenin teklifi ve hastane başhekiminin uygun görüşü ile belirlenir. Bu merkezdeki işleyiş (nöbet, icap, ameliyat listesi, hasta yatışları vs), klinik sorumluları ve koordinatör hastane ekip sorulusu ile işbirliği içinde yapılır. Koordinatör hastanenin uygun gördüğü durumlarda yeni kurulan merkezdeki ekip tek başına ameliyat yapabilir. Acil vakaları yeni kurulan merkezdeki ekip tek başına ameliyata alabilir. 2.9.3. Bünyesinde yeni kalp merkezi açılacak hastanedeki kurulum iş ve işlemleri koordinatör hastane ile birlikte yürütülür. Bu amaçla yeni kalp merkezinin açılış aşamasında koordinatör hastaneden bir ekip belirlenir. Bu ekip en az 2 kalp ve damar cerrahisi uzmanı, 1 kardiyoloji uzmanı, 1 anestezi ve reanimasyon uzmanı, 2 anestezi teknikeri/teknisyeni, 2 perfüzyonist, 2 ameliyathane hemşiresi, 2 ameliyathane teknikeri ve 1 kalp damar cerrahisi yoğun bakım hemşiresinden oluşur. Koordinatör hastaneden görevlendirilen ekibin sorumlusu en az 5 yıl aktif uzmanlık yapmış kalp damar cerrahisi uzmanıdır. Perfüzyonist, ameliyathane hemşiresi ve diğer personel ilgili belgeye sahip kişilerden seçilir. Hastane idaresince ekip üyeleri gerektiğinde değiştirilebilir, ekibe yeni üyeler eklenir veya çıkartılabilir.
-
-
 
 T.C. SAGLIK BAKANLIĞI Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -130,9 +124,7 @@ uzmanları en az 2 ay, kardiyoloji uzmanları en az 1 ay, kalp cerrahisi
 
 ameliyatlarında görev alacak anestezi ve reanimasyon uzmanları en az 1 ay, ve
 
-anestezi tekniker/teknisyenleri en az 1 ay, tüm perfülzyonistler en az 3 ay, en az iki
-
-ameliyathane hemşiresi en az 2 ay, en az dört yoğun bakım hemşiresi en az. 3 ay
+anestezi tekniker/teknisyenleri en az 1 ay, tüm perfülzyonistler en az 3 ay, en az iki ameliyathane hemşiresi en az 2 ay, en az dört yoğun bakım hemşiresi en az. 3 ay
 
 ### 3. KALP MERKEZİ BAŞVURUSU İÇİN GEREKLİ BİLGİ VE BELGELER
 

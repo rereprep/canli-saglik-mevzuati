@@ -24,21 +24,13 @@ DAĞITIM YERLERİNE
 
 İlgi : 09.05.2025 tarihli ve E-23824201-679-275386024 sayılı yazı.
 
-Bilindiği üzere, birinci basamak sağlık hizmetlerinin ülke genelinde etkin, hızlı, şeffaf ve dijital ortamda denetlenmesini sağlamak amacıyla Aile Sağlığı Merkezi (ASM), Aile Hekimliği Birimi (AHB) İzleme ve Değerlendirme
+Bilindiği üzere, birinci basamak sağlık hizmetlerinin ülke genelinde etkin, hızlı, şeffaf ve dijital ortamda denetlenmesini sağlamak amacıyla Aile Sağlığı Merkezi (ASM), Aile Hekimliği Birimi (AHB) İzleme ve Değerlendirme Formlarının, Sağlık Tesisleri Denetim ve İzleme Sisteminde (Den-İz) 01.07.2025 tarihinden itibaren 81 İl Sağlık Müdürlüğünün kullanımına sunulduğu ilgi yazı ile duyurulmuştur. Söz konusu sistem ile Bakanlığımız birinci basamak sağlık hizmeti sunumunda yer alan aile sağlığı merkezleri ve aile hekimliği birimlerinin yürüttükleri sağlık hizmetlerinin elektronik ortamda denetlenmesi, anlık raporlanması, denetim süreçlerinde iş gücü ve maliyet tasarrufu sağlanarak denetimlerin dijital ortamda yürütülmesini hedeflemiştir. Ayrıca sistemde üretilen verilerin, sözleşmeli yöneticilerin performans değerlendirmeleri ile ek ödeme süreçlerine doğrudan etkisi bulunduğundan veri doğruluğu, sistem güvenliği ve güncelliği kritik öneme sahiptir.
 
-Formlarının, Sağlık Tesisleri Denetim ve İzleme Sisteminde (Den-İz) 01.07.2025 tarihinden itibaren 81 İl Sağlık
-
-Müdürlüğünün kullanımına sunulduğu ilgi yazı ile duyurulmuştur. Söz konusu sistem ile Bakanlığımız birinci basamak sağlık hizmeti sunumunda yer alan aile sağlığı merkezleri ve aile hekimliği birimlerinin yürüttükleri sağlık hizmetlerinin elektronik ortamda denetlenmesi, anlık raporlanması, denetim süreçlerinde iş gücü ve maliyet tasarrufu sağlanarak denetimlerin dijital ortamda yürütülmesini hedeflemiştir. Ayrıca sistemde üretilen verilerin, sözleşmeli yöneticilerin performans değerlendirmeleri ile ek ödeme süreçlerine doğrudan etkisi bulunduğundan veri doğruluğu, sistem güvenliği ve güncelliği kritik öneme sahiptir.
-
-Bu kapsamda değişen ve güncellenen mevzuat hükümleri çerçevesinde yenilenen ve Den-İz Sistemine entegre edilen ASM-AHB İzleme ve Değerlendirme Formları için; ilgili mevzuat hükümleri doğrultusunda denetimlerde standardizasyonun sağlanması ve denetimi gerçekleştiren personele yol göstermesi amacıyla ASM ve AHB İzleme ve
-
-Değerlendirme Rehberi hazırlanmıştır.
+Bu kapsamda değişen ve güncellenen mevzuat hükümleri çerçevesinde yenilenen ve Den-İz Sistemine entegre edilen ASM-AHB İzleme ve Değerlendirme Formları için; ilgili mevzuat hükümleri doğrultusunda denetimlerde standardizasyonun sağlanması ve denetimi gerçekleştiren personele yol göstermesi amacıyla ASM ve AHB İzleme ve Değerlendirme Rehberi hazırlanmıştır.
 
 Söz konusu rehber aynı zamanda https://hsgm.saglik.gov.tr/tr/ah-egitim-izleme-db.html adresinde yayınlanacak olup güncel hali bu adresten takip edilecektir.
 
-Denetimlerde yapılacak iş ve işlemlerde ekte yer alan ASM-AHB İzleme ve Değerlendirme Rehberi ile ASM-AHB
-
-Denetimlerinde Uyulması Gereken Usul ve Esaslara dikkat edilmesi ve ilgililere tebliği hususunda;
+Denetimlerde yapılacak iş ve işlemlerde ekte yer alan ASM-AHB İzleme ve Değerlendirme Rehberi ile ASM-AHB Denetimlerinde Uyulması Gereken Usul ve Esaslara dikkat edilmesi ve ilgililere tebliği hususunda;
 
 Bilgilerini ve gereğinin rica ederim.
 
@@ -61,4 +53,3 @@ Gereği:
 
 Bilgi:
 A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
-

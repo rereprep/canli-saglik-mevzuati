@@ -207,9 +207,7 @@ c) Gözaltına alınma, tutukluluk ve hükümlülük gibi sebeplerle görevden u
 
 ç) Sözleşmedeki yükümlülüklerin haklı bir nedene dayanmaksızın yerine getirilmemesi nedeniyle, savunması
 
-alınmak kaydıyla, bir sözleşme döneminde üç kez yazılı olarak hastane koordinasyon kurulunca ikaz edilmesi,
-
-hâlinde sözleşme feshedilir. Sözleşmesi feshedilen veya yenilenmeyen öğretim elemanlarının sağlık tesisindeki görevi sona erer. Sözleşmenin, (a) ve (b) bendindeki hâller dışında feshi veya süresinin sona ermesi hâlinde öğretim elemanı, üniversitenin Bakanlıkla birlikte kullanım protokolü imzaladığı diğer sağlık tesisleriyle yeniden sözleşme yapabilir. (Ek fıkra:15/11/2018-7151/20 md.) Üniversitelerin sağlık uygulama ve araştırma merkezleri ile ağız ve diş sağlığı uygulama ve araştırma merkezlerinin uygulamaları üniversiteler tarafından işletilen hastanelerde ve sağlık tesislerinde veyahut üniversitelerin birlikte kullanım protokolü imzaladığı hastanelerde veya sağlık tesislerinde yapılabilir.
+alınmak kaydıyla, bir sözleşme döneminde üç kez yazılı olarak hastane koordinasyon kurulunca ikaz edilmesi, hâlinde sözleşme feshedilir. Sözleşmesi feshedilen veya yenilenmeyen öğretim elemanlarının sağlık tesisindeki görevi sona erer. Sözleşmenin, (a) ve (b) bendindeki hâller dışında feshi veya süresinin sona ermesi hâlinde öğretim elemanı, üniversitenin Bakanlıkla birlikte kullanım protokolü imzaladığı diğer sağlık tesisleriyle yeniden sözleşme yapabilir. (Ek fıkra:15/11/2018-7151/20 md.) Üniversitelerin sağlık uygulama ve araştırma merkezleri ile ağız ve diş sağlığı uygulama ve araştırma merkezlerinin uygulamaları üniversiteler tarafından işletilen hastanelerde ve sağlık tesislerinde veyahut üniversitelerin birlikte kullanım protokolü imzaladığı hastanelerde veya sağlık tesislerinde yapılabilir.
 
 Birlikte kullanımdaki sağlık tesislerinde tıpta uzmanlık ve lisans eğitimleri, Sağlık Bakanlığı uzmanlık öğrencilerinin eğitimi de dâhil olmak üzere, ilgili mevzuata göre ilgili fakülte dekanının yetki ve sorumluluğunda yürütülür. (Ek cümleler: 20/8/2016-6745/39 md.) Dekan, hastane yöneticisinin görüşünü alarak varsa profesör, yoksa doçent unvanını haiz öğretim üyelerinden birini, doçent de yoksa yardımcı doçent veya eğitim görevlilerinden birini eğitim sorumlusu olarak görevlendirir. Başhekim aynı zamanda üniversite yönünden sağlık uygulama ve araştırma merkezi müdürü sayılır. Birlikte kullanıma geçilen sağlık tesisleri, Bakanlığın tâbi olduğu mevzuat uyarınca işletilir ve tesis, üniversitenin görüşü alınarak Bakanlıkça atanan başhekim tarafından yönetilir. Birlikte kullanıma geçilen sağlık tesisinin kamu hastane birliği kapsamında olması hâlinde, o tesise ait yönetici görevlendirmeleri kamu hastaneleri birliği mevzuatı çerçevesinde yapılır. (Ekcümle: 2/1/2014-6514/44 md.) Birlikte kullanımdaki sağlık tesislerinde mesai sonrası hizmetler için 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 73 üncü maddesinin üçüncü fıkrasına göre ilave ücret alınmaz.
 
@@ -303,15 +301,11 @@ Destekleyici, araştırma ile ilgili görev ve yetkilerinin tümünü veya bir k
 
 a) Salt akademik amaçlı bilimsel çalışmalar veya araştırmalar hariç olmak üzere, Sağlık Bakanlığınca belirlenen usul
 
-ve esaslara aykırı faaliyette bulunan destekleyiciler ile araştırmayı devralanlar hakkında fiillerinin niteliğine göre yüz
-
-bin Türk lirasından bir milyon Türk lirasına kadar idari para cezası verilir.
+ve esaslara aykırı faaliyette bulunan destekleyiciler ile araştırmayı devralanlar hakkında fiillerinin niteliğine göre yüz bin Türk lirasından bir milyon Türk lirasına kadar idari para cezası verilir.
 
 b) Sağlık Bakanlığınca belirlenen usul ve esaslara aykırı faaliyet gösteren veya gönüllülerin güvenliğini ve esenliğini
 
-tehlikeye atacak şekilde yükümlülüklerini yerine getirmeyen araştırmacılar, fiillerinin niteliğine göre altı aydan iki
-
-yıla kadar bu Kanunda belirtilen araştırma ve çalışmalara katılmaktan men edilir.
+tehlikeye atacak şekilde yükümlülüklerini yerine getirmeyen araştırmacılar, fiillerinin niteliğine göre altı aydan iki yıla kadar bu Kanunda belirtilen araştırma ve çalışmalara katılmaktan men edilir.
 
 c) Sağlık Bakanlığınca yetkilendirilen etik kurulların, belirlenen çalışma usul ve esaslarına bir yıl içinde üç kez aykırı
 
@@ -569,9 +563,7 @@ Türkiye Büyük Millet Meclisi ve
 
 KHK/700 Ek Madde 3, Ek Madde 4 Cumhurbaşkanlığı seçimleri sonucunda
 
-Cumhurbaşkanının andiçerek göreve
-
-başladığı tarihte (9/7/2018)
+Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)
 
 Değiştiren Kanunun/ 3359 Sayılı Kanunun Değişen veya Yürürlükten
 

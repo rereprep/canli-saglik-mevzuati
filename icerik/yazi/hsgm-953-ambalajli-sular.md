@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Ust_Yazi_A
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 SU GÜVENLİĞİ BİRİMİ
 
 T.C.
@@ -24,9 +25,7 @@ Konu : Ambalajlı Sular
 
 DAĞITIM YERLERİNE
 
-Ülkemizde tüketime sunulan ambalajlı sularla ilgili çalışmalar, 5996 sayılı Veteriner Hizmetleri, Bitki
-
-Sağlığı, Gıda ve Yem Kanunu 27’nci maddesi gereğince Bakanlığımız sorumluluğunda yer almakta olup bahse konu sulara yönelik iş ve işlemler Avrupa Birliği mevzuatıyla uyumlu “**İnsani Tüketim Amaçlı Sular Hakkında**
+Ülkemizde tüketime sunulan ambalajlı sularla ilgili çalışmalar, 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu 27’nci maddesi gereğince Bakanlığımız sorumluluğunda yer almakta olup bahse konu sulara yönelik iş ve işlemler Avrupa Birliği mevzuatıyla uyumlu “**İnsani Tüketim Amaçlı Sular Hakkında**
 
 **Yönetmelik”** ve “**Doğal Mineralli Sular Hakkında Yönetmelik”** çerçevesinde yürütülmektedir.
 
@@ -62,9 +61,7 @@ Bu kapsamda;
 
 -Analiz sonuçlarına göre mikrobiyolojik uygunsuzluklarda üretici firmanın itiraz hakkı bulunmamaktadır. Diğer uygunsuzluklarda, üretici firmaya uygunsuzluğun tebliğ edildiği tarihten itibaren yedi gün içerisinde itiraz hakkı olduğu ve şahit numune analizi isteyebileceği hususlarının üretici firmaya tebliğ edilmesi,
 
--Mikrobiyolojik uygunsuzluk ile birlikte kimyasal uygunsuzluk tespit edilmesi halinde 7223 sayılı Kanun gereğince katlamalı ceza uygulanması açısından, şahit numunenin uygunsuz sonuçlanan kimyasal parametre yönünden analize gönderilmesi gerekmektedir. Çıkan analiz sonucunun diğer belgelerle beraber DYS üzerinden
-
-Bakanlığa gönderilmesi (evrakların fiziki olarak gönderilmesine gerek yoktur),
+-Mikrobiyolojik uygunsuzluk ile birlikte kimyasal uygunsuzluk tespit edilmesi halinde 7223 sayılı Kanun gereğince katlamalı ceza uygulanması açısından, şahit numunenin uygunsuz sonuçlanan kimyasal parametre yönünden analize gönderilmesi gerekmektedir. Çıkan analiz sonucunun diğer belgelerle beraber DYS üzerinden Bakanlığa gönderilmesi (evrakların fiziki olarak gönderilmesine gerek yoktur),
 
 -PGD kapsamında alınan numunelerin orijinal ambalajlı ve mühürlü şekilde usulüne uygun olarak alınması ve numune alma tutanağının alt bilgiler dahil eksiksiz ve hatasız doldurulmasına dikkat edilmesi,
 
@@ -76,9 +73,7 @@ Bakanlığa gönderilmesi (evrakların fiziki olarak gönderilmesine gerek yoktu
 
 /1Çankaya 06430 Çevre Sağ. Tekn.
 
-10. Mevzuat gereği su satış yerlerinin üç ayda bir denetlenmesi gerekmektedir. PGD numuneleri açısından önem arz eden satış yerleri bilgilerinin kontrol edilerek sistemde güncel tutulması, su satış yerleri ve nakil araçlarına yönelik Ambalajlı Su Satış Yerleri İle Ambalajlı Su Nakil Araçlarının Tabi Olacağı Usul Ve
-
-Esaslar Hakkında Tebliği doğrultusunda gerekli çalışmalar yapılmalıdır.
+10. Mevzuat gereği su satış yerlerinin üç ayda bir denetlenmesi gerekmektedir. PGD numuneleri açısından önem arz eden satış yerleri bilgilerinin kontrol edilerek sistemde güncel tutulması, su satış yerleri ve nakil araçlarına yönelik Ambalajlı Su Satış Yerleri İle Ambalajlı Su Nakil Araçlarının Tabi Olacağı Usul Ve Esaslar Hakkında Tebliği doğrultusunda gerekli çalışmalar yapılmalıdır.
 
 11. Ülkemizde ithal edilen sular Bakanlığımızca izinlendirilmekte olup sisteme tanımlanmaktadır.
 

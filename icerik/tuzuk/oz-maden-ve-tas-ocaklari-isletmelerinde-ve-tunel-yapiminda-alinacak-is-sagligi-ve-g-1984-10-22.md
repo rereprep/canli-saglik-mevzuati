@@ -82,8 +82,6 @@ Malzeme taşınması
 
 **Madde 13 –** Maden ocaklarında, ### İmalat haritaları her ayın sonunda işlenir; gerekçe raporu ve imalat defteriyle birlikte teftişe yetkili memurlara gösterilmek üzere hazır bulundurulur.
 
-
-
 ### İKİNCİ BÖLÜM
 
 ### Patlayıcı Maddeler
@@ -530,9 +528,7 @@ Elektrikli lokomotiflerin kullanılma koşulları
 
 a) Demiryolları ve trolley telleri arasındaki uzaklığın yönetmeliğine uygun bulunması,
 
-b) Manevra yerleri, katarların karşılaştığı yerler ve makaslarda trolley tellerinin akım taşıyıp taşımadığının iyice görülür ışık sistemli işaretlerle belirtilmiş olması,
-
-koşuluyla kullanılır.
+b) Manevra yerleri, katarların karşılaştığı yerler ve makaslarda trolley tellerinin akım taşıyıp taşımadığının iyice görülür ışık sistemli işaretlerle belirtilmiş olması, koşuluyla kullanılır.
 
 Halatlı taşımada işaretleşme düzeni
 
@@ -2371,4 +2367,3 @@ Bu denetimlerde, zararlı ve tehlikeli gaz ve tozların ve yangın belirtilerini
 ### Yürütme
 
 **Madde 384 –** Bu Tüzük hükümlerini Bakanlar Kurulu yürütür.
-

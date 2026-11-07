@@ -25,13 +25,7 @@ Geçerlilik Süresi
 
 DAĞITIM YERLERİNE
 
-Enfeksiyon Kontrol Hemşireliği Sertifikalı Eğitim Programı, Sağlık Hizmetleri Genel Müdürlüğü Eğitim ve Sertifikasyon Dairesi Başkanlığı tarafından yayınlanan Enfeksiyon Kontrol Hemşireliği Sertifikalı Eğitim
-
-Standardı’na göre yürütülmektedir. Bu standarta göre sertifika geçerlilik süresi 7 yıl olup, 12. maddeye göre "Resertifikasyon sınav süreci tamamlanıncaya kadar sertifika sahiplerinin sertifikaları geçerlidir." 2017 ve 2018 yıllarında "Enfeksiyon Kontrol Hemşireliği Sertifikası" almaya hak kazananlar ile aynı yıllarda "Sertifika
-
-Yenileme Programı" ile sertifikaları yenilenenlerin sertifikaları; Bakanlıkça duyurulacak "Sertifika Yenileme
-
-Programı" süreci tamamlanana kadar geçerlidir. Konu hakkında iliniz bünyesinde yer alan tüm yataklı tedavi kurumlarının bilgilendirilmesi hususunda;
+Enfeksiyon Kontrol Hemşireliği Sertifikalı Eğitim Programı, Sağlık Hizmetleri Genel Müdürlüğü Eğitim ve Sertifikasyon Dairesi Başkanlığı tarafından yayınlanan Enfeksiyon Kontrol Hemşireliği Sertifikalı Eğitim Standardı’na göre yürütülmektedir. Bu standarta göre sertifika geçerlilik süresi 7 yıl olup, 12. maddeye göre "Resertifikasyon sınav süreci tamamlanıncaya kadar sertifika sahiplerinin sertifikaları geçerlidir." 2017 ve 2018 yıllarında "Enfeksiyon Kontrol Hemşireliği Sertifikası" almaya hak kazananlar ile aynı yıllarda "Sertifika Yenileme Programı" ile sertifikaları yenilenenlerin sertifikaları; Bakanlıkça duyurulacak "Sertifika Yenileme Programı" süreci tamamlanana kadar geçerlidir. Konu hakkında iliniz bünyesinde yer alan tüm yataklı tedavi kurumlarının bilgilendirilmesi hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 

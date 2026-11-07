@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,9 +25,7 @@ Hakkında
 
 DAĞITIM YERLERİNE
 
-Genel Müdürlüğümüzce yürütülmekte olan Yenidoğan Tarama Programı (NTP) ile yenidoğan bebeklerde bazı kalıtsal hastalıkların erken tanılanması ve tedavi edilmesi ile hastalığa bağlı morbidite ve mortalitenin önlenmesi sağlanmaktadır. Program kapsamında fenilketonüri, konjenital hipotiroidi, biyotinidaz eksikliği, kistik fibrozis, konjenital adrenal hiperplazi ve spinal musküler atrofi hastalıklarının erken tespit edilmesi amacıyla yenidoğan döneminde taramaları gerçekleştirilmektedir. Tarama sonucunda hastalık şüphesi olan bebekler İl
-
-Sağlık Müdürlüklerince ilgili merkezlere ileri tanı ve tedavi amacıyla yönlendirilmektedir.
+Genel Müdürlüğümüzce yürütülmekte olan Yenidoğan Tarama Programı (NTP) ile yenidoğan bebeklerde bazı kalıtsal hastalıkların erken tanılanması ve tedavi edilmesi ile hastalığa bağlı morbidite ve mortalitenin önlenmesi sağlanmaktadır. Program kapsamında fenilketonüri, konjenital hipotiroidi, biyotinidaz eksikliği, kistik fibrozis, konjenital adrenal hiperplazi ve spinal musküler atrofi hastalıklarının erken tespit edilmesi amacıyla yenidoğan döneminde taramaları gerçekleştirilmektedir. Tarama sonucunda hastalık şüphesi olan bebekler İl Sağlık Müdürlüklerince ilgili merkezlere ileri tanı ve tedavi amacıyla yönlendirilmektedir.
 
 Tarama programının amacına ulaşabilmesi için ilgili kliniklere sevk edilen ilinize kayıtlı bebeklerin sevk sonrasındaki süreçlerinin titizlikle takip edilmesi, tanı bilgilerinin ve diğer sonuçların (ret, ölüm tarihi vb.)
 

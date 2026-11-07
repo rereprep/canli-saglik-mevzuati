@@ -4397,11 +4397,7 @@ görevlerde fiilen altı ay çalıştıktan sonra bu
 
 4 4.500
 
-Kanunun 43 üncü maddesinin ‘B’ bendinin
-
-üçüncü paragrafında belirtilen kadro ve
-
-görevlere atananlar
+Kanunun 43 üncü maddesinin ‘B’ bendinin üçüncü paragrafında belirtilen kadro ve görevlere atananlar
 
 c) **(Ek: 1/7/2006-5540/7 md.)** Birinci Sınıf
 
@@ -4483,9 +4479,7 @@ Müdürlüklerin merkez teşkilatı Daire Başkanı,
 
 Türk İşbirliği ve Koordinasyon Ajansı
 
-Başkanlığı Daire Başkanı, kadrolarına
-
-atananlar (Bütçe Dairesi Başkanı dahil), Millî
+Başkanlığı Daire Başkanı, kadrolarına atananlar (Bütçe Dairesi Başkanı dahil), Millî
 
 Eğitim Bakanlığı Grup Başkanı, Gelir 1/7/2010 tarihli ve 6002 sayılı Kanunun 21 inci maddesiyle, bu cetvelin 5 inci sırasının (f) bendine “İl <i>Emniyet Müdürleri” ibaresinden sonra gelmek üzere “, İl Müftüleri” ibaresi eklenmiş, 7 nci sırasında yer alan</i> <i>“ile Büyükşehir Belediyesi Genel Sekreter Yardımcıları” ibaresi “, Diyanet İşleri Başkanlığı Dinî Yüksek İhtisas</i> <i>Merkezi Müdürü” olarak değiştirilmiş, 9 uncu sırasının (a) bendine “İl Emniyet Müdürleri,” ibaresinden sonra</i> <i>gelmek üzere “İl Müftüleri,”, (b) bendine “İl Emniyet Müdürleri,” ibaresinden sonra gelmek üzere “İl</i> <i>Müftüleri,” ibaresi eklenmiştir.</i> 24/10/2011 tarihli ve 656 sayılı KHK’nın 20 nci maddesiyle bu bölüme “Daire Başkanı” ibaresinden sonra <i>gelmek üzere “, Türk İşbirliği ve Koordinasyon Ajansı Daire Başkanı” ibaresi eklenmiş olup, daha sonra bu</i> <i>ibare 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle “Türk İşbirliği ve Koordinasyon Ajansı</i> <i>Başkanlığı Daire Başkanı,” şeklinde değiştirilmiştir.</i> 25/8/2011 tarihli ve 526 sayılı KHK’nin 44 üncü maddesiyle, bu cetvelin 7 inci sırasına “Gelir İdaresi Grup <i>Başkanı” ibaresinden önce gelmek üzere “Millî Eğitim Bakanlığı Grup Başkanı,” ibaresi, 8 inci sırasının (a)</i> <i>bendine “Aile ve Sosyal Politikalar Denetçileri” ibaresinden sonra gelmek üzere “, Millî Eğitim Denetçileri”</i> <i>ibaresi eklenmiştir.</i>
 
@@ -4501,9 +4495,7 @@ Başkanı, Milli Kütüphane Başkan
 
 Yardımcısı, Bölge Müdürleri (Kamu İktisadi
 
-Teşebbüsleri, Belediyeler ve bunlara bağlı
-
-kurum ve kuruluşlar hariç), (…) Üniversite
+Teşebbüsleri, Belediyeler ve bunlara bağlı kurum ve kuruluşlar hariç), (…) Üniversite
 
 Genel Sekreterleri, Din İşleri Yüksek Kurulu
 
@@ -4637,9 +4629,7 @@ fiilen altı ay çalıştıktan sonra bu Kanunun 43
 
 2.000 10 üncü maddesinin ‘B’ bendinin üçüncü
 
-paragrafında belirtilen kadro ve görevlere
-
-atananlar
+paragrafında belirtilen kadro ve görevlere atananlar
 
 ### b) 8 inci sıranın (d) bendi ile 9 uncu sırada 1.000
 
@@ -4647,9 +4637,7 @@ yazılı kadro ve görevlerde fiilen altı ay
 
 çalıştıktan sonra bu Kanunun 43 üncü
 
-maddesinin ‘B’ bendinin üçüncü paragrafında
-
-belirtilen kadro ve görevlere atananlar
+maddesinin ‘B’ bendinin üçüncü paragrafında belirtilen kadro ve görevlere atananlar
 
 ### 14/7/1965 TARİHLİ VE 657 SAYILI ANA KANUNA İŞLENEMEYEN KANUN HÜKÜMLERİ
 
@@ -5047,9 +5035,7 @@ Kararnamenin 1 inci maddesi ile 657 sayılı
 
 Devlet Memurları Kanununun 4 üncü 27/12/1991 KHK/475 11
 
-maddesinin (B) bendinin sonuna eklenen
-
-fıkra,
+maddesinin (B) bendinin sonuna eklenen fıkra,
 
 c) 10/10/1984 tarih ve 3056 sayılı
 
@@ -5279,9 +5265,7 @@ KHK/14 43, Ek Geçici Madde 20 1/11/1978
 
 2670 57, 58, 63, 72, 83, 92, 93, 97, 108, 133, 134, Ek Madde 1, Ek Madde 2,
 
-16/5/1982 (2906 Sayılı Kanunla Ek Madde 3, Geçici Madde 1, Geçici Madde 2, Geçici Madde 3, Geçici
-
-değişik) Madde 4, Geçici Madde 5
+16/5/1982 (2906 Sayılı Kanunla Ek Madde 3, Geçici Madde 1, Geçici Madde 2, Geçici Madde 3, Geçici değişik) Madde 4, Geçici Madde 5
 
 124, 125, 126, 127, 128, 129, 132, 135, 136 16/8/1982
 
@@ -5873,9 +5857,7 @@ yapılan milletvekili
 
 KHK/643
 
-36, 59, 152, (I), (II) ve (IV) Sayılı Cetvel seçiminden sonra kurulan
-
-ilk Bakanlar Kurulu
+36, 59, 152, (I), (II) ve (IV) Sayılı Cetvel seçiminden sonra kurulan ilk Bakanlar Kurulu
 
 üyelerinin atandığı tarihte
 
@@ -5883,9 +5865,7 @@ ilk Bakanlar Kurulu
 
 yapılan milletvekili
 
-KHK/644 36, 152, (I) Sayılı Cetvel, (II) Sayılı Cetvel, (IV) Sayılı Cetvel seçiminden sonra kurulan
-
-ilk Bakanlar Kurulu
+KHK/644 36, 152, (I) Sayılı Cetvel, (II) Sayılı Cetvel, (IV) Sayılı Cetvel seçiminden sonra kurulan ilk Bakanlar Kurulu
 
 üyelerinin atandığı tarihte
 

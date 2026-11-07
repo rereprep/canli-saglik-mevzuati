@@ -25,7 +25,6 @@ Konu: Genişletilmiş Bağışıklama Programı Genelgesi
 ### GENELGE
 **2009/17**
 
-
 Bağışıklama hizmetlerinde temel amaç; toplumda, özellikle bebek ve çocuklarda așı ile korunulabilir hastalıkların ortaya çıkışını engellemek, dolayısıyla bu hastalıklardan kaynaklanan ölümlerin ve sakatlıkların önüne geçmektir. Temel hedefin aşısız çocuk bırakmamak olduğu unutulmamalıdar.
 
 Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında 181 sayılı Kanun Hükmünde Karamame ile Ülkemizde yürütülecek bağışıklama hizmetlerini düzenleme yetkisi Bakanlığımıza verılmiştir. Bu düzenlemeler yapılırken dünyadaki çeşitli gelişmelar takip edilmekte ve akademisyenlerden oluşan Bağışıklama Danışma Kurulu'nun tavsiyeleri dikkate alımaktadır.
@@ -80,9 +79,7 @@ devamlılığımı sağlamak,
 
 • Difteri, Boğmaca, Hepatit-B, Tüberküloz, Kabakulak ve Hemofilus influenza tip b'ye bağlı
 
-hastalıkları va Streptokokus prömoniya'ya bağlı invaziv prömokokal hastalıklan kontrol altına
-
-almak,
+hastalıkları va Streptokokus prömoniya'ya bağlı invaziv prömokokal hastalıklan kontrol altına almak,
 
 • Aşı güvenligını surdurmek
 
@@ -162,11 +159,7 @@ Aşı takviminde belirtilen urulıklara göre aşıları tamamlanamamış çocuk
 
 • Aşı takviminde belirtilen uygulama zamanları ve uygulama aralıklarına uymak esastır. Ancak zorunlu hallerde aşağıda belirtilen en az süreler kullanılabilir;
 
-o DaBT-IPA-Hib aşsımın 1. ile 2, ve 2. ile 3, dozlar arasindaki süre en az 4 hafta
-
-olmalıdır. Aym aşının 3. dozu ile rapel dozu arasındaki süre ise en az 6 ay
-
-olmalıdır.
+o DaBT-IPA-Hib aşsımın 1. ile 2, ve 2. ile 3, dozlar arasindaki süre en az 4 hafta olmalıdır. Aym aşının 3. dozu ile rapel dozu arasındaki süre ise en az 6 ay olmalıdır.
 
 o Kızamık antijeni içeren iki așı arasında en az 4 hafta süre olmalıdır.
 
@@ -176,13 +169,7 @@ hafta olmalı, ayrica 3. doz 1. dozdan en az l6 hafta sonra uygulanmalıdar. As�
 
 0-1-6 semasidir.
 
-o KPA için; 12, aydan küçük çocuklarda, 1. ve 2. dozlar ile 2. ve 3. dozlar arasında
-
-birakılması gereken en az süre 4 hafta olmalıdır. Son doz ile pekiştirme dozu
-
-arasinda en az süre 4 ay olmalıdır (pekiştirme dozu 12. aydan önce
-
-yapılmamalıdır).
+o KPA için; 12, aydan küçük çocuklarda, 1. ve 2. dozlar ile 2. ve 3. dozlar arasında birakılması gereken en az süre 4 hafta olmalıdır. Son doz ile pekiştirme dozu arasinda en az süre 4 ay olmalıdır (pekiştirme dozu 12. aydan önce yapılmamalıdır).
 
 • Kural olarak parenteral (cnjeksiyonla) uygulanan iki canlı viral aşı aymı anda uygulanabilir, aynı anda uygulanamayacaksa aralarında en az 4 hafta süre bırakılması gerekir. Takvimimizde yer alan canlı aşılardan OPA ile diğer canlı aşılar arasında süre bırakılması gerekmez. Kızamık hastalığı ya da aşısı sonrası lenfopeni (t lenfosit azalması) oluşma olasılığı nedeniyle, hücresel bağışıklık yetersiz kalabileceğinden Kızamık içeren aşılar sonrası BOG uygulanmasında 4 haftalık bir süre bırakmak gerekir. BOG'nin önce vygulandığı durumda ise Kızamık içeren aşıların uygulanması için süre bırakmaya gerek
 
@@ -204,15 +191,11 @@ yapılmamalıdır).
 
 a) Anne Hepatit B taşıyıcısı ise veya taşıyıcılık durumu bilinmiyorsa doğumdan
 
-sonraki ilk 12 saat içinde ilk doz yapılır, daha sonra 1., 2. ve 12. aylarda aşı
-
-tekrarlanır (toplam 4 doz uygulanır).
+sonraki ilk 12 saat içinde ilk doz yapılır, daha sonra 1., 2. ve 12. aylarda aşı tekrarlanır (toplam 4 doz uygulanır).
 
 b) Anne Hepatit B taşıyıcısı değilse, bebek 2000 gr'a ulaştığında veya 1. ayın
 
-sonunda ilk doz yapılır, ilk dozdan 1 ay ve 6 ay sonra aşı tekrarlamır (toplam 3 doz
-
-uygulanir).
+sonunda ilk doz yapılır, ilk dozdan 1 ay ve 6 ay sonra aşı tekrarlamır (toplam 3 doz uygulanir).
 
 • BCG aşısı doğumdan itibaren yapılabilir, ancak uygulama kolaylığı, daha az komplikasyon olması ve immünitenin daha kuvvetli gelişmesi için 2 ayı doldurduğunda uygulanmalıdır.
 
@@ -222,11 +205,7 @@ uygulanir).
 
 o Kayıtlara göre BCG yapıldığı bilinen çocuklarda (skar görülsün veya görülmesin)
 
-ve BOG skanı bulunan çocuklarda herhangi bir yaşta kontrol amacıyla TCT
-
-yapılmasına gerek yoktur ve bunun sonucuna güre BCG uygulaması gerekli
-
-değildir.
+ve BOG skanı bulunan çocuklarda herhangi bir yaşta kontrol amacıyla TCT yapılmasına gerek yoktur ve bunun sonucuna güre BCG uygulaması gerekli değildir.
 
 • 6 yaş üzerinde hiç aşılanmamış çocukta BCG gerekli değildir.
 
@@ -298,23 +277,11 @@ Form 013B, takip eden ayın ilk haftası içinde Sağlık Müdürlüğüne gönd
 
 • Form 006 (Bebek ve Çocuk İzleme Fişi): Her aşi scansindan sonra For DIZA ya kaydedilen aşılar, tarıhi gün-ay-yıl olarak belırtilecck şekilde bu forma aktorlır.
 
-o Bebek/Çocuk Aşı Kartı: Tespit edilen her bebek ve çocuk için Form DIZA'ya kayıt
+o Bebek/Çocuk Aşı Kartı: Tespit edilen her bebek ve çocuk için Form DIZA'ya kayıt sarasında aşı kartı düzenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu
 
-sarasında aşı kartı düzenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu
+tarihi kurşun kalemle kaydedilerek verilir. Aşı kartının saklanmast gerektiği ve aşılamaya gelinirken bebeğin beraberinde getirilmesi hatırlatılır. Așılama tarihı gun- ay-yıl olarak doldurulmalıdır.
 
-tarihi kurşun kalemle kaydedilerek verilir. Aşı kartının saklanmast gerektiği ve
-
-aşılamaya gelinirken bebeğin beraberinde getirilmesi hatırlatılır. Așılama tarihı gun-
-
-ay-yıl olarak doldurulmalıdır.
-
-o Erişkin Difteri Tetanoz Aş Kartı: Tespit edilen her gebe ve yüksek riskli
-
-bölgelerdeki doğurganlık çağı kadın için Form 012B'ye kayıt sırasında aşı kartı
-
-dizenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu tarihi kurşun
-
-kalemle kaydedilerek verilir. Aşılama tarihi gün-ay-yıl olarak doldurulmalıdır.
+o Erişkin Difteri Tetanoz Aş Kartı: Tespit edilen her gebe ve yüksek riskli bölgelerdeki doğurganlık çağı kadın için Form 012B'ye kayıt sırasında aşı kartı dizenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu tarihi kurşun kalemle kaydedilerek verilir. Aşılama tarihi gün-ay-yıl olarak doldurulmalıdır.
 
 o Okul Aşı Kartı: Okul aşılamaları sırasında aşılanan her çocuk Form 012B'ye
 
@@ -342,9 +309,7 @@ Aşıların yapılmaması gereken durumlar çok nadirdir. Kesin kontrendikasyon 
 
 - Aşılamadan sonra 48 saat içinde ortaya çıkan 40,5°C ve üzerinde rektal ateş
 
-o Hipotonik hiporesponsif atak
-
-o Konvülsiyon
+o Hipotonik hiporesponsif atak o Konvülsiyon
 
 - Aşılamadan 48 saat sonra ortaya çıkan ve en az 3 saat süren durdurulamayan
 
@@ -436,15 +401,11 @@ dişında),
 
 • Topikal (eilt üzerine krem/merhem), aerosol (solunum yolu ile) şeklinde veya lokalize
 
-(intraartiküler, intrabursal veya tendon içi vb.) steroid kullanımı ya da agız yolu ile düşük doz
-
-steroid kullanımı (2 mg/kg veya 20 mg/gün dozundan az),
+(intraartiküler, intrabursal veya tendon içi vb.) steroid kullanımı ya da agız yolu ile düşük doz steroid kullanımı (2 mg/kg veya 20 mg/gün dozundan az),
 
 • Konvülsiyon üyküsu: aşılama sonrası ateş gürtlebileceğinden, febril konvülsiyon öyküsü olan
 
-çocuklarda ateş çıkması beklenen dönemde ateş duşürücu verilmesi uygundur. Çocuk
-
-antikonvilzan tedavi alıyorsa tedavisine aksanılmadan devam edilmelidir.
+çocuklarda ateş çıkması beklenen dönemde ateş duşürücu verilmesi uygundur. Çocuk antikonvilzan tedavi alıyorsa tedavisine aksanılmadan devam edilmelidir.
 
 Aşı öncesi genel durumu iyi, sağlıklı çocukların ateşinin ölçülmesine ve fizik muayene yapılmasına gerek yoktur. Kontrendikasyonlar mutlaka sorgulanmalıdır, Aşı öncesi çocuğun hasta olup olmadığının sorulması yeterlidir. "Önlem ahınarak aşı yapılması gereken durumlar"da aşı uygulama kararı, takip eden doktora bırakılmalıdır/doktor kontrolü sonrası aşı uygulanmalıdır.
 
@@ -468,65 +429,37 @@ durumda olmalidır. Yukanıdaki şartlar yerine getirilemiyorsa o aşı flakonu 
 
 • Çok Dozlu Liyofilize (sulandırılan) Aşılar: o BCG aşısı sulandırıldıktan sonra (+2) - (+8/°C de ve karunhkta korunmak şartıyla 6
 
-saat içinde, o Çok dozlu Kızamık ve Kızamıkçık aşısı sulandınidıktan sonra (+2) - (+8)"C'de ve
-
-karanlıkta korunmak şartıyla 4 saat içinde kullanılmalıdır.
+saat içinde, o Çok dozlu Kızamık ve Kızamıkçık aşısı sulandınidıktan sonra (+2) - (+8)"C'de ve karanlıkta korunmak şartıyla 4 saat içinde kullanılmalıdır.
 
 • **Tek Dozlu** Liyofilize Aşılar: o Tek dozlu Hib ve KKK aşısı sulandırıldıktan sonra hemen kullamılmalıdır.
 
 • Tek Dozlu Kombine Aşılar: o Difteri, aselüler Boğmaca, Tetanoz, Inaktif Polio, Hemofilus influenza tip b içeren
 
-beşli karma aşıda, aynı pakette enjektör içerisinde sıvı formda DaBT ve IPA, aynı
-
-flakon içinde liyofilize Hib bulunmaktadır. Liyofilize Hib aşısı sıvı formda olan
+beşli karma aşıda, aynı pakette enjektör içerisinde sıvı formda DaBT ve IPA, aynı flakon içinde liyofilize Hib bulunmaktadır. Liyofilize Hib aşısı sıvı formda olan
 
 DaBT-IPA ile sulandınidıktan sonra hemen uygulanmalıdır.
 
 • Tek Dozlu Liyoflize Olmayan Aşılar: o KPA tek dozluk kullanıma hazır enjektör içerisinde sunulmaktadır. Sıvı formda
 
-bulunan aşı kendi enjektörü ile uygulanmahdır. o Tek dozluk hepatit B aşısı tek dozluk flakon veya ampul içerisinde sunulmaktadır. Tek
+bulunan aşı kendi enjektörü ile uygulanmahdır. o Tek dozluk hepatit B aşısı tek dozluk flakon veya ampul içerisinde sunulmaktadır. Tek kullanımlık enjektöre çekilmek suretiyle uygulanmalıdır.
 
-kullanımlık enjektöre çekilmek suretiyle uygulanmalıdır.
-
-Ayı Sulandırmada Genel İlkeler: o Her aşı kendi sulandıresı ile sulandırılmahdır. Farklı aşıların sulandıricıları
-
-değiştirilerek kullanılamazlar, yanlış sulandıreı kullanımı aşı etkinliğinin yok
-
-olmasina veya ASÍE lere zemin hazırlar. o Daima aşıyı üreten firmanın sağladığı sulandırıcı kullanılmalıdır. o Başka amaçlar için kullanılmak uzere üretilen steril su ya da fizyolojik serum aşı
-
-sulandırmakta kullanılamaz. o Aşt uygulanan birimlerde sulandıneılar da buzdolabında tutulmalıdır. o Aşılar, aşılama hazırlıklan tamamlandıktan sonra sulandırılmalıdır. o Aşıyı sulandırmadan önce eller temiz su ve sabunla yıkanmalıdır. o Aşı flakonu, sulandırıcı ve enjektörler kontrol edilmelidir (doğru aşu/sulandıncı, varsa
-
-aşı flakon izlemcisi, son kullanma tarihi). o Sulandırmadan önce flakona parmakla fiskeler vurularak toz (liyofilize) aşıun
-
-flakonun dibine çökmesi sağlanmalıdır. o Sulandınlan aşımın buz akilsü ile direkt teması ve donması engellenmelidir. Işğa
+Ayı Sulandırmada Genel İlkeler: o Her aşı kendi sulandıresı ile sulandırılmahdır. Farklı aşıların sulandıricıları değiştirilerek kullanılamazlar, yanlış sulandıreı kullanımı aşı etkinliğinin yok olmasina veya ASÍE lere zemin hazırlar. o Daima aşıyı üreten firmanın sağladığı sulandırıcı kullanılmalıdır. o Başka amaçlar için kullanılmak uzere üretilen steril su ya da fizyolojik serum aşı sulandırmakta kullanılamaz. o Aşt uygulanan birimlerde sulandıneılar da buzdolabında tutulmalıdır. o Aşılar, aşılama hazırlıklan tamamlandıktan sonra sulandırılmalıdır. o Aşıyı sulandırmadan önce eller temiz su ve sabunla yıkanmalıdır. o Aşı flakonu, sulandırıcı ve enjektörler kontrol edilmelidir (doğru aşu/sulandıncı, varsa aşı flakon izlemcisi, son kullanma tarihi). o Sulandırmadan önce flakona parmakla fiskeler vurularak toz (liyofilize) aşıun flakonun dibine çökmesi sağlanmalıdır. o Sulandınlan aşımın buz akilsü ile direkt teması ve donması engellenmelidir. Işğa
 
 duyarlı aşılar ışıktan korunmalıdır. o Sulandırma işleminde sulandıricını tamamı kullamılmahdır. Liyofilize Aşılarıa Sulandırılması:
 
 1) Çok dozlu așıların sulandırılması: o Her yeni uygulama için yeni bir sulandırma enjektörü ve iğne ucu kullanılmalı ve bütün
 
-çözücünün enjektöre dolması sağlanmalı, daha sonra sulandıricının tamamı aşı flakonu
-
-içine boşalulmalıdır. o Sulandınıcı ve aşıyı karıştırmak için birkaş kez yavaşça enjektöre çekilip, tekrar
-
-yavaşça flakonun içerisine boşaltılarak karıştırma işlemi tamamlanmalıdır. o Sulandırma işlemi sonrası enjektör ve iğnesi ayrılmadan güvenli atık kutusuna
-
-atılmalıdır. o Her uygulama için yeni bir aşı enjektörü kullanılmalıdır.
+çözücünün enjektöre dolması sağlanmalı, daha sonra sulandıricının tamamı aşı flakonu içine boşalulmalıdır. o Sulandınıcı ve aşıyı karıştırmak için birkaş kez yavaşça enjektöre çekilip, tekrar yavaşça flakonun içerisine boşaltılarak karıştırma işlemi tamamlanmalıdır. o Sulandırma işlemi sonrası enjektör ve iğnesi ayrılmadan güvenli atık kutusuna atılmalıdır. o Her uygulama için yeni bir aşı enjektörü kullanılmalıdır.
 
 2) Tek dozlu aşiların sulandırılmasi: o Her yeni uygulama için yeni bir aşı enjektörü ve iğne ucu kullanılmalıdır. Önce bütün
 
-çözücünün enjektöre dolmase sağlanmalı, daha sonra sulandıncının tamamı aşı flakonu
-
-içine boşaltılmalıdır. o Sulandınıcı ve aşıyı karıştırmak için birkaç kez yavaşça enjektöre çekilip, tekrar
-
-yavaşça flakonun içerisine boşaltılarak karıştırma işlemi tamamlanmalıdır. Enjektör
+çözücünün enjektöre dolmase sağlanmalı, daha sonra sulandıncının tamamı aşı flakonu içine boşaltılmalıdır. o Sulandınıcı ve aşıyı karıştırmak için birkaç kez yavaşça enjektöre çekilip, tekrar yavaşça flakonun içerisine boşaltılarak karıştırma işlemi tamamlanmalıdır. Enjektör
 
 flakondan hiç çıkarılmadan aşının tamamı enjektöre çekilmeli ve aşı uygulanmalıdır. o Aşılama işlemi sonrası enjektör ve iğnesi ayrılmadan güvenli atık kutusuna atılmalıdır.
 
 3) Tek dozlu DaBT-IPA-Hib (beşli) aşısının sulandırılmasi: o Beşli aşı. DaBT-İPA içeren sıvı halde kullanıma hazır enjektör ve fakon içerisinde liyofilize halde Hib olarak aym paket içerisindedir. o Liyofilize halde flakon içerisinde bulunan Hib, sıvı halde enjektör içinde bulunan
 
-DaBT-IPA ile sulandırlır. o Oncelikle bütün sıvının flakona dolması sağlanmalıdır. Daha sonra enjektör fakordan
-
-ayrılmadan, flakon çalkalanarak Hib eritilmeli ve aymı enjektöre çekilerek
+DaBT-IPA ile sulandırlır. o Oncelikle bütün sıvının flakona dolması sağlanmalıdır. Daha sonra enjektör fakordan ayrılmadan, flakon çalkalanarak Hib eritilmeli ve aymı enjektöre çekilerek
 
 bekletilmeden uygulanmalıdır. o Aşılama işlemi sonrası enjektör ve iğnesi ayrılmadan glivenli atık kutusuna atılmalıdır.
 
@@ -608,9 +541,7 @@ GBP için gerekli aşı ve malzemeler sevk dönemlerinde ve düzenli aralıklarl
 
 Aşının depolandığı yer Sevk dönemleri
 
-Bölge deposu ve Il deposu De ayda bir
-
-liçe deposu / TSM Ayda bir
+Bölge deposu ve Il deposu De ayda bir liçe deposu / TSM Ayda bir
 
 Sağlık Ocağı / Aile Hekimi Ayda bir
 
@@ -712,9 +643,7 @@ Il düzeyinde soğuk zincir uygulamaları aşağıdaki kurallara göre düzenlen
 
 • Aşıların dağıtımında ve kullanımında son kullanma tarihleri mutlaka göz önüne alımarak,
 
-miadı (kullanım süresi) daha önce dolacak aşıların kullanımına öncelik verilmeli, miadı
-
-dolmuş olanlar imha edilmelidir.
+miadı (kullanım süresi) daha önce dolacak aşıların kullanımına öncelik verilmeli, miadı dolmuş olanlar imha edilmelidir.
 
 • Gönderilen aşılar farkhı firmalar turafindan üretildiğinden uygulama dozları için mutlaka
 
@@ -724,9 +653,7 @@ prospektüsleri kontrol edilmelidir.
 
 buzdolaplarımın içerisine aşı, antiserum, buz aküsü ve su bidonlarından başka hiçbir
 
-malzeme (ilaç, yiyecek, içecek, enjektör, vb) konulmamalıdır. Aşı uygulanan birimlerde
-
-sulandıncilar da buzdolabında saklanmalıdır.
+malzeme (ilaç, yiyecek, içecek, enjektör, vb) konulmamalıdır. Aşı uygulanan birimlerde sulandıncilar da buzdolabında saklanmalıdır.
 
 • Aşı dolabı olarak buzluk ve alt bolümü ayrı olan çift kapılı no-frost buzdolapları tercih
 
@@ -734,21 +661,13 @@ edilmelidir.
 
 • Aşi dolaplarında en az bir adet güvenilir termometre olmalıdır. Termometrelerin sürekli
 
-ısı kaydeden ve belirlenen aralığın dışına çıktığında uyarı veren modelleri tercih
+ısı kaydeden ve belirlenen aralığın dışına çıktığında uyarı veren modelleri tercih edilmelidir. Bozulan veya kırlan termometre hemen yenisi ile değiştirilmelidir.
 
-edilmelidir. Bozulan veya kırlan termometre hemen yenisi ile değiştirilmelidir.
-
-Buzdolabını ısısı +2 ila +8 °C arasında korunmalıdır. Ozellikle +4 "C"de kalması
-
-sağlanmalıdır.
+Buzdolabını ısısı +2 ila +8 °C arasında korunmalıdır. Ozellikle +4 "C"de kalması sağlanmalıdır.
 
 • Buzdolabı her açıldığında ısının kontrol edilmesi gerektiği unutulmamalıdır. Buzdolabının
 
-kapısına bir 15ı izlem çizelgesi yapıştırılarak dolabın ı5ısı sabah ve akşam bu çizelgeye
-
-kaydedilmelidir. Isı izlem çizelgesinin alunda soğuk zincir sorumlusunun ve yedeğının
-
-adt, soyads bulunmaldtr.
+kapısına bir 15ı izlem çizelgesi yapıştırılarak dolabın ı5ısı sabah ve akşam bu çizelgeye kaydedilmelidir. Isı izlem çizelgesinin alunda soğuk zincir sorumlusunun ve yedeğının adt, soyads bulunmaldtr.
 
 • Aşıların saklandığı buzdolabı aşırı soğuk ve sıcağa maruz kalmayacak şekilde uygun bir odaya yerleştirilmelidir. Buzdolabı kışın ısıtılan odalardan birine gölgede olacak şekilde, isıtıcılardan uzak, duvardan en az 10-15 cm mesafede düz bir zemine yerleştirilmelidir.
 
@@ -790,15 +709,11 @@ o Üst rafina: OPA, sulandırıları ayrı olmak üzere Hib, BCG, KKK, Kızamık
 
 Kızamıkçık aşılanı
 
-o Orta rafina: DaBT-IPA-Hib, kuduz aşist
-
-o Alt rafina: KPA, Hep B, Td, DT aştları ile PPD solüsyonu, aşı sulandıncıları ve tüm
+o Orta rafina: DaBT-IPA-Hib, kuduz aşist o Alt rafina: KPA, Hep B, Td, DT aştları ile PPD solüsyonu, aşı sulandıncıları ve tüm
 
 antiserumlar, yerleştirilmelidir.
 
-o Ayrıca sulandırıcısı ayrı olmak üzere meningokok aşısı üst rafa; meningukok
-
-aşısının sulandıncisı ve grip aşısı alt rafa konulmalıdır.
+o Ayrıca sulandırıcısı ayrı olmak üzere meningokok aşısı üst rafa; meningukok aşısının sulandıncisı ve grip aşısı alt rafa konulmalıdır.
 
 • En alt kısma (sebzelik) dolap ısısının sabit tutulmasına yardımcı olmak üzere su şişeleri yerlestirilmelidir.
 
@@ -836,17 +751,13 @@ o Aşı uygulanan her yerde Enjektör Güvenli Atık Kutusu bulundurulmalıdır.
 
 o Enjeksiyondan hemen sonra enjektör iğnesi ayrılmadan ve kapağı kapatılmadan
 
-Enjektör Güvenli Atık Kutusuna atılmalıdır,
-
-o Enjektör Güvenli Atık Kutularının en fazla ¾°0 doldurulmalıdır.
+Enjektör Güvenli Atık Kutusuna atılmalıdır, o Enjektör Güvenli Atık Kutularının en fazla ¾°0 doldurulmalıdır.
 
 o Enjektör Güvenli Atık Kutuları imha edilmek azere gönderilene kadar kuru ve güvenli
 
 bir yerde saklanmalıdır.
 
-o Enjektör Güvenli Atık Kutularının "Tıbbi Atıkların Kontrolü Yönetmeliği"ne uygun
-
-olarak imhası sağlanmalıdır.
+o Enjektör Güvenli Atık Kutularının "Tıbbi Atıkların Kontrolü Yönetmeliği"ne uygun olarak imhası sağlanmalıdır.
 
 ### J-) GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMINDA ÇALIŞAN PERSONELİN GÖREV VE SORUMLULUKLARI
 
@@ -1086,9 +997,7 @@ Genişletilmiş Bağışıklama Programı kapsamında takip edilen hastalıklara
 
 o Differi (Difteri hastalığının kontrolu için saha rehberi kapsamında yürütülmektedir)
 
-o Boğmaca (Bogmaca hastalığının kontrolu için saha rehberi kapsamında
-
-yüratü mektedir)
+o Boğmaca (Bogmaca hastalığının kontrolu için saha rehberi kapsamında yüratü mektedir)
 
 o Kızamıkçık ve Konjenital Rubella Sendromu
 
@@ -1164,19 +1073,13 @@ Bu progranda amaç Türkiye'de 2007 yılı sonuna kadar Maternal Tetanoz (MT) ve
 
 A. Aşama-1: Eliminasyonun Sağlanmas: (2006-2007) a. Tüm gebelerin en az %80'ini takvime uygun olarak aşılı hale getirmek ve bebeklerin korunmasını sağlamak. b. 2007 yılı sonuna kadar MNT açısından yüksek riskli bölgelerde destek aşılama aktiviteleri ile MNTnin hızla elimine edilmesi için doğurganlık yaş grubu (15-49 yaş) kadınların en az %80'inin primer immünizasyonunu sağlamak (Tetanoz Aşı Günleri). 2006-2007 yıllarında gerçekleştirilmiştir. e. Okul döneminde yapılan Td aşılamasında en az %90 aşılama hızına ulaşmak.
 
-B. Aşama-2: Eliminasyonun Sürdürülmesi (2007- ) a. Tüm bölgelerde gebe aşılamaları hızını en az %80 olacak şekilde sürdürmek b. Yüksek Riskli Bölge (YRB) değerlendirmesi güncel tutularak, bölgedeki 15-49 yaş grubu kadınların primer immünizasyonunu sağlamak. e. YRB tanımlaması alan bölgelerde nüfusa yeni eklenen 15-49 yaş grubu kadınlan primer immünizasyona almak. d. Tüm bölgelerde, 1 yaş altı çocukların en az %90'ının üç doz Tetanoz içeren aşı ile primer immünizasyorunu ve ayrıca aşıya devamsızlık hızının %10'un altında olmasını sağlamak. e. Okul Td aşılamalannı en az %90 hızında sürdürmek. Sağlık Ocağı Düzeyinde Yüksek Riskli Bölge Değerlendirme Şeması Bagede son Us Bolgede 100 cenk yıda vaka нарг dogumda en az 1 górúldo mb? Neonsta Becek Ölumu
-
-lesspit ediliyor mu?
+B. Aşama-2: Eliminasyonun Sürdürülmesi (2007- ) a. Tüm bölgelerde gebe aşılamaları hızını en az %80 olacak şekilde sürdürmek b. Yüksek Riskli Bölge (YRB) değerlendirmesi güncel tutularak, bölgedeki 15-49 yaş grubu kadınların primer immünizasyonunu sağlamak. e. YRB tanımlaması alan bölgelerde nüfusa yeni eklenen 15-49 yaş grubu kadınlan primer immünizasyona almak. d. Tüm bölgelerde, 1 yaş altı çocukların en az %90'ının üç doz Tetanoz içeren aşı ile primer immünizasyorunu ve ayrıca aşıya devamsızlık hızının %10'un altında olmasını sağlamak. e. Okul Td aşılamalannı en az %90 hızında sürdürmek. Sağlık Ocağı Düzeyinde Yüksek Riskli Bölge Değerlendirme Şeması Bagede son Us Bolgede 100 cenk yıda vaka нарг dogumda en az 1 górúldo mb? Neonsta Becek Ölumu lesspit ediliyor mu?
 
 ### Hayır
 
 **Evet**
 
-**Yüksek Riskil** Cenk doğum sayis
-
-tadar gebe faepi: Hay w Sag ik personel
-
-var ma? * yerdıraryla yacılen
+**Yüksek Riskil** Cenk doğum sayis tadar gebe faepi: Hay w Sag ik personel var ma? * yerdıraryla yacılen
 
 ### dogumann oran
 
@@ -1222,9 +1125,7 @@ Kronik Hepatit B enfeksiyonu özellikle bebek ve erken çocukluk döneminde geli
 
 aşılama hızına ulaşmak
 
-Perinatal Hepatit B virus bulaşının engellenmesi için Hep B aşısının ilk dozu doğumdan
-
-sonra en yakın zamanda, tercihen ilk 24 saat içinde yapılmalıdır.
+Perinatal Hepatit B virus bulaşının engellenmesi için Hep B aşısının ilk dozu doğumdan sonra en yakın zamanda, tercihen ilk 24 saat içinde yapılmalıdır.
 
 3. Baytk yaş gruplanının catch-up (yakalama) aşılaması;
 

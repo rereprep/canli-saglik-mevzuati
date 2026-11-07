@@ -53,8 +53,6 @@ EK-2 Rapor taslağı (4 sayfa)
 **Gereği:** 81 İl Valiliği (Halk Sağlığı Müdürlüğü)
 **Bilgi:** Sağlık Hizmetleri Genel Müdürlüğü, Türkiye Kamu Hastaneleri Kurumu
 
-
-
 **Ek-1**
 
 ### TÜBERKÜLOZ AKTİF SÜRVEYANSI ÇALIŞMA PLANI
@@ -86,11 +84,7 @@ Amaç, kamu/özel tüm sağlık kurum ve kuruluşlarında tanı konulan ve/veya 
 
 **Hukuki dayanak:**
 
-Ülkemizde bildirimi zorunlu olan hastalıklar içinde tüberküloz da yer almaktadır. 1930 yılında yayımlanmış olan 1593 sayılı Umumi Hıfzıssıhha Kanunu'nun 113 üncü maddesi ile verem hastalığının bildirimi zorunlu kılınmıştır. 26537 sayılı Resmî Gazete'de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği'nin 10 uncu maddesi gereğince tüberküloz (TB) hastalığının bildirimi zorunludur. Bakanlığımızca 2004 yılında yayınlanan Bulaşıcı Hastalıkların Ihbarı ve Bildirim Sistemi Yönergesi"ne göre de tüberküloz A Grubu bildirimi zorunlu hastalıkların arasında yer almaktadır. Tüberküloz tanısı koyan ve/veya tedavi başlayan her hekim, Bildirimi Zorunlu Hastalıklar Fişi'ni (Form 014) doldurarak hasta kimlik ve adres bilgilerini
-
-
-
-bulunduğu ilin halk sağlığı müdürlüğüne bildirmekle yükümlüdür. 22.02.2012 tarihli ve 28212 sayılı Resmî Gazete'de yayımlanan Ulusal Tüberküloz Tanı Laboratuvarları Ağı Çalışma Usul ve Esaslarına Dair Tebliğ'e göre laboratuvarlarda tespit edilen TB vakalarının da bildirilmesi gerekmektedir.
+Ülkemizde bildirimi zorunlu olan hastalıklar içinde tüberküloz da yer almaktadır. 1930 yılında yayımlanmış olan 1593 sayılı Umumi Hıfzıssıhha Kanunu'nun 113 üncü maddesi ile verem hastalığının bildirimi zorunlu kılınmıştır. 26537 sayılı Resmî Gazete'de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği'nin 10 uncu maddesi gereğince tüberküloz (TB) hastalığının bildirimi zorunludur. Bakanlığımızca 2004 yılında yayınlanan Bulaşıcı Hastalıkların Ihbarı ve Bildirim Sistemi Yönergesi"ne göre de tüberküloz A Grubu bildirimi zorunlu hastalıkların arasında yer almaktadır. Tüberküloz tanısı koyan ve/veya tedavi başlayan her hekim, Bildirimi Zorunlu Hastalıklar Fişi'ni (Form 014) doldurarak hasta kimlik ve adres bilgilerini bulunduğu ilin halk sağlığı müdürlüğüne bildirmekle yükümlüdür. 22.02.2012 tarihli ve 28212 sayılı Resmî Gazete'de yayımlanan Ulusal Tüberküloz Tanı Laboratuvarları Ağı Çalışma Usul ve Esaslarına Dair Tebliğ'e göre laboratuvarlarda tespit edilen TB vakalarının da bildirilmesi gerekmektedir.
 
 ### AKTİF SÜRVEYANS KAPSAMINDA YAPILACAK ÇALIŞMALAR
 
@@ -120,8 +114,6 @@ bulunduğu ilin halk sağlığı müdürlüğüne bildirmekle yükümlüdür. 22
 
 • Bildirimde "Form 014" iki kopya halinde eksiksiz bir şekilde doldurulur ve ilgili hekime imzalatılarak birisi halk sağlığı müdürlüğüne iletilir (faks, e-posta), bir kopyası dosyalanır.
 
-
-
 • Tüm kurumların bildirimlerde elektronik tüberküloz yönetim sistemini (e-TYS) kullanması sağlanır, elektronik olarak oluşturulan Form 014 çıktısı ilgili hekime imzalatılarak halk sağlığı müdürlüğüne iletilir.
 
 • Bildirim formunda hastanın adı soyadı, T.C. kimlik numarası, adresi (varsa birden fazla adres), telefonu (ev-cep-iş) ve hastalığın tanısı eksiksiz doldurulmalıdır.
@@ -130,21 +122,13 @@ bulunduğu ilin halk sağlığı müdürlüğüne bildirmekle yükümlüdür. 22
 
 • Servislerde TB tedavisi başlanan hastalar,
 
-Polikliniklerde TB tedavisi başlanan hastalar,
-
-o Tüberküloz laboratuvarında mikroskopik olarak ARB pozitif bulunan olgular,
-
-mikobakteri kültürü pozitif bulunan olgular, moleküler yöntemle Mycobacterium
-
-tuberculosis kompleks saptanan olgular,
+Polikliniklerde TB tedavisi başlanan hastalar, o Tüberküloz laboratuvarında mikroskopik olarak ARB pozitif bulunan olgular, mikobakteri kültürü pozitif bulunan olgular, moleküler yöntemle Mycobacterium tuberculosis kompleks saptanan olgular,
 
 • Patoloji laboratuvarından "granülomatöz iltihap" saptanan olgular (TB tanısı ilgili hekim
 
 tarafından doğrulanmalıdır),
 
-o Eczaneden TB ilaçlarından herhangi birisinin verildiği hastalar (TB tanısı ilgili hekim
-
-tarafından doğrulanmalıdır). * Bu hastalar için bildirim görevlisinin bir kayıt tutması ve aynı hastayı bir kez bildirmesi gereklidir.
+o Eczaneden TB ilaçlarından herhangi birisinin verildiği hastalar (TB tanısı ilgili hekim tarafından doğrulanmalıdır). * Bu hastalar için bildirim görevlisinin bir kayıt tutması ve aynı hastayı bir kez bildirmesi gereklidir.
 
 • Hastane bildirim görevlisi, her ayın sonunda da kontrol amaçlı olarak aylık bir bildirim listesi hazırlayarak halk sağlığı müdürlüğüne gönderir.
 
@@ -169,8 +153,6 @@ tarafından doğrulanmalıdır). * Bu hastalar için bildirim görevlisinin bir 
 • Hastane ve laboratuvarların aktif sürveyans sorumlusu değiştiğinde en geç bir hafta içinde halk sağlığı müdürlüğüne bildirilir.
 
 • Halk sağlığı müdürlüğü, denetim ekipleri için araç ve şoför temininden sorumludur.
-
-
 
 • Bildirimi yapılmayan ve denetim ekipleri tarafından tespit edilen vakalarla ilgili olarak halk sağlığı müdürlüğünce ilgili kurumlar uyarılır.
 
@@ -212,17 +194,13 @@ Polikliniklerde TB tedavisi başlanan hasta, tedaviyi başlayan hekim tarafında
 
 o Tüberküloz laboratuvarında mikroskopik olarak ARB pozitif bulunan olgular ve
 
-mikobakteri kültürü pozitif bulunan olgular, bildirim görevlisi tarafından pozitifliğin
-
-saptandığı gün kaydedilir.
+mikobakteri kültürü pozitif bulunan olgular, bildirim görevlisi tarafından pozitifliğin saptandığı gün kaydedilir.
 
 o Patoloji laboratuvarından "granülomatöz iltihap" saptanan olgular, patoloji raporunun
 
 çıktığı gün bildirim görevlisi tarafından kaydedilir.
 
-o Eczaneden TB ilaçlarından herhangi birisinin servis hastasına verildiği gün, bu hasta
-
-bildirim görevlisi tarafından kaydedilir.
+o Eczaneden TB ilaçlarından herhangi birisinin servis hastasına verildiği gün, bu hasta bildirim görevlisi tarafından kaydedilir.
 
 • Bildirim görevlisi tanı alan hastalar için bir kayıt tutar. Bu kayıt sayesinde her hastayı bir kez bildirir. Bildirimde Form 014'ü iki kopya halinde eksiksiz doldurur ve sorumlu hekime imzalatarak bir kopyayı aynı gün halk sağlığı müdürlüğüne iletir (faks, e-posta). Diğer kopyayı dosyalar.
 
@@ -232,9 +210,7 @@ amirinin üst yazısı ile halk sağlığı müdürlüğüne gönderir.
 
 • Kontrol görevlisinin karşılaştırma yapabilmesi için bütün evrak ve listeleri bir dosyada saklar.
 
-• Laboratuvarlarda görev yapan bildirim görevlileri de ARB pozitif, mikobakteri kültürü pozitif
-
-veya granülomatöz iltihap saptanan olguları 24 saat içinde halk sağlığı müdürlüğüne bildirir.
+• Laboratuvarlarda görev yapan bildirim görevlileri de ARB pozitif, mikobakteri kültürü pozitif veya granülomatöz iltihap saptanan olguları 24 saat içinde halk sağlığı müdürlüğüne bildirir.
 
 **Aktif sürveyans kontrol görevlisinin görev tanımı:**
 
@@ -244,23 +220,17 @@ tarafından kontrol yapacağı hastane ve laboratuvarları belirten bir görevle
 
 • Kurumun hasta potansiyeline göre kontrol sıklığı belirlenir. Kontrolde hastanede yatan hastalar,
 
-taburcu olan hastalar, TB laboratuvar kayıtları, patoloji laboratuvar kayıtları ve eczane kayıtları
-
-incelenir. Bu incelemede saptanan TB hastalarının bildirimlerinin eksiksiz ve zamanında yapılıp
+taburcu olan hastalar, TB laboratuvar kayıtları, patoloji laboratuvar kayıtları ve eczane kayıtları incelenir. Bu incelemede saptanan TB hastalarının bildirimlerinin eksiksiz ve zamanında yapılıp
 
 yapılmadığı kontrol edilir. Laboratuvarı kontrol ediyorsa, laboratuvarda saptanan tüberküloz
 
 olgularının bildiriminin yapılıp yapılmadığını kontrol eder.
 
-• Kontrol görevlisi, kontrolde bildirimi yapılmamış bir hasta saptadığında durum bir tutanakla
-
-tespit edilir, Form 014 ile hastaların halk sağlığı müdürlüğüne bildirilmesi sağlanır.
+• Kontrol görevlisi, kontrolde bildirimi yapılmamış bir hasta saptadığında durum bir tutanakla tespit edilir, Form 014 ile hastaların halk sağlığı müdürlüğüne bildirilmesi sağlanır.
 
 ### AKTİF SÜRVEYANS SONUÇLARININ DEĞERLENDİRİLMESİ:
 
 Aktif sürveyans çalışmaları il düzeyinde düzenli olarak değerlendirilir ve yıl sonunda Aktif Sürveyans Çalışma Raporu ile Türkiye Halk Sağlığı Kurumuna raporlandırılır.
-
-
 
 **Ek-2**
 
@@ -396,5 +366,3 @@ Aktif sürveyans çalışmaları il düzeyinde düzenli olarak değerlendirilir 
 
 *Aktif sürveyans kurum ziyaretlerinde tespit edilen bildirimi yapılmamış vakalardan VSD'lere de kaydı olmayan hasta tespit edilmişse bunların sayısı verilecektir.  
 **Bu hastalardan daha sonra ulaşılıp VSD'ye kaydı yapılanların sayısı verilecektir.
-
-

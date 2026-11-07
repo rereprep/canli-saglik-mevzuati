@@ -310,9 +310,7 @@ Serum hemolitik ve kompleman titrajlarından arta kalan tam hemolizli hemoglobin
 
 Okuma eşelinin hazırlamak için, hemoglobin sülisyonu ile eritrosit dilüsyonu şu şekilde karıştırılır:
 
-1/6 Eritrosit Hemoglobin % tespit
-
-dilüsyonu cc solüsyon cc ekivalanı RAPOR
+1/6 Eritrosit Hemoglobin % tespit dilüsyonu cc solüsyon cc ekivalanı RAPOR
 
 3,00 -- 100 4 +
 

@@ -61,9 +61,7 @@ j) Risk: tehlikeli bir olayı meydana gelme olasılığı ile alaydan etkilerene
 
 Sağlık Koruma Bandı Belirleme ve İtiraz
 
-Madde 5 Müdürlük yetkilisince tesis etrafinda bırakılacak sağlık koruma bandı mesafesi, risk tablolan (Ek-IA, Ek-1B, Ek-1C, Ek-ID ve Ek-1E) ve EK-2 sağlık koruna bandı mesafe tablosu kullanılarak; gayri sıhhi müesseseler için yer seçimi aşamasında
-
-yetkilisinin yetkili idare gorevlendirılmesi halende yetkili kareye EK-3 Sağlık Kotuna Bandı Mesafesi Inceleme ve Değerlendinue Fonnu hazırdanarak miracantan itibaren 15 (on bes) iş gonü içiode yazıdi olarak onerilir.
+Madde 5 Müdürlük yetkilisince tesis etrafinda bırakılacak sağlık koruma bandı mesafesi, risk tablolan (Ek-IA, Ek-1B, Ek-1C, Ek-ID ve Ek-1E) ve EK-2 sağlık koruna bandı mesafe tablosu kullanılarak; gayri sıhhi müesseseler için yer seçimi aşamasında yetkilisinin yetkili idare gorevlendirılmesi halende yetkili kareye EK-3 Sağlık Kotuna Bandı Mesafesi Inceleme ve Değerlendinue Fonnu hazırdanarak miracantan itibaren 15 (on bes) iş gonü içiode yazıdi olarak onerilir.
 
 Yetkili Idare ve/veya mürasaat/lesds sahibinin EK-3 de önerilen soglck koruna bandina yazsh itim halinde Genel Möllalik tarafindan itinuz incelenir ve 20 (yirmi) iş günii içinde karara baglanar.
 

@@ -8,6 +8,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/300_Gunu_A
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -22,13 +23,7 @@ Güncelleme
 
 DAĞITIM YERLERİNE
 
-Uygulamada sırasında aile hekimlikleri ile ilgili konularda; Aile Hekimliği Uygulama Daire
-
-Başkanlığına, veri girişi ve akışının sağlanması ile ilgili; İzleme Değerlendirme ve İstatistik Dairesi
-
-Başkanlığına, Bakanlığımız veri giriş sistemleri ve yazılım (USS, KDS, AHBS vs.) ile ilgili; Bilgi
-
-Sistemleri Genel Müdürlüğüne ulaşılarak destek alınabilecektir.
+Uygulamada sırasında aile hekimlikleri ile ilgili konularda; Aile Hekimliği Uygulama Daire Başkanlığına, veri girişi ve akışının sağlanması ile ilgili; İzleme Değerlendirme ve İstatistik Dairesi Başkanlığına, Bakanlığımız veri giriş sistemleri ve yazılım (USS, KDS, AHBS vs.) ile ilgili; Bilgi Sistemleri Genel Müdürlüğüne ulaşılarak destek alınabilecektir.
 
 Konuya ilişkin ekte yer alan **İşlem Adımları Bilgi Notu** kapsamında gerekli çalışmaların titizlikle yerine getirilmesi, sonucunda gereğinin yapılması hususlarında;
 

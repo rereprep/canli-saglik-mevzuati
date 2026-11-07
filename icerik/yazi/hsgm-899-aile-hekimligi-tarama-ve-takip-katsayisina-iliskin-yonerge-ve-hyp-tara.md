@@ -31,9 +31,7 @@ Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği 30.06.2021 tarihli ve 31527 s
 
 bendinin altıncı alt bentlerinde, tarama ve takip katsayısına dahil edilecek olan hastalıklar ile bu hastalıkların tarama, takip ve takip sonucunda meydana gelecek değişimlerin oranları, bu oranların hesaplanması ile ilgili usul ve esasların Hazine ve Maliye Bakanlığının uygun görüşü üzerine Bakanlığımızca belirleneceği hüküm altına alınmıştır.
 
-Söz konusu hükümlere istinaden bilimsel gelişmeler doğrultusunda uygulama esaslarının güncellenmesi ve hizmet standardizasyonunun artırılması amacıyla hazırlanan “Aile Hekimliği Tarama ve Takip Katsayısına
-
-İlişkin Yönerge” 29/5/2025 tarihli ve 277723519 sayılı Makam Oluru ile, “Hastalık Yönetim Platformu (HYP)
+Söz konusu hükümlere istinaden bilimsel gelişmeler doğrultusunda uygulama esaslarının güncellenmesi ve hizmet standardizasyonunun artırılması amacıyla hazırlanan “Aile Hekimliği Tarama ve Takip Katsayısına İlişkin Yönerge” 29/5/2025 tarihli ve 277723519 sayılı Makam Oluru ile, “Hastalık Yönetim Platformu (HYP)
 
 Tarama ve Takip Kılavuzu” ise 29/5/2025 tarihli ve 277723681sayılı Makam Oluru ile yürürlüğe konulmuştur.
 

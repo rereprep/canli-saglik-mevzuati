@@ -57,9 +57,7 @@ Bir kişide en az 2 hafta süren öksürüğe aşağıdakilerden en az birinin e
 
 • Bir kesin vaka ile epidemiyolojik bağlantısı olan olası vaka.
 
-Olası vaka olarak bildirilen hastaların, kesin vaka olduğu tespit edildiğinde İZCİ sistemine güncel olarak işlenmesi önem arz etmektedir. Bununla birlikte 2025 yılının ilk 6 ayında tespit edilen olası ve kesin vakaların
-
-Ekteki Excel Boğmaca Dosyasına doldurularak **en geç 18 Ağustos 2025** tarihinde mesai saati sonuna kadar hem resmi yazı ile hem de **hsgm.asi@saglik.gov.tr** e-mail adresine gönderilmesi hususlarında;
+Olası vaka olarak bildirilen hastaların, kesin vaka olduğu tespit edildiğinde İZCİ sistemine güncel olarak işlenmesi önem arz etmektedir. Bununla birlikte 2025 yılının ilk 6 ayında tespit edilen olası ve kesin vakaların Ekteki Excel Boğmaca Dosyasına doldurularak **en geç 18 Ağustos 2025** tarihinde mesai saati sonuna kadar hem resmi yazı ile hem de **hsgm.asi@saglik.gov.tr** e-mail adresine gönderilmesi hususlarında;
 
 Gereğini ve bilgilerinizi rica ederim.
 

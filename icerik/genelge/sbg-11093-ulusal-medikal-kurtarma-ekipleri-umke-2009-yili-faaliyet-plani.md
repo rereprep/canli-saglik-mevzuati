@@ -42,11 +42,7 @@ Genel Müdür V. EK: 1- Makam Onayı
 
 81 İl Valiliği
 
-
-
 Temel Sağlık Hizmetleri Genel Müdürlüğü
-
-
 
 ### BAKANLıK MAKAMıNA
 
@@ -1826,9 +1822,7 @@ UMKE Çanta Eğitimi Atatürk Devlet Hastanesi Temmuz 2009 Temmuz 2009
 
 3 1 GÜN 10 kişi
 
-Sahada Etik Davranış Ve Kültürel Özellikler Toplantı Salonu
-
-iletişim Haberleşme Ve Uluslar Arası işaretler,
+Sahada Etik Davranış Ve Kültürel Özellikler Toplantı Salonu iletişim Haberleşme Ve Uluslar Arası işaretler,
 
 Lojistik Ve Lojistik Eğitimi
 

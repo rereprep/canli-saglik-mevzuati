@@ -31,17 +31,9 @@ Güncelleme
 
 DAĞITIM YERLERİNE
 
-Bulaşıcı Hastalıkların Sürveyans ve Kontrol Esasları Yönetmeliği kapsamında yer alan Bildirimi Zorunlu Bulaşıcı
+Bulaşıcı Hastalıkların Sürveyans ve Kontrol Esasları Yönetmeliği kapsamında yer alan Bildirimi Zorunlu Bulaşıcı Hastalık (BZBH) ICD-10 tanı kodları listesinde 02.07.2025 tarihi itibari ile güncelleme yapılmıştır. Bu doğrultuda Sağlık Bilgi Yönetim Sistemlerindeki (HBYS/AHBS/MBYS) "Bulaşıcı Hastalık Bildirim Ekranlarının" açılmasını ve bildirim zorunluluğunu sağlayan SKRS'deki BZBH tanı kodları listesinde de gerekli güncelleme yapılmış olup Sağlık Bilgi Yönetim Sistemi yazılım geliştirici firmaların sistemsel düzenlemeleri yapmaları için Sağlık Bilgi Sistemleri Genel Müdürlüğü tarafından gerekli duyurular yapılmıştır.
 
-Hastalık (BZBH) ICD-10 tanı kodları listesinde 02.07.2025 tarihi itibari ile güncelleme yapılmıştır. Bu doğrultuda Sağlık
-
-Bilgi Yönetim Sistemlerindeki (HBYS/AHBS/MBYS) "Bulaşıcı Hastalık Bildirim Ekranlarının" açılmasını ve bildirim zorunluluğunu sağlayan SKRS'deki BZBH tanı kodları listesinde de gerekli güncelleme yapılmış olup Sağlık Bilgi Yönetim
-
-Sistemi yazılım geliştirici firmaların sistemsel düzenlemeleri yapmaları için Sağlık Bilgi Sistemleri Genel Müdürlüğü tarafından gerekli duyurular yapılmıştır.
-
-Yazımız ekinde de sunulan güncel BZBH tanı kodları listesi ve değişenler tablosu Bulaşıcı Hastalıklar ve Erken
-
-Uyarı Dairesi Başkanlığının kurumsal web sitesinde ilan edilmiştir.
+Yazımız ekinde de sunulan güncel BZBH tanı kodları listesi ve değişenler tablosu Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığının kurumsal web sitesinde ilan edilmiştir.
 
 İliniz genelinde sağlık kurum ve kuruluşlarında kullanılan sistemlerde yukarıda zikrolunan BZBH tanı kodu güncellemesinin yapıldığının teyidi için kurum yönetimlerine gerekli bilgilendirmenin sağlanması ve müdürlüğünüzce gerçekleştirilmekte olan rutin incelemelerde güncel listenin kullanılması hususunda;
 

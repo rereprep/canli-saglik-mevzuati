@@ -51,109 +51,41 @@ Müsteşar Dağıtım: 81 İl Valiliğine Ek: 1- Ağız ve Diş Sağlığı Evde
 
 Değerli hastamız, evde sağlık kapsamında yapılacak her türlü tedavi ve muayene işlemleri Tıbbi Deontoloji
 
-Tüzüğü 14. Madde uyarınca hasta izni ve onayına tabidir. Bu onam; uygulanacak tüm işlemler sırasında
-
-karşılaşılması muhtemel yan etkiler ( komplikasyonlar) hakkında sözlü ve yazılı olarak bilgilendirilmenizi
-
-sağlamak, bunları bilerek muayene ve tedaviyi kabul ettiğinizi onaylamak için size imzalatılmaktadır.
+Tüzüğü 14. Madde uyarınca hasta izni ve onayına tabidir. Bu onam; uygulanacak tüm işlemler sırasında karşılaşılması muhtemel yan etkiler ( komplikasyonlar) hakkında sözlü ve yazılı olarak bilgilendirilmenizi sağlamak, bunları bilerek muayene ve tedaviyi kabul ettiğinizi onaylamak için size imzalatılmaktadır.
 
 ### HEKİM KAŞE-İMZA ONAM TARİH VE SAATİ İŞLEMİN TAHMİNİ SÜRESİ
 
-Bu form Evde Sağlık Hizmetlerinden yararlanmak isteyen kişi ya da hizmet alması istenen kişinin yakınlarına
+Bu form Evde Sağlık Hizmetlerinden yararlanmak isteyen kişi ya da hizmet alması istenen kişinin yakınlarına yönelik hazırlanmış bilgilendirme formudur. Formu dikkatlice okuyunuz ve sorularınız ya da anlamadığınız noktalar varsa bilgi almak için hekim/sağlık personeline danışarak lütfen yardım isteyiniz. Talebiniz üzerine size yazılı bilgi verilecektir.
 
-yönelik hazırlanmış bilgilendirme formudur. Formu dikkatlice okuyunuz ve sorularınız ya da anlamadığınız
+Tedavimi yapacak hekime genel sağlığım, kullandığım ilaçlar ve özel durumlarım hakkında tam ve doğru bilgiler verdiğimi ifade ederim. Hekimim, yukarıda bahsi geçen tedaviler için oluşabilecek ve aşağıda özetlenen muhtemel yan etkiler hakkında beni sözlü olarak da detaylı bir şekilde ilgilendirmiş, tıbbi uygulama gereğince yapılmış olması halinde dahil uygulanan tedavilerle ilgili tam bir memnuniyet sözü veya garanti verilmemiştir.
 
-noktalar varsa bilgi almak için hekim/sağlık personeline danışarak lütfen yardım isteyiniz. Talebiniz üzerine size
-
-yazılı bilgi verilecektir.
-
-Tedavimi yapacak hekime genel sağlığım, kullandığım ilaçlar ve özel durumlarım hakkında tam ve doğru
-
-bilgiler verdiğimi ifade ederim. Hekimim, yukarıda bahsi geçen tedaviler için oluşabilecek ve aşağıda özetlenen
-
-muhtemel yan etkiler hakkında beni sözlü olarak da detaylı bir şekilde ilgilendirmiş, tıbbi uygulama gereğince
-
-yapılmış olması halinde dahil uygulanan tedavilerle ilgili tam bir memnuniyet sözü veya garanti verilmemiştir.
-
-Uygulanacak lokal anestezik maddelere veya kullanılacak malzemelere karşı daha öncesinde sorunum
-
-olmamasına rağmen alerjik reaksiyon gelişebilir, Lokal anestezi işlemine bağlı olarak dişetinde hassasiyet, geçici
-
-yüz felci, kızarma, morarma, şişlik, ağzın açılamaması, gözün kapanması gibi sorunlar olabilir, enjektör ve
-
-kullanılan bazı aletlerin işlem sırasında kırılabilir, bu parçaları istem dışı yutabilirim. Enjeksiyon bölgesinde
-
-birkaç gün süren ağrı, kanama, ödem, hematom, renk değişikliği; trismus (çene açmada güçlük)oluşabilir. Lokal
-
-anestezi uygulanan bölge yaklaşık 1-4 saat hissizdir, bu nedenle ısırmaya bağlı yanak içi ve dudakta yara
-
-oluşmaması için hissizlik geçene kadar yeme, içme önerilmez. Özellikle çocuklarda dil ve dudağın uyuşuk
-
-kısımlarını ısırmaya karşı korumaya özen göstermek gerekir aksi durumda yaralanmalar meydana gelir. Korku,
-
-heyecan, açlık durumlarına bağlı senkop(bayılma) ve hipotansiyon (tansiyon düşmesi) gelişebilir, alkol ve
-
-madde kullanımında anestezi etkisi azalabilir veya oluşmayabilir. Çok nadir de olsa deri döküntüsü şeklinde
+Uygulanacak lokal anestezik maddelere veya kullanılacak malzemelere karşı daha öncesinde sorunum olmamasına rağmen alerjik reaksiyon gelişebilir, Lokal anestezi işlemine bağlı olarak dişetinde hassasiyet, geçici yüz felci, kızarma, morarma, şişlik, ağzın açılamaması, gözün kapanması gibi sorunlar olabilir, enjektör ve kullanılan bazı aletlerin işlem sırasında kırılabilir, bu parçaları istem dışı yutabilirim. Enjeksiyon bölgesinde birkaç gün süren ağrı, kanama, ödem, hematom, renk değişikliği; trismus (çene açmada güçlük)oluşabilir. Lokal anestezi uygulanan bölge yaklaşık 1-4 saat hissizdir, bu nedenle ısırmaya bağlı yanak içi ve dudakta yara oluşmaması için hissizlik geçene kadar yeme, içme önerilmez. Özellikle çocuklarda dil ve dudağın uyuşuk kısımlarını ısırmaya karşı korumaya özen göstermek gerekir aksi durumda yaralanmalar meydana gelir. Korku, heyecan, açlık durumlarına bağlı senkop(bayılma) ve hipotansiyon (tansiyon düşmesi) gelişebilir, alkol ve madde kullanımında anestezi etkisi azalabilir veya oluşmayabilir. Çok nadir de olsa deri döküntüsü şeklinde
 
 ### ANESTEZİ
 
-alerjiler ve hatta ölüme bile neden olabilen alerji (anafilaktik şok) gelişebilir. Bunların hiçbiri olmayabilir. Hasta
+alerjiler ve hatta ölüme bile neden olabilen alerji (anafilaktik şok) gelişebilir. Bunların hiçbiri olmayabilir. Hasta mutlaka açlık, gebelik, var olan hastalık(kalp, şeker, tansiyon vb.), bulaşıcı hastalık, kullanılan ilaçlar ve alerjisi olup olmadığı konusunda hekimini bilgilendirmelidir.
 
-mutlaka açlık, gebelik, var olan hastalık(kalp, şeker, tansiyon vb.), bulaşıcı hastalık, kullanılan ilaçlar ve alerjisi
-
-olup olmadığı konusunda hekimini bilgilendirmelidir.
-
-Anestezi yapılmasının hasta tarafından istenmediği durumlarda işlem sırası ve sonrasında ağrı oluşacağı
-
-bilinmeli buna bağlı ani tepkiler verilip istenmeyen yaralanmalar oluşabileceği, hasta ve hekim konforunun
+Anestezi yapılmasının hasta tarafından istenmediği durumlarda işlem sırası ve sonrasında ağrı oluşacağı bilinmeli buna bağlı ani tepkiler verilip istenmeyen yaralanmalar oluşabileceği, hasta ve hekim konforunun
 
 ### kaybolacağı; bazı işlemlerin (örneğin çekim) anestezi sağlanmadan yapılamayacağı bilinmelidir.
 
-Diş taşlarının özel aletlerle temizlenmesidir. Tedaviden sonra; dişlerde soğuk-sıcak hassasiyeti, diş aralarında
-
-boşluk hissi gelişebilir. Yoğun diş taşları mevcut olan diş sallanmalarını maskeler, tedavi sonrası sallanmalar DİŞ TAŞI daha net hissedilebilir. Olası komplikasyonlar; tedavi sonrası ağız bakımı yetersiz olursa, dişetlerinde enfeksiyon TEMİZLİĞİ ve buna bağlı diş kaybıdır. Tedaviyle dişeti kanamaları, ağız kokusu ve hassasiyetlerin geçmesi beklenir. Tedavi
-
-yapılmazsa; enfeksiyon ve kemik yıkımına bağlı dişler kaybedilebilir. İşlemin alternatifi yoktur. Ortalama süre,
+Diş taşlarının özel aletlerle temizlenmesidir. Tedaviden sonra; dişlerde soğuk-sıcak hassasiyeti, diş aralarında boşluk hissi gelişebilir. Yoğun diş taşları mevcut olan diş sallanmalarını maskeler, tedavi sonrası sallanmalar DİŞ TAŞI daha net hissedilebilir. Olası komplikasyonlar; tedavi sonrası ağız bakımı yetersiz olursa, dişetlerinde enfeksiyon TEMİZLİĞİ ve buna bağlı diş kaybıdır. Tedaviyle dişeti kanamaları, ağız kokusu ve hassasiyetlerin geçmesi beklenir. Tedavi yapılmazsa; enfeksiyon ve kemik yıkımına bağlı dişler kaybedilebilir. İşlemin alternatifi yoktur. Ortalama süre,
 
 20 dk. sürer, 1-3 seanstır.
 
 ### ……………………………………………….(Ağız ve Diş Sağlığı Hastanesi/ Ağız ve Diş Sağlığı Merkezi) EK-2 EVDE SAĞLIK HİZMETİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMALARI BİLGİLENDİRİLMİŞ ONAM FORMU
 
-Anestezi altında yapılır. Olası komplikasyonlar; Diş çekimi veya cerrahi müdahale esnasında dişte ve kemikte
-
-kırılmalar, anatomik yapılarda hasar, enfeksiyon, ağız açıklılığında kısıtlılık, komşu dişlerde zarar, geçici veya DİŞ ÇEKİMİ kalıcı his kaybı, artık kök çıkarılamaması, çene ekleminin zedelenmesi, işlem sonrası uzun süreli kanamaların ve
-
-ağrıların olabilir. Uygulanmaması durumunda; yaygın enfeksiyon, fonksiyon kaybı ve ağız kokusu oluşur.
+Anestezi altında yapılır. Olası komplikasyonlar; Diş çekimi veya cerrahi müdahale esnasında dişte ve kemikte kırılmalar, anatomik yapılarda hasar, enfeksiyon, ağız açıklılığında kısıtlılık, komşu dişlerde zarar, geçici veya DİŞ ÇEKİMİ kalıcı his kaybı, artık kök çıkarılamaması, çene ekleminin zedelenmesi, işlem sonrası uzun süreli kanamaların ve ağrıların olabilir. Uygulanmaması durumunda; yaygın enfeksiyon, fonksiyon kaybı ve ağız kokusu oluşur.
 
 İşlemin alternatifi yoktur. Süre şartlara göre değişkendir.
 
-ART (Atravmatik Restoratif Tedavi) için geçerlidir.Çürüğün el aletleri ile temizlenerek dolgu maddesi ile diş
-
-bütünlüğünün sağlanmasıdır. Tedavi yapılmazsa; çürük ilerleyerek diş kaybına neden olabilir. Derin çürüklerde
-
-kanal tedavisi gerekebilir. ( Bu gibi durumlarda ADSM’ye nakil gerekebilir.) Olası komplikasyonlar; çürüğün
-
-büyüklüğüne bağlı olarak dişte kırılma, dolguda düşme, soğuk-sıcak hassasiyeti ve ağrı olabilir. İşlemin
+ART (Atravmatik Restoratif Tedavi) için geçerlidir.Çürüğün el aletleri ile temizlenerek dolgu maddesi ile diş bütünlüğünün sağlanmasıdır. Tedavi yapılmazsa; çürük ilerleyerek diş kaybına neden olabilir. Derin çürüklerde kanal tedavisi gerekebilir. ( Bu gibi durumlarda ADSM’ye nakil gerekebilir.) Olası komplikasyonlar; çürüğün büyüklüğüne bağlı olarak dişte kırılma, dolguda düşme, soğuk-sıcak hassasiyeti ve ağrı olabilir. İşlemin
 
 DOLGU alternatifi yoktur. Ortalama süre 30 dk.dır.
 
-Kısmi veya tam diş kayıplarında kişinin fonksiyon, konuşma ve estetik sorunlarını gidermek için yapılır. Protez
+Kısmi veya tam diş kayıplarında kişinin fonksiyon, konuşma ve estetik sorunlarını gidermek için yapılır. Protez yapılmazsa; eklem problemleri, çiğneme kaybına bağlı mide problemleri, mevcut dişlerde boşluğa doğru kayma ve uzamalar gözlenebilir. Hareketli protez yaptırdığımda ise bu protezin ağzımda oynayabileceğini, konuşmamı bozabileceğini, ağzımda kötü koku ve tat bırakabileceğini, protezin altında gıda birikebileceğini, dilimi rahatsız edebileceğini, kanca gelen dişlerin zarar görebileceğini, çok etkili ısırma ve koparma yapamayabileceğimi, estetiğin göreceli bir kavram olduğunu, yapılan protezlerin ağız dokularında ağrı ve acıya sebep olabileceğini, HAREKETLİ protezin kırılabileceğini, her türlü tamir işleminin aslı gibi olmayabilir, total/kısmi protez ilk kullanıldığı
 
-yapılmazsa; eklem problemleri, çiğneme kaybına bağlı mide problemleri, mevcut dişlerde boşluğa doğru kayma
-
-ve uzamalar gözlenebilir. Hareketli protez yaptırdığımda ise bu protezin ağzımda oynayabileceğini, konuşmamı
-
-bozabileceğini, ağzımda kötü koku ve tat bırakabileceğini, protezin altında gıda birikebileceğini, dilimi rahatsız
-
-edebileceğini, kanca gelen dişlerin zarar görebileceğini, çok etkili ısırma ve koparma yapamayabileceğimi,
-
-estetiğin göreceli bir kavram olduğunu, yapılan protezlerin ağız dokularında ağrı ve acıya sebep olabileceğini, HAREKETLİ protezin kırılabileceğini, her türlü tamir işleminin aslı gibi olmayabilir, total/kısmi protez ilk kullanıldığı
-
-PROTEZ dönemde ağız içerisinde yumuşak dokularda vuruklar oluşturabilir. Alerjik kişilerde, proteze bağlı alerji
-
-gelişebilir. Protez üzerindeki dişler düşebilir. İşlemin alternatifi; uygun bireylerde implanttır. İşlemin ortalama
-
-süresi ağız hazırlandıktan sonra 15 iş günüdür.
+PROTEZ dönemde ağız içerisinde yumuşak dokularda vuruklar oluşturabilir. Alerjik kişilerde, proteze bağlı alerji gelişebilir. Protez üzerindeki dişler düşebilir. İşlemin alternatifi; uygun bireylerde implanttır. İşlemin ortalama süresi ağız hazırlandıktan sonra 15 iş günüdür.
 
 ### Benim/ velisi olduğum hastanın yukarıda vermiş olduğu bilgiler ve planlanan tedaviler göz önüne alınarak yapılacak her türlü diş tedavi işlemlerine gerekli bilgilendirme tarafıma yapılmıştır. Yukarıda belirtilen hususları dikkate alarak tedaviyi durdurma veya reddetme hakkım olduğunu da bilerek tüm bu şartlar
 

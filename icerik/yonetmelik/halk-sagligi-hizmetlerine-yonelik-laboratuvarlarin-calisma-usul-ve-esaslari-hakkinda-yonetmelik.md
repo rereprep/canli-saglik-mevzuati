@@ -550,15 +550,11 @@ Denetim Tarihi : Denetim Nedeni : Adı : Adresi : Posta Kodu/Şehir : Telefon Nu
 
 Denetim Denetim (Takip Denetimi) No Denetim Kriterleri Uygunsuzluğun
 
-Uygulanacak Uygunsuzluğun Uygulanacak
-
-giderilmesi için
+Uygulanacak Uygunsuzluğun Uygulanacak giderilmesi için
 
 verilen süre yaptırım tekrarı yaptırım
 
-Analiz yetki belgesi 1 Yanıltıcı belge ibraz edilmesi. -
-
-iptal edilir.
+Analiz yetki belgesi 1 Yanıltıcı belge ibraz edilmesi. - iptal edilir.
 
 Analiz yetki belgesi
 
@@ -572,9 +568,7 @@ metotların bildirilmemesi.
 
 Düzeltildiği
 
-Akreditasyon belgesinin Yetkili ispatlanana kadar 4 -
-
-kuruluşça askıya alınması askıya alınır. (*)
+Akreditasyon belgesinin Yetkili ispatlanana kadar 4 - kuruluşça askıya alınması askıya alınır. (*)
 
 Laboratuvarda;
 
@@ -584,23 +578,15 @@ Kimyager/Kimya Mühendisi
 
 Düzeltildiği
 
-Mikrobiyolojik analiz biriminde; en az
+Mikrobiyolojik analiz biriminde; en az ispatlanana kadar 5 bir Mikrobiyoloji Uzmanı/Biyolog - askıya alınır. (*)
 
-ispatlanana kadar 5 bir Mikrobiyoloji Uzmanı/Biyolog -
-
-askıya alınır. (*)
-
-Numune alma biriminde ise en az bir
-
-numune alma personeli,
+Numune alma biriminde ise en az bir numune alma personeli,
 
 tam zamanlı olarak istihdam edilmemesi,
 
 Laboratuvar sorumlusunun 16 ncı
 
-Düzeltildiği ispatlanana kadar askıya 6 maddenin birinci fıkrasında yer alan
-
-alınır. (*)
+Düzeltildiği ispatlanana kadar askıya 6 maddenin birinci fıkrasında yer alan alınır. (*)
 
 mesleklerin herhangi birinden olmaması.
 
@@ -626,31 +612,19 @@ Bakanlıkça belirlenen fiyat tarifesinin 9 - iptal edilir.
 
 altında ücret uygulanması
 
-Kimyasal analizlerde uygulanan metodun 1 ay süre ile
-
-faaliyeti
+Kimyasal analizlerde uygulanan metodun 1 ay süre ile faaliyeti
 
 tespit edebildiği en düşük ölçüm Uyarı yazısı yazılır Uygunsuzluğun 10 durdurulur.(*)
 
-miktarının (LOQ) altında rapor tekrarı halinde
+miktarının (LOQ) altında rapor tekrarı halinde düzenlenmesi.
 
-düzenlenmesi.
-
-Yönetmelik kapsamında laboratuvarda
-
-analizi yapılan tüm parametreler için
+Yönetmelik kapsamında laboratuvarda analizi yapılan tüm parametreler için
 
 Analiz yetki
 
-akreditasyon kapsamında belirtilen analiz Uyarı yazısı yazılır Uygunsuzluğun 11 belgesi iptal
+akreditasyon kapsamında belirtilen analiz Uyarı yazısı yazılır Uygunsuzluğun 11 belgesi iptal metotlarının dışında analiz yapılması ve/ tekrarı halinde edilir.
 
-metotlarının dışında analiz yapılması ve/ tekrarı halinde
-
-edilir.
-
-veya eksik parametre ile rapor tanzim
-
-edilmesi
+veya eksik parametre ile rapor tanzim edilmesi
 
 Analiz yetki belgesi
 
@@ -658,17 +632,11 @@ Mikrobiyolojik ve kimyasal analizlerin 12 - iptal edilir.
 
 aynı alanda yapılması.
 
-Laboratuvarda ortaya çıkan atıkların ilgili
-
-mevzuata uygun olarak ayrıştırılması,
+Laboratuvarda ortaya çıkan atıkların ilgili mevzuata uygun olarak ayrıştırılması,
 
 Uygunsuzluğun Düzeltildiği
 
-taşınması, geçici depolanması ve Uygun süre verilerek uyarı yazılır. 13 tekrarı halinde ispatlanana kadar
-
-bertarafının sağlanmadığının tespit
-
-askıya alınır. (*)
+taşınması, geçici depolanması ve Uygun süre verilerek uyarı yazılır. 13 tekrarı halinde ispatlanana kadar bertarafının sağlanmadığının tespit askıya alınır. (*)
 
 edilmesi,
 
@@ -676,161 +644,91 @@ Mevzuatı gereği yapılması gerekli olan
 
 Uygunsuzluğun Düzeltildiği
 
-laboratuvar güvenliğini tehlikeye sokacak Uygun süre verilerek uyarı yazılır. 14 tekrarı halinde ispatlanana kadar
+laboratuvar güvenliğini tehlikeye sokacak Uygun süre verilerek uyarı yazılır. 14 tekrarı halinde ispatlanana kadar her türlü iş ve işlemlerin tespit edilmesi, askıya alınır. (*)
 
-her türlü iş ve işlemlerin tespit edilmesi,
-
-askıya alınır. (*)
-
-Yetki Belgesinin askıya alındığı süre Analiz yetki belgesi 15 -
-
-içerisinde faaliyet gösterilmesi. iptal edilir.
+Yetki Belgesinin askıya alındığı süre Analiz yetki belgesi 15 - içerisinde faaliyet gösterilmesi. iptal edilir.
 
 Düzeltildiği Analiz yetki
 
-Cihaz ve ekipmanların bakım, onarım ve Uygunsuzluğun 16 - ispatlanana kadar belgesi iptal
-
-kalibrasyonlarının yapılmaması. tekrarı halinde
-
-askıya alınır. (*) edilir.
+Cihaz ve ekipmanların bakım, onarım ve Uygunsuzluğun 16 - ispatlanana kadar belgesi iptal kalibrasyonlarının yapılmaması. tekrarı halinde askıya alınır. (*) edilir.
 
 Kimya ve Mikrobiyoloji
 
-laboratuvarlarının, akredite olduğu
+laboratuvarlarının, akredite olduğu parametrelerde ilgili standardın gerekleri ve yetkilendirilmiş ulusal akreditasyon Süre sonunda Düzeltildiği 17 kurumunun ilgili dokümanı gereğince 6 ay süre verilerek uyarı yazısı yazılır. uygunsuzluğun ispatlanana kadar ve/veya Genel Müdürlüğün düzenlediği dış tekrarı halinde askıya alınır. (*)
 
-parametrelerde ilgili standardın gerekleri
+kalite kontrole programına katılım sağlamaması, başarılı sonuç elde edememesi.
 
-ve yetkilendirilmiş ulusal akreditasyon Süre sonunda Düzeltildiği 17 kurumunun ilgili dokümanı gereğince 6 ay süre verilerek uyarı yazısı yazılır. uygunsuzluğun ispatlanana kadar
-
-ve/veya Genel Müdürlüğün düzenlediği dış tekrarı halinde askıya alınır. (*)
-
-kalite kontrole programına katılım
-
-sağlamaması, başarılı sonuç elde
-
-edememesi.
-
-Yetkili laboratuvarın, halk sağlığı Süre sonunda Düzeltildiği 18 laboratuvarı ile paralel çalıştığı 1 ay süre verilerek uyarı yazısı yazılır. uygunsuzluğun ispatlanana kadar
-
-analizlerinin uygunsuz çıkması. tekrarı halinde askıya alınır. (*)
+Yetkili laboratuvarın, halk sağlığı Süre sonunda Düzeltildiği 18 laboratuvarı ile paralel çalıştığı 1 ay süre verilerek uyarı yazısı yazılır. uygunsuzluğun ispatlanana kadar analizlerinin uygunsuz çıkması. tekrarı halinde askıya alınır. (*)
 
 Düzeltildiği Analiz yetki
 
-Analiz sonucunun güvenirliğini Uygunsuzluğun 19 - ispatlanana kadar belgesi iptal
-
-etkileyecek uygunsuzluk tespiti. tekrarı halinde
-
-askıya alınır. (*) edilir
+Analiz sonucunun güvenirliğini Uygunsuzluğun 19 - ispatlanana kadar belgesi iptal etkileyecek uygunsuzluk tespiti. tekrarı halinde askıya alınır. (*) edilir
 
 Düzeltildiği
 
-Ofis alanının laboratuvarın teknik ve Uygun süre verilerek uyarı yazısı Uygunsuzluğun 20 ispatlanana kadar
+Ofis alanının laboratuvarın teknik ve Uygun süre verilerek uyarı yazısı Uygunsuzluğun 20 ispatlanana kadar destek alanlarından ayrı olmaması. yazılır tekrarı halinde askıya alınır. (*)
 
-destek alanlarından ayrı olmaması. yazılır tekrarı halinde
+Teknik alanlarda veya koridorda bulunan Uygun süre verilerek uyarı yazısı Uygunsuzluğun Düzeltildiği 21 acil basınçlı duş ve göz yıkama duşunun yazılır. tekrarı halinde ispatlanana kadar bulunmaması veya çalışmaması. askıya alınır. (*)
 
-askıya alınır. (*)
-
-Teknik alanlarda veya koridorda bulunan Uygun süre verilerek uyarı yazısı Uygunsuzluğun Düzeltildiği 21 acil basınçlı duş ve göz yıkama duşunun yazılır. tekrarı halinde ispatlanana kadar
-
-bulunmaması veya çalışmaması. askıya alınır. (*)
-
-Aydınlatma, ısıtma, soğutma ve Uygun süre verilerek uyarı yazısı Uygunsuzluğun Düzeltildiği 22 havalandırma sistemlerinin bulunmaması yazılır. tekrarı halinde ispatlanana kadar
-
-veya çalışmaması. askıya alınır. (*)
+Aydınlatma, ısıtma, soğutma ve Uygun süre verilerek uyarı yazısı Uygunsuzluğun Düzeltildiği 22 havalandırma sistemlerinin bulunmaması yazılır. tekrarı halinde ispatlanana kadar veya çalışmaması. askıya alınır. (*)
 
 Düzeltildiği Analiz yetki
 
-Laboratuvarın cihaz ve ekipman Uygunsuzluğun 23 - ispatlanana kadar belgesi iptal
-
-eksikliğinin tespit edilmesi. tekrarı halinde
-
-askıya alınır. (*) edilir
+Laboratuvarın cihaz ve ekipman Uygunsuzluğun 23 - ispatlanana kadar belgesi iptal eksikliğinin tespit edilmesi. tekrarı halinde askıya alınır. (*) edilir
 
 Analiz yetki
 
-Bulunduğu il sınırı dışında diğer illerden Uyarı yazısı yazılır Uygunsuzluğun 24 belgesi iptal
-
-numune alınması ve çalışılması tekrarı halinde
-
-edilir.
+Bulunduğu il sınırı dışında diğer illerden Uyarı yazısı yazılır Uygunsuzluğun 24 belgesi iptal numune alınması ve çalışılması tekrarı halinde edilir.
 
 Düzeltildiği
 
-Numunenin alınmasında uygun aparatlar Uygunsuzluğun 25 Uygun süre verilerek uyarı yazılır. ispatlanana kadar
-
-kullanılmaması. tekrarı halinde
-
-askıya alınır.
+Numunenin alınmasında uygun aparatlar Uygunsuzluğun 25 Uygun süre verilerek uyarı yazılır. ispatlanana kadar kullanılmaması. tekrarı halinde askıya alınır.
 
 3 ay süre ile
 
 Numune alma formuna ait kod numarası
 
-Uygun süre verilerek uyarı yazılır. Uygunsuzluğun faaliyeti 26 ile numune şişesinin üzerinde yazılı kod
-
-tekrarı halinde durdurulur.
+Uygun süre verilerek uyarı yazılır. Uygunsuzluğun faaliyeti 26 ile numune şişesinin üzerinde yazılı kod tekrarı halinde durdurulur.
 
 numarasının aynı olmaması.
 
 Kimyasal ve Mikrobiyolojik analizler için Analiz yetki
 
-Uygun süre verilerek uyarı yazılır. Uygunsuzluğun 27 alınan numunenin Mevzuatta belirtilen belgesi iptal
-
-tekrarı halinde
+Uygun süre verilerek uyarı yazılır. Uygunsuzluğun 27 alınan numunenin Mevzuatta belirtilen belgesi iptal tekrarı halinde
 
 şartlara uygun alınmaması. edilir.
 
 Kimyasal ve Mikrobiyolojik analizler için Analiz yetki
 
-Uygun süre verilerek uyarı yazılır. Uygunsuzluğun 28 alınan numunenin Mevzuatta belirtilen belgesi iptal
-
-tekrarı halinde
+Uygun süre verilerek uyarı yazılır. Uygunsuzluğun 28 alınan numunenin Mevzuatta belirtilen belgesi iptal tekrarı halinde
 
 sürede ve şartlarda taşınmaması. edilir
 
 Numune girişlerinin Genel Müdürlüğün 3 ay süre ile
 
-Uyarı yazısı yazılır Uygunsuzluğun 29 Çevre Sağlığı Bilgi Yönetim Sistemine faaliyeti
-
-tekrarı halinde
+Uyarı yazısı yazılır Uygunsuzluğun 29 Çevre Sağlığı Bilgi Yönetim Sistemine faaliyeti tekrarı halinde
 
 zamanında girilmemesi durdurulur.
 
 3 ay süre ile
 
-Analiz sonuçlarının zamanında Uyarı yazısı yazılır Uygunsuzluğun 30 faaliyeti
-
-raporlanmaması tekrarı halinde
-
-durdurulur
+Analiz sonuçlarının zamanında Uyarı yazısı yazılır Uygunsuzluğun 30 faaliyeti raporlanmaması tekrarı halinde durdurulur
 
 3 ay süre ile
 
-Analiz sonuçlarının eksik veya yanlış Uyarı yazısı yazılır Uygunsuzluğun 31 faaliyeti
-
-girilmesi tekrarı halinde
+Analiz sonuçlarının eksik veya yanlış Uyarı yazısı yazılır Uygunsuzluğun 31 faaliyeti girilmesi tekrarı halinde
 
 durdurulur
 
-Analiz sonuçlarının raporlamanın Uygunsuzluğun tekrarında
+Analiz sonuçlarının raporlamanın Uygunsuzluğun tekrarında yapıldığı gün içinde Çevre Sağlığı Bilgi 3 ay süre ile faaliyeti durdurulur. 32 Uyarı yazısı yazılır.
 
-yapıldığı gün içinde Çevre Sağlığı Bilgi 3 ay süre ile faaliyeti durdurulur. 32 Uyarı yazısı yazılır.
-
-Yönetim Sistemine girilmemesi, ilgili Uygunsuzluğun 2. tekrarında
-
-yerlere iletilmemesi. analiz yetki belgesi iptal edilir
+Yönetim Sistemine girilmemesi, ilgili Uygunsuzluğun 2. tekrarında yerlere iletilmemesi. analiz yetki belgesi iptal edilir
 
 Analiz yetki
 
-Denetim ekibinin tespit ettiği diğer Uygun süre verilerek uyarı yazılır. Uygunsuzluğun 33 belgesi iptal
+Denetim ekibinin tespit ettiği diğer Uygun süre verilerek uyarı yazılır. Uygunsuzluğun 33 belgesi iptal eksiklik ve uygunsuzluklar. tekrarı halinde edilir
 
-eksiklik ve uygunsuzluklar. tekrarı halinde
-
-edilir
-
-Denetim sürecinde ve sonrasında denetim 34 ekibinin görevini yapmasını engelleyici Analiz yetki belgesi iptal edilir. - -
-
-tutum ve davranışlarda bulunulması * Laboratuvar askı ve/veya faaliyet durdurma süresince analiz ve numune alma işlemleri yapamaz, rapor düzenleyemez. Baş Denetçi Denetçi Denetçi Adı Soyadı Adı Soyadı Adı Soyadı İmza İmza İmza
+Denetim sürecinde ve sonrasında denetim 34 ekibinin görevini yapmasını engelleyici Analiz yetki belgesi iptal edilir. - - tutum ve davranışlarda bulunulması * Laboratuvar askı ve/veya faaliyet durdurma süresince analiz ve numune alma işlemleri yapamaz, rapor düzenleyemez. Baş Denetçi Denetçi Denetçi Adı Soyadı Adı Soyadı Adı Soyadı İmza İmza İmza
 
 ---
 

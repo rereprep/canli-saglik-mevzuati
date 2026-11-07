@@ -35,9 +35,7 @@ Dolayısıyla, doğal mineralli su analizi yapan halk sağlığı laboratuvarlar
 
 Bu itibarla. LI tipi Halk Sağlığı Laboratuvarları;
 
--Doğal mineralli sularda "Patojen Mikroorganizma" parametresi olarak, Koagillaz
-
-Pozitif Staphylococ ile <i>Salmonella spp.</i> olmak üzere en az 2 parametreyi çalışması, çalışma için laboratuvar altyapısı yeterli değil ise, 31/12/2015 tarihine kadar altyapının oluşturulması ve bu tarih itibari ile analize başlanılması,
+-Doğal mineralli sularda "Patojen Mikroorganizma" parametresi olarak, Koagillaz Pozitif Staphylococ ile <i>Salmonella spp.</i> olmak üzere en az 2 parametreyi çalışması, çalışma için laboratuvar altyapısı yeterli değil ise, 31/12/2015 tarihine kadar altyapının oluşturulması ve bu tarih itibari ile analize başlanılması,
 
 -31/12/2015 tarihine kadar ise mevcut çalışmış olduğu parametre ile analize devam
 
@@ -60,4 +58,3 @@ Gereği:
 
 Bilgi:
 Çevre Sağlığı Daire Başkanlığına (Halk Sağlığı Müdürlüğü)
-

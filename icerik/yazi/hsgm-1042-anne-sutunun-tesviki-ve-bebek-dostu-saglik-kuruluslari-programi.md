@@ -25,15 +25,9 @@ Sağlık Kuruluşları Programı
 
 DAĞITIM YERLERİNE
 
-Ülkemizde 1991 yılından beri anne ve çocuk sağlığı hizmetleri kapsamında çocuk sağlığının korunması, hastalıkların azaltılması, ölümlerin önlenmesi amacıyla diğer çocuk sağlığı programlarıyla birlikte "Anne
+Ülkemizde 1991 yılından beri anne ve çocuk sağlığı hizmetleri kapsamında çocuk sağlığının korunması, hastalıkların azaltılması, ölümlerin önlenmesi amacıyla diğer çocuk sağlığı programlarıyla birlikte "Anne Sütünün Teşviki ve Bebek Dostu Sağlık Kuruluşları Programı" yürütülmektedir. Programın temel amacı emzirmenin korunması, özendirilmesi ve desteklenmesidir. İllerde doğum yapılan sağlık kuruluşları, birinci basamak sağlık kuruluşları ile yenidoğan yoğun bakımlar programın sürdürülebilirliğinde önemli rol oynamaktadır.
 
-Sütünün Teşviki ve Bebek Dostu Sağlık Kuruluşları Programı" yürütülmektedir. Programın temel amacı emzirmenin korunması, özendirilmesi ve desteklenmesidir. İllerde doğum yapılan sağlık kuruluşları, birinci basamak sağlık kuruluşları ile yenidoğan yoğun bakımlar programın sürdürülebilirliğinde önemli rol oynamaktadır.
-
-Program kapsamında, Komitenin değerlendirmesi sonucunda, başarılı uygulamalar yapan hastaneler "Bebek
-
-Dostu Hastane", uygulamalarını il geneline yaygınlaştıran ve çeşitli faaliyetler ile zenginleştiren iller ise "Bebek
-
-Dostu İl" ve "Altın Bebek Dostu İl" unvanını almakta ve "Plaket" ile ödüllendirilmektedir.
+Program kapsamında, Komitenin değerlendirmesi sonucunda, başarılı uygulamalar yapan hastaneler "Bebek Dostu Hastane", uygulamalarını il geneline yaygınlaştıran ve çeşitli faaliyetler ile zenginleştiren iller ise "Bebek Dostu İl" ve "Altın Bebek Dostu İl" unvanını almakta ve "Plaket" ile ödüllendirilmektedir.
 
 - Bebek Dostu İl Kriterleri; İl merkezinde bulunan Çocuk Hastaneleri ile Doğum Yaptırılan
 

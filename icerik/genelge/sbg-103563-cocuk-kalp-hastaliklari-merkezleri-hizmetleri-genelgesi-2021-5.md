@@ -13,7 +13,6 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-
 T.C.
 SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
@@ -165,23 +164,15 @@ Koordinatör çocuk kalp hastalıkları merkezinin koordinasyon görevi; yeni a�
 
 ve koordineli yapılabilmesi ve hastalara en doğru tedavinin uygulanması için ortak konsey oluşturulur.
 
-Çocuk kalp hastalıkları merkezi konseyi, en az bir çocuk kardiyolojisi uzmanı ve en az
+Çocuk kalp hastalıkları merkezi konseyi, en az bir çocuk kardiyolojisi uzmanı ve en az iki çocuk kalp ve damar cerrahisi uzmanından oluşur. Sağlık tesislerinde görevli ilgili tüm uzmanlar konseyin doğal üyesidir.
 
-iki çocuk kalp ve damar cerrahisi uzmanından oluşur. Sağlık tesislerinde görevli ilgili tüm uzmanlar konseyin doğal üyesidir.
-
-Konsey üyeleri dönüşümlü olarak konseye başkanlık yapar. Konseyin çalışma programı
-
-sağlık tesisi yönetimine bildirilir.
+Konsey üyeleri dönüşümlü olarak konseye başkanlık yapar. Konseyin çalışma programı sağlık tesisi yönetimine bildirilir.
 
 4) Günlük yapılan girişimsel kardiyolojik işlem sonucu ameliyat kararı alınan hastaların tedavisi o günün konsültan hekimi veya konsültan hekimin bağlı olduğu klinik tarafından yapılır. Ancak hastanın hekim seçme özgürlüğü ayrıca dikkate alınır.
 
-Çocuk kalp hastalıkları merkezlerinde tüm kararlar elektronik kayıt sisteminde kayıt
+Çocuk kalp hastalıkları merkezlerinde tüm kararlar elektronik kayıt sisteminde kayıt altına alınır ve istendiğinde yapılan işlemlerle ilgili raporlar alınır.
 
-altına alınır ve istendiğinde yapılan işlemlerle ilgili raporlar alınır.
-
-Konsey odası sağlık tesisi yönetimi tarafından tahsis edilmiş ve içinde hastalara ait tüm
-
-kayıtları izlemeye uygun gerekli araç ve gereçler ile donatılır.
+Konsey odası sağlık tesisi yönetimi tarafından tahsis edilmiş ve içinde hastalara ait tüm kayıtları izlemeye uygun gerekli araç ve gereçler ile donatılır.
 
 ### H) MEVCUT ÇOCUK KALP SAĞLIĞI HİZMETİ SUNAN SAĞLIK TESISLERINİN UYUMU
 

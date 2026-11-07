@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -30,13 +31,7 @@ b) 08.03.2023 tarihli ve E-83913885-449-210946330 sayılı Bakanlık Makamı Olu
 
 c) 30.01.2023 tarihli ve E-58271140-431.99-208295992 sayılı Genel Müdürlük Oluru
 
-İlgi (a) Bakanlık Makamı Oluru ile Halk Sağlığı Genel Müdürlüğüne bağlı hizmet vermekte olan E-II ve
-
-E-III grubu ilçe devlet hastaneleri 01.02.2023 tarihi itibariyle Kamu Hastaneleri Genel Müdürlüğüne devredilmiş,
-
-Kamu Hastaneleri Genel Müdürlüğüne bağlanan hastaneler ile mevcut E1 grubu hastanelerin rol grubunun E grubu hastane olarak değiştirilmesi ve şartlarının yeniden düzenlenmesi, Halk Sağlığı Genel Müdürlüğünce devredilen hastanelerde birinci basamak sağlık hizmetleri ile aile hekimlerinin bu hastanelerde acil nöbeti ve adli tabiplik hizmetlerine devamının sağlanması hüküm altına alınmıştır. İlgi (b) Bakanlık Makamı Oluru ile Sağlık
-
-Bakanlığı Yataklı Sağlık Tesisleri Rollerinin Belirlenmesine İlişkin Kriterler güncellenerek yürürlüğe konulmuş, ilgi (c) Genel Müdürlük Oluru ile devredilen ilçelerde Toplum Sağlığı Merkezleri açılmıştır.
+İlgi (a) Bakanlık Makamı Oluru ile Halk Sağlığı Genel Müdürlüğüne bağlı hizmet vermekte olan E-II ve E-III grubu ilçe devlet hastaneleri 01.02.2023 tarihi itibariyle Kamu Hastaneleri Genel Müdürlüğüne devredilmiş, Kamu Hastaneleri Genel Müdürlüğüne bağlanan hastaneler ile mevcut E1 grubu hastanelerin rol grubunun E grubu hastane olarak değiştirilmesi ve şartlarının yeniden düzenlenmesi, Halk Sağlığı Genel Müdürlüğünce devredilen hastanelerde birinci basamak sağlık hizmetleri ile aile hekimlerinin bu hastanelerde acil nöbeti ve adli tabiplik hizmetlerine devamının sağlanması hüküm altına alınmıştır. İlgi (b) Bakanlık Makamı Oluru ile Sağlık Bakanlığı Yataklı Sağlık Tesisleri Rollerinin Belirlenmesine İlişkin Kriterler güncellenerek yürürlüğe konulmuş, ilgi (c) Genel Müdürlük Oluru ile devredilen ilçelerde Toplum Sağlığı Merkezleri açılmıştır.
 
 Mezkûr düzenlemelere istinaden kamu kaynaklarının etkin kullanımı amacıyla 04.02.2025 tarihli ve 267432119 sayılı Bakanlık Makam Oluru ile entegre ilçe hastanesi bünyesindeki nöbet hizmetleri karşılığı farklı katsayıdan faydalanan entegre aile hekimliği birimleri ile ilgili düzenleme yapılmıştır. Buna göre;
 

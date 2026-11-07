@@ -9,7 +9,6 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-
 **KAMU ZARARLARININ TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA**
 
 **YÖNETMELİK**
@@ -110,7 +109,6 @@ c) Sorumlu ve ilgililerin belirlenmesi.
 
 (6) Kontrol, denetim veya inceleme sonucunda tespit edilen zararın, yapılan değerlendirme sonucunda kamu zararı niteliği taşımamakla birlikte, tahsili gereken bir alacak olduğuna karar verilmesi halinde bu alacak genel hükümlere göre takip ve tahsil edilir.
 
-
 **Kamu zararının Sayıştay tarafından tespiti**
 
 **MADDE 7/B- (Ek:RG-15/6/2019-30802-C.K.-1147/3 md.)**
@@ -132,7 +130,6 @@ c) Sorumlu ve ilgililerin belirlenmesi.
 _______________
 
 (1) <i>15/6/2019 tarihli ve 30802 sayılı Resmi Gazete’de yayımlanan 1147 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle bu</i> <i>fıkrada yer alan “merkezde strateji geliştirme birimlerince taşrada ise” ibaresi yürürlükten kaldırılmıştır.</i>
-
 
 (2) Sayıştayca düzenlenen sorgular ihbar kabul edilerek yaptırılan kontrol, denetim veya incelemenin değerlendirilmesi sonucunda kamu zararının oluştuğuna karar verilmesi durumunda da yukarıdaki fıkra hükmüne göre alacak takip dosyası açılır.
 
@@ -163,7 +160,6 @@ a) Sorumluların ve/veya ilgililerin varsa itirazları 15 gün içinde sonuçlan
 __________________
 
 (1) <i>15/6/2019 tarihli ve 30802 sayılı Resmi Gazete’de yayımlanan 1147 sayılı Cumhurbaşkanı Kararının 5 inci maddesiyle bu</i> <i>fıkrada yer alan “belirtilen sorumlular” ibaresi “belirtilenler” şeklinde değiştirilmiş, aynı fıkrada yer alan “adlî, idarî veya askerî” ibaresi</i> <i>yürürlükten kaldırılmıştır.</i>
-
 
 b) Sorumlu ve/veya ilgililerin taksitlendirme taleplerini de içeren sulh başvuruları; genel bütçe kapsamındaki kamu idareleri ve özel bütçeli idarelerde, 26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname hükümlerine göre, kapsamdaki diğer kamu idarelerinde ise özel mevzuatındaki hükümlere göre sonuçlandırılır.
 
@@ -205,7 +201,6 @@ b) **(Değişik:RG-15/6/2019-30802-C.K.-1147/7 md.)** 11/1/2011 tarihli ve 6098 
 
 (2) **(Mülga:RG-15/6/2019-30802-C.K.-1147/8 md.)**
 
-
 (3) **(Değişik:RG-15/6/2019-30802-C.K.-1147/8 md.)** Kamu zararından doğan alacağın ödenmesinin ilgili mevzuat çerçevesinde sulh yolu ile sağlanması halinde, sulh işleminin kesinleştiği tarihi izleyen ay başından itibaren sorumlunun ve/veya ilgilinin yazılı muvafakati ile aylığından kesilerek tahsil edilebilir. Rızaen ve defaten ödemede, sorumlunun ve/veya ilgilinin yazılı isteğiyle aylığından kesilerek tahsil edilebilir.
 
 (4) Aylıklardan yapılacak kesinti tutarı, sorumlulara ve/veya ilgililere yapılan her türlü aylık, ödenek, zam, tazminat dahil bir aylık net ödemelerinin dörtte birinden az, üçte birinden çok olamaz.
@@ -239,7 +234,6 @@ a) Alacaklı kamu idaresi ile sorumlu ve/veya ilgilinin karşılıklı olarak al
 (1) Kamu zararından doğan alacaklar, sorumluların ve/veya ilgililerin talebi üzerine kamu idaresince taksitlendirilebilir.
 
 (2) Taksitlendirme süresi azami beş yıl olup bu süre içerisinde asıl alacağın faiziyle birlikte tahsil edilmesi gerekir.
-
 
 (3) Genel bütçe kapsamındaki kamu idareleri ile özel bütçeli idarelerde taksitlendirme işlemleri, 659 sayılı Kanun Hükmünde Kararname hükümlerine, kapsamdaki diğer kamu idarelerinde ise ilgili mevzuat hükümlerine göre gerçekleştirilir.
 
@@ -313,7 +307,6 @@ ______________
 
 <i>(2) 15/6/2019 tarihli ve 30802 sayılı Resmi Gazete’de yayımlanan 1147 sayılı Cumhurbaşkanı Kararının 13 üncü maddesiyle bu</i> <i>fıkralarda yer alan “818” ibareleri “6098” şeklinde değiştirilmiştir.</i>
 
-
 (2) Tahsili için yapılacak takibat giderlerinin asıl alacak tutarından fazla olacağının anlaşılması nedeniyle, dava ve icra takibine konu olmayan kamu zararına ilişkin alacaklardan merkezî yönetim bütçe kanununda gösterilen tutara kadar olanların kayıtlardan çıkarılmasına üst yöneticiler yetkilidir.
 
 (3) Genel bütçe kapsamındaki kamu idareleri ve özel bütçeli idarelerin birinci ve ikinci fıkralarda belirtilenler dışında kalan alacaklarının takip ve tahsilinden vazgeçilmesi, 659 sayılı Kanun Hükmünde Kararname hükümlerine göre, diğer idarelerde ise özel mevzuatlarındaki hükümlere göre gerçekleştirilir.
@@ -334,7 +327,6 @@ a) **(Mülga:RG-15/6/2019-30802-C.K.-1147/15 md.)**
 
 b) Alacağın takibinden sorumlu birim yöneticileri, mahkemeye veya icraya intikal ettirilen alacakların takibinin hangi aşamada olduğunu ilgili hukuk birimleri nezdinde izlemek, icra dairelerince tahsil edildiği bildirilen paraların muhasebe biriminin veznesine veya banka hesabına yatırılmasını ve sorumluların ve/veya ilgililerin borçlarına mahsubunu sağlamak zorundadırlar.
 
-
 c) **(Değişik:RG-15/6/2019-30802-C.K.-1147/15 md.)** Kamu idaresinin yönetim ve kullanımında bulunan taşınırların kaybolması, çalınması, eksilmesi veya zarar görmesine sebep olunması hallerinde 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliği ile 21/6/2010 tarihli ve 2010/616 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türk Silahlı Kuvvetleri, Millî İstihbarat Teşkilatı ve Emniyet Genel Müdürlüğü Taşınır Mal Yönetmeliği hükümlerine göre tespit edilen kamu zararlarından 2 nci maddenin ikinci fıkrası kapsamına girmeyenler bu Yönetmelik hükümlerine göre tahsil edilir.
 
 ç) **(Ek:RG-15/6/2019-30802-C.K.-1147/15 md.)** Üst yöneticiler, bu Yönetmelik ile belirlenen yetkilerini sınırlarını açıkça belirlemek ve yazılı olmak suretiyle devredebilir.
@@ -345,9 +337,7 @@ d) **(Ek:RG-15/6/2019-30802-C.K.-1147/15 md.)** Muhasebe birimince tahsil edilen
 
 **MADDE 23- (Mülga:RG-15/6/2019-30802-C.K.-1147/16 md.)**
 
-**GEÇİCİ MADDE 1-** (1) Yönetmeliğin yürürlüğe girdiği tarihte mülga 1050 sayılı Muhasebei Umumiye
-
-Kanununun 20 nci maddesi ve diğer ilgili mevzuat hükümlerine göre takibi saymanlıklarca yapılmakta olan kişilerden alacaklar hesabında kayıtlı tutarlara ilişkin takip dosyaları bu Yönetmeliğin yayımlandığı tarihten itibaren iki ay içinde, merkezde strateji geliştirme birimi, taşrada ise takibe yetkili ilgili taşra birimi yöneticilerine imza karşılığında teslim edilir.
+**GEÇİCİ MADDE 1-** (1) Yönetmeliğin yürürlüğe girdiği tarihte mülga 1050 sayılı Muhasebei Umumiye Kanununun 20 nci maddesi ve diğer ilgili mevzuat hükümlerine göre takibi saymanlıklarca yapılmakta olan kişilerden alacaklar hesabında kayıtlı tutarlara ilişkin takip dosyaları bu Yönetmeliğin yayımlandığı tarihten itibaren iki ay içinde, merkezde strateji geliştirme birimi, taşrada ise takibe yetkili ilgili taşra birimi yöneticilerine imza karşılığında teslim edilir.
 
 (2) Teslim edilecek her takip dosyası için, teslim tarihine kadar yapılan takibat işlem ve yazışmaların tarih ve sayıları ile tahsilat tutarlarını ve alındıların tarih ve numarasını gösterir bir özet hazırlanarak dosyaya konulur.
 

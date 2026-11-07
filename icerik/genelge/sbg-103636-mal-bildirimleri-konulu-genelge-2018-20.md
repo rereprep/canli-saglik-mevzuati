@@ -134,9 +134,7 @@ Mal bildiriminin muhtevası hakkında 3628 sayılı Kanunun 9 uncu maddesinde be
 
 9) **Mal Bildirimlerinin Karşılaştırılması**
 
-Mal varlıklannda meydana gelen önemli bir değişiklik sonucu verecekleri ek bildirimleri, daha önceki bildirimlerle karşılaştırılacakur. Yapılacak karşılaştırma sonucunda gerşeğe aykırı bildirimde bulunduklanı veya haksız mal edindikleri, kaçırdıklanı veya
-
-anlaşılanlar hakkında Cumhuriyet Başsaveilıklarına suç duyurusunda
+Mal varlıklannda meydana gelen önemli bir değişiklik sonucu verecekleri ek bildirimleri, daha önceki bildirimlerle karşılaştırılacakur. Yapılacak karşılaştırma sonucunda gerşeğe aykırı bildirimde bulunduklanı veya haksız mal edindikleri, kaçırdıklanı veya anlaşılanlar hakkında Cumhuriyet Başsaveilıklarına suç duyurusunda
 
 Mal bildirim beyannamelerinin süresi içinde verilip verilmedıği, bildirimde bulunanlar ile bulunmayanlar bildirilecek ve bildirimde bulunanların beyan içerikleri elektronik ortamda karşılaştırılacaktır. Müteakiben, mal bildirimlerinde yer alan bilgiler, belirlenen esaslar çerçevesinde, kamu kurumlarındaki mevcut bilgilerle, clektronik ortamda ve gizliliği sağlanacak şekilde karşılaştırılması sağlanacaktır.
 
@@ -162,7 +160,7 @@ Bakan a
 
 Müsteşar
 
- EK: Mal Bildirim Formu
+EK: Mal Bildirim Formu
 
 ### DAĞITIM:
 

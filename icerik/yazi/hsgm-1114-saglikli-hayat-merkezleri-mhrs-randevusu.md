@@ -19,17 +19,13 @@ Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-49654233-431.12.99-292934936 29.10.2025
 
-Konu : Sağlıklı Hayat Merkezleri MHRS 
+Konu : Sağlıklı Hayat Merkezleri MHRS
 
 Randevusu
 
 DAĞITIM YERLERİNE
 
-Sağlıklı Hayat Merkezleri (SHM); Bakanlığımız politika ve hedefleri doğrultusunda, aile sağlığı merkezlerimiz ile toplum sağlığı merkezlerimizin bireye ve topluma yönelik sunmuş olduğu halk sağlığı hizmetlerini güçlendirerek yürütmek, bu hizmetlere ulaşımı kolaylaştırmak, sağlık hizmet sunumunun kalitesini artırmak, sağlığa yönelik risklerden birey ve toplumu korumak ve sağlıklı hayat tarzını teşvik etmek amacıyla, 25.5.2018 tarih ve 30341 sayılı “Toplum Sağlığı Merkezi (TSM) ve Bağlı Birimler Yönetmeliğinde Değişiklik
-
-Yapılmasına Dair Yönetmelik” kapsamında açılmakta ve İlçe Sağlık Müdürlüğü (İlçe SM) ve Toplum Sağlığı
-
-Merkezi (TSM) bağlı birimi olarak faaliyet göstermektedir.
+Sağlıklı Hayat Merkezleri (SHM); Bakanlığımız politika ve hedefleri doğrultusunda, aile sağlığı merkezlerimiz ile toplum sağlığı merkezlerimizin bireye ve topluma yönelik sunmuş olduğu halk sağlığı hizmetlerini güçlendirerek yürütmek, bu hizmetlere ulaşımı kolaylaştırmak, sağlık hizmet sunumunun kalitesini artırmak, sağlığa yönelik risklerden birey ve toplumu korumak ve sağlıklı hayat tarzını teşvik etmek amacıyla, 25.5.2018 tarih ve 30341 sayılı “Toplum Sağlığı Merkezi (TSM) ve Bağlı Birimler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik” kapsamında açılmakta ve İlçe Sağlık Müdürlüğü (İlçe SM) ve Toplum Sağlığı Merkezi (TSM) bağlı birimi olarak faaliyet göstermektedir.
 
 Bilindiği üzere 2023 Eylül ayından bu yana ASM’den SHM’lere MHRS üzerinden randevu alınabilmektedir. 1 Ocak 2025 tarihinden itibaren 2. ve 3. Basamakta görev yapan hekimlerin de Dijital Entegrasyon ile uygun gördükleri hastalara, MHRS üzerinden SHM’lere randevu alma imkanı sağlanmıştır.
 
@@ -50,11 +46,3 @@ Ek: Sağlıklı Hayat Merkezleri MHRS Kurum Modülü Kullanıcı Kılavuzu
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-
-
-
-
-
-
-

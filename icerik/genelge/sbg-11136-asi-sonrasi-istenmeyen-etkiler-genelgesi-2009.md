@@ -100,13 +100,7 @@ Ciddi ASİE: Ölüm, sakatlık, konjenital anomali ile sonuçlanan veya hastaned
 
 GBP kapsamında yer alan aşıların yan etkileri ve yaklaşım önerileri Tablo 1 ve Tablo 2’de özetlenmiştir.
 
-Tablo 1. Sık Görülen, Hafif Yan Etkiler ve Yaklaşım Önerileri
-
-a Aşı yerine soğuk uygulama, parasetamol
-
-b Ekstra sıvı verme, ılık pansuman uygulama, parasetamol
-
-c Ekstra sıvı verme, parasetamol
+Tablo 1. Sık Görülen, Hafif Yan Etkiler ve Yaklaşım Önerileri a Aşı yerine soğuk uygulama, parasetamol b Ekstra sıvı verme, ılık pansuman uygulama, parasetamol c Ekstra sıvı verme, parasetamol
 
 *Lokal reaksiyonlar rapel dozlarda %50-85’e kadar çıkabilir.
 

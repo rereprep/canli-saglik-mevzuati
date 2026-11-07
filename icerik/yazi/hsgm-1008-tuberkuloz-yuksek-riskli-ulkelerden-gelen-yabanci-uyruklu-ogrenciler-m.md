@@ -27,9 +27,7 @@ Tüberküloz yüksek riskli ülkelerden, ülkemize gelen yabancı uyruklu öğre
 
 Yapılması planlanan tüberküloz taramasıyla ilgili hususlar ekte bir örneği gönderilen resmi yazılarda yer almaktadır.
 
-Bu kapsamda; yüksek riskli ülkelerden gelen Milli Eğitim Bakanlığı’na bağlı okullara ya da Milli Savunma
-
-Bakanlığı’na bağlı okul/kurumlara kayıt/kabul başvurusu yapacak olan öğrenci ya da misafir askeri personelde tüberküloz taramasının yapılıp sonucun işlendiği tarama formunun ilgili kurumlara gönderilmesi, süreçle ilgili iş ve işlemlerin bu kurumlarla karşılıklı yürütülmesi hususunda;
+Bu kapsamda; yüksek riskli ülkelerden gelen Milli Eğitim Bakanlığı’na bağlı okullara ya da Milli Savunma Bakanlığı’na bağlı okul/kurumlara kayıt/kabul başvurusu yapacak olan öğrenci ya da misafir askeri personelde tüberküloz taramasının yapılıp sonucun işlendiği tarama formunun ilgili kurumlara gönderilmesi, süreçle ilgili iş ve işlemlerin bu kurumlarla karşılıklı yürütülmesi hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 

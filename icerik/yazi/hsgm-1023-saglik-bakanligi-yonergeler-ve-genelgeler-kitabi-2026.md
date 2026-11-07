@@ -23,9 +23,7 @@ Konu: Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı 2026
 
 DAĞITIM YERLERİNE
 
-Bilindiği üzere, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ile diğer mevzuatında hüküm altına alınan iç kontrol, Bakanlığımızda ilgili mevzuatı gereği Strateji Geliştirme Başkanlığının rehberlik ve koordinesinde yürütülmektedir. Bakan Onayı ile yürürlüğe giren Kamu İç Kontrol Standartlarına Uyum Eylem
-
-Planı (İKEP) kapsamında, il sağlık müdürlükleri ve sağlık tesislerinde mali alanlarda yaşanabilecek sorunlara yönelik araştırma yapılmış ve sonuçlar değerlendirilmiştir. Bu kapsamda taşra teşkilatı yöneticilerimizden ve personelimizden Bakanlığımız mevzuatının tümüyle bir araya toplandığı güncel kaynak talebi tarafımıza ulaşmıştır.
+Bilindiği üzere, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ile diğer mevzuatında hüküm altına alınan iç kontrol, Bakanlığımızda ilgili mevzuatı gereği Strateji Geliştirme Başkanlığının rehberlik ve koordinesinde yürütülmektedir. Bakan Onayı ile yürürlüğe giren Kamu İç Kontrol Standartlarına Uyum Eylem Planı (İKEP) kapsamında, il sağlık müdürlükleri ve sağlık tesislerinde mali alanlarda yaşanabilecek sorunlara yönelik araştırma yapılmış ve sonuçlar değerlendirilmiştir. Bu kapsamda taşra teşkilatı yöneticilerimizden ve personelimizden Bakanlığımız mevzuatının tümüyle bir araya toplandığı güncel kaynak talebi tarafımıza ulaşmıştır.
 
 Bu doğrultuda merkez harcama birimlerinden Başkanlığımıza iletilen yürürlükteki genelgeler ve yönergeler, bütüncül bir yaklaşımla ele alınmış olup harcama birimi bazında belli bir akış hiyerarşisi içerisinde sınıflandırılarak çevrimiçi (online) bir kitap haline getirilmiştir. “Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı” ile Resmi Gazete’de yayımlanmayan Bakanlığımız güncel mevzuatına ulaşımın kolaylaştırılması, harcama birimlerine rehberlik edilmesi ve birimler bünyesindeki mevzuat hakkında bilgi sahibi olunması hedeflenmektedir.
 

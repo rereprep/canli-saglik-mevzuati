@@ -37,9 +37,7 @@ Bu doğrultuda, Genel Müdürlüğümüzce Sağlıklı Hayat Merkezleri (SHM) b�
 
 Bu kapsamda; Bebek Akademisinin Eylül ayı itibari ile hizmet vermeye başlanmasının sağlanması, akademinin tanıtımının ve görünürlüğünün sağlanmasında kullanılacak görseller ve ders içeriklerine dair dokümanlar için https://transfer.saglik.gov.tr/index.php/s/7onMajEraocbiTK adresinin kullanılması,
 
-NUTS Düzey 2 bölgelerinden, konu ile ilgili sorumluluk üstlenebilecek, sahada liderlik yaparak diğer illerin koordinasyonunu sağlayabilecek ve “eğitici eğitimi” almış personelin belirlenerek, ivedilikle resmi yazı ile Çocuk ve Ergen
-
-Sağlığı Daire Başkanlığımıza ek olarak aylin.yuksel@saglik.gov.tr adresine 28 Ağustos 2025 tarihine kadar iletilmesi,
+NUTS Düzey 2 bölgelerinden, konu ile ilgili sorumluluk üstlenebilecek, sahada liderlik yaparak diğer illerin koordinasyonunu sağlayabilecek ve “eğitici eğitimi” almış personelin belirlenerek, ivedilikle resmi yazı ile Çocuk ve Ergen Sağlığı Daire Başkanlığımıza ek olarak aylin.yuksel@saglik.gov.tr adresine 28 Ağustos 2025 tarihine kadar iletilmesi,
 
 Yazımız ekinde sunulan rehberin ve personel kriterlerinin dikkatle incelenerek planlamaların yapılması hususlarında;
 

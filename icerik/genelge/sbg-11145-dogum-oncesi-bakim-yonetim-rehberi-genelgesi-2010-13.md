@@ -40,9 +40,7 @@ nedeniyle hastaneye yatış
 
 8. Üreme organlarına yönelik daha önce geçirilmiş operasyon? □ □
 
-(Miyomektomi, septum ameliyatı, konizasyon, klasik CS
-
-servikal serklaj)
+(Miyomektomi, septum ameliyatı, konizasyon, klasik CS servikal serklaj)
 
 #### MEVCUT GEBELİK Hayır Evet
 

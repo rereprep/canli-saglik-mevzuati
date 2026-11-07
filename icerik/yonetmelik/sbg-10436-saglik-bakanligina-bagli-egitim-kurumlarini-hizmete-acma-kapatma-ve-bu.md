@@ -52,9 +52,7 @@ h) “İnceleme Kurulu”Vali veya yardımcısı başkanlığında ;İl Sağlık
 
 görevlendireceği yardımcısı,İl Devlet Hastanesi Baştabibi , İl Sağlık Müdürlüğü
 
-Eğitim Şube Müdürü , İl Merkezinde bulunan sağlık meslek okullarından
-
-görevlendirilen bir okul müdürünün oluşturduğu kurulu ,
+Eğitim Şube Müdürü , İl Merkezinde bulunan sağlık meslek okullarından görevlendirilen bir okul müdürünün oluşturduğu kurulu ,
 
 i) “Değerlendirme Kurulu”Bakanlık Müsteşarı veya bir Müsteşar Yardımcısının
 
@@ -64,9 +62,7 @@ Koordinasyon Kurulu Başkanlığı , Ana Çocuk Sağlığı ve Aile Planlaması 
 
 Hizmetleri, Temel Sağlık Hizmetleri, Personel,Sağlık Eğitimi Genel
 
-Müdürlüklerinin en üst düzey amirleri veya bunların görevlendirecekleri ikinci
-
-derecedeki amirlerden oluşan kurulu, ifade eder
+Müdürlüklerinin en üst düzey amirleri veya bunların görevlendirecekleri ikinci derecedeki amirlerden oluşan kurulu, ifade eder
 
 ## İKİNCİ BÖLÜM
 
@@ -168,9 +164,7 @@ edilmesi veya kiralanması gerekmektedir.
 
 4) Binanın eğitim-öğretime açıldığında tadilat gerekip gerekmeyeceği, tadilat
 
-gerekmesi halinde, tahmini süresi ve kişi bedeli belirtilerek finansmanının ne
-
-şekilde karşılanacağı tespit edilecektir.
+gerekmesi halinde, tahmini süresi ve kişi bedeli belirtilerek finansmanının ne şekilde karşılanacağı tespit edilecektir.
 
 B) Okul Binasının Kullanım Alanlarının Asgari Özellikleri:
 
@@ -196,9 +190,7 @@ lavabolar ,
 
 10)Öğrenciler için 6-12 kabinli ayrı ayrı kız ve erkek tuvaletleri ile lavabolar,
 
-11)Kömür,doğalgaz veya fuel-oil ile çalışan, sıcak su ve buhar üretimini elverişli
-
-ısıtma sistemi
+11)Kömür,doğalgaz veya fuel-oil ile çalışan, sıcak su ve buhar üretimini elverişli ısıtma sistemi
 
 500 kişilik spor ve konferans salonu bulunanlar tercih edilecektir.
 

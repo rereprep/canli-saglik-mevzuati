@@ -8,6 +8,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Gebelere_G
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -20,9 +21,7 @@ Konu : Gebelere Grip Aşısı Uygulaması
 
 DAĞITIM YERLERİNE
 
-Ülkemizde 2007/27 sayılı genelge ile uygulamaya başlanan Anne Ölümleri İzleme Programı kapsamında bildirimi yapılan anne ölümleri, Genel Müdürlüğümüz Kadın ve Üreme Sağlığı Dairesi
-
-Başkanlığı Anne Ölümleri Ön İnceleme Komisyonunda görüşülmekte, her anne ölümü ICD 10 sınıflamasına ve Dünya Sağlık Örgütünce belirlenen üç gecikme modeline göre değerlendirilmektedir.Yapılan bu değerlendirmeler sonucunda, influenza enfeksiyonunun anne ölüm nedenleri arasında önemli bir yer tuttuğu tespit edilmiştir. Dünya Sağlık Örgütü de gebeliğin 2’nci ve 3’üncü trimesteri grip sezonuna rastlayan gebelere grip aşısı yapılması gerektiğini belirtmektedir.
+Ülkemizde 2007/27 sayılı genelge ile uygulamaya başlanan Anne Ölümleri İzleme Programı kapsamında bildirimi yapılan anne ölümleri, Genel Müdürlüğümüz Kadın ve Üreme Sağlığı Dairesi Başkanlığı Anne Ölümleri Ön İnceleme Komisyonunda görüşülmekte, her anne ölümü ICD 10 sınıflamasına ve Dünya Sağlık Örgütünce belirlenen üç gecikme modeline göre değerlendirilmektedir.Yapılan bu değerlendirmeler sonucunda, influenza enfeksiyonunun anne ölüm nedenleri arasında önemli bir yer tuttuğu tespit edilmiştir. Dünya Sağlık Örgütü de gebeliğin 2’nci ve 3’üncü trimesteri grip sezonuna rastlayan gebelere grip aşısı yapılması gerektiğini belirtmektedir.
 
 Bu kapsamda ülkemizde influenza enfeksiyonundan kaynaklanan mortalite ve morbiditelerin önlenmesi için; ilinizde gebe izlemi yapılan ve gebelere poliklinik hizmeti verilen tüm sağlık kuruluşlarında influenza enfeksiyonu riski konusunda dikkatli olunması, gebelere aşı olmaları konusunda uyarıda bulunulması ve gebelerde gelişebilecek influenza enfeksiyonu tanısını koymada gecikilmemesi, gerekli durumlarda yatış yapılarak tedavi edilmesi, ilaç tedavisine başlanması ve konunun hassasiyetle takip edilmesi hususlarında;
 

@@ -63,8 +63,6 @@ m) Sözleşmeli uzman: 663 sayılı Sağlık Alanında Ban Düzenlemeler Hakkın
 
 ni) TDMS: Muhasebe kayitlanmın girildiği, izlendiği ve raporlandığı web tabanlı Tek
 
-
-
 a) Öst yönetici: Başkanlığın bağlı olduğu Bakan Yardımeısım, &) Yönetmelik: 0L/05/2007 tarihli ve 26509 sayilı Resmi Gazete'de yayımlanan Döner Sermayeli Işletmeler Bütce ve Muhasebe Yönetmeliğini, ifade eder.
 
 ## İKİNCİ BÖLÜM
@@ -309,9 +307,7 @@ A) Tetkik ve kontrol işlemleri servisi personelinin görevleri
 
 (a) Kama idarelerince tespit edilen kamu zararından doğan alacaklar ile ilgili idare tarafından hildirilen kişi borcu kaynaklı diğer alacakların sorumlular ve ilgililer adına TDMS üzerinde muhasebeleştirme işlemlerini yapetak.
 
-(b) Sayıstay damana istinaden bildirilenleri ilamda belirtilen socumlular adana: adli ve
-
-mahkeme karalarına Istinaden bildirilenleri kararda tazminle yükümlü olduğu belirtılen ler adına muhasebeleştirme işlemlerinı yupmak.
+(b) Sayıstay damana istinaden bildirilenleri ilamda belirtilen socumlular adana: adli ve mahkeme karalarına Istinaden bildirilenleri kararda tazminle yükümlü olduğu belirtılen ler adına muhasebeleştirme işlemlerinı yupmak.
 
 (e) Bu maddenin (a) ve (b) fikralarına göre muhasebe kayıtlanna alınan alacaklar için tahsilat izleme dosyası açmak.
 

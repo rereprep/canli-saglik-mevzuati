@@ -180,9 +180,7 @@ c) Kolorektal kanser riskine ilişkin 50 ila 70 (50 ve 70 dâhil) yaş arasında
 
 Ek:
 
-Ek-1: Kriter Katsayısına Esas Asgari Ve Azami Başarı Oranları
-
-Ek-2: Başarı Oranlarına Göre Kriter Katsayıları
+Ek-1: Kriter Katsayısına Esas Asgari Ve Azami Başarı Oranları Ek-2: Başarı Oranlarına Göre Kriter Katsayıları
 
 Ek-3: Hipertansiyon Değerlendirme Kılavuzu
 
@@ -190,8 +188,4 @@ Ek-4: Diyabet Değerlendirme Kılavuzu
 
 Ek-5: Obezite Değerlendirme Kılavuzu
 
-Ek-6: Aile Sağlığı Merkezlerinde Kanser Tarama Kılavuzu
-
-Ek-7: Kardiyovasküler Risk Değerlendirmesi Kılavuzu
-
-Ek-8: Çok Yönlü Yaşlı Değerlendirme Kılavuzu
+Ek-6: Aile Sağlığı Merkezlerinde Kanser Tarama Kılavuzu Ek-7: Kardiyovasküler Risk Değerlendirmesi Kılavuzu Ek-8: Çok Yönlü Yaşlı Değerlendirme Kılavuzu

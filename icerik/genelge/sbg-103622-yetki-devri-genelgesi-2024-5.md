@@ -23,8 +23,6 @@ Strateji Geliştirme Başkanlığı
 
 240252837
 
-
-
 Sayı : 94036355/809.99 Konu : Yetki Devri
 
 ### GENELGE (2024/5)
@@ -41,9 +39,7 @@ TL dahil)
 
 • Taşınırların Bakanlığımıza bağlı harcama birimleri arasındaki devirlerinde 10.000.000
 
-TL'ye kadar (10.000.000 TL dahil) olanların "İl Sağlık Müdürü" onayı ile yapılması,
-
-söz konusu limitler üzerindeki taşınır devirlerine ilişkin onayların ise üst yönetici onayı
+TL'ye kadar (10.000.000 TL dahil) olanların "İl Sağlık Müdürü" onayı ile yapılması, söz konusu limitler üzerindeki taşınır devirlerine ilişkin onayların ise üst yönetici onayı
 
 alınmak üzere Bakanlığımıza gönderilmesi gerekmektedir.
 

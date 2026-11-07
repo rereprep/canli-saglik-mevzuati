@@ -33,9 +33,7 @@ Stratejisi
 
 DAĞITIM YERLERİNE
 
-“Türkiye Sağlık Hizmeti ile İlişkili Enfeksiyonları Önleme ve Kontrol Programı” kapsamında geliştirilen
-
-Ulusal Önlem Paketi (Demet) Uygulamaları 2021 yılından itibaren ülkemizdeki tüm yataklı tedavi kurumlarında uygulanmaya başlanmıştır. Bu uygulamaların sürdürülebilirliği ve geliştirilmesini sağlamak için, yalnızca teknik anlamda değil; aynı zamanda sağlık çalışanlarının davranışları, kurum kültürü, liderlik ve sürekli eğitim gibi çok boyutlu yaklaşım içeren “Çok Bileşenli Ulusal Önlem Paketi (Demet) Uygulamaları İyileştirme Stratejisi”
+“Türkiye Sağlık Hizmeti ile İlişkili Enfeksiyonları Önleme ve Kontrol Programı” kapsamında geliştirilen Ulusal Önlem Paketi (Demet) Uygulamaları 2021 yılından itibaren ülkemizdeki tüm yataklı tedavi kurumlarında uygulanmaya başlanmıştır. Bu uygulamaların sürdürülebilirliği ve geliştirilmesini sağlamak için, yalnızca teknik anlamda değil; aynı zamanda sağlık çalışanlarının davranışları, kurum kültürü, liderlik ve sürekli eğitim gibi çok boyutlu yaklaşım içeren “Çok Bileşenli Ulusal Önlem Paketi (Demet) Uygulamaları İyileştirme Stratejisi”
 
 Bilgilerini ve gereğini rica ederim.
 

@@ -597,13 +597,9 @@ Tarihi Numarası U n v a n ı
 
 15/ 5/1335 155 Mülkiye Harcırah Kararnamesi
 
-10/11/1335 277 15 Mayıs 1335 tarihli Mülkiye Harcırah Kararnamesinin mevaddı muvakkate
+10/11/1335 277 15 Mayıs 1335 tarihli Mülkiye Harcırah Kararnamesinin mevaddı muvakkate faslının tadili hakkında Kararname
 
-faslının tadili hakkında Kararname
-
-27/11/1336 44 İşgal dolayısıyla terki mevkie mecbur olan memurin ve ailelerine harcırah itası
-
-hakkında Kanun
+27/11/1336 44 İşgal dolayısıyla terki mevkie mecbur olan memurin ve ailelerine harcırah itası hakkında Kanun
 
 16/10/1338 273 Hasbellüzum celp veya bir mahalle izam kılınacak imalatı Harbiye sivil ustalariyle
 
@@ -613,9 +609,7 @@ Kanun
 
 22/ 4/1341 646 15 Mayıs 1335 tarihli Mülkiye Harcırah Kararnamesine müzeyyel Kanun
 
-21/11/1341 668 Vazifei memureleri haricinde emrazı sariyei hayvaniye mücadelesine memur
-
-edilecek memurini fenniye ve saireye verilecek yevmiyeler hakkında
+21/11/1341 668 Vazifei memureleri haricinde emrazı sariyei hayvaniye mücadelesine memur edilecek memurini fenniye ve saireye verilecek yevmiyeler hakkında
 
 Kanun
 
@@ -643,9 +637,7 @@ Kanun
 
 müzeyyel Kanun
 
-8/ 6/1929 1508 Amenajman ve teşçir işlerinde müstahdem memurini fenniyeye verilecek
-
-yevmiyeler hakkında Kanun
+8/ 6/1929 1508 Amenajman ve teşçir işlerinde müstahdem memurini fenniyeye verilecek yevmiyeler hakkında Kanun
 
 19/ 7/1931 1846 15 Mayıs 1335 tarihli Harcırah Kararnamesi ve müzeyyelatının tadili hakkında
 
@@ -671,9 +663,7 @@ Kanun
 
 3/ 8/1942 4278 Askeri kara, deniz ve hava ateşeleri maiyetlerine birer er verilmesi hakkında Kanun
 
-3/ 8/1942 4279 Yabancı memleketlere gönderilecek memurların harcırahları hakkındaki 3441 sayılı
-
-kanuna ek Kanun
+3/ 8/1942 4279 Yabancı memleketlere gönderilecek memurların harcırahları hakkındaki 3441 sayılı kanuna ek Kanun
 
 10/ 8/1942 4287 Maliye atlı tahsildarlarına hayvan yem bedeli verilmesi hakkında Kanun
 
@@ -683,17 +673,11 @@ kanuna ek Kanun
 
 Ek Kanun
 
-23/12/1942 4333 P. T. T. Umum Müdürlüğü süvari müvezzilerine hayvan yem bedeli verilmesi
+23/12/1942 4333 P. T. T. Umum Müdürlüğü süvari müvezzilerine hayvan yem bedeli verilmesi hakkında Kanun
 
-hakkında Kanun
+18/ 6/1943 4440 Harcırah Kararnamesi ve müzeyyelatının tadili hakkındaki 1846 sayılı kanuna bağlı cetvel ile 3135 sayılı kanunda değişiklik yapılması hakkında Kanun
 
-18/ 6/1943 4440 Harcırah Kararnamesi ve müzeyyelatının tadili hakkındaki 1846 sayılı kanuna bağlı
-
-cetvel ile 3135 sayılı kanunda değişiklik yapılması hakkında Kanun
-
-29/ 5/1946 4909 Subay ve askeri memurlarla gedikli erbaşlardan ve askeri kadrolardaki çeşitli
-
-hizmetlilerden kurslara gönderilenlerin gündelikleri hakkında
+29/ 5/1946 4909 Subay ve askeri memurlarla gedikli erbaşlardan ve askeri kadrolardaki çeşitli hizmetlilerden kurslara gönderilenlerin gündelikleri hakkında
 
 Kanun
 
@@ -737,21 +721,13 @@ maddesinin son fıkrası
 
 müzeyyel Kanun 4 üncü maddesi
 
-4/ 6/1932 2000 1932 senesinden itibaren Tıp Fakültesinden neşet edecek tabiplerin mecburi
-
-hizmetlerinin lağvı ve leyli tıp talebe yurduna alınan tıp talebesinin tabi
-
-olacakları mecburi hizmetler hakkında Kanun 2 nci maddesinin 2 ve 3 üncü
-
-fıkraları
+4/ 6/1932 2000 1932 senesinden itibaren Tıp Fakültesinden neşet edecek tabiplerin mecburi hizmetlerinin lağvı ve leyli tıp talebe yurduna alınan tıp talebesinin tabi olacakları mecburi hizmetler hakkında Kanun 2 nci maddesinin 2 ve 3 üncü fıkraları
 
 15/12/1934 2613 Kadastro ve Tapu Tahriri Kanunu 5055 sayılı kanunla değiştirilen 43 üncü
 
 maddesi
 
-15/11/1935 2847 Devlet Demiryolları ve Limanları İşletme U. Md. memur ve müstahdemlerinin
-
-ücretlerine dair Kanun 9 uncu maddesi
+15/11/1935 2847 Devlet Demiryolları ve Limanları İşletme U. Md. memur ve müstahdemlerinin ücretlerine dair Kanun 9 uncu maddesi
 
 20/ 1/1936 2897 Hayvanlar Vergisi Kanunu 4 üncü maddesinin son fıkrası
 
@@ -767,29 +743,21 @@ maddesi
 
 30/ 6/1939 3656 Devlet memurları aylıklarının tevhit ve teadülüne dair Kanun 20 nci maddesi
 
-3/ 7/1939 3659 Bankalar ve Devlet müesseseleri memurları aylıklarının tevhit ve teadülü
-
-hakkında Kanun 4621 sayılı kanunun 4 üncü maddesiyle değiştirilen
+3/ 7/1939 3659 Bankalar ve Devlet müesseseleri memurları aylıklarının tevhit ve teadülü hakkında Kanun 4621 sayılı kanunun 4 üncü maddesiyle değiştirilen
 
 3 üncü
 
 maddesinin B ve J fıkrası
 
-26/ 6/1940 3888 Devlet memurları aylıklarının tevhit ve teadülü hakkındaki 3656 sayılı kanuna
+26/ 6/1940 3888 Devlet memurları aylıklarının tevhit ve teadülü hakkındaki 3656 sayılı kanuna ek Kanun 5 inci maddesi
 
-ek Kanun 5 inci maddesi
-
-18/12/1940 3944 Gümrük muhafaza ve muamele sınıfı memurları teşkilatı hakkında Kanun 8 inci
-
-maddesi
+18/12/1940 3944 Gümrük muhafaza ve muamele sınıfı memurları teşkilatı hakkında Kanun 8 inci maddesi
 
 30/ 5/1941 4047 Beden terbiyesi kanununa ek Kanun 3 üncü maddesi
 
 19/ 6/1942 4274 Köy Okulları ve Enstitüleri Teşkilat Kanunu 43 üncü maddesi
 
-18/6/1943 4440 Harcırah kararnamesi ve müzeyyelatının tadili hakkındaki 1846 sayılı kanuna
-
-bağlı cetvel ile 3135 sayılı kanunda değişiklik yapılması hakkında Kanun 1
+18/6/1943 4440 Harcırah kararnamesi ve müzeyyelatının tadili hakkındaki 1846 sayılı kanuna bağlı cetvel ile 3135 sayılı kanunda değişiklik yapılması hakkında Kanun 1
 
 inci
 
@@ -797,49 +765,27 @@ maddesi
 
 9/7/1943 4459 Köy ebeleri ve köy sağlık memurları teşkilatı ve 3017 numaralı Sıhhat ve İçtimai
 
-Muavenet Vekaleti Teşkilat ve Memurin Kanununun bazı
+Muavenet Vekaleti Teşkilat ve Memurin Kanununun bazı maddelerinin değiştirilmesine dairKanun zeyyelatının tadili hakkındaki 1846
 
-maddelerinin değiştirilmesine dairKanun zeyyelatının tadili hakkındaki 1846
-
-sayılı kanuna bağlı cetvel ile 3135 sayılı kanunda değişiklik
-
-yapılması hakkında Kanun 1 inci maddesinin 3 üncü bendi
+sayılı kanuna bağlı cetvel ile 3135 sayılı kanunda değişiklik yapılması hakkında Kanun 1 inci maddesinin 3 üncü bendi
 
 19/7/1943 4481 Ziraat Vekaleti teşkilatının nakil ve teknik işletme vasıtalariyle teçhizine dair
 
 Kanun 2 ve 3 üncü maddeleri
 
-6/9/1943 4487 Seferberlikte ve fevkalade hallerde askeri şahısların ailelerini icabında
+6/9/1943 4487 Seferberlikte ve fevkalade hallerde askeri şahısların ailelerini icabında yanlarında bulundurmalarının men'i hakkında Kanun 2 ve 3 üncü maddeleri
 
-yanlarında bulundurmalarının men'i hakkında Kanun 2 ve 3 üncü
+21/6/1944 4598 Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanunun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesi hakkında Kanun 9 uncu maddesi
 
-maddeleri
-
-21/6/1944 4598 Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanunun
-
-bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesi
-
-hakkında Kanun 9 uncu maddesi
-
-28/3/1945 4709 Hesap uzmanları kurulu kurulmasına ve Maliye Vekaleti merkez ve iller
-
-kadrosunda bazı değişiklikler yapılması hakkında Kanun 7 .
+28/3/1945 4709 Hesap uzmanları kurulu kurulmasına ve Maliye Vekaleti merkez ve iller kadrosunda bazı değişiklikler yapılması hakkında Kanun 7 .
 
 maddesi
 
-6/7/1945 4784 Tarım Bakanlığı Toprak İşleri tevhit ve teadülüne dair olan 3656 sayılı kanunun
-
-bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler
-
-eklenmesi
+6/7/1945 4784 Tarım Bakanlığı Toprak İşleri tevhit ve teadülüne dair olan 3656 sayılı kanunun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesi
 
 hakkında Kanun 19 uncu maddesi
 
-28/12/1946 4988 Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanunla
-
-buna ek 4644 sayılı kanunda değişiklik yapılması hakkında Kanun 6 ncı
-
-maddesinin 3 üncü bendiyle2 nci maddesinin son fıkrası
+28/12/1946 4988 Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanunla buna ek 4644 sayılı kanunda değişiklik yapılması hakkında Kanun 6 ncı maddesinin 3 üncü bendiyle2 nci maddesinin son fıkrası
 
 31/5/1948 5213 Devlet Havayolları Gn.Md.lüğü teşkilatı hakkındaki 3424 sayılı kanuna ek
 
@@ -851,31 +797,21 @@ düzenlemek üzere 3803, 4274 ve 4459 sayılı kanunlara ek 5129 sayılı
 
 ### kanunun 1 inci maddesinin son fıkrası
 
-1/3/1950 5572 Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanuna
+1/3/1950 5572 Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanuna bağlı (1) sayılı cetvelin Adalet Bakanlığı ve Tapu ve Kadastro Umum
 
-bağlı (1) sayılı cetvelin Adalet Bakanlığı ve Tapu ve Kadastro Umum
-
-Müdürlüğü bölümlerinde değişiklik yapılması ve kadastro mahkemeleriyle
-
-gezici mahkemelerin kaldırılması hakkında Kanun 3 üncü maddesinin 3
+Müdürlüğü bölümlerinde değişiklik yapılması ve kadastro mahkemeleriyle gezici mahkemelerin kaldırılması hakkında Kanun 3 üncü maddesinin 3
 
 üncü fıkrası
 
 16/3/1950 5602 Tapulama Kanunu 49 ve 50 nci maddeleri
 
-6/12/1950 5686 Birleşmiş Milletler emrine verilmek üzere askeri birlikler halinde yabancı
-
-ülkelere gönderilecek ordu mensuplarının aylık ve ücretleriyle çeşitli
-
-istihkakları
+6/12/1950 5686 Birleşmiş Milletler emrine verilmek üzere askeri birlikler halinde yabancı ülkelere gönderilecek ordu mensuplarının aylık ve ücretleriyle çeşitli istihkakları
 
 ve birliğin sair masrafları hakkında Kanun 1.2 ve 3 üncü maddeleri
 
 2/7/1951 5802 Astsubay Kanunu 9 uncu maddesi
 
-1/7/1953 6091 Tapulama Kanununun bazı maddelerinde
-
-değişiklik yapılmasına dair Kanun
+1/7/1953 6091 Tapulama Kanununun bazı maddelerinde değişiklik yapılmasına dair Kanun
 
 3 üncü maddesi
 
@@ -931,21 +867,15 @@ Değerlendirme sonucunda ilgililere herhangi bir ödeme yapılmaz.
 
 1. Yurtdışı seyahatlerde, Yataklı vagon farkı dahil
 
-uçaklarda birinci sınıf olduğu halde birinci mevki
-
-üzerinden seyahat gider- bilet ücreti. Yapılan hakiki yol masrafı.
+uçaklarda birinci sınıf olduğu halde birinci mevki üzerinden seyahat gider- bilet ücreti. Yapılan hakiki yol masrafı.
 
 leri ödenenler.
 
 2. Aylık dereceleri 1 Yataklı vagon farkı dahil Mutat ve ekonomik olan
 
-olan memur ve hizmetli- olduğu halde birinci mevki taşıtlara ait yol mas-
+olan memur ve hizmetli- olduğu halde birinci mevki taşıtlara ait yol mas- ler ile 33 üncü maddenin bilet ücreti. rafı ve icap ve zaruret
 
-ler ile 33 üncü maddenin bilet ücreti. rafı ve icap ve zaruret
-
-(b) bendine dahil olan- halinde kullanılacak
-
-lar. **(311 KHKile değişik)** diğer taşıtlara göre hakiki yol masrafı.
+(b) bendine dahil olan- halinde kullanılacak lar. **(311 KHKile değişik)** diğer taşıtlara göre hakiki yol masrafı.
 
 3. Yukarıda yazı olanla- Birinci mevki bilet ücreti. Mutat ve ekonomik olan
 
@@ -961,9 +891,7 @@ ve hizmetliler.
 
 ve daha aşağı derece o-
 
-taşıtlara ait hakiki yol masrafı
-
-lan memur ve hizmetliler.
+taşıtlara ait hakiki yol masrafı lan memur ve hizmetliler.
 
 ### AÇIKLAMA:
 
@@ -979,9 +907,7 @@ lan memur ve hizmetliler.
 
 <sup>[1]</sup>Bu Kanunda ve bu Kanunu değiştiren, 11/12/1981 tarihli ve 2562 sayılı Kanunun 29. maddesiyle eklenen Ek 1
 
-inci maddede geçen belirli memuriyet unvanları, 16/6/1983 tarih ve 2851 sayılı Kanunun 9. maddesiyle tekrar
-
-değiştirilmiştir.
+inci maddede geçen belirli memuriyet unvanları, 16/6/1983 tarih ve 2851 sayılı Kanunun 9. maddesiyle tekrar değiştirilmiştir.
 
 <sup>[2]</sup>Bu fıkrada yer alan "...Başkanları ile Cumhuriyet Başsavcısı, Danıştay Başsavcısı" ibaresi 2/5/1989 tarih ve
 
@@ -989,11 +915,7 @@ değiştirilmiştir.
 
 <sup>[3]</sup>Bu bentte yer alan "Yükseköğretim Denetleme Kurulu Başkanı ve Üyeleri" ibaresi 16/6/1983 tarih ve 2851
 
-sayılı Kanunun 2 nci maddesi ile,"İlköğretim Müfettişleri ve " ibaresinden sonra gelmek üzere "Müfettiş
-
-yardımcıları ile " ibaresi ise 28/8/1991 tarih ve 451 sayılı KHK'nin 1 inci maddesi ile eklenmiş olup, metne
-
-işlenmiştir.; Daha sonra 17/6/1992 tarih ve 3814 sayılı Kanunun 3 ncü maddesi ile "Bakanlıklar merkez kuruluşu
+sayılı Kanunun 2 nci maddesi ile,"İlköğretim Müfettişleri ve " ibaresinden sonra gelmek üzere "Müfettiş yardımcıları ile " ibaresi ise 28/8/1991 tarih ve 451 sayılı KHK'nin 1 inci maddesi ile eklenmiş olup, metne işlenmiştir.; Daha sonra 17/6/1992 tarih ve 3814 sayılı Kanunun 3 ncü maddesi ile "Bakanlıklar merkez kuruluşu
 
 Stajyer Kontrolörler" ibaresinden sonra gelmek üzere Emniyet Genel Müdürlüğü Dernek Denetçisi ve Dernek
 

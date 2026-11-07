@@ -430,9 +430,7 @@ gram altında olduğu düşünülüyorsa literatür vajinal doğumu desteklemekt
 
 - Düşük doğum ağırlıklı (1500 gram altı) vertex gelişi olmayan ikinci ikizin
 
-olduğu durum çok tartışmalıdır ve anne ile bebek arasındaki kar-zarar oranını
-
-değerlendirmek zordur. Bu durumda hekim bulunduğu koşulları ve eğitimini göz önüne alarak doğumu planlamalıdır.
+olduğu durum çok tartışmalıdır ve anne ile bebek arasındaki kar-zarar oranını değerlendirmek zordur. Bu durumda hekim bulunduğu koşulları ve eğitimini göz önüne alarak doğumu planlamalıdır.
 
 ### ÇOĞUL GEBELİK AKIŞ ŞEMASI
 
@@ -728,9 +726,7 @@ Oksitosin infüzyonuna başlanıldıktan sekiz saat sonra halen gebe aktif döne
 
 Servikal açılma doğum eylem grafiğinde (partograf) uyarı hattının sağında ise,
 
-Gebede 12 saat veya üzerinde devam eden eylem ağrılarına rağmen doğum gerçekleşmez ise,
-
-söz edilir.
+Gebede 12 saat veya üzerinde devam eden eylem ağrılarına rağmen doğum gerçekleşmez ise, söz edilir.
 
 İlerlemeyen Eylemin Tanısı
 
@@ -942,19 +938,19 @@ Oksiput anterior verteks dışındaki gelişler | Kötü Prezentasyon Veya Pozis
 
 Serviks tam açık ve kadının güçlü ıkınmalarına karşılık iniş yok | Uzamış Ikınma (Expulsive) Safhası
 
- | Tanı Kriterleri | 
+| Tanı Kriterleri |
 
 Doğum Eylemi Paterni | Nullipar | Multipar | Tercih Edilen Tedavi | İstisnai Tedavi
 
 Uzamış latent faz | >20 saat | >14 saat | Yatak istirahati, beslenme | Acil problemler için oksitosin veya sezaryen doğum
 
-Uzama Bozuklukları | 
+Uzama Bozuklukları |
 
 Aktif faz dilatasyonunun uzaması | <1.2 cm/saat | <1.5 cm/saat | Bekle-Destek tedavi | Sefalopelvik uygunsuzluk için sezaryen
 
 İnişin uzaması | <1.0cm/saat | <2.0cm/saat | Bekle-Destek tedavi | Sefalopelvik uygunsuzluk için sezaryen
 
-Duraklama bozuklukları | 
+Duraklama bozuklukları |
 
 Deselarasyon fazının uzaması | >3 saat | >1 saat | Sefalopelvik uygunsuzluk yok - oksitosin | Yorgunluk söz konusu ise yatak istirahati
 

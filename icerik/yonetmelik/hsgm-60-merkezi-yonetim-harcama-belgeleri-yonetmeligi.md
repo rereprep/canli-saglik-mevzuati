@@ -708,9 +708,7 @@ a) Yurtiçi geçici görev yolluklarının ödenmesinde;
 
 - Yurtiçi / Yurtdışı Geçici Görev Yolluğu Bildirimi (Örnek : 27),
 
--Yatacak yer temini için ödenen ücretlere ilişkin fatura ,
-
-ödeme belgesine bağlanır.
+-Yatacak yer temini için ödenen ücretlere ilişkin fatura , ödeme belgesine bağlanır.
 
 b) Denetim elemanlarının yurtiçi geçici görev yolluklarının ödenmesinde;
 
@@ -1120,9 +1118,7 @@ Proje teşvik ve destekleme giderlerinden ihale mevzuatına göre yapılacak mal
 
 a) Kamu kurum ve kuruluşlarınca veya kamu kurum ve kuruluşlarının denetim ve gözetimi altında bir imtiyaz hakkı dahilinde özel hukuk tüzel kişilerince sunulan tekel niteliğindeki telefon, teleks, telefaks ile ilgili her türlü hat ve benzeri ulaştırma ve haberleşme araçlarının kullanım ve abone giderleriyle telgraf ve posta pulu bedellerinin ödenmesinde;
 
--Yurtiçi ve yurtdışı şehirlerarası telefon görüşme bedellerinin resmi-özel ayrımını gösterir, kullanıcının beyanına dayalı olarak ilgili daire amirince onanmış fatura,
-
-ödeme belgesine bağlanır.
+-Yurtiçi ve yurtdışı şehirlerarası telefon görüşme bedellerinin resmi-özel ayrımını gösterir, kullanıcının beyanına dayalı olarak ilgili daire amirince onanmış fatura, ödeme belgesine bağlanır.
 
 b) Tekel niteliğinde olmayan veya ihale mevzuatına göre temin edilen telefon, teleks, telefaks ve benzeri ulaştırma ve haberleşme araçlarının her türlü hat kullanım ve abone giderlerinin ödenmesinde;
 
@@ -1188,9 +1184,7 @@ b) Makine, alet, araç ve taşıt kira bedelleri ile bilgisayar sistemleri ve ya
 
 - Fatura,
 
--Hizmet İşleri Hakediş Raporu (Örnek: 4),
-
-ödeme belgesine bağlanır.
+-Hizmet İşleri Hakediş Raporu (Örnek: 4), ödeme belgesine bağlanır.
 
 #### Çeşitli hizmet alımları
 
@@ -1684,9 +1678,7 @@ Ortak Hükümler
 
 - Muayene ve kabul komisyonu tutanağı, kabul işleminin idarece yapılması halinde ise idarece düzenlenmiş belge,
 
--Mal ve malzeme alımlarında, taşınır işlem fişi,
-
-ödeme belgesine bağlanır.
+-Mal ve malzeme alımlarında, taşınır işlem fişi, ödeme belgesine bağlanır.
 
 Söz konusu alım bedellerinin ödenmesinde aranılacak belgelere ilişkin diğer hükümler aşağıda belirtilmiştir.
 

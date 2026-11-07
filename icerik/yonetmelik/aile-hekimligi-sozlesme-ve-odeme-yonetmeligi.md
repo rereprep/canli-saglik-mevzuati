@@ -267,19 +267,13 @@ a) Kayıtlı Kişiler İçin Ödenecek Ücret: Sözleşmeyle çalıştırılan a
 
 i) Gebeler ve lohusalar için (3) katsayısı,
 
-ii) Cezaevlerindeki tutuklu ve hükümlüler için (2,25) katsayısı,
-
-iii) 0 - 28 gün nüfus grubu için (5) katsayısı,
+ii) Cezaevlerindeki tutuklu ve hükümlüler için (2,25) katsayısı, iii) 0 - 28 gün nüfus grubu için (5) katsayısı,
 
 iv) 29 - 365 gün nüfus grubu için (2) katsayısı,
 
 v) 13 - 59 ay nüfus grubu için (1,6) katsayısı,
 
-vi) 65 yaş ve üstü nüfus grubu için (1,6) katsayısı,
-
-vii) Diğer kişiler için ilgili yaş gruplarının, sağlık kurumlarına yıllık başvuru sayısı, nüfus grubunun sağlık ihtiyaçları ile birim türüne göre her yılın ocak ayında Bakanlıkça belirlenen ve ağırlıklı ortalaması (0,79) olan katsayısı,
-
-esas alınır. Ancak son altı ayda birime müracaat etmeyen nüfus grupları için belirtilen katsayının yarısı esas alınır.
+vi) 65 yaş ve üstü nüfus grubu için (1,6) katsayısı, vii) Diğer kişiler için ilgili yaş gruplarının, sağlık kurumlarına yıllık başvuru sayısı, nüfus grubunun sağlık ihtiyaçları ile birim türüne göre her yılın ocak ayında Bakanlıkça belirlenen ve ağırlıklı ortalaması (0,79) olan katsayısı, esas alınır. Ancak son altı ayda birime müracaat etmeyen nüfus grupları için belirtilen katsayının yarısı esas alınır.
 
 2) Kayıtlı kişiler, katsayısı yüksek olan gruptan başlanarak sıralanır ve puan hesaplaması yapılır.
 
@@ -295,9 +289,7 @@ esas alınır. Ancak son altı ayda birime müracaat etmeyen nüfus grupları i�
 
 i) Uzman tabip veya tabip için tavan ücretin % 78,5’i,
 
-ii) Aile hekimliği uzmanları için tavan ücretin % 113,5’i,
-
-tutarında ödeme yapılır. 1.000 puanın üzerinde kalan puanların tavan ücretin onbinde 5,22’si ile çarpılması sonucu bulunan tutar ayrıca ödenir.
+ii) Aile hekimliği uzmanları için tavan ücretin % 113,5’i, tutarında ödeme yapılır. 1.000 puanın üzerinde kalan puanların tavan ücretin onbinde 5,22’si ile çarpılması sonucu bulunan tutar ayrıca ödenir.
 
 8) Ödemeye esas olacak pozisyonun entegre sağlık hizmeti sunulan merkezlerde ya da nüfus ve coğrafi yapısı nedeniyle kayıtlı nüfusun zorunlu olarak düşük olduğu Bakanlıkça belirlenen yerlerde olması halinde, kayıtlı kişi sayısının 2400’den fazla, diğer yerlerde ise 3500’den fazla olması halinde; büyükten küçüğe doğru grup katsayısı sıralaması esas alınmak üzere ödeme yapılır ve bu sayıları aşan kısım için ise aile hekimlerine herhangi bir ödeme yapılmaz.<sup>[7]</sup>
 
@@ -305,9 +297,7 @@ tutarında ödeme yapılır. 1.000 puanın üzerinde kalan puanların tavan ücr
 
 i) Uzman tabip veya tabip için tavan ücretin % 131’i,
 
-ii) Aile hekimliği uzmanları için tavan ücretin % 166’sı,
-
-tutarında ödeme yapılır. 2.000 puanın üzerinde kalan puanların tavan ücretin onbinde 5,22’si ile çarpılması sonucu bulunan tutar ayrıca ödenir şeklinde uygulanır.
+ii) Aile hekimliği uzmanları için tavan ücretin % 166’sı, tutarında ödeme yapılır. 2.000 puanın üzerinde kalan puanların tavan ücretin onbinde 5,22’si ile çarpılması sonucu bulunan tutar ayrıca ödenir şeklinde uygulanır.
 
 10) Deprem, sel felaketi ve salgın gibi olağanüstüdurumlarda yapılacak hizmetler için bu bentte belirtilenlerin dışında ayrıca bir ödeme yapılmaz.
 
@@ -361,13 +351,9 @@ c) Aile Sağlığı Merkezi Giderleri:
 
 i) D grubu aile hekimliği birimleri için tavan ücretin % 10’u,
 
-ii) C grubu aile hekimliği birimleri için tavan ücretin % 20’si,
+ii) C grubu aile hekimliği birimleri için tavan ücretin % 20’si, iii) B grubu aile hekimliği birimleri için tavan ücretin % 35’i,
 
-iii) B grubu aile hekimliği birimleri için tavan ücretin % 35’i,
-
-iv) A grubu aile hekimliği birimleri için tavan ücretin % 50’si,
-
-oranı kadar ödeme yapılır.
+iv) A grubu aile hekimliği birimleri için tavan ücretin % 50’si, oranı kadar ödeme yapılır.
 
 4) Bu gruplandırmalara göre daha yüksek ilave ödeme gerektiren gruba göre ödeme yapılabilmesi için aile hekimince, ilgili gruba ait tüm kriterlerin sağlandığına dair belgeler ile müdürlüğe başvurulur. Başvuru tarihinden itibaren müdürlük veya Bakanlık ya da Bakanlıkça yetki verilen özel veya kamu kurum ve kuruluşlarınca, en geç otuz gün içinde Bakanlıkça belirlenecek esaslara göre yerinde değerlendirme yapılır. Değerlendirme evrakının bir nüshası aile hekimine verilir. Talep müdürlükçe, evrakın müdürlüğe intikalinden itibaren on gün içinde sonuçlandırılır. Talebin olumlu sonuçlanması halinde, talebin olumlu sonuçlandığı tarihten itibaren belirlenen yeni grup esas alınarak ödeme yapılır.
 
@@ -389,9 +375,7 @@ oranı kadar ödeme yapılır.
 
 i) Asgari kat edilmesi gereken her bir kilometre için tavan ücretin onbinde 5’i,
 
-ii) Gezici hizmet bölgesindeki kendisine kayıtlı her kişi için tavan ücretin yüzbinde 7,5’i,
-
-kadar ödeme yapılır. Kat edilecek mesafenin hesabına yönelik usul ve esaslar Bakanlıkça belirlenir.
+ii) Gezici hizmet bölgesindeki kendisine kayıtlı her kişi için tavan ücretin yüzbinde 7,5’i, kadar ödeme yapılır. Kat edilecek mesafenin hesabına yönelik usul ve esaslar Bakanlıkça belirlenir.
 
 2) Gezici sağlık hizmetinin yürütülmesinde, müdürlüğe ait gezici sağlık araçları aile hekimlerine kullandırılabilir. İklim ve ulaşım şartları gibi nedenlerle gezici sağlık hizmetinin normal araçlarla verilemediği durumlarda, müdürlük aile hekimine kar paletli araç, 4x4 çekerli arazi tipi araç ve vasıtalarla ulaşım imkanı sağlayabilir. Araç tahsisi yapılan durumlarda gidilen yer veya yerlere ait bu bentte yer alan esasa göre yapılacak gezici sağlık hizmeti giderleri aile hekimi yerine müdürlüğün döner sermayesine aktarılır.
 
@@ -483,19 +467,13 @@ a) Kayıtlı Kişiler İçin Ödenecek Ücret: Sözleşmeyle çalıştırılan a
 
 i) Gebeler ve lohusalar için (3) katsayısı,
 
-ii) Cezaevlerindeki tutuklu ve hükümlüler için (2,25) katsayısı,
-
-iii) 0 - 28 gün nüfus grubu için (5) katsayısı,
+ii) Cezaevlerindeki tutuklu ve hükümlüler için (2,25) katsayısı, iii) 0 - 28 gün nüfus grubu için (5) katsayısı,
 
 iv) 29 - 365 gün nüfus grubu için (2) katsayısı,
 
 v) 13 - 59 ay nüfus grubu için (1,75) katsayısı,
 
-vi) 65 yaş üstü nüfus grubu için (1,75) katsayısı,
-
-vii) Diğer kişiler için ilgili yaş gruplarının, sağlık kurumlarına yıllık başvuru sayısı, nüfus grubunun sağlık ihtiyaçları ile birim türüne göre her yılın ocak ayında Bakanlıkça belirlenen ve ağırlıklı ortalaması (0,80) olan katsayısı,
-
-esas alınır. Ancak son altı ayda birime müracaat etmeyen nüfus grupları için belirtilen katsayının yarısı esas alınır.
+vi) 65 yaş üstü nüfus grubu için (1,75) katsayısı, vii) Diğer kişiler için ilgili yaş gruplarının, sağlık kurumlarına yıllık başvuru sayısı, nüfus grubunun sağlık ihtiyaçları ile birim türüne göre her yılın ocak ayında Bakanlıkça belirlenen ve ağırlıklı ortalaması (0,80) olan katsayısı, esas alınır. Ancak son altı ayda birime müracaat etmeyen nüfus grupları için belirtilen katsayının yarısı esas alınır.
 
 2) Kayıtlı kişiler, katsayısı yüksek olan gruptan başlanarak sıralanır ve puan hesaplaması yapılır.
 
@@ -511,9 +489,7 @@ esas alınır. Ancak son altı ayda birime müracaat etmeyen nüfus grupları i�
 
 i) Mesleki yüksek öğrenim mezunu olmayan aile sağlığı çalışanına tavan ücretin % 41,85’i,
 
-ii) Mesleki yüksek öğrenim mezunu aile sağlığı çalışanına tavan ücretin % 49,15’i,
-
-tutarında ödeme yapılır. 1.000 puanın üzerinde kalan puanların tavan ücretin onbinde 2,1’i ile çarpılması sonucu bulunan tutar ayrıca ödenir.
+ii) Mesleki yüksek öğrenim mezunu aile sağlığı çalışanına tavan ücretin % 49,15’i, tutarında ödeme yapılır. 1.000 puanın üzerinde kalan puanların tavan ücretin onbinde 2,1’i ile çarpılması sonucu bulunan tutar ayrıca ödenir.
 
 8) Ödemeye esas olacak pozisyonun entegre sağlık hizmeti sunulan merkezlerde ya da nüfus ve coğrafi yapısı nedeniyle kayıtlı nüfusun zorunlu olarak düşük olduğu Bakanlıkça belirlenen yerlerde olması halinde, kayıtlı kişi sayısının 2.400’den fazla, diğer yerlerde ise 3500’den fazla olması halinde; büyükten küçüğe doğru grup katsayısı sıralaması esas alınmak üzere ödeme yapılır ve bu sayıları aşan kısım için ise aile sağlığı çalışanlarına herhangi bir ödeme yapılmaz.<sup>[13]</sup>
 
@@ -521,9 +497,7 @@ tutarında ödeme yapılır. 1.000 puanın üzerinde kalan puanların tavan ücr
 
 i) Mesleki yüksek öğrenim mezunu olmayan aile sağlığı çalışanına tavan ücretin % 62,85’i,
 
-ii) Mesleki yüksek öğrenim mezunu aile sağlığı çalışanına tavan ücretin % 70,15’i,
-
-tutarında ödeme yapılır. 2.000 puanın üzerindeki puanlar için, söz konusu puanların tavan ücretin onbinde 2,1’i ile çarpılarak bulunan tutar ayrıca ödenir şeklinde uygulanır.
+ii) Mesleki yüksek öğrenim mezunu aile sağlığı çalışanına tavan ücretin % 70,15’i, tutarında ödeme yapılır. 2.000 puanın üzerindeki puanlar için, söz konusu puanların tavan ücretin onbinde 2,1’i ile çarpılarak bulunan tutar ayrıca ödenir şeklinde uygulanır.
 
 10) Deprem, sel felaketi ve salgın gibi olağanüstü durumlarda yapılacak hizmetler için ayrıca bir ödeme yapılmaz.
 
@@ -545,9 +519,7 @@ b. % 70 ve üzerini taraması halinde tavan ücretin % 3’ü,
 
 iii) Yıl içerisinde aile hekimliği birimine kayıtlı kişilerin kamu, özel ve üniversite hastanelerine yapmış oldukları kişi başı hekime müracaat sayısının bir önceki yılın aynı dönemi içerisinde yaptıkları kişi başı başvuru sayısına eşit olması ya da bu sayıdan düşük olması veya önceki 12 aylık dönemde kayıtlı kişilerin kişi başı tüm sağlık kurum ve kuruluşlarına müracaat sayısı 7 den az olması durumunda tavan ücretin % 2,5’i,
 
-iv) Aile hekimliği birimi memnuniyet oranının il oranının üzerinde olması halinde tavan ücretin % 0,5’i,
-
-oranında teşvik ödemesi yapılır.
+iv) Aile hekimliği birimi memnuniyet oranının il oranının üzerinde olması halinde tavan ücretin % 0,5’i, oranında teşvik ödemesi yapılır.
 
 13) (Ek:RG-30/10/2024-32707-CK-9073/8 md.) (12) numaralı alt bendin (i) ayrımında belirtilen günlük muayene sayısı (M ); aşağıda formülü gösterildiği şekilde, aile sağlığı çalışanının fiilen çalıştığı günler için birlikte çalıştığı aile hekiminin yaptığı her bir nüfus grubuna ait muayene sayısının (M) nüfus grup katsayısı (K) ile çarpımlarının toplamının ilgili aydaki aile sağlığı çalışanının fiilen görev yaptığı gün sayısına (f) bölünmesi ile bulunur. __________________________
 

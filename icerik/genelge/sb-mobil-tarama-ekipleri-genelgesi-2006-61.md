@@ -78,4 +78,3 @@ Bakan a.
 
 ### DAĞITIM:  
 A Planı
-

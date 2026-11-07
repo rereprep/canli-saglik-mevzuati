@@ -11,6 +11,7 @@ ocr: true
 duzeltildi: true
 kontrol_edildi: true
 ---
+
 ## YÖNETİM HİZMETLERİ GENEL MÜDÜRLÜĞÜ HUKUK VE MEVZUAT DAİRESİ BAŞKANLIĞI SAĞLIK BAKANLIĞI
 
 Yönetim Hizmetleri Genel Müdürlüğü  
@@ -224,9 +225,7 @@ c) Emeklilik, istifa, vefat ve başka kuruma nakil gibi çeşitli sebeplerle gö
 
 ç) Kanunun 62 nci maddesinde belirtilen süreler içerisinde görevine başlamayanlar hakkında, aynı Kanunun 63 üncü maddesi ve ilgili mevzuat çerçevesinde herhangi bir gecikmeye meydan verilmeksizin işlem yapılması,
 
-d) Personelin özlük işlemleri ile belge tanzimlerinin, usul ve esaslara uygun olarak İnsan Kaynakları Yönetim Sistemi’nde yapılması ve bu işlemlerin müdürlükçe sonuçlandırılması,
-
-gerekmektedir.
+d) Personelin özlük işlemleri ile belge tanzimlerinin, usul ve esaslara uygun olarak İnsan Kaynakları Yönetim Sistemi’nde yapılması ve bu işlemlerin müdürlükçe sonuçlandırılması, gerekmektedir.
 
 #### Gerçek dışı beyan ve usulsüz işlem
 

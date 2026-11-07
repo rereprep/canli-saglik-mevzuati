@@ -38,6 +38,10 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## Bilinen eksikler / sonraki adımlar
 
+### 2026-11-07 — Satır sonlarından bölünmüş paragraflar
+- araclar/paragraf_onar.py: aday = noktalama ile bitmeyen düz paragraf + ardından gelen düz paragraf (etiket, liste maddesi, büyük harfli/ad listesi, tablo/rakam satırları hariç). Karar: kaynağın paragraf yapısı (HTML/DOCX paragrafları; PDF metin katmanı ya da taranmış sayfada Vision satır konumları: girinti, kısa satır, dikey boşluk). Kaynakta bulunamazsa yalnız küçük harfle devam eden ve liste maddesi olmayanlar birleştirilir.
+- Sonuç: 266 belge; kaynağa göre 818, kurala göre 1.851 birleştirme; kaynakta ayrı görülen 3.903 yer bırakıldı. "d-)", "ae)", "A5." gibi liste maddeleri sonradan yeniden ayrıldı (104). Metin değişmedi, yalnız satır sonları.
+
 ### 2026-11-07 — Resmî Yazışma Yönetmeliği ve Kılavuzu'na göre biçim
 - Kaynak: Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik (sitede: resmi-yazismalarda-uygulanacak-usul-ve-esaslar-hakkinda-yonetmelik) md. 11-20 ve CB Resmî Yazışma Kılavuzu.
 - stil.css: --satir=1.55em; başlık→Sayı 2 satır; Konu→muhatap 2; muhatap→metin/İlgi 2; İlgi→metin 1; metin→imza 3 (2-4); imza→Ek/Dağıtım 2; Ek/Dağıtım öncesi 1; Dağıtım→Gereği 0; paragraf arası 0, girinti 1,25 cm.

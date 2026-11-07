@@ -19,9 +19,7 @@ Sayı : B.10.0.THG.0.10.00.02/010-07-1203 10/01/2011
 
 Konu : Bakanlığımıza tahsisli taşınmazlardaki büfe,
 
-kantin, çay ocağı gibi yerlerin amacına
-
-yönelik kullanılması.
+kantin, çay ocağı gibi yerlerin amacına yönelik kullanılması.
 
 ### GENELGE
 
@@ -53,9 +51,7 @@ Sayı : B.10.0.THG.0.10.00.02/010.07 -1203 10/01/2011
 
 Konu : Bakanlığımıza tahsisli taşınmazlardaki büfe,
 
-kantin, çay ocağı gibi yerlerin amacına
-
-yönelik kullanılması.
+kantin, çay ocağı gibi yerlerin amacına yönelik kullanılması.
 
 Büfe, kantin ve çay ocağı gibi yerlerde satışa sunulan mal ve hizmet bedellerinin, emsali mal ve hizmet bedellerinden daha yüksek fiyatla tespit edilmemesi ve satılmaması için gerekli tedbirlerin alınması ve “İşletme Hakkı Sözleşmelerine” bu yönde hükümler konulması,
 

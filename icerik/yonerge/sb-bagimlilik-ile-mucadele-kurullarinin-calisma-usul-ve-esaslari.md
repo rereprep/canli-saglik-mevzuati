@@ -196,9 +196,7 @@ beklenen diğer çalışmalara katkı sağlamak.
 
 g) BMK'ya iletilmesi gereken konulan tespit etmek.
 
-h/Yapılan çalışmalanın kurum ve kuruluşların yeref teşkilatlarına yaygınlaşarılmasımı
-
-sağlumak
+h/Yapılan çalışmalanın kurum ve kuruluşların yeref teşkilatlarına yaygınlaşarılmasımı sağlumak
 
 1) Yerel teşkilatlardaki fanliyetleri organize etmek Bağımlıkla Mücadele İV/ilçe Koordinasyon Kurulları (BMIKK)
 
@@ -220,9 +218,7 @@ a) Herindeki/ilçelerindeki bağımlılık ile mücadele çalışmalarımı toki
 
 b) Bağumlılık ile mücodele konusunda ulusal stratejileri göz önünde bulundurarak
 
-illerin kendilerine has tarih, kültür ve coğrafi konumlarına gäre yerel stratejileri
-
-belirlemck
+illerin kendilerine has tarih, kültür ve coğrafi konumlarına gäre yerel stratejileri belirlemck
 
 c) Illerindeki/ilçelerindeki almacak tedbirleri belirlemek, yürütalmesini sağlamak.
 

@@ -73,9 +73,7 @@ Lisans başvuru sahipleri, her bir lisans talebi için yeterlilik değerlendirme
 
 Yukarıda belirtıldığı şekilde hazırlanacak başvuru dosyaları mali, teknik ve yasal yaninda tamamlanmadıği takdirde belge d başvuru sa tesne adiledi ektikler verilen süre
 
-Değerlendirilen başvuruların işlemleri Lisans Yönetmeliğine göre yürütülecektir. Yukarıdaki bilgiler ışığında organ nakli merkezi açma başvurusunda bulunan tüzel kişilerin
-
-süre bitimine kadar Organ Nakli Merkezleri Yönergesindeki gerekli yeterlilikleri sağlayacağına dair taahhütnamenin 14.01.2013 tarihi mesai bitimine kadar Bakanlık Sağlık Hizmetleri Genel Müdürlüğüne iletilmesi gerekmektedir.
+Değerlendirilen başvuruların işlemleri Lisans Yönetmeliğine göre yürütülecektir. Yukarıdaki bilgiler ışığında organ nakli merkezi açma başvurusunda bulunan tüzel kişilerin süre bitimine kadar Organ Nakli Merkezleri Yönergesindeki gerekli yeterlilikleri sağlayacağına dair taahhütnamenin 14.01.2013 tarihi mesai bitimine kadar Bakanlık Sağlık Hizmetleri Genel Müdürlüğüne iletilmesi gerekmektedir.
 
 İşbu Genelgenin yürürlüğe girmesi ile 2012/46 sayılı Genelge iptal edilmiştir. İlinizde faaliyet göstermekte olan devlete ait üniversite hastaneleri, eğitim ve araştırma hastaneleri ve devlet hastaneleri, eğitim yetkisi almış vakıf üniversitesi tıp fakültesi hastaneleri ve özel hastanelerden bildirilen başvuruların Bakanlığımıza iletilmesi hususunda,
 

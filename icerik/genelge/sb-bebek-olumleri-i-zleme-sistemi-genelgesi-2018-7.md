@@ -68,8 +68,6 @@ h) Ayrica (kamer adilen il turafindan, beka dte tidugu ve OBS de yer ainala trap
 
 0 Ölämin gerçekleştığı ve intelemeyi yapan il Bebek Ohimlerı Inceleme Kurulunun değerlendirmenn ardındon tesi erği durumlan ve kanalanm bebeğiu ikamet enti i'e dk Indireczlder.
 
-
-
 i) Sahnda tespit extien pennatal ve nenek dilumderinin OBS'de olup elmadınun komrolu He Nufus ve Varundustk Isleri Genel Mudurlugünce bildirilurek OBS'de raporlanan vakalann legal ve incelemeleri i bebek olüimleri izleme sorumlusa tarshmdan takip eöileccktir, OB5'de olmayar vakılar, ISM istatistik ve hilgi işlem birimune hildirilscek olup, sisteme kaydinın yapaniruei bu hirimce sn glunorakbr
 
 4) **Inceleme;** Perinatal ve bebek ölümlerinin incelemesi olenin gergekleştigi il tarufndun yaralasakti. Ancak haşka hir al'e tedavisi açin sevk edilen ve volda Ojerek, göndertten kurusua ex duhul olarak gelen olu dogum ve bebek @lamlerinde bilirim ve incelemeler ikamet edilen il tamifndan унімакт Sitemıt kontrolir ve yüruttimesinden ISM sorumludur. Her ilde Bebek Ölümled Inselene Kurulu oluşturalscak, ve bu kurul aşagidaki uyelerden oluşacaktır, (N) I6 ve izeri illerde; I sağlik mudüru veya halk sağlığı hizmetlerinden sorumle haskan başk mo liganda: #) Çocuk, ergen, kadan ve theme sağdiğı hizmetlerinden sorumlu hinas sırumlusu, by Sıstem gırışleri kontrol ederek onaylayacak plan ISM bunyesiride yetkilendirilmiş bir hekım e) Kamu hastaneleri hizmetlerinden soramin Işkanken bir kışi (fereihen varsa frastane hizmetler birini sonimiast)
@@ -87,8 +85,6 @@ h) Kadıi hastaliklar ve dogum versani
 1) <i>Aile</i> sağlığa merkezinde güvev yapan 1 alle hekimundan olaşturulacukne.
 
 1) Gerek gordiktiğn haferde Kunil Başkum İbtlyve Juyulan uzmandk dallanıntan lekinleri ve ISM Binmierni davet edebilir Jy Gerek gorkługo hallerde Kurdl, inceiemesini yapağt vaka de ilgıli olun mehk personelint davet edehilir. %) Ide üniversie varsa ilgıli anabilim dallarıdan kunim saglanardir
-
-
 
 B) (2-15 illerinde:
 
@@ -118,15 +114,11 @@ el Ayrıca Kural, sarın se aksaklıklar içın. gerek gördüğü hallerde ayr�
 
 F) Kuril dyesi olarak seçilen personelin ISV'ee belirlenen tarihlende görevlendirineal içir gorev yapuüı kurum tarahndan gereken kolaybık gaverlecek ve personelin bu abrevioden dulwy kirilda geçırdiy sore için çohsıkla kuraman ortalamasından ek odeme yapılraasi sağlanacakıo.
 
-
-
 8) Karul toplantsi seascunda Ek-5de yer alna Behek Otünieri Inecleme Kumi Karan Formu doldurulanik imza alıu almasak karul Byelerince paratlanan çallana formlatmo ilk sayfalun bu forma eklenecektir Kurul karan fontlar ve kurulda incelenen belgeler ISM'ce tuldaza edilęcektir. Bakanlık tarafından talep edilmeşı kalinde bir üreğr iheu eflecektı.
 
 6) Il değerlendirme karula üyeleri ve görevi;
 
-un ll suglık muduru buşkanhında, halk sağhıa blanutleri, kamu bastaneleri hizmetleri, vağhk hizınederi ve açil sağk hizmetlerinden sarumla baskanlar katlame de varsa tip-fakiltos! dekanidckanlan ve kutul başkaninın vygun göreceği kişi ve bıtimlerin daver edilmesiyle yılda bır
-
-bi Bir Onceki Sil Verileri de goz nanode bulundurarak. ikie tespn edilen sorunlar degerlend ilecek Alinnzai gereken tatbile ye müdahale yöntemleri belirtenereh bygulanacaktı.
+un ll suglık muduru buşkanhında, halk sağhıa blanutleri, kamu bastaneleri hizmetleri, vağhk hizınederi ve açil sağk hizmetlerinden sarumla baskanlar katlame de varsa tip-fakiltos! dekanidckanlan ve kutul başkaninın vygun göreceği kişi ve bıtimlerin daver edilmesiyle yılda bır bi Bir Onceki Sil Verileri de goz nanode bulundurarak. ikie tespn edilen sorunlar degerlend ilecek Alinnzai gereken tatbile ye müdahale yöntemleri belirtenereh bygulanacaktı.
 
 uluşturulacak raporlar, Bakan ğımz Halk Saglıgı Genel Milturtugune gonderilecektir. Halk Saglıgı Genel Midirleünce yapılurak değerendıne somonla alinman gereken tedbirler, ligiti Bakanlıgımu burmierne bildirilecek ve rigib birimieroe de gerekh durenleme ve tedbirler uygulanacaktir
 
@@ -147,8 +139,6 @@ b) Gerek görülen hallerde Halk Saglğ Genel Müdürligü tarafidan inceleme do
 e) Moralite digitlerinin besaplanmusı ikamet edilen ile gire yapilacakur, Iller arasanda vakamın iKamet ettiği yer ile ileili uvuşmahi oldugu durumlarda: ölümün verçeklestiği tarabte hungi stin alle bekimliğr birimine kayıdı ise a ilin rillimü olarak kahul edilecoktir.
 
 el Ölümlerin ulke, bolge ve il dazeyinde gorumlunmasinda veya performan: degerlendirmelerinde, Halk bağagı Genel Mudürtugn tarafından yıllık olarak açıklınarak, Bakachık merkez ve taşra birimleriyle paylasalan bebek de çocuk olum bizlar killanlacaktr.
-
-
 
 9) Hakant@imusca yayımlanan 2009/31 sayili Genelge fe 2014/6 sayde Genelge yuruttakien kaldirimşen
 

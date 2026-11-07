@@ -91,9 +91,7 @@ a) Turizm yatırım veya turizm işletme belgesi,
 
 b) Kaplıca bulunan konaklama tesisinde açılacak ise kaplıca tesisi işletme izin
 
-belgesi (kaplıca suyunun endikasyonlarını gösterecek şekilde düzenlenmiş
-
-olacak),
+belgesi (kaplıca suyunun endikasyonlarını gösterecek şekilde düzenlenmiş olacak),
 
 c) Özel sağlık kuruluşu ile konaklama tesisi arasında yapılacak sözleşme,
 

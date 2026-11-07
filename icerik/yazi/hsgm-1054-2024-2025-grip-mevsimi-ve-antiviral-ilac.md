@@ -23,9 +23,7 @@ DAĞITIM YERLERİNE
 
 Ülkemizin de içinde bulunduğu Kuzey yarım kürede grip mevsimi (influenza sezonu) ekim ayı ile takip eden yılın mayıs ayı arasındaki dönemden oluşmaktadır. İnfluenza aktivitesinin izlemi, grip hastalığının kontrolü ve salgınların önceden saptanması amacıyla tüm dünyada olduğu gibi ülkemizde de influenza sürveyans çalışmaları yürütülmektedir. Bu çalışmalar sayesinde hastalık yakından ve güvenli olarak izlenmektedir.
 
-Sentinel İnfluenza Benzeri Hastalık Sürveyansı kapsamında sürveyansta görevli aile hekimlerine influenza benzeri hastalık semptomları ile başvuran ayaktan hastalardan ve Sentinel Ağır Akut Solunum Yolu
-
-Enfeksiyonu Sürveyansı kapsamında görevli yataklı tedavi kurumları tarafındanağır akutsolunum yolu enfeksiyonu nedeni ile yeni yatan hastalardan alınan solunum yolu numunelerinde influenza ve diğer solunum yolu virüsleri çalışılmaktadır. Bu kapsamda alınan solunum yolu numuneleri dolaşımdaki influenza ve diğer solunum yolu virüsleri dağılımı; toplanan veriler saptanan viral etkenlerin coğrafik dağılımı, yaşa göre dağılımı, neden olduğu semptomlar, epidemiyolojik veriler vb. hakkında bilgi vermektedir. Sürveyans kapsamında elde edilen veriler değerlendirilerek haftalık rapor olarak Halk Sağlığı Genel Müdürlüğü’nün “www.grip.gov.tr”
+Sentinel İnfluenza Benzeri Hastalık Sürveyansı kapsamında sürveyansta görevli aile hekimlerine influenza benzeri hastalık semptomları ile başvuran ayaktan hastalardan ve Sentinel Ağır Akut Solunum Yolu Enfeksiyonu Sürveyansı kapsamında görevli yataklı tedavi kurumları tarafındanağır akutsolunum yolu enfeksiyonu nedeni ile yeni yatan hastalardan alınan solunum yolu numunelerinde influenza ve diğer solunum yolu virüsleri çalışılmaktadır. Bu kapsamda alınan solunum yolu numuneleri dolaşımdaki influenza ve diğer solunum yolu virüsleri dağılımı; toplanan veriler saptanan viral etkenlerin coğrafik dağılımı, yaşa göre dağılımı, neden olduğu semptomlar, epidemiyolojik veriler vb. hakkında bilgi vermektedir. Sürveyans kapsamında elde edilen veriler değerlendirilerek haftalık rapor olarak Halk Sağlığı Genel Müdürlüğü’nün “www.grip.gov.tr”
 
 İnfluenzadan korunmada en etkin yöntemler aşılama ve kişisel hijyen kuralları (sık el yıkama, hasta kişiler ile temastan kaçınma vb.) ile birlikte korunma önlemlerine uymaktır. Hastalığın bulaşının ve toplumda yayılımının önlenmesi kapsamında, olabildiğince kapalı ve kalabalık alanlardan uzak durulması, bu alanlarda tıbbi maske kullanımı, el hijyeni başta olmak üzere kişisel hijyen kurallarına uyulması oluşturmaktadır. İnfluenza, toplum içerisinde hasta olan kişilerden sağlam kişilere bulaşmaktadır. Bu nedenle grip olan kişilerin; toplumda hastalığın yayılımına neden olmamak için, hastalık süresince toplumdan ve kalabalık ortamlardan uzak durması, zorunluluk durumlarında mutlaka maske kullanması, hekimin öneri ve tavsiyeleri doğrultusunda ilaç kullanmaları gereklidir.
 
@@ -105,15 +103,11 @@ Klinik çalışmalarda, hastaların şikayetlerinin başladığı erken dönemde
 
 ***Solunum güçlüğü; Çocuk hastalarda yaşa göre normalden hızlı solunum, interkostal çekilmeler (retraksiyon)
 
-varlığı, yardımcı solunum kaslarının kullanımı, hırıltılı inlemeli solunum, oda havasında siyanoz varlığı ve apne gelişimi solunum güçlüğü bulguları olarak değerlendirilir. Solunum sayısının iki aylıktan küçük çocuklarda
-
-≥60/dakika, 2 ay – 12 ay arasında ≥50/dakika, 12 ay – 5 yaş arasında ≥ 40/dakika (takipne) olarak değerlendirilir.
+varlığı, yardımcı solunum kaslarının kullanımı, hırıltılı inlemeli solunum, oda havasında siyanoz varlığı ve apne gelişimi solunum güçlüğü bulguları olarak değerlendirilir. Solunum sayısının iki aylıktan küçük çocuklarda ≥60/dakika, 2 ay – 12 ay arasında ≥50/dakika, 12 ay – 5 yaş arasında ≥ 40/dakika (takipne) olarak değerlendirilir.
 
 İçinde bulunduğumuz ve influenza aktivitesinin başladığı 2024-2025 grip mevsiminde sağlık kurumlarında muayene olan, antiviral tedavi başlanması uygun görülen ve antiviral ilaç reçete edilen hastaların ilaçlara ücretsiz erişiminin sağlanması için;
 
-- Birinci basamak sağlık kurumlarında tanı alan ve ilaç reçete edilen hastaların, reçete edilen ilaca herhangi bir sorun yaşanmadan erişimlerinin sağlanması amacıyla, İl Sağlık Müdürlüğü tarafından il genelinde, ilin coğrafi yapısı ve vatandaşların sağlık kurumlarına erişim kolaylığı göz önüne alınarak, İl Sağlık Müdürlüğü, İlçe Sağlık
-
-Müdürlüğü (İSM)/Toplum Sağlığı Merkezi (TSM) ve aile hekimliği birimleri düzeyinde dağıtımlarının yapılabilmesi için planlama yapılması,
+- Birinci basamak sağlık kurumlarında tanı alan ve ilaç reçete edilen hastaların, reçete edilen ilaca herhangi bir sorun yaşanmadan erişimlerinin sağlanması amacıyla, İl Sağlık Müdürlüğü tarafından il genelinde, ilin coğrafi yapısı ve vatandaşların sağlık kurumlarına erişim kolaylığı göz önüne alınarak, İl Sağlık Müdürlüğü, İlçe Sağlık Müdürlüğü (İSM)/Toplum Sağlığı Merkezi (TSM) ve aile hekimliği birimleri düzeyinde dağıtımlarının yapılabilmesi için planlama yapılması,
 
 - İl Sağlık Müdürlüğü bünyesinde bulunan ilaçların hastanelere (Sağlık Bakanlığı'na bağlı hastaneler ile üniversite hastaneleri, özel hastaneler), İSM/TSM ve aile sağlığı merkezlerine dağıtımının sağlanması,
 

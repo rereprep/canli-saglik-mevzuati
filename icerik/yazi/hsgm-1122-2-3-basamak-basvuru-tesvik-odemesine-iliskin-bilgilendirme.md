@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,9 +25,7 @@ Konu : 2. - 3. Basamak Başvuru Teşvik
 
 DAĞITIM YERLERİNE
 
-Kronik hastalık tarama ve takiplerinin daha etkin şekilde yürütülebilmesi amacıyla, Hastalık Yönetim
-
-Platformu (HYP) üzerinden yapılan muayene kayıtlarında, işlem sonucunda kişinin aile hekimi tarafından hastaneye sevk edilmesini takiben Merkezi Hekim Randevu Sistemi (MHRS) üzerinden iki ay içerisinde sevk edilen kliniğe randevu oluşturulması durumunda, bu kişilerin hastane başvurularının 2. ve 3. basamak başvuru teşvik ödemesine esas muayene sayısına dâhil edilmemesi yönünde gerekli düzenlemeler yapılmıştır.
+Kronik hastalık tarama ve takiplerinin daha etkin şekilde yürütülebilmesi amacıyla, Hastalık Yönetim Platformu (HYP) üzerinden yapılan muayene kayıtlarında, işlem sonucunda kişinin aile hekimi tarafından hastaneye sevk edilmesini takiben Merkezi Hekim Randevu Sistemi (MHRS) üzerinden iki ay içerisinde sevk edilen kliniğe randevu oluşturulması durumunda, bu kişilerin hastane başvurularının 2. ve 3. basamak başvuru teşvik ödemesine esas muayene sayısına dâhil edilmemesi yönünde gerekli düzenlemeler yapılmıştır.
 
 Ayrıca, kronik hastalık raporlarının yenilenmesi amacıyla kişinin doğrudan rapor polikliniklerine başvurması veya aile hekimine başvurusunu takiben rapor polikliniklerine sevk edilmesi durumunda, bu başvuruların da 2. ve 3. basamak başvuru teşvik ödemesine esas başvuru sayısına dâhil edilmemesi yönündeki çalışmalar da tamamlanmıştır.
 

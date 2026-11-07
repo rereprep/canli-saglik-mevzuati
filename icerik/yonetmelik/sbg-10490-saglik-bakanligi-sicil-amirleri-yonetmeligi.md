@@ -89,9 +89,7 @@ durum: "yürürlükte"
 
 **2004/10**
 
-Bakanlığımız ile Kurum ve kuruluşlar arasındaki işlemlerin asgari seviyeye indirilerek iş ve
-
-işlemlerin hızlandırılması maksadıyla aşağıda belirtilen hususlara uyulması gerekmektedir.
+Bakanlığımız ile Kurum ve kuruluşlar arasındaki işlemlerin asgari seviyeye indirilerek iş ve işlemlerin hızlandırılması maksadıyla aşağıda belirtilen hususlara uyulması gerekmektedir.
 
 1- Disiplin Şubesinden Sorumlu İl Sağlık Müdür Yardımcısı, Şube Müdürü ve Şubede yetkili
 
@@ -103,9 +101,7 @@ gönderilmesi.
 
 3- Bazı Müfettiş raporlarına ait savunma istek yazımızın yanlış yorumlanması üzerine Valilikçe
 
-ceza uygulamasına gidildiği, ayrıca konu içinde ismi geçen şahıslarında istenmediği halde
-
-savunmalarının alınarak gönderildiği görülmektedir.
+ceza uygulamasına gidildiği, ayrıca konu içinde ismi geçen şahıslarında istenmediği halde savunmalarının alınarak gönderildiği görülmektedir.
 
 4- Yazışmaların sürüncemede bırakılmaması, tenkide mahal verilmemesi ve zamanında cevap
 
@@ -113,15 +109,11 @@ verilmesi.
 
 5- Disiplin cezalarına karşı yapılan itirazların tebellüğ belgeleri ile birlikte 7 günlük yasal süre
 
-dikkate alınarak Valilik kanalıyla gönderilmesi. Yasal sürede itirazda bulunmayanların
-
-taleplerinin işleme alınmaması.
+dikkate alınarak Valilik kanalıyla gönderilmesi. Yasal sürede itirazda bulunmayanların taleplerinin işleme alınmaması.
 
 6- Valilikçe uygulanan cezalara ait ceza onayları, savunmaları ve ceza onayına ait tebellüğ
 
-belgelerinin mutlaka eksiksiz olarak gönderilmesi ve verilen cezalarda tekerrür hükümlerine
-
-dikkat edilmesi.
+belgelerinin mutlaka eksiksiz olarak gönderilmesi ve verilen cezalarda tekerrür hükümlerine dikkat edilmesi.
 
 7- Valilikçe verilen cezaların toplu liste halinde gönderilmesi durumunda evraklarda eksiklikler
 
@@ -133,37 +125,19 @@ hatasız olarak bildirilmesi.
 
 9- İl veya İlçe İdare Kurulunca verilen Men-i Muhakeme kararları ikinci dereceden onandıktan
 
-sonra, Lüzumu Muhakeme kararları Mahkemece sonuçlandıktan sonra kesinleşme şerhi taşıyan
-
-suretlerin gönderilmesi. (mahkeme safahatlarının valiliğinizce takip edilerek)
+sonra, Lüzumu Muhakeme kararları Mahkemece sonuçlandıktan sonra kesinleşme şerhi taşıyan suretlerin gönderilmesi. (mahkeme safahatlarının valiliğinizce takip edilerek)
 
 10-Muhakkik Raporlarında Devlet Memurluğundan Çıkarma cezası teklifleri dışındaki işlemlerin
 
-Valilikçe uygulanması ve işlemler bitirildikten sonra ilgili belgelerle birlikte Bakanlığımıza bilgi
+Valilikçe uygulanması ve işlemler bitirildikten sonra ilgili belgelerle birlikte Bakanlığımıza bilgi verilmesi, Muhakkik Raporundaki teklife istinaden İl içi tayinlerinde Valilikçe yapılarak sonucundan bilgi verilmesi.
 
-verilmesi, Muhakkik Raporundaki teklife istinaden İl içi tayinlerinde Valilikçe yapılarak
-
-sonucundan bilgi verilmesi.
-
-11-Müfettiş raporlarında Kademe İlerlemesinin Durdurulması cezası tekliflerinde ilgililerin kadro
-
-ve derecelerine göre değerlendirme yapılması, teklifin reddi halinde alt ceza uygulamasının 15
+11-Müfettiş raporlarında Kademe İlerlemesinin Durdurulması cezası tekliflerinde ilgililerin kadro ve derecelerine göre değerlendirme yapılması, teklifin reddi halinde alt ceza uygulamasının 15
 
 günlük yasal süre içerisinde yerine getirilmesi ve sonucundan bilgi verilmesi.
 
-12-Yüksek Disiplin Kurulu’na devamsızlık sebebi ile gönderilen dosyalarda kesintisiz 10 gün
+12-Yüksek Disiplin Kurulu’na devamsızlık sebebi ile gönderilen dosyalarda kesintisiz 10 gün göreve gelinmemesi halinde 94.madde hükümlerine göre işlem tesis edilerek Bakanlığımıza gönderilmesi ve bu durumda Devlet Memurluğundan Çıkarma cezası teklif edilmemesi.
 
-göreve gelinmemesi halinde 94.madde hükümlerine göre işlem tesis edilerek Bakanlığımıza
-
-gönderilmesi ve bu durumda Devlet Memurluğundan Çıkarma cezası teklif edilmemesi.
-
-13-Devlet Memurluğundan Çıkarma cezasını gerektiren fiillerden rapora ait eklerin tamamının
-
-eksiksiz gönderilmesi. 14-Emekliye ayrılan istifa eden ve askere giden, başka kuruma eğitim amaçlı yada muvafakat
-
-alarak geçen personelin adreslerinin mutlaka Valilikçe tespit edilerek bilgi olarak saklanması,
-
-savunma ve tebellüğ belgesi istenildiğinde buna dair işlemlerinin tamamlanarak gönderilmesi.
+13-Devlet Memurluğundan Çıkarma cezasını gerektiren fiillerden rapora ait eklerin tamamının eksiksiz gönderilmesi. 14-Emekliye ayrılan istifa eden ve askere giden, başka kuruma eğitim amaçlı yada muvafakat alarak geçen personelin adreslerinin mutlaka Valilikçe tespit edilerek bilgi olarak saklanması, savunma ve tebellüğ belgesi istenildiğinde buna dair işlemlerinin tamamlanarak gönderilmesi.
 
 Belirtilen hususlarla ilgili tebligatın yapılamaması durumunda 7201 sayılı tebligat Kanunu’nun
 
@@ -171,9 +145,7 @@ Belirtilen hususlarla ilgili tebligatın yapılamaması durumunda 7201 sayılı 
 
 Gazete örneğinin gönderilmesi gerekmektedir. 15-Valilikçe uygulanan cezanın gönderilmeden cezanın iptaline dair evrakların gönderilmemesi.
 
-Yukarıda belirtilen hususların yerine getirilmesinde gecikmeye ve gereksiz yazışmalara
-
-neden olan ve ihmali görülen personel hakkında 657 sayılı Devlet Memurları Kanunu’nun
+Yukarıda belirtilen hususların yerine getirilmesinde gecikmeye ve gereksiz yazışmalara neden olan ve ihmali görülen personel hakkında 657 sayılı Devlet Memurları Kanunu’nun
 
 125.Maddesi Hükümleri gereğince Bakanlığımızca işlem yapılacaktır.
 

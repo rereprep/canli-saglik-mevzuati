@@ -41,9 +41,7 @@ kontrol_edildi: true
 
 (5) Bu Kanun kapsamına giren ürünlerin üretildiği ve kullanıldığı yerlerde gerekli sağlık tedbirleri alınır.
 
-(6) Bu Kanun kapsamındaki ürün bağımlılarının tedavi ve rehabilitasyonları Sağlık Bakanlığının koordinasyonunda,
-
-Sağlık Bakanlığı, ilgili diğer merkezi ve mahalli kurum ve kuruluşlar tarafından, gerekli merkezler açılarak yürütülür.
+(6) Bu Kanun kapsamındaki ürün bağımlılarının tedavi ve rehabilitasyonları Sağlık Bakanlığının koordinasyonunda, Sağlık Bakanlığı, ilgili diğer merkezi ve mahalli kurum ve kuruluşlar tarafından, gerekli merkezler açılarak yürütülür.
 
 (7) Bu Kanun kapsamına giren ürünlerin dış ambalajları ile varsa iç ambalajlarına da sağlığa zararlı olduğu ve çocuklara verilemeyeceği görünür ve okunaklı bir şekilde yazılır. Bu uyarı yazılarına resim ve şekiller de eklenebilir. Bu uyarı yazılarının, resim ve şekillerin kaplayacağı alan, toplam alanın yüzde otuzundan az olamaz.
 
@@ -65,13 +63,9 @@ Sağlık Bakanlığı, ilgili diğer merkezi ve mahalli kurum ve kuruluşlar tar
 
 **MADDE 4 –** (1) Bu Kanunun;
 
-a) 2 nci maddesinin sekizinci fıkrasındaki teşvik edici tedbirler Hazine Müsteşarlığının görüşü alınarak Maliye
+a) 2 nci maddesinin sekizinci fıkrasındaki teşvik edici tedbirler Hazine Müsteşarlığının görüşü alınarak Maliye Bakanlığınca belirlenir.
 
-Bakanlığınca belirlenir.
-
-b) Diğer hükümlerinin uygulanmasına ilişkin esas ve usuller ilgili Devlet bakanlıkları ile İçişleri, Millî Eğitim,
-
-Çalışma ve Sosyal Güvenlik ve Sanayi ve Ticaret bakanlıklarının görüşleri alınarak, Sağlık Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+b) Diğer hükümlerinin uygulanmasına ilişkin esas ve usuller ilgili Devlet bakanlıkları ile İçişleri, Millî Eğitim, Çalışma ve Sosyal Güvenlik ve Sanayi ve Ticaret bakanlıklarının görüşleri alınarak, Sağlık Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
 
 **Yürürlük**
 

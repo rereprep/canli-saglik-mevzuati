@@ -180,13 +180,7 @@ Arındırma merkezinde, denetimli serbestlik tedavi hizmetinin verilmesi halinde
 
 • Denetimli serbestlik tedavi programı tamamlanan ya da sadece denetimli
 
-serbestlik tedbiri bulunan yükümlünün, uyuşturucu veya uyarıcı madde kullanıp
-
-kullanmadığımın tespit edilmesi için denetimli serbestlik müdürlüklerince
-
-gönderilmesi durumunda, gerekli laboratuvar tetkikleri ve klinik
-
-değerlendirmesi yapılır.
+serbestlik tedbiri bulunan yükümlünün, uyuşturucu veya uyarıcı madde kullanıp kullanmadığımın tespit edilmesi için denetimli serbestlik müdürlüklerince gönderilmesi durumunda, gerekli laboratuvar tetkikleri ve klinik değerlendirmesi yapılır.
 
 • Denetimli serbestlik sürecindeki kişilerin kontrol değerlendirilmesi için sevk
 

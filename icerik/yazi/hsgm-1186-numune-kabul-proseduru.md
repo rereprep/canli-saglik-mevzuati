@@ -46,21 +46,15 @@ Numune kabul kriterlerine uymayan ve Numune Kayıt Kabul Birimi tarafından kabu
 
 **4.1. HSRLDB’ye gelen numune çeşitleri:**
 
- Üretim izni, ithalat izni, ruhsatlandırma, denetim ve satın alma kapsamındaki numuneler
-
- Halk sağlığına yönelik kontrol amaçlı numuneler
+ Üretim izni, ithalat izni, ruhsatlandırma, denetim ve satın alma kapsamındaki numuneler  Halk sağlığına yönelik kontrol amaçlı numuneler
 
  Adli kontrol numuneleri/Zehirlenme vaka numuneleri
 
- Adli soruşturma kapsamında toksik madde kontrolüne yönelik gıda ve su numuneleri
-
- Şikâyet amaçlı numuneler
+ Adli soruşturma kapsamında toksik madde kontrolüne yönelik gıda ve su numuneleri  Şikâyet amaçlı numuneler
 
  Piyasa kontrolü amaçlı numuneler
 
- Kimyasal Silah Sözleşmesi ile ilişkili kimyasal maddelerin analizine yönelik numuneler
-
- Özel istek numuneleri
+ Kimyasal Silah Sözleşmesi ile ilişkili kimyasal maddelerin analizine yönelik numuneler  Özel istek numuneleri
 
 **4.2. Deney/Analiz Grubuna Göre Numune Çeşitleri:**
 
@@ -266,9 +260,7 @@ Virüs analizi **amacıyla alınan su numuneleri en geç 48 saat içinde laborat
 
  **<i>Cyanobacteria</i> tespit ve sayımı için yüzme suyu numuneleri,** steril, sızdırmaz, ağzı sıkı kapalı kahverenkli cam şişelerde en kısa sürede laboratuvara ulaştırılmalıdır. Bu süre numunenin alındığı saatten itibaren soğuk zincirde en fazla 24 saattir. Tablo 1’de numune cinsine göre numune miktarları verilmiştir.
 
-**1.1.3. Hemodiyaliz Çözeltilerinin Dilüsyonunda Kullanılan Su/Sterilizasyon Suyu Numunelerinin Alımında Kullanılan Şişelerin Özellikleri, Saklanması ve Taşınması**
-
- Hemodiyaliz çözeltilerinin dilüsyonunda kullanılan su/ Sterilizasyon Suyu numunelerinin mikrobiyal kontaminasyon testi içim numune alımında kullanılacak şişeler, daha önce başka amaçla kullanılmamış, dar ağızlı, ağzı sıkı kapalı, kahverenkli cam şişe veya bu amaç için üretilmiş steril plastik (PP Polipropilen, PE Polietilen) şişe veya cam şişe olmalıdır. Bakteriyal endotoksin testi için numuneler **pirojensiz** özel numune kaplarında getirilmelidir Numune şişeleri sızdırmaz özellikte olmalıdır. **Steril olmayan, kırık-çatlak ve/veya sızdırma yapan şişelere ait numuneler kabul edilmez.**
+**1.1.3. Hemodiyaliz Çözeltilerinin Dilüsyonunda Kullanılan Su/Sterilizasyon Suyu Numunelerinin Alımında Kullanılan Şişelerin Özellikleri, Saklanması ve Taşınması**  Hemodiyaliz çözeltilerinin dilüsyonunda kullanılan su/ Sterilizasyon Suyu numunelerinin mikrobiyal kontaminasyon testi içim numune alımında kullanılacak şişeler, daha önce başka amaçla kullanılmamış, dar ağızlı, ağzı sıkı kapalı, kahverenkli cam şişe veya bu amaç için üretilmiş steril plastik (PP Polipropilen, PE Polietilen) şişe veya cam şişe olmalıdır. Bakteriyal endotoksin testi için numuneler **pirojensiz** özel numune kaplarında getirilmelidir Numune şişeleri sızdırmaz özellikte olmalıdır. **Steril olmayan, kırık-çatlak ve/veya sızdırma yapan şişelere ait numuneler kabul edilmez.**
 
  Bakteriyal Endotoksin için 2 adet ve Mikrobiyolojik Analiz için 2 adet olmak üzere toplam 4 adet 100 mLlik numune olmalıdır. Numune miktarı istenen parametrelerin çalışılması için yeterli olmalı ve buna uygun yeterli büyüklük ve/veya sayıda şişeler kullanılmalıdır. Tablo 1’de numune cinsine göre numune miktarları verilmiştir. **Yeterli miktarda gönderilmeyen numuneler kabul edilmez.**
 
@@ -616,9 +608,7 @@ Liste-1’de yer alan Sinir Ajanlarının İşletme içi metot/ LC-
 
 İdrar/10 mL 20 iş günü
 
-serbest metabolitlerinden alkil MS/MS
-
-alkilfosfonatların analizi
+serbest metabolitlerinden alkil MS/MS alkilfosfonatların analizi
 
 Kimyasal Silahlar Sözleşmesi Eklerinden
 
@@ -626,9 +616,7 @@ Liste-1’de yer alan Sinir Ajanlarının İşletme içi metot/ GC-
 
 İdrar/10 mL 20 iş günü
 
-serbest metabolitlerinden alkil MS/MS
-
-alkilfosfonatların analizi
+serbest metabolitlerinden alkil MS/MS alkilfosfonatların analizi
 
 **KİMYASAL SAVAŞ AJANLARI TANI VE DOĞRULAMA LABORATUVARINDA YAPILAN ANALİZLER**
 

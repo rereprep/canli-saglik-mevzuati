@@ -23,9 +23,7 @@ DAĞITIM YERLERİNE
 
 İlgi : 03.06.2022 tarihli ve E-58271140-756.02-708 sayılı yazımız.
 
-Bilindiği üzere, 17 Mayıs 2024 tarihli Resmî Gazetede 2024/7 sayılı Tasarruf Tedbirleri konulu
-
-Cumhurbaşkanlığı Genelgesi yayımlanmıştır. Bu Genelgenin “Diğer Hususlar” başlığında; “… Genelgenin yayımından önce yürürlükte bulunan mevzuat çerçevesinde, bu Genelge kapsamına giren hususlarla ilgili münferit olarak izin alınmış iş ve işlemler için bu Genelgenin yayımı tarihinden itibaren 3 ay içerisinde yeniden izin alınacaktır.” hükmü yer almaktadır. Bu kapsamda, Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinin 18 inci maddesinin ikinci fıkrasının (c) bendinin (8) numaralı alt bendi uyarınca yapılacak aile sağlığı merkezi (ASM) kiralamaları için 2024/7 sayılı Tasarruf Tedbirleri konulu Genelge uyarınca Cumhurbaşkanlığından yeniden kiralama izni alınmış olup, ekte gönderilmiştir.
+Bilindiği üzere, 17 Mayıs 2024 tarihli Resmî Gazetede 2024/7 sayılı Tasarruf Tedbirleri konulu Cumhurbaşkanlığı Genelgesi yayımlanmıştır. Bu Genelgenin “Diğer Hususlar” başlığında; “… Genelgenin yayımından önce yürürlükte bulunan mevzuat çerçevesinde, bu Genelge kapsamına giren hususlarla ilgili münferit olarak izin alınmış iş ve işlemler için bu Genelgenin yayımı tarihinden itibaren 3 ay içerisinde yeniden izin alınacaktır.” hükmü yer almaktadır. Bu kapsamda, Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinin 18 inci maddesinin ikinci fıkrasının (c) bendinin (8) numaralı alt bendi uyarınca yapılacak aile sağlığı merkezi (ASM) kiralamaları için 2024/7 sayılı Tasarruf Tedbirleri konulu Genelge uyarınca Cumhurbaşkanlığından yeniden kiralama izni alınmış olup, ekte gönderilmiştir.
 
 Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinin 18 inci maddesinin ikinci fıkrasının (c) bendinin (8)
 
@@ -35,9 +33,7 @@ numaralı alt bendi uyarınca yapılacak ASM kiralama iş ve işlemlerinde ektek
 
 Vadeli Planda “Birinci basamak sağlık hizmetlerinin sağlık sistemi içerisindeki etkinliği artırılacak ve hizmet basamakları arasındaki entegrasyon güçlendirilecektir.” hükmü, Cumhurbaşkanlığı 12. Kalkınma Planının (2024- 2028) 709.3 sıralı politika ve tedbirler kısmında ASM sayısının artırılmasını öngören düzenleme ve Bakanlığımız 2024-2028 Stratejik Planında aile hekimi başına düşen nüfusun düşürülmesi hedefi yer almaktadır.
 
-Bu kapsamda, ilgi yazı çerçevesinde kiralanması gereken ASM binaları için ilgili bütçe kalemlerinden yapılacak harcamaların ivedilikle planlanarak Strateji Geliştirme Başkanlığının 2018/15 sayılı Genelgesi kapsamında ödenek taahhüt talebinde bulunulması, gerekli tadilatların yapılması ve malzeme temini sağlanarak
-
-ASM’ye uygun hale getirilmesi hususunda;
+Bu kapsamda, ilgi yazı çerçevesinde kiralanması gereken ASM binaları için ilgili bütçe kalemlerinden yapılacak harcamaların ivedilikle planlanarak Strateji Geliştirme Başkanlığının 2018/15 sayılı Genelgesi kapsamında ödenek taahhüt talebinde bulunulması, gerekli tadilatların yapılması ve malzeme temini sağlanarak ASM’ye uygun hale getirilmesi hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 

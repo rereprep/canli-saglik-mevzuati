@@ -17,8 +17,6 @@ kontrol_edildi: true
 
 TC Net
 
-
-
 Sayı : E-21001706-010.06.02 Konu : Aşı Sonrası İstenmeyen Etkiler
 
 (ASİE) Genelgesi
@@ -131,9 +129,7 @@ GBP kapsamında yer alan aşıların karşılaşılması olası istenmeyen etkil
 
 **Lokal reaksiyon®** 38 °C"yi gocen
 
-(nürı, sişlik, Huzursuzluk, kırgahk ve sistemik belirtiler*
-
-kızarıklk) ates® BCG % 90- 95 DaBT-IPA- % 20-40 % 3-5 % 20-40 Hib Td/DT/TT ~ %10* ~ %10 - 1625 OPA <½1 <%1** Hepatit-B erişkinde %15. 61-6
+(nürı, sişlik, Huzursuzluk, kırgahk ve sistemik belirtiler* kızarıklk) ates® BCG % 90- 95 DaBT-IPA- % 20-40 % 3-5 % 20-40 Hib Td/DT/TT ~ %10* ~ %10 - 1625 OPA <½1 <%1** Hepatit-B erişkinde %15. 61-6
 
 cocukta % 5 KKK*** %10 *65-15 %5 döküntü, <%1 artralji, <%1 lenfadenopati,
 
@@ -143,9 +139,7 @@ KKK: Konmü, Kumkęä, Kobalulk Aşn Hit: Hemof Bas Influenza sip b Agisa KPA: K
 
 • Aşı yerine soğuk uygulama, parasetamol b Ekstra siva verne, ılik pansuman uygulama, parasetamol e Ekstra siva verme, parasetamol *Lokal reaksiyonlar rapel dozlarda %50-85'e kadar çıkabilir. ** Sistemik belirtiler ishal, baş ağrısı ve/veya kas ağrısı, uyku hali, iştahsızlık şeklinde olabilir. *** Kızamıkçık aşılamasıı takiben en sık görülen ASTE'ler, ateş, lenfadenopati, döküntüi, boğaz ve baş agrısı şeklinde hufif kızamıkçık tablosu ve artraljidir. Artrit ve artralji yalnızca duyarlı kişilerde daha yaygı olarak yetişkinlerde özellikle kadınlarda gözlenir. Artralji çocuklarda <% 1 görülürken adolesan ve yetişkın kadınlarda %25 sıklıkta görülmektedir. Kullanılan kabakulak suyuna bağlı değişen sakaklarda parotit görülebilir. ****Ateş sıklığa, prematürelerde ve düşük doğum ağırlıklı bebeklerde zamamında doğan bebeklere göre daha fazla olup çoğu zaman 39°C azerindedir. Tablo 2. Nadir görülen, ciddi yan etkiler
 
-Ortaya çıkas 1 milyon dozda ALŞe Reaksiyon
-
-süresi görülme sıklığı
+Ortaya çıkas 1 milyon dozda ALŞe Reaksiyon süresi görülme sıklığı
 
 Lenfadenit 2 halta -6 ay 100-1000 BCG BCG Osteiti 1-12 ay 1-700
 
@@ -177,9 +171,7 @@ vikseklir). Hepatit-B Anaflaksi 0-1 saat 1-2
 
 Febril konvälsiyon® 5-12 gün 333
 
-Trombositopenil 1-6 hafta 33 KKK (Kızamuk'*, Anaflaksi' 0-1 saat D-1 Kabakulak* ve Ensefa lopati/Ensefalit' 5-15 gin 0-1 Kazamakçak® • Aseptik menenjit- 15-21 gün 1-1000- bileşenine bağli) - Artrit? 1-3 hafta Çocuklarda nodir,
-
-ancak adolesan ve
+Trombositopenil 1-6 hafta 33 KKK (Kızamuk'*, Anaflaksi' 0-1 saat D-1 Kabakulak* ve Ensefa lopati/Ensefalit' 5-15 gin 0-1 Kazamakçak® • Aseptik menenjit- 15-21 gün 1-1000- bileşenine bağli) - Artrit? 1-3 hafta Çocuklarda nodir, ancak adolesan ve
 
 kadınlarda 100.000 Hib Bildirimi yoktur KPA Konvilsiyon -0-72 saat Nadir Ağırlıklrolarak DaBT bileşenine bağladır. * Prematüre bebeklerde görülebilir. * Ozellikle çok sayıda pekiştirme dozu alanlarda bildirilmiştir. © Kullanılan aşı suşuna bağlı olarak görülme sıklığı değişmektedir.
 
@@ -323,19 +315,13 @@ ASİE İzleme Sistemi'ne dähil olup bildirimi yapılacak olan ASI'ler Tablo 4"t
 
 3. Diğer İstenmeyen Etkiler Aşıdan sonra 1 saat içinde ortaya çıkan Anaflaksi Aşıdan sonra birkaç saat içinde ortaya çıkan Toksik Sok Sendromu Aşıdan sonra 4 saat içinde ortaya çıkan (deri Akut allerjik reaksiyonlar bulguları daha geç görülebilir) DaBT-IPA-Hib aşsandan sonra 24 saat Hipoton ik-hiporesponsif atak içinde ortaya çıkan Aşıdan sonra I hafta içinde ortaya çakan Sepsis Kızamıkçık bileşenli aşılarlardan sonra 1-3 hafla içinde ortaya çıkan Artrit Kazamık bileşenli aşılardan sonra 1-6 hatta Trombositopeni İçinde ortaya çıkan DaBT-IPA-Hib ayisından sonra 24 saat Apne - Bradikardi içinde ortaya çıkan BCG aşısından sonra 1 - 12 ay içinde ortaya Yaygın BCG enfeksiyonu, BCG Osteiti çıkan
 
-Yukarıda sunulan hastalıklar haricinde sağlık
-
-personeli ya da toplum tarafından așılamayla ilgisi
-
-olduğu düşünülen:
+Yukarıda sunulan hastalıklar haricinde sağlık personeli ya da toplum tarafından așılamayla ilgisi olduğu düşünülen:
 
 a) Ciddi etkiler* Zaman saun olmaksızın b) Kumelenme,
 
 e) Toplumda ciddi kaygı ya da olumsuz propaganda
 
-nedeni olan durumlar ASİE kapsamanda
-
-incelenmelidir. *Ciddi ASİE: Ciddi advers reaksiyon, ölüme, hayati tehlikeye, hastaneye yatmaya veya hastanede yatma süresinin uzamasına, kaleı veya önemli bir sakatlığa veya maluliyete, doğumsal anomaliye veya kusura neden olan advers reaksiyonlardır.
+nedeni olan durumlar ASİE kapsamanda incelenmelidir. *Ciddi ASİE: Ciddi advers reaksiyon, ölüme, hayati tehlikeye, hastaneye yatmaya veya hastanede yatma süresinin uzamasına, kaleı veya önemli bir sakatlığa veya maluliyete, doğumsal anomaliye veya kusura neden olan advers reaksiyonlardır.
 
 Bu kapsamdaki tüm istenmeyen etkiler Ek 2'de sunulan vaka tamımlarına uygunluğu degerlendirilerek bildirilmelidir. 2.2. ASİE İzleme Sistemi Kapsamında Bildirimi Gerekmeyen İstenmeyen Etkiler:
 
@@ -391,27 +377,17 @@ ASI'lerin dağılım, ASİE saptanması ile vaka araştırmasının başlatılma
 
 - Ciddi ASI'lerin dağılımı gibi konular yer alır. h. Gerekli durumlarda Il Sağlık Müdürlüklerine destek verir. ı. Bakanlık içindeki ilgili kuruluşlar ve uluslararası kuruluşlar ile toplum iletişimini sağlar. i. Sınıflandırma sonuçları ile birlikte ilgili farmakovijilans verilerini TITCK 'ya resmi yazı ile elektronik bilgi yönetim sistemi üzerinden gönderir. Bildirim süresi ciddi ASİE vakaları, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar için on beş gündür. Diger ASİE vakalanm ise üçer aylık periyodlarla toplu olarak bildirir. j. Dünya Sağlık Örgütü veya Bakanlıkça pandemi endemi olarak tanılanan durumlarda Sağlık Bakanlığınca yürütülen ve aşı temininin Sağhk Bakanlığınca yapıldığı aşılama
 
-programlarında elektronik yolla toplanan ASİE lerin nedeninin sınıflamasını yapar ve
+programlarında elektronik yolla toplanan ASİE lerin nedeninin sınıflamasını yapar ve değerlendirme sonuçlanı ile birlikte ilgili farmakovijilans verilerini TITCK'ya iletir.
 
-değerlendirme sonuçlanı ile birlikte ilgili farmakovijilans verilerini TITCK'ya iletir.
+Bildirim stresi ciddi ASİE vakalan, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar için on beş gündür. Diğer ASİE vakalarımı ise üçer aylık periyodlarla toplu olarak bildirir.
 
-Bildirim stresi ciddi ASİE vakalan, kümelenme ya da toplumda ciddi kaygı ya da
-
-olumsuz propaganda nedeni olan durumlar için on beş gündür. Diğer ASİE vakalarımı ise
-
-üçer aylık periyodlarla toplu olarak bildirir.
-
-k. Beklenmeyen ASİE olması durumunda, 24 sant içerisinde bu bildirimi clektronik belge
-
-yönetim sistemi üzerinden Ek-l'e uygun olarak TITCK'ya gönderir.
+k. Beklenmeyen ASİE olması durumunda, 24 sant içerisinde bu bildirimi clektronik belge yönetim sistemi üzerinden Ek-l'e uygun olarak TITCK'ya gönderir.
 
 1. Merkez ASİE Danışma Kurulunun sekreteryası yürütür.
 
 ### 5. MERKEZ ASİE DANIŞMA KURULU
 
-Merkez ASTE Danışma Kurulu, değerlendirme ve sınıflamamın yapılamadığı durumlar ile ciddi, kůmelenme ya da toplunda ciddi kaygı ya da olumsuz propaganda nedeni olan
-
-inceleyerek nedenlerinin saptanması ve nihai karanın verilerek vaka sınıflandırmasının yapılması amacıyla konunun uzmanlarından kurulmuş bir danışma
+Merkez ASTE Danışma Kurulu, değerlendirme ve sınıflamamın yapılamadığı durumlar ile ciddi, kůmelenme ya da toplunda ciddi kaygı ya da olumsuz propaganda nedeni olan inceleyerek nedenlerinin saptanması ve nihai karanın verilerek vaka sınıflandırmasının yapılması amacıyla konunun uzmanlarından kurulmuş bir danışma
 
 Merkez ASİE Danışma Kurulı; çocuk sağlığı ve hastalıklan uzmanları, epidemiyolog/ halk sağlığı uzmanları, erişkin ve çocuk enfeksiyon hastalıkları uzmanlan, immünologlar, virologlar, mikrobiyoloji uzmanlanı, çocuk ve erişkin nöroloji uzmanlanı, sosyal pediatri uzmanlari, alerji uzmanlan, patoloji uzmanlan, TITCK'dan sorumlu personel ve HSGM'den sorumlu personelden oluşur.
 

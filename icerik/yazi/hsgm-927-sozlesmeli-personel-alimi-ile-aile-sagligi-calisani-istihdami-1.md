@@ -29,17 +29,9 @@ KPSS-2025/4 Sağlık Bakanlığı Sözleşmeli Personel Alımı ile aile hekimli
 
 Bu kapsamda söz konusu personele ilişkin aşağıdaki açıklamalar çerçevesinde işlem tesis edilecektir.
 
-1) Sözleşmeli sağlık personelinin yerleştirildiği aile hekimliği biriminde sözleşme imzalamak istemesi halinde, görevlendirme süresinin herhangi bir zamanı içerisinde Aile Hekimliği Uygulama
+1) Sözleşmeli sağlık personelinin yerleştirildiği aile hekimliği biriminde sözleşme imzalamak istemesi halinde, görevlendirme süresinin herhangi bir zamanı içerisinde Aile Hekimliği Uygulama Yönetmeliği’nin 16 ncı maddesinin ikinci fıkrası çerçevesinde aile hekimliği hizmet sözleşmesi imzalayabilecektir. Bu personel aile hekimliği biriminde çalıştırılmak üzere yerleştirildiğinden ayrıca muvafakat aranmayacaktır.
 
-Yönetmeliği’nin 16 ncı maddesinin ikinci fıkrası çerçevesinde aile hekimliği hizmet sözleşmesi imzalayabilecektir. Bu personel aile hekimliği biriminde çalıştırılmak üzere yerleştirildiğinden ayrıca muvafakat aranmayacaktır.
-
-2) Aile sağlığı çalışanı hizmet sözleşmesi imzalamak istemeyen sözleşmeli sağlık personeli, 5258 sayılı Aile Hekimliği Kanununun 3 üncü maddesinin birinci ve ikinci fıkrası, Aile Hekimliği Uygulama
-
-Yönetmeliğinin 17 nci maddesinin birinci fıkrası ile 663 Sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında
-
-Kanun Hükmünde Kararnamenin 45/A maddesi Uyarınca İstihdam Edilen Sözleşmeli Personel İçin Hizmet
-
-Sözleşmesinin 6 ncı maddesinin birinci fıkrasının (ç) bendi hükümleri gereği yerleştirildikleri aile hekimliği birimlerine sözleşme süresince görevlendirilecektir.
+2) Aile sağlığı çalışanı hizmet sözleşmesi imzalamak istemeyen sözleşmeli sağlık personeli, 5258 sayılı Aile Hekimliği Kanununun 3 üncü maddesinin birinci ve ikinci fıkrası, Aile Hekimliği Uygulama Yönetmeliğinin 17 nci maddesinin birinci fıkrası ile 663 Sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 45/A maddesi Uyarınca İstihdam Edilen Sözleşmeli Personel İçin Hizmet Sözleşmesinin 6 ncı maddesinin birinci fıkrasının (ç) bendi hükümleri gereği yerleştirildikleri aile hekimliği birimlerine sözleşme süresince görevlendirilecektir.
 
 3) Atamalarına müteakip ilçe sağlık müdürlüğü veya toplum sağlığı merkezlerinde göreve başlama işlemleri tamamlanan sözleşmeli sağlık personelinin, aile sağlığı çalışanı hizmet sözleşmesi imzalayarak veya görevlendirme yapılmak suretiyle en geç ertesi günün mesai bitimine kadar yerleştirildikleri aile hekimliği biriminde göreve başlatılması sağlanacak, sözleşme yenileme süreçlerinde de görevin devamlılığı sağlanacaktır.
 

@@ -40,11 +40,7 @@ Her bir kurumun ihtiyacı doğrultusunda alım miktarı düşük olduğu için i
 
 #### -2-
 
-ihtiyaçların birleştirilmesi halinde gerekli rekabetin sağlanacağı ve daha az maliyetlerle
-
-temin edilebileceği düşünülen ihtiyaçların giderilmesi için,
-
-yapılmasının daha uygun olacağı düşünülmektedir.
+ihtiyaçların birleştirilmesi halinde gerekli rekabetin sağlanacağı ve daha az maliyetlerle temin edilebileceği düşünülen ihtiyaçların giderilmesi için, yapılmasının daha uygun olacağı düşünülmektedir.
 
 Diğer taraftan;
 
@@ -60,9 +56,7 @@ Teknik şartnamelerin rekabeti engelleyici nitelikte hazırlanmaması,
 
 Sözleşme sürecinde toplu alımla karşılanan ihtiyaçların zamanla artması veya azalması söz konusu olabileceğinden ihalelerin birim fiyat teklif alma suretiyle yapılması,
 
-Teslim alma, muayene-kabul, hakedişlerin ödenmesi, garanti, bakım-onarım ve diğer tüm hususlara ihale dokümanlarında yer verilmesi ve bu konuda gerekli özen ve dikkatin gösterilmesi,
-
-toplu alımlarda hedeflenen amaca ulaşmada büyük önem arz etmektedir.
+Teslim alma, muayene-kabul, hakedişlerin ödenmesi, garanti, bakım-onarım ve diğer tüm hususlara ihale dokümanlarında yer verilmesi ve bu konuda gerekli özen ve dikkatin gösterilmesi, toplu alımlarda hedeflenen amaca ulaşmada büyük önem arz etmektedir.
 
 Mezkûr kanun hükmünde de açıkça zikredildiği üzere, toplu alımlarda alım konusu mal veya hizmet bedellerinin her döner sermaye işletmesinin kendi bütçesinden karşılanması gerekmektedir. Bu nedenle yükleniciler tarafından sözleşme ediminin yerine getirilmesi sonucunda yapılacak ödemelere ilişkin tahakkuk işlemlerinin, toplu alımla ihtiyacı karşılanan her bir döner sermaye işletmesinin gider tahakkuk memurlarınca (gerçekleştirme memurlarınca) yapılması, ödeme belgelerinin ise, her döner sermaye işletmesinin ita amiri(harcama yetkilisi) tarafından onaylanması gerekmektedir. Bakanlığımıza bağlı döner sermayeli işletmelerde gider tahakkuk memuru olarak kimlerin görevlendirileceği hususu, 27/05/2004 tarihli ve 2004/76 sıra nolu Genelgede belirtilmiştir.
 

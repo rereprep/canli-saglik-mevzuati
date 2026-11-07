@@ -593,9 +593,7 @@ Rakım ve genel coğrafık tanım : Kaynağın rakımı, çıktığı yer (orman
 
 Jeolojik durumun kısaca tanımlanması : Arazinin genel jeolojik yapısı, tektonik ve hidrojeolojik ön görüşler
 
-Çevredeki yapılaşma ve kirlenmeye yol açabilecek
-
-durumların tanımlanması :
+Çevredeki yapılaşma ve kirlenmeye yol açabilecek durumların tanımlanması :
 
 Kaynağa ait özellikler
 

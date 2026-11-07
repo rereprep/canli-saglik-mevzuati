@@ -138,19 +138,13 @@ A Sütunu: Tüm Soğuk hava depolarının sırayla yerleri yazılacak
 
 B Sütunu: Soğuk zincirde tOPA bulunursa “1” bulunmazsa “0” olarak kodlanacak
 
-C Sütunu: Soğuk zincir dışında tOPA bulunursa “1” bulunmazsa “0” olarak kodlanacak
+C Sütunu: Soğuk zincir dışında tOPA bulunursa “1” bulunmazsa “0” olarak kodlanacak D Sütunu: Soğuk zincirde bOPA bulunursa “1” bulunmazsa “0” olarak kodlanacak
 
-D Sütunu: Soğuk zincirde bOPA bulunursa “1” bulunmazsa “0” olarak kodlanacak
-
-E Sütunu: Soğuk zincirde IPA (5’li karma) bulunursa “1” bulunmazsa “0” olarak kodlanacak
-
-F Sütunu: İzlem yapıldığı gün Soğuk Zincir dışında flakonlar “İmha edilmiş veya bekliyor”sa, “Evet / Hayır” olarak belirtilecek
+E Sütunu: Soğuk zincirde IPA (5’li karma) bulunursa “1” bulunmazsa “0” olarak kodlanacak F Sütunu: İzlem yapıldığı gün Soğuk Zincir dışında flakonlar “İmha edilmiş veya bekliyor”sa, “Evet / Hayır” olarak belirtilecek
 
 H Sütunu: İmha yöntemi * ‘da kayıtlı kodlara göre belirtilecek Şayet “Bakanlığa gönderildi ise “7 Diğer” kodlanacak
 
-I Sütunu: Alınan tedbirler (soğuk zincir durumu ile ilgili) **’da kayıtlı kodlara göre belirtilecek
-
-J Sütunu: Aşının durumu Soğuk zincirden tOPA çıkarılmış ise “Tamamlanmış”, henüz soğuk zincirde ise “Süreç devam ediyor” olarak belirtilecek
+I Sütunu: Alınan tedbirler (soğuk zincir durumu ile ilgili) **’da kayıtlı kodlara göre belirtilecek J Sütunu: Aşının durumu Soğuk zincirden tOPA çıkarılmış ise “Tamamlanmış”, henüz soğuk zincirde ise “Süreç devam ediyor” olarak belirtilecek
 
 K Sütunu: Şayet “Süreç devam ediyorsa”, ziyaret edilen depo sorumlusu tarafından beyan edilen sürecin sonlanacağı “Tarih” yazılacak.
 
@@ -162,9 +156,7 @@ Tablo – 1: Bağımsız İzlem veri toplama formu
 
 Sütun A: Primer ve Sekonder ildeki soğuk hava depoları (aşı depoları), hepsinin yerleri sırayla alt alta yazılacak
 
-Sütun B: İl merkez ve İlçe aşı depoları sayıları seviyelerine göre toplam sayıları yazılacak
-
-Sütun C: İzlem için ziyaret edilen aşı depolarının sayısı yazılacak (hepsinin ziyaret edilmesi beklenmektedir)
+Sütun B: İl merkez ve İlçe aşı depoları sayıları seviyelerine göre toplam sayıları yazılacak Sütun C: İzlem için ziyaret edilen aşı depolarının sayısı yazılacak (hepsinin ziyaret edilmesi beklenmektedir)
 
 Sütun D: Ziyaret edilen aşı depolarının yüzdesi (C/B*100, %100 olması beklenmektedir)
 

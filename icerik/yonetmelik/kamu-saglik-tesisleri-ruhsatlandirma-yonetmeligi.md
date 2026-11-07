@@ -275,9 +275,7 @@ z) Nöromüsküler hastalıklar birimi,
 
 aa) Perinatal merkez,
 
-bb) İlgili mevzuatı kapsamında açılacak diğer benzer birimler,
-
-bağlı birim olarak eklenir.
+bb) İlgili mevzuatı kapsamında açılacak diğer benzer birimler, bağlı birim olarak eklenir.
 
 ## ÜÇÜNCÜ BÖLÜM Sağlık Tesisi Binaları ve Ruhsatlandırma Komisyonu
 

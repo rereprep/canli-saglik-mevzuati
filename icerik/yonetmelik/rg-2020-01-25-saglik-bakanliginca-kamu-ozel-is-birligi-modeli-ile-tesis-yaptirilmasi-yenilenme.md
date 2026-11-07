@@ -111,9 +111,7 @@ Yİ-ÜFEₜ₋₁: Türkiye İstatistik Kurumu tarafından yayınlanan ve hesapl
 
 TÜFEₜ₋₁₂₁: Türkiye İstatistik Kurumu tarafından yayınlanan ve hesaplama tarihinden yüz yirmi bir ay öncesine ait Tüketici Fiyatları Endeksi (TÜFE),
 
-Yİ-ÜFEₜ₋₁₂₁: Türkiye İstatistik Kurumu tarafından yayınlanan ve hesaplama tarihinden yüz yirmi bir ay öncesine ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE),
-
-eᵏᵇ: Kullanım bedeli ödemesine yönelik TÜFE ve Yİ-ÜFE endeks değerlerinin projeksiyonu için kullanılacak üç aylık değişim oranını,
+Yİ-ÜFEₜ₋₁₂₁: Türkiye İstatistik Kurumu tarafından yayınlanan ve hesaplama tarihinden yüz yirmi bir ay öncesine ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE), eᵏᵇ: Kullanım bedeli ödemesine yönelik TÜFE ve Yİ-ÜFE endeks değerlerinin projeksiyonu için kullanılacak üç aylık değişim oranını,
 
 EDₜ₋₁ᵏᵇ: İçinde bulunulan ödeme dönemine dair kullanım bedeli ödemesine esas kullanılan bir önceki hesaplama döneminin son ayına ait TÜFE ve Yİ-ÜFE endeks değerlerinin ortalamasını,
 
@@ -161,9 +159,7 @@ Asgari ücretteki yıllık ortalama değişim ise;
 
 $a=\left(\frac{\text{AÜ}_{Ar-1}}{\text{AÜ}_{Ar-10}}\right)^{\frac{1}{10}}-1$
 
-$\text{AÜ}_{Ar+n}=\text{AÜ}_{Ar}\times(1+a)^n$
-
-formülü ile hesaplanır.
+$\text{AÜ}_{Ar+n}=\text{AÜ}_{Ar}\times(1+a)^n$ formülü ile hesaplanır.
 
 Formülde yer alan;
 

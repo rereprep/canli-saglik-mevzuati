@@ -11,7 +11,6 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -42,9 +41,7 @@ Bu kapsamda;
 
 a) Müdürlüğünüzce ihtiyaç duyulan ve sağlık tesisi yapımı planlanan park alanları ile ilgili yetkili idareye başvurulmasının akabinde encümen kararının olumlu olması halinde sürecin 3’üncü ve devamı maddeler uyarınca yürütülmesi,
 
-b) Müdürlüğünüzce ihtiyaç duyulan ve belediye ya da şahıs mülkiyeti bulunmayan, sağlık tesisi yapımı planlanan park alanları ile ilgili ise belediyeye başvurulmasının akabinde encümen kararının olumsuz olması yahut makul süre içerisinde başvuruya cevap verilmemesi halinde Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 03.12.2025 tarihli ve 296760550 sayılı görüş yazılarına istinaden Çevre, Şehircilik ve İklim
-
-Değişikliği Bakanlığı/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerine başvurularak ilgili alanın imar planındaki vasfıyla tescil işleminin yaptırılması, akabinde Hazineye tescil edilen taşınmazın Çevre, Şehircilik ve İklim Değişikliği Bakanlığı/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerince de tahsisinin yaptırılması,
+b) Müdürlüğünüzce ihtiyaç duyulan ve belediye ya da şahıs mülkiyeti bulunmayan, sağlık tesisi yapımı planlanan park alanları ile ilgili ise belediyeye başvurulmasının akabinde encümen kararının olumsuz olması yahut makul süre içerisinde başvuruya cevap verilmemesi halinde Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 03.12.2025 tarihli ve 296760550 sayılı görüş yazılarına istinaden Çevre, Şehircilik ve İklim Değişikliği Bakanlığı/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerine başvurularak ilgili alanın imar planındaki vasfıyla tescil işleminin yaptırılması, akabinde Hazineye tescil edilen taşınmazın Çevre, Şehircilik ve İklim Değişikliği Bakanlığı/Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerince de tahsisinin yaptırılması,
 
 3) İşlemi tamamlanan park alanlarının yatırım programına alınmak üzere il sağlık müdürlükleri tarafından Halk Sağlığı Genel Müdürlüğüne bildirilmesi,
 

@@ -98,9 +98,7 @@ c) Personelin hizmet birimleri arasında, hizmet gerekleri de dikkate alınarak,
 
 d) Atamalarda hizmet birimlerinin ihtiyacına göre diploma, sertifika gibi özel nitelikler aranılarak, nitelikli personel eliyle hizmet sunumunun sağlanması,
 
-e) Başvuru tarihinde yürürlükte olan usul ve esaslar çerçevesinde işlem yapılması
-
-ilkeleri esas alınır.
+e) Başvuru tarihinde yürürlükte olan usul ve esaslar çerçevesinde işlem yapılması ilkeleri esas alınır.
 
 #### Atama yetkisi ve sonuçları
 

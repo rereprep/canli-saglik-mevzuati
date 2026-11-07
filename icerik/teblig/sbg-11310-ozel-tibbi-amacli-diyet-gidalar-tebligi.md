@@ -42,9 +42,7 @@ c. Özel tıbbi amaçlı diyet gıdalar 3 grupta sınıflandırılır:
 
 i. Üretici talimatlarına uygun olarak kullanıldığında, kişilerin beslenme kaynağını tek başına oluşturabilen, standart besin ögelerini içeren, beslenme açısından tam olan gıdalar,
 
-ii. Üreticinin talimatlarına uygun olarak kullanıldığında, kullanan kişilerin beslenme kaynağını tek başına oluşturabilen, bir hastalık, rahatsızlık ya da tıbbi durum için besin öğeleri içeriği özel uyarlanmış, beslenme açısından tam olan gıdalar,
-
-iii. Tek başına beslenme kaynağı olarak kullanımı uygun olmayan, standart formüllü veya bir hastalık, rahatsızlık ya da tıbbi durum için besin öğeleri içeriği özel uyarlanmış, beslenme açısından tam olmayan gıdalar.
+ii. Üreticinin talimatlarına uygun olarak kullanıldığında, kullanan kişilerin beslenme kaynağını tek başına oluşturabilen, bir hastalık, rahatsızlık ya da tıbbi durum için besin öğeleri içeriği özel uyarlanmış, beslenme açısından tam olan gıdalar, iii. Tek başına beslenme kaynağı olarak kullanımı uygun olmayan, standart formüllü veya bir hastalık, rahatsızlık ya da tıbbi durum için besin öğeleri içeriği özel uyarlanmış, beslenme açısından tam olmayan gıdalar.
 
 (i) ve (ii)’de belirtilen gıdalar, hasta diyetlerinde takviye amaçlı ya da kısmen yerine geçen gıdalar olarak kullanılabilirler.
 
@@ -182,9 +180,9 @@ Yayımlandığı R.Gazete | 24.12.2001-24620
 
 Tebliğ No | 2001/42
 
- | Birim 100kJ’de | Birim 100kcal’de
+| Birim 100kJ’de | Birim 100kcal’de
 
- | Minimum | Maksimum | Minimum | Maksimum
+| Minimum | Maksimum | Minimum | Maksimum
 
 A Vitamini (μg, RE) | 14 | 43 | 60 | 180
 
@@ -212,9 +210,9 @@ Biotin (μg) | 0.4 | 5 | 1.5 | 20
 
 E Vitamini (mg α-TE) | 0.5/g linoleik asit cinsinden çoklu doymamış yağ asitleri. An cak hiçbir durumda, yararlanılabilir her 100 kJ başına 0.1 mg'dan az olmamalıdır. | 0.75 | 0.5/g linoleik asit cinsinden çoklu doymamış yağ asitleri. Ancak hiçbir durumda, yararlanılabilir her 100 kcal başına 0.5 mg'dan az olmamalıdır. | 3
 
- | Birim 100kJ’de | Birim 100kcal’de
+| Birim 100kJ’de | Birim 100kcal’de
 
- | Minimum | Maksimum | Minimum | Maksimum
+| Minimum | Maksimum | Minimum | Maksimum
 
 Sodyum (mg) | 5 | 14 | 20 | 60
 
@@ -246,9 +244,9 @@ Molibden (μg) | --- | 2.5 | --- | 10
 
 Flor (mg) | --- | 0.05 | --- | 0.2
 
- | Birim 100kJ’de | Birim 100kcal’de
+| Birim 100kJ’de | Birim 100kcal’de
 
- | Minimum | Maksimum | Minimum | Maksimum
+| Minimum | Maksimum | Minimum | Maksimum
 
 A Vitamini (μg, RE) | 8.4 | 43 | 35 | 180
 
@@ -276,9 +274,9 @@ Biotin (μg) | 0.18 | 1.8 | 0.75 | 7.5
 
 E Vitamini (mg α-TE) | 0.5/g linoleik asit cinsinden çoklu doymamış yağ asitleri. Ancak hiçbir durumda, yararlanılabilir her 100 kJ başına 0.1 mg'dan az olmamalıdır. | 0.75 | 0.5/g linoleik asit cinsinden çoklu doymamış yağ asitleri. Ancak hiçbir durumda, yararlanılabilir her 100 kcal başına 0.5 mg'dan az olmamalıdır. | 3
 
- | Birim 100kJ’de | Birim 100kcal’de
+| Birim 100kJ’de | Birim 100kcal’de
 
- | Minimum | Maksimum | Minimum | Maksimum
+| Minimum | Maksimum | Minimum | Maksimum
 
 Sodyum (mg) | 7.2 | 42 | 30 | 175
 

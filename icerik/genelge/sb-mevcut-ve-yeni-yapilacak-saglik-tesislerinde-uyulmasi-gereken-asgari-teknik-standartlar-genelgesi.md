@@ -86,19 +86,13 @@ de düşünülecek.
 
 • Tüm yoğun bakımlarda olduğu gibi kayar kapıları üstünde hastanm monitör bilgilerini
 
-deske yansıtmak için min 19" monitör olacak: ve data kablolan hasta yatak başı ünitesine
-
-çekilecektir.
+deske yansıtmak için min 19" monitör olacak: ve data kablolan hasta yatak başı ünitesine çekilecektir.
 
 • SDL lerin mimari planlamasında, SDL odalarına mahremiyeti bozmadan refakatçi veya
 
 ziyaretçi girişinin planlanması gereklidir.
 
-Hastanelerde yeni yapılacak SDL oda sayılarının, kadm doğun hastanelerinde ve devlet hastanelerinde
-
-kadı doğum yatal: sayisına göre aksi belirtilmediği sürece aşağida gösterildigi gibi planlanması
-
-gerekmektedir:
+Hastanelerde yeni yapılacak SDL oda sayılarının, kadm doğun hastanelerinde ve devlet hastanelerinde kadı doğum yatal: sayisına göre aksi belirtilmediği sürece aşağida gösterildigi gibi planlanması gerekmektedir:
 
 Kadıu doğum yatak sayısı 20 - 50 olan hastanelerde: 2 SDL
 
@@ -236,43 +230,29 @@ Aydınlatma tabelaları Neon veya Led teknolojisi kullanılarak oluşturulacakt�
 
 o ANSI C78.377 Specification for Chormaticity of White SS1 Products o
 
-IESNA LM-79 Electrical and Photometric Measurements
-
-o IESNA LM-80 Lifetime o IESNA RP-16 Nomenclature/Definitions for Illuminating Engineers o ASNI C82.XX1 Power Supply o 50150 SMD(Surface Mounted Diode) 3 Chip IP66 standartlara sahip ve akam korumalı o Kullanılacak LED şerit yukarıdaki standartlardan en az birini sağlamalıdı: o CE ve ROHS normlar o Işi yapacak firmanın TSE Hizmet Yeterlilik: Belgesi o PSB ye dizilmiş dizgi LED olacaktır, o Metre başına en az 30 adet LED kullanilacaktır. o Diş Cephe LED'I Epoksilenmiş veya güneş aşığına dayamkh akrilik kaplanmış veya LED
-
-şeridin üstünü boydan boya kapatacak U şeklinde karmızı Plexiglass cam ile kapatılmış o Proje aşamasında, şartnamede belirtilen Ir değerini sağlayacak şekilde kullamlan ledlerin
+IESNA LM-79 Electrical and Photometric Measurements o IESNA LM-80 Lifetime o IESNA RP-16 Nomenclature/Definitions for Illuminating Engineers o ASNI C82.XX1 Power Supply o 50150 SMD(Surface Mounted Diode) 3 Chip IP66 standartlara sahip ve akam korumalı o Kullanılacak LED şerit yukarıdaki standartlardan en az birini sağlamalıdı: o CE ve ROHS normlar o Işi yapacak firmanın TSE Hizmet Yeterlilik: Belgesi o PSB ye dizilmiş dizgi LED olacaktır, o Metre başına en az 30 adet LED kullanilacaktır. o Diş Cephe LED'I Epoksilenmiş veya güneş aşığına dayamkh akrilik kaplanmış veya LED şeridin üstünü boydan boya kapatacak U şeklinde karmızı Plexiglass cam ile kapatılmış o Proje aşamasında, şartnamede belirtilen Ir değerini sağlayacak şekilde kullamlan ledlerin
 
 amperaj değerine göre LED sürücü IP 67 SMPS kullanılacaktır(her harf için аут аут) en Neon için; o CE ve ROHS normlari o İşi yapacak firmaum TSE Hizmet Yeterlilik Belgesi olacaktı: oHer bir metre neon için minimum 1200 V gerilim paylaşımı olacak şekilde neon trafoları projelendirilecektir. o Cam çap kahınlığı 15 mm olacaktır. o Harflerin derinlik ölçülerine göre yükseltme aparatları olacaktır. > Itim hastanelerde ortak özellik olarak; o Yazıın ill: harfleri büyük harflerden oluşacaktır. o Yazı karakter tipi "Cooper Italik" olacaktır. o Harfin oluşturulacağı malzeme 2 mm veya 3 mm Altiminyumdan yapılacaktır. o Harf derinligi 180 cm için (10 cm), 220 cm için( 15 cm), 360 cm için (20 cm) olacaktur. o Iabelalarda gündüz ve gece görünümünde parlak karmızı bir renk görünümü olacak şekilde
 
-tasarım yapılacakor. o Oluşturulacak tabelanm ışık ölçüm değeri 1 metrekarelik alanda minimum 130 Iz degerini
-
-sağlamalıdır. o Led veya neon, harflerin 180 cm için(10 cm).220 cm için (15 cmn).360 cm için (20 cm) lik harf
-
-derinligi olan kismina monte edilecektir. Led olması durumunda 2 stra șeklinde olmahdır. o Neon harflerde ters kutu uygulanacaktır.
+tasarım yapılacakor. o Oluşturulacak tabelanm ışık ölçüm değeri 1 metrekarelik alanda minimum 130 Iz degerini sağlamalıdır. o Led veya neon, harflerin 180 cm için(10 cm).220 cm için (15 cmn).360 cm için (20 cm) lik harf derinligi olan kismina monte edilecektir. Led olması durumunda 2 stra șeklinde olmahdır. o Neon harflerde ters kutu uygulanacaktır.
 
 200 vatak ve fizeri hastanelerde:
 
 • Harf yüksekligi 360 cm olacaktır.
 
-o Kurulacak kaidede kullamlacak çelik: profil 80x80mm boyutlarmda ve 3mm et kahınlğında
-
-olacaktır:
+o Kurulacak kaidede kullamlacak çelik: profil 80x80mm boyutlarmda ve 3mm et kahınlğında olacaktır:
 
 100-200 yatak hastanelerde:
 
 Harf yüksekligi 220 cin olacakur.
 
-o Kurulacak kaidede kullamlacak çelik profil 60x60mm boyutlarıda ve 3mm et kahınlğıda
-
-olacaktur.
+o Kurulacak kaidede kullamlacak çelik profil 60x60mm boyutlarıda ve 3mm et kahınlğıda olacaktur.
 
 100 vatak altindaki hastane ve diger binalarda:
 
 o Harf yüksekigi 180 cm olacaktır.
 
-o Kurulacak kaidede kullamlacak çelik profil 40x40mm boyutlarında ve 3mı et kahınlğında
-
-olacaktir.
+o Kurulacak kaidede kullamlacak çelik profil 40x40mm boyutlarında ve 3mı et kahınlğında olacaktir.
 
 ### Deprem Bölgeleri
 
@@ -292,9 +272,7 @@ Müsteşar
 
 ### 2012/38 sayılı GENELGE Değişikliği Teklifi VÜRÜRLÜKTEKİ METİN TEKLİFLE DEĞİŞİK METİN YOĞUN BAKIM BİRİMLERİ YOĞUN BAKIM BİRİMLERİ
 
-**Madde 1 –** Tim yeni doğan yoğun bakımlarda Madde 1 - Tüm yoğun bakımlar yürürlükteki (1. 2. ve 3. seviye yeni doğan yoğuı bakımlar) ilgili mevzuata (Yataklı Sağlık Tesislerinde ve erışkın yoğun bakımlarda akustik anti Yoğun Bakım Hizmetlerinin Usul ve Esasları bakteriyel asma tavan kullarulacaktu. 1. ve 2 Hakkındaki Tebliğ) uygun olarak ihtiyaç seviye yeni doğan yoğun bakımlar ve tüm programlan hazılama komisyonu marifetiyle eriçkin yoğun bakımları zemınlerinde bakter belirlenen sayıya göre planlanacaktu. Yoğun oldurucu özelliginden dolayı 25.116/A12 bakım birimlerinde yer alan zemin pozuna vygu 2 mm kalınliğında PVC ecaslı kaplamalarında Genel baglıklı bölümün 30 uncu follanacaktr. 3. sevidésene giimes iyonlu malzemeleri maddesinde tammlanan kondaktif PVC (Grup
-
-seviye yenidoğan yogun T) kullanılacaktır. Yoğun bakım birimlerinde bakınlarm zeminlerinde antibakteriyel özellikli kullanlacak ışıklandıma orta-koyu şiddette halı kullanılacaktır. Bu mahalde kullanılacak Dimmer sistemli olacak ve endirekt aydınlatma ıkladıma orta-koyu şiddetinde Dimımer tercih edilecektir. sıstemlı olacak ve endırekt aydınlatma tercıh edilecektir. Her bir yeni doğan yoğun bakım alanısi en fazla 10 (ideali 8 unit) miteli olacaktır ve bu mahalde her ünite içinde annenin oturması için bir refakatçi koltuğuna teflişinde yer verilecektir
+**Madde 1 –** Tim yeni doğan yoğun bakımlarda Madde 1 - Tüm yoğun bakımlar yürürlükteki (1. 2. ve 3. seviye yeni doğan yoğuı bakımlar) ilgili mevzuata (Yataklı Sağlık Tesislerinde ve erışkın yoğun bakımlarda akustik anti Yoğun Bakım Hizmetlerinin Usul ve Esasları bakteriyel asma tavan kullarulacaktu. 1. ve 2 Hakkındaki Tebliğ) uygun olarak ihtiyaç seviye yeni doğan yoğun bakımlar ve tüm programlan hazılama komisyonu marifetiyle eriçkin yoğun bakımları zemınlerinde bakter belirlenen sayıya göre planlanacaktu. Yoğun oldurucu özelliginden dolayı 25.116/A12 bakım birimlerinde yer alan zemin pozuna vygu 2 mm kalınliğında PVC ecaslı kaplamalarında Genel baglıklı bölümün 30 uncu follanacaktr. 3. sevidésene giimes iyonlu malzemeleri maddesinde tammlanan kondaktif PVC (Grup seviye yenidoğan yogun T) kullanılacaktır. Yoğun bakım birimlerinde bakınlarm zeminlerinde antibakteriyel özellikli kullanlacak ışıklandıma orta-koyu şiddette halı kullanılacaktır. Bu mahalde kullanılacak Dimmer sistemli olacak ve endirekt aydınlatma ıkladıma orta-koyu şiddetinde Dimımer tercih edilecektir. sıstemlı olacak ve endırekt aydınlatma tercıh edilecektir. Her bir yeni doğan yoğun bakım alanısi en fazla 10 (ideali 8 unit) miteli olacaktır ve bu mahalde her ünite içinde annenin oturması için bir refakatçi koltuğuna teflişinde yer verilecektir
 
 ### AMELIYATHANELER AMELIYATHANELER
 
@@ -312,17 +290,11 @@ T) kullamlacaktr
 
 • Basuçh tank ve yakat tanklan alnarak hastane on ve yan girişlerini de
 
-engellemeyecek bir biçimde arazi üzerinde Tibbi gaz odalar,
-
-yahut binada uygun bir yere planlanacaktır. hastane bahçesi içerisinde, ön ve yan gırışlen Arazide konunlandılacak uygun bir nokta
-
-bulunamadığında söz konusu alanlar bina önlemeyecek biçimde, binaya en az 20m içerisinde gerekli önlemler alınarak uzaklkta, tek katlı ayn bir bına içensınde planlanacaktu planlanacakti. Bina içindeki konumlandırmalarda Yeni yapılacak hastane ve ek bloklann arsalan Bakanlığınuzdan izin ahınıması gerekmektedır. tespit edilirken ve tespit edilen arsalara bina yerleşim planlaması yapılırken bu kriterler dikkate almalidur. Yukanda belirtilen mahallerin hastane bahçesi içerisinde yeı alamayacağı istisna: durumlarda Bakanlığınızdan izin alınması gerekmektedir
+engellemeyecek bir biçimde arazi üzerinde Tibbi gaz odalar, yahut binada uygun bir yere planlanacaktır. hastane bahçesi içerisinde, ön ve yan gırışlen Arazide konunlandılacak uygun bir nokta bulunamadığında söz konusu alanlar bina önlemeyecek biçimde, binaya en az 20m içerisinde gerekli önlemler alınarak uzaklkta, tek katlı ayn bir bına içensınde planlanacaktu planlanacakti. Bina içindeki konumlandırmalarda Yeni yapılacak hastane ve ek bloklann arsalan Bakanlığınuzdan izin ahınıması gerekmektedır. tespit edilirken ve tespit edilen arsalara bina yerleşim planlaması yapılırken bu kriterler dikkate almalidur. Yukanda belirtilen mahallerin hastane bahçesi içerisinde yeı alamayacağı istisna: durumlarda Bakanlığınızdan izin alınması gerekmektedir
 
 ### GENEL GENEL
 
-**Madde 11 –** Eğitim, seminer, konferans ve Madde 11 - Eğitim ve seminer odalan, zemini akustik nitelikte olması gereken medikal konferans salonlan, kres oyun-uyku odalan. birimlerin zeminleri akustik PVC ile kreş sondorian vo. odalarn zenunlen, Çevre ve kaplanacaktır. Şehircilik Bakanlığı'nn ilgili
-
-açil:lamalannda belirtilen akustik: haterojen
+**Madde 11 –** Eğitim, seminer, konferans ve Madde 11 - Eğitim ve seminer odalan, zemini akustik nitelikte olması gereken medikal konferans salonlan, kres oyun-uyku odalan. birimlerin zeminleri akustik PVC ile kreş sondorian vo. odalarn zenunlen, Çevre ve kaplanacaktır. Şehircilik Bakanlığı'nn ilgili açil:lamalannda belirtilen akustik: haterojen
 
 PVC ile kaplanacaktır.
 
@@ -330,39 +302,21 @@ PVC ile kaplanacaktır.
 
 **Madde 10 –** 200 yatak: kapasitesinden büyük Madde 20 - 20.000 m' ve üsti kapalı alana en az 20.000 m° kapalı alana sahip, bulunduğu sahip, bulunduğu bölgede doğal gaz olan aynca bolgede dogal gaz bulunan ya da yakın zamanda 15ı merkezi mahalli musait olan fıtm yeni (1-3 yıl) gelıne dhuumu olan, aynca isı merkezi hastane projelerinde kojenerasyon. mahali müsait olan tün yeni hastane projelerinde trenerasyon sisteminia gerekli mekanik ve ve inşaatlannda kojenerasyon, trijeneraayon elek:trik: altyapısı tasarionacaktur. Ayrica sistemu uygulanacaktır. sıstemım proje kugusu yapılmayacaktır
 
-Hastanenin devreye alınmasına miteakip
-
-enerji(elektrik-doğalgaz) tuketim degerlen
-
-hastane idaresi tarafından yeterli süre (1-3 yal)
+Hastanenin devreye alınmasına miteakip enerji(elektrik-doğalgaz) tuketim degerlen hastane idaresi tarafından yeterli süre (1-3 yal)
 
 takip edilmesi veya ettirilmesi sonucunda
 
-amortisman süreleri dikkate almarak sistemin
-
-gerekli olcuğuna Bakanlıkça karar verilmesi
-
-halinde yururlukteki Kamu Hastaneleri Genel
+amortisman süreleri dikkate almarak sistemin gerekli olcuğuna Bakanlıkça karar verilmesi halinde yururlukteki Kamu Hastaneleri Genel
 
 Müdurdoğa bakım-onarım ve tadilat işleri
 
-Genelgesi hik ünleri doğrultusunda
-
-projelendirilecel: ve uygulanacaktur.
+Genelgesi hik ünleri doğrultusunda projelendirilecel: ve uygulanacaktur.
 
 ### GENEL GENEL
 
-**Madde 30 –** Poliklinikler ve Acil Servis ana Madde 30 - Üzerinde sabit halde ber türlü tıbbi beldeme mahalleri dışanda tün tibbi hizmet cihaz/ekipman barındıran mahallerde korddaktif mahallerinde homojen PVC döşemne kaplanası özelliğe haiz (pyc altı toprak hattına bağlı bakır kullanılacaktır. Ancak yogunbakım, yenidogan baralaria karolajlı ve ıletken yapıştıncılı) yoğunbakım yamul: üniteleri. sterilizasyon minimun 2 mm kalınhkta. maksimum 3000 gerekliliği yüksek olan laboratuvarlar, gr/m' (iletken olup olmamasına göre tercihen enfeksiyon odaler, enfeksiyon kliniklerin mininun 2500 gr/u*-maksimum 2950 gr/m*) tamami ve ameliyathane tam steril ağırlıkta, homojen karo PVC Grup I (en az koridorlarında bakteri öldürücü özelliğinden Grup P) özelliğini sağlayan (tercihen Grıp T), dolayı 25.116/A12 pozuna uygun 2 mm kalmlğının tamam sical: kaynak tutan. kalınlığında PVC esaslı gümüş iyonlu yer iletkenlik direnci ve diğer özellikleri ile temin döşeme malzemeleri ile döşeme kaplanası ve uygulama şekli Çevre ve Şehircilik yapılacaktır. Poliklinik koridorları döşeme Bakanliği'run ilgili poz açiklamalarinda kaplama malzemesı seçımı serbesttur. belirtilen antibakteriyel PVC esaslı yer döçeme
+**Madde 30 –** Poliklinikler ve Acil Servis ana Madde 30 - Üzerinde sabit halde ber türlü tıbbi beldeme mahalleri dışanda tün tibbi hizmet cihaz/ekipman barındıran mahallerde korddaktif mahallerinde homojen PVC döşemne kaplanası özelliğe haiz (pyc altı toprak hattına bağlı bakır kullanılacaktır. Ancak yogunbakım, yenidogan baralaria karolajlı ve ıletken yapıştıncılı) yoğunbakım yamul: üniteleri. sterilizasyon minimun 2 mm kalınhkta. maksimum 3000 gerekliliği yüksek olan laboratuvarlar, gr/m' (iletken olup olmamasına göre tercihen enfeksiyon odaler, enfeksiyon kliniklerin mininun 2500 gr/u*-maksimum 2950 gr/m*) tamami ve ameliyathane tam steril ağırlıkta, homojen karo PVC Grup I (en az koridorlarında bakteri öldürücü özelliğinden Grup P) özelliğini sağlayan (tercihen Grıp T), dolayı 25.116/A12 pozuna uygun 2 mm kalmlğının tamam sical: kaynak tutan. kalınlığında PVC esaslı gümüş iyonlu yer iletkenlik direnci ve diğer özellikleri ile temin döşeme malzemeleri ile döşeme kaplanası ve uygulama şekli Çevre ve Şehircilik yapılacaktır. Poliklinik koridorları döşeme Bakanliği'run ilgili poz açiklamalarinda kaplama malzemesı seçımı serbesttur. belirtilen antibakteriyel PVC esaslı yer döçeme kaplaması yapılacaktır (Om: Ameliyathane
 
-kaplaması yapılacaktır (Om: Ameliyathane
-
-Salonlan, X-ray görurüleme alanlan, yoğun
-
-bakımlar, CPR ve diğer tam steril alanları
-
-zeminlerinde). Ayrica zemin kaplamasi
-
-uygulamasma geçimeden önce ürünün TS EN
+Salonlan, X-ray görurüleme alanlan, yoğun bakımlar, CPR ve diğer tam steril alanları zeminlerinde). Ayrica zemin kaplamasi uygulamasma geçimeden önce ürünün TS EN
 
 150 23997 ye gore Birim Alan Kutle Tayin
 

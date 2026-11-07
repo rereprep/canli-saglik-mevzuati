@@ -19,9 +19,7 @@ Aynı Kanunun “Yönetmelikler” başlıklı 8 inci maddesinde ise <i>“Aile 
 
 Kanuna bağlı olarak 25/01/2013 tarihli ve 28539 sayılı Resmi Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliği’nin “Denetim” başlıklı 33 üncü maddesinin birinci fıkrasında <i>“Aile sağlığı merkezi, aile hekimleri ve aile</i> <i>sağlığı çalışanları, mevzuat ve sözleşme hükümlerine uygunluk ile diğer</i> <i>konularda Kurum, ilgili mülkî idare amirleri ve yerel sağlık idare amirleri veya</i> <i>bunların görevlendireceği personelin denetimine tâbidir. Denetim yapmaya</i> <i>yetkili amir, ilgili mevzuat ve sözleşme şartlarına aykırılığı doğrudan kendisi</i> <i>tespit edebileceği gibi, tespiti yapmak üzere incelemeci veya soruşturmacı da</i> <i>görevlendirebilir. Bu denetimler Kurum tarafından belirlenen denetleme formları</i> <i>ile gerçekleştirilir.”</i> hükmü yer almaktadır.
 
-Ayrıca 30/06/2021 tarihli ve 31527 sayılı Aile Hekimliği Sözleşme ve
-
-Ödeme Yönetmeliği’nin “Denetim” başlıklı 14 üncü maddesinin birinci fıkrasında da <i>“Aile sağlığı merkezi, aile hekimleri ve aile sağlığı çalışanları,</i> <i>asgari altı ayda bir, mevzuat ve sözleşme hükümlerine uygunluk ile diğer</i> <i>konularda Bakanlık, ilgili mülki idare amirleri ve yerel sağlık idare amirleri veya</i> <i>bunların görevlendireceği personelin denetimine tabidir. İlgili mevzuat ve</i> <i>sözleşme şartlarına aykırılık halinde müdürlükçe/Bakanlıkça incelemeci veya</i> <i>soruşturmacı görevlendirilir. İlgili mevzuat ve sözleşme şartlarına aykırı fiillerin</i> <i>tespit edilmesi halinde aykırılığın mahiyetine göre;</i>
+Ayrıca 30/06/2021 tarihli ve 31527 sayılı Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği’nin “Denetim” başlıklı 14 üncü maddesinin birinci fıkrasında da <i>“Aile sağlığı merkezi, aile hekimleri ve aile sağlığı çalışanları,</i> <i>asgari altı ayda bir, mevzuat ve sözleşme hükümlerine uygunluk ile diğer</i> <i>konularda Bakanlık, ilgili mülki idare amirleri ve yerel sağlık idare amirleri veya</i> <i>bunların görevlendireceği personelin denetimine tabidir. İlgili mevzuat ve</i> <i>sözleşme şartlarına aykırılık halinde müdürlükçe/Bakanlıkça incelemeci veya</i> <i>soruşturmacı görevlendirilir. İlgili mevzuat ve sözleşme şartlarına aykırı fiillerin</i> <i>tespit edilmesi halinde aykırılığın mahiyetine göre;</i>
 
 <i>a)Adli yönden; 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu</i>
 
@@ -33,17 +31,13 @@ Ayrıca 30/06/2021 tarihli ve 31527 sayılı Aile Hekimliği Sözleşme ve
 
 <i>Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik, hükümlerine</i> <i>göre, gerekli işlemler tesis edilir.”</i> hükümlerine yer verilmiştir.
 
-Bu minvalde yukarıda zikredilen mevzuat hükümleri doğrultusunda denetimlerde standardizasyonu sağlayabilmek, denetimi gerçekleştirilen kuruma ve denetimi gerçekleştiren personele rehberlik etmesi amacıyla Den-İz Sistemine entegre edilen formların kullanımına yönelik “Aile Sağlığı Merkezi ve Aile
-
-Hekimliği Birimi İzleme ve Değerlendirme Rehberi” hazırlanmıştır.
+Bu minvalde yukarıda zikredilen mevzuat hükümleri doğrultusunda denetimlerde standardizasyonu sağlayabilmek, denetimi gerçekleştirilen kuruma ve denetimi gerçekleştiren personele rehberlik etmesi amacıyla Den-İz Sistemine entegre edilen formların kullanımına yönelik “Aile Sağlığı Merkezi ve Aile Hekimliği Birimi İzleme ve Değerlendirme Rehberi” hazırlanmıştır.
 
 **Bununla birlikte aile sağlığı merkezi ve aile hekimliği birimine yapılması planlanan denetimlere dair uygulanacak usul ve esaslar aşağıda belirtilmiştir:**
 
 1) Aile sağlığı merkezi ve aile hekimliği birimi denetimleri; olağan dışı denetimler, ihbar ve şikâyetler, adres değişiklikleri vb. haller hariç olmak üzere 6 aylık aralıklar ile yılda iki defa Den-İz Sistemi üzerinden yapılır. Olağandışı denetimler de yine Den-İz Sistemi üzerinden gerçekleştirilir. Denetim yapılacak birime önceden haber verme zorunluluğu yoktur.
 
-2) İl sağlık müdürlüğü tarafından birinci dönem denetim planları aralık ayı sonuna kadar, ikinci dönem denetim planları haziran ayı sonuna kadar Den-İz
-
-Sistemine girilir.
+2) İl sağlık müdürlüğü tarafından birinci dönem denetim planları aralık ayı sonuna kadar, ikinci dönem denetim planları haziran ayı sonuna kadar Den-İz Sistemine girilir.
 
 3) Sağlık Bakanlığı merkez teşkilatı, valilik, il sağlık müdürlüğü, kaymakamlık ve/veya ilçe sağlık müdürlüğü/toplum sağlığı merkezi tarafından gerekli görülmesi halinde olağan dışı denetim yapılabilir.
 
@@ -53,9 +47,7 @@ Sistemine girilir.
 
 (olağandışı haller, ihbar ve şikâyet vb. durumları hariç olmak üzere)
 
-6) Denetim esnasında asgari fiziki ve teknik donanım eksikliklerinin tespit edilmesi halinde (ASM’deki eksiklikler için tüm hekimler adına yönetici hekime,
-
-AHB’deki eksiklikler ise ilgili hekime tebliğ edilir), eksikliklerin tamamlanması için 10 gün süre verilir. Eksikliklerin tamamlatılması amacıyla verilen 10 günün sonunda süre sonu denetimi yapılır. Süre sonu denetiminde eksikliklerin yerine getirilmediğinin anlaşılması halinde ilgili birimlere resmi yazı ile bildirilir ve resmi yazılar Den-İz Sistemine yüklenir.
+6) Denetim esnasında asgari fiziki ve teknik donanım eksikliklerinin tespit edilmesi halinde (ASM’deki eksiklikler için tüm hekimler adına yönetici hekime, AHB’deki eksiklikler ise ilgili hekime tebliğ edilir), eksikliklerin tamamlanması için 10 gün süre verilir. Eksikliklerin tamamlatılması amacıyla verilen 10 günün sonunda süre sonu denetimi yapılır. Süre sonu denetiminde eksikliklerin yerine getirilmediğinin anlaşılması halinde ilgili birimlere resmi yazı ile bildirilir ve resmi yazılar Den-İz Sistemine yüklenir.
 
 7) Denetim esnasında hizmete yönelik eksiklik (izlem, tarama vb.) tespit edilmesi halinde süre verilmeden işlem yapılmak üzere ilgili birimlere bildirilir.
 
@@ -63,9 +55,7 @@ AHB’deki eksiklikler ise ilgili hekime tebliğ edilir), eksikliklerin tamamlan
 
 9) Sunulan sağlık hizmetinin gereği olarak sağlanması gereken fiziki ve teknik şartlar kapsam dışında tutulamaz.
 
-10) Yeni açılacak, yenilenecek veya fiziki-teknik şartları değiştirilecek aile sağlığı merkezlerinin standartlarının oluşturulmasında 30.06.2025 tarih ve E- 58271140-431.99-280529365 sayılı Aile Sağlığı Merkezi Kurumsal Kimlik
-
-Kılavuzu dikkate alınır.
+10) Yeni açılacak, yenilenecek veya fiziki-teknik şartları değiştirilecek aile sağlığı merkezlerinin standartlarının oluşturulmasında 30.06.2025 tarih ve E- 58271140-431.99-280529365 sayılı Aile Sağlığı Merkezi Kurumsal Kimlik Kılavuzu dikkate alınır.
 
 11) Aile hekimince çalıştırılan ilave personel bulunmayan aile sağlığı merkezlerinde, ASM Rehberinin Personel ve Yönetim Değerlendirmesi başlıklı bölümünde yer alan sekizinci soru kapsam dışı bırakılır.
 
@@ -75,22 +65,10 @@ Kılavuzu dikkate alınır.
 
 14) Yetkilendirilmiş ve cezaevi AHB’lerde, kayıtlı nüfusun demografik yapısı dikkate alınarak asgari fiziki ve teknik donanım ile hizmet sunumunda ihtiyaç duyulmayan alanlar zorunlu tutulmaz.
 
-15) Eğitim aile sağlığı merkezi denetimleri, 28.04.2023 tarih ve 32174 sayılı
-
-Resmî Gazete’de yayımlanarak yürürlüğe giren Eğitim Aile Sağlığı Merkezleri
-
-Yönetmeliği Ek-1’inde yer alan hükümler doğrultusunda yapılır.
+15) Eğitim aile sağlığı merkezi denetimleri, 28.04.2023 tarih ve 32174 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Eğitim Aile Sağlığı Merkezleri Yönetmeliği Ek-1’inde yer alan hükümler doğrultusunda yapılır.
 
 16) Denetim esnasında idari, hukuki ve etik usul ve esaslara riayet edilmesi, bu süreçte uygun iletişim tekniklerinin kullanılması esastır.
 
-17) Temel Sağlık Hizmetleri Genel Müdürlüğü’nün 03/01/2012 tarihli ve 306 sayılı Denetim Formları konulu yazısı, THSK’nın 13/06/2014 tarihli ve 409965 sayılı Denetimler Hak. konulu yazısı, Temel Sağlık Hizmetleri Genel
+17) Temel Sağlık Hizmetleri Genel Müdürlüğü’nün 03/01/2012 tarihli ve 306 sayılı Denetim Formları konulu yazısı, THSK’nın 13/06/2014 tarihli ve 409965 sayılı Denetimler Hak. konulu yazısı, Temel Sağlık Hizmetleri Genel Müdürlüğü’nün 30 Ocak 2012 tarih ve 13296229 sayılı yazısı ve THSK’nın 30
 
-Müdürlüğü’nün 30 Ocak 2012 tarih ve 13296229 sayılı yazısı ve THSK’nın 30
-
-/04/2013 tarih ve 46119 sayılı genel yazısı ile yürürlüğe giren EK-1 Aile Sağlığı
-
-Merkezi İzleme ve Değerlendirme Formu, EK-2 Aile Hekimliği Birimi İzleme ve
-
-Değerlendirme Formu ve EK-3 ASM ve AHB'nin Olağandışı Durum, İhbar ve
-
-Şikayetlerinde Kullanılacak Denetim Formu yürürlükten kaldırılmıştır.
+/04/2013 tarih ve 46119 sayılı genel yazısı ile yürürlüğe giren EK-1 Aile Sağlığı Merkezi İzleme ve Değerlendirme Formu, EK-2 Aile Hekimliği Birimi İzleme ve Değerlendirme Formu ve EK-3 ASM ve AHB'nin Olağandışı Durum, İhbar ve Şikayetlerinde Kullanılacak Denetim Formu yürürlükten kaldırılmıştır.

@@ -46,9 +46,7 @@ Gereği:
 Bilgi:
 Çalışan Sağlığı Daire Başkanlığına
 
-Sağlık Mahallesi Adnan Saygwı Cad. o: $5 Sılıhıye-AKARA
-
-iıııinlompuılı
+Sağlık Mahallesi Adnan Saygwı Cad. o: $5 Sılıhıye-AKARA iıııinlompuılı
 
 SAĞLIK BAKALIĞI
 
@@ -80,51 +78,51 @@ Telefon a: (0312)565 50 00 Faks o: (0312) 565 54 32 Telefon a: (0312)565 57 86
 
 AALIZ KALE1VILERİ:
 
- Hemogram
+Hemogram
 
- Biyokimya (AK$, UREA, CREA, AST, ALT)
+Biyokimya (AK$, UREA, CREA, AST, ALT)
 
 Kan, idrar, saç vb. klinik numunelerde:
 
- Arsenik
+Arsenik
 
- Bakır
+Bakır
 
- Cıva
+Cıva
 
- Kadmiyum
+Kadmiyum
 
- Kobalt
+Kobalt
 
- Kurşun
+Kurşun
 
- Selenyum
+Selenyum
 
- Krom
+Krom
 
- ikel
+ikel
 
- Alüminyum
+Alüminyum
 
- Çinko vb. inorganik madde (Element) analizi yapılabilir.
+Çinko vb. inorganik madde (Element) analizi yapılabilir.
 
 Kan vb. klinik numunelerde:
 
- Benzen (Benzol)
+Benzen (Benzol)
 
- Ksilen
+Ksilen
 
- Toltien,
+Toltien,
 
- -helczan vb. organik madde analizi yapılabilir.
+-helczan vb. organik madde analizi yapılabilir.
 
 idrarda:
 
- Fenol
+Fenol
 
- Hipporik asit
+Hipporik asit
 
- TCA vb. analizi yapılabilir
+TCA vb. analizi yapılabilir
 
 111111.1,111,11j1,1111
 

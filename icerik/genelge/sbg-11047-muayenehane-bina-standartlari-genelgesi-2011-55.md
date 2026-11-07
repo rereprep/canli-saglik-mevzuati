@@ -41,11 +41,7 @@ yapılan binalarda depreme dayanıklılık raporu istenmeyecektir.
 
 b) Yapı ruhsatı ve yapı kullanım izin belgesi 19.08.2008 tarihinden önce düzenlenmiş
 
-olup da kapsamlı tadilat yapılarak binanın tamamının kullanım amacının değişmesi ve
-
-yeni yapı ruhsatı alınmasını gerektiren tadilatlarda; yapı ruhsatı ve yapı kullanım izin
-
-belgesi başvuru tarihi 19.08.2008 tarihinden sonra olan binalarda deprem raporu
+olup da kapsamlı tadilat yapılarak binanın tamamının kullanım amacının değişmesi ve yeni yapı ruhsatı alınmasını gerektiren tadilatlarda; yapı ruhsatı ve yapı kullanım izin belgesi başvuru tarihi 19.08.2008 tarihinden sonra olan binalarda deprem raporu
 
 istenmeyecektir.
 
@@ -71,21 +67,13 @@ mühendisleri ve mühendislik firmalarınca yapılabileceği,
 
 2. Yapı Denetim Kanununun 3 üncü maddesi gereğince yapı denetim
 
-kuruluşlarının denetçi mimar ve mühendislerin denetim faaliyeti süresince
-
-başkaca mesleki faaliyet ve inşaat işleri ile ilgili ticari faaliyette bulunmaması
-
-hükmü gereğince bahse konu çalışmaların yapı denetim firmalarınca
-
-gerçekleştirilemeyeceği,
+kuruluşlarının denetçi mimar ve mühendislerin denetim faaliyeti süresince başkaca mesleki faaliyet ve inşaat işleri ile ilgili ticari faaliyette bulunmaması hükmü gereğince bahse konu çalışmaların yapı denetim firmalarınca gerçekleştirilemeyeceği,
 
 3. İnşaat Mühendisleri veya mühendislik firmalarınca düzenlenen performans
 
 inceleme, analiz çalışmalarının yer aldığı depreme dayanıklılık raporlarının, İl
 
-Çevre ve ġehircilik Müdürlüklerince değerlendirilerek uygunluk görüşünün
-
-verileceği belirtilmiştir.
+Çevre ve ġehircilik Müdürlüklerince değerlendirilerek uygunluk görüşünün verileceği belirtilmiştir.
 
 Bu kapsamda; yukarıda belirtilen kriterler doğrultusunda düzenlenmiş depreme dayanıklılık raporlarından, İl Çevre ve ġehircilik Müdürlüğünce uygun bulunan raporlar kabul edilecektir. 8-Tıbbi atık raporu ve sözleşme ile ilgili olarak ise; sadece sözleşme gönderilmekte, tıbbi atık raporu gönderilmemektedir. Sözleşme ile birlikte İl Çevre ve ġehircilik Müdürlüğünden alınmış tıbbi atık raporu da istenerek, uygun olması halinde sonuçlandırılacaktır. 9-Müdürlük kayıtlarına göre, 03/08/2010 tarihinden önce ilgili mevzuat kapsamında açılmış olup da yargı kararına istinaden tabibin kendisi tarafından kapatılması talep edilen veya Müdürlüklerce kapatılan muayenehanenin hekimin kamu görevinden istifa etmesi ile aynı adreste, aynı şekilde 1219 sayılı Kanun kapsamında yeniden faaliyete geçebilmesi için bu Yönetmelik hükümlerine uyumu aranmaz. 03.08.2010 tarihinden önce açılmış olup da mevzuata uyum sağlamak amacıyla Müdürlük evrakından 03.08.2011 tarihinden önce giriş yapmış taşınma talebi bulunan muayenehanelerin başvuruları da bu kapsamda değerlendirilir. Ancak, her iki durumda da muayenehanenin faaliyete geçmesi halinde 3 üncü maddede belirtildiği şekilde 03.08.2015 tarihine kadar uyum sağlanması ve uygunluk belgesi alınması zorunludur. 10-Bütün muayenehane başvuruları Müdürlükçe değerlendirilerek, sonuçlandırılacak ve SKYS’den işlem çıktısı alınarak düzenlenen uygunluk belgesi ile birlikte Bakanlığa gönderilecektir.
 
@@ -109,9 +97,7 @@ Sayı : B.10.0.THG.0.79.00.02/ Konu: Muayenehane bina standartları
 
 c) Yönetmelikte istenen belgelerin tamamının ve yerinde incelemesinin uygun bulunması
 
-sonucunda onay verilince “belge yazdır” butonu aktif hale gelir. İlgili müdürlükçe,
-
-belge yazdır butonu kullanılarak örneği Yönetmelik eki EK-14’te yer alan uygunluk
+sonucunda onay verilince “belge yazdır” butonu aktif hale gelir. İlgili müdürlükçe, belge yazdır butonu kullanılarak örneği Yönetmelik eki EK-14’te yer alan uygunluk
 
 belgesinin SKYS üzerinden alınacak çıktısına fotoğraf yapıştırılır ve onaylanır.
 
@@ -143,9 +129,7 @@ Türk Standartları Enstitüsünce belirlenen standartlara göre muayenehanenin 
 
 a) Binaların ana girişleri yaya kaldırımından itibaren engelsiz olmalıdır. Bina girişi
 
-önünde geniş giriş sahanlığı bulunmalıdır. Bina girişi kaygan olmayan sert
-
-malzemeden yapılmalı ve iyi aydınlatılmalıdır.
+önünde geniş giriş sahanlığı bulunmalıdır. Bina girişi kaygan olmayan sert malzemeden yapılmalı ve iyi aydınlatılmalıdır.
 
 b) Tüm ticarî ve kamu binasında en az bir ana giriş özürlüler için kullanılır olmalıdır.
 
@@ -155,9 +139,7 @@ d) Bina girişlerinde eşik olmamalıdır.
 
 e) Dış kapıların açılması fazla kuvvet gerektirmemelidir. Döner kapılardan
 
-kaçınılmalıdır, döner kapı varsa mutlaka yanında normal kapı olmalıdır. Eşik olduğu
-
-takdirde sürmeli kapılarda 19 mm, diğer kapılarda 13 mm’ den yüksek olmamalıdır
+kaçınılmalıdır, döner kapı varsa mutlaka yanında normal kapı olmalıdır. Eşik olduğu takdirde sürmeli kapılarda 19 mm, diğer kapılarda 13 mm’ den yüksek olmamalıdır
 
 f) Hidrolik kapı kapatıcılar kapanma müddetini geciktirici türden olmalıdır.
 
@@ -181,17 +163,13 @@ olmamalıdır.
 
 c) Bir rampanın eğimi minimum olmalıdır. Maksimum eğim tekerlekli sandalyeli
 
-özürlünün aşabileceği yüksekliğe bağlıdır. Döşeme seviyesinden 2 cm’ den daha fazla
-
-bir kot farkı varsa rampa düşünülmelidir.
+özürlünün aşabileceği yüksekliğe bağlıdır. Döşeme seviyesinden 2 cm’ den daha fazla bir kot farkı varsa rampa düşünülmelidir.
 
 d) Rampa uzunlukları 10 m’ ye kadar olan rampaların en fazla eğimi %8 olmalıdır. 10
 
 m’den daha uzun rampalarda eğim en fazla %6 olmalı, dinlenme alanlarında banklar
 
-konulmalı, rampa yüksekliği üzerinden 76-86,5 cm yükseklikte tırabzan olmalı,
-
-rampanın başlangıcı ve bitiminden 30 cm uzun olmalıdır.
+konulmalı, rampa yüksekliği üzerinden 76-86,5 cm yükseklikte tırabzan olmalı, rampanın başlangıcı ve bitiminden 30 cm uzun olmalıdır.
 
 e) Tekerlekli sandalye kullanan özürlüler için rampaların korumasız taraflarına en az 5
 
@@ -207,13 +185,9 @@ bulunmalıdır. Rampa sahanlıkta yön değiştiriyorsa sahanlık en az 152,5 cm
 
 ### SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-cm olmalıdır. Sahanlıkta kapı girişi varsa, kapı önündeki bölge tekerlekli sandalye
+cm olmalıdır. Sahanlıkta kapı girişi varsa, kapı önündeki bölge tekerlekli sandalye kullanan kişinin manevra yapmasına imkân verecek boyutta olmalıdır. Rampanın
 
-kullanan kişinin manevra yapmasına imkân verecek boyutta olmalıdır. Rampanın
-
-yapılamadığı durumda merdiven asansörü denilen sistem kurularak tekerlekli
-
-sandalyenin asansöre ulaşımı sağlanabilir.
+yapılamadığı durumda merdiven asansörü denilen sistem kurularak tekerlekli sandalyenin asansöre ulaşımı sağlanabilir.
 
 ### 2-ASANSÖRLER
 
@@ -229,9 +203,7 @@ c) Asansör kapısı otomatik veya fotoselli olmalı, kapının net açıklığ�
 
 olmalı, 85-90 cm yüksekliğinde tutunma bantları olmalı, düğmelerin orta noktasının
 
-yerden yüksekliği 106,5 cm olmalı, asansör kapısının kalınlığı 30 cm
-
-olmalıdır.Asansörle ilgili şekiller aşağıda gösterilmiştir.
+yerden yüksekliği 106,5 cm olmalı, asansör kapısının kalınlığı 30 cm olmalıdır.Asansörle ilgili şekiller aşağıda gösterilmiştir.
 
 d) Kabin içerisinde tehlike alarmı olmalı, mümkünse telefon bulunmalıdır. **ġekil 1.** Asansörlere ait ölçüler. Ölçüler cm’dir. (TS 9111 ġekil 6a değiştirilerek)
 
@@ -317,19 +289,13 @@ monteli, bu derinlik en az 7,5 cm artırıldığında yere monteli klozet kullan
 
 d) Tuvalet kapısı dışarıya doğru açılmalı ve kapı üzerinde özürlü işareti ile tehlike anında
 
-kapı kilidi dışarıdan açılabilecek şekilde olmalıdır. Kapı yanındaki butonla tuvaletin
-
-girilmez veya boş olduğunu gösteren yazılı ışıklı ve sesli bilgilendirme işaretini kapı
-
-üzerinde görülebilir yerde olmalıdır
+kapı kilidi dışarıdan açılabilecek şekilde olmalıdır. Kapı yanındaki butonla tuvaletin girilmez veya boş olduğunu gösteren yazılı ışıklı ve sesli bilgilendirme işaretini kapı üzerinde görülebilir yerde olmalıdır
 
 e) Tutamakların yerden yüksekliği 84-91,5 cm olmalıdır.
 
 f) Lavabonun ön kısmının yerden yüksekliği düşey mesafede 73,5 cm olmalıdır, diz ve
 
-ayak girecek mesafe olmalıdır. Önden yaklaşım için lavabo önünde 76 cm x 122 cm
-
-net döşeme alanı olmalıdır.
+ayak girecek mesafe olmalıdır. Önden yaklaşım için lavabo önünde 76 cm x 122 cm net döşeme alanı olmalıdır.
 
 g) Aynanın alt kenarı yerden en fazla 101, 5 veya aynanın üst kenarı yerden en fazla 188
 

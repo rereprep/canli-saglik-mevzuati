@@ -359,77 +359,69 @@ Usûl ve Esaslar çerçevesinde hazırlanmış olan bu uygulama talimatı, satı
 
 HEMŞİRE İÇİN TEKNİK PUAN KRİTERLERİ : | ASGARİ | AZAMİ
 
- | PUAN
+| PUAN
 
 1- EĞİTİM DURUMU | 40 | 55
 
-a)Orta Öğretim,Ön Lisans,Lisans Eğitim için | 40 | 
+a)Orta Öğretim,Ön Lisans,Lisans Eğitim için | 40 |
 
-b)Orta Öğretim + Ön Lisans | 45 | 
+b)Orta Öğretim + Ön Lisans | 45 |
 
-c)Orta Öğretim + Lisans | 50 | 
+c)Orta Öğretim + Lisans | 50 |
 
-d)Orta Öğretim + Ön Lisans + Lisans | 55 | 
+d)Orta Öğretim + Ön Lisans + Lisans | 55 |
 
-(Öğretim aşamalarının tamamı mesleği ile ilgili olmak koşuluyla | 
+(Öğretim aşamalarının tamamı mesleği ile ilgili olmak koşuluyla |
 
-Dikkate alınacaktır.) | 
+Dikkate alınacaktır.) |
 
 2-DİPLOMA NOTU | 0 | 10
 
-(Mesleği ile ilgili en son öğrenime ait diplomada 61 ve üstü herbir not için 0,25 puan) | 
+(Mesleği ile ilgili en son öğrenime ait diplomada 61 ve üstü herbir not için 0,25 puan) |
 
-(Ara değerler için orantılı değerlendirme yapılır) | 
+(Ara değerler için orantılı değerlendirme yapılır) |
 
-(Diploma notunun orta, iyi, pekiyi olarak değerlendirilmiş olması | 
-
-halinde; orta:60, iyi:70, pekiyi;80 olarak kabul edilir) | 
+(Diploma notunun orta, iyi, pekiyi olarak değerlendirilmiş olması | halinde; orta:60, iyi:70, pekiyi;80 olarak kabul edilir) |
 
 3- İŞ TECRÜBESİ |  | 0 | 25
 
 a) Kamu kurum ve kuruluşları ile özel sağlık kuruluşlarında | 0 | 15
 
-yada kendi namına çalışılan her bir hizmet yılı için 1 puan | 
+yada kendi namına çalışılan her bir hizmet yılı için 1 puan |
 
-(15 yılı geçmemek üzere ve Resmi belgeler ile ispatlanmak koşuluyla) | 
+(15 yılı geçmemek üzere ve Resmi belgeler ile ispatlanmak koşuluyla) |
 
-(6 aydan fazla olan süreler tam yıl olarak kabul edilir.) | 
+(6 aydan fazla olan süreler tam yıl olarak kabul edilir.) |
 
-(6 aydan eksik süreler değerlendirmeye alınmaz.) | 
+(6 aydan eksik süreler değerlendirmeye alınmaz.) |
 
 b) Ameliyathane, yoğun bakım, acil sağlık hizmetleri, | 0 | 5
 
-kardiyoloji, çocuk cerrahisi gibi özel önem ve ihtisasa haiz hizmet | 
+kardiyoloji, çocuk cerrahisi gibi özel önem ve ihtisasa haiz hizmet | alanlarında çalışılan herbir hizmet yılı için 1 puan |
 
-alanlarında çalışılan herbir hizmet yılı için 1 puan | 
-
-( 5 yılı geçmemek üzere) | 
+( 5 yılı geçmemek üzere) |
 
 c) Mezun olunan tarih ile hizmetin satın alındığı tarih | 0 | 5
 
-arasında geçen her bir yıl için 1 puan(5 yılı geçmemek üzere) | 
+arasında geçen her bir yıl için 1 puan(5 yılı geçmemek üzere) |
 
-(Mezun olunan yıl ve hizmetin satın alındığı yıl dikkate alınmaz. | 
+(Mezun olunan yıl ve hizmetin satın alındığı yıl dikkate alınmaz. |
 
-Örn; 1999 yılında mezun olunmuş ve hizmet de 2004 yılı içerisinde | 
-
-satın alınacak ise; 1999 ve 2004 yılları dikkate alınmaz, 4 yıl kabul | 
-
-edilir ve 4 puan verilir) | 
+Örn; 1999 yılında mezun olunmuş ve hizmet de 2004 yılı içerisinde | satın alınacak ise; 1999 ve 2004 yılları dikkate alınmaz, 4 yıl kabul | edilir ve 4 puan verilir) |
 
 d) Hizmet satın alacak olan kurum ve kuruluşta en az bir yıl fiilen | 0 | 20
 
-ve başarılı olarak çalışılmış olması halinde ilave 20 puan | 
+ve başarılı olarak çalışılmış olması halinde ilave 20 puan |
 
 4- KURS VE SERTİFİKA PROGRAMLARINA KATILIM | 0 | 25
 
-VE YABANCI DİL DÜZEYİ | 
+VE YABANCI DİL DÜZEYİ |
 
 a) Sertifika ile belgelendirmek ve mesleği ile ilgili olmak şartıyla,en az | 0 | 20
 
-2 hafta süreli her bir kurs için 5 puan | 
+2 hafta süreli her bir kurs için 5 puan |
 
-( 4 sertifikayı geçmemek üzere) | 
+( 4 sertifikayı geçmemek üzere) |
 
 b) KPDS Notu için |  | 0 | 5
 

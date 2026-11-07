@@ -29,11 +29,7 @@ Formları Den-İz Entegrasyonu
 
 DAĞITIM YERLERİNE
 
-Bilindiği üzere sağlık hizmetlerinin ülke genelinde etkin, hızlı, şeffaf ve dijital ortamda denetlenmesini sağlamak amacıyla geliştirilen Sağlık Tesisleri Denetim ve İzleme Sistemi (Den-İz) üzerinden Aile Hekimliği
-
-Birimleri (AHB) ve Aile Sağlığı Merkezlerine (ASM) ait “Aile Sağlığı Merkezi (ASM) İzleme ve Değerlendirme
-
-Formu” ile “Aile Hekimliği Birimi (AHB) İzleme ve Değerlendirme Formu”nun entegre edilmesi süreci 01
+Bilindiği üzere sağlık hizmetlerinin ülke genelinde etkin, hızlı, şeffaf ve dijital ortamda denetlenmesini sağlamak amacıyla geliştirilen Sağlık Tesisleri Denetim ve İzleme Sistemi (Den-İz) üzerinden Aile Hekimliği Birimleri (AHB) ve Aile Sağlığı Merkezlerine (ASM) ait “Aile Sağlığı Merkezi (ASM) İzleme ve Değerlendirme Formu” ile “Aile Hekimliği Birimi (AHB) İzleme ve Değerlendirme Formu”nun entegre edilmesi süreci 01
 
 Temmuz 2025 tarihi itibariyle başlatılmıştır.
 

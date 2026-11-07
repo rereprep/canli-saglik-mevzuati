@@ -15,9 +15,7 @@ Sayı : E-57536863-231.01.01-298795082 22.12.2025
 
 Konu : Yüksek Riskli Gebelik Sistem Takip Rehberi
 
-Anne ölüm oranı tüm dünya ülkelerinde gelişmişlik göstergelerinden biri olmaya devam ederken, Ülkemiz bu konuda önemli başarılar sağlamıştır. Gelinen bu noktada, önlenebilir nedenlerle anne ölümü olmaması için
-
-Bakanlığımızca yürütülen çalışmalar hız kesmeden sürdürülmektedir.
+Anne ölüm oranı tüm dünya ülkelerinde gelişmişlik göstergelerinden biri olmaya devam ederken, Ülkemiz bu konuda önemli başarılar sağlamıştır. Gelinen bu noktada, önlenebilir nedenlerle anne ölümü olmaması için Bakanlığımızca yürütülen çalışmalar hız kesmeden sürdürülmektedir.
 
 Bu amaçla yürütülen Riskli Gebeliklerin Yönetimi Programı kapsamında; MBYS-2’de “Yüksek Riskli Gebelikler İzlem Sistemi” oluşturularak özel ekranlar tasarlanmıştır. Sistem kullanıma açıldığında 81 İl Sağlık Müdürlüğü ÇEKÜS Birim Sorumlularına ve il adminlerine zoom üzerinden bilgilendirme toplantısı yapılmış olup, ekranın kullanıcı kılavuzu da sisteme yüklenmiştir. İllerden gelen geribildirimlerle sistem geliştirilmekte olup, sahada birlikteliğin sağlanması ve hizmetin standardizasyonu amacıyla yeni başlayan kullanıcıların ihtiyaçları da dikkate alınarak hazırlanan bilgilendirici doküman da sisteme (hem duyurular hem de pop-up olarak ekrana) yüklenmiştir. Ayrıca gebelerle görüşmeler sırasında yol gösterici ve standart bir yaklaşım sağlanması amacıyla görüşme metinleri gebe formuna eklenmiştir.
 

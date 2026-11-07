@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 Sayı : E-82792155-323-261654612 09.12.2024
 
 Konu : Fiziksel Aktivite Takip Sistemi Veri Girişi
@@ -18,9 +19,7 @@ DAĞITIM YERLERİNE
 
 İlgi : 03.07.2020 tarihli ve 323 sayılı yazı.
 
-Bakanlığımızca uygulanmakta olan ''Obezite İle Mücadele ve Fiziksel Aktivite
-
-Eylem Planı'' kapsamında, fiziksel aktivite ile ilgili düzenlemelerin takibi için Halk Sağlığı Yönetim Sistemi üzerinde oluşturulan “Fiziksel Aktivite Takip Sistemi Modülü”ne ilinize ait verilerin işlenmesi gerekmektedir.
+Bakanlığımızca uygulanmakta olan ''Obezite İle Mücadele ve Fiziksel Aktivite Eylem Planı'' kapsamında, fiziksel aktivite ile ilgili düzenlemelerin takibi için Halk Sağlığı Yönetim Sistemi üzerinde oluşturulan “Fiziksel Aktivite Takip Sistemi Modülü”ne ilinize ait verilerin işlenmesi gerekmektedir.
 
 İlgi yazıda belirtildiği gibi aralık ve haziran aylarında olmak üzere yılda iki kez güncellenmesi hususunda;
 

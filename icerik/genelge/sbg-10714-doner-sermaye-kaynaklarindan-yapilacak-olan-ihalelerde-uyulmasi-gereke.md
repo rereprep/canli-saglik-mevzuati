@@ -1764,9 +1764,7 @@ Genelge ( Sadece **"I-Döner**
 
 Tedavi Hizmetleri **Sermaye İşlemleri"** başlığı 54 04.01.2001 166 2001/8
 
-Genel Müdürlüğü altında yer alan hükümler
-
-kaldırılmıştır.)
+Genel Müdürlüğü altında yer alan hükümler kaldırılmıştır.)
 
 Tedavi Hizmetleri 55 22.12.2000 24367 Genel Yazı Sarf Malzeme Listeleri
 
@@ -1812,9 +1810,7 @@ Genelge ( Sadece **"I-Döner**
 
 Tedavi Hizmetleri **Sermaye İşlemleri"** başlığı 64 03.01.2000 7 Genel Yazı
 
-Genel Müdürlüğü altında yer alan hükümler
-
-kaldırılmıştır.)
+Genel Müdürlüğü altında yer alan hükümler kaldırılmıştır.)
 
 48 / 48
 

@@ -164,9 +164,7 @@ Yıkıcı faaliyetlerde bulunup bulunmadığı ve 5816 Sayılı Atatürk aleyhin
 
 Yabancılarla, özellikle hasım olması muhtemel Devlet mensupları ve temsilcileri ile ilgili derecesinin iç yüzü ve nedeni,
 
-Sır saklama yeteneğinin olup olmadığı,
-
-araştırılır.
+Sır saklama yeteneğinin olup olmadığı, araştırılır.
 
 Güvenlik Soruşturması ve Arşiv Araştırması Sonucunun Değerlendirilmesi :
 
@@ -192,7 +190,7 @@ Dağıtım Çizelgesi | I
 
 Uygulama Talimatı | II
 
-I. BÖLÜM GENEL HÜKÜMLER | 
+I. BÖLÜM GENEL HÜKÜMLER |
 
 AMAÇ | 1
 
@@ -202,11 +200,11 @@ DAYANAK | 1
 
 TANIMLAR | 1-3
 
-II. BÖLÜM Güvenlik Soruşturmasını Ve Arşiv Araştırmasını Yapacak Makamlar ve Uygulanacak Esaslar | 
+II. BÖLÜM Güvenlik Soruşturmasını Ve Arşiv Araştırmasını Yapacak Makamlar ve Uygulanacak Esaslar |
 
 Güvenlik Soruşturması Ve Arşivi Araştırmasında İzlenecek Yöntem | 4
 
-III. BÖLÜM Güvenlik Soruşturması Ve Arşiv Araştırmasında Araştırılacak Hususlar : | 
+III. BÖLÜM Güvenlik Soruşturması Ve Arşiv Araştırmasında Araştırılacak Hususlar : |
 
 Güvenlik Soruşturması Ve Arşiv Araştırmasında Araştırılacak Hususlar | 5
 
@@ -270,6 +268,6 @@ SIRA NO | GÖNDERİLEN MAKAM | ADET
 
 26 | İçişleri Bakanlığı (Emniyet Müdürlüğü) | 1
 
- | Arşiv | 10
+| Arşiv | 10
 
- | TOPLAM | 116
+| TOPLAM | 116

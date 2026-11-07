@@ -11,7 +11,6 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -25,9 +24,7 @@ DAĞITIM YERLERİNE
 
 5258 sayılı Aile Hekimliği Kanunu’nun üçüncü maddesinde “<i>Sağlığın geliştirilmesi, hastalıkların</i> <i>önlenmesi, takibi ve kontrolü ile koruyucu sağlık hizmetlerinin standartlara uygun olarak yerine getirilmemesi</i> <i>gibi Bakanlıkça belirlenen performans hedeflerine ulaşılamaması halinde sözleşmenin Bakanlıkça</i> <i>yenilenmemesine karar verilebilir.”</i> hükmü mevcuttur. Bu hükme istinaden Aile Hekimliği Sözleşme ve Ödeme
 
-Yönetmeliği’nde değişiklik öngören Yönetmelik değişikliği ile Aile Hekimliği Sözleşme ve Ödeme
-
-Yönetmeliği’nin “<i>Sözleşmelerin yenilenmesi”</i> başlıklı 7 nci maddesinin birinci fıkrasına <i>“Sözleşme süresi</i> <i>sonunda görevine devam etmek isteyen aile hekimi ve aile sağlığı çalışanının sözleşmeleri; gebe, lohusa, bebek-</i> <i>çocuk izlemleri, bağışıklama, kronik hastalık tarama ve izlemleri, kanser taramaları gibi koruyucu ve önleyici</i> <i>sağlık hizmetleri kapsamında Bakanlıkça belirlenecek ve her sözleşme dönemi öncesinde ilan edilecek</i> <i>göstergelerden aile hekimliği biriminin aldığı toplam puanın yine Bakanlıkça belirlenecek ve her sözleşme</i> <i>dönemi öncesinde ilan edilecek gösterge hedef puanına eşit olması ya da hedef puanı geçmesi halinde yenilenir.</i>
+Yönetmeliği’nde değişiklik öngören Yönetmelik değişikliği ile Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği’nin “<i>Sözleşmelerin yenilenmesi”</i> başlıklı 7 nci maddesinin birinci fıkrasına <i>“Sözleşme süresi</i> <i>sonunda görevine devam etmek isteyen aile hekimi ve aile sağlığı çalışanının sözleşmeleri; gebe, lohusa, bebek-</i> <i>çocuk izlemleri, bağışıklama, kronik hastalık tarama ve izlemleri, kanser taramaları gibi koruyucu ve önleyici</i> <i>sağlık hizmetleri kapsamında Bakanlıkça belirlenecek ve her sözleşme dönemi öncesinde ilan edilecek</i> <i>göstergelerden aile hekimliği biriminin aldığı toplam puanın yine Bakanlıkça belirlenecek ve her sözleşme</i> <i>dönemi öncesinde ilan edilecek gösterge hedef puanına eşit olması ya da hedef puanı geçmesi halinde yenilenir.</i>
 
 <i>Göstergeler ve/veya hedef puanlar, bölgesel olarak belirlenebilir. Bu değerlendirme bir sözleşme döneminde altı</i> <i>ay ve üzeri çalışan sözleşmeli aile hekimi ve aile sağlığı çalışanı için uygulanır.”</i> hükmü ilave edilerek 01/11/2024 tarihi itibariyle yürürlüğe girmiştir.
 
@@ -35,9 +32,7 @@ Mezkûr düzenlemeye istinaden 31/12/2024 tarihli ve E-99858683-020-264155636 sa
 
 1) Sözleşme yenilenmesine ilişkin EK-1’deki gösterge, gösterge değer aralıkları ve puanları esas alınmak suretiyle gösterge hedef puanı 70 (yetmiş) olarak belirlenmiştir.
 
-2) Göstergelere ait puan, her ay için aile hekimliği birimi bazlı hesaplanacaktır. Aile hekimliği birimi üzerinden hesaplanan puan, ilgili ayda sözleşmeli olarak çalışan aile hekimi/aile sağlığı çalışanının “Sözleşme
-
-Yenilemeye Esas Puan” hesaplamasına dahil edilecektir.
+2) Göstergelere ait puan, her ay için aile hekimliği birimi bazlı hesaplanacaktır. Aile hekimliği birimi üzerinden hesaplanan puan, ilgili ayda sözleşmeli olarak çalışan aile hekimi/aile sağlığı çalışanının “Sözleşme Yenilemeye Esas Puan” hesaplamasına dahil edilecektir.
 
 3) Aile hekimi ve aile sağlığı çalışanı için ayrı ayrı olmak üzere, ilgili aile hekimi ve aile sağlığı çalışanının sözleşme süresi boyunca görev yaptığı aile hekimliği birimlerine ait aylık puanların toplamının, toplama dahil edilen ay sayısına bölünmesi suretiyle elde edilen ortalama puan Sözleşme Yenilemeye Esas Puan olacaktır.
 
@@ -66,4 +61,3 @@ Ek: Sözleşme Yenileme Gösterge ve Puan Tablosu (1 sayfa)
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğüne)
-

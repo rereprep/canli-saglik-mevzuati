@@ -17,9 +17,7 @@ Konu : VSD-17 Aylık Çalışma ve İkmal Raporu
 
 DAĞITIM YERLERİNE
 
-Tüberküloz hasta verileri, İlçe Sağlık Müdürlüğü/TSM bünyesindeki Verem Savaşı Dispanseri
-
-Birimlerinden (VSD) formlarla ve bireysel bazlı olarak toplanmakta, analiz edilmekte ulusal ve uluslararası düzeyde raporlanmaktadır.
+Tüberküloz hasta verileri, İlçe Sağlık Müdürlüğü/TSM bünyesindeki Verem Savaşı Dispanseri Birimlerinden (VSD) formlarla ve bireysel bazlı olarak toplanmakta, analiz edilmekte ulusal ve uluslararası düzeyde raporlanmaktadır.
 
 Temel Sağlık İstatistikleri Modülü (TSİM) 01.07.2025 tarihi itibariyle kullanıma kapatıldığından VSD’ler tarafından kullanılan “VSD-17 Aylık Çalışma ve İkmal Raporu”nun Ulusal Tüberküloz Sistemi (UTS)’nde yer alması planlanmıştır. Sisteme girişi yapılan hasta kayıtlarından uygun başlıklara veri gelmesi ile aylık çalışma formunun UTS’de otomatik olarak oluşturulması sağlanacaktır.
 

@@ -78,21 +78,15 @@ EK-1 Sağlık Bilgi Sistemleri Genel Müdürlüğü Tarafından Yürütülecek H
 
 2. Kişisel sağlık verileri ile ülke düzeyinde sağlık durumu ve sağlık hizmetlerine ilişkin
 
-veri ve bilgi akışını içeren her türden bilgi sistemleri ve projelerini yapmak ve
-
-yaptırmak,
+veri ve bilgi akışını içeren her türden bilgi sistemleri ve projelerini yapmak ve yaptırmak,
 
 3. Sağlık bilgi sistemleri ve teknolojileri alanında uluslararası gelişmeleri izlemek, ülke
 
-uygulamalarını ve tecrübelerini paylaşmak, gerektiğinde uluslararası kuruluşlarla
-
-işbirliği yapmak,
+uygulamalarını ve tecrübelerini paylaşmak, gerektiğinde uluslararası kuruluşlarla işbirliği yapmak,
 
 4. Bakanlık üst yönetimi tarafından belirlenen amaç ve ilkelere uygun olarak Genel
 
-Müdürlük tarafından yürütülen ulusal ve uluslararası projeler için finansal kaynak
-
-geliştirmek,
+Müdürlük tarafından yürütülen ulusal ve uluslararası projeler için finansal kaynak geliştirmek,
 
 5. Genel Müdürlüğün Avrupa Birliği tarafından sunulan proje kaynaklarından etkin bir
 
@@ -104,9 +98,7 @@ projelerin yurt içi/yurt dışı tanıtımını sağlamak,
 
 7. Sağlık bilişimi ve teknolojisi alanında çalışacak kamu ve özel hukuk tüzel kişileri ile
 
-gerçek kişilerin uyacakları kuralları belirlemek, uygulamak, gerektiğinde bunların
-
-yazılım ve ürünlerinin uygunluğuna karar vermek ve müelliflerini yetkilendirmek,
+gerçek kişilerin uyacakları kuralları belirlemek, uygulamak, gerektiğinde bunların yazılım ve ürünlerinin uygunluğuna karar vermek ve müelliflerini yetkilendirmek,
 
 8. Bakan tarafından verilen benzeri görevleri yapmaktır. Proje Geliştirme Daire Başkanlığı
 
@@ -118,9 +110,7 @@ geliştirmek, kesintisiz olarak sürdürülmesini sağlamak,
 
 3. Birimlerden gelen sağlık yazılım ihtiyaçlarını değerlendirerek gerçekleştirilmesi için
 
-planlama yapmak, projeler hazırlamak, hizmet satın alınması gereken durumlarda
-
-uygulamalara ait yazılımların dışardan temini için teknik şartname hazırlamak,
+planlama yapmak, projeler hazırlamak, hizmet satın alınması gereken durumlarda uygulamalara ait yazılımların dışardan temini için teknik şartname hazırlamak,
 
 4. Gelişen teknolojilerin takibini yapmak ve yeni teknolojiler aracılığı ile veri toplama
 
@@ -128,9 +118,7 @@ süreçlerini organize etmek,
 
 5. Bakanlık merkez ve taşra teşkilatlarından veya diğer kurum ve kuruluşlardan talep
 
-edilen operasyonel iş ve işlemleri (mahkeme, savcılık ve diğer kurumların resmi bilgi
-
-talepleri vb.) yürütmek,
+edilen operasyonel iş ve işlemleri (mahkeme, savcılık ve diğer kurumların resmi bilgi talepleri vb.) yürütmek,
 
 6. Sağlık politikaları oluşturabilmek için Karar Destek Sistemlerini (KDS) kurmak ve
 
@@ -142,11 +130,7 @@ kurmak ve geliştirmek,
 
 8. Görüntüleme, patoloji, EKG vb. alanlarda uzaktan sağlık hizmet sunumunun
 
-verilebilmesi amacıyla Tele-Tıp ve Tele-Sağlık sistemlerini kurmak, geliştirmek,
-
-uygulamaların mevcut sistemlerle birlikte çalışabilirliğini organize etmek ve
-
-yaygınlaştırmak,
+verilebilmesi amacıyla Tele-Tıp ve Tele-Sağlık sistemlerini kurmak, geliştirmek, uygulamaların mevcut sistemlerle birlikte çalışabilirliğini organize etmek ve yaygınlaştırmak,
 
 9. Mobil sağlık hizmetleri alanında oluşan yeni teknolojilerin sağlık hizmetlerinde
 
@@ -154,13 +138,7 @@ kullanımının yaygınlaştırılmasını sağlamak,
 
 10. Bakanlık merkez birimleri ile bağlı kuruluşlarının ihtiyacı olan uygulama yazılımlarını
 
-geliştirmek veya bu birimlerin görevlerini yerine getirebilmesi için dış kaynak
-
-kullanarak elde edeceği ürün ve hizmetlerin tedarik sürecinde sözleşme metinleri
-
-hazırlamak, sözleşme yönetimi çalışmalarını yürütmek ve ilgili birimlere rehberlik
-
-etmek,
+geliştirmek veya bu birimlerin görevlerini yerine getirebilmesi için dış kaynak kullanarak elde edeceği ürün ve hizmetlerin tedarik sürecinde sözleşme metinleri hazırlamak, sözleşme yönetimi çalışmalarını yürütmek ve ilgili birimlere rehberlik etmek,
 
 11. Geliştirilen ve dışarıdan temin edilen yazılımların kullanıcı eğitimlerini
 
@@ -168,27 +146,19 @@ vermek/verdirmek, eğitim materyalleri hazırlamak/hazırlatmak,
 
 12. Geliştirilen tüm uygulamaların bilgi güvenliği kapsamında kalite kontrollerini
 
-yapmak, oluşabilecek risklere karşı gerekli tedbirlerin alınmasını ve iş süreçlerine
-
-uygunluğunu sağlamak,
+yapmak, oluşabilecek risklere karşı gerekli tedbirlerin alınmasını ve iş süreçlerine uygunluğunu sağlamak,
 
 13. Avrupa Birliği ülkeleri, uluslararası kuruluşlar ve örgütlerce (DSÖ, OECD,
 
-EUROSTAT, HIMSS vb.) tanımlanan sağlık verilerini karşılamak üzere Bakanlık
-
-birimleriyle birlikte çalışılabilirlik ( interoperability) kapsamında çalışmalar yapmak,
+EUROSTAT, HIMSS vb.) tanımlanan sağlık verilerini karşılamak üzere Bakanlık birimleriyle birlikte çalışılabilirlik ( interoperability) kapsamında çalışmalar yapmak,
 
 14. Bakanlık merkez ve taşra birimlerinin, bağlı kurumların ihtiyaçlarına yönelik toplamış
 
-oldukları veriler üzerinde veri madenciliğini hayata geçirmek, geleceğe yönelik iş
-
-zekası sistemleri ve Coğrafi Bilgi Sistemleri ile entegre çalışmalar yürütmek,
+oldukları veriler üzerinde veri madenciliğini hayata geçirmek, geleceğe yönelik iş zekası sistemleri ve Coğrafi Bilgi Sistemleri ile entegre çalışmalar yürütmek,
 
 15. Diğer kamu kurum ve kuruluşlara ait uygulamalar ile Coğrafi Bilgi Sistemleri
 
-kapsamında entegrasyon sağlayarak ortak bilgi havuzu oluşturarak uygulama üzerinde
-
-geliştirmeler sağlamak,
+kapsamında entegrasyon sağlayarak ortak bilgi havuzu oluşturarak uygulama üzerinde geliştirmeler sağlamak,
 
 16. Görev alanı ile ilgili olarak Genel Müdür tarafından verilen diğer görevleri yapmaktır. Standart Geliştirme ve Akreditasyon Daire Başkanlığı
 
@@ -226,9 +196,7 @@ sağlamak ve denetlemek, (USVS, SKRS vb. standartlara uygunluk)
 
 8. Sağlık bilgi sistemleri yazılım üreticilerinin kayıt, tescil, ruhsatlandırma ve
 
-lisanslandırılması ve/veya bu alanda üretilen uygulama yazılımlarının akreditasyon
-
-süreçlerini yönetmek,
+lisanslandırılması ve/veya bu alanda üretilen uygulama yazılımlarının akreditasyon süreçlerini yönetmek,
 
 9. Yazılım üreticileri ve/veya yazılımların denetim süreçlerini yönetmek,
 
@@ -248,37 +216,23 @@ Uygulama Yönetimi Daire Başkanlığı
 
 1. Bakanlık ve bağlı kuruluşlarında Elektronik Belge Yönetim Sistemi (EBYS) ve e-imza
 
-kullanımını sağlamak, yazılımların bakım, destek, güncelleme ve uyarlama sürecini
-
-yönetmek,
+kullanımını sağlamak, yazılımların bakım, destek, güncelleme ve uyarlama sürecini yönetmek,
 
 2. Bakanlık üst yönetimi tarafından belirlenen amaç ve ilkelere uygun olarak; Bakanlık
 
-bünyesindeki Çekirdek Kaynak Yönetim Sistemi (ÇKYS) uygulamasına mevzuat
-
-değişikliklerinin ve kurumsal kaynak planlama süreç analizlerinin yansıtılması,
-
-güncellenmesi talep edilen yeni modüllerin yazılması aşamaları ile ilgili faaliyetleri
-
-yürütmek,
+bünyesindeki Çekirdek Kaynak Yönetim Sistemi (ÇKYS) uygulamasına mevzuat değişikliklerinin ve kurumsal kaynak planlama süreç analizlerinin yansıtılması, güncellenmesi talep edilen yeni modüllerin yazılması aşamaları ile ilgili faaliyetleri yürütmek,
 
 3. Bakanlık üst yönetimi tarafından belirlenen amaç ve ilkeler uygun olarak;
 
-Bakanlığımız web sitesinin sürekliliğinin sağlanması ve yönetilmesi için gerekli olan
-
-altyapıyı hazırlamak,
+Bakanlığımız web sitesinin sürekliliğinin sağlanması ve yönetilmesi için gerekli olan altyapıyı hazırlamak,
 
 4. Üst yönetim tarafından uygun görülen Bakanlığımıza bağlı web siteleri için standart
 
-ara yüz tasarımları sunmak ve bu sitelerin yönetimi için gerekli olan altyapı desteğini
-
-vermek,
+ara yüz tasarımları sunmak ve bu sitelerin yönetimi için gerekli olan altyapı desteğini vermek,
 
 5. Hedef kitlenin bilgi ve iletişim teknolojileri aracılığıyla alabilecekleri eğitim için
 
-gerekli altyapıyı araştırmak, kurmak ve işletmek, ihtiyaç duyulan hizmet içi eğitim
-
-faaliyetlerini organize etmek,
+gerekli altyapıyı araştırmak, kurmak ve işletmek, ihtiyaç duyulan hizmet içi eğitim faaliyetlerini organize etmek,
 
 6. Görev tanımlarına giren konularda, Uluslararası kuruluşlar, örgütler (DSÖ, OECD,
 
@@ -286,9 +240,7 @@ EUROSTAT, HIMSS vb.) ve sektörler arası işbirliği çalışmalarını yürüt
 
 7. Genel Müdürlük tarafından belirlenen amaç, ilke ve talimatlara uygun olarak Bakanlık
 
-tarafından yürütülen bilişim temelli tüm projelerde kullanılan ve kullanılacak olan,
-
-kullanıcı hesaplarının sürekliliğini sağlamak,
+tarafından yürütülen bilişim temelli tüm projelerde kullanılan ve kullanılacak olan, kullanıcı hesaplarının sürekliliğini sağlamak,
 
 8. Hesapların güvenliğinin sağlanabilmesi için gerekli çalışmaları yapmak,
 
@@ -308,9 +260,7 @@ kullanıcı hesaplarının sürekliliğini sağlamak,
 
 Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele
 
-Edilmesi Hakkında Kanun” ve diğer ilgili mevzuat gereğince internet trafiğini izlemek
-
-ve kaydını tutmak,
+Edilmesi Hakkında Kanun” ve diğer ilgili mevzuat gereğince internet trafiğini izlemek ve kaydını tutmak,
 
 7. Tüm bilgi sistemlerinin veri tabanı performansını ölçmek, değerlendirmek ve
 
@@ -326,11 +276,7 @@ süreçlerini yönetmek,
 
 10. Sağlık Bilişim Ağı Projesinin ve Protokolünün idari olarak tüm süreçlerinin
 
-koordinasyonu ve takip edilmesi, protokolde yer alan katma değerli hizmetlerin
-
-yürütülmesi, kontrolü ve meydana gelen sorunların tespiti, yönetimi ve idamesi
-
-çalışmalarını planlamak ve yürütmek,
+koordinasyonu ve takip edilmesi, protokolde yer alan katma değerli hizmetlerin yürütülmesi, kontrolü ve meydana gelen sorunların tespiti, yönetimi ve idamesi çalışmalarını planlamak ve yürütmek,
 
 11. SOME (Siber Olaylara Müdahale Ekibi), sorumluluk alanındaki siber güvenliğin
 
@@ -346,15 +292,11 @@ yaygınlaştırmak için gerekli çalışmaları yürütmek,
 
 14. Genel Müdürlük sorumluluğunda bulunan tüm sistemlerin (sunucu, network, storage
 
-vb.) merkezi izleme programlarına ekleme, eklenmiş noktaların bilgilerini
-
-görüntüleme ve geriye dönük bilgileri analiz etme ile ilgili faaliyetleri yürütmek,
+vb.) merkezi izleme programlarına ekleme, eklenmiş noktaların bilgilerini görüntüleme ve geriye dönük bilgileri analiz etme ile ilgili faaliyetleri yürütmek,
 
 15. Bakanlık ve bağlı kuruluşlarının bilgisayar ve çevre birimleri temin süreçlerinde
 
-teknik destek vermek, bunların tamir ve bakım hizmetlerini sağlamak, arıza tespit
-
-sistemine bildirilen talepleri takip etmek,
+teknik destek vermek, bunların tamir ve bakım hizmetlerini sağlamak, arıza tespit sistemine bildirilen talepleri takip etmek,
 
 16. Kurum hizmetlerinin gerektirdiği yurt içi, yurt dışı, ziyaret, toplantı, seminer, çalıştay
 
@@ -372,9 +314,7 @@ tahakkuk işlemlerini yürütmek,
 
 3. 657 Sayılı Devlet Memurları Kanunu ve 6245 Sayılı Harcırah Kanunu’na göre
 
-yapılacak ödemelerin kontrolünü yapmak, maaş ve görev yollukları ödeme süreçlerini
-
-yönetmek,
+yapılacak ödemelerin kontrolünü yapmak, maaş ve görev yollukları ödeme süreçlerini yönetmek,
 
 4. Kamu İhale Kanunu çerçevesinde belirlenmiş esas ve usuller ile satın alma süreçlerini
 
@@ -384,9 +324,7 @@ yönetmek, bunların ödemelerinin kontrolünü yapmak,
 
 6. Genel Müdürlükte görev yapmak üzere başvuran adayların niteliklerini
 
-değerlendirmek ve uygun görülenlerin işe alınmasını veya görevlendirilmesini
-
-sağlamak,
+değerlendirmek ve uygun görülenlerin işe alınmasını veya görevlendirilmesini sağlamak,
 
 7. Genel Müdürlük personelinin; işe başlama, izin, terfi, ceza, ilişik kesme, sendika ile
 
@@ -402,9 +340,7 @@ ilgililere bildirmek,
 
 11. Birimler tarafından birim arşivine devredilen arşivlik malzemelerin Devlet Arşiv
 
-Hizmetleri Yönetmeliğine uygun olup olmadığını kontrol etmek, uygun olanları imza
-
-karşılığı teslim almak ve muhafazasını sağlamak,
+Hizmetleri Yönetmeliğine uygun olup olmadığını kontrol etmek, uygun olanları imza karşılığı teslim almak ve muhafazasını sağlamak,
 
 12. Arşiv mevzuatını ve standart dosya planı değişikliklerini takip etmek,
 
@@ -414,9 +350,7 @@ yürütmek,
 
 14. Genel Müdürlüğün görev alanına giren konularda, BİMER, SABİM, SBN, Bilgi
 
-Edinme den gelen sorularla TBMM den gelen Soru Önergelerini cevaplandırmak ve
-
-ilgili faaliyetleri yürütmek,
+Edinme den gelen sorularla TBMM den gelen Soru Önergelerini cevaplandırmak ve ilgili faaliyetleri yürütmek,
 
 15. Görev alanı ile ilgili olarak Genel Müdür tarafından verilen diğer görevleri yapmaktır.
 
@@ -424,9 +358,7 @@ Hukuk Koordinatörlüğü
 
 1. Genel Müdürlüğün görev, yetki ve sorumlulukları kapsamında olan bilişim hukuku,
 
-genel yönetim hukuku ve sağlık hukuku süreçlerini takip etmek, düzenleyici alt
-
-mevzuat geliştirmek ve yayımlanmasında hukuki destekte bulunmak,
+genel yönetim hukuku ve sağlık hukuku süreçlerini takip etmek, düzenleyici alt mevzuat geliştirmek ve yayımlanmasında hukuki destekte bulunmak,
 
 2. Genel Müdürlüğün temin ettiği tüm ürün ve hizmetlere ait sözleşmeleri takip etmek,
 
@@ -436,21 +368,15 @@ mevzuat geliştirmek ve yayımlanmasında hukuki destekte bulunmak,
 
 1. Bakanlık üst yönetimi tarafından belirlenen amaç ve ilkelere uygun olarak; Sağlık
 
-Bilgi Sistemleri Genel Müdürlüğünün stratejik amaç, hedefleri ile performans amaç ve
-
-hedeflerinin planlanma çalışmalarını koordine etmek,
+Bilgi Sistemleri Genel Müdürlüğünün stratejik amaç, hedefleri ile performans amaç ve hedeflerinin planlanma çalışmalarını koordine etmek,
 
 2. Genel Müdürlük tarafından belirlenen amaç, ilke ve talimatlara uygun olarak; İç
 
-Kontrol Sisteminin kurulması, mevzuatın öngördüğü biçimde standartların
-
-oluşturulması, uygulanması, geliştirilmesi, gerekli iyileştirmeleri yapmak,
+Kontrol Sisteminin kurulması, mevzuatın öngördüğü biçimde standartların oluşturulması, uygulanması, geliştirilmesi, gerekli iyileştirmeleri yapmak,
 
 3. İç Kontrol Sisteminin izlenmesi ve değerlendirilmesi konusunda çalışmalar yapılması
 
-ve bu çalışmaların hizmetlerde sürekliliği ve kaliteyi artırmak için gerekli faaliyetleri
-
-planlamak, yürütmek ve koordine etmek,
+ve bu çalışmaların hizmetlerde sürekliliği ve kaliteyi artırmak için gerekli faaliyetleri planlamak, yürütmek ve koordine etmek,
 
 4. Birim faaliyet raporunun hazırlanmasını sağlamak,
 
@@ -458,36 +384,22 @@ planlamak, yürütmek ve koordine etmek,
 
 1. Bakanlık üst yönetimi tarafından belirlenen amaç ve ilkelere uygun olarak; Tüm
 
-Türkiye’ye hizmet veren ve farklı illerde bulunan çağrı merkezlerinin 7/24 etkili
-
-verimli ve kaliteli çalışması sağlamak,
+Türkiye’ye hizmet veren ve farklı illerde bulunan çağrı merkezlerinin 7/24 etkili verimli ve kaliteli çalışması sağlamak,
 
 2. Çağrı merkezi çalışanlarını izlemek, değerlendirmek ve raporlamak, Firma
 
-personellerinin özlük hakları, izin rapor, vb. evraklarını firmalara bildirmek, imza
-
-föylerini takip ederek aylık puantaj dosyalarını hazırlamak,
+personellerinin özlük hakları, izin rapor, vb. evraklarını firmalara bildirmek, imza föylerini takip ederek aylık puantaj dosyalarını hazırlamak,
 
 3. İllerde kurulu Kontrol Teşkilatı ile Koordinatörlük arasında iletişim ve bilgi akışını
 
-sağlamak, Muayene Kabul Teşkilatının denetleme planını hazırlamak ve
-
-organizasyonu yapmak, Komisyonların toplantı, eğitim planlama ve organizasyonunu
-
-yapmak, Muayene Kabul dosyalarının muhafazasını saklamak,
+sağlamak, Muayene Kabul Teşkilatının denetleme planını hazırlamak ve organizasyonu yapmak, Komisyonların toplantı, eğitim planlama ve organizasyonunu yapmak, Muayene Kabul dosyalarının muhafazasını saklamak,
 
 4. Merkezi Hekim Randevu Sistemi (MHRS) ve istenildiğinde Bakanlığa bağlı diğer
 
-birimlerin sosyal medya takibinde ve iletişim faaliyetlerinde görev almak, sosyal
-
-medya verilerini toplayarak raporlamak,
+birimlerin sosyal medya takibinde ve iletişim faaliyetlerinde görev almak, sosyal medya verilerini toplayarak raporlamak,
 
 5. Bakanlık bünyesindeki hastane, il sağlık müdürlükleri, halk sağlığı müdürlükleri,
 
 Hastane Bilgi Yönetim Sistemi (HBYS) ve Aile Hekimliği Bilgi Sistemi (AHBS)
 
-firmalarından iletişim ve yardım merkezine Merkezi Hekim Randevu Sistemi ile ilgili
-
-gelen başvuruların, vatandaşlardan gelen e-maillerin SABİM kanalıyla MHRS
-
-birimine ulaşan başvuruların çözüme kavuşturulmasını sağlamaktır.
+firmalarından iletişim ve yardım merkezine Merkezi Hekim Randevu Sistemi ile ilgili gelen başvuruların, vatandaşlardan gelen e-maillerin SABİM kanalıyla MHRS birimine ulaşan başvuruların çözüme kavuşturulmasını sağlamaktır.

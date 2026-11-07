@@ -199,9 +199,7 @@ c) Bakanlığın merkez teşkilatında ve bağlı veya ilgili kuruluşlarında g
 
 **Yetkili mercilerin tespiti**
 
-**MADDE 21-** (1) Soruşturma izni verme yetkisine sahip merciin belirlenmesinde, hakkında soruşturma yürütülecek olan memur veya kamu görevlisinin, fiilin işlendiği tarihteki görevi esas alınır. Soruşturma konusu fiile, birden fazla kamu görevlisinin iştiraki söz
-
-konuşuysa ve bu kişilerden biri ast diğeri üst konumdaysa, izin yetkisi üst memurun bağlı olduğu mercie aittir.
+**MADDE 21-** (1) Soruşturma izni verme yetkisine sahip merciin belirlenmesinde, hakkında soruşturma yürütülecek olan memur veya kamu görevlisinin, fiilin işlendiği tarihteki görevi esas alınır. Soruşturma konusu fiile, birden fazla kamu görevlisinin iştiraki söz konuşuysa ve bu kişilerden biri ast diğeri üst konumdaysa, izin yetkisi üst memurun bağlı olduğu mercie aittir.
 
 **Karar verme süresi**
 

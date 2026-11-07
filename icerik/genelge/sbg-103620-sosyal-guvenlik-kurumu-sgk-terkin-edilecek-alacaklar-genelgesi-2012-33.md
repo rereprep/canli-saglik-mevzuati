@@ -13,7 +13,6 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-
 **11.3.9. Sosyal Güvenlik Kurumu (SGK) Terkin Edilecek Alacaklar** Genelgesi (2012/33)
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -37,17 +36,11 @@ Söz konusu esas ve usullerin "Tanımlar" başlıklı 4'üncü maddesinde; "Geri
 
 a) Bakanlık ve Kurunca imzalanan protokol kapsamında tedavi giderleri karşılanan
 
-kişiler için yılı Içinde düzenlenen faturaların toplam tutarından, Sözleşme
-
-kapsananda yapılmış ödemelerin toplam tutarım aşan kısmını tamamı,
+kişiler için yılı Içinde düzenlenen faturaların toplam tutarından, Sözleşme kapsananda yapılmış ödemelerin toplam tutarım aşan kısmını tamamı,
 
 b) Diğer geri ödeme kurumları tarafndan tedavi giderleri karşılanan kişiler için en
 
-geç Götürü Bedel Üzerinden Sağlık Hizmeti Alım Sözleşmesinin ait olduğu yılın
-
-somuna kadar düzenlenen faturalordan; bedeli ödenmemiş olanlarım tamamı,
-
-terkin edilir.
+geç Götürü Bedel Üzerinden Sağlık Hizmeti Alım Sözleşmesinin ait olduğu yılın somuna kadar düzenlenen faturalordan; bedeli ödenmemiş olanlarım tamamı, terkin edilir.
 
 Yukarıda belirtilen terkin edilmesi gereken faturaların muhasebe kayıtlarından kayıtlardan çıkarılma zamanı cari yıś aralk ayıın son gånå tarihine kadardır."
 

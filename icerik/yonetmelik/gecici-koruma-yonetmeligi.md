@@ -120,9 +120,7 @@ ifade eder.
 
 a) Mültecilerin Hukuki Durumuna Dair 1967 Protokolüyle değişik 28/7/1951 tarihli Mültecilerin Hukuki
 
-Durumuna Dair Sözleşmenin 1 inci maddesinin (F) fıkrasında belirtilen fiillerden suçlu olduğuna dair
-
-ciddi kanaat bulunanlar.
+Durumuna Dair Sözleşmenin 1 inci maddesinin (F) fıkrasında belirtilen fiillerden suçlu olduğuna dair ciddi kanaat bulunanlar.
 
 b) Türkiye dışında hangi saikle olursa olsun zalimce eylemler yaptığını düşündürecek nedenleri
 

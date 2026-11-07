@@ -67,9 +67,7 @@ Kamu Sağlık Hizmetleri Fiyat Tarifesi EK-2'sinde yer alan fiyatın bir katıd�
 
 **MADDE 7-** (1) Aile hekimliği birimlerinde düzenlenen ve Sağlık Bakanlığınca usul ve esasları belirlenen özel amaçlı sağlık raporları ücretli olarak sunulur. Bu raporlardan hangilerinin aile hekimliği birimlerinde ücretli olarak sunulacağı her yıl Sağlık Bakanlığınca ilan edilir.
 
-(2) Bu raporların bedeli, Sağlık Bakanlığınca belirlenen Kamu Sağlık Hizmetleri Fiyat Tarifesi
-
-EK-2sinde yer alan aile hekimliği için belirlenen tutardır.
+(2) Bu raporların bedeli, Sağlık Bakanlığınca belirlenen Kamu Sağlık Hizmetleri Fiyat Tarifesi EK-2sinde yer alan aile hekimliği için belirlenen tutardır.
 
 **Ödeme ve tahsilat**
 

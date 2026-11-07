@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Tuberkuloz
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,17 +25,13 @@ Konu: Tüberküloz Hastalarına Nakdi Yardım
 
 DAĞITIM YERLERİNE
 
-Aile ve Sosyal Hizmetler Bakanlığı ile yapılan protokol çerçevesinde “Psiko-Sosyal ve Mali Kayıp
-
-Yaşayan Tüberküloz ve SSPE Hastalarına Yönelik Düzenli Nakdi Yardım Programı” ile ekonomik ve sosyal güçlükler yaşayan tüberküloz hastalarına 2018 yılı Ocak ayından itibaren nakdi sosyal yardım verilmektedir.
+Aile ve Sosyal Hizmetler Bakanlığı ile yapılan protokol çerçevesinde “Psiko-Sosyal ve Mali Kayıp Yaşayan Tüberküloz ve SSPE Hastalarına Yönelik Düzenli Nakdi Yardım Programı” ile ekonomik ve sosyal güçlükler yaşayan tüberküloz hastalarına 2018 yılı Ocak ayından itibaren nakdi sosyal yardım verilmektedir.
 
 Verem Savaşı Dispanseri Birimleri, Ulusal Tüberküloz Sistemi Sosyal Yardım Modülü üzerinden nakdi sosyal yardım başvurusu yapmaktadır. Bu aşamada kullanılan “Tüberküloz Hastalarına Yönelik Şartlı ve
 
 Düzenli Nakdi Sosyal Yardım Kılavuzu” güncellenmiş olup Bakanlık tarafından yürütülen son onay, izleme ve değerlendirme yetkisi İl Sağlık Müdürlüklerine devredilmiştir.
 
-Bu kapsamda, 24.04.2023 tarihi itibarıyla yayımlanacak "Güncellenmiş Yeni Sosyal Yardım
-
-Modülü"ndeki iş ve işlemlerin yürütülmesi amacıyla İl Sağlık Müdürünün kendisi veya uygun göreceği Başkan veya Başkan Yardımcısından oluşan asıl ve yedek kullanıcılar resmi yazıyla görevlendirilerek, görevlendirilen "İl Sağlık Müdürlüğü Yetkilisi"nin il bilgi işlem yöneticisi (admin) tarafından sisteme tanımlanmasının sağlanması hususunda;
+Bu kapsamda, 24.04.2023 tarihi itibarıyla yayımlanacak "Güncellenmiş Yeni Sosyal Yardım Modülü"ndeki iş ve işlemlerin yürütülmesi amacıyla İl Sağlık Müdürünün kendisi veya uygun göreceği Başkan veya Başkan Yardımcısından oluşan asıl ve yedek kullanıcılar resmi yazıyla görevlendirilerek, görevlendirilen "İl Sağlık Müdürlüğü Yetkilisi"nin il bilgi işlem yöneticisi (admin) tarafından sisteme tanımlanmasının sağlanması hususunda;
 
 Bilgilerini ve gereğini arz/rica ederim.
 
@@ -179,9 +176,7 @@ Müdürü’nün sorumluluğundadır.
 
 C. NAKDİ SOSYAL YARDIM SÜREÇLERİ
 
-Yardımdan yararlanma şartlarını sağlayan tüberküloz hastalarına verilecek yardım miktarı
-
-ASHB tarafından belirlenir.
+Yardımdan yararlanma şartlarını sağlayan tüberküloz hastalarına verilecek yardım miktarı ASHB tarafından belirlenir.
 
 Nakdi sosyal yardım müracaatları, hastanın ikamet ettiği ilçedeki SYDV’ye yapılır. Taleplerin değerlendirilmesi ve karara bağlanması SYDV’nin yetki ve sorumluluğunda olup ödemeler ASHB tarafından kişilerin hesaplarına yapılmaktadır.
 
@@ -247,17 +242,9 @@ IV. Yatan hastaların başvuru işlemleri hastane, VSD arasında hasta velisi/ka
 
 Sosyal Yardım Başvuru Ekle Alanı’na hasta T.C. kimlik numarası yazılır ve sorgulama yapılır.
 
-Sorgulama sonucunda açılan ekranda Hasta Kimlik Bilgileri Alanı, Merkezi Nüfus İdare Sistemi (MERNİS)’nden otomatik olarak gelir. Hasta İletişim Bilgileri alanında MERNİS’den gelen bilgiler görülür. Eksik bilgiler mutlaka tamamlanır (telefon numarası, mahalle/köy adı vs.). Sosyal Yardım
+Sorgulama sonucunda açılan ekranda Hasta Kimlik Bilgileri Alanı, Merkezi Nüfus İdare Sistemi (MERNİS)’nden otomatik olarak gelir. Hasta İletişim Bilgileri alanında MERNİS’den gelen bilgiler görülür. Eksik bilgiler mutlaka tamamlanır (telefon numarası, mahalle/köy adı vs.). Sosyal Yardım Modülü’nde hastanın adres bilgileri değiştiğinde yeni adres bilgileri MERNİS’den alınarak sisteme yansıtılmalıdır.
 
-Modülü’nde hastanın adres bilgileri değiştiğinde yeni adres bilgileri MERNİS’den alınarak sisteme yansıtılmalıdır.
-
-Hastalık Bilgileri alanında ICD-10 tanı kodu bilgisi, tanı tarihi ve tedavi başlama tarihi Tüberküloz
-
-Modülü’nden otomatik olarak gelir. (İlgili verilerin gelip gelmediği doğruluğu mutlaka kontrol edilmelidir). Kontrolün yapıldığı tarih itibariyle tanı, tetkik ve tedaviye göre uygun tüberküloz hastalık türü kullanıcı tarafından seçilir. Kayıt yapıldıktan sonraki süreçte Tüberküloz
-
-Modülü’ndeki güncellemeler Sosyal Yardım Modülüne yansımayacağı için buradaki güncellemeler <i>manuel olarak</i> düzeltilir. Hastanın Tüberküloz Hasta İzleme Fişi (VSD-11) taranarak veya fotoğrafı çekilerek dosya yükleme alanına yüklenir. Tedavi başlama tarihi Sosyal
-
-Yardım Modülü, UTS’deki Tedavi sekmesi ve yüklenen VSD-11 formu ile aynı olmalıdır. VSD-11
+Hastalık Bilgileri alanında ICD-10 tanı kodu bilgisi, tanı tarihi ve tedavi başlama tarihi Tüberküloz Modülü’nden otomatik olarak gelir. (İlgili verilerin gelip gelmediği doğruluğu mutlaka kontrol edilmelidir). Kontrolün yapıldığı tarih itibariyle tanı, tetkik ve tedaviye göre uygun tüberküloz hastalık türü kullanıcı tarafından seçilir. Kayıt yapıldıktan sonraki süreçte Tüberküloz Modülü’ndeki güncellemeler Sosyal Yardım Modülüne yansımayacağı için buradaki güncellemeler <i>manuel olarak</i> düzeltilir. Hastanın Tüberküloz Hasta İzleme Fişi (VSD-11) taranarak veya fotoğrafı çekilerek dosya yükleme alanına yüklenir. Tedavi başlama tarihi Sosyal Yardım Modülü, UTS’deki Tedavi sekmesi ve yüklenen VSD-11 formu ile aynı olmalıdır. VSD-11
 
 **Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu** formunda hastanın tedavisinde kullanılan ilaçlar, DGT gözetmeni ve DGT uygulama yeri yazılmalıdır. Eğer hastaya ayrıca İlave Bakım Yardımı başvurusu yapılmak isteniyorsa hastanın yaşadığı ortamın fotoğrafları ve tutanak da bu alana yüklenir.
 
@@ -269,15 +256,7 @@ Koordinatör, 2 (iki) iş günü içinde başvuruyu sonuçlandırır. Tüberkül
 
 Sosyal Yardım modülündeki hastaya ait verilerde eksiklik veya hata tespit edildiğinde sosyal yardım modülüne tanımlanmış tüberküloz il koordinatörü, il sağlık müdürlüğü yetkilisi, başvuru talebini reddedebilir. Başvuru reddedildiğinde “İşlemler” sütununda “Hareket Geçmişi” seçilir ve reddedilme nedeni kontrol edilir. Hareket geçmişindeki reddetme nedeni ivedilikle değerlendirmeye alınmalıdır. Bu sebeple tüm reddedilen dosyalarla ilgili işlemler tüberküloz il koordinatörlüğü ve VSD birimi tarafından günlük takibi yapılmalıdır. Reddedilme sebebini ortadan kaldıracak duruma göre, gerekli güncelleme yapıldıktan sonra sıralı birim onayına gönderilmelidir.
 
-İl Sağlık Müdürlüğü Yetkilisi onay verdikten sonra hastanın bilgileri Bütünleşik Sosyal Yardım Bilgi
-
-Sistemi (BSYBS)’ne iletilir. Bu aşamada olan bilgilerin hala güncellenmesi mümkündür. Başvuru işlemi tamamlanan hastanın Sosyal Yardım Modülündeki “HSYS Onay Durumu” alanında “Hastalık
-
-Bilgisi ASHB'ye İletildi/Hasta Vakfa Başvurabilir” iletisi görülür. VSD, sistem üzerinde nakdi sosyal yardım başvurusu oluşturduktan sonra hastayı, ikamet ettiği ilçedeki SYDV’ye yönlendirir. ASHB yetkilisi her ay, hem Sağlık Bakanlığı (Sosyal Yardım Modülü üzerinden) hem de SYDV tarafından
-
-Bütünleşik Sosyal Yardım Bilgi Sistemi (BSYBS)’ye iletilen bilgileri kontrol ederek ödeme planı oluşturur. VSD, nakdi sosyal yardım talep eden hastaların başvurularının sonucunu UTS Sosyal
-
-Yardım Modülü’nden takip edebilir.
+İl Sağlık Müdürlüğü Yetkilisi onay verdikten sonra hastanın bilgileri Bütünleşik Sosyal Yardım Bilgi Sistemi (BSYBS)’ne iletilir. Bu aşamada olan bilgilerin hala güncellenmesi mümkündür. Başvuru işlemi tamamlanan hastanın Sosyal Yardım Modülündeki “HSYS Onay Durumu” alanında “Hastalık Bilgisi ASHB'ye İletildi/Hasta Vakfa Başvurabilir” iletisi görülür. VSD, sistem üzerinde nakdi sosyal yardım başvurusu oluşturduktan sonra hastayı, ikamet ettiği ilçedeki SYDV’ye yönlendirir. ASHB yetkilisi her ay, hem Sağlık Bakanlığı (Sosyal Yardım Modülü üzerinden) hem de SYDV tarafından Bütünleşik Sosyal Yardım Bilgi Sistemi (BSYBS)’ye iletilen bilgileri kontrol ederek ödeme planı oluşturur. VSD, nakdi sosyal yardım talep eden hastaların başvurularının sonucunu UTS Sosyal Yardım Modülü’nden takip edebilir.
 
 **(b) Yatarak Tedavi Gören Hastalar için Sosyal Yardım Başvurusu:**
 
@@ -285,9 +264,7 @@ Hastanede yatan tüberküloz hastalarının nakdi yardım başvurularında hasta
 
 **Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu** yapan hekim tarafından nakdi yardım konusunda bilgilendirilir. Tedaviye ve DGT’ye uyum konusunda taahhütname imzalatılır. Hastanın hekimi tarafından imzalanmış, hastanın kimlik bilgileri, hastalık bilgileri (ICD-10 kodu tanımlanmış, tanı ve tedavi başlama tarihi, tedavi şeması), hastaneye yatış endikasyonunu içeren belge hazırlanır ve hastanın kaydının olduğu/ikamet ettiği yerleşim birimindeki VSD’ye iletilir (hasta/vasisi/kanuni temsilcisi ve/veya hastanın gerekli yasal izni alınarak; hasta yakını, resmi faks, resmi e-posta vb.).
 
-VSD, hastanın nakdi sosyal yardım başvurusunu, hastane beyanı üzerinden oluşturur (VSD, eksik bilgiler var ise ilgili hastane ile iletişim kurarak ilgili belgeleri tamamlar) ve başvuruya ait işlemler
-
-VSD üzerinden yukarıdaki gibi yürütülür. Hastanın yasal velisi/kanuni vasisi tarafından SYDV’ye müracaat yapılır. VSD hekimi tarafından hastanede yatan hasta için başlatılan nakdi sosyal yardım başvurusunda, Sosyal Yardım Modülünde hastanın yattığı hastane adıyla birlikte, yatan hasta olarak bildirimi yapılmalıdır.
+VSD, hastanın nakdi sosyal yardım başvurusunu, hastane beyanı üzerinden oluşturur (VSD, eksik bilgiler var ise ilgili hastane ile iletişim kurarak ilgili belgeleri tamamlar) ve başvuruya ait işlemler VSD üzerinden yukarıdaki gibi yürütülür. Hastanın yasal velisi/kanuni vasisi tarafından SYDV’ye müracaat yapılır. VSD hekimi tarafından hastanede yatan hasta için başlatılan nakdi sosyal yardım başvurusunda, Sosyal Yardım Modülünde hastanın yattığı hastane adıyla birlikte, yatan hasta olarak bildirimi yapılmalıdır.
 
 Yatan Hasta/Ayaktan Hasta alanında hastanede yatan hastalar için “Yatan Hasta” seçeneği işaretlenir ve hastanenin adı seçilir. Hasta taburcu olunca VSD hekimi tarafından güncellenmelidir. VSD yatan hastanın durumunu haftalık/onbeş günlük olarak hastaneden öğrenir.
 
@@ -423,9 +400,7 @@ Dispansere gelmeden hastanede tüberküloz tedavisi başlanmış ise bu tarih �
 
 **Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu 7. Nakdi Sosyal Yardımın İzlemi**
 
-VSD’de yetkili sağlık personeli tarafından, nakdi sosyal yardım alan hastanın; VSD’deki kontrol gününde veya hastanın durumunda değişiklik olması halinde (kontrole gelmeme, hekim bilgisi dışında tedaviye ara verme, ilaç içmeyi reddetme, tedaviyi terk etme (takip dışı kalma), tedavi tamamlama, kür, hastanın tüberküloz olmadığının anlaşılması, ölüm) UTS Sosyal Yardım
-
-Modülünden “Tedavi Durumu” bilgisini günceller.
+VSD’de yetkili sağlık personeli tarafından, nakdi sosyal yardım alan hastanın; VSD’deki kontrol gününde veya hastanın durumunda değişiklik olması halinde (kontrole gelmeme, hekim bilgisi dışında tedaviye ara verme, ilaç içmeyi reddetme, tedaviyi terk etme (takip dışı kalma), tedavi tamamlama, kür, hastanın tüberküloz olmadığının anlaşılması, ölüm) UTS Sosyal Yardım Modülünden “Tedavi Durumu” bilgisini günceller.
 
 - Hastanın tedavisi düzenli olarak devam ediyor, ilaçlarını gözetim altında alıyor (DGT) ise “Tedavi Durumu” alanı “Tedaviye Devam Ediyor” şeklinde kalır.
 
@@ -455,9 +430,7 @@ Tedaviyi terkten dönen (takip dışı kalıp dönen) olgularda UTS Sosyal Yard�
 
 Tedavi başarısızlığı durumunda hastanın UTS ve Sosyal Yardım Modülündeki “tedavi durumu” tedavi başarısızlığı olarak sonuçlandırılır. Hasta tekrar yardım başvurusu yaptığında yeni kayıt açılır.
 
-UTS Sosyal Yardım Modülü’nde hastanın yeni tanı, tetkik ve tedavisine uygun “Tüberküloz Hastalık
-
-Türü” seçilir, tanı tarihi ve tedaviye başlama tarihi belirtilir. Bu kayıt sırasıyla tüberküloz il koordinatörü ve il sağlık müdürlüğü yetkilisinin onayına sunulur.
+UTS Sosyal Yardım Modülü’nde hastanın yeni tanı, tetkik ve tedavisine uygun “Tüberküloz Hastalık Türü” seçilir, tanı tarihi ve tedaviye başlama tarihi belirtilir. Bu kayıt sırasıyla tüberküloz il koordinatörü ve il sağlık müdürlüğü yetkilisinin onayına sunulur.
 
 Tüberküloz hastalarının tedavi durumuna göre nakdi sosyal yardım alıp alamayacağı Tablo 2’de gösterilmiştir.
 
@@ -493,13 +466,7 @@ Tedavi süresinin değerlendirilmesinde Tüberküloz Tanı ve Tedavi Rehberi esa
 
 **9. Nakdi Sosyal Yardımın Durdurulması**
 
-Bir ay içinde toplam 5 (beş) iş günü tıbbi gerekçe olmadan DGT’si yapılmayan hastanın “Tedavi
-
-Durumu” alanı “İlaçlarını 5 İş Günü Tıbbi Gerekçe Olmadan Kullanmadı” olarak değiştirilir. Sosyal
-
-Yardım Modülünde, aynı takvim ayı içinde, hastanın DGT bilgisi güncellenir. Bu bilgi elektronik ortamda ASHB’ye gider ve ASHB tarafından yardım durdurulur. Yardımın durdurulduğu tarihten itibaren 2 ay dolmadan hasta tedaviye başlar ve uyum gösterir ise, sisteme giriş yapılarak “Tedavi
-
-Durumu” alanında “Tedaviye Devam Ediyor” işaretlenir.
+Bir ay içinde toplam 5 (beş) iş günü tıbbi gerekçe olmadan DGT’si yapılmayan hastanın “Tedavi Durumu” alanı “İlaçlarını 5 İş Günü Tıbbi Gerekçe Olmadan Kullanmadı” olarak değiştirilir. Sosyal Yardım Modülünde, aynı takvim ayı içinde, hastanın DGT bilgisi güncellenir. Bu bilgi elektronik ortamda ASHB’ye gider ve ASHB tarafından yardım durdurulur. Yardımın durdurulduğu tarihten itibaren 2 ay dolmadan hasta tedaviye başlar ve uyum gösterir ise, sisteme giriş yapılarak “Tedavi Durumu” alanında “Tedaviye Devam Ediyor” işaretlenir.
 
 5 iş günü tıbbi gerekçe olmadan DGT yapılmadığı VSD hekimi tarafından bildirildiği tarihten itibaren; 2 ay ve daha fazla geçmişse ve bu süreç boyunca video göndermemişse, Sosyal Yardım
 
@@ -541,19 +508,13 @@ Nakil İşlemleri iki şekilde yapılabilir.
 
 T.C. kimlik numaralı hasta (Y) VSD’sinden (Z) VSD’sine nakil alınmıştır” bilgisini göndererek de nakil işlemini başlatabilir. Mutlaka resmi telefonla da iletişim kurulmalıdır (Özellikle Tedavi tamamlama/Kür, ilaçsız kontrol döneminde kurum değişikliği yapılmak istendiğinde, UTS’de “nakil alındı” bilgisi, tedavi tamamlama/kür tarihi girilmesi nedeni ile yapılamayacaktır. Bu durumda nakil alan kurum tarafından resmi e-posta ile bildirim yapılmalı, nakil eden kurum, kurum değişikliği işlemlerine resmi e-posta bildirimi ile başlamalıdır. Resmi e-posta arşivlenmeli, resmi makamlarca sorulduğunda gösterilmelidir).
 
-Nakil eden VSD mesajı gördükten ve hastanın verilerini güncelledikten sonra Sosyal Yardım
+Nakil eden VSD mesajı gördükten ve hastanın verilerini güncelledikten sonra Sosyal Yardım Modülünde Tedavi Durumunda “**<i>İlaçlarını 5 iş günü tıbbi gerekçe olmadan kullanmadı/Kurum</i>**
 
-Modülünde Tedavi Durumunda “**<i>İlaçlarını 5 iş günü tıbbi gerekçe olmadan kullanmadı/Kurum</i>**
-
-**<i>Değişikliği”</i>** seçeneğini seçer. **Hareket geçmişinden** ve **resmi e-posta yolu üzerinden** kendi il koordinatörüne: “(X) T.C. kimlik numaralı hasta (Y) VSD’sinden (Z) VSD’sine nakil edilmiştir. Hasta
-
-UTS üzerinden …/…/….. tarihinde (Z) VSD’si tarafından nakil alınmıştır. Sosyal Yardım Modülündeki
+**<i>Değişikliği”</i>** seçeneğini seçer. **Hareket geçmişinden** ve **resmi e-posta yolu üzerinden** kendi il koordinatörüne: “(X) T.C. kimlik numaralı hasta (Y) VSD’sinden (Z) VSD’sine nakil edilmiştir. Hasta UTS üzerinden …/…/….. tarihinde (Z) VSD’si tarafından nakil alınmıştır. Sosyal Yardım Modülündeki
 
 **Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Kılavuzu** bilgileri değiştirilmiştir.” mesajını gönderir. Resmi telefonla da bilgi vermelidir.
 
-Nakil eden VSD’nin İl tüberküloz koordinatörü gerekli kontrollerini tamamlayarak Sosyal Yardım
-
-Modülünde nakil işlemini devam ettirir. Resmi telefonla da bilgi vermelidir.
+Nakil eden VSD’nin İl tüberküloz koordinatörü gerekli kontrollerini tamamlayarak Sosyal Yardım Modülünde nakil işlemini devam ettirir. Resmi telefonla da bilgi vermelidir.
 
 İl Sağlık Müdürlüğü yetkilisi tüberküloz il koordinatöründen gelen nakil alındı bilgisi ve gerekli kontrolleri yaptıktan sonra Sosyal yardım modül ana sayfası üzerinde ilgili kişiye ait, işlemler kısmında kurum değişikliği bölümünde “İl” “ilçe” ve “VSD” kısmını seçer. Daha sonra “kaydet” yapar. Kurum değişikliği işlemleri yapılmış olur.
 
@@ -561,9 +522,7 @@ Nakil işlemleri iki şekilden herhangi birisi ile gerçekleştiği anda sosyal 
 
 **12. Kurumsal E-Posta ve Yazılım Destek**
 
-Sosyal yardım modülünde kullanılan e-postaların kurumsal olmasına dikkat edilmelidir. VSD hekimi kendi dispanseri için Sağlık Bakanlığınca tahsis edilmiş olan dispanser e-postasını, TB İl
-
-Koordinatörü iline tahsis edilmiş il koordinatörlüğü e-postasını ve/veya İl Sağlık Müdürlüğü yetkilisi kendi il sağlık müdürlüğü e-postasını kullanmalıdır.
+Sosyal yardım modülünde kullanılan e-postaların kurumsal olmasına dikkat edilmelidir. VSD hekimi kendi dispanseri için Sağlık Bakanlığınca tahsis edilmiş olan dispanser e-postasını, TB İl Koordinatörü iline tahsis edilmiş il koordinatörlüğü e-postasını ve/veya İl Sağlık Müdürlüğü yetkilisi kendi il sağlık müdürlüğü e-postasını kullanmalıdır.
 
 **13. Sosyal Yardım Modülü Kullanıcıları**
 

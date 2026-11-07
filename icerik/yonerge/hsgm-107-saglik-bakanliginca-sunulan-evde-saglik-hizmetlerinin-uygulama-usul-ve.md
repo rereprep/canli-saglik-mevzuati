@@ -27,11 +27,7 @@ kontrol_edildi: true
 
 **Dayanak**
 
-**MADDE 3-** (1) Bu Yönerge, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri
-
-Temel Kanununun 3 üncü ve 9 uncu maddeleri ile 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde
-
-Kararnamenin 43 üncü maddesine dayanılarak hazırlanmıştır.
+**MADDE 3-** (1) Bu Yönerge, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü ve 9 uncu maddeleri ile 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesine dayanılarak hazırlanmıştır.
 
 **Tanımlar**
 
@@ -45,9 +41,7 @@ a) Aile hekimi: Kişiye yönelik koruyucu sağlık hizmetleri ile birinci basama
 
 **MADDE 5-** (1) Evde sağlık hizmetleri, Bakanlığa bağlı olarak faaliyet gösteren eğitim ve araştırma hastaneleri ile genel veya dal hastaneleri bünyesinde kurulan evde sağlık hizmeti birimleri ile toplum sağlığı merkezi, aile sağlığı merkezi ve aile hekimleri vasıtası ile sunulur. Hizmetin yönetimi, birimler arasındaki iletişim ve koordinasyon müdürlük bünyesinde oluşturulan koordinasyon merkezi tarafından sağlanır. Koordinasyon merkezinin sorumluluğunu müdürün görevlendireceği bir sağlık müdür yardımcısı yürütür.
 
-Koordinasyon merkezi sorumlusu müdür yardımcısı aynı zamanda
-
-komisyonun da başkanıdır.
+Koordinasyon merkezi sorumlusu müdür yardımcısı aynı zamanda komisyonun da başkanıdır.
 
 (2) İlde evde sağlık hizmeti sunan tüm birimler, toplum sağlığı merkezi, aile sağlığı merkezi ve aile hekimleri, iletişim ve haberleşme yönünden koordinasyon merkezi ile irtibatlandırılır.
 
@@ -131,15 +125,11 @@ A- Hemşire/sağlık memuru (toplum sağlığı):
 
 2) Evde sağlık hizmetleri kapsamında uygulanan işlemlerde tabibe ve ekibin diğer üyelerine destek sağlar.
 
-3) Hastanın yaşamsal bulgularını alır, kaydeder, değişiklikleri tabibe bildirir, 4) Tedavi planına uygun olarak oral, paranteral ve haricen uygulanması gereken ilaçları verir ve verilen ilaçları kaydeder, etki ve yan etkilerini gözlemler, kayıt altına alır ve tabibe bildirir. Tabip de Advers Etki Bildirim
-
-Formunu doldurarak Türkiye Farmakovijilans Merkezine (TÜFAM) bildirir.
+3) Hastanın yaşamsal bulgularını alır, kaydeder, değişiklikleri tabibe bildirir, 4) Tedavi planına uygun olarak oral, paranteral ve haricen uygulanması gereken ilaçları verir ve verilen ilaçları kaydeder, etki ve yan etkilerini gözlemler, kayıt altına alır ve tabibe bildirir. Tabip de Advers Etki Bildirim Formunu doldurarak Türkiye Farmakovijilans Merkezine (TÜFAM) bildirir.
 
 5) Evde sağlık hizmeti alan kişiye ve aile bireylerine müdavi tabibin belirlediği sınırlar içerisinde hastalığı ve tedavisi ile ilgili bilgilendirmeler yapar, kendi kendine veya yardımla bakım ve genel sağlık konularında eğitim verir.
 
-6) Evde sağlık hizmetleri sırasında kullanılan malzemelerin temizliğini ve dezenfeksiyonunu yapar gerekli olanları sterilizasyon için hazırlar, 7) Tek kullanımlık malzemelerin ve atık materyallerin Tıbbi Atıkların Kontrolü
-
-Yönetmeliği ile Ambalaj ve Ambalaj Atıkları Kontrolü Yönetmeliği hükümlerine uygun olarak toplanması ve imha edilmesi konusunda kişi ve aile bireylerini bilgilendirir.
+6) Evde sağlık hizmetleri sırasında kullanılan malzemelerin temizliğini ve dezenfeksiyonunu yapar gerekli olanları sterilizasyon için hazırlar, 7) Tek kullanımlık malzemelerin ve atık materyallerin Tıbbi Atıkların Kontrolü Yönetmeliği ile Ambalaj ve Ambalaj Atıkları Kontrolü Yönetmeliği hükümlerine uygun olarak toplanması ve imha edilmesi konusunda kişi ve aile bireylerini bilgilendirir.
 
 8) Sorumlu tabip tarafından iş akış planında belirlenen diğer görevleri yapar.
 
@@ -193,9 +183,7 @@ evde sağlık hizmeti ekibinin birbirleriyle olan iletişimini ve evde sağlık 
 
 **Sağlık kurum veya kuruluşuna sevk**
 
-**MADDE 15-** (1) Evde sağlık hizmeti verilen kişilerin mevcut durumları hariç, yeni oluşan acil haller birimin görev alanına girmez. Bu durumlarda 112 İl
-
-Ambulans Servisi ya da doğrudan sağlık kuruluşlarının acil servislerine başvuru esastır.
+**MADDE 15-** (1) Evde sağlık hizmeti verilen kişilerin mevcut durumları hariç, yeni oluşan acil haller birimin görev alanına girmez. Bu durumlarda 112 İl Ambulans Servisi ya da doğrudan sağlık kuruluşlarının acil servislerine başvuru esastır.
 
 (2) Evde sağlık hizmeti alan kişiler, tıbbi zorunluluk hallerinde sorumlu tabibin gördüğü lüzum üzerine en uygun sağlık kurum veya kuruluşuna sevk edilir.
 
@@ -203,9 +191,7 @@ Sevkine karar verilen hastanın sevk edildiği sağlık kurumuna veya gerektiği
 
 **Evde sağlık hizmetleri başvurusu**
 
-**MADDE 16-** (1) Başvurular, hastalar veya aile bireyleri tarafından Ek-2’deki
-
-Evde Sağlık Hizmeti Başvuru Formu ile veya müdürlük bünyesindeki koordinasyon merkezine veya sağlık kurumları bünyesindeki birimlere telefon müracaatı ile sözlü olarak veya toplum sağlığı merkezi, aile sağlığı merkezi veya aile hekimleri aracılığı ile yapılabilir.
+**MADDE 16-** (1) Başvurular, hastalar veya aile bireyleri tarafından Ek-2’deki Evde Sağlık Hizmeti Başvuru Formu ile veya müdürlük bünyesindeki koordinasyon merkezine veya sağlık kurumları bünyesindeki birimlere telefon müracaatı ile sözlü olarak veya toplum sağlığı merkezi, aile sağlığı merkezi veya aile hekimleri aracılığı ile yapılabilir.
 
 (2) Sağlık kurumlarında yatan ve taburcu aşamasında olan hastalar için ilgili klinikler tarafından birim ile gerekli koordinasyon sağlanır ve evde sağlık hizmeti alması uygun görülen hastalara verilecek hizmetin kapsamı, hizmetin hangi seviyede, ne kadar süreyle, ne şekilde ve hangi sıklıkta verilmesi gerektiği belirlenir. Ek-2’deki form ekine müdavi tabip tarafından hazırlanan epikriz ve evde sağlık hizmetinin kapsamını belirtir belge eklenir.
 
@@ -273,13 +259,7 @@ a) Evde sağlık hizmeti verilen hastanın uygulanan tedavi ile iyileşerek teda
 
 **Hüküm bulunmayan haller**
 
-**MADDE 24-** (1) Bu Yönergede hüküm bulunmayan hallerde 13/1/1983 tarih ve 17927 sayılı Resmi Gazetede yayımlanan Yataklı Tedavi Kurumları İşletme
-
-Yönetmeliği, 10/3/2005 tarih ve 25751 sayılı resmi Gazetede yayımlanan
-
-Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelik ile 6/7/2005 tarih ve 25867 sayılı Resmi Gazetede yayımlanan Aile Hekimliği Pilot Uygulaması
-
-Hakkında Yönetmelik hükümleri uygulanır.
+**MADDE 24-** (1) Bu Yönergede hüküm bulunmayan hallerde 13/1/1983 tarih ve 17927 sayılı Resmi Gazetede yayımlanan Yataklı Tedavi Kurumları İşletme Yönetmeliği, 10/3/2005 tarih ve 25751 sayılı resmi Gazetede yayımlanan Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelik ile 6/7/2005 tarih ve 25867 sayılı Resmi Gazetede yayımlanan Aile Hekimliği Pilot Uygulaması Hakkında Yönetmelik hükümleri uygulanır.
 
 **Aile hekimliği uygulanmayan illerde evde sağlık hizmetlerinin verilmesi**
 

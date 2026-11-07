@@ -32,9 +32,7 @@ Eğitime katılanların kısa süreli konaklaması,
 
 İhtiyaç halinde sağlık personelinin geçici konaklaması, hizmetleri olarak tanımlanmıştır.
 
-ESO Eğitim Bölümünde tanımlanan hizmetlerin verilmesi ve denetlenmesinden Sağlık Müdürü birinci derecede sorumludur. ESO Eğitim Bölümünde tanımlanan hizmetler göz önüne alınarak; İl Sağlık Müdürünün görevlendireceği Müdür Yardımcısı başkanlığında; Sağlık Ocakları Şube Müdürü, Eğitim Şube Müdürü, İdari ve Mali İşler Şube Müdürü, Ana Çocuk Sağlığı ve Aile Planlaması Şube Müdürü, Bulaşıcı Hastalıklar Şube Müdürü ve Eğitim Sağlık Ocağı Sorumlu Hekiminin katıldığı "Eğitim Sağlık Ocağı Komisyonu" oluşturulur. Tesis, İl Sağlık Müdürlüğü tarafından belirlenecek ESO Eğitim Birim Sorumlusu tarafından bu komisyon
-
-gözetiminde yönetilir. Komisyonun sekretarya işleri ESO Eğitim Birim Sorumlusu tarafından yürütülür. İhtiyaç duyulması halinde ESO Eğitim Bölümüne hizmeti aksatmayacak şekilde personel görevlendirilir.
+ESO Eğitim Bölümünde tanımlanan hizmetlerin verilmesi ve denetlenmesinden Sağlık Müdürü birinci derecede sorumludur. ESO Eğitim Bölümünde tanımlanan hizmetler göz önüne alınarak; İl Sağlık Müdürünün görevlendireceği Müdür Yardımcısı başkanlığında; Sağlık Ocakları Şube Müdürü, Eğitim Şube Müdürü, İdari ve Mali İşler Şube Müdürü, Ana Çocuk Sağlığı ve Aile Planlaması Şube Müdürü, Bulaşıcı Hastalıklar Şube Müdürü ve Eğitim Sağlık Ocağı Sorumlu Hekiminin katıldığı "Eğitim Sağlık Ocağı Komisyonu" oluşturulur. Tesis, İl Sağlık Müdürlüğü tarafından belirlenecek ESO Eğitim Birim Sorumlusu tarafından bu komisyon gözetiminde yönetilir. Komisyonun sekretarya işleri ESO Eğitim Birim Sorumlusu tarafından yürütülür. İhtiyaç duyulması halinde ESO Eğitim Bölümüne hizmeti aksatmayacak şekilde personel görevlendirilir.
 
 d) Eğitim ve konaklama hizmetlerinden;
 

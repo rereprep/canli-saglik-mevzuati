@@ -62,9 +62,7 @@ Basit pomatları,
 
 Galenik preparasyonları yekdigerine karıştırmak suretiyle hazırlanan mikstürleri
 
-Bir laboratuvar ameliyesi gerektirmeyen basit şurupları ihtiva eden reçeteleri de
-
-hazırlayarak satabilirler.
+Bir laboratuvar ameliyesi gerektirmeyen basit şurupları ihtiva eden reçeteleri de hazırlayarak satabilirler.
 
 Bu gibi ecza dolapları pilül, süppozituar, bol’ovül ve benzerleri gibi farması tekniğini icabettiren ilaçlarla sterilize edilmesi zaruri tertipleri havi reçeteleri yapamazlar.
 

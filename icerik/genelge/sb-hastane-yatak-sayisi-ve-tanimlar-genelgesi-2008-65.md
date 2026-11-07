@@ -32,9 +32,7 @@ Bu bağlamda, Bakanlığımıza bağlı yataklı tedavi kurumlarındaki hizmet k
 
 Buna göre,
 
-hastanelerdeki mevcut yataklar için kadro yatağı, fiili yatak, hastane yatağı gibi daha önce kullanılmakta olan farklı kavramların kullanılmaması gerekmekte olup hastanelerimizin yatak sayısının belirlenmesi ve hizmet kapasitesinin tespitinde ekte (Ek-1) gönderilen "HASTANE HİZMETLERİNDE TEMEL KAVRAMLAR" başlıklı dokümanda belirlenen "Hasta Yatağı" tanımı uyarınca işlem yapılmasını,
-
-hastanelerin çalışmalarına ilişkin istatistik verilerinin hazırlanmasında ve bu konuda yapılacak hesaplamalarda yine aynı dokümanda örnekleme yapılmak suretiyle açıkça tanımlanan istatistik formüllerinin esas alınmasını,
+hastanelerdeki mevcut yataklar için kadro yatağı, fiili yatak, hastane yatağı gibi daha önce kullanılmakta olan farklı kavramların kullanılmaması gerekmekte olup hastanelerimizin yatak sayısının belirlenmesi ve hizmet kapasitesinin tespitinde ekte (Ek-1) gönderilen "HASTANE HİZMETLERİNDE TEMEL KAVRAMLAR" başlıklı dokümanda belirlenen "Hasta Yatağı" tanımı uyarınca işlem yapılmasını, hastanelerin çalışmalarına ilişkin istatistik verilerinin hazırlanmasında ve bu konuda yapılacak hesaplamalarda yine aynı dokümanda örnekleme yapılmak suretiyle açıkça tanımlanan istatistik formüllerinin esas alınmasını,
 
 İlgili baştabiplikler tarafından hastanelerin yatak sayılarının yeni düzenlemeye uygun olarak tespitlerinin yapılarak servislere göre yatak dağılımlarını ve hastane toplam yatak sayısını gösterecek şekilde hazırlanacak ve İl Sağlık Müdürlüklerince onaylanacak yatak dağılım cetvellerinin tescil işlemlerine esas olmak üzere 31.12.2008 tarihinden önce Bakanlığımızda olacak şekilde gönderilmesini,
 

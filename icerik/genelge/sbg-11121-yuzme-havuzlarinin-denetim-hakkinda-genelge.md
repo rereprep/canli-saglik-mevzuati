@@ -123,9 +123,7 @@ en az 3 defa
 
 **Fiziksel özellikler**
 
-**Parametre Bulunabilecek miktarı Sıklığı** Renk Renksiz olacaktır. Haftada bir defa Tortu Bulunmayacaktır. Bulanıklık Berrak olacak ve havuz dibi net olarak görülecektir. Sıcaklık 26-28 C olacak, hava sıcaklığı ile su sıcaklığı arasında
-
-fazla fark olmayacaktır. Çocuk havuzlarında su sıcaklığı
+**Parametre Bulunabilecek miktarı Sıklığı** Renk Renksiz olacaktır. Haftada bir defa Tortu Bulunmayacaktır. Bulanıklık Berrak olacak ve havuz dibi net olarak görülecektir. Sıcaklık 26-28 C olacak, hava sıcaklığı ile su sıcaklığı arasında fazla fark olmayacaktır. Çocuk havuzlarında su sıcaklığı
 
 26-32 C olacaktır.
 
@@ -159,16 +157,8 @@ Pseudomonas aeruginosa 0/100 ml
 
 az 3 defa Deniz suyu 6,5 7.8 Amonyum Ayda bir defa mg/L 0.5 Nitrit Ayda bir defa mg/L 0.5 Nitrat Ayda bir defa mg/L 20 Siyanürik asit Ayda bir defa mg/L 30 100 Alüminyum Ayda bir defa mg/L 0.2 Bağlı klor Havuz suyu kullanımından önce mg/L 0.2
 
-ve izleyen 4’er saatlik aralıklarla
-
-olmak üzere günde en az 3 defa Serbest klor Havuz suyu kullanımından önce mg/L 0.3 0,6
+ve izleyen 4’er saatlik aralıklarla olmak üzere günde en az 3 defa Serbest klor Havuz suyu kullanımından önce mg/L 0.3 0,6
 
 ve izleyen 4’er saatlik aralıklarla
 
-olmak üzere günde en az 3 defa Sıcaklık Her gün 26-28 C olacak, hava sıcaklığı ile
-
-su sıcaklığı arasında fazla fark
-
-olmayacaktır. Çocuk havuzlarında
-
-su sıcaklığı 26-32 C olacaktır.
+olmak üzere günde en az 3 defa Sıcaklık Her gün 26-28 C olacak, hava sıcaklığı ile su sıcaklığı arasında fazla fark olmayacaktır. Çocuk havuzlarında su sıcaklığı 26-32 C olacaktır.

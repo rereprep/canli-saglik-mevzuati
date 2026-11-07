@@ -91,19 +91,11 @@ Entegre Sağlık Hizmeti Sunulmasına ĠliG kin
 
 **BAKANLIK MAKAMINA**
 
-Sağlık hizmetlerinde verimliliğin artırılması, kaynak tasarrufunun sağlanması ve hizmet sunumunun güçlendirilerek, yetkili merkezden sunulması için, ulaşım imkânları, nüfus, coğrafi ve sosyo-ekonomik şartlar ve bölge merkezli sağlık planlaması kriterleri gözetilmek suretiyle kişiye yönelik koruyucu sağlık hizmetleri, birinci basamak ve gezici sağlık hizmetleri ile yataklı tedavi hizmetlerinin ilçe devlet hastaneleri bünyesinde aile hekimleriyle birlikte entegre sağlık hizmet sunum modeli ile verilmesi amacıyla “Sağlık
-
-Bakanlığına Bağlı İlçe Devlet Hastanelerinde Entegre Sağlık Hizmeti Sunulmasına İlişkin
-
-Usul Ve Esaslar Hakkında Yönerge” hazırlanmıştır.
+Sağlık hizmetlerinde verimliliğin artırılması, kaynak tasarrufunun sağlanması ve hizmet sunumunun güçlendirilerek, yetkili merkezden sunulması için, ulaşım imkânları, nüfus, coğrafi ve sosyo-ekonomik şartlar ve bölge merkezli sağlık planlaması kriterleri gözetilmek suretiyle kişiye yönelik koruyucu sağlık hizmetleri, birinci basamak ve gezici sağlık hizmetleri ile yataklı tedavi hizmetlerinin ilçe devlet hastaneleri bünyesinde aile hekimleriyle birlikte entegre sağlık hizmet sunum modeli ile verilmesi amacıyla “Sağlık Bakanlığına Bağlı İlçe Devlet Hastanelerinde Entegre Sağlık Hizmeti Sunulmasına İlişkin Usul Ve Esaslar Hakkında Yönerge” hazırlanmıştır.
 
 İlişikte sunulan “Sağlık Bakanlığına Bağlı İlçe Devlet Hastanelerinde Entegre Sağlık
 
-Hizmeti Sunulmasına İlişkin Usul Ve Esaslar Hakkında Yönerge”nin yürürlüğe konulması ve bu kapsamda ilişik listedeki E-II ve E-III grubu İlçe Devlet Hastanelerinin Temel Sağlık
-
-Hizmetleri Genel Müdürlüğüne devredilerek ve bu hastanelerle ilgili iş ve işlemlerin Temel
-
-Sağlık Hizmetleri Genel Müdürlüğü’nce yürütülmesi hususunu,
+Hizmeti Sunulmasına İlişkin Usul Ve Esaslar Hakkında Yönerge”nin yürürlüğe konulması ve bu kapsamda ilişik listedeki E-II ve E-III grubu İlçe Devlet Hastanelerinin Temel Sağlık Hizmetleri Genel Müdürlüğüne devredilerek ve bu hastanelerle ilgili iş ve işlemlerin Temel Sağlık Hizmetleri Genel Müdürlüğü’nce yürütülmesi hususunu,
 
 Tensiplerinize arz ederim.
 
@@ -153,35 +145,15 @@ EKLER:
 
 **Hukuki dayanak**
 
-**Madde 3-** (1) Bu Yönerge; 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 ncü maddesi ve 9 uncu maddesinin (c) bendi, 181 sayılı Sağlık Bakanlığı Teşkilat ve Görevleri
+**Madde 3-** (1) Bu Yönerge; 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 ncü maddesi ve 9 uncu maddesinin (c) bendi, 181 sayılı Sağlık Bakanlığı Teşkilat ve Görevleri Hakkındaki Kanun Hükmünde Kararname’nin 43 üncü maddesi, 10.09.1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliği, 25/05/2010 tarih ve 27591 sayılı Resmi Gazetede yayımlanan Aile Hekimliği
 
-Hakkındaki Kanun Hükmünde Kararname’nin 43 üncü maddesi, 10.09.1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yataklı Tedavi Kurumları İşletme
-
-Yönetmeliği, 25/05/2010 tarih ve 27591 sayılı Resmi Gazetede yayımlanan Aile Hekimliği
-
-Uygulama Yönetmeliği, 30/12/2010 tarih ve 27801 sayılı Resmi Gazete’de yayımlanan Aile
-
-Hekimliği Uygulaması Kapsamında Sağlık Bakanlığınca Çalıştırılan Personele Yapılacak
-
-Ödemeler ile Sözleşme Usul ve Esasları Hakkında Yönetmeliğe, istinaden hazırlanmıştır.
+Uygulama Yönetmeliği, 30/12/2010 tarih ve 27801 sayılı Resmi Gazete’de yayımlanan Aile Hekimliği Uygulaması Kapsamında Sağlık Bakanlığınca Çalıştırılan Personele Yapılacak Ödemeler ile Sözleşme Usul ve Esasları Hakkında Yönetmeliğe, istinaden hazırlanmıştır.
 
 **Tanımlar**
 
 **Madde 4-** (1) Bu Yönergede geçen;
 
-a) Aile hekimi: Kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetlerini, yaş, cinsiyet ve hastalık ayrımı yapmaksızın, her kişiye kapsamlı ve devamlı olarak belli bir mekânda vermekle yükümlü, gerektiği ölçüde gezici sağlık hizmeti veren ve tam gün esasına göre çalışan aile hekimliği uzmanı veya
-
-Bakanlığın öngördüğü eğitimleri alan uzman tabip veya tabiplerini, b) Aile hekimliği birimi: Bir aile hekimi ve en az bir aile sağlığı elemanından oluşan yapıyı, c) Aile sağlığı elemanı: Aile hekimi ile birlikte hizmet veren, sözleşmeli çalıştırılan veya Bakanlıkça görevlendirilen hemşire, ebe, sağlık memurunu (toplum sağlığı), ç) Aile sağlığı merkezi: Bir veya daha fazla aile hekimi ile aile sağlığı elemanlarınca aile hekimliği hizmetinin verildiği sağlık kuruluşunu, d) Aile hekimliği mevzuatı: 5258 sayılı Aile Hekimliği Pilot Uygulaması Hakkında
-
-Kanun, 25/05/2010 tarih ve 27591 sayılı Resmi Gazetede yayımlanan Aile Hekimliği
-
-Uygulama Yönetmeliği ve aile hekimliği uygulamaları ile ilgili diğer mevzuatı, e) Bakanlık: Sağlık Bakanlığını, f) Baştabip: Entegre sağlık hizmeti sunan ilçe devlet hastanesinin baştabibini, 3 g) E-I grubu İlçe Devlet Hastanesi: Aile hekimliği hariç olmak üzere, bünyesinde birinci ve ikinci basmak sağlık hizmetlerinin entegre sağlık hizmet sunumu kapsamında birlikte sunulduğu yataklı sağlık tesislerini, ğ) E-II ve E-III grubu İlçe Devlet Hastaneleri: Birinci ve ikinci basamak sağlık hizmetlerinin aile hekimleri ile birlikte verildiği sağlık kurumlarını, h) Ek Ödeme Yönetmeliği: 12/05/2006 tarihli ve 26166 sayılı Resmi Gazetede yayımlanan Sağlık Bakanlığına Bağlı Sağlık Kurum Ve Kuruluşlarında Görevli Personele
-
-Döner Sermaye Gelirlerinden Ek Ödeme Yapılmasına Dair Yönetmeliği, ı) Entegre sağlık hizmeti: Bakanlıkça belirlenecek yerlerde, bünyesinde koruyucu sağlık hizmetleri, acil sağlık hizmetleri, muayene, tedavi ve rehabilitasyon hizmetleri, doğum, ana çocuk sağlığı hizmetleri, ayakta ve yatarak tıbbî ve cerrahî müdahale ile çevre sağlığı, adlî tabiplik ve ağız diş sağlığı hizmetleri gibi hizmetlerin de verildiği, birinci basamak sağlık hizmetlerini yoğunlukla yürütmek üzere tasarlanmış sağlık hizmetini, ı) Genel Müdürlük: Temel Sağlık Hizmetleri Genel Müdürlüğünü , i) Gezici sağlık hizmeti: Aile hekimi ve/veya aile sağlığı elemanının, müdürlükçe tespit edilen uzak mahalle, belde, köy, mezra gibi yerleşim birimlerine, Bakanlıkça belirlenen usûl ve esaslara göre giderek mahallinde vereceği sağlık hizmetini, j) Grup başkanı: Bakanlıkça, entegre sağlık hizmet sunum modeli uygulaması uygun görülen ilçelerde entegre sağlık hizmeti sunan ilçe devlet hastanesi baştabibi olarak atanan ve aynı zamanda toplum sağlığı merkezi sorumlu tabipliğini ve ilçe sağlık grup başkanlığı görevini yürütecek tabibi, k) İlçe Devlet Hastanesi: Bünyesinde koruyucu, birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetleri ile gezici sağlık hizmetlerinin yanı sıra acil sağlık hizmeti, doğum, ayaktan ve gerektiğinde hasta yatırarak tıbbi ve cerrahi müdahale yapılabilen, hasta potansiyeline göre diyaliz ünitesi bulundurabilen, ağız diş sağlığı gibi sağlık hizmetlerinin ilçedeki diğer sağlık birimleri ve aile hekimleriyle bir arada ve tek merkezden, entegre sağlık hizmet sunum modeli ile verilebildiği hastaneleri, l) İlgili Genel Müdürlük: Tedavi Hizmetleri Genel Müdürlüğünü, m) Kriterler: 03/12/2009 tarihli ve 46143 sayılı Bakan oluru ile uygulamaya konulan
-
-Sağlık Bakanlığı Yataklı Sağlık Tesisleri Rollerinin Yeniden Belirlenmesi ve
-
-Gruplandırılmasına İlişkin Kriterleri,
+a) Aile hekimi: Kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetlerini, yaş, cinsiyet ve hastalık ayrımı yapmaksızın, her kişiye kapsamlı ve devamlı olarak belli bir mekânda vermekle yükümlü, gerektiği ölçüde gezici sağlık hizmeti veren ve tam gün esasına göre çalışan aile hekimliği uzmanı veya Bakanlığın öngördüğü eğitimleri alan uzman tabip veya tabiplerini, b) Aile hekimliği birimi: Bir aile hekimi ve en az bir aile sağlığı elemanından oluşan yapıyı, c) Aile sağlığı elemanı: Aile hekimi ile birlikte hizmet veren, sözleşmeli çalıştırılan veya Bakanlıkça görevlendirilen hemşire, ebe, sağlık memurunu (toplum sağlığı), ç) Aile sağlığı merkezi: Bir veya daha fazla aile hekimi ile aile sağlığı elemanlarınca aile hekimliği hizmetinin verildiği sağlık kuruluşunu, d) Aile hekimliği mevzuatı: 5258 sayılı Aile Hekimliği Pilot Uygulaması Hakkında Kanun, 25/05/2010 tarih ve 27591 sayılı Resmi Gazetede yayımlanan Aile Hekimliği Uygulama Yönetmeliği ve aile hekimliği uygulamaları ile ilgili diğer mevzuatı, e) Bakanlık: Sağlık Bakanlığını, f) Baştabip: Entegre sağlık hizmeti sunan ilçe devlet hastanesinin baştabibini, 3 g) E-I grubu İlçe Devlet Hastanesi: Aile hekimliği hariç olmak üzere, bünyesinde birinci ve ikinci basmak sağlık hizmetlerinin entegre sağlık hizmet sunumu kapsamında birlikte sunulduğu yataklı sağlık tesislerini, ğ) E-II ve E-III grubu İlçe Devlet Hastaneleri: Birinci ve ikinci basamak sağlık hizmetlerinin aile hekimleri ile birlikte verildiği sağlık kurumlarını, h) Ek Ödeme Yönetmeliği: 12/05/2006 tarihli ve 26166 sayılı Resmi Gazetede yayımlanan Sağlık Bakanlığına Bağlı Sağlık Kurum Ve Kuruluşlarında Görevli Personele Döner Sermaye Gelirlerinden Ek Ödeme Yapılmasına Dair Yönetmeliği, ı) Entegre sağlık hizmeti: Bakanlıkça belirlenecek yerlerde, bünyesinde koruyucu sağlık hizmetleri, acil sağlık hizmetleri, muayene, tedavi ve rehabilitasyon hizmetleri, doğum, ana çocuk sağlığı hizmetleri, ayakta ve yatarak tıbbî ve cerrahî müdahale ile çevre sağlığı, adlî tabiplik ve ağız diş sağlığı hizmetleri gibi hizmetlerin de verildiği, birinci basamak sağlık hizmetlerini yoğunlukla yürütmek üzere tasarlanmış sağlık hizmetini, ı) Genel Müdürlük: Temel Sağlık Hizmetleri Genel Müdürlüğünü , i) Gezici sağlık hizmeti: Aile hekimi ve/veya aile sağlığı elemanının, müdürlükçe tespit edilen uzak mahalle, belde, köy, mezra gibi yerleşim birimlerine, Bakanlıkça belirlenen usûl ve esaslara göre giderek mahallinde vereceği sağlık hizmetini, j) Grup başkanı: Bakanlıkça, entegre sağlık hizmet sunum modeli uygulaması uygun görülen ilçelerde entegre sağlık hizmeti sunan ilçe devlet hastanesi baştabibi olarak atanan ve aynı zamanda toplum sağlığı merkezi sorumlu tabipliğini ve ilçe sağlık grup başkanlığı görevini yürütecek tabibi, k) İlçe Devlet Hastanesi: Bünyesinde koruyucu, birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetleri ile gezici sağlık hizmetlerinin yanı sıra acil sağlık hizmeti, doğum, ayaktan ve gerektiğinde hasta yatırarak tıbbi ve cerrahi müdahale yapılabilen, hasta potansiyeline göre diyaliz ünitesi bulundurabilen, ağız diş sağlığı gibi sağlık hizmetlerinin ilçedeki diğer sağlık birimleri ve aile hekimleriyle bir arada ve tek merkezden, entegre sağlık hizmet sunum modeli ile verilebildiği hastaneleri, l) İlgili Genel Müdürlük: Tedavi Hizmetleri Genel Müdürlüğünü, m) Kriterler: 03/12/2009 tarihli ve 46143 sayılı Bakan oluru ile uygulamaya konulan Sağlık Bakanlığı Yataklı Sağlık Tesisleri Rollerinin Yeniden Belirlenmesi ve Gruplandırılmasına İlişkin Kriterleri,
 
 n) Müdürlük: İl sağlık müdürlüğünü,
 
@@ -193,9 +165,7 @@ o)Toplum sağlığı merkezi: Bölgesinde yaşayan toplumun sağlığını geli�
 
 **Ġlçe devlet hastanesi statüsü verilmesi**
 
-**Madde 5-** (1) Entegre sağlık hizmet modeli ile hizmet verecek hastaneler, coğrafi durum, ulaşım, nüfus, bölge merkezli sağlık planlamaları ve aile hekimliği uygulamaları ile kriterlerdeki ilgili hususlar çerçevesinde valiliğin teklifi üzerine Genel Müdürlüğün uygun görüşü alınarak İlgili Genel Müdürlükçe belirlenir. Bakanlık onayı ile ilçe devlet hastanesi statüsü verilir. Bunlardan E-II ve E-III grubu olanlar yataklı kurum fonksiyonu korunarak
-
-Genel Müdürlüğe devredilir. İlçe devlet hastanesinin statüsü gerektiğinde aynı usulle değiştirilebilir.
+**Madde 5-** (1) Entegre sağlık hizmet modeli ile hizmet verecek hastaneler, coğrafi durum, ulaşım, nüfus, bölge merkezli sağlık planlamaları ve aile hekimliği uygulamaları ile kriterlerdeki ilgili hususlar çerçevesinde valiliğin teklifi üzerine Genel Müdürlüğün uygun görüşü alınarak İlgili Genel Müdürlükçe belirlenir. Bakanlık onayı ile ilçe devlet hastanesi statüsü verilir. Bunlardan E-II ve E-III grubu olanlar yataklı kurum fonksiyonu korunarak Genel Müdürlüğe devredilir. İlçe devlet hastanesinin statüsü gerektiğinde aynı usulle değiştirilebilir.
 
 (2) E-I grubu ilçe devlet hastaneleri hariç olmak üzere, entegre sağlık hizmeti sunulan ilçe devlet hastanelerinin bulunduğu ilçe merkezlerindeki tüm aile hekimliği birimleri bu hastanelerin bünyesinde açılır ve faaliyet gösterir. Fiziki yetersizlik veya hastanenin konumu itibariyle hastaların sağlık hizmetine ulaşım güçlüğü bulunduğunun müdürlükçe belirlenmesi durumunda aile hekimliği birimleri ayrı binalarda faaliyet gösterebilir.
 
@@ -245,19 +215,13 @@ Tabip sayısının altıdan az olması durumunda acil vakalar ebe, hemşire, sa�
 
 (4) Nöbetle yükümlü aile hekimleri, nöbeti süresi içerisindeki acil hasta başvurularını hastanın kendisine bağlı olup olmadığına bakmaksızın kabul ve tedavi etmekle yükümlüdür.
 
-(5) E-I grubu ilçe devlet hastanelerindeki nöbet hizmetleri, Yataklı Tedavi Kurumları
-
-İşletme Yönetmeliği ile 16/10/2009 tarihli Resmi Gazetede yayımlanan Yataklı Sağlık
-
-Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ hükümlerine göre verilmeye devam edilir.
+(5) E-I grubu ilçe devlet hastanelerindeki nöbet hizmetleri, Yataklı Tedavi Kurumları İşletme Yönetmeliği ile 16/10/2009 tarihli Resmi Gazetede yayımlanan Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ hükümlerine göre verilmeye devam edilir.
 
 Ağız ve diG sağlığı hizmetleri
 
 **Madde 9-** (1) Entegre sağlık hizmeti sunulan ilçe devlet hastanelerinde ağız ve diş sağlığı hizmetleri verilebilir.
 
-(2) Birinci basmağa devredilen ilçe devlet hastaneleri bünyesindeki ağız ve diş sağlığı birimleri müdürlükçe uygun görülen en yakın ağız ve diş sağlığı merkezine bağlanır ve bağlı diş polikliniği statüsü verilir. Bu birimlerdeki diş tabipleri bağlandıkları ağız ve diş sağlığı merkezlerine geçici olarak görevlendirilir ve hizmet üretmek için gerekli olan tüm giderler bağlandıkları ağız ve diş sağlığı merkezi tarafından karşılanır. Ürettikleri hizmetler bağlandıkları ağız ve diş sağlığı merkezinin otomasyon sistemine entegre edilir. Sosyal
-
-Güvenlik Kurumu bilgi işlem sistemine (MEDULA) bildirim ve fatura tahakkuku bu duruma uygun olarak yapılır. Bu diş tabiplerinin performansa dayalı ek ödemeleri, ilgili ağız ve diş sağlığı merkezi döner sermaye gelirlerinden karşılanır.
+(2) Birinci basmağa devredilen ilçe devlet hastaneleri bünyesindeki ağız ve diş sağlığı birimleri müdürlükçe uygun görülen en yakın ağız ve diş sağlığı merkezine bağlanır ve bağlı diş polikliniği statüsü verilir. Bu birimlerdeki diş tabipleri bağlandıkları ağız ve diş sağlığı merkezlerine geçici olarak görevlendirilir ve hizmet üretmek için gerekli olan tüm giderler bağlandıkları ağız ve diş sağlığı merkezi tarafından karşılanır. Ürettikleri hizmetler bağlandıkları ağız ve diş sağlığı merkezinin otomasyon sistemine entegre edilir. Sosyal Güvenlik Kurumu bilgi işlem sistemine (MEDULA) bildirim ve fatura tahakkuku bu duruma uygun olarak yapılır. Bu diş tabiplerinin performansa dayalı ek ödemeleri, ilgili ağız ve diş sağlığı merkezi döner sermaye gelirlerinden karşılanır.
 
 **DÖRDÜNCÜ BÖLÜM**
 
@@ -273,13 +237,9 @@ Mali Hususlar ve Döner sermaye iG lemleri
 
 **Ek ödeme**
 
-**Madde 11-** (1) E-II ve E-III grubu ilçe devlet hastanelerinde görev yapan personele,
+**Madde 11-** (1) E-II ve E-III grubu ilçe devlet hastanelerinde görev yapan personele, Ek Ödeme Yönetmeliği usul ve esasları çerçevesinde bağlı bulundukları il sağlık müdürlüğü döner sermayesinden; il performans puan ortalaması ve Ek Ödeme Yönetmeliğinin Ek-7 sayılı tablosunda yer alan unvanlar için Ek-7 sayılı tabloda belirlenmiş olan hizmet alanı kadro unvan katsayıları, Ek-7 sayılı tabloda yer almayan unvanlar için ise Ek-4 sayılı tabloda yer alan hizmet alanı kadro unvan katsayıları esas alınmak sureti ile ek ödeme yapılır.
 
-Ek Ödeme Yönetmeliği usul ve esasları çerçevesinde bağlı bulundukları il sağlık müdürlüğü döner sermayesinden; il performans puan ortalaması ve Ek Ödeme Yönetmeliğinin Ek-7 sayılı tablosunda yer alan unvanlar için Ek-7 sayılı tabloda belirlenmiş olan hizmet alanı kadro unvan katsayıları, Ek-7 sayılı tabloda yer almayan unvanlar için ise Ek-4 sayılı tabloda yer alan hizmet alanı kadro unvan katsayıları esas alınmak sureti ile ek ödeme yapılır.
-
-(2) E-I grubu ilçe devlet hastanelerinde görev yapan personele yapılacak ek ödemelerde,
-
-Ek Ödeme Yönetmeliğinin ikinci basamak sağlık kurumları için belirlenmiş olan usul ve esaslar uygulanmaya devam edilir.
+(2) E-I grubu ilçe devlet hastanelerinde görev yapan personele yapılacak ek ödemelerde, Ek Ödeme Yönetmeliğinin ikinci basamak sağlık kurumları için belirlenmiş olan usul ve esaslar uygulanmaya devam edilir.
 
 **Denetim ve Sorumluluk**
 

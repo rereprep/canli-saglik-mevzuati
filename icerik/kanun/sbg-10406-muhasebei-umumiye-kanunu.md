@@ -19,11 +19,7 @@ Yayımlandığı R.Gazete : Tarih : 9/6/1927 Sayı : 606
 
 Yayımlandığı Düstur : Tertip : 3 Cilt : 8 Sayfa : 628
 
-Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren
-
-yönetmelik için,"Yönetmelikler Külliyatı" nın kanunlara göre
-
-düzenlenen nümerik fihristine bakınız.
+Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren yönetmelik için,"Yönetmelikler Külliyatı" nın kanunlara göre düzenlenen nümerik fihristine bakınız.
 
 ### BİRİNCİ FASIL
 

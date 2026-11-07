@@ -23,9 +23,7 @@ kontenjanlarına başvurabilmek için 5258 Sayılı Aile Hekimliği Kanunu hük�
 
 4. Herhangi bir TUS'da alınan “A Puanı”, sadece o sınavdan sonraki ilk yerleştirme işlemi ve bu yerleştirmeye bağlı olarak yapılabilecek ek yerleştirme için geçerlidir.
 
-5. Bir SAHU kontenjanına yerleşen aile hekimi, sonraki dönemlerde tekrar TUS’a girdiğinde
-
-ÖSYM’nin aşağıdaki kuralları uygulanacaktır:
+5. Bir SAHU kontenjanına yerleşen aile hekimi, sonraki dönemlerde tekrar TUS’a girdiğinde ÖSYM’nin aşağıdaki kuralları uygulanacaktır:
 
 Aşağıdaki hallerde adayların yerleştirmeye esas mesleki bilgi puanı %5 oranında düşürülecektir:
 
@@ -71,19 +69,13 @@ Sorumlu eğiticinin belirlenmesinde, eğitim hizmetlerinin etkinliği ile eğiti
 
 15. 1219 Nolu Kanunun Geçici 9. Maddesinde “…Bu eğitim uzaktan ve/veya kısmî zamanlı eğitim metotları da uygulanmak suretiyle yapılabilir ve en az altı yılda, eğitime başlamadan önce en az beş yıl sözleşmeli aile hekimliği yapanlar için ise en az dört yılda tamamlanır…” yer alan hükme istinaden SAHU’ya yerleşen hekimlerin eğitim başlangıç tarihinden önce en az 5 yıl aile hekimliği yapıp yapmadıkları il sağlık müdürlükleri tarafından tespit edilerek, en az 5 yıl sözleşmeli aile hekimliği yapmış olanların eğitim süreleri 4 yıl olacak şekilde planlama yapılacaktır.
 
-16. SAHU eğitimine devam eden sözleşmeli aile hekimlerinden (21.07.2025 tarihinden önce eğitime başlayanlar), eğitime başladıkları tarih itibarıyla daha önce sözleşmeli aile hekimi olarak geçen hizmet süresi toplamı beş yıl ve üzerinde olanlar; Tıpta ve Diş Hekimliğinde
-
-Uzmanlık Eğitimi Yönetmeliğinde öngörülen rotasyon, tez, ölçme ve değerlendirme ile diğer uzmanlık eğitimi yükümlülüklerini tamamlamaları ve bu durumun uzmanlık eğitim kurulu kararıyla eğitim kurumu tarafından uygun görülmesi hâlinde uzmanlık eğitimlerini, altı yıllık eğitim süresinin bitmesini beklemeden tamamlayabilirler. Bu kapsamda uzmanlık eğitimi süresi, dört yıldan az olmamak kaydıyla, ilgili uzmanlık öğrencisinin eğitim sürecine göre dört ila altı yıl arasında (örneğin 4 yıl 5 ay veya 4 yıl 7 ay) belirlenebilir. Eğitim kurumları, bu kapsamda bulunan SAHU uzmanlık öğrencilerinin ilgili mevzuat hükümlerinden etkin şekilde yararlanabilmelerini teminen; tez, rotasyon ve diğer uzmanlık eğitimi süreçlerini zamanında planlamak, koordine etmek ve eğitim sürecinin gereksiz şekilde uzamasına neden olabilecek gecikmeleri önlemekle sorumludur.
+16. SAHU eğitimine devam eden sözleşmeli aile hekimlerinden (21.07.2025 tarihinden önce eğitime başlayanlar), eğitime başladıkları tarih itibarıyla daha önce sözleşmeli aile hekimi olarak geçen hizmet süresi toplamı beş yıl ve üzerinde olanlar; Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğinde öngörülen rotasyon, tez, ölçme ve değerlendirme ile diğer uzmanlık eğitimi yükümlülüklerini tamamlamaları ve bu durumun uzmanlık eğitim kurulu kararıyla eğitim kurumu tarafından uygun görülmesi hâlinde uzmanlık eğitimlerini, altı yıllık eğitim süresinin bitmesini beklemeden tamamlayabilirler. Bu kapsamda uzmanlık eğitimi süresi, dört yıldan az olmamak kaydıyla, ilgili uzmanlık öğrencisinin eğitim sürecine göre dört ila altı yıl arasında (örneğin 4 yıl 5 ay veya 4 yıl 7 ay) belirlenebilir. Eğitim kurumları, bu kapsamda bulunan SAHU uzmanlık öğrencilerinin ilgili mevzuat hükümlerinden etkin şekilde yararlanabilmelerini teminen; tez, rotasyon ve diğer uzmanlık eğitimi süreçlerini zamanında planlamak, koordine etmek ve eğitim sürecinin gereksiz şekilde uzamasına neden olabilecek gecikmeleri önlemekle sorumludur.
 
 17. Eğitim Kurumu tarafından planlanan eğitim faaliyetlerini ve uzmanlık eğitimi yükümlülüklerini belirlenen süreler içerisinde tamamlamayan SAHU uzmanlık öğrencileri hakkında, Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği kapsamında uzmanlık öğrencilerine uygulanan usul ve esaslar çerçevesinde işlem tesis edilir.
 
-18. İl sağlık müdürlükleri SAHU kapsamında eğitimine devam eden uzmanlık öğrencilerinin
+18. İl sağlık müdürlükleri SAHU kapsamında eğitimine devam eden uzmanlık öğrencilerinin Devlet Hizmet Yükümlülüğü durumları ile eğitim süresi konularında gerekli incelemeleri yapıp eğitim kurumlarına resmi yazı ile bilgi vermekle yükümlüdür.
 
-Devlet Hizmet Yükümlülüğü durumları ile eğitim süresi konularında gerekli incelemeleri yapıp eğitim kurumlarına resmi yazı ile bilgi vermekle yükümlüdür.
-
-19. SAHU öğrencilerinin eğitime başlamadan önce sözleşmeli aile hekimliğinde geçirdiği toplam süreler (farklı zamanlarda, farklı birimlerde sözleşmeli aile hekimi olarak görev yapılan süreler dahil) il sağlık müdürlüklerince hesaplanacaktır. Bu süreler hesaplanırken Aile
-
-Hekimliği Uygulama Yönetmeliğinin 15 inci madde 5 inci fıkra hükümleri dikkate alınarak işlem tesis edilmelidir.
+19. SAHU öğrencilerinin eğitime başlamadan önce sözleşmeli aile hekimliğinde geçirdiği toplam süreler (farklı zamanlarda, farklı birimlerde sözleşmeli aile hekimi olarak görev yapılan süreler dahil) il sağlık müdürlüklerince hesaplanacaktır. Bu süreler hesaplanırken Aile Hekimliği Uygulama Yönetmeliğinin 15 inci madde 5 inci fıkra hükümleri dikkate alınarak işlem tesis edilmelidir.
 
 20. Uzmanlık eğitimi kapsamında yapılacak rotasyonlara görevlendirme işlemleri eğitim kurumu ile koordinasyon içinde il sağlık müdürlüğü tarafından eğitim kurumunun belirlediği takvim çerçevesinde yapılacak olup il sağlık müdürlükleri tarafından EKİP’e kaydedilecektir.
 
@@ -99,11 +91,7 @@ Bu 8 saatlik süre; haftada 4 saati geçmemek üzere, esnek mesai uygulaması ka
 
 25. Herhangi bir şekilde aile hekimliği sözleşmesinin feshi halinde uzmanlık eğitimi de sona erecektir.
 
-26. Eğitime başladıkları tarihte (eğitim kurumları tarafından alınan ve il sağlık müdürlüğünce
-
-EKİP’e işlenen kayıt tarihi) çalıştıkları aile hekimliği birimini en az üç yıl değiştirmemek şartıyla uzmanlık eğitimini başarıyla tamamlayanlar, 3359 Sayılı Kanun kapsamındaki Devlet
-
-Hizmeti Yükümlülüğünü ifa etmiş sayılacaktır.
+26. Eğitime başladıkları tarihte (eğitim kurumları tarafından alınan ve il sağlık müdürlüğünce EKİP’e işlenen kayıt tarihi) çalıştıkları aile hekimliği birimini en az üç yıl değiştirmemek şartıyla uzmanlık eğitimini başarıyla tamamlayanlar, 3359 Sayılı Kanun kapsamındaki Devlet Hizmeti Yükümlülüğünü ifa etmiş sayılacaktır.
 
 27. SAHU kontenjanlarına yerleştirilen ve eğitime başlayan aile hekimleri kendi aile hekimliği birimlerinde çalışmaya devam edecek olup, eğitimleri boyunca uzmanlık eğitiminin bir parçası olan ve TUK kararı ile alan ve süreleri belirlenen rotasyonlara katılmak üzere geçici olarak aile hekimliği birimlerinden ayrılacaklardır. Bu eğitimde rotasyona ayrılan süre bir eğitim yılında (Bir eğitim yılı, SAHU öğrencisinin eğitime kayıt tarihi ile sonraki yılın aynı tarihi arasını kapsayan süredir) 6 ayı geçmeyecek şekilde sorumlu eğitici tarafından düzenlenecektir.
 

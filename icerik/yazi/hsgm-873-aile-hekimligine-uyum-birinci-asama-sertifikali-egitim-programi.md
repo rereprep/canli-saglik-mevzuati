@@ -24,11 +24,7 @@ DAĞITIM YERLERİNE
 
 İlgi : 29.11.2023 tarihli ve E-19831278-770-230330392 sayılı yazı.
 
-Aile Hekimliğine Uyum Birinci Aşama Sertifikalı Eğitim Programına katılmamış Sözleşmeli Aile
-
-Hekimlerinin eğitimlerinin ivedilikle tamamlanmasına yönelik talimat ilgide kayıtlı yazı ile Müdürlüğünüze bildirmişti. Bu kapsamda eğitim bekleyen hekim sayısının az olduğu ve bu nedenle eğitim yapma imkânı bulunmayan illerde çalışan bu hekimlerin müdürlükler arasında iletişim kurularak çevre illerde düzenlenecek olan
-
-Aile Hekimliğine Uyum Birinci Aşama Sertifikalı Eğitim Programına katılması suretiyle eğitim almalarının sağlanması uygun olacaktır.
+Aile Hekimliğine Uyum Birinci Aşama Sertifikalı Eğitim Programına katılmamış Sözleşmeli Aile Hekimlerinin eğitimlerinin ivedilikle tamamlanmasına yönelik talimat ilgide kayıtlı yazı ile Müdürlüğünüze bildirmişti. Bu kapsamda eğitim bekleyen hekim sayısının az olduğu ve bu nedenle eğitim yapma imkânı bulunmayan illerde çalışan bu hekimlerin müdürlükler arasında iletişim kurularak çevre illerde düzenlenecek olan Aile Hekimliğine Uyum Birinci Aşama Sertifikalı Eğitim Programına katılması suretiyle eğitim almalarının sağlanması uygun olacaktır.
 
 Bilgilerini ve gereğini rica ederim.
 
@@ -41,4 +37,3 @@ Halk Sağlığı Genel Müdürü
 Dağıtım:
 
 81 İl Valiliği (İl Sağlık Müdürlüğü)
-

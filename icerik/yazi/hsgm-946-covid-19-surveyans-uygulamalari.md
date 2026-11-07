@@ -29,11 +29,7 @@ Konu : COVID-19 Sürveyans Uygulamaları
 
 DAĞITIM YERLERİNE
 
-Dünya Sağlık Örgütü (DSÖ) tarafından 11 Mart 2020 tarihinde pandemi ilan edilen COVID-19 hastalığı, ülkemizde ve dünyada yürütülen etkin halk sağlığı müdahaleleri sonucunda 5 Mayıs 2023 tarihinde “Uluslararası
-
-Halk Sağlığı Acil Durumu” olmaktan çıkarılmıştır. Bu nedenle COVID-19 pandemisi özelinde Halk Sağlığı
-
-Yönetim Sistemi (HSYS) altında geliştirilen “Vaka Takip Modülü” ve diğer sistemler (FİTAS, HES vb.) aracılığı ile yürütülen tüm işlemler (hasta ve temaslı takibi, HSYS’den PCR istemi, klinik süreçlerin kaydı, filyasyon, aşı ve risk durumu sorgulama işlemleri, vb.) sonlandırılmıştır.
+Dünya Sağlık Örgütü (DSÖ) tarafından 11 Mart 2020 tarihinde pandemi ilan edilen COVID-19 hastalığı, ülkemizde ve dünyada yürütülen etkin halk sağlığı müdahaleleri sonucunda 5 Mayıs 2023 tarihinde “Uluslararası Halk Sağlığı Acil Durumu” olmaktan çıkarılmıştır. Bu nedenle COVID-19 pandemisi özelinde Halk Sağlığı Yönetim Sistemi (HSYS) altında geliştirilen “Vaka Takip Modülü” ve diğer sistemler (FİTAS, HES vb.) aracılığı ile yürütülen tüm işlemler (hasta ve temaslı takibi, HSYS’den PCR istemi, klinik süreçlerin kaydı, filyasyon, aşı ve risk durumu sorgulama işlemleri, vb.) sonlandırılmıştır.
 
 Bu doğrultuda:
 

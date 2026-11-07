@@ -39,25 +39,17 @@ kullanımlık traş bıçağı kullanılmalıdır.
 
 2- Tıraş sonrasında kanamayı durdurma amaçlı kullanılan kantaşı maddesi, eğer mutlaka
 
-kullanılması gerekiyorsa tek kullanımlık tablet şeklindeki formu kullanılmalıdır, yoksa
-
-kullamlmamahdır.
+kullanılması gerekiyorsa tek kullanımlık tablet şeklindeki formu kullanılmalıdır, yoksa kullamlmamahdır.
 
 3- Ortak kullanıma açık olan makas veya diğer kesici aletlerin. her kullanımdan sonra
 
 mutlak suretle 1/10 oranında sulandırılmış çamaşır suyu (%10 sodyum hipoklorid
 
-İçeren) İçerisinde 20 dakika bekletilmesi suretiyle dezenfeksiyonu ya da sterilizasyonu
-
-sağlanmaldır.
+İçeren) İçerisinde 20 dakika bekletilmesi suretiyle dezenfeksiyonu ya da sterilizasyonu sağlanmaldır.
 
 4. Dövme uygulamalarında kullanılan iğneler ile kadın kuaförlerinde kullanılanı veya
 
-ortak kullanıma açık olan makas, cımbız, manikür ve pedikür setleri her kullanımdan
-
-sonra yıkanarak temizlendikten sonta mutlaka sterilize edilmeli, kapalı olarak uygun
-
-bir yerde kullanıma hazır olarak bekletilmelidir.
+ortak kullanıma açık olan makas, cımbız, manikür ve pedikür setleri her kullanımdan sonra yıkanarak temizlendikten sonta mutlaka sterilize edilmeli, kapalı olarak uygun bir yerde kullanıma hazır olarak bekletilmelidir.
 
 5- Kadım kuaförlerinde kullanılan ağda malzemeleri her kişi için, kişiye özel tek
 
@@ -67,9 +59,7 @@ kullanımlik olarak bazırlanmalı ve daha sonra atılmalidar,
 
 eldiven kullanmalıdır.
 
-Kan yoluyla bulaşan hastalıklarım kontrol altına alınması, kişiden kişiye bulaşmasının
-
-bu tür hizmet veren yerlerde çalışan personelin konu ile ilgili olarak bilgilendirilmesi ve bu tür yerlerden hizmet alan kişilerin bilinçlendirilmesi için konu ile ilgili gereken hassasiyetin gösterilmesi özel bir önem arz etmektedir.
+Kan yoluyla bulaşan hastalıklarım kontrol altına alınması, kişiden kişiye bulaşmasının bu tür hizmet veren yerlerde çalışan personelin konu ile ilgili olarak bilgilendirilmesi ve bu tür yerlerden hizmet alan kişilerin bilinçlendirilmesi için konu ile ilgili gereken hassasiyetin gösterilmesi özel bir önem arz etmektedir.
 
 Konunun önemi dolayısıyla, bu tür yerlerde çalışan personelin kan yolu ile bulaşan hastalıklar ve bu tür hastalıklardan korunma konusunda eğitilmesi, bu tür yerlere giden müşterilerin bilinçlendirilmesi ve bu tür yerlerin periyodik olarak mevzuata uygun şekilde denetlenmesi hususunda gereken hassasiyetin gösterilmesini rica ederim.
 

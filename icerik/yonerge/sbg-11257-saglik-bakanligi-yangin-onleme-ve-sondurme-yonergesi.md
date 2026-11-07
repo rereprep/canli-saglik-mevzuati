@@ -556,17 +556,7 @@ vv) Yangın türü: Yanmakta olan maddeye göre;
 
 yy) Yangın yükü: Bir yapı bölümünün içinde bulunan yanıcı maddelerin kütleleri ile alt ısıl değerleri çarpımları toplamının, plandaki toplam alana bölünmesi ile elde edilen ve MJ/m2 olarak ifade edilen büyüklüğü,
 
-zz) Yapı sahibi: Yapı üzerinde mülkiyet hakkına sahip olan gerçek veya tüzel kişiyi,
-
-aaa) Yapı sorumluları: Yapım işlerinde görev alan yapı müteahhidi, proje müellifi, tasarımcı, şantiye şefi ve yapı denetimi kuruluşunu,
-
-bbb) Yapı yüksekliği: Bodrum katlar, asma katlar ve çatı arası piyesler dâhil olmak üzere, yapının inşa edilen bütün katlarının toplam yüksekliğini,
-
-ccc) Yüksek bina: Bina yüksekliği 21.50 m’den veya 7 kattan fazla, yapı yüksekliği 30.50 m’den veya 10 kattan fazla olan binaları,
-
-ççç) Yırtılma yüzeyi: Patlama riskine karşı, kapalı bölümün yan duvarında oluşturulan zayıf yüzeyi,
-
-ddd) Yüksek tehlike: Yüksek tehlike sınıfına giren maddelerin üretildiği, kullanıldığı ve depolandığı yerleri, ifade eder.
+zz) Yapı sahibi: Yapı üzerinde mülkiyet hakkına sahip olan gerçek veya tüzel kişiyi, aaa) Yapı sorumluları: Yapım işlerinde görev alan yapı müteahhidi, proje müellifi, tasarımcı, şantiye şefi ve yapı denetimi kuruluşunu, bbb) Yapı yüksekliği: Bodrum katlar, asma katlar ve çatı arası piyesler dâhil olmak üzere, yapının inşa edilen bütün katlarının toplam yüksekliğini, ccc) Yüksek bina: Bina yüksekliği 21.50 m’den veya 7 kattan fazla, yapı yüksekliği 30.50 m’den veya 10 kattan fazla olan binaları, ççç) Yırtılma yüzeyi: Patlama riskine karşı, kapalı bölümün yan duvarında oluşturulan zayıf yüzeyi, ddd) Yüksek tehlike: Yüksek tehlike sınıfına giren maddelerin üretildiği, kullanıldığı ve depolandığı yerleri, ifade eder.
 
 ### İKİNCİ BÖLÜM
 
@@ -1362,9 +1352,7 @@ d) Fabrika, imalathane, dükkân ve antrepo binalarında, servis bacaları, asan
 
 ### YAKIT DEPOLARI
 
-**MADDE 56 –** (1) Yakıt depoları, yangına dayanıklı bölmelerle korunmuş bir hacme yerleştirilir. Yakıt deposu ile kazan dairesinin yangına 120 dakika dayanıklı bir bölme ile
-
-ayrılmış olması gerekir. Depoda yeterli havalandırmanın sağlanması ve tank kapasitesinin en az üçte birini alacak şekilde havuzlama yapılması şarttır. Yakıt tankları, ilgili Türk Standartlarına göre hesaplanır ve yerleştirilir.
+**MADDE 56 –** (1) Yakıt depoları, yangına dayanıklı bölmelerle korunmuş bir hacme yerleştirilir. Yakıt deposu ile kazan dairesinin yangına 120 dakika dayanıklı bir bölme ile ayrılmış olması gerekir. Depoda yeterli havalandırmanın sağlanması ve tank kapasitesinin en az üçte birini alacak şekilde havuzlama yapılması şarttır. Yakıt tankları, ilgili Türk Standartlarına göre hesaplanır ve yerleştirilir.
 
 (2) Akaryakıt depoları; merdiven altına, merdiven boşluğuna, mutfağa, banyoya ve yatak odasına konulamaz.
 
@@ -1550,9 +1538,7 @@ c) Jeneratörün ana yakıt deposunun bulunacağı yer için, 56 ncı maddede be
 
 ### İÇ TESİSAT
 
-**MADDE 68 –** (1) Her türlü binada elektrik iç tesisatı, koruma teçhizatı, kısa devre hesapları, yalıtım malzemeleri, bağlantı ve tespit elemanları, uzatma kabloları, elektrik tesisat projeleri ve kuvvetli akım tesisatı; 4/11/1984 tarihli ve 18565 sayılı Resmi Gazetede yayımlanan Elektrik İç Tesisleri Yönetmeliğine, 21/8/2001 tarihli ve 24500 sayılı Resmi Gazetede
-
-yayımlanan Elektrik Tesislerinde Topraklamalar Yönetmeliğine, 30/11/2000 tarihli ve 24246 sayılı Resmi Gazetede yayımlanan Elektrik Kuvvetli Akım Tesisleri Yönetmeliğine ve ilgili diğer yönetmeliklere ve standartlara uygun olarak tesis edilir.
+**MADDE 68 –** (1) Her türlü binada elektrik iç tesisatı, koruma teçhizatı, kısa devre hesapları, yalıtım malzemeleri, bağlantı ve tespit elemanları, uzatma kabloları, elektrik tesisat projeleri ve kuvvetli akım tesisatı; 4/11/1984 tarihli ve 18565 sayılı Resmi Gazetede yayımlanan Elektrik İç Tesisleri Yönetmeliğine, 21/8/2001 tarihli ve 24500 sayılı Resmi Gazetede yayımlanan Elektrik Tesislerinde Topraklamalar Yönetmeliğine, 30/11/2000 tarihli ve 24246 sayılı Resmi Gazetede yayımlanan Elektrik Kuvvetli Akım Tesisleri Yönetmeliğine ve ilgili diğer yönetmeliklere ve standartlara uygun olarak tesis edilir.
 
 (2) Yapı yüksekliği 51.50 m’den fazla olan binalarda şaft içinde bus-bar sisteminin bulunması mecburidir.
 
@@ -1700,9 +1686,7 @@ c) Yangın algılama ve uyarı sistemi birden fazla binaya hizmet veriyor ise, i
 
 ### DUMAN KONTROL VE BASINÇLANDIRMA SİSTEMLERİ KONTROL VE İZLEMELERİ
 
-**MADDE 80 –** (1) Bir binada duman kontrol ve basınçlandırma sistemleri kurulması hâlinde, bu sistemler ile ilgili arıza ve konum değiştirme sinyalleri ayrı bir bölgesel izleme panelinde veya yangın kontrol panelinde ayrı bölgesel durum ve arıza göstergeleri oluşturularak izlenir ve kontrol edilir. Duman kontrol ve basınçlandırma sistemlerinin el ile kontrolleri ayrı bir
-
-kontrol panelinden yapılabileceği gibi, yukarıda belirtilen izleme panelleri ile birleştirilerek yangın alarm sistemi bünyesinde de gerçekleştirilebilir.
+**MADDE 80 –** (1) Bir binada duman kontrol ve basınçlandırma sistemleri kurulması hâlinde, bu sistemler ile ilgili arıza ve konum değiştirme sinyalleri ayrı bir bölgesel izleme panelinde veya yangın kontrol panelinde ayrı bölgesel durum ve arıza göstergeleri oluşturularak izlenir ve kontrol edilir. Duman kontrol ve basınçlandırma sistemlerinin el ile kontrolleri ayrı bir kontrol panelinden yapılabileceği gibi, yukarıda belirtilen izleme panelleri ile birleştirilerek yangın alarm sistemi bünyesinde de gerçekleştirilebilir.
 
 ### SESLİ VE IŞIKLI UYARI CİHAZLARI
 
@@ -2768,9 +2752,7 @@ c) Koruma ekibi boşaltılan eşya ve evrakı, güvenlik güçleri veya bina yet
 
 ### GENEL EĞİTİM
 
-**MADDE 129 –** (1) Acil durum ekiplerinin personeli; Bakanlık Merkez Teşkilatında Savunma Sekreterliğinden, Taşra Teşkilatında ve bağlı kuruluşlarda Sivil savunma Uzmanlarının koordinesinde, İl Sivil Savunma Müdürlüğü ve İtfaiye Teşkilatının gerekirse yardım ve desteği alınarak, yönetici veya amirinin sorumluluğunda yangından korunma, yangının söndürülmesi, can ve mal kurtarma, ilk yardım faaliyetleri, itfaiye ile işbirliği ve organizasyon
-
-sağlanması konularında, mahalli itfaiye ve sivil savunma teşkilatlarından yararlanılarak eğitilir ve yapılan tatbikatlar ile bilgi ve becerileri artırılır. Ekip personeli ile binadaki diğer görevliler, yangın söndürme alet ve malzemelerinin nasıl kullanılacağı ve en kısa zamanda itfaiyeye nasıl ulaşılacağı konularında tatbikî eğitimden geçirilir. Binada senede en az 1 kez söndürme ve tahliye tatbikatı yapılır.
+**MADDE 129 –** (1) Acil durum ekiplerinin personeli; Bakanlık Merkez Teşkilatında Savunma Sekreterliğinden, Taşra Teşkilatında ve bağlı kuruluşlarda Sivil savunma Uzmanlarının koordinesinde, İl Sivil Savunma Müdürlüğü ve İtfaiye Teşkilatının gerekirse yardım ve desteği alınarak, yönetici veya amirinin sorumluluğunda yangından korunma, yangının söndürülmesi, can ve mal kurtarma, ilk yardım faaliyetleri, itfaiye ile işbirliği ve organizasyon sağlanması konularında, mahalli itfaiye ve sivil savunma teşkilatlarından yararlanılarak eğitilir ve yapılan tatbikatlar ile bilgi ve becerileri artırılır. Ekip personeli ile binadaki diğer görevliler, yangın söndürme alet ve malzemelerinin nasıl kullanılacağı ve en kısa zamanda itfaiyeye nasıl ulaşılacağı konularında tatbikî eğitimden geçirilir. Binada senede en az 1 kez söndürme ve tahliye tatbikatı yapılır.
 
 ### ÖZEL EĞİTİM
 
@@ -3268,11 +3250,11 @@ Okullar ve diğer eğitim kurumları (belirli alanları* ), bürolar (belirli al
 
 KULLANIM TÜRÜ | Orta Tehlike -1 | Orta Tehlike -2 | Orta Tehlike -3 | Orta Tehlike -4
 
-Cam ve seramikler |  | Cam Fabrikaları | 
+Cam ve seramikler |  | Cam Fabrikaları |
 
 Kimyasallar | Çimento İşleri | Fotoğraf laboratuarları, Fotoğraf film fabrikaları | Boyama işlemleri, sabun fabrikaları | Mum ve balmumu fabrikaları, kibrit fabrikaları, boyahaneler
 
-Mühendislik | Metal levha üretimi | Otomotiv fabrikaları, tamirhaneleri | Elektronik fabrikaları, buzdolabı ve çamaşır makinesi fabrikaları | 
+Mühendislik | Metal levha üretimi | Otomotiv fabrikaları, tamirhaneleri | Elektronik fabrikaları, buzdolabı ve çamaşır makinesi fabrikaları |
 
 Yiyecek ve içecekler | Mezbahalar Mandıralar | Fırınlar, bisküvi, çikolata, şekerleme imalathaneleri, bira fabrikaları | Hayvan yemi fabrikaları, meyve kurutma, suyu çıkarılmış sebze ve çorba fabrikaları, şeker imalathaneleri, tahıl değirmenleri | Alkol damıtma
 
@@ -3294,43 +3276,33 @@ Yüksek Tehlike -1 | Yüksek Tehlike -2 | Yüksek Tehlike -3 | Yüksek Tehlike -
 
 Döşemelik kumaş ve muşamba fabrikaları kumaş ve muşamba yer döşemeleri imalatı | Aydınlatma fişeği fabrikaları | Selüloz nitrat fabrikaları | Havai fişek fabrikaları
 
-Boya, renklendirici ( ahşap renklendirici ve koruyucuları-pnoteks) ve vernik imalâtı | Plastik köpük ve sünger imalathaneleri, lastik köpük eşyaları, | 
+Boya, renklendirici ( ahşap renklendirici ve koruyucuları-pnoteks) ve vernik imalâtı | Plastik köpük ve sünger imalathaneleri, lastik köpük eşyaları, |
 
-Yapay kauçuk, reçine, lamba isi ve terebentin imalatı | Katran damıtma | 
+Yapay kauçuk, reçine, lamba isi ve terebentin imalatı | Katran damıtma |
 
-Talaş fabrikaları Odun yünü imalatı | Otobüs ambarı, yüklü kamyonlar ve vagonlar Otobüsler, yüksüz kamyonlar ve demiryolu vagonları için depolar | 
+Talaş fabrikaları Odun yünü imalatı | Otobüs ambarı, yüklü kamyonlar ve vagonlar Otobüsler, yüksüz kamyonlar ve demiryolu vagonları için depolar |
 
 Yanıcılık Sınıfı | Tanımı | Söz konusu sınıfta belirlenmiş yapı malzemeleri
 
 A1 | A1 sınıfı malzemeler, tam gelişmiş yangını da kapsayan yanmanın herhangi bir kademesinde yanmaya katkıda bulunmazlar. Bu sebeple, otomatik olarak bu malzemelerin daha aşağı sınıflar için belirlenen bütün özellikleri yeterince sağladığı kabul edilir. | Bkz. EK-2.c
 
-A2 | TS EN 13823’e göre B sınıfı için belirlenen kriterleri sağlar. İlave olarak, tam gelişmiş yangın şartı altında bu malzemeler yangın yükü ve yangın gelişmesine önemli ölçüde katkıda bulunmamalıdır. | 
+A2 | TS EN 13823’e göre B sınıfı için belirlenen kriterleri sağlar. İlave olarak, tam gelişmiş yangın şartı altında bu malzemeler yangın yükü ve yangın gelişmesine önemli ölçüde katkıda bulunmamalıdır. |
 
-B | C sınıfı için belirlenen kriterlere ilave olarak daha ağır şartları sağlar. | 
+B | C sınıfı için belirlenen kriterlere ilave olarak daha ağır şartları sağlar. |
 
-C | D sınıfı için belirlenen kriterlere ilave olarak daha ağır şartları sağlar. Ayrıca tek alev başlıkla yapılan termal atak karşısında yanal alev yayılması sınırlı bir oranda kalmalıdır. | 
+C | D sınıfı için belirlenen kriterlere ilave olarak daha ağır şartları sağlar. Ayrıca tek alev başlıkla yapılan termal atak karşısında yanal alev yayılması sınırlı bir oranda kalmalıdır. |
 
-D | E Sınıfı kriterlerini sağlayan ve önemli ölçüde alev yayılması olmayan küçük bir alev atağı karşısında uzun bir süre direnç gösteren malzemeler. İlave olarak, yeterince tutulmuş ve sınırlı ısı açığa çıkaran tek yanan cisimle yapılan ısıl atak şartlarına dayanıklı olmalıdır. | 
+D | E Sınıfı kriterlerini sağlayan ve önemli ölçüde alev yayılması olmayan küçük bir alev atağı karşısında uzun bir süre direnç gösteren malzemeler. İlave olarak, yeterince tutulmuş ve sınırlı ısı açığa çıkaran tek yanan cisimle yapılan ısıl atak şartlarına dayanıklı olmalıdır. |
 
-E | Önemli ölçüde alev yayılması olmayan küçük bir alev atağı karşısında kısa bir süre direnç gösteren malzemeler. | 
+E | Önemli ölçüde alev yayılması olmayan küçük bir alev atağı karşısında kısa bir süre direnç gösteren malzemeler. |
 
-F | Yangın performansı tayin edilmemiş ve A1, A2, B, C, D, E sınıflarından biri olarak sınıflandırılmayan malzemeler. | 
+F | Yangın performansı tayin edilmemiş ve A1, A2, B, C, D, E sınıflarından biri olarak sınıflandırılmayan malzemeler. |
 
-Duman Oluşumu İçin İlave Sınıflandırmalar
+Duman Oluşumu İçin İlave Sınıflandırmalar s3 | Duman üretimi açısından herhangi sınırlama olmayan s2 | Duman üretiminin artış hızı yanında toplam duman üretimi de sınırlandırılmış olan s1 | s2’den daha ağır kriterleri sağlayan
 
-s3 | Duman üretimi açısından herhangi sınırlama olmayan
+Yanma Damlaları/Tanecikleri İçin İlave Sınıflandırmalar d2 | Sınırlama yok
 
-s2 | Duman üretiminin artış hızı yanında toplam duman üretimi de sınırlandırılmış olan
-
-s1 | s2’den daha ağır kriterleri sağlayan
-
-Yanma Damlaları/Tanecikleri İçin İlave Sınıflandırmalar
-
-d2 | Sınırlama yok
-
-d1 | Belirlenen bir süreden daha uzun sürede yanma damlaları/tanecikleri olmamalı
-
-d0 | Yanma damlaları/tanecikleri oluşmamalı
+d1 | Belirlenen bir süreden daha uzun sürede yanma damlaları/tanecikleri olmamalı d0 | Yanma damlaları/tanecikleri oluşmamalı
 
 Yanıcılık Sınıfı | Tanımı
 
@@ -3348,15 +3320,13 @@ Efl | Küçük bir aleve dayanıklı olan malzemeler.
 
 Ffl | Yangın performansı tayin edilmemiş ve A1fl, A2fl, Bfl, Cfl, Dfl, Efl sınıflarından biri olarak sınıflandırılmayan malzemeler.
 
-Duman oluşumu için ilave sınıflandırmalar
-
-s2 | Sınırlama yok.
+Duman oluşumu için ilave sınıflandırmalar s2 | Sınırlama yok.
 
 s1 | Toplam duman oluşumu sınırlandırılmış.
 
 Malzeme | Notlar
 
-Genleşmiş kil, genleşmiş perlit ve genleşmiş vermikülit, mineral yün, selüler cam | 
+Genleşmiş kil, genleşmiş perlit ve genleşmiş vermikülit, mineral yün, selüler cam |
 
 Beton | Hazır karıştırılmış beton ve prekast betonarme öngerilmeli ve ön sıkıştırmalı malzemeler
 
@@ -3364,7 +3334,7 @@ Beton (integral ısı yalıtımlı olan agregalar hariç yoğun ve hafif ) miner
 
 Gaz (gözenekli) beton üniteler | Çimento ve/veya kireç gibi su bazlı bağlayıcıların ince maddeler (silisli maddeler, PFA, uçucu fırın cürufu) ve gözenek üreten maddeler ile birleşmesiyle üretilen birimler. Prekast birimleri de kapsar.
 
-Çimento, elyaflı (telcikli) çimento ve kireç, yüksek fırın cürufu/toz uçucu kül (PFA) ve mineral agregalar | 
+Çimento, elyaflı (telcikli) çimento ve kireç, yüksek fırın cürufu/toz uçucu kül (PFA) ve mineral agregalar |
 
 Demir, çelik ve paslanmaz çelik, bakır ve bakır alaşımları , çinko ve çinko alaşımları, alüminyum ve alüminyum alaşımları, kurşun | Tamamen ayrı bir formda olmamak üzere (şekilsiz)
 
@@ -3458,35 +3428,35 @@ F | Güçlendirilmiş duman ve ısı havalandırıcılarının işlerliği
 
 B | Doğal, duman ve ısı havalandırıcılarının işlerliği
 
- | Yapı Elemanı | Yangın Dayanım Süresi (dak) | Etkilenen Yüzey
+| Yapı Elemanı | Yangın Dayanım Süresi (dak) | Etkilenen Yüzey
 
 1. | Taşıyıcı Sistem (çerçeve, kiriş veya kolon) | R Bkz. EK-3c | Etkilenen yüzeyler
 
 2. | Yük Taşıyıcı Duvar (aşağıdaki maddelerde de açıklanmayan duvar) | R Bkz. EK-3c | Ayrı ayrı her bir yüzey
 
-3. | Döşemeler | 
+3. | Döşemeler |
 
- | a) İki katlı konutun ikinci katında (garaj veya bodrum kat üstü hariç) | REI 30 | Alt yüzeyden
+| a) İki katlı konutun ikinci katında (garaj veya bodrum kat üstü hariç) | REI 30 | Alt yüzeyden
 
- | b) Bir dükkân ve üstündeki kat arasında | REI 60 veya Bkz. EK-3c (hangisi daha büyükse) | Alt yüzeyden
+| b) Bir dükkân ve üstündeki kat arasında | REI 60 veya Bkz. EK-3c (hangisi daha büyükse) | Alt yüzeyden
 
- | c) Kompartıman döşemeleri dahil her türlü diğer döşemeler | REI Bkz. EK-3c | Alt yüzeyden
+| c) Kompartıman döşemeleri dahil her türlü diğer döşemeler | REI Bkz. EK-3c | Alt yüzeyden
 
- | d) Bodrum kat ile zemin kat arası döşeme | REI 90 veya Bkz. EK-3c (hangisi daha büyükse) | Alt yüzeyden
+| d) Bodrum kat ile zemin kat arası döşeme | REI 90 veya Bkz. EK-3c (hangisi daha büyükse) | Alt yüzeyden
 
-4. | Çatılar | 
+4. | Çatılar |
 
- | a) Kaçış yolu teşkil eden her bölüm | REI 30 | Alt yüzeyden
+| a) Kaçış yolu teşkil eden her bölüm | REI 30 | Alt yüzeyden
 
- | b) Döşeme görevi yapan her türlü çatı | REI Bkz. EK-3c | Alt yüzeyden
+| b) Döşeme görevi yapan her türlü çatı | REI Bkz. EK-3c | Alt yüzeyden
 
- | c) Dıştan yangına maruz kalan çatılar (yük taşıyıcı değil) | EI Bkz. EK-3c | Dış yüzeyden
+| c) Dıştan yangına maruz kalan çatılar (yük taşıyıcı değil) | EI Bkz. EK-3c | Dış yüzeyden
 
-5. | Dış Duvarlar | 
+5. | Dış Duvarlar |
 
- | a) Parsel sınırın herhangi bir noktasına 2 m.’den daha yakın her bölüm | REI Bkz. EK-3c | Ayrı ayrı her bir yüzey
+| a) Parsel sınırın herhangi bir noktasına 2 m.’den daha yakın her bölüm | REI Bkz. EK-3c | Ayrı ayrı her bir yüzey
 
- | b) Parsel sınırdan 2 m. veya daha uzak olan her bölüm | REI Bkz. EK-3c | Binanın iç yüzeyden
+| b) Parsel sınırdan 2 m. veya daha uzak olan her bölüm | REI Bkz. EK-3c | Binanın iç yüzeyden
 
 6. | Yangın Kompartıman Duvarları (Bina içindeki farklı kullanım işlevlerini birbirinden ayıranlar) | REI 60 veya Bkz. EK-3c (hangisi daha büyükse) | Ayrı ayrı her bir yüzey
 
@@ -3494,11 +3464,11 @@ B | Doğal, duman ve ısı havalandırıcılarının işlerliği
 
 8. | Korunumlu Şaftlar (korunumlu yangın merdiveni yuvaları ve acil durum asansör kuyuları hariç) | REI 120 | Ayrı ayrı her bir yüzey
 
-9. | Korunumlu Yangın Merdiveni Yuvaları, Acil Durum Asansörü Kuyuları ve Yangın Güvenlik Holü | 
+9. | Korunumlu Yangın Merdiveni Yuvaları, Acil Durum Asansörü Kuyuları ve Yangın Güvenlik Holü |
 
- | a) Binanın geri kalanından ayıran duvar | REI 120 | Binaya bakan yüzey
+| a) Binanın geri kalanından ayıran duvar | REI 120 | Binaya bakan yüzey
 
- | b) Yangın merdiveni yuvası, acil durum asansör kuyusu ve yangın güvenlik holünü birbirinden ayıran duvar | REI 60 | Ayrı ayrı her bir yüzey
+| b) Yangın merdiveni yuvası, acil durum asansör kuyusu ve yangın güvenlik holünü birbirinden ayıran duvar | REI 60 | Ayrı ayrı her bir yüzey
 
 10. | Yangın Kesici | EI 30 | Ayrı ayrı her bir yüzey
 
@@ -3510,13 +3480,13 @@ Bina Kullanım Sınıfları | Bodrum Katlar(1) (üstündeki döşeme dahil) | Gi
 
 Bina Kullanım Sınıfları | Bodrum Kat(ların) Derinliği*(m) | Bina Yüksekliği (m)
 
- | 10 m’den fazla | 10 m’den az | 5 m’den az | 21,50 m’den az | 30,50 m’den az | 30,50 m’den fazla
+| 10 m’den fazla | 10 m’den az | 5 m’den az | 21,50 m’den az | 30,50 m’den az | 30,50 m’den fazla
 
 1. Konutlar | a) Bir ve İki Ailelik Evler | --- | 30(2) | 30 | 60 | ---
 
 1. Konutlar | b) Apartman lar | 90 | 60 | 30(2) | 60 | 90 | 120
 
-2. Konaklama Amaçlı Binalar | 
+2. Konaklama Amaçlı Binalar |
 
 - yağmurlama sistemi yok | 90 | 60 | 90 | İzin verilmez
 
@@ -3524,43 +3494,43 @@ Bina Kullanım Sınıfları | Bodrum Kat(ların) Derinliği*(m) | Bina Yüksekli
 
 3. Kurumsal Binalar | 90 | 60 | 30(2) | 60 | 90 | 120(3)
 
-4. Büro Binaları | 
+4. Büro Binaları |
 
- | - yağmurlama sistemi yok | 90 | 60 | 30(2) | 60 | 90 | İzin verilmez
+| - yağmurlama sistemi yok | 90 | 60 | 30(2) | 60 | 90 | İzin verilmez
 
- | - yağmurlama sistemli | 60 | 30(2) | 60 | 120(3)
+| - yağmurlama sistemli | 60 | 30(2) | 60 | 120(3)
 
-5. Ticaret Amaçlı Binalar | 
+5. Ticaret Amaçlı Binalar |
 
- | - yağmurlama sistemi yok | 90 | 60 | 90 | İzin verilmez
+| - yağmurlama sistemi yok | 90 | 60 | 90 | İzin verilmez
 
- | - yağmurlama sistemli | 60 | 30(2) | 60 | 120(3)
+| - yağmurlama sistemli | 60 | 30(2) | 60 | 120(3)
 
-6. Endüstriyel Yapılar | 
+6. Endüstriyel Yapılar |
 
- | - yağmurlama sistemi yok | 120 | 90 | 60 | 90 | 120 | İzin verilmez
+| - yağmurlama sistemi yok | 120 | 90 | 60 | 90 | 120 | İzin verilmez
 
- | - yağmurlama sistemli | 90 | 60 | 30(2) | 60 | 90 | 120(3)
+| - yağmurlama sistemli | 90 | 60 | 30(2) | 60 | 90 | 120(3)
 
-7. Toplanma Amaçlı Binalar | 
+7. Toplanma Amaçlı Binalar |
 
- | - yağmurlama sistemi yok | 90 | 60 | 90 | İzin verilmez
+| - yağmurlama sistemi yok | 90 | 60 | 90 | İzin verilmez
 
- | - yağmurlama sistemli | 60 | 30(2) | 60 | 120(3)
+| - yağmurlama sistemli | 60 | 30(2) | 60 | 120(3)
 
-8. Depolama Amaçlı Tesisler | 
+8. Depolama Amaçlı Tesisler |
 
-a) | Depolar | 
+a) | Depolar |
 
- | - yağmurlama sistemi yok | 120 | 90 | 60 | 90 | 120 | İzin verilmez
+| - yağmurlama sistemi yok | 120 | 90 | 60 | 90 | 120 | İzin verilmez
 
- | - yağmurlama sistemli | 90 | 60 | 30(2) | 60 | 90 | 120(3)
+| - yağmurlama sistemli | 90 | 60 | 30(2) | 60 | 90 | 120(3)
 
-b) | Otopark | 
+b) | Otopark |
 
- | - açık otoparklar | --- | 15(2) (4) | 60
+| - açık otoparklar | --- | 15(2) (4) | 60
 
- | - diğer otoparklar | 90 | 60 | 30(2) | 60 | 90 | 120(3)
+| - diğer otoparklar | 90 | 60 | 30(2) | 60 | 90 | 120(3)
 
 * Binanın en alt bodrum kat döşemesi ile zemin kat döşemesi arasındaki mesafe. (1) Bir bodrumun üstündeki döşeme (veya birden fazla bodrum var ise, en üstteki bodrumun üstündeki döşeme), eğer giriş ve üst katlar için olan yangına dayanım süreleri daha fazla ise o hükümleri sağlamalıdır. (2) Binaları ayıran yangın kompartıman duvarları için en az 60 dakikaya yükseltilir. (3) Taşıyıcı sistemin bir bölümünü teşkil etmeyen elemanlar için 90 dakikaya düşürülebilir. (4) Acil kaçışı oluşturan elemanlar için 30 dakikaya yükseltilir.
 
@@ -3598,7 +3568,7 @@ Bina kullanım sınıfları | En fazla kompartıman alanı (m2)
 
 Not : (1) Binalarda uygun yangın kontrol sistemleri (otomatik algılama, yağmurlama sistemi ve duman tahliye sistemi vb.) yapılmış ise, kompartıman alanı 2 katına çıkarılabilir. (2) Binalarda uygun yangın kontrol sistemleri (otomatik algılama, yağmurlama sistemi ve duman tahliye sistemi vb.) yapılmış ise, kompartıman alanı sınırsızdır. (3) Bina tek katlı ise sınırlama yoktur. Bina birden fazla katlı ve yağmurlama sistemi var ise, kompartıman alanları 2 katına çıkarılabilir. (4) Sebze ve meyve halleri, balık halleri, et borsaları, metal yedek parça bulunan yerler ile benzeri yerler hariç.
 
- | Kullanım Alanı | m2/kişi
+| Kullanım Alanı | m2/kişi
 
 1 | Konferans salonu, çok amaçlı salonlar (balo vs), lokanta, kantin, bekleme salonları, konser salonları, sinema ve tiyatro salonları, topluma açık stüdyo, düğün salonu vb. | 1.5
 
@@ -3644,41 +3614,39 @@ Not : (1) Binalarda uygun yangın kontrol sistemleri (otomatik algılama, yağmu
 
 Kullanıcı yükü; gerekli kaçış ve panik hesaplarında kullanılmak üzere 1, 2, 3 ve 4. satırlarda yer alan kullanım alanlarında net alana, diğer satırlarda yer alan kullanım alanları için brüt alana göre hesaplanır. Kişi sayısı belirli olan mahallerde, yukarıdaki değerlere göre hesaplanan değerden az olmamak üzere, belirtilen kişi sayısı esas alınır.
 
-Kullanım Sınıfı | Tek yön en çok uzaklık (m) | İki yön en çok uzaklık (m) | Birim genişlik için kişi sayısı | Çıkmaz koridor en çok uzaklık(m) | 
+Kullanım Sınıfı | Tek yön en çok uzaklık (m) | İki yön en çok uzaklık (m) | Birim genişlik için kişi sayısı | Çıkmaz koridor en çok uzaklık(m) |
 
- | Yağmurlama Sistemi yok | Yağmurlama Sistemli | Yağmurlama Sistemi yok | Yağmurlama Sistemli | Kapı Açıklıklarında | Kaçış Merdivenlerinde | Rampalar ve Koridorlarda | Koridorlar | 
+| Yağmurlama Sistemi yok | Yağmurlama Sistemli | Yağmurlama Sistemi yok | Yağmurlama Sistemli | Kapı Açıklıklarında | Kaçış Merdivenlerinde | Rampalar ve Koridorlarda | Koridorlar |
 
- | Yağmurlama Sistemi yok | Yağmurlama Sistemli | Yağmurlama Sistemi yok | Yağmurlama Sistemli | Dışarı çıkış kapısı | Diğer kapılar ve koridor kapıları | Kaçış Merdivenlerinde | Rampalar ve Koridorlarda | Yağmurlama Sistemi yok | Yağmurlama Sistemli | 
+| Yağmurlama Sistemi yok | Yağmurlama Sistemli | Yağmurlama Sistemi yok | Yağmurlama Sistemli | Dışarı çıkış kapısı | Diğer kapılar ve koridor kapıları | Kaçış Merdivenlerinde | Rampalar ve Koridorlarda | Yağmurlama Sistemi yok | Yağmurlama Sistemli |
 
-Yüksek Tehlikeli Yerler | 10 | 20 | 35 | 50 | 40 | 30 | 50 | 10 | 20 | 
+Yüksek Tehlikeli Yerler | 10 | 20 | 35 | 50 | 40 | 30 | 50 | 10 | 20 |
 
-Endüstrî Amaçlı Yapılar (1) | 15 | 25 | 30 | 60 | 100 | 80 | 60 | 100 | 15 | 20 | 
+Endüstrî Amaçlı Yapılar (1) | 15 | 25 | 30 | 60 | 100 | 80 | 60 | 100 | 15 | 20 |
 
-Yurtlar, Yatakhaneler | 15 | 30 | 45 | 75 | 50 | 40 | 30 | 50 | 15 | 20 | 
+Yurtlar, Yatakhaneler | 15 | 30 | 45 | 75 | 50 | 40 | 30 | 50 | 15 | 20 |
 
-Mağazalar, Dükkânlar, Marketler | 15 | 25 | 45 | 60 | 100 | 80 | 60 | 100 | 15 | 20 | 
+Mağazalar, Dükkânlar, Marketler | 15 | 25 | 45 | 60 | 100 | 80 | 60 | 100 | 15 | 20 |
 
-Büro Binaları | 15 | 30 | 45 | 75 | 100 | 80 | 60 | 100 | 15 | 20 | 
+Büro Binaları | 15 | 30 | 45 | 75 | 100 | 80 | 60 | 100 | 15 | 20 |
 
-Otoparklar ve Depolar | 15 | 25 | 45 | 60 | 100 | 80 | 60 | 100 | 15 | 20 | 
+Otoparklar ve Depolar | 15 | 25 | 45 | 60 | 100 | 80 | 60 | 100 | 15 | 20 |
 
-Okul ve Eğitim Yapıları | 15 | 30 | 45 | 75 | 100 | 80 | 60 | 100 | 15 | 20 | 
+Okul ve Eğitim Yapıları | 15 | 30 | 45 | 75 | 100 | 80 | 60 | 100 | 15 | 20 |
 
-Toplanma Amaçlı Binalar | 15 | 25 | 45 | 60 | 100 | 80 | 60 | 100 | 15 | 20 | 
+Toplanma Amaçlı Binalar | 15 | 25 | 45 | 60 | 100 | 80 | 60 | 100 | 15 | 20 |
 
-Hastaneler, Huzurevleri | 15 | 25 | 30 | 45 | 30 | 15 | 30 | 15 | 20 | 
+Hastaneler, Huzurevleri | 15 | 25 | 30 | 45 | 30 | 15 | 30 | 15 | 20 |
 
-Oteller, Pansiyonlar | 15 | 20 | 30 | 45 | 50 | 40 | 30 | 50 | 15 | 20 | 
+Oteller, Pansiyonlar | 15 | 20 | 30 | 45 | 50 | 40 | 30 | 50 | 15 | 20 |
 
-Apartmanlar | 15 | 30 | 75 | 50 | 40 | 30 | 50 | 15 | 20 | 
+Apartmanlar | 15 | 30 | 75 | 50 | 40 | 30 | 50 | 15 | 20 |
 
 Kolay alevlenici ve yoğun duman çıkarıcı malzeme bulundurulmayan endüstriyel amaçlı yapılarda tek ve iki yönlü uzaklık ½ oranında artırılabilir.
 
 Not: Kaçış mesafeleri için, dış kaçış geçitlerinde yağmurlama sistemli binalardaki, açık otoparklarda ise yağmurlama sistemli otopark kaçış mesafeleri esas alınır.
 
-Sıra genişliği | Bir sıradaki en çok koltuk sayısı
-
-mm | çıkış yolu bir yanda | çıkış yolu iki yanda
+Sıra genişliği | Bir sıradaki en çok koltuk sayısı mm | çıkış yolu bir yanda | çıkış yolu iki yanda
 
 300-324 | 7 | 14
 
@@ -3698,7 +3666,7 @@ mm | çıkış yolu bir yanda | çıkış yolu iki yanda
 
 500 ve üzeri |  | Kaçış yolu ile sınırlı
 
- | Yapı Yüksekliği (m) | Bina toplam kapalı alanı (m2)
+| Yapı Yüksekliği (m) | Bina toplam kapalı alanı (m2)
 
 1. Konutlar | >51,50 | -
 
@@ -3782,7 +3750,7 @@ Beher Tankın Su Hacmi m³ | Yer altı Tankları m | Yerüstü Tankları m | Tan
 
 Not: a) Tank sahası çevresine en az 1,5 m yüksekliğinde betonarme ve eşdeğeri malzemeden yangına 4 saat dayanıklı duvar yapılması hâlinde, tabloda belirtilen mesafeler 1/3 oranında azaltılır. b) Yukarıda belirtilen duvara ilave olarak tankın yarı çap seviyesinden itibaren yere bakan alt yüzeyine, ayaklar da dahil olmak üzere, yangına dayanıklı malzeme ile 2 saat ısı ve yangına karşı yalıtım yapılması halinde, tabloda belirtilen mesafeler 1/2 oranında azaltılır.
 
- | Miktarı (litre)
+| Miktarı (litre)
 
 Depolama Yeri | Sınıf IA | Sınıf IB, Sınıf IC Sınıf II
 
@@ -3820,7 +3788,7 @@ En fazla Depolama Alanı (m2) | Müsaade edilebilir miktar (litre/ Döşeme Alan
 
 Tank Hacmi (Litre) | Komşu arsa sınırına, ana trafik yollarına veya demir yollarına uzaklıkları (metre) | Tesise ait idari binalara uzaklıkları (metre) | Tankların Birbirinden Uzaklığı (metre)
 
-1.000 veya daha az | 1.5 | 
+1.000 veya daha az | 1.5 |
 
 1001–3000 | 3.0 | 1.5 | 1
 
@@ -3874,7 +3842,7 @@ Depolanan Hacim | Koruyucu Bölge Genişliği
 
 200 m³’den büyük | 30 m.
 
- | Akaryakıt Tankı Yeraltı(1) | Akaryakıt Pompası Adası | Tank Havalan. Borusu | Tank Doldurma Ağzı | İdari Bina(2) | Komşu Arsa Sınırı | Karayolu (Şehiriçi) Sınırı | Karayolu (Şehirlerarası) Arsa Sınırı | Topluma Açık Yerler(3) | Hastane Okul Arsa Sınırı (4)
+| Akaryakıt Tankı Yeraltı(1) | Akaryakıt Pompası Adası | Tank Havalan. Borusu | Tank Doldurma Ağzı | İdari Bina(2) | Komşu Arsa Sınırı | Karayolu (Şehiriçi) Sınırı | Karayolu (Şehirlerarası) Arsa Sınırı | Topluma Açık Yerler(3) | Hastane Okul Arsa Sınırı (4)
 
 Akaryakıt Tankı Yeraltı | 0,5 |  | 2 | 7,5 | 5 | 15 | 25 | 50
 

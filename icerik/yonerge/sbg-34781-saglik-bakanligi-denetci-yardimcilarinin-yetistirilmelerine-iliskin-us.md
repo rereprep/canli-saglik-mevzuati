@@ -386,9 +386,7 @@ izlenmelidir...................................
 
 ### RAPOR DEĞERLENDİRME FORMU RAPORU DÜZENLEYEN RAPORUN RAPORUN TARİH RAPORUN RAPORUN RAPOR VE SAYISI DENETÇİ YARDIMCISI ÇEŞİDİ SAYFA EK DEĞERLENDİRME SAYISI SAYISI PUANI
 
-Raporun Başkanlıkça Rapor ekinde bulunan Rapor ve eklerinin Raporda ilgili Rapora verilen
-
-belirlenen şekle ve rapor belgelerin tanzimi ve yazım ve yazışma mevzuat toplam puan,
+Raporun Başkanlıkça Rapor ekinde bulunan Rapor ve eklerinin Raporda ilgili Rapora verilen belirlenen şekle ve rapor belgelerin tanzimi ve yazım ve yazışma mevzuat toplam puan,
 
 (100 üzerinden)
 

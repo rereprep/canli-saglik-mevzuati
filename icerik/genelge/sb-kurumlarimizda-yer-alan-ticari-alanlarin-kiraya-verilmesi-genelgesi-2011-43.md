@@ -57,9 +57,7 @@ A. Protokol Hükümleri
 
 a. Mevcut kira bedellerinin ilgili döner sermaye saymanhğı hesabına yatırılabilmesi
 
-için bağlı olunan döner sermaye saymanlık bilgileri ve besap numaralanı
-
-kurumlarımızca ilgili Milli Emlak birimlerine bildirilecek, ayrıca konu hakkında
+için bağlı olunan döner sermaye saymanlık bilgileri ve besap numaralanı kurumlarımızca ilgili Milli Emlak birimlerine bildirilecek, ayrıca konu hakkında
 
 b. Il Sağlık Müdürlüklerince mevcut kira sözleşmelerine ait dosyalanın bir örneği
 
@@ -77,9 +75,7 @@ kullanılması mümkün olan yeni açılacak/oluşturulacak ve bu ticari alanlar
 
 ### T.C. SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı :B.10.0.SGB.0.84.00.01/10-06-6479 16/06/2011
 
-Sayı Konu : Kurumlarımıada yer alan ticari alanların kiraya verilmesi. D. Kiralama Ihaleleri ve Kira Süresi 2886 sayılı Devlet Ihale Kanunu'nun 74 üncü maddesinde;iTarihi ve bedii değeri olanlar hariç Hozinenin özel mülkiyetindeki verlerin satışı, kiraya verilmesi, trampası ve mülkiyetin gayri ayni hak tesisi ile Devletin hüküm ve tasarrufu altındaki yerlerin kiraya Yonelmelike belirlenir. ayet
-
-şeklinde yer alan hükme istinaden Maliye Bakanlığı'nca Hazin‹ Tasımazlarının Idaresi Hakkında Yönetmelik hazırlanmış ve 19/06/2007 tarihli Resmi Gazete yayımlanarak ekleri ile birlikte 1/07/2007 tarihinde yürürluğe girmiştir. Buna göre;
+Sayı Konu : Kurumlarımıada yer alan ticari alanların kiraya verilmesi. D. Kiralama Ihaleleri ve Kira Süresi 2886 sayılı Devlet Ihale Kanunu'nun 74 üncü maddesinde;iTarihi ve bedii değeri olanlar hariç Hozinenin özel mülkiyetindeki verlerin satışı, kiraya verilmesi, trampası ve mülkiyetin gayri ayni hak tesisi ile Devletin hüküm ve tasarrufu altındaki yerlerin kiraya Yonelmelike belirlenir. ayet şeklinde yer alan hükme istinaden Maliye Bakanlığı'nca Hazin‹ Tasımazlarının Idaresi Hakkında Yönetmelik hazırlanmış ve 19/06/2007 tarihli Resmi Gazete yayımlanarak ekleri ile birlikte 1/07/2007 tarihinde yürürluğe girmiştir. Buna göre;
 
 1. Kurum ve kuruluşlanmız ticari alanları kiraya verirken söz konusu yönetmelik hükümlerine göre hareket edeceklerdir.
 

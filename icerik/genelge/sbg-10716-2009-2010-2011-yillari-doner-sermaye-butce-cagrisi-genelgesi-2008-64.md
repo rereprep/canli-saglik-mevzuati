@@ -35,9 +35,7 @@ Kurumlarımız yıl içindeki ek bütçe, bölüm içi aktarma, bölümler aras�
 
 Bütçelerin hazırlanmasında ve uygulanmasında;
 
-a)-Bütçeyle verilen harcama yetkisinin, mevzuatla düzenlenen görev ve hizmetlerin yerine
-
-getirilmesi amacıyla kullanılmasına,
+a)-Bütçeyle verilen harcama yetkisinin, mevzuatla düzenlenen görev ve hizmetlerin yerine getirilmesi amacıyla kullanılmasına,
 
 b)-İzleyen iki yılın bütçe tahminleriyle birlikte hazırlanıp ve değerlendirilmesine,
 
@@ -47,9 +45,7 @@ d)-Belirli gelirlerin belirli giderlere tahsis edilmemesine,
 
 e)-Bütçelerde giderlerin gelirleri aşmamasına,
 
-f)-Bütçe gelir ve gider tahminleri ile uygulama sonuçlarının raporlanmasında açıklık, doğruluk ve
-
-malî saydamlığın esas alınmasına,
+f)-Bütçe gelir ve gider tahminleri ile uygulama sonuçlarının raporlanmasında açıklık, doğruluk ve malî saydamlığın esas alınmasına,
 
 g)-İşletmelerin tüm gelir ve giderlerinin bütçelerinde gösterilmesine,
 
@@ -57,9 +53,7 @@ h)-Rakamların muhasebe tekniğine göre sıfır (0) atılmadan yazılmasına,
 
 ı)-Bütçe gelir ve gider toplamlarının birbirine eşit olacak şekilde düzenlenmesine,
 
-j)-Her harcama kalemine asgari 1 TL konulması, yıl içinde yapılacak aktarmalarda da harcama
-
-kaleminde en az 1 TL bırakılmasına dikkat edilmesi gerekmektedir.
+j)-Her harcama kalemine asgari 1 TL konulması, yıl içinde yapılacak aktarmalarda da harcama kaleminde en az 1 TL bırakılmasına dikkat edilmesi gerekmektedir.
 
 770/05 ek çalışma karşılıkları harcama kalemine; bütçenin en fazla 7. maddede belirtilen paylar düşüldükten sonra kalan miktarın birinci basamak için % 65’ini, ikinci ve üçüncü basamak için ise % 50’sini aşmayacak şekilde ödenek konulması,
 

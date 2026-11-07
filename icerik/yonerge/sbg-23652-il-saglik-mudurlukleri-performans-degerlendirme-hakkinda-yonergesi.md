@@ -324,77 +324,35 @@ Memnuniyet
 
 ### Performans Gösterge Kartları Kentsel 112 Vaka Ulaşım Hızı
 
-Gösterge Kodu SG-ASHGM-01 Gösterge Adı Kentsel 112 Vaka Ulaşım Hızı Gösterge Grubu Sağlık Göstergeleri Amaç Şehir merkezlerinde sunulan acil sağlık
-
-hizmetlerinde vakaya ulaşım süresinin 10
+Gösterge Kodu SG-ASHGM-01 Gösterge Adı Kentsel 112 Vaka Ulaşım Hızı Gösterge Grubu Sağlık Göstergeleri Amaç Şehir merkezlerinde sunulan acil sağlık hizmetlerinde vakaya ulaşım süresinin 10
 
 dakikanın altına düşürülmesidir. Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-A: Kentsel 0–10 dakika arası ulaşılan acil vaka
+A: Kentsel 0–10 dakika arası ulaşılan acil vaka sayısı
 
-sayısı
+B: Kentsel toplam acil vaka sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 95% Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar  Ekibin görevi alıp hareket etmesinden, vakaya ulaşmasına kadar geçen süre dikkate alınır.
 
-B: Kentsel toplam acil vaka sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 95% Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar  Ekibin görevi alıp hareket etmesinden,
-
-vakaya ulaşmasına kadar geçen süre dikkate
-
-alınır.
-
- Vakaya ulaşma süresi hesaplamasında acil
-
-çağrı dışı görevlendirmeler (hastaneler arası
-
-nakil, eve nakil, morga nakil, protokol, tetkik
-
-için nakil, sağlık tedbirleri, tören, gösteri,
-
-spor karşılaşmaları vb.) hesaplama dışı
-
-bırakılır. Sorumlu Birim Acil Sağlık Hizmetleri Genel Müdürlüğü Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 6 Ay
+ Vakaya ulaşma süresi hesaplamasında acil çağrı dışı görevlendirmeler (hastaneler arası nakil, eve nakil, morga nakil, protokol, tetkik için nakil, sağlık tedbirleri, tören, gösteri, spor karşılaşmaları vb.) hesaplama dışı bırakılır. Sorumlu Birim Acil Sağlık Hizmetleri Genel Müdürlüğü Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 6 Ay
 
 1 / 41
 
 ### Performans Gösterge Kartları Kırsal 112 Vaka Ulaşım Hızı
 
-Gösterge Kodu SG-ASHGM-02 Gösterge Adı Kırsal 112 Vaka Ulaşım Hızı Gösterge Grubu Sağlık Göstergeleri Amaç Kırsal bölgede sunulan acil sağlık hizmetlerinde
+Gösterge Kodu SG-ASHGM-02 Gösterge Adı Kırsal 112 Vaka Ulaşım Hızı Gösterge Grubu Sağlık Göstergeleri Amaç Kırsal bölgede sunulan acil sağlık hizmetlerinde vakaya ulaşım süresinin 30 dakikanın altına düşürülmesidir. Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-vakaya ulaşım süresinin 30 dakikanın altına
+A: Kırsalda 0–30 dakika arası ulaşılan acil vaka sayısı
 
-düşürülmesidir. Hesaplama İçin Gerekli Veriler İlgili dönemde:
+B: Kırsalda toplam acil vaka sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 96% Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar  Ekibin görevi alıp hareket etmesinden, vakaya ulaşmasına kadar geçen süre dikkate alınır.
 
-A: Kırsalda 0–30 dakika arası ulaşılan acil vaka
+ Vakaya ulaşma süresi hesaplamasında acil çağrı dışı görevlendirmeler (hastaneler arası nakil, eve nakil, morga nakil, protokol, tetkik için nakil, sağlık tedbirleri, tören, gösteri, spor karşılaşmaları vb.) hesaplama dışı bırakılır.
 
-sayısı
-
-B: Kırsalda toplam acil vaka sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 96% Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar  Ekibin görevi alıp hareket etmesinden,
-
-vakaya ulaşmasına kadar geçen süre dikkate
-
-alınır.
-
- Vakaya ulaşma süresi hesaplamasında acil
-
-çağrı dışı görevlendirmeler (hastaneler arası
-
-nakil, eve nakil, morga nakil, protokol, tetkik
-
-için nakil, sağlık tedbirleri, tören, gösteri,
-
-spor karşılaşmaları vb.) hesaplama dışı
-
-bırakılır.
-
- Kırsal bölge sınırlarını il sağlık müdürlükleri
-
-belirler. Sorumlu Birim Acil Sağlık Hizmetleri Genel Müdürlüğü Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 6 Ay
+ Kırsal bölge sınırlarını il sağlık müdürlükleri belirler. Sorumlu Birim Acil Sağlık Hizmetleri Genel Müdürlüğü Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 6 Ay
 
 2 / 41
 
 ### Performans Gösterge Kartları İl Dışına Yapılan Uygunsuz Sevk Oranı
 
-Gösterge Kodu SG-ASHGM-03 Gösterge Adı İl Dışına Yapılan Uygunsuz Sevk Oranı Gösterge Grubu Sağlık Göstergeleri Amaç İl dışına yapılan uygunsuz sevklerin tespiti ve bu
-
-oranın azaltılması Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Gösterge Kodu SG-ASHGM-03 Gösterge Adı İl Dışına Yapılan Uygunsuz Sevk Oranı Gösterge Grubu Sağlık Göstergeleri Amaç İl dışına yapılan uygunsuz sevklerin tespiti ve bu oranın azaltılması Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A:İl dışına yapılan uygunsuz sevklerin sayısı
 
@@ -404,15 +362,7 @@ B:İl dışına yapılan toplam sevk sayısı Müdürlük Değeri (C) C = (A / B
 
 ### Performans Gösterge Kartları Primer Sezaryen Oranı
 
-Gösterge Kodu SG-SHGM-04 Gösterge Adı Primer Sezaryen Oranı Gösterge Grubu Sağlık Göstergeleri Amaç Gebelere, gebelik süresince yapılan izlemlerde
-
-normal doğumun önemi, avantajları, sezaryenin
-
-komplikasyonları ve kısıtlılıkları hakkında eğitim
-
-vererek ailelerin bilgi ve bilinç düzeyini
-
-arttırarak, normal doğum oranını artırmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Gösterge Kodu SG-SHGM-04 Gösterge Adı Primer Sezaryen Oranı Gösterge Grubu Sağlık Göstergeleri Amaç Gebelere, gebelik süresince yapılan izlemlerde normal doğumun önemi, avantajları, sezaryenin komplikasyonları ve kısıtlılıkları hakkında eğitim vererek ailelerin bilgi ve bilinç düzeyini arttırarak, normal doğum oranını artırmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A:Yapılan primer sezaryen sayısı
 
@@ -452,9 +402,7 @@ Hekimliği rolüne sahip sağlık tesislerini kapsar.
 
  Sadece MHRS’de tanımlı olan klinikler baz alınır.
 
- Sağlık kuruluşlarının MHRS’de tanımlı poliklinik
-
-bazında açtıkları randevu cetvelleri kontrol edilir. Sorumlu Birim Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Kaynağı Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Giriş Periyodu 3 ay
+ Sağlık kuruluşlarının MHRS’de tanımlı poliklinik bazında açtıkları randevu cetvelleri kontrol edilir. Sorumlu Birim Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Kaynağı Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Giriş Periyodu 3 ay
 
 5 / 41
 
@@ -462,21 +410,13 @@ bazında açtıkları randevu cetvelleri kontrol edilir. Sorumlu Birim Sağlık 
 
 Sağlık Bakanlığı Merkezi Veri Toplama Sistemleri Uygunluk Oranı Gösterge Kodu SG-SBSGM-06 Gösterge Adı Sağlık Bakanlığı Merkezi Veri Toplama Sistemleri
 
-Uygunluk Oranı Kriter Grubu Sağlık Göstergeleri Amaç Sağlık Bakanlığı merkezi veri toplama
-
-sistemlerine iletilen veri sayılarındaki tutarlılığı
-
-sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Uygunluk Oranı Kriter Grubu Sağlık Göstergeleri Amaç Sağlık Bakanlığı merkezi veri toplama sistemlerine iletilen veri sayılarındaki tutarlılığı sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: İnsan Kaynakları Yönetim Sisteminde (İKYS)
 
-tanımlı belirlenmiş veri elemanları gönderim
+tanımlı belirlenmiş veri elemanları gönderim sayısı
 
-sayısı
-
-B: İKYS’de tanımlı belirlenmiş veri elemanlarına
-
-karşılık gelen Temel Sağlık İstatistikleri
+B: İKYS’de tanımlı belirlenmiş veri elemanlarına karşılık gelen Temel Sağlık İstatistikleri
 
 Modülüne (TSİM) gönderilmiş veri sayısı Müdürlük Değeri (C) C = (A/B)*100 Kabul Edilebilir Değer C ≥ 70% Gösterge Tavan Puanı (GTP) 10 Sorumlu Birim Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Kaynağı Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Giriş Periyodu 3 ay
 
@@ -484,45 +424,19 @@ Modülüne (TSİM) gönderilmiş veri sayısı Müdürlük Değeri (C) C = (A/B)
 
 ### Performans Gösterge Kartları Ulusal Sağlık Sistemi (USS) Veri Gönderim Oranı
 
-Gösterge Kodu SG-SBSGM-07 Gösterge Adı Ulusal Sağlık Sistemi (USS) Veri Gönderim Oranı Kriter Grubu Sağlık Göstergeleri Amaç Sağlık verileri üzerinden istatistiki çalışmaların
+Gösterge Kodu SG-SBSGM-07 Gösterge Adı Ulusal Sağlık Sistemi (USS) Veri Gönderim Oranı Kriter Grubu Sağlık Göstergeleri Amaç Sağlık verileri üzerinden istatistiki çalışmaların yapılabilmesi ve bu kapsamda sağlık alanında politika belirlenebilmesi amacıyla merkezi veri sistemlerine veri gönderim oranını artırmak. Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-yapılabilmesi ve bu kapsamda sağlık alanında
+A: USS’de tanımlı belirlenmiş veri elamanları gönderim sayısı
 
-politika belirlenebilmesi amacıyla merkezi veri
-
-sistemlerine veri gönderim oranını artırmak. Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: USS’de tanımlı belirlenmiş veri elamanları
-
-gönderim sayısı
-
-B: Sağlık Bilgi Yönetim Sistemi (SBYS) veri
-
-tabanında kaydedilmiş USS’de tanımlı belirlenmiş
-
-veri elamanlarına karşılık gelen veri sayısı Müdürlük Değeri (C) C = A / B * 100 Kabul Edilebilir Değer C ≥ 90% Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar  USS veri gönderim oranı için tüm kamu, özel ve
-
-üniversite hastaneleriilebirincibasamaksağlık
-
-kuruluşlarından gelen verilerin tamamı
-
-kapsama dâhildir.
+B: Sağlık Bilgi Yönetim Sistemi (SBYS) veri tabanında kaydedilmiş USS’de tanımlı belirlenmiş veri elamanlarına karşılık gelen veri sayısı Müdürlük Değeri (C) C = A / B * 100 Kabul Edilebilir Değer C ≥ 90% Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar  USS veri gönderim oranı için tüm kamu, özel ve üniversite hastaneleriilebirincibasamaksağlık kuruluşlarından gelen verilerin tamamı kapsama dâhildir.
 
  İldeki tüm sağlık kuruluşlarının USS verileri
 
-Karar Destek Sistemi (KDS) raporlarından
+Karar Destek Sistemi (KDS) raporlarından alınır.
 
-alınır.
+ SBYS veri tabanında yer alan veriler denetim ekibi tarafından her sağlık kuruluşu için yerinde denetim ile kontrol edilir.
 
- SBYS veri tabanında yer alan veriler denetim
-
-ekibi tarafından her sağlık kuruluşu için
-
-yerinde denetim ile kontrol edilir.
-
- Kapsama dâhil olacak veri elemanları İSM
-
-rehberinde açıklanır. Sorumlu Birim Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Kaynağı Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Giriş Periyodu 3 ay
+ Kapsama dâhil olacak veri elemanları İSM rehberinde açıklanır. Sorumlu Birim Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Kaynağı Sağlık Bilgi Sistemleri Genel Müdürlüğü Veri Giriş Periyodu 3 ay
 
 7 / 41
 
@@ -534,49 +448,23 @@ Kamu Hastaneleri Birlikleri Verimlilik Değerlendirme Puanlarının
 
 Gösterge Kodu SG-TKHK-08 Gösterge Adı Kamu Hastaneleri Birlikleri Verimlilik
 
-Değerlendirme Puanlarının Ortalaması Gösterge Grubu Sağlık Göstergeleri Amaç İlde faaliyet gösteren kamu hastane birliklerinin
+Değerlendirme Puanlarının Ortalaması Gösterge Grubu Sağlık Göstergeleri Amaç İlde faaliyet gösteren kamu hastane birliklerinin kaynak kullanımının ve hizmet sunumunun etkinlik ve verimliliğinin sağlanmasına yönelik iş birliğinin artırılması Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-kaynak kullanımının ve hizmet sunumunun
+A: İldeki kamu hastane birliklerinin karne puanları toplamı
 
-etkinlik ve verimliliğinin sağlanmasına yönelik iş
-
-birliğinin artırılması Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: İldeki kamu hastane birliklerinin karne
-
-puanları toplamı
-
-B: İlde faaliyet gösteren kamu hastane
-
-birliklerinin sayısı Müdürlük Değeri (C) C = A / B Kabul Edilebilir Değer C ≥ 850 Gösterge Tavan Puanı (GTP) 50 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye Kamu Hastaneleri Kurumu Veri Kaynağı Türkiye Kamu Hastaneleri Kurumu Veri Giriş Periyodu 1 yıl
+B: İlde faaliyet gösteren kamu hastane birliklerinin sayısı Müdürlük Değeri (C) C = A / B Kabul Edilebilir Değer C ≥ 850 Gösterge Tavan Puanı (GTP) 50 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye Kamu Hastaneleri Kurumu Veri Kaynağı Türkiye Kamu Hastaneleri Kurumu Veri Giriş Periyodu 1 yıl
 
 8 / 41
 
 ### Performans Gösterge Kartları Anne Ölüm Oranı
 
-Gösterge Kodu SG-THSK-09 Gösterge Adı Anne Ölüm Oranı Gösterge Grubu Sağlık Göstergeleri Amaç Gebelik, doğum ve lohusalık döneminde
-
-meydana gelen önlenebilir anne ölümlerini
-
-azaltmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Gösterge Kodu SG-THSK-09 Gösterge Adı Anne Ölüm Oranı Gösterge Grubu Sağlık Göstergeleri Amaç Gebelik, doğum ve lohusalık döneminde meydana gelen önlenebilir anne ölümlerini azaltmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Gerçekleşen anne ölüm sayısı
 
-B: Gerçekleşen doğum sayısı Müdürlük Değeri (C) C = A/Bx100000 Kabul Edilebilir Değer C ≤ Türkiye Ortalaması (TOR) Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar  Anne ölümü (A); gebeliğin birinci gününden,
+B: Gerçekleşen doğum sayısı Müdürlük Değeri (C) C = A/Bx100000 Kabul Edilebilir Değer C ≤ Türkiye Ortalaması (TOR) Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar  Anne ölümü (A); gebeliğin birinci gününden, doğum sonrası 42. günün sonuna kadar gebelikten kaynaklanan veya gebeliğin şiddetlendirdiği nedenlerden dolayı meydana gelen ölümü ifade eder.
 
-doğum sonrası 42. günün sonuna kadar
-
-gebelikten kaynaklanan veya gebeliğin
-
-şiddetlendirdiği nedenlerden dolayı
-
-meydana gelen ölümü ifade eder.
-
- A parametresi sadece gebelik ve bağlı
-
-komplikasyonlarından kaynaklanan ölümleri
-
-kapsar. Sorumlu Birim Türkiye Halk Sağlığı Kurumu Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 yıl
+ A parametresi sadece gebelik ve bağlı komplikasyonlarından kaynaklanan ölümleri kapsar. Sorumlu Birim Türkiye Halk Sağlığı Kurumu Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 yıl
 
 9 / 41
 
@@ -584,29 +472,17 @@ kapsar. Sorumlu Birim Türkiye Halk Sağlığı Kurumu Veri Kaynağı İl Sağl�
 
 Halk Sağlığı Müdürlükleri Verimlilik Değerlendirme Puanlarının Ortalaması Gösterge Kodu SG-THSK-10 Gösterge Adı Halk Sağlığı Müdürlükleri Verimlilik
 
-Değerlendirme Puan Ortalaması Gösterge Grubu Sağlık Göstergeleri Amaç İlde faaliyet gösteren halk sağlığı
+Değerlendirme Puan Ortalaması Gösterge Grubu Sağlık Göstergeleri Amaç İlde faaliyet gösteren halk sağlığı müdürlüklerinin kaynak kullanımının ve hizmet sunumunun etkinlik ve verimliliğinin sağlanmasına yönelik iş birliğinin artırılması Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-müdürlüklerinin kaynak kullanımının ve hizmet
+A: İldeki halk sağlığı müdürlüklerinin karne puanları toplamı
 
-sunumunun etkinlik ve verimliliğinin
-
-sağlanmasına yönelik iş birliğinin artırılması Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: İldeki halk sağlığı müdürlüklerinin karne
-
-puanları toplamı
-
-B: İlde faaliyet gösteren halk sağlığı müdürlüğü
-
-sayısı Müdürlük Değeri (C) C = A / B Kabul Edilebilir Değer C ≥ 800 Gösterge Tavan Puanı (GTP) 50 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye Halk Sağlığı Kurumu Veri Kaynağı Türkiye Halk Sağlığı Kurumu Veri Giriş Periyodu 1 Yıl
+B: İlde faaliyet gösteren halk sağlığı müdürlüğü sayısı Müdürlük Değeri (C) C = A / B Kabul Edilebilir Değer C ≥ 800 Gösterge Tavan Puanı (GTP) 50 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye Halk Sağlığı Kurumu Veri Kaynağı Türkiye Halk Sağlığı Kurumu Veri Giriş Periyodu 1 Yıl
 
 10 / 41
 
 ### Performans Gösterge Kartları Bebek Ölüm Hızı
 
-Gösterge Kodu SG-THSK-11 Gösterge Adı Bebek Ölüm Hızı Gösterge Grubu Sağlık Göstergeleri Amaç Doğumdan sonraki bir yıl içerisinde meydana
-
-gelen önlenebilir bebek ölümlerini azaltmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Gösterge Kodu SG-THSK-11 Gösterge Adı Bebek Ölüm Hızı Gösterge Grubu Sağlık Göstergeleri Amaç Doğumdan sonraki bir yıl içerisinde meydana gelen önlenebilir bebek ölümlerini azaltmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: 28 hafta ve üzeri canlı doğum olup, 0-364
 
@@ -620,29 +496,11 @@ B: Canlı doğum sayısı Müdürlük Değeri (C) C = (A / B) x 1000 Kabul Edile
 
 Gösterge Kodu SG-THSK-12 Gösterge Adı Evde Sağlık Hizmetine Uygun Başvuruların
 
-Karşılanma Oranı Gösterge Grubu Sağlık Göstergeleri Amaç Tek başına veya aile bireyleriyle birlikte yaşayıp
+Karşılanma Oranı Gösterge Grubu Sağlık Göstergeleri Amaç Tek başına veya aile bireyleriyle birlikte yaşayıp hayatlarını başkalarının desteği ile sürdüren engelli, yaşlı ya da yatağa bağımlı kişiler, palyatif bakım hastaları, hastanede gördüğü tedavi ya da ameliyat sonrasında taburcu edilenlerden evde sağlık hizmetleri kapsamında olanlara evinde ve aile ortamında gerekli olan sağlık hizmetini sunmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-hayatlarını başkalarının desteği ile sürdüren
+A: Başvurusu uygun görülenler içinde evde sağlık hizmetinden yararlanan kişi sayısı
 
-engelli, yaşlı ya da yatağa bağımlı kişiler,
-
-palyatif bakım hastaları, hastanede gördüğü
-
-tedavi ya da ameliyat sonrasında taburcu
-
-edilenlerden evde sağlık hizmetleri kapsamında
-
-olanlara evinde ve aile ortamında gerekli olan
-
-sağlık hizmetini sunmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Başvurusu uygun görülenler içinde evde
-
-sağlık hizmetinden yararlanan kişi sayısı
-
-B: Evde sağlık hizmet başvurusu uygun görülen
-
-kişi sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ Türkiye Ortalaması (TOR) Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye Halk Sağlığı Kurumu Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 yıl
+B: Evde sağlık hizmet başvurusu uygun görülen kişi sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ Türkiye Ortalaması (TOR) Gösterge Tavan Puanı (GTP) 10 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye Halk Sağlığı Kurumu Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 yıl
 
 12 / 41
 
@@ -650,29 +508,13 @@ kişi sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer
 
 Gösterge Kodu PH-SHGM-01 Gösterge Adı Sağlık Personeli Takip Sistemi’nin (SPTS) Etkin
 
-Kullanım Oranı Gösterge Grubu Planlama Hizmetleri Amaç Sağlık personelinin sayısal planlamasında arz ve
+Kullanım Oranı Gösterge Grubu Planlama Hizmetleri Amaç Sağlık personelinin sayısal planlamasında arz ve talep dengesini esas alarak yurt genelinde adil dağılımı sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-talep dengesini esas alarak yurt genelinde adil
+A: Verisi doğru ve zamanında girilen kurum sayısı
 
-dağılımı sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
+B: Toplam kurum sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 95% Gösterge Tavan Puanı (GTP) 15 Dikkat Edilmesi Gereken Hususlar  Verisi doğru ve zamanında girilen kurum sayısı: İl genelinde, SPTS’ de kayıtlı kurum verilerinin girilmesi ve 15 günde bir doğru olarak güncellenmesini ifade eder.
 
-A: Verisi doğru ve zamanında girilen kurum
-
-sayısı
-
-B: Toplam kurum sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 95% Gösterge Tavan Puanı (GTP) 15 Dikkat Edilmesi Gereken Hususlar  Verisi doğru ve zamanında girilen kurum
-
-sayısı: İl genelinde, SPTS’ de kayıtlı kurum
-
-verilerinin girilmesi ve 15 günde bir doğru
-
-olarak güncellenmesini ifade eder.
-
- Toplam Kurum Sayısı: İl bazında, SPTS’ de
-
-kayıtlı olan kurum sayılarının tümünü ifade
-
-eder. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+ Toplam Kurum Sayısı: İl bazında, SPTS’ de kayıtlı olan kurum sayılarının tümünü ifade eder. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Sağlık İnsan Gücü Planlama Daire Başkanlığı Veri Kaynağı Sağlık İnsan Gücü Planlama Daire Başkanlığı Veri Giriş Periyodu 6 Ay
 
@@ -680,25 +522,13 @@ Sağlık İnsan Gücü Planlama Daire Başkanlığı Veri Kaynağı Sağlık İn
 
 ### Performans Gösterge Kartları İl Faaliyet Planına Uyum Oranı
 
-Gösterge Kodu PH-SGB-02 Gösterge Adı İl Faaliyet Planına Uyum Oranı Gösterge Grubu Planlama Hizmetleri Amaç Bakanlık Stratejik Planı çerçevesinde, il
-
-düzeyindeki faaliyetlerin takibi ve plana uyumu
-
-artırmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Gösterge Kodu PH-SGB-02 Gösterge Adı İl Faaliyet Planına Uyum Oranı Gösterge Grubu Planlama Hizmetleri Amaç Bakanlık Stratejik Planı çerçevesinde, il düzeyindeki faaliyetlerin takibi ve plana uyumu artırmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Gerçekleştirilen faaliyet sayısı
 
-B: Planlanan faaliyet sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 90% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar  Planlanan faaliyet: İl faaliyet planı web
+B: Planlanan faaliyet sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 90% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar  Planlanan faaliyet: İl faaliyet planı web uygulamasına girilmiş ve onaylanmış tüm faaliyetleri ifade eder.
 
-uygulamasına girilmiş ve onaylanmış tüm
-
-faaliyetleri ifade eder.
-
- Gerçekleştirilen faaliyet: İl faaliyet planı web
-
-uygulamasında gerçekleştirme onayı almış
-
-tüm faaliyetleri ifade eder. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+ Gerçekleştirilen faaliyet: İl faaliyet planı web uygulamasında gerçekleştirme onayı almış tüm faaliyetleri ifade eder. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Sağlık İnsan Gücü Planlama Daire Başkanlığı Veri Kaynağı Sağlık İnsan Gücü Planlama Daire Başkanlığı Veri Giriş Periyodu 1 Yıl
 
@@ -706,11 +536,7 @@ Sağlık İnsan Gücü Planlama Daire Başkanlığı Veri Kaynağı Sağlık İn
 
 ### Performans Gösterge Kartları Koordinasyon Toplantıları Tamamlanma Oranı
 
-Gösterge Kodu OH-IK-01 Gösterge Adı Koordinasyon Toplantıları Tamamlanma Oranı Gösterge Grubu Organizasyon Hizmetleri Amaç 2013/3 sayılı Genelge uyarınca illerde ayda en
-
-az 1 kez yapılması gereken toplantıların
-
-zamanında yapılmasını sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Gösterge Kodu OH-IK-01 Gösterge Adı Koordinasyon Toplantıları Tamamlanma Oranı Gösterge Grubu Organizasyon Hizmetleri Amaç 2013/3 sayılı Genelge uyarınca illerde ayda en az 1 kez yapılması gereken toplantıların zamanında yapılmasını sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Gerçekleştirilen koordinasyon toplantı sayısı Müdürlük Değeri (C) C = A x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 30 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim TC. Sağlık Bakanlığı
 
@@ -728,23 +554,11 @@ Sağlık Hizmetlerinin Yerinde İzleme ve Değerlendirmelerinin Tamamlanma
 
 Gösterge Kodu OH-IK-02 Gösterge Adı Sağlık Hizmetlerinin Yerinde İzleme ve
 
-Değerlendirmelerinin Tamamlanma Oranı Gösterge Grubu Organizasyon Hizmetleri Amaç Sağlık hizmetlerinin Bakanlık politikalarına,
-
-stratejik plan ve hedeflerine ve programlarına
-
-uygunluğunu izlemek, yapılan izlemler
-
-doğrultusunda değerlendirmeler yaparak üst
-
-yönetime ve politika yapıcılarının kararlarına
-
-destek olmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Değerlendirmelerinin Tamamlanma Oranı Gösterge Grubu Organizasyon Hizmetleri Amaç Sağlık hizmetlerinin Bakanlık politikalarına, stratejik plan ve hedeflerine ve programlarına uygunluğunu izlemek, yapılan izlemler doğrultusunda değerlendirmeler yaparak üst yönetime ve politika yapıcılarının kararlarına destek olmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: İl Sağlık Müdürlüğü, Kamu Hastaneleri ve
 
-Halk Sağlığı Müdürlüğü hizmetlerine dair
-
-değerlendirme sayısı
+Halk Sağlığı Müdürlüğü hizmetlerine dair değerlendirme sayısı
 
 B: Yapılması gereken toplam izlem sayısı Müdürlük Değeri (C) C= (A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 60 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim TC Sağlık Bakanlığı
 
@@ -758,15 +572,7 @@ B: Yapılması gereken toplam izlem sayısı Müdürlük Değeri (C) C= (A / B) 
 
 Gösterge Kodu DH-SHGM-01 Gösterge Adı Yıllık Denetim Planlamasının Zamanında
 
-Yapılması Gösterge Grubu Denetim Hizmetleri Amaç Sağlık kurum ve kuruluşlarının yıl içindeki
-
-denetim planının zamanında yapılmasını
-
-sağlamak Hesaplama İçin Gerekli Veriler A: Yıllık denetim planını Ocak ayı sonuna kadar
-
-hazırlandı mı? (Evet:1, Hayır:0) Müdürlük Değeri (C) C=A Kabul Edilebilir Değer C=1 Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar  Yıllık denetim planı Ocak ayı sonuna kadar
-
-hazırlanmalıdır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+Yapılması Gösterge Grubu Denetim Hizmetleri Amaç Sağlık kurum ve kuruluşlarının yıl içindeki denetim planının zamanında yapılmasını sağlamak Hesaplama İçin Gerekli Veriler A: Yıllık denetim planını Ocak ayı sonuna kadar hazırlandı mı? (Evet:1, Hayır:0) Müdürlük Değeri (C) C=A Kabul Edilebilir Değer C=1 Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar  Yıllık denetim planı Ocak ayı sonuna kadar hazırlanmalıdır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -778,13 +584,7 @@ Denetim ve Değerlendirme Daire Başkanlığı Veri Giriş Periyodu 1 Yıl
 
 Müeyyide Takip Uygulamasına Girişlerin Zamanında Yapılması Gösterge Kodu DH-SHGM-02 Gösterge Adı Müeyyide Takip Uygulamasına Girişlerin
 
-Zamanında Yapılması Gösterge Grubu Denetim Hizmetleri Amaç Sağlık kurum ve kuruluşlarının müeyyide takip
-
-uygulamasına veri girişlerinin zamanında
-
-yapılmasını sağlamak Hesaplama İçin Gerekli Veriler A: Bir önceki yıla ait müeyyide veri girişleri Ocak
-
-ayı sonuna kadar zamanında girildi mi? (Evet:1,
+Zamanında Yapılması Gösterge Grubu Denetim Hizmetleri Amaç Sağlık kurum ve kuruluşlarının müeyyide takip uygulamasına veri girişlerinin zamanında yapılmasını sağlamak Hesaplama İçin Gerekli Veriler A: Bir önceki yıla ait müeyyide veri girişleri Ocak ayı sonuna kadar zamanında girildi mi? (Evet:1,
 
 Hayır:0) Müdürlük Değeri (C) C=A Kabul Edilebilir Değer C=1 Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -798,17 +598,11 @@ Denetim ve Değerlendirme Daire Başkanlığı Veri Giriş Periyodu 1 Yıl
 
 Gösterge Kodu DH-SHGM-03 Gösterge Adı Seviye ve Tescil Denetimlerinin Tamamlanma
 
-Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin seviye ve tescil
+Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin seviye ve tescil denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+A: İSM tarafından yapılan seviye ve tescil denetim sayısı
 
-A: İSM tarafından yapılan seviye ve tescil
-
-denetim sayısı
-
-B: Yapılması gereken seviye ve tescil denetim
-
-sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Yapılması gereken seviye ve tescil denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -822,27 +616,11 @@ Kamu Hastane Birliklerine Bağlı Hastane Denetimlerinin Tamamlanma
 
 Gösterge Kodu DH-SHGM-04 Gösterge Adı Kamu Hastane Birliklerine Bağlı Hastane
 
-Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin kamu hastane
+Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin kamu hastane birliklerine bağlı hastane denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-birliklerine bağlı hastane denetimlerini takip
+A: Yapılan kamu hastane birliklerine bağlı hastane denetim sayısı
 
-etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Yapılan kamu hastane birliklerine bağlı
-
-hastane denetim sayısı
-
-B: Yapılması gereken kamu hastane birliklerine
-
-bağlı hastane denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 30 Dikkat Edilmesi Gereken Hususlar *Kamu Hastane Birliklerine bağlı hastanelerin
-
-denetimleri ile ilgili mevzuat çalışması
-
-tamamlanıp, mevzuat yürürlüğe girene kadar il
-
-sağlık müdürlükleri değerlendirme dışı
-
-tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Yapılması gereken kamu hastane birliklerine bağlı hastane denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 30 Dikkat Edilmesi Gereken Hususlar *Kamu Hastane Birliklerine bağlı hastanelerin denetimleri ile ilgili mevzuat çalışması tamamlanıp, mevzuat yürürlüğe girene kadar il sağlık müdürlükleri değerlendirme dışı tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -858,25 +636,11 @@ Gösterge Kodu DH-SHGM-05 Gösterge Adı Halk Sağlığı Müdürlüğüne Bağl
 
 Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin Halk Sağlığı
 
-Müdürlüğüne bağlı entegre hastane
+Müdürlüğüne bağlı entegre hastane denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+A: Yapılan Halk Sağlığı Müdürlüğüne bağlı entegre hastane denetim sayısı
 
-A: Yapılan Halk Sağlığı Müdürlüğüne bağlı
-
-entegre hastane denetim sayısı
-
-B: Yapılması gereken Halk Sağlığı Müdürlüğüne
-
-bağlı entegre hastane denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 20 Dikkat Edilmesi Gereken Hususlar * Halk Sağlığı Müdürlüğüne bağlı entegre
-
-hastanelerin denetimleri ile ilgili mevzuat
-
-çalışması tamamlanıp mevzuat yürürlüğe girene
-
-kadar il sağlık müdürlükleri değerlendirme dışı
-
-tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Yapılması gereken Halk Sağlığı Müdürlüğüne bağlı entegre hastane denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 20 Dikkat Edilmesi Gereken Hususlar * Halk Sağlığı Müdürlüğüne bağlı entegre hastanelerin denetimleri ile ilgili mevzuat çalışması tamamlanıp mevzuat yürürlüğe girene kadar il sağlık müdürlükleri değerlendirme dışı tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -886,25 +650,15 @@ Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müd�
 
 Gösterge Kodu DH-SHGM-06 Gösterge Adı Toplum Sağlığı Merkezi Denetimlerinin
 
-Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin Toplum Sağlığı Merkezi
+Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin Toplum Sağlığı Merkezi denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Yapılan Toplum Sağlığı Merkezi denetim
-
-sayısı
+A: Yapılan Toplum Sağlığı Merkezi denetim sayısı
 
 B: Mevzuat çerçevesinde yapılması gereken
 
 Toplum Sağlığı Merkezi denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 20 Dikkat Edilmesi Gereken Hususlar * Halk Sağlığı Müdürlüğüne bağlı Toplum Sağlığı
 
-Merkezlerinin denetimleri ile ilgili mevzuat
-
-çalışması tamamlanıp mevzuat yürürlüğe girene
-
-kadar il sağlık müdürlükleri değerlendirme dışı
-
-tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+Merkezlerinin denetimleri ile ilgili mevzuat çalışması tamamlanıp mevzuat yürürlüğe girene kadar il sağlık müdürlükleri değerlendirme dışı tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -914,9 +668,7 @@ Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müd�
 
 Gösterge Kodu DH-SHGM-07 Gösterge Adı Aile Sağlığı Merkezi Denetimlerinin
 
-Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin Aile Sağlığı Merkezi
-
-denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin Aile Sağlığı Merkezi denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Yapılan Aile Sağlığı Merkezi denetim sayısı
 
@@ -924,13 +676,7 @@ B: Mevzuat çerçevesinde yapılması gereken Aile
 
 Sağlığı Merkezi denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar *Halk Sağlığı Müdürlüğüne bağlı Aile Sağlığı
 
-Merkezlerinin denetimleri ile ilgili mevzuat
-
-çalışması tamamlanıp mevzuat yürürlüğe girene
-
-kadar il sağlık müdürlükleri değerlendirme dışı
-
-tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+Merkezlerinin denetimleri ile ilgili mevzuat çalışması tamamlanıp mevzuat yürürlüğe girene kadar il sağlık müdürlükleri değerlendirme dışı tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -940,23 +686,11 @@ Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müd�
 
 Üniversitelere Bağlı Hastane Denetimlerinin Tamamlanma Oranı Gösterge Kodu DH-SHGM-08 Gösterge Adı Üniversitelere Bağlı Hastane Denetimlerinin
 
-Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin üniversitelere bağlı
+Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin üniversitelere bağlı hastane denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-hastane denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+A: Yapılan üniversitelere bağlı hastane denetim sayısı
 
-A: Yapılan üniversitelere bağlı hastane denetim
-
-sayısı
-
-B: Mevzuat çerçevesinde yapılması gereken
-
-üniversitelere bağlı hastane denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar * Üniversitelere bağlı hastanelerin denetimleri
-
-ile ilgili mevzuat çalışması tamamlanıp mevzuat
-
-yürürlüğe girene kadar il sağlık müdürlükleri
-
-değerlendirme dışı tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Mevzuat çerçevesinde yapılması gereken üniversitelere bağlı hastane denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar * Üniversitelere bağlı hastanelerin denetimleri ile ilgili mevzuat çalışması tamamlanıp mevzuat yürürlüğe girene kadar il sağlık müdürlükleri değerlendirme dışı tutulacaktır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -966,15 +700,11 @@ Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müd�
 
 Gösterge Kodu DH-SHGM-09 Gösterge Adı Özel Hastane Denetimlerinin Tamamlanma
 
-Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin özel hastane
-
-denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin özel hastane denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Yapılan özel hastane denetim sayısı
 
-B: Mevzuat çerçevesinde yapılması gereken
-
-özel hastane denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Mevzuat çerçevesinde yapılması gereken özel hastane denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -988,21 +718,11 @@ Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müd�
 
 Gösterge Kodu DH-SHGM-10 Gösterge Adı Özel Ağız ve Diş Sağlığı Hizmeti Veren Kurum ve
 
-Kuruluş Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin özel ağız ve diş sağlığı
+Kuruluş Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin özel ağız ve diş sağlığı hizmeti veren kurum ve kuruluş denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-hizmeti veren kurum ve kuruluş denetimlerini
+A: Yapılan özel ağız ve diş sağlığı hizmeti veren kurum ve kuruluş denetim sayısı
 
-takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Yapılan özel ağız ve diş sağlığı hizmeti veren
-
-kurum ve kuruluş denetim sayısı
-
-B: Mevzuat çerçevesinde yapılması gereken
-
-özel ağız ve diş sağlığı hizmeti veren kurum ve
-
-kuruluş denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Mevzuat çerçevesinde yapılması gereken özel ağız ve diş sağlığı hizmeti veren kurum ve kuruluş denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1016,21 +736,11 @@ Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluş Denetimlerinin
 
 Gösterge Kodu DH-SHGM-11 Gösterge Adı Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık
 
-Kuruluş Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin ayakta teşhis ve tedavi
+Kuruluş Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin ayakta teşhis ve tedavi yapılan özel sağlık kuruluş denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-yapılan özel sağlık kuruluş denetimlerini takip
+A: Yapılan ayakta teşhis ve tedavi yapılan özel sağlık kuruluş denetim sayısı
 
-etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Yapılan ayakta teşhis ve tedavi yapılan özel
-
-sağlık kuruluş denetim sayısı
-
-B: Mevzuat çerçevesinde yapılması gereken
-
-ayakta teşhis ve tedavi yapılan özel sağlık
-
-kuruluş denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Mevzuat çerçevesinde yapılması gereken ayakta teşhis ve tedavi yapılan özel sağlık kuruluş denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1040,19 +750,11 @@ Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müd�
 
 Özellikli Sağlık Hizmeti Sunulan Merkez Denetimlerinin Tamamlanma Oranı Gösterge Kodu DH-SHGM-12 Gösterge Adı Özellikli Sağlık Hizmeti Sunulan Merkez
 
-Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin özellikli sağlık hizmeti
+Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin özellikli sağlık hizmeti sunulan merkez denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-sunulan merkez denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+A: Yapılan özellikli sağlık hizmeti sunulan merkez denetim sayısı
 
-A: Yapılan özellikli sağlık hizmeti sunulan
-
-merkez denetim sayısı
-
-B: Mevzuat çerçevesinde yapılması gereken
-
-özellikli sağlık hizmeti sunulan merkez denetim
-
-sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Mevzuat çerçevesinde yapılması gereken özellikli sağlık hizmeti sunulan merkez denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1060,21 +762,11 @@ Denetim ve Değerlendirme Daire Başkanlığı Veri Kaynağı İl Sağlık Müd�
 
 ### Performans Gösterge Kartları Kalite İyileştirme Faaliyeti İzlem Oranı
 
-Gösterge Kodu DH-SHGM-13 Gösterge Adı Kalite İyileştirme Faaliyeti İzlem Oranı Gösterge Grubu Denetim Hizmetleri Amaç Sağlıkta Kalite Değerlendirmeleri sonucu
+Gösterge Kodu DH-SHGM-13 Gösterge Adı Kalite İyileştirme Faaliyeti İzlem Oranı Gösterge Grubu Denetim Hizmetleri Amaç Sağlıkta Kalite Değerlendirmeleri sonucu karşılanamayan kalite standartlarına yönelik olarak hastanelerin sürekli iyileştirme faaliyet yapmasını sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde;
 
-karşılanamayan kalite standartlarına yönelik
+A: Gerçekleştirilen kalite iyileştirme faaliyeti izlem sayısı
 
-olarak hastanelerin sürekli iyileştirme faaliyet
-
-yapmasını sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde;
-
-A: Gerçekleştirilen kalite iyileştirme faaliyeti
-
-izlem sayısı
-
-B: Tamamlanması planlanan kalite iyileştirme
-
-faaliyeti izlem sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ %95 Gösterge Tavan Puanı (GTP) 30 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Tamamlanması planlanan kalite iyileştirme faaliyeti izlem sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ %95 Gösterge Tavan Puanı (GTP) 30 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1082,19 +774,11 @@ Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı Veri Kaynağı İl Sağl�
 
 ### Performans Gösterge Kartları Eczane Denetimlerinin Tamamlanma Oranı
 
-Gösterge Kodu DH-TITCK-14 Gösterge Adı Eczane Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin eczane denetimlerini
-
-takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Gösterge Kodu DH-TITCK-14 Gösterge Adı Eczane Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin eczane denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Yapılan eczane denetim sayısı
 
-B: Mevzuat çerçevesinde yapılması gereken
-
-eczane denetim sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Aktif dönemde geçici süreyle veya sürekli
-
-kapatılan eczaneler, ilde faaliyet gösteren
-
-eczane sayısına ilave edilmemelidir. Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
+B: Mevzuat çerçevesinde yapılması gereken eczane denetim sayısı Müdürlük Değeri (C) C = (A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Aktif dönemde geçici süreyle veya sürekli kapatılan eczaneler, ilde faaliyet gösteren eczane sayısına ilave edilmemelidir. Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
 
 Eczane ve Ecza Depoları Ruhsatlandırma Daire
 
@@ -1104,15 +788,11 @@ Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1
 
 ### Performans Gösterge Kartları Ecza Depo Denetimlerinin Tamamlanma Oranı
 
-Gösterge Kodu DH-TITCK-15 Gösterge Adı Ecza Depo Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin ecza depo
-
-denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Gösterge Kodu DH-TITCK-15 Gösterge Adı Ecza Depo Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin ecza depo denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Yapılan ecza depo denetim sayısı
 
-B: Mevzuat çerçevesinde yapılması gereken
-
-ecza depo denetim sayısı Müdürlük Değeri (C) C = ( A / B ) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
+B: Mevzuat çerçevesinde yapılması gereken ecza depo denetim sayısı Müdürlük Değeri (C) C = ( A / B ) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
 
 İlaç Denetim Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1122,19 +802,11 @@ ecza depo denetim sayısı Müdürlük Değeri (C) C = ( A / B ) x 100 Kabul Edi
 
 Medikal Gaz Depolama ve Satış Tesisi Denetimlerinin Tamamlanma Oranı Gösterge Kodu DH-TITCK-16 Gösterge Adı Medikal Gaz Depolama ve Satış Tesisi
 
-Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin medikal gaz depolama
+Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin medikal gaz depolama ve satış tesisi denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-ve satış tesisi denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+A: Yapılan medikal gaz depolama ve satış tesisi denetim sayısı
 
-A: Yapılan medikal gaz depolama ve satış tesisi
-
-denetim sayısı
-
-B: Mevzuat çerçevesinde yapılması gereken
-
-medikal gaz depolama ve satış tesisi denetim
-
-sayısı Müdürlük Değeri (C) C = ( A/B ) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
+B: Mevzuat çerçevesinde yapılması gereken medikal gaz depolama ve satış tesisi denetim sayısı Müdürlük Değeri (C) C = ( A/B ) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
 
 İlaç Denetim Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1148,21 +820,11 @@ Ismarlama Protez, Ortez ve İşitme Cihazı Merkezi Denetimlerinin
 
 Gösterge Kodu DH-TITCK-17 Gösterge Adı Ismarlama Protez, Ortez ve İşitme Cihazı
 
-Merkezi Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin ısmarlama protez,
+Merkezi Denetimlerinin Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin ısmarlama protez, ortez ve işitme cihazı merkezi denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-ortez ve işitme cihazı merkezi denetimlerini
+A: Yapılan ısmarlama protez, ortez ve işitme cihazı merkezi denetim sayısı
 
-takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Yapılan ısmarlama protez, ortez ve işitme
-
-cihazı merkezi denetim sayısı
-
-B: Mevzuat çerçevesinde yapılması gereken
-
-ısmarlama protez, ortez ve işitme cihazı merkezi
-
-denetim sayısı Müdürlük Değeri (C) C = ( A / B ) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
+B: Mevzuat çerçevesinde yapılması gereken ısmarlama protez, ortez ve işitme cihazı merkezi denetim sayısı Müdürlük Değeri (C) C = ( A / B ) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
 
 Tıbbi Cihaz Sektörel Hizmetler Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1172,15 +834,11 @@ Tıbbi Cihaz Sektörel Hizmetler Daire Başkanlığı Veri Kaynağı İl Sağlı
 
 Gösterge Kodu DH-TITCK-18 Gösterge Adı Optisyenlik Müessesesi Denetimlerinin
 
-Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin optisyenlik müessesesi
-
-denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin optisyenlik müessesesi denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Yapılan optisyenlik müessesesi denetim sayısı
 
-B: Mevzuat çerçevesinde yapılması gereken
-
-optisyenlik müessesesi denetim sayısı Müdürlük Değeri (C) C = ( A / B ) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
+B: Mevzuat çerçevesinde yapılması gereken optisyenlik müessesesi denetim sayısı Müdürlük Değeri (C) C = ( A / B ) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
 
 Tıbbi Cihaz Sektörel Hizmetler Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1190,17 +848,11 @@ Tıbbi Cihaz Sektörel Hizmetler Daire Başkanlığı Veri Kaynağı İl Sağlı
 
 Gösterge Kodu DH-TITCK-19 Gösterge Adı Tıbbi Cihaz Satış Merkezi Denetimlerinin
 
-Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin tıbbi cihaz satış
+Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin tıbbi cihaz satış merkezi denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-merkezi denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+A: Yapılan tıbbi cihaz satış merkezi denetim sayısı
 
-A: Yapılan tıbbi cihaz satış merkezi denetim
-
-sayısı
-
-B: Mevzuat çerçevesinde yapılması gereken
-
-tıbbi cihaz satış merkezi denetim sayısı Müdürlük Değeri (C) C=[A/B]x100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
+B: Mevzuat çerçevesinde yapılması gereken tıbbi cihaz satış merkezi denetim sayısı Müdürlük Değeri (C) C=[A/B]x100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
 
 Tıbbi Cihaz Sektörel Hizmetler Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1210,15 +862,11 @@ Tıbbi Cihaz Sektörel Hizmetler Daire Başkanlığı Veri Kaynağı İl Sağlı
 
 Gösterge Kodu DH-TITCK-20 Gösterge Adı Diş Protez Laboratuvarı Denetimlerinin
 
-Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin diş protez laboratuvarı
-
-denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Tamamlanma Oranı Gösterge Grubu Denetim Hizmetleri Amaç İl sağlık müdürlüklerinin diş protez laboratuvarı denetimlerini takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Yapılan diş protez laboratuvarı denetim sayısı
 
-B: Mevzuat çerçevesinde yapılması gereken diş
-
-protez laboratuvarı denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
+B: Mevzuat çerçevesinde yapılması gereken diş protez laboratuvarı denetim sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 100% Gösterge Tavan Puanı (GTP) 25 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Türkiye İlaç ve Tıbbi Cihaz Kurumu
 
 Tıbbi Cihaz Sektörel Hizmetler Daire Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1 Yıl
 
@@ -1226,19 +874,11 @@ Tıbbi Cihaz Sektörel Hizmetler Daire Başkanlığı Veri Kaynağı İl Sağlı
 
 ### Performans Gösterge Kartları Muhasebeleştirme Gün Sayısı
 
-Gösterge Kodu MH-SGB-01 Gösterge Adı Muhasebeleştirme Gün Sayısı Gösterge Grubu Mali Hizmetler Amaç Bütçe analizi, ödenek planlamasını doğruluğunu
+Gösterge Kodu MH-SGB-01 Gösterge Adı Muhasebeleştirme Gün Sayısı Gösterge Grubu Mali Hizmetler Amaç Bütçe analizi, ödenek planlamasını doğruluğunu artırmak ve muhasebenin dönemsellik ilkesine uygun hareket etmesini sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-artırmak ve muhasebenin dönemsellik ilkesine
+A: Temin edilen taşınır veya hizmet alımlarının muayene kabul tarihi ile ödeme belgesinin
 
-uygun hareket etmesini sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Temin edilen taşınır veya hizmet alımlarının
-
-muayene kabul tarihi ile ödeme belgesinin
-
-TDMS kayıtlarına alındığı tarih arasındaki gün
-
-sayısı farklarının ortalaması Müdürlük Değeri (C) C=A Kabul Edilebilir Değer C ≤ 10 gün Gösterge Tavan Puanı (GTP) 30 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Strateji Geliştirme Başkanlığı Veri Kaynağı Strateji Geliştirme Başkanlığı Veri Giriş Periyodu 1 Yıl
+TDMS kayıtlarına alındığı tarih arasındaki gün sayısı farklarının ortalaması Müdürlük Değeri (C) C=A Kabul Edilebilir Değer C ≤ 10 gün Gösterge Tavan Puanı (GTP) 30 Dikkat Edilmesi Gereken Hususlar Sorumlu Birim Strateji Geliştirme Başkanlığı Veri Kaynağı Strateji Geliştirme Başkanlığı Veri Giriş Periyodu 1 Yıl
 
 37 / 41
 
@@ -1246,15 +886,11 @@ sayısı farklarının ortalaması Müdürlük Değeri (C) C=A Kabul Edilebilir 
 
 Gösterge Kodu EH-SHGM-01 Gösterge Adı Personel Uyum Eğitimlerinin Zamanında
 
-Tamamlanma Oranı Gösterge Grubu Eğitim Hizmetleri Amaç Personel uyum eğitimlerinin takibi ve
-
-zamanında yapılmasını sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
+Tamamlanma Oranı Gösterge Grubu Eğitim Hizmetleri Amaç Personel uyum eğitimlerinin takibi ve zamanında yapılmasını sağlamak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
 A: Eğitime alınan personel sayısı
 
-B: Göreve başlayan personel sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 80% Gösterge Tavan Puanı (GTP) 20 Dikkat Edilmesi Gereken Hususlar Hesaplama sadece İl Sağlık Müdürlüğü
-
-personelini kapsamalıdır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Göreve başlayan personel sayısı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 80% Gösterge Tavan Puanı (GTP) 20 Dikkat Edilmesi Gereken Hususlar Hesaplama sadece İl Sağlık Müdürlüğü personelini kapsamalıdır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Eğitim ve Sertifikasyon Hizmetleri Daire
 
@@ -1266,23 +902,11 @@ Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1
 
 Gösterge Kodu EH-SHGM-02 Gösterge Adı Personel Hizmet İçi Eğitimlerinin Tamamlanma
 
-Oranı Gösterge Grubu Eğitim Hizmetleri Amaç Adaylık eğitimleri ve uyum eğitimleri dışında,
+Oranı Gösterge Grubu Eğitim Hizmetleri Amaç Adaylık eğitimleri ve uyum eğitimleri dışında, personele görev alanı ile ilgili konularda verilen eğitimleri takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-personele görev alanı ile ilgili konularda verilen
+A: Hizmet içi eğitimlere katılan İSM personel sayılarının toplamı
 
-eğitimleri takip etmek Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Hizmet içi eğitimlere katılan İSM personel
-
-sayılarının toplamı
-
-B: Hizmet içi eğitim planında, eğitimlere
-
-katılması beklenen İSM personel sayılarının
-
-toplamı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 40% Gösterge Tavan Puanı (GTP) 20 Dikkat Edilmesi Gereken Hususlar Hesaplama sadece İl Sağlık Müdürlüğü
-
-personelini kapsamalıdır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+B: Hizmet içi eğitim planında, eğitimlere katılması beklenen İSM personel sayılarının toplamı Müdürlük Değeri (C) C=(A / B) x 100 Kabul Edilebilir Değer C ≥ 40% Gösterge Tavan Puanı (GTP) 20 Dikkat Edilmesi Gereken Hususlar Hesaplama sadece İl Sağlık Müdürlüğü personelini kapsamalıdır. Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Eğitim ve Sertifikasyon Hizmetleri Daire
 
@@ -1292,13 +916,9 @@ Başkanlığı Veri Kaynağı İl Sağlık Müdürlüğü Veri Giriş Periyodu 1
 
 ### Performans Gösterge Kartları Hasta Memnuniyet Oranı
 
-Gösterge Kodu SHM-SHGM-01 Gösterge Adı Sağlık Hizmetlerinden Memnuniyet Oranı Gösterge Grubu Sağlık Hizmetlerinde Memnuniyet Amaç İl bazında hasta memnuniyetini izlemek ve
+Gösterge Kodu SHM-SHGM-01 Gösterge Adı Sağlık Hizmetlerinden Memnuniyet Oranı Gösterge Grubu Sağlık Hizmetlerinde Memnuniyet Amaç İl bazında hasta memnuniyetini izlemek ve artırmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-artırmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Sağlık tesisi hasta memnuniyet oranlarının
-
-aritmetik ortalaması Müdürlük Değeri (C) C=A Kabul Edilebilir Değer C ≥ 80% Gösterge Tavan Puanı (GTP) 50 Dikkat Edilmesi Gereken Hususlar - Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+A: Sağlık tesisi hasta memnuniyet oranlarının aritmetik ortalaması Müdürlük Değeri (C) C=A Kabul Edilebilir Değer C ≥ 80% Gösterge Tavan Puanı (GTP) 50 Dikkat Edilmesi Gereken Hususlar - Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı Veri Kaynağı Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı Veri Giriş Periyodu 1 Ay
 
@@ -1306,13 +926,9 @@ Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı Veri Kaynağı Sağlıkta
 
 ### Performans Gösterge Kartları Çalışan Memnuniyet Oranı
 
-Gösterge Kodu SHM-SHGM-02 Gösterge Adı Çalışan Memnuniyet Oranı Gösterge Grubu Sağlık Hizmetlerinde Memnuniyet Amaç İl bazında çalışan memnuniyetini izlemek ve
+Gösterge Kodu SHM-SHGM-02 Gösterge Adı Çalışan Memnuniyet Oranı Gösterge Grubu Sağlık Hizmetlerinde Memnuniyet Amaç İl bazında çalışan memnuniyetini izlemek ve artırmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
 
-artırmak Hesaplama İçin Gerekli Veriler İlgili dönemde:
-
-A: Sağlık tesisi çalışan memnuniyet oranlarının
-
-aritmetik ortalaması Müdürlük Değeri (C) C=A Kabul Edilebilir Değer C ≥ 85% Gösterge Tavan Puanı (GTP) 50 Dikkat Edilmesi Gereken Hususlar - Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
+A: Sağlık tesisi çalışan memnuniyet oranlarının aritmetik ortalaması Müdürlük Değeri (C) C=A Kabul Edilebilir Değer C ≥ 85% Gösterge Tavan Puanı (GTP) 50 Dikkat Edilmesi Gereken Hususlar - Sorumlu Birim Sağlık Hizmetleri Genel Müdürlüğü
 
 Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı Veri Kaynağı Sağlıkta Kalite ve Akreditasyon Daire Başkanlığı Veri Giriş Periyodu 6 Ay
 

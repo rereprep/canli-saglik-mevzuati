@@ -27,11 +27,7 @@ Hazırlanan İl Eylem Planı, her yıl Şubat ayının son haftasına kadar Kad�
 
 İl Eylem Planı’nı gerçekleştirmek için ilde sağlık sektörü dışında hizmet veren diğer kamu kurum ve kuruluşlarıyla da işbirliği yapılması amacıyla yılda bir kez “Sektörler Arası İşbirliği Toplantısı” düzenlenerek Ek 2’deki formata uygun olarak “Aktivite Planı” hazırlanacaktır. Aktivite Planı da her yıl Şubat ayının son haftasına kadar Kadın ve Üreme Sağlığı Daire Başkanlığı'na gönderilecektir.
 
-Kamu Hastaneleri Genel Müdürlüğü ile ortak çalışma sonucunda Ek 3’de yer alan Acil Obstetrik Bakım Kuruluş Kriterleri doğrultusunda hazırlanan ve Ek 4’de yer alan Temel, Kapsamlı ve Perinatal Acil Obstetrik Bakım Kuruluşları ile birlikte varsa ilinizdeki üniversite hastanesi/hastaneleri de dahil edilmek suretiyle “İl Acil Obstetrik Sevk Haritası” oluşturulacaktır. 31.01.2014 tarih ve E.5679.8973 sayılı “Anne Ölümlerinin Önlenmesi ASKOM Toplantı Gündemi” konulu yazımızda da belirtildiği üzere ilinizde acil obstetrik vaka sevkinin; belirlenen hastaneler doğrultusunda yapılması, obstetrik vaka sevkinden kaynaklanan problemlerin giderilmesi ve ilinize ait Acil Obstetrik Sevk Haritası’nın İl Sağlık
-
-Müdürlüğü liderliğinde hazırlanarak uygulamaya konulması önem arz etmektedir. İl Acil Obstetrik Sevk Haritası da her yıl
-
-Şubat ayının son haftasına kadar Kadın ve Üreme Sağlığı Daire Başkanlığı'na gönderilecektir.
+Kamu Hastaneleri Genel Müdürlüğü ile ortak çalışma sonucunda Ek 3’de yer alan Acil Obstetrik Bakım Kuruluş Kriterleri doğrultusunda hazırlanan ve Ek 4’de yer alan Temel, Kapsamlı ve Perinatal Acil Obstetrik Bakım Kuruluşları ile birlikte varsa ilinizdeki üniversite hastanesi/hastaneleri de dahil edilmek suretiyle “İl Acil Obstetrik Sevk Haritası” oluşturulacaktır. 31.01.2014 tarih ve E.5679.8973 sayılı “Anne Ölümlerinin Önlenmesi ASKOM Toplantı Gündemi” konulu yazımızda da belirtildiği üzere ilinizde acil obstetrik vaka sevkinin; belirlenen hastaneler doğrultusunda yapılması, obstetrik vaka sevkinden kaynaklanan problemlerin giderilmesi ve ilinize ait Acil Obstetrik Sevk Haritası’nın İl Sağlık Müdürlüğü liderliğinde hazırlanarak uygulamaya konulması önem arz etmektedir. İl Acil Obstetrik Sevk Haritası da her yıl Şubat ayının son haftasına kadar Kadın ve Üreme Sağlığı Daire Başkanlığı'na gönderilecektir.
 
 Yönetici Kolaylaştırıcı Uyum Eğitimleri ve Destek Personel Uyum Eğitimleri sürdürülmeye devam edilecektir.
 

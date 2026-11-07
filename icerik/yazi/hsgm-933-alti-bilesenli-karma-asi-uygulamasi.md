@@ -69,9 +69,7 @@ Bu bilgi notunda 6 bileşenli karma aşı ile ilgili temel bilgiler sunulmaktad�
 
 Difteri, tetanoz, asellüler boğmaca, poliomyelit (çocuk felci) konjuge <i>Hemofilus influenza</i> tip b (Hib) ve hepatit B antijenlerini içeren <i>inaktif bir aşıdır.</i> Altı bileşenli karma aşı beş bileşenli karma aşıda var olanlara benzer miktarda Difteri, Tetanoz, Boğmaca ve Polio antijen dozlarını içerir, Hib antijeni ise beşli aşıya göre bir miktar artırılmıştır. Altı bileşenli karma aşıda tıpkı tekli doz Hepatit B aşısında olduğu gibi 10 mikrogram Hepatit B yüzey antijeni bulunmaktadır.
 
-Özetlemek gerekirse beş bileşenli karma aşı ile altı bileşenli karma aşı arasındaki fark artırılmış
-
-Hib antijen miktarı ve eklenen Hepatit B yüzey antijenidir.
+Özetlemek gerekirse beş bileşenli karma aşı ile altı bileşenli karma aşı arasındaki fark artırılmış Hib antijen miktarı ve eklenen Hepatit B yüzey antijenidir.
 
 **2. Altı bileşenli karma aşı hangi hastalıklara karşı korur?**
 
@@ -85,7 +83,6 @@ Difteri, <i>Corynebacterium diphtheriae</i> bakterisinin toksin salgısı nedeni
 
 **Tetanoz:** Tetanoz, <i>Clostridium tetani</i> bakterisinin sporları tarafından üretilen güçlü bir toksin nedeniyle oluşan ciddi bir sinir sistemi enfeksiyonudur. Bakteri genellikle kirli yaralardan veya derideki açık kesiklerden vücuda girer. Tetanoz toksini sinir hücrelerine saldırarak, kasların şiddetli ve ağrılı şekilde kasılmasına (spazmlar) yol açar. Çene kaslarının kasılmasına bağlı olarak "trismus" veya "kilitlenmiş çene" olarak bilinen durum gelişebilir, bu da yutma ve solunumu güçleştirir. Tedavi edilmediğinde yüksek ölüm oranına sahiptir.
 
-
 **Boğmaca (Pertussis):** Boğmaca, <i>Bordetella pertussis</i> bakterisinin neden olduğu, özellikle bebeklerde ciddi tıbbi sonuçlara yol açabilen bir solunum yolu enfeksiyonudur. Şiddetli öksürük ataklarıyla seyreden hastalık, bebeklerde apne, zatürre ve nadiren ölümle sonuçlanabilir.
 
 **Poliomyelit (Çocuk Felci):** Poliomyelit, poliovirus nedeniyle oluşan ve sinir sistemine saldırarak felce yol açabilen bulaşıcı bir viral hastalıktır. Çoğunlukla asemptomatik olsa da, vakaların küçük bir kısmında kaslarda zayıflık, solunum yetmezliği ve kalıcı felç ortaya çıkabilir. Çocukları etkileyen en ciddi enfeksiyonlardan biridir. Polio aşısı, bu hastalığın dünya çapında büyük ölçüde azalmasını sağlamıştır. Aşı sayesinde birçok ülke polioyu tamamen ortadan kaldırmıştır, ancak dünyada halen bazı bölgelerde hastalık görülmeye devam ettiğinden çocukların aşılanarak hastalıktan korunması önemlidir.
@@ -98,16 +95,13 @@ bulunur. Özellikle beş yaş altı çocuklarda ağır seyreder ve tedavi edilme
 
 **4. Altı bileşenli karma aşı ne zaman uygulanır?**
 
-Altı bileşenli karma aşı Bağışıklama Danışma Kurulu önerisi ve Genişletilmiş Bağışıklama
-
-Programı (GBP) kapsamında ülkemizde 2,4,6. aylarda primer aşılama ve 18. ayda rapel (pekiştirme) aşılama için kullanılmaktadır. İstisnai durumlarda 6 bileşenli karma aşı 6. haftadan itibaren de kullanılabilir, ancak Ulusal Aşı Takvimimize uygun olarak 2,4,6,18. Aylarda uygulanması esastır.
+Altı bileşenli karma aşı Bağışıklama Danışma Kurulu önerisi ve Genişletilmiş Bağışıklama Programı (GBP) kapsamında ülkemizde 2,4,6. aylarda primer aşılama ve 18. ayda rapel (pekiştirme) aşılama için kullanılmaktadır. İstisnai durumlarda 6 bileşenli karma aşı 6. haftadan itibaren de kullanılabilir, ancak Ulusal Aşı Takvimimize uygun olarak 2,4,6,18. Aylarda uygulanması esastır.
 
 **5. Altı bileşenli karma aşı ile beş bileşenli karma aşının uygulamasında farklılıklar var mıdır?**
 
 Altı bileşenli karma aşı tamamen sıvı formdadır ve altı bileşen de kullanıma hazır enjektör de yer almaktadır. Böylelikle beş bileşenli karma aşıda olduğu gibi uygulama öncesinde ayrı flakonda gelen liyofilize Hib bileşeninin çözdürülmesine ihtiyaç yoktur. Bu da aşı hazırlama zamanından da tasarruf sağlanmaktadır.
 
 Beş bileşenli karma aşıda olduğu gibi intramuskuler yolla (IM) uygulanmalıdır. Önerilen enjeksiyon bölgeleri 12. aya kadar uyluğun üst antero-lateral bölgesidir, daha ileri aylarda ise deltoid kasa uygulanmalıdır.
-
 
 Uygulama öncesinde: homojen, beyazımsı, bulanık bir süspansiyon elde etmek için enjektör çalkalanmalıdır ve süspansiyon görsel olarak incelenmelidir.
 
@@ -145,7 +139,6 @@ Uygulamaya 14 Nisan 2025’te başlanacak olup 1,2 veya 3 doz beş bileşenli ka
 
 Örneğin 2. Ayında aşılanacak bir çocuk için uygulama altı bileşenli karma aşı ile başlatılıp devam ettirilecek ve 6.aydaki hepatit B dozu ayrıca uygulanmayacaktır.
 
-
 4. ayda aşılanacak bir çocuk için daha önceden yapılan 2 doz (0, 1 aylar) Hepatit B aşısı ve 2.
 
 Aydaki 1 doz beşli karma aşısı sonrasında 4. Ayda altı bileşenli karma aşı ile uygulama devam ettirilecek ve 6. Aydaki Hepatit B dozu uygulanmayacaktır.
@@ -156,9 +149,7 @@ Aydaki 1 doz beşli karma aşısı sonrasında 4. Ayda altı bileşenli karma a�
 
 Aşı takviminde gecikmesi olan eksik aşılı çocuklarda GBP Genelgesine göre aşılar tamamlanacak ve beş bileşenli karma aşı yerine artık altı bileşenli karma aşı uygulanacaktır.
 
-Gebelik döneminde annenin Hepatit B taşıyıcılığı tespit edilmiş ise bu durumda 0 ve 1 ayda
-
-Hepatit B aşısı uygulanacak ve 2. Aydan itibaren altı bileşenli karma aşı ile takvim dozları tamamlanacaktır. Gebelik döneminde tarama sonucu negatif bulunan anneden doğan bebekte doğum dozu yapılıp 2. Ayda altı bileşenli karma aşı ile aşılama devam ettirilecektir.
+Gebelik döneminde annenin Hepatit B taşıyıcılığı tespit edilmiş ise bu durumda 0 ve 1 ayda Hepatit B aşısı uygulanacak ve 2. Aydan itibaren altı bileşenli karma aşı ile takvim dozları tamamlanacaktır. Gebelik döneminde tarama sonucu negatif bulunan anneden doğan bebekte doğum dozu yapılıp 2. Ayda altı bileşenli karma aşı ile aşılama devam ettirilecektir.
 
 **9. Altı bileşenli karma aşı uygulaması konusunda ebeveynleri de konu hakkında bilgilendirmek önemlidir:**
 
@@ -170,10 +161,7 @@ Bu nedenle geçiş döneminde hem sağlık personelinin ve hem de ailelerin bu k
 
 • Aşılama programında ise sağlık personelinin aşı hazırlığı, aşı uygulaması ve kayıt için gereken süreyi kısaltmakta, soğuk zincir sitemindeki ek depolama hacmi, ilave enjektör, atık kutusu gibi ihtiyaçlar ile tıbbi atık miktarı azalmaktadır.
 
-Yeni uygulamaya sağlık sistemi ve ailelerin uyum sağlamasını kolaylaştırmak için bu metinde yer alan bilgilerden üretilecek mesajlar ve materyaller kullanılabilir. Daha ayrıntılı bilgi için
-
-Sağlık Bakanlığı aşı portalı www.asi.saglik.gov.tr adresine başvurulabilir.
-
+Yeni uygulamaya sağlık sistemi ve ailelerin uyum sağlamasını kolaylaştırmak için bu metinde yer alan bilgilerden üretilecek mesajlar ve materyaller kullanılabilir. Daha ayrıntılı bilgi için Sağlık Bakanlığı aşı portalı www.asi.saglik.gov.tr adresine başvurulabilir.
 
 **Kaynaklar:**
 
@@ -212,7 +200,6 @@ CDC Hib Bilgi Sayfası
 Bilgi Formu
 
 9. GBP Daimi Genelgesi (13.03.2009/7941 tarih ve 2009/17 sayılı)
-
 
 **Ulusal Çocukluk Dönemi Aşılama Takvimi (2025)**
 

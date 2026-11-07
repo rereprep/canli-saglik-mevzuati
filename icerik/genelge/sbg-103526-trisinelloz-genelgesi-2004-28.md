@@ -40,7 +40,7 @@ Bakan a. — Müsteşar
 
 ## Ek-1. Trişinellozis Vakalarında Yaklaşım
 
- **TRİŞİNELLOZİS VAKALARINDA YAKLAŞIM**
+**TRİŞİNELLOZİS VAKALARINDA YAKLAŞIM**
 
 1. Giriş
 
@@ -115,13 +115,9 @@ hassasiyet, yüzde ve göz çevresinde ödem, gözde kızarıklık/kanama,
 
 3.3. Konvelasan (Kronik) dönem bulguları: Genellikle enfeksiyondan 3 hafta
 
-sonraki dönem olup, bu dönemin ikinci aylarında değişik sistemlere ait çok
+sonraki dönem olup, bu dönemin ikinci aylarında değişik sistemlere ait çok ciddi bulgular ortaya çıkabilir. Bu bulgular kas ağrısı, genel kırgınlık, kalıcı
 
-ciddi bulgular ortaya çıkabilir. Bu bulgular kas ağrısı, genel kırgınlık, kalıcı
-
-Kas paralizileri, nörolojik ve metabolik bulgular ile dolaşım sistemine ait
-
-problemlerin ortaya çıkması şeklinde görülebilir. Tedavi edilmeyen
+Kas paralizileri, nörolojik ve metabolik bulgular ile dolaşım sistemine ait problemlerin ortaya çıkması şeklinde görülebilir. Tedavi edilmeyen
 
 vakalarda ölüm daha çok 4. ve 8. haftalarda kardiyak (konjestif kalp
 
@@ -189,7 +185,7 @@ Epidemiyolojik ilişki Pozitif 5.3.2. Pozitif
 
 5.3.3. Vaka Değil
 
- KESİN VAKA KESİN VAKA TEDAVİ
+KESİN VAKA KESİN VAKA TEDAVİ
 
 Şekil 1. Trişinellozis Vakalarında Tanı Yaklaşımı
 
@@ -294,7 +290,6 @@ Etlerin dondurulma dereceleri -15 °C’yi geçtikçe de bekletme süreleri azal
 • Gıda, halk sağlığını doğrudan ilgilendiren önemli bir mevzu olduğundan, gıda üretim ve satış yerlerindeki denetimlerde hassasiyet gösterilerek halkın sağlığıyla oynanmasına fırsat verilmemelidir.
 
 • Av etleri ile ilgili mevzuat hazırlanarak uygulanması sağlanmalı ve gerekli kontroller yapıldıktan sonra av etlerinin tüketime sunulmasına müsaade edilmelidir.
-
 
 ## Ek-2. Trişinellozis Vaka Bildirim Çizelgesi
 

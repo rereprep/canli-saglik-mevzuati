@@ -115,9 +115,7 @@ Denizde can ve mal koruma hakkındaki 4922 sayılı Kanun ile buna müteferri t�
 
 **Madde 4 – (Değişik: 3/7/2003-4916/21 md.)**
 
-Hazinenin veya Devlet Su İşleri Genel Müdürlüğünün mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan yerlerdeki baraj, dalyan, voli yerleri, göller, havuzlar, nehirler ve nehir ağızlarındaki av yerleri ile deniz ve iç sularda belirlenmiş yerlerdeki su ürünleri üretim hakkı; öncelikle o yerde kurulan, üyeleri beş yıldan az olmamak üzere üretim bölgesinde ikamet eden, münhasıran su ürünü üretim ve pazarlaması ile iştigal eden kooperatif, kooperatif birliği veya köy birliklerine başta Çevre ve Orman Bakanlığı ile Kültür ve Turizm Bakanlığı olmak üzere ilgili bakanlıkların görüşü alınarak
-
-Tarım ve Köyişleri Bakanlığınca tespit edilecek esaslar dahilinde, 2886 sayılı Devlet İhale Kanunu esaslarına göre, gelirleri kendilerine ait olmak üzere il özel idarelerince kiraya verilir.
+Hazinenin veya Devlet Su İşleri Genel Müdürlüğünün mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan yerlerdeki baraj, dalyan, voli yerleri, göller, havuzlar, nehirler ve nehir ağızlarındaki av yerleri ile deniz ve iç sularda belirlenmiş yerlerdeki su ürünleri üretim hakkı; öncelikle o yerde kurulan, üyeleri beş yıldan az olmamak üzere üretim bölgesinde ikamet eden, münhasıran su ürünü üretim ve pazarlaması ile iştigal eden kooperatif, kooperatif birliği veya köy birliklerine başta Çevre ve Orman Bakanlığı ile Kültür ve Turizm Bakanlığı olmak üzere ilgili bakanlıkların görüşü alınarak Tarım ve Köyişleri Bakanlığınca tespit edilecek esaslar dahilinde, 2886 sayılı Devlet İhale Kanunu esaslarına göre, gelirleri kendilerine ait olmak üzere il özel idarelerince kiraya verilir.
 
 Bu yerleri kiralayan kooperatif, kooperatif birliği veya köy birlikleri bu haklarını başkalarına devredemezler.
 
@@ -127,9 +125,7 @@ Kira şartnamelerinin teknik şartları ve süreleri, su ürünü üretim yerler
 
 <i>İstihsal yerlerinin sınırlandırılması:</i>
 
-**Madde 5 –** Devletin hüküm ve tasarrufu altında bulunan istihsal yerlerinin sınırları, Tarım Orman ve Köyişleri
-
-Bakanlığı temsilcisinin başkanlığında Maliye Bakanlığının tayin edeceği bir temsilci ile mahalli kadastro veya tapu memuru o yerin sulh hukuk hakimliğince tayin edilecek birisi araştırma müesseselerinden ve ikisi su ürünleri istihsalinden anlıyan üç bilirkişiden kurulu bir heyet marifetiyle teamülen malüm ve muayyen bulunan veya kira mukavele veya şartnamelerinde gösterildiği veçhile üç nüsha zabıt ve krokiyle tespit olunur. Bu zabıt ve krokilerin bir nüsnası Tarım Orman ve Köyişleri, bir nüshası Maliye Bakanlıklarına verilir. Bir nüshası da mahalli tapu dairesince hıfzolunur. Tarım Orman ve Köyişleri
+**Madde 5 –** Devletin hüküm ve tasarrufu altında bulunan istihsal yerlerinin sınırları, Tarım Orman ve Köyişleri Bakanlığı temsilcisinin başkanlığında Maliye Bakanlığının tayin edeceği bir temsilci ile mahalli kadastro veya tapu memuru o yerin sulh hukuk hakimliğince tayin edilecek birisi araştırma müesseselerinden ve ikisi su ürünleri istihsalinden anlıyan üç bilirkişiden kurulu bir heyet marifetiyle teamülen malüm ve muayyen bulunan veya kira mukavele veya şartnamelerinde gösterildiği veçhile üç nüsha zabıt ve krokiyle tespit olunur. Bu zabıt ve krokilerin bir nüsnası Tarım Orman ve Köyişleri, bir nüshası Maliye Bakanlıklarına verilir. Bir nüshası da mahalli tapu dairesince hıfzolunur. Tarım Orman ve Köyişleri
 
 Bakanlığınca zabıt ve kroki Resmî Gazete ile yayınlanır.
 
@@ -205,13 +201,9 @@ Tarım Orman ve Köyişleri Bakanlığı su ürünleri ile ilgili her türlü ar
 
 **Madde 15 –** Su ürünleri müstahsilleri 2834 sayılı Tarım Satış Kooperatifleri ve Birlikleri hakkındaki Kanun ile 2836 sayılı Tarım Kredi Kooperatifleri ve 1163 sayılı Kanuna tabi İstihsal Kooperatifleri ve mesleğin özelliklerine uygun kooperatif ve birlikler kurabilirler.
 
-Bu kooperatif ve birlikler "Su Ürünleri İstihsal Kooperatifleri", "Su Ürünleri Satış Kooperatifleri", "Su Ürünleri Satış
+Bu kooperatif ve birlikler "Su Ürünleri İstihsal Kooperatifleri", "Su Ürünleri Satış Kooperatifleri", "Su Ürünleri Satış Kooperatifleri Birliği ve Su Ürünleri Kredi Kooperatifleri"ismini alırlar.
 
-Kooperatifleri Birliği ve Su Ürünleri Kredi Kooperatifleri"ismini alırlar.
-
-Kooperatif ve birliklerin anamukavelename formülleri T. C. Ziraat Bankası Genel Müdürlügü ile Ticaret
-
-Bakanlığının ilgili dairesi tarafından müştereken hazırlanır.
+Kooperatif ve birliklerin anamukavelename formülleri T. C. Ziraat Bankası Genel Müdürlügü ile Ticaret Bakanlığının ilgili dairesi tarafından müştereken hazırlanır.
 
 T. C. Ziraat Bankası su ürünleri üreten ve üretimini bizzat satan kooperatif ve şahıslara açacağı kredilerde üretim ve pazarlamada kullanılan bütün araç ve gereçler Kredi Maritim sistemi (Balık üretiminde kullanılan tekne, motor, ağ v.s.
 
@@ -231,13 +223,9 @@ _______________
 
 <i>Muaflıklar:</i>
 
-**Madde 17 –** Gerçek ve tüzel kişilerin su ürünlerinin istihsal, muhafaza, işleme ve nakliyesine mütaallik faaliyet kollarına yapacakları yatırımlar hakkında 31/12/1960 gün ve 193 sayılı Gelir Vergisi Kanununa 202 sayılı Kanunun 16 ncı maddesi ile eklenen 8 inci bölümün ek 3 üncü maddesindeki yatırım indirimi nispeti % 100 olarak uygulanır. 202 sayılı
+**Madde 17 –** Gerçek ve tüzel kişilerin su ürünlerinin istihsal, muhafaza, işleme ve nakliyesine mütaallik faaliyet kollarına yapacakları yatırımlar hakkında 31/12/1960 gün ve 193 sayılı Gelir Vergisi Kanununa 202 sayılı Kanunun 16 ncı maddesi ile eklenen 8 inci bölümün ek 3 üncü maddesindeki yatırım indirimi nispeti % 100 olarak uygulanır. 202 sayılı Kanunun geçici 7 nci maddesi ile 199 sayılı Kanunun geçici 4 üncü maddesi uygulanmaz.
 
-Kanunun geçici 7 nci maddesi ile 199 sayılı Kanunun geçici 4 üncü maddesi uygulanmaz.
-
-**(Değişik : 15/5/1986 - 3288/5 md.)** Balıkçı barınakları ve bunlara ait üst yapı tesislerinden faydalanma hakkı, Tarım
-
-Orman ve Köyişleri Bakanlığının mütalaası alınarak Maliye ve Gümrük Bakanlığınca süresi on yıldan az olmamak üzere su ürünleri ile ilgili kooperatif veya kooperatif birliklerine 2886 sayılı Devlet İhale Kanunu hükümlerine tabi olmaksızın pazarlıkla kiraya verilir. İlan edilen 30 günlük süre içinde kooperatifler veya kooperatif birliklerinden talep vaki olmazsa 2886 sayılı Devlet İhale Kanunu gereğince Maliye ve Gümrük Bakanlığınca gerçek veya tüzelkişilere ihale ile verilir.
+**(Değişik : 15/5/1986 - 3288/5 md.)** Balıkçı barınakları ve bunlara ait üst yapı tesislerinden faydalanma hakkı, Tarım Orman ve Köyişleri Bakanlığının mütalaası alınarak Maliye ve Gümrük Bakanlığınca süresi on yıldan az olmamak üzere su ürünleri ile ilgili kooperatif veya kooperatif birliklerine 2886 sayılı Devlet İhale Kanunu hükümlerine tabi olmaksızın pazarlıkla kiraya verilir. İlan edilen 30 günlük süre içinde kooperatifler veya kooperatif birliklerinden talep vaki olmazsa 2886 sayılı Devlet İhale Kanunu gereğince Maliye ve Gümrük Bakanlığınca gerçek veya tüzelkişilere ihale ile verilir.
 
 **Madde 18 –** Su ürünlerinin istihsal ve ihracatını artırmak maksadiyle, su ürünleri istihsal ve vasıta ve malzemelerinde ithal sırasında alınan her türlü vergi, resim ve harçları indirmeye veya tamamen kaldırmaya,
 
@@ -335,9 +323,7 @@ Yasak vasıta ve usullerle yapılan ilmi ve teknik etüt ve araştırmalardan el
 
 <i>Ödenek:</i>
 
-**Madde 30 –** Bu kanunun 14, 16 ncı maddelerinde yazılı işlerin gerektirdiği giderleri karşılamak üzere her yıl Tarım
-
-Orman ve Köyişleri Bakanlığı bütçesine lüzumlu ödenek konulur.
+**Madde 30 –** Bu kanunun 14, 16 ncı maddelerinde yazılı işlerin gerektirdiği giderleri karşılamak üzere her yıl Tarım Orman ve Köyişleri Bakanlığı bütçesine lüzumlu ödenek konulur.
 
 <i>Teftiş ve murakabe:</i>
 
@@ -359,9 +345,7 @@ Bu Kanunda yer alan mahkemece yerine getirilecek görevler zaruret görülmeyen 
 
 **Madde 33 – (Değişik : 22/7/2003 – 4950/5 md.)**
 
-Tarım ve Köyişleri Bakanlığı teşkilatında ve Bakanlığa bağlı su ürünleri ile ilgili teşekküllerde su ürünlerinin, deniz ve içsuların koruma ve kontrolü ile görevlendirilen personel ile emniyet, jandarma, sahil güvenlik, gümrük ve orman muhafaza teşkilatları mensupları, belediye zabıtası amir ve mensupları, kamu tüzel kişilerine bağlı muhafız, bekçi ve korucular ile emniyet ve jandarma teşkilatının bulunmadığı yerlerde köy muhtar ve ihtiyar heyeti üyeleri bu Kanunla ve bu
-
-Kanuna istinaden konulan yasaklardan dolayı, bu Kanun kapsamına giren suçlar hakkında zabıt varakası tutmak, suçta kullanılan istihsal vasıtalarını ve elde edilen su ürünlerini zapt etmek ve bunları 34 üncü madde hükmü saklı kalmak şartı ile adlî mercilere teslim etmek; ek madde 3'te yer alan hükümler çerçevesinde idarî para cezalarını kesmekle vazifeli ve yetkilidirler.
+Tarım ve Köyişleri Bakanlığı teşkilatında ve Bakanlığa bağlı su ürünleri ile ilgili teşekküllerde su ürünlerinin, deniz ve içsuların koruma ve kontrolü ile görevlendirilen personel ile emniyet, jandarma, sahil güvenlik, gümrük ve orman muhafaza teşkilatları mensupları, belediye zabıtası amir ve mensupları, kamu tüzel kişilerine bağlı muhafız, bekçi ve korucular ile emniyet ve jandarma teşkilatının bulunmadığı yerlerde köy muhtar ve ihtiyar heyeti üyeleri bu Kanunla ve bu Kanuna istinaden konulan yasaklardan dolayı, bu Kanun kapsamına giren suçlar hakkında zabıt varakası tutmak, suçta kullanılan istihsal vasıtalarını ve elde edilen su ürünlerini zapt etmek ve bunları 34 üncü madde hükmü saklı kalmak şartı ile adlî mercilere teslim etmek; ek madde 3'te yer alan hükümler çerçevesinde idarî para cezalarını kesmekle vazifeli ve yetkilidirler.
 
 <i>Zapt edilen su ürünleri ve istihsal vasıtaları(2)</i>
 
@@ -475,17 +459,11 @@ Suç konusu fiillerin tekrarı, suçun tespit edildiği tarihten itibaren iki y�
 
 **Madde 37 –** Kanunun 19, 20, 23, 24 ve 27 nci maddelerine ait yönetmelikler kanunun yürürlüğe girdiği tarihten itibaren en geç 6 ay içinde yürürlüğe konulur.
 
-**Madde 38 –** Bu kanunun 7, 8, 9, 10 ve 22 nci maddelerinde öngörülen hususlarda 6200 sayılı Devlet Su İşleri Genel
-
-Müdürlüğü Vazife ve Salahiyetleri Hakkındaki Kanunda Devlet Su İşlerine tanınan haklar ve yetkileri bakidir.
+**Madde 38 –** Bu kanunun 7, 8, 9, 10 ve 22 nci maddelerinde öngörülen hususlarda 6200 sayılı Devlet Su İşleri Genel Müdürlüğü Vazife ve Salahiyetleri Hakkındaki Kanunda Devlet Su İşlerine tanınan haklar ve yetkileri bakidir.
 
 <i>Yürürlükten kaldırılan hükümler:</i>
 
-**Madde 39 –** 27 Ağustos 1287 tarihli Dersaadet ve Biladi Selasede Midye ve İstiridye İhracı Hakkındaki Nizamname, 18 sefer 1299 tarihli Zabıtai Saydiye Nizamnamesi, 19 Nisan 1298 tarihli Dersaadet ve Tevabii Balıkhane İdaresine dair
-
-Nizamname, 6 Nisan 1340 tarihli İstanbul ve Tevabii Balıkhanesine müteallik Nizamnamesinin birinci ve üçüncü maddelerinde muharrer rüsumun tezyidine dair 465 sayılı Kanun, 18 Sefer 1299 tarihli Zabıtai Saydiye Nizamnamesine bazı mevad tezyiline dair 18/1/1926 tarih ve 721 sayılı Kanun, 22 Nisan 1926 tarihli ve Zabıtai Saydiye ve İstanbul ve Tevabii
-
-Balıkhane İdareleri Nizamnamelerinin bazı mevaddını muaddil 820 sayılı Kanun, 5639 sayılı Kanunun 3, 4 ve 5 inci maddeleri Kaçakçılığın Men ve Takibine dair 1918 sayılı Kanunun bazı maddelerinin tadiline dair 6829 sayılı Kanunun 2 nci ek maddesinin IV Nolu bendi ile 5887 sayılı Harçlar Kanununun 10 uncu cetvelin 57 Nosu yürürlükten kaldırılmıştır.
+**Madde 39 –** 27 Ağustos 1287 tarihli Dersaadet ve Biladi Selasede Midye ve İstiridye İhracı Hakkındaki Nizamname, 18 sefer 1299 tarihli Zabıtai Saydiye Nizamnamesi, 19 Nisan 1298 tarihli Dersaadet ve Tevabii Balıkhane İdaresine dair Nizamname, 6 Nisan 1340 tarihli İstanbul ve Tevabii Balıkhanesine müteallik Nizamnamesinin birinci ve üçüncü maddelerinde muharrer rüsumun tezyidine dair 465 sayılı Kanun, 18 Sefer 1299 tarihli Zabıtai Saydiye Nizamnamesine bazı mevad tezyiline dair 18/1/1926 tarih ve 721 sayılı Kanun, 22 Nisan 1926 tarihli ve Zabıtai Saydiye ve İstanbul ve Tevabii Balıkhane İdareleri Nizamnamelerinin bazı mevaddını muaddil 820 sayılı Kanun, 5639 sayılı Kanunun 3, 4 ve 5 inci maddeleri Kaçakçılığın Men ve Takibine dair 1918 sayılı Kanunun bazı maddelerinin tadiline dair 6829 sayılı Kanunun 2 nci ek maddesinin IV Nolu bendi ile 5887 sayılı Harçlar Kanununun 10 uncu cetvelin 57 Nosu yürürlükten kaldırılmıştır.
 
 815 sayılı Kabotaj Kanununun 3 üncü maddesindeki yasaklar bu kanunun 3 üncü maddesinin 7 nci bendine uygun hareket eden yabancı turistler ile 14 üncü maddeye göre etüt ve araştırma işlerinde çalıştırılacak yabancılara uygulanmaz,
 
@@ -505,9 +483,7 @@ Kanunun yürürlük tarihinden itibaren altı ay içinde hazırlanarak yayımlan
 
 **Ek Madde 3 – (Ek : 22/7/2003 – 4950/8 md.)**
 
-Bu Kanunun 36 ncı maddesinde yer alan idarî para cezaları mahallin en büyük mülkî amiri ile denizlerde Sahil
-
-Güvenlik Komutanlığı bot komutanları tarafından kesilir ve mahallin en büyük mal memurluğuna yatırılır. Mülkî amirler ceza kesme yetkilerini 33 üncü maddede belirtilen görevlilere önceden ilân etmek şartıyla devredebilirler.
+Bu Kanunun 36 ncı maddesinde yer alan idarî para cezaları mahallin en büyük mülkî amiri ile denizlerde Sahil Güvenlik Komutanlığı bot komutanları tarafından kesilir ve mahallin en büyük mal memurluğuna yatırılır. Mülkî amirler ceza kesme yetkilerini 33 üncü maddede belirtilen görevlilere önceden ilân etmek şartıyla devredebilirler.
 
 Cezaların kesilme usulleri, makbuzların şekli, dağıtımı ve kontrolü hususundaki usul ve esaslar yönetmelikle düzenlenir.
 
@@ -515,9 +491,7 @@ Cezalar 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hüküm
 
 İdarî para cezalarına karşı cezanın tebliğ tarihinden itibaren en geç yedi gün içinde yetkili idare mahkemesine itiraz edilebilir. İtiraz, idare tarafından verilen cezanın yerine getirilmesini durdurmaz. İtiraz, zaruret görülmeyen hallerde evrak üzerinden inceleme yapılarak karara bağlanır. İtiraz üzerine verilen karar kesindir.
 
-**Geçici Madde 1 –** Bu Kanunun yayımlandığı tarihte genel hükümlere göre kurulmuş olan su ürünleri kooperatiflerinden 15 inci maddeye göre Tarım Satış Kooperatifleri ve birlikleri ile Tarım Kredi Kooperatifleri ve 1163 sayılı
-
-Kooperatifler Kanunlarına göre teşkilatlanmak istiyenler statülerinde adi Genel Kurul toplantıları için derpiş olunan toplanma ve karar nısapları ile kooperatiflerini feshedebilirler.
+**Geçici Madde 1 –** Bu Kanunun yayımlandığı tarihte genel hükümlere göre kurulmuş olan su ürünleri kooperatiflerinden 15 inci maddeye göre Tarım Satış Kooperatifleri ve birlikleri ile Tarım Kredi Kooperatifleri ve 1163 sayılı Kooperatifler Kanunlarına göre teşkilatlanmak istiyenler statülerinde adi Genel Kurul toplantıları için derpiş olunan toplanma ve karar nısapları ile kooperatiflerini feshedebilirler.
 
 **Geçici Madde 2 –** Bu kanunun 19, 20, 23, 24 ve 27 nci maddelerine ait yönetmelikler yürürlüğe girinceye kadar 39 uncu maddede yazılı hükümlerin alakalı kısımlarının uygulanmasına devam olunur.
 
@@ -539,9 +513,7 @@ Bir yıllık süre, zaruri hallerde Bakanlar Kurulu Kararı ile altı ay uzatıl
 
 **Geçici Madde 2 –** Bu Kanunun yürürlüğünden önce faaliyetleri men edilmiş bulunan sanayi kuruluşları ile işyerleri hakkında da geçici 1 inci madde hükmü uygulanır ve bunlar bu Kanunun yürürlüğe girdiği tarihten itibaren faaliyetlerine devam edebilirler.
 
-**Geçici Madde 3 –** Bu Kanuna göre hazırlanacak yönetmelikler yürürlüğe girinceye kadar, mevcut tüzüğün bu
-
-Kanuna aykırı olmayan hükümlerinin uygulanmasına devam edilir.
+**Geçici Madde 3 –** Bu Kanuna göre hazırlanacak yönetmelikler yürürlüğe girinceye kadar, mevcut tüzüğün bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam edilir.
 
 ——————————
 

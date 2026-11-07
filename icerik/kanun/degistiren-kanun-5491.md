@@ -43,7 +43,6 @@ j) Çevrenin korunması, çevre kirliliğinin önlenmesi ve çevre sorunlarını
 MADDE 4 – 2872 sayılı Kanunun İkinci Bölümünün başlığı "Yüksek Çevre Kurulu ve Görevleri" olarak değiştirilmiş ve mülga 4 üncü maddesi başlığı ile birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 "Yüksek Çevre Kurulu
 
-
 MADDE 4 – Başbakanın başkanlığında, Başbakanın bulunmadığı zamanlarda Çevre ve Orman Bakanının başkanlığında, Başbakanın belirleyeceği sayıda bakan ile Bakanlık Müsteşarından oluşan Yüksek Çevre Kurulu kurulmuştur.
 Diğer bakanlar gündeme göre Kurul toplantılarına başkan tarafından çağrılabilir.
 Kurul yılda en az bir defa toplanır.
@@ -54,7 +53,6 @@ Kurulun çalışma usûl ve esasları ile diğer hususlar yönetmelikle belirlen
 MADDE 5 – 2872 sayılı Kanunun mülga 5 inci maddesi başlığı ile birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 "Yüksek Çevre Kurulunun görevleri
 
-
 MADDE 5 – Yüksek Çevre Kurulunun görevleri şunlardır:
 a) Etkin bir çevre yönetiminin sağlanması için hedef, politika ve strateji belirlemek.
 b) Sürdürülebilir kalkınma ilkesi çerçevesinde ekonomik kararlara çevre boyutunun dahil edilmesine imkân veren hukukî ve idarî tedbirleri belirlemek.
@@ -62,7 +60,6 @@ c) Birden fazla bakanlık ve kuruluşu ilgilendiren çevre konularına ilişkin 
 
 MADDE 6 – 2872 sayılı Kanunun 9 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "Çevrenin korunması
-
 
 MADDE 9 – Çevrenin korunması amacıyla;
 a) Doğal çevreyi oluşturan biyolojik çeşitlilik ile bu çeşitliliği barındıran ekosistemin korunması esastır. Biyolojik çeşitliliği koruma ve kullanım esasları, yerel yönetimlerin, üniversitelerin, sivil toplum kuruluşlarının ve ilgili diğer kuruluşların görüşleri alınarak belirlenir.
@@ -92,7 +89,6 @@ Petrol, jeotermal kaynaklar ve maden arama faaliyetleri, Çevresel Etki Değerle
 MADDE 8 – 2872 sayılı Kanunun 11 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "İzin alma, arıtma ve bertaraf etme yükümlülüğü
 
-
 MADDE 11 – Üretim, tüketim ve hizmet faaliyetleri sonucunda oluşan atıklarını alıcı ortamlara doğrudan veya dolaylı vermeleri uygun görülmeyen tesis ve işletmeler ile yerleşim birimleri atıklarını yönetmeliklerde belirlenen standart ve yöntemlere uygun olarak arıtmak ve bertaraf etmekle veya ettirmekle ve öngörülen izinleri almakla yükümlüdürler.
 Birinci fıkrada belirtilen yükümlülüğü bulunan tesis ve işletmeler ile yerleşim birimlerine;
 1) İnşaat ruhsatı aşamasında bu yükümlülüğünü yerine getireceğini gösterir proje ve belgeleri ilgili kuruma sunmadıkça inşaat ruhsatı verilmez.
@@ -121,7 +117,6 @@ Liman, tersane, gemi bakım-onarım, gemi söküm, marina gibi kıyı tesisleri;
 MADDE 9 – 2872 sayılı Kanunun 12 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "Denetim, bilgi verme ve bildirim yükümlülüğü
 
-
 MADDE 12 – Bu Kanun hükümlerine uyulup uyulmadığını denetleme yetkisi Bakanlığa aittir. Gerektiğinde bu yetki, Bakanlıkça; il özel idarelerine, çevre denetim birimlerini kuran belediye başkanlıklarına, Denizcilik Müsteşarlığına, Sahil Güvenlik Komutanlığına, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununa göre belirlenen denetleme görevlilerine veya Bakanlıkça uygun görülen diğer kurum ve kuruluşlara devredilir.
 Denetimler, Bakanlığın belirlediği denetim usûl ve esasları çerçevesinde yapılır.
 Askerî işyerleri, askerî bölgeler ve tatbikatların bu Kanun çerçevesindeki denetimi ve neticelerine ait işlemler; Genelkurmay Başkanlığı, Millî Savunma Bakanlığı, İçişleri Bakanlığı ve Bakanlık tarafından müştereken hazırlanacak yönetmeliğe göre yürütülür.
@@ -131,7 +126,6 @@ Denetim, bilgi verme ve bildirim yükümlülüğüne ilişkin usûl ve esaslar B
 
 MADDE 10 – 2872 sayılı Kanunun 13 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "Tehlikeli kimyasallar ve atıklar
-
 
 MADDE 13 – Tehlikeli kimyasalların belirlenmesi, üretimi, ithalatı, atık konumuna gelinceye kadar geçen süreçte kullanım alanları ve miktarları, etiketlenmesi, ambalajlanması, sınıflandırılması, depolanması, risk değerlendirilmesi, taşınması ile ihracatına ilişkin usûl ve esaslar ilgili kurum ve kuruluşların görüşleri alınarak Bakanlıkça çıkarılacak yönetmelikle belirlenir.
 Yönetmelik hükümlerine aykırı olarak piyasaya sürüldüğü tespit edilen tehlikeli kimyasallar ile bu kimyasalları içeren eşya, bunları satış ve kullanım amacıyla piyasaya süren kurum, kuruluş ve işletmelere toplattırılır ve imha ettirilir. Nakil ve imha için gereken masraflar ilgililerince karşılanır. Bu yükümlülüğün yerine getirilmemesi halinde bu masraflar, ilgili kurum, kuruluş ve işletmelerden 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir.
@@ -157,7 +151,6 @@ Süre verilmesi ve faaliyetin durdurulması, bu Kanunda öngörülen cezaların 
 
 MADDE 13 – 2872 sayılı Kanunun mülga 18 inci maddesi başlığı ile birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 "Çevre katkı payı alınması, diğer gelirler ve bütçe ödenekleri
-
 
 MADDE 18 – Çevre kirliliğinin önlenmesi, çevrenin iyileştirilmesi ve çevre ile ilgili yatırımların desteklenmesi amacıyla;
 a) İthaline izin verilen kontrole tâbi yakıt ve atıkların CIF bedelinin yüzde biri ile hurdaların CIF bedelinin binde beşi oranında alınacak miktar,
@@ -222,10 +215,8 @@ Bu Kanunda öngörülen idarî yaptırım kararları Bakanlık merkez teşkilât
 Bu Kanunun 12 nci maddesinin birinci fıkrası uyarınca denetim yetkisi verilen kurum ve merciler tarafından verilen idarî para cezalarının yüzde ellisi, bu Kanun uyarınca yapılacak denetimlerle ilgili harcamaları karşılamak ve diğer çevre hizmetlerinde kullanılmak üzere bu kurumların bütçesine gelir kaydedilir, yüzde ellisi ise genel bütçeye gelir kaydedilir.
 Bu Kanun uyarınca yapılacak denetimlerle ilgili harcamaları karşılamak ve diğer çevre hizmetlerinde kullanılmak üzere, Bakanlık bütçesine, genel bütçeye gelir kaydedilecek idarî para cezaları karşılığı gerekli ödenek öngörülür."
 
-
 MADDE 17 – 2872 sayılı Kanunun 25 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "İdarî yaptırımların uygulanması, tahsil usûlü ve itiraz
-
 
 MADDE 25 – Bu Kanunda öngörülen idarî yaptırımların uygulanmasını gerektiren fiillerle ilgili olarak yetkili denetleme elemanlarınca bir tutanak tanzim edilir. Bu tutanak denetleme elemanlarının bağlı bulunduğu ve idarî yaptırım kararını vermeye yetkili mercie intikal ettirilir. Bu merci, tutanağı değerlendirerek gerekli idarî yaptırım kararını verir. İdarî yaptırım kararı, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre idarî yaptırım kararını veren merci tarafından ilgiliye tebliğ edilir.
 İdarî yaptırım kararlarına karşı tebliğ tarihinden itibaren otuz gün içinde idare mahkemesinde dava açılabilir. Dava açmış olmak idarece verilen cezanın tahsilini durdurmaz.
@@ -235,7 +226,6 @@ Bu Kanuna göre verilecek idarî para cezalarında ihlalin tespiti ve cezanın k
 
 MADDE 18 – 2872 sayılı Kanunun 26 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "Adlî nitelikteki cezalar
-
 
 MADDE 26 – Bu Kanunun 12 nci maddesinde öngörülen bildirim ve bilgi verme yükümlülüğüne aykırı olarak yanlış ve yanıltıcı bilgi verenler, altı aydan bir yıla kadar hapis cezası ile cezalandırılır.
 Bu Kanunun uygulanmasında yanlış ve yanıltıcı belge düzenleyenler ve kullananlar hakkında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun belgede sahtecilik suçuna ilişkin hükümleri uygulanır.
@@ -249,7 +239,6 @@ MADDE 20 – 2872 sayılı Kanunun 29 uncu maddesinin birinci fıkrası aşağı
 
 MADDE 21 – 2872 sayılı Kanunun 30 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "Bilgi edinme ve başvuru hakkı
-
 
 MADDE 30 – Çevreyi kirleten veya bozan bir faaliyetten zarar gören veya haberdar olan herkes ilgili mercilere başvurarak faaliyetle ilgili gerekli önlemlerin alınmasını veya faaliyetin durdurulmasını isteyebilir.
 Herkes, 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanunu kapsamında çevreye ilişkin bilgilere ulaşma hakkına sahiptir. Ancak, açıklanması halinde üreme alanları, nadir türler gibi çevresel değerlere zarar verecek bilgilere ilişkin talepler de bu Kanun kapsamında reddedilebilir."
@@ -280,11 +269,7 @@ MADDE 6 – Hava kalitesinin korunması ve hava kirliliğinin önlenmesi için, 
 Bakanlıkça, belirlenen temiz hava politikalarının il ve ilçe merkezlerinde uygulanması ve hava kalitesinin izlenmesi esastır.
 Hava kalitesinin belirlenmesi, izlenmesi ve ölçülmesine yönelik yöntemler, hava kalitesi sınır değerleri ve bu sınır değerlerin aşılmaması için alınması gerekli önlemler ile kamuoyunun bilgilendirilmesi ve bilinçlendirilmesine ilişkin çalışmalar Bakanlıkça yürütülür. Bu çalışmalara ilişkin usûl ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir." "EK
 
-MADDE 7 – Bakanlık, çevre ile ilgili olarak gerekli gördüğü her türlü veri ve bilgiyi, kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerden doğrudan istemeye yetkilidir. Kendilerinden veri ve bilgi istenen tüm kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler bu veri ve bilgileri bedelsiz olarak ve talep edilen sürede vermekle yükümlüdür." "EK
-
-MADDE 8 – İyonlaştırıcı olmayan radyasyon yayılımı sonucu oluşan elektromanyetik alanların çevre ve insan sağlığı üzerindeki olumsuz etkilerinin önlenmesi için usûl ve esaslar, ilgili kurum ve kuruluşların görüşleri alınarak Bakanlıkça çıkarılacak yönetmelikle belirlenir." "EK
-
-MADDE 9 – Kokuya sebep olan emisyonların, yönetmelikle belirlenen sınır değerlerin üzerinde çevreye verilmesi yasaktır. Kokuya sebep olanlar, koku emisyonlarının önlenmesine ilişkin tedbirleri almakla yükümlüdür. Buna ilişkin idarî ve teknik usûl ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir."
+MADDE 7 – Bakanlık, çevre ile ilgili olarak gerekli gördüğü her türlü veri ve bilgiyi, kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerden doğrudan istemeye yetkilidir. Kendilerinden veri ve bilgi istenen tüm kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler bu veri ve bilgileri bedelsiz olarak ve talep edilen sürede vermekle yükümlüdür." "EK MADDE 8 – İyonlaştırıcı olmayan radyasyon yayılımı sonucu oluşan elektromanyetik alanların çevre ve insan sağlığı üzerindeki olumsuz etkilerinin önlenmesi için usûl ve esaslar, ilgili kurum ve kuruluşların görüşleri alınarak Bakanlıkça çıkarılacak yönetmelikle belirlenir." "EK MADDE 9 – Kokuya sebep olan emisyonların, yönetmelikle belirlenen sınır değerlerin üzerinde çevreye verilmesi yasaktır. Kokuya sebep olanlar, koku emisyonlarının önlenmesine ilişkin tedbirleri almakla yükümlüdür. Buna ilişkin idarî ve teknik usûl ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir."
 
 MADDE 24 – 2872 sayılı Kanunun 16, 21, 22 ve Kanuna 3301 sayılı Kanunun 6 ncı maddesi ile eklenen ek maddesi yürürlükten kaldırılmıştır.
 

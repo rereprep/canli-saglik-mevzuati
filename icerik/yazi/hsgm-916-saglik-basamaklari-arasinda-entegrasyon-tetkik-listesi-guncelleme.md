@@ -27,15 +27,9 @@ Konu : Sağlık Basamakları Arasında Entegrasyon
 
 DAĞITIM YERLERİNE
 
-Koruyucu sağlık hizmetlerinin güçlendirilmesi, aile hekimliği ve hastane hizmetlerinin daha etkili sunulması gibi hedefleri gerçekleştirmek üzere birinci basamak ile ikinci ve üçüncü basamak sağlık hizmetlerinin entegrasyonunun özellikle de dijital sistemler kullanılarak sağlanması amacıyla Sağlık Bilgi Sistemleri Genel
+Koruyucu sağlık hizmetlerinin güçlendirilmesi, aile hekimliği ve hastane hizmetlerinin daha etkili sunulması gibi hedefleri gerçekleştirmek üzere birinci basamak ile ikinci ve üçüncü basamak sağlık hizmetlerinin entegrasyonunun özellikle de dijital sistemler kullanılarak sağlanması amacıyla Sağlık Bilgi Sistemleri Genel Müdürlüğü, Kamu Hastaneleri Genel Müdürlüğü ile işbirliği içerisinde düzenleme yapılarak, ilgi yazımızla konuya ilişkin usul ve esaslar belirlenmiştir.
 
-Müdürlüğü, Kamu Hastaneleri Genel Müdürlüğü ile işbirliği içerisinde düzenleme yapılarak, ilgi yazımızla konuya ilişkin usul ve esaslar belirlenmiştir.
-
-Sahadan alınan geri bildirimler çerçevesinde laboratuvar ve görüntüleme tetkiklerinin yer aldığı “EK 1 -
-
-SUT Kodları ve Listesi”nde değişiklik yapılmış, bu değişikliğe istinaden Sağlık Kodlama Referans Sunucusu “Hastane Tetkik İstem” objesine 7 (yedi) yeni değer, 01.07.2025 tarihinde eklenmiş, Tüm Sağlık Bilgi Yönetim
-
-Sistemi (SBYS) yazılım üreticilerine sistemlerinde gerekli değişikliği yapmaları için bilgilendirme yapılmıştır.
+Sahadan alınan geri bildirimler çerçevesinde laboratuvar ve görüntüleme tetkiklerinin yer aldığı “EK 1 - SUT Kodları ve Listesi”nde değişiklik yapılmış, bu değişikliğe istinaden Sağlık Kodlama Referans Sunucusu “Hastane Tetkik İstem” objesine 7 (yedi) yeni değer, 01.07.2025 tarihinde eklenmiş, Tüm Sağlık Bilgi Yönetim Sistemi (SBYS) yazılım üreticilerine sistemlerinde gerekli değişikliği yapmaları için bilgilendirme yapılmıştır.
 
 Güncel Tetkik Listesi ve SUT Kodları ekte sunulmakta olup, konunun ilinizde bulunan kamuya ait birinci, ikinci ve üçüncü basamak sağlık kurum ve kuruluşlarına duyurularak mezkûr düzenlemeler kapsamında hizmet sunumunun sağlanması hususunda;
 

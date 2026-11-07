@@ -131,9 +131,7 @@ e) Klinik araştırma sırasında kişiye insan onuruyla bağdaşmayacak ölçü
 
 f) Klinik araştırmayla varılmak istenen amacın, bunun kişiye yüklediği külfete ve kişinin sağlığı üzerindeki tehlikeye göre daha ağır basması,
 
-g) Klinik araştırmanın mahiyet ve sonuçları hakkında yeterli bilgilendirmeye dayalı olarak açıklanan rızanın yazılı olması ve herhangi bir menfaat teminine bağlı bulunmaması,
-
-durumunda müsaade edilen uygulamalardır.
+g) Klinik araştırmanın mahiyet ve sonuçları hakkında yeterli bilgilendirmeye dayalı olarak açıklanan rızanın yazılı olması ve herhangi bir menfaat teminine bağlı bulunmaması, durumunda müsaade edilen uygulamalardır.
 
 **Gereklilikler**
 

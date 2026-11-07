@@ -59,11 +59,7 @@ Ançak işletme birimlerimia kend aalarında yapacrklan bu VErden lestia ve teda
 
 2) İl Sağlk Müdurinkleri Düner Sermaye İşlemeleri Arasala Yaşalacak Teştın No Todaviye Yönelik Mal Ve Hizmet Ahmlars
 
-L ll Sağık Müdanaklen Daner Sermaye Işletmeleri arasında yaptacak leşha va
-
-tedaviye yönelik mal ve hemei alanlarada ucaki Vänzichl hükümleri
-
-degrultsuxa hanket edilecektir. Bu çerçevede protokol düzenlenmesi va
+L ll Sağık Müdanaklen Daner Sermaye Işletmeleri arasında yaptacak leşha va tedaviye yönelik mal ve hemei alanlarada ucaki Vänzichl hükümleri degrultsuxa hanket edilecektir. Bu çerçevede protokol düzenlenmesi va
 
 Turakindıma gibi iştemlerin tesix edilmesi gerekmektedir.
 
@@ -75,9 +71,7 @@ a) Mal Alımlarında;
 
 1) Malli tarifeler ile fiyatlan belirlenmiş planliem bedeli: tatiscion He belfrionen
 
-Aysu geçmemek ve maliyetinin hitında kalmamak kaydıyla, malıyetimen üzerme
-
-sadeve kanuni kesintiler ilave edilerck belirienccektir.
+Aysu geçmemek ve maliyetinin hitında kalmamak kaydıyla, malıyetimen üzerme sadeve kanuni kesintiler ilave edilerck belirienccektir.
 
 2) Tarifelerinde figan bulennaran ve anotsuano tabi olmavan mallanm bedel:
 
@@ -91,15 +85,11 @@ amortindan tatarlım da dikkate almarak saliş yepacal olan Il Sagla Modanan
 
 1) İlgili tarifeleri de fiyotion belirlenig olanlara: bedeli tarifelen ile betirienen
 
-fratı geşemek ve malivetinin altında kalmamak kaydıyla maliyetina Izerine
-
-sadece kananl kesintile Taave edilerek belirtenecektir.
+fratı geşemek ve malivetinin altında kalmamak kaydıyla maliyetina Izerine sadece kananl kesintile Taave edilerek belirtenecektir.
 
 2) Tarifelerinde fiyan bulunmayan ve hizmet almı yolu ile üçünci şahrilarean tamin
 
-edilen hizmetlerin bedeli; ihale bedelinin üzerine sadece kanuni kesintiler ilave
-
-edilerek belirlenecektir.
+edilen hizmetlerin bedeli; ihale bedelinin üzerine sadece kanuni kesintiler ilave edilerek belirlenecektir.
 
 3) Tarifelerinde flyatı bulunmayan ve idarelerce üretilen hizmetlerin bedeli; maliyet
 
@@ -125,15 +115,11 @@ ahnarak belirenecek we bu Gyat Azerinden faturalider heakur,
 
 2) Tarifelerinde fiya bulunmayaa ve amodismana tolé olmayan mallarin nedeli:
 
-maliyetinin Gerine %10 Bave adilerek belirlenecek ve bu fiyat asenaden
-
-ataralan donacaktur
+maliyetinin Gerine %10 Bave adilerek belirlenecek ve bu fiyat asenaden ataralan donacaktur
 
 3) Tarifelerinde Giyel bitlunmayan ve amedisana tehi ole mallaran bedeli
 
-amortismen tatarfarı da dikkate ahmarak sahp yapocok olan Il Soğhk Müdüriogä
-
-tarafindan Taşne Mal Vüneimeliği esaslenna güre bellimuceldir
+amortismen tatarfarı da dikkate ahmarak sahp yapocok olan Il Soğhk Müdüriogä tarafindan Taşne Mal Vüneimeliği esaslenna güre bellimuceldir
 
 b) Hizmet Alımlarında;
 
@@ -143,17 +129,11 @@ alnarak belirlenecek ve bu Byur hapinden f'aal dedekir
 
 1) Tarifelerinde Byst bulunmayan ve hanet alam yolu is nefrel salastadan
 
-lenin edilen hizmetlerin bedeli, kanaa besindlar hale hedeline aynea dahil
-
-edilmek ka dyla. Male bedelinin facine 1 iave milmek sureiyle
-
-belirlenecek ye ou dyut üzerınden taralandrlseaklr.
+lenin edilen hizmetlerin bedeli, kanaa besindlar hale hedeline aynea dahil edilmek ka dyla. Male bedelinin facine 1 iave milmek sureiyle belirlenecek ye ou dyut üzerınden taralandrlseaklr.
 
 3) Tarifelerinde dyau alinayane ve idarelerse irztilen hometlerin bedeli, kaauni
 
-kesintiler maliyet bedeline ayricn dahil edilmek. kaydıyla, naliyct bedelinin
-
-baerine falü itive edilmek suretiyle bahrienouek va bu fiyat üzamanden
+kesintiler maliyet bedeline ayricn dahil edilmek. kaydıyla, naliyct bedelinin baerine falü itive edilmek suretiyle bahrienouek va bu fiyat üzamanden
 
 Cararalen bal.tac B Teshis ve Tedavire Yanellk Olanan Malve Hemes A lamlar 209 sayıl Sağlik Bakundığıng Hath Bağhk Kurantan Ie Exerkalme (Rehabilitasyon) Tesislerine Verilecek Dönet Serays Haklanda Kanaman 3 Incä madlesinde: " c. Bu Komana täkl doner reromyell ishaler, gerekli yardikleri hallerda Vajyuç dusuklar maf ve hizmeleri belirlevecekleri livat izerin len. birhrlerinden tonin verilirler. sektinde bikim ver almakiadn. Antlan hilene etinaden Bakanlıüman bollı Lutum ve kuruluşlar ihtiynć duyduktan mat ve hizmetten belirleyecekleri fiyal üzerindea Mebnelerunden temin edebilschtedirte: Anlan hikam dogrultusunda sapilacal teshis ve tedavoe finclik olmases mal ve Abone alimlarda:
 

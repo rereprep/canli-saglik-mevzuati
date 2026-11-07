@@ -40,9 +40,7 @@ Güvenli kan ve kan bileşenlerine ulaşma amacıyla Uluslararası Kan Nakli Der
 
 7-Depolama sıcaklığı,
 
-8-Antikoagülan ve ek solüsyonlarının ismi, bileşimi ve hacmi" hükmü ve Görev ve Sorumlulukları düzenleyen 6.Maddesi 5.filcras ı " Kan ve kan bileşenlerinin bağışçıdan temininden alıcıya verilmesine kadar bağışçı ve alıcının sağlığının tehlikeye düşürülmemesi, tıbbi risklere karşı korunması, transfüzyonun güvenle yap ılması, transfiizyon sonrası bağışçı ve alıcının izlenmesi ilgili hizmet biriminin görevidir" hükümleri ile tüm dünyada olduğu
-
-gibi ülkemizde de kan ve kan bile şenlerinin bağışçıdan ihtiyaç sahiplerine ulaştırılmasına kadarki süreçte takibini sağlamak zorunlu hale getirilmi ştir.
+8-Antikoagülan ve ek solüsyonlarının ismi, bileşimi ve hacmi" hükmü ve Görev ve Sorumlulukları düzenleyen 6.Maddesi 5.filcras ı " Kan ve kan bileşenlerinin bağışçıdan temininden alıcıya verilmesine kadar bağışçı ve alıcının sağlığının tehlikeye düşürülmemesi, tıbbi risklere karşı korunması, transfüzyonun güvenle yap ılması, transfiizyon sonrası bağışçı ve alıcının izlenmesi ilgili hizmet biriminin görevidir" hükümleri ile tüm dünyada olduğu gibi ülkemizde de kan ve kan bile şenlerinin bağışçıdan ihtiyaç sahiplerine ulaştırılmasına kadarki süreçte takibini sağlamak zorunlu hale getirilmi ştir.
 
 Ülkemizde uygulanmakta olan Bölgesel Temelli Kan Bankac ılığı Sistemi ile, kan ve kan bileşenlerinin ulusal çapta takip edilebilirliğini sağlama görevi Türk Kızılayı Kan Hizmetleri Genel Müdürlüğü'ne verilmiştir.
 

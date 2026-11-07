@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,11 +25,7 @@ Uygulamaları
 
 DAĞITIM YERLERİNE
 
-Bilindiği üzere; kamu kurumlarımızın 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü
-
-Hakkında Kanun'a uyumunun sağlanması amacıyla; 27 Mayıs 2008 tarihli ve 26888 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Kamu Kurum ve Kuruluşlarına Ait Yer, Araç, Bina ve Tesislerde Tütün Ürünü
-
-Tüketenlere Verilecek İdari Yaptırım Kararlarının Uygulama Usul ve Esasları Hakkında Tebliğ’in 2 nci maddesinde “1 inci maddede belirtilen yerlerde tütün ürünü tüketenlere ilgili idari birim amirinin yetkili kıldığı kamu görevlileri tarafından idari para cezası verilir.” hükmü gereğince personel yetkilendirilmiştir.
+Bilindiği üzere; kamu kurumlarımızın 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun'a uyumunun sağlanması amacıyla; 27 Mayıs 2008 tarihli ve 26888 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Kamu Kurum ve Kuruluşlarına Ait Yer, Araç, Bina ve Tesislerde Tütün Ürünü Tüketenlere Verilecek İdari Yaptırım Kararlarının Uygulama Usul ve Esasları Hakkında Tebliğ’in 2 nci maddesinde “1 inci maddede belirtilen yerlerde tütün ürünü tüketenlere ilgili idari birim amirinin yetkili kıldığı kamu görevlileri tarafından idari para cezası verilir.” hükmü gereğince personel yetkilendirilmiştir.
 
 4207 sayılı Kanun’un ihlali halinde, kamu kurumlarında Tütün Denetçisi olarak yetkilendirilmiş personel tarafından uygulanacak işlemlere ilişkin bilgi ve uygulama becerilerinin artırılması amacıyla Kamu Kurumu
 
@@ -36,11 +33,7 @@ Tütün Denetçiliği Uzaktan Eğitim Programı geliştirilmiştir. Söz konusu 
 
 üzerinden erişime açılacaktır.
 
-Bu kapsamda daha önce İl Sağlık Müdürlüklerimizce belirlenen TÜDEP İl Koordinatörleri tarafından, diğer kamu kurumlarında yetkilendirilen personelin Kamu Kurumu Tütün Denetçiliği Uzaktan Eğitim
-
-Programına ekte yer alan hususlar dikkate alınarak tanımlanması ve eğitimlerini tamamlamalarının
-
-Müdürlüğünüzce sağlanması hususunda;
+Bu kapsamda daha önce İl Sağlık Müdürlüklerimizce belirlenen TÜDEP İl Koordinatörleri tarafından, diğer kamu kurumlarında yetkilendirilen personelin Kamu Kurumu Tütün Denetçiliği Uzaktan Eğitim Programına ekte yer alan hususlar dikkate alınarak tanımlanması ve eğitimlerini tamamlamalarının Müdürlüğünüzce sağlanması hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 

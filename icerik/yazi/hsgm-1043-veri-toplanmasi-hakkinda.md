@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,11 +25,7 @@ DAĞITIM YERLERİNE
 
 İlgi : 17.07.2019 tarihli ve 86696344-010.07.01-E.603 sayılı yazımız
 
-İlgi tarih sayılı yazı ile bağımlılık ile mücadele kapsamındaki “Alkol ve Madde Bağımlılığı Tedavi
-
-Merkezleri Formu” Halk Sağlığı Genel Müdürlüğü Tütün ve Madde Bağımlılığı ile Mücadele Dairesi
-
-Başkanlığına gönderileceği iletilmişti.
+İlgi tarih sayılı yazı ile bağımlılık ile mücadele kapsamındaki “Alkol ve Madde Bağımlılığı Tedavi Merkezleri Formu” Halk Sağlığı Genel Müdürlüğü Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığına gönderileceği iletilmişti.
 
 Bu kapsamda gönderilen “Alkol ve Madde Bağımlılığı Tedavi Merkezleri Formu” ekte yer aldığı şekilde ilinizde yer alan rehabilitasyon merkezi verilerinin de doldurulacağı alan eklenerek güncellenmiştir. Veriler, ilinizde yer alan bakanlığımız, üniversiteler ve özel sağlık tesisleri bünyesindeki arındırma merkezleri (ayakta ve yataklı), denetimli serbestlik poliklinikleri ve rehabilitasyon merkezleri tarafından formda yer alan açıklamalara uygun şekilde tabloya işlenerek ikinci bir yazıya gerek kalmaksızın 3 ayda bir düzenli olarak hsgm.tedaviverileri@saglik.gov.tr adresine ve resmi yazı ile tarafımıza iletilmesinde gerekli hassasiyetin gösterilmesi hususunda;
 

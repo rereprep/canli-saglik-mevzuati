@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Tetanos_Di
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,19 +25,13 @@ Konu : Tetanos, Difteri, Asellüler Boğmaca
 
 DAĞITIM YERLERİNE
 
-Boğmaca, etkeni <i>Bordetella pertussis</i> olan, özellikle yaşamın ilk aylarında hayatı tehdit edebilen bulaşıcılığı çok yüksek olan bir hastalıktır. Boğmaca hastalığına karşı çocukluk döneminde aşılama, 1968 yılından itibaren DBT (Difteri,
-
-Boğmaca, Tetanos) karma aşısı şeklinde uygulanmaktadır. Aşının koruyuculuğu 2.doz aşı uygulandıktan 1 ay sonra yeterli düzeye ulaştığından, yaşamın ilk aylarında bebekler boğmaca hastalığına karşı hassas durumdadırlar.
+Boğmaca, etkeni <i>Bordetella pertussis</i> olan, özellikle yaşamın ilk aylarında hayatı tehdit edebilen bulaşıcılığı çok yüksek olan bir hastalıktır. Boğmaca hastalığına karşı çocukluk döneminde aşılama, 1968 yılından itibaren DBT (Difteri, Boğmaca, Tetanos) karma aşısı şeklinde uygulanmaktadır. Aşının koruyuculuğu 2.doz aşı uygulandıktan 1 ay sonra yeterli düzeye ulaştığından, yaşamın ilk aylarında bebekler boğmaca hastalığına karşı hassas durumdadırlar.
 
 Hayatın ilk aylarında bebeklerimizi boğmacaya karşı korumak amacıyla, annelerin gebelik döneminde boğmaca bileşeni içeren aşı ile aşılanması planlanmıştır. Böylelikle annede oluşacak antikorların doğum esnasında bebeğe geçmesi ve bu yolla yenidoğanın korunması amacıyla Bağışıklama Danışma Kurulu (BDK) tavsiyesi ve Makamın 18/12/2024 tarihli ve 262927041 sayılı oluru ile gebelik döneminde tetanos ve difteri toksoidiyle birlikte asellüler boğmaca bileşeni içeren bir doz Tdab aşısının uygulanması kararlaştırılmıştır.
 
-Bu amaçla halen gebelere uygulanmakta olan Tetanos, Difteri (Td) aşısının bir dozunun her gebelik döneminde ekte yer alan şemaya göre, Tetanos toksoidi, Difteri toksoidi (yetişkin dozu), Asellüler Boğmaca (yetişkin dozu) içeren
+Bu amaçla halen gebelere uygulanmakta olan Tetanos, Difteri (Td) aşısının bir dozunun her gebelik döneminde ekte yer alan şemaya göre, Tetanos toksoidi, Difteri toksoidi (yetişkin dozu), Asellüler Boğmaca (yetişkin dozu) içeren Tdab aşısı şeklinde uygulanmasına başlanacaktır (**Ek 1:** Gebelik Dönemi Tetanos-Difteri Aşılama Şeması).
 
-Tdab aşısı şeklinde uygulanmasına başlanacaktır (**Ek 1:** Gebelik Dönemi Tetanos-Difteri Aşılama Şeması).
-
-Ayrıca sağlık personeli ve aşılanacak kişiler için bilgilendirme ve faydalanılacak ‘’Sık Sorulan Sorular ve
-
-Cevapları’’ metni hazırlanarak Ek 2’de sunulmuştur. Konunun üniversiteler dahil kamu ve özel tüm sağlık kurum ve kuruluşlarına iletilmesi ve başta aile hekimleri, aile sağlığı çalışanları, kadın hastalıkları ve doğum uzmanları, çocuk sağlığı ve hastalıkları uzmanları, enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanları olmak üzere ilgili tüm sağlık personelinin bilgilendirilerek uygulamanın 2 Nisan 2025 tarihi itibariyle başlatılması hususunda gereğini arz/rica ederim.
+Ayrıca sağlık personeli ve aşılanacak kişiler için bilgilendirme ve faydalanılacak ‘’Sık Sorulan Sorular ve Cevapları’’ metni hazırlanarak Ek 2’de sunulmuştur. Konunun üniversiteler dahil kamu ve özel tüm sağlık kurum ve kuruluşlarına iletilmesi ve başta aile hekimleri, aile sağlığı çalışanları, kadın hastalıkları ve doğum uzmanları, çocuk sağlığı ve hastalıkları uzmanları, enfeksiyon hastalıkları ve klinik mikrobiyoloji uzmanları olmak üzere ilgili tüm sağlık personelinin bilgilendirilerek uygulamanın 2 Nisan 2025 tarihi itibariyle başlatılması hususunda gereğini arz/rica ederim.
 
 Doç. Dr. Muhammed Emin DEMİRKOL
 
@@ -104,9 +99,7 @@ Hayır
 
 Aşı kaydı olmayan gebeler; Primer Td tam aşılaması olmayan gebe olarak kabul edilir.
 
-Yeni uygulamaya geçiş sürecinde 18-24 hafta aralığından sonra Tdab aşısı için başvuran gebelere; daha önce Td aşısı uygulanmış olsa bile; gebelik döneminin 32.haftasının sonuna kadar olan sürede bir doz
-
-Tdab aşısı uygulanabilir (Td ve Tdab aşı uygulamaları arasında en az 4 hafta süre bırakılmalıdır.).
+Yeni uygulamaya geçiş sürecinde 18-24 hafta aralığından sonra Tdab aşısı için başvuran gebelere; daha önce Td aşısı uygulanmış olsa bile; gebelik döneminin 32.haftasının sonuna kadar olan sürede bir doz Tdab aşısı uygulanabilir (Td ve Tdab aşı uygulamaları arasında en az 4 hafta süre bırakılmalıdır.).
 
 **Ek 2: Sık Sorulan Sorular ve Cevapları Metni**
 
@@ -194,9 +187,7 @@ Nadiren görülen yan etkiler:
 
 **11. Tdab eş zamanlı olarak gebelikte önerilen diğer aşılar ile birlikte uygulanabilir mi?**
 
-Tdab inaktif bir aşı olduğundan, genel olarak kabul edilen aşılama önerilerine uygun olarak vücudun farklı bölgelerine diğer aşılar ve immunoglobulinlerle eş zamanlı olarak uygulanabilir. Dünya Sağlık
-
-Örgütü gebelik sırasında Tdab’in yanı sıra mevsimsel influenza ve Covid-19 aşılarını da önermektedir.
+Tdab inaktif bir aşı olduğundan, genel olarak kabul edilen aşılama önerilerine uygun olarak vücudun farklı bölgelerine diğer aşılar ve immunoglobulinlerle eş zamanlı olarak uygulanabilir. Dünya Sağlık Örgütü gebelik sırasında Tdab’in yanı sıra mevsimsel influenza ve Covid-19 aşılarını da önermektedir.
 
 Gebelikte uygulanacak diğer aşılar ve uygulama zamanı ile ilgili karar, gebenin bireysel durumu, gebelik haftası ve sağlık geçmişine göre hekim tarafından verilmelidir.
 

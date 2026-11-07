@@ -27,11 +27,7 @@ Konu : Üreme Sağlığı ve RİA Uygulama Eğitimcileri Hk.
 
 Hizmet İçi Eğitim; sunulan sağlık hizmetlerinin güçlendirilmesi amacıyla sağlık personeline güncel, bilimsel ve teknolojik gelişmeler ışığında bilgi ve beceri kazandırmak için yapılan faaliyetlerdir. Sağlık bilim dünyasındaki sürekli gelişmeler ve uygulamaya koyulan yeni yaklaşımlar hizmet içi eğitimlerin sürekliliğini zorunlu kılmaktadır.
 
-Hizmet İçi Eğitimlerinin sürdürülebilirliği ve kurumsallaşması amacıyla Türkiye genelinde 94 Üreme Sağlığı Eğitim Merkezi (ÜSEM) bir kısmı ÜSEM+RİA Uygulama
-
-Eğitim Merkezi, bu merkezlerden 14'ü de aynı zamanda, eğitimci yetiştirmek üzere Üreme
-
-Sağlığı Bölgesel Eğitim Merkezleri (ÜSBEM) olarak faaliyet göstermektedir.
+Hizmet İçi Eğitimlerinin sürdürülebilirliği ve kurumsallaşması amacıyla Türkiye genelinde 94 Üreme Sağlığı Eğitim Merkezi (ÜSEM) bir kısmı ÜSEM+RİA Uygulama Eğitim Merkezi, bu merkezlerden 14'ü de aynı zamanda, eğitimci yetiştirmek üzere Üreme Sağlığı Bölgesel Eğitim Merkezleri (ÜSBEM) olarak faaliyet göstermektedir.
 
 Eğitimlerin yürütülmekte olduğu ÜSEM ve RİA Uygulama Eğitim Merkezlerinde; biri doktor olmak üzere en az üç üreme sağlığı ve RİA Uygulama Eğitimcisi görev almaktadır.
 
@@ -39,15 +35,11 @@ Eğitim Merkezleri rutin hizmetlerin yanı sıra illerinde ve il dışında hizm
 
 14 ildeki ÜSBEM’ lerde ise; ikisi doktor olmak üzere en az beş üreme sağlığı eğitimcisi görev almaktadır. ÜSBEM’ lerin, ÜSEM' lerin gerçekleştirdiği görevlerin yanı sıra hem illerinin hem de diğer illerdeki eğitimci ihtiyacı olması halinde "Üreme Sağlığı Eğitim Becerileri Eğitimi” de düzenleme kapasitesine sahip olmalarıdır.
 
-İlgi Genelge ile; ülke genelinde sağlık personeli tarafından standart ve nitelikli hizmet verilmesinin sağlanması amacı ile Genel Müdürlüğümüzün yürütmüş olduğu tüm hizmet içi eğitimlere hizmet sunan sağlık personelinin katılması hususu bildirilmiştir. Ayrıca, Aile
-
-Hekimliği Uygulama Yönetmeliğinin "Eğitim” başlığı altında madde 17’ nin ikinci fıkrasında "Sözleşme imzalamış aile hekimliği uzmanları, uzman tabip, tabip ve aile sağlığı elemanları;
+İlgi Genelge ile; ülke genelinde sağlık personeli tarafından standart ve nitelikli hizmet verilmesinin sağlanması amacı ile Genel Müdürlüğümüzün yürütmüş olduğu tüm hizmet içi eğitimlere hizmet sunan sağlık personelinin katılması hususu bildirilmiştir. Ayrıca, Aile Hekimliği Uygulama Yönetmeliğinin "Eğitim” başlığı altında madde 17’ nin ikinci fıkrasında "Sözleşme imzalamış aile hekimliği uzmanları, uzman tabip, tabip ve aile sağlığı elemanları;
 
 içeriği, süresi ve standartları Bakanlıkça belirlenen diğer hizmet içi eğitimlere alınabilirler” ibaresi ile aile hekimliğinde görev yapan sağlık çalışanları da dahil olmak üzere hizmet sunan sağlık personelinin hizmet içi eğitimlere katılmasının gerekliliği vurgulanmıştır. Bu doğrultuda eğitimlerin sürekliliğinin sağlanması için standart bir yaklaşımla eğitim almış, eğitim faaliyetlerinin nitelikleri ve asgari sayıları belirtilen üreme sağlığı eğitimcileri tarafından yürütülmesi gerekmektedir. Üreme sağlığı ve üreme sağlığı yöntem eğitimcisi olan sağlık personelinin hizmet içi eğitimlerini sürdürülebilirliği kapsamında Çocuk Ergen ve Kadın Üreme Sağlığı (ÇEKÜS) birimlerinde istihdam edilmeleri, bu birimlerin fonksiyonlarını sürdürmesi ve nitelikli hizmet sunumu açısından büyük önem taşımaktadır.
 
-RİA Uygulama Eğitim Merkezleri ve ÜSEM’ lerde hizmet içi eğitimlerde görev alan “Eğitim Becerileri Eğitimi” ve “ Klinik Becerilerin Standardizasyonu ve Eğitim Metodolojisi
-
-Eğitimi” sertifikasına sahip eğitimciler;
+RİA Uygulama Eğitim Merkezleri ve ÜSEM’ lerde hizmet içi eğitimlerde görev alan “Eğitim Becerileri Eğitimi” ve “ Klinik Becerilerin Standardizasyonu ve Eğitim Metodolojisi Eğitimi” sertifikasına sahip eğitimciler;
 
  Üreme Sağlığı Modül Eğitimi (15 gün)
 
@@ -65,13 +57,7 @@ ve halk eğitimleri ile birlikte ihtiyaç duyulan diğer konularda da eğitimler
 
 Ayrıca ilinizde ÜSEM ya da ÜSBEM olarak görev yapan merkezlerin gerçekleştirecekleri hizmet içi eğitimlerin, Makamın 11 Mayıs 2006 gün ve 754 sayılı Olur’u ile eğitim giderleri illerin döner sermaye giderlerinden karşılanması uygun bulunmuştu ve Ek:
 
-1’de 11 Aralık 2009 tarihli Sağlık Bakanlığı Hizmetiçi Eğitim Yönetmeliği, Ek: 2’de Maliye
-
-Bakanlığı yazısı ile Ek: 3’deki 94/6192 Karar Sayılı Bakanlar Kurulu Kararının Sağlık Bakanlığına Bağlı Her Derecedeki Eğitim ve Öğretim Kurumları ile Hizmet İçi Eğitim, Kurs ve Seminerlerde Okutulacak Ders saatlerinin sayısı, Ders Görevi Alacakların Nitelikleri ve
-
-Diğer Hususlara Dair Esasların “Hizmet İçi Eğitim, Kurs ve Seminerlerinde
-
-Görevlendirileceklerin Nitelikleri ve Ödenecek Ders Ücretleri ilgili bölümü gereğince, eğitimde geçen zamanlarından dolayı mağduriyete uğramamalarına azami ölçüde dikkat edilmesi uygun olacaktır.
+1’de 11 Aralık 2009 tarihli Sağlık Bakanlığı Hizmetiçi Eğitim Yönetmeliği, Ek: 2’de Maliye Bakanlığı yazısı ile Ek: 3’deki 94/6192 Karar Sayılı Bakanlar Kurulu Kararının Sağlık Bakanlığına Bağlı Her Derecedeki Eğitim ve Öğretim Kurumları ile Hizmet İçi Eğitim, Kurs ve Seminerlerde Okutulacak Ders saatlerinin sayısı, Ders Görevi Alacakların Nitelikleri ve Diğer Hususlara Dair Esasların “Hizmet İçi Eğitim, Kurs ve Seminerlerinde Görevlendirileceklerin Nitelikleri ve Ödenecek Ders Ücretleri ilgili bölümü gereğince, eğitimde geçen zamanlarından dolayı mağduriyete uğramamalarına azami ölçüde dikkat edilmesi uygun olacaktır.
 
 Bu kapsamda nitelikli personelin başka kurum ve kuruluşlarda görevlendirilmemeleri, eğitim giderleri (kitap, afiş, boşür, sertifika, katılım belgesi vb. materyallerin basımı dahil)
 

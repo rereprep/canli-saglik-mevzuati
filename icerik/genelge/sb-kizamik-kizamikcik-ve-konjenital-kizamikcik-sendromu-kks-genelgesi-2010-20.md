@@ -14,8 +14,6 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-
-
 6.3.15. Kızamık/Kızamıkçık ve Konjenital Kızamıkçık Sendromu (KKS) Genelgesi (2010/20)
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -176,9 +174,7 @@ gerekiyorsa seroprevalans araştırmalan ile hassas nufus birikimine ilişkin bi
 
 araştirilmasi,
 
-• Aktif sürveyans yürütülmesi (aktif sürveyansın akut flask paralizi-AFP- ve maternal
-
-neonatal tetanoz-MNT- sürveyansina entegre edilmesi),
+• Aktif sürveyans yürütülmesi (aktif sürveyansın akut flask paralizi-AFP- ve maternal neonatal tetanoz-MNT- sürveyansina entegre edilmesi),
 
 • Aşı sonrası istenmeyen etki sürveyansı ile bağışıklama güvenliğinin izlenmesi,
 
@@ -371,9 +367,7 @@ Doğumdan sonraki ilk 24 saat içinde başlayan sanlık Konjenital Kızamıkçı
 
 • Kızamıkçık aşısı uygulanmamaş olmasına rağmen; 6-12 aylar arasında en az iki kez kızamıkçığa özgü IgG antikor düzeyinin aymı düzeyde devam ettiğinin gösterilmesi veya
 
-• Uygun klinik örnekte kızamıkçık virüsü saptanması (RT- PCR ile nükleik asid saptanması
-
-veya kızamıkçık virüs izolasyonu). Konjenital Kızamıkçık Sendromu Vaka Sınıflaması Şüpheli Vaka: Bir yaşından küçük bir çocukta, A grubu klinik bulgulardan en az birinin bulunmasi, Olası KKS Vakası (Klinik Vaka): Başka bir etiyolojik açıklama yapılamayan bır bebekte, A grubundan en az iki veya A ve B gruplarından birer klinik gösterge saptanması Kesin KKS Vakası: a. Laboratuvarla Doğrulanmış KKS Vakası: Şüpheli bir vakada, konjenital kızamıkçık sendromunun laboratuvar kriterlerinin bulunması b. Eepidemiyolojik Bağlantılı KKS Vakası: Annesinde gebeliği sırasında doğrulanmış kızamıkçık enfeksiyonu saptanmış olan bir bebekte. A grubundan en az bir klinik gosterge saptanmasi. Vaka Değil: A grubundan en az bir gösterge bulunmasına rağmen; klinik, laboratuvarla doğrulanmış veya epidemiyolojik ilişkili KKS sınıflandırma kriterlerini karşılamayan bebek.
+• Uygun klinik örnekte kızamıkçık virüsü saptanması (RT- PCR ile nükleik asid saptanması veya kızamıkçık virüs izolasyonu). Konjenital Kızamıkçık Sendromu Vaka Sınıflaması Şüpheli Vaka: Bir yaşından küçük bir çocukta, A grubu klinik bulgulardan en az birinin bulunmasi, Olası KKS Vakası (Klinik Vaka): Başka bir etiyolojik açıklama yapılamayan bır bebekte, A grubundan en az iki veya A ve B gruplarından birer klinik gösterge saptanması Kesin KKS Vakası: a. Laboratuvarla Doğrulanmış KKS Vakası: Şüpheli bir vakada, konjenital kızamıkçık sendromunun laboratuvar kriterlerinin bulunması b. Eepidemiyolojik Bağlantılı KKS Vakası: Annesinde gebeliği sırasında doğrulanmış kızamıkçık enfeksiyonu saptanmış olan bir bebekte. A grubundan en az bir klinik gosterge saptanmasi. Vaka Değil: A grubundan en az bir gösterge bulunmasına rağmen; klinik, laboratuvarla doğrulanmış veya epidemiyolojik ilişkili KKS sınıflandırma kriterlerini karşılamayan bebek.
 
 ### 6. KIZAMIK, KIZAMIKÇIK VE KKS VAKALARINA YAKLAŞIM
 
@@ -421,7 +415,7 @@ Eliminasyon programının hedeflerine uygun olarak sürveyansta duyarlılığı 
 
 8. Hastanım izolasyonu konusunda aileyi bilgilendiriniz, hastane ortamında ise izolasyonunu sağlayınız: Hastalar, hastaneye yatışarını gerektiren ek bir durum yoksa evlerinde izole edilmeli, hane halkı dışındakilerle teması sınırlı tutulmalıdır. Daha detaylı bilgi için Ek 4'e bakınız. Tüm temashlar en uzun inkübasyon süresince izlenerek belirtilerin başlaması durumunda örnek almalıdır.
 
-9. **Bilgiyi Form 016'ya (Ek** 5), 017A'ya (Ek 6) ve GBP Sürveyans Formuna (Ek 7) ekleyiniz: * Il Sağlık Müdürluğu, sağisk ocağtiatte hekimigı ya da TSM Saglık Grup Başkanlıgı dışndakı bir kaynaktar (hastane, özel klinuk, okal vb) jäpheli kramuk vakaını ihbarı aluğında, vakit geçirmeden fgil Sağtık Grup Başkanlığın/TSM'yı bılgtlendrmcicůr. Saglık Grup BaşkanlığuTSM derhal vakayı incelemeli, eğer bildiren kişilerce yapmamaysa, vaka formları doldurulmalz ve uygun örackler tapianarak tüm formalar ve ornekier Sagik Nedarfuğine gönderilmelidir. 
+9. **Bilgiyi Form 016'ya (Ek** 5), 017A'ya (Ek 6) ve GBP Sürveyans Formuna (Ek 7) ekleyiniz: * Il Sağlık Müdürluğu, sağisk ocağtiatte hekimigı ya da TSM Saglık Grup Başkanlıgı dışndakı bir kaynaktar (hastane, özel klinuk, okal vb) jäpheli kramuk vakaını ihbarı aluğında, vakit geçirmeden fgil Sağtık Grup Başkanlığın/TSM'yı bılgtlendrmcicůr. Saglık Grup BaşkanlığuTSM derhal vakayı incelemeli, eğer bildiren kişilerce yapmamaysa, vaka formları doldurulmalz ve uygun örackler tapianarak tüm formalar ve ornekier Sagik Nedarfuğine gönderilmelidir.
 
 ### 6.2. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında TSM/Sağlık Grup Başkanlıkları Tarafından Yapılması Gerekenler:
 
@@ -471,11 +465,9 @@ Eliminasyon programının hedeflerine uygun olarak sürveyansta duyarlılığı 
 
 5. TSM/Sağlık Grup Başkanlıkları tarafından gönderilmiş olan vaka cetvelindeki olası/kesin kızamık/kızamıkçık vakaları için il vaka cetveli hazırlanarak her ayın sonunda Sağlık Bakanlığı'na gönderiniz: TSM/Sağlık Grup Başkanlıkları tarafindan gonderilmiş olan vaka cetvelleri birleştirildikten sonra, vaka inceleme formlardan da yararlamılarak Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolu Daire Başkanlığı tarafindan oluşturularak illere elektronik ortamda gönderilmiş olan il vaka cetveline istenen veriler Ek 10'deki yönergeye uygun olarak işlenmeli ve her ayın sonunda elektronik ortanda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na gönderilmelidir.
 
-6. BHM'den gelen sonuçlurı bildirimi yapan sağlık personeline ve hastanın yaşadığ ögedeki TSM/Sağlık Grup Başkanlığma bildiriniz: BHM sonuçlar Sağlık Müdürlüğüne bildireceği için, bildirim yapan personele ve hastanın yaşadığı bölgedeki TSM/Sağlık Grup Başkanlığına bildirim yapmak Il Sağlık Müdürlüğünün görevidir. Geri bildiriım en kısa sürede sözlü ve yazılı olarak yapılmalıdır. 
+6. BHM'den gelen sonuçlurı bildirimi yapan sağlık personeline ve hastanın yaşadığ ögedeki TSM/Sağlık Grup Başkanlığma bildiriniz: BHM sonuçlar Sağlık Müdürlüğüne bildireceği için, bildirim yapan personele ve hastanın yaşadığı bölgedeki TSM/Sağlık Grup Başkanlığına bildirim yapmak Il Sağlık Müdürlüğünün görevidir. Geri bildiriım en kısa sürede sözlü ve yazılı olarak yapılmalıdır.
 
 ### 6.4. Şüpheli ya da Olası Kızamık/Kızamıkçık Vaka Tanımına Uyan Bir Vaka ile Karşılaşıldığında Bölge Hıfzıssıhha Laboratuvarları Tarafından Yapılması Gerekenler:
-
-
 
 1. Gelen orneği kızamık ve kızamıkçığa özgü IgM ve gerektiğinde IgG antikorları yönünden inceleyiniz,
 
@@ -521,17 +513,13 @@ Eliminasyon programının hedeflerine uygun olarak sürveyansta duyarlılığı 
 
 • Kızamık ve/veya kızamıkçık aşısı uygulanmış olan kişilerde, aşılamadan sonra IgM saptanması beklenir. Serolojik yöntemler doğal enfeksiyon ve aşılama ile ortaya çıkan bağışıklık yanıtını ayıramaz; bu nedenle, sadece virüsün izolasyonu ve genetik tiplendirilmesi ile doğal enfeksiyon ve aşı ile oluşan IgM yamıtı ayırt edilebilir
 
-• Virüs izolasyonu veya tespiti yapılamamış IgM pozitif bir vakada yakın zamanda (doküntu başlangıçından önceki 6 hafla içinde) aşılanma öyküsü olması durumunda yaklaşım aşağıda yer almaktadır: Tablo 4. Aşılanma Oyküsu Olan Vakaya Yaklaşım Eepidemiyolojik Bulgu Son Vaka Sınıflaması
-
--Laboratuvarla doğrulanmış vaka ilc Laboratuvarla doğrulanmaş epidemiyolojik ilişkinin varlığı (kesin) vaka
+• Virüs izolasyonu veya tespiti yapılamamış IgM pozitif bir vakada yakın zamanda (doküntu başlangıçından önceki 6 hafla içinde) aşılanma öyküsü olması durumunda yaklaşım aşağıda yer almaktadır: Tablo 4. Aşılanma Oyküsu Olan Vakaya Yaklaşım Eepidemiyolojik Bulgu Son Vaka Sınıflaması -Laboratuvarla doğrulanmış vaka ilc Laboratuvarla doğrulanmaş epidemiyolojik ilişkinin varlığı (kesin) vaka
 
 -Toplumda yapılan aktif araştırma ile virüs dolaşımının olduğuna dair kanıt bulunmaması Vaka değil
 
 -Vinüsün dolaşımda olduğu bölgelere seyahat hikayesi (yakın zamanda aşılanmış) bulunmamasi
 
-Şokil 6. Olası Kızamık veya Kızamıkçık Vakalanıı İçin Sınıflandırma Şeması Laboratuvar ve Laboratuvar Laboratuvarta Son siniflandırma pidemiyoloj® incelemesi sonucu? dogrulanmış vakayla inceleme gereken epidemiyolojik dişk
-
-vaka Laboratuvarla
+Şokil 6. Olası Kızamık veya Kızamıkçık Vakalanıı İçin Sınıflandırma Şeması Laboratuvar ve Laboratuvar Laboratuvarta Son siniflandırma pidemiyoloj® incelemesi sonucu? dogrulanmış vakayla inceleme gereken epidemiyolojik dişk vaka Laboratuvarla
 
 Kızamık veya dogrulanma
 
@@ -553,11 +541,7 @@ incelemesi baglatmız,
 
 3. Gerekli önlemleri alınız,
 
-4. Virüs izolasyonu için nazofarengeal sürüntü ve idrar örneği alarak Vaka Bildirim
-
-ve Laboratuvar İstek ve Sonuç Formu (Ek 1) ile birlikte Sağhk Mudürlüğune
-
-gonderiniz
+4. Virüs izolasyonu için nazofarengeal sürüntü ve idrar örneği alarak Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu (Ek 1) ile birlikte Sağhk Mudürlüğune gonderiniz
 
 5. Bilgiyi Form 016'ya (Ek 5), Form 017A'ya (Ek 5) ve GBP Sürveyans Formuna
 
@@ -575,9 +559,7 @@ Başkanlığı'mı bilgılendirinız,
 
 Sonuç Formu (Ek 1) ile birlikte BHM ye gönderiniz
 
-3. Vaka Inceleme Formunu (Ek 2) Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın
-
-Kontrolü Daire Başkanlığı'na fakslayınız,
+3. Vaka Inceleme Formunu (Ek 2) Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı'na fakslayınız,
 
 4. Il içindeki tüm sağlık ocağı/aile hekimliklerini ve resmi/özel tüm saghk
 
@@ -631,37 +613,23 @@ geçırmeden sağhk kuruluşuna başvurmaları konusunda uyarılmalıdır. (Deta
 
 2. Saptanan vakaları inceleyiniz:
 
-kızamık/kızamıkçık: virüsünü kimden/nereden almaş olabileceg
-
-sorgulanmalıdır. Bunun için vakanın, döküntünün başlangıcından önceki inkübasyon
-
-süresi boyunca (kızamık için 7-18, kızamıkçık için 12-23 gün) döküntülü başka hasta
-
-ile karşılaşıp karşılaşmadığı vaya seyahat oyküsü veya yurt/şehir dışından ziyaretçı
-
-gelip gelmediği tekrar ve detaylı olarak sorgulanmahıdır.
+kızamık/kızamıkçık: virüsünü kimden/nereden almaş olabileceg sorgulanmalıdır. Bunun için vakanın, döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık için 7-18, kızamıkçık için 12-23 gün) döküntülü başka hasta ile karşılaşıp karşılaşmadığı vaya seyahat oyküsü veya yurt/şehir dışından ziyaretçı gelip gelmediği tekrar ve detaylı olarak sorgulanmahıdır.
 
 b) Vaka sayısında artış ve kümelenme varsa (salgın durumu), her vakadan kan (serum)
 
-örnekleri ve virüs izolasyonu için gerekli diğer örnekler alınmalıdır. Aynca, ber vaka
-
-için Vaka Inceleme Formu da dikkatle doldurulmalıdır.
+örnekleri ve virüs izolasyonu için gerekli diğer örnekler alınmalıdır. Aynca, ber vaka için Vaka Inceleme Formu da dikkatle doldurulmalıdır.
 
 a) Aileyi ve takip eden hekimi izolasyon ónlemleri (Ek 4) konusunda bilgilendirilmelidir.
 
 b) Köy, ilçe ve mahalle düzeyinde Form 012 A ve B'lerden yararlanarak bölgenin aşlama
 
-durumu ivedilikle gozden geçirilmelidir. Kesin vakanın bulunduğu hane halkını ve
-
-yakın çevresini de içerecek şekilde bölgesel salgın aşılamasına başlatılmalıdır.
+durumu ivedilikle gozden geçirilmelidir. Kesin vakanın bulunduğu hane halkını ve yakın çevresini de içerecek şekilde bölgesel salgın aşılamasına başlatılmalıdır.
 
 6-II ay arası timu bebekler sadece kranuk aysı ile ayılanmaldır.
 
 ii) 1-5 yaş așısızlar ve ikøğretım çağıda olup 2 dozdan az aşılı olanlar KKK aştsı ile
 
-il) Gerektiğinde diğer yaş grupları için de seçici bağısıklama çalısmaları
-
-yürütülmelidir. 1 yuş altına kızamık, 1 yaş ve uzerine ise KKK aşısı uygulanacaktır. Kızamık içeren iki aşı arasında bırakılması gereken süre en az 4 hafladır. 1 yaş alıında aşt uygulanmış olan bebeklere, 1 yaşını doldurduklarında iki aşı arasında bırakılması gereken en az süre göz önüne alınarak tekrar aş uygulanacaktır. Bu çocuklar, ilköğretim 1. sınıfa geldiklerinde tekrar aşılanacaktır.
+il) Gerektiğinde diğer yaş grupları için de seçici bağısıklama çalısmaları yürütülmelidir. 1 yuş altına kızamık, 1 yaş ve uzerine ise KKK aşısı uygulanacaktır. Kızamık içeren iki aşı arasında bırakılması gereken süre en az 4 hafladır. 1 yaş alıında aşt uygulanmış olan bebeklere, 1 yaşını doldurduklarında iki aşı arasında bırakılması gereken en az süre göz önüne alınarak tekrar aş uygulanacaktır. Bu çocuklar, ilköğretim 1. sınıfa geldiklerinde tekrar aşılanacaktır.
 
 e) Vakalar komplikasyonlar yönünden izlenmeli ve gerekli tedavinin uygulanması
 
@@ -683,9 +651,7 @@ birlikte Bölge Hızıssıhha Müdürlüğüne (BHM) gönderiniz: Omekler ilin b
 
 bulunduğu BHM'ye (Ek 9) günderilmelidir. Ornekler sıcak vaka olduğu için derhal
 
-BHM'ye gönderilecek şekilde planlama yapılmalıdır. Orneklerin nasıl gönderileceği
-
-konusunda daha detaylı bilgi için Ek 3'e bakımız
+BHM'ye gönderilecek şekilde planlama yapılmalıdır. Orneklerin nasıl gönderileceği konusunda daha detaylı bilgi için Ek 3'e bakımız
 
 3. Vaka Inceleme Formunu Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü
 
@@ -693,11 +659,7 @@ Daire Başkanlığı'na fakslayınız.
 
 4. İl içindeki tüm sağlık ocağ/aile hekimliklerini ve resmi/özel tüm sağlık kuruluşlarımı
 
-bilgilendiriniz ve bildirilmeyen vaka olup olmadığını arastırmız: Bu bilgilendirme,
-
-çevrede gerekli aşılama önlemlerinin alınması ve bildirimi yapılmamıy vakaların
-
-suptanması açısından Onemlidir. Uygulamaları izleyiniz. Not: Salgınlarda, vakalara müdahale eden saghk personelinin de önemli bir risk grubu olduğu ve aşılanmalarının gerektiği unutulmamalıdır.
+bilgilendiriniz ve bildirilmeyen vaka olup olmadığını arastırmız: Bu bilgilendirme, çevrede gerekli aşılama önlemlerinin alınması ve bildirimi yapılmamıy vakaların suptanması açısından Onemlidir. Uygulamaları izleyiniz. Not: Salgınlarda, vakalara müdahale eden saghk personelinin de önemli bir risk grubu olduğu ve aşılanmalarının gerektiği unutulmamalıdır.
 
 5. İl vaka cetvelini Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire
 
@@ -765,9 +727,7 @@ Daha detayh bilgi için Ek J'e bakınız.
 
 Şekil 7. Konjenital Kızamıkçık Sendromu Vaka Sınıflandırma Şeması
 
-Daha ileri Klinik Inceleme Laboratuvar Annede gebelikte Son Siniflandırma laboratuvar ve Incelemesi dogrulanmis eepidemiyolojik kızamıkçık hikayesi incelame gereken
-
-vaka! KKS değil
+Daha ileri Klinik Inceleme Laboratuvar Annede gebelikte Son Siniflandırma laboratuvar ve Incelemesi dogrulanmis eepidemiyolojik kızamıkçık hikayesi incelame gereken vaka! KKS değil
 
 Yok
 
@@ -837,9 +797,7 @@ Eepidemiyolojik bilginin yanı sıra, bir sürveyans sistemi bildirimin kalitesi
 
 • Yöksek oranda aşalı vaka: Yüksek aşı kapsaysıhğı olan bölge. Kızamık aşsının etkinlig
 
-%100 olmadığı için, bazı aşılı vakalar duyarlı kalarak kızamık geçirebilirler. Ancak aşılı vaka
-
-sayısı hızla artıyorsa, aşı etkihıliğini değerlendıriniz
+%100 olmadığı için, bazı aşılı vakalar duyarlı kalarak kızamık geçirebilirler. Ancak aşılı vaka sayısı hızla artıyorsa, aşı etkihıliğini değerlendıriniz
 
 • Yükaek oranda 1-5 yaş arası vaka Aşı kapsayıcılığı düşük bölge. Aşısız bölgede virüs
 

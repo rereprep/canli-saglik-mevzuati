@@ -9,7 +9,6 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-
 **SÖZLEŞMELİ PERSONEL ÇALIŞTIRILMASINA**
 
 **İLİŞKİN ESASLAR1**
@@ -643,9 +642,7 @@ Otelcilik ve Turizm Meslek Lisesi ve dengi okul mezunu
 
 EĞİTİCİ
 
-olmak, alanıyla ilgili literatürü takip edebilecek düzeyde
-
-yabancı dil bilmek.
+olmak, alanıyla ilgili literatürü takip edebilecek düzeyde yabancı dil bilmek.
 
 Yükseköğretim kurumlarının lisans düzeyinde eğitim
 
@@ -715,9 +712,7 @@ KAZA KIRIM UZMANI
 
 yükseköğretim kurumlarının makine bölümünden mezun
 
-olmak. Alanıyla ilgili literatürü takip edebilecek düzeyde
-
-yabancı dil bilmek.
+olmak. Alanıyla ilgili literatürü takip edebilecek düzeyde yabancı dil bilmek.
 
 KONSERVATÖR (5/8/2013 tarihli ve 2013/5212 sayılı BKK ile mülga.)
 
@@ -797,9 +792,7 @@ eğitim veren Arkeoloji, Edebiyat, Filoloji, Yabancı
 
 REDAKTÖR Diller, Sanat Tarihi, Tarih bölümlerinden mezun olup, alanıyla ilgili literatürü takip edebilecek düzeyde yabancı dil bilmek.
 
-Taşınır ve taşınmaz kültür varlıklarını koruma, onarım,
-
-restorasyon ve konservasyon konularında, üniversitelerin
+Taşınır ve taşınmaz kültür varlıklarını koruma, onarım, restorasyon ve konservasyon konularında, üniversitelerin
 
 ilgili ön lisans ve lisans programlarından mezun olmak
 
@@ -970,9 +963,7 @@ TEKNİSYEN
 
 Türkçe veya uluslar arası dillerden birisine vakıf olmak,
 
-Türkiye Cumhuriyeti vatandaşı olması halinde ise bulunulan
-
-ülke dilini veya bu ülkelerde geçerli uluslar arası dillerden birisini bildiğini belgelemek.
+Türkiye Cumhuriyeti vatandaşı olması halinde ise bulunulan ülke dilini veya bu ülkelerde geçerli uluslar arası dillerden birisini bildiğini belgelemek.
 
 1 05/01/2011 tarihli ve 27806 sayılı Resmî Gazete ile 31/12/2010 tarihli ve 27802 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan, Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına
 
@@ -992,6 +983,4 @@ UZMAN
 
 Türkçe veya uluslar arası dillerden birisine vakıf olmak,
 
-Türkiye Cumhuriyeti vatandaşı olması halinde ise bulunulan
-
-ülke dilini veya bu ülkelerde geçerli uluslar arası dillerden birisini bildiğini belgelemek.
+Türkiye Cumhuriyeti vatandaşı olması halinde ise bulunulan ülke dilini veya bu ülkelerde geçerli uluslar arası dillerden birisini bildiğini belgelemek.

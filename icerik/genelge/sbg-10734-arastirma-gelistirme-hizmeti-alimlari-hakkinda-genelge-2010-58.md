@@ -23,17 +23,13 @@ Bilindiği üzere 4734 Sayılı Kamu İhale Kanununun 3’üncü maddesinin (f) 
 
 Bu kapsamda Kamu İhale Kurumunun uygun görüşü alınarak Bakanlığımızca hazırlanan “Sağlık Bakanlığı Tarafından 4734 Sayılı Kamu İhale Kanununun 3’üncü Maddesinin (f) Bendi Kapsamında Yapılacak İhalelere İlişkin Esaslar” 23/06/2010 tarihli ve 2010/646 sayılı Bakanlar Kurulu Kararı üzerine 31/07/2010 tarihli ve 27658 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiş bulunmaktadır.
 
-Bu esaslara göre; 1- Bakanlığımız merkez ve taşra teşkilatı ile bağlı ve ilgili kuruluşlarından finansmanının tamamı
-
-kendileri tarafından karşılanacak olan (elde edilen sonuçların sadece kendi faaliyetlerinin
+Bu esaslara göre; 1- Bakanlığımız merkez ve taşra teşkilatı ile bağlı ve ilgili kuruluşlarından finansmanının tamamı kendileri tarafından karşılanacak olan (elde edilen sonuçların sadece kendi faaliyetlerinin
 
 yürütülmesinde faydalanıldığı haller hariç) her türlü araştırma ve geliştirme hizmet alımları; “**ihale**
 
 **yöntemi ile alım** (pazarlık usulü ve doğrudan temin)” veya “**kamu hizmet sunucularından**
 
-**protokol ile alım”** usullerinden birisiyle yapılabilecektir. 2- Tutarı her yıl Kamu İhale Kurumunca 4734 sayılı Kanunun 22’nci maddesinin (d) bendinde
-
-büyükşehir belediyesi sınırları dâhilinde bulunan idareler için öngörülen parasal sınırın on katına
+**protokol ile alım”** usullerinden birisiyle yapılabilecektir. 2- Tutarı her yıl Kamu İhale Kurumunca 4734 sayılı Kanunun 22’nci maddesinin (d) bendinde büyükşehir belediyesi sınırları dâhilinde bulunan idareler için öngörülen parasal sınırın on katına
 
 kadar olan hizmet alımları pazarlık usulü ile üç katına kadar olan hizmet alımları ise doğrudan
 
@@ -41,9 +37,7 @@ temin usulü ile yapılabilir ancak, belirlenen parasal sınırın on katını a
 
 4734 ve 4735 sayılı Kanun hükümlerine tabidir. 3- Her bir hizmet bedeli ayrı hesaplanmak üzere yaklaşık maliyeti Bir milyon Türk Lirasına kadar
 
-(Bir milyon Türk Lirası dâhil) olan araştırma ve geliştirme hizmet alımları kamu hizmet
-
-sunucuları arasında düzenlenecek protokolle temin edilebilecektir. 4- Bu Esaslar çerçevesinde hizmet alımı yapılmadan veya ihaleye çıkılmadan önce Bakanlık (Sağlık
+(Bir milyon Türk Lirası dâhil) olan araştırma ve geliştirme hizmet alımları kamu hizmet sunucuları arasında düzenlenecek protokolle temin edilebilecektir. 4- Bu Esaslar çerçevesinde hizmet alımı yapılmadan veya ihaleye çıkılmadan önce Bakanlık (Sağlık
 
 Eğitimi Genel Müdürlüğü) onayının alınması zorunludur.
 

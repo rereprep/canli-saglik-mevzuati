@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,9 +25,7 @@ Platformu (OpenWHO)
 
 DAĞITIM YERLERİNE
 
-Dünya Sağlık Teşkilatı (WHO) tarafından sağlık çalışanlarına yönelik online eğitimlerin hazırlandığı
-
-OpenWHO platformunda Türkçe olarak enfeksiyon önleme ve kontrolüne yönelik eğitimler yer almaktadır. Bu eğitimler enfeksiyon önleme ve kontrol çalışmalarına destek olması amacıyla sağlık çalışanları tarafından https://openwho.org/courses?q=&channel=&lang=tr&category=&topic= linki üzerinden takip edilebilmektedir.
+Dünya Sağlık Teşkilatı (WHO) tarafından sağlık çalışanlarına yönelik online eğitimlerin hazırlandığı OpenWHO platformunda Türkçe olarak enfeksiyon önleme ve kontrolüne yönelik eğitimler yer almaktadır. Bu eğitimler enfeksiyon önleme ve kontrol çalışmalarına destek olması amacıyla sağlık çalışanları tarafından https://openwho.org/courses?q=&channel=&lang=tr&category=&topic= linki üzerinden takip edilebilmektedir.
 
 Eğitimlerle ilgili bilgilendirmenin iliniz bünyesinde hizmet veren tüm sağlık kuruluşlarına yapılması hususunda;
 

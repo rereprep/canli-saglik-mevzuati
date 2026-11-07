@@ -304,17 +304,11 @@ Hızlandırılmıs stabilite testlerinde elde edilen veriler kinetik ve istatist
 
 -Etken madde içeriği <i>g-Tablet(Pellet) Tipindeki Preparatlar</i> 7-Hızlandırılmış Stabilite Testlerinde Preparat ġekline İlişkin İncelenecek **Kriterler:** <i>a-ltici</i> gaz içeren aerosol <i>tipi preparatlar.</i> **Ağırlık kaybı** 12 hafta boyunca dik tutularak ve yatırılarak 50
 
-derecede ağırlık kaybı incelenir **Soğuğa dayanıklılık** 4 hafta boyunca -10oC de tutulur ve dış görünüşü
-
-çalkalama ile karışma durumu, süspansiyon şeklinde ise
-
-danecik büyüklüğü değişimi kontrol edilir. Sıcaklık değişiminden Örnekler 4 hafta boyunca her 24 saat periyotla 4 oC ve **etkilenme** 40oC lerde tutulur.Muayene:Dış görünüşü çalkalama
+derecede ağırlık kaybı incelenir **Soğuğa dayanıklılık** 4 hafta boyunca -10oC de tutulur ve dış görünüşü çalkalama ile karışma durumu, süspansiyon şeklinde ise danecik büyüklüğü değişimi kontrol edilir. Sıcaklık değişiminden Örnekler 4 hafta boyunca her 24 saat periyotla 4 oC ve **etkilenme** 40oC lerde tutulur.Muayene:Dış görünüşü çalkalama
 
 ### ile karışma durumu gözlenir.
 
-**Parçalanma** Örnekler 40,50,60 C de 12 hafta tutulur.Ventil çalışma **reaksiyonunun** durumu,dış görünüşü,çalkalama ile karışma durumu,pH **incelenmesi** değeri,etken madde stabilitesi incelenir <i>b)İtici Gaz İçermeyen Aerosol Tipi Preparatlar:(Nebülizatör veya Atomizerler)</i> Işığa hassasiyet **ölçülür** 24 saat boyunca bir cam şişede ve orijinal ambalajı
-
-içinde xenon lambası altında tutulur.
+**Parçalanma** Örnekler 40,50,60 C de 12 hafta tutulur.Ventil çalışma **reaksiyonunun** durumu,dış görünüşü,çalkalama ile karışma durumu,pH **incelenmesi** değeri,etken madde stabilitesi incelenir <i>b)İtici Gaz İçermeyen Aerosol Tipi Preparatlar:(Nebülizatör veya Atomizerler)</i> Işığa hassasiyet **ölçülür** 24 saat boyunca bir cam şişede ve orijinal ambalajı içinde xenon lambası altında tutulur.
 
 <i>Muayene:</i>Dış görünüşü ve etken madde kontrolüdür **Soğuğa dayanıklılık** Çözelti 4 hafta boyunca
 
@@ -322,15 +316,11 @@ içinde xenon lambası altında tutulur.
 
 C de depolanır.Ve oda
 
-sıcaklığına getirilerek geri dönüşü olmayan
-
-değişikliklerin olup olmadığı gözlenir.
+sıcaklığına getirilerek geri dönüşü olmayan değişikliklerin olup olmadığı gözlenir.
 
 <i>Muayene:</i>Dış görünüş ve berraklık gözlenir. **Parçalanma kinetiği** Çözelti 81 C,71 C,61 C,51 C ,41 C lerde 12 hafta
 
-balon jojede tutulur. <i>Muayene:</i>Dış
-
-görünüşü,berraklık,etken madde parçalanması ve
+balon jojede tutulur. <i>Muayene:</i>Dış görünüşü,berraklık,etken madde parçalanması ve
 
 ### muhtevası kontrol edilir
 
@@ -346,11 +336,7 @@ değişimi,parçacık büyüklüğü analizi yapılır. Değişik sıcaklıklard
 
 necik büyüklüğü analizi yapılır.
 
-**Parçalanma kinetiği** 61 C,51 C ,41 C lerde 12 hafta depolanır. Balon
-
-jojelerde saklanır. <i>Muayene:</i>Dış görünüş,pH
-
-değeri,etken madde parçalanma durumu ve etken
+**Parçalanma kinetiği** 61 C,51 C ,41 C lerde 12 hafta depolanır. Balon jojelerde saklanır. <i>Muayene:</i>Dış görünüş,pH değeri,etken madde parçalanma durumu ve etken
 
 madde muhtevası incelenir. <i>d)Toz tipindeki preparatlar</i> Işığa hassasiyet Örnekler 24 boyunca xenon ışığında tutulur.
 
@@ -368,11 +354,7 @@ zamanı,serpiştirme durumu verilir. **Parçalanma kinetiği** Örnekler 2 farkl
 
 o
 
-C lerde 12 hafta boyunca hermetik(hiç hava
-
-almaksızın) kapatılmış kaplarda bekletilir.Deneye
-
-o
+C lerde 12 hafta boyunca hermetik(hiç hava almaksızın) kapatılmış kaplarda bekletilir.Deneye o
 
 başlamadan önce örnekler 21 C de % 55 ı bağıl
 
@@ -384,9 +366,7 @@ kadar tutulur.
 
 <i>Muayene:</i>Dış görünüş,ağırlık kaybı,etken madde
 
-parçalanma durumu ve etken madde
-
-muhtevası,serpiştirme durumu incelenir. <i>e)Çözelti şeklindeki preparatlar</i> Işığa hassasiyet Renksiz cam şişelerde ve orijinal ambalajlarında örnekler 24
+parçalanma durumu ve etken madde muhtevası,serpiştirme durumu incelenir. <i>e)Çözelti şeklindeki preparatlar</i> Işığa hassasiyet Renksiz cam şişelerde ve orijinal ambalajlarında örnekler 24
 
 ### saat xenon lambası ile ışınlanır.
 
@@ -442,9 +422,7 @@ belirtilecek varsa orijinalleri veya fotokopileri dosyasında bulundurulacaktır
 
 ### İNSEKTİSİT,RODENTİSİT VE MOLLUSİSİSTLERİN TOKSİSİTELERİNE GÖRE SINIFLANDIRILMASI
 
-a)İnsektisit deyiminde her çeşit ergin ve larva halindeki sinek,bit,pire,tahtakurusu,güve,örümcek, akrep,kırkayak,çıyan hamamböceği,kene gibi eklem bacaklıları yok etmek,kaçırmak için kullanılan maddeler,Rodentisit deyiminden fare gibi zararlı kemiricileri öldürmek gayesi ile kullanılan maddeler. Mollusisit deyiminden sümüklü böcek gibi yumuşakcaları öldürmek gayesi ile kullanılan maddeler anlaşılır. b)Ağız yolu ile akut LD deyiminden deneme hayvanlarına ağız yolu ile bir
-
-o defada verildiği zaman deneme hayvanlarının /a 50 sini öldüren doz anlaşılır.Ve deneme hayvanlarının vücut ağırlığının her kilogramı için mg. olarak ifade edilen doz ilacın etkili madde miktarıdır. c)Deri yolu ile akut LD tabiri ile deneme hayvanlarına deri yolu ile bir defada temas sureti ile verildiği zaman % 50 sini öldüren ve deneme hayvanlarının vücut ağırlığının her kilogramı için mg olarak ifade edilen doz o ilacın etkili madde konsantrasyonudur. d)Literatür:Aktif maddeye ve formülasyona ait yapılmış toksisite araştırmalarından bilimsel dergilerde yayınlanmış olanlar kastedilen fabrika çalışmaları literatür niteliği taşımaz yayına ait fotokopi veya ayrı baskılar gönderilebilir. e )Solunum yolu ile LD deyimi,solunum yolu ile deneme hayvanlarının
+a)İnsektisit deyiminde her çeşit ergin ve larva halindeki sinek,bit,pire,tahtakurusu,güve,örümcek, akrep,kırkayak,çıyan hamamböceği,kene gibi eklem bacaklıları yok etmek,kaçırmak için kullanılan maddeler,Rodentisit deyiminden fare gibi zararlı kemiricileri öldürmek gayesi ile kullanılan maddeler. Mollusisit deyiminden sümüklü böcek gibi yumuşakcaları öldürmek gayesi ile kullanılan maddeler anlaşılır. b)Ağız yolu ile akut LD deyiminden deneme hayvanlarına ağız yolu ile bir o defada verildiği zaman deneme hayvanlarının /a 50 sini öldüren doz anlaşılır.Ve deneme hayvanlarının vücut ağırlığının her kilogramı için mg. olarak ifade edilen doz ilacın etkili madde miktarıdır. c)Deri yolu ile akut LD tabiri ile deneme hayvanlarına deri yolu ile bir defada temas sureti ile verildiği zaman % 50 sini öldüren ve deneme hayvanlarının vücut ağırlığının her kilogramı için mg olarak ifade edilen doz o ilacın etkili madde konsantrasyonudur. d)Literatür:Aktif maddeye ve formülasyona ait yapılmış toksisite araştırmalarından bilimsel dergilerde yayınlanmış olanlar kastedilen fabrika çalışmaları literatür niteliği taşımaz yayına ait fotokopi veya ayrı baskılar gönderilebilir. e )Solunum yolu ile LD deyimi,solunum yolu ile deneme hayvanlarının
 
 5o genellikle belirli bir süre içinde %50 sini öldüren konsantrasyondur.mg/It hava olarak ifade edilen miktardır. f)Kronik toksisite deyimi ile insektisit,rodentisit ve mollusisitleri küçük miktarlarda uzun süreli alınmaları halinde sıcakkanlılarda meydana getirdiği fizyolojik düzensizlikler anlaşılır.
 

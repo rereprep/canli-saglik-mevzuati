@@ -23,9 +23,7 @@ Konu : Gebelere Grip Aşısı Uygulaması
 
 DAĞITIM YERLERİNE
 
-Ülkemizde 2007/27 sayılı genelge ile uygulamaya başlanan Anne Ölümleri İzleme Programı kapsamında bildirimi yapılan anne ölümleri, Genel Müdürlüğümüz Kadın ve Üreme Sağlığı Dairesi Başkanlığı Anne Ölümleri
-
-Ön İnceleme Komisyonunda görüşülmekte, her anne ölümü ICD 10 sınıflamasına ve Dünya Sağlık Örgütü tarafından belirlenen üç gecikme modeline göre değerlendirilmektedir. Yapılan bu değerlendirmeler sonucunda, influenza enfeksiyonunun anne ölüm nedenleri arasında önemli bir yer tuttuğu tespit edilmiştir. Dünya Sağlık Örgütü de gebeliğin 2’nci ve 3’üncü trimesteri grip sezonuna rastlayan gebelere grip aşısı yapılması gerektiğini belirtmektedir.
+Ülkemizde 2007/27 sayılı genelge ile uygulamaya başlanan Anne Ölümleri İzleme Programı kapsamında bildirimi yapılan anne ölümleri, Genel Müdürlüğümüz Kadın ve Üreme Sağlığı Dairesi Başkanlığı Anne Ölümleri Ön İnceleme Komisyonunda görüşülmekte, her anne ölümü ICD 10 sınıflamasına ve Dünya Sağlık Örgütü tarafından belirlenen üç gecikme modeline göre değerlendirilmektedir. Yapılan bu değerlendirmeler sonucunda, influenza enfeksiyonunun anne ölüm nedenleri arasında önemli bir yer tuttuğu tespit edilmiştir. Dünya Sağlık Örgütü de gebeliğin 2’nci ve 3’üncü trimesteri grip sezonuna rastlayan gebelere grip aşısı yapılması gerektiğini belirtmektedir.
 
 Bu kapsamda, ülkemizde influenza enfeksiyonundan kaynaklanan mortalite ve morbiditelerin önlenmesi için; ilinizde gebe izlemi yapılan ve gebelere poliklinik hizmeti verilen tüm sağlık kuruluşlarında influenza enfeksiyonu riski konusunda dikkatli olunması, gebelere aşı olmaları konusunda öneride bulunulması, gebelerde gelişebilecek influenza enfeksiyonu tanı ve tedavi süreçlerinde gecikmeye mahal verilmemesi, gerekli görülen vakaların yatarak tedavi altına alınması ve konunun hassasiyetle takip edilmesi hususlarında;
 

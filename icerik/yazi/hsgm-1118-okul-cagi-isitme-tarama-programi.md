@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,9 +25,7 @@ DAĞITIM YERLERİNE
 
 Ülkemizde 2015 yılından itibaren 81 ilde yürütülen Okul Çağı İşitme Tarama Programında amaç; okul çağı çocuklarda sonradan oluşan işitme kaybını erken dönemde saptamak, tanılamak ve rehabilite etmektir.
 
-Tarama programı kapsamında kamu/özel ilkokul 1. sınıfa giden öğrenciler, belirlenen protokoller çerçevesinde okul ortamında, işitme taraması konusunda Toplum Sağlığı Merkezi, Sağlıklı Hayat Merkezi, İl ve İlçe Sağlık
-
-Müdürlüğünde görevli eğitimli sağlık personeli tarafından odyometre cihazı ile taranmaktadır. Tarama sonucunda işitme kaybı şüphesi olan çocuklar Kulak Burun Boğaz Uzmanına sevk edilmektedir.
+Tarama programı kapsamında kamu/özel ilkokul 1. sınıfa giden öğrenciler, belirlenen protokoller çerçevesinde okul ortamında, işitme taraması konusunda Toplum Sağlığı Merkezi, Sağlıklı Hayat Merkezi, İl ve İlçe Sağlık Müdürlüğünde görevli eğitimli sağlık personeli tarafından odyometre cihazı ile taranmaktadır. Tarama sonucunda işitme kaybı şüphesi olan çocuklar Kulak Burun Boğaz Uzmanına sevk edilmektedir.
 
 Okul taramalarında maliyetinin etkin olabilmesi için tarama oranının en az %90 olması beklenmektedir.
 

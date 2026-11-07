@@ -172,9 +172,7 @@ Telesağlık ve Uygulama Geliştirme Dairesi Başkanlığı
 
 2. Giriş İşlemleri
 
-Uygulamaya https://vsd.saglik.gov.tr adresi kullanılarak girilir. Giriş işlemi T.C. Sağlık Bakanlığı
-
-Ortak Giriş Noktası Sistemi (https://ogn.saglik.gov.tr) ile yapılır.
+Uygulamaya https://vsd.saglik.gov.tr adresi kullanılarak girilir. Giriş işlemi T.C. Sağlık Bakanlığı Ortak Giriş Noktası Sistemi (https://ogn.saglik.gov.tr) ile yapılır.
 
 <i>Şekil 3 Giriş Ekranı</i>
 
@@ -236,9 +234,7 @@ Cihazın ayarlar kısmından local pacs ve iş listesi konfigürasyonunu girmek 
 
 **Kullanım Kılavuzu**
 
-Store kısmına local pacs bilgileri girilir. IP adresi, AE ve port bilgileri girildikten sonra Ok veya
-
-Kaydet ile çıkılır.
+Store kısmına local pacs bilgileri girilir. IP adresi, AE ve port bilgileri girildikten sonra Ok veya Kaydet ile çıkılır.
 
 **Akciğer Görüntüleme Sistemi Yardım ve**
 
@@ -268,9 +264,7 @@ Bu ekranda daha önceden iptal edilmiş istemler görülür.
 
 <i>Şekil 10 Çekim Kabul Butonuna Tıklama</i>
 
-2- Önceki adımda istem kabul ekranında çekim kaydı oluşturulan kayıt, yeni açılan Çekim Kabul
-
-Ekranında görülür.
+2- Önceki adımda istem kabul ekranında çekim kaydı oluşturulan kayıt, yeni açılan Çekim Kabul Ekranında görülür.
 
 <i>Şekil 11 Çekim Kaydı Görüntüleme</i>
 

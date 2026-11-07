@@ -29,15 +29,11 @@ Anne sağlığını iyileştirmek ve anne ölüm oranını azaltmak amacıyla Ba
 
 Hizmet içi eğitimlerin kurumsallaşması ve sürdürülebilirliğini sağlamak amacıyla 92
 
-Ana Çocuk Sağlığı ve Aile Planlaması Merkezi (AÇS/AP M) Üreme Sağlığı Eğitim Merkezi (ÜSEM), bunlardan 14 AÇS/AP Merkezi Üreme Sağlığı Bölgesel Eğitim Merkezi (ÜSBEM), 81 AÇS/AP Merkezi ise aile planlaması eğitim merkezi olarak hizmet vermektedir. Bu merkezlerden; ÜSEM’de biri doktor olmak üzere en az 3 üreme sağlığı eğitimcisi, ÜSBEM’de ikisi doktor olmak üzere en az 5 üreme sağlığı eğitimcisi, Aile Planlaması Uygulama Eğitim
-
-Merkezlerinde ise 2’si doktor olmak üzere en az 4 aile planlaması eğitimcisinin bulunması gerekmektedir.
+Ana Çocuk Sağlığı ve Aile Planlaması Merkezi (AÇS/AP M) Üreme Sağlığı Eğitim Merkezi (ÜSEM), bunlardan 14 AÇS/AP Merkezi Üreme Sağlığı Bölgesel Eğitim Merkezi (ÜSBEM), 81 AÇS/AP Merkezi ise aile planlaması eğitim merkezi olarak hizmet vermektedir. Bu merkezlerden; ÜSEM’de biri doktor olmak üzere en az 3 üreme sağlığı eğitimcisi, ÜSBEM’de ikisi doktor olmak üzere en az 5 üreme sağlığı eğitimcisi, Aile Planlaması Uygulama Eğitim Merkezlerinde ise 2’si doktor olmak üzere en az 4 aile planlaması eğitimcisinin bulunması gerekmektedir.
 
 Daire Başkanlığımızca yürütülmekte olan programlar kapsamında yürütülen hizmetiçi eğitimler ve halk eğitimleri dikkate alınarak bu kurumlarda olması gereken asgari eğitimci sayıları yukarıdaki şekilde belirlenmiştir.
 
-Üreme sağlığı ile ilgili eğitimlerin sürekliliğinin sağlanması için eğitim almış, yukarıda nitelikleri ve asgari sayıları belirtilen üreme sağlığı ve aile planlaması eğitimcilerinin AÇS/AP
-
-Merkezlerinde istihdam edilmeleri ve bu personelin diğer kurum ve kuruluşlarda görevlendirilmemeleri ve öncelikli olarak üreme sağlığı eğitimleri ve hizmet sunumunda görevlendirilmeleri hususunda
+Üreme sağlığı ile ilgili eğitimlerin sürekliliğinin sağlanması için eğitim almış, yukarıda nitelikleri ve asgari sayıları belirtilen üreme sağlığı ve aile planlaması eğitimcilerinin AÇS/AP Merkezlerinde istihdam edilmeleri ve bu personelin diğer kurum ve kuruluşlarda görevlendirilmemeleri ve öncelikli olarak üreme sağlığı eğitimleri ve hizmet sunumunda görevlendirilmeleri hususunda
 
 Bilgilerinizi ve gereğini rica ederim.
 

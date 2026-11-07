@@ -68,9 +68,7 @@ personel hariç kadrolu sağlık ve yardımcı sağlık hizmetleri sınıfı per
 
 j) (Ek bent: 23/10/2009 tarihli ve 198958 sayıl Bakan Onayı) Stratejik personel:
 
-Sağlık Bakanlığı Atama ve Nakil Yönetmeliğine göre Bakanlık tarafından
-
-istihdamında güçlük çekilen uzman tabip ve tabip unvanlarındaki personeli,
+Sağlık Bakanlığı Atama ve Nakil Yönetmeliğine göre Bakanlık tarafından istihdamında güçlük çekilen uzman tabip ve tabip unvanlarındaki personeli,
 
 k) **(Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Standart:**
 

@@ -33,9 +33,7 @@ bendinin birinci alt bendinde “<i>Ancak son on iki ayda birime müracaat etmey
 
 Bu kapsamda Bakanlık Makamının 21/07/2025 tarihli ve E-99858683-020-282666627 sayılı Onayı ile daha sık hizmet sunumu gereken sağlık programları kapsamındaki nüfus grupları için katsayıya esas müracaat süresi belirlenmiş, ilgi yazımız ile bildirim yapılmıştı.
 
-Bakanlık Makamının 4/8/2025 tarihli ve E-99858683-020-284154031 sayılı Onayı ile mezkur Makam
-
-Oluru’nun ikinci paragrafının “<i>Bu kapsamda birime başvurmayan nüfus gruplarının puan hesaplamasında;</i>
+Bakanlık Makamının 4/8/2025 tarihli ve E-99858683-020-284154031 sayılı Onayı ile mezkur Makam Oluru’nun ikinci paragrafının “<i>Bu kapsamda birime başvurmayan nüfus gruplarının puan hesaplamasında;</i>
 
 <i>Hastalık Yönetim Platformu Tarama ve Takip Kılavuzu çerçevesinde yılda birden daha sık başvuru gerektiren</i> <i>hizmet periyotlarının, altı aydan az olmamak kaydıyla esas alınmasını;”</i> şeklinde değiştirilmesi uygun görülmüştür.
 

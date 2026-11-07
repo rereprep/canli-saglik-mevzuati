@@ -358,9 +358,7 @@ Bu süre içinde başvuru yapılmaması halinde idarî yaptırım kararının ke
 
 İdarî para cezasına karşı kanun yoluna başvurmadan önce ödeme yapması halinde kendisinden ceza miktarının 3/4’ünün tahsil edileceği,
 
-Peşin ödemenin, kişinin bu karara karşı kanun yoluna başvurma hakkını etkilemeyeceği,
-
-hususlarında bilgi verildikten sonra kişinin karar tutanağını imzalaması istenecektir.
+Peşin ödemenin, kişinin bu karara karşı kanun yoluna başvurma hakkını etkilemeyeceği, hususlarında bilgi verildikten sonra kişinin karar tutanağını imzalaması istenecektir.
 
 Kişinin imzadan kaçınması hâlinde, bu durum İdarî Yaptırım Karar Tutanağı’nın “İdari Yaptırım Uygulanan Şahsın İmzası” bölümünde belirtilecektir. İdarî Yaptırım Karar Tutanağının bir nüshası ilgili kişiye verilecektir.
 
@@ -590,29 +588,29 @@ Tütünle mücadelede hızlı ve zamanında kararlar alınabilmesi, karar verici
 
 I. KİMLİK BİLGİLERİ
 
-a) Uyruğu | 
+a) Uyruğu |
 
-b) T.C. Kimlik No: | 
+b) T.C. Kimlik No: |
 
-c) Vergi Kimlik No: | 
+c) Vergi Kimlik No: |
 
-d) Adı Soyadı: | 
+d) Adı Soyadı: |
 
-e) Baba Adı: | 
+e) Baba Adı: |
 
-f) Doğum Tarihi ve Yeri | 
+f) Doğum Tarihi ve Yeri |
 
-g) Nüfusa Kayıtlı Olduğu İl | 
+g) Nüfusa Kayıtlı Olduğu İl |
 
-h) Nüfusa Kayıtlı Olduğu İlçe | 
+h) Nüfusa Kayıtlı Olduğu İlçe |
 
-I) Mahalle/Köy | 
+I) Mahalle/Köy |
 
-j) İkamet Adresi | 
+j) İkamet Adresi |
 
-k) Ev Tel | 
+k) Ev Tel |
 
-l) Cep Tel | 
+l) Cep Tel |
 
 II. İŞLENEN KABAHAT İLE İLGİLİ BİLGİLER
 
@@ -636,13 +634,13 @@ III. İDARİ YAPTIRIM KARARINI UYGULAYAN KAMU KURUM VE KURULUŞU GÖREVLİLERİ
 
 Görevli: 1 | Görevli : 2
 
-1. Adı Soyadı | 
+1. Adı Soyadı |
 
-2. Unvanı | 
+2. Unvanı |
 
-3. Birimi | 
+3. Birimi |
 
-4. İmza | 
+4. İmza |
 
 YASAL UYARILAR:
 
@@ -658,7 +656,7 @@ YASAL UYARILAR:
 
 SIRA NUMARASI | KABAHATİN | KABAHATİ İŞLEYENİN | İDARİ YAPTIRIM KARARININ TEBLİĞ/ TEFHİM TARİHİ | UYGULANAN İDARİ YAPTIRIM (İDARİ PARA CEZASI )
 
- | Türü/Fiili | Yeri | Tarihi ve Saati | Adı ve Soyadı | T.C. Kimlik No | İş veya İkamet adresi ve telefonları | İDARİ YAPTIRIM KARARININ TEBLİĞ/ TEFHİM TARİHİ | UYGULANAN İDARİ YAPTIRIM (İDARİ PARA CEZASI )
+| Türü/Fiili | Yeri | Tarihi ve Saati | Adı ve Soyadı | T.C. Kimlik No | İş veya İkamet adresi ve telefonları | İDARİ YAPTIRIM KARARININ TEBLİĞ/ TEFHİM TARİHİ | UYGULANAN İDARİ YAPTIRIM (İDARİ PARA CEZASI )
 
 NOT: 4207 SAYILI KANUN KAPSAMINDA UYGULANAN İDARİ PARA CEZALARI, İHLALİN TEKRARI HALİNDE BİR KAT ARTIRILIR. | Uygulanması Gereken İdari Ceza(2011 Mali Yılı İçin) | Cezai İşlem Uygulamaya Yetkili Merci
 
@@ -672,7 +670,7 @@ A4. Tütün ürünleriyle ilgili izmarit, paket, ağızlık, kâğıt ve benzeri
 
 A6. Tütün ürünlerine benzeyen şeker, sakız, oyuncak, kıyafet, takı vb. üreten, dağıtan, satan işyeri yada kişi var mı? | 24.600 TL’den 123.000 TL’ye Kadar İdari Para Cezası (4207 S.K. Md: 5/10) | Mahalli Mülki Amir
 
-A6. DİĞER (olumlu-olumsuz tespit, uygulama veya belirtmek istediğiniz husus var mı?) | 
+A6. DİĞER (olumlu-olumsuz tespit, uygulama veya belirtmek istediğiniz husus var mı?) |
 
 NOT: 4207 SAYILI KANUN KAPSAMINDA UYGULANAN İDARİ PARA CEZALARI, İHLALİN TEKRARI HALİNDE BİR KAT ARTIRILIR. | Uygulanması Gereken İdari Ceza | Cezai İşlem Uygulamaya Yetkili Merci
 
@@ -770,23 +768,23 @@ T | Diğer sınıflandırılmamış işyeri
 
 I-İDARİ YAPTIRIMIN MUHATABININ
 
-1-T.C.Kimlik No |  | 5-Adresi | 
+1-T.C.Kimlik No |  | 5-Adresi |
 
-2-Adı-Soyadı | 
+2-Adı-Soyadı |
 
-3-Doğum Yeri | 
+3-Doğum Yeri |
 
-4-Doğum Tarihi |  | 6-Telefon No | 
+4-Doğum Tarihi |  | 6-Telefon No |
 
 II-KABAHATA İLİŞKİN BİLGİLER
 
-1- İŞLETMENİN ADI: | 
+1- İŞLETMENİN ADI: |
 
-2-KABAHATİN İŞLENDİĞİ TARİH VE SAAT: | 
+2-KABAHATİN İŞLENDİĞİ TARİH VE SAAT: |
 
-3- İHLALİN KONUSU: | 
+3- İHLALİN KONUSU: |
 
-5-KABAHATLE İLGİLİ DELİLLER: | 
+5-KABAHATLE İLGİLİ DELİLLER: |
 
 6- İDARİ PARA CEZASININ MİKTARI | ………..……...TL(………………….……………TL)
 
@@ -802,140 +800,140 @@ Sıra No | İşletme Kodu | İşletme Adı | İşletme Adresi | Rutin | İhbar |
 
 İŞLETME KODU | TOPLAM İŞLETME SAYISI | DENETLENEN İŞLETME SAYISI | TOPLAM DENETİM SAYISI | İHLAL TESPİT EDİLEN İŞLETME SAYISI | İHLAL NEDENİYLE TUTULAN TUTANAK SAYISI | UYARI VERİLEN İŞLETME SAYISI | İDARİ PARA CEZASI VERİLEN İŞLETME SAYISI | İDARİ PARA CEZASI VERİLEN KİŞİ SAYISI
 
-K1 | 
+K1 |
 
-K2 | 
+K2 |
 
-K3 | 
+K3 |
 
-K4 | 
+K4 |
 
-K5 | 
+K5 |
 
-K6 | 
+K6 |
 
-L1 | 
+L1 |
 
-L2 | 
+L2 |
 
-L3 | 
+L3 |
 
-M | 
+M |
 
-N | 
+N |
 
-O | 
+O |
 
-P | 
+P |
 
-R | 
+R |
 
-S | 
+S |
 
-T | 
+T |
 
 CEZA KODU | A.1 | A.2 | A.3 | A.4 | B | C | D.1 | D.2 | E | F.1 | F.2 | F.3 | F.4 | F.5 | F.6 | F.7
 
 İŞLETME KODU | A.1 | A.2 | A.3 | A.4 | B | C | D.1 | D.2 | E | F.1 | F.2 | F.3 | F.4 | F.5 | F.6 | F.7
 
-K1 | 
+K1 |
 
-K2 | 
+K2 |
 
-K3 | 
+K3 |
 
-K4 | 
+K4 |
 
-K5 | 
+K5 |
 
-K6 | 
+K6 |
 
-L1 | 
+L1 |
 
-L2 | 
+L2 |
 
-L3 | 
+L3 |
 
-M | 
+M |
 
-N | 
+N |
 
-O | 
+O |
 
-P | 
+P |
 
-R | 
+R |
 
-S | 
+S |
 
-T | 
+T |
 
 İŞLETME KODU | TOPLAM İŞLETME SAYISI | DENETLENEN İŞLETME SAYISI | TOPLAM DENETİM SAYISI | İHLAL TESPİT EDİLEN İŞLETME SAYISI | İHLAL NEDENİYLE TUTULAN TUTANAK SAYISI | UYARI VERİLEN İŞLETME SAYISI | İDARİ PARA CEZASI VERİLEN İŞLETME SAYISI | İDARİ PARA CEZASI VERİLEN KİŞİ SAYISI
 
-K1 | 
+K1 |
 
-K2 | 
+K2 |
 
-K3 | 
+K3 |
 
-K4 | 
+K4 |
 
-K5 | 
+K5 |
 
-K6 | 
+K6 |
 
-L1 | 
+L1 |
 
-L2 | 
+L2 |
 
-L3 | 
+L3 |
 
-M | 
+M |
 
-N | 
+N |
 
-O | 
+O |
 
-P | 
+P |
 
-R | 
+R |
 
-S | 
+S |
 
-T | 
+T |
 
 CEZA KODU | A.1 | A.2 | A.3 | A.4 | B | C | D.1 | D.2 | E | F.1 | F.2 | F.3 | F.4 | F.5 | F.6 | F.7
 
 İŞLETME KODU | A.1 | A.2 | A.3 | A.4 | B | C | D.1 | D.2 | E | F.1 | F.2 | F.3 | F.4 | F.5 | F.6 | F.7
 
-K1 | 
+K1 |
 
-K2 | 
+K2 |
 
-K3 | 
+K3 |
 
-K4 | 
+K4 |
 
-K5 | 
+K5 |
 
-K6 | 
+K6 |
 
-L1 | 
+L1 |
 
-L2 | 
+L2 |
 
-L3 | 
+L3 |
 
-M | 
+M |
 
-N | 
+N |
 
-O | 
+O |
 
-P | 
+P |
 
-R | 
+R |
 
-S | 
+S |
 
-T | 
+T |

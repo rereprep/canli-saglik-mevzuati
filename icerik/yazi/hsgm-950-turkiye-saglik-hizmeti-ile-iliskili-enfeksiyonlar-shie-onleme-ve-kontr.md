@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Turkiye_Sa
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -26,11 +27,7 @@ Programı 2025-2029
 
 DAĞITIM YERLERİNE
 
-Sağlık hizmeti ile ilişkili enfeksiyonların önlenmesi ve kontrolü çalışmalarını güçlendirerek sağlık hizmeti sunumunda kaliteyi ve hasta güvenliğini artırmak amacıyla “Enfeksiyon Önleme ve Kontrol Danışma
-
-Kurulu”nun katkılarıyla ekte yer alan “Türkiye Sağlık Hizmeti ile İlişkili Enfeksiyonları (SHİE) Önleme ve
-
-Kontrol Programı 2025-2029” hazırlanmış ve yayımlanmıştır. Bu kapsamda; Programın uygulanması için tüm sağlık kurumlarında yönetim birimleri ile enfeksiyon kontrol komitelerinin bilgilendirilmesi hususunda;
+Sağlık hizmeti ile ilişkili enfeksiyonların önlenmesi ve kontrolü çalışmalarını güçlendirerek sağlık hizmeti sunumunda kaliteyi ve hasta güvenliğini artırmak amacıyla “Enfeksiyon Önleme ve Kontrol Danışma Kurulu”nun katkılarıyla ekte yer alan “Türkiye Sağlık Hizmeti ile İlişkili Enfeksiyonları (SHİE) Önleme ve Kontrol Programı 2025-2029” hazırlanmış ve yayımlanmıştır. Bu kapsamda; Programın uygulanması için tüm sağlık kurumlarında yönetim birimleri ile enfeksiyon kontrol komitelerinin bilgilendirilmesi hususunda;
 
 Gereğini rica/arz ederim.
 

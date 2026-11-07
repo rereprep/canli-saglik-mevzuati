@@ -25,13 +25,7 @@ DAĞITIM YERLERİNE
 
 14 Şubat 2019 tarihinde yayımlanan 2019/2 sayılı Cumhurbaşkanlığı Genelgesi ile Bağımlılıkla Mücadele
 
-Yüksek Kurulu (BMYK) oluşturulmuştur. 10 Ekim 2024 tarihinde gerçekleştirilen Bağımlılıkla Mücadele
-
-Yüksek Kurulu toplantısında alınan kararlar ile 2024-2028 Uyuşturucu ile Mücadele Ulusal Strateji Belgesi ve
-
-Eylem Planı, 2024-2028 Tütün Kontrolü Strateji Belgesi ve Eylem Planı, Davranışsal Bağımlılıklar ile Mücadele
-
-Ulusal Strateji Belgesi ve Eylem Planları ekte yer almaktadır. Bu kapsamda gerekli hazırlıkların yapılarak çalışmalara başlanması hususunda;
+Yüksek Kurulu (BMYK) oluşturulmuştur. 10 Ekim 2024 tarihinde gerçekleştirilen Bağımlılıkla Mücadele Yüksek Kurulu toplantısında alınan kararlar ile 2024-2028 Uyuşturucu ile Mücadele Ulusal Strateji Belgesi ve Eylem Planı, 2024-2028 Tütün Kontrolü Strateji Belgesi ve Eylem Planı, Davranışsal Bağımlılıklar ile Mücadele Ulusal Strateji Belgesi ve Eylem Planları ekte yer almaktadır. Bu kapsamda gerekli hazırlıkların yapılarak çalışmalara başlanması hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 

@@ -127,9 +127,7 @@ Eğer ev hemodiyaliz tedavisine katılmak isterseniz ve takip eden sorumlu uzman
 
 hemodiyalizinde diyaliz işlemi daha yavaş ve daha uzun sürede gerçekleştiğinden; hipotansiyon, bulantı- kusma, kramp gibi komplikasyonlar 4 saat süre ile merkezde yapılan
 
-standart hemodiyalize göre daha az sıklıkta görülecektir. Bu tür oluşabilecek komplikasyonları
-
-önlemeye yönelik olarak size ve/veya yardımcınıza; ateş, tansiyon ve nabız ölçümü, kuru
+standart hemodiyalize göre daha az sıklıkta görülecektir. Bu tür oluşabilecek komplikasyonları önlemeye yönelik olarak size ve/veya yardımcınıza; ateş, tansiyon ve nabız ölçümü, kuru
 
 ağırlık ayarlanması, sıvı çekimi ayarlaması, yüksek ve düşük tansiyona yaklaşım, bulantı,
 
@@ -249,9 +247,7 @@ hemodiyalizinde diyaliz işlemi daha yavaş ve daha uzun sürede gerçekleştiğ
 
 hipotansiyon, bulantı- kusma, kramp gibi komplikasyonlar 4 saat süre ile merkezde yapılan
 
-standart hemodiyalize göre daha az sıklıkta görülecektir. Bu tür oluşabilecek komplikasyonları
-
-önlemeye yönelik olarak size ve/veya yardımcınıza; ateş, tansiyon ve nabız ölçümü, kuru
+standart hemodiyalize göre daha az sıklıkta görülecektir. Bu tür oluşabilecek komplikasyonları önlemeye yönelik olarak size ve/veya yardımcınıza; ateş, tansiyon ve nabız ölçümü, kuru
 
 ağırlık ayarlanması, sıvı çekimi ayarlaması, yüksek ve düşük tansiyona yaklaşım, bulantı,
 

@@ -1075,9 +1075,7 @@ a) Sağlık kurum ve kuruluşlarında, sağlık hizmet sunumunun devamlılığı
 
 tıbbi iş ve işlemlerin gerektirdiği haberleşme ve yazışma hizmetlerini yürütür.
 
-b)Sağlık kurum ve kuruluşlarında randevu hizmetlerini ve hasta kabul işlemlerini
-
-yapar.
+b)Sağlık kurum ve kuruluşlarında randevu hizmetlerini ve hasta kabul işlemlerini yapar.
 
 c) Hastaya ait tıbbi ve idari kayıtları tutar, elektronik ve/veya sesli ortamlara kayıt edilen tıbbi verileri tıbbi belgelere dönüştürür.
 

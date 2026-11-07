@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Kizamik_Ki
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 DAİRE BAŞKANLIĞI
 
 T.C.
@@ -26,15 +27,11 @@ Kızamıkçık Sendromu sürveyansı Ortak
 
 DAĞITIM YERLERİNE
 
-Dünya Sağlık Örgütü (DSÖ) Avrupa Bölgesi’nin kızamık eliminasyon hedefine uyum doğrultusunda ülkemizde 2002 yılından itibaren Kızamık Eliminasyon Programı yürütülmektedir. “Kızamık ve Kızamıkçığın
-
-Eliminasyonu ile Konjenital Kızamıkçık Sendromu’nun Önlenmesi Programı” kapsamında; Türkiye’de kızamık ve kızamıkçığın elimine edilmesi, konjenital kızamıkçık sendromunun önlenmesi ve bu durumun sürdürülebilirliğinin sağlanması amaçlanmaktadır.
+Dünya Sağlık Örgütü (DSÖ) Avrupa Bölgesi’nin kızamık eliminasyon hedefine uyum doğrultusunda ülkemizde 2002 yılından itibaren Kızamık Eliminasyon Programı yürütülmektedir. “Kızamık ve Kızamıkçığın Eliminasyonu ile Konjenital Kızamıkçık Sendromu’nun Önlenmesi Programı” kapsamında; Türkiye’de kızamık ve kızamıkçığın elimine edilmesi, konjenital kızamıkçık sendromunun önlenmesi ve bu durumun sürdürülebilirliğinin sağlanması amaçlanmaktadır.
 
 Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Genişletilmiş Bağışıklama Programı (GBP)
 
-Hastalık Kontrol Programları Birimi tarafından yürütülen Kızamık, Kızamıkçık ve Konjenital Kızamıkçık
-
-Sendromu sürveyansı kapsamında, illerden iletilen bildirimler, saha raporları ve laboratuvar sonuçları hâlihazırda sorumlu personelin bireysel “@saglik.gov.tr” uzantılı e-posta adreslerine gönderilmektedir.
+Hastalık Kontrol Programları Birimi tarafından yürütülen Kızamık, Kızamıkçık ve Konjenital Kızamıkçık Sendromu sürveyansı kapsamında, illerden iletilen bildirimler, saha raporları ve laboratuvar sonuçları hâlihazırda sorumlu personelin bireysel “@saglik.gov.tr” uzantılı e-posta adreslerine gönderilmektedir.
 
 Sürveyans çalışmalarının birden fazla personel tarafından yürütülmesi nedeniyle bildirimlerin farklı kişilere yönlendirilebildiği görülmekte olup, iş akışının düzenli, koordineli ve izin dönemlerinde kesintisiz biçimde sürdürülebilmesi için yazışmaların tek bir iletişim kanalı üzerinden toplanmasına ihtiyaç duyulmuştur.
 

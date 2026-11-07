@@ -25,9 +25,7 @@ Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği’nde değişiklik öngören 
 
 Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği’nin 18 inci ve 21 inci maddelerinin ikinci fıkrasının (a)
 
-bendinin birinci alt bendinde diğer kişiler için nüfus puanına esas katsayıların, ilgili yaş gruplarının, sağlık kurumlarına yıllık başvuru sayısı, nüfus grubunun sağlık ihtiyaçları ile birim türüne göre her yılın ocak ayında
-
-Bakanlıkça belirleneceği düzenlenmiştir. 06.01.2026 tarihli ve E-99858683-020-300492575 sayılı Makam Onayı ile 2026 yılında uygulanmak üzere diğer kişiler için nüfus puanına esas katsayıların aile hekimleri ve aile sağlığı çalışanları için ekli tabloda yer alan şekilde belirlenmiş olup konuya ilişkin iş ve işlemlerin söz konusu düzenlemelere uygun şekilde yürütülmesi konusunda gerekli hassasiyetin gösterilmesi hususunda;
+bendinin birinci alt bendinde diğer kişiler için nüfus puanına esas katsayıların, ilgili yaş gruplarının, sağlık kurumlarına yıllık başvuru sayısı, nüfus grubunun sağlık ihtiyaçları ile birim türüne göre her yılın ocak ayında Bakanlıkça belirleneceği düzenlenmiştir. 06.01.2026 tarihli ve E-99858683-020-300492575 sayılı Makam Onayı ile 2026 yılında uygulanmak üzere diğer kişiler için nüfus puanına esas katsayıların aile hekimleri ve aile sağlığı çalışanları için ekli tabloda yer alan şekilde belirlenmiş olup konuya ilişkin iş ve işlemlerin söz konusu düzenlemelere uygun şekilde yürütülmesi konusunda gerekli hassasiyetin gösterilmesi hususunda;
 
 Bilgilerini ve gereğini arz ve rica ederim.
 

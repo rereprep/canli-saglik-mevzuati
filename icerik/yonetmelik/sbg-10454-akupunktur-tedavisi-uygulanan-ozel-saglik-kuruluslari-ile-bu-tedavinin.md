@@ -154,9 +154,7 @@ Akupunktur konusunda bilimsel çalışma yapmış Üniversite öğretim üyesi v
 
 Akupunktur sertifikası olan serbest çalışan iki hekim,
 
-Bakanlık; Temel Sağlık Hizmetleri Genel Müdürü veya yardımcısı, Tedavi Hizmetleri Genel Müdürü veya yardımcısı ile Bakanlık Birinci Hukuk Müşavirinden,
-
-teşekkül eder.
+Bakanlık; Temel Sağlık Hizmetleri Genel Müdürü veya yardımcısı, Tedavi Hizmetleri Genel Müdürü veya yardımcısı ile Bakanlık Birinci Hukuk Müşavirinden, teşekkül eder.
 
 Bilim komisyonu Genel Müdürlüğün teklifi ve Bakanın onayı ile oluşturulur. Seçilen üyeler üç yıl süre ile görev yaparlar. Üyeliğe tekrar seçilmek mümkündür.
 
@@ -434,34 +432,34 @@ Yukarıda açık kimliği yazılı olan sağlık personelinin ..................
 
 Not Bu Formda saptanan eksiklikleri Denetim ve Teftiş Defterine kaydediniz.
 
- | MEVZUAT İLE ÖNGÖRÜLEN DÜZENLEME | Mevzuata Uygun | Mevzuata Uygun Değil | Eksikliğin Giderilmesi İçin Verilecek Süre | Eksikliğin Devamında Faaliyet Durdurma Süresi
+| MEVZUAT İLE ÖNGÖRÜLEN DÜZENLEME | Mevzuata Uygun | Mevzuata Uygun Değil | Eksikliğin Giderilmesi İçin Verilecek Süre | Eksikliğin Devamında Faaliyet Durdurma Süresi
 
- | Uygunluk Belgesi var mı? | Var | Yok | * | Süresiz
+| Uygunluk Belgesi var mı? | Var | Yok | * | Süresiz
 
- | Kuruluşta çalışan bütün sağlık personelinin çalışma belgesi var mı? | Var | Yok | * | 5 gün
+| Kuruluşta çalışan bütün sağlık personelinin çalışma belgesi var mı? | Var | Yok | * | 5 gün
 
- | Kuruluştaki birim ve odaların nitelikleri mevzuata uygun mu? | Evet | Hayır | 1 ay | 5 gün
+| Kuruluştaki birim ve odaların nitelikleri mevzuata uygun mu? | Evet | Hayır | 1 ay | 5 gün
 
- | Muayene odalarında hekimlerin diploma, varsa uzmanlık belgelerinin aslı veya müdürlükçe onaylı örneği, Personel çalışma belgeleri asılları asılı mı? | Evet | Hayır | 5 gün
+| Muayene odalarında hekimlerin diploma, varsa uzmanlık belgelerinin aslı veya müdürlükçe onaylı örneği, Personel çalışma belgeleri asılları asılı mı? | Evet | Hayır | 5 gün
 
- | Bekleme salonunda; Uygunluk Belgesinin aslı, bütün sağlık personelinin isimlerinin bulunduğu tabelâ, muayene, tedavi ve uygulama ücretlerini gösterir liste, şikayetlerin yapılabileceği telefon numaralanın bulunduğu liste okunabilecek bir yerde asılı mı? | Evet | Hayır | 5gün | 5 gün
+| Bekleme salonunda; Uygunluk Belgesinin aslı, bütün sağlık personelinin isimlerinin bulunduğu tabelâ, muayene, tedavi ve uygulama ücretlerini gösterir liste, şikayetlerin yapılabileceği telefon numaralanın bulunduğu liste okunabilecek bir yerde asılı mı? | Evet | Hayır | 5gün | 5 gün
 
- | Kuruluşun isim ve unvanının yazılı olduğu dış tabela uygun mu? | Evet | Hayır | 1 ay | 10 gün
+| Kuruluşun isim ve unvanının yazılı olduğu dış tabela uygun mu? | Evet | Hayır | 1 ay | 10 gün
 
- | Kuruluşta kullanılan reçete mevzuata uygun mu? | Evet | Hayır | 5 gün
+| Kuruluşta kullanılan reçete mevzuata uygun mu? | Evet | Hayır | 5 gün
 
- | Kuruluşta bulundurulması zorunlu asgarî ilaç, tıbbî malzeme ve donanım var mı? | Var | Yok | 15 gün | 10 gün
+| Kuruluşta bulundurulması zorunlu asgarî ilaç, tıbbî malzeme ve donanım var mı? | Var | Yok | 15 gün | 10 gün
 
- | Kuruluşta hizmeti sunulmayan dallara ait tıbbî malzeme, donanım var mı? | Yok | Var | 15gün | 10 gün
+| Kuruluşta hizmeti sunulmayan dallara ait tıbbî malzeme, donanım var mı? | Yok | Var | 15gün | 10 gün
 
- | Kayıt ve bildirim sistemi yönetmelik hükümlerine uygun mu? | Evet | Hayır | 5 gün
+| Kayıt ve bildirim sistemi yönetmelik hükümlerine uygun mu? | Evet | Hayır | 5 gün
 
- | Akupunktur tedavisi uygulama sertifikası olmayan hekim tarafından tedavi uygulanıyor mu? | Evet | Hayır | * | 1 ay
+| Akupunktur tedavisi uygulama sertifikası olmayan hekim tarafından tedavi uygulanıyor mu? | Evet | Hayır | * | 1 ay
 
- | Akupunktur tedavisi kontrendikasyon durumunda yapılıyor mu? | Evet | Hayır | * | 1 ay
+| Akupunktur tedavisi kontrendikasyon durumunda yapılıyor mu? | Evet | Hayır | * | 1 ay
 
- | Kuruluşta reklam, tanıtım ve bilgilendirme yasağı ve düzenlenmesine uyuluyor mu? | Evet | Hayır | * | 10 gün
+| Kuruluşta reklam, tanıtım ve bilgilendirme yasağı ve düzenlenmesine uyuluyor mu? | Evet | Hayır | * | 10 gün
 
- | Hijyenik koşullar (ortam pis ve tozlu, tıbbi aletleri paslı ve kirli) uygun mu? | Evet | Hayır | * | 15 gün
+| Hijyenik koşullar (ortam pis ve tozlu, tıbbi aletleri paslı ve kirli) uygun mu? | Evet | Hayır | * | 15 gün
 
-Diğer Hususlar: | 
+Diğer Hususlar: |

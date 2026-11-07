@@ -49,9 +49,7 @@ personelin görev yeri esas alınarak belirlenen oranları,
 
 f) Birim Teşvik Katsayısı: İl Sağlık Müdürlüğü ve birimleri için Ek-3 sayılı tabloda
 
-personelin görev yeri esas alınarak belirlenen birim teşvik oranlarının birim teşvik hedef
-
-gerçekleșme katsayısı ile çarpımı sonucu bulunan (0) ile (1,00) arasında değişen
+personelin görev yeri esas alınarak belirlenen birim teşvik oranlarının birim teşvik hedef gerçekleșme katsayısı ile çarpımı sonucu bulunan (0) ile (1,00) arasında değişen
 
 g) Ek Teşvik Katsayısı: Personelin görev yeri, görev süresi, yapmış olduğu faaliyetler ile
 
@@ -63,9 +61,7 @@ h) İl Sağlık Müdürlüğü Birimleri: İlçe sağlık müdürlükleri, il am
 
 başhekimlikleri ve komuta kontrol merkezleri, 112 acil sağlık hizmetleri istasyonları, ElI-
 
-ElII rolündeki entegre ilçe devlet hastaneleri, toplum sağlığı merkezleri ve halk sağlığı
-
-laboratuvarlarıni,
+ElII rolündeki entegre ilçe devlet hastaneleri, toplum sağlığı merkezleri ve halk sağlığı laboratuvarlarıni,
 
 1) Kurum Hizmet Hedefleri: Bakanlık tarafından İl Sağlık Müdürlüğü ve birimleri için Ek-6
 

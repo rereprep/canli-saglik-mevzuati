@@ -27,31 +27,13 @@ Konu: Silme Laboratuvarlan
 
 (Halk Sağlığı Müdürlüğü)
 
-Bilindiği üzere 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşları'nı' Teşkilat ve Görevleri
+Bilindiği üzere 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşları'nı' Teşkilat ve Görevleri Hakkında Kanun Hültmünde Kararname 2/11/2011 tarihli ve 28103 (Mükerrer) sayılı Resmi Gazete'de yarmlanarak yürürlüğe girmiş ve Türkiye Halk Sağlığı Kurumlı yamlandırdmışur.
 
-Hakkında Kanun Hültmünde Kararname 2/11/2011 tarihli ve 28103 (Mükerrer) sayılı Resmi
+Bu kapsamda Mülga Sıtma Savaş Dairesi Başkanlığı Kurumumuz Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı bünyesinde tanımlanmıştır.
 
-Gazete'de yarmlanarak yürürlüğe girmiş ve Türkiye Halk Sağlığı Kurumlı yamlandırdmışur.
+17.08.2012 tarihli ve 6275 sayılı Başkanlık olun' ile Kurumumuz taşra teşkilattan olan Halk Sağlığı MüdürltIkleri bünyesinde görev yapmakla olan sıtma teşhis laboratuvarlan, Halk Sağlığı Laboratuvarlan bünyesinde hizmet verecek şekilde yapılanchnlmıştır. Yapılandırma sonucunda, laboratuvarlann birleştirilmesiyle, ulusal kaynakların tasarruflu kullanılması, nitelikli personelin verimliliğinin, tanı hizmetlerinin etkinliğinin ve kalitesinin arttırılması hususlannda fayda sağlayacağı beklenmelctedir.
 
-Bu kapsamda Mülga Sıtma Savaş Dairesi Başkanlığı Kurumumuz Zoonotik ve Vektörel
-
-Hastalıklar Daire Başkanlığı bünyesinde tanımlanmıştır.
-
-17.08.2012 tarihli ve 6275 sayılı Başkanlık olun' ile Kurumumuz taşra teşkilattan olan
-
-Halk Sağlığı MüdürltIkleri bünyesinde görev yapmakla olan sıtma teşhis laboratuvarlan, Halk
-
-Sağlığı Laboratuvarlan bünyesinde hizmet verecek şekilde yapılanchnlmıştır. Yapılandırma sonucunda, laboratuvarlann birleştirilmesiyle, ulusal kaynakların tasarruflu kullanılması, nitelikli personelin verimliliğinin, tanı hizmetlerinin etkinliğinin ve kalitesinin arttırılması hususlannda fayda sağlayacağı beklenmelctedir.
-
-Bu kapsamda, ilinizdeki sıtma laboratuvarlarının cihaz ve elcipmanlan ile birlikte Halk
-
-Sağlığı Laboratuvanna devredilmesi, sıtma savaş işçisi kadrosu haricindeki personelin tereihen
-
-Halk Sağlığı Laboratuvannda veya Halk Sağlığı Müdürlüğünce uygun görülen yerde istihdam edilmesi, sıtma savaş işçilerinin Bulaşıcı Hastalıklar Birimi koordinasyonunda tanı hizmetleri dışındaki diğer sıtma savaş hizmetlerinde görevIendirilmeleri ve bu işçilerin laboratuvarlarla ilgili halen yürütmekte oldukları iş ve işlemlerin devrinin ivedilikle gerçekleştirilmesi gerekmektedir. Bu kapsamda; söz konusu yapılandırma işlemlerinin en geç 31.12.2012 tarihine kadar gerçekleştirilerek Başkarılıgırnıza bilgi verilmesi, Başkanlık Merkez Teşkilatı ile yapılacak iletişimde, sıtma laboratuvar hizmetleri ve yapılandırma ile ilgili konularda Halk Sağlığı
-
-Laboratuvarlan Daire Başkanlığıyla, sıtma savaş hizmetleri ile ilgili konularda ise Zoonotik ve
-
-Vektlirel Hastalıklar Daire Başkanlığıyla koordinasyon sağlanması hususlannda;
+Bu kapsamda, ilinizdeki sıtma laboratuvarlarının cihaz ve elcipmanlan ile birlikte Halk Sağlığı Laboratuvanna devredilmesi, sıtma savaş işçisi kadrosu haricindeki personelin tereihen Halk Sağlığı Laboratuvannda veya Halk Sağlığı Müdürlüğünce uygun görülen yerde istihdam edilmesi, sıtma savaş işçilerinin Bulaşıcı Hastalıklar Birimi koordinasyonunda tanı hizmetleri dışındaki diğer sıtma savaş hizmetlerinde görevIendirilmeleri ve bu işçilerin laboratuvarlarla ilgili halen yürütmekte oldukları iş ve işlemlerin devrinin ivedilikle gerçekleştirilmesi gerekmektedir. Bu kapsamda; söz konusu yapılandırma işlemlerinin en geç 31.12.2012 tarihine kadar gerçekleştirilerek Başkarılıgırnıza bilgi verilmesi, Başkanlık Merkez Teşkilatı ile yapılacak iletişimde, sıtma laboratuvar hizmetleri ve yapılandırma ile ilgili konularda Halk Sağlığı Laboratuvarlan Daire Başkanlığıyla, sıtma savaş hizmetleri ile ilgili konularda ise Zoonotik ve Vektlirel Hastalıklar Daire Başkanlığıyla koordinasyon sağlanması hususlannda;
 
 Bilgilerini ve gereğini rica ederim.
 
@@ -93,9 +75,7 @@ VALILIĞINE
 
 ([laik Sağlığı Müdürlüğü)
 
-Birinci basanıak sağlık kunduşlannın istediği tetkiklerin uygun standartlarda Halk
-
-Sağlığı Laboratuvarlannda yapılabilirliginin sağlanması. analiz parametrelerinin istem sürecinin ve parametre çeşiti iliğinin belirlenmesi amacıyla 31.07.2012 günü yapılan komisyon toplantısında alınan kararlar ekle sunulmuştur.
+Birinci basanıak sağlık kunduşlannın istediği tetkiklerin uygun standartlarda Halk Sağlığı Laboratuvarlannda yapılabilirliginin sağlanması. analiz parametrelerinin istem sürecinin ve parametre çeşiti iliğinin belirlenmesi amacıyla 31.07.2012 günü yapılan komisyon toplantısında alınan kararlar ekle sunulmuştur.
 
 Bilgilerini ve iliniz dahilinde Halk Sağlığı Laboratuvarlanna ilişkin problemler& k e ihale süreelerinde dikkate alınması hususwıda:
 

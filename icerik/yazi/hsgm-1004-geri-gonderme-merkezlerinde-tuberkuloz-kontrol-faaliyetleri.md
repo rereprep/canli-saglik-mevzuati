@@ -25,9 +25,7 @@ Tüberküloz Kontrol Faaliyetleri
 
 DAĞITIM YERLERİNE
 
-İçişleri Bakanlığı ile Sağlık Bakanlığı arasında imzalanan Geri Gönderme Merkezlerinde İdari Gözetim
-
-Altındaki Yabancılara Sunulacak Sağlık Hizmetlerine İlişkin İş Birliği Protokolü” gereğince tüberküloz kontrol hizmetlerinin sunumunda karşılıklı koordinasyon ve iş birliğini güçlendirmek amacıyla bazı iş ve işlemlerin ivedi tesisine karar verilmiştir.
+İçişleri Bakanlığı ile Sağlık Bakanlığı arasında imzalanan Geri Gönderme Merkezlerinde İdari Gözetim Altındaki Yabancılara Sunulacak Sağlık Hizmetlerine İlişkin İş Birliği Protokolü” gereğince tüberküloz kontrol hizmetlerinin sunumunda karşılıklı koordinasyon ve iş birliğini güçlendirmek amacıyla bazı iş ve işlemlerin ivedi tesisine karar verilmiştir.
 
 Bu kapsamda;
 

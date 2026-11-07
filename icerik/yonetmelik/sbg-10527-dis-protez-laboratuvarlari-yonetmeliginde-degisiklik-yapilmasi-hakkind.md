@@ -339,9 +339,7 @@ Verilecek Süresi
 
 Süre 1 Mesul Müdürlük Belgesi var mı? Var Yok - Süresiz 2 Mesul Müdür görevinin baŞında mı? Evet Hayır - 2 Gün
 
-Laboratuvarda çalıŞan tüm sağlık personelinin ve diğer 3 personelin çalıŞma izni var mı? (görünür bir yerde asılı Var Yok 5 Gün 5 Gün
-
-olacaktır) 4 ÇalıŞanlar yetkili olduğu iŞlerde mi çalıŞıyor? Evet Hayır - 5 Gün
+Laboratuvarda çalıŞan tüm sağlık personelinin ve diğer 3 personelin çalıŞma izni var mı? (görünür bir yerde asılı Var Yok 5 Gün 5 Gün olacaktır) 4 ÇalıŞanlar yetkili olduğu iŞlerde mi çalıŞıyor? Evet Hayır - 5 Gün
 
 Laboratuvar birimlerine göre asgari cihaz, araç, gereç ve 5 Var Yok 1 Ay 7 Gün
 
@@ -369,13 +367,9 @@ Laboratuvar fiziki bölüm birim ve odaların nitelikleri 12 Evet Hayır 1 Ay 5 
 
 mevzuata uygun mu?
 
-Laboratuvarın bünyesinde kuruluŞ hizmetleri ile 13 Yok Var 7 Gün 7 Gün
+Laboratuvarın bünyesinde kuruluŞ hizmetleri ile 13 Yok Var 7 Gün 7 Gün bağdaŞmayacak birim var mı?
 
-bağdaŞmayacak birim var mı?
-
-Laboratuvarın isim ve unvanının yazılı olduğu dıŞ tabela 14 Evet Hayır 1 Ay 5 Gün
-
-faaliyet alanına uygun mu?
+Laboratuvarın isim ve unvanının yazılı olduğu dıŞ tabela 14 Evet Hayır 1 Ay 5 Gün faaliyet alanına uygun mu?
 
 KuruluŞta protokol defteri kayıtları düzenli tutuluyor 15 Evet Hayır 1 Ay 5 Gün
 

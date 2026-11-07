@@ -8,6 +8,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Egitim_Eki
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 **SAĞLIK BAKANLIĞI**
@@ -26,9 +27,7 @@ sağlıklarını koruyabilir ve sağlık sorunlarını çözebilir hâle getiril
 
 Ülke olarak anne ve bebek ölümlerinin engellenmesinde yakalamış olduğumuz başarının daha da iyiye gitmesi ve hizmet kalitesinin artırılması üreme sağlığı hizmetlerinin yürütülmesi ile mümkün olacaktır.
 
-Daire Başkanlığımız çalışmalarının sahada güçlendirilmesi ve sürekliliğinin sağlanması amacı ile illerimizdeki eğitimcilerimizin diğer kurum ve kuruluşlarda görevlendirilmemelerine ilişkin Bakanlığımızın 02.05.2011 tarihli ve 2178 sayılı yazısı ile 11.03.2014 tarihli ve 2014.5679.20202/32 sayılı yazıları gönderilmiştir. Ancak buna rağmen bazı illerimizde üreme sağlığı eğitimcilerinin başka yerlerde ve işlerde görevlendirilmelerinden dolayı çalışmalarda aksaklıklar yaşanmaktadır. Üreme sağlığı ile ilgili çalışmaların sürekliliğinin sağlanması için ilinizde aktif olarak çalışan eğitimcilerin
-
-AÇS/AP Eğitim Merkezlerinde (APEM-ÜSEM) istihdam edilmeleri, bu personelin diğer kurum-kuruluşlarda görevlendirilmemeleri ve öncelikli olarak üreme sağlığı eğitimleri ve hizmet sunumunda görevlendirilmeleri hususunda;
+Daire Başkanlığımız çalışmalarının sahada güçlendirilmesi ve sürekliliğinin sağlanması amacı ile illerimizdeki eğitimcilerimizin diğer kurum ve kuruluşlarda görevlendirilmemelerine ilişkin Bakanlığımızın 02.05.2011 tarihli ve 2178 sayılı yazısı ile 11.03.2014 tarihli ve 2014.5679.20202/32 sayılı yazıları gönderilmiştir. Ancak buna rağmen bazı illerimizde üreme sağlığı eğitimcilerinin başka yerlerde ve işlerde görevlendirilmelerinden dolayı çalışmalarda aksaklıklar yaşanmaktadır. Üreme sağlığı ile ilgili çalışmaların sürekliliğinin sağlanması için ilinizde aktif olarak çalışan eğitimcilerin AÇS/AP Eğitim Merkezlerinde (APEM-ÜSEM) istihdam edilmeleri, bu personelin diğer kurum-kuruluşlarda görevlendirilmemeleri ve öncelikli olarak üreme sağlığı eğitimleri ve hizmet sunumunda görevlendirilmeleri hususunda;
 
 Bilgilerinizi ve gereğini rica ederim.
 

@@ -28,24 +28,17 @@ b) 14.10.2025 tarihli ve E-41841288-703-291305830 sayılı yazı.
 
 Sürveyans faaliyetleri, 01.04.2010 tarihli ve 18617-2010/20 sayılı “Kızamık, Kızamıkçık ve Konjenital Kızamıkçık (KKS) Sürveyansı Genelgesi” ve 07.03.2025 tarihli ve 270414464 sayılı genel yazımız kapsamında yürütülmektedir. Bu kapsamda tüm şüpheli, olası ve kesin vakaların İZCİ Sistemine bildirilmesi ve ikinci bir talimata kadar Temel Sağlık İstatistikleri Modülü (TSİM) Kızamık/Kızamıkçık Vaka Cetveli’ne aylık olarak kaydedilmesi gerekmekteydi. Bilindiği üzere 01 Temmuz 2025 tarihi itibarıyla TSİM kullanıma kapatılmıştır.
 
-Ancak, Kızamık ve Kızamıkçığın Eliminasyonu ile Konjenital Kızamıkçık Sendromu’nun Önlenmesi
-
-Programı’nın veri ve raporlama ihtiyaçları mevcut diğer sistemlerle tam olarak karşılanamadığından; bu ihtiyacı geçici olarak karşılamak üzere, İl Sağlık Müdürlüklerinin Kızamık/Kızamıkçık Vaka Cetveli bildirimlerini elektronik ortamda kesintisiz olarak sürdürebilmelerini sağlamak amacıyla Sağlık Bilgi Sistemleri Genel Müdürlüğü ile görüşülmüş ve 14.10.2025 tarihli ve E-41841288-703-291305830 sayılı resmi yazıları ile **Çekirdek Kaynak Yönetim Sistemi (ÇKYS)** içerisinde yeni bir alt modül oluşturulması uygun bulunmuştur.
+Ancak, Kızamık ve Kızamıkçığın Eliminasyonu ile Konjenital Kızamıkçık Sendromu’nun Önlenmesi Programı’nın veri ve raporlama ihtiyaçları mevcut diğer sistemlerle tam olarak karşılanamadığından; bu ihtiyacı geçici olarak karşılamak üzere, İl Sağlık Müdürlüklerinin Kızamık/Kızamıkçık Vaka Cetveli bildirimlerini elektronik ortamda kesintisiz olarak sürdürebilmelerini sağlamak amacıyla Sağlık Bilgi Sistemleri Genel Müdürlüğü ile görüşülmüş ve 14.10.2025 tarihli ve E-41841288-703-291305830 sayılı resmi yazıları ile **Çekirdek Kaynak Yönetim Sistemi (ÇKYS)** içerisinde yeni bir alt modül oluşturulması uygun bulunmuştur.
 
 Geçmiş dönemlere ait veriler ilgili modüle aktarılmış olup sistem kullanıma açılmıştır.
 
-Bu kapsamda İl Sağlık Müdürlükleri ve sadece İstanbul için İlçe Sağlık Müdürlüklerinin ekte yer alan algoritma ve yetki tanımları çerçevesinde, her ayın 20’sine kadar Sağlık Bakanlığına gönderdikleri
-
-Kızamık/Kızamıkçık Vaka Cetveli bildirimlerini, **Kasım 2025 ayında Ekim 2025 dönemine ait verilerden başlamak üzere ÇKYS sistemi üzerinden yapmaları gerekmektedir.**
+Bu kapsamda İl Sağlık Müdürlükleri ve sadece İstanbul için İlçe Sağlık Müdürlüklerinin ekte yer alan algoritma ve yetki tanımları çerçevesinde, her ayın 20’sine kadar Sağlık Bakanlığına gönderdikleri Kızamık/Kızamıkçık Vaka Cetveli bildirimlerini, **Kasım 2025 ayında Ekim 2025 dönemine ait verilerden başlamak üzere ÇKYS sistemi üzerinden yapmaları gerekmektedir.**
 
 Ek-1’de detaylandırılan talimatlara göre, kullanıcı ve yetki tiplerine uygun olarak ilinizde görev yapan personele ÇKYS yetkisinin İl Sistem Yöneticisi (İl Admini) tarafından tanımlanması gerekmektedir.
 
 Uygulamanın kesintisiz yürütülebilmesi için gerekli bilgilendirmelerin Halk Sağlığı Hizmetleri Başkanlığı ve ilgili tüm personele yapılması; sürecin belirlenen iş kuralları doğrultusunda uygulanması hususunda,
 
 Bilgilerinizi ve gereğini rica ederim.
-
-
-
 
 Doç. Dr. Muhammed Emin DEMİRKOL
 
@@ -58,6 +51,3 @@ Ek: ÇKYS Kızamık Kızamıkçık Vaka Cetveli Kullanıcı Rolleri ve Yetki Tan
 Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-
-

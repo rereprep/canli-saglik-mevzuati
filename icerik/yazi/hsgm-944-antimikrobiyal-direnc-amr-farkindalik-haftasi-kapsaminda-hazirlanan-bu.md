@@ -33,9 +33,7 @@ Hazırlanan Bulmaca Kitabı
 
 DAĞITIM YERLERİNE
 
-Antimikrobiyal direnç, tüm dünyada olduğu gibi ülkemizde de hasta güvenliğini ve sağlık hizmetlerini tehdit eden öncelikli bir halk sağlığı sorunudur. Bu kapsamda Dünya Sağlık Örgütü'nün önerdiği Çok Bileşenli (Multimodal) Strateji doğrultusunda sağlık çalışanlarına yönelik farkındalık faaliyetleri yürütülmektedir. Bu çerçevede Genel Müdürlüğümüzce sağlık çalışanlarının ilgisini arttırmak, eğlenirken öğrenmeyi teşvik etmek ve klinik uygulamalarda bilgiyi pekiştirmek amacıyla ekte yer alan Antimikrobiyal Direnç Farkındalık Bulmaca
-
-Kitabı hazırlanmıştır. Bu kapsamda; kurumlarda sağlık çalışanları ile dijital olarak paylaşılması ve eğitim faaliyetlerinde destekleyici materyal olarak kullanılması hususunda;
+Antimikrobiyal direnç, tüm dünyada olduğu gibi ülkemizde de hasta güvenliğini ve sağlık hizmetlerini tehdit eden öncelikli bir halk sağlığı sorunudur. Bu kapsamda Dünya Sağlık Örgütü'nün önerdiği Çok Bileşenli (Multimodal) Strateji doğrultusunda sağlık çalışanlarına yönelik farkındalık faaliyetleri yürütülmektedir. Bu çerçevede Genel Müdürlüğümüzce sağlık çalışanlarının ilgisini arttırmak, eğlenirken öğrenmeyi teşvik etmek ve klinik uygulamalarda bilgiyi pekiştirmek amacıyla ekte yer alan Antimikrobiyal Direnç Farkındalık Bulmaca Kitabı hazırlanmıştır. Bu kapsamda; kurumlarda sağlık çalışanları ile dijital olarak paylaşılması ve eğitim faaliyetlerinde destekleyici materyal olarak kullanılması hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 

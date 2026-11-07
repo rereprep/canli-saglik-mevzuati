@@ -61,9 +61,7 @@ Belediye reisinin tahriren müracaatı ve en büyük mülkiye memurunun havalesi
 
 Umumi Hıfzıssıhha Kanununun 211 ve 218 inci maddelerine göre yapılacak muameleler bu hükümden müstesnadır.
 
-**Madde 6 –** Belediyelere devrolunan mezarlar ve mezarlıklardan tarihi kıymeti haiz olanlar Muhafazai Abidat
-
-Nizamnamesi mucibince muamele görür.
+**Madde 6 –** Belediyelere devrolunan mezarlar ve mezarlıklardan tarihi kıymeti haiz olanlar Muhafazai Abidat Nizamnamesi mucibince muamele görür.
 
 Bu mezarlarda kalmış olan kemikler, alakadarları tarafından istenilirse onlara verilir. Alakadarı yoksa belediye tarafından umumi mezarlıklara nakil ile muhafaza olunur.
 
@@ -193,9 +191,7 @@ Fasıl: 6
 
 **Madde 33 –** Fakirler ile kimsesi olmayan ölüler belediyece parasız kaldırılır, yıkattırılır ve gömülür.
 
-**Madde 34 –** Mezarlık memuru her gömme vukuunda gömülmüş kimsenin sicilini ve vefatı tarihini Dahiliye
-
-Vekaletince yapılacak cetvele yazarak en çok üç gün içinde mahalli nüfus idaresine bildirmeğe mecburdur.
+**Madde 34 –** Mezarlık memuru her gömme vukuunda gömülmüş kimsenin sicilini ve vefatı tarihini Dahiliye Vekaletince yapılacak cetvele yazarak en çok üç gün içinde mahalli nüfus idaresine bildirmeğe mecburdur.
 
 **Madde 35 –** Ölü gömüldükten sonra mezar sıra numarasını havi demirden bir levha mezarın baş ucuna vazı ve tesbit edilecektir.
 

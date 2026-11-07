@@ -122,9 +122,7 @@ ab) Başvuruya ilişkin;
 
 -şiddete uğrayan sağlık çalışanının şikâyetinin olup olmadığına bakılmaksızın, yöneticileri tarafından doldurulup imzalanan "ihbar dilekçesi",
 
--şiddete maruz kalan sağlık çalışanına imzalatılan "kişisel veri paylaşım bilgilendirme formu",
-
-ve olayı doğrulayan kanıtlar ve mevcut diğer bilgi ve belgeleri toplar ve sisteme girilmesini sağlar.
+-şiddete maruz kalan sağlık çalışanına imzalatılan "kişisel veri paylaşım bilgilendirme formu", ve olayı doğrulayan kanıtlar ve mevcut diğer bilgi ve belgeleri toplar ve sisteme girilmesini sağlar.
 
 ac) Bütün bilgi ve belgelerin asıllarını, bir sureti kendisinde kalacak şekilde 24 saat içerisinde il koordinatörlüğüne intikal ettirir. Sonradan elde edilen bilgi belgelerde aynı usulle intikal ettirilir.
 

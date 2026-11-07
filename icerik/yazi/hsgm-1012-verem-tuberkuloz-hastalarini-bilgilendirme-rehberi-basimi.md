@@ -19,9 +19,7 @@ Bilgilendirme Rehberi Basımı
 
 DAĞITIM YERLERİNE
 
-Tüberküloz (TB) hastalığı konusunda hasta ve hasta yakınlarını bilgilendirmek ve Türkiye’de tüberküloz kontrol faaliyetlerinin gelişimine katkı sağlamak amacıyla Başkanlığımızca “Verem (Tüberküloz) Hastalarını
-
-Bilgilendirme Rehberi” hazırlanmış olup hasta rehberi ve teknik şartname ekte gönderilmektedir.
+Tüberküloz (TB) hastalığı konusunda hasta ve hasta yakınlarını bilgilendirmek ve Türkiye’de tüberküloz kontrol faaliyetlerinin gelişimine katkı sağlamak amacıyla Başkanlığımızca “Verem (Tüberküloz) Hastalarını Bilgilendirme Rehberi” hazırlanmış olup hasta rehberi ve teknik şartname ekte gönderilmektedir.
 
 Söz konusu Rehbere Halk Sağlığı Genel Müdürlüğü, Tüberküloz Dairesi Başkanlığı internet sayfasındaki https://hsgm.saglik.gov.tr/tr/dokumanlar-tuberkuloz/rehberler.html bağlantısından ulaşılmaktadır.
 
@@ -49,9 +47,7 @@ Dağıtım:
 
 **TEKNİK ŞARTNAMESİ**
 
-**Madde 1) Genel Kurallar:** Rehberin pdf formatı Halk Sağlığı Genel Müdürlüğü, Tüberküloz
-
-Dairesi Başkanlığının internet sayfasından alınacaktır.
+**Madde 1) Genel Kurallar:** Rehberin pdf formatı Halk Sağlığı Genel Müdürlüğü, Tüberküloz Dairesi Başkanlığının internet sayfasından alınacaktır.
 
 **Madde 2)** Teknik özellikler aşağıda verilmiştir.
 
@@ -115,15 +111,11 @@ Ankara, 2025
 
 https://hsgm.saglik.gov.tr/tr/dokumanlar-tuberkuloz/rehberler.html
 
-Bu yayın T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Tüberküloz
-
-Dairesi Başkanlığı tarafından hazırlanmış ve yayımlanmıştır.
+Bu yayın T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü Tüberküloz Dairesi Başkanlığı tarafından hazırlanmış ve yayımlanmıştır.
 
 Her türlü yayın hakkı, Sağlık Bakanlığı’na aittir. Kaynak gösterilmeksizin alıntı yapılamaz. Kısmen dahi olsa alınamaz, çoğaltılamaz, yayımlanamaz.
 
-Alıntı yapıldığında kaynak gösterimi “Verem (Tüberküloz) Hastalarını
-
-Bilgilendirme Rehberi”, Sağlık Bakanlığı Yayın No, Ankara ve Yayın Tarihi şeklinde olmalıdır.
+Alıntı yapıldığında kaynak gösterimi “Verem (Tüberküloz) Hastalarını Bilgilendirme Rehberi”, Sağlık Bakanlığı Yayın No, Ankara ve Yayın Tarihi şeklinde olmalıdır.
 
 ÜÜccrreettssiizzddiirr.. PPaarraayyllaa ssaattııllaammaazz..
 
@@ -157,13 +149,7 @@ EDİTÖRLER
 
 Doç. Dr. Şuayıp BİRİNCİ Bakan Yardımcısı
 
-Doç. Dr. Muhammed Emin DEMİRKOL Halk Sağlığı Genel Müdürü
-
-Doç. Dr. Erdoğan ÖZ HSGM Genel Müdür Yardımcısı
-
-Dr. Edibe Nurzen NAMLI BOZKURT HSGM Tüberküloz Dairesi Başkanı
-
-Uzm. Dr. Senem YAZİCİ HSGM Tüberküloz Dairesi Başkanlığı
+Doç. Dr. Muhammed Emin DEMİRKOL Halk Sağlığı Genel Müdürü Doç. Dr. Erdoğan ÖZ HSGM Genel Müdür Yardımcısı Dr. Edibe Nurzen NAMLI BOZKURT HSGM Tüberküloz Dairesi Başkanı Uzm. Dr. Senem YAZİCİ HSGM Tüberküloz Dairesi Başkanlığı
 
 **VEREM (TÜBERKÜLOZ) HASTALARINI**
 
@@ -171,11 +157,7 @@ Uzm. Dr. Senem YAZİCİ HSGM Tüberküloz Dairesi Başkanlığı
 
 YAYINA HAZIRLAYANLAR
 
-Edibe Nurzen NAMLI BOZKURT HSGM Tüberküloz Dairesi Başkanı
-
-Senem YAZİCİ HSGM Tüberküloz Dairesi Başkanlığı
-
-Şeref ÖZKARA Atatürk Sanatoryum Eğitim ve Araştırma
+Edibe Nurzen NAMLI BOZKURT HSGM Tüberküloz Dairesi Başkanı Senem YAZİCİ HSGM Tüberküloz Dairesi Başkanlığı Şeref ÖZKARA Atatürk Sanatoryum Eğitim ve Araştırma
 
 Hastanesi
 
@@ -207,11 +189,7 @@ Başkanlığı
 
 Hüseyin ŞAHLAR HSGM Tüberküloz Dairesi Başkanlığı
 
-S. Murat MUTLU HSGM Tüberküloz Dairesi Başkanlığı
-
-Funda BAYKAL HSGM Tüberküloz Dairesi Başkanlığı
-
-Şükran GÖNÜLLER HSGM Tüberküloz Dairesi Başkanlığı
+S. Murat MUTLU HSGM Tüberküloz Dairesi Başkanlığı Funda BAYKAL HSGM Tüberküloz Dairesi Başkanlığı Şükran GÖNÜLLER HSGM Tüberküloz Dairesi Başkanlığı
 
 **VEREM (TÜBERKÜLOZ) HASTALARINI**
 
@@ -281,15 +259,9 @@ Tüberküloz, insanlık tarihi kadar eski bir hastalık olmasına rağmen halen 
 
 Ülkemizde tüberküloz kontrol hizmetleri “Veremsiz Bir Türkiye” hedefi ile yürütülmektedir.
 
-Küresel hedefler doğrultusunda güncelleyerek uygulamaya devam ettiğimiz Ulusal
+Küresel hedefler doğrultusunda güncelleyerek uygulamaya devam ettiğimiz Ulusal Tüberküloz Kontrol Programımız; Bakanlık teşkilatımız, tüm sağlık çalışanlarımız ve tüberküloza karşı mücadele eden gönüllü kuruluşlarımızın iş birliği ve katkıları ile kararlılıkla sürdürülmektedir.
 
-Tüberküloz Kontrol Programımız; Bakanlık teşkilatımız, tüm sağlık çalışanlarımız ve tüberküloza karşı mücadele eden gönüllü kuruluşlarımızın iş birliği ve katkıları ile kararlılıkla sürdürülmektedir.
-
-Erken tanı ve düzenli tedavinin son derece önemli olduğu tüberküloz hastalığında, hastaları etkin bir şekilde bilinçlendirmek, hasta yakınlarını ve toplumu bilgilendirmek amaçlı yapılan çalışmalar kapsamında Bakanlığımız tarafından 2011 yılında “Verem (Tüberküloz) Hastalarını ve Hasta Yakınlarını Bilgilendirme Rehberi” hazırlanmıştır. Danışma
-
-Kurulu kararları doğrultusunda geliştirilerek 2016 yılında “Verem (Tüberküloz) Bilgilendirme
-
-Rehberi ve Verem Hastalarının Hak ve Sorumlulukları” adı altında güncellenmiştir. Yeni gelişmeler ışığında 2025 yılında güncellenen bu son doküman ile hasta ve yakınlarını tüberküloz hakkında bilgilendirerek tedaviye uyum ve hastalığa karşı mücadelenin güçlendirilmesi amaçlanmıştır.
+Erken tanı ve düzenli tedavinin son derece önemli olduğu tüberküloz hastalığında, hastaları etkin bir şekilde bilinçlendirmek, hasta yakınlarını ve toplumu bilgilendirmek amaçlı yapılan çalışmalar kapsamında Bakanlığımız tarafından 2011 yılında “Verem (Tüberküloz) Hastalarını ve Hasta Yakınlarını Bilgilendirme Rehberi” hazırlanmıştır. Danışma Kurulu kararları doğrultusunda geliştirilerek 2016 yılında “Verem (Tüberküloz) Bilgilendirme Rehberi ve Verem Hastalarının Hak ve Sorumlulukları” adı altında güncellenmiştir. Yeni gelişmeler ışığında 2025 yılında güncellenen bu son doküman ile hasta ve yakınlarını tüberküloz hakkında bilgilendirerek tedaviye uyum ve hastalığa karşı mücadelenin güçlendirilmesi amaçlanmıştır.
 
 Tüm vatandaşlarımızın bilinçli bir katılımla tüberkülozla mücadelemizde yer alacağına inanıyor ve rehberin oluşturulmasında emeği geçen tüm ekibe teşekkürlerimi sunuyorum.
 
@@ -307,9 +279,7 @@ Sağlık Bakanı
 
 İÇİNDEKİLER
 
-1.Verem Nasıl Bir Hastalıktır?.........................................................................................................................11 2.Verem Basili Nasıl Bulaşır?...........................................................................................................................11 3.Veremin Bulaşması Nasıl Önlenebilir?....................................................................................................13 4.Bulaştırıcı Verem Hastası İle Karşılaşmanın Sağlıklı Kişilerdeki Sonuçları Nelerdir?................14 5.Verem Hastalığının Gelişmesi İçin Risk Faktörleri Nelerdir?........................................................15 6.Verem Hastalığı Hangi Organlarda Görülür?......................................................................................15 7.Verem Hastalığının Belirtileri Nelerdir?.................................................................................................16 8.Verem Hastalığı Tanısı Nasıl Konulur?...................................................................................................16 9.Verem Hastalığı Nasıl Tedavi Edilir?.......................................................................................................17 10.Doğrudan Gözetimli Tedavi (DGT) ve Video Gözetimli Tedavi (VGT) Nedir?.....................18 11.Tedavi Bittikten Sonraki Takipler Ne Zaman Yapılır?.....................................................................20 12. İlaca Dirençli Verem Nedir?.....................................................................................................................20 13.Verem Hastasının Temaslılarının Taraması Nasıl Yapılır?..............................................................21 14.Verem Koruyucu Tedavisi Nedir?............................................................................................................22 15.Çocukluk Çağında Verem Tanısı Nasıl Konulur ve Tedavisi Nasıl Yapılır?..............................23 16.Verem Aşısı (BCG) Uygulaması Nasıl Yapılır?......................................................................................23 17.Gebelerde Verem Nasıl Tedavi Edilir?..................................................................................................24 18.Emziren Annelerde Verem Nasıl Tedavi Edilir?.................................................................................24 19.Doğum Kontrol Haplarının Verem İlaçları İle Etkileşimi Var Mıdır?..........................................24 20.Verem ve HIV/AIDS’in Etkileşimi Var Mıdır?......................................................................................25 21.Verem İlaçlarının Yan Etkileri Nelerdir?...............................................................................................25 22.Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Programı...............26 23.Verem Hastalarına Ayni ve Nakdi Destek Sağlayabilecek Kurum ve Kuruluşlar
-
-Hangileridir?...................................................................................................................................27 24.Verem Tanı ve Tedavisi İle İlgili Kurumlar ve Kuruluşlar Hangileridir?......................................28 25.Verem Konusunda Mutlaka Yapılması Gerekenler Nelerdir?.....................................................29 26.Verem Hastalarının Hak ve Sorumlulukları.......................................................................................31
+1.Verem Nasıl Bir Hastalıktır?.........................................................................................................................11 2.Verem Basili Nasıl Bulaşır?...........................................................................................................................11 3.Veremin Bulaşması Nasıl Önlenebilir?....................................................................................................13 4.Bulaştırıcı Verem Hastası İle Karşılaşmanın Sağlıklı Kişilerdeki Sonuçları Nelerdir?................14 5.Verem Hastalığının Gelişmesi İçin Risk Faktörleri Nelerdir?........................................................15 6.Verem Hastalığı Hangi Organlarda Görülür?......................................................................................15 7.Verem Hastalığının Belirtileri Nelerdir?.................................................................................................16 8.Verem Hastalığı Tanısı Nasıl Konulur?...................................................................................................16 9.Verem Hastalığı Nasıl Tedavi Edilir?.......................................................................................................17 10.Doğrudan Gözetimli Tedavi (DGT) ve Video Gözetimli Tedavi (VGT) Nedir?.....................18 11.Tedavi Bittikten Sonraki Takipler Ne Zaman Yapılır?.....................................................................20 12. İlaca Dirençli Verem Nedir?.....................................................................................................................20 13.Verem Hastasının Temaslılarının Taraması Nasıl Yapılır?..............................................................21 14.Verem Koruyucu Tedavisi Nedir?............................................................................................................22 15.Çocukluk Çağında Verem Tanısı Nasıl Konulur ve Tedavisi Nasıl Yapılır?..............................23 16.Verem Aşısı (BCG) Uygulaması Nasıl Yapılır?......................................................................................23 17.Gebelerde Verem Nasıl Tedavi Edilir?..................................................................................................24 18.Emziren Annelerde Verem Nasıl Tedavi Edilir?.................................................................................24 19.Doğum Kontrol Haplarının Verem İlaçları İle Etkileşimi Var Mıdır?..........................................24 20.Verem ve HIV/AIDS’in Etkileşimi Var Mıdır?......................................................................................25 21.Verem İlaçlarının Yan Etkileri Nelerdir?...............................................................................................25 22.Tüberküloz Hastalarına Yönelik Şartlı ve Düzenli Nakdi Sosyal Yardım Programı...............26 23.Verem Hastalarına Ayni ve Nakdi Destek Sağlayabilecek Kurum ve Kuruluşlar Hangileridir?...................................................................................................................................27 24.Verem Tanı ve Tedavisi İle İlgili Kurumlar ve Kuruluşlar Hangileridir?......................................28 25.Verem Konusunda Mutlaka Yapılması Gerekenler Nelerdir?.....................................................29 26.Verem Hastalarının Hak ve Sorumlulukları.......................................................................................31
 
 **VEREM (TÜBERKÜLOZ) HASTALARINI**
 
@@ -323,13 +293,9 @@ C. Veremin Kontrolüne Hastaların Katılımı..................................
 
 D. Türkiye’deki Yabancı Ülke Doğumlu Kişilerde Tüberküloz Kontrolü......................................34
 
-Verem (Tüberküloz) Hasta İle Hasta Yakınlarını Bilgilendirme ve Rıza Formu (Hasta
+Verem (Tüberküloz) Hasta İle Hasta Yakınlarını Bilgilendirme ve Rıza Formu (Hasta Kopyası)............................................................................................................................................................35
 
-Kopyası)............................................................................................................................................................35
-
-Verem (Tüberküloz) Hastaları İle Hasta Yakınlarını Bilgilendirme ve Rıza Formu (VSD/
-
-Sağlık Kurumu Kopyası)..............................................................................................................................37
+Verem (Tüberküloz) Hastaları İle Hasta Yakınlarını Bilgilendirme ve Rıza Formu (VSD/ Sağlık Kurumu Kopyası)..............................................................................................................................37
 
 **VEREM (TÜBERKÜLOZ) HASTALARINI**
 
@@ -507,9 +473,7 @@ Verem tedavisi sırasında ilaçların çok sayıda ve uzun süre kullanılması
 
 ve ilaçlar etkisiz hale gelebilir (ilaçlara direnç gelişebilir).
 
-Özel bir durum olmadıkça tedavi başlangıcından sonra tedavi
-
-tamamlanana kadar hastalar her ay verem savaşı dispanserlerine (VSD)
+Özel bir durum olmadıkça tedavi başlangıcından sonra tedavi tamamlanana kadar hastalar her ay verem savaşı dispanserlerine (VSD)
 
 çağırılarak kontrol muayeneleri yapılır.
 
@@ -725,9 +689,7 @@ Cilt döküntüsü, kaşıntı,
 
 İştahsızlık, bulantı, kusma, karın ağrısı,
 
-Görme bozukluğu, bulanık görme, kırmızı/yeşil renk ayırımında bozulma,
-
-Grip benzeri yakınmalar,
+Görme bozukluğu, bulanık görme, kırmızı/yeşil renk ayırımında bozulma, Grip benzeri yakınmalar,
 
 Eklem ağrısı,
 
@@ -771,13 +733,7 @@ Yan etki riskini artıran karaciğer ve böbrek hastalığı gibi durumlarda ila
 
 DÜZENLİ NAKDİ SOSYAL YARDIM PROGRAMI
 
-Verem hastalarının tedavisine destek olmak amacıyla, Sağlık Bakanlığı ile
-
-Aile ve Sosyal Hizmetler Bakanlığı arasında 12.12.2017 tarihinde imzalanan protokol ile TB hastalarına şartlı ve düzenli nakdi sosyal yardım verilmeye başlanmıştır. Ekonomik ve sosyal güçlük yaşadığı “Sosyal Yardımlaşma ve
-
-Dayanışma Vakfı” tarafından tespit edilen tüberküloz hastalarına, ilaçlarını
-
-DGT ile düzenli bir şekilde alması koşuluyla tedavi süresince nakdi yardım verilmektedir.
+Verem hastalarının tedavisine destek olmak amacıyla, Sağlık Bakanlığı ile Aile ve Sosyal Hizmetler Bakanlığı arasında 12.12.2017 tarihinde imzalanan protokol ile TB hastalarına şartlı ve düzenli nakdi sosyal yardım verilmeye başlanmıştır. Ekonomik ve sosyal güçlük yaşadığı “Sosyal Yardımlaşma ve Dayanışma Vakfı” tarafından tespit edilen tüberküloz hastalarına, ilaçlarını DGT ile düzenli bir şekilde alması koşuluyla tedavi süresince nakdi yardım verilmektedir.
 
 **VEREM (TÜBERKÜLOZ) HASTALARINI**
 
@@ -787,9 +743,7 @@ Yardım alabilmek için şartlar:
 
 1. Türkiye Cumhuriyeti vatandaşı olmak
 
-2. Tedavinin Verem Savaşı Dispanseri (VSD) tarafından yürütülmesi ve Ulusal
-
-Tüberküloz Sistemi’ne (UTS) kayıtlı olmak
+2. Tedavinin Verem Savaşı Dispanseri (VSD) tarafından yürütülmesi ve Ulusal Tüberküloz Sistemi’ne (UTS) kayıtlı olmak
 
 3. Halen TB tedavisi alıyor olmak
 
@@ -797,15 +751,9 @@ Tüberküloz Sistemi’ne (UTS) kayıtlı olmak
 
 tarafından onaylanması gereklidir.
 
-Yardıma başvuru, hastanın kayıtlı olduğu dispanser tarafından ‘’UTS Sosyal
+Yardıma başvuru, hastanın kayıtlı olduğu dispanser tarafından ‘’UTS Sosyal Yardım Modülü’’ üzerinden online olarak yapılır. İl Sağlık Müdürlüğü yetkilisi tarafından onaylanınca, sistem tarafından Aile ve Sosyal Hizmetler Bakanlığı (ASHB) sistemine gönderilir. İl Sağlık Müdürlüğü yetkilisi tarafından onaylanınca hasta; Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS)’nde kayıtlı bulunan yerleşim yerindeki Sosyal Yardımlaşma ve Dayanışma Vakfı’na (kendisi veya aynı hanede ikamet eden yasal velisi/vasisi) müracaat eder.
 
-Yardım Modülü’’ üzerinden online olarak yapılır. İl Sağlık Müdürlüğü yetkilisi tarafından onaylanınca, sistem tarafından Aile ve Sosyal Hizmetler
-
-Bakanlığı (ASHB) sistemine gönderilir. İl Sağlık Müdürlüğü yetkilisi tarafından onaylanınca hasta; Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS)’nde kayıtlı bulunan yerleşim yerindeki Sosyal Yardımlaşma ve Dayanışma Vakfı’na (kendisi veya aynı hanede ikamet eden yasal velisi/vasisi) müracaat eder.
-
-Taleplerin değerlendirilmesi ve karara bağlanması Sosyal Yardımlaşma ve
-
-Dayanışma Vakfı’nın yetki ve sorumluluğundadır.
+Taleplerin değerlendirilmesi ve karara bağlanması Sosyal Yardımlaşma ve Dayanışma Vakfı’nın yetki ve sorumluluğundadır.
 
 Yardım almaya hak kazanan hastaya, DGT uygulaması ile tedavisini devam ettirdiği süreç boyunca, bu yardım Aile ve Sosyal Hizmetler Bakanlığı’ndan hastanın hesabına doğrudan aktarım sağlanarak gerçekleştirilir.
 
@@ -817,15 +765,11 @@ Konu ile ilgili detaylı bilgiler Tüberküloz Dairesi Başkanlığı (TBDB) int
 
 SAĞLAYABİLECEK KURUM VE KURULUŞLAR HANGİLERİDİR?
 
-Aile ve Sosyal Hizmetler Bakanlığı Sosyal Yardımlar Genel Müdürlüğüne
-
-Bağlı Kurumlar,
+Aile ve Sosyal Hizmetler Bakanlığı Sosyal Yardımlar Genel Müdürlüğüne Bağlı Kurumlar,
 
 Belediyelerin Sosyal Yardım İşleri Müdürlükleri,
 
-Kaymakamlık bünyesindeki Sosyal Yardımlaşma ve Dayanışma Vakıfları,
-
-Verem Savaşı Dernekleri.
+Kaymakamlık bünyesindeki Sosyal Yardımlaşma ve Dayanışma Vakıfları, Verem Savaşı Dernekleri.
 
 **VEREM (TÜBERKÜLOZ) HASTALARINI**
 
@@ -847,19 +791,13 @@ Aile Sağlığı Merkezleri ve Aile Hekimleri; kendilerine kayıtlı verem hasta
 
 Aile Sağlığı Merkezleri ve VSD çalışmalarını koordine eder, denetimlerini gerçekleştirir.
 
-Referans hastaneleri, veremin tedavisi konusunda uzmanlaşmış
-
-hastanelerdir. Bu hastaneler Ankara, Diyarbakır, Erzurum, İstanbul ve
-
-İzmir’de bulunmaktadırlar. Verem hastalarının tanısı, tedavisi, takibi konusunda (ayakta ya da yatırarak) görev yaparlar. Dirençli verem hastalarının tedavi ve kontrollerini yaparlar.
+Referans hastaneleri, veremin tedavisi konusunda uzmanlaşmış hastanelerdir. Bu hastaneler Ankara, Diyarbakır, Erzurum, İstanbul ve İzmir’de bulunmaktadırlar. Verem hastalarının tanısı, tedavisi, takibi konusunda (ayakta ya da yatırarak) görev yaparlar. Dirençli verem hastalarının tedavi ve kontrollerini yaparlar.
 
 Yetişkin Tüberküloz Referans Hastaneleri;
 
 Ankara Ankara Atatürk Sanatoryum EAH
 
-İstanbul İstanbul Süreyyapaşa Göğüs Hastalıkları ve Göğüs Cerrahisi EAH
-
-İstanbul Yedikule Göğüs Hastalıkları ve Göğüs Cerrahisi EAH
+İstanbul İstanbul Süreyyapaşa Göğüs Hastalıkları ve Göğüs Cerrahisi EAH İstanbul Yedikule Göğüs Hastalıkları ve Göğüs Cerrahisi EAH
 
 İzmir İzmir Dr. Suat Seren Göğüs Hastalıkları ve Göğüs Cerrahisi EAH 28
 
@@ -871,9 +809,7 @@ Ankara Ankara Atatürk Sanatoryum EAH
 
 Ankara T.C. Sağlık Bakanlığı Ankara Bilkent Şehir Hastanesi
 
-Diyarbakır T.C. Sağlık Bakanlığı Diyarbakır Çocuk Hastalıkları Hastanesi
-
-İstanbul T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik EAH
+Diyarbakır T.C. Sağlık Bakanlığı Diyarbakır Çocuk Hastalıkları Hastanesi İstanbul T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik EAH
 
 İzmir T.C. Sağlık Bakanlığı İzmir Dr. Behçet Uz Çocuk Hastalıkları ve
 
@@ -923,9 +859,7 @@ Dengeli beslenilmeli, sigara ve alkolden uzak durulmalı, sağlıklı yaşam kur
 
 Bulaştırıcı oldukları dönemde; evde mümkünse ayrı bir odada istirahat etmeleri iş yeri ve okul gibi kalabalık ortamlarda bulunmamaları, seyahat etmemeleri gerekmektedir.
 
-İl dışına/yurt dışına çıkılması zorunlu durumlarda veya ikamet adresi değişikliğinde mutlaka tedaviyi takip eden VSD hekimi ile ve DGT ya da
-
-VGT yetkilisiyle irtibat kurulmalıdır.
+İl dışına/yurt dışına çıkılması zorunlu durumlarda veya ikamet adresi değişikliğinde mutlaka tedaviyi takip eden VSD hekimi ile ve DGT ya da VGT yetkilisiyle irtibat kurulmalıdır.
 
 **VEREM (TÜBERKÜLOZ) HASTALARINI**
 
@@ -983,9 +917,7 @@ c. Her hasta tedavisini tehlikeye atmamak şartıyla bilimsel araştırma progra
 
 5. GİZLİLİK HAKKI
 
-Verem hastasına uygulanan her türlü tıbbi müdahale, hastanın
-
-mahremiyetine saygı gösterilmek suretiyle icra edilir. Verem hastasının mahremiyete saygı gösterilmesi ve bunu istemek hakkı bulunmaktadır.
+Verem hastasına uygulanan her türlü tıbbi müdahale, hastanın mahremiyetine saygı gösterilmek suretiyle icra edilir. Verem hastasının mahremiyete saygı gösterilmesi ve bunu istemek hakkı bulunmaktadır.
 
 a. Her hasta özel hayatının mahremiyetine, şeref, dinsel inanç ve kültürüne saygı gösterilmesini bekleme hakkına sahiptir.
 
@@ -1003,15 +935,11 @@ B. HASTA SORUMLULUKLARI
 
 a. Hastalar, sağlık görevlilerine yakınmalarını, daha önce geçirdiği hastalıkları, gördüğü tedavileri ve tıbbi müdahaleleri, eğer varsa halen kullandığı ilaçları ve sağlığıyla ilgili bilgileri mümkün olduğunca eksiksiz ve doğru olarak vermekle sorumludur.
 
-b. Hasta sağlık görevlilerine yakın aile çevresi, arkadaşları ve temas sonucu hastalığa yakalanmış olabilecek diğer kişilere erişmek amacıyla
-
-Bakanlığa yardımcı olur.
+b. Hasta sağlık görevlilerine yakın aile çevresi, arkadaşları ve temas sonucu hastalığa yakalanmış olabilecek diğer kişilere erişmek amacıyla Bakanlığa yardımcı olur.
 
 2. TEDAVİYE UYMA
 
-a. Hasta başvurduğu sağlık kurum ve kuruluşunun kural ve
-
-uygulamalarına uygun davranır.
+a. Hasta başvurduğu sağlık kurum ve kuruluşunun kural ve uygulamalarına uygun davranır.
 
 b. Hastalar; kendilerine önerilen tedavi planına, kendisine doğrudan gözetimli tedavi uygulanmasına, kendisinin ve başkalarının sağlığını korumak için yapması istenenlere uymakla sorumludur.
 
@@ -1055,9 +983,7 @@ TÜBERKÜLOZ KONTROLÜ
 
 Ülkemizdeki yabancı ülke doğumlu kişiler, Türk vatandaşları gibi TB tanı ve tedavi hizmetlerini ücretsiz olarak alırlar. Yabancı ülke doğumlu TB hastası, temaslısı, TB şüpheli olan hastalar VSD tarafından kayıt altına alınır, tanı, tedavi ve takipleri VSD’ler ve hastaneler tarafından yapılır.
 
-Yabancı ülke doğumlu TB şüphelisi, temaslısı veya hastası; Türkiye
-
-Cumhuriyeti’nin Sağlık Bakanlığı ve ilgili kamu kurum ve kuruluşlarının TB tanı, tedavi, takip ve gerekli diğer işlemleri ilgili mevzuat çerçevesinde alınan bütün tedbir ve talimatlara eksiksiz uymak zorundadır.
+Yabancı ülke doğumlu TB şüphelisi, temaslısı veya hastası; Türkiye Cumhuriyeti’nin Sağlık Bakanlığı ve ilgili kamu kurum ve kuruluşlarının TB tanı, tedavi, takip ve gerekli diğer işlemleri ilgili mevzuat çerçevesinde alınan bütün tedbir ve talimatlara eksiksiz uymak zorundadır.
 
 **VEREM (TÜBERKÜLOZ) HASTALARINI**
 

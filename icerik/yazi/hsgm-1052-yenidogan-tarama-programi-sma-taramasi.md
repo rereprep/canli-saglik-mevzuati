@@ -31,15 +31,9 @@ b) 11.05.2022 tarihli ve E-67414668-234.01.02-463 sayılı yazımız.
 
 Yenidoğan Tarama Programına 09.05.2022 tarihi itibari ile Spinal Musküler Atrofi (SMA) hastalığı eklenmiş olup, taramanın yürütülmesi ile ilgili usul ve esaslar ilgi a ve b yazılarımız ile tarafınıza iletilmiştir.
 
-Program kapsamında SMA sonuç durumuna “Periferik Kan Gönderiniz ve SMA İçin İlgili Kliniğe Sevk
+Program kapsamında SMA sonuç durumuna “Periferik Kan Gönderiniz ve SMA İçin İlgili Kliniğe Sevk Ediniz” eklenmiş olup, uyarı ekranlarında sevk uyarısı “Dikkat” olarak yayımlanmaktadır.
 
-Ediniz” eklenmiş olup, uyarı ekranlarında sevk uyarısı “Dikkat” olarak yayımlanmaktadır.
-
-SMA ilk numunelerin analizi sonucunda “Periferik Kan Gönderiniz ve SMA İçin İlgili Kliniğe Sevk
-
-Ediniz” uyarısı çıkan bebekler zaman kaybedilmeden SMA sonuç genetik raporu ile birlikte SMA için ilgili kliniğe sevk edilmelidir. Aynı zamanda söz konusu bebeklerden periferik kan örneği alınmalı ve sisteme kaydı yapılarak Yenidoğan SMA Laboratuvarlarına gönderilmelidir. Periferik kan örneği Yenidoğan SMA
-
-Laboratuvarlarınca çalışılarak ayrı bir genetik rapor oluşturulacak olup, genetik raporun aileye ve sevk edildiği klinik hekime iletilmesi gerekmektedir.
+SMA ilk numunelerin analizi sonucunda “Periferik Kan Gönderiniz ve SMA İçin İlgili Kliniğe Sevk Ediniz” uyarısı çıkan bebekler zaman kaybedilmeden SMA sonuç genetik raporu ile birlikte SMA için ilgili kliniğe sevk edilmelidir. Aynı zamanda söz konusu bebeklerden periferik kan örneği alınmalı ve sisteme kaydı yapılarak Yenidoğan SMA Laboratuvarlarına gönderilmelidir. Periferik kan örneği Yenidoğan SMA Laboratuvarlarınca çalışılarak ayrı bir genetik rapor oluşturulacak olup, genetik raporun aileye ve sevk edildiği klinik hekime iletilmesi gerekmektedir.
 
 Programın yürütülmesinde revize edilen ve ekte yer alan yeni akış şemasının kullanılması ve yukarıda bahsedilen konulara dikkat edilmesi hususlarında;
 

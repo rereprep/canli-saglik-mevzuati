@@ -49,21 +49,13 @@ DAĞITIM YERLERİNE
 
 Ocak 2026 tarihi itibarıyla ayni olarak sağlanması düzenlenmiştir.
 
-Sağlığın Geliştirilmesi Genel Müdürlüğü (SGGM) tarafından Bakanlığımızın tüm birimlerinde, taşra teşkilatlarında ve bağlı kurumlarında ortak bir dil, tutarlı bir görsel yapı ve kurumsal bütünlük oluşturması amacıyla kurum kimliğini oluşturan tüm tasarım öğelerinin kullanım biçimlerini açıklamak üzere Kurumsal
-
-Kimlik Kılavuzu yayımlanmış, ilgi (a) da kayıtlı yazı ile Kurumsal Kimlik Kılavuzu’nun 19’uncu Bölümünde
-
-yer alan esaslar çerçevesinde sağlık çalışanları kıyafetlerinin 01 Haziran 2026 tarihine kadar kurumsal kimlik kılavuzuna uyumunun sağlanması hususu İl Sağlık Müdürlüklerine bildirilmiştir.
+Sağlığın Geliştirilmesi Genel Müdürlüğü (SGGM) tarafından Bakanlığımızın tüm birimlerinde, taşra teşkilatlarında ve bağlı kurumlarında ortak bir dil, tutarlı bir görsel yapı ve kurumsal bütünlük oluşturması amacıyla kurum kimliğini oluşturan tüm tasarım öğelerinin kullanım biçimlerini açıklamak üzere Kurumsal Kimlik Kılavuzu yayımlanmış, ilgi (a) da kayıtlı yazı ile Kurumsal Kimlik Kılavuzu’nun 19’uncu Bölümünde yer alan esaslar çerçevesinde sağlık çalışanları kıyafetlerinin 01 Haziran 2026 tarihine kadar kurumsal kimlik kılavuzuna uyumunun sağlanması hususu İl Sağlık Müdürlüklerine bildirilmiştir.
 
 Bakanlığımıza bağlı birinci basamak sağlık tesislerinde görev yapmakta olan sağlık personelinin kurumsal kıyafetlerinin standardize edilerek kurumsal aidiyetin artırılması amacıyla, Kurumsal Kimlik Kılavuzu kapsamında kıyafet standartlarına ilişkin Bakanlığımızca yürütülen çalışmalar dikkate alınarak birinci basamak sağlık tesislerinde görev yapan personelin kıyafet standartlarına ilişkin hazırlanan örnek asgari teknik şartnameler ekte sunulmuştur.
 
-Kamu Hastaneleri Genel Müdürlüğünün ilgi (b) yazısında belirtildiği üzere Strateji Geliştirme
+Kamu Hastaneleri Genel Müdürlüğünün ilgi (b) yazısında belirtildiği üzere Strateji Geliştirme Başkanlığınca, Hazine ve Maliye Bakanlığından; "<i>Sağlık tesislerimizde görev yapan sağlık personeline yönelik</i> <i>belirlenen kıyafet standartları kapsamında temin edilmesi planlanan kıyafetlere ilişkin yapılan yaklaşık maliyet</i> <i>çalışması sonucunda, alımı planlanan kıyafetlere ait birim fiyatların, Hazine ve Maliye Bakanlığınca yayımlanan</i> <i>12.03.2025 tarihli ve 3843633 sayılı 04 sıra numaralı “Memurlara Yapılacak Giyecek Yardımı” konulu Genelge</i> <i>eki “Ayni Olarak Yapılacak Giyecek Yardımına İlişkin Azami Birim Fiyat Listesi”nde belirlenen tutarların</i> <i>üzerinde gerçekleşebileceğinin tespit edildiği, bu nedenle var olan azami fiyatların aşılabilmesi için gerekli</i> <i>onayın verilmesi "</i> talep edilmiştir.
 
-Başkanlığınca, Hazine ve Maliye Bakanlığından; "<i>Sağlık tesislerimizde görev yapan sağlık personeline yönelik</i> <i>belirlenen kıyafet standartları kapsamında temin edilmesi planlanan kıyafetlere ilişkin yapılan yaklaşık maliyet</i> <i>çalışması sonucunda, alımı planlanan kıyafetlere ait birim fiyatların, Hazine ve Maliye Bakanlığınca yayımlanan</i> <i>12.03.2025 tarihli ve 3843633 sayılı 04 sıra numaralı “Memurlara Yapılacak Giyecek Yardımı” konulu Genelge</i> <i>eki “Ayni Olarak Yapılacak Giyecek Yardımına İlişkin Azami Birim Fiyat Listesi”nde belirlenen tutarların</i> <i>üzerinde gerçekleşebileceğinin tespit edildiği, bu nedenle var olan azami fiyatların aşılabilmesi için gerekli</i> <i>onayın verilmesi "</i> talep edilmiştir.
-
-Kamu Hastaneleri Genel Müdürlüğü’nün ilgi (b) de kayıtlı yazısında; Bakanlığımız Strateji Geliştirme
-
-Başkanlığınca Hazine ve Maliye Bakanlığı ile yapılan şifahi görüşmelerde edinilen bilgiye göre 12.03.2025 tarihli ve 3843633 sayılı 4 Sıra Numaralı Memurlara Yapılacak Giyecek Yardımı Konulu Genelge’nin 31 Mart 2026 tarihine kadar güncellenerek yayımlanmasının planlandığının iletildiği, söz konusu Genelge’nin güncellenme süreci devam ederken, ilgi (a) de kayıtlı yazıda belirtilen Kurumsal Kimlik Kılavuzu uyum sürecinin 01 Haziran 2026 tarihine kadar tamamlanabilmesi amacıyla, ilgili çalışanların kendi mevzuatları da göz önünde bulundurularak belirlenen teknik şartnameye göre hazırlıkların yapılmasının önem arz ettiği, ayrıca süreçte gecikmeye mahal vermemek adına halen yürürlükte olan mevcut Genelge hükümleri doğrultusunda alım yapılmasında bir sakınca bulunmadığı belirtilmiştir.
+Kamu Hastaneleri Genel Müdürlüğü’nün ilgi (b) de kayıtlı yazısında; Bakanlığımız Strateji Geliştirme Başkanlığınca Hazine ve Maliye Bakanlığı ile yapılan şifahi görüşmelerde edinilen bilgiye göre 12.03.2025 tarihli ve 3843633 sayılı 4 Sıra Numaralı Memurlara Yapılacak Giyecek Yardımı Konulu Genelge’nin 31 Mart 2026 tarihine kadar güncellenerek yayımlanmasının planlandığının iletildiği, söz konusu Genelge’nin güncellenme süreci devam ederken, ilgi (a) de kayıtlı yazıda belirtilen Kurumsal Kimlik Kılavuzu uyum sürecinin 01 Haziran 2026 tarihine kadar tamamlanabilmesi amacıyla, ilgili çalışanların kendi mevzuatları da göz önünde bulundurularak belirlenen teknik şartnameye göre hazırlıkların yapılmasının önem arz ettiği, ayrıca süreçte gecikmeye mahal vermemek adına halen yürürlükte olan mevcut Genelge hükümleri doğrultusunda alım yapılmasında bir sakınca bulunmadığı belirtilmiştir.
 
 Bakanlığımıza bağlı birinci basamak sağlık tesislerinde görev yapan sağlık personelinin kıyafetlerine ilişkin olarak yukarıda yer alan düzenlemeler çerçevesinde işlem tesis edilmesi hususunda;
 
@@ -210,21 +202,13 @@ Kalem cebi 3 cm genişlikte ve 12 cm uzunlukta olmalıdır.
 
 **3. FORMA RENKLERİ**
 
-3.1. Uzman Hekim, Hekim, Diş Hekimi, Uzman Diş Hekimi Olmak Üzere Tüm Hekimler Hizmet
+3.1. Uzman Hekim, Hekim, Diş Hekimi, Uzman Diş Hekimi Olmak Üzere Tüm Hekimler Hizmet Kıyafeti: Pantone:15-4225 TCX Alaskan Blue,
 
-Kıyafeti: Pantone:15-4225 TCX Alaskan Blue,
+3.2. Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensupları Hizmet Kıyafeti: Pantone:19-1230 TCX Friar Brown
 
-3.2. Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensupları Hizmet Kıyafeti: Pantone:19-1230 TCX
+3.3. Uzman Eczacı/ Eczacı Hizmet Kıyafeti: Pantone:18-0332 TCX Grasshopper 3.4. Hemşire Hizmet Kıyafeti: Pantone:19-3925 TCX Patriot Blue 3.5.Ebe Hizmet Kıyafeti : Pantone: 19-3138 TPX Byzantium 3.6.Sağlık Memuru Hizmet Kıyafeti: Pantone: 19-3925 TCX Patriot Blue 3.7.Diyetisyen Hizmet Kıyafeti: Pantone: 19-1650 TPX Biking Red 3.8.Fizyoterapist Hizmet Kıyafeti: Pantone: 19-1650 TPX Biking Red 3.9. Çocuk Gelişimci Hizmet Kıyafeti: Pantone: 19-1230 TPX Friar Brown 3.10. Psikolog Hizmet Kıyafeti: Pantone: 19-1230 TPX Friar Brown 3.11. Klinik Psikolog Hizmet Kıyafeti: Pantone: 19-1650 TPX Biking Red 3.12. Sosyal Çalışmacı/Sosyal Hizmet Uzmanı Hizmet Kıyafeti: Pantone: 19-1230 TPX Friar Brown 3.13. Teknik Hizmetler Sınıfı Hizmet Kıyafeti: Pantone: 17-4402 TPX Neutral Gray 3.14. SHM Yönlendirme Personeli (Vaka Koordinörü - Tıbbi Sekreter) Hizmet Kıyafeti: Pantone: 13- 0611 TCX Moth 3.15. Temizlik Personeli Hizmet Kıyafeti: Pantone: 18-3949 TPX Dazzling Blue 3.16. Klinik Destek Kadrosunda İstihdam Edilen Sürekli İşçi Hizmet Kıyafet: Pantone: 16-1253 TCX Orange Ochre.
 
-Friar Brown
-
-3.3. Uzman Eczacı/ Eczacı Hizmet Kıyafeti: Pantone:18-0332 TCX Grasshopper 3.4. Hemşire Hizmet Kıyafeti: Pantone:19-3925 TCX Patriot Blue 3.5.Ebe Hizmet Kıyafeti : Pantone: 19-3138 TPX Byzantium 3.6.Sağlık Memuru Hizmet Kıyafeti: Pantone: 19-3925 TCX Patriot Blue 3.7.Diyetisyen Hizmet Kıyafeti: Pantone: 19-1650 TPX Biking Red 3.8.Fizyoterapist Hizmet Kıyafeti: Pantone: 19-1650 TPX Biking Red 3.9. Çocuk Gelişimci Hizmet Kıyafeti: Pantone: 19-1230 TPX Friar Brown 3.10. Psikolog Hizmet Kıyafeti: Pantone: 19-1230 TPX Friar Brown 3.11. Klinik Psikolog Hizmet Kıyafeti: Pantone: 19-1650 TPX Biking Red 3.12. Sosyal Çalışmacı/Sosyal Hizmet Uzmanı Hizmet Kıyafeti: Pantone: 19-1230 TPX Friar Brown 3.13. Teknik Hizmetler Sınıfı Hizmet Kıyafeti: Pantone: 17-4402 TPX Neutral Gray 3.14. SHM Yönlendirme Personeli (Vaka Koordinörü - Tıbbi Sekreter) Hizmet Kıyafeti: Pantone: 13- 0611 TCX Moth 3.15. Temizlik Personeli Hizmet Kıyafeti: Pantone: 18-3949 TPX Dazzling Blue 3.16. Klinik Destek Kadrosunda İstihdam Edilen Sürekli İşçi Hizmet Kıyafet: Pantone: 16-1253 TCX
-
-Orange Ochre.
-
-3.17. Lisans ve Lisans Üstü Sağlık Meslek Mensupları Hizmet Kıyafeti: Pantone: 19-1650 TCX
-
-Biking Red.
+3.17. Lisans ve Lisans Üstü Sağlık Meslek Mensupları Hizmet Kıyafeti: Pantone: 19-1650 TCX Biking Red.
 
 3.18. Teknik Hizmetler Sınıfı Hizmet Kıyafeti: Pantone: 17-4402 TCX Neutral Gray 3.19. Sağlık Hizmetinde Çalışan Teknisyen ve Teknikerler Hizmet Kıyafeti: Pantone: 13-0611 TCX
 
@@ -274,17 +258,13 @@ Sağlık Bakanlığı Amblem Logotype-1 yer alacaktır. Logonun alt ucu sol cebi
 
 1.1. Sağlık kuruluşu dışında halk sağlığı hizmetlerinde görev yapan personel, ünvanına uygun kıyafet giyecek olup ayırt edici olarak iç ve dış rengi beyaz olan yelek giyecektir.
 
-1.2. Yelek sol göğüs üstünde en az 8 cm çapında Sağlık Bakanlığı Arma Logotype-1, yelek arka kısmında “HALK SAĞLIĞI” yazısı reflektif olarak yazılı olacaktır. Dış kumaş su geçirmez PVC kaplamalı, zorlanma ve aşınmaya dayanıklı, birinci sınıf reflektif özellikte sentetik kumaş, iç astarı
-
-%100 pamuk olacaktır.
+1.2. Yelek sol göğüs üstünde en az 8 cm çapında Sağlık Bakanlığı Arma Logotype-1, yelek arka kısmında “HALK SAĞLIĞI” yazısı reflektif olarak yazılı olacaktır. Dış kumaş su geçirmez PVC kaplamalı, zorlanma ve aşınmaya dayanıklı, birinci sınıf reflektif özellikte sentetik kumaş, iç astarı %100 pamuk olacaktır.
 
 1.3. Ürün yaka dikişinde beden etiketi dikilecektir.
 
 1.4. Yelek modeli dik yaka, gizlenebilen kapüşonlu, önden lacivert fermuar ile kapanacak şekilde olacaktır. 2 yan cep ve sol göğüste 1 cep olmak üzere toplam 3 adet dış cepli ve 2 adet iç gizli cepli olacaktır. Yan cep derinliği 18 cm (±2) ve cep ağzı 17 cm (±2) ve 1,5-2 cm cep ağzı kapağı olacak şekilde fermuarlı, sol göğüsteki cep en az 13 cm (±2) x 14 cm (±2) (en x boy) olmalıdır.
 
-1.5. Arka bedende roba üzerinde “Sağlık Bakanlığı” logosu ve roba altında reflektif “HALK
-
-SAĞLIĞI” yazısı olmalıdır.
+1.5. Arka bedende roba üzerinde “Sağlık Bakanlığı” logosu ve roba altında reflektif “HALK SAĞLIĞI” yazısı olmalıdır.
 
 1.6. Arka boy ön boydan daha uzun ve ovaldir.
 
@@ -470,9 +450,7 @@ Kemer köprüsü 5 veya 7 adet olmalıdır. Kemer köprüleri 1-1,2 cm genişli�
 
 **GÖREV YAPAN PERSONEL KIYAFETİ**
 
-1.1 İlgili kurumlarda idari görev yapan sağlık meslek mensubu personel ise idari görev yaptıkları süreçte 25.10.1982 tarihli 17849 sayılı Resmî Gazete’de yayımlanan “Kamu Kurum ve Kuruluşlarında
-
-Çalışan Personelin Kılık ve Kıyafet Yönetmeliği” (Değ; 31/10/2016/2016/9432) hükümlerine göre hareket edeceklerdir.
+1.1 İlgili kurumlarda idari görev yapan sağlık meslek mensubu personel ise idari görev yaptıkları süreçte 25.10.1982 tarihli 17849 sayılı Resmî Gazete’de yayımlanan “Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık ve Kıyafet Yönetmeliği” (Değ; 31/10/2016/2016/9432) hükümlerine göre hareket edeceklerdir.
 
 T.C.
 

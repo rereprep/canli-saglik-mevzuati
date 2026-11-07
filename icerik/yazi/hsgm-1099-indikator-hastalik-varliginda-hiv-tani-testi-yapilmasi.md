@@ -67,9 +67,7 @@ Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Bölümü’ne, 18 yaş altın
 
 Hastalıkları Bölümü’ne sevk edilecektir.
 
-Bu yazının ekleri ile birlikte tüm sağlık kurum ve kuruluşlarına duyurulması, söz konusu uygulamanın yürütülmesinin sorumluluğu İl Sağlık Müdürlükleri uhdesinde olduğundan bu konudaki çalışmaların İl Sağlık
-
-Müdürlükleri tarafından titizlikle takip edilmesi ve İl düzeyindeki uygulamaların yazıya uygun olarak yürütülmesi hususunda;
+Bu yazının ekleri ile birlikte tüm sağlık kurum ve kuruluşlarına duyurulması, söz konusu uygulamanın yürütülmesinin sorumluluğu İl Sağlık Müdürlükleri uhdesinde olduğundan bu konudaki çalışmaların İl Sağlık Müdürlükleri tarafından titizlikle takip edilmesi ve İl düzeyindeki uygulamaların yazıya uygun olarak yürütülmesi hususunda;
 
 Bilgilerini ve gereğini önemle arz/rica ederim.
 

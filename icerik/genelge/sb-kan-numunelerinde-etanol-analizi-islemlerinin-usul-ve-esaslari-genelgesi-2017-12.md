@@ -45,9 +45,7 @@ teslim tutanağı formunun doldurulması zorunludur.
 
 2.1.1.4. Cilt Dezenfeksiyonu: Kan alınacak bölgenin çevresi, alkol içermeyen dezenfektanlar
 
-(benzalkonyum klorid, povidon iyod veya benzeri savt dezenfektan lar) ile temizlenir ve
-
-steril kuru gazlı bez ile kurulanır. Alkol iparen dazenfektanlar (etanol, metanol,
+(benzalkonyum klorid, povidon iyod veya benzeri savt dezenfektan lar) ile temizlenir ve steril kuru gazlı bez ile kurulanır. Alkol iparen dazenfektanlar (etanol, metanol,
 
 ### izopropanol gibi diğer organik uçucu dezenfektanlar) kullanılmaz.
 
@@ -59,15 +57,7 @@ intravenöz yolla mayi verilmesi gereken durumlarda kanın, mayi verilmeyen dama
 
 2.11.6. Namune Sayısı ve Kaba: İki ayrı steril vakumlu tüpe ken numunesi ohnar (lest
 
-numunesi ve sahit numune). Test nununesi, yöntem prensibine uygun
-
-olarak antikoagülanlı veyu antikoagülanstz kan tüplerine ahımır. Şahit numuneler ise
-
-koruyucu içeren (terciben sodyum fluorid ve EDTA) tiplere alıur ve tam kan olarak
-
-saklanır. Numuneler alındıktan sonra tüpler yavaşça en az 5-6 kez alt üst edilerek
-
-karıştırılır. 2.1.2. Numune Kabul: Numune kabul biriminde nunune, kabul/ret kriterlerine göre
+numunesi ve sahit numune). Test nununesi, yöntem prensibine uygun olarak antikoagülanlı veyu antikoagülanstz kan tüplerine ahımır. Şahit numuneler ise koruyucu içeren (terciben sodyum fluorid ve EDTA) tiplere alıur ve tam kan olarak saklanır. Numuneler alındıktan sonra tüpler yavaşça en az 5-6 kez alt üst edilerek karıştırılır. 2.1.2. Numune Kabul: Numune kabul biriminde nunune, kabul/ret kriterlerine göre
 
 değerlendirilerek laboratuvar kabul işlemi yapılır.
 

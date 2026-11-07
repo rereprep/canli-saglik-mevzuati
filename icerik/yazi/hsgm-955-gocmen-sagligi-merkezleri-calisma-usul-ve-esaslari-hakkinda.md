@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Gocmen_Sag
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -36,15 +37,11 @@ Bakanlığımızca, Ülkemizde göçmen sayısının ve yoğunluğunun yüksek o
 
 5) Göçmen sağlığı merkezinde Proje kapsamında çalışanlarının mobil sağlık, dış erişim ve sağlık okuryazarlığı kapsamındaki hizmetleri de sağlık hizmetlerinden sayılır ve haftalık mesai süresine dâhil edilir.
 
-Gerekli hallerde bu çalışmalar için esnek ve/veya fazla mesai süreleri uygulanarak planlamalar, 4857 sayılı İş
-
-Kanunu’nda belirlenen haftalık azami çalışma saatini aşmayacak şekilde yapılır.
+Gerekli hallerde bu çalışmalar için esnek ve/veya fazla mesai süreleri uygulanarak planlamalar, 4857 sayılı İş Kanunu’nda belirlenen haftalık azami çalışma saatini aşmayacak şekilde yapılır.
 
 6) Göçmen sağlığı merkezinde proje kapsamında çalışanlar; deprem, sel felaketi ve salgın gibi olağandışı durumlarda çalışma saatlerine bağlı kalınmaksızın çalıştırılabilir.
 
-7) Göçmen sağlığı merkezlerinde sunulan tüm hizmetler Muayene Bilgi Yönetim Sistemi (MBYS) ve Halk
-
-Sağlığı Yönetim Sistemine (HSYS) kaydedilir.
+7) Göçmen sağlığı merkezlerinde sunulan tüm hizmetler Muayene Bilgi Yönetim Sistemi (MBYS) ve Halk Sağlığı Yönetim Sistemine (HSYS) kaydedilir.
 
 8) Geçici barınma merkezleri içerisinde sağlık hizmeti sunan göçmen sağlığı merkezlerinde yirmi dört saat esasına uygun olarak hizmet sunulur.
 

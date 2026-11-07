@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 Sayı : E-99858683-010.07-263624535 26.12.2024
 
 Konu : Sağlık Basamakları Arasında Entegrasyon
@@ -34,9 +35,7 @@ bu kodu hastası ile paylaşacaktır. Bu işlem esnasında hastalar için hastan
 
 hastası ile paylaşacaktır. Direkt grafi istemlerinde ise dördüncü maddede belirtilen laboratuvar tetkiki ile ilgili yöntem uygulanacaktır. Bütün bu istemler yapılırken hastaya e-Nabız tarafından benzersiz, özel bir kod üretilecek olup aile hekimi bu kodu hasta ile paylaşacaktır. Bu işlemler esnasında hastanelerde hastalar için ayrıca muayene girişi yapılmayacak, randevu bilgisi sorgulanmayacak ve hastanedeki hekimler tarafından tekrar görüntüleme tetkiki isteminde bulunulmayacak olup hasta yönlendirilerek mamografisinin, kalça ultrasonunun veya direkt grafisinin çekilmesi sağlanacaktır.
 
-6) Laboratuvar tetkiki ve/veya görüntüleme tetkikleri için ikinci veya üçüncü basamak sağlık kuruluşlarına aile sağlığı merkezinden yönlendirilen hastalara, kendileri için planlanan “Hasta Kayıt
-
-Bankosu”nda Ek-2’deki işleyiş algoritmasına uygun kayıt işlemleri yapılarak kişi kan alma ve/veya radyoloji birimine yönlendirilecektir.
+6) Laboratuvar tetkiki ve/veya görüntüleme tetkikleri için ikinci veya üçüncü basamak sağlık kuruluşlarına aile sağlığı merkezinden yönlendirilen hastalara, kendileri için planlanan “Hasta Kayıt Bankosu”nda Ek-2’deki işleyiş algoritmasına uygun kayıt işlemleri yapılarak kişi kan alma ve/veya radyoloji birimine yönlendirilecektir.
 
 7) Kan tetkikleri ve görüntüleme sonuçları aile hekimlerinin kullandıkları sağlık bilgi yönetim sistemi ekranlarına uyarı olarak düşecektir.
 

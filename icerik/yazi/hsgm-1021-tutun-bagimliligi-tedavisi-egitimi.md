@@ -31,9 +31,7 @@ Söz konusu eğitimler Bakanlığımızca uzaktan ve yerinde olmak üzere iki a�
 
 Bu kapsamda Tütün Bağımlılığı tedavisi eğitimini bundan sonraki süreçte Bakanlığımız adına iller kendileri planlayacaktır. Eğitime öncelik sırası ile sağlıklı hayat merkezi, aile hekimliği biriminde çalışan aile hekimleri, sigara bırakma polikliniği bulunmayan ilçe devlet hastaneleri ile il merkezinde bulunan devlet hastaneleri bünyesinde görev yapan ve sigara bırakma polikliniği eğitimi almak isteyen tüm hekimler katılım sağlayacaktır.
 
-Tütün Bağımlılığı Tedavisi Eğitiminin il sağlık müdürlüklerince Ek-1’de yer alan Tütün Bağımlılığı
-
-Tedavisi Eğitimi Usul ve Esasları’na uygun olarak yapılması gerekmektedir.
+Tütün Bağımlılığı Tedavisi Eğitiminin il sağlık müdürlüklerince Ek-1’de yer alan Tütün Bağımlılığı Tedavisi Eğitimi Usul ve Esasları’na uygun olarak yapılması gerekmektedir.
 
 Ayrıca Ek-2’de yer alan Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik kapsamında il bünyesinde açılması planlanan sigara bırakma polikliniklerine ait süreçlerin hızlandırılması, öncelikli olarak il merkezinde sonrasında ilçe merkezlerinde ve sağlıklı hayat merkezlerinde hizmet verecek polikliniklerin ilgili yönetmelik hükümlerince açılmasının sağlanması hususunda,
 
@@ -89,9 +87,7 @@ Tedavisi Elitimi
 
 MUSTESARLIK MAKAMTNA
 
-Tiitiin Balmhhlr Tedavi ve Elitim Birimleri,23 Kasrm 2011 tarih ve 28121 sayh
-
-Resmi Gazetede yayrmlanan "Tiitiin Balrmhhgr Tedavi ve Egitim Birimleri Hakkrnda
+Tiitiin Balmhhlr Tedavi ve Elitim Birimleri,23 Kasrm 2011 tarih ve 28121 sayh Resmi Gazetede yayrmlanan "Tiitiin Balrmhhgr Tedavi ve Egitim Birimleri Hakkrnda
 
 Ydnetmelik" kapsam-rnda faaliyetlerini siirdiirmektedir. Bu birimlerde gah$acak tabip, hemqire ve psikolog unvanlnt haiz sa[hk personelinin almasr gereken e[itim ve elitim sonunda baganh olanlara verilecek katrhm belgelerinin Ekte yer alan usul ve esaslara uygun olarak dtizenlenmesi hususunu tensiplerinize arz ederim.
 
@@ -117,9 +113,7 @@ Tiitiin Balunlilrlr Tedavi ve Elitim Birimleri Hakkrnda Ydnetrnelik Kapsamrnda Y
 
 Tiitiin BaSmhhlr Tedavisi Efiitimi Usul ve Esaslan
 
-l- Tiitiin balrmhhlt tedavisi elitimi programr baqlangrg, bitig tarihleri ve yeri Tiirkiye Halk
-
-Sa[ltlt Kurumu Bagkanhlrnca belirlenip Halk Salhlr Miidi.irliifiiLnce ilan edilir. E[itim programr uzaktan ve yerinde e[itim olacak qekilde iki aqamadan oluqur.
+l- Tiitiin balrmhhlt tedavisi elitimi programr baqlangrg, bitig tarihleri ve yeri Tiirkiye Halk Sa[ltlt Kurumu Bagkanhlrnca belirlenip Halk Salhlr Miidi.irliifiiLnce ilan edilir. E[itim programr uzaktan ve yerinde e[itim olacak qekilde iki aqamadan oluqur.
 
 Uzaktan efitim; Titkiye Halk Salhg Kurumu Bagkanhlrnca ilan edilen uzaktan elitim merkezi intemet adresine katrhmcrlarrn tarumlanan kullamcr isim ve parolayr kullanarak girig yapmasr suretiyle,
 
@@ -133,9 +127,7 @@ Tiirkiye Halk Sa$hg Kurumu Bagkanhlrnca hazrrlanmrg teorik srnavdan en az 70 pua
 
 Salhg Kurumu Ba.gkanhlna gdnderir.
 
-Tiirkiye Halk Salhlr Kurumu Baqkanhlrnca delerlendirilen talebin uygun gdriilmesi halinde 15 gtin igerisinde egitimin takip ve koordinasyonundan sorumlu olacak en az bir
-
-Bakanhk personeli Baqkanhkga gdrevlendirilir.
+Tiirkiye Halk Salhlr Kurumu Baqkanhlrnca delerlendirilen talebin uygun gdriilmesi halinde 15 gtin igerisinde egitimin takip ve koordinasyonundan sorumlu olacak en az bir Bakanhk personeli Baqkanhkga gdrevlendirilir.
 
 Bagkanlktan onay ahnarak yaprlan e$itim programr sonunda;
 
@@ -181,9 +173,7 @@ Tütün Bağımlılığı Tedavi Usulleri Bilim Komisyonu
 
 **Komisyonun teşkili**
 
-**MADDE 5 –** (1) Bu Yönetmelik kapsamındaki tütün bağımlılığı tedavisi ve eğitimindeki uygulamalara yönelik bilimsel nitelikli tavsiye kararları almak üzere
-
-Bakanlıkça Tütün Bağımlılığı Tedavi Usulleri Bilim Komisyonu teşkil edilir.
+**MADDE 5 –** (1) Bu Yönetmelik kapsamındaki tütün bağımlılığı tedavisi ve eğitimindeki uygulamalara yönelik bilimsel nitelikli tavsiye kararları almak üzere Bakanlıkça Tütün Bağımlılığı Tedavi Usulleri Bilim Komisyonu teşkil edilir.
 
 (2) Komisyon, Bakanlık Müsteşarı veya görevlendireceği bir müsteşar yardımcısının başkanlığında;
 
@@ -247,9 +237,7 @@ b) Farmakolojik tedaviler:
 
 3) Bupropion hidroklorür.
 
-(2) Yeni tedavi usulleri uygulamak ve bu usullerde kullanılabilecek yeni ürünler ile ilgili görüş bildirmek isteyenler; her türlü bilimsel doküman, bilgi ve belgeleriyle ilgili mevzuat çerçevesinde müracaatlarını Bakanlığa yaparlar. Bakanlık, ihtiyaç duyulması hâlinde müracaatları Komisyona yönlendirebilir. Müracaatlar
-
-Komisyonda değerlendirilir. Komisyon gerektiğinde üniversitelerden, ilgili kamu kurum ve kuruluş, dernek, vakıf ve meslek kuruluşlarından yazılı görüş talep edebilir.
+(2) Yeni tedavi usulleri uygulamak ve bu usullerde kullanılabilecek yeni ürünler ile ilgili görüş bildirmek isteyenler; her türlü bilimsel doküman, bilgi ve belgeleriyle ilgili mevzuat çerçevesinde müracaatlarını Bakanlığa yaparlar. Bakanlık, ihtiyaç duyulması hâlinde müracaatları Komisyona yönlendirebilir. Müracaatlar Komisyonda değerlendirilir. Komisyon gerektiğinde üniversitelerden, ilgili kamu kurum ve kuruluş, dernek, vakıf ve meslek kuruluşlarından yazılı görüş talep edebilir.
 
 Komisyon, değerlendirme neticesinde yeni tedavi usulünün uygulanıp uygulanamayacağı hususunda Bakanlığa görüş sunar. Belirtilen tedavi uygulamalarıyla ilgili protokoller, Komisyonun kararı üzerine belirlenir ve Bakanlıkça yayımlanır.
 
@@ -345,9 +333,7 @@ Birim Personelinin Görevleri ile Tütün Bağımlılığı Tedavisi Eğitimi
 
 **MADDE 17 –** (1) Kamu ve özel sağlık kurum ve kuruluşlarında görev yapan tabip, hemşire ve psikolog unvanını haiz sağlık personeli, görev yaptıkları özel veya resmî kurumlar aracılığı ile tütün bağımlılığı tedavisi eğitimi programına müracaat edebilir. Herhangi bir kurumda görev yapmayanlar şahsen müracaat edebilirler.
 
-Başvuru dilekçeleri ve ilgili kurumun uygunluk yazıları Müdürlükçe Bakanlığa gönderilir. Bakanlıkça değerlendirme yapılır ve talebin uygun bulunması hâlinde aday,
-
-Bakanlıkça belirlenen eğitim grup ve tarihlerinde tütün bağımlılığı tedavisi eğitimi programına başlatılır.
+Başvuru dilekçeleri ve ilgili kurumun uygunluk yazıları Müdürlükçe Bakanlığa gönderilir. Bakanlıkça değerlendirme yapılır ve talebin uygun bulunması hâlinde aday, Bakanlıkça belirlenen eğitim grup ve tarihlerinde tütün bağımlılığı tedavisi eğitimi programına başlatılır.
 
 **Eğitim ve katılımcı belgesi**
 
@@ -397,17 +383,13 @@ c) Hasta ile ilgili sonuçlar, hastanın yakınları, rızayı verenler; teftiş
 
 **GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce;
 
-a) Tütün bağımlılığı tedavisi ve eğitimi yapmakta olan sağlık kurum ve kuruluşları, bu Yönetmeliğin yürürlüğe girmesinden itibaren en geç üç ay içerisinde bu
-
-Yönetmelikle belirlenen şartlara uygunluklarını sağlarlar. Üç ayın sonunda durumlarını bu Yönetmeliğe uygun hâle getirmeyen sağlık kurum ve kuruluşlarının tütün bağımlılığı ve eğitimine ilişkin faaliyetleri uygunluk sağlanıncaya kadar valilikçe durdurulur.
+a) Tütün bağımlılığı tedavisi ve eğitimi yapmakta olan sağlık kurum ve kuruluşları, bu Yönetmeliğin yürürlüğe girmesinden itibaren en geç üç ay içerisinde bu Yönetmelikle belirlenen şartlara uygunluklarını sağlarlar. Üç ayın sonunda durumlarını bu Yönetmeliğe uygun hâle getirmeyen sağlık kurum ve kuruluşlarının tütün bağımlılığı ve eğitimine ilişkin faaliyetleri uygunluk sağlanıncaya kadar valilikçe durdurulur.
 
 b) Tütün bağımlılığı tedavisi eğitimleri sonunda verilmiş katılımcı belgelerinin geçerli olabilmesi için bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren en geç üç ay içinde Genel Müdürlükçe onaylanması gerekir. Üç ay içinde onaylanmayan sertifika veya katılımcı belgeleri Genel Müdürlükten onay alınmadan kullanılamaz.
 
 **Bakanlık birimlerinin uyumu**
 
-**GEÇİCİ MADDE 2 –** (1) Bakanlık ve bağlı kuruluşlarının teşkilat ve kadrolarının 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının
-
-Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye uygun hâle getirilmesinden sonra bu Yönetmelikte geçen;
+**GEÇİCİ MADDE 2 –** (1) Bakanlık ve bağlı kuruluşlarının teşkilat ve kadrolarının 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye uygun hâle getirilmesinden sonra bu Yönetmelikte geçen;
 
 a) Temel Sağlık Hizmetleri Genel Müdürlüğünün görevleri, Türkiye Halk Sağlığı Kurumunca, b) Tedavi Hizmetleri Genel Müdürünün görevleri, Sağlık Hizmetleri Genel Müdürünce, c) İlaç ve Eczacılık Genel Müdürünün görevleri, Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanınca, ç) Kanserle Savaş Dairesi Başkanının görevleri, Türkiye Halk Sağlığı Kurumunun ilgili daire başkanınca, d) Tıp Meslekleri Şube Müdürlüğünün görevleri, Sağlık Hizmetleri Genel Müdürlüğünün ilgili birimince, e) Tütün ve Madde Bağımlılığı İşleri Şube Müdürlüğü/Biriminin görevleri, Türkiye Halk Sağlığı Kurumunun ilgili birimince, yerine getirilir.
 

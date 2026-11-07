@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,9 +25,7 @@ Sürveyansı
 
 DAĞITIM YERLERİNE
 
-Ülkemiz tüm yataklı tedavi kurumlarında Sağlık Hizmeti ile İlişkili Enfeksiyon (SHİE) Sürveyansı enfeksiyon kontrol ekiplerin tarafından yürütülmekte ve Ulusal SHİE Sürveyans Ağı (USHİESA)'na bildirim yapılmaktadır. Sürveyans verileri ulusal düzeyde Genel Müdürlüğümüzce düzenli olarak değerlendirilmekte ve
-
-Ulusal Enfeksiyon Önleme ve Kontrol Bilimsel Danışma Kurulu ile birlikte sürveyans çalışmalarına yön verilmektedir.
+Ülkemiz tüm yataklı tedavi kurumlarında Sağlık Hizmeti ile İlişkili Enfeksiyon (SHİE) Sürveyansı enfeksiyon kontrol ekiplerin tarafından yürütülmekte ve Ulusal SHİE Sürveyans Ağı (USHİESA)'na bildirim yapılmaktadır. Sürveyans verileri ulusal düzeyde Genel Müdürlüğümüzce düzenli olarak değerlendirilmekte ve Ulusal Enfeksiyon Önleme ve Kontrol Bilimsel Danışma Kurulu ile birlikte sürveyans çalışmalarına yön verilmektedir.
 
 Flukonazol ve amfoterisin B'ye yüksek oranda dirençli olduğu bilinen <i>Candida auris,</i> standart laboratuvar yöntemleriyle tanımlanmasının zorluğu ve yüksek salgın potansiyeli nedeniyle büyük önem kazanmıştır. Bu kapsamda tüm yataklı tedavi kurumlarında <i>C. auris</i> tespitinde özellikle duyarlı olunması ve SHİE sürveyansı kapsamında olsun veya olmasın tespit edilen tüm <i>C.auris</i> enfeksiyonlarının USHİESA'ya bildirilmesi ve gerekli enfeksiyon kontrol önlemlerinin ivedilikle alınması gerekmektedir. Etken olarak saptanmayan veya SHİE kapsamında değerlendirilmeyen <i>C.auris</i> üremelerinin enfeksiyon@saglik.gov.tr adresine bildirilmesi gerektiği ile ilgili iliniz bünyesinde hizmet veren tüm yataklı tedavi kurumlarına bilgilendirme yapılması hususunda;
 

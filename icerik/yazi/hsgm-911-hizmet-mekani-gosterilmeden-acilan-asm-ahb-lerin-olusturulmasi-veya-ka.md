@@ -33,9 +33,7 @@ Ancak müdürlükçe, gerekçelendirmek ve Bakanlıkça onaylanmak kaydıyla yer
 
 Hizmet planlamalarının etkinliği açısından;
 
-Hizmet mekânı gösterilmeksizin açılan ve bugüne kadar fiziki hizmet binası oluşturulmamış olan aile sağlığı merkezi ve aile hekimliği birimlerinin hizmet mekânlarının mezkûr mevzuat hükümleri ve genel yazı düzenlemeleri çerçevesinde
-
-Müdürlüğünüzce ivedilikle oluşturulması ve süreç hakkında Bakanlığımıza bilgi verilmesi,
+Hizmet mekânı gösterilmeksizin açılan ve bugüne kadar fiziki hizmet binası oluşturulmamış olan aile sağlığı merkezi ve aile hekimliği birimlerinin hizmet mekânlarının mezkûr mevzuat hükümleri ve genel yazı düzenlemeleri çerçevesinde Müdürlüğünüzce ivedilikle oluşturulması ve süreç hakkında Bakanlığımıza bilgi verilmesi,
 
 -Hizmet mekânı oluşturulmasına ilişkin olarak Müdürlüğünüzce yapılan inceleme ve değerlendirme sonucunda fiziki hizmet mekânının oluşturulmasının mümkün olamayacağının değerlendirilmesi halinde, ilgili aile sağlığı merkezi ve aile hekimliği birimlerinin kapatılmasına yönelik taleplerin gerekçeleriyle birlikte ivedikle bildirilmesi hususunda;
 

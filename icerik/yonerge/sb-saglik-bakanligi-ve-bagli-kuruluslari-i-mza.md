@@ -273,9 +273,7 @@ bb) 26/3/2013 tarihli ve 28599 sayılı Resmi Gazete'de yayımlanarak yürürlü
 
 cc) Genel kadro değişikliklerine yönelik teklif yazıları,
 
-çç) Önemi sebebiyle Bakan Yardımcısı tarafından imzalanması alt makamlarca önerilip kabul gören yazılar,
-
-ilgili Bakan Yardımcısı tarafından imzalanır veya onaylanır.
+çç) Önemi sebebiyle Bakan Yardımcısı tarafından imzalanması alt makamlarca önerilip kabul gören yazılar, ilgili Bakan Yardımcısı tarafından imzalanır veya onaylanır.
 
 #### Birim amirinin yetkili olduğu işlemler
 
@@ -395,4 +393,3 @@ bağlı kuruluş amiri tarafından imzalanacaktır.
 #### Yürütme
 
 **MADDE 19 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
-

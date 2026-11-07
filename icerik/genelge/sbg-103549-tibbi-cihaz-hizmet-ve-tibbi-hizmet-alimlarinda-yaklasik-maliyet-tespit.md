@@ -73,9 +73,7 @@ alınacaktır.
 
 4. Alınan tüm çıktılar, idare tarafından yaklaşık maliyetin tespiti amacıyla
 
-görevlendirilen kişiler tarafından imza altına alınacak ve yaklaşık maliyet hesap
-
-cetvelinin dayanağı olarak hesap cetvelinin ekinde yer alacaktır.
+görevlendirilen kişiler tarafından imza altına alınacak ve yaklaşık maliyet hesap cetvelinin dayanağı olarak hesap cetvelinin ekinde yer alacaktır.
 
 5. Modülun kullanımında yaklaşık maliyetin gizliliği esasına dikkat edilmesi gerektiği
 
@@ -123,15 +121,7 @@ TFM= Toplam Finansman Maliyetini,
 
 5. **İşletim Maliyetleri:** Hizmetin sunulacağı cihaz/cihazların işletimi ile çekim için ihtiyaç duyulabilecek film, cd, kırtasiye, tıbbi sarf vb. malzeme giderleri ve diğer giderlerden oluşan işletim maliyeti; alınacak hizmetin miktarına bağlı olarak aşağıda belirtilen işletim maliyet unsurlanı çerçevesinde idarece belirlenerek yaklaşık maliyet tespitinde dikkate alınacaktır. Ilgide kayıthı genelge gereği, kuruma kurulan tıbbi cihazın/cihazların işletilmesi için gerekli olan elektrik ve su hastane tarafından karşılanacağından bu giderler yaklaşık maliyet tespitinde dikkate alınmayacaktır. Işletim Maliyetleri;
 
-a) **BT Tüp Maliyeti;** Çekim miktarı ve hizmet alım süresi de göz önünde
-
-bulundurularak değişmesi öngörülen tüp sayısına bağhı olarak BT tüp maliyeti
-
-yaklaşık maliyet hesabında dikkate alınacaktır. Bir tüpün maliyeti, Malzeme
-
-Kaynakları Yönetim Sisteminde (MKYS) yer alan fiyatlar da esas alınarak
-
-idarece belirlenecektir.
+a) **BT Tüp Maliyeti;** Çekim miktarı ve hizmet alım süresi de göz önünde bulundurularak değişmesi öngörülen tüp sayısına bağhı olarak BT tüp maliyeti yaklaşık maliyet hesabında dikkate alınacaktır. Bir tüpün maliyeti, Malzeme Kaynakları Yönetim Sisteminde (MKYS) yer alan fiyatlar da esas alınarak idarece belirlenecektir.
 
 Tüp maliyeti sadece BT hizmet alımlarının yaklaşık maliyet tespitinde dikkate
 
@@ -157,9 +147,7 @@ vergileri, Kamu Ihale Kurumu payı ve sözleşmenin notere onaylattırılması h
 
 noter masrafları gibi) yaptığı ve bu giderlerini tekliflerine yansıttığı bilinen bir
 
-gerçektir. Bu çerçevede kar hariç belirlenecek olan toplam tutarın %3'u oranında
-
-sözleşme giderleri ve genel giderler yaklaşık maliyet tespitinde dikkate alınacaktır.
+gerçektir. Bu çerçevede kar hariç belirlenecek olan toplam tutarın %3'u oranında sözleşme giderleri ve genel giderler yaklaşık maliyet tespitinde dikkate alınacaktır.
 
 9. **Firma karı;** Sözleşme ve genel giderler ile finansman maliyeti dähil edilmeden
 

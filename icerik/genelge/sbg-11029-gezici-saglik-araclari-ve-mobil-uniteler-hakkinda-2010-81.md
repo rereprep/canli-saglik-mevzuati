@@ -62,13 +62,9 @@ Taramada kullanılacak araç ve materyalde ticari isim ve logo kullanılamaz.
 
 Hasta hakları mevzuatına uygun hareket edilir.
 
-Tarama yapılan kişilerden herhangi bir ücret talep edilmez. Bu taramalar sonucu
+Tarama yapılan kişilerden herhangi bir ücret talep edilmez. Bu taramalar sonucu sağlık kurumlarına müracaatı gereken kişiler, ticari maksatlı istismarları önlemek için Sağlık Bakanlığı hastaneleri ve devlet üniversitesi hastanelerine yönlendirilir.
 
-sağlık kurumlarına müracaatı gereken kişiler, ticari maksatlı istismarları önlemek için Sağlık Bakanlığı hastaneleri ve devlet üniversitesi hastanelerine yönlendirilir.
-
-Tarama kapsamında yapılan işlemler ile tarama sonuçlarına dair tespit edilen tıbbi
-
-bulgular rapor halinde müdürlüğe sunulur.
+Tarama kapsamında yapılan işlemler ile tarama sonuçlarına dair tespit edilen tıbbi bulgular rapor halinde müdürlüğe sunulur.
 
 Belirtilen hususlara riayet etmeyen kişi ve kuruluşlar hakkında ilgili mevzuata göre işlem yapılır.
 
@@ -100,9 +96,7 @@ Taramada kullanılacak araç ve materyalde ticari isim ve logo kullanılamaz.
 
 Hasta hakları mevzuatına uygun hareket edilir.
 
-Tarama yapılan kişilerden herhangi bir ücret talep edilmez. Bu taramalar sonucu
-
-sağlık kurumlarına müracaatı gereken kişiler aile hekimine yönlendirilir.
+Tarama yapılan kişilerden herhangi bir ücret talep edilmez. Bu taramalar sonucu sağlık kurumlarına müracaatı gereken kişiler aile hekimine yönlendirilir.
 
 6) Tarama kapsamında yapılan işlemler ile tarama sonuçlarına dair tespit edilen tıbbi
 

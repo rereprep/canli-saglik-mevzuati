@@ -23,13 +23,9 @@ Konu : SIHHAT Projesi Personel İşleri
 
 DAĞITIM YERLERİNE
 
-Bakanlığımız ile Avrupa Birliği Komisyonu Türkiye Delegasyonu arasında imzalanan Doğrudan Hibe
+Bakanlığımız ile Avrupa Birliği Komisyonu Türkiye Delegasyonu arasında imzalanan Doğrudan Hibe Sözleşmesine istinaden gerçekleştirilmekte olan “Türkiye’de Göçmen Sağlığı Hizmetlerinin Desteklenmesi (SIHHAT-3) Projesi” kapsamında göçmenlerin yoğun olarak yaşadıkları yerlerde, söz konusu kişilere birinci, ikinci ve üçüncü basamak sağlık hizmetlerinin kapsamlı, etkili ve verimli bir şekilde sunulabilmesi amacıyla personel istihdam edildiği malumlarıdır.
 
-Sözleşmesine istinaden gerçekleştirilmekte olan “Türkiye’de Göçmen Sağlığı Hizmetlerinin Desteklenmesi (SIHHAT-3) Projesi” kapsamında göçmenlerin yoğun olarak yaşadıkları yerlerde, söz konusu kişilere birinci, ikinci ve üçüncü basamak sağlık hizmetlerinin kapsamlı, etkili ve verimli bir şekilde sunulabilmesi amacıyla personel istihdam edildiği malumlarıdır.
-
-Proje kapsamında istihdam edilen personel, ile belirli süreli iş sözleşmesi akdedilmiş ve 5510 Sayılı Sosyal
-
-Sigortalar ve Genel Sağlık Sigortası Kanunu’nun 4/1-a bendine tabi olarak 4857 sayılı İş Kanunu kapsamında istihdam edilmiştir.
+Proje kapsamında istihdam edilen personel, ile belirli süreli iş sözleşmesi akdedilmiş ve 5510 Sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu’nun 4/1-a bendine tabi olarak 4857 sayılı İş Kanunu kapsamında istihdam edilmiştir.
 
 Akdedilen belirli süreli iş sözleşmesinin Günlük ve Haftalık Çalışma Süresi başlıklı 4.cü maddesinde;
 
@@ -37,19 +33,11 @@ Akdedilen belirli süreli iş sözleşmesinin Günlük ve Haftalık Çalışma S
 
 <i>Radyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanun Ek 1’inci maddesi</i> <i>hükümlerine uygun olmak kaydıyla Radyoloji Teknisyenlerinin Haftalık Çalışma Süresi 35 saattir.”</i> hükümleri yer almaktadır.
 
-İstihdam edilen personelin yıllık izinlerine ilişkin hususlar, 4857 Sayılı İş Kanunu’nun 53 ve sair maddeleri ile 03.03.2004 tarih ve 25391 sayılı Resmî Gazete’de yayımlanan Yıllık Ücretli İzin Yönetmeliği çerçevesinde değerlendirilmekte ve ilgili kanun maddeleri ve yönetmelik uyarınca yayımlanan “SIHHAT Projesi
+İstihdam edilen personelin yıllık izinlerine ilişkin hususlar, 4857 Sayılı İş Kanunu’nun 53 ve sair maddeleri ile 03.03.2004 tarih ve 25391 sayılı Resmî Gazete’de yayımlanan Yıllık Ücretli İzin Yönetmeliği çerçevesinde değerlendirilmekte ve ilgili kanun maddeleri ve yönetmelik uyarınca yayımlanan “SIHHAT Projesi İzin Prosedürü” doğrultusunda uygulanmaktadır. Personelin yıllık ücretli izin hakkedişleri, 4857 Sayılı İş Kanunu Madde 53’te belirtildiği gibi “<i>İşyerinde işe başladığı günden itibaren, deneme süresi de içinde olmak üzere, en</i> <i>az bir yıl çalışmış olan işçilere yıllık ücretli izin verilir.”</i> İbaresi gereğince sözleşme başlangıç tarihi esas alınarak hesaplanmaktadır.
 
-İzin Prosedürü” doğrultusunda uygulanmaktadır. Personelin yıllık ücretli izin hakkedişleri, 4857 Sayılı İş Kanunu
+Projenin mevcut ilerleme süreci ve bütçe gerçekleşmeleri ile 17 Mayıs 2024 tarih ve 32549 sayılı Resmi Gazete ‘de yayımlanan Tasarruf Tedbirleri konulu genelgenin personel giderleri alt başlığında yer alan hükümler birlikte değerlendirildiğinde;
 
-Madde 53’te belirtildiği gibi “<i>İşyerinde işe başladığı günden itibaren, deneme süresi de içinde olmak üzere, en</i> <i>az bir yıl çalışmış olan işçilere yıllık ücretli izin verilir.”</i> İbaresi gereğince sözleşme başlangıç tarihi esas alınarak hesaplanmaktadır.
-
-Projenin mevcut ilerleme süreci ve bütçe gerçekleşmeleri ile 17 Mayıs 2024 tarih ve 32549 sayılı Resmi
-
-Gazete ‘de yayımlanan Tasarruf Tedbirleri konulu genelgenin personel giderleri alt başlığında yer alan hükümler birlikte değerlendirildiğinde;
-
--Personel çalışma saatlerinin hizmet gereklilikleri doğrultusunda, günde 11 saati aşmayacak şekilde, 06.04.2004 tarih ve 25425 sayılı Resmî Gazete ‘de yayımlanan İş Kanunu’na İlişkin Çalışma Süreleri
-
-Yönetmeliğinde yer alan hükümler dikkate alınarak belirlenmesi,
+-Personel çalışma saatlerinin hizmet gereklilikleri doğrultusunda, günde 11 saati aşmayacak şekilde, 06.04.2004 tarih ve 25425 sayılı Resmî Gazete ‘de yayımlanan İş Kanunu’na İlişkin Çalışma Süreleri Yönetmeliğinde yer alan hükümler dikkate alınarak belirlenmesi,
 
 -Zorunlu haller dışında personel çalışma planının fazla çalışma ve nöbet ücreti oluşmayacak şekilde yapılması,
 

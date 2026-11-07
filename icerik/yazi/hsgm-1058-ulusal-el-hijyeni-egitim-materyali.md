@@ -23,11 +23,7 @@ Konu : Ulusal El Hijyeni Eğitim Materyali
 
 DAĞITIM YERLERİNE
 
-Ülkemizde 2005 yılında yayımlanan “Yataklı Tedavi Kurumları Enfeksiyon Kontrol Yönetmeliği” gereğince yataklı tedavi kurumlarında faaliyet göstermekte olan enfeksiyon kontrol komitelerince hastane çalışanlarına enfeksiyon önleme ve kontrolüne yönelik eğitimler verilmektedir. Bu eğitimlerin başında el hijyeni eğitimleri gelmektedir. Ülke genelinde el hijyeni eğiticileri eğitimler standart oluşturmaya yönelik
-
-Bakanlığımızın Uzaktan Sağlık Eğitim Sistemi (USES) üzerinde yer alan “Enfeksiyon Kontrol Hekimleri ve
-
-Hemşireleri El Hijyeni Eğitimi” yürütülmeye devam etmektedir.
+Ülkemizde 2005 yılında yayımlanan “Yataklı Tedavi Kurumları Enfeksiyon Kontrol Yönetmeliği” gereğince yataklı tedavi kurumlarında faaliyet göstermekte olan enfeksiyon kontrol komitelerince hastane çalışanlarına enfeksiyon önleme ve kontrolüne yönelik eğitimler verilmektedir. Bu eğitimlerin başında el hijyeni eğitimleri gelmektedir. Ülke genelinde el hijyeni eğiticileri eğitimler standart oluşturmaya yönelik Bakanlığımızın Uzaktan Sağlık Eğitim Sistemi (USES) üzerinde yer alan “Enfeksiyon Kontrol Hekimleri ve Hemşireleri El Hijyeni Eğitimi” yürütülmeye devam etmektedir.
 
 Bu kapsamda yataklı tedavi kurumları çalışanlarına verilen el hijyeni eğitimlerinde standart sağlayabilmek için Dünya Sağlık Örgütü’nün el hijyeni kılavuzunu ve Bakanlığımız Sağlıkta Kalite Standartlarını temel alan ulusal el hijyeni eğitim materyali oluşturulmuştur. Ulusal el hijyeni eğitim materyali el hijyeni eğiticilerine yol gösterici olarak hazırlanmış olup, içeriği eğitim verilen gruplara göre düzenlenebilir (genişletilebilir veya daraltılabilir). Eğitim materyali aynen kullanılabileceği gibi sadece bir örnek olarak da kullanılabilir. Eğitim materyali 2 tane sunum (slayt seti), ön test ve son test ve eğitici kılavuzundan oluşmaktadır.
 

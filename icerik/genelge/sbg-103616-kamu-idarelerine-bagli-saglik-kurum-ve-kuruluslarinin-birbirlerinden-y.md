@@ -14,7 +14,6 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-
 **11.3.7. Kamu İdarelerine Bağlı Sağlık Kurum ve Kuruluşlarının** Birbirlerinden Yapacakları Mal ve Hizmet Alımları Genelgesi (2018/01)
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -82,9 +81,7 @@ maliyetinin üzerine sadece kanuni kesintiler ilave edilerek belirlenecektir.
 
 3) Tarifelerinde fiyatı bulunmayan ve amortismana tabi olan malların bedeli
 
-amortisman tutarları da dikkate alınarak satışı yapacak olan Il Sağlık Müdürlüğü
-
-tarafından Taşınır Mal Yönetmeliği esaslarına göre belirlenecektir.
+amortisman tutarları da dikkate alınarak satışı yapacak olan Il Sağlık Müdürlüğü tarafından Taşınır Mal Yönetmeliği esaslarına göre belirlenecektir.
 
 1) İlgili tarifeleri ile fiyatları belirlenmiş olanların bedeli; tarifeleri ile belirlenen
 
@@ -94,9 +91,7 @@ sadece kanuni kesintiler ilave edilerek belirlenecektir.
 
 2) Tarifelerinde fiyatı bulunmayan ve hizmet alımı yolu ile üçüncü şahıslardan temin
 
-edilen hizmetlerin bedeli; ihale bedelinin üzerine sadece kanuni kesintiler ilave
-
-edilerek belirlenecektir.
+edilen hizmetlerin bedeli; ihale bedelinin üzerine sadece kanuni kesintiler ilave edilerek belirlenecektir.
 
 3) Tarifelerinde fiyatı bulunmayan ve idarelerce üretilen hizmetlerin bedeli; maliyet
 

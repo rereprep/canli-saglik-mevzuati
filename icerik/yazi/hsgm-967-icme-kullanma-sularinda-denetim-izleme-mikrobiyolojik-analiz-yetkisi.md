@@ -21,9 +21,7 @@ VALILIĞINE
 
 Ilgi: 26422013 tarihli %e 626650211117/23415 sayılı yazırnız.
 
-Bilindiği üzere Halk Sağlığı Laboratuvarlarının etkin ve verimli bir şekilde faaliyetlerini sürdarebilmesi için klinik dışı numunelerde analiz yetkileri yeniden belirlenerek ilgi yazı ile 81 11 Valiliğine gönderilmişti. Ilgi yazıda, insani tüketim amaçlı sular ile diğer stdann ilgili yönetmelikler kapsamında ruhsat, denetim izlemesi ve kontrol izlemesine yönelik analizlerinin L1 tipi Halk Sağlığı Laboratuvarlarında. kontrol izlemesi analizlerinin ise L2 tipi
-
-Halk Sağlığı Laboratuvarlarında yapılacağı husustı
+Bilindiği üzere Halk Sağlığı Laboratuvarlarının etkin ve verimli bir şekilde faaliyetlerini sürdarebilmesi için klinik dışı numunelerde analiz yetkileri yeniden belirlenerek ilgi yazı ile 81 11 Valiliğine gönderilmişti. Ilgi yazıda, insani tüketim amaçlı sular ile diğer stdann ilgili yönetmelikler kapsamında ruhsat, denetim izlemesi ve kontrol izlemesine yönelik analizlerinin L1 tipi Halk Sağlığı Laboratuvarlarında. kontrol izlemesi analizlerinin ise L2 tipi Halk Sağlığı Laboratuvarlarında yapılacağı husustı
 
 Ancak. illerimizin coğrafik büyüklüğü ve topografik şartları nedeniyle numune alma noktasına olan uzaklık. ulaşım süresi ve numunenin ulaştinlmasındaki güçlnklerden dolayı denetim izleınesine yönelik mikrobiyolojik su numunelerinin Ll tipi Halk Sağlığı Laboratuvarrna zamanında gönderilınesinde sıkıntılar yaşandığı hususu Kurumumuza sıkça iletilmektedir.
 
@@ -68,4 +66,3 @@ DAĞITIM:
 81 Il Valiliğine
 
 (Halk Sağlığı Müdürlüğü)
-

@@ -76,9 +76,7 @@ Sayı : B100AÇS0110000- Konu : Anne Ölümleri Veri Sistemi
 
 20. Bu genelgenin yürurluğe girmesi ile 2002/99 sayılı genelge uygulamadan kaldırılmıştır.
 
-Yukarıda belirtilen konulanın ilinizde titizlikle uygulanması hususunda ilgililere emirlerinizi ónemle rica ederim
-
-ounie
+Yukarıda belirtilen konulanın ilinizde titizlikle uygulanması hususunda ilgililere emirlerinizi ónemle rica ederim ounie
 
 Prof. Dr. Necdet ÜNÜVAR
 

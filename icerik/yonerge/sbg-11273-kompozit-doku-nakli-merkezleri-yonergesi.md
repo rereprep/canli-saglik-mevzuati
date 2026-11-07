@@ -340,11 +340,7 @@ n) Nakil konusunda deneyimli immünolog. Nakil merkezinde immünolog yok ise hiz
 
 **MADDE 18 –** (1) Sorumlu uzman: a) Üst solunum/sindirim yolları nakli yapılan merkezde, uzman olduktan sonra yurtiçi veya yurtdışında üst solunum yolları ve üst sindirim yolları cerrahisi alanında en az iki yıl deneyimli olduğunu ilgili kurumdan belgeleyen kulak burun boğaz, genel cerrahi veya göğüs cerrahisi uzmanı bir hekim veya,
 
-Uzman olduktan sonra yurtiçi veya yurtdışında mikrovasküler cerrahi alanında en
-
-az iki yıl deneyimli, en az 50 replantasyon veya serbest doku nakli ameliyatında aktif görev almış, bunlardan en az 25 vakayı bizzat kendisinin yapmış olduğunu ilgili kurumdan belgeleyen kulak burun boğaz, genel cerrahi veya göğüs cerrahisi uzmanı hekim,
-
-sorumlu uzman olarak görevlendirilir.
+Uzman olduktan sonra yurtiçi veya yurtdışında mikrovasküler cerrahi alanında en az iki yıl deneyimli, en az 50 replantasyon veya serbest doku nakli ameliyatında aktif görev almış, bunlardan en az 25 vakayı bizzat kendisinin yapmış olduğunu ilgili kurumdan belgeleyen kulak burun boğaz, genel cerrahi veya göğüs cerrahisi uzmanı hekim, sorumlu uzman olarak görevlendirilir.
 
 (2) Sorumlu uzman yardımcısı: Sorumlu uzmanın birinci fıkranın (a) bendindeki niteliklere sahip olması halinde aynı fıkranın (b) bendinde sayılan niteliklere sahip bir hekim, sorumlu uzmanın birinci fıkranın (b) bendindeki niteliklere sahip olması halinde, aynı fıkranın (a) bendinde sayılan niteliklere sahip bir hekim, sorumlu uzman yardımcısı olarak görevlendirilir.
 
@@ -984,16 +980,16 @@ Kurum :……………………………………………………………….
 
 #### İmza: İmza:
 
- | EKSTREMİTE | YÜZ VE SAÇLI DERİ | ÜST SOLUNUM/ÜST SİNDİRİM YOLLARI | BAĞIRSAK
+| EKSTREMİTE | YÜZ VE SAÇLI DERİ | ÜST SOLUNUM/ÜST SİNDİRİM YOLLARI | BAĞIRSAK
 
- | EKSTREMİTE | YÜZ VE SAÇLI DERİ | ÜST SOLUNUM/ÜST SİNDİRİM YOLLARI | Donör | Top.
+| EKSTREMİTE | YÜZ VE SAÇLI DERİ | ÜST SOLUNUM/ÜST SİNDİRİM YOLLARI | Donör | Top.
 
- | EKSTREMİTE | YÜZ VE SAÇLI DERİ | ÜST SOLUNUM/ÜST SİNDİRİM YOLLARI | Canlı | Kad | Top.
+| EKSTREMİTE | YÜZ VE SAÇLI DERİ | ÜST SOLUNUM/ÜST SİNDİRİM YOLLARI | Canlı | Kad | Top.
 
-Transplantasyon Sayısı | 
+Transplantasyon Sayısı |
 
-Ölen Hasta Sayısı | 
+Ölen Hasta Sayısı |
 
-Nakil Bekleyen Hasta Sayısı | 
+Nakil Bekleyen Hasta Sayısı |
 
 Adı-Soyadı | Yaşı | Nakil Yapılan Doku | Doku Kaynağı (Kadavra) | Nakil Tarihi | Ölüm Tarihi | Ölüm Nedeni

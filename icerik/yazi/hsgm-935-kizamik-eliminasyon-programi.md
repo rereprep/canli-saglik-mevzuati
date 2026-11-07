@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Kizamik_El
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -22,9 +23,7 @@ Konu : Kızamık Eliminasyon Programı
 
 DAĞITIM YERLERİNE
 
-Dünya Sağlık Örgütü Avrupa Bölgesi’nin kızamık eliminasyon hedefi ile birlikte kızamığın eliminasyonu hedef olarak benimsenmiş olup 2002 yılından bu yana Ülkemizde de Kızamık Eliminasyon Programı yürütülmektedir. Kızamık ve Kızamıkçığın Eliminasyonu ve Konjenital Kızamıkçık Sendromu’nun Önlenmesi
-
-Programı ile Türkiye’de kızamık ve kızamıkçığı elimine etmek, konjenital kızamıkçık sendromunu önlemek ve bunları sürdürmek amaçlanmaktadır.
+Dünya Sağlık Örgütü Avrupa Bölgesi’nin kızamık eliminasyon hedefi ile birlikte kızamığın eliminasyonu hedef olarak benimsenmiş olup 2002 yılından bu yana Ülkemizde de Kızamık Eliminasyon Programı yürütülmektedir. Kızamık ve Kızamıkçığın Eliminasyonu ve Konjenital Kızamıkçık Sendromu’nun Önlenmesi Programı ile Türkiye’de kızamık ve kızamıkçığı elimine etmek, konjenital kızamıkçık sendromunu önlemek ve bunları sürdürmek amaçlanmaktadır.
 
 Kızamık kolay bulaşan bir hastalık olup vakaların erken dönemde tespit edilmesi, öneriler doğrultusunda vakalar ile temas eden kişilere uygun profilaktik uygulamaların yapılması ve eksik aşılıların hızla aşılanarak bir an önce koruma altına alınması eliminasyon hedefine ulaşmada çok önemlidir. Dünya Sağlık Örgütü, dünya genelinde kızamık vakalarında artış gözlemlendiğini bildirmiştir. Ülkemizde olası vaka artışlarının yaşanmaması için kızamığa karşı alınabilecek önlemlerin bir kez daha hatırlatılmasına ihtiyaç duyulmuştur. Bu kapsamda alınması gereken önlemler ve öneriler Ek-1 ve Ek-2’de sunulmuştur. Konunun üniversiteler de dahil olmak üzere kamu ve özel tüm sağlık kurum ve kuruluşlarına iletilmesi ve sağlık personellerinin bilgilendirilip gerekli önlemler ve önerilerin uygulamaya konulması/devamlılığının sağlanması hususunda;
 
@@ -68,9 +67,7 @@ Bilindiği gibi; il düzeyinde, yılda her 100.000 nüfus için en az 2 olası k
 
 - Aktif entegre sürveyans güçlendirilmelidir. Halen AFP aktif sürveyansını yapan görevliler kızamık, kızamıkçık, KKS ve MNT vakaları hakkında bilgi toplamakla da görevlidirler.
 
-- İki haftada bir yapılan rutin ziyaret sırasında hastane kayıtları incelenmelidir, bildirilmemiş vaka varsa Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu ve Vaka
-
-İnceleme Formu doldurulmalıdır. Yeni vaka varsa ve örnekler alınmamışsa, tanı ve virüs izolasyonu için örnek alınmalıdır. Ayrıca servis hemşiresi ve hekimler ile de görüşülmeli ve vaka olup olmadığı sorgulanmalıdır. Her 15 günde bir AFP ve MNT sürveyansıyla entegre biçimde “0 Vaka Bildirim Formu” aracılığıyla “0 Vaka Bildirimi” yürütülmelidir.
+- İki haftada bir yapılan rutin ziyaret sırasında hastane kayıtları incelenmelidir, bildirilmemiş vaka varsa Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu ve Vaka İnceleme Formu doldurulmalıdır. Yeni vaka varsa ve örnekler alınmamışsa, tanı ve virüs izolasyonu için örnek alınmalıdır. Ayrıca servis hemşiresi ve hekimler ile de görüşülmeli ve vaka olup olmadığı sorgulanmalıdır. Her 15 günde bir AFP ve MNT sürveyansıyla entegre biçimde “0 Vaka Bildirim Formu” aracılığıyla “0 Vaka Bildirimi” yürütülmelidir.
 
 - İllerde vaka saptanması durumunda ise günlük aktif sendromik (makülopapüler döküntü) sürveyansa geçilmesi gerekmektedir.
 
@@ -80,11 +77,7 @@ Bilindiği gibi; il düzeyinde, yılda her 100.000 nüfus için en az 2 olası k
 
 - Hastane kayıtlarında ve ICD-10 sisteminde aranacak olan vaka tanıları/kodları şunlardır: kızamık (rubeola)/B05, kızamıkçık (rubella)/B06, beşinci hastalık (eritema infeksiyozum)/B08.3, altıncı hastalık (roseola infantum)/B08.2.
 
-- Tüm şüpheli ve olası vakalar İZCİ sistemine (ve ikinci bir talimata kadar TSİM
-
-Kızamık/Kızamıkçık Vaka Cetveli'ne) kaydedilmeye devam edilmelidir. Kesin vakaların Halk
-
-Sağlığı Genel Müdürlüğü’ne bildirimi sırasında aşılanma ve aşılanmama durumu mutlaka kayıtlara (aşı kartı, HSYS Bağışıklama Modülü veya AHBS yoluyla) başvurularak sorgulanmalı ve aşılanmama nedeni de not alınmalıdır.
+- Tüm şüpheli ve olası vakalar İZCİ sistemine (ve ikinci bir talimata kadar TSİM Kızamık/Kızamıkçık Vaka Cetveli'ne) kaydedilmeye devam edilmelidir. Kesin vakaların Halk Sağlığı Genel Müdürlüğü’ne bildirimi sırasında aşılanma ve aşılanmama durumu mutlaka kayıtlara (aşı kartı, HSYS Bağışıklama Modülü veya AHBS yoluyla) başvurularak sorgulanmalı ve aşılanmama nedeni de not alınmalıdır.
 
 - Sürveyans konusunda temel başvuru kaynağı 01.04.2010 tarihli ve 18617-2010/20 sayılı Kızamık/Kızamıkçık ve Konjenital Kızamıkçık Sendromu Sürveyansı Genelgesi’dir.
 
@@ -114,9 +107,7 @@ Bu bebeklere, bu dönemde uygulanan 9-11 ay aşılaması rutin aşı dozu olarak
 
 **6. Eksik Aşıların Tamamlanması:**
 
-Aile hekimleri tarafından, kendilerine kayıtlı olan 72 ay ve altı çocukların aşılanma durumlarının (aşı kartı, HSYS Bağışıklama Modülü veya AHBS yoluyla) gözden geçirilerek yaşına göre eksik aşılı olan tüm bireyler ivedilikle aşılanmalıdır. Ayrıca
-
-Güçlendirilmiş/Göçmen Sağlığı Merkezi ve yabancı uyruklu polikliniklerinin hizmet sundukları yabancı uyruklu bireylerden eksik aşılı/aşısız olanların da aşılarının tamamlanması sağlanmalıdır.
+Aile hekimleri tarafından, kendilerine kayıtlı olan 72 ay ve altı çocukların aşılanma durumlarının (aşı kartı, HSYS Bağışıklama Modülü veya AHBS yoluyla) gözden geçirilerek yaşına göre eksik aşılı olan tüm bireyler ivedilikle aşılanmalıdır. Ayrıca Güçlendirilmiş/Göçmen Sağlığı Merkezi ve yabancı uyruklu polikliniklerinin hizmet sundukları yabancı uyruklu bireylerden eksik aşılı/aşısız olanların da aşılarının tamamlanması sağlanmalıdır.
 
 **7. Riskli Bölge Aşılaması:**
 
@@ -146,9 +137,7 @@ Bağışıklama Danışma Kurulu’nun 08.06.2023 tarihli toplantısında alına
 
 Dünya genelinde artan ve özellikle Avrupa ülkelerinde de yaygın olarak görülmekte olan kızamık nedeniyle bu ülkelerden gelen kişilerle temas riski yüksek olabilecek kişilerin aşılanması önerilir.
 
-Turizm sektöründe yer alan otel çalışanlarının, Kültür ve Turizm Bakanlığı ve İl Sağlık
-
-Müdürlükleri aracılığı ile bir yaşından sonra uygulanmış olma koşulu ile dört hafta ara ile kayıtlı iki doz KKK aşısı bulunmayanların ya da kızamığa karşı korunduğu dökümante edilememiş çalışanların KKK aşılamalarının tamamlanması gerekmektedir. Uygulamanın, mümkünse tüm personele ulaşılacak şekilde planlanması, öncelikle turistlerle doğrudan teması olan personelden başlanarak kademeli olarak yürütülmesi gereklidir.
+Turizm sektöründe yer alan otel çalışanlarının, Kültür ve Turizm Bakanlığı ve İl Sağlık Müdürlükleri aracılığı ile bir yaşından sonra uygulanmış olma koşulu ile dört hafta ara ile kayıtlı iki doz KKK aşısı bulunmayanların ya da kızamığa karşı korunduğu dökümante edilememiş çalışanların KKK aşılamalarının tamamlanması gerekmektedir. Uygulamanın, mümkünse tüm personele ulaşılacak şekilde planlanması, öncelikle turistlerle doğrudan teması olan personelden başlanarak kademeli olarak yürütülmesi gereklidir.
 
 Özellikle Avrupa ve dünyada artan kızamık vakaları nedeniyle transit geçişler de değerlendirildiğinde yolcularla direkt teması olan ve diğer havalimanı çalışanlarının kızamığa karşı korunur olduklarının dökümante edilmesi gerekmektedir, aşısı eksik olanların aşılarının tamamlanması önerilir.
 
@@ -178,9 +167,7 @@ Kesin tanı alan vaka ile karşılaşılması durumunda gerekli olacak incelemel
 
 Değerli Hekimler,
 
-Dünya Sağlık Örgütü Avrupa Bölgesinin **Kızamık** Eliminasyon hedefine paralel olarak kızamık ve kızamıkçığın eliminasyonu hedef olarak benimsenmiş olup 2002 yılından bu yana
-
-Kızamık Eliminasyonu Programı yürütülmektedir.
+Dünya Sağlık Örgütü Avrupa Bölgesinin **Kızamık** Eliminasyon hedefine paralel olarak kızamık ve kızamıkçığın eliminasyonu hedef olarak benimsenmiş olup 2002 yılından bu yana Kızamık Eliminasyonu Programı yürütülmektedir.
 
 Ülkemizdeki yasal düzenlemelere göre; kızamık ihbarı ve bildirimi zorunlu bir hastalıktır.
 
@@ -194,9 +181,7 @@ Kızamık çocukluk yaş grubunda daha sık olmak üzere her yaşta görülebile
 
 Hastalık, solunum yoluyla bulaşmakta, ateş ve döküntü ile seyretmektedir. Beraberinde öksürük, burun akıntısı, halsizlik ve konjunktivit gibi belirtiler bulunabilir.
 
-Kızamık ölümcül olabilen bir viral hastalıktır. Bildirilen kızamık vakalarının yaklaşık
-
-%30’unda bir ya da daha fazla komplikasyon gelişmektedir. Bir yaş altı çocuklarda ve erişkinlerde ciddi komplikasyon riski daha yüksektir. Gelişmekte olan ülkelerde görülen komplikasyonlar şunlardır: Pnömoni (%1-6), diyare (%6), otitis media (%7-9), körlük ve post enfeksiyöz ensefalit (1000 vakada 1).
+Kızamık ölümcül olabilen bir viral hastalıktır. Bildirilen kızamık vakalarının yaklaşık %30’unda bir ya da daha fazla komplikasyon gelişmektedir. Bir yaş altı çocuklarda ve erişkinlerde ciddi komplikasyon riski daha yüksektir. Gelişmekte olan ülkelerde görülen komplikasyonlar şunlardır: Pnömoni (%1-6), diyare (%6), otitis media (%7-9), körlük ve post enfeksiyöz ensefalit (1000 vakada 1).
 
 **Kızamık için Bulaştırıcılık Dönemi**
 
@@ -238,9 +223,7 @@ Doğrulanmış en az bir kızamık vakasının bulunduğu durumlarda takip eden 
 
 **1. İhbarda bulunulmalı**
 
-Hekimlerin şüpheli ve olası kızamık vakası ile karşılaşmaları durumunda bildirimi İZCİ
-
-Sistemi üzerinden yapılmalı ve ayrıca İl Sağlık Müdürlüğü/İlçe Sağlık Müdürlüğü’ne ihbarda bulunulmalıdır.
+Hekimlerin şüpheli ve olası kızamık vakası ile karşılaşmaları durumunda bildirimi İZCİ Sistemi üzerinden yapılmalı ve ayrıca İl Sağlık Müdürlüğü/İlçe Sağlık Müdürlüğü’ne ihbarda bulunulmalıdır.
 
 **2. Hastadan uygun kan/idrar/nazofarengeal sürüntü örnekleri alınmalı** a. Hastadan 5 ml kan örneği steril tüpe alınmalı ve hastanın adı-soyadı ve örneğin alındığı tarih etiketlenmelidir.
 

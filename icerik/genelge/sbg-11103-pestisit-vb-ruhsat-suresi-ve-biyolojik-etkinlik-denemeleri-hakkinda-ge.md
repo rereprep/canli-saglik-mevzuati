@@ -22,9 +22,7 @@ Etkinlik Denemeleri
 
 -Zararlı mücadelesinde ruhsatlı pestisitlerin belirli zaman aralıklarıyla gözden geçirilmesi,
 
--Pekçok gelişmiş ülkede uygulandığı gibi ruhsatlandırılan herhangi bir pestisitin süresiz kullanım hakkına sahip olmaması,
-
-gibi nedenlerden dolayı tüm gelişmiş ülkelerde olduğu gibi Bakanlığımızca ruhsatlandırılan pestisitlerin ruhsat süresi 10 (on) yıl ile sınırlandırılmıştır. Sınırlandırmaya mevcut ruhsatlar da dahildir.
+-Pekçok gelişmiş ülkede uygulandığı gibi ruhsatlandırılan herhangi bir pestisitin süresiz kullanım hakkına sahip olmaması, gibi nedenlerden dolayı tüm gelişmiş ülkelerde olduğu gibi Bakanlığımızca ruhsatlandırılan pestisitlerin ruhsat süresi 10 (on) yıl ile sınırlandırılmıştır. Sınırlandırmaya mevcut ruhsatlar da dahildir.
 
 Süre sonunda ruhsatın devam edebilmesi için biyolojik etkinlik testlerinin tekrarlanması, kimyasal analizlerin ve potens testlerinin yaptırılması,
 

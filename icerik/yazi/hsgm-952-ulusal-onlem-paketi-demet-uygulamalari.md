@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Ulusal_Onl
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 BAŞKANLIĞI
 
 T.C.
@@ -26,9 +27,7 @@ Uygulamaları
 
 DAĞITIM YERLERİNE
 
-Sağlık hizmeti sunumunda kalite ve hasta güvenliğinin artırılması, standart uygulamaların sürdürülebilirliğinin sağlanması ve veri temelli kanıta dayalı yönetimin güçlendirilmesi amacıyla, ''Çok Bileşenli
-
-Ulusal Önlem Paketi (Demet) Uygulamaları İyileştirme Stratejisi'' kapsamında uyum ölçütlerinin takibinde kullanılan kontrol listelerinin dijital ortama aktarılması için Hastane Bilgi Yönetim Sistemleri (HBYS) ile entegrasyonu büyük önem arz etmektedir.
+Sağlık hizmeti sunumunda kalite ve hasta güvenliğinin artırılması, standart uygulamaların sürdürülebilirliğinin sağlanması ve veri temelli kanıta dayalı yönetimin güçlendirilmesi amacıyla, ''Çok Bileşenli Ulusal Önlem Paketi (Demet) Uygulamaları İyileştirme Stratejisi'' kapsamında uyum ölçütlerinin takibinde kullanılan kontrol listelerinin dijital ortama aktarılması için Hastane Bilgi Yönetim Sistemleri (HBYS) ile entegrasyonu büyük önem arz etmektedir.
 
 Bu kapsamda tüm yataklı tedavi kurumlarında;
 

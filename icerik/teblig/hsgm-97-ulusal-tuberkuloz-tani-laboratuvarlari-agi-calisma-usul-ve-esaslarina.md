@@ -23,9 +23,7 @@ NURHAN ALBAYRAK
 
 Amaç;
 
-Sürveyans nedir? daha fazla hayatın
-
-kurtarılması
+Sürveyans nedir? daha fazla hayatın kurtarılması
 
 Sistem
 
@@ -221,9 +219,7 @@ Dünya’da Tüberküloz
 
 (Çok ilaca dirençli-TB)
 
-Ulusal TB programları tarafından 2013 yılında
-
-tahmini olarak bildirilen ÇİD-TB olguları
+Ulusal TB programları tarafından 2013 yılında tahmini olarak bildirilen ÇİD-TB olguları
 
 ÇİD-TB olarak tespit edilen olgular
 
@@ -501,9 +497,7 @@ Türkiye toplamı (2010) 10740 4734 (44,1)
 
 M. tuberculosis’in rifampisin direnci tespitinde
 
-MGIT-960 otomatik sistemi ile moleküler direnç
-
-sonuçlarının karşılaştırılması (n=4824)
+MGIT-960 otomatik sistemi ile moleküler direnç sonuçlarının karşılaştırılması (n=4824)
 
 Genotipik (MtbDRplus)
 
@@ -521,9 +515,7 @@ Toplam 4325 499 4824
 
 M. tuberculosis’in izoniyazid direnci tespitinde
 
-MGIT-960 otomatik sistemi ile moleküler direnç
-
-sonuçlarının karşılaştırılması (n=4824)
+MGIT-960 otomatik sistemi ile moleküler direnç sonuçlarının karşılaştırılması (n=4824)
 
 Genotipik (MtbDRplus)
 
@@ -541,9 +533,7 @@ Toplam 3813 1011 4824
 
 M. tuberculosis’in florokinolon direnci tespitinde
 
-MGIT-960 otomatik sistemi ile moleküler direnç
-
-sonuçlarının karşılaştırılması (n=340)
+MGIT-960 otomatik sistemi ile moleküler direnç sonuçlarının karşılaştırılması (n=340)
 
 Genotipik (MtbDRsL)
 
@@ -561,9 +551,7 @@ Toplam 302 38 340
 
 M. tuberculosis’in AG/CP direnci tespitinde
 
-MGIT-960 otomatik sistemi ile moleküler direnç
-
-sonuçlarının karşılaştırılması (n=340)
+MGIT-960 otomatik sistemi ile moleküler direnç sonuçlarının karşılaştırılması (n=340)
 
 Genotipik (MtbDRsL)
 
@@ -663,9 +651,7 @@ SPOLIGO OKTAL KOD SPOLIGOAİLESİ SIT İzolat sayısı (%)
 
 Kümeleşme oranı %100
 
-TuLSA Faaliyetleri – Web Sistemi
-
-tb.thsk.gov.tr
+TuLSA Faaliyetleri – Web Sistemi tb.thsk.gov.tr
 
 TuLSA Faaliyetleri – Web Sistemi
 
@@ -685,9 +671,7 @@ TuLSA Faaliyetleri – Web Sistemi
 
 Tüm verileri görebilmektedir.
 
-kültür pozitif TB hasta verilerinin paylaşıldığı web
-
-tabanlı bir sistemdir.
+kültür pozitif TB hasta verilerinin paylaşıldığı web tabanlı bir sistemdir.
 
 TuLSA Faaliyetleri – Web Sistemi
 
@@ -779,11 +763,7 @@ Sürveyans Kapsamında (2011-2013);
 
  22.02.2012 / 28212 sayılı Resmi Gazete’de yayımlanan
 
-‘Ulusal Tüberküloz Tanı Laboratuvarları Ağı Çalışma Usul
-
-ve Esaslarına Dair Tebliğ’e göre değerlendirme
-
-yapılmaktadır.
+‘Ulusal Tüberküloz Tanı Laboratuvarları Ağı Çalışma Usul ve Esaslarına Dair Tebliğ’e göre değerlendirme yapılmaktadır.
 
 2011 – 2013 YDZ Sonuçları
 
@@ -959,9 +939,7 @@ Başlıklar;
 
 Biyogüvenlik Şartları, Tıbbi Atıklar
 
- Laboratuvar Ağı, Laboratuvar Ağına Dahil Olma Kriterleri
-
-ve Tüberküloz Laboratuvarlarının Ağdan Kaynaklı
+ Laboratuvar Ağı, Laboratuvar Ağına Dahil Olma Kriterleri ve Tüberküloz Laboratuvarlarının Ağdan Kaynaklı
 
 Görevleri
 
@@ -983,9 +961,7 @@ Düzeylendirme;
 
  Düzey 3;
 
- üremiş kültürden tanımlama ve ilaç duyarlılık testi yapan
-
-laboratuvarlardır.
+ üremiş kültürden tanımlama ve ilaç duyarlılık testi yapan laboratuvarlardır.
 
 TuLSA Faaliyetleri – Tebliğ revizyonu
 
@@ -1017,9 +993,7 @@ Risk Düzeyleri ve biyogüvenlik;
 
  Yüksek riskli TB laboratuvarı;
 
- üremiş kültürden tür tayini, ilaç duyarlılık testleri veya
-
-moleküler testler yapar.
+ üremiş kültürden tür tayini, ilaç duyarlılık testleri veya moleküler testler yapar.
 
 TuLSA Faaliyetleri – Tebliğ revizyonu
 
@@ -1175,9 +1149,7 @@ Sürveyans rehberi ve tebliğde tanımlanmıştır;
 
  DKD programına katılım
 
- Yerinde değerlendirme ziyareti programına
-
-katılım
+ Yerinde değerlendirme ziyareti programına katılım
 
  İDT sonuçlarının kontrolü
 

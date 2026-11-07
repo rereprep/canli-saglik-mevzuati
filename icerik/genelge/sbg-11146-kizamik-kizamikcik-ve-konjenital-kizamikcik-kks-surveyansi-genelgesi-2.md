@@ -46,13 +46,11 @@ e. Rutin bağışıklama hızlarıyla programın sürekli izlenmesi ve değerlen
 
 salgınların kontrolü ve önlenmesi stratejilerini belirlenmesinde kullanılması ve
 
-gerekiyorsa seroprevalans araştırmaları ile hassas nüfus birikimine ilişkin bilgi
-
-sağlanması.
+gerekiyorsa seroprevalans araştırmaları ile hassas nüfus birikimine ilişkin bilgi sağlanması.
 
 ### g. Vaka ve salgın doğrulaması için oluşturulmuş olan bir laboratuvar ağının
 
-geliştirilmesidir. Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı, 
+geliştirilmesidir. Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı,
 
 ### T.C. K-Q SAGLIK BAKANLIĞI TSE-ISO-EN
 
@@ -176,15 +174,9 @@ desteğinin alınması.
 
 · Vaka bazında, laboratuvar destekli sürveyansın sürdürülmesi,
 
-· Salgınların erken saptanması, incelenmesi, doğrulanmasını ve elde edilen verilerin
+· Salgınların erken saptanması, incelenmesi, doğrulanmasını ve elde edilen verilerin salgınların kontrolü ve önlenmesi stratejilerinin belirlenmesinde kullanılması ve gerekiyorsa seroprevalans araştırmaları ile hassas nüfus birikimine ilişkin bilgi sağlanması.
 
-salgınların kontrolü ve önlenmesi stratejilerinin belirlenmesinde kullanılması ve
-
-gerekiyorsa seroprevalans araştırmaları ile hassas nüfus birikimine ilişkin bilgi sağlanması.
-
-· Riskli ülkelerden ülkemize yönelik nüfus hareketleri yakından izlenerek ülkemize importe
-
-olabilecek vakalar için gerekli önlemlerin alınması,
+· Riskli ülkelerden ülkemize yönelik nüfus hareketleri yakından izlenerek ülkemize importe olabilecek vakalar için gerekli önlemlerin alınması,
 
 · Vaka ve salgın doğrulaması için oluşturulmuş olan bir laboratuvar ağının geliştirilmesi,
 
@@ -224,9 +216,7 @@ yetersizliği, eksik aşılılık vb),
 
 · Salgınların erken saptanması, incelenmesi, doğrulanması ve elde edilen verilerin
 
-salgınların kontrolü ve önlenmesi stratejilerinin belirlenmesinde kullanılması ve
-
-gerekiyorsa seroprevalans araştırmaları ile hassas nüfus birikimine ilişkin bilgi sağlanması,
+salgınların kontrolü ve önlenmesi stratejilerinin belirlenmesinde kullanılması ve gerekiyorsa seroprevalans araştırmaları ile hassas nüfus birikimine ilişkin bilgi sağlanması,
 
 · Bulaş riski altındaki toplumun ve biriken hassas nüfusun incelenmesi ve gerekli önlemlerin
 
@@ -244,9 +234,7 @@ neonatal tetanoz-MNT- sürveyansına entegre edilmesi),
 
 · Aşı sonrası istenmeyen etki sürveyansı ile bağışıklama güvenliğinin izlenmesi,
 
-· Riskli ülkelerden ülkemize yönelik nüfus hareketleri yakından izlenerek ülkemize importe
-
-olabilecek vakalar için gerekli önlemlerin alınması,
+· Riskli ülkelerden ülkemize yönelik nüfus hareketleri yakından izlenerek ülkemize importe olabilecek vakalar için gerekli önlemlerin alınması,
 
 · Hedeflenen program amaçlarına ulaşılıp ulaşılmadığının izlenmesi ve değerlendirilmesidir.
 
@@ -530,9 +518,7 @@ gerçekleşmelidir.
 
 Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapar. Hastaneler ise ya
 
-doğrudan, ya da varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim
-
-yapar.
+doğrudan, ya da varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapar.
 
 **3. Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formunu (Ek 1) doldurunuz:** Bu form
 
@@ -582,13 +568,7 @@ Daha detaylı bilgi için Ek 3’e bakınız.
 
 8. Hastanın izolasyonu konusunda aileyi bilgilendiriniz, hastane ortamında ise
 
-**izolasyonunu sağlayınız:** Hastalar, hastaneye yatışlarını gerektiren ek bir durum yoksa
-
-evlerinde izole edilmeli, hane halkı dışındakilerle teması sınırlı tutulmalıdır. Daha detaylı
-
-bilgi için Ek 4’e bakınız. Tüm temaslılar en uzun inkübasyon süresince izlenerek belirtilerin
-
-başlaması durumunda örnek alınmalıdır.
+**izolasyonunu sağlayınız:** Hastalar, hastaneye yatışlarını gerektiren ek bir durum yoksa evlerinde izole edilmeli, hane halkı dışındakilerle teması sınırlı tutulmalıdır. Daha detaylı bilgi için Ek 4’e bakınız. Tüm temaslılar en uzun inkübasyon süresince izlenerek belirtilerin başlaması durumunda örnek alınmalıdır.
 
 9. Bilgiyi Form 016’ya (Ek 5), 017A’ya (Ek 6) ve GBP Sürveyans Formuna (Ek 7)
 
@@ -648,11 +628,7 @@ ettiği kişiler, varsa okulu, işyeri taranmalı ve orada bulunan kişilerin a�
 
 kontrol edilmelidir. Bölgenin aşılanma durumu değerlendirilir. Şüpheli/olası vaka ile temas
 
-eden herkesin aşılanma durumları kayıtlardan (Form 12A/B vb) sorgulanarak örnek sonucu
-
-beklenmeden ilk 72 saat içerisinde aşı ve ilk 6 gün içerisinde immünglobulin uygulanması
-
-sağlanmalıdır.
+eden herkesin aşılanma durumları kayıtlardan (Form 12A/B vb) sorgulanarak örnek sonucu beklenmeden ilk 72 saat içerisinde aşı ve ilk 6 gün içerisinde immünglobulin uygulanması sağlanmalıdır.
 
 **3. Kümelenme varsa salgın incelemesi başlatınız:** Her yeni saptanan şüpheli vaka için
 
@@ -666,13 +642,7 @@ Yaklaşım”).
 
 4. Saptanan vakalarla, aileleriyle ve takip eden hekimle vakaların izolasyonu
 
-**konusunda görüşünüz:** Hastalar, hastaneye yatışlarını gerektiren ek bir durum yoksa
-
-evlerinde izole edilmeli, hane halkı dışındakilerle teması sınırlı tutulmalıdır. Daha detaylı
-
-bilgi için Ek 4’e bakınız. Tüm temaslılar en uzun inkübasyon süresince izlenerek
-
-belirtilerin başlaması durumunda örnek alınmalıdır.
+**konusunda görüşünüz:** Hastalar, hastaneye yatışlarını gerektiren ek bir durum yoksa evlerinde izole edilmeli, hane halkı dışındakilerle teması sınırlı tutulmalıdır. Daha detaylı bilgi için Ek 4’e bakınız. Tüm temaslılar en uzun inkübasyon süresince izlenerek belirtilerin başlaması durumunda örnek alınmalıdır.
 
 5. Alınan örnekleri belirlenen günlerde Sağlık Müdürlüğüne ulaştırmak üzere uygun
 
@@ -718,13 +688,9 @@ Salgınlarına Yaklaşım”).
 
 3. Gelen örnekleri Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu (Ek 1) ile
 
-**birlikte Bölge Hıfzıssıhha Müdürlüğü’ne (BHM) gönderiniz:** Örnekler ilin bağlı
+**birlikte Bölge Hıfzıssıhha Müdürlüğü’ne (BHM) gönderiniz:** Örnekler ilin bağlı bulunduğu BHM’ye (Ek 9) gönderilmelidir. Örnekler haftada iki kez BHM’ye
 
-bulunduğu BHM’ye (Ek 9) gönderilmelidir. Örnekler haftada iki kez BHM’ye
-
-gönderilecek şekilde planlama yapılmalıdır. Örneklerin nasıl gönderileceği konusunda
-
-daha detaylı bilgi için Ek 3’e bakınız.
+gönderilecek şekilde planlama yapılmalıdır. Örneklerin nasıl gönderileceği konusunda daha detaylı bilgi için Ek 3’e bakınız.
 
 4. Kızamık/Kızamıkçık Vaka İnceleme Formunu laboratuvar sonucu geldiğinde
 
@@ -742,9 +708,7 @@ Daire Başkanlığı’na gönderilmek üzere Bulaşıcı Hastalıklar Şubesind
 
 olası/kesin kızamık/kızamıkçık vakaları için il vaka cetveli hazırlanarak her ayın
 
-**sonunda Sağlık Bakanlığı’na gönderiniz:** TSM/Sağlık Grup Başkanlıkları tarafından
-
-gönderilmiş olan vaka cetvelleri birleştirildikten sonra, vaka inceleme formlarından da
+**sonunda Sağlık Bakanlığı’na gönderiniz:** TSM/Sağlık Grup Başkanlıkları tarafından gönderilmiş olan vaka cetvelleri birleştirildikten sonra, vaka inceleme formlarından da
 
 yararlanılarak Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı
 
@@ -810,9 +774,7 @@ işlemden geçirildikten sonra uygun şartlar altında RSHMB’ye gönderiniz: B
 
 tarafından kendilerine ulaşan idrar örnekleri ön işlemden geçirildikten sonra uygun soğuk
 
-zincir koşullarında RSHMB’ye gönderilmelidir. Örneklerin nasıl gönderileceği konusunda
-
-daha detaylı bilgi için Ek 3’e bakınız.
+zincir koşullarında RSHMB’ye gönderilmelidir. Örneklerin nasıl gönderileceği konusunda daha detaylı bilgi için Ek 3’e bakınız.
 
 **4. Elde edilen sonuçları derhal İl Sağlık Müdürlüğüne ve RSHMB’ye bildiriniz:** Geri
 
@@ -840,9 +802,7 @@ BHM’lerden gönderilen örneklere ilişkin verilerle birleştirilerek oluştur
 
 <i>Cetveli</i> uygun elektronik ortamda Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü
 
-Daire Başkanlığı’na gönderilmelidir. Her ayın ilk haftasında elektronik form gönderilmiş
-
-olmalıdır.
+Daire Başkanlığı’na gönderilmelidir. Her ayın ilk haftasında elektronik form gönderilmiş olmalıdır.
 
 ### DAİMİ GENELGE 23/36
 
@@ -864,21 +824,13 @@ Son sınıflama Şekil 6’ya göre yapılacaktır (Bkz: Olası Kızamık/Kızam
 
 Tüm vakalar ayrıca importe, importe vakayla ilişkili veya importasyonla ilişkili olmayan vaka şeklinde de sınıflanacaktır:
 
-· İmporte Vaka: Döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık
-
-için 7-18, kızamıkçık için 12-23 gün) yurt dışında bulunma öyküsü olan ve epidemiyolojik
-
-ve/veya virolojik olarak da yabancı kaynaklı enfeksiyona ilişkin kanıtlarla desteklenen
-
-vakadır.
+· İmporte Vaka: Döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık için 7-18, kızamıkçık için 12-23 gün) yurt dışında bulunma öyküsü olan ve epidemiyolojik ve/veya virolojik olarak da yabancı kaynaklı enfeksiyona ilişkin kanıtlarla desteklenen vakadır.
 
 · İmporte Vakayla İlişkili Vaka: İmporte vakayla epidemiyolojik ve/veya virolojik ilişkisi
 
 bulunan vakadır. İmporte vakayla ilişkili tüm vakalar yerli vaka olarak kabul edilir.
 
-· İmportasyonla İlişkili Olmayan Vaka: İmportasyonun veya importe vakayla ilişkinin
-
-kanıtlanamadığı veya enfeksiyon kaynağı bilinmeyen sporadik vakadır. Yerli vaka olarak
+· İmportasyonla İlişkili Olmayan Vaka: İmportasyonun veya importe vakayla ilişkinin kanıtlanamadığı veya enfeksiyon kaynağı bilinmeyen sporadik vakadır. Yerli vaka olarak
 
 kabul edilir. 6.5.1. Aşılanma Öyküsü Durumunda Yaklaşım (cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127) Kızamık ve/veya kızamıkçık aşısı uygulanmış olan kişilerde, aşılamadan sonra IgM
 
@@ -898,9 +850,7 @@ yer almaktadır: Tablo 4. Aşılanma Öyküsü Olan Vakaya Yaklaşım Epidemiyol
 
 ### Laboratuvar ve Laboratuvar Laboratuvarla Son sınıflandırma
 
-epidemiyolojik incelemesi sonucu doğrulanmış vakayla
-
-inceleme gereken
+epidemiyolojik incelemesi sonucu doğrulanmış vakayla inceleme gereken
 
 epidemiyolojik ilişki
 
@@ -914,9 +864,7 @@ kızamıkçık pozitif kızamık/kızamıkçık
 
 **Şüpheli vaka/** Kızamık veya
 
-Kızamık veya Negatif 3 kızamıkçık değil
-
-kızamıkçık klinik
+Kızamık veya Negatif 3 kızamıkçık değil kızamıkçık klinik
 
 tanımlaması ile
 
@@ -938,9 +886,7 @@ incelemesi başlatınız,
 
 4. Virüs izolasyonu için nazofarengeal sürüntü ve idrar örneği alarak Vaka Bildirim
 
-ve Laboratuvar İstek ve Sonuç Formu (Ek 1) ile birlikte Sağlık Müdürlüğüne
-
-gönderiniz.
+ve Laboratuvar İstek ve Sonuç Formu (Ek 1) ile birlikte Sağlık Müdürlüğüne gönderiniz.
 
 5. Bilgiyi Form 016’ya (Ek 5), Form 017A’ya (Ek 5) ve GBP Sürveyans Formuna
 
@@ -1022,9 +968,7 @@ d) Hane ve mahalle halkı döküntülü ve/veya ateşli başka vaka görüldüğ
 
 a) Vakanın kızamık/kızamıkçık virüsünü kimden/nereden almış olabileceği
 
-sorgulanmalıdır. Bunun için vakanın, döküntünün başlangıcından önceki inkübasyon
-
-süresi boyunca (kızamık için 7-18, kızamıkçık için 12-23 gün) döküntülü başka hasta
+sorgulanmalıdır. Bunun için vakanın, döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık için 7-18, kızamıkçık için 12-23 gün) döküntülü başka hasta
 
 ile karşılaşıp karşılaşmadığı veya seyahat öyküsü veya yurt/şehir dışından ziyaretçi
 
@@ -1056,13 +1000,7 @@ ii) 1-5 yaş aşısızlar ve ilköğretim çağında olup 2 dozdan az aşılı o
 
 1 yaş altına kızamık, 1 yaş ve üzerine ise KKK aşısı uygulanacaktır. Kızamık içeren iki aşı
 
-arasında bırakılması gereken süre en az 4 haftadır. 1 yaş altında aşı uygulanmış olan
-
-bebeklere, 1 yaşını doldurduklarında iki aşı arasında bırakılması gereken en az süre göz
-
-önüne alınarak tekrar aşı uygulanacaktır. Bu çocuklar, ilköğretim 1. sınıfa geldiklerinde
-
-tekrar aşılanacaktır.
+arasında bırakılması gereken süre en az 4 haftadır. 1 yaş altında aşı uygulanmış olan bebeklere, 1 yaşını doldurduklarında iki aşı arasında bırakılması gereken en az süre göz önüne alınarak tekrar aşı uygulanacaktır. Bu çocuklar, ilköğretim 1. sınıfa geldiklerinde tekrar aşılanacaktır.
 
 c) Vakalar komplikasyonlar yönünden izlenmeli ve gerekli tedavinin uygulanması
 
@@ -1090,13 +1028,9 @@ Laboratuvar İstek ve Sonuç Formu (Ek 1) ile birlikte Sağlık Müdürlüğüne
 
 2. Gelen örnekleri Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu (Ek 1) ile
 
-**birlikte Bölge Hıfzıssıhha Müdürlüğüne (BHM) gönderiniz:** Örnekler ilin bağlı
+**birlikte Bölge Hıfzıssıhha Müdürlüğüne (BHM) gönderiniz:** Örnekler ilin bağlı bulunduğu BHM’ye (Ek 9) gönderilmelidir. Örnekler sıcak vaka olduğu için derhal
 
-bulunduğu BHM’ye (Ek 9) gönderilmelidir. Örnekler sıcak vaka olduğu için derhal
-
-BHM’ye gönderilecek şekilde planlama yapılmalıdır. Örneklerin nasıl gönderileceği
-
-konusunda daha detaylı bilgi için Ek 3’e bakınız.
+BHM’ye gönderilecek şekilde planlama yapılmalıdır. Örneklerin nasıl gönderileceği konusunda daha detaylı bilgi için Ek 3’e bakınız.
 
 **3. Vaka İnceleme Formunu Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü**
 
@@ -1166,27 +1100,15 @@ sağlayınız.
 
 **1. TSM/Sağlık Grup Başkanlığını bilgilendiriniz:** Sağlık ocakları/aile hekimlikleri TSM/
 
-Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine, hastaneler ise ya doğrudan ya da
+Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine, hastaneler ise ya doğrudan ya da varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapmalıdır.
 
-varsa Sağlık Grup Başkanlıkları aracılığı ile Sağlık Müdürlüklerine bildirim yapmalıdır.
+**2. KKS Vaka İnceleme Formunu (Ek 12) doldurunuz:** Tam ve doğru olarak doldurulmalıdır. Gerektiğinde (annenin gebelik takibi) yazılı kayıtlara başvurulmalıdır.
 
-**2. KKS Vaka İnceleme Formunu (Ek 12) doldurunuz:** Tam ve doğru olarak
-
-doldurulmalıdır. Gerektiğinde (annenin gebelik takibi) yazılı kayıtlara başvurulmalıdır.
-
-Epidemiyolojik ilişki ile ilgili bilgi, vaka sınıflaması için gereklidir. Laboratuvar sonucu
-
-çıktıktan sonra Sağlık Müdürlüğü tarafından son vaka sınıflaması yapılarak bu forma
-
-işlenmelidir. Doğrulanmış vakaların formları Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın
+Epidemiyolojik ilişki ile ilgili bilgi, vaka sınıflaması için gereklidir. Laboratuvar sonucu çıktıktan sonra Sağlık Müdürlüğü tarafından son vaka sınıflaması yapılarak bu forma işlenmelidir. Doğrulanmış vakaların formları Sağlık Bakanlığı Bulaşıcı Hastalıklar ve Salgın
 
 Kontrolü Daire Başkanlığı’na gönderilmelidir.
 
-**3. Laboratuvar tanısı için kan (serum) örneği alınız (Ek 3),** Şüpheli KKS vakalarında, IgM
-
-serolojisi için alınacak tek serum örneği yeterlidir. Ancak, klinik olarak uyumlu olmasına
-
-rağmen kızamıkçığa özgü IgM sonucu negatif olarak saptanmışsa,
+**3. Laboratuvar tanısı için kan (serum) örneği alınız (Ek 3),** Şüpheli KKS vakalarında, IgM serolojisi için alınacak tek serum örneği yeterlidir. Ancak, klinik olarak uyumlu olmasına rağmen kızamıkçığa özgü IgM sonucu negatif olarak saptanmışsa,
 
 a. 6 aydan küçük bebeklerde, kızamıkçığa özgü IgM ve IgG serolojisini
 
@@ -1208,15 +1130,9 @@ Daha detaylı bilgi için Ek 3’e bakınız.
 
 6. Hastanın izolasyonu konusunda aileyi bilgilendiriniz, hastane ortamında ise izolasyonu
 
-**sağlayınız:** İzolasyon önlemlerine çok dikkat edilmelidir. Sadece kızamıkçığa karşı bağışık
+**sağlayınız:** İzolasyon önlemlerine çok dikkat edilmelidir. Sadece kızamıkçığa karşı bağışık olan kişiler ile temas etmelidir. Duyarlı gebe kadınlarla temas etmemesine dikkat edilmelidir.
 
-olan kişiler ile temas etmelidir. Duyarlı gebe kadınlarla temas etmemesine dikkat edilmelidir.
-
-KKS’li bebekler yaşamlarının ilk yılında kızamıkçığı bulaştırabilirler. Uygun laboratuvar
-
-yöntemleriyle negatif oldukları gösterilene kadar önlemlere devam edilmelidir. Daha detaylı
-
-bilgi için Ek 4’e bakınız.
+KKS’li bebekler yaşamlarının ilk yılında kızamıkçığı bulaştırabilirler. Uygun laboratuvar yöntemleriyle negatif oldukları gösterilene kadar önlemlere devam edilmelidir. Daha detaylı bilgi için Ek 4’e bakınız.
 
 **7. Form 017 C (Ek 13) ile de bildirim yapınız.**
 
@@ -1226,9 +1142,7 @@ bilgi için Ek 4’e bakınız.
 
 Daha ileri Klinik İnceleme
 
-Laboratuvar Annede gebelikte Son Sınıflandırma
-
-laboratuvar ve
+Laboratuvar Annede gebelikte Son Sınıflandırma laboratuvar ve
 
 İncelemesi doğrulanmış
 
@@ -1344,9 +1258,7 @@ f) Eğer hasta bildirim yapılmadan taburcu olmuş ise vaka ile ilgili bilgi top
 
 g) Her iki haftada bir Aktif Sürveyans İl İzlem Formu (Ek 15) doldurularak Sağlık
 
-Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı’na
-
-gönderilmelidir.
+Bakanlığı Bulaşıcı Hastalıklar ve Salgın Kontrolü Daire Başkanlığı’na gönderilmelidir.
 
 ### DAİMİ GENELGE 31/36
 
@@ -1532,33 +1444,21 @@ a. Kızamık/kızamıkçığa özgü IgM ELISA şüpheli sonuçlanmışsa,
 
 b. Erken dönemde alınmış kan (serum) örneğinde klinik olarak uyumlu
 
-olmasına rağmen kızamık/kızamıkçığa özgü IgM sonucu negatif olarak
+olmasına rağmen kızamık/kızamıkçığa özgü IgM sonucu negatif olarak saptanmışsa.
 
-saptanmışsa.
-
-3. Şüpheli KKS vakalarında, IgM serolojisi için alınacak tek serum örneği
-
-yeterlidir. Ancak, klinik olarak uyumlu olmasına rağmen kızamıkçığa özgü
-
-IgM sonucu negatif olarak saptanmışsa,
+3. Şüpheli KKS vakalarında, IgM serolojisi için alınacak tek serum örneği yeterlidir. Ancak, klinik olarak uyumlu olmasına rağmen kızamıkçığa özgü IgM sonucu negatif olarak saptanmışsa,
 
 a. 6 aydan küçük bebeklerde, kızamıkçığa özgü IgM ve IgG serolojisini
 
 değerlendirmek için ikinci kan (serum) örneğinin alınması gerekir.
 
-b. 6 aydan büyük bebeklerde, birkaç ay sonra kızamıkçığa özgü IgG
-
-serolojisini değerlendirmek için ikinci kan (serum) örneğinin alınması
-
-gerekir.
+b. 6 aydan büyük bebeklerde, birkaç ay sonra kızamıkçığa özgü IgG serolojisini değerlendirmek için ikinci kan (serum) örneğinin alınması gerekir.
 
 B. Toplama ve Saklama:
 
 1. Hastadan yaklaşık olarak 5ml kan örneği steril tüpe alınmalı ve hastanın
 
-adı-soyadı ve örneğin alındığı tarih etiketlenmelidir (etiketlenme olanağı
-
-yoksa cam kalemi ile okunaklı şekilde yazılmalıdır).
+adı-soyadı ve örneğin alındığı tarih etiketlenmelidir (etiketlenme olanağı yoksa cam kalemi ile okunaklı şekilde yazılmalıdır).
 
 2. Santrifüj etme imkanı varsa yaklaşık 10-15 dakika oda ısısında
 
@@ -1566,9 +1466,7 @@ bekletildikten sonra 10 dakika 1000g (=3000 rpm) devirde santrifüj edilir.
 
 3. Santrifüj etme imkanı yoksa hemoliz olmasını engellemek için kan örneği
 
-hemen buzdolabına konulmalı ve serumu tamamen ayrılıncaya kadar
-
-buzdolabında bekletilmelidir.
+hemen buzdolabına konulmalı ve serumu tamamen ayrılıncaya kadar buzdolabında bekletilmelidir.
 
 4. Tam kan asla DONDURULMAMALIDIR.
 
@@ -1582,35 +1480,19 @@ kadar 4-8°C de saklanmalı ve soğuk zincir kurallarına uygun olarak 24
 
 saat içinde gönderilmelidir.
 
-7. Hastaya ait Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu (Ek 1),
-
-Vaka İnceleme Formu (Ek 2) veya KKS İnceleme Formu (Ek 12) eksiksiz
-
-olarak doldurulmalıdır.
+7. Hastaya ait Vaka Bildirim ve Laboratuvar İstek ve Sonuç Formu (Ek 1), Vaka İnceleme Formu (Ek 2) veya KKS İnceleme Formu (Ek 12) eksiksiz olarak doldurulmalıdır.
 
 8. Serum örnekleri 24 saat içinde gönderilemiyorsa buzdolabında en fazla 5
 
-gün muhafaza edilebilir. 5 günü aşan durumlarda serum örneği -20°C de
-
-saklanmalı ve laboratuvara donmuş olarak buz kutuları içinde
-
-ulaştırılmalıdır.
+gün muhafaza edilebilir. 5 günü aşan durumlarda serum örneği -20°C de saklanmalı ve laboratuvara donmuş olarak buz kutuları içinde ulaştırılmalıdır.
 
 9. Serumlar dondurulmuş olarak saklanıyorsa asla çözdürülmemelidir.
 
-Tekrarlayan donma ve çözünme işlemleri serum IgM antikor düzeylerini
-
-etkilemektedir.
+Tekrarlayan donma ve çözünme işlemleri serum IgM antikor düzeylerini etkilemektedir.
 
 10. Kan alma işlemi için ideal olan sistem vakumlu tüplerdir. Ancak gerekli
 
-ekipmanın bulunmadığı ve enjektör kullanılarak kan alındığı durumlarda,
-
-enjektördeki kanın tüpe aktarılması aşamasında kanın hemoliz olmasını
-
-engellemek için enjektör ucundaki iğnenin çıkarılarak kanın tüpe konması
-
-gerekmektedir. C. Laboratuvara Gönderme:
+ekipmanın bulunmadığı ve enjektör kullanılarak kan alındığı durumlarda, enjektördeki kanın tüpe aktarılması aşamasında kanın hemoliz olmasını engellemek için enjektör ucundaki iğnenin çıkarılarak kanın tüpe konması gerekmektedir. C. Laboratuvara Gönderme:
 
 1. Örnekler gönderilmeden önce mutlaka laboratuvarla görüşülmelidir.
 
@@ -1622,9 +1504,7 @@ gerekmektedir. C. Laboratuvara Gönderme:
 
 4. Örnekler buz kutuları içinde merkeze yerleştirildikten sonra çevresi buz
 
-aküleri ile desteklenmeli ve taşıma sırasında hareket etmeyecek şekilde
-
-sabitlenmelidir.
+aküleri ile desteklenmeli ve taşıma sırasında hareket etmeyecek şekilde sabitlenmelidir.
 
 5. Her örnek için doldurulması gerekli formlar mutlaka kontrol edilmeli ve
 
@@ -1660,9 +1540,7 @@ gelmesi için bekletilmemelidir.
 
 4. Örnekler buz kutuları içinde merkeze yerleştirildikten sonra çevresi buz
 
-aküleri ile desteklenmeli ve taşıma sırasında hareket etmeyecek şekilde
-
-sabitlenmelidir.
+aküleri ile desteklenmeli ve taşıma sırasında hareket etmeyecek şekilde sabitlenmelidir.
 
 5. Her örnek için doldurulması gerekli formlar mutlaka kontrol edilmeli ve
 
@@ -1682,9 +1560,7 @@ hazırlanacak viral taşıyıcı vasat içeren tüplere konulmalıdır.
 
 3. Eğer örnekler 24 saat içinde gönderilemeyecekse eküvyon taşıyıcı vasatın
 
-içinde dikkatli bir şekilde çalkalandıktan sonra atılmalıdır. Bu işlem,
-
-eküvyonda bulunan hücrelerin vasat ortamına geçmesini sağlayacaktır. C. Laboratuvara Gönderme:
+içinde dikkatli bir şekilde çalkalandıktan sonra atılmalıdır. Bu işlem, eküvyonda bulunan hücrelerin vasat ortamına geçmesini sağlayacaktır. C. Laboratuvara Gönderme:
 
 1. Örnekler gönderilmeden önce mutlaka laboratuvarla görüşülmelidir.
 
@@ -1696,9 +1572,7 @@ gelmesi için bekletilmemelidir.
 
 4. Örnekler buz kutuları içinde merkeze yerleştirildikten sonra çevresi buz
 
-aküleri ile desteklenmeli ve taşıma sırasında hareket etmeyecek şekilde
-
-sabitlenmelidir.
+aküleri ile desteklenmeli ve taşıma sırasında hareket etmeyecek şekilde sabitlenmelidir.
 
 5. Her örnek için doldurulması gerekli formlar mutlaka kontrol edilmeli ve
 
@@ -1714,53 +1588,33 @@ a. Evde:
 
 · Vaka, evde ayrı bir odada izole edilmelidir.
 
-· Hasta mümkün olduğunca bulunduğu odayı terk etmemeli, etmesi gerekiyorsa
-
-maske kullanmalıdır.
+· Hasta mümkün olduğunca bulunduğu odayı terk etmemeli, etmesi gerekiyorsa maske kullanmalıdır.
 
 · Odaya giriş ve çıkışlar sınırlandırılmalıdır.
 
 · Hastanın bakımından sorumlu kişiler maske kullanmalıdır.
 
-· Okula/kreşe vb devam eden çocuklar, kızamık/kızamıkçık tanısı ekarte edilene
-
-kadar okula gönderilmemelidir.
+· Okula/kreşe vb devam eden çocuklar, kızamık/kızamıkçık tanısı ekarte edilene kadar okula gönderilmemelidir.
 
 b. Sağlık Kuruluşlarında:
 
-· Sağlık kuruluşuna başvuran şüpheli vakalar bekleme anında ve muayene
-
-sırasında ayrı bir odaya alınmalıdır.
+· Sağlık kuruluşuna başvuran şüpheli vakalar bekleme anında ve muayene sırasında ayrı bir odaya alınmalıdır.
 
 ### · Hastaneye yatırılması gereken vakalar ayrı bir odada tutulmalıdır. · İzolasyon için tercih edilmesi gereken mekan negatif basınçlı odadır.
 
-· Negatif basınçlı oda yoksa hasta özel bir odaya tek başına olacak şekilde
+· Negatif basınçlı oda yoksa hasta özel bir odaya tek başına olacak şekilde yerleştirilmelidir.
 
-yerleştirilmelidir.
+· İlave özel odanın bulunmadığı durumlarda, hastalar başka bir kızamık/kızamıkçık vakasıyla aynı odaya yerleştirilmelidir (kohortlama).
 
-· İlave özel odanın bulunmadığı durumlarda, hastalar başka bir
-
-kızamık/kızamıkçık vakasıyla aynı odaya yerleştirilmelidir (kohortlama).
-
-· Hasta kesinlikle bekleme salonunda ya da acil servis şartlarında
-
-tutulmamalıdır.
+· Hasta kesinlikle bekleme salonunda ya da acil servis şartlarında tutulmamalıdır.
 
 · Hasta maske kullanmalıdır.
 
-· Odaya girmeden önce maske takılmalıdır. İzolasyon için negatif basınçlı oda
+· Odaya girmeden önce maske takılmalıdır. İzolasyon için negatif basınçlı oda sağlanamayacaksa FP3 (N95) ve üzeri maske takılmalıdır.
 
-sağlanamayacaksa FP3 (N95) ve üzeri maske takılmalıdır.
+· Hastanın kullandığı kişisel/tıbbi araç gereç ayrı tutulmalı ve kullanım sonrası dezenfekte edilmelidir.
 
-· Hastanın kullandığı kişisel/tıbbi araç gereç ayrı tutulmalı ve kullanım sonrası
-
-dezenfekte edilmelidir.
-
-· Hastanın zorunlu haller dışında odadan çıkışını sınırlanmalıdır. Çıkmak
-
-zorundaysa, virüs yayılımını azaltmak için hastaya mutlaka maske
-
-takılmalıdır.
+· Hastanın zorunlu haller dışında odadan çıkışını sınırlanmalıdır. Çıkmak zorundaysa, virüs yayılımını azaltmak için hastaya mutlaka maske takılmalıdır.
 
 ---
 

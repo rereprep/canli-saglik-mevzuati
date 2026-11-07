@@ -69,17 +69,13 @@ Yönelik tedbirdir.
 
 <i>Kuruma başvuru</i>
 
-**Madde 6-** (1) Adlî ve idarî merciler, kolluk görevlileri, sağlık ve eğitim kuruluşları, sivil toplum kuruluşları, korunma ihtiyacı olan çocuğu Sosyal Hizmetler ve Çocuk Esirgeme
-
-Kurumuna bildirmekle yükümlüdür. Çocuk ile çocuğun bakımından sorumlu kimseler çocuğun korunma altına alınması amacıyla Sosyal Hizmetler ve Çocuk Esirgeme Kurumuna başvurabilir.
+**Madde 6-** (1) Adlî ve idarî merciler, kolluk görevlileri, sağlık ve eğitim kuruluşları, sivil toplum kuruluşları, korunma ihtiyacı olan çocuğu Sosyal Hizmetler ve Çocuk Esirgeme Kurumuna bildirmekle yükümlüdür. Çocuk ile çocuğun bakımından sorumlu kimseler çocuğun korunma altına alınması amacıyla Sosyal Hizmetler ve Çocuk Esirgeme Kurumuna başvurabilir.
 
 (2) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu kendisine bildirilen olaylarla ilgili olarak gerekli araştırmayı derhâl yapar.
 
 <i>Koruyucu ve destekleyici tedbir kararı alınması</i>
 
-**Madde 7-** (1) Çocuklar hakkında koruyucu ve destekleyici tedbir kararı; çocuğun anası, babası, vasisi, bakım ve gözetiminden sorumlu kimse, Sosyal Hizmetler ve Çocuk Esirgeme
-
-Kurumu ve Cumhuriyet savcısının istemi üzerine veya re'sen çocuk hâkimi tarafından alınabilir.
+**Madde 7-** (1) Çocuklar hakkında koruyucu ve destekleyici tedbir kararı; çocuğun anası, babası, vasisi, bakım ve gözetiminden sorumlu kimse, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu ve Cumhuriyet savcısının istemi üzerine veya re'sen çocuk hâkimi tarafından alınabilir.
 
 (2) Tedbir kararı verilmeden önce çocuk hakkında sosyal inceleme yaptırılabilir.
 
@@ -99,9 +95,7 @@ Kurumu ve Cumhuriyet savcısının istemi üzerine veya re'sen çocuk hâkimi ta
 
 (2) Tedbir kararlarının uygulanması, kararı veren hâkim veya mahkemece en geç üçer aylık sürelerle incelettirilir.
 
-(3) Hâkim veya mahkeme; denetim memurları, çocuğun velisi, vasisi, bakım ve gözetimini üstlenen kimselerin, tedbir kararını yerine getiren kişi ve kuruluşun temsilcisi ile
-
-Cumhuriyet savcısının talebi üzerine veya re'sen çocuğa uygulanan tedbirin sonuçlarını inceleyerek kaldırabilir, süresini uzatabilir veya değiştirebilir.
+(3) Hâkim veya mahkeme; denetim memurları, çocuğun velisi, vasisi, bakım ve gözetimini üstlenen kimselerin, tedbir kararını yerine getiren kişi ve kuruluşun temsilcisi ile Cumhuriyet savcısının talebi üzerine veya re'sen çocuğa uygulanan tedbirin sonuçlarını inceleyerek kaldırabilir, süresini uzatabilir veya değiştirebilir.
 
 <i>Acil korunma kararı alınması</i>
 
@@ -131,9 +125,7 @@ Cumhuriyet savcısının talebi üzerine veya re'sen çocuğa uygulanan tedbirin
 
 <i>Kanun yolu</i>
 
-**Madde 14-** (1) Bu Kanun hükümlerine göre, çocuk hâkimi tarafından alınan tedbir kararlarına karşı itiraz yolu açıktır. İtiraz, 4.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi
-
-Kanununun itiraza ilişkin hükümlerine göre en yakın çocuk mahkemesine yapılır.
+**Madde 14-** (1) Bu Kanun hükümlerine göre, çocuk hâkimi tarafından alınan tedbir kararlarına karşı itiraz yolu açıktır. İtiraz, 4.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun itiraza ilişkin hükümlerine göre en yakın çocuk mahkemesine yapılır.
 
 İKİNCİ KISIM
 
@@ -145,9 +137,7 @@ BİRİNCİ BÖLÜM
 
 <i>Soruşturma</i>
 
-**Madde 15-** (1) Suça sürüklenen çocuk hakkındaki soruşturma çocuk bürosunda görevli
-
-Cumhuriyet savcısı tarafından bizzat yapılır.
+**Madde 15-** (1) Suça sürüklenen çocuk hakkındaki soruşturma çocuk bürosunda görevli Cumhuriyet savcısı tarafından bizzat yapılır.
 
 (2) Çocuğun ifadesinin alınması veya çocuk hakkındaki diğer işlemler sırasında, çocuğun yanında sosyal çalışma görevlisi bulundurulabilir.
 
@@ -211,9 +201,7 @@ c) Belirlenen kişi ve kuruluşlarla ilişki kurmamak.
 
 **Madde 23- (Değişik: 6/12/2006-5560/40 md.)**
 
-(1) Çocuğa yüklenen suçtan dolayı yapılan yargılama sonunda, Ceza Muhakemesi
-
-Kanunundaki koşulların varlığı halinde, mahkemece hükmün açıklanmasının geri bırakılmasına karar verilebilir. Ancak, bu kişiler açısından denetim süresi üç yıldır.
+(1) Çocuğa yüklenen suçtan dolayı yapılan yargılama sonunda, Ceza Muhakemesi Kanunundaki koşulların varlığı halinde, mahkemece hükmün açıklanmasının geri bırakılmasına karar verilebilir. Ancak, bu kişiler açısından denetim süresi üç yıldır.
 
 <i>Uzlaşma</i>
 
@@ -255,15 +243,11 @@ Bu daireler numaralandırılır. Çocuk mahkemelerinde yapılan duruşmalarda Cu
 
 (2) Çocuk ağır ceza mahkemelerinin yargı çevresi, bulundukları il merkezi ve ilçeler ile bunlara adlî yönden bağlanan ilçelerin idarî sınırlarıdır.
 
-(3) Coğrafi durum ve iş yoğunluğu göz önünde tutularak çocuk mahkemeleri ile çocuk ağır ceza mahkemelerinin yargı çevresinin belirlenmesine veya değiştirilmesine Adalet
-
-Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir.
+(3) Coğrafi durum ve iş yoğunluğu göz önünde tutularak çocuk mahkemeleri ile çocuk ağır ceza mahkemelerinin yargı çevresinin belirlenmesine veya değiştirilmesine Adalet Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir.
 
 <i>Hâkimlerin atanmaları</i>
 
-**Madde 28-** (1) Mahkemelere, atanacakları bölgeye veya bir alt bölgeye hak kazanmış, adlî yargıda görevli, tercihan çocuk hukuku alanında uzmanlaşmış, çocuk psikolojisi ve sosyal hizmet alanlarında eğitim almış olan hâkimler ve Cumhuriyet savcıları arasından Hâkimler ve
-
-Savcılar Yüksek Kurulunca atama yapılır.
+**Madde 28-** (1) Mahkemelere, atanacakları bölgeye veya bir alt bölgeye hak kazanmış, adlî yargıda görevli, tercihan çocuk hukuku alanında uzmanlaşmış, çocuk psikolojisi ve sosyal hizmet alanlarında eğitim almış olan hâkimler ve Cumhuriyet savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca atama yapılır.
 
 (2) Atamalarda istekli olanlarla daha önce bu görevlerde bulunmuş olanlara öncelik tanınır.
 
@@ -295,9 +279,7 @@ a) Suça sürüklenen çocuklar hakkındaki soruşturma işlemlerini yürütmek,
 
 (4) Kolluğun çocuk birimlerindeki personeline, kendi kurumları tarafından çocuk hukuku, çocuk suçluluğunun önlenmesi, çocuk gelişimi ve psikolojisi, sosyal hizmet gibi konularda eğitim verilir.
 
-(5) Çocuğun korunma ihtiyacı içinde bulunduğunun bildirimi ya da tespiti veya hakkında acil korunma kararı almak için beklemenin, çocuğun yararına aykırı olacağını gösteren nedenlerin varlığı hâlinde kolluğun çocuk birimi, durumun gerektirdiği önlemleri almak suretiyle çocuğun güvenliğini sağlar ve mümkün olan en kısa sürede Sosyal Hizmetler ve Çocuk Esirgeme
-
-Kurumuna teslim eder.
+(5) Çocuğun korunma ihtiyacı içinde bulunduğunun bildirimi ya da tespiti veya hakkında acil korunma kararı almak için beklemenin, çocuğun yararına aykırı olacağını gösteren nedenlerin varlığı hâlinde kolluğun çocuk birimi, durumun gerektirdiği önlemleri almak suretiyle çocuğun güvenliğini sağlar ve mümkün olan en kısa sürede Sosyal Hizmetler ve Çocuk Esirgeme Kurumuna teslim eder.
 
 <i>Görevlilerin eğitimleri</i>
 
@@ -315,9 +297,7 @@ Kurumuna teslim eder.
 
 **Madde 33-** (1) Adalet Bakanlığınca mahkemelere, en az lisans öğrenimi görmüş olanlar arasından yeterli sayıda sosyal çalışma görevlisi atanır. Atamada; çocuk ve aile sorunları ile çocuk hukuku ve çocuk suçluluğunun önlenmesi alanlarında lisansüstü eğitim yapmış olanlar tercih edilir.
 
-(2) Mahkemelere atanan ve bu Kanun kapsamındaki tedbirleri uygulayan Sosyal
-
-Hizmetler ve Çocuk Esirgeme Kurumunda görevli sosyal çalışma görevlilerine almakta oldukları aylıklarının brüt tutarının yüzde ellisi oranında ödenek verilir.
+(2) Mahkemelere atanan ve bu Kanun kapsamındaki tedbirleri uygulayan Sosyal Hizmetler ve Çocuk Esirgeme Kurumunda görevli sosyal çalışma görevlilerine almakta oldukları aylıklarının brüt tutarının yüzde ellisi oranında ödenek verilir.
 
 (3) Bu görevlilerin bulunmaması, görevin bunlar tarafından yapılmasında fiilî veya hukukî bir engel bulunması ya da başka bir uzmanlık dalına ihtiyaç duyulması gibi durumlarda, diğer kamu kurum ve kuruluşlarında çalışanlar ile serbest meslek icra eden birinci fıkrada öngörülen nitelikleri haiz kimseler de sosyal çalışma görevlisi olarak görevlendirilebilirler.
 
@@ -415,9 +395,7 @@ DÖRDÜNCÜ KISIM
 
 <i>Uygulanacak hükümler</i>
 
-**Madde 42-** (1) Bu Kanunda hüküm bulunmayan hâllerde Ceza Muhakemesi Kanunu,
-
-Türk Medenî Kanunu, 18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu ile 24.5.1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanunu hükümleri uygulanır.
+**Madde 42-** (1) Bu Kanunda hüküm bulunmayan hâllerde Ceza Muhakemesi Kanunu, Türk Medenî Kanunu, 18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu ile 24.5.1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanunu hükümleri uygulanır.
 
 (2) Denetim konusunda bu Kanunda hüküm bulunmayan hâllerde, Denetimli Serbestlik ve Yardım Merkezleri ile Koruma Kurulları Kanunu hükümleri uygulanır.
 
@@ -429,27 +407,19 @@ Türk Medenî Kanunu, 18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemele
 
 <i>Kamu görevlisi</i>
 
-**Madde 44-** (1) Bu Kanun kapsamına giren görevlerle bağlantılı olarak kamu görevlileri hakkında 2.12.1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması
-
-Hakkında Kanun hükümleri uygulanmaz.
+**Madde 44-** (1) Bu Kanun kapsamına giren görevlerle bağlantılı olarak kamu görevlileri hakkında 2.12.1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanmaz.
 
 <i>Kurumlar</i>
 
 **Madde 45-** (1) Bu Kanunun 5 inci maddesinde yer alan koruyucu ve destekleyici tedbirlerden;
 
-a) (a) ve (e) bentlerinde yazılı danışmanlık ve barınma tedbirleri Milli Eğitim Bakanlığı,
-
-Sosyal Hizmetler ve Çocuk Esirgeme Kurumu ve yerel yönetimler, b) (b) bendinde yazılı eğitim tedbiri Milli Eğitim Bakanlığı ve Çalışma ve Sosyal
-
-Güvenlik Bakanlığı,
+a) (a) ve (e) bentlerinde yazılı danışmanlık ve barınma tedbirleri Milli Eğitim Bakanlığı, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu ve yerel yönetimler, b) (b) bendinde yazılı eğitim tedbiri Milli Eğitim Bakanlığı ve Çalışma ve Sosyal Güvenlik Bakanlığı,
 
 c) (c) bendinde yazılı bakım tedbiri Sosyal Hizmetler ve Çocuk Esirgeme Kurumu, d) (d) bendinde yazılı sağlık tedbiri Sağlık Bakanlığı,
 
 Tarafından yerine getirilir.
 
-(2) Bakım ve barınma tedbirlerinin yerine getirilmesi sırasında ihtiyaç duyulan kolluk hizmetlerinin yerine getirilmesi, çocukların rehabilitasyonu, eğitimi ve diğer bakanlıkların görev alanına giren diğer hususlarla ilgili olarak Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından yapılan her türlü yardım ve destek talepleri Milli Eğitim Bakanlığı, İçişleri Bakanlığı,
-
-Sağlık Bakanlığı, ilgili diğer bakanlıklar ile kamu kurum ve kuruluşları tarafından geciktirilmeksizin yerine getirilir.
+(2) Bakım ve barınma tedbirlerinin yerine getirilmesi sırasında ihtiyaç duyulan kolluk hizmetlerinin yerine getirilmesi, çocukların rehabilitasyonu, eğitimi ve diğer bakanlıkların görev alanına giren diğer hususlarla ilgili olarak Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından yapılan her türlü yardım ve destek talepleri Milli Eğitim Bakanlığı, İçişleri Bakanlığı, Sağlık Bakanlığı, ilgili diğer bakanlıklar ile kamu kurum ve kuruluşları tarafından geciktirilmeksizin yerine getirilir.
 
 (3) Bu tedbirlerin yerine getirilmesinde kurumların koordinasyonu Adalet Bakanlığınca sağlanır.
 
@@ -477,17 +447,13 @@ Mahkemelerinin Kuruluşu, Görev ve Yargılama Usulleri Hakkında Kanuna yapıla
 
 (4) Çocuk mahkemesi bulunmayan yerlerde, bu mahkeme kurulup göreve başlayıncaya kadar korunma ihtiyacı olan çocuklar hakkında tedbir kararları görevli aile veya asliye hukuk mahkemelerince alınır.
 
-(5) Adalet Bakanlığının koordinatörlüğünde ilgili bakanlıklar ve bağlı kuruluşlar bu
-
-Kanunun yürürlüğü tarihinden itibaren altı ay içinde koruyucu ve destekleyici tedbirleri yerine getirmek üzere gerekli tedbirleri alır. Ayrıca, ilgili bakanlıklar ve bağlı kuruluşlar bu amaçla sivil toplum kuruluşlarıyla işbirliğine gidebilirler.
+(5) Adalet Bakanlığının koordinatörlüğünde ilgili bakanlıklar ve bağlı kuruluşlar bu Kanunun yürürlüğü tarihinden itibaren altı ay içinde koruyucu ve destekleyici tedbirleri yerine getirmek üzere gerekli tedbirleri alır. Ayrıca, ilgili bakanlıklar ve bağlı kuruluşlar bu amaçla sivil toplum kuruluşlarıyla işbirliğine gidebilirler.
 
 <i>Yürürlük</i>
 
 **Madde 49-** (1) Bu Kanunun;
 
-a) Suça sürüklenen ve hakkında bakım tedbiri uygulanan çocuklar hakkında Sosyal
-
-Hizmetler ve Çocuk Esirgeme Kurumu tarafından yerine getirilecek hizmetlere ilişkin hükümler ile 5 inci maddesinin birinci fıkrasının (e) bendi yayımı tarihinden itibaren altı ay sonra, b) 37 nci maddesinin birinci fıkrasının ikinci cümlesi ile 5 inci maddesinin birinci fıkrasının (a) bendi yayımı tarihinden itibaren bir yıl sonra, c) Diğer hükümleri yayımı tarihinde,
+a) Suça sürüklenen ve hakkında bakım tedbiri uygulanan çocuklar hakkında Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından yerine getirilecek hizmetlere ilişkin hükümler ile 5 inci maddesinin birinci fıkrasının (e) bendi yayımı tarihinden itibaren altı ay sonra, b) 37 nci maddesinin birinci fıkrasının ikinci cümlesi ile 5 inci maddesinin birinci fıkrasının (a) bendi yayımı tarihinden itibaren bir yıl sonra, c) Diğer hükümleri yayımı tarihinde,
 
 Yürürlüğe girer.
 

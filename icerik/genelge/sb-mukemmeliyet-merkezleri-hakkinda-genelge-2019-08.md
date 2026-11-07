@@ -57,9 +57,7 @@ Bakan
 
 geliştirilmesi için temel politika ve stratejilerin belirlenmesi,
 
-Mükemmeliyet merkezleri kurulacak saglık hizmet alanlarının ve temel
-
-planlamaların belirlenmesi,
+Mükemmeliyet merkezleri kurulacak saglık hizmet alanlarının ve temel planlamaların belirlenmesi,
 
 2.4.3. TÜSKA'nın mükemmeliyet merkezi denetim raporuna ilişkin nihai kararın
 

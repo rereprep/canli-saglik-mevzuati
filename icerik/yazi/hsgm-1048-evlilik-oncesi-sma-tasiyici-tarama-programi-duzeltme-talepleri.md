@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,11 +25,7 @@ Programı-Düzeltme Talepleri
 
 DAĞITIM YERLERİNE
 
-Bakanlığımız tarafından yürütülmekte olan Evlilik Öncesi Spinal Musküler Atrofi Taşıyıcı Tarama
-
-Programı kapsamında sehven yapılan veya güncellenmesi gereken kayıtlarla ilgili talepler İl Sağlık Müdürlükleri tarafından Halk Sağlığı Genel Müdürlüğüne resmi yazı ile gönderilmektedir. Gelen talepler ilgili Genel
-
-Müdürlükler arasında resmi yazı ile çözüme kavuşturulmakta olup, sürecin uzadığı ve gereksiz iş yükü oluşturduğu değerlendirilmiştir. Başvuruların çok olmasından dolayı özel bir değerlendirme gerektirmeyen ve tekrarlayan durumların resmi yazışmaya gerek olmadan yazılım destek üzerinden yapılması kararı alınmıştır. Bu kapsamda;
+Bakanlığımız tarafından yürütülmekte olan Evlilik Öncesi Spinal Musküler Atrofi Taşıyıcı Tarama Programı kapsamında sehven yapılan veya güncellenmesi gereken kayıtlarla ilgili talepler İl Sağlık Müdürlükleri tarafından Halk Sağlığı Genel Müdürlüğüne resmi yazı ile gönderilmektedir. Gelen talepler ilgili Genel Müdürlükler arasında resmi yazı ile çözüme kavuşturulmakta olup, sürecin uzadığı ve gereksiz iş yükü oluşturduğu değerlendirilmiştir. Başvuruların çok olmasından dolayı özel bir değerlendirme gerektirmeyen ve tekrarlayan durumların resmi yazışmaya gerek olmadan yazılım destek üzerinden yapılması kararı alınmıştır. Bu kapsamda;
 
  Mahkeme kararıyla yapılan ve Kimlik Paylaşım Sisteminde (KPS) düzeltilmiş olan ad-soyad değişiklikleri ve numune istemi aşamasında sehven yanlış girilen eş/eş adayı T.C. kimlik veya pasaport bilgileri için düzeltme taleplerinin tutanak ile yazılım destek sistemi üzerinden yapılması,
 

@@ -12,6 +12,7 @@ ocr: true
 duzeltildi: true
 kontrol_edildi: true
 ---
+
 2.3.30. Tıbbi Cihazlarla İlgili Mal ve Hizmet Alımı İşlemleri Genelgesi (2022/2)
 
 T.C.
@@ -82,9 +83,7 @@ Tıbbi Cihaz Yönetmelığı, Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Y
 
 2.4. Ihale teklifinin değerlendirilmesi aşamalarında ilgili tıbbi cihazların www.titck.gov.tr adresinden Tıbbi Cihazlar Güvensiz Ürünler ve Gönüllu Geri Çekme Listelerinin takipleri yapılmalıdır. Kullanımları ve piyasaya arzları durdurulanların ahımlarının yapılmamasına, sağlık kurumunca satın alındıktan sonra piyasaya arzları durdurulmuş cihaz miktarlarının ayrıntıları ile (kullanılan veya stokta bulunan vb.) bildirilmesine ve mevcut ürünlerin kullanılmaksızın muhafazasına dikkat edilmelidir. Tıbbi cihazlanın kullanımı sırasında ortaya çıkan cihaza bağlı
 
-Sağhk Hizmetleri Genel Müdürlüğü
-
-olumsuz olayların (hasar, yaralanma, ölüm veya bunlara yol açabilecek muhtemel olaylar gibi ilgili Yönetmeliklerin "Uyarı Sistemi" başlığı altında sayılan durumlar) gecikmeksizin cihazın sağlayıcısına ve /veya üreticisi ve/veya ithalatçısına ÜTS' de kayılı ürün numarasi, seri ve LOT numarası bilgilerini içerecek şekilde bildirilmesi ve güvenliğinden şüphe edılen ürünlerin sağlık kuruluşunda muhafaza edilmesi gerekmektedir. Ayrıca bu bildirim ÜTS sisteminde yer alan
+Sağhk Hizmetleri Genel Müdürlüğü olumsuz olayların (hasar, yaralanma, ölüm veya bunlara yol açabilecek muhtemel olaylar gibi ilgili Yönetmeliklerin "Uyarı Sistemi" başlığı altında sayılan durumlar) gecikmeksizin cihazın sağlayıcısına ve /veya üreticisi ve/veya ithalatçısına ÜTS' de kayılı ürün numarasi, seri ve LOT numarası bilgilerini içerecek şekilde bildirilmesi ve güvenliğinden şüphe edılen ürünlerin sağlık kuruluşunda muhafaza edilmesi gerekmektedir. Ayrıca bu bildirim ÜTS sisteminde yer alan
 
 ### Olay Rapor Işlemleri"
 
@@ -206,9 +205,7 @@ Söz konusu hizmet alımı ihalelerinde; hizmet alımı süresince tüm güncel 
 
 3.7. Tıbbi Cihaz Yönetmelikleri kapsamındaki ürünlerin ve cihazların hizmet alımı yoluyla sağlık hizmet sunumunda kullanılması durumunda bu genelgenin "Tıbbi Cihaz Alim Esaslan"
 
-Sağlık Hizmetleri Genel Müdürlüğü
-
-başlıkh 2. maddesindeki ürün ve cihazlar ile cihaz tedarikçilerine ilişkin kayıt, tescil, satış yetki belgesi, uyarı sistemi takip ve kontrolleri, up-time, malzeme tanımlarına ilişkin iş ve işlemler uygulanır.
+Sağlık Hizmetleri Genel Müdürlüğü başlıkh 2. maddesindeki ürün ve cihazlar ile cihaz tedarikçilerine ilişkin kayıt, tescil, satış yetki belgesi, uyarı sistemi takip ve kontrolleri, up-time, malzeme tanımlarına ilişkin iş ve işlemler uygulanır.
 
 ### 4. KİT VEYA SARF KARŞILIGI CİHAZ KULLANMA UYGULAMASI:
 

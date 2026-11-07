@@ -133,9 +133,7 @@ GBP kapsamında yer alan aşıların karşılaşılması olası istenmeyen etkil
 
 Lokal reaksiyon®
 
-(ağrı, şişlik, 38 °C" yi geçen Huzursuzluk, kırgınlık ve sistemik belirtiler*
-
-kızarıklk) ates ® BCG % 90- 95 DaBT-IPA- % 20-40 % 3-5 % 20-40 Hib Td /DT/IT ~ %10* ~ %10 ~ %25 OPA <%1 < %1** Hepatit-B erişkinde %15, %1-6
+(ağrı, şişlik, 38 °C" yi geçen Huzursuzluk, kırgınlık ve sistemik belirtiler* kızarıklk) ates ® BCG % 90- 95 DaBT-IPA- % 20-40 % 3-5 % 20-40 Hib Td /DT/IT ~ %10* ~ %10 ~ %25 OPA <%1 < %1** Hepatit-B erişkinde %15, %1-6
 
 cocukta % 5 KKK*** %10 %5-15 %5 döküntü, <%1 artralji, <%1 lenfadenopati,
 
@@ -175,9 +173,7 @@ vüksektir). Hepatit-B Anaflaksi 0-1 saat 1-2
 
 Febril konvülsiyon' 5-12 gün 333
 
-Trombositopeni® 1-6 hafta 33 KKK (Kızamık'*, Anaflaksi! 0-1 saat 0-1 Kabakulak' ve Ensefalopati/Ensefalit' 5-15 gün 0-1 Kızamıkçık® Aseptik menenjit* 15-21 gün 1-1000° bileşenine bağlı) - Artrit® 1-3 hafta - Çocuklarda nadir,
-
-ancak adolesan ve
+Trombositopeni® 1-6 hafta 33 KKK (Kızamık'*, Anaflaksi! 0-1 saat 0-1 Kabakulak' ve Ensefalopati/Ensefalit' 5-15 gün 0-1 Kızamıkçık® Aseptik menenjit* 15-21 gün 1-1000° bileşenine bağlı) - Artrit® 1-3 hafta - Çocuklarda nadir, ancak adolesan ve
 
 kadınlarda 100. 000 Hib Bildirimi yoktur KPA Konvülsiyon -0-72 saat Nadir Ağırlıklı olarak DaBT bileşenine bağlıdır. * Prematüre bebeklerde görülebilir. & Özellikle çok sayıda pekiştirme dozu alanlarda bildirilmiştir. " Kullanılan aşı suşuna bağlı olarak görülme sıklığı değişmektedir. * KKK aşısı antijenlerine ve reaksiyonlara verilmiş olan üst numaralar antijene özel aşı yan etkisini göstermektedir. 1.b. Aşı Niteliğinden Kaynakh Reaksiyon
 
@@ -231,9 +227,7 @@ Bir seferde gerekli dozdan fazla uygulama
 
 Yanlış aşı uygulama
 
-Yanlış yere (gluteal bölge vb.) ya da yanlış teknikle (intramusküler yerine sukutan
-
-vb.) așı uygulama
+Yanlış yere (gluteal bölge vb.) ya da yanlış teknikle (intramusküler yerine sukutan vb.) așı uygulama
 
 • Steril olmayan enjektör ve iğne kullanma
 
@@ -319,11 +313,7 @@ ASİE İzleme Sistemi'ne dâhil olup bildirimi yapılacak olan ASI'ler Tablo 4't
 
 3. Diğer İstenmeyen Etkiler Aşıdan sonra 1 saat içinde ortaya çıkan Anaflaksi Aşıdan sonra birkaç saat içinde ortaya çıkan Toksik Şok Sendromu Aşıdan sonra 4 saat içinde ortaya çıkan (deri Akut allerjik reaksiyonlar bulguları daha geç görülebilir) DaBT-IPA-Hib aşısından sonra 24 saat Hipotonik-hiporesponsif atak içinde ortaya çıkan Aşıdan sonra 1 hafta içinde ortaya çıkan Sepsis Kızamıkçık bileşenli aşılarlardan sonra 1-3 hafta içinde ortaya çıkan Artrit Kızamık bileşenli aşılardan sonra 1-6 hafta Trombositopeni ıçinde ortaya çıkan DaBT-IPA-Hib aşısından sonra 24 saat Apne - Bradikardi içinde ortaya çıkan BCG aşısından sonra 1 - 12 ay içinde ortaya Yaygın BCG enfeksiyonu, BCG Osteiti çıkan
 
-Yukarıda sunulan hastalıklar haricinde sağlık
-
-personeli ya da toplum tarafından aşılamayla ilgisi
-
-olduğu düşünülen;
+Yukarıda sunulan hastalıklar haricinde sağlık personeli ya da toplum tarafından aşılamayla ilgisi olduğu düşünülen;
 
 a) Ciddi etkiler* Zaman sınırı olmaksızın b) Kümelenme,
 
@@ -361,11 +351,7 @@ Aşı yan etkisi ya da program hatasının söz konusu olduğu durumlarda; kesin
 
 İl ASİE İzlem Sorumlusu, rapor (Ek 6) tamamlandığında varsa hastane dosyası, ASİE Bildirim ve Inceleme Formu (Ek 3) ile birlikte bir örnek ilde kalacak şekilde HSGM'ye
 
-İl ASİE Danışma Kurulu ile birlikte nedenin saptanamadığı ve vaka sınıflamasının yapılamadığı durumlarda da ASİE vakasına ait ASİE Bildirim ve Inceleme Formu ile Vaka Araştırma Raporu'nu HSGM ye gönderir. Tablo 5. Vaka Sınıflaması Vaka Sınıflaması Kesin /Kuvvetle Olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve diğer
-
-hastalık, ilaç/madde kullanımının olmadığı durumlar. Olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve diğer
-
-hastalık, ilaç/madde kullanımı ile açıklanamayan durumlar.
+İl ASİE Danışma Kurulu ile birlikte nedenin saptanamadığı ve vaka sınıflamasının yapılamadığı durumlarda da ASİE vakasına ait ASİE Bildirim ve Inceleme Formu ile Vaka Araştırma Raporu'nu HSGM ye gönderir. Tablo 5. Vaka Sınıflaması Vaka Sınıflaması Kesin /Kuvvetle Olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve diğer hastalık, ilaç/madde kullanımının olmadığı durumlar. Olası Aşının uygulanmasından uygun süre sonra ortaya çıkan ve diğer hastalık, ilaç/madde kullanımı ile açıklanamayan durumlar.
 
 a. Aşının uygulanmasından uygun süre sonra ortaya çıkan ancak
 
@@ -373,15 +359,9 @@ aynı zamanda diğer hastalık veya ilaç/madde kullanımı ile de Zayif olası 
 
 b. Aşının uygulanmasından uygun süre sonra ortaya çıkan ancak
 
-aşı ile ilişkilendirilemeyen, sonucun başka bir nedenle
+aşı ile ilişkilendirilemeyen, sonucun başka bir nedenle açıklanabildiği durumlar.
 
-açıklanabildiği durumlar.
-
-Aşı uygulanması ile hastalığın başlangıcı arasındaki süre Uyumlu değil açısından uyumlu olmayan ancak aynı zamanda altta yatan
-
-diğer hastalık veya ilaç/madde kullanımı ile de ortaya
-
-çıkabilecek durumlar.
+Aşı uygulanması ile hastalığın başlangıcı arasındaki süre Uyumlu değil açısından uyumlu olmayan ancak aynı zamanda altta yatan diğer hastalık veya ilaç/madde kullanımı ile de ortaya çıkabilecek durumlar.
 
 Aşı uygulanmasından sonra uygun sürede ortaya çıkmamış ve Ilgisiz ıltta yatan hastalık veya ilaç kullanımı ile açıklanabilen durumla
 

@@ -349,9 +349,7 @@ aşısı gibi) göz önüne alınarak duruma göre karar verilmelidir.
 
 • Her ne kadar kızamıkçık aşısına bağlı fetal anomaliye dair bir kanıt olmasa da,
 
-Kızamıkçık veya KKK aşısı alanlar 4 hafta süre ile gebelikten korunmalıdır. Kızamıkçık
-
-aşılaması öncesi gebelik testi yapmaya gerek yoktur, gebe olup olmadığı sorularak aşı
+Kızamıkçık veya KKK aşısı alanlar 4 hafta süre ile gebelikten korunmalıdır. Kızamıkçık aşılaması öncesi gebelik testi yapmaya gerek yoktur, gebe olup olmadığı sorularak aşı
 
 yapılmasına karar verilir.
 
@@ -453,11 +451,7 @@ Form 013B, takip eden ayın ilk haftası içinde Sağlık Müdürlüğüne gönd
 
 o Bebek/Çocuk Aşı Kartı: Tespit edilen her bebek ve çocuk için Form 012A’ya kayıt
 
-sırasında aşı kartı düzenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu
-
-tarihi kurşun kalemle kaydedilerek verilir. Aşılama tarihi gün-ay-yıl olarak
-
-doldurulmalıdır.
+sırasında aşı kartı düzenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu tarihi kurşun kalemle kaydedilerek verilir. Aşılama tarihi gün-ay-yıl olarak doldurulmalıdır.
 
 o Erişkin Difteri Tetanoz Aşı Kartı: Tespit edilen her gebe ve yüksek riskli
 
@@ -525,13 +519,9 @@ Her bir aşı için belirtilen tüm kontrendikasyonlar birlikte dikkate alınmal
 
 o HIV enfeksiyonu veya evde HIV ile enfekte kişi olması,
 
-o Jeneralize malign hastalık, lenfoma, lösemi, konjenital immün yetmezlik yada HIV
+o Jeneralize malign hastalık, lenfoma, lösemi, konjenital immün yetmezlik yada HIV enfeksiyonu nedeniyle immün cevabın bozulduğu durumlar.
 
-enfeksiyonu nedeniyle immün cevabın bozulduğu durumlar.
-
-o Kortikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle
-
-immün cevabın baskılandığı durumlar.
+o Kortikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle immün cevabın baskılandığı durumlar.
 
 o Ev temaslılarında bilinen immün yetmezlik durumu.
 
@@ -551,17 +541,11 @@ o Gebelik,
 
 o Jeneralize malign hastalık, lenfoma, lösemi, konjenital immün yetmezlik ya da
 
-HIV enfeksiyonu nedeniyle immün cevabın bozulduğu durumlar,
-
-o Kortikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle
-
-immün cevabın baskılandığı durumlar.
+HIV enfeksiyonu nedeniyle immün cevabın bozulduğu durumlar, o Kortikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle immün cevabın baskılandığı durumlar.
 
 • Önlem alınarak aşı yapılacak durumlar:
 
-o Yakın zamanda (ürün veya doza göre 3–11 ay arasında değişebilir) kan ürünü veya
-
-immünglobulin preparatı verilmiş olması,
+o Yakın zamanda (ürün veya doza göre 3–11 ay arasında değişebilir) kan ürünü veya immünglobulin preparatı verilmiş olması,
 
 o Trombositopeni,
 
@@ -575,17 +559,11 @@ o Gebelik,
 
 o Jeneralize malign hastalık, lenfoma, lösemi, konjenital immün yetmezlik ya da
 
-HIV enfeksiyonu nedeniyle immün cevabın bozulduğu durumlar,
-
-o Kortikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle
-
-immün cevabın baskılandığı durumlar.
+HIV enfeksiyonu nedeniyle immün cevabın bozulduğu durumlar, o Kortikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle immün cevabın baskılandığı durumlar.
 
 • Önlem alınarak aşı yapılacak durumlar:
 
-o Yakın zamanda (ürün veya doza göre 3–11 ay arasında değişebilir) kan ürünü veya
-
-immünglobulin preparatı verilmiş olması. Hepatit B aşısı:
+o Yakın zamanda (ürün veya doza göre 3–11 ay arasında değişebilir) kan ürünü veya immünglobulin preparatı verilmiş olması. Hepatit B aşısı:
 
 • Kesin kontrendikasyon:
 
@@ -599,11 +577,7 @@ o Yoktur BCG aşısı:
 
 o Jeneralize malign hastalık, lenfoma, lösemi, konjenital immün yetmezlik ya da
 
-HIV enfeksiyonu nedeniyle immün cevabın bozulduğu durumlar,
-
-o Kortikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle
-
-immün cevabın baskılandığı durumlar.
+HIV enfeksiyonu nedeniyle immün cevabın bozulduğu durumlar, o Kortikosteroidler, alkilleyici ajanlar, antimetabolitler veya radyasyon nedeniyle immün cevabın baskılandığı durumlar.
 
 o Gebelik.
 
@@ -691,9 +665,7 @@ o BCG aşısı sulandırıldıktan sonra (+2) – (+8) C’de ve karanlıkta kor
 
 saat içinde,
 
-o Çok dozlu Kızamık ve Kızamıkçık aşısı sulandırıldıktan sonra (+2) – (+8) C’de ve
-
-karanlıkta korunmak şartıyla 4 saat içinde kullanılmalıdır.
+o Çok dozlu Kızamık ve Kızamıkçık aşısı sulandırıldıktan sonra (+2) – (+8) C’de ve karanlıkta korunmak şartıyla 4 saat içinde kullanılmalıdır.
 
 • Tek dozlu liyofilize aşılar:
 
@@ -751,17 +723,13 @@ Liyofilize aşıların sulandırılması:
 
 o Her yeni uygulama için yeni bir sulandırma enjektörü ve iğne ucu kullanılmalı ve bütün
 
-çözücünün enjektöre dolması sağlanmalı, daha sonra sulandırıcının tamamı aşı flakonu
-
-içine boşaltılmalıdır.
+çözücünün enjektöre dolması sağlanmalı, daha sonra sulandırıcının tamamı aşı flakonu içine boşaltılmalıdır.
 
 o Sulandırıcı ve aşıyı karıştırmak için birkaç kez yavaşça enjektöre çekilip, tekrar
 
 ### yavaşça flakonun içerisine boşaltılarak karıştırma işlemi tamamlanmalıdır.
 
-o Sulandırma işlemi sonrası enjektör ve iğnesi ayrılmadan güvenli atık kutusuna
-
-atılmalıdır.
+o Sulandırma işlemi sonrası enjektör ve iğnesi ayrılmadan güvenli atık kutusuna atılmalıdır.
 
 o Her uygulama için yeni bir aşı enjektörü kullanılmalıdır.
 
@@ -769,13 +737,9 @@ o Her uygulama için yeni bir aşı enjektörü kullanılmalıdır.
 
 o Her yeni uygulama için yeni bir aşı enjektörü ve iğne ucu kullanılmalıdır. Önce bütün
 
-çözücünün enjektöre dolması sağlanmalı, daha sonra sulandırıcının tamamı aşı flakonu
+çözücünün enjektöre dolması sağlanmalı, daha sonra sulandırıcının tamamı aşı flakonu içine boşaltılmalıdır.
 
-içine boşaltılmalıdır.
-
-o Sulandırıcı ve aşıyı karıştırmak için birkaç kez yavaşça enjektöre çekilip, tekrar
-
-yavaşça flakonun içerisine boşaltılarak karıştırma işlemi tamamlanmalıdır. Enjektör
+o Sulandırıcı ve aşıyı karıştırmak için birkaç kez yavaşça enjektöre çekilip, tekrar yavaşça flakonun içerisine boşaltılarak karıştırma işlemi tamamlanmalıdır. Enjektör
 
 flakondan hiç çıkarılmadan aşının tamamı enjektöre çekilmeli ve aşı uygulanmalıdır.
 
@@ -979,9 +943,7 @@ prospektüsleri kontrol edilmelidir.
 
 • İl depolarında bulunan soğuk hava depoları, buzdolapları ve sağlık kuruluşlarında bulunan
 
-buzdolaplarının içerisine aşı, antiserum, buz aküsü ve su bidonlarından başka hiçbir
-
-malzeme (ilaç, yiyecek, içecek, enjektör, vb) konulmamalıdır. Aşı uygulanan birimlerde
+buzdolaplarının içerisine aşı, antiserum, buz aküsü ve su bidonlarından başka hiçbir malzeme (ilaç, yiyecek, içecek, enjektör, vb) konulmamalıdır. Aşı uygulanan birimlerde
 
 sulandırıcılar da buzdolabında saklanmalıdır.
 
@@ -995,9 +957,7 @@ edilmelidir.
 
 edilmelidir. Bozulan veya kırılan termometre hemen yenisi ile değiştirilmelidir.
 
-Buzdolabının ısısı +2 ila +8 C arasında korunmalıdır. Özellikle +4 C’de kalması
-
-sağlanmalıdır.
+Buzdolabının ısısı +2 ila +8 C arasında korunmalıdır. Özellikle +4 C’de kalması sağlanmalıdır.
 
 • Buzdolabı her açıldığında ısının kontrol edilmesi gerektiği unutulmamalıdır. Buzdolabının
 
@@ -1321,9 +1281,7 @@ dağıtımını sağlamak,
 
 2. Sağlık Grup Başkanlığı aşı deposundaki ve kurumlardaki soğuk zincir malzemelerinin
 
-lojistik durumunu bilmek, ihtiyaçları zamanında tespit etmek ve temin yoluna gitmek,
-
-bakım ve onarımını sağlamak,
+lojistik durumunu bilmek, ihtiyaçları zamanında tespit etmek ve temin yoluna gitmek, bakım ve onarımını sağlamak,
 
 3. İlçe aşı deposundaki stok kayıtlarını düzenli şekilde tutmak, kurumlardan aylık olarak
 
@@ -1331,9 +1289,7 @@ gelen Form 013’lerdeki aşı stokları ile ilgili bilgileri izlemek ve değerl
 
 4. İlçe Aşı Sorumlusu ile birlikte kurumların denetimine katılmak, soğuk zincir
 
-uygulamalarını yerinde görmek, personelin bu konudaki bilgisini değerlendirmek, yetersiz
-
-olduğu konularda hizmet içi eğitimlere katılmaktır.
+uygulamalarını yerinde görmek, personelin bu konudaki bilgisini değerlendirmek, yetersiz olduğu konularda hizmet içi eğitimlere katılmaktır.
 
 ### SAĞLIK OCAĞI DÜZEYİNDE YAPILACAK İŞLER:
 
@@ -1473,9 +1429,7 @@ Genişletilmiş Bağışıklama Programı kapsamında takip edilen hastalıklara
 
 ### o Difteri (Difteri hastalığının kontrolü için saha rehberi kapsamında yürütülmektedir)
 
-o Boğmaca (Boğmaca hastalığının kontrolü için saha rehberi kapsamında
-
-yürütülmektedir)
+o Boğmaca (Boğmaca hastalığının kontrolü için saha rehberi kapsamında yürütülmektedir)
 
 o Kızamıkçık ve Konjenital Rubella Sendromu
 
@@ -2239,9 +2193,7 @@ Ag lda nag : lame Ag lide mag , ler DaBT-IPA-Hib-1 mayaı saga
 
 tap lam Villd kümü bat
 
-tap lam Doğumda Ag lide ag ilama korunan çocuk a le ki mü bif Yell de ku mü bat
-
-ta pe haren uüN nenefedeH
+tap lam Doğumda Ag lide ag ilama korunan çocuk a le ki mü bif Yell de ku mü bat ta pe haren uüN nenefedeH
 
 Aşı İzlem Çizelgesi
 
@@ -2297,11 +2249,7 @@ Hep B 10 yaş ve üzerinde 1 ml Tipi Toz + Sulandırıcı Kullanıma hazır/Toz+
 
 Beyaz, içinde sallanınca
 
-Beyaz, içinde sallanınca kaybolan Berrak, pembe ya da turuncu Görünüm kaybolan çökeltinin Berrak, hafif sarı sıvı
-
-çökeltinin bulunduğu bulanık sıvı sıvı
-
-bulunduğu bulanık sıvı
+Beyaz, içinde sallanınca kaybolan Berrak, pembe ya da turuncu Görünüm kaybolan çökeltinin Berrak, hafif sarı sıvı çökeltinin bulunduğu bulanık sıvı sıvı bulunduğu bulanık sıvı
 
 ### İğnenin farklı pozisyonları
 
@@ -2335,9 +2283,7 @@ b) Aynı Sağlık Ocağında ve Aile Hekimliğinde 5’li karma aşı için ayl�
 
 Fire yüzdesi)
 
-= (680/ 12) x 4 (Rapel dâhil) x 1.05 (5’li karma aşı için
-
-firenin %5 olduğunu varsayarsak)
+= (680/ 12) x 4 (Rapel dâhil) x 1.05 (5’li karma aşı için firenin %5 olduğunu varsayarsak)
 
 = 238 doz 5’li karma aşı tek dozluk kullanıma hazır flakonlar halinde olduğundan 238 doz 5’li karma aşı talebinde bulunulacaktır.
 
@@ -2461,9 +2407,7 @@ kontrol ederek kaydedilmelidir.
 
 • Kış aylarında yalnızca gündüz ısıtılan sağlık kurumlarında bulunan buzdolapları
 
-gece en soğuk zamanda da kontrol edilerek termostat ayarı gerekiyorsa arttırılmalıdır
-
-çünkü dış ortam ısısının 0ºC’ye yaklaştığı durumlarda buzdolabı ısısı da kolaylıkla
+gece en soğuk zamanda da kontrol edilerek termostat ayarı gerekiyorsa arttırılmalıdır çünkü dış ortam ısısının 0ºC’ye yaklaştığı durumlarda buzdolabı ısısı da kolaylıkla
 
 0ºC’nin altına iner.
 
@@ -2475,11 +2419,7 @@ Böylece termostatı ayarlamak daha kolay olacaktır.
 
 • Dış ortam ısısı değişikliklerinin çok fazla olduğu, gece ile gündüz farkının buzdolabı
 
-ısısını +2ºC ile +8ºC arasında kontrol etmede zorluk yarattığı durumlarda
-
-buzdolabının içerisindeki tuzlu su dolu su kaplarının sayısı artırılmalıdır. Bu
-
-yöntemle gün içerisindeki kısa dalgalanmalar engellenmiş olunur.
+ısısını +2ºC ile +8ºC arasında kontrol etmede zorluk yarattığı durumlarda buzdolabının içerisindeki tuzlu su dolu su kaplarının sayısı artırılmalıdır. Bu yöntemle gün içerisindeki kısa dalgalanmalar engellenmiş olunur.
 
 Buzdolabının ısısı çok yüksek seyrediyorsa (+8ºC’nin üzerinde);
 
@@ -2595,9 +2535,7 @@ Numunenin tipi Alınış tarihi Gönderilme tarihi Gönderildiği yer Sonuç 1. 
 
 3. Diğer İstenmeyen Etkiler Aşıdan sonra 1 saat içinde ortaya çıkan Anafilaksi Aşıdan sonra birkaç saat içinde ortaya çıkan Toksik Şok Sendromu Aşıdan sonra 4 saat içinde ortaya çıkan (deri Akut allerjik reaksiyonlar bulguları daha geç görülebilir) DaBT-İPA-Hib aşısından sonra 24 saat içinde Hipotonik-hiporesponsif atak ortaya çıkan Aşıdan sonra 1 hafta içinde ortaya çıkan Sepsis Kızamıkçık bileşenli aşılarlardan sonra 1-3 hafta Artrit içinde ortaya çıkan Kızamık bileşenli aşılardan sonra 1-6 hafta içinde Trombositopeni ortaya çıkan DaBT-İPA-Hib aşısından sonra 24 saat içinde Apne - Bradikardi ortaya çıkan BCG aşısından sonra 1 – 12 ay içinde ortaya çıkan Yaygın BCG enfeksiyonu BCG aşısından sonra 1-12 ay içinde ortaya çıkan BCG Osteiti Zaman sınırı olmaksızın Yukarıda sunulan hastalıklar haricinde sağlık
 
-personeli ya da toplum tarafından aşılamayla
-
-ilgisi olduğu düşünülen;
+personeli ya da toplum tarafından aşılamayla ilgisi olduğu düşünülen;
 
 a) *Ciddi olgular
 
@@ -2605,9 +2543,7 @@ b) Kümelenme,
 
 c) Toplumda ciddi kaygı ya da olumsuz
 
-propaganda nedeni olan durumlar ASİE
-
-kapsamında incelenmelidir. *Ciddi ASİE: Ölüm, sakatlık, konjenital anomali ile sonuçlanan veya hastanede yatma gerektiren ASİE dir.
+propaganda nedeni olan durumlar ASİE kapsamında incelenmelidir. *Ciddi ASİE: Ölüm, sakatlık, konjenital anomali ile sonuçlanan veya hastanede yatma gerektiren ASİE dir.
 
 ---
 

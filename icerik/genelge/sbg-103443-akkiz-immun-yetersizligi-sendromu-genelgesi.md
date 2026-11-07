@@ -63,9 +63,7 @@ V- Jeneralize lenfadenomegali (1 aydan fazla süreli),
 
 VI- Uzun süreli ishal (1 haftayı aşkın süredir),
 
-VII- Uzun süreli öksürük (2 haftadan ziyade),
-
-gibi bulgular mevcut ise AIDS için şüpheli kabul edilerek, bu kişilerden kan alınmamalıdır.
+VII- Uzun süreli öksürük (2 haftadan ziyade), gibi bulgular mevcut ise AIDS için şüpheli kabul edilerek, bu kişilerden kan alınmamalıdır.
 
 c) İlaç alışkanlığı olanlardan (zerk yolu ile ilaç kullananlar) kan alınmamalıdır.
 

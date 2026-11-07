@@ -48,9 +48,7 @@ Uygulamaya esas olmak üzere;
 
 a. Aile hekimliğine geçilmeyen illerde; verem hastasının dispansere kaydı sırasında
 
-DGT uygulaması hakkında bilgi verildikten sonra dispanser doktorunca veya birden fazla
-
-doktor olan dispanserlerde sorumlu doktor tarafından görevlendirilen dispanser doktoru, hasta ve ailesiyle görüşerek; hastanın yaşı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafından (DGT gözetmeni) nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-1'de yer alan "Tüberkülozlu Hasta ve DGT Bilgi Formu" doldurularak aynı gün İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesine bildirilir.
+DGT uygulaması hakkında bilgi verildikten sonra dispanser doktorunca veya birden fazla doktor olan dispanserlerde sorumlu doktor tarafından görevlendirilen dispanser doktoru, hasta ve ailesiyle görüşerek; hastanın yaşı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafından (DGT gözetmeni) nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-1'de yer alan "Tüberkülozlu Hasta ve DGT Bilgi Formu" doldurularak aynı gün İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesine bildirilir.
 
 b. Aile hekimliğine geçilen illerde; verem hastasının dispansere kaydı sonrasında dispanser doktoru, hastayı ilgili aile hekimine yönlendirir. Aile hekimi, hastaya DGT uygulaması hakkında bilgi verdikten sonra hasta ve ailesiyle görüşerek; hastanın yaşı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafından (DGT gözetmeni) ve nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-1'de yer alan "Tüberkülozlu Hasta ve DGT Bilgi Formu" doldurularak aynı gün ilgili Verem Savaşı Dispanserine ve İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesine bildirir.
 
@@ -68,19 +66,13 @@ b. Aile hekimliğine geçilen illerde; verem hastasının dispansere kaydı sonr
 
 11. Verem Savaşı İl Koordinatörü, her ayın ikinci haftasında bir önceki ayda tedavi gören verem hastalarının DGT bilgilerini EK-3'teki "Aylık DGT Durumu Çizelgesi" ile Verem Savaşı Dairesi Başkanlığı'na gönderir.
 
-12. Verem Savaşı İl Koordinatörü, hastalara DGT uygulanması için yukarıda yazılı olan sistemin kurulmasında, standartların belirlenmesi, eğitimlerin verilmesi ve izlemedeğerlendirme çalışmalarında İl Sağlık Müdürlüğüne danışmanlık yapar. Uygulamada karşılaşılan sorunların çözümüne yardımcı olur. 
-
-
-
-
+12. Verem Savaşı İl Koordinatörü, hastalara DGT uygulanması için yukarıda yazılı olan sistemin kurulmasında, standartların belirlenmesi, eğitimlerin verilmesi ve izlemedeğerlendirme çalışmalarında İl Sağlık Müdürlüğüne danışmanlık yapar. Uygulamada karşılaşılan sorunların çözümüne yardımcı olur.
 
 13. İl Sağlık Müdürlüğü, ildeki DGT uygulamasını kontrol etmek amacıyla haberli veyahut habersiz izleme ve değerlendirme çalışmalarını yürütür. Tespit edilen aksaklıkların hızla çözümlenmesini sağlar.
 
 Doğrudan Gözetimli Tedavi uygulamasının başarılı bir şekilde gerçekleştirilmesi ve devamlılığın sağlanması hususunda;
 
 Bilgilerinizi ve gereğini önemle rica ederim
-
-
 
 Prof. Dr. Nihat TOSUN  
 Bakan a.  
@@ -91,8 +83,6 @@ Müsteşar
 
 Verem Savaşı Dairesi Başkanlığı, İlkiz Sok. No:4/5 Sıhhiye ANKARA  
 İRTİBAT: S. Murat MUTLU Tel: +90 312 231 44 25 - 231 21 85 - 231 38 56 Faks: +90 312 231 37 16 E-posta: smurat.mutlu@saglik.gov.tr
-
-
 
 ### GİZLİDİR — TÜBERKÜLOZLU HASTA ve DGT BİLGİ FORMU (EK-1)
 
@@ -126,8 +116,6 @@ Hasta ve yakınlarıyla DGT için gözetim planı yapıldı mı? ( ) Evet ( ) Ha
 
 Tarih Bu formu dolduran doktorun imzası ve kaşesi /. /20. Not: Bu form, hastayla görüşülerek doldurulur ve aynı gün Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şube Müdürlüğüne faksla gönderilir. Ayrıca aile hekimliğine geçilen illerde aile hekimleri bu formu ilgili VSD'ye de iletir. Hastaya ait bilgilerin gizliliğine dikkat edilir.
 
-
-
 ### AYLIK DGT İZLEM CETVELİ (EK-2)
 
 Hastanın Adı Soyadı : Hasta Adresi Günlük ilaç poşeti içeriği: Tedavi ile ilgili Notlar:
@@ -139,8 +127,6 @@ Hastanın Adı Soyadı : Hasta Adresi Günlük ilaç poşeti içeriği: Tedavi i
 | VSD Adı, Adresi | Gözetmen-Görev Yeri |
 
 Telefon: Telefon: Not: Hasta için VSD' de hazırlanan ilaçlar ve bu form, dispanser hekimi tarafından DGT gözetmenine ulaştırılır.
-
-
 
 ### AYLIK DGT DURUM RAPORU (EK-3)
 
@@ -158,9 +144,7 @@ Düzenlenen Tarih: ........
 
 **ONAY**  
 Verem Savaşı İl Koordinatörü  
-İmza / Mühür  
+İmza / Mühür
 
 *Not: DGT gözetmeni veya uygulama yeri değişikliğinde, ay içinde en uzun süre yapılan uygulama esas alınmalıdır.*  
 ** İlgili ayda VSD'lerde kayıtlı TB hastaları esas alınır. Ay içinde tedaviden çıkmış olanlar gösterilmez. İlçe temelli olarak (merkez ilçe de dahil) çizelgede gösterilir.*
-
-

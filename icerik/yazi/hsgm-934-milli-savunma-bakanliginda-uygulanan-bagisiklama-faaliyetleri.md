@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Milli_Savu
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -24,9 +25,7 @@ Bağışıklama Faaliyetleri
 
 DAĞITIM YERLERİNE
 
-Milli Savunma Bakanlığı (MSB) ile Bakanlığımız ilgili birimlerinin katılımı ile yapılan toplantılar ve
-
-Bağışıklama Danışma Kurulu tavsiye kararları doğrultusunda, askeri birliğe katılacak olan yükümlüler ile ilgili bağışıklama hizmetlerimizde aşağıdaki şekilde işlem tesis edilmesi uygun görülmüştür.
+Milli Savunma Bakanlığı (MSB) ile Bakanlığımız ilgili birimlerinin katılımı ile yapılan toplantılar ve Bağışıklama Danışma Kurulu tavsiye kararları doğrultusunda, askeri birliğe katılacak olan yükümlüler ile ilgili bağışıklama hizmetlerimizde aşağıdaki şekilde işlem tesis edilmesi uygun görülmüştür.
 
 Bu kapsamda;
 

@@ -23,11 +23,7 @@ Eğitimi (SAHU) Mevzuat Değişikliği
 
 DAĞITIM YERLERİNE
 
-Sözleşmeli Aile Hekimliği Uzmanlık Eğitimi (SAHU) 1219 sayılı Kanunun Geçici 9 uncu maddesi kapsamında gerçekleştirilmektedir. 24/07/2025 tarihli ve 32965 sayılı Resmî Gazete’de yayımlanan 7557 sayılı
-
-Sağlıkla İlgili Bazı Kanunlarda ve 663 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair
-
-Kanun’un 5 inci maddesi ile mezkûr maddede değişiklik yapılarak SAHU uygulamasında bazı düzenlemeler yapılmıştır. Bu düzenleme neticesinde yayımlanan mezkur maddenin son hali aşağıda yer almaktadır.
+Sözleşmeli Aile Hekimliği Uzmanlık Eğitimi (SAHU) 1219 sayılı Kanunun Geçici 9 uncu maddesi kapsamında gerçekleştirilmektedir. 24/07/2025 tarihli ve 32965 sayılı Resmî Gazete’de yayımlanan 7557 sayılı Sağlıkla İlgili Bazı Kanunlarda ve 663 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun’un 5 inci maddesi ile mezkûr maddede değişiklik yapılarak SAHU uygulamasında bazı düzenlemeler yapılmıştır. Bu düzenleme neticesinde yayımlanan mezkur maddenin son hali aşağıda yer almaktadır.
 
 “**Geçici Madde 9-** 1/1/2035 tarihine kadar, 24/11/2004 tarihli ve 5258 sayılı Kanun hükümlerine göre sözleşmeli aile hekimi olarak çalışmakta olanlar, tıpta uzmanlık sınavı sonuçlarına göre, merkezi yerleştirmeye tabi olmaksızın, Tıpta Uzmanlık Kurulunca belirlenen esaslar çerçevesinde aile hekimliği uzmanlık eğitimi yapabilir. Bu eğitim uzaktan ve/veya kısmî zamanlı eğitim metotları da uygulanmak suretiyle yapılabilir ve en az altı yılda, eğitime başlamadan önce en az beş yıl sözleşmeli aile hekimliği yapanlar için ise en az dört yılda tamamlanır. (Ek cümle:21/7/2025-7557/5 md.) Sözleşmeli aile hekimliği uzmanlık eğitimi alanlar eğitim kurumlarında geçirilen rotasyon sürelerinde, döner sermaye ek ödemelerinden motivasyonunun artırılması amacıyla yapılan ödeme hariç olmak üzere yararlandırılır. Eğitim süresince aile hekimliği sözleşmesi devam eder.
 

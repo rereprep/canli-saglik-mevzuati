@@ -10,6 +10,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gor
 durum: "yürürlükte"
 kontrol_edildi: true
 ---
+
 T.C.
 
 SAĞLIK BAKANLIĞI
@@ -22,9 +23,7 @@ Konu : ÇKYS ve CBS Bina Kayıtları.
 
 DAĞITIM YERLERİNE
 
-Bilindiği üzere, birinci basamak sağlık hizmeti sunulan binaların kayıtları Çekirdek Kaynak Yönetim
-
-Sistemine (ÇKYS) yapılarak bina envanteri oluşturulmaktadır. Bu veriler aynı zamanda Coğrafi Bilgi Sistemine (CBS) aktarılmaktadır. Birinci basamak sağlık hizmet binalarına ait envanteri; sağlık hizmet planlaması, ihtiyaçların sağlıklı bir şekilde tespiti, bakım-onarım işlemlerinin yürütülmesi vb. durumlarda kullanılmakta ve bu kayıtların takibi ve sürekli güncellenmesi önem arz etmektedir.
+Bilindiği üzere, birinci basamak sağlık hizmeti sunulan binaların kayıtları Çekirdek Kaynak Yönetim Sistemine (ÇKYS) yapılarak bina envanteri oluşturulmaktadır. Bu veriler aynı zamanda Coğrafi Bilgi Sistemine (CBS) aktarılmaktadır. Birinci basamak sağlık hizmet binalarına ait envanteri; sağlık hizmet planlaması, ihtiyaçların sağlıklı bir şekilde tespiti, bakım-onarım işlemlerinin yürütülmesi vb. durumlarda kullanılmakta ve bu kayıtların takibi ve sürekli güncellenmesi önem arz etmektedir.
 
 Bu bağlamda ÇKYS ve CBS bina raporları üzerinde yapılan değerlendirmelerde bazı bina kayıtlarının yapılmadığı veya eksik ve hatalı olduğu, CBS’de bina koordinatları girilmeyen veya hatalı girilen kayıtlar bulunduğu, fotoğrafları girilmeyen veya güncel olmayan fotoğraflara yer verilen kayıtlar olduğu tespit edilmiştir.
 

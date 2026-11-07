@@ -372,9 +372,7 @@ Halk Sağlığı Müdürlüğü ve Toplum Sağlığı Merkezleri için:
 
  Nüfusu 1,5 milyondan az olan iller için 1 ve
 
- Nüfusu 100.000’den fazla olan Toplum sağlığı merkezleri için 1 diyetisyen
-
-planlanmalıdır. 3 Görev ve Sorumluluklar 3.1 Veri Derlenmesi ve Paylaşımı
+ Nüfusu 100.000’den fazla olan Toplum sağlığı merkezleri için 1 diyetisyen planlanmalıdır. 3 Görev ve Sorumluluklar 3.1 Veri Derlenmesi ve Paylaşımı
 
 Sağlık hizmetlerinin etkili, verimli ve hakkaniyete uygun olarak sunulabilmesi için doğru ve zamanında elde edilmiş veriye ihtiyaç duyulmaktadır. Bu nedenle il düzeyindeki tüm sağlık kurumları özel sektör dâhil olmak üzere bu raporun kriterlerle ilgili bölümünde gereken verileri de içerecek şekilde; sağlık insan gücü ve sağlık hizmet sunumuyla ilgili tüm verilerini il sağlık müdürlüğüyle paylaşmak durumundadır. İl sağlık müdürlükleri veri akışının devamlılığını sağlamak ve veri kalitesinin kontrolünü yapmak zorundadırlar. Veri akışı ve kalitesiyle ilgili olarak veri üreten tüm kurumlar kendi kurumlarının merkez teşkilatına, Bakanlığa ve İl sağlık müdürlüğüne karşı sorumludurlar. Bu süreçte bir aksama olduğunda il sağlık müdürlükleri bu durumu Bakanlık Merkez Teşkilatına rapor ederler. 3.2 Sağlık İnsan Gücü Planlaması
 
@@ -545,55 +543,25 @@ Sayısı, Diyabet Vaka Sayısı, Hipertansiyon Vaka Sayısı,
 
  Hastalıkların Önlenmesi ve Sağlığın Korunması; DaBT 3 Aşılama Oranı, BCG Aşılama
 
-Oranı, HBV 3 Aşılama Oranı, KKK Aşılama Oranı, KPA Aşılama Oranı, Sağlık Personeli ile
+Oranı, HBV 3 Aşılama Oranı, KKK Aşılama Oranı, KPA Aşılama Oranı, Sağlık Personeli ile gerçekleşen doğum oranı, sağlık kuruluşunda geçen doğum oranı, Antenatal Bakım Kapsamı (
 
-gerçekleşen doğum oranı, sağlık kuruluşunda geçen doğum oranı, Antenatal Bakım Kapsamı (
+En az 1 ziyaret), 15-49 yaş grubu kadınlarda herhangi bir kontraseptif yöntem (herhangi bir yöntem) kullanım yüzdesi, Gebe başına ortalama izlem sayısı, bebek başına ortalama izlem sayısı, çocuk başına ortalama izlem sayısı, lohusa başına ortalama izlem sayısı
 
-En az 1 ziyaret), 15-49 yaş grubu kadınlarda herhangi bir kontraseptif yöntem (herhangi bir
+ Sağlık Hizmeti Verilen Kurumlar ve Altyapıları; Kamu ve özel; 1. 2. ve 3. Basamak Kurum ve kuruluşların sektörlere göre sayısı, 1. 2. ve 3. Basamak Kurumların sektörlere göre yatak sayıları, 2. ve 3. Basamak Kurumların MR, BT, Sektörlere göre Hemodiyaliz Cihaz sayıları, 2.
 
-yöntem) kullanım yüzdesi, Gebe başına ortalama izlem sayısı, bebek başına ortalama izlem
-
-sayısı, çocuk başına ortalama izlem sayısı, lohusa başına ortalama izlem sayısı
-
- Sağlık Hizmeti Verilen Kurumlar ve Altyapıları; Kamu ve özel; 1. 2. ve 3. Basamak Kurum ve
-
-kuruluşların sektörlere göre sayısı, 1. 2. ve 3. Basamak Kurumların sektörlere göre yatak
-
-sayıları, 2. ve 3. Basamak Kurumların MR, BT, Sektörlere göre Hemodiyaliz Cihaz sayıları, 2.
-
-ve 3. Basamak Kurumların sektörlere yoğun bakım yatak sayısı, 2. ve 3. Basamak kurumların
-
-nitelikli yatak sayısı, 2. ve 3. Basamak Kurum ve kuruluşların diş ünite sayısı, 112 Acil
+ve 3. Basamak Kurumların sektörlere yoğun bakım yatak sayısı, 2. ve 3. Basamak kurumların nitelikli yatak sayısı, 2. ve 3. Basamak Kurum ve kuruluşların diş ünite sayısı, 112 Acil
 
 Yardım Ambulans Sayısı, 112 Acil Yardım İstasyonu Sayısı, ADSM Merkezleri Sayısı,
 
- Sağlık Hizmetlerinin kullanımı; 1. 2. ve 3. Basamak Kurum ve kuruluşların sektörlere göre
+ Sağlık Hizmetlerinin kullanımı; 1. 2. ve 3. Basamak Kurum ve kuruluşların sektörlere göre muayene Sayıları, 2. ve 3. Basamak Kurumların sektörlere göre Yatak Doluluk Oranı, 2. ve 3.
 
-muayene Sayıları, 2. ve 3. Basamak Kurumların sektörlere göre Yatak Doluluk Oranı, 2. ve 3.
+Basamak Kurumların sektörlere göre yatak İşgal Oranı, 2. ve 3. Basamak Kurumların sektörlere göre ortalama kalış günü, 2. ve 3. Basamak Kurumların sektörlere göre yatak devir hızı, 2. ve 3. Basamak Kurumların sektörlere göre yatak devir aralığı, 1 Basamak kuruluşların sevk oranı, ADSM müracaat sayısı, 2. ve 3. Basamak Kurumların sektörlere göre yatan hasta sayısı, 2. ve 3. Basamak Kurumların sektörlere göre ameliyat sayıları, 2. ve 3. Basamak
 
-Basamak Kurumların sektörlere göre yatak İşgal Oranı, 2. ve 3. Basamak Kurumların
-
-sektörlere göre ortalama kalış günü, 2. ve 3. Basamak Kurumların sektörlere göre yatak devir
-
-hızı, 2. ve 3. Basamak Kurumların sektörlere göre yatak devir aralığı, 1 Basamak kuruluşların
-
-sevk oranı, ADSM müracaat sayısı, 2. ve 3. Basamak Kurumların sektörlere göre yatan hasta
-
-sayısı, 2. ve 3. Basamak Kurumların sektörlere göre ameliyat sayıları, 2. ve 3. Basamak
-
-Kurumların sektörlere göre kaba ölüm hızı, 2. ve 3. Basamak Kurumların sektörlere göre
-
-yatılan gün sayısı, 2. ve 3. Basamak Kurumların sektörler göre MR, BT çekim sayıları, 112
+Kurumların sektörlere göre kaba ölüm hızı, 2. ve 3. Basamak Kurumların sektörlere göre yatılan gün sayısı, 2. ve 3. Basamak Kurumların sektörler göre MR, BT çekim sayıları, 112
 
 Acil Vaka Sayısı
 
- Sağlıkta İnsan Kaynakları; Sektörlere, branşlarına, il ve ilçelere göre; hekim sayısı, pratisyen
-
-hekim sayısı, asistan hekim sayısı, Diş hekimi sayısı, Eczacı sayısı, Hemşire sayısı, Ebe
-
-sayısı, Sağlık Memuru sayısı, Diğer Sağlık personeli sayısı, Hizmet Alımı ile alınan personel
-
-sayısı ile ilgili veriler incelenmelidir. 1.7. Paydaş Analizi Paydaşlar; Taşra Teşkilatının hizmetlerinden doğrudan, dolaylı, olumlu ya da olumsuz etkilenen veya etkileyen kişi, grup ya da kuruluşlardan oluşur. Paydaşlar, iç ve dış paydaşlar olarak sınıflandırılabilir. İç Paydaşlar: Kuruluştan etkilenen veya kuruluşu etkileyen kuruluş içindeki kişi, grup veya (varsa) ilgili/bağlı kuruluşlardır. Kuruluşun çalışanları, yöneticileri ve kuruluşun bağlı olduğu bakan, iç paydaşlara örnek olarak verilebilir. Dış Paydaşlar: Kuruluştan etkilenen veya kuruluşu etkileyen kuruluş dışındaki kişi, grup veya kurumlardır. Kuruluş faaliyetleriyle ilişkisi olan diğer kamu ve özel sektör kuruluşları, kuruluşa girdi sağlayanlar, sendikalar, ilgili sektör birlikleri dış paydaşlara örnek olarak verilebilir. Paydaş analizi aşağıda yer alan aşamalardan oluşur:
+ Sağlıkta İnsan Kaynakları; Sektörlere, branşlarına, il ve ilçelere göre; hekim sayısı, pratisyen hekim sayısı, asistan hekim sayısı, Diş hekimi sayısı, Eczacı sayısı, Hemşire sayısı, Ebe sayısı, Sağlık Memuru sayısı, Diğer Sağlık personeli sayısı, Hizmet Alımı ile alınan personel sayısı ile ilgili veriler incelenmelidir. 1.7. Paydaş Analizi Paydaşlar; Taşra Teşkilatının hizmetlerinden doğrudan, dolaylı, olumlu ya da olumsuz etkilenen veya etkileyen kişi, grup ya da kuruluşlardan oluşur. Paydaşlar, iç ve dış paydaşlar olarak sınıflandırılabilir. İç Paydaşlar: Kuruluştan etkilenen veya kuruluşu etkileyen kuruluş içindeki kişi, grup veya (varsa) ilgili/bağlı kuruluşlardır. Kuruluşun çalışanları, yöneticileri ve kuruluşun bağlı olduğu bakan, iç paydaşlara örnek olarak verilebilir. Dış Paydaşlar: Kuruluştan etkilenen veya kuruluşu etkileyen kuruluş dışındaki kişi, grup veya kurumlardır. Kuruluş faaliyetleriyle ilişkisi olan diğer kamu ve özel sektör kuruluşları, kuruluşa girdi sağlayanlar, sendikalar, ilgili sektör birlikleri dış paydaşlara örnek olarak verilebilir. Paydaş analizi aşağıda yer alan aşamalardan oluşur:
 
  Paydaşların tespiti
 
@@ -623,9 +591,7 @@ sayısı ile ilgili veriler incelenmelidir. 1.7. Paydaş Analizi Paydaşlar; Ta�
 
  Paydaşın kuruluşu etkileme gücü nedir?
 
- Paydaş, kuruluşun faaliyetlerinden/hizmetlerinden ne şekilde etkilenmektedir? (olumlu-
-
-olumsuz) Paydaş Görüşlerinin Alınması ve Değerlendirilmesi Öncelikli paydaşların kuruluş hakkındaki görüş ve önerilerinin alınarak stratejik plana yansıtılması bir program dâhilinde yürütülür. Bu program aşağıdaki hususlar çerçevesinde oluşturulur:
+ Paydaş, kuruluşun faaliyetlerinden/hizmetlerinden ne şekilde etkilenmektedir? (olumlu- olumsuz) Paydaş Görüşlerinin Alınması ve Değerlendirilmesi Öncelikli paydaşların kuruluş hakkındaki görüş ve önerilerinin alınarak stratejik plana yansıtılması bir program dâhilinde yürütülür. Bu program aşağıdaki hususlar çerçevesinde oluşturulur:
 
  Görüş ve öneriler hangi yöntemle alınacak?
 
@@ -635,9 +601,7 @@ olumsuz) Paydaş Görüşlerinin Alınması ve Değerlendirilmesi Öncelikli pay
 
  Görüş ve önerilerin alınması ne zaman ve hangi sürede gerçekleştirilecek?
 
- Alınan görüş ve öneriler ne zaman, nasıl ve kimler tarafından raporlanacak ve
-
-değerlendirilecek? Paydaş görüşleri alınırken;
+ Alınan görüş ve öneriler ne zaman, nasıl ve kimler tarafından raporlanacak ve değerlendirilecek? Paydaş görüşleri alınırken;
 
  Mülakat,
 
@@ -647,15 +611,7 @@ değerlendirilecek? Paydaş görüşleri alınırken;
 
  Toplantı gibi yöntemlerden biri veya birkaçından faydalanılabilir.
 
-Hangi yöntemin uygulanacağına karar verilirken görüşülecek kişi sayısı, paydaşın erişilebilirliği,
-
-paydaşın önemi ve etkisi gibi etkenler göz önüne alınır. Örneğin, kuruluş üzerindeki etkisi güçlü
-
-olan paydaşlarla yüz yüze görüşme yapılması, bu kesimlerle olan iletişimin güçlendirilmesinde
-
-etkili olabilecektir. Görüşülecek kişi sayısının yüksek olduğu durumlarda ise anket uygulanması
-
-daha uygun olabilir. Paydaşların görüşleri alınırken temel olarak şu sorulara cevap aranır:
+Hangi yöntemin uygulanacağına karar verilirken görüşülecek kişi sayısı, paydaşın erişilebilirliği, paydaşın önemi ve etkisi gibi etkenler göz önüne alınır. Örneğin, kuruluş üzerindeki etkisi güçlü olan paydaşlarla yüz yüze görüşme yapılması, bu kesimlerle olan iletişimin güçlendirilmesinde etkili olabilecektir. Görüşülecek kişi sayısının yüksek olduğu durumlarda ise anket uygulanması daha uygun olabilir. Paydaşların görüşleri alınırken temel olarak şu sorulara cevap aranır:
 
  Kuruluşun hangi faaliyetleri ve hizmetleri sizin için önemlidir?
 
@@ -709,9 +665,7 @@ Hazırlanacak stratejik planda “Sağlık Bakanlığı 2013-2017 Stratejik Plan
 
  2012 yılına ait gösterge değerleri ilgili tabloya işleyecektir.
 
- İlgili hedeflere ulaşılabilmesi için il düzeyinde gerçekleştirilecek faaliyetler, hedefe yönelik
-
-stratejiler başlığı altında yazılacaktır.
+ İlgili hedeflere ulaşılabilmesi için il düzeyinde gerçekleştirilecek faaliyetler, hedefe yönelik stratejiler başlığı altında yazılacaktır.
 
 Performans göstergelerinin 2013, 2014, 2015, 2016, 2017 ve 2023 yıllarına ait hedefleri Sağlık Bakanlığının ilgili merkez birimi ya da bağlı kuruluşu tarafından ildeki mevcut durum ve “Sağlık Bakanlığı 2013-2017 Stratejik Planı”nda yer alan hedeflerle uyumlu olacak şekilde belirlenecektir. Hedefe Yönelik Stratejiler, kuruluşun amaç ve hedeflerine nasıl ulaşılacağını gösteren kararlar bütünüdür. Etkili stratejiler olmaksızın amaç ve hedeflere ulaşmak mümkün değildir. Hedefe Yönelik Stratejiler belirlenirken kuruluşun kaynakları ve farklı alanlardaki yetkinliği göz önünde bulundurulmalıdır. Strateji ve hedeflerin karşılıklı uyumu kontrol edilmelidir. Hedefe yönelik Stratejilerin Oluşturulması için Cevaplanması Gereken Sorular:
 
@@ -873,9 +827,7 @@ SKHK 8/c,e,ğ)..................................................................
 
 3/b- 663 SKHK 8/a,e).........................................................................................................8
 
-1.1.3 İldeki tüm sağlık kurum ve kuruluşlarının faaliyet ve hizmetlerinin denetim
-
-yöntemi (3359 SK 3/b - 663 SKHK 8/c,e,ğ)......................................................................8
+1.1.3 İldeki tüm sağlık kurum ve kuruluşlarının faaliyet ve hizmetlerinin denetim yöntemi (3359 SK 3/b - 663 SKHK 8/c,e,ğ)......................................................................8
 
 ### 1.2 DENETİMİN PERİYODU..........................................................................................9
 
@@ -887,17 +839,11 @@ yöntemi (3359 SK 3/b - 663 SKHK 8/c,e,ğ)......................................
 
 ### 1.3 DENETLENECEK ALANLARIN BELİRLENMESİ................................................9 1.4 DENETİM SONUCUNDA YAPILACAK İŞLEMLER İLE YAPTIRIMLARIN UYGULANMA PROSEDÜRÜ .............................................................................................9
 
-1.4.1 Ruhsata esas denetim sonucunda yapılacak işlemler ile yaptırımların uygulanma
+1.4.1 Ruhsata esas denetim sonucunda yapılacak işlemler ile yaptırımların uygulanma prosedürü............................................................................................................................9
 
-prosedürü............................................................................................................................9
+1.4.2 Seviyelendirme ve tescile ilişkin denetim sonucunda yapılacak işlemler ile yaptırımların uygulanma prosedürü .................................................................................10
 
-1.4.2 Seviyelendirme ve tescile ilişkin denetim sonucunda yapılacak işlemler ile
-
-yaptırımların uygulanma prosedürü .................................................................................10
-
-1.4.3 İldeki tüm sağlık kurum ve kuruluşlarının faaliyet ve hizmetlerinin denetimi
-
-sonucunda yapılacak işlemler ile yaptırımların uygulanma prosedürü............................10
+1.4.3 İldeki tüm sağlık kurum ve kuruluşlarının faaliyet ve hizmetlerinin denetimi sonucunda yapılacak işlemler ile yaptırımların uygulanma prosedürü............................10
 
 ### 2 TÜRKİYE İLAÇ VE TIBBİ CİHAZ KURUMU ............................................................11 2.1 KOZMETİK PGD VE GMP BİRİMİ .......................................................................11
 
@@ -1041,9 +987,7 @@ Denetimin yöntemi: yerinde denetim şeklinde ve ruhsat denetim formunda belirti
 
 Seviyelendirme ve tescil denetimleri ilgili şube müdürlüğünce ve mevzuatında belirlenen şekilde oluşturulan komisyonca yapılır.
 
-Denetimin Yöntemi: Seviyelendirme ve tescil komisyonunca bu amaçla hazırlanan formlar kullanılarak yerinde denetim şeklinde yapılır. 1.1.3 İldeki tüm sağlık kurum ve kuruluşlarının faaliyet ve hizmetlerinin denetim
-
-yöntemi (3359 SK 3/b - 663 SKHK 8/c,e,ğ) A) Tüm sağlık hizmeti sunucularının faaliyet ve hizmetlerinin bakanlık düzenlemelerine uygunluk denetimi, bu amaçla hazırlanan faaliyet ve hizmete esas denetim formuna göre ilgili şubece yapılır. Denetimin yöntemi: yerinde denetim şeklinde en az 3 kişi tarafından yapılır. B) Özellikli birimlerin faaliyet ve hizmetlerinin bakanlık düzenlemelerine uygunluk denetimi, bu amaçla hazırlanan faaliyet ve hizmete esas denetim formuna göre ilgili şubece yapılır. Denetimin yöntemi: yerinde denetim şeklinde bu amaçla oluşturulan uzman personelinde yer aldığı en az 3 kişi tarafından yapılır. C) Diğer özel teşhis ve tedavi merkezlerinin faaliyet ve hizmetlerinin bakanlık düzenlemelerine uygunluk denetimi, bu amaçla hazırlanan faaliyet ve hizmete esas denetim formuna göre ilgili şubece yapılır. Denetimin yöntemi: yerinde denetim şeklinde bu amaçla oluşturulan uzman personelin de yer aldığı en az 3 kişi tarafından yapılır. D) İl düzeyinde tüm sağlık kurum ve kuruluşlarınca sunulan tıbbi hizmetlerden Bakanlıkça belirlenenlerin endikasyona uygunluk denetimleri yapılır. Denetimin yöntemi: ilgili şube müdürlüğü koordinasyonu ve sorumluluğunda bu amaçla oluşturulan tıbbi endikasyona uygunluk denetim formlarına göre belirli sayıda örneklem alınmak suretiyle uzman hekimler tarafından yapılır. E) Tüm sağlık hizmeti sunucularının faaliyet ve hizmetlerinden Bakanlıkça riskli görülenler öncelikli olarak denetlenir.
+Denetimin Yöntemi: Seviyelendirme ve tescil komisyonunca bu amaçla hazırlanan formlar kullanılarak yerinde denetim şeklinde yapılır. 1.1.3 İldeki tüm sağlık kurum ve kuruluşlarının faaliyet ve hizmetlerinin denetim yöntemi (3359 SK 3/b - 663 SKHK 8/c,e,ğ) A) Tüm sağlık hizmeti sunucularının faaliyet ve hizmetlerinin bakanlık düzenlemelerine uygunluk denetimi, bu amaçla hazırlanan faaliyet ve hizmete esas denetim formuna göre ilgili şubece yapılır. Denetimin yöntemi: yerinde denetim şeklinde en az 3 kişi tarafından yapılır. B) Özellikli birimlerin faaliyet ve hizmetlerinin bakanlık düzenlemelerine uygunluk denetimi, bu amaçla hazırlanan faaliyet ve hizmete esas denetim formuna göre ilgili şubece yapılır. Denetimin yöntemi: yerinde denetim şeklinde bu amaçla oluşturulan uzman personelinde yer aldığı en az 3 kişi tarafından yapılır. C) Diğer özel teşhis ve tedavi merkezlerinin faaliyet ve hizmetlerinin bakanlık düzenlemelerine uygunluk denetimi, bu amaçla hazırlanan faaliyet ve hizmete esas denetim formuna göre ilgili şubece yapılır. Denetimin yöntemi: yerinde denetim şeklinde bu amaçla oluşturulan uzman personelin de yer aldığı en az 3 kişi tarafından yapılır. D) İl düzeyinde tüm sağlık kurum ve kuruluşlarınca sunulan tıbbi hizmetlerden Bakanlıkça belirlenenlerin endikasyona uygunluk denetimleri yapılır. Denetimin yöntemi: ilgili şube müdürlüğü koordinasyonu ve sorumluluğunda bu amaçla oluşturulan tıbbi endikasyona uygunluk denetim formlarına göre belirli sayıda örneklem alınmak suretiyle uzman hekimler tarafından yapılır. E) Tüm sağlık hizmeti sunucularının faaliyet ve hizmetlerinden Bakanlıkça riskli görülenler öncelikli olarak denetlenir.
 
 Denetimin yöntemi: Bakanlıkça belirlenen ildeki “riskli sağlık hizmetleri” ile “riskli sağlık kuruluşları” yine bu amaçla sonradan belirlenecek denetim yönteminin uygulanması yoluyla ve ilgili şube koordinasyonu ve sorumluluğunda yapılır.
 
@@ -1067,9 +1011,7 @@ Tüm sağlık hizmeti sunucularının faaliyet ve hizmetlerinden Bakanlıkça be
 
 ### 1.4 DENETİM SONUCUNDA YAPILACAK İŞLEMLER İLE YAPTIRIMLARIN UYGULANMA PROSEDÜRÜ
 
-1.4.1 Ruhsata esas denetim sonucunda yapılacak işlemler ile yaptırımların uygulanma
-
-prosedürü
+1.4.1 Ruhsata esas denetim sonucunda yapılacak işlemler ile yaptırımların uygulanma prosedürü
 
 Denetim sonucu uygun ise düzenlenen denetim form tutanağının bir örneği denetlenen kuruma verilir. Diğer örneği ise şubede dosyalanır.
 
@@ -1079,15 +1021,11 @@ Süre sonunda sadece uygunsuzluğun giderilip giderilmediğine yönelik denetim 
 
 Denetim sonucunda uygunsuzluk tespit edilmiş ve yaptırım uygulanması gerekir ise veya “süre sonu denetim” de uygunsuzluk giderilmemiş ise, durum denetim formu tutanağında belirtilerek bir örneği denetlenen kuruma verilir. Diğer örneği ise şube müdürlüğünce gerekli yaptırımın uygulanması için yetkili Makam onayına sunulur. Onay sonrası yaptırım uygulanır.
 
-Denetim sonucunda tespit edilen uygunsuzluk ilgili mevzuatına göre ruhsat iptali gerektirmesi halinde Makam (Bakanlık veya Valilik) Onayı sonrası yaptırım uygulanır. 1.4.2 Seviyelendirme ve tescile ilişkin denetim sonucunda yapılacak işlemler ile
-
-yaptırımların uygulanma prosedürü
+Denetim sonucunda tespit edilen uygunsuzluk ilgili mevzuatına göre ruhsat iptali gerektirmesi halinde Makam (Bakanlık veya Valilik) Onayı sonrası yaptırım uygulanır. 1.4.2 Seviyelendirme ve tescile ilişkin denetim sonucunda yapılacak işlemler ile yaptırımların uygulanma prosedürü
 
 Denetim sonucu uygun ise ilgili şubece düzenlenen denetim form tutanağının bir örneği denetlenen kuruma verilir. Durumuna uygun seviye veya basamak tescil edilmiş olur. Bu duruma ilişkin kayıtlar ilgili şubede dosyalanır.
 
-Denetim sonucunda seviye veya basamağa göre uygunsuzluk var ise tescil gerçekleştirilmez veya önceki tescil seviyesi düşürülür. Durumuna uygun basamak veya seviyeye gelmesi için süre verilir. Bu durum denetim form tutanağında belirtilir ve bir örneği denetlenen kuruma verilir. Diğer örneği ise şubede dosyalanır. Ayrıca kuruluşun üst merciine (rektörlüğe, Birliğe, müdürlüğe vb) gerekli tedbirlerin alınması için bildirimde bulunulur. Süre sonunda durumuna uygun hale gelmiş ise seviye veya basamağı tescil edilir. 1.4.3 İldeki tüm sağlık kurum ve kuruluşlarının faaliyet ve hizmetlerinin denetimi
-
-sonucunda yapılacak işlemler ile yaptırımların uygulanma prosedürü
+Denetim sonucunda seviye veya basamağa göre uygunsuzluk var ise tescil gerçekleştirilmez veya önceki tescil seviyesi düşürülür. Durumuna uygun basamak veya seviyeye gelmesi için süre verilir. Bu durum denetim form tutanağında belirtilir ve bir örneği denetlenen kuruma verilir. Diğer örneği ise şubede dosyalanır. Ayrıca kuruluşun üst merciine (rektörlüğe, Birliğe, müdürlüğe vb) gerekli tedbirlerin alınması için bildirimde bulunulur. Süre sonunda durumuna uygun hale gelmiş ise seviye veya basamağı tescil edilir. 1.4.3 İldeki tüm sağlık kurum ve kuruluşlarının faaliyet ve hizmetlerinin denetimi sonucunda yapılacak işlemler ile yaptırımların uygulanma prosedürü
 
 Denetim sonucu uygun ise düzenlenen denetim form tutanağının bir örneği denetlenen kuruma verilir. Diğer örneği ise şubede dosyalanır.
 
@@ -1133,25 +1071,9 @@ h) Tarama denetimi,(sadece numune alma)
 
 İl Sağlık Müdürlüğü bünyesindeki sertifikalı Tıbbi Cihaz Denetçileri tarafından gerçekleştirilir. 2.2.3 Denetim Sıklığı
 
-Şikayet üzerine ve re’sen gerek görüldükçe yapılır. 2.2.4 Denetim Sonucu  Söz konusu firmanın üretici ve/veya ithalatçı olup olmadığı, değil ise, üretici ve/veya
+Şikayet üzerine ve re’sen gerek görüldükçe yapılır. 2.2.4 Denetim Sonucu  Söz konusu firmanın üretici ve/veya ithalatçı olup olmadığı, değil ise, üretici ve/veya ithalatçıya ulaşma,  İthalatçı ise yetki belgesinin, gümrük beyannamesinin kontrolü,  Ürünlerin üzerinde duyusal incelemenin yapılması,  Söz konusu ürüne ait orijinal etiket, kullanma kılavuzu ve CE işaretlemesinin yönetmelik gereklerini karşılayıp karşılamadığının tespiti,  Söz konusu ürüne/tıbbi cihaza ait uygunluk beyanlarının ve varsa onaylanmış kuruluş tarafından verilen orijinal/noter onaylı EC sertifikalarının kontrolü,  İlgili bilgi/belgelerin ve ürünün, T.C. İlaç ve Tıbbi Cihaz Ulusal Bilgi Bankası (TİTUBB)
 
-ithalatçıya ulaşma,  İthalatçı ise yetki belgesinin, gümrük beyannamesinin kontrolü,  Ürünlerin üzerinde duyusal incelemenin yapılması,  Söz konusu ürüne ait orijinal etiket, kullanma kılavuzu ve CE işaretlemesinin yönetmelik
-
-gereklerini karşılayıp karşılamadığının tespiti,  Söz konusu ürüne/tıbbi cihaza ait uygunluk beyanlarının ve varsa onaylanmış kuruluş
-
-tarafından verilen orijinal/noter onaylı EC sertifikalarının kontrolü,  İlgili bilgi/belgelerin ve ürünün, T.C. İlaç ve Tıbbi Cihaz Ulusal Bilgi Bankası (TİTUBB)
-
-kayıtları ile karşılaştırılması,  Ürünün etiket, kullanma kılavuzu, endikasyonu, tasarımı, cihaz bileşenleri, test metodları,
-
-spesifikasyonları, en son yapılan analiz raporları, risk analizi, klinik araştırma sonuçları ve
-
-kullanılan standartları gösterir teknik dosya özetinin orijinali ve Türkçesinin bir
-
-nüshasının alınması,  PGD tutanağının tutulması,  Ürün güvenliğine ilişkin olmayan uygunsuz bir durumunda süre verme, düzelttirilmesi,  Ürün güvenliğine ilişkin uygunsuz yada şüpheli bir durumunda Kurum kararına kadar
-
-ürünleri yed-i emine alınması,  Analiz gerektiğinde usulüne uygun, mühürlü numune alınması,  Yapılan denetime ilişkin denetim tutanağı, kontrolü istenen tüm bilgi belgelerin ve
-
-numunelerin Kuruma intikal ettirilmesi.
+kayıtları ile karşılaştırılması,  Ürünün etiket, kullanma kılavuzu, endikasyonu, tasarımı, cihaz bileşenleri, test metodları, spesifikasyonları, en son yapılan analiz raporları, risk analizi, klinik araştırma sonuçları ve kullanılan standartları gösterir teknik dosya özetinin orijinali ve Türkçesinin bir nüshasının alınması,  PGD tutanağının tutulması,  Ürün güvenliğine ilişkin olmayan uygunsuz bir durumunda süre verme, düzelttirilmesi,  Ürün güvenliğine ilişkin uygunsuz yada şüpheli bir durumunda Kurum kararına kadar ürünleri yed-i emine alınması,  Analiz gerektiğinde usulüne uygun, mühürlü numune alınması,  Yapılan denetime ilişkin denetim tutanağı, kontrolü istenen tüm bilgi belgelerin ve numunelerin Kuruma intikal ettirilmesi.
 
 ### 2.3 ECZANE İŞLEMLERİ
 

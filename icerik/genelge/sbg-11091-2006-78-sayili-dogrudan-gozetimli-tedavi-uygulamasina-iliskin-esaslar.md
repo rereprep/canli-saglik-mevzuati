@@ -33,11 +33,7 @@ Dünya Sağlık Örgütü tarafından verem kontrol programı için önerilen y�
 
 Verem Kontrol Programında belirlenen ülke hedeflerimize ulaşabilmek için bazı illerimizde pilot uygulaması yapılan Doğrudan Gözetimli Tedavi Stratejisinin ülke genelinde uygulamasına geçilmiştir. Bu stratejinin uygulanmasında, tüm sağlık kuruluşlarının her düzeyde üzerine düşen görevleri eksiksiz yerine getirmesi gereklidir.
 
-İl Sağlık Müdürlükleri, il düzeyinde verem kontrolü hizmetlerinden birinci derecede
-
-sorumlu olarak; DGT'nin planlama, uygulama ve denetimini yapacaklardır. Bulaşıcı Hastalıklar Şubelerinde Il Verem Kontrol Birimi oluşturulacak, bu birimlerde ve Verem Savaşı Dispanserlerinde yeterli sayıda personel görevlendirilecektir. Birinci Basamak Sağlık kuruluşlarından Sağlık Ocakları ve Sağlık Evlerinin DGT uygulanmasına entegrasyonu ile ikinci ve üçüncü basamak sağlık kuruluşlarının DGT uygulamasına katılımı sağlanacaktır.
-
-
+İl Sağlık Müdürlükleri, il düzeyinde verem kontrolü hizmetlerinden birinci derecede sorumlu olarak; DGT'nin planlama, uygulama ve denetimini yapacaklardır. Bulaşıcı Hastalıklar Şubelerinde Il Verem Kontrol Birimi oluşturulacak, bu birimlerde ve Verem Savaşı Dispanserlerinde yeterli sayıda personel görevlendirilecektir. Birinci Basamak Sağlık kuruluşlarından Sağlık Ocakları ve Sağlık Evlerinin DGT uygulanmasına entegrasyonu ile ikinci ve üçüncü basamak sağlık kuruluşlarının DGT uygulamasına katılımı sağlanacaktır.
 
 DGT uygulamasının hedefine ulaşması için Verem Il Koordinatörleri sorumluluğunda DGT Il Eğitim ve Denetleme Ekipleri oluşturulacak, bu konuda üniversitelerin de desteği alınacaktır.
 

@@ -25,9 +25,7 @@ DAĞITIM YERLERİNE
 
 İlgi: 29.03.2024 tarihli ve E-60949272-139.03.02-240481064 sayılı yazımız.
 
-Bakanlığımızca 5.11.2025 tarihli ve E-11045126-010.04-293812904 sayılı yazı ile yayımlanan Sağlık
-
-Bakanlığı İhtiyaç Tespit, Planlama ve Stok Yönetimi Yönergesi'nin yayımlanması ile birlikte anti-tüberküloz ilaçlar stratejik malzeme listesine dahil edilerek, bu ilaçların planlanması, stok yönetimi ve lojistiğine ilişkin usul ve esasların belirlenmesi ve yürütülmesi sorumluluğu Halk Sağlığı Genel Müdürlüğüne verilmiştir.
+Bakanlığımızca 5.11.2025 tarihli ve E-11045126-010.04-293812904 sayılı yazı ile yayımlanan Sağlık Bakanlığı İhtiyaç Tespit, Planlama ve Stok Yönetimi Yönergesi'nin yayımlanması ile birlikte anti-tüberküloz ilaçlar stratejik malzeme listesine dahil edilerek, bu ilaçların planlanması, stok yönetimi ve lojistiğine ilişkin usul ve esasların belirlenmesi ve yürütülmesi sorumluluğu Halk Sağlığı Genel Müdürlüğüne verilmiştir.
 
 Tüberküloz hasta ve temaslılarının tedavilerinde kullanılmak üzere ücretsiz gönderilen anti-tüberküloz ilaçların talep, stok yönetimi ve lojistiğine ilişkin usul ve esaslar mezkûr yönerge dikkate alınarak güncellenmiştir.
 

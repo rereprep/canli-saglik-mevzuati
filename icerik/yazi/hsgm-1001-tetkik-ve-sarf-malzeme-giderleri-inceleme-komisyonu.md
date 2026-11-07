@@ -32,11 +32,7 @@ Konu: Tetkik ve Sarf Malzeme Giderleri
 
 İlgi yazımızda Maliye Bakanlığı Bütçe ve Mali Kontrol Genel Müdürlüğünün 04.07.2013 tarihli ve 6138 sayılı Mali ve Sosyal Haklar konulu genelgesine göre tavan ücret esas alınarak (3572,69 TL) Aile Hekimine yapılacak ödemeler içinde tetkik ve sarf malzemesi giderlerinin incelenmesi gerektiği belirtilmiş olup bu kapsamda Halk Sağlığı Müdürünün başkanlığında en az 5 (beş) kişiden (Halk Sağlığı Müdürü başkanlığında, ilgili müdür yardımcısı, şube müdürü ve Halk Sağlığı Müdürünün uygun gördüğü diğer iki müdürlük personelinden) inceleme komisyonu kurulması ve altı aylık dönemlerde tavan ücret aşımlarının incelenerek bilgi verilmesi istenmiştir.
 
-Bu kapsamda işlem tesis edilmekte iken 694 sayılı Olağanüstü Hal Kapsamında Bazı
-
-Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname ile yapılan değişikliklerden sonra teşkilat yapısındaki yeni düzenlemelerle birlikte hizmette aksamaya sebebiyet vermemek için söz konusu komisyonun Halk Sağlığı Hizmetleri ve Destek Hizmetlerinde görevli yönetici ve/veya personel arasından komisyon başkanı dahil en az 5 (beş) kişiden oluşturularak hizmetin devamının sağlanması ve incelemelerde Maliye Bakanlığı Bütçe ve Mali Kontrol Genel
-
-Müdürlüğünün her yıl Ocak ve Temmuz aylarında yayınladığı Mali ve Sosyal Haklar konulu genelgesinde belirtilen tavan ücretin esas alınması hususunda;
+Bu kapsamda işlem tesis edilmekte iken 694 sayılı Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname ile yapılan değişikliklerden sonra teşkilat yapısındaki yeni düzenlemelerle birlikte hizmette aksamaya sebebiyet vermemek için söz konusu komisyonun Halk Sağlığı Hizmetleri ve Destek Hizmetlerinde görevli yönetici ve/veya personel arasından komisyon başkanı dahil en az 5 (beş) kişiden oluşturularak hizmetin devamının sağlanması ve incelemelerde Maliye Bakanlığı Bütçe ve Mali Kontrol Genel Müdürlüğünün her yıl Ocak ve Temmuz aylarında yayınladığı Mali ve Sosyal Haklar konulu genelgesinde belirtilen tavan ücretin esas alınması hususunda;
 
 Bilgilerinizi ve gereğini rica ederim.
 

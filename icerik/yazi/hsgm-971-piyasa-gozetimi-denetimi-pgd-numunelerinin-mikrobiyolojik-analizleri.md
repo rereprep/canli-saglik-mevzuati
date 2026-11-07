@@ -57,17 +57,11 @@ Bu kapsamda;
 
 - Kaplıca sularının mikrobiyolojik analizlerinin ve
 
--Havuz sularının mikrobiyolojik analizlerinin tüm L2 tipi Halk Sağlığı Laboratuvarlarında yapılabilmesi ve Kurumumuzun ilgi (a) yazısı çerçevesinde yetkilendirilebilmesi için laboratuvarlann cihaz, ekipman ve sarf malzeme eksikliklerini tamamlayarak bağlı bulunduğu
-
-Ll tipi Halk sağlığı Laboratuvarına başvurmalan istenmişti.
+-Havuz sularının mikrobiyolojik analizlerinin tüm L2 tipi Halk Sağlığı Laboratuvarlarında yapılabilmesi ve Kurumumuzun ilgi (a) yazısı çerçevesinde yetkilendirilebilmesi için laboratuvarlann cihaz, ekipman ve sarf malzeme eksikliklerini tamamlayarak bağlı bulunduğu Ll tipi Halk sağlığı Laboratuvarına başvurmalan istenmişti.
 
 L1 tipi Halk Sağlığı Laboratuvarlannca, yetkilendirmeye yönelik yerinde yapılan inceleme ve değerlendirme sonucunda, 66 L2 tipi Halk Sağlığı Laboratuvarından 56 laboratuvar, söz konusu numunelere yönelik analizleri gerçekleştirecek alt yapıya ve yetkinlige sahip bulundugundan Kurumumuzca yetkilendirilmiştir.
 
-Bilindiği üzere, İnsani Tüketim Amaçlı Sular Hakkında Yönetmelik ile Doğal
-
-Mineralli Sular Hakkında Yönetmelik kapsamındaki suların ruhsat, denetim izleme ve piyasa gözetimi-denetimine ()GD) esas analizleri, ülke genelinde hizmet veren L1 tipi Halk Sağlığı
-
-Laboratuvarları ile Tüketici Güvenliği Laboratuvarları Daire Başkanlığında yapılmaktadır.
+Bilindiği üzere, İnsani Tüketim Amaçlı Sular Hakkında Yönetmelik ile Doğal Mineralli Sular Hakkında Yönetmelik kapsamındaki suların ruhsat, denetim izleme ve piyasa gözetimi-denetimine ()GD) esas analizleri, ülke genelinde hizmet veren L1 tipi Halk Sağlığı Laboratuvarları ile Tüketici Güvenliği Laboratuvarları Daire Başkanlığında yapılmaktadır.
 
 Şahit numune analizleri ise, talep doğrultusunda ilgi (b) yazı eicinde yer alan herhangi bir LI tipi Halk Sağlığı Laboratuvar] ile Tüketici Güvenliği Laboratuvarları Daire Başkanlığında yapılabileceği hususu ilgili Halk Sağlığı Müdürlüklerine bildirilmişti.
 
@@ -81,9 +75,7 @@ Bu itibarla;
 
 - PGD amacıyla alınan kaynak suları ve içme sularının mikrobiyolojik parametreleri ile kontrol izlemesine esas milcrobiyolojik parametrelerin aynı parametreler olmasından dolayı, ilgi (a) yazı kapsamında yetkilendirilen L2 tipi Halk Sağlığı liaboratuvarlarında da kaynak suları ve içme sularının milcrobiyolojik analizlerin yapılabileceği,
 
-- PGD amacıyla alınan doğal mineralli suların milcrobiyolojik analizlerinin ise, numune kabul kriterlerinde verilen süreye uyacak şekilde, bağlı bulunduğu L1 tipi Halk Sağlığı
-
-Laboratuvarlarına numune gönderilmesi için gerekli planlamanın yapılması hususunda;
+- PGD amacıyla alınan doğal mineralli suların milcrobiyolojik analizlerinin ise, numune kabul kriterlerinde verilen süreye uyacak şekilde, bağlı bulunduğu L1 tipi Halk Sağlığı Laboratuvarlarına numune gönderilmesi için gerekli planlamanın yapılması hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 

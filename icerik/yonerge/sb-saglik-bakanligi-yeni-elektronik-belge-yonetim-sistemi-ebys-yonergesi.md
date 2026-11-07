@@ -357,4 +357,3 @@ a) EBYS'de yalnızca üst veri bilgileri ile oluşturulan belge, belgeyi hazırl
 #### Yürütme
 
 **MADDE 22 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
-

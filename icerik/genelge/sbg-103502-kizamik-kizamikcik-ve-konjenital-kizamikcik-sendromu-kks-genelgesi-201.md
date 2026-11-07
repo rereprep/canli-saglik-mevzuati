@@ -14,8 +14,6 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-
-
 ### T.C. SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
@@ -448,9 +446,7 @@ Doğumdan sonraki ilk 24 saat içinde başlayan sarılık Konjenital Kızamıkç
 
 • Kızamıkçık aşısı uygulanmamış olmasına rağmen; 6-12 aylar arasında en az iki kez kızamıkçığa özgü IgG antikor düzeyinin aynı düzeyde devam ettiğinin gösterilmesi veya
 
-• Uygun klinik örnekte kızamıkçık virüsü saptanması (RT- PCR ile nükleik asid saptanması
-
-veya kızamıkçık virüs izolasyonu). Konjenital Kızamıkçık Sendromu Vaka Sınıflaması Şüpheli Vaka: Bir yaşından küçük bir çocukta, A grubu klinik bulgulardan en az birinin bulunması, Olası KKS Vakası (Klinik Vaka): Başka bir etiyolojik açıklama yapılamayan bir bebekte, A grubundan en az iki veya A ve B gruplarından birer klinik gösterge saptanmasi. Kesin KKS Vakası: a. Laboratuvarla Doğrulanmış KKS Vakası: Şüpheli bir vakada, konjenital kızamıkçık sendromunun laboratuvar kriterlerinin bulunması. b. Epidemiyolojik Bağlantılı KKS Vakası: Annesinde gebeliği sırasında doğrulanmış kızamıkçık enfeksiyonu saptanmış olan bir bebekte, A grubundan en az bir klinik gosterge saptanmasi. Vaka Değil: A grubundan en az bir gösterge bulunmasına rağmen; klinik, laboratuvarla doğrulanmış veya pidemiyolojik ilişkili KKS sınıflandırma kriterlerini karşılamayan bebek.
+• Uygun klinik örnekte kızamıkçık virüsü saptanması (RT- PCR ile nükleik asid saptanması veya kızamıkçık virüs izolasyonu). Konjenital Kızamıkçık Sendromu Vaka Sınıflaması Şüpheli Vaka: Bir yaşından küçük bir çocukta, A grubu klinik bulgulardan en az birinin bulunması, Olası KKS Vakası (Klinik Vaka): Başka bir etiyolojik açıklama yapılamayan bir bebekte, A grubundan en az iki veya A ve B gruplarından birer klinik gösterge saptanmasi. Kesin KKS Vakası: a. Laboratuvarla Doğrulanmış KKS Vakası: Şüpheli bir vakada, konjenital kızamıkçık sendromunun laboratuvar kriterlerinin bulunması. b. Epidemiyolojik Bağlantılı KKS Vakası: Annesinde gebeliği sırasında doğrulanmış kızamıkçık enfeksiyonu saptanmış olan bir bebekte, A grubundan en az bir klinik gosterge saptanmasi. Vaka Değil: A grubundan en az bir gösterge bulunmasına rağmen; klinik, laboratuvarla doğrulanmış veya pidemiyolojik ilişkili KKS sınıflandırma kriterlerini karşılamayan bebek.
 
 ### 6. KIZAMIK, KIZAMIKÇIK VE KKS VAKALARINA YAKLAŞIM
 
@@ -478,9 +474,7 @@ Vaka inceleme formlan tamamlanr tamamlanmaz
 
 ### rar ve nazofarengea! Omeklert formlanyla (haftada tki kez) gönder sarintü de al ve gönder Vaka Cetveli oluştur (ayda 2 kez) gönder
 
-Vaka Bildirim ve Lab Istek ve Sonuç Formun İl Sağlık Müdürlügü:* „ Aktif sürveyans bildirim ve Vaka Inceleme Formunu doldur. Vaka Inceleme Formu (son smufiama Serum al ve gönder İl Vaka Cetvelı oluştur ve ayda 2 kez
-
-gönder
+Vaka Bildirim ve Lab Istek ve Sonuç Formun İl Sağlık Müdürlügü:* „ Aktif sürveyans bildirim ve Vaka Inceleme Formunu doldur. Vaka Inceleme Formu (son smufiama Serum al ve gönder İl Vaka Cetvelı oluştur ve ayda 2 kez gönder
 
 ### Vaka Bildirim ve Lab Istek ve Sonuç Formu
 
@@ -624,11 +618,7 @@ ml) Kas içine (intramusküler) uygulanmalıdır. 6.3. Şüpheli ya da Olası Kr
 
 ### Şekil 6. Olası Kızamık veya Kızamıkçık Vakaları1 için Sınıflandırma Şeması
 
-**Laboratuvar ve** Laboratuvar Laboratuvarla Son siniflandırma
-
-pidemiyolojik incelemesi sonucu? doğrulanmış vakayla
-
-inceleme gereken pidemiyolojik ilişki
+**Laboratuvar ve** Laboratuvar Laboratuvarla Son siniflandırma pidemiyolojik incelemesi sonucu? doğrulanmış vakayla inceleme gereken pidemiyolojik ilişki
 
 ### vaka Laboratuvarla
 
@@ -638,9 +628,7 @@ kızamıkçık pozitif kızamık/kızamıkçık
 
 **Supheli vakal** Kızamık veya Kızamık veya
 
-**kızamıkçık klinik** Negatif 3 kızamıkçık değil
-
-uyumlu belirti ve tanımaması lle
+**kızamıkçık klinik** Negatif 3 kızamıkçık değil uyumlu belirti ve tanımaması lle
 
 **bulguları olan** Epidemiyolojik
 
@@ -714,13 +702,9 @@ geçirmeden sağlık kuruluşuna başvurmaları konusunda uyarılmalıdır. (Det
 
 ### kızamık/kızamikçık virüsünü kimden/nereden almış
 
-sorgulanmalıdır. Bunun için vakanın, döküntünün başlangıcından önceki inkübasyon
+sorgulanmalıdır. Bunun için vakanın, döküntünün başlangıcından önceki inkübasyon süresi boyunca (kızamık için 7-18, kızamıkçık için 12-23 gün) döküntülü başka hasta
 
-süresi boyunca (kızamık için 7-18, kızamıkçık için 12-23 gün) döküntülü başka hasta
-
-ile karşılaşıp karşılaşmadığı veya seyahat öyküsü veya yurt/şehir dışından ziyaretçi
-
-gelip gelmediği tekrar ve detaylı olarak sorgulanmalıdır.
+ile karşılaşıp karşılaşmadığı veya seyahat öyküsü veya yurt/şehir dışından ziyaretçi gelip gelmediği tekrar ve detaylı olarak sorgulanmalıdır.
 
 b) Vaka sayısında artış ve kümelenme varsa (salgın durumu), her vakadan kan (serum)
 
@@ -738,9 +722,7 @@ yakın çevresini de içerecek şekilde bölgesel salgın aşılamasına başlat
 
 6-11 ay arası tüm bebekler sadece kızamık aşısı ile aşılanmalıdır.
 
-ii) 1-5 yaş aşısızlar ve ilköğretim çağında olup 2 dozdan az aşılı olanlar KKK aşısı ile
-
-iii) Gerektiğinde diğer yaş grupları için de seçici bağışıklama çalışmaları
+ii) 1-5 yaş aşısızlar ve ilköğretim çağında olup 2 dozdan az aşılı olanlar KKK aşısı ile iii) Gerektiğinde diğer yaş grupları için de seçici bağışıklama çalışmaları
 
 <i>yürütülmelidir.</i> 1 yaş altına kızamık, 1 yaş ve üzerine ise KKK aşısı uygulanacaktır. Kızamık içeren iki aşı arasında bırakılması gereken süre en az 4 haftadır. 1 yaş altında aşı uygulanmış olan bebeklere, 1 yaşını doldurduklarında iki aşı arasında bırakılması gereken en az süre göz önüne alınarak tekrar aşı uygulanacaktır. Bu çocuklar, ilköğretim 1. sınıfa geldiklerinde tekrar aşılanacaktır.
 
@@ -818,9 +800,7 @@ Daha detaylı bilgi için Ek 3'e bakınız.
 
 Şekil 7. Konjenital Kızamıkçık Sendromu Vaka Sınıflandırma Şeması
 
-Daha ileri Klinik Inceleme Laboratuvar Annede gebelikte Son Siniflandirma laboratuvar ve Incelemes doğrulanmiş pidemiyolojik kızamıkçık hikayesi inceleme gereken
-
-vaka' KKS değil
+Daha ileri Klinik Inceleme Laboratuvar Annede gebelikte Son Siniflandirma laboratuvar ve Incelemes doğrulanmiş pidemiyolojik kızamıkçık hikayesi inceleme gereken vaka' KKS değil
 
 Yok
 
@@ -890,9 +870,7 @@ Epidemiyolojik bilginin yanı sıra, bir sürveyans sistemi bildirimin kalitesin
 
 • Yüksek oranda aşılı vaka: Yüksek aşı kapsayıcılığı olan bölge. Kızamık aşısının etkinliğ
 
-%100 olmadığı için, bazı aşılı vakalar duyarlı kalarak kızamık geçirebilirler. Ancak aşılı vaka
-
-sayısı hızla artıyorsa, aşı etkililiğini değerlendiriniz.
+%100 olmadığı için, bazı aşılı vakalar duyarlı kalarak kızamık geçirebilirler. Ancak aşılı vaka sayısı hızla artıyorsa, aşı etkililiğini değerlendiriniz.
 
 • Yüksek oranda 1-5 yaş arası vaka: Aşı kapsayıcılığı düşük bölge. Aşısız bölgede virüs
 
@@ -904,9 +882,7 @@ oranı yükseldikçe, kızamık insidansı düşer, kızamık görülme yaşı i
 
 • Yüksek oranda erişkin yaşta vaka: Erişkin yaşa kadar kızamık hastalığı geçirmemiş ya da
 
-aşılanmamış kişiler (örneğin, izole kırsal alanda yaşayıp yakın zamanda kentsel alanlara göç
-
-etmiş kişiler)
+aşılanmamış kişiler (örneğin, izole kırsal alanda yaşayıp yakın zamanda kentsel alanlara göç etmiş kişiler)
 
 • Şüpheli her vakadan örnek (scrum, idrar, nazofarengeal sürüntü) alınız.
 
@@ -994,9 +970,7 @@ devamlılığını sağlamak,
 
 • Difteri, Boğmaca, Hepatit-B, Tüberküloz, Kabakulak ve Hemofilus influenza tip b'ye bağlı
 
-hastalıkları ve Streptokokus pnömoniya'ya bağlı invaziv pnömokokal hastalıkları kontrol altına
-
-almak,
+hastalıkları ve Streptokokus pnömoniya'ya bağlı invaziv pnömokokal hastalıkları kontrol altına almak,
 
 Kayıt bildirim sistemini güçlendirmek,
 
@@ -1072,21 +1046,11 @@ KKK OPA Td Hep B: Hepatit B AșISI BCG: Bacille Calmette-Guerin AŞISI DaBT-IPA-
 
 • Aşı takviminde belirtilen uygulama zamanları ve uygulama aralıklarına uymak esastır. Ancak zorunlu hallerde aşağıda belirtilen en az süreler kullanılabilir;
 
-o DaBT-IPA-Hib aşısının 1. ile 2. ve 2. ile 3. dozları arasındaki süre en az 4 hafta
-
-olmalıdır. Aynı aşının 3. dozu ile rapel dozu arasındaki süre ise en az 6 ay
-
-o Kızamık antijeni içeren iki aşı arasında en az 4 hafta süre olmalıdır.
+o DaBT-IPA-Hib aşısının 1. ile 2. ve 2. ile 3. dozları arasındaki süre en az 4 hafta olmalıdır. Aynı aşının 3. dozu ile rapel dozu arasındaki süre ise en az 6 ay o Kızamık antijeni içeren iki aşı arasında en az 4 hafta süre olmalıdır.
 
 o Hepatit B'nin 1. ve 2. dozu arasinda en az 4 hafta, 2. ve 3. dozu arasinda en az 8
 
-hafta olmalı, ayrica 3. doz 1. dozdan en az 16 hafta sonra uygulanmalıdır. Asıl olan
-
-o KPA için; 12. aydan küçük çocuklarda, 1. ve 2. dozlar ile 2. ve 3. dozlar arasında
-
-bırakılması gereken en az süre 4 hafta olmalıdır. Son doz ile pekiştirme dozu
-
-arasında en az süre 4 ay olmalıdır (pekiştirme dozu 12. aydan önce
+hafta olmalı, ayrica 3. doz 1. dozdan en az 16 hafta sonra uygulanmalıdır. Asıl olan o KPA için; 12. aydan küçük çocuklarda, 1. ve 2. dozlar ile 2. ve 3. dozlar arasında bırakılması gereken en az süre 4 hafta olmalıdır. Son doz ile pekiştirme dozu arasında en az süre 4 ay olmalıdır (pekiştirme dozu 12. aydan önce
 
 • Kural olarak parenteral (enjeksiyonla) uygulanan iki canlı viral aşı aynı anda uygulanabilir, aynı anda uygulanamayacaksa aralarında en az 4 hafta süre bırakılması gerekir. Takvimimizde yer alan canlı aşılardan OPA ile diğer canlı aşılar arasında süre bırakılması gerekmez. Kızamık hastalığı ya da aşısı sonrası lenfopeni (t lenfosit azalması) oluşma olasılığı nedeniyle, hücresel bağışıklık yetersiz kalabileceğinden Kızamık içeren aşılar sonrası BCG uygulanmasında 4 haftalık bir süre bırakmak gerekir. BCG'nin önce uygulandığı durumda ise Kızamık içeren aşıların uygulanması için süre bırakmaya gerek
 
@@ -1108,15 +1072,11 @@ arasında en az süre 4 ay olmalıdır (pekiştirme dozu 12. aydan önce
 
 a) Anne Hepatit B taşıyıcısı ise veya taşıyıcılık durumu bilinmiyorsa doğumdan
 
-sonraki ilk 12 saat içinde ilk doz yapılır, daha sonra 1., 2. ve 12. aylarda așı
-
-tekrarlanır (toplam 4 doz uygulanır).
+sonraki ilk 12 saat içinde ilk doz yapılır, daha sonra 1., 2. ve 12. aylarda așı tekrarlanır (toplam 4 doz uygulanır).
 
 b) Anne Hepatit B taşıyıcısı değilse, bebek 2000 gr'a ulaştığında veya 1. ayın
 
-sonunda ilk doz yapılır, ilk dozdan 1 ay ve 6 ay sonra așı tekrarlanır (toplam 3 doz
-
-uygulanır).
+sonunda ilk doz yapılır, ilk dozdan 1 ay ve 6 ay sonra așı tekrarlanır (toplam 3 doz uygulanır).
 
 • BCG aşısı doğumdan itibaren yapılabilir, ancak uygulama kolaylığı, daha az komplikasyon olması ve immünitenin daha kuvvetli gelişmesi için 2 ayı doldurduğunda uygulanmalidır.
 
@@ -1126,11 +1086,7 @@ uygulanır).
 
 o Kayıtlara göre BCG yapıldığı bilinen çocuklarda (skar görülsün veya görülmesin)
 
-ve BCG skarı bulunan çocuklarda herhangi bir yaşta kontrol amacıyla TCT
-
-yapılmasına gerek yoktur ve bunun sonucuna göre BCG uygulaması gerekli
-
-degildir.
+ve BCG skarı bulunan çocuklarda herhangi bir yaşta kontrol amacıyla TCT yapılmasına gerek yoktur ve bunun sonucuna göre BCG uygulaması gerekli degildir.
 
 • 6 yaş üzerinde hiç aşılanmamış çocukta BCG gerekli değildir.
 
@@ -1148,41 +1104,23 @@ aşısı gibi) göz önüne alınarak duruma göre karar verilmelidir.
 
 • Her ne kadar kızamıkçık aşısına bağlı fetal anomaliye dair bir kanıt olmasa da,
 
-kızamıkçık veya KKK aşısı alanlar 4 hafta süre ile gebelikten korunmalıdır. Kızamıkçık
-
-aşılaması öncesı gebelık testi yapmaya gerek yoktur, gebe olup olmadığı sorularak aşı
-
-o Daha önce aşılanma durumu bilinmeyen tüm yetişkinlerin 3 doz Td aşısı ile
-
-aşılanarak primer immünizasyonlarının tamamlanması gerekmektedir (birinci doz
-
-ile ikinci doz arasında 1 ay, ikinci doz ile üçüncü doz arasında 6 ay). 1980'den
-
-sonra doğanların aşı kayıtlarının bulunması durumunda, uygun aralıklarla yapılmış
+kızamıkçık veya KKK aşısı alanlar 4 hafta süre ile gebelikten korunmalıdır. Kızamıkçık aşılaması öncesı gebelık testi yapmaya gerek yoktur, gebe olup olmadığı sorularak aşı o Daha önce aşılanma durumu bilinmeyen tüm yetişkinlerin 3 doz Td aşısı ile aşılanarak primer immünizasyonlarının tamamlanması gerekmektedir (birinci doz ile ikinci doz arasında 1 ay, ikinci doz ile üçüncü doz arasında 6 ay). 1980'den sonra doğanların aşı kayıtlarının bulunması durumunda, uygun aralıklarla yapılmış
 
 3 doz Tetanoz içeren aşı almış olanlar 2 doz Tetanoz aşısı almış kabul edilerek
 
 aşılanmalarına kaldığı dozdan devam edilir.
 
-o Onceki aşılanma durumu bilinmeyen gebelerin de ilk karşılaşmada; 1 ay ara ile en
-
-az iki doz Td aşısı almaları sağlanmalı, 3. doz Td aşısı primer seriyi tamamlamak
-
-üzere 2. dozdan 6 ay sonra yapılmalıdır.
+o Onceki aşılanma durumu bilinmeyen gebelerin de ilk karşılaşmada; 1 ay ara ile en az iki doz Td aşısı almaları sağlanmalı, 3. doz Td aşısı primer seriyi tamamlamak üzere 2. dozdan 6 ay sonra yapılmalıdır.
 
 ### • Primer serisi tamamlanmış tüm yetişkinlere 10 yılda bir Td aşısı yapılmalıdır.
 
 o Primer serisi tamamlandığı aşı kayıtlarından anlaşılan bir kadına gebe kaldığında;
 
-Maternal ve Neonatal Tetanoz Eliminasyon Programına uygun olarak 1 doz Td,
-
-sonraki gebeliğinde de 1 doz Td yapılarak 5 doz Td şeması tamamlanır (Yüksek
+Maternal ve Neonatal Tetanoz Eliminasyon Programına uygun olarak 1 doz Td, sonraki gebeliğinde de 1 doz Td yapılarak 5 doz Td şeması tamamlanır (Yüksek
 
 Riskli Bölgeler dışındaki bölgelerde).
 
-o Doğurganlık çağında (15-49 yaş) 5 doz Td almış olan kadınların da 10 yıl
-
-aralıklarla Td aşılamasına devam edilir.
+o Doğurganlık çağında (15-49 yaş) 5 doz Td almış olan kadınların da 10 yıl aralıklarla Td aşılamasına devam edilir.
 
 • Ailelere, uygulanan așı, aşının gerekliliği, bir sonraki aşı için gelmeleri gereken zaman ve
 
@@ -1250,21 +1188,9 @@ Form 013B, takip eden ayın ilk haftası içinde Sağlık Müdürlüğüne gönd
 
 • Aşı kartı:
 
-o Bebek/Çocuk Aşı Kartı: Tespit edilen her bebek ve çocuk için Form 012A'ya kayıt
+o Bebek/Çocuk Aşı Kartı: Tespit edilen her bebek ve çocuk için Form 012A'ya kayıt sırasında aşı kartı düzenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu tarihi kurşun kalemle kaydedilerek verilir. Aşı kartının saklanması gerektiği ve aşılamaya gelinirken bebeğin beraberinde getirilmesi hatırlatılır. Aşılama tarihi gün- ay-yıl olarak doldurulmalıdır.
 
-sırasında aşı kartı düzenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu
-
-tarihi kurşun kalemle kaydedilerek verilir. Aşı kartının saklanması gerektiği ve
-
-aşılamaya gelinirken bebeğin beraberinde getirilmesi hatırlatılır. Aşılama tarihi gün-
-
-ay-yıl olarak doldurulmalıdır.
-
-o Erişkin Difteri Tetanoz Aşı Kartı: Tespit edilen her gebe ve yüksek riskli
-
-bölgelerdeki doğurganlık çağı kadın için Form 012B'ye kayıt sırasında aşı kartı
-
-düzenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu tarihi kurşun
+o Erişkin Difteri Tetanoz Aşı Kartı: Tespit edilen her gebe ve yüksek riskli bölgelerdeki doğurganlık çağı kadın için Form 012B'ye kayıt sırasında aşı kartı düzenlenir, uygunsa aşısı yapılır, değilse aşı kartına ilk aşı randevu tarihi kurşun
 
 ### kalemle kaydedilerek verilir. Aşılama tarihi gün-ay-yıl olarak doldurulmalıdır.
 
@@ -1388,15 +1314,11 @@ Aşağıda belirtilen durumlarda aşı uygulaması ertelenmez, aşı takvimine g
 
 • Topikal (cilt üzerine krem/merhem), aerosol (solunum yolu ile) şeklinde veya lokalize
 
-(intraartiküler, intrabursal veya tendon içi vb.) steroid kullanımı ya da ağız yolu ile düşük doz
-
-steroid kullanımı (2 mg/kg veya 20 mg/gün dozundan az),
+(intraartiküler, intrabursal veya tendon içi vb.) steroid kullanımı ya da ağız yolu ile düşük doz steroid kullanımı (2 mg/kg veya 20 mg/gün dozundan az),
 
 • Konvülsiyon öyküsü: aşılama sonrası ateş görülebileceğinden, febril konvülsiyon öyküsü olan
 
-çocuklarda ateş çıkması beklenen dönemde ateş düşürücü verilmesi uygundur. Çocuk
-
-antikonvülzan tedavi alıyorsa tedavisine aksatılmadan devam edilmelidir.
+çocuklarda ateş çıkması beklenen dönemde ateş düşürücü verilmesi uygundur. Çocuk antikonvülzan tedavi alıyorsa tedavisine aksatılmadan devam edilmelidir.
 
 Aşı öncesi genel durumu iyi, sağlıklı çocukların ateşinin ölçülmesine ve fizik muayene yapılmasına gerek yoktur. Kontrendikasyonlar mutlaka sorgulanmalıdır. Aşı öncesi çocuğun hasta olup olmadığının sorulması yeterlidir. "Önlem alınarak aşı yapılması gereken durumlar"da aşı uygulama kararı, takip eden doktora bırakılmalıdır/doktor kontrolü sonrası aşı uygulanmalıdır.
 
@@ -1422,37 +1344,23 @@ durumda olmalidır. Yukarıdaki şartlar yerine getirilemiyorsa o aşı flakonu 
 
 • BCG aşısı sulandırıldıktan sonra (+2) - (+8)°C'de ve karanlıkta korunmak şartıyla 6
 
-saat içinde, o Çok dozlu Kızamık ve Kızamıkçık aşısı sulandırıldıktan sonra (+2) - (+8)°C'de ve
-
-karanlıkta korunmak şartıyla 4 saat içinde kullanılmalıdır.
+saat içinde, o Çok dozlu Kızamık ve Kızamıkçık aşısı sulandırıldıktan sonra (+2) - (+8)°C'de ve karanlıkta korunmak şartıyla 4 saat içinde kullanılmalıdır.
 
 • Tek Dozlu Liyofilize Aşılar: o Tek dozlu Hib ve KKK aşısı sulandırıldıktan sonra hemen kullanılmalıdır.
 
 • Tek Dozlu Kombine Aşılar: o Difteri, aselüler Boğmaca, Tetanoz, Inaktif Polio, Hemofilus influenza tip b içeren
 
-beşli karma aşıda, aynı pakette enjektör içerisinde sıvı formda DaBT ve IPA, ayrı
-
-flakon içinde liyofilize Hib bulunmaktadır. Liyofilize Hib aşısı sıvı formda olan
+beşli karma aşıda, aynı pakette enjektör içerisinde sıvı formda DaBT ve IPA, ayrı flakon içinde liyofilize Hib bulunmaktadır. Liyofilize Hib aşısı sıvı formda olan
 
 DaBT-IPA ile sulandırıldıktan sonra hemen uygulanmalıdır.
 
 • Tek Dozlu Liyofilize Olmayan Aşılar: o KPA tek dozluk kullanıma hazır enjektör içerisinde sunulmaktadır. Sıvı formda
 
-bulunan aşı kendi enjektörü ile uygulanmalıdır. o Tek dozluk hepatit B aşısı tek dozluk flakon veya ampul içerisinde sunulmaktadır. Tek
-
-kullanımlık enjektöre çekilmek suretiyle uygulanmalıdır.
+bulunan aşı kendi enjektörü ile uygulanmalıdır. o Tek dozluk hepatit B aşısı tek dozluk flakon veya ampul içerisinde sunulmaktadır. Tek kullanımlık enjektöre çekilmek suretiyle uygulanmalıdır.
 
 Aşı Sulandırmada Genel İlkeler:
 
-olmasına veya ASI'lere zemin hazırlar. o Daima aşıyı üreten firmanın sağladığı sulandırıcı kullanılmalıdır. o Başka amaçlar için kullanılmak üzere üretilen steril su ya da fizyolojik serum aşı
-
-sulandırmakta kullanılamaz. o Așı uygulanan birimlerde sulandırıcılar da buzdolabında tutulmalıdır. o Aşılar, aşılama hazırlıkları tamamlandıktan sonra sulandırılmalıdır. o Aşıyı sulandırmadan önce eller temiz su ve sabunla yıkanmalıdır. o Aşı flakonu, sulandırıcı ve enjektörler kontrol edilmelidir (doğru așı/sulandırıcı, varsa
-
-aşı flakon izlemcisi, son kullanma tarihi). o Sulandırmadan önce flakona parmakla fiskeler vurularak toz (liyofilize) aşının
-
-flakonun dibine çökmesi sağlanmalıdır. o Sulandırılan aşının buz aküsü ile direkt teması ve donması engellenmelidir. Işığa
-
-duyarlı aşılar ışıktan korunmalıdır. o Sulandırma işleminde sulandırıcının tamamı kullanılmalıdır. Liyofilize Aşıların Sulandırılması:
+olmasına veya ASI'lere zemin hazırlar. o Daima aşıyı üreten firmanın sağladığı sulandırıcı kullanılmalıdır. o Başka amaçlar için kullanılmak üzere üretilen steril su ya da fizyolojik serum aşı sulandırmakta kullanılamaz. o Așı uygulanan birimlerde sulandırıcılar da buzdolabında tutulmalıdır. o Aşılar, aşılama hazırlıkları tamamlandıktan sonra sulandırılmalıdır. o Aşıyı sulandırmadan önce eller temiz su ve sabunla yıkanmalıdır. o Aşı flakonu, sulandırıcı ve enjektörler kontrol edilmelidir (doğru așı/sulandırıcı, varsa aşı flakon izlemcisi, son kullanma tarihi). o Sulandırmadan önce flakona parmakla fiskeler vurularak toz (liyofilize) aşının flakonun dibine çökmesi sağlanmalıdır. o Sulandırılan aşının buz aküsü ile direkt teması ve donması engellenmelidir. Işığa duyarlı aşılar ışıktan korunmalıdır. o Sulandırma işleminde sulandırıcının tamamı kullanılmalıdır. Liyofilize Aşıların Sulandırılması:
 
 1) Çok dozlu aşıların sulandırılması: o Her yeni uygulama için yeni bir sulandırma enjektörü ve iğne ucu kullanılmalı ve bütün
 
@@ -1460,19 +1368,11 @@ duyarlı aşılar ışıktan korunmalıdır. o Sulandırma işleminde sulandır�
 
 2) Tek dozlu aşıların sulandırılması: o Her yeni uygulama için yeni bir aşı enjektörü ve iğne ucu kullanılmalıdır. Önce bütün
 
-çözücünün enjektöre dolması sağlanmalı, daha sonra sulandırıcının tamamı aşı flakonu
-
-içine boşaltılmalıdır. o Sulandırıcı ve aşıyı karıştırmak için birkaç kez yavaşça enjektöre çekilip, tekrar
-
-yavaşça flakonun içerisine boşaltılarak karıştırma işlemi tamamlanmalıdır. Enjektör
-
-flakondan hiç çıkarılmadan aşının tamamı enjektöre çekilmeli ve aşı uygulanmalıdır. o Aşılama işlemi sonrası enjektör ve iğnesi ayrılmadan güvenli atık kutusuna atılmalıdır.
+çözücünün enjektöre dolması sağlanmalı, daha sonra sulandırıcının tamamı aşı flakonu içine boşaltılmalıdır. o Sulandırıcı ve aşıyı karıştırmak için birkaç kez yavaşça enjektöre çekilip, tekrar yavaşça flakonun içerisine boşaltılarak karıştırma işlemi tamamlanmalıdır. Enjektör flakondan hiç çıkarılmadan aşının tamamı enjektöre çekilmeli ve aşı uygulanmalıdır. o Aşılama işlemi sonrası enjektör ve iğnesi ayrılmadan güvenli atık kutusuna atılmalıdır.
 
 3) pesli se halde fre irak ey n pa kal dertlindeda hazr enjektör ve lakon içerisinde Tek dozlu DaBT-IPA-Hib (beşli) aşısının sulandırılması: liyofilize halde Hib olarak aynı paket içerisindedir. o Liyofilize halde flakon içerisinde bulunan Hib, sıvı halde enjektör içinde bulunan
 
-DaBT-IPA ile sulandırılır. o Oncelikle bütün sıvının flakona dolması sağlanmalıdır. Daha sonra enjektör flakondan
-
-ayrılmadan, flakon çalkalanarak Hib eritilmeli ve aynı enjektöre çekilerek bekletilmeden uygulanmalıdır. o Aşılama işlemi sonrası enjektör ve iğnesi ayrılmadan güvenli atık kutusuna atılmalıdır.
+DaBT-IPA ile sulandırılır. o Oncelikle bütün sıvının flakona dolması sağlanmalıdır. Daha sonra enjektör flakondan ayrılmadan, flakon çalkalanarak Hib eritilmeli ve aynı enjektöre çekilerek bekletilmeden uygulanmalıdır. o Aşılama işlemi sonrası enjektör ve iğnesi ayrılmadan güvenli atık kutusuna atılmalıdır.
 
 ### G-) AȘI UYGULAMA TEKNİKLERİ
 
@@ -1640,9 +1540,7 @@ Donma durumlarında bazen şiddetli çalkalama ile homojene yakın bulanıklık 
 
 • Aşıların dağıtımında ve kullanımında son kullanma tarihleri mutlaka göz önüne alınarak,
 
-miadı (kullanım süresi) daha önce dolacak aşıların kullanımına öncelik verilmeli, miadı
-
-dolmuş olanlar imha edilmelidir.
+miadı (kullanım süresi) daha önce dolacak aşıların kullanımına öncelik verilmeli, miadı dolmuş olanlar imha edilmelidir.
 
 • Gönderilen aşılar farklı firmalar tarafından üretildiğinden uygulama dozları için mutlaka
 
@@ -1650,11 +1548,7 @@ prospektüsleri kontrol edilmelidir.
 
 • İl depolarında bulunan soğuk hava depoları, buzdolapları ve sağlık kuruluşlarında bulunan
 
-buzdolaplarının içerisine aşı, antiserum, buz aküsü ve su bidonlarından başka hiçbir
-
-malzeme (ilaç, yiyecek, içecek, enjektör, vb) konulmamalıdır. Aşı uygulanan birimlerde
-
-sulandıricılar da buzdolabında saklanmalıdır.
+buzdolaplarının içerisine aşı, antiserum, buz aküsü ve su bidonlarından başka hiçbir malzeme (ilaç, yiyecek, içecek, enjektör, vb) konulmamalıdır. Aşı uygulanan birimlerde sulandıricılar da buzdolabında saklanmalıdır.
 
 • Aşı dolabı olarak buzluk ve alt bölümü ayrı olan çift kapılı no-frost buzdolapları tercih
 
@@ -1662,21 +1556,13 @@ edilmelidir.
 
 • Aşı dolaplarında en az bir adet güvenilir termometre olmalıdır. Termometrelerin sürekli
 
-ısı kaydeden ve belirlenen aralığın dışına çıktığında uyarı veren modelleri tercih
+ısı kaydeden ve belirlenen aralığın dışına çıktığında uyarı veren modelleri tercih edilmelidir. Bozulan veya kırılan termometre hemen yenisi ile değiştirilmelidir.
 
-edilmelidir. Bozulan veya kırılan termometre hemen yenisi ile değiştirilmelidir.
-
-Buzdolabının ıSıSı +2 ila +8 °C arasında korunmalıdır. Özellikle +4 °C'de kalması
-
-sağlanmalıdır.
+Buzdolabının ıSıSı +2 ila +8 °C arasında korunmalıdır. Özellikle +4 °C'de kalması sağlanmalıdır.
 
 • Buzdolabı her açıldığında ısının kontrol edilmesi gerektiği unutulmamalıdır. Buzdolabının
 
-kapısına bir ısı izlem çizelgesi yapıştırılarak dolabın ısısı sabah ve akşam bu çizelgeye
-
-kaydedilmelidir. Isı izlem çizelgesinin altında soğuk zincir sorumlusunun ve yedeğinin
-
-adı, soyadı bulunmalıdır.
+kapısına bir ısı izlem çizelgesi yapıştırılarak dolabın ısısı sabah ve akşam bu çizelgeye kaydedilmelidir. Isı izlem çizelgesinin altında soğuk zincir sorumlusunun ve yedeğinin adı, soyadı bulunmalıdır.
 
 • Aşıların saklandığı buzdolabı aşırı soğuk ve sıcağa maruz kalmayacak şekilde uygun bir odaya yerleştirilmelidir. Buzdolabı kışın ısıtılan odalardan birine gölgede olacak şekilde, ısıtıcılardan uzak, duvardan en az 10-15 cm mesafede düz bir zemine yerleştirilmelidir.
 
@@ -1728,9 +1614,7 @@ Kızamıkçık aşıları
 
 antiserumlar, yerleştirilmelidir.
 
-o Ayrıca sulandırıcısı ayrı olmak üzere meningokok aşısı üst rafa; meningokok
-
-aşısının sulandırıcısı ve grip aşısı alt rata konulmalıdır.
+o Ayrıca sulandırıcısı ayrı olmak üzere meningokok aşısı üst rafa; meningokok aşısının sulandırıcısı ve grip aşısı alt rata konulmalıdır.
 
 • En alt kısma (sebzelik) dolap ısısının sabit tutulmasına yardımcı olmak üzere su şışeleri yerleştirilmelidir.
 
@@ -1764,21 +1648,13 @@ Aşılama çalışmaları için bir oda "așı odası" olarak belirlenir. Aşı 
 
 Enjektör Güvenli Atık Kutusu Kullanılmasında Dikkat Edilecek Hususlar:
 
-o Aşı uygulanan her yerde Enjektör Güvenli Atık Kutusu bulundurulmalıdır,
+o Aşı uygulanan her yerde Enjektör Güvenli Atık Kutusu bulundurulmalıdır, o Enjeksiyondan hemen sonra enjektör iğnesi ayrılmadan ve kapağı kapatılmadan
 
-o Enjeksiyondan hemen sonra enjektör iğnesi ayrılmadan ve kapağı kapatılmadan
+Enjektör Güvenli Atık Kutusuna atılmalıdır, o Enjektör Güvenli Atık Kutularının en fazla ¼'ü doldurulmalıdır.
 
-Enjektör Güvenli Atık Kutusuna atılmalıdır,
+o Enjektör Güvenli Atık Kutuları imha edilmek üzere gönderilene kadar kuru ve güvenli bir yerde saklanmalıdır.
 
-o Enjektör Güvenli Atık Kutularının en fazla ¼'ü doldurulmalıdır.
-
-o Enjektör Güvenli Atık Kutuları imha edilmek üzere gönderilene kadar kuru ve güvenli
-
-bir yerde saklanmalıdır.
-
-o Enjektör Güvenli Atık Kutularının "Tıbbi Atıkların Kontrolü Yönetmeliği"ne uygun
-
-olarak imhası sağlanmalıdır.
+o Enjektör Güvenli Atık Kutularının "Tıbbi Atıkların Kontrolü Yönetmeliği"ne uygun olarak imhası sağlanmalıdır.
 
 ### J-) GENİŞLETİLMİŞ BAĞIŞIKLAMA PROGRAMINDA ÇALIŞAN PERSONELIN GOREV VE SORUMLULUKLARI İL DÜZEYİNDE YAPILACAK İŞLER:
 
@@ -1978,9 +1854,7 @@ Istenmeyen etkiler bazı vakalarda aşının kendisine, bazılarında ise aşın
 
 A. Aşı yan etkisi
 
-B. Program uygulama hataları (Aşının üretim, dağıtım ve uygulanması sırasında ortaya
-
-çıkabilecek hatalar)
+B. Program uygulama hataları (Aşının üretim, dağıtım ve uygulanması sırasında ortaya çıkabilecek hatalar)
 
 C. Enjeksiyon reaksiyonu
 
@@ -1996,9 +1870,7 @@ ASIE İzleme Sistemi kapsamında bildirilmesi gereken istenmeyen etkiler
 
 ASIE İzleme Sistemine dahil olan ve AşI Sonrası Istenmeyen Etki Bildirim ve Inceleme Formu (Ek-4) doldurularak bildirimi yapılacak olan ASİ'ler Ek-5'de gösterilmiştir.
 
-ASİE ile karşılaşan sağlık personeli, hekim tarafından değerlendirilen ve ASIE İzleme Sistemi'ne dahil olan ve bildirilmesi gereken her ASIE vakası için bir ASIE Inceleme ve Bildirim Formu doldurur. Vakanın sahadaki incelemesinin yapılabilmesi için 24 saat içinde İl ASİE Sorumlusuna haber verip formun bir kopyasını iletir. ASIE vakası ciddi ise, kümelenme var ise ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan bir durum ise acil olarak İI ASİE
-
-il ASİE İzlem Sorumlusu;
+ASİE ile karşılaşan sağlık personeli, hekim tarafından değerlendirilen ve ASIE İzleme Sistemi'ne dahil olan ve bildirilmesi gereken her ASIE vakası için bir ASIE Inceleme ve Bildirim Formu doldurur. Vakanın sahadaki incelemesinin yapılabilmesi için 24 saat içinde İl ASİE Sorumlusuna haber verip formun bir kopyasını iletir. ASIE vakası ciddi ise, kümelenme var ise ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan bir durum ise acil olarak İI ASİE il ASİE İzlem Sorumlusu;
 
 Her ilde İl ASİE İzlem Sorumlusu belirlenecektir. İl Sağlık Müdürlüğünde Bulaşıcı Hastalıklar Şube Müdürü, İl ASIE İzlem Sorumlusudur. Ancak gerekli durumlarda başka bir hekim de görevlendirilebilir. Ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumların araștırılması ve değerlendirilmesi amacıyla İl ASIE Danışma Kurulu oluşturulur. Îl ASIE İzlem Sorumlusu;
 
@@ -2026,9 +1898,7 @@ Genişletilmiş Bağışıklama Programı kapsamında takip edilen hastalıklara
 
 o Difteri (Difteri hastalığının kontrolü için saha rehberi kapsamında yürütülmektedir)
 
-o Boğmaca (Boğmaca hastalığının kontrolü için saha rehberi kapsamında
-
-yürütülmektedir)
+o Boğmaca (Boğmaca hastalığının kontrolü için saha rehberi kapsamında yürütülmektedir)
 
 o Kızamıkçık ve Konjenital Rubella Sendromu
 
@@ -2106,19 +1976,13 @@ A. Aşama-1: Eliminasyonun Sağlanması (2006-2007) a. Tüm gebelerin en az %80'
 
 B. Aşama-2: Eliminasyonun Sürdürülmesi (2007- ) a. Tüm bölgelerde gebe aşılamaları hızını en az %80 olacak şekilde sürdürmek b. Yüksek Riskli Bölge (YRB) değerlendirmesi güncel tutularak, bölgedeki 15-49 yaş grubu kadınların primer immünizasyonunu sağlamak. c. YRB tanımlaması alan bölgelerde nüfusa yeni eklenen 15-49 yaş grubu kadınları primer immünizasyona almak. d. Tüm bölgelerde, 1 yaş altı çocukların en az %90'ının üç doz Tetanoz içeren așı ile primer immünizasyonunu ve ayrıca aşıya devamsızlık hızının %10'un altında olmasını sağlamak. e. Okul Td aşılamalarını en az %90 hızında sürdürmek. Sağlık Ocağı Düzeyinde Yüksek Riskli Bölge Değerlendirme Şeması
 
-Bögede son üç Bölgede 100 canli yılda vaka Hayir doğumda en az 1 görüldü mù? Neonatal Bebek Olümü
-
-tespit ediliyor mu?
+Bögede son üç Bölgede 100 canli yılda vaka Hayir doğumda en az 1 görüldü mù? Neonatal Bebek Olümü tespit ediliyor mu?
 
 ### Hayır
 
 Evet
 
-Yüksek Riskli Canlı doğum sayısı
-
-kadar gebe tespiti Hayır Sağlik personeli
-
-var mi? * yardımıyla yapılan
+Yüksek Riskli Canlı doğum sayısı kadar gebe tespiti Hayır Sağlik personeli var mi? * yardımıyla yapılan
 
 ### doğumlarin orani
 
@@ -2164,9 +2028,7 @@ Perinatal Hepatit B virus bulașının engellenmesi;
 
 aşılama hızına ulaşmak
 
-Perinatal Hepatit B virus bulaşının engellenmesi için Hep B așısının ilk dozu doğumdan
-
-sonra en yakın zamanda, tercihen ilk 24 saat içinde yapılmalıdır.
+Perinatal Hepatit B virus bulaşının engellenmesi için Hep B așısının ilk dozu doğumdan sonra en yakın zamanda, tercihen ilk 24 saat içinde yapılmalıdır.
 
 3. Büyük yaş gruplarının catch-up (yakalama) aşılaması;
 

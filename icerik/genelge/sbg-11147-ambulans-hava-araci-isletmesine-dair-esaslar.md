@@ -27,9 +27,7 @@ Konu: Ambulans Hava Aracı İşletilmesine Dair Esaslar
 
 (İl Sağlık Müdürlüğü)
 
-Tıbbi müdahaleyi gerektiren durumlarda, hastanın tıbbi müdahalenin
-
-yapılabileceği sağlık kuruluşuna en seri şekilde ulaştırılması ve gereken müdahalenin zamanında yapılması hayati önem arz etmektedir. Bu amaçla Bakanlığımız hava ambulans sistemini vatandaşlarımızın hizmetine sunmuş, ambulans helikopter hizmeti 28 Ekim 2008 tarihinden itibaren devam etmekte olup, ambulans uçak hizmeti 16 Nisan 2010 tarihi itibariyle başlatılmıştır.
+Tıbbi müdahaleyi gerektiren durumlarda, hastanın tıbbi müdahalenin yapılabileceği sağlık kuruluşuna en seri şekilde ulaştırılması ve gereken müdahalenin zamanında yapılması hayati önem arz etmektedir. Bu amaçla Bakanlığımız hava ambulans sistemini vatandaşlarımızın hizmetine sunmuş, ambulans helikopter hizmeti 28 Ekim 2008 tarihinden itibaren devam etmekte olup, ambulans uçak hizmeti 16 Nisan 2010 tarihi itibariyle başlatılmıştır.
 
 Hizmete sunulan ambulans helikopterler ile Ankara ilinde konuşlanan ambulans uçaklarının işletim hususları bu Genelge ekinde yer alan usul ve esaslar doğrultusunda yerine getirilecektir.
 

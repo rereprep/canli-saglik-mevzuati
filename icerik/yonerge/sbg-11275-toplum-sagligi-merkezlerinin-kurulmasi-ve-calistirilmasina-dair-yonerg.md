@@ -305,9 +305,7 @@ b) Halk sağlığı ve pidemiyoloji araştırma görevlileri başta olmak üzere
 
 **Madde 19 –** (1) Bakanlık tarafından kararlaştırılan ulusal ya da bölgesel programları yürütür ve yürütülmesini sağlar. Bakanlık veya müdürlük tarafından gerekli görüldüğü hallerde uygulanan aşı kampanyalarını kendi bölgesinde yapar ve/veya yapılmasını sağlar. Bu çalışmalara bölgesindeki sağlık çalışanlarının ihtiyaca göre aktif olarak katılımını sağlar.
 
-**Madde 20 –** (1) Adli tıp kurumunun doğrudan hizmet vermediği yerlerde bu hizmetlerin planlanması görevi toplum sağlığı merkezine aittir. Toplum sağlığı merkezi bölgesindeki adli tıp hizmetinin devamlılığının sürdürülmesinde adli makamlarla işbirliği içinde çalışır. Toplum sağlığı merkezinde yeterli hekim olmadığı durumlarda mesai saatleri dışında öncelikle toplum sağlığı merkezi hekimleri olmak üzere aile hekimleri ve diğer kamu
-
-edilebileceği bir havuzla hizmetin devamlılığını sağlar. Toplum sağlığı merkezi bu görevin yapılabilmesi için gerekli koşulları ve desteği sağlar. Adli vakaların bildirilmesi, evrakların tutulması gibi konularda aile hekimleri ile koordinasyonu sağlar ve gerekli eğitimleri düzenler. Bütün bu hizmetler müdürlüğün sorumluluğu ve koordinasyonunda yürütülür.
+**Madde 20 –** (1) Adli tıp kurumunun doğrudan hizmet vermediği yerlerde bu hizmetlerin planlanması görevi toplum sağlığı merkezine aittir. Toplum sağlığı merkezi bölgesindeki adli tıp hizmetinin devamlılığının sürdürülmesinde adli makamlarla işbirliği içinde çalışır. Toplum sağlığı merkezinde yeterli hekim olmadığı durumlarda mesai saatleri dışında öncelikle toplum sağlığı merkezi hekimleri olmak üzere aile hekimleri ve diğer kamu edilebileceği bir havuzla hizmetin devamlılığını sağlar. Toplum sağlığı merkezi bu görevin yapılabilmesi için gerekli koşulları ve desteği sağlar. Adli vakaların bildirilmesi, evrakların tutulması gibi konularda aile hekimleri ile koordinasyonu sağlar ve gerekli eğitimleri düzenler. Bütün bu hizmetler müdürlüğün sorumluluğu ve koordinasyonunda yürütülür.
 
 #### Acil sağlık hizmetleri
 

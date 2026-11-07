@@ -47,15 +47,11 @@ Numune Lab. Sevk Tarihi - Saati / Alınış Neden -
 
 Numune Grubu
 
-Numunenin Cinsi / Adı / Markası / Üret. Firma Adı ---
-
-Numunenin Ambalaj Şekli / Etiketi / Miktarı
+Numunenin Cinsi / Adı / Markası / Üret. Firma Adı --- Numunenin Ambalaj Şekli / Etiketi / Miktarı
 
 Numunenin Üret. Tar. / Son Kul. Tar. / Parti No / Seri
 
-Mühür Durumu / Tutanak-Sözleşme Tarihi / No --- --- ---
-
-Fatura Edilecek Kişi/Kurum/Kuruluş
+Mühür Durumu / Tutanak-Sözleşme Tarihi / No --- --- --- Fatura Edilecek Kişi/Kurum/Kuruluş
 
 Makbuz Tarih ve No / Dekont Tarih ve No --- ---
 

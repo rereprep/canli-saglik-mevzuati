@@ -15,9 +15,7 @@ Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü 30.01.2015 03
 
 **Karar Sayısı : 2012/3741**
 
-Ekli “Okul Sütü Programı Uygulama Esasları Hakkında Karar”ın yürürlüğe konulması; Gıda, Tarım ve
-
-Hayvancılık Bakanlığının 21/9/2012 tarihli ve 14897 sayılı yazısı üzerine, 5488 sayılı Tarım Kanununun 19 uncu maddesine göre, Bakanlar Kurulu’nca 24/9/2012 tarihinde kararlaştırılmıştır.
+Ekli “Okul Sütü Programı Uygulama Esasları Hakkında Karar”ın yürürlüğe konulması; Gıda, Tarım ve Hayvancılık Bakanlığının 21/9/2012 tarihli ve 14897 sayılı yazısı üzerine, 5488 sayılı Tarım Kanununun 19 uncu maddesine göre, Bakanlar Kurulu’nca 24/9/2012 tarihinde kararlaştırılmıştır.
 
 **Abdullah GÜL**
 
@@ -59,11 +57,7 @@ OKUL SÜTÜ PROGRAMI UYGULAMA ESASLARI HAKKINDA KARAR
 
 **Amaç ve kapsam**
 
-**MADDE 1 –** (1) Bu Kararın amacı; Gıda, Tarım ve Hayvancılık Bakanlığı, Milli Eğitim Bakanlığı ve Sağlık
-
-Bakanlığınca ortaklaşa hazırlanan ve 2012-2013 eğitim öğretim yılının ikinci döneminde yürütülecek olan Okul Sütü
-
-Programı (Program) kapsamında, ana sınıfı dahil olmak üzere ilkokul öğrencilerine, süt içme alışkanlığını kazandırmak ve dengeli beslenme suretiyle gelişme oranlarını artırmak amacıyla UHT içme sütü ambalajlı, UHT içme sütü dağıtılmasına ilişkin esasların belirlenmesidir.
+**MADDE 1 –** (1) Bu Kararın amacı; Gıda, Tarım ve Hayvancılık Bakanlığı, Milli Eğitim Bakanlığı ve Sağlık Bakanlığınca ortaklaşa hazırlanan ve 2012-2013 eğitim öğretim yılının ikinci döneminde yürütülecek olan Okul Sütü Programı (Program) kapsamında, ana sınıfı dahil olmak üzere ilkokul öğrencilerine, süt içme alışkanlığını kazandırmak ve dengeli beslenme suretiyle gelişme oranlarını artırmak amacıyla UHT içme sütü ambalajlı, UHT içme sütü dağıtılmasına ilişkin esasların belirlenmesidir.
 
 **Miktar, takvim, üretim ve sevkiyat**
 
@@ -79,33 +73,23 @@ Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü 30.01.2015 03
 
 **Görev, sorumluluk ve organizasyon**
 
-**MADDE 3 –** (1) Bu Karar kapsamında; Programın koordinasyonu ile okul sütünün tedariki ve illere dağıtımından Gıda, Tarım ve Hayvancılık Bakanlığı; Okul Sütü Komisyonu tarafından kabul edilen sütün muhafaza edilmesi ve/veya ettirilmesi, okullara ulaştırılması, dağıtılması ve uygun şartlarda tüketimlerinin sağlanmasından Milli
-
-Eğitim Bakanlığı; Program uygulama döneminde öğrencilerin gelişme oranlarının ve süt tüketimi alışkanlıklarındaki değişikliklerin tespitine ilişkin çalışmalardan Sağlık Bakanlığı sorumludur.
+**MADDE 3 –** (1) Bu Karar kapsamında; Programın koordinasyonu ile okul sütünün tedariki ve illere dağıtımından Gıda, Tarım ve Hayvancılık Bakanlığı; Okul Sütü Komisyonu tarafından kabul edilen sütün muhafaza edilmesi ve/veya ettirilmesi, okullara ulaştırılması, dağıtılması ve uygun şartlarda tüketimlerinin sağlanmasından Milli Eğitim Bakanlığı; Program uygulama döneminde öğrencilerin gelişme oranlarının ve süt tüketimi alışkanlıklarındaki değişikliklerin tespitine ilişkin çalışmalardan Sağlık Bakanlığı sorumludur.
 
 (2) Aile hekimleri, öğretmenler ve/veya veliler tarafından süte karşı duyarlılığı tespit edilen öğrenciler okul yönetimleri tarafından Program dışında tutulur.
 
 (3) Dağıtılacak UHT içme sütü Türk gıda mevzuatına uygun olur.
 
-(4) İllerde; vali yardımcısı başkanlığında il gıda, tarım ve hayvancılık müdürlüğü, il milli eğitim müdürlüğü, defterdarlık ve il sağlık müdürlüğü temsilcilerinden oluşan ve Programın yürütülmesinden sorumlu Okul Sütü
-
-Komisyonu kurulur. Okul Sütü Komisyonu, mal muayene ve kabul komisyonu olarak görev yapar.
+(4) İllerde; vali yardımcısı başkanlığında il gıda, tarım ve hayvancılık müdürlüğü, il milli eğitim müdürlüğü, defterdarlık ve il sağlık müdürlüğü temsilcilerinden oluşan ve Programın yürütülmesinden sorumlu Okul Sütü Komisyonu kurulur. Okul Sütü Komisyonu, mal muayene ve kabul komisyonu olarak görev yapar.
 
 **Eğitim ve tanıtım**
 
-**MADDE 4 –** (1) Programın tanıtımı ve Programda yer alan kişi ve kuruluşların eğitimleri Gıda, Tarım ve
-
-Hayvancılık Bakanlığı, Milli Eğitim Bakanlığı ve Sağlık Bakanlığının katılımıyla Ulusal Süt Konseyi tarafından yapılır.
+**MADDE 4 –** (1) Programın tanıtımı ve Programda yer alan kişi ve kuruluşların eğitimleri Gıda, Tarım ve Hayvancılık Bakanlığı, Milli Eğitim Bakanlığı ve Sağlık Bakanlığının katılımıyla Ulusal Süt Konseyi tarafından yapılır.
 
 **Finansman ve ödemeler**
 
-**MADDE 5 –** (1) Bu Karar uyarınca yapılacak ödemeler için gerekli kaynak Gıda, Tarım ve Hayvancılık
+**MADDE 5 –** (1) Bu Karar uyarınca yapılacak ödemeler için gerekli kaynak Gıda, Tarım ve Hayvancılık Bakanlığına genel bütçeden tahsis edilen ödenekten karşılanır.
 
-Bakanlığına genel bütçeden tahsis edilen ödenekten karşılanır.
-
-(2) Okul Sütü Komisyonu tarafından uygun görülerek kabul edilen sütlere ilişkin olarak 7 nci madde kapsamında çıkarılacak tebliğde belirtilecek süreler içinde Valiliklerce düzenlenecek muayene ve kabul tutanağı Gıda,
-
-Tarım ve Hayvancılık Bakanlığına gönderilir. Ödemeler, söz konusu tebliğde belirtilecek esaslar çerçevesinde, muayene ve kabul tutanaklarına istinaden Gıda, Tarım ve Hayvancılık Bakanlığınca hazırlanacak icmallere göre yapılır.
+(2) Okul Sütü Komisyonu tarafından uygun görülerek kabul edilen sütlere ilişkin olarak 7 nci madde kapsamında çıkarılacak tebliğde belirtilecek süreler içinde Valiliklerce düzenlenecek muayene ve kabul tutanağı Gıda, Tarım ve Hayvancılık Bakanlığına gönderilir. Ödemeler, söz konusu tebliğde belirtilecek esaslar çerçevesinde, muayene ve kabul tutanaklarına istinaden Gıda, Tarım ve Hayvancılık Bakanlığınca hazırlanacak icmallere göre yapılır.
 
 **Denetim ve cezai hükümler**
 

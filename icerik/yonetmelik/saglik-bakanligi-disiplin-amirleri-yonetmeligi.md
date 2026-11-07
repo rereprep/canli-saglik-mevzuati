@@ -145,23 +145,15 @@ Teknolog, Diyetisyen, Sosyal Çalışmacı, Çocuk Gelişimcisi, Başhekim Yard�
 
 Odyolog, Sağlık Fizikçisi, Perfüzyonist, İş ve Uğraşı
 
-Terapisti (Ergoterapist), Dil ve Konuşma Terapisti ve diğer
-
-personel 4 Eğitim kliniklerinde çalışan Eğitim Görevlisi, Başasistan,
+Terapisti (Ergoterapist), Dil ve Konuşma Terapisti ve diğer personel 4 Eğitim kliniklerinde çalışan Eğitim Görevlisi, Başasistan,
 
 Uzman Tabip, Uzman (TUTG), Uzman Diş Tabibi, Tabip, Eğitim Görevlisi Başhekim
 
-Diş Tabibi ve Asistan (Eğitim Sorumlusu) 5 Müdür Yardımcısı, Mühendis, Mimar ve Müdüre bağlı olarak Müdür Başhekim
-
-çalışan diğer personel (İdari ve Mali Hizmetler) 6 Müdür Yardımcısı ve Müdüre bağlı olarak çalışan diğer Müdür
-
-personel (Destek ve Kalite Hizmetleri) Başhekim 7 Müdür Yardımcısı, Hemşire, Hemşire Yardımcısı, Ebe,
+Diş Tabibi ve Asistan (Eğitim Sorumlusu) 5 Müdür Yardımcısı, Mühendis, Mimar ve Müdüre bağlı olarak Müdür Başhekim çalışan diğer personel (İdari ve Mali Hizmetler) 6 Müdür Yardımcısı ve Müdüre bağlı olarak çalışan diğer Müdür personel (Destek ve Kalite Hizmetleri) Başhekim 7 Müdür Yardımcısı, Hemşire, Hemşire Yardımcısı, Ebe,
 
 Sağlık Teknikeri, Laborant, Diş Protez Teknisyeni, Sağlık Müdür
 
-Memuru, Sağlık Teknisyeni ve Müdüre bağlı olarak çalışan (Sağlık Bakım Başhekim
-
-diğer personel Hizmetleri)
+Memuru, Sağlık Teknisyeni ve Müdüre bağlı olarak çalışan (Sağlık Bakım Başhekim diğer personel Hizmetleri)
 
 ### C İL MERKEZİNDE BULUNAN AĞIZ VE DİŞ SAĞLIĞI MERKEZLERİ
 
@@ -203,19 +195,11 @@ Teknolog, Diyetisyen, Sosyal Çalışmacı, Çocuk Gelişimcisi,
 
 Odyolog, Sağlık Fizikçisi, Perfüzyonist, İş ve Uğraşı Başhekim Yardımcısı Başhekim
 
-Terapisti (Ergoterapist), Dil ve Konuşma Terapisti ve diğer
-
-personel 4 Müdür Yardımcısı, Mühendis, Mimar ve Müdüre bağlı olarak Müdür
-
-çalışan diğer personel (İdari ve Mali Hizmetler) Başhekim 5 Müdür Yardımcısı ve Müdüre bağlı olarak çalışan diğer Müdür
-
-personel (Destek ve Kalite Hizmetleri) Başhekim 6 Müdür Yardımcısı, Hemşire, Hemşire Yardımcısı, Ebe,
+Terapisti (Ergoterapist), Dil ve Konuşma Terapisti ve diğer personel 4 Müdür Yardımcısı, Mühendis, Mimar ve Müdüre bağlı olarak Müdür çalışan diğer personel (İdari ve Mali Hizmetler) Başhekim 5 Müdür Yardımcısı ve Müdüre bağlı olarak çalışan diğer Müdür personel (Destek ve Kalite Hizmetleri) Başhekim 6 Müdür Yardımcısı, Hemşire, Hemşire Yardımcısı, Ebe,
 
 Sağlık Teknikeri, Laborant, Diş Protez Teknisyeni, Sağlık Müdür
 
-Memuru, Sağlık Teknisyeni ve Müdüre bağlı olarak çalışan (Sağlık Bakım Başhekim
-
-diğer personel Hizmetleri)
+Memuru, Sağlık Teknisyeni ve Müdüre bağlı olarak çalışan (Sağlık Bakım Başhekim diğer personel Hizmetleri)
 
 ### C İLÇELERDE BULUNAN AĞIZ VE DİŞ SAĞLIĞI MERKEZLERİ
 
@@ -243,12 +227,6 @@ Laboratuvar*** 2 Diğer Personel Sorumlusu İlçe Sağlık Müdürü**
 
 Laboratuvarların Çalışma Usul ve Esasları Hakkında Yönetmeliğin 16 ncı maddesinde belirlenen kadro, unvan ve branşlardır.
 
-**** (Ek:RG-9/2/2019-30681) Aynı yerleşke içinde birden fazla hastane için koordinatör başhekim görevlendirilmesi
-
-durumunda; Koordinatör Başhekimin disiplin amiri İl Sağlık Müdürü, üst disiplin amiri Vali; bağlı hastane Başhekimlerinin
-
-ve koordinatör başhekime bağlı personelin disiplin amiri Koordinatör Başhekim, üst disiplin amiri İl Sağlık Müdürü; bağlı
-
-hastanelerdeki Başhekim Yardımcısı, Eğitim Görevlisi, Müdür, Sivil Savunma Uzmanı ve Avukatların disiplin amiri
+**** (Ek:RG-9/2/2019-30681) Aynı yerleşke içinde birden fazla hastane için koordinatör başhekim görevlendirilmesi durumunda; Koordinatör Başhekimin disiplin amiri İl Sağlık Müdürü, üst disiplin amiri Vali; bağlı hastane Başhekimlerinin ve koordinatör başhekime bağlı personelin disiplin amiri Koordinatör Başhekim, üst disiplin amiri İl Sağlık Müdürü; bağlı hastanelerdeki Başhekim Yardımcısı, Eğitim Görevlisi, Müdür, Sivil Savunma Uzmanı ve Avukatların disiplin amiri
 
 Başhekim, üst disiplin amiri Koordinatör Başhekimdir.

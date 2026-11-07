@@ -242,9 +242,7 @@ A) Sevk kesintisi: Aile hekiminin, kendisine kayıtlı kişi sayısı esas alın
 
 a) Bir önceki ay sevk oranı % 15 den az ise % 0’ı, b) Bir önceki ay sevk oranı % 15 (dahil)- % 20 (hariç) ise % 1’i ,
 
-c ) Bir önceki ay sevk oranı % 20 (dahil) - % 25 (hariç) ise % 2’si,
-
-d ) Bir önceki ay sevk oranı % 25 ve daha fazla ise % 5’i,
+c ) Bir önceki ay sevk oranı % 20 (dahil) - % 25 (hariç) ise % 2’si, d ) Bir önceki ay sevk oranı % 25 ve daha fazla ise % 5’i,
 
 2) Aile hekimliği uygulamaları için Bakanlıkça görevlendirilen uzman tabip ve tabipler için 17 nci maddenin (A) bendine göre hesaplanan brüt ücretin;
 

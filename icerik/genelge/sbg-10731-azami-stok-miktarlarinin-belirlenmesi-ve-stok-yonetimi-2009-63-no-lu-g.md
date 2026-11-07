@@ -38,11 +38,7 @@ Döner sermayeli kurumlarımızın kaynaklarını daha etkin ve verimli kullanma
 
 <i>yedek parça vb. 150 grubundaki bütün malzemeler)</i> **için uygulanacaktır. 2- “Azami Stok Miktarı” 01.01.2010 tarihinden itibaren gerek tıbbi sarf ve ilaçlar için**
 
-**gerekse diğer bütün tüketim malzemeleri için 3 (üç) aylık ihtiyaçla sınırlı olacaktır.** Diğer
-
-bir ifade ile Kurumlar yıllık ihtiyaçlarının en fazla ¼ ü oranında stokta malzeme
-
-bulundurabilecektir. **3- Kurum ve kuruluşlarımızca, tüketime yönelik kullanılmakta olan bütün malzemeler için**
+**gerekse diğer bütün tüketim malzemeleri için 3 (üç) aylık ihtiyaçla sınırlı olacaktır.** Diğer bir ifade ile Kurumlar yıllık ihtiyaçlarının en fazla ¼ ü oranında stokta malzeme bulundurabilecektir. **3- Kurum ve kuruluşlarımızca, tüketime yönelik kullanılmakta olan bütün malzemeler için**
 
 <i>(bir önceki yıl sarfiyat rakamları, işlem sayılarındaki artış/azalışlar vb. unsurlar dikkate</i>
 

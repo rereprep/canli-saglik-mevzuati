@@ -117,9 +117,7 @@ g) Yerleşim yeri adresi.
 
 **MADDE 8/A – (Ek: 9/5/2012-6304/12 md.)**
 
-(1) Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların 5901 sayılı Kanunun 28 inci maddesinde belirtilen altsoyları, Genel Müdürlükçe elektronik ortamda tutulan Mavi Kartlılar
-
-Kütüğüne kaydedilir. Bu Kütüğe kaydedilenler, her türlü nüfus olaylarını yurt içinde nüfus müdürlüklerine, yurt dışında ise dış temsilciliklere beyan etmekle yükümlüdürler.
+(1) Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların 5901 sayılı Kanunun 28 inci maddesinde belirtilen altsoyları, Genel Müdürlükçe elektronik ortamda tutulan Mavi Kartlılar Kütüğüne kaydedilir. Bu Kütüğe kaydedilenler, her türlü nüfus olaylarını yurt içinde nüfus müdürlüklerine, yurt dışında ise dış temsilciliklere beyan etmekle yükümlüdürler.
 
 **İKİNCİ BÖLÜM**
 
@@ -397,9 +395,7 @@ c) Tespit davaları, kaydın iptali veya düzeltilmesi için açılacak davalara
 
 **Nüfus kaydının iptali**
 
-**MADDE 40-** (1) Usûlüne göre düzenlenmemiş bir belgeye dayanılarak tesis edilmiş nüfus kayıtları Genel
-
-Müdürlüğün ya da nüfus müdürlüklerinin göstereceği lüzum üzerine mahkemece verilecek kararla iptal edilir. Nüfus kütüğüne düşülmüş olan şerh ve açıklamaların iptal edilmesi de aynı usûle tâbidir.
+**MADDE 40-** (1) Usûlüne göre düzenlenmemiş bir belgeye dayanılarak tesis edilmiş nüfus kayıtları Genel Müdürlüğün ya da nüfus müdürlüklerinin göstereceği lüzum üzerine mahkemece verilecek kararla iptal edilir. Nüfus kütüğüne düşülmüş olan şerh ve açıklamaların iptal edilmesi de aynı usûle tâbidir.
 
 **BEŞİNCİ KISIM**
 
@@ -409,9 +405,7 @@ Müdürlüğün ya da nüfus müdürlüklerinin göstereceği lüzum üzerine ma
 
 **MADDE 41-** (1) Nüfus cüzdanının kapsamı, şekli, ebadı ile yürürlük, değiştirme ve geçerlilik tarihlerini belirlemeye, taklit, tahrif ve sahtecilikten korumak maksadıyla nüfus cüzdanı üzerine konulacak güvenlik unsurlarını, basım ve vatandaşa teslimat aşamasında uygulanacak sistem ve teknolojiyi, nüfus cüzdanının kaybı ve değiştirilmesi halinde yapılacak işlemleri tespit etmeye Bakanlık yetkilidir.
 
-(2) Nüfus ve uluslararası aile cüzdanları, Bakanlıkça tespit edilen şekil, ebat ve örneğine uygun olarak Maliye
-
-Bakanlığınca bastırılır ve nüfus müdürlüklerinin ihtiyaçlarını karşılamak üzere muhasebe yetkililerine, dış temsilciliklerin ihtiyaçlarını karşılamak üzere de Dışişleri Bakanlığına gönderilir.
+(2) Nüfus ve uluslararası aile cüzdanları, Bakanlıkça tespit edilen şekil, ebat ve örneğine uygun olarak Maliye Bakanlığınca bastırılır ve nüfus müdürlüklerinin ihtiyaçlarını karşılamak üzere muhasebe yetkililerine, dış temsilciliklerin ihtiyaçlarını karşılamak üzere de Dışişleri Bakanlığına gönderilir.
 
 (3) Muhasebe yetkilisince nüfus müdürlüklerinin ihtiyacı göz önünde tutularak, kadın ve erkek nüfus cüzdanlarının her biri ile uluslararası aile cüzdanlarının en fazla üçerbin adedi, bedeli sonradan ödenmek üzere, müteakiben üçerbin adetlik partiler halinde peşin para karşılığında verilir. Doğum bildirimlerinin kanunî süresi içinde yapılması halinde düzenlenecek nüfus cüzdanlarından değerli kâğıt bedeli alınmaz. Hatalı yazım nedeniyle iade edilen nüfus ve aile cüzdanları değerli kâğıt bedelinden düşülür.
 
@@ -419,9 +413,7 @@ Bakanlığınca bastırılır ve nüfus müdürlüklerinin ihtiyaçlarını kar�
 
 (5) Evlenen her çifte, evlendirme işlemi ile görevli memur tarafından uluslararası aile cüzdanı verilir. Evli olduğu halde uluslararası aile cüzdanı almamış olanlara ise istekleri üzerine nüfus müdürlüklerince verilir. Eşlerden birinin talebi halinde, kendilerinin veya aile fertlerinin kişisel durumlarında meydana gelen değişiklikleri bu cüzdana işletmekle, nüfus müdürlükleri de işlemek ve gerekli açıklamaları yapmakla görevlidirler.
 
-(6) Genel Müdürlük ile başkonsolosluklar, nüfus ve aile cüzdanları bedeli açısından 2/6/1934 tarihli ve 2489 sayılı
-
-Kefalet Kanunu hükümlerine tâbi değildir.
+(6) Genel Müdürlük ile başkonsolosluklar, nüfus ve aile cüzdanları bedeli açısından 2/6/1934 tarihli ve 2489 sayılı Kefalet Kanunu hükümlerine tâbi değildir.
 
 (7) Nüfus cüzdanlarına bu Kanunda öngörülenler dışında kayıt ve işaret konulamaz. Bu cüzdanlar hiçbir kişi, kurum tarafından alıkonulamaz. Ancak, ihtiyaç duyulan hallerde kurumlar bir suretini saklayabilir.
 
@@ -479,9 +471,7 @@ ilgilisi veya bu Kanunun 44 üncü maddesinde belirtilenler dışında kimseye v
 
 (4) Genel Müdürlükten alınan bilgilerin iş ve işlemlerde kullanılmasının hukukî sonuçları bilgiyi alan kurumun sorumluluğundadır.
 
-(5) Bu Kanun ile kurulacak veri tabanlarının istatistik amaçlı kullanımında 10/11/2005 tarihli ve 5429 sayılı Türkiye
-
-İstatistik Kanunu hükümleri uygulanır.
+(5) Bu Kanun ile kurulacak veri tabanlarının istatistik amaçlı kullanımında 10/11/2005 tarihli ve 5429 sayılı Türkiye İstatistik Kanunu hükümleri uygulanır.
 
 –––––––––––––––––––––––
 
@@ -515,11 +505,7 @@ ilgilisi veya bu Kanunun 44 üncü maddesinde belirtilenler dışında kimseye v
 
 Bakanlığın nüfus kütüklerindeki adres kayıtlarını tamamlamak maksadıyla işbirliği talebi kurumlarca karşılanır.
 
-(2) Adres standardı, Mahallî İdareler Genel Müdürlüğünün takip ve sorumluluğunda; Genel Müdürlük, Türkiye
-
-İstatistik Kurumu, Türk Standartları Enstitüsü ve ilgili diğer kuruluşlarca ortaklaşa belirlenir. Mahallî İdareler Genel
-
-Müdürlüğü tespit edilen standardın il özel idaresi ve belediyelere bildirilmesinden sorumludur. Kurumlar ile gerçek ve tüzel kişiler adres ile ilgili iş ve işlemlerinde adres standardına uymak zorundadır.
+(2) Adres standardı, Mahallî İdareler Genel Müdürlüğünün takip ve sorumluluğunda; Genel Müdürlük, Türkiye İstatistik Kurumu, Türk Standartları Enstitüsü ve ilgili diğer kuruluşlarca ortaklaşa belirlenir. Mahallî İdareler Genel Müdürlüğü tespit edilen standardın il özel idaresi ve belediyelere bildirilmesinden sorumludur. Kurumlar ile gerçek ve tüzel kişiler adres ile ilgili iş ve işlemlerinde adres standardına uymak zorundadır.
 
 (3) Bakanlık, adrese ilişkin her türlü bilgiyi kurumlardan istemeye yetkilidir. Kurumlar söz konusu isteğe yirmi gün içinde cevap vermekle yükümlüdür.
 
@@ -571,9 +557,7 @@ Bu değişiklikler belediyelerce, belediye sınırları dışında kalan yerlerd
 
 (3) Kurumlar, yürütecekleri iş ve işlemlerde Genel Müdürlükte tutulan adres bilgilerini esas alırlar.
 
-(4) Adrese ilişkin bilgi ve belgeler nüfus müdürlüklerinden, Adres Paylaşımı Sisteminden veya Kimlik Paylaşımı
-
-Sistemine bağlanarak bu sistemdeki kayıtlara uygun belge üretebilen muhtarlıklardan temin edilebilir. Bu şekilde üretilen belgelerin güvenliği Bakanlığın tespit ettiği usûl ve esaslara göre sağlanır.
+(4) Adrese ilişkin bilgi ve belgeler nüfus müdürlüklerinden, Adres Paylaşımı Sisteminden veya Kimlik Paylaşımı Sistemine bağlanarak bu sistemdeki kayıtlara uygun belge üretebilen muhtarlıklardan temin edilebilir. Bu şekilde üretilen belgelerin güvenliği Bakanlığın tespit ettiği usûl ve esaslara göre sağlanır.
 
 (5) Nüfus sayımında veya tespitinde, aile ve hayatî istatistiklerin oluşturulmasında ve bu bilgileri esas alan kanunların uygulanmasında MERNİS nüfus bilgileri kullanılır.
 
@@ -587,9 +571,7 @@ Sistemine bağlanarak bu sistemdeki kayıtlara uygun belge üretebilen muhtarlı
 
 **Tescil görevi ve süre**
 
-**MADDE 54-** (1) Nüfus olaylarını tescil etmekle görevli memurlar, nüfus müdürlüğünde düzenlenen ve aile kütüklerine tescil edilmesi gereken dayanak belgelerini işlem anında, diğer makamlarca düzenlenen dayanak belgelerini ise nüfus müdürlüğüne intikal ettiği tarihten itibaren yedi gün içinde aile kütüklerine tescil etmekle ve bir örneğini Genel
-
-Müdürlüğe göndermekle yükümlüdürler.
+**MADDE 54-** (1) Nüfus olaylarını tescil etmekle görevli memurlar, nüfus müdürlüğünde düzenlenen ve aile kütüklerine tescil edilmesi gereken dayanak belgelerini işlem anında, diğer makamlarca düzenlenen dayanak belgelerini ise nüfus müdürlüğüne intikal ettiği tarihten itibaren yedi gün içinde aile kütüklerine tescil etmekle ve bir örneğini Genel Müdürlüğe göndermekle yükümlüdürler.
 
 **Mahkeme yazı işleri müdürlerinin görevleri**
 
@@ -649,9 +631,7 @@ Müdürlüğe göndermekle yükümlüdürler.
 
 (2) Katılma payları, takvim yılının üçer aylık dönemleri itibarıyla her bir dönemde yapılan sorgulamalar üzerinden hesaplanır. Hesaplanan katılma payları, dönemi takip eden ayın 15 inci günü akşamına kadar sorgulama yapan kurumlara bildirilir ve bildirimin yapıldığı ayın sonuna kadar Bakanlık merkez muhasebe birimine ödenir.
 
-(3) Süresinde ödeme yapmayanların sistemle bağlantısı kesilir. Süresinde ödenmeyen katılma payları 6183 sayılı
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre vergi dairelerince takip ve tahsil edilir. Katılma payları genel bütçeye gelir kaydedilir.
+(3) Süresinde ödeme yapmayanların sistemle bağlantısı kesilir. Süresinde ödenmeyen katılma payları 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre vergi dairelerince takip ve tahsil edilir. Katılma payları genel bütçeye gelir kaydedilir.
 
 (4) Köy ve mahalle muhtarlıkları katılma payından muaftır.
 
@@ -705,23 +685,15 @@ a) Her türlü doğal afet, gasp, hırsızlık, yangın ve terör nedeniyle nüf
 
 **MADDE 69-** (1) Bu Kanunun uygulanmasına ilişkin yönetmelikler yüzseksen gün içerisinde Bakanlıkça hazırlanarak Bakanlar Kurulunca yürürlüğe konulur.
 
-(2) Adres ve numaralamaya ilişkin yönetmelik ise doksan gün içerisinde Bakanlık, Türkiye İstatistik Kurumu ve
-
-Türk Standartları Enstitüsü Kurumu tarafından müştereken hazırlanarak yürürlüğe konulur.
+(2) Adres ve numaralamaya ilişkin yönetmelik ise doksan gün içerisinde Bakanlık, Türkiye İstatistik Kurumu ve Türk Standartları Enstitüsü Kurumu tarafından müştereken hazırlanarak yürürlüğe konulur.
 
 **Kadrolar**
 
-**MADDE 70-** (1) Bu Kanuna ekli (1) sayılı listede yer alan kadrolar bu Kanun kapsamındaki hizmetlerde kullanılmak üzere ihdas edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin
-
-İçişleri Bakanlığı bölümüne eklenmiştir.
+**MADDE 70-** (1) Bu Kanuna ekli (1) sayılı listede yer alan kadrolar bu Kanun kapsamındaki hizmetlerde kullanılmak üzere ihdas edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin İçişleri Bakanlığı bölümüne eklenmiştir.
 
 **Kaldırılan hükümler**
 
-**MADDE 71-** (1) 5/5/l972 tarihli ve l587 sayılı Nüfus Kanunu, 24/2/1972 tarihli ve 1543 sayılı Genel Nüfus Yazımı
-
-Kanunu ve 5/7/1939 tarihli ve 3686 sayılı Evlenme Kâğıtları ve Bunların Nüfus Kütüklerine Tescilleri Hakkında Kanun, 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme Kanununun 5 inci maddesi, 6 ncı maddesinin (a) ve (d) bentleri, 8 inci maddesi, 16 ncı maddesi ve 17 nci maddesinde yer alan "8" ibaresi ile 10/4/1927 tarihli ve 1003 sayılı Binaların
-
-Numaralanması ve Sokaklara İsim Verilmesi Hakkında Kanun yürürlükten kaldırılmıştır.
+**MADDE 71-** (1) 5/5/l972 tarihli ve l587 sayılı Nüfus Kanunu, 24/2/1972 tarihli ve 1543 sayılı Genel Nüfus Yazımı Kanunu ve 5/7/1939 tarihli ve 3686 sayılı Evlenme Kâğıtları ve Bunların Nüfus Kütüklerine Tescilleri Hakkında Kanun, 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme Kanununun 5 inci maddesi, 6 ncı maddesinin (a) ve (d) bentleri, 8 inci maddesi, 16 ncı maddesi ve 17 nci maddesinde yer alan "8" ibaresi ile 10/4/1927 tarihli ve 1003 sayılı Binaların Numaralanması ve Sokaklara İsim Verilmesi Hakkında Kanun yürürlükten kaldırılmıştır.
 
 **Diğer kanunların değiştirilen hükümleri**
 
@@ -749,15 +721,9 @@ c) Adres çalışmaları ile eş zamanlı olarak il özel idareleri ve belediyel
 
 d) İl özel idareleri ve belediyelerce gerçekleştirilen numaralama ve levhalama çalışmalarının uygunluğunun yerinde tespit edilmesi amacıyla Türkiye İstatistik Kurumu Başkanlığı ve Mahallî İdareler Genel Müdürlüğü tarafından numaralama işlemi tamamlandıktan sonra doksan gün içerisinde alan kontrolü yapılır. Kontrol sonuçları ulusal adres veri tabanına işlenir.
 
-e) Ulusal adres veri tabanındaki yerleşim yeri adreslerinin nüfus kütüklerindeki kişi kayıtları ile ilişkilendirilmesi ve
+e) Ulusal adres veri tabanındaki yerleşim yeri adreslerinin nüfus kütüklerindeki kişi kayıtları ile ilişkilendirilmesi ve Türkiye Cumhuriyeti kimlik numarasına bağlı kişisel yerleşim yeri adresi kayıtlarının tutulabilmesi için, numaralaması tamamlanan yerleşim yerlerinden başlamak ve bu Kanunun yürürlüğe girdiği tarihten itibaren en geç altıyüzotuz gün içerisinde tamamlanmak üzere Türkiye İstatistik Kurumu Başkanlığı tarafından alan uygulaması yapılır. Uygulama esnasında ulusal adres veri tabanına dayalı olarak alanda tespit edilen yerleşim yeri adres bilgileri, MERNİS kayıtları ile Türkiye Cumhuriyeti kimlik numarası esasına göre elektronik ortamda eşleştirilir. Alan taraması sırasında Türkiye'de yerleşim yeri adresi tespit edilen yabancılar ile ilgili ayrı bir veri tabanı oluşturulur.
 
-Türkiye Cumhuriyeti kimlik numarasına bağlı kişisel yerleşim yeri adresi kayıtlarının tutulabilmesi için, numaralaması tamamlanan yerleşim yerlerinden başlamak ve bu Kanunun yürürlüğe girdiği tarihten itibaren en geç altıyüzotuz gün içerisinde tamamlanmak üzere Türkiye İstatistik Kurumu Başkanlığı tarafından alan uygulaması yapılır. Uygulama esnasında ulusal adres veri tabanına dayalı olarak alanda tespit edilen yerleşim yeri adres bilgileri, MERNİS kayıtları ile Türkiye
-
-Cumhuriyeti kimlik numarası esasına göre elektronik ortamda eşleştirilir. Alan taraması sırasında Türkiye'de yerleşim yeri adresi tespit edilen yabancılar ile ilgili ayrı bir veri tabanı oluşturulur.
-
-f) Elde edilen kayıtlar, mahalle ve köy muhtarlıklarında altmış gün süreyle askıya çıkartılır. Askı süresince, itirazlar üzerine yapılacak inceleme sonucunda Türkiye İstatistik Kurumu Başkanlığı tarafından temin edilen bilgilere göre kayıtlarda gerekli düzeltmeler yapılır. Bu çalışma ile kayıtların kesinleşmesi sonucunda alan uygulamasında kullanılan formlar 28/9/1988 tarihli ve 3473 sayılı Muhafazasına Lüzum Kalmayan Evrak ve Malzemenin Yok Edilmesi Hakkında Kanun
-
-Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun hükümlerine göre mahallî kurulların kararı ile yerinde imha edilir.
+f) Elde edilen kayıtlar, mahalle ve köy muhtarlıklarında altmış gün süreyle askıya çıkartılır. Askı süresince, itirazlar üzerine yapılacak inceleme sonucunda Türkiye İstatistik Kurumu Başkanlığı tarafından temin edilen bilgilere göre kayıtlarda gerekli düzeltmeler yapılır. Bu çalışma ile kayıtların kesinleşmesi sonucunda alan uygulamasında kullanılan formlar 28/9/1988 tarihli ve 3473 sayılı Muhafazasına Lüzum Kalmayan Evrak ve Malzemenin Yok Edilmesi Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun hükümlerine göre mahallî kurulların kararı ile yerinde imha edilir.
 
 (2) İşlemler sırasında kullanılacak formlar Genel Müdürlük ile işbirliği halinde Türkiye İstatistik Kurumu Başkanlığı tarafından hazırlanır. Türkiye İstatistik Kurumu Başkanlığı tarafından formlara istatistik amaçlı olarak eklenen sorulara ilişkin kayıtlar Türkiye İstatistik Kanunu hükümleri çerçevesinde değerlendirilir.
 

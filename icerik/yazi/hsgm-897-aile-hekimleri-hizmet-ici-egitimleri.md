@@ -23,13 +23,9 @@ Konu : Aile Hekimliği Hizmet İçi Eğitimleri
 
 DAĞITIM YERLERİNE
 
-Aile Hekimliği Hizmet İçi Eğitimleri kapsamında Aile Hekimi ve Aile Sağlığı Çalışanlarına yönelik düzenlenen hizmet içi eğitim konularından uygulama gerektirmeyen, uzaktan eğitim metodu ile verilmesinin daire başkanlıklarınca uygun görülen eğitim konuları E-öğrenme yöntemine göre hazırlanarak Aile Hekimi ve
+Aile Hekimliği Hizmet İçi Eğitimleri kapsamında Aile Hekimi ve Aile Sağlığı Çalışanlarına yönelik düzenlenen hizmet içi eğitim konularından uygulama gerektirmeyen, uzaktan eğitim metodu ile verilmesinin daire başkanlıklarınca uygun görülen eğitim konuları E-öğrenme yöntemine göre hazırlanarak Aile Hekimi ve Aile Sağlığı Çalışanı olmak üzere iki ayrı başlık altında Uses eğitim portalına yüklenmiştir. Ekteki eğitim konu başlıklarında eğitimlere kullanıcılar tanımlanmış ve 01.05.2023 tarihi itibariyle kullanıma açılacaktır.
 
-Aile Sağlığı Çalışanı olmak üzere iki ayrı başlık altında Uses eğitim portalına yüklenmiştir. Ekteki eğitim konu başlıklarında eğitimlere kullanıcılar tanımlanmış ve 01.05.2023 tarihi itibariyle kullanıma açılacaktır.
-
-Eğitimlere https://egitim.saglik.gov.tr/ adresinden giriş yapılabilecektir. Ayrıca illerde ve Genel
-
-Müdürlüğümüz Daire Başkanlıklarında bu eğitimler ile ilgili işlemleri yürütüp takibini yapacak en az iki personel bilgisinin ekteki forma doldurularak gönderilmesi gerekmektedir.
+Eğitimlere https://egitim.saglik.gov.tr/ adresinden giriş yapılabilecektir. Ayrıca illerde ve Genel Müdürlüğümüz Daire Başkanlıklarında bu eğitimler ile ilgili işlemleri yürütüp takibini yapacak en az iki personel bilgisinin ekteki forma doldurularak gönderilmesi gerekmektedir.
 
 İlgililere duyurulması hususunda gereğini rica ederim.
 
