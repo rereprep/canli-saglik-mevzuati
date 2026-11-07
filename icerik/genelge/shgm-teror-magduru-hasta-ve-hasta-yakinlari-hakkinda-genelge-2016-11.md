@@ -7,7 +7,7 @@ sayi: "2016/11"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Terör olaylarında yaralanan hastalar ve yakınlarına sağlık kuruluşlarında sağlanacak kolaylıklar."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86572/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86572/201611-teror-magduru-hasta-ve-hasta-yakinlari-hakkinda-genelge.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

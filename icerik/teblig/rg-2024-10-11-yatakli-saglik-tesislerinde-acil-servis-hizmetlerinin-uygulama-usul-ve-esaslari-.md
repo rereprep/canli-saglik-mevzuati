@@ -8,7 +8,7 @@ rg_sayi: "32689"
 birim: "Sağlık Bakanlığı"
 konu: "2024 tarihli değişiklik metni (Resmî Gazete 11.10.2024, sayı 32689)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-95698/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/10/20241011.htm"
 durum: "yürürlükte"
 ---
 

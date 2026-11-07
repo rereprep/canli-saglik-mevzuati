@@ -8,7 +8,7 @@ rg_sayi: "33180"
 birim: "Sağlık Bakanlığı"
 konu: "2026 tarihli değişiklik metni (Resmî Gazete 26.02.2026, sayı 33180)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-116795/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/02/20260226.htm"
 durum: "yürürlükte"
 ---
 

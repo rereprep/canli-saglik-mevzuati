@@ -1,0 +1,48 @@
+---
+id: "rg-2024-02-04-is-ekipmanlarinin-kullaniminda-saglik-ve-guvenlik-sartlari-yonetmeliginde-degisi"
+baslik: "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (04.02.2024)"
+tur: "yonetmelik"
+tarih: "2024-02-04"
+rg_tarih: "2024-02-04"
+rg_sayi: "32450"
+konu: "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği üzerinde değişiklik yapan düzenleme (Resmî Gazete 04.02.2024, sayı 32450)."
+kaynak: "Resmî Gazete"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/02/20240204-1.htm"
+durum: "yürürlükte"
+---
+
+Çalışma ve Sosyal Güvenlik Bakanlığından:
+İŞ EKİPMANLARININ KULLANIMINDA SAĞLIK VE GÜVENLİK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR
+
+MADDE 1- 25/4/2013 tarihli ve 28628 sayılı Resmî Gazete’de yayımlanan İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğinin 4 üncü maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
+“p) Genel Müdürlük: İş Sağlığı ve Güvenliği Genel Müdürlüğünü,
+r) İSG-KATİP: İş sağlığı ve güvenliği hizmetleri ile ilgili iş ve işlemlerin Genel Müdürlükçe kayıt, takip ve izlenmesi amacıyla kullanılan iş sağlığı ve güvenliği kayıt, takip ve izleme programını,”
+
+MADDE 2- Aynı Yönetmeliğin 6/A maddesinin birinci fıkrasının (b) bendinde yer alan “her halükarda” ibaresinden sonra gelmek üzere “en az” ibaresi eklenmiştir.
+
+MADDE 3- Aynı Yönetmeliğin 7 nci maddesine aşağıdaki fıkra eklenmiştir.
+“(6) İşveren ile periyodik kontrol yapmaya yetkili kişi arasında periyodik kontrol hizmeti gerçekleştirilmeden en geç 1 gün önce İSG-KATİP sistemindeki örneğine uygun sözleşme düzenlenir ve karşılıklı olarak imzalanır.”
+
+MADDE 4- Aynı Yönetmeliğin 7/A maddesi yürürlükten kaldırılmıştır.
+
+MADDE 5- Aynı Yönetmeliğin 14/A maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiş, dördüncü fıkrasında yer alan “ikinci veya üçüncü” ibaresi “ikinci, üçüncü veya yedinci” şeklinde, “üç yıl” ibaresi “bir yıl” şeklinde değiştirilmiş ve aynı maddeye aşağıdaki fıkralar eklenmiştir.
+“(3) 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği kapsamında yetkilendirilmiş olan ortak sağlık ve güvenlik birimleri ile bu birimlerde çalışan kişiler periyodik kontrol hizmeti veremez.”
+“(7) Akredite muayene kuruluşları Genel Müdürlük tarafından istenen bilgi ve belgeleri TÜRKAK’a göndermekle yükümlüdür.
+(8) İSG-KATİP üzerinden sözleşme olmaksızın periyodik kontrol raporu düzenlenemez. Sözleşme olmaksızın düzenlenen periyodik kontrol raporları geçersizdir. Bu hükme aykırı davranan periyodik kontrol yapmaya yetkili kişinin yetkisi altı ay süreyle askıya alınır.
+(9) Genel Müdürlük tarafından gerçekleştirilen kontrol ve denetimler, Genel Müdürlükte görevli çalışma uzmanı ve çalışma uzman yardımcıları, mühendis, fizikçi, kimyager, biyolog ve tabipler tarafından yerine getirilir.”
+
+MADDE 6- Aynı Yönetmeliğe aşağıdaki ek madde eklenmiştir.
+“Doğal afet veya olağanüstü haller
+
+EK MADDE 3- (1) 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanuna göre genel hayata etkili afet bölgesi veya 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununa göre olağanüstü hal ilan edilen yerlerde bu Yönetmelik kapsamında yetkilendirilen kurum ve kuruluşların aşağıda belirtilen yükümlülükleri, Bakanın onayı ile değiştirilebilir veya ertelenebilir:
+a) Başvuru ve bildirim süreleri.
+b) Kurum ve kuruluşlarda personel istihdamı zorunluluğu.
+c) İş ekipmanlarının periyodik kontrollerine yönelik akreditasyon zorunluluğu.
+(2) Birinci fıkra kapsamında alınan onay, olağanüstü hal süresi veya genel hayata etkili afet bölgesi olduğunu gösteren kararın süresi boyunca geçerlidir. Olağanüstü hal süresi veya genel hayata etkili afet bölgesi olduğunu gösteren kararın süresi bir yılı aşsa bile birinci fıkra kapsamında alınan onayın süresi bir yılı aşamaz. Sürenin uzatılması gerekirse yeniden Bakan onayı alınır.
+(3) Genel hayata etkili afet bölgesi veya olağanüstü hal ilan edilen yerlerde, bu Yönetmelik kapsamında yetkilendirilen kurum veya kuruluşların, yetkilendirildikleri adrese ilişkin resmi makamlarca düzenlenen yıkık veya hasar raporunu beyan etmesi halinde kurum veya kuruluşun arşivinde bulunması gereken evraktan zayi olanlar ya da erişilemeyenler denetimlerde aranmaz.”
+
+MADDE 7- Aynı Yönetmeliğin Ek-III’ünün 1.13 üncü maddesi yürürlükten kaldırılmıştır.
+
+MADDE 8- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+MADDE 9- Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.

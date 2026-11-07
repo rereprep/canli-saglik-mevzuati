@@ -7,7 +7,7 @@ sayi: "2018/10"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kök hücre ve doku/hücre temelli ürünlerle yapılacak klinik araştırma ve uygulamalara ilişkin esasları düzenler."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86562/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86562/201810-kok-hucre-calismalari.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

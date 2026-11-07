@@ -7,7 +7,7 @@ sayi: "2012/9"
 birim: "Tedavi Hizmetleri Genel Müdürlüğü"
 konu: "Diş tedavilerinde katılım payı uygulamasına ilişkin açıklamalar."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86598/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86598/20129-dis-tedavisinde-katilim-payi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

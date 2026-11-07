@@ -8,7 +8,7 @@ rg_sayi: "33029"
 birim: "Sağlık Bakanlığı"
 konu: "2025 tarihli değişiklik metni (Resmî Gazete 26.09.2025, sayı 33029)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-110967/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/09/20250926.htm"
 durum: "yürürlükte"
 ---
 

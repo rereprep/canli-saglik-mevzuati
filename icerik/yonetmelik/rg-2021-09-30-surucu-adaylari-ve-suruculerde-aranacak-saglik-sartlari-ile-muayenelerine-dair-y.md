@@ -8,7 +8,7 @@ rg_sayi: "31614"
 birim: "Sağlık Bakanlığı"
 konu: "2021 tarihli değişiklik metni (Resmî Gazete 30.09.2021, sayı 31614)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86492/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/09/20210930.htm"
 durum: "yürürlükte"
 ---
 

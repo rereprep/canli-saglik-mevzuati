@@ -7,7 +7,7 @@ sayi: "2005/22"
 birim: "Başbakanlık"
 konu: "Uzman tabiplerin Devlet hizmeti yükümlülüğüne ilişkin hükümlerin uygulanmasına dair Başbakanlık genelgesi (RG 12/09/2005, 25934)."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86608/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86608/200522-devlet-hizmeti-yukumlulugu.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

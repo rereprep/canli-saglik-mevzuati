@@ -8,7 +8,7 @@ rg_sayi: "32987"
 birim: "Sağlık Bakanlığı"
 konu: "2025 tarihli değişiklik metni (Resmî Gazete 15.08.2025, sayı 32987)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-110326/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/08/20250815.htm"
 durum: "yürürlükte"
 ---
 

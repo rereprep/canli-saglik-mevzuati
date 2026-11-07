@@ -8,7 +8,7 @@ rg_sayi: "32203"
 birim: "Sağlık Bakanlığı"
 konu: "2023 tarihli değişiklik metni (Resmî Gazete 27.05.2023, sayı 32203)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-90664/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/05/20230527.htm"
 durum: "yürürlükte"
 ---
 

@@ -7,7 +7,7 @@ sayi: "2016/10"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Sağlık hizmeti sunumunda hasta mahremiyetinin korunmasına ilişkin alınacak tedbirler."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86573/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86573/201610-hasta-mahremiyetine-saygi-gosterilmesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

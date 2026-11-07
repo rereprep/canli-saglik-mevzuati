@@ -8,7 +8,7 @@ rg_sayi: "31646"
 birim: "Sağlık Bakanlığı"
 konu: "2021 tarihli değişiklik metni (Resmî Gazete 01.11.2021, sayı 31646)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86501/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/11/20211101.htm"
 durum: "yürürlükte"
 ---
 

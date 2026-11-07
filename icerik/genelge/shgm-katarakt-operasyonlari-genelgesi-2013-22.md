@@ -7,7 +7,7 @@ sayi: "2013/22"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Katarakt operasyonlarında uyulacak esaslar."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86586/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86586/201322-katarakt-operasyonlari.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

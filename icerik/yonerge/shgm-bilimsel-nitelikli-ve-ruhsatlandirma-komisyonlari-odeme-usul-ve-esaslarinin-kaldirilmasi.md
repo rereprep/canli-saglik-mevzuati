@@ -5,7 +5,7 @@ tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "22/1/2014 tarihli Makam Oluru ile yürürlüğe konulan komisyon ödemelerine ilişkin usul ve esasları yürürlükten kaldırır."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-107796/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-107796/saglik-bakanliginca-olusturulan-bilimsel-nitelikli-ve-ruhsatlandirma-komisyonlarinda-gorevlendirilenlere-yapilacak-odemelere-iliskin-usul-ve-esaslarin-yururlukten-kaldirilmasina-dair-usul-ve-esaslar.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

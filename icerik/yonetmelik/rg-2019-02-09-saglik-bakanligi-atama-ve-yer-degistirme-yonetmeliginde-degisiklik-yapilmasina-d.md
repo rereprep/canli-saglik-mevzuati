@@ -1,0 +1,40 @@
+---
+id: "rg-2019-02-09-saglik-bakanligi-atama-ve-yer-degistirme-yonetmeliginde-degisiklik-yapilmasina-d"
+baslik: "Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (09.02.2019)"
+tur: "yonetmelik"
+tarih: "2019-02-09"
+rg_tarih: "2019-02-09"
+rg_sayi: "30681"
+konu: "Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliği üzerinde değişiklik yapan düzenleme (Resmî Gazete 09.02.2019, sayı 30681)."
+kaynak: "Resmî Gazete"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/02/20190209-7.htm"
+durum: "yürürlükte"
+---
+
+Sağlık Bakanlığından:
+SAĞLIK BAKANLIĞI ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+
+MADDE 1 – 26/3/2013 tarihli ve 28599 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinin 7 nci maddesinin birinci fıkrasında yer alan “Kalkınma Bakanlığınca hazırlanan” ibaresi yürürlükten kaldırılmıştır.
+
+MADDE 2 – Aynı Yönetmeliğin 9 uncu maddesinin birinci fıkrasının birinci cümlesinde yer alan “Kalkınma Bakanlığınca hazırlanan” ibaresi yürürlükten kaldırılmış; aynı fıkranın ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+“2547 sayılı Yükseköğretim Kanunu kapsamına giren bir kurumda veya kamu kurum ve kuruluşlarında fiilen çalışılan her yer ve yıl için İlçelerin Sosyo-Ekonomik Gelişmişlik Sıralaması endeksindeki sıra numarası 1000 rakamıyla toplanarak ilçe sıralaması puanı elde edilir.”
+
+MADDE 3 – Aynı Yönetmeliğin 16 ncı maddesinin birinci fıkrasının birinci ve beşinci cümleleri aşağıdaki şekilde değiştirilmiş; ikinci fıkrasının sonuna “Bu fıkranın (a) bendinde bulunanlar bir defaya mahsus atama kısıtlamasına tabi değildir.” cümlesi eklenmiştir.
+“İller arası atama dönemleri Ocak, Haziran ve Eylül ayıdır.”
+“Hizmet puanlarının eşit olması halinde çalışma süresi esas alınır, çalışma süresinin de eşit olması halinde kura ile yerleştirme işlemleri yapılır.”
+
+MADDE 4 – Aynı Yönetmeliğin 20 nci maddesinin birinci fıkrasının (c) bendinde yer alan “ve 24 üncü” ibaresi “, 24 ve 31/A” şeklinde; ikinci fıkrasının (c) bendinin son cümlesi aşağıdaki şekilde değiştirilmiş; beşinci fıkrasının sonuna “Askerlik, doğum ve sağlık nedeniyle ödenmeyen primler, prim gün sayısından sayılır.” cümlesi eklenmiştir.
+“Atama talebinde bulunan personelin bulunduğu yerde, eşinin görev yaptığı kurumun teşkilatının bulunmaması, kadro veya mevzuatı açısından aile birliği mazeretine dayalı atanma imkânının olmaması halinde aile birliği sağlanır; ancak bu bendin birinci cümlesi stratejik personel için uygulanmaz.”
+
+MADDE 5 – Aynı Yönetmeliğin 22 nci maddesinin ikinci fıkrasının birinci cümlesinde yer alan “daha önce görev yaptıkları” ibaresi yürürlükten kaldırılmıştır.
+
+MADDE 6 – Aynı Yönetmeliğin 27 nci maddesinin birinci fıkrasının birinci ve ikinci cümleleri aşağıdaki şekilde değiştirilmiştir.
+“Hizmete yeni açılan tesisler ile hizmeti aksatacak ölçüde personel ihtiyacı olan tesislerin personel ihtiyacı öncelikle il içerisinden karşılanır. İhtiyacın il içerisinde karşılanmaması halinde atama dönemine bağlı kalmaksızın il dışından atama yapılabilir.”
+
+MADDE 7 – Aynı Yönetmeliğin 30 uncu maddesinin ikinci fıkrasında yer alan “ve 26 ncı maddelere” ibaresi “, 26 ve 31/A maddelerine” şeklinde değiştirilmiştir.
+
+MADDE 8 – Aynı Yönetmeliğin 31/A maddesinin birinci fıkrasının (a) ve (b) bentlerinde yer alan “hizmet bölgesinde” ibarelerinden sonra gelmek üzere “son” ibareleri eklenmiştir.
+
+MADDE 9 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+MADDE 10 – Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.

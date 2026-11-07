@@ -7,7 +7,7 @@ sayi: "2013/10"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Özel ve üniversite hastanelerinin Teşhis İlişkili Gruplar (TİG) sistemine veri göndermesine ilişkin esaslar."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86591/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86591/201310-ozel-ve-universite-hastanelerinin-tig-sistemine-veri-gonderilmesi-hakkinda-genelge.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

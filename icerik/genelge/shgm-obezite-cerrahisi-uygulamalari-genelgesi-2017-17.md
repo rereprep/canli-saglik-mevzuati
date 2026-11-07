@@ -7,7 +7,7 @@ sayi: "2017/17"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Obezite cerrahisi uygulamalarında uyulacak esaslar."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86566/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86566/201717-obezite-cerrahisi-uygulamalari.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

@@ -7,7 +7,7 @@ sayi: "2015/19"
 birim: "Acil Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "UMKE personelinin görevlendirme, özlük hakları ve il asgari standartlarını düzenler."
 kaynak: "ASHGM internet sitesi (ashgm.saglik.gov.tr)"
-kaynak_url: "https://ashgm.saglik.gov.tr/TR-90007/x.html"
+kaynak_url: "https://ashgm.saglik.gov.tr/TR-90007/umke-gorevlendirme-ozluk-ve-il-standartlari-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

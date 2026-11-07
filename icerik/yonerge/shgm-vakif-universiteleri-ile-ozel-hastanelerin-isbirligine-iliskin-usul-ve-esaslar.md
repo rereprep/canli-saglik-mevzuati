@@ -6,7 +6,7 @@ tarih: "2017"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "3359 sayılı Kanunun Ek 15 inci maddesi uyarınca vakıf yükseköğretim kurumları ile özel hastaneler arasındaki eğitim işbirliğinin usul ve esaslarını düzenler."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86540/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86540/vakif-universiteleri-ile-ozel-hastanelerin-isbirligine-iliskin-usul-ve-esaslar.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

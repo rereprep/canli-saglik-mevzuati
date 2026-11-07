@@ -6,7 +6,7 @@ tarih: "2017"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Sağlık kurum ve kuruluşlarınca düzenlenecek raporlara ilişkin usul ve esaslar (Nisan 2017). 30/09/2019 tarihli Sağlık Raporları Usul ve Esasları Hakkında Yönerge ile yürürlükten kaldırılmıştır."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86539/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86539/saglik-raporlarina-iliskin-usul-ve-esaslar.html"
 durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true

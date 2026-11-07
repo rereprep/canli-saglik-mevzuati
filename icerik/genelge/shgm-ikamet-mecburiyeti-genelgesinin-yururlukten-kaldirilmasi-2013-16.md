@@ -7,7 +7,7 @@ sayi: "2013/16"
 birim: "Sağlık Bakanlığı"
 konu: "Anayasa Mahkemesi iptal kararı üzerine 2012/31 sayılı İkamet Mecburiyeti Genelgesini yürürlükten kaldırır."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86589/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86589/201316-ikamet-mecburiyeti.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

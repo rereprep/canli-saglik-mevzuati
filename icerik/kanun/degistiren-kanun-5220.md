@@ -1,0 +1,28 @@
+---
+id: "degistiren-kanun-5220"
+baslik: "Sağlık Hizmetleri Temel Kanununda Değişiklik Yapılmasına Dair Kanun"
+tur: "kanun"
+tarih: "2004-07-14"
+sayi: "5220"
+rg_tarih: "2004-07-21"
+konu: "Sitedeki mevzuatta değişiklik yapan düzenleme."
+kaynak: "Resmî Gazete"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2004/07/20040721.htm#3"
+durum: "yürürlükte"
+---
+
+Sağlık Hizmetleri Temel Kanununda Değişiklik Yapılmasına Dair Kanun Kanun No. 5220 Kabul Tarihi : 14.7.2004
+
+
+MADDE 1 – 7.5.1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa aşağıdaki ek madde eklenmiştir.
+EK
+
+MADDE 2. — Sağlık Bakanlığına tahsisli Hazine mülkiyetindeki taşınmazlar ile Sağlık Bakanlığı kullanımında bulunan diğer taşınmazlardan gerekli görülenlerin, mülkiyetinin Hazineye bedelsiz devrinden sonra, Sağlık Bakanlığı ile mutabık kalınarak tahsislerini kaldırmaya ve 1050 sayılı Muhasebei Umumiye Kanununun 24 üncü maddesine bağlı olmaksızın satmaya Maliye Bakanı yetkilidir.
+Satış bedelleri bütçeye gelir kaydedilir. Sağlık kurum ve kuruluşlarının yapımı, onarımı ve donatımı ile tıbbi araç ve gereçlerin alımında kullanılmak üzere Sağlık Bakanlığı bütçesine gerekli ödenek öngörülür.
+Bakanlığın kullanımı için şartlı bağış yapan kişilerin taşınmazları amacına yönelik kullanılmaması halinde kişilere iade edilir.
+
+
+MADDE 2 – Bu Kanun yayımı tarihinde yürürlüğe girer.
+
+
+MADDE 3 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

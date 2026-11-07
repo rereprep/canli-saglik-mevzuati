@@ -7,7 +7,7 @@ sayi: "2013/17"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Özel sağlık kuruluşlarına başvuran acil hastalardan ücret alınmaması ve acil hizmet sunumuna ilişkin esaslar."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86588/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86588/201317-ozel-saglik-kuruluslarinin-acil-saglik-hizmeti-sunumu-hakkinda-genelge.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

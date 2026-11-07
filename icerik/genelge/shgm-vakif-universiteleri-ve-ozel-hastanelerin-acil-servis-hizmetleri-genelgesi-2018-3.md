@@ -7,7 +7,7 @@ sayi: "2018/3"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Vakıf üniversitesi ve özel hastanelerin acil servis hizmetlerine yönelik düzenlemeler."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86564/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86564/20183-vakif-universiteleri-hastaneleri-ile-ozel-hastanelerin-acil-servis-hizmetlerine-yonelik-duzenleme.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

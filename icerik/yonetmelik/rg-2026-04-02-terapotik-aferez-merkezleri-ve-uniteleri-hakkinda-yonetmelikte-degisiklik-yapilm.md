@@ -8,7 +8,7 @@ rg_sayi: "33212"
 birim: "Sağlık Bakanlığı"
 konu: "2026 tarihli değişiklik metni (Resmî Gazete 02.04.2026, sayı 33212)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-117232/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/04/20260402.htm"
 durum: "yürürlükte"
 ---
 

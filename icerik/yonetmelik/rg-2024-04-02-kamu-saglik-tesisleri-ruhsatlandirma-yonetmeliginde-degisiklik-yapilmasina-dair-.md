@@ -8,7 +8,7 @@ rg_sayi: "32508"
 birim: "Sağlık Bakanlığı"
 konu: "2024 tarihli değişiklik metni (Resmî Gazete 02.04.2024, sayı 32508)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-103131/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/04/20240402.htm"
 durum: "yürürlükte"
 ---
 

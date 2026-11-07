@@ -7,7 +7,7 @@ sayi: "2012/32"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Maliye Bakanlığının 8 Sıra No’lu Tebliğine ilişkin 2006/79 sayılı genelgeyi yürürlükten kaldırır."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86596/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86596/201232-sayili-genelge.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

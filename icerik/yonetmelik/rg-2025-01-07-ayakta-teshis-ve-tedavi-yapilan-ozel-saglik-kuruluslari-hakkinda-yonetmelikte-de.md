@@ -8,7 +8,7 @@ rg_sayi: "32775"
 birim: "Sağlık Bakanlığı"
 konu: "2025 tarihli değişiklik metni (Resmî Gazete 07.01.2025, sayı 32775)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86457/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/01/20250107.htm"
 durum: "yürürlükte"
 ---
 

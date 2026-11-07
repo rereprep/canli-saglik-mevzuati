@@ -8,7 +8,7 @@ rg_sayi: "32753"
 birim: "Sağlık Bakanlığı"
 konu: "2024 tarihli değişiklik metni (Resmî Gazete 15.12.2024, sayı 32753)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-102773/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/12/20241215.htm"
 durum: "yürürlükte"
 ---
 

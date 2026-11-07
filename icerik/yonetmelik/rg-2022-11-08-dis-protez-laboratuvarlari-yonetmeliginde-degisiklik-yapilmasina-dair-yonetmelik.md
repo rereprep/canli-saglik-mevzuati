@@ -8,7 +8,7 @@ rg_sayi: "32007"
 birim: "Sağlık Bakanlığı"
 konu: "2022 tarihli değişiklik metni (Resmî Gazete 08.11.2022, sayı 32007)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-93222/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/11/20221108.htm"
 durum: "yürürlükte"
 ---
 

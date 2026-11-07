@@ -1,0 +1,34 @@
+---
+id: "rg-2024-02-04-isyeri-hekimi-ve-diger-saglik-personelinin-gorev-yetki-sorumluluk-ve-egitimleri-"
+baslik: "İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (04.02.2024)"
+tur: "yonetmelik"
+tarih: "2024-02-04"
+rg_tarih: "2024-02-04"
+rg_sayi: "32450"
+konu: "İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik üzerinde değişiklik yapan düzenleme (Resmî Gazete 04.02.2024, sayı 32450)."
+kaynak: "Resmî Gazete"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/02/20240204-5.htm"
+durum: "yürürlükte"
+---
+
+Çalışma ve Sosyal Güvenlik Bakanlığından:
+İŞYERİ HEKİMİ VE DİĞER SAĞLIK PERSONELİNİN GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+
+MADDE 1- 20/7/2013 tarihli ve 28713 sayılı Resmî Gazete’de yayımlanan İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 39 uncu maddesinin başlığı ve birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+“Genel Müdürlüğün görev, yetki ve sorumlulukları ile denetim” “(1) Genel Müdürlük; eğitimlerin etkin ve verimli bir şekilde verilip verilmediğinin izlenmesi amacıyla kendi görev ve yetki alanına giren konularda eğitim kurumlarını, eğiticileri ve sorumlu müdürleri, yetki alınan mekânı, yerinde veya dijital altyapı vasıtasıyla uzaktan erişim yoluyla kontrol eder ve denetler. Bu kontrol ve denetimler, Genel Müdürlükte görevli çalışma uzmanı ve çalışma uzman yardımcıları, mühendis, fizikçi, kimyager, biyolog ve tabipler tarafından yerine getirilir. Denetimlerde tespit edilen ihlallere göre bu Yönetmelikte yer alan idari yaptırımların uygulanması hususunda denetim personeli tutanak tutar ve rapor hazırlar. Tutanak ve raporlar, denetim personelince Genel Müdürlüğe teslim edilir.”
+
+MADDE 2- Aynı Yönetmeliğe aşağıdaki ek madde eklenmiştir.
+“Doğal afet veya olağanüstü haller
+
+EK MADDE 1- (1) 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanuna göre genel hayata etkili afet bölgesi veya 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununa göre olağanüstü hal ilan edilen yerlerde bu Yönetmelik kapsamında yetkilendirilen kurum ve kuruluşların aşağıda belirtilen yükümlülükleri, Bakanın onayı ile değiştirilebilir veya ertelenebilir:
+a) Eğitim kurumlarının kurulabilmesi ve hizmet sunabilmesi için gerekli şartlar.
+b) Başvuru ve bildirim süreleri.
+c) Kurum ve kuruluşlarda personel istihdamı zorunluluğu.
+ç) Kurum ve kuruluşların vize bedeli ödemeleri.
+(2) Birinci fıkra kapsamında alınan onay, olağanüstü hal süresi veya genel hayata etkili afet bölgesi olduğunu gösteren kararın süresi boyunca geçerlidir. Olağanüstü hal süresi veya genel hayata etkili afet bölgesi olduğunu gösteren kararın süresi bir yılı aşsa bile birinci fıkra kapsamında alınan onayın süresi bir yılı aşamaz.
+Sürenin uzatılması gerekirse yeniden Bakan onayı alınır.
+(3) Genel hayata etkili afet bölgesi veya olağanüstü hal ilan edilen yerlerde, bu Yönetmelik kapsamında yetkilendirilen kurum veya kuruluşların, yetkilendirildikleri adrese ilişkin resmî makamlarca düzenlenen yıkık veya hasar raporunu beyan etmesi halinde kurum veya kuruluşun arşivinde bulunması gereken evraktan zayi olanlar ya da erişilemeyenler denetimlerde aranmaz.”
+
+MADDE 3- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+MADDE 4- Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.

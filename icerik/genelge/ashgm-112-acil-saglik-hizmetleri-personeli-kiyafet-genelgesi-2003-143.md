@@ -7,7 +7,7 @@ sayi: "2003/143"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "112 acil sağlık hizmetleri personelinin kıyafet standartlarını belirler."
 kaynak: "ASHGM internet sitesi (ashgm.saglik.gov.tr)"
-kaynak_url: "https://ashgm.saglik.gov.tr/TR-90005/x.html"
+kaynak_url: "https://ashgm.saglik.gov.tr/TR-90005/2003-143-sayili-112-acil-saglik-hizmetleri-personeli-kiyafet-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

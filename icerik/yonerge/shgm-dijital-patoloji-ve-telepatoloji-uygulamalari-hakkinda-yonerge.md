@@ -7,7 +7,7 @@ sayi: "E-11045126-010.04-332393312"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Dijital patoloji ve telepatoloji uygulamalarının usul ve esaslarını düzenler."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-121585/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-121585/dijital-patoloji-ve-telepatoloji-uygulamalari-hakkinda-yonerge.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

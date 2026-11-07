@@ -8,7 +8,7 @@ rg_sayi: "33410"
 birim: "Sağlık Bakanlığı"
 konu: "2026 tarihli değişiklik metni (Resmî Gazete 24.10.2026, sayı 33410)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-121705/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024.htm"
 durum: "yürürlükte"
 ---
 

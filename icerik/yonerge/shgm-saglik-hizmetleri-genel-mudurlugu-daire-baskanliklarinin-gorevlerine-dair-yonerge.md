@@ -6,7 +6,7 @@ tarih: "2020"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Sağlık Hizmetleri Genel Müdürlüğü daire başkanlıklarının görev ve sorumluluklarını belirler."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86508/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86508/saglik-hizmetleri-genel-mudurlugu-daire-baskanliklarinin-gorevlerine-dair-yonerge.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

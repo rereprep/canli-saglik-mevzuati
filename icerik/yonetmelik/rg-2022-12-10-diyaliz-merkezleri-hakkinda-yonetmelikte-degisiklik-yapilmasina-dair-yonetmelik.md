@@ -8,7 +8,7 @@ rg_sayi: "32039"
 birim: "Sağlık Bakanlığı"
 konu: "2022 tarihli değişiklik metni (Resmî Gazete 10.12.2022, sayı 32039)."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-93951/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/12/20221210.htm"
 durum: "yürürlükte"
 ---
 

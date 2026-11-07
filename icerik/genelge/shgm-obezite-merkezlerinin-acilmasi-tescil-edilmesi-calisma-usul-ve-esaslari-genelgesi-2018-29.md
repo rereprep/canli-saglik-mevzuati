@@ -7,7 +7,7 @@ sayi: "2018/29"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Obezite merkezlerinin açılması, tescili ve çalışma usul ve esaslarını düzenler."
 kaynak: "SHGM internet sitesi (shgm.saglik.gov.tr)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-86558/x.html"
+kaynak_url: "https://shgm.saglik.gov.tr/TR-86558/201829-obezite-merkezlerinin-acilmasitescil-edilmesi-calisma-usul-ve-esaslari-hakkinda-genelge.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

@@ -6,7 +6,7 @@ tarih: "2010"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Taşra afet birimleri ile Ulusal Medikal Kurtarma Ekiplerinin (UMKE) görev, sorumluluk ve çalışma esaslarını düzenler."
 kaynak: "ASHGM internet sitesi (ashgm.saglik.gov.tr)"
-kaynak_url: "https://ashgm.saglik.gov.tr/TR-90011/x.html"
+kaynak_url: "https://ashgm.saglik.gov.tr/TR-90011/afetlerde-saglik-hizmetleri-birimi-ve-ulusal-medikal-kurtarma-ekiplerinin-gorevleri-ve-calisma-esaslarina-dair-yonerge.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

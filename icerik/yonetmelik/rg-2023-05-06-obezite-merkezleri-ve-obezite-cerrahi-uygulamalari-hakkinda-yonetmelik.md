@@ -8,7 +8,7 @@ rg_sayi: "32182"
 birim: "Sağlık Bakanlığı"
 konu: "6/5/2023 tarihli ve 32182 sayılı Resmî Gazete’de yayımlanan yönetmelik; 12/11/2025 tarihli Obezite Üniteleri ve Obezite Cerrahisi Uygulama Üniteleri Hakkında Yönetmelik ile yürürlükten kaldırılmıştır."
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
-kaynak_url: "https://shgm.saglik.gov.tr/TR-111529/x.html"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/05/20230506.htm"
 durum: "yürürlükten kaldırıldı"
 ---
 

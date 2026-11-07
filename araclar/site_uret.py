@@ -476,8 +476,22 @@ def sayfa(baslik, icerik, kok="", aciklama=""):
 def belge_sayfasi(b):
     kok = "../../"
     k = "".join(f"<tr><th>{e(a)}</th><td>{e(v)}</td></tr>" for a, v in kunye(b))
-    if b.get("kaynak_url"):
-        k += f'<tr><th>Resmî Kaynak</th><td><a href="{e(b["kaynak_url"])}" rel="noopener" target="_blank">{e(b["kaynak_url"])}</a></td></tr>'
+    kaynaklar = [u for u in [b.get("kaynak_url")] + list(b.get("ek_kaynaklar") or []) if u]
+    kaynaklar = list(dict.fromkeys(kaynaklar))
+    if kaynaklar:
+        baglar = "<br>".join(f'<a href="{e(u)}" rel="noopener" target="_blank">{e(u)}</a>' for u in kaynaklar)
+        k += f'<tr><th>Resmî Kaynak</th><td>{baglar}</td></tr>'
+    if b.get("degistirdigi"):
+        satir = []
+        for d in b["degistirdigi"]:
+            ad = e(d.get("ad", ""))
+            if d.get("id"):
+                tur_ = d.get("tur") or b["tur"]
+                ad = f'<a href="{kok}mevzuat/{e(tur_)}/{e(d["id"])}.html">{ad}</a>'
+            if d.get("url"):
+                ad += f' — <a href="{e(d["url"])}" rel="noopener" target="_blank">mevzuat.gov.tr</a>'
+            satir.append(f"<li>{ad}</li>")
+        k += f'<tr><th>Değiştirdiği Mevzuat</th><td><ul>{"".join(satir)}</ul></td></tr>'
     if b.get("degisiklikler"):
         lis = "".join(f"<li>{e(tarih_tr(d.get('rg_tarih')))} {('RG ' + e(d.get('rg_sayi'))) if d.get('rg_sayi') else ''} {e(d.get('aciklama'))}</li>" for d in b["degisiklikler"])
         k += f"<tr><th>Değişiklikler</th><td><ul>{lis}</ul></td></tr>"
