@@ -231,6 +231,17 @@
    }
   ]
  },
+ "degistiren-kanun-4747": {
+  "degistirdigi": [
+   {
+    "ad": "İstihdamın Teşviki Amacıyla Ücret Dışı Yüklerden Bazılarının Ödenmesinin Ertelenmesi ile Sosyal Sigortalar Kanunu, Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanunu ve 631 Sayılı Kanun Hükmünde Kararname",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4747&MevzuatTur=1&MevzuatTertip=5"
+   }
+  ],
+  "ek_kaynaklar": [
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4747&MevzuatTur=1&MevzuatTertip=5"
+  ]
+ },
  "degistiren-kanun-5560": {
   "degistirdigi": [
    {
@@ -941,6 +952,14 @@
    "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4207&MevzuatTur=1&MevzuatTertip=5"
   ]
  },
+ "degistiren-kanun-5745": {
+  "degistirdigi": [
+   {
+    "ad": "375 Sayılı Kanun Hükmünde Kararname",
+    "url": ""
+   }
+  ]
+ },
  "degistiren-kanun-5747": {
   "degistirdigi": [
    {
@@ -1441,6 +1460,14 @@
   ],
   "ek_kaynaklar": [
    "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4734&MevzuatTur=1&MevzuatTertip=5"
+  ]
+ },
+ "degistiren-kanun-6289": {
+  "degistirdigi": [
+   {
+    "ad": "Kamu Görevlileri Sendikaları Kanunu",
+    "url": ""
+   }
   ]
  },
  "degistiren-kanun-6304": {
@@ -2525,6 +2552,14 @@
    "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2828&MevzuatTur=1&MevzuatTertip=5"
   ]
  },
+ "degistiren-kanun-7104": {
+  "degistirdigi": [
+   {
+    "ad": "Katma Değer Vergisi Kanunu ve Bazı Kanunlar ile 178 Sayılı Kanun Hükmünde Kararname",
+    "url": ""
+   }
+  ]
+ },
  "degistiren-kanun-7139": {
   "degistirdigi": [
    {
@@ -2972,6 +3007,14 @@
    "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5237&MevzuatTur=1&MevzuatTertip=5"
   ]
  },
+ "degistiren-kanun-7351": {
+  "degistirdigi": [
+   {
+    "ad": "Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararname",
+    "url": ""
+   }
+  ]
+ },
  "degistiren-kanun-7381": {
   "degistirdigi": [
    {
@@ -2990,6 +3033,14 @@
   "ek_kaynaklar": [
    "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2690&MevzuatTur=1&MevzuatTertip=5",
    "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4734&MevzuatTur=1&MevzuatTertip=5"
+  ]
+ },
+ "degistiren-kanun-7383": {
+  "degistirdigi": [
+   {
+    "ad": "Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanun ile Devlet Memurları Kanununda ve 375 Sayılı Kanun Hükmünde Kararname",
+    "url": ""
+   }
   ]
  },
  "degistiren-kanun-7394": {
@@ -4888,6 +4939,19 @@
   ]
  },
  "rg-2025-03-08-sosyal-guvenlik-kurumu-saglik-uygulama-tebliginde-degisiklik-yapilmasina-dair-te": {
+  "degistirdigi": [
+   {
+    "ad": "Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği (SUT)",
+    "id": "k-sosyal-guvenlik-kurumu-saglik-uygulama-tebligi-sut",
+    "tur": "teblig",
+    "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=17229&MevzuatTur=9&MevzuatTertip=5"
+   }
+  ],
+  "ek_kaynaklar": [
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=17229&MevzuatTur=9&MevzuatTertip=5"
+  ]
+ },
+ "rg-2025-03-25-sosyal-guvenlik-kurumu-saglik-uygulama-tebliginde-degisiklik-yapilmasina-dair-te": {
   "degistirdigi": [
    {
     "ad": "Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği (SUT)",
