@@ -354,12 +354,108 @@ def satir_ici(s):
     return s
 
 
+# ---------------------------------------------------------------- hizalama kuralı
+# Resmî yazı düzeni: kurum başlığı ve büyük harfli başlıklar ortada; Sayı/Konu/İlgi/Ek/Dağıtım
+# solda (Sayı satırındaki tarih sağda); kapanış cümlesinden sonraki imza bloğu sağda; gövde iki yana yaslı.
+_TARIH = r"\d{1,2}[./]\d{1,2}[./]\d{4}"
+_SOL = re.compile(r"^(Sayı|SAYI|Konu|KONU|İlgi|İLGİ|İlgi\s*\(?[a-zA-Z]\)?|Eki?|EKİ?|Ekler|EKLER|Ek\s*-?\s*\d+|EK\s*-?\s*\d+|Dağıtım|DAĞITIM|Gereği|GEREĞİ|Bilgi|BİLGİ)\s*[:：]")
+_DAGITIM = re.compile(r"^(Dağıtım|DAĞITIM|Gereği|GEREĞİ|Bilgi|BİLGİ)\s*[:：]?\s*$|^(Dağıtım|DAĞITIM)\s*[:：]")
+_KAPANIS = re.compile(r"(ederim|ederiz|olunur|rica ederim|arz ederim)\s*[.,]?\s*$", re.I)
+_KURUM = re.compile(r"^(T\.\s?C\.?|.{0,70}(BAKANLIĞI|Bakanlığı|MÜDÜRLÜĞÜ|Müdürlüğü|BAŞKANLIĞI|Başkanlığı|VALİLİĞİ|Valiliği|KURUMU|Kurumu|Hastanesi|HASTANESİ|Rektörlüğü|REKTÖRLÜĞÜ))$")
+_UNVAN = re.compile(r"^((Prof\.|Doç\.|Dr\.|Uzm\.|Op\.|Av\.|Ecz\.).{0,50}|Bakan( a\.| V\.)?|Bakan Yardımcısı|Vali( a\.| V\.)?|.{0,45}(Genel Müdür|Başkan|Müdür|Müsteşar|Sekreter|Daire Başkanı)( V\.| a\.| Yardımcısı)?)$")
+
+
+def _duz(s):
+    return " ".join(re.sub(r"\*\*|</?small>|</?sup>", "", s).split())
+
+
+def _buyuk(s):
+    harf = [c for c in s if c.isalpha()]
+    return len(harf) >= 4 and sum(c.isupper() for c in harf) / len(harf) >= 0.85
+
+
+def hizalar(bloklar):
+    """Her blok için None (iki yana), 'orta', 'sol', 'sag', 'imza' döndürür."""
+    sonuc, durum, uzun_goruldu = [], None, False
+    for i, blok in enumerate(bloklar):
+        if re.match(r"^(#{2,4} |\||---$|\*\*(GEÇİCİ |Geçici |EK |Ek )?(MADDE|Madde))", blok) or blok.startswith("<small>"):
+            sonuc.append(None); durum = None if durum == "imza" else durum; continue
+        satirlar = [_duz(s) for s in blok.split("\n") if _duz(s)]
+        t = " ".join(satirlar)
+        kisa = all(len(s) <= 75 for s in satirlar) and len(satirlar) <= 6
+        h = None
+        if durum == "dagitim" and all(len(x) <= 120 for x in satirlar):
+            h = "sol"
+        elif _SOL.match(t):
+            h = "sol"
+            if _DAGITIM.match(t) and i >= len(bloklar) * 0.4:
+                durum = "dagitim"
+        elif re.fullmatch(_TARIH, t):
+            h = "sag"
+        elif durum == "imza" and kisa and len(t) <= 160:
+            h = "imza"
+        elif not uzun_goruldu and i < 8 and all(_KURUM.match(s) or _buyuk(s) for s in satirlar) and kisa:
+            h = "orta"
+        elif kisa and len(t) <= 110 and any(_buyuk(s) for s in satirlar) and all(_buyuk(s) or re.fullmatch(r"[\d/.\- ]+", s) for s in satirlar) and not t.endswith((":", ";", ",")):
+            h = "orta"
+        elif kisa and all(_UNVAN.match(s) for s in satirlar) and i >= len(bloklar) * 0.5:
+            h = "imza"
+            j = len(sonuc) - 1  # hemen önceki kısa ad satırı da imzaya dahil
+            if j >= 0 and sonuc[j] is None and len(_duz(bloklar[j])) <= 50 and not _KAPANIS.search(_duz(bloklar[j])):
+                sonuc[j] = "imza"
+        if h != "sol" and durum == "dagitim":
+            durum = None
+        if h is None:
+            if len(t) > 120:
+                uzun_goruldu = True
+            if durum == "imza":
+                durum = None
+        if h is None and _KAPANIS.search(t):
+            durum = "imza"
+        elif h == "imza":
+            durum = "imza"
+        elif durum == "imza" and h not in ("imza",):
+            durum = "dagitim" if durum == "dagitim" else None
+        sonuc.append(h)
+    return sonuc
+
+
+def _sayi_satiri(s):
+    """'Sayı: X 26.08.2026' -> (sol, tarih) ya da None."""
+    m = re.match(r"^((?:Sayı|SAYI)\s*[:：].*?)[\s*•,-]+(" + _TARIH + r")\s*$", _duz(s))
+    return (m.group(1), m.group(2)) if m else None
+
+
+
+
+def satirlara_bol(blok, hz):
+    """Hizalı bloklarda Sayı/Konu ve imza unvanlarını ayrı satırlara böler."""
+    satirlar = [x for x in blok.split("\n") if x.strip()]
+    if hz == "sol":
+        yeni = []
+        for x in satirlar:
+            m = re.match(r"^((?:Sayı|SAYI)\s*[:：].*?)\s+((?:Konu|KONU)\s*[:：].*)$", _duz(x))
+            if m:
+                sayi, konu = m.group(1), m.group(2)
+                t = re.search(r"[\s*•,-]+(" + _TARIH + r")\s*$", konu)
+                if t:
+                    konu, sayi = konu[:t.start()], sayi + " " + t.group(1)
+                yeni += [sayi, konu]
+            else:
+                yeni.append(x)
+        return yeni
+    if hz == "imza":
+        yeni = []
+        for x in satirlar:
+            yeni += [y for y in re.split(r"\s+(?=(?:Bakan a\.?|Bakan Yardımcısı|Bakan|Müsteşar|Vali a\.?|Vali V\.)(?:\s|$))", _duz(x)) if y]
+        return yeni
+    return satirlar
+
 def md_html(govde):
     parcalar, sayac = [], 0
-    for blok in re.split(r"\n{2,}", govde.strip()):
-        blok = blok.strip()
-        if not blok:
-            continue
+    bloklar = [b.strip() for b in re.split(r"\n{2,}", govde.strip()) if b.strip()]
+    hiza = hizalar(bloklar)
+    for blok, hz in zip(bloklar, hiza):
         if blok == "---":
             parcalar.append("<hr>")
             continue
@@ -373,7 +469,7 @@ def md_html(govde):
         m = re.match(r"^(#{2,4}) (.*)$", blok, re.S)
         if m:
             seviye = len(m.group(1))
-            parcalar.append(f"<h{seviye}>{satir_ici(m.group(2))}</h{seviye}>")
+            parcalar.append(f"<h{seviye}>" + "<br>".join(satir_ici(x) for x in re.split(r"\s+#{2,4}\s+", m.group(2))) + f"</h{seviye}>")
             continue
         if blok.startswith("**") and re.match(r"^\*\*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)", blok):
             sayac += 1
@@ -383,23 +479,35 @@ def md_html(govde):
                 kimlik = "gecici-" + kimlik
             parcalar.append(f'<p class="madde" id="{kimlik}">{satir_ici(blok)}</p>')
             continue
-        parcalar.append("<p>" + "<br>".join(satir_ici(s) for s in blok.split("\n")) + "</p>")
-    return "\n".join(parcalar)
+        satir_html = []
+        for s in (satirlara_bol(blok, hz) if hz else blok.split("\n")):
+            ss = _sayi_satiri(s)
+            satir_html.append(f'<span class="sayi-satir"><span>{satir_ici(ss[0])}</span><span>{satir_ici(ss[1])}</span></span>' if ss else satir_ici(s))
+        sinif = f' class="h-{hz}"' if hz else ""
+        parcalar.append(f"<p{sinif}>" + "<br>".join(satir_html) + "</p>")
+    # ardışık imza paragraflarını tek blokta topla
+    html_metin = "\n".join(parcalar)
+    html_metin = re.sub(r'((?:<p class="h-imza">.*?</p>\n?)+)', lambda m: '<div class="imza">' + m.group(1).replace(' class="h-imza"', '') + '</div>\n', html_metin)
+    return html_metin
 
 
 def duz_bloklar(govde):
     """Word/PDF üretimi için (tip, metin) listesi."""
     govde = XML_DISI.sub("", govde)
-    for blok in re.split(r"\n{2,}", govde.strip()):
-        blok = blok.strip()
-        if not blok:
+    bloklar = [b.strip() for b in re.split(r"\n{2,}", govde.strip()) if b.strip()]
+    for blok, hz in zip(bloklar, hizalar(bloklar)):
+        if hz:
+            for s in satirlara_bol(blok, hz):
+                ss = _sayi_satiri(s)
+                yield ("p-sayi", ss) if ss else ("p-" + hz, _duz(s))
             continue
         if blok == "---":
             yield ("hr", "")
         elif blok.startswith("**Dipnotlar**"):
             yield ("h4", "Dipnotlar")
         elif re.match(r"^#{2,4} ", blok):
-            yield ("h" + str(len(blok.split(" ")[0])), blok.split(" ", 1)[1])
+            for x in re.split(r"\s+#{2,4}\s+", blok.split(" ", 1)[1]):
+                yield ("h" + str(len(blok.split(" ")[0])), x)
         elif blok.startswith("<small>"):
             yield ("dipnot", re.sub(r"</?small>", "", blok))
         else:
@@ -612,7 +720,7 @@ def hakkinda_sayfasi(belgeler):
 # ---------------------------------------------------------------- Word / PDF
 def word_uret(b, hedef):
     from docx import Document
-    from docx.enum.text import WD_ALIGN_PARAGRAPH
+    from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_TAB_ALIGNMENT
     from docx.shared import Pt, RGBColor
 
     d = Document()
@@ -658,6 +766,15 @@ def word_uret(b, hedef):
             r = p.add_run(metin)
             r.font.size = Pt(8)
             r.font.color.rgb = RGBColor(0x44, 0x44, 0x44)
+        elif tip == "p-sayi":
+            p = d.add_paragraph()
+            p.paragraph_format.tab_stops.add_tab_stop(d.sections[0].page_width - d.sections[0].left_margin - d.sections[0].right_margin, WD_TAB_ALIGNMENT.RIGHT)
+            p.add_run(metin[0] + "\t" + metin[1])
+            p.paragraph_format.space_after = Pt(0)
+        elif tip.startswith("p-"):
+            p = d.add_paragraph(metin)
+            p.alignment = {"p-orta": WD_ALIGN_PARAGRAPH.CENTER, "p-sag": WD_ALIGN_PARAGRAPH.RIGHT, "p-imza": WD_ALIGN_PARAGRAPH.RIGHT}.get(tip, WD_ALIGN_PARAGRAPH.LEFT)
+            p.paragraph_format.space_after = Pt(0) if tip in ("p-sol", "p-imza", "p-orta") else p.paragraph_format.space_after
         else:
             p = d.add_paragraph(metin)
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
@@ -713,6 +830,10 @@ def pdf_uret(b, hedef):
     alt = ParagraphStyle("h4", parent=govde, fontName=f + "-Kalin", spaceAfter=1, spaceBefore=4)
     dip = ParagraphStyle("d", parent=govde, fontSize=8, leading=10, textColor=colors.HexColor("#444444"))
     kucuk = ParagraphStyle("k", parent=govde, fontSize=8.5, leading=11, alignment=0)
+    solst = ParagraphStyle("sol", parent=govde, alignment=0, spaceAfter=1)
+    ortast = ParagraphStyle("orta", parent=govde, alignment=TA_CENTER, spaceAfter=1)
+    sagst = ParagraphStyle("sag", parent=govde, alignment=2, spaceAfter=1)
+    imzast = ParagraphStyle("imza", parent=govde, alignment=TA_CENTER, leftIndent=9 * cm, spaceAfter=0)
 
     def x(s):
         return html.escape(s, quote=False)
@@ -723,7 +844,11 @@ def pdf_uret(b, hedef):
                            ("BACKGROUND", (0, 0), (0, -1), colors.HexColor("#eef2f7")),
                            ("VALIGN", (0, 0), (-1, -1), "TOP")]))
     akis += [t, Spacer(1, 10)]
+    onceki = None
     for tip, metin in duz_bloklar(b["govde"]):
+        if (tip == "p-imza") != (onceki == "p-imza") and onceki is not None:
+            akis.append(Spacer(1, 12))
+        onceki = tip
         if tip == "hr":
             akis.append(HRFlowable(width="100%", thickness=0.5, color=colors.grey, spaceBefore=6, spaceAfter=6))
         elif tip in ("h2", "h3"):
@@ -734,6 +859,12 @@ def pdf_uret(b, hedef):
             akis.append(Paragraph(f"<b>{x(metin[0])}</b> {x(metin[1])}", govde))
         elif tip == "dipnot":
             akis.append(Paragraph(x(metin), dip))
+        elif tip == "p-sayi":
+            st = Table([[Paragraph(x(metin[0]), solst), Paragraph(x(metin[1]), sagst)]], colWidths=[12.1 * cm, 4 * cm], hAlign="LEFT")
+            st.setStyle(TableStyle([("LEFTPADDING", (0, 0), (-1, -1), 0), ("RIGHTPADDING", (0, 0), (-1, -1), 0), ("TOPPADDING", (0, 0), (-1, -1), 0), ("BOTTOMPADDING", (0, 0), (-1, -1), 0)]))
+            akis.append(st)
+        elif tip.startswith("p-"):
+            akis.append(Paragraph(x(metin), {"p-orta": ortast, "p-sag": sagst, "p-imza": imzast}.get(tip, solst)))
         else:
             akis.append(Paragraph(x(metin), govde))
 
